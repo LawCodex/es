@@ -1,0 +1,14310 @@
+---
+title: "Real Decreto 1599/1997, de 17 de octubre, sobre productos cosméticos"
+identifier: "BOE-A-1997-23067"
+eli: "https://www.boe.es/eli/es/rd/1997/10/17/1599"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Consumo"
+date: 1997-10-17
+published: 1997-10-31
+in_force_from: 1997-11-20
+last_amended: 2018-02-27
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 261"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-23067"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1599/1997, de 17 de octubre, sobre productos cosméticos
+
+Norma derogada, con efectos de 28 de febrero de 2018, por la disposición derogatoria única del Real Decreto 85/2018, de 23 de febrero. [Ref. BOE-A-2018-2693](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-2693). No obstante, hasta que se produzca la regulación específica de los productos de cuidado personal, continuará resultando de aplicación exclusivamente para estos productos de cuidado personal lo dispuesto en los artículos 4, 12, 13, 15, 16 y en el capítulo VII del presente Real Decreto, este último en tanto sea compatible con el régimen de declaración responsable al que está sujeta la actividad de fabricación e importación de productos de cuidado personal, de conformidad con la disposición adicional tercera del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios.
+
+Téngase en cuenta que los términos «preparado» o «preparados» en el sentido del artículo 3, apartado 2, del Reglamento (CE) n.º 1907/2006 en su versión de 30 de diciembre de 2006, se entenderán sustituidos respectivamente por los términos «mezcla» o «mezclas» en todo el texto, según establece el art. único.1 del Real Decreto 944/2010, de 23 de julio. [Ref. BOE-A-2010-12537](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12537).
+
+En 1988 se inicia en España el proceso de incorporación al ordenamiento interno del acervo comunitario sobre productos cosméticos. Se hizo así realidad en nuestro país la libre circulación de estos productos en el mercado único europeo, eliminando el intervencionismo administrativo anterior y garantizando a la vez la salud y seguridad de los consumidores y usuarios mediante el establecimiento de una serie de limitaciones técnicas en la composición de los cosméticos, así como de la información que debe ser puesta a disposición de las autoridades y del público en general.
+
+Con el presente Real Decreto se pretende recoger toda la normativa sobre los productos cosméticos, constituida por los Reales Decretos 349/1988, de 15 de abril; 475/1991, de 5 de abril, y 1415/1995, de 4 de agosto, y quince Órdenes ministeriales y, al mismo tiempo, transponer la Directiva 93/35/CEE, del Consejo, de 14 de junio, que modifica por sexta vez la Directiva marco del Consejo 76/768/CEE, relativa a la aproximación de las legislaciones de los Estados miembros en materia de productos cosméticos, así como las Directivas de la Comisión 95/17/CE, sobre la exclusión de uno o varios ingredientes de la lista prevista para el etiquetado de los productos cosméticos, y la 97/18/CE, por la que se aplaza la fecha a partir de la cual quedan prohibidos los experimentos con animales para ingredientes o combinaciones de ingredientes para productos cosméticos.
+
+La presente disposición se fundamenta en el ejercicio de las atribuciones que la Ley 14/1986, de 25 de abril, General de Sanidad, confiere, en su artículo 40.2, 5 y 6, a la Administración del Estado para determinar, respectivamente, los requisitos sanitarios de las reglamentaciones técnico-sanitarias de los alimentos, servicios o productos directa o indirectamente relacionados con el uso y consumo humano; la reglamentación, autorización, registro y homologación, según proceda, de los medicamentos de uso humano y veterinario y de los demás productos y artículos sanitarios y de aquellos que, al afectar al ser humano puedan suponer un riesgo para la salud de las personas; y la reglamentación y autorización de las actividades de las personas físicas o jurídicas dedicadas a la preparación, elaboración y fabricación de los productos mencionados.
+
+En el mismo sentido, la Ley 25/1990, de 20 de diciembre, del Medicamento, en su disposición adicional tercera.2, establece que el Gobierno podrá determinar, entre otros, los productos cosméticos cuya investigación clínica y uso, en su caso, hayan de ser autorizados, homologados o certificados por el Estado, en razón a su especial riesgo o trascendencia para la salud.
+
+Asimismo, la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios, en su artículo 2, señala entre los derechos básicos de los consumidores la protección contra los riesgos que puedan afectar a su salud o seguridad; en los artículos 3 y 13 asegura la protección de los consumidores contra los riesgos previsibles y determina la obligación de una correcta información sobre los productos de consumo, respectivamente; y en los artículos 4 y 28, apartados 1 y 2, precisa el contenido de los reglamentos reguladores, garantías de pureza, eficacia o seguridad y responsabilidad por los daños originados en el uso o consumo de productos, que son de aplicación a los cosméticos.
+
+De otra parte, se ha de destacar el Real Decreto 1907/1996, de 2 de agosto, sobre publicidad y promoción comercial de productos, actividades o servicios con pretendida finalidad sanitaria, por el que se prohíbe cualquier clase de publicidad o promoción directa o indirecta, masiva o individualizada que atribuyan a los productos cosméticos propiedades distintas de las reconocidas a tales productos, conforme a su normativa especial.
+
+Entre los aspectos novedosos que introduce el presente Real Decreto cabe señalar la información que deben facilitar los responsables de la puesta en el mercado a las autoridades sanitarias a efectos de un tratamiento médico rápido y adecuado en caso de molestias; la obligación de reflejar en el etiquetado los ingredientes empleados en el producto cosmético; la memoria técnica que deben elaborar las empresas y mantener a disposición de la autoridad sanitaria; y la prohibición, a partir del 30 de junio de 2000, de poner en el mercado productos cosméticos que contengan ingredientes o combinaciones de ingredientes experimentados en animales. Destaca también la posibilidad que tienen los fabricantes de solicitar, por razones de confidencialidad comercial, la exclusión de uno o varios de los ingredientes del etiquetado de los productos cosméticos.
+
+El presente Real Decreto se dicta al amparo de lo dispuesto en el artículo 149.1.16.<sup>a </sup>de la Constitución, en relación con el artículo 40.2, 5 y 6, de la Ley 14/1986, de 25 de abril, General de Sanidad, y con la disposición adicional tercera de la Ley 25/1990, de 20 de diciembre, del Medicamento.
+
+El Consejo Interterritorial del Sistema Nacional de Salud ha emitido informe favorable sobre el presente Real Decreto y en su elaboración han sido oídos los sectores afectados.
+
+En su virtud, a propuesta del Ministro de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 17 de octubre de 1997,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+El presente Real Decreto tiene por objeto definir los productos cosméticos, determinar las condiciones técnico-sanitarias que deben reunir, su control sanitario, los requisitos que han de cumplir las instalaciones donde se elaboren y las de importación de productos procedentes de terceros países, la regulación del etiquetado y la publicidad, así como la inspección, las infracciones y las sanciones.
+
+### Artículo 2. Definiciones.
+
+A los efectos de este real decreto, se entiende por:
+
+a) Producto cosmético: toda sustancia o preparado destinado a ser puesto en contacto con las diversas partes superficiales del cuerpo humano (epidermis, sistema piloso y capilar, uñas, labios y órganos genitales externos) o con los dientes y las mucosas bucales, con el fin exclusivo o principal de limpiarlos, perfumarlos, modificar su aspecto y/o corregir los olores corporales y/o protegerlos o mantenerlos en buen estado.
+
+Se consideran, a título indicativo, productos cosméticos los preparados que figuran en el anexo I.
+
+Son productos cosméticos decorativos los que, por poseer sustancias coloreadas y por su poder cubriente, se aplican sobre diferentes zonas del cuerpo para acentuar temporalmente su belleza o enmascarar o disimular diversas imperfecciones cutáneas.
+
+Se consideran, a título indicativo, cosméticos decorativos los que figuran en el anexo V.
+
+b) Puesta en el mercado: el acto de suministrar o poner a disposición de terceros, por primera vez, un producto cosmético, sea o no para transacciones comerciales.
+
+c) Fabricante: se considera fabricante de un producto cosmético aquel que figura como tal en el etiquetado del producto, independientemente de que las actividades de fabricación sean realizadas materialmente por él o sean encargadas a terceros.
+
+d) Responsable de la comercialización en el mercado comunitario de productos cosméticos importados: aquel que figura como tal en el etiquetado del producto cosmético fabricado fuera de la Unión Europea y lo comercializa dentro del mercado comunitario. Debe tener su sede en un país de la Unión Europea.
+
+e) Mandatario: aquel que, sin figurar en el etiquetado del producto como fabricante o como responsable de la comercialización en el mercado comunitario de productos cosméticos importados, realiza en nombre de ellos determinadas actuaciones requeridas por la normativa.
+
+f) Responsable de la puesta en el mercado: persona física o entidad jurídica que, como fabricante, mandatario o responsable de la comercialización en el mercado comunitario de productos cosméticos importados, garantiza la adecuación del cosmético a este real decreto. Debe tener su sede en un país de la Unión Europea.
+
+g) Etiquetado, envases y prospectos: se considera:
+
+1.º Etiquetado: el texto impreso, adherido al recipiente o al embalaje o que cuelgue de ellos, y que contenga información y datos preceptivos del producto.
+
+2.º Recipiente: todo elemento o envase que contiene al producto cosmético y está en contacto directo con él.
+
+3.º Embalaje o envase exterior: caja estuche o cualquier otro sistema que contiene al recipiente y lo protege.
+
+4.º Prospecto: texto impreso incluido opcionalmente dentro del embalaje, que contenga información complementaria e instrucciones de uso del producto cosmético.
+
+h) Ingrediente cosmético: toda sustancia química o preparado de origen sintético o natural, que forme parte de la composición de los productos cosméticos.
+
+> Se modifica por el art. único.1 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+### Artículo 3. Exclusiones.
+
+Quedan excluidos del presente Real Decreto aquellos preparados destinados a la prevención, diagnóstico y tratamiento de enfermedades, así como los destinados a ser ingeridos, inhalados, inyectados o implantados en el cuerpo humano.
+
+Tampoco se consideran cosméticos aquellos preparados destinados a la protección frente a la contaminación o infección por microorganismos, hongos o parásitos.
+
+## CAPÍTULO II — Condiciones técnico-sanitarias de los productos cosméticos
+
+### Artículo 4. Condiciones generales.
+
+1\. Los productos cosméticos que se comercialicen en el territorio comunitario no deberán perjudicar la salud humana cuando se apliquen en las condiciones normales o razonablemente previsibles de uso, teniendo en cuenta, en particular, la presentación del producto, su etiquetado y las eventuales instrucciones de uso y eliminación, así como cualquier otra indicación o información que proceda del fabricante o de su mandatario, o de cualquier otro responsable de la comercialización de dichos productos en el territorio comunitario.
+
+2\. Los riesgos que previsiblemente pudieran derivarse de la normal utilización de los productos cosméticos, habida cuenta de su naturaleza y de las personas a las que van destinados, deberán ser puestos en conocimiento previo de los consumidores, por medio de instrucciones e indicaciones para su uso correcto y de advertencias apropiadas.
+
+No obstante, la presencia de tales advertencias no exime del cumplimiento de las demás obligaciones previstas en la presente disposición.
+
+### Artículo 5. Prohibiciones.
+
+1\. Sin perjuicio de lo establecido en el artículo 4, queda prohibida la puesta en el mercado de los productos cosméticos que contengan:
+
+a) Las sustancias comprendidas en el anexo II de este Real Decreto.
+
+b) Las sustancias comprendidas en el anexo III, en concentraciones superiores y en condiciones diferentes de las establecidas en dicho anexo.
+
+c) Colorantes no incluidos en el anexo IV con excepción de los productos cosméticos que contengan colorantes destinados únicamente a teñir el sistema piloso.
+
+d) Colorantes comprendidos en el anexo IV, en concentraciones superiores y en condiciones diferentes a las establecidas, con excepción de los productos cosméticos que contengan colorantes destinados únicamente a teñir el sistema piloso.
+
+e) Agentes conservadores no incluidos en el anexo VI.
+
+f) Agentes conservadores comprendidos en el anexo VI en concentraciones superiores y en condiciones diferentes de las establecidas en dicho anexo.
+
+g) Filtros ultravioleta no incluidos en el anexo VII.
+
+h) Filtros ultravioleta comprendidos en el anexo VII en concentraciones superiores y en condiciones diferentes de las establecidas en dicho anexo.
+
+i) Sustancias clasificadas como carcinógenas, mutágenas en células germinales o tóxicas para la reproducción de las categorías 1A, 1B y 2, a las que hace referencia la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas. Esta prohibición se llevará a cabo mediante la inclusión de las correspondientes sustancias en el anexo II. No obstante lo indicado, una sustancia clasificada en la categoría 2 podrá utilizarse en la elaboración de cosméticos si ha sido evaluada por el Comité Científico de Seguridad de los Consumidores (CCSC), considerada aceptable para su uso en productos cosméticos e incluida en los anexos de este real decreto.
+
+j) Cualquier otra sustancia o preparado expresamente prohibido por el Ministerio de Sanidad y Consumo, con objeto de asegurar la protección de la salud o la seguridad de las personas.
+
+2\. La presencia de restos de sustancias enumeradas en el anexo II, se tolerará siempre que sea técnicamente inevitable con procedimientos de fabricación correctos y se ajuste a lo dispuesto en el artículo 4.
+
+3\. Sin perjuicio de las condiciones generales derivadas del artículo 4, queda prohibido:
+
+a) La puesta en el mercado de los productos cosméticos cuya formulación final, para cumplir los requisitos de este real decreto, haya sido objeto de ensayos en animales mediante la utilización de un método diferente de un método alternativo después de que este haya sido validado y adoptado en el ámbito de la Unión Europea, teniendo debidamente en cuenta la evolución de la validación en el seno de la OCDE.
+
+b) La puesta en el mercado de productos cosméticos que contengan ingredientes o combinaciones de ingredientes que, para cumplir los requisitos de este real decreto, hayan sido objeto de ensayos en animales mediante la utilización de un método diferente de un método alternativo después de que este haya sido validado y adoptado en el ámbito de la Unión Europea, teniendo debidamente en cuenta la evolución de la validación en el seno de la OCDE.
+
+c) La realización de ensayos en animales de productos cosméticos acabados, para cumplir los requisitos de este real decreto.
+
+d) La realización de ensayos en animales con ingredientes o combinaciones de ingredientes, para cumplir los requisitos de este real decreto, a más tardar en la fecha en que dichos ensayos deban ser sustituidos por uno o varios métodos alternativos validados mencionados en el Reglamento (CE) n.º 440/2008 de la Comisión, de 30 de mayo de 2008, por el que se establecen métodos de ensayo de acuerdo con el Reglamento (CE) n.º 1907/2006 del Parlamento Europeo y del Consejo relativo al registro, la evaluación, la autorización y la restricción de las sustancias y preparados químicos (REACH), o en el anexo IX de este real decreto.
+
+Por lo que respecta a los párrafos a), b) y d), el periodo de aplicación se ajustará a los calendarios presentados por la Comisión Europea al Parlamento y al Consejo, en cumplimiento de los artículos 1.2 y 4 bis.2 de la Directiva 2003/15/CE del Parlamento Europeo y del Consejo, de 27 de febrero de 2003, y quedará limitado a un máximo de seis años a partir del 11 de marzo de 2003.
+
+En relación con los ensayos en materia de toxicidad por administración repetida, toxicidad para la función reproductora y toxicocinética, para los que todavía no existen alternativas en estudio, el periodo de aplicación de lo dispuesto en los párrafos a) y b) de este apartado se ajustará a los calendarios presentados por la Comisión Europea al Parlamento y al Consejo, en cumplimiento de los artículos 1.2 y 4 bis.2 de la Directiva 2003/15/CE, y quedará limitado a un máximo de 10 años a partir del 11 de marzo de 2003.
+
+En circunstancias excepcionales en las que surjan dudas fundadas sobre la seguridad de un ingrediente cosmético, la Agencia Española de Medicamentos y Productos Sanitarios podrá solicitar a la Comisión Europea que autorice una excepción a lo establecido en este apartado. La solicitud deberá contener una evaluación de la situación y señalar las medidas pertinentes. A estos efectos, se considerarán circunstancias excepcionales únicamente si:
+
+1.ª El uso del ingrediente está generalizado y no puede sustituirse por otro ingrediente capaz de desempeñar una función similar.
+
+2.ª Se explica el problema específico para la salud humana y se justifica la necesidad de realizar ensayos con animales, todo ello apoyado por un protocolo de investigación detallado propuesto como base para la evaluación.
+
+4\. A los efectos del apartado 3, se entenderá por:
+
+a) Producto cosmético acabado: el producto cosmético en la formulación final en que vaya a comercializarse y ponerse a disposición del consumidor final, o su prototipo.
+
+b) Prototipo: un primer modelo o diseño no producido en serie y a partir del cual se desarrolla finalmente o se copia el producto cosmético acabado.
+
+> Se modifica la letra i) del apartado 1 y la d) del apartado 3 por el art. único.2 y 3 del Real Decreto 944/2010, de 23 de julio. [Ref. BOE-A-2010-12537](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12537).
+
+> Téngase en cuenta que la modificación del apartado 1.i) entra en vigor el 1 de diciembre de 2010.
+
+> Se modifica la letra i) del apartado 1 y se añaden los apartados 3 y 4 por el art. único.2 y 3 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+> Téngase en cuenta la disposición transitoria 3 del citado Real Decreto en lo referente a la aplicación del apartado 1.i).
+
+> Se modifica la letra i) del apartado 1 por el apartado 1 de la Orden de 3 de agosto de 2000. [Ref. BOE-A-2000-15558](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-15558).
+
+## CAPÍTULO III — Requisitos de información
+
+### Artículo 6. Documentación técnica.
+
+1\. El responsable de la puesta en el mercado tendrá fácilmente accesibles, a disposición de las autoridades competentes, en el domicilio especificado en la etiqueta, de acuerdo con el párrafo b) del apartado 1 del artículo 15, a efectos de control, las informaciones siguientes:
+
+a) La fórmula cualitativa y cuantitativa del producto; en el caso de compuestos perfumantes y de perfumes, dicha información se limitará al nombre y número del código del compuesto y a la identidad del proveedor.
+
+b) Las especificaciones fisicoquímicas y microbiológicas de las materias primas y del producto acabado, así como los criterios de pureza y de control microbiológico de los productos cosméticos.
+
+c) El método de fabricación con arreglo a las prácticas correctas de fabricación previstas por el derecho comunitario, o por las normas de correcta fabricación que en su momento se establezcan. La persona responsable de la fabricación o de la primera importación en el territorio comunitario, deberá presentar un nivel de cualificación adecuado, considerándose suficiente a este respecto la posesión de un título universitario o equivalente, relacionado con la actividad a realizar.
+
+d) La evaluación de la seguridad para la salud humana del producto acabado. Para ello, el fabricante tendrá en cuenta el perfil toxicológico general de los ingredientes, su estructura química y su nivel de exposición. En particular, tendrá en cuenta las características de exposición específicas de las zonas sobre las que se aplicará el producto o de la población a la que va destinado. Deberá realizarse, entre otras cosas, una evaluación específica de los productos cosméticos destinados a ser utilizados en niños menores de tres años y de los productos cosméticos destinados exclusivamente a la higiene íntima externa.
+
+En el caso de un mismo producto fabricado en varios lugares del territorio comunitario, el fabricante podrá elegir uno de los lugares de fabricación en el que estas informaciones estén disponibles.
+
+Tal lugar se comunicará a las autoridades competentes, en caso de solicitarlo, a los efectos de control. En este caso la información deberá ser fácilmente accesible.
+
+e) El nombre, apellidos y dirección de las personas cualificadas, responsables de la evaluación mencionada en el párrafo d). Estas personas deberán poseer un título tal como se define en el artículo 1, a), del Real Decreto 1665/1991, de 25 de octubre, por el que se regula el sistema general de reconocimiento de títulos de enseñanza superior de los Estados miembros que exijan una formación superior mínima de tres años, en los campos de la farmacia, la toxicología, la dermatología, la medicina o una disciplina análoga.
+
+f) Los datos existentes sobre los efectos no deseados para la salud humana provocados por el producto cosmético como consecuencia de su utilización.
+
+g) Las pruebas que demuestren el efecto reivindicado por el producto cosmético, cuando la naturaleza del efecto o del producto lo justifique.
+
+h) La información sobre los experimentos en animales que hayan realizado el fabricante, sus agentes o sus proveedores, en relación con la elaboración o la evaluación de la seguridad del producto o de sus ingredientes, incluyendo cualquier experimento en animales realizado para cumplir las exigencias legislativas o reglamentarias de países no miembros de la Unión Europea.
+
+2\. La evaluación de la seguridad para la salud humana, contemplada en el párrafo d) del apartado 1, se llevará a cabo de conformidad con los principios de buenas prácticas de laboratorio establecidas en el Real Decreto 822/1993, de 28 de mayo, por el que se establecen los principios de buenas prácticas de laboratorio y su aplicación en la realización de estudios no clínicos sobre sustancias y productos químicos.
+
+3\. Las informaciones contempladas en el apartado 1 deberán estar disponibles al menos en la lengua española oficial del Estado. No obstante, podrá aceptarse las lenguas francesa o inglesa en la documentación científica especializada que soporte la información técnica. En este caso, si existiese duda motivada para evaluar dicha información, se podrá exigir la presentación en la lengua oficial del Estado de cuanta información resulte necesaria.
+
+4\. Los ciudadanos podrán conocer la información indicada en los párrafos a) y f) del apartado 1, sin perjuicio de la protección del secreto comercial y del derecho de propiedad intelectual, conforme a lo previsto en el artículo 15.7. A estos efectos, el responsable de la puesta en el mercado dispondrá de sistemas de registro y gestión de las consultas de los consumidores, a disposición de las autoridades competentes.
+
+La información cuantitativa que deberá ponerse a disposición de los consumidores, en lo referente a lo dispuesto en el apartado 1.a) se limitará a las sustancias que reúnan los criterios de cualquiera de las siguientes clases o categorías de peligro establecidas en el anexo I del Reglamento (CE) n.º 1272/2008:
+
+a) clases de peligro 2.1 a 2.4, 2.6, 2.7, 2.8 tipos A y B, 2.9, 2.10, 2.12, 2.13 categorías 1 y 2, 2.14 categorías 1 y 2, 2.15 tipos A a F;
+
+b) clases de peligro 3.1 a 3.6, 3.7 efectos adversos sobre la función sexual y la fertilidad o sobre el desarrollo, 3.8 efectos distintos de los narcóticos, 3.9 y 3.10;
+
+c) clase de peligro 4.1;
+
+d) clase de peligro 5.1.
+
+En cuanto a la información indicada en el apartado 1.f), el responsable de la puesta en el mercado de un producto cosmético dispondrá de un sistema de registro y gestión de los efectos adversos producidos.
+
+El Ministerio de Sanidad y Consumo establecerá el procedimiento adecuado que garantice que el consumidor recibe la información a que se refiere este apartado.
+
+> Se modifica el apartado 4, párrafo segundo por el art. único.4 del Real Decreto 944/2010, de 23 de julio. [Ref. BOE-A-2010-12537](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12537).
+
+> Se modifica el apartado 1 y se añade el 4 por el art. único.4 y 5 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+### Artículo 7. Registro de responsables de puesta en el mercado.
+
+El responsable de la puesta en el mercado enviará relación de los productos cosméticos fabricados en España y/o importados en España, junto con los lugares de fabricación y/o importación de los mismos a las autoridades sanitarias de la Comunidad Autónoma donde esté establecida su sede social, antes de su comercialización en el mercado comunitario.
+
+Esta relación se presentará por duplicado y uno de los ejemplares será trasladado a la Agencia Española de Medicamentos y Productos Sanitarios por la comunidad autónoma correspondiente. En la misma forma se comunicarán las modificaciones que afecten a los datos facilitados en relación con lo dispuesto en este artículo.
+
+Esta información podrá ser presentada de forma electrónica a través del sistema informático de la Agencia Española de Medicamentos y Productos Sanitarios.
+
+En el caso de que el responsable no tenga establecida su sede social en España, esta relación se enviará a la Dirección General de Farmacia y Productos Sanitarios.
+
+Cuando un responsable establecido en España fabrique sus productos en otro Estado miembro de la Unión Europea comunicará los lugares de fabricación a las autoridades competentes de dicho país comunitario.
+
+> Se modifica el párrafo segundo por el art. único.6 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+### Artículo 8. Información a efectos de tratamiento médico.
+
+1\. Con objeto de proporcionar un rápido y adecuado tratamiento médico en caso de molestias, el responsable de la puesta en el mercado de un producto cosmético deberá facilitar a la Agencia Española de Medicamentos y Productos Sanitarios, no más tarde del día en que se haga efectiva la puesta en el mercado en España, la siguiente información:
+
+a) Denominación del producto, que incluirá la marca y el nombre específico del producto. El nombre específico puede coincidir con la función del producto.
+
+b) Composición cuantitativa. Se relacionarán todos los ingredientes en orden decreciente de concentración, de acuerdo con la Nomenclatura internacional de ingredientes cosméticos (en adelante, INCI), que figura en el Inventario de ingredientes cosméticos, adoptado por la Decisión 96/335/CE de la Comisión, de 8 de mayo de 1996, y, en su ausencia, de acuerdo con las reglas de nomenclatura internacionales que permitan su identificación.
+
+c) Constantes fisicoquímicas que puedan ser relevantes a efectos de tratamiento médico y descripción del producto.
+
+d) Prospectos y, en caso de que no existieran o de que no apareciesen en ellos las menciones exigidas en el artículo 15, etiquetado del recipiente y embalaje.
+
+Estos datos se introducirán en un sobre que, junto con un escrito de remisión, se dirigirá a la Agencia Española de Medicamentos y Productos Sanitarios. Calle de Alcalá n.º 56, 28071 Madrid. En el exterior del sobre y en el escrito de remisión deberán constar los siguientes datos:
+
+1.º Nombre y dirección del responsable de la puesta en el mercado.
+
+2.º Denominación del producto, que incluirá la marca y el nombre específico del producto.
+
+3.º Fecha de presentación en el registro de la Administración.
+
+La copia del escrito, sellada por el Registro general de la Agencia Española de Medicamentos y Productos Sanitarios o por cualquiera de los órganos señalados en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, servirá de comprobante de la presentación.
+
+En el caso de cambio de denominación del producto, se presentará nueva información a efectos de tratamiento médico, que indicará su nueva denominación y la fecha de presentación de la información a la que sustituye.
+
+En el caso de cambio de responsable de la puesta en el mercado, el nuevo responsable presentará nueva información a efectos de tratamiento médico. El responsable inicial del producto deberá comunicar la anulación de la primera información a efectos de tratamiento médico, y será responsable del producto mientras este continúe en el mercado.
+
+Cuando se produzcan otras modificaciones, composición cuantitativa, fórmula marco, constantes fisicoquímicas, prospectos o etiquetado, cambio de persona de contacto o de sus datos, se comunicará haciendo referencia a la información presentada anteriormente, y se citará la denominación del producto, la fecha de presentación de la información en el registro de la Administración y el nombre del responsable de la información.
+
+2\. A los 10 años de haberse proporcionado la información recogida en el apartado 1, el responsable de la puesta en el mercado de un producto cosmético deberá comunicar su intención de mantenerlo en el mercado, ya que, en caso contrario, se considerará que ha cesado la comercialización del producto.
+
+3\. Esta información podrá ser presentada de forma electrónica a través del sistema informático de la Agencia Española de Medicamentos y Productos Sanitarios.
+
+4\. El responsable de la puesta en el mercado podrá sustituir la información indicada en el apartado 1.b) por la referencia a la fórmula marco correspondiente, conforme a un sistema de fórmulas marco igualmente efectivo y aceptado en el ámbito comunitario, que incluirá en todo caso a una persona de contacto.
+
+Si el responsable de la puesta en el mercado opta por proporcionar la referencia a la fórmula marco, igualmente podrá sustituir la presentación de la información indicada en el apartado 1.d) por toda la información que figura en el etiquetado que identifique totalmente el producto y los datos correspondientes a una persona de contacto permanente, con conocimiento del idioma español. Esta información deberá permitir al Servicio de Información Toxicológica y a las autoridades sanitarias identificar el producto implicado y precisar cuantos datos sean necesarios a los efectos de este artículo.
+
+Si el responsable de la puesta en el mercado opta por proporcionar las fórmulas marco pero no dispone de personal de contacto permanente con conocimiento del idioma español, no podrá prescindir de aportar la información indicada en el apartado 1.d).
+
+> Se modifica por el art. único.7 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 88, de 13 de abril de 2005. [Ref. BOE-A-2005-5877](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-5877).
+
+### Artículo 9. Declaraciones especiales.
+
+1\. La Dirección General de Farmacia y Productos Sanitarios podrá autorizar con carácter excepcional el empleo en productos cosméticos de colorantes, agentes conservadores o filtros ultravioletas que no estén incluidos en los anexos de este Real Decreto.
+
+En estos supuestos deberá presentarse una declaración especial en la que figurarán los datos siguientes:
+
+a) El nombre o la razón social y la dirección o sede social del fabricante y del responsable de la puesta en el mercado del producto cosmético.
+
+b) Identificación completa y titulación del técnico responsable a que se refiere el artículo 18.
+
+c) Número de la autorización a que se refiere el artículo 18.1.
+
+d) Denominación del producto cosmético y la categoría a la que pertenece, de acuerdo con las contempladas en el anexo 1 o con la clasificación que en su caso se establezca.
+
+e) Composición cuantitativa, en orden decreciente, de las concentraciones expresadas por la denominación INCI o, en su ausencia, de acuerdo con las reglas de nomenclatura internacionales que permitan su identificación.
+
+f) Etiquetado y prospectos o, en su defecto, un boceto de los mismos en el que se incluirán los textos que figurarán en el producto puesto en el mercado.
+
+g) Contenido neto en el momento del envasado, de acuerdo con los contenidos máximos y los volúmenes señalados, en su caso, por la legislación vigente.
+
+h) Cuando se trate de productos cosméticos extranjeros se incluirá, además, la autorización de comercialización o el certificado de libre venta expedido por la autoridad competente del país de origen, pudiéndose recabar cualquier otra información adicional de dicha autoridad.
+
+i) Memoria del producto que incluya las informaciones recogidas en el apartado 1 del artículo 6, excepto el párrafo a).
+
+j) Cumplimiento de un programa de seguimiento que acredite la inocuidad en su uso, por la entidad que lo declare, de acuerdo con los requisitos que establezca la Dirección General de Farmacia y Productos Sanitarios.
+
+k) La justificación de la formulación que motiva la declaración especial.
+
+2\. La Agencia Española de Medicamentos y Productos Sanitarios deberá pronunciarse sobre la declaración especial presentada en los plazos establecidos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Si la documentación presentada no permitiese, a juicio de la Administración, una evaluación adecuada del producto y se requiera al declarante para la presentación de ensayos, documentos y otros elementos de juicio necesarios, el plazo de resolución quedará suspendido hasta su recepción. El procedimiento quedará igualmente suspendido cuando se requiera al declarante para la subsanación de deficiencias en la documentación presentada, hasta su cumplimentación por el declarante.
+
+3\. La declaración especial surtirá efecto durante un período máximo de tres años, a partir de la fecha de pronunciamiento favorable. El producto objeto de tal declaración se identificará en su etiquetado de forma que se diferencie del resto de los productos cosméticos. Dicho período se ampliará en caso de que se haya iniciado el correspondiente procedimiento comunitario de inclusión de la sustancia en alguno de los anexos, hasta el momento que se adopte decisión sobre la misma.
+
+4\. Cualquier declaración especial sobre la que recaiga pronunciamiento favorable se trasladará a las autoridades sanitarias de las Comunidades Autónomas.
+
+5\. Siempre que la Dirección General de Farmacia y Productos Sanitarios lo considere necesario para la protección de la salud y seguridad de las personas, podrá aplicarse el sistema de declaración especial a cualquier producto cosmético que contenga otras sustancias distintas de las señaladas en el apartado 1.
+
+6\. Cualquier declaración especial sobre la que recaiga pronunciamiento favorable se comunicará a la Comisión de la Unión Europea en un plazo de sesenta días desde la fecha de pronunciamiento.
+
+> Se modifica el apartado 2 por el art. único.8 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+### Artículo 10. Registro.
+
+La Dirección General de Farmacia y Productos Sanitarios mantendrá registros actualizados con las informaciones suministradas en cumplimiento de los artículos 7, 8 y 9, garantizando su confidencialidad.
+
+Las informaciones del registro de responsables de la puesta en el mercado y de las declaraciones especiales se mantendrán a disposición de las autoridades sanitarias de las Comunidades Autónomas. Las informaciones a efecto de tratamiento médico se mantendrán a disposición del Instituto Nacional de Toxicología.
+
+## CAPÍTULO IV — Actuaciones de las Administraciones públicas
+
+### Artículo 11. Facultad de actuación.
+
+1\. Las autoridades sanitarias competentes tomarán las medidas oportunas para que sólo se comercialicen productos cosméticos que cumplan el presente Real Decreto.
+
+2\. Sin perjuicio de las actuaciones de otras Administraciones sanitarias, la Dirección General de Farmacia y Productos Sanitarios, fundándose en razones de necesidad o urgencia, podrá prohibir la puesta en el mercado, ordenar la retirada o someter a condiciones especiales a cualquier producto cosmético que, aun cumpliendo los requisitos establecidos en este Real Decreto, presente un riesgo para la salud y la seguridad de las personas en las condiciones normales o previsibles de utilización. Cualquiera de estas medidas tendrá carácter provisional y de las mismas se informará inmediatamente a la Comisión de la Unión Europea y a las autoridades competentes de los Estados miembros.2. Sin perjuicio de las actuaciones de otras Administraciones sanitarias y de las actuaciones que procedan conforme a lo establecido en el artículo 26 de la Ley 14/1986, de 25 de abril, General de Sanidad, la Agencia Española de Medicamentos y Productos Sanitarios, fundándose en razones justificadas, podrá prohibir la puesta en el mercado, ordenar la retirada o someter a condiciones especiales a cualquier producto cosmético que, aun cumpliendo los requisitos establecidos en este real decreto, presente un riesgo para la salud y la seguridad de las personas en las condiciones normales o previsibles de utilización. La Agencia Española de Medicamentos y Productos Sanitarios informará inmediatamente a las autoridades sanitarias de las comunidades autónomas, a la Comisión Europea y a las autoridades competentes de los Estados miembros.
+
+3\. Las resoluciones que se adopten conforme a lo indicado en el apartado anterior tendrán carácter provisional y a tal efecto se instruirá el correspondiente procedimiento administrativo, de conformidad con la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Contra la resolución que ponga fin al procedimiento instruido cabrá interponer recurso de alzada conforme a lo establecido en el artículo 114 de la Ley 30/1992, de 26 de noviembre.
+
+> Se modifican los apartados 2 y 3 por el art. único.9 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+### Artículo 12. Confidencialidad.
+
+Las autoridades competentes y el Instituto Nacional de Toxicología asegurarán la confidencialidad de cualquier información obtenida en el ejercicio de sus funciones.
+
+### Artículo 13. Inspección.
+
+1\. Las Administraciones públicas competentes efectuarán inspecciones periódicas para verificar el cumplimiento de lo dispuesto en este Real Decreto.
+
+2\. Las autoridades de la Administración General del Estado y de las Comunidades Autónomas competentes, se auxiliarán mutuamente a efectos de inspección.
+
+En el seno del Consejo Interterritorial del Sistema Nacional de Salud, se adoptarán las medidas adecuadas para favorecer la cooperación y asistencia mutua entre las autoridades sanitarias estatales y autonómicas; asimismo, podrán establecerse programas específicos de control con referencias a la naturaleza, extensión, intensidad y frecuencia de los controles a efectuar.
+
+3\. Para el control de los productos, las Administraciones sanitarias competentes podrán concertar acuerdos, convenios o contratos con empresas públicas o privadas. En estos casos, las Administraciones sanitarias asegurarán la confidencialidad de las informaciones obtenidas.
+
+> Se añade el apartado 3 por el art. único.10 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+### Artículo 14. Cooperación con las autoridades de los Estados miembros.
+
+A los fines de colaboración mutua citados en el párrafo 5, apartado 12, del artículo 1 de la Directiva 93/35/CEE, la Dirección General de Farmacia y Productos Sanitarios remitirá las informaciones solicitadas por las autoridades competentes de cualquier Estado miembro de la Unión Europea.
+
+Igualmente, cuando resulte necesario recabar información sobre productos cosméticos a otro Estado miembro, la Dirección General de Farmacia y Productos Sanitarios, lo solicitará a las autoridades del Estado miembro correspondiente.
+
+## CAPÍTULO V — Etiquetado y publicidad
+
+### Artículo 15. Etiquetado.
+
+1\. En los recipientes y embalajes de todo producto cosmético puesto en el mercado deberán figurar, con caracteres indelebles, fácilmente legibles y visibles, las menciones siguientes:
+
+a) Denominación del producto.
+
+b) El nombre o la razón social y la dirección o el domicilio social del fabricante, o en el caso de los productos cosméticos importados, el nombre o la razón social y la dirección o el domicilio social del responsable de la puesta en el mercado del producto establecido dentro del territorio comunitario. Estas menciones podrán abreviarse siempre y cuando su abreviatura permita, en términos generales, identificar a la empresa.
+
+c) El contenido nominal en el momento del acondicionamiento, indicado en peso o en volumen, salvo para los envases que contengan menos de 5 g o menos de 5 ml, las muestras gratuitas y las dosis únicas; respecto a los productos preenvasados, que se comercializan habitualmente por conjuntos de unidades y para los que no es significativa la indicación del peso o del volumen, no será necesario indicar el contenido, siempre que se mencione en el envase el número de piezas. Esta mención no será necesaria cuando sea fácil determinar desde el exterior el número de piezas o si el producto sólo se comercializa normalmente por unidades sueltas.
+
+d) La fecha de caducidad mínima: la fecha de caducidad mínima de un producto cosmético es la fecha hasta la cual dicho producto, conservado en condiciones adecuadas, continúa cumpliendo su función inicial y, en particular, sigue cumpliendo las exigencias previstas en el artículo 4.1.
+
+La fecha de caducidad mínima se indicará mediante la mención «utilícese preferentemente antes de final de...», indicándose a continuación: o bien la propia fecha, o bien la indicación del lugar del etiquetado donde figura.
+
+En caso de necesidad, estas menciones se completarán con la indicación de las condiciones que permitan garantizar la duración indicada.
+
+La fecha se compondrá de la indicación, de forma clara y ordenada, del mes y del año. Para los productos cosméticos cuya vida mínima exceda de treinta meses, la indicación de la fecha de caducidad no será obligatoria. Para estos productos se indicará el plazo después de su apertura durante el cual pueden utilizarse sin ningún riesgo para el consumidor. Esta información se indicará mediante el símbolo previsto en el anexo VIII bis, seguido del plazo en meses y/o años.
+
+e) Las precauciones particulares de empleo y especialmente las indicadas en la columna «Condiciones de empleo y advertencias que deben figurar obligatoriamente en el etiquetado», de los anexos III, IV, VI y VII que deben figurar en el recipiente y embalaje, así como eventuales indicaciones relativas a las precauciones particulares que deban observarse con los productos cosméticos de uso profesional, en particular los destinados a los peluqueros. Cuando esto no fuera posible en la práctica, estas indicaciones habrán de consignarse en una nota, una etiqueta, una banda o una tarjeta adjuntas, a las cuales se remitirá al consumidor, bien mediante una indicación abreviada o bien por el símbolo del anexo VIII, que deberá figurar en el recipiente y en el embalaje.
+
+f) El número de lote de fabricación o la referencia que permita la identificación de la fabricación. Cuando esto no fuera posible en la práctica, debido a las reducidas dimensiones de los productos cosméticos, esta mención sólo deberá figurar en el embalaje.
+
+g) País de origen cuando se trate de productos cosméticos fabricados fuera del territorio comunitario.
+
+h) La función del producto, salvo si se desprende de su presentación.
+
+i) La lista de ingredientes por orden decreciente de importancia ponderal en el momento de su incorporación. Esta lista irá precedida de la palabra "ingredientes" o "ingredients". En caso de que fuera imposible en la práctica, los ingredientes figurarán en una nota, una etiqueta, una banda o una tarjeta adjuntas, a las cuales se remitirá al consumidor, bien mediante una indicación abreviada, bien por el símbolo del anexo VIII que deberán figurar en el embalaje.
+
+Sin embargo, no se considerarán ingredientes:
+
+1.º Las impurezas contenidas en las materias primas utilizadas.
+
+2.º Las sustancias técnicas subsidiarias utilizadas durante la fabricación, pero que ya no se encuentran en el producto acabado.
+
+3.º Las sustancias utilizadas en las cantidades estrictamente indispensables como disolventes o soportes de los compuestos perfumantes y aromá­ticos.
+
+Los compuestos perfumantes y aromáticos, así como sus materias primas, se mencionarán con la palabra "perfume" o "parfum" y "aroma", respectivamente. No obstante, la presencia de sustancias cuya mención es obligatoria en la columna "Otras limitaciones y exigencias" del anexo III se indicarán en la lista independientemente de su función en el producto.
+
+Los ingredientes de concentración inferior al uno por ciento podrán mencionarse sin orden después de los que tengan una concentración superior a dicho porcentaje. Los colorantes podrán mencionarse sin orden después de los demás ingredientes, mediante el número del "Colour Index" o de la denominación que figura en el anexo IV.
+
+Para los productos cosméticos decorativos comercializados con diferentes matices de colores, podrá mencionarse el conjunto de los colorantes utilizados en la gama, siempre que se añadan las palabras "puede contener" o el símbolo "+/-.
+
+El fabricante podrá solicitar, por razones de confidencialidad comercial, la exclusión de uno o de varios ingredientes de dicha lista, de acuerdo con lo establecido en el artículo 17.
+
+2\. Las indicaciones a que se refieren los párrafos d), e) y h) del apartado 1 deberán figurar al menos en la lengua española oficial del Estado.
+
+3\. Las indicaciones a que se refieren los párrafos a), b) y f) del apartado 1 podrán expresarse en las lenguas nacionales u oficiales de origen, cuando el producto proceda de países del territorio comunitario.
+
+4\. Los ingredientes de la lista a que se refiere el apartado 1.i) se expresarán por su denominación INCI, tal como figura en el inventario de ingredientes cosméticos adoptado por decisión de la Comisión Europea y, en su ausencia, de acuerdo con las reglas de nomenclatura internacionales que permitan su identificación.
+
+No obstante, cuando la grafía o la consonancia de un término de la nomenclatura común se aparte sensiblemente de un término inteligible por los consumidores, la Dirección General de Farmacia y Productos Sanitarios podrá determinar la redacción conveniente.
+
+5\. Los responsables de los productos cosméticos que se presenten sin envase previo o que se envasen en el lugar de venta a petición del comprador o que se envasen previamente para su venta inmediata, dispondrán de etiquetas o prospectos ajustados a los requisitos del apartado 1 del presente artículo que se adherirán a los envases de los productos o acompañarán a los mismos en el momento de su entrega al consumidor.
+
+6\. En el caso del jabón y de las perlas para el baño, así como de otros pequeños productos, cuando debido al tamaño o a la forma, resulte imposible hacer figurar las indicaciones contempladas en el párrafo i) del apartado 1 en una etiqueta, una banda, una tarjeta o una nota adjuntas, dichas indicaciones deberán figurar en un rótulo situado muy cerca del lugar en el que se ofrezca a la venta el producto cosmético.
+
+7\. A los efectos de lo establecido en el artículo 6.4, el responsable de la puesta en el mercado podrá consignar en el etiquetado un teléfono de atención al consumidor y/o una dirección de correo electrónico, una página web o cualquier otro dato de la empresa donde los consumidores puedan dirigirse para obtener la citada información.
+
+> Se modifican los apartados 1.i) y 4 y se añade el 7 por el art. único.11 a 13 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+> Se añade un inciso al apartado 1.d) por el art. único.1 del Real Decreto 2131/2004, de 29 de octubre. [Ref. BOE-A-2004-18574](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-18574).
+
+### Artículo 16. Publicidad.
+
+1\. Sin perjuicio de lo establecido en las normas reguladoras de la publicidad, el texto, denominaciones, marcas, imágenes y otros signos, gráficos o no, que figuren en el etiquetado, los prospectos y la publicidad de los productos cosméticos no atribuirán a estos características, propiedades o acciones que no posean o que excedan de las funciones cosméticas señaladas en el artículo 2, como propiedades curativas, afirmaciones falsas o que induzcan a error.
+
+2\. El responsable de la puesta en el mercado del producto cosmético sólo podrá mencionar en el envase del producto, o en cualquier documento, rótulo, etiqueta, anilla o collarete que acompañe o se refiera a dicho producto, que no ha sido experimentado en animales, cuando ni el fabricante ni sus proveedores hayan realizado o encargado experimentos en animales del producto acabado, su prototipo o alguno de los ingredientes que lo componen, ni hayan utilizado algún ingrediente que haya sido experimentado por terceros en animales para desarrollar nuevos productos cosméticos. A estos efectos, el Ministerio de Sanidad y Consumo publicará las directrices que se adopten en el marco comunitario.
+
+3\. Las denominaciones de los productos cosméticos no podrán ser iguales, semejantes o inducir a confusión con medicamentos, especialidades farmacéuticas, productos sanitarios, biocidas o productos alimenticios, ni hacer referencia a nombres de patologías.
+
+4\. La forma, aspecto, color, olor, presentación o etiquetado de los productos cosméticos o de sus envases, así como las imágenes y alusiones efectuadas en la publicidad, serán tales que no puedan dar lugar a confusión con alimentos u otros productos de consumo, con el fin de evitar riesgos para la salud o la seguridad de los consumidores.
+
+5\. La presentación de los artículos destinados a utilizarse en el baño y normalmente con las manos mojadas no debe realizarse en envases de vidrio o de cualquier otro material que se rompa con facilidad al golpearse y pueda ocasionar cortes o heridas.
+
+6\. Las Administraciones públicas, en el ámbito de sus competencias, realizarán un control de la publicidad y propaganda comerciales para que se ajusten a criterios de veracidad en lo que afecta a la salud, y limitarán todo aquello que pueda constituir un perjuicio para ella, así como en lo que afecta a la experimentación animal, y vigilarán el cumplimiento de lo señalado en este artículo.
+
+La Agencia Española de Medicamentos y Productos Sanitarios vigilará el cumplimiento de lo establecido en este artículo, y para ello podrá adoptar las medidas previstas en el artículo 11.
+
+> Se modifica por el art. único.14 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+## CAPÍTULO VI — Confidencialidad
+
+### Artículo 17. Confidencialidad de ingredientes.
+
+1\. Podrán ponerse en el mercado en España, productos cosméticos en cuyo etiquetado, por razones de confidencialidad comercial, figure sustituyendo al nombre de alguno de sus ingredientes, el número de registro otorgado por algún Estado miembro, de acuerdo con lo establecido en el anexo IX.
+
+2\. A tales efectos, el Ministerio de Sanidad y Consumo, a través de la Dirección General de Farmacia y Productos Sanitarios reconocerá las decisiones sobre confidencialidad adoptadas por las autoridades del resto de los Estados miembros, pudiendo solicitar en caso necesario una copia del expediente que incluya la solicitud de confidencialidad y la decisión de la autoridad competente del Estado miembro que otorgó la confidencialidad. No obstante, tras haber tenido conocimiento de esta información, la Dirección General de Farmacia y Productos Sanitarios podrá impugnar una decisión tomada por la autoridad competente de otro Estado miembro, solicitando a la Comisión de la Unión Europea que adopte una decisión según el procedimiento previsto en el artículo 10 de la Directiva 76/768/CEE.
+
+3\. La Dirección General de Farmacia y Productos Sanitarios comunicará igualmente a la Comisión de la Unión Europea y a los demás Estados miembros, las decisiones que adopte sobre la concesión o la prórroga del derecho a la confidencialidad, indicando el nombre o la razón social y la dirección o la sede social de los solicitantes, los nombres de los productos cosméticos que contienen el ingrediente para el que se haya concedido la confidencialidad, así como el número de registro otorgado.
+
+Asimismo, informará a la Comisión y a los demás Estados miembros de sus decisiones motivadas de denegación o de retirada de la concesión de la confidencialidad o de denegación de la prórroga de la confidencialidad.
+
+4\. En las decisiones en materia de confidencialidad comercial, se tendrá en cuenta:
+
+a) La evaluación de la seguridad para la salud humana del ingrediente tal como se utiliza en el(los) producto(s) terminado(s) teniendo en cuenta el perfil toxicológico, la estructura química y el nivel de exposición del ingrediente según las condiciones especificadas en los párrafos d) y e) del apartado 1 y el apartado 2 del artículo 6 de la presente disposición.
+
+b) La utilización prevista del ingrediente y, en particular, las diferentes categorías de productos en los que será utilizado.
+
+c) La justificación de los motivos por los que se solicita de manera excepcional la confidencialidad, por ejemplo:
+
+1.° El hecho de que la identidad del ingrediente o su función en el producto cosmético que se va a comercializar no estén descritas en ninguna publicación y no sea conocida por la ciencia en su estado actual.
+
+2.° El hecho de que la información no sea todavía de dominio público, aunque se haya solicitado una patente para el ingrediente o su utilización.
+
+3.° El hecho de que si se conociera la información sería fácilmente reproducible en perjuicio del solicitante.
+
+La decisión por la que se otorgue el derecho a la confidencialidad tendrá una duración de cinco años y podrá ser prorrogado, por razones justificadas por un plazo máximo de tres años.
+
+5\. El responsable de la puesta en el mercado que desee beneficiarse de la exclusión de un ingrediente en el etiquetado de productos cosméticos deberá justificar documentalmente los aspectos mencionados en el apartado 4 del presente artículo, aportando además:
+
+a) La identificación precisa del ingrediente para el que se solicita la confidencialidad, a saber:
+
+1.° La denominación INCI, los números CAS, EINECS, y Colour Index, la denominación química, la denominación IUPAC, la denominación de la Farmacopea Europea, y la denominación de la nomenclatura común internacional de la Organización Mundial de la Salud.
+
+2.° La denominación ELINCS y el número oficial que le haya sido asignado en caso de notificación con arreglo al Real Decreto 363/1995, de 10 de marzo, por el que se aprueba el Reglamento sobre sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas, así como la indicación de la concesión o denegación de la confidencialidad sobre la base de este mismo Real Decreto.
+
+3.° De no existir las denominaciones y los números mencionados en los párrafos 1.° y 2.°, por ejemplo, en el caso de determinados ingredientes de origen natural, se indicará el nombre del material básico, el nombre de la parte de la planta o animal utilizado, los nombres de los componentes del ingrediente, tales como disolventes.
+
+b) Si se conoce el nombre de cada producto que contendrá el ingrediente y si se van a utilizar nombres diferentes en el mercado comunitario, indicaciones precisas sobre cada uno de ellos.
+
+Si todavía no se conoce el nombre del producto, podrá comunicarse posteriormente, pero esta comunicación deberá hacerse, al menos, quince días antes de la comercialización.
+
+En caso de que el ingrediente se utilice en varios productos, será suficiente con una única solicitud, siempre que estos productos se indiquen claramente a la autoridad competente.
+
+c) Una declaración en la que se especifique si se ha presentado una solicitud a la autoridad competente de otro Estado miembro en relación con el ingrediente para el que se solicita la confidencialidad y una información sobre los resultados de dicha solicitud.
+
+6\. Las decisiones se referirán a un único ingrediente, y se especificarán los productos cosméticos en los que va a ser utilizado en el mercado comunitario.
+
+Tales decisiones se adoptarán en los plazos establecidos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y se comunicarán al interesado junto con el número de registro asignado al ingrediente.
+
+7\. Contra la denegación de la confidencialidad podrá interponerse recurso de alzada, de conformidad con lo establecido en el artículo 114 de la Ley 30/1992, de 26 de noviembre.
+
+8\. Todas las modificaciones en los datos aportados deberán ser comunicadas lo más rápidamente posible a la Agencia Española de Medicamentos y Productos Sanitarios. Cuando se trate de cambios de nombre de los productos cosméticos en los que se integre el ingrediente, deberán comunicarse a la Agencia Española de Medicamentos y Productos Sanitarios, al menos, 15 días antes de su comercialización bajo sus nuevos nombres.
+
+En función de las modificaciones mencionadas o si nuevos elementos así lo exigieran, en particular por razones imperativas de salud pública, la Agencia Española de Medicamentos y Productos Sanitarios podrá retirar mediante resolución motivada la concesión de confidencialidad. Contra esta resolución podrá interponerse recurso de alzada de conformidad con lo establecido en el artículo 114 de la Ley 30/1992, de 26 de noviembre.
+
+> Se modifican los apartados 6, 7 y 8 por el art. único.15 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+## CAPÍTULO VII — Actividades de fabricación e importación
+
+### Artículo 18. Autorización de actividades.
+
+1\. Las personas físicas o jurídicas que realicen materialmente la fabricación de productos cosméticos o alguna de sus fases, como el control, acondicionado, envasado o etiquetado, en territorio nacional, deberán estar previamente autorizadas por la Agencia Española de Medicamentos y Productos Sanitarios.
+
+Esta autorización se exigirá también a los importadores de productos cosméticos procedentes de países no comunitarios.
+
+Para la obtención de esta autorización, la persona física o jurídica que desarrolle la actividad la solicitará de la Agencia Española de Medicamentos y Productos Sanitarios, la cual resolverá sobre la solicitud en los plazos establecidos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Si la documentación presentada no permitiese, a juicio de la Administración, una evaluación adecuada de las actividades, se requerirá al solicitante para la presentación de documentos y otros elementos de juicio necesarios; en este caso, el plazo de resolución quedará suspendido hasta la recepción de estos. El procedimiento quedará igualmente suspendido cuando se requiera al solicitante para la subsanación de deficiencias en la documentación presentada, hasta su cumplimentación por el solicitante.
+
+Examinada la documentación presentada junto a la solicitud, la Agencia Española de Medicamentos y Productos Sanitarios solicitará un informe de inspección sobre las condiciones en que las empresas pretenden desarrollar las actividades relacionadas en este apartado, y ordenará a estos efectos las inspecciones de las instalaciones de dichas empresas que se consideren necesarias. Dado que el informe solicitado es determinante del contenido de la resolución que deba adoptarse, su petición suspenderá el transcurso del plazo máximo de resolución por el tiempo que medie entre la petición del informe y su recepción, conforme a lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Las autorizaciones tendrán un periodo máximo de validez de cinco años. Transcurrido dicho plazo, deberá solicitarse su revalidación, con una antelación mínima de tres meses al vencimiento del plazo por el que fue otorgada. En el caso de revalidación, esta podrá otorgarse tras verificar la Administración que se cumplen los requisitos necesarios para ser nuevamente autorizada.
+
+Para el procedimiento de modificación de la autorización se estará, en todo aquello que resulte de aplicación, a lo dispuesto en este artículo.
+
+2\. Para obtener la autorización previa de la Agencia Española de Medicamentos y Productos Sanitarios para las actividades previstas en este artículo, las personas físicas o jurídicas que lo soliciten deben cumplir los siguientes requisitos:
+
+a) Disponer de un técnico responsable con una cualificación adecuada, que supervise la actividad de fabricación y/o importación de cosméticos y garantice que los productos cumplen con los requisitos exigidos en la normativa vigente. A los efectos de valorar la idoneidad del técnico responsable, se considerará suficiente la posesión de un título universitario o de un título oficial equivalente, relacionados con las actividades que se vayan a realizar, cuyo nombramiento será comunicado a la Agencia Española de Medicamentos y Productos Sanitarios.
+
+b) Disponer de una estructura organizativa capaz de garantizar la calidad de los cosméticos fabricados y/o importados, así como la ejecución de los controles que procedan, teniendo en cuenta lo especificado en el artículo 6.
+
+c) Disponer de instalaciones, procedimientos, equipamiento y personal suficiente con cualificación adecuada para la fabricación, control y conservación de los productos cosméticos que fabrique y/o importe. Dichas instalaciones deberán contar con áreas diferenciadas para desarrollar, en su caso, las siguientes actividades:
+
+1.º Fabricación: con las instalaciones y medios necesarios para la elaboración y acondicionado de los productos en condiciones higiénico sanitarias adecuadas.
+
+2.º Control: con las instalaciones, los medios, equipos, útiles de laboratorio, reactivos y patrones necesarios para garantizar la calidad de las materias primas, productos intermedios y productos terminados, así como la del material de acondicionamiento.
+
+3.º Almacenamiento: para materias primas, productos intermedios, productos terminados y material de acondicionamiento.
+
+d) Disponer y aplicar procedimientos escritos de trabajo donde se recoja el funcionamiento de cada una de las actividades de la empresa, tanto en los aspectos técnicos de elaboración y procedimientos analíticos como en el control de niveles de calidad, así como en la trazabilidad de los productos, archivo documental y seguimiento de los productos en el mercado, mediante el establecimiento, en su caso, de un sistema de garantía de calidad.
+
+3\. La realización de alguna fase de la fabricación y, en el caso de los importadores, el control y el almacenamiento podrá concertarse con entidades que o bien posean la autorización mencionada en este artículo, o bien se incluyan en la tramitación de la autorización de la empresa titular. En todos los casos, las empresas concertadas serán mencionadas en los documentos de autorización.
+
+4\. Cualquier modificación de los extremos previstos en la autorización, como el traslado de instalaciones, la subcontratación de actividades con empresas nuevas que no dispongan de autorización de actividades, las ampliaciones de las instalaciones, la puesta en marcha dentro de la misma instalación de líneas de fabricación de productos de distinta categoría o la reestructuración o redistribución sustancial de las zonas respecto a la autorización original, requerirá informe de inspección y autorización de la Agencia Española de Medicamentos y Productos Sanitarios.
+
+5\. El cambio de la personalidad jurídica, del nombre o razón social del titular, del técnico responsable o de la contratación de alguna actividad con otras empresas autorizadas se considerará una modificación sustancial de la actividad, sujeta a autorización de la Agencia Española de Medicamentos y Productos Sanitarios.
+
+6\. El cese de las actividades que implique el interés de la empresa autorizada en no continuar con el mantenimiento de las condiciones de la autorización y, en consecuencia, la renuncia a esta deberá ser comunicado a la Agencia Española de Medicamentos y Productos Sanitarios por cualquier medio que permita su constancia, y adjuntará una relación de los productos cosméticos que fabrique y/o importe en ese momento. La Agencia Española de Medicamentos y Productos Sanitarios aceptará de plano la renuncia, de conformidad con lo establecido en el artículo 91 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+7\. Toda autorización podrá ser revisada en cualquier momento, revocada o suspendida. En cuanto al procedimiento se estará a lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Contra la resolución que ponga fin a estos procedimientos podrá interponerse recurso de alzada de conformidad con la citada ley.
+
+8\. Se revocará una autorización si se acredita que no se cumplen las condiciones por las que fue otorgada o se descubre que la información en virtud de la cual se concedió la autorización contiene elementos falsos o engañosos.
+
+9\. Las autoridades sanitarias de las comunidades autónomas serán debidamente informadas de las autorizaciones de actividades concedidas a las personas físicas o jurídicas ubicadas en su territorio, y de las modificaciones, revocaciones, renuncias y revalidaciones que puedan producirse según lo establecido en los apartados anteriores.
+
+> Se modifica por el art. único.16 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+## CAPÍTULO VIII — Infracciones y sanciones
+
+> Se deroga por la disposición derogatoria única de la Ley 10/2013, de 24 de julio. [Ref. BOE-A-2013-8083](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8083).
+
+### Artículos 19 a 21.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única de la Ley 10/2013, de 24 de julio. [Ref. BOE-A-2013-8083](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8083).
+
+### Disposición adicional primera. Norma básica.
+
+Lo dispuesto en el presente Real Decreto tiene la condición de norma básica de acuerdo con lo establecido en el artículo 149.1.16.ª de la Constitución, en relación con el artículo 40.2, 5 y 6 de la Ley 14/1986, de 25 de abril, General de Sanidad, y con la disposición adicional tercera de la Ley 25/1990, de 20 de diciembre, del Medicamento.
+
+### Disposición adicional segunda. Productos de higiene personal.
+
+1\. Se entenderá por productos de higiene personal todas las sustancias o preparados que, sin tener la consideración legal de cosméticos, biocidas, productos sanitarios o medicamentos, están destinados a ser aplicados sobre la piel, dientes o mucosas del cuerpo humano con la finalidad de higiene o de estética, o para neutralizar o eliminar ectoparásitos, tales como dentífricos, productos de estética, pediculicidas, hidratantes vaginales, limpiadores anales en caso de hemorroides, productos para el masaje deportivo, limpiadores nasales o limpiadores oculares, o cualquier otro producto que pueda ser calificado como tal.
+
+2\. Se entenderá por:
+
+a) Dentífricos: las sustancias o preparados que se aplican en la mucosa bucal y/o en los dientes que, por sus indicaciones, composición o forma de presentación, no pueden ser considerados cosméticos, tales como pastas dentífricas, colutorios, blanqueantes dentales, chicles o comprimidos para higiene bucal o productos hiperfluorados de uso profesional o cualquier otro producto que pueda ser calificado como tal.
+
+b) Productos de estética: los productos de aplicación en la piel, que no tengan la consideración legal de cosméticos, medicamentos o productos sanitarios por su composición, indicaciones, mecanismo de acción, de aplicación o duración, tales como, en su caso, tintas para tatuajes, micropigmentos o preparados destinados al maquillaje permanente y semipermanente, mascarillas de abrasión de la piel por vía química o parches transdérmicos, o cualquier otro producto que pueda ser calificado como tal.
+
+3\. Los productos mencionados en esta disposición adicional serán objeto de autorización sanitaria de comercialización otorgada por la Agencia Española de Medicamentos y Productos Sanitarios, la cual se inscribirá en el registro que esta tiene establecido.
+
+4\. El procedimiento de autorización de dichos productos se ajustará, en lo que proceda, a lo previsto en el artículo 9. Dicha autorización tendrá, no obstante, una validez de cinco años y podrá ser revalidada a solicitud del responsable de la puesta en el mercado en el último semestre de su vigencia.
+
+5\. La Agencia Española de Medicamentos y Productos Sanitarios podrá requerir los ensayos, datos o pruebas que considere necesarios para evaluar toxicológicamente el producto, como ampliación de la evaluación de la seguridad para la salud humana establecida en el artículo 6.d).
+
+6\. A los mencionados productos les será de aplicación, en lo que proceda, lo dispuesto en los artículos 4, 11, 12, 13, 16, 18, 19, 20 y 21.
+
+7\. El etiquetado de estos productos se regulará, en lo que proceda, por el artículo 15, al que se le incorporará, además, el número de registro sanitario y la composición cuantitativa de los componentes activos en su caso.
+
+En función de la naturaleza de cada producto, la Agencia Española de Medicamentos y Productos Sanitarios podrá requerir la inclusión en el etiquetado de las menciones o datos que se estimen adecuados para la correcta utilización del producto y la prevención de riesgos.
+
+8\. La Agencia Española de Medicamentos y Productos Sanitarios podrá, cuando la naturaleza del producto lo requiera, limitar su utilización a determinados sectores profesionales.
+
+9\. La Agencia Española de Medicamentos y Productos Sanitarios decidirá sobre la inclusión de un determinado producto en el citado registro, en función de sus características específicas.
+
+10\. Los fabricantes y/o importadores de estos productos deberán estar autorizados específicamente para poder realizar actividades de fabricación y/o importación de dichos productos, que se reflejará en la correspondiente autorización de actividades, salvo las oficinas de farmacia que elaboren estos productos para su dispensación en la propia oficina.
+
+> Se modifica por el art. único.18 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+### Disposición adicional tercera. Oficinas de farmacia.
+
+Los cosméticos fabricados por las oficinas de farmacia para su dispensación en la propia oficina se ajustarán a lo dispuesto en el presente Real Decreto, con las excepciones siguientes:
+
+a) No será necesario disponer de la autorización de actividades contemplada en el artículo 18, si bien, deberán cumplirse los requisitos de este artículo. Tampoco será necesario darse de alta en el Registro de responsables de la puesta en el mercado citado en el artículo 7.
+
+b) No será necesario poseer la documentación técnica exigida en el artículo 6, ni proporcionar la información a efectos de tratamiento médico a que hace referencia el artículo 8, en el caso de los productos cosméticos elaborados de forma individualizada y destinados a un consumidor en particular, si bien quedará constancia documental de la elaboración de tales productos mediante las anotaciones correspondientes.
+
+Estas excepciones no serán de aplicación en caso de que los productos cosméticos se distribuyan a otras entidades o establecimientos para su venta o aplicación al consumidor final.
+
+### Disposición adicional cuarta. Acuerdo sobre el Espacio Económico Europeo.
+
+A efectos del presente Real Decreto, será de aplicación lo establecido en el Acuerdo sobre el Espacio Económico Europeo.
+
+### Disposición adicional quinta. Comité Asesor de Cosmetología.
+
+A efectos del presente Real Decreto, se mantiene en vigor la Orden de 14 de febrero de 1996, por la que se constituye el Comité Asesor de Cosmetología («Boletín Oficial del Estado» de 6 de marzo).
+
+### Disposición adicional sexta. Información a la Comisión Europea.
+
+El Ministerio de Sanidad y Consumo trasladará a la Comisión Europea los datos relativos al número y tipos de ensayos efectuados en animales con productos cosméticos. A estos efectos, recabará anualmente esta información de los responsables de la puesta en el mercado de productos cosméticos.
+
+> Se añade por el art. único.19 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+### Disposición transitoria primera. Plazos para la comercialización de productos cosméticos.
+
+1\. No podrán ser vendidos o cedidos al consumidor final a partir del 31 de diciembre de 1997 productos cosméticos que no cumplan lo dispuesto en el presente Real Decreto.
+
+2\. Como excepción al apartado 1 los productos cosméticos que contengan la sustancia mencionada con el número 416 del anexo II y los productos cosméticos que contengan hidróxidos de litio y de calcio en concentraciones superiores o en condiciones diferentes a las establecidas en el anexo III, primera parte número 15 b y c, podrán ser vendidos o cedidos al consumidor final hasta el 1 de julio de 1998.
+
+### Disposición transitoria segunda. Plazo para información a efectos de tratamiento médico de productos conformes al Real Decreto 349/1988.
+
+Sin perjuicio de lo establecido en la disposición transitoria primera, los responsables de los productos puestos en el mercado al amparo de lo establecido en el Real Decreto 349/1988, de 15 de abril, por el que se aprueba la Reglamentación técnico-sanitaria de Productos Cosméticos, modificada por los Reales Decretos 475/1991, de 5 de abril, y 1415/1995, de 4 de agosto, dispondrán de un plazo de dos años para cumplimentar lo establecido en el artículo 8 del presente Real Decreto.
+
+### Disposición transitoria tercera. Plazo de adecuación de los productos dentífricos y otros productos.
+
+Los productos señalados en la disposición adicional segunda que se estén comercializando con anterioridad a la entrada en vigor del presente Real Decreto, deberán adaptarse a lo establecido en el mismo, en el plazo de dieciocho meses.
+
+### Disposición transitoria cuarta. Aplicación de la normativa de métodos de análisis para el control de la composición de los productos cosméticos.
+
+Hasta tanto no se desarrollen las previsiones de la disposición final segunda, serán de aplicación las siguientes Órdenes ministeriales por las que se establecen los métodos de análisis necesarios para el control de la composición de los productos cosméticos:
+
+a) Orden de 28 de septiembre de 1989 («Boletín Oficial del Estado» de 10 de octubre).
+
+b) Orden de 19 de octubre de 1990 («Boletín Oficial del Estado» del 29).
+
+c) Orden de 17 de mayo de 1995 («Boletín Oficial del Estado» del 25),
+
+d) Orden de 25 de marzo de 1996 («Boletín Oficial del Estado» de 12 de abril).
+
+e) Orden de 23 de julio de 1997 («Boletín Oficial del Estado» de 2 de agosto).
+
+### Disposición derogatoria única. Derogación normativa.
+
+1\. A partir de la entrada en vigor del presente Real Decreto, quedan derogadas las siguientes disposiciones:
+
+a) Decreto 3339/1968, de 26 de diciembre, por el que se regulan los cosméticos.
+
+b) Real Decreto 349/1988, de 15 de abril, por el que se aprueba la Reglamentación técnico-sanitaria de Productos Cosméticos, excepto la disposición adicional primera que habilita al Ministro de Sanidad y Consumo para constituir un Comité Asesor de Cosmetología.
+
+c) Real Decreto 475/1991, de 5 de abril, por el que se modifica el Real Decreto 349/1988.
+
+d) Real Decreto 1415/1995, de 4 de agosto, por el que se modifica la Reglamentación técnico-sanitaria de Productos Cosméticos, aprobada por el Real Decreto 349/1988, de 15 de abril,
+
+2\. Asimismo, quedan derogadas las siguientes Órdenes ministeriales por las que se adaptan al progreso técnico los anexos del Real Decreto 349/1988, de 15 de abril:
+
+a) Orden de 14 de marzo de 1989 («Boletín Oficial del Estado» del 29).
+
+b) Orden de 15 de diciembre de 1989 («Boletín Oficial del Estado» del 22).
+
+c) Orden de 19 de octubre de 1990 («Boletín Oficial del Estado» del 29).
+
+d) Orden de 9 de noviembre de 1991 («Boletín Oficial del Estado» del 19).
+
+e) Orden de 12 de marzo de 1993 («Boletín Oficial del Estado» del 26).
+
+f) Orden de 10 de febrero de 1994 («Boletín Oficial del Estado» de 3 de marzo).
+
+g) Orden de 8 de junio de ‘1995 («Boletín Oficial del Estado» del 16).
+
+h) Orden de 25 de marzo de 1996 («Boletín Oficial del Estado» de 11 de abril).
+
+i) Orden de 23 de julio de 1997 («Boletín Oficial del Estado» de 2 de agosto).
+
+### Disposición final primera. Facultades de desarrollo normativo.
+
+El Ministro de Sanidad y Consumo dictará un Protocolo básico sobre normas de correcta fabricación de los productos cosméticos, así como cuantas disposiciones resulten necesarias para la ejecución y desarrollo del presente Real Decreto y para la actualización de sus anexos cuando lo establezca la normativa de la Comunidad Económica Europea.
+
+### Disposición final segunda. Establecimiento de criterios de calidad química y microbiológica.
+
+Los criterios de calidad química y microbiológica de los productos cosméticos se establecerán por Orden del Ministro de Sanidad y Consumo, teniendo en cuenta la legislación comunitaria.
+
+En su defecto, se utilizarán preferentemente los métodos analíticos usados o recomendados por el Instituto Nacional de Consumo y demás centros e instituciones especializadas, nacionales o internacionales, de reconocida solvencia.
+
+### Disposición final tercera. Modificación de la información a efectos de tratamiento médico.
+
+Podrá modificarse el contenido de la información contemplada en el artículo 8, por Orden del Ministro de Sanidad y Consumo, cuando existan otros sistemas igualmente efectivos y aceptados a nivel comunitario.
+
+### Disposición final cuarta. Modificación de determinada fecha de prohibición.
+
+Por Orden del Ministro de Sanidad y Consumo, podrá modificarse la fecha señalada en el párrafo i) del artículo 5 de la presente disposición, cuando así lo establezca la normativa comunitaria.
+
+### Disposición final quinta. Prohibición de comercialización.
+
+Sin perjuicio de lo establecido en la disposición transitoria primera, queda prohibida la puesta en el mercado de productos cosméticos que incumplan lo dispuesto en el presente Real Decreto.
+
+Dado en Madrid a 17 de octubre de 1997.
+
+JUAN CARLOS R.
+
+El Ministro de Sanidad y Consumo,
+
+JOSÉ MANUEL ROMAY BECCARÍA
+
+## ANEXO I — Lista indicativa por categorías de los productos cosméticos
+
+1\. Cremas, emulsiones, lociones, geles y aceites para la piel.
+
+2\. Máscaras de belleza (con exclusión de los productos de abrasión superficial de la piel por vía química).
+
+3\. Maquillaje (líquidos, pastas, polvos).
+
+4\. Polvos de maquillaje, polvos para utilizar después del baño y para la higiene corporal.
+
+5\. Jabón de tocador, jabón desodorante.
+
+6\. Perfumes, aguas de tocador, aguas de colonia.
+
+7\. Productos para baño y ducha (sales, espumas, aceites, geles).
+
+8\. Depilatorios.
+
+9\. Desodorantes y antitranspirantes.
+
+10\. Productos capilares:
+
+Tintes y decolorantes.
+
+Productos para moldear, para desrizar y fijar.
+
+Productos que ayudan a mantener el peinado.
+
+Productos de limpieza (lociones, polvos, champús).
+
+Productos acondicionadores (lociones, lacas, brillantinas).
+
+Otros productos para el peinado.
+
+11\. Productos para el afeitado (jabones, espumas, lociones).
+
+12\. Productos para el maquillaje y desmaquillaje de la cara y los ojos.
+
+13\. Productos para los labios.
+
+14\. Productos para cuidado bucal y dental.
+
+15\. Productos para cuidado y maquillaje de las uñas.
+
+16\. Productos para cuidado íntimo externo.
+
+17\. Productos solares.
+
+18\. Productos para bronceado sin sol.
+
+19\. Productos blanqueadores de la piel.
+
+20\. Productos antiarrugas.
+
+## ANEXO II <sup>(1)</sup> — Lista de sustancias prohibidas en la composición de los productos cosméticos
+
+1\. 2-acetilamino-5-clorobenzoxazol.
+
+2\. Acetilcolina y sus sales.
+
+3\. Aceglumato de deanol (a).
+
+4\. Espironolactona (a).
+
+5\. Acido [4-(4-hidroxi-3-yodofenoxi)-3,5-diyodofenil] acético, [(ácido 3, 3’, 5. triyodotiroacético) y sus sales].
+
+6\. Metotrexato (a).
+
+7\. Ácido aminocaproico (a) y sus sales.
+
+8\. Cincofeno (a), sus sales, derivados y las sales de sus derivados.
+
+9\. Ácido tiropropico (a) y sus sales.
+
+10\. Ácido tricloroacético.
+
+11\. «Aconitum napellus L.» (hojas, raíces y preparaciones).
+
+12\. Aconitina (principal alcaloide de «aconitum napellus I.») y sus sales.
+
+13\. «Adonis vernalis L.». Y sus preparaciones.
+
+14\. Epinefrina (a).
+
+15\. Alcaloides de «rauwolfía serpentina» y sus sales.
+
+16\. Alcoholes acetilénicos, sus estéres, oxi-éteres y sus sales.
+
+17\. Isoprenalina (a).
+
+18\. Isotiocianato de afilo.
+
+19\. Aloclamida (a) y sus sales.
+
+20\. Nalorfina (a), sus sales y oxi-éteres.
+
+21\. Aminas simpaticomiméticas que actúen sobre el sistema nervioso central: cualquier sustancia que figure en la primera lista de medicamentos cuya venta esté sujeta a la prescripción médica recogida en la resolución a.p. (69)2 del Consejo de Europa.
+
+22\. Aminobenceno (anilina), sus sales y derivados halogenados sulfonados.
+
+23\. Betoxicaína (a) y sus sales.
+
+24\. Zoxazolamina (a).
+
+25\. Procainamida (a), sus sales y derivados.
+
+26\. Diaminobifenilo (bencidina).
+
+27\. Tuaminoheptano (a), (aminoheptano), sus isómeros y sus sales.
+
+28\. Octodrina (a) y sus sales.
+
+29\. 2-amino-1,2-bis (4-metoxifenil) etanol y sus sales.
+
+30\. 2-amino-4-metilhexano y sus sales.
+
+31\. Ácido 4-aminosalicílico y sus sales.
+
+32\. Arninotolueno, sus isómeros, sales, derivados halogenados y sulfonados.
+
+33\. Aminoxilenos, sus isómeros, sales, derivados halogenados y sulfonados.
+
+34\. 9-(3-metil-2 buteniloxi)-7-h-furo[3,2-g] [1 ]-benzopirano-7-ona (amidina).
+
+35\. «Ammi majus L.» y sus preparaciones.
+
+36\. 2,3-dicloro-2-metilbutano (amileno clorado).
+
+37\. Andrógenos y sustancias de acción androgénica.
+
+38\. Aceite de antraceno.
+
+39\. Antibióticos.
+
+40\. Antimonio y sus compuestos.
+
+41\. «Apocynum cannabinum L.» y sus preparaciones.
+
+42\. 5,6,6a,7-tetrahídro-6-metil-4h-dibenzo [d,e,g]-10,1 1-diol. quinolina (apomorfina) y sus sales.
+
+43\. Arsénico y sus compuestos.
+
+44\. «Atropa belladonna 1» y sus preparaciones.
+
+45\. Atropina, sus sales y derivados.
+
+46\. Bario (sales de) con excepción de:
+
+Sulfato y sulfuro en las condiciones previstas en el anexo III (1.ª parte).
+
+Lacas, pigmentos o sales preparadas a partir de colorantes que figuran con la referencia (3) en el anexo IV.
+
+47\. Benceno.
+
+48\. Bencimidazolona.
+
+49\. Benzoacepina y benzodiacepina, sus sales y derivados.
+
+50\. Benzoato de (2-metil-2 butanol) dimetilamina y sus sales (amilocaína).
+
+51\. Trimetilbenzoiloxipiperidina (benzamina) y sus sales.
+
+52\. Isocarboxazida (a).
+
+53\. Bendroflumetiazida (a) y derivados.
+
+54\. Berilio y sus compuestos (glucinium).
+
+55\. Bromo.
+
+56\. Tosilato de bretilio (a).
+
+57\. Carbromal (a).
+
+58\. Bromisoval (a).
+
+59\. Bromfeniramina (a) y sus sales.
+
+60\. Bromuro de benzilonio (a).
+
+61\. Bromuro de tetrilamonio (a).
+
+62\. Brucina.
+
+63\. Tetracaína (a) y sus sales.
+
+64\. Mofebutazona (a).
+
+65\. Tolbutamida (a).
+
+66\. Carbutamida (a).
+
+67\. Fenilbutazona (a).
+
+68\. Cadmio y sus compuestos.
+
+69\. «Cantharis vesicatoria».
+
+70\. Cantaridina.
+
+71\. Fenprobamato (a).
+
+72\. Derivados nitrados del carbazol.
+
+73\. Disulfuro de carbono.
+
+74\. Catalasa.
+
+75\. Catalina y sus sales.
+
+76\. Esencia de «chenopodium ambrosioides L.».
+
+77\. Cloral hidratado.
+
+78\. Cloro elemental.
+
+79\. Clorpropamida (a).
+
+80\. Difenoxilato (a).
+
+81\. Clorhidrato y/o citrato de 2,4-diaminoazobenceno (crisoidina, clorhidrato y/o citrato).
+
+82\. Clorzoxazona (a).
+
+83\. 2-cloro-4-dimetilamino-6-metilpirimidina (crimidina).
+
+84\. Clorprotixeno (a) y sus sales.
+
+85\. Clofenamida (a).
+
+86\. N-óxido de bis-(2-cloroetil)metilamina y sus sales (óxido de n-mustina).
+
+87\. Clormetina (a) y sus sales.
+
+88\. Ciclofosfamida (a) y sus sales.
+
+89\. Manomustina (a) y sus sales.
+
+90\. Butanilicaína (a) y sus sales.
+
+91\. Clormezanona (a).
+
+92\. Triparanol (a).
+
+93\. 2-(2-p-clorofenil-2-fenilacetil) indano-1,3-diona (clorofacinona).
+
+94\. Clorfenoxamina (a).
+
+95\. Fenaglicodol (a).
+
+96\. Cloroetano.
+
+97\. Sales de cromo, ácido crómico y sus sales.
+
+98\. «Claviceps purpurea Tul», sus alcaloides y preparaciones.
+
+99\. «Conium rnaculatum L.», (fruto, polvo y preparaciones).
+
+100\. Gliciclamida (a).
+
+101\. Bencenosulfonato de cobalto.
+
+102\. Colchicina, sus sales y derivados.
+
+103\. Colchicósido y sus derivados.
+
+104\. «Colchicum autumnale L.» y sus preparaciones.
+
+105\. Convalatoxina.
+
+106\. «Anamirta cocculus L.» (frutos).
+
+107\. «Croton tiglium I» (aceite).
+
+108\. N-(crotonilamino-4-bencenosulfonil)-n’-butilurea.
+
+109\. Curare y curarinas.
+
+110\. Curarizantes de síntesis.
+
+111\. Ácido cianhídrico y sus sales.
+
+112\. 1-ciclohexil-3-dietilamino-1 (2-dietil-amino metil)fenilpropano y sus sales.
+
+113\. Ciclomenol (a) y sus sales.
+
+114\. Hexaciclonato de sodio (a).
+
+115\. Hexapropimato (a).
+
+116\. Dextropropoxifeno (a).
+
+117\. 0,0’-diacetil-n-alil-desmetilmorfina.
+
+118\. Pipazetato (a) y sus sales.
+
+119\. (a, β, dibromo-5,5 feniletil)-5-metil hidantoina.
+
+120\. Sales de 1,5-bis-(trimetilamonio) pentano (entre éstas el bromuro de pentametonio) (a).
+
+121\. Bromuro de azametonio (a).
+
+122\. Ciclarbamato (a).
+
+123\. Clofenotano.
+
+124\. Sales de 1,6-bis (trimetilamonio) hexano (entre éstas el bromuro de hexametonio).
+
+125\. 1,2,-dicloroetano (cloruro de etileno).
+
+126\. 1,1-dicloroetileno (cloruro de acetileno).
+
+127\. Lisérgido (a) y sus sales.
+
+128\. Benzoato de 3-hidroxi-4-fenil dietilaminoetilo y sus sales.
+
+129\. Cincocainio (a) y sus sales.
+
+130\. Cinamato de 3-dietilamino propilo.
+
+131\. Tiofosfato de 0,0-dietilo y 0-(4-nitrofenilo)(paration).
+
+132\. Sales de n,n’-bis-(2 dietilaminoetil) oxamida bis-2-cloroabencilo (entre éstas el cloruro de ambenonio) (a).
+
+133\. Metiprilona (a) y sus sales.
+
+134\. Digitalina y todos los heteróxidos de la digital.
+
+135\. 7 (2,6,-dihidroxi-4-metil-4-aza-hexil)teofilina (xantinol).
+
+136\. Dioxetedrina (a) y sus sales.
+
+137\. Piprocurario (a).
+
+138\. Propifenazona (a).
+
+139\. Tetrabenacina (a) y sus sales.
+
+140\. Captodiamo (a).
+
+141\. Mefeclorazina (a) y sus sales.
+
+142\. Dimetilamina.
+
+143\. Benzoato de 1-dimetilamino-2-dimetilaminometil butilo y sus sales.
+
+144\. Metapirileno y sus sales.
+
+145\. Metamfepramona (a) y sus sales.
+
+146\. Amitriptilina (a) y sus sales.
+
+147\. Metformida (a) y sus sales.
+
+148\. Dinitrato de isosorbida (a).
+
+149\. Malonato de dinitrilo.
+
+150\. Succinato de dinitrilo.
+
+151\. Isómeros dinitrofenolicos.
+
+152\. Improcuona (a).
+
+153\. Dimevamida (a) y sus sales.
+
+154\. Difenilpiralina (a) y sus sales.
+
+155\. Sulfinpirazona (a).
+
+156\. Sales de n-(4-amino-4-oxo-3,3-difenilbutilo)-n,n-diisopropil-n-metilamonio (entre éstas el yoduro de isopropamida) (a).
+
+157\. Benacticina (a).
+
+158\. Benzatropina (a) y sus sales.
+
+159\. Ciclizina (a) y sus sales.
+
+160\. 5,5-difenil-4-tetrahidroglioxalinona.
+
+161\. Probenecida (a).
+
+162\. Disulfuro de bis (n,n-dietiltiocarbamilo) (disulfiramo) (a).
+
+163\. Emetina, sus sales y derivados.
+
+164\. Efedrina y sus sales.
+
+165\. Oxanamida (a) y derivados.
+
+166\. Eserina o fisostigmina y sus sales.
+
+167\. Ácido 4-aminobenzoico y sus ésteres (con el grupo amino libre)
+
+168\. Ésteres de la colina y de la metilcolina y sus sales.
+
+169\. Caramifenio (a).
+
+170\. Estar dietilfosfórico del p-nitrofenol.
+
+171\. Metetoheptazina (a) y sus sales.
+
+172\. Oxofeneridina (a) y sus sales.
+
+173\. Etoheptazina (a) y sus sales.
+
+174\. Metoheptazina (a) y sus sales.
+
+175\. Metilfenidato (a) y sus sales.
+
+176\. Doxilminio (a) y sus sales.
+
+177\. Tolboxano.
+
+178\. 4-Benciloxifenol y 4-etoxifenol.
+
+179\. Paretoxicaína (a) y sus sales.
+
+180\. Fenozolona (a).
+
+181\. Glutetimida (a) y sus sales.
+
+182\. Óxido de etileno (epoxietano).
+
+183\. Bemegrida (a) y sus sales.
+
+184\. Valnoctamida (a).
+
+185\. Haloperidol (a).
+
+186\. Parametasona (a).
+
+187\. Fluanisona (a).
+
+188\. Trifluperidol (a).
+
+189\. Fluoresona (a).
+
+190\. Fluorouracilo (a).
+
+191\. Ácido fluorhídrico, sus sales, complejos e hidroxifluoruros salvo excepciones recogidas en el anexo III (1.ª parte).
+
+192\. Sales de furfuriltrimetilamonio. (Entre éstas el yoduro de furtretonio) (a).
+
+193\. Galantamina (a).
+
+194\. Gestágenos (sustancias de acción progestacional).
+
+195\. 1,2,3,4,5,6, hexaclorociclohexano (Hch).
+
+196\. 1,2,3,4,10,10 Hexacloro-6,7-epoxi-1,4,4a,5,6,7,8,8a Octahidro-1,4,5,8-endoendodimetilennaftaleno (endrina).
+
+197\. Hexacloroetano.
+
+198\. 1,2,3,4,10,10 hexacloro-1,4,4a,5,8,8a hexahidro-1,4,5,8 endo endodimetilennaftaleno. (Isodrina).
+
+199\. Hidrastina, hidrastinina y sus sales.
+
+200\. Hidracidas y sus sales.
+
+201\. Hidracina sus sales y derivados.
+
+202\. Octamoxina (a) y sus sales.
+
+203\. Warfarina (a) y sus sales.
+
+204\. Bis(4-hidroxi-2-cumarinil)acetato de etilo y sales del ácido.
+
+205\. Metocarbamol (a).
+
+206\. Propatilnitrato (a).
+
+207\. 1,1-bis-[(4-hidroxi-2-oxo-2h-1 benzopirano)3-i1]3-metiltiopropano.
+
+208\. Fenadiazol (a).
+
+209\. Nitroxolina (a) y sus sales.
+
+210\. Hiosciamina, sus sales y derivados.
+
+211\. «Hyosciamus niger L.» (hojas, semillas, polvo y preparaciones).
+
+212\. Pemolina (a) y sus sales.
+
+213\. Yodo.
+
+214\. Sales de 1,10-bis(trimetilamonio) decano (entre éstas el bromuro de decametonio).
+
+215\. «Ipeca uragoga ipecacuanha Baill» y especies parecidas (raíces y preparaciones).
+
+216\. N-(2-isopropil-4-pentenoil) urea (apronalida).
+
+217\. Santonina.
+
+218\. «Lobelina inflatal» y preparaciones.
+
+219\. Lobelina (a) y sus sales.
+
+220\. Ácido barbitúrico, sus sales y derivados.
+
+221\. Mercurio y sus compuestos a excepción de los recogidos en el anexo VI (1.ª parte).
+
+222\. Mescalina y sus sales.
+
+223\. Poliacetaldehido (metaldehido).
+
+224\. N,n-2,2 (metoxi-4-alilfenoxi) dietil acetamida y sus sales.
+
+225\. Cumetarol (a).
+
+226\. Dextrometorfano (a) y sus sales.
+
+227\. 2-metilaminoheptano y sus sales.
+
+228\. Isometepteno y sus sales (a).
+
+229\. Mecamilamina (a).
+
+230\. Guaifenesina (a).
+
+231\. Dicumarol (a).
+
+232\. Fenmetrazina (a), sus sales y derivados.
+
+233\. Tiamazol (a).
+
+234\. (2-metil-2-metoxi-4-fenil)-3-4-dihidropirano cumarina (ciclocumarol).
+
+235\. Carisoprodol (a).
+
+236\. Meprobamato (a).
+
+237\. Tefazolina (a) y sus sales.
+
+238\. Arecolina.
+
+239\. Metilsulfato de poldina (a).
+
+240\. Hidroxicina (a).
+
+241\. β-naftol.
+
+242\. α y β naftilaminas y sus sales.
+
+243\. α, 3 naftil-4-hidroxicumarina.
+
+244\. Nafazolina (a) y sus sales.
+
+245\. Neostigmina y sus sales [entre éstas el bromuro de neostigmina (a)].
+
+246\. Nicotina y sus sales.
+
+247\. Nitritos de amilo.
+
+248\. Nitritos metálicos a excepción del nitrito de sodio.
+
+249\. Nitrobenceno.
+
+250\. Nitrocresol y sus sales alcalinas.
+
+251\. Nitrofurantoína (a).
+
+252\. Furazolidona (a).
+
+253\. Nitroglicerina.
+
+254\. Acenocoumarol (a).
+
+255\. Nitroferricianuros alcalinos (nitroprusiatos).
+
+256\. Nitrostilbenos, sus homólogos y derivados.
+
+257\. Noradrenalina y sus sales,
+
+258\. Noscapina (a) y sus sales.
+
+259\. Guanetidina (a) y sus sales.
+
+260\. Estrógenos (sustancias de acción estrogénica).
+
+261\. Oleandrina.
+
+262\. Clortalidona (a).
+
+263\. Peletierina y sus sales.
+
+264\. Pentacloroetano.
+
+265\. Tetranitrato de pentaeritritilo (a).
+
+266\. Petricloral (a).
+
+267\. Octamilamina (a) y sus sales.
+
+268\. Ácido pícrico.
+
+269\. Fenacemida (a).
+
+270\. Difencloxazina (a).
+
+271\. 2-fenil-1,3-indanodiona (fenindiona).
+
+272\. Etilfenacemida (a).
+
+273\. Femprocoumona (a).
+
+274\. Feniramidol.
+
+275\. Triamterena (a) y sus sales.
+
+276\. Pirofosfato de tetraetilo.
+
+277\. Fosfato de tricresilo.
+
+278\. Psilocibina (a).
+
+279\. Fósforo y fosfuros metálicos.
+
+280\. Talidomida (a) y sus sales.
+
+281\. «Physostigma venenosum Balf».
+
+282\. Picrotoxina.
+
+283\. Pilocarpina y sus sales.
+
+284\. 2-bencilacetato de α, piperidilo-I, (levofacetoperano) y sus sales.
+
+285\. Pipradrol (a) y sus sales.
+
+286\. Izaciclonol (a) y sus sales.
+
+287\. Bietamiverina (a).
+
+288\. Butopiprina (a) y sus sales.
+
+289\. Plomo y sus compuestos.
+
+290\. Coniína.
+
+291\. «Prunus lauro-cerasus L.» (agua destilada de laurel cerezo).
+
+292\. Metirapona (a).
+
+293\. Las sustancias radiactivas tal como se definen en el anexo I del Real Decreto 783/2001, de 6 de julio, por el que se aprueba el Reglamento sobre protección sanitaria contra radiaciones ionizantes.
+
+294\. «Juniperus sabina L.» (hojas, aceite esencial y preparaciones).
+
+295\. Escopolamina, sus sales y derivados.
+
+296\. Sales de oro.
+
+297\. Selenio y sus compuestos a excepción del disulfuro de selenio, en las condiciones previstas en el anexo III (1.ª parte núm. 49).
+
+298\. «Solanum nigrum L.» y sus preparaciones.
+
+299\. Esparteína y sus sales.
+
+300\. Glucocorticoides.
+
+301\. «Datura stramonium L.» y sus preparaciones.
+
+302\. Estrofantinas, estrofantidinas y derivados.
+
+303\. «Strophanthus» (especies) y sus preparaciones.
+
+304\. Estricnina y sus sales.
+
+305\. «Strychnos» (especies) y preparaciones.
+
+306\. Estupefacientes: aquellas sustancias recogidas en las tablas i y ii de la convención sobre estupefacientes celebrada el 30 de marzo de 1961 en Nueva York.
+
+307\. Sulfonamidas (paraaminobencenosulfonamida y sus derivados obtenidos por sustitución de uno o varios átomos de hidrógeno ligados al átomo de nitrógeno) y sus sales.
+
+308\. Sultiamo.
+
+309\. Neodimio y sus sales.
+
+310\. Tiotepa (a).
+
+311\. «Pilocarpus jaborandi Holmes» y sus preparaciones.
+
+312\. Teluro y sus compuestos.
+
+313\. Xilometazolina (a) y sus sales.
+
+314\. Tetracloroetileno.
+
+315\. Tetracloruro de carbono.
+
+316\. Tetrafosfato de hexaetilo.
+
+317\. Talio y sus compuestos.
+
+318\. Glucósidos de «thevitia nerifolia juss».
+
+319\. Etionamida (a).
+
+320\. Fenotiazina (a) y sus compuestos.
+
+321\. Tiourea y derivados a excepción de los que aparecen en el anexo III (1.ª parte).
+
+322\. Mefenesina (a) y sus ésteres.
+
+323\. Vacunas, toxinas o sueros relacionados en el anexo de la segunda Directiva del Consejo de 20 de mayo de 1975 y que se refiere a la aproximación de disposiciones legislativas, reglamentarias y administrativas relativas a las especialidades farmacéuticas. («Diario Oficial de las Comunidades Europeas», número L 147 de 9 de junio de 1975, página 13).
+
+324\. Tranilcipromina (a) y sus sales.
+
+325\. Tricloronitrometano.
+
+326\. Tribromoetanol (avertina).
+
+327\. Triclormetina (a) y sus sales.
+
+328\. Tetramina (a).
+
+329\. Trietioduro de galamina (a).
+
+330\. «Urginea scilla Stern» y sus preparaciones.
+
+331\. Veratrina y sus sales.
+
+332\. «Schoenocaulon officinale Lind». (Semillas y preparaciones).
+
+333\. «Veratrum spp» y sus preparaciones.
+
+334\. Cloruro de vinilo (monómero).
+
+335\. Ergocalciferol (a) y colecalciferol (vitaminas D2 y D3).
+
+336\. Xantatos alcalinos y alkilxantatos.
+
+337\. Yohimbina y sus sales.
+
+338\. Dimetilsulfóxido (a).
+
+339\. Difenhidramina y sus sales.
+
+340\. P-butil terc-fenol.
+
+341\. P-butil terc-pirocatequina.
+
+342\. Dihidrotaquisterol (a).
+
+343\. Dioxano (dióxido de 1.4 dietileno).
+
+344\. Morfolina y sus sales.
+
+345\. «Pyrethrum album L.» y sus preparaciones.
+
+346\. Maleato de pirianisamina.
+
+347\. Tripelenamina (a).
+
+348\. Tetraclorosalicilanilidas.
+
+349\. Diclorosalicilanilidas.
+
+350\. Tetrabromosalicilanilidas.
+
+351\. Dibromosalicilanilidas.
+
+352\. Bitionol (a).
+
+353\. Monosulfuros tiourámicos.
+
+354\. Disulfuros tiourámicos.
+
+355\. Dimetilformamida.
+
+356\. Bencilidenacetona.
+
+357\. Benzoatos de coniferilo salvo cantidades normales contenidas en esencias naturales utilizadas.
+
+358\. Furocumarinas (p. ej. Trioxisalen (a), 8-metoxipsoraleno, 5-metoxipsoraleno) excepto su contenido normal en las esencias naturales utilizadas.
+
+En los productos de protección solar y bronceado, la concentración de furocumarinas deberá ser inferior a 1 mg/kg.
+
+359\. Aceite de semilla de «laurus nobilis L.».
+
+360\. Safrol salvo cantidades normales contenidas en aceites naturales utilizados y a condición de que la concentración no sobrepase:
+
+100 ppm en el producto terminado.
+
+50 ppm en productos para cuidados dentarios y bucales a condición de que el safrol no aparezca en dentífricos destinados especialmente a los niños.
+
+361\. Yodotimol.
+
+362\. Etil-3'-tetrahidro-5',6',7', 8'-tetrametil-5',5',8',8'-acetonaftona-2' o tetrametil-1,1,4, 4-etil-6-acetil-7-tetrahidro naftaleno-1,2,3,4.
+
+363\. 1,2 diaminobenceno y sus sales.
+
+364\. 2,4,-diaminotolueno y sus sales.
+
+365\. Ácido aristolóquico y sus sales, Artistolochia spp. y sus preparados.
+
+366\. Cloroformo.
+
+367\. 2,3,7,8-tetraclorodibenzo-p-dioxina.
+
+368\. 6-acetoxi-2,4-dimetil-1,3-dioxano (dimetoxano).
+
+369\. 2-n-óxido-tiopiridino, sal de sodio. (Piritiona sódica).
+
+370\. N-triclorometiltio-4-ciclohexeno-1,2-dicarboximida. (Captan).
+
+371\. 2,2’dihidroxi-3,3’,5,5’,6,6’-hexaclorodifenilmetano (hexaclorofeno).
+
+372\. 3-óxido de 6-(piperidinil)-2,4-pirimidina diamina (minoxidil) y sus sales.
+
+373\. Estroncio y sus compuestos con excepción de:
+
+Sulfuro en las condiciones previstas en el anexo III (1.ª parte).
+
+Cloruro en las condiciones previstas en el anexo III (1.ª parte).
+
+Acetato en las condiciones previstas en el anexo III (1.ª parte).
+
+Hidróxido en las condiciones previstas en el anexo III (1.ª parte).
+
+Peróxido en las condiciones previstas en el anexo III (1.ª parte).
+
+Tioglicolato en las condiciones previstas en el anexo III (1.ª parte).
+
+Lacas, pigmentos o sales preparadas a partir de colorantes que figuran con la referencia (3) en el anexo IV.
+
+374\. Circonio y sus compuestos, excepto las sustancias incluidas en el número de orden 50 de la primera parte del anexo III, y las lacas, pigmentos o sales de circonio de los colorantes incluidos en la primera parte del anexo IV con el número de referencia 3.
+
+375\. Lidocaína.
+
+376\. Tirotricina.
+
+377\. 3,4',5-Tribromosalicilanilida.
+
+378\. Phytolacca spp. y sus preparados.
+
+379\. Tretinoino (a) (ácido retinoico y sus sales).
+
+380\. 1-metoxi-2,4-diaminobenceno (2,4-diaminoanisol, C.I. 76050) y sus sales.
+
+381\. 1-metoxi-2,5-diaminobenceno (2,5-diaminoanisol) y sus sales.
+
+382\. Colorante C.I. 12140.
+
+383\. Colorante C.I. 26105.
+
+384\. Colorante C.I. 42555.
+
+Colorante C.I. 42555-1
+
+Colorante C.I. 42555-2
+
+385\. Amil-4-dimetilaminobenzoato (mezcla de isómeros) [padimato a (a)].
+
+386\. **(Suprimido)**
+
+387\. 2-amino-4-nitrofenol.
+
+388\. 2-amino-5-nitrofenol.
+
+389\. α-hidroxi-11 pregneno-4-diona-3,20 y sus ésteres.
+
+390\. Colorante C.I. 42640.
+
+391\. Colorante C.I. 13065.
+
+392\. Colorante C.I. 42535.-
+
+393\. Colorante C.I. 61554.
+
+394\. Antiandrógenos de estructura esteroide.
+
+395\. Acetonitrilo.
+
+396\. Tetrahidrozolina y sus sales.
+
+397\. 8-hidroxiquinoleína y su sulfato con excepción de las aplicaciones previstas en el número 51 de la 1.ª parte del anexo III.
+
+398\. 2,2’-ditrobispiridina-1.1’-dioxido (producto de adición con el sulfato de magnesio trihidratado) (piritiona disulfuro + sulfato de magnesio).
+
+399\. Colorante C.I. 12075 y sus lacas, pigmentos y sales.
+
+400\. Colorante C.I. 45170 y C.I. 45170:1.
+
+401\. 1,2-epoxibutano.
+
+402\. Colorante C.I. 15585.
+
+403\. Pramocaína.
+
+404\. 4-etoxi-m-fenilendiamina y sus sales.
+
+405\. 2,4-diamino-feniletanol y sus sales.
+
+406\. Catecol.
+
+407\. Pirogalol.
+
+408\. Nitrosaminas.
+
+409\. Alquilaminas y alcanolaminas secunda­rias y sus sales.
+
+410\. 4-amino-2-nitrofenol.
+
+411\. 2-metil-m-fenilendiamina.
+
+412\. 4-terc-butil-3-metoxi-2,6-dinitrotolueno (almizcle ambreta).
+
+413\. **(Suprimido)**
+
+414\. Células, tejidos o productos de origen humano.
+
+415\. 3,3-bis(4-hidroxifenil) ftalida [fenolftaleína (a)]
+
+416\. Ácido 3 imidazol-4-ilacrílico y su éster etílico (ácido urocánico).
+
+417\. Material de la categoría 1 y material de la categoría 2 según se definen en los artículos 4 y 5, respectivamente, del Reglamento (CE) n.º 1774/2002 del Parlamento Europeo y del Consejo, de 3 de octubre de 2002, por el que se establecen las normas sanitarias aplicables a los subproductos animales no destinados al consumo humano, e ingredientes derivados de dicho material.
+
+418\. Alquitranes crudos y refinados.
+
+419\. 1.1,3.3,5-pentametil-4,6-dinitroindano (almizcle muscado).
+
+420\. 5-ter-butil-1,2,3-trimetil-4,6-dinitrobenceno (almizcle tibetano).
+
+421\. Aceite de alantroot (Inula helenium) (número CAS 97676-35-2), en su uso como ingrediente de fragancia.
+
+422\. Cianuro de bencilo (número CAS 140-29-4), en su uso como ingrediente de fragancia.
+
+423\. Alcohol de ciclamen (número CAS 4756-19-8), en su uso como ingrediente de fragancia.
+
+424\. Maleato de dietilo (número CAS 141-05-9), en su uso como ingrediente de fragancia.
+
+425\. Dihidrocumarina (número CAS 119-84-6), en su uso como ingrediente de fragancia.
+
+426\. 2,4-Dihidroxi-3-metilbenzaldehído (número CAS 6248-20-0), en su uso como ingrediente de fragancia.
+
+427\. 3,7-Dimetil-2-octen-1-ol (6,7-dihidrogeraniol) (número CAS 40607-48-5), en su uso como ingrediente de fragancia.
+
+428\. 4,6-Dimetil-8-terc-butilcumarina (número CAS 17874-34-9), en su uso como ingrediente de fragancia.
+
+429\. Citraconato de dimetilo (número CAS 617-54-9), en su uso como ingrediente de fragancia.
+
+430\. 7,11-Dimetil-4,6,10-dodecatrien-3-ona (número CAS 26651-96-7), en su uso como ingrediente de fragancia.
+
+431\. 6,10-Dimetil-3,5,9-undecatrien-2-ona (número CAS 141-10-6), en su uso como ingrediente de fragancia.
+
+432\. Difenilamina (número CAS 122-39-4), en su uso como ingrediente de fragancia.
+
+433\. Acrilato de etilo (número CAS 140-88-5), en su uso como ingrediente de fragancia.
+
+434\. Hoja de higuera (Ficus carica) (número CAS 68916-52-9), en su uso como ingrediente de fragancia.
+
+435\. Trans-2-heptenal (número CAS 18829-55-5), en su uso como ingrediente de fragancia.
+
+436\. Trans-2-hexenal dietil acetal (número CAS 67746-30-9), en su uso como ingrediente de fragancia.
+
+437\. Trans-2-hexenal dimetil acetal (número CAS 18318-83-7), en su uso como ingrediente de fragancia.
+
+438\. Alcohol hidroabietílico (número CAS 13393-93-6), en su uso como ingrediente de fragancia.
+
+439\. 6-Isopropil-2-decahidronaftalenol (número CAS 34131-99-2), en su uso como ingrediente de fragancia.
+
+440\. 7-Metoxicumarina (número CAS 531-59-9), en su uso como ingrediente de fragancia.
+
+441\. 4-(p-Metoxifenil)-3-buten-2-ona (número CAS 943-88-4), en su uso como ingrediente de fragancia.
+
+442\. 1-(p-Metoxifenil)-1-penten-3-ona (número CAS 104-27-8), en su uso como ingrediente de fragancia.
+
+443\. Trans-2-butenoato de metilo (número CAS 623-43-8), en su uso como ingrediente de fragancia.
+
+444\. 7-Metilcumarina (número CAS 2445-83-2), en su uso como ingrediente de fragancia.
+
+445\. 5-Metil-2,3-hexanodiona (número CAS 13706-86-0), en su uso como ingrediente de fragancia.
+
+446\. 2-Pentilidenciclohexan-1-ona (número CAS 25677-40-1), en su uso como ingrediente de fragancia.
+
+447\. 3,6,10-Trimetil-3,5,9-undecatrien-2-ona (número CAS 1117-41-5), en su uso como ingrediente de fragancia.
+
+448\. Aceites esenciales de verbena (Lippia citriodora Kunth) y derivados distintos del absoluto (número CAS 8024-12-2), en su uso como ingrediente de fragancia.
+
+449\. Metileugenol (número CAS 93-15-2), excepto los contenidos normales que aparezcan en las esencias naturales utilizadas y siempre que la concentración no sobrepase:
+
+a) 0,01 por 100 en perfumes.
+
+b) 0,004 por 100 en colonias.
+
+c) 0,002 por 100 en cremas perfumadas.
+
+d) 0,001 por 100 en productos que se eliminan por aclarado.
+
+e) 0,0002 por 100 en otros productos de contacto y productos de higiene bucal.
+
+452\. 6-(2-cloroetil)-6(2-metoxietoxi)-2.5.7.10-tetraoxa-6-silaundecano (n.º CAS 37894-46-5).
+
+453\. Dicloruro de cobalto (n.º CAS 7646-79-9).
+
+454\. Sulfato de cobalto (n.º CAS 10124-43-3).
+
+455\. Monóxido de níquel (n.º CAS 1313-99-1).
+
+456\. Trióxido de diníquel (n.º CAS 1314-06-3).
+
+457\. Dióxido de níquel (n.º CAS 12035-36-8).
+
+458\. Disulfuro de triníquel (n.º CAS 12035-72-2).
+
+459\. Tetracarbonil níquel (n.º CAS 13463-39-3).
+
+460\. Sulfuro de níquel (n.º CAS 16812-54-7).
+
+461\. Bromuro potásico (n.º CAS 7758-01-2).
+
+462\. Monóxido de carbono (n.º CAS 630-08-0).
+
+463\. Buta-1,3-dieno (n.º CAS 106-99-0).
+
+464\. Isobutano (n.º CAS 75-28-5), si contiene ≥ 0,1% w/w de butadieno.
+
+465\. Butano (n.º CAS 106-97-8), si contiene ≥ 0,1% w/w de butadieno.
+
+466\. Gases (petróleo), C3-4 (n.º CAS 68131-75-9), si contienen > 0,1% w/w de butadieno.
+
+467\. Gas de cola (petróleo), aparato de absorción para el fraccionamiento de nafta craqueada catalíticamente y del destinado craqueado catalíticamente (n.º CAS 68307-98-2), si contiene > 0,1% w/w de butadieno.
+
+468\. Gas de cola (petróleo), estabilizador para el fraccionamiento de nafta de polimerización catalítica (n.º CAS 68307-99-3), si contiene > 0,1% w/w de butadieno.
+
+469\. Gas de cola (petróleo), estabilizador para el fraccionamiento de nafta reformada catalíticamente, libre de sulfuro de hidrógeno (n.º CAS 68308-00-9), si contiene > 0,1% w/w de butadieno.
+
+470\. Gas de cola (petróleo), extractor del aparato para el tratamiento con hidrógeno del destilado craqueado (n.º CAS 68308-01-0), si contiene > 0,1% w/w de butadieno.
+
+471\. Gas de cola (petróleo), apartado de absorción para el craqueo catalítico de gasóleo (n.º CAS 68308-01-2), si contiene > 0,1% w/w de butadieno.
+
+472\. Gas de cola (petróleo), planta de recuperación de gas (n.º CAS 68308-04-3), si contiene > 0,1% w/w de butadieno.
+
+473\. Gas de cola (petróleo), desetanizador de la planta de recuperación de gas (n.º CAS 68308-05-4), si contiene > 0,1% w/w de butadieno.
+
+474\. Gas de cola (petróleo), fraccionador para nafta hidrodesulfurada y destilado hidrodesulfurado, libre de ácido (n.º CAS 68308-06-5), si contiene > 0,1% w/w de butadieno.
+
+475\. Gas de cola (petróleo), extractor para gasóleo obtenido a vacío e hidrodesulfurado, libre de sulfuro de hidrógeno (n.º CAS 68308-07-6), si contiene > 0,1% w/w de butadieno.
+
+476\. Gas de cola (petróleo), estabilizador para el fraccionamiento de nafta isomerizada (n.º CAS 68308-08-7), si contiene > 0,1% w/w de butadieno.
+
+477\. Gas de cola (petróleo), estabilizador de nafta ligera de primera destilación, libre de sulfuro de hidrógeno (n.º CAS 68308-09-8), si contiene > 0,1% w/w de butadieno.
+
+478\. Gas de cola (petróleo), hidrodesulfurador para el destilado de primera destilación, libre de sulfuro de hidrógeno (n.º CAS 68308-10-1), si contiene > 0,1% w/w de butadieno.
+
+479\. Gas de cola (petróleo), desetanizador para la preparación de la alimentación para la alquilación de propano-propileno (n.º CAS 68308-11-2), si contiene > 0,1% w/w de butadieno.
+
+480\. Gas de cola (petróleo), hidrodesulfurador para gasóleo obtenido a vacío, libre de sulfuro de hidrógeno (n.º CAS 68308-12-3), si contiene > 0,1% w/w de butadieno.
+
+481\. Gases (petróleo), fracciones de cabeza craqueadas catalíticamente (n.º CAS 68409-99-4), si contienen > 0,1% w/w de butadieno.
+
+482\. Alcanos, C<sub>1-2</sub> (n.º CAS 68475-57-0), si contienen > 0,1% w/w de butadieno.
+
+483\. Alcanos, C<sub>2-3</sub> (n.º CAS 68475-58-1), si contienen > 0,1% w/w de butadieno.
+
+484\. Alcanos, C<sub>3-4</sub> (n.º CAS 68475-59-2), si contienen > 0,1% w/w de butadieno.
+
+485\. Alcanos, C<sub>4-5</sub> (n.º CAS 68475-60-5), si contienen > 0,1% w/w de butadieno.
+
+486\. Gases combustibles (n.º CAS 68476-26-6), si contienen > 0,1% w/w de butadieno.
+
+487\. Gases combustibles, destilados de petróleo crudo (n.º CAS 68476-29-9), si contienen > 0,1% w/w de butadieno.
+
+488\. Hidrocarburos, C<sub>3-4</sub> (n.º CAS 68476-40-4), si contienen > 0,1% w/w de butadieno.
+
+489\. Hidrocarburos, C<sub>4-5</sub> (n.º CAS 68476-42-6), si contienen > 0,1% w/w de butadieno.
+
+490\. Hidrocarburos C<sub>2-4</sub>, ricos en C3 (n.º CAS 68476-49-3), si contienen > 0,1% w/w de butadieno.
+
+491\. Gases del petróleo, licuados (n.º CAS 68476-85-7), si contienen > 0,1% w/w de butadieno.
+
+492\. Gases del petróleo, licuados, desazufrados (n.º CAS 68476-86-8), si contienen > 0,1% w/w de butadieno.
+
+493\. Gases (petróleo), C<sub>3-4</sub>, ricos en isobutano (n.º CAS 68477-33-8), si contienen > 0,1% w/w de butadieno.
+
+494\. Destilados (petróleo), C<sub>3-6</sub>, ricos en piperileno (n.º CAS 68477-35-0), si contienen > 0,1% w/w de butadieno.
+
+495\. Gases (petróleo), alimentación del sistema con aminas (n.º CAS 68477-65-6), si contienen > 0,1% w/w de butadieno.
+
+496\. Gases (petróleo), hidrodesulfurador de la unidad de benceno (n.º CAS 68477-66-7), si contienen > 0,1% w/w de butadieno.
+
+497\. Gases (petróleo), reciclado de la unidad de benceno, ricos en hidrógeno (n.º CAS 68477-67-8), si contienen > 0,1% w/w de butadieno.
+
+498\. Gases (petróleo), aceite de mezcla, ricos en hidrógeno y nitrógeno (n.º CAS 68477-68-9), si contienen > 0,1% w/w de butadieno.
+
+499\. Gases (petróleo), productos de cabeza del separador de butano (n.º CAS 68477-69-0), si contienen > 0,1% w/w de butadieno.
+
+500\. Gases (petróleo), C<sub>2-3</sub> (n.º CAS 68477-70-3), si contienen > 0,1% w/w de butadieno.
+
+501\. Gases (petróleo), residuos del fondo del despropanizador de gasóleo craqueado catalíticamente, libre de ácidos ricos en C<sub>4</sub> (n.º CAS 68477-71-4), si contienen > 0,1% w/w de butadieno.
+
+502\. Gases (petróleo), residuos del fondo del desbutanizador de nafta craqueada catalíticamente, ricos en C<sub>3-5</sub> (n.º CAS 68477-72-5), si contienen > 0,1% w/w de butadieno.
+
+503\. Gases (petróleo), producto de cabeza del despropanizador de nafta craqueada catalíticamente, libre de ácidos ricos en C<sub>3</sub> (n.º CAS 68477-73-6), si contienen > 0,1% w/w de butadieno.
+
+504\. Gases (petróleo), craqueador catalítico (n.º CAS 68477-74-7), si contienen > 0,1% w/w de butadieno.
+
+505\. Gases (petróleo), craqueador catalítico, ricos en C<sub>1-5</sub> (n.º CAS 68477-75-8), si contienen > 0,1% w/w de butadieno.
+
+506\. Gases (petróleo), productos de cabeza del estabilizador de nafta polimerizada catalíticamente, ricos en C<sub>2-4</sub> (n.º CAS 68477-76-9), si contienen > 0,1% w/w de butadieno.
+
+507\. Gases (petróleo), productos de cabeza del extractor de nafta reformada catalíticamente (n.º CAS 68477-77-0), si contienen > 0,1% w/w de butadieno.
+
+508\. Gases (petróleo), reformador catalítico, ricos en C<sub>1-4</sub> (n.º CAS 68477-79-2), si contienen > 0,1% w/w de butadieno.
+
+509\. Gases (petróleo), reciclado de C<sub>6-8</sub> en el reformador catalítico (n.º CAS 68477-80-5), si contienen > 0,1% w/w de butadieno.
+
+510\. Gases (petróleo), reformador catalítico de C<sub>6-8</sub> (n.º CAS 68477-81-6), si contienen > 0,1% w/w de butadieno.
+
+511\. Gases (petróleo), reciclado de C<sub>6-8</sub> del reformador catalítico, ricos en hidrógeno (n.º CAS 68477-82-7), si contienen > 0,1% w/w de butadieno.
+
+512\. Gases (petróleo), alimentación de C<sub>3-5</sub> para la alquilación parafínica-olefínica (n.º CAS 68477-83-8), si contienen > 0,1% w/w de butadieno.
+
+513\. Gases (petróleo), corriente de reflujo de C<sub>2</sub> (n.º CAS 68477-84-9), si contienen > 0,1% w/w de butadieno.
+
+514\. Gases (petróleo), ricos en C<sub>4</sub> (n.º CAS 68477-85-0), si contienen > 0,1% w/w de butadieno.
+
+515\. Gases (petróleo), productos de cabeza del desetanizador (n.º CAS 68477-86-1), si contienen > 0,1% w/w de butadieno.
+
+516\. Gases (petróleo), productos de cabeza de la torre del desisobutanizador (n.º CAS 68477-87-2), si contienen > 0,1% w/w de butadieno.
+
+517\. Gases (petróleo), despropanizador por vía seca, ricos en propeno (n.º CAS 68477-90-7), si contienen > 0,1% w/w de butadieno.
+
+518\. Gases (petróleo), productos de cabeza del despropanizador (n.º CAS 68477-91-8), si contienen > 0,1% w/w de butadieno.
+
+519\. Gases (petróleo), secos y con azufre, unidad de concentración de gas (n.º CAS 68477-92-9), si contienen > 0,1% w/w de butadieno.
+
+520\. Gases (petróleo), destilación en el reabsorbedor de concentración de gas (n.º CAS 68477-93-0), si contienen > 0,1% w/w de butadieno.
+
+521\. Gases (petróleo), productos de cabeza del despropanizador de la planta de recuperación de gas (n.º CAS 68477-94-1), si contienen > 0,1% w/w de butadieno.
+
+522\. Gases (petróleo), alimentación de la unidad Girbatol (n.º CAS 68477-95-2), si contienen > 0,1% w/w de butadieno.
+
+523\. Gases (petróleo), aparato de absorción de hidrógeno (n.º CAS 68477-96-3), si contienen > 0,1% w/w de butadieno.
+
+524\. Gases (petróleo), ricos en hidrógeno (n.º CAS 68477-97-4), si contienen > 0,1% w/w de butadieno.
+
+525\. Gases (petróleo), reciclado del aceite de mezcla en el aparato para el tratamiento con hidrógeno, ricos en hidrógeno y nitrógeno (n.º CAS 68477-98-5), si contienen > 0,1% w/w de butadieno.
+
+526\. Gases (petróleo), fraccionador de nafta isomerizada, ricos en C4, libres de sulfuro de hidrógeno (n.º CAS 68477-99-6), si contienen > 0,1% w/w de butadieno.
+
+527\. Gases (petróleo), reciclado, ricos en hidrógeno (n.º CAS 68478-00-2), si contienen > 0,1% w/w de butadieno.
+
+528\. Gases (petróleo), composición del reformador, ricos en hidrógeno (n.º CAS 68478-01-3), si contienen > 0,1% w/w de butadieno.
+
+529\. Gases (petróleo), reformados en el aparato para el tratamiento con hidrógeno (n.º CAS 68478-02-4), si contienen > 0,1% w/w de butadieno.
+
+530\. Gases (petróleo), reformados en el aparato para el tratamiento con hidrógeno, ricos en hidrógeno y metano (n.º CAS 68478-00-5), si contienen > 0,1% w/w de butadieno.
+
+531\. Gases (petróleo), composición del reformado en el aparato para el tratamiento con hidrógeno, ricos en hidrógeno (n.º CAS 68478-04-6), si contienen > 0,1% w/w de butadieno.
+
+532\. Gases (petróleo), destilación de los productos de craqueo térmico (n.º CAS 68478-05-7), si contienen > 0,1% w/w de butadieno.
+
+533\. Gas de cola (petróleo), aceite clarificado craqueado catalíticamente y tambor de reflujo para el fraccionamiento del residuo obtenido a vacío craqueado térmicamente (n.º CAS 68478-21-7), si contiene > 0,1% w/w de butadieno.
+
+534\. Gas de cola (petróleo), aparato de absorción para la estabilización de nafta craqueada catalíticamente (n.º CAS 68478-22-8), si contiene > 0,1% w/w de butadieno.
+
+535\. Gas de cola (petróleo), fraccionador para los productos combinados del hidrodesulfurizador, reformador catalítico y craqueador catalítico (n.º CAS 68478-24-0), si contiene > 0,1% w/w de butadieno.
+
+536\. Gas de cola (petróleo), aparato de absorción para el refraccionamiento de productos del craqueador catalítico (n.º CAS 68478-25-1), si contiene > 0,1% w/w de butadieno.
+
+537\. Gas de cola (petróleo), estabilizador para el fraccionamiento de nafta reformada catalíticamente (n.º CAS 68478-26-2), si contiene > 0,1% w/w de butadieno.
+
+538\. Gas de cola (petróleo), separador de nafta reformada catalíticamente (n.º CAS 68478-27-3), si contiene > 0,1% w/w de butadieno.
+
+539\. Gas de cola (petróleo), estabilizador de nafta reformada catalíticamente (n.º CAS 68478-28-4), si contiene > 0,1% w/w de butadieno.
+
+540\. Gas de cola (petróleo), separador del aparato para el tratamiento con hidrógeno del destilado craqueado (n.º CAS 68478-29-5), si contiene > 0,1% w/w de butadieno.
+
+541\. Gas de cola (petróleo), separador de nafta de primera destilación hidrodesulfurada (n.º CAS 68478-30-8), si contiene > 0,1% w/w de butadieno.
+
+542\. Gas de cola (petróleo), corriente mixta del saturado de la planta de gas, rico en C<sub>4</sub> (n.º CAS 68478-32-0), si contiene > 0,1% w/w de butadieno.
+
+543\. Gas de cola (petróleo), saturado de la planta de recuperación de gas, rico en C<sub>1-2</sub> (n.º CAS 68478-33-1), si contiene > 0,1% w/w de butadieno.
+
+544\. Gas de cola (petróleo), craqueador térmico de residuos obtenidos a vacío (n.º CAS 68478-34-2), si contiene > 0,1% w/w de butadieno.
+
+545\. Hidrocarburos, ricos en C<sub>3-4</sub>, destilado del petróleo (n.º CAS 68512-91-4), si contienen > 0,1% w/w de butadieno.
+
+546\. Gases (petróleo), productos de cabeza del estabilizador de nafta de primera destilación reformada catalíticamente (n.º CAS 68513-14-4), si contienen > 0,1% w/w de butadieno.
+
+547\. Gases (petróleo), deshexanizador de la serie completa de nafta de primera destilación (n.º CAS 68513-15-5), si contienen > 0,1% w/w de butadieno.
+
+548\. Gases (petróleo), despropanizador de hidrocraqueo, ricos en hidrocarburos (n.º CAS 68513-16-6), si contienen > 0,1% w/w de butadieno.
+
+549\. Gases (petróleo), estabilizador de nafta ligera de primera destilación (n.º CAS 68513-17-7), si contienen > 0,1% w/w de butadieno.
+
+550\. Gases (petróleo), efluente del reformador con tambor de expansión súbita a alta presión (n.º CAS 68513-18-8), si contienen > 0,1% w/w de butadieno.
+
+551\. Gases (petróleo), efluente del reformador con tambor de expansión súbita a baja presión (n.º CAS 68513-19-9), si contienen > 0,1% w/w de butadieno.
+
+552\. Residuos (petróleo), separador de alquilación, ricos en C<sub>4</sub> (n.º CAS 68513-66-6), si contienen > 0,1% w/w de butadieno.
+
+553\. Hidrocarburos, C<sub>1-4</sub> (n.º CAS 68514-31-8), si contienen > 0,1% w/w de butadieno.
+
+554\. Hidrocarburos, C<sub>1-4</sub>, desazufrados (n.º CAS 68514-36-3), si contienen > 0,1% w/w de butadieno.
+
+555\. Gases (petróleo), destilación de gas de refinería de petróleo (n.º CAS 68527-15-1), si contienen > 0,1% w/w de butadieno.
+
+556\. Hidrocarburos, C<sub>1-3</sub> (n.º CAS 68527-16-2), si contienen > 0,1% w/w de butadieno.
+
+557\. Hidrocarburos, C<sub>1-4</sub>, fracción del desbutanizador (n.º CAS 68527-19-5), si contienen > 0,1% w/w de butadieno.
+
+558\. Gases (petróleo), productos de cabeza del despentanizador del aparato para tratamiento con hidrógeno de la unidad de benceno (n.º CAS 68602-82-4), si contienen > 0,1% w/w de butadieno.
+
+559\. Gases (petróleo), C<sub>1-5</sub>, en húmedo (n.º CAS 68602-83-5), si contienen > 0,1% w/w de butadieno.
+
+560\. Gases (petróleo), aparato de absorción secundario, fraccionador de los productos de cabeza del craqueador catalítico fluidizado (n.º CAS 68602-84-6), si contienen > 0,1% w/w de butadieno.
+
+561\. Hidrocarburos, C<sub>2-4</sub> (n.º CAS 68606-25-7), si contienen > 0,1% w/w de butadieno.
+
+562\. Hidrocarburos, C<sub>3</sub> (n.º CAS 68606-26-8), si contienen > 0,1% w/w de butadieno.
+
+563\. Gases (petróleo), alimentación por alquilación (n.º CAS 68606-27-9), si contienen > 0,1% w/w de butadieno.
+
+564\. Gases (petróleo), fraccionamiento de los residuos del fondo del despropanizador (n.º CAS 68606-34-8), si contienen > 0,1% w/w de butadieno.
+
+565\. Productos del petróleo, gases de refinería (n.º CAS 68607-11-4), si contienen > 0,1% w/w de butadieno.
+
+566\. Gases (petróleo), separador a baja presión de hidrocraqueo (n.º CAS 68783-06-2), si contienen > 0,1% w/w de butadieno.
+
+567\. Gases (petróleo), mezcla de refinería (n.º CAS 68783-07-3), si contienen > 0,1% w/w de butadieno.
+
+568\. Gases (petróleo), craqueo catalítico (n.º CAS 68783-64-2), si contienen > 0,1% w/w de butadieno.
+
+569\. Gases (petróleo), C<sub>2-4</sub>, desazufrados (n.º CAS 68783-65-3), si contienen > 0,1% w/w de butadieno.
+
+570\. Gases (petróleo), refinería (n.º CAS 68814-67-5), si contienen > 0,1% w/w de butadieno.
+
+571\. Gases (petróleo), separador de productos del reformador al platino (n.º CAS 68814-90-4), si contienen > 0,1% w/w de butadieno.
+
+572\. Gases (petróleo), estabilizador para el despentanizador de querosina con azufre tratada con hidrógeno (n.º CAS 68911-58-0), si contienen > 0,1% w/w de butadieno.
+
+573\. Gases (petróleo), tambor de expansión súbita para querosina con azufre tratada con hidrógeno (n.º CAS 68911-59-1), si contienen > 0,1% w/w de butadieno.
+
+574\. Gases (petróleo), fraccionamiento de petróleo crudo (n.º CAS 68918-99-0), si contienen > 0,1% w/w de butadieno.
+
+575\. Gases (petróleo), deshexanizador (n.º CAS 68919-00-6), si contienen > 0,1% w/w de butadieno.
+
+576\. Gases (petróleo), extractor para la desulfuración del destilado en la unidad de refino (n.º CAS 68919-01-7), si contienen > 0,1% w/w de butadieno.
+
+577\. Gases (petróleo), fraccionamiento en el craqueador catalítico fluidizado (n.º CAS 68919-02-8), si contienen > 0,1% w/w de butadieno.
+
+578\. Gases (petróleo), aparato de absorción auxiliar para la depuración en el craqueador catalítico fluidizado (n.º CAS 68919-03-9), si contienen > 0,1% w/w de butadieno.
+
+579\. Gases (petróleo), extractor para la desulfuración del destilado pesado en el aparato para el tratamiento con hidrógeno (n.º CAS 68919-04-0), si contienen > 0,1% w/w de butadieno.
+
+580\. Gases (petróleo), estabilizador para el fraccionamiento de gasolina ligera de primera destilación (n.º CAS 68919-05-1), si contienen > 0,1% w/w de butadieno.
+
+581\. Gases (petróleo), extractor para la desulfuración de nafta en la unidad de refino (n.º CAS 68919-06-2), si contienen > 0,1% w/w de butadieno.
+
+582\. Gases (petróleo), estabilizador del reformador al platino, fraccionamiento de los productos finales ligeros (n.º CAS 68919-07-3), si contienen > 0,1% w/w de butadieno.
+
+583\. Gases (petróleo), torre de predestilación, destilación del petróleo crudo (n.º CAS 68919-08-4), si contienen > 0,1% w/w de butadieno.
+
+584\. Gases (petróleo), reformado catalítico de nafta de primera destilación (n.º CAS 68919-09-5), si contienen > 0,1% w/w de butadieno.
+
+585\. Gases (petróleo), estabilizador de fracciones de primera destilación (n.º CAS 68919-10-8), si contienen > 0,1% w/w de butadieno.
+
+586\. Gases (petróleo), extractor de alquitrán (n.º CAS 68919-11-9), si contienen > 0,1% w/w de butadieno.
+
+587\. Gases (petróleo), extractor de la unidad de refino (n.º CAS 68919-12-0), si contienen > 0,1% w/w de butadieno.
+
+588\. Gases (petróleo), productos de cabeza del separador para el craqueador catalítico fluidizado (n.º CAS 68919-20-0), si contienen > 0,1% w/w de butadieno.
+
+589\. Gases (petróleo), desbutanizador de nafta craqueada catalíticamente (n.º CAS 68952-76-1), si contienen > 0,1% w/w de butadieno.
+
+590\. Gas de cola (petróleo), estabilizador de nafta y destilado craqueados catalíticamente (n.º CAS 68952-77-2), si contiene > 0,1% w/w de butadieno.
+
+591\. Gas de cola (petróleo), separador de nafta hidrodesulfurada catalíticamente (n.º CAS 68952-79-4), si contiene > 0,1% w/w de butadieno.
+
+592\. Gas de cola (petróleo), hidrodesulfurador de nafta de primera destilación (n.º CAS 68952-80-7), si contiene > 0,1% w/w de butadieno.
+
+593\. Gas de cola (petróleo), aparato de absorción de nafta, gasóleo y destilado craqueados catalíticamente (n.º CAS 68952-81-8), si contiene > 0,1% w/w de butadieno.
+
+594\. Gas de cola (petróleo), para el fraccionamiento de hidrocarburos craqueados térmicamente, coquización de petróleo (n.º CAS 68952-82-9), si contiene > 0,1% w/w de butadieno.
+
+595\. Gases (petróleo), fracción ligera craqueada a vapor, concentrado de butadieno (n.º CAS 68955-28-2), si contienen > 0,1% w/w de butadieno.
+
+596\. Gases (petróleo), fraccionamiento del producto de cabeza del aparato de absorción con esponja, craqueador catalítico fluidizado y desulfurizador de gasóleo (n.º CAS 68955-33-9), si contienen > 0,1% w/w de butadieno.
+
+597\. Gases (petróleo), productos de cabeza del estabilizador del reformador catalítico de nafta de primera destilación (n.º CAS 68955-34-0), si contienen > 0,1% w/w de butadieno.
+
+598\. Gases (petróleo), destilación de petróleo crudo y craqueo catalítico (n.º CAS 68989-88-8), si contienen > 0,1% w/w de butadieno.
+
+599\. Hidrocarburos, C<sub>4</sub> (n.º CAS 87741-01-3), si contienen > 0,1% w/w de butadieno.
+
+600\. Alcanos, C1-4, ricos en C<sub>3</sub> (n.º CAS 90622-55-2), si contienen > 0,1% w/w de butadieno.
+
+601\. Gases (petróleo), depurador de gasóleos con dietanolamina (n.º CAS 92045-15-3), si contienen > 0,1% w/w de butadieno.
+
+602\. Gases (petróleo), efluente de la hidrodesulfuración del gasóleo (n.º CAS 92045-16-4), si contienen > 0,1% w/w de butadieno.
+
+603\. Gases (petróleo), purga de la hidrodesulfuración de gasóleo (n.º CAS 92045-17-5), si contienen > 0,1% w/w de butadieno.
+
+604\. Gases (petróleo), tambor de expansión súbita del efluente del hidrogenador (n.º CAS 92045-18-6), si contienen > 0,1% w/w de butadieno.
+
+605\. Gases (petróleo), fracción residual a alta presión del craqueo a vapor de nafta (n.º CAS 92045-19-7), si contienen > 0,1% w/w de butadieno.
+
+606\. Gases (petróleo), reducción de viscosidad del residuo (n.º CAS 92045-20-0), si contienen > 0,1% w/w de butadieno.
+
+607\. Gases (petróleo), fracción rica en C<sub>3</sub> del craqueador a vapor (n.º CAS 92045-22-2), si contienen > 0,1% w/w de butadieno.
+
+608\. Hidrocarburos, C<sub>4</sub>, destilado del craqueador a vapor (n.º CAS 92045-23-3), si contienen > 0,1% w/w de butadieno.
+
+609\. Gases del petróleo, licuados, desazufrados, fracción de C<sub>4</sub> (n.º CAS 92045-80-2), si contienen > 0,1% w/w de butadieno.
+
+610\. Hidrocarburos, C<sub>4</sub>, libres de 1,3-butadieno e isobuteno (n.º CAS 95465-89-7), si contienen > 0,1% w/w de butadieno.
+
+611\. Refinados (petróleo), extracción de acetato de amonio cuproso de la fracción de C4 craqueada a vapor, C<sub>3-5</sub> e insaturados de C<sub>3-5</sub>, libres de butadieno (n.º CAS 97722-19-5), si contienen > 0,1% w/w de butadieno.
+
+612\. Benzo[def]criseno (=benzo[a]pireno) (n.º CAS 50-32-8).
+
+613\. Brea, petróleo-alquitrán de hulla (n.º CAS 68187-57-5), si contiene > 0,005% w/w de benzo[a]pireno.
+
+614\. Destilados (petróleo-hulla), fracción aromática con anillos condensados (n.º CAS 68188-48-7), si contienen > 0,005% w/w de benzo[a]pireno.
+
+615\. **(Suprimido)**
+
+616\. **(Suprimido)**
+
+617\. Aceite de creosota, fracción de acenafteno, libre de acenafteno (n.º CAS 90640-85-0), si contiene > 0,005% w/w de benzo[a]pireno.
+
+618\. Brea, alquitrán de hulla, baja temperatura (n.º CAS 90669-57-1), si contiene > 0,005% w/w de benzo[a]pireno.
+
+619\. Brea, alquitrán de hulla, baja temperatura, tratada térmicamente (n.º CAS 90669-58-2), si contiene > 0,005% w/w de benzo[a]pireno.
+
+620\. Brea, alquitrán de hulla, baja temperatura, oxidada (n.º CAS 90669-59-3), si contiene > 0,005% w/w de benzo[a]pireno.
+
+621\. Residuos del extracto (hulla), lignito (n.º CAS 91697-23-3), si contienen > 0,005% w/w de benzo[a]pireno.
+
+622\. Ceras de parafina (hulla), alquitrán de lignito a elevada temperatura (n.º CAS 92045-71-1), si contienen > 0,005% w/w de benzo[a]pireno.
+
+623\. Ceras de parafina (hulla), alquitrán de lignito a elevada temperatura, tratadas con hidrógeno (n.º CAS 92045-72-2), si contienen > 0,005% w/w de benzo[a]pireno.
+
+624\. Sólidos residuales, coquización de brea de alquitrán de hulla (n.º CAS 92062-34-5), si contienen > 0,005% w/w de benzo[a]pireno.
+
+625\. Brea, alquitrán de hulla, alta temperatura, secundaria (n.º CAS 94114-13-3), si contiene > 0,005% w/w de benzo[a]pireno.
+
+626\. Residuos (hulla), extracción con líquido disolvente (n.º CAS 94114-46-2), si contienen > 0,005% w/w de benzo[a]pireno.
+
+627\. Líquidos de hulla, solución de la extracción con líquido disolvente (n.º CAS 94114-47-3), si contienen > 0,005% w/w de benzo[a]pireno.
+
+628\. Líquidos de hulla, extracción con líquido disolvente (n.º CAS 94114-48-4), si contienen > 0,005% w/w de benzo[a]pireno.
+
+629\. Ceras de parafina (hulla), alquitrán de lignito a elevada temperatura, tratados con carbono (n.º CAS 97926-76-6), si contienen > 0,005% w/w de benzo[a]pireno.
+
+630\. Ceras de parafina (hulla), alquitrán de lignito a elevada temperatura, tratados con arcilla (n.º CAS 97926-77-7), si contienen > 0,005% w/w de benzo[a]pireno.
+
+631\. Ceras de parafina (hulla), alquitrán de lignito a elevada temperatura, tratado con ácido silícico (n.º CAS 97926-78-8), si contienen > 0,005% w/w de benzo[a]pireno.
+
+632\. Aceites de absorción, fracción hidrocarbonada heterocíclica y biciclo aromática (n.º CAS 101316-45-4), si contienen > 0,005% w/w de benzo[a]pireno.
+
+633\. Hidrocarburos aromáticos, C<sub>20-28</sub>, policíclicos, mezcla derivada de la pirólisis de polipropileno-polietileno-brea de alquitrán de hulla (n.º CAS 101794-74-5), si contienen > 0,005% w/w de benzo[a]pireno.
+
+634\. Hidrocarburos aromáticos, C<sub>20-28</sub>, policíclicos, mezcla derivada de la pirólisis de polietileno-brea de alquitrán de hulla (n.º CAS 101794-75-6), si contienen > 0,005% w/w de benzo[a]pireno.
+
+635\. Hidrocarburos aromáticos, C<sub>20-28</sub>, policíclicos, mezcla derivada de la pirólisis de polietileno-brea de alquitrán de hulla (n.º CAS 101794-76-7), si contienen > 0,005% w/w de benzo[a]pireno.
+
+636\. Brea, alquitrán de hulla, elevada temperatura, tratada térmicamente (n.º CAS 121575-60-8), si contiene > 0,005% w/w de benzo[a]pireno.
+
+637\. Dibenzo[a,h]antraceno (n.º CAS 53-70-3).
+
+638\. Benzo[a]antraceno (n.º CAS 56-55-3).
+
+639\. Benzo[e]pireno (n.º CAS 192-97-2).
+
+640\. Benzo[j]fluoranteno (n.º CAS 205-82-3).
+
+641\. Benzo(e)acefenantrileno (n.º CAS 205-99-2).
+
+642\. Benzo[k]fluoranteno (n.º CAS 207-08-9).
+
+643\. Criseno (n.º CAS 218-01-9).
+
+644\. 2-bromopropano (n.º CAS 75-26-3).
+
+645\. Tricloroetileno (n.º CAS 79-01-6).
+
+646\. 1,2-dibromo-3-cloropropano (n.º CAS 96-12-8).
+
+647\. 2,3-dibromopropan-1-ol (n.º CAS 96-13-9).
+
+648\. 1,3-dicloropropan-2-ol (n.º CAS 96-23-1).
+
+649\. α,α,α-tricloroetileno (n.º CAS 98-07-7).
+
+650\. α-clorotol
+
+651\. 1,2-dibromoetano (n.º CAS 106-93-4).
+
+652\. Hexaclorobenceno (n.º CAS 118-74-1).
+
+653\. Bromoetileno (n.º CAS 593-60-2).
+
+654\. 1,4-diclorobut-2-eno (n.º CAS 764-41-0).
+
+655\. Metiloxirano (n.º CAS 75-56-9).
+
+656\. (Epoxietil)benceno (n.º CAS 96-09-3).
+
+657\. 1-cloro-2,3-epoxipropano (n.º CAS 106-89-8).
+
+658\. *R*-1-cloro-2,3-epoxipropano (n.º CAS 51594-55-9).
+
+659\. 1,2-epoxi-3-fenoxipropano (n.º CAS 122-60-1).
+
+660\. 2,3-epoxipropan-1-ol (n.º CAS 556-52-5).
+
+661\. *R*-2,3-epoxi-1-propanol (n.º CAS 57044-25-4).
+
+662\. 2,2'-bioxirano (n.º CAS 1464-53-5).
+
+663\. (2RS, 3RS)-3-(2-clorofenil)-2-(4-fluorofenil)-[1H-1,2,4-triazol-1-il]metil)oxirano; epoxiconazol (número CAS 133855-98-8)
+
+664\. Clorometil metil éter (n.º CAS 107-30-2).
+
+665\. 2-metoxietanol (n.º CAS 109-86-4).
+
+666\. 2-etoxietanol (n.º CAS 110-80-5).
+
+667\. Oxibis[clorometano], bis(clorometil) éter (n.º CAS 542-88-1).
+
+668\. 2-metoxipropanol (n.º CAS 1589-47-5).
+
+669\. Propiolactona (n.º CAS 57-57-8).
+
+670\. Cloruro de dimetilcarbamoílo (n.º CAS 79-44-7).
+
+671\. Uretano (n.º CAS 51-79-6).
+
+672\. Acetato de 2-metoxietilo (n.º CAS 110-49-6).
+
+673\. Acetato de 2-etoxietilo (n.º CAS 111-15-9).
+
+674\. Ácido metoxiacético (n.º CAS 625-45-6).
+
+675\. Ftalato de dibutilo (n.º CAS 84-74-2).
+
+676\. Bis(2-metoxietil) éter (n.º CAS 111-96-6).
+
+677\. Ftalato de bis(2-etilhexilo) (n.º CAS 117-81-7).
+
+678\. Ftalato de bis(2-metoxietilo) (n.º CAS 117-82-8).
+
+679\. Acetato de 2-metoxipropilo (n.º CAS 70657-70-4).
+
+680\. 2-etilhexil[[[3,5-bis (1,1-dimetiletil)-4-hidroxifenil]-metil]tio]acetato (n.º CAS 80387-97-9).
+
+681\. Acrilamida, salvo que esté regulada en otro lugar de la presente Directiva (n.º CAS 79-06-1).
+
+682\. Acrilonitrilo (n.º CAS 107-13-1).
+
+683\. 2-nitropropano (n.º CAS 79-46-9).
+
+684\. Dinoseb (n.º CAS 88-85-7), sus sales y ésteres excepto aquellos específicamente expresados en esta lista.
+
+685\. 2-nitroanisol (n.º CAS 91-23-6).
+
+686\. 4-nitrobifenilo (n.º CAS 92-93-3).
+
+687\. dinitrotolueno, calidad técnica (N.ª CAS 121-14-2).
+
+688\. Binapacril (n.º CAS 485-31-4).
+
+689\. 2-nitronaftaleno (n.º CAS 581-89-5).
+
+690\. 2,3-dinitrotolueno (n.º CAS 602-01-7).
+
+691\. 5-nitroacenafteno (n.º CAS 602-87-9).
+
+692\. 2,6-dinitrotolueno (n.º CAS 606-20-2).
+
+693\. 3,4-dinitrotolueno (n.º CAS 610-39-9).
+
+694\. 3,5-dinitrotolueno (n.º CAS 618-85-9).
+
+695\. 2,5-dinitrotolueno (n.º CAS 619-15-8).
+
+696\. Dinoterb (n.º CAS 1420-07-1), sus sales y ésteres.
+
+697\. Nitrofeno (n.º CAS 1836-75-5).
+
+698\. Dinitrotolueno (n.º CAS 25321-14-6).
+
+699\. Diazometano (n.º CAS 334-88-3).
+
+700\. 1,4,5,8-tetraaminoantraquinona (azul 1 disperso) (n.º CAS 2475-45-8).
+
+701\. Dimetilnitrosoamina (n.º CAS 62-75-9).
+
+702\. 1-metil-3-nitro-1-nitrosoguanidina (n.º CAS 70-25-7).
+
+703\. Nitrosodipropilamina (n.º CAS 621-64-7).
+
+704\. 2,2'-(nitrosoimino)bisetanol (n.º CAS 1116-54-7).
+
+705\. 4,4'-metilendianilina (n.º CAS 101-77-9).
+
+706\. Clorhidrato de 4,4'-(4-iminociclohexa-2,5-dienilidenometilen)dianilina (n.º CAS 569-61-9).
+
+707\. 4,4'-metilendi-o-toluidina (n.º CAS 838-88-0).
+
+708\. o-Anisidina (n.º CAS 90-04-0).
+
+709\. 3,3'-dimetoxibencidina (n.º CAS 119-90-4).
+
+710\. Sales de o-dianisidina.
+
+711\. Tintes azoicos derivados de la o-dianisidina.
+
+712\. 3,3'-diclorobencidina (n.º CAS 91-94-1).
+
+713\. Diclorhidrato de bencidina (n.º CAS 531-85-1).
+
+714\. Sulfato de [[1,1'-bifenil]-4,4'-diil]diamonio (n.º CAS 531-86-2).
+
+715\. Diclorhidrato de 3,3'-diclorobencidina (n.º CAS 612-83-9).
+
+716\. Sulfato de bencidina (n.º CAS 21136-70-9).
+
+717\. Acetato de bencidina (n.º CAS 36341-27-2).
+
+718\. Dihidrogenobis(sulfato) de 3,3'-diclorobencidina (n.º CAS 64969-34-2).
+
+719\. Sulfato de 3,3'-diclorobencidina (n.º CAS 74332-73-3).
+
+720\. Tintes azoicos derivados de la bencidina.
+
+721\. 4,4'-bi-o-toluidina (n.º CAS 119-93-7).
+
+722\. Diclorhidrato de 4,4'-bi-o-toluidina (n.º CAS 612-82-8).
+
+723\. Bis (hidrogenosulfato) de [3,3'-dimetil[1,1'-bifenil]-4,4'-diil]diamonio (n.º CAS 64969-36-4).
+
+724\. Sulfato de 4,4'-bi-o-toluidina (n.º CAS 74753-18-7).
+
+725\. Tintes derivados de la o-tolidina.
+
+726\. Bifenil-4-ilamina (n.º CAS 92-67-1) y sus sales.
+
+727\. Azobenceno (n.º CAS 103-33-3).
+
+728\. Acetato de (metil-ONN-azoxi)metilo (n.º CAS 592-62-1).
+
+729\. Cicloheximida (n.º CAS 66-81-9).
+
+730\. 2-metilaziridina (n.º CAS 75-55-8).
+
+731\. Imidazolidina-2-tiona (n.º CAS 96-45-7).
+
+732\. Furano (n.º CAS 110-00-9).
+
+733\. Aziridina (n.º CAS 151-56-4).
+
+734\. Captafol (n.º CAS 2425-06-1).
+
+735\. Carbadox (n.º CAS 6804-07-5).
+
+736\. Flumioxazina (n.º CAS 103361-09-7).
+
+737\. Tridemorfo (n.º CAS 24602-86-6).
+
+738\. Vinclozolina (n.º CAS 50471-44-8).
+
+739\. Fluazifop-butilo (n.º CAS 69806-50-4).
+
+740\. Flusilazol (n.º CAS 85509-19-9).
+
+741\. 1,3,5-tris (oxiranilmetil)-1,3,5-triazina-2,4,6 (1*H*, 3*H*, 5*H*)-triona (n.º CAS 2451-62-9).
+
+742\. Tioacetamida (n.º CAS 62-55-5).
+
+743\. N,N-dimetilformamida (n.º CAS 68-12-2).
+
+744\. Formamida (n.º CAS 75-12-7).
+
+745\. N-metilacetamida (n.º CAS 79-16-3).
+
+746\. *N*-metilformamida (n.º CAS 123-39-7).
+
+747\. N,N-dimetilacetamida (n.º CAS 127-19-5).
+
+748\. Hexametiltriamida fosfórica (n.º CAS 680-31-9).
+
+749\. Sulfato de dietilo (n.º CAS 64-67-5).
+
+750\. Sulfato de dimetilo (n.º CAS 77-78-1).
+
+751\. 1,3-propanosultona (n.º CAS 1120-71-4).
+
+752\. Cloruro de dimetilsulfamoílo (n.º CAS 13360-57-1).
+
+753\. Sulfalato (n.º CAS 95-06-7).
+
+754\. Mezcla de 4-[[bis-(4-fluorofenil)metilsilil]metil]-4*H*-1,2,4-triazol y 1-[[bis-(4-fluorofenil)metilsilil]metil]-1H-1,2,4-triazol (n.º CE 403-250-2).
+
+755\. (+/-) (R)-2-[4-(6-cloroquinoxalin-2-iloxi)feniloxi]propionato de tetrahidrofurfurilo (n.º CAS 119738-06-6).
+
+756\. 6-hidroxi-1-(3-isopropoxipropil)-4-metil-2-oxo-5-[4-(fenilazo)fenilazo]-1,2-dihidro-3-piridincarbonitrilo (n.º CAS 85136-74-9).
+
+757\. Formiato de (6-(4-hidroxi-3-(2-metoxifenilazo)-2-sulfonato-7-naftilamino)-1,3,5-triazin-2,4-diil)bis[(amino-1-metiletil)-amonio] (n.º CAS 108225-03-2).
+
+758\. [4'-(8-acetilamino-3,6-disulfonato-2-naftilazo)-4''-(6-benzoilamino-3-sulfonato-2-naftilazo)bifenil-1,3',3'',1'''-tetraolato-*O*, *O'*, *O''*, *O'''*]cobre (II) de trisodio (n.º CE 413-590-3).
+
+759\. Mezcla de N-[3-hidroxi-2-(2-metilacriloilaminometoxi)propoximetil]-2-metilacrilamida, con N-[2,3-bis-(2-metilacriloilaminometoxi)propoximetil]-2-metilacrilamida, con metacrilamida, con 2-metil-N-(2-metilacriloilaminometoximetil)-acrilamida y con N-(2,3-dihidroxipropoximetil)-2-metilacrilamida (n.º CE 412-790-8).
+
+760\. 1,3,5-tris-[(2*S* y 2*R*)-2,3-epoxipropil]-1,3,5-triazin-2,4,6-(1*H*,3*H*,5*H*)-triona (n.º CAS 59653-74-6).
+
+761\. Erionita (n.º CAS 12510-42-8).
+
+762\. Amianto (n.º CAS 12001-28-4).
+
+763\. Petróleo (n.º CAS 8002-05-9).
+
+764\. Destilados (petróleo), fracción pesada hidrocraqueada (n.º CAS 64741-76-0), si contienen > 3% w/w de extracto DMSO.
+
+765\. Destilados (petróleo), fracción parafínica pesada refinada con disolvente (n.º CAS 64741-88-4), si contienen >3% w/w de extracto DMSO.
+
+766\. Destilados (petróleo), fracción parafínica ligera refinada con disolvente (n.º CAS 64741-89-5), si contienen > 3% w/w de extracto DMSO.
+
+767\. Aceites residuales (petróleo), fracción desasfaltada con disolventes (n.º CAS 64741-95-3), si contienen> 3% w/w de extracto DMSO.
+
+768\. Destilados (petróleo), fracción nafténica pesada refinada con disolvente (n.º CAS 64741-96-4), si contienen > 3% w/w de extracto DMSO.
+
+769\. Destilados (petróleo), fracción nafténica ligera refinada con disolvente (n.º CAS 64741-97-5), si contienen > 3% w/w de extracto DMSO.
+
+770\. Aceites residuales (petróleo), refinados con disolvente (n.º CAS 64742-01-4), si contienen > 3% w/w de extracto DMSO.
+
+771\. Destilados (petróleo), fracción parafínica pesada tratada con arcilla (n.º CAS 64742-36-5), si contienen > 3% w/w de extracto DMSO.
+
+772\. Destilados (petróleo), fracción parafínica ligera tratada con arcilla (n.º CAS 64742-37-6), si contienen > 3% w/w de extracto DMSO.
+
+773\. Aceites residuales (petróleo), tratados con arcilla (n.º CAS 64742-41-2), si contienen > 3% w/w de extracto DMSO.
+
+774\. Destilados (petróleo), fracción nafténica pesada tratada con arcilla (n.º CAS 64742-44-5), si contienen > 3% w/w de extracto DMSO.
+
+775\. Destilados (petróleo), fracción nafténica ligera tratada con arcilla (n.º CAS 64742-45-6), si contienen > 3% w/w de extracto DMSO.
+
+776\. Destilados (petróleo), fracción nafténica pesada tratada con hidrógeno (n.º CAS 64742-52-5), si contienen > 3% w/w de extracto DMSO.
+
+777\. Destilados (petróleo), fracción nafténica ligera tratada con hidrógeno (n.º CAS 64742-53-6), si contienen > 3% w/w de extracto DMSO.
+
+778\. Destilados (petróleo), fracción parafínica pesada tratada con hidrógeno (n.º CAS 64742-54-7), si contienen > 3% w/w de extracto DMSO.
+
+779\. Destilados (petróleo), fracción parafínica ligera tratada con hidrógeno (n.º CAS 64742-55-8), si contienen > 3% w/w de extracto DMSO.
+
+780\. Destilados (petróleo), fracción parafínica ligera desparafinada con disolvente (n.º CAS 64742-56-9), si contienen > 3% w/w de extracto DMSO.
+
+781\. Aceites residuales (petróleo), tratados con hidrógeno (n.º CAS 64742-57-0), si contienen > 3% w/w de extracto DMSO.
+
+782\. Aceites residuales (petróleo), desparafinados con disolvente (n.º CAS 64742-62-7), si contienen > 3% w/w de extracto DMSO.
+
+783\. Destilados (petróleo), fracción nafténica pesada desparafinada con disolvente (n.º CAS 64742-63-8), si contienen > 3% w/w de extracto DMSO.
+
+784\. Destilados (petróleo), fracción nafténica ligera desparafinada con disolvente (n.º CAS 64742-64-9), si contienen > 3% w/w de extracto DMSO.
+
+785\. Destilados (petróleo), fracción parafínica pesada desparafinada con disolvente (n.º CAS 64742-65-0), si contienen > 3% w/w de extracto DMSO.
+
+786\. Aceite de sedimentos (petróleo) (n.º CAS 64742-67-2), si contiene > 3% w/w de extracto DMSO.
+
+787\. Aceites nafténicos (petróleo), fracción pesada desparafinada catalíticamente (n.º CAS 64742-68-3), si contienen > 3% w/w de extracto DMSO.
+
+788\. Aceites nafténicos (petróleo), fracción ligera desparafinada catalíticamente (n.º CAS 64742-69-4), si contienen > 3% w/w de extracto DMSO.
+
+789\. Aceites de parafina (petróleo), fracción pesada desparafinada catalíticamente (n.º CAS 64742-70-7), si contienen > 3% w/w de extracto DMSO.
+
+790\. Aceites de parafina (petróleo), fracción ligera desparafinada catalíticamente (n.º CAS 64742-71-8), si> 3% w/w de extracto DMSO.
+
+791\. Aceites nafténicos (petróleo), fracción pesada compleja desparafinada (n.º CAS 64742-75-2), si contienen > 3% w/w de extracto DMSO.
+
+792\. Aceites nafténicos (petróleo), fracción ligera compleja desparafinada (n.º CAS 64742-76-3), si contienen > 3% w/w de extracto DMSO.
+
+793\. Extractos (petróleo), destilado nafténico pesado extraído con disolvente, concentrado aromático (n.º CAS 68783-00-6), si contienen > 3% w/w de extracto DMSO.
+
+794\. Extractos (petróleo), destilado parafínico pesado extraído con disolvente refinado con disolvente (n.º CAS 68783-04-0), si contienen > 3% w/w de extracto DMSO.
+
+795\. Extractos (petróleo), destilados parafínicos pesados, desasfaltados con disolvente (n.º CAS 68814-89-1), si contienen > 3% w/w de extracto DMSO.
+
+796\. Aceites lubricantes (petróleo), C<sub>20-50</sub>, basados en aceite neutro tratado con hidrógeno, elevada viscosidad (n.º CAS 72623-85-9), si contienen > 3% w/w de extracto DMSO.
+
+797\. Aceites lubricantes (petróleo), C<sub>15-30</sub>, basados en aceite neutro tratado con hidrógeno (n.º CAS 72623-86-0), si contienen > 3% w/w de extracto DMSO.
+
+798\. Aceites lubricantes (petróleo), C<sub>20-50</sub>, basados en aceite neutro tratado con hidrógeno (n.º CAS 72623-87-1), si contienen > 3% w/w de extracto DMSO.
+
+799\. Aceites lubricantes (n.º CAS 74869-22-0), si contienen > 3% w/w de extracto DMSO.
+
+800\. Destilados (petróleo), fracción compleja parafínica pesada desparafinada (n.º CAS 90640-91-8), si contienen > 3% w/w de extracto DMSO.
+
+801\. Destilados (petróleo), fracción compleja parafínica ligera desparafinada (n.º CAS 90640-92-9), si contienen > 3% w/w de extracto DMSO.
+
+802\. Destilados (petróleo), fracción parafínica pesada desparafinada con disolventes, tratada con arcilla (n.º CAS 90640-94-1), si contienen > 3% w/w de extracto DMSO.
+
+803\. Hidrocarburos, C<sub>20-50</sub>, fracción parafínica pesada desparafinada con disolventes, tratada con hidrógeno (n.º CAS 90640-95-2), si contienen > 3% w/w de extracto DMSO.
+
+804\. Destilados (petróleo), fracción parafínica ligera desparafinada con disolventes, tratada con arcilla (n.º CAS 90640-96-3), si contienen > 3% w/w de extracto DMSO.
+
+805\. Destilados (petróleo), fracción parafínica ligera desparafinada con disolvente, tratada con hidrógeno (n.º CAS 90640-97-4), si contienen > 3% w/w de extracto DMSO.
+
+806\. Extractos (petróleo), destilado nafténico pesado extraído con disolvente, tratado con hidrógeno (n.º CAS 90641-07-9), si contienen > 3% w/w de extracto DMSO.
+
+807\. Extractos (petróleo), destilado parafínico pesado extraído con disolvente, tratado con hidrógeno (n.º CAS 90641-08-0), si contienen > 3% w/w de extracto DMSO.
+
+808\. Extractos (petróleo), destilado parafínico ligero extraído con disolvente, tratado con hidrógeno (n.º CAS 90641-09-1), si contienen > 3% w/w de extracto DMSO.
+
+809\. Aceites residuales (petróleo), desparafinados con disolvente, tratados con hidrógeno (n.º CAS 90669-74-2), si contienen > 3% w/w de extracto DMSO.
+
+810\. Aceites residuales (petróleo), desparafinados catalíticamente (n.º CAS 91770-57-9), si contienen > 3% w/w de extracto DMSO.
+
+811\. Destilados (petróleo), fracción parafínica pesada desparafinada, tratada con hidrógeno (n.º CAS 91995-39-0), si contienen > 3% w/w de extracto DMSO.
+
+812\. Destilados (petróleo), fracción parafínica ligera desparafinada, tratada con hidrógeno (n.º CAS 91995-40-3), si contienen > 3% w/w de extracto DMSO.
+
+813\. Destilados (petróleo), refinado con disolvente hidrocraqueado, desparafinado (n.º CAS 91995-45-8), si contienen > 3% w/w de extracto DMSO.
+
+814\. Destilados (petróleo), fracción nafténica ligera desparafinada con disolvente, tratada con hidrógeno (n.º CAS 91995-54-9), si contienen > 3% w/w de extracto DMSO.
+
+815 Extractos (petróleo), disolvente del destilado parafínico ligero tratado con hidrógeno (n.º CAS 91995-73-2), si contienen > 3% w/w de extracto DMSO.
+
+816\. Extractos (petróleo), disolvente del destilado nafténico ligero, hidrodesulfurado (n.º CAS 91995-75-4), si contienen > 3% w/w de extracto DMSO.
+
+817\. Extractos (petróleo), disolvente del destilado parafínico ligero, tratado con ácido (n.º CAS 91995-76-5), si contienen > 3% w/w de extracto DMSO.
+
+818\. Extractos (petróleo), disolvente del destilado nafténico ligero, hidrodesulfurado (n.º CAS 91995-77-6), si contienen > 3% w/w de extracto DMSO.
+
+819\. Extractos (petróleo), disolvente de gasóleo ligero obtenido a vacío, tratado con hidrógeno (n.º CAS 91995-79-8), si contienen > 3% w/w de extracto DMSO.
+
+820\. Aceite de sedimentos (petróleo), tratado con hidrógeno (n.º CAS 92045-12-0), si contiene > 3% w/w de extracto DMSO.
+
+821\. Aceites lubricantes (petróleo), C<sub>17-35</sub>, extraídos con disolvente, desparafinados, hidrogenados (n.º CAS 92045-42-6), si contienen > 3% w/w de extracto DMSO.
+
+822\. Aceites lubricantes (petróleo), hidrocraqueados no aromáticos desparafinados con disolvente (n.º CAS 92045-43-7), si contienen > 3% w/w de extracto DMSO.
+
+823\. Aceites residuales (petróleo), desparafinados con disolvente tratado con ácido e hidrocraqueado (n.º CAS 92061-86-4), si contienen > 3% w/w de extracto DMSO.
+
+824\. Aceites de parafina (petróleo), productos pesados desparafinados refinados con disolvente (n.º CAS 92129-09-4), si contienen > 3% w/w de extracto DMSO.
+
+825\. Extractos (petróleo), disovente del destilado parafínico pesado, tratado con arcilla (n.º CAS 92704-08-0), si contienen > 3% w/w de extracto DMSO.
+
+826\. Aceites lubricantes (petróleo), aceites base, parafínicos (n.º CAS 93572-43-1), si contienen > 3% w/w de extracto DMSO.
+
+827\. Extractos (petróleo), disolvente del destilado nafténico pesado, hidrodesulfurado (n.º CAS 93763-10-1), si contienen > 3% w/w de extracto DMSO.
+
+828\. Extractos (petróleo), disolvente del destilado parafínico pesado desparafinado con disolventes, hidrodesulfurado (n.º CAS 93763-11-2), si contienen > 3% w/w de extracto DMSO.
+
+829\. Hidrocarburos, residuos de destilación parafínicos hidrocraqueados, desparafinados con disolvente (n.º CAS 93763-38-3), si contienen > 3% w/w de extracto DMSO.
+
+830\. Aceite de sedimentos (petróleo), tratado con ácido (n.º CAS 93924-31-3), si contiene > 3% w/w de extracto DMSO.
+
+831\. Aceite de sedimentos (petróleo), tratado con arcilla (n.º CAS 93924-32-4), si contiene > 3% w/w de extracto DMSO.
+
+832\. Hidrocarburos, C<sub>20-50</sub>, destilado obtenido a vacío de la hidrogenación de aceite residual (n.º CAS 93924-61-9), si contienen > 3% w/w de extracto DMSO.
+
+833\. Destilados (petróleo), fracción pesada tratada con hidrógeno refinada con disolvente, hidrogenados (n.º CAS 94733-08-1), si contienen > 3% w/w de extracto DMSO.
+
+834\. Destilados (petróleo), fracción ligera hidrocraqueada refinada con disolvente (n.º CAS 94733-09-2), si contienen > 3% w/w de extracto DMSO.
+
+835\. Aceites lubricantes (petróleo), C<sub>18-40</sub>, basados en el destilado hidrocraqueado desparafinado con disolvente (n.º CAS 94733-15-0), si contienen > 3% w/w de extracto DMSO.
+
+836\. Aceites lubricantes (petróleo), C<sub>18-40</sub>, basados en el refinado hidrogenado desparafinado con disolvente (n.º CAS 94733-16-1), si contienen > 3% w/w de extracto DMSO.
+
+837\. Hidrocarburos, C<sub>13-30</sub>, ricos en aromáticos, destilado nafténico extraído con disolvente (n.º CAS 95371-04-3), si contienen > 3% w/w de extracto DMSO.
+
+838\. Hidrocarburos, C<sub>16-32</sub>, ricos en aromáticos, destilado nafténico extraído con disolvente (n.º CAS 95371-05-4), si contienen > 3% w/w de extracto DMSO.
+
+839\. Hidrocarburos, C<sub>37-68</sub>, residuos de destilación obtenidos a vacío tratados con hidrógeno, desasfaltados, desparafinados (n.º CAS 95371-07-6), si contienen > 3% w/w de extracto DMSO.
+
+840\. Hidrocarburos, C<sub>37-65</sub>, residuos de destilación obtenidos a vacío tratados con hidrógeno, desasfaltados (n.º CAS 95371-08-7), si contienen > 3% w/w de extracto DMSO.
+
+841\. Destilados (petróleo), fracción ligera hidrocraqueada refinada con disolvente (n.º CAS 97488-73-8), si contienen > 3% w/w de extracto DMSO.
+
+842\. Destilados (petróleo), fracción pesada hidrogenada y refinada con disolvente (n.º CAS 97488-74-9), si contienen > 3% w/w de extracto DMSO.
+
+843\. Aceites lubricantes (petróleo), C18-27, desparafinados con disolvente hidrocraqueados (n.º CAS 97488-95-4), si contienen > 3% w/w de extracto DMSO.
+
+844\. Hidrocarburos, C<sub>17-30</sub>, residuo de destilación atmosférica desasfaltado con disolvente tratado con hidrógeno, fracciones ligeras de destilación (n.º CAS 97675-87-1), si contienen > 3% w/w de extracto DMSO.
+
+845\. Hidrocarburos, C<sub>17-40</sub>, residuo de destilación desasfaltado con disolvente tratado con hidrógeno y fracciones ligeras de destilación a vacío (n.º CAS 97722-06-0), si contienen > 3% w/w de extracto DMSO.
+
+846\. Hidrocarburos, C<sub>13-27</sub>, fracción nafténica ligera extraída con disolvente (n.º CAS 97722-09-3), si contienen > 3% w/w de extracto DMSO.
+
+847\. Hidrocarburos, C<sub>14-29</sub>, fracción nafténica ligera extraída con disolvente (n.º CAS 97722-10-6), si contienen > 3% w/w de extracto DMSO.
+
+848\. Aceite de sedimentos (petróleo), tratado con carbón (n.º CAS 97862-76-5), si contiene > 3% w/w de extracto DMSO.
+
+849\. Aceite de sedimentos (petróleo), tratado con ácido silícico (n.º CAS 97862-77-6), si contiene > 3% w/w de extracto DMSO.
+
+850\. Hidrocarburos, C<sub>27-42</sub>, desaromatizados (n.º CAS 97862-81-2), si contienen > 3% w/w de extracto DMSO.
+
+851\. Hidrocarburos, C<sub>17-30</sub>, destilados tratados con hidrógeno, productos ligeros de destilación (n.º CAS 97862-82-3), si contienen > 3% w/w de extracto DMSO.
+
+852\. Hidrocarburos, C<sub>27-45</sub>, fracción nafténica de destilación a vacío (n.º CAS 97862-83-4), si contienen > 3% w/w de extracto DMSO.
+
+853\. Hidrocarburos, C<sub>27-45</sub>, desaromatizados (n.º CAS 97926-68-6), si contienen > 3% w/w de extracto DMSO.
+
+854\. Hidrocarburos, C<sub>20-58</sub>, tratados con hidrógeno (n.º CAS 97926-70-0), si contienen > 3% w/w de extracto DMSO.
+
+855\. Hidrocarburos, C<sub>27-42</sub>, nafténicos (n.º CAS 97926-71-1), si contienen > 3% w/w de extracto DMSO.
+
+856\. Extractos (petróleo), disolvente del destilado parafínico ligero, tratado con carbón (n.º CAS 100684-02-4), si contienen > 3% w/w de extracto DMSO.
+
+857\. Extractos (petróleo), disolvente del destilado parafínico ligero, tratado con arcilla (n.º CAS 100684-03-5), si contienen > 3% w/w de extracto DMSO.
+
+858\. Extractos (petróleo), fracción ligera obtenida a vacío, gasóleo extraído con disolvente, tratado con carbón (n.º CAS 100684-04-6), si contienen > 3% w/w de extracto DMSO.
+
+859\. Extractos (petróleo), gasóleo ligero obtenido a vacío extraído con disolvente, tratado con arcilla (n.º CAS 100684-05-7), si contienen > 3% w/w de extracto DMSO.
+
+860\. Aceites residuales (petróleo), desparafinados con disolvente tratados con carbón (n.º CAS 100684-37-5), si contienen > 3% w/w de extracto DMSO.
+
+861\. Aceites residuales (petróleo), desparafinados con disolvente tratados con arcilla (n.º CAS 100684-38-6), si contienen > 3% w/w de extracto DMSO.
+
+862\. Aceites lubricantes (petróleo), C>25, extraídos con disolvente, desasfaltados, desparafinados, hidrogenados (n.º CAS 101316-69-2), si contienen > 3% w/w de extracto DMSO.
+
+863\. Aceites lubricantes (petróleo), C<sub>17-32</sub>, extraídos con disolvente, desparafinados, hidrogenados (n.º CAS 101316-70-5), si contienen > 3% w/w de extracto DMSO.
+
+864\. Aceites lubricantes (petróleo), C<sub>20-35</sub>, extraídos con disolvente, desparafinados, hidrogenados (n.º CAS 101316-71-6), si contienen > 3% w/w de extracto DMSO.
+
+865\. Aceites lubricantes (petróleo), C<sub>24-50</sub>, extraídos con disolvente, desparafinados, hidrogenados (n.º CAS 101316-72-7), si contienen > 3% w/w de extracto DMSO.
+
+866\. Destilados (petróleo), fracción intermedia desazufrada (n.º CAS 64741-86-2), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+867\. Gasóleos (petróleo), refinados con disolvente (n.º CAS 64741-90-8), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+868\. Destilados (petróleo), fracción intermedia refinada con disolvente (n.º CAS 64741-91-9), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+869\. Gasóleos (petróleo), tratados con ácido (n.º CAS 64742-12-7), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+870\. Destilados (petróleo), fracción intermedia tratada con ácido (n.º CAS 64742-13-8), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+871\. Destilados (petróleo), fracción ligera tratada con ácido (n.º CAS 64742-14-9), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+872\. Gasóleos (petróleo), neutralizados químicamente (n.º CAS 64742-29-6), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+873\. Destilados (petróleo), fracción intermedia neutralizada químicamente (n.º CAS 64742-30-9), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+874\. Destilados (petróleo), fracción intermedia tratada con arcilla (n.º CAS 64742-38-7), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+875\. Destilados (petróleo), fracción intermedia tratada con hidrógeno (n.º CAS 64742-46-7), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+876\. Gasóleos (petróleo), hidrodesulfurados (n.º CAS 64742-79-6), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+877\. Destilados (petróleo), fracción intermedia hidrodesulfurada (n.º CAS 64742-80-9), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+878\. Destilados (petróleo), residuo del fraccionador del reformador catalítico, punto de ebullición elevado (n.º CAS 68477-29-2), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+879\. Destilados (petróleo), residuo del fraccionador del reformador catalítico, punto de ebullición intermedio (n.º CAS 68477-30-5), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+880\. Destilados (petróleo), residuo del fraccionador del reformador catalítico, punto de ebullición bajo (n.º CAS 68477-31-6), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+881\. Alcanos, C12-26 ramificados y lineales (n.º CAS 90622-53-0), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+882\. Destilados (petróleo), fracción intermedia altamente refinada (n.º CAS 90640-93-0), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+883\. Destilados (petróleo), reformador catalítico, concentrado aromático pesado (n.º CAS 91995-34-5), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+884\. Gasóleos, parafínicos (n.º CAS 93924-33-5), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+885\. Nafta (petróleo), fracción pesada hidrodesulfurada refinada con disolvente (n.º CAS 97488-96-5), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+886\. Hidrocarburos, destilado de la fracción intermedia tratada con hidrógeno C<sub>16-20</sub>, fracciones ligeras de destilación (n.º CAS 97675-85-9), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+887\. Hidrocarburos, C<sub>12-20</sub>, parafínicos tratados con hidrógeno, fracciones ligeras de destilación (n.º CAS 97675-86-0), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+888\. Hidrocarburos, C<sub>11-17</sub>, fracción nafténica ligera extraída con disolvente (n.º CAS 97722-08-2), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+889\. Gasóleos, tratados con hidrógeno (n.º CAS 97862-78-7), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+890\. Destilados (petróleo), fracción ligera tratada con carbón (n.º CAS 100683-97-4), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+891\. Destilados (petróleo), fracción parafínica intermedia, tratada con carbón (n.º CAS 100683-98-5), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+892\. Destilados (petróleo), fracción parafínica intermedia, tratada con arcilla (n.º CAS 100683-99-6), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+893\. Grasas lubricantes (n.º CAS 74869-21-9), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+894\. Cera de parafina y petróleo (petróleo) (n.º CAS 64742-61-6), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+895\. Cera de parafina y petróleo (petróleo), tratada con ácido (n.º CAS 90669-77-5), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+896\. Cera de parafina y petróleo (petróleo), tratada con arcilla (n.º CAS 90669-78-6), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+897\. Cera de parafina y petróleo (petróleo), tratada con hidrógeno (n.º CAS 92062-09-4), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+898\. Cera de parafina y petróleo (petróleo), temperatura de fusión baja (n.º CAS 92062-10-7), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+899\. Cera de parafina y petróleo (petróleo), temperatura de fusión baja, tratada con hidrógeno (n.º CAS 92062-11-8), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+900\. Cera de parafina y petróleo (petróleo), temperatura de fusión baja, tratada con carbón (n.º CAS 97863-04-2), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+901\. Cera de parafina y petróleo (petróleo), temperatura de fusión baja, tratada con arcilla (n.º CAS 97863-05-3), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+902\. Cera de parafina y petróleo (petróleo), temperatura de fusión baja, tratada con ácido silicílico (n.º CAS 97863-06-4), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+903\. Cera de parafina y petróleo (petróleo), tratada con carbón (n.º CAS 100684-49-9), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+904\. Vaselina (petróleo) (n.º CAS 8009-03-8), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+905\. Vaselina (petróleo), oxidada (n.º CAS 64743-01-7), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+906\. Vaselina (petróleo), tratada con alúmina (n.º CAS 85029-74-9), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+907\. Vaselina (petróleo), tratada con hidrógeno (n.º CAS 92045-77-7), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+908\. Vaselina (petróleo), tratada con carbón (n.º CAS 97862-97-0), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+909\. Vaselina (petróleo), tratada con ácido silícico (n.º CAS 97862-98-1), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+910\. Vaselina (petróleo), tratada con arcilla (n.º CAS 100684-33-1), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se ha producido no es carcinógena.
+
+911\. Destilados (petróleo), fracción ligera craqueada catalíticamente (n.º CAS 64741-59-9).
+
+912\. Destilados (petróleo), fracción intermedia craqueada catalíticamente (n.º CAS 64741-60-2).
+
+913\. Destilados (petróleo), fracción ligera craqueada térmicamente (n.º CAS 64741-82-8).
+
+914\. Destilados (petróleo), fracción ligera hidrodesulfurada craqueada catalíticamente (n.º CAS 68333-25-5).
+
+915\. Destilados (petróleo), nafta ligera craqueada a vapor (n.º CAS 68475-80-9).
+
+916\. Destilados (petróleo), destilados craqueados de petróleo craqueado a vapor (n.º CAS 68477-38-3).
+
+917\. Gasóleos (petróleo), craqueados a vapor (n.º CAS 68527-18-4).
+
+918\. Destilados (petróleo), fracción intermedia hidrodesulfurada craqueada térmicamente (n.º CAS 85116-53-6).
+
+919\. Gasóleos (petróleo), craqueados térmicamente, hidrodesulfurados (n.º CAS 92045-29-9).
+
+920\. Residuos (petróleo), nafta craqueada a vapor hidrogenada (n.º CAS 92062-00-5).
+
+921\. Residuos (petróleo), destilación de nafta craqueada a vapor (n.º CAS 92062-04-9).
+
+922\. Destilados (petróleo), fracción ligera craqueada catalíticamente, degradada térmicamente (n.º CAS 92201-60-0).
+
+923\. Residuos (petróleo), nafta saturada con calor craqueada a vapor (n.º CAS 93763-85-0).
+
+924\. Gasóleos (petróleo), fracción ligera obtenida a vacío, hidrodesulfurada craqueada térmicamente (n.º CAS 97926-59-5).
+
+925\. Destilados (petróleo), fracción intermedia del coquizador hidrodesulfurada (n.º CAS 101316-59-0).
+
+926\. Destilados (petróleo), fracción pesada craqueada a vapor (n.º CAS 101631-14-5).
+
+927\. Residuos (petróleo), torre de destilación atmosférica (n.º CAS 64741-45-3).
+
+928\. Gasóleos (petróleo), fracción pesada obtenida a vacío (n.º CAS 64741-57-7).
+
+929\. Destilados (petróleo), fracción pesada craqueada catalíticamente (n.º CAS 64741-61-3).
+
+930\. Aceites clarificados (petróleo), craqueados catalíticamente (n.º CAS 64741-62-4).
+
+931\. Residuos (petróleo), fraccionador del reformador catalítico (n.º CAS 64741-67-9).
+
+932\. Residuos (petróleo), hidrocraqueados (n.º CAS 64741-75-9).
+
+933\. Residuos (petróleo), craqueados térmicamente (n.º CAS 64741-80-6).
+
+934\. Destilados (petróleo), fracción pesada craqueada térmicamente (n.º CAS 64741-81-7).
+
+935\. Gasóleos (petróleo), fracción obtenida a vacío tratada con hidrógeno (n.º CAS 64742-59-2).
+
+936\. Residuos (petróleo), de la torre de destilación atmosférica, hidrodesulfurados (n.º CAS 64742-78-5).
+
+937\. Gasóleos (petróleo), fracción pesada obtenida a vacío hidrodesulfurada (n.º CAS 64742-86-5).
+
+938\. Residuos (petróleo), craqueados a vapor (n.º CAS 64742-90-1).
+
+939\. Residuos (petróleo), atmosféricos (n.º CAS 68333-22-2).
+
+940\. Aceites clarificados (petróleo), productos craqueados catalíticamente hidrodesulfurados (n.º CAS 68333-26-6).
+
+941\. Destilados (petróleo), fracción intermedia hidrodesulfurada craqueada catalíticamente (n.º CAS 68333-27-7).
+
+942\. Destilados (petróleo), fracción pesada hidrodesulfurada craqueada catalíticamente (n.º CAS 68333-28-8).
+
+943\. Petróleo combustible, residuos-gasóleos de primera destilación, alta proporción de azufre (n.º CAS 68476-32-4).
+
+944\. Petróleo combustible, residual (n.º CAS 68476-33-5).
+
+945\. Residuos (petróleo), destilación del residuo del fraccionador y reformador catalítico (n.º CAS 68478-13-7).
+
+946\. Residuos (petróleo), coquizador de gasóleo pesado y gasóleo obtenido a vacío (n.º CAS 68478-17-1).
+
+947\. Residuos (petróleo), coquizador de fracciones pesadas y fracciones ligeras obtenidas a vacío (n.º CAS 68512-61-8).
+
+948\. Residuos (petróleo), fracciones ligeras obtenidas a vacío (n.º CAS 68512-62-9).
+
+949\. Residuos (petróleo), fracciones ligeras craqueadas a vapor (n.º CAS 68513-69-9).
+
+950\. Petróleo combustible, n.º 6 (n.º CAS 68553-00-4).
+
+951\. Residuos (petróleo), planta de destilación primaria, baja proporción de azufre (n.º CAS 68607-30-7).
+
+952\. Gasóleos (petróleo), fracción pesada atmosférica (n.º CAS 68783-08-4).
+
+953\. Residuos (petróleo), depurador del coquizador, con productos aromáticos con anillos condensados (n.º CAS 68783-13-1).
+
+954\. Destilados (petróleo), residuos de petróleo obtenidos a vacío (n.º CAS 68955-27-1).
+
+955\. Residuos (petróleo), craqueados a vapor, resinosos (n.º CAS 68955-36-2).
+
+956\. Destilados (petróleo), fracción intermedia obtenida a vacío (n.º CAS 70592-76-6).
+
+957\. Destilados (petróleo), fracción ligera obtenida a vacío (n.º CAS 70592-77-7).
+
+958\. Destilados (petróleo), obtenidos a vacío (n.º CAS 70592-78-8).
+
+959\. Gasóleos (petróleo), fracción pesada obtenida a vacío hidrodesulfurada del coquizador (n.º CAS 85117-03-9).
+
+960\. Residuos (petróleo), craqueados a vapor, destilados (n.º CAS 90669-75-3).
+
+961\. Residuos (petróleo), a vacío, fracción ligera (n.º CAS 90669-76-4).
+
+962\. Petróleo combustible, pesado, con gran proporción de azufre (n.º CAS 92045-14-2).
+
+963\. Residuos (petróleo), craqueo catalítico (n.º CAS 92061-97-7).
+
+964\. Destilados (petróleo), fracción intermedia craqueada catalíticamente, degradada térmicamente (n.º CAS 92201-59-7).
+
+965\. Aceites residuales (petróleo) (n.º CAS 93821-66-0).
+
+966\. Residuos, craqueados a vapor, tratados térmicamente (n.º CAS 98219-64-8).
+
+967\. Destilados (petróleo), fracción intermedia de la serie completa del coquizador hidrodesulfurada (n.º CAS 101316-57-8).
+
+968\. Destilados (petróleo), fracción parafínica ligera (n.º CAS 64741-50-0).
+
+969\. Destilados (petróleo), fracción parafínica pesada (n.º CAS 64741-51-1).
+
+970\. Destilados (petróleo), fracción nafténica ligera (n.º CAS 64741-52-2).
+
+971\. Destilados (petróleo), fracción nafténica pesada (n.º CAS 64741-53-3).
+
+972\. Destilados (petróleo), fracción nafténica pesada tratada con ácido (n.º CAS 64742-18-3).
+
+973\. Destilados (petróleo), fracción nafténica ligera tratada con ácido (n.º CAS 64742-19-4).
+
+974\. Destilados (petróleo), fracción parafínica pesada tratada con ácido (n.º CAS 64742-20-7).
+
+975\. Destilados (petróleo), fracción parafínica ligera tratada con ácido (n.º CAS 64742-21-8).
+
+976\. Destilados (petróleo), fracción parafínica pesada neutralizada químicamente (n.º CAS 64742-27-4).
+
+977\. Destilados (petróleo), fracción parafínica ligera neutralizada químicamente (n.º CAS 64742-28-5).
+
+978\. Destilados (petróleo), fracción nafténica pesada neutralizada químicamente (n.º CAS 64742-34-3).
+
+979\. Destilados (petróleo), fracción nafténica ligera neutralizada químicamente (n.º CAS 64742-35-4).
+
+980\. Extractos (petróleo), disolvente del destilado nafténico ligero (n.º CAS 64742-03-6).
+
+981\. Extractos (petróleo), disolvente del destilado parafínico pesado (n.º CAS 64742-04-7).
+
+982\. Extractos (petróleo), disolvente del destilado parafínico ligero (n.º CAS 64742-05-8).
+
+983\. Extractos (petróleo), disolvente del destilado nafténico pesado (n.º CAS 64742-11-6).
+
+984\. Extractos (petróleo), disolvente de gasóleo ligero obtenido a vacío (n.º CAS 91995-78-7).
+
+985\. Hidrocarburos, C<sub>26-55</sub>, ricos en aromáticos (n.º CAS 97722-04-8).
+
+986\. 3,3'-[[1,1'-bifenil]-4,4'-diilbis(azo)]bis(4-aminonaftaleno-1-sulfonato) de disodio (n.º CAS 573-58-0).
+
+987\. 4-amino-3-[[4'-[(2,4-diaminofenil)azo][1,1'-bifenil]-4-il]azo]-6-(fenilazo)-5-hidroxinaftaleno-2,7-disulfonato de disodio (n.º CAS 1937-37-7).
+
+988\. 3,3'-[[1,1'-bifenil]-4,4'-diilbis(azo)]bis[5-amino-4-hidroxinaftaleno-2,7-disulfonato] de tetrasodio (n.º CAS 2602-46-2).
+
+989\. 4-o-tolilazo-o-toluidina (n.º CAS 97-56-3).
+
+990\. 4-aminoazobenceno (n.º CAS 60-09-3).
+
+991\. [5-[[4'-[[2,6-dihidroxi-3-[(2-hidroxi-5-sulfofenil)azo]fenil]azo][1,1'-bifenil]-4-il]azo]salicilato(4-)]cuprato(2-) de disodio (n.º CAS 16071-86-6).
+
+992\. Éter diglicidílico de resorcinol (n.º CAS 101-90-6).
+
+993\. 1,3-difenilguanidina (n.º CAS 102-06-7).
+
+994\. Epóxido de heptacloro (n.º CAS 1024-57-3).
+
+995\. 4-nitrosofenol (n.º CAS 104-91-6).
+
+996\. Carbendacima (n.º CAS 10605-21-7).
+
+997\. Alil glicidil éter (n.º CAS 106-92-3).
+
+998\. Cloroacetaldehído (n.º CAS 107-20-0).
+
+999\. Hexano (n.º CAS 110-54-3).
+
+1000\. 2-(2-metoxietoxi)etanol (n.º CAS 111-77-3).
+
+1001\. (+/-)-2-(2,4-diclorofenil)-3-(1H-1,2,4-triazol-1-il) propil-1,1,2,2-tetrafluoroetiléter (n.º CAS 112281-77-3).
+
+1002\. 4-[4-(1,3-dihidroxiprop-2-il)fenilamino]-1,8-dihidroxi-5-nitroantraquinona (n.º CAS 114565-66-1).
+
+1003\. 5,6,12,13-tetracloroantra(2,1,9-def:6,5, 10-d'e'f')diisoquinolina-1,3,8,10(2*H*,9*H*)-tetrona (n.º CAS 115662-06-1).
+
+1004\. Tris(2-cloroetil) fosfato (n.º CAS 115-96-8).
+
+1005\. 4'-etoxi-2-benzimidazol anilida (n.º CAS 120187-29-3).
+
+1006\. Dihidróxido de níquel (n.º CAS 12054-48-7).
+
+1007\. N,N-dimetilanilina (n.º CAS 121-69-7).
+
+1008\. Simazina (n.º CAS 122-34-9).
+
+1009 Bis(ciclopentadienil)-bis(2,6-difluoro-3-(pirrol-1-il)-fenil)titanio (n.º CAS 125051-32-3).
+
+1010\. N,N,N',N'-tetraglicidil-4,4'-diamino-3,3'-dietildifenilmetano (n.º CAS 130728-76-6).
+
+1011\. Pentóxido de divanadio (n.º CAS 1314-62-1).
+
+1012\. Sales alcalinas de pentaclorofenol (n.<sup>os</sup> CAS 131-52-2 y 7778-73-6).
+
+1013\. Fosfamidón (n.º CAS 13171-21-6).
+
+1014\. N-(triclorometiltio)ftalimida (n.º CAS 133-07-3).
+
+1015\. N-2-naftilanilina (n.º CAS 135-88-6).
+
+1016\. Ziram (n.º CAS 137-30-4).
+
+1017\. 1-bromo-3,4,5-trifluorobenceno (n.º CAS 138526-69-9).
+
+1018\. Propacina (n.º CAS 139-40-2).
+
+1019\. Tricloroacetato de 3-(4-clorofenil)-1,1-dimetiluronio; monurón-TCA (n.º CAS 140-41-0).
+
+1020\. Isoxaflutol (n.º CAS 141112-29-0).
+
+1021\. Kresoxim-metil (n.º CAS 143390-89-0).
+
+1022\. Clordecona (n.º CAS 143-50-0).
+
+1023\. 9-vinilcarbazol (n.º CAS 1484-13-5).
+
+1024\. Ácido 2-etilhexanoico (n.º CAS 149-57-5).
+
+1025\. Monurón (n.º CAS 150-68-5).
+
+1026\. Cloruro de morfolina-4-carbonilo (n.º CAS 15159-40-7).
+
+1027\. Daminocida (n.º CAS 1596-84-5).
+
+1028\. Alacloro (n.º CAS 15972-60-8).
+
+1029\. Producto de condensación UVCB de cloruro de tetraquis-hidroximetilfosfonio, urea y C16-18 sebo-alquilamina hidrogenada destilada (n.º CAS 166242-53-1).
+
+1030\. Ioxinil (n.º CAS 1689-83-4).
+
+1031\. 3,5-dibromo-4-hidroxibenzonitrilo (n.º CAS 1689-84-5).
+
+1032\. Octanoato de 2,6-dibromo-4-cianofenilo (n.º CAS 1689-99-2).
+
+1033\. [4-[[4-(dimetilamino)fenil][4-[etil(3-sulfonatobencil)amino]fenil]metilen]ciclohexa-2,5-dien-1-iliden](etil)(3-sulfonatobencil)amonio, sal de sodio (n.º CAS 1694-09-3).
+
+1034\. 5-cloro-1,3-dihidro-2H-indol-2-ona (n.º CAS 17630-75-0).
+
+1035\. Benomilo (n.º CAS 17804-35-2).
+
+1036\. Clorotalonilo (n.º CAS 1897-45-6).
+
+1037\. Monoclorhidrato de N'-(4-cloro-o-tolil)-N, N-dimetilformamidina (n.º CAS 19750-95-9).
+
+1038\. 4,4'-metilenbis(2-etilanilina) (n.º CAS 19900-65-3).
+
+1039\. Valinamida (n.º CAS 20108-78-5).
+
+1040\. [(p-toliloxi)metil]oxirano (n.º CAS 2186-24-5).
+
+1041\. [(m-toliloxi)metil]oxirano (n.º CAS 2186-25-6).
+
+1042\. 2,3-epoxipropil o-tolil éter (n.º CAS 2210-79-9).
+
+1043\. [(Toliloxi)metil]oxirano, cresil glicidil éter (n.º CAS 26447-14-3).
+
+1044\. Dialato (n.º CAS 2303-16-4).
+
+1045\. Bencil2,4-dibromobutanoato (n.º CAS 23085-60-1).
+
+1046\. Trifluoroyodometano (n.º CAS 2314-97-8).
+
+1047\. Tiofanato-metil (n.º CAS 23564-05-8).
+
+1048\. Dodecacloropentaciclo[5.2.1.02,6.03,9.05,8]decano (n.º CAS 2385-85-5).
+
+1049\. Propizamida (n.º CAS 23950-58-5).
+
+1050\. Butil glicidil éter (n.º CAS 2426-08-6).
+
+1051\. 2,3,4-triclorobut-1-eno (n.º CAS 2431-50-7).
+
+1052\. Quinometionato (n.º CAS 2439-01-2).
+
+1053\. (R)-α-feniletilamonio(-)-(1R,2S)-(1,2-epoxipropil)fosfonato) monohidrato (n.º CAS 25383-07-7).
+
+1054\. 5-etoxi-3-triclorometil-1,2,4-tiadiazol (n.º CAS 2593-15-9).
+
+1055\. Amarillo 3 disperso (n.º CAS 2832-40-8).
+
+1056\. 1,2,4-triazol (n.º CAS 288-88-0).
+
+1057\. Aldrín (n.º CAS 309-00-2).
+
+1058\. Diurón (n.º CAS 330-54-1).
+
+1059\. Linurón (n.º CAS 330-55-2).
+
+1060\. Carbonato de níquel (n.º CAS 3333-67-3).
+
+1061\. 3-(4-isopropilfenil)-1,1-dimetilurea (n.º CAS 34123-59-6).
+
+1062\. Iprodiona (n.º CAS 36734-19-7).
+
+1063\. Octanoato de 4-ciano-2,6-diyodofenilo (n.º CAS 3861-47-0).
+
+1064\. 5-(2,4-dioxo-1,2,3,4-tetrahidropirimidina)-3-fluoro-2-hidroximetil-tetrahidrofurano (n.º CAS 41107-56-6).
+
+1065\. Crotonaldehído (n.º CAS 4170-30-3).
+
+1066\. Hexahidrociclopenta(c)pirrol-1-(1H)-amonio-N-etoxicarbonil-N-(p-olilsulfonil)azanida (n.º CE 418-350-1).
+
+1067\. 4,4'-carbonimidoilbis[N,N-dimetilanilina] (n.º CAS 492-80-8).
+
+1068\. Dinitrocresoles (DNOC) (n.º CAS 534-52-1).
+
+1069\. Cloruro de toluidina (n.º CAS 540-23-8).
+
+1070\. Sulfato de toluidina (1:1) (n.º CAS 540-25-0).
+
+1071\. 2-(4-tert-butilfenil)etanol (n.º CAS 5406-86-0).
+
+1072\. Fentión (n.º CAS 55-38-9).
+
+1073\. Clordano (n.º CAS 57-74-9)
+
+1074\. Hexan-2-ona (n.º CAS 591-78-6).
+
+1075\. Fenarimol (n.º CAS 60168-88-9).
+
+1076\. Acetamida (n.º CAS 60-35-5).
+
+1077\. N-ciclohexil-N-metoxi-2,5-dimetil-3-furamida (n.º CAS 60568-05-0).
+
+1078\. Dieldrín (n.º CAS 60-57-1).
+
+1079\. 4,4'-isobutiletilidendifenol (n.º CAS 6807-17-6).
+
+1080\. Clordimeformo (n.º CAS 6164-98-3).
+
+1081\. Amitrol (n.º CAS 61-82-5).
+
+1082\. Carbaril (n.º CAS 63-25-2).
+
+1083\. Destilados (petróleo), fracción ligera hidrocraqueada (n.º CAS 64741-77-1).
+
+1084\. Bromuro de 1-etil-1-metilmorfolina (n.º CAS 65756-41-4).
+
+1085\. (3-clorofenil)-(4-metoxi-3-nitrofenil)metanona (n.º CAS 66938-41-8).
+
+1086\. Combustibles para motor diésel (n.º CAS 68334-30-5), excepto si se conoce en su totalidad el historial del refino y se puede demostrar que la sustancia a partir de la cual se han producido no es carcinógena.
+
+1087\. Petróleo combustible, n.º 2 (n.º CAS 68476-30-2).
+
+1088\. Petróleo combustible, n.º 4 (n.º CAS 68476-31-3).
+
+1089\. Combustibles para motor diésel, n.º 2 (n.º CAS 68476-34-6).
+
+1090\. 2,2-dibromo-2-nitroetanol (n.º CAS 69094-18-4).
+
+1091\. Bromuro de 1-etil-1-metilpirrolidina (n.º CAS 69227-51-6).
+
+1092\. Monocrotofos (n.º CAS 6923-22-4).
+
+1093\. Níquel (n.º CAS 7440-02-0).
+
+1094\. Bromometano (n.º CAS 74-83-9).
+
+1095\. Clorometano (n.º CAS 74-87-3).
+
+1096\. Yodometano (n.º CAS 74-88-4).
+
+1097\. Bromoetano (n.º CAS 74-96-4).
+
+1098\. Heptacloro (n.º CAS 76-44-8).
+
+1099\. Hidróxido de fentina (n.º CAS 76-87-9).
+
+1100\. Sulfato de níquel (n.º CAS 7786-81-4).
+
+1101\. 3,5,5-trimetilciclohex-2-enona (n.º CAS 78-59-1).
+
+1102\. 2,3-dicloropropeno (n.º CAS 78-88-6).
+
+1103\. Fluazifop-P-butilo (n.º CAS 79241-46-6).
+
+1104\. Ácido (S)-2,3-dihidro-1H-indol-carboxílico (n.º CAS 79815-20-6).
+
+1105\. Toxafeno (n.º CAS 8001-35-2).
+
+1106\. Clorhidrato de (4-hidracinofenil)-N-metilmetansulfonamida (n.º CAS 81880-96-8).
+
+1107\. C.I. Amarillo 14 solvente (n.º CAS 842-07-9)
+
+1108\. Clozolinato (n.º CAS 84332-86-5).
+
+1109\. Alcanos, C<sub>10-13</sub>, cloro (n.º CAS 85535-84-8).
+
+1110\. Pentaclorofenol (n.º CAS 87-86-5).
+
+1111\. 2,4,6-triclorofenol (n.º CAS 88-06-2).
+
+1112\. Cloruro de dietilcarbamoílo (n.º CAS 88-10-8).
+
+1113\. 1-vinil-2-pirrolidona (n.º CAS 88-12-0).
+
+1114\. Miclobutanilo; 2-(4-clorofenil)-2-(1H-1,2,4-triazol-1-ilmetil)hexanonitrilo (n.º CAS 88671-89-0).
+
+1115\. Acetato de fentina (n.º CAS 900-95-8).
+
+1116\. Bifenil-2-ilamina (n.º CAS 90-41-5).
+
+1117\. Monoclorhidrato de trans-4-ciclohexil-L-prolina (n.º CAS 90657-55-9).
+
+1118\. Diisocianato de 2-metil-m-fenileno (n.º CAS 91-08-7).
+
+1119\. Diisocianato de 4-metil-m-fenileno (n.º CAS 584-84-9).
+
+1120\. Diisocianato de m-tolilideno (n.º CAS 26471-62-5).
+
+1121\. Combustibles, avión a reacción, extracción de hulla con disolvente, hidrogenados hidrocraqueados (n.º CAS 94114-58-6).
+
+1122\. Combustibles, diésel, extracción de hulla con disolvente, hidrogenados hidrocraqueados (n.º CAS 94114-59-7).
+
+1123\. Brea (n.º CAS 61789-60-4), si contiene > 0,005% w/w de benzo[a]pireno.
+
+1124\. 2-butanona oxima (n.º CAS 96-29-7).
+
+1125\. Hidrocarburos, C<sub>16-20</sub>, residuo de destilación parafínico hidrocraqueado desparafinado con disolvente (n.º CAS 97675-88-2).
+
+1126\. α,α-diclorotolueno (n.º CAS 98-87-3).
+
+1127\. Lanas minerales, excepto las especialmente expresadas en este anexo; [Fibras vítreas artificiales (silicato) con orientación aleatoria cuyo contenido ponderado de óxido alcalino y óxido de tierra alcalina (Na2O + K2O + CaO + MgO + BaO) sea superior a 18 % en peso].
+
+1128\. Productos de reacción de acetofenona, formaldehído, ciclohexilamina, metanol y ácido acético (n.º CE 406-230-1)
+
+1129\. Sales de 4,4'-carbonimidoilbis[N,N-dimetilanilina].
+
+1130\. 1,2,3,4,5,6-hexaclorociclohexanos, excepto los especialmente expresados en este anexo.
+
+1131\. Bis(7-acetamido-2-(4-nitro-2-oxidofenilazo)-3-sulfonato-1-naftolato)cromato(1-) de trisodio (n.º CE 400-810-8).
+
+1132\. Mezcla de 4-alil-2,6-bis(2,3-epoxipropil)fenol, 4-alil-6-(3-(6-(3-(6-(3-(4-alil-2,6-bis(2,3-epoxipropil)fenoxi)2-hidroxipropil)-4-alil-2-(2,3-epoxipropil)fenoxi)-2-hidroxipropil)-4-alil-2-(2,3-epoxipropil)fenoxi-2-hidroxipropil-2-(2,3-epoxipropil)fenol, 4-alil-6-(3-(4-alil-2,6-bis(2,3-epoxipropil)fenoxi)-2-hidroxipropil)-2-(2,3-epoxipropil)fenoxi)fenol y 4-alil-6-(3-(6-(3-(4-alil-2,6-bis(2,3-epoxipropil)fenoxi)-2-hidroxipropil)-4-alil-2-(2,3-epoxipropil)fenoxi)2-hidroxipropil)-2-(2,3-epoxipropil)fenol» (n.º CE 417-470-1).
+
+1133\. Aceite de la raíz del costus (Saussurea Lappa Clarke) (n.º CAS 8023-88-9), empleado como ingrediente de fragancia.
+
+1134\. 7-etoxi-4-metilcumarina (n.º CAS 87-05-8), empleado como ingrediente de fragancia.
+
+1135\. Hexahidrocumarina (n.º CAS 700-82-3), empleado como ingrediente de fragancia.
+
+1136\. Exudado de Myroxylon Pereirae (Royle) Klotzch (bálsamo del Perú, crudo; n.º CAS 8007-00-9), empleado como ingrediente de fragancia.
+
+(1) Se tolerará la presencia de trazas de las sustancias comprendidas en este anexo, cuando éstas sean técnicamente inevitables como consecuencia de la aplicación de las buenas prácticas de fabricación y siempre que se cumpla el articulo cuarto de esta reglamentación.
+
+(a) El nombre de estas sustancias es el recomendado como «denominación común internacional» para las sustancias farmacéuticas publicadas por la Organización Mundial de la Salud. Ginebra 1982.
+
+| N.º de referencia | Nombre químico | Número CAS n.º CE |
+|---|---|---|
+| 1137 | Nitrito de isobutilo. | 542-56-3 |
+| 1138 | Isopreno (estabilizado).<br>(2-metil-1,3-butadieno). | 78-79-5 |
+| 1139 | 1-bromopropano.<br>n-bromuro de propilo. | 106-94-5 |
+| 1140 | Cloropreno (estabilizado).<br>(2-clorobuta-1,3-dieno). | 126-99-8 |
+| 1141 | 1,2,3-tricloropropano. | 96-18-4 |
+| 1142 | Éter dimetílico de etilenglicol (EGDME). | 110-71-4 |
+| 1143 | Dinocap (ISO). | 39300-45-3 |
+| 1144 | Diaminotolueno, productos técnico -mezcla de [4-metil-m-fenileno diamina] <sup>(2)</sup> y [2-metil-m-fenileno diamina] <sup>(3)</sup> metilfenilendiamina. | 25376-45-8 |
+| 1145 | Tricloruro de p-clorobencilo. | 5216-25-1 |
+| 1146 | Éter difenílico; derivado octabromado. | 32536-52-0 |
+| 1147 | 1,2-bis(2-metoxietoxi)etano.<br>Éter dimetílico de trietilenglicol (TEGDME). | 112-49-2 |
+| 1148 | Tetrahidrotiopiran-3-carboxaldehído. | 61571-06-0 |
+| 1149 | 4,4'-bis(dimetilamino)benzofenona.<br>(Cetona de Michler). | 90-94-8 |
+| 1150 | 4-metilbencenosulfonato de (S)-oxiranometanol. | 70987-78-9 |
+| 1151 | Ácido 1,2-bencenodicarboxílico, dipentilester, ramificado y lineal [1].<br>Ftalato de n-pentil-isopentilo [2].<br>Ftalato de di-n-pentilo [3].<br>Ftalato de diisopentilo [4]. | 84777-06-0 [1]<br>-[2]<br>131-18-0 [3]<br>605-50-5 [4] |
+| 1152 | Ftalato de butilbencilo (BBP). | 85-68-7 |
+| 1153 | Ácido 1,2-bencenodicarboxílico, di-C 7-11 alquilesteres, ramificados y lineales. | 68515-42-4 |
+| 1154 | Mezcla de: disodio 4-(3-etoxicarbonil-4-(5-(3-etoxicarbonil-5-hidroxi-1-(4-sulfonatofenil) pirazol-4-il)penta-2,4-dienilideno)-4,5-dihidro-5-oxopirazol-1-il) bencenosulfonato y trisodio 4-(3-etoxicarbonil-4-(5-(3-etoxicarbonil-5-oxido-1-(4-sulfonatofenil)pirazol-4-il) penta-2,4-dienilideno)-4,5-dihidro-5-oxopirazol-1-il) bencenosulfonato. | n.º CE 402-660-9 |
+| 1155 | (Metilenobis(4,1-fenilenazo(1-(3-(dimetilamino)propil)-1,2-dihidro-6-hidroxi-4-metil-2-oxopiridina-5,3-diil)))-1,1'-dipiridinio dicloruro dihidrocloruro. | n.º CE 401-500-5 |
+| 1156 | 2-[2-hidroxi-3-(2-clorofenil)carbamoil-1-naftilazo]-7.<br>[2-hidroxi-3-(3-metilfenil)-carbamoil-1-naftilazo]fluoren.<br>9-ona. | n.º CE 420-580-2 |
+| 1157 | Azafenidina. | 68049-83-2 |
+| 1158 | 2,4,5-trimetilanilina [1].<br>Clorhidrato de 2,4,5-trimetilanilina [2]. | 137-17-7 [1]<br>21436-97-5 [2] |
+| 1159 | 4,4'-tiodianilina y sus sales. | 139-65-1 |
+| 1160 | 4,4'-oxidianilina (p-aminofenil éter) y sus sales. | 101-80-4 |
+| 1161 | N,N,N',N'-tetrametil-4,4'-metilendianilina. | 101-61-1 |
+| 1162 | 6-metoxi-m-toluidina.<br>(p-cresidina). | 120-71-8 |
+| 1163 | 3-etil-2-metil-2-(3-metilbutil)-1,3-oxazolidina. | 143860-04-2 |
+| 1164 | Mezcla de: 1,3,5-tris(3-aminometilfenil)-1,3,5-(1H,3H,5H)-triacina-2,4,6-triona y mezcla de oligómeros de 3,5-bis(3-aminometilfenil)-1-poli[3,5-bis(3-aminometilfenil)-2,4,6-trioxo-1,3,5-(1H,3H,5H)-triacin-1-il]-1,3,5-(1H,3H,5H)-triacina-2,4,6-triona. | n.º CE 421-550-1 |
+| 1165 | 2-nitrotolueno. | 88-72-2 |
+| 1166 | Fosfato tributílico. | 126-73-8 |
+| 1167 | Naftaleno. | 91-20-3 |
+| 1168 | Nonilfenol [1].<br>4-nonilfenol, ramificado [2]. | 25154-52-3 [1]<br>84852-15-3 [2] |
+| 1169 | 1,1,2-tricloroetano. | 79-00-5 |
+| 1170 | Pentacloroetano. | 76-01-7 |
+| 1171 | Cloruro de vinilideno.<br>(1,1-dicloroetileno). | 75-35-4 |
+| 1172 | Cloruro de alilo;<br>(3-cloropropeno). | 107-05-1 |
+| 1173 | 1,4-diclorobenceno.<br>(p-diclorobenceno). | 106-46-7 |
+| 1174 | Bis(2-cloroetil) éter. | 111-44-4 |
+| 1175 | Fenol. | 108-95-2 |
+| 1176 | Bisfenol A.<br>(4,4'-isopropilidendifenol). | 80-05-7 |
+| 1177 | Trioximetileno.<br>(1,3,5-trioxan). | 110-88-3 |
+| 1178 | Propargita (ISO). | 2312-35-8 |
+| 1179 | 1-cloro-4-nitrobenceno. | 100-00-5 |
+| 1180 | Molinato (ISO). | 2212-67-1 |
+| 1181 | Fenpropimorf. | 67564-91-4 |
+| 1182<br>**(Suprimido)** |  |  |
+| 1183 | Isocianato de metilo. | 624-83-9 |
+| 1184 | N,N-dimetilanilinio tetrakis (pentafluorofenil) borato. | 118612-00-3 |
+| 1185 | O,O'-(etenilmetilsilileno) di[(4-metilpentan-2-ona)oxima]. | n.º CE 421-870-1 |
+| 1186 | Mezcla 2:1 de: 4-(7-hidroxi-2,4,4-trimetil-2-cromanil) resorcinol-4-il-tris(6-diazo-5,6-dihidro-5-oxonaftalen-1-sulfonato) y 4-(7-hidroxi-2,4,4-trimetil-2-cromanil) resorcinolbis(6-diazo-5,6-dihidro-5-oxonaftalen-1-sulfonato). | 140698-96-0 |
+| 1187 | Mezcla de: producto de reacción de 4,4'-metilenbis[2-(4 hidroxibencil)-3,6-dimetilfenol] y 6-diazo-5,6-dihidro-5-oxo-naftalensulfonato (1:2) y producto de reacción de 4,4'-metilenbis[2-(4-hidroxibencil)-3,6-dimetilfenol] y 6-diazo-5,6-dihidro-5-oxonaftalensulfonato (1:3). | n.º CE 417-980-4 |
+| 1188 | Verde de malaquita clorhidrato [1].<br>Verde de malaquita oxalato [2]. | 569-64-2 [1]<br>18015-76-4 [2] |
+| 1189 | 1-(4-clorofenil)-4,4-dimetil-3-(1,2,4-triazol-1-ilmetil)pentan-3-ol. | 107534-96-3 |
+| 1190 | 5-(3-butiril-2,4,6-trimetilfenil)-2-[1-(etoxiimino)propil].<br>3-hidroxiciclohex-2-en-1-ona. | 138164-12-2 |
+| 1191 | Trans-4-fenil-l-prolina. | 96314-26-0 |
+| 1192 | Heptanoato de bromoxinilo (ISO). | 56634-95-8 |
+| 1193 | Mezcla de: 5-[(4-[(7-amino-1-hidroxi-3-sulfo-2-naftil)azo]-2,5-dietoxifenil)azo]-2-[(3-fosfonofenil)azo] del ácido benzoico y 5-[(4-[(7-amino-1-hidroxi-3-sulfo-2-naftil)azo]-2,5-dietoxifenil)azo]-3-[(3-fosfonofenil)azo] del ácido benzoico. | 163879-69-4 |
+| 1194 | 2-{4-(2-amoniopropilamino)-6-[4-hidroxi-3-(5-metil-2.<br>Metoxi-4-sulfamoilfenilazo)-2-sulfonatonaft-7-ilamino].<br>1,3,5-triacin-2-ilamino}-2-aminopropil formato. | n.º CE 424-260-3 |
+| 1195 | 5-nitro-o-toluidina [1].<br>Clorhidrato de 5-nitro-o-toluidina [2]. | 99-55-8 [1]<br>51085-52-0 [2] |
+| 1196 | 1-(1-naftilmetil)quinolinio cloruro. | 65322-65-8 |
+| 1197 | (R)-5-bromo-3-(1-metil-2-pirrolidinil metil)-1H-indol. | 143322-57-0 |
+| 1198 | Pimetrocina (ISO). | 123312-89-0 |
+| 1199 | Oxadiargilo (ISO). | 39807-15-3 |
+| 1200 | Clortoluron.<br>3-(3-Cloro-p-tolil)-1,1-dimetilurea. | 15545-48-9 |
+| 1201 | N-[2-(3-acetil-5-nitrotiofen-2-ilazo)-5-dietilaminofenil].<br>Acetamida. | n.º CE 416-860-9 |
+| 1202 | 1,3-bis(vinilsulfonilacetamido)-propano. | 93629-90-4 |
+| 1203 | p-fenetidina (4-etoxianilina). | 156-43-4 |
+| 1204 | m-fenilendiamina y sus sales. | 108-45-2 |
+| 1205 | Residuos (alquitrán de hulla), destilación del aceite de creosota, si contienen más de 0,005 % p/p de benzo[a]pireno. | 92061-93-3 |
+| 1206 | Aceite de creosota, fracción de acenafteno, aceite de lavado, si contiene más de 0,005 % p/p de benzo[a]pireno. | 90640-84-9 |
+| 1207 | Aceite de creosota, si contiene más de 0,005 % p/p de benzo[a]pireno. | 61789-28-4 |
+| 1208 | Creosota, si contiene más de 0,005 % p/p de benzo[a]pireno. | 8001-58-9 |
+| 1209 | Aceite de creosota, destilado de elevado punto de ebullición, aceite de lavado, si contiene más de 0,005 % p/p de benzo[a]pireno. | 70321-79-8 |
+| 1210 | Residuos del extracto (hulla), ácido de aceite de creosota, residuo de extracto de aceite de lavado, si contienen más de 0,005 % p/p de benzo[a]pireno. | 122384-77-4 |
+| 1211 | Aceite de creosota, destilado de bajo punto de ebullición, aceite de lavado, si contiene más de 0,005 % p/p de benzo[a]pireno. | 70321-80-1 |
+| 1212 | 6-metoxi-2,3-piridindiamina y su sal HCl, cuando se emplee en tintes de cabello. | 94166-62-8 |
+| 1213 | 2,3-naftalenodiol, cuando se emplee en tintes de cabello. | 92-44-4 |
+| 1214 | 2,4-diaminodifenilamina, cuando se emplee en tintes de cabello. | 136-17-4 |
+| 1215 | 2,6-bis(2-hidroxietoxi)-3,5-piridindiamina y su sal HCl, cuando se emplee en tintes de cabello. | 117907-42-3 |
+| 1216 | 2-metoximetil-p-aminofenol y su sal HCl, cuando se emplee en tintes de cabello. | 29785-47-5 |
+| 1217 | 4,5-diamino-1-metilpirazol y su sal HCl, cuando se emplee en tintes de cabello. | 20055-01-0 |
+| 1218 | 4,5-diamino-1-[(4-clorofenil)metil]-1H-pirazol sulfato, cuando se emplee en tintes de cabello. | 163183-00-4 |
+| 1219 | 4-cloro-2-aminofenol, cuando se emplee en tintes de cabello. | 95-85-2 |
+| 1220 | 4-hidroxiindol, cuando se emplee en tintes de cabello. | 2380-94-1 |
+| 1221 | 4-metoxitolueno-2,5-diamina y su sal HCl, cuando se emplee en tintes de cabello. | 56496-88-9 |
+| 1222 | 5-amino-4-fluoro-2-metilfenol sulfato, cuando se emplee en tintes de cabello. | 163183-01-5 |
+| 1223 | N,N-dietil-m-aminofenol, cuando se emplee en tintes de cabello. | 91-68-9 |
+| 1224 | N,N-dimetil-2,6-piridindiamina y su sal HCl, cuando se emplee en tintes de cabello. |  |
+| 1225 | N-ciclopentil-m-aminofenol, cuando se emplee en tintes de cabello. | 104903-49-3 |
+| 1226 | N-(2-metoximetil)-p-fenilendiamina y su sal HCl, cuando se emplee en tintes de cabello. | 72584-59-9 |
+| 1227 | 2,4-diamino-5-metilfenetol y su sal HCl, cuando se emplee en tintes de cabello. | 113715-25-6 |
+| 1228 | 1,7-naftalenodiol, cuando se emplee en tintes de cabello. | 575-38-2 |
+| 1229 | Ácido 3,4-diaminobenzoico, cuando se emplee en tintes de cabello. | 619-05-6 |
+| 1230 | 2-aminometil-p-aminofenol y su sal HCl, cuando se emplee en tintes de cabello. | 79352-72-0 |
+| 1231 | Solvent Red 1 (CI 12150), cuando se emplee en tintes de cabello. | 1229-55-6 |
+| 1232 | Acid Orange 24 (CI 20170), cuando se emplee en tintes de cabello. | 1320-07-6 |
+| 1233 | Acid Red 73 (CI 27290), cuando se emplee en tintes de cabello. | 5413-75-2 |
+| 1234 | PEG-3,2',2'-di-p-fenilendiamina | 144644-13-3 |
+| 1235 | 6-nitro-o-toluidina | 570-24-1 |
+| 1236 | HC Yellow n.º 11 | 73388-54-2 |
+| 1237 | HC Orange n.º 3 | 81612-54-6 |
+| 1238 | HC Green n.º 1 | 52136-25-1 |
+| 1239 | HC Red n.º 8 y sus sales | 97404-14-3, 13556-29-1 |
+| 1240 | Tetrahidro-6-nitroquinoxalina y sus sales | 158006-54-3, 41959-35-7 |
+| 1241 | Disperse Red 15, salvo como impureza en Disperse Violet 1 | 116-85-8 |
+| 1242 | 4-amino-3-fluorofenol | 399-95-1 |
+| 1243 | N,N'-dihexadecil-N,N'-bis (2-hidroxietil)propanodiamida. Bishidroxietil Biscetil Malonamida | 149591-38-8 |
+
+(2) Véase el número de referencia 364 del anexo II.
+
+(3) Véase el número de referencia 411 del anexo II.
+
+| 1244 | 1-metil-2,4,5-trihidroxibenceno (n.º CAS 1124-09-0) y sus sales, cuando se emplee en tintes de cabello. |
+|---|---|
+| 1245 | 2,6-dihidroxi-4-metilpiridina (n.º CAS 4664-16-8) y sus sales, cuando se emplee en tintes de cabello. |
+| 1246 | 5-hidroxi-1,4-benzodioxano (n.º CAS 10288-36-5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1247 | 3,4-metilendioxifenol (n.º CAS 533-31-3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1248 | 3,4-metilendioxianilina (n.º CAS 14268-66-7) y sus sales, cuando se emplee en tintes de cabello. |
+| 1249 | Hidroxil-2-piridona (n.º CAS 822-89-9) y sus sales, cuando se emplee en tintes de cabello. |
+| 1250 | 3-nitro-4-aminofenoxietanol (n.º CAS 50982-74-6) y sus sales, cuando se emplee en tintes de cabello. |
+| 1251 | 2-metoxi-4-nitrofenol (n.º CAS 3251-56-7) (4-nitroguayacol) y sus sales, cuando se emplee en tintes de cabello. |
+| 1252 | C.I. Acid Black 131 (n.º CAS 12219-01-1) y sus sales, cuando se emplee en tintes de cabello |
+| 1253 | 1,3,5-trihidroxibenceno (n.º CAS 108-73-6) (floroglucinol) y sus sales, cuando se emplee en tintes de cabello. |
+| 1254 | Triacetato de benceno 1,2,4 (n.º CAS 613-6-3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1255 | 1,4-bencenodiamina, 2-nitro-, productos con clorometiloxirano y 2,2'-iminobisetanol (n.º CAS 68478-64-8) (n.º CAS 158571-58-5) (HC Blue n.º 5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1256 | Un producto complejo de reacción de la N-metil-1,4-diaminoantraquinona, la epiclorohidrina y la monoetanolamina (n.º CAS 158571-57-4) (HC Blue n.º 4) y sus sales, cuando se emplee en tintes de cabello. |
+| 1257 | Ácido 4-aminobencenosulfónico (n.º CAS 121-57-3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1258 | Ácido 3,3'-(sulfonilbis(2-nitro-4,1-fenilen)imino)bis(6-(fenilamino)-bencenosulfónico y sus sales, cuando se emplee en tintes de cabello. |
+| 1259 | 3(o 5)-((4-(benzilmetilamino)fenil)azo)-1,2-(o 1,4)-dimetil-1H-1,2,4-triazolio y sus sales, cuando se emplee en tintes de cabello. |
+| 1260 | 2,2'-[[3-cloro-4-[(2,6-dicloro-4-nitrofenil)azo]fenil]imino]bisetanol (n.º CAS 23355-64-8) (Disperse Brown 1) y sus sales, cuando se emplee en tintes de cabello. |
+| 1261 | 2-[[4-[etil(2-hidroxietil)amino]fenil]azo]-6-metoxi-3-metilbenzotiazolio y sus sales, cuando se emplee en tintes de cabello. |
+| 1262 | 2-[(4-cloro-2-nitrofenil)azo]-N-(2-metoxifenil)-3-oxobutiramida (n.º CAS 13515-40-7) (Pigment Yellow 73) y sus sales, cuando se emplee en tintes de cabello. |
+| 1263 | 2,2'-[(3,3'-dicloro[1,1'-bifenil]-4,4'-diil)bis(azo)]bis[3-oxo-N-fenilbutiramida] (n.º CAS 6358-85-6) (Pigment Yellow 12) y sus sales, cuando se emplee en tintes de cabello. |
+| 1264 | Ácido 2,2'-(1,2-etenodiil)bis[5-(4-etoxifenil)azo]bencenosulfónico y sus sales, cuando se emplee en tintes de cabello. |
+| 1265 | 2,3-dihidro-2,2-dimetil-6-[[4-(fenilazo)-1-naftalenil]azo]-1H-pirimidina (n.º CAS 4197-25-5) (Solvent Black 3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1266 | Ácido 3(o 5)-[[4-[(7-amino-1-hidroxi-3-sulfonato-2-naftil)azo]-1-naftil]azo]salicílico y sus sales, cuando se emplee en tintes de cabello. |
+| 1267 | Ácido 7-(benzoilamino)-4-hidroxi-3-[[4-[(4-sulfofenil)azo]fenil]azo]-2-naftalenosulfónico y sus sales, cuando se emplee en tintes de cabello. |
+| 1268 | [μ-[[7,7'-iminobis[4-hidroxi-3-[[2-hidroxi-5-(N-metilsulfamoil)fenil]azo]naftaleno-2-sulfonato]](6-)]]dicuprato(2-) y sus sales, cuando se emplee en tintes de cabello. |
+| 1269 | Ácido 3-[(4-(acetilamino)fenil)azo]-4-hidroxi-7-[[[[5-hidroxi-6-(fenilazo)-7-sulfo-2-naftalenil]amino]carbonil]amino]-2-naftalenosulfónico y sus sales, cuando se emplee en tintes de cabello. |
+| 1270 | Ácido 7,7-(benzoilamino)-4-hidroxi-3-[[4-[(4-sulfofenil)azo]fenil]azo]-2-naftalenosulfónico (n.º CAS 25188-41-4) y sus sales, cuando se emplee en tintes de cabello. |
+| 1271 | N-[4-[bis[4-(dietilamino)fenil]metileno]-2,5-ciclohexadien-1-ilideno]-N-etiletanaminio y sus sales, cuando se emplee en tintes de cabello. |
+| 1272 | 2-[[(4-metoxifenil)metilhidrazono]metil]-1,3,3-trimetil-3H-indolio y sus sales, cuando se emplee en tintes de cabello. |
+| 1273 | 2-[2-[(2,4-dimetoxifenil)amino]etenil]-1,3,3-trimetil-3H-indolio y sus sales, cuando se emplee en tintes de cabello. |
+| 1274 | Nigrosina soluble en alcohol (n.º CAS 11099-03-9) (Solvent Black 5), cuando se emplee en tintes de cabello. |
+| 1275 | 3,7-bis(dietilamino)-fenoxazin-5-io (n.º CAS 47367-75-9) y sus sales, cuando se emplee en tintes de cabello. |
+| 1276 | 9-(dimetilamino)benzo[a]fenoxazin-7-io y sus sales, cuando se emplee en tintes de cabello. |
+| 1277 | 6-amino-2-(2,4-dimetilfenil)-1H-benzo[de]isoquinolina-1,3(2H)-diona (n.º CAS 2478-20-8) (Solvent Yellow 44) y sus sales, cuando se emplee en tintes de cabello. |
+| 1278 | 1-amino-4-[[4-[(dimetilamino)metil]fenil]amino]antraquinona (n.º CAS 12217-43-5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1279 | Ácido lacaico (CI Natural Red 25) (n.º CAS 60687-93-6) y sus sales, cuando se emplee en tintes de cabello. |
+| 1280 | Ácido 5-[(2,4-dinitrofenil)amino]-2-(fenilamino)-bencenosulfónico (n.º CAS 15347-52-1) y sus sales, cuando se emplee en tintes de cabello. |
+| 1281 | 4-[(4-nitrofenil)azo]anilina (n.º CAS 730-40-5) (Disperse Orange 3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1282 | 4-nitro-m-fenilendiamina (n.º CAS 5131-58-8) y sus sales, cuando se emplee en tintes de cabello. |
+| 1283 | 1-amino-4-(metilamino)-9,10-antraquinona (n.º CAS 1220-94-6) (Disperse Violet 4) y sus sales, cuando se emplee en tintes de cabello. |
+| 1284 | N-metil-3-nitro-p-fenilendiamina (n.º CAS 2973-21-9) y sus sales, cuando se emplee en tintes de cabello. |
+| 1285 | N1-(2-hidroxietil)-4-nitro-o-fenilendiamina (n.º CAS 56932-44-6) (HC Yellow n.º 5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1286 | N1-(tris(hidroximetil))metil-4-nitro-1,2-fenilendiamina (n.º CAS 56932-45-7) (HC Yellow n.º 3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1287 | 2-nitro-N-hidroxietil-p-anisidina (n.º CAS 57524-53-5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1288 | N,N'-dimetil-N-hidroxietil-3-nitro-p-fenilendiamina (n.º CAS 10228-03-2) y sus sales, cuando se emplee en tintes de cabello. |
+| 1289 | 3-(N-metil-N-(4-metilamino-3-nitrofenil)amino)propano-1,2-diol (n.º CAS 93633-79-5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1290 | Ácido 4-etilamino-3-nitrobenzoico (n.º CAS 2788-74-1) (N-etil-3-nitro PABA) y sus sales, cuando se emplee en tintes de cabello. |
+| 1291 | (8-[(4-amino-2-nitrofenil)azo]-7-hidroxi-2-naftil)trimetilamonio y sus sales, excepto Basic Red 118 (n.º CAS 71134-97-9) como impureza en Basic Brown 17, cuando se emplee en tintes de cabello. |
+| 1292 | 5-((4-(dimetilamino)fenil)azo)-1,4-dimetil-1H-1,2,4-triazolio y sus sales, cuando se emplee en tintes de cabello. |
+| 1293 | 4-(fenilazo)-m-fenilendiamina (n.º CAS 495-54-5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1294 | 4-metil-6-(fenilazo)-1,3-bencenodiamina y sus sales, cuando se emplee en tintes de cabello. |
+| 1295 | Ácido 2,7-naftalenodisulfónico, 5-(acetilamino)-4-hidroxi-3-((2-metilfenil)azo)-y sus sales, cuando se emplee en tintes de cabello. |
+| 1296 | 4,4'-[(4-metil-1,3-fenileno)bis(azo)]bis(6-metil-1,3-bencenodiamina (n.º CAS 4482-25-1) (Basic Brown 4) y sus sales, cuando se emplee en tintes de cabello. |
+| 1297 | 3-((4-((diamino(fenilazo)fenil)azo)-2-metilfenil)azo)-N,N,N-trimetil-benzenaminio y sus sales, cuando se emplee en tintes de cabello. |
+| 1298 | 3-((4-((diamino(fenilazo)fenil)azo)-1-naftalenil)azo)-N,N,N-trimetil-benzenaminio y sus sales, cuando se emplee en tintes de cabello. |
+| 1299 | N-[4-[(4-(dietilamino)fenil]fenilmetileno]-2,5-ciclohexadien-1-ilideno]-N-etiletanaminio y sus sales, cuando se emplee en tintes de cabello. |
+| 1300 | 1-[(2-hidroxietil)amino]-4-(metilamino)-9,10-antraquinona (n.º CAS 86722-66-9), sus derivados y sus sales, cuando se emplee en tintes de cabello. |
+| 1301 | 1,4-diamino-2-metoxi-9,10-antraquinona (n.º CAS 2872-48-2) (Disperse Red 11) y sus sales, cuando se emplee en tintes de cabello. |
+| 1302 | 1,4-dihidroxi-5,8-bis((2-hidroxietil)amino)antraquinona (n.º CAS 3179-90-6) (Disperse Blue 7) y sus sales, cuando se emplee en tintes de cabello. |
+| 1303 | 1-((3-aminopropil)amino)-4-(metilamino)antraquinona y sus sales, cuando se emplee en tintes de cabello. |
+| 1304 | N-(6-((2-cloro-4-hidroxifenil)imino)-4-metoxi-3-oxo-1,4-ciclohexadien-1-il)acetamida (n.º CAS 66612-11-1) (HC Yellow n.º 8) y sus sales, cuando se emplee en tintes de cabello. |
+| 1305 | (6-((3-cloro-4-(metilamino)fenil)imino)-4-metil-3-oxociclohexa-1,4-dien-1-il)urea (n.º CAS 56330-88-2) (HC Red n.º 9) y sus sales, cuando se emplee en tintes de cabello. |
+| 1306 | 3,7-bis(dimetilamino)-fenotiazin-5-io y sus sales, cuando se emplee en tintes de cabello. |
+| 1307 | 4,6-bis(2-hidroxietoxi)-m-fenilendiamina y sus sales, cuando se emplee en tintes de cabello. |
+| 1308 | 5-amino-2,6-dimetoxi-3-hidroxipiridina (n.º CAS 104333-03-1) y sus sales, cuando se emplee en tintes de cabello. |
+| 1309 | 4,4-diaminodifenilamina (n.º CAS 537-65-5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1310 | 4-dietilamino-o-toluidina (n.º CAS 148-71-0) y sus sales, cuando se emplee en tintes de cabello. |
+| 1311 | N,N-dietil-p-fenilendiamina (n.º CAS 93-05-0) y sus sales, cuando se emplee en tintes de cabello. |
+| 1312 | N,N-dimetil-p-fenilendiamina (n.º CAS 99-98-9) y sus sales, cuando se emplee en tintes de cabello. |
+| 1313 | Tolueno-3,4-diamina (n.º CAS 496-72-0) y sus sales, cuando se emplee en tintes de cabello |
+| 1314 | 2,4-diamino-5-metilfenoxietanol (n.º CAS 141614-05-3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1315 | 6-amino-o-cresol (n.º CAS 17672-22-9) y sus sales, cuando se emplee en tintes de cabello. |
+| 1316 | Hidroxietilaminometil-p-aminofenol (n.º CAS 110952-46-0) y sus sales, cuando se emplee en tintes de cabello. |
+| 1317 | 2-amino-3-nitrofenol (n.º CAS 603-85-0) y sus sales, cuando se emplee en tintes de cabello. |
+| 1318 | 2-cloro-5-nitro-N-hidroxietil-p-fenilendiamina (n.º CAS 50610-28-1) y sus sales, cuando se emplee en tintes de cabello. |
+| 1319 | 2-nitro-p-fenilendiamina (n.º CAS 5307-14-2) y sus sales, cuando se emplee en tintes de cabello. |
+| 1320 | Hidroxietil-2,6-dinitro-p-anisidina (n.º CAS 122252-11-3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1321 | 6-nitro-2,5-piridindiamina (n.º CAS 69825-83-8) y sus sales, cuando se emplee en tintes de cabello. |
+| 1322 | 3,7-diamino-2,8-dimetil-5-fenilfenazinio y sus sales, cuando se emplee en tintes de cabello. |
+| 1323 | Ácido 3-hidroxi-4-((2-hidroxinaftil)azo)-7-nitronaftalen-1-sulfónico (n.º CAS 16279-54-2) y sus sales, cuando se emplee en tintes de cabello. |
+| 1324 | 3-((2-nitro-4-(trifluorometil)fenil)amino)propano-1,2-diol (n.º CAS 104333-00-8) (HC Yellow n.º 6) y sus sales, cuando se emplee en tintes de cabello. |
+| 1325 | 2-[(4-cloro-2-nitrofenil)amino]etanol (n.º CAS 59320-13-7) (HC Yellow n.º 12) y sus sales, cuando se emplee en tintes de cabello. |
+| 1326 | 3-[[4-[(2-hidroxietil)metilamino]-2-nitrofenil]amino]-1,2-propanodiol (n.º CAS 173994-75-7) y sus sales, cuando se emplee en tintes de cabello. |
+| 1327 | 3-[[4-[etil(2-hidroxietil)amino]-2-nitrofenil]amino]-1,2-propanodiol (n.º CAS 114087-41-1) y sus sales, cuando se emplee en tintes de cabello. |
+| 1328 | N-[4-[(4-(dietilamino)fenil][4-(etilamino)-1-naftalenil]metileno]-2,5-ciclohexadien-1-ilideno]-N-etiletanaminio y sus sales, cuando se emplee en tintes de cabello. |
+
+| N.º de ref. | Nombre químico/Nombre INCI |
+|---|---|
+| 1329 | 4-[(4-aminofenil)(4-iminociclohexa-2,5-dien-1-iliden)metil]-o-toluidina (CAS 3248-93-9; EINECS 221-832-2) y su sal de hidrocloruro (Basic Violet 14; CI 42510) (CAS 632-99-5; EINECS 211-189-6), cuando se emplee en tintes de cabello |
+| 1330 | Ácido 4-[(2,4-dihidroxifenil)azo]bencenosulfónico (CAS 2050-34-2; EINECS 218-087-0) y su sal de sodio (Acid Orange 6; CI 14270) (CAS 547-57-9; EINECS 208-924-8), cuando se emplee en tintes de cabello |
+| 1331 | Ácido 4-(fenilazo)-3-hidroxi-2-naftoico (CAS 27757-79-5; EINECS 248-638-0) y su sal de calcio (Pigment Red 64:1; CI 15800) (CAS 6371-76-2; EINECS 228-899-7), cuando se emplee en tintes de cabello |
+| 1332 | Ácido 2-(6-hidroxi-3-oxo-(3H)-xanten-9-il)benzoico; fluoresceína (CAS 2321-07-5; EINECS 219-031-8) y su sal de disodio (Acid yellow 73 sodium salt; CI 45350) (CAS 518-47-8; EINECS 208-253-0), cuando se emplee en tintes de cabello |
+| 1333 | 4',5'-dibromo-3',6'-dihidroxiespiro[isobenzofuran-1(3H),9'-[9H]xanteno]-3-ona; 4',5'-dibromofluoresceína; (Solvent Red 72) (CAS 596-03-2; EINECS 209-876-0) y su sal de disodio (CI 45370) (CAS 4372-02-5; EINECS 224-468-2), cuando se emplee en tintes de cabello |
+| 1334 | Ácido 2-(3,6-dihidroxi-2,4,5,7-tetrabromoxanten-9-il)-benzoico; fluoresceína, 2',4',5',7'-tetrabromo-; (Solvent Red 43) (CAS 15086-94-9; EINECS 239-138-3), su sal de disodio (Acid Red 87; CI 45380) (CAS 17372-87-1; EINECS 241-409-6) y su sal de aluminio (Pigment Red 90:1 Aluminium lake) (CAS 15876-39-8; EINECS 240-005-7), cuando se emplee en tintes de cabello |
+| 1335 | Xantilio, 9-(2-carboxifenil)-3-(2-metilfenil)amino)-6-((2-metil-4-sulfofenil)amino)-, sal interna (CAS 10213-95-3); y su sal de sodio (Acid Violet 9; CI 45190) (CAS 6252-76-2; EINECS 228-377-9), cuando se emplee en tintes de cabello |
+| 1336 | 3',6'-dihidroxi-4',5'-diyodoespiro[isobenzofuran-1(3H),9'-[9H]xanteno]-3-ona; (Solvent Red 73) (CAS 38577-97-8; EINECS 254-010-7) y su sal de sodio (Acid Red 95; CI 45425) (CAS 33239-19-9; EINECS 251-419-2), cuando se emplee en tintes de cabello |
+| 1337 | 2',4',5',7'-tetrayodofluoresceína (CAS 15905-32-5; EINECS 240-046-0), su sal disódica (Acid Red 51; CI 45430) (CAS 16423-68-0; EINECS 240-474-8) y su sal de aluminio (Pigment Red 172 Aluminium lake) (CAS 12227-78-0; EINECS 235-440-4), cuando se emplee en tintes de cabello |
+| 1338 | 1-hidroxi-2,4-diaminobenceno (2,4-diaminofenol) (CAS 95-86-3;<br>EINECS 202-459-4) y su dihidrocloruro (2,4-Diaminophenol HCl) (CAS 137-09-7; EINECS 205-279-4), cuando se emplee en tintes de cabello |
+| 1339 | 1,4-dihidroxibenceno (Hidroquinone) (CAS 123-31-9; EINECS 204-617-8), cuando se emplee en tintes de cabello |
+| 1340 | Cloruro de [4-[[4-anilino-1-naftil][4-(dimetilamino)fenil]metilen]ciclohexa-2,5-dien-1-iliden]dimetilamonio (Basic Blue 26;<br>CI 44045) (CAS 2580-56-5; EINECS 219-943-6), cuando se emplee en tintes de cabello |
+| 1341 | 3-[(2,4-dimetil-5-sulfonatofenil)azo]-4-hidroxinaftaleno-1-sulfonato de disodio (Ponceau SX; CI 14700) (CAS 4548-53-2; EINECS 224-909-9), cuando se emplee en tintes de cabello |
+| 1342 | Tris[5,6-dihidro-5-(hidroxiimino)-6-oxonaftaleno-2-sulfonato(2-)-N5,O6]ferrato(3-) de trisodio (Acid Green 1;<br>CI 10020) (CAS 19381-50-1; EINECS 243-010-2), cuando se emplee en tintes de cabello |
+| 1343 | 4-(fenilazo)resorcinol (Solvent Orange 1; CI 11920) (CAS 2051-85-6; EINECS 218-131-9) y sus sales, cuando se emplee en tintes de cabello |
+| 1344 | 4-[(4-etoxifenil)azo]naftol (Solvent Red 3; CI 12010) (CAS 6535-42-8; EINECS 229-439-8) y sus sales, cuando se emplee en tintes de cabello |
+| 1345 | 1-[(2-cloro-4-nitrofenil)azo]-2-naftol (Pigment Red 4; CI 12085) (CAS 2814-77-9; EINECS 220-562-2) y sus sales, cuando se emplee en tintes de cabello |
+| 1346 | 3-hidroxi-N-(o-tolil)-4-[(2,4,5-triclorofenil)azo]naftaleno-2-carboxamida (Pigment Red 112; CI 12370) (CAS 6535-46-2; EINECS 229-440-3) y sus sales, cuando se emplee en tintes de cabello |
+| 1347 | N-(5-cloro-2,4-dimetoxifenil)-4-[[5-[(dietilamino)sulfonil]-2-metoxifenil]azo]-3-hidroxinaftaleno-2-carboxamida (Pigment Red 5; CI 12490) (CAS 6410-41-9; EINECS 229-107-2) y sus sales, cuando se emplee en tintes de cabello |
+| 1348 | 4-[(5-cloro-4-metil-2-sulfonatofenil)azo]-3-hidroxi-2-naftoato de disodio (Pigment Red 48; CI 15865) (CAS 3564-21-4;<br>EINECS 222-642-2), cuando se emplee en tintes de cabello |
+| 1349 | 3-hidroxi-4-[(1-sulfonato-2-naftil)azo]-2-naftoato de calcio (Pigment Red 63:1; CI 15880) (CAS 6417-83-0; EINECS 229-142-3), cuando se emplee en tintes de cabello |
+| 1350 | 3-hidroxi-4-(4'-sulfonatonaftilazo)naftaleno-2,7-disulfonato de trisodio (Acid Red 27; CI 16185) (CAS 915-67-3; EINECS 213-022-2),<br>cuando se emplee en tintes de cabello |
+| 1351 | 2,2'-[(3,3'-dicloro[1,1'-bifenil]-4,4'-diil)bis(azo)]bis[N-(2,4-dimetilfenil)-3-oxobutiramida] (Pigment Yellow 13; CI 21100) (CAS 5102-83-0; EINECS 225-822-9), cuando se emplee en tintes de cabello |
+| 1352 | 2,2'-[ciclohexilidenbis[(2-metil-4,1-fenilen)azo]]bis[4-ciclohexilfenol] (Solvent Yellow 29; CI 21230) (CAS 6706-82-7;<br>EINECS 229-754-0), cuando se emplee en tintes de cabello |
+| 1353 | 1-(4-(fenilazo)fenilazo)-2-naftol (Solvent Red 23; CI 26100) (CAS 85-86-9; EINECS 201-638-4), cuando se emplee en tintes de cabello |
+| 1354 | 6-amino-4-hidroxi-3-[[7-sulfonato-4-[(4-sulfonatofenil)azo]-1-naftil]azo]naftaleno-2,7-disulfonato de tetrasodio (Food Black 2;<br>CI 27755) (CAS 2118-39-0; EINECS 218-326-9), cuando se emplee en tintes de cabello |
+| 1355 | Hidrógeno[4-[4-(dietilamino)-2',4'-disulfonatobencidriliden]ciclohexa-2,5-dien-1-iliden]dietilamonio, sal sódica (Acid Blue 1; CI 42045) (CAS 129-17-9; EINECS 204-934-1), cuando se emplee en tintes de cabello |
+| 1356 | B<br>is[hidrógeno[4-[4-(dietilamino)-5'-hidroxi-2',4'-disulfonatobencidriliden]ciclohexa-2,5-dien-1-iliden]dietilamonio], sal cálcica (2:1) (Acid Blue 3; CI 42051) (CAS 3536-49-0; EINECS 222-573-8), cuando se emplee en tintes de cabello |
+| 1357 | Dihidrógeno(etil)[4-[4-[etil(3-sulfonatobencil)amino](4-hidroxi-2-sulfonatobencidriliden]ciclohexa-2,5-dien-1-iliden](3-sulfonatobencil)amonio, sal disódica (Fast Green FCF; CI 42053) (CAS 2353-45-9; EINECS 219-091-5), cuando se emplee en tintes de cabello |
+| 1358 | 1,3-isobenzofurandiona, productos de reacción con metilquinolina y quinolina (Solvent Yellow 33; CI 47000) (CAS 8003-22-3;<br>EINECS 232-318-2), cuando se emplee en tintes de cabello |
+| 1359 | Nigrosina (CI 50420) (CAS 8005-03-6), cuando se emplee en tintes de cabello |
+| 1360 | 8,18-dicloro-5,15-dietil-5,15-dihidrodiindolo[3,2-b:3',2'-m]trifenodioxazina (Pigment Violet 23; CI 51319) (CAS 6358-30-1; EINECS 228-767-9), cuando se emplee en tintes de cabello |
+| 1361 | 1,2-dihidroxiantraquinona (Pigment Red 83;<br>CI 58000) (CAS 72-48-0; EINECS 200-782-5), cuando se emplee en tintes de cabello |
+| 1362 | 8-hidroxipireno-1,3,6-trisulfonato de trisodio (Solvent Green 7; CI 59040) (CAS 6358-69-6; EINECS 228-783-6), cuando se emplee en tintes de cabello |
+| 1363 | 1-hidroxi-4-(p-toluidino)antraquinona (Solvent Violet 13; CI 60725) (CAS 81-48-1; EINECS 201-353-5), cuando se emplee en tintes de cabello |
+| 1364 | 1,4-bis(p-tolilamino)antraquinona (Solvent Green 3; CI 61565) (CAS 128-80-3; EINECS 204-909-5), cuando se emplee en tintes de cabello |
+| 1365 | 6-cloro-2-(6-cloro-4-metil-3-oxobenzo[b]tien-2(3H)-iliden)-4-metilbenzo[b]tiofeno-3(2H)-ona (VAT Red 1; CI 73360) (CAS 2379-74-0; EINECS 219-163-6), cuando se emplee en tintes de cabello |
+| 1366 | 5,12-dihidroquino[2,3-b]acridina-7,14-diona (Pigment Violet 19;<br>CI 73900) (CAS 1047-16-1; EINECS 213-879-2), cuando se emplee en tintes de cabello |
+| 1367 | 29H,31H-ftalocianinato(2-)-N29,N30,N31,N32 de cobre (Pigment Blue 15; CI 74160) (CAS 147-14-8; EINECS 205-685-1), cuando se emplee en tintes de cabello |
+| 1368 | [29H,31H-ftalocianinadisulfonato(4-)-N29,N30,N31,N32]cuprato(2-) de disodio (Direct Blue 86; CI 74180) (CAS 1330-38-7;<br>EINECS 215-537-8), cuando se emplee en tintes de cabello |
+| 1369 | Policloro ftalocianina de cobre (Pigment Green 7; CI 74260) (CAS 1328-53-6; EINECS 215-524-7), cuando se emplee en tintes de cabello. |
+
+| N.º <br>de orden | Nombre Químico | Número CAS <br>— <br>N.º CE |
+|---|---|---|
+| 1370 | Dietilenglicol (DEG); véase el límite de trazas en el anexo III. <br>2,2´-oxidietanol. | N.º CAS 1111-46-6. <br>N.º CE 203-872-2. |
+| 1371 | Fitomenadiona [INN]; Phytonadione [INCI]. | N.º CAS 84-80-0/81818-54-4. <br>N.º CE 201-564-2. |
+| 1372 | 2-Aminofenol (o-Aminophenol; CI 76520) y sus sales. | N.º CAS 95-55-6 /67845-79-8/ 51-19-4<br>N.º CE 202-431-1 /267-335-4 |
+| 1373 | N-(2-nitro-4-aminofenil)-alilamina (HC Red n.º 16) y sus sales. | n.º CAS 160219-76-1. |
+
+> Se añade el número 1373 por el art. único.1 de la Orden SSI/771/2013, de 6 de mayo. [Ref. BOE-A-2013-4799](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4799).
+
+> Se añade el número 1372 por el art. único.1 de la Orden SPI/3375/2011, de 1 de diciembre. [Ref. BOE-A-2011-19364](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19364).
+
+> Se modifica el número 448 por el art. único.1 de la Orden SAS/2062/2010, de 23 de julio. [Ref. BOE-A-2010-12211](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12211).
+
+> Se modifica el número 167 y se añaden el 1370 y 1371 por el art. único.1 de la Orden SAS/1868/2009, de 8 de julio. [Ref. BOE-A-2009-11601](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-11601).
+
+> Se añaden los números 1329 a 1369 por el art. 1.1 de la Orden SCO/322/2009, de 13 de febrero. [Ref. BOE-A-2009-2802](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2802).
+
+> Se modifica el número 1136 por el art. único. 1 de la Orden SCO/2242/2008, de 22 de julio. [Ref. BOE-A-2009-13037](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13037).
+
+> Se añaden los números 1244 a 1328 por el art. único.1 de la Orden SCO/719/2008, de 7 de marzo. [Ref. BOE-A-2008-5161](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-5161).
+
+> Se modifica el número 663, se suprime el 1182 y se añaden del 1234 al 1243 por el art. 1 de la Orden SCO/2614/2007, de 4 de septiembre. [Ref. BOE-A-2007-16210](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16210).
+
+> Se modifica el número 417 por el art. 1 de Orden SCO/504/2007, de 5 de marzo. [Ref. BOE-A-2007-4816](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4816).
+
+> Se añaden los números 1212 a 1233 por el art. 1.1 de la Orden SCO/3283/2006, de 19 de octubre. [Ref. BOE-A-2006-18636](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-18636).
+
+> Se suprimen los números 615 y 616, se modifica el 687 y se añaden del 1137 al 1211 por el art. 1.1 de la Orden SCO/1730/2006, de 24 de mayo. [Ref. BOE-A-2006-9894](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9894).
+
+> Se añaden los números 1133 a 1136 por el art. 1.1 de la Orden SCO/747/2006, de 9 de marzo. [Ref. BOE-A-2006-4879](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-4879).
+
+> Se modifica el número 289 y se añaden los números 452 a 1132 por el apartado 1.1.a) y b) de la Orden SCO/544/2005, de 8 de marzo. [Ref. BOE-A-2005-3946](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3946).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 149, de 23 de junio de 2005. [Ref. BOE-A-2005-10628](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10628).
+
+> Se modifican los números 178 y 409 y se suprime el 386 por el apartado 1.1 de la Orden SCO/2592/2004, de 21 de julio. [Ref. BOE-A-2004-14315](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-14315).
+
+> Se modifican los números 417 y 449 por el apartado 1.1 de la Orden SCO/1448/2003, de 23 de mayo. [Ref. BOE-A-2003-11267](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-11267).
+
+> Se modifica el número 293 y se añaden los números 421 a 449 por el apartado 1.1.a) y b) de la Orden SCO/249/2003, de 5 de febrero. [Ref. BOE-A-2003-3007](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3007).
+
+> Se modifican los números 362, 365, 372, 374, 377, 378, 389, 396 y 417 por el apartado 1.1 de la Orden de 3 de agosto de 2000. [Ref. BOE-A-2000-15557](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-15557).
+
+> Se añaden los números 419 y 420 por el apartado 1.2 de la Orden de 26 de abril de 1999. [Ref. BOE-A-1999-10150](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-10150).
+
+> Se añade el número 418, se suprime el 413 y se modifica el 417 por el apartado 1.1 de la Orden de 4 de junio de 1998. [Ref. BOE-A-1998-13842](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-13842).
+
+> Téngase en cuenta el apartado 4 de la citada Orden en relación con el número 417.
+
+## ANEXO III. Primera Parte — Lista de sustancias que no pueden contener los productos cosméticos en concentraciones superiores y en condiciones diferentes a las establecidas
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Número de orden</p>
+</td>
+<td rowspan="2">
+<p>Sustancias</p>
+</td>
+<td colspan="3">
+<p>Restricciones</p>
+</td>
+<td rowspan="2">
+<p>Condiciones de empleo y advertencias,</p>
+<p>que deben figurar obligatoriamente</p>
+<p>en el etiquetado</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Campo de aplicación</p>
+<p>y/o uso</p>
+</td>
+<td>
+<p>Concentración máxima</p>
+<p>en producto terminado</p>
+</td>
+<td>
+<p>Otras limitaciones</p>
+<p>y exigencias</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a</p>
+</td>
+<td>
+<p>b</p>
+</td>
+<td>
+<p>c</p>
+</td>
+<td>
+<p>d</p>
+</td>
+<td>
+<p>e</p>
+</td>
+<td>
+<p>f</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1a</p>
+</td>
+<td>
+<p> </p>
+<p>Ácido bórico, boratos y tetraboratos, excepto la sustancia número 1184 del anexo II.</p>
+</td>
+<td>
+<p>a) Talco.</p>
+</td>
+<td>
+<p> </p>
+<p>a) 5 por 100 (expresado en ácido bórico, masa/masa).</p>
+</td>
+<td>
+<p>a) 1. No utilizar en productos para niños menores de tres años.</p>
+<p>2. No utilizar en pieles excoriadas o irritadas si la concentración de borato soluble libre es superior al 1,5 por 100 (expresado en ácido bórico, masa/masa).</p>
+</td>
+<td>
+<p>a) 1. No utilizar en niños menores de tres años.</p>
+<p>2. No utilizar en pieles excoriadas o irritadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Productos para la higiene bucal.</p>
+</td>
+<td>
+<p>b) 0,1 por 100 (expresado en ácido bórico, masa/masa).</p>
+</td>
+<td>
+<p>b) 1. No utilizar en productos para niños menores de tres años.</p>
+</td>
+<td>
+<p>b) 1. No tragar.</p>
+<p>2. No utilizar en niños menores de tres años</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>c) Otros productos a excepción de los productos para el baño y para la ondulación del cabello.</p>
+</td>
+<td>
+<p>c) 3 por 100 (expresado en ácido bórico, masa/masa).</p>
+</td>
+<td>
+<p>c) 1. No utilizar en productos para niños menores de tres años.</p>
+<p>2. No utilizar en pieles excoriadas o irritadas si la concentración de borato soluble libre es superior al 1,5 por 100 (expresado en ácido bórico, masa/masa).</p>
+</td>
+<td>
+<p>c) 1. No utilizar en niños menores de tres años.</p>
+<p>2. No utilizar en pieles excoriadas o irritadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1b</p>
+</td>
+<td>
+<p>Tetraboratos.</p>
+</td>
+<td>
+<p>a) Productos para el baño.</p>
+</td>
+<td>
+<p>a) 18 por 100 (expresado en ácido bórico, masa/masa).</p>
+</td>
+<td>
+<p>a) No utilizar en productos para niños menores de tres años.</p>
+</td>
+<td>
+<p>a) No utilizar para el baño de niños menores de tres años.</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p>b) Productos para la ondulación del cabello.</p>
+</td>
+<td>
+<p>b) 8 por 100 (expresado en ácido bórico, masa/masa).</p>
+</td>
+<td> </td>
+<td>
+<p>b) Aclarar abundantemente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2a</p>
+</td>
+<td>
+<p>ÁCIDO TIOGLICÓLICO Y SUS SALES</p>
+</td>
+<td>
+<p>a) Productos para el rizado y desrizado del cabello</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a) b) c)</p>
+</td>
+<td>
+<p>a)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Uso general.</p>
+</td>
+<td>
+<p>– 8 % dispuesto para su empleo pH 7 a 9,5.</p>
+</td>
+<td>
+<p>El texto del modo de empleo debe incluir obligatoria mente las siguientes frases:</p>
+<p>– Evítese el contacto con los ojos.</p>
+<p>– En caso de contacto con los ojos, lávenlos inmediata y abundantemente con agua y consúltese con un especialista.</p>
+</td>
+<td>
+<p>– Contiene sales del ácido tioglicólico.</p>
+<p>– Seguir el modo de empleo.</p>
+<p>– Manténgase fuera del alcance de los niños.</p>
+<p>– Reservado a profesionales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Uso profesional.</p>
+</td>
+<td>
+<p>– 11% dispuesto para su empleo pH 7 a 9.,5</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Depilatorios.</p>
+<p>c) Otros productos para el tratamiento del cabello destinados a ser aclarados después de su aplicación</p>
+</td>
+<td>
+<p>– 5% dispuesto para su empleo pH 7 a 12,7.</p>
+<p>– 2 % dispuesto para su empleo pH 7 a 9,5</p>
+</td>
+<td>
+<p>– Usar guantes adecuados (sólamente para a) y c))</p>
+</td>
+<td>
+<p>b) y c)</p>
+<p>– Contiene sales del ácido tioglicólico.</p>
+<p>– Seguir el modo de empleo.</p>
+<p>– Manténgase fuera del alcance de los niños.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Los anteriores porcentajes están calculados en ácido tioglicólico.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2b</p>
+</td>
+<td rowspan="2">
+<p>ESTERES DEL ÁCIDO TIOGLICÓLICO</p>
+</td>
+<td rowspan="2">
+<p>Productos para el rizado y desrizado del cabello.</p>
+</td>
+<td rowspan="2"> </td>
+<td>
+<p>El texto del modo de empleo debe incluir obligatoriamente las siguientes frases:</p>
+</td>
+<td rowspan="2">
+<p>– Contiene ésteres del ácido tioglicólico.</p>
+<p>– Seguir el modo de empleo.</p>
+<p>– Manténgase fuera del alcance de los niños.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Puede provocar una reacción alérgica.</p>
+<p>– Evítese el contacto con los ojos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Uso general.</p>
+</td>
+<td>
+<p>– 8% dispuesto para su empleo pH 6 a 9,5.</p>
+</td>
+<td>
+<p>– En caso de contacto con los ojos, lávenlos inmediata y abundantemente con agua y consúltese con un especialista.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Usar guantes adecuados.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Uso profesional.</p>
+</td>
+<td>
+<p>– 11% dispuesto para su empleo pH 6 a 9,5.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Reservado a profesionales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Los anteriores porcentajes están calculados en ácido tioglicólico.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>ÁCIDO OXÁLICO, ESTERES Y SALES ALCALINAS</p>
+</td>
+<td>
+<p>Productos capilares</p>
+</td>
+<td>
+<p>– 5%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Reservado a profesionales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>AMONÍACO</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– 6% calculado en NH<sub>2</sub>.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene amoníaco (sólo cuando la concentración es superior al 2%)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>TOSILCLORAMIDA SÓDICA</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– 0,2%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>CLORATOS DE METALES ALCALINOS</p>
+</td>
+<td>
+<p>a) Dentífricos.</p>
+</td>
+<td>
+<p>– 5%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Otros usos.</p>
+</td>
+<td>
+<p>– 3%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>CLORURO DE METILENO</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– 35% (en caso de mezcla con el 1,1,1, tricloroetano, la concentración total no puede sobrepasar el 35%)</p>
+</td>
+<td>
+<p>– Contenido máximo de impurezas 0,2%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>Derivados N-sustituidos de la p-fenilendiamina y sus sales; derivados N-sustituidos de la o-fenilendiamina (<sup>1</sup>), excluidos los ya mencionados en el presente anexo y en los números de referencia 1309, 1311 y 1312 del anexo II</td>
+<td>
+<p>Colorantes de oxidación para el cabello.</p>
+<p>a) Uso general.</p>
+</td>
+<td>
+<p>– 6% calculado en base libre</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a)</p>
+<p>– <img src="https://www.boe.es/datos/imagenes/disp/2010/111/07262_001.png" alt="Imagen: img/disp/2010/111/07262_001.png">Los colorantes del cabello pueden causar reacciones alérgicas graves.</p>
+<p>Lea y siga las instrucciones.</p>
+<p>Este producto no está destinado a utilizarse en personas menores de dieciséis años.</p>
+<p>Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia.</p>
+<p>No utilice el tinte capilar:</p>
+<p>– si tiene una erupción cutánea en el rostro o tiene el cuero cabelludo sensible, irritado o dañado,</p>
+<p>– si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello,</p>
+<p>– si alguna vez ha experimentado una reacción a los tatuajes temporales de "henna negra".</p>
+<p>– Contiene diaminobencenos.</p>
+<p>– No emplear para teñir cejas y pestañas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Uso profesional.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) – Reservado a profesionales.</p>
+<p>– Usar guantes apropiados.</p>
+<p>– Contiene diaminobencenos.</p>
+<p>– <img src="https://www.boe.es/datos/imagenes/disp/2010/111/07262_001.png" alt="Imagen: img/disp/2010/111/07262_001.png">Los colorantes del cabello pueden causar reacciones alérgicas graves.</p>
+<p>Lea y siga las instrucciones.</p>
+<p>Este producto no está destinado a utilizarse en personas menores de dieciséis años.</p>
+<p>Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia.</p>
+<p>No utilice el tinte capilar:</p>
+<p>– si tiene una erupción cutánea en el rostro o tiene el cuero cabelludo sensible, irritado o dañado,</p>
+<p>– si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello,</p>
+<p>– si alguna vez ha experimentado una reacción a los tatuajes temporales de "henna negra".</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8 bis</p>
+</td>
+<td>
+<p>p-Fenilendiamina y sus sales (<sup>1</sup>) <br> N.º CAS 106-50-3 <br> EINECS 203-404-7 <br>p-Phenylenediamine HCl <br> N.º CAS 624-18-0 <br> EINECS 210-834-9 <br>p-Phenylenediamine sulfate <br> N.º CAS 16245-77-5 <br> EINECS 240-357-1</p>
+</td>
+<td>
+<p>Colorantes de oxidación para la coloración del cabello: <br>a) Uso general. <br>b) Uso profesional.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a) y b) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 2% calculada en base libre.</p>
+</td>
+<td>
+<p>a)</p>
+<p>– <img src="https://www.boe.es/datos/imagenes/disp/2010/111/07262_001.png" alt="Imagen: img/disp/2010/111/07262_001.png">Los colorantes del cabello pueden causar reacciones alérgicas graves.</p>
+<p>Lea y siga las instrucciones.</p>
+<p>Este producto no está destinado a utilizarse en personas menores de dieciséis años.</p>
+<p>Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia.</p>
+<p>No utilice el tinte capilar:</p>
+<p>– si tiene una erupción cutánea en el rostro o tiene el cuero cabelludo sensible, irritado o dañado,</p>
+<p>– si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello,</p>
+<p>– si alguna vez ha experimentado una reacción a los tatuajes temporales de "henna negra".</p>
+<p>– Contiene diaminobencenos.</p>
+<p>– No usar para teñir pestañas o cejas.</p>
+<p>La proporción de mezcla figura en la etiqueta.</p>
+<p> </p>
+<p>b) – Solo para uso profesional.</p>
+<p>– Contiene diaminobencenos.</p>
+<p>– <img src="https://www.boe.es/datos/imagenes/disp/2010/111/07262_001.png" alt="Imagen: img/disp/2010/111/07262_001.png">Los colorantes del cabello pueden causar reacciones alérgicas graves.</p>
+<p>Lea y siga las instrucciones.</p>
+<p>Este producto no está destinado a utilizarse en personas menores de dieciséis años.</p>
+<p>Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia.</p>
+<p>No utilice el tinte capilar:</p>
+<p>– si tiene una erupción cutánea en el rostro o tiene el cuero cabelludo sensible, irritado o dañado,</p>
+<p>– si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello,</p>
+<p>– si alguna vez ha experimentado una reacción a los tatuajes temporales de "henna negra".</p>
+<p>– Utilizar los guantes apropiados.</p>
+<p>La proporción de mezcla figura en la etiqueta.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>Metilfenilendiaminas, sus derivados N-sustituidos y sus sales (<sup>1</sup>), excepto la sustancia del número de orden 9 bis del presente anexo y las sustancias de los números de referencia 364, 1310 y 1313 del anexo II</p>
+</td>
+<td>
+<p>Colorantes de oxidación para el cabello.</p>
+</td>
+<td>
+<p>– 10% calculado en base libre</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a) Uso general</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a)</p>
+<p><img src="https://www.boe.es/datos/imagenes/disp/2010/111/07262_002.png" alt="Imagen: img/disp/2010/111/07262_002.png">Los colorantes del cabello pueden causar reacciones alérgicas graves.</p>
+<p>Lea y siga las instrucciones.</p>
+<p>Este producto no está destinado a utilizarse en personas menores de dieciséis años.</p>
+<p>Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia.</p>
+<p>No utilice el tinte capilar:</p>
+<p>– si tiene una erupción cutánea en el rostro o tiene el cuero cabelludo sensible, irritado o dañado,</p>
+<p>– si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello,</p>
+<p>– si alguna vez ha experimentado una reacción a los tatuajes temporales de "henna negra".</p>
+<p>Contiene fenilendiaminas (diaminotoluenos). No lo utilice para teñir las cejas ni las pestañas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Uso profesional</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Solo para uso profesional.</p>
+<p><img src="https://www.boe.es/datos/imagenes/disp/2010/111/07262_003.png" alt="Imagen: img/disp/2010/111/07262_003.png">Los colorantes del cabello pueden causar reacciones alérgicas graves.</p>
+<p>Lea y siga las instrucciones.</p>
+<p>Este producto no está destinado a utilizarse en personas menores de dieciséis años.</p>
+<p>Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia.</p>
+<p>No utilice el tinte capilar:</p>
+<p>– si tiene una erupción cutánea en el rostro o tiene el cuero cabelludo sensible, irritado o dañado,</p>
+<p>– si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello,</p>
+<p>– si alguna vez ha experimentado una reacción a los tatuajes temporales de "henna negra".</p>
+<p>Contiene fenilendiaminas (diaminotoluenos). Utilice guantes adecuados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9 bis</p>
+</td>
+<td>
+<p>Tolueno 2,5-diamina y sus sales (<sup>1</sup>) <br> N.º CAS 95-70-5 <br> EINECS 202-442-1 <br>Toluene-2,5-diamine sulfate <br> N.º CAS 615-50-9 <br> EINECS 210-431-8</p>
+<p> </p>
+</td>
+<td>
+<p>Colorantes de oxidación para la coloración del cabello: <br>a) Uso general. <br>b) Uso profesiona.l</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a) y b) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 4% calculada en base libre.</p>
+</td>
+<td>
+<p>a)</p>
+<p><img src="https://www.boe.es/datos/imagenes/disp/2010/111/07262_002.png" alt="Imagen: img/disp/2010/111/07262_002.png">Los colorantes del cabello pueden causar reacciones alérgicas graves.</p>
+<p>Lea y siga las instrucciones.</p>
+<p>Este producto no está destinado a utilizarse en personas menores de dieciséis años.</p>
+<p>Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia.</p>
+<p>No utilice el tinte capilar:</p>
+<p>– si tiene una erupción cutánea en el rostro o tiene el cuero cabelludo sensible, irritado o dañado,</p>
+<p>– si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello,</p>
+<p>– si alguna vez ha experimentado una reacción a los tatuajes temporales de "henna negra".</p>
+<p>Contiene fenilendiaminas (diaminotoluenos). No lo utilice para teñir las cejas ni las pestañas.</p>
+<p>La proporción de mezcla figura en la etiqueta.</p>
+<p> </p>
+<p>b) Solo para uso profesional.</p>
+<p><img src="https://www.boe.es/datos/imagenes/disp/2010/111/07262_003.png" alt="Imagen: img/disp/2010/111/07262_003.png">Los colorantes del cabello pueden causar reacciones alérgicas graves.</p>
+<p>Lea y siga las instrucciones.</p>
+<p>Este producto no está destinado a utilizarse en personas menores de dieciséis años.</p>
+<p>Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia.</p>
+<p>No utilice el tinte capilar:</p>
+<p>– si tiene una erupción cutánea en el rostro o tiene el cuero cabelludo sensible, irritado o dañado,</p>
+<p>– si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello,</p>
+<p>– si alguna vez ha experimentado una reacción a los tatuajes temporales de "henna negra".</p>
+<p>Contiene fenilendiaminas (diaminotoluenos). Utilice guantes adecuados.</p>
+<p>La proporción de mezcla figura en la etiqueta.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+<p>
+<strong>(Suprimido)</strong>
+</p>
+</td>
+<td> </td>
+<td> </td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>DICLOROFENO</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– 0,5%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene diclorofeno.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>Peróxido de hidrógeno (agua oxigenada) y otros compuestos o mezclas que liberen peróxido de hidrógeno, entre ellos el peróxido de carbamida y el peróxido de zinc</p>
+</td>
+<td>
+<p>a) Mezclas para el cuidado del cabello</p>
+<p>b) Mezclas para el cuidado de la piel</p>
+<p>c) Mezclas para endurecer las uñas</p>
+<p>d) Productos bucales, incluidos los productos para el enjuague, los dentífricos y los blanqueadores</p>
+<p>e) Blanqueadores dentales</p>
+</td>
+<td>
+<p>a) 12 % de H<sub>2</sub>O<sub>2</sub> (40 volúmenes) presente o liberado</p>
+<p>b) 4 % de H<sub>2</sub>O<sub>2</sub> presente o liberado</p>
+<p>c) 2 % de H<sub>2</sub>O<sub>2 </sub>presente o liberado</p>
+<p>d) ≤ 0,1 % de H<sub>2</sub>O<sub>2 </sub>presente o liberado</p>
+<p>e) &gt; 0,1 % y ≤ 6% de H<sub>2</sub>O<sub>2</sub> presente o liberado</p>
+</td>
+<td>
+<p>e) Venta exclusiva a odontólogos<sup>(10)</sup>. En cada ciclo de utilización, el primer uso estará restringido a odontólogos<sup>(10)</sup>cualificados con arreglo al Real Decreto 1837/2008, de 8 de noviembre, o tendrá lugar bajo su supervisión directa, siempre que se garantice un grado de seguridad equivalente. Posteriormente se suministrará al consumidor para completar el ciclo de utilización</p>
+<p>No utilizar en menores de 18 años.</p>
+</td>
+<td>
+<p>a) Utilizar los guantes adecuados.</p>
+<p>a), b), c) y e)</p>
+<p>Contiene agua oxigenada.</p>
+<p>Evitar todo contacto con los ojos. Enjuagar inmediatamente si el producto entra en contacto con éstos</p>
+<p>e) Concentración de H<sub>2</sub>O<sub>2 </sub>presente o liberado indicada en porcentaje.</p>
+<p>No utilizar en menores de 18 años.</p>
+<p>Venta exclusiva a odontólogos<sup>(10)</sup>. En cada ciclo de utilización, el primer uso estará restringido a odontólogos<sup>(10)</sup> o tendrá lugar bajo su supervisión directa, siempre que se garantice un grado de seguridad equivalente. Posteriormente se suministrará al consumidor para completar el ciclo de utilización.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>FORMALDEHÍDO</p>
+</td>
+<td>
+<p>Preparaciones para endurecer las uñas</p>
+</td>
+<td>
+<p>– 5% expresado en formaldehído</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Protéjanse las cutículas con una sustancia grasa.</p>
+<p>– Contiene formaldehído <sup>(2)</sup>.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14</p>
+</td>
+<td>
+<p> </p>
+<p>Hidroquinona</p>
+<p>*</p>
+</td>
+<td>
+<p>b) Sistemas de uñas artificiales.</p>
+</td>
+<td>
+<p>0,02% (después de la mezcla para su utilización.</p>
+</td>
+<td>
+<p>Reservado a los profesionales.</p>
+</td>
+<td>
+<p>b) Reservado a los profesionales.</p>
+<p>Evítese el contacto con la piel.</p>
+<p>Léanse las instrucciones de uso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15a</p>
+</td>
+<td>
+<p>HIDRÓXIDO DE POTASIO O HIDRÓXIDO DE SODIO</p>
+</td>
+<td>
+<p>a) Disolvente de las cutículas de las uñas.</p>
+</td>
+<td>
+<p>a) 5% en peso <sup>(4)</sup>.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a) – Contiene agente alcalino.</p>
+<p>– Evítese el contacto con los ojos. Peligro de ceguera.</p>
+<p>– Manténgase fuera del alcance de los niños.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Productos para el alisado del cabello.</p>
+</td>
+<td>
+<p>b)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1. Uso general.</p>
+</td>
+<td>
+<p>1. 2% en peso <sup>(4)</sup>.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1. – Contiene agente alcalino.</p>
+<p>– Evítese el contacto con los ojos. Peligro de ceguera. – Manténgase fuera del alcance de los niños.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2. Uso profesional.</p>
+</td>
+<td>
+<p>2. 4,5% en peso <sup>(4)</sup>.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2. – Reservado a profesionales.</p>
+<p>– Evítese el contacto con los ojos. Peligro de ceguera.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>c) Regulador del pH</p>
+<p>– Depilatorios.</p>
+</td>
+<td>
+<p>c) Hasta pH 12,7.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>c) – Manténgase fuera del alcance de los niños.</p>
+<p>– Evítese el contacto con los ojos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>d) Otros usos como regulador de pH.</p>
+</td>
+<td>
+<p>d) Hasta pH 11</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15b</p>
+</td>
+<td>
+<p>Hidróxido de litio.</p>
+</td>
+<td>
+<p>a) Alisadores del cabello.</p>
+</td>
+<td>
+<p>a)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1. Uso general</p>
+</td>
+<td>
+<p>1. 2 por 100 en peso <sup>(4)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1. Contiene un agente alcalino. Evitar todo contacto con los ojos. Peligro de ceguera. Mantener alejado de los niños.</p>
+<p>alcance de los niños.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2. Uso profesional</p>
+</td>
+<td>
+<p>2. 4,5 por 100 en peso <sup>(4)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2. Uso exclusivamente profesional. Evitar todo contacto con los ojos. Peligro de ceguera.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Regulador del pH-para depilatorios.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) pH máximo 12,7.</p>
+</td>
+<td>
+<p>b) Contiene un agente alcalino. Mantener alejado de los niños. Evitar todo contacto con los ojos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>c) Otros usos como regulador del pH (sólo para productos que se eliminan por aclarado).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>c) pH máximo 11.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15c</p>
+</td>
+<td>
+<p>Hidróxido de calcio.</p>
+</td>
+<td>
+<p>a) Alisadores del cabello que contengan dos componentes: Hidróxido de calcio y una sal de guanidina.</p>
+</td>
+<td>
+<p>a) 7 por 100 en peso de hidróxido de calcio.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a) Contiene un agente alcalino. Evitar todo contacto con los ojos. Mantener alejado de los niños. Peligro de ceguera.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Regulador del pH-para depilatorios.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) pH máximo 12,7.</p>
+</td>
+<td>
+<p>b) Contiene un agente alcalino. Mantener alejado de los niños. Evitar todo contacto con los ojos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>c) Otros usos (por ejemplo, regulador del pH, coadyuvante tecnológico).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>c) pH máximo 11.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>1-Naftol.</p>
+<p>1-Naphthol.</p>
+<p>n.º CAS 90-15-3.</p>
+<p>n.º CE 201-969-4.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 2,0 %.</p>
+</td>
+<td>Según se indica en el número de orden 205, columna f, letra a).</td>
+</tr>
+<tr>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>NITRITO SÓDICO</p>
+</td>
+<td>
+<p>Inhibidor de corrosión.</p>
+</td>
+<td>
+<p>0,2%</p>
+</td>
+<td>
+<p>No emplear con aminas secundarias y/o terciarias u otras sustancias que formen nitrosaminas.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>NITROMETANO</p>
+</td>
+<td>
+<p>Inhibidor de corrosión.</p>
+</td>
+<td>
+<p>0,3%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>19</p>
+<p>
+<strong>(Suprimido)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>21</p>
+</td>
+<td>
+<p>QUININA Y SUS SALES</p>
+</td>
+<td>
+<p>a) Champús.</p>
+</td>
+<td>
+<p>a) 0,5% expresado en quinina base.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Lociones capilares</p>
+</td>
+<td>
+<p>b) 0,2% expresado en quinina base.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>Resorcina.</p>
+<p>Resorcinol.</p>
+<p>n.º CAS 108-46-3.</p>
+<p>n.º CE 203-585-2.</p>
+<p>
+<sup> </sup>
+</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes.</p>
+<p>1. Uso general.</p>
+<p>2. Uso profesional.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a) Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 1,25 %.</p>
+</td>
+<td>
+<p>a) 1. Contiene resorcinol.</p>
+<p>Enjuagar bien el pelo después de su aplicación.</p>
+<p>No usar para teñir cejas o pestañas.</p>
+<p>Enjuagar inmediatamente los ojos cuando el producto entre en contacto con estos.</p>
+<p>Según se indica en el número de orden 205, columna f, letra a)</p>
+<p>2. Solo para uso profesional.</p>
+<p>Contiene resorcinol.</p>
+<p>Enjuagar inmediatamente los ojos cuando el producto entre en contacto con estos.</p>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Lociones capilares y champús.</p>
+</td>
+<td>
+<p>b) 0,5 %.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Contiene resorcinol.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23</p>
+</td>
+<td>
+<p>SULFUROS ALCALINOS</p>
+</td>
+<td>
+<p>a) Depilatorios.</p>
+</td>
+<td>
+<p>a) 2% expresado en azufre pH 12,7.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a) – Manténgase fuera del alcance de los niños.</p>
+<p>– Evítese el contacto con los ojos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>SULFUROS ALCALINOTÉRREOS</p>
+</td>
+<td>
+<p>b) Depilatorios.</p>
+</td>
+<td>
+<p>a) 6% expresado en azufre pH 12,7.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) – Manténgase fuera del alcance de los niños.</p>
+<p>– Evítese el contacto con los ojos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>SALES DE CINC HIDROSOLUBLES EXCEPTO SULFOFENATOS DE CINC Y PIRITIONA DE CINC</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1% expresado en cinc.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>SULFOFENATO DE CINC</p>
+</td>
+<td>
+<p>Desodorantes, antiperspirantes y lociones astringentes.</p>
+</td>
+<td>
+<p>6% expresado en % de materia anhidra</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Evítese el contacto con los ojos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>26</p>
+</td>
+<td>
+<p>MONOFLUOROFOSFATO DE AMONIO</p>
+</td>
+<td>
+<p>Productos para higiene bucal.</p>
+</td>
+<td>
+<p>0,15% expresado en flúor.</p>
+<p>En caso de mezcla con otros compuestos fluorados, autorizados en este Anexo, la concentración máxima será del 0,15% expresado en flúor.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene monofluorofosfato de amonio.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>27</p>
+</td>
+<td>
+<p>MONOFLUOROFOSFATO DE SODIO</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene monofluorofosfato de sodio.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>28</p>
+</td>
+<td>
+<p>MONOFLUOROFOSFATO DE POTASIO</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene monofluorofosfato de potasio.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29</p>
+</td>
+<td>
+<p>MONOFLUOROFOSFATO DE CALCIO</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene monofluorofosfato de calcio.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>FLUORURO DE CALCIO</p>
+</td>
+<td>
+<p>Productos para higiene bucal</p>
+</td>
+<td>
+<p>0,15% expresado en flúor.</p>
+<p>En caso de mezcla con otros compuestos fluorados, autorizados en este Anexo, la concentración máxima será del 0,15% expresado en flúor</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene fluoruro de calcio.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>31</p>
+</td>
+<td>
+<p>FLUORURO DE SODIO</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene fluoruro de sodio.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>32</p>
+</td>
+<td>
+<p>FLUORURO DE POTASIO</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene fluoruro de potasio.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>33</p>
+</td>
+<td>
+<p>FLUORURO DE AMONIO</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene fluoruro de amonio.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>34</p>
+</td>
+<td>
+<p>FLUORURO DE ALUMINIO</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene fluoruro de aluminio.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>FLUORURO ESTANNOSO</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene fluoruro de estannoso.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>HIDROFLUORURO DE CETILAMINA (HIDROFLUORURO DE HEXADECILAMINA)</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene hidrofluoruro de cetilamina.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>37</p>
+</td>
+<td>
+<p>DIHIDROFLUORURO DE BIS‑ (HIDROXIETIL) AMINOPROPIL-N‑ HIDROXIETIL‑OCTA‑ DECILAMINA</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene dihidrofluoruro de bis‑ (hidroxietil)- aminopropil-N‑ hidroxietil-octa‑ decilamina.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>38</p>
+</td>
+<td>
+<p>DIHIDROFLUORURO DE N, N’,N’-TRI(POLIOXIETIL EN)-N-HEXADE- CIL‑ PROPILENDIAMINA</p>
+</td>
+<td>
+<p>Productos para la higiene bucal.</p>
+</td>
+<td>
+<p>0,15% expresado en flúor.</p>
+<p>En caso de mezcla con otros compuestos fluorados autorizados en este Anexo, la concentración máxima será del 0,15% expresado en flúor.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene dihidrofluoruro de N,N’,N’‑ trl(polioxietilen)-N-hexadecil‑ propilendiamina.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39</p>
+</td>
+<td>
+<p>HIDROFLUORURO DE OCTADECENIL AMINA</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene hidrofluoruro de octadecenil amina.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>SILICOFLUORURO DE SODIO</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene silicofluoruro de sodio.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41</p>
+</td>
+<td>
+<p>SILICOFLUORURO DE POTASIO</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene silicofluoruro de potasio.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>42</p>
+</td>
+<td>
+<p>SILICOFLUORURO DE AMONIO</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene silicofluoruro de amonio.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>43</p>
+</td>
+<td>
+<p>SILICOFLUORURO DE MAGNESIO</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene silicofluoruro de magnesio.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>44</p>
+</td>
+<td>
+<p>1,3-DIHIDROXIMETIL -2- TIONAIMIDAZOLIDINA</p>
+</td>
+<td>
+<p>a) Preparaciones para cuidados capilares.</p>
+</td>
+<td>
+<p>Hasta 2%</p>
+</td>
+<td>
+<p>a) Prohibido en aerosoles</p>
+</td>
+<td>
+<p>– Contiene 1,3-dihidroximetil‑ 2‑ tionaimidazolidina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Preparaciones para cuidados de uñas.</p>
+</td>
+<td>
+<p>Hasta 2%</p>
+</td>
+<td>
+<p>b) El pH debe ser inferior a 4.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45</p>
+</td>
+<td>
+<p>Alcohol bencílico <sup>(5)</sup></p>
+<p>nº CAS 100-51-6</p>
+</td>
+<td>
+<p>a) Disolvente</p>
+<p> </p>
+<p>b) Fragancia, composiciones aromáticas y sus materias primas</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.1.i), cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no se aclaran</p>
+<p>– el 0,01% en productos que se eliminan por aclarado</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>46</p>
+</td>
+<td>
+<p>6‑ METILCUMARINA</p>
+</td>
+<td>
+<p>Productos para higiene bucal</p>
+</td>
+<td>
+<p>0,003%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>47</p>
+</td>
+<td>
+<p>FLUORHIDRATO DE NICOMETANOL</p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+<td>
+<p>0,15% expresado en flúor.</p>
+<p>En caso de mezcla con otros compuestos fluorados, autorizados en este Anexo, la concentración máxima será del 0,15% expresado en flúor</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene fluorhidrato de nicometanol.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>48</p>
+</td>
+<td>
+<p>NITRATO DE PLATA</p>
+</td>
+<td>
+<p>Únicamente para productos destinados a la coloración de cejas y pestañas.</p>
+</td>
+<td>
+<p>4%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene nitrato de plata.</p>
+<p>– En caso de contacto con los ojos lávenlos inmediata y abundantemente con agua</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>49</p>
+</td>
+<td>
+<p>DISULFURO DE SELENIO</p>
+</td>
+<td>
+<p>Champús anticaspa.</p>
+</td>
+<td>
+<p>1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene disulfuro de selenio.</p>
+<p>– Evítese el contacto con los ojos y la piel dañada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>HIDROXICLORUROS DE ALUMINIO Y ZIRCONIO HIDRATADOS Al<sub>2</sub> Zr(OH) <sub>y</sub> CI<sub>2</sub> Y SU COMPLEJO CON LA GLICINA</p>
+</td>
+<td>
+<p>Antiperspirantes.</p>
+</td>
+<td>
+<p>20% de hidroxicloruro de aluminio y zirconio anhidro.</p>
+<p>5,4% expresado en zirconio.</p>
+</td>
+<td>
+<p>1. La relación entre los números de átomos de aluminio y de zirconio debe estar comprendid a entre 2 y 10.</p>
+<p>2. La relación entre los números de los átomos (Al+Zr) y de cloro debe estar comprendida entre 0,9 y 2,1.</p>
+<p>3. Prohibido en aerosoles.</p>
+</td>
+<td>
+<p>– No aplicar sobre piel irritada o dañada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>51</p>
+</td>
+<td>
+<p>8‑ HIDROXIQUINOLEÍNA Y SU SULFATO</p>
+</td>
+<td>
+<p>Agente estabilizante del H<sub>2</sub> O<sub>2</sub> en preparaciones para tratamientos capilares destinados a ser aclarados.</p>
+</td>
+<td>
+<p>0,3% calculado en base.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Agente estabilizante del agua oxigenada en preparaciones para tratamientos capilares que no se eliminan con agua.</p>
+</td>
+<td>
+<p>0,3% calculado en base.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>52</p>
+</td>
+<td>
+<p>ALCOHOL METÍLICO</p>
+</td>
+<td>
+<p>Desnaturalizador para los alcoholes etílico e isopropílico</p>
+</td>
+<td>
+<p>5% calculado en % de alcoholes etílico e isopropílico</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>53</p>
+</td>
+<td>
+<p>ÁCIDO ETIDRÓNICO Y SUS SALES (ÁCIDO 1- HIDROXIETILIDEN-DI-FOSFÓNICO Y SUS SALES)</p>
+</td>
+<td>
+<p>a) Productos para el cuidado del cabello.</p>
+</td>
+<td>
+<p>1,5% expresado en ácido etidrónico.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Jabones</p>
+</td>
+<td>
+<p>0,2% expresado en ácido etidrónico.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>54</p>
+</td>
+<td>
+<p>FENOXIPROPANOL</p>
+</td>
+<td>
+<p>Únicamente para productos aclarados.</p>
+<p>Prohibido en los productos de higiene bucal.</p>
+</td>
+<td>
+<p>2,0%</p>
+</td>
+<td>
+<p>Como agente conservador , ver el Anexo VI, 1ª parte n.º 43</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55</p>
+<p>
+<strong>(Suprimido)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>56</p>
+</td>
+<td>
+<p>FLUORURO DE MAGNESIO</p>
+</td>
+<td>
+<p>Productos de higiene bucal.</p>
+</td>
+<td>
+<p>0,15% calculado en flúor.</p>
+<p>Si aparece mezclado con otros compuestos fluorados, autorizados en este Anexo, la concentración máxima de flúor sigue siendo 0,15%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene fluoruro de magnesio.</p>
+<p>Toda pasta dentífrica que contenga compuestos fluorados en una concentración de entre 0,1 y 0,15%, calculada como F, excepto si ya está etiquetada como contraindicada para niños (por ejemplo, con la indicación ''solo para adultos''), deberá ir obligatoriamente provista del etiquetado siguiente:</p>
+<p>''Niños de 6 años o menores: utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.''</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>57</p>
+</td>
+<td>
+<p>Cloruro de estroncio (hexahidratado).</p>
+</td>
+<td>
+<p>a) Dentífricos.</p>
+</td>
+<td>
+<p>3,5% expresado en estroncio. En caso de mezcla con otros compuestos de estroncio autorizados por este anexo, la concentración máxima de estroncio queda fijada en 3,5%.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene cloruro de estroncio.</p>
+<p>Se desaconseja su uso en niños.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Champú y productos de cuidado de la cara.</p>
+</td>
+<td>
+<p>2,1% expresado en estroncio. En caso de mezcla con otros compuestos de estroncio autorizados por este anexo, la concentración máxima de estroncio queda fijada en 2,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>58</p>
+</td>
+<td>
+<p>ACETATO DE ESTRONCIO (SEMIHIDRATADO)</p>
+</td>
+<td>
+<p>Dentríficos.</p>
+</td>
+<td>
+<p>3,5% expresado en estroncio.</p>
+<p>En caso de mezcla con otros compuestos de estroncio autorizados por este Anexo, la concentración máxima de estroncio queda fijada en 3,5%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Contiene acetato de estroncio.</p>
+<p>– Se desaconseja su uso en niños.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>59</p>
+</td>
+<td>
+<p>TALCO: SILICATO DE MAGNESIO HIDRATADO</p>
+</td>
+<td>
+<p>a) Productos pulverulentos para los niños menores de tres años.</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a) Mantener apartado de la nariz y la boca del niño.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>Dialquilamidas y dialcanolamidas de ácidos grasos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Contenido máximo de amina secundaria:</p>
+<p>0,5%.</p>
+<p>.</p>
+</td>
+<td>
+<p>No emplear con agentes nitrosantes.</p>
+<p>Contenido máximo de amina secundaria: 5% (aplicable</p>
+<p>a las materias primas).</p>
+<p>Contenido máximo de nitrosaminas: 50 gg/kg.</p>
+<p>Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>61</p>
+</td>
+<td>
+<p>Monoalquilaminas, monoalcanola</p>
+<p>minas y sus sales.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Contenido máximo de amina secundaria:</p>
+<p>0,5%.</p>
+</td>
+<td>
+<p>No emplear con agentes nitrosantes.</p>
+<p>Pureza mínima: 99%.</p>
+<p>Contenido máximo de amina secundaria: 5% (aplicable</p>
+<p>a las materias primas).</p>
+<p>Contenido máximo de nitrosaminas: 50 gg/kg.</p>
+<p>Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>62</p>
+</td>
+<td>
+<p>Trialquilaminas, trialcanolaminas y sus sales.</p>
+</td>
+<td>
+<p>a) Productos que no requieren aclarado.</p>
+<p>b) Otros productos.</p>
+</td>
+<td>
+<p>a) 2,5%</p>
+</td>
+<td>
+<p>a), b)</p>
+<p>No emplear con agentes nitrosantes.</p>
+<p>Pureza mínima: 99%.</p>
+<p>Contenido máximo de amina secundaria: 5% (aplicable a las materias primas).</p>
+<p>Contenido máximo de nitrosaminas: 50 μg/kg.</p>
+<p>Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>63</p>
+</td>
+<td>
+<p>HIDRÓXIDO DE ESTRONCIO</p>
+</td>
+<td>
+<p>Regulador del pH en los productos depilatorios</p>
+</td>
+<td>
+<p>3,5% expresado en estroncio pH máximo 12,7</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Mantener fuera del alcance de los niños.</p>
+<p>– Evitar el contacto con los ojos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64</p>
+</td>
+<td>
+<p>PERÓXIDO DE ESTRONCIO</p>
+</td>
+<td>
+<p>Productos para el cuidado del cabello, destinados a ser aclarados después de su aplicación. Uso profesional</p>
+</td>
+<td>
+<p>4,5% expresado en estroncio en el producto preparado para el uso</p>
+</td>
+<td>
+<p>Todos los productos deberán cumplir los requisitos de emisión de peróxido de hidrógeno</p>
+</td>
+<td>
+<p>– Evitar el contacto con los ojos.</p>
+<p>– Enjuagar inmediatamente los ojos si el producto entra en contacto con ellos.</p>
+<p>– Uso profesional.</p>
+<p>– Usar guantes adecuados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>65</p>
+</td>
+<td>
+<p>Cloruro, bromuro y sacarinato de benzalconio.</p>
+</td>
+<td>
+<p>b) Productos para el cabello que se eliminan por aclarado.</p>
+</td>
+<td>
+<p>a) 3 por 100 (expresado en cloruro de benzalconio).</p>
+</td>
+<td>
+<p>a) En el producto acabado, las concentraciones de cloruro, bromuro y sacarinato de benzalco‑ nio cuya cadena de alquilos sea igual o inferior a C14 no deberán ser superiores al 0,1 por 100 (expresado en cloruro de benzalconio).</p>
+</td>
+<td>
+<p>a) Evitar el contacto con los ojos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>c) Otros productos.</p>
+</td>
+<td>
+<p>b) 0,1 por 100 (expresado en cloruro de benzalconio).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Evitar el contacto con los ojos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>66</p>
+</td>
+<td>
+<p>Polyacrylamides.</p>
+</td>
+<td>
+<p>a) Productos para el cuidado corporal que se dejan en contacto.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a) Contenido máximo residual de acrilamida 0,1 mg/kg.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Otros productos cosméticos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Contenido máximo residual de acrilamida 0,5 mg/kg</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>67</p>
+</td>
+<td>
+<p>Cinamal amílico</p>
+<p>(CAS No 122-40-7)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>68</p>
+<p>
+<strong>(Suprimido)</strong>
+</p>
+</td>
+<td> </td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td> </td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>69</p>
+</td>
+<td>
+<p>Alcohol cinamílico</p>
+<p>(CAS No 104-54-1)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>Citral</p>
+<p>(CAS No 5392-40-5)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>71</p>
+</td>
+<td>
+<p>Eugenol</p>
+<p>(CAS No 97-53-0)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72</p>
+</td>
+<td>
+<p>Hidroxicitronelal</p>
+<p>n° CAS 107-75-5</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b)	1,0%</p>
+</td>
+<td>
+<p>a), b) La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.1.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no se aclaran</p>
+<p>– el 0,01% en productos que se eliminan por aclarado</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>73</p>
+</td>
+<td>
+<p>Isoeugenol</p>
+<p>n° CAS 97-54-1</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b)	0,02%</p>
+</td>
+<td>
+<p>a), b) La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.1.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no se aclaran</p>
+<p>– el 0,01% en productos que se eliminan por aclarado</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>74</p>
+</td>
+<td>
+<p>Alcohol amilcinamílico</p>
+<p>(CAS No 101-85-9)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:- el 0,001% en los productos que no deben enjuagarse.- el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>75</p>
+</td>
+<td>
+<p>Salicilato bencílico</p>
+<p>(CAS No 118-58-1)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>76</p>
+</td>
+<td>
+<p>Cinamal</p>
+<p>(CAS No 104-55-2</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77</p>
+</td>
+<td>
+<p>Cumarina</p>
+<p>(CAS No 91-64-5)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>78</p>
+</td>
+<td>
+<p>Geraniol</p>
+<p>(CAS No 106-24-1)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79</p>
+</td>
+<td>
+<p>Hidroximetil-pentil­ciclohex-enocarbal­dehído</p>
+<p>(CAS No 31906-04-4)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>Alcohol 4-metoxibencílico</p>
+<p>(CAS No 105-13-5)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>81</p>
+</td>
+<td>
+<p>Cinamato bencílico</p>
+<p>(CAS No 103-41-3)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>82</p>
+</td>
+<td>
+<p>Farnesol</p>
+<p>(CAS No 4602-84-0)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>83</p>
+</td>
+<td>
+<p>2-(4-terc-butilbencil) propionaldehído</p>
+<p>(CAS No 80-54-6)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>84</p>
+</td>
+<td>
+<p>Linalol</p>
+<p>(CAS No 78-70-6)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>85</p>
+</td>
+<td>
+<p>Benzoato de bencilo</p>
+<p>(CAS No 120-51-4)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>86</p>
+</td>
+<td>
+<p>Citronelol</p>
+<p>(CAS No 106-22-9)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>87</p>
+</td>
+<td>
+<p>a-hexilcinamaldehído</p>
+<p>(CAS No 101-86-0)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>88</p>
+</td>
+<td>
+<p>d-limoneno</p>
+<p>n° CAS 5989-27-5</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.1.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no se aclaran</p>
+<p>– el 0,01% en productos que se eliminan por aclarado</p>
+<p>Índice de peróxidos inferior a 20 mmol/L<sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>89</p>
+</td>
+<td>
+<p>2-octinoato de metilo</p>
+<p>n° CAS 111-12-6</p>
+<p>Heptincarbonato de metilo</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p> </p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b) el 0,01% cuando se utiliza solo.</p>
+<p>Si está combinado con octincarbonato de metilo, el nivel combinado en el producto termina do no debe sobrepasar el 0,01% (y el octincarbonato de metilo no debe superar el 0,002%)</p>
+</td>
+<td>
+<p>a), b) La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.1.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no se aclaran</p>
+<p>– el 0,01% en productos que se eliminan por aclarado</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90</p>
+</td>
+<td>
+<p>3-metil-4-(2,6,6-trimetil-2-ciclohexen-1-il)-3-buten-2-ona</p>
+<p>(CAS No 127-51-5)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>91</p>
+</td>
+<td>
+<p>Evernia prunastri, extracto</p>
+<p>(CAS No 90028-68-5)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>92</p>
+</td>
+<td>
+<p>Evernia furfuracea, extracto</p>
+<p>(CAS No 90028-67-4)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>La presencia de la sustancia deberá indicarse en la lista de ingredientes a que se hace referencia en el artículo 15.i) cuando su concentración supere:</p>
+<p>– el 0,001% en los productos que no deben enjuagarse.</p>
+<p>– el 0,01% en los productos que deben enjuagarse.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>93</p>
+</td>
+<td>
+<p>2,4-diaminopirimidina3-óxido (número CAS 74638-76-9)</p>
+</td>
+<td>
+<p>Producto para el tratamiento del cabello.</p>
+</td>
+<td>
+<p>1,5%.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>94</p>
+</td>
+<td>
+<p>Peróxido de benzoilo.</p>
+</td>
+<td>
+<p>Sistemas de uñas artificiales.</p>
+</td>
+<td>
+<p>0,7% (después de la mezcla).</p>
+</td>
+<td>
+<p>Reservado a profesionales.</p>
+</td>
+<td>
+<p>Reservado a los profesionales.</p>
+<p>Evítese el contacto con la piel.</p>
+<p>Leánse las instrucciones de uso.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>95</p>
+</td>
+<td>
+<p>Hidroquinona dimetil éter.</p>
+</td>
+<td>
+<p>Sistemas de uñas artificiales.</p>
+</td>
+<td>
+<p>0,02% (después de la mezcla para su utilización).</p>
+</td>
+<td>
+<p>Reservado a profesionales.</p>
+</td>
+<td>
+<p>Reservado a los profesionales.</p>
+<p>Evítese el contacto con la piel.</p>
+<p>Leánse las instrucciones de uso.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>96</p>
+</td>
+<td>
+<p>Almizcle de xileno (n.º CAS 81-15-2)</p>
+</td>
+<td>
+<p>Todos los productos cosméticos, excepto los productos para higiene bucal.</p>
+</td>
+<td>
+<p>a) 1,0 % en perfumes.</p>
+<p>b) 0,56 % en aguas de colonia.</p>
+<p>c) 0,03 % en otros productos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>97</p>
+</td>
+<td>
+<p>Almizcle de cetona (n.º CAS 81-14-1)</p>
+</td>
+<td>
+<p>Todos los productos cosméticos, excepto los productos para higiene bucal.</p>
+</td>
+<td>
+<p>a) 1,4 % en perfumes.</p>
+<p>b) 0,56 % en aguas de colonia.</p>
+<p>c) 0,042 % en otros productos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>98</p>
+</td>
+<td>
+<p>Ácido salicílico. (número CAS 69-72-7). (como conservante, ver anexo VI, 1ª parte, número 3).</p>
+</td>
+<td>
+<p>a) Productos para el cabello que se aclaran.</p>
+<p>b) Otros productos.</p>
+</td>
+<td>
+<p>a) 3,0%</p>
+<p> </p>
+<p>b) 2,0%</p>
+</td>
+<td>
+<p>No utilizar en productos destinados a niños menores de tres años, excepto en champús.</p>
+<p>Con otros fines que no sean la inhibición del crecimiento de microorganismos en el producto. La presentación del producto debe poner en evidencia estos otros fines.</p>
+</td>
+<td>
+<p>No emplear para los cuidados de los niños menores de tres años.</p>
+<p>(Únicamente cuando se trate de productos que pudieran emplearse para cuidados de niños menores de tres años y que permanezcan en contacto prolongado con la piel.)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>99</p>
+</td>
+<td>
+<p>Sulfitos y bisulfitos inorgánicos. (como conservante, ver anexo VI, 1ª parte, número 9).</p>
+</td>
+<td>
+<p>a) Tintes para el cabello oxidantes.</p>
+<p>b) Productos alisadores del cabello.</p>
+<p>c) Autobroncea-dores faciales.</p>
+<p>d) Otros auto-bronceadores.</p>
+</td>
+<td>
+<p>a) 0,67% expresado en SO2 libre.</p>
+<p>b) 6,7% expresado en SO2 libre.</p>
+<p>c) 0,45% expresado en SO2 libre.</p>
+<p>d) 0,40% expresado en SO2 libre.</p>
+</td>
+<td>
+<p>Con otros fines que no sean la inhibición del crecimiento de microorganismos en el producto. La presentación del producto debe poner en evidencia estos otros fines.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>100</p>
+</td>
+<td>
+<p>Triclocarban. (número CAS 101-20-2). (como conservante, ver anexo VI, 1ª parte, número 23).</p>
+</td>
+<td>
+<p>Productos que se aclaran.</p>
+</td>
+<td>
+<p>1,5%</p>
+</td>
+<td>
+<p>Criterios de pureza: 3,3',4,4'-Tetracloro-azobenzeno &lt; 1ppm. 3,3',4,4'-Tetracloro-azoxibenzeno &lt; 1 ppm. Con otros fines que no sean la inhibición del crecimiento de microorganismos en el producto. La presentación del producto debe poner en evidencia estos otros fines.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>101</p>
+</td>
+<td>
+<p>Piritionato de zinc. (número CAS 13463-41-7). (como conservante, ver anexo VI, 1ª parte, número 8).</p>
+</td>
+<td>
+<p>Productos para el cabello que no se aclaran.</p>
+</td>
+<td>
+<p>0,1%</p>
+</td>
+<td>
+<p>Con otros fines que no sean la inhibición del crecimiento de microorganismos en el producto. La presentación del producto debe poner en evidencia estos otros fines.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>102</p>
+</td>
+<td>
+<p>Glioxal</p>
+<p>N°CAS 107-22-2</p>
+<p>N° EINECS 203-474-9</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>100 mg/kg</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>103</p>
+</td>
+<td>
+<p>Aceite y extracto de piña de Abies alba</p>
+<p>n° CAS 90028-76-5</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>104</p>
+</td>
+<td>
+<p>Aceite y extracto de hojas de Abies alba</p>
+<p>n° CAS 90028-76-5</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>105</p>
+</td>
+<td>
+<p>Aceite y extracto de hojas de Abies pectinata</p>
+<p>n° CAS 92128-34-2</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>106</p>
+</td>
+<td>
+<p>Aceite y extracto de hojas de Abies sibirica</p>
+<p>n° CAS 91697-89-1</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>107</p>
+</td>
+<td>
+<p>Aceite y extracto de hojas de Abies balsamea</p>
+<p>n° CAS 85085-34-3</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>108</p>
+</td>
+<td>
+<p>Aceite y extracto de ramas y hojas de Pinus mugo pum ilio</p>
+<p>n° CAS 90082-73-8</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>109</p>
+</td>
+<td>
+<p>Aceite y extracto de ramas y hojas de Pinus mugo</p>
+<p>n° CAS 90082-72-7</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>110</p>
+</td>
+<td>
+<p>Aceite y extracto de ramas y hojas de Pinus sylvestris</p>
+<p>n° CAS 84012-35-1</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>111</p>
+</td>
+<td>
+<p>Aceite y extracto de ramas y hojas de Pinus nigra</p>
+<p>n° CAS 90082-74-9</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>112</p>
+</td>
+<td>
+<p>Aceite y extracto de ramas y hojas de Pinus palustris</p>
+<p>n° CAS 97435-14-8</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>113</p>
+</td>
+<td>
+<p>Aceite y extracto de ramas y hojas de Pinus pinaster</p>
+<p>n° CAS 90082-75-0</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>114</p>
+</td>
+<td>
+<p>Aceite y extracto de ramas y hojas de Pinus pumila</p>
+<p>n° CAS 97676-05-6</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>115</p>
+</td>
+<td>
+<p>Aceite y extracto de ramas y hojas de Pinus spp.</p>
+<p>n° CAS 94266-48-5</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>116</p>
+</td>
+<td>
+<p>Aceite y extracto de ramas y hojas de Pinus cembra</p>
+<p>n° CAS 92202-04-5</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxido sinferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>117</p>
+</td>
+<td>
+<p>Extracto acetilado de ramas y hojas de Pinus cembra</p>
+<p>n° CAS 94334-26-6</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxido sinferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>118</p>
+</td>
+<td>
+<p>Aceite y extracto de hojas de Picea mariana</p>
+<p>n° CAS 91722-19-9</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>119</p>
+</td>
+<td>
+<p>Aceite y extracto de hojas de Thuja occidentalis</p>
+<p>n° CAS 90131-58-1</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>120</p>
+</td>
+<td>
+<p>Aceite del tronco de Thuja occidentalis</p>
+<p>n° CAS 90131-58-1</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>121</p>
+</td>
+<td>
+<p>3-careno</p>
+<p>n° CAS 13466-78-9</p>
+<p>3,7,7-trimetilbiciclo [4.1.0]hept-3-eno</p>
+<p>(isodipreno)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>122</p>
+</td>
+<td>
+<p>Aceite y extracto de madera de Cedrus atlantica</p>
+<p>n° CAS 92201-55-3</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>123</p>
+</td>
+<td>
+<p>Aceite y extracto de hojas de Cupressus sempervirens</p>
+<p>n° CAS 84696-07-1</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>124</p>
+</td>
+<td>
+<p>Goma de trementina (Pinus spp.)</p>
+<p>n° CAS 9005-90-7</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(76</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>125</p>
+</td>
+<td>
+<p>Aceite y aceite rectificado de trementina</p>
+<p>n° CAS 8006-64-2</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>126</p>
+</td>
+<td>
+<p>Trementina destilada en corriente de vapor (Pinus spp.)</p>
+<p>n° CAS 8006-64-2</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>127</p>
+</td>
+<td>
+<p>Acetatos de alcoholes terpénicos</p>
+<p>n° CAS 69103-01-1</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>128</p>
+</td>
+<td>
+<p>Hidrocarburos terpénicos</p>
+<p>n° CAS 68956-56-9</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>129</p>
+</td>
+<td>
+<p>Terpenos y terpenoides</p>
+<p>excepto limoneno (isómeros d-, l-y dl-limoneno),</p>
+<p>números de orden 167, 168 y 88 de la parte 1 de este anexo III</p>
+<p>n° CAS 65996-98-7</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>130</p>
+</td>
+<td>
+<p>Terpenes y terpenoids «sinpine»</p>
+<p>n° CAS 68917-63-5</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>131</p>
+</td>
+<td>
+<p>cx-terpineno</p>
+<p>n° CAS 99-86-5 p-menta-1,3-dieno</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>132</p>
+</td>
+<td>
+<p>y-terpineno</p>
+<p>n° CAS 99-85-4p-menta-1,4-dieno</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>133</p>
+</td>
+<td>
+<p>Terpinoleno</p>
+<p>n° CAS 586-62-9p-menta-1,4(8)-dieno</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>índice de peróxidos inferior a 10 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>134</p>
+</td>
+<td>
+<p>Acetil hexametilindano</p>
+<p>n° CAS 15323-35-0</p>
+<p>1,1,2,3,3,6-hexametilindan-5-il-metil-cetona</p>
+</td>
+<td>
+<p>a) Productos que no se aclaran</p>
+<p>b) Productos que se eliminan por aclarado</p>
+</td>
+<td>
+<p>a) 2%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>135</p>
+</td>
+<td>
+<p>Butirato de alilo</p>
+<p>n°CAS 2051-78-7</p>
+<p>Butanoato de 2-propenilo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>136</p>
+</td>
+<td>
+<p>Cinamato de alilo</p>
+<p>n°CAS 1866-31-5</p>
+<p>3-fenil-2-propenoato de 2-propenilo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>137</p>
+</td>
+<td>
+<p>Ciclohexanoacetato de alilo</p>
+<p>n° CAS 4728-82-9</p>
+<p>Ciclohexanoacetato de 2-propenilo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>138</p>
+</td>
+<td>
+<p>Ciclohexilpropionato de alilo</p>
+<p>n° CAS 2705-87-5</p>
+<p>3-ciclohexanopropanoato de 2-propenilo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>139</p>
+</td>
+<td>
+<p>Heptanoato de alilo</p>
+<p>n° CAS 142-19-8</p>
+<p>Heptanoato de 2-propenilo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>140</p>
+</td>
+<td>
+<p>Caproato de alilo</p>
+<p>n° CAS 123-68-2</p>
+<p>Hexanoato de afilo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>141</p>
+</td>
+<td>
+<p>Isovalerato de alilo</p>
+<p>n° CAS 2835-39-4</p>
+<p>3-metil-butanoato de 2-propenilo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>142</p>
+</td>
+<td>
+<p>Octanoato de alilo</p>
+<p>n° CAS 4230-97-1</p>
+<p>Caprilato de 2-alilo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>143</p>
+</td>
+<td>
+<p>Fenoxiacetato de alilo</p>
+<p>n° CAS 7493-74-5</p>
+<p>Fenoxiacetato de 2-propenilo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>144</p>
+</td>
+<td>
+<p>Fenilacetato de alilo</p>
+<p>n° CAS 1797-74-6</p>
+<p>Bencenoacetato de 2-propenilo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>145</p>
+</td>
+<td>
+<p>3,5,5-trimetilhexanoato de alilo</p>
+<p>n° CAS 71500-37-3</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>146</p>
+</td>
+<td>
+<p>Ciclohexiloxiacetato de alilo</p>
+<p>n° CAS 68901-15-5</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>147</p>
+</td>
+<td>
+<p>Isoamiloxiacetato de alilo</p>
+<p>n° CAS 67634-00-8</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>148</p>
+</td>
+<td>
+<p>2-metilbutoxi-acetato de alilo</p>
+<p>n° CAS 67634-01-9</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>149</p>
+</td>
+<td>
+<p>Nonanoato de alilo</p>
+<p>n° CAS 7493-72-3</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>150</p>
+</td>
+<td>
+<p>Propionato de alilo</p>
+<p>n° CAS 2408-20-0</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>151</p>
+</td>
+<td>
+<p>Trimetilhexanoato de alilo</p>
+<p>n° CAS 68132-80-9</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>151 bis</p>
+</td>
+<td>
+<p>Allyl phenethyl ether <br>N.º CAS 14289-65-7 <br>N.º CE 238-212-2</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El nivel de alcohol alílico libre en el éter debería ser inferior al 0,1 %.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>152</p>
+</td>
+<td>
+<p>Heptincarbonato de alilo</p>
+<p>n° CAS 73157-43-4</p>
+<p>(Oct-2-inoato de alilo)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,002%</p>
+</td>
+<td>
+<p>Este material no debe utilizarse en combinación con ningún otro éster de un ácido 2‑alquinoico (por ejemplo, heptincarbonato de metilo)</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>153</p>
+</td>
+<td>
+<p>Amilciclopentenona</p>
+<p>n° CAS 25564-22-1</p>
+<p>2-pentilciclopent-2-en-1-ona</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>154</p>
+</td>
+<td>
+<p>Extractos y destilados de Myroxylon balsamum</p>
+<p>var. pereirae</p>
+<p>n° CAS 8007-00-9</p>
+<p>Aceite de bálsamo del Perú, absoluto y extracto etanólico (Aceite de bálsamo del Perú)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,4%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>155</p>
+</td>
+<td>
+<p>4-terc-butildihidrocinamaldehído</p>
+<p>n° CAS 18127-01-0</p>
+<p>3-(4-terc-butilfenil) propionaldehído</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,6%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>156</p>
+</td>
+<td>
+<p>Aceite y extracto del fruto de Cuminum cyminum</p>
+<p>n° CAS 84775-51-9</p>
+</td>
+<td>
+<p>a) Productos que no se aclaran</p>
+<p>b) Productos que se eliminan por aclarado</p>
+</td>
+<td>
+<p>a) 0,4% de aceite de comino</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>157</p>
+</td>
+<td>
+<p>cis-cetona-1 de rosa <sup>(7)</sup></p>
+<p>n° CAS 23726-94-5</p>
+<p>(Z)-1-(2,6,6-trimetil-2-ciclohexen-1-il)-2-buten-1-ona</p>
+<p>(cis-a-damascona)</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b) 0,02%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>158</p>
+</td>
+<td>
+<p>trans-cetona-2 de rosa <sup>(7)</sup></p>
+<p>n°CAS 23726-91-2</p>
+<p>(E)-1-(2,6,6-trimetil-l-ciclohexen-1-il)-2-buten-1-ona</p>
+<p>(trans-β-damascona)</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b) 0,02%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>159</p>
+</td>
+<td>
+<p>trans-cetona-5 de rosa <sup>(7)</sup></p>
+<p>n° CAS 39872-57-6</p>
+<p>(E)-1-(2,4,4-trimetiI-2-ciclohexen-1-i1)-2-buten-1-ona</p>
+<p>(Isodamascona)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,02%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>160</p>
+</td>
+<td>
+<p>Cetona-4 de rosal <sup>(7)</sup></p>
+<p>n° CAS 23696-85-7</p>
+<p>1-(2,6,6-trimetil-1,3-ciclohexadien-1-il)-2-buten-1-ona</p>
+<p>(Damascenona)</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b) 0,02%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>161</p>
+</td>
+<td>
+<p>Cetona-3 de rosa <sup>(7)</sup></p>
+<p>n°CAS 57378-68-4</p>
+<p>1-(2,6,6-trimetil-3-ciclohexen-1-il)-2-buten-1-ona</p>
+<p>(δ-damascona)</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b) 0,02%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>162</p>
+</td>
+<td>
+<p>cis-cetona-2 de rosal <sup>(7)</sup></p>
+<p>n° CAS 23726-92-3 (Z)-1-(2,6,6-trimetil-1-ciclohexen-1-i1)-2-buten-1-ona</p>
+<p>(cis-β-damascona)</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b) 0,02%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>163</p>
+</td>
+<td>
+<p>trans-cetona-1 de rosa <sup>(7)</sup></p>
+<p>n°CAS 24720-09-0</p>
+<p>(E)-1-(2,6,6-trimetil-2-ciclohexen-1-il)-2-buten-1-ona</p>
+<p>(trans-α-damascona)</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b) 0,02%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>164</p>
+</td>
+<td>
+<p>Cetona-5 de rosa <sup>(7)</sup></p>
+<p>n° CAS 33673-71-1</p>
+<p>1 -(2,4,4-trimetiI-2-ciclohexen-1-i I)-2-buten-1-ona</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,02%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>165</p>
+</td>
+<td>
+<p>trans-cetona-3 de rosa <sup>(7)</sup></p>
+<p>n° CAS 71048-82-3</p>
+<p>[1 (E),2]-1-(2,6,6-trimetilciclohex-3-en-1-il)but-2-en-1-ona</p>
+<p>(trans-δ-damascona)</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b) 0,02%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>166</p>
+</td>
+<td>
+<p>trans-hex-2-enal</p>
+<p>n°CAS 6728-26-3</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b) 0,002%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>167</p>
+</td>
+<td>
+<p>I-limoneno</p>
+<p>n° CAS 5989-54-8</p>
+<p>(S)-p-menta-1,8-dieno</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 20 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>168</p>
+</td>
+<td>
+<p>dl-limoneno (racémico)</p>
+<p>n° CAS 138-86-3</p>
+<p>1,8(9)-p-mentadieno; p-menta-1,8-dieno</p>
+<p>(Dipenteno)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Índice de peróxidos inferior a 20 mmol/L <sup>(6)</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>169</p>
+</td>
+<td>
+<p>Perilaldehído</p>
+<p>n°CAS 2111-75-3</p>
+<p>p-menta-1,8-dien-7-al</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b) 0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>170</p>
+</td>
+<td>
+<p>Isobergamato</p>
+<p>n° CAS 68683-20-5</p>
+<p>Formiato de mentadieno-7-metilo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>171</p>
+</td>
+<td>
+<p>Carboxaldehído de metoxidiciclopentadieno</p>
+<p>n° CAS 86803-90-9</p>
+<p>Octahidro-5-metoxi-4,7-metano-1 H-indeno-2‑</p>
+<p>carboxaldehído</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,5%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>172</p>
+</td>
+<td>
+<p>3-metilnon-2-enonitrilo</p>
+<p>n° CAS 53153-66-5</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,2%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>173</p>
+</td>
+<td>
+<p>Octincarbonato de metilo</p>
+<p>n° CAS 111-80-8</p>
+<p>Non-2-inoato de metilo</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b) el 0,002% cuando se utiliza solo.</p>
+<p>Si está combinado con heptincarbonato de metilo, el nivel combinado en el producto terminado no debe sobrepasar el 0,01% (y el octincarbonato de metilo no debe superar el 0,002%)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>174</p>
+</td>
+<td>
+<p>Acetato de amilvinilcarbinilo</p>
+<p>n° CAS 2442-10-6</p>
+<p>Acetato de oct-1-en-3-ilo</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b) 0,3%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>175</p>
+</td>
+<td>
+<p>Propilidenftalida</p>
+<p>n° CAS 17369-59-4</p>
+<p>3-propilidenftalida</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b) 0,01%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>176</p>
+</td>
+<td>
+<p>Isociclogeraniol</p>
+<p>n° CAS 68527-77-5</p>
+<p>2,4,6-trimetilciclohex-3-eno-1-metanol</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,5%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>177</p>
+</td>
+<td>
+<p>2-hexiliden ciclopentanona</p>
+<p>n°CAS 17373-89-6</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b) 0,06%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>178</p>
+</td>
+<td>
+<p>Metilheptadienona</p>
+<p>n° CAS 1604-28-0</p>
+<p>6-metilhepta-3,5-dien-2-ona</p>
+</td>
+<td>
+<p>a) Productos para la higiene bucal</p>
+<p>b) Otros productos</p>
+</td>
+<td>
+<p>b) 0,002%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>179</p>
+</td>
+<td>
+<p>Aldehído p-metilhidrocinámico</p>
+<p>n° CAS 5406-12-2</p>
+<p>Cresilpropionaldehído</p>
+<p>p-metildihidro cinamaldehído</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,2%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>180</p>
+</td>
+<td>
+<p>Aceite balsámico y extracto de Liquidambar orientalis</p>
+<p>n° CAS 94891-27-7</p>
+<p>(Estoraque)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,6%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>181</p>
+</td>
+<td>
+<p>Aceite balsámico y extracto de Liquidambar styraciflua</p>
+<p>n° CAS 8046-19-3</p>
+<p>(Estoraque)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,6%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>182</p>
+</td>
+<td>
+<p>Acetil-hexametil-tetralina</p>
+<p>n° CAS 21145-77-7</p>
+<p>n° CAS 1506-02-1</p>
+<p>1-(5,6,7,8-tetrahidro-3,5,5,6,8,8-hexametil-2-naftil)etan-1-ona</p>
+<p>(AHTN)</p>
+</td>
+<td>
+<p>Todos los productos cosméticos, con excepción de productos para la higiene bucal</p>
+</td>
+<td>
+<p>a) Productos que no se aclaran: 0,1% excepto: productos hidroalcohólicos: 1% fragancia fina: 2,5% crema de fragancia: 0,5%</p>
+<p>b) Productos que se eliminan por aclarado: 0,2%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>183</p>
+</td>
+<td>
+<p>Extracto y aceite de Commiphora erythrea Engler</p>
+<p>var. glabrescens</p>
+<p>n° CAS 93686-00-1</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,6%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>184</p>
+</td>
+<td>
+<p>Resina de Opopanax chironium</p>
+<p>n° CAS 93384-32-8</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,6%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>185</p>
+</td>
+<td>
+<p>Tolueno. <br>N.º CAS 108-88-3. <br>N.º CE 203-625-9.</p>
+</td>
+<td>
+<p>Productos para las uñas.</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Manténgase fuera del alcance de los niños. <br>Solo para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>186</p>
+</td>
+<td>
+<p>Dietilenglicol (DEG). <br>N.º CAS 111-46-6. <br>N.º CE 203-872-2. <br>2,2´-oxidietanol.</p>
+</td>
+<td>
+<p>Trazas en los ingredientes.</p>
+</td>
+<td>
+<p>0,1%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>187</p>
+</td>
+<td>
+<p>Butoxidiglicol. <br>N.º CAS 112-34-5. <br>N.º CE 203-961-6. <br>Éter monobutílico de dietilenglicol (DEGBE).</p>
+</td>
+<td>
+<p>Disolventes en los tintes para el cabello.</p>
+</td>
+<td>
+<p>9%</p>
+</td>
+<td>
+<p>No utilizar en aerosoles (pulverizadores)</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>188</p>
+</td>
+<td>
+<p>Butoxietanol. <br>N.º CAS 111-76-2. <br>N.º CE 203-905-0. <br>Eter monobutílico de etilenglicol (EGBE).</p>
+</td>
+<td>
+<p>Disolvente en los tintes oxidantes para el cabello <br>Disolvente en los tintes no oxidantes para el cabello.</p>
+</td>
+<td>
+<p>4,0% <br>2,0%</p>
+</td>
+<td>
+<p>No utilizar en aerosoles (pulverizadores) <br>No utilizar en aerosoles (pulverizadores)</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>189</p>
+</td>
+<td>
+<p>5-Hidroxi-1-(4-sulfofenil)-4-(4-sulfofenilazo)pirazol-3-carboxilato de trisodio y su laca de aluminio (<sup>8</sup>) <br>Acid Yellow 23 (INCI) <br>CAS 1934-21-0 <br>EINECS 217-699-5 <br>Acid Yellow 23 Aluminum lake (INCI) <br>CAS 12225-21-7 <br>EINECS 235-428-9 <br>CI 19140</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>0,5%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>190</p>
+</td>
+<td>
+<p>Bencenometanaminio, N-etil-N-[4-[[4-[etil[(3-sulfofenil)metil]amino]-fenil](2-sulfofenil)metilen]-2,5-ciclohexadien-1-iliden]-3-sulfo, sal interna, sal disódica y sus sales de amonio y aluminio (<sup>8</sup>) <br>Acid Blue 9 (INCI) <br>CAS 3844-45-9 <br>EINECS 223-339-8 <br>Acid Blue 9 Ammonium salt (INCI) <br>CAS 2650-18-2 <br>EINECS 220-168-0 <br>Acid Blue 9 Aluminum lake (INCI) <br>CAS 68921-42-6 <br>EINECS 272-939-6 <br>CI 42090</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>0,5%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>191</p>
+</td>
+<td>
+<p>6-Hidroxi-5-[(2-metoxi-4-sulfonato-m-tolil)azo]naftaleno-2-sulfonato de disodio (<sup>8</sup>) <br>Curry Red (INCI) <br>CAS 25956-17-6 <br>EINECS 247-368-0 <br>CI 16035</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>0,4%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>192</p>
+</td>
+<td>
+<p>1-(1-Naftilazo)-2-hidroxinaftaleno-4',6,8-trisulfonato de trisodio y su laca de aluminio (<sup>8</sup>) <br>Acid Red 18 (INCI) <br>CAS 2611-82-7 <br>EINECS 220-036-2 <br>Acid Red 18 Aluminum lake (INCI) <br>CAS 12227-64-4 <br>EINECS 235-438-3 <br>CI 16255</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>0,5%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>193</p>
+</td>
+<td>
+<p>Sal sódica de 3,6-Bis(dietilamino)-9-(2,4-disulfonatofenil)-xantilio de hidrógeno (<sup>8</sup>) <br>Acid Red 52 (INCI) <br>CAS 3520-42-1 <br>EINECS 222-529-8 <br>CI 45100</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes. <br> <br> <br> <br>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p><br><br><br><br><br>b) 0,6%.</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,5%.</p>
+</td>
+<td>
+<p>a) La proporción de mezcla se consignará obligatoriamente en la etiqueta.</p>
+<p><img src="https://www.boe.es/datos/imagenes/disp/2010/111/07262_009.png" alt="Imagen: img/disp/2010/111/07262_009.png">Los colorantes del cabello pueden causar reacciones alérgicas graves.</p>
+<p>Lea y siga las instrucciones.</p>
+<p>Este producto no está destinado a utilizarse en personas menores de dieciséis años.</p>
+<p>Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia.</p>
+<p>No utilice el tinte capilar:</p>
+<p>– si tiene una erupción cutánea en el rostro o tiene el cuero cabelludo sensible, irritado o dañado,</p>
+<p>– si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello,</p>
+<p>– si alguna vez ha experimentado una reacción a los tatuajes temporales de "henna negra".</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>194</p>
+</td>
+<td>
+<p>5-Amino-4-hidroxi-3-(fenilazo)-naftaleno-2,7-disulfonato de disodio (<sup>8</sup>) <br>Acid Red 33 (INCI) <br>CAS 3567-66-6 <br>EINECS 222-656-9 <br>CI 17200</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>0,5%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>195</p>
+</td>
+<td>
+<p>2-Sulfonato-1-amino-4-(ciclohexilamino)-9,10-dihidro-9,10-dioxoantraceno de sodio (<sup>8</sup>) <br>Acid Blue 62 (INCI) <br>CAS 4368-56-3 <br>EINECS 224-460-9 <br>CI 62045</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>0,5%</p>
+</td>
+<td>
+<p>No emplear con agentes nitrosantes. <br>Contenido máximo de nitrosaminas: 50 μg/kg. <br>Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>196</p>
+</td>
+<td>
+<p>1-[(2′-Metoxietil)amino]-2-nitro-4-[di-(2′-hidroxietil)amino]benceno (<sup>8</sup>) <br>HC Blue No 11 (INCI) <br>CAS 23920-15-2 <br>EINECS 459-980-7</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>2,0%</p>
+</td>
+<td>
+<p>No emplear con agentes nitrosantes. <br>Contenido máximo de nitrosaminas: 50 μg/kg. <br>Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>197</p>
+</td>
+<td>
+<p>1,5-Di-(β-hidroxietilamino)-2-nitro-4-clorobenceno (<sup>8</sup>) <br>HC Yellow No 10 (INCI) <br>CAS 109023-83-8 <br>EINECS 416-940-3</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>0,1%</p>
+</td>
+<td>
+<p>No emplear con agentes nitrosantes. <br>Contenido máximo de nitrosaminas: 50 μg/kg. <br>Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>198</p>
+</td>
+<td>
+<p>3-Metilamino-4-nitrofenoxietanol (<sup>8</sup>) <br>3-Methylamino-4-nitrophenoxyethanol (INCI) <br>CAS 59820-63-2 <br>EINECS 261-940-7</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>0,15%</p>
+</td>
+<td>
+<p>No emplear con agentes nitrosantes <br>Contenido máximo de nitrosaminas: 50 μg/kg <br>Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>199</p>
+</td>
+<td>
+<p>2,2′-[[4-[(2-hidroxietil)amino]-3-nitrofenil]imino]bisetanol (<sup>8</sup>) <br>HC Blue No 2 (INCI) <br>CAS 33229-34-4 <br>EINECS 251-410-3</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>2,8%</p>
+</td>
+<td>
+<p>No emplear con agentes nitrosantes. <br>Contenido máximo de nitrosaminas: 50 μg/kg. <br>Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>Puede causar una reacción alérgica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>200</p>
+</td>
+<td>
+<p>1-Propanol, 3-[[4-[bis(2-hidroxietil) amino]-2-nitrofenil]amino] (<sup>8</sup>) <br>HC Violet No 2(INCI) <br>CAS 104226-19-9 <br>EINECS 410-910-3</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>2,0%</p>
+</td>
+<td>
+<p>No emplear con agentes nitrosantes. <br>Contenido máximo de nitrosaminas: 50 μg/kg. <br>Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>Puede causar una reacción alérgica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>201</p>
+</td>
+<td>
+<p>2-Chloro-6-ethylamino-4-nitrophenol</p>
+<p>(n.º CAS 131657-78-8)</p>
+<p>(n.º CE 411-440-1)</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes.</p>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 3,0 %</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,5 %.</p>
+<p>Para a) y b):</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 μg/ kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>202</p>
+</td>
+<td>
+<p>4,4′-[1,3-propanodiilbis(oxi)]-bis(benceno-1,3-diamina) y su tetraclorhidrato (<sup>8</sup>) <br>1,3-bis-(2,4-Diaminophenoxy)-propane (INCI) <br>CAS 81892-72-0 <br>EINECS 279-845-4 <br>1,3-bis-(2,4-Diaminophenoxy)-propane HCl (INCI) <br>CAS 74918-21-1 <br>EINECS 278-022-7</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes. <br> <br> <br> <br> <br> <br> <br>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p><br><br><br><br><br><br><br><br>b) 1,2% en base libre (1,8% en sal de tetraclorhidrato).</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,2% calculada en base libre (1,8% en sal de tetraclorhidrato).</p>
+</td>
+<td>
+<p>a) La proporción de mezcla se consignará obligatoriamente en la etiqueta.</p>
+<p><img src="https://www.boe.es/datos/imagenes/disp/2010/111/07262_008.png" alt="Imagen: img/disp/2010/111/07262_008.png">Los colorantes del cabello pueden causar reacciones alérgicas graves.</p>
+<p>Lea y siga las instrucciones.</p>
+<p>Este producto no está destinado a utilizarse en personas menores de dieciséis años.</p>
+<p>Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia.</p>
+<p>No utilice el tinte capilar:</p>
+<p>– si tiene una erupción cutánea en el rostro o tiene el cuero cabelludo sensible, irritado o dañado,</p>
+<p>– si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello,</p>
+<p>– si alguna vez ha experimentado una reacción a los tatuajes temporales de "henna negra".</p>
+<p> </p>
+<p>Para b): Puede causar una reacción alérgica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>203</p>
+</td>
+<td>
+<p>Clorhidrato de 6-metoxi-N2- metil-2,3-piridindiamina y su diclorhidrato (<sup>8</sup>) <br>6-Methoxy-2-methylamino-3- aminopyridine HCl (INCI) <br>CAS 90817-34-8 (HCl) <br>CAS 83732-72-3 (2HCl) <br>EINECS 280-622-9 (2HCl)</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes. <br> <br> <br> <br> <br> <br> <br> <br>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p><br><br><br><br><br><br><br><br><br>b) 0,68% en base libre (1,0% en diclorhidrato).</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 0,68% calculada en base libre (1,0% en diclorhidrato). <br> <br>Para a) y b): <br>No emplear con agentes nitrosantes. <br>Contenido máximo de nitrosaminas: 50 μg/kg. <br>Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>a) La proporción de mezcla se consignará obligatoriamente en la etiqueta.</p>
+<p><img src="https://www.boe.es/datos/imagenes/disp/2010/111/07262_008.png" alt="Imagen: img/disp/2010/111/07262_008.png">Los colorantes del cabello pueden causar reacciones alérgicas graves.</p>
+<p>Lea y siga las instrucciones.</p>
+<p>Este producto no está destinado a utilizarse en personas menores de dieciséis años.</p>
+<p>Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia.</p>
+<p>No utilice el tinte capilar:</p>
+<p>– si tiene una erupción cutánea en el rostro o tiene el cuero cabelludo sensible, irritado o dañado,</p>
+<p>– si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello,</p>
+<p>– si alguna vez ha experimentado una reacción a los tatuajes temporales de "henna negra".</p>
+<p> </p>
+<p>Para b): Puede causar una reacción alérgica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>204</p>
+</td>
+<td>
+<p>2,3-Dihidro-1H-indol-5,6-diol y su bromhidrato (<sup>8</sup>) <br>Dihydroxyindoline (INCI) <br>CAS 29539-03-5 Dihydroxyindoline HBr (INCI) <br>CAS 138937-28-7 <br>EINECS 421-170-6</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p>2,0%</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Puede causar una reacción alérgica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>205</p>
+</td>
+<td>
+<p>4-Hidroxipropilamino-3-nitrofenol (<sup>8</sup>) <br>4-Hydroxypropylamino-3-nitrophenol (INCI) <br>CAS 92952-81-3 <br>EINECS 406-305-9</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes. <br> <br> <br> <br> <br> <br>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p><br><br><br><br><br><br><br>b) 2,6%.</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 2,6% calculada en base libre. <br> <br>Para a) y b): <br>No emplear con agentes nitrosantes. <br>Contenido máximo de nitrosaminas: 50 μg/kg. <br>Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>a) La proporción de mezcla se consignará obligatoriamente en la etiqueta.</p>
+<p><img src="https://www.boe.es/datos/imagenes/disp/2010/111/07262_009.png" alt="Imagen: img/disp/2010/111/07262_009.png">Los colorantes del cabello pueden causar reacciones alérgicas graves.</p>
+<p>Lea y siga las instrucciones.</p>
+<p>Este producto no está destinado a utilizarse en personas menores de dieciséis años.</p>
+<p>Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia.</p>
+<p>No utilice el tinte capilar:</p>
+<p>– si tiene una erupción cutánea en el rostro o tiene el cuero cabelludo sensible, irritado o dañado,</p>
+<p>– si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello,</p>
+<p>– si alguna vez ha experimentado una reacción a los tatuajes temporales de "henna negra".</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>206</p>
+</td>
+<td>
+<p>Absoluto de verbena (Lippia citriodora Kunth.) <br>N.º CAS 8024-12-2</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,2%.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>207</p>
+</td>
+<td>
+<p>Clorhidrato de N<sup>2</sup>-dodecanoil-L-argininato de Etilo. <br>Ethyl Lauroyl Arginate HCl (INCI) <sup>(9)</sup>. <br>N.º CAS: 60372-77-2 <br>N.º CE: 434-630-6</p>
+</td>
+<td>
+<p>a) jabones. <br>b) champús anticaspa. <br>c) desodorantes, no en forma de aerosol (spray).</p>
+</td>
+<td>
+<p>0,8%</p>
+</td>
+<td>
+<p>Con otros fines que no sean la inhibición del crecimiento de microorganismos en el producto. La presentación del producto debe poner en evidencia estos fines.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>208</p>
+</td>
+<td>
+<p>1-(2- Aminoetil)amino- 4-(2-hidroxietil)oxi-2- nitrobenceno y sus sales HC Orange N° 2</p>
+<p>N° CAS 85765-48-6 EINECS 416-410-1</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes</p>
+</td>
+<td>
+<p>1,0%</p>
+</td>
+<td>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo en nitrosaminas 50pg/kg</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>
+<img src="https://www.boe.es/datos/imagenes/disp/2010/184/12210_001.png" alt="Imagen: img/disp/2010/184/12210_001.png">
+</p>
+<p>Los colorantes del cabello pueden causar reacciones alérgicas graves.</p>
+<p>Lea y siga las instrucciones.</p>
+<p>Este producto no esta destinado a utilizarse en personas menores de 16 años.</p>
+<p>Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia.</p>
+<p>No utilice el tinte capilar:</p>
+<p>– si tiene una erupción cutánea en el rostro el cuero cabelludo sensible, irritado o dañado.</p>
+<p>– Si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello.</p>
+<p>– Si alguna vez ha experimentado alguna reacción a los tatuajes temporales de "henna negra"</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>209</p>
+</td>
+<td>
+<p>2-[2-Metoxi-4- nitrofenil)amino]etan ol y sus sales. 2- Hydroxyethylamino- 5-nitroanisole</p>
+<p>N° CAS 66095-81-6 EINECS 266-138-0</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes</p>
+</td>
+<td>
+<p>0,2%</p>
+</td>
+<td>
+<p>– No usar con agentes nitrosantes</p>
+<p>– Contenido máximo en nitrosaminas 50pg/kg</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>215</p>
+</td>
+<td>
+<p>4-Amino-3-nitrophenol</p>
+<p>(n.º CAS 610-81-1)</p>
+<p>(n.º CE 210-236-8)</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes</p>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 1,0 %</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,5 %.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+<p>b) Según se indica en el número de orden 208, columna f.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>216</p>
+</td>
+<td>
+<p>2,7-Naphthalenediol</p>
+<p>(n.º CAS 582-17-2)</p>
+<p>(n.º CE 209-478-7)</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes</p>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 1,0 %</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,0 %.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>217</p>
+</td>
+<td>
+<p>m-Aminophenol</p>
+<p>(n.º CAS 591-27-5)</p>
+<p>(n.º CE 209-711-2) y sus sales</p>
+<p>m-Aminophenol HCl</p>
+<p>(n.º CAS 51-81-0)</p>
+<p>(n.º CE 200-125-2)</p>
+<p>m-Aminophenol sulfate</p>
+<p>(n.º CAS 68239-81-6)</p>
+<p>(n.º CE 269-475-1)</p>
+<p>sodium m-Aminophenol</p>
+<p>(n.º CAS 38171-54-9)</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,2 %.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>218</p>
+</td>
+<td>
+<p>2,6-Dihydroxy-3,4-</p>
+<p>dimethylpyridine</p>
+<p>(n.º CAS 84540-47-6)</p>
+<p>(n.º CE 283-141-2)</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,0 %.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>222</p>
+</td>
+<td>
+<p>2-Hydroxyethyl picramic acid</p>
+<p>(n.º CAS 99610-72-7)</p>
+<p>(n.º CE 412-520-9)</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes</p>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 2,0 %</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,5 %.</p>
+<p>Para a) y b):</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>223</p>
+</td>
+<td>
+<p>p-Methylaminophenol</p>
+<p>(n.º CAS 150-75-4)</p>
+<p>(n.º CE 205-768-2) y su sulfato</p>
+<p>p-Methylaminophenol sulfate</p>
+<p>(n.º CAS 55-55-0/1936-57-8)</p>
+<p>(n.º CE 200‑237-1/217‑706-1)</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 0,68 % (como sulfato).</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>225</p>
+</td>
+<td>
+<p>Etanol, 2-[4-[etil[(2-hidroxietil)amino]-2-nitrofenil]amino]- (n.º CAS 104516-93-0) y su clorhidrato</p>
+<p>HC Blue No 12 (n.º CAS 132885-85-9) (n.º CE 407-020-2)</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes</p>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 1,5 % (como clorhidrato)</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 0,75 % (como clorhidrato).</p>
+<p>Para a) y b):</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>227</p>
+</td>
+<td>
+<p>3-Amino-2,4-dichlorophenol (n.º CAS 61693-42-3)</p>
+<p>(n.º CE 262-909-0) y su clorhidrato</p>
+<p>3-Amino-2,4-dichlorophenol HCl (n.º CAS 61693-43-4)</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes</p>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 1,5 % (como clorhidrato)</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,5 % (como clorhidrato).</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>230</p>
+</td>
+<td>
+<p>Phenyl methyl pyrazolone (n.º CAS 89-25-8) (n.º CE 201-891-0)</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 0,25 %.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>232</p>
+</td>
+<td>
+<p>2-Methyl-5-hydroxyethylaminophenol (n.º CAS 55302-96-0) (n.º CE 259-583-7)</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,5 %.</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>234</p>
+</td>
+<td>
+<p>Hydroxybenzomorpholine (n.º CAS 26021-57-8) (n.º CE 247-415-5)</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,0 %.</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>237</p>
+</td>
+<td>
+<p>2,2'-[(4-Amino-3-nitrofenil)imino]bisetanol (n.º CAS 29705-39-3) y su clorhidrato</p>
+<p>HC Red No 13 (n.º CAS 94158-13-1) (n.º CE 303-083-4)</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes</p>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 2,5 % (como clorhidrato)</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,25 % (como clorhidrato).</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>238</p>
+</td>
+<td>
+<p>2,6-Dimetoxi-3,5-piridindiamina (n.º CAS 85679-78-3 [base libre]) y su clorhidrato</p>
+<p>2,6-Dimethoxy-3,5-pyridinediamine HCl (n.º CAS 56216-28-5) (n.º CE 260-062-1)</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 0,25 % (como clorhidrato).</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>239</p>
+</td>
+<td>
+<p>HC Violet No 1 (n.º CAS 82576-75-8) (n.º CE 417‑600-7)</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes</p>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 0,28 %</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 0,25 %.</p>
+<p>Para a) y b):</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+<p>b) Según se indica en el número de orden 208, columna f.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>241</p>
+</td>
+<td>
+<p>1,5-Naphthalenediol (n.º CAS 83-56-7) (n.º CE 201-487-4)</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes</p>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 1,0 %</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,0 %.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>242</p>
+</td>
+<td>
+<p>Hydroxipropil bis(N-hidroxietil-p-fenilendiamina) (n.º CAS 128729-30-6) y su tetraclorhidrato</p>
+<p>Hydroxypropyl bis(N-hydroxyethyl-p-phenylenediamine) HCl (n.º CAS 128729-28-2) (n.º CE 416-320-2)</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 0,4 % (como tetraclorhidrato).</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>243</p>
+</td>
+<td>
+<p>4-Amino-2-hydroxytoluene (n.º CAS 2835-95-2) (n.º CE 220-618-6)</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,5 %.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>244</p>
+</td>
+<td>
+<p>2,4-Diaminofenoxietanol (n.º CAS 70643-19-5) y sus clorhidrato y sulfato</p>
+<p>2,4-Diaminophenoxyethanol HCl (n.º CAS 66422-95-5) (n.º CE 266-357-1)</p>
+<p>2,4-Diaminophenoxyethanol sulfate (n.º CAS 70643-20-8) (n.º CE 274-713-2)</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 2,0 % (como clorhidrato).</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>245</p>
+</td>
+<td>
+<p>2-Methylresorcinol (n.º CAS 608-25-3) (n.º CE 210-155-8)</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes</p>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 1,8 %</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,8 %.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>246</p>
+</td>
+<td>
+<p>4-Amino-m-cresol (n.º CAS 2835-99-6) (n.º CE 220-621-2)</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,5 %.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>248</p>
+</td>
+<td>
+<p>2-Amino-4-hydroxyethylaminoanisole (n.º CAS 83763-47-7) (n.º CE 280-733-2) y su sulfato</p>
+<p>2-Amino-4-hydroxyethylaminoanisole sulfate (n.º CAS 83763-48-8) (n.º CE 280-734-8)</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,5 % (como sulfato).</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>249</p>
+</td>
+<td>
+<p>Hidroxietil-3,4-metilendioxianilina y su clorhidrato</p>
+<p>Hydroxyethyl-3,4-methylenedioxyaniline HCl (n.º CAS 94158-14-2) (n.º CE 303-085-5)</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 1,5 %.</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>250</p>
+</td>
+<td>
+<p>3-Nitro-p-hydroxyethylaminophenol (n.º CAS 65235-31-6) (n.º CE 265-648-0)</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes</p>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 1,85 %</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 3,0 %.</p>
+<p>Para a) y b):</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+<p>b) Según se indica en el número de orden 208, columna f.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>251</p>
+</td>
+<td>
+<p>4-Nitrophenyl aminoethylurea (n.º CAS 27080-42-8) (n.º CE 410-700-1)</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes</p>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 0,5 %</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 0,25 %.</p>
+<p>Para a) y b):</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>252</p>
+</td>
+<td>
+<p>2-Amino-6-chloro-4-nitrophenol (n.º CAS 6358‑09-4) (n.º CE 228-762-1)</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes</p>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 2,0 %</p>
+</td>
+<td>
+<p>a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 2,0 %.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+<p>b) Según se indica en el número de orden 208, columna f.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>253</p>
+</td>
+<td>
+<p>Sulfato de 2,2´-[(4-aminofenil)imino]bis(etanol).</p>
+<p>N,N-bis(2-hydroxyethyl)-p-phenylenediamine sulfate.</p>
+<p>n.º CAS 54381-16-7.</p>
+<p>n.º CE 259-134-5.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 2,5 % (calculado en sulfato).</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>254</p>
+</td>
+<td>
+<p>1,3-Bencenodiol, 4-cloro-4-Chlororesorcinol.</p>
+<p>n.º CAS 95-88-5.</p>
+<p>n.º CE 202-462-0.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 2,5 %.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>255</p>
+</td>
+<td rowspan="2">
+<p>Sulfato de 2,4,5,6-tetra-aminopirimidina.</p>
+<p>Tetraaminopyrimidine sulfate.</p>
+<p>n.º CAS 5392-28-9.</p>
+<p>n.º CE 226-393-0.</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a) Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder de un 3,4% (calculado en sulfato).</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 3,4 % (calculado en sulfato).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>256</p>
+</td>
+<td>
+<p>Sulfato de 3-(2-hidroxietil)-p-fenilenodiamonio.</p>
+<p>Hydroxyethyl-p-phenylenediamine sulfate.</p>
+<p>n.º CAS 93841-25-9.</p>
+<p>n.º CE 298-995-1.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 2% (calculado en sulfato).</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>257</p>
+</td>
+<td rowspan="2">
+<p>1H-indol-5,6-diol.</p>
+<p>Dihydroxyindole.</p>
+<p>n.º CAS 3131-52-0.</p>
+<p>n.º CE 412-130-9.</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a) Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 0,5 %.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 0,5 %.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Según se indica en el número de orden 208, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>258</p>
+</td>
+<td>
+<p>Clorhidrato de 5-amino-4-cloro-2-metilfenol.</p>
+<p>5-Amino-4-chloro-o-cresol HCl.</p>
+<p>n.º CAS 110102-85-7.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 1,5 % (calculado en clorhidrato).</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>259</p>
+</td>
+<td>
+<p>1H-indol-6-ol.</p>
+<p>6-Hydroxyindole.</p>
+<p>n.º CAS 2380-86-1.</p>
+<p>n.º CE 417-020-4.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 0,5%.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>260</p>
+</td>
+<td>
+<p>1H-indol-2,3-diona.</p>
+<p>Isatin.</p>
+<p>n.º CAS 91-56-5.</p>
+<p>n.º EU 202-077-8.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>1,6 %.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Según se indica en el número de orden 208, columna f, letra b).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>261</p>
+</td>
+<td>
+<p>2-Aminopiridin-3-ol.</p>
+<p>2-Amino-3-hydroxypyridine.</p>
+<p>n.º CAS 16867-03-1.</p>
+<p>n.º CE 240-886-8.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 1,0%.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>262</p>
+</td>
+<td>
+<p>Acetato de 2-metil-1-naftilo.</p>
+<p>1-Acetoxy-2-methylnaphthalene.</p>
+<p>n.º CAS 5697-02-9.</p>
+<p>n.º CE 454-690-7.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 2 % (si la fórmula de un tinte capilar contiene 2-Methyl- 1-naphthol y 1-Acetoxy-2-methylnaphthalene, la concentración máxima aplicada al cabello de 2-Methyl-1-naphthol no debe exceder del 2,0 %).</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>263</p>
+</td>
+<td>
+<p>1-Hidroxi-2-metilnaftaleno.</p>
+<p>2-Methyl-1-naphthol.</p>
+<p>n.º CAS 7469-77-4.</p>
+<p>n.º CE 231-265-2.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 2 % (si la fórmula de un tinte capilar contiene 2-Methyl-1-naphthol y 1-Acetoxy-2-methylnaphthalene, la concentración máxima aplicada al cabello de 2-Methyl-1-naphthol no debe exceder del 2,0 %).</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>264</p>
+</td>
+<td rowspan="2">
+<p>5,7-Dinitro-8-óxido-2-naftalenosulfonato de disodio.</p>
+<p>Acid Yellow 1.</p>
+<p>n.º CAS 846-70-8.</p>
+<p>n.º CE 212-690-2.</p>
+<p>CI 10316.</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a) Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 1,0 %.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 0,2%.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Según se indica en el número de orden 208, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>265</p>
+</td>
+<td>
+<p>4-Nitro-1,2-fenilenodiamina.</p>
+<p>4-Nitro-o-phenylenediamine.</p>
+<p>n.º CAS 99-56-9.</p>
+<p>n.º CE 202-766-3.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 0,5%.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>266</p>
+</td>
+<td>
+<p>2-(4-Amino-3-nitroanilino)etanol.</p>
+<p>HC Red n.º 7.</p>
+<p>n.º CAS 24905-87-1.</p>
+<p>n.º CE 246-521-9.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>1,0 %.</p>
+</td>
+<td>
+<p>No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>Según se indica en el número de orden 208, columna f, letra b).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>267</p>
+</td>
+<td>
+<p>2-[bis(2-Hidroxietil)amino]-5-nitrofenol.</p>
+<p>HC Yellow n.º 4.</p>
+<p>n.º CAS 59820-43-8.</p>
+<p>n.º CE 428-840-7.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>1,5 %.</p>
+</td>
+<td>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>268</p>
+</td>
+<td rowspan="2">
+<p>2-[(2-Nitrofenil)amino]etanol.</p>
+<p>HC Yellow n.º 2.</p>
+<p>n.º CAS 4926-55-0.</p>
+<p>n.º CE 225-555-8.</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td rowspan="2">
+<p>a) Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 0,75 %.</p>
+<p>Para a) y b):</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 1,0 %.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>269</p>
+</td>
+<td>
+<p>4-[(2-Nitrofenil)amino]fenol.</p>
+<p>HC Orange nº. 1.</p>
+<p>no CAS 54381-08-7.</p>
+<p>no CE 259-132-4.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>1,0 %.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>270</p>
+</td>
+<td>
+<p>2-Nitro-N1-fenil-benceno-1,4-diamina.</p>
+<p>HC Red n.º 1.</p>
+<p>n.º CAS 2784-89-6.</p>
+<p>n.º CE 220-494-3.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>1,0 %.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Según se indica en el número de orden 208, columna f, letra b).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>271</p>
+</td>
+<td>
+<p>Clorhidrato de 1-metoxi-3-(β-aminoetil)amino-4-nitrobenceno.</p>
+<p>HC Yellow n.º 9.</p>
+<p>n.º CAS 86419-69-4.</p>
+<p>n.º CE 415-480-1.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>0,5% (calculado en clorhidrato).</p>
+</td>
+<td>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>272</p>
+</td>
+<td>
+<p>1-(4'-Aminofenilazo)-2-metil-4-(bis-2-hidroxietil) aminobenceno.</p>
+<p>HC Yellow n.º 7.</p>
+<p>n.º CAS 104226-21-3.</p>
+<p>n.º CE 146-420-6.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>0,25 %.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>273</p>
+</td>
+<td rowspan="2">
+<p>N-(2-Hidroxietil)-2-nitro-4-trifluorometil-anilina.</p>
+<p>HC Yellow n.º 13.</p>
+<p>n.º CAS 10442-83-8.</p>
+<p>n.º CE 443-760-2.</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td rowspan="2">
+<p>a) Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 2,5 %.</p>
+<p>Para a) y b):</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>b) Sustancia para tintes capilares no oxidantes</p>
+</td>
+<td>
+<p>b) 2,5 %.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>274</p>
+</td>
+<td>
+<p>Cloruro de bencenaminio, 3-[(4,5-dihidro-3-metil-5-oxo-1-fenil-1H-pirazol-4-il)azo]-N,N,N-trimetil-,</p>
+<p>Basic Yellow 57.</p>
+<p>n.º CAS 68391-31-1.</p>
+<p>n.º CE 269-943-5.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>2,0 %.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>275</p>
+</td>
+<td>
+<p>Etanol, 2,2'-[[4-[(4-aminofenil)azo]fenil]imino]bis-</p>
+<p>Disperse Black 9.</p>
+<p>n.º CAS 20721-50-0.</p>
+<p>n.º CE 243-987-5.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>0,3 % (de una mezcla, en una proporción 1:1, de 2,2'-[4-(4-aminofenilazo) fenilimino] dietanol y lignosulfato).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>276</p>
+</td>
+<td>
+<p>9,10-Antracenodiona, 1,4-bis[(2,3-dihidroxipropil)amino]-</p>
+<p>HC Blue n.º 14.</p>
+<p>n.º CAS 99788-75-7.</p>
+<p>n.º CE 421-470-7.</p>
+</td>
+<td>
+<p>Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>0,3 %.</p>
+</td>
+<td>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>277</p>
+</td>
+<td>
+<p>2-(4-Metil-2-nitroanilino)etanol.</p>
+<p>Hydroxyethyl-2-nitro-p-toluidine.</p>
+<p>n.º CAS 100418-33-5.</p>
+<p>n.º CE 408-090-7.</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes.</p>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 1,0 %.</p>
+</td>
+<td>
+<p>a) Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 1,0 %.</p>
+<p>Para a) y b):</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>278</p>
+</td>
+<td>
+<p>1-Amino-2-nitro-4-(2',3'-dihidroxipropil)amino-5-clorobenceno + 1,4-bis-(2',3'-dihidroxipropil)amino-2-nitro-5-clorobenceno.</p>
+<p>HC Red n.º 10 + HC Red n.º 11.</p>
+<p>n.º CAS 95576-89-9 + 95576-92-4.</p>
+</td>
+<td>
+<p>a) Sustancia para tintes capilares oxidantes.</p>
+<p>b) Sustancia para tintes capilares no oxidantes.</p>
+</td>
+<td>
+<p>b) 2,0 %.</p>
+</td>
+<td>
+<p>a) Una vez mezclada en condiciones oxidantes, la concentración máxima aplicada al cabello no debe exceder del 1,0 %.</p>
+<p>Para a) y b):</p>
+<p>– No usar con agentes nitrosantes.</p>
+<p>– Contenido máximo de nitrosaminas: 50 µg/kg.</p>
+<p>– Conservar en recipientes que no contengan nitritos.</p>
+</td>
+<td>
+<p>a) Según se indica en el número de orden 205, columna f, letra a).</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+\* Esta sustancia podrá emplearse por separado o mezclada en cantidades tales que la suma de las proporciones de los contenidos del producto cosmético en cada una de estas sustancias respecto al contenido máximo autorizado respecto a cada una de ellas no exceda de 2.
+
+<sup>(1)</sup> Estas sustancias pueden ser utilizadas solas o mezclas entre ellas en cantidad tal que la suma de los «cocientes relativos» de cada una de las sustancias no sobrepase la unidad.
+
+Se denomina «cociente relativo» a la relación entre la concentración de una sustancia y la concentración máxima permitida para esa sustancia.
+
+<sup>(2)</sup> Únicamente si la concentración es superior al 0,05%.
+
+<sup>(3)</sup>
+
+<sup>(4)</sup> La cantidad de hidróxido de potasio, sodio o litio se expresa en peso de hidróxido de sodio. En caso de mezclas, la suma no debería sobrepasar los límites establecidos en la columna d).
+
+<sup>(5)</sup> Como conservante, veáse el anexo VI, primera parte, número 34.
+
+<sup>(6)</sup> Este límite se aplica a la sustancia y no al producto terminado.
+
+<sup>(7)</sup> La suma de estas sustancias utilizadas juntas no debe exceder los límites indicados en la columna d.
+
+<sup>(8)</sup> Salvo que se prohíba en el anexo II, está autorizado el uso de la base libre y las sales de este ingrediente de tinte capilar.
+
+<sup>(9)</sup> Para su uso como conservante, véase el anexo VI, primera parte, n.º 58.
+
+<sup>(10)</sup> La mención a odontólogos incluye también a médicos especialistas estomatólogos a tenor de lo establecido en el artículo 6.2 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias.
+
+> Se añaden los números 253 a 278 y se modifica el 16 y 22 por el art. único.2 de la Orden SSI/771/2013, de 6 de mayo. [Ref. BOE-A-2013-4799](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4799).
+
+> Se modifica el número 12 por el art. único de la Orden SSI/2260/2012, de 16 de octubre. [Ref. BOE-A-2012-13170](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-13170).
+
+> Se añaden los números 215 a 218, 222, 223, 225, 227, 230, 232, 234, 237 a 239, 241 a 246, 248 a 252 y se modifica el 201 por el art. único.2.a) de la Orden SPI/3375/2011, de 1 de diciembre. [Ref. BOE-A-2011-19364](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19364).
+
+> Se añaden los números 151 bis, 206 a 209 y se modifica el 130 por el art. único. de la Orden SAS/2061/2010, de 23 de julio. [Ref. BOE-A-2010-12210](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12210)., Orden SAS/2062/2010, de 23 de julio. [Ref. BOE-A-2010-12211](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12211). y Orden SAS/2063/2010, de 23 de julio. [Ref. BOE-A-2010-12212](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12212).
+
+> Se modifica por el art. único.1 de la Orden SAS/1166/2010, de 30 de abril. [Ref. BOE-A-2010-7262](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7262).
+
+> Redactado conforme a la corrección de errores publicado en BOE núm. 138, de 7 de junio de 2010. [Ref. BOE-A-2010-9028](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9028).
+
+> Se modifican los números 8, 9, 14, 26 a 43, 47 y 56 y se añaden el 8 bis y 9 bis por el art. único de la Orden SAS/642/2010, de 9 de marzo. [Ref. BOE-A-2010-4401](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4401).
+
+> Se añaden los números 189 a 205 por el art. único.1 de la Orden SAS/3292/2009, de 27 de noviembre. [Ref. BOE-A-2009-19769](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19769).
+
+> Se añaden los números 185 a 188 por el art. único.2 de la Orden SAS/1868/2009, de 8 de julio. [Ref. BOE-A-2009-11601](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-11601).
+
+> Se suprime el número 10 y lo indicado del 14 por el art. 1.2.a) y b) de la Orden SCO/322/2009, de 13 de febrero. [Ref. BOE-A-2009-2802](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2802).
+
+> Se añade el número 102 y con efectos de 4 de abril de 2009 del 103 al 184, se suprime el 68 y se modifican el 45, 72, 73, 88 y 89 por el art. único.2 de la Orden SCO/2242/2008, de 22 de julio. [Ref. BOE-A-2008-13037](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-13037).
+
+> Se modifican los números 8, 9, 26 a 43, 47 y 56 por el art. único.2 de la Orden SCO/719/2008, de 7 de marzo. [Ref. BOE-A-2008-5161](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-5161).
+
+> Se añaden los números 98 a 101 por el art. 1.1 de la Orden SCO/3089/2007, de 19 de octubre. [Ref. BOE-A-2007-18584](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18584).
+
+> Se modifican los números 1a y 8 y se suprime el 19, por el art. 1.2 de la Orden SCO/1730/2006, de 24 de mayo. [Ref. BOE-A-2006-9894](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9894).
+
+> Se suprime el número 55 por el apartado 1.2 de la Orden SCO/544/2005, de 8 de marzo. [Ref. BOE-A-2005-3946](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3946).
+
+> Se añade los números 67 a 92 por el art. único.20 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+> Se añaden los números 96 y 97 por el apartado 1.a) de la Orden SCO/3664/2004, de 11 de noviembre. [Ref. BOE-A-2004-19241](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-19241).
+
+> Redactado conforme a las correcciones de errores publicadas en BOE núms. 312, de 28 de diciembre de 2004. [Ref. BOE-A-2004-21695](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-21695). y 149, de 23 de juno de 2005. [Ref. BOE-A-2005-10627](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10627).
+
+> Se modifican los números 14, 61, 62 y 63 y se añaden el 93, 94 y 95 por el apartado 1.2 de la Orden SCO/2592/2004, de 21 de julio. [Ref. BOE-A-2004-14315](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-14315).
+
+> Se modifican los números 8, 15b, 15c y 16 y se añade el 66 por el apartado 1.2 de la Orden SCO/249/2003, de 5 de febrero. [Ref. BOE-A-2003-3007](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3007).
+
+> Se modican los números 1, 14 y 65 por el apartado 1.2 de la Orden de 3 de agosto de 2000. [Ref. BOE-A-2000-15557](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-15557).
+
+> Se modifica el número 57 por el apartado 1.2 de la Orden de 26 de abril de 1999. [Ref. BOE-A-1999-10150](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-10150).
+
+## ANEXO III. Segunda Parte — Lista de sustancias admitidas provisionalmente
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Número de orden</p>
+</td>
+<td rowspan="2">
+<p>Sustancias</p>
+</td>
+<td colspan="3">
+<p>Restricciones</p>
+</td>
+<td rowspan="2">
+<p>Condiciones de empleo y advertencias que deben figurar obligatoriamente en el etiquetado</p>
+</td>
+<td rowspan="2">
+<p>Admitido hasta</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Campo</p>
+<p>de aplicación</p>
+<p>y/o uso</p>
+</td>
+<td>
+<p>Concentración máxima autorizada en producto terminado</p>
+</td>
+<td>
+<p>Otras limitaciones</p>
+<p>y exigencias</p>
+</td>
+</tr>
+<tr>
+<th>
+<p>a</p>
+</th>
+<th>
+<p>b</p>
+</th>
+<th>
+<p>c</p>
+</th>
+<th>
+<p>d</p>
+</th>
+<th>
+<p>e</p>
+</th>
+<th>
+<p>f</p>
+</th>
+<th>
+<p>g</p>
+</th>
+</tr>
+<tr>
+<td></td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se suprimen los números 10 y 50 por el art. único.3 de la Orden SSI/771/2013, de 6 de mayo. [Ref. BOE-A-2013-4799](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4799).
+
+> Se suprimen los números 3 a 6, 11, 12, 16, 19 a 22, 25, 27, 31 a 39, 44, 48, 49, 55 y 56 y se modifica la columna g) del 10 y 50 por el art. único.2.b) de la Orden SPI/3375/2011, de 1 de diciembre. [Ref. BOE-A-2011-19364](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19364).
+
+> Se suprimen los números 26 y 29 por el art. único.2 de la Orden SAS/2061/2010, de 23 de julio. [Ref. BOE-A-2010-12210](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12210).
+
+> Se modifica por el art. único.2 de la Orden SAS/1166/2010, de 30 de abril. [Ref. BOE-A-2010-7262](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7262).
+
+> Se modifica la columna g) de los números 3 a 56 por el art. único de la Orden SAS/3292/2009, de 27 de noviembre. [Ref. BOE-A-2010-2798](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-2798).
+
+> Se suprimen los números 7, 9, 14, 18, 24, 28, 47 y 58 y se modifica el 55 por el art. único.2 de la Orden SAS/3292/2009, de 27 de noviembre. [Ref. BOE-A-2009-19769](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19769).
+
+> Se suprimen los números 57, 59 y 60 por el art. 1.2.c) de la Orden SCO/322/2009, de 13 de febrero. [Ref. BOE-A-2009-2802](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2802).
+
+> Se modifica por el art. único.3 de la Orden SCO/719/2008, de 7 de marzo. [Ref. BOE-A-2008-5161](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-5161).
+
+> Se suprimen los números 17, 23, 40 y 42 y se modifica la columna g) de los restantes 1 al 60 por el art. 1.2 de la Orden SCO/3283/2006, de 19 de octubre. [Ref. BOE-A-2006-18636](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-18636).
+
+> Se modifica la columna g) de los números 1 a 60 por el art. 1.2 de la Orden SCO/747/2006, de 9 de marzo. [Ref. BOE-A-2006-4879](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-4879).
+
+> Se modifica la columna g) de los números 1 a 60 y se suprimen los números 61 y 62 por el apartado 1.b) de la Orden SCO/3664/2004, de 11 de noviembre. [Ref. BOE-A-2004-19241](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-19241).
+
+> Se modifican los números 61 y 62 por el apartado 1.2 de la Orden SCO/1448/2003, de 23 de mayo. [Ref. BOE-A-2003-11267](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-11267).
+
+> Se añaden los números 1 a 62 por el apartado 1.3 de la Orden SCO/249/2003, de 5 de febrero.[Ref. BOE-A-2003-3007](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3007).
+
+> Redactado conforme a las correcciones de erratas y errores publicadas en BOE núms. 73, de 26 de marzo de 2003. [Ref. BOE-A-2003-6049](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6049)., 236, de 2 de octubre de 2003. [Ref. BOE-A-2003-18260](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-18260). y 42, de 18 de febrero de 2004. [Ref. BOE-A-2004-2975](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2975).
+
+## ANEXO IV. Primera Parte — Lista de colorantes que pueden contener los productos cosméticos<sup>(1)</sup>
+
+CAMPO DE APLICACIÓN
+
+Columna 1: Colorantes admitidos en todos los productos cosméticos.
+
+Columna 2: Colorantes admitidos en todos los productos cosméticos excepto en los que se aplican cerca de los ojos, y más concretamente en los productos de maquillaje y desmaquillaje de los ojos.
+
+Columna 3: Colorantes admitidos únicamente en los productos cosméticos que no se destinen a ponerse en contacto con las mucosas.
+
+Columna 4: Colorantes admitidos únicamente en los productos cosméticos destinados a ponerse en contacto brevemente con la piel.
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Número del colour index</p>
+<p>o denominación</p>
+</td>
+<td rowspan="2">
+<p>Coloración</p>
+</td>
+<td colspan="4">
+<p>Campo de aplicación</p>
+</td>
+<td rowspan="2">
+<p>Otras limitaciones y exigencias</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.006</p>
+</td>
+<td>
+<p>verde</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.020</p>
+</td>
+<td>
+<p>verde</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.316 <sup>(3)</sup></p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11.680</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11.710</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11.725</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11.920</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12.010</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12.085 <sup>(3)</sup></p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3% máximo en producto terminado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12.120</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12.370</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12.420</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12.480</p>
+</td>
+<td>
+<p>marrón</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12.490</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12.700</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13.015</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 105</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.270</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 103</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.700</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.720</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 122</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.815</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 125</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15.510 <sup>(3)</sup></p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15.525</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15.580</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15.620</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15.630 <sup>(3)</sup></p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3% máximo en producto terminado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15.800</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15.850 <sup>(3)</sup></p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15.865 <sup>(3)</sup></p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15.880</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15.980</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 111</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15.985 <sup>(3)</sup></p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 110</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16.035</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16.185</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 123</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16.230</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16.255 <sup>(3)</sup></p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 124</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16.290</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 126</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17.200 <sup>(3)</sup></p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18.050</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18.130</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18.690</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18.736</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18.820</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18.965</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>19.140 <sup>(3)</sup></p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 102</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20.040</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>Contenido máximo de 5 ppm en 3,3 –dimetilbencidina en el colorante.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20.470</p>
+</td>
+<td>
+<p>negro</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>21.100</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>Contenido máximo de 5 ppm en 3-3 dimetilbencidina en el colorante.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>21.108</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>Contenido máximo de 5 ppm en 3.3-dicloro bencidina en el colorante.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>21.230</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24.790</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>26.100</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Criterio de pureza:</p>
+<p>Anilina ⩽ 0,2%</p>
+<p>2-naftol ⩽ 0,2%</p>
+<p>4-aminoazobenceno ⩽ 0,1%</p>
+<p>1-(felinazo-2-2naftol ⩽ 3%</p>
+<p>1-[(2-fenilazo) fenil)azo]-2-naftalenol ⩽ 2%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>27.755</p>
+</td>
+<td>
+<p>negro</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 152</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>28.440</p>
+</td>
+<td>
+<p>negro</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 151</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>40.215</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>40.800</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>40.820</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>40.825</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>40.850</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>42.045</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>42.051 <sup>(3)</sup></p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 131</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>42.053</p>
+</td>
+<td>
+<p>verde</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>42.080</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>42.090</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>42.100</p>
+</td>
+<td>
+<p>verde</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>42.170</p>
+</td>
+<td>
+<p>verde</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>42.510</p>
+</td>
+<td>
+<p>violeta</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>42.520</p>
+</td>
+<td>
+<p>violeta</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>5 ppm máximo en el producto terminado</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>42.735</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>44.045</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>44.090</p>
+</td>
+<td>
+<p>verde</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 142</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45.100</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45.190</p>
+</td>
+<td>
+<p>violeta</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45.220</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45.350</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6% máximo en producto terminado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45.370 <sup>(3)</sup></p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Contenido máximo de 1% en fluoresceína y del 2% en monobromofluoresceína.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45.380 <sup>(3)</sup></p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45.396</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Cuando se emplea para los labios, el colorante se admite únicamente en forma de ácido libre con una concetración máxima de 1%.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45.405</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Contenido máximo del 1% en fluoresceína y del 2% en monobromofluoresceína.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45.410 <sup>(3)</sup></p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Ídem.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45.430 <sup>(3)</sup></p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 127 Ídem.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>47.000</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>47.005</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 104</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.325</p>
+</td>
+<td>
+<p>violeta</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.420</p>
+</td>
+<td>
+<p>negro</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>51.319</p>
+</td>
+<td>
+<p>violeta</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>58.000</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>59.040</p>
+</td>
+<td>
+<p>verde</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60.724</p>
+</td>
+<td>
+<p>violeta</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60.725</p>
+</td>
+<td>
+<p>violeta</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60.730</p>
+</td>
+<td>
+<p>violeta</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>61.565</p>
+</td>
+<td>
+<p>verde</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>61.570</p>
+</td>
+<td>
+<p>verde</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>61.585</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>62.045</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>69.800</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 130</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>69.825</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>71.105</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>73.000</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>73.015</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 132</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>73.360</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>73.385</p>
+</td>
+<td>
+<p>violeta</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>73.900</p>
+</td>
+<td>
+<p>violeta</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>73.915</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>74.100</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>74.160</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>74.180</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>74.260</p>
+</td>
+<td>
+<p>verde</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>75.100</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>75.120</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 160 b</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>75.125</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 160 d</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>75.130</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 160 a</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>75.135</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 161 d</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>75.170</p>
+</td>
+<td>
+<p>blanco</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>75.300</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>75.470</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 120</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>75.810</p>
+</td>
+<td>
+<p>verde</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 140 y E 141</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.000</p>
+</td>
+<td>
+<p>blanco</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 173</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.002</p>
+</td>
+<td>
+<p>blanco</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.004</p>
+</td>
+<td>
+<p>blanco</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.007</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.015</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.120</p>
+</td>
+<td>
+<p>blanco</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.163</p>
+</td>
+<td>
+<p>blanco</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.220</p>
+</td>
+<td>
+<p>blanco</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 170</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.231</p>
+</td>
+<td>
+<p>blanco</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.266</p>
+</td>
+<td>
+<p>negro</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.267</p>
+</td>
+<td>
+<p>negro</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.268:1</p>
+</td>
+<td>
+<p>negro</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 153</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.288</p>
+</td>
+<td>
+<p>verde</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Exento de ión cromato.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.289</p>
+</td>
+<td>
+<p>verde</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Exento de ión cromato.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.346</p>
+</td>
+<td>
+<p>verde</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.400</p>
+</td>
+<td>
+<p>marrón</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.480</p>
+</td>
+<td>
+<p>marrón</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 175</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.489</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 172</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.491</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 172</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.492</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 172</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.499</p>
+</td>
+<td>
+<p>negro</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 172</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.510</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Exento de ión cianuro.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.713</p>
+</td>
+<td>
+<p>blanco</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.427</p>
+</td>
+<td>
+<p>violeta</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.745</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.820</p>
+</td>
+<td>
+<p>blanco</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 174</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.891</p>
+</td>
+<td>
+<p>blanco</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 171</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77.947</p>
+</td>
+<td>
+<p>blanco</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lactoflavina</p>
+</td>
+<td>
+<p>amarillo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 101</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Caramelo</p>
+</td>
+<td>
+<p>marrón</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 150</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Capsanteína, capsorubina</p>
+</td>
+<td>
+<p>naranja</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 160 C</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rojo de remolacha, betanina</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 162</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Autocianos</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>E 163</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Estearatos de aluminio de cinc, de magnesio y de calcio</p>
+</td>
+<td>
+<p>blanco</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Azul de bromotilmol</p>
+</td>
+<td>
+<p>azul</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Verde de bromocresol</p>
+</td>
+<td>
+<p>verde</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rojo ácido 195</p>
+</td>
+<td>
+<p>rojo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1) Se admiten igualmente las lacas o sales de estos colorantes que contengan sustancias cuyo empleo no está prohibido en el Anexo II.
+
+(2) Los colorantes, cuyo número va acompañado de la letra E, de acuerdo con las disposiciones de la directiva de la CEE de 1.962, relativas a los aditivos alimentarios y a colorantes, deben cumplir las condiciones de pureza allí establecidas. Dichos colorantes siguen estando sometidos a los criterios generales del anexo II de la Directiva de 1962 a los colorantes aún cuando el número E haya sido suprimido de tal Directiva.
+
+(3) Las lacas, pigmentos o sales de Bario, Estroncio y Zirconio, insolubles, de estos colorantes están igualmente admitidas. Deben cumplir el test de insolubilidad previsto en el artículo 8 de la Directiva de la CEE de 1.962 relativa a los aditivos alimentarios y colorantes.
+
+> Se modifica por el art. 1.2 de la Orden SCO/3089/2007, de 19 de octubre. [Ref. BOE-A-2007-18584](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18584).
+
+> Se modifica por el art. 1.3 de la Orden SCO/747/2006, de 9 de marzo. [Ref. BOE-A-2006-4879](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-4879).
+
+## ANEXO IV. Segunda Parte — Lista de colorantes admitidos provisionalmente que pueden contener los productos cosméticos<sup>(1)</sup>
+
+CAMPO DE APLICACIÓN
+
+Columna 1: Colorantes admitidos en todos los productos cosméticos.
+
+Columna 2: Colorantes admitidos en todos los productos cosméticos, excepto en los que se aplican cerca de los ojos, y más concretamente en los productos de maquillaje y desmaquillaje de los ojos.
+
+Columna 3: Colorantes admitidos únicamente en los productos cosméticos que no se destinen a ponerse en contacto con las mucosas.
+
+Columna 4: Colorantes admitidos únicamente en los productos cosméticos destinados a ponerse en contacto brevemente con la piel.
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Número del colour index</p>
+<p>o denominación</p>
+</td>
+<td rowspan="2">
+<p>Coloración</p>
+</td>
+<td colspan="4">
+<p>Campo de aplicación</p>
+</td>
+<td rowspan="2">
+<p>Otras limitaciones y exigencias</p>
+</td>
+<td rowspan="2">
+<p>Admitido hasta</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1) Se admiten igualmente las lacas o sales de estos colorantes que contengan sustancias cuyo empleo no está prohibido en el Anexo II.
+
+(2) Los colorantes, cuyo número va acompañado de la letra E, de acuerdo con las disposiciones de la directiva de la CEE de 1962, relativas a los aditivos alimentarios y a colorantes, deben cumplir las condiciones de pureza allí establecidas. Dichos colorantes siguen estando sometidos a los criterios generales del Anexo III de la Directiva de 1962 relativa a los colorantes aun cuando el número E haya sido suprimido de tal Directiva.
+
+## ANEXO V — Lista indicativa de productos cosméticos decorativos
+
+Maquillaje de labios.
+
+Sombra de párpados.
+
+Colorete.
+
+Lápiz de ojos.
+
+Maquillaje fluido.
+
+Maquillaje en polvo.
+
+Máscara de pestañas.
+
+Esmalte de uñas.
+
+## ANEXO VI — Lista de agentes conservadores que pueden contener los productos cosméticos
+
+## PREÁMBULO
+
+1\. Se entiende por agentes conservadores las sustancias que se añaden como ingredientes a los productos cosméticos principalmente para inhibir el desarrollo de microorganismos en estos productos.
+
+2\. En concentraciones distintas a las previstas en este anexo, las sustancias provistas del símbolo (+) pueden ser añadidas igualmente a los productos cosméticos con otros fines específicos derivados de la presentación del producto, por ejemplo como desodorante en los jabones, o agentes anticaspa en los champús.
+
+3\. Otras sustancias empleadas en la formulación de los productos cosméticos pueden poseer, además, propiedades antimicrobianas y pueden de esta manera contribuir a la conservación de los productos, como por ejemplo numerosos aceites esenciales y algunos alcoholes. Estas sustancias no figuran en este anexo.
+
+4\. En la presente lista se entiende por:
+
+Sales: las sales de cationes sodio, potasio, calcio, magnesio, amonio y etano laminas; de aniones cloruro, bromuro, sulfato, y acetato.
+
+Esteres: los ésteres de metilo, etilo, propilo, iso-propilo, butilo, isobutilo y fenilo.
+
+5\. En todos los productos terminados que contienen formaldehído o sustancias de este anexo que liberen formaldehído, deben figurar obligatoriamente en el material de condicionamiento la mención «contiene formaldehído», siempre que la concentración de formaldehído en el producto terminado sobrepase 0,05%.
+
+## PRIMERA PARTE
+
+LISTA DE AGENTES CONSERVADORES ADMITIDOS
+
+| Número de orden | Sustancias | Concentración máxima autorizada | Límites y exigencias | Condiciones de empleo y advertencias que deben figurar obligatoriamente en el etiquetado |
+|---|---|---|---|---|
+| a | b | c | d | e |
+| 1 | Ácido benzoico (número CAS 65-85-0) y su sal de sodio (número CAS 532-32-1) | Productos que se aclaran, excepto los productos para la higiene bucal: 2,5% (ácido).<br>Productos para la higiene bucal: 1,7% (ácido).<br>Productos que no se aclaran: 0,5% (ácido). |  |  |
+| 1 bis | Sales del ácido benzoico distintas de las incluidas en el número de orden 1 y ésteres del ácido benzoico. | 0,5% (ácido) |  |  |
+| 2 | ÁCIDO PROPIÓNICO Y SUS SALES | 2% (ácido) |  |  |
+| 3 | ÁCIDO SALICÍLICO Y SUS SALES (+) | 0,5% (ácido) | No utilizar en preparaciones destinadas a niños menores de 3 años, con excepción de los champús. | No emplear para cuidados de niños menores de 3 años. <sup>(1)</sup> |
+| 4 | ÁCIDO SÓRBIDO Y SUS SALES | 0,60% (ácido) |  |  |
+| 5 | FORMALDEHÍDO Y PARAFORMALDEHÍDO (+) | – 0,2% % (excepto para cuidados bucales).<br>– 0,1% (para cuidados bucales).<br>Concentraciones expresadas en formaldehído libre | Prohibido en aerosoles (sprays). |  |
+| 7 | O-FENILFENOL Y SUS SALES | 0,2% expresado en fenol. |  |  |
+| 8 | Piritionato de zinc (+) (número CAS 13463-41-7) | Productos para el cabello: 1,0%<br>Otros productos: 0,5% | Sólo productos que se aclaran.<br>No utilizar en productos para la higiene bucal. |  |
+| 9 | SULFITOS Y BISULFITOS INORGÁNICOS (+) | 0,2% (expresado en SO<sub>2</sub> libre) |  |  |
+| 10<br>**(Suprimido)** |  |  |  |  |
+| 11 | 1,1,1-TRICLORO-2,2- METILPROPANOL (2- CLOROBUTANOL) | 0,5% | Prohibido en aerosoles (sprays). | Contiene clorobutanol |
+| 12 | ÁCIDO P‑ HIDROXIBENZOICO, SUS SALES Y ÉSTERES. | – 0,4% % (ácido) para un éster.<br>– 0,8% % (ácido) para mezclas de ésteres |  |  |
+| 13 | ÁCIDO DEHIDROACÉTICO Y SUS SALES | 0,6% (ácido). | Prohibido en aerosoles (sprays). |  |
+| 14 | ÁCIDO FÓRMICO Y SU SAL DE SODIO | 0,5% (expresado en ácido) |  |  |
+| 15 | 1,6-DI-N-(AMIDINO-2- BROMOFENOXI) HEXANO. (DIBROMOHEXAMIDINA) Y SUS SALES (COMPRENDIDO EL ISETIONATO) | 0,1% |  |  |
+| 16 | TIOSALICILATO DE ETILMERCURIO SÓDICO (TIOMERSAL) | 0,007%(en Hg).<br>En caso de mezcla con otras sales de mercurio autorizadas en esta Reglamentación, la concentración máxima de Hg permanece fijada en 0,007%. | Únicamente para productos de maquillaje y desmaquillaje de ojos. | Contiene tiosalicilato de etilmercurio sódico |
+| 17 | FENILMERCURIO Y SUS SALES (COMPRENDIDO EL BORATO) | 0,007% (en Hg).<br>En caso de mezcla con otras sales de mercurio autorizadas en esta Reglamentación, la concentración máxima de Hg permanece fijada en 0,007%. | Únicamente para productos de maquillaje y desmaquillaje de ojos. | Contiene compuestos fenilmercúricos |
+| 18 | ÁCIDO UNDECILÉNICO Y SUS SALES | 0,2% (ácido) |  |  |
+| 19 | 5-AMINO-1,3-BIS-(2- ETIL-HEXIL)-5-METIL‑ PERHI‑ DROPIRIMIDINA (HEXETIDINA) | 0,1% |  |  |
+| 20 | 5-BROMO-5-NITRO-1,3 DIOXANO | 0,1% | – Únicamente te para productos aclarados.<br>– Evitar la formación de nitrosaminas. |  |
+| 21 | 2-BROMO-2-NITRO-1,3 PROPANODIOL (BRONOPOL) | 0,1% | Evitar la formación de nitrosaminas. |  |
+| 22 | ALCOHOL 2,4- DICLOROBENCÍLICO | 0,15%. |  |  |
+| 23 | 3,4,4’‑ TRICLOROCARBANILI DA(+)(TRICLOCARBAN) | 0,2% | Criterios de pureza:<br>3-3’-4-4’-Tetracloroazobenceno benceno < ppm 3-3’-4-4’- Tetracloroazoxibenceno<1ppm. |  |
+| 24 | PARACLOROMETACRESOL | 0,2% | Prohibido en productos destinados a ponerse en contacto con mucosas. |  |
+| 25 | 2,4,4’-TRICLORO-2’- HIDROXIDIFENILETER. (TRICLOSÁN) | 0,3% |  |  |
+| 26 | PARACLOROMETAXILENOL | 0,5% |  |  |
+| 27 | IMIDAZOLIDINILUREA | 0,6% |  |  |
+| 28 | POLIHEXAMETILENO BIGUANIDA (CLORHIDRATO DE) | 0,3% |  |  |
+| 29 | 2-FENOXIETANOL | 1,0% |  |  |
+| 30 | HEXAMETILENOTETRAMINA (METENAMINA) | 0,15% |  |  |
+| 31 | CLORURO DE 1-(3- CLOROALIL)-3,5,7‑ TRIAZA-1-AZONIA‑ ADAMANTANO | 0,2% |  |  |
+| 32 | 1-IMIDAZOLIL-1-(4- CLOROFENOXI) 3,3‑ DIMETIL-2-BUTANONA | 0,5% |  |  |
+| 33 | DIMETILOL DIMETIL HIDANTOINA | 0,6% |  |  |
+| 34 | ALCOHOL BENCÍLICO (+) | 1,0% |  |  |
+| 35 | 1-HIDROXI-4-METIL- 6(2,4,-4-TRIMETILPENTIL) 2- PIRIDÓN Y SU SAL DE MONOETANOLAMINA | 1,0%<br>0,5% | – Para productos os aclarados.<br>– Para otros productos. |  |
+| 36<br>**(Suprimido)** |  |  |  |  |
+| 37 | 3,3’-DIBROMO-5,5’- DICLORO-2,2’‑ DIHIDROXIDIFENILMETANO | 0,1% |  |  |
+| 38 | ISOPROPILMETACRESOL | 0,1% |  |  |
+| 39 | 5-CLORO-2-METIL-3,4- ISOTIAZOLONA- + 2- METIL-3,4- ISOTIAZOLONA + CLORURO DE MAGNESIO Y NITRATO DE MAGNESIO. | 0,0015%<br>De una mezcla en la proporción 3:1 de 5‑cloro-2‑metil-3,4‑ isotiazolona y 2-metil‑ 3,4‑ isotiazolona. |  |  |
+| 40 | 2-BENCIL-4- CLOROFENOL (CLOROFENO) | 0,2% |  |  |
+| 41 | CLORACETAMIDA | 0,3% |  | Contiene cloracetamida |
+| 42 | BIS-(P‑ CLOROFENILDIGUANIDA)-1,6-HEXANO : ACETATO GLUCONATO Y CLORHIDRATO (CLORHEXIDINA) | 0,3% expresado en clorhexidina. |  |  |
+| 43 | FENOXIPROPANOL (+) | 1,0% | Únicamente para productos aclarados. |  |
+| 44 | ALQUIL (C<sub>12</sub> C<sub>22</sub>) TRIMETIL AMONIO, BROMURO DE, CLORURO DE (+) | 0,1% |  |  |
+| 45 | 4,4-DIMETIL-1,3- OXAZOLIDINA | 0,1% | El pH del producto acabado no será inferior a 6. |  |
+| 46 | N-(HIDROXIMETIL) N-(1,3 DIHIDROXIMETIL-2,5‑ DIOXO-4‑ IMIDAZOLIDINIL) N’ (HIDROXIMETIL) UREA. | 0,5% |  |  |
+| 47 | 1,6‑ DI(AMIDINOFENOXI)‑ N-HEXANO (HEXAMIDINA Y SUS SALES (INCLUIDO EL ISETIONATO Y EL P.HIDROXIBENZOATO) | 0,1% |  |  |
+| 48 | GLUTARALDEHÍDO (1,5-PENTANODIAL) | 0,1% | Prohibido en aerosoles (sprays) | Contiene glutaraldehído (cuando la concentración de glutaraldehído en el producto acabado sobrepase el 0,05%) |
+| 49 | 7-ETILBICICLO OXAZOLIDINA | 0,3% | Prohibido en los productos de higiene bucal y en los productos destinados a las mucosas. |  |
+| 50 | 3-(P-CLOROFENOXI)- PROPAN-1,2 DIOL (CLORFENESINA) | 0,3% |  |  |
+| 51 | HIDROXIMETILAMINACETATO DE SODIO (HIDROXIMETILGLICINATO DE SODIO) | 0,5% |  |  |
+| 52 | CLORURO DE PLATA DEPOSITADO SOBRE DIÓXIDO DE TITANIO | 0,004% calculado como AgCl | 20% AgCl (p/p) sobre TIO<sub>2</sub>. Prohibido en los productos para niños menores de tres años en los productos de higiene bucal y en los productos destinados a ser aplicados alrededor de los ojos o en los labios. |  |
+| 53 | Benzethonium Chloride (INCI). | 0,1% | a) Para productos aclarados.<br>b) Para productos no aclarados salvo los de higiene bucal. |  |
+| 54 | Cloruro, bromuro y sacarinato de benzalconio (+). | 0,1% expresado en cloruro de benzalconio. | Evitar el contacto con los ojos. |  |
+| 55 | Bencilhemiformal. | 0,15 por 100 | Solamente en los productos que se eliminan por aclarado. |  |
+| 56 | Yodopropinil butilcarbamato (IPBC). |  | No debe utilizarse en productos para la higiene oral y el cuidado de los labios. |  |
+|  | Butilcarbamato de 3-yodo-2-propinilo Nº CAS 55406-53-6. | a) productos que se aclaran: 0,02%. | a) No debe utilizarse en preparados para niños menores de 3 años, excepto en productos de baño, gel de ducha y champú | a) "No debe utilizarse en niños menores de 3 años" (únicamente en caso de productos, distintos de los productos de baño, gel de ducha y champú, que podrían utilizarse en niños menores de 3 años). |
+|  |  | b) productos que no se aclaran: 0,01%, excepto en desodorantes y antitranspirantes: 0,0075%. | b) - No debe utilizarse en locio-nes y cremas corporales (productos destinados a ser aplicados en grandes extensiones corporales)<br>- No debe utilizarse en pre-parados para niños menores de 3 años. | b) "No debe utilizarse en niños menores de 3 años". (únicamente en caso de productos que podrían utilizarse con niños menores de 3 años). |
+| 57 | Methylisothiazolinone (INCI). | 0,01% |  |  |
+| 58 | Clorhidrato de N<sup>2</sup>-dodecanoil-L-argininato <br>de etilo. <br>Ethyl Lauroyl Arginate HCl (INCI) <sup>(3)</sup>. <br>N.º CAS: 60372-77-2 <br>N.º CE: 434-630-6 | 0,4 % | No utilizar en productos labiales, productos bucales ni aerosoles (sprays). |  |
+
+<sup>(1)</sup> Únicamente en los productos que podrían ser utilizados eventualmente para cuidados de niños menores de 3 años y que permanezcan en contacto prolongado con la piel.
+
+<sup>(2)</sup> Se entiende por productos aclarados aquellos destinados a ser enjuagados después de su aplicación.
+
+<sup>(3)</sup> Con usos distintos del uso como conservante, véase el anexo III, primera parte, n.º 207.
+
+## SEGUNDA PARTE
+
+LISTA DE AGENTES CONSERVADORES ADMITIDOS PROVISIONALMENTE
+
+| Número de orden | Sustancias | Concentración máxima autorizada | Límites y exigencias | Condiciones de empleo y advertencias que deben figurar obligatoriamente en el etiquetado | Admitido hasta |
+|---|---|---|---|---|---|
+| a | b | c | d | e | f |
+|  |  |  |  |  |  |
+
+> Se añade el número 58 en la primera parte por el art. único.2 de la Orden SAS/2063/2010, de 23 de julio. [Ref. BOE-A-2010-12212](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12212).
+
+> Se modifica la primera parte por el art. 1.3 de la Orden SCO/3089/2007, de 19 de octubre. [Ref. BOE-A-2007-18584](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18584).
+
+> Se modifica el número 53 y se añade el 57 en la primera parte por el art. 1.4 de la Orden SCO/747/2006, de 9 de marzo. [Ref. BOE-A-2006-4879](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-4879).
+
+> Se modifica el número 36 de la primera parte por el apartado 1.3 de la Orden SCO/2592/2004, de 21 de julio. [Ref. BOE-A-2004-14315](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-14315).
+
+> Se añaden los números 55 y 56 en la primera parte y se suprime el 21 y 29 de la segunda parte por el apartado 1.3 de la Orden de 3 de agosto de 2000. [Ref. BOE-A-2000-15557](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-15557).
+
+> Se añade el número 54 en la primera parte, y de la segunda parte se suprime el número 16 y se modifican el 21 y 29 por el apartado 1.3 de la Orden de 26 de abril de 1999. [Ref. BOE-A-1999-10150](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-10150).
+
+> Se añade el número 53 en la primera parte y se modifican la fechas de los números 16, 21 y 29 de la segunda parte por el apartado 1.2 de la Orden de 4 de junio de 1998. [Ref. BOE-A-1998-13842](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-13842).
+
+## ANEXO VII — Lista de filtros ultravioletas que pueden contener los productos cosméticos
+
+A los efectos del presente Real Decreto se definen los filtros ultravioletas como sustancias que, contenidas en los productos cosméticos de protección solar, están destinados específicamente a filtrar ciertas radiaciones para proteger la piel de sus efectos nocivos.
+
+Estos filtros pueden añadirse a otros productos cosméticos dentro de los límites y cumpliendo las condiciones establecidas en el presente anexo.
+
+En esta lista no figuran los filtros ultravioletas que únicamente se utilizan para proteger los productos cosméticos de las radiaciones ultravioletas.
+
+## PRIMERA PARTE
+
+LISTA DE FILTROS ULTRAVIOLETAS QUE PUEDEN CONTENER LOS PRODUCTOS COSMÉTICOS
+
+| NÚMERO DE ORDEN | SUSTANCIAS | CONCENTRACIÓN MÁXIMA AUTORIZADA | LÍMITES Y EXIGENCIAS | CONDICIONES DE EMPLEO Y ADVERTENCIAS QUE DEBEN FIGURAR OBLIGATORIAMENTE EN EL ETIQUETADO |
+|---|---|---|---|---|
+| a | b | c | d | e |
+| 1<br>**(Suprimido)** |  |  |  |  |
+| 2 | SULFATO DE METILO Y DE N,N,N-TRIMETIL-4-[(2-OXO-3 BORMILIDEN)-METIL]‑ ANILINA | 6% |  |  |
+| 3 | HOMOSALATO | 10% |  |  |
+| 4 | OXIBENZONA | 10% |  | Contiene oxibenzona <sup>(1)</sup> |
+| 6 | ÁCIDO 2-FENIL-5‑BENCIMIDAZOL SULFÓNICO Y SUS SALES DE POTASIO, SODIO Y TRIETANOLAMINA | 8% (Expresado en ácido) |  |  |
+| 7 | 3-3’-(1,4-FENILENO DIMETILIDINA) BIS [ÁCIDO 7,7 DIMETIL-2-OXO‑BICICLO(2,2,1) HEPTANO 1‑METANO SULFÓNICO] Y SUS SALES | 10% (Expresado en ácido) |  |  |
+| 8 | 1-(4-TERT-BUTIL-FENIL)-3-(4-METOXIFENIL) PROPANO-1,3‑DIONA. | 5% |  |  |
+| 9 | ÁCIDO (2-OXO-3‑BORNILIDENO)4‑ TOLUENSULFÓNICO Y SUS SALES | 6% (Expresado en ácido) |  |  |
+| 10 | ÉSTER 2-ETILHEXÍLICO DEL ÁCIDO 2-CIANO-3,3- DIFENILACRÍLICO (OCTOCRILENO) | 10% (Expresado en ácido) |  |  |
+| 11 | POLIMERO DE N-[(2 Y 4) -[(2‑ OXOBORN-3-ILIDEN)METIL] BENCIIL] ACRILAMIDA | 6% |  |  |
+| 12 | Metoxicinamato de octilo | 10% |  |  |
+| 13 | Etil-4-aminobenzoato etoxilado (PEG-25 PABA). | 10% |  |  |
+| 14 | Isopentil-4-metoxicinamato (Isoamyl p-Methoxycinnamate). | 10% |  |  |
+| 15 | 2,4,6-trianilino-p-carbo-2'-etilhexil-1'oxi)-1,3,5-triazina (Octyl Triazone). | 5% |  |  |
+| 16 | Fenol,2-(2H-benzotriazol-2-il)-4-metil-6-(2-metil-3-(1,3.3,3-tetrametil-1-(trimetilsilil)oxi)-disiloxani)propilo) (Drometrizole Trisiloxane). | 15% |  |  |
+| 17 | Benzoato de 4,4-((6-(((1,1-dimetiletil)amino)carboni)fenil)amino)1,3,5-triazina-2,4-dii)diimino)bis-,bis(2-etilhexilo). | 10% |  |  |
+| 18 | 3-(4'-Metilbencilideno)-d-1 alcanfor(4-Methylbenzylidene Camphor). | 4% |  |  |
+| 19 | 3-Bencilideno alcanfor (3-Benzylidene Camphor) | 2% |  |  |
+| 20 | Salicilato de 2-etilhexilo (octyl-salicylate). | 5% |  |  |
+| 21 | 4-dimetil-amino-benzoato de etil-2-hexilo (octil dimetil PABA). | 8 por 100 |  |  |
+| 22 | Ácido 2-hidroxi4-metoxibenzofenona-5-sulfónico (benzofenona-5) y su sal de sodio | 5 por 100<br>(expresado en ácido) |  |  |
+| 23 | 2,2'-metilen-bis-6-(2H-benzotriazol-2-il)-4-(tetrametil-butil)-1,1,3,3-fenol. | 10 por 100 |  |  |
+| 24 | Sal monosódica del ácido 2-2'-bis-(1,4-fenilen)1H-benzimidazol-4,6-disulfónico. | 10 por 100<br>(expresado en ácido) |  |  |
+| 25 | (1,3,5)-triazina-2,4-bis{[4-(2etil-hexiloxi)-2hydroxi]-fenilo)-6-(4-metoxifenilo) | 10 por 100 |  |  |
+| 26 | Dimethicodiehylbenzal malonate (número CAS 207574-74-1). | 10 por 100 |  |  |
+| 27 | Titanium dioxide. | 25 por 100 |  |  |
+| 28 | Ácido benzoico, 2-(–4-(dietilamino)-2-hidroxibenzoil), hexilester<br>(nombre INCI: Diethylamino Hydroxybenzoyl Hexyl benzoate: n.º CAS 302776-68-7) | 10 % |  |  |
+
+(1) No se exigirá la mención si la concentración es igual o inferior a 0,5% y si la sustancia se utiliza sólo para proteger el producto.
+
+## SEGUNDA PARTE
+
+LISTA DE FILTROS ULTRAVIOLETAS QUE PUEDEN CONTENER PROVISIONALMENTE LOS PRODUCTOS COSMÉTICOS
+
+| Número de orden | Sustancias | Concentración máxima autorizada | Límites y exigencias | Condiciones de empleo y advertencias que deben figurar obligatoriamente en el etiquetado | Admitido hasta |
+|---|---|---|---|---|---|
+| a | b | c | d | e | f |
+|  |  |  |  |  |  |
+
+> Se suprime el número 1 y lo indicado del 28 en la primera parte por el art. único.3 de la Orden SAS/1868/2009, de 8 de julio. [Ref. BOE-A-2009-11601](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-11601).
+
+> Se añade el número 28 en la primera parte por el art. único de la Orden SCO/3691/2005, de 25 de noviembre. [Ref. BOE-A-2005-19636](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19636).
+
+> Se añaden los números 26 y 27 en la primera parte por el apartado 1.4 de la Orden SCO/249/2003, de 5 de febrero. [Ref. BOE-A-2003-3007](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3007).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 73, de 26 de marzo de 2003. [Ref. BOE-A-2003-6049](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6049).
+
+> Se añaden los números 21 a 25 en la primera parte y se suprime el 5, 17 y 29 de la segunda parte por el apartado 1.4 de la Orden de 3 de agosto de 2000. [Ref. BOE-A-2000-15557](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-15557).
+
+> Se añaden los números 13 a 20 en la primera parte, y en la segunda parte se suprimen los números 2, 6, 12, 25, 26 y 32 y se modifican las fechas del resto por el apartado 1.4 de la Orden de 26 de abril de 1999. [Ref. BOE-A-1999-10150](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-10150).
+
+> Se añade el número 12 en la primera parte, y en la segunda parte se suprime el número 13 y se modifican la fechas del resto de números por el apartado 1.2 de la Orden de 4 de junio de 1998. [Ref. BOE-A-1998-13842](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-13842).
+
+## ANEXO VIII — Símbolo de remisión al consumidor a la lista de ingredientes
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/261/23067_001.png)
+
+## ANEXO VIII BIS — Símbolo que indica el plazo de utilización de los productos cosméticos después de su apertura
+
+![Imagen: img/disp/2004/262/18574_001.png](https://www.boe.es/datos/imagenes/disp/2004/262/18574_001.png)
+
+> Se añade por el art. único.2 del Real Decreto 2131/2004, de 29 de octubre. [Ref. BOE-A-2004-18574](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-18574).
+
+## ANEXO IX — Lista de métodos validados alternativos a los ensayos en animales
+
+En este anexo se ofrece la lista de métodos alternativos validados por el Centro Europeo para la Validación de Métodos Alternativos (CEVMA) del Centro Común de Investigación, disponibles para cumplir los requisitos exigidos por la normativa de productos cosméticos y que no figuran en el Reglamento (CE) n.º 440/2008. Dado que los ensayos en animales no pueden ser sustituidos completamente por un método alternativo, debe mencionarse si el método alternativo sustituye en su totalidad o parcialmente a los ensayos en animales.
+
+| Número de referencia | Métodos alternativos validados | Naturaleza de la sustitución total o parcial |
+|---|---|---|
+| A | B | C |
+
+> Se modifica la primera frase del párrafo primero por el art. único.5 del Real Decreto 944/2010, de 23 de julio. [Ref. BOE-A-2010-12537](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12537).
+
+> Se modifica por el apartado 1.3 de la Orden SCO/544/2005, de 8 de marzo. [Ref. BOE-A-2005-3946](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3946).
+
+> Se modifica por el art. único.21 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+## ANEXO X — Modalidades de concesión del número de registro a que se refiere el artículo 17
+
+1\. El número de registro a que se refiere el artículo 17, consta de 7 cifras, las dos primeras de las cuales corresponden al año de concesión de la confidencialidad, las dos siguientes al código asignado a cada Estado miembro, de conformidad con el apartado 2 siguiente, y las tres últimas asignadas por la autoridad competente.
+
+2\. A cada Estado miembro le corresponderán los códigos siguientes:
+
+| 01 Francia<br>02 Bélgica<br>03 Países Bajos<br>04 Alemania<br>05 Italia | 06 Reino Unido<br>07 Irlanda<br>08 Dinamarca<br>09 Luxemburgo<br>10 Grecia | 11 España<br>12 Portugal<br>13 Finlandia<br>14 Austria<br>15 Suecia | 16 República Checa<br>17 Estonia<br>18 Chipre<br>19 Letonia<br>20 Lituania | 21 Hungría<br>22 Malta<br>23 Polonia<br>24 Eslovenia<br>25 Eslovaquia | 26 Bulgaria<br>27 Rumania |
+|---|---|---|---|---|---|
+
+> Se modifica el apartado 2 por el art. único de la Orden SCO/1929/2007, de 22 de junio. [Ref. BOE-A-2007-12802](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12802).
+
+> Se añade por el art. único.21 del Real Decreto 209/2005, de 25 de febrero. [Ref. BOE-A-2005-3243](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3243).
+
+> Su anterior numeración era Anexo IX.

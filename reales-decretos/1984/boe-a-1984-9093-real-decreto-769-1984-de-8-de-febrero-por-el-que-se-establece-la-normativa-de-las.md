@@ -1,0 +1,149 @@
+---
+title: "Real Decreto 769/1984, de 8 de febrero, por el que se establece la normativa de las denominaciones de piel, cuero, curtido y piel curtida para peletería en la elaboración, circulación y comercio de sus manufacturas"
+identifier: "BOE-A-1984-9093"
+eli: "https://www.boe.es/eli/es/rd/1984/02/08/769"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1984-02-08
+published: 1984-04-18
+in_force_from: 1984-10-18
+last_amended: 1988-02-25
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 93"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1984-9093"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 769/1984, de 8 de febrero, por el que se establece la normativa de las denominaciones de piel, cuero, curtido y piel curtida para peletería en la elaboración, circulación y comercio de sus manufacturas
+
+La creciente importancia que en el comercio interior han adquirido actualmente los productos derivados de la piel y cuero hace necesario revisar la legislación vigente a efectos de regular las transacciones comerciales, adaptándola al mismo tiempo a las disposiciones de la CEE y de países que también regulan esta materia.
+
+Por otra parte, el incremento experimentado en el tráfico de los productos a base de piel y cuero exige, al propio tiempo, una debida transparencia y control del mercado, continuando la labor de defensa y clarificación de la competencia iniciada por la Ley de 20 de julio de 1963.
+
+En este orden de ideas la defensa del consumidor exige una mayor atención para todos los productos que de alguna manera pueden dar lugar a interpretaciones confusas de las materias originarias de que están compuestos, y en este sentido la experiencia pasada hace necesaria una definición clara de las materias primas utilizadas en los productos manufacturados a base de piel y cuero.
+
+En su virtud, a propuesta de los Ministros de Economía y Hacienda, Industria y Energía y Sanidad y Consumo, previa deliberación del Consejo de Ministros en su reunión del día 8 de febrero de 1984, dispongo:
+
+### Artículo 1.
+
+Las empresas directamente afectadas por la aplicación del presente Real Decreto son las dedicadas a la elaboración, importación, distribución y comercialización de piel, cuero y sus productos.
+
+## Materias primas
+
+### Artículo 2.
+
+1\. La denominación de las materias primas utilizadas en la industria de la piel se atendrá, en lo que a este producto se refiere y a efectos del presente Real Decreto, a las siguientes definiciones:
+
+a) Piel.-La denominación «piel» se referirá exclusivamente a la parte del cuerpo de los animales que compuesta por varias capas de tejidos celulares forma la cubierta externa de dicho cuerpo, empleándose especialmente para las especies de menor tamaño o para los mamíferos de mayor tamaño que no hayan alcanzado su estado adulto, tales como terneras y potros.
+
+b) Cuero.-La denominación «cuero» se referirá a la parte del cuerpo de los animales que compuesta de varias capas de tejidos celulares forme la cubierta externa de dicho cuerpo empleándose especialmente para los mamíferos de mayor tamaño, adultos plenamente desarrollados, como los bóvidos y équidos.
+
+c) Curtido.-La denominación «curtido» se referirá a los cueros y pieles que conserven su estructura natural y que hayan sido tratados de forma tal que resulten permanentemente imputrescibles, pudiendo haberse eliminado o no su pelo o lana. No tendrá la consideración de curtido la piel o cuero que haya sido sometida a algún proceso conservante de su estado natural.
+
+d) Piel curtida para peletería.-Esta denominación se aplicará a pieles tratadas o acabadas de forma análoga a la de los curtidos, pero sin que se les haya separado el pelo o lana.
+
+### Artículo 3.
+
+1\. En lo sucesivo solamente podrá utilizarse la denominación de «piel», «cuero», «curtido» y «piel curtida para peletería» para aquellos productos que cumplan los requisitos establecidos en el artículo anterior y los documentos en que se reflejen las transacciones comerciales deberán ajustarse a las definiciones establecidas.
+
+2\. No podrán recibir tales denominaciones:
+
+a) Aquellos productos que habiendo sido obtenidos de pieles o cueros de animales hayan perdido su estructura natural por haber sido sometidos a un proceso mecánico o químico de fragmentación, molienda, pulverización u otros análogos, procediendo posteriormente a su aglomeración o reconstitución.
+
+b) Las pieles, cueros o curtidos, cuando el espesor de su recubrimiento sea igual o superior a 0,3 milímetros, o que supere a un tercio del espesor del conjunto.
+
+### Artículo 4.
+
+1\. Los productos que no cumplan los requisitos exigidos en el artículo 2. o se encuentren incursos en las prohibiciones del apartado 2 del artículo 3. no podrán utilizar tampoco las denominaciones relativas a las partes de cuero o la piel en bruto; las de las especies de animales de que procedan los cueros o las pieles; las de las distintas clases de curtición o sus acabados o las manufacturas de piel curtida o de peletería, sus sinónimos, derivados, compuestos, extranjerismos o su traducción a otros idiomas, así como las figuras, dibujos o siluetas representando animales, sus cueros o pieles, ni siquiera asociados a términos tales como imitado, reconstituido, simulado, artificial, sintético o palabras similares.
+
+2\. Los nombres de los animales y de sus razas y especies y su traducción a otras lenguas, al ser utilizados para designar los productos a que se refiere el presente Real Decreto, solo podrán emplearse para identificar aquéllos que procedan de las pieles de dichos animales, razas y especies.
+
+3\. En el caso de imitaciones de piel curtida de un animal a partir de la de otro el nombre del animal cuya piel sea imitada podrá ser empleado exclusivamente si está precedido del nombre del animal del que proviene la piel trabajada seguido de la palabra imitación. Los caracteres gráficos de los dos últimos serán de igual o superior tamaño que los del nombre del animal imitado.
+
+## Artículos manufacturados
+
+### Artículo 5.
+
+A los efectos del presente Real Decreto se considerarán artículos manufacturados todos aquellos que se encuentren confeccionados total o parcialmente con piel, cuero, curtido o piel curtida para peletería.
+
+## Etiquetado
+
+### Artículo 6.
+
+1\. El etiquetado no dejará duda respecto a la verdadera naturaleza del producto, no inducirá a error o engaño, no contendrá sugerencias que supongan confusión y aportará cuanta información se considere necesaria.
+
+2\. La información obligatoria será la siguiente:
+
+a) Denominación del producto de acuerdo con las definiciones contenidas en el artículo 2., seguida de la especie animal de que proceda.
+
+b) Indicación del lugar de origen o de procedencia en el caso de que su omisión fuese susceptible de inducir a error al consumidor en cuanto al verdadero origen o procedencia del producto.
+
+En los productos importados de países no pertenecientes a la Comunidad Económica Europea se hará constar siempre el país de origen.
+
+c) Nombre y apellidos o razón social o denominación del fabricante o el de un vendedor, establecidos en el interior de la Comunidad Económica Europea, y, en todos los casos, su domicilio.
+
+En el caso de productos fabricados en España y que se comercialicen en territorio nacional se hará constar, además, el número de registro industrial del establecimiento de fabricación.
+
+En el caso de productos procedentes de países de fuera del ámbito de la Comunidad Económica Europea se hará constar el nombre y apellidos o razón social o denominación y domicilio del importador y su número de identificación fiscal.
+
+d) **(Suprimido)**
+
+3\. Cuando el reducido tamaño de alguno de los artículos manufacturados imposibilite el etiquetado individual, o por otra causa no esté etiquetado, deberá identificarse ante el cliente, siempre que sea requerido por él, mediante la exhibición de la factura correspondiente en la que constará su composición.
+
+4\. El etiquetado de los productos de fabricación nacional se realizará en los establecimientos industriales donde se produzcan.
+
+5\. El etiquetado de los productos no fabricados en España deberá cumplir con la normativa del presente Real Decreto.
+
+6\. Las expresiones en idiomas extranjeros estarán acompañadas de las correspondientes versiones en lengua oficial del Estado español, con caracteres del mismo tamaño o mayor que las palabras extranjeras, salvo las que por su uso generalizado estén incorporadas al léxico del consumidor español y permitan la perfecta identificación del producto.
+
+7\. El uso de las marcas hasta hoy concedidas que resulten afectadas por las prohibiciones que establece este Real Decreto, en ningún caso amparará la realización de actos o prácticas a que se refieren los artículos 3. 4. y 7., a cuyo efecto, cuando la evocación fonética o gráfica de la marca no corresponda a la naturaleza del producto que distingue, deberá especificarse la composición del mismo.
+
+> Se modifican los apartados 2.b), 2.c) y 5 y se suprime el apartado 2.d) por el art. único del Real Decreto 165/1988, de 29 de enero. [Ref. BOE-A-1988-4727](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-4727)
+
+### Artículo 7.
+
+Se prohíbe con carácter general el empleo de cualquier procedimiento de publicidad, exposición, embalado y venta susceptible de crear confusión en el comprador acerca de la naturaleza, composición y origen de estos productos y de otros que pretendan imitarlos.
+
+## Inspecciones
+
+### Artículo 8.
+
+1\. La vigilancia e inspección de cuanto se establece en el presente Real Decreto se llevará a efecto por los correspondientes órganos de las Administraciones Públicas en el ámbito de su competencia, de oficio o a petición de parte, y, tanto en los establecimientos industriales como en los de almacenamiento, venta o distribución.
+
+2\. Los Ministerios de Economía y Hacienda, Industria y Energía y Sanidad y Consumo dentro del ámbito de sus competencias, realizaran las inspecciones que juzguen necesarias para el cumplimiento de lo preceptuado en este Real Decreto.
+
+3\. Los Organismos competentes de las Administraciones Publicas, en el ámbito de sus respectivas competencias, podrán designar, en su caso, los laboratorios en que hubieren de tener lugar las determinaciones analíticas o dictámenes técnicos que estimen pertinentes.
+
+## Infracciones
+
+### Artículo 9.
+
+Sin perjuicio de la competencia que corresponde a los Ministerios de Economía y Hacienda e Industria y Energía dentro del marco de sus atribuciones específicas, el incumplimiento de lo dispuesto en el presente Real Decreto constituirá infracción administrativa en materia de defensa del consumidor, conforme a lo previsto en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria.
+
+### Disposición adicional primera.
+
+El etiquetado de los productos a que se refiere este Real Decreto podrá ser objeto de regulación específica para cada subsector. En todo caso lo preceptuado en el artículo 6. Será de aplicación a partir de los doce meses siguientes a la entrada en vigor del presente Real Decreto.
+
+### Disposición adicional segunda.
+
+Los Ministerios de Economía y Hacienda, Industria y Energía y Sanidad y Consumo, quedan facultados para desarrollar conjuntamente el presente Real Decreto.
+
+### Disposición final primera.
+
+Queda derogado el Decreto 3289/1974, de 21 de noviembre, por el que se regula el uso de denominaciones de los curtidos y de sus manufacturas.
+
+### Disposición final segunda.
+
+El presente Real Decreto entrará en vigor seis meses después de la fecha de su publicación.
+
+Dado en Madrid a 8 de febrero de 1984.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JAVIER MOSCOSO DEL PRADO Y MUÑOZ

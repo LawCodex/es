@@ -1,0 +1,141 @@
+---
+title: "Real Decreto 832/1991, de 17 de mayo, por el que se constituyen las Juntas Superiores de los Cuerpos Comunes de las Fuerzas Armadas y los órganos de evaluación correspondientes"
+identifier: "BOE-A-1991-13724"
+eli: "https://www.boe.es/eli/es/rd/1991/05/17/832"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Defensa"
+date: 1991-05-17
+published: 1991-06-01
+in_force_from: 1991-06-02
+last_amended: 2004-01-20
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 131"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-13724"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 832/1991, de 17 de mayo, por el que se constituyen las Juntas Superiores de los Cuerpos Comunes de las Fuerzas Armadas y los órganos de evaluación correspondientes
+
+La disposición adicional tercera de la Ley 17/1989, de 19 de julio, reguladora del Régimen del Personal Militar Profesional, establece que las competencias asignadas en materia de personal a los Consejos Superiores de los Ejércitos corresponderán a las Juntas Superiores de los Cuerpos Comunes de las Fuerzas Armadas que reglamentariamente se constituyan en sus ámbitos respectivos.
+
+Por otra parte, la disposición adicional primera, apartado 2, del Reglamento General de Evaluaciones, Clasificaciones y Ascensos del Personal Militar Profesional, aprobado por Real Decreto 1622/1990, de 14 de diciembre, establece que las Juntas permanentes y eventuales de evaluación se determinarán reglamentariamente en el Real Decreto que desarrolle la disposición adicional tercera de la Ley 17/1989, de 19 de julio, de manera análoga a lo dispuesto en el mismo Reglamento para los correspondientes Ejércitos, y se constituya una Secretaría Permanente para Evaluación y Clasificación en la Dirección General de Personal.
+
+Es preciso, pues, que en los Cuerpos Comunes de las Fuerzas Armadas se constituyan dichas Juntas Superiores, a las que la citada legislación asigna cometidos de especial relevancia en el aspecto de asesoramiento en materia de personal, así como los restantes órganos de evaluación que posibiliten la aplicación de los sistemas de evaluaciones y clasificaciones, determinando su estructura y funciones.
+
+En su virtud, a propuesta del Ministro de Defensa, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 17 de mayo de 1991,
+
+DISPONGO:
+
+## TÍTULO PRIMERO — Juntas Superiores de los Cuerpos Comunes de las Fuerzas Armadas
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 47/2004, de 19 de enero. [Ref. BOE-A-2004-1067](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1067).
+
+#### Artículo 1.° Constitución de las Juntas Superiores.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 47/2004, de 19 de enero. [Ref. BOE-A-2004-1067](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1067).
+
+#### Artículo 2.° Composición de las Juntas Superiores.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 47/2004, de 19 de enero. [Ref. BOE-A-2004-1067](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1067).
+
+> Se modifica el apartado 2.c) por la disposición adicional 8 del Real Decreto 1883/1996, de 2 de agosto. [Ref. BOE-A-1996-18073](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-18073).
+
+#### Artículo 3.° Convocatorias y Presidencia.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 47/2004, de 19 de enero. [Ref. BOE-A-2004-1067](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1067).
+
+#### Artículo 4.º Vocales accidentales.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 47/2004, de 19 de enero. [Ref. BOE-A-2004-1067](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1067).
+
+#### Artículo 5.° Funciones de las Juntas Superiores.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 47/2004, de 19 de enero. [Ref. BOE-A-2004-1067](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1067).
+
+#### Artículo 6.° Abstención y recusación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 47/2004, de 19 de enero. [Ref. BOE-A-2004-1067](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1067).
+
+## TÍTULO II — Junta Permanente de Evaluación, Juntas Eventuales de Evaluación y Secretaría Permanente
+
+#### Artículo 7.° Constitución de las Juntas de Evaluación.
+
+Se constituyen una Junta de Evaluación de carácter permanente y Juntas de Evaluación de carácter eventual en los Cuerpos Comunes de las Fuerzas Armadas.
+
+Dichas Juntas son órganos encargados de realizar las evaluaciones y clasificaciones que afecten a personal de los Cuerpos Comunes de las Fuerzas Armadas, excepto en lo que afecte a Oficiales Generales.
+
+#### Artículo 8.° Junta de Evaluación de carácter permanente. Funciones y composición.
+
+La Junta de Evaluación de carácter permanente procederá a efectuar las evaluaciones para determinar: La asignación de destinos de especial responsabilidad o cualificación, la insuficiencia de facultades profesionales e informar sobre la insuficiencia de condiciones psicofísicas.
+
+El Presidente será el Director general de Personal del Ministerio de Defensa y estará constituida por un número de Vocales permanentes no inferior a tres y un número variable de Vocales eventuales que se designarán en función de la finalidad de la evaluación y el número de miembros a evaluar. En todo caso, el número total de Vocales será par.
+
+El Presidente nombrará un Secretario de la Junta, elegido entre los destinados en la Secretaría Permanente para la evaluación y clasificación. El Secretario tendrá como misión la de canalizar el apoyo de la Secretaría a la labor que desarrolle la Junta, sin intervenir en las actuaciones de la misma.
+
+#### Artículo 9.° Juntas de carácter eventual. Funciones y composición.
+
+1\. En cada uno de los Cuerpos Comunes de las Fuerzas Armadas se designarán Juntas de carácter eventual con objeto de efectuar las evaluaciones encaminadas a determinar la aptitud para el ascenso al empleo superior y a la selección de un número limitado de concurrentes a determinados cursos de capacitación.
+
+2\. El Secretario de Estado de Administración Militar determinará la composición de las Juntas de Evaluación, que en todo caso no excederán de una por empleo en cada Cuerpo, ordenando la publicación de sus componentes en el «Boletín Oficial del Ministerio de Defensa».
+
+3\. Los componentes de cada Junta de Evaluación de carácter eventual pertenecerán a la Escala Superior del Cuerpo correspondiente a los miembros a evaluar, siendo todos ellos de mayor empleo o antigüedad que los evaluados.
+
+4\. Los Presidentes de estas Juntas serán de mayor antigüedad que sus respectivos Vocales, y en ningún caso tendrán voto de calidad.
+
+5\. El número de Vocales no será superior a ocho ni inferior a cuatro, y deberá ser siempre par. El de menor empleo y antigüedad actuará de Secretario.
+
+6\. Podrán designarse hasta tres Vocales suplentes por cada Junta, para sustituir a los afectados por causas de abstención o recusación.
+
+#### Artículo 10. Secretaría Permanente para la Evaluación y Clasificación.
+
+1\. En la Dirección General de Personal del Ministerio de Defensa existirá una Secretaría Permanente para la Evaluación y Clasificación, con la misión de facilitar la labor de los órganos de evaluación correspondientes a los Cuerpos Comunes de las Fuerzas Armadas.
+
+2\. Dicha Secretaría tendrá los cometidos que se establecen en el artículo 11 del Reglamento General de Evaluaciones, Clasificaciones y Ascensos del Personal Militar Profesional, aprobado por Real Decreto 1622/1990, de 14 de diciembre («Boletín Oficial del Estado» número 304).
+
+#### Artículo 11. Normas de funcionamiento de las Juntas de Evaluación.
+
+Las Juntas de Evaluación, tanto la de carácter permanente como las de carácter eventual, que se definen en la presente disposición para los Cuerpos Comunes de las Fuerzas Armadas, se regirán por las mismas normas de funcionamiento que las establecidas con carácter general en los artículos 9.° y 10 del Reglamento General de Evaluaciones, Clasificaciones y Ascensos del Personal Militar Profesional, aprobado por Real Decreto 1622/1990, de 14 de diciembre («Boletín Oficial del Estado» número 304).
+
+### DISPOSICIÓN ADICIONAL
+
+Cuando sea preciso evaluar a miembros de la Escala Superior del Cuerpo de Músicas Militares y no existan suficientes Directores Músicos más antiguos que los evaluados, esta función será asumida por la Junta Superior del Cuerpo de Músicas Militares, sin perjuicio de que se constituya la Junta de Evaluación de carácter eventual correspondiente a este Cuerpo, para que ejerza el resto de los cometidos.
+
+### DISPOSICIÓN DEROGATORIA
+
+Quedan derogadas aquellas disposiciones de igual o inferior rango que se opongan a lo dispuesto en el presente Real Decreto.
+
+### DISPOSICIONES FINALES
+
+#### Primera.
+
+Se autoriza al Ministro de Defensa para dictar cuantas disposiciones sean necesarias en desarrollo del presente Real Decreto.
+
+#### Segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 17 de mayo de 1991.
+
+JUAN CARLOS R.
+
+El Ministro de Defensa,
+
+JULIÁN GARCÍA VARGAS

@@ -1,0 +1,2109 @@
+---
+title: "Real Decreto 111/1986, de 10 de enero, de desarrollo parcial de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español"
+identifier: "BOE-A-1986-2277"
+eli: "https://www.boe.es/eli/es/rd/1986/01/10/111"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1986-01-10
+published: 1986-01-28
+in_force_from: 1986-01-29
+last_amended: 2022-12-28
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 24"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-2277"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 111/1986, de 10 de enero, de desarrollo parcial de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español
+
+Incluye las correcciones de errores publicadas en BOE núms. 26, de 30 de enero de 1986. [Ref. BOE-A-1986-2450](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-2450) y 53, de 3 de marzo de 1986. [Ref. BOE-A-1986-5528](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-5528)
+
+La Ley 16/1985 establece el nuevo marco jurídico para la protección, acrecentamiento y transmisión a las generaciones futuras del Patrimonio Histórico Español.
+
+Esta Ley comprende una regulación precisa de los elementos sustanciales y remite a ulterior desarrollo reglamentario los aspectos procesales y organizativos por lo que, para lograr una inmediata aplicación de la misma, se requiere la elaboración de una norma que complete y precise dichos aspectos.
+
+A tal fin responde este Real Decreto que regula en su título primero la organización y funcionamiento de los órganos colegiados enunciados en el artículo 3.º de la citada Ley, por resultar decisiva su intervención en la aplicación de las normas, así como en la planificación y coordinación de las actividades tendentes a la protección y enriquecimiento del Patrimonio Histórico Español.
+
+El título II desarrolla los instrumentos administrativos básicos, tanto para aplicar las categorías de protección especial previstas en la Ley como para posibilitar por parte de los organismos competentes el seguimiento y control de los bienes así protegidos.
+
+Materia conexa a los instrumentos que anteceden es la regulación de la transmisión y exportación de aquellos bienes que revisten un interés cultural relevante, contenida en el título III, en el que se ha pretendido conciliar los intereses de agilidad y celeridad propios del trafico mercantil con la necesidad de salvaguardar y proteger este Patrimonio.
+
+Las medidas tributarias previstas en la Ley como estímulo a su cumplimiento se desarrollan en el título IV de este Real Decreto. En esta regulación han primado los criterios de objetividad y de transparencia propios de este tipo de normas, junto con el interés de fomentar el cumplimiento de los deberes que la Ley impone a los propietarios y poseedores de bienes integrantes del Patrimonio Histórico Español.
+
+Finalmente, en este Real Decreto, que no agota el desarrollo de la Ley 16/1985, se ha procurado no repetir las disposiciones contenidas en dicha norma, salvo que resulten necesarias para la comprensión de la materia que se regula.
+
+Por consiguiente, en uso de la habilitación concedida al Gobierno en la disposición final primera de la Ley 16/1985, a propuesta del Ministerio de Cultura, que es conjunta con el Ministerio de Economía y Hacienda respecto al título IV, disposiciones adicionales segunda y tercera y disposiciones transitorias primera a tercera, y a iniciativa de Cultura y propuesta del Ministerio del Interior respecto a la disposición adicional primera, con la aprobación de la Presidencia del Gobierno, oído el Consejo de Estado y previa deliberación del Consejo de ministros en su reunión del día 10 de enero de 1986,
+
+DISPONGO:
+
+## TÍTULO I — De los órganos colegiados
+
+##### Art. 1.
+
+El Consejo del Patrimonio Histórico, la Junta de Calificación, Valoración y Exportación de Bienes del Patrimonio Histórico Español y los demás órganos colegiados que se determinan en el presente título intervienen en la aplicación de la Ley del Patrimonio Histórico Español con las funciones que en la propia Ley y en este Real Decreto se les atribuyen.
+
+### CAPÍTULO I — Consejo del Patrimonio Histórico
+
+##### Art. 2.
+
+El Consejo del Patrimonio Histórico tiene como finalidad esencial facilitar la comunicación y el intercambio de programas de actuación e información relativos al Patrimonio Histórico Español entre las Administraciones del Estado y de las Comunidades Autónomas.
+
+##### Art. 3.
+
+En particular, son funciones del Consejo del Patrimonio Histórico:
+
+a) Conocer los programas de actuación, tanto estatales como regionales, relativos al Patrimonio Histórico Español, así como los resultados de los mismos.
+
+b) Elaborar y aprobar los planes nacionales de información sobre el Patrimonio Histórico Español a que se refiere el artículo 35.1 de la Ley 16/1985.
+
+c) Elaborar y proponer campañas de actividades formativas y divulgativas sobre el Patrimonio Histórico Español.
+
+d) Informar las medidas a adoptar para asegurar la necesaria colaboración en orden al cumplimiento de los compromisos internacionales contraídos por España que afecten al Patrimonio Histórico Español.
+
+e) Informar sobre el destino de los bienes recuperados de la exportación ilegal a que se refiere el artículo 29 de la Ley 16/1985.
+
+f) Emitir informe sobre los temas relacionados con el Patrimonio Histórico Español que el Presidente del Consejo someta a su consulta.
+
+g) Cualquier otra función que en el marco de la competencia del Consejo se le atribuya por alguna disposición legal o reglamentaria.
+
+##### Art. 4.
+
+El Consejo del Patrimonio Histórico que, adscrito al Ministerio de Cultura, tendrá su sede en Madrid, estará compuesto por:
+
+a) Presidente: El Director General de Bellas Artes y Archivos del Ministerio de Cultura, salvo en el caso de reuniones monográficas sobre el Patrimonio Bibliográfico que serán presididas por el Director General del Libro y Bibliotecas.
+
+b) Vocales: uno en representación de cada Comunidad autónoma.
+
+> Se modifica la letra b) por el art. 1.1 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 5.
+
+Los miembros del Consejo podrán asistir acompañados de un asesor con voz y sin voto.
+
+##### Art. 6.
+
+1\. El Consejo funcionará en pleno y en comisiones.
+
+2\. El pleno del Consejo se reunirá como mínimo una vez al semestre en sesión ordinaria, y en extraordinaria por decisión del Presidente o cuando lo solicite la mitad más uno de sus miembros.
+
+3\. Las Comisiones tendrán funciones preparatorias de los asuntos sometidos a decisión del pleno que éste les encomiende.
+
+4\. El Consejo podrá también llamar a expertos y crear los comités de expertos que considere necesarios para el mejor desempeño de sus funciones.
+
+5\. El Consejo del Patrimonio Histórico contará con un Secretario como órgano de apoyo administrativo, que asistirá a las sesiones del mismo con voz pero sin voto, y al que corresponderá:
+
+a) Preparar, bajo la dirección del Presidente, el orden del día para las reuniones del Consejo y notificar las convocatorias del mismo.
+
+b) Redactar las actas y expedir las certificaciones relativas a las sesiones del Consejo.
+
+El Presidente del Consejo designará al Secretario de entre los Subdirectores Generales del Ministerio de Cultura.
+
+6\. El funcionamiento y régimen de acuerdos del Consejo se ajustará a lo establecido en el capítulo II del Título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+No obstante, los acuerdos sobre asuntos comprendidos en los párrafos b), d) y e) del artículo 3 y en el apartado cuatro del artículo 58 de este Real Decreto, sólo se consideran válidamente adoptados si el Presidente del Consejo vota con la mayoría.
+
+> Se modifica el apartado 6 por el art. 1.2 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+### CAPÍTULO II — Junta de Calificación, Valoración y Exportación de Bienes del Patrimonio Histórico Español
+
+##### Art. 7.
+
+1\. La Junta de Calificación, Valoración y Exportación de Bienes del Patrimonio Histórico Español, adscrita a la Dirección General de Bellas Artes y Archivos del Ministerio de Cultura, estará compuesta por:
+
+a) Dieciocho Vocales designados por el Ministro de Cultura, 15 de ellos a propuesta del Director General de Bellas Artes y Archivos y tres a propuesta del Director General del Libro y Bibliotecas, entre personas de reconocida competencia en los distintos campos de actuación de la Junta.
+
+b) Cuatro Vocales designados por el Ministro de Economía y Hacienda, uno a propuesta del Director General de Aduanas e Impuestos Especiales y tres a propuesta del Director General de Tributos.
+
+2\. El Ministro de Cultura nombrará libremente un Presidente y un Vicepresidente de entre los miembros de la Junta que le proponga el Director General de Bellas Artes y Archivos.
+
+3\. El cargo de miembro de la Junta tendrá una duración de dos años, pudiendo sus integrantes ser designados de nuevo.
+
+4\. Actuará como Secretario de la Junta, con voz pero sin voto, el titular de la unidad dependiente de la Subdirección General de Protección del Patrimonio Histórico que determine el Director General de Bellas Artes y Archivos.
+
+> Redactado el párrafo a) del apartado 1 conforme a la corrección de errores publicada en BOE num. 26, de 30 de enero. [Ref. BOE-A-1986-2450](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-2450)
+
+##### Art. 8.
+
+Corresponde a la Junta de Calificación, Valoración y Exportación de Bienes del Patrimonio Histórico Español, en relación a dichos bienes:
+
+a) Dictaminar las solicitudes de permiso de exportación de los bienes a que se refiere el artículo 5.2 de la Ley 16/1985 con excepción de los bienes afectados por el artículo 32, apartados 1 y 2, de dicha Ley y durante el plazo que en dicho precepto se indica.
+
+b) Informar las solicitudes de permiso de salida temporal del territorio español prevista en el artículo 31 de la Ley 16/1985 con igual excepción que en el párrafo anterior.
+
+c) Informar la permuta de bienes muebles de titularidad estatal que el Gobierno proyecte concertar con otros Estados, a que se refiere el artículo 34 de la Ley 16/1985.
+
+d) Fijar el valor de los bienes exportados ilegalmente a los efectos de determinar la correspondiente sanción.
+
+e) Valorar los bienes que se pretendan entregar al Estado en pago de la deuda tributaria y realizar las demás valoraciones que resulten necesarias para aplicar las medidas de fomento que se establecen en el título VIII de la Ley 16/1985.
+
+A tal fin podrá solicitar informe de peritos y de las instituciones consultivas a que se refiere el artículo 3.2 de la Ley 16/1985. Para efectuar la tasación los miembros de la Junta y los peritos que ésta designe tendrán acceso al bien para su examen. En el caso de bienes muebles la Junta podrá acordar su deposito en un establecimiento oficial.
+
+f) Valorar los bienes que el Ministerio de Cultura proyecte adquirir con destino a bibliotecas, archivos y museos de titularidad estatal cuando éstos carezcan de sus propios órganos de valoración e informar el ejercicio de los derechos de tanteo y retracto por la Administración del Estado, en los términos previstos en este Real Decreto.
+
+g) Cualquier otra función que se le atribuya por alguna disposición legal o reglamentaria.
+
+> Se modifican las letras a) y b) por el art. 1.3 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 9.
+
+1\. La Junta se reunirá en pleno una vez al mes en sesión ordinaria, y en extraordinaria por decisión del Presidente o cuando lo solicite la mitad más uno de sus miembros.
+
+2\. La Junta podrá constituir secciones en su seno compuestas como mínimo por tres de sus miembros, en las que podrá delegar el ejercicio de las facultades siguientes:
+
+a) Dictaminar las solicitudes de permiso de exportación a que se refiere el artículo 5.2 de la Ley 16/1985, cuando se trate de bienes cuyo valor económico no exceda de 10.000.000 de pesetas.
+
+b) Informar las solicitudes de permiso de salida temporal, prevista en el artículo 31 de la Ley 16/1985, de bienes que no hayan sido declarados de interés cultural o inexportables. En caso de urgencia apreciada por el Presidente, o en ausencia de éste por el Vicepresidente, podrá informar las solicitudes de salida temporal de los bienes muebles a que se refiere el artículo 60, apartados 1 y 2, de la Ley 16/1985.
+
+c) Efectuar las valoraciones e informar el ejercicio de los derechos de tanteo y retracto previstos en el apartado f) del artículo anterior. Cuando el valor apreciado resulte superior a 10.000.000 de pesetas se dará traslado del expediente al Pleno para su decisión.
+
+3\. La Junta podrá actuar también en ponencias que tendrán funciones preparatorias de los asuntos sometidos a la decisión del pleno que éste las encomiende.
+
+4\. Se constituirá una Comisión de Valoración integrada por cuatro Vocales designados por el Ministro de Cultura, a propuesta del Director General de Bellas Artes y Archivos, de entre los contenidos en el apartado a) del artículo 7.º, y por los cuatro Vocales a que se refiere el apartado b) de dicho artículo.
+
+El Ministro de Economía y Hacienda, a propuesta del Director general de Tributos, designará al Presidente de la comisión de entre los miembros de la misma.
+
+Compete a esta Comisión valorar los bienes a que se refiere el apartado e) del artículo 8 y las disposiciones transitorias primera y segunda de este Real Decreto.
+
+El funcionamiento y régimen de acuerdos de la comisión se ajustará a lo establecido en el capítulo II del título I de la Ley de Procedimiento Administrativo.
+
+5\. La Junta podrá solicitar informes o estudios a especialistas o instituciones sobre los aspectos que considere necesarios en el ejercicio de sus funciones.
+
+6\. El funcionamiento de la Junta y la abstención y recusación de sus miembros se ajustarán a lo establecido en los capítulos II y III, respectivamente, del Título II de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+7\. Los miembros de la Junta tendrán derecho a percibir las indemnizaciones por razón de servicio, cuando proceda, y las remuneraciones correspondientes por sus trabajos de asesoramiento, ateniéndose, en su caso, a lo establecido en la legislación sobre incompatibilidades.
+
+> Se modifican los apartados 2 y 6 por el art. 1.4 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+### CAPÍTULO III — Instituciones consultivas
+
+##### Art. 10.
+
+Son instituciones consultivas de la Administración del Estado a los efectos del artículo 3.2 de la Ley 16/1985:
+
+a) La Junta Superior de Monumentos y Conjuntos Históricos.
+
+b) La Junta Superior de Archivos.
+
+c) El Consejo Coordinador de Bibliotecas.
+
+d) La Junta Superior de Arte Rupestre.
+
+e) La Junta Superior de Museos.
+
+f) La Junta Superior de Excavaciones y Exploraciones Arqueológicas.
+
+g) La Junta Superior de Etnología.
+
+> Se modifica la letra c) por la disposición final 1 del Real Decreto 582/1989, de 19 de mayo. [Ref. BOE-A-1989-12304](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-12304)
+
+## TÍTULO II — De los instrumentos administrativos
+
+### CAPÍTULO I — Declaración de Bien de Interés Cultural
+
+##### Art. 11.
+
+1\. De acuerdo con lo previsto en el artículo 6.b) de la Ley 16/1985, corresponde al Ministerio de Cultura tramitar los expedientes para declarar de interés cultural los bienes integrantes del Patrimonio Histórico Español adscritos a servicios públicos gestionados por la Administración General del Estado o que formen parte del Patrimonio Nacional. Su tramitación por dicho Ministerio se efectuará de acuerdo con las normas establecidas en este capítulo.
+
+2\. Corresponde a las comunidades autónomas la declaración de interés cultural de los restantes bienes del Patrimonio Histórico Español, cuya tramitación se regirá por su propia normativa.
+
+> Se modifica por el art. 2.1 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 12.
+
+1\. El acto por el que se incoa el expediente deberá describir para su identificación el bien objeto del mismo. En caso de bienes inmuebles, el acto de incoacción deberá además delimitar la zona afectada.
+
+Cuando se trate de un inmueble que contenga bienes muebles integrantes del Patrimonio Histórico Español, que por su vinculación a la historia de aquél deban ser afectados por la declaración de bien de interés cultural, en la incoación se relacionarán estos bienes con una descripción suficiente para su identificación, sin perjuicio de que pueda ampliarse la relación durante la tramitación del expediente.
+
+2\. La incoación se notificará a los interesados cuando se refiera a expedientes sobre bienes muebles, monumentos y jardines históricos y, en todo caso, al Ayuntamiento del municipio en cuyo término éstos radiquen si se trata de inmuebles.
+
+La incoación se publicará también en el <Boletín Oficial del Estado>, sin perjuicio de su eficacia desde la notificación, y se comunicará al Registro General de Bienes de Interés Cultural para su anotación preventiva.
+
+3\. La incoación del expediente se efectuará de oficio o a solicitud de persona interesada y determinará en relación al bien afectado la aplicación provisional del régimen de protección previsto para los bienes de interés cultural.
+
+> Se modifica por el art. 2.2 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 13.
+
+1\. La instrucción del expediente se ajustará a lo establecido en la Ley 16/1985 y en su tramitación serán de aplicación las normas generales del procedimiento administrativo. Cuando se refiera a inmuebles se dispondrá la apertura de un período de información pública y se dará audiencia al Ayuntamiento interesado.
+
+2\. El Ministerio de Cultura podrá recabar del titular del bien o del que por razón de cualquier título ostente la posesión, que facilite el examen del bien y proporcione cuanta información sobre el mismo se estime necesaria.
+
+3\. En el caso de que el citado órgano solicite el preceptivo informe de una institución consultiva y ésta, por su especialidad, no se considere la adecuada para emitir dicho informe, lo denegará en el plazo de quince días a partir de la recepción de la solicitud, sin que ello impida que se continúe la tramitación.
+
+> Se modifica por el art. 2.3 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 14.
+
+1\. En los supuestos previstos en el artículo 6.b) de la Ley 16/1985, la declaración de bien de interés cultural se efectuará por Real Decreto a propuesta del Ministro de Cultura.
+
+2\. El Real Decreto por el que se declara un bien de interés cultural deberá describirlo claramente para su identificación y en su caso contendrá las especificaciones a que se refieren los artículos 11.2 y 27 de la Ley 16/1985.
+
+> Se modifica por el art. 2.4 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 15.
+
+1\. Publicado el Real Decreto, el Registro General de Bienes de Interés Cultural inscribirá de oficio la declaración.
+
+2\. En el caso de monumentos y jardines históricos, el Ministerio de Cultura instará de oficio la inscripción gratuita de la declaración en el Registro de la Propiedad.
+
+Será título suficiente para efectuar dicha inscripción la certificación administrativa expedida por el citado Departamento en la que se transcriba la declaración de monumento o de jardín histórico. La certificación contendrá los demás requisitos previstos en la legislación hipotecaria.
+
+> Se modifica por el art. 2.5 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 16.
+
+En los supuestos del artículo 11.1 de este Real Decreto corresponde al Ministerio de Cultura tramitar el expediente para dejar sin efecto la declaración de bien de interés cultural.
+
+> Se modifica por el art. 2.6 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 17.
+
+La incoación del expediente para dejar sin efecto la declaración de interés cultural de un determinado bien se efectuará de oficio o a solicitud del titular de un interés legítimo y directo, y se notificará y publicará en los términos previstos en el artículo 12.2 de este Real Decreto.
+
+> Se modifica por el art. 2.7 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 18.
+
+Instruido el expediente conforme a lo dispuesto en el artículo 13 de este Real Decreto, el Ministro de Cultura propondrá al Gobierno el Real Decreto por el que queda sin efecto la declaración de interés cultural de un determinado bien.
+
+> Se modifica por el art. 2.8 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 19.
+
+El citado Real Decreto, que se publicará en el <Boletín Oficial del Estado>, cancelará la inscripción del bien en el Registro General de Bienes de Interés Cultural.
+
+> Se modifica por el art. 2.9 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 20.
+
+La certificación del Real Decreto por el que queda sin efecto la declaración de monumento o de jardín histórico será título suficiente para la cancelación de la correspondiente inscripción en el Registro de la Propiedad.
+
+> Se modifica por el art. 2.10 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+### CAPÍTULO II — Registro General de Bienes de Interés Cultural
+
+##### Art. 21.
+
+1\. El Registro General de Bienes de Interés Cultural tiene por objeto la anotación e inscripción de los actos que afecten a la identificación y localización de los bienes integrantes del Patrimonio Histórico Español declarados de interés cultural. Estará adscrito a la Dirección General de Bellas Artes y Archivos del Ministerio de Cultura que, a través de la Subdirección General de Patrimonio Histórico, desarrollará las funciones relativas a la formación y actualización del citado Registro.
+
+Corresponde al Ministerio de Cultura la llevanza del Registro respecto de los bienes a que se refiere el artículo 6.b) de la Ley 16/1985, y a las Comunidades Autónomas respecto de los restantes bienes declarados de interés cultural. Las Comunidades Autónomas trasladarán al Registro general las inscripciones y restantes anotaciones registrales a efectos de constancia general.
+
+2\. Cada bien que se inscriba en el Registro General tendrá un código de identificación.
+
+3\. Se anotarán en el Registro, además de los datos recogidos en el extracto del expediente de declaración, los siguientes:
+
+a) Fecha de la declaración de interés cultural y de su publicación en el «Boletín Oficial del Estado».
+
+b) Régimen de visitas o, en su caso, de los depósitos que se acuerden para la exhibición del bien previstos en el artículo 13.2 de la Ley 16/1985, que a los efectos, la Administración competente comunicará al Registro.
+
+c) Las transmisiones por actos ínter vivos o mortis causa y los traslados. A este fin los propietarios y los poseedores comunicarán al Registro General tales actos, aportando, en su caso, copias notariales o certificaciones registrales o administrativas de los documentos en que consten aquellos actos.
+
+d) Los anticipos reintegrables previstos en el artículo 36.3 de la Ley 16/1985, concedidos por la Administración del Estado, que se inscribirán de oficio.
+
+e) Las restauraciones que se comunicarán por el órgano que las autorice.
+
+4\. Cualquier inscripción relativa a un bien que se efectúe de oficio será notificada al titular de aquél.
+
+5\. El Registro General sólo da fe de los datos consignados en el mismo a los efectos previstos en la Ley 16/1985.
+
+> Se modifica el apartado 1 por el art. 2.11 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 22.
+
+1\. Será preciso el consentimiento expreso del titular para la consulta pública de los datos contenidos en el Registro General sobre:
+
+a) La situación jurídica y el valor de los bienes inscritos.
+
+b) Su ubicación, en el caso de bienes muebles, cuando por la Administración competente se hubiera dispensado totalmente de la obligación de visita pública a que se refiere el artículo 13.2 de la Ley 16/1985.
+
+2\. En el caso de que falte el consentimiento del titular para informar sobre la localización del bien y si existe una solicitud razonada para su estudio con fines de investigación debidamente acreditados, la Subdirección General de Protección del Patrimonio Histórico lo comunicará al órgano competente para la protección del bien a fin de que acuerde las medidas oportunas para permitir el acceso al mismo, sin desvelar en ningún caso los datos a que hace referencia el apartado 1.
+
+3\. En el caso de zonas arqueológicas cuyos yacimientos no estén abiertos a la visita pública será preciso que el órgano competente para la protección del bien autorice la consulta de la ubicación de la zona.
+
+##### Art. 23.
+
+1\. A petición del propietario o titular de derechos reales sobre un bien de interés cultural, o en su caso, del Ayuntamiento interesado, se expedirá por el Registro un título oficial, cuyo modelo consta en el anexo número 2 de este Real Decreto, en el que se reflejarán todos los actos jurídicos o artísticos que sobre el bien inscrito se efectúen.
+
+2\. El interesado podrá instar ante la Comunidad Autónoma competente la actualización del título, acreditando el acto jurídico o artístico cuya anotación inste. La resolución que adopte la Comunidad Autónoma será comunicada al Registro general a efectos de constancia.
+
+> Se modifica por el art. 2.12 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+### CAPÍTULO III — Inventario general de bienes muebles
+
+##### Art. 24.
+
+1\. El Inventario General comprenderá los bienes muebles integrantes del Patrimonio Histórico Español, no declarados de interés cultural, que tengan singular relevancia por su notable valor histórico, arqueológico, artístico, científico, técnico o cultural. Estará adscrito a la Dirección General de Bellas Artes y Archivos del Ministerio de Cultura que, a través de la Subdirección General de Protección del Patrimonio Histórico, desarrollará las funciones relativas a la formación y actualización del citado Inventario General.
+
+2\. Cada bien que se inscriba en el Inventario General tendrá un código de identificación.
+
+3\. Se anotarán en el Inventario General respecto a los bienes incluidos en el mismo, además de los datos recogidos en el extracto del expediente de inclusión a que se refiere el artículo 30, los siguientes:
+
+a) Fecha de inclusión del bien en el Inventario General.
+
+b) Las transmisiones por actos ínter vivos o mortis causa y los traslados de estos bienes.
+
+c) Los anticipos reintegrables previstos en el artículo 36.3 de la Ley 16/1985, concedidos por la Administración del Estado.
+
+4\. Las anteriores anotaciones y comunicaciones se efectuarán conforme a lo establecido en los apartados 3 c), 3 d) y 4 del artículo 21 de este Real Decreto.
+
+5\. El Inventario General sólo da fe de los actos consignados a los efectos previstos en la Ley 16/1985.
+
+6\. Las Comunidades Autónomas colaborarán con el inventario general a los efectos previstos en este artículo.
+
+> Se añade el apartado 6 por el art. 2.13 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 53, de 3 de marzo de 1986. [Ref. BOE-A-1986-5528](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-5528)
+
+##### Art. 25.
+
+1\. No se permitirá la consulta pública de los datos relativos a la situación jurídica, localización y valoración económica de los bienes sin el consentimiento expreso del titular, conforme a lo dispuesto en el artículo 57.1.c) de la Ley 16/1985.
+
+2\. En el caso de que falte el consentimiento del titular para informar sobre la localización del bien y si existe una solicitud razonada para su estudio con fines de investigación debidamente acreditados, la Subdirección General de Protección del Patrimonio Histórico lo comunicará al organismo competente para la protección del bien a fin de que acuerde las medidas oportunas para el acceso al mismo, sin desvelar en ningún caso los datos a que hace referencia el apartado anterior.
+
+##### Art. 26.
+
+1\. A los solos efectos de facilitar la elaboración del Inventario General, la obligación de comunicación que la Ley 16/1985 en su artículo 26.4 señala a los propietarios o poseedores y a las personas o entidades que ejerzan habitualmente el comercio de los bienes muebles integrantes del Patrimonio Histórico Español, se circunscribe a los siguientes bienes:
+
+a) Bienes que tengan incoado expediente para su inclusión en el Inventario General en tanto aquél no se resuelva.
+
+b) Bienes que formen parte del Patrimonio Histórico Español, cuyo valor económico sea igual o superior a las cantidades que a continuación se indican:
+
+1\. 15.000.000 de pesetas cuando se trate de obras pictóricas y escultóricas de menos de cien años de antigüedad.
+
+2\. 10.000.000 de pesetas en los casos de obras pictóricas de cien o más años de antigüedad.
+
+3\. 10.000.000 de pesetas cuando se trate de colecciones o conjuntos de objetos artísticos, culturales y antigüedades.
+
+4\. 7.000.000 de pesetas cuando se trate de obras escultóricas, relieves y bajo relieves con cien o más años de antigüedad.
+
+5\. 7.000.000 de pesetas en los casos de colecciones de dibujos, grabados, libros, documentos e instrumentos musicales.
+
+6\. 7.000.000 de pesetas cuando se trate de mobiliario.
+
+7\. 5.000.000 de pesetas en los casos de alfombras, tapices y tejidos históricos.
+
+8\. 3.000.000 de pesetas cuando se trate de dibujos, grabados, libros impresos o manuscritos y documentos unitarios en cualquier soporte.
+
+9\. 1.500.000 pesetas en los casos de instrumentos musicales unitarios de carácter histórico.
+
+10\. 1.500.000 pesetas en los casos de cerámica, porcelana y cristal antiguos.
+
+11\. 1.000.000 de pesetas cuando se trate de objetos arqueológicos.
+
+12\. 400.000 pesetas en los casos de objetos etnográficos.
+
+c) Los que el Gobierno determine mediante Real Decreto a propuesta del Ministro de Cultura.
+
+2\. Las personas o entidades a que se refiere el apartado anterior comunicarán por escrito al órgano encargado de la protección del Patrimonio Histórico Español de la Comunidad Autónoma en cuyo ámbito territorial radique el bien, la existencia de éste antes de proceder a su transmisión a terceros haciendo constar, en su caso, el precio convenido.
+
+> Se modifica el apartado 1.b) por el art. 2.14 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 27.
+
+1\. Las personas o entidades que ejerzan habitualmente el comercio de bienes muebles integrantes del Patrimonio Histórico deberán formalizar, ante el órgano competente de la protección de este Patrimonio en la correspondiente Comunidad Autónoma, un libro de Registro de las transacciones que efectúen sobre los bienes a que se refiere el artículo anterior.
+
+2\. Se anotarán en el libro de Registro los datos de las partes intervenientes en la transmisión del objeto y se describirá éste de forma sumaria, con especificación de su precio.
+
+3\. Sin perjuicio de las competencias de la respectiva Comunidad Autónoma y de las reconocidas a otros órganos por el ordenamiento jurídico, el Ministerio de Cultura tendrá también acceso a estos libros de Registro a los efectos de conocimiento y evaluación del Patrimonio Histórico Español.
+
+### CAPÍTULO IV — Inclusión de bienes en el Inventario General
+
+##### Art. 28.
+
+Sin perjuicio de lo dispuesto en el artículo siguiente, el Ministerio de Cultura, en colaboración con los órganos de las Comunidades Autónomas encargados de la protección del Patrimonio Histórico Español, confeccionará el Inventario general de bienes muebles.
+
+> Se modifica por el art. 2.15 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 29.
+
+1\. La inclusión en el Inventario general corresponde al Ministerio de Cultura si se trata de bienes adscritos a servicios públicos gestionados por la Administración General del Estado o que formen parte del Patrimonio Nacional. Los expedientes tramitados por el Ministerio de Cultura se ajustarán a las normas contenidas en este capítulo.
+
+2\. Corresponde a las Comunidades Autónomas la inclusión de bienes en el Inventario general en los restantes casos, cuya tramitación se regirá por su propia normativa.
+
+> Se modifica por el art. 2.16 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 30.
+
+1\. La incoación del expediente se efectuará de oficio o a solicitud de los interesados.
+
+2\. Dicha incoación se notificará en todo caso a los interesados, procediéndose a su anotación preventiva en el Inventario general. Esta anotación deberá contener una descripción suficiente del bien para su identificación.
+
+3\. El expediente se tramitará siguiendo las normas generales de procedimiento administrativo y las particulares del presente capítulo.
+
+4\. El Ministerio de Cultura comunicará a los interesados la inclusión del bien mueble en el Inventario general, indicando el código de identificación.
+
+> Se modifica por el art. 2.17 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+### CAPÍTULO V — Exclusión de bienes del Inventario General
+
+##### Art. 31.
+
+En los supuestos del artículo 29.1 de este Real Decreto corresponde al Ministerio de Cultura tramitar el expediente administrativo para acordar la exclusión de un bien del Inventario general.
+
+Dicho expediente podrá iniciarse de oficio o a solicitud del titular de un interés legítimo y directo.
+
+La incoación, notificación y tramitación del expediente se efectuarán en los términos previstos en el artículo 30 de este Real Decreto.
+
+En los supuestos del artículo 29.2 de este Real Decreto corresponde a las Comunidades Autónomas tramitar, con arreglo a su propia normativa, el expediente administrativo para acordar la exclusión de un bien del Inventario general.
+
+> Se modifica por el art. 2.18 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 32.
+
+1\. El Ministerio de Cultura comunicará a los interesados la resolución adoptada.
+
+2\. La exclusión de un bien del Inventario general cancelará su inscripción en éste.
+
+> Se modifica por el art. 2.19 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+### CAPÍTULO VI — Elaboración del Censo de los bienes integrantes del Patrimonio Documental y del Catálogo Colectivo de los bienes integrantes del Patrimonio Bibliográfico
+
+> Se modifica la rúbrica por el art. 2.20 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+#### Sección 1.ª Integración y exclusión de fondos de titularidad privada del Patrimonio Bibliográfico y Documental
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.21 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Arts. 33 y 34.
+
+**(Suprimidos)**
+
+> Se suprimen por el art. 2.21 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+#### Sección 2.ª Elaboración del Censo y del Catálogo colectivo
+
+**(Suprimido)**
+
+> Se suprime el rótulo por el art. 2.22 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 35.
+
+El Ministerio de Cultura, en colaboración con las Administraciones de las Comunidades Autónomas, confeccionará el Censo de los bienes integrantes del Patrimonio Documental y el Catálogo colectivo de los bienes integrantes del Patrimonio Bibliográfico.
+
+##### Art. 36.
+
+El Censo comprenderá la información básica sobre archivos, colecciones y fondos de documentos, entendidos éstos como toda expresión en lenguaje natural o convencional y cualquier otra expresión gráfica, sonora o en imagen, recogidas en todo tipo de soporte material, incluso los soportes informáticos, de acuerdo con lo previsto en el artículo 49 de la Ley 16/1985. Estará adscrito a la Dirección General de Bellas Artes y Archivos.
+
+El Catálogo colectivo comprenderá la información básica sobre bibliotecas, colecciones y ejemplares de materiales bibliográficos de carácter unitario o seriado en escritura manuscrita o impresa y sobre los ejemplares producto de ediciones de películas cinematográficas, discos, fotografías, materiales audiovisuales y otras similares, cualquiera que sea su soporte material, que integran el Patrimonio Bibliográfico a que se refiere el artículo 50 de la Ley 16/1985, y estará adscrito a la Dirección General del Libro y Bibliotecas.
+
+##### Art. 37.
+
+1\. La competencia para efectuar la recogida de datos, a fin de confeccionar el Censo y el Catálogo colectivo, se determinará por las disposiciones contenidas en el artículo 11 de este Real Decreto.
+
+2\. **(Suprimido)**
+
+3\. A los efectos de facilitar la elaboración del Censo y del Catálogo colectivo, el Ministerio de Cultura podrá establecer convenios de colaboración con las Comunidades Autónomas.
+
+> Se suprime el apartado 2 por el art. 2.23 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 38.
+
+El Ministerio de Cultura, oído el Consejo del Patrimonio Histórico, diseñará los modelos de descripción y formulará las instrucciones técnicas de recogida, tratamiento y remisión de las informaciones por la Administración competente, para su integración por dicho Ministerio en las bases de datos correspondientes al Censo y Catálogo colectivo. No obstante, ambas Administraciones podrán convenir el tratamiento informático parcial o total por la Comunidad Autónoma respectiva de modo que quede garantizada la integración técnica en las correspondientes bases de datos.
+
+##### Art. 39.
+
+Será de aplicación a la consulta pública de los datos relativos a la situación jurídica, localización y valoración económica de los bienes incluidos en el Censo y en el Catálogo colectivo lo dispuesto en el artículo 25.
+
+No obstante, en el caso de solicitud razonada para estudio del bien con fines de investigación debidamente acreditados a que se refiere el apartado 2 del artículo 25, se aplicarán las limitaciones que se derivan de lo establecido en los artículos 52.3 y 57.1, c), de la Ley 16/1985.
+
+## TÍTULO III
+
+### De la transmisión y exportación de bienes integrantes del Patrimonio Histórico Español
+
+### CAPÍTULO I — Enajenación
+
+##### Art. 40.
+
+1\. Quien tratare de enajenar un bien que haya sido declarado de Interés Cultural, o que tenga incoado expediente para su declaración, o esté incluido en el Inventario General, deberá notificarlo al órgano de la Comunidad Autónoma correspondiente encargado de la protección del Patrimonio Histórico Español y al Ministerio de Cultura, declarando el precio y las condiciones en que se proponga realizar la enajenación. En la notificación se consignará el Código de identificación del bien o, en su caso, el número de anotación preventiva.
+
+1.bis. En los supuestos de inmuebles situados en conjuntos históricos afectados por expedientes de declaración de interés cultural, la obligación de notificación se circunscribe a los que reúnan las condiciones señaladas en el artículo 61.2 de este Real Decreto.
+
+2\. Los subastadores, con un plazo de antelación no superior a seis semanas ni inferior a cuatro, deberán notificar a los citados organismos las subastas públicas en las que se pretenda enajenar cualquier bien integrante del Patrimonio Histórico Español, mediante la remisión de los datos que figurarán en los correspondientes catálogos.
+
+3\. La determinación de la Comunidad Autónoma que, a los efectos de este capítulo, ha de ser notificada, se realizará de acuerdo con los siguientes criterios:
+
+a) Cuando se trate de Bienes de Interés Cultural o incluidos el inventario General, será la correspondiente al lugar de ubicación del bien que conste en el Registro General o en el Inventario General a que se refieren los artículos 21 y 24, respectivamente.
+
+b) En el caso de bienes que tengan incoado expediente para su declaración de Interés Cultural o su inclusión en el Inventario General será la que ha incoado dicho expediente.
+
+c) Respecto a los demás bienes integrantes del Patrimonio Histórico Español será la de ubicación del bien en el momento en que se efectúe la subasta.
+
+4\. La Comunidad Autónoma competente podrá ejercer los derechos de tanteo y retracto sobre los bienes referidos en los términos previstos en el artículo 38.4 de la Ley 16/1985.
+
+> Se añade el apartado 1.bis por el art. 3.1 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 41.
+
+1\. Dentro de los dos meses siguientes a la notificación prevista en el artículo anterior, la Administración del Estado, a través del Ministerio de Cultura, podrá hacer uso del derecho de tanteo para sí, para una entidad benéfica o para cualquier entidad de derecho público, previo informe de la Junta de Calificación, Valoración y Exportación de Bienes del Patrimonio Histórico Español, obligándose al pago del precio convenido o, en su caso, el de remate, en un período no superior a dos ejercicios económicos, salvo acuerdo con el interesado en otra forma de pago. En el indicado plazo de dos meses se comunicará al vendedor el ejercicio de este derecho.
+
+2\. En el caso de subastas publicas no será preceptivo el dictamen de la Junta de Calificación, Valoración y Exportación, y la Administración del Estado podrá ejercer el derecho de tanteo mediante la comparecencia de un representante del Ministerio de Cultura en la subasta, el cual, en el momento en que se determine el precio de remate del bien subastado, manifestará el propósito de hacer uso de tal derecho, quedando en suspenso la adjudicación del bien. En un plazo de siete días hábiles, a partir de la celebración de la subasta, se comunicará al subastador el ejercicio del derecho de tanteo.
+
+3\. En todo caso, la Orden por la que se acuerda ejercitar el derecho de tanteo se publicará en el «Boletín Oficial del Estado», sin perjuicio de su eficacia desde la comunicación.
+
+4\. Lo dispuesto en el apartado 1 se aplicará en los términos del artículo 38.4 de la Ley 16/1985.
+
+> Se añade el apartado 4 por el art. 3.2 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 42.
+
+Cuando el propósito de la enajenación no se hubiere notificado correctamente, la Administración del Estado, a través del Ministerio de Cultura, podrá ejercitar en los mismos términos previstos para el derecho de tanteo, el de retracto en el plazo de seis meses, a partir de la fecha en que tuviera conocimiento fehaciente de la enajenación. Todo ello en los términos de lo previsto en el artículo 38.4 de la Ley 16/1985.
+
+La Orden por la que se acuerde ejercitar el derecho de retracto se notificará al vendedor y al comprador en el plazo que antecede y se publicará, además, en el «Boletín Oficial del Estado».
+
+> Se añade un inciso al párrafo primero por el art. 3.3 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 43.
+
+A partir de la publicación de las referidas Ordenes, el bien sobre el que se ha ejercitado el derecho de tanteo o de retracto quedará bajo la custodia del Ministerio de Cultura en el lugar que designe, pudiendo también acordar que quede bajo la custodia de sus propietarios en concepto de depósito con las garantías que al efecto determine.
+
+##### Art. 44.
+
+La enajenación de los bienes muebles que forman parte del Patrimonio Histórico Español efectuada en contravención de lo dispuesto en el artículo 28 y en la Disposición transitoria quinta de la Ley 16/1985, es nula, correspondiendo al Ministerio Fiscal ejercitar, en defensa de la legalidad y del interés publico y social, las acciones de nulidad en los procesos civiles.
+
+### CAPÍTULO II — Exportación
+
+##### Art. 45.
+
+1\. A los efectos del presente Real Decreto, se entiende por exportación la salida del territorio español de cualquiera de los bienes que integran el Patrimonio Histórico Español, incluidas aquellas que tengan por destino los países de la Unión Europea.
+
+2\. Requiere permiso expreso y previo del Ministerio de Cultura la exportación, incluso de carácter temporal, de los bienes integrantes del Patrimonio Histórico Español con cien o más años de antigüedad, o que estén incluidos en el Inventario General o tengan incoado expediente para su inclusión.
+
+3\. Igual permiso requiere la exportación temporal de los bienes declarados de Interés Cultural o de los que tengan incoado expediente para esta declaración, así como la de aquellos otros que, por su pertenencia al Patrimonio Histórico Español, el Ministerio de Cultura declare expresamente inexportables, como medida cautelar hasta que se incoe expediente para incluir el bien en alguna de las categorías de protección especial previstas en la Ley 16/1985.
+
+4\. La concesión por el Ministerio de Cultura de estos permisos de exportación no eximirá del cumplimiento de las formalidades y requisitos que rigen con carácter general el comercio exterior.
+
+> Se modifica el apartado 1 por el art. 3.4 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+#### Sección 1.ª Permiso de exportación
+
+##### Art. 46.
+
+1\. En la solicitud del permiso de exportación de los bienes a que se refiere el apartado 2 del artículo anterior deberán constar, como mínimo, los siguientes datos:
+
+a) Respecto al solicitante, titulo jurídico del mismo y compromiso de permitir el examen o depósito del bien.
+
+b) Respecto al bien, el código de identificación, si lo tuviera, y, en su defecto, declaración acerca de si existe expediente incoado para la inclusión en el Inventario General y lugar donde el bien se encuentra.
+
+c) Declaración del valor del bien, hecha por el solicitante, salvo que se trate de bienes importados en los términos previstos en el artículo 32 de la Ley 16/1985.
+
+2\. Cuando el bien no esté incluido en el Inventario General, se unirá a la solicitud la siguiente documentación:
+
+― Cuatro fotografías del objeto en tamaño mínimo de 8 por 12 centímetros, o reproducciones en el soporte adecuado a la naturaleza del bien, tanto de conjunto como de detalle si el objeto lo requiere para su identificación o, en su caso, del anverso y reverso.
+
+―Descripción técnica del objeto especificando materia, procedimiento y dimensiones, así como época, escuela o autor, si se conociera. Descripción bibliográfica. En el caso de objetos de piedras o metales preciosos se especificará también el peso.
+
+―Fotocopia de la declaración a que se refiere el apartado siguiente, cuando se trate de bienes importados en los términos señalados en el artículo 32 de la Ley 16/1985.
+
+3\. Para la identificación del bien importado, y a los efectos del artículo 32 de la Ley 16/1985, el titular de aquél presentará en, el momento de la importación, ante los servicios aduaneros, una declaración en ejemplar duplicado, según anexo numero 3, para ser sellada y conformada. Esta declaración deberá presentarse ante la Dirección General de Bellas Artes y Archivos, dentro de los tres meses siguientes a la importación, la cual, una vez comprobados los datos, devolverá un ejemplar al titular.
+
+4\. Los servicios indicados en el número tres anterior no diligenciarán ni tramitarán la declaración a que dicho número se refiere si existen indicios suficientes sobre la ilicitud de la importación o entrada del bien.
+
+> Se modifica el párrafo primero del apartado 2 y se añade el apartado 4 por el art. 3.5 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 47.
+
+1\. La solicitud del permiso de exportación se remitirá al Ministerio de Cultura, salvo en las Comunidades Autónomas que tengan asumidas competencias de tramitación de estas solicitudes.
+
+2\. En las Comunidades Autónomas que tengan asumidas competencias en materia de exportación de bienes integrantes del Patrimonio Histórico Español, la solicitud relativa a los bienes ubicados en el ámbito territorial de esa Comunidad Autónoma deberá tramitarse ante los órganos competentes de la misma. La denegación de la solicitud pondrá fin al expediente y deberá ser comunicada al Ministerio de Cultura a los efectos previstos en el artículo 50.2. En el caso de que no se deniegue la solicitud se dará traslado del expediente al Ministerio de Cultura para su resolución definitiva.
+
+3\. La Junta de Calificación, Valoración y Exportación de Bienes del Patrimonio Histórico Español dictaminará estas solicitudes. A tal efecto podrá acordar, cuando las circunstancias lo aconsejen, que los bienes cuyo permiso de exportación se solicita sean depositados en un establecimiento para su examen.
+
+Dicha Junta podrá exigir al solicitante que acredite documentalmente su propiedad sobre el objeto o que está autorizado por su propietario para la venta o exportación del mismo.
+
+##### Art. 48.
+
+1\. La Dirección General de Bellas Artes y Archivos, visto el dictamen de la Junta de Calificación, Valoración y Exportación de Bienes del Patrimonio Histórico Español, resolverá las solicitudes de permiso de exportación.
+
+2\. La resolución por la que se deniegue el permiso de exportación de un bien que no esté incluido en alguna de las categorías de protección especial previstas en la Ley 16/1985, deberá contener el acuerdo de requerir a la Comunidad Autónoma en cuyo ámbito está ubicado aquél para que incoe expediente a efectos de su inclusión en una de estas categorías de protección.
+
+3\. La Dirección General de Bellas Artes y Archivos extenderá un certificado de la resolución por la que se concede el permiso para la exportación del bien, que deberá acompañar al mismo.
+
+4\. El permiso de exportación de un bien incluido en el Inventario General cancelará su inscripción en el mismo.
+
+##### Art. 49.
+
+La resolución de la solicitud de permiso de exportación deberá dictarse en el plazo de tres meses, a partir de la fecha en que dicha solicitud haya tenido entrada en cualquiera de los registros del órgano administrativo competente. Transcurrido este plazo sin que haya recaído resolución expresa, podrá entenderse que aquélla es estimatoria de la solicitud.
+
+Para la eficacia de las resoluciones presuntas a que se refiere el párrafo anterior se requiere la emisión, por la Dirección General de Bellas Artes y Archivos del Ministerio de Cultura, de la certificación prevista en el artículo 44 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en el plazo de veinte días desde que fue solicitada a dicha Dirección General o que, habiendo solicitado dicha emisión, ésta no se haya producido transcurrido el citado plazo.
+
+En el transcurso del plazo para la emisión de la certificación se podrá resolver expresamente sobre la solicitud, sin vinculación con los efectos atribuidos a la resolución presunta cuya certificación se ha solicitado.
+
+> Se modifica por el art. 3.6 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 50.
+
+1\. La declaración del valor del bien objeto de la solicitud de salida definitiva hecha por el solicitante será considerada oferta de venta irrevocable en favor de la Administración General del Estado, siendo su precio el valor señalado. Los mismos efectos tendrá la solicitud de autorización de salida temporal con posibilidad de venta en el extranjero.
+
+2\. Cuando no se conceda el permiso para la exportación, la Administración del Estado, a través del Ministerio de Cultura, dispondrá de seis meses, a partir de la resolución, para aceptar la oferta de venta, y de un año, desde la aceptación, para efectuar el pago que proceda.
+
+3\. La aceptación de esta oferta de venta por la Administración del Estado se acordará mediante Orden del Ministerio de Cultura, que se notificará al interesado. A partir de esta notificación el bien quedara bajo la custodia del citado Ministerio en el lugar que designe, pudiendo también acordar que quede bajo la custodia de sus propietarios en concepto de deposito con las garantías que al efecto determine.
+
+4\. El incumplimiento por parte de la Administración del Estado de los plazos señalados en este artículo supondrá la caducidad de su derecho de adquisición y se reintegrará a su titular en la libre disposición del bien.
+
+> Se modifica el apartado 1 por el art. 3.7 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 51.
+
+El Ministerio de Cultura, cuando las circunstancias lo aconsejen podrá declarar inexportable un determinado bien integrante del Patrimonio Histórico como medida cautelar hasta que se incoe expediente para incluir al bien en alguna de las categorías de protección especial previstas en la Ley 16/1985. En la Orden que efectúe esta declaración se acordará requerir a la Comunidad Autónoma en cuyo ámbito territorial se encuentre este bien para que incoe el correspondiente expediente.
+
+#### Sección 2.ª Permiso de exportación temporal
+
+##### Art. 52.
+
+1\. En la solicitud del permiso para la exportación temporal de los bienes a que se refieren los apartados 2 y 3 del artículo 45 se consignarán, como mínimo, los siguientes datos:
+
+a) Respecto al solicitante, título jurídico del mismo y compromiso de permitir el examen o deposito del bien.
+
+b) En relación con el bien objeto de la exportación temporal, su código de identificación, si lo tuviera y, en su defecto, declaración acerca de si existe expediente incoado para la inclusión en alguna de las categorías de protección especial previstas en la Ley 16/1985; el lugar en que se encuentra el bien.
+
+c) Finalidad y duración de la exportación cuyo permiso se solicita.
+
+2\. Cuando el bien no esté declarado de interés cultural ni incluido en el Inventario General se unirá a la solicitud la documentación exigida en el artículo 46.2.
+
+3\. En los supuestos de bienes de titularidad pública se adjuntará un informe detallado del responsable del centro o persona autorizada sobre las circunstancias que aconsejan la salida del bien, sus características, estado de conservación y medidas de seguridad adaptadas.
+
+> Se añade el apartado 3 por el art. 3.8 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 53.
+
+La tramitación de las solicitudes de permiso de exportación temporal se regirá por lo dispuesto en el artículo 47, pero la Junta de Calificación, Valoración y Exportación deberá proponer las condiciones de retorno y demás garantías que estime convenientes para la conservación del bien.
+
+##### Art. 54.
+
+La resolución de estas solicitudes se regirá por lo dispuesto en los artículos 48 y 49, con las siguiente salvedades:
+
+1\. La resolución por la que se permite la exportación temporal deberá contener las condiciones del retorno y demás garantías que se establezcan para la conservación del bien que se exporta.
+
+2\. Cuando se trate de Bienes de Interés Cultural o de bienes declarados inexportables, la resolución deberá ser siempre expresa y requerirá en todo caso dictamen previo de la Junta de Calificación, Valoración y Exportación.
+
+3\. El permiso de exportación temporal se anotará, en su caso, en el Registro o en el inventario a que se refieren los artículos 21 y 24, respectivamente.
+
+##### Art. 54 bis.
+
+La salida temporal del bien no interrumpe el plazo de diez años a que se refiere el artículo 32 de la Ley 16/1985.
+
+> Se añade por el art. 3.9 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 55.
+
+El incumplimiento de las condiciones del retorno a España de los bienes cuya exportación temporal ha sido permitida tendrá la consideración de exportación ilícita.
+
+##### Art. 56.
+
+1\. El período máximo ininterrumpido de estancia en el exterior que puede permitirse será de cinco años, renovable por períodos de inferior o igual duración hasta diez años, cuando se trate de bienes comprendidos en el apartado 3 del artículo 45, y hasta veinte años en los demás casos.
+
+2\. Transcurrido el plazo máximo autorizado, el bien deberá retornar a España para su examen. Efectuado el retorno se podrá solicitar nuevamente el permiso de salida temporal.
+
+3\. Excepcionalmente, la Dirección General de Bellas Artes y Archivos podrá acordar, cuando las circunstancias lo aconsejen, sustituir el retorno del bien por el examen que al efecto encomiende al servicio diplomático.
+
+##### Art. 57.
+
+El permiso para la exportación temporal de los bienes del Patrimonio Bibliográfico custodiado en las bibliotecas a las que se refiere el artículo 60 de la Ley 16/1985 que no hayan sido objeto de una declaración específica de bien de interés cultural ni incluidos de forma singular en el Inventario General, y cuando dicha salida se efectúe conforme a las reglas y usos aplicables a los préstamos internacionales, se regirá por las siguientes normas:
+
+1.ª La solicitud del permiso se dirigirá al Director general del Libro y Bibliotecas, y en la misma se harán constar los datos suficientes para la identificación del bien, su localización y la finalidad y duración de la salida temporal que se solicita.
+
+2.ª Tendrá carácter prioritario el dictamen de esta solicitud, que podrá efectuarse por la sección de la Junta de Calificación, Valoración y Exportación que el pleno designe con carácter general.
+
+3.ª Por razones de urgencia y a petición razonada de la Entidad solicitante, el Director general del Libro y Bibliotecas podrá resolver sin el previo dictamen de la Junta. La resolución por la que se permita la salida temporal deberá contener las condiciones de retorno y demás garantías que se establezcan para la conservación del bien que se exporta.
+
+### CAPÍTULO III — De la expoliación del Patrimonio Histórico Español.
+
+> Se añade por el art. 3.10 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 57 bis
+
+1\. Toda denuncia o información que el Ministerio de Cultura reciba acerca de un bien que reúna las circunstancias señaladas en el artículo 4 de la Ley 16/1985 puede ser trasladada urgentemente a cualesquiera de las instituciones consultivas de la Administración General del Estado sobre Patrimonio Histórico Español.
+
+2\. Sin perjuicio de lo dispuesto en el apartado 5 de este artículo, obtenida información suficiente para entender que un bien está siendo expoliado o se encuentra en peligro de serlo, el Ministerio de Cultura, de oficio o a propuesta de cualquier persona física o jurídica, y oída la Comunidad Autónoma, puede declarar por Orden ministerial la situación en que se encuentra el bien citado y las medidas conducentes a evitar la expoliación.
+
+3.a) La ejecución de las medidas declaradas en la Orden ministerial corresponde al titular del bien o, subsidiariamente, a la Administración competente, a la que se requerirá a tales efectos.
+
+b) Cuando las medidas debieran ser adoptadas por el titular, en caso de incumplimiento de éste serán puestas en práctica por la Administración competente a costa de aquél.
+
+c) Cuando la Administración competente desatendiera el requerimiento a que se refiere el apartado 3.a) del presente artículo, la Administración General del Estado, a través del Ministerio de Cultura y con la colaboración de los demás departamentos que sea precisa, puede ejecutar por sí misma las medidas declaradas, incluso cautelarmente.
+
+4.a) Si la expoliación no pudiera presumiblemente evitarse entretanto se dicta la Orden ministerial, el Ministro de Cultura podrá interesar del órgano competente de la Comunidad Autónoma la adopción con urgencia de las medidas conducentes a evitar la expoliación, expresando plazo concreto.
+
+b) Desatendido el requerimiento, el Ministro de Cultura podrá ejecutar las medidas urgentes con la colaboración de los entes públicos competentes. De todo ello se dará cuenta a la Comisión de la Comunidad Europea.
+
+5.a) El procedimiento anteriormente expuesto está sometido a los principios administrativos de celeridad y eficacia, debiendo analizarse en cada caso concreto si de la intervención de la Administración General del Estado se deducen o pueden deducirse consecuencias positivas inmediatas y efectivas para la real protección del bien.
+
+b) La intervención de la Administración General del Estado no se producirá cuando la Comunidad Autónoma haya adoptado o esté adoptando las medidas de protección previstas en la Ley 16/1985 o en su propia legislación, y el Ministerio de Cultura estime que son adecuadas y suficientes para la recuperación del bien.
+
+> Se añade por el art. 3.10 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1986-2277](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-2277)
+
+## TÍTULO IV — De las medidas de fomento
+
+##### Art. 58.
+
+1\. En el presupuesto de cada obra pública, financiada total o parcialmente por el Estado, se incluirá una partida equivalente, al menos, al 1 por 100 de los fondos que sean de aportación estatal con destino a financiar trabajos de conservación o enriquecimiento del Patrimonio Histórico Español o de fomento de la creatividad artística, con preferencia en la propia obra o en su inmediato entorno. Se entenderá cumplida esta exigencia cuando las obras públicas tengan por objeto actuaciones de reparación o conservación en bienes inmuebles integrantes del Patrimonio Histórico Español.
+
+2\. Se exceptúan de lo dispuesto en el apartado anterior las siguientes obras públicas:
+
+a) Aquellas cuyo presupuesto total no exceda de 601.012,104 euros.
+
+b) Las que afecten a la seguridad y defensa del Estado, así como a la seguridad de los servicios públicos.
+
+3\. El organismo público responsable de la obra manifestará en el proyecto de la misma que presente ante el Comité de Inversiones Públicas para la elaboración del Plan Trienal de Inversiones Públicas o al Ministerio de Educación, Cultura y Deporte cuando no se haya presentado el proyecto de la obra a dicho Comité, la opción que elige de las que a continuación se indican, para el destino de los fondos correspondientes al 1 por 100:
+
+a) Financiar trabajos, de conservación o de enriquecimiento del Patrimonio Histórico Español o de fomento de la creatividad artística, incluidos en los planes a que se refiere el apartado 4 de este artículo.
+
+b) Realizar trabajos de conservación o de enriquecimiento del Patrimonio Histórico Español con preferencia en la propia obra o en su inmediato entorno, o en cualesquiera de los bienes de interés cultural relacionados con las actividades del organismo correspondiente.
+
+Para la redacción de los programas y proyectos a que se refiere el párrafo anterior deberá solicitarse la colaboración del Ministerio de Educación, Cultura y Deporte a través de la Dirección General de Bellas Artes y Bienes Culturales que desarrolla las funciones de la Administración General del Estado relativas al Patrimonio Histórico Español, o del Ministerio de Fomento, en cuanto a sus competencias en las actuaciones sobre el patrimonio arquitectónico y de ingeniería civil a cargo del Estado, sin perjuicio, además, de recabar las autorizaciones requeridas de acuerdo con lo dispuesto en la Ley 16/1985. En todo caso, se dará cuenta al Ministerio de Educación, Cultura y Deporte de los proyectos de estos trabajos y de su ejecución, bien por programas anuales o por cada una de las obras a realizar.
+
+4\. El Ministerio de Educación, Cultura y Deporte, oído el Consejo del Patrimonio Histórico, elaborará los planes anuales de conservación y enriquecimiento del citado Patrimonio y de fomento de la creatividad artística, que serán financiados con los fondos transferidos.
+
+5\. La Intervención General de la Administración General del Estado no fiscalizará de conformidad propuesta de gasto alguno en tanto no se acredite la retención del crédito preciso para los trabajos a que se refiere el apartado 1 de este artículo, cuando resulte legalmente exigible.
+
+Tales retenciones de crédito, cuando no se haya elegido la opción establecida en el apartado 3.b) de este artículo, no podrán ser revocadas, debiendo comunicarse a la Dirección General de Presupuestos del Ministerio de Hacienda, en el plazo de los dos meses siguientes a la aprobación del presupuesto de la obra, a efectos de que se autorice el correspondiente incremento de crédito en el presupuesto del Ministerio de Educación, Cultura y Deporte.
+
+6\. Los organismos autónomos, para los que no sea posible repercutir en la transferencia que reciban del Estado las retenciones a que se refiere el apartado 5 de este artículo, las entidades públicas empresariales y restantes entes del Sector Público Estatal, y las sociedades mercantiles estatales, ingresarán el preceptivo 1 por 100 en el Tesoro Público dentro de los dos meses siguientes a la adjudicación del contrato de la obra correspondiente. Estos ingresos generarán crédito, de conformidad con lo dispuesto en el artículo 71.a) del texto refundido de la Ley General Presupuestaria, a favor del Ministerio de Educación, Cultura y Deporte o del Departamento ministerial de adscripción de los citados organismos, entes públicos y sociedades, cuando exista Acuerdo Interministerial con el Ministerio de Educación, Cultura y Deporte sobre actuaciones conjuntas relacionadas con el Patrimonio Histórico Español. Estos ingresos se destinarán a la financiación de los trabajos a que se refieren los apartados anteriores de este artículo, para lo cual dichos organismos deberán enviar el resguardo complementario, a los efectos de la habilitación del crédito correspondiente, al citado Ministerio de Educación, Cultura y Deporte o, en su caso, al de su adscripción.
+
+> Se modifica por el art. único del Real Decreto 162/2002, de 8 de febrero. [Ref. BOE-A-2002-2641](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2641)
+
+> Se deroga el procedimiento de transferencia de crédito al Ministerio de Cultura por el art. 20.2 de la Ley 33/197, de 23 de diciembre. [Ref. BOE-A-1987-28404](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-28404)
+
+##### Art. 59.
+
+1\. En las obras públicas que se construyan y exploten por particulares en virtud de concesión administrativa del Estado y sin la participación financiera de éste, se destinará el 1 por 100 del presupuesto total a la financiación de los trabajos previstos en el artículo anterior y con las mismas excepciones.
+
+2\. Se hará constar en el contrato de la obra pública la opción elegida por el concesionario de entre las siguientes:
+
+a) Financiar los trabajos de conservación o enriquecimiento del Patrimonio Histórico Español o de fomento de la creatividad artística incluidos en los planes a que se refiere el apartado 4 del artículo anterior.
+
+A tal efecto el concesionario ingresará en el Tesoro Público el correspondiente 1 por 100 que generará el oportuno crédito para este concepto del Ministerio de Cultura. Para formalizar el contrato de la obra pública será necesario acreditar este ingreso, aportando el resguardo complementario del ingreso que servirá para la habilitación del crédito.
+
+b) Realizar los trabajos de conservación o de enriquecimiento del Patrimonio Histórico Español con preferencia en la propia obra o en su inmediato entorno, en los términos previstos en el párrafo b) del apartado 3 del artículo anterior.
+
+El concesionario deberá acreditar ante el órgano concedente al finalizar la correspondiente obra pública, la ejecución de estos trabajos.
+
+En el caso de que no se acredite dicho cumplimiento el órgano concedente, de oficio o a instancia del Ministerio de Cultura, ordenará en el momento de proceder a la devolución de las fianzas, el ingreso en el Tesoro Público, del 1 por 100 a que se refiere este artículo, y el envío del resguardo complementario para habilitación de crédito al Ministerio de Cultura, a efectos del subsiguiente expediente de generación de crédito.
+
+3\. Cuando en el contrato no conste alguna de las opciones que anteceden se entenderá que se opta por el ingreso del 1 por 100 en el Tesoro Público, siendo de aplicación lo dispuesto en el aparrtado 2.a) de este artículo.
+
+##### Art. 60.
+
+El Ministro de Cultura elevará al Gobierno, cada año, un informe sobre el grado de cumplimiento de lo dispuesto en los artículos anteriores sobre consignación y destino de este 1 por 100, en el que también dará cuenta de la aplicación de los fondos transferidos al Ministerio de Cultura por este concepto.
+
+##### Art. 61.
+
+1\. Los inmuebles comprendidos en una zona arqueológica e incluidos como objeto de especial protección en el instrumento de planeamiento urbanístico a que se refiere el artículo 20 de la Ley 16/1985 tendrá la consideración de inscritos en el Registro de Bienes de Interés Cultural a los efectos fiscales previstos en los artículos 70, 71 y 73 de dicha Ley.
+
+2\. Igual consideración y de los mismos efectos tendrán los inmuebles comprendidos en un sitio histórico o conjunto histórico que reúnan las condiciones siguientes:
+
+a) Contar con una antigüedad igual o superior a cincuenta años.
+
+b) Estar incluido en el catalogo previsto en el artículo 86 del Reglamento de Planeamiento Urbanístico como objeto de protección integral en los terminos previstos en el artículo 21 de la Ley 16/1985.
+
+##### Art. 62.
+
+1\. Los contribuyentes del Impuesto sobre la Renta de las Personas Físicas tendrán derecho a una deducción de la cuota equivalente al 20 por 100 de las inversiones realizadas en la adquisición de bienes que estén inscritos en el Registro General de Bienes de Interés Cultural, siempre que el bien permanezca a disposición del titular durante un período de tiempo no inferior a tres años, y se formalice la obligación de comunicar la transmisión al Registro General de Bienes de Interés Cultural, conforme a lo establecido en el artículo 21 de este Real Decreto.
+
+2\. Asimismo, los gastos de conservación, reparación, restauración, difusión y exposición de los bienes que cumplan los requisitos establecidos en el apartado anterior, darán derecho a una deducción de la cuota del referido impuesto del 20 por 100 del importe de los mencionados gastos, en tanto en cuanto no hayan podido deducirse como gastos fiscalmente admisibles a efectos de determinar el rendimiento neto que, en su caso, procediere.
+
+3\. Los contribuyentes del Impuesto sobre la Renta de las Personas Físicas tendrán derecho a deducir de la cuota el 20 por 100 de las donaciones puras y simples que hicieren en bienes que formen parte del Patrimonio Histórico Español que estén inscritos en el Registro General de Bienes de Interés Cultural o incluidos en el Inventario General, siempre que se realicen en favor del Estado y demás entes públicos, así como de las que se lleven a cabo en favor de establecimientos, instituciones, fundaciones o asociaciones, incluso las de hecho de carácter temporal para arbitrar fondos, clasificadas o declaradas benéficas o de utilidad pública por los órganos competentes del Estado, cuyos cargos de patronos, representantes legales o gestores de hecho sean gratuitos, y se rindan cuentas al órgano de protectorado correspondiente.
+
+4\. La efectividad de las deducciones contenidas en los apartados anteriores requerirá que se cumplan los límites y requisitos previstos en la letra f) del artículo 29 de la Ley 44/1978, de 8 de septiembre, del Impuesto sobre la Renta de las Personas Físicas.
+
+##### Art. 63.
+
+1\. Los sujetos pasivos del Impuesto sobre Sociedades tendrá derecho a deducir de la cuota líquida resultante de minorar la cuota íntegra importe de las deducciones por doble imposición, y, en su caso, las bonificaciones a que se refiere el artículo 25 de la Ley del Impuesto sobre Sociedades, el 15 por 100 de las cantidades que se destinen a la adquisición, conservación, reparación, restauración, difusión y exposición de bienes que estén inscritos en el Registro General de Bienes de Interés Cultural, con las condiciones establecidas en el apartado 1 del artículo anterior.
+
+La deducción de tales inversiones se ajustará a los requisitos y límites previstos en la normativa del Impuesto sobre Sociedades.
+
+2\. En el Impuesto sobre Sociedades se considerarán partidas deducibles, de los rendimientos íntegros obtenidos a efectos de determinación de la base imponible, las donaciones puras y simples de bienes que formen parte del Patrimonio Histórico Español y que estén inscritos en el Registro General de Bienes de Interés Cultural o incluidos en el Inventario General, siempre que se cumplan los siguientes requisitos:
+
+a) El donatario será el Estado y demás Entes públicos, o establecimientos, instituciones, fundaciones o asociaciones, incluso las de hecho de carácter temporal para arbitrar fondos, clasificadas o declaradas benéficas o de utilidad pública por los órganos competentes del Estado, cuyos cargos de patronos, representantes legales o gestores de hechos sean gratuitos y se rindan cuentas al órgano de protectorado correspondiente.
+
+b) El importe del donativo, con derecho a ser deducible, no podrá exceder del 30 por 100 de la base imponible del sujeto pasivo que realiza la donación.
+
+c) El donante no deberá haberse acogido para esta donación a la deducción prevista en el artículo 123 del Reglamento del Impuesto sobre Sociedades.
+
+En lo no regulado expresamente en este apartado, se estará a lo dispuesto en los artículos 123 y siguientes del reglamento del Impuesto sobre Sociedades.
+
+3\. A efectos de lo previsto en el apartado anterior y en el apartado 3 del artículo 62, la Junta de Calificación, Valoración y Exportación efectuará la valoración de los bienes, a instancia del donante y en los términos previstos en el artículo 8.e) de este Real Decreto.
+
+> Redactados los apartados 2.c) y 3 conforme a las correcciones de errores publicadas en BOE núms. 26, de 30 de enero de 1986. [Ref. BOE-A-1986-2450](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-2450) y 53, de 3 de marzo de 1986. [Ref. BOE-A-1986-5528](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-5528)
+
+##### Art. 64.
+
+1\. Están exentas de todo tributo las importaciones de bienes muebles que sean incluidos en el Inventario General o declarados de interés cultural en base a la solicitud de incoación del respectivo expediente presentada por los propietarios o titulares de derechos reales sobre los mismos.
+
+2\. No obstante lo dispuesto en el apartado anterior, a efectos del Impuesto sobre el Valor Añadido, se aplicarán exclusivamente las exenciones a la importación previstas en el artículo 21 de la Ley 30/1985, de 2 de agosto.
+
+Por lo que se refiere a los derechos arancelarios se aplicará el régimen comunitario de franquicias aduaneras.
+
+3\. La solicitud a que se refiere el apartado anterior, que tendrá efectos suspensivos de la deuda tributaria, deberá presentarse ante alguno de los órganos siguientes:
+
+a) Departamento encargado de la protección del Patrimonio Histórico Español de la Comunidad Autónoma del lugar de residencia del solicitante.
+
+b) Embajada o Consulado de España en el país donde radique el bien cuya importación se pretende.
+
+4\. Con carácter general, en el momento de ser presentados los bienes a despacho, los servicios de aduanas, a solicitud de los interesados y previa justificación de haberse solicitado la incoación del citado expediente, podrán autorizar despachos provisionales por un plazo de seis meses prorrogable por idénticos períodos con garantía de los derechos exigibles con motivo de la importación, a reserva de la resolución oportuna.
+
+##### Art. 65.
+
+1\. El contribuyente que pretenda pagar la deuda tributaria del Impuesto de Sucesiones, del Impuesto sobre el Patrimonio, del Impuesto Temporal de Solidaridad de las Grandes Fortunas o del Impuesto sobre la Renta de las Personas Físicas mediante entrega de bienes integrantes del Patrimonio Histórico Español que estén inscritos en el Registro General de Bienes de Interés Cultural o en el Inventario General solicitará por escrito a la Junta de Calificación, Valoración y Exportación de Bienes del Patrimonio Español la valoración del bien, reseñando su código de identificación. Asimismo, manifestará por escrito su pretensión al tiempo de presentar la declaración correspondiente al impuesto de que se trate.
+
+En los casos de los Impuestos sobre la Renta, sobre el Patrimonio y de Solidaridad de las Grandes Fortunas, dicha manifestación tendrá por efecto la suspensión del procedimiento recaudatorio, sin perjuicio de la liquidación, en su caso, de los intereses de demora correspondientes.
+
+2\. La valoración del bien consistirá en su tasación por la Junta de Calificación, Valoración y Exportación en los términos previstos en el artículo 8 e). Esta valoración tendrá una vigencia de dos años y no vinculará al interesado que podrá pagar en metálico la deuda tributaria.
+
+3\. El contribuyente podrá, con arreglo al valor declarado por la Junta de Calificación, Valoración y Exportación, solicitar del Ministerio de Hacienda y Función Pública la admisión de esta forma de pago, quien decidirá, oído el Ministerio de Cultura y Deporte.
+
+4\. Aceptada la entrega de un determinado bien en pago de la deuda tributaria se estará respecto al destino del mismo a lo dispuesto en las leyes del Patrimonio del Estado y del Patrimonio Histórico Español.
+
+5\. A efectos de contabilización del ingreso de las deudas tributarias señaladas en este artículo cuyo pago se efectúe mediante entrega de bienes integrantes del Patrimonio Histórico Español, se habilitará por el Ministerio de Hacienda y Función Pública, Dirección General del Patrimonio del Estado, los créditos presupuestarios necesarios para efectuar el pago de formalización y cancelar las correspondientes deudas.
+
+6\. Las referencias de este artículo a órganos de la Administración General del Estado se entenderán efectuadas a los correspondientes órganos de las Comunidades Autónomas cuando se trate de tributos que les hayan sido cedidos.
+
+> Se modifica por la disposición final 1 de la Ley 38/2022, de 27 de diciembre. [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684)
+
+> Se modifica el apartado 6 por el art. 4 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Art. 66.
+
+Para disfrutar de la exención del Impuesto Extraordinario sobre el Patrimonio de las Personas Físicas prevista en el artículo 6.j) de la Ley 50/1977, sobre Medidas Urgentes de Reforma Fiscal para determinados bienes integrantes del Patrimonio Histórico Español, es necesaria la inscripción de los mismos en el Registro General de Bienes de Interés Cultural o en el Inventario General de bienes muebles.
+
+> Redactado conforme a la corrección de errores publicada en BOE num. 26, de 30 de enero. [Ref. BOE-A-1986-2450](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-2450)
+
+##### Disposición adicional primera.
+
+1\. Las autoridades competentes para la protección del Patrimonio Histórico Español solicitarán por escrito a los Gobernadores civiles su intervención, siempre que necesiten el auxilio de las Fuerzas y Cuerpos de Seguridad del Estado para garantizar el cumplimiento de lo dispuesto en la Ley 16/1985 y en especial para la ejecución de los actos previstos en los artículos 25 y 37 de la misma, sin perjuicio de las facultades que en materia de policía correspondan en su caso a las autoridades competentes de las Comunidades Autónomas y de los procedimientos específicos de coordinación dispuestos al efecto.
+
+2\. El grupo de investigación para la protección del Patrimonio Histórico Español adscrito al Servicio Central de la Policía Judicial y el Grupo de Patrimonio de la Unidad central operativa del servicio de policía judicial de la Guardia Civil actuarán, dentro de los respectivos ámbitos territoriales de competencia, en colaboración directa con el Ministerio de Cultura y con los órganos de las Comunidades Autónomas encargados de la ejecución de la Ley del Patrimonio Histórico Español en la investigación y persecución de las infracciones que contra ésta se realicen.
+
+El Ministerio de Cultura en colaboración con el de Interior facilitará al personal integrante de estos grupos la formación adecuada en el ámbito de su competencia para el cumplimiento de las funciones que tienen atribuidas. Al efecto, el Ministerio de Cultura prestará el asesoramiento y apoyo docentes en materia de protección del Patrimonio Histórico, sin perjuicio de la competencia de la División de Formación y Perfeccionamiento de la Dirección General de la Policía, y de la Escuela de Investigación Policial de la Guardia Civil.
+
+Asimismo, el Ministerio de Cultura prestará el asesoramiento, apoyo y cooperación necesarios en el desarrollo de los programas de formación básica y perfeccionamiento que elaboren al efecto los órganos encargados de la formación de los miembros de los Cuerpos Nacional de Policía y de la Guardia Civil que realicen funciones de policía judicial, y participará en los cursos que se organicen e impartan en sus centros, a fin de facilitar a los funcionarios asistentes los conocimientos precisos para la protección del Patrimonio Histórico Español.
+
+> Se modifica el apartado 2 por el art. 5.1 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Disposición adicional segunda.
+
+1\. Corresponde a la Dirección General de Bellas Artes y Archivos del Ministerio de Cultura la gestión de la tasa por permiso de exportación de bienes integrantes del Patrimonio Histórico Español establecida en el artículo 30 de la Ley 16/1985.
+
+2\. Para aplicar las tarifas a que se refiere el apartado e) del antedicho artículo 30, se determinará el valor del objeto cuya exportación se permite en base a la declaración de valor efectuada en la solicitud de permiso de exportación, contrastada con la realizada por la Junta de Calificación, Valoración y Exportación y, en su caso, con el informe de alguna de las instituciones consultivas a que se refiere el artículo 3.2 de la Ley 16/1985 citada, si la Dirección General de Bellas Artes y Archivos estimara oportuno recabar su asesoramiento. Prevalecerá la valoración efectuada por la Junta cuando sea superior a la declarada por el solicitante.
+
+3\. La liquidación de esta tasa corresponderá a la Dirección General de Bellas Artes y Archivos quien la practicará mediante las pertinentes notas de cargo que notificará a los obligados al pago en el momento del devengo.
+
+4\. Por aplicación directa del artículo 9 del Tratado Constitutivo de la Comunidad Económica Europea firmado en Roma el 25 de marzo de 1957, a partir de la entrada en vigor del acta de adhesión de España, esta tasa dejará de aplicarse respecto a las exportaciones con destino a Estados miembros de dicha Comunidad.
+
+##### Disposición adicional tercera.
+
+Los sujetos pasivos del Impuesto sobre Sociedades, titulares de bienes declarados de interés cultural o incluidos en el Inventario General de Bienes Muebles, podrán revalorizar éstos con el límite del valor del mercado, ajustando su tributación a lo dispuesto en el artículo 15.1 de la Ley 61/1978, de 27 de diciembre, del Impuesto sobre Sociedades.
+
+A efectos de actualización de balances, autorizada por norma fiscal expresa, los referidos bienes serán susceptibles de su revalorización con exoneración de la tributación del incremento patrimonial así puesto de manifiesto.
+
+Se excluye de esta posibilidad de revalorización sin carga fiscal a la realizada sobre elementos o bienes que se integren como activo circulante del titular.
+
+##### Disposición adicional cuarta.
+
+1\. Los propietarios y, en su caso, los titulares de derechos reales sobre Bienes de Interés Cultural deberán permitir la visita pública y gratuita de los mismos a las personas que acrediten la nacionalidad española.
+
+2\. Esta visita comprenderá la contemplación de tales bienes, con exclusión, en el caso de inmuebles, de los lugares o dependencias de los mismos que no afecten a su condición de bien de interés cultural. Respecto a su reproducción fotográfica o dibujada se estará a lo que determine el órgano competente para la protección del bien, salvando, en todo caso, los eventuales derechos de propiedad intelectual.
+
+3\. La visita a que se refiere esta disposición se permitirá de acuerdo con un calendario y horario que deberá ser aprobado por el órgano competente para la protección del bien y, en el caso de inmuebles, se hará constar en un lugar visible que sea compatible con los valores artísticos de éstos.
+
+4\. El cumplimiento de lo previsto en los apartados anteriores podrá ser dispensado conforme al artículo 13.2 de la Ley 16/1985.
+
+> Se modifica el apartado 3 por el art. 5.2 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Disposición adicional quinta.
+
+**(Suprimida)**
+
+> Se suprime por el art. 5.3 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Disposición transitoria primera.
+
+**(Suprimida)**
+
+> Se suprime por el art. 5.4 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+> Téngase en cuenta la disposición transitoria única.
+
+> Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 26, de 30 de enero. [Ref. BOE-A-1986-2450](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-2450)
+
+##### Disposición transitoria segunda a cuarta.
+
+**(Surpimidas)**
+
+> Se suprimen por el art. 5.4 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+> Téngase en cuenta la disposición transitoria única.
+
+##### Disposición final primera.
+
+Se autoriza al Ministro de Cultura para mediante Orden:
+
+1\. Modificar la composición y funciones de los órganos colegiados enunciados en el artículo 10 de este Real Decreto, siéndoles entre tanto de aplicación la normativa vigente.
+
+2\. Modificar los extractos de expediente contenidos en el anexo 1 y ampliar los modelos según las necesidades, organización y funcionamiento del Registro General de Bienes de Interés Cultural y del Inventario General, así como modificar los datos recogidos en los restantes anexos.
+
+3\. Dictar las instrucciones precisas para la confección de las fichas técnicas del Registro General de Bienes de Interés Cultural y del Inventario General para su procesamiento informático que podrán sustituir a los extractos de los expedientes a que se refieren los artículos 14 y 30 del presente Real Decreto.
+
+4\. Dictar las instrucciones precisas para la confección de las fichas técnicas relativas al catalogo colectivo y al Censo del Patrimonio Documental.
+
+5\. Actualizar las cuantías establecidas en los artículos 9 y 26.1.b) de este Real Decreto, previo informe favorable, en este último caso, del Ministro de Economía y Hacienda.
+
+> Se modifican los apartados 2 y 5 por el art. 3.5 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Disposición final segunda.
+
+**(Suprimida)**
+
+> Se suprime por el art. 5.6 del Real Decreto 64/1994, de 21 de enero. [Ref. BOE-A-1994-4733](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-4733)
+
+##### Disposición final tercera.
+
+Los Ministerios de Cultura, Interior y Economía y Hacienda podrán dictar las disposiciones necesarias para el desarrollo del presente Real Decreto en el ámbito de sus respectivas competencias.
+
+##### Disposición final cuarta.
+
+El presente Real Decreto entrará en vigor el día siguiente a su publicación en el «Boletín Oficial del Estado».
+
+##### Disposición derogatoria.
+
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en el presente Real Decreto, y expresamente las siguientes:
+
+– Real Decreto de 1 de marzo de 1912 que aprueba el Reglamento provisional para la aplicación de la Ley de 7 de julio de 1911.
+
+– El Decreto de 16 de abril de 1936, modificado por el Decreto 1545/1972, de 15 de junio, por el que se aprueba el Reglamento de Aplicación de la Ley del Tesoro Artístico Nacional.
+
+– Decretos de 9 de marzo de 1940 y de 19 de abril de 1941, sobre el Catálogo Monumental de España.
+
+– Decreto de 12 de junio de 1953, por el que se dictan disposiciones para la formalización del Inventario del Tesoro Artístico Nacional.
+
+– Decreto de 12 de junio de 1953, modificado por los Decretos de 27 de enero de 1956 y 164/1969, de 6 de febrero, sobre transmisión de antigüedades y obras de arte dentro y fuera del territorio nacional.
+
+– Decreto de 22 de julio de 1958, por el que se crea la categoría de Monumentos Provinciales y Locales, modificado por el Decreto 1864/1963, de 11 de julio.
+
+– Decreto 287/1960, de 18 de febrero, sobre Reorganización de Zonas del Servicio de Defensa del Patrimonio Artístico Nacional.
+
+– Las disposiciones relativas al Centro Nacional el Tesoro Documental y Bibliográfico contenidas en la Ley 26/1972, de 21 de junio, quedando éste subsistente en los términos previstos en el artículo 6 del Real Decreto 565/1985, de 24 de abril, por el que se establece la estructura orgánica básica del Ministerio de Cultura y de sus Organismos autónomos.
+
+– Decreto 1116/1969, de 2 de junio, sobre exportación de obras de importancia histórica o artística, modificado por el Real Decreto 2101/1979, de 13 de julio.
+
+– Real Decreto 3030/1979, de 29 de diciembre, por el que se reorganiza la Junta de Calificación, Valoración y Exportación de Obras de Importancia Histórica o Artística.
+
+– Orden de 15 de febrero de 1980, sobre visitas gratuitas a Monumentos Históricos y Artísticos.
+
+Dado en Madrid a 10 de enero de 1986.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JAVIER MOSCOSO DEL PRADO Y MUÑOZ
+
+## ANEXO 1 a)
+
+**Extracto del expediente de declaración de bienes de interés cultural**
+
+**INMUEBLES**
+
+**I. Datos sobre el bien objeto de la declaración (1)**
+
+1\. Denominación (2).
+
+a) Principal.
+
+b) Asesoría.
+
+2\. Descripción.
+
+a) Inmueble objeto de la declaración.
+
+b) Partes integrantes, pertenencias y accesorios (Ley 16/1985, art. 11.2).
+
+c) Delimitación del entorno afectado (Ley 16/1985, art. 11.2).
+
+d) Bienes muebles que comprende y constituyan parte esencial de su historia (Ley 16/1985, art. 27).
+
+e) otros datos.
+
+3\. Datos histórico-artísticos.
+
+a) Época.
+
+b) Autor (2).
+
+c) Estilo.
+
+d) Otros datos.
+
+4\. Bibliografía (2).
+
+5\. Estado de conservación.
+
+a) Condición.
+
+b) Partes que faltan.
+
+c) Restauraciones realizadas (2).
+
+6\. Uso.
+
+7\. Localización.
+
+a) Comunidad Autónoma.
+
+b) Provincia.
+
+c) Municipio.
+
+d) Ubicación.
+
+8\. Observaciones.
+
+II. Situación jurídica
+
+1\. Titular del derecho de propiedad.
+
+a) nombre y apellidos o razón social.
+
+b) domicilio.
+
+2\. Usuario/s.
+
+A) Datos personales:
+
+a) Nombre y apellidos o razón social.
+
+b) Domicilio.
+
+B) Título jurídico.
+
+III. Datos administrativos
+
+1\. Expediente número.
+
+2\. Incoación del expediente.
+
+a) Fecha de incoación.
+
+b) Fecha de notificación de la incoación.
+
+c) Fecha de publicación en el «Boletín Oficial del Estado».
+
+d) Fecha de comunicación al Registro General de Bienes de Interés Cultural.
+
+3\. Instrucción.
+
+a) Instituciones consultivas que han emitido informe favorable.
+
+b) Fecha y «Diario Oficial» en que se publica la apertura del período de información pública y duración del mismo.
+
+c) Ayuntamiento/s oído/s en el expediente.
+
+d) Fecha de notificación del acuerdo de la Comunidad Autónoma a los interesados sobre procedencia de la declaración.
+
+4\. Recursos presentados contra actos del expediente.
+
+IV. Documentos gráficos
+
+1\. Fotografías.-Cuatro en color del tamaño 8 ×12 centímetros (dos de conjunto y dos de detalles característicos del inmueble) y los correspondientes negativos.
+
+2\. Plano.-Correspondiente al inmueble y al entorno afectado.
+
+(1) Monumento o Jardín Histórico.
+
+(2) Si existe o se conoce.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 26, de 30 de enero. [Ref. BOE-A-1986-2450](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-2450)
+
+## ANEXO 1 b)
+
+**Extracto del expediente de declaración de: (1)**
+
+I. Datos sobre el bien objeto de la declaración
+
+1\. Denominación (2).
+
+2\. Localización.
+
+a) Comunidad Autónoma.
+
+b) Provincia.
+
+c) Municipio/s.
+
+3\. Delimitación.
+
+4\. Descripción.
+
+Con especial referencia a los elementos contemplados en el artículo 15 de la Ley 16/1985.
+
+5\. Datos histórico-artísticos.
+
+6\. Bibliografía (2).
+
+7\. Estado de conservación.
+
+8\. Observaciones.
+
+(1) Conjunto Histórico, Sitio Histórico, Zona Arqueológica.
+
+(2) Si la tiene o se conoce.
+
+II. Situación jurídica (1)
+
+1\. Titular/es del bien.
+
+a) Razón social.
+
+b) Dirección.
+
+III. Datos administrativos
+
+1\. Expediente número.
+
+2\. Incoación del expediente.
+
+a) Fecha de incoación.
+
+b) Fecha de notificación de la incoación.
+
+c) Fecha de publicación en el «Boletín Oficial del Estado».
+
+d) Fecha de comunicación al Registro General de Bienes de Interés Cultural.
+
+3\. Instrucción.
+
+a) Instituciones consultivas que han emitido informe favorable.
+
+b) Fecha y «Diario Oficial» en que se publica la apertura del período de información pública y duración del mismo.
+
+c) Ayuntamiento/s oído/s en el expediente.
+
+d) Fecha de notificación del acuerdo de la Comunidad Autónoma a los interesados sobre procedencia de la declaración.
+
+IV. Documentos gráficos
+
+1\. Fotografías.-Cuatro en color del tamaño 8 × 12 centímetros (dos de conjunto y dos de detalles característicos del inmueble) y los correspondientes negativos.
+
+2\. Plano.-Correspondiente al inmueble y al entorno afectado
+
+(1) Cuando el titular sea una persona física, utilizar el anexo 1 a) apartado II.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 26, de 30 de enero. [Ref. BOE-A-1986-2450](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-2450)
+
+## ANEXO 1 c)
+
+**Extracto del expediente de: (1)**
+
+**BIENES MUEBLES**
+
+I. Datos sobre el bien objeto del expediente
+
+1\. Título o denominación (2).
+
+a) Principal.
+
+b) Accesoria.
+
+2\. Descripción.
+
+a) Técnica.
+
+b) Materia.
+
+c) Medidas.
+
+3\. Datos histórico-artísticos.
+
+a) Autor (2).
+
+b) Escuela (2).
+
+c) Época.
+
+d) Otros datos.
+
+4\. Bibliografía (2).
+
+5\. Estado de conservación.
+
+a) Condición.
+
+b) Partes que faltan.
+
+c) Restauraciones realizadas (2).
+
+6\. Localización.
+
+a) Comunidad Autónoma.
+
+b) Provincia.
+
+c) Municipio.
+
+d) Ubicación.
+
+7\. Observaciones.
+
+II. Situación jurídica
+
+1\. Titular del derecho de propiedad.
+
+a) Nombre y apellidos o razón social.
+
+b) Domicilio.
+
+2\. Poseedor/es.
+
+A) Datos personales:
+
+a) Nombre y apellidos o razón social.
+
+b) Domicilio.
+
+B) Título jurídico.
+
+III. Datos administrativos
+
+1\. Expediente número.
+
+2\. Incoación.
+
+a) Fecha de incoación.
+
+b) Fecha de notificación de la incoación.
+
+c) Fecha de publicación de la incoación en el «Boletín Oficial del Estado» (cuando se trate de expediente de declaración de interés cultural).
+
+d) Fecha de comunicación al Registro General de Bienes de Interés Cultural o al Inventario General.
+
+3\. Instrucción.
+
+a) Instituciones consultivas que han emitido informe favorable (cuando se trate de expediente de declaración de Bien de Interés Cultural).
+
+b) Fecha de notificación del acuerdo de la Comunidad Autónoma a los interesados sobre procedencia de la declaración o de la inclusión.
+
+4\. Recursos presentados contra actos del expediente.
+
+5\. Valor económico (en el caso de que se declare conforme a la disposición transitoria primera de este Real Decreto).
+
+IV. Documentos gráficos
+
+Dos fotografías en color del tamaño 8 × 12 centímetros (una de conjunto y otra de un detalle característico si el objeto lo requiere para su identificación o, en su caso, del anverso y del reverso) y los correspondientes negativos o reproducciones en el soporte adecuado a la naturaleza del bien.
+
+(1) Reseñar si se trata de declaración de bien de interés cultural o de inclusión en el Inventario General.
+
+(2) Si existe o se conoce.
+
+## ANEXO 1 d)
+
+**Extracto del expediente de: (1)**
+
+**MATERIALES ARQUEOLÓGICOS, NUMISMÁTICA Y EPIGRAFÍA**
+
+I. Datos sobre el bien objeto del expediente
+
+1\. Nombre.
+
+2\. Descripción.
+
+a) Materia.
+
+b) Medidas.
+
+c) Técnica de fabricación.
+
+3\. Datos histórico-artísticos
+
+a) Cronología.
+
+b) Adscripción cultural.
+
+c) Lugar del hallazgo.
+
+d) Contexto del hallazgo.
+
+e) Otros datos.
+
+4\. Bibliografía (2).
+
+5\. Estado de conservación.
+
+a) Condición.
+
+b) Partes que faltan.
+
+c) Restauraciones realizadas (2).
+
+6\. Localización.
+
+a) Comunidad Autónoma.
+
+b) Provincia.
+
+c) Municipio.
+
+d) Ubicación.
+
+7\. Observaciones.
+
+II. Situación jurídica
+
+1\. Titular del derecho de propiedad.
+
+a) Nombre y apellidos o razón social.
+
+b) Domicilio.
+
+2\. Poseedor/es.
+
+A) Datos personales:
+
+a) Nombre y apellidos o razón social.
+
+b) Domicilio.
+
+B) Título jurídico.
+
+III. Datos administrativos
+
+1\. Expediente número.
+
+2\. Incoación.
+
+a) Fecha de incoación.
+
+b) Fecha de notificación de la incoación.
+
+c) Fecha de publicación de la incoación en el «Boletín Oficial del Estado» (cuando se trate de expediente de declaración de Interés Cultural.
+
+d) Fecha de comunicación al Registro General de Bienes de Interés Cultural o al Inventario General.
+
+3\. Instrucción.
+
+a) Instituciones consultivas que han emitido informe favorable (cuando se trate de expediente de declaración de Bien de Interés Cultural).
+
+b) Fecha de la notificación del acuerdo de la Comunidad Autónoma a los interesados sobre procedencia de la declaración o de la inclusión.
+
+4\. Recursos presentados contra actos del expediente.
+
+5\. Valor económico (en el caso de que se declare conforme a la disposición transitoria primera de este Real Decreto).
+
+IV. Documentos gráficos
+
+Dos fotografías en color del tamaño 8 × 12 centímetros (una de conjunto y otra de un detalle característico si el objeto lo requiere para su identificación o, en su caso, del anverso y del reverso) y los correspondientes negativos o reproducciones en el soporte adecuado a la naturaleza del bien.
+
+(1) Reseñar si se trata de declaración de bien de interés cultural o de inclusión en el Inventario General.
+
+(2) Si existe o se conoce.
+
+> Redactado el apartado I.2.a) conforme a la corrección de errores publicada en BOE núm. 53, de 3 de marzo de 1986. [Ref. BOE-A-1986-5528](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-5528)
+
+## ANEXO 1 e)
+
+**Extracto del expediente de: (1)**
+
+**MATERIALES ETNOGRÁFICOS**
+
+I. Datos sobre el bien objeto del expediente
+
+1\. Nombre.
+
+2\. Descripción.
+
+a) Materia.
+
+b) Medidas.
+
+c) Técnica.
+
+3\. Datos histórico-artísticos.
+
+a) Cronología.
+
+b) Área de trabajo.
+
+c) Funcionalidad. (Indicar si es antigua o actual.)
+
+d) Lugar del hallazgo.
+
+e) Contexto del hallazgo.
+
+f) Otros datos.
+
+4\. Bibliografía (2).
+
+5\. Estado de conservación.
+
+a) Condición.
+
+b) Partes que faltan.
+
+c) Restauraciones (2).
+
+6\. Localización.
+
+a) Comunidad Autónoma.
+
+b) Provincia.
+
+c) Municipio.
+
+d) Ubicación.
+
+7\. Observaciones.
+
+II. Situación jurídica
+
+1\. Titular del derecho de propiedad.
+
+a) Nombre y apellidos o razón social.
+
+b) Domicilio.
+
+2\. Poseedor/es.
+
+A) Datos personales:
+
+a) Nombre y apellidos o razón social.
+
+b) Domicilio.
+
+B) Título jurídico.
+
+III. Datos administrativos
+
+1\. Expediente número.
+
+2\. Incoación.
+
+a) Fecha de incoación.
+
+b) Fecha de notificación de la incoación.
+
+c) Fecha de publicación de la incoación en el «Boletín Oficial del Estado» (cuando se trate de expediente de declaración de Interés Cultural).
+
+d) Fecha de comunicación al Registro General de Bienes de Interés Cultural o al Inventario General.
+
+3\. Instrucción.
+
+a) Instituciones consultivas que han emitido informe favorable (cuando se trate de expediente de declaración de Bien de Interés Cultural).
+
+b) Fecha de la notificación del acuerdo de la Comunidad Autónoma a los interesados sobre procedencia de la declaración o de la inclusión.
+
+4\. Recursos presentados contra actos del expediente.
+
+5\. Valor económico (en el caso de que se declare conforme a la disposición transitoria primera de este Real Decreto).
+
+IV. Documentos gráficos
+
+Dos fotografías en color del tamaño 8 x 12 centímetros (una de conjunto y otra de un detalle característico si el objeto lo requiere para su identificación o, en su caso, del anverso y del reverso) y los correspondientes negativos o reproducciones en el soporte adecuado a la naturaleza del bien.
+
+(1) Reseñar si se trata de declaración de Bien de Interés Cultura o de inclusión en el Inventario General.
+
+(2) Si existe o se conoce.
+
+## ANEXO 1 f)
+
+**Extracto del expediente de: (1)**
+
+**PATRIMONIO DOCUMENTAL: DOCUMENTO UNITARIO**
+
+I. Datos sobre el bien objeto del expediente
+
+1\. Denominación.
+
+2\. Autor (2).
+
+3\. Descripción.
+
+a) Tipo de soporte materia.
+
+b) Fecha.
+
+c) Referencia al contenido.
+
+d) Características especiales.
+
+4\. Datos históricos.
+
+5\. Bibliografía (2).
+
+6\. Estado de conservación.
+
+a) Condición.
+
+b) Partes que faltan (2).
+
+c) Restauraciones realizadas (2).
+
+7\. Localización.
+
+a) Comunidad Autónoma.
+
+b) Provincia.
+
+c) Municipios.
+
+d) Ubicación.
+
+8\. Observaciones.
+
+II. Situación jurídica
+
+1\. Titular del derecho de propiedad.
+
+a) Nombre y apellido o razón social.
+
+b) Domicilio.
+
+2\. Poseedor/es.
+
+A) Datos personales:
+
+a) Nombre y apellidos o razón social.
+
+b) Domicilio.
+
+B) Título jurídico:
+
+III. Datos administrativos
+
+1\. Expediente número.
+
+2\. Incoación.
+
+a) Fecha de incoación.
+
+b) Fecha de notificación de la incoación.
+
+c) Fecha de publicación de la incoación en el «Boletín Oficial del Estado» (cuando se trate de expediente de la declaración de Interés Cultural).
+
+d) Fecha de comunicación al Registro General de Bienes de Interés Cultural o al Inventario General.
+
+3\. Instrucción.
+
+a) Instituciones consultivas que han emitido informe favorable (cuando se trate de expediente de declaración de Bien de Interés Cultural).
+
+b) Fecha de la notificación del acuerdo de la Comunidad Autónoma a los interesados sobre procedencia de la declaración o de la inclusión.
+
+4\. Recursos presentados contra actos del expediente.
+
+5\. Valor económico (en el caso de que se declare conforme a la disposición transitoria primera de este Real Decreto).
+
+IV. Documentos gráficos
+
+Dos fotografías en color del tamaño 8 × 12 cm o reproducciones en el soporte adecuado a la naturaleza del documento (una de conjunto y otra de un detalle característico si es necesario para su identificación o, en su caso, del reverso) y los correspondientes negativos.
+
+(1) Reseñar si se trata de declaración de Bien de Interés Cultural o de inclusión en el Inventario General.
+
+(2) Si existe o se conoce.
+
+## ANEXO 1 g)
+
+**Extracto del expediente de: (1)**
+
+**PATRIMONIO DOCUMENTAL: COLECCIONES**
+
+I. Datos sobre el bien objeto del expediente
+
+1\. Denominación.
+
+2\. Descripción.
+
+a) Señalar si es general o especializada. En este último caso indicar la materia o materias.
+
+b) Volumen: Indicar los metros lineales o cúbicos y el número de unidades que comprende.
+
+c) Período a que corresponde la documentación y fechas tope de los documentos que comprende.
+
+d) Tipo de fondos y documentos especiales que contiene.
+
+3\. Datos históricos.
+
+4\. Bibliografía.
+
+(Catálogos de la colección o de parte de sus fondos. Descripciones publicadas) (2).
+
+5\. Estado de conservación.
+
+a) Condición.
+
+b) Partes que faltan (2).
+
+c) Restauraciones realizadas que afecten al conjunto (2).
+
+6\. Localización.
+
+a) Comunidad Autónoma.
+
+b) Provincia.
+
+c) Municipio.
+
+d) Ubicación.
+
+7\. Observaciones.
+
+II. Situación jurídica
+
+1\. Titular del derecho de propiedad.
+
+a) Nombre y apellido o razón social.
+
+b) Domicilio.
+
+2\. Poseedor/es.
+
+A) Datos personales:
+
+a) Nombre y apellidos o razón social.
+
+b) Domicilio.
+
+B) Título jurídico.
+
+III. Datos administrativos
+
+1\. Expediente número.
+
+2\. Incoación.
+
+a) Fecha de incoación.
+
+b) Fecha de notificación de la incoación.
+
+c) Fecha de publicación de la incoación en el «Boletín Oficial del Estado» (cuando se trate de expediente de declaración de Interés Cultural).
+
+d) Fecha de comunicación al Registro General de Bienes de Interés Cultural o al Inventario General.
+
+3\. Instrucción.
+
+a) Instituciones consultivas que han emitido informe favorable (cuando se trate de expediente de declaración de Bien de Interés Cultural).
+
+b) Fecha de la notificación del acuerdo de la Comunidad Autónoma a los interesados sobre procedencia de la declaración o de la inclusión.
+
+4\. Recursos presentados contra actos del expediente.
+
+5\. Valor económico (en el caso de que se declare conforme a la disposición transitoria primera de este Real Decreto).
+
+(1) Reseñar si se trata de declaración de Bien de Interés Cultural o de inclusión en el Inventario General.
+
+(2) Si existe o se conoce.
+
+## ANEXO 1 h)
+
+**Extracto del expediente: (1)**
+
+**PATRIMONIO BIBLIOGRÁFICO: MANUSCRITOS**
+
+I. Datos sobre el bien objeto del expediente
+
+1\. Título.
+
+2\. Autor.
+
+3\. Descripción.
+
+a) Escritura y fecha.
+
+b) Foliación o paginación.
+
+c) Tamaño y disposición.
+
+– Dimensiones y número de columnas y de lineas de la página.
+
+d) Materia.
+
+e) Ilustración.
+
+4\. Características especiales.
+
+a) Anotación musical.
+
+b) Anotaciones de interés.
+
+c) Encuadernación.
+
+d) Otras.
+
+5\. Datos históricos.
+
+6\. Bibliografía.
+
+7\. Estado de conservación.
+
+a) Condición.
+
+b) Partes que faltan.
+
+c) Restauraciones realizadas (2).
+
+8\. Localización.
+
+a) Comunidad Autónoma.
+
+b) Provincia.
+
+c) Municipio.
+
+d) Ubicación.
+
+9\. Observaciones.
+
+II Situación jurídica
+
+1\. Titular del derecho de propiedad.
+
+a) Nombre y apellido o razón social.
+
+b) Domicilio.
+
+2\. Poseedor/es.
+
+A) Datos personales:
+
+a) Nombre y apellidos o razón social.
+
+b) Domicilio.
+
+B) Título jurídico:
+
+III. Datos administrativos
+
+1\. Expediente número.
+
+2\. Incoación.
+
+a) Fecha de incoación.
+
+b) Fecha de notificación de la incoación.
+
+c) Fecha de publicación de la incoación en el «Boletín Oficial del Estado» (cuando se trate de expediente de declaración de Interés Cultural).
+
+d) Fecha de comunicación al Registro General de Bienes de Interés Cultural o al Inventario General.
+
+3\. Instrucción.
+
+a) Instituciones consultivas que han emitido informe favorable (cuando se trate de expediente de declaración de Bien de Interés Cultural).
+
+b) Fecha de la notificación del acuerdo de la Comunidad Autónoma a los interesados sobre procedencia de la declaración o de la inclusión.
+
+4\. Recursos presentados contra actos del expediente.
+
+5\. Valor económico (en el caso de que se declare conforme a la disposición transitoria primera de este Real Decreto).
+
+IV. Documentos gráficos
+
+Una fotografía en color del tamaño 8 × 12 cm o microfilm de 35 mm, y los correspondientes negativos de las siguientes partes del manuscrito:
+
+– Autor y título, con indicación del folio en que se contienen.
+
+– Inicio y final del texto, con indicación de los folios en que se contienen.
+
+– Textos, suscripciones o colofones en que figuren los datos de localización, fecha o copista, con indicación del folio en que se contienen.
+
+(1) Reseñar si se trata de declaración de Bien de Interés Cultural o de inclusión en el Inventario General.
+
+(2) Si existe o se conoce.
+
+## ANEXO 1 i)
+
+## Extracto del expediente: (1)
+
+**PATRIMONIO BIBLIOGRÁFICO: IMPRESOS**
+
+I. Datos sobre el bien objeto del expediente
+
+1\. Título.
+
+2\. Autor.
+
+3\. Descripción.
+
+a) Pie de imprenta.
+
+b) Foliación y paginación.
+
+c) Dimensiones.
+
+– Formato (para ejemplares de ediciones producto de la imprenta manual).
+
+– Altura y anchura, en centímetros (en los demás casos).
+
+d) Ilustración.
+
+4\. Características especiales del ejemplar.
+
+a) Anotaciones manuscritas.
+
+b) Encuadernación.
+
+c) Otras.
+
+5\. Datos históricos.
+
+6\. Bibliografía.
+
+7\. Estado de conservación.
+
+a) Condición.
+
+b) Partes que faltan.
+
+c) Restauraciones realizadas (2).
+
+8\. Localización.
+
+a) Comunidad Autónoma.
+
+b) Provincia.
+
+c) Municipio.
+
+d) Ubicación.
+
+9\. Observaciones.
+
+II Situación jurídica
+
+1\. Titular del derecho de propiedad.
+
+a) Nombre y apellido o razón social.
+
+b) Domicilio.
+
+2\. Poseedor/es.
+
+A) Datos personales:
+
+a) Nombre y apellidos o razón social.
+
+b) Domicilio.
+
+B) Título jurídico:
+
+III. Datos administrativos
+
+1\. Expediente número
+
+2\. Incoación.
+
+a) Fecha de incoación.
+
+b) Fecha de notificación de la incoación.
+
+c) Fecha de publicación de la incoación en el «Boletín Oficial del Estado» (cuando se trate de expediente de declaración de Interés Cultural).
+
+d) Fecha de comunicación al Registro General de Bienes de Interés Cultural o al Inventario General.
+
+3\. Instrucción.
+
+a) Instituciones consultivas que han emitido informe favorable (cuando se trate de expediente de declaración de Bien de Interés Cultural).
+
+b) Fecha de la notificación del acuerdo de la Comunidad Autónoma a los interesados sobre procedencia de la declaración o de la inclusión.
+
+4\. Recursos presentados contra actos del expediente.
+
+5\. Valor económico (en el caso de que se declare conforme a la disposición transitoria primera de este Real Decreto).
+
+IV. Documentos gráficos
+
+Una fotografía en color, 8 × 12 cm, o microfilm de 35 mm, y los correspondientes negativos de la portada y del colofón si lo posee.
+
+(1) Reseñar si se trata de declaración de Bien de Interés Cultural o de inclusión en el Inventario General.
+
+(2) Si existe o se conoce.
+
+## ANEXO 1 j)
+
+**Extracto del expediente de: (1)**
+
+**PATRIMONIO BIBLIOGRÁFICO: COLECCIONES**
+
+I. Datos sobre el bien objeto del expediente
+
+1\. Denominación.
+
+2\. Descripción.
+
+a) Señalar si es general o especializada. En este último caso indicar la materia o materias.
+
+b) Número de unidades que comprende.
+
+c) Número o porcentaje de fondos correspondientes a cada período cronológico.
+
+d) Reseñar los datos de especial interés bibliográfico o bibliofílico sin contiene manuscritos, si éstos son autógrafos, grabados, mapas, materiales fotográficos, ediciones sonoras, publicaciones periódicas, ediciones raras, obras ilustradas, encuadernaciones especiales, ejemplares con anotaciones manuscritas de especial interés, etc.).
+
+3\. Datos históricos.
+
+4\. Bibliografía.
+
+(Catálogos de la colección o de parte de sus fondos. Descripciones publicadas).
+
+5\. Estado de conservación.
+
+a) Condición.
+
+b) Partes que faltan (2).
+
+c) Restauraciones realizadas que afecten al conjunto (2).
+
+6\. Localización.
+
+a) Comunidad Autónoma.
+
+b) Provincia.
+
+c) Municipio.
+
+d) Ubicación.
+
+7\. Observaciones.
+
+II. Situacion jurídica
+
+1\. Titular del derecho de propiedad.
+
+a) Nombre y apellido o razón social.
+
+b) Domicilio.
+
+2\. Poseedor/es.
+
+A) Datos personales:
+
+a) Nombre y apellidos o razón social.
+
+b) Domicilio.
+
+B) Título jurídico.
+
+III. Datos administrativos
+
+1\. Expediente número.
+
+2\. Incoación.
+
+a) Fecha de incoación.
+
+b) Fecha de notificación de la incoación.
+
+c) Fecha de publicación de la incoación en el «Boletín Oficial del Estado» (cuando se trate de expediente de declaración de Interés Cultural).
+
+d) Fecha de comunicación al Registro General de Bienes de Interés Cultural o al Inventario General.
+
+3\. Instrucción.
+
+a) Instituciones consultivas que han emitido informe favorable (cuando se trate de expediente de declaración de Bien de Interés Cultural).
+
+b) Fecha de la notificación del acuerdo de la Comunidad Autónoma a los interesados sobre procedencia de la declaración o de la inclusión.
+
+4\. Recursos presentados contra actos del expediente.
+
+5\. Valor económico (en el caso de que se declare conforme a la disposición transitoria primera de este Real Decreto).
+
+(1) Reseñar si se trata de declaración de Bien de Interés Cultural o de inclusión en el Inventario General.
+
+(2) Si existe o se conoce.
+
+## ANEXO 2A)
+
+| MINISTERIO DE CULTURA<br>REGISTRO GENERAL DE BIENES DE INTERES CULTURAL<br>![imagen](https://www.boe.es/datos/imagenes/disp/1986/24/02277_001.png)<br>TÍTULO DE BIEN DECLARADO DE INTERES CULTURAL<br>(12 × 16 cms.) Cubierta |
+|---|
+
+## ANEXO 2B)
+
+| Por Real Decreto n.º ..................................................<br>publicado en el Boletín Oficial del Estado de fecha .................................<br>ha sido declarado ............................................................<br>..............................................................................<br>el ................................................................................<br>sito en ........................................................................<br>e inscrito en el Registro General de Bienes de Interés Cultural<br>con el código de identificación ........................<br>En su virtud y con arreglo a lo previsto en el artículo 13 de la Ley 16/1985,<br>de 25 de junio, del Patrimonio Histórico Español, el Director General de Bellas Artes<br>y Archivos expide el presente título.<br>Madrid, a .......... de ........................... de ..........<br>EL DIRECTOR GENERAL DE BELLAS ARTES Y ARCHIVOS<br>2.ª | Titular del Bien, según datos del Registro General de Bienes de Interés Cultural (1):<br>D I L I G E N C I A S<br>(1) El Registro General de Bienes de Interés Cultural sólo da fe de los datos consignados en el mismo a los efectos previstos en la Ley 16/1985.<br>3.ª |
+|---|---|
+
+## ANEXO 2C)
+
+| DILIGENCIAS<br>4.ª | Este Título consta de ocho páginas numeradas del 1 al 8 con cubierta y contracubierta.<br>(Página reservada para fotografía del Bien, cuando proceda)<br>1.ª |
+|---|---|
+
+## ANEXO 3
+
+<table>
+<tr>
+<td colspan="4">
+<p>
+<u>PATRIMONIO HISTORICO ESPAÑOL</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>
+<u>DECLARACIÓN DE IMPORTACION</u>
+</p>
+<p>
+<u>DE BIENES MUEBLES</u>
+</p>
+<p> </p>
+<p>Título o denominación:</p>
+<p> </p>
+<p>Descripción sumaria:</p>
+<p> </p>
+<p> </p>
+<p>Materia:</p>
+<p>Medidas:</p>
+<p>Autor:</p>
+<p>Epoca:</p>
+<p>Escuela:</p>
+<p>Antecedentes Históricos:</p>
+<p>Otros datos que contribuyan a la identificación del bien:</p>
+<p>Observaciones:</p>
+<p>Valor declarado:</p>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Fotografía en color 8 × 12 cms.</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td colspan="2">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Sellos del Servicio Aduanero</p>
+</td>
+<td>
+<p> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+</td>
+<td colspan="2">
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Importador:</p>
+<p>Propietario:</p>
+<p>Aduana de entrada:</p>
+<p> </p>
+<p>FECHA DE LA IMPORTACIÓN:</p>
+</td>
+</tr>
+</table>

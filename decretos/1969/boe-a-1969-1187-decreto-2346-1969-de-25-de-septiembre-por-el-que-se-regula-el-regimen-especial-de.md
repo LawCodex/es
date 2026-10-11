@@ -1,0 +1,493 @@
+---
+title: "Decreto 2346/1969, de 25 de septiembre, por el que se regula el Régimen Especial de la Seguridad Social del Servicio Doméstico"
+identifier: "BOE-A-1969-1187"
+eli: "https://www.boe.es/eli/es/d/1969/09/25/2346"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo"
+date: 1969-09-25
+published: 1969-10-15
+in_force_from: 1970-01-01
+last_amended: 2011-12-02
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 247"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1969-1187"
+retrieved: 2026-10-11
+---
+
+# Decreto 2346/1969, de 25 de septiembre, por el que se regula el Régimen Especial de la Seguridad Social del Servicio Doméstico
+
+La Ley de la Seguridad Social, de veintiuno de abril de mil novecientos sesenta y seis («Boletín Oficial del Estado» del veintidós y veintitrés), en el apartado h) del número dos del artículo diez, considera como Régimen Especial al de los Servidores Domésticos, formando parte integrante del sistema de la Seguridad Social.
+
+El presente Decreto viene a regular este Régimen Especial, aunando, de una parte, la valiosa experiencia recogida del anterior Montepío Nacional del Servicio Doméstico y, de otra, el evidente avance que supone la citada Ley de la Seguridad Social, y en particular el Régimen General, al que por imperativo de la propia Ley se ha de acomodar en lo posible tendiendo a la máxima homogeneidad con sus principios.
+
+La Sección Femenina del Movimiento ha aportado, desde el nacimiento del Montepío Nacional del Servicio Doméstico, una destacada colaboración, que ha contribuido a dotarle de la vitalidad necesaria para llevar a cabo la gestión que tenía encomendada; reconociéndose así, se considera procedente mantener dicha colaboración, atribuyendo a aquélla la esencial función de orientar socialmente la acción de la Entidad Gestora del Régimen Especial de la Seguridad Social, que por el presente Decreto se regula.
+
+De acuerdo con el citado imperativo de homogeneidad, que debe presidir la regulación de todos los Regímenes Especiales, se establece una acción protectora que supone una considerable equiparación respecto al tratamiento que de las distintas situaciones y contingencias se hace en el Régimen General, lográndose con ello un importante avance sobre el conjunto de prestaciones hasta ahora vigente, constituido por las reguladas en el Decreto trescientos ochenta y cinco/mil novecientos cincuenta y nueve, de diecisiete de marzo («Boletín Oficial del Estado» del veinticuatro).
+
+En su virtud, a propuesta del Ministro de Trabajo y previa deliberación del Consejo de Ministros en su reunión del día doce de septiembre de mil novecientos sesenta y nueve,
+
+DISPONGO:
+
+## CAPÍTULO PRIMERO — Disposición general
+
+#### Artículo primero. Normas reguladoras.
+
+Uno. El Régimen Especial de la Seguridad Social del Servicio Doméstico, previsto en el apartado h) del número dos del artículo diez de la Ley de la Seguridad Social, de veintiuno de abril de mil novecientos sesenta y seis («Boletín Oficial del Estado» del veintidós y veintitrés), se regirá de conformidad con lo establecido en dicha Ley, por el título I de la misma, por el presente Decreto y sus disposiciones de aplicación y desarrollo, así como por las restantes normas generales de obligada observancia en el sistema de la Seguridad Social.
+
+Dos. Serán de aplicación supletoria las normas reguladoras del Régimen General, con las adecuadas adaptaciones a los conceptos de cabeza de familia y empleado del hogar.
+
+## CAPÍTULO II — Campo de aplicación
+
+#### Artículo segundo. Norma general.
+
+Uno. Quedarán incluidos en este Régimen Especial de la Seguridad Social, en calidad de empleados del hogar, todos los españoles mayores de catorce años, cualquiera que sea su sexo y estado civil, que reúnan los requisitos siguientes:
+
+a) Que se dediquen en territorio nacional a servicios exclusivamente domésticos para uno o varios cabezas de familia.
+
+b) Que estos servicios sean prestados en la casa que habite el cabeza de familia y demás personas que componen el hogar.
+
+c) Que perciba por este servicio un sueldo o remuneración de cualquier clase que sea.
+
+Dos. Igualmente quedan incluidos en el campo de aplicación de este Régimen Especial quienes, en calidad de empleados de hogar, prestan sus servicios a un grupo de personas que si bien no constituyen familia viven todas ellas con tal carácter familiar en el mismo hogar, supuesta la concurrencia de todas las demás condiciones exigidas en el presente capítulo.
+
+Tres. Con respecto a los empleados de hogar extranjeros, se estará a lo dispuesto en el número cuatro del artículo séptimo de la Ley de la Seguridad Social y en sus disposiciones de aplicación y desarrollo.
+
+Cuatro. Los empleados de hogar españoles residentes en el extranjero, al servicio de los representantes diplomáticos, consulares y funcionarios del Estado oficialmente destinados fuera de España, podrán solicitar su inclusión en este Régimen Especial, que les será otorgada siempre que reúnan los demás requisitos exigidos.
+
+#### Artículo tercero. Exclusiones.
+
+Uno. Estarán excluidos del campo de aplicación de este Régimen Especial:
+
+a) El cónyuge, descendientes, ascendientes y demás parientes del cabeza de familia, por consanguinidad o afinidad, hasta el tercer grado, inclusive.
+
+b) Los prohijados o acogidos de hecho o de derecho.
+
+c) Las personas que presten servicios amistosos, benévolos o de buena voluntad.
+
+d) Los cuidadores profesionales contratados mediante la prestación económica regulada en los artículos 14.3 y 17 de la Ley 39/2006, de 14 de diciembre, así como los trabajadores dedicados a la asistencia personal, en los términos regulados en el artículo 19 de dicha ley, aunque, en uno y otro caso, los cuidados se lleven a cabo en el domicilio de la persona dependiente o del familiar con la que aquélla conviva.
+
+Dos. La exclusión que se establece en el apartado a) del número anterior no afectará a los familiares del sexo femenino de Sacerdotes célibes que convivan con ellos y que reúnan las demás condiciones exigidas, siempre que no tengan ningún empleado de hogar a su servicio. No podrá quedar comprendido en este Régimen Especial más que un solo familiar por cada Sacerdote que se encuentre en la situación prevista, sea cualquiera el número de los que con él convivan.
+
+> Se añade la letra d) al apartado1 por la disposición final 1 del Real Decreto 615/2007, de 11 de mayo. [Ref. BOE-A-2007-9690](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-9690).
+
+#### Artículo cuarto. Concepto de cabeza de familia.
+
+Uno. Se considera cabeza de familia, a los efectos de este Régimen Especial, a toda persona natural que tenga algún empleado de hogar a su servicio en su domicilio y sin ánimo de lucro.
+
+Dos. En el supuesto previsto en el número dos del articulo segundo, asumirá la condición de cabeza de familia, a efectos de este Régimen Especial, la persona que ostente la titularidad de la vivienda que habite o aquella que asuma la representación del grupo.
+
+## CAPÍTULO IIl — Afiliación, altas y bajas
+
+## (Derogado)
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+#### Artículo quinto. Afiliación y alta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+#### Artículo sexto. Sujetos obligados a solicitar la afiliación y el alta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+#### Artículo séptimo. Nacimiento de la obligación de solicitar la afiliación y el alta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+#### Artículo octavo. Forma y plazo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+#### Artículo noveno. Efectos.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+#### Artículo décimo. Situación asimilada a la de alta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+#### Artículo undécimo. Baja en la Mutualidad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+#### Artículo duodécimo. Efectos de las altas indebidas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+## CAPÍTULO IV — Cotización y recaudación
+
+## (Derogado)
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+#### Artículo decimotercero. Obligatoriedad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+#### Artículo decimocuarto. Alcance de la obligación de cotizar.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+> Téngase en cuenta que este art. ya estaba derogado por el Real Decreto 2064/1995, de 22 de diciembre.
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+> Se modifica por el art. 6 del Real Decreto 2110/1994, de 28 de octubre. [Ref. BOE-A-1994-27176](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-27176).
+
+#### Artículo decimoquinto. Cuota.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+#### Artículo decimosexto. Sujetos obligados al pago de cuotas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+#### Artículo decimoséptimo. Plazo de ingreso.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+> Se modifica por la disposición adicional 8 del Real Decreto 1517/1991, de 11 de octubre. [Ref. BOE-A-1991-25885](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-25885).
+
+#### Artículo decimoctavo. Recargo por ingreso fuera de plazo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+#### Artículo decimonoveno. Prescripción.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+#### Artículo vigésimo. Lugar de ingreso.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+#### Artículo vigésimo primero. Control de pagos y requerimientos.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+## CAPÍTULO V — Acción protectora
+
+### Sección primera. Normas generales
+
+#### Artículo vigésimo segundo. Contingencias protegidas y prestaciones.
+
+Uno. El Régimen Especial de la Seguridad Social del Servicio Doméstico cubrirá las contingencias y concederá las prestaciones que se determinan en el presente Decreto.
+
+Dos. El concepto de las contingencias protegidas por este Régimen Especial será el fijado por el Régimen General de la Seguridad Social para cada una de las que son comunes a ambos Regímenes.
+
+Tres. **(Derogado)**
+
+> Se deroga el apartado 3 por la disposición derogatoria única del Real Decreto 1596/2011, de 4 de noviembre. [Ref. BOE-A-2011-18914](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18914).
+
+#### Artículo vigésimo tercero. Condiciones para causar derecho a las prestaciones y efectos de las cuotas.
+
+Uno. Para causar derecho a las prestaciones de este Régimen Especial, además de los exigidos para cada una de ellas, es requisito indispensable estar en alta o situación asimilada al alta y al corriente en el pago de las cuotas.
+
+Dos. Las cuotas abonadas correspondientes a períodos anteriores a la fecha de efectividad de la afiliación o alta no se computarán a efectos de cubrir los períodos de cotización exigidos para la concesión de las prestaciones.
+
+Tres. De los ingresos realizados fuera de plazo por los empleados de hogar a que se refiere el párrafo b) del número uno del articulo sexto, correspondientes a periodos en los que el empleado de hogar haya figurado en alta en este Régimen Especial, sólo se computarán, a efectos de completar los periodos de cotización para aquellas prestaciones que los tengan establecidos y a los de determinar el porcentaje de la Pensión de Vejez en función de los años de cotización, las cuotas que correspondan al período inmediatamente anterior a la fecha de pago y hasta un máximo de seis mensualidades.
+
+#### Artículo vigésimo cuarto. Carácter de las prestaciones.
+
+Uno. De acuerdo con lo establecido en el artículo veintidós de la Ley de la Seguridad Social, las prestaciones otorgadas por este Régimen Especial no podrán ser objeto de cesión total o parcial embargo, retención, compensación o descuento, salvo en los dos casos siguientes:
+
+a) En orden al cumplimiento de las obligaciones alimenticias a favor del cónyuge e hijos.
+
+b) Cuando se trate de obligaciones o responsabilidades contraídas por el beneficiario dentro de la Seguridad Social.
+
+Dos. De conformidad con el citado precepto, las percepciones derivadas de la acción protectora de este Régimen Especial están exentas de toda contribución, impuesto, tasa o exacción parafiscal.
+
+Tres. Tampoco podrá ser exigida ninguna tasa fiscal o parafiscal ni derecho de ninguna clase en cuantas informaciones o certificados hayan de facilitar la Entidad Gestora y los Organismos administrativos o judiciales, o de cualquier otra clase, en relación con dichas prestaciones.
+
+#### Artículo vigésimo quinto. Base de cotización a efectos del cálculo de prestaciones económicas.
+
+Se entenderá que la base de cotización de los empleados de hogar a efectos del cálculo de las prestaciones económicas de este Régimen Especial, será, en todo caso, la tarifa mínima de cotización que para los trabajadores mayores de dieciocho años haya estado vigente en cada momento en el Régimen General de la Seguridad Social.
+
+#### Artículo vigésimo sexto. Cómputo de períodos de cotización a distintos regímenes de la Seguridad Social.
+
+Uno. Cuando un empleado de hogar tenga acreditados, sucesiva o alternativamente, periodos en el Régimen General de la Seguridad Social o en los Regímenes Especiales Agrario o de trabajadores ferroviarios y en el que regula el presente Decreto, dichos períodos o los que sean asimilados a ellos que hubieren sido cumplidos en virtud de las normas que los regulen, serán totalizados, siempre que no se superpongan, para la adquisición, mantenimiento o recuperación del derecho a la prestación.
+
+Dos. En consecuencia, las pensiones de invalidez, vejez, muerte y supervivencia a que los acogidos a alguno de dichos regímenes puedan tener derecho en virtud de las normas que los regulan, serán reconocidas, según sus propias normas, por la Entidad Gestora del Régimen donde el empleado de hogar o trabajador estuviese cotizando al tiempo de solicitar la prestación, teniendo en cuenta la totalización de períodos a que se refiere el número anterior y con las salvedades siguientes:
+
+a) Para que el empleado de hogar o trabajador cause derecho a la pensión en el Régimen a que estuviese cotizando en el momento de solicitar la prestación, será inexcusable que reúna los requisitos de edad, períodos de carencia y cualesquiera otros que en el mismo se exijan, computando a tal efecto solamente las cotizaciones efectuadas en dicho Régimen.
+
+b) Cuando el empleado de hogar o trabajador no reuniese tales requisitos en el Régimen a que se refiere el apartado anterior, causará derecho a la pensión en el que hubiese cotizado anteriormente, siempre que en el mismo reúna los requisitos a que se refiere el apartado a). Igual norma se aplicará, en su caso, respecto de los restantes regímenes.
+
+c) Cuando el empleado de hogar o trabajador no hubiese reunido en ninguno de los regímenes, computadas separadamente las Cotizaciones a ellos efectuadas, los períodos de carencia precisos para causar derecho a la pensión, podrán sumarse a tal efecto las cotizaciones efectuadas a todos. En tal caso, la pensión se otorgará por el Régimen en que tenga acreditado mayor número de cotizaciones.
+
+Tres. Sobre la base de la cuantía resultante con arreglo a las normas anteriores, la Entidad Gestora del Régimen que reconozca la pensión distribuirá su importe con la de los otros Regímenes de Seguridad Social, a prorrata con la duración de los períodos cotizados en cada uno de ellos. Si la cuantía de la pensión a la que el empleado de hogar o trabajador pueda tener derecho por los períodos computables en virtud de las normas de uno sólo de los Regímenes de Seguridad Social fuese superior al total de la que resultase a su favor, por aplicación de los números anteriores de este artículo, la Entidad Gestora de dicho Régimen le concederá un complemento igual a la diferencia.
+
+Cuatro. La totalización de períodos de cotización, prevista en el número uno del presente artículo, se llevará a cabo para cubrir los períodos de carencia que se exijan para prestaciones distintas de las especificadas en el número dos del mismo, otorgándose, en tal caso, dichas prestaciones por el Régimen en que se encuentre en alta el empleado de hogar en el momento de producirse el hecho causante y siempre que tuviera derecho a ellas, de acuerdo con las normas propias de dicho Régimen.
+
+#### Artículo vigésimo séptimo. Incompatibilidades.
+
+Uno. Las pensiones que concede este Régimen a sus beneficiarios serán incompatibles entre sí, a no ser que expresamente se disponga lo contrario, legal o reglamentariamente.
+
+Dos. El empleado de hogar que pudiera tener derecho a dos o más pensiones de este Régimen optará por una de ellas.
+
+### Sección segunda. Prestaciones en particular
+
+#### Artículo vigésimo octavo. Alcance de la acción protectora.
+
+Uno. A los empleados de hogar comprendidos en el campo de aplicación del Régimen Especial de la Seguridad Social del Servicio Doméstico y, en su caso, a sus familiares o asimiladas se les concederán, en la extensión, términos y condiciones de se establecen en el presente Decreto y disposiciones de aplicación y desarrollo, las prestaciones siguientes:
+
+a) Asistencia sanitaria en los casos de maternidad, enfermedad y accidente.
+
+b) Prestaciones económicas por incapacidad laboral transitoria.
+
+c) Prestaciones por invalidez.
+
+d) Prestaciones económicas por vejez.
+
+e) Prestaciones económicas por muerte y supervivencia.
+
+f) Prestaciones económicas de protección a la familia y de profesión religiosa.
+
+g) Beneficios de asistencia social.
+
+h) Prestaciones y servicios sociales en atención a contingencias y situaciones especiales.
+
+Dos. Las prestaciones derivadas de las contingencias de enfermedad, maternidad, accidente, invalidez, vejez, muerte y supervivencia y protección a la familia, se otorgarán con la misma amplitud, términos y condiciones que en el Régimen General, salvo en lo que específicamente se regula en el presente Decreto y disposiciones de aplicación y desarrollo.
+
+#### Artículo vigésimo noveno. Asistencia sanitaria.
+
+Uno. La asistencia sanitaria por maternidad, enfermedad y accidentes será facilitada al empleado de hogar y a sus familiares beneficiarios, en su caso, por la Organización de los Servicios Sanitarios del Instituto Nacional de Previsión.
+
+Dos. La Mutualidad de Empleados de Hogar satisfará al Instituto Nacional de Previsión la cuota mensual que fije el Ministerio de Trabajo.
+
+Tres. A los empleados de hogar españoles que, como consecuencia de lo dispuesto en el número cuatro del artículo segundo del presente Decreto, estén en alta en este Régimen Especial, sólo les será facilitada la asistencia sanitaria por esta Mutualidad durante los períodos que residan dentro del territorio nacional.
+
+#### Artículo trigésimo. Incapacidad laboral transitoria.
+
+La prestación económica por incapacidad laboral transitoria derivada de enfermedad, maternidad o accidente se otorgará en los supuestos durante el tiempo y con los requisitos que la regulan en el Régimen General. No obstante, en los casos de enfermedad y accidente esta prestación económica se comenzará a percibir desde el vigésimo noveno día, contado a partir de la fecha en que se inició la enfermedad o se produjo el accidente.
+
+#### Artículo trigésimo primero. Invalidez.
+
+Para el otorgamiento de las prestaciones por invalidez será preciso tener acreditado, en la fecha en que se inició el procedo de enfermedad o en que se produjo el accidente determinante de la invalidez, un período mínimo de cotización computable de sesenta mensualidades durante los últimos diez años.
+
+#### Artículo trigésimo segundo. Jubilación.
+
+Uno. La prestación económica por causa de jubilación será única para cada pensionista y revestirá la forma de pensión vitalicia.
+
+Dos. La cuantía de la pensión se determinará aplicando a la base reguladora el porcentaje procedente, de acuerdo con la escala establecida para el Régimen General de la Seguridad Social, en función exclusivamente de los años de cotización efectiva del beneficiario.
+
+> Se modifica por el art. único del Real Decreto 1609/1987, de 23 de diciembre. [Ref. BOE-A-1987-28636](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-28636).
+
+> Téngase en cuenta la disposición final 2, en cuanto a su aplicación.
+
+#### Artículo trigésimo tercero. Muerte y supervivencia.
+
+Uno. En el caso de muerte, cualquiera que fuera la causa, se otorgarán, según los supuestos, alguna o algunas de las siguiente prestaciones:
+
+a) Subsidio de defunción.
+
+b) Pensión vitalicia o, en su caso, subsidio temporal de viudedad.
+
+c) Pensión de orfandad.
+
+d) Pensión vitalicia o, en su caso, subsidio temporal en favor de familiares.
+
+Dos. **(Derogado)**
+
+> Se deroga el apartado 2 por la disposición derogatoria única del Real Decreto 1596/2011, de 4 de noviembre. [Ref. BOE-A-2011-18914](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18914).
+
+#### Artículo trigésimo cuarto. Base reguladora de pensiones.
+
+La base reguladora para determinar la cuantía de las pensiones causadas por los empleados de hogar, en alta o en situación asimilada al alta, será el cociente que resulte de dividir por veinticuatro la suma de las bases a que se refiere el artículo veinticinco, correspondientes a mensualidades cotizadas por el interesado durante un período ininterrumpido de veinticuatro meses.
+
+El período de veinticuatro meses al que se refiere el párrafo anterior será elegido por el interesado dentro de los siete años inmediatamente anteriores a la fecha en que se cause el derecho a la pensión.
+
+#### Artículo trigésimo quinto. Prestaciones de protección familiar.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 356/1991, de 15 de marzo. [Ref. BOE-A-1991-7266](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-7266).
+
+#### Artículo trigésimo sexto. Prestación económica por profesión religiosa.
+
+Uno. Los empleados de hogar que profesen en religión católica tendrán derecho, al hacer los votos y por una sola vez, a una prestación económica de cinco mil pesetas, siempre que reúnan las condiciones señaladas en el número uno del artículo anterior.
+
+Dos. La percepción de esta asignación es incompatible con la de análoga naturaleza prevista para la pensionista de viudedad que adquiera estado religioso.
+
+#### Artículo trigésimo séptimo. Asistencia social.
+
+Este Régimen Especial de la Seguridad Social, con cargo a los fondos que se determinen al efecto, podrá dispensar a las personas incluidas en su campo de aplicación y a los familiares o asimilados que de ellas dependan, los servicios y auxilios económicos que en atención a estados o situaciones de necesidad se consideren precisos, de acuerdo con las normas que regulan esta materia en el Régimen General de la Seguridad Social. Asimismo, con cargo a este Fondo, se podrán conceder asignaciones de pago único por constancia en la prestación de servicios.
+
+#### Artículo trigésimo octavo. Servicios sociales.
+
+La prestación de los Servicios sociales se llevará a cabo mediante la debida coordinación con los del Régimen General, colaborando, juntamente con la Sección Femenina del Movimiento, en la forma que se determine en la ejecución de los programas generales relativos a dichos Servicios.
+
+## CAPÍTULO VI — Gestión
+
+#### Artículo trigésimo noveno. Gestión.
+
+Uno. La gestión de este Régimen Especial de la Seguridad Social se efectuará bajo la dirección, vigilancia y tutela del Ministerio de Trabajo, por la Mutualidad Nacional de la Seguridad Social de los Empleados de Hogar a que hace referencia el artículo siguiente.
+
+Dos. La Mutualidad Nacional de la Seguridad Social de los Empleados de Hogar estará adscrita orgánicamente al Instituto Nacional de Previsión, y en la gestión que le es propia utilizará los órganos, servicios y medios de aquél, en el ámbito nacional, provincial y local, con la colaboración de la Sección Femenina del Movimiento, que tendrá a su cargo la orientación social de la misma, prestando a la Mutualidad la ayuda que requiera el mejor desenvolvimiento de sus actividades y cumplimiento de sus fines.
+
+#### Artículo cuadragésimo. Mutualidad Nacional de la Seguridad Social de los Empleados de Hogar.
+
+Uno. La Mutualidad Nacional de la Seguridad Social de los Empleados de Hogar tendrá la naturaleza de Corporación de interés público, con plena capacidad jurídica y patrimonial para el cumplimiento de sus fines, de acuerdo, respectivamente, con lo establecido en el número dos del artículo trigésimo noveno y en el número dos del artículo trigésimo octavo de la Ley de la Seguridad Social.
+
+Dos. De conformidad con lo preceptuado en el número uno del articulo trigésimo octavo de la Ley de la Seguridad Social, dicha Mutualidad se considerará incluida en el apartado c) del articulo quinto de la Ley de veintiséis de diciembre de mil novecientos cincuenta y ocho.
+
+Tres. De acuerdo con lo dispuesto en el número dos del articulo trigésimo octavo de la Ley de la Seguridad Social, la Mutualidad gozará del beneficio de pobreza a efectos jurisdiccionales y disfrutará en la misma medida que el Estado, de exención tributaria absoluta, incluidas las tasas y exacciones parafiscales que puedan gravar en favor del Estado y Corporaciones Locales y demás entes públicos, los actos que realice o los bienes que adquiera o posea afectos a sus fines, siempre que los tributos o exacciones de que se trate recaigan directamente sobre la Mutualidad en concepto legal de contribuyente y sin que sea posible legalmente la traslación de la carga tributaria a otras personas; gozará, finalmente, en la misma medida que el Estado, de franquicia postal y de especial tasa telegráfica.
+
+Cuatro. Corresponderá al Ministerio de Trabajo, previo informe de la Sección Femenina del Movimiento, dictar las disposiciones relativas a la constitución, régimen orgánico y funcionamiento de la Mutualidad, a que se refiere el presente artículo.
+
+#### Artículo cuadragésimo primero. Órganos de gobierno de la Mutualidad.
+
+Uno. Los órganos colegiados de gobierno en la Mutualidad serán los siguientes:
+
+a) La Asamblea General, con las funciones propias que le correspondan como órgano supremo de la Entidad.
+
+b) La Junta Rectora, con funciones de dirección y gobierno.
+
+c) La Comisión Delegada de la Junta Rectora, para resolución de asuntos urgentes de la competencia de esta última.
+
+d) Las Comisiones provinciales, para el cumplimiento de obligaciones, satisfacción de los derechos mutualistas, funciones informativas y resolutivas que se determinen.
+
+Dos. De conformidad con lo dispuesto en el articulo cuadragésimo primero de la Ley de la Seguridad Social, los Órganos de gobierno estarán formados por Vocales electivos, natos, de la Sección Femenina del Movimiento, y de libre designación, conforme a las normas y en la proporción que apruebe el Ministerio de Trabajo, previo informe de la Sección Femenina del Movimiento.
+
+#### Artículo cuadragésimo segundo. Competencia de la Mutualidad.
+
+Uno. La gestión de todas las contingencias y situaciones que constituyen la acción protectora, de este Régimen Especial de la Seguridad Social será asumida por la Mutualidad Nacional de Empleados de Hogar, sin perjuicio de que pueda establecer los conciertos previstos por la Ley de la Seguridad Social.
+
+Dos. El pago de prestaciones por el sistema de administración delegada no será aplicable para la efectividad de las que se otorgan por este Régimen Especial.
+
+#### Artículo cuadragésimo tercero. Régimen económico-administrativo.
+
+A los efectos del régimen económico-administrativo de este Régimen Especial, será de aplicación lo dispuesto en el artículo cuadragésimo tercero de la Ley de la Seguridad Social.
+
+## CAPÍTULO VII — Régimen económico financiero
+
+#### Artículo cuadragésimo cuarto. Recursos.
+
+Los recursos económicos de este Régimen Especial serán los siguientes:
+
+a) Las cotizaciones de los empleados de hogar y de los cabezas de familia.
+
+b) Las rentas e intereses y cualquier otro producto de sus bienes patrimoniales.
+
+c) Los bienes, derechos y acciones de que disponga el Montepío Nacional del Servicio Doméstico al entrar en vigor este Régimen Especial de la Seguridad Social.
+
+d) Las donaciones, legados o cualesquiera otros ingresos que se otorguen a esta Mutualidad.
+
+#### Artículo cuadragésimo quinto. Sistema financiero.
+
+Uno. El sistema financiero de este Régimen Especial será el de reparto y su cuota se revisará periódicamente para mantener la necesaria adecuación entre los recursos y las obligaciones del mismo. El primer período de reparto será de cuatro años.
+
+Dos. Se constituirá el correspondiente Fondo de nivelación mediante la acumulación financiera de las diferencias anuales entre la cuota media y la natural prevista.
+
+Tres. Asimismo se constituirá un Fondo de garantía para suplir los posibles déficit que puedan ocasionar la dispensación de prestaciones por cuantía superior a la prevista técnicamente o la disminución de las cotizaciones.
+
+#### Artículo cuadragésimo sexto. Inversiones.
+
+Los fondos de nivelación y de garantía de este Régimen Especial que no hayan de destinarse de modo inmediato al cumplimiento de obligaciones reglamentarias, serán invertidos en la misma forma y con análogas finalidades que se señalan para el Régimen General previo acuerdo de los Órganos centrales de gobierno de la Mutualidad.
+
+#### Artículo cuadragésimo séptimo. Gastos de administración.
+
+La cuantía de los gastos de administración de este Régimen Especial estará limitada a un porcentaje máximo de sus ingresos totales, que será aprobado por el Ministerio de Trabajo, a propuesta del Instituto Nacional de Previsión.
+
+## CAPÍTULO VIII — Faltas y sanciones
+
+#### Artículo cuadragésimo octavo. Norma general.
+
+Uno. De acuerdo con lo dispuesto en el artículo sesenta de la Ley de la Seguridad Social, serán infracciones las acciones u omisiones que supongan incumplimiento de las obligaciones que impone dicha Ley y de las reguladas en el presente Decreto, así como en sus disposiciones de aplicación y desarrollo; igualmente, las que dificulten u obstruyan la aplicación de este Régimen Especial y las que tiendan a defraudarlo.
+
+Dos. Los tipos de infracción, sujetos responsables, clases y cuantía de las sanciones y el procedimiento especial para la imposición de las mismas, serán los que se determinen para el Régimen General.
+
+#### Disposición final primera.
+
+Uno. Lo dispuesto en el presente Decreto tendrá vigencia desde el día uno de enero de mil novecientos setenta, con excepción de lo preceptuado respecto de la prestación por incapacidad laboral transitoria, que entrará en vigor a partir del día uno de enero del año mil novecientos setenta y uno.
+
+Dos. A efectos de lo dispuesto en el artículo décimo del presente Decreto, los empleados de hogar que causen baja en este Régimen Especial como consecuencia de alguna de las contingencias determinantes de incapacidad laboral transitoria durante el año mil novecientos setenta, podrán permanecer en situación asimilada a la de alta mediante el pago a su cargo de las cuotas, previsto en el numero dos del artículo decimosexto y de conformidad con lo dispuesto en el número cuatro del artículo decimocuarto.
+
+#### Disposición final segunda.
+
+Uno. La cuantía de la cuota de cotización a este Régimen Especial será de doscientas cincuenta pesetas durante el primer período de reparto, sin perjuicio de lo previsto en el número dos del artículo decimoquinto del presente Decreto.
+
+Dos. No obstante lo dispuesto en el número anterior, la cuota a que el mismo se refiere será de ciento setenta y cinco pesetas durante el año mil novecientos setenta y doscientas quince pesetas durante el año mil novecientos setenta y uno.
+
+#### Disposición final tercera.
+
+De conformidad con lo establecido en el artículo cuarto de la Ley de la Seguridad Social se faculta al Ministerio de Trabajo para dictar las disposiciones necesarias para la ejecución y desarrollo del presente Decreto.
+
+#### Disposición transitoria primera.
+
+Uno. Las prestaciones causadas con anterioridad a la fecha de entrada en vigor del Régimen Especial de la Seguridad Social para el Servicio Doméstico continuarán rigiéndose por la legislación anterior.
+
+Dos. Se entenderá por prestación causada aquélla a la que tiene derecho el beneficiario, por haberse producido las contingencias o situaciones objeto de protección y hallarse en posesión de todos los requisitos que condicionan su derecho, aunque aún no lo hubiera ejercitado.
+
+#### Disposición transitoria segunda.
+
+Uno. A medida que lo permitan las posibilidades económicas del Régimen Especial de la Seguridad Social para el Servicio Doméstico, se otorgará gradualmente la asistencia sanitaria a los pensionistas y a los que estén en el goce de prestaciones periódicas, así como a los familiares y asimilados de ambos.
+
+Dos. Con independencia de lo dispuesto en el número anterior, los pensionistas de vejez e invalidez de este Régimen Especial podrán disfrutar del derecho a los beneficios de la asistencia sanitaria del mismo, con carácter voluntario, mediante el pago de la cuota mensual que al efecto se señale por el Ministerio de Trabajo.
+
+#### Disposición transitoria tercera.
+
+Uno. Las cotizaciones computables efectuadas por los empleados de hogar en el Montepío Nacional del Servicio Doméstico serán válidas para el reconocimiento del derecho a las prestaciones establecidas en el presente Decreto.
+
+Dos. Cuando el período de cotización exigido en el nuevo Régimen para tener derecho a una prestación fuese superior al requerido en la legislación anterior, se aplicará aquél de modo paulatino; para ello, se partirá en la fecha en que entre en vigor dicho Régimen del período de cotización anteriormente exigido y se determinará el aplicable en cada caso concreto, añadiendo a tal período la mitad de los dias transcurridos entre la citada fecha y la del hecho causante de la prestación; dicha regla se aplicará hasta el momento en que el período de cotización así resultante sea igual al implantado por este Decreto.
+
+Para las prestaciones por invalidez permanente en los grados de incapacidad permanente parcial o total para la profesión habitual, inexistentes en el Régimen anterior, y absoluta para todo trabajo, se partirá de un período previo de cotización de veintitrés mensualidades, habida cuenta del período de cotización de setecientos días exigido. inicialmente, a estos efectos, en el Régimen General de la Seguridad Social. Dicho período se incrementará sucesivamente en la forma prevista en el párrafo anterior.
+
+Tres. Cuando el período de cotización exigido en el nuevo Régimen fuera inferior al requerido en el anterior, se aplicará aquél de modo inmediato.
+
+#### Disposición transitoria cuarta.
+
+Uno. Las Entidades Médicas Concertadas del Montepío Nacional del Servicio Doméstico que se encuentren actuando con tal carácter en la fecha de iniciación de este Régimen Especial, sólo podrán continuar su gestión asistencial concertada hasta el próximo vencimiento anual del concierto suscrito con dicho Montepío.
+
+Dos. Los beneficiarios que estuvieran adscritos a dichas Entidades Médicas pasarán a recibir las prestaciones sanitarias por conducto de la Organización de los Servicios Sanitarios del Instituto Nacional de Previsión.
+
+#### Disposición transitoria quinta.
+
+A la entrada en vigor del Régimen Especial de la Seguridad Social para el Servicio Doméstico se mantendrán en todas sus funciones los actuales Órganos de Gobierno centrales y provinciales del Montepío Nacional del Servicio Doméstico.
+
+Las normas que regulaban la constitución, régimen orgánico y funcionamiento del Montepío Nacional del Servicio Doméstico mantendrán su vigencia hasta tanto que, por el Ministerio de Trabajo, previo informe de la Sección Femenina del Movimiento, se dicten las disposiciones relativas a dicha materia para la Mutualidad Nacional de la Seguridad Social de los empleados de hogar.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a veinticinco de septiembre de mil novecientos sesenta y nueve.
+
+FRANCISCO FRANCO
+
+El Ministro de Trabajo,
+
+JESÚS ROMEO GORRÍA

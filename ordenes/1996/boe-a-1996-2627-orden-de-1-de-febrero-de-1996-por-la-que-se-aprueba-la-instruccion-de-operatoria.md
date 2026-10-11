@@ -1,0 +1,1819 @@
+---
+title: "Orden de 1 de febrero de 1996 por la que se aprueba la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado"
+identifier: "BOE-A-1996-2627"
+eli: "https://www.boe.es/eli/es/o/1996/02/01/(4)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1996-02-01
+published: 1996-02-08
+in_force_from: 1996-02-28
+last_amended: 2024-09-17
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 34"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-2627"
+retrieved: 2026-10-11
+---
+
+# Orden de 1 de febrero de 1996 por la que se aprueba la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado
+
+Incluye la corrección de errores publicada en BOE núm. 57, de 6 de marzo de 1996. [Ref. BOE-A-1996-5203](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-5203)
+
+Mediante Real Decreto 324/1986, de 10 de febrero, se implantó en la Administración General del Estado un nuevo Sistema de Información Contable (SICOP), con el cual se pretendía, entre otros objetivos principales, la aplicación del Plan General de Contabilidad Pública.
+
+De acuerdo con las facultades conferidas por la disposición final primera de dicho Real Decreto, el Ministerio de Economía y Hacienda, a propuesta de la Intervención General de la Administración del Estado, procedió a aprobar las normas que desarrollaban las disposiciones contenidas en aquél, destacando, entre ellas, la Orden de 16 de diciembre de 1986, por la que se regula la operatoria y tramitación a seguir en la ejecución del Presupuesto de Gastos del Estado.
+
+Como consecuencia de la aprobación de un nuevo Plan General de Contabilidad Pública, mediante Orden de 6 de mayo de 1994, y del desarrollo e implantación de una nueva versión del Sistema de Información Contable de la Administración General del Estado (SIC), se plantea la necesidad de revisar la normativa de desarrollo contable a que se refiere el párrafo anterior.
+
+A estos efectos, la presente Orden, que sustituye a la citada Orden de 16 de diciembre de 1986, aprueba la Instrucción que regula los procedimientos en la ejecución del gasto del Estado teniendo en cuenta las nuevas especificaciones previstas en el SIC y los nuevos tratamientos contables recogidos en el nuevo plan.
+
+Dicha Instrucción consta de un capítulo preliminar y otros tres capítulos.
+
+En el capítulo preliminar se dictan normas generales en cuanto al ámbito de aplicación de esta Instrucción y a la tramitación de los documentos contables.
+
+En el capítulo I se regula el procedimiento general que se debe seguir en la gestión de los créditos presupuestarios, refiriéndose a todas aquellas operaciones relativas al Presupuesto de Gastos que se producen con anterioridad a la fase de autorización del gasto. Así, se recoge la tramitación de los créditos iniciales, de las modificaciones de los créditos, de la creación y desglose de aplicaciones presupuestarias, de la delegación y desconcentración de créditos en los Servicios Territoriales, del cambio de situación de los créditos y de los límites para la realización de gastos plurianuales.
+
+En el capítulo II se regula el procedimiento general de ejecución del gasto público, refiriéndose a las operaciones presupuestarias que se producen a partir de la fase de autorización del gasto y a todas aquellas que no afectando inicialmente al presupuesto de gasto deberán aplicarse al mismo en un futuro próximo o bien otras operaciones que deben acompañar necesariamente a las de ejecución del gasto propiamente.
+
+Dicho capítulo contiene secciones sobre los siguientes temas: Proceso de ejecución del gasto (desde la fase de autorización del gasto hasta la fase de reconocimiento de la obligación); pagos a justificar; anticipos de caja fija; anticipos de Tesorería; tramitación anticipada de expedientes de gasto; proyectos de gasto; operaciones pendientes de aplicar al presupuesto y periodificación de gastos presupuestarios; proceso de cierre del presupuesto y traspaso de los compromisos de gasto; operaciones varias, y justificación de las operaciones y archivo de documentos y justificantes.
+
+Finalmente, en el capítulo III se regulan procedimientos específicos para cada tipo de gasto, destacándose las particularidades con respecto a lo regulado en los capítulos anteriores. Dentro de este capítulo se incluyen las siguientes secciones: 1.ª De los gastos de personal; 2.ª De los gastos corrientes en bienes y servicios y de las inversiones reales; 3.ª De las transferencias y subvenciones corrientes y de capital; 4.ª De las variaciones de activos financieros, y 5.ª De las variaciones de pasivos financieros y de los gastos financieros.
+
+En su virtud, y a propuesta de la Intervención General de la Administración del Estado,
+
+Este Ministerio ha tenido a bien disponer:
+
+#### Primero.
+
+Se aprueba la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado que figura en el anexo I de esta Orden, cuyas normas serán de aplicación a la Administración General del Estado.
+
+#### Segundo.
+
+Se aprueba el modelo incluido en el anexo II de esta Orden como estado de situación de Tesorería a que se refiere el artículo 9 del Real Decreto 725/1989, de 16 de junio, sobre anticipos de caja fija.
+
+#### Tercero.
+
+La Intervención General de la Administración del Estado dictará las normas complementarias, en el ámbito de sus competencias, que requiera la ejecución de la presente Orden.
+
+#### Disposición transitoria primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Disposición transitoria segunda.
+
+En el caso de retribuciones de personal laboral eventual con cargo al capítulo sexto de inversiones, cuyos contratos se hayan formalizado con anterioridad a la entrada en vigor de esta Orden, y con respecto a los cuales no se hubiera seguido el procedimiento indicado en el punto 2 de la regla 68 de la presente Instrucción, además del documento AD de ejercicio corriente que proceda expedir con imputación al ejercicio de 1996, se expedirá otro, de ejercicios posteriores, por el importe que se prevea gastar en los respectivos ejercicios.
+
+La estimación de dicho importe, que en todo caso deberá justificar el gasto anual previsto, podrá efectuarse a partir de las cantidades que se incluyan en la nómina del mes de enero del citado ejercicio, debiendo tener en cuenta el periodo de vigencia de los contratos.
+
+#### Disposición transitoria tercera.
+
+Para las deudas del Estado en circulación a 1 de enero de 1996, con respecto a las cuales no se hubiera seguido el procedimiento indicado en el punto 3 de la regla 97 de la presente Instrucción, el Servicio gestor deberá expedir al inicio del ejercicio 1996 los documentos AD de ejercicio corriente y, en su caso, otros de ejercicios posteriores, por el importe que se prevea gastar en los respectivos ejercicios en cada una de las deudas.
+
+#### Disposición transitoria cuarta.
+
+En el cierre de la contabilidad económico-patrimonial del ejercicio 1995, la central contable imputará a dicho ejercicio las obligaciones a que se refiere la regla 52 de la presente Instrucción con base en la información que a tal efecto le remitirán las oficinas de contabilidad de los Departamentos ministeriales.
+
+#### Disposición transitoria quinta. Aplicación de la regla 78 quáter en los distintos Departamentos ministeriales.
+
+La Intervención General de la Administración del Estado determinará mediante Resolución, teniendo en consideración la disponibilidad de medios para la implantación del inventario Sorolla, el momento en el que los distintos Departamentos Ministeriales deberán iniciar la aplicación del procedimiento descrito en la regla 78 quáter de la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado, que figura como anexo a esta Orden, relativa al procedimiento para la tramitación de las operaciones con incidencia en el inventario Sorolla.
+
+> Se añade por el art. 2.3 de la Orden HFP/1105/2017, de 16 de noviembre. [Ref. BOE-A-2017-13278](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13278)
+
+#### Disposición transitoria sexta. Obligación de capturar el número de certificado de inventario Sorolla en los documentos contables de control de pagos a justificar (presentación).
+
+La obligación de capturar el número de certificado del inventario Sorolla en los documentos de control de pagos a justificar relativos a la presentación de la cuenta justificativa entrará en vigor el 1 de julio de 2018.
+
+A partir de esta fecha, el órgano gestor de dichos pagos deberá comunicar a la oficina de contabilidad correspondiente los bienes adquiridos mediante este tipo de pago desde 1 de enero de 2018, una vez hayan sido incorporados al inventario Sorolla, para su registro en el SIC, teniendo en consideración los umbrales de activación establecidos por la IGAE así como la fecha de alta.
+
+> Se añade por el art. 2.4 de la Orden HFP/1105/2017, de 16 de noviembre. [Ref. BOE-A-2017-13278](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13278)
+
+#### Disposición adicional primera. Aplicación a organismos autónomos del Estado.
+
+Las normas contenidas en la presente Orden, excepto las que se refieren a la expedición de documentos contables, serán de aplicación, con carácter supletorio, a los organismos autónomos del Estado a que se refiere el artículo 4.º del texto refundido de la Ley General Presupuestaria, aprobado por Real Decreto Legislativo 1091/1988, de 23 de septiembre.
+
+#### Disposición adicional segunda. Reintegros de habilitados.
+
+En aquellos casos en que los habilitados o cajeros pagadores, que perciban con periodicidad pagos del Presupuesto de Gastos del Estado, deban reintegrar cantidades recibidas en exceso, dichas cantidades se deducirán de las siguientes órdenes de pago a favor de los mismos. Cuando tal procedimiento no pueda aplicarse, el reintegro se realizará de acuerdo con lo establecido en la Orden de 10 de mayo de 1989, sobre tramitación de reintegros.
+
+#### Disposición adicional tercera. Contabilidad de operaciones de intercambio financiero.
+
+Se autoriza a la Intervención General de la Administración del Estado a dictar las disposiciones necesarias para la contabilización de las operaciones de intercambio financiero.
+
+#### Disposición adicional cuarta. Aplicación de la regla 78 quáter a los activos del Ministerio de Defensa y otros bienes.
+
+1\. Dadas las especiales características de las Inversiones militares, en cuanto a confidencialidad, en la medida que la información relativa a dichos activos se considera altamente sensible, se autoriza a que el Ministerio de Defensa utilice el sistema de control de inventario que considere más adecuado para la gestión de los bienes de dicho Ministerio.
+
+Por tanto, lo establecido en la regla 78 quáter de la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado, que figura como anexo a esta Orden, respecto a los activos que deben integrarse en el módulo de gestión de inventario de la aplicación Sorolla no será de aplicación a las inversiones que se realicen en el ámbito del Ministerio de Defensa.
+
+2\. La excepción regulada en el punto 1 anterior se podrá aplicar a determinados bienes gestionados por otros Ministerios cuando se presenten razones análogas a las indicadas respecto a las inversiones militares. A estos efectos, la Intervención General de la Administración del Estado autorizará dicha excepción previa justificación por el responsable del órgano gestor de los bienes afectados.
+
+3\. La Intervención General de la Administración del Estado regulará la información relativa a las inversiones referidas en los apartados 1 y 2 anteriores que deberá remitirse a las oficinas de contabilidad correspondientes, así como su procedimiento de remisión, para su incorporación al SIC, con el nivel de agregación que se determine.
+
+> Se añade por el art. 2.2 de la Orden HFP/1105/2017, de 16 de noviembre. [Ref. BOE-A-2017-13278](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13278)
+
+#### Disposición derogatoria.
+
+1\. Quedan derogadas las siguientes disposiciones:
+
+a) La Orden de 16 de diciembre de 1986, sobre operatoria y tramitación a seguir en la ejecución del Presupuesto de Gastos del Estado.
+
+b) La Orden de 24 de febrero de 1983, sobre tramitación anticipada de expedientes de gasto.
+
+2\. Asimismo, quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a lo establecido en la presente Orden.
+
+Madrid, 1 de febrero de 1996.
+
+SOLBES MIRA
+
+Excmos. e Ilmos. Sres. ...
+
+## ANEXO I — Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado
+
+## CAPITULO PRELIMINAR — Normas generales
+
+#### Regla 1. Ambito de aplicación
+
+Las normas contenidas en la presente Instrucción serán de aplicación a la Administración General del Estado.
+
+#### Regla 2. Documentos contables
+
+1\. Toda operación relativa a la gestión de gastos del Estado se incorporará al sistema de información contable a través de uno o más documentos contables electrónicos, en función de la naturaleza de la operación de que se trate.
+
+Dichos documentos contables electrónicos se expedirán y tramitarán según los procedimientos establecidos en la presente Instrucción, debiendo ajustarse a los modelos que al respecto hayan sido aprobados por el Ministerio de Hacienda.
+
+A los efectos previstos en el primer párrafo de este punto, los Servicios gestores remitirán a la oficina de contabilidad del Departamento ministerial, excepto cuando deban ser remitidos a otra oficina de contabilidad, los documentos contables electrónicos por ellos expedidos, autorizados mediante la incorporación de la firma electrónica del responsable competente para ello. La remisión deberá realizarse de acuerdo al procedimiento establecido por la Intervención General de la Administración del Estado.
+
+En el marco del procedimiento indicado en el párrafo anterior, las instrucciones dictadas por la Intervención General de la Administración del Estado establecerán las comprobaciones a realizar por las oficinas de contabilidad con carácter previo a la contabilización en el SIC de las respectivas operaciones. Estas comprobaciones podrán realizarse mediante actuaciones automatizadas por contraste entre los datos de los documentos contables y la información estructurada o/y los metadatos de los justificantes que los acompañen, en la medida en que se avance en el proceso de estructuración de dichos justificantes.
+
+No obstante, cuando por circunstancias excepcionales así lo determine la Intervención General de la Administración del Estado a propuesta del responsable de la oficina de contabilidad, se podrán expedir documentos contables en papel.
+
+2\. En los casos que a continuación se detallan, las oficinas de contabilidad no tomarán razón de las operaciones, procediendo a devolver a los Servicios gestores los correspondientes documentos contables electrónicos:
+
+a) Cuando no se hayan recibido todos los documentos que se precisen para el registro de la operación en cuestión, o bien cuando los documentos no contengan todos los requisitos o datos exigidos.
+
+b) En aquellos casos en que a los documentos no se acompañe la justificación a que se refiere la sección 10.ª del capítulo II de la presente Instrucción.
+
+c) Cuando la información a incorporar al sistema sea incoherente con los datos anteriormente introducidos, o incompatible con las validaciones requeridas por el mismo.
+
+3\. Los Servicios gestores deberán tomar las medidas oportunas que garanticen que la expedición de los documentos contables electrónicos y su remisión a las oficinas de contabilidad se realice en el plazo más breve posible desde el momento en el que se dictaron los correspondientes actos administrativos.
+
+4\. A los efectos anteriores, todas las referencias que se realicen en las distintas reglas de esta Instrucción al envío de documentos contables y de sus justificantes a las oficinas de contabilidad, se entenderán referidas a la remisión a dichas oficinas contables de los documentos contables electrónicos acompañados de sus justificantes electrónicos. Asimismo respecto a las referencias de esta Instrucción a certificados o certificaciones obtenidos del SIC y a su puesta a disposición, deberán entenderse realizadas por medios electrónicos.
+
+> Se modifica por el art. 2.1 de la Orden HAC/552/2019, de 11 de abril. [Ref. BOE-A-2019-7344](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-7344)
+
+> Esta modificación será de aplicación a partir del 1 de febrero de 2020, según establece la disposición final única de la citada Orden.
+
+> Se modifica el apartado 4 por la disposición adicional 2 de la Orden EHA/777/2005, de 21 de marzo. [Ref. BOE-A-2005-5088](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-5088).
+
+> Téngase en cuenta para su aplicación la disposición final 2.
+
+> Se añade el apartado 4 por el punto 2.1 de la Orden HAC/240/2004, de 26 de enero. [Ref. BOE-A-2004-2499](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2499).
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
+
+> Se añade el párrafo tercero del apartado 1 por el punto 1.1 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+## CAPITULO I — De la gestión de los créditos presupuestarios
+
+### Sección 1.ª De los créditos iniciales
+
+#### Regla 3. Apertura del Presupuesto de Gastos
+
+Una vez realizada la carga de las correspondientes estructuras presupuestarias en el sistema de información contable, la oficina de contabilidad de cada departamento ministerial procederá a registrar la apertura de su Presupuesto de Gastos incorporando como créditos iniciales los autorizados en la Ley de Presupuestos Generales del Estado aprobada por las Cortes Generales.
+
+> Se modifica por el punto 1.2 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 4. Prórroga del Presupuesto de Gastos
+
+1\. Si al inicio de un ejercicio no se hubiera aprobado aún la correspondiente Ley de Presupuestos, se procederá a la prórroga automática de los presupuestos del ejercicio anterior, tal como se establece en el artículo 56 del texto refundido de la Ley General Presupuestaria.
+
+2\. La carga del presupuesto prorrogado se efectuará por los importes de los créditos iniciales del ejercicio anterior menos los créditos para gastos correspondientes a servicios o programas que deban terminar en dicho ejercicio, tal como se determine en los acuerdos que se adopten para la justificación de la prórroga. Para el registro de esta operación no será necesaria la expedición de ningún documento contable específico.
+
+3\. Cuando, posteriormente, se aprueben los nuevos presupuestos, se efectuarán los ajustes necesarios para adecuar el presupuesto inicialmente cargado en la prórroga al presupuesto finalmente aprobado por el Parlamento.
+
+El presupuesto aprobado por las Cortes producirá efectos desde el día 1 de enero del ejercicio al que corresponda. Los créditos incluidos en dicho presupuesto tendrán la consideración de créditos iniciales y a ellos se imputarán los gastos realizados con cargo a los créditos del presupuesto prorrogado.
+
+En el caso de que dichos gastos fuesen superiores a los créditos finalmente aprobados, el respectivo Departamento ministerial propondrá la imputación del exceso de gastos a otros créditos, cuya minoración ocasione menos trastornos para el servicio público.
+
+### Sección 2.ª De las modificaciones de los créditos
+
+#### Regla 5. Procedimiento general
+
+Una vez aprobada una modificación de créditos por el órgano que tenga atribuida la competencia, se deberá comunicar a la Dirección General de Presupuestos para que actualice sus bases de datos y expida y autorice los documentos MC o de modificación de créditos que remitirá a la oficina de contabilidad en el Departamento afectado.
+
+#### Regla 5 bis. Modificaciones de crédito financiadas con cargo al Fondo de contingencia o mediante la minoración de otra aplicación
+
+Cuando la modificación de crédito se financie mediante el recurso al "Fondo de contingencia de ejecución presupuestaria" previsto en el artículo 15 de la Ley 18/2001, de 12 de diciembre, General de Estabilidad Presupuestaria, o mediante la minoración del crédito de otra aplicación presupuestaria, previamente a la tramitación del expediente de modificación de crédito, se deberá retener su importe en las aplicaciones presupuestarias cuyos créditos vayan a ser minorados.
+
+La aprobación de modificaciones de crédito financiadas mediante el recurso al "Fondo de contingencia de ejecución presupuestaria" o con cargo a otra aplicación del presupuesto de gastos implicará la expedición de dos documentos MC: Uno con signo positivo para las aplicaciones presupuestarias en las que se produce el incremento de crédito y otro negativo que afectará a la aplicación presupuestaria del Fondo de contingencia de ejecución presupuestaria o, en su caso, a la aplicación presupuestaria en la que se efectúe la baja por anulación o minoración del crédito.
+
+En el documento MC negativo, referente a la baja por anulación o minoración de crédito, se consignará el número de registro contable correspondiente a la retención de crédito efectuada con anterioridad.
+
+> Se añade por el punto 2.2 de la Orden HAC/240/2004, de 26 de enero. [Ref. BOE-A-2004-2499](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2499).
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
+
+#### Regla 6. Transferencias de crédito
+
+1\. Con carácter previo a la tramitación de un expediente de transferencia de crédito, se deberá retener su importe en las aplicaciones presupuestarias que vayan a ser minoradas, tal como se establece en la regla 15.
+
+2\. Una vez aprobada, este tipo de operación implicará la expedición de dos documentos MC, uno con signo positivo para las aplicaciones presupuestarias que reciben crédito y otro con signo negativo para las que lo transfieren.
+
+3\. En el documento MC de signo negativo se consignará el número de registro contable correspondiente a la retención de crédito efectuada con anterioridad.
+
+#### Regla 7. Adscripción de créditos
+
+Las operaciones de adscripción de créditos, consistentes en la afectación a un destino específico de los créditos o dotaciones globales que figuren en los Presupuestos Generales del Estado, se instrumentarán mediante documentos MC de transferencias de crédito entre el concepto presupuestario en el que estén autorizados dichas adscripciones y el concepto presupuestario, nuevo o ya existente, del Departamento ministerial al que se concede la adscripción.
+
+#### Regla 8. Anulaciones
+
+Las anulaciones de las modificaciones de crédito estarán soportadas en documentos análogos a los que dieron lugar a la operación anulada pero de signo negativo, teniendo la misma tramitación que la indicada en las reglas anteriores.
+
+### Sección 3.ª De la creación y desglose de aplicaciones presupuestarias
+
+#### Regla 9. Creación de aplicaciones presupuestarias
+
+Cuando, existiendo dotación presupuestaria para una o varias aplicaciones presupuestarias, se pretenda imputar gastos a otras aplicaciones dentro del mismo nivel de vinculación que no figuren en la contabilidad del seguimiento del Presupuesto de Gastos por no contar con dotación presupuestaria, el Servicio gestor solicitará a la oficina de contabilidad la creación de la correspondiente aplicación presupuestaria, sin necesidad de efectuar una operación de transferencia de crédito.
+
+La anterior solicitud, de la que deberá dar cuenta a la oficina presupuestaria, podrá sustituirse por una diligencia en el primer documento contable que se expida con cargo a la nueva aplicación en la que se indicará: "Primera operación imputada a la aplicación...., al amparo de la regla 9 de la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado-Orden ministerial de... (fecha de su aprobación)".
+
+> Se modifica por el punto 1.3 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 10. Desglose de aplicaciones presupuestarias y reasignación de créditos.
+
+1\. La operación de desglose de aplicaciones presupuestarias, que puede afectar a cualesquiera de las clasificaciones orgánica, funcional o económica, permite a los servicios gestores ejecutar sus créditos presupuestarios a un mayor nivel de desagregación que el que figuraba en el presupuesto aprobado, sin perjuicio del nivel de vinculación jurídica de dichos créditos.
+
+2\. Para efectuar esta operación, los Servicios gestores expedirán el oportuno documento de «Desglose», que remitirán a la oficina de contabilidad. Asimismo, deberán comunicar la operación a la oficina presupuestaria del Departamento.
+
+3\. La operación de "Reasignación de créditos" permite a los servicios gestores realizar modificaciones en los créditos desglosados.
+
+Dichas modificaciones pueden consistir en reponer todo o parte del crédito a la aplicación origen del desglose o en reasignar crédito entre aplicaciones desglosadas, dentro del mismo nivel de desglose.
+
+Para efectuar esta operación, los servicios gestores expedirán el oportuno documento de "Reasignación", que remitirán a la oficina de contabilidad. Asimismo, deberán comunicar la operación a la oficina presupuestaria del Departamento.
+
+> Se modifica el título, el apartado 1 y se añade el 3 por el punto 1.4 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+### Sección 4.ª De la delegación y de la desconcentración de competencias en los Servicios Territoriales
+
+> Se modifica la rúbrica por el punto 1.5 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 11. Delegación de competencias en los Servicios Territoriales
+
+1\. En caso de delegación de competencias de gestión de gastos en favor de los servicios periféricos del Ministerio, los centros gestores del gasto podrán distribuir entre dichos servicios los correspondientes créditos presupuestarios, pudiendo seguir el procedimiento indicado en los siguientes apartados de esta regla.
+
+2\. Cuando el centro gestor quiera utilizar el sistema de información contable para realizar el seguimiento contable de los créditos distribuidos, deberá expedir el documento "Desglose", que será remitido a la oficina de contabilidad del Departamento ministerial.
+
+3\. En el caso de que el centro gestor no distribuya los créditos o cuando no utilice el sistema de información contable para realizar el seguimiento contable de los créditos distribuidos, deberá comunicar la delegación de competencias a las oficinas de contabilidad de las delegaciones de Economía y Hacienda afectadas, a los efectos de que por aquéllas se puedan registrar las operaciones que se deriven de dicha delegación. Dicha comunicación se realizará a través de la oficina de contabilidad del Departamento ministerial.
+
+4\. En relación con los créditos cuyas competencias de gasto hubieran sido objeto de delegación, la respectiva oficina de contabilidad de la Delegación de Economía y Hacienda podrá registrar "Retenciones de crédito para gastar" a las que se refiere la regla 14, así como cualquiera de las operaciones de ejecución de gastos a que se refiere el capítulo II de esta Instrucción.
+
+5\. La oficina contable del Departamento ministerial seguirá teniendo acceso a cualquier consulta relativa a los créditos que hubieran sido objeto de distribución, así como al registro de las modificaciones presupuestarias, desgloses, retenciones para transferencia, o acuerdos de no disponibilidad que afecten a dichos créditos.
+
+> Se modifica por el punto 1.6 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 12. Desconcentración de competencias en los Servicios Territoriales
+
+En caso de desconcentración de competencias de gestión de gastos en favor de los servicios periféricos del Ministerio, los centros gestores del gasto podrán realizar el seguimiento contable de los correspondientes créditos presupuestarios mediante el procedimiento regulado en la regla anterior.
+
+> Se modifica por el punto 1.7 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+### Sección 5.ª Del cambio de situación de los créditos
+
+#### Regla 13. Delimitación
+
+Los créditos consignados en el Presupuesto de Gastos tendrán la consideración de disponibles para el servicio gestor al que se le asignen, en tanto no se realice alguna de las operaciones indicadas en las reglas siguientes de esta Sección o se produzca la autorización de gastos, a que se refiere la regla 21.
+
+> Se modifica por el punto 1.8 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 14. Retención de créditos para gastar
+
+1\. Al inicio de la tramitación de un expediente de gasto, el Servicio Gestor competente solicitará que se certifique la existencia de crédito disponible para su realización. En aquellos casos contemplados en el Capítulo III de esta Instrucción, en que tal solicitud no sea obligatoria, el Servicio Gestor valorará la conveniencia de formular tal solicitud.
+
+Para la solicitud del certificado a que se refiere el párrafo anterior, el Servicio Gestor expedirá un documento RC, de retención de créditos para gastar, que remitirá a la oficina de contabilidad.
+
+Una vez efectuado su registro, y por el importe solicitado mediante el documento RC, el crédito quedará retenido para su posterior utilización en el gasto de que se trate, obteniéndose del sistema un certificado de existencia de crédito que será remitido al Servicio Gestor para su incorporación al respectivo expediente.
+
+2\. La Intervención General de la Administración del Estado podrá autorizar, mediante Resolución, al Servicio Gestor acceder al Sistema de Información Contable a efectos de capturar los documentos RC. En este caso, dichos documentos contables no tendrán que ser remitidos a la oficina de contabilidad, procediéndose a su registro por el propio Servicio Gestor. Seguidamente, el Servicio Gestor incorporará al expediente de gasto el certificado que acredite la existencia de crédito que obtendrá del Sistema de Información Contable.
+
+Cuando los documentos RC indicados en el párrafo anterior se refieran a operaciones vinculadas a proyectos de gasto, previamente al registro de dichos documentos RC, el Servicio Gestor registrará en el Sistema de Información Contable las altas de los expedientes de gasto que vayan a ser objeto de tramitación, a través de los oportunos documentos de gestión de expedientes.
+
+3\. Las posibles anulaciones de las retenciones de crédito a que se refieren los puntos anteriores de esta regla se tramitarán de acuerdo con el procedimiento establecido en la regla 18.
+
+4\. Cuando una norma así lo establezca, el documento RC podrá ser expedido de oficio por la oficina de contabilidad.
+
+> Se modifica por el punto 2.3 de la Orden HAC/240/2004, de 26 de enero. [Ref. BOE-A-2004-2499](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2499).
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
+
+#### Regla 14 bis. Retención de créditos para bajas por anulación y otras minoraciones
+
+1\. Al iniciarse un expediente de bajas por anulación u otro tipo de minoraciones de crédito, se solicitará certificación de que existe saldo disponible en la aplicación presupuestaria que se ha de minorar.
+
+Para ello, la Oficina Presupuestaria del Departamento Ministerial o, en su caso, la Dirección General de Presupuestos expedirá un documento RC, "de retención de créditos para bajas por anulación y otras minoraciones", que remitirá a la Oficina de Contabilidad.
+
+Una vez registrado el documento RC, y por el importe consignado en el mismo, el crédito quedará retenido para ser utilizado en la realización de la baja por anulación u otra minoración, obteniéndose del Sistema un certificado que será remitido al órgano solicitante para su incorporación al expediente de bajas de crédito de que se trate.
+
+2\. La Intervención General de la Administración del Estado podrá autorizar, mediante Resolución, a la Oficina Presupuestaria acceder al Sistema de Información Contable a efectos de capturar los documentos RC de retención de créditos para bajas por anulación y otras minoraciones. En este caso, dichos documentos contables no tendrán que ser remitidos a la oficina de contabilidad, procediéndose a su registro por la propia Oficina Presupuestaria. Seguidamente, la Oficina Presupuestaria incorporará al expediente de modificación presupuestaria el certificado de existencia de crédito que obtendrá del Sistema de Información Contable.
+
+Cuando los documentos RC de retención de créditos para bajas por anulación y otras minoraciones los expida la Dirección General de Presupuestos, las referencias que se realizan en el párrafo anterior a la Oficina Presupuestaria se entenderán realizadas a la Dirección General de Presupuestos.
+
+3\. Las posibles anulaciones de las retenciones de crédito a que se refieren los puntos anteriores de esta regla se tramitarán de acuerdo con el procedimiento establecido en la regla 18.
+
+> Se añade por el punto 2.4 de la Orden HAC/240/2004, de 26 de enero. [Ref. BOE-A-2004-2499](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2499).
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
+
+#### Regla 15. Retención de créditos para transferencias
+
+1\. Al iniciarse un expediente de transferencia de crédito se solicitará certificación de que existe saldo disponible en el crédito presupuestario que se ha de minorar.
+
+Para ello, la Oficina Presupuestaria del Departamento Ministerial o, en su caso, la Dirección General de Presupuestos expedirá un documento RC, de retención de créditos para transferencias, que remitirá a la oficina de contabilidad.
+
+Una vez registrado el documento RC, y por el importe consignado en el mismo, el crédito quedará retenido para ser utilizado en la realización de la transferencia, obteniéndose del sistema un certificado de existencia de crédito que será remitido al órgano solicitante para su incorporación al expediente de modificación presupuestaria.
+
+2\. La Intervención General de la Administración del Estado podrá autorizar, mediante Resolución, a la Oficina Presupuestaria acceder al Sistema de Información Contable a efectos de capturar los documentos RC de retención de créditos para transferencias. En este caso, dichos documentos contables no tendrán que ser remitidos a la oficina de contabilidad, procediéndose a su registro por la propia Oficina Presupuestaria. Seguidamente, la Oficina Presupuestaria incorporará al expediente de modificación presupuestaria el certificado de existencia de crédito que obtendrá del Sistema de información contable.
+
+Cuando los documentos RC de retención de créditos para transferencias los expida la Dirección General de Presupuestos, las referencias que se realizan en el párrafo anterior a la Oficina Presupuestaria se entenderán realizadas a la Dirección General de Presupuestos.
+
+3\. Las posibles anulaciones de las retenciones de crédito a que se refieren los puntos anteriores de esta regla se tramitarán de acuerdo con el procedimiento establecido en la regla 18.
+
+> Se modifica por el punto 2.5 de la Orden HAC/240/2004, de 26 de enero. [Ref. BOE-A-2004-2499](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2499).
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
+
+#### Regla 16. No disponibilidad de créditos
+
+1\. Cuando el Gobierno acuerde la no disponibilidad de todo o parte de un crédito consignado en el Presupuesto de Gastos, la Dirección General de Presupuestos expedirá un documento RC, de retención de créditos por no disponibilidad, que remitirá a la correspondiente oficina presupuestaria, comprobándose por la misma si el crédito a que afecta ha sido objeto de desglose.
+
+Si el desglose del crédito no se hubiese efectuado, el documento RC recibido se remitirá directamente a la oficina de contabilidad.
+
+Cuando el crédito afectado por la no disponibilidad estuviese desglosado, la oficina presupuestaria registrará la misma en las aplicaciones presupuestarias que corresponda, emitiendo un nuevo documento RC imputado a las citadas aplicaciones, el cual se enviará a la oficina de contabilidad junto con el documento RC original recibido de la Dirección General de Presupuestos.
+
+2\. La no disponibilidad de un crédito no conllevará la anulación del mismo, pero con cargo al saldo en situación de no disponible no podrán acordarse autorizaciones de gasto.
+
+3\. Una vez realizado el registro del correspondiente documento RC, el Sistema de Información Contable emitirá las oportunas certificaciones que serán remitidas a los Servicios gestores afectados como comunicación de la retención contabilizada.
+
+> Se modifica el párrafo tercero del apartado 1 por el punto 1.9 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 17. Operaciones complementarias
+
+Cuando en la tramitación de las operaciones a que se refieren las reglas anteriores fuese necesario efectuar alguna retención de crédito complementaria de otra realizada con anterioridad, dicha operación complementaria se tramitará según lo que se establece en dichas reglas, debiendo referenciarse a la retención inicial de acuerdo con las normas que al respecto se contienen en la regla 27.
+
+#### Regla 18. Anulaciones
+
+1\. Cuando proceda anular una retención de crédito, el órgano que en su momento hubiese solicitado retención instará su anulación mediante el oportuno documento RC negativo, el cual será remitido a la oficina de contabilidad.
+
+2\. Cuando la anulación de una retención de crédito sea consecuencia de la renuncia a la tramitación del respectivo gasto o transferencia, el correspondiente documento RC negativo se acompañará de la renuncia o desistimiento, si existen, o de una memoria justificativa de la anulación solicitada, debiendo aportarse, junto con dichos documentos, el certificado de existencia de crédito, en soporte papel o electrónico, que se expidió como consecuencia de la retención que se pretende anular.
+
+3\. En cualquier caso, los documentos RC negativos deberán estar referenciados a la retención de crédito que, total o parcialmente, se pretenda anular, de acuerdo con las normas que al respecto se contienen en la regla 27.
+
+4\. Una vez realizado el registro del correspondiente documento RC negativo, el Sistema de Información Contable emitirá una certificación que será remitida al órgano solicitante como comunicación de la anulación contabilizada.
+
+> Se modifica el apartado 2 por el art. 2.1 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+### Sección 6.ª De los límites para la realización de gastos plurianuales
+
+#### Regla 19. Retenciones sobre el límite para gastos de ejercicios posteriores
+
+1\. Al inicio de la tramitación de un expediente de gasto plurianual se solicitará que se certifique que la parte de gasto imputable a ejercicios posteriores no sobrepasa los límites a que se refiere el artículo 61 del Texto Refundido de la Ley General Presupuestaria, excepto en aquellos casos contemplados en el Capítulo III de esta Instrucción en que tal solicitud no sea obligatoria.
+
+Para ello, el Servicio Gestor competente para la tramitación del gasto expedirá un documento RC de ejercicios posteriores detallando el importe que del gasto en cuestión corresponde a cada uno de los ejercicios posteriores afectados. Este documento, junto con el RC de retención de créditos para gastar que se expida por el gasto imputable a la anualidad en curso, se remitirá a la oficina de contabilidad.
+
+Una vez efectuado su registro contable, y por los importes solicitados mediante el documento RC de ejercicios posteriores, se producirá la minoración de los límites existentes en las aplicaciones presupuestarias afectadas, quedando a partir de este momento reservadas las respectivas cuantías para su posterior utilización en el citado expediente.
+
+Asimismo, del Sistema de Información Contable se obtendrá un certificado de suficiencia de límite de compromisos que será remitido al Servicio Gestor para su incorporación al respectivo expediente.
+
+2\. La Intervención General de la Administración del Estado podrá autorizar, mediante Resolución, al Servicio Gestor acceder al Sistema de Información Contable a efectos de capturar los documentos RC de ejercicios posteriores. En este caso, dichos documentos contables no tendrán que ser remitidos a la oficina de contabilidad, procediéndose a su registro por el propio Servicio Gestor. Seguidamente, el Servicio Gestor incorporará al expediente de gasto el certificado que acredite la suficiencia de límite de compromisos que obtendrá del Sistema de Información Contable.
+
+3\. Las posibles operaciones complementarias y anulaciones que, en relación con lo previsto en los puntos anteriores de esta regla, sea necesario realizar en la tramitación de gastos de carácter plurianual se efectuarán de acuerdo con el procedimiento establecido en las reglas 17 y 18, respectivamente.
+
+> Se modifica por el punto 2.6 de la Orden HAC/240/2004, de 26 de enero. [Ref. BOE-A-2004-2499](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2499).
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
+
+### Sección 7.ª Retenciones cautelares en relación con determinadas operaciones
+
+> Se añade por el art. 2.1 de la Orden HAP/336/2014, de 4 de marzo. [Ref. BOE-A-2014-2486](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2486).
+
+#### Regla 19 bis. Registro de oficio de retenciones de crédito y retenciones sobre el límite para gastos de ejercicios posteriores en relación con determinadas operaciones.
+
+1\. Los Servicios gestores deberán remitir a la oficina de contabilidad, inmediatamente después de su expedición, los documentos contables RC de retenciones de crédito del ejercicio corriente y retenciones sobre el límite para gastos de ejercicios posteriores según lo establecido en la Disposición adicional vigésima primera de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en relación con los procedimientos de expropiación forzosa, las revisiones de precios y las operaciones relativas al 1 por 100 de las aportaciones estatales para la conservación o enriquecimiento del Patrimonio Histórico Español.
+
+La oficina de contabilidad registrará los documentos RC de forma inmediata en el sistema de información contable, quedando a partir de dicho momento retenido el crédito para su posterior utilización en el gasto de que se trate o minorados los límites existentes en las aplicaciones presupuestarias afectadas reservándose las respectivas cuantías para su posterior utilización en los correspondientes expedientes.
+
+2\. Cuando la oficina de contabilidad tenga constancia de que habiéndose producido las situaciones previstas en la citada Disposición adicional vigésima primera, el Servicio gestor no ha enviado las retenciones de crédito indicadas en el apartado 1 anterior, procederá a comunicar a dicho servicio que en el plazo de treinta días deberá remitir a dicha oficina de contabilidad las citadas retenciones de crédito o, en caso de no disponer de crédito o límite suficiente de compromisos plurianuales para poder hacer frente al importe de las mismas, las actuaciones que tiene previsto realizar al objeto de proveer de la cobertura necesaria a las correspondientes operaciones.
+
+3\. Si cumplido el citado plazo de treinta días el Servicio gestor no hubiere comunicado a la oficina de contabilidad la documentación indicada en el apartado anterior, la oficina de contabilidad deberá proceder a estimar el importe al que deberían ascender las retenciones de crédito no realizadas, de acuerdo con el criterio previsto en la citada Disposición adicional vigésima primera.
+
+La oficina de contabilidad propondrá a la Intervención General de la Administración del Estado la realización de las correspondientes retenciones de crédito cautelares por el importe estimado en los créditos que determine dicha oficina, preferentemente dentro del mismo capítulo y, en todo caso, en el mismo programa, del presupuesto a los que correspondan dichas operaciones. Para determinar el mencionado importe se tendrán en cuenta las necesidades valoradas de la gestión propia del Departamento, considerando especialmente las derivadas del cumplimiento de las obligaciones de carácter ineludible de dicho Departamento.
+
+La Intervención General de la Administración del Estado adoptará el correspondiente acuerdo, previa audiencia a la Subsecretaría del Ministerio al que pertenezca el Servicio gestor.
+
+Con base en dicho acuerdo, la oficina de contabilidad registrará de oficio los correspondientes documentos contables RC de retenciones de crédito que serán comunicadas al Servicio gestor.
+
+4\. Hasta el momento en que se determinen las actuaciones definitivas relativas a las citadas operaciones, el Servicio gestor podrá solicitar a la oficina de contabilidad la anulación de las retenciones de crédito indicadas en los apartados anteriores, siempre que simultáneamente se registren por dicha oficina nuevas retenciones de crédito, de acuerdo con la comunicación recibida del Servicio gestor, por un importe igual al de las retenciones a anular, a fin de que queden retenidos en aquellas aplicaciones presupuestarias cuya minoración ocasione menos trastornos para el servicio público.
+
+5\. El registro en el sistema de información contable de las retenciones de crédito y de las anulaciones de retenciones a que se refieren los apartados 3 y 4 anteriores se efectuará por las oficinas de contabilidad, a efectos de poder efectuar el control efectivo de la imputación definitiva de las operaciones pendientes de registro.
+
+> Se añade por el art. 2.1 de la Orden HAP/336/2014, de 4 de marzo. [Ref. BOE-A-2014-2486](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2486).
+
+## CAPITULO II — Del procedimiento general de ejecución del gasto público
+
+### Sección 1.ª Del proceso de ejecución del gasto
+
+#### Regla 20. Delimitación
+
+1\. La ejecución de los gastos presupuestarios se realizará en las siguientes fases:
+
+a) Autorización del gasto.
+
+b) Compromiso del gasto.
+
+c) Reconocimiento de la obligación.
+
+2\. La ordenación y ejecución de los pagos correspondientes a las obligaciones reconocidas por gastos presupuestarios se realizarán de acuerdo con lo que se establezca en la Orden que regule los procedimientos para el pago de obligaciones de la Administración General del Estado.
+
+#### Regla 21. Autorización del gasto
+
+1\. La autorización es el acto administrativo por el que la autoridad competente para gestionar un gasto con cargo a un crédito presupuestario aprueba su realización, determinando su cuantía de forma cierta, o bien de la forma más aproximada posible cuando no pueda calcularse exactamente, reservando a tal fin la totalidad o una parte del crédito presupuestario.
+
+2\. Las actuaciones a llevar a cabo para autorizar la realización de un gasto quedarán reflejadas en un expediente de gasto. Aprobado éste, el respectivo Servicio gestor formulará un documento A, de autorización de gastos de ejercicio corriente, por el importe que de dicho expediente corresponda al presupuesto en curso y, en su caso, un documento A de autorización de gastos de ejercicios porteriores en el que se detallará la distribución por anualidades de la parte de gasto que se aprueba con cargo a presupuestos futuros.
+
+Cuando al inicio del expediente de gasto se hubiese efectuado la retención del crédito correspondiente, en los documentos A se hará constar que la autorización del gasto se efectúa sobre créditos previamente retenidos, así como la referencia a los documentos RC de inicio de la tramitación presupuestaria del gasto, de acuerdo con las normas que al respecto se contienen en la regla 27.
+
+3\. Los documentos A, junto con la documentación que, de acuerdo con lo que se establece en la sección 10 de este capítulo II, deba servir de justificante a la operación, habrán de ser remitidos a la oficina de contabilidad.
+
+#### Regla 22. Compromiso del gasto
+
+1\. El compromiso de gastos o disposición es el acto administrativo en virtud del cual la autoridad competente acuerda o concierta con un tercero, según los casos, y tras el cumplimiento de los trámites que con sujeción a la normativa vigente procedan, la realización de obras, prestaciones de servicios, transferencias, subvenciones, etcétera, que previamente hubieran sido autorizados.
+
+2\. Una vez comprometido el gasto, el Servicio gestor formulará un documento D, de compromiso de gastos de ejercicio corriente, por el importe correspondiente al Presupuesto en curso y, en su caso, un documento D de compromiso de gastos de ejercicios posteriores en el que detallará la distribución por anualidades de los compromisos que habrán de ser financiados con presupuestos de futuros ejercicios.
+
+3\. Los documentos D, junto con la documentación que, de acuerdo con lo que se establece en la sección 10 de este capítulo II, deba servir de justificante a la operación, habrán de ser remitidos a la oficina de contabilidad.
+
+#### Regla 23. Reconocimiento de la obligación
+
+1\. El reconocimiento de la obligación es el acto administrativo en virtud del cual la autoridad competente acepta formalmente, con cargo al Presupuesto del Estado, una deuda a favor de un tercero como consecuencia del cumplimiento por parte de éste de la prestación a que se hubiese comprometido, según el principio del «servicio hecho», o bien, en el caso de obligaciones no recíprocas, como consecuencia del nacimiento del derecho de dicho tercero en virtud de la Ley o de un acto administrativo que, según la legislación vigente, lo otorgue.
+
+2\. Previamente al reconocimiento de las obligaciones ha de acreditarse documentalmente ante el órgano competente la realización de la prestación o el derecho del acreedor, de conformidad con los acuerdos que en su día autorizaron y comprometieron el gasto.
+
+3\. Sin perjuicio de lo que se establece en el punto 4 siguiente, todo reconocimiento de la obligación llevará implícita la correspondiente propuesta de pago, entendiendo como tal la solicitud por parte de la autoridad competente que ha reconocido la existencia de una obligación para que, de acuerdo con la normativa vigente, el Ordenador general de Pagos proceda a efectuar la ordenación de su pago.
+
+Una vez acordado el reconocimiento de la obligación, el Servicio gestor competente expedirá un documento OK, el cual, junto con la documentación que, de acuerdo con lo que se establece en la sección 10 de este capítulo II, deba servir de justificante a la operación, será remitido a la oficina de contabilidad.
+
+4\. Excepcionalmente, tratándose de operaciones específicas de la Deuda Pública, podrán expedirse documentos O, de reconocimiento de la obligación, que no lleven implícita la propuesta de pago.
+
+En estos supuestos, la propuesta de pago se expedirá por el Servicio gestor correspondiente, con posterioridad al reconocimiento de la obligación, de acuerdo con las normas de tramitación que se establecen en el capítulo III de la presente Instrucción, debiendo formularse al efecto el oportuno documento K, de propuesta de pago.
+
+5\. En los documentos que incorporen la fase de reconocimiento de la obligación, deberán figurar las fechas en que se realizó el gasto y en que se dictó el acto administrativo de reconocimiento de la obligación, cumplimentadas de acuerdo con los criterios establecidos en la Orden Ministerial por la que se aprueban los documentos contables a utilizar por la Administración General del Estado.
+
+En ningún caso se podrá incluir en un mismo documento contable operaciones cuyas fechas de realización del gasto sean distintas.
+
+> Se modifica el apartado 5 por el art. 2.2 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+#### Regla 24. Fases mixtas
+
+1\. La acumulación en un único acto administrativo de dos o más fases de ejecución de gastos presupuestarios produce los mismos efectos que si dichas fases se acordaran en actos administrativos separados.
+
+2\. A efectos de expedición de documentos contables, cuando la autorización y el compromiso de gasto se acuerdan en un acto único, se expedirá un documento mixto AD.
+
+Cuando en un mismo acto se acumulen la autorización del gasto, su compromiso y el reconocimiento de la obligación, se expedirá documento mixto ADOK.
+
+#### Regla 25. Transmisión de las propuestas de pago
+
+1\. Una vez contabilizadas todas las operaciones del día, las oficinas de contabilidad obtendrán una relación de propuestas de pago que, provisionalmente, contendrá todas las propuestas incorporadas en el día al sistema de información contable.
+
+2\. Esta relación provisional de propuestas de pago será comprobada con los documentos contables originales, dejándose en suspenso aquellas propuestas que, por cualquier causa, estén erróneamente contabilizadas.
+
+3\. A continuación, se obtendrá la relación definitiva de propuestas de pago, la cual, una vez autorizada por el respectivo jefe de contabilidad, se transmitirá por medios informáticos a la Dirección General del Tesoro y Política Financiera.
+
+4\. En relación con las propuestas de pago suspendidas a que se refiere el punto 2 anterior, se actuará de acuerdo con las normas de procedimiento dictadas para la rectificación de errores.
+
+> Se modifica el apartado 3 por el punto 1.10 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 26. Anulaciones
+
+Las anulaciones de las operaciones indicadas en las reglas anteriores de la presente sección estarán soportadas en documentos análogos a los reseñados en los mismos pero de signo negativo, los cuales serán expedidos y tramitados de la misma forma que se especifica en dichas reglas.
+
+#### Regla 27. Del enlace entre operaciones
+
+1\. Las operaciones que se realicen en la tramitación de los gastos deberán estar debidamente interrelacionadas de acuerdo con las especificaciones que se establecen en los siguientes puntos de esta regla.
+
+2\. A efectos de lo previsto en el apartado anterior, las operaciones de tramitación de los gastos presupuestarios corresponderán a alguno de los dos siguientes grupos:
+
+a) Operaciones de inicio, que suponen la iniciación del proceso de gasto, ya se trate de una retención de crédito para gastos (RC) o de aquellas que contengan la autorización de gasto sobre créditos disponibles (A, AD y ADOK).
+
+b) Operaciones de continuación, mediante las que se impulsan las fases sucesivas del proceso de gasto o se complementa el importe de otras operaciones realizadas anteriormente.
+
+3\. En los documentos contables correspondientes a operaciones de continuación deberá indicarse una referencia al número de registro contable de la operación a la que suceden o, en su caso, complementan.
+
+4\. En el caso de sucesión de operaciones, las autorizaciones sobre créditos retenidos incorporarán como referencia el número de registro contable de la retención del crédito. Los compromisos se referencian al número de la correspondiente autorización y el reconocimiento de las obligaciones al número del compromiso.
+
+5\. En los supuestos de operaciones que complementen a otras efectuadas con anterioridad, se tomará como referencia el número de registro contable de la operación complementada.
+
+6\. Cuando se anule o se minore el importe de una operación previamente realizada, el documento contable de signo negativo que se expida se referenciará con el número de registro contable de la operación que se anula o cuyo importe se minora.
+
+### Sección 2.ª De los pagos a justificar
+
+#### Regla 28. Normas para la expedición de pagos a justificar
+
+Cuando en un Departamento ministerial se establezcan las normas reguladoras de la expedición de pagos a justificar a que se refiere el artículo 79.3 de la Ley General Presupuestaria, se dará traslado de las mismas a la oficina de contabilidad, que deberá tomar razón de los conceptos presupuestarios a los que son aplicables dichas normas y los límites cuantitativos que les afectan.
+
+#### Regla 29. Contabilización de las propuestas de pago a justificar
+
+1\. La contabilización de propuestas de pago a justificar se realizará mediante documento ADOK, o, en su caso, OK, expedido a favor de la Caja Pagadora que deba efectuar el pago a los acreedores finales, debiendo indicarse como clave de tipo de pago la del pago a justificar que corresponda.
+
+2\. Los documentos a que se refiere el punto anterior se remitirán a la oficina de contabilidad. Antes de que la propuesta de pago quede contabilizada, se comprobarán los siguientes requisitos, determinándose las actuaciones que, en su caso, procedan:
+
+a) Que, con cargo a los créditos presupuestarios a los que afecta dicha propuesta de pago, se puedan expedir pagos a justificar, de acuerdo con las normas aprobadas al respecto por el Departamento.
+
+b) Que el importe de la propuesta se encuentra dentro de los límites cuantitativos establecidos en las citadas normas.
+
+c) Que la Caja Pagadora a cuyo favor se expide la propuesta ha justificado todos los libramientos de esta naturaleza anteriormente percibidos o se encuentra dentro de los plazos legales para su justificación.
+
+d) Que exista crédito suficiente en el presupuesto vigente.
+
+> Se modifica por el punto 1.11 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 30. Justificación
+
+1\. Cuando una Caja Pagadora que hubiera percibido fondos a justificar presente la correspondiente cuenta justificativa a la Unidad Central de Caja a la que esté adscrita, ésta lo comunicará a la Oficina de Contabilidad a los efectos de la justificación del correspondiente libramiento a que se refiere el artículo 1.3 del Real Decreto 640/1987, de 8 de mayo, sobre régimen de pagos a justificar.
+
+Dicha comunicación se realizará mediante la expedición por la Unidad Central del documento “Control de Pagos a Justificar”, con indicación de que corresponde a la presentación de la cuenta, que remitirá a la Oficina de Contabilidad para su registro en el Sistema de Información.
+
+El registro de dicho documento en el Sistema de Información Contable producirá la imputación de los pagos realizados por la Caja Pagadora a las correspondientes cuentas de gasto o inversión.
+
+2\. Una vez aprobada la cuenta justificativa, la Unidad Central expedirá el documento “Control de Pagos a Justificar”, con indicación de que corresponde a la aprobación de la cuenta, que remitirá a la Oficina de Contabilidad para su registro contable.
+
+3\. La Unidad Central deberá incorporar a la cuenta justificativa de cada libramiento a justificar una certificación de la Oficina de Contabilidad de la toma de razón de la aprobación de la cuenta justificativa, a los efectos de su remisión al Tribunal de Cuentas.
+
+> Se modifican los apartados 1 y 2 por el art. 2.1 de la Orden HAC/965/2024, de 9 de septiembre. [Ref. BOE-A-2024-18530](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18530)
+
+> Téngase en cuenta que esta modificación será aplicable a partir del 1 de enero de 2025, según estalece la disposición final única de la citada Orden
+
+> Se modifica por la disposición adicional única.1 de la Orden de 4 de noviembre de 1999. [Ref. BOE-A-1999-21981](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-21981)
+
+#### Regla 31. Prórrogas de los plazos de justificación
+
+En el caso de que se autorice una prórroga del plazo inicialmente establecido para la justificación, se deberá expedir por la Unidad Central de Caja el documento de «Control de pagos a justificar» en el que se especificará la prórroga concedida. Dicho documento será remitido a la oficina de contabilidad junto con el acuerdo del Ministro o en quien éste delegue.
+
+> Se modifica por el art. 2.1 de la Orden EHA/3068/2011, de 8 de noviembre. [Ref. BOE-A-2011-17889](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17889).
+
+#### Regla 32. Requerimiento de la cuenta justificativa
+
+Cuando hubiesen transcurrido los plazos, y en su caso la prórroga, para la presentación de la cuenta justificativa de un libramiento a justificar y ésta no hubiese sido aún recibida en la Intervención Delegada, la oficina de contabilidad pondrá de manifiesto esta circunstancia en un informe que se remitirá a la Unidad Central de Caja del Departamento para que requiera a la caja pagadora la presentación de la citada cuenta.
+
+#### Regla 33. Pagos a justificar para atender gastos de emergencia
+
+1\. Cuando, conforme a la legislación vigente, se libren fondos a justificar para atender gastos de emergencia, la propuesta de pago podrá contabilizarse, aunque no se cumplan los requisitos enumerados en el punto 2 de la Regla 29, en la medida que el libramiento haya sido aprobado.
+
+2\. La falta de presentación de la cuenta justificativa de este tipo de pagos no paralizará en ningún caso, cualquiera que sea el tiempo transcurrido, la emisión de nuevos libramientos a justificar a favor de la misma caja pagadora. No obstante, la oficina de contabilidad remitirá trimestralmente a los Centros gestores de los correspondientes gastos, informe sobre la situación deudora de las cajas que hubieran dejado transcurrir más de seis meses sin presentar la cuenta justificativa de los gastos de emergencia atendidos con los fondos recibidos para este fin.
+
+> Se modifica el apartado 1 por el art. 2.2 de la Orden HAC/965/2024, de 9 de septiembre. [Ref. BOE-A-2024-18530](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18530)
+
+> Se modifica el apartado 1 por el art.1.1 de la Orden HAP/883/2013, de 13 de mayo. [Ref. BOE-A-2013-5392](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5392).
+
+> Se modifica el apartado 1 por el punto 1.12 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 33 bis. Actualización de los saldos de Tesorería por provisiones de fondos para pagos a justificar.
+
+La actualización en fin de ejercicio de los saldos de las cuentas restringidas de pagos, por las variaciones debidas a los "pagos a justificar", se realizará según el procedimiento establecido en la regla 37 de esta norma.
+
+> Se añade por la disposición adicional única.2 de la Orden de 4 de noviembre de 1999. [Ref. BOE-A-1999-21981](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-21981)
+
+### Sección 3.ª De los anticipos de caja fija
+
+#### Regla 34. Establecimiento del sistema de anticipos de caja fija y distribución por cajas pagadoras
+
+Cuando en un Departamento ministerial se establezca o modifique el anticipo de caja fija o su distribución por cajas pagadoras, se dará traslado de los correspondientes acuerdos a la oficina de contabilidad, acompañados del documento Adopción/Distribución de anticipos de caja fija.
+
+#### Regla 35. Situación de los fondos del anticipo de caja fija
+
+Las entregas de fondos a favor de los cajeros pagadores, que sean necesarias para constituir o aumentar el importe del anticipo de caja fija, se tramitarán conforme a lo dispuesto en las normas de desarrollo del Real Decreto 725/1989, de 16 de junio, sobre anticipos de caja fija, y en la Orden ministerial sobre procedimientos para el pago de obligaciones de la Administración General del Estado.
+
+Para ello, los Servicios gestores interesarán la ordenación y realización de dichos pagos mediante la expedición de propuestas de pago no presupuestarias que se remitirán a su oficina de contabilidad para su registro contable. Dichas propuestas de pago se aplicarán al concepto contable que determine la Intervención General de la Administración del Estado.
+
+> Se modifica el segundo párrafo por el art.1.2 de la Orden HAP/883/2013, de 13 de mayo. [Ref. BOE-A-2013-5392](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5392).
+
+> Se modifica el párrafo segundo por el punto 1.13 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 35 bis. Límites a los cajeros pagadores por aplicaciones presupuestarias
+
+Al inicio del ejercicio contable, los Departamentos Ministeriales podrán establecer para cada cajero pagador los límites de gasto por aplicación presupuestaria. A tal fin se expedirá el documento contable RC-110 del presupuesto del cajero de ACF, en el que deberá indicarse para cada cajero pagador los importes máximos que correspondan a cada aplicación. El Sistema de Información Contable llevará el control en la ejecución de estos gastos al nivel de vinculación que corresponda. Cuando se precise efectuar retenciones de crédito sobre el presupuesto del cajero de anticipos de caja fija para las reposiciones de fondos indicadas en la regla siguiente, se expedirá un documento contable RC de “Retención sobre el presupuesto del cajero de ACF”.
+
+> Se añade por el art. 2.3 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+#### Regla 36. Reposiciones de fondos de anticipos de caja fija
+
+La aplicación a presupuesto de los gastos realizados con cargo al anticipo de caja fija y la propuesta de reposición de fondos al Cajero Pagador se contabilizarán mediante documento ADOK que se acompañará a la cuenta justificativa y se expedirá con cargo a las mismas aplicaciones y por los importes consignados en la citada cuenta.
+
+#### Regla 37. Actualización de los saldos de Tesorería por provisiones de fondos a fin de ejercicio.
+
+1\. A los efectos de actualización de los saldos de Tesorería, los Departamentos ministeriales con servicios en el exterior deberán remitir a la Dirección General del Tesoro y Política Financiera, antes del 20 de enero de cada año, información sobre la situación a 31 de diciembre del año anterior de las cuentas bancarias de la agrupación "Tesoro Público. Provisión de Fondos" abiertas en el exterior.
+
+2\. La Dirección General del Tesoro y Política Financiera con base en la información a que se refiere el punto anterior y en la relativa a la situación a 31 de diciembre del año anterior de las cuentas corrientes de la Administración General del Estado abiertas en el interior de nuestro país pertenecientes a la agrupación "Tesoro Público. Provisión de Fondos", remitirá a la Oficina de Contabilidad de dicho Centro Directivo, antes del 1 de febrero de cada año, la información necesaria para proceder a fin de cada ejercicio a actualizar la situación de la cuenta 575 "Bancos e instituciones de crédito.Cuentas restringidas de pagos".
+
+> Se modifica por la disposición adicional única.3 de la Orden de 4 de noviembre de 1999. [Ref. BOE-A-1999-21981](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-21981)
+
+### Secció 4.ª De los anticipos de Tesorería (artículo 65 del TRLGP)
+
+#### Regla 38. Concesión de los anticipos de Tesorería
+
+Cuando el Gobierno apruebe la concesión de un anticipo de Tesorería de conformidad con el artículo 65 del TRLGP, la Dirección General de Presupuestos expedirá un documento I (de concesión de anticipo de Tesorería), que habrá de ser enviado a la oficina de contabilidad en el correspondiente Departamento ministerial.
+
+#### Regla 39. Ejecución de gastos con cargo a anticipos de Tesorería
+
+La tramitación de gastos con cargo a un anticipo de Tesorería se desarrollará conforme a las reglas establecidas con carácter general en la sección 1.ª de este capítulo.
+
+#### Regla 40. Cancelación de los anticipos de Tesorería
+
+1\. Una vez aprobado el crédito extraordinario o suplemento de crédito que motivaron la concesión del anticipo de Tesorería se procederá a efectuar la cancelación de las operaciones realizadas con cargo a dicho anticipo, así como la aplicación de éstas al Presupuesto de Gastos del ejercicio corriente, en el cual se habrá registrado previamente la citada modificación presupuestaria.
+
+2\. La oficina de contabilidad del Departamento ministerial, una vez contabilizado el documento MC correspondiente a la modificación presupuestaria aprobada, expedirá un documento RC de oficio para efectuar una retención en el crédito presupuestario al que se haya aplicado dicha modificación por el importe gastado del anticipo de Tesorería.
+
+Seguidamente, comunicará al Servicio gestor la retención de crédito efectuada, a fin de que proceda a expedir los documentos de cancelación del anticipo de Tesorería (documentos I, A, D, OK o sus mixtos, con signo negativo) y los documentos de aplicación de las operaciones canceladas al Presupuesto de Gastos del ejercicio corriente (A, D, OK o sus mixtos).
+
+Dichos documentos contables se remitirán por el Servicio gestor a la oficina de contabilidad, que registrará, en primer lugar, los documentos negativos, y, seguidamente, una vez validada su contabilización por el sistema informático, los documentos positivos aplicados al presupuesto de Gastos del ejercicio corriente.
+
+3\. En el caso de no ser aprobado el crédito extraordinario o suplemento de crédito, de acuerdo con lo dispuesto en el artículo 65.2 del texto refundido de la Ley General Presupuestaria, el importe del anticipo de Tesorería se cancelará con cargo a los créditos del respectivo Departamento ministerial cuya minoración ocasione menos trastornos para el servicio público.
+
+### Sección 5.ª De la tramitación anticipada de expedientes de gasto
+
+#### Regla 41. Delimitación.
+
+La tramitación de los expedientes de gasto podrá iniciarse en un ejercicio anterior a aquel en el que vaya a comenzar la ejecución de dicho gasto, según el procedimiento que se regula en esta Sección.
+
+> Se modifica por el art. 1.1 de la Orden HAP/1357/2013, de 11 de julio. [Ref. BOE-A-2013-7814](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7814).
+
+> Se modifica por el punto 1.14 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+> Téngase en cuenta para su aplicación la disposición final única.
+
+#### Regla 42. Tramitación anticipada de expedientes de contratación.
+
+1\. De acuerdo con lo que se establece en el artículo 110.2 del texto refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, los expedientes de contratación podrán ultimarse incluso con la adjudicación y formalización del correspondiente contrato, aun cuando su ejecución, ya se realice en una o en varias anualidades, deba iniciarse en el ejercicio siguiente. A estos efectos se pueden comprometer créditos con las limitaciones determinadas en las normas presupuestarias de las distintas Administraciones públicas sujetas a dicha Ley.
+
+2\. La documentación del expediente de contratación que se tramite anticipadamente incorporará las siguientes particularidades:
+
+a) En el pliego de cláusulas administrativas particulares o documento equivalente se hará constar que la adjudicación y formalización del contrato queda sometida a la condición suspensiva de existencia de crédito adecuado y suficiente para financiar las obligaciones derivadas del contrato en el ejercicio correspondiente.
+
+b) Se deberá incluir certificado de cumplimiento de los límites o importes autorizados a los que se refiere el artículo 47 de la Ley General Presupuestaria.
+
+Para ello, el Servicio gestor competente para la tramitación del gasto expedirá, y remitirá a la correspondiente oficina de contabilidad, un documento RC de "tramitación anticipada" detallando el importe que del gasto en cuestión corresponde a cada uno de los ejercicios posteriores afectados. Dicho documento RC podrá ser registrado por el propio Servicio gestor en el Sistema de Información Contable de acuerdo con la Resolución de 22 de octubre de 2004, de la Intervención General de la Administración del Estado, por la que se regula el procedimiento de acceso y captura en el Sistema de Información Contable de los documentos contables RC de retención de crédito por determinadas unidades administrativas.
+
+Una vez registrado el documento RC de "tramitación anticipada", se obtendrá del Sistema de Información Contable el certificado de cumplimiento de límites o importes autorizados para su incorporación al respectivo expediente.
+
+3\. Una vez autorizado el gasto, el Servicio gestor expedirá, y remitirá a la oficina de contabilidad, un documento A de ''tramitación anticipada'' en el que se detallará la distribución por anualidades del gasto que se aprueba con cargo a presupuestos futuros. Posteriormente, si se adjudica y formaliza el contrato dentro del mismo ejercicio, dicho Servicio gestor formulará un documento D de ''tramitación anticipada''. En el caso de que se acumulen las fases de aprobación y del compromiso del gasto, se expedirá un documento AD de ''tramitación anticipada''.
+
+4\. Al comienzo de cada ejercicio, con el fin de efectuar las correspondientes imputaciones contables, el Sistema de Información Contable controlará que para los expedientes de contratación tramitados anticipadamente existen para la anualidad corriente los oportunos créditos en el Presupuesto de Gastos y que, para las sucesivas anualidades, se cumplen los límites o importes autorizados de compromisos de gasto a que se refiere el artículo 47 de la Ley General Presupuestaria.
+
+Si no se verificase alguno de dichos requisitos, y a los efectos de la condición suspensiva indicada en la letra a) del punto 2 anterior, se comunicará dicha circunstancia a los Servicios gestores, que habrán de actuar atendiendo a lo dispuesto en el artículo 47 bis. y en la disposición adicional decimonovena de la Ley General Presupuestaria.
+
+> Se modifica por el art. 1.1 de la Orden HAP/1357/2013, de 11 de julio. [Ref. BOE-A-2013-7814](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7814).
+
+> Téngase en cuenta la disposición transitoria única para los expedientes de gasto objeto de tramitación anticipada en 2013.
+
+> Se modifica por el punto 1.15 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+> Téngase en cuenta para su aplicación la disposición final única.
+
+#### Regla 43. Tramitación anticipada de expedientes de subvenciones y de otros gastos.
+
+En la tramitación anticipada de expedientes de subvenciones y otros gastos no incluidos en la regla anterior se deberá cumplir lo que establezca la normativa específica reguladora de cada tipo de gasto en cuanto al trámite en la ejecución hasta el que se puede llegar y al número de anualidades que pueden abarcar, debiéndose seguir el procedimiento regulado en la regla anterior.
+
+Si dichos extremos no estuvieran regulados, se podrá llegar como máximo hasta el momento inmediatamente anterior al compromiso de gasto, siguiéndose, en todo lo demás, el procedimiento establecido en la regla anterior.
+
+> Se modifica por el art. 1.1 de la Orden HAP/1357/2013, de 11 de julio. [Ref. BOE-A-2013-7814](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7814).
+
+> Se modifica por el punto 1.16 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+> Téngase en cuenta para su aplicación la disposición final única.
+
+### Sección 6.ª De los proyectos de gasto
+
+#### Regla 44. Delimitación
+
+1\. Tiene la consideración de proyecto de gasto cualquier unidad de gasto presupuestario, definida por unas metas u objetivos perfectamente identificables, cuya ejecución se podrá efectuar con cargo a créditos de una o varias aplicaciones presupuestarias, pudiendo extenderse a más de un ejercicio.
+
+2\. El seguimiento contable de los proyectos de gasto se realizará a través del sistema de información mediante el subsistema de proyectos de gasto, de acuerdo con las normas y procedimientos que se establecen en la presente Sección y las instrucciones que en su desarrollo dicte la Intervención General de la Administración del Estado.
+
+#### Regla 45. Estructura de la información relativa a proyectos de gasto
+
+1\. La información relativa a proyectos de gasto se recogerá en el sistema de información contable estructurada en los cuatro niveles que a continuación se indican:
+
+a) Superproyecto.
+
+b) Proyecto.
+
+c) Expediente.
+
+d) Subexpediente o contrato.
+
+2\. El nivel superproyecto constituye la unidad necesaria de agregación superior de varios proyectos, que contribuyen de forma conjunta a la realización de un mismo objetivo o conjunto de objetivos.
+
+3\. El nivel proyecto corresponde a cualquier unidad de gasto cuyo contenido se ajuste a lo descrito en el punto 1 de la regla anterior.
+
+4\. El nivel expediente constituye la unidad básica de gestión presupuestaria, a través de la que se efectúa la ejecución de cada proyecto.
+
+5\. El nivel subexpediente o contrato tiene por objeto recoger la información de máximo detalle relativa a cada uno de los compromisos de gasto que puedan surgir de un mismo expediente.
+
+6\. Los niveles definidos en los puntos anteriores serán objeto de la oportuna codificación, de acuerdo con las normas que al respecto se establezcan por la Intervención General de la Administración del Estado.
+
+#### Regla 46. Proyectos de gasto que han de ser objeto de seguimiento
+
+1\. A través del subsistema de proyectos de gasto se efectuará el seguimiento de todos aquellos gastos que se realicen con cargo a los créditos del capítulo 6 "Inversiones reales".
+
+Dicho seguimiento se realizará de acuerdo con la distribución en superproyectos y proyectos de inversión establecida en el "Anexo de inversiones reales y programación plurianual" que en cada ejercicio se acompaña a los Presupuestos Generales del Estado.
+
+2\. Los servicios gestores podrán efectuar también el seguimiento de otros gastos a través del subsistema de proyectos de gasto, definiendo superproyectos y proyectos en función de los objetivos y necesidades por ellos fijados.
+
+> Se modifica por el punto 1.17 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 47. Procedimiento de alta de los proyectos de gasto
+
+1\. Una vez que las oficinas de contabilidad hayan realizado la apertura del Presupuesto de Gastos de cada ejercicio procederán a efectuar el alta de los proyectos de gasto.
+
+2\. El alta de los proyectos de gasto correspondientes a los capítulos 1, 2, 4 y 7 se realizará mediante la creación en el sistema de los proyectos definidos por los Servicios gestores y comunicados por éstos a la oficina de contabilidad. 3. El alta de los proyectos de gasto correspondientes al capítulo 6 del Presupuesto de Gastos se realizará mediante la incorporación al sistema de los datos contenidos en el «Anexo de inversiones reales y programación plurianual».
+
+4\. En el caso de que durante el ejercicio se aprueben modificaciones presupuestarias que supongan la creación de nuevos proyectos de gasto, su alta se realizará mediante la incorporación al sistema de los datos que, en relación con dichos proyectos, sean facilitados por los Servicios gestores a los que corresponda su ejecución.
+
+En este supuesto, una vez registrada la modificación presupuestaria, la distribución de las asignaciones entre estos nuevos proyectos deberá realizarse de acuerdo con los créditos que sean autorizados en dicha modificación.
+
+5\. En los casos en que por los Servicios gestores correspondientes se establezcan proyectos de gasto que se deban ejecutar con cargo a créditos distintos de los citados en el punto 1 de la regla anterior, previamente al alta del proyecto en el sistema se deberá efectuar el oportuno desglose de las aplicaciones presupuestarias, de acuerdo con lo previsto en la regla 10, de forma que los créditos con cargo a los que se vaya a ejecutar el proyecto queden asignados a las correspondientes aplicaciones desglosadas.
+
+#### Regla 48. Modificaciones de los créditos asignados a proyectos de gasto
+
+1\. En el caso de modificaciones presupuestarias que afecten a créditos con cargo a los que se deban ejecutar proyectos de gasto, una vez que dichas modificaciones hubiesen sido registradas en el sistema, se procederá a la distribución de su importe entre los proyectos afectados, con base en la información proporcionada al efecto por los Servicios gestores de tales proyectos.
+
+2\. Del mismo modo se procederá cuando a lo largo del ejercicio deba alterarse la asignación a proyectos de gasto de los créditos de una determinada aplicación presupuestaria.
+
+#### Regla 49. Alta de expedientes de gasto
+
+1\. Previamente a la incorporación al sistema de la primera de las operaciones que afecte a un proyecto de gasto concreto, deberá darse de alta el expediente que vaya a ser objeto de tramitación.
+
+El alta del expediente en el sistema se efectuará tomando como base la información que, en relación con el mismo, sea facilitada por el Servicio gestor a quien corresponda la ejecución del proyecto de gasto en cuestión.
+
+2\. En el caso particular de transferencias y subvenciones (capítulos 4 y 7), los expedientes se establecerán en función de las normas por las que se efectúe cada convocatoria, identificándose por la referencia a dicha convocatoria y su fecha de publicación en el «Boletín Oficial del Estado». En el supuesto de que para la concesión de las transferencias y subvenciones no fuese precisa la realización de convocatoria, los expedientes se establecerán en función de la norma por la que se posibilite dicha circunstancia, identificándose en este caso con la referencia a dicha norma y a su fecha de publicación en el «Boletín Oficial del Estado».
+
+#### Regla 50. Ejecución de los proyectos de gasto
+
+1\. En los documentos contables correspondientes a operaciones que afectan a proyectos de gasto, se identificará el expediente afectado mediante el código del nivel de detalle que se indica a continuación:
+
+a) Nivel expediente, cuando se trate de retenciones de crédito o autorizaciones de gasto.
+
+b) Nivel subexpediente o contrato en el caso de compromisos de gasto o reconocimiento de obligaciones.
+
+2\. Al margen de la información de carácter presupuestario a que se refiere el punto 1 anterior, al modulo de proyectos de gasto se incorporará toda aquella información específica de proyectos que se establezca por la Intervención General de la Administración del Estado.
+
+A estos efectos la Intervención General de la Administración del Estado efectuará una tipificación de los distintos expedientes de gasto, determinando para cada uno de ellos los datos que, en función de las necesidades de información que se planteen para cada caso en concreto, hayan de ser incorporados al sistema.
+
+Dichos datos serán objeto de registro en el subsistema de proyectos de gasto tomando como base la información que, de acuerdo con los procedimientos que se establezcan por dicho centro directivo, sea suministrada por los Servicios gestores a los que corresponda la ejecución de los respectivos proyectos.
+
+### Sección 7.ª De las operaciones devengadas y no contabilizadas y de otras operaciones de fin de ejercicio
+
+> Se modifica por el art. 2.4 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+> Se modifica por el art. 2.2 de la Orden EHA/3068/2011, de 8 de noviembre. [Ref. BOE-A-2011-17889](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17889).
+
+> Se modifica por el apartado 3 de la Orden de 26 de diciembre de 1997. [Ref. BOE-A-1998-171](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-171)
+
+#### Regla 51. Delimitación
+
+Se establece un periodo de cierre de la contabilidad económico-patrimonial de cada ejercicio, de acuerdo con lo establecido en las reglas siguientes de esta sección, en el que se registrarán como transacciones del ejercicio que se cierra aquéllas que se hayan devengado en el mismo y que a 31 de diciembre no hubieran sido objeto de registro contable.
+
+> Se modifica por el art. 2.4 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+> Se modifica por el art.1.3 de la Orden HAP/883/2013, de 13 de mayo. [Ref. BOE-A-2013-5392](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5392).
+
+> Se modifica por el apartado 3 de la Orden de 26 de diciembre de 1997. [Ref. BOE-A-1998-171](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-171)
+
+#### Regla 52. Operaciones devengadas que deben quedar imputadas en la cuenta 413, “Acreedores por operaciones devengadas”.
+
+1\. Cuando no se hubiera efectuado dentro de un ejercicio el reconocimiento de operaciones devengadas en él, los Servicios gestores de gasto adoptarán las medidas oportunas para remitir a la oficina de contabilidad, hasta el 30 de abril del ejercicio siguiente, los documentos contables OK o ADOK necesarios para que todas las operaciones anteriores se encuentren registradas el día 30 de abril, con cargo al presupuesto corriente, una vez constatados todos los requisitos legalmente exigibles.
+
+Tomando como referencia la fecha de realización del gasto que, según lo dispuesto en el punto 5 de la regla 23, deberá figurar en dichos documentos contables, se registrará en la contabilidad económico-patrimonial del ejercicio anterior la operación devengada utilizando como contrapartida la cuenta 413, “Acreedores por operaciones devengadas” del Plan General de Contabilidad Pública. El importe abonado en dicha cuenta en el ejercicio anterior, se saldará en el ejercicio corriente al registrarse simultáneamente la operación en la contabilidad presupuestaria y económico-patrimonial de dicho ejercicio.
+
+La oficina de contabilidad deberá obtener una relación de todas las operaciones registradas de acuerdo con el procedimiento regulado en este apartado, la cual justificará las citadas anotaciones en la contabilidad económico-patrimonial del ejercicio anterior.
+
+2\. En el marco de las actuaciones de control financiero permanente reguladas en el apartado g) del artículo 159.1 de la Ley General Presupuestaria, los Servicios gestores del gasto, hasta el 15 de febrero de cada ejercicio, deberán remitir al órgano de control de la correspondiente Intervención Delegada, la información relativa a las operaciones devengadas no contabilizadas a 31 de diciembre del ejercicio anterior. A estos efectos los servicios gestores deberán identificar la naturaleza de la transacción realizada, indicando la aplicación presupuestaria a la que debería haberse imputado. En el caso de que los Servicios gestores no tengan operaciones que comunicar a la Intervención Delegada, deberán informar por escrito de dicha circunstancia.
+
+El órgano de control, teniendo en consideración los criterios de materialidad y las áreas de riesgo previamente definidos por el órgano competente, remitirá hasta el 30 de abril a la oficina de contabilidad el informe definitivo con el contenido de los resultados de las actuaciones de control realizadas.
+
+La oficina de contabilidad, analizará el contenido del informe anterior con el objeto de depurar las operaciones incluidas en el mismo que ya hayan sido registradas por el procedimiento establecido en el apartado 1 de esta regla o estuvieran ya registradas en la cuenta 413 de ejercicios anteriores y, expedirá el documento contable “Operaciones devengadas”, en el que se incluirán, para las operaciones devengadas aún no registradas que se deriven del citado informe, las aplicaciones presupuestarias, cuentas del Plan General de Contabilidad Pública e importes correspondientes, efectuando su registro en el Sistema de Información Contable, hasta el 15 de mayo del ejercicio corriente, con fecha 31 de diciembre del ejercicio anterior.
+
+La oficina de contabilidad remitirá a cada Servicio gestor de gasto un fichero comprensivo de las operaciones devengadas a fin de ejercicio anterior que se hayan registrado por el procedimiento previsto en este apartado.
+
+A partir de la fecha de recepción del citado fichero, cuando los Servicios gestores de gasto expidan documentos contables OK y ADOK cuya fecha de realización del gasto se corresponda con un ejercicio anterior al ejercicio corriente, expedirán el documento contable “Anexo de imputación al presupuesto de operaciones devengadas”, cumplimentando su contenido en caso de estar la operación recogida por el procedimiento de este apartado o marcando NO en el campo “Contenido” del documento en caso de no haber sido incluida en el mencionado fichero.
+
+La captura en el Sistema de Información Contable de estos documentos supondrá la cancelación de los importes previamente registrados en la cuenta 413.
+
+3\. Sin perjuicio del procedimiento previsto en los apartados anteriores de esta regla, para la imputación mensual de operaciones devengadas en la cuenta 413, se seguirá el procedimiento establecido en este apartado, con el objeto de que las operaciones se registren en la contabilidad económico-patrimonial del mes en el que se devenguen.
+
+Para tal fin, cuando en el sistema de información contable se registre un documento contable OK o ADOK cuya fecha de realización del gasto se refiera a un mes anterior del mismo ejercicio del mes de captura, se registrará, de forma automática, en la contabilidad económico patrimonial del mes a que se refiera la fecha de realización del gasto, la operación devengada con abono a la 413 y simultáneamente en la contabilidad económico patrimonial del mes de captura, se cargará la misma cuenta 413 utilizando como contrapartida la cuenta representativa del acreedor presupuestario.
+
+4\. Las entidades incluidas en el ámbito de aplicación de la Instrucción de Contabilidad para la Administración Institucional del Estado, aprobada mediante Orden EHA/2045/2011, de 14 de julio, aplicarán obligatoriamente esta regla, excepto en lo que se refiere a la expedición de los documentos contables, teniendo en cuenta que las actuaciones de control financiero permanente indicadas en el apartado 2 se realizarán en el contexto de los trabajos de la auditoría de las cuentas anuales. No obstante, en relación con la fecha indicada en el primer párrafo del apartado 1 anterior, se considerará la fecha de formulación de las cuentas anuales o, como máximo, el 30 de abril si éstas no se hubieran formulado antes.
+
+> Se modifica por el art. 2.4 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+> Se modifica por el art. 2.2 de la Orden HAP/336/2014, de 4 de marzo. [Ref. BOE-A-2014-2486](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2486).
+
+> Se modifica el apartado 1 por el art.1.4 de la Orden HAP/883/2013, de 13 de mayo. [Ref. BOE-A-2013-5392](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5392).
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales que se rindan a partir de la aprobación de esta Orden, según establece la disposición final única.
+
+> Se modifica por la disposición final 1 de la Orden HAP/2326/2012, de 29 de octubre. [Ref. BOE-A-2012-13488](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-13488).
+
+> Se modifica el párrafo segundo por el art. 2.3 de la Orden EHA/3068/2011, de 8 de noviembre. [Ref. BOE-A-2011-17889](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17889).
+
+> Se modifica por el punto 2.7 de la Orden HAC/240/2004, de 26 de enero. [Ref. BOE-A-2004-2499](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2499).
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
+
+> Se modifica, con vigencia exclusivamente para el ejercicio 2003, por la disposición transitoria única de la Orden HAC/2761/2002, de 5 de noviembre. [Ref. BOE-A-2002-21667](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-21667).
+
+> Se modifica, con vigencia exclusivamente para el ejercicio 2002, por la disposición transitoria única de la Orden de 19 de octubre de 2001. [Ref. BOE-A-2001-20180](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-20180)
+
+> Se modifica por el apartado 3 de la Orden de 26 de diciembre de 1997. [Ref. BOE-A-1998-171](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-171)
+
+#### Regla 53. Otras operaciones de fin de ejercicio.
+
+La Secretaría General Técnica de cada Ministerio deberá remitir a la correspondiente Intervención Delegada, antes del 15 de febrero de cada ejercicio, una memoria, en el modelo que a tal fin se le facilitará, que incluya los casos que puedan dar lugar a la contabilización de provisiones que puedan ocasionar el registro de gastos, o devoluciones de ingresos. La memoria deberá describir los supuestos que generan los litigios en curso, la responsabilidad patrimonial del Estado, o los hechos o circunstancias que puedan dar lugar a obligaciones legales, contractuales o implícitas, así como la estimación de los intereses de demora que correspondan a las operaciones anteriores, siempre que su cuantía, para cada caso individual, o agrupando todos los casos relacionados con la misma materia, supere el umbral de 5.000.000 de euros, excepto si la Intervención Delegada correspondiente comunica a la Secretaría General Técnica de su ámbito competencial un umbral por un importe inferior, en cuyo caso será dicho importe el que determinará la información a enviar.
+
+La memoria deberá contener la valoración del órgano gestor sobre la probabilidad de que el litigio, reclamación u obligación acabe dando lugar a un desembolso por parte de la Administración. A tal fin se señalará para cada caso individual o materia litigiosa que agrupe casos similares, si el desembolso de fondos por parte de la Administración se considera:
+
+– Probable: Cuando se estime que la probabilidad de desembolso sea superior al 50 %.
+
+– Posible: Cuando se estime que la probabilidad de desembolso sea superior al 10 %, pero inferior al 50 %.
+
+– Remoto: Cuando se estime que la probabilidad de desembolso es inferior al 10 %.
+
+La Intervención Delegada a la vista de la información de la memoria, y de las actuaciones de verificación que sean pertinentes, realizadas en el marco de las actuaciones de control financiero permanente reguladas en el apartado g) del artículo 159.1 de la Ley General Presupuestaria, expedirá los correspondientes documentos contables «soporte de asientos directos» en los casos en que así proceda, de acuerdo con la normativa contable. En los casos en que no proceda, se deberá pronunciar sobre su naturaleza de pasivo contingente a los efectos de su inclusión en la memoria de la Cuenta de la Administración General del Estado.
+
+> Se modifica por el art. 2.3 de la Orden HAC/965/2024, de 9 de septiembre. [Ref. BOE-A-2024-18530](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18530)
+
+> Se modifica por el art. 2.4 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+> Se modifica el segundo párrafo por el art.1.5 de la Orden HAP/883/2013, de 13 de mayo. [Ref. BOE-A-2013-5392](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5392).
+
+> Se modifica por el apartado 3 de la Orden de 26 de diciembre de 1997. [Ref. BOE-A-1998-171](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-171)
+
+### Sección 8.ª Del proceso de cierre del presupuesto y traspaso de los compromisos de gasto
+
+> Se modifica por el apartado 3 de la Orden de 26 de diciembre de 1997. [Ref. BOE-A-1998-171](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-171)
+
+#### Regla 54. Cierre del presupuesto y anulación de remanentes de crédito
+
+Con fecha último día del ejercicio se procederá al cierre del respectivo presupuesto para lo cual se anularán los saldos de compromisos y autorizaciones, poniéndose de manifiesto los remanentes de crédito, que también serán anulados.
+
+Igualmente se anularán los saldos de autorizaciones de ejercicios posteriores pendientes de comprometer y de retenciones de ejercicios posteriores pendientes de autorizar, que pudieran existir en relación con los gastos plurianuales.
+
+Estas operaciones se realizarán por la Oficina de Contabilidad, sin que sea necesaria la expedición de documento contable alguno.
+
+> Se modifica por el punto 2.8 de la Orden HAC/240/2004, de 26 de enero. [Ref. BOE-A-2004-2499](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2499).
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
+
+> Se modifica el párrafo último por el punto 1.18 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+> Se modifica por el apartado 3 de la Orden de 26 de diciembre de 1997. [Ref. BOE-A-1998-171](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-171)
+
+#### Regla 55. Aplicación al nuevo presupuesto de los compromisos de gasto y otras operaciones.
+
+1\. Una vez efectuados el cierre del Presupuesto de Gastos del ejercicio y la apertura del Presupuesto de Gastos del ejercicio siguiente, se registrarán con aplicación a este último presupuesto, y atendiendo al siguiente orden:
+
+Primero, las anualidades que correspondan al ejercicio que se inicia de compromisos plurianuales de gastos contraídos en años anteriores.
+
+Segundo, las retenciones de crédito realizadas de acuerdo con el procedimiento previsto en las disposiciones adicionales decimonovena y vigésima primera de la Ley General Presupuestaria que hubieran quedado pendientes de anular.
+
+Tercero, todos aquellos compromisos de gasto imputados al presupuesto del ejercicio anterior que hubieran quedado pendientes del reconocimiento de obligaciones, siempre que dichos compromisos estuviesen efectivamente contraídos con una persona o entidad claramente identificada en el correspondiente expediente y ajena a la Administración General del Estado.
+
+Cuarto, las autorizaciones de los expedientes financiados con cargo al Mecanismo de Recuperación y Resiliencia y a la Ayuda a la Recuperación para la Cohesión y los Territorios de Europa (REACT-UE) que hubieran quedado pendientes del compromiso de gasto.
+
+Quinto, las anualidades que correspondan al ejercicio que se inicia de compromisos de tramitación anticipada a que se refiere la Sección 5.ª de este capítulo.
+
+Sexto, las anualidades que correspondan al ejercicio que se inicia de autorizaciones de gasto de tramitación anticipada a que se refiere la Sección 5.ª de este capítulo.
+
+Séptimo, las anualidades que correspondan al ejercicio que se inicia de retenciones de crédito plurianuales efectuadas en años anteriores relativas a expedientes registrados con base en lo dispuesto en el artículo 52 de la Ley de 16 de diciembre de 1954, de Expropiación Forzosa, y en el párrafo segundo del apartado 2 del artículo 47 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, que se encuentren pendientes de comprometer, así como, en los artículos 301.2 y 309.1, párrafo segundo, de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.
+
+Octavo, las retenciones de crédito que en el presupuesto del ejercicio anterior hubieran quedado pendientes de comprometer relativas a expedientes registrados con base en lo dispuesto en el artículo 52 de la Ley de 16 de diciembre de 1954, de Expropiación Forzosa, y en el párrafo segundo del apartado 2 del artículo 47 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, así como, en los artículos 301.2 y 309.1 párrafo segundo de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.
+
+Noveno, las anualidades que correspondan al ejercicio que se inicia de las retenciones de crédito de tramitación anticipada a que se refiere la Sección 5.ª de este capítulo.
+
+2\. Una vez registradas las operaciones descritas en el apartado anterior, la oficina de contabilidad obtendrá relaciones justificativas de dichas operaciones en las que se especifiquen uno a uno los expedientes afectados, con indicación de todos los datos relativos a su registro contable que se remitirán a los correspondientes Servicios gestores.
+
+3\. Cuando en el presupuesto del ejercicio en curso no hubiera crédito o éste fuera insuficiente para imputar las operaciones de gasto a las que se refiere el apartado 1 anterior, la oficina de contabilidad obtendrá una relación de aquellas que no se hubiesen podido imputar al nuevo presupuesto, con la especificación de los distintos expedientes afectados, que remitirá al respectivo Servicio gestor con la indicación de que en el plazo de treinta días deberá comunicar a dicha oficina las actuaciones a realizar con respecto a las operaciones pendientes de registro contable incluidas en la relación.
+
+No obstante, en el caso de que no se puedan imputar al presupuesto del ejercicio en curso las anualidades que correspondan al ejercicio que se inicia de compromisos de gasto de carácter plurianual contabilizados en años anteriores, se seguirá el procedimiento regulado en la Disposición adicional decimonovena de la Ley General Presupuestaria.
+
+> Se modifica el apartado 1 por el art. 2 de la Orden HFP/1481/2021, de 28 de diciembre. [Ref. BOE-A-2021-21791](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21791)
+
+> Se modifica el apartado 1.segundo por el art. 1.1 de la Orden HAP/538/2015, de 23 de marzo. [Ref. BOE-A-2015-3446](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3446).
+
+> Se modifica por el art. 1.2 de la Orden HAP/1357/2013, de 11 de julio. [Ref. BOE-A-2013-7814](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7814).
+
+> Se modifica por el punto 2.9 de la Orden HAC/240/2004, de 26 de enero. [Ref. BOE-A-2004-2499](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2499).
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
+
+> Se modifica, con vigencia exclusivamente para el ejercicio 2003, por la disposición transitoria única de la Orden HAC/2761/2002, de 5 de noviembre. [Ref. BOE-A-2002-21667](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-21667).
+
+> Se modifica el apartado 3 por el punto 1.19 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Se modifica, con vigencia exclusivamente para el ejercicio 2002, por la disposición transitoria única de la Orden de 19 de octubre de 2001. [Ref. BOE-A-2001-20180](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-20180)
+
+> Se modifica por la disposición adicional única.4 de la Orden de 4 de noviembre de 1999. [Ref. BOE-A-1999-21981](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-21981)
+
+> Se modifica por el apartado 3 de la Orden de 26 de diciembre de 1997. [Ref. BOE-A-1998-171](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-171)
+
+#### Regla 56. Actualización de la codificación
+
+En el caso de que se hubieran producido alteraciones en la codificación de las clasificaciones orgánica, funcional o económica del presupuesto de gastos, con respecto al presupuesto anterior, al comienzo del nuevo ejercicio económico, la oficina de contabilidad deberá proceder a actualizar según las nuevas codificaciones los compromisos de gasto a imputar al ejercicio corriente y los imputados a ejercicios posteriores al que se inicia.
+
+> Se modifica por el apartado 3 de la Orden de 26 de diciembre de 1997. [Ref. BOE-A-1998-171](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-171)
+
+### Sección 9.ª Operaciones varias
+
+#### Regla 57. Prescripción de obligaciones reconocidas pendientes de proponer el pago
+
+Cuando para una obligación reconocida cuyo pago no haya sido propuesto hubiese transcurrido el plazo de prescripción legalmente establecido, el Jefe de la oficina de contabilidad iniciará la tramitación del oportuno expediente de prescripción, que resolverá el responsable del Servicio gestor que hubiese autorizado el reconocimiento de dicha obligación.
+
+Una vez aprobado el expediente, el Servicio gestor expedirá el oportuno documento PR de prescripción de obligaciones, que será remitido a la oficina de contabilidad junto con la resolución aprobatoria.
+
+#### Regla 58. Prescripción de órdenes de pago
+
+Cuando para una orden de pago hubiese transcurrido el plazo de prescripción legalmente establecido, el Jefe de Contabilidad de la correspondiente caja pagadora iniciará la tramitación del oportuno expediente de prescripción, que resolverá el Director general del Tesoro y Política Financiera o el correspondiente Delegado provincial de Economía y Hacienda, según cual sea la caja pagadora en que esté situada la orden de pago.
+
+Una vez aprobado el expediente, el órgano que haya realizado su aprobación expedirá el documento PR de prescripción de obligaciones que remitirá a su respectiva oficina de contabilidad junto con la resolución aprobatoria.
+
+> Se modifica el párrafo segundo por el punto 1.20 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 59. Cesiones de créditos frente a la Administración
+
+1\. Los contratistas de la Administración que decidan ceder a un tercero sus créditos frente a la Administración, deberán notificar dicha cesión al correspondiente Servicio gestor del gasto, adjuntando la documentación que sea precisa para poner de manifiesto que la cesión se ha realizado conforme a derecho.
+
+La notificación de la cesión y presentación de la documentación, a que se refiere el párrafo anterior, se efectuará a través de la factura electrónica, por los procedimientos habilitados por la Administración para la comunicación electrónica de dichas cesiones, o a través de registro.
+
+Las cesiones de crédito notificadas deberán ser registradas en el Registro de cesiones de crédito de la Administración General del Estado, integrado en el sistema de información contable, bien mediante la actualización automática del mismo con base en la información recibida con la factura electrónica o a través de la documentación y de los datos de la cesión capturados directamente por el Servicio gestor del gasto. Dicho Registro asignará a cada cesión un «número de Registro de cesiones de créditos» que permitirá identificar dicha cesión en toda la tramitación posterior de las operaciones afectadas por la misma.
+
+Una vez capturados por el Servicio gestor del gasto todos los datos adicionales requeridos por el Registro de cesiones de créditos, así como la información relativa al dictamen favorable a la cesión de crédito del correspondiente Servicio Jurídico, se podrá continuar con la tramitación de la documentación contable de las facturas afectadas por dicha cesión, según el procedimiento que se indica en el apartado 2 de esta regla.
+
+Mediante Resolución de la Intervención General de la Administración del Estado, se regulará el funcionamiento del Registro de cesiones de crédito de la Administración General del Estado.
+
+2\. Una vez realizados los trámites indicados en el apartado anterior, será responsabilidad del Servicio gestor del gasto la expedición del documento contable OK correspondiente a una operación afectada por una cesión de créditos cumplimentando el campo del «número de Registro de cesiones de créditos». Asimismo, indicará los datos identificativos del cedente en cuyo favor se reconoce la obligación y del cesionario a favor de quien se propone el pago. Una vez registrado el documento contable, la oficina de contabilidad expedirá certificación acreditativa de la toma de razón en contabilidad de la transmisión del derecho de cobro frente a la Administración, que se pondrá a disposición del cesionario.
+
+No obstante lo dispuesto en el párrafo anterior, para el caso de transmisión de derechos de cobro de certificaciones de obra y de otros justificantes relativos a gastos cuyo seguimiento contable se realice a través del subsistema de proyectos de gasto, la toma de razón en contabilidad de dicha transmisión podrá realizarse con anterioridad al reconocimiento de la obligación mediante la expedición por el correspondiente Servicio gestor del documento «Gestión de trámites», que remitirá a la oficina de contabilidad. Una vez registrado dicho documento en el SIC la oficina de contabilidad expedirá la certificación acreditativa de la toma de razón en contabilidad de la transmisión del derecho de cobro frente a la Administración, que se pondrá a disposición del cesionario.
+
+En el caso de cesión de derechos de cobro derivados de certificaciones anticipadas de obra expedidas excediendo el importe de la anualidad en curso, el procedimiento a seguir será análogo al indicado en los párrafos anteriores, teniendo en cuenta que la toma de razón en contabilidad de la transmisión del derecho de cobro frente a la Administración se realizará con base en un documento CA de «Certificaciones anticipadas».
+
+Si al recibirse la notificación de la cesión de un derecho de cobro frente a la Administración, la respectiva propuesta de pago ya hubiese sido registrada y transmitida por medios informáticos a la Secretaría General del Tesoro y Política Financiera y estuviera pendiente de ordenar el pago, el Servicio gestor del gasto deberá comunicarlo a la oficina de contabilidad a efectos de que proceda a solicitar a dicha Secretaría General la devolución de esa propuesta de pago, para proceder a su anulación en el SIC. Dicha anulación será comunicada por la oficina de contabilidad al citado Servicio gestor que deberá proceder a expedir un nuevo documento OK siguiéndose el procedimiento establecido en el párrafo primero de este apartado.
+
+> Se modifica por el art. 2.1 de la Orden HAC/787/2018, de 25 de julio. [Ref. BOE-A-2018-10649](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10649)
+
+> Se modifica por el punto 1.21 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 59 bis. Cuentas para el pago de nóminas y otros pagos en firme
+
+La Dirección General de Tesoro y Política Financiera, en base a la información relativa a la situación a 31 de diciembre del año anterior de las cuentas corrientes de la Administración General del Estado tanto para el pago de nóminas como para otros pagos en firme, remitirá a la Oficina de Contabilidad de dicho Centro Directivo, antes del 1 de febrero de cada año, la información necesaria para proceder a fin de cada ejercicio a actualizar la situación de las cuentas 5761 "Cuenta para el pago de nóminas" y 5762, "Cuenta para otros pagos en firme".
+
+> Se modifica por el punto 2.10 de la Orden HAC/240/2004, de 26 de enero. [Ref. BOE-A-2004-2499](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2499).
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
+
+#### Regla 60. Rectificación de errores
+
+1\. El procedimiento para rectificar errores producidos en la contabilización de operaciones de ejecución del Presupuesto de Gastos del Estado se iniciará por la oficina contable a la que corresponda el registro de la operación afectada. Por consiguiente, si se detectan errores por cualesquiera de las otras oficinas que intervienen en el proceso de ejecución del gasto, procederán a ponerlo en conocimiento de aquélla.
+
+2\. Por la Intervención General de la Administración del Estado se desarrollarán los procedimientos de rectificación a seguir en cada caso, en función del tipo de error que se haya producido.
+
+> Se suprime el apartado 2 y se reenumera el 3 como 2 por el punto 1.22 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+### Sección 10.ª De la justificación de las operaciones y archivo de documentos y justificantes
+
+#### Regla 61. Delimitación
+
+1\. Toda operación de gestión de los créditos presupuestarios o de ejecución del gasto público, que se registre en el SIC, tendrá que estar acreditada adecuadamente con el correspondiente justificante electrónico que ponga de manifiesto su realización. A los efectos anteriores, los justificantes, que según lo indicado en las reglas 62 y 63 siguientes, deben acompañar a los documentos contables electrónicos deberán ser justificantes electrónicos.
+
+En el caso de que algún justificante original estuviera soportado en papel, deberá obtenerse una copia auténtica electrónica, de acuerdo con los requerimientos establecidos para tal fin en el artículo 27 de la Ley 39/2015, de 1 de octubre, de procedimiento administrativo común de las Administraciones Públicas, a los efectos de su remisión a la oficina de contabilidad junto con el correspondiente documento contable electrónico para su registro en el SIC. A tal fin, el formato de firma electrónica de la copia se ajustará a la especificación ETSI TS 101 903 (XAdES), de acuerdo con lo establecido en la Política de Firma Electrónica y de Certificados de la Administración General del Estado, aprobada mediante Resolución de 29 de noviembre de 2012, de la Secretaría de Estado de Administraciones Públicas, o en la vigente en cada momento.
+
+2\. Los actos administrativos de gestión de créditos o de ejecución de gastos podrán estar soportados sobre los propios documentos contables electrónicos que han de servir de base a su toma de razón, siempre que en los mismos consten todos los requisitos necesarios para la eficacia de dichos actos. En estos casos el mismo documento contable electrónico tiene validez como justificante electrónico de la realización del acto administrativo y como documento contable electrónico que sirve de base para su toma de razón.
+
+> Se modifica por el art. 2.2 de la Orden HAC/552/2019, de 11 de abril. [Ref. BOE-A-2019-7344](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-7344)
+
+> Esta modificación será de aplicación a partir del 1 de febrero de 2020, según establece la disposición final única de la citada Orden.
+
+#### Regla 62. Justificantes que han de acompañar a los documentos contables de gestión de créditos y ejecución de gasto.
+
+1\. Para la operación de apertura del presupuesto de gastos servirá de justificante la Ley de Presupuestos Generales del Estado publicada en el «Boletín Oficial del Estado», sin que sea necesario expedir documento contable alguno.
+
+2\. A los documentos MC de modificaciones de crédito se unirá la resolución aprobatoria de la modificación presupuestaria.
+
+En el caso de créditos extraordinarios y suplementos de crédito constituirá justificación suficiente la inclusión en el propio documento contable de la oportuna referencia a la correspondiente norma legal, con indicación de la fecha de su publicación en el "Boletín Oficial del Estado".
+
+3\. A los documentos RC positivos no se unirá ningún justificante adicional.
+
+Los documentos RC de signo negativo que se emitan como consecuencia de la renuncia a la tramitación del respectivo gasto o transferencia se justificarán con la renuncia o desistimiento, si existiesen, o con una memoria justificativa de la anulación solicitada, debiéndose adjuntar, además, el certificado de existencia de crédito, en soporte papel o electrónico, relativo a la retención que se pretende anular.
+
+El resto de documentos RC negativos se justificarán con el acuerdo de aprobación del gasto o con los justificantes indicados en el primer y segundo párrafo del punto 5 siguiente que recojan un importe inferior al de la retención de crédito efectuada. Dado que dichos justificantes quedarán unidos a los documentos A, D o AD que corresponda, al documento RC negativo deberá adjuntársele una memoria justificativa de la anulación solicitada.
+
+4\. A los documentos A de autorización de gasto se unirá el acuerdo o resolución que apruebe el gasto.
+
+Los documentos A de signo negativo se justificarán con la Resolución que anuló la aprobación del gasto o, en su caso, con los justificantes indicados en el primer y segundo párrafo del punto 5 siguiente que recojan un importe inferior al de la aprobación inicial del gasto. Dichos justificantes quedarán unidos al D, expresándose en el texto libre del A negativo una referencia a la contabilización de aquél.
+
+5\. A los documentos D de compromiso de gasto se unirá la resolución, acuerdo o contrato en que se formalice el compromiso de la Administración.
+
+En los compromisos de gasto derivados de contratos administrativos, se podrá unir el acuerdo de adjudicación, en los supuestos en los que la Ley de Contratos del Sector Público permita el inicio de la ejecución del contrato con carácter previo a su formalización, si bien cuando el contrato, en su caso, se formalice, se deberá adjuntar con el primer documento OK que se expida en la ejecución del mismo. En los casos de contratos basados en Acuerdos Marco y sistemas dinámicos de adquisición los documentos contables irán acompañados del correspondiente acuerdo de adjudicación.
+
+Los documentos D de signo negativo se justificarán con el acuerdo de revocación del compromiso de gasto o de resolución del contrato.
+
+6\. A los documentos OK de reconocimiento de obligaciones se unirá la documentación en la que se acredite la realización de la prestación o el derecho del acreedor de conformidad con los acuerdos que en su día autorizaron y comprometieron el gasto.
+
+7\. En el caso de operaciones mixtas, a los correspondientes documentos AD o ADOK, positivos o negativos, se acompañará la documentación justificativa de todas las fases que se acumulen en la operación, de acuerdo con lo establecido en los puntos anteriores de esta regla.
+
+8\. El documento PR se justificará con el acuerdo de prescripción de obligaciones.
+
+9\. El criterio general de justificación de operaciones establecido en los números anteriores no será de aplicación a aquellos tipos de gasto para los que en el Capítulo III de la presente Instrucción, o en sus normas reguladoras específicas, se establecen otros medios de justificación.
+
+> Se modifica el apartado 5 por el art. 2.4 de la Orden HAC/965/2024, de 9 de septiembre. [Ref. BOE-A-2024-18530](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18530)
+
+> Se modifica por el art. 2.1 de la Orden HAC/360/2021, de 14 de abril. [Ref. BOE-A-2021-6124](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6124)
+
+> Se modifica el apartado 3 por el art. 2.5 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+> Se modifica el apartado 1 por el punto 1.23 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 63. Justificantes que han de acompañar a los documentos contables relativos a anticipos de Tesorería
+
+1\. Al documento I mediante el que se efectúe el registro del anticipo de Tesorería se unirá el correspondiente acuerdo aprobatorio del Consejo de Ministros.
+
+2\. Las operaciones de autorización, compromiso de gasto y reconocimiento de obligaciones, así como sus inversas y aquellas otras que combinen algunas de dichas fases, se justificarán con idénticos documentos que las operaciones del presupuesto corriente, según lo que al efecto se establece en la regla anterior.
+
+3\. En el caso de los documentos, con signo negativo, I, A, D y OK, así como los que combinen algunas de estas fases, que se expidan para cancelar el anticipo de Tesorería y aplicar al presupuesto las operaciones realizadas, será justificación suficiente la inclusión en dichos documentos contables de la oportuna referencia a la Ley de crédito extraordinario o de suplemento de crédito, con indicación de la fecha de su publicación en el «Boletín Oficial del Estado».
+
+Cuando las Cortes Generales no aprobasen el proyecto de Ley de concesión del crédito extraordinario o del suplemento de crédito, la cancelación del anticipo de Tesorería se realizará según lo previsto en el artículo 65.2 del texto refundido de la Ley General Presupuestaria, justificándose las operaciones de cancelación con el acuerdo por el que se determinen los créditos con cargo a los que se ha de cancelar el anticipo.
+
+4\. Los documentos A, D y OK que se expidan para aplicar al Presupuesto los gastos previamente cargados al anticipo de Tesorería, se justificarán con la referencia a la contabilización de dichas operaciones con cargo al anticipo.
+
+#### Regla 64. Del registro y archivo de los documentos contables y sus justificantes
+
+1\. Una vez registrado en el sistema cada documento contable electrónico, y generado el correspondiente asiento contable, el propio sistema generará y remitirá un justificante electrónico de la toma de razón con los datos de la operación contable, incluyendo el importe, número y fecha de la operación, sellado electrónicamente, para los servicios gestores.
+
+2\. Las oficinas de contabilidad conservarán por medios electrónicos, a través del propio sistema de información contable, los justificantes electrónicos de las operaciones, junto con los respectivos documentos contables electrónicos.
+
+En el caso de reconocimiento de obligaciones relativas al pago de retribuciones de personal activo y de prestaciones de clases pasivas, el archivo electrónico a que se refiere el párrafo anterior, se referirá a los resúmenes que acompañan a la nómina y los documentos contables.
+
+En el caso de operaciones de reposición de fondos de “anticipos de caja fija” y de presentación y aprobación de la cuenta justificativa de «pagos a justificar», el archivo electrónico se referirá a la cuenta justificativa, sin incluir los justificantes que la acompañan.
+
+En el caso de reconocimiento de obligaciones relativas a los «pagos masivos», regulados en la normativa conjunta de la Secretaría General de Tesoro y Financiación Internacional y la Intervención General de la Administración del Estado sobre el procedimiento para la realización de ciertos pagos a través de agentes mediadores, los correspondientes justificantes no precisarán ser archivados.
+
+3\. Los Servicios gestores o Unidades administrativas responsables de la aprobación de las respectivas operaciones deberán conservar por medios electrónicos, debidamente ordenados, los justificantes electrónicos de las operaciones junto con los respectivos documentos contables electrónicos.
+
+En todo caso, el archivo electrónico de los justificantes electrónicos y documentos contables electrónicos permitirá que éstos estén a disposición del Tribunal de Cuentas y de la Intervención General de la Administración del Estado, al objeto de posibilitar y facilitar las actuaciones de control y verificación de la contabilidad, previstas en la Ley General Presupuestaria. Igualmente estarán a disposición de las Instituciones de control comunitarias cuando se trate de justificantes de operaciones financiadas con fondos comunitarios.
+
+Cuando se trate de operaciones de reposición de fondos de anticipos de caja fija, su archivo electrónico deberá realizarse, una vez efectuado, por los servicios fiscales, el informe previsto en el artículo 7 del Real Decreto 725/1989, de 16 de junio, sobre anticipos de caja fija.
+
+> Se modifica por el art. 2.3 de la Orden HAC/552/2019, de 11 de abril. [Ref. BOE-A-2019-7344](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-7344)
+
+> Esta modificación será de aplicación a partir del 1 de febrero de 2020, según establece la disposición final única de la citada Orden.
+
+> Se modifica por el punto 2.11 de la Orden HAC/240/2004, de 26 de enero. [Ref. BOE-A-2004-2499](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2499).
+
+## CAPITULO III — De la tramitación de los diferentes tipos de gastos
+
+### Sección 1.ª De los gastos de personal
+
+#### Regla 65. Delimitación
+
+1\. En esta Sección se describe el procedimiento a seguir en la tramitación de aquellos gastos que se deben aplicar al capítulo primero del Presupuesto de Gastos, así como los del personal que hayan de aplicarse al capítulo sexto (Inversiones) para ejecución de obras o servicios determinados.
+
+2\. A efectos de la descripción de los procedimientos específicos a seguir, se pueden distinguir los siguientes tipos de gastos de personal:
+
+a) Retribuciones del personal en activo al servicio de la Administración General del Estado.
+
+b) Cuotas sociales a cargo de la Administración General del Estado.
+
+c) Prestaciones sociales.
+
+d) Gastos sociales del personal.
+
+#### Regla 66. Retribuciones del personal en activo al servicio de la Administración General del Estado
+
+1\. El pago de las retribuciones del personal en activo al servicio de la Administración General del Estado se efectuará, en todos los casos, a través de las nóminas formuladas por los correspondientes habilitados.
+
+2\. En cada nómina de retribuciones deberán figurar la totalidad de los empleados públicos que se encuentren en situación activa en el Departamento, Organismo o Servicio al que se refiera aquélla y tengan derecho al cobro de las mismas.
+
+3\. A efectos de la descripción del procedimiento en la tramitación de los compromisos de gasto, se pueden distinguir los siguientes tipos de personal en activo:
+
+a) Personal que percibe sus retribuciones con cargo al capítulo primero del Presupuesto de Gastos.
+
+b) Personal laboral eventual que percibe sus retribuciones con cargo al capítulo sexto del Presupuesto de Gastos.
+
+#### Regla 67. Tramitación de los compromisos de gasto de las retribuciones de personal que se deben aplicar al capítulo primero del Presupuesto de Gastos
+
+1\. Por lo que se refiere a las retribuciones de carácter fijo y vencimiento periódico, al inicio del ejercicio, el Servicio gestor competente formulará un documento AD por el importe que se prevea gastar durante dicho ejercicio en las aplicaciones presupuestarias a las que se deban aplicar dichas retribuciones.
+
+La estimación de dicho importe, que en todo caso deberá justificar el gasto anual previsto, podrá efectuarse a partir de las cantidades que se incluyan en la nómina del mes de enero del citado ejercicio.
+
+En el caso de personal laboral eventual, la estimación tendrá en cuenta el período de vigencia de los contratos. Asimismo, al documento AD se podrá adjuntar una relación de los contratos vigentes de este tipo al inicio del ejercicio, indicando, para cada uno, el salario pactado y la fecha de terminación del contrato.
+
+Si durante el ejercicio la estimación resultase inadecuada, se expedirán los documentos AD que sean precisos, con signo positivo o negativo según el ajuste que se deba realizar, justificando sus importes. Esta revisión se deberá efectuar, en todo caso, cuando entre en vigor un nuevo convenio colectivo para el personal laboral.
+
+2\. En el caso de gastos correspondientes a complementos, horas extraordinarias u otras atenciones de personal de carácter variable, el documento AD inicial, referente a estos conceptos de gasto, se expedirá una vez dictado por la autoridad competente el acuerdo de distribución o aplicación de créditos para estas atenciones, y según los importes detallados en dicho acuerdo que justificará dicho documento AD.
+
+No obstante, si al inicio del ejercicio no se hubiera dictado aún el acuerdo de distribución o aplicación de créditos, el AD inicial se expedirá tomando como referencia el acuerdo de distribución del año anterior.
+
+Una vez dictado por la autoridad competente el acuerdo de distribución o aplicación de créditos, se expedirá un documento AD complementario del inicial con signo positivo o negativo según sea la diferencia entre los importes que figuran en el acuerdo de distribución y en el AD inicial.
+
+3\. Cuando se vaya a tramitar algún expediente de contratación de personal laboral fijo o eventual, el Servicio gestor formulará un documento RC que remitirá a la oficina de contabilidad. Con carácter previo a la expedición del mismo, se deberá haber efectuado la actualización de compromisos de gasto a que se refiere el párrafo cuarto del punto 1 anterior.
+
+El importe del RC se justificará con la demostración de la existencia de crédito suficiente mediante la indicación del crédito presupuestado y de los compromisos de gasto por su importe elevado al año.
+
+La oficina de contabilidad registrará dicho documento y obtendrá el correspondiente certificado de existencia de crédito que enviará al Servicio gestor para que lo incorpore al citado expediente.
+
+Una vez finalizado el proceso de contratación y formalizados los respectivos contratos, el Servicio gestor deberá expedir el oportuno documento AD que será complementario del que inicialmente se formuló por la estimación de gasto anual.
+
+4\. Sin perjuicio de lo indicado en los puntos anteriores, cuando por razones debidamente justificadas y siempre en orden a una más adecuada gestión en la ejecución de los créditos autorizados, se podrá aceptar la expedición de documentos ADOK por cada una de las nóminas que se aprueben.
+
+> Se modifica el apartado 2 por el art. 2.3 de la Orden HAP/336/2014, de 4 de marzo. [Ref. BOE-A-2014-2486](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2486).
+
+> Redactado el párrafo primero del apartado 1 conforme a la corrección de errores publicada en BOE núm. 57, de 6 de marzo de 1996. [Ref. BOE-A-1996-5203](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-5203)
+
+#### Regla 68. Tramitación de los compromisos de gasto de las retribuciones de personal laboral eventual que se deben aplicar al capítulo sexto del Presupuesto de Gastos
+
+1\. Los gastos derivados de este tipo de retribuciones se aplicarán a los créditos del capítulo de inversiones, cuando se trate de contratados para obra o servicio determinado y siempre que, disponiendo de la debida autorización, no exista crédito adecuado y suficiente en el capítulo primero del Presupuesto de Gastos.
+
+2\. Cuando se tramite algún expediente de contratación de este tipo, el Servicio gestor expedirá documentos RC de ejercicio corriente y, en su caso, de ejercicios posteriores, que remitirá a la oficina de contabilidad. Una vez registrados dichos documentos, se remitirán los correspondientes certificados al Servicio gestor para su incorporación al citado expediente.
+
+Al finalizar el proceso de contratación y formalizados los correspondientes contratos, el Servicio gestor deberá expedir, por el importe total de las contrataciones aprobadas, un documento AD de ejercicio corriente y, en su caso, otro de ejercicios posteriores para su remisión a la oficina de contabilidad.
+
+3\. Los cambios que se puedan producir en el programa de trabajos del contrato de obra o servicios, que impliquen alteraciones del calendario inicialmente previsto, darán lugar a la expedición por el Servicio gestor de los correspondientes documentos AD positivos o negativos, que se aplicarán al ejercicio en el que deba concluirse la obra o servicio, ajustándose, de esta forma, el gasto comprometido a la fecha prevista de terminación de la obra principal.
+
+#### Regla 69. Tramitación para el pago de las retribuciones del personal en activo
+
+1\. Para el reconocimiento de las obligaciones de este tipo de gastos, los habilitados o cajeros pagadores de cada servicio, centro o dependencia confeccionarán, con arreglo a las normas vigentes, las nóminas de haberes de personal, que se aprobarán por el órgano competente del Servicio gestor.
+
+2\. Los habilitados o cajeros pagadores deberán presentar los documentos OK o, en su caso, ADOK, según se haya efectuado o no el compromiso previo del gasto, en las oficinas de contabilidad que correspondan a los órganos que aprobaron las nóminas, antes del día 7 de cada mes, junto con los ''Resúmenes de nómina''.
+
+3\. Las oficinas de contabilidad registrarán dichos documentos contables en el sistema de información contable.
+
+4\. Se adoptarán las medidas oportunas para que el pago de los importes correspondientes a las nóminas se efectúe, al menos, con cinco días de antelación al correspondiente vencimiento.
+
+5\. En el caso de nóminas tramitadas en las Delegaciones Provinciales de Economía y Hacienda, cuyas respectivas órdenes de pago no se hubieran recibido antes del plazo que se indica en el punto anterior, los Delegados provinciales de Economía y Hacienda podrán ordenar pagos no presupuestarios con base en la información de las propuestas de pago registradas en el sistema. Dichos pagos se aplicarán al concepto no presupuestario que determine la Intervención General de la Administración del Estado por el importe líquido de las nóminas. Tan pronto se reciban las citadas órdenes de pago, se procederá a la cancelación de estos anticipos de retribuciones mediante el pago en formalización de las mismas.
+
+> Se modifican los apartados 2 y 3 por el art. 3 de la Orden EHA/405/2006, de 10 de febrero. [Ref. BOE-A-2006-2969](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2969).
+
+#### Regla 70. Cuotas sociales a cargo de la Administración General del Estado
+
+1\. Al inicio del ejercicio, el Servicio gestor competente expedirá un documento AD debidamente justificado, por el importe que se prevea gastar durante dicho ejercicio para atender las aportaciones a los regímenes de la Seguridad Social y de previsión del personal a su servicio y otras cuotas sociales a cargo de la Administración General del Estado.
+
+2\. La estimación de dicho importe de gasto anual se podrá efectuar a partir de las obligaciones del mes de diciembre del ejercicio anterior.
+
+Si durante el ejercicio, dicha estimación resultase inadecuada, se expedirán los documentos AD, con signo positivo o negativo, que sean precisos, justificando sus importes.
+
+3\. Sin perjuicio de lo indicado en los puntos anteriores, cuando por razones debidamente justificadas y siempre en orden a una más adecuada gestión en la ejecución de los créditos autorizados, se podrá aceptar la expedición de documentos ADOK por cada uno de los expedientes que se aprueben.
+
+4\. El documento OK o, en su caso, ADOK, correspondiente a las aportaciones a los regímenes de la Seguridad Social, en aplicación del sistema de liquidación directa de cuotas por la Tesorería General de la Seguridad Social, se expedirá a favor de las correspondientes Habilitaciones o Pagadurías de Personal, a fin de que puedan efectuar el pago de dichas aportaciones, junto con las retenciones de las cuotas obreras, a favor de dicha Tesorería de acuerdo con los plazos previstos en dicho sistema.
+
+En la tramitación del resto de cuotas sociales a cargo de la Administración General del Estado, el documento OK o, en su caso, ADOK, se expedirá a favor del ente público que gestione dichas cuotas.
+
+> Se modifica el apartado 4 por el art. 2.2 de la Orden HAC/787/2018, de 25 de julio. [Ref. BOE-A-2018-10649](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10649)
+
+#### Regla 71. Prestaciones sociales (Clases Pasivas)
+
+1\. Al inicio del ejercicio, por la Dirección General de Costes de Personal y Pensiones Públicas se formulará un documento AD por el importe total de la dotación presupuestaria en la Sección 07 «Clases Pasivas» del Presupuesto de Gastos.
+
+2\. Si a lo largo del ejercicio se autorizan ampliaciones de crédito que afecten a dicha Sección 07, como consecuencia del devengo de nuevas prestaciones no previstas inicialmente, se expedirá un nuevo documento AD que se referenciará con el número de registro contable correspondiente al documento AD inicial.
+
+3\. Sin perjuicio de lo indicado en los puntos 1 y 2 anteriores, cuando la autoridad competente así lo considere oportuno, en orden a una más adecuada gestión en la ejecución de los créditos autorizados, se podrá expedir un documento ADOK por cada una de las nóminas que se aprueben, recogiendo en dicho documento todas las fases de ejecución del presupuesto.
+
+#### Regla 72. Tramitación para el pago de las prestaciones de Clases Pasivas del Estado
+
+1\. Para el reconocimiento de las obligaciones se deberán confeccionar las correspondientes nóminas de perceptores de prestaciones de Clases Pasivas del Estado.
+
+2\. La tramitación de las nóminas y de su pago a los perceptores finales se podrá efectuar en régimen centralizado o descentralizado, en función de los domicilios de los perceptores, y de acuerdo con lo que se indica en las reglas siguientes.
+
+3\. Todos los órganos gestores distintos de la Dirección General de Costes de Personal y Pensiones Públicas y de las Unidades de Clases Pasivas de las Delegaciones Provinciales de Economía y Hacienda, que gestionen prestaciones con cargo a la citada Sección 07 del Presupuesto de Gastos, deberán tramitar los correspondientes documentos contables a través de la Intervención Delegada en dicha Dirección General.
+
+#### Regla 73. Pagos de Clases Pasivas en régimen centralizado
+
+1\. Para aquellos perceptores cuyo domicilio esté ubicado en la provincia de Madrid o hubiesen elegido cobrar en esta provincia en el caso de residir en el extranjero, la tramitación para el pago de sus prestaciones se efectuará de forma centralizada a través de la Dirección General de Costes de Personal y Pensiones Públicas.
+
+2\. Por dicha Dirección General se darán las órdenes necesarias para la confección de las oportunas nóminas, las cuales se obtendrán de forma diferenciada según el procedimiento de pago que se deba seguir con las mismas.
+
+3\. Cuando se trate de nóminas cuyo importe deba ser anticipado de forma no presupuestaria por la Dirección General del Tesoro y Política Financiera, según la normativa que las regule, dichas nóminas se remitirán a la Intervención Delegada en la Dirección General de Costes de Personal y Pensiones Públicas para su fiscalización.
+
+Una vez aprobadas las citadas nóminas, se enviarán a la Dirección General del Tesoro y Política Financiera a fin de que anticipe los importes líquidos de las mismas para su pago a los perceptores.
+
+Posteriormente, se expedirán por la Dirección General de Costes de Personal y Pensiones Públicas los documentos OK o ADOK de acuerdo con las cantidades justificadas por la Dirección General del Tesoro y Política Financiera en relación con el anticipo de fondos indicado en el párrafo anterior. Dichos documentos se expedirán en formalización y se remitirán a la oficina de contabilidad.
+
+4\. Cuando se trate de nóminas cuyos importes no deban ser anticipados por la Dirección General del Tesoro y Política Financiera, las mismas se remitirán a la citada Intervención Delegada junto con los correspondientes documentos contables OK o ADOK.
+
+Una vez aprobadas las nóminas, la oficina de contabilidad registrará dichos documentos contables, transmitiendo los datos de las propuestas de pago a la Dirección General del Tesoro y Política Financiera, con el fin de que se pueda efectuar el pago de las correspondientes prestaciones.
+
+5\. La justificación del pago material de las nóminas se realizará de acuerdo con la normativa específica que les sea aplicable.
+
+#### Regla 74. Pagos de Clases Pasivas en régimen descentralizado
+
+1\. Para aquellos perceptores que residan en otras provincias distintas de la de Madrid o hubiesen elegido cobrar en alguna de aquellas en el caso de residir en el extranjero, la tramitación para el pago de sus prestaciones se efectuará de forma descentralizada a través de las Unidades de Clases Pasivas de las respectivas Delegaciones Provinciales de Economía y Hacienda.
+
+2\. Por dichas Unidades se darán las órdenes necesarias para la confección de las oportunas nóminas, las cuales se obtendrán de forma diferenciada según el procedimiento de pago que se deba seguir con las mismas.
+
+3\. Cuando se trate de nóminas cuyo importe deba ser anticipado de forma no presupuestaria, una vez aprobadas las mismas, las Cajas de las Delegaciones Provinciales de Economía y Hacienda expedirán propuestas de pago no presupuestarias con el fin de anticipar los importes líquidos de estas nóminas para su pago a los perceptores.
+
+Con la justificación de los pagos efectuados de acuerdo con lo indicado en el párrafo anterior, las Unidades de Clases Pasivas formularán los correspondientes documentos OK o ADOK que se remitirán a la respectivas Intervenciones Territoriales. Dichos documentos se expedirán en formalización, de forma que cuando se reciban las oportunas órdenes de pago se procederá a cancelar los anticipos de fondos realizados por parte de la Unidad de Caja.
+
+4\. Para el caso de las nóminas restantes, a las Intervenciones Territoriales se remitirán dichas nóminas junto con los correspondientes documentos OK o ADOK. Una vez aprobadas, se registrarán dichos documentos en el SICOP por la Intervención Territorial.
+
+Posteriormente, si las correspondientes órdenes de pago no se hubieran recibido, al menos con cinco días de antelación al correspondiente vencimiento, los Delegados Provinciales de Economía y Hacienda podrán ordenar pagos no presupuestarios con base en la información de las propuestas de pago registradas en el sistema. Dichos pagos se aplicarán al concepto no presupuestario que determine la Intervención General de la Administración del Estado por el importe líquido de las nóminas. Tan pronto se reciban las citadas órdenes de pago, se procederá a la cancelación de estos anticipos de prestaciones mediante el pago en formalización de las mismas.
+
+#### Regla 75. Gastos sociales del personal
+
+1\. El Servicio gestor competente expedirá un documento AD por el importe que resulte de las estipulaciones recogidas acerca de este tipo de gastos en el convenio colectivo aplicable, y, en su caso, de los acuerdos de distribución de los mismos que se dicten al efecto.
+
+2\. En aquellos gastos sociales de personal que precisen la formalización de contratos con terceros, se seguirá el procedimiento recogido en las reglas 77 y 78.
+
+3\. Para el pago de los gastos sociales del personal se confeccionarán por el Servicio gestor documentos OK, o ADOK, en el supuesto de que no existan documentos AD registrados con carácter previo, que se remitirán junto con los documentos que los justifiquen, a la oficina de contabilidad.
+
+### Sección 2.ª De los gastos corrientes en bienes y servicios y de las inversiones reales
+
+#### Regla 76. Delimitación
+
+En esta Sección se regula el procedimiento a seguir en la tramitación de aquellos gastos que se ejecuten con cargo a los créditos aprobados en los capítulos segundo y sexto
+
+del Presupuesto de Gastos del Estado. A los solos efectos de la descripción de dicho procedimiento, se pueden distinguir los siguientes tipos de gasto dentro de la presente Sección:
+
+a) Gastos contractuales: A su vez estos gastos se pueden derivar de contratos administrativos o de contratos privados de la Administración.
+
+b) Gastos de expropiaciones.
+
+c) Gastos de material no inventariable y otros gastos ordinarios.
+
+d) Indemnizaciones por razón de servicio.
+
+#### Regla 77. Compromisos de gasto derivados de los contratos
+
+1\. Al inicio de un expediente de contratación, el Servicio gestor expedirá un documento RC de ejercicio corriente y, en su caso, un documento RC de ejercicios posteriores. Dichos documentos se remitirán a la oficina de contabilidad, en donde, una vez registrados, se obtendrá certificado de existencia de crédito en el Presupuesto corriente y certificado de cumplimiento de los límites establecidos en el artículo 61 del TRLGP. Dichos certificados se remitirán al Servicio gestor para que los incorpore al citado expediente.
+
+En el caso de expedientes de contratación de arrendamientos de bienes inmuebles a utilizar por organismos del Estado, no será precisa la expedición del documento RC de ejercicios posteriores a que se refiere el párrafo anterior, si bien una vez formalizado el contrato, se deberá formular un documento AD de ejercicios posteriores, junto con el respectivo AD de ejercicio corriente.
+
+2\. Posteriormente, y una vez que se apruebe el expediente de gasto, el Servicio gestor formulará un documento A por el importe que de dicho expediente corresponda al Presupuesto en curso y, en su caso, un documento A de ejercicios posteriores por la parte que deba ser aplicada a ejercicios posteriores.
+
+Cuando se formalicen los contratos, el Servicio gestor competente expedirá el respectivo documento D por el importe que corresponda al Presupuesto corriente y, en su caso, un documento D de ejercicios posteriores por la parte que se aplique a ejercicios posteriores. Dichos documentos se remitirán, junto con el correspondiente contrato, a la oficina de contabilidad.
+
+En el caso de contratos de arrendamiento financiero, el Servicio gestor remitirá a la oficina de contabilidad, junto con los documentos a los que se refiere el párrafo anterior, un cuadro financiero en el que se detalle la parte de cada cuota que corresponde a amortización y la parte que corresponde a intereses. Si posteriormente se produce alguna modificación en las cuotas de arrendamiento, el Servicio gestor remitirá a la oficina de contabilidad el nuevo cuadro financieroacompañando a los correspondientes documentos D o AD.
+
+3\. **(Suprimido)**
+
+4\. A los documentos D o AD a que se refieren el punto 2 anterior, se podrá unir, para su envío a la oficina de contabilidad, el acuerdo de adjudicación, en los supuestos en los que la Ley de Contratos del Sector Público permita el inicio de la ejecución del contrato con carácter previo a su formalización, si bien cuando el contrato, en su caso, se formalice, se deberá adjuntar con el primer documento OK que se expida en la ejecución del mismo. En los casos de contratos basados en Acuerdos Marco y sistemas dinámicos de adquisición los documentos contables irán acompañados del correspondiente acuerdo de adjudicación.
+
+5\. Cuando con respecto a los contratos en vigor, se originen modificaciones contractuales, reajustes de anualidades, revisiones de precios y liquidaciones, para la tramitación de estos expedientes se deberán expedir por los Servicios gestores los oportunos documentos RC de ejercicios posteriores y corriente. Cuando se registren dichos documentos por la oficina de contabilidad, se deberán obtener los oportunos certificados para unir a los respectivos expedientes.
+
+En las variaciones previstas de los contratos de arrendamientos derivadas de las revisiones de renta, no será precisa la expedición del documento RC de ejercicios posteriores a que se refiere el párrafo anterior.
+
+Una vez aprobados los expedientes a los que se refieren los párrafos anteriores de este punto, el Servicio gestor formulará documentos AD de ejercicios posteriores y corriente, que serán positivos o negativos según la modificación que afecte al contrato, expidiéndose además, en el segundo caso, los correspondientes documentos RC negativos. Dichos documentos se remitirán a la oficina de contabilidad, junto con el acuerdo de aprobación de dichos expedientes.
+
+6\. En los expedientes de cesiones de contratos, una vez otorgada la correspondiente escritura pública, el Servicio gestor expedirá documentos D negativos de ejercicio corriente y, en su caso, de ejercicios posteriores en los que figurará como interesado el adjudicatario-cedente, y, simultáneamente, documentos D positivos de ejercicio corriente y, en su caso, de ejercicios posteriores en los que figurará como interesado el cesionario. Dichos documentos contables se expedirán por el importe del contrato pendiente de ejecutar al formalizarse la cesión, debiéndose remitir a la oficina de contabilidad, junto con el respectivo expediente.
+
+7\. Si se produce la resolución de algún contrato, el Servicio gestor deberá expedir documentos AD y RC negativos de ejercicio corriente y de ejercicios posteriores, por el importe no ejecutado del contrato según se deduzca de la liquidación que se practique.
+
+> Se modifica el apartado 4 por el art. 2.2 de la Orden HAC/360/2021, de 14 de abril. [Ref. BOE-A-2021-6124](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6124)
+
+> Se suprime el apartado 3 por el art. 2.6 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+> Se añade el párrafo final al apartado 2 por el art. 2.5 de la Orden EHA/3068/2011, de 8 de noviembre. [Ref. BOE-A-2011-17889](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17889).
+
+#### Regla 78. Procedimiento para el reconocimiento de la obligación en relación con los contratos
+
+1\. Antes de efectuar el reconocimiento de la obligación, se deberá justificar por el contratista el cumplimiento de la prestación contractual o, en su caso, la procedencia del abono a cuenta.
+
+Una vez aprobado el expediente de reconocimiento de la obligación, el Servicio gestor expedirá un documento OK que se enviará a la oficina de contabilidad.
+
+2\. En el caso de certificaciones de obra que se aprueben excediendo el importe de la anualidad en curso, la expedición del documento OK quedará demorada hasta que se inicie el ejercicio con cargo a cuyo presupuesto se financie la certificación anticipada, por lo que la toma de razón de ésta se realizará con base en el documento CA de «Certificaciones anticipadas».
+
+El documento CA se expedirá por el Servicio gestor, debiendo remitirse a la oficina de contabilidad, junto con la certificación anticipada debidamente aprobada.
+
+Cuando se expida el documento OK a que se refiere el primer párrafo de este punto, en el mismo se hará constar el número de orden correspondiente a la certificación anticipada.
+
+3\. Para los contratos de arrendamientos u otros contratos patrimoniales que se realicen en territorio nacional, en los que el pago se efectúe a justificar a través de habilitados, cajeros-pagadores u otros agentes mediadores en los pagos y se haya registrado previamente el compromiso a favor del tercero, en el correspondiente documento OK figurarán como datos del interesado los de dicho tercero y como datos del cesionario los del Habilitado, Cajero-Pagador o agente mediador en el pago.
+
+> Se modifica el apartado 3 por el punto 1.24 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 78 bis. Información adicional en el reconocimiento de obligaciones relativas a operaciones que deban tener incidencia en CIBI.
+
+En las operaciones de gestión patrimonial que deban tener incidencia en el Sistema de información sobre el Inventario General de Bienes Inmuebles (CIBI), los documentos contables que incluyan la fase “O” de reconocimiento de la obligación deberán ir acompañados del correspondiente documento “IB” al que se refiere la Orden de 12 de diciembre de 1991, por la que se implanta en la Administración del Estado un nuevo sistema de Información de Inventario General de Bienes Inmuebles y la Resolución de 28 de octubre de 1992 de la Intervención General de la Administración del Estado, por la que se regulan los efectos contables de dicho sistema.
+
+> Se modifica por el art. 2.1.1 de la Orden HFP/1105/2017, de 16 de noviembre. [Ref. BOE-A-2017-13278](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13278)
+
+> Se añade por el punto 1.25 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 78 ter. Procedimiento para la tramitación de los gastos derivados de contratos centralizados.
+
+Para la tramitación de los gastos derivados de contratos centralizados financiados con cargo a los créditos disponibles al efecto en la sección 31 "Gastos de Diversos Ministerios", se seguirán los siguientes procedimientos:
+
+a) Para la tramitación de la aprobación y el compromiso de gasto se seguirá el procedimiento regulado en la regla 77 de esta Instrucción con las especialidades que se regulan en los siguientes párrafos.
+
+Los documentos contables para la contabilización de la aprobación y el compromiso de gasto serán expedidos por la Dirección General de Racionalización y Centralización de la Contratación del Ministerio de Hacienda y Administraciones Públicas y serán remitidos a su Oficina de contabilidad para su registro en el SIC.
+
+En los citados documentos contables deberá desglosarse el importe aprobado o comprometido, mediante el necesario desglose a nivel orgánico, a fin de indicar la cantidad que corresponde a cada uno de los órganos de los Departamentos ministeriales y Organismos que vayan a ejecutar el contrato.
+
+No obstante, si en el momento de expedir los citados documentos contables no estuviera disponible el desglose por órgano ejecutor, se expedirá sin desglosar y, posteriormente, cuando se disponga de dicho desglose, la Dirección General de Racionalización y Centralización de la Contratación del Ministerio de Hacienda y Administraciones Públicas expedirá y remitirá a su Oficina de contabilidad los correspondientes documentos contables con signo negativo para anular los que se hayan expedido sobre el importe sin desglosar y los documentos contables positivos, con los importes ya desglosados por órganos gestores.
+
+b) Para el reconocimiento de la obligación se seguirá el procedimiento regulado en la regla 78 de esta Instrucción con las especialidades que se regulan en los siguientes párrafos.
+
+b.1) Departamentos Ministeriales.
+
+La Oficina de contabilidad de cada Departamento ministerial registrará en su registro contable de facturas las que correspondan a los gastos generados en su ámbito, relativos a contratos centralizados financiados con cargo a los créditos disponibles al efecto en la sección 31 "Gastos de Diversos Ministerios".
+
+El Servicio gestor expedirá el documento OK y lo remitirá a su respectiva Oficina de contabilidad para su registro en el SIC con imputación al compromiso de gasto que se registró en su momento en la Oficina de contabilidad del Ministerio de Hacienda y Administraciones Públicas.
+
+b.2) Organismos:
+
+La Oficina de contabilidad del Ministerio de Hacienda y Administraciones Públicas registrará, en su registro contable de facturas, además de las facturas relativas a los gastos generados en su ámbito derivados de contratos centralizados financiados con cargo a los créditos disponibles al efecto en la sección 31 "Gastos de Diversos Ministerios", las facturas que correspondan a dichos gastos que se hayan generado en el ámbito de cualquier organismo o entidad distinto de la Administración General del Estado.
+
+En este último caso, cuando el Servicio gestor esté integrado en un Organismo Público, dicho Servicio expedirá el correspondiente documento OK y lo remitirá a la Oficina de contabilidad del Ministerio de Hacienda y Administraciones Públicas para su registro en el SIC utilizando preferentemente la tramitación electrónica prevista en la Resolución de 28 de noviembre de 2005 de la Intervención General de la Administración del Estado, por la que se regulan los procedimientos para la tramitación de los documentos contables en soporte fichero, remitiendo tanto el documento contable como su justificante en formato electrónico.
+
+> Se añade por el art. 2.2 de la Orden HAP/538/2015, de 23 de marzo. [Ref. BOE-A-2015-3446](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3446).
+
+#### Regla 78 quáter. Procedimiento para la tramitación de las operaciones con incidencia en el Inventario Sorolla.
+
+1\. La adquisición, producción o recepción por cualquier otra causa de elementos patrimoniales que cumplan las características del inmovilizado no financiero de acuerdo con el Plan General de Contabilidad Pública, deberán darse de alta en el módulo de gestión de inventario de la aplicación Sorolla (en adelante, inventario Sorolla), por la unidad de inventario, siempre que, por las características de los elementos patrimoniales a inventariar, no deban ser dados de alta en el inventario CIBI.
+
+2\. En las operaciones de gestión patrimonial que deban tener incidencia en el inventario Sorolla, que supongan la expedición de documentos contables que incluyan la fase “O” de reconocimiento de la obligación deberá cumplimentarse obligatoriamente el campo “Número de certificado de inventario Sorolla (NCIS)” que se corresponderá con el número identificativo del certificado generado en el inventario Sorolla que garantice la incorporación al mismo de los elementos cuya obligación se está reconociendo.
+
+Asimismo, en los documentos contables de “Control de pagos a justificar” expedidos para la presentación de la cuenta justificativa deberá cumplimentarse el citado campo NCIS, a que se refiere el párrafo anterior.
+
+El campo sólo deberá cumplimentarse en los documentos contables referidos en los dos párrafos anteriores cuando incluyan aplicaciones presupuestarias del capítulo VI, “Inversiones reales”, del presupuesto de gastos, que no deban integrarse en el inventario CIBI y que, en el caso de aquellos documentos que contengan la fase “O” de reconocimiento de la obligación, además no tengan como clave de tipo de pago la de “pago a justificar”.
+
+A tal fin, con carácter previo a la expedición de los documentos contables anteriores, la unidad tramitadora del expediente de gasto solicitará el certificado mediante acceso a la aplicación de inventario Sorolla, proporcionando la identificación del expediente de gasto y de las facturas incluidas en él. La aplicación de inventario Sorolla generará el certificado automáticamente, siempre que los justificantes hayan sido previamente asignados al inventario, y le asignará el NCIS correspondiente.
+
+De no cumplimentarse en el documento contable que corresponda el mencionado campo, el documento contable será devuelto al Servicio gestor de acuerdo con lo previsto en la regla 2 de esta Instrucción. Igualmente se devolverá el documento contable si el importe total del certificado al que corresponde el NCIS cumplimentado en el mismo no coincide con el importe total de dicho documento contable.
+
+Con base en el contenido del certificado correspondiente a cada documento contable a registrar en el SIC y teniendo en cuenta los importes relativos a las tres categorías previstas en dicho certificado, esto es: activos inventariados cuyo importe se encuentre por encima del umbral de activación, activos inventariados cuyo importe se encuentre por debajo del umbral de activación e importes que no tengan la consideración de activo y por tanto, no deban suponer alta en el inventario, el SIC generará automáticamente el asiento contable correspondiente, con imputación a las cuentas de activo o, en su caso, de gasto que corresponda.
+
+3\. Sin perjuicio de lo establecido en el apartado 2 de esta regla, cuando se confeccione el inventario de los bienes no CIBI que se hayan adquirido, producido o, recibido por cualquier otra causa, con anterioridad a la entrada en vigor de la obligatoriedad de aplicar el procedimiento previsto en esta regla, deberá regularizarse en el SIC la contabilidad de todos los activos afectados por la realización de dicho inventario, teniendo en cuenta, para ello, los umbrales de activación establecidos por la IGAE así como los elementos que se encuentren totalmente amortizados en función de la vida útil de cada elemento incorporado al inventario.
+
+No obstante, si previamente a la confección del inventario referido en el párrafo anterior, se presentara alguna operación que suponga un incremento del valor de un activo no incluido en el mismo, por haberse adquirido con anterioridad a la entrada en vigor del procedimiento regulado en esta regla, deberá procederse al registro de dicho activo en el inventario Sorolla de acuerdo con los criterios señalados en el párrafo anterior. Una vez dado de alta dicho activo, se deberá registrar en el inventario Sorolla la citada operación de incremento de valor del citado activo, debiendo seguir el procedimiento indicado en el apartado 2 de esta regla.
+
+4\. La unidad de inventario tiene la obligación de mantener actualizada la situación de todos los elementos dados de alta en dicho inventario, registrando todas las operaciones que puedan afectar a los mismos, como es el caso de las bajas.
+
+Las oficinas de contabilidad de los Departamentos Ministeriales tendrán acceso al inventario Sorolla con el fin de comprobar que se han anotado en dicho inventario las operaciones indicadas en el párrafo anterior, a efectos de la contabilización de dichas operaciones en el SIC.
+
+> Se añade por el art. 2.1.2 de la Orden HFP/1105/2017, de 16 de noviembre. [Ref. BOE-A-2017-13278](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13278)
+
+#### Regla 79. Tramitación de los gastos de expropiaciones
+
+1\. Al inicio de un expediente de expropiación forzosa, el Servicio gestor expedirá un documento RC de ejercicio corriente que se remitirá a la oficina de contabilidad, en donde, una vez registrado, se obtendrá el certificado de existencia de crédito que se unirá al respectivo expediente de gastos.
+
+2\. Una vez aprobado el expediente, el Servicio gestor tramitará un pago a justificar, mediante la expedición de un documento ADOK, con el fin de que se pueda proceder al pago o depósito del importe que corresponda abonar a los expropiados como requisito previo para la expedición del acta de ocupación de los bienes afectados por la expropiación.
+
+#### Regla 80. Tramitación de los gastos correspondientes a indemnizaciones por razón de servicio
+
+1\. Como regla general, los anticipos a entregar, en su caso, a los titulares de comisiones de servicio se efectuarán con cargo a los fondos del anticipo de caja fija, o bien con cargo a fondos a justificar. En ambos casos se deberá seguir el procedimiento indicado en las secciones 3.ª y 2.ª, respectivamente, del capítulo II de la presente Instrucción.
+
+2\. Cuando las indemnizaciones por razón de servicio no se tramiten por el procedimiento indicado en el punto anterior, una vez aprobado el expediente de gasto al que se debió incorporar con carácter previo certificado de existencia de crédito, el Servicio gestor expedirá un documento AD que se remitirá a la oficina de contabilidad junto con el respectivo acuerdo.
+
+Posteriormente, cuando se reciban los justificantes de los gastos efectuados, se procederá al reconocimiento de la obligación, formulando un documento OK que se enviará también a la oficina de contabilidad para su contabilización, unido a dicho acto de reconocimiento.
+
+### Sección 3.ª De las transferencias y subvenciones corrientes y de capital
+
+#### Regla 81. Delimitación
+
+En esta Sección se regula el procedimiento a seguir en la tramitación de aquellos gastos que tengan la naturaleza de subvenciones y transferencias.
+
+#### Regla 82. Subvenciones
+
+1\. Son subvenciones con cargo al Presupuesto de Gastos del Estado las entregas dinerarias efectuadas desde los diferentes centros gestores a favor de personas o entidades, públicas o privadas, todas ellas afectadas a una finalidad específica y sin contrapartida directa por parte de los beneficiarios.
+
+2\. En las reglas siguientes se describe la tramitación de los gastos correspondientes a:
+
+a) Subvenciones nominativas.
+
+b) Subvenciones paccionadas.
+
+c) Subvenciones no nominativas:
+
+Sin convocatoria previa de carácter periódico.
+
+Con convocatoria previa de carácter periódico.
+
+d) Subvenciones gestionadas por Comunidades Autónomas (artículo 153 del TRLGP).
+
+#### Regla 83. Tramitación de las subvenciones nominativas
+
+1\. Son aquellas que aparecen con tal carácter en las Leyes de Presupuestos Generales del Estado o en las disposiciones en virtud de las cuales hayan de ser otorgadas.
+
+2\. El Servicio gestor podrá expedir un documento RC que remitirá a la oficina de contabilidad. Una vez registrado dicho documento, se obtendrá el certificado de existencia de crédito que se unirá al expediente en el que se incluya la propuesta de concesión de la correspondiente subvención.
+
+3\. Una vez dictado el acuerdo de concesión por el órgano competente, el Servicio gestor formulará un documento AD o ADOK que se remitirá a la oficina de contabilidad, junto con el citado acuerdo de concesión.
+
+4\. En el caso de haberse formulado documento AD, al vencimiento de las obligaciones se expedirán los correspondientes documentos OK.
+
+#### Regla 84. Tramitación de las subvenciones paccionadas
+
+1\. Son las que se derivan de la formalización de contratos-programa, convenios de colaboración y otros pactos entre la Administración General del Estado y otras entidades.
+
+2\. Los Servicios gestores competentes expedirán un documento RC por el importe del ejercicio corriente, y, en su caso, un documento RC de ejercicios posteriores, los cuales se remitirán a la oficina de contabilidad. Una vez que se registren dichos documentos, se obtendrán los correspondientes certificados que se unirán al respectivo expediente de gasto que se esté tramitando.
+
+3\. Cuando se apruebe el expediente de gasto, el Servicio gestor expedirá un documento A por el importe del ejercicio corriente y, en su caso, un documento A de ejercicios posteriores, que se remitirán a la oficina de contabilidad, junto con el acuerdo aprobatorio del gasto.
+
+4\. Una vez que se formalice el correspondiente contrato-programa, convenio u otro pacto, por el Servicio gestor se expedirá un documento D de ejercicio corriente y, en su caso, un documento D de ejercicios posteriores, que se remitirán a la oficina de contabilidad, junto con el respectivo acuerdo de concesión.
+
+5\. Cuando se cumplan las condiciones estipuladas en el acuerdo de concesión, el Servicio gestor formulará un documento OK, que se remitirá a la oficina de contabilidad, junto con el respectivo expediente de reconocimiento de la obligación debidamente aprobado.
+
+#### Regla 85. Tramitación de subvenciones no nominativas sin convocatoria previa de carácter periódico
+
+1\. Son aquellas que se van concediendo continuadamente en el tiempo en función de las solicitudes recibidas, que cumplan los requisitos establecidos en la normativa aplicable y cuyo procedimiento se inicia de acuerdo con lo dispuesto en el artículo 4.2 del Real Decreto 2225/1993, de 17 de diciembre.
+
+A estos efectos, por la autoridad correspondiente se establecerán, previamente a la disposición de los créditos, las oportunas bases reguladoras para su concesión de acuerdo con lo establecido en el artículo 81.6 del texto refundido de la Ley General Presupuestaria.
+
+2\. Durante la tramitación del expediente de este tipo de subvenciones, el Servicio gestor expedirá un documento RC por el importe que corresponda al ejercicio corriente y, en su caso, un documento RC de ejercicios posteriores que se remitirán a la oficina de contabilidad. Una vez registrados dichos documentos, se obtendrán los correspondientes certificados que se unirán a dicho expediente.
+
+3\. Si las bases reguladoras de la concesión prevén que el beneficiario justifique en el momento de la solicitud o, en su caso, con anterioridad a la concesión de la subvención, la realización de la actividad objeto de la misma, una vez acordada su concesión, el Servicio gestor expedirá un documento ADOK que se remitirá a la oficina de contabilidad junto con el citado acuerdo.
+
+4\. En el caso de que las bases reguladoras prevean que la justificación de la actividad a fomentar se realice con posterioridad a la concesión de la subvención, una vez acordado el otorgamiento de la misma, el Servicio gestor expedirá un documento AD por la parte que corresponda al ejercicio corriente y, en su caso, un documento AD de ejercicios posteriores que se remitirán a la oficina de contabilidad junto con el acuerdo de concesión.
+
+Cuando se cumplan las condiciones estipuladas en el acuerdo de concesión, o en el momento establecido en las normas de cada subvención, el Servicio gestor formulará un documento OK que se remitirá a la oficina de contabilidad, junto con el acuerdo de reconocimiento de la obligación.
+
+#### Regla 86. Tramitación de subvenciones no nominativas con convocatoria previa de carácter periódico
+
+1\. Son aquellas en que existe una convocatoria previa en la que se fija un plazo para la presentación de solicitudes y un procedimiento para seleccionar a los beneficiarios y que se inician de acuerdo con lo establecido en el artículo 4.3 del Real Decreto 2225/1993, de 17 de diciembre.
+
+A estos efectos, por la autoridad correspondiente se establecerán previamente a la disposición de los créditos las oportunas bases reguladoras para su concesión de acuerdo con lo establecido en el artículo 81.6 del Texto Refundido de la Ley General Presupuestaria.
+
+2\. Durante la tramitación del expediente de este tipo de subvenciones, el Servicio gestor expedirá un documento RC por el importe que corresponda al ejercicio corriente y, en su caso, un documento RC de ejercicios posteriores que se remitirán a la oficina de contabilidad. Una vez registrados dichos documentos, se obtendrán los correspondientes certificados que se unirán a dicho expediente.
+
+3\. Posteriormente, se expedirá por el Servicio gestor un documento A y, en su caso, un documento A de ejercicios posteriores, una vez aprobado el expediente de gasto, aprobación que será previa a la publicación de la convocatoria en el «Boletín Oficial del Estado». Cuando se apruebe la concesión de las subvenciones, el Servicio gestor expedirá un documento D y, en su caso, un documento D para ejercicios posteriores.
+
+4\. Cuando se cumplan las condiciones estipuladas en el acuerdo de concesión, o en el momento establecido en las normas de cada subvención, el Servicio gestor formulará un documento OK que se remitirá a la oficina de contabilidad, junto con el acuerdo de reconocimiento de la obligación.
+
+#### Regla 87. Tramitación de las subvenciones gestionadas por Comunidades Autónomas (artículo 153 del TRLGP)
+
+1\. Una vez que se apruebe la distribución de los créditos y la correspondiente propuesta de gasto, el Servicio gestor formulará el documento AD.
+
+2\. Con la periodicidad establecida en el artículo 153 del Texto Refundido de la Ley General Presupuestaria se formularán los documentos OK.
+
+#### Regla 88. Transferencias
+
+Son transferencias con cargo al Presupuesto de Gastos del Estado las entregas dinerarias no condicionadas efectuadas desde los diferentes centros gestores a favor de personas o entidades públicas o privadas, sin contrapartida directa por parte de los beneficiarios. En particular, estarán incluidas aquellas indemnizaciones tramitadas por la Administración General del Estado que no sean por razón de servicio.
+
+#### Regla 89. Tramitación de las transferencias nominativas
+
+Las transferencias que aparezcan consignadas nominativamente en la Ley de Presupuestos Generales del Estado se tramitarán según el procedimiento indicado en la regla 83.
+
+#### Regla 90. Tramitación de las otras transferencias
+
+1\. Durante la tramitación del expediente de gasto, el Servicio gestor expedirá un documento RC por el importe que corresponda al ejercicio corriente y, en su caso, un documento RC de ejercicios posteriores que se remitirán a la oficina de contabilidad. Una vez registrados dichos documentos, se obtendrán los correspondientes certificados que se unirán al citado expediente.
+
+2\. Una vez aprobada la propuesta de gasto, el Servicio gestor expedirá un documento AD que se remitirá a la oficina de contabilidad.
+
+3\. Cuando se dicte el acto de reconocimiento de la obligación, se formulará un documento contable OK también para su remisión a la oficina de contabilidad.
+
+### Sección 4.ª De las variaciones de activos financieros
+
+#### Regla 91. Delimitación
+
+En esta Sección se regula el procedimiento a seguir en los siguientes tipos de operaciones:
+
+a) Adquisición, ampliación o reducción de capital, suscripción, fusión, enajenación, reembolso o cualquier otro tipo de operación materializada en acciones, obligaciones, bonos u otros activos financieros de empresas mercantiles.
+
+b) Concesión y reintegro de anticipos a funcionarios
+
+c) Concesión y reintegro de otros préstamos
+
+#### Regla 92. Adquisición, ampliación o reducción de capital, suscripción, fusión, enajenación, reembolso o cualquier otro tipo de operación materializada en acciones, obligaciones, bonos u otros activos financieros de empresas mercantiles
+
+1\. Para la adquisición y suscripción de este tipo de títulos o ampliación de capital se deberá formar el oportuno expediente de gasto por la Dirección General de Patrimonio del Estado. Dicha Dirección General formulará el oportuno documento RC que remitirá a la oficina de contabilidad en el Ministerio de Economía y Hacienda. Una vez registrado dicho documento, se obtendrá el certificado de existencia de crédito que se deberá unir al citado expediente.
+
+2\. Después de aprobado el expediente indicado en el punto 1 anterior, por la citada Dirección General se expedirá un documento AD que se remitirá a la mencionada oficina de contabilidad, junto con el acuerdo aprobatorio.
+
+3\. Una vez dictado el acto de reconocimiento de la obligación, se expedirá un documento OK que se remitirá a la oficina de contabilidad en el Ministerio de Economía y Hacienda, junto con el expediente de reconocimiento de la obligación.
+
+Posteriormente, el Servicio gestor de la Dirección General de Patrimonio del Estado deberá formular el documento de anotaciones en el subsistema de Cartera de Valores que corresponda según el tipo de adquisición, ampliación de capital y suscripción de que se trate, de acuerdo con las normas que se establecen en la Instrucción de Contabilidad de la Cartera de Valores de la Administración del Estado, aprobada mediante Orden ministerial de 9 de junio de 1989. Dicho documento deberá ser objeto del oportuno registro por la oficina de contabilidad en el sistema de información contable.
+
+4\. En el caso de enajenación o reembolso de estos activos financieros o reducción de capital, una vez que, en su caso, la operación esté debidamente aprobada, la aplicación al Presupuesto de Ingresos del Estado del montante de estas operaciones, se efectuará por la oficina de contabilidad correspondiente al órgano de la Administración General del Estado en donde se hubiese efectuado el cobro del importe de las mismas.
+
+Cuando el Servicio gestor de la Dirección General de Patrimonio del Estado tenga constancia del cobro al que se refiere el párrafo anterior, expedirá el documento que corresponda de los recogidos en la citada Instrucción de Contabilidad de la Cartera de Valores, según el tipo de operación de que se trate, que se remitirá a la oficina de contabilidad.
+
+5\. A partir de documentos específicos de Cartera de Valores, de los regulados en la citada Instrucción de Contabilidad de la Cartera de Valores, que se expidan de forma independiente, se registrarán en la contabilidad aquellas operaciones que no tengan incidencia presupuestaria y afecten a estos activos financieros.
+
+#### Regla 93. Concesión y reintegro de anticipos a funcionarios
+
+1\. La concesión por los distintos centros gestores del gasto de anticipos a sus funcionarios, requerirá la formación del oportuno expediente o nómina al que se unirá certificado de existencia de crédito obtenido por la oficina de contabilidad.
+
+2\. Una vez dictado el acuerdo de concesión de dichos anticipos, el Servicio gestor expedirá un documento ADOK que se remitirá a la oficina de contabilidad, junto con dicho acuerdo.
+
+3\. Para el reintegro de dichos anticipos se efectuará el oportuno descuento en la nómina de personal en activo, a la que se hace referencia en la sección 1.ª de este capítulo III, del mes en el que se deban reintegrar las citadas cantidades.
+
+#### Regla 94. Concesión y reintegro de otros préstamos.
+
+1\. Para la concesión de préstamos distintos a los regulados en la regla anterior por los Servicios gestores del gasto, se precisará la formación del respectivo expediente de gasto. Para ello, sin perjuicio de lo establecido en las Reglas 14.2 y 19.2 de esta norma, el Servicio gestor expedirá un documento RC de ejercicio corriente y, en su caso, un documento RC de ejercicios posteriores, que remitirá a la oficina de contabilidad, la cual registrará dichos documentos y obtendrá certificado de existencia de crédito en el Presupuesto corriente y certificado de cumplimiento de los límites establecidos en el artículo 47 de la LGP. Dichos certificados se remitirán al Servicio gestor para su incorporación al citado expediente.
+
+2\. Una vez aprobado el expediente de gasto, el Servicio gestor expedirá un documento A por el importe que de dicho expediente corresponda al presupuesto en curso y, en su caso, un documento A de ejercicios posteriores por la parte que deba ser desembolsada en ejercicios posteriores, que se remitirán a la oficina de contabilidad junto con dicho expediente para su registro contable.
+
+3\. Posteriormente, el Servicio gestor enviará a la oficina de contabilidad la resolución definitiva del préstamo, quien la dará de alta en el sistema de seguimiento de préstamos y comunicará el código identificativo al Servicio gestor. Dicho código deberá incorporarse en todos los documentos contables relativos a dicho préstamo, ya sean de ejecución del gasto, salvo en las fases "RC" y "A", como derivados de su amortización o cobro de intereses.
+
+4\. Cuando posteriormente se formalice el oportuno contrato de préstamo, el Servicio gestor expedirá y remitirá a la oficina de contabilidad un documento D por el importe que corresponda imputar al Presupuesto corriente y, en su caso, un documento D de ejercicios posteriores, por la parte que deba ser desembolsada en ejercicios posteriores, en los que deberá incorporar el código identificativo del préstamo que asignó el sistema de seguimiento de préstamos en el momento del alta.
+
+5\. Posteriormente y siempre antes de la expedición del documento OK, el Servicio gestor deberá enviar a la oficina de contabilidad el correspondiente contrato, el cuadro de amortización del préstamo y las condiciones y vencimientos de las liquidaciones de intereses del préstamo, así como la información de las garantías asociadas al préstamo, bien sean de tipo individual o global, a efectos de que dicha oficina incorpore dichos datos en el sistema de seguimiento de préstamos.
+
+6\. El Servicio gestor del préstamo deberá comunicar a la oficina de contabilidad cualquier modificación que se produzca respecto a la información enviada anteriormente, así como la información adicional que sea necesaria para la expedición de las liquidaciones por amortización o por intereses, debiendo indicar el correspondiente código identificativo del préstamo. En especial se comunicarán los documentos contables complementarios de los anteriores derivados de reajustes de los desembolsos, las modificaciones de los cuadros de amortización del préstamo y las cesiones de los contratos de préstamo a favor de otros terceros.
+
+La oficina de contabilidad registrará tanto en el sistema de seguimiento de préstamos como en el SIC las comunicaciones anteriores.
+
+7\. De acuerdo con las estipulaciones recogidas en el contrato de préstamo, el Servicio gestor expedirá y remitirá a la oficina de contabilidad un documento OK por el importe a entregar al prestatario en función de los desembolsos pactados, que será registrado en el SIC una vez dicha oficina verifique que ha recibido la documentación a que se hace mención en el punto 5 anterior. Dicho documento deberá incorporar el código identificativo del préstamo.
+
+Cuando se trate de un préstamo coordinador desembolsado a favor de un intermediario que distribuye posteriormente los fondos entre distintos perceptores, junto con el citado documento OK expedido a favor del intermediario, se tendrá que adjuntar información sobre los perceptores últimos del préstamo, los importes concedidos a cada uno de ellos y los correspondientes cuadros de amortización. A cada uno de los préstamos que se deriven del préstamo coordinador se le asignará un código identificativo que permita relacionarlos con el código identificativo del préstamo coordinador.
+
+8\. Cuando se vayan a producir los vencimientos de los préstamos, la oficina de contabilidad correspondiente al Servicio gestor concedente obtendrá del sistema de seguimiento de préstamos un fichero con los datos de dichos vencimientos, que deberá incorporar en el SIC. Con base en dicha información, las Delegaciones de Economía y Hacienda obtendrán del SIC los documentos de ingreso 069 que incorporarán el código identificativo del préstamo y que deberán remitir a los interesados. No obstante, si el interesado no hubiera recibido el documento 069 antes del vencimiento correspondiente del préstamo, según la información del préstamo concedido de la que dispone, deberá dirigirse a la Delegación de Economía y Hacienda correspondiente a su domicilio fiscal solicitando dicho documento 069 a efectos de poder efectuar el ingreso de los importes correspondientes.
+
+9\. Cuando el Servicio gestor concedente acuerde la cancelación anticipada de un préstamo, con carácter previo a la notificación de la resolución al interesado, deberá remitir el oportuno expediente a la oficina de contabilidad correspondiente a dicho Servicio, comunicando el código de préstamo a que se refiera dicha cancelación anticipada. Esta oficina anotará las cancelaciones anticipadas en el sistema de seguimiento de préstamos, obtendrá un fichero con los datos de éstas para su incorporación al SIC y expedirá los documentos de ingreso 069 aplicados a los conceptos correspondientes a las cancelaciones de los préstamos, que deberá remitir al Servicio gestor concedente junto con el citado expediente. Posteriormente, el Servicio gestor notificará al interesado la oportuna resolución, acompañando el documento de ingreso 069. El Servicio gestor deberá capturar en la base de datos habilitada al efecto por la Intervención General de la Administración del Estado para la expedición de los documentos 069, la fecha de notificación al interesado de dicha resolución.
+
+Cuando el interesado decida cancelar anticipadamente el préstamo, deberá informar de tal circunstancia al Servicio gestor concedente, quien remitirá la comunicación del interesado a la oficina de contabilidad correspondiente a dicho Servicio, indicando el código identificativo del préstamo a que se refiera dicha cancelación anticipada. La oficina de contabilidad expedirá un documento de ingreso 069 en el que constará el código identificativo del préstamo y lo remitirá al Servicio gestor concedente para su envío al interesado.
+
+10\. Desde el SIC se traspasará al sistema de seguimiento de préstamos toda la información relativa a los préstamos a efectos de que dicha aplicación esté permanentemente actualizada.
+
+11\. La oficina de contabilidad correspondiente al Servicio gestor obtendrá con periodicidad mensual información sobre los importes no ingresados a su vencimiento e informará al Servicio gestor al objeto de que se puedan ejecutar las garantías constituidas.
+
+12\. Con respecto a los préstamos regulados por su normativa específica, se deberá seguir en cada caso el procedimiento establecido en la correspondiente normativa.
+
+> Se modifican los apartados 8 y 9 por el art. 2.3 de la Orden HAC/360/2021, de 14 de abril. [Ref. BOE-A-2021-6124](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6124)
+
+> Se modifica por el art. 2.4 de la Orden HAP/336/2014, de 4 de marzo. [Ref. BOE-A-2014-2486](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2486).
+
+> Se modifican los apartados 4 y 5 por el art. 2.6 de la Orden EHA/3068/2011, de 8 de noviembre. [Ref. BOE-A-2011-17889](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17889).
+
+> Se modifican los apartados 3 a 6 por el punto 1.26 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+> Véase la disposición transitoria única de la citada Orden en cuanto a la modificación del apartado 4.
+
+### Sección 5.ª De las variaciones de pasivos financieros y de los gastos financieros
+
+#### Regla 95. Delimitación
+
+En esta sección se regula el procedimiento a seguir en la tramitación de las siguientes operaciones:
+
+a) Operaciones relativas a la Deuda del Estado.
+
+b) Diferencias de cambio negativas producidas al efectuar los pagos materiales en divisas de obligaciones contraidas por los órganos de la Administración General del Estado, excepto las derivadas de la Deuda del Estado.
+
+c) Intereses de demora.
+
+> Se suprime la letra c) y se reordena la letra d) como c) por el punto 1.27 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 96. Operaciones relativas a la Deuda del Estado
+
+A efectos de la descripción del procedimiento a seguir en la tramitación de las operaciones relativas a la Deuda, se pueden distinguir los siguientes tipos de operaciones:
+
+a) Creación de la Deuda.
+
+b) Amortización de la Deuda y vencimiento de rendimientos explícitos
+
+c) Conversión de la Deuda
+
+d) Letras del Tesoro, Papel comercial u otros títulos a corto plazo cuya normativa disponga su aplicación a Presupuesto por la variación neta producida durante el ejercicio.
+
+e) Regularizaciones a fin de ejercicio.
+
+f) Gastos de emisión, modificación y cancelación de deudas
+
+g) Prescripción y Rehabilitación de la Deuda
+
+#### Regla 97. Creación de Deuda del Estado
+
+1\. Cuando se produzca el ingreso del importe de una emisión de Deuda en la cuenta corriente del Tesoro Público en el Banco de España, el Servicio gestor de dicha deuda en la Dirección General del Tesoro y Política Financiera deberá expedir un documento de "Creación de Deuda del Estado en moneda nacional" o un documento de "Creación de Deuda del Estado en moneda extranjera", según el tipo de moneda en la que esté formalizada la Deuda, que se remitirá a la oficina de contabilidad en el citado Centro.
+
+Con base en el documento específico de la Deuda a que se refiere el párrafo anterior y en el mandamiento de ingreso en el Banco de España la oficina de contabilidad procederá a aplicar al concepto del Presupuesto de ingresos que corresponda por el valor de emisión y a registrar la Deuda por su valor de reembolso. Cuando el valor de reembolso sea mayor que el valor de emisión, la diferencia se registrará como gastos financieros diferidos, mientras que en el caso inverso se contabilizará como ingresos financieros diferidos.
+
+2\. Cuando entre en vigor la norma que establezca la asunción de una Deuda, se deberá expedir por el Servicio gestor el documento de Creación de Deuda que corresponda de los indicados en el punto anterior, según sea en moneda nacional o moneda extranjera, que se remitirá a la oficina de contabilidad, la cual registrará la Deuda por su valor de reembolso y los gastos financieros diferidos o los ingresos financieros diferidos que, en su caso, correspondan.
+
+3\. Tanto en el caso de emisión como de asunción de deudas, al mismo tiempo que se expidan por el Servicio gestor los documentos específicos del subsistema de Deuda, se deberán expedir y remitir a la oficina de contabilidad, acompañados de los correspondientes justificantes, los siguientes documentos:
+
+a) Documentos AD de ejercicio corriente por el importe de los compromisos que se adquieren en el momento de la emisión de la Deuda por el reembolso de capitales y por el vencimiento de rendimientos explícitos en el ejercicio corriente.
+
+b) Documentos AD de ejercicios posteriores por los importes de los compromisos que se adquieren, en su caso, en el momento de la emisión de la Deuda por el reembolso de capitales y por el vencimiento de rendimientos explícitos en ejercicios futuros.
+
+Si no existiera suficiente crédito disponible, los documentos anteriores se expedirán y remitirán una vez aprobada la correspondiente ampliación de crédito.
+
+4\. En la creación de Deuda del Estado en moneda extranjera se deberá aplicar el tipo de cambio vigente a la fecha de desembolso de los capitales en la cuenta corriente del Tesoro Público en el Banco de España, en el caso de emisión, o a la fecha de la entrada en vigor de la norma o el acuerdo, en el caso de asunción, a efectos del cálculo de los importes a figurar en los documentos contables de los puntos anteriores de esta regla.
+
+En la creación de Deuda que tenga rendimientos explícitos a tipo de interés variable se considerará el tipo vigente en la fecha de desembolso de capitales, en el caso de emisión, o en la fecha de la entrada en vigor de la norma que la establezca, en el caso de asunción, a los efectos del cálculo de los importes a figurar en los documentos del punto 3 de esta regla.
+
+> Redactado el párrafo primero del apartado 1 y el apartado 3 conforme a la corrección de errores publicada en BOE núm. 57, de 6 de marzo de 1996. [Ref. BOE-A-1996-5203](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-5203)
+
+#### Regla 98. Amortización de la Deuda del Estado y vencimiento de los rendimientos explícitos
+
+1\. Al vencimiento de los rendimientos explícitos de las deudas y en el momento de la amortización de las mismas, el Servicio gestor expedirá los documentos que se indican en los puntos siguientes.
+
+La remisión de dichos documentos a la oficina de contabilidad deberá hacerse con la antelación necesaria para que, considerando los trámites por los que deben pasar los mismos, pueda realizarse el pago en la fecha prevista.
+
+2\. En el caso de deudas en moneda nacional para las que exista crédito disponible, el Servicio gestor deberá expedir los documentos que se indican a continuación:
+
+a) Cuando se trate de deudas que estén representadas mediante anotaciones en cuenta y de deudas formalizadas en préstamos de entidades bancarias, se expedirá un documento OK, una relación de pagos contra la cuenta del Servicio Financiero de la Deuda en el Banco de España, y el documento específico del subsistema de Deuda que en caso de vencimiento de rendimientos explícitos será «Intereses de Deuda del Estado en moneda nacional» y en caso de amortización de deudas será «Amortización y/o reembolso de Deuda del Estado en moneda nacional».
+
+Al documento OK se deberá acompañar el correspondiente justificante. Dicho justificante será para las deudas anotadas la certificación y la factura de la Central de Anotaciones del Banco de España o del Servicio de Compensación y Liquidación de Valores, según donde estén anotadas; para los préstamos de entidades bancarias emitidos por subasta fotocopia del libro registro de titulares de préstamos, y para los préstamos asumidos la norma que establezca la asunción. Si los préstamos son a tipo variable se adjuntará también fotocopia de la publicación del tipo de referencia.
+
+b) Cuando se trate de deudas que no estén representadas mediante anotaciones en cuenta, se expedirá un documento O para reconocer la obligación por el importe del vencimiento, acompañado del documento específico del subsistema de Deuda que corresponda de los indicados en la letra a) anterior, según sea vencimiento de rendimientos explícitos o amortización de deudas.
+
+Con base en el Resumen mecanizado obtenido a partir de las facturas presentadas, se expedirá un documento K acompañado de la relación de pagos a efectuar con cargo a la cuenta del Servicio Financiero de la Deuda en el Banco de España.
+
+c) Cuando se trate de préstamos singulares del Banco de España al Tesoro Público, se expedirá un OK a favor del Banco de España acompañado del documento específico del subsistema de Deuda «Amortización y/o reembolso de Deuda del Estado en moneda nacional».
+
+d) Cuando se trate de Deuda Perpetua Exterior en pesetas se expedirá un documento O para reconocer la obligación por el importe total del vencimiento, acompañado del documento específico del subsistema de Deuda correspondiente de los indicados en la letra a) anterior.
+
+Una vez que el Banco de España rinda la cuenta de los pagos realizados con cargo a la cuenta del Servicio Financiero de la Deuda se procederá a expedir un documento K por el importe de la misma.
+
+e) Cuando el Banco de España compre Deuda del Estado en el mercado secundario por cuenta del Tesoro Público, una vez aprobada la cuenta rendida por dicho banco se expedirá un documento OK que se acompañará del documento específico del subsistema de Deuda «Amortización y/o reembolso de Deuda del Estado en moneda nacional».
+
+3\. En el caso de deudas en moneda extranjera para las que exista crédito disponible se deberá expedir, con una antelación mínima de quince días respecto a la fecha de vencimiento de la operación, un documento O y los documentos específicos del subsistema de Deuda: «Intereses de Deuda del Estado en moneda extranjera», para el vencimiento de rendimientos explícitos, «Amortización y/o reembolso de Deuda del Estado en moneda extranjera», para la amortización de deudas, y «Regularización de Deuda del Estado en moneda extranjera», en su caso, para actualizar su valor al tipo de cambio vigente.
+
+Una vez contabilizado el documento O, se remitirá, acompañado del expediente de reconocimiento de la obligación, al Servicio de Pagos en el Exterior de la Dirección General del Tesoro y Política Financiera para que se tramite ante el Banco de España el pago de las divisas.
+
+Con base en el justificante remitido por el Banco de España del pago realizado en divisas, se expedirá un documento K por el contravalor en pesetas de las divisas pagadas y un documento O, positivo o negativo, por la diferencia entre el importe de la propuesta de pago y el importe de la obligación reconocida. Dichos documentos junto con el citado justificante se remitirán al mismo tiempo que los documentos específicos de deuda complementarios de los remitidos anteriormente.
+
+4\. En el caso de amortización de deudas de las indicadas en los puntos 2 y 3 anteriores que incorporen gastos o ingresos financieros diferidos, se deberá expedir el documento específico del subsistema de Deuda: «Regularización de gastos e ingresos financieros diferidos» por los imputables a resultados desde la fecha de cierre del ejercicio anterior hasta la fecha de amortización de la Deuda.
+
+5\. Cuando en cualesquiera de los casos contemplados en los puntos anteriores el importe de la obligación a reconocer no coincida con el compromiso contabilizado previamente, el Servicio gestor acompañará, junto con el documento por el que incorpore el reconocimiento de la obligación, un documento AD, positivo o negativo, por el importe de la diferencia entre la obligación reconocida y el compromiso adquirido.
+
+6\. Cuando para la imputación en el ejercicio corriente de compromisos de gasto no exista suficiente crédito disponible, se deberá solicitar la correspondiente ampliación de crédito.
+
+Si a la fecha de vencimiento de la operación no estuviera aprobada la ampliación de crédito solicitada, se expedirán todos los documentos previstos en los puntos anteriores excepto los documentos presupuestarios.
+
+Una vez concedida la citada ampliación de crédito, se procederá a formular los documentos presupuestarios indicados en los puntos anteriores para dicha operación.
+
+> Redactado el párrafo tercero del apartado 3 conforme a la corrección de errores publicada en BOE núm. 57, de 6 de marzo de 1996. [Ref. BOE-A-1996-5203](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-5203)
+
+#### Regla 99. Conversión de la Deuda
+
+1\. La conversión de deudas consiste en una renovación de las condiciones de emisión que se efectúa mediante la sustitución de los títulos inicialmente emitidos por otros títulos de características y condiciones diferentes.
+
+2\. Para el registro de la amortización por conversión de una Deuda del Estado se deberá expedir un documento «Amortización y/o reembolso de Deuda del Estado en moneda nacional» o un documento «Amortización y/o reembolso de Deuda del Estado en moneda extranjera», mientras que para el registro de la nueva deuda que se emite se deberá formular un documento «Creación de Deuda del Estado en moneda nacional» o un documento «Creación de Deuda del Estado en moneda extranjera».
+
+En el caso de Deuda del Estado formalizada en moneda extranjera se aplicará para ambas operaciones el tipo de cambio vigente en el día de la conversión, expidiendo también el documento de «Regularización de Deuda del Estado en moneda extranjera».
+
+3\. Cuando el precio de los títulos de la Deuda amortizada fuese superior al de los títulos de la Deuda emitida, surgirán diferencias negativas a pagar por el Estado. Para ello, se expedirán un documento O y otro de «Diferencias en conversión de Deuda del Estado», que se remitirán a la oficina de contabilidad.
+
+Una vez que se presenten los títulos para su cancelación material, se expedirá y registrará el documento K a fin de proceder a abonar las diferencias negativas indicadas en el párrafo anterior a sus beneficiarios.
+
+4\. Cuando el precio de los títulos de la Deuda amortizada fuese inferior al de los títulos de la Deuda emitida, surgirán diferencias positivas a cobrar por el Estado, que se aplicarán al concepto que corresponda del Presupuesto de Ingresos del Estado.
+
+Para ello, una vez que se hayan ingresado dichas diferencias positivas en la cuenta corriente del Tesoro Público en el Banco de España, se expedirá un documento de «Diferencias en conversión de Deuda del Estado», el cual, junto con el mandamiento de ingreso en Banco de España, se remitirá a la oficina de contabilidad que procederá a contabilizar la operación.
+
+5\. Por los títulos presentados a la conversión se deberá expedir documentos AD negativos de ejercicio corriente y de ejercicios porteriores para anular los compromisos contabilizados de la Deuda convertida y, simultáneamente, expedir documentos AD positivos de ejercicio corriente y ejercicios porteriores para reconocer los compromisos que surgen por la Deuda emitida para convertir.
+
+#### Regla 100. Letras del Tesoro, Papel comercial u otras deudas a corto plazo cuya normativa disponga su aplicación a Presupuesto por la variación neta producida durante el ejercicio
+
+1\. Cuando se produzca el ingreso del importe de una emisión de este tipo de deudas en la cuenta corriente del Tesoro Público en el Banco de España, el Servicio gestor deberá expedir un documento de «Creación de Deuda del Estado en moneda nacional» o un documento de «Creación de Deuda del Estado en moneda extranjera», según el tipo de moneda en la que esté formalizada la Deuda, que se remitirá a la oficina de contabilidad.
+
+Con base en el documento específico de la Deuda a que se refiere el párrafo anterior y en el mandamiento de ingreso en el Banco de España la oficina de contabilidad aplicará el importe del valor de emisión al concepto no presupuestario que corresponda. Los rendimientos implícitos de cada Deuda se imputarán a resultados del ejercicio.
+
+2\. Al mismo tiempo que se expida por el Servicio gestor el documento específico del subsistema de Deuda, se deberán expedir y remitir a la oficina de contabilidad, acompañados de los correspondientes justificantes:
+
+Documentos AD de ejercicio corriente por el importe de los compromisos que se adquieren en el momento de la emisión de la Deuda por el vencimiento de rendimientos implícitos en el ejercicio corriente.
+
+Documentos AD de ejercicios posteriores por los importes de los compromisos que se adquieren, en su caso, en el momento de la emisión de la Deuda por el vencimiento de rendimientos implícitos en ejercicios futuros.
+
+3\. A la amortización de las deudas emitidas en moneda nacional se deberán expedir por el Servicio gestor de las mismas y remitir a la oficina de contabilidad, con la antelación suficiente para que, considerando los trámites por los que deben pasar, pueda realizarse el pago en la fecha prevista, los documentos que se indican a continuación: propuesta de mandamiento de pago no presupuestario por el valor de emisión de la Deuda que se amortiza, documento OK por el importe de los intereses implícitos, a los que se unirá como justificante copia autorizada del Acta de Resolución de la subasta y propuesta de reembolso, y el documento específico del subsistema de Deuda «Amortización y/o reembolso de Deuda del Estado en moneda nacional».
+
+4\. En el caso de amortización de deudas en moneda extranjera se expedirá documento O por el importe de los intereses implícitos acompañado del expediente de reconocimiento de la obligación.
+
+Una vez contabilizado se remitirá al Servicio de Pagos en el Exterior para que se tramite ante el Banco de España el pago de las divisas.
+
+Con base en los justificantes remitidos por el Banco de España de los pagos realizados en divisas, se expedirá una propuesta de mandamiento de pago no presupuestario por el valor de emisión de la Deuda amortizada, un documento K por el importe de los intereses implícitos, un documento OK por las diferencias negativas de cambio atribuibles al valor efectivo y un documento OK por las diferencias negativas de cambio atribuibles a los intereses implícitos. En caso de diferencias positivas de cambio la imputación presupuestaria de las mismas se realizará incluyendo como descuento en la propuesta de mandamiento de pago no presupuestario y en el documento K de los intereses implícitos el concepto del Presupuesto de Ingresos al cual deban imputarse.
+
+En operaciones simultáneas de emisión y amortización la expedición de los documentos se realizará cuando se reciban los justificantes de la operación y el ingreso de la diferencia en la cuenta del Banco de España. El documento específico del subsistema de Deuda será en este caso «Papel comercial. Emisiones y Amortizaciones».
+
+En todo caso se deberán expedir los documentos específicos del subsistema de Deuda «Amortización y/o reembolso de Deuda del Estado en moneda extranjera», y «Regularización de Deuda del Estado en moneda extranjera».
+
+5\. Tanto en caso de amortización de deudas emitidas en moneda nacional como de deudas emitidas en moneda extranjera, se expedirá el documento específico de Deuda «Periodificación e imputación de rendimientos implícitos de Letras del Tesoro y otros títulos a corto plazo» para imputar a resultados del ejercicio la parte de los rendimientos implícitos periodificados a fin del ejercicio anterior que se ha devengado desde esa fecha hasta la fecha de amortización.
+
+6\. Será de aplicación a este tipo de deudas lo establecido en los puntos 5 y 6 de la regla 98.
+
+7\. A fin de ejercicio se deberá proceder a la imputación al Presupuesto del Estado de la variación neta resultante de las emisiones y amortizaciones de este tipo de deudas efectuadas a lo largo de todo el ejercicio. A tal fin se expedirá el documento específico del subsistema de Deuda «Regularización de Letras del Tesoro y otros títulos a corto plazo», que contendrá los datos relativos a las emisiones y amortizaciones efectuadas durante el ejercicio, acompañado de los documentos presupuestarios que, en función de las situaciones que pueden presentarse, se especifican a continuación:
+
+a) Si el importe de los valores de emisión de las deudas emitidas en el ejercicio coincide con el importe de los valores de emisión de las deudas amortizadas en el ejercicio, no procederá expedir más documentos.
+
+b) Si el importe de los valores de emisión de las deudas emitidas en el ejercicio es superior al importe de los valores de emisión de las deudas amortizadas en el ejercicio, se expedirá, por la diferencia entre ambos valores, una propuesta de mandamiento de pago en formalización aplicado al concepto no presupuestario en el que han sido registradas durante el ejercicio las emisiones y las amortizaciones y con descuento en el concepto del Presupuesto de Ingresos del Estado que corresponda.
+
+c) Si el importe de los valores de emisión de las deudas emitidas en el ejercicio es inferior al importe de los valores de emisión de las deudas amortizadas en el ejercicio, se expedirá, por la diferencia entre ambos valores, un documento ADOK en formalización aplicado al concepto del Presupuesto de Gastos del Estado que corresponda y con descuento en el concepto no presupuestario en el que han sido registradas durante el ejercicio las emisiones y las amortizaciones.
+
+> Redactado el párrafo primero del apartado 1 conforme a la corrección de errores publicada en BOE núm. 57, de 6 de marzo de 1996. [Ref. BOE-A-1996-5203](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-5203)
+
+#### Regla 101. Regularizaciones a fin de ejercicio
+
+En relación con la Deuda del Estado y con los avales y otras garantías concedidas, se deberán efectuar las siguientes operaciones a fin de ejercicio, que no afectarán al Presupuesto del Estado:
+
+a) La imputación a resultados del ejercicio de los rendimientos explícitos devengados y no vencidos y de la diferencia devengada entre el valor de reembolso al vencimiento y el valor inicial de la deuda, en los términos previstos en el PGCP.
+
+b) El registro por su valor razonable de los instrumentos financieros que según el PGCP deban valorarse con ese criterio.
+
+c) La reclasificación contable de aquellas deudas registradas en rúbricas a largo plazo a rúbricas a corto plazo, por la parte de las mismas que venza en el ejercicio siguiente.
+
+d) En el caso de deudas en moneda extranjera, el registro de los correspondientes pasivos según el tipo de cambio vigente a fin de ejercicio.
+
+e) El registro de la provisión que proceda dotar por avales y otras garantías concedidas.
+
+El registro de las operaciones de los apartados b) y e) anteriores se realizará con base en la información que a tal efecto remitirá la Dirección General del Tesoro y Política Financiera a la Intervención Delegada en dicho Centro Directivo. El registro de las restantes operaciones se realizará con base en los correspondientes documentos contables de la Deuda del Estado que a tal efecto expedirá el Servicio gestor.
+
+> Se modifica por el art. 2.7 de la Orden EHA/3068/2011, de 8 de noviembre. [Ref. BOE-A-2011-17889](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17889).
+
+#### Regla 102. Gastos de emisión, modificación y cancelación de deudas
+
+1\. Cuando se trate de gastos que requieran la formalización de contratos, se seguirá el procedimiento establecido en las reglas 77 y 78.
+
+2\. Cuando no se requiera la formalización de contratos, así como para los gastos periódicos que generen los préstamos asumidos, se seguirá el procedimiento establecido en la regla 98.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 57, de 6 de marzo de 1996. [Ref. BOE-A-1996-5203](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-5203)
+
+#### Regla 103. Prescripción y Rehabilitación de la Deuda
+
+1\. Cuando se cumplan los plazos de prescripción establecidos en la normativa aplicable, a iniciativa de la oficina de contabilidad, el Servicio gestor competente de la deuda prescrita autorizará el documento específico del subsistema de deuda «Prescripción de Deuda del Estado» y otro documento de prescripción de obligaciones, que se remitirán a la oficina de contabilidad.
+
+2\. Cuando se produzca algún acuerdo que suponga la rehabilitación de obligaciones, correspondientes a Deudas del Estado, que se hubiesen anulado con anterioridad, el Servicio gestor competente expedirá el documento específico del subsistema de deuda «Rehabilitación de Deuda Pública» y un documento ADOK, que se remitirán a la oficina de contabilidad, acompañado del Resumen mecanizado y de la relación de pagos a efectuar con cargo a la cuenta del Servicio Financiero de la Deuda en el Banco de España.
+
+#### Regla 104. Tramitación de las diferencias de cambio negativas producidas al efectuar los pagos materiales en divisas de obligaciones contraidas por los órganos de la Administración General del Estado, excepto las derivadas de Deuda del Estado
+
+1\. De acuerdo con lo establecido en el apartado cuarto de la Orden Ministerial de 6 de febrero de 1995, sobre ordenación del pago y pago material en divisas, cuando se generen diferencias negativas de cambio como consecuencia de la ejecución de los pagos en divisas relativos a las correspondientes propuestas de pago transmitidas desde los diferentes centros gestores del gasto, las mismas deberán ser aplicadas a los créditos aprobados para estos fines en el Presupuesto de Gastos de la Dirección General del Tesoro y Política Financiera.
+
+2\. Una vez recibida del Banco de España la información sobre los pagos efectuados en divisas, si se han originado diferencias negativas de cambio, por dicha Dirección General se expedirán los documentos OK o, en su caso, ADOK si no se ha formulado con anterioridad documentos AD, por el importe de dichas diferencias aplicados a los conceptos previstos en el capítulo 3 del Presupuesto de Gastos para esta finalidad.
+
+Dichos documentos se remitirán a la oficina de contabilidad del Ministerio de Economía y Hacienda (Area de Economía).
+
+#### Regla 105. Tramitación de los intereses de depósitos recibidos por la Administración General del Estado
+
+**(Suprimido)**
+
+> Se suprime por el punto 1.28 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789)
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+#### Regla 106. Tramitación de los intereses de demora
+
+1\. De acuerdo con la normativa vigente, si la Administración no pagara al acreedor de la Hacienda Pública dentro de los plazos estipulados, habrá de abonarle el correspondiente interés de demora calculado sobre la cantidad debida.
+
+2\. Para ello, el Servicio gestor formará el oportuno expediente al que se unirá certificado de existencia de crédito obtenido por la oficina de contabilidad.
+
+3\. Una vez aprobado el expediente, se expedirá un documento ADOK que se remitirá a la oficina de contabilidad, junto con el citado expediente.
+
+4\. Los intereses de demora de la Deuda del Estado se tramitarán conforme al procedimiento establecido en la regla 98.
+
+## ANEXO II — ESTADO DE SITUACIÓN DE TESORERÍA
+
+![6888.png](https://www.boe.es/datos/imagenes/disp/1996/34/02627_6888.png)

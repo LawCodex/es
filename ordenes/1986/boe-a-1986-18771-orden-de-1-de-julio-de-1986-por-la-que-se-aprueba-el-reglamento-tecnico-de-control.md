@@ -1,0 +1,253 @@
+---
+title: "Orden de 1 de julio de 1986 por la que se aprueba el Reglamento Técnico de Control y Certificación de Plantas de Vivero de Vid"
+identifier: "BOE-A-1986-18771"
+eli: "https://www.boe.es/eli/es/o/1986/07/01/(4)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1986-07-01
+published: 1986-07-15
+in_force_from: 1986-07-16
+last_amended: 2020-05-27
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 168"
+status: repealed
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-18771"
+retrieved: 2026-10-11
+---
+
+# Orden de 1 de julio de 1986 por la que se aprueba el Reglamento Técnico de Control y Certificación de Plantas de Vivero de Vid
+
+Téngase en cuenta que esta norma queda derogada, salvo el epígrafe VII que continúa en vigor, por las siguientes normas:
+
+\- salvo los epígrafes VII y VIII, con efectos de 26 de febrero de 2003, por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+\- y se deroga el epígrafe VIII, con efectos de 31 de mayo de 2020, por la disposición derogatoria única del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321).
+
+Ilustrísimo señor:
+
+La necesidad de adaptar la legislación específica relativa al control y certificación de plantas de vivero de vid a las Directivas del Consejo de la CEE 68/193 y 74/649, obliga a una modificación de la normativa vigente.
+
+Por ello, este Ministerio, a propuesta de la Dirección General de la Producción Agraria, ha tenido a bien disponer:
+
+### Primero.
+
+En orden al desarrollo de las Directivas del Consejo de la CEE 68/193 y 74/649 se aprueba el Reglamento Técnico de Control y Certificación de Plantas de Vivero de Vid que figura como anejo único a la presente Orden.
+
+### Segundo.
+
+Queda derogado el Reglamento Técnico de Control y Certificación de Plantas de Vivero de Vid aprobado por Orden de 18 de julio de 1982.
+
+### Tercero.
+
+La presente Orden entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Lo que comunico a V. I. para su conocimiento y efectos.
+
+Madrid, 1 de julio de 1986.
+
+ROMERO HERRERA
+
+Ilmo. Sr. Director general de la Producción Agraria.
+
+## ANEJO ÚNICO — Reglamento Técnico de Control y Certificación de Plantas de Vivero de Vid
+
+## I. Especies sujetas al Reglamento Técnico
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+## II. Definiciones y categorías de plantas de vivero
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+> Se modifica el punto II.2 por el art. único.1 de la Orden de 24 de junio de 1991. [Ref. BOE-A-1991-17148](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-17148)
+
+## III. Variedades comerciales admisibles a la certificación
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+## IV. Producción de plantas de vivero
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+> Se modifican los puntos IV.b) y IV.d) por el art. único.2 a 5 de la Orden de 24 de junio de 1991. [Ref. BOE-A-1991-17148](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-17148)
+
+## V. Precintado de plantas de vivero
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+## VI. Ensayos de poscontrol
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+## VII. Requisitos para ser productor
+
+1\. Categorías de productores.
+
+Se admiten las categorías de:
+
+– Productores obtentores.
+
+– Productores seleccionadores.
+
+– Productores multiplicadores.
+
+2\. Condiciones exigidas.
+
+Además de las condiciones que con carácter general se especifican en el Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, los productores de plantas de vivero deberán cumplir los siguientes requisitos:
+
+a) Productores seleccionadores.
+
+a.1. Trabajos de selección.
+
+Cada productor, por sí o agrupado, deberá iniciar, en la primera campaña a partir de la concesión del título, los trabajos necesarios para la selección de variedades tanto de patrones como viníferas, de acuerdo con el plan de selección presentado y aprobado junto con la solicitud del título y de cuyo desarrollo presentará informe anual.
+
+a.2. Técnicos superiores.
+
+Deberán disponer, al menos, de un Ingeniero agrónomo especializado en la producción de plantas de vivero.
+
+a.3. Campos propios o en cultivo directo.
+
+Disponer de la superficie necesaria, ya sea en propiedad o arrendada, que, a juicio del Instituto, garantice la continuidad de los procesos de producción. Para el cálculo de dicha superficie se tendrá en cuenta que la producción de plantas de vivero de base y certificadas debe realizarse directamente por los productores, quedando prohibido todo tipo de contrato de producción con terceros.
+
+a.4. Instalaciones y maquinaria.
+
+– Cámaras acondicionadas para la conservación y estratificación de estaquillas, estacas e injertos.
+
+– Invernaderos y umbráculos para la multiplicación del material vegetal.
+
+– Maquinaria para tratamientos fitosanitarios.
+
+– Laboratorios dotados de medios para detección y análisis de plagas y enfermedades.
+
+– Almacén para la preparación y conservación de plantas de vivero.
+
+– Oficinas adecuadas a su movimiento comercial.
+
+b) Productores multiplicadores.
+
+Se incluyen en esta categoría a los viveristas que van a producir, plantas de vivero estándar o pretenden producir certificadas adquiriendo los patrones e injertos de base para establecer sus campos de cepas madres a un productor seleccionador. Los requisitos que deberán cumplir son los siguientes:
+
+b.1. Técnicos.
+
+Deberán disponer, al menos, de un técnico especializado en plantas de vivero.
+
+b.2. Instalaciones y maquinaria.
+
+– Maquinaria para tratamientos fitosanitarios.
+
+– Almacén e instalaciones para la preparación y conservación de plantas de vivero.
+
+– Oficinas administrativas.
+
+3\. Solicitud del título.
+
+De acuerdo con el Reglamento General Técnico, la producción de plantas de vivero de vid es una actividad agrícola que corresponde a aquellas personas físicas o jurídicas que satisfagan los requisitos establecidos en este Reglamento y que en su virtud obtengan el correspondiente título de Productor de Plantas de Viveros de Vid.
+
+El título deberán solicitarlo al Ministerio de Agricultura, Pesca y Alimentación, a través de la Subdirección General del Instituto Nacional de Semillas y Plantas de Vivero, salvo en los casos en que la competencia de concesión de títulos haya sido asumida por las Comunidades Autónomas.
+
+a) Actuales productores.
+
+Los actuales productores de plantas de vivero inscritos en el Registro Provisional que al solicitar el título reúnan todas las condiciones señaladas en este Reglamento, se les concederá el título correspondiente con carácter definitivo.
+
+En el caso de que las instalaciones, campos de cepas madres actuales y demás condiciones que se exigen en este Reglamento no se cumplan en el momento de la solicitud será imprescindible acompañar proyecto de modificación o ampliación y compromiso de realización del mismo en el plazo máximo de dos años. Mientras tanto, su autorización conservará el carácter de provisional. Análogamente no podrán acceder al título de productor de plantas de vivero los que no cumplan con los requisitos de las normas sobre viveros de vid actualmente en vigor, y en especial los que se hallen expedientados, mientras no arranquen los campos de cepas madres motivo del expediente.
+
+b) Nuevos productores:
+
+Los nuevos productores que deseen acceder al título de Productor Multiplicador, además de reunir los requisitos exigidos para esta categoría en el presente Reglamento, deberán cumplir las siguientes condiciones.
+
+1\. Poseer instalaciones y cámaras acondicionadas para la producción y estratificación de planta-injerto, con una capacidad de, al menos, 200.000 unidades.
+
+2\. Llevar en explotación directa una superficie mínima de campos de pies madres de 5 hectáreas.
+
+En el caso de producción exclusiva de injertos (púas y yemas) se podrá autorizar que la superficie de campos de pies madres, anteriormente citada, sea de 0,5 hectáreas, quedando en este caso autorizado solamente a dicha producción de injertos (púas y yemas).
+
+> Se modifican los puntos VII.2 y VII.3 por el art. único.6 a 12 de la Orden de 24 de junio de 1991. [Ref. BOE-A-1991-17148](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-17148)
+
+> Redactado conforme a la Orden de 14 de enero de 1992 por la que se corrige error en la Orden de 24 de junio de 1991. [Ref. BOE-A-1992-1640](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-1640)
+
+## VIII. Comercialización de plantas de vivero
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+## IX. Importaciones de plantas de vivero
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+## X. Infracciones y sanciones
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+## XI. Disposición adicional
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+## XII. Disposiciones transitorias
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+## ANEJO 1 — Indexages oficiales
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+## ANEJO 2 — Plagas y enfermedades
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+## ANEJO 3
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+> Se modifica por el art. único.13 de la Orden de 24 de junio de 1991. [Ref. BOE-A-1991-17148](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-17148)
+
+## ANEJO 4 — Composición de los embalajes o haces
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+> Se modifica por el art. único.14 de la Orden de 24 de junio de 1991. [Ref. BOE-A-1991-17148](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-17148)
+
+## ANEJO 5 — Etiqueta
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)
+
+> Se modifica el punto A.b) por el art. único.15 de la Orden de 24 de junio de 1991. [Ref. BOE-A-1991-17148](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-17148)
+
+## ANEJO 6 — Modela de guía sanitaria albarán
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 208/2003, de 21 de febrero. [Ref. BOE-A-2003-3835](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-3835)

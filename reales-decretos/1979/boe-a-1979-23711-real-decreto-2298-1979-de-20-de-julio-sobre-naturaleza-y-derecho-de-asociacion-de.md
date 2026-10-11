@@ -1,0 +1,58 @@
+---
+title: "Real Decreto 2298/1979, de 20 de julio, sobre naturaleza y derecho de asociación de los funcionarios de Instituciones Penitenciarias"
+identifier: "BOE-A-1979-23711"
+eli: "https://www.boe.es/eli/es/rd/1979/07/20/2298"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1979-07-20
+published: 1979-10-05
+in_force_from: 1979-10-25
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 239"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1979-23711"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2298/1979, de 20 de julio, sobre naturaleza y derecho de asociación de los funcionarios de Instituciones Penitenciarias
+
+Los Reales Decretos mil ochocientos treinta y nueve/mil novecientos setenta y seis, de dieciséis de julio, y mil quinientos veintidós/mil novecientos setenta y siete, de diecisiete de junio sobre el derecho de asociación profesional y sindical de los funcionarios públicos excluyeron de su ámbito de vigencia a los funcionarios de Instituciones Penitenciarias por su carácter de personal armado.
+
+La finalidad esencialmente reeducadora y pedagógica que las más modernas disposiciones atribuyen a la misión de los mencionados funcionarios, en armonía con la naturaleza preventiva de la pena de privación de libertad, resulta incompatible con el uso de armas y aconseja, de acuerdo con la experiencia que solamente las Fuerzas del Orden Público puedan utilizar medios tan expeditivos en el interior de los establecimientos penitenciarios, en casos de extrema necesidad.
+
+En consecuencia, al negar a los funcionarios de Instituciones Penitenciarias su carácter de personal armado, nada impide que puedan ejercitar el derecho de asociación sindical que corresponde a todos los funcionarios públicos para la constitución de asociaciones apolíticas en defensa de sus intereses profesionales, de acuerdo con las normas generales establecidas en el Real Decreto mil quinientos veintidós/mil novecientos setenta y siete, de diecisiete de junio, sin necesidad de dictar una disposición especial a tal efecto.
+
+En su virtud, de conformidad con el Consejo de Estado, a propuesta del Ministro de Justicia y previa deliberación del Consejo de Ministros en su reunión del día veinte de julio de mil novecientos setenta y nueve,
+
+DISPONGO:
+
+## Artículo primero.
+
+Los funcionarios pertenecientes a los distintos Cuerpos al servicio de la Administración Penitenciaria tendrán a todos los efectos el carácter de funcionarios civiles del Estado, no siendo considerados como personal armado.
+
+## Artículo segundo.
+
+EI artículo cuatrocientos cincuenta y tres del vigente Reglamento de los Servicios de Instituciones Penitenciarias, aprobado por Decreto de dos de febrero de mil novecientos cincuenta y seis, quedará redactado de la siguiente manera: «Los funcionarios penitenciarios se someterán a un entrenamiento físico especial que les permita dominar a los reclusos violentos sin necesidad de usar armas. En caso de alteración grave del orden en el interior de los establecimientos, el Director podrá ordenar a los funcionarios que hagan uso de las defensas de goma, esposas, ‟sprays” lacrimógenos, u otros medios análogos para el restablecimiento de aquél».
+
+## Artículo tercero.
+
+Se reconoce a los funcionarios al servicio de la Administración penitenciaria el derecho de asociación profesional, que podrán eiercitar del modo regulado en el Real Decreto mil quinientos veintidós/mil novecientos setenta y siete, de diecisiete de junio, entendiéndose derogado en relación a aquéllos lo establecido en el artículo tercero de la citada disposición.
+
+## Artículo cuarto.
+
+Ningún funcionario penitenciario podrá ser objeto de discriminación alguna en sus relaciones con la Administración pública: por el hecho de pertenecer o no pertenecer a una asociación profesional.
+
+## Disposición final.
+
+La Dirección General de Instituciones Penitenciarias procederá a la recogida del armamento que tuvieren confiado los funcionarios de los Cuerpos de Instituciones Penitenciarias, dando al mismo el destino prevenido en las disposiciones vigentes.
+
+Dado en Madrid a veinte de julio de mil novecientos setenta y nueve.
+
+JUAN CARLOS R.
+
+El Ministro de Justicia,
+
+ÍÑIGO CAVERO LATAILLADE

@@ -1,0 +1,85 @@
+---
+title: "Decreto 469/1972, de 24 de febrero, sobre simplificación de trámites para expedición de la Cédula de Habitabilidad"
+identifier: "BOE-A-1972-351"
+eli: "https://www.boe.es/eli/es/d/1972/02/24/469"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Vivienda"
+date: 1972-02-24
+published: 1972-03-06
+in_force_from: 1972-03-26
+last_amended: 1985-02-07
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 56"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1972-351"
+retrieved: 2026-10-11
+---
+
+# Decreto 469/1972, de 24 de febrero, sobre simplificación de trámites para expedición de la Cédula de Habitabilidad
+
+El Decreto de veintitrés de noviembre de mil novecientos cuarenta confirió a la Fiscalía de la Vivienda la función de velar por las condiciones de salubridad e higiene de la morada humana. A tal efecto se le atribuyó por la propia disposición, entre obras competencias, la de conceder o denegar la autorización para ocuparlas, mediante el otorgamiento de la encalla de habitabilidad. De este trámite se hallan exentas las primeras habitaciones de las viviendas acogidas al régimen de Viviendas de Protección Oficial, en virtud de lo establecido por el artículo ciento tres del vigente Reglamento de veinticuatro de julio de mil novecientos sesenta y ocho.
+
+La experiencia en el ejercicio de tales funciones y alojamientos de carácter residencial aconsejan articular un procedimiento ágil para la expedición de la cédula de habilitabilidad sin perjuicio de que queden garantizadas las condiciones de salubridad de aquélla y procurando, además, que sirvan de medio eficaz para dar cumplimiento a la estadística de edificación y viviendas establecida por Orden de le Presidencia del Gobierno de trece de noviembre de mil novecientos sesenta y ocho.
+
+En su virtud, a propuesta del Ministro de la Vivienda y previa deliberación del Consejo de Ministros en su reunión del día dieciocho de febrero de mil novecientos setenta y dos,
+
+DISPONGO:
+
+## Artículo primero.
+
+La expedición de las cedulas de habitabilidad establecidas por Decreto de veintitrés de noviembre de mil novecientos cuarenta se sujetara el procedimiento que se regula por el presente Decreto.
+
+## Artículo segundo.
+
+Cuando se trate de primeras ocupaciones de edificios destinados a viviendas o alojamientos de carácter residencial, no acogidos al régimen de Viviendas de Protección Oficial, los promotores presentarán en la correspondiente Delegación Provincial del Ministerio de la Vivienda, a la terminación de las obras, los siguientes documentos:
+
+a) Cuestionario estadístico de edificación y viviendas terminadas establecido por la Orden de la Presidencia del Gobierno de trece de noviembre de mil novecientos sesenta y ocho y relación complementaria de identificación de viviendas comprendidas en el mismo.
+
+b) Certificado final de obras suscrito por Arquitecto técnico o Aparejador y Arquitecto y visado por los respectivos Colegios Profesionales, de conformidad con lo dispuesto en el artículo sexto del Decreto cuatrocientos sesenta y dos/mil novecientos setenta y uno, de once de marzo, y modelo normalizado por Orden de veintiocho de enero de mil novecientos setenta y dos.en el que se hará constar expresamente el número total de viviendas terminada.
+
+c) Licencia municipal de primera utilización o, en su defecto, licencia municipal de obras.
+
+> Se añade la letra c) por el art. 1 del Real Decreto 129/1985, de 23 de marzo. [Ref. BOE-A-1985-2387](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-2387).
+
+## Artículo tercero.
+
+La cédula de habitabilidad se solicitará por los propietarios de viviendas o de edificaciones a que se refiere el articula anterior, mediante instancia dirigida a la Delegación Provincial del Ministerio de la Vivienda, la que, una vez compro hado el cumplimiento de lo que en él se dispone y el ingreso de la tasa regulada por el Decreto trescientos dieciséis/mil novecientos sesenta, de veinticinco de febrero, expedirá la cédula sin más trámites.
+
+No obstante, la Delegación Provincial, cuando lo considere procedente, podrá acordar la visita al inmueble de sus Servicios Técnicos e de aquellos en que delegue entes de efectuar la expedición do la cédula de habitabilidad.
+
+Están exentas de la exigencia de la Cédula de Habitabilidad las primeras ocupaciones de viviendas acogidas al régimen de viviendas de protección oficial, así como las segundas y posteriores ocupaciones de las viviendas que siendo propiedad de los Patronatos de Casas de las Fuerzas de Seguridad del Estado, de Casas para Militares y Patronatos de Casas para Funcionarios Públicos, sean cedidas en régimen de alquiler.
+
+> Se modifica el párrafo tercero por el art. único del Real Decreto 1320/1979, de 10 de mayo. [Ref. BOE-A-1979-13898](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13898).
+
+## Artículo cuarto.
+
+1\. Para segundas y posteriores ocupaciones de alojamientos de carácter residencial y de toda clase de viviendas, la cédula de habitabilidad se expedirá previa visita de inspección de los Servicios Técnicos competentes.
+
+2\. Cuando los solicitantes de cédulas para primera ocupación no aporten el certificado final de obras a que se refiere el artículo 2, el órgano actuante requerirá a los Técnicos Directores de obra para su aportación, los cuales vendrán obligados a presentarlo en un plazo de quince días a partir del requerimiento.
+
+Si transcurrido dicho plazo los Técnicos Directores no contestaren al requerimiento o no alegaran suficientes razones de carácter técnico o de falta de habitabilidad a juicio del órgano actuante, éste podrá acordar en resolución motivada que se expida la cédula previa inspección de los Servicios Técnicos competentes relativa a la comprobación de las condiciones de salubridad e higiene y con reserva de las responsabilidades que pudieran corresponder a los Técnicos Directores, como consecuencia del proceso de dirección de la obra respectiva.
+
+> Se modifica por el art. 2 del Real Decreto 129/1985, de 23 de marzo. [Ref. BOE-A-1985-2387](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-2387).
+
+## Artículo quinto.
+
+Las Empresas suministradoras de los servicios de agua, gas y electricidad no podrán formalizar ningún contrato definitivo de suministro sin que por el solicitante se presente documento que acredite haber obtenido la cédula de habitabilidad, o justifique su exención.
+
+## Artículo sexto.
+
+El incumplimiento de lo dispuesto en el presente Decreto dará lugar a la aplicación de las medidas previstas en el Decreto de veintitrés de noviembre de mil novecientos cuarenta y en la Orden de la Presidencia del Gobierno de trece de noviembre de mil novecientos sesenta y ocho.
+
+## Artículo séptimo.
+
+Se autoriza al Ministro de la Vivienda para las disposiciones necesarias para el desarrollo del presente Decreto y para adaptar el sistema que en él se establece a las viviendas propiedad de los Patronatos oficiales.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a veinticuatro de febrero de mil novecientos setenta y dos.
+
+FRANCISCO FRANCO
+
+El Ministro de la Vivienda,
+
+VICENTE MORTES ALFONSO

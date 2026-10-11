@@ -1,0 +1,175 @@
+---
+title: "Real Decreto 607/1986, de 21 de marzo, de desarrollo de la Directiva del Consejo de las Comunidades Europeas de 22 de marzo de 1977, encaminada a facilitar el ejercicio efectivo de la libre prestación de servicios de los Abogados"
+identifier: "BOE-A-1986-8118"
+eli: "https://www.boe.es/eli/es/rd/1986/03/21/607"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1986-03-21
+published: 1986-04-01
+in_force_from: 1986-04-02
+last_amended: 2014-03-10
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 78"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-8118"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 607/1986, de 21 de marzo, de desarrollo de la Directiva del Consejo de las Comunidades Europeas de 22 de marzo de 1977, encaminada a facilitar el ejercicio efectivo de la libre prestación de servicios de los Abogados
+
+Incluye la corrección de errores publicada en BOE núm. 92, de 17 de abril de 1986. [Ref. BOE-A-1986-9417](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-9417).
+
+La Directiva del Consejo de las Comunidades Europeas 77/249/CEE, de 22 de marzo de 1977, encaminada a facilitar el ejercicio efectivo de la libre prestación de servicios por los Abogados tal y como ha sido modificada por el Acta de Adhesión de 1979 y por el anexo I, en relación al artículo 26 del Acta de Adhesión de España, exige la introducción en nuestro ordenamiento jurídico de determinadas modificaciones.
+
+En su virtud, a propuesta del Ministro de Justicia, de acuerdo con el Consejo de Estado, previa deliberación del Consejo de Ministros en su reunión del día 21 de marzo de 1986,
+
+DISPONGO:
+
+## Art. 1.
+
+Los Abogados nacionales de los Estados miembros de las Comunidades Europeas establecidos con carácter permanente en aquéllos, podrán desarrollar libremente en España, en régimen de prestación ocasional de servicios, actividades de Abogados en las condiciones que se regulan en los artículos siguientes. Los Abogados visitantes no podrán abrir despacho en España
+
+## Art. 2.
+
+Por "Abogado" se entenderá toda persona facultada para ejercer sus actividades profesionales bajo alguna de las denominaciones siguientes:
+
+Alemania: Rechtsanwalt.
+
+Austria: Rechtsanwalt.
+
+Bélgica: Avocat / Advocaat / Rechtsanwalt.
+
+Bulgaria: Адвокат.
+
+Chipre: Δικιγορς.
+
+Croacia: Odvjetnik/Odvjetnica
+
+Dinamarca: Advokat.
+
+Eslovaquia: Advokát / Komercˇny' právnik.
+
+Eslovenia: Odvetnik / Odvetnica.
+
+Estonia: Vandeadvokaat.
+
+Finlandia: Asianajaja / Advokat.
+
+Francia: Avocat.
+
+Grecia: Δικιγορς.
+
+Hungría: Ügyvéd.
+
+Irlanda: Barrister / Solicitor.
+
+Islandia: Lögmaour.
+
+Italia: Avvocato.
+
+Letonia: Zveˇrina´ts advoka-ts.
+
+Liechtenstein: Rechtsanwalt.
+
+Lituania: Advokatas.
+
+Luxemburgo: Avocat.
+
+Malta: Avukat / Prokuratur Legali.
+
+Noruega: Advokat.
+
+Países Bajos: Advocaat.
+
+Polonia: Adwokat / Radca prawny.
+
+Portugal: Advogado.
+
+Reino Unido: Advocate / Barrister / Solicitor.
+
+República Checa: Advokát.
+
+Rumania: Avocat.
+
+Suecia: Advokat.
+
+> Se modifica por el art. 2 del Real Decreto 103/2014, de 21 de febrero. [Ref. BOE-A-2014-2523](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2523).
+
+> Se modifica por la disposición final 1 del Real Decreto 1837/2008, de 8 de noviembre. [Ref. BOE-A-2008-18702](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-18702).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 92, de 17 de abril de 1986. [Ref. BOE-A-1986-9417](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-9417).
+
+## Art. 3.
+
+1\. La prestación ocasional de servicios de Abogado comprende la consulta, el asesoramiento jurídico y la actuación en juicio.
+
+2\. Los profesionales a que se refieren los artículos anteriores no podrán desempeñar cometidos que entrañen el ejercicio de una función pública o que sean incompatibles con el carácter ocasional de sus servicios.
+
+## Art. 4.
+
+Las personas a que se refiere el artículo 1.º de este Real Decreto, harán uso de su título profesional expresado en la lengua del Estado de que proceden, con indicación del Colegio u Organización Profesional del que dependen, sin utilizar el título profesional de «Abogado».
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 92, de 17 de abril de 1986. [Ref. BOE-A-1986-9417](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-9417).
+
+## Art. 5.
+
+1\. Para la prestación de servicios a que se refiere este Real Decreto, los Abogados visitantes deberán presentarse al Decano de la Junta de Gobierno del Colegio de Abogados correspondiente al territorio en que hayan de prestarlos que dirigirá oficio comunicando la actuación pretendida al Juez o Presidente del Tribunal en que debieran de actuar y al Consejo General de la Abogacía Española a los efectos previstos en el artículo 9.º
+
+2\. El Abogado visitante facilitará al Decano, además de su nombre y apellidos, el título profesional poseído, la dirección de su despacho permanente, la organización profesional a la que pertenece su dirección durante su permanencia en España y, en su caso, el nombre, apellidos y domicilio del Abogado con el que actuara concertadamente, de conformidad con el artículo 6.º El Abogado visitante facilitará, igualmente, una declaración de no estar incurso en causa de incompatibilidad ni de haber sido objeto de sanción penal, administrativa o profesional con efectos sobre el ejercicio profesional.
+
+> Redactado el párrafo 1 conforme a la corrección de errores publicada en BOE núm. 92, de 17 de abril de 1986. [Ref. BOE-A-1986-9417](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-9417).
+
+## Art. 6.
+
+1\. Cuando sea preceptiva la intervención de Abogado para las actuaciones ante Juzgados o Tribunales o ante Organismos públicos relacionados con el ámbito de la Administración de Justicia o que ejerzan algún tipo de función jurisdiccional, así como para la asistencia, comunicación y visitas con detenidos y presos, el Abogado visitante deberá concertarse con un Abogado inscrito en el Colegio en cuyo territorio haya de actuar.
+
+2\. También será necesaria la concertación cuando no sea preceptiva la intervención de Abogado, pero la Ley exigiere que si el interesado no interviene por sí mismo, no pueda hacerlo otra persona que no sea Abogado.
+
+3\. El Abogado inscrito con el que existiese la concertación, responderá ante los órganos jurisdiccionales u Organismo públicos.
+
+> Se modifica por el art. 1 del Real Decreto 1062/1988, de 16 de septiembre. [Ref. BOE-A-1988-21972](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-21972).
+
+> Redactado conforme la corrección de errores publicada en BOE núm. 92, de 17 de abril de 1986. [Ref. BOE-A-1986-9417](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-9417).
+
+## Art. 7.
+
+1\. Las actividades relativas a la representación y defensa ante órganos jurisdiccionales y organismos públicos, se ejercerán en las mismas condiciones que los Abogados españoles, con exclusión de cualquier condición de residencia o colegiación en España, respetando las reglas profesionales españolas, sin perjuicio de las obligaciones que incumben al profesional en el Estado de origen.
+
+2\. Para el ejercicio de las restantes actividades, el Abogado visitante quedará sometido a las condiciones y reglas profesionales del Estado miembro de origen sin perjuicio del respeto de las reglas, cualquiera que sea su fuente, que rigen la profesión en España, especialmente las que regulan la incompatibilidad entre el ejercicio de las actividades de Abogado y el de otras actividades, el secreto profesional, las relaciones de compañerismo, la prohibición de asistencia por un mismo Abogado a partes que tengan intereses opuestos y a la publicidad. Estas reglas no serán aplicables más que si pueden ser observadas por un Abogado no establecido en España y sólo en la medida en que su observancia se justifique objetivamente para asegurar el ejercicio correcto de las actividades de Abogado, la dignidad de la profesión, el respeto a las incompatibilidades y el cumplimiento de sus obligaciones fiscales.
+
+## Art. 8.
+
+Los Abogados visitantes nacionales de los Estados miembros de las Comunidades Europeas establecidos con carácter permanente en aquéllos quedan sometidos al régimen disciplinaria de los Abogados españoles. Las sanciones de carácter deontológico que fuesen impuestas a aquéllos, si implicaren suspensión o expulsión definitiva del Colegio de Abogados, se sustituirán por la prohibición temporal o definitiva de la prestación de servicios profesionales en España.
+
+## Art. 9.
+
+1\. El Consejo General de la Abogacía Española llevará un Libro registro de actuaciones en España de Abogados visitantes de Estados comunitarios en régimen de prestación ocasional de servicios.
+
+2\. **(Derogado)**
+
+> Se deroga el apartado 2 por el art. 2 del Real Decreto 1062/1988, de 16 de septiembre. [Ref. BOE-A-1988-21972](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-21972).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 92, de 17 de abril de 1986. [Ref. BOE-A-1986-9417](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-9417).
+
+## Art. 10.
+
+Corresponde al Consejo General de la Abogacía Española facilitar a los Abogados españoles establecidos en España la documentación necesaria para que puedan prestar servicios en los Estados miembros de las Comunidades Europeas en el régimen a que se refiere la Directiva del Consejo de dichas Comunidades 77/249/CEE, de 22 de marzo de 1977.
+
+## Disposición adicional.
+
+Se autoriza al Ministro de Justicia para dictar cuantas disposiciones exija el desarrollo del presente Real Decreto.
+
+## Disposición final.
+
+El presente Real Decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 21 de marzo de 1986.
+
+JUAN CARLOS R
+
+El Ministro de Justicia,
+
+FERNANDO LEDESMA BARTRET

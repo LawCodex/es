@@ -1,0 +1,2109 @@
+---
+title: "Orden de 20 de marzo de 1986 por la que se aprueban determinadas instrucciones técnicas complementarias, relativas a los capítulos IV, V, IX y X del Reglamento General de Normas Básicas de Seguridad Minera"
+identifier: "BOE-A-1986-8940"
+eli: "https://www.boe.es/eli/es/o/1986/03/20/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria y Energía"
+date: 1986-03-20
+published: 1986-04-11
+in_force_from: 1986-05-01
+last_amended: 2017-03-04
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 87"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-8940"
+retrieved: 2026-10-11
+---
+
+# Orden de 20 de marzo de 1986 por la que se aprueban determinadas instrucciones técnicas complementarias, relativas a los capítulos IV, V, IX y X del Reglamento General de Normas Básicas de Seguridad Minera
+
+Incluye las correcciones de errores publicadas en BOE núm. 196, de 16 de agosto de 1986 [Ref. BOE-A-1986-22054](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-22054). y núm. 254, de 23 de octubre de 1986. [Ref. BOE-A-1986-28087](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-28087).
+
+Ilustrísimo señor:
+
+Por Real Decreto 863/1985, de 2 de abril, se aprobó el Reglamento General de Normas Básicas de Seguridad Minera, previéndose su desarrollo y ejecución mediante instrucciones técnicas complementarias, cuyo alcance y vigencia se define en el artículo 2.° del citado Real Decreto.
+
+Las Ordenes de este Ministerio de 13 de septiembre y 2 de octubre de 1985 y 3 de febrero de 1986 aprobaron determinadas instrucciones técnicas complementarias de los capítulos IIl, IV, V, VI, IX y XII del referido Reglamento, atendiendo a la conveniencia de que las instrucciones se promulguen a medida que concluye su preparación y no demorar su entrada en vigor hasta que estén ultimadas la totalidad de dichas instrucciones.
+
+En virtud de lo expuesto, de acuerdo con la autorización a que se refiere el artículo 2.° del Real Decreto 863/1985, de 2 de abril, a propuesta de la Dirección General de Minas,
+
+Este Ministerio tiene a bien disponer:
+
+#### Primero.
+
+Se aprueban las instrucciones técnicas complementarias de los capítulos IV, V, IX y X del Reglamento General de Normas Básicas de Seguridad Minera, aprobado por Real Decreto 863/1985, de 2 de abril, que se relacionan en el anexo.
+
+#### Segundo.
+
+Las instrucciones técnicas complementarias a que se refiere el punto primero, que desarrollan el Reglamento General de Normas Básicas de Seguridad Minera, no afectan a los productos e instalaciones debidamente autorizados, que se encuentren en servicio a la entrada en vigor de esta disposición, salvo que razones de seguridad aconsejen lo contrario, en cuyo caso, la autoridad minera competente establecerá los plazos de adaptación. Dichos plazos no serán superiores a dos años a partir de la entrada en vigor de esta disposición.
+
+Lo que comunico a V. I. para su conocimiento y efectos.
+
+Madrid, 20 de marzo de 1986.
+
+MAJO CRUZATE
+
+Ilmo. Sr. Director general de Minas.
+
+## ANEXO — Instrucciones técnicas complementarias de los capítulos IV, V, IX y X del Reglamento General de Normas Básicas de Seguridad Minera, aprobado por Real Decreto 863/1985, de 2 de abril
+
+Capítulo IV. Labores subterráneas.
+
+| ITC |  |
+|---|---|
+| 04.2-02 | Labores subterráneas. Pozos. |
+| 04.3-01 | Labores subterráneas. Máquinas de Extracción. |
+| 04.3-02 | Labores subterráneas. Jaulas y skips. |
+| 04.5-01 | Labores subterráneas. Circulación por pozos. |
+| 04.5-02 | Labores subterráneas. Conservación de las instalaciones de extracción. |
+
+Capítulo V. Especificaciones para minas subterráneas de carbón y labores con riesgo de explosión.
+
+| ITC |  |
+|---|---|
+| 05.0-03 | Labores subterráneas. Ventilación y desagüe. Minas con grisú u otros gases inflamables. Ventilación secundaria. |
+
+Capítulo IX. Electricidad.
+
+| ITC |  |
+|---|---|
+| 09.0-13 | Electricidad. Talleres de reparaciones de material eléctrico para trabajos de atmósfera potencialmente explosiva. |
+| 09.0-14 | Electricidad. Plataformas de hidrocarburos. |
+| 09.0-15 | Electricidad. Instalaciones de interior. Alumbrado. |
+| 09.0-16 | Electricidad. Sondeos. |
+| 09.0-17 | Electricidad. Instalaciones de Interior. Montaje, explotación y mantenimiento. |
+| 09.0-18 | Electricidad. Instalaciones de interior. Comunicación y señalización. |
+
+Capítulo X. Explosivos.
+
+| ITC |  |
+|---|---|
+| 10.0-01 | Explosivos. Normas generales. |
+| 10.0-02 | Explosivos. Transportes interiores. |
+| 10.1-01 | Explosivos. Almacenamiento. |
+| 10.2-01 | Explosivos. Utilización. |
+| 10.2-02 | Explosivos. Disparo con explosivo a horarios no preestablecidos en minas subterráneas de carbón y labores con riesgo de explosión. |
+| 10.3-01 | Explosivos. Voladuras especiales. |
+| 10.4-01 | Explosivos. Disposiciones especiales para trabajos con gases o polvos inflamables o explosivos. |
+
+## LABORES SUBTERRÁNEAS
+
+### POZOS — Instrucción ITC 04.2-02
+
+#### 1. Objeto y campo de aplicación.
+
+La presente instrucción tiene por objeto establecer los requisitos que han de cumplir los pozos de acceso a labores subterráneas, así como las conductas que, por medida de seguridad, deben seguir el personal.
+
+#### 2. Autorización de instalaciones.
+
+El conjunto de las instalaciones inherentes al equipo de un pozo, así como las modificaciones fundamentales que en el mismo se produzcan, precisarán la autorización previa de la autoridad minera, que la concederá, si procede, a la vista del correspondiente proyecto detallado.
+
+#### 3. Escalas.
+
+Los mecanismos y las escalas, para bajada y subida del personal, serán objeto de revisiones de periodicidad no inferior a un año y cumplirán las prescripciones establecidas en estas instrucciones técnicas.
+
+Cuando los pozos de extracción estén provistos de escalas, éstas serán rígidas y dispondrán de su propio acceso en todas las plantas en servicio. Un sistema divisorio separará el departamento de escalas del de extracción.
+
+En los pozos de más de 10 metros de profundidad, la inclinación de las escalas no deberá ser superior a 80°, y se establecerán descansillos de reposo con intervalos máximos de 5 metros, salvo autorización expresa de la autoridad minera en ambos casos.
+
+Toda escala sobrepasará en 0,80 metros su descansillo superior, en su defecto, se colocarán empuñaduras fijas a una altura conveniente por encima de este descansillo.
+
+Si las escalas están fuera de uso, se tomarán medidas para que no se pueda circular por ellas, salvo para repararlas.
+
+En el caso de que existan escalas o plataformas accesibles por debajo de la planta más profunda en servicio del pozo, quedarán sujetas a las mismas revisiones que las que estuvieran en servicio, aun cuando no se prevea circular normalmente por ellas.
+
+#### 4. Protección contra accesos inadvertidos.
+
+En todo pozo con jaulas guiadas, los embarques estarán provistos de barreras o dispositivos apropiados que impidan el acceso a la caña del pozo a personas o vagones cuando la jaula no esté en el embarque.
+
+#### 5. Iluminación.
+
+Todos los embarques en servicio, incluidos los de superficie, estarán bien iluminados por luces fijas.
+
+#### 6. Comportamiento de personal en el embarque.
+
+El personal en espera de embarcar deberá permanecer a una distancia mínima de 5 metros de la caña del pozo, hasta que reciba la orden de entrar en la jaula, estableciéndose para mayor seguridad, los oportunos dispositivos de señalización.
+
+Las disposiciones internas de seguridad establecerán la organización de los embarques, el número de personas máximo en cada jaula y el responsable de las entradas y salidas de los relevos.
+
+#### 7. Señalización de maniobras.
+
+Todo embarque deberá estar provisto de dispositivos que permitan el intercambio recíproco de señales con el puesto de mando de las maniobras en el pozo. La autoridad minera podrá dispensar los embarques desde los que pueda comunicar verbalmente con este puesto o con otro embarque dotado con los citados dispositivos.
+
+Se fijará un código de señales y se designarán las personas autorizadas para emitirlas. El código de señales será colocado permanentemente en los distintos embarques y en el puesto de maniobra del maquinista.
+
+Esta señalización deberá evitar toda confusión entre las señales que correspondan a los diferentes embarques y a los diferentes compartimientos de extracción, así como con cualquier señal de otra procedencia.
+
+En el código de señales, toda señal debe tener tanto para el que la da como para el que la recibe una significación única, siempre la misma y netamente definida.
+
+A la señal acústica de un golpe único debe obligatoriamente serle asignada la significación de «alto».
+
+Las señales de ejecución no deben ser enviadas al maquinista más que por un solo encargado, salvo si existe un sistema de señalización que garantice, a juicio de la autoridad minera, una seguridad equivalente.
+
+En todos los pozos por donde circule el personal se instalarán aparatos que permitan el intercambio de conversaciones entre el maquinista y todos los embarques. Esta telefonía tendrá fuente de alimentación autónoma e independiente del suministro de energía de la mina.
+
+Cuando la señalización sea eléctrica, un mismo cable no puede contener más que los hilos de señalización de una sola máquina de extracción. Toda falta de tensión en el sistema de señales debe poder ser detectada desde el puesto del maquinista.
+
+Se utilizará una indicación especial para todo transporte de personal. Esta indicación será hecha solamente al principio y al final de una serie de cordadas seguidas de personal, con la condición de que un indicador óptico esté a la vista del maquinista durante toda la duración de la serie de cordadas.
+
+En todos los pozos con circulación normal de personal, la entrada de éste en la jaula desde un embarque cualquiera estará subordinada a la recepción previa de una indicación permisiva del maquinista. Esta indicación no debe ser dada hasta después de estar frenada la máquina.
+
+Cuando una jaula esté detenida en un embarque para tomar o dejar personal, su puesta en movimiento estará subordinada a la recepción previa de una señal de marcha emitida desde dicho embarque. En el caso de que el embarque no disponga de embarcador fijo, se precisará el tiempo de espera a observar por el maquinista después de la recepción de señal, debiendo contar con dispositivos capaces de emitir dicha señal.
+
+#### 8. Guionaje.
+
+El guionaje rígido de los pozos deberá estar sólidamente construido, cuidadosamente alineado y vigilarse frecuentemente. El cálculo del guionaje y de las viguetas que lo soportan se realizará con un coeficiente de seguridad de cuatro sobre la carga estática máxima de la jaula o skip con personal. En el cálculo se supondrá que cada tramo de guionaje resiste independientemente de los demás.
+
+El guionaje deberá montarse de manera que la jaula o skip que sobrepase accidentalmente el embarque exterior sea detenido por el esfuerzo progresivo del roce antes de alcanzar las poleas.
+
+Si el pozo dispone de caldera y se emplea para la circulación del relevo sin taquetes o con taquetes ocultos y no existe un dispositivo automático que limite la velocidad de llegada de la jaula al embarque a menos de 1,50 metros/segundo, el guionaje debe disponerse también de forma que la jaula o skip que sobrepase el embarque inferior sea detenido por un esfuerzo progresivo antes de alcanzar el fondo o el nivel del agua si ésta se acumula.
+
+Si se emplea guionaje de cables, éstos se instalarán en número, calidad y disposición adecuados, para evitar roces o choques de las jaulas o skips entre sí, con el contrapeso o con los paramentos del pozo. El cable del guionaje se calculará con un coeficiente de seguridad mínimo de cinco respecto a su propio peso más el del contrapeso, no debiendo de bajar nunca de tres en servicio.
+
+La distancia entre dos cables contiguos que guían dos jaulas distintas será como mínimo de 60 centímetros cuando no existan cables de separación, y de 20 centímetros si éstos existen. Estas distancias podrán ser variadas por la autoridad minera cuando la velocidad de las jaulas, en más o en menos, recomiende aumentarlas o disminuirlas.
+
+En el caso de guionaje rígido, la distancia mínima entre jaulas será de 150 milímetros si el guionaje es lateral.
+
+En los casos de extracción doble por el mismo pozo, con guionaje rígido, la distancia mínima entre jaulas o skips de distinto sistema será de 350 milímetros.
+
+La distancia mínima de la jaula a la pared del pozo será, en una instalación nueva, de 150 milímetros.
+
+#### 9. Taquetes.
+
+En el caso de maniobras con personal los taquetes del embarque de las plantas inferiores deben permanecer fuera de posición cuando no exista un dispositivo automático que limite la velocidad de llegada de la jaula al embarque. La velocidad de llegada máxima admitida para taquetes en posición será de 1,50 metros por segundo.
+
+Los taquetes en las plantas intermedias entre las que se están dando las cordadas deben permanecer siempre fuera de posición.
+
+Debe preverse un sistema de taquetes en el castillete que actúen siempre que la jaula o skip sobrepase el embarque exterior y que la reciban en el caso de que por estrellarse en las poleas o actuar contra el guionaje convergente el cable de extracción se rompiera.
+
+Una señalización en la sala de máquinas indicará la posición de los taquetes. Dicha señalización indicará que los mismos están correctamente retirados.
+
+#### 10. Cables eléctricos y de señalización.
+
+Los cables eléctricos que transportan la energía y principalmente los de señalización y telefonía, se instalarán en zonas lo más protegidos posibles contra la caída de vagones, materiales u objetos que pudieran escaparse por la caña del pozo.
+
+#### 11. Tuberías.
+
+La instalación de tuberías se hará de forma que sus anclajes soporten los esfuerzos máximos previsibles con coeficiente de seguridad 1,5. Preferiblemente, dispondrán de anclajes independientes de los del guionaje y si fueran los mismos, no harán disminuir el coeficiente de seguridad de aquél por debajo del valor antes establecido.
+
+La instalación y mantenimiento de tuberías que transporten sólidos, se realizará según disposiciones internas de seguridad, que establecerán el modo de operar en los casos de ser necesario «desatrancar» o reparar las tuberías.
+
+> Redactados los apartados 7 y 9 conforme a la corrección de errores publicada en BOE núm. 196, de 16 de agosto de 1986. [Ref. BOE-A-1986-22054](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-22054).
+
+### MÁQUINAS DE EXTRACCIÓN — Instrucción ITC 04.3-01
+
+#### 1. Objeto y campo de aplicación.
+
+La presente instrucción tiene por objeto establecer los requisitos mínimos que por motivos de seguridad han de cumplir las máquinas de extracción y sistemas asociados.
+
+#### 2. Maquinista.
+
+El acceso a la sala de máquinas estará prohibido a toda persona ajena a su servicio. El maquinista podrá desarrollar su trabajo sin estar sometido a ruidos molestos, y si éstos existieran en el exterior se le ubicará en una cabina debidamente acondicionada.
+
+La persona encargada del manejo de la máquina de extracción deberá ser un profesional competente y en condiciones psicofísicas acreditadas por certificado expedido por titular competente, y será propuesto a la autoridad minera a fin de que ésta la someta a un examen de práctica profesional. Si procede, le extenderá el correspondiente certificado de aptitud, que tendrá validez durante cinco años y que será renovado una vez acreditadas las condiciones psicofísicas necesarias. A partir de los cincuenta y cinco años de edad, la validez del certificado será por dos años, a cuyo término podrá renovarse también previa acreditación de las condiciones psicofísicas.
+
+Cuando no exista dispositivo automático de parada, durante la entrada y salida de los relevos, habrá, además del maquinista, un ayudante capacitado en el manejo de la máquina, que estará siempre en disposición de intervenir en caso necesario.
+
+A los efectos del párrafo anterior, se entienden por dispositivos automáticos de parada aquellos que impidan que la jaula descendente pueda llegar al fondo a una velocidad superior a 2,5 metros/segundo y a la jaula ascendente alcanzar las poleas.
+
+Durante la circulación de toda jaula con personal, el maquinista debe permanecer en su puesto de maniobra y poder, en todo momento, actuar sobre la palanca de regulación o los frenos.
+
+El maquinista no debe dejar nunca su puesto de maniobra sin haber previamente actuado todos los frenos.
+
+#### 3. Frenos y dispositivos de bloqueo.
+
+Las máquinas de extracción dispondrán de dos frenos, uno de maniobra y otro automático de seguridad, sobre el tambor, bobina o polea Koepe. Los mandos estarán dispuestos al alcance del maquinista para que éste pueda accionarlos rápidamente y sin cambiar de sitio.
+
+El freno de seguridad será del tipo de contrapeso.
+
+Cada freno será capaz de detener y mantener inmovilizada la máquina incluso en las condiciones más desfavorables.
+
+Los dos frenos pueden tener los mismos órganos de fricción y de transmisión, pero sus mandos deben ser distintos y distanciados. Uno, al menos, de los frenos debe poder actuar incluso en el caso de falta de suministro de la energía utilizada normalmente para su maniobra.
+
+El freno de seguridad deberá ejercer su acción sin intervención de engranajes.
+
+Los mecanismos de los frenos se calcularán con un coeficiente de seguridad mínimo de 5 con relación a la fuerza de frenado máxima utilizada en servicio.
+
+El freno de servicio debe ser tal que:
+
+La seguridad estática relativa al mayor sobrepeso sea S<sub>F </sub>≥ 3, en la que:
+
+![1](https://www.boe.es/datos/imagenes/disp/1986/87/08940_21088.png)
+
+El esfuerzo de frenado referido al cable se considerará en ésta y otras expresiones posteriores para la presión mínima del fluido transmisor (por ejemplo, para la presión mínima del aire comprimido).
+
+El esfuerzo de frenado en el descenso del mayor sobrepeso debe ser tal que produzca una deceleración mínima de b<sub>F</sub> ≥ 2 m/s<sup>2</sup>.
+
+La seguridad estática estando la máquina desembragada será S<sub>FV</sub> ≥ 1,5, en la que
+
+![1](https://www.boe.es/datos/imagenes/disp/1986/87/08940_21137.png)
+
+El freno de seguridad debe ser tal que:
+
+Dispondrá de una seguridad estática relativa al mayor sobrepeso de S<sub>s</sub> ≥ 3, siendo:
+
+![1](https://www.boe.es/datos/imagenes/disp/1986/87/08940_21180.png)
+
+El esfuerzo de frenado en el descenso del mayor sobrepeso debe ser tal que produzca una deceleración mínima de b<sub>s</sub> ≥ 1,2 m/s<sup>2</sup>.
+
+La seguridad estática relativa al mayor sobre peso en el caso de frenado por actuación del contrapeso será S<sub>H</sub> ≥ 3, siendo
+
+![1](https://www.boe.es/datos/imagenes/disp/1986/87/08940_21225.png)
+
+Cuando actúe, en los casos de polea Koepe, no se produzca un deslizamiento de los cables en la polea, incluso cuando su actuación vaya acompañada por el frenado eléctrico del motor.
+
+Que, aun interviniendo en las circunstancias más desfavorables, asegure la parada antes de que la jaula o skip choque contra las poleas.
+
+Que actúe cuando falte la energía motriz de la máquina, en los finales de carrera y en los casos de sobrevelocidad del 20 por 100 de la máquina. Su actuación deberá entrañar la supresión del esfuerzo motor.
+
+Que actúe cuando falte la alimentación de los servomotores del freno (por ejemplo, aire comprimido o aceite a presión).
+
+Si el tambor o bobina de arrollamiento del cable que sirve para una circulación normal puede ser desembragado, un enclavamiento debe impedir hacerlo antes de que la parte desembragable haya sido inmovilizada por medio de un dispositivo capaz de mantenerla en las condiciones de carga más desfavorables.
+
+La jaula desembragada no transportará materiales ni personal. Su velocidad de circulación será reducida, y, al actuar el freno de seguridad, la deceleración será tal que impida el choque de la jaula o skip contra las poleas y el fondo de la caña del pozo.
+
+Cada vez que se realice una maniobra de embrague antes de hacer ningún servicio con personal, se darán las cordadas necesarias para comprobar que dicha maniobra se ha efectuado correctamente y que los taquetes (si existen) han sido retirados. En el caso de embarques equipados con tableros no son necesarias las cordadas de comprobación.
+
+Cada vez que se realice una revisión o reparación que afecte a los mecanismos de la máquina de extracción, o del castillete, o caña del pozo, o elementos que actúen sobre la regulación y mando de los frenos se darán, igualmente, las cordadas necesarias sin personal para comprobar el correcto funcionamiento de la extracción.
+
+#### 4. Puesto de mando del maquinista.
+
+Las máquinas de extracción que sirvan para una circulación normal o excepcional de personal estarán provistas de:
+
+a) Un indicador de posición de la jaula o skip en el pozo, situado a la vista del maquinista.
+
+b) Un aparato de señalización acústica que anuncie la llegada de la jaula o skip a las proximidades de los embarques extremos en servicio.
+
+Las que sobrepasen los 6 metros por segundo deberán, además, estar provistas de:
+
+c) Un aparato indicador y registrador de la velocidad. Los aparatos de nueva instalación deberán tener también registrador de señales.
+
+d) Un cuadro indicador en el que se señale la situación de la maniobra en:
+
+Extracción.
+
+Personal.
+
+U otras que se considere de interés.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 196, de 16 de agosto de 1986. [Ref. BOE-A-1986-22054](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-22054).
+
+### JAULAS Y SKIPS — Instrucción ITC 04.3-02
+
+#### 1. Objeto y campo de aplicación.
+
+La presente instrucción tiene por objeto especificar los requisitos mínimos que por motivos de seguridad deben cumplir las jaulas, skips y sus elementos de amarre y suspensión.
+
+#### 2. Protección contra caídas.
+
+Las jaulas y las plataformas de los skips, cualquiera que sean sus características, dispondrán de elementos que impidan la caída del personal al pozo y le protejan contra la caída de objetos exteriores. Estarán proyectadas de tal manera que si quedasen inmovilizadas accidentalmente en un punto cualquiera de su recorrido permitan que el personal sea evacuado.
+
+Igualmente, dispondrán de elementos de sujeción de los vagones o mesillas que transporten o de un sistema de guionaje frontal a lo largo del recorrido que eviten el escape de los mismos durante su transporte.
+
+Las operaciones de introducción de cargas especiales en las jaulas tales como tuberías, carriles o las que deban ser transportadas suspendidas y que requieran mantener abiertas o retirar las barreras de protección del pozo de forma que el personal tenga que acercarse a menos de 3 metros del brocal exigirán el empleo de cinturones de seguridad.
+
+#### 3. Resistencia mecánica de los elementos de amarre y suspensión.
+
+Todos los órganos de amarre y suspensión de las jaulas y skips deben ser establecidos de manera que su conjunto resista una carga, al menos, igual a 10 veces la carga estática máxima a la cual serán sometidos en servicio.
+
+Los amarres y suspensiones deben ser ensayados en conjunto o por elementos antes de su puesta en servicio y después de todo tratamiento térmico a un esfuerzo igual a tres veces la carga estática máxima. Un certificado de este ensayo, que tiene que ser realizado por un laboratorio oficial acreditado, debe quedar siempre a disposición de la autoridad minera para su comprobación.
+
+Cuando se trate de un cable de equilibrio el tipo de suspensión debe ser tal que su enganche al cable resista un esfuerzo, al menos, igual 12 veces el peso del cable suspendido de ella.
+
+Ninguna pieza de amarre puede ser empleada por un tiempo superior a diez años a partir de su puesta en servicio.
+
+La unión del cable al amarre deber ser tal que resista un esfuerzo superior a la carga de rotura del cable.
+
+#### 4. Amarres y suspensiones en instalaciones multicables.
+
+Cuando la instalación de extracción comprende dos o más cables portadores deben existir dispositivos capaces de igualar sus tensiones en previsión de:
+
+Repartir correctamente la carga suspendida.
+
+Uniformizar el desgaste de las gargantas de los elementos de enrollamiento (poleas, Koepe o poleas deflectoras).
+
+Situar correctamente la jaula en su guionaje.
+
+Para ello dispondrá de:
+
+La posibilidad de medir la tensión de cada cable.
+
+Un dispositivo igualador o compensador de tensiones.
+
+#### 5. Cálculo de las jaulas y skips.
+
+El cálculo y proyecto de las jaulas y skips debe tener en cuenta los esfuerzos normales: Carga estática máxima, esfuerzos dinámicos de enjaulado y desenjaulado y, eventualmente, los de colocación sobre taquetes.
+
+El marco superior de la jaula o skip en el que engarzan el amarre y suspensiones de los cables se calculará con coeficiente de seguridad de 8, siendo este coeficiente la relación del límite de rotura respecto de los esfuerzos normales y el resto de la estructura con coeficiente de seguridad 6.
+
+La suspensión de cargas de la base de la jaula o la introducción de cargas concentradas en su interior deberá realizarse de forma ordenada y previo conocimiento de las hipótesis de carga y de los desarrollos de cálculo que sirvieron de base para el proyecto de la misma. A tal fin, el Proyectista de la jaula tiene la obligación de entregar al Director facultativo de la mina todos los datos que éste le solicite.
+
+#### 6. Dimensiones de los tambores de arrollamiento.
+
+Los tambores de arrollamiento del cable tendrán la dimensión suficiente para arrollar:
+
+Tres vueltas de seguridad del cable.
+
+Los tramos de cable que previsiblemente sea preciso cortar durante la vida del mismo, debido a su alargamiento y a los ensayos de muestras previstos en la ITC 04.4-01.
+
+La longitud de la cordada más la distancia entre la viga salvapoleas poleas y el embarque exterior.
+
+### CIRCULACIÓN POR POZOS — Instrucción ITC 04.5.01
+
+#### 1. Objeto y campo de aplicación.
+
+La presente instrucción tiene por objeto especificar las condiciones en que ha de realizarse la circulación por pozos del personal y materiales.
+
+#### 2. Circulación de personas en cubas.
+
+La circulación de personas mediante el empleo de cubas únicamente se autorizará en casos especiales como profundización de pozos o averías. Si la cuba estuviese suspendida de cable no antigiratorio, será guiada.
+
+Las personas irán en el fondo de la cuba, y si por su especial función no pueden hacerlo irán ligadas al cable o al dispositivo de suspensión mediante cinturones de seguridad.
+
+Cuando se transporte personal por medio de cubas, se extremarán las precauciones tendentes a evitar la caída de piedras, herramientas y toda clase de objetos desde la boca, paredes y cortaduras del pozo.
+
+Los cables de las cubas cumplirán los requisitos de seguridad señalados en la ITC 04.4-01.
+
+#### 3. Circulación de personas en jaulas y skips.
+
+La circulación de personas en jaulas y en plataformas de los skips se realizará según lo indicado en la ITC 04.2-02 y otras prescripciones particulares para cada instalación concreta que serán recogidas en una disposición interna de seguridad. Estas disposiciones recogerán las condiciones de circulación, como mínimo, en tres supuestos:
+
+Circulación de los relevos.
+
+Cordadas aisladas de personal.
+
+Cordadas de revisión.
+
+Diferenciando además si la instalación se utiliza o no para la circulación normal del personal.
+
+Las jaulas, skips o cubas no podrán llevar vagones, mineral o material pesado cuando transporten personas. Si tuvieran varios pisos, los no ocupados por personal únicamente podrán contener vagones vacíos o material.
+
+Durante las cordadas de personal sólo se permitirán otras maniobras en el mismo pozo yen los embarques cuando no afecten a la seguridad del personal que circula. Si en el pozo existe más de un sistema de extracción, sólo se podrán simultanear con los de circulación de personal cuando exista un sistema de aislamiento entre compartimientos eficaz para evitar cualquier incidente entre ellos. Las maniobras simultáneas a realizar estarán especificadas y aprobadas por la autoridad minera.
+
+### CONSERVACIÓN DE LAS INSTALACIONES DE EXTRACCIÓN — Instrucción ITC 04.5-02
+
+#### 1. Objeto y campo de aplicación.
+
+La presente instrucción tiene por objeto especificar las medidas generales de revisión y mantenimiento, así como su periodicidad, que se deben tener en las instalaciones de extracción y elementos asociados.
+
+#### 2. Periodicidad de revisiones generales.
+
+La conservación de toda instalación de extracción será objeto de una disposición interna de seguridad. Como mínimo deberán efectuarse las siguientes revisiones:
+
+Diariamente.
+
+Antes de la primera cordada de personal, se darán las cordadas necesarias para comprobar que los taquetes o tableros han sido retirados y que la máquina está bien embragada.
+
+Se comprobará el correcto funcionamiento de la señalización, frenos y taquetes.
+
+Se observará el estado de amarres y barreras de pozo.
+
+Semanalmente.
+
+Se revisará el estado de conservación de la caña del pozo, taquetes, tableros oscilantes, jaulas, guionaje y demás elementos del pozo.
+
+Semestralmente.
+
+Se hará una revisión general de poleas, castillete, escalas, instalaciones de señalización, finales de carrera, reguladores de velocidad, registradores de posición de las jaulas o skips, frenos y, en general, de la máquina de extracción.
+
+Registro de las revisiones.
+
+Se archivarán los partes escritos de los encargados de estas revisiones.
+
+#### 3. Revisiones periódicas de cables.
+
+Además de lo dispuesto en el apartado anterior, en cuanto se refiere a los cables de circulación de personal o extracción, equilibrio, guías y fricción, se llevarán a cabo también por personal idóneo las siguientes comprobaciones además de las revisiones prescritas en el apartado 3 de la ITC 04-4-01.
+
+Diariamente.
+
+Observación de los cables de circulación de personal y de extracción.
+
+Semanalmente.
+
+Observación del número de hilos rotos (en todo el cable y en un espacio de 2 metros donde más hilos rotos haya), dobleces, irregularidades en las espiras, disminución de la sección o alargamiento extraordinario, herrumbres y cuantos datos puedan indicar anormalidad.
+
+Mensualmente.
+
+Cada cable debe someterse a un examen suplementario. Deben ser examinados con particular atención los lugares en los cuales pueden esperarse deterioros importantes y donde se encontró el mayor número de alambres cortados y, en todo caso, cada 100 metros. Estos puntos deben ser examinados con el cable inmóvil.
+
+Ensayos no destructivos.
+
+La autoridad minera solicitará, cuando lo estime procedente, la realización de ensayos no destructivos a Entidades colaboradoras u otras de carácter no lucrativo.
+
+#### 4. Registro de cables.
+
+Deberá existir un registro en modelo oficial relativo a los cables empleados para la extracción o para la circulación de personal, comprendiendo los cables de equilibrio, que indicará para cada uno de ellos:
+
+Primero. El nombre y domicilio del fabricante, junto con el certificado de fabricación.
+
+Segundo. La constitución y naturaleza; los resultados de los ensayos efectuados sobre el cable nuevo y sobre sus elementos, así como en los sucesivos trozos cortados, por un laboratorio oficial.
+
+Tercero. Fecha de colocación, compostura y retirada, así como la causa del retiro o cambio definitivo.
+
+Cuarto. La fecha, el modo de ejecución y los resultados de los exámenes de periodicidad semanal o superior.
+
+Quinto. Cuando se dispongan de equipos adecuados, los resultados de los exámenes no destructivos (electromagnética, rayos X, etcétera), al objeto de compararlos entre sí y estudiar la evolución de la vida del cable.
+
+Sexto. La fecha y tipo de reparaciones, cortes, vueltas e incidentes.
+
+#### 5. Retirada de cables.
+
+Todo cable empleado en la extracción o en la circulación de personal deberá ser retirado cuando:
+
+Primero. Su coeficiente de seguridad disminuya por debajo de los índices fijados en la ITC 04.4-01.
+
+Segundo. El tiempo de servicio sea de dos años en las instalaciones con poleas Koepe. Con el informe técnico adecuado, la autoridad minera podrá prorrogar este plazo.
+
+Tercero. El número de hilos rotos en un metro de longitud alcance el 20 por 100 del total de hilos del cable.
+
+Cuarto. En las instalaciones con poleas Koepe multicable, su coeficiente de seguridad no cumpla la ITC 04.4-01, aunque el conjunto de la instalación lo cumpla.
+
+Quinto. En poleas Koepe multicables se reemplazarán simultáneamente todos los cables.
+
+Toda rotura de cable, aunque no produzca desgracias personales, se pondrá en conocimiento de la autoridad minera.
+
+#### 6. Dispositivos de amarre y suspensión.
+
+Los dispositivos de amarre y suspensión de la jaula o skip al cable de extracción serán desmontados y verificados bajo el punto de vista de desgaste y corrosión, una vez al año.
+
+#### 7. Proyecto e inspección de las instalaciones de extracción.
+
+La Dirección Facultativa de la mina mantendrá archivado el proyecto detallado de la instalación de extracción, con expresión de los parámetros de utilización (cargas, velocidades y aceleraciones, cables, radios de curvatura, etcétera), en el que se recogerán las posibles reformas y modificaciones que sufra durante su utilización.
+
+La autoridad minera podrá solicitar el estudio de estos proyectos y la inspección de las instalaciones a Entidades colaboradoras o Instituciones de carácter no lucrativo al objeto de comprobar que se continúan cumpliendo los parámetros de diseño que afectan a la seguridad.
+
+> Redactado el título conforme a la corrección de errores publicada en BOE núm. 196, de 16 de agosto de 1986. [Ref. BOE-A-1986-22054](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-22054). y el apartado 5 conforme a la corrección de errores publicada en BOE núm. 254, de 23 de octubre de 1986. [Ref. BOE-A-1986-28087](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-28087).
+
+## ESPECIFICACIONES PARA MINAS SUBTERRÁNEAS DE CARBÓN Y LABORES CON RIESGO DE EXPLOSIÓN.
+
+### VENTILACIÓN Y DESAGÜE. MINAS CON GRISÚ U OTROS GASES INFLAMABLES. VENTILACIÓN SECUNDARIA — Instrucción ITC 05.0-03
+
+#### 1. Prescripciones generales.
+
+En las labores en fondo de saco, además de las condiciones impuestas como reglas generales de ventilación, regirán las siguientes:
+
+Primera. Es preceptivo el uso de medios de ventilación auxiliares para establecer una ventilación secundaria a partir de los seis metros en las labores horizontales o descendente y de los cuatro metros en las labores ascendentes.
+
+Su instalación se hará de forma que se efectúe la toma de aire en los ventiladores impelentes o la expulsión en los ventiladores aspirantes, de manera que se recoja o se vierta el aire en la corriente general, o en otra secundaria de magnitud suficiente para la evacuación normal de los gases.
+
+Segunda. Si el avance de la galería se realiza con el empleo de explosivos, la ventilación en la inmediación del frente de la labor será siempre soplante y su caudal será superior a 0,1 metros cúbicos por segundo por cada metro cuadrado de sección de galería. Si el avance se realiza con máquinas de corte, la ventilación en el frente puede ser aspirante, pero su boca debe situarse a menos de 2 metros del mismo.
+
+Tercera. En los tramos en los que se solapan las tuberías, en los esquemas combinados, se mantendrá una circulación de aire mínima a lo largo de la galería de caudal superior a 0,1 metros cúbicos por segundo por cada metro cuadrado de sección de la galería.
+
+Cuarta. Los nuevos ventiladores y las conducciones no metálicas serán de modelos homologados por la Dirección General de Minas.
+
+Quinta. La Dirección Facultativa dictará disposiciones internas de seguridad en las que se contengan las condiciones generales de instalación, puesta en marcha, parada y retirada de estos equipos, que serán sometidas a la aprobación de la autoridad minera competente.
+
+#### 2. Prescripciones para la ventilación secundaria electrificada.
+
+En las instalaciones de ventilación secundaria, tanto los electroventiladores como sus cofres y cables de alimentación se instalarán, normalmente, fuera del fondo de saco y en emplazamientos bañados por la corriente de ventilación principal.
+
+El arranque del electroventilador deberá realizarse solamente desde su proximidad. La parada podrá realizarse indistintamente desde su proximidad o a distancia.
+
+Queda prohibida la disposición de mando con retención superior a 20 segundos, salvo permiso de la autoridad minera, que podrá permitirlo en los casos de labores con poco grisú, tales como las de la primera clase en lo referente al uso de explosivos que prevé la ITC 10.4-01.
+
+La autoridad minera podrá autorizar la instalación de electroventiladores dentro de los fondos de saco en los siguientes casos y condiciones:
+
+Escalonados a lo largo de la misma tubería, en cuyo caso la labor será poco grisuosa y el Director facultativo establecerá una DIS en la que se prevea el modo operatorio para restablecer la ventilación en caso de parada.
+
+El ventilador «soplante» situado en el frente en los esquemas aspirante-soplante, en cuyo caso:
+
+Primero. El ventilador soplante estará enclavado con el aspirante, de forma que si se produce la parada de éste, lo haga también aquél. El arranque no será posible si el aspirante no está en marcha.
+
+Segundo. El arranque del ventilador aspirante nunca originará el del soplante. Por el contrario, éste deberá realizarse individualmente y a pie del ventilador, previa comprobación de la no existencia de contenidos anormales de grisú en el frente.
+
+Tercero. El caudal de aire en el extremo del conducto aspirante debe ser, al menos, un 30 por 100 superior al que atraviesa el ventilador soplante, de forma que no se produzca recirculación en el flujo de aire que procede del frente de la labor. Para comprobar esta condición, se instalará un «palpador» en el conducto aspirante y en la zona de solape con el conducto soplante, tal que si la velocidad del aire desciende por debajo de un valor mínimo se produzca la parada del ventilador soplante.
+
+Cuarto. La parada del ventilador soplante originará la de la alimentación eléctrica de las máquinas que trabajan en el frente.
+
+Quinto. En un lugar próximo al frente de la labor, se instalará un grisuómetro de lectura automática, tal que si el contenido en este gas supera un valor prefijado se produzca la desconexión de las máquinas que trabajan en el frente y del ventilador soplante.
+
+En el caso de empleo de ventilación soplante electrificada, se instruirá al personal de la labor sobre las condiciones de su utilización.
+
+Para los ventiladores necesarios en las instalaciones de climatización y desempolvado, deberá enviarse un proyecto siguiendo las «Exigencias concernientes a las labores con ventilación secundaria que disponen de instalaciones de desempolvado y de climatización en las minas grisuosas», aprobadas por el Órgano Permanente de la seguridad en las Minas de la CEE con fecha 4 de mayo de 1983.
+
+La parada de las máquinas accionadas eléctricamente que trabajan en el fondo de saco no entrañará nunca la de los electroventiladores que ventilan aquél.
+
+Por el contrario, la ausencia de ventilación en un punto situado a menos de 20 metros del extremo de la tubería situada hacia el lado del fondo de saco entrañará obligatoriamente la parada de las máquinas ventiladas por esa tubería.
+
+El aire procedente del frente de la Iabor no bañará directamente los motores de los electroventiladores situados sobre la tubería que ventila este frente, a menos que exista un detector automático de metano que interrumpa su alimentación cuando se sobrepase un contenido del 1,5 por 100 de este gas en la proximidad del motor.
+
+#### 3. Situaciones en las que es obligado parar la ventilación secundaria.
+
+Debe pararse la ventilación secundaria eléctrica:
+
+Cuando el contenido en grisú de la atmósfera que baña el motor eléctrico o los cables y cofres de alimentación supere los límites que establece las ITC 09.9-03 e ITC 05.0-02. Este aspecto deberá tenerse específicamente en cuenta siempre que haya paradas de la ventilación principal.
+
+Cuando lo indiquen disposiciones internas de seguridad dictadas por el Director facultativo de la mina.
+
+#### 4. Actuación a seguir para el arranque de la ventilación secundaria.
+
+Después de una parada de la ventilación principal de duración tal que se haya procedido a desconectar la ventilación secundaria, el orden a seguir para el restablecimiento de ésta será el siguiente:
+
+Primero. Arranque del ventilador principal y funcionamiento durante un tiempo tal que permita la limpieza de la mina de tal forma que todo el aire del circuito principal se haya renovado, al menos, una vez.
+
+Segundo. Efectuada la «limpieza de la mina», restablecimiento de la tensión en las líneas de AT de electrificación de interior y de los transformadores de cuartel AT/BT.
+
+Tercero. Comprobado que en los emplazamientos donde se sitúa el material y en las galerías por las que se instalaron los cables no se superan los contenidos en grisú reglamentarios:
+
+Accionamiento de las «celdas de distribución» B.T. de las líneas de ventilación secundaria con exclusión de las ubicadas dentro del fondo de saco si excepcionalmente las hubiera.
+
+Accionamiento de los «cofres de alimentación» de los electroventiladores situados en la corriente de ventilación principal. Antes de proceder a este arranque se comprobará que no se da la situación prevista en el apartado 5.
+
+Cuarto. Una vez reconocido el grisú en los «fondos de saco» y comprobada la evacuación del mismo, restablecimiento de la tensión en el resto de las líneas de electrificación de interior.
+
+En todo caso:
+
+Los electroventiladores serán arrancados por el personal y bajo las recomendaciones específicas que se dictan en el apartado 5 u otras que dicte el Director facultativo de la mina.
+
+En el caso en que la ventilación secundaria sea accionada por aire comprimido, se seguirá el orden de restablecimiento siguiente:
+
+Primero. Arranque del ventilador principal y funcionamiento durante el tiempo necesario para la limpieza de la mina.
+
+Segundo. Accionamiento de la ventilación secundaria.
+
+Tercero: Reconocimiento de los fondos de saco y restablecimiento de la alimentación eléctrica de las máquinas.
+
+#### 5. Arranque de la ventilación secundaria en los casos de acumulaciones de grisú en el fondo de saco.
+
+Los ventiladores se arrancarán sucesivamente si existe algún otro escalonado o dentro del fondo de saco; antes de cada arranque se comprobará que el tramo de galería entre éste y el anterior ya está purgado y que tanto en este tramo como en el ventilador el contenido en grisú está por debajo del reglamentario.
+
+Antes del arranque se comprobará el correcto estado de los circuitos de control de aislamiento y la conexión equipotencial de las masas metálicas, incluido el mismo electroventilador con la puesta a tierra. Esta última condición podrá eliminarse en el caso de que el cofre de alimentación disponga de circuitos de bloqueo que impidan la conexión en caso de defecto de una fase a tierra y en caso de falta de continuidad del circuito de puesta a tierra.
+
+Para efectuar el arranque de los electroventiladores y la evacuación de las posibles acumulaciones de grisú se procederá de la siguiente forma:
+
+Primero. Se medirá el grisú en la corriente de aire principal que baña los equipos y se comprobará que es inferior al límite que establece las ITC 05.0-02 e ITC 09.9-03.
+
+Segundo. Se medirá el grisú en el interior del fondo de saco. Si su contenido es inferior al 2,5 por 100 se procederá al arranque del ventilador siempre y cuando que la corriente de aire principal a la que vierte no vaya a superar el 1 por 100 de contenido. Si su contenido es superior al 2,5 por 100 no se arrancará la instalación, se colocarán dos palos cruzados en la entrada de la labor, y se dará cuenta al Director facultativo. La purga de la labor sólo podrá hacerse bajo su orden y el método operativo que se da a continuación:
+
+Instrucciones para efectuar la purga de labores en fondo de saco con más del 2,5 por 100 de grisú
+
+Bajo la orden expresa del Director facultativo de la mina, la purga de estas labores podrá hacerse de una de las dos formas siguientes:
+
+a) Purga rápida. En este caso se desalojará al personal que se encuentre en el retorno que hayan de recorrer los gases y se desconectarán las instalaciones eléctricas que puedan encontrarse con tensión en el mismo.
+
+A continuación se arrancará el electroventilador. Se calculará el tiempo de limpieza del fondo de saco, y transcurrido éste se comprobará que su contenido en grisú ha descendido por debajo de los valores autorizados.
+
+b) Purga lenta. En este caso la limpieza del fondo de saco se hará lentamente de forma que los caudales de gases que se extraigan del mismo puedan ser diluidos por la corriente principal sin que en ésta el contenido en grisú supere el límite que establece la ITC 05.0-02 e ITC 09.9-03.
+
+En tal caso, la purga se hará sin desalojar al personal que se encuentre en el retorno y sin desconectar las instalaciones eléctricas. Se procederá de la siguiente forma:
+
+Delante del ventilador y, en todo caso, en un lugar bañado por la corriente de ventilación principal se provocará una fuga en la tubería desacoplando parcialmente, por ejemplo, uno de los tubos.
+
+De esta forma el caudal de aire que se aspira o que se sopla del frente será más reducido y además su contenido en grisú se diluirá debido al aporte de aire fresco que se produce en la fuga.
+
+Un segundo operario controlará el grisú en el retorno del fondo de saco, comprobando que éste no supere el límite del 1 por 100. Estará en comunicación con el primer operario, al objeto de que éste abra o cierre más o menos la fuga provocada.
+
+#### 6. Instalación y conservación de las tuberías.
+
+Se utilizarán tipos de tuberías diseñadas para alcanzar buena estanqueidad a las fugas del aire para lo cual se tendrá en cuenta la sección de las labores, su ubicación y el riesgo de deterioro por los materiales que circulen.
+
+Los distintos tubos o tramos de tubería se enlazarán mediante uniones adecuadas que aseguren una buena estanqueidad y mediante las cuales los tubos o tramos no sean fácilmente desacoplables.
+
+En las D. I. S. el Director facultativo indicará los tipos de tubería y uniones a utilizar y las normas para su instalación, que se pondrán en conocimiento del personal encargado.
+
+#### 7. Situación de la base de la ventilación secundaria.
+
+En la base desde la que se realiza la toma de aire para la ventilación secundaria, el caudal de aire de ventilación principal Q que circula debe ser tal que Q = 1,3 q<sub>v</sub>, siendo q<sub>v</sub> el caudal del ventilador o ventiladores instalado en el conducto de ventilación secundario.
+
+#### 8. Casos especiales.
+
+La ventilación de niveladuras, sobreguías o emplazamientos difícilmente accesibles a la corriente de ventilación principal se realizará según disposiciones internas de seguridad que serán puestas en conocimiento de los vigilantes.
+
+La ventilación de chimeneas, contrataques y coladeros dentro del taller se hará según disposiciones internas de seguridad dictadas por el Director facultativo. En las labores ascendentes en carbón se procurará que el chorro de aire sople activamente contra el carbón sin que otros objetos lo impidan, utilizando para ello los accesorios que convenga, tales como difusores de aire comprimido u otros.
+
+#### 9. Restablecimiento de la ventilación secundaria después de los períodos de inactividad.
+
+Con anterioridad al restablecimiento de los trabajos después de los períodos de inactividad en los que se hubiera parado la ventilación secundaria, ésta se pondrá en marcha con un mínimo de dos horas antes de la entrada del relevo.
+
+Además, antes de esta entrada, un vigilante o persona especialmente designada por el Director facultativo recorrerá los retornos principales de la mina, comprobando en ellos que el contenido de grisú y otros gases, sobre todo CO<sub>2</sub> y CO, no alcanza los límites reglamentarios. Este reconocimiento será en todo caso recogido en una D.I.S.
+
+Esta última inspección puede ser suprimida cuando exista un sistema de telemetría centralizado en el exterior que ofrezca a juicio de la autoridad minera una eficacia similar.
+
+#### 10. Paradas de la ventilación secundaria en los períodos de actividad.
+
+Como norma general deben ventilarse todos los fondos de saco durante los períodos de actividad de la mina.
+
+En el caso de detención temporal de labores podrá pararse la ventilación secundaria, cumpliendo los siguientes requisitos:
+
+Primero. Se prohibirá la entrada a la labor, marcándola con dos palos en cruz de San Andrés.
+
+Segundo. Un vigilante reconocerá la labor con la periodicidad que se indique en la D.I.S.
+
+Si en este reconocimiento se detecta la existencia de gases en cantidad peligrosa, se procederá a:
+
+Bien a la evacuación de estos gases.
+
+Bien a tabicar la labor.
+
+Cuando se abandone definitivamente la labor ésta se aislará mediante tabiques o sistemas de similar eficacia. Las culatas resultantes no tendrán una profundidad de más de tres metros respecto del flujo de aire que recorre la galería limítrofe. Se dejarán tubos, uno en la parte superior y otro en la inferior con llaves para la recogida futura de gases y, si fuera necesario, un sifón para la evacuación de aguas.
+
+> Redactados los apartados 1, 5 y 10 conforme a la corrección de errores publicada en BOE núm. 196, de 16 de agosto de 1986. [Ref. BOE-A-1986-22054](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-22054).
+
+## ELECTRICIDAD
+
+### TALLERES DE REPARACIONES DE MATERIAL ELÉCTRICO PARA TRABAJOS CON ATMÓSFERA POTENCIALMENTE EXPLOSIVA — Instrucción ITC 09.0-13
+
+#### 1. Objeto y campo de aplicación.
+
+La presente instrucción tiene por objeto establecer los requisitos generales que deben cumplir los talleres en que se repare material eléctrico homologado por la Dirección General de Minas para uso en atmósfera con riesgo de explosión.
+
+#### 2. Autorización.
+
+La reparación de material eléctrico homologado para trabajos con atmósfera potencialmente explosiva solamente podrá realizarse en talleres expresamente autorizados para ello por la Dirección General de Minas, a menos que los talleres sean de los propios constructores del material.
+
+#### 3. Condiciones de funcionamiento.
+
+El funcionamiento de estos talleres estará sujeto a la presentación de una Memoria anual de actividades a la autoridad competente, por parte del Director responsable.
+
+Se deberá expedir un certificado, firmado por el Ingeniero Director, de todo material reparado, en el que consten las reparaciones efectuadas y las comprobaciones que garanticen que el material ha quedado acorde con la norma o normas relativas a su fabricación. Este certificado es sólo asimilable al certificado del fabricante contemplado en el artículo 166 del Reglamento General Básico de Seguridad Minera.
+
+La autoridad minera competente podrá requerir que algunas o todas de las reparaciones efectuadas sean sometidas a dictamen de un laboratorio oficial acreditado y reconocido por la Dirección General de Minas, y velará por el cumplimiento de las condiciones de reparación aprobadas.
+
+### PLATAFORMAS DE HIDROCARBUROS — Instrucción ITC 09.0-14
+
+#### 1. Objeto.
+
+La presente instrucción tiene por objeto establecer los requisitos que han de cumplir las instalaciones eléctricas ubicadas en plataforma de hidrocarburos.
+
+#### 2. Definiciones.
+
+Plataforma de hidrocarburos. En los términos de la presente ITC, se denomina así a cualquier unidad que, o bien apoyada en el fondo marino o bien flotando sobre el nivel del mar, sea utilizada para fines de perforación o explotación de yacimientos de hidrocarburos líquidos o gaseosos.
+
+#### 3. Clasificación de áreas peligrosas.
+
+Las áreas peligrosas se clasificarán de la siguiente manera:
+
+Zona 0. Área en la cual una atmósfera peligrosa está presente de forma continua o durante largos períodos de tiempo.
+
+Zona 1. Área en la cual una atmósfera peligrosa puede presentarse como resultado de operaciones normales de trabajo.
+
+Zona 2. Área en la cual una atmósfera peligrosa en condiciones normales no se presenta nunca, y si ocurriera sería por espacios cortos de tiempo como consecuencia de condiciones anormales o transitorias.
+
+En general, se considerarán áreas o zona 0 los espacios interiores de recipientes, tanques y conducciones para lodo activo, así como interiores de recipientes, tanques y conducciones de los hidrocarburos líquidos o gaseosos resultantes de la perforación del yacimiento.
+
+Se considerarán áreas de zona 1:
+
+a) Las salas cerradas conteniendo vibradores, desarenadores, desgasificadores, tanques abiertos de lodo activo de perforación y que estén en contacto con la atmósfera de la sala.
+
+b) En instalaciones al aire libre, el área comprendida dentro de 1,5 metros medidos horizontalmente desde cualquier equipo abierto de los especificados en a).
+
+Asimismo, se considerarán como áreas zona 1 las instalaciones al aire libre que, sin tener instalados los equipos mencionados anteriormente, estuvieran situados a 1,5 metros de las salidas de ventilación de las salas clasificadas como áreas de zona 1.
+
+c) Balsas, conductos y similares en emplazamientos que en otros casos se clasificarían como áreas zona 2, pero que están situados de forma tal que los gases combustibles tienen posibilidad de concentrarse.
+
+d) Las salas no ventiladas con accesos desde áreas clasificadas como zona 2.
+
+Se considerarán áreas o zona 2:
+
+a) Las salas cerradas conteniendo tanques y líneas de lodo cerradas y sistemas de bombeo de Iodo activo.
+
+b) En instalaciones al aire libre: Dentro de los 15 metros de distancia medidos horizontalmente desde la sarta de perforación y 3 metros por encima y 9 metros por debajo de la mesa de rotación.
+
+c) En áreas alrededor de las zonas 1, tal y como se han especificado anteriormente, se considerará zona 2 el espacio comprendido dentro de una distancia de 3 metros medidos horizontalmente.
+
+Dentro de 1,5 metros medidas horizontalmente desde las salidas de ventilación de las salas cerradas consideradas como zona 2.
+
+La plataforma de perforación.
+
+#### 4. Áreas de seguridad.
+
+Se denominan de esta forma las áreas en las cuales no existe riesgo de que se presente una atmósfera peligrosa.
+
+Se considerarán áreas de seguridad aquellas no mencionadas anteriormente, así como aquellas salas que normalmente debieran clasificarse como zona 2, pero que debido a las condiciones especiales en cuanto a ventilación se refiere pueden considerarse como seguras.
+
+#### 5. Requisitos generales.
+
+Serán de aplicación las instrucciones que correspondan de los vigentes reglamentos electrotécnicos para alta y baja tensión, especialmente la instrucción MIBT 026.
+
+#### 6. Instalaciones de emergencia.
+
+Toda plataforma deberá disponer de una fuente propia de alimentación de emergencia instalada tan alta y tan lejos de las áreas peligrosas como sea posible.
+
+La fuente de emergencia podrá estar constituida por:
+
+Una batería de acumuladores capaz de transportar la carga de emergencia sin necesidad de recarga o excesiva caída de tensión.
+
+Un generador movido por un motor con suministro independiente de gasóleo (el gasóleo a utilizar deberá tener un punto de ignición superior a 43 grados centígrados).
+
+La fuente de emergencia deberá ser capaz de funcionar cuando la unidad esté inclinada hasta un ángulo de 22,5 grados, en cualquier dirección.
+
+La potencia suministrada por esta fuente de emergencia deberá ser suficiente para mantener un mínimo de seis horas los siguientes servicios:
+
+Luces de emergencia.
+
+Instalaciones de radio.
+
+Alarma general.
+
+Sistema de alarma y detección de fuegos.
+
+Luces de navegación.
+
+### INSTALACIONES DE INTERIOR. ALUMBRADO — Instrucción 09.0-15
+
+#### 1. Objeto.
+
+Esta instrucción tiene por objeto indicar las prescripciones mínimas que deben cumplir las instalaciones de alumbrado alimentadas por la red eléctrica de la mina.
+
+#### 2. Tipos de alumbrado.
+
+A efectos de aplicación de la presente Instrucción, se distinguirán tres tipos de alumbrado:
+
+a) Alumbrado con lámparas portátiles.
+
+b) Alumbrado fijo de galerías.
+
+c) Alumbrado de frentes.
+
+#### 3. Prescripciones comunes a todas las minas.
+
+3.1 Alumbrado con lámparas portátiles.
+
+Las lámparas portátiles deberán estar alimentadas a pequeña tensión de seguridad (PTS), según la ITC 09.0-02.
+
+La utilización de lámparas portátiles se reducirá a lo estrictamente necesario y se limitará a lugares concretos, tales como salas de bombas, talleres de reparación, etcétera, los cuales deberán estar relacionados en las Disposiciones Internas de Seguridad.
+
+Las lámparas portátiles deberán estar provistas de una rejilla protectora capaz de soportar sin deterioro un impacto de 20 J.
+
+3.2 Alumbrado fijo de galerías.
+
+La tensión máxima nominal de utilización será 220 voltios (ITC 09.0-02).
+
+Para tensiones superiores a la PTS (ITC 09.0-02), deberá existir un sistema de protección contra fallos de aislamiento y derivaciones a tierra, al comienzo de cada derivación destinada total o parcialmente a alumbrado.
+
+La protección contra sobreintensidades de un grupo de luminarias podrá hacerse mediante un solo dispositivo, siempre que la intensidad total del grupo sea menor de 6 A. La protección será individual para cada lámpara de intensidad superior a 6 A.
+
+Caso de utilizar fusibles como elemento de protección contra sobreintensidades, sólo están autorizados los cartuchos de fusión rápida.
+
+Las luminarias estarán provistas de una envolvente, con el grado de protección adecuado según se prescribe en la ITC 09.0-03.
+
+Las conexiones de las luminarias no podrán efectuarse con conductores de sección inferior a 2,5 milímetros cuadrados.
+
+No se permite, en ningún caso, que los conductores soporten el peso de la luminaria.
+
+Queda prohibido el empleo de lámpara de gases con descarga de alta tensión o con vapor de sodio.
+
+Las armaduras o partes metálicas de las luminarias estarán interconectadas entre sí y unidas a la red equipotencial correspondiente.
+
+Se utilizarán luminarias conforme a las especificaciones técnicas correspondientes de la Dirección General de Minas a propuesta de la Comisión de Seguridad Minera, o a normas UNE.
+
+El aislamiento de los conductores de acometida será compatible con las temperaturas de servicio, en los recintos de conexión de las luminarias.
+
+La entrada del cable a la luminaria se hará de modo que los esfuerzos mecánicos sobre el cable no se transmitan a las conexiones de sus conductores, evitándose asimismo en el punto de entrada del cable radios de curvatura inadecuada.
+
+3.3 Alumbrado de frentes.
+
+Son de aplicación todos los requisitos señalados para las luminarias de galería.
+
+Se utilizarán luminarias conforme a las especificaciones técnicas correspondientes de la Dirección General de Minas a propuesta de la Comisión de Seguridad Minera, o a normas UNE si éstas existen.
+
+#### 4. Prescripciones especificas para minas con grisú.
+
+Además de todo lo especificado en el apartado 3, se cumplirá lo siguiente:
+
+En emplazamientos clasificados como con riesgo de presencia de grisú, se utilizarán luminarias con modos de protección adecuados, según prescribe la ITC 09.0-03.
+
+El empleo de luminarias con envolventes de aleación ligera queda prohibido en tajos; en galerías estas luminarias deberán instalarse al abrigo de impactos mecánicos.
+
+Las luminarias con envolventes o partes de envolvente plástica que no tengan la suficiente conductividad para ser consideradas como electrostáticamente seguras, se limpiarán exclusivamente con paños húmedos y se instalarán de modo que el riesgo electrostático esté minimizado (no enfrentándose a protuberancias metálicas, etcétera).
+
+### SONDEOS — Instrucción ITC 09.0-16
+
+#### 1. Objeto.
+
+Esta instrucción tiene por objeto establecer los requisitos que han de cumplir los equipos e instalaciones eléctricas en sondeos de interior de minas y en superficie para que su nivel de riesgo sea aceptable.
+
+#### 2. Sondeos en general.
+
+Se cumplirá todo lo especificado en los vigentes Reglamentos para Alta y Baja Tensión según corresponda, considerándose emplazamientos especiales.
+
+Los equipos que puedan verse sometidos a polvo, agua e impactos dispondrán de un grado IP adecuado; como orientación puede seguirse la ITC 09.0-03.
+
+#### 3. Sondeos sujetos a emanaciones de fluidos inflamables.
+
+Además de las mismas prescripciones que se fijan en el apartado anterior, se cumplirán los requisitos de la instrucción MIBT 026 del vigente Reglamento para Baja Tensión.
+
+#### 4. Sondeos en interior de minas.
+
+Se cumplirán todas las ITC de este Reglamento que correspondan, relativas a instalaciones de interior.
+
+### INSTALACIONES DE INTERIOR. MONTAJE, EXPLOTACIÓN Y MANTENIMIENTO — Instrucción 09.0-17
+
+#### 1. Objeto de la instrucción.
+
+El objeto de esta instrucción es fijar las normas que deben cumplirse en los trabajos de mantenimiento, montajes y explotación relacionadas con las instalaciones eléctricas de interior en labores mineras.
+
+#### 2. Normas para desconexión y reconexión de la red.
+
+2.1 Desconexión de la red.
+
+En la desconexión de un sector de la red hay que asegurarse de la ausencia de tensión de la siguiente manera:
+
+Primero. Desconectando todos los polos mediante un seccionador.
+
+Segundo. La persona encargada de la desconexión debe asegurarse personalmente de que se realizó la misma.
+
+En el caso de que no realice personalmente los trabajos en la línea, debe comunicar la desconexión efectuada a la persona responsable de la ejecución de los trabajos, de forma que excluya errores de interpretación. El acuerdo acerca del momento de la desconexión no es suficiente.
+
+Tercero. Hay que colocar letreros de aviso en los aparatos de interrupción que sirvan para la desconexión, prohibiendo la conexión de los mismos.
+
+Cuarto. En el caso de que los aparatos de interrupción sean de accionamiento magnético o por motor, hay que desconectar el circuito eléctrico que los acciona, de forma que no sea posible una energización inadvertida del accionamiento.
+
+Quinto. Después de efectuada la desconexión y antes de iniciar los trabajos, hay que asegurarse de que las partes de la instalación en la que se quiere trabajar están sin tensión.
+
+Sexto. Después de realizar lo indicado en el apartado anterior, hay que poner a tierra las partes conductoras en las que se quiere trabajar, y luego cortocircuitarlas. En minas con ambientes grisuosos, el arco de descarga a tierra debe producirse en el interior de una envolvente antideflagrante cerrada.
+
+Séptimo. Si existe el peligro, en el caso de trabajos en cables o conducciones, de confundir unos con otros, hay que desconectar también los que se presten a confusión.
+
+2.2 Reconexión de la red.
+
+Una vez finalizado el trabajo eliminado el cortocircuito, suprimida su puesta a tierra y retirada toda la herramienta y accesorios del lugar de trabajo, la persona responsable podrá reconectar la tensión o avisar, de forma que excluya toda clase de errores de interpretación, a la persona encargada de la reconexión. El acuerdo acerca del momento de la reconexión no es suficiente. La persona encargada de la reconexión deberá avisar, una vez haya realizado dicha maniobra, al responsable de los trabajos.
+
+#### 3. Mantenimiento.
+
+3.1 Mantenimiento con equipos eléctricos.
+
+Como norma general, todo trabajo efectuado en el interior de equipos eléctricos se realizará sin tensión siguiendo las normas del apartado 2 de esta instrucción; se admiten las siguientes excepciones:
+
+3.1.1 Emplazamientos clasificados en nivel 0 (ITC 09.0-03):
+
+a) Instalaciones de pequeña tensión de seguridad (ITC 09.0-02).
+
+No es preciso considerar precauciones particulares.
+
+b) Otras instalaciones eléctricas.
+
+Las excepciones son:
+
+Que la desconexión de la instalación pueda suponer riesgos para el personal.
+
+Que por imperativos técnicos el trabajo deba efectuarse con tensión.
+
+Estos trabajos deberán limitarse a lo estrictamente necesario y no ser efectuados más que si se han tomado las suficientes medidas de seguridad, es decir:
+
+El personal está cualificado e instruido de las precauciones para evitar los peligros debidos a la electricidad, así como sobre la realización de trabajos en partes en tensión.
+
+El personal anterior dispone del material necesario para la buena ejecución del trabajo, su protección y la delimitación de la zona de trabajo.
+
+El modo operatorio será objeto de una disposición interna de seguridad y los trabajos serán llevados a cabo por al menos dos personas con la calificación adecuada.
+
+3.1.2 Emplazamientos clasificados en nivel superior al 0:
+
+a) Instalaciones de seguridad intrínseca y pequeña tensión de seguridad.
+
+El trabajo sólo debe llevarse a cabo si se dan los supuestos de excepcionalidad considerados en el apartado b) de 3.1.2.
+
+En todo caso, además:
+
+El contenido de grisú no puede encontrarse en proporción superior al 1 por 100.
+
+Los trabajos no comprometen las medidas tomadas para que los circuitos sean intrínsecamente seguros [Nota: Las fuentes de alimentación y los equipos eléctricos asociados a estas instalaciones y que no son de seguridad intrínseca se rigen por las prescripciones del apartado b) siguiente].
+
+b) Otras instalaciones.
+
+El trabajo en partes con tensión o en sus proximidades estará subordinado a la autorización del responsable del servicio eléctrico que antes de extenderlas deberá tener la confirmación de un responsable de la explotación, de que no habrá modificación de las condiciones de ventilación en el entorno del trabajo (por ejemplo, por operaciones de desgasificación, modificaciones del esquema de ventilación, etc.).
+
+Los trabajos deberán llevarse a cabo por personal cualificado, en presencia del responsable del servicio eléctrico y siempre que el contenido en grisú no rebase el 1 por 100; esto se controlará mediante un medidor continuo o con un aparato discontinuo utilizado por un encargado especial de su manejo, adecuadamente instruido.
+
+El trabajo cesará en caso de detectarse subida en la concentración de grisú, o si se detectan perturbaciones en las condiciones de ventilación.
+
+En cualquier caso –apartados a) y b) anteriores–, los trabajos se limitarán a lo estrictamente necesario y se realizarán en las condiciones especificadas en el apartado b) de 3.1.2.
+
+3.2 Revisiones periódicas.
+
+En el plan de revisiones de cada instalación, incluido en las disposiciones internas de seguridad, aprobadas por la autoridad minera competente, se fijarán las frecuencias con que se llevarán a cabo las operaciones de revisión periódica del equipo y los documentos de control que acrediten las revisiones realizadas, con constancia de sus resultados y de los responsables de las mismas a todos los niveles.
+
+En todo caso son obligatorias las verificaciones siguientes:
+
+Al inicio de cada relevo, lectura y comprobación de los dispositivos de control de aislamiento.
+
+Semanalmente, examen de las redes de conexión equipotencial de máquinas móviles.
+
+Mensualmente, examen de los equipos eléctricos portátiles en el taller de reparación.
+
+Bimestralmente, examen de las redes fijas de conexión equipotencial de masas y medida de la resistencia de las tomas de tierra.
+
+#### 4. Montajes.
+
+4.1 Trabajos de montaje.
+
+Toda operación de montaje de instalaciones modificadas o nuevas, deberá efectuarse sin tensión; para ello, se seguirán las normas dadas en el apartado 2 de esta instrucción.
+
+Cuando se trate de labores clasificadas en el nivel 0, se podrán observar las excepciones siguientes:
+
+Primera. Trabajos de montaje realizados en instalaciones con una tensión nominal de pequeña tensión de seguridad.
+
+Segunda. Excepcionalmente, aquellas instalaciones de baja tensión, cuya interrupción en la alimentación eléctrica comprometa la seguridad de la mina.
+
+En este caso, se adoptarán medidas de protección especiales para garantizar la seguridad del personal, los trabajos se realizarán en presencia del responsable del montaje.
+
+#### 5. Explotación.
+
+5.1 Instrucción del personal.
+
+Las personas que no pertenezcan al servicio de mantenimiento y que no sean las indicadas en la ITC 09.0-10, y que por razón de su trabajo estén relacionadas con el manejo de aparatos eléctricos, deberán ser instruidas para tal fin. Para ello, se tendrán en cuenta, entre otras, las siguientes observaciones:
+
+Primera. La reconexión de cualquier aparato o cable que haya sido probado, reparado o sustituido, sólo podrá realizarse por personal de mantenimiento.
+
+Segunda. Cuando se produzca un disparo por fallo a tierra o cortocircuito, se admitirá que el personal de explotación realice un rearme, pero si el disparo se repite no intentará rearmarlo de nuevo y avisará al personal de mantenimiento eléctrico; quien lo rearmará después de haber eliminado la deficiencia que causó la desconexión.
+
+Tercera. Cuando una persona observe un defecto en la instalación eléctrica que pueda causar condiciones peligrosas, desconectará el suministro eléctrico, si está autorizado expresamente para ello; en caso contrario dará cuenta inmediatamente a su mando superior o al personal de mantenimiento eléctrico.
+
+Cuarta. Como norma general, todo manejo, movimiento o traslado de cables o equipos conectados a la red se hará sin tensión. No obstante, cuando esto no sea posible por las características de la maquinaria o el método de explotación, deberán disponerse dichos cables y equipos de manera que las operaciones de movimiento previstas no generen tensiones mecánicas en cables ni prensaestopas, y que no existan riesgos de caídas, deslizamientos o golpes en el material eléctrico, ni daños al personal.
+
+> Redactados los apartados 3.2 y 5.1 conforme a la corrección de errores publicada en BOE núm. 196, de 16 de agosto de 1986. [Ref. BOE-A-1986-22054](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-22054).
+
+### INSTALACIONES DE INTERIOR. COMUNICACIÓN Y SEÑALIZACIÓN — Instrucción ITC 09.0-18
+
+#### 1. Objeto.
+
+Esta Instrucción tiene por objeto fijar las prescripciones generales que se deben aplicar en las instalaciones de comunicación y de señalización, sin perjuicio de otros condicionantes derivados de la ITC 09.0-02.
+
+#### 2. Tensiones.
+
+Las instalaciones telefónicas se alimentarán a tensión inferior a 50 V. Los equipos telefónicos instalados en labores mineras con nivel de peligrosidad igual o superior a 3 (ITC 09.0-03) serán de seguridad intrínseca. Si forman parte de los Sistemas de Comunicación que deben ser mantenidos en funcionamiento cuando la concentración de metano (CH<sub>4</sub>) sea superior al límite reglamentario (articulo 124 del RGNBSM), serán de seguridad intrínseca de categoría «i<sub>a</sub>».
+
+Para las instalaciones de señalización se admiten tensiones de hasta 220 V.
+
+#### 3. Transformadores de alimentación.
+
+Los transformadores de alimentación de las instalaciones telefónicas y de señalización deben ser de uno de los siguientes tipos:
+
+Transformadores con primario y secundario sobre distintas columnas.
+
+Transformadores con primario y secundario sobre la misma columna, con una pantalla metálica unida a tierra y capaz de soportar durante el tiempo de actuación de las protecciones, la corriente que se deriva a tierra por un contacto con el primario.
+
+Transformadores con el primario y secundario sobre la misma columna, con una pantalla aislante, en cuyo caso debe cumplirse lo establecido para la separación entre arrollamientos en la norma UNE 20.339, sobre transformadores de seguridad.
+
+#### 4. Otras prescripciones.
+
+Tanto las instalaciones telefónicas como de señalización, deberán estar protegidas contra cortocircuitos. Sus conductores estarán dispuestos de manera que no puedan ponerse en contacto con los de otras canalizaciones o aparatos eléctricos o establecer un cierre accidental de su propio circuito.
+
+Estas instalaciones deberán protegerse convenientemente contra todo riesgo derivado de fenómenos de inducción.
+
+Los cables utilizados para circuitos de señalización no podrán llevar más conductores suplementarios que los de telefonía. Si la instalación telefónica es de seguridad intrínseca, los conductores de su línea no podrán estar situados en cables que contengan otros conductores que por su utilización pudieran comprometer este modo de protección.
+
+En la sala de máquinas de extracción se instalará un dispositivo que indique, de forma fiable, cualquier fallo en el circuito de señales utilizado para la extracción.
+
+## EXPLOSIVOS
+
+### NORMAS GENERALES — Instrucción ITC 10.0-01
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única, letra l) del Real Decreto 130/2017, de 24 de febrero. [Ref. BOE-A-2017-2313](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2313).
+
+### TRANSPORTES INTERIORES — Instrucción ITC 10.0-02
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única, letra m) del Real Decreto 130/2017, de 24 de febrero. [Ref. BOE-A-2017-2313](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2313).
+
+### ALMACENAMIENTO — Instrucción ITC 10.1-01
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única, letra n) del Real Decreto 130/2017, de 24 de febrero. [Ref. BOE-A-2017-2313](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2313).
+
+> Redactados los apartados 6 y 9 conforme a la corrección de errores publicada en BOE núm. 196, de 16 de agosto de 1986. [Ref. BOE-A-1986-22054](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-22054).
+
+### EXPLOSIVOS-UTILIZACIÓN — Instrucción ITC 10.2-01
+
+#### 1. Personal autorizado
+
+1.1 Solo estarán capacitados para uso de explosivos aquellas personas que, especialmente designadas por la Dirección Facultativa,estén en posesión de un certificado de aptitud, expedido por la Dirección Provincial del Ministerio de Industria y Energía, el cual les autorice para el tipo de trabajo y por el periodo de tiempo que, en dicho certificado, se especifique.
+
+1.2 El periodo de validez del certificado de aptitud a que se ha hecho referencia en el punto anterior, en ningún caso será superior a cinco años, y en el se hará constar, de manera clara e inequívoca, la facultad o facultades que confiere. En la correspondiente «Cartilla de Artillero» se hará constar, por lo demás, si el titular es apto solo para efectuar pegas con mecha, o solo para pegas eléctricas, o para ambas, y para realizarlas en exterior o interior, especificando en este ultimo caso, si le faculta para efectuarlas en minas con atmósferas inflamables; o pegas submarinas.
+
+1.3 La Dirección Facultativa comunicará anualmente a la autoridad minera correspondiente las altas y bajas en la relación nominal de este personal.
+
+Las restantes personas que manejen o manipulen explosivos, distintas de los artilleros anteriormente aludidos, deberán ser debidamente instruidos por la Dirección Facultativa, en los terminos que establezca, al respecto, la disposición interna de seguridad.
+
+#### 2. Carga de barrenos
+
+2.1 Antes de introducir la carga, el barreno se limpiara adecuadamente para evitar rozamientos, atranques de los cartuchos de explosivo, etc.
+
+Si en un barreno descendente se detectara la presencia de agua, se tomarán las medidas oportunas, utilizándose el explosivo adecuado.
+
+Si la temperatura en el interior de los barrenos excediese de 65 ºC, no se cargarán sin tomar precauciones especiales aprobadas por la autoridad minera.
+
+2.2 La carga, cuando se trate de explosivos encartuchados, estará constituida por una fila de cartuchos en perfecto contacto.
+
+En el caso de carga discontinua, con intervalos vacios o inertes entre cartuchos, deberá asegurarse la detonación de los mismos mediante el empleo de cordón detonante o un sistema de iniciación adecuado. Caso de emplearse espaciadores, estos serán de material que, en ningún caso, propague la llama y sea antiestático.
+
+En la carga con explosivos encartuchados la diferencia entre el diámetro de estos y el del barreno debe ser la adecuada para evitar el acuñamiento del explosivo.
+
+2.3 Si, en el transcurso de la perforación de un barreno, se detectan cavidades, fisuras o grietas quedara terminantemente prohibida la carga a granel del mismo, salvo que se adopten las medidas necesarias que eviten la acumulación de explosivos fuera del barreno.
+
+2.4 Durante la carga de los barrenos, principalmente, si se trata de explosivos a granel, se tomarán por el personal autorizado las medidas necesarias para comprobar que la cantidad de explosivo introducido es, como máximo, la teórica calculada para el barreno. En el momento en que se detecte la introducción de una cantidad superior de explosivo, se procederá a interrumpir la operación de carga, considerándose a tal barreno como fallido, salvo que haya garantía razonada de la no existencia de riesgo por las posibles proyecciones.
+
+2.5 Las máquinas y elementos auxiliares empleados para la carga mecánica de barrenos deberán haber sido previamente autorizados y homologados por la Dirección General de Minas, haciéndose constar expresamente en la homologación los explosivos, que podrán ser cargados con las mismas.
+
+2.6 No podrá realizarse simultáneamente, en un mismo frente o tajo, la perforación y la carga de los barrenos, salvo autorización de la autoridad minera, a propuesta razonada de la Dirección Facultativa de la Explotación, en las que se detallarán las condiciones de la operación y las medidas de seguridad adoptadas, las cuales se incorporarán, en su caso, a la disposición interna de seguridad.
+
+#### 3. Cartucho-cebo
+
+3.1 El cartucho-cebo debe ser preparado inmediatamente antes de la carga.
+
+El detonador debe ser lo suficientemente enérgico para asegurar la explosión del cartucho-cebo, aun al aire libre.
+
+3.2 El uso de más de un cartucho-cebo por barreno deberá contar con la autorización previa de la autoridad minera competente, que fijará las condiciones para tal uso.
+
+3.3 Cuando se utilice cordón detonante a lo largo del barreno, tanto en el caso de pega con mecha como en el supuesto de pega eléctrica, el detonador se adosará al principio del cordón detonante, con el fondo del mismo dirigido en el sentido de la detonación.
+
+3.4 Todo cartucho cebado que no se utilice debe ser privado de su detonador, realizando la operación de la misma persona que preparo el cebo.
+
+#### 4. Retacado
+
+4.1 El retacado de los barrenos debe asegurar convenientemente el confinamiento del explosivo. En general, su longitud debe ser igual a la línea de menor resistencia del barreno, y, en todo caso, nunca podrá ser inferior a 20 centímetros, excepto para el taqueo en el que se podrá rebajar a la mitad. Asimismo, se efectuará con materiales que sean suficientemente plásticos, que, en ningún caso, propaguen la llama y que sean antiestáticos.
+
+4.2 Para efectuar el retacado se utilizarán atacadores de madera u otros materiales adecuados que no sean capaces de producir en contacto con las paredes del barreno, chispas o cargas eléctricas. Su diseño será tal que no presente ángulos o aristas vivos que puedan provocar la ruptura de la envoltura de los cartuchos, los hilos de los detonadores, los cordones o las mechas empleadas.
+
+#### 5. Disparo de barrenos
+
+5.1 La autoridad minera podrá limitar total o parcialmente durante los disparos el número de personas presentes en la mina, cuando las circunstancias lo aconsejen.
+
+5.2 Entre la carga de los barrenos y la pega transcurrirá el menor tiempo posible.
+
+En los trabajos subterráneos las pegas se darán ordinariamente a horas preestablecidas, salvo autorización expresa de la autoridad minera. El horario de las pegas quedará recogido en la disposición interna de seguridad.
+
+5.3 Todo barreno cargado quedará bajo vigilancia cuando sea posible el acceso al mismo, o no esté debidamente señalizado, de acuerdo con lo que dispongan las disposiciones internas de seguridad.
+
+5.4 En los trabajos de voladura, antes de conectar la línea de tiro al explosor, si se utiliza pega eléctrica o de encender las mechas, si se utilizan estas, el responsable de la misma comprobara que están bajo vigilancia todos los accesos al lugar en que se va a producir la explosión.
+
+Dicha vigilancia se ejercerá por operarios, preferentemente, o por medio de señales ópticas o acústicas.
+
+Cuando se hayan colocado operarios o instalado barreras o señales, no serán retirados ni unos ni otras hasta que el responsable de la voladura autorice de nuevo el acceso a la labor.
+
+En todos los casos, antes de proceder a la pega, el responsable de la voladura deberá asegurarse de que todo el personal de las inmediaciones esta convenientemente resguardado, y será el ultimo en abandonar la labor, situándose a continuación en refugio apropiado.
+
+5.5 Cualquiera que sea el tipo de pega empleado, el frente se reconocerá por el responsable de la labor, con anterioridad a la reanudación de los trabajos, prestando especial atención a la posible existencia de barrenos fallidos.
+
+5.6 Cuando dos frentes converjan o avancen en direcciones opuestas, y sea posible que, a consecuencia de los disparos en uno de ellos, se produzcan proyecciones o caídas de piedras en el otro, el vigilante debe suspender el trabajo en la labor amenazada o en todo el sector, con antelación suficiente, hasta dar cuenta a la Dirección Facultativa y recibir sus órdenes.
+
+#### 6. Precauciones en el caso de pega eléctrica
+
+6.1 En el caso de pega eléctrica, antes de comenzar a cargar los barrenos se tomarán las debidas precauciones para evitar la presencia de corrientes extrañas a la de encendido en el lugar de trabajo.
+
+En las explotaciones a cielo abierto no se llevarán a cabo el cebado del explosivo ni la carga de barrenos, cuando haya tormenta en las proximidades.
+
+6.2 En la disposición interna de seguridad, se regulará el uso, en su caso, de radiotransmisores portátiles, en las proximidades de la voladura. En general, se pondrá especial cuidado en la influencia de los repetidores de televisión, líneas de transporte de energía, líneas de ferrocarril electrificado, y cualquier otro agente capaz de producir efectos similares.
+
+6.3 Salvo autorización en contra, se utilizará un solo cartucho-cebo, provisto de un solo detonador, que podrá colocarse (excepto en trabajos con gases o polvos inflamables), indistintamente en cualquiera de los extremos de la carga del barreno, pero siempre con el fondo del detonador dirigido hacia la carga.
+
+6.4 En la pega eléctrica, los conductores de la línea de tiro deben ser individuales y estar dotados de un aislamiento adecuado.
+
+No obstante, se permite el empleo de aquellos tipos bipolares que, por sus condiciones de aislamiento, hayan sido previamente autorizados por la autoridad minera, para la línea fija, que no deberá poder ser alcanzada por las proyecciones de las pegas.
+
+Solamente se admitirán conductores desnudos en la unión de los terminales de la línea de tiro con los hilos de los detonadores y en la unión de estos entre si. Estos empalmes desnudos no deberán estar en contacto con el terreno, ni con ningún otro material. No se permitirán derivaciones de la línea de tiro, y sus extremos se mantendrán en cortocircuito hasta que se conecte la línea de tiro al explosor.
+
+6.5 Se tomarán todas las precauciones precisas para evitar la proximidad de la línea de tiro con otras líneas de conducción de energía eléctrica, así como el contacto con carriles o tuberías, o cualquier otro elemento metálico, en general.
+
+6.6 En los trabajos subterráneos, cuando en la galería en que vaya a tenderse la línea de tiro exista otra línea de conducción de energía, la de tiro deberá colocarse sobre aisladores, en el hastial opuesto o, solo en casos excepcionales, podrá colocarse por debajo de la anterior y a mas de 30 centímetros de distancia.
+
+En todo caso, antes de iniciar la carga de los barrenos será necesario dejar sin corriente cualquier línea eléctrica que este situada en las proximidades del frente.
+
+No podrá usarse como línea eléctrica de tiro cualquier otro circuito existente, constituido para otros fines, aunque este fuera de uso.
+
+La longitud de la línea volante deberá ser la menor posible.
+
+Los detonadores que se utilicen serán todos de igual sensibilidad eléctrica.
+
+6.7 Cuando exista riesgo de explosiones accidentales por causa de corrientes parásitas, fenómenos atmosféricos, cargas de electricidad estática, proximidad a líneas de alta tensión, energía procedente de aparatos de radiofrecuencia, se utilizarán únicamente detonadores eléctricos de alta insensibilidad, aconsejándose también para estos supuestos otros sistemas de iniciación no eléctricos.
+
+6.8 Los detonadores eléctricos se conectarán siempre en serie; otros tipos de conexión tendrán que ser autorizados por la autoridad minera, previo proyecto de la Dirección Facultativa. Esta autorización podrá concederse a explotaciones concretas de modo permanente, cuando las características de los trabajos así lo exijan.
+
+Se conectará únicamente el número de detonadores que pueda ser disparado con seguridad, en función de la resistencia de la línea de tiro y de las características del explosor.
+
+6.9 Previamente al disparo y después de conectados los detonadores a la línea de tiro, se comprobará el circuito desde el refugio adoptado para el accionamiento del explosor, y con las mismas precauciones que las reglamentadas para dar la pega, utilizando un comprobador de tipo homologado por la Dirección General de Minas.
+
+Si se observa alguna anormalidad, antes de proceder a corregirla, se conectarán en cortocircuito los extremos de la línea de tiro, y, una vez corregida, se procederá de acuerdo con lo dispuesto en el párrafo anterior.
+
+6.10 Cuando se trate de pega eléctrica deberá hacerse uso de explosores con capacidad suficiente y tipo homologado. En casos muy especiales, con autorización expresa, podrán utilizarse para la pega eléctrica otras fuentes de energía.
+
+6.11 Los explosores eléctricos y los comprobadores de circuito deben ser revisados, limpiados y comprobados con la frecuencia que se prescriba en las disposiciones internas de seguridad.
+
+Los explosores eléctricos y los comprobadores de circuitos solo podrán ser revisados y reparados por el fabricante, el distribuidor o en talleres autorizados.
+
+Todo explosor eléctrico o comprobador de circuito defectuoso debe ser inmediatamente retirado del servicio.
+
+6.12 Hasta el momento del disparo, la línea estará desconectada del explosor, y en cortocircuito conservándose siempre en poder del artillero o del responsable de la voladura las manecillas de dicho explosor.
+
+#### 7. Precauciones en la pega con mecha
+
+7.1 Queda prohibido el uso de mecha ordinaria para disparar mas de seis barrenos en cada pega. En casos especiales que precisará la autorización previa de la autoridad minera, podrá darse fuego a mas de seis barrenos, utilizando mecha rápida de encendido, unida a la mecha de cada barreno por medio de conectadores o artificios análogos.
+
+7.2 En cada barreno deberá colocarse un único cartucho-cebo, provisto de un solo detonador; el cartucho-cebo debe colocarse siempre en el extremo mas externo de la carga del barreno. El detonador se introducirá en toda su longitud en el cartucho-cebo, al que se unirán en la forma que prescriban las disposiciones internas de seguridad, que recogerán la normativa de unión del detonador a la mecha. El fondo de la cápsula del detonador deberá quedar dirigido hacia la carga del barreno.
+
+7.3 La longitud mínima de cada mecha, contada desde la boca del barreno, será de metro y medio. En el caso de que se emplee mecha testigo, su longitud será la mitad de la mínima antes señalada, y será la primera que se encienda, debiéndose suspender la operación de dar fuego y abandonar rápidamente el lugar de trabajo cuando se haya consumido totalmente.
+
+7.4 La persona autorizada contará el número de barrenos explosionados. En el supuesto de que no haya contado con seguridad, o haya contado menos detonaciones que barrenos, no podrá volver al lugar de trabajo o a sus proximidades hasta que haya transcurrido por lo menos media hora.
+
+#### 8. Otros sistemas de iniciación
+
+En la correspondiente homologación de otros sistemas de iniciación, distintos de la pega con mecha o la pega eléctrica, se hará mención expresa de las normas generales de seguridad que sean aplicables y de las especificas correspondientes a cada sistema de iniciación concreto.
+
+#### 9. Barrenos fallidos
+
+9.1 Se denominan barrenos fallidos los que no hayan detonado, lo hayan hecho parcialmente, hayan deflagrado o hayan sido descabezados. En general, todo barreno que conserve en su interior, después de la voladura, restos de explosivo.
+
+9.2 Los barrenos fallidos serán debidamente señalizados de forma adecuada y bien visible, a poder ser con varillas de madera introducidas en el taladro, con objeto de señalar su dirección, siendo obligatorio para el responsable de la labor, el ponerlo en conocimiento de su jefe inmediato, para que este tome las medidas oportunas, con el fin de hacerlos inofensivos, lo que se procurara realizar a la mayor brevedad posible. Mientras tanto, la labor afectada quedará debidamente señalizada, con prohibición de acceso a la misma, y no se podrán realizar trabajos en ella hasta que no se resuelva el problema. En el caso de no resolverse durante el relevo, se dejará constancia escrita de esta situación.
+
+9.3 Para eliminar el riesgo que suponen los barrenos fallidos, se podrá proceder empleando alguno de los métodos que a continuación se indican:
+
+9.3.1 En el caso de pega eléctrica, redisparando el barreno, después de comprobar, con las precauciones establecidas, que el mismo esta en condiciones para ello y no existe riesgo de proyecciones peligrosas.
+
+9.3.2 Si el taco ha desaparecido y queda el explosivo descubierto, con caña libre suficiente para introducir uno o varios cartuchos, se procederá a introducir cuidadosamente un nuevo cebo, acompañado o no de otros cartuchos de explosivo, se retaca y se da fuego.
+
+9.3.3 Perforando y cargando un nuevo barreno de eliminación, paralelo al fallido y a una distancia no inferior a diez veces el diámetro de perforación, excepto en los casos en que se haya utilizado explosivo a granel o encartuchado introducido con máquinas, en cuyo caso, esta práctica estará prohibida.
+
+9.3.4 Si el barreno fallido está en bloque desprendido, mediante un parche adosado al bloque con carga suficiente para garantizar su troceo.
+
+9.3.5 En casos especiales, las autoridades mineras podrán autorizar otros métodos de eliminación de barrenos fallidos dictando las oportunas prescripciones.
+
+9.4 Cuando, en casos excepcionales, se precise la descarga, desactivación o desatasco de un barreno, tales operaciones solo podrán llevarse a cabo por personal especialmente adiestrado y bajo la vigilancia de la persona designada por la Dirección Facultativa.
+
+La extracción de los cartuchos de explosivos estará debidamente recogida en las disposiciones internas de seguridad.
+
+9.5 En las disposiciones internas de seguridad se detallarán minuciosamente las operaciones de eliminación de los barrenos fallidos, y quienes serán los encargados de ordenar y supervisar los trabajos de eliminación.
+
+En ningún caso se podrán dejar sin neutralizar los barrenos fallidos o los cargados y no disparados, debiendo procederse a su eliminación, salvo que, en el segundo de los casos, se cuente con la aprobación de la autoridad minera.
+
+Cuando se sospeche que entre los escombros puede haber explosivos sin detonar, el desescombrado se realizará con todo genero de precauciones.
+
+#### 10. Troceo de piedras gruesas
+
+10.1 Las piedras gruesas de difícil manejo podrán trocearse en los lugares y con las condiciones que establezcan las disposiciones internas de seguridad, utilizando los métodos que se indican a continuación:
+
+a) Por medio de una carga conformada o un parche de explosivo aplicado a la superficie del bloque.
+
+b) Por medio de barrenos, para lo cual los bloques tendrán que ser examinados detenidamente, a fin de asegurarse que no existen en ellos fondos cargados, en cuyo caso, se tendrán en cuenta las disposiciones referentes a barrenos fallidos.
+
+#### 11. Otras medidas de seguridad
+
+11.1 Se prohíbe terminantemente recargar fondos de barreno, reprofundizar los barrenos fallidos y utilizar fondos de barrenos para continuar la perforación.
+
+11.2 Asimismo, queda prohibido:
+
+11.2.1 Cortar cartuchos, salvo que, a propuesta razonada de la Dirección Facultativa de los trabajos se autorice para usos limitados y concretamente definidos. Una disposición interna de seguridad fijara estas condiciones.
+
+11.2.2 Introducir los cartuchos con violencia o aplastarlos fuertemente con el atacador.
+
+11.2.3 Deshacer los cartuchos o quitarles su envoltura, excepto cuando esto sea preciso para la colocación del detonador, o si utilizasen maquinas previamente autorizadas que destruyan dicha envoltura.
+
+> Se modifica por la Orden de 29 de abril de 1987. [Ref. BOE-A-1987-11615](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-11615).
+
+> Redactados los apartados 6 y 9 conforme a la corrección de errores publicada en BOE núm. 196, de 16 de agosto de 1986. [Ref. BOE-A-1986-22054](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-22054).
+
+### DISPARO CON EXPLOSIVO A HORARIOS NO PREESTABLECIDOS EN MINAS SUBTERRÁNEAS DE CARBÓN Y LABORES CON RIESGOS DE EXPLOSIÓN — Instrucción ITC 10.2-02
+
+#### 1. Objeto.
+
+El objeto de la presente ITC es dictar unas prescripciones adicionales para el disparo con explosivo fuera de los horarios preestablecidos.
+
+Complementa lo dicho sobre este mismo tema en el ITC 10.2-01, sobre los disparos en horarios preestablecidos.
+
+Esta ITC no tiene validez para las minas o cuarteles clasificados en 4.ª categoría.
+
+#### 2. Condiciones generales.
+
+En los trabajos subterráneos para efectuar disparos con explosivos a horas distintas de las prefijadas con carácter general se deberá contar con una aprobación previa de la autoridad minera, que exigirán el cumplimiento de las medidas adicionales de seguridad que se citan a continuación.
+
+Todo ello sin perjuicio de las disposiciones internas de seguridad, que, para esta clase de trabajos, establezca la Dirección Facultativa y de todo lo previsto en el capítulo X Explosivos y sus ITC correspondientes.
+
+Estas autorizaciones no tendrán carácter general y deberán solicitarse cada vez que se pretenda desarrollar nuevos trabajos con este sistema en zonas diferentes de una mina o trabajo subterráneo.
+
+#### 3. Condiciones de ventilación.
+
+En los circuitos de retorno de ventilación de esta clase de trabajos en los que exista personal, las concentraciones de gases no sobrepasarán los contenidos fijados para períodos cortos en la ITC 04.7-02.
+
+En las minas o trabajos subterráneos clasificados como grisuosos se exigirán las velocidades mínimas siguientes:
+
+0,2 m/s en labores en fondo de saco.
+
+0,5 m/s en labores recorridas por la ventilación primaria.
+
+Al testero de la labor deberá llegar un caudal superior a 0,1 m<sup>3</sup>/sg/m<sup>2</sup> de sección.
+
+#### 4. Comprobaciones y reconocimiento.
+
+Mensualmente, como mínimo, y siempre que se produzcan modificaciones sustanciales en los circuitos de ventilación, se efectuarán comprobaciones de los retornos citados en el artículo anterior, midiendo velocidades y analizando el contenido de gases en momentos posteriores al disparo. En el libro de registro oficial de ventilación se harán constar los resultados de estas mediciones.
+
+#### 5. Retorno al frente.
+
+En las labores en fondo de saco, donde se efectúen esta clase de disparos, no podrá retornarse al frente hasta pasados quince minutos después del disparo. No obstante, con la aprobación previa de la autoridad minera, podrán solicitarse tiempos menores, mediante justificación detallada.
+
+#### 6. Reconocimiento de las instalaciones de ventilación.
+
+El correcto funcionamiento de las instalaciones de ventilación secundaria deberá ser comprobado por personal de vigilancia de la mina o el trabajo subterráneo antes y después de cada disparo. No podrá retornarse al frente si, como consecuencia del disparo o por otra razón, la ventilación hubiera quedado interrumpida.
+
+> Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 196, de 16 de agosto de 1986. [Ref. BOE-A-1986-22054](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-22054).
+
+### VOLADURAS ESPECIALES — Instrucción ITC 10.3-01 (R)
+
+#### 1. Objeto y campo de aplicación.
+
+La presente ITC tiene por objeto:
+
+Definir la tipología de ciertas clases de voladuras para ser consideradas como voladuras especiales.
+
+Establecer las competencias para su autorización, tramitación y condiciones de ejecución.
+
+Prescribir las medidas de prevención necesarias.
+
+#### 2. Definición de voladuras especiales.
+
+Se consideran voladuras especiales las siguientes:
+
+2.1 Grandes voladuras.
+
+Las que, por sus características geológicas locales, geometría, volumen relativo y carga máxima instantánea, requieran, a juicio de la autoridad minera competente, medidas preventivas complementarias a las exigibles en las voladuras convencionales.
+
+2.2 Voladuras bajo el agua.
+
+Las que se realizan bajo columna de agua, en cauces fluviales, lagos, embalses, o en el mar, que por su proximidad puedan afectar a núcleos habitados, edificaciones e instalaciones de cualquier tipo.
+
+2.3 Demoliciones.
+
+La demolición de edificios, estructuras en general o cimentaciones, por su ubicación próxima a núcleos habitados, condicionantes del contorno o su dificultad técnica.
+
+2.4 Voladuras con riesgos peculiares.
+
+Voladuras que puedan afectar a núcleos urbanos habitados o instalaciones industriales o de cualquier tipo, vías de comunicación, sistemas de transporte, presas y depósitos de agua y almacenamientos de materias peligrosas.
+
+2.5 Voladuras próximas a instalaciones eléctricas.
+
+Próximas a centros de producción, transformación y redes de transporte y distribución de energía eléctrica, a cualquier tensión.
+
+2.6 Voladuras próximas a emisión de ondas.
+
+En la proximidad de emisoras de radio, TV, radar o repetidores de alta frecuencia.
+
+#### 3. Autorización.
+
+3.1 Cuando por parte de la autoridad competente se tengan que autorizar consumos de explosivos en los que se contemple la realización de voladuras que, conforme al apartado anterior, tengan la condición de especiales, además de cumplir las condiciones generales para toda clase de trabajos en que se utilicen explosivos, deberán contar con la autorización previa de la autoridad competente, quien la concederá o no a la vista de un proyecto de voladura especial presentado por el peticionario, suscrito por un técnico titulado de Minas y aprobado por la autoridad minera competente, en el que figuren:
+
+a) Las construcciones, vías de comunicación, depósitos y conducciones de fluidos, sistemas de transporte, centros de producción o transformación de energía eléctrica, líneas de transporte y distribución de energía, y en general, cualquier instalación susceptible de influencia directa o recíproca por la voladura, cuya distancia al emplazamiento previsto para ésta esté comprendida en:
+
+1.000 metros alrededor, cuando se trate de grandes voladuras, si la voladura es exterior; 500 metros, si es subterránea.
+
+1.500 metros alrededor, cuando se trate de voladuras bajo agua en mar, y 1.000 metros en voladuras bajo agua de cualquier otro tipo.
+
+200 metros alrededor, en caso de demoliciones.
+
+500 metros en todos los tipos restantes.
+
+No obstante, y en función de las características de cada voladura y de su entorno, se pueden modificar estas distancias.
+
+b) Cuantas prescripciones afecten a la voladura, según lo especificado en el apartado «5. Prescripciones».
+
+c) Los planes de tiro, con el detalle de la carga, retacado de barrenos, así como el sistema de encendido.
+
+d) Horario y plazo previsto para las voladuras, así como las medidas de seguridad y señales de advertencia adoptadas. En el caso de empresas que habitualmente ejecuten voladuras, la exigencia anterior puede sustituirse por la Disposición Interna de Seguridad correspondiente.
+
+e) En caso de proximidad a construcciones o instalaciones que pudieran ser afectadas por las vibraciones producidas por la voladura, la autoridad minera competente puede exigir la aplicación del contenido de la norma UNE 22.382 «Control de vibraciones producidas por voladuras».
+
+3.2 Si durante el plazo de vigencia de la autorización de un consumo de explosivos, en la que originariamente no se preveían voladuras especiales, sobreviniese, por causas imprevistas y justificadas, la necesidad de ejecución de tal tipo de voladura, debe recabarse previamente la aprobación de la autoridad minera competente, mediante la presentación por duplicado del proyecto que se especifica en el apartado 3.1 anterior. La autoridad minera competente debe remitir un ejemplar del mismo, junto con su aprobación, a la Oficina de Industria y Energía para los efectos que procedan.
+
+3.3 Según lo dispuesto en el artículo 151 del Reglamento General de Normas Básicas de Seguridad Minera, pueden aceptarse proyectos tipo, cuando las voladuras especiales constituyan o vayan a constituir una actividad repetitiva, respetando en todas ellas los parámetros técnicos y medidas previstas en la primera voladura.
+
+#### 4. Ejecución de las voladuras.
+
+Una vez que el consumo de explosivos y las voladuras hayan sido autorizados, la ejecución de cada una de ellas debe estar dirigida a pie de obra por un técnico titulado de Minas, responsable de la misma. De acuerdo con la importancia de la operación, la autoridad minera competente debe determinar la cuantía de la póliza de responsabilidad civil especificada en el apartado 6.b).
+
+#### 5. Prescripciones.
+
+Además de las prescripciones generales establecidas en la reglamentación vigente, deben aplicarse las prescripciones específicas siguientes:
+
+5.1 Grandes voladuras.
+
+5.1.1 Iniciación de la explosión.
+
+Para garantizar la iniciación del explosivo contenido en el barreno, puede utilizarse cordón detonante a lo largo del mismo y, necesariamente, cuando se dispongan espaciadores inertes, dividiendo la carga de explosivo, salvo que se efectúe la iniciación secuencial en cada una de dichas cargas espaciadas.
+
+5.1.2 Uso de cordón detonante.
+
+No debe utilizarse el cordón detonante para el descenso de los cartuchos, cuando exista riesgo de rotura o deterioro del mismo, debido al peso de aquéllos.
+
+5.1.3 Protección contra proyecciones y vibraciones.
+
+Deben adoptarse, en su caso, las medidas pertinentes para prevenir el riesgo de proyecciones, vibraciones, onda aérea, etc., respecto al entorno.
+
+5.2 Voladuras bajo el agua.
+
+5.2.1 Perforación y carga de barrenos.
+
+Sólo pueden simultanearse las labores de perforación y carga explosiva, en aquellos casos en que los trabajos sean realizados desde pontón y la perforación realizada con doble varillaje, que permita la introducción de las cargas desde el pontón a través de dicho entubado. En los supuestos restantes, sólo puede iniciarse la operación de cargas una vez haya concluido la perforación y retirado la maquinaria correspondiente.
+
+En cualquier caso, debe llevarse un especial control de la concentración de la carga en cada barreno, recomendándose cargas rígidas prefabricadas.
+
+En este tipo de perforación con entubado, se permite la presencia en el pontón, durante la jornada de trabajo, del explosivo necesario para la misma, el cual debe almacenarse en cofres adecuados.
+
+5.2.2 Cebado y detonadores.
+
+Sea cual fuere el sistema de perforación y el diámetro de los barrenos, debe utilizarse siempre cordón detonante a lo largo de su caña y el cebado de los barrenos debe ser exterior a los mismos.
+
+En todos los casos, la colocación de detonadores debe realizarse con posterioridad a la carga del total de barrenos que constituyan la pega, y siempre después de retirar al personal y los equipos de perforación del lugar de trabajo.
+
+Cuando se utilicen cargas rígidas prefabricadas, el cebado puede realizarse directamente mediante detonadores cuya conexión se efectuará en superficie.
+
+Las conexiones entre detonadores y de éstos a la línea de tiro deben realizarse siempre mediante conectores que aseguren su aislamiento y colocados fuera del agua sobre flotadores o boyas señalizadas.
+
+Se recomienda el empleo de detonadores y sistemas de conexión que reduzcan al mínimo las pérdidas de corriente por derivación.
+
+5.2.3 Vibraciones y ondas de choques hidráulicas.
+
+Debe prestarse especial atención a los posibles efectos que se puedan producir por vibraciones terrestres y ondas de choque hidráulico o de marea, empleando los procedimientos adecuados para combatirlos.
+
+5.2.4 Señalización y evacuación de personas.
+
+Tanto en el caso de perforación desde pontón, como en los de perforación y carga de explosivos mediante buceadores, o campanas neumáticas, o de aplicación de cargas huecas, cargas adosadas, mangueras explosivas, etc., la zona de trabajo debe quedar perfectamente balizada, en una distancia al menos de 50 metros alrededor de su perímetro, mediante boyas con carteles de advertencia.
+
+Con anterioridad a la ejecución de las voladuras, debe comprobarse la ausencia de bañistas, embarcaciones y toda clase de personas o cosas en un entorno tal que, de acuerdo con la cantidad de explosivo previsto, se prevengan los riesgos por las ondas de presión generadas en el agua. Estas distancias deben especificarse en el correspondiente proyecto.
+
+5.2.5 Inspección final.
+
+Con posterioridad a cada voladura, tras el oportuno lapso de tiempo para permitir la recuperación de la visibilidad de las aguas, debe inspeccionarse el fondo volado, con el fin de detectar y recuperar los posibles restos de explosivos procedentes de barrenos fallidos.
+
+5.3 Demoliciones.
+
+5.3.1 Precauciones generales.
+
+Los trabajos de perforación, carga y disparo de las voladuras deben ser realizados bajo la dirección permanente, a pie de obra, de un técnico titulado de Minas.
+
+Con anterioridad a la voladura, deben realizarse todas las comprobaciones necesarias para constatar que los elementos estructurales se corresponden con los previstos en los planos constructivos, eliminando, por medios mecánicos o manuales, todos aquellos elementos que pudieran significar cualquier riesgo para la seguridad del trabajo, tanto desde el punto de vista de proyecciones, como de la dirección de la caída de la estructura. Deben disponerse las adecuadas protecciones en aquellas zonas en las que fuera previsible el riesgo de proyecciones peligrosas.
+
+A partir del momento de la llegada del material explosivo y accesorios de voladura al lugar de los trabajos, queda totalmente prohibida la presencia de cualquier persona ajena a los mismos, mediante una efectiva vigilancia o cierre de cualquier acceso existente.
+
+5.3.2 Calibre y carga.
+
+Excepto lo dispuesto por la autoridad minera competente, en general, el calibre de perforación no debe ser superior a 50,8 milímetros y la carga por barreno no debe exceder de 500 gramos. No está permitida la carga a granel del explosivo.
+
+5.3.3 Corte de cartuchos.
+
+En los casos en los que fuera necesario el corte de los cartuchos para conseguir las cantidades de carga adecuadas, este corte debe realizarse en un lugar alejado del resto del explosivo y con las debidas precauciones. Esta misma normativa debe aplicarse, en su caso, para la preparación de las cargas espaciadas, las cuales irán necesariamente adosadas a un cordón detonante de gramaje suficiente para asegurar su detonación.
+
+5.3.4 Detonadores, número y disposición.
+
+Los detonadores deben disponerse de forma que queden siempre en el interior del barreno.
+
+Si el número de detonadores necesarios lo justifica, puede autorizarse la conexión de los mismos en series paralelas. Las diferentes series deben equilibrarse de forma que la dispersión entre ellas no sea superior a ± 1 por 100 de su resistencia.
+
+El retacado debe realizarse con materiales suficientemente plásticos y no propagadores de la llama, de forma que quede asegurada su permanencia hasta la ejecución de la voladura.
+
+5.3.5 Voladuras cargadas y no explosionadas.
+
+En el caso de que las operaciones de carga del explosivo no permitan ejecutar la voladura dentro de la misma jornada de trabajo, los barrenos cargados y el explosivo no utilizado deben quedar permanentemente bajo la debida vigilancia.
+
+5.4 Proximidad a líneas eléctricas y estaciones transformadoras.
+
+5.4.1 Distancias de protección.
+
+Salvo en los casos en los que se autorice una normativa de actuación específica, en los trabajos de voladura con pega eléctrica en la proximidad de líneas o estaciones transformadoras, en función de la tensión, deben respetarse las distancias siguientes:
+
+| Tensión de línea (V) | Distancia (m) |
+|---|---|
+| Hasta 1.000 | 10 |
+| De 1.000 a 6.000 | 20 |
+| De 6.000 a 11.000 | 50 |
+| De 11.000 a 60.000 | 100 |
+| Más de 60.000 | 200 |
+| Líneas ferrocarril electrificadas a cualquier tensión | 300 |
+
+En los casos en los que la distancia prevista entre la voladura y las líneas eléctricas sea inferior a las indicadas, para la utilización del encendido eléctrico se precisa un estudio preliminar que justifique la no existencia de riesgos, tanto por derivaciones de corriente, como por inducción de corrientes sobre el circuito de voladura. Se deben utilizar al menos detonadores insensibles.
+
+La intensidad de cortocircuito y de descarga, y la tensión de paso de los centros de transformación deben ser suministradas por la entidad propietaria.
+
+5.4.2 Línea de tiro, conexiones.
+
+Cuando la proximidad de las líneas eléctricas a la zona de voladura sea inferior a 200 metros, la línea de tiro debe orientarse lo más perpendicular posible al tendido eléctrico y sus extremos han de mantenerse unidos en cortocircuito y aislados del terreno o de cualquier masa metálica, hasta el momento de la voladura. La línea volante de tiro no puede utilizarse más que una sola vez.
+
+Deben anclarse al suelo los conductores del circuito de la voladura.
+
+Todas las conexiones deben protegerse con casquillos aislantes u otro tipo de aislamiento adecuado. Los detonadores han de ser del tipo de alta insensibilidad y deben tener cortocircuitados los terminales de los hilos de alimentación hasta el momento de su conexión al circuito de voladura, salvo que, ante petición debidamente justificada, la autoridad minera autorice el empleo de otro tipo de detonadores.
+
+5.5 Proximidad a radio-frecuencia en emisión.
+
+5.5.1 Distancias de seguridad a emisoras.
+
+Debe contemplarse en el proyecto: La potencia radiada, la frecuencia y la dirección de la radiación, la sensibilidad de los detonadores a utilizar, la disposición de la línea de tiro, etc., para efectuar voladuras eléctricas a distancias a emisoras de radio-frecuencia, en función de su potencia emisora, inferiores a:
+
+| Potencia emisora | Distancia (m) |
+|---|---|
+| Hasta 25 W | 50 |
+| De 25 a 100 W | 75 |
+| De 100 a 500 W | 150 |
+| De 500 a 1 kW | 300 |
+| De 1 a 5 kW | 500 |
+| De 5 a 10 kW | 750 |
+| De 10 a 25 kW | 1.200 |
+| De 25 a 50 kW | 1.700 |
+| De 50 a 100 kW | 2.350 |
+| De 100 a 500 kW | 5.000 |
+| De 500 a 1.000 kW | 7.500 |
+
+La anterior aprobación será, asimismo, preceptiva siempre que se efectúen voladuras eléctricas a menos de 300 metros de equipos de radar o militares de dirección de tiro.
+
+5.5.2 Distancias de seguridad a radio-teléfonos.
+
+Debido a que los radio-teléfonos emiten en bandas de frecuencia altas (> 27 MHz) y potencias bajas, las distancias de seguridad en este caso serán las siguientes:
+
+| Potencia (W) | Distancia (m) |
+|---|---|
+| Hasta 10 | 2 |
+| De 10 a 30 | 3,5 |
+| De 30 a 60 | 5 |
+| De 60 a 250 | 10 |
+
+Las antenas de radio-teléfonos o de los vehículos dotados de emisoras deben cubrirse con una funda de plástico.
+
+5.5.3 Transporte.
+
+Cuando el transporte de los detonadores eléctricos se realicen en vehículos dotados de una emisora de radio, dichos detonadores deben embalarse en una caja recubierta de chapa metálica. Las operaciones de carga y descarga han de efectuarse manteniendo la caja cerrada y la emisora desconectada.
+
+5.6 Voladuras en zonas habitadas.
+
+En aquellas voladuras en zonas habitadas en las que pueda existir riesgo de daños a terceros por proyección de fragmentos de roca, deben adoptarse las precauciones siguientes:
+
+5.6.1 Supervisión.
+
+Debe llevarse a cabo por parte del responsable de la voladura una supervisión efectiva que garantice la concordancia de todos los parámetros de la voladura con su diseño original. Debe cuidar de que los diferentes trabajos que la componen —perforación, carga de los barrenos y conexión del circuito de voladura— se ejecuten adecuadamente, con especial cuidado en los siguientes puntos:
+
+Correcto marcado previo de los barrenos.
+
+Control de posicionado y angulación del equipo de perforación.
+
+Comprobación de las profundidades de cada barreno.
+
+Detección de las coqueras o fisuras existentes en el terreno a volar.
+
+Control del proceso de carga, comprobando la cantidad de explosivo de cada barreno.
+
+Control de la ejecución de los retacados.
+
+Control de la conexión del circuito de voladura, con especial atención a la distribución de los detonadores para una correcta secuencia.
+
+5.6.2 Carga de barrenos.
+
+Cuando en la perforación se hayan detectado barrenos que atraviesen coqueras, fisuras o, en general, estructuras que puedan dar lugar a acumulaciones de carga, deben desecharse tales barrenos, o bien, los tramos afectados deben dejarse sin cargar, introduciendo retacados intermedios de materiales inertes.
+
+En todo caso, debe cumplirse lo dispuesto en el apartado 2.4 de la ITC 10.2.01.
+
+Si se comprobara que alguno de los barrenos que componen la voladura tiene un confinamiento excesivo, de forma que no tuviera posible salida, dicho barreno será desechado.
+
+El diseño y conexión de la secuencia de iniciación deben ser los adecuados para evitar descuelgues, descabezamientos, robos de carga y/o disparos sin salida.
+
+5.6.3 Retacado.
+
+Debe cuidarse especialmente la realización del retacado de los barrenos, debiendo adoptarse, siempre que sea posible, una longitud de barreno retacado doble de la indicada en el apartado 4.1 de la ITC 10.2.01. Para su ejecución deben utilizarse materiales inertes, preferiblemente arena fina o tacos de arcilla debidamente compactados.
+
+5.6.4 Protecciones adicionales.
+
+Cuando por gran proximidad a las voladuras de los bienes a proteger, o por la disposición de éstas, haya un gran riesgo de daño por proyecciones, debe procurarse el empleo de protecciones adicionales sobre la propia voladura y/o los bienes a proteger.
+
+Los elementos utilizados como protecciones sobre las voladuras deben permitir la salida de gases de los barrenos y, al mismo tiempo, detener los fragmentos de roca proyectados. Además, deben estar adecuadamente colocados y anclados a terreno firme para evitar ser lanzados.
+
+Se recomienda el uso de mallazos o redes tupidas y resistentes, así como bandas de goma. Estos elementos pueden utilizarse solos o en combinación con otros, como por ejemplo neumáticos.
+
+Debe evitarse el uso de elementos rígidos que no permitan el paso de los gases, tales como chapas o planchas metálicas. Si se utilizasen, deben colocarse algo separados de la boca de los barrenos y sólidamente anclados a terreno firme.
+
+No deben situarse nunca sobre los barrenos elementos de materiales fácilmente inflamables, como pacas de paja, pudiendo utilizarse únicamente como protección contra proyecciones frontales.
+
+5.6.5 Señalización e información ciudadana.
+
+El perímetro exterior de la zona de voladuras debe estar convenientemente delimitado, de manera que se impida el acceso a personas ajenas a las obras. Dicho perímetro debe señalizarse debidamente con carteles fácilmente legibles, anunciadores del empleo de explosivos.
+
+Antes de efectuar el disparo de la voladura, debe avisarse de la proximidad del mismo mediante las oportunas señales acústicas.
+
+Cuando, por proximidad, una voladura pudiera afectar a alguna vía abierta al tráfico, este hecho debe ponerse en conocimiento de la Policía Municipal local o de la Guardia Civil, con quien se ha de establecer el procedimiento y llevarse a cabo los cortes de tráfico, si llegaran a ser necesarios.
+
+5.7 Voladuras con largo proceso de carga.
+
+Cuando por causas justificadas no se pueda completar la carga, la autoridad minera competente podrá autorizar la permanencia de barrenos cargados durante el tiempo preciso para concluir la operación de carga, siempre que estos barrenos estén adecuadamente vigilados hasta su disparo, que debe efectuarse lo antes posible.
+
+5.8 Tormentas.
+
+Si se detectan tormentas, acústica o visualmente, deben suspenderse los trabajos de voladura, siendo aconsejable, en aquellas épocas y zonas donde sea previsible dicho riesgo, el empleo de detonadores de alta insensibilidad que deben mantenerse cortocircuitados y aislados del terreno hasta el momento de la voladura.
+
+#### 6. Empresas autorizadas para la ejecución de voladuras especiales.
+
+Las empresas que lleven a cabo la ejecución de las voladuras especiales definidas en el apartado 2 de la presente ITC deben estar autorizadas e inscritas para tal fin en uno o varios de los tipos señalados en el citado apartado 2.
+
+La autorización y consiguiente inscripción, que tendrá carácter nacional y validez anual, debe solicitarse a la autoridad competente de la provincia donde tenga su domicilio social la empresa, aportando certificado emitido por la autoridad minera competente de dicha provincia, de que la empresa cumple los requisitos siguientes:
+
+a) Disponer de un equipamiento técnico adecuado y unas disposiciones internas de seguridad de empleo de explosivos para los tipos de voladuras en que pretendan inscribirse.
+
+b) Tener cubierta su responsabilidad civil con una póliza de seguros de una cuantía mínima de 15.000.000 de pesetas por accidente. Esta cuantía mínima será revisada anualmente de acuerdo con las variaciones del Índice de Precios al Consumo, publicado por el Instituto Nacional de Estadística.
+
+c) Contar en su plantilla, como mínimo, con una persona con «Cartilla de Artillero», autorizada para efectuar pegas concordantes con los tipos de voladura especial para los que se solicita inscripción. En el caso de demoliciones, se contará además, con un técnico titulado de Minas.
+
+> Se modifica por la Orden de 29 de julio de 1994. [Ref. BOE-A-1994-18902](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-18902).
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 196, de 16 de agosto de 1986. [Ref. BOE-A-1986-22054](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-22054).
+
+### DISPOSICIONES ESPECIALES PARA TRABAJOS CON GASES O POLVOS INFLAMABLES O EXPLOSIVOS — Instrucción ITC 10.4-01
+
+#### 1. Ámbito.
+
+Las disposiciones siguientes afectan a todos los trabajos y explotaciones subterráneas, excepto las clasificaciones como de primera categoría, de acuerdo con lo que se indica en el artículo 24 del capítulo 4, «Labores subterráneas», del Reglamento General de Normas Básicas de Seguridad Minera.
+
+#### 2. Explosivos.
+
+No podrán emplearse explosivos que no hayan sido homologados y catalogados respecto a sus condiciones de empleo por la Dirección General de Minas.
+
+Los explosivos se clasificarán en los grupos siguientes:
+
+Primer grupo: Explosivos de uso limitado. Tipo I.
+
+Segundo grupo: Explosivos de seguridad. Tipo II.
+
+Tercer grupo: Explosivos de seguridad. Tipo III.
+
+Cuarto grupo: Explosivos de seguridad. Tipo IV.
+
+Sólo podrán emplearse en este tipo de labores aquellos explosivos de seguridad, accesorios o aparatos para voladura (explosores, comprobadores, máquinas cargadoras, etc.), en cuya catalogación y envase se haga constar expresamente su idoneidad para el uso de las mismas.
+
+Queda prohibido utilizar explosivos de seguridad del tipo IV que lleven encartuchados más de seis meses y explosivos de seguridad tipos II y III que lleven encartuchados más de un año.
+
+El diámetro de los cartuchos de los explosivos de seguridad estará comprendido entre los valores máximo y mínimo que se exprese en la resolución de aprobación del tipo de que se trate.
+
+#### 3. Detonadores, explosivos y comprobadores.
+
+Se utilizarán siempre explosores que aseguren una duración de paso de la corriente de tiro no superior a cinco milisegundos.
+
+Sin embargo, la limitación de la duración de paso de la corriente no es obligatoria cuando el circuito exterior es de seguridad intrínseca cualquiera que sea su resistencia.
+
+Los explosores y comprobadores de circuito deberán ser de seguridad antigrisú y de tipo oficialmente aprobado por la Dirección General de Minas.
+
+En este tipo de labores queda terminantemente prohibida la iniciación de la voladura por medio de pega con mecha lenta. El empleo de cualquier otro sistema de iniciación que no sea la pega eléctrica exigirá la autorización expresa de la Dirección General de Minas.
+
+#### 4. Carga de explosivos.
+
+Excepto en labores de primera categoría, se prohíbe el cargue de explosivos por procedimientos mecánicos. Los cartuchos-cebo se colocarán siempre en el fondo de la carga, con la parte inferior de la cápsula del detonador dirigida hacia la boca del barreno.
+
+No se cargará ningún barreno hasta que se haya reconocido cuidadosamente la labor comprobando que el contenido en el grisú está dentro de los límites permitidos. Esta comprobación se repetirá justo en el momento anterior a dar la pega de la voladura; en el supuesto de que, en este caso, el contenido en gases inflamables fuese superior a los límites permitidos en cada caso se suspenderá la operación, avisándose a la Dirección facultativa a fin de que ordene las medidas pertinentes.
+
+No se cargará ni disparará ningún barreno que por su posición de proximidad a una superficie libre ofrezca el peligro de producir una detonación al aire. Tampoco podrá dispararse la pega si al cargar alguno de los barrenos se percibe en él algún soplo de gas.
+
+El retacado se ejecutará con materiales que sean suficientemente plásticos; en ningún caso propaguen la llama, sean antiestáticos y garanticen la obturación eficaz del barreno.
+
+Excepto los barrenos perforados en labores de primera categoría, será obligatorio en todos los demás, junto con el retacado propiamente dicho, el empleo de tacos inhibidores o enfriadores de gases, llamas o partículas incandescentes.
+
+El tapón de obturación debe llenar la sección entera del barreno y ocupar una longitud, al menos, de un tercio de la profundidad total, sin que sea necesario que exceda de 0,40 metros.
+
+#### 5. Reconocimiento de la labor antes de la carga y el disparo.
+
+No se cargará ningún barreno o pega completa hasta que se haya reconocido cuidadosamente la labor, comprobando que el contenido en grisú de la atmósfera no es detectable con lámpara de seguridad, o es inferior al 1 por 100 cuando el reconocimiento se efectúe con un aparato detector de mayor precisión y sensibilidad. Esta comprobación se repetirá en el momento de abandonar el frente, inmediatamente antes de dar fuego, no pudiéndose proceder aI disparo mientras el porcentaje en grisú sea detectable por la lámpara de seguridad, o exceda del 1 por 100 cuando el reconocimiento se lleve a cabo con aparato detector.
+
+La comprobación descrita en el párrafo anterior se realizará también en el lugar donde vaya a ser accionado el explosor eléctrico, ateniéndose a las condiciones señaladas para poder efectuar la pega en dicho lugar.
+
+En los casos de existencia de otros elementos explosivos o inflamables distintos del grisú la autoridad minera fijará porcentajes máximos admisibles para la carga y disparo de los barrenos.
+
+#### 6. Fallos de la pega.
+
+Cuando haya detonado algún barreno de una pega no se podrá accionar de nuevo el explosor, sin antes haber reconocido la línea y el frente.
+
+#### 7. Empleo de cordón detonante.
+
+El uso de cordón detonante, no antigrisú, queda limitado a las labores de la clase primera definidas en el apartado 10, siempre que previamente se haya comprobado que el contenido del grisú no exceda de 0,40 por 100 en el frente, ni a una distancia del mismo inferior a 100 metros.
+
+Cuando se utilice el cordón detonante antigrisú en explotaciones no clasificadas en primera categoría se colocará aquél en su totalidad en el interior del barreno detrás del retacado.
+
+#### 8. Troceo de piedras gruesas.
+
+Queda terminantemente prohibido trocear con explosivos escombros o piedras gruesas por ningún procedimiento que no sea el de barrenado de los bloques que deberá realizarse cumpliendo las disposiciones generales para todo tipo de barrenos. En casos especiales la autoridad minera podrá aprobar otros procedimientos.
+
+#### 9. Disparo bajo agua a presión.
+
+En el caso de disparo bajo agua a presión los explosivos a emplear estarán especialmente autorizados por la Dirección General, y los detonadores corresponderán a tipos fabricados para este empleo de acuerdo con las condiciones que se fijen.
+
+El disparo bajo agua a presión sólo podrá realizarse previa autorización de la autoridad minera, la cual fijará las condiciones del procedimiento de utilización.
+
+#### 10. Clasificación de labores.
+
+En los cuarteles o minas de segunda o tercera categoría y en las clasificadas con polvo de carbón inflamable y en aquellos trabajos en los que sea posible la existencia de gases, polvos u otras sustancias explosivas o inflamables las labores de todo tipo se clasificarán en la forma que se indica en los apartados siguientes:
+
+En los cuarteles o minas de cuarta categoría la clasificación de las labores y el empleo de explosivos será de acuerdo con los artículos 95 y 96 del capítulo 5 del Reglamento General de Normas Básicas de Seguridad Minera y en la ITC correspondiente.
+
+Labores de 1.ª clase:
+
+Se considerarán de primera clase las labores que satisfagan simultáneamente las condiciones siguientes:
+
+a) Que el frente de avance no corte carbón ni lo haya cortado ninguno de los barrenos dispuestos para la pega.
+
+b) Que aunque se desarrollen en sectores con posibilidad de existencia de grisú sean labores horizontales o descendentes, cuya concentración de grisú en el frente y hasta los 100 metros del mismo sea inferior al 0,5 por 100. Si el aire que ventila la labor contiene grisú procedente de otras labores, este contenido límite podrá elevarse al 1 por 100, excepto si la labor es ascendente, en cuyo caso deberá ser siempre inferior al 0,5 por 100.
+
+c) Que aun desarrollándose en sectores de la mina considerados como polvorientos, en los últimos 30 metros no existan acumulaciones de carbón ni de polvo, ni talleres de arranque o galerías de transporte de carbón, y la superficie de las capas o vetas de carbón descubiertas en dicho tramo sea inferior al 10 por 100 de la superficie total de la labor en esos 30 metros, incluido el frente de avance y estén a más de 3 metros de la última capa cortada, salvo que la superficie descubierta de esta capa se neutralice debidamente.
+
+Labores de 2.ª clase:
+
+Se considerarán de segunda clase las labores que satisfagan una u otra de las siguientes condiciones:
+
+Labores en que el frente de avance no corte carbón ni lo haya cortado ninguno de los barrenos dispuestos para la pega, pero que no satisfagan algunas de las restantes condiciones mínimas exigidas para la clase primera.
+
+Labores mixtas de carbón y roca en las que la superficie total de carbón al descubierto en el frente no exceda del 10 por 100 de la superficie total del mismo, o aquellas en que el número total de barrenos que hayan cortado carbón sea inferior al quinto del total.
+
+Labores de 3.ª clase:
+
+Se considerarán de tercera clase las labores mixtas de carbón y roca en las que la superficie total de carbón al descubierto en el frente de avance exceda del 10 por 100 de la superficie total del mismo, o aquellas en las que el número total de barrenos que hayan cortado carbón exceda del quinto del número total de barrenos.
+
+Labores de 4.ª clase:
+
+Se consideran de cuarta clase las labores de trazado, preparación o arranque desarrolladas dentro de la capa de carbón y recorridas por la corriente general de ventilación.
+
+Labores de 5.ª clase:
+
+Se consideran de quinta clase las labores de trazado, preparación o arranque de carbón no recorridas por la ventilación principal.
+
+Labores de 6.ª clase:
+
+Se consideran de sexta clase las labores de arranque de macizos de carbón en encerrado.
+
+#### 11. Modalidades de disparo.
+
+Las modalidades de disparo de los explosivos definidos en el apanado 2 son las siguientes:
+
+Modalidad A
+
+Explosivos de uso limitado. Tipo I
+
+1\. No se establece ninguna limitación específica.
+
+Modalidad B
+
+Explosivos de seguridad. Tipo II
+
+1\. La carga máxima por barreno se limita a 2.000 gramos.
+
+2\. La duración máxima de la pega será de 5 segundos, en cuyo caso no podrán cargarse barrenos que hayan cortado carbón.
+
+Modalidad C
+
+Explosivos de seguridad. Tipo II
+
+1\. La carga máxima por barreno se limita a 1.000 gramos.
+
+2\. La duración máxima de la pega será de 125 milisegundos.
+
+Modalidad D
+
+Explosivos de seguridad. Tipo II
+
+1\. la carga máxima por barreno se limita a 500 gramos.
+
+2\. La duración máxima de la pega será de 125 milisegundos.
+
+Modalidad E
+
+Explosivos de seguridad. Tipos III y IV
+
+1\. La carga máxima por barreno se limita a 2.000 gramos para los explosivos de tipo III y 2.500 gramos para los de tipo IV.
+
+2\. La duración máxima de la pega será de 5 segundos, cuando la corriente de ventilación sea igual o superior a 0,5 metros por segundo. En otro caso, la duración máxima de la pega sería de 500 milisegundos.
+
+Modalidad F
+
+Explosivos de seguridad. Tipos III y IV
+
+1\. La carga máxima por barreno se limita a 2.000 gramos para los explosivos del tipo III y 2.500 gramos para los del tipo IV.
+
+2\. La duración máxima de la pega será de 500 milisegundos.
+
+Modalidad G
+
+Explosivos de seguridad. Tipos III y IV
+
+1\. La carga máxima por barreno se limita a 1.500 gramos por explosivos tipo III y 2.000 gramos para los de tipo IV.
+
+2\. La duración máxima de la pega será de 125 milisegundos.
+
+#### 12. Aplicación de las modalidades.
+
+En las distintas clases de labores, enumeradas en los apartados anteriores, sólo podrán emplearse en cada voladura una de las modalidades definidas según las limitaciones que se expresan a continuación y que se resumen en el cuadro 1.
+
+1\. En las labores de primera clase, cualquiera de las modalidades A, B, C, D, E, F y G.
+
+2\. En las labores de segunda clase, cualquiera de las modalidades B, C, D, E, F y G.
+
+3\. En las labores de tercera clase, cualquiera de las modalidades C, D, E, F y G.
+
+4\. En las labores de cuarta clase, cualquiera de las modalidades D, E, F y G.
+
+5\. En las labores de quinta clase, sólo la modalidad F.
+
+6\. En las labores de sexta clase, sólo la modalidad G.
+
+#### 13. Clasificación de los detonadores.
+
+Los detonadores eléctricos se clasifican en instantáneos, de microrretardo y retardo.
+
+En los detonadores de microrretardo, el intervalo de tiempo entre los barrenos de una pega, que puedan influirse mutuamente, será como máximo de 125 milisegundos y la duración total de la pega de 500 milisegundos.
+
+#### 14. Excepciones.
+
+En los métodos de trabajo no especificados en la presente Instrucción, cuyo nivel de seguridad sea semejante al perseguido por las normas de carácter general establecidas, podrán ser introducidas modificaciones en lo referente al uso de explosivos, carga de los barrenos y duración máxima de la pega. Para ello se precisará la aprobación de la autoridad minera competente que decidirá a la vista de la petición razonada del interesado.
+
+La autoridad minera competente podrá acordar excepciones a las condiciones anteriores de disparo, siempre que éstos sean efectuados:
+
+Bien desde el exterior, con la mina vacía, o bien limitando la presencia en el interior sólo al personal indispensable para la ejecución del disparo, el cual deberá refugiarse debidamente.
+
+Independizando el frente de disparo del resto de la mina por una barrera estanca y capaz de resistir una explosión, en cuyo caso ninguna persona podrá permanecer entre el fuego de disparo y la barrera.
+
+**Esquema de aplicación de los apartados 10 y 11**
+
+(Cuadro 1)
+
+<table>
+<thead>
+<tr>
+<td colspan="6">
+<p>Clase de la labor</p>
+</td>
+<td colspan="6">
+<p>Modalidad de disparo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Primera</p>
+</td>
+<td>
+<p>Segunda</p>
+</td>
+<td>
+<p>Tercera</p>
+</td>
+<td>
+<p>Cuarta</p>
+</td>
+<td>
+<p>Quinta</p>
+</td>
+<td>
+<p>Sexta</p>
+</td>
+<td>
+<p>Denominación</p>
+</td>
+<td>
+<p>Tipo de explosivo</p>
+</td>
+<td>
+<p>Carga máxima por barreno</p>
+<p>–</p>
+<p>Gramos</p>
+</td>
+<td>
+<p>Duración máxima de la pega</p>
+</td>
+<td>
+<p>Intervalo de tiempo máximo entre dos barrenos capaces de influirse</p>
+<p>–</p>
+<p>ms</p>
+</td>
+<td>
+<p>Observaciones</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>A</p>
+</td>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>Sin limitación</p>
+</td>
+<td>
+<p>Sin limitación</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>B</p>
+</td>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+<td>
+<p>5 s</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>No pueden cargarse barrenos que hayan cortado carbón.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>C</p>
+</td>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>125 ms</p>
+</td>
+<td>
+<p>125</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>D</p>
+</td>
+<td>
+<p>lI</p>
+</td>
+<td>
+<p>500</p>
+</td>
+<td>
+<p>125 ms</p>
+</td>
+<td>
+<p>125</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Sí</p>
+</td>
+<td rowspan="2">
+<p>Sí</p>
+</td>
+<td rowspan="2">
+<p>Sí</p>
+</td>
+<td rowspan="2">
+<p>Sí</p>
+</td>
+<td rowspan="2">
+<p>No</p>
+</td>
+<td rowspan="2">
+<p>No</p>
+</td>
+<td rowspan="2">
+<p>E</p>
+</td>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+<td>
+<p>5 ms</p>
+</td>
+<td rowspan="2">
+<p>125</p>
+</td>
+<td>
+<p>Si V ≥ 0,5 = m/s</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IV</p>
+</td>
+<td>
+<p>2.500</p>
+</td>
+<td>
+<p>500 ms</p>
+</td>
+<td>
+<p>Si V ≤ 0,5 = m/s</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Sí</p>
+</td>
+<td rowspan="2">
+<p>Sí</p>
+</td>
+<td rowspan="2">
+<p>Sí</p>
+</td>
+<td rowspan="2">
+<p>Sí</p>
+</td>
+<td rowspan="2">
+<p>Sí</p>
+</td>
+<td rowspan="2">
+<p>No</p>
+</td>
+<td rowspan="2">
+<p>F</p>
+</td>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+<td rowspan="2">
+<p>500 ms</p>
+</td>
+<td rowspan="2">
+<p>125</p>
+</td>
+<td rowspan="2"> </td>
+</tr>
+<tr>
+<td>
+<p>IV</p>
+</td>
+<td>
+<p>2.500</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Sí</p>
+</td>
+<td rowspan="2">
+<p>Sí</p>
+</td>
+<td rowspan="2">
+<p>Sí</p>
+</td>
+<td rowspan="2">
+<p>Sí</p>
+</td>
+<td rowspan="2">
+<p>Sí</p>
+</td>
+<td rowspan="2">
+<p>Sí</p>
+</td>
+<td rowspan="2">
+<p>G</p>
+</td>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>1.500</p>
+</td>
+<td rowspan="2">
+<p>125 ms</p>
+</td>
+<td rowspan="2">
+<p>125</p>
+</td>
+<td rowspan="2"> </td>
+</tr>
+<tr>
+<td>
+<p>IV</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Redactada la numeración de la ITC y los apartados 10, 11 y 12 conforme a la corrección de errores publicada en BOE núm. 196, de 16 de agosto de 1986. [Ref. BOE-A-1986-22054](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-22054).

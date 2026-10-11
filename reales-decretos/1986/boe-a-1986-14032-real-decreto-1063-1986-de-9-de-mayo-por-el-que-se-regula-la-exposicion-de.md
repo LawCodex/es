@@ -1,0 +1,216 @@
+---
+title: "Real Decreto 1063/1986, de 9 de mayo, por el que se regula la exposición de documentos y certificados referentes al sector de actividades comerciales establecidos por las Directivas del Consejo de la Comunidad Económica Europea en la materia, para facilitar el derecho de establecimiento y la libre prestación de servicios en los diferentes Estados Miembros de la Comunidad Económica Europea"
+identifier: "BOE-A-1986-14032"
+eli: "https://www.boe.es/eli/es/rd/1986/05/09/1063"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1986-05-09
+published: 1986-06-03
+in_force_from: 1986-06-23
+last_amended: 2003-03-01
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 132"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-14032"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1063/1986, de 9 de mayo, por el que se regula la exposición de documentos y certificados referentes al sector de actividades comerciales establecidos por las Directivas del Consejo de la Comunidad Económica Europea en la materia, para facilitar el derecho de establecimiento y la libre prestación de servicios en los diferentes Estados Miembros de la Comunidad Económica Europea
+
+Incluye la corrección de errores del epígrafe de la ley publicada en BOE núm. 151, de 25 de junio de 1986. [Ref. BOE-A-1986-16763](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-16763).
+
+El Acta relativa a las condiciones de adhesión del Reino de España a las Comunidades Económicas Europeas establece que, desde el momento de la adhesión, España será considerada como destinataria y que ha recibido notificación de las Directivas Comunitarias ya notificadas a todos los demás Estados Miembros, debiendo poner en vigor las medidas que sean necesarias para cumplir las disposiciones de las mismas.
+
+En materia de derecho de establecimiento y de libre prestación de servicios, por lo que se refiere al sector comercial, las diferentes Directivas Comunitarias en vigor en la materia, tratan de suprimir las posibles restricciones que dificultan la libertad de establecimiento o la libre prestación de servicios, y por ello, cuando en algún Estado Miembro de la Comunidad se exija para acceder a la actividad comercial en general, o a ciertas actividades específicas de la misma, bien unas pruebas de honorabilidad o la posesión de determinados conocimientos o experiencias prácticas en materia comercial, las Directivas Comunitarias establecen como prueba suficiente para los ciudadanos de los demás Estados Miembros, la presentación de documentos o certificaciones expedidos por Autoridades u Organismos competentes del país de origen o procedencia, que hayan sido previamente designados por el mismo y su designación comunicada tanto a los demás Estados Miembros como a la Comisión.
+
+En este sentido y para favorecer el ejercicio efectivo de la libertad de establecimiento y la libre prestación de servicios en los diferentes Estados Miembros de la Comunidad Económica Europea, se hace preciso regular estos extremos y, en concreto, coordinar la necesaria aportación de documentos y otras pruebas exigidas por las diferentes Directivas de la CEE, unificando en un Organismo determinado de la Administración del Estado la expedición final de los certificados que permitan el ejercicio del derecho de establecimiento en el sector de actividades comerciales en los diferentes Estados Miembros de la CEE. Y a tal efecto se designa, en razón de sus competencias en la materia, a la Dirección General de Comercio Interior del Ministerio de Economía y Hacienda, adaptándose así a las Directivas Comunitarias y cumpliendo con las disposiciones establecidas por las mismas.
+
+En su virtud, a propuesta del Ministerio de Economía y Hacienda, previa deliberación del Consejo de Ministros del día 9 de mayo de 1986,
+
+DISPONGO:
+
+## Art. 1.
+
+Se designa a la Dirección General de Comercio Interior de la Secretaría de Estado de Comercio del Ministerio de Economía y Hacienda como Organismo competente para la expedición, de conformidad con lo que establece el artículo 2.º de esta disposición, de:
+
+a) Los documentos a que se refiere el artículo 9 de la Directiva 1999/42/CE del Parlamento Europeo y del Consejo, de 7 de junio de 1999, por la que se establece un mecanismo de reconocimiento de títulos respecto de las actividades profesionales a que se refieren las Directivas de liberalización y de medidas transitorias, respecto de las actividades comerciales enumeradas en los siguientes apartados de su anexo A:
+
+Anexo A, primera parte, lista V, párrafos a) y b).
+
+Anexo A, primera parte, lista VI, apartados 1 y 4.
+
+Anexo A, segunda parte, apartados 3 y 11.
+
+b) Las certificaciones acreditativas de que se cumplen las condiciones establecidas en los artículos 2.º y 3.º de la Directiva 74/556/CEE del Consejo de 4 de junio, sobre las modalidades de las medidas transitorias en el campo de las actividades referentes al comercio y la distribución de productos tóxicos, y a las actividades que impliquen la utilización profesional de estos productos, incluidas las actividades de los intermediarios, según establece el artículo 4.º, 2, de dicha Directiva.
+
+c) Los documentos a que se refieren los apartados 1 y 2 del artículo 7.º de la Directiva 74/557/CEE del Consejo de 4 de junio, relativa a la realización de la libertad de establecimiento y la libre prestación de servicios para las actividades no asalariadas, y las actividades de intermediarios, referentes al comercio y la distribución de productos tóxicos.
+
+d) **(Suprimida)**
+
+e) **(Suprimida)**
+
+f) **(Suprimida)**
+
+g) **(Suprimida)**
+
+h) **(Sin contenido)**
+
+i) **(Sin contenido)**
+
+j) **(Suprimida)**
+
+> Se suprimen las letras b) a g) y j) y el contenido de las letras h) e i) pasa a las letras b) y c) por la disposición adicional 1 del Real Decreto 253/2003, de 28 de febrero. [Ref. BOE-A-2003-4245](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-4245).
+
+> Se interpreta que las letras h) e i) quedan sin contenido.
+
+## Art. 2.
+
+La Dirección General de Comercio Interior expedirá los certificados y documentos a que se refiere el artículo anterior, mediante la aportación por parte del interesado de las certificaciones correspondientes del Registro Mercantil, del Registro Central de Penados y Rebeldes y de las Cámaras de Comercio en relación con los diferentes extremos a que se refieren las Directivas Comunitarias citadas en el artículo 1.º Asimismo, la Dirección General de Comercio Interior podrá solicitar del interesado la aportación de otros datos y certificaciones que sean necesarios para completar el expediente.
+
+## Art. 3.
+
+Cuando la certificación que expida la Dirección General de Comercio Interior se refiera a la naturaleza y a la duración de las actividades profesionales comerciales ejercidas por el peticionario en España, dicha certificación deberá ajustarse al modelo oficial establecido por las Comunidades Europeas y que figura como anejo a este Real Decreto.
+
+## Art. 4.
+
+Cuando se trata de documentos o certificados que por razón de la materia deban ser acreditados por las Comunidades Autónomas, la Dirección General de Comercio Interior de la Secretaria de Estado de Comercio recabará de los órganos competentes de aquéllas su remisión antes de proceder a la expedición de los certificados a los que se refiere el articulo 1.º de este Real Decreto.
+
+En tales supuestos, la Dirección General de Comercio Interior adoptará las medidas de coordinación precisas para asegurar que la emisión de certificados por las distintas Administraciones Públicas se ajuste a las condiciones exigidas por las Comunidades Europeas.
+
+> Se declara la no aplicación directa en el ámbito territorial de las CCAA del País Vasco y Cataluña por Sentencia del TC 80/1993, de 8 de marzo. [Ref. BOE-T-1993-9761](https://www.boe.es/buscar/doc.php?id=BOE-T-1993-9761).
+
+> Se añade por el Real Decreto 2225/1986, de 3 de octubre. [Ref. BOE-A-1986-28535](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-28535).
+
+Dado en Madrid a 9 de mayo de 1986.
+
+JUAN CARLOS R.
+
+El Ministro de Economía y Hacienda,
+
+CARLOS SOLCHAGA CATALÁN
+
+## ANEXO
+
+**DIRECCIÓN GENERAL DE COMERCIO INTERIOR**
+
+**Secretaría de Estado de Comercio**
+
+MINISTERIO DE ECONOMÍA Y HACIENDA
+
+MADRID
+
+CERTIFICACIÓN
+
+Relativa a las actividades ejercidas con arreglo a lo dispuesto en las Directivas del Consejo de las Comunidades Europeas relativas a las modalidades de las medidas transitorias en materia de libertad de establecimiento y de libre prestación de servicios.
+
+Don/doña ........................................................................................................................
+
+(Nombre y apellidos)
+
+Nacido/a en ....................................................., a ..........................................................
+
+Nacionalidad ..................................................................................................................
+
+Con domicilio en .............................................................................................................
+
+I. Ha ejercido, según acreditan las pruebas aportadas:
+
+|  |  | Año | Mes |
+|---|---|---|---|
+| 1. | Una actividad no asalariada |  |  |
+|  | del .......................................... al .......................................... | ......... | ......... |
+|  | Razón social y dirección de la Empresa ............................... |  |  |
+|  | .............................................................................................. |  |  |
+|  | Naturaleza de la actividad de la Empresa (1) ....................... |  |  |
+|  | .............................................................................................. |  |  |
+| 2. | Las funciones de Director de Empresa/de la sucursal |  |  |
+|  | del .......................................... al .......................................... | ......... | ......... |
+|  | Razón social y dirección de la Empresa/de la |  |  |
+|  | sucursal (1) .......................................................................... |  |  |
+|  | Naturaleza de la actividad de la Empresa/de la |  |  |
+|  | sucursal (1) .......................................................................... |  |  |
+|  | del ........................................... al ......................................... | ......... | ......... |
+|  | Razón social y dirección de la Empresa/de la sucursal ....... |  |  |
+|  | .............................................................................................. |  |  |
+|  | Naturaleza de la actividad de la Empresa/de la sucursal (1) |  |  |
+|  | .............................................................................................. |  |  |
+| 3. | Las funciones del representante de la Empresa/del Director de la Empresa |  |  |
+|  | del ....................................... al ............................................. | ......... | ......... |
+|  | Razón social y dirección de la Empresa ............................... |  |  |
+|  | .............................................................................................. |  |  |
+|  | Naturaleza de la actividad de la Empresa (1) ....................... |  |  |
+|  | .............................................................................................. |  |  |
+|  | del ......................................... al ........................................... | ......... | ......... |
+|  | Razón social y dirección de la Empresa ............................... |  |  |
+|  | .............................................................................................. |  |  |
+|  | Naturaleza de la actividad de la Empresa (1) ....................... |  |  |
+|  | .............................................................................................. |  |  |
+| 4. | Una función de dirección: |  |  |
+|  | – En el plano técnico (2). |  |  |
+|  | – En el plano comercial (2). |  |  |
+|  | – En el plano de la gestión, con las tareas características de la profesión (2). |  |  |
+|  | Y al frente, por lo menos, de un sector de la Empresa |  |  |
+|  | del ......................................... al ........................................... | ......... | ......... |
+|  | Razón social y dirección de la Empresa ............................... |  |  |
+|  | .............................................................................................. |  |  |
+|  | Naturaleza de la actividad de la Empresa (1) ....................... |  |  |
+|  | .............................................................................................. |  |  |
+|  | del ............................................ al ........................................ | ......... | ......... |
+|  | Razón social y dirección de la Empresa ............................... |  |  |
+|  | .............................................................................................. |  |  |
+|  | Naturaleza de la actividad de la Empresa (1) ....................... |  |  |
+|  | .............................................................................................. |  |  |
+| 5. | Una actividad asalariada |  |  |
+|  | del ............................................ al ........................................ | ......... | ......... |
+|  | Razón social y dirección de la Empresa ............................... |  |  |
+|  | ......................................................................................................... |  |  |
+|  | Naturaleza de la actividad de la Empresa (1) ....................... |  |  |
+|  | .............................................................................................. |  |  |
+|  | del .............................................al ........................................ | .......... | .......... |
+|  | Razón social y dirección de la Empresa ............................... |  |  |
+|  | .............................................................................................. |  |  |
+|  | Naturaleza de la actividad de la Empresa (1) ........................ |  |  |
+|  | .............................................................................................. |  |  |
+
+II. Ha justificado en la profesión de ................ una formación previa recibida del ..................................................................................... al ............................................................ y que está sancionada por ...................................................................................................
+
+(Denominación del certificado o diploma reconocido por el Estado)
+
+..............................................................................................................................................
+
+(Autoridad expedidora)
+
+o estimado plenamente válido por .................................................................................
+
+(Organismo profesional competente)
+
+La presente certificación se expide al interesado para que sea remitida a las Autoridades competentes de los Estados miembros de las Comunidades Europeas como prueba del ejercicio de las actividades mencionadas en la misma o de la formación recibida; acompañará a la solicitud de autorización que el peticionario deba presentar, con arreglo a lo dispuesto en la legislación del país de acogida, para el ejercicio en el mismo de cualquier actividad no asalariada en dichas Directivas.
+
+Fecha .........................................................................................................
+
+Sello/firma
+
+(A rellenar por las actividades para las que exista una monografía profesional en el país de acogida)
+
+Descripción de las actividades ejercidas
+
+| 1. Designación de la profesión .......................................................................................... |
+|---|
+| (En el país de procedencia) |
+| ....................................................................................................................................... <br>(En el país de acogida) |
+
+| 2. Razón social, natauraleza de la actividad y dirección de la Empresa (en su caso, indíquese la actividad del sector de empresa afectado) |  | Descripción detallada de las actividades ejercidas, con arreglo a la monografía profesional del país de acogida que figura en el Registro de la Comisión de las Comunidades Europeas (con referencia, si fuera posible, a los números de orden indicados en el mismo). |
+|---|---|---|
+| ......................................................................... |  | ............................................................................... |
+| ......................................................................... |  | ............................................................................... |
+| ......................................................................... |  | ............................................................................... |
+| ......................................................................... |  | ............................................................................... |
+| ......................................................................... |  | ............................................................................... |
+| ......................................................................... |  | ............................................................................... |
+
+(1) El solicitante indicará el tipo de actividad que ha ejercido en la Empresa/sucursal.
+
+(2) Táchese lo que no proceda.

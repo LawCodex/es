@@ -1,0 +1,65 @@
+---
+title: "Real Decreto 1982/1978, de 26 de julio, sobre la organización de los servicios encargados de gestionar la explotación de la infraestructura hidráulica «Trasvase Tajo-Segura»"
+identifier: "BOE-A-1978-21522"
+eli: "https://www.boe.es/eli/es/rd/1978/07/26/1982"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Obras Públicas y Urbanismo"
+date: 1978-07-26
+published: 1978-08-22
+in_force_from: 1978-08-23
+last_amended: 1980-11-22
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 200"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-21522"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1982/1978, de 26 de julio, sobre la organización de los servicios encargados de gestionar la explotación de la infraestructura hidráulica «Trasvase Tajo-Segura»
+
+Próxima la terminación de las obras de infraestructura hidráulica del «Trasvase Tajo-Segura» se hace necesario proceder a la organización de los servicios encargados de su explotación en los aspectos técnico y económico. Estando ubicados sus elementos esenciales en el ámbito de las Confederaciones Hidrográficas del Tajo y del Segura, resulta necesario el apoyo de los Servicios de ambos Organismos autónomos al objeto de conseguir la más eficaz explotación.
+
+Para el mejor logro de este propósito, se juzga apropiada la constitución de una Comisión en la Dirección General de Obras Hidráulicas, cuyo cometido fundamental será la supervisión del régimen de explotación del acueducto y el control y la coordinación de las Confederaciones Hidrográficas aludidas, en relación con este tema.
+
+En su virtud, a propuesta del Ministro de Obras Públicas y Urbanismo, con la aprobación de la Presidencia del Gobierno, y previa deliberación del Consejo de Ministros en su reunión del día veintiséis de julio de mil novecientos setenta y ocho,
+
+DISPONGO:
+
+## Artículo 1.
+
+La Confederación Hidrográfica del Tajo tomará a su cargo las tareas de la gestión técnica y económica de la explotación de la infraestructura hidráulica «Trasvase Tajo-Segura» en la parte correspondiente al tramo de conducción desde la toma en el río Tajo hasta el desagüe en el embalse de Talave. La Confederación Hidrográfica del Segura tomará a su cargo las mismas tareas correspondientes a la explotación de las aguas recibidas en dicho embalse, de conformidad con las disposiciones que regulen su aplicación a los diferentes usos.
+
+## Artículo 2.
+
+Bajo la presidencia del Director general de Obras Hidráulicas, se constituye la Comisión Central de Explotación del Acueducto Tajo-Segura, que estará integrada por los siguientes miembros:
+
+Vicepresidente: Los Subdirectores generales de «Explotación», «Comisario central de Aguas» y de «Programación» de la citada Dirección General de Obras Hidráulicas.
+
+Vocales: Los Directores de las Confederaciones Hidrográficas del Tajo y del Segura, el Director del Centro de Estudios Hidrográficos, y el Director de la Mancomunidad de los Canales del Taibilla.
+
+Secretario: Un funcionario de la Dirección General de Obras Hidráulicas, designado por el Director general Presidente de la Comisión.
+
+El Director general de Obras Hidráulicas podrá convocar a las reuniones de la Comisión, con carácter de asesores, a las personas que estime convenientes.
+
+Corresponde a esta Comisión primordialmente la supervisión del régimen de explotación del «Trasvase Tajo-Segura», los estudios y propuestas relacionados con la misma, el control y la coordinación de las Confederaciones Hidrográficas en relación con las tareas que les son encomendadas en el artículo 1.
+
+En particular le compete el estudio de las modificaciones de plantilla y de la estructuración presupuestaria de ambos Organismos autónomos, que sean aconsejables para la gestión complementaria que se les encomienda, e igualmente la propuesta de las bases y tipos de las tarifas y cánones consecuentes con la explotación económica, y la vigilancia de su percepción y aplicación en las respectivas secciones presupuestarias de ambas Confederaciones Hidrográficas; todo ello sin perjuicio de lo establecido al respecto en la Ley de Entidades Estatales Autónomas, Ley General Presupuestaria y demás disposiciones complementarias.
+
+Serán de aplicación a la Comisión Central de Explotación del Acueducto Tajo-Segura los preceptos contenidos en el capítulo segundo del título primero de la vigente Ley de Procedimiento Administrativo sobre régimen de funcionamiento y adopción de acuerdos de los órganos colegiados.
+
+> Téngase en cuenta que se incorporan a la Comisión Central de Explotación del Acueducto Tajo-Segura las Confederaciones Hidrográficas del Sur de España, Júcar y Guadiana, en los mismos términos establecidos en el presente artículo para las Confederaciones Hidrográficas del Tajo y el Segura, según establece el art. único del Real Decreto 2529/1980, de 14 de noviembre. [Ref. BOE-A-1980-25523](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-25523)
+
+## Disposición final.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca a veintiséis de julio de mil novecientos setenta y ocho.
+
+JUAN CARLOS
+
+El Ministro de Obras Públicas y Urbanismo,
+
+JOAQUIN GARRIGUES WALKER

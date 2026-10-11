@@ -1,0 +1,680 @@
+---
+title: "Real Decreto 1413/1994, de 25 de junio, por el que se aprueban las normas técnico-sanitarias sobre los materiales y objetos de película de celulosa regenerada para uso alimentario"
+identifier: "BOE-A-1994-18669"
+eli: "https://www.boe.es/eli/es/rd/1994/06/25/1413"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1994-06-25
+published: 1994-08-10
+in_force_from: 1994-08-11
+last_amended: 2005-06-18
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 190"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-18669"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1413/1994, de 25 de junio, por el que se aprueban las normas técnico-sanitarias sobre los materiales y objetos de película de celulosa regenerada para uso alimentario
+
+La Directiva 89/109/CEE del Consejo, de 21 de diciembre de 1988, relativa a los materiales y objetos destinados a entrar en contacto con los productos alimenticios, que derogó la Directiva 76/893/CEE del Consejo, de 23 de noviembre, fue incorporada al ordenamiento jurídico español a través del Real Decreto 397/1990, de 16 de marzo, por el que se aprueban las condiciones generales de los materiales, para uso alimentario, distintos de los poliméricos.
+
+El artículo 4 del mencionado Real Decreto prevé que la idoneidad de los diversos materiales autorizados para entrar en contacto con los productos alimenticios, entre ellos, los materiales y objetos de película de celulosa regenerada, será definida mediante disposiciones específicas que vengan a completar lo dispuesto en el mismo.
+
+La definición acerca de la idoneidad de los materiales empleados en la elaboración de los materiales y objetos de película de celulosa regenerada para uso alimentario se efectuó a nivel comunitario mediante la Directiva 83/229/CEE del Consejo, de 25 de abril, relativa a dicha materia, modificada a su vez, con posterioridad, por la Directiva 86/388/CEE de la Comisión, de 23 de junio.
+
+La transposición al ordenamiento jurídico interno del contenido de dichas disposiciones específicas tuvo lugar a través del Real Decreto 1044/1990, de 27 de julio, por el que se aprobó la Instrucción técnico-sanitaria sobre materiales y objetos de película de celulosa regenerada para uso alimentario, que fue objeto de modificación por el Real Decreto 2123/1993, de 3 de diciembre, que incorporaba la Directiva 92/15/CEE de la Comisión, de 11 de marzo, por la que se modifica la Directiva 83/229/CEE, de 25 de abril.
+
+El número de modificaciones efectuadas por la legislación comunitaria en el ámbito de los materiales y objetos de película de celulosa regenerada destinados a entrar en contacto con productos alimenticios, así como su complejidad, han motivado que la Comisión haya procedido a refundir en una sola Directiva, la 93/10/CEE, de 15 de marzo, las Directivas dictadas hasta la fecha en dicha materia.
+
+Consecuentemente, las Directivas 93/10/CEE de la Comisión, de 15 de marzo, y la 93/111/CE de la Comisión, de 10 de diciembre, que modifica la anterior, no sólo sustituyen a las anteriores, sino que igualmente actualizan su contenido, lo que requiere su incorporación a nuestro ordenamiento jurídico, incorporación que se efectúa mediante la presente disposición, en cuya elaboración han sido oídos los sectores afectados y ha informado la Comisión Interministerial para la Ordenación Alimentaria.
+
+El presente Real Decreto tiene el carácter de norma básica, dictándose de acuerdo con lo dispuesto en el artículo 40.4 de la Ley 14/1986, de 25 de abril, General de Sanidad, y al amparo de lo establecido en el artículo 149.1.16.ª de la Constitución.
+
+En su virtud, a propuesta de los Ministros de Sanidad y Consumo, de Industria y Energía y de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 24 de junio de 1994,
+
+DISPONGO:
+
+### Artículo 1. Objeto.
+
+El presente Real Decreto, referido a la celulosa regenerada, complementa el Real Decreto 397/1990, de 16 de marzo, por el que se aprueban las condiciones generales de los materiales para uso alimentario, distintos de los poliméricos, en la forma prevista en su artículo cuarto.
+
+### Artículo 2. Definición y ámbito de aplicación.
+
+1\. A los efectos del presente Real Decreto, se entiende por «película de celulosa regenerada» a la hoja delgada obtenida a partir de celulosa refinada procedente de madera o algodón no reciclados. Por exigencias técnicas podrán añadirse sustancias adecuadas en la masa o en su superficie. Las películas de celulosa regenerada podrán estar barnizadas por una de sus caras o por ambas.
+
+2\. El presente Real Decreto se aplicará a las películas de celulosa regenerada que:
+
+a) Constituyan en sí mismas un producto terminado, o bien,
+
+b) Sean parte de un producto terminado que incluya otros materiales y que estén destinadas a entrar en contacto con productos alimenticios.
+
+3\. El presente Real Decreto no se aplicará:
+
+a) **(Suprimido)**
+
+b) A las tripas sintéticas de celulosa regenerada.
+
+4\. Las películas de celulosa regenerada mencionadas en el apartado 2 pertenecen a una de las categorías siguientes:
+
+a) Películas de celulosa regenerada no barnizadas.
+
+b) Películas de celulosa regenerada con barnices derivados de la celulosa.
+
+c) Películas de celulosa regenerada barnizadas con material plástico.
+
+> Se suprime el párrafo a) del apartado 3 y se añade el apartado 4 por el art. único.1 y 2 del Real Decreto 691/2005, de 10 de junio. [Ref. BOE-A-2005-10381](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10381).
+
+### Artículo 3. Sustancias autorizadas.
+
+1\. En la fabricación de películas de celulosa regenerada no barnizadas y en la de películas de celulosa regenerada con barnices derivados de la celulosa, sólo podrán utilizarse las sustancias o grupos de sustancias enumerados en el anexo y únicamente en las condiciones que en él se especifican.
+
+2\. Se autoriza el uso de otras sustancias no listadas en el anexo cuando estas sustancias se utilicen como colorantes (colorantes y pigmentos) o como adhesivos, con la condición de que no haya trazas de migración de las citadas sustancias al interior o a la superficie de los productos alimenticios, detectables mediante un método validado.
+
+3\. Las películas de celulosa regenerada barnizadas con material plástico se fabricarán, antes de aplicar el barniz, utilizando sólo las sustancias o grupos de sustancias enumerados en la primera parte del anexo y únicamente en las condiciones que se especifican en dicha parte.
+
+En la fabricación del barniz de las películas de celulosa regenerada barnizadas con material plástico, solo podrán utilizarse las sustancias o grupos de sustancias enumerados en los anexos II, V, VI y VII del Real Decreto 118/2003, de 31 de enero, por el que se aprueba la lista de sustancias permitidas para la fabricación de materiales y objetos plásticos destinados a entrar en contacto con los alimentos y se regulan determinadas condiciones de ensayo, modificado por la Orden SCO/983/2003, de 15 de abril, y únicamente en las condiciones en ellos establecidas.
+
+Sin perjuicio de lo dispuesto en el primer párrafo de este apartado, los materiales y objetos de película de celulosa regenerada barnizados con material plástico se ajustarán a lo dispuesto en los artículos 4, 5 y 6 del Real Decreto 118/2003, de 31 de enero.
+
+> Se modifica por el art. único.3 del Real Decreto 691/2005, de 10 de junio. [Ref. BOE-A-2005-10381](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10381).
+
+### Artículo 4. Etiquetado.
+
+1\. Los materiales y objetos de película de celulosa regenerada deberán etiquetarse de acuerdo a lo previsto en los artículos 6, 7 y 8 del Real Decreto 397/1990, de 16 de marzo, por el que se aprueban las condiciones generales de los materiales, para uso alimentario, distintos de los poliméricos.
+
+2\. Cuando se indiquen condiciones especiales de uso, éstas se harán constar en el etiquetado.
+
+### Artículo 5. Declaración para la comercialización.
+
+1\. En las fases de comercialización que no sean las de venta al por menor, los materiales y objetos de película de celulosa regenerada destinados a entrar en contacto con productos alimenticios deberán ir acompañados de una declaración por escrito, que certifique su conformidad con las disposiciones legales vigentes en la materia que les sean aplicables.
+
+2\. Lo dispuesto en el párrafo anterior no se aplicará a los materiales y objetos de película de celulosa regenerada que, por su naturaleza, estén claramente destinados a entrar en contacto con los productos alimenticios y, por lo tanto, deban cumplir las exigencias legales establecidas para los mismos.
+
+### Artículo 6. Prohibición.
+
+La superficie impresa de las películas de celulosa regenerada no deberá entrar en contacto con los productos alimenticios.
+
+### Disposición adicional única. Habilitación.
+
+Lo dispuesto en el presente Real Decreto se dicta al amparo de lo establecido en el artículo 149.1.16.ª de la Constitución y de acuerdo con lo dispuesto en el artículo 40.4 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+### Disposición transitoria única. Películas de celulosa regenerada con las condiciones de la legislación anterior.
+
+Se autoriza, hasta el 31 de diciembre de 1994, el comercio y la utilización de películas de celulosa regenerada destinadas a entrar en contacto con productos alimenticios, y que cumpliendo las condiciones exigidas en el Real Decreto 1044/1990, de 27 de julio, modificado por el Real Decreto 2123/1993, de 3 de diciembre, por el que se aprueba y modifica, respectivamente, la Instrucción técnico-sanitaria sobre materiales y objetos de película de celulosa regenerada para uso alimentario, no se ajusten a lo dispuesto en el presente Real Decreto.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Sin perjuicio de lo establecido en la disposición transitoria, quedan derogados el Real Decreto 1044/1990, de 27 de julio, por el que se aprueba la Instrucción técnico-sanitaria sobre materiales y objetos de película de celulosa regenerada para uso alimentario, y el Real Decreto 2123/1993, de 3 de diciembre, por el que se modifica el Real Decreto anteriormente citado, y cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto.
+
+### Disposición final única. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 25 de junio de 1994.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+ALFREDO PÉREZ RUBALCABA
+
+## ANEXO — Lista de las sustancias autorizadas en la fabricación de películas de celulosa regenerada
+
+Los porcentajes que figuran en este anexo están expresados en peso/peso y calculados en relación a la cantidad de película de celulosa regenerada anhidra no barnizada.
+
+Las denominaciones técnicas usuales aparecen entre paréntesis.
+
+Las sustancias utilizadas deberán ser de buena calidad técnica por lo que respecta a los criterios de pureza.
+
+## Primera parte — Película de celulosa regenerada no barnizada
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>DENOMINACIONES</p>
+</td>
+<td>
+<p>RESTRICCIONES</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A. Celulosa regenerada.</p>
+</td>
+<td>
+<p>No menos del 72 por 100 (p/p).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B. Aditivos:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1. Humidificantes.</p>
+</td>
+<td>
+<p>No más del 27 por 100 (p/p) en total.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bis(2-hidroxietil)éter (=dietilenglicol). Etanodiol (=monoetilenglicol). 1,3-butanodiol. Glicerol. 1,2-propanodiol (=1,2 propilenglicol).</p>
+</td>
+<td>
+<p>Sólo para las películas destinadas a ser barnizadas y posteriormente utilizadas con productos alimenticios no húmedos, es decir, que no contengan agua físicamente libre en la superficie. La cantidad total de bis(2-hidroxietil) éter y de etanodiol presente en los productos alimenticios que hayan estado en contacto con una película de este tipo no sobrepasará los 30 mg/Kg.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Óxido de polietileno (=polietilenglicol).</p>
+</td>
+<td>
+<p>Peso molecular medio entre 250 y 1200.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Óxido de 1,2-polipropileno (=1,2 polipropilenglicol).</p>
+</td>
+<td>
+<p>Peso molecular medio inferior o igual a 400 y proporción de 1,3-propanodiol libre de la sustancia inferior o igual a 1 por 100 (p/p)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sorbitol.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tetraetilenglicol.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Trietilenglicol.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Urea.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. Otros aditivos.</p>
+</td>
+<td>
+<p>No más del 1 por 100 en total.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a) Primera clase.</p>
+</td>
+<td>
+<p>La cantidad de la sustancia de cada rúbrica no sobrepasará los 2 mg/dm<sup>2</sup> de película no barnizada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido acético y sus sales de NH<sub>4</sub>, Ca, Mg, K y Na.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido ascórbico y sus sales de NH<sub>4</sub>, Ca, Mg, K y Na.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido benzoico y benzoato de sodio.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido fórmico y sus sales de NH<sub>4</sub>, Ca, Mg, K y Na.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácidos grasos lineales o insaturados con número par de átomos de carbono entre 8 y 20, inclusive, y también ácido behénico y ácido ricinoleico y sus sales de NH<sub>4</sub>, Ca, Mg, Na, Al, Zn y K.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido cítrico, d y l-láctico, málico, l-tartárico y sus sales de Na y K.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido sórbico y sus sales de NH<sub>4</sub>, Ca, Mg, K y Na.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Amidas de ácidos grasos lineales, saturados ó insaturados, con número par de átomos de carbono entre 8 y 20, inclusive, y también las amidas de los ácidos behénico y ricinoleico.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Almidones y harinas alimenticias naturales.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Almidones y harinas alimenticias modificadas por tratamiento químico.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Amilosa.</p>
+<p>Carbonatos y cloruros de calcio y de magnesio.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Esteres de glicerol con ácidos grasos lineales, saturados o insaturados, con número par de átomos de carbono entre 8 y 20, inclusive, y/o con ácidos adípico, cítrico, 12-hidroxiesteárico (oxiestearina) y ricinoleico.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Esteres de polioxietileno (número de grupos de oxietileno entre 8 y 14) con ácidos grasos lineales, saturados o insaturados, con número par de átomos de carbono entre 8 y 20, inclusive.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Esteres de sorbitol con ácidos grasos lineales saturados o insaturados, con número par de átomos de carbono entre 8 y 20, inclusive.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mono y/o diésteres del ácido esteárico con etanodiol y/o bis (2-hi- droxietil) éter y/o trie tilenglicol.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Óxidos e hidróxidos de aluminio, calcio, magnesio y silicio, así como silicatos y silicatos hidratados de aluminio, calcio, magnesio y potasio.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Óxido de polietileno (=polietilenglicol). Propionato de sodio.</p>
+</td>
+<td>
+<p>Peso molecular entre 1200 y 4000.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>b) Segunda clase.</p>
+</td>
+<td>
+<p>La cantidad total de sustancias no sobrepasará de un mg/dm<sup>2</sup> de la película no barnizada y la cantidad de la sustancia o grupo de sustancias de cada rúbrica no sobrepasará de 0,2 mg/dm<sup>2</sup> (o de un límite inferior, si así estuviera especificado) de la película no barnizada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alquil (C<sub>8</sub>-C<sub>18</sub>) bencenosulfonato de sodio.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lsopropilnaftalensulfonato de sodio.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alquil (C<sub>8</sub>-C<sub>1</sub>8) sulfato de sodio.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alquil (C<sub>8</sub>-C<sub>18</sub>) sulfonato de sodio.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dioctilsulfosuccinato de sodio.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Diestearato de dihidroxietil-dietilentriaminomonoacetato.</p>
+</td>
+<td>
+<p>No más de 0,05 mg/dm<sup>2</sup> de la película no barnizada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Laurilsulfato de amonio, magnesio y potasio.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>N,N’-diestearoil-diaminoetano, N,N’-dipalmitoil-diaminoetano y N,N’-dioleoil-diaminoetano.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2-heptadecil-4,4-bis (metilenestearato) oxazolina.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Polietilen-aminoestearamida-etilsulfato.</p>
+</td>
+<td>
+<p>No más de 0,1 mg/dm<sup>2</sup> de la película no barnizada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>c) Tercera clase. Agentes de anclaje.</p>
+</td>
+<td>
+<p>La cantidad total de sustancias no sobrepasará de 1 mg/dm<sup>2</sup> de la película no barnizada.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Producto de condensación de melamina-formaldehído, modificado o no con uno o varios de los productos siguientes:</p>
+<p>Butanol, dietilentriamina, etanol, trietilentetrami-na, tetraetilenpentami- na, tri-(2-hidroxietil)amina, 3,3’-diaminodipropilamina, 4,4’-diami- nodibutilamina.</p>
+<p>Producto de condensación de melamina-urea-formaldehído, modificado con tri(2-hi-droxietil)amina.</p>
+</td>
+<td>
+<p>Contenido de formaldehído libre menor o igual a 0,5 mg/dm<sup>2</sup> de la película no barnizada.</p>
+<p>Contenido de melamina libre menor o igual a 0,3 mg/dm<sup>2</sup> de la película no barnizada.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Contenido de formaldehído libre menor o igual a 0,5 mg/dm<sup>2</sup> de la película no barnizada.</p>
+<p>Contenido de melamina libre menor o igual a 0,3 mg/dm<sup>2</sup> de la película no barnizada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Polialquilenaminas catiónicas reticuladas:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a) Resina poliamida-epiclorhidrina a base de diaminopropilmetilamina y epiclorhidrina.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>b) Resina poliamida-epiclorhidrina a base de epiclorhidrina, ácido adípico, caprolactama, dietilentriamina y/o etilendiamina.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>c) Resina poliamída-epiclorhidrina a base de ácido adípico, dieti- lentriamina y epiclorhidrina, o una mezcla de epiclorhidrina y amoníaco.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>d) Resina poliamida-poliamina-epiclorhidrina a base de epiclorhidrina, dimeti!-adipato y dietilentriamina.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>e) Resina poliamida-potiamina-epliclorhidrina a base de epiclorhidrina, adipamida y diaminopropilmetilamina.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Polietilenaminas y polietileniminas.</p>
+</td>
+<td>
+<p>No más de 0,75 mg/dm<sup>2</sup> de la película no barnizada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Producto de condensación de urea formaldehído, modificado o no con uno o varios de los productos siguientes: ácido aminometilsufónico, ácido sulfanílico, butanol, diaminobutano, diaminodietilamina, diaminodipropilamina, diaminopropano, dietilentriamina, etanol, guanidina, metanol, tetraetilenpentamina, trietilentetramina, sulfito de sodio.</p>
+</td>
+<td>
+<p>Contenido de formaldehído libre menor o igual a 0,5 mg/dm<sup>2</sup> de la película no barnizada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>d) Cuarta clase.</p>
+</td>
+<td>
+<p>La cantidad total de sustancias no sobrepasará de 0,01 mg/dm<sup>2</sup> de la película no barnizada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Productos de reacción de las aminas de aceites alimenticios con óxido de polietileno.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Laurilsulfato de monoetanolamina.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+## Segunda parte — Película de celulosa regenerada y barnizada
+
+| DENOMINACIONES | RESTRICCIONES |
+|---|---|
+| A. Celulosa regenerada. | Ver primera parte. |
+| B. Aditivos. | Ver primera parte. |
+| C. Barnices. | **(Suprimido)** |
+| 1. Polímeros. | La cantidad total de sustancias no sobrepasará los 50 mg/dm<sup>2</sup> en el barniz de la cara en contacto con los productos alimenticios. |
+| Esteres etílicos, hidroxietílicos, hidroxipropílicos y metílicos de celulosa. |  |
+| Nitrato de celulosa. | No más de 20 mg/dm<sup>2</sup> en el barniz de la cara en contacto con los productos alimenticios, contenido de nitreno entre 10,8 por 100 (p/p) y 12 por 100 (p/p) en el nitrato de celulosa. |
+| **(Suprimido)** |  |
+| **(Suprimido)** |  |
+| **(Suprimido)** |  |
+| **(Suprimido)** |  |
+| **(Suprimido)** |  |
+| **(Suprimido)** |  |
+| **(Suprimido)** |  |
+| **(Suprimido)** |  |
+| **(Suprimido)** |  |
+| **(Suprimido)** |  |
+| **(Suprimido)** |  |
+| **(Suprimido)** |  |
+| **(Suprimido)** | **(Suprimido)** |
+| 2. Resinas. | La cantidad total de sustancias no podrá exceder de 12,5 mg/dm<sup>2</sup> en el barniz de la cara en contacto con los productos alimenticios y sólo para la preparación de películas de celulosa regenerada recubierta por un barniz a base de nitrato de celulosa. |
+| Caseína. |  |
+| Colofonia y/o sus productos de polimerización, hidrogenación o desproporción y sus ésteres de los alcoholes metílico, etílico y alcoholes polivalentes C<sub>2</sub>-C<sub>6</sub> y las mezclas de dichos alcoholes. |  |
+| Colofonia y/o sus productos de polimerización, hidrogenación o desproporción condensados con el ácido acrílico, manco, cítrico, fumárico, y/oftálico, y/o 2,2 bis (4-hidroxifenil) propanoformaldehido y esterificados con los alcoholes metílico, etílico, o alcoholes polivalentes de C<sub>2</sub> a C<sub>6</sub>, o mezclas de dichos alcoholes. |  |
+| Esteres derivados de bis (2-hidroxietil) éter con los productos de adición de beta-pineno y/o dipenteno y/o diterpeno y anhídrido málico. |  |
+| Gelatina alimenticia. |  |
+| Aceite de ricino y sus productos de deshidratación o hidrogenación y sus productos de condensación con poliglicerol, ácidos adípico, cítrico, málico, ftálico y sebácico. |  |
+| Resinas naturales (=damar). |  |
+| Poli-beta-pineno (=resinas terpénicas). |  |
+| Resinas urea-formaldehído (ver agentes de anclaje). |  |
+| 3. Plastificantes. | La cantidad total de sustancias no sobrepasará los 6 mg/dm<sup>2</sup> en el barniz de la cara en contacto con los productos alimenticios. |
+| AcetiItributilcitrato. |  |
+| Acetiltri (2 etilhexil) citrato. |  |
+| Di-isobutiladipato. |  |
+| Di-n-butiladipato. |  |
+| Di-n-hexilazelato. |  |
+| **(Suprimido)** | **(Suprimido)** |
+| **(Suprimido)** | **(Suprimido)** |
+| Diciclohexilftalato. | No más de 4,0 mg/dm<sup>2</sup> en el barniz de la cara en contacto con los productos alimenticios. |
+| 2-etilhexil-difenilfosfato [= fosfato de 2-etilhexilo y difenilo]. | La cantidad de 2-etilhexil-difenilfosfato no podrá exceder de:<br>a) 2,4 mg/kg del producto alimenticio en contacto con una película de este tipo, o bien.<br>b) 0,4 mg/dm<sup>2</sup> en el barniz de la cara en contacto con los productos alimenticios. |
+| Monoacetato de glicerol (=monoacetina). |  |
+| Diacetato de glicerol (=diacetina). |  |
+| Triacetato de glicerol (=triacetina). |  |
+| Sebacato de dibutilo. |  |
+| **(Suprimido)** |  |
+| Di-n-butiltartrato. |  |
+| Di-iso-butiltartrato. |  |
+| 4. Otros aditivos. | La cantidad total de sustancias no sobrepasará los 6 mg/dm<sup>2</sup> en la película de celulosa regenerada, incluido el barniz de la cara en contacto con los productos alimenticios. |
+| a) Aditivos mencionados en la primera parte. | Las mismas restricciones que en la primera parte (sin embargo, las cantidades expresadas en mg/dm<sup>2</sup> se refieren a la película de celulosa regenerada no barnizada, incluido el barniz de la cara en contacto con los productos alimenticios). |
+| b) Aditivos específicos para los barnices de recubrimiento. | La cantidad de la sustancia o grupo de sustancias de cada rúbrica no sobrepasará los 2 mg/dm<sup>2</sup> (o de un límite inferior, si así estuviera especificado) en el barniz de la cara en contacto con los productos alimenticios. |
+| 1-hexadecanol y 1-octadecanol. |  |
+| Esteres de ácidos grasos lineales saturados o insaturados con un número par de átomos de carbono entre 8 y 20, inclusive, y de ácido ricinoleico con los alcahales lineales etílico, butílico, amílico y oleico. |  |
+| Ceras de montana, incluyendo los ácidos montánicos (C<sub>26</sub> a C<sub>32</sub>) purificados y/o sus ésteres con etanodiol y/o 1,3-butanodiol y/o sus sales de calcio y potasio. |  |
+| Cera de carnauba. |  |
+| Cera de abeja. |  |
+| Cera de esparto. |  |
+| Cera de candelilla. |  |
+| Dimetilpolisiloxano. | No más de 1 mg/dm<sup>2</sup> en el barniz de la cara en contacto con los productos alimenticios. |
+| Aceite de soja epoxi (con proporción de oxirano entre 6 y el 8 por 100). |  |
+| Parafina refinada y ceras microcristalinas. |  |
+| Tetraestearato de pentaeritritol. |  |
+| Mono y bis (octadecil-dietilenóxido) fosfatos. | No más de 0,2 mg/dm<sup>2</sup> en el barniz de la cara en contacto con los productos alimenticios. |
+| Ácidos alifáticos (C<sub>8</sub>-C<sub>20</sub>) esterificados con mono o di-(2-hidroxietil) amina. |  |
+| 2- y 3-ter. butil-4-hidroxianisol-(Butilhidroxianixol-BHA). | No más de 0,06 mg/dm<sup>2</sup> en el barniz de la cara en contacto con los productos alimenticios. |
+| 2,6-di-ter. butil-4-metilfenol(Butilhidroxitolueno-BHT). | No más de 0,06 mg/dm<sup>2</sup> en el barniz de la cara en contacto con los productos alimenticios. |
+| Di-n-octiletano-bis (2-etil hexil) maleato. | No más de 0,06 mg/dm<sup>2</sup> en el barniz de la cara en contacto con los productos alimenticios. |
+| 5. Disolventes. | La cantidad total de las sustancias o materias no sobrepasará los 0,6 mg/dm<sup>2</sup> en el barniz de la cara en contacto con los productos alimenticios. |
+| Acetato de butilo. |  |
+| Acetato de etilo. |  |
+| Acetato de isobutilo. |  |
+| Acetato de isopropilo. |  |
+| Acetato de propilo. |  |
+| Acetona. |  |
+| 1-butanol. |  |
+| Etanol. |  |
+| 2-butanol. |  |
+| 2-propanol. |  |
+| 1-propanol. |  |
+| Ciclohexano. |  |
+| 2-butoxietanol. |  |
+| Acetato de 2-butoxietanol. |  |
+| **(Suprimido)** |  |
+| **(Suprimido)** |  |
+| **(Suprimido)** |  |
+| **(Suprimido)** |  |
+| Metiletilcetona. |  |
+| Metilisobutilcetona. |  |
+| Tetrahidrofurano. |  |
+| Tolueno. | No más de 0,06 mg/dm<sup>2</sup> en el barniz de la cara en contacto con productos alimenticios. |
+
+> Se modifica la segunda parte por el art. único.4 y el Anexo del Real Decreto 691/2005, de 10 de junio. [Ref. BOE-A-2005-10381](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10381).

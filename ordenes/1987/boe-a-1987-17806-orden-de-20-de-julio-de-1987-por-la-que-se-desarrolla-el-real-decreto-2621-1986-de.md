@@ -1,0 +1,207 @@
+---
+title: "Orden de 20 de julio de 1987 por la que se desarrolla el Real Decreto 2621/1986, de 24 de diciembre, que procede a la integración de diversos Regímenes Especiales en materia de campo de aplicación, inscripción de Empresas, afiliación, altas y bajas, cotización y recaudación"
+identifier: "BOE-A-1987-17806"
+eli: "https://www.boe.es/eli/es/o/1987/07/20/(3)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Seguridad Social"
+date: 1987-07-20
+published: 1987-07-31
+in_force_from: 1987-08-01
+last_amended: 2015-07-25
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 182"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1987-17806"
+retrieved: 2026-10-11
+---
+
+# Orden de 20 de julio de 1987 por la que se desarrolla el Real Decreto 2621/1986, de 24 de diciembre, que procede a la integración de diversos Regímenes Especiales en materia de campo de aplicación, inscripción de Empresas, afiliación, altas y bajas, cotización y recaudación
+
+El Real Decreto 2621/1986, de 24 de diciembre, lleva a cabo la integración de determinados Regímenes Especiales del sistema de la Seguridad Social.
+
+La aplicación practica de las previsiones del mencionado Real Decreto hace necesaria la promulgación de la presente Orden, en desarrollo de las materias de campo de aplicación, inscripción de empresas, afiliación, altas y bajas, cotización y recaudación, en uso de la autorización concedida al Ministerio de Trabajo y Seguridad Social, por la disposición final segunda, número 1, del Real Decreto citado.
+
+En su virtud, dispongo:
+
+## Artículo 1. Campo de aplicación.
+
+1\. Conforme a lo dispuesto en el Real Decreto 2621/1986, de 24 de diciembre, a partir del 1 de enero de 1987 quedan obligatoriamente incluidos en el campo de aplicación del Régimen General de la Seguridad Social las categorías y grupos profesionales que, hasta dicha fecha, se hallaban comprendidos en el campo de aplicación de los extinguidos Regímenes Especiales de los Trabajadores Ferroviarios, de los Jugadores Profesionales de Futbol, de los Representantes de Comercio, de los Artistas y de los Toreros.
+
+A efectos de la determinación de la nueva extensión del campo de aplicación del Régimen General de la Seguridad Social, conforme a lo señalado en el párrafo anterior, conservaran plena eficacia, de acuerdo a lo establecido en el número 3 de la disposición final primera del Real Decreto 2621/1986, de 24 de diciembre, las disposiciones sobre ámbito de aplicación contenidas en las respectivas normas que regulaban los mencionados Regímenes Especiales extinguidos.
+
+2\. Asimismo, desde el 1 de enero de 1987 quedan incluidos en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos quienes hasta dicha fecha se hallaban comprendidos en el campo de aplicación del extinguido Régimen Especial de Escritores de Libros.
+
+A efectos de la determinación de la nueva extensión del campo de aplicación del Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos referida en el párrafo anterior, conservaran plena eficacia de acuerdo con lo establecido en el número 3 de la disposición final primera del Real Decreto 2621/1986, de 24 de diciembre, las disposiciones sobre ámbito de aplicación contenidas en las normas que regulaban el extinguido Régimen Especial de Escritores de Libros.
+
+## Artículo 2. Régimen jurídico.
+
+1\. Las categorías y grupos profesionales que, conforme a lo dispuesto en el artículo anterior, se encuadran en el Régimen General de la Seguridad Social, se regirán por lo dispuesto en el Real Decreto 2621/1986, de 24 de diciembre, en la presente Orden y demás disposiciones dictadas para su aplicación y desarrollo, y en todo lo no previsto en ellas, por las disposiciones del Régimen General de la Seguridad Social, sin perjuicio de lo establecido en las normas de general observancia en el sistema de la Seguridad Social.
+
+2\. Los escritores de libros que, conforme a lo dispuesto en el artículo precedente, se integran en el Régimen Especial de Trabajadores por Cuenta Propia o Autónomos, se regirán por lo dispuesto en el citado Real Decreto 2621/1986, de 24 de diciembre, en esta Orden y en la normas para su aplicación y desarrollo, y en todo lo que en ellas no se halle previsto, se aplicarán las disposiciones de dicho Régimen Especial, sin perjuicio, asimismo, de las normas de general observancia en todo el sistema de la Seguridad Social.
+
+## Artículo 3. Inscripción de Empresas con representantes de comercio.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única, letra b) del Real Decreto 708/2015, de 24 de julio. [Ref. BOE-A-2015-8339](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8339).
+
+## Artículo 4. Afiliación, altas, bajas y demás variaciones de los representantes de comercio.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única, letra b) del Real Decreto 708/2015, de 24 de julio. [Ref. BOE-A-2015-8339](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8339).
+
+## Artículo 5. Cotización de los representantes de comercio y recaudación de sus cuotas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única, letra b) del Real Decreto 708/2015, de 24 de julio. [Ref. BOE-A-2015-8339](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8339).
+
+## Artículo 6. Reintegros.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única, letra b) del Real Decreto 708/2015, de 24 de julio. [Ref. BOE-A-2015-8339](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8339).
+
+## Artículo 7. Inscripción de Empresas con trabajadores artistas en espectáculos publicos.
+
+1\. El empresario, dentro de cuyo ámbito de organización y dirección presten servicios trabajadores con los que mantenga la relación laboral especial de los artistas en espectáculos públicos y que sean retribuidos por actuaciones, programas o campañas de duración inferior a treinta días, como requisito previo e indispensable a la iniciación de su actividad, solicitará su inscripción en el Régimen General de la Seguridad Social ante la Tesorería Territorial o Administración de la misma en la provincia en que este domiciliada la Empresa, con independencia de la solicitud de inscripción formulada o que deba formular dicho empresario, cuando por su cuenta trabajen también otras personas sujetas a una relación laboral común o a aquéllas de relación laboral especial, pero cuya retribución no sea por actuación, programa o campaña.
+
+2\. A la inscripción de la Empresa a que se refiere el número anterior serán de aplicación, en su caso, las normas contenidas en el número 2 del artículo 9.º de esta Orden.
+
+## Artículo 8. Afiliación, altas, bajas y demás variaciones de los artistas.
+
+1\. Las solicitudes de afiliación de los artistas y las comunicaciones de sus altas, bajas y demás variaciones se formularan ante la Tesorería Territorial de la Seguridad Social o Administración de la misma en la provincia en que esté inscrita la Empresa y, en su defecto, en la de la provincia en cuyo ámbito territorial tenga lugar la actuación de aquéllos, conforme a las disposiciones vigentes en el Régimen General de la Seguridad Social, pero con las particularidades contenidas en los números siguientes.
+
+2\. Las afiliaciones y altas deberán ser presentadas con anterioridad a la iniciación del trabajo o actuación correspondiente en los contratos de duración inferior a treinta días, bolos y fiestas mayores.
+
+3\. La Tesorería Territorial de la Seguridad Social o la Administración de la misma en la que se tramite la afiliación o, en su caso, el alta, en el momento de la tramitación de las mismas o a solicitud de los interesados cuando se les agoten los recibidos, expedirá un talonario de «justificantes de actuaciones», compuesto de matriz y justificante, a nombre del trabajador afiliado y que este conservara en su poder hasta causar baja definitiva en la actividad determinante de su afiliación y/o alta como artista en espectáculos públicos, en cuyo momento deberá devolverlo a la Tesorería Territorial de la Seguridad Social o Administración de la misma a la que figure adscrito. En el momento de abonar sus retribuciones al trabajador o, en todo caso, al finalizar la prestación de sus servicios, el empresario le requerirá dos ejemplares del justificante y cumplimentara los datos relativos a la identificación de la Empresa en la Seguridad Social, Entidad gestora o colaboradora con la que tenga concertada la protección de las contingencias por accidente de trabajo y enfermedad profesional, categoría profesional del trabajador, fecha de alta y, en su caso, de baja, grupo de cotización por el período en alta, remuneraciones abonadas, base de cotización, Tesorería Territorial de la Seguridad Social o Administración de la misma para la que se ha efectuado o ha de efectuarse la cotización en la correspondiente entidad recaudadora y demás datos que en el mismo se indiquen para el control y la regularización de la cotización.
+
+4\. Una vez firmado un ejemplar del talón, compuesto de matriz y justificante, será entregado al artista para el envío del justificante a la Tesorería Territorial o Administración de la misma en que figure adscrito, reteniendo la matriz en su poder. Dicho envío deberá ser realizado dentro de los primeros quince días del mes de enero del año siguiente al que correspondan las actuaciones o una vez producido el hecho causante de una prestación vitalicia causada por el artista, acompañado de la declaración a que se refiere el número 6 del artículo 9.º de esta Orden.
+
+El otro ejemplar de dicho justificante quedará en poder del empresario con el fin de que sea acompañado el justificante a la relación nominal de trabajadores a presentar mensualmente junto con la liquidación de cuotas conservando la matriz.
+
+Simultáneamente, cuando el artista, cuyas bases de cotización sean regularizables en los términos y condiciones fijadas en el número 4 del artículo 9.º de esta Orden, trabaje en dos o más Empresas distintas incluidas en el campo de aplicación del Régimen General de la Seguridad Social, deberá comunicar a la Tesorería Territorial de la Seguridad Social o Administración de la misma su situación de pluriempleo, con expresión de las Empresas afectadas y bases en función de las cuales se hayan realizado por él las cotizaciones según acreditación de las propias Empresas.
+
+## Artículo 9. Cotización por los artistas y regularización de la misma.
+
+1\. La cotización de los artistas al Régimen General de la Seguridad Social se efectuará conforme a las reglas establecidas en el artículo 8.º del Real Decreto 2621/1986, de 24 de diciembre, sin que los empresarios, dentro de cuyo ámbito de organización y dirección presten servicios trabajadores con los que mantengan una relación laboral especial de los artistas en espectáculos publicos y que la retribuyan por actuaciones, programas o campañas de duración inferior a treinta días, puedan deducir, en los documentos de cotización, cantidad alguna por su derecho a las prestaciones que, en el Régimen General de la Seguridad Social, son abonadas en régimen de pago delegado por las empresas, estándose, a estos efectos, a lo dispuesto en el artículo 14 de esta Orden.
+
+2\. En aquellos casos en que la cotización por los artistas deba efectuarse con anterioridad al visado del contrato, conforme a lo dispuesto en el número 5.3 del artículo 70 de la Orden del Ministerio de Trabajo y Seguridad Social de 23 de octubre de 1986, esta cotización requerirá, en todo caso, autorización previa de la Tesorería Territorial de la Seguridad Social correspondiente o de la Administración de la misma existente en su ámbito territorial, en los términos establecidos en el artículo 74 de la orden antes citada, a cuyo efecto, juntamente con los documentos de cotización debidamente cumplimentados, el empresario deberá presentar en la misma la solicitud de inscripción, haciendo constar la Entidad gestora o, en su caso, la Mutua Patronal de Accidentes de Trabajo que haya de asumir la protección por las contingencias profesionales.
+
+3\. A efectos de lo dispuesto en el número 3 del artículo 8.º del citado Real Decreto, en el supuesto de que en un mismo mes hubiere estado incluido el artista en más de un grupo de cotización se le aplicará la base máxima mensual de mayor cuantía.
+
+4\. Mensualmente, las Empresas declararán en la correspondiente relación nominal de trabajadores, que forma parte de los documentos de cotización, los salarios sujetos a la obligación de cotizar abonados al artista en el mes a que se refiere la cotización, incluyendo la totalidad de los mismos, aunque sobrepasen el importe de la base mensual máxima correspondiente y aun cuando el artista se encontrase en situación de pluriempleo.
+
+5\. Al finalizar el ejercicio económico, o, en su caso, respecto del artista que hubiere causado una prestación vitalicia, hasta la fecha en que se produzca el hecho causante de la misma, notificada por la correspondiente Entidad gestora, y sin perjuicio del reconocimiento provisional de las prestaciones en los términos establecidos en la Orden de 14 de julio de 1982, la Tesorería General de la Seguridad Social determinará y regularizará, conforme a lo señalado en los números 3 y 4 del propio artículo 8.º del citado Real Decreto, y teniendo en cuenta las bases de cotización declaradas, la cotización definitiva correspondiente, tanto a la empresa o empresas como al artista.
+
+6\. La regularización a que se refieren las reglas anteriores se llevará a cabo en función de la declaración que cada artista debe formular en los plazos señalados en el número 4 del artículo 8.º de esta Orden, y en la que, amparados por los justificantes de actuaciones que han de remitir en la misma fecha, se refundirán todas las actuaciones realizadas en el ejercicio económico o periodo a que se refiere la regularización, así como la totalidad de las retribuciones y las bases liquidadas durante los mismos.
+
+## Artículo 10. Consideración de días cotizados y en alta de los artistas.
+
+A efectos de acreditación de días cotizados dentro de cada año natural, los días asimilados al alta que resulten cotizados por aplicación de las reglas contenidas en los números 1 y 2 del artículo 9.º del Real Decreto 2621/1986, de 24 de diciembre, y que no correspondan con los de prestación real de servicios, se distribuirán entre los meses del año por partes iguales, sin que, en ningún caso, puedan resultar dentro de un mismo mes más días cotizados de los que lo integran. Una vez efectuada dicha distribución, los días que excedan se asignaran al ultimo mes, o meses, del año en que subsistan días sin cotizaciones efectivas y asimiladas.
+
+Los días que, en virtud de la distribución regulada en el párrafo anterior, correspondan a cada mes, se entenderán cumplidos a partir del inicio de dicho mes, y en los días en que no haya existido prestación real de servicios.
+
+## Artículo 11. Inscripción de Empresas, afiliación, altas/bajas y variaciones de profesionales taurinos.
+
+1\. Para los organizadores ocasionales de espectáculos taurinos que no figuren inscritos con anterioridad, se presumirá cumplida la obligación de solicitar la inscripción de la Empresa por el hecho de haber efectuado la cotización por los profesionales taurinos con anterioridad a la celebración del espectáculo de que se trate, en las condiciones reguladas en el artículo 12 de esta Orden. Por la Tesorería General se le asignará número de inscripción de oficio, que será comunicado al organizador del espectáculo.
+
+2\. La afiliación de los profesionales taurinos a la Seguridad Social deberá ser acreditada ante los organizadores de los espectáculos taurinos, si figurasen afiliados con anterioridad al sistema de Seguridad Social.
+
+3\. A efectos de altas, bajas y demás variaciones posteriores a la afiliación de los profesionales taurinos, se observarán las siguientes reglas:
+
+3.1 En los primeros quince días del mes de enero de cada año, los profesionales taurinos deberán efectuar, ante la Tesorería General de la Seguridad Social, declaración de su permanencia en el ejercicio profesional durante la temporada taurina correspondiente a dicho año, con objeto de que por ésta se confeccione o actualice el Censo de Activos de Profesionales Taurinos.
+
+A efectos de la confección y actualización del Censo de Activos, la permanencia en el ejercicio profesional se reconocerá cuando el profesional taurino, por cualquier medio de prueba y especialmente mediante la remisión de los justificantes de actuaciones en la forma y plazos señalados en los números 3 y 4 del artículo 8.º de esta Orden, acredite haber participado en ocho espectáculos, al menos, durante el año anterior al que se refiere la declaración de permanencia en la profesión o, en caso de reaparición, en el ultimo año en activo. Cuando se trate de profesionales taurinos que inicien su actividad profesional, o que se reincorporen a ella en el año a que se refiere la declaración de profesionalidad y no hubieren participado en ocho espectáculos en el ultimo año en activo, se entenderá acreditada la permanencia, a efectos de la inclusión en el Censo de Activos, desde el día de su primera actuación, como profesionales, en dicho año.
+
+3.2 La Tesorería Territorial de la Seguridad Social o la Administración de la misma correspondiente al domicilio del profesional taurino, en la que se tramite la afiliación y, en su caso, el alta, entregara al mismo, en el momento de la tramitación de aquéllos o a solicitud del interesado, si se le hubieren agotado los recibidos, un talonario de justificantes de actuaciones, compuesto de matriz y justificante, a efectos de su cumplimentación por los empresarios, en los terminos previstos en el número 3 del artículo 8.º de esta Orden.
+
+3.3 La acreditación de permanencia en la actividad profesional y la correspondiente inclusión en el Censo de Activos motivará la consideración del declarante en situación de alta, a todos los efectos, durante el año natural o hasta la fecha del hecho causante de la pensión causada por el profesional taurino. Cuando la declaración de permanencia en el ejercicio profesional se acredite después del 15 de enero de cada año, la inclusión en el Censo de Activos únicamente surtirá efectos desde el mismo día en que tenga lugar la primera actuación del profesional taurino.
+
+Asimismo, la inclusión en el Censo de Activos eximirá de la obligación de comunicar las altas y bajas de los profesionales taurinos, correspondientes a cada espectáculo en que participen.
+
+3.4 La falta de declaración de permanencia antes del 15 de enero de cada año motivara la baja automática del profesional taurino, con efectos del 1 de enero de dicho año. En estos casos, la baja solo se resolverá mediante alta posterior derivada de la reanudación efectiva de la actividad profesional, seguida del ingreso de las cuotas correspondientes, a partir de cuya fecha el profesional taurino quedara incluido en el Censo.
+
+## Artículo 12. Cotización respecto de los profesionales taurinos.
+
+1\. A la cotización de los profesionales taurinos, realizada y regularizada conforme a lo establecido en el artículo 14 del Real Decreto 2621/1986, de 24 de diciembre, son aplicables las reglas contenidas en el número 3 del artículo 8.º y en el número 6 del artículo 9.º de esta Orden, pero entendiéndose referidas a los profesionales taurinos las citas que en dichos artículos se hacen a los artistas.
+
+2\. Los organizadores ocasionales de espectáculos taurinos deberán cumplir su obligación de cotizar con anterioridad a la celebración del espectáculo de que se trate. Esta cotización requerirá, en todo caso, autorización previa en los términos establecidos en el número 2 del artículo 9.º de esta Orden.
+
+3\. A efectos de consideración de días cotizados, de acuerdo con lo establecido en el artículo 15 del citado Real Decreto 2621/1986, de 24 de diciembre, es de aplicación lo dispuesto en el artículo 10 de esta Orden.
+
+## Artículo 13. Cotización en situación de incapacidad laboral transitoria.
+
+1\. El profesional taurino que cause baja por enfermedad común o profesional, o accidente, sea o no de trabajo, tendrá que efectuar a su cargo el abono de las cotizaciones correspondientes durante el tiempo que permanezca en dicha situación, incluidas las cuotas por accidente de trabajo y enfermedad profesional correspondiente al epígrafe 126 de la tarifa de primas vigente, y a favor de la Entidad gestora o colaboradora con la que la última Empresa tenga concertada la cobertura de aquellas contingencias, según los datos figurados en el último «justificante de actuaciones», recibido de dicha Empresa.
+
+2\. La base diaria de cotización durante la situación de incapacidad laboral transitoria será la misma que hubiera servido de reguladora para el cálculo de la prestación correspondiente, de haber tenido derecho a ella, obtenida por el cociente de dividir, entre 365, la cotización efectuada en el transcurso de los doce meses anteriores, o el promedio diario de cotización realizada, si desde el día de inscripción en el censo al anterior al de la baja por situación de incapacidad laboral transitoria no hubieran transcurrido dichos doce meses. A estos efectos se computarán todos los meses como de treinta días.
+
+## Artículo 14. Pago directo de determinadas prestaciones.
+
+1\. Las Empresas en que presten servicios los representantes de comercio, artistas y profesionales taurinos a que se refiere la presente Orden no podrán abonarles las prestaciones que, en el Régimen General de la Seguridad Social, son objeto de pago delegado por aquellas en virtud de su colaboración obligatoria en la gestión de la Seguridad Social.
+
+Si dichos representantes de comercio, artistas y profesionales taurinos tuvieran derecho a tales prestaciones, estas les serán satisfechas directamente por la Entidad gestora o colaboradora declarada responsable de las mismas por los procedimientos y en las condiciones establecidas para el pago directo de las prestaciones del sistema de Seguridad Social.
+
+2\. No obstante lo dispuesto en el número anterior, los representantes de comercio que tengan reconocido el derecho a asignaciones familiares de pago periódico por hijo a cargo podrán deducir en los documentos de cotización el importe de las asignaciones correspondientes al período al que se refiera la liquidación de cuotas pertinente, en los términos regulados en el número 1 del artículo 76 y en el número 3 del artículo 77 de la Orden de 23 de octubre de 1986.
+
+3\. Con relación a los artistas en los que no concurran las características que se mencionan en el número 1 del artículo 9 de esta Orden, serán de aplicación las normas comunes que rigen para el resto de colectivos integrados en el Régimen General.
+
+## Disposición adicional primera.
+
+Las disposiciones de esta Orden sobre los representantes de comercio no serán de aplicación a los Agentes vendedores del cupón de la ONCE, cuya integración en el Régimen General de la Seguridad Social se regirá por las normas comunes de dicho Régimen, sin perjuicio de que pueda establecerse, en su caso, un sistema especial al respecto en materia de afiliación, altas, bajas y forma de cotización y recaudación en relación con dicho colectivo.
+
+## Disposición adicional segunda.
+
+A efectos de lo dispuesto en el apartado 3.1 del artículo 11 de la presente Orden, durante el año 1987, en el Censo de Activos de los Profesionales Taurinos serán incluidos todos los profesionales taurinos que el 31 de diciembre de 1986 figuren en alta en el extinguido Régimen Especial de los Toreros, regulado por el Real Decreto 1024/1981, de 22 de mayo.
+
+## Dsposición adicional tercera.
+
+Se faculta a la Dirección General de la Tesorería General de la Seguridad Social para establecer y, en su caso, modificar los modelos de justificantes de actuaciones y declaraciones de actividad respecto de los trámites de gestión recaudatoria a que los mismos se refieren, ajustándose, en todo caso, a las disposiciones de esta Orden.
+
+## Disposición transitoria primera.
+
+1\. Por la Dirección General de Régimen Económico de la Seguridad Social se determinarán los importes de las aportaciones económicas compensatorias del mayor coste que pueda producirse por la aplicación de las reglas contenidas en el número 2 de esta misma disposición transitoria.
+
+Asimismo, por la citada Dirección General se fijará el procedimiento para que las empresas RENFE y FEVE ingresen en la Tesorería General de la Seguridad Social el importe de las cantidades correspondientes.
+
+2\. Sin perjuicio de que la determinación de los importes a que se refiere el número anterior sea realizada de forma individualizada a medida que se vayan reconociendo las correspondientes pensiones de jubilación, las Empresas RENFE y FEVE vendrán obligadas a remitir, dentro de los tres meses siguientes a la entrada en vigor de la presente Orden, una relación nominal de los trabajadores que en principio puedan ser beneficiarios de lo dispuesto en el número 2 de la disposición transitoria segunda del Real Decreto 2621/1986, de 24 de diciembre.
+
+## Disposición transitoria segunda.
+
+El representante de comercio, que a la entrada en vigor de la presente Orden se encontrare en alta en razón de su actividad como tal representante en diferentes Empresas, deberá optar por la Entidad gestora o colaboradora que haya de asumir su protección por las contingencias profesionales, entre aquéllas con las que tengan concertada dicha cobertura las distintas Empresas, siempre que la misma extienda su competencia al ámbito de actuación del representante de comercio y, en su defecto, éste podrá optar por cualquiera otra que reúna tal exigencia.
+
+Dicha opción habrá de efectuarse y comunicarse a todas las empresas afectadas así como a la Entidad gestora o colaboradora elegida y a la Tesorería Territorial de la Seguridad Social o Administración de la misma a que el representante figure adscrito, dentro del mes siguiente al de la publicación de la presente Orden en el «Boletín Oficial del Estado».
+
+## Disposición transitoria tercera.
+
+En el supuesto a que se refiere el número 3 de la disposición transitoria tercera del Real Decreto 2621/1986, de 24 diciembre, el ingreso de la parte de cuota que corre al exclusivo cargo del representante de comercio será realizado por éste en los mismos plazos y condiciones que la correspondiente a la base del grupo al que están asimilados, siendo de aplicación las mismas normas que regulan la recaudación de ésta. A estos efectos en la liquidación trimestral se harán constar separadamente, además de las bases que correspondan a cada Empresa, las que sean a cargo del representante en cada uno de los meses que comporta la liquidación.
+
+## Disposición transitoria cuarta.
+
+El profesional taurino que viniera cotizando antes de enero de 1987 por una base de cotización que excediera de la fijada en el número 1 de la disposición transitoria décima del Real Decreto 2621/1986, de 24 de diciembre, deberá ejercitar su opción de mantener aquella base o de incrementarla en el mismo porcentaje en que haya aumentado en el Régimen General la base máxima del grupo de cotización correspondiente a su categoría profesional, dentro del plazo de los quince días siguientes a aquél en que por la Tesorería General de la Seguridad Social se le notifique la regularización a que se refiere el número 1 del artículo 12 de esta Orden y podrá ingresar, en su caso, la parte de cuota que corresponda al exceso de la base de cotización, sin recargo de mora hasta el último día del mes siguiente a aquél en que finalice el plazo de los quince días establecidos para la opción.
+
+## Disposición transitoria quinta.
+
+Los escritores profesionales de libros que el 31 de diciembre de 1986 figurasen de alta en el extinguido Régimen Especial de la Seguridad Social de Escritores de Libros, regulado por el Decreto 3262/1970, de 29 de octubre, y que se hayan integrado desde el 1 de enero de 1987 en el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos, podrán elegir su base de cotización entre las establecidas en este Régimen Especial durante el año 1987, siempre que opten por cualquiera de ellas dentro del mes siguiente al de la publicación de esta Orden en el «Boletín Oficial del Estado» y con aplicación, en su caso, de las limitaciones establecidas en el artículo 25 de la Orden de 24 de septiembre de 1970.
+
+En defecto de elección de base por el interesado, este deberá cotizar durante el año 1987 por la base mínima de cotización en el Régimen Especial de la Seguridad Social de los Trabajadores por cuenta Propia o Autónomos.
+
+## Disposición transitoria sexta.
+
+Hasta tanto tengan plena aplicación las disposiciones establecidas en la presente Orden, las Empresas y trabajadores afectados podrán seguir aplicando las normas y procedimientos anteriores a la misma en materia de inscripción, afiliación, altas, bajas y cotización, sin perjuicio de que, por iniciativa de los propios interesados o a requerimiento de la Tesorería General, aquéllos deban efectuar los trámites o las regularizaciones que procedan para la plena efectividad de las disposiciones de esta Orden desde 1 de enero de 1987.
+
+## Disposición final.
+
+Se faculta a las Direcciones Generales de Régimen Económico y de Régimen Jurídico de la Seguridad Social para resolver, en el ámbito de sus respectivas competencias, cuantas cuestiones de índole general puedan plantearse en aplicación de lo dispuesto en la presente Orden que entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Lo que digo a VV. II. para su conocimiento y efectos.
+
+Madrid, 20 de julio de 1987.
+
+CHAVES GONZÁLEZ
+
+Ilmos. Sres. Secretario general para la Seguridad Social y Directores generales de Régimen Económico de la Seguridad Social, de Régimen Jurídico de la Seguridad Social y de la Tesorería General de la Seguridad Social.

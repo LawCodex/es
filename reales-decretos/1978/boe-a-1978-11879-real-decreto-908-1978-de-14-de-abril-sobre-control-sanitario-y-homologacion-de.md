@@ -1,0 +1,105 @@
+---
+title: "Real Decreto 908/1978, de 14 de abril, sobre control sanitario y homologación de material e instrumental médico, terapéutico o correctivo"
+identifier: "BOE-A-1978-11879"
+eli: "https://www.boe.es/eli/es/rd/1978/04/14/908"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Seguridad Social"
+date: 1978-04-14
+published: 1978-05-04
+in_force_from: 1978-05-24
+last_amended: 2000-09-30
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 106"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-11879"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 908/1978, de 14 de abril, sobre control sanitario y homologación de material e instrumental médico, terapéutico o correctivo
+
+La vigilancia y el control sanitario de los medios terapéuticos ha estado principalmente polarizada en las especialidades y productos farmacéuticos, extendiéndose recientemente –por Orden de veintiuno de octubre de mil novecientos setenta y seis– a los artículos utilizados corrientemente en la práctica médico-farmacéutica que deban tener o se les asigne la condición de estériles, tales como jeringuillas, agujas hipodérmicas y de sutura, espátulas, lancetas, depresores, sondas y catéteres, equipos de administración de soluciones y extracciones de sangre, etcétera.
+
+La amplitud y variedad de materiales y aparatos que hoy se utilizan, en relación o como consecuencia de la actuación y prescripción médicas, su creciente utilización y la particular complejidad que, en ocasiones, presentan, como en el caso de las implantaciones, transitorias o permanentes, en el cuerpo humano, aconsejan establecer procedimientos de control sanitario y homologación técnica, con propósitos obvios de defensa de la salud pública siguiendo criterios similares a los adoptados en otros países.
+
+La ausencia de una anterior normativa en esta materia aconseja que, al establecerla ahora, se prevea su aplicación paulatina, al tiempo que se promueven los medios técnicos de control, que, a su vez, han de serlo de estudio e investigación.
+
+En su virtud, a propuesta del Ministro de Sanidad y Seguridad Social y previa deliberación del Consejo de Ministros en su reunión del día catorce de abril de mil novecientos setenta y ocho,
+
+DISPONGO:
+
+### Artículo primero.
+
+El material e instrumental médico-sanitanio, así como el que, como consecuencia de la actuación facultativa, haya de utilizarse con fines diagnósticos, terapéuticos o correctivos, quedará sometido a la vigilancia y control sanitarios, de acuerdo con lo establecido en este Real Decreto y disposiciones que lo desarrollen, con las salvedades siguientes:
+
+a) Las especialidades y productos farmacéuticos, incluidos, en su caso, los accesorios unidos o incluidos a los mismos para su utilización o aplicación, continuarán sujetos a su normativa propia.
+
+b) **(Derogada)**
+
+> Se deroga la letra b) por la disposición derogatoria única.1 del Real Decreto 1662/2000, de 29 de septiembre. [Ref. BOE-A-2000-17597](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-17597).
+
+### Artículo segundo.
+
+Uno. El citado material e instrumental deberá cumplir las condiciones y requisitos técnicos que establezca el Ministerio de Sanidad y Seguridad Social y podrá ser clasificado en alguna de las categorías siguientes:
+
+I. Material o instrumental que, en caso de urgencia o necesidad, puede ser utilizada por cualquier persona que tenga conocimiento de su modo de empleo.
+
+II. Material o instrumental que debe ser utilizado por un Facultativo o bajo su responsabilidad.
+
+III. Material o instrumental que, según prescripción facultativa, ha de utilizarse por el paciente mismo o por las personas que lo atienden.
+
+IV. Material o instrumental cuya aplicación, colocación, puesta a punto o adaptación exige una intervención quirúrgica.
+
+Dos. El material o instrumental que no sea expresamente clasificado en alguna de las anteriores categorías se entenderá, en principio, que es de uso común y puede ser manejado por cualquier persona.
+
+### Artículo tercero.
+
+Corresponderá a la Subsecretaría de la Salud:
+
+a) **(Derogada)**
+
+b) **(Derogada)**
+
+c) **(Derogada)**
+
+d) Determinar los Centros técnicos e Instituciones de investigación encargados de verificar los estudios y controles analíticos que, sobre el citado material e instrumental, interesen a la Administración sanitaria.
+
+e) Suspender provisionalmente o prohibir definitivamente la utilización de materiales, aparatos, mecanismos o procedimientos, cuando así lo aconsejen razones sanitarias o de defensa de la salud.
+
+f) Y adoptar cuantas otras medidas resulten necesarias en orden al debido control y vigilancia sanitaria del mencionado material o instrumental.
+
+> Se derogan las letras a), b) y c) por la disposición derogatoria 1.1 del Real Decreto 414/1996, de 1 de marzo. [Ref. BOE-A-1996-9089](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-9089).
+
+### Artículo cuarto.
+
+Lo establecido en el presente Real Decreto y disposiciones que lo desarrollen no excluirá la responsabilidad propia de quienes producen, suministran, prescriben, dispensan, utilizan o aplican el material o instrumental médico-sanitario.
+
+## DISPOSICIONES FINALES
+
+### Primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria 1.1 del Real Decreto 414/1996, de 1 de marzo. [Ref. BOE-A-1996-9089](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-9089).
+
+### Segunda.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria 1.1 del Real Decreto 414/1996, de 1 de marzo. [Ref. BOE-A-1996-9089](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-9089).
+
+### Tercera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria 1.1 del Real Decreto 414/1996, de 1 de marzo. [Ref. BOE-A-1996-9089](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-9089).
+
+Dado en Madrid a catorce de abril de mil novecientos setenta y ocho.
+
+JUAN CARLOS
+
+El Ministro de Sanidad y Seguridad Social,
+
+ENRIQUE SÁNCHEZ DE LEÓN

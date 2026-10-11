@@ -1,0 +1,42 @@
+---
+title: "Orden de 16 de enero de 1992 por la que se autoriza el sistema de negociación, compensación y liquidación de operaciones sobre anotaciones en cuenta de Deuda Pública en las Bolsas de Valores"
+identifier: "BOE-A-1992-2586"
+eli: "https://www.boe.es/eli/es/o/1992/01/16/(6)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1992-01-16
+published: 1992-02-05
+in_force_from: 1992-02-25
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 31"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1992-2586"
+retrieved: 2026-10-11
+---
+
+# Orden de 16 de enero de 1992 por la que se autoriza el sistema de negociación, compensación y liquidación de operaciones sobre anotaciones en cuenta de Deuda Pública en las Bolsas de Valores
+
+Con fecha 18 de septiembre de 1991, los Presidentes de las Sociedades Rectoras de las cuatro Bolsas de Valores españolas solicitaron formalmente, a través del Banco de España la autorización del Proyecto de creación del régimen específico organizado por las Bolsas de Valores de negociación, compensación y liquidación de operaciones sobre anotaciones en cuenta de Deuda Pública, acompañando a la citada solicitud de Ia correspondiente Memoria e información del Proyecto mencionado.
+
+El citado Proyecto obtuvo el correspondiente informe favorable de la Comisión Asesora del Mercado de Deuda Pública en Anotación, de acuerdo con lo dispuesto en el artículo 57 de la Ley 24/1988 de 28 de julio, del Mercado de Valores.
+
+Por otro lado, el articulo 46 de la citada Ley 24/1988. de 28 de julio, establece la posibilidad de negociar en las Bolsas de Valores; valores admitidos a negociación en otro mercado secundario oficial, y el Real Decreto 505/1987, de 3 de abril en su artículo 7 – conforme a la redacción dada en el artículo 3.° del Real Decreto 1009/1991, de 21 de junio, por el que se modifica el Real Decreto 505/1987, en material de adquisición y pérdida de la condición de miembro del Mercado de Deuda Pública en Anotaciones– establece que estará sujeta a autorización del Ministerio de Economía y Hacienda la gestión por las Bolsas de Valores de un régimen específico de negociación compensación y liquidación de operaciones sobre anotaciones en cuenta de Deuda Pública.
+
+En virtud de 10 anterior, y como quiera que la documentación presentada se ajusta a los requisitos previstos en las normas anteriores, así como a lo dispuesto en el artículo 13 de la Orden del Ministerio de Economía y Hacienda de 19 de mayo de 1987 –redacción del artículo 5.° de la Orden de 31 de octubre de 1991 por la que se modificó la de 19 de mayo de 1987–,dispongo:
+
+## Primero.
+
+Queda autorizado el régimen especifico bursátil de negociación, compensación y liquidación de operaciones sobre anotaciones en cuenta de Deuda Publica. promovido por las Sociedades Rectoras de las Bolsas de Valores españolas.
+
+## Segundo.
+
+El funcionamiento del citado régimen se ajustará a lo previsto en la Ley 24/1988. de 28 de julio, del Mercado de Valores, en el Real Decreto 505/1987, de 3 de abril, y en la Orden de 19 de mayo de 1987, por la que se desarrolla el Real Decreto 505/1987, así como por las normas del citado régimen, presentadas como documentación complementaria a la solicitud de autorización.
+
+Madrid, 16 de enero· de 1992.
+
+SOLCHAGA CATALÁN
+
+Excmo. Sr. Gobernador del Banco de España e Ilmos. Sres. Presidente de la· Comisión Nacional del Mercado de Valores y Director general del Tesoro y Política Financiera.

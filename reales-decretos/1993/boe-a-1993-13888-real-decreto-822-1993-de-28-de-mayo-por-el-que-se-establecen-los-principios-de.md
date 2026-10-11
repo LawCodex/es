@@ -1,0 +1,573 @@
+---
+title: "Real Decreto 822/1993, de 28 de mayo, por el que se establecen los principios de buenas prácticas de laboratorio y su aplicación en la realización de estudios no clínicos sobre sustancias y productos químicos"
+identifier: "BOE-A-1993-13888"
+eli: "https://www.boe.es/eli/es/rd/1993/05/28/822"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1993-05-28
+published: 1993-05-29
+in_force_from: 1993-06-18
+last_amended: 2000-07-20
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 128"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1993-13888"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 822/1993, de 28 de mayo, por el que se establecen los principios de buenas prácticas de laboratorio y su aplicación en la realización de estudios no clínicos sobre sustancias y productos químicos
+
+El artículo 12.1 del Reglamento sobre declaración de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas, aprobado por Real Decreto 2216/1985, de 23 de octubre, basado en las Directivas del Consejo de las Comunidades Europeas 67/548/CEE, y posteriores que la modifican, establece que los ensayos y análisis de las sustancias que se exigen para la notificación que preceptúa el artículo 5 se realizarán en laboratorios acreditados, siguiendo las buenas prácticas de laboratorio.
+
+Por su parte, la Directiva del Consejo 87/18/CEE establece en su artículo 1.1 que los Estados adoptarán las medidas necesarias para garantizar que los laboratorios que realicen ensayos sobre los productos químicos, de conformidad con la Directiva 67/548/CEE antes mencionada, cumplan los principios de buenas prácticas de laboratorio especificados en el anexo 2 de la Decisión del Consejo de la OCDE, de 12 de mayo de 1981, relativa a la aceptación mutua de los datos para la evaluación de los productos químicos. Teniendo en cuenta que dichos ensayos tienen como objetivo la evaluación de los riesgos potenciales de los productos químicos para el hombre y para el medio ambiente, el presente Real Decreto se dicta al amparo de lo establecido en el artículo 149.1.16. y 23. de la Constitución Española.
+
+Como consecuencia de lo dispuesto en el ámbito de la Directiva 87/18/CEE, y sin perjuicio de que los principios de las buenas prácticas de laboratorio a que se refiere puedan resultar de aplicación más general, es necesario disponer su vigencia e instrumentar normativamente la garantía de su cumplimiento.
+
+Por otra parte, dentro del mismo ámbito, y en lo que concierne específicamente a los productos industriales, resulta de aplicación la Ley de Industria 21/1992, de 16 de julio, cuyo artículo 9 incluye entre los objetivos de la seguridad industrial la prevención y protección de daños a las personas y el medio ambiente.
+
+En su virtud, a propuesta de los Ministros de Industria, Comercio y Turismo, de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 28 de mayo de 1993,
+
+#### D I S P O N G O:
+
+##### Artículo 1.
+
+Los laboratorios que realicen ensayos sobre los productos químicos, de conformidad con la Directiva 67/548/CEE, observarán en la realización de estudios no clínicos sobre sustancias y productos químicos, con objeto de determinar sus efectos sobre el hombre, animales y medio ambiente, los principios de buenas prácticas de laboratorio indicadas en el anexo.
+
+##### Artículo 2.
+
+A la entrega de los resultados de los ensayos, a que se refiere el artículo 1, los laboratorios deberán informar, mediante las actas de ensayo, que dichos ensayos se han realizado de conformidad con los principios de buenas prácticas de laboratorio indicadas en el anexo.
+
+##### Artículo 3.
+
+Los estudios no clínicos que se realicen como requisito para una autorización de comercialización de sustancias y productos químicos se llevarán a efecto de acuerdo con lo dispuesto en el artículo 1.
+
+##### Artículo 4.
+
+La Administración Pública competente por razón de la materia podrá autorizar a los laboratorios que previamente hayan obtenido la correspondiente acreditación técnica para la realización de cada tipo de ensayo. Dicha Administración será responsable de que los ensayos se realicen observando los principios de buenas prácticas de laboratorio, debiendo ejercer a tal efecto las funciones de inspección y verificación precisas para asegurar el cumplimiento de las obligaciones establecidas en el presente Real Decreto.
+
+##### Artículo 5.
+
+1\. En el ámbito de la Administración General del Estado, para controlar el cumplimiento de los principios de buenas prácticas de laboratorio, serán competentes los Ministerios de Industria, Comercio y Turismo; de Agricultura, Pesca y Alimentación, y de Sanidad y Consumo, dentro del ámbito de sus respectivas competencias.
+
+2\. En el ámbito de sus competencias, las Comunidades Autónomas comunicarán a los Ministerios citados en el apartado 1 las autoridades encargadas del control en la aplicación de los principios de buenas prácticas de laboratorio, a los efectos de su comunicación a la Comisión de las Comunidades Europeas.
+
+3\. En el ámbito de sus competencias, las Comunidades Autónomas comunicarán a los Ministerios afectados las autorizaciones que hayan concedido a los laboratorios de ensayo acreditados, así como las incidencias que en la aplicación de los principios de buenas prácticas de laboratorio afecten a los resultados de los ensayos.
+
+##### Disposición adicional única.
+
+El presente Real Decreto se dicta al amparo de lo establecido en el artículo 149.1.16. y 23. de la Constitución Española.
+
+##### Disposición final única.
+
+Se faculta a los Ministros de Sanidad y Consumo, de Agricultura, Pesca y Alimentación y de Ciencia y Tecnología, para que, en el ámbito de sus competencias, dicten las normas necesarias para la aplicación y desarrollo de lo previsto en el presente Real Decreto, así como para la actualización de su anexo como consecuencia de la oportuna modificación de las normas comunitarias.
+
+> Se modifica por el art. único.2 del Real Decreto 1369/2000, de 19 de julio. [Ref. BOE-A-2000-13702](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-13702).
+
+Dado en Madrid a 28 de mayo de 1993.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ
+
+## ANEXO — Principios de buenas prácticas de laboratorio (BPL)
+
+> Se modifica por el art. único.1 del Real Decreto 1369/2000, de 19 de julio. [Ref. BOE-A-2000-13702](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-13702).
+
+### SECCIÓN I. INTRODUCCIÓN
+
+La calidad de los estudios no clínicos de seguridad sanitaria y medioambiental en que se basan las evaluaciones de riesgos es un tema que interesa profundamente tanto al Estado como a la industria. Por esta razón, los países miembros de la OCDE fijaron criterios sobre la realización de dichos estudios.
+
+A fin de prevenir una diversificación de programas de aplicación que pudiera dificultar el comercio internacional de sustancias químicas, los países miembros de la OCDE han procurado lograr la armonización internacional de los métodos de ensayo y las buenas prácticas de laboratorio. En 1979 y 1980, un grupo internacional de expertos, establecido conforme al programa especial sobre el control de sustancias químicas, elaboró los denominados "Principios de Buenas Prácticas de Laboratorio de la OCDE" (BPL), basándose en las prácticas y la experiencia de gestión y científicas comunes de diversas fuentes nacionales e internacionales. El Consejo de la OCDE adoptó en 1981 estos principios de BPL, como anexo a la Decisión del Consejo sobre la aceptación mutua de datos sobre la evaluación de sustancias químicas [C (81) 30 (final)].
+
+En 1995 y 1996 se formó un nuevo grupo de expertos para revisar y poner al día los principios. El documento actual es el resultado del consenso alcanzado por este grupo y anula y reemplaza los principios originales adoptados en 1981.
+
+Los principios de buenas prácticas de laboratorio tienen por objeto promover la calidad de los datos de los estudios. La comparación de la calidad de estos datos constituye la base de su aceptación mutua entre países. Si cada país puede basarse con confianza en datos de estudios desarrollados en otros países, es posible evitar la duplicación de estudios, con el consiguiente ahorro de tiempo y recursos. La aplicación de estos principios debe contribuir a evitar que surjan obstáculos técnicos para el comercio y a continuar mejorando la protección de la salud humana y el medio ambiente.
+
+## 1. Ámbito de aplicación
+
+Los principios de buenas prácticas de laboratorio deben aplicarse a los ensayos no clínicos de seguridad sobre productos de ensayo contenidos en productos farmacéuticos, plaguicidas, cosméticos, medicamentos veterinarios, aditivos utilizados en la alimentación humana y animal, y sustancias químicas industriales. Estos productos de ensayo suelen ser sustancias químicas sintéticas, pero también pueden ser de origen natural o biológico y, en algunas circunstancias, puede tratarse de organismos vivos. El propósito de los estudios con estos productos es obtener datos sobre sus propiedades y su inocuidad para la salud humana y el medio ambiente.
+
+Los estudios no clínicos de seguridad sanitaria y medioambiental cubiertos por los principios de buenas prácticas de laboratorio incluyen los trabajos realizados en laboratorios e invernaderos y los trabajos de campo.
+
+Sin perjuicio de lo establecido en el artículo 3 de este Real Decreto, los principios de buenas prácticas de laboratorio serán aplicables, salvo exención normativa específica, a todos los estudios no clínicos de seguridad sanitaria y ambiental requeridos reglamentariamente con el fin de registrar o autorizar productos farmacéuticos, plaguicidas, aditivos destinados a la alimentación humana y animal, cosméticos, medicamentos veterinarios y productos similares, así como para la regulación de las sustancias químicas industriales.
+
+## 2. Definición de términos
+
+1\. Buenas prácticas de laboratorio (BPL).
+
+Sistema de calidad relacionado con los procesos organizativos y las condiciones bajo las cuales los estudios no clínicos de seguridad sanitaria y medioambiental son planificados, realizados, controlados, registrados, archivados e informados.
+
+2\. Términos referentes a la organización del laboratorio.
+
+Laboratorio: conjunto de personas, locales y unidades operativas necesarios para la realización de estudios no clínicos de seguridad sanitaria y medioambiental. En caso de estudios multicéntricos (aquellos que se realizan en más de un centro), el laboratorio comprende el lugar donde está ubicado el Director del Estudio y todos y cada uno de los centros de ensayo que individual o colectivamente puedan considerarse laboratorios.
+
+Centro de ensayo: emplazamiento o emplazamientos donde se lleva a cabo una o varias fases de un estudio.
+
+Dirección del laboratorio: persona o personas con la autoridad y la responsabilidad formal de que el laboratorio esté organizado y funcione de acuerdo con los principios de buenas prácticas de laboratorio.
+
+Dirección del centro de ensayo (si se ha nombrado):persona o personas responsables de asegurarse de que la fase o fases del estudio sometidas a su responsabilidad se llevan a cabo de acuerdo con los principios de buenas prácticas de laboratorio.
+
+Promotor: entidad que encarga, financia y/o presenta un estudio no clínico de seguridad sanitaria o medioambiental.
+
+Director del Estudio: persona responsable de la realización global del estudio no clínico sobre seguridad sanitaria o medioambiental.
+
+Investigador principal: persona que, en el caso de estudios multicéntricos, actúa en nombre del Director del Estudio y tiene responsabilidades definidas en cuanto a las fases del estudio que le han sido delegadas. La responsabilidad del Director del Estudio de la realización global del estudio no puede delegarse en el Investigador Principal ; no son delegables la aprobación del protocolo y sus modificaciones, la aprobación del informe final, y el asegurar que son seguidos los principios de las buenas prácticas de laboratorio.
+
+Programa de garantía de calidad: sistema definido, incluyendo personal, el cual es independiente de la realización de los estudios y está concebido para asegurar a la Dirección del Laboratorio el cumplimiento de los principios de buenas prácticas de laboratorio.
+
+Procedimientos normalizados de trabajo (PNT):procedimientos documentados que describen cómo realizar ensayos o actividades normalmente no detalladas en los protocolos o guías.
+
+Lista de estudios programados: recopilación de la información para ayudar a la evaluación de la carga de trabajo y para el seguimiento de estudios en el laboratorio.
+
+3\. Términos referentes a los estudios no clínicos de seguridad sanitaria y medioambiental.
+
+Estudio no clínico de seguridad sanitaria y medioambiental, en adelante referido simplemente como "estudio": experimento o conjunto de experimentos en los cuales el producto de ensayo es examinado bajo las condiciones del laboratorio o el medioambiente, a fin de obtener datos de sus propiedades y/o su seguridad, destinados a la presentación ante las autoridades reguladoras competentes.
+
+Estudio de corta duración: estudio con un plazo de ejecución corto y realizado con técnicas rutinarias comúnmente utilizadas.
+
+Protocolo: documento en que se definen los objetivos y el diseño experimental para la realización del estudio, incluidas sus posibles modificaciones.
+
+Modificación al protocolo: cambio intencionado en el protocolo después de la fecha del inicio del mismo.
+
+Desviación del protocolo: cambio no intencionado del protocolo después de la fecha de iniciación del mismo.
+
+Sistema experimental: todo sistema biológico, químico, físico o combinación de los mismos, utilizado en un estudio.
+
+Datos primarios: registros y documentación original del laboratorio o copias compulsadas de los mismos, que son resultado de las observaciones y actividades originales en un estudio. Los datos primarios también pueden incluir, por ejemplo, fotografías, copias en microfilm o microficha, datos legibles por ordenador, observaciones dictadas, datos registrados por instrumentos automatizados, o cualquier otro medio de almacenamiento de datos reconocido como apto para almacenar con seguridad la información durante el período especificado en el apartado 10 de la sección II de este anexo.
+
+Espécimen: todo material derivado del sistema experimental para su examen, análisis o almacenamiento.
+
+Fecha de inicio de la fase experimental: fecha en que se recogen los primeros datos específicos de un estudio.
+
+Fecha de finalización de la fase experimental: última fecha en que se recogen datos de un estudio.
+
+Fecha de inicio del estudio: fecha en que el Director del Estudio firma el protocolo.
+
+Fecha de finalización del estudio: fecha en que el Director del Estudio firma el informe final.
+
+4\. Términos referentes al producto de ensayo.
+
+Producto de ensayo: elemento objeto de un estudio.
+
+Producto de referencia ("producto de control"):elemento utilizado para proporcionar una base de comparación con el producto de ensayo.
+
+Lote: cantidad específica de un producto de ensayo o de referencia producida durante un mismo ciclo de fabricación de forma tal que quepa esperar que presente un carácter uniforme y deba designarse como tal.
+
+Vehículo: todo agente portador utilizado para mezclar, dispersar o solubilizar el producto de ensayo o de referencia, a fin de facilitar la administración o la aplicación al sistema experimental.
+
+> Se modifica por el art. único.1 del Real Decreto 1369/2000, de 19 de julio. [Ref. BOE-A-2000-13702](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-13702).
+
+### SECCIÓN II. PRINCIPIOS DE BUENAS PRÁCTICAS DE LABORATORIO
+
+## 1. Organización y personal del laboratorio
+
+1\. Responsabilidades de la Dirección del Laboratorio.
+
+A) La Dirección de cada laboratorio deberá asegurarse de que en éste se cumplen los principios de buenas prácticas de laboratorio.
+
+B) Las responsabilidades de la Dirección incluyen las siguientes funciones, sin limitarse necesariamente a ellas:
+
+a) Asegurar que existe una declaración que identifica al individuo o individuos del laboratorio que ejercen la responsabilidad de Director, tal como está definida en estos principios de buenas prácticas de laboratorio.
+
+b) Asegurar la disponibilidad de suficiente personal cualificado, locales apropiados, equipos y materiales para la oportuna y adecuada realización del estudio.
+
+c) Asegurar el mantenimiento de un registro de titulaciones, capacitaciones, experiencia y descripción del puesto de trabajo individualizado para cada profesional y técnico.
+
+d) Asegurar que el personal comprende claramente las funciones que debe llevar a cabo y, en caso necesario, proporcionar la formación necesaria para el ejercicio de las mismas.
+
+e) Asegurar que se establecen y se siguen procedimientos normalizados de trabajo apropiados y técnicamente válidos ; aprobando todos los procedimientos normalizados de trabajo, tanto originales como revisiones.
+
+f) Asegurar que existe un programa de garantía de calidad con el correspondiente personal asignado y asegurar que la responsabilidad de garantía de calidad se ejerce en conformidad con los principios de buenas prácticas de laboratorio.
+
+g) Asegurar que, antes del inicio de cada estudio, el Director del Laboratorio nombra un Director de Estudio con la titulación, capacitación y experiencia apropiadas. La sustitución de un Director de Estudio deberá hacerse según procedimientos establecidos, y documentarse de forma adecuada.
+
+h) Asegurar, que en caso de estudios multicéntricos, si es necesario, se designe un investigador principal con la titulación, capacitación y experiencia apropiadas para supervisar la fase o fases del estudio delegadas. La sustitución de un investigador principal deberá hacerse según procedimientos establecidos, y documentarse de forma adecuada.
+
+i) Asegurar que el Director del Estudio aprueba por escrito el protocolo.
+
+j) Asegurar que el Director del Estudio ha puesto el protocolo aprobado a disposición del personal de garantía de calidad.
+
+k) Asegurar el mantenimiento de un archivo histórico de todos los procedimientos normalizados de trabajo.
+
+l) Asegurar que se nombra un responsable para la gestión del archivo.
+
+m) Asegurar el mantenimiento de la lista de estudios programados.
+
+n) Asegurar que los suministros del laboratorio cumplen los requisitos apropiados para su uso en un estudio.
+
+ñ) Asegurar que, en estudios multicéntricos, existen claras líneas de comunicación entre el Director del Estudio, el o los investigadores principales, el programa de garantía de calidad y el personal del estudio.
+
+o) Asegurar que los productos de ensayo y de referencia están debidamente caracterizados.
+
+p) Establecer procedimientos que aseguren que los sistemas informatizados son los adecuados para el propósito previsto y están validados, se utilizan y mantienen de conformidad con los principios de buenas prácticas de laboratorio.
+
+C) Cuando una o varias fases de un estudio se realicen en un centro de ensayo, las responsabilidades definidas en el punto anterior corresponderán a la Dirección del centro de ensayo (si se ha designado) con las siguientes excepciones: 1.B), g), i), j), y ñ).
+
+## 2. Responsabilidades del Director del Estudio.
+
+A) El Director del Estudio es quien centraliza el control del estudio y a él corresponde la responsabilidad global de la realización del estudio y de su informe final.
+
+B) Las responsabilidades del Director del Estudio incluyen las siguientes funciones, sin limitarse necesariamente a ellas:
+
+a) Aprobar el protocolo del estudio y toda modificación que se haga al mismo, firmándola y fechándola.
+
+b) Asegurar que el personal de garantía de calidad disponga a tiempo de una copia del protocolo y de toda modificación producida, manteniendo durante la realización del estudio una comunicación efectiva con el personal de garantía de calidad en función de las necesidades.
+
+c) Asegurar que el protocolo, modificaciones y procedimientos normalizados de trabajo están disponibles para el personal del estudio.
+
+d) Asegurar, en un estudio multicéntrico, que el protocolo y el informe final identifican y definen el papel de cada investigador principal, laboratorio y centro de ensayo participante en la realización del estudio.
+
+e) Asegurar que se siguen los procedimientos especificados en el protocolo ; evaluar y documentar las repercusiones de las desviaciones del protocolo sobre la calidad e integridad del estudio, tomando, en caso necesario, las acciones correctoras necesarias, y admitir las desviaciones que se produzcan durante la realización del estudio respecto a los procedimientos normalizados de trabajo.
+
+f) Asegurar que todos los datos primarios generados se documentan y registran íntegramente.
+
+g) Asegurar que se han validado los sistemas informatizados utilizados en el estudio.
+
+h) Firmar y fechar el informe final, aceptando la responsabilidad sobre la validez de los datos y señalar en qué medida el estudio cumple los principios de buenas prácticas de laboratorio.
+
+i) Asegurar que tras la finalización del estudio (incluso en caso de interrupción) son archivados: el protocolo, el informe final, los datos primarios y el material de soporte.
+
+## 3. Responsabilidades del investigador principal.
+
+El investigador principal asegurará que las fases del estudio delegadas se llevan a cabo de conformidad con los principios de buenas prácticas de laboratorio que sean aplicables.
+
+## 4. Responsabilidades del personal del estudio.
+
+A) Todo el personal involucrado en la realización del estudio deberá tener conocimiento de aquellas partes de los principios de buenas prácticas de laboratorio aplicables a su participación en el estudio.
+
+B) El personal del estudio deberá tener acceso al protocolo y a los correspondientes procedimientos normalizados de trabajo aplicables a su participación en el estudio. Al personal del estudio le corresponderá la responsabilidad de cumplir las instrucciones que figuran en estos documentos. Toda desviación de estas instrucciones deberá documentarse y comunicarse directamente al Director del Estudio y, si procede, al investigador principal.
+
+C) El personal del estudio será responsable de registrar los datos primarios con rapidez y exactitud y de acuerdo con los principios de buenas prácticas de laboratorio ; asimismo, será responsable de la calidad de los datos.
+
+D) El personal del estudio deberá tomar las debidas precauciones sanitarias para minimizar los riesgos para su salud y asegurar la integridad del estudio. Asimismo, el personal del estudio deberá comunicar a la persona adecuada toda enfermedad o alteración médica relevante, a fin de que pueda ser excluido de las operaciones que pudieran afectar al estudio.
+
+## 2. Programa de garantía de calidad
+
+1\. General.
+
+A) El laboratorio deberá contar con un programa de garantía de calidad documentado, a fin de asegurar que los estudios realizados cumplen los principios de buenas prácticas de laboratorio.
+
+B) El programa de garantía de calidad deberá ser llevado a cabo por una persona o por personas designadas por la Dirección y directamente responsables ante ella, y estarán familiarizados con los procedimientos de trabajo.
+
+C) La persona o personas responsables del programa de garantía de calidad no podrán estar involucradas en la realización del estudio que deban asegurar.
+
+2\. Responsabilidades del personal de garantía de calidad.
+
+Las responsabilidades del personal de garantía de calidad incluyen las siguientes funciones, sin limitarse necesariamente a ellas:
+
+a) Mantener copia de todos los protocolos aprobados y procedimientos normalizados de trabajo aprobados y en uso en el laboratorio, y tener acceso a una copia actualizada de la lista de estudios programados.
+
+b) Verificar que el protocolo del estudio contiene la información necesaria para cumplir los principios de buenas prácticas de laboratorio. Esta verificación deberá hacerse constar por escrito.
+
+c) Realizar inspecciones para determinar si todos los estudios se llevan a cabo conforme a los principios de buenas prácticas de laboratorio y que los protocolos y los procedimientos normalizados de trabajo se han puesto a disposición del personal de estudio y son seguidos.
+
+Las inspecciones pueden ser de tres tipos de acuerdo con lo previsto en los procedimientos normalizados de trabajo del programa de garantía de calidad:
+
+1.º Inspecciones basadas en estudios,
+
+2.º Inspecciones basadas en instalaciones,
+
+3.º Inspecciones basadas en procesos.
+
+Deberán conservarse registros de las inspecciones realizadas.
+
+d) Auditar los informes finales para comprobar que los métodos, procedimientos y observaciones están exacta y completamente descritos y que los resultados del informe reflejan exacta y completamente los datos primarios de los estudios.
+
+e) Informar rápidamente por escrito de los resultados de cada inspección a la Dirección del Laboratorio y al Director del Estudio, así como, cuando proceda, al investigador o investigadores principales y a sus respectivas Direcciones del centro.
+
+f) Elaborar y firmar una declaración, que deberá incluirse en el informe final, en la que se especifiquen los tipos de inspecciones realizadas y sus fechas, incluyendo la fase o fases del estudio inspeccionadas, y las fechas en que los resultados de las inspecciones se informaron a la Dirección, al Director del Estudio y, en su caso, al investigador principal. Esta declaración también deberá servir para confirmar que el informe final refleja fielmente los datos primarios.
+
+## 3. Instalaciones
+
+1\. General.
+
+A) Las instalaciones deberán reunir las condiciones de tamaño, construcción y ubicación adecuadas para satisfacer los requerimientos del estudio y reducir al mínimo las posibles alteraciones que puedan interferir en la validez del estudio.
+
+B) El diseño de las instalaciones deberá posibilitar que exista una separación adecuada entre las diferentes actividades, a fin de asegurar la correcta realización de cada estudio.
+
+2\. Instalaciones del sistema experimental.
+
+A) El laboratorio deberá disponer de un número de salas o áreas suficiente para asegurar el aislamiento de sistemas experimentales y/o proyectos individuales en que se utilicen sustancias u organismos de los que se conozca o se sospeche que puedan comportar peligros biológicos.
+
+B) Deberá disponerse de salas o áreas apropiadas para el diagnóstico, el tratamiento y el control de enfermedades, a fin de asegurar que los sistemas experimentales no sufren un grado de deterioro inaceptable.
+
+C) El laboratorio deberá contar con salas o áreas de almacenamiento adecuadas para los suministros y los equipos. Las salas o áreas de almacenamiento deberán estar separadas de las salas o áreas donde se alojen los sistemas experimentales, y deberán ofrecer protección adecuada contra la infestación, contaminación y/o el deterioro.
+
+3\. Instalaciones para el manejo de productos de ensayo y de referencia.
+
+A) Para prevenir la contaminación o las mezclas deberán existir salas o áreas separadas para la recepción y almacenamiento de los productos de ensayo y de referencia y para la mezcla de los productos de ensayo con un vehículo.
+
+B) Las salas o las áreas de almacenamiento para los productos de ensayo deberán estar separadas de las salas o áreas en que se encuentran los sistemas experimentales. Éstas deberán reunir las condiciones adecuadas para preservar la identidad, la concentración, la pureza y la estabilidad, así como garantizar un almacenamiento seguro de las sustancias peligrosas.
+
+4\. Salas de archivo.
+
+Deberá contarse con instalaciones de archivo para almacenar y recuperar de forma segura protocolos, datos primarios, informes finales, muestras de productos de ensayo y especímenes. El diseño del archivo y las condiciones de archivo deberán ser las adecuadas para proteger su contenido contra un deterioro acelerado o prematuro.
+
+5\. Eliminación de residuos.
+
+La manipulación y la eliminación de residuos deberá ser llevada a cabo de forma que no ponga en peligro la integridad de los estudios y de conformidad con lo previsto en la Ley 10/1998, de 21 de abril, de Residuos. Esto supone la existencia de instalaciones adecuadas de recogida, almacenamiento y eliminación de los residuos, así como de procedimientos de descontaminación y transporte.
+
+4\. Aparatos, materiales y reactivos
+
+1\. Los aparatos, incluidos los sistemas informatizados validados, utilizados para la obtención, almacenamiento y recuperación de datos, y para el control de factores medioambientales relevantes para el estudio, deberán estar debidamente ubicados y contar con el diseño y la capacidad adecuados.
+
+2\. Los aparatos utilizados en un estudio deberán ser examinados, limpiados, mantenidos y calibrados periódicamente, siguiendo procedimientos normalizados de trabajo. Cada una de estas actividades deberán registrarse debidamente. La calibración deberá, en su caso, ser trazable a patrones de medida nacionales o internacionales.
+
+3\. Los aparatos y materiales utilizados en un estudio no deberán interferir negativamente con los sistemas experimentales.
+
+4\. Las sustancias químicas, los reactivos y las soluciones deberán etiquetarse indicando la identidad (señalando, si procede, su concentración), fecha de caducidad y las condiciones específicas de almacenamiento. La información referente a la procedencia, fecha de preparación y estabilidad deberá estar disponible. La fecha de caducidad podrá prolongarse mediante evaluación o análisis debidamente documentados.
+
+5\. Sistemas experimentales
+
+1\. Sistemas físicos y químicos.
+
+A) Los aparatos utilizados para la obtención de datos físicos o químicos deberán estar debidamente situados y contar con el diseño y la capacidad apropiados.
+
+B) La integridad de los sistemas experimentales físicos y químicos deberá estar garantizada.
+
+2\. Sistemas biológicos.
+
+A) A fin de asegurar la calidad de los datos, deben establecerse y mantenerse condiciones apropiadas para el almacenamiento, el alojamiento, la manipulación y el cuidado de los sistemas experimentales biológicos.
+
+B) Los sistemas experimentales animales y vegetales deberán ser aislados inmediatamente después de su recepción, hasta que su estado sanitario haya sido evaluado. Si se produjese una mortalidad o morbilidad anormal, el lote en cuestión no deberá utilizarse en ningún estudio y, en su momento, deberá ser destruido de forma humanitaria. En la fecha de inicio de la fase experimental de un estudio los sistemas experimentales deberán estar libres de toda enfermedad o trastorno que pudiese afectar al objetivo o la realización del estudio. Los sistemas experimentales que enfermen o resulten dañados en el transcurso de un estudio deberán ser aislados y, en caso necesario, tratados, a fin de mantener la integridad del estudio. Todo diagnóstico y tratamiento de una enfermedad que se produzca antes o en el transcurso de un estudio deberá quedar registrado.
+
+C) Deberán mantenerse registros de procedencia, fecha y condiciones de llegada de los sistemas experimentales.
+
+D) Antes de la primera administración o aplicación del producto de ensayo o de referencia, los sistemas experimentales biológicos deberán aclimatarse al entorno del ensayo durante un período adecuado.
+
+E) Los alojamientos y recipientes de los sistemas experimentales deberán estar correctamente identificados. En los casos en que sea posible, los sistemas experimentales individuales que deban retirarse de su alojamiento o recipiente durante la realización del estudio deberán ir convenientemente identificados.
+
+F) Durante su período de utilización, los alojamientos y los recipientes de los sistemas experimentales deberán limpiarse y desinfectarse a intervalos apropiados. Todo el material que entre en contacto con el sistema experimental deberá estar libre de cualquier nivel de contaminantes que pudiesen afectar al estudio. Los lechos de los animales deberán cambiarse según requiera la buena práctica del uso, manejo y cría de animales. El uso de agentes antiparasitarios deberá documentarse.
+
+G) Los sistemas experimentales utilizados en los estudios de campo deberán estar situados de forma que se evite que el estudio se vea afectado por aerosoles erráticos y el uso previo de plaguicidas.
+
+## 6. Productos de ensayo y de referencia
+
+1\. Recepción, manipulación, toma de muestras y almacenamiento.
+
+A) Deberán mantenerse registros que incluyan la caracterización de los productos de ensayo y de referencia, fecha de recepción, fecha de caducidad, y cantidades recibidas y utilizadas en los estudios.
+
+B) Deberán establecerse procedimientos de manipulación, toma de muestras y almacenamiento, a fin de asegurar el mayor grado posible de homogeneidad y estabilidad, y de evitar la contaminación o la mezcla.
+
+C) Los recipientes de almacenamiento deberán llevar indicados los datos de identificación, la fecha de caducidad e instrucciones específicas de almacenamiento.
+
+2\. Caracterización.
+
+A) Todo producto de ensayo y de referencia deberá ser debidamente identificado [ejemplo: por código, número de CAS (Chemical Abstracts Service), nombre y parámetros biológicos].
+
+B) En cada estudio, deberá conocerse la identidad, incluidos el número de lote, pureza, composición, concentraciones y demás características necesarias para definir cada lote de producto de ensayo o de referencia.
+
+C) En los casos en que el producto de ensayo sea suministrado por el promotor, deberá existir un mecanismo desarrollado en colaboración entre el promotor y el laboratorio, para verificar la identidad del producto de ensayo objeto del estudio.
+
+D) En todos los estudios deberá conocerse la estabilidad de los productos de ensayo y de referencia en condiciones de almacenamiento y de ensayo.
+
+E) Si el producto de ensayo se administra o se aplica en un vehículo, deberá determinarse la homogeneidad, concentración y estabilidad del producto de ensayo en ese vehículo. En el caso de los productos de ensayo utilizados en estudios de campo (como, por ejemplo, las mezclas en tanques), estos valores pueden determinarse mediante diferentes experimentos de laboratorio.
+
+F) En todos los estudios, excepto los estudios de corta duración, deberá conservarse una muestra a efectos analíticos de cada lote de producto de ensayo.
+
+## 7. Procedimientos normalizados de trabajo
+
+1\. Todo laboratorio deberá contar con unos procedimientos normalizados de trabajo escritos y aprobados por la Dirección del Laboratorio, dirigidos a garantizar la calidad e integridad de los datos obtenidos por el laboratorio. Las revisiones de los procedimientos normalizados de trabajo deberán ser aprobadas por la Dirección del Laboratorio.
+
+2\. Toda unidad o área separada del laboratorio deberá tener disponible inmediatamente los procedimientos normalizados de trabajo vigentes relacionados con las actividades que en ellas se realicen. Pueden utilizarse como complementos de estos procedimientos normalizados de trabajo libros de texto, métodos analíticos, artículos y manuales publicados.
+
+3\. Las desviaciones de los procedimientos normalizados de trabajo relacionadas con el estudio deberán documentarse y ser admitidas por el Director del Estudio y, en su caso, el investigador principal.
+
+4\. Deberán estar disponibles procedimientos normalizados de trabajo para las siguientes categorías de actividades del laboratorio, sin limitarse a ellas (los conceptos recogidos bajo cada título deben considerarse ejemplos ilustrativos):
+
+A) Productos de ensayo y de referencia: recepción, identificación, etiquetado, manipulación, muestreo y almacenamiento.
+
+B) Aparatos, materiales y reactivos:
+
+a) Aparatos: uso, mantenimiento, limpieza y calibración.
+
+b) Sistemas informatizados: validación, funcionamiento, mantenimiento, seguridad, control de cambios y copias de seguridad.
+
+c) Materiales, reactivos y soluciones: preparación y etiquetado.
+
+C) Mantenimiento de registros, informes, almacenamiento y recuperación: codificación de estudios, recopilación de datos, preparación de informes, sistemas de indización, tratamiento de datos, incluido el uso de sistemas informatizados.
+
+D) Sistemas experimentales (cuando proceda):
+
+a) Preparación de la sala y sus condiciones ambientales para el sistema experimental.
+
+b) Procedimientos de recepción, transferencia, correcta ubicación, caracterización, identificación y cuidado del sistema experimental.
+
+c) Preparación, observaciones y exámenes del sistema experimental, antes, durante y a la conclusión del estudio.
+
+d) Manipulación de los individuos de un sistema experimental hallados moribundos o muertos durante el estudio.
+
+e) Recogida, identificación y manipulación de especímenes, incluidas la autopsia y la histopatología.
+
+f) Situación y colocación de sistemas experimentales en parcelas de ensayo.
+
+E) Procedimientos de garantía de calidad: actuación del personal de garantía de calidad en la planificación, programación, realización, documentación y redacción de informes de auditoría.
+
+## 8. Realización del estudio
+
+1\. Protocolo.
+
+A) Cada estudio debe contar con un protocolo escrito previo a su iniciación. El protocolo deberá ser aprobado y fechado por el Director del Estudio. El personal de garantía de calidad deberá comprobar que el protocolo cumple las BPL según lo especificado en el apartado 2, B), b), de la sección II. El protocolo deberá ser también aprobado por la Dirección del Laboratorio y el promotor.
+
+B) Modificación y desviaciones del protocolo:
+
+a) Las modificaciones al protocolo deberán justificarse y ser aprobadas y fechadas por el Director del Estudio, y mantenerse en todo momento junto al protocolo.
+
+b) Las desviaciones del protocolo deberán ser descritas, justificadas, reconocidas y fechadas en su momento por el Director del Estudio y/o el investigador principal y mantenerse en todo momento junto a los datos primarios del estudio.
+
+C) En el caso de los estudios de corta duración, puede utilizarse un protocolo general acompañado por un suplemento específico del estudio en cuestión.
+
+2\. Contenido del protocolo. El protocolo deberá contener, sin limitarse a ella, la siguiente información:
+
+A) Identificación del estudio, el producto de ensayo y el producto de referencia:
+
+a) Título descriptivo.
+
+b) Descripción sobre la naturaleza y el objetivo del estudio.
+
+c) Identificación del producto de ensayo mediante código o denominación (IUPAC ; número CAS, parámetros biológicos, etc.).
+
+d) Nombre del producto de referencia que se utilizará.
+
+B) Información referente al promotor y al laboratorio:
+
+a) Nombre y dirección del promotor.
+
+b) Nombre y dirección de todos los laboratorios y centros de ensayo involucrados.
+
+c) Nombre y dirección del Director del Estudio.
+
+d) Nombre y dirección del investigador principal o investigadores principales, y la fase o fases del estudio delegadas por el Director del Estudio y sometidas a la responsabilidad del investigador principal.
+
+C) Fechas:
+
+a) La fecha de la firma de aprobación del protocolo por parte del Director del Estudio y fecha de la firma de aprobación del protocolo por parte de la Dirección del Laboratorio y del promotor.
+
+b) Las fechas propuestas de inicio y finalización de la fase experimental.
+
+D) Métodos de ensayo: referencia a las guías de la OCDE, otras guías o métodos que se usarán.
+
+E) Otras informaciones, cuando así proceda:
+
+a) Justificación de la elección del sistema experimental.
+
+b) Caracterización del sistema experimental, indicando especie, cepa, subcepa, origen, número, rango de peso corporal, sexo, edad y demás datos pertinentes.
+
+c) Método de administración y motivos de su elección.
+
+d) Los niveles de dosis y/o la concentración, frecuencia y duración de la administración o la aplicación.
+
+e) Información detallada del diseño experimental, incluida una descripción del desarrollo cronológico del estudio, de todos los métodos, materiales y condiciones, tipo y frecuencia de los análisis, medidas, observaciones y exámenes que deberán llevarse a cabo, y, en caso necesario, los métodos estadísticos que serán utilizados.
+
+F) Documentos: una lista de los documentos que deben conservarse.
+
+3\. Realización del estudio.
+
+A) Cada estudio debe identificarse de forma única. Esta identificación deberá aparecer en todos los asuntos relacionados con el estudio. Los especímenes del estudio deberán identificarse para confirmar su origen. Esta identificación deberá permitir la trazabilidad apropiada para cada espécimen y el estudio.
+
+B) El estudio deberá ser realizado de acuerdo con el protocolo.
+
+C) Todos los datos generados durante la realización del estudio deberán ser registrados inmediatamente de forma directa, exacta y legible por las personas responsables del registro de datos. Estos registros deberán ir fechados y firmados con la rúbrica o las iniciales de dichos responsables.
+
+D) Toda modificación de los datos primarios deberá realizarse de forma que no dificulte la lectura de la entrada previa e indicando la razón del cambio, y deberá ir fechada y firmada o marcada con las iniciales de la persona que realiza el cambio.
+
+E) Los datos obtenidos como entradas directas de ordenador deberán ser identificados en tiempo y fecha de su introducción por la persona responsable de su entrada. Los sistemas informatizados deberán diseñarse para poder posibilitar en todo momento la conservación de datos que permitan realizar auditorías retrospectivas que muestren todos los cambios de los datos sin ocultar los datos originales. Debe ser posible asociar todos los cambios de datos con las personas que los han realizado ; por ejemplo, por medio de firmas electrónicas con hora y fecha. Las modificaciones deberán justificarse en todos los casos.
+
+## 9. Información de los resultados del estudio
+
+1\. General.
+
+A) Finalizado un estudio, deberá elaborarse un informe final. En el caso de los estudios de corta duración, podrá elaborarse un informe final estandarizado complementado por un anexo específicamente referido al estudio en cuestión.
+
+B) Los informes de los investigadores principales o de científicos participantes en el estudio deberán ir firmados y fechados por ellos mismos.
+
+C) El informe final deberá ser firmado y fechado por el Director del Estudio a objeto de indicar su aceptación de la responsabilidad de la validez de los datos.
+
+Deberá mencionarse la medida en que el estudio cumple los principios de buenas prácticas de laboratorio.
+
+D) Toda corrección o adición a un informe final deberá hacerse en forma de modificación. Las modificaciones deberán especificar claramente la razón de las correcciones o adiciones y deberán ser firmadas y fechadas por el Director del Estudio.
+
+E) El cambio de formato del informe final para cumplir con los requisitos de presentación de un registro nacional o de una autoridad reguladora no constituirá una corrección, adición o modificación al informe final.
+
+2\. Contenido del informe final. El informe final deberá incluir, sin limitarse a ella, la siguiente información:
+
+A) Identificación del estudio, del producto de ensayo y del producto de referencia:
+
+a) Título descriptivo.
+
+b) Identificación del producto de ensayo mediante código o denominación (IUPAC ; número CAS, parámetros biológicos, etc.).
+
+c) Nombre del producto de referencia que será utilizado.
+
+d) Caracterización del producto de ensayo, incluyendo pureza, estabilidad y homogeneidad.
+
+B) Información referente al promotor y al laboratorio:
+
+a) Nombre y dirección del promotor.
+
+b) Nombre y dirección de todos los laboratorios y centros de ensayo que participan.
+
+c) Nombre y dirección del Director del Estudio.
+
+d) Nombre y dirección del investigador o investigadores principales y la fase o fases del estudio delegadas, si procede.
+
+e) Nombre y dirección de los científicos que han aportado informes al informe final.
+
+C) Fechas: las fechas de inicio y finalización de la fase experimental.
+
+D) Declaración: una declaración del programa de garantía de calidad en la que se enumeren los tipos de inspecciones realizadas y las fechas en que tuvieron lugar, especificando la fase o fases examinadas, y las fechas en que se informaron los resultados de las inspecciones a la Dirección, al Director del Estudio y, en su caso, al investigador principal. Esta declaración también servirá para confirmar que el informe final refleja fielmente los datos primarios.
+
+E) Descripción de los materiales y los métodos de ensayo:
+
+a) Descripción de los métodos y los materiales utilizados.
+
+b) Referencia a las guías OCDE, otras guías o métodos de ensayo.
+
+F) Resultados:
+
+a) Un resumen de los resultados.
+
+b) Toda la información y los datos requeridos en el protocolo.
+
+c) Una exposición de los resultados, incluyendo cálculos y determinaciones con significación estadística.
+
+d) Una evaluación y discusión de los resultados y, si procede, las conclusiones alcanzadas.
+
+G) Archivo: el lugar donde se conservará el protocolo, muestras de productos de ensayo y de referencia, especímenes, datos primarios y el informe final.
+
+10\. Archivo y conservación de registros y materiales
+
+1\. Deberán conservarse en los archivos, como mínimo, hasta un año después del cese de comercialización del producto:
+
+a) El protocolo, datos primarios, muestras de elementos de ensayo y de referencia, especímenes y el informe final de cada estudio.
+
+b) Registros de todas las inspecciones realizadas por el personal del programa de garantía de calidad, y la lista de estudios programados.
+
+c) Registros de las titulaciones, capacitación, experiencia y descripción de puestos de trabajo del personal.
+
+d) Registros e informes del mantenimiento y calibración de los aparatos.
+
+e) Documentos de validación de los sistemas informatizados.
+
+f) El archivo histórico de los Procedimientos Normalizados de Trabajo.
+
+g) Registros de los controles medioambientales.
+
+En el supuesto de no comercialización del producto, la documentación antes indicada se conservará durante el tiempo que el laboratorio considere oportuno, documentando la eliminación de todo el material del estudio.
+
+Cuando, por cualquier razón, deban eliminarse muestras de productos de ensayo y de referencia o especímenes antes del vencimiento del período de conservación requerido, deberá justificarse y documentarse convenientemente. Las muestras de productos de ensayo y de referencia y los especímenes deberán conservarse únicamente mientras la calidad de la preparación permita la evaluación.
+
+2\. El material conservado en los archivos deberá estar indizado, a fin de facilitar el adecuado almacenamiento y recuperación.
+
+3\. Solamente podrá tener acceso a los archivos el personal autorizado por la Dirección. Las entradas y salidas de material de los archivos deberá registrarse de forma adecuada.
+
+4\. Si un laboratorio o un archivo contratado cesa su actividad y no tiene sucesor legal, el archivo deberá transferirse a los archivos del promotor o los promotores de los estudios.
+
+> Se modifica por el art. único.1 del Real Decreto 1369/2000, de 19 de julio. [Ref. BOE-A-2000-13702](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-13702).
+
+> Redactado el apartado 1.1.C) conforme a la corrección de erratas publicada en BOE núm. 225, de 19 de septiembre de 2000. [Ref. BOE-A-2000-16902](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-16902).

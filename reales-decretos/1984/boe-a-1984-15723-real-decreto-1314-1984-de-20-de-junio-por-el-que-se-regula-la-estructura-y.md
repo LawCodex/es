@@ -1,0 +1,189 @@
+---
+title: "Real Decreto 1314/1984, de 20 de junio, por el que se regula la estructura y competencias de la Tesorería General de la Seguridad Social"
+identifier: "BOE-A-1984-15723"
+eli: "https://www.boe.es/eli/es/rd/1984/06/20/1314"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1984-06-20
+published: 1984-07-11
+in_force_from: 1984-07-12
+last_amended: 2020-05-01
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 165"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1984-15723"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1314/1984, de 20 de junio, por el que se regula la estructura y competencias de la Tesorería General de la Seguridad Social
+
+Por Real Decreto 2318/1978, de 15 de septiembre, se creó, con el carácter de servicio común, la Tesorería General de la Seguridad Social como instrumento de racionalización y simplificación financiera de la Seguridad Social. El Real Decreto-ley 36/1978 de 16 de noviembre, sobre gestión institucional de la Seguridad Social, la Salud y el Empleo, en su disposición adicional segunda, refuerza orgánica y funcionalmente a la Tesorería General y la dota de personalidad jurídica, situando en ella los mecanismos de realización de los principios de solidaridad financiera y caja única del sistema. Con posterioridad, diversas disposiciones han atribuido a la Tesorería General nuevas competencias y funciones en materia de patrimonio, cotización y recaudación y reaseguro de accidentes de trabajo.
+
+Por otra parte, la gestión de la Seguridad Social debe ser mejorada teniendo en cuenta criterios de eficacia en el logro del cumplimiento de sus objetivos, para lo que deben evitarse los problemas derivados de la falta de coordinación y de la multiplicidad de unidades administrativas dispersas que perturban el funcionamiento interno del sistema de la Seguridad Social. A este criterio responde la decisión de atribuir a la Tesorería General de la Seguridad Social las competencias en materia de inscripción de empresas y de afiliación, altas y bajas de los trabajadores, de forma que se gestionen por un único Organismo los actos que originan el nacimiento y extinción de relaciones jurídicas con la Seguridad Social y se facilite el cumplimiento de las obligaciones creadas al amparo de tales vínculos. Se espera que esta reforma lleve consigo un mejor control de la cotización y recaudación al concentrar estas competencias atribuidas hasta ahora a Organismos distintos.
+
+Asimismo se potencia la estructura orgánica de determinadas unidades administrativas encargadas de la gestión del patrimonio, inversiones y obras de la Seguridad Social para propiciar un conocimiento más exacto, así como un control más efectivo sobre el patrimonio mobiliario e inmobiliario perteneciente al sistema de la Seguridad Social.
+
+En consecuencia, con esta norma se pretende reforzar los principios de racionalización y eficacia administrativa sin incremento alguno del gasto público.
+
+En su virtud, a iniciativa del Ministro de Trabajo y Seguridad Social, a propuesta del Ministro de la Presidencia del Gobierno y previa deliberación del Consejo de Ministros en su reunión del día 20 de junio de 1984,
+
+## D I S P O N G O :
+
+### Artículo 1. Naturaleza y atribuciones.
+
+1\. A la Tesorería General de la Seguridad Social, servicio común de la Seguridad Social dotado de personalidad jurídica, le compete la gestión de los recursos económicos y la administración financiera del sistema en aplicación de los principios de solidaridad financiera y caja única.
+
+Específicamente se atribuye a la Tesorería General competencia en las siguientes materias:
+
+a) La inscripción de empresas y la afiliación, altas y bajas de los trabajadores.
+
+b) La gestión y control de la cotización y de la recaudación de las cuotas y demás recursos de financiación del sistema de la Seguridad Social.
+
+c) El aplazamiento o fraccionamiento de las cuotas de la Seguridad Social, en la forma, condiciones y requisitos establecidos.
+
+d) La titularidad, gestión y administración de los bienes y derechos que constituyen el patrimonio único de la Seguridad Social, en la forma y condiciones que se establezcan por el Ministerio de Trabajo y Seguridad Social, sin perjuicio de las facultades que las Entidades de la Seguridad Social y las Mutuas Patronales de Accidentes de Trabajo tienen atribuidas, de acuerdo con lo establecido en el Real Decreto 255/1980, de 1 de febrero, y con las reservas de la disposición adicional primera del Real Decreto 1414/1981, de 3 de julio, y las atribuidas al Instituto Nacional de la Salud.
+
+e) La ordenación de los pagos de las obligaciones de la Seguridad Social y la distribución en el tiempo y en el territorio de las disponibilidades dinerarias para satisfacer puntualmente dichas obligaciones y evitar los desajustes financieros.
+
+f) La elaboración de la propuesta del anteproyecto de presupuesto de recursos de la Tesorería General de la Seguridad Social.
+
+g) La elaboración del presupuesto monetario, en el que se incluirán con la debida especificación, las previsiones necesarias para atender el cumplimiento de las obligaciones del sistema.
+
+h) La tramitación de las operaciones de crédito y anticipos de Tesorería necesarios para atender los desajustes financieros del sistema.
+
+i) La autorización de la apertura de cuentas en instituciones financieras destinadas a situar los fondos de la Seguridad Social.
+
+j ) La gestión de la función reaseguradora de accidentes de trabajo.
+
+k) La gestión de los regímenes de previsión voluntaria a que se refiere el Decreto 1716/1974, de 25 de abril.
+
+l) La recaudación de las cuotas de desempleo, fondo de garantía salarial y formación profesional, en tanto aquélla se efectúe conjuntamente con la de las cuotas de la Seguridad Social.
+
+m) La elevación a definitivas de las actas de liquidación de cuotas y de las actas de liquidación conjuntas con las actas de infracción, así como la imposición de sanciones a los trabajadores por infracciones en materia de Seguridad Social que afecten a su ámbito de competencias, en ambos casos a propuesta de la Inspección de Trabajo y Seguridad Social.
+
+n) La realización de cuantas otras funciones de naturaleza análoga le sean encomendadas por el Ministerio de Trabajo e Inmigración.
+
+2\. Corresponde a la Tesorería General la constitución, gestión y aplicación del fondo de estabilización del sistema de la Seguridad Social, a que se refiere la disposición adicional segunda del Real Decreto-ley 36/1978, de 16 de noviembre.
+
+> Se modifica y se reordena la letra m) como n) y se añade la letra m) por el art. único.1 del Real Decreto 693/2010, de 20 de mayo. [Ref. BOE-A-2010-8825](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8825)
+
+### Artículo 2. Organos directivos.
+
+1\. Son órganos directivos centrales de la Tesorería General de la Seguridad Social, la Dirección General, la Secretaría General y las Subdirecciones Generales.
+
+2\. La participación en el control y vigilancia de la gestión de la Tesorería General se desarrollará, en el ámbito estatal, por el Consejo General del Instituto Nacional de la Seguridad Social. En las Tesorerías territoriales dicha participación corresponderá a las Comisiones Ejecutivas Provinciales del mencionado Consejo General.
+
+### Artículo 3. La Dirección General de la Tesorería.
+
+1\. La Dirección General de la Tesorería General asumirá las competencias de dirección, gestión e inspección de las actividades de la misma para el cumplimiento de sus fines.
+
+Asimismo, se atribuye a la Dirección General el desarrollo de los programas de lucha contra el fraude que correspondan a la Tesorería General de la Seguridad Social.
+
+2\. El Director general de la Tesorería, que asumirá la representación legal de la misma y desempeñará las funciones de Tesorero general y Ordenador Central de Pagos, será nombrado y separado libremente de su cargo por Real Decreto acordado en Consejo de Ministros, a propuesta del Ministro de Trabajo y Seguridad Social.
+
+3\. A la Dirección General se adscribirá la Intervención Delegada en los servicios centrales de la Tesorería General de la Seguridad Social, sin perjuicio de su dependencia de la Intervención General de la Administración del Estado a través de la Intervención General de la Seguridad Social.
+
+> Se modifica el apartado 3 por el art. único.1 del Real Decreto 448/2012, de 5 de marzo. [Ref. BOE-A-2012-3157](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3157).
+
+> Se añade un párrafo al apartado 1 por el art. único.1 del Real Decreto 291/2002, de 22 de marzo. [Ref. BOE-A-2002-6475](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-6475)
+
+### Artículo 4. Secretaría General.
+
+La Secretaría General, con nivel orgánico de subdirección general, tiene atribuidas las funciones de contratación; información y relaciones públicas; propuesta de la planificación estratégica del organismo y de los elementos organizativos de sus servicios; planificación, dirección, ejecución y evaluación de las actividades de control y evaluación de los servicios, así como el análisis, propuesta y desarrollo de actuaciones en materia de calidad de los mismos; valoración y propuesta de mejoras en la atención a los ciudadanos; programación, ordenación y control de la red de administraciones de la Seguridad Social e instalaciones; planificación y gestión en materia de régimen interior y administración de personal de la Tesorería General, incluidas las impugnaciones en dicha materia; planificación, desarrollo y evaluación de las políticas de formación; elaboración de los planes de necesidades de recursos materiales y mantenimiento de las instalaciones de los servicios centrales, incluida la gestión de su funcionamiento y de la calidad de los mismos; gestión de la actividad preventiva y de la salud del personal; gestión del registro y archivo generales y del fondo documental central, y coordinación de las subdirecciones generales de la Tesorería General de la Seguridad Social.
+
+El titular de la Secretaría General sustituirá al de la Dirección General en los casos de ausencia, enfermedad o vacante.
+
+> Se modifica por el art. 1.1 del Real Decreto 496/2020, de 28 de abril. [Ref. BOE-A-2020-4762](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4762)
+
+> Se modifica por el art. único.2 del Real Decreto 448/2012, de 5 de marzo. [Ref. BOE-A-2012-3157](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3157).
+
+> Se modifica por el art. único.2 del Real Decreto 291/2002, de 22 de marzo. [Ref. BOE-A-2002-6475](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-6475)
+
+### Artículo 5. Subdirecciones Generales.
+
+Los servicios centrales de la Tesorería General de la Seguridad Social se estructuran en las siguientes subdirecciones generales:
+
+a) Subdirección General de Afiliación, Cotización y Recaudación en Período Voluntario, a la que se atribuyen las funciones de dirección, impulso, control e impartición de instrucciones de servicio en materia de encuadramiento, inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores; gestión de convenios especiales; cotización y liquidación de los recursos del sistema de la Seguridad Social y conceptos de recaudación conjunta; gestión del Sistema de Remisión Electrónica de Datos (RED); generación y seguimiento de los procesos asociados al tratamiento de las deudas por recursos del sistema de la Seguridad Social; reclamaciones de deuda y providencias de apremio; devolución de ingresos indebidos, así como cualesquiera otras funciones de gestión recaudatoria en período voluntario no atribuidas expresamente a otra subdirección general. Asimismo, le corresponde la coordinación y colaboración de la Tesorería General con el Organismo Estatal Inspección de Trabajo y Seguridad Social, y el estudio y elaboración de propuestas a la Dirección General respecto a los programas de lucha contra el fraude.
+
+b) Subdirección General de Ordenación de Pagos y Gestión del Fondo de Reserva, a la que se atribuyen las funciones que, en materia de cobros, pagos y demás actos de gestión financiera del sistema de la Seguridad Social, determine el Ordenador General de Pagos de la misma de acuerdo con lo dispuesto en el artículo 10.g) del Reglamento general de la gestión financiera de la Seguridad Social, aprobado por el Real Decreto 1391/1995, de 4 de agosto, y demás disposiciones de desarrollo, así como la autorización de apertura y cancelación de cuentas en las entidades financieras colaboradoras. Asimismo, asumirá la gestión del reaseguro y demás competencias en materia de gestión recaudatoria, en periodo voluntario, de los recursos del sistema de la Seguridad Social cuyo ingreso corresponda a las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, así como las funciones atribuidas a la Tesorería General de la Seguridad Social respecto a la gestión del Fondo de Reserva de la Seguridad Social.
+
+c) Subdirección General de Ordenación e Impugnaciones, a la que se atribuyen las funciones de dirección, impulso, control y, en su caso, resolución de reclamaciones previas y recursos administrativos, salvo en materia de personal; el trámite de las discrepancias con la Intervención General de la Seguridad Social; la organización, tramitación y control de los expedientes de responsabilidad patrimonial por el funcionamiento de los servicios de la Tesorería General; la elevación a definitivas de las actas de liquidación y la imposición de sanciones por infracciones en materia de Seguridad Social a los trabajadores, cuando tales funciones correspondan a la Dirección General de la Tesorería General; el trámite y resolución de consultas; la elaboración de proyectos normativos en materias de la competencia de la Tesorería General y la emisión de informes sobre normas y proyectos de ámbito nacional e internacional que afecten a la gestión del organismo; la ordenación administrativa; el informe y tramitación de instrucciones de servicio y la impartición de éstas en las materias de su competencia; la emisión de propuestas e informes sobre los procedimientos administrativos del organismo, así como el apoyo técnico y la colaboración en materia de acuerdos, convenios, tratados y organizaciones de ámbito internacional.
+
+d) Subdirección General de Gestión del Patrimonio, a la que corresponde la gestión del patrimonio inmobiliario y de los valores mobiliarios de la Seguridad Social distintos de aquellos en los que se materialicen las dotaciones del Fondo de Reserva de la Seguridad Social y cuantas otras funciones se deriven de las competencias que en esta materia corresponden a la Tesorería General, sin perjuicio de las facultades atribuidas a otras entidades y administraciones por las normas reguladoras de dicho patrimonio. Asimismo, asumirá las funciones que correspondan a la Oficina Técnica de Supervisión de Proyectos.
+
+e) Subdirección General de Presupuestos, Estudios Económicos y Estadísticas, a la que corresponde la formulación y seguimiento, en términos de objetivos y programas de gastos, de los planes de actuación de la Tesorería General; confección del anteproyecto de presupuesto de gastos de la Tesorería y de los recursos del Sistema; tramitación de expedientes de modificaciones presupuestarias; seguimiento y evaluación de los programas de gastos y sobre la ejecución de presupuestos; realización de análisis e informes económico-financieros, estadísticos y actuariales; elaboración de memorias sobre la incidencia económica de proyectos normativos; elaboración y propuesta de alternativas que mejoren la eficacia del gasto; optimización de los recursos; racionalización de la gestión económica, así como la administración del sistema de información de los datos registrados en las bases de datos y demás ficheros propiedad de la Tesorería General de la Seguridad Social, a efectos estadísticos.
+
+f) Subdirección General de Integración y Coordinación de Administración Digital, a la que, en el ámbito de la gestión de la Tesorería General de la Seguridad Social, se atribuyen las funciones de adecuación a la Administración Electrónica de los procesos y servicios de información y tramitación de dicho servicio común; definición y propuesta de implantación de servicios electrónicos integrales de atención a ciudadanos y usuarios; propuesta de modelo y diseño de portales web; análisis de los procesos para la realización de propuestas de automatización, así como revisión y actualización del modelo de atención. Igualmente asumirá, en las materias de la competencia de la Tesorería General de la Seguridad Social, la coordinación de los entornos web y la Sede Electrónica de la Secretaría de Estado de la Seguridad Social y Pensiones.
+
+g) Subdirección General de Procedimientos Ejecutivos y Especiales de Recaudación, a la que se atribuyen las funciones de dirección, impulso, control e impartición de instrucciones de servicio en materia de recaudación de los recursos del sistema de la Seguridad Social en período ejecutivo; aplazamientos de pago y derivaciones de responsabilidad; fraccionamiento de reintegros de prestaciones indebidamente percibidas; gestión de las moratorias legalmente previstas que supongan pago aplazado de deuda ya devengada; gestión y coordinación de los procedimientos concursales en que intervenga la Tesorería General de la Seguridad Social y del procedimiento de deducción sobre entidades públicas; adopción de medidas cautelares; gestión recaudatoria respecto a las empresas que, por razón de su número de trabajadores u otras circunstancias concurrentes, se determinen por el Director General, así como cualquier otra función que las normas atribuyan, en el procedimiento recaudatorio ejecutivo, a los servicios centrales de la Tesorería General de la Seguridad Social.
+
+> Se modifican las letras a) d) y f) por los arts. 4 y 5, por el art. 1.2 del Real Decreto 496/2020, de 28 de abril. [Ref. BOE-A-2020-4762](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4762)
+
+> Se modifica por el art. único.3 del Real Decreto 448/2012, de 5 de marzo. [Ref. BOE-A-2012-3157](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3157).
+
+> Se modifica la letra c) por el art. único.2 del Real Decreto 693/2010, de 20 de mayo. [Ref. BOE-A-2010-8825](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8825)
+
+> Se modifican las letras a) y f) por el art. único.1 y 2 del Real Decreto 1384/2008, de 1 de agosto. [Ref. BOE-A-2008-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-13247)
+
+> Se modifica por el art. único.3 del Real Decreto 291/2002, de 22 de marzo. [Ref. BOE-A-2002-6475](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-6475)
+
+> Se modifica por el art. 16 del Real Decreto 2583/1996, de 13 de diciembre. [Ref. BOE-A-1997-86](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-86)
+
+> Se añaden los dos últimos párrafos por el art. 3.1 del Real Decreto 1619/1990, de 30 de noviembre. [Ref. BOE-A-1990-30635](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30635)
+
+### Artículo 6. Provisión de puestos.
+
+El Secretario general y los Subdirectores generales de la Tesorería General de la Seguridad Social serán nombrados y separados por el procedimiento de libre designación, por el Secretario de Estado de la Seguridad Social.
+
+> Se modifica por el art. 16 del Real Decreto 2583/1996, de 13 de diciembre. [Ref. BOE-A-1997-86](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-86)
+
+> Redactado conforme a la Corrección de errores publicada en el BOE núm. 31, de 5 de febrero de 1997. [Ref. BOE-A-1997-2343](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-2343)
+
+### Artículo 7. Direcciones Provinciales.
+
+1\. En el ámbito provincial, son órganos de la Tesorería General de la Seguridad Social sus respectivas Direcciones Provinciales, estructuradas en las unidades administrativas que se establezcan por Orden ministerial a propuesta de los Ministros de Trabajo y Asuntos Sociales y de Administraciones Públicas, para la distribución de las competencias a ellas encomendadas y la realización de las actividades que les sean propias.
+
+2\. El Director Provincial será el representante del organismo y velará por el cumplimiento de sus fines, asumiendo las competencias de dirección, ejecución, control e inspección de sus actividades en el ámbito provincial así como la jefatura del personal encuadrado orgánicamente en la Dirección Provincial. Será nombrado y separado de su cargo libremente, entre funcionarios de la Administración de la Seguridad Social o de otras Administraciones públicas pertenecientes a cuerpos para cuyo ingreso se exija el título de Doctor, Licenciado, Ingeniero, Arquitecto o equivalente, por el Secretario de Estado de la Seguridad Social, a propuesta del Director General de la Tesorería General de la Seguridad Social.
+
+Los titulares de las unidades administrativas de las Direcciones Provinciales de la Tesorería General de la Seguridad Social ejercerán las funciones que, de acuerdo con el volumen de gestión de cada Dirección Provincial, se les asignen por la respectiva relación de puestos de trabajo.
+
+> Se modifica por la disposición adicional 2 del Real Decreto 469/2003, de 25 de abril. [Ref. BOE-A-2003-9618](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9618)
+
+> Se modifica por el art. único.4 del Real Decreto 291/2002, de 22 de marzo. [Ref. BOE-A-2002-6475](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-6475)
+
+> El párrafo primero del apartado 2 entra en vigor el día 1 de agosto de 2002, según establece la disposición final única.
+
+> Se modifica por el art. 3.2 del Real Decreto 1619/1990, de 30 de noviembre. [Ref. BOE-A-1990-30635](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30635)
+
+### Disposición adicional primera.
+
+Con objeto de mantener la necesaria unidad de acción y coordinación que el sector marítimo-pesquero precisa por las peculiaridades que en él concurren, el Instituto Social de la Marina, en el ámbito de la Seguridad Social de los Trabajadores del Mar, seguirá colaborando con la Tesorería General de la Seguridad Social en la función recaudatoria, con especial referencia al control de las cotizaciones a efectos de despacho de buques, tal como establece el artículo segundo del Real Decreto 1414/1981, de 3 de julio. Asimismo esta colaboración se extenderá a la tramitación de la inscripción de empresas, afiliación, altas y bajas de los trabajadores.
+
+### Disposición adicional segunda.
+
+La Tesorería General de la Seguridad Social coordinará su actuación con el Instituto Nacional de la Seguridad Social y el Instituto Nacional de Empleo en el ámbito de sus respectivas competencias, cuidándose especialmente que el reconocimiento del derecho a la asistencia sanitaria se efectúe por la entidad gestora competente de forma simultánea al de la afiliación y/o alta de los trabajadores, y que quede debidamente garantizado el control del mantenimiento y extinción de aquel derecho.
+
+Asimismo, en orden a una mayor eficacia, la Tesorería General y la Inspección de Trabajo y Seguridad Social coordinarán sus actuaciones en materia de Seguridad Social y las desarrollarán en régimen de colaboración mutua.
+
+### Disposición final primera.
+
+El Ministerio de Trabajo y Seguridad Social dictará las disposiciones necesarias para el desarrollo y aplicación del presente Real Decreto y ordenará las modificaciones presupuestarias pertinentes en orden a la habilitación de los créditos necesarios, sin que, en ningún caso, pueda producirse incremento del gasto público.
+
+### Disposición final segunda.
+
+Quedan derogados el número 1, letras a) y b), del artículo primero del Real Decreto 1854/1979 de 30 de julio; la Orden ministerial de 31 de enero de 1979, y cuantas disposiciones se opongan a lo establecido en el presente Real Decreto, que entrará en vigor el día siguiente al de su publicación en al «Boletín Oficial del Estado».
+
+### Disposición transitoria.
+
+Se integrarán en la Tesorería General las unidades administrativas que en la fecha de publicación de este Real Decreto vinieren desempeñando las competencias que esta disposición le atribuye. Los funcionarios y demás personal afectados por las modificaciones orgánicas establecidas en este Real Decreto seguirán percibiendo la totalidad de sus retribuciones con cargo a los créditos a los que venían imputándose, hasta que, aprobada la estructura orgánica de los diferentes Organismos y unidades de la Seguridad Social, se verifique la correspondiente adaptación presupuestaria.
+
+Dado en Madrid a 20 de junio de 1984.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+Javier Moscoso del Prado y Muñoz.

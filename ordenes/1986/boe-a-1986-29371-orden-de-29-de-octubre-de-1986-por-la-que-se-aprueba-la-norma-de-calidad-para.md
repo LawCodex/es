@@ -1,0 +1,169 @@
+---
+title: "Orden de 29 de octubre de 1986 por la que se aprueba la norma de calidad para tripas naturales con destino al mercado interior"
+identifier: "BOE-A-1986-29371"
+eli: "https://www.boe.es/eli/es/o/1986/10/29/(5)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1986-10-29
+published: 1986-11-07
+in_force_from: 1987-11-07
+last_amended: 2013-03-29
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 267"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-29371"
+retrieved: 2026-10-11
+---
+
+# Orden de 29 de octubre de 1986 por la que se aprueba la norma de calidad para tripas naturales con destino al mercado interior
+
+De conformidad con lo dispuesto en el Decreto 1043/1973, de 17 de mayo, por el que se regula la normalización de productos ganaderos en el mercado interior, y teniendo en cuenta los Decretos de Presidencia del Gobierno 2484/1967, de 21 de septiembre, por el que se aprueba el texto del Código Alimentario Español, y el 2519/1974, de 9 de agosto, sobre su entrada en vigor, aplicación y desarrollo, parece oportuno dictar la presente Orden por la que se aprueba la norma de calidad para las tripas naturales con destino al mercado interior.
+
+En su virtud, visto el informe de la Comisión Interministerial para la Ordenación Alimentaria, de conformidad con los acuerdos del FORPPA y a propuesta de los Ministros de Economía y Hacienda, de Agricultura, Pesca y Alimentación, y de Sanidad y Consumo,
+
+Este Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno dispone:
+
+### Artículo único.
+
+Se aprueba la norma de calidad para las tripas naturales que figura en el anejo único de esta Orden.
+
+## DISPOSICIÓN ADICIONAL
+
+De conformidad con lo dispuesto en el Decreto 1043/1973, de 17 de mayo, y disposiciones concordantes, los Departamentos responsables velarán por el cumplimiento de lo dispuesto en la presente Orden, en el ámbito de sus respectivas competencias y a través de sus órganos administrativos encargados, que coordinarán sus actuaciones y, en todo caso, sin perjuicio de las competencias que correspondan a las Comunidades Autónomas y a las corporaciones Locales.
+
+## DISPOSICIÓN FINAL
+
+La presente Orden entrará en vigor en todo el territorio del Estado Español al año de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 29 de octubre de 1986.
+
+ZAPATERO GÓMEZ
+
+Excmos. Sres. Ministros de Economía y Hacienda, de Agricultura, Pesca y Alimentación, y de Sanidad y Consumo.
+
+## ANEJO ÚNICO — Norma de calidad para las tripas naturales destinadas al mercado interior
+
+1\. *Nombre de la norma.–*Norma general de calidad para tripas naturales.
+
+2\. *Objeto de la norma.–*La presente norma tiene por objeto definir aquellas condiciones y características que deben reunir las tripas naturales para su adecuada comercialización en el mercado interior.
+
+3\. *Ámbito de aplicación.–*La presente norma se aplicará a todas las tripas naturales destinadas a uso alimentario, excluyéndose las destinadas al consumo directo de boca y a usos no alimentarios.
+
+4\. *Definición del producto.–*Se entiende por tripas naturales las obtenidas de los intestinos delgado y grueso de las especies bovina, ovina, caprina, porcina y equina y los esófagos y vejigas de bovino y porcino, que tras las manipulaciones necesarias sirven como continente tecnológico de productos alimenticios. Procederán de animales sanos, sacrificados bajo control sanitario y estarán elaboradas en industrias autorizadas para este fin.
+
+5\. *Descripción del proceso de preparación.–*La recogida de las tripas naturales se efectuará directamente de los animales sacrificados sin entrar en contacto con el suelo. En el propio centro de sacrificio se realizarán las operaciones de «estirado», vaciado de su contenido digestivo y lavado a presión hasta dejarlas limpias.
+
+Tras estas operaciones previas, en los talleres o industrias se efectuarán las de:
+
+Descarnado.
+
+Vuelta (excepto en tripas estrechas de ovino, caprino y porcino y en esófagos y vejigas).
+
+Raspado. En todas las tripas naturales se eliminará la mucosa intestinal mediante raspado, excepto en los intestinos de porcino en el caso de que la mucosa vaya por el exterior.
+
+Calibrado, en su caso.
+
+Madejado.
+
+6\. Clasificación de las tripas naturales.
+
+6.1 Por su especie de procedencia se clasificarán en:
+
+6.1.1 Tripas de ganado bovino.
+
+6.1.2 Tripas de ganado ovino.
+
+6.1.3 Tripas de ganado caprino.
+
+6.1.4 Tripas de ganado porcino.
+
+6.1.5 Tripas de ganado equino.
+
+6.2 Por su procedencia anatómica se clasificarán en:
+
+6.2.1 Tripas procedentes del intestino delgado o «tripas estrechas». De calibres y longitudes variables según especie, edad del animal y tramo del intestino delgado a que pertenecen (duodeno, yeyuno o íleon).
+
+6.2.2 Tripas procedentes del intestino grueso o «tripas anchas». De calibres y longitudes variables según especie, edad del animal y tramo del intestino grueso a que pertenecen (ciegos o «tripos» en bovino y ovino o «morcón» en porcino, colon o «roscal» o «rizo» y recto o «cular»).
+
+6.2.3 Tripas procedentes de vejigas (solamente de las especies bovina y porcina).
+
+6.2.4 Tripas procedentes de esófagos (solamente de las especies bovina y porcina).
+
+6.3 Tripas secas.
+
+Son cualesquiera de las citadas en los apartados 6.1 y 6.2, que han sido sometidas a un proceso de desecación, natural o artificial.
+
+Para su elaboración se parte de la tripa natural a la cual, una vez limpia, vuelta en su caso y exenta de mucosa y grasas en su interior, se le insufla aire, cerrándose por sus extremos con cordón que no destiña y se cuelga hasta su secado. Una vez seca, se somete al planchado entre rodillos, se calibra y se empalma.
+
+6.4 Tripas originales.
+
+Se entiende por «tripas originales», las naturales que han sido sometidas al proceso de elaboración descrito en el apartado 5 de esta norma, con excepción de las operaciones de calibrado y madejado.
+
+7\. *Categorización comercial.–*Las tripas naturales se clasificarán en las siguientes categorías:
+
+7.1 Categoría primera.–Las tripas clasificadas en esta categoría serán de consistencia firme, sin agujeros, sin restos de grasa y sin irregularidades en su superficie. Si proceden de vejigas, además de cumplir las condiciones anteriores, deberán tener cuello.
+
+7.2 Categoría segunda.–Las tripas clasificadas en esta categoría serán de consistencia menos firme, con algún agujero de diámetro inferior a 1 milímetro, muy ligeros restos de grasa y con muy ligeras irregularidades en su superficie.
+
+7.3 Categoría tercera.–Esta categoría comprende las tripas que no pueden clasificarse en las categorías superiores, pero aptas para usos alimentarios. Se incluyen en esta categoría las tripas flojas a la presión, con agujeros inferiores a 3 milímetros de diámetro, con ligeros restos de grasa y ligeras irregularidades en su superficie.
+
+7.4 Categoría cuarta o categoría original.–Incluye las tripas naturales definidas en el apartado 6.4 de esta norma.
+
+8\. Calibrado.–El calibrado se determinará por el diámetro de la sección transversal.
+
+Los calibres admitidos según la procedencia anatómica y de especie estarán comprendidos entre los siguientes límites expresa-dos en milímetros:
+
+Especie: Bovino. Tripa estrecha: 24-51. Tripa ancha: 80-200 (ciegos) y 37-70 (rectos).
+
+Especie: Ovino. Tripa estrecha: 14-30. Tripa ancha: 35-65 (ciegos).
+
+Especie: Caprino. Tripa estrecha: 14-30. Tripa ancha: 35-65.
+
+Especie: Porcino. Tripa estrecha: 26-50. Tripa ancha: 50-100 (ciegos), 35-100 (colones) y 35-80 (rectos).
+
+Especie: Equino. Tripa estrecha: 35-120.
+
+El calibrado será obligatorio para las tripas clasificadas en las categorías primera y segunda y se efectuará como mínimo de 2 en 2 milímetros.
+
+9\. *Conservación de las tripas naturales*.–La conservación de las tripas naturales se efectuará:
+
+Mediante salazón, durante un período de ocho a diez días, en sus dos formas: Seca (en proporción del 50 por 100 masa/masa), o húmeda (concentración a saturación).
+
+Mediante secado seguido de insuflado por medios mecánicos, atado, desinflado y planchado.
+
+10\. **(Derogado)***.*
+
+11\. **(Derogado)**.
+
+12\. **(Derogado)**.
+
+13\. **(Derogado)**.
+
+14\. *Etiquetado y rotulación.–*El etiquetado de los envases y la rotulación de los embalajes de las tripas naturales recogerán en caracteres claros, bien visibles, indelebles y fácilmente legibles y, al menos, en la lengua española oficial del Estado, las especificaciones que a continuación se indican:
+
+14.1 Etiquetado.–La información del etiquetado de los envases de tripas naturales constará obligatoriamente de las siguientes indicaciones:
+
+14.1.1 Denominación del producto.–La denominación del producto se efectuará conforme a los apartados 6.1 y 6.2 de la presente norma, de la siguiente manera:
+
+Procedencia anatómica (tripas estrechas o tripas anchas o esófagos o vejigas) seguido de la especie de procedencia (de bovino, o de ovino, o de caprino, o de porcino, o de equino).
+
+14.1.2 **(Derogado)**.
+
+14.1.3 **(Derogado)**.
+
+14.1.4 **(Derogado)**.
+
+14.1.5 Categoría comercial.
+
+Se indicará la categoría comercial conforme al apartado 7 de esta norma.
+
+Se indicará el calibre en las categorías primera y segunda, mediante los calibres mínimo y máximo.
+
+14.2 **(Derogado)**.
+
+14.3 **(Derogado)**.
+
+> Se derogan los apartados 10, 11, 12, 13 y 14, excepto los subapartados 1.1 y 1.5 de este último. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).

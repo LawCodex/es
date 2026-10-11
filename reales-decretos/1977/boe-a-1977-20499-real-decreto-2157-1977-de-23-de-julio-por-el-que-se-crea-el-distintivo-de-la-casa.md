@@ -1,0 +1,67 @@
+---
+title: "Real Decreto 2157/1977, de 23 de julio, por el que se crea el distintivo de la Casa de su Majestad el Rey"
+identifier: "BOE-A-1977-20499"
+eli: "https://www.boe.es/eli/es/rd/1977/07/23/2157"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Defensa"
+date: 1977-07-23
+published: 1977-08-26
+in_force_from: 1977-09-15
+last_amended: 2014-06-21
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 204"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1977-20499"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2157/1977, de 23 de julio, por el que se crea el distintivo de la Casa de su Majestad el Rey
+
+Los servicios del personal de la Casa de Su Majestad el Rey merecen ser reconocidos mediante un distintivo especial que califique y premie a los que forman parte de ella y sirva de timbre de honor a quienes puedan luego ostentarlo.
+
+En su virtud, a propuesta del Ministro de Defensa y previa deliberación del Consejo de Ministros en su reunión del día veintitrés de julio de mil novecientos setenta y siete,
+
+DISPONGO:
+
+## Artículo primero.
+
+Se crea el distintivo de la Casa de Su Majestad el Rey que estará constituido según las características y modelo que en el anexo adjunto se determinan.
+
+## Artículo segundo.
+
+Corresponderá el uso de este distintivo a todos los Generales, Almirantes Jefes, Oficiales, Suboficiales y asimilados que formen parte de la Casa de Su Majestad y que no les corresponda reglamentariamente vestir de uniforme del Regimiento de la Guardia Real u ostentar distintivos de destino en el mismo.
+
+Adquirirán el derecho al uso de este distintivo con carácter permanente el personal militar que ocupe los cargos de alta dirección a que se refiere el artículo primero; apartado dos, del Decreto dos mil novecientos cuarenta y dos/mil novecientos setenta y cinco y todos aquellos otros militares que estén destinados en la Casa de Su Majestad durante dos años consecutivos.
+
+## Artículo tercero.
+
+Uno. La concesión de este distintivo, con carácter permanente, así como la autorización para el uso del mismo serán otorgados por el Ministro de Defensa con el informe favorable del Jefe de la Casa de Su Majestad.
+
+Dos. Los interesados elevarán instancia de petición, por conducto reglamentario, el Ministro de Defensa, quien solicitará del Jefe de la Casa de Su Majestad, antes de resolver, el informe mencionado en el punto uno de este artículo.
+
+Tres. Las concesiones y autorizaciones otorgadas se publicarán en el «Diario Oficial» correspondiente al Ejército, Marina o Aire del «Boletín Oficial del Ministerio de Defensa».
+
+Dado en Madrid a veintitrés de julio de mil novecientos setenta y siete.
+
+JUAN CARLOS
+
+El Ministro de Defensa,
+
+MANUEL GUTIÉRREZ MELLADO
+
+## ANEXO — Características y modelo del distintivo de la Casa de Su Majestad el Rey
+
+Descripción: Consistirá en un óvalo de latón cuyo eje mayor, en posición vertical, tendrá treinta y cinco milímetros de longitud y treinta milímetros el eje menor. El anverso estará esmaltado en carmesí, rodeado de un borde dorado de un milímetro de ancho en todo su contorno. En el centro llevará el escudo de Su Majestad el Rey.
+
+DISTINTIVO DE LA CASA DE SU MAJESTAD EL REY
+
+![Imagen: img/disp/2014/151/06525_003.png](https://www.boe.es/datos/imagenes/disp/2014/151/06525_003.png)
+
+> Se modifica por la disposición final 1 del Real Decreto 527/2014, de 20 de junio. [Ref. BOE-A-2014-6525](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6525).
+
+> **Información relacionada**
+
+> Véase el Real Decreto 725/1993, de 14 de mayo, [Ref. BOE-A-1993-14574](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-14574). por el que se modifica este Real Decreto.

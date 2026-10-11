@@ -1,0 +1,111 @@
+---
+title: "Orden de 20 de mayo de 1994 por la que se dictan normas de desarrollo del Real Decreto 323/1994, de 25 de febrero, sobre los documentos que acompañan el transporte de productos vitivinícolas y los registros que se deben llevar en el sector vitivinícola"
+identifier: "BOE-A-1994-13633"
+eli: "https://www.boe.es/eli/es/o/1994/05/20/(3)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1994-05-20
+published: 1994-06-15
+in_force_from: 1994-09-15
+last_amended: 2011-11-01
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 142"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-13633"
+retrieved: 2026-10-11
+---
+
+# Orden de 20 de mayo de 1994 por la que se dictan normas de desarrollo del Real Decreto 323/1994, de 25 de febrero, sobre los documentos que acompañan el transporte de productos vitivinícolas y los registros que se deben llevar en el sector vitivinícola
+
+El Real Decreto 323/1994, de 25 de febrero, sobre los documentos que acompañan el transporte de productos vitivinícolas y los registros que se deben llevar en el sector vitivinícola, constituye normativa básica en aplicación del Reglamento (CEE) 2238/93, de la Comisión, de 26 de julio, sobre esta materia.
+
+En lo que afecta a la cumplimentación o validación, en cada caso, de los documentos de acompañamiento, las autoridades competentes podrán permitir a los expedidores la realización de estas actividades, de acuerdo con lo establecido en el Reglamento (CEE) 2238/93. Sin perjuicio de la decisión que las Comunidades Autónomas tomen al respecto, existe la posibilidad de formalizar encomiendas de gestión de dichas actividades, mediante convenios, dentro del espíritu de colaboración que ha de existir entre las Administraciones Públicas.
+
+El desarrollo legislativo y la ejecución del marco básico estatal corresponde, en lo que se refiere a los intercambios intracomunitarios, a las Comunidades Autónomas, tal como establece el artículo 2 del Real Decreto 323/1994.
+
+Por último, esta Orden regula las condiciones que deben cumplir los transportes destinados a países terceros, que de acuerdo con lo establecido en el artículo citado en el párrafo precedente, corresponde a la competencia del Ministerio de Agricultura, Pesca y Alimentación.
+
+En su virtud, dispongo:
+
+## Artículo 1. Circulación intracomunitaria de productos vitivinícolas.
+
+1\. De conformidad con el Reglamento (CEE) 2238/93, los productos vitivinícolas circularán amparados por alguno de los documentos de acompañamiento previstos en el artículo 3 del citado Reglamento.
+
+2\. Los productos que no estén sujetos a los trámites de circulación establecidos en la Directiva 92/12/CEE del Consejo, de 25 de febrero, relativa al régimen general, tenencia, circulación y controles de los productos objeto de impuestos especiales, circularán amparados por un documento de acompañamiento cumplimentado con arreglo al modelo del anexo III del Reglamento (CEE) 2238/93, de conformidad con lo dispuesto en el artículo 3, apartado 3, del citado Reglamento, que se reproduce en el anexo I de esta Orden.
+
+3\. En el caso de que el transporte se inicie y termine en el territorio del Estado, no será necesario que el documento de acompañamiento cumplimentado con arreglo al mencionado anexo III, esté subdividido en casillas, ni que las casillas estén numeradas.
+
+4\. Los documentos de acompañamiento que amparen transportes de productos vitivinícolas en recipientes de más de 60 litros deben ser visados por el órgano competente de la Comunidad Autónoma correspondiente al lugar de expedición o por el propio expedidor, autorizado por ésta, con el sello establecido por el órgano competente de la Comunidad Autónoma, de acuerdo con lo dispuesto en el artículo 3 del Reglamento (CEE) 2238/93.
+
+5\. La certificación de origen de los v.c.p.r.d., a la que se refiere el artículo 5 del Real Decreto 323/1994, corresponde, de acuerdo con el artículo 87 de la Ley 25/1970, de 2 de diciembre, a los respectivos Consejos Reguladores de las Denominaciones de Origen.
+
+6\. En el supuesto de transporte en recipientes de volumen nominal inferior o igual a 5 litros, provistos de algunos de los dispositivos de cierre reconocidos contemplados en el anexo I del Reglamento (CEE) 2238/93, el documento de garantía y control adherido a los mismos, ya se trate de contraetiqueta o precinto, emitido por el Consejo Regulador correspondiente, tendrá la consideración de certificación de origen del volumen de v.c.p.r.d. efectuado.
+
+7\. La certificación de indicación de procedencia, en vinos de mesa, se realizará por el órgano competente de la Comunidad Autónoma correspondiente.
+
+## Artículo 2. Registros.
+
+1\. La contabilidad a que se refiere el título II del Real Decreto 323/1994 se llevará en Registros separados para las siguientes categorías de productos:
+
+Un v.c.p.r.d. o vino de mesa con derecho a indicación de procedencia y los productos destinados a la elaboración de los mismos.
+
+La elaboración de vinos espumosos, vinos espumosos gasificados, vinos de aguja y vinos de aguja gasificados.
+
+La elaboración de vinos de licor.
+
+La elaboración de vinos aromatizados.
+
+El embotellado.
+
+Productos enológicos.
+
+2\. Los registros deberán ser diligenciados en el momento de su apertura por el órgano competente de la Comunidad Autónoma correspondiente.
+
+## Artículo 3. Comercio exterior.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 1363/2011, de 7 de octubre. [Ref. BOE-A-2011-17174](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17174).
+
+## Artículo 4. Restituciones a la exportación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 1363/2011, de 7 de octubre. [Ref. BOE-A-2011-17174](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17174).
+
+## Disposición derogatoria.
+
+Queda derogada la Orden de 28 de febrero de 1986 por la que se establecen los registros de productos vitivinícolas y normas para la expedición de documentos de acompañamiento de dichos productos.
+
+## Disposición final primera.
+
+Sin perjuicio de las autorizaciones que las Comunidades Autónomas, en el ámbito de sus competencias, puedan efectuar a favor de los expedidores para la cumplimentación o validación de los documentos de acompañamiento, podrán formalizarse convenios entre el Departamento y las Comunidades Autónomas, en orden a la gestión, de conformidad con lo previsto en el artículo 15 de la Ley 30/1992.
+
+## Disposición final segunda.
+
+Se faculta al Director General de Política Alimentaria en el ámbito de sus atribuciones, para dictar las resoluciones necesarias y adoptar las medidas precisas para el cumplimiento de la presente disposición.
+
+## Disposición final tercera.
+
+La presente Orden entrará en vigor a los tres meses de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 20 de mayo de 1994.
+
+ATIENZA SERNA
+
+Ilmos. Sres. Secretario general de Alimentación y Secretario general de Producciones y Mercados Agrarios.
+
+## ANEJO I
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1994/142/13633_001.png)
+
+## ANEJO II
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1994/142/13633_002.png)
+
+## ANEJO III
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1994/142/13633_003.png)

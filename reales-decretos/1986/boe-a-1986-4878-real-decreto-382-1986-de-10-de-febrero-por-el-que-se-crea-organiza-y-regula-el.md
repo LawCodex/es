@@ -1,0 +1,259 @@
+---
+title: "Real Decreto 382/1986, de 10 de febrero, por el que se crea, organiza y regula el funcionamiento del Registro de Entidades Locales"
+identifier: "BOE-A-1986-4878"
+eli: "https://www.boe.es/eli/es/rd/1986/02/10/382"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Administración Territorial"
+date: 1986-02-10
+published: 1986-02-24
+in_force_from: 1986-03-16
+last_amended: 2005-04-15
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 47"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-4878"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 382/1986, de 10 de febrero, por el que se crea, organiza y regula el funcionamiento del Registro de Entidades Locales
+
+La Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, prevé en su artículo 14 la creación por la Administración del Estado de un Registro para la inscripción de todas las Entidades Locales a que se refiere el artículo 3.º de dicho texto legal.
+
+Asimismo la disposición transitoria quinta de la Ley establece que en el mencionado Registro deben inscribirse, en un primer momento, todas las Entidades Locales antes indicadas bajo su actual denominación.
+
+Finalmente es de señalar que eI artículo 14 citado preceptúa que los cambios de denominación de los Municipios sólo tendrán carácter oficial cuando, tras haber sido anotados en el Registro de Entidades Locales, se publiquen en el «Boletín Oficial del Estado».
+
+En su virtud, a propuesta del Ministro de Administración Territorial y deliberación del Consejo de Ministros en su reunión del día 7 de febrero de 1986,
+
+DISPONGO:
+
+## CAPÍTULO PRIMERO — Del Registro de Entidades Locales
+
+### Art. 1.
+
+1\. Se crea en el Ministerio de Administración Territorial, Dirección General de Administración Local, el Registro de Entidades Locales que dependerá de la Subdirección General de Administración Local.
+
+2\. La organización y funcionamiento del Registro se rige por las normas del presente Real Decreto.
+
+### Art. 2.
+
+1\. En el Registro de Entidades Locales, de carácter público, se practicará una inscripción por cada una de las existentes en el territorio de la nación española. A tal efecto son Entidades Locales todas aquellas a que se refiere el artículo 3.º de la Ley 7/1985, de 2 de abril.
+
+2\. Dará lugar a la modificación de la correspondiente inscripción cualquier alteración de los datos que, de acuerdo con lo establecido en eI presente Real Decreto, sea necesario que se contengan en ésta.
+
+3\. La extinción de cualquiera de las Entidades a que se refiere el número 1, dará lugar a la cancelación de la correspondiente inscripción.
+
+## CAPÍTULO II — De las inscripciones
+
+### Art. 3.
+
+La inscripción registral deberá contener los siguientes datos:
+
+A) Municipios.
+
+a) Denominación.
+
+b) Provincia y Comunidad Autónoma a la que pertenece.
+
+c) Extensión superficiel y límites del término municipal.
+
+d) Capitalidad.
+
+e) Número de habitantes.
+
+f) Régimen de funcionamiento común, propio (Reglamento orgánico) o especial (Concejo abierto).
+
+g) Un nombre del dominio o dirección de Internet, al menos, que utilicen para su identificación en Internet.
+
+B) Provincias.
+
+a) Denominación.
+
+b) Comunidad Autónoma a la que pertenece.
+
+c) Extensión superficial y límites del territorio provincial.
+
+d) Capitalidad.
+
+e) Número de habitantes.
+
+f) Régimen común o especial (artículos 39 y 40 de la Ley 7/1985, de 2 de abril).
+
+g) Denominación de la Corporación a la que corresponde la representación, gobierno y administración de la provincia.
+
+h) Un nombre del dominio o dirección de Internet, al menos, que utilicen para su identificación en Internet.
+
+C) Islas.
+
+a) Denominación.
+
+b) Provincia y/o Comunidad Autónoma a la que pertenece.
+
+c) Extensión superficial.
+
+d) Capitalidad.
+
+e) Número de habitantes.
+
+f) Denominación de la Corporación a la que corresponde su representación, gobierno y administración.
+
+g) Un nombre del dominio o dirección de Internet, al menos, que utilicen para su identificación en Internet.
+
+D) Entidades de ámbito territorial inferior al municipio.
+
+a) Denominación genérica (artículo 45.1 de la Ley 7/1985, de 2 de abril) y nombre de la Entidad.
+
+b) Municipio, provincia y Comunidad Autónoma a la que pertenece.
+
+c) Extensión superficial y limites.
+
+d) Capitalidad.
+
+e) Número de habitantes.
+
+f) Régimen de organización y funcionamiento común (Ley de la Comunidad Autónoma) o especial (Concejo abierto).
+
+g) Un nombre del dominio o dirección de Internet, al menos, que utilicen para su identificación en Internet.
+
+E) Mancomunidades de Municipios.
+
+a) Denominación.
+
+b) Número y denominación de los Municipios asociados.
+
+c) Comunidad Autónoma a que pertenece.
+
+d) Capitalidad.
+
+e) Órganos de gobierno y gestión.
+
+f) Obras y/o servicios de su competencia.
+
+g) Un nombre del dominio o dirección de Internet, al menos, que utilicen para su identificación en Internet.
+
+F) Comarcas, áreas metropolitanas y otras agrupaciones de Municipios distintas de la provincia.
+
+a) Denominación genérica y específica de cada Entidad.
+
+b) Número y denominación de los Municipios agrupados en ella.
+
+c) Comunidad Autónoma a que pertenezca.
+
+d) Capitalidad.
+
+e) Denominación y estructura organizativa y funcionamiento de sus órganos de representación, gobierno y administración.
+
+f) Competencia que tenga legalmente atribuida.
+
+g) Un nombre del dominio o dirección de Internet, al menos, que utilicen para su identificación en Internet.
+
+> Se añade la letra g) a los apartados A), C), D), E) y F) y la letra h) al apartado B) por el art. único.1 del Real Decreto 339/2005, de 1 de abril. [Ref. BOE-A-2005-6030](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-6030).
+
+### Art. 4.
+
+1\. En las Entidades territoriales de nueva creación se hará constar el origen y formación de su territorio (segregación o fusión), con indicación de las Entidades de procedencia.
+
+2\. En la inscripción de cada Entidad se hará constar, igualmente, según proceda, la disposición legal, Resolución del órgano de gobierno de la Comunidad Autónoma o Acuerdo Corporativo por el que haya sido creada, con especificación de su fecha, «Boletin Oficial» en que haya sido publicada y fecha de efectividad.
+
+## CAPÍTULO III — Procedimiento para las inscripciones
+
+> Se modifica por el art. único del Real Decreto 1499/1990, de 23 de noviembre. [Ref. BOE-A-1990-28478](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-28478).
+
+### Art. 5.
+
+En las inscripciones registrales de cada Entidad Local se harán constar los datos que, para cada una de ellas, se especifican en el artículo 3 de este Real Decreto.
+
+> Se modifica por el art. único del Real Decreto 1499/1990, de 23 de noviembre. [Ref. BOE-A-1990-28478](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-28478).
+
+### Art. 6.
+
+Creada una Entidad Local y constituido su órgano de gobierno, en el plazo de un mes se solicitará por su presidente la inscripción en el Registro de Entidades Locales, a cuyo efecto se remitirá certificación del texto íntegro del acta de la reunión constitutiva.
+
+> Se modifica por el art. único del Real Decreto 1499/1990, de 23 de noviembre. [Ref. BOE-A-1990-28478](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-28478).
+
+### Art. 7.
+
+Una vez recibida dicha solicitud o conocida por la Dirección General de Régimen Jurídico la creación de una Entidad Local, se solicitará del órgano competente de la Comunidad Autónoma o, en su defecto, del presidente de la Entidad Local comunicacion de los datos a que se refiere el artículo 3 del presente Real Decreto.
+
+> Se modifica por el art. único del Real Decreto 1499/1990, de 23 de noviembre. [Ref. BOE-A-1990-28478](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-28478).
+
+### Art. 8.
+
+Cuando la Dirección General de Régimen Jurídico considere suficientemente acreditados dichos datos dictará la resolución de inscripción, comunicándose la misma a la Entidad Local afectada así como al órgano competente de la Comunidad Autónoma.
+
+> Se modifica por el art. único del Real Decreto 1499/1990, de 23 de noviembre. [Ref. BOE-A-1990-28478](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-28478).
+
+### Art. 9.
+
+Se seguirá el mismo procedimiento descrito en los artículos anteriores para la inscripción de las modificaciones o cancelaciones de los datos que figuran en el Registro de Entidades Locales.
+
+> Se modifica por el art. único del Real Decreto 1499/1990, de 23 de noviembre. [Ref. BOE-A-1990-28478](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-28478).
+
+### Art. 10.
+
+Podrán inscribirse directamente aquellos datos relativos a los Entes Locales que hayan sido publicados en los boletines y diarios oficiales.
+
+> Se modifica por el art. único del Real Decreto 1499/1990, de 23 de noviembre. [Ref. BOE-A-1990-28478](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-28478).
+
+### Art. 11.
+
+Serán objeto de anotación aquellas circunstancias derivadas de la iniciación de procedimientos administrativos o judiciales que pudieran dar lugar a modificaciones en los datos registrales.
+
+A estos efectos, la Entidad Local afectada y la Comunidad Autónoma respectiva deberán comunicar al Registro de Entidades Locales la iniciación de tales procedimientos a fin de efectuar dicha anotación.
+
+> Se modifica por el art. único del Real Decreto 1499/1990, de 23 de noviembre. [Ref. BOE-A-1990-28478](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-28478).
+
+### Art. 12.
+
+Los datos de población se modificarán como consecuencia de la renovación quinquenal de los Padrones Municipales de Habitantes y una vez que por el órgano competente se publiquen oficialmente los datos del Censo de Población.
+
+> Se modifica por el art. único del Real Decreto 1499/1990, de 23 de noviembre. [Ref. BOE-A-1990-28478](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-28478).
+
+### Art. 13.
+
+Por parte de la Dirección General de Régimen Jurídico se establecerán los oportunos mecanismos de colaboración a fin de intercambiar los datos del Registro con los correspondientes de las Comunidades Autonomas.
+
+> Se añade por el art. único del Real Decreto 1499/1990, de 23 de noviembre. [Ref. BOE-A-1990-28478](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-28478).
+
+### Art. 14.
+
+La Dirección General de Régimen Jurídico facilitará al Instituto Geográfico Nacional y al Instituto Nacional de Estadística todos aquellos datos del Registro de Entidades Locales que dichos Institutos puedan precisar para el desarrollo de sus actividades.
+
+> Se añade por el art. único del Real Decreto 1499/1990, de 23 de noviembre. [Ref. BOE-A-1990-28478](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-28478).
+
+## DISPOSICIÓN ADICIONAL PRIMERA
+
+De acuerdo con lo dispuesto en el artículo 14 de la Ley 7/1985, de 2 de abril, las denominaciones de Municipios de nueva creación y los cambios de denominación de los ya existentes, sólo tendrán carácter oficial cuando, una vez inscrito el nuevo Municipio o anotada la nueva denominación en el Registro, se publique en el «Boletín Oficial del Estado».
+
+Comunicada al Registro la denominación de un Municipio de nueva creación o el cambio de otra ya existente, y una vez practicada la inscripción o modificación correspondiente, siempre que la denominación aprobada no coincida o pueda producir confusión con otras ya existentes, se procederá a la inmediata notificación de la resolución correspondiente al órgano que hubiera aprobado la denominación para que pueda procederse a su publicación en el «Boletín Oficial del Estado», a los efectos previstos anteriormente, conforme a lo dispuesto en el artículo 14 de la Ley 7/1985, de 2 de abril.
+
+No podrá publicarse en el «Boletín Oficial del Estado y, por lo tanto, no adquirirá carácter oficial ninguna nueva denominación o cambio de denominación que no haya sido previamente registrada.
+
+> Se numera como disposición adicional primera por el art. único.2 del Real Decreto 339/2005, de 1 de abril. [Ref. BOE-A-2005-6030](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-6030).
+
+## DISPOSICIÓN ADICIONAL SEGUNDA
+
+A los efectos de que en el Registro de Entidades Locales se lleve a cabo la inscripción del dato exigido en el artículo 3 referente a un nombre de dominio, al menos, o dirección de Internet, las entidades locales lo comunicarán al Registro de Entidades Locales, así como todo acto de sustitución o cancelación de aquel. Dicha comunicación deberá efectuarse en el plazo de un mes desde su obtención, sustitución o cancelación.
+
+> Se añade por el art. único.2 del Real Decreto 339/2005, de 1 de abril. [Ref. BOE-A-2005-6030](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-6030).
+
+## DISPOSICIÓN TRANSITORIA
+
+Las Entidades Locales actualmente existentes a las que se refiere el artículo 3.º de la Ley 7/1985, de 2 de abril, deberán inscribirse, bajo su actual denominación, en el Registro de Entidades Locales creado por el presente Real Decreto, en el plazo de seis meses, contados a partir de la fecha de entrada en vigor del mismo.
+
+A este objeto los Presidentes de las Entidades Locales mencionadas cumplimentarán la obligación de inscripción, comunicando al Registro de Entidades Locales los datos que correspondan de los consignados para cada clase de Entidad Local en el artículo 3.º del presente Real Decreto.
+
+## DISPOSICIÓN FINAL
+
+Se faculta al Ministro de Administración Territorial para dictar cuantas disposiciones estime oportunas en orden a la ejecución, desarrollo y aclaración del presente Real Decreto.
+
+Dado en Madrid a 10 de febrero de 1986.
+
+JUAN CARLOS R.
+
+El Ministro de Administración Territorial,
+
+FÉLIX PONS IRAZAZÁBAL

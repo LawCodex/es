@@ -1,0 +1,6888 @@
+---
+title: "Orden de 31 de julio de 1979 por la que se establecen métodos oficiales de análisis de aceites y grasas, productos cárnicos, cereales y derivados fertilizantes, productos fitosanitarios, productos lácteos, piensos, aguas y productos derivados de la uva"
+identifier: "BOE-A-1979-21118"
+eli: "https://www.boe.es/eli/es/o/1979/07/31/(9)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1979-07-31
+published: 1979-08-29
+in_force_from: 1979-09-29
+last_amended: 2014-12-03
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 207"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1979-21118"
+retrieved: 2026-10-11
+---
+
+# Orden de 31 de julio de 1979 por la que se establecen métodos oficiales de análisis de aceites y grasas, productos cárnicos, cereales y derivados fertilizantes, productos fitosanitarios, productos lácteos, piensos, aguas y productos derivados de la uva
+
+Excelentísimos señores:
+
+Por Órdenes de 30 de noviembre de 1976 («Boletín Oficial del Estado» de 4 de enero de 1977) y de 31 de enero de 1977 («Boletín Oficial del Estado» de 14 de julio) se establecieron diversos métodos oficiales de análisis, contemplando en el apartado segundo la posibilidad de su ampliación a medida que los correspondientes grupos de trabajo avancen en el estudio de nuevos métodos. Por otra parte, el continuo progreso de las técnicas de análisis aconsejan la revisión periódica de estos métodos modificándolos, completándolos o sustituyéndolos.
+
+En consecuencia, a propuesta de los Ministros de Defensa, de Hacienda, de Administración Territorial, de Sanidad y Seguridad Social, de Industria y Energía, de Comercio y Turismo y de Agricultura, esta Presidencia del Gobierno dispone:
+
+## Primero.
+
+Se aprueban como oficiales los métodos de análisis de aceites y grasas, productos cárnicos, cereales y derivados, fertilizantes, productos fitosanitarios, productos lácteos, piensos, aguas y productos derivados de la uva, que se citan respectivamente en los anejos del I al IX.
+
+## Segundo.
+
+Cuando no existan métodos oficiales para determinados análisis y hasta que sean estudiados por el grupo de trabajo correspondiente, podrán ser utilizados los adoptados por Organismos nacionales o internacionales de reconocida solvencia.
+
+## Tercero.
+
+Quedan derogadas las disposiciones de igual o inferior rango que se opongan a la presente Orden.
+
+## Cuarto.
+
+La presente disposición entrará en vigor a los treinta días de su publicación en el «Boletín Oficial del Estado».
+
+Lo que comunico a VV.EE.
+
+Madrid, 31 de julio de 1979.
+
+PÉREZ-LLORCA Y RODRIGO
+
+## ANEJO I — **Métodos de análisis de aceites y grasas**
+
+10(b). ÍNDICE DE ACIDEZ
+
+(Método potenciométrico)
+
+10 (b).1 *Principio.*
+
+La determinación de la acidez libre se efectuará por volumetría, utilizando indicador potenciométrico, siendo éste el método aplicable cuando la valoración intensa de la solución o su turbidez dificultan la apreciación del viraje del indicador coloreado.
+
+10(b).2 *Material y aparatos.*
+
+10(b).2.1 Equipo de valoración potenciométrica equipado con electrodos de vidrio/calomelano o de wolframio/calomelano.
+
+10(b).2.2 Agitador magnético.
+
+10(b).2.3 Bureta de 25 ml, dividida en décimas de ml.
+
+10(b).2.4 Matraz aforado de 1.000 ml.
+
+10(b).2.5 Probeta graduada de 50 ml.
+
+10(b).2.6 Vasos de precipitado de 150 ml, forma alta.
+
+10(b).3 *Reactivos.*
+
+10(b).3.1 Isobutil-metil-cetona ![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtc3Vic3VwPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+ZDwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bW4+NDwvbW4+CiAgICAgICAgICAgIDxtbz4mI3hCMDs8L21vPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1uPjIwPC9tbj4KICAgICAgICAgICAgPG1vPiYjeEIwOzwvbW8+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3Vic3VwPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAZCAYAAADJ9/UkAAABEklEQVRIie2W6w3DIAyEbxbmyCCehFGYhWHYJf1jK4cDedBQtVI/CYk4pAbbZwr8IAXAqkPILmSPMxwnAEHnizoKNOcNCh5mcc9FbUmHIQDy0849dtqMOtQciYB2mt5iIYc+zOycI8LzU6L+SOsjth2dPLt1l0i6eMU+1xlb4dnaXs6Hw24n95vizQgmVXtGHSrWuNc06/xWbntMaxgtEuoTtfL9OFYUhWwW4ums2MugNGxMOHl/CZNTcPYzafhivI1JxFcnXxotIrY+MEyvqDLq/PuNRewvj9vNxKqbT2h67Wk10brcsPt5F98+BVuViw7WOd/n3vlQD+duZa2z16l8d7MBTLo6e3zkD8NXOv8zxAs7vHRAXzjx9AAAAABJRU5ErkJggg==) = 0,8; p. e. = 114-117 °C.
+
+10(b).3.2 lsopropanol.
+
+10(b).3.3 Hidróxido potásico.
+
+10(b).3.4 Ácido benzoico.
+
+10(b).3.5 Disolución 0,1 N de hidróxido potásico en isopropanol.
+
+Pesar 7 g de hidróxido potásico, en lentejas, e introducirlas en un matraz aforado de un litro. Adicionar alcohol isopropílico, agitar con agitador magnético hasta conseguir una disolución completa y enrasar. Esta disolución se valora con ácido benzoico.
+
+10(b).4 *Procedimiento.*
+
+10(b).4.1 Preparación de la muestra.
+
+La muestra deberá estar seca y libre de materias extrañas en suspensión. En caso contrario, antes de proceder a la pesada, deberá decantarse el agua si hubiese lugar a ello; y, en todo caso, filtrar con papel de filtro, efectuándose esta operación a una temperatura ligeramente superior a la del punto de fusión de la grasa.
+
+Las grasas que contengan ácidos grasos volátiles no podrán calentarse, debido al riesgo de volatilización de ácidos libres. En estos casos, se procederá a la determinación de la acidez directamente, refiriéndose a muestra seca y exenta de impurezas insolubles, basándose en las determinaciones realizadas sobre muestras independientes.
+
+10(b).4.2 Determinación.
+
+Pesar de 5 a 10 g de materia grasa en un vaso de 150 ml y agregar 50 ml del reactivo 10(b).3.1. A continuación introducir los electrodos y proceder a la valoración con la disolución de hidróxido potásico.
+
+10(b).5 *Cálculos.*
+
+Calcular el índice de acidez aplicando la siguiente fórmula:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+STwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bXRleHQ+QTwvbXRleHQ+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3ViPgogICAgPG1vPj08L21vPgogICAgPG1mcmFjPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+VjwvbWk+CiAgICAgICAgICAgIDxtbz4mI3gyMkM1OzwvbW8+CiAgICAgICAgICAgIDxtbj41NiwxMTwvbW4+CiAgICAgICAgICAgIDxtbz4mI3gyMkM1OzwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5OPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIMAAAAoCAYAAADdRklLAAACrklEQVR4nO2by5WDMAxFXy3UQSFUQilspw2KoZfMgigRimQr/O3onuPFGIJs+VmWDQMEQbCaxqh/sLLm91Z9YDBh6fQHgE7c04nr40pbrWLrgc9B8wgAAIbnfYOoH5/1/cp2Sp+kbKf6USTUsSlz3xYHA3kRNfCJje6TYmhF/Za2cuGm/KKJsXio461xvUFeLCla5J3mjQgEF4W0tVUMwNxfihJW20fYPiuWHulZ2WN7VEgNNtn/xsYZYiAb1vOqFAOQjg5b1kQrV+B2aAbK/CQVTc4QA3+elk9VKwaandK5nVK3BZ58tVjOPh6ZrPYQZ4kBWIqUT4pqxQDoHZ6wf4dpwCYsEz8JLS9aVDpTDMBSxLx91YpBy9A9W0maOd9EELKV+m0PPTwD28Tgaa+WMJM4R/Z3tWLgIbvB3FltICTe7SmHBuQKMXjaa13jO4yqxQAsHbVlO5mjY8+3djIkBs3hZy8T0m5uO14Fue3UXozs+SRAmRtQvcZVYuA2qhcDYA/OGiis8sGhEMuRYZsc3rHr3PlHikHa1qDlLSkG7by/tLPrBvttJ+XZQcrJ0ndy4PlxsyxWvSfnSbUhFSEGOCIDb3z1YeRE9hTpqZQYEe7O2jemlxNi2Jeit3EhhuDFEWKwkiSrhBBvgndArgp9f1EOKx94xXDVDL7aYTWXDzxi6DHvY4886QtugEcMA96HMh4iZyiU3IB0eOcLD3x/UlYr/BM5rRQXRfkJpDXI/CSNlotghvwnfWJ9cXRbPO8m5GtQKsUequyMJQbA/n+JYtFecEwo+Lh1Z1JiyH3JXRT0BZGEQmAR4e9gPJGhuNxBg5YEHubk5+S/LghLDNpHqUHlWDlVVblC4CO1TAQ/RogheBFiCF6EGIIXfHf16zurn0Z7N1HFAVMQBEEQMP4BZsv0Po+hejMAAAAASUVORK5CYII=)
+
+A = volumen, en ml, consumidos en la valoración.
+
+N = normalidad de la disolución de hidróxido potásico.
+
+P = peso, en g, de la muestra.
+
+10(b).6 *Observaciones.*
+
+Cuando se utilicen electrodos simples la unión entre la disolución saturada de cloruro potásico y la disolución de medida es conveniente hacerla a través de una espiga de porcelana porosa de unos 3 cm de longitud o por cualquier otro sistema que impida una difusión apreciable entre ambas disoluciones durante el tiempo que dura la valoración.
+
+10(b).7 *Referencias.*
+
+1\. Instituto Nacional de Racionalización y Normalización del Trabajo. Una Norma Española 55.063.
+
+11(b). ÍNDICE DE SAPONIFICACIÓN
+
+(Método potenciométrico)
+
+11(b).1 *Principio.*
+
+Se denomina índice de saponificación el peso en mg de hidróxido potásico necesario para saponificar 1 g de materia grasa.
+
+La determinación se realiza saponificando la muestra con una disolución previamente valorada de hidróxido potásico, determinando por volumetría el exceso de hidróxido potásico, utilizando indicador potenciométrico. Este método debe aplicarse cuando la coloración intensa de la solución o turbidez dificulten la apreciación del viraje del indicador coloreado.
+
+11(b).2 *Material y aparatos.*
+
+11(b).2.1 Equipo de valoración potenciométrica equipado con electrodos de vidrio/calomelano o wolframio/calomelano.
+
+11(b).2.2 Agitador magnético.
+
+11(b).2.3 Bureta de 25 ml, dividida en décimas de ml.
+
+11(b).2.4 Pipeta aforada de 25 ml.
+
+11(b).2.5 Matraz aforado de 1.000 ml.
+
+11(b).2.6 Probeta graduada de 50 ml.
+
+11(b).2.7 Matraces redondos de 100 ml provistos de tubo de reflujo, de un metro de longitud, con ajuste normalizado 14/23.
+
+11(b).2.8 Vasos de precipitado de 150 ml, forma alta.
+
+11(b).3 *Reactivos.*
+
+11(b).3.1 Isopropanol.
+
+11(b).3.2 Etilenglicol. Índice de refracción a 20 °C: 1,42741,4292.
+
+11(b).3.3 Ácido clorhídrico d = 1,18.
+
+11(b).3.4 Hidróxido potásico.
+
+11(b).3.5 Tris- (hidroxi- metil) -aminometano (CH<sub>2</sub>OH) <sub>3</sub>ONH<sub>4</sub> de calidad utilizada para la preparación de soluciones patrón, peso equivalente 121,14.
+
+11(b).3.6 Disolución 0,5 N de hidróxido potásico en isopropanol. Pesar 35 g de hidróxido potásico, en lentejas, e introducir en un matraz aforado de 1 litro. Adicionar alcohol isopropílico, agitar con agitador magnético hasta conseguir la disolución completa y enrasar.
+
+11(b).3.7 Disolución 0,5 N de ácido clorhídrico en isopropanol. Medir con probeta 42 ml de ácido clorhídrico y verterlos en un matraz aforado de 1.000 ml, completando el volumen hasta el enrase con isopropanol. Para valorar esta disolución pesar, en vidrio de reloj y con precisión de 0,2 mg, aproximadamente, 1,2 g de tris-(hidroxi-metil)-aminometano, pasándolo a un vaso de 150 ml, forma alta. Disolver en 20 ml de isopropanol, adicionándose 20 ml de etanodiol, efectuándose seguidamente la valoración con la disolución clorhídrica, según se describe en 11 (b).4.2. La valoración también se puede realizar utilizando indicador coloreado, adicionándose para ello 2 gotas de disolución azul de timol al 1 por 100 en isopropanol, acusándose el punto de equivalencia por un viraje brusco del amarillo al rosa. Sean P los gramos de THMAM pesados y V los mililitros de ácido clorhídrico consumidos en la valoración:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5OPC9taT4KICAgIDxtbz49PC9tbz4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlA8L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1uPjAsMTIxMTQ8L21uPgogICAgICAgICAgICA8bW8+JiN4MjJDNTs8L21vPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+VjwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAAAoCAYAAAArIw6WAAACk0lEQVR4nO2b25GDMAxFby2pg0KohFL43TYohl6yH8mdKEKyTSAkCjoz/ljzMr7WwwoLJMlJmQBcC2343NCSrVxwE3FW/T0eAl+OHlSyHU9YABjvx8ZDR5TsQknY4X5sOnREyS60WGzG2oB4wlLU6+EjSnaBwlotY2tgSq44CUxIYWc8uxaLEUsXdKZ9W0hhAaDDQ7DS4M8aU8IKC9wGTev1xJtwWwRnQy78cJ5qxnP2Z+3LziisVSsOVYygm5Grs1fnnFHY8Mj44RW3W4S1Eq1SC+faotFSVTnaYv+yrW4LrIyP8WUSf6ew390WeKm8zJQzxgbEE1bXSTPGBqO0+ZaZcjSL3bJwvGvDLEYKp7c3EmbKnxJWe45aBcz7skF7lDU/njPnqP32OhjXtqJLvJYuvTpuPkvfqGS5Iz4jLF9EviArZRouAEvYEctJ4nvLv3ktJ6xT/SVh+fwtRQw+p1bCbFlkX401UZxs78WkwMSycu8+rzwT92tm49q11ELfBUFr14TWak2mZ7XAUtjSBFku+xVhRzwmfKuwtW+phsI4QkC3ZAnDmGclM55g3nlbLbYT/XsIyzF47x5+R1ESryR6q7BeUrhWWHnuXsLSavU79EZfON4t7Oycs0bYSY1vL2E5Dv3+M+JtOxe8U9gBfoxuFbbHMtOuCUsv0WJ1OrvvKvcOw7tiLEXyaBH24ty/JmzrdobPkFY7oVxvCIO1hyVrsmIJBSolHy3CMgaW2h7WJRdC6C2OZq99rOyvZZSv7mOBfWMsUP+yJSy1ypN2V7JPCss+y6136txvEhZ4WG3oLY6F/CFCT7o85rnH2v+58n5Wrda71ot17xDWi+enQBYJkh/iJ7YByTP8fDZJkiRJvoF/397hiR9ywZ0AAAAASUVORK5CYII=)
+
+11(b).4 *Procedimiento.*
+
+11(b).4.1 Preparación de la muestra.
+
+La muestra deberá estar seca y libre de materias extrañas en suspensión. En caso contrario, antes de proceder a la pesada, deberá decantarse el agua, si hubiere lugar a ello, y, en todo caso, filtrar por papel de filtro, efectuándose esta operación a una temperatura ligeramente superior a la del punto de fusión de la grasa.
+
+Las grasas que contengan ácidos grasos volátiles no podrán calentarse, debido al riesgo de volatilización de ácidos libres. En estos casos, se procederá a la determinación de la acidez directamente, refiriéndose a muestra seca y exenta de impurezas insolubles, basándose en las determinaciones realizadas sobre muestras independientes.
+
+11(b).4.2 Determinación.
+
+Pesar en un matraz redondo de 100 ml, aproximadamente, 2 g de la muestra. Adicionar seguidamente con pipeta 25 ml de la disolución 0,5 N de 11(b)3.6. Ajustar el tubo de reflujo y calentar hasta ebullición, manteniéndola durante media hora o más si fuera necesario hasta conseguir la saponificación completa. Retirar el matraz y dejar enfriar. Antes de que se enfríe completamente trasvasar el contenido a un vaso de precipitado de 150 ml, lavando el matraz con 30 ml de etilenglicol adicionado en porciones sucesivas. Completar el lavado con 5 ml de isopropanol. Paralelamente se realiza una prueba en blanco con as ml de la disolución de hidróxido potásico 0,5 N. Al terminar el período de ebullición enfriar y transvasar a un vaso de 150 ml como anteriormente. A continuación introducir los electrodos y proceder a la valoración con la disolución de ácido clorhídrico. Ver 11 (b).6.
+
+11(b).5 *Cálculos.*
+
+Calcular el índice de saponificación aplicando la siguiente fórmula:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+STwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bXRleHQ+UzwvbXRleHQ+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3ViPgogICAgPG1vPj08L21vPgogICAgPG1mcmFjPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWZlbmNlZCBzZXBhcmF0b3JzPSJ8Ij4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5WPC9taT4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1vPi08L21vPgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5WPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tZmVuY2VkPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9ImJvbGQiPjwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPk48L21pPgogICAgICAgICAgICA8bW8+JiN4MjJDNTs8L21vPgogICAgICAgICAgICA8bW4+NTYuMTwvbW4+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+UDwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKoAAAApCAYAAAClUrL0AAADc0lEQVR4nO2bYZKDIAyF31l6Dg/Sk/Qo+3ev4WG8i/ujZprSEIhilfV9M85st0JDeIQAChBCmnM72oAv0Hsbc/bP6oqW7Yo7gAnAsHye8N74ebknLaO/H79i6TbbRqyzM/1Nix/DrrXiGIy6rPpK4sRSZqs9p+CBp5NTxPFTofy81PFNttg2YJ1YtXi8351h+zNCyT4RX+m+HzxtHdG5UAeUnT7jFWlTboXye7LFttzgLDHhFV1z5UfHphoGp26hJpJqZGB3K9QJn9Om5gF/5D7w/Wiqf3uLbWs6bsL7VGrVv1WoEv1yQpR2R/zetVAljysZ70Uur7w4tGa6XMta24CnIKJRVdqg04B0oG8Rai431fVJRE/zcK8tXQtV8pcSIrjUEXfjf4K1aNkjoV9jmyCdF0H7SwtFt2lrRNXoBdqA92iu/ZvzQ1pPl0KVfKsGq0P0LoFGOjD9TqJF692BiG0a6dxI56X+0kISWgoVePltUn9bgvQWTJcRqjRUHOStnD2nyLTVkohtGhFqRFSWv0QgegvMq1MGciTtkDZ6ZR/qnlz5LoUayRvTvbgR+UWYN7JrRn0uN2thm8br2Bw5f+mdgJJQa7fWNCLQSwo1ElGBdwd75eQ+q7NEqK2ptU3TKqIC74MlWmcNciAD5NMnrz1dCzW6mChtywjeqG+xGW5Ra5tGOjaCNwj0ir21UEe82pUTndefXQtVHBsxvrbBEjn1NLRGGBGinRE9ThV/ealCbiFZi6QQerBJOqFJU4fUtnRm6VqowLMxkY3jG+ojYrqPuvezABHbgJig0rP+UuqzVqjp3qg3MFKb5Df17GLl/WawsB6gOJOyS0eo/5WafdbLoRXeOndpwZHHoEdw5PMJp+dskTTlgdg2Tc9QpA5nFyqwLbfqBYq0QA9CJaSJUHMruNzFQUHCnE08v7x4wWBG+fx7Xj5/Y1FztIN4neP6YIYtVH2GK/ddaauInIycUK13d3JCZY5KdscTzwyekuyJTq2sizPYgj6ZyuWfa56NJPVIH6T7qLnXSS5H9KyfI3wfckIFPt8QIAbWS2nzEYb8czyhll67JngKNX32kMd87amJqJzJHO74fG6TtCcnVOstUkIOI32nSV/MTclp8KZ+Qk4DhUq6gEIlXUChki7Q79xf+gSKnBfrrJ+b+4QQQgi5Kn+axIBUV0vZAAAAAABJRU5ErkJggg==)
+
+Siendo:
+
+Vo = volumen, en ml, consumidos en la valoración en blanco.
+
+V = volumen, en ml, consumidos en el ensayo con la muestra de materia grasa.
+
+N = normalidad de la disolución de ácido clorhídrico.
+
+P = peso, en g, de la muestra.
+
+11(b).6 *Observaciones*.
+
+Cuando se utilicen electrodos simples la unión entre la disolución saturada de cloruro potásico y la disolución de medida se hará a través de una espiga de porcelana porosa de unos 3 cm de longitud o por cualquier otro sistema que impida una difusión apreciable entre ambas disoluciones durante el tiempo que dure la valoración.
+
+11(b).7 *Referencias.*
+
+1\. Instituto de Racionalización y Normalización del Trabajo. Una Norma Española 55 064.
+
+41\. DETERMINACIÓN DE ÁCIDOS GRASOS POR CROMATOGRAFÍA GASEOSA
+
+41.1 *Principio.*
+
+El método está basado en la separación y determinación por cromatografía gaseosa de los ésteres metílicos de los ácidos grasos.
+
+Es aplicable a aceites y grasas tanto vegetales como animales, que circulan normalmente en el comercio, conteniendo ácidos grasos de 12 a 24 átomos de carbono. En el caso de la mantequilla y de otras grasas que contengan ácidos grasos inferiores, deberá utilizarse un método adecuado para la preparación de los ésteres metílicos o aislamiento de los ácidos libres de pequeña longitud de cadena, siendo necesario para la separación y determinación de estos últimos, efectuar la cromatografía en condiciones distintas de las que se describen en esta norma.
+
+Las condiciones que se especifican no son adecuadas para la determinación de ácidos grasos oxidados y epoxiácidos, por lo que la presencia de estos ácidos dificulta la operación, pudiendo llegar a falsear completamente los resultados.
+
+41.2 *Preparación de los ésteres metílicos.*
+
+41.2.1 Material necesario.
+
+41.2.1.1 Matraz redondo, fondo plano, de unos 50 ml de capacidad, con boca esmerilada.
+
+41.2.1.2 Refrigerante de agua adaptable al matraz anterior, para su utilización como refrigerante de reflujo.
+
+41.2.1.3 Ampolla de decantación de unos 500 ml de capacidad.
+
+41.2.1.4 Matraz redondo, fondo plano, de unos 100 ml de capacidad.
+
+41.2.1.5 Matraz, fondo plano, de unos 50 ml de capacidad, boca esmerilada, cuello de 40 a 50 mm de longitud y 10 milímetros diámetro exterior.
+
+41.2.2 Reactivos necesarios.
+
+41.2.2.1 Metanol absoluto (99,8 por 100), calidad reactivo para análisis.
+
+41.2.2.2 Sodio metálico reactivo para análisis.
+
+41.2.2.3 Disolución de metilato sódico. Se disuelven 5 g de sodio metal en 1.000 ml de metanol absoluto (0,2 N aproximadamente).
+
+41.2.2.4 Éter de petróleo (p. e. 40° 60 °C) o hexano de calidad adecuada para cromatografía.
+
+41.2.2.5 Disolución en metanol absoluto, de ácido clorhídrico anhidro al 3-4 por 100. Se puede obtener fácilmente el ácido clorhídrico gaseoso haciendo caer lentamente, en aparato adecuado, ácido sulfúrico (d = 1,84), sobre una disolución de ácido clorhídrico (d = 1,16); se seca el gas haciéndolo pasar por un frasco lavador con ácido sulfúrico y se hace llegar al metanol anhidro, contenido en un Erlenmeyer.
+
+Pesando el Erlenmeyer con el metano al comienzo de la operación, por pesadas sucesivas, se determina la cantidad disuelta de clorhídrico, prolongando la operación hasta alcanzar una concentración superior a la deseada. Se adiciona la cantidad de metanol para lograr la concentración del 3-4 por 100 (p/p).
+
+41.2.2.6 Cloruro sódico.
+
+41.2.2.7 Sulfato sódico anhidro, calidad reactivo para análisis.
+
+41.2.2.8 Disolución de fenolftaleína al 1 por 100 en metanol.
+
+41.2.2.9 Disolución de rojo de metilo al 0,1 por 100 en metanol al 60 por 100 (v/v).
+
+41.2.2.10 Gas nitrógeno puro, con un contenido mínimo del 99,8 por 100.
+
+41.2.3 Procedimiento operatorio.
+
+41.2.3.1 Preparación de los ésteres metílicos.‒Los ésteres metílicos de los ácidos grasos pueden ser preparados por interesterificación directa de la grasa, siguiendo el método que se detalla en el párrafo siguiente, el cual tiene un carácter general, aplicable a una grasa, cualquiera que sea su acidez libre y siempre que no tenga un contenido de materia insaponificable superior al 2 por 100, como es el caso de la inmensa mayoría de las materias grasas corrientes.
+
+Pesar 0,3 g de grasa perfectamente homogeneizada en el matraz de 50 ml (ver nota 41.5.1), y se agregan 6 ml de la disolución de metilato sódico. Se coloca el refrigerante al matraz, se hierve hasta obtención de una sola fase y, como mínimo, 5 min. Se interrumpe la calefacción.
+
+Se agregan al matraz 6 ml de la disolución de clorhídrico en metanol y se vuelve a calentar, manteniendo en ebullición durante 5 min. Se enfría y se procede según se indica en el apartado 41.2.3.2 (ver 41.5.3).
+
+41.2.3.1.1 En el caso de materias grasas con una acidez libre no superior al 0,3 por 100, como sucede normalmente en aceites refinados, se puede simplificar el procedimiento omitiendo la metanólisis en medio ácido. Se realiza la metanólisis según se indica en el apartado 41.2.3.1, y, estando todavía caliente el matraz, se agrega, por la parte superior del refrigerante, una gota de disolución indicadora de fenolftaleína y, seguidamente, disolución de clorhídrico en metanol, en una cuantía algo superior a la necesaria para neutralizar el metilato, acusado por el viraje de la fenolftaleína. Se deja enfriar, pasándose la disolución contenida en el matraz a la ampolla de extracción, siguiéndose según se indica en el apartado 41.2.3.2.
+
+41.2.3.1.2 Si se trata de ácidos grasos libres o materias grasas de fuerte acidez (80 por 100 en ácido oleico), se podrá omitir la metanólisis alcalina, reduciendo la operación a la metanólisis en medio ácido. Para ello, se pesa, en el matraz en que se vaya a realizar la operación 0,3 g de muestra, previamente filtrada y seca. Se agregan 6 ml de la disolución de clorhídrico en metano, procediendo como se señala en el apartado 41.2.3.2.
+
+41.2.3.1.3 En el caso de que sea necesario la eliminación previa de la materia insaponificable, se procede según se indica en el método 22(a) «Insaponificable. Método éter de petróleo». La disolución hidroalcohólica de jabón se concentra al vacío, preferiblemente en evaporador rotatorio o bajo corriente de hidrógeno, si no se dispusiese de este aparato, hasta alcanzar unos 50 ml aproximadamente; se pasa el concentrado a una ampolla de extracción, acidificando con ácido clorhídrico 2 N hasta reacción ácida al rojo de metilo. Se extrae con éter de petróleo o hexano, procediéndose de forma análoga a como se indica en el apartado 41.2.3.1.2 para la preparación de los ésteres metílicos.
+
+41.2.3.2 Extracción de los ésteres metílicos.‒Para la extracción de los ésteres metílicos se procede según uno de los métodos que se describen a continuación. En los análisis que interese mucho la rapidez y se opere con aceites y grasas de tipo normal, es preferible el método a). Este método tiene, además, la ventaja de no exigir la evaporación del disolvente y, por tanto, se disminuye el riesgo de pérdida de ácidos grasos de bajo peso molecular, cuando existen en el problema. El método b) es un procedimiento más seguro de recuperación cuantitativa de los ácidos grasos y debe ser utilizado como método de referencia en los límites de aplicación de esta norma. Operando de la forma que se indica en el apartado 41.2.3.2.2, hay riesgo de pérdida de ácidos grasos con longitud de cadena inferior a C<sub>12</sub>.
+
+41.2.3.2.1 Método a).‒Se pasa la disolución contenida en el matraz a otro de unos 50 ml de capacidad, con cuello estrecho y largo (41.2.1.5), enjuagando con unos 6-8 ml de hexano o heptano de pureza adecuada para cromatografía gaseosa, que se vierten también al matraz, calentándose suavemente sin llegar a hervir, mientras se agita dando un movimiento de rotación al matraz, durante uno o dos minutos. A continuación se agrega disolución acuosa saturada de cloruro sódico en cantidad suficiente para situar la capa de hexano o heptano en el cuello del matraz. Esta disolución, que contiene los ésteres metílicos, debe estar limpia y transparente, tomándose con una pipeta 2 o 3 ml, que se pasan a un frasquito o a una ampolla para su conservación, pudiéndose inyectar directamente esta disolución en el cromatógrafo.
+
+Si la metilación se hubiera efectuado en este matraz, no hará falta el trasvase, adicionándose directamente 6-8 ml de hexano o heptano y la disolución de cloruro sódico.
+
+41.2.3.2.2 Método b).‒Se pasa la disolución contenida en el matraz a una ampolla de extracción de 500 ml, enjuagando con unos 20 ml de éter de petróleo o hexano y añadiendo, a continuación, en la ampolla 100 ml de agua destilada. Se agita enérgicamente y se deja reposar. Se decanta la capa inferior, que se pasa a otra ampolla de extracción y se vuelve a extraer con otros 20 ml de éter o hexano, repitiéndose la operación una vez más. Los tres extractos se reúnen en una ampolla de extracción, y se lavan con porciones sucesivas de 10 ml de agua destilada, hasta eliminación completa del ácido, acusado con la disolución indicadora de rojo de metilo. Se seca la disolución con sulfato sódico anhidro y se elimina el disolvente en el matraz de 100 ml, calentando en un baño de agua bajo corriente de nitrógeno. Esta operación se debe realizar, preferiblemente, en un evaporador rotatorio de vacío.
+
+41.2.3.3 Conservación de la disolución de ésteres metílicos. Los ésteres metílicos obtenidos por uno u otro procedimiento deben ser utilizados en el análisis tan pronto como sea posible. Pueden conservarse durante 24 horas en un frasco bien tapado; desalojando previamente el aire con nitrógeno y guardando a baja temperatura. Para almacenamiento durante períodos de tiempo más largos es necesario conservar en ampolla cerrada a la lámpara, de la cual se ha desalojado previamente, el aire con una corriente de nitrógeno. La eliminación del aire se hace barbotando el nitrógeno en la disolución de hexano.
+
+41.3 *Procedimiento cromatográfico.*
+
+41.3.1 Material necesario.
+
+41.3.1.1 Cromatógrafo.‒Un cromatógrafo apto para la separación de los ésteres metílicos de ácidos grasos, que disponga de un horno capaz de ser calentado a temperatura regulada hasta 250-300 °C, superior a la temperatura del horno; un sistema de detección sensible, y un aparato registrador continuo.
+
+41.3.1.2 Tubo de nitrógeno.‒Un tubo de nitrógeno a presión, utilizable como gas portador, debiendo tener una riqueza mínima del 99,8 por 100.
+
+41.3.1.3 Jeringa.‒Una jeringa para la inyección de la muestra, con una capacidad de 5 o 10 μl.
+
+41.3.1.4 Aire seco y puro.
+
+41.3.1.5 Hidrógeno con una riqueza mínima del 99,9 por 100 y seco.
+
+41.3.1.6 Columna.
+
+41.3.1.6.1 Columna de acero inoxidable, aluminio, o vidrio de 2-4 mm de diámetro interior y 2 m de longitud rellena de Chromosorb G o W (80-100 mallas), Calite 545 (80-100 mallas) o cualquier otra columna que cumpla las condiciones especificadas en el apartado 41.4.2.
+
+41.3.1.6.2 Preparación de la columna.
+
+41.3.1.6.2.1 Preparación del soporte.‒Para los fines propuestos en esta norma, son recomendables como soportes el Chromosorb G o W de 80-100 mallas, aunque sin excluir la posibilidad de que puedan ser utilizados otros productos análogos de eficacia comprobada, que puedan comportarse de forma análoga o, incluso, superior a los recomendados.
+
+El soporte elegido deberá haber sido lavado con ácido y sometido a un tratamiento de silanización.
+
+Para conseguir un comportamiento óptimo de la columna es importante que el relleno tenga la mayor homogeneidad posible, siendo necesario para ello que el graneado del soporte sea uniforme. En caso de duda, debe procederse a un tamizado del producto lavado con ácido y silanizado, suministrado por la casa fabricante, recogiendo únicamente la porción que pasa por el tamiz 80 y es retenido por el 100 desechando los gruesos y finos (ver 41.5.3).
+
+41.3.1.6.2.2 Impregnación del soporte.‒Se pasa la cantidad de soporte que se desee, introduciéndolo en un matraz de 100 a 200 ml de capacidad, agregando la cantidad necesaria de cloruro de metileno para conseguir una papilla fluida. Se hace el vacío en el matraz hasta que cese el desprendimiento del aire ocluido en el soporte. A continuación se agrega la cantidad de fase fija correspondiente al 2,5 por 100 del peso del soporte utilizado, disuelta en el volumen necesario de cloruro de metileno. Se homogeniza la mezcla, haciendo nuevamente el vacío y manteniéndolo durante 10-15 minutos. Transcurrido este tiempo, se tapa el matraz, dejándolo en reposo durante unas 10-12 horas.
+
+Seguidamente se elimina el disolvente en evaporador rotatorio, con vacío. Una vez seco el relleno, se introduce el matraz en una estufa calentada a unos 150 °C, manteniéndolo así durante 4-6 horas.
+
+Terminada esta operación, el relleno queda listo para su introducción en la columna y acondicionamiento, tal como se describe en los apartados siguientes:
+
+41.3.1.6.2.3 Llenado de la columna.‒Introducir el soporte impregnado con fase fija en la columna, haciendo vacío por un extremo y vibrándola suavemente por percusión o con un vibrador magnético, hasta su llenado total. Es preciso que el material rellene la columna homogéneamente, evitando un empaquetamiento heterogéneo que le haría perder eficacia. Obturar los extremos con tapón de lana de vidrio y/o cilindros de mallas metálicas de cobre o acero inoxidable.
+
+41.3.1.6.2.4 Antes de emplear una columna nueva en la resolución de problemas analíticos, debe ser acondicionada, montándola en el cromatógrafo desconectada del detector y calentando a unos 10° por encima de la temperatura máxima a que vaya a ser utilizada; haciendo pasar, al mismo tiempo, una corriente de nitrógeno, que se mantiene durante veinticuatro horas como mínimo. La columna es apta para su utilización, si la línea base dibujada por el registrador acusa la estabilidad del sistema.
+
+41.3.2 Condiciones operatorias.
+
+41.3.2.1 Se ajusta el flujo del gas portador (nitrógeno), que debe ser el adecuado para permitir la elución del linolenato de metilo en un tiempo mínimo de veinticinco minutos. La presión de entrada y el flujo necesario para conseguirlo varía según la columna y el instrumento utilizado, pero es relativamente constante para un aparato y columna determinada. Es necesario mantener un flujo constante durante todo el análisis. El flujo gaseoso se mide con un medidor de burbuja de jabón y otro dispositivo adecuado.
+
+Se pone en marcha la calefacción del horno de la cámara de inyección y del detector. El horno se regula a una temperatura aproximada de 160°-170 °C; la cámara de inyección, a una temperatura de 50 °C superior a la temperatura de la columna, y el detector, a 25 °C por encima de la temperatura de la columna.
+
+Las condiciones de trabajo indicadas anteriormente deben considerarse como orientación, ya que la imposibilidad práctica de conseguir el mismo comportamiento en columnas diferentes y las variaciones que presentan en sus características y condiciones operativas los diversos aparatos que se encuentran en el comercio, hace imposible fijar, a priori, unas condiciones invariables de trabajo, aplicables a todos los casos y en todas las circunstancias.
+
+Las condiciones operativas más adecuadas deben ser establecidas por cada operador, a la vista de los resultados obtenidos con mezclas patrones de ésteres metílicos, siguiendo las instrucciones que se dan en el apartado 41.3.3.
+
+Para todos los demás detalles operativos no mencionados en esta norma, se deben seguir las instrucciones dadas por la casa fabricante del aparato.
+
+Se prepara una disolución de los ésteres metílicos con acetona o hexano, cuya pureza haya sido previamente comprobada y, utilizando la jeringa, se inyectan 0,4-0,6 μl, y se retira rápidamente la aguja.
+
+El registro obtenido debe satisfacer las condiciones que se indican a continuación; caso contrario, se repite la inyección hasta obtener un cromatograma satisfactorio.
+
+Los requisitos exigibles son los siguientes:
+
+a) El área total descrita en el cromatograma, referida a la sensibilidad máxima utilizada en el curso de la operación, debe ser de un orden aproximado de 2.000 mm<sup>2</sup>, con una velocidad del papel, en el registrador, de 5mm/min. De esta forma, los componentes presentes, en una cuantía del 0,1 por 100, deben dar un pico como mínimo, de 2 mm<sup>2</sup>, siendo, por tanto, perfectamente reconocibles
+
+b) Con el fin de conseguir que todos los picos caigan dentro del papel registrador, se utilizará, en cada caso, la atenuación de sensibilidad que sea necesaria.
+
+Una vez conseguido un registro satisfactorio, y habiendo alcanzado nuevamente la pluma la línea base, se interrumpe el funcionamiento del registrador y se retira el papel con el registro para la identificación de los picos cuantitativos.
+
+41.3.3 Identificación de los picos.
+
+41.3.3.1 Criterio basado en los tiempos de retención.‒Refiriéndonos exclusivamente a los ácidos que entran normalmente en la composición de las grasas naturales, sus ésteres aparecen en el cromatograma en orden creciente de sus átomos de carbono y a su insaturación. Esto es, el palmítico H(C<sub>16</sub>) aparece delante del esteárico (C<sub>18</sub>), y los ésteres en C<sub>18</sub> aparecen en el orden estearato, oleato, linolenato. El éster del ácido aráquico (C<sub>20:</sub><sub>0</sub>), usualmente, aparece antes del linolénico (C<sub>18</sub><sub>:</sub><sub>3</sub>) pero, puede ocurrir lo contrario, en algunos casos, dependiendo del tipo de columna y de las condiciones de su utilización; o incluso, superponerse el uno al otro.
+
+Operando en condiciones constantes, los tiempos de retención son reproducibles en cada especie química, siendo el criterio más frecuente empleado para su identificación.
+
+El tiempo de retención viene dado por la distancia, medida en el cromatograma, entre el máximo del pico del aire y la posición del máximo de la banda. Trabajando con detector de llama de hidrógeno, la salida del aire no se detecta, pudiéndose tomar, en este caso, el momento en que se inicia la salida del disolvente, acusada por una fuerte desviación de la pluma del registrador.
+
+41.3.3.2 Criterio basado en los tiempos de retención relativos.‒Los tiempos de retención relativos son más reproducibles. Las retenciones relativas vienen determinadas por el cociente de dividir el tiempo de retención de cada pico por el tiempo registrado para el pico del palmitato de metilo, o bien por otro éster que se tome como comprobación, determinados todos ellos según el criterio expuesto en el apartado 41.3.3.1.
+
+41.3.3.3 Como el comportamiento de la columna cambia como consecuencia de factores muy diversos, y durante su utilización continuada experimenta un proceso de envejecimiento que altera su capacidad de retención, es conveniente comprobar, periódicamente, la posición de los distintos ésteres en el cromatograma, utilizando mezclas patrones convenientemente preparadas, o bien ésteres metílicos de una grasa previamente analizada y conocida. Esto constituye una de las operaciones de comprobación a que se hace referencia en el capítulo 41.4.
+
+41.3.4 Determinación cuantitativa.
+
+La determinación cuantitativa se basa en el principio de que los pesos de cada uno de los componentes separados en la mezcla son proporcionales a las áreas comprendidas dentro de los triángulos dibujados debajo de cada pico. El área de cada triángulo se obtiene trazando rectas tangentes a los puntos de inflexión de cada pico, prolongándolas hasta su intersección con la línea base y multiplicando la altura del triángulo por la mitad de la base. En el caso de haber trabajado con atenuaciones diferentes para cada pico, se referirán todas las medidas a una misma sensibilidad del registrador, multiplicando la altura por el factor de atenuación correspondiente en cada caso, y el valor de la altura así corregida, por la mitad de la base. Si no es necesario efectuar corrección en relación al cambio de atenuación, como ocurre en la mayor parte de los análisis de rutina en que se trabaja con una sola atenuación, la medida del área se realiza más cómodamente multiplicando la altura del pico por el ancho a la mitad de la altura. El contenido de cada ácido en la muestra viene dado por la expresión
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtdGV4dD5Qb3JjZW50YWplIEEgZW4gcGVzbzwvbXRleHQ+CiAgICA8bXRleHQgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij49PC9tdGV4dD4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1mcmFjIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5TPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnU8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cDwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnI8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZjwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmM8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aTwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPkE8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtdGV4dD48L210ZXh0PgogICAgICAgICAgICA8bXRleHQ+JiN4MjIxMTsgZGUgbGFzIHN1cGVyZmljaWVzPC9tdGV4dD4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgogICAgPG1vPiYjeEQ3OzwvbW8+CiAgICA8bW4+MTAwPC9tbj4KICAgIDxtbz4sPC9tbz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,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)
+
+siendo A el éster metílico correspondiente a un pico dado.
+
+41.4 *Operaciones de comprobación.*
+
+41.4.1 Reactivos necesarios:
+
+Laurato de metilo.
+
+Palmitato de metilo.
+
+Estearato de metilo.
+
+Oleato de metilo.
+
+Linoleato de metilo.
+
+Estos ésteres metílicos han de ser puros, comprobada su pureza por cromatografía gaseosa, y conservados en condiciones que garanticen su inalterabilidad y comerciales como se indica en 41.2.3.3.
+
+41.4.2 Prueba de comportamiento del instrumento y de la columna.
+
+Se realiza determinando la resolución de dos productos críticos, como son el oleato y el estearato de metilo. La resolución viene determinada por la expresión:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5SPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5zPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5sPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj51PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj4mI3hGMzs8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm48L21pPgogICAgPG1vPj08L21vPgogICAgPG1mcmFjPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bW4+MjwvbW4+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij5EPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5PPC9taT4KICAgICAgICAgICAgPG1vPis8L21vPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+RTwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKwAAAAkCAYAAAAU0tFtAAADWElEQVR4nO2cwRGjMAxFfy3UQSGphFK4bhsUk152DxntOOJLFoYQQ/RmuBCwBf7IsuQJkCRJckEGAH/V8djYxkLa0Md4kL3JDzMAeKpzE14CmxraE3FqJqRwkwOY8BKtRjzmVizBAu+efKsHTxIAtreb8RIWE7OHJ1jgJdTaNUmyGRHsViJifCK9bHIwT7zCgq1EBCsfw9zQfpKskGl7azgApGCTL7Bnut4i2JYsxCUZ8fn4R1bJvxZnLdgnpIhgm99tLdnbm8uWYL0nIcn0eYfc4oL9Y14T7BC4xsVqYCzO9zQYIpAeBCu23GFqm3GMg6qJcXeGwFO8VCd68rS9CPaBdYXoqsywMwILti2+REv6nsMcoCdYEUdLeuNT9CDYEX19xHuohYVRcZ22lyDiYT3ByorPMyoSe5a15r+wvRcTbPmyBnKO9VlWXJjd8lzs3qitYsOA9/d0hxDia3iCtdy7sOB9QFk5T083M9YDtmD9UVh9Wx6W9e1dW/Y3qeskac7uXbAWqHyQA7lOBC3tREqe2gnUjpZ86WVhW8siLpzFcBKnlNMlW3mWgrVW2dKWFvJewbKkuLyDmVzH7o3aOpHrzw5p/tzgeIN5WG+aEzwvUA4cE4P2wJaXEA9Vslew3gKj1s9WW1OwJwk2sthi03jZpkYGlIUDlgjYb3sF69ld4sXKUVt7EOztsGJYEYCX7oikdbRAtfeWflj4wfZk7hXsM2i352GZ2JitrYLNGNbBW3SJV2QpHDYYwqM4rwUv8d5YXGv1wc7vFaxnN4uty3utWBXgu5t69bBM9GdkLiKpL+3QVngJ3fI39kBM6A/4iy4ZRL2itoSlsQZcr/QBe5OFZXdNsGWbzFbt6XoTrLVLqnRan/bWtdLsCEewTPGWl7Ae6Kl+Zx5R5zzZS9H9WF7M+xL185Rtars8u2v96OdhL5jZoqf6M4sPkR1SnpAsWBaoRq2fuxRlkkaiG05aSvGfEGzy40QqlkDbTqqjBZtVwOR/eBIRg7We8do+SrAD+tq3knyJXgXLjhRscphgIympiPDSwyYuGcMml+KKWYJMbf04kf/LaikefEKwd9ogn+zAKx60Vrq2CjZS6fpWJTDpFLZIao0dtwg2upfgjBJxkiRJkiTX5B8k/5PBlXbl4wAAAABJRU5ErkJggg==)
+
+Siendo:
+
+D = distancia entre los dos máximos de los picos del oleato y el estearato.
+
+O = ancho de la base del pico correspondiente al oleato.
+
+E = ancho de la base del pico correspondiente al estearato.
+
+Estos valores se determinan sobre el cromatograma obtenido con una muestra que contenga cantidades aproximadamente iguales de estearato y oleato de metilo, inyectando una cantidad tal que la altura de estos picos alcance al 25-50 por 100 del ancho del papel de registro.
+
+Si la resolución calculada es igual o mayor que 1,0, la columna y el instrumento se encuentran en condiciones satisfactorias. Todas las columnas en el transcurso de su utilización sufren una pérdida gradual en la resolución de los picos; cuando el valor llegue a ser inferior a 1,0, debe instalarse una nueva columna.
+
+41.4.3 Situación de los ésteres en el cromatograma.
+
+Utilizando los productos patrones a que se hace referencia en el apartado 41.4.1, se prepara una mezcla que contenga, preferiblemente, cantidades de un orden aproximado al existente en la grasa o grasas que se trata de analizar. Se registra el cromatograma de la forma usual, determinando los tiempos de retención absolutos o relativos para cada una de las especies contenidas en la mezcla.
+
+En el caso de tener que identificar en el problema algún pico que no coincide con los ésteres contenidos en la mezcla patrón, es de suma utilidad efectuar, a partir de los datos obtenidos con la mezcla patrón, la representación gráfica de la función que relaciona los logaritmos de los tiempos de retención, con el número de átomos de carbono de cada ácido; para los términos comprendidos en una misma serie homóloga, esta función es lineal; por lo tanto, los tiempos de retención de los términos de la serie de los que no se disponga de muestra patrón pueden calcularse por interpolación o viceversa.
+
+41.4.4 Calibrado para aplicación cuantitativa.
+
+Utilizando los productos patrones a que se hace referencia en el apartado 41.4.1, se prepara una mezcla que contenga cantidades exactamente pesadas de cada uno de los ésteres, debiendo tener una composición análoga a la de la muestra problema. Se registra el cromatograma de la forma usual, efectuándose los cálculos cuantitativos según se indica en el apartado 41.3.4.
+
+Los resultados deducidos del cromatograma coinciden, normalmente, con los valores reales de la mezcla patrón. Sin embargo, en algunos casos, debido a diversas causas, se observan discrepancias que pueden ser corregidas aplicando factores de corrección. Estos factores de corrección no son aplicables más que en la parte lineal de la curva de respuesta del detector para cada constituyente. Por consiguiente, el operador debe ser extremadamente prudente en lo que respecta a la aplicación de estos factores, ya que ellos pueden variar en función de la composición de la mezcla a analizar, modificaciones en el detector y en el amplificador, alteración de la fase fija, etc. Si la cantidad encontrada para un ácido graso cualquiera de la mezcla patrón discrepa en más de un 10 por 100 de la cantidad calculada, éste indica que el aparato no funciona correctamente, siendo necesario buscar la causa.
+
+El factor de corrección para cada ácido se calcula con relación al ácido palmítico, utilizando mezclas patrones con una composición análoga a la de la muestra problema que se trata de analizar. Se procede de la forma siguiente: se divide el porcentaje de cada ácido por el área del pico correspondiente y el cociente por el valor obtenido para el ácido palmítico:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZjwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+eDwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3ViPgogICAgPG1vPj08L21vPgogICAgPG1mcmFjPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+eDwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5BPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj54PC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tc3ViPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+OjwvbWk+CiAgICA8bWk+PC9taT4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlA8L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+QTwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cDwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgogICAgPG1pPjwvbWk+CiAgICA8bW8+PTwvbW8+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPng8L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+QTwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+eDwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjo8L21pPgogICAgPG1pPjwvbWk+CiAgICA8bWZyYWM+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlA8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnA8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21zdWI+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+UjwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAAAqCAYAAAAqLWAgAAADJ0lEQVR4nO2by5GDMAyGVUvqSCGphFJy3TYohl6yh42C1vghB1uSjb4ZLoFB+I+shzEAjuM4zoEVAF6ZY9F7NMfJc4M/J92C3x+wO/BN+qEcp0TKcQEAnu9zT9EnujCeAvnkHHd5n1tFn+jieArkwYm4PtEF8RTII6UTavQSf6KL4ymQB+oUOy45semMxXTzBLk6c/QUKKVfTqeQO7GNz/Fo9Bzm2GAX5Q5yUW6WFNhbvxrHRYfFSIyOPCV0lnLEacUsKbC3fjWOC3BsaotNLo0Uo9Vm+OySaaX2D7FMT/1aOO49dTHWNwA6TnAWDSeayXF7jgUjOnd5kF73gEIQDYvx0dYfN9jXT6Uaopkct5d+sRc1pWxOr81qi3+A5Q44xwJ7dkChJCbeLI6rpV8Ktn1anI/GDf7PYElnqk2BFtHULwVLzw2OoXyUCELTEA40tjbJobau/yYFWkNTvxTUH5MNGdI64oaDLx0WopWlhtT1YzJyqeBcGMuO+yNwWLTdihn1++COa892K2bU70PJcbGI32B/l5xz8hFrNEu4fkw4ERffYCxwYaEcW3BLhZVxjSR04bzFvV7AWILpYFsLaf1KnztVbUyKreOmjGMKsxJxsXxpAYrKnZgtbWuhoR/dUUehL3O4wYPF8r7hAjYW2ul3XU0Hatx2K7TGkHJcgONe3NNgVKY31468NO1ITyRN263QGkPOcXEyjappEUwrVASpSaRpuxWaY+BE3Gkd9wl7OsHIIfXFgabtVmiOIee4owYCNnRwtFab3XYrNMeQ+9xp1H6BRaw5xBq891Kdpu1WaI8hFnFnWKEpgjv1KVgb9R58rW2Ln1pr6gcQd9zLNGW5o5djfGPb2qfWmvohqRoX3xFM6by5N3fYZIQDr91n0dI2wLHZ0Gw+NPVDcs0ZliyjNbtZcMCl87Ei/+w+izO2Y46r0YRo6kfJvSGj50bpGYqsUE4juch3Zp/FGdthB6+VCjX1C+9Pj9DWEpwfemks3E8RDia1xEL5dp/FWdv0N63OWVM/5wSa+yxm+LOt7VO5BNr7LEZ3XG39HAWqPrV2HMdxHHv8Al+OwyjQa11KAAAAAElFTkSuQmCC)
+
+Siendo:
+
+f<sub>x</sub> = factor de corrección del ácido.
+
+x = tanto por ciento del ácido en la mezcla patrón.
+
+A<sub>x</sub> = área del pico x.
+
+P = tanto por ciento del ácido palmítico en la mezcla patrón.
+
+A<sub>p</sub> = área del pico del ácido palmítico.
+
+Para aplicar estos factores a la mezcla problema se multiplican por la relación entre el área medida para cada ácido en el cromatograma y el área del pico correspondiente al ácido palmítico; se obtiene, procediendo de esta forma, la relación entre el contenido de cada ácido y el palmítico, tomado como unidad.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlg8L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlA8L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CiAgICA8bW8+PTwvbW8+CiAgICA8bXN1Yj4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmY8L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPng8L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbXN1Yj4KICAgIDxtbz4mI3gyMkM1OzwvbW8+CiAgICA8bWZyYWM+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPkE8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPng8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21zdWI+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5BPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5wPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tc3ViPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAAAqCAYAAACjmTUMAAACSElEQVRoge2b25WDIBCG/1qsI4VYCaX4um1YjL0kD9k5jAgIygwY+M7hJWaFzH10FhgMHooBMNc+RO+8AWy1D9EzM75KeAN4lb65YTfny7DvrJ7rvcFlsEptciZgUlZxK3gAL3x/+wQro0lqM58X8GtiGzfO8r8A6xFL+Ov34JrmFt+rBxDcAHluEINvQkrpWQEGxxywIRwxirHAKqL3unjDUQaUH8XLVYp9otpuHErIsSVmpAv2JVkr3sA9VKxMZKwIGyHJxz0Hfb7Beky2IfMYyC2hdmVkYCsSUoakcVA+PLvuy5kzrAKz5UZ/zFGLfye4FiVtFCvOvS3kDXQt2wNmhAUd20wDsjqt/ETVTygKTPDnBw55a7KxUFkacm8elsSalAi0/1OKBIPvmX3lrRf3uZDrDa5VaOcI3/61Q2MMOi+wfy5XJafySiZlxQ75NE/4SX5aCX+FljQllUD5L5TbSskkWV49KoHCZCivqCtBEs2cUKRLHcRJ8YRbXWor+F5h8lXTslLD0aUuNQOVaQvqBN146b5j0MTXJ4Teb2R3qZnEckkxQkoA7A+s0TGnkN2lZiI6bcGJKYESXq3nRzE0ulSVaQsgzRN6rDpUpy1CSuDlZo9Um7ZwV6u5QANu+eLTFrFw1Cvq0xZDCUdypy14T0Mek9VbDCXsuTJtQcJfnHskM5Sw58q0BXCsnrKqqZamK2pzZ9rCp4SkBs/37KjFxkyLO9MWbjXVsxwvc3fagn82QnslRjhvgKGEyvBQ1vO/FAwGiXwAZ7+G2cJg5V4AAAAASUVORK5CYII=)
+
+Si están comprendidos en el cromatograma todos los ácidos componentes de la mezcla problema, a partir de las relaciones calculadas se puede pasar fácilmente a la composición centesimal.
+
+41.5 *Notas.*
+
+41.5.1 En el caso de utilizarse el método de extracción a) (apartado 41 2.3.2.1), la pesada y metilación de la muestra se efectuará más cómodamente en el matraz de cuello largo, descrito en el apartado 41.2.1.5, efectuándose en el mismo recipiente, sin necesidad de trasvase, la adición de la disolución saturada de cloruro sódico.
+
+41.5.2 En el caso de que se tuviese dificultad en la preparación de la disolución de ácido clorhídrico, se podría sustituir con una disolución del 5-6 Por 100 (p/p) de ácido sulfúrico (d = 1,04) en metanol anhidro utilizable también en las operaciones descritas en los apartados 91.2.3.1.1 y 41.2.3 1.2.
+
+41.5.3 La designación de los tamices corresponde a la nomenclatura del sistema U. S., referida a número de mallas por pulgada lineal: de acuerdo con la Norma UNE 7050, los tamices de 80 y 100 mallas/pulgada lineal (sistema U. S.) serían designados respectivamente, tamiz 0,177 UNE 7050 y tamiz 0,149 UNE 7050, siendo las cifras indicadas las aberturas de malla expresadas en milímetros.
+
+41.6 *Referencias.*
+
+UNE 55.037 Materias grasas. Determinación de ácidos grasos por cromatografía gaseosa.
+
+43\. RECONOCIMIENTO DE ÉSTERES NO GLICÉRIDOS EN GRASAS COMESTIBLES POR CROMATOGRAFÍA EN CAPA FINA
+
+43.1 *Principio.*
+
+Disolución de la muestra en hexano y posterior separación de los triglicéridos por cromatografía en capa fina.
+
+Es aplicable a todos los aceites vírgenes o refinados, utilizables directamente en la alimentación humana.
+
+El método ha sido estudiado con ésteres de ácidos grasos y los alcoholes siguientes: metanol, 1,2 y 1,3 propilenglicol y etilenglicol.
+
+Los límites detectados, según ensayo colaborativo en el que han intervenido cinco laboratorios, oscila entre 0,7 por 100 (p/p) y 1 por 100 (p/p).
+
+43.2 *Material y aparatos.*
+
+43.2.1 Equipo de cromatografía en capa fina, compuesto de placas de gel de sílice G y un espesor de capa de 0,25 mm o de 0,40 mm en caso de ser necesaria una mayor resolución.
+
+43.2.2 Placa calefactora adecuada para quemar placas que permita alcanzar temperaturas de 360 °C.
+
+43.2.3 Microjeringa de 10 μl.
+
+43.3 *Reactivos.*
+
+43.3.1 Hexano para cromatografía (d<sub>20</sub><sub>ºC</sub> = 0,684).
+
+43.3.2 Éter etílico (d<sub>20</sub><sub>ºC</sub> = 0,715).
+
+43.3.3 Líquido de desarrollo.
+
+Mezclar 92 volúmenes de hexano y 8 volúmenes de éter etílico.
+
+43.3.4 Ácido sulfúrico al 50 por 100.
+
+43.4. *Procedimiento.*
+
+Depositar con una jeringa 2 a 3 μl de la disolución de la muestra en hexano al 10 por 100, aproximadamente, sobre la placa de cromatografía, a una distancia aproximada de 1 cm del borde inferior de la capa de sílice.
+
+Introducir en la cubeta contenida el líquido de desarrollo hexano-éter etílico, esperando hasta que el frente del disolvente se sitúe a unos 3 cm, aproximadamente, del borde superior de la placa. Sacar la placa de la cubeta y dejar secar al aire, lo cual se consigue en unos minutos. Con el fin de facilitar el reconocimiento de los ésteres más difícilmente separables, es recomendable y necesario en algunos casos efectuar dos o tres desarrollos. Para ello, terminado el primer desarrollo y una vez seca la placa, volver a introducir en la cubeta manteniéndola hasta que el frente del disolvente se haya situado a la misma altura anterior. Repetir el proceso una vez más si es necesario. En los casos de duda sobre el resultado positivo de la prueba, deberá repetirse la cromatografía, sometiendo la placa a dos o tres desarrollos.
+
+Pulverizar la placa seca con una disolución de ácido sulfúrico al 50 por 100 y quemar sobre la placa calefactora a unos 300 °C.
+
+43.5 *Interpretación de resultados.*
+
+A un tercio, aproximadamente, del borde inferior de la placa aparece una mancha intensa correspondiente a los triglicéridos. En aceites puros no aparece por encima ninguna otra mancha próxima a la de los triglicéridos, a excepción de algunos componentes del insaponificable que marchan con el frente del disolvente. Una mancha, más o menos intensa, situada por encima, próxima a la de los triglicéridos, acusa la presencia de ésteres extraños al glicerol. La distancia relativa entre estas dos manchas depende, lógicamente, del alcohol de que se trate; los ésteres de monoalcoholes, tales como el metílico o etílico, se sitúan más distanciados de como lo hacen los ésteres de dialcoholes, tales como el etilenglicol o propilenglicol.
+
+43.6 *Referencias.*
+
+1\. Instituto de Racionalización del Trabajo. Una Norma Española 55.085.
+
+44\. TEMPERATURA DE INFLAMACIÓN
+
+44.1. *Principio.*
+
+Inflamación momentánea de los vapores desprendidos de la materia grasa en ensayo, en contacto con el aire, operando en condiciones determinadas.
+
+44.2 *Material y aparatos.*
+
+44.2.1 Aparato de Pensky-Martens en taza cerrada (fig. 44.1) que consta de los elementos siguientes:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1979/207/21118_5402560_image2.png)
+
+44.2.1.1 Taza cilíndrica de latón o bronce o aleación similar no oxidable y de conductividad térmica equivalente (figura 44.2). Deberá ir provista de una pestaña a todo su alrededor para su ejecución en el baño de calefacción, debiendo, además, fijarse en una posición determinada, impidiendo todo movimiento giratorio una vez situada dentro del baño. Llevará una marca circular alrededor de la pared interior, a una altura de 34 milímetros del fondo, indicando la cantidad que debe tomarse del aceite a ensayar. El volumen necesario para el ensayo, señalado por esta marca es de 70 ml. Llevará también un mango con el aislamiento conveniente, que permita el manejo cómodo de la taza para su colocación y retirada del bloque.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1979/207/21118_5402560_image3.png)
+
+44.2.1.2 Tapa (fig. 44.3).
+
+La taza irá provista de una tapa, la cual encajará en la parte superior, estando provista de cuatro orificios cuya situación y dimensiones son las indicadas en la figura.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1979/207/21118_5402560_image4.png)
+
+44.2.1.3 Obturador (fig. 44.4).
+
+Encima de la tapa lleva una lámina que puede girar sobre el eje central del aparato, pudiendo efectuarse este giro accionando manualmente un mecanismo que permita el desplazamiento de la lámina entre dos posiciones extremas: Una, que puede denominarse posición de reposo, y otra, posición de encendido. El mecanismo irá provisto de un muelle que mantenga el obturador en posición de reposo, siendo necesario actuar en sentido contrario para pasarlo a la posición de encendido; de la presión manual, el obturador deberá recobrar automáticamente la posición inicial.
+
+En la posición de reposo, las tres aberturas A, B y C de la tapa permanecen cerradas por el obturador; al girar la tapa, accionando el mecanismo aludido, y llevarla a la posición opuesta, se abrirán las tres aberturas, haciendo posible, al mismo tiempo, los movimientos que se indican en los dos apartados siguientes referentes al micromechero de encendido y a la agitación.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1979/207/21118_5402560_image5.png)
+
+44.2.1.4 Micromechero de encendido (fig. 44.4).
+
+Está constituido por un pequeño tubo, con un orificio de salida de 0,5 milímetros de diámetro, provisto de una válvula accionada por un tornillo que permite la regulación de la llama. Puede utilizarse gas ciudad o butano.
+
+El micromechero va montado en un eje transversal, que permita un movimiento basculante, pudiendo introducirse la punta del mechero por el orificio A de la tapa (fig. 44.3) apoyándose en el borde. Situado en esta posición, quedarán introducidos dos milímetros de mechero y en una posición inclinada formando un ángulo de 40 grados con la vertical.
+
+44.2.1.5 Micromechero piloto.
+
+Es un mechero de características análogas al anterior, pero con un orificio de salida de 0,25 milímetros y sin válvula de regulación. Está situado en una posición horizontal, perpendicularmente al mechero de encendido, separado dos milímetros de la tapa móvil designado como obturador (fig. 44.4). El objeto de este micromechero es el mantener encendida una llama piloto que, al bascular el micromechero de encendido, e inmediatamente antes de penetrar en la abertura A, se encienda, penetrando ya encendido; al volver el mechero a su posición normal horizontal deberá apagarse nuevamente.
+
+44.2.1.6 Agitador.
+
+La tapa descrita anteriormente irá equipada con un agitador (fig. 44.1) montado en el centro de la tapa y constituido por dos láminas rectangulares de 15 mm de longitud y 8 mm de ancho, dispuestas formando entre sí un ángulo de 90°; la distancia entre los extremos de las láminas será de 40 mm y la distancia entre la cara interior de la tapa y el extremo inferior del agitador será de 50 mm. En la parte superior del eje y en la posición que se indica en el dibujo, llevará un segundo sistema de paletas, con un ancho de 8 mm y una distancia entre los extremos de las láminas de 18 mm. El eje con los sistemas de paleta irá conectado a un motor eléctrico, verificándose esta conexión mediante un cable flexible que pueda conectarse y desconectarse a voluntad.
+
+El mando de accionamiento del agitador irá unido a un sistema mecánico adecuado para que al mismo tiempo de accionar el obturador, desconecte al motor del agitador y haga vascular el micromechero de encendido, para encender la llama e introducirla en la taza, tal como se ha explicado anteriormente: al dejar en libertad el mando de accionamiento del obturador, se establecerá la situación anterior, quedando apagado el micromechero en su posición normal, cerrada la taza y restablecido el funcionamiento del motor. El ciclo completo de estos movimientos deberá realizarse en un tiempo comprendido entre dos y tres segundos.
+
+44.2.1.7 Baño de calentamiento.
+
+Está constituido por un cilindro metálico de aleación análoga a la de la taza, provisto de un sistema de calefacción en el que puede utilizarse una llama o calentamiento eléctrico, lo cual es preferible. En cualquier caso, el sistema utilizado dará lugar a un calentamiento uniforme de toda la superficie del baño, tanto en el fondo como en las paredes laterales, y la fuente de calefacción tendrá potencia suficiente para elevar la temperatura del baño de la forma que se especifica más adelante, pudiendo llevar el aceite contenido en la taza del ensayo a una temperatura de 350 °C. El baño irá provisto, en su parte superior, de una placa con un orificio de 54,5 mm de diámetro, por el que se introducirá la taza conteniendo el aceite a ensayar, haciendo descansar sobre la placa la pestaña de que va provista la taza (fig. 44.2). La posición de la taza se fija exactamente en el centro del baño mediante unos tornillos que encajan en unas muescas situadas en la pestaña o utilizando cualquier otro dispositivo de fijación, quedando espacio libre entre la taza y el baño de calentamiento, de 4,5 mm, que debe mantenerse uniforme por toda la superficie (fondo y paredes laterales).
+
+44.2.1.8 Termómetros.
+
+Adaptables al aparato, con intervalos de 1 °C y comprendiendo los límites entre los cuales se presume se han de situar las temperaturas a medir. Deberán haber sido debidamente contrastados, con una tolerancia en el error de escala de ±0,5 grados centígrados.
+
+44.2.2 Centrífuga de cabeza oscilante, con capacidad suficiente para centrifugar, en una sola operación, unos 100 ml de aceite.
+
+44.3 *Reactivos.*
+
+44.3.1 Sulfato cúprico anhidro, químicamente puro. Pulverizar en un mortero unos 50 g de SO<sub>4</sub>5H<sub>2</sub>O. El producto pulverizado se coloca en una cápsula que se mantiene en una estufa dos horas a 150 °C.
+
+44.4 *Procedimiento.*
+
+44.4.1 Preparación de la muestra.
+
+Tomar aproximadamente 100 g de muestra y adicionar un 5 por 100 de su peso de sulfato cúprico anhidro, agitar durante un minuto en una vasija cerrada y dejar reposar durante media hora. Centrifugar en tubo cerrado con tapón esmerilado a 2.800 r.p.m., debiendo quedar el aceite limpio (ver 44.6.1 y 44.6.2).
+
+44.4.2 Ensayo preliminar.
+
+En el caso general de tratarse de una muestra para la que se desconozca totalmente su comportamiento en el ensayo, será necesario efectuar previamente una o varias determinaciones preliminares que sirvan para conocer el valor aproximado del «punto de inflamación» Si se tratase de una muestra de naturaleza conocida para la que pueda preverse el orden aproximado de «la temperatura de inflamación», podría omitirse el ensayo preliminar, pudiendo cumplirse los requisitos exigidos en el ensayo definitivo.
+
+44.4.3 Ensayo definitivo.
+
+Llenar la taza del aparato con la grasa convenientemente preparada, cuidando que la base del menisco coincida con la línea marcada en el interior y evitando la formación de burbujas de aire. Colocar la tapa así preparada en el aparato, junto con los demás dispositivos y el termómetro de escala adecuada.
+
+Encender la llama del micromechero piloto ajustando la entrada de gas de forma que la longitud de la llama sea de unos 4 mm; ajustar también la entrada de gas en el micromechero de encendido para que la llama, al efectuar el disparo, tenga una longitud de 5 a 6 mm.
+
+Poner en marcha el dispositivo de calefacción y el agitador, regulado de forma que no sobrepase una temperatura que se sitúe de 5 a 10° por bajo de «la temperatura de inflamación prevista»; el agitador deberá girar a una velocidad de 60 a 126 revoluciones por minuto.
+
+Alcanzada la temperatura previamente establecida, continuar la calefacción, regulada de forma que el aumento de temperatura sea de 0,5 °C/min. Cuando falten unos 3 °C para alcanzar la «temperatura de inflamación» se comienzan los ensayos. Para ello y a intervalos de un minuto se interrumpe la agitación y se acerca la llama a la superficie del aceite, abriendo el obturador que cierra la ventana de la taza y vasculando el micromechero hasta introducir la llama en el interior, debiéndose realizar esta operación en medio segundo. Dejar en esta posición un segundo, volviéndolo rápidamente a su posición primitiva, poniendo inmediatamente en marcha la agitación (ver 44.6.4).
+
+Repetir esta operación a intervalos de un minuto, hasta que se observe una inflamación clara pero fugaz en los vapores que existen en el interior de la taza, y se extienden por toda la superficie del aceite. La temperatura a la que se produce este fenómeno es la que se toma como «temperatura de inflamación». Anotar la presión atmosférica a la que se ha realizado el ensayo (ver 44.6.5 y 44.6.6).
+
+El número de aperturas del obturador hasta alcanzar la «temperatura de inflamación» no deberá ser nunca superior a cinco. Si fuera necesario rebasar esta cifra, repetir el ensayo tomando una nueva muestra de aceite.
+
+Análogamente, si se consiguiese la inflamación en el primer intento, la temperatura registrada no se dará como aceptable, debiéndose repetir el ensayo con las correcciones oportunas.
+
+La duración total del ensayo será aproximadamente de una hora y media.
+
+44.5 *Cálculos.*
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5UPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtbz49PC9tbz4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5UPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtbz4tPC9tbz4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1uPjc2MDwvbW4+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICA8bW8+LTwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5wPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtbj4zMDwvbW4+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIoAAAApCAYAAADqD7EkAAACrElEQVR4nO2bzZXCMAyEVQt1UEgqoRSu20aKSS+7h2UWRSspJiS2E+Z7LxcwQdgT/dmIEEIOwV1Evh/X0NgWUolJnotur9GMhUAicVzN52872EsaMEi86N/yu/BgfLx2CcbfnM94YiMHJHriB/ldZLDkSS6P9+/BfRieTsooz0WHCKZkPLyJJwh6lROjQwhEcJP/+QzIwtJkxq4F9xlknkxnAiY7YsMORKCFcJG5WDIxLOU2JYzyFKz1XBRLI3TYEYlFAEHdkjG437tC0d9nw1sW9siOeJWLJwJ4lVHaCgUlOUvxitiwIxKLQAtlbY6icw1c12DsklBsxUV25C7/JxyLaUWgS2KvhwK2qnqWhMLQUxFvsSPXrheoRh9lKUchlfDCDoBX0SKaZO4p9u7Mwj59PwiU3qQik+RxXpenUU4wFIxZC+5t85oopxGReW2/dPWQ5BzN3h5ZFcbQgAG2AQS85KwFR7O3R1YJxU5mNPEXZ2wLjmZvj6wSis3Ao4nHF7TmaPb2hhe6VzXwsom3N7QJV5oM7cQr9r6UvJGcbOI1d/FLuugp9jqH2VWq8lJ7R2Nb1PwihZRMPDyJnuSoUbQ3pfbaXdEt29VfJ75CSibeepOWlNobea4tfkfrxexWKNi86oF37Y1CzyubbB9JycRP8voBl5Y5CrbvyYaUTHy2w1n7LMO79g7B6y0peWj0UcomD4EuebOn2lucQeoL5V17e2rKQfQaW515RUP1Cs4LAZla7QHh2pN+NHuX8B4yVGfwemiYWbZKzMkB8DwCPOZV5ifhLOwLfTiTPBuF+hC2hQejPxSdpMNLZGLIREROCv62Yf9/Q6GQFPStKBSSogXCHIWEIBRlG6+sesjs+Cf7KORPBHpLwR6R6KIzS9piTwxm3WM7jhBCCDkTP0S/57sWmhZ5AAAAAElFTkSuQmCC)
+
+Siendo:
+
+Te = Valor leído como temperatura de inflamación.
+
+Tc = Valor corregido, expresado en grados centígrados, referido a la presión normal.
+
+p = Presión atmosférica, expresada en mm de Hg, a la que se ha efectuado la medida.
+
+La diferencia entre resultados sucesivos obtenidos por el mismo operador, con el mismo instrumental y con una misma muestra, no debe sobrepasar dos unidades. De no ser así, realizar un tercer ensayo o los que fueran necesarios hasta alcanzar la constancia debida.
+
+44.6 *Observaciones.*
+
+44.6.1 Si la grasa es sólida a la temperatura del laboratorio, fundir calentando a una temperatura que no exceda de 10 °C a la temperatura de fusión. La determinación de la temperatura de inflamación se comenzará, en este caso, a la temperatura a la cual se haya realizado este proceso previo de fusión. Si fuese necesaria la desecación, se realizará, también, sobre la grasa licuada.
+
+44.6.2 La deshidratación puede ser suprimida si la humedad de la muestra no es superior a 0,1 por 100. Si el contenido en agua fuese más elevado, la desecación es necesaria para eludir la posibilidad de que se forme una espuma excesiva, que podría apagar la llama al introducir el micromechero en la taza.
+
+44.6.3 En los aparatos de funcionamiento automático, al reaccionar el mecanismo del obturador, se producen simultáneamente todos los movimientos descritos, debiéndose preocupar el operador únicamente de mantener el mecanismo en tensión durante el tiempo establecido de un segundo, observando el proceso de inflamación y la temperatura.
+
+44.6.4 El intervalo de un minuto entre cada dos ensayos de inflamación es el tiempo mínimo que se considera necesario para restablecer la concentración de saturación de los vapores del espacio libre de la taza, en equilibrio con el aceite en ensayo, equilibrio éste que se altera al efectuarse cada ensayo de inflamación.
+
+44.6.5 El verdadero fenómeno de inflamación no debe confundirse con el halo azulado que se observa algunas veces rodeando la llama; esto indica que el fenómeno de inflamación está próximo, pero no debe confundirse con la verdadera inflamación del aceite.
+
+Si al introducir la llama de encendido por la abertura de la placa se produce una inflamación permanente de los gases combustibles distinta al destello que se ha descrito anteriormente, este hecho pone en evidencia que el aceite se encuentra a una temperatura superior a su punto de inflamación, debiendo repetirse la experiencia partiendo de una nueva muestra.
+
+44.7 *Referencias.*
+
+1\. Instituto de Racionalización del Trabajo. Una Norma Española. 55.103.
+
+45\. RECONOCIMIENTO DE ANTIOXIDANTES
+
+45.1 *Principio.*
+
+Los antioxidantes son extraídos por el acetonitrilo de una solución de la muestra en hexano y posterior fraccionamiento e identificación.
+
+Aplicable a materias grasas destinadas directamente a la alimentación humana. No aplicable a grasas brutas o a aquellas otras que introduzcan impurezas en el extracto que dificulten el fraccionamiento cromatográfico y el reconocimiento de antioxidantes.
+
+Los antioxidantes identificados por este método son: Ácido nordihidroguayarético (NDHG) galato de propilo (GP), galato de octilo (GO), galato de dodecilo (GD), butilhidroxianisol (BHA) y butilhidroxitolueno (BHT).
+
+45.2 *Material y aparatos.*
+
+45.2.1 Equipo de cromatografía en capa fina, con placas de gel de sílice G de tamaño conveniente, según el número de muestras que se deseen examinar en una sola operación y un espesor de capa de 0,25 milímetros. Ver 45.6.1.
+
+45.2.2 Evaporador rotatorio.
+
+45.2.3 Matraz de fondo redondo de 250 ml, utilizable con el evaporador rotatorio.
+
+45.2.4 Estufa de desecación con calefacción eléctrica y regulación de temperatura, con un error de ± 2 °C en todo el ámbito interior de la estufa.
+
+45.2.5 Ampollas de extracción con capacidad de 250 ml.
+
+45.2.6 Matraces cónicos de 250 ml y 1.000 ml con tapón esmerilado y cono normalizado 29/32.
+
+45.2.7 Matraces aforados de 100 ml con tapón esmerilado y cono normalizado 14/23.
+
+45.2.8 Vaso de 150 ml.
+
+45.2.9 Jeringa de 20 μl, graduada en μ.
+
+45.3 *Reactivos.*
+
+45.3.1 Gel de sílice G, de calidad adecuada para cromatografía en capa fina y en especial para el fraccionamiento de los productos que se trata de separar, lo que se comprueba con los patrones correspondientes.
+
+45.3.2 Metanol con un contenido de agua que no sobrepase el 0,5 por 100 (v/v).
+
+45.3.3 Etanol con una riqueza de 96/97 por 100 (v/v). 45.3.4. Hexano normal para cromatografía (d<sub>20°</sub> = 0,584).
+
+45.3.5 Acetonitrilo.
+
+45.3.6 Acetato de etilo.
+
+45.3.7 Benceno.
+
+45.3.8 Cloroformo.
+
+45.3.9 Ácido acético cristalizable.
+
+45.3.10 Acetonitrilo saturado de hexano.‒En un matraz cónico de 100 ml introducir 900 ml de acetonitrilo. Agregar 100 ml de hexano y un poco de sulfato sódico seco. Agitar, cerrar el matraz con el tapón y dejar en reposo unas doce horas. En el momento del uso, sacar la cantidad necesaria de acetonitrilo
+
+45.3.11 Hexano saturado de acetonitrilo.‒Proceder como se indica anteriormente, invirtiendo las cantidades de los dos disolventes. Conservar en el matraz hasta su utilización.
+
+45.3.12 Líquido de desarrollo.‒Inmediatamente antes de su utilización preparar una mezcla de hexano, benceno y ácido acético en las proporciones 40:40:20 (v/v/v).
+
+45.3.13 Revelador.‒Solución al 1 por 100 en etanol (m/v) de dicloro-2-5-quinona clorimida.
+
+45.3.14 Soluciones patrón.‒Disolver al 0,1 por 100 (m/v) en etanol los antioxígenos cuya identificación se quiera realizar en la grasa. Estos productos deberán ser puros, comportándose en la cromatografía como una sola especie química; si apareciesen impurezas, éstas no deberán perturbar la marcha del proceso ni el reconocimiento de los otros antioxidantes.
+
+45.4 *Procedimiento.*
+
+45.4.1 Extracción de los antioxidantes.
+
+Pesar de 7,5 a 10 ml de la muestra de aceite o grasa e introducirla en un vaso de 150 ml. Disolver con 100 ml de hexano, pudiéndose calentar suavemente en caso de necesidad para acelerar el proceso de disolución. Pasar la solución a una ampolla de extracción de 250 ml. Lavar el vaso con 25 ml de hexano, agregando este líquido a la ampolla de extracción. No debe quedar ninguna partícula insoluble en la solución. Añadir 25 ml de acetonitrilo saturado de hexano y agitar durante un minuto. Sacar la fase inferior de acetonitrilo, pasándola a una segunda ampolla de 250 ml. Si se forma una emulsión, calentar suavemente la ampolla haciendo caer sobre ella, desde un frasco lavador, un chorro de agua a unos 50 °C, haciéndola girar al mismo tiempo muy lentamente. Prolongar la operación hasta lograr la separación en dos fases limpias.
+
+Repetir otras tres veces consecutivas la extracción con el acetonitrilo saturado de hexano, empleando 25 ml en cada extracción acumulando los extractos en la misma ampolla.
+
+Los extractos reunidos de acetonitrilo se lavan dos veces con hexano saturado de acetonitrilo, empleando 25 ml en cada lavado.
+
+Pasar el extracto en acetonitrilo, una vez lavado, a un matraz de fondo redondo de 250 ml. Evaporar el disolvente en evaporador rotatorio, con vacío, calentar muy cuidadosamente y evitando que la temperatura del baño de agua no sobrepase, en ningún momento, los 40 °C.
+
+Una vez evaporado el disolvente, disolver el residuo en 2 ml de metanol, pasando la disolución a un frasquito de capacidad adecuada para su conservación y utilización en la cromatografía.
+
+Si el residuo obtenido en la concentración no se disuelve totalmente en el metanol, filtrar la solución.
+
+Para contenidos pequeños de antioxidantes, por ejemplo, de un orden inferior a 0,1 por 1.000, debe emplearse menos disolvente.
+
+45.4.2 Cromatografía en capa fina.
+
+Depositar 10 μl de la disolución en metanol de los antioxidantes en una placa de dimensiones adecuadas, previamente activada en las condiciones recomendadas para cada caso, y en el centro de una línea situada a unos 2 cm del extremo inferior de la placa.
+
+Depositar 4 μ, de cada uno de los patrones con que se desee operar, a la derecha y a la izquierda de la mancha problema, distantes entre sí 10-15 mm.
+
+Introducir la placa en la cubeta de desarrollo, cuidando que las manchas depositadas queden por encima del nivel del líquido en la cubeta.
+
+Dejar la cubeta preferiblemente en la oscuridad o en una estancia débilmente iluminada, prolongando el desarrollo hasta que el frente del disolvente se sitúe a unos 15 cm de la línea de partida de los antioxidantes. Sacar la placa dejándola secar al aire.
+
+Pulverizar la placa con el revelador, introduciéndola después en una estufa de aire regulada a 100 °C (+ 2 °C), donde permanecerá diez a quince minutos.
+
+Sacar la placa de la estufa y observar las manchas del problema, comparándolas con las de los patrones.
+
+45.5 *Interpretación de resultados.*
+
+El orden de colocación de los antioxidantes, en orden de menor a mayor desplazamiento, es el siguiente: NDHG, GP, GO, BHA, BHT (ver 45.6.2 y 45.6.3).
+
+45.6 *Observaciones.*
+
+45.6.1 En determinados casos, para conseguir una separación efectiva de antioxidantes, con valores de Rf muy próximos, como por ejemplo el NDHG y GP, es aconsejable operar con espesores de gel de sílice de 0,40 mm en lugar de 0,25 mm, que es el más frecuente y con el que se consiguen normalmente resultados satisfactorios.
+
+45.6.2 Se puede intensificar la coloración de las manchas, facilitando su reconocimiento y la sensibilidad del método, mediante reacción con el amoníaco.
+
+Para ello, la placa, una vez revelada y seca, se introduce en una cubeta saturada de vapores de amoníaco, manteniéndola allí hasta observar una intensificación del color de las manchas. Se adquieren coloraciones características en algunos casos.
+
+Debe cuidarse no prolongar demasiado el contacto con el amoníaco, en evitación de que se coloree el fondo de la placa, lo cual, en vez de beneficiar, podría dificultar el reconocimiento de los antioxidantes.
+
+45.6.3 A título de orientación, se dan a continuación los valores Rf obtenidos con los seis antioxidantes citados anteriormente:
+
+| Antioxidantes. | NDHG | GP | GO | GD | BHA | BHT |
+|---|---|---|---|---|---|---|
+| Rf. | 0,10 | 0,14 | 0,28 | 0,35 | 0,75 | 0,98 |
+
+45.6.4 La aparición de una mancha de BHT muy débil, en comparación con el patrón, puede ser debido a una pérdida del producto en el lavado con hexano saturado de acetonitrilo. En este caso, proceder como sigue: Realizar la extracción tal y como dice el método. Recoger por separados los líquidos procedentes de la extracción con acetonitrilo saturado de hexano y los que proceden del lavado con hexano saturado de acetonitrilo. Evaporar los disolventes. Disolver ambos residuos con metanol (2 ml). Sobre la placa depositar unos 10 μl del extracto procedente de la extracción con acetonitrilo y 15 μl del que procede de los lavados con hexano. De esta forma, el BHT se detecta en ambos desarrollos, pudiéndose considerar la cantidad presente en la muestra por comparación con el patrón como «suma» de las intensidades de ambas manchas.
+
+45.7 *Referencias.*
+
+1\. Instituto de Racionalización del Trabajo. Una Norma Española. 53.017.
+
+46\. ÁCIDOS GRASOS DE CADENA CORTA
+
+46.1 *Principio.*
+
+Obtención de los ésteres metílicos de los ácidos grasos mediante reacción con una solución de hidróxido potásico en metanol y subsiguiente inyección directamente de la disolución de ésteres metálicos en el cromatograma.
+
+El método es aplicable a las grasas de mantequillas u otras que contengan ácidos grasos de longitud de cadena inferior al C<sub>14</sub> y siempre que el contenido de ácidos libres no exceda del 1 por 100 expresados en ácido oleico.
+
+46.2 *Material y aparatos.*
+
+46.2.1 Matraces con boca esmerilada y fondo redondo de 50 y 100 ml de capacidad.
+
+46.2.2 Pipetas aforadas de 1 ml, 2 ml y 10 ml.
+
+46.2.3 Matraces aforados de 50 y 100 ml de capacidad.
+
+46.2.4 Probeta graduada de 10 ml.
+
+46.2.5 Jeringa de características adecuadas para la inyección de la muestra, graduada en décimas de ml, con una capacidad total de 1 a 10 ml.
+
+46.2.6 Cromatógrafo apto para trabajar en fase gaseosa, provisto de horno capaz de ser calentado hasta 250º-300 °C y sistema de regulación que permita controlar la temperatura con un error de ±1,0 °C. Equipado con programador de temperatura capaz de llevar la temperatura del horno de 60 °C a una velocidad de 4 °C/min. Provisto de regulación independiente de la temperatura del inyector, que podrá ser calentado a una temperatura superior, por lo menos, en 50° a la máxima alcanzable por el horno provisto de un sistema de detección sensible, de ionización de llama de hidrógeno, que pueda ser mantenido a la temperatura de la columna, a unos 50 °C por encima de la del horno.
+
+46.2.7 Registrador con una tensión de entrada adecuada a la salida del amplificador del cromatógrafo, con una velocidad de respuesta mínima capaz de producir la deflexión completa de la escala en un segundo y una velocidad de desplazamiento del papel de 5 mm/min, que permita la posibilidad de variar esta velocidad acelerando o retardando el desplazamiento.
+
+46.2.8 Tubo de nitrógeno a presión utilizable como gas portador, debiendo tener una riqueza mínima del 99,8 por 100.
+
+46.2.9 Tubos de hidrógeno y aire a presión necesarios para el caso en que se utilice detector de llama de hidrógeno. El hidrógeno deberá tener una riqueza mínima del 99,8 por 100, debiendo estar seco. Como medida de seguridad, es muy conveniente colocar a la entrada de los gases en el cromatógrafo sendos tubos de desecación provistos de criba molecular 13X.
+
+46.2.10 Columna cromatográfica.
+
+46.2.10.1 Columna que satisfaga las condiciones determinadas en 41.4.2 de los Métodos Oficiales de Análisis de Aceites y Grasas.
+
+46.2.10.2 Columna de vidrio con diámetro interior de 4 mm y una longitud aproximada de 2 mm. Rellenada con Chromosorb G, W o Q (80-100 mallas), conteniendo de 2,5 a 5 por 100 de un poliéster, siendo recomendable cualquiera de los tres siguientes: dietilenglicolsuccinato (DEGS), etilenglicolsuccinato o adipato (EGS o EGA), polietilenglícoladipato (PEGA).
+
+Antes de emplear una columna nueva en la resolución de problemas analíticos, debe ser acondicionada eliminando todos aquellos productos volátiles que perturbarían la marcha de la cromatografía. Para ello, se monta en el cromatógrafo, sin conectarla al detector, y se calienta el horno a unos 10° por encima de la temperatura máxima a que vaya a ser utilizada la columna en trabajos posteriores; haciendo pasar, al mismo tiempo, una corriente de nitrógeno de 30 a 40 ml/min, que se mantiene durante veinticuatro horas, como mínimo. La columna será apta para su utilización si, una vez conectada al detector y en funcionamiento normal, la línea base dibujada por el registrador acusa la estabilidad del sistema.
+
+46.3 *Reactivos.*
+
+46.3.1 Metanol absoluto (99,8 por 100).
+
+46.3.2 Hidróxido potásico, en lentejas.
+
+46.3.3 Éter de petróleo o hexano.‒Éter de petróleo (p. e. 40°-60 °C), cuyo contenido en benceno no sea superior a 0,1 por 100, hexano normal, que cumpla las mismas especificaciones del éter de petróleo.
+
+46.3.4 Heptano normal, con una riqueza mínima en heptano normal, determinado por cromatografía gaseosa, del 99 por 100.
+
+46.3.5 Disolución 2 N de hidróxido potásico en metanol.‒Disolver 11,2 g de hidróxido potásico en 100 ml de metanol.
+
+46.3.6 Ésteres metílicos de pureza adecuada para su utilización como patrones en cromatografía gaseosa.‒Se dispondrá de los ésteres metílicos de los ácidos mencionados a continuación, debiendo tener una pureza mínima de 99 por 100, determinada por cromatografía gaseosa:
+
+Ácido butanoico (botirico).
+
+Ácido pentanoico (valeriánico).
+
+Ácido hexanoico (caproico).
+
+Ácido octanoico (caprílico).
+
+Ácido decanoico (cáprico).
+
+Ácido dodecanoico (láurico).
+
+Ácido tetradecanoico (mirístico).
+
+Ácido hexadecanoico (palmítico).
+
+Ácido octadecanoico (esteárico).
+
+Ácido 9-octadecanoico (oleico).
+
+Ácido 9,12 octadecadienoico (linoleico).
+
+Ácido eicosanoico (aráquico).
+
+46.3.7 Solución de referencia I.‒En un matraz aforado de 50 ml, se pesa, con exactitud de ± 0,1 mg, 1 g de pentanoato de metilo, disolviéndolo en heptano normal y completando hasta el enrase.
+
+46.3.8 Solución de referencia II.‒En un matraz aforado de 100 ml se pesa, con exactitud de ± 0,1 mg, 200 mg de pentanoato de metilo, disolviéndolo en heptano normal y completando hasta el enrase.
+
+46.4 *Procedimiento.*
+
+46.4.1 Preparación de los ésteres metílicos.
+
+En un matraz de fondo redondo de 50 ml, pesar, con exactitud de ± 0,1 mg, 1 g de grasa. Añadir 10 ml de éter de petróleo o hexano y agitar suavemente hasta disolución de la grasa.
+
+En el caso de que se quiera efectuar una determinación cuantitativa de los ácidos butírico y caproico en la muestra, agregar a la disolución en éter de petróleo de la grasa 1 ml, exactamente medido, de la solución de referencia más adecuada; para muestras conteniendo de 1-4 por 100 de ácido butírico se utilizará la solución de referencia I; para muestras conteniendo menos de 1 por 100 de ácido butírico, se utilizará la solución de referencia II.
+
+Si se desea efectuar solamente un análisis completo de la fracción de ácidos grasos, para lo que se aplica el método de normalización interna, no será necesario el empleo de solución de referencia.
+
+A la solución en éter de petróleo de la muestra, adicionada o no de solución de referencia, agregar 0,5 ml de disolución 2 N de hidróxido potásico. Agitar suavemente la mezcla hasta que se ponga transparente, para lo cual son suficientes unos veinte a treinta segundos. Casi inmediatamente después de observar la clarificación de la solución, suele apreciarse un enturbiamiento debido a la separación de glicerol, que se sedimenta rápidamente.
+
+Inmediatamente después de terminada la reacción y observada la sedimentación, tomar la cantidad necesaria con la jeringa e inyectar en el cromatógrafo, una demora en la inyección de los ésteres metílicos daría lugar a la formación de jabones, con error en la determinación.
+
+46.4.2 Determinación cromatográfica.
+
+46.4.2.1 Condiciones de trabajo.
+
+Temperatura de la columna: Temperatura programada de 60 °C a 180 °C, con una velocidad de 4 °C/min.
+
+Temperatura del inyector: 200 °C.
+
+Temperatura del detector: 200 °C
+
+Gas portador: Nitrógeno (o helio), con un flujo de 60 ml/min.
+
+Flujo de hidrógeno y aire para la alimentación del detector: Los flujos dependerán del tipo de detector utilizado, debiendo determinarse previamente para optimizar la respuesta.
+
+El registro obtenido del cromatograma debe satisfacer las condiciones que se indican a continuación; caso contrario, se repite la inyección modificando la cantidad inyectada o la sensibilidad de trabajo hasta obtener un cromatograma satisfactorio.
+
+Los requisitos exigibles son los siguientes:
+
+a) El área total descrita en el registro, referida a la sensibilidad máxima utilizada en el curso de la operación, debe ser de un orden aproximado de 2.000 mm<sup>2</sup>, con una velocidad del papel en el registrador de 5 mm/min. De esta forma, los componentes presentes en una cuantía del 0,1 por 100 deben dar un pico, como mínimo, de 2 mm<sup>2</sup>, siendo, por tanto, perfectamente reconocibles.
+
+b) Con el fin de conseguir que todos los picos caigan dentro del papel registrador, se utilizará, en cada caso, la atenuación de sensibilidad que sea necesaria, cuidando que el pico de mayor intensidad no sea atenuado más de ocho veces.
+
+Una vez conseguido un registro satisfactorio, y habiendo alcanzado nuevamente la pluma la línea base, se interrumpe el funcionamiento del registrador y se retira el papel con el registro para la identificación de los picos y/o cálculos cuantitativos.
+
+46.4.2.2 Identificación de los picos.‒Se seguirán los criterios establecidos en el método número 41 de los Métodos Oficiales de Análisis de Aceites y Grasas.
+
+46.4.2.3 Determinaciones cuantitativas.‒La determinación cuantitativa se basa en el principio de que los pesos de cada uno de los componentes separados en la mezcla son proporcionales a las áreas comprendidas dentro de los triángulos dibujados debajo de cada pico. El área de cada triángulo se obtiene trazando rectas tangentes a las líneas dibujadas en el registro, prolongándolas hasta su intersección con la línea base y multiplicando la altura del triángulo por la mitad de la base. En el caso de haber trabajado con atenuaciones diferentes para cada pico, se referirán todas las medidas a una misma sensibilidad del registrador, multiplicando la altura por el factor de atenuación correspondiente en cada caso, y el valor de la altura así corregida por la mitad de la base.
+
+46.4.3 Determinación del contenido de los ácidos butírico y caproico en la materia grasa.‒Esta determinación se realiza por el método del patrón interno, siendo el patrón elegido el pentanoato de metilo.
+
+46.4.3.1 Preparación de la mezcla de calibración.‒Con una exactitud de ± 0,1 mg y en un matraz aforado de 50 ml, pesar unos 100 mg de cada uno de los siguientes patrones: butanoato de metilo, pentanoato de metilo y caproato de metilo. Se disuelve la mezcla de heptano normal, y se diluye completando hasta el enrase.
+
+Inyectar la cantidad necesaria de la solución anterior, normalmente 0,2-0,4 μl, para que, trabajando a la sensibilidad media del aparato, se consiga situar los máximos de los picos en una posición del 70-80 por 100 del recorrido total de la pluma del registrador. Los tres picos deberán registrarse a la misma sensibilidad. Si fuese necesario, se diluirá la solución anterior con heptano normal en la relación necesaria para poder ajustarse a las prescripciones fijadas. Efectuar, cuando menos, tres determinaciones consecutivas, que no deben discrepar entre sí más del 1 por 100.
+
+46.4.4 Análisis cuantitativo de la totalidad de los componentes de la fracción de ácidos grasos, comprendiendo del C<sub>4</sub> al C<sub>20</sub> y C<sub>18:3</sub>.
+
+46.4.4.1 Preparación de la mezcla de calibración.‒Determinar previamente el factor de corrección para cada ácido componente de la mezcla, referido a uno cualquiera de ellos, que se toma como patrón, eligiéndose normalmente para este fin el ácido palmítico, y debiendo tener la mezcla de calibración una composición análoga a la de la mezcla problema.
+
+Para ello, si no se conoce previamente el orden de composición del problema, se realizará una determinación cromatográfica de orientación, realizándose en el registro la cuantificación de los componentes suponiendo el mismo factor de respuesta para todos ellos, efectuando un reparto proporcional entre las áreas medidas.
+
+En un matraz aforado de 50 ml, pesar, con una exactitud de ± 0,1 mg, cantidades de los ésteres metílicos patrones que se indican a continuación proporcionales a las cifras de composición encontradas en el análisis de orientación anteriormente aludido, o previstas con anterioridad para la muestra. Los patrones que deben pesarse son los siguientes: butanoato de metilo, hexanoato de metilo, octanoato de metilo, decanoato de metilo, dodecanoato de metilo, oleato de metilo, linoleato de metilo y elcosanoato de metilo. Se disuelve la mezcla de heptano normal, agregando la cantidad adecuada de disolvente en relación al peso total de ésteres metílicos que se hayan pesado; para unos 500 mg en total, se deben emplear, como orientación, unos 50 ml de heptano. A continuación inyectar 0,2-0,4 μl, para que, trabajando a la sensibilidad media del aparato, se consiga situar el máximo del pico correspondiente al componente mayoritario, en una posición del 70-80 por 100 del recorrido total de la pluma del registrador. Todos los picos deben registrarse a la misma sensibilidad, lo cual suele ser perfectamente factible en la grasa de leche; en aquellos casos en que la relación entre el pico mayoritario y el pico minoritario no permita registrar este último con las dimensiones adecuadas para efectuar una cuantificación correcta de su área, se podrá efectuar el cambio necesario en la atenuación del registro, procurando que ésta no sobrepase la relación de 4:1. Si fuese necesario, se diluirá la solución con heptano normal en la relación necesaria para poder ajustarse a las prescripciones finadas. Efectuar, cuando menos, tres determinaciones consecutivas, que no deben discrepar entre sí más del 1 por 100.
+
+46.5 *Cálculos.*
+
+46.5.1 Cálculo de los factores de corrección para los ácidos butírico y caproico.‒Se determinan las áreas de los tres picos, siguiendo las normas que se contienen en el apartado 6.4, se calculan los dos factores correspondientes al C<sub>4</sub> y C<sub>6</sub> con la fórmula siguiente:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZjwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+eDwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3ViPgogICAgPG1vPj08L21vPgogICAgPG1mcmFjPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+eDwvbWk+CiAgICAgICAgICAgIDxtbz4mI3gyMkM1OzwvbW8+CiAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPkE8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnA8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21zdWI+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cDwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj4nPC9taT4KICAgICAgICAgICAgPG1vPiYjeEI3OzwvbW8+CiAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPkE8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPng8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21zdWI+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFsAAAAtCAYAAADBTRdFAAACNElEQVR4nO2a4XGEIBCFXy3WcYVYiaXwN21YjL2YH+aNSEAWXQ8EvhlnkpzjkceyPNYFOp0CmACMuQfRCiuAJfcgWmDEJvYK4JN5LNUzYxd7zjyWqvlgE3nALviQdUSZMNgFWLFtYsb5XeM7zN/PjHATvr1+Fuyb1wfxpc4cLBHNjmQ7dzcLl/oEmWNg9MfunfB/4hborZrXQgE1vfDied6E8ETZk84VUKU35wam5YUp3NkVmgjjPKM6GIVaS3w+eQ43St/e4LoVsXuxd/aS/aV9lKYQd+wZV0nsc98hxyd29CBEGwU8kw+1GHAMBI10MiMeXKHodt2LKEjd5ViikbdPdhyfz3unQLcROsAM8OdvYv9NNOF8YNP25iLJKcy2MJ00ksR2l1EvLcqxtRNXB7Uj282jsavE/eExehr5IiWL/VPBdaCLXZDY9LcL9nrA2cT0nH2CJLJ5OprQmDjaSNPIWbGmFAbovaRVb2fw+ezQYJkeSo7sGXrnBKbOrzNhmwTf24ySMNAZX7Z2BkY/cHwrUWKE29XLO/R2BgEj7ufZ5tsZuLpGHK3lEzm16XYGuiAKbEfuE4LbkdxkOwP/6dBLVy2L1tsZEBZbekaQnHyB9HaGKomJHcupRnDflXaGKomJrSHClXaG1LrRK4jl7LvcaWeorm5EsX1tDFpRfbWdgZ+9PqKJ3YkqqeOkcLedAXhH3UhMKI2UwFvqRmJKFftNdSMxpYpdHXYFrorI6XQ6nQv8Alv4dIEUE+BPAAAAAElFTkSuQmCC)
+
+Siendo:
+
+f<sub>x</sub> = factor de corrección del ácido.
+
+x = cantidad pesada del ácido.
+
+A<sub>p</sub> = área medida en el registro para el patrón de pentanoato.
+
+A<sub>X</sub> = área medida en el registro para el ácido x.
+
+P' = peso del patrón pentanoato.
+
+46.5.2 Cálculo del contenido de ácidos.‒Los contenidos de ácido butírico y ácido caproico en la muestra de grasa se calculan por la fórmula siguiente:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPiYjeEUxOzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICA8bW8+PTwvbW8+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZjwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+eDwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICAgICAgPG1vPiYjeDIyQzU7PC9tbz4KICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+QTwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+eDwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICAgICAgPG1vPiYjeDIyQzU7PC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPkE8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnA8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgIDxtbz4mI3gyMkM1OzwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+TTwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KICAgIDxtbz4mI3gyMkM1OzwvbW8+CiAgICA8bW4+MTAwPC9tbj4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,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)
+
+Siendo:
+
+f<sub>x</sub> = factor de corrección determinado para cada ácido, según se indica en el párrafo anterior.
+
+A<sub>x</sub> = área medida en el registro para el ácido.
+
+P = peso del patrón interno (pentanoato).
+
+A<sub>p</sub> = área medida en el registro para el patrón interno.
+
+M = peso de la muestra de grasa.
+
+46.5.3 Cálculo de los factores de corrección.‒Una vez determinadas las áreas de todos los picos, siguiendo las normas que se contienen en el apartado 46.4.2.2, se calcula el factor de cada ácido, referido al ácido palmítico tomado como unidad, utilizando la fórmula que se incluye en el apartado 46.5.1, sustituyendo el área A<sub>p</sub> y el peso P del compuesto patrón por los valores correspondientes al palmitato de metilo.
+
+46.5.4 Cálculo de composición de la fracción de ácidos grasos.‒Se calcularán las áreas corregidas de cada uno de los componentes de la fracción multiplicando el área medida en el registro por el factor de corrección determinado según se indica en el apartado anterior. El contenido de cada componente vendrá dado por la expresión:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+eDwvbWk+CiAgICA8bW8+PTwvbW8+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmY8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+eDwvbWk+CiAgICAgICAgICAgIDxtbz4mI3gyMkM1OzwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5BPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPng8L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgIDxtdGV4dD4mI3gyMjExOzwvbXRleHQ+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPihmPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPng8L21pPgogICAgICAgICAgICA8bW8+JiN4MjJDNTs8L21vPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+QTwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj54PC9taT4KICAgICAgICAgICAgPG1vPik8L21vPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CiAgICA8bW8+JiN4MjJDNTs8L21vPgogICAgPG1uPjEwMDwvbW4+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ0AAAAsCAYAAAB/le0vAAAFa0lEQVR4nO2c0ZWjMAxFVUvqSCGphFL43TYohl6yHzvaaBRZlsDExLx7Dmd3CBiRWM+yLCACAAAAvoSZiJ4/29LJhomIHp2uDQBIMNE/0SB6iUcP530S0drhugCAJE/6JxzMrYMND3pFOvcO1wcABLnRu2j0YKH+0yMAQIA79RcNtoEFjP8PADgZK72clDedU5jV55Pa10JsZnrlVDjimJ1jj7YHAOAQjTRWegnKnepTCM5RlJxfIiMLmdtoaQ8AoBFR0ZDHRVY4ePSvHTvRu8NzBOTZlLUHANCITE7jiOXY1Whvopjg9FweBgPBc2J0pBgZ0eBEZauRna/tbd7v2NqeIzg8oSuXnawNSR7QmoxocFTQqi8uTjvsC16uorU9LWG7LEHTYln7Dqo5npJ6ygTRiMtRI97TNxAVDVnizZ15z2/G/bz2eanYq7U9LVmpnNPhqZe8J0sc9T7rvP94IRcbEslIfxu1bDk4hoho3Oh3B24xLViovuJRijaOsOcI5AoP0ctO7b8cELAIsp9rEdTtvTVsfchqM9ryEncO8FmsOg09kskQmTuxVSux57raOW70bhf3jyPsOQrt5Oy/Vp5G+nXN/9+ijUikob8UbqxUoKPPf1BZxeU0qBQO6R/JOkaGjF7xjdVxS21FRhM+VtsUsbkECorAFrRoeNMo9gOO/KzZRDF/UxIN2UklVphnKfgiDFt/jJvVufpvSxkX9bcVSulr1cIuL9LQ1/cirZVs0YjYHGFLQZEWnNp2lnk52I8WDfYJC+63ExWEgRxBKYVm3lxIj5rceCmKsAziz2Sn1XOwB72LWelGrFBKz92YkmhYx7MgldDfScbmGr0Liv5g67ZpIhWvHxeNTNWdF+5ISk7LbdVGTm/U1Oe2EA36Od+KYkpo0cjYHKFnQVFvx7nypolUvJ5SNLw5kvWZJxrRbHbpGG1DK9GQ5/GWEY2MzRHOmqkH56N7TsOC1c5LRFoXtUSjuJyj2ow6SyvR0F9gNtLI2BwhW1CEnMZ1Ka2eWP76pN+rJ9ZAt2n1ROPNq6z9nmh4NzQFjnmo/S1EYzb2Z0UjY3ONMxQUeTmv2obo6LN8rE5DlphGOiR3XumI7CgaTzRIXFefMwWO2ZMI1V8S/6tXQiKCaiWHozZ7nK2gSIpBLb/CfWqrrbof6jLoHtFR65cQH3EPlpM3rwiV9QhP48QSuk7DOsdq20LXTViOVTtGX0vXNehzdCfkzqBH1VXdq9VpSitKkfsqccaCoqzjWqtIEfg8LdzShi0J5b20FuxITi/TlufHOkdX6ou1IjjQiFo0NRJSQCMOlHUyFnvJTO8h96eRTpeZXtaI1t6AwShFGqMiR7Va9JSJru5ki0zrxPIW5D23dnJLKMHgsGhciUx+I4qs5NX7e4oGT4mOfAkxpgIXQIbnM11vpGidmLSqg3XezJoefOIZHfn7csRR+r232rM4bYJBkB36qnPSbH7DQ+ctJJFIY8szOlGkmMncRkt7rKV+AIZEZtv3jJSeMERE46hndCb6zEuIWYAxRQHDI+f5e3Ibe0WDKPeMTuThL762bo8dvGZTxh6vIBCAoZAj6h48J4yKxpbHIbxjdd7G2jxByNhjvRICgCFpldNpEWlkn9GpsTjtcELUu/eMPYg0wCWoPSmcwUsERkSj9TM6n34JcekxDACGoXXiTtZCaGqiMcJLiFuWlANwOtjBownH6Dydn/NhrDoN75mjb34JMaYmYGgyy6szxaORUhn56GSffgbgq8iUdHNEkmGia71p/UbXFEpwEbJvBNu6stL6vRVnBoIBhkW/jyG6bQ27Zxp/jg/BAMOyJcJoUSUKAAAAAAAAAACU+AsWRjQLLEDi4QAAAABJRU5ErkJggg==)
+
+Siendo:
+
+f<sub>x</sub> = factor de corrección del componente x.
+
+A<sub>x</sub> = área medida en el registro para el componente x.
+
+Σ (f<sub>x</sub> A<sub>x</sub>) = suma de todas las áreas corregidas correspondientes a los componentes de la fracción.
+
+46.6 *Referencias.*
+
+1\. Instituto Nacional de Racionalización y Normalización del Trabajo. Una Norma Española. 55.118.
+
+47\. FÓSFORO
+
+47.1 *Principio.*
+
+Incineración de la muestra en presencia de óxido de cinc, seguida de la medida colorimétrica del fósforo como azul de molibdeno.
+
+Aplicable a aceites vegetales brutos, desgomados y refinados.
+
+47.2 *Material y aparatos.*
+
+47.2.1 Crisoles de porcelana de 50 ml de capacidad.
+
+47.2.2 Vidrios de reloj.
+
+47.2.3 Placa de calefacción eléctrica, con regulador de temperatura.
+
+47.2.4 Horno de mufla.
+
+47.2.5 Embudo de vidrio de vástago corto de 50 mm de diámetro.
+
+47.2.6 Papel de filtro de 90 mm de diámetro, Albet 242 o similar.
+
+47.2.7 Frasco lavador de un litro de capacidad con cuello protegido del calor.
+
+47.2.8 Matraces aforados de 50, 100, 250 y 500 ml de capacidad provistos de tapones de vidrio.
+
+47.2.9 Pipetas de 2 5, 10 y 25 ml de capacidad.
+
+47.2.10 Pipetas de 10 ml de capacidad, divididas en décimas de mililitro.
+
+47.2.11 Espectrofotómetro para medición en el visible.
+
+47.2.12 Cubetas espectrofotométricas de 10 mm de paso.
+
+47.3 *Reactivos.*
+
+47.3.1 Ácido clorhídrico (d = 1,19).
+
+47.3.2 Oxido de cinc.
+
+47.3.3 Hidróxido potásico.
+
+47.3.4 Ácido sulfúrico (d = 1,84),
+
+47.3.5 Molibdato sádico.
+
+47.3.6 Sulfato de hidracina.
+
+47.3.7 Fosfato ácido monopotásico, desecado a 103 ± 2 °C durante dos horas antes de usarlo.
+
+47.3.8 Disolución de molibdato sódico.‒Añadir con precaución 140 ml de ácido sulfúrico a 300 ml de agua destilada. Dejar enfriar la temperatura ambiente, añadir 12,5 g de molibdato sódico y disolver totalmente. Llevar a un matraz aforado de 500 ml, diluir con agua destilada hasta el enrase, homogeneizar y dejar reposar durante veinticuatro horas, por lo menos, antes de usarla.
+
+47.3.9 Disolución de sulfato de hidracina al 0,015 por 100.‒Disolver en un matraz aforado 0,15 g de sulfato de hidracina en un litro de agua destilada.
+
+47.3.10 Disolución de hidróxido potásico al 50 por 100 (m/m). Disolver 50 g de hidróxido potásico en 50 ml de agua destilada.
+
+47.3.11 Disolución de fosfato ácido monopotásico.‒Disolver 1,0967 g de fosfato monopotásico seco en agua destilada. Diluir a 250 ml en un matraz aforado y agitar. Esta disolución contiene 1 mg de fósforo por mililitro. A continuación verter, con una pipeta, 5 ml de la disolución anterior en un matraz aforado de 500 ml y enrasar con agua destilada. Esta disolución contiene 0,01 mg de fósforo por mililitro.
+
+47.4 *Procedimiento.*
+
+47.4.1 Construcción de la curva patrón.‒Tomar, mediante pipeta, 1, 2, 4, 6, 8 y 10 ml de la disolución 47.3.11, e introducir en matraces aforados de 50 ml. Completar el volumen a 10 ml con agua destilada, utilizando la pipeta 47.2.10, continuando como se describe en 47.4.3 a partir de la adición de sulfato de hidracina. Las alícuotas tomadas de la disolución contienen 0,01, 0,02, 0,04 0,06, 0,08 y 0,10 mg de fósforo. A continuación representar gráficamente los valores de absorbancia frente a los contenidos en fósforo, expresado en mg.
+
+47.4.2 Preparación de la muestra.‒Pesar, con precisión de 1 mg, de 3 a 3,2 g de muestra en un crisol de porcelana y añadir 0,5 g de óxido de cinc. Calentar lentamente en la placa eléctrica hasta que la muestra se espese y entonces aumentar gradualmente la calefacción hasta que la masa esté completamente carbonizada. Colocar el crisol en el horno de mufla a una temperatura de 550-600 ºC, manteniéndolo durante dos horas. Una vez transcurrido ese tiempo, dejar enfriar a la temperatura ambiente.
+
+Añadir a las cenizas 5 ml de agua destilada y 5 ml de ácido clorhídrico. Cubrir el crisol con un vidrio de reloj y calentar suavemente a ebullición durante cinco minutos. Filtrar la disolución recogiendo el filtrado en un matraz aforado de 100 ml. Lavar la parte interior del vidrio de reloj y las paredes del crisol con 5 ml de agua destilada caliente, usando un frasco lavador con chorro de agua finísimo. Lavar el crisol y el papel de filtro con cuatro porciones de 5 ml de agua destilada caliente. Enfriar la disolución a temperatura ambiente y neutralizar hasta débil turbidez, adicionando unas gotas de potasa al 50 por 100. Añadir ácido clorhídrico gota a gota hasta que el precipitado de óxido de cinc se disuelva y entonces añadir dos gotas más. Diluir hasta 100 ml con agua destilada y agitar.
+
+47.4.3 Determinación.
+
+Pasar, mediante pipeta, 10 ml de esta disolución a un matraz aforado de 50 ml. Añadir 8 ml de la disolución de sulfato de hidracina y a continuación 2 ml de la disolución de molibdato sódico. Tapar e invertir el matraz aforado dos o tres veces, quitar el tapón y calentar durante 10 ± 0,5 minutos en baño de agua hirviendo. Transcurrido este tiempo retirar del baño, enfriar a 25 ± 5 ºC en baño de agua, diluir hasta el enrase con agua destilada y mezclar perfectamente. Llenar una cubeta del espectrofotómetro y medir la absorbancia a 650 nm utilizando como referencia agua destilada.
+
+Realizar un ensayo en blanco como se ha descrito, pero sin añadir aceite.
+
+47.5 *Cálculos.*
+
+Calcular el contenido en fósforo, expresado en tanto por ciento, mediante la siguiente fórmula:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+JiN4RjM7PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5zPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5mPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtbz49PC9tbz4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1uPjEwPC9tbj4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgIDxtbyBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPig8L21vPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+TTwvbWk+CiAgICAgICAgICAgIDxtbz4tPC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPkI8L21pPgogICAgICAgICAgICA8bW8+KTwvbW8+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+UDwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5WPC9taT4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARcAAAApCAYAAAAf1G29AAAFUklEQVR4nO2d0ZGjMAyGVUvqoBAqSSm8Xhsphl72Hg5dFK0kS2BIIP8349lJMJYT2z9CFlkiAAAAAOzO7SI29uTs/QfgUEYi+iGi2Tg2LMe43DfamZc2iYgeK9r+UWWIq4do+1bRYvJYCgCgwUxEE9nicqffC/iH1i2u+2LHQi7miFHU67nAZ/r9OW/ki97Q2T4Al2amV3HhxaUFgRf4WGh7INsr0rZb7Uoh3OJBWe1aXpD02jSRWAIABFpc2GuxFnvVc5idduRxtueJEHsLXO8IcSHyb48oeB8AINDiwvEIa/HwYszAnk60COfleOS9POjf4j9SXNh78wTvQfBeAGiixSUSkEh4NBPFt0Rs60Z+YPlGT0/pSHHhWzCP1nEAAO0nLrpdrw63Ze0CTfT0ZvYUF6tEngn3BbdGAAR8irjwgmVPhW+XSB0/8rbI+x6s3TQAgGKvmEsUs5DtSTvSe7nTawwmIy58u5LNh4kCutyW5cFEQW8AwIK3W+TtoGR3i6qei7TNAkfGsaN2i1hcrM8LzwWABHvluWSCnlpcogS2o8WFBS7yXAAAAZaH0SNDlxPRvPgMC4kWK0+UeLHvnaEr+xDFnpCpuyM82Hvdd8oBPmIgj7b3bqzna+TnHtWxNXkdnCTXsq09J2lL9+OoZ4uiORDabzXe0/UCdWSKNS/6SMR4Aq6dcFV7IEcr/f+MjJQQWi8LTyrlFfexz/CZtMBHfebx2nJBqNgDNe50nYu13h4PK3rbZdE21Nn59EAUj0tmQvKj/EfZA+vQ28pnJT3XInHRCT1Xwdri+zQ4ENha7AP1Ef+sPbCNic69dVu6iGU8F287zApEWeeP5Ee5daAq2muP6sikJ1lf991KdfbayiRAcd0o0l6Ng1h99PqRHQvZpr567mEvM/bZtsBJ8cTF24aytp+s2MyDnpOWf31rUufq11bG30O95n5FtsagLtf3PBdtP/LcZrLFJdPnFhlPgj+37pO2ZX3v1g8AZez1GvtsWxor+zQqiBu9EZmwo4uXQOT9qIznlVgT1noUXScuWbGEgey+WTkJXsKTJy5WfWsBW+cM4nW2zxGtxV4ZC+vR+Kq47DH22bb24g9K9/JC6zcbJNEV2HreIspm1FeyyJ5VPBd7i7jQcr51FfbQC6XS54jWYq+MhZVtqs/raY+oPfaVtvbi3QvxiuWFirhED3NZx6IJlsnui+roPvQSF3kel4q4VPoc0Vrs1bEgei5cq83e9lpjX+07OCFrPJcooCqJJljmga6W1yDpJS76Cl/1XCp9jsh6EtHiZXQb1nhn7fUY+2pb1rnZApF6IxVx4QljxQ6s96MJFj1ReU/UGdX7PcTFep6jKi6VPke0FnsUn5jV+7oOnzsY77ViLj3GvtrWlZA7kVbJ7G7q71R72kfFrJrwpMqqPH858gN6T0dGE4yEXX3OPVFnS0BX3/PzX73zkxFeKziZ7XNEZvfG8l74e9Bxo6lRJ7tb1GvsK21djWpW/OTU17TG71AsFc2ons5PsM6x2rbQymwtwFYdbYufkfHOGdQxnuB654wfOPOuGET+zkfmc3lYVyvP48nEh0ajnpy8FXs9xz7T1hVZkxXfGpd0Sj44D60rNACaNVnxrWz5Kz27BBY8zwUAjzVZ8USx95INa4ATweICQJZqVjzD3osVPL9yEPyrkBNjIgwsqFHJitd4MTN4zhdBBiK/JQgJ+lFJ/9DogO9AmIMAgIUt4iK9Hv5PjNhMAAAQ0TZxIXrNe8H2MwDgP1vFJfrXIwCAL6aaFW+x5jeCAAAXZm1WvEb/6xEAAAAAAAAAAJ/DX35oD0RLKrhZAAAAAElFTkSuQmCC)
+
+Siendo:
+
+M = contenido en fósforo, en mg, de la alícuota.
+
+B = contenido en fósforo, en mg, del ensayo en blanco.
+
+P = peso, en g, de la muestra.
+
+V -= volumen, en ml, tomados en 47.4.3.
+
+% en fosfátidos = % fósforo X F, donde F = factor de conversión de fósforo en fosfátidos (ver 47.6.2).
+
+47.6 *Observaciones.*
+
+47.6.1 No debe demorarse la lectura espectrofotométrica una vez conseguido el desarrollo del color.
+
+47.6.2 En el caso del aceite de soja el valor de V es prácticamente igual a 30.
+
+47.7 *Referencias.*
+
+1\. Instituto Nacional de Racionalización y Normalización del Trabajo. Una Norma Española. 55.108-73.
+
+48\. GRASA NEUTRA
+
+48.1 *Principio.*
+
+Retención de los ácidos grasos libres y sustancias no grasas por cromatografía en columna de alúmina. Los productos no retenidos en la columna se pesan, obteniéndose por diferencia a 100 los ácidos grasos libres e impurezas retenidas en la columna.
+
+No es aplicable con carácter general a los aceites de orujos.
+
+48.2 *Material y aparatos*.
+
+48.2.1 Equipo para cromatografía en columna, compuesto de:
+
+48.2.1.1 Columna de vidrio, provista de una placa de vidrio porosa número 2, correspondiente a un diámetro medio de poro de 40 a 90 μ (fig. 48.1).
+
+48.2.1.2 Depósito de disolvente para la alimentación de la columna (fig. 48.2).
+
+48.2.1.3 Soporte para el manejo del frasco de pesada (figura 48.3).
+
+48.2.1.4 Frasco de pesada de unos 20 ml de capacidad (figura 48.4).
+
+48.2.1.5 Tubo de prolongación para el vaciado del frasco de pesada en la columna (fig. 48.5).
+
+48.2.1.6 Matraz redondo, fondo plano, de vidrio Pyrex o similar, de 250 ml de capacidad y boca esmerilada normalizada 29/32.
+
+48.2.2 Ampolla de decantación de 125 ml de capacidad, con llave de vidrio.
+
+48.2.3 Frasco lavador de unos 125 ml de capacidad.
+
+48.2.4 Estufa de vacío que permita calentar hasta 110 °C como mínimo y regulación de ± 1 °C. La temperatura será además uniforme en todo el espacio interior, tolerándose diferencias que no superen 1 °C entre posiciones extremas.
+
+48.2.5 Horno de mufla capaz de alcanzar una temperatura de 800 °C y regulación de ± 5 °C.
+
+48.2.6 Desecador conteniendo un agente desecante apropiado.
+
+48.2.7 Evaporador rotatorio.
+
+48.2.8 Cápsulas de porcelana, fondo redondo de 50 mm 0 y 20 mm de altura.
+
+48.2.9 Pesa sustancias de vidrio, de 60 mm ∅ interior y 40 de altura.
+
+48.2.10 Tubo de cromatografía, de 10 cm de longitud y 1,5 centímetros de diámetro interior, provisto de llave esmerilada, con orificio de paso de 1,5 a 2 mm y placa filtrante de vidrio porosidad número 2, correspondiente a un tamaño medio de poro de 40 a 90 μ.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1979/207/21118_5402560_image6.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1979/207/21118_5402560_image7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1979/207/21118_5402560_image8.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1979/207/21118_5402560_image9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1979/207/21118_5402560_image10.png)
+
+48.3 *Reactivos.*
+
+48.3.1 Éter etílico.
+
+48.3.2 Metanol anhidro.
+
+48.3.3 Éter etílico-metanol.‒Mezclar 975 ml de 48.3.1 y 25 ml de 48.3.2.
+
+48.3.4 Hexano, con un contenido máximo de 0,5 por 100 de aromáticos.
+
+48.3.5 Alúmina para cromatografía en columna de las siguientes características: pH en suspensión acuosa al 5 por 100; 7,0 ± 0,5; actividad IV según Brockmann (ver 48.6.1). Granulometría.‒El análisis granulométrico del producto debe dar un contenido inferior al 10 por 100 de partículas con un grosor igual o inferior a 63 micras e inferior al 0,1 por 100 de partículas con un grosor mayor de 250 micras, con una medida estadística para la totalidad de 120 micras ± 5 por 100.
+
+48.3.6 p-amino-azo-benceno.
+
+48.3.7 Rojo Sudan (Sudan II) (xileno-azo-β-naftol).
+
+48.3.8 Amarillo Sudan (Sudan I) (benceno-azo-/3-naftol).
+
+48.3.9 Benceno purísimo, exento de tiofeno.
+
+48.4 *Procedimiento.*
+
+48.4.1 Preparación de la columna de alúmina.
+
+Pesar, con aproximación de 0,5 g, 20 g de alúmina e introducirlos en una ampolla de extracción de 125 ml, agregando después 50 ml del disolvente 48.3.3, con el que se llena también la columna hasta ocupar, aproximadamente, 2/3 de su capacidad. Colocar la ampolla encima de la columna, de manera que el tubo de salida coincida con el extremo superior de la columna. Abrir la llave de la ampolla dejando salir la papilla de alúmina y disolvente que caerá en el interior de la columna; al mismo tiempo, abrir la llave de la columna, regulando la salida del disolvente de forma que el nivel de líquido en el interior de la columna se mantenga prácticamente constante, procurando más bien que el nivel suba en lugar de disminuir. Cuando toda la papilla de alúmina haya pasado a la columna, arrastrar las últimas porciones adheridas a las paredes, enjuagando el recipiente con un poco del mismo disolvente. Mantener abierta la llave de la columna, dejando salir lentamente el disolvente hasta que el nivel se haya situado a la altura del relleno de alúmina. Agregar hexano a la columna hasta situar el nivel a 1 cm, aproximadamente, del extremo inferior del cono esmerilado.
+
+48.4.2 Preparación de la muestra de grasa.
+
+Introducir el frasco de muestra en una estufa de aire regulada a la temperatura necesaria para conseguir la fusión completa de la muestra, lo que se consigue normalmente calentando de 30 a 40 °C. Conseguida la fusión, si se observa la presencia de sedimentos o materia en suspensión no fundible, agitar fuertemente el frasco hasta conseguir la homogeneización de su contenido y, una vez conseguido, efectuar inmediatamente la pesada de la muestra en el frasco de pesada (fig. 4).
+
+48.4.3 Fraccionamiento cromatográfico.
+
+Pesar, con aproximación de 0,2 mg, 5 g de muestra en el frasco de pesada (fig. 4), utilizando para ello el soporte adecuado (fig. 3). Una vez efectuada la pesada, separar del soporte el frasco con el aceite, ajustando el tubo de prolongación (fig. 5) al cono situado en la parte inferior del frasco.
+
+Ajustar el frasco, con el tubo de prolongación, a la boca superior de la columna cromatográfica y verter en el interior del frasco con el aceite el disolvente 48.3.3, utilizando el frasco lavador y dirigiendo el churro a las paredes con el fin de lavar y arrastrar hacia el fondo el aceite que haya podido quedar adherido a la superficie; con el mismo chorro se mezclará todo el contenido para conseguir la homogeneización de la disolución de aceite.
+
+Continuar agregando disolvente hasta que el nivel quede ligeramente por debajo del extremo superior del sifón; dirigiendo el chorro a la pared lateral superior, seguir agregando cuidadosamente hasta que el nivel líquido sobrepase ligeramente la altura del sifón y comience a caer por el tubo vertiendo en la columna cromatográfica.
+
+Ajustar el depósito del disolvente (fig. 2) a la boca del frasco, cargándose con 125 ml de disolvente, colocar el matraz de 250 ml, previamente desecado a 105 °C y pesado, a la salida de la columna, con el fin de recoger el líquido que fluye de la misma. Abrir la llave del depósito y la de la columna, regulándose ambas de forma que el líquido fluya en el matraz a una velocidad de 4-5 ml por minuto, manteniéndose el nivel en el frasco por encima del extremo superior del sifón. Si el disolvente no fluye al frasco por la llave del depósito, tapar el tubo hasta que comience el flujo; quitar el tapón y continuar la operación normalmente. El desarrollo quedará terminado cuando haya pasado la totalidad del líquido y no caiga disolvente en el matraz.
+
+La disolución recogida en el matraz se concentra en un evaporador rotatorio con vacío, calentando a la temperatura conveniente para evitar una ebullición tumultuosa que pudiera provocar proyecciones violentas del líquido.
+
+Una vez eliminado el disolvente, llevar el matraz a una estufa de vacío para eliminar los residuos volátiles que queden en el aceite, manteniéndose el matraz en la estufa durante una hora. Sacar y pasar a un desecador, donde se deja enfriar, pesando a continuación. Repetir este tratamiento en operaciones sucesivas, hasta conseguir peso constante, con precisión del mg.
+
+48.5 *Cálculos.*
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj4lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+dDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPm48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmU8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnU8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnI8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm88L21pPgogICAgPG1vPj08L21vPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICA8bWZyYWM+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlA8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICAgICAgPG1vPi08L21vPgogICAgICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tc3ViPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPk08L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CiAgICA8bW8+JiN4MjJDNTs8L21vPgogICAgPG1uPjEwMDwvbW4+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPUAAAAlCAYAAACaj69KAAAES0lEQVR4nO2bwdGrMAyEVQt1pJBUQilcXxsUQy95B9BE2UjCJvwEk/1mckgAC4PWkm1FhBBCCPkDRhF5JJ++ERuEEEMns7gm+P0uT+F1DdgghCxEghMRGZZjQwM2CCELmeD65djYgA1CyEJJFP103nuEDULIQiQ4FdujERuEkAUVnPfZa557hA1CyEKWGrdkgxCysFVwNnXWz21nG80ySrxI8JB5L+/MaHHB2e+T+JwxUtuClb1WxQ/ZB9eO3mQW9eAc44og+WvOJmrUwiSf6UALXDzbNymrbsOqOJfOOYjpzBUWEK5eJXSF/lnH/qv+1NiY5DXru8v2AWeSp66wDd0ft1MGLzPA37zrRBZDeLH9fpNrpLNX36povX9eXfbeRSC1NvYUtW3TtqFBFQOnRnW1rwMCDkTYnojMnbIN3uD7Fapr9GVelav371v08iqYQT6fhqIINdp6gdMOOmtVcC/ReoST7WjQ48mV2JExG+FsMX20colTguwc+4AmeR+dt7Sdof3soK3IAdbs2efWOb/V9M8+E20DB2p1jJJ39WvYd7XHNBRFbX3HO1f9I7Kv2nnzNesYtvFPOoHOF6U6mP57I9cI371UZJJ49TuLZCVtZ+igqGJYS5dK7Xm/Y0pm2/T6h/emWdgI53hzt7Vn4G0jZZ8rzPn3AEWt78dD32svgXAlF/wbg/hRogTP+TAjsOfZF45zDG8eE3Wk1ulr2s7wUiDvXmrs7SFqe43nEHoMMwW9pytMvc7G10StW1totAsajtqwDumJ2lukQ7KIgNfWOn1N2xmloq6xt7eovTlblpVkzrY3/xr9IPqsM4F9TdRq1HPWmoUCnCujqL3UD8nOQWfckp6Wtp1RKuoae0eIOpvPZcf25tvi3EvU0ZaV5bA5taWXpwN4y+WlaSnehBep3eV4wLsuYuuc81NqRF1q78hI7S0Mrq2oc069jWj123sHD3ld/fYCQna9iMwP3l6II0Bp+q0v3OI5dHZDfcE5d1kXktr2HLSm7YxSUdfYO0LUWbpYlNKRag7Zp7YM8l7VYkXcO416qJNpW1lpno7kljvYjc4pXSjDB2L7UNp2Rqmoa+x5uwDRn/iz/mWiFvF3DNT22bELuKsp6AJmEJ9s2W7BE+HuFWUKFp3I8n1Ijkfgf1a1Zla/o4PhXqtnZ+0cPG4fHNbVbrEf4TnWWpltqT2vbe+aqH94fSRU3KdubdV7rX+KXeM5uo/eu7D3gOtPkU+g74RBtktO0EZae9Hkd9Dol2Ukel6U7RBCToTNBKP55U2efy2mqAk5OZPMWWYWrUd51l9Q1IScHBW1zksxWttdHYqakAZQUYv4q9qDPKM3RU1IA1hRq2g1MmtaLnCcoibkxFhRi7xGa1shKUJRE9IEKGobrXHvmqImpAFQ1Lb4CcVLURNyclTAUWkwotGbxVSEnBAsvcQ/SthSSyzD/FbtNyGEEEJ+mv/tzyyoPgWuBAAAAABJRU5ErkJggg==)
+
+Siendo:
+
+P = peso del matraz con el aceite.
+
+P<sub>o</sub> = peso del matraz vacío.
+
+M = peso de la muestra en gramos.
+
+% pérdida cromatográfica = 100 ‒ % de aceite neutro.
+
+48.6 *Observaciones.*
+
+48.6.1 La determinación de la actividad de la alúmina según Brockmann se realiza en la forma siguiente:
+
+La alúmina que se ha de ensayar se introduce en la columna cromatográfica 48 2.10, procurando conseguir una distribución homogénea, formando una capa de 5 cm de altura y colocando en la parte superior un disco de papel de filtro. Preparar una disolución mezclando 2 ml de benceno, 8 ml de hexano, 2 mg de rojo Sundan, 2 mg de p-amino-azobenceno y 2 mg de amarillo Sudan. Verter la disolución de colorantes en la columna, abrir la llave y dejar pasar la disolución hasta que el nivel líquido quede justamente a la altura de la alúmina. Verter a continuación el líquido de desarrollo constituido por una mezcla de benceno-hexano en la proporción 4:1 en volumen, del que se hacen pasar por la columna 20 ml. La velocidad de salida se regula con la llave, manteniendo un flujo de 0,5 a 1 ml por minuto, recogiendo el líquido en un matraz cónico de boca estrecha
+
+Terminado el desarrollo, con una alúmina de grado IV que es la apropiada, el amarillo Sudan habrá sido eliminado totalmente de la columna, quedando retenidos los otros dos que aparecerán en dos bandas: Una inferior roja, correspondiente al rojo Sudan y otra superior amarilla correspondiente al aminoazo-benceno. Una situación distinta de estos colorantes deberá interpretarse como un grado de actividad mayor o menor del producto, requiriendo el ajuste de su contenido en agua de la forma conveniente.
+
+48.6.2 Preparación de la alúmina.
+
+Partiendo de una alúmina de actividad superior a IV, se adicionarán cantidades crecientes de agua hasta conseguir en el ensayo de actividad, realizado como se indica en el apartado 48.6.1, el grado IV necesario.
+
+Efectuado esto, si se dispone de una partida relativamente importante de alúmina, es conveniente determinar su humedad, siguiendo la metódica que se describe en 4.6.3, conocido este dato, en operaciones sucesivas, bastará con determinar la humedad de la alúmina, calculando la cantidad de agua que hay que añadir para obtener su producto de actividad IV.
+
+Para incorporar a la alúmina una determinada cantidad de agua, se procederá de la forma siguiente: Introducir la alúmina pesada en un matraz o frasco con tapón esmerilado con una capacidad aproximadamente el doble del volumen de alúmina. Agregar el peso calculado de agua destilada, tapar el recipiente y agitar hasta conseguir la homogeneización del producto. Mantener el frasco cerrado durante 48 horas como mínimo, agitándolo durante este tiempo unas 10 o 12 veces por lo menos. Después de este tratamiento la alúmina debe estar lista para su utilización.
+
+48.6.3 Determinación de la humedad de la alúmina.
+
+En una capsulita de porcelana pesar, con precisión de 1 miligramo, 1 g de alúmina. Introducir en la mufla del horno y mantenerla 2 horas a 600 °C. Dejar enfriar parcialmente e introducir en un pesasustancias de dimensiones adecuadas; tapar y llevar a un desecador donde se mantiene hasta adquirir la temperatura ambiente. Pesar la totalidad, sin destapar el pesa-sustancias.
+
+Previamente la cápsula vacía se habrá calentado en el horno a 600 °C, durante media hora como mínimo; y el pesasustancias, en una estufa de aire a 105 °C, durante una hora, dejándolos enfriar en el desecador. Las piezas así desecadas se pesarán vacías.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPmg8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnU8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm08L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmU8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij5kPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+bDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmw8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPiYjeEZBOzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bW8+PTwvbW8+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bW8+KDwvbW8+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlA8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1uPjE8L21uPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgIDxtbz4tPC9tbz4KICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+UDwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICAgICAgPG1vPik8L21vPgogICAgICAgICAgICA8bWk+PC9taT4KICAgICAgICAgICAgPG1uIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+MTAwPC9tbj4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,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)
+
+Siendo:
+
+P<sub>1</sub> = peso de la cápsula y el pesasustancias con la alúmina.
+
+P<sub>o</sub> = peso de la cápsula y el pesasustancias con la alúmina, una vez desecada.
+
+P = peso exacto de la muestra de alúmina.
+
+48.7 *Referencias.*
+
+1\. Instituto de Racionalización y Normalización del Trabajo. Una Norma Española, 55.105.
+
+## ANEJO II — Métodos de análisis de productos cárnicos
+
+1\. PREPARACIÓN DE LA MUESTRA PARA EL ANÁLISIS
+
+1.1 *Principio.*
+
+Las operaciones descritas a continuación tienen por finalidad conseguir una muestra para el análisis lo más homogénea posible. Por ello, toda simplificación o tratamiento insuficiente en esta operación puede conducir a unos resultados que no sean representativos.
+
+1.2 *Material y aparatos.*
+
+1.2.1 Cuchillo.
+
+1.2.2 Trituradoras eléctricas de distinto grado de finura en el picado.
+
+1.2.3 Frascos de vidrio de 250 ml de capacidad, de color topacio, boca ancha y tapón esmerilado.
+
+1.2.4 Cápsulas de porcelana de 20 cm de diámetro.
+
+1.3 *Procedimiento.*
+
+1.3.1 Tomar una muestra representativa de 200 g.
+
+1.3.2 Quitar la piel si la tuviere (embutidos, etc.).
+
+1.3.3 Partirla con cuchillo en rodajas o trozos de 0,5-1 cm.
+
+1.3.4 Cortar los trozos en pequeños cubos.
+
+1.3.5 Pasarlos varias veces por trituradora hasta conseguir una mezcla homogénea.
+
+1.3.6 La muestra, bien homogeneizada debe guardarse inmediatamente en los frascos, limpios y secos, de forma que queden llenos, para prevenir pérdidas de humedad.
+
+1.3.7 Conservarlos en refrigeración de forma que evite su deterioro y cualquier cambio en su composición.
+
+1.3.8 Tomar las muestras para las diferentes determinaciones a ser posible dentro de las 24 horas siguientes.
+
+2\. ALMIDÓN
+
+(Método cualitativo)
+
+2.1 *Principio.*
+
+El almidón reacciona con el iodo dando coloración azul.
+
+2.2 *Material y aparatos.*
+
+2.2.1 Erlenmeyer de 150 ml de capacidad.
+
+2.2.2 Frasco cuentagotas.
+
+2.2.3 Pipeta de 10 ml de capacidad.
+
+2.3 *Reactivos.*
+
+2.3.1 Solución iodo-iodurada:
+
+Mezclar 1 g de iodo y 2 g de ioduro potásico en agua destilada hasta 200 ml.
+
+Mantener la solución en el frasco cuentagotas.
+
+2.4 *Procedimiento.*
+
+2.4.1 Preparación de la muestra:
+
+Como en el método 1.
+
+2.4.2 Valoración:
+
+Introducir 10 g de la muestra preparada como 2.4.1 en un Erlenmeyer de 150 ml. Añadir 40 ml de agua destilada. Hervir durante 5 minutos. Transcurrido este tiempo enfriar exteriormente el matraz en corriente de agua fría.
+
+Con pipeta de 10 ml atravesar la capa grasa superior, tomando 10 ml del líquido inferior, transvasándoles a un tubo de ensayo. Añadir 5 gotas de la solución 2.3.1.
+
+2.5 *Interpretación de resultados.*
+
+En presencia de almidón aparecerá una coloración azul-negra.
+
+3\. ALMIDÓN
+
+(Método cuantitativo)
+
+3.1 *Principio.*
+
+Extracción de azúcares simples con etanol caliente 80 por 100, permaneciendo el almidón.‒El residuo de almidón se solubiliza con ácido perclórico diluido, y medida a 630 nm del color desarrollado al calentarlo con el reactivo antrona-sulfúrico.
+
+3.2 *Material y aparatos.*
+
+3.2.1 Balanza analítica.
+
+3.2.2 Matraces aforados de 100 ml y 200 ml.
+
+3.2.3 Tubos de centrífuga, cónicos, de 100 ml.
+
+3.2.4 Pipetas graduadas de 10 ml, 25 ml, 5 ml y 2 ml.
+
+3.2.5 Centrífuga de 2.500 r.p.m.
+
+3.2.6 Baño de agua.
+
+3.2.7 Baño de agua termostatable hasta 25 °C.
+
+3.2.8 Probeta graduada de 25 ml.
+
+3.3 *Reactivos.*
+
+3.3.1 Disolución de ácido sulfúrico-antrona.‒Disolver 0,2 g de antrona en 100 ml de H<sub>2</sub>SO<sub>4</sub>. El reactivo sirve para 3-4 días conservándolo a 0 °C.
+
+3.3.2 Glucosa patrón.‒Disolver 0,1 g de glucosa anhídrica en 100 ml de agua.
+
+3.3.3 Ácido perclórico al 52 por 100.
+
+3.3.4 Etanol al 80 por 100.
+
+3.3.5 Etanol puro.
+
+3.3.6 Éter de petróleo.
+
+3.3.7 Disolución etanol-éter de petróleo (1/3) (v/v).
+
+3.4 *Procedimiento.*
+
+3.4.1 Extracción de azúcar y de grasa.‒Pesar 2 g de carne triturada preparada como en el método 1 en un tubo centrífugo cónico 100 ml. Añadir 25 ml de disolución etanol-éter de petróleo (1-3), tapar con tapón, agitar vigorosamente y centrifugar a 2.500 r.p.m. durante 5 minutos. Decantar y dejar a un lado la disolución etanol-éter de petróleo. Añadir 10 ml de etanol caliente al 80 por 100, agitar y centrifugar a 2.500 r.p.m. durante 5 minutos. Dejar a un lado la disolución alcohólica y repetir la extracción alcohólica con etanol caliente.
+
+3.4.2 Extracción de almidón.‒Añadir 5 ml de agua al residuo y remover. Añadir 6,5 ml de disolución de ácido perclórico diluido (52 por 100); remover o agitar durante 5 minutos. Dejar reposar durante 15 minutos. Añadir 20 ml de agua y centrifugar durante 5 minutos. Verter la disolución de almidón en un frasco volumétrico de 100 ml. Añadir 6,5 ml de disolución de ácido perclórico (52 por 100) y remover. Dejar reposar durante treinta minutos. Remover y lavar el contenido entero del tubo en el frasco volumétrico que contiene el primer extracto. Llevar a volumen y filtrar por papel filtro (3.2.9).
+
+3.4.3 Determinación de almidón.‒Diluir 5 ml de disolución de almidón filtrada en 200 ml con agua destilada. Pipetear 5 ml de dicha disolución en un tubo, enfriar en baño de María y añadir 10 ml de antrona reactivo (3.3.1) Mezclar completamente y calentar durante 7,5 minutos a 100 °C. Quitar el tubo del baño, enfriar con rapidez a 25 °C y determinar la absorbancia a 630 mm. El color permanece fijo durante treinta minutos.
+
+3.5 *Cálculos.*
+
+3.5.1 Curva patrón de glucosa.‒Diluir 1, 2, 5 y 10 ml de 3.3.2 hasta 100 ml con agua destilada. A partir de las lecturas obtenidas, dibujar la curva patrón.
+
+3.5.2 Contenido en almidón de la muestra:
+
+% glucosa = 0,04 • μg de glucosa leídos en la curva patrón.
+
+% almidón = 1,06 • % glucosa.
+
+3.6 *Observaciones.*
+
+3.6.1 Teniendo en cuenta que el carragenato se determina como almidón, se deberá deducir del valor obtenido de almidón el correspondiente de carragenato.
+
+3.6.2 En los productos que declaren contener carragenato y hasta que no exista técnica oficial para su determinación cuantitativa, se permitirá una tolerancia del 1,4 por 100 en el valor obtenido de almidón.
+
+3.7 *Bibliografía*
+
+1\. W. Glover, H. Kirschenbaum y A. Caldwell (Departamento de Consumo y Comercialización, mlnisterio de Agricultura de los Estados Unidos, Laboratorios de Inspección de Carne, Nueva York, N.Y. 10011).
+
+4\. CONSERVADORES
+
+(Por cromatografía en capa fina)
+
+4.1 *Principio.*
+
+Extracción de los conservadores por medio de una mezcla de éter y éter de petróleo y posterior identificación por cromatografía en capa fina.
+
+4.2 *Material y aparatos.*
+
+4.2.1 Homogeneizador.
+
+4.2.2 Matraces.
+
+4.2.3 Erlenmeyer de 25 y 250 ml.
+
+4.2.4 Refrigerantes de reflujo.
+
+4.2.5 Filtro Büchner y papel de filtro de filtración rápida.
+
+4.2.6 Embudos y papel de filtro plegados.
+
+4.2.7 Ampolla de decantación de 100 y 250 ml.
+
+4.2.8 Cápsulas de porcelana de fondo plano.
+
+4.2.9 Tubos pequeños de cristal con tapón.
+
+4.2.10 Material para cromatografía en capa fina:
+
+‒ Cubeta.
+
+‒ Micropipetas.
+
+‒ Secador.
+
+‒ Fuente de ultravioleta.
+
+‒ Placas de poliamida (20 x 20) con soporte de aluminio y revelador de fluorescencia incorporado tipo F-254 Merck, o equivalente.
+
+4.3 *Reactivos.*
+
+4.3.1 Aoluxión acuosa de ácido sulfúrico al 10 por 100 (v/v).
+
+4.3.2. Reactivo de Carrez (para defecación).
+
+4.3.2.1 Solución acuosa de ferrocianuro potásico al 15 por 100 (p/v).
+
+4.3.2.2 Solución acuosa de acetato de cinc al 30 por 100 (p/v).
+
+4.3.3 Cloruro sódico.
+
+4.3.4 Mezcla de éter y éter de petróleo (1/1).
+
+4.3.5 Solución acuosa saturada de cloruro sódico.
+
+4.3.6 Sulfato de sodio anhidro.
+
+4.3.7 Soluciones testigo conteniendo 3 g/l en la mezcla a partes iguales de éter y éter de petróleo de los siguientes conservadores:
+
+4.3.7.1 Ácido salicílico.
+
+4.3.7.2 Ácido benzoico.
+
+4.3.7.3 Ácido clorobenzoico.
+
+4.3.7.4 Ácido parahidroxibenzoico.
+
+4.3.7.5 Éster etílico del ácido parahidroxibenzoico.
+
+4.3.7.6 Ácido ascórbico.
+
+4.3.8 Eluyentes:
+
+4.3.8.1 Mezcla de n-pentano, n-hexano, ácido acético (10, 10, 3).
+
+4.3.8.2 Mezcla de benceno, acetato de etilo, ácido acético (85, 10, 5).
+
+4.4 *Procedimiento.*
+
+4.4.1 Extracción de los conservadores.
+
+Tomar aproximadamente 50 g de la muestra preparada como en el método 1 y transvasarla a un matraz Erlenmeyer de 250 ml.
+
+Añadir 15 ml de solución de ácido sulfúrico al 10 por 100 diluidos en 60 ml de agua hirviendo. Añadir 10 ml de solución de ferrocianuro potásico y agitar; 10 ml de solución de acetato de cinc y agitar.
+
+Adaptar el refrigerante de reflujo. Someter la mezcla durante treinta minutos a ebullición bajo un ligero reflujo. Filtrar rápidamente en caliente sobre un disco de papel de filtro mojado colocado sobre un embudo. El filtrado queda generalmente turbio. Añadir 2 ml de ferrocianuro potásico y agitar 2 ml de solución de acetato de cinc y agitar. Añadir 20 g, aproximadamente, de cloruro sódico. Filtrar en caliente (aproximadamente a 80 °C) sobre filtro plegado, mojado, de forma que se retengan las grasas. Enfriar el filtrado. Trasvasar el filtrado a un embudo de decantación de 250 ml. Extraer los conservadores de la fase acuosa por medio de tres lavados con 20 ml de mezcla éter y éter de petróleo agitando suavemente durante 10 minutos, aproximadamente, para evitar la formación de una emulsión. Reunir los tres extractos etéreos y eliminar la fase acuosa. Lavar dos veces la fase etérea con 20 ml de solución saturada de cloruro sódico para romper las emulsiones que eventualmente hayan podido formarse y dos veces con 20 ml de agua destilada. Transvasar la solución etérea a un matraz de 250 ml en el cual se haya puesto en el fondo un gramo de sulfato sódico anhidro. Tras dejarlo durante algunos minutos en contacto, transvasarlo a una pequeña cápsula de porcelana de fondo plano. Evaporar el disolvente a temperatura ambiente (no calentar para evitar la pérdida de ácido benzoico). Redisolver el depósito de la cápsula con algunas gotas de mezcla de éter y éter de petróleo. Lavar la cápsula dos o tres veces con el mismo disolvente para obtener un extracto de un volumen total, aproximadamente, de 0,5 ml.
+
+4.4.2 Preparación del cromatograma.
+
+Depositar las soluciones separadas sobre la placa de poliamida a 1 cm del borde por medio de una micropipeta (el diámetro de las manchas no debe ser mayor de 1 a 2 mm). Aplicar de la misma forma las soluciones testigo para comparar, una vez desarrollado el cromatograma, con las muestras problema, lo cual nos evita medir los Rf. Colocar la placa en la cubeta. Eluir hasta que el frente del eluyente haya recorrido los dos tercios de la placa. Sacar la placa y secar.
+
+4.5 *Interpretación de resultados.*
+
+4.5.1 El ácido salicílico ha sido escogido como sustancia de referencia, por producir fluorescencia azul de las manchas que se obtienen en los cromatogramas cuando éstos se ponen bajo luz ultravioleta, por lo cual pueden ser identificados fácil y rápidamente, bien por medida de sus Rf o bien por comparación con las manchas producidas por las soluciones testigo.
+
+4.5.2 Rf de los conservadores.
+
+|  | Ácido p-hidroxibenzoico | Éster etílico del ácido p-hidroxibenzoico | Ácido salicílico | Ácido clorobenzoico | Ácido benzoico | Ácido sórbico |
+|---|---|---|---|---|---|---|
+| Eluyente 1. | 0,05 | 0,21 | 0,46 | 0,75 | 0,86 | 0,94 |
+| Eluyente 2. | 0,10 | 0,56 | 0,25 | 0,54 | 0,70 | 0,82 |
+
+5\. NITRÓGENO TOTAL
+
+5.1 *Principio.*
+
+Ataque del producto por ácido sulfúrico concentrado, catalizado con sulfato de cobre y selenio, en el cual se transforma el nitrógeno orgánico en iones amonio, que en medio fuertemente básico, permite la destilación del amoníaco, que es recogido sobre ácido bórico. La posterior valoración con ácido clorhídrico permite el cálculo de la cantidad inicialmente presente de nitrógeno en la muestra.
+
+5.2 *Material y aparatos.*
+
+5.2.1 Balanza analítica.
+
+5.2.2 Batería calefactora.
+
+5.2.3 Probetas de 50 ml.
+
+5.2.4 Matraces Kjeldahl de 800 ml.
+
+5.2.5 Embudos de vástago largo.
+
+5.2.6 Embudos de 8 cm. de diámetro.
+
+5.2.7 Aparato de destilación.
+
+5.2.8 Erlenmeyer de 200 ml.
+
+5.2.9 Bureta con divisiones de 0,1 ml.
+
+5.2.10 Frascos de 250 ml de boca ancha con rosca.
+
+5.3 *Reactivos.*
+
+5.3.1 Sulfato de cobre.
+
+5.3.2 Sulfato potásico.
+
+5.3.3 Ácido sulfúrico concentrado, d = 1,84.
+
+5.3.4 Selenio en polvo.
+
+5.3.5 Solución de hidróxido sódico al 40 por 100.
+
+5.3.6 Solución de ácido bórico al 4 por 100.
+
+5.3.7 Ácido clorhídrico 0,1 N.
+
+5.3.8 Indicador.
+
+Disolver 2 g de rojo de metilo y 1 g de azul de metileno en 1.000 ml de etanol al 95 por 100 (v/v). Este indicador vira de violeta a verde a pH 5,4. Conservarlo en frasco topacio.
+
+5.3.9 Piedra pómez.
+
+5.4 *Procedimiento.*
+
+Pesar, con precisión de 0,1 mg, 1-3 g de la muestra, según contenido, preparada según el método 1. Llevar la muestra pesada al matraz Kjeldahl, e introducir sucesivamente unos granos de piedra pómez, 15 g de sulfato potásico, 0,5 g de sulfato de cobre, y una punta de espátula de selenio en polvo. Agregar 25 ml de ácido sulfúrico, mezclar suavemente por rotación y colocar el matraz en una batería calefactora, poniendo un embudo adecuado (5.2.5) en la boca. Calentar suavemente al principio, y cuando el conjunto adquiere una cierta decoloración aumentar la intensidad de calefacción. Agitar de vez en cuando con suavidad por rotación. Una vez que el líquido queda transparente, con una coloración azul verdosa, prolongar la ebullición al menos hora y media. Dejar enfriar hasta temperatura ambiente y añadir con precaución 100 ml de agua, disolviendo por rotación suave el sulfato potásico cristalizado.
+
+En un Erlenmeyer de 200 ml poner 25 ml de ácido bórico al 4 por 100 y unas gotas de indicador (5.3.8). Introducir hasta el fondo en el Erlenmeyer la alargadera del aparato de destilación. Colocar el matraz en el aparato de destilación, ajustándolo bien, poniendo un poco de grasa en los esmerilados. Agregar, por el depósito superior, otros 100 ml de agua y 100 ml de disolución de hidróxido sódico al 40 por 100. Calentar suavemente hasta ebullición.
+
+Aumentar el calentamiento recogiendo, al menos, 150 ml de destilado, o prolongarlo, hasta el momento en que se produzca una ebullición a golpes.
+
+Retirar el Erlenmeyer, lavar la alargadera y el interior del refrigerante, recogiendo sobre el destilado las aguas de lavado. Valorar hasta la coloración original, violeta, con ácido clorhídrico 0,1 N. Efectuar una prueba en blanco, utilizando 5 ml de agua destilada en vez de la muestra, siguiendo todo el procedimiento.
+
+5.5 *Cálculo.*
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+TjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPnQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm88L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmw8L21pPgogICAgPG1vPj08L21vPgogICAgPG1mcmFjPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bW4+MCwxNDwvbW4+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij5mPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgIDxtbyBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPig8L21vPgogICAgICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5WPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtbj4xPC9tbj4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tc3ViPgogICAgICAgICAgICA8bW8+LTwvbW8+CiAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlY8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1uPjI8L21uPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgIDxtbz4pPC9tbz4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAToAAAApCAYAAACld+XdAAAFcklEQVR4nO2c0ZHzKgyFVUvqSCGpxKXk9baRYtLL3oeNZhX9kpAIODg53wyzswkGGcyJEGAiAAAAAACD08Syr0T080i3zjJm2rcS33KfALzEif5E5Yd+RSbimsy3UZ9IbaJsrutSLONCRHciOj/+v9PzPVplXtT3vQLrMcuGWzIfAF8LDyw54O6PpGFBzAgd5+0ZgD/0K3ayrApSKCVst3VvUf0jmWXDmSB2ALhYYnSmeKBJwfO40e9grg4+LrtXaM4Uiwh7Smfn+1Pj+hHMssETeAC+GvbmLFHxvDqittBd6W+wVoWuJbIt7hRPczeKPc3thbqzzLThhxCzA+AJnkZZnsWN/EETCd2Z/gZpVeisGFbFs2Hhbg30yKPaSyhm2XAjeHUAPBGJWSSCkdBJYdvbo7tSThjZo9L2X4zPZjHLBu43AMCD0UJ3U2XtLXTRdFvDHpW214ubzWCGDSygmL4C8GCk0F3o39jYykKnV45bq5anTptG2iCn9l4ckoVuT8EGYGlGxehOZE+39ha6SkxP7h080a+dnnhwPs8mubm5taLaawMv8BD9tZHVNyx01X2HAHws1h46prLqyoMrSlnB28ujI3re09a67tpp0ygbtHB6U1x4dAAYzNpHR/SexYhKIF56VK36ZgldxQaJd59b8B0AX0vrZISeXsnPVhO6aErnweLYumaW0FVsYOQWHg2Og02GYzqIDfRzpve0HwuENc2U33lTVG/QjdhHV52C3QN7LLz4omam0GVtkLZ4hG3Gg9RLs3dKAxv94FtYgeCjLa1nVtPeTeRFrETrCFgvM4Wugt7CI0ntwWN3XDeSfJvA0QZQhtXvSXoUrTOMPRstR93/q+VECwMrcKTp0IxjXCsI3ZWevTX5rKTPx3pCxxX0DqTVOULgkmNGUR/cqG+ladT9v1rOykJ3p/V/EDUbjWtL6XG/S/Ctaf2mvk8RCV3rEO5R4Sn76vBAi0IJPUI36v5HlLOy0B0V7QF9KqWpesaj0wNMB2e9CuXLA3lQaNHUL9yzOkjHo1obPWV+bbv1C+GVldmIyXm1TRmbW3DdchqrBaEqdJn7z/TvqHaE0IFd8IRODlSJtYxrxfL4vVxc9vlRprxW/2/tbta7pq0laV3XJcjL+T1PRNcfebS8uqaFLGNzBtknXsx0tEeX7d9WOdl2zAidtfASpaNNN8EO6NdJy2S9YcDyTtjj8Lw1a8plvVpG71Pi10JbdWnbrJ3R3iDyBqiVn0XUQ7dJxeYWmR+fkUJX7d8R7bi3R/cf0tekJ6KpqybyTNijkkQPsfbmovqspK8dIXT0uN7yFj20OFRsbmHVq0MAI4Wu2r8j2hFChzQrPVERuujAs/Vd9BBndjJHebQNo4ROXsepInQVm1t49cqV2JFCV+3fEe2IGB3YhR6PLloMkEQPceZAccubkowSOhaQrA2W0I3auNk6XM5ptEeX7d8R7YgYHdiFitDxQ2nFmqzPo4c4etvAlshzUZ+PEDrrcHRV6Co2t2i91WG00FX7d0Q7wqMbi1zpttK7N/++DTlgMr+E3JDywfTeHNB6iLlefc2WyPPKYoSORfFfvYKa+RGwAvhZmyO4XyIB8BYPWnj3T1Tr3xHtCKEbz7eednKx1D8TMNf7rKxrrLIt9H4s70WGUR5d10b/TnfkNfowNw8yPSXkg9I6n8QTm8x9eehrI6Ht2Rzq3T+T6d+onGw7Vu4T5PnW005gIvBIwGp842knMJne6SMAs+g57QRACAsdAKtQPe0EgIl8iK6EeAdYi8ppJwBcZGAdsQ6wGpUtYwAAcEggdACAjwdCBwD4eCB0AICPp3raCQAADkXvaScAAAAAAAAAAAC8h/8BFsgkCJtVRn0AAAAASUVORK5CYII=)
+
+Porcentaje proteína total = 6,25 • porcentaje N total
+
+Siendo:
+
+f = factor del clorhídrico.
+
+V<sub>1</sub> = volumen en ml de ácido clorhídrico gastado en la valoración.
+
+V<sub>2</sub> = volumen en ml de ácido clorhídrico gastado en el ensayo en blanco.
+
+p = peso en gramos de la muestra.
+
+5.6 *Referencias.*
+
+1\. Norma internacional ISO R-937.
+
+6\. CENIZAS
+
+6.1 *Principio.*
+
+Adición de solución de acetato de magnesio, desecación en baño de agua o baño de arena, incineración en un horno a 550 °C y posterior determinación de la masa del residuo, teniendo en cuenta la cantidad de óxido de magnesio proveniente de la adición de la solución de acetato de magnesio utilizada en primer lugar.
+
+6.2 *Material y aparatos.*
+
+6.2.1 Cápsulas de porcelana de cuarzo o platino, con fondo plano, de aproximadamente 15 cm<sup>2</sup> de superficie y 25 mm de altura, de paredes ligeramente inclinadas.
+
+6.2.2 Pipeta de 1 y 2 ml de doble aforo.
+
+6.2.3 Baño de agua o baño de arena o placa calefactora.
+
+6.2.4 Horno de mufla provisto de termostato y capaz de alcanzar al menos 800 ºC.
+
+6.2.5 Desecador provisto de un agente deshidratante eficaz con indicador.
+
+6.2.6 Balanza analítica.
+
+6.2.7 Pinzas adecuadas para el manejo de las cápsulas.
+
+6.3 *Reactivos.*
+
+6.3.1 Solución de acetato magnésico, que contenga 150 g/l. Pesar 15 g del reactivo anhidro o 25 g del tetrahidrato y llevarlos, una vez disueltos, a un matraz de 100 ml; enrasar.
+
+6.4 *Procedimiento.*
+
+Introducir la cápsula bien limpia en el horno regulado a 550 °C durante 20 minutos. Sacarla e introducirla en el desecador, permaneciendo en él 30 minutos. Pesarla con una precisión de 0,1 mg.
+
+Introducir en la cápsula un peso P de muestra, aproximadamente 5 g, preparada según el método 1 y pesada con una precisión de 0,1 mg. Añadir 1 ml de la disolución de acetato magnésico (6.3.1) uniformemente. Colocar la cápsula en un baño de arena, o placa calefactora, hasta conseguir la carbonización de la muestra, prestando mucha atención a las posibles proyecciones. Transferir la cápsula al horno de mufla que debe quedar estabilizado a 550 °C por espacio de, 31 menos, 1 hora. Si no alcanzan el grado de blancura deseado debe sacarse la cápsula, dejarla enfriar y añadir unos mililitros (2-4) de agua destilada. Evaporar el agua en baño de arena. Introducir de nuevo la cápsula en el horno de mufla por espacio de 30 minutos y repetir las operaciones anteriores si es necesario, hasta conseguir unas cenizas blancas o ligeramente grises. Sacarlas del horno e introducirlas en el desecador durante 30 minutos.
+
+Pesar con precisión de 0,1 mg.
+
+Efectuar dos determinaciones sobre la misma muestra.
+
+6.5. *Cálculos.*
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+YzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ejwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+czwvbWk+CiAgICA8bW8+PTwvbW8+CiAgICA8bXN1Yj4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPihNPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtbj4zPC9tbj4KICAgICAgICA8L21yb3c+CiAgICA8L21zdWI+CiAgICA8bW8+LTwvbW8+CiAgICA8bXN1Yj4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+TTwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3ViPgogICAgPG1vPi08L21vPgogICAgPG1zdWI+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5NPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtbiBzdHlsZT0icGFkZGluZy1yaWdodDowcHg7Ij4yPC9tbj4KICAgICAgICA8L21yb3c+CiAgICA8L21zdWI+CiAgICA8bW8gc3R5bGU9InBhZGRpbmctbGVmdDotM3B4OyI+KSAmI3gyMkM1OzwvbW8+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1uPjEwMDwvbW4+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5NPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtbj4xPC9tbj4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tc3ViPgogICAgICAgICAgICA8bW8+LTwvbW8+CiAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPk08L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm88L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21zdWI+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYIAAAAoCAYAAADzCv21AAAGoUlEQVR4nO2c0ZHjOAxEkcNmMAlcAg5EGVwGCsW/l4Zz2BSUy97HGCWoDZDQmqIoT78qV+3IFA1RJJoAyRUhhBBCCCGENOXrbAMIIYScwyQif0Rkcb67Pb/TzxzU8YByhBBCLsIiInfxhWB+Xr+Za3/k2+lL4Zp3HyGEkMFZZCsEX/LtzO9QTqOH6fm3igimlbA+Qgghg4OOW2f1k1PWRgBRSolRASGEXAwUAs35ewvIi6xO3osaRNbIIVpTIIQQMhgoBOrsPVQkZomdfUkkCCGEDAiFgBBCfjgUgh+KvkxvMeiKfNrzlODBn2twpfd0yTUCPLyAHy5QkE9lku3eb/1kturhPUfN1nB8ZsYjjuGjdpv0tO0hr3vuRyXaNeQ9K+4a8p6x264h3eeKA0CVKFKzq/OJz0RyzPLqvK1zr0VD1pn16EfZk6Z2zPZynL1su/3lfb257DmCSAhEVuM+MT/F49s/k5vE+7U1VC85HBWRbPTQAnUGNZGyEU6vaL6nbZ6Aj4bnuC9xsrgkBGrIFZR4DxrWkp/HIr7DmmXt76XBt8ia0+0pBGpb9Js6Yy4tPB5Bb9tGzVB4aXbrNyf4LhK0Bcp1e9ZMRIAvzg6YUgfQ+ydZGwpFBRvIG4CYk/XK2EUZWx5tx4b2BMG+1Npg17JoU8bmGr3bxtZnneWXvLZZKczPtJ99D70WprU9vcE1y1YMvOea5Lt9SmPmCJbnb5Zm3g/5fvdnCEFP2x4yflRwSaJObR2GxVu48dTrIWvn0FnUHe7Fv73j2A/428ul4W/V8m6liAB/vxQRLeILQcbmGme0jX0eFAIcvFovkmk/rx+UnAOKXe0TtfM9sFlkFQG12RPVx7Pus4Qg+t8tv2Rtz7OEoJdt2hdIY0qzvWiBAweIhsrRbN978d7sDBdWdGeH91tom5dPwwUZJRICr3zk8PCem/k7a3OtzjPaxrt+A1ui3GW2/bxZXQ/HVVp4s0LgrY3ZxcqzhEDEF6m7rG1+lhD0sk3rKE2q/hGR3/Laty3/8bNlT6cuzWy9gxORs9G6amsPpZkg3ttCCERend5eIdhjc8SZbVN6ZyJrf4kGc6b9vJ0UPXKhWSGwkyO1S9Mb9nuvLpsWa7XIZ50tpq40LSPw/RlC8I5t2VRhZgH1X6lPvM52wiN8NuwRAptrznxXcipeimlPGbShlRDY+/SzRwj22BxxZtvUhCCznS3bfjr4ezmtki1WCES2UYFNb4jEY2aWbWQYvR9PxEuOzTpbfQ69Z5btu3pXCM6wTdtYZI1qo7HipUg9biLyq1KGGP4mIigtSFpKTiXjUGqzcUsrIcCZxN6IYI/NEWe2TemdZcLyTPuhI6j1v1ZrBNmIQGQbFeBaTDRmbvDvVoua6GztzBv7cUkIbLSSjU572Ib+ZHGuYR2toi3yZI8QqJPwOrh3PeNUvBc6J8pMcL2FEHgLUXuFYI/NEWe2TXRdZ2o4iCdZHUG2/dAJad1HD+7SQiMKgcjaT6LUVk28WoHO1ooU2hw52xlsWpwyZ9mGlKL1ufL9HqwwZqOoPdHSpWzSQVib6aGhXsiH1NIM+rt4z5wo886CKK512DywrSMz4FEI9thc4qy2ia7rjiLkAf/OtB8uFmcijRaU0g5eqk3LR23k1WW/azHr1jaM+jCi7wB/e4E6Jnk/cm1lm0VTShGZtOlerBMt0frdDmMTqk+2Mh24pXu8uj0WKOM5y1oZT0UxnYA7QOx32pFxB5XOmrCcxROC7HPV6N02WNcS1OGVEcm33ySv6wi9Ds7gTBjtwHeJfdtrg+jdllIcGbDdsa3t73rPYZ+ltRC0tM1SGyfRfe+gKcNojNtyOnaOXtca0SZSoBb1kLG4Sb9tnw8ZJ5c9y/a57zKe43hIeUKwN6rOYicsUd+4Sd+T2yPaRApEEQEZF289oAXWkeHWyRGwkeARDvUd7vKaurQc2Z66zlGagauo9xSC0WwiBVQIyLXArY0tsOmS0URgZDAl6Tm1I9tTna6OZW9zgKYIewvBSDYRwL6Yu4w3uyI5cBZKxuRoUbU7n7z1i7v0P7k9ok0EsAugR+8eIIQci3W69hyEyL7T0d7/yXW2TYQQQhLgWQg7A8cUYuR0o5SW4h2KLEWjLWwihBCSpNXJ7ZY7sUY+TU4IIR9Hq9PRRwrBSKfJCSHko2h5OrqVEIx8mpwQQj6K1qejWwjByKfJCSGEVBjttPYVTpMTQshHMaKjHfk0OSGEfBT2dDR35xBCCCGEEEIIIYSQK/A/bmAXc9FZYggAAAAASUVORK5CYII=)
+
+Siendo:
+
+M<sub>o</sub> = masa, en gramos, de la cápsula.
+
+M<sub>1</sub> = masa, en gramos, de la cápsula conteniendo la muestra.
+
+M<sub>2</sub> = masa, en gramos, de la cápsula y el residuo después de incineración.
+
+M<sub>3</sub> = masa, en gramos, del óxido magnésico proveniente de la disolución de acetato magnésico añadido.
+
+6.6 *Observaciones.*
+
+6.6.1 La diferencia entre dos determinaciones sobre la misma muestra, realizadas simultáneamente o rápidamente una después de otra por el mismo analista, no debe ser superior a 0,10 g por 100 g de muestra.
+
+6.7 *Referencias.*
+
+1\. Norma internacional ISO R-936.
+
+7\. FÓSFORO
+
+7.1*Principio.*
+
+Transformación en ácido pirofosfórico, posterior hidrólisis del mismo y medida del color producido al añadirle el reactivo molibdato-vanadato.
+
+7.2 *Material y aparatos.*
+
+7.2.1 Matraces aforados de 1.000, 250 y 100 ml.
+
+7.2.2 Pipetas de 10, 20 y 50 ml.
+
+7.2.3 Matraces Kjeldahl de 500 u 800 ml.
+
+7.2.4 Balanza analítica.
+
+7.2.5 Espectrofotómetro capaz de efectuar lecturas a 436 nm.
+
+7.3 *Reactivos.*
+
+7.3.1 Solución de vanadato amónico.‒Disolver 2,5 g de vanadato de amonio en 500 ml de agua hirviendo. Después de refrigeración, acidular con 20 ml de ácido nítrico concentrado y diluir hasta 1.000 ml.
+
+7.3.2 Solución de molibdato amónico.‒Disolver 100 g de molibdato amónico en 500 ml de agua a 50 °C. Después de refrigeración añadir con precaución 100 ml de ácido sulfúrico concentrado. Después de enfriar diluir hasta 1.000 ml.
+
+7.3.3 Reactivo molibdato-vanadato.‒Una parte del reactivo 7.3.1 y una parte del reactivo 7.3.2.
+
+7.3.4 Ácido nítrico concentrado.
+
+7.3.5 Ácido sulfúrico concentrado.
+
+7.3.6 Ácido sulfúrico diluido 1:10.
+
+7.3.7 Selenio en polvo.
+
+7.3.8 Agua oxigenada de 20 volúmenes.
+
+7.3.9 Fosfato monopotásico.
+
+7.4 *Procedimiento.*
+
+7.4.1 Análisis de la muestra:
+
+Introducir en un matraz Kjeldahl 5 g de la sustancia a analizar preparada según el método 1. Añadir 50 ml de H<sub>2</sub>SO<sub>4</sub> concentrado y el catalizador de selenio (utilizando una punta de espátula). Dejar 12 horas en reposo. Añadir unos 20 ml de agua oxigenada. Calentar seguidamente la mezcla hasta ebullición y una vez clarificada prolongarla durante 2 horas de manera que se hidrolice todo el ácido pirofosfórico que hubiera podido formarse, Trasvasar la mezcla después de refrigeración a un vaso volumétrico de 250 ml y completar hasta el trazo de aforo con agua destilada. Si hubiera una precipitación de sulfato de calcio o de ácido salicílico, pasar la solución por un filtro cuantitativo. Para la dosificación del ácido fosfórico, hacer pasar con la pipeta 10 ml de filtrado (el equivalente de 0,2 g) de la muestra en un matraz aforado de 100 ml y añadir 20 ml de ácido sulfúrico diluido y 20 ml de reactivo de molibdato-vanadato. Completar la solución hasta el trazo de aforo con agua y efectuar la medida espectrofotométrica al cabo de 10 minutos.
+
+7.4.2 Preparación de la curva patrón.
+
+Disolver 4,393 g de fosfato monopotásico, previamente secado sobre ácido sulfúrico concentrado, en 1.000 ml de agua. La solución contiene un mg de P por ml. Las soluciones patrón conteniendo de 1 a 45 μg de P por ml se preparan trasvasando con la pipeta la cantidad deseada de solución P en un vaso volumétrico de 100 ml, añadiendo 20 ml de ácido sulfúrico diluido y 20 ml de reactivo de molibdato-vanadato y completando hasta el trazo de calibrado con agua destilada. Al término de 10 minutos se mide la absorción de la solución (en una cubeta de 1 cm de paso) a 436 nm contra una solución testigo, sirviéndose de un espectrofotómetro. Trazar la curva patrón.
+
+7.5 *Cálculo.*
+
+Calcular el contenido en fósforo total, expresado en porcentaje de P<sub>2</sub>O<sub>5</sub> a partir de la lectura en el espectrofotómetro y con ayuda de la curva patrón.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+UDwvbWk+CiAgICA8bW8+PTwvbW8+CiAgICA8bWZyYWM+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5BPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtbj40MDA8L21uPgogICAgICAgICAgICA8bW8+JiN4MjJDNTs8L21vPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+TTwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAAlCAYAAAAHgqbCAAAD3UlEQVR4nO2c3ZGrMAyFVUvqSCGphFJ4vW1QDL3kPmTPoCiSsAk/DpxvhtlJYkAgH8mWPStCCCHk5+hE5HG0EYS0ylNExqONIKRFHvISyFNE7gfbQkhzDDIJZDjYFkKa4i4vYdxkEsntUIsIaYj+7xCZMkkfNyfkWuiMoecihFyeTj7nHKO8BNLtbw4hbTHK59pHJyz5/jwYK3NhazmYnGfHIe9Xl9S8g6ntGK7ml0HiZ8K7OKzki5KaTWN6knTGUlvrz3QVv+A5534/bOEwcoTIq8R21lJb69WRq/hlkPnscGgWyRyBSdLZVjTxwlvmCn5BlSrKiDfxh5i7UhKp7PgQDsIRVRlw/kPiKKCHDFEa7Qva4Po3097abp3ivXA9B5iroKCttanE5owlfiEbEDlCO1jjpUQvAgwydcZRXh2kN+fazxCerlgM5jPsyu71SNqifRSJ7P2zSD2KL5ASm+eo9UvUpuQ4w1xmM6I05o1xEe1tNESZLsoOXqTDb9o5sKVXbWwHuYtvG8SlbcM9bIkwEojXHuKLsO+kxuaMGr9syb8LHm9kqdySRUJEcE3UQXGtuTF0FgntuWsIRP7O97JThBVIjc0ZNX7ZkqM7608JRI/zS37LBFJavYjaWBvWEog+D0eNQGpszmhFIJdnSQbJJsmaTCBjwT3nordmLYE85X0IU5tBamzO+EYgnIOsSI0j0Bm8MbD3fSYQr0Pr3+baPMz3awikd76vFUiNzRm/kEHmgiUOD7u95JuKnL1fybVskAj9og0tiSTe3iN0CksmEG2kPacraPPNJN3OpfDXVqRKOqlXuCi1OaPWL3sTjSae4lcm54KZPW8Jc6IEegid3tPb81NipF0H8c7xru1h1yW8TjTXxosgdpihz7HRCwKylaPRPKsn9KiyV/JcEUv9shd6XUs/d1TE0cNpW6nU18yCaQm4z9x1RmUr15I2Zg3H/hJYiI0yZ7byfxd/rUuf/00g0AEtyvp3mTZHUiA7EGWQs4IObJ87W+vR62FZJdRbKqhh/LtulkUGeRcqBbIxcP4V6OR9QfTpfPY6nBZPJoJMPCVAILDFZpGbTAKnQDZEv3z9jwbODLYKgb0FklVQAQQi4lenMDQUoUA2RU/cW5o8b0m0jWgvgWBSnVUUtUDsjmcMvcT8ToGQr+nls9O2PAcBOovY//dLgZDVsCVn74g2rIr4VSyvqLFGFUsLRGcRKzwKhGyKV71rYR3E2x3uCYECIZsSlbdtFthrJR1iiHZNWJBVrjKHJDuTrf/YXQRZVWrJTgOL3XmgJ+NY2Izu61W7CCGEEELINvwHxNrhjcSkNK0AAAAASUVORK5CYII=)
+
+Porcentaje P<sub>2</sub>O<sub>5</sub> = 2,29 • porcentaje P
+
+Siendo:
+
+A = μg de fósforo leídos en la curva.
+
+M = peso, en g de la muestra.
+
+7.6 *Bibliografía.*
+
+Pulls, G. (1961) Landwirtschaftliche Forschung, 14, 38-39.
+
+8\. CLORUROS
+
+8.1 *Principio.*
+
+Extracción de los cloruros del producto picado con agua caliente y alcohol y posterior determinación por el método Carpentier-Vohlard.
+
+8.2 *Material y aparatos.*
+
+8.2.1 Papel de filtro.
+
+8.2.2 Embudos.
+
+8.2.3 Matraces aforados de 250 y 200 ml.
+
+8.2.4 Erlenmeyer de 150 y 250 ml.
+
+8.2.5 Pipetas de 5 ml.
+
+8.2.6 Bureta con divisiones de 0.1 ml.
+
+8.2.7 Balanza analítica.
+
+8.2.8 Placa calefactora.
+
+8.2.9 Agitador magnético con calefacción.
+
+8.2.10 Agitador de imán-teflón.
+
+8.2.11 Vasos de precipitado de 500 ml.
+
+8.2.12 Centrífuga provista de tubos de al menos 100 ml de capacidad.
+
+8.3 *Reactivos.*
+
+8.3.1 Solución titulada de nitrato de plata 0,1 N.
+
+8.3.2 Solución de ácido nítrico concentrado d = 1,63.
+
+8.3.3 Solución acuosa de sulfato férrico amónico (alumbre férrico) al 4 por 100.
+
+8.3.4 Nitrobenceno.
+
+8.3.5 Solución titulada de sulfocianuro potásico o amónico 0,1 N.
+
+8.3.6 Solución de alcohol etílico al 40 por 100.
+
+8.3.7 Reactivo de Carrez.
+
+8.3.7.1 Solución acuosa de ferrocianuro potásico al 15 por 100.
+
+8.3.7.2 Solución acuosa de acetato de cinc al 30 por 100.
+
+8.4 *Procedimiento.*
+
+8.4.1 Preparación del extracto.
+
+Pesar, con precisión de 1 mg, un peso P (alrededor de 10 g) de la muestra preparada según el método 1, introduciéndola en un Erlenmeyer de 250 ml. Añadir 150 ml de alcohol al 40 por 100. Poner en el agitador y calentar suavemente. Prolongar la agitación durante una hora al menos. Transvasar a un matraz aforado de 250 ml con alcohol de 40 por 100 a través de un embudo y una varilla. Añadir consecutivamente 5 ml de cada uno de los reactivos de Carrez y enrasar. Agitar y dejar 10 minutos en reposo. Centrifugar 5 minutos a 2.000 r. p m. Separar la grasa que sobrenade con ayuda de una espátula. Filtrar en un matraz aforado de 200 ml hasta el enrase. Verter el contenido del matraz en un vaso de 500 ml, lavando con una pequeña porción de agua. Este líquido de lavado se une al inicial en el vaso. Colocar en una placa y evaporar el líquido hasta 100 ml aproximadamente para eliminar el alcohol. Dejar enfriar y llevar el líquido de nuevo al matraz de 200 ml y enrasar con agua.
+
+8.4.2 Introducir en un Erlenmeyer de 250 ml y agitando suavemente entre adición y adición: 10 ml exactamente medidos de solución 0,1 N de nitrato de plata, 1 ml de solución de ácido nítrico concentrado, 1 ml de solución de sulfato férrico amónico al 4 por 100, 10 ml del extracto problema, 50 ml de agua destilada.
+
+Dejar reposar durante 10 minutos en la oscuridad. Añadir 1 ml de nitrobenceno para aglomerar el precipitado y obtener una solución limpia. Valorar el exceso de nitrato de plata con la solución de sulfocianuro 0,1 N, hasta que se produzca el viraje.
+
+8.5 *Cálculos.*
+
+El tanto por ciento de cloruros presentes en la muestra, expresado en cloruro sódico, viene dado por la fórmula:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+QzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+TjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bW8+PTwvbW8+CiAgICA8bWZyYWM+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtbj4xNCw2MjU8L21uPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgICAgICAgICAgPG1vIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+KDwvbW8+CiAgICAgICAgICAgIDxtbj4xMDwvbW4+CiAgICAgICAgICAgIDxtbz4tPC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm48L21pPgogICAgICAgICAgICA8bW8+KTwvbW8+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+UDwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARsAAAApCAYAAAAF6I0zAAAFdklEQVR4nO2c0ZHqMAxFVQt1pJBUQin8vjYohl72fSyaFeJKlhMDSbhnJrNDcGIna13LsowIIYQQQlJOL7jfz/24DbznqGtGP+8ottouQlYzS00QVDxaxqDlovtd5E+EsnJnV26JaM33ayZ3LrrX5Oo7d9Y3guv9IORQ3OTP+FuGfJW22KixXoLvL/Jr7BY1bFTfGs6gHdnzqrhZYfoZ0I4lTB+ql5CXc5NcbM7SFpuWRyOCRUgFynoRZ3kWpR6mRjv882rbffvUC1rTlqUgsSRk92RiM8lvx9eRPxIb9Rgiw5yC88jQ1dtZOrrfknbo9/Z59dnQNZ/ybrRuxnDIocjERg2tJTYqELP0xT1OrhyK1aBpVoTWnxmpf97Ma7t11h9h67Bxq+z9XIXeDTkYkdhc5M8AM7GxgVVrHGpUmUGpOESejxp71eAv0o4/+efNBKUSq2pxNXVYr0vfT8tbJOQwILGZ5TmOEhmGCgYSlZZnoEHbDK27Msq34k+ozKvFRgQHoFsxoZY3ScjuQAbq4xRZx9fvkNjo6Iw8lzOoN2tjJXZyRLGJvD5CdgeKYXiWejaR2OjUq0pleiRSW8YfFbPxOUOZMKwRm0+shhHyEqzx2czf7LCGGS0di+C4xATOtbgE9/cs8WwyD2LUahQ9G0KkZqCt+IF6B+g8ymnpnZZUja4SVP1Ens0asSHkMCwRG5/2rwZrvQC/0nSSWDQ0axZNR25S3zpQ8ZrQ8746g3iJ2HDrwovRDreleeok22rPKKxxtxLpvNjYfBhvoGi65fcdRfWiOEivFxSJU+t5fY7QqBwXX69mB7fqSr059DC+EvJ5bO6G/99cgnJzcj1ihNHsgbNsL6bQ2q6wB2YpiF20R8Sq5hE73R6eyY7Gvr12oLBErq4dqbOOPXKE3BqaDbtFdIvFHjlJUSyzDWk62m31H7SGrQeyKj+lgAJy2bxa5/7Z//Qq2xv5R1A2iA+ydkPnpyi/10xstDMfLegTrURsiVYehOL/Ny2xsUvFUZzgiGKzFy6yr/ffJeAVz8Z3Sr/5LKrQ7qxVA4+MIzMuH09AZaobx1D8I7pXy7OwZX2bKm2O6BH5WR6nWC2xEXmcUvlymdj0vBdCnojExhqLBS1vobiC38w13e9pr/WfUQbi1X1GSVe9G8cyz8bXnxm9pqR7Mam0OWPN9LUiNrYcepdRslj1vSgo6Jwde4ijkRVkGZhR0lCUyh15LchdR1vrfbLSLM8iOAluW09eQCQ2qLxP8oqumcznapsjtH2vFBsRPKAgsVnyXkbzj8cujwcqv1imZCM02pORdXzv1WT1oSPaeLdGbOR+PfKaIrzY9LQ54l1iY+u6ms9RElvPexnNp42Gx5vFJtsAhr7LOn4l2zAr49swSmzsdXr0iE1PmyPWBOZ7xUbPq7hlMZue90LIE0s8myxAa6ksw2b0jJ6jxEaNrtoGJDZrjdBObXvjGEvExk+lo5hNz3sRYcyGOHrERjtylKrcszEs2yHqf3IRlZnd+RFigzbF9YpNT5sztC0t78bnZiwRG5HHFapoZc3y7mnUEbCreejYa1JfGdvJKiOLvjDbmaPdnlnHF1Ovv+ZcKLMmQOxjT/rXryxVhBgFzattbhGtCCpoT030zFNwHl3rxWbJeyGYb83Y79rYZvF5NugadG+Ez3tBBtkq4+tqbRzzm+zUAP10Qo3Zl7NEBlp5riooNwh1Sl/u1jiPQEllS94LwXxrxj4ZQMt7I8TyjRn7ZBCRZ0MIYknGPiEi8ic2hFTozdgnX47tLNXfmiVEpC9jn5CH4Cjn16QHruQRQt4CxYYQ8hYoNoSQt0CxIYS8hd6MfUII6WZpxj4hhBBCCCGEkO/iP8JJDXYbNFt6AAAAAElFTkSuQmCC)
+
+Siendo:
+
+P = peso, en g, *de*la muestra de la que se ha obtenido el extracto.
+
+n = volumen, en ml, de la solución de sulfocianuro gastados en la valoración.
+
+9\. GRASA
+
+9.1 *Principio.*
+
+Extracción de la grasa de la muestra previamente hidrolizada y desecada, por medio de hexano o éter de petróleo. Eliminación del disolvente por evaporación, desecación del residuo y posterior pesada después de enfriar.
+
+9.2 *Material y aparatos.*
+
+9.2.1 Erlenmeyer de 500 ml.
+
+9.2.2 Vidrios de reloj.
+
+9.2.3 Placa calefactora.
+
+9.2.4 Papel de filtro Albet 242 ∅ o similar.
+
+9.2.5 Embudos.
+
+9.2.6 Extractor Soxhlet.
+
+9.2.7 Estufa eléctrica.
+
+9.2.8 Balanza analítica.
+
+9.2.9 Desecador provisto de un deshidratante eficaz (gel de sílice) con indicador de humedad.
+
+9.3 *Reactivos.*
+
+9.3.1 n-hexano o éter de petróleo con un intervalo de punto de ebullición 40-60 °C e índice de bromo inferior a 1, o éter etílico anhidro exento de peróxidos.
+
+9.3.2 Piedra pómez.
+
+9.3.3 Ácido clorhídrico 3 N.
+
+9.4 *Procedimiento.*
+
+Pesar con aproximación de 1 mg, 2,5 g de muestra preparada como en el método 1 e introducirlos en un Erlenmeyer de 500 ml. Añadir 100 ml de ácido clorhídrico 3 N (9.3.4) y unos trozos de piedra pómez. Cubrir la boca del Erlenmeyer con un vidrio de reloj, y someter la mezcla a una ebullición suave en la placa calefactora durante 1 hora. Enfriar y filtrar sobre doble filtro evitando cualquier paso de materia grasa al filtrado. Lavar el residuo con agua fría hasta desaparición de la reacción ácida. Verificar que en el filtrado no existe materia grasa.
+
+Colocar los papeles de filtro conteniendo el residuo sobre un vidrio de reloj y desecarlos durante hora y media en la estufa a 95-98 °C. Una vez seco el conjunto, introducirlo en el cartucho de extracción, extrayendo con el Soxhlet con éter etílico durante 6 horas, regulando la ebullición de forma que se produzcan 15 sifonadas al menos en cada hora. Eliminar el disolvente en el rotavapor y eliminar el resto del disolvente en la estufa durante hora y media a 75 °C. Enfriar el matraz con la grasa en desecador, matraz que previamente fue tarado, y pesar cuando se alcanza la temperatura ambiente.
+
+Repetir el calentamiento y la pesada hasta que la diferencia entre dos consecutivas sea menor de 5 mg.
+
+9.5 *Cálculos.*
+
+Expresar el resultado, en porcentaje de peso:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+czwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bW8+PTwvbW8+CiAgICA8bWZyYWM+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPic8L21pPgogICAgICAgICAgICA8bW8+LTwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPic8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+JzwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KICAgIDxtbz4mI3hENzs8L21vPgogICAgPG1uPjEwMDwvbW4+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQUAAAAmCAYAAADN2Y69AAAEW0lEQVR4nO2c3ZHqMAyFVQt1UAiVUAqvtw2KSS97H0Cz4kSS5eAkGzjfTGaX4F/FkmXZRIQQQgj5Mk4ict67EYSQ9biLyE9yXZ3004b1EUJ24CQPhURlv8ivsp6e927yUOyt6iOE7ECkpCIPI/Dz/CvymMlvTrq16iOE7ECmpNfnd+odXJ7XVvURQnagMnOPXOtvXR8hpJNISVVBfw5eHyGkE1VS71pjbb91fYSQTjJ3/hPqIwdH97HfDWaROiOU1Lr+ekWHnP6SUVh965MHM8gR+UZPQc9EeG04S01vUd9DvvVgxif26Vs4mlE4FfNO4o/LSX49GyxHt0Stl+NtkeI9L99Lg7/xYAYjxsfFzoxbGPd364sU2jJJexk6QRmqu6ifOqFrWVo/th3LmxX8TQcz1I0ix8Nb8q45PkfVl+mZGoSWwUElVv30DIltZ0u/Z97CkoMZWphekQXU/Bf5FS4K1C5TIncGg0JeGi3/BOmx7ZPMH3JUVsVl1LTYpkqbW6Cco0FTkXOlT1Y20YzVIxvyinocVm4q88r4QKNgx7yXVsuNvH3VvVkMovdgxl389Qo2Tn+dpmWfZf7jFPzsWb47fPZcIayr5TZlngLWn80Mk/hGodLmFioL/Iyyrsi50ifv2eBg6ZGNLScLZuP16bEeGzDsMQgic6Og+T10XF7NXyQ0GD0HM7RD2AktPPICvAbpd3YQ4BrpInNjFXXEc4VwbaVERsFL3/rpLcqkp80Znjw14BS1IZNzq093p2xb3hLZjObfQa4W1jvu2cre3ChUHm4243kNjJRSy3pnlsG8I4yCPPN7XkgEGoWeNmd4zyRqSyZnkVqfvKAVPude2Yxmb2WnUUgq8oyC9102WL1lSE8abMMoo2Dz6dVjFHranOE9TPcBStso2DStPulAi/a6e2RD5oxcPmweU/DQWTAL9HmVeoM13A6BMquDbpRRQAH2egojZ8/qoZSWUaj0yYsfYJpe2YgwpmAZHWjMzhpYzzTyUhftPiA6+Dyr493PBmvWoWshzQXujzAKN+d+r1HoaXPGWerLjdYyrdInrEsHMC6LWuUcGfs+x9HvdlxjS3K1cwp2NqpYaVUoOwAxUh41DtF6MQ+6zF6adwKNKCQbybdlVAymF3yttjlDdzYqtJZplT5hoFHl+Y5s9kbbHF3Z+xxHGryKrCqGwVPi4ScaPaFVBiJuj3l5vLI9JkjjKU4rDdalr+CK8qBbrsqEOzET9NVTumhHptKvjGxXCHcAMjlX+3QxffEmiSWy+QssfZ9jJRBe5ebU7zFJbtgjncPnFo01HJOfvFTblUqQbwmTxA9t1GD9Bpa+z9H+T0gXkafwDt6ZAQt/vVpn6fsc7f+EdKFGYSRZRPoe3Cc+fL8i2QQ7yG6yjpsZbeXRIPTB9yuSTbABNq7v/zZ8vyIh5IUjbJ0SQjaERoEQ8gKNAiHkBRoFQsgLvcf4CSEfzNJj/IQQQgghhBBCcv4DPXp5fvmL2lUAAAAASUVORK5CYII=)
+
+Siendo:
+
+P = peso, en g, del matraz.
+
+P' = peso, en g, del matraz con la grasa.
+
+P" = peso, en g, de la muestra.
+
+9.6 *Referencias.*
+
+1\. Norma ISO-1443.
+
+10\. HUMEDAD
+
+10.1 *Principio.*
+
+Formación de una pasta con ayuda de arena y etanol, que es sometida primeramente a un presecado en baño de María y a continuación secada a 102 ± 2 °C hasta obtener un peso constante.
+
+10.2 *Material y aparatos.*
+
+10.2.1 Balanza analítica.
+
+10.2.2 Cápsulas de acero inoxidable con tapa de 60 mm de diámetro y 25 mm de altura.
+
+10.2.3 Varilla fina de vidrio con punta aplastada, que entre por completo en la cápsula.
+
+10.2.4 Desecador provisto de un deshidratante eficaz (gel de sílice con indicador de humedad).
+
+10.2.5 Baño de agua.
+
+10.2.6 Estufa eléctrica regulada a 102 ± 2 °C.
+
+10.3 *Reactivos.*
+
+10.3.1 Arena de mar lavada a los ácidos, cuya granulometría esté comprendida entre 0,25 y 1,4 mm.
+
+10.3.2 Etanol del 95 por 100 en volumen como mínimo.
+
+10.4 *Procedimiento.*
+
+Secar la cápsula conteniendo una cantidad de arena igual a 3-4 veces el peso de muestra y la varilla de vidrio, durante 30 minutos, en la estufa regulada a 102 ± 2 °C.
+
+Sacarla de la estufa e introducirla en el desecador, hasta que alcance la temperatura ambiente, y pesar el conjunto con 0,1 mg de aproximación.
+
+Introducir en dicha cápsula un peso de muestra preparada según el método 1 aproximadamente 5 g y pesar de nuevo con aproximación de 0,1 mg.
+
+Añadir a la cápsula 5 ml de etanol (10.3.2) y remover la mezcla con la varilla de vidrio. Colocar la cápsula al baño de agua regulándolo a una temperatura comprendida entre 60 y 80 °C para evitar las posibles proyecciones, mantener el calentamiento hasta que el alcohol se evapore. Secar la muestra durante cuatro horas en la estufa a 102 ± 2 °C. Retirar la cápsula de la estufa y colocar en el desecador, hasta que alcance la temperatura ambiente. Pesar con aproximación de 0,1 mg.
+
+Repetir las operaciones de secado hasta peso constante.
+
+Efectuar por lo menos dos determinaciones sobre la misma muestra.
+
+10.5 *Cálculos.*
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+aDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+dTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZDwvbWk+CiAgICA8bW8+PTwvbW8+CiAgICA8bXN1Yj4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPihNPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtbj4xPC9tbj4KICAgICAgICA8L21yb3c+CiAgICA8L21zdWI+CiAgICA8bW8+LTwvbW8+CiAgICA8bXN1Yj4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPk08L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1uPjI8L21uPgogICAgICAgIDwvbXJvdz4KICAgIDwvbXN1Yj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj4pPC9taT4KICAgIDxtZnJhYyBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bW4+MTAwPC9tbj4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPk08L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1uPjE8L21uPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgIDxtbz4tPC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPk08L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,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)
+
+Siendo:
+
+Mo = masa, en g, de la cápsula, la varilla y la arena.
+
+M<sub>1</sub> = masa, en g, de la cápsula, la varilla, la arena y la muestra antes del desecado.
+
+M<sub>2</sub> = masa, en g, de la cápsula, la varilla, la arena y la muestra después del desecado.
+
+10.6 *Observaciones.*
+
+La diferencia entre los resultados de dos determinaciones simultáneas o realizadas inmediatamente una después de la otra, efectuadas por el mismo analista, no debe ser superior a 0,1 g de agua por 100 g de muestra (0,1 por 100).
+
+10.7 *Referencias.*
+
+1\. Norma internacional ISO R-1442.
+
+11\. AZÚCARES TOTALES, REDUCTORES Y LACTOSA
+
+(Método de Luff-Schoorl)
+
+11.1 *Principio.*
+
+Los azúcares se disuelven en etanol diluido o bien en agua y después de la eliminación del alcohol se valoran por el método de Luff-Schoorl antes y después de la inversión.
+
+11.2 *Material y aparatos.*
+
+11.2.1 Pipetas de 1, 2, 5, 10, 25 ml.
+
+11.2.2 Probetas de 50 ml.
+
+11.2.3 Matraces Erlenmeyer de cuello esmerilado de 300 ml.
+
+11.2.4 Bureta con divisiones de 0,1 ml.
+
+11.2.5 Refrigerantes de reflujo.
+
+11.2.6 Baño de arena.
+
+11.2.7 Baño de agua.
+
+11.3 *Reactivos.*
+
+11.3.1 Etanol diluido al 40 por 100 (v/v) d 20 °C ≃ 0,948 llevado a punto de viraje con fenolftaleína en una parte alícuota.
+
+11.3.2 Solución de naranja de metilo al 0,1 por 100 (p/v).
+
+11.3.3 Ácido clorhídrico 4 N.
+
+11.3.4 Ácido clorhídrico 0,1 N.
+
+11.3.5 Hidróxido sódico 0,125 N.
+
+11.3.6 Reactivo de Luff-Schoorl.
+
+11.3.6.1 Solución A.-50 g de ácido cítrico en 500 ml de agua.
+
+11.3.6.2 Solución B.‒Disolver 143,8 g de carbonato de sodio anhidro en 300 ml de agua caliente, dejando enfriar.
+
+11.3.6.3 Solución C.‒Disolver 25 g de sulfato de cobre pentahidrato exento de hierro en 100 ml de agua.
+
+Mezclar cuidadosamente la solución A con la B, añadiendo también con suave agitación la solución C, aforando el conjunto a 1.000 ml. Dejar reposar una noche y filtrar. El pH de la solución debe ser alrededor de 9,4.
+
+Comprobar las concentraciones, que deben ser 0,1 N para el cobre y 2 N para el carbonato sódico.
+
+11.3.7 Solución de tiosulfato sódico 0,1 N con factor exactamente calculado.
+
+11.3.8 Solución de almidón.‒Pesar 5 g de almidón soluble, haciendo un engrudo con 30 ml de agua hirviendo; este engrudo se vierte sobre 1 l de agua hirviendo, manteniendo durante 3 minutos la ebullición, dejar enfriar, y añadir 10 mg de ioduro mercúrico como agente conservador.
+
+11.3.9 Ácido sulfúrico 6 N.
+
+11.3.10 Gránulos de piedra pómez.
+
+11.3.11 Solución hidroglicérida de invertasa, conteniendo 2.750 unidades/ml.
+
+11.3.12 Suspensión de levadura (Saccharomyces cerevisiae) 25 g de dicha levadura fresca en 100 ml de agua. Esta solución se conserva como máximo una semana en el refrigerador.
+
+11.3.13 Soluciones de defecación.
+
+11.3.13.1 Carrez I.‒Disolver en 50 ml de agua 24 g de acetato de cinc (CH<sub>3</sub>COO)<sub>2</sub> Zn.2H<sub>2</sub>O y 3 *g*de ácido acético glacial. Completar a 100 ml con agua destilada.
+
+11.3.13.2 Carrez II.‒Disolver en 50 ml de agua 10,6 g de ferrocianuro potásico Fe(CN)<sub>6</sub>K<sub>4</sub>.3H<sub>2</sub>O completando a 100 ml con agua destilada.
+
+11.3.14 Isopentanol como antiespumante (opcional).
+
+11.4 *Procedimiento.*
+
+11.4.1 Preparación del extracto.
+
+Como en 8.4.1.
+
+11.4.2 Valoración de azúcares reductores.
+
+Tomar con una pipeta una cantidad del extracto no superior a 25 ml y que contenga menos de 60 mg de azúcares reductores expresados en glucosa. Si fuera preciso tomar una cantidad menor de 25 ml (caso no frecuente en productos a base de carne) se completa hasta dichos 25 ml con agua destilada, determinándose el contenido de azúcares reductores según el método de Luff-Schoorl posteriormente descrito.
+
+Los resultados se expresan en glucosa por ciento.
+
+11.4.3 Valoración de azúcares totales, después de la inversión.
+
+Se pueden seguir dos métodos:
+
+11.4.3.1 Método químico.‒Tomar por medio de una pipeta 50 ml del extracto en un matraz de 100 ml aforado, y añadir cuatro gotas de naranja de metilo (11.3.2) y después gota a gota ácido clorhídrico 4 N (11.3.3) hasta viraje neto al color rojo. Añadir posteriormente 15 ml de clorhídrico 0,1 N (11.3.4) y llevar al baño de agua hirviente durante 30 minutos, Enfriar rápidamente a 20 °C y añadir 15 ml de NaOH 0,125 N, o la precisa para el viraje del indicador. Aforar a 100 ml con agua destilada.
+
+Tomar una cantidad no superior a 25 ml que contenga menos de 60 mg de azúcares totales, expresados en glucosa, como en el apartado 11.4.2, determinándose el porcentaje de azúcares reductores según el método de Luff-Schoorl, que se expresa en azúcar invertido o bien en sacarosa, multiplicando el valor obtenido por el factor 0,95.
+
+11.4.3.2 Método enzimático.‒Tomar 50 ml del extracto correspondiente en un matraz de 100 ml aforado, añadir 2 ml de solución hidroglicérida de invertasa y dejar reposar una hora a 50 °C en estufa. Enfriar a 20 °C enrasando exactamente a 100 ml.
+
+Tomar una cantidad no superior a 25 ml y proseguir como en los casos anteriores y con las mismas especificaciones.
+
+11.4.4 Valoración de lactosa.
+
+Tomar en un matraz aforado de 100 ml, 50 ml del extracto correspondiente. Añadir 5 ml de suspensión de levadura (11.3.12), homogeneizar y dejar durante 2 horas en un baño a 39 °C. Enfriar a 20 ºC. Añadir 2,5 ml de solución Carrez I (11.3.13.1) agitar, añadir 2,5 ml de solución Carrez II (11.3.13.2) y agitar de nuevo. Completar el volumen a 100 ml, mezclar y filtrar. Tomar 25 ml de filtrado como máximo, y con un contenido en lactosa entre 40 y 80 mg introducirlos en un Erlenmeyer de 300 ml.
+
+Proceder de la misma forma con un ensayo en blanco de 5 ml de levadura.
+
+Determinar el contenido en lactosa según el método de Luff-Schoorl, los resultados se expresan en lactosa anhidra por ciento.
+
+El método se basa en el hecho de que el *Saccharomyces cerevisiae* hidroliza todos los azúcares exceptuando la lactosa.
+
+11.4.5 Valoración según el método de Luff-Schoorl.
+
+Tomar con la pipeta 25 ml exactos del reactivo de Luff-Schoorl y verterlos en un Erlenmeyer de 300 ml sobre las correspondientes alícuotas de azúcares, añadir unos gramos de piedra pómez y calentar en tela metálica con mechero fuerte de manera que hierva dos minutos aproximadamente, llevar el Erlenmeyer a un baño de arena previamente calentado de forma que se caliente únicamente el fondo del recipiente, adaptándose un refrigerante de reflujo y manteniendo la ebullición durante 10 minutos exactos.
+
+Enfriar rápidamente, y valorar a los 5 minutos, añadiendo 3 g de ioduro potásico disuelto en 2 ml de agua, y lentamente para evitar las proyecciones, 25 ml de ácido sulfúrico 6 N, valorando el iodo puesto en libertad con tiosulfato 0,1 N, hasta obtener un color amarillo débil, añadir el indicador de almidón (11.3.8) y terminar la valoración hasta decoloración.
+
+Efectuar una valoración análoga en blanco, mezclando 25 ml del reactivo de Luff-Schoorl con 25 ml de agua, sin previa ebullición, y con la adición de ioduro potásico y sulfúrico 6 N.
+
+11.5 *Cálculos.*
+
+Con la ayuda de la tabla 1 determinar la cantidad de azúcar en mg correspondiente a la diferencia entre los volúmenes de tiosulfato en ml consumidos en la valoración en blanco y problema.
+
+Sean a los mg de azúcares correspondientes:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ejwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+JiN4RkE7PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5zPC9taT4KICAgIDxtbz49PC9tbz4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1uPjI1PC9tbj4KICAgICAgICAgICAgPG1vPiYjeDIyQzU7PC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlA8L21pPgogICAgICAgICAgICA8bW8+JiN4MjJDNTs8L21vPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+VjwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPQAAAAlCAYAAAB1TcR0AAAEYUlEQVR4nO2c0ZHjMAiGqSV1uBBX4lL8em2kmPSSe8j8c4QgBHLs5Jz/m/HsrCPLRAIhQLsihBBCCClz+bQAhJB/XETkbq650da2i9oSQg7mIiI3c2+Rh6Euzv3pCKEIIWMs4m+Zr/Iwao01fELIl9HyuKs8DBrGDq99D54hhHwpMGjgxc52S14Fu4C70PsTsis3eRicxyx9o0abtfG5Tabdg/cRQjYAY+yVo+5BO3h4z/Oif23Q10ZbQshGsqUoGOZITD3J80JAgz4AxDisM/4OV8nHxqhfj+qH3rp34+ir+IH8uwJ68t1E8RvxuUptzGDQIyfF7PykPDReaBvqleGMx9bO+J0qMGtaZ5X6ArjIWCLLZtBFNhq07vSMq7gdrF+CddI6q7QN8yr/dru6DZziCOgP8xTZ6RNRQxTKz5Yq9074/Ar0ynV6oSmSV/b+Fkdo+7vJ88GVZkye8dDeedVMoI7nZ/FXMJHXoN/zHGuiDfq/mPZW9pu8Dnyrr8yKaFfSisw9enJ4SoRLj7PuZ3LuebmSzLxkximjA5mx0vPGBGRAy6D1IGuwvdB4sTb2++h7ktdti/0dC4Wtvc3mmd675qAt2rc8dKWYj4MFVgkzMvfIyHGRV2NsxVmQQcsJo7V9ZOYlI19GBzJj5elNlLC1C0TvOlU+JVrl7ZahVVObJPa+kQfQgwlZVtXGKuckvmxQOk9h7YreMuiRYr4dk4rMvT57ctg6pTcG0WeQS89Pdl6y49TTgcxYeZnloyowf/6D64l0sC2xp8FKrGkZFPrqxebRSmuffYdBi9SL+dagKzJHVOXAPLYUPWvQmXmpyNfTgcxY2QUF947g08a6q0HrODXzWTSZ3ta90sbK8C6D1s/hqhh0ReYeFTlunc+zBp2Zl4p8ozoQOQ2ejwgY8dBRgkQTTWZPAdFnNiv7LoO2nqDqoSsyR1TkwHePFoysQWfmpSJfz6Az77IG3NNXxtCSG1hMjhcLevejyezFe702s7n/DoMeKeZbg67I3KIih2eUeFcvvvaezcxLRb5RHdBjZb045D6ylq4z+t41umvwqi52rOxOKNxBTaphZqXCF9MvxcRYoskU9V77zJJosyUpZnMB+Gkz1pnFzksUZmVuUZEDmXavD09Oz3g9DxjNS0W+UR2IkmKZHcke7HWqMvqrK0134fBWnUz8ZOvQLYWyfXvYFcpT+l4b+65FXrdd+pnJfAZlGynmtzL/me/VIitH5DU85fDGqTWHkfxb5PPojdUsr17qE9vkPU9V4nu1dh3e/zUjO9DzQOQ87Hmqsvf8IkwGHkLLQ5PzMXKqskLkpT+1K/k5YNDk/FRPVVaBl/ZCji3nwkkHPamrcLB/hcqpSk1UHbJ4OQIcmyU7ESWTyHmplHg12Sy2bgvjn4Q6RsgujBr0yDvgpa/ChCshu3CEQYs8e3SWqgjZiaMMWntplqoI2YnqqcotjPwNPSEkyeipylHwn3cIIYQQQggh38FfdvE/B/5xosoAAAAASUVORK5CYII=)
+
+Siendo:
+
+P = peso, en g, de la muestra inicial de la que se obtuvo el extracto.
+
+V = volumen, en ml, de alícuota tomada.
+
+Esta expresión es válida cuando el extracto se haya enrasado a 250 ml.
+
+11.6 *Observaciones.*
+
+11.6.1 Los resultados obtenidos para azúcares totales realizando los dos tipos de inversión son semejantes. Pero si el análisis no se realiza con frecuencia, es preferible el método químico, por el posible deterioro de la invertasa y su alto precio.
+
+11.6.2 La diferencia entre el porcentaje de azúcares totales y el de azúcares reductores, multiplicado por 0,95 da el contenido en sacarosa de la muestra.
+
+11.6.3 El contenido en azúcares reductores, exceptuando la lactosa se obtiene multiplicando el valor de ésta, obtenido según (11.4.4), por 0,675 y restando este resultado del contenido en azúcares reductores totales.
+
+TABLA 1
+
+Para 25 ml de reactivo Luff-Schoorl
+
+<table>
+<thead>
+<tr>
+<th>
+<p>Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub></p>
+<p>0,1 N</p>
+</th>
+<th colspan="2">
+<p>Glucosa, fructosa Azúcares invertidos</p>
+<p>C<sub>8</sub>H<sub>12</sub>O<sub>6</sub></p>
+</th>
+<th colspan="2">
+<p>Lactosa</p>
+<p>C<sub>12</sub>H<sub>22</sub>O<sub>11</sub></p>
+</th>
+<th colspan="2">
+<p>Maltosa</p>
+<p>C<sub>12</sub>H<sub>22</sub>O<sub>11</sub></p>
+</th>
+</tr>
+<tr>
+<th>ml</th>
+<th>mg</th>
+<th>diferencia</th>
+<th>mg</th>
+<th>diferencia</th>
+<th>mg</th>
+<th>diferencia</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>2,4</td>
+<td>2,4</td>
+<td>3,3</td>
+<td>3,7</td>
+<td>3,9</td>
+<td>3,9</td>
+</tr>
+<tr>
+<td>2</td>
+<td>4,8</td>
+<td>2,4</td>
+<td>7,3</td>
+<td>3,7</td>
+<td>7,8</td>
+<td>3,9</td>
+</tr>
+<tr>
+<td>3</td>
+<td>7.2</td>
+<td>2,5</td>
+<td>11,0</td>
+<td>3,7</td>
+<td>11,7</td>
+<td>3,9</td>
+</tr>
+<tr>
+<td>4</td>
+<td>9,7</td>
+<td>2,5</td>
+<td>14,7</td>
+<td>3,7</td>
+<td>15,6</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>5</td>
+<td>12,2</td>
+<td>2,5</td>
+<td>18,4</td>
+<td>3,7</td>
+<td>19,6</td>
+<td>3,9</td>
+</tr>
+<tr>
+<td>6</td>
+<td>14,7</td>
+<td>2,5</td>
+<td>22,1</td>
+<td>3,7</td>
+<td>23,5</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>7</td>
+<td>17,2</td>
+<td>2,5</td>
+<td>25,8</td>
+<td>3,7</td>
+<td>27,5</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>8</td>
+<td>19,8</td>
+<td>2,6</td>
+<td>29,5</td>
+<td>3,7</td>
+<td>31,5</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>9</td>
+<td>22,4</td>
+<td>2,6</td>
+<td>33,2</td>
+<td>3,8</td>
+<td>35,5</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>25,0</td>
+<td>2,6</td>
+<td>37,0</td>
+<td>3,8</td>
+<td>39,5</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>11</td>
+<td>27,6</td>
+<td>2,7</td>
+<td>40,8</td>
+<td>3,8</td>
+<td>43,5</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>12</td>
+<td>30,3</td>
+<td>2,7</td>
+<td>44,6</td>
+<td>3,8</td>
+<td>47,5</td>
+<td>4,1</td>
+</tr>
+<tr>
+<td>13</td>
+<td>33,0</td>
+<td>2,7</td>
+<td>48,4</td>
+<td>3,8</td>
+<td>51,6</td>
+<td>4,1</td>
+</tr>
+<tr>
+<td>14</td>
+<td>35,7</td>
+<td>2,8</td>
+<td>52,2</td>
+<td>3,8</td>
+<td>55,7</td>
+<td>4,1</td>
+</tr>
+<tr>
+<td>15</td>
+<td>38,5</td>
+<td>2,8</td>
+<td>56,0</td>
+<td>3,9</td>
+<td>59,8</td>
+<td>4,1</td>
+</tr>
+<tr>
+<td>16</td>
+<td>41,3</td>
+<td>2,9</td>
+<td>59,9</td>
+<td>3,9</td>
+<td>63,9</td>
+<td>4,1</td>
+</tr>
+<tr>
+<td>17</td>
+<td>44,2</td>
+<td>2,9</td>
+<td>63,8</td>
+<td>3,9</td>
+<td>68,0</td>
+<td>4,2</td>
+</tr>
+<tr>
+<td>18</td>
+<td>47 1</td>
+<td>2,9</td>
+<td>67,7</td>
+<td>4,0</td>
+<td>72,2</td>
+<td>4,3</td>
+</tr>
+<tr>
+<td>19</td>
+<td>50,0</td>
+<td>3,0</td>
+<td>71,7</td>
+<td>4,0</td>
+<td>76,5</td>
+<td>4,4</td>
+</tr>
+<tr>
+<td>20</td>
+<td>53,0</td>
+<td>3,0</td>
+<td>75,7</td>
+<td>4,1</td>
+<td>80,9</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td>21</td>
+<td>56,0</td>
+<td>3,1</td>
+<td>79,8</td>
+<td>4,1</td>
+<td>85,4</td>
+<td>4,6</td>
+</tr>
+<tr>
+<td>22</td>
+<td>59,1</td>
+<td>3,1</td>
+<td>83,9</td>
+<td>4,1</td>
+<td>90,0</td>
+<td>4,6</td>
+</tr>
+<tr>
+<td>23</td>
+<td>62,2</td>
+<td> </td>
+<td>88,0</td>
+<td> </td>
+<td>94,6</td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+12\. HIDROXIPROLINA
+
+12.1 *Principio.*
+
+Previa hidrólisis en medio ácido de las proteínas y oxidación de la hidroxiprolina. El derivado formado con el p-dimetilaminobenzaldehido se valora colorimétricamente.
+
+12.2 *Material y aparatos.*
+
+12.2.1 Balanza analítica.
+
+12.2.2 Matraces de fondo plano de 250 ml de capacidad.
+
+12.2.3 Refrigerantes de reflujo.
+
+12.2.4 Baño de arena.
+
+12.2.5 Agitador magnético.
+
+12.2.6 pH-metro.
+
+12.2.7 Matraces aforados de 50, 100, 200 y 1.000 ml de capacidad.
+
+12.2.8 Erlenmeyer de 250 ml de capacidad.
+
+12.2.9 Tubos de ensayo de 16 x 160 mm, aforados a 12 ml.
+
+12.2.10 Baño de María.
+
+12.2.11 Espectrofotómetro o colorímetro capaces para lecturas a 560 nm.
+
+12.2.12 Cubetas de 1 cm de paso de luz específicas para luz visible.
+
+12.3 *Reactivos.*
+
+12.3.1 Piedra pómez.
+
+12.3.2 Solución acuosa de ácido clorhídrico al 50 por 100 (v/v) (diluir a 1.000 ml, 500 ml de solución concentrada de ácido clorhídrico de densidad 1,19).
+
+12.3.3 Solución concentrada de hidróxido sódico de densidad 1,33 (400 g/l) (p/v).
+
+12.3.4 Solución de hidróxido sódico al 10 por 100 (p/v).
+
+12.3.5 Alcohol isopropilico puro.
+
+12.3.6 Solución acuosa de cloramina T al 10,5 por 100 (p/v).
+
+12.3.7 Solución tampón de pH = 6 (disolver 34 g de acetato sódico anhidro, 36,5 g de citrato trisódico monohidratado, 5,5 g de ácido cítrico en 385 ml de alcohol isopropílico puro y enrasar a 1.000 ml con agua destilada
+
+12.3.8 Solución oxidante, que debe prepararse en el momento de su empleo, un Volumen de la solución 12.3.6 y cuatro volúmenes de la solución 12.3.7.
+
+12.3.9 Solución acuosa de ácido perclórico al 17,5 por 100.
+
+12.3.10 Solución de p-dimetilaminobenzaldehido (p-DMAB) al 5 por 100 en alcohol isopropilico. Esta solución se conserva una semana a temperatura ambiente.
+
+12.3.11 L-hidroxiprolina.
+
+12.4 *Procedimiento.*
+
+12.4.1 Preparación de la muestra.
+
+Pesar con 1 mg de aproximación P gramos de la muestra convenientemente homogeneizada (aproximadamente 3 g) sobre papel de fumar sin engomar, e introducir la muestra en el matraz de fondo plano (12.2.2). Añadir piedra pómez 50 ml de la solución de ácido clorhídrico al 50 por 100 (12.3.2). Montar los refrigerantes de reflujo y colocarlos en el baño de arena. Calentar de forma que se mantenga una ebullición suave al menos durante siete horas. Refrigerar rápidamente los matraces bajo corriente de agua. Ajustar el contenido de los matraces a un pH comprendido entre 6 y 7, añadiendo y agitando fuertemente 28 ml de la solución concentrada de hidróxido sódico, dejar enfriar al chorro de agua y llevar al pH anteriormente indicado con solución diluida de hidróxido sódico (12.3.4). Transferir el contenido a un matraz aforado de 200 ml y enrasar dejando en reposo durante una hora. Filtrar a través de papel de filtro plegado. Tomar una alícuota del filtrado y diluirla 10 o 20 veces con agua destilada. Es conveniente realizar ambas diluciones, porque permiten obtener dos valores sobre la misma muestra.
+
+12.4.2 Preparación de la curva patrón.
+
+La coloración obtenida sigue la ley de Beer-Lambert cuando la concentración de hidroxiprolina se encuentra comprendida entre 0 y 20 μg/ml.
+
+Teniendo en cuenta los numerosos factores que influyen en la formación del derivado coloreado, es indispensable construir para cada determinación una curva patrón, realizándose el desarrollo del color al mismo tiempo sobre las diluciones problema y los patrones.
+
+Preparar una solución madre conteniendo 400 μg/ml de hidroxiprolina con agua destilada. A partir de esta solución, hacer diluciones que contengan 5, 10 y 20 μg/ml con agua destilada. Tomar una serie de tubos de ensayo aforados a 12 ml y poner en uno de ellos (tubo testigo) 1 ml de agua destilada. En los tres siguientes colocar 1 ml de las soluciones que contienen 5, 10 y 20 μg/ml de hidroxiprolina. En los dos siguientes 1 ml de cada una de las diluciones diluidas del filtrado. Añadir a cada tubo sucesivamente: 2 ml de isopropanol puro (12.3.5) y 1 ml de la solución oxidante recientemente preparada (12.3.8) y agitar. Dejar reposar durante 10 minutos, transcurrido dicho tiempo añadir de nuevo a cada tubo: 3 ml de la solución de ácido perclórico al 17,5 por 100 (12.3.9) y 2 ml de p-DMAB (12.3.10), homogeneizar el contenido de los tubos y llevarlos al baño de María regulado a 60 °C, permaneciendo en él 20 minutos, retirarlos del baño y enfriarlos balo corriente de agua. Ajustar hasta 12 ml con isopropanol y agitar.
+
+Leer la densidad óptica de cada tubo ajustando el cero con el tubo testigo a 560 nm.
+
+Trazar la correspondiente curva patrón, colocando en abcisas las absorbancias y ordenadas las concentraciones en μg/m1 de hidroxiprolina.
+
+12.5 *Cálculos.*
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+aDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+eDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bW8+PTwvbW8+CiAgICA8bWZyYWM+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj54PC9taT4KICAgICAgICAgICAgPG1vPiYjeDIyQzU7PC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmQ8L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1uPjUwPC9tbj4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPlA8L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASUAAAAlCAYAAAAEEP/DAAAE3UlEQVR4nO2c3ZXbQAiFqcV1qBBX4lL8mjZUjHpJXpaYEGBgftZa637n6OSsPBohwdxBIxQiAAAAAICL8VtstzfbAgAARET0JIgSAOBEQJQAAKcCogQAaMJCwdtD7XsM9P0Q/RwEUQIAFDi+NiKijYj2wf521ceNsNANACiw0SszOhptiYjuX+2fwW9afJApAQBKsGjcC20tAdud/RClb2SnvDN7yDhxtQ0rOaPtG/1vzxntnAk/YmUypQj5KChJixLfaG8bWegC/Ui/bBP7RRFbzEGv+/Op4uNx0OvRa2Tc8z3UlDIlTyHZwE8N4LNfE7+9mClKREijW3DcX0mUHvS6Xp4Qe+OD40vH7RRRkh1ZC1o/HUvNzwRE6T1cTZRuZL8p632Mk2/aJJxBpeI5MoIHxugrwrPBs8GZgSi9hyuJklwm4HiwapeqSGHijRfAd0rc20ympA2ThVGRqsoVfb4BWuDkY6I3CPWNstrItDMqAJPrBpaiy74yMwa39dLV3rUhKUqyL2uCiN6cZIvYMr7K+L1akOfZfoj98vjonKO2E/mi5NmZjTvdfsai8sfiiZK8wRJdGEWi3U2148A66DW45LH6bw4c6XitrNag0ue6B225vZcp6fNHmSIrvxadjM0t5CDivqwBI22wBkymiC3jq6zfpV2tgjzP9p3s6+dzHqrtTNsr97gad5XYYrTIt7aPyICtVIs3vZbEDtOzPhdfeVmQNWtYRVZsy1O00WK5kW2b9bjjzXqeKFntvboLfcwm/s7aHGFdj74/kd3VIraMr7J+l7+1CvI8H3n7rYlrpu299rTirie2ZvPr5NtfKgtb0YxvvQqMns/1bBadz9q89HxElOjreCuL8NBBX7E5YlSUPLtbouT5quJ3fVy0hlAVASl2K2xfJUpseyW2ZvNu0VkiSvL5OfNbFCxWSl1po22YJUryON4qolSxOWJUlKpFbC1fVfyu7Z2ZKVlZ50zbV4qS/C0TW5elJ1OKFpolkXO8QaP7zDptlijpgK9mSrNmvxmiZF3jSKaU9bu0IXq0is7bEqXWo1Gv7StFqRpbRBdfUxr9EC87WJjolfcj0eau9s8QpaexvypKFZsjRkWpWsSWmd2zfmf7ua8oW+kVgVW2rxKlnth6B6cQNZ55sirLASZvuBUoRHGwkDivPuaRaDOy0K0HJv/L17aJ/dXHt4rNEaOiVC1ia/mq4vdKQV5LBKx+soLRY/sqUeqJrZXIce9lWjpLqwgWX6+3ufVP1oHeeohE13xYx1h9W+i6IWvgttroc+naGH2MdggHj34TeahrjWZiPcgz1+VhXY+3FqHPI4M8W8SW9VXV762CvMh2meHINvo+z7Tds8fbX4m7nthaSWuc6+WVlvBbXPUTtrfT4yzQBvd1HVzL5eEtQUTrhxZX/YTt7XiZEhgDorQOmeFZeC9Jqj654idsp4AdBeYCUVqDt5ak17ossagWAfd8wgY6kTf6SUhBZ2OtE2HtYQ1yDWyjWHgiwbKofsIGBpALlEg/wU+HheigNaJkbZjIAQAhsq5tdaYEAABN5Aub71hTAgCAkDv9W5dVKXT1gCgBALrZqf1518w6JQAAIKJXDZJ8FW/9N0IzKrqrn7ABAC6I/lwpEhpdmlEpEO79hA0AAAAAAAAAwPn5A7+IGy3n7g2HAAAAAElFTkSuQmCC)
+
+Siendo:
+
+x = cantidad de hidroxiprolina leída en la curva patrón.
+
+d = dilución del filtrado realizado.
+
+P = peso inicial de la muestra.
+
+Porcentaje colágeno = 8 % de hidroxiprolina.
+
+12.6 *Observaciones.*
+
+12.6.1 Cuando la muestra a analizar sea de alto contenido en colágeno, el tiempo de ebullición deberá prolongarse al menos durante nueve horas.
+
+13\. NITRITOS
+
+13.1 *Principio.*
+
+Del extracto obtenido, adicionándole ácido sulfanílico y α-nactilamina, se lee la intensidad de la coloración obtenida mediante colorimetría o espectrofotometría.
+
+13.2 *Material y aparatos.*
+
+13.2.1 Matraces aforados de 100 y 1.000 ml de capacidad.
+
+13.2.2 Probetas de 100 ó 200 ml de capacidad.
+
+13.2.3 Baño de María.
+
+13.2.4 Papel de filtro plegado de 15 cm de diámetro aproximadamente.
+
+13.2.5 Tubos de ensayo de 150 x 25 mm.
+
+13.2.6 Matraces Erlenmeyer de 300 ml de capacidad.
+
+13.2.7 Espectrofotómetro capaz de leer a 520 nm.
+
+13.2.8 Cubetas de 1 cm de paso específicas para luz visible.
+
+13.3 *Reactivos.*
+
+13.3.1 Solución patrón de nitrito sódico.‒Pesar, con aproximación de 1 mg, 1 g de nitrito sódico, disolver en agua y completar hasta 1.000 ml. Tomar con la pipeta 5 ml de esta solución e introducirla en otro matraz aforado de 1.000 ml. Enrasar.
+
+13.3.2 Reactivo colorimétrico.
+
+13.3.2.1 Solución L‒Disolver calentando al baño de María 6 g de ácido sulfanílico en 200 ml de ácido acético glacial y 400 ml de agua destilada. Añadir 200 ml de una solución de cloruro sódico que contiene 100 g/l de cloruro sódico. Diluir con agua hasta 1.000 ml.
+
+13.3.2.2 Solución II.‒Disolver calentando al baño de María 0,3 g de cloruro de oc-naftilamina en 100 ml de agua destilada. Filtrar si es necesario y añadir 200 ml de acético glacial. Diluir hasta 1.000 ml con agua destilada.
+
+Manipular con precaución esta disolución por su carácter cancerígeno.
+
+Ambas soluciones (13.3.2.1 y 13.3.2.2) deben conservarse en frascos topacio bien cerrados. El reactivo colorimétrico se obtiene mezclando volúmenes iguales de ambas soluciones.
+
+13.4 *Procedimiento.*
+
+13.4.1 Preparación del extracto.‒Como en 8.4.1.
+
+13.4.2 Valoración de la muestra.‒Del extracto obtenido en 13.4.1, tomar 25 ml y añadir 1 g, aproximadamente, de carbón activo si es necesario decolorar. Filtrar hasta que el filtrado sea transparente. Del filtrado tomar una alícuota de 10 ml y ponerla en un tubo de ensayo 13.2.5. Si se toman menos de 10 ml, completar hasta 10 ml con agua destilada. Añadir 10 ml del reactivo colorimétrico, mezclar y dejar reposar la solución quince minutos a temperatura ambiente al abrigo de la luz.
+
+A partir de los 20 minutos y antes de 4 horas, medir la densidad óptica de la solución en una cubeta de 1 cm de paso de luz a 520 nm de longitud de onda.
+
+Si la solución coloreada problema presenta una coloración superior a la de la solución patrón más concentrada, tomar una alícuota menor de 10 ml.
+
+Efectuar dos determinaciones sobre la misma muestra.
+
+13.4.3 Preparación de la curva patrón.‒Tomar de la solución patrón (13.3.1) alícuotas de 5, 10 y 20 ml y llevar a 100 ml con agua. El contenido de estas soluciones es, respectivamente, de 0,25, 0,50 y 1 p. p. m. de nitrito sódico.
+
+Transferir 10 ml de cada una de estas soluciones a un tubo de ensayo (13.2.5), añadir 10 ml del reactivo colorimétrico y proceder a su valoración colorimétrica o espectrofotométrica a 520 nm, llevando absorbancias frente a concentraciones expresadas en p. p. m. da nitrito sódico.
+
+13.5 *Cálculos.*
+
+Calcular el contenido en nitritos de la muestra expresado en p. p. m. por medio de la fórmula:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5wPC9taT4KICAgIDxtbz4uPC9tbz4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnA8L21pPgogICAgPG1vPi48L21vPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bTwvbWk+CiAgICA8bW8+LjwvbW8+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+TjwvbWk+CiAgICA8bXN1Yj4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPk88L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1uPjI8L21uPgogICAgICAgIDwvbXJvdz4KICAgIDwvbXN1Yj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5OPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtbyBzdHlsZT0icGFkZGluZy1sZWZ0OjRweDsiPj08L21vPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6NHB4OyI+QzwvbWk+CiAgICA8bWZyYWMgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1uPjIuNTAwPC9tbj4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5tPC9taT4KICAgICAgICAgICAgPG1vPiYjeDIyQzU7PC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlY8L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOoAAAAlCAYAAABMKnUvAAAEB0lEQVR4nO2c4ZGjMAyFXy2pI4VQSUrh77VBMfSS/ZHoIhTJNsYEk7xvJjN3ZBHC9rNk2bsAIYQQ8iNcjnaAkG/lAuBuPkPmnqtzzx1LoY6J76Jnj7UvQcg3cwEwm2s3PERzS9w3ZezOxu6A9wnAu2bvI4TgIUYv0k14iMjjinTkE6FfMzbveBe8ROrUJEHIz2HFJEjamhJxJOQ5+E5HUPm3J0hGVUIKEaFaorWpCF7WnF5qLPeOyr43UchEwMIUIRlm5NehwLJgdMVSjBYt4pQYUyImhDyRtLQ0ook4Z1CohHyMku0ZixYXhUrIzkyoq7hKFBahco16EFLJS1X77AZ3qrG9gkTNAGntV+/Y99XttvWwwLTBxoBXpTaq2npVXy9ys+q7EV3xSzVk6oTJGHyvT6isFVELv3pH9ia99sltl5QgUa4WHYm5j9oBMtulBv0EP6URkaY6oXbAbfGrdyT6pCYhEUcNI+IK74TlnueM9z707ufJpIOZsYx+nug8Qeh7UsiAWzu71/p1BuxeZUTJdop3j7cM0c+UPtGi1Z+o8GRte/7bfdmid5DZYsByXVOr8Jb2pLEGLNMgsWUPN+81IOV5uoFtR3mC0J2dolTQrfzS323t7z0obTfg8b5nXXsXIzm218k1ndfS3ohlEUGihd6/0vamCn9L8dIZu27yBCFCKFl71Ew2tX7J82z/rI1OXsEq9SkVVLSm/2miStQtuP5Je5Etb1ClzmluxU4AeoAKRwt1jV9eu+450a1F2q21UP+d7LMgEkNtJaqlvV6FCrwG06T+31qoOqOISvo1fuF5zUZeCrWvz4KcsNY2Vkt7PQtVrss7tV6jjni9i7SdfbdavwRbJOlFqGvWqD9DTlitUt8ae70LNVfM2lL1tbbm4FqNX3CeVxNR91qjbtlf/lpya8oj7fUuVGBZcfUEUfKXA0oGpdd2tX55v87VU+oLvHzMRdUb1geTT+GdqLK+2qwmfN/B+QGZ0bwGiE5g7GFPbzprvDQtdY4y53OKkkxA/Izspw49lIhU9vVa+TWZ69I/PQkV8Itjmhn9n+aRd8i1bW4y/9+ZNo3J7b1FRlvZsxvHstayM9QV7zNXZGttp1q7qcYekZ8IvHSwxCe7rt/ql02NZcBHs/7ReJHpTGlxTgPe33B6I0ova2lt79eZcJ4BSXxyxbEbCiZsCrVfbDRkm7bhiBNvucJedjKmUPvES/d6X4+dgaNOvEXnuQfn2ht2Hbg1729tj5A9aLmboGsyOTxNeNtuhBC0FWppVVf/rIj66jyPEPLkqP15e5BjcnwghDw58iCNjsC97VsT0hVHCjX3i/6EkCetTrzVsudxV0K+gpYn3mq5gL8UTwghhBBCiOUPiPsRrhJ0t/8AAAAASUVORK5CYII=)
+
+m = peso de muestra de la que se ha obtenido el extracto.
+
+V = volumen, en ml tomado del extracto decolorado.
+
+C = concentración en nitrito sódico expresada en μg/ml determinada sobre la curva patrón.
+
+Tomar como resultado la media de los valores obtenidos en dos determinaciones paralelas si las condiciones de reproducibilidad se cumplen.
+
+13.6 *Observaciones.*
+
+La diferencia entre dos determinaciones paralelas sobre una misma muestra, realizadas simultáneamente por el mismo analista, no debe ser superior al 10 por 100 del contenido calculado en nitritos.
+
+13.7 *Referencias.*
+
+1\. Norma ISO/DIS 2918.
+
+14\. NITRATOS
+
+14.1 *Principio.*
+
+Al reaccionar en medio sulfúrico los nitratos con la brucina se produce una coloración amarilla-marrón, cuya intensidad es proporcional al contenido en nitratos presentes, lo que permite su valoración colorimétrica o espectrofotométrica.
+
+14.2 *Material y aparatos.*
+
+14.2.1 Matraz aforado de 50 ml de capacidad.
+
+14.2.2 Espectrofotómetro o colorímetro capaces para lecturas a 410 nm.
+
+14.2.3 Cubetas de 1 cm de paso específicas para luz visible.
+
+14.3 *Reactivos.*
+
+14.3.1 Solución patrón de nitratos.‒Disolver 0,1629 g de nitrato potásico anhidro en agua y enrasar a 1 l. 1 ml de esta solución contiene 0,1 mg de nitrato.
+
+14.3.2 Reactivo brucina-Ácido sulfanílico.‒Disolver 1 g de brucina y 0,1 g de ácido sulfanílico en unos 70 ml de agua destilada caliente, añadir 3 ml de ácido clorhídrico concentrado, dejar enfriar y enrasar a 100 ml con agua. La solución debe guardarse en frasco color topacio.
+
+14.3.3 Solución de ácido sulfúrico.‒Añadir con cuidado 500 ml de ácido sulfúrico concentrado a 75 ml de agua destilada. Debe conservarse herméticamente cerrado.
+
+14.4 *Procedimiento.*
+
+14.4.1 Preparación del extracto.‒Como en 8.4.1.
+
+14.4.2 Valoración de la muestra.‒Introducir en un matraz aforado de 50 ml de capacidad 10 ml del extracto (14.4.1), 1 ml del reactivo (14.3.2) y 10 ml del reactivo (14.3.3) muy lentamente, mezclar y dejar en reposo durante diez minutos al abrigo de la luz.
+
+Pasado este tiempo, añadir agua destilada, agitando, hasta completar unos 40 ml y dejar reposar durante quince minutos en la oscuridad.
+
+Enfriar el matraz en un baño de hielo hasta que alcance la temperatura ambiente, preferiblemente también en la oscuridad. A continuación, enrasar a 50 ml con agua, homogeneizar el contenido del matraz y leer la absorbancia a 410 nm. El cero se ajusta con 20 ml de agua sometida al proceso anteriormente descrito.
+
+14.4.3 Preparación de la curva patrón. Tomar distintas alícuotas de la solución 14.3.1 y tratar como en 14.4.2.
+
+14.5 *Cálculos.*
+
+Llevar la absorbancia obtenida a la curva patrón y expresar el correspondiente contenido de nitratos en mg por kg.
+
+14.6 *Observaciones.*
+
+14.6.1 Periódicamente resulta aconsejable confirmar o rectificar los valores de la curva patrón, lo que es absolutamente necesario cuando se cambia de reactivos.
+
+14.6.2 En las condiciones citadas, se pueden medir concentraciones de nitrato comprendidas entre 50 y 500 μ g/l.
+
+14.6.3 El ácido sulfanílico se añade al reactivo 14.3.2 para evitar la posible interferencia del ion nitrito. Las interferencias de iones ferrosos, férricos y manganosos sólo son apreciables cuando su concentración es superior a 1 mg/l.
+
+15\. pH
+
+15.1 *Principio.*
+
+Medida del potencial eléctrico creado en la membrana de un electrodo de vidrio, función de la actividad de iones hidrógeno a ambos lados de la membrana. Utilizar como referencia un electrodo de calomelanos.
+
+15.2 *Material y aparatos.*
+
+15.2.1 pH-metro capaz de determinar la segunda cifra decimal.
+
+15.2.2 Electrodos de vidrio de punta fina o convencional (según la dureza de la muestra).
+
+15.2.3 Electrodo de calomelanos.
+
+15.3 *Reactivos.*
+
+15.3.1 Disolución tampón de pH = 4.
+
+15.3.2 Disolución tampón de pH = 7
+
+15.4 *Procedimiento.*
+
+Tomar una cantidad de muestra preparada según el método 1 o bien directamente, en el caso de muestras homogéneas, añadir igual cantidad de agua destilada, mezclar y dejar reposar durante diez minutos.
+
+Ajustar el pH-metro a la temperatura de trabajo con las disoluciones 15.3.1 y 15.3.2 e introducir los electrodos de vidrio y de referencia, separados a. menos 2 cm.
+
+Conectar el pH-metro y esperar a que se estabilice.
+
+15.5 *Expresión de los resultados.*
+
+Anotar el valor de pH indicado por el aparato.
+
+Repetir la operación dos veces al menos.
+
+15.6 *Observaciones.*
+
+15.6.1 Es necesaria una limpieza escrupulosa de los electrodos entre determinaciones sucesivas, lo que al tratarse de productos con un alto contenido en materia grasa es más laboriosa que en disoluciones desengrasadas, requiriendo a veces ser frotados o sumergidos en alcohol, éter dietílico, éter de petróleo, etcétera; secarlos convenientemente y lavarlos finalmente con agua destilada; secarlos de nuevo, quedando así dispuestos para una nueva lectura.
+
+MÉTODOS BIOLÓGICOS
+
+1\. IDENTIFICACIÓN DE ESPECIE ANIMAL
+
+1.1 *Principio.*
+
+Las proteínas musculares de las distintas especies animales, aunque muy similares entre sí, tienen en cada grupo zoológico una estructura específica que permite diferenciar carnes de especies distintas por métodos serológicos (técnica de Uhlenhuth).
+
+Sólo es aplicable a productos crudos.
+
+1.2 *Material y aparatos.*
+
+1.2.1 Tubos de precipitación de 20 x 4 mm.
+
+1.2.2 Gradillas metálicas para los tubos anteriores.
+
+1.2.3 Precipitoscopio (cámara oscura con luz indirecta).
+
+1.2.4 Pipetas capilares muy finas.
+
+1.2.5 Pinzas.
+
+1.2.6 Bisturí.
+
+1.2.7 Tijeras.
+
+1.2.8 Gasa.
+
+1.2.9 Papel de filtro.
+
+1.2.10 Tubos de ensayo.
+
+1.2.11 Erlenmeyer de 250 ml de capacidad.
+
+1.3 *Reactivos.*
+
+1.3.1 Suero fisiológico estéril.
+
+1.3.2 Antisueros específicos (su especificidad debe ser contrastada en el momento de su utilización).
+
+1.4 *Procedimiento.*
+
+Separar del producto cárnico entre 5 y 10 g de carne magra lo más exenta posible de grasa. Picar en trozos muy pequeños, poniéndose a macerar en suero fisiológico estéril en la proporción de 1/10 Mantener el macerado puesto en un Erlenmeyer de 250 ml en frigorífico durante 24 horas, al objeto de evitar la proliferación bacteriana.
+
+Transcurridas las 24 horas, filtrar el macerado a través de gasa y papel de filtro cuantas veces sea necesario, hasta obtener un líquido transparente, sin importar que tenga coloración propia. Diluir el filtrado, que estaba a 1/10, hasta 1/25 y 1/50.
+
+Poner en una gradilla metálica tres tubos de precipitación para las tres diluciones preparadas. Tomar con pipeta capilar una para cada dilución, partes de las disoluciones (antígeno problema), llevándolo hasta el fondo de los tubos. Colocar seguidamente el antisuero que se ensaya (anticuerpo específico conocido) en los tres tubos mediante pipeta capilar muy fina de la manera siguiente: Poner el tubo conteniendo el antígeno problema en posición horizontal, llevando en este momento la pipeta con el antisuero hasta el fondo del tubo, momento en que se vuelve a poner el tubo en posición vertical, con le que saldrá una pequeña cantidad de antisuero que desplazará hacia arriba el antígeno, pero sin mezclarse con él; volver a poner de nuevo en posición horizontal el tubo, sacando rápidamente la pipeta que contiene el antisuero. El tubo debe estar siempre en posición horizontal a la entrada o la salida de la pipeta con el antisuero, evitando de esta forma que los dos líquidos reaccionantes se mezclen. Utilizar una sola pipeta para cada antisuero. Es conveniente poner dos tubos testigos, uno para el suero y otro para el antígeno, testigos que necesariamente deben dar siempre reacción negativa.
+
+1.5 *Interpretación de resultados.*
+
+La reacción positiva se produce con la aparición de un anillo blanquecino, opalescente, en la zona de separación de ambos líquidos reaccionantes antes de 15 minutos. Reacciones positivas posteriores a este tiempo deben considerarse inespecíficas. La reacción tiene lugar, para un mismo antígeno, a distintos tiempos, según sea el título del antisuero empleado.
+
+1.6 *Observaciones*.
+
+1.6.1 La lectura de los resultados debe hacerse con luz intensa indirecta y sobre fondo oscuro, preferiblemente en un precipitoscopio.
+
+1.7 *Referencias*.
+
+1\. Normalización de Técnicas en Bromatología Sanitaria. F. Pérez Flórez. 1970.
+
+## ANEJO III — Métodos de análisis de cereales y derivados
+
+16\. ÁCIDO ASCÓRBICO (VITAMINA C)
+
+(Método cualitativo)
+
+16.1 *Principio*.
+
+Este método sirve para determinar la presencia de vitamina C en harina y consiste en la aparición de puntos blancos sobre fondo rosa del reactivo sal sódica del 2,6 diclorofenol indofenol en medio ácido.
+
+16.2 *Material y aparatos.*
+
+16.2.1 Placa Petri de 65 cm<sup>2</sup>.
+
+16.3 *Reactivos*.
+
+16.3.1 Disolución acuosa al 0,05 por 100 de la sal sódica del 2,6 diclorofenol indofenol.
+
+16.3.2 Disolución acuosa al 5 por 100 de ácido metafosfórico.
+
+16.4 *Procedimiento.*
+
+Extender 10 g de la muestra sobre una placa de vidrio compactándola de forma que quede bien uniforme. Rociar por completo con la disolución del ácido metafosfórico y a continuación hacer lo mismo con la disolución de la sal sódica del 2,6 diclorofenol indofenol. Al cabo de unos minutos aparecen unos puntos blancos más o menos grandes sobre el fondo rosa.
+
+18\. FÓSFORO
+
+18.1 *Principio.*
+
+Transformación de los compuestos fosforados en ortofosfatos y posterior valoración colorimétrica con fosfomolibdovanadato.
+
+18.2 *Material y aparatos*.
+
+18.2.1 Espectrofotómetro o colorímetro que permita lecturas a 430 nm.
+
+18.2.2 Crisoles de porcelana, de 35 mm de diámetro y 45 milímetros de altura, sin tapadera.
+
+18.2.3 Matraces aforados de 100 y 500 ml de capacidad.
+
+18.2.4 Baño de agua.
+
+18.2.5 Estufa de desecación con sensibilidad de ± 1 ºC.
+
+18.3 *Reactivos*.
+
+18.3.1 Amoníaco concentrado de densidad ρ = 0,910 g/ml.
+
+18.3.2 Disolución de molibdato amónico al 10 por 100 (p/v). Disolver 100 g de molibdato amónico en agua caliente; añadir 10 ml de amoníaco concentrado de ρ = 0,910 g/cm<sup>3</sup> para asegurar su conservación y completar hasta 1.000 ml con agua destilada.
+
+18.3.3 Ácido nítrico de densidad ρ = 1,38 g/ml.
+
+18.3.4 Ácido nítrico al 10 por 100 (p/v).‒Disolver 16 ml de ácido nítrico ρ = 1,38 g/cm<sup>3</sup>, hasta 100 ml con agua destilada.
+
+18.3.5 Disolución de metavanadato de amonio.‒Disolver 2,35 gramos de metavanadato de amonio en 400 ml de agua destilada y caliente. Añadir lentamente y agitando 20 ml de la disolución que contiene 7 ml de ácido nítrico ρ = 1,381 g/ml y 13 ml de agua destilada.
+
+18.3.6 Reactivo nitromolibdovanadato.‒Mezclar 200 ml de la disolución de molibdato amónico al 10 por 100 y 200 ml de la disolución de metavanadato de amonio, con 134 ml de ácido nítrico ρ = 1,381 g/cm3 o en su lugar 192 ml de ácido nítrico ρ = 1,331 g/ml.
+
+18.3.7 Ácido clorhídrico concentrado de densidad ρ = 1,19 g/ml.
+
+18.3.8 Disolución patrón de fósforo.‒Pesar 4,394 g de fosfato monopotásico, previamente desecado en estufa a 100 °C durante unas doce horas. Disolver en agua destilada y llevar a un volumen de 1.000 ml en un matraz aforado, 1 ml corresponde a 1.000 gammas de fósforo
+
+18.3.9 Disoluciones patrones.‒Tomar 10 ml de la disolución anterior y diluir con agua destilada hasta el enrase en un matraz aforado de 100 ml, obteniéndose una concentración de 100 gammas de fósforo por mililitro. Tomar partes alícuotas de 0,5, 1,0, 1,5, 2,0 y 2,5 ml y llevar a un volumen de 10 ml con agua destilada. Su concentración será de 5, 10, 15, 20 y 25 gammas /ml. Añadir 10 ml del reactivo nitromolibdovanadato y proceder como se describe en el método.
+
+18.4 *Procedimiento*.
+
+Pesar, con una aproximación de ± 0,1 mg, de 0,3 a 1,5 g de muestra en un crisol previamente calcinado y tarado. Introducir el crisol en la mufla a una temperatura inferior a 100 °C. Aumentar la temperatura paulatinamente hasta alcanzar los 550 °C; mantener esta temperatura durante 2 horas. No se debe pasar de 550 °C, para evitar decrepitaciones y volatilizaciones, ya que cuando existen cloruros en el producto a analizar, puedan afectar a los resultados. El tiempo que debe permanecer el crisol con la muestra en la mufla es variable y estará de acuerdo con la naturaleza y con la cantidad de la muestra. Suelen ser suficientes 2 horas, pero si transcurrido este tiempo las cenizas del crisol no presentan el color blanco grisáceo deseado, sacar el crisol de la muña y dejar enfriar dentro de un desecador, añadiendo posteriormente unas gotas de agua o, mejor, unas gotas de agua oxigenada de 50 volúmenes, introducir el crisol en la estufa de desecación a 100 °C para eliminar el agua o el agua oxigenada. Eliminada la humedad, introducir nuevamente el crisol en la mufla a 550 °C. Dejar transcurrir el tiempo necesario hasta que las cenizas contenidas en el crisol alcancen el color deseado. Sacar el crisol de la mufla y llevar a un desecador con sustancias desecadoras. Dejar enfriar hasta la temperatura ambiente.
+
+Obtenidas las cenizas, añadir en el crisol una cantidad de ácido clorhídrico concentrado (18.3.7) hasta que las cenizas queden cubiertas Evaporar el ácido clorhídrico en el baño de agua a ebullición, hasta sequedad, en un dispositivo adecuado para la eliminación de vapores ácidos. Disolver el residuo en 3 ml de ácido nítrico al 10 por 100 y hervir en el baño de agua durante 5 minutos, utilizando el dispositivo adecuado para la eliminación de los vapores ácidos. No se debe dejar secar el contenido para evitar la hidrólisis de los ortofosfatos que produciría reacciones coloreadas Filtrar a través de papel, sobre un matraz aforado de 500 ml, lavando con agua destilada los crisoles donde estaban contenidas las cenizas y diluir hasta el enrase.
+
+Para desarrollar la reacción de color, colocar, en una cubeta o tubo de espectrofotómetro o fotocolorímetro, 10 ml de la disolución problema y añadir 10 ml del reactivo nitromolibdovanadato. Agitar, dejar reposar durante diez minutos. Efectuar la lectura espectrofotométrica o fotocolorimétrica a 430 nm, utilizando como blanco la mezcla de 10 ml de agua destilada y 10 ml de reactivo nitromolibdovanadato. La coloración amarilla desarrollada es estable durante varios días.
+
+18.5 *Cálculos*.
+
+Leer en el espectrofotómetro o fotocolorímetro y buscar su correspondencia en fósforo en la curva patrón.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5GPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj4mI3hGMzs8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnM8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmY8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm88L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnI8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm88L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij4oJSk8L21pPgogICAgPG1vPj08L21vPgogICAgPG1mcmFjPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+RjwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICA8bW4gc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij4wLDAwNTwvbW4+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+UDwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALwAAAAoCAYAAABEvpD+AAAEEUlEQVR4nO2c0ZGjMAyG/1qog0KohFJ4vTYohl72Hi5ahCLJMnAJGH0zzOyCbUz4JcuyEyBJkiRphu7bHUiuwQzgJ3AsFW12ou4UqDOIOoNRbgn0acSx/ieNwwWq0SMuGBIuF+xSqD+96pAXpv5wQ9HOyXrEHOxr8mA8wQMxL03tSMH1r/OjUt66Rl66f/1PI1HpfiPs0SFJfikJPgJ5d03YlpcnL92L89yj09+a55Ze/scpmyS/eIKPendLvMDqoWX4QTG51acFviHRSDBAj92PGnHSKJY4BsQFb4kasI3Bm1CSMXBRa/3zRpUUfaLiZWjuKniwutFnSB6C5Ql73Fvw1E7G9MmGFmJ4r1+Zh082nJml0cRXytJIQ9CyNJrhWfVlmQxpkg1nTe6+nYe3+qSNOpeALPaOuVTpZQbYQ+mE9fm+vc+DRFfylBFKK618VZfudcZKK2+Xi3uBEd+fsaeCHnavNY1YH4ge5i6rZiRu7pH4cMyZsf0cR6XMp9De+9F4lxuQdFz8GheizKFbk1Avxz4p110DPrKnIjJbLiHrf9vzReGGCvx7wdxQpQAm6Ib8pHxxj2NaOY1SLKcF/97QHYWM7RIfQgXSCZC4ubGO2I561gSqZpPW3blMuFo7eanJ05bauaPgKW1G0EgnyxBS/BI5OrTIgguN3rX5WBl7lRYRtLicXyu1E70fnwNQnCq9SrQtCxJ3p5wjUU9YjbhD2TmMO/qRHMASvLanQk6+gFW8XAQ8I0H/S08e8fAz3kWrTU6oXyRiGoVmUSbSloe1oMENaRTlS5Qm/trEzDsu40mvivfh8RdmvRgSrhSXfNm1gq+5Hy+vtVfblkXpiw2ybeoL/3aPHO164/z/4M9Djw2Wh5exurfCJZeLrbyqbN8TfM39AH/Vr7YtixrBkxHJpXDpCD45l/m28C4teOA99WaJprRvombFbe/9PMHv6bvGD2KCp2/haIZvjXS5FP4hPMFzvIUhuQwsX6omlKiH9zYmcSIePtqWRcTDd3j37vy+I7bGFf0cokfG8AWigvfiXbkd09pb0SvnSjG85vm0857ga9uyIPF5zNguoUsDsUKay+79qKS0gv/VNHTtngrNy5MXk1kTOYzLMtEsjXU/iSf42rYstEUmeV3Oe7jgO9ibplqCQjlp7Hzy/vGRaO+eCvl7IlqdQSnHH1DLw1seTubOtRFGe5a9bZUwNyfBDtus63j14W6LbyUswQOr08w5y02wtgNYwuVGpu0Bb3HRyRM8fR6X2WqQlBlxjle+1JL7iUQ8fGujWvNQ6nEvfHLbGpbgecYpuSET9mVX9ta7C/K3JvmRsXvSHF5IkyTNkYJPHkUKPnkUKfjkUZz5qwhJcmm0Ve9cZEqSJEmSJDnOX0aXxx9GzT18AAAAAElFTkSuQmCC)
+
+Siendo:
+
+F = concentración de fósforo, en gammas, encontrada en la curva patrón/10 ml disolución.
+
+P = peso, en gramos, de la muestra empleada.
+
+18.6 *Referencias*.
+
+1\. Instituto de Racionalización y Normalización del Trabajo. Una Norma Española UNE 64017.
+
+19\. DETECCIÓN Y CUANTIFICACIÓN DE HARINAS DE TRIGOCOMÚN *(TRITICUM VULGARE)* EN SÉMOLAS Y PASTAS ALIMENTICIAS
+
+19.1 *Principio*.
+
+El método se basa en la detección y cuantificación de un componente designado CM<sub>2</sub>, del extracto cloroformo-metanol del endospermo de trigo o de productos derivados de él, cuyo control genético radica en el cromosoma 1D de «Triticum Vulgare» y que por tanto no se encuentra en «T. durum».
+
+El mencionado extracto, al que se designa proteína CM, se fracciona por electroforesis sobre gel de almidón, y el componente CM<sub>1</sub> se estima visualmente o se cuantifica densitométricamente.
+
+19.2 *Material y aparatos.*
+
+19.2.1 Balanza analítica.
+
+19.2.2 Equipo de electroforesis.‒Fuente de tensión, corriente continua 0-500 V, ‒100 mA. Placas de vidrio de 20 x 20 cm marcos de plástico de 20 x 20 cm exterior, de 18 x 18 cm interior y de 3 mm de espesor. Depósitos de electrodos de 20 x 10 x 10 centímetros.
+
+19.2.3 Densitómetro de reflexión en el caso de que se quiera cuantificar.
+
+19.2.4 Tubos de 8 x 50 mm o similar, con tapones de corcho.
+
+19.2.5 Gradilla.
+
+19.2.6 Dos placas de acero inoxidable de 5 x 7 x 1 cm o dimensiones similares.
+
+19.2.7 Jeringa de vidrio de 1 ml de capacidad.
+
+19.2.8 Capilares de 10 cm de largo.
+
+19.2.9 Placa de porcelana con pocillos.
+
+19.2.10 Probetas de 100 ml y 1.000 ml.
+
+19.2.11 Vasos de 500 ml y de 1.000 ml.
+
+19.2.12 Baño de agua con termómetro.
+
+19.2.13 Cubeta de plástico de al menos 25 x 25 x 5 cm.
+
+19.3 *Reactivos*.
+
+19.3.1 Cloroformo.
+
+19.3.2 Metanol.
+
+19.3.3 Éter dietílico libre de peróxidos.
+
+19.3.4 Etanol del 70 por 100.
+
+19.3.5 Papel Albet número 502, o similar, y papel de filtro.
+
+19.3.6 Almidón hidrolizado para electroforesis Connauglit o similar.
+
+19.3.7 Tampón lactato de aluminio-ácido láctico, 0,1 N, pH 3,2 en urea 3 M.‒Diluir 4,9 g de lactato de aluminio en agua destilada, añadir 10,6 ml de ácido láctico purísimo y 180 g de urea, completando hasta 1 litro con agua destilada. Este tampón sirve tanto para el gel de almidón como para los compartimentos de los electrodos.
+
+19.3.8 Solución de nigrosina soluble en agua al 0,5 por 100 en acético-agua (1/1) (v/v).
+
+19.3.9 Gel de almidón.‒Mezclar 24,5 g de almidón y 180 ml de tampón en un vaso de 500 ml, agitar suavemente con una varilla en baño de agua a 80 ± 3 ºC hasta que gelifique (2-3 minutos). El gel caliente se vierte sobre una placa de vidrio a la que se ha superpuesto un marco de plástico de las mismas dimensiones externas que la placa y de 3 mm de espesor, extender uniformemente con la varilla y, finalmente, prensar suavemente con una placa de vidrio de las mismas dimensiones sin dejar burbujas. Dejar reposar durante al menos 3 horas.
+
+19.4 Procedimiento.
+
+19.4.1 Extracción y preparación para electroforesis de la proteína CM.‒Pesar 50 mg de harina, sémola, grano o pasta alimenticia y transferirlos o un tubo de 8 x 50 mm o similar. El grano y la pasta se aplastan por presión entre dos placas de acero inoxidable antes de ser transferidas al tubo. Añadir aproximadamente 0,5 ml de éter dietílico en cada tubo y dejar reposar durante no menos de 30 minutos, agitando ocasionalmente. Después de la última agitación se deja sedimentar por gravedad y el sobrenadante se elimina con la ayuda de una jeringa. El disolvente residual se deja evaporar a la temperatura ambiente o en una estufa a 35 °C durante 10 minutos. Agregar aproximadamente 0,25 ml de cloroformo-metanol (2/1) (v/v) a cada tubo, tapar y dejar reposar durante 2 horas, agitando ocasionalmente.
+
+Después de la última agitación, dejar sedimentar por gravedad y transferir el extracto sobrenadante con un capilar a una pieza de papel Albet número 502 o similar, de dimensiones 3 x 10 mm. Con el capilar se satura el papel, que se deja evaporar antes de una nueva adición (ver 19.6.4), repitiendo la operación hasta agotar el sobrenadante. Para esta operación, las piezas de papel a las que se van a transferir las distintas muestras se depositan en distintos pocillos de una placa de porcelana o similar Se recomienda realizar la transferencia entre 10 y 20 muestras simultáneamente.
+
+19.4.2 Electroforesis sobre gel de almidón de la proteína CM.‒Separar cuidadosamente una de las placas de vidrio con la ayuda de una espátula y recubrir la superficie expuesta del gel con un plástico fino. Marcar en dicha superficie una fila de ranuras (1 cm de largo cada una) a 3 cm de uno de los bordes del gel. Alojar en dicha ranura las piezas de papel Albet número 502 o similar que portan las muestras, previamente impregnadas con tampón. Disponer el gel horizontalmente apoyado sobre las cubetas de electrodos y establecer la conexión eléctrica mediante puentes de papel de filtro (20 papeles de dimensiones apropiadas superpuestos).
+
+19.5 *Interpretación de resultados*.
+
+19.5.1 Detección de trigo exaploide.‒La electroforesis del extracto CM de trigo exaploide («T. Vulgare») muestra tres bandas designadas CM<sub>1</sub>, CM<sub>2</sub> y CM<sub>3</sub>, mientras que la de trigo tetraploide («T. durum») sólo presenta dos CM<sub>2</sub> y CM<sub>3</sub>.
+
+El trigo exaploide se detecta en una mezcla por la aparición de CM<sub>1</sub> en el perfil electroforético. Para el tamaño de muestra anteriormente propuesto, CM<sub>1</sub> se detecta en mezcla de 10-15 por 100. Usando muestras de tamaño doble, el umbral de detección se reduce proporcionalmente.
+
+19.5.2 Cuantificación de trigo exaploide en mezclas.‒La acotación del porcentaje de «T. Vulgare» en una mezcla se basa en la cuantificación de la relación CM<sub>1</sub>, CM<sub>2</sub> y en la estimación de la variabilidad intraespecífica de CM<sub>1</sub> y CM<sub>2</sub>.
+
+En la figura 1-A se presenta la forma de acotar gráficamente el porcentaje de trigo exaploide en mezclas basándose en la medida de la relación CM<sub>1</sub>, CM<sub>2</sub> mediante densitometría de reflectancia con luz de 620 mm. En la figura 1-B se representa la variación de la amplitud de la acotación según el valor obtenido.
+
+Una estimación semicuantitativa, más imprecisa que la anterior, puede obtenerse por comparación visual del problema con una serie de mezclas conocidas que pueden incorporarse al mismo gel.
+
+19.6 *Observaciones*.
+
+19.6.1 Las condiciones de electroforesis son 10 V/cm durante seis horas.
+
+19.6.2 La tinción se realiza con nigrosina al 0,05 por 100 en acético.‒Agua (1/1) (v/v) durante 14-16 horas en una cubeta de plástico de dimensiones apropiadas, dejando el gel con la cara opuesta a la de inserción hacia arriba.
+
+19.6.3 La decoloración del fondo se realiza en pocos minutos con etanol al 70 por ICO.
+
+19.6.4 Cuando se manejan 10-20 muestras, después de una transferencia se devuelve el capilar al tubo y se pasa a la muestra siguiente. Cuando se llega a la muestra final, ya se ha evaporado la primera y está en condiciones de una nueva transferencia.
+
+19.7 *Referencias*.
+
+1\. R. García Faure y F. García Olmedo: «A new Method for the Estimation of Common Wheat in Pasta Products». Lebensm. Wis. U. Technol. Vol. 2. 1969.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1979/207/21118_5402560_image11.png)
+
+20\. DETECCIÓN DE HARINAS DEGRADADAS POR EL ATAQUE DE PENTATÓMIDOS
+
+20.1 *Principio*.
+
+Se detecta la degradación de la calidad panadera de la masa de harina mediante la determinación del exceso de actividad proteolítica.
+
+20.2 *Material y aparatos*.
+
+Como en 14.2.
+
+20.3 *Reactivos*.
+
+Como en 14.3.
+
+20.4 *Procedimiento*.
+
+Como el 14.4 con las siguientes modificaciones:
+
+20.4.1 El número de piezas de masa serán seis.
+
+20.4.2 Transcurrido el tiempo normal de 26 minutos del comienzo de amasado, extraer tres piezas de la cámara del alveógrafo y analizarlas obteniendo sus correspondientes curvas. El resto de las piezas se analizan sobre el mismo papel después de un periodo de reposo de tres horas.
+
+Si alguno de los alveolos o curvas fuera claramente anormal debe desecharse la curva.
+
+20.5 *Expresión de los resultados*.
+
+Si existe una actividad proteolítica excesiva, la segunda serie de curvas presentará menor extensibilidad y tenacidad, siendo mayor la diferencia entre ellas, a mayor actividad.
+
+Cuantificar esta actividad calculando la degradación de W y G en la forma siguiente:
+
+Calcular los valores de estos índices por separado para la primera serie de curvas (con tiempo de reposo normal) Wo y Go y para la segunda (con tiempo de reposo de 3 horas) W<sub>1</sub> y G<sub>1</sub>.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPmQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmU8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmc8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnI8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmM8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmk8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPiYjeEYzOzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPmQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmU8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij5XPC9taT4KICAgIDxtbz49PC9tbz4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlc8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICAgICAgICAgIDxtbz4tPC9tbz4KICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+VzwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bW4+MTwvbW4+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5XPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm88L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CiAgICA8bW8+JiN4MjJDNTs8L21vPgogICAgPG1uPjEwMDwvbW4+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,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)
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPmQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmU8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmc8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnI8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmM8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmk8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPiYjeEYzOzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPmQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmU8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij5HPC9taT4KICAgIDxtbz49PC9tbz4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPkc8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICAgICAgICAgIDxtbz4tPC9tbz4KICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+RzwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bW4+MTwvbW4+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5HPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm88L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CiAgICA8bW8+JiN4MjJDNTs8L21vPgogICAgPG1uPjEwMDwvbW4+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,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)
+
+20.6 *Referencias.*
+
+1\. Harinas. Actividad proteolítica. H-80277-A. Ministerio del Aire.
+
+## ANEJO IV — Métodos de análisis de fertilizantes
+
+> Téngase en cuenta que el Real Decreto 506/2013, de 28 de junio, sobre productos fertilizantes, [Ref. BOE-A-2013-7540](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7540), regula en su Anexo VI los métodos de análisis de los productos fertilizantes.
+
+16(b). FÓSFORO SOLUBLE EN AGUA
+
+**(Derogado).**
+
+17(b). FÓSFORO SOLUBLE EN AGUA Y EN CITRATOAMÓNICO NEUTRO
+
+**(Derogado).**
+
+22\. BORO SOLUBLE EN ÁCIDO
+
+22.1 *Principio*.
+
+Consiste en pasar el boro a BO<sub>3</sub>H<sub>3</sub>, el cual puede ser valorado con un álcali fuerte, previa exaltación de su acidez por formación de un ion complejo con una sustancia polihidroxilada (manitol o sorbitol).
+
+22.2 *Material y aparatos*.
+
+22.2.1 Balanza analítica.
+
+22.2.2 pH-metro o similar.
+
+22.2.3 Vaso de 250 ml.
+
+22.3 *Reactivos*.
+
+22.3.1 Solución patrón de ácido bórico.
+
+Disolver 1 g de BO<sub>3</sub>H<sub>3</sub> en H<sub>2</sub>O y llevar a 1 litro.
+
+1 ml contendrá 0,1748 mg de B.
+
+22.3.2 Solución patrón de NaOH.
+
+Preparar una solución de concentración 0,025 N libre de CO<sub>2</sub> y a continuación se titula de la siguiente manera: Pipetear 25 ml de la solución patrón de BO<sub>3</sub>H<sub>3</sub> depositándolos en un Erlenmeyer de 250 ml. Añadir 3 g de ClNa e indicador rojo de metilo, diluyéndose con agua destilada hasta 150 ml; calentar hasta ebullición para expulsar el CO<sub>2</sub>, enfriar y titular potenciométricamente como en 22.4. Realizar un blanco repitiendo la titulación cambiando los 25 ml de la solución patrón de BO<sub>3</sub>H<sub>3</sub> por 25 ml de agua. Para determinar la equivalencia en B se efectúan los siguientes cálculos:
+
+mg B/ml = 4,369/ml de la solución de NaOH ‒ ml gastados en el blanco.
+
+Esta solución se debe preservar del CO<sub>2</sub> atmosférico.
+
+22.3.3 Solución del indicador rojo de metilo.
+
+Disolver 0,1 mg de rojo de metilo en 50 ml de alcohol, diluir hasta 100 ml con agua y filtrar si es necesario.
+
+22.3.4 ClH.
+
+22.3.5 ClH 0,5 N.
+
+22.3.6 ClH 0,02 N.
+
+22.3.7 Solución de (NO<sub>3</sub>)<sub>2</sub> Pb al 10 por 100.
+
+22.3.8 NaOH 0,5 N.
+
+22.3.9 NaOH 0,025 N.
+
+22.3.10 CINa.
+
+22.3.11 Manitol o sorbitol.
+
+22.4 *Procedimiento*.
+
+Pesar la muestra con exactitud de 1 mg (22.6.1), depositando la cantidad de sustancia pesada en un vaso de 250 ml. Añadir, aproximadamente, 50 ml de H<sub>2</sub>O y 3 ml de ClH. Calentar a ebullición y mantener ésta durante un tiempo suficiente como para descomponer los carbonatos. Mantener a continuación la solución caliente sin llegar a ebullición durante el procedimiento de eliminación de posibles fosfatos. Añadir unos 10 ml de solución de (NO<sub>3</sub>)<sub>2</sub> Pb al 10 por 100 o 1 ml por cada 1,2 por 100 de P<sub>2</sub>O<sub>5</sub> si el contenido de éste se conoce y es superior al 12 por 100. Añadir CO<sub>3</sub>H Na hasta neutralizar. Seguidamente añadir unas cuantas gotas de rojo de metilo y continuar añadiendo CO<sub>3</sub>H Na hasta conseguir un viraje alcalino del rojo de metilo (amarillo o ligeramente anaranjado). A continuación calentar la mezcla al baño de María durante treinta minutos, añadiendo pequeñas cantidades de CO<sub>3</sub>H Na si fuera necesario para mantener el color (22.6.2). Después de la neutralización y el período de calentamiento, tendremos de 40-50 ml de solución. Filtrar la solución en caliente, recogiéndola sobre un Erlenmeyer de 250 ml, lavando el filtro con agua caliente. Se acidifica con unas cuantas gotas de ClH y calentar brevemente para expulsar el CO<sub>2</sub>. Neutralizar la solución en caliente con NaOH 0,5 N y acidificar de nuevo con ClH 0,5 N, añadiendo de 0,3-0,5 ml de exceso. Diluir a 150 ml, aproximadamente, y calentar de nuevo a ebullición durante unos minutos para expulsar el CO<sub>2</sub> que pueda quedar. Enfriar a temperatura ambiente con agua fría. Neutralizar la mezcla con NaOH 0,5 N y colocar dentro del vaso los electrodos y agitador magnético.
+
+Comenzar a agitar y ajustar a pH = 6,30 mediante la adición de NaOH 0,25 N o ClH 0,02 N y según se requiera (22.6.3). Una vez que el pH se mantenga a 6,30, se procede a efectuar la lectura en la bureta de NaOH 0,25 N; añadir 20 g de manitol o de cristales de D-sorbitol y efectuar la valoración con sosa 0,25 N hasta obtener nuevamente el pH 6,30 (desconectar el pH-metro dejando la lectura a 6,30 cuando se añade el manitol, conectándolo de nuevo cuando el indicador se acerca a su punto final, continuando añadiéndole cuidadosamente solución patrón de NaOH hasta que la aguja del galvanómetro vuelva a cero). De esta manera, con práctica, se trabaja sin sobrepasar el punto final de la titulación. Cuando se alcanza el punto final, se efectúa de nuevo la lectura de la cantidad de NaOH gastado. Efectuar un blanco con todos los reactivos a excepción de la muestra a analizar.
+
+22.5 *Cálculos*.
+
+Calcular el contenido en B aplicando la siguiente fórmula:
+
+% B = (ml de NaOH gastados en la determinación ‒ ml blanco) ⋅ (mg B/ml de solución de NaOH)/10 g muestra.
+
+22.6 *Observaciones*.
+
+22.6.1 Para muestras de hasta 0,45 por 100 de contenido en B, pesar 1 g. Para contenidos más altos, pesar menos, pero guardando, aproximadamente, esta proporción.
+
+22.6.2 Si el color de la solución palidece debido a la presencia de nitratos, añadir más rojo de metilo. Por el contrario, si dicho color se oscurece debido a la materia orgánica, se aconseja seguir la neutralización por medio de la técnica del indicador externo.
+
+22.6.3 El pH se debe mantener; de no ocurrir así, sería debido a una expulsión incompleta del CO<sub>2</sub>.
+
+22.7 *Referencias*.
+
+1\. A. O. A. C.: «Official Methods of Analysis». Ed. 1970, página 24/2.103.
+
+23\. BORO SOLUBLE EN AGUA
+
+**(Derogado).**
+
+24\. DETERMINACIÓN DEL MAGNESIO
+
+**(Derogado).**
+
+25\. AZUFRE LIBRE
+
+**(Derogado).**
+
+26\. AZUFRE TOTAL
+
+**(Derogado).**
+
+27\. AZUFRE DE SULFATOS
+
+**(Derogado).**
+
+28\. CLORUROS
+
+**(Derogado).**
+
+29\. CINC
+
+**(Derogado).**
+
+30\. COBRE
+
+**(Derogado).**
+
+31\. SODIO
+
+**(Derogado).**
+
+32\. HIERRO
+
+**(Derogado).**
+
+33\. MANGANESO
+
+**(Derogado).**
+
+34(a). CALCIO SOLUBLE EN ÁCIDO
+
+**(Derogado).**
+
+34(b). CALCIO SOLUBLE EN ÁCIDO
+
+**(Derogado).**
+
+> Se derogan los métodos 23, 29, 30, 32 y 33 por la disposición derogatoria única del Real Decreto 2490/1994, de 23 de diciembre. [Ref. BOE-A-1995-3393](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-3393)
+
+> Se derogan los métodos 25, 26, 27, 31, 34(a) y 34(b) por la disposición derogatoria del Real Decreto 1163/1991, de 22 de julio. [Ref. BOE-A-1991-19200](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-19200)
+
+> Se derogan los métodos 1, 2, 6(a), 6(b), 6(c), 7(a), 7(b), 8, 10(a), 11, 12, 15, 16, 16(b), 17, 17(b), 18, 19, 20(a), 20(b), 20(c), 24 y 28, por la disposición derogatoria de la Orden de 18 de julio de 1989. [Ref. BOE-A-1989-17510](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-17510)
+
+## ANEJO V — Métodos de análisis de productos fitosanitarios
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 971/2014, de 21 de noviembre. [Ref. BOE-A-2014-12561](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12561)
+
+## ANEJO VI — Métodos de análisis de productos lácteos
+
+> Téngase en cuenta que la Orden de 26 de enero de 1989 [Ref. BOE-A-1989-2695](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-2695), por la que se aprueban los métodos oficiales de análisis de determinados tipos de leche parcial o totalmente deshidratada destinados a la alimentación humana, deroga los métodos coincidentes que figuran en la presente Orden.
+
+MANTEQUILLA
+
+9\. ÁCIDOS GRASOS DE CADENA CORTA
+
+9.1 *Principio*.
+
+Obtención de los ésteres metílicos de los ácidos grasos mediante reacción con una solución de hidróxido potásico en metanol y subsiguiente inyección directamente de la disolución de ésteres metílicos en el cromatógrafo.
+
+El método es aplicable a las grasas de mantequillas u otras que contengan ácidos grasos de longitud de cadena inferior al C<sub>14</sub> y siempre que el contenido de ácidos libres no exceda del 1 por 100 expresados en ácido oleico.
+
+9.2 *Material y aparatos*.
+
+9.2.1 Matraces con boca esmerilada y fondo redondo de 50 y 100 ml de capacidad.
+
+9.2.2 Pipetas aforadas de 1, 2 y 10 ml.
+
+9.2.3 Matraces aforados de 50 y 100 ml de capacidad.
+
+9.2.4 Probeta graduada de 10 ml.
+
+9.2.5 Jeringa de características adecuadas para la inyección de la muestra, graduada en décimas de ml, con una capacidad total de 1 a 10 ml.
+
+9.2.6 Cromatógrafo apto para trabajar en fase gaseosa, provisto de horno capaz de ser calentado hasta 250-300 °C y sistema de regulación que permita controlar la temperatura con un error de ± 1,0 °C. Equipado con programador de temperatura capaz de llevar la temperatura del horno de 60 °C a 180 °C a una velocidad de 4 °C/min. Provisto de regulación independiente de la temperatura del inyector, que podrá ser calentado a una temperatura superior por lo menos en 50° a la máxima alcanzable por el horno provisto de un sistema de detección sensible, de ionización de llama de hidrógeno, que pueda ser mantenido a la temperatura de la columna, a unos 50 °C por encima de la del horno.
+
+9.2.7 Registrador con una tensión de entrada adecuada a la salida del amplificador del cromatógrafo, con una velocidad de respuesta mínima capaz de producir la deflexión completa de la escala en un segundo; y una velocidad de desplazamiento del papel de 5 mm/min, que permita la posibilidad de variar esta velocidad, acelerando o retardando el desplazamiento.
+
+9.2.8 Tubo de nitrógeno a presión, utilizable como gas portador, debiendo tener una riqueza mínima del 99,8 por 100.
+
+9.2.9 Tubos de hidrógeno y aire a presión necesarios para el caso en que se utilice detector de llama de hidrógeno. El hidrógeno deberá tener una riqueza mínima del 99,8 por 100, debiendo estar seco. Como medida de seguridad, es muy conveniente colocar a la entrada de los gases en el cromatógrafo, sendos tubos de desecación, provistos de tamiz molecular 13X.
+
+9.2.10 Columna cromatográfica.
+
+9.2.10.1 Columna que satisfaga las condiciones que se indican en 9.6.1.
+
+9.2.10.2 Columna de vidrio con diámetro interior de 4 mm y una longitud aproximada de 2 mm. Rellenada con Chromosorb G, W o Q (80-100 mallas), conteniendo de 2,5 a 5 por 100 de un poliéster, recomendándose cualquiera de los tres siguientes: dietilenglicolsuccinato (DEGS); etilenglicolsuccinato o adipato (EGS o EGA): polietilenglicoladipato (PEGA).
+
+Antes de emplear una columna nueva en la resolución de problemas analíticos, debe ser acondicionada, eliminando todos aquellos productos volátiles que perturbarían la marcha de la cromatografía. Para ello, se monta en el cromatógrafo, sin conectarla al detector, y se calienta el horno a unos 10 °C por encima de la temperatura máxima a que vaya a ser utilizada la columna en trabajos posteriores; haciendo pasar, al mismo tiempo, una corriente de nitrógeno de 30 a 40 ml/minuto, que se mantiene durante veinticuatro horas como mínimo. La columna será apta para su utilización si, una vez conectada al detector y en funcionamiento normal, la línea base dibujada por el registrador acusa la estabilidad del sistema.
+
+9.3 *Reactivos*.
+
+9.3.1 Metanol absoluto (99,8 por 100).
+
+9.3.2 Hidróxido potásico, en lentejas.
+
+9.3.3 Éter de petróleo o hexano. Éter de petróleo (p. e.: 40-60 °C), cuyo contenido en benceno no sea superior a 0,1 por 100. Hexano normal, que cumpla las mismas especificaciones del éter de petróleo.
+
+9.3.4 Heptano normal, con una riqueza mínima del 99 por 100.
+
+9.3.5 Disolución 2 N de hidróxido potásico en metanol. Disolver 11,2 g de hidróxido potásico en 100 ml de metanol.
+
+9.3.6 Ésteres metílicos de pureza adecuada para su utilización como patrones de cromatografía gaseosa.‒Se dispondrá de los ésteres metílicos de los ácidos mencionados a continuación, debiendo tener una pureza mínima de 99 por 100, determinada por cromatografía gaseosa:
+
+Ácido butanoico (butírico).
+
+Ácido pentanoico (valeriánico).
+
+Ácido hexanoico (caproico).
+
+Ácido octanoico (caprílico).
+
+Ácido decanoico (cáprico).
+
+Ácido dodecanoico (láurico).
+
+Ácido tetradecanoico (mirístico).
+
+Ácido hexadecanoico (palmítico).
+
+Ácido octadecanoico (esteárico).
+
+Ácido 9-octadecanoico (oleico).
+
+Ácido 9,12 octadecadienoico (linoléico).
+
+Ácido sicosanoico (aráquico).
+
+9.3.7 Solución de referencia I.‒En un matraz aforado de 50 ml se pesa, con exactitud de ± 0,1 mg, 1 g de pentanoato de metilo, disolviéndolo en heptano normal y completando hasta el enrase.
+
+9.3.8 Solución de referencia II.‒En un matraz aforado de 100 ml se pesa, con exactitud de ± 0,1 mg, 200 g de pentanoato de metilo, disolviéndolo en heptano normal y completando hasta el enrase.
+
+9.4 *Procedimiento*.
+
+9.4.1 Preparación de los ésteres metílicos.
+
+En un matraz de fondo redondo de 50 ml, pesar con exactitud de ± 0,1 mg, 1 g de grasa. Añadir 10 ml de éter de petróleo o hexano y agitar suavemente hasta disolución de la grasa.
+
+En el caso de que se quiera efectuar una determinación cuantitativa de los ácidos butírico y caproico en la muestra, agregar a la disolución en éter de petróleo de la grasa 1 ml, exactamente medido, de la solución de referencia más adecuada; para muestras conteniendo de 1-4 por 100 de ácido butírico se utilizará la solución de referencia I; para muestras conteniendo menos de 1 por 100 de ácido butírico se utilizará la solución de referencia II.
+
+Si se desea efectuar solamente un análisis completo de la fracción de ácidos grasos, para lo que se aplica el método de normalización interna, no será necesario el empleo de solución de referencia.
+
+A la solución en éter de petróleo de la muestra, adicionada o no de solución de referencia, agregar 0,5 ml de disolución 2 N de hidróxido potásico. Agitar suavemente la mezcla hasta que se ponga transparente, para lo cual son suficientes unos veinte a treinta segundos. Casi inmediatamente después de observar la clarificación de la solución suele apreciarse un enturbiamiento debido a la separación de glicerol, que se sedimenta rápidamente.
+
+Inmediatamente después de terminada la reacción y observada la sedimentación, tomar la cantidad necesaria con la jeringa e inyectar en el cromatógrafo; una demora en la inyección de los ésteres metílicos daría lugar a la formación de jabones, con error en la determinación.
+
+9.4.2 Determinación cromatográfica.
+
+9.4.2.1 Condiciones de trabajo.
+
+Temperatura de la columna: Temperatura programada de 60 °C a 160 °C, con una velocidad de 4 ºC/minuto.
+
+Temperatura del inyector: 200 °C.
+
+Temperatura del detector: 200 °C.
+
+Gas portador: Nitrógeno (o helio) con un flujo de 60 ml/min.
+
+Flujo de hidrógeno y aire para la alimentación del detector: Los flujos dependerán del tipo de detector utilizado, debiendo determinarse previamente para optimizar la respuesta.
+
+El registro obtenido del cromatograma debe satisfacer las condiciones que se indican a continuación; caso contrario, se repite la inyección modificando la cantidad inyectada o la sensibilidad de trabajo hasta obtener un cromatograma satisfactorio.
+
+Los requisitos exigidos son los siguientes:
+
+a) El área total descrita en el registro, referida a la sensibilidad máxima utilizada en el curso de la operación, debe ser de un orden aproximado de 2.000 mm<sup>2</sup>, con una velocidad del papel en el registrador de 5 mm/min. De esta forma, los componentes presentes en una cuantía del 0,1 por 100 deben dar un pico, como mínimo, de 2 mm<sup>2</sup>, siendo, por tanto, perfectamente reconocibles.
+
+b) Con el fin de conseguir que todos los picos caigan dentro del papel registrador, se utilizará, en cada caso, la atenuación de sensibilidad que sea necesaria, cuidando que el pico de mayor intensidad no sea atenuado más de ocho veces.
+
+Una vez conseguido un registro satisfactorio, y habiendo alcanzado nuevamente la pluma la línea base, se interrumpe el funcionamiento del registrador y se retira el papel con el registro para la identificación de los picos y/o cálculos cuantitativos.
+
+9.4.2.2 Identificación de los picos.‒Se seguirán los criterios establecidos en el apartado 9.6.2.
+
+9.4.2.3 Determinaciones cuantitativas.‒La determinación cuantitativa se basa en el principio de que los pesos de cada uno de los componentes separados en la mezcla son proporcionales a las áreas comprendidas dentro de los triángulos dibujados debajo de cada pico. El área de cada triángulo se obtiene trazando rectas tangentes a las líneas dibujadas en el registro, prolongándolas hasta su intersección con la línea base y multiplicando la altura del triángulo por la mitad de la base. En el caso de haber trabajado con atenuaciones diferentes para cada pico, se referirán todas las medidas a una misma sensibilidad del registrador, multiplicando la altura por el factor de atenuación correspondiente en cada caso, y el valor de la altura así corregida por la mitad de la base.
+
+9.4.3 Determinación del contenido de los ácidos butírico y caproico en la materia grasa.‒Esta determinación se realiza por el método del patrón interno, siendo el patrón elegido el pentanoato de metilo.
+
+9.4.3.1 Preparación de la mezcla de calibración.‒Con una exactitud de ± 0,1 mg y en un matraz aforado de 50 ml, pesar unos 100 mg de cada uno de los siguientes patrones: butanoato de metilo, pentanoato de metilo y caproato de metilo. Se disuelve la mezcla de heptano normal y se diluye completando hasta el enrase.
+
+Inyectar la cantidad necesaria de la solución anterior, normalmente 0,2-0,4 μl, para que, trabajando a la sensibilidad media del aparato, se consiga situar los máximos de los picos en una posición del 70-80 por 100 del recorrido total de la pluma del registrador. Los tres picos deberán registrarse a la misma sensibilidad. Si fuese necesario, se diluirá la solución anterior con heptano normal en la relación necesaria para poder ajustarse a las prescripciones fijadas. Efectuar, cuando menos, tres determinaciones consecutivas, que no deben discrepar entre sí más del 1 por 100.
+
+9.4.4 Análisis cuantitativo de la totalidad de los componentes de la fracción de ácidos grasos, comprendiendo del C<sub>4</sub> al C<sub>20</sub> y C<sub>18:3</sub>.
+
+9.4.4.1 Preparación de la mezcla de calibración.‒Determinar previamente el factor de corrección para cada ácido componente de la mezcla, referido a uno cualquiera de ellos que se toma como patrón, eligiéndose normalmente para este fin el ácido palmítico, y debiendo tener la mezcla de calibración una composición análoga a la de la mezcla problema.
+
+Para ello, si no se conoce previamente el orden de composición del problema, se realizará una determinación cromatográfica de orientación, realizándose en el registro la cuantificación de los componentes suponiendo el mismo factor de respuesta para todos ellos, efectuando un reparto proporcional entre las áreas medidas.
+
+En un matraz aforado de 50 ml, pesar, con una exactitud de ± 0,1 mg, cantidades de los ésteres metílicos patrones que se indican a continuación proporcionales a las cifras de composición encontradas en el análisis de orientación anteriormente aludido, o previstas con anterioridad para la muestra. Los patrones que deben pesarse son los siguientes: butanoato de metilo; hexanoato de metilo, octanoato de metilo, decanoato de metilo, dodecanoato de metilo, tetradecanoato de metilo; hexadecanoato de metilo, octadecanoato de metilo, oleato de metilo, linoleato de metilo y eicosanoato de metilo. Se disuelve la mezcla de heptano normal agregando la cantidad adecuada de disolvente en relación al peso total de ésteres metílicos que se hayan pesado; para unos 500 mg en total, se deben emplear, como orientación, unos 50 ml de heptano. A continuación, inyectar 0,2-0,4 μl para que trabajando a la sensibilidad media del aparato, se consiga situar el máximo del pico correspondiente al componente mayoritario, en una posición del 70-80 por 100 del recorrido total de la pluma del registrador. Todos los picos deben registrarse a la misma sensibilidad, lo cual suele ser perfectamente factible en la grasa de leche; en aquellos casos en que la relación entre el pico mayoritario y el pico minoritario no permita registrar este último con las dimensiones adecuadas para efectuar una cuantificación correcta de su área, se podrá efectuar el cambio necesario en la atenuación del registro, procurando que ésta no sobrepase la relación de 4:1. Si fuese necesario, se diluirá la solución con heptano normal en la relación necesaria para poder ajustarse a las prescripciones fijadas. Efectuar, cuando menos, tres determinaciones consecutivas, que no deben discrepar entre sí más del 1 por 100.
+
+9.5 *Cálculos*.
+
+9.5.1 Cálculo de los factores de corrección para los ácidos butírico y caproico.‒Se determinan las áreas de los tres picos, siguiendo las normas que se contienen en el apartado 5.4, y se calculan los dos factores correspondientes al C<sub>4</sub> y C<sub>6</sub>, con la fórmula siguiente:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZjwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+eDwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3ViPgogICAgPG1vPj08L21vPgogICAgPG1mcmFjPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+eDwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0iYm9sZCI+PC9taT4KICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij5BPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5wPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tc3ViPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnA8L21pPgogICAgICAgICAgICA8bW8+JiN4MjJDNTs8L21vPgogICAgICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5BPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj54PC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tc3ViPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAtCAYAAAAqeqxGAAACEElEQVRoge2Z0XGEMAxEtxbquEKohFL4TRsUQy/kg+wgHBsb25xB6M0wk+QSxllL8loCDOOLDAD61ovQzAJgbr0IrfRYBV4AfBqvRSUTNoGnxmtRxwersB02kbumK2rEiE2ABeuhNDrf5753/PuakTyGf10/M7bD6IPylJYRK2vxa2FKDyg/9Qf836AZZRmhApaGUt86e94xIGzZ5OYy0lV6Zx5IJRFMsY6ekPij8w51MPJKUnk6+Fsedr767rqMZNchT+Q7e0F5paUQZ20VMyD2ue/i4RM4ejmh5QHq1bcr6LDf/NxSMSEeRKEodl1HUjC6qXZHoy1vW1yfzxvHoEsIXSo6+OsxkT9L2li+8NW25ASnS5K0HkacUwK76WItu2OkXsldt9oR7NbF2HPHel8VKxEXc2eBfx767DCBGwtM/zlju4sfbYbVYIeUCOaNZcALBKlNaok4ao5oofro3ueDQ/6Oqa85glkKv86AVXjfBEALzUb3jHJg38nXFsk2ur+Q14/umUU99jawVr189eie7oWiylP+SGTW1BShZMS+cnTPfzo0hPRZK0Z6LMptdI+wwDWu+WdH9yqJCZxbL3NG9yqJCZwrQs7o/mxv5hHEanAOJaN7db0ZCuwb2ZdEb+7onp89PnKJtFwpfZMYpaN7QFlvJlQiWqGuN3MngVX2Zu4ksDpkl0tFtBiGYQD4BSqlZ7VQUNIjAAAAAElFTkSuQmCC)
+
+Siendo:
+
+f<sub>x</sub> = factor de corrección del ácido x.
+
+x = cantidad pesada del ácido x.
+
+A<sub>p</sub> = área medida en el registro para el patrón de pentanoato.
+
+A<sub>x</sub> = área medida en el registro para el ácido x.
+
+P = peso del patrón pentanoato.
+
+9.5.2 Cálculo del contenido de ácidos.‒Los contenidos de ácido butírico y ácido caproico en la muestra de grasa se calculan por la fórmula siguiente:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPiYjeEUxOzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICA8bW8+PTwvbW8+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZjwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+eDwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICAgICAgPG1vPiYjeDIyQzU7PC9tbz4KICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+QTwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+eDwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICAgICAgPG1vPiYjeDIyQzU7PC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPkE8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnA8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgIDxtbz4mI3gyMkM1OzwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+TTwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KICAgIDxtbz4mI3gyMkM1OzwvbW8+CiAgICA8bW4+MTAwPC9tbj4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,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)
+
+f<sub>x</sub> = factor de corrección determinado para cada ácido, según se indica en el párrafo anterior.
+
+A<sub>x</sub> = área medida en el registro para el ácido.
+
+P = peso del patrón interno (pentanoato).
+
+A<sub>p</sub> = Área medida en registro para el patrón interno.
+
+M = peso de la muestra de grasa.
+
+9.5.3 Cálculo de los factores de corrección.‒Una vez determinadas las áreas de todos los picos, siguiendo las normas que se contienen en el apartado 9.4.2.2, se calcula el factor de cada Ácido, referido al ácido palmítico tomado como unidad, utilizando la fórmula que se incluye en el apartado 9.5.1, sustituyendo el área A<sub>p</sub> y el peso P del compuesto patrón por los valores correspondientes al palmitato de metilo.
+
+9.5.4 Cálculo de composición de la fracción de ácidos grasos.‒Se calcularán las áreas corregidas de cada uno de los componentes de la fracción multiplicando el área medida en el registro por el factor de corrección determinado según se indica en el apartado anterior. El contenido de cada componente vendrá dado por la expresión:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+WDwvbWk+CiAgICA8bW8+PTwvbW8+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmY8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+eDwvbWk+CiAgICAgICAgICAgIDxtbz4mI3gyMkM1OzwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5BPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPng8L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgIDxtbyBtYXRoc2l6ZT0iMTAiPiYjeDIyMTE7PC9tbz4KICAgICAgICAgICAgPG1vPig8L21vPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZjwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj54PC9taT4KICAgICAgICAgICAgPG1vPiYjeDIyQzU7PC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPkE8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+eDwvbWk+CiAgICAgICAgICAgIDxtbz4pPC9tbz4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgogICAgPG1vPiYjeDIyQzU7PC9tbz4KICAgIDxtbj4xMDA8L21uPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQoAAAAqCAYAAABLEBVLAAAFa0lEQVR4nO2c0bGjMAxFVUvqSCGphFL43TYohl6yHy+aKIoky8HEwdwzw+w+AkaAfS3LwkQAAADAjzMT0f2xLZ1smIjo1unaAIACE/0JBdFTMHo02DsRrR2uCwBIcKc/sWAuHWy40dOjuXa4PgAg4ELvQtGDhfoPfQAADlfqLxRsA4sW/x8A8AOs9GyYvOkYwax+n9S+FgIz0zNGwp7FHBy7tz0AAEXWo1jpKSJXKg8POObgNXiJ9CBkrKKlPQCADWSFQh6XmZngXr507ETvjZw9ncimWnsAABuoiVHsMXW6GuVNlBOZnlO54MDw+BYVJ0+NUHCwsVUPzteOtuhdtranFbsGYuX0kLUhSNMH7t2i92G9u6NQIxTc+7eqj0tQDj/TKPbQ2p6tsC2WcGlRLN13WI88hZQBnhGnjY5wT6WXx4JytGShrFDI9GquzFveG9f10u/eM21tz1ZW8uMyVt2wRFDvc+tU5EqxEZko8tE4Sg8c9Qa9K+qnZITiQq8VuIXLv1B5psLzKvawpxVyNoboaZtut9z5s9hx+9Z1SJf3Uqh1w6wuo00DcWU4Al4vd0RPgsjOo9D3IV1hrsRWLsOW6+rGcaF3u7iO7GFPS3TD5nZrxVpkey61+5f3kvEo9EPQY2hPVWWE2FNqOcTxKr9+KdYx0hWMkmGsiuqVlekx+FhtU8bmLHoYeFSRAPughSIaFnH9Z6/OGi2YMRhPKGRFl1jum6XSizBqfRg2q3P135YSLupvy13S1yq5VpFHoa8feVQr2UKRsbkW+T5qZ1i0aJW2Iw5nzowWCm4LFlxfJzLE4IEpIp7LFY1xdG/GBXvegmUM/yYrpR5b3ehdwDwltNwlPSZjPKGwjmcR8tDPpMbmWuRL7sU/bLtumky26VeFoibzLXJpJF5D5bJKsY+oJ9TnthAKepxveSseWihqbK6BnxeX1Stvo3dDGn3TZLJNf04oorGP9VskFNkItHeMtqGVUMjzeKsRihqbs8iUYzk3jiECIOoco7BgdYuCidYFLaEwp2CMMrPTT62EQj+8Wo+ixuYMHAiWZNONGcQoxsab9bDa6Z1eZz2sTq161kMTjZes/ZFQRDczJY65qf0thGI29tcKRY3NJax4h7TLe9FHwxOmEdfU3EOEv5JHUevKcgWVD48bhyYSChLX1edMiWO2BDP1A+J/9QxGRkStAG/W5ojSs5Pv7cgJcSyGWkB5zQeisdbUzAy5a7EadtPMTBkcq1FunUdhnWOVbaHzGqxKXzpGX0svLKLP0TnwXAH1DNCq7tWqqN5MUOa+PPT96Epg5YJ8e8ig4zjR5jU0KQYaPUYeaU3NK7URi1L71e/Ie9alZDTQgFLPPzIZb9Rbu+Hq7Cc6x5qakUiCAfE8irOQCaxajUwmxmlYgHoKBduw55qa6L1PBAvFmWHX1eshdYO3ku10WdHQxfrOIkrb/4SZ9l9TcwnKBAMgK6+sUGdF9rqZIdhMsQeS9ShkEK/VuJ+RQibH+i3tsWbZwEDIAOcI05MtkI2p5E6XcmiyQiGPazkzIRPcGPZ0Iptq7eF6hOEHOBWZdGOidkIhr5nxZDLfTbB9urxskluNPVHODQBDw15W1EuWGlyNUHySWZy5drRFIlBjj/W1NADDk3W5W3oU3Pu3CmIuQTmZbNgae+BRgNPBjTtDKYiXFQqZXh19CJXl22tqehnNAAxLTc8ocxSi3yOhGGFNzT3SuQH4WSJ3ncj+GI7T4zVWHoU+V2ZMHnlNTQw7wGmwphI1tSncZ6D2I0EADktmhiAK/k3U/3uOHlzo3CIJToT15aK3RT1n6/UejgBEAoAPmOk8Y3WIBAAAAAAAAAC88x9B7hn2vwMWrQAAAABJRU5ErkJggg==)
+
+Siendo:
+
+fx = factor de corrección del componente x.
+
+Ax = área medida en el registro para el componente x.
+
+Σ (fx • Ax) = suma de todas las áreas corregidas correspondientes a los componentes de la fracción.
+
+9.6 *Observaciones*.
+
+9.6.1 La puesta a punto de la columna se determina obteniendo la resolución de dos productos críticos como son el oleato y el estearato de metilo. La resolución viene determinada por la expresión:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5SPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5zPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5sPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj51PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj4mI3hGMzs8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm48L21pPgogICAgPG1vPj08L21vPgogICAgPG1mcmFjPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bW4+MjwvbW4+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+RDwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+TzwvbWk+CiAgICAgICAgICAgIDxtbz4rPC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPkU8L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKwAAAAkCAYAAAAU0tFtAAADUUlEQVR4nO2c3ZGrMAyFTy3UQSGphFJ4vW1QTHrZfcjojiOOZPG7jqNvhhdisMAHWZY8AZIkSTpgAPCjjgdpt5B2+hhvsDf5YgYAT3Vuwkt8k3GNiFMzIYWbXMyEl2g14k0ZlmCBd2/NvHSSHMLyhDNeomNi9gQLvIRaa5MkpyKCZUTE+ER62eRGnniFBYyIYEXw85lGJQlDpnQWDgAp2KQxalP5FsFamYauGXF9LCSr4m+PuRbURRYR7Cnvs5b4bc19S+DekpBkuuwxz7ggpoGaYIdAmzDWzcbifEuDIQJpQbBiS4/T3Iy4w6qJ8dQMgad+qVS05GlbEewD64pQL8ywMwIL1osv0Y8+f4nT8wQr4rCM/wtaEOyItj7iM6mFieOGtpfMzhEP6wlWVn+egZHYs6w7/8D2Xkyw5YsbyDnWZ1l9YXbLc7Fro7aKDQPe31OPIcRteIK1XL2w4H1AWflOTy8z1gO2YP1RWH1bHpb17bUt+5tUO0mSs2sXrAUqH+RA2omg5T5eiVM/S/Tw7tUdbCtZxJ2zGE5ilnK6ZCvNUrDWKlvupYV8VLAsCS7vYCbt2LVRWyfS/u6Q5l8HxxvMw3rTnOB5gXLgmBi0B7a8hHiokqOC9RYUtX622pqCvUmwkcUWm8bLe2pkQFk4YImA/XZUsJ7dJV6sHLW1BcF2hxXDigC89EYkraMFqr239MPCD7YH86hgn0G7PQ/r7b4v2SvYjGEdvEWXeEWWwmGDITyK81rwEu+NRVurD3b+qGA9u1lsXV5rxaoA383Uqodlor8jcxFJg2mHtsJL7pa/sQdiQn/AX3TJIOoVtSUsjTXgeqUP2BsuLLtrgi3vyWzVnq41wVo7pkqndbW3rpVpRziCZYq3vIT1QE/1O/OIOufJXorux/Ji3peon6e8p7bLs7vWj34e9oKZLXqqv7P4ENkt5QnJgmWBatT66bUokwSJbj7ZU4q/QrDJlxOpWAL7dlWdLdisAib/w5OIGKz1jHfvswQ7oK19K8kf0apg2ZGCTU4TbCQlFRFeetjEJWPY5KP4xCxBpra+nNr/YwH7igdXCLbnDfLJBrziwd5K11bBRipdf1UJTBqFLZL2xo5bBBvdS3BHiThJkiRJks/kFzlGk8FUPVMGAAAAAElFTkSuQmCC)
+
+Siendo:
+
+D = distancia entre los dos máximos de los picos del oleato y el estearato.
+
+O = ancho de la base del pico correspondiente al oleato.
+
+E = ancho de la base del pico correspondiente al estearato.
+
+Estos valores se determinan sobre el cromatograma obtenido con una muestra conteniendo cantidades aproximadamente iguales de estearato y oleato de metilo, inyectando una cantidad tal que la altura de estos picos alcance al 25-50 por 100 del ancho del papel de registro. Si la resolución calculada es igual o mayor que 1,0, la columna y el instrumento se encuentran en condiciones satisfactorias. Todas las columnas en el transcurso de su utilización sufren una pérdida gradual en la resolución de los picos; cuando el valor llegue a ser inferior a 1,0, deberá instalarse una nueva columna.
+
+9.6.2 Para la identificación de los picos se pueden seguir dos criterios:
+
+9.6.2.1 Criterio basado en los tiempos de retención.‒Refiriéndonos exclusivamente a los ácidos que entran normalmente en la composición de las grasas naturales, sus ésteres aparecen en el cromatograma en orden creciente de sus átomos de carbono y a su insaturación. Esto es, el palmítico (C<sub>16</sub>) aparece delante del esteárico (C<sub>18</sub>), y los ésteres en C<sub>18</sub> aparecen en el orden estearato, oleato, linoleato y linolenato. El éster del ácido aráquico (C<sub>20:0</sub>), usualmente, aparece antes del linolénico (C<sub>18:</sub><sub>3</sub>), pero puede ocurrir lo contrario en algunos casos, dependiendo del tipo de columna y de las condiciones de su utilización, o incluso superponerse el uno al otro.
+
+Operando en condiciones constantes, los tiempos de retención son reproductibles en cada especie química, siendo el criterio más frecuente empleado para su identificación.
+
+El tiempo de retención viene dado por la distancia, medida en el cromatograma, entre el máximo del pico del aire y la posición del máximo de la banda. Trabajando con detector de llama de hidrógeno, la salida del aire no se detecta, pudiéndose tomar, en este caso, el momento en que se inicia la salida del disolvente, acusada por una fuerte deflexión de la pluma del registrador.
+
+9.6.2.2 Criterio basado en los tiempos de retención relativos.‒Los tiempos de retención relativos son más reproductibles. Las retenciones relativas vienen determinadas por el cociente de dividir el tiempo de retención de cada pico por el tiempo registrado para el pico del palmitato de metilo, o bien por otro éster que se tome como comparación, determinados todos ellos según el criterio expuesto en el párrafo anterior.
+
+9.7 *Referencias*.
+
+1\. Instituto de Racionalización y Normalización del Trabajo. Una Norma Española 55.118.
+
+QUESO
+
+1\. EXTRACCIÓN DE LA GRASA DEL QUESO
+
+1.1 *Principio*.
+
+Extracción de la grasa del queso mediante pentano o éter de petróleo.
+
+1.2 *Material y aparatos*.
+
+1.2.1 Mortero.
+
+1.2.2 Aparato de extracción continuo.
+
+1.2.3 Baño de agua.
+
+1.3 *Reactivos*.
+
+1.3.1 Sulfato sódico anhidro.
+
+1.3.2 Pentano o éter de petróleo (p. e. 40-60 °C).
+
+1.4 *Procedimiento*.
+
+Moler la muestra en un mortero con sulfato sódico anhidro hasta obtener una masa granulosa. Extraer la masa con pentano o éter de petróleo (se puede usar un aparato de extracción continuo) y evaporar el disolvente al baño de agua o a presión reducida.
+
+1.5 *Referencia*.
+
+1\. Norma internacional FIL-IDF 32: 1965.
+
+2\. DETERMINACIÓN DEL CONTENIDO EN MATERIA GRASA
+
+2.1 *Principio*.
+
+El contenido de grasa se determina gravimétricamente por digestión del queso con ácido clorhídrico y subsiguientemente extracción de la grasa de una solución ácido-alcohólica con la ayuda de éter dietílico y éter de petróleo, evaporación de los disolventes y posterior pesada de los residuos.
+
+La precisión del método es de 0,2 g de grasa por 100 g del producto.
+
+2.2 *Material y aparatos*.
+
+2.2.1 Balanza analítica.
+
+2.2.2 Probetas o matraces de extracción adecuados provistos de tapones de vidrio esmerilado o corcho; dispositivos del cierre que no puedan ser atacados por los disolventes utilizados. Si se usan tapones de corcho deberán ser de buena calidad, sometiéndolos a extracción sucesivamente con éter dietílico y éter de petróleo. Después se introducirán, al menos durante veinte minutos, en agua a una temperatura de 60 °C o superior, dejándose enfriar en agua de forma que estén saturados cuando se utilicen.
+
+2.2.3 Matraces de paredes delgadas y bases planas de 150 a 250 ml de capacidad.
+
+2.2.4 Estufa de desecación regulable que permita trabajar a 102° ± 2 °C, o una estufa de desecación por vacío (temperatura de 70° a 75 °C, presión menor de 50 mm de Hg).
+
+2.2.5 Perlas de vidrio o trozos de carburo de silicio, exento de grasa.
+
+2.2.6 Baño de agua.
+
+2.2.7 Hojas de película de celulosa, sin barnizar, solubles en ácido clorhídrico, de 0,03-0,05 mm de espesor y de 50 x 75 mm de superficie, aproximadamente. Las películas de celulosa no deben afectar al resultado del análisis.
+
+2.2.8 Aparato adecuado para la trituración de la muestra.
+
+2.3 *Reactivos*.
+
+2.3.1 Ácido clorhídrico del 25 por 100 (p/p) (d<sub>20</sub> = 1,125).
+
+2.3.2 Etanol del 96 por 100 (v/v) (2.6.1).
+
+2.3.3 Éter dietílico, exento de peróxidos (2.6.2).
+
+2.3.4 Éter de petróleo que destile a una temperatura que oscile entre 30° y 60 °C.
+
+2.3.5 La mezcla de disolventes se prepara poco antes de utilizarla, mezclando volúmenes iguales de 2.3.3 y 2.3.4 (2.6.3).
+
+2.4 *Procedimiento*.
+
+2.4.1 Preparación de la muestra.‒Antes de efectuar el análisis, eliminar la corteza, capa o superficie mohosa que recubre el queso, con objeto de obtener una muestra representativa del queso tal como se consume normalmente. Triturar la muestra con 2.2.8, mezclar la masa triturada rápidamente, y si es posible triturarla por segunda vez y mezclarla de nuevo concienzudamente (2.6.4). Pasar la muestra preparada a un recipiente cerrado herméticamente hasta el momento del análisis, que se efectuará en el mismo día (2.6.5).
+
+2.4.2 Determinación.‒Secar el matraz 2.2.3 con 2.2.5 en la estufa durante un intervalo de media hora. Dejar que se enfríe el matraz a la temperatura ambiente de la balanza y pesar el matraz enfriado con aproximación de 0,1 mg.
+
+Pesar, con aproximación de 1 mg en el aparato de extracción 2.2.2 o en un vaso o matraz de 100 ml, de 1 a 3 g de la muestra de queso preparada. La muestra del ensayo podrá también pesarse utilizando una lámina de celulosa 2.2.7, que posteriormente se plegará e introducirá en el tipo de vasija seleccionada.
+
+Añadir de 8 a 10 ml de ácido clorhídrico (según la forma del aparato de extracción) y agitar la vasija ligeramente en un baño de agua hirviendo o sobre una llama hasta que el queso esté completamente disuelto. Dejar la vasija en reposo durante veinte minutos en el baño de agua hirviendo y después enfriar, por ejemplo, en agua corriente.
+
+Si la digestión del queso se ha hecho en el aparato de extracción, añadir 10 ml de etanol y mezclar el contenido, removiéndolo ligeramente, pero de un modo homogéneo en el aparato sin cerrar.
+
+Si la digestión del queso se ha hecho en una vasija distinta del matraz de extracción, verter el contenido de la vasija en este matraz. Enjuagarlo sucesivamente con 10 ml de etanol, 25 ml de éter dietílico y 25 ml de éter de petróleo, vertiendo cada vez el disolvente en el matraz de extracción. Después de cada adición mezclar y agitar el matraz de extracción, según se indica a continuación.
+
+Añadir 25 ml de éter dietílico, cerrar el aparato y agitar vigorosamente, invirtiéndolo repetidamente durante un minuto. Enfriarlo, si es necesario, en agua corriente. Quitar el tapón cuidadosamente y añadir 25 ml de éter de petróleo, empleando los primeros ml para enjuagar el tapón y la superficie interna del cuello del aparato, dejando que el líquido de los enjuagues penetre en el mismo. Cerrarlo, volviendo a colocar el tapón, agitar e invertirlo repetidamente durante treinta segundos; no debe agitarse demasiado enérgicamente. Dejar el aparato en reposo hasta que la capa líquida superior esté completamente límpida y claramente separada de la capa acuosa. La separación podrá también efectuarse mediante el uso de una centrífuga adecuada (2.6.6). Quitar el tapón y enjuagarlo, así como también el interior del aparato con algunos ml de la mezcla de los disolventes y dejar que los líquidos de los enjuagues penetren en el aparato. Transvasar cuidadosamente al matraz 2.2.3, lo más completamente posible la capa superior por decantación o con ayuda de un sifón (2.6.7). Enjuagar el exterior y el interior del cuello del aparato o el extremo de la parte interior del sifón con unos cuantos mililitros de la mezcla de disolventes. Dejar que los líquidos de los enjuagues de la parte exterior del aparato penetren en el matraz y que los líquidos de los enjuagues de la parte interior del cuello y del sifón penetren en el aparato de extracción. Hacer una segunda extracción repitiendo el procedimiento descrito anteriormente (desde la adición de 25 ml de éter de petróleo), utilizando solamente 15 ml de éter dietílico y 15 ml de éter de petróleo. Hacer una tercera extracción, pero omitiendo el enjuague final.
+
+Evaporar o destilar cuidadosamente la mayor cantidad posible de disolvente (incluido el etanol). Si el matraz es de poca capacidad, parte del disolvente tendrá que eliminarse en la forma citada anteriormente, después de cada extracción. Cuando haya desaparecido el olor a disolvente, calentar el matraz, apoyándolo sobre un lado durante una hora en la estufa. Dejar que el matraz se enfríe a la temperatura ambiente de la balanza y pesar con aproximación de 0,1 mg. Repetir las operaciones de calentar el matraz en estufa y pesar, calentando a intervalos de treinta a sesenta minutos, hasta que se obtenga una masa constante.
+
+Añadir de 15 a 25 ml de éter de petróleo, con objeto de verificar si la materia extraída es totalmente soluble. Calentar ligeramente y agitar el disolvente mediante un movimiento rotatorio, hasta que se haya disuelto toda la grasa. Cuando la materia extraída sea totalmente soluble en el éter de petróleo, la masa de grasa será la diferencia entre las pesadas del matraz 2.2.3 y de la masa constante. En caso contrario extraer completamente la grasa del matraz mediante lavados repetidos con éter de petróleo caliente, dejando que se deposite la materia no disuelta antes de cada decantación. Enjuagar tres veces la parte exterior del cuello del matraz. Calentar el matraz, apoyándolo sobre un lado, durante una hora en la estufa y dejar que se enfríe a la temperatura ambiente de la balanza y pesar con aproximación de 0,1 mg. La masa de grasa será la diferencia entre la masa obtenida anteriormente y esta masa final.
+
+2.4.3 Ensayo en blanco.
+
+Al mismo tiempo que se determina el contenido de grasa de la muestra, efectuar una determinación en blanco con 10 ml de agua destilada, empleando el mismo tipo de aparato de extracción, los mismos reactivos en las mismas cantidades y el mismo procedimiento. Si el resultado del ensayo en blanco excede de 0,5 mg deberán comprobarse los reactivos, y el reactivo o reactivos impuros deberán purificarse o sustituirse.
+
+2.5 *Cálculos*.
+
+La masa, expresa en gramos, de la muestra extraída es:
+
+(M<sub>1</sub> ‒ M<sub>2</sub>) ‒ (B<sub>1</sub> ‒ B<sub>2</sub>)
+
+y el contenido de grasa en la muestra, expresado en porcentaje, de la masa es:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1vPig8L21vPgogICAgICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5NPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtbj4xPC9tbj4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tc3ViPgogICAgICAgICAgICA8bW8+LTwvbW8+CiAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPk08L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1uPjI8L21uPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgIDxtbz4pPC9tbz4KICAgICAgICAgICAgPG1vPi08L21vPgogICAgICAgICAgICA8bW8+KDwvbW8+CiAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPkI8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1uPjE8L21uPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgIDxtbz4tPC9tbz4KICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+QjwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bW4+MjwvbW4+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICAgICAgPG1vPik8L21vPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlM8L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CiAgICA8bW8+JiN4RDc7PC9tbz4KICAgIDxtbj4xMDA8L21uPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM0AAAApCAYAAACWaa39AAAEAUlEQVR4nO2c0ZGrMAxFby2pI4WkEkrh97VBMfSS95HVRCiWLYNsHKIzw8cSwNqLJcuyEyAIAjduZxswCK11uLLOV/7fPngAWAHc//5eADzZMRme8RTHPX95Nb1sWv6OFpR0Th0tO6J3+y21G4oJwKx8xsXL8WDXtRath033HfeUyOm84tOpb6gLEEfwbL+FdkNxx0swjRVvQR+F62b0e8E9bMp18losOqdGwjtsAeIo3u17ajccK8odb8JLNO2lU2Sh63o4TS+bvNIji85a+tgjTWvRfmubT4HSl9w/tv59novsC15i93SaXjYtOB4xrTqnOi2lSLlRyoMW7XtoNxwzymJQB6UXL6+/4Z2/9naaHjZRencEq86pTuvRvoUW7feyvSs0NyhdQxEyVYGa8Y70vZ2mh010/5E0w6qzVr3qEa1btO+h3XDUOg2JQFGcUiSIz1Md9Kac34OXTbyjaPMNuv9I+bzGabT0SEZsTz33tN9Lu+Gw5Kq8g9I9JMSErWBaBy2VLWd8Rrec0B42zewZVCFKRUS6P9UxrHZbddbup3Yo4nvrWdu+h3ZfS+1IA2wju4w+uag+K+f34GGT7Bxr4hy//6yRBnh32kWc6zHSpNrvqd1wWCZqsoPmFrzOcpq9NnE0HabMZ1asOmsdjIIBn1v0dJpU+5yW2g1HbmgF3p1RDq9aJyBxU6vBXi/Z0yaC0roUHttCSjoD5eqV/N96OY3WPtFauyGhhUKJ3JPE04sbtlHnIa7VKlpHX7K3Tdw2Da/0wqpz6mgZhPa2z+3QuFxqRpS2d3jhHRm9WKCPAA/020ZTywh69tLOStfS9oT2L2CElyyZsY2EPOWTpWsPPHU+W08v7azXynksR1vkBrZ753JzWznimpClWk94TX+UHDe1mDeJz1vgofPZenpqR3Om3D257VJr5hmp6l1KM3muquono8ev0jpdvbLOe7TL7W8jhymlXrKsT8+UKSKNSuSA5HDy+ZZlgiA4FUqjeEfNlcElspPnFlb5yKI56yXXmILrwecmNQ4DfDoNzVFSIxR/trb+RLZs5kD/4ojjhKMEXyqomftJpyHHSEEOlVv4TjrU2eLF8ZtHiaGdJghGwzM9C6cJLo93IaDJnCawk9pqX5s+BDotSs656tcT2+pZaq0rqmcH0L7nfvaK/FWw/AaBxXFinWYQNOGJUXY3fDMz7NtoSr/mc8qOgGAL37eUemGX+u77l5Lapc0dQO521wKg3BoU7/YAZ+/zCoKvg38rNAoAQVCBrKDFJDEIjPAcOtK1IDBC1ZWYMAaBIPd13tptHkHwE0zQU7Dc3qYg+Fmoxi8dx/pbakHwc9zxchz54wyRlgVBEARBEATBefwHbH9sZS4MMwUAAAAASUVORK5CYII=)
+
+Siendo:
+
+M<sub>1</sub> = masa, en g, del matraz con la materia grasa extraída.
+
+M<sub>2</sub> = masa, en g, del matraz sin grasa.
+
+B<sub>1</sub> = masa, en g, del matraz del ensayo en blanco después de eliminar los disolventes.
+
+B<sub>2</sub> = masa, en g, del matraz del ensayo en blanco.
+
+S = masa, en g, de la porción ensayada.
+
+2.6 *Observaciones*.
+
+2.6.1 Si no se dispone de etanol se puede utilizar etanol desnaturalizado con metanol, etilmetilcetona, benceno o éter de petróleo.
+
+2.6.2 Para el ensayo de los peróxidos verter 10 ml de éter en una pequeña probeta tapada con tapón de vidrio, previamente enjuagada con éter, añadir 1 ml de solución al 10 por 100 de yoduro de potasio, recién preparada. Agitar y dejar reposar durante un minuto. No debe aparecer ningún color amarillo en ninguna de las capas. El éter dietílico podrá mantenerse exento de peróxidos, añadiendo una lámina de cinc húmeda, que deberá sumergirse completamente en una solución ácida diluida de sulfato de cobre durante un minuto y después lavar con agua. Utilizar por litro una superficie de 80 cm<sup>2</sup> aproximadamente de lámina de cinc, cortarla en bandas suficientemente largas para que lleguen por lo menos hasta la mitad del recipiente.
+
+2.6.3 La mezcla de disolventes podrá sustituirse en aquellos casos en que su utilización se haya previsto por éter dietílico o éter de petróleo.
+
+2.6.4 Si la muestra no se pudiera triturar mezclarla cuidadosamente mediante un amasado intenso.
+
+2.6.5 En caso de que haya que retrasar inevitablemente esta operación, tomar todas las precauciones necesarias para asegurar la conservación adecuada de la muestra e impedir la condensación de la humedad en la superficie interior.
+
+2.6.6 Cuando se utilice una centrífuga que no esté provista de un motor trifásico pueden producirse chispas y entonces habrá que tomar las debidas precauciones para evitar explosiones o incendios debido a la presencia de los vapores de éter, por ejemplo, en el caso de una rotura de un tubo.
+
+2.6.7 Si el trasvase no se efectúa mediante un sifón, quizá sea necesario tener que añadir un poco de agua para elevar el plano intermedio entre las dos capas, con objeto de facilitar la decantación.
+
+2.7 *Referencia*.
+
+1\. Código de Principios referente a la Leche y a los Productos Lácteos. Norma B-3. FIL-IDE 5A: 1969.
+
+3\. DETERMINACIÓN DEL CONTENIDO DE EXTRACTO SECO
+
+3.1 *Principio*.
+
+El extracto seco del queso y de los quesos fundidos es la masa, expresada en porcentaje ponderal, que queda después del proceso de desecación.
+
+La precisión del método es de ± 0,1 por 100.
+
+3.2 *Material y aparatos*.
+
+3.2.1 Balanza analítica, sensibilidad 0,1 mg.
+
+3.2.2 Desecador provisto de un buen deshidratante (gel de sílice con indicador higrométrico o cloruro de calcio).
+
+3.2.3 Estufa de desecación que permita obtener una temperatura constante hasta 110 °C.
+
+3.2.4 Cápsulas de níquel o de aluminio de 2 cm de altura, aproximadamente, y de 6 a 8 cm de diámetro.
+
+3.2.5 Arena de cuarzo de granos gruesos o arena marina purificada con ácido clorhídrico, lavada y calcinada.
+
+3.2.6 Agitadores de vidrio con una extremidad plana.
+
+3.3 *Procedimiento*.
+
+Colocar 20 g de arena, aproximadamente, y un agitador de vidrio en la cápsula de níquel o de aluminio. Secar la cápsula con la arena y el agitador en la estufa a 105 °C, hasta peso constante. Dejar enfriar la cápsula en el desecador y pesar.
+
+Colocar rápidamente en la cápsula, aproximadamente, 3 g de la muestra de queso preparada y pesar de nuevo.
+
+Triturar cuidadosamente la masa de queso con la arena con ayuda del agitador (3.4.1). Secar la cápsula en la estufa durante cuatro horas a 105 °C. Dejar enfriar en el desecador y pesar.
+
+Proseguir el secado hasta peso constante separando cada pesada por una permanencia en la estufa de media hora.
+
+3.4 *Observaciones*.
+
+3.4.1 Para los quesos que fundan a la temperatura de 105 °C en una masa córnea, se recomienda guardar primero la cápsula con la masa del queso triturado en el desecador durante dieciséis horas, a la presión atmosférica normal y a la temperatura del laboratorio. Se removerá de vez en cuando el contenido de la cápsula con el agitador, para evitar la formación de costras.
+
+3.5 *Referencias*.
+
+1\. Federación Internacional de Lechería. Norma FIL-IDF 4: 1958.
+
+4\. DETERMINACIÓN DEL CONTENIDO EN FÓSFORO
+
+4.1 *Principio*.
+
+Mineralización de determinada cantidad de muestra con ayuda de ácido sulfúrico en presencia de peróxido de hidrógeno El fosfato se trata con molibdato de sodio y sulfato de hidrazina como agente reductor. El azul de molibdeno así formado se mide por fotometría, calculándose el contenido en fósforo.
+
+La precisión del método es de 0,04 g de fósforo por 100 de producto.
+
+4.2 *Material y aparatos*.
+
+4.2.1 Balanza analítica
+
+4.2.2 Colorímetro fotoeléctrico que permita lecturas a una longitud de onda de 700 nm.
+
+4.2.3 Aparato apropiado para triturar la muestra.
+
+4.2.4 Matraces Erlenmeyer de 25 ml.
+
+4.2.5 Aparato de mineralización que mantenga los matraces Erlenmeyer en una posición inclinada y provisto de un sistema de calentamiento que no caliente la parte del matraz situada por encima de la superficie del líquido.
+
+4.2.6 Cuerpos que faciliten la ebullición para la mineralización, trozos de porcelana o perlas de vidrio.
+
+4.2.7 Matraces aforados de 50, 100, 200, 500 y 1.000 ml.
+
+4.2.8 Pipetas y/o buretas de 1, 2, 5. 10, 20 y 25 ml.
+
+4.3 *Reactivos*.
+
+4.3.1 Ácido sulfúrico concentrado (densidad: 1,84 g/ml a 20 °C).
+
+4.3.2 Solución de peróxido de hidrógeno al 30 por 100 (p/v).
+
+4.3.3 Reactivo del molibdato y de sulfato de hidrazina.
+
+4.3.3.1 Solución al 2,5 por 100 de molibdato de sodio.‒Disolver 12,5 g de molibdato de sodio Na<sub>2</sub>MoO<sub>4</sub> • 2H<sub>2</sub>O en ácido sulfúrico 10 N, completando hasta 500 ml.
+
+4.3.3.2 Solución al 0,15 por 100 de sulfato de hidrazina. Disolver 0,30 g de H<sub>2</sub>N NH<sub>2</sub> • H<sub>2</sub>SO<sub>4</sub>, en agua destilada, completando hasta 200 ml.
+
+4.3.3.3 Inmediatamente antes de su empleo, mezclar 25 ml de 4.3.3.1 con 10 ml de 4.3.3.2 y diluir la mezcla hasta 100 ml con agua destilada para preparar el reactivo de molibdato y de sulfato de hidrazina. Esta solución no puede conservarse.
+
+4.3.3.4 Solución normalizada de fosfato.‒Disolver 0,4390 g de fosfato ácido monopotásico KH<sub>2</sub>P0<sub>4</sub> en agua destilada hasta obtener una solución de 1.000 ml. Esta solución contiene 100 μg de fósforo en 1 ml. El fosfato de potasio debe haber sido secado durante cuarenta y ocho horas en presencia de un agente de desecación eficaz, por ejemplo, el ácido sulfúrico concentrado. Todos los reactivos deben ser de calidad analítica.
+
+4.4 *Procedimiento*.
+
+4.4.1 Preparación de la muestra.
+
+Antes del análisis se quitará la corteza o la cara superficial mohosa del queso de modo que se obtenga una muestra representativa del queso tal como se consume habitualmente. La muestra será triturada a continuación en un triturador u otro aparato apropiado y mezclada íntimamente, evitando las pérdidas por evaporación.
+
+La muestra así preparada será conservada en un recipiente al abrigo del aire hasta su análisis, que deberá efectuarse el mismo día.
+
+4.4.2 Determinación.
+
+Introducir sucesivamente en el matraz Erlenmeyer 0,5 g de la muestra, pesados con exactitud de 1 mg, algunas perlas de vidrio o pequeños trozos de porcelana y 4 ml de ácido sulfúrico. Calentar con precaución el matraz Erlenmeyer sobre el aparato de mineralización. Al cesar la formación de espuma, enfriar a la temperatura ambiente; añadir con precaución algunas gotas de la solución de peróxido de hidrógeno, calentar de nuevo y repetir estas operaciones hasta que el contenido del matraz se encuentre límpido e incoloro. Durante el calentamiento, mezclar el contenido del matraz de tiempo en tiempo por agitación. Evitar los recalentamientos locales.
+
+Enjuagar el cuello del matraz con unos 2 ml de agua destilada y calentar de nuevo hasta que el agua se haya evaporado. Dejar hervir el líquido durante una media hora después de la decoloración, con el fin de eliminar todo indicio de peróxido de hidrógeno. Evitar los recalentamientos locales.
+
+Después del enfriamiento a la temperatura ambiente, traspasar el contenido del matraz a un matraz aforado de 100 ml; completar hasta el aforo con agua destilada y mezclar.
+
+Llevar con la pipeta 1 ml de la solución a un matraz aforado de 50 ml y diluir con unos 25 ml de agua destilada. Añadir 20 ml del reactivo de molibdato y de sulfato de hidrazina, llenar el matraz hasta el aforo con agua destilada y mezclar. Colocar el matraz en agua hirviendo y dejar que se forme el color durante quince minutos.
+
+Enfriar a la temperatura ambiente en agua fría y, antes de una hora, medir la densidad óptica con relación al ensayo en blanco (4.4.4) a una longitud de onda de 700 nm.
+
+4.4.3 Preparación de la curva patrón.
+
+Diluir en un matraz aforado 10 ml de la solución normalizada 4 3.4 con agua destilada y completar hasta 100 ml.
+
+Introducir en cinco matraces aforados de 50 ml, 0, 1, 2, 5 y 10 ml de la solución normalizada diluida con el fin de obtener una serie de soluciones testigos que contengan o (valor cero), 10, 20, 50 y 100 μg de fósforo.
+
+Añadir agua destilada a los matraces para obtener un volumen aproximado de 25 ml, añadir 20 ml del reactivo de molibdato y de sulfato de hidrazina, llenar hasta el aforo con agua destilada, mezclar, colocar el matraz con agua hirviendo y dejar que se forme el color durante quince minutos.
+
+Enfriar a la temperatura ambiente en agua fría y medir la densidad óptica de los testigos con respecto al de valor cero, a una longitud de onda de 700 nm.
+
+Determinar la curva patrón señalando las diferencias de densidad óptica con respecto a las cantidades de microgramos de fósforo.
+
+4.4.4 Ensayo en blanco.
+
+Efectuar un ensayo en blanco siguiendo el procedimiento expresado en 4.4.2, pero sin queso.
+
+4.5 *Cálculo*.
+
+Calcular el contenido en fósforo de la muestra por medio de la fórmula:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5DPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5kPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPmY8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPiYjeEYzOzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+czwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPiglKTwvbWk+CiAgICA8bW8+PTwvbW8+CiAgICA8bWZyYWM+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtbj4xMDA8L21uPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+VzwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATEAAAAlCAYAAAAqVd5RAAAFlklEQVR4nO2czZWrMAyFVUvqoJBUQilsXxsphl7mLWY0UW4kYYMBD7nfOVkMYbD8dy3LIiKEEEIIIR/IQ0S+ks94nmmEEFLGTb4Fa4brd3mK2e1oowghpJRIxEREpp/vpkMtIoSQCjIRG3++exxqESGEVFDiiTE2RgjplkjEVMC+DreIEEIqUBHzPoyFEUK6J9tOkgPRfJf72YaciHX/jwjEHl1eSzBl4C7xJJ7kWb8rphp0KWKzxElrn+4e2ja50oAc5dm3Ki6ZoGsO0HBQeT2hgqV1f8h3HXQyWx7yOrlH556/Tlcipg3sTVCbmXsUvYqETrpe7VsDniBldVMB23LiVFNeT1jxFfmeF1Z8B3mPCXnifCUh60bEdGBmhhy9ivTa0VcTMR2EJaKUbZv2KK8nBnmtuwqWHQejvHqn0c4Fn/WXscJ96pxQI5a2B0fFLtTz65GriZgOwiVRGaRNOKG0vN6Y5dWr0oUf71FQ0BD04v4i3ruTp8Q3a7Jq7/I+ee02NPPmtMI3eQ3q4mD2YnLIBN97g6W0PPs8b1DZ+s2Si1hpWyzRun4RXltHNpfWzT4T23OP8mzfaZvgWN7aLypYN+ea9s0kz7bXPskYV9hBAra83/SQ9wHjuZYa4NQBpIM7EoTME8MVzHtGTXmzxKeTWD+bE+PZXNIWS7Su3xIlnhEGqMWUb8uyJ3H6Nz63tLw140q9xQfcs7VfJslfq8H6lMylpcMRXMiWPlfZGaxCJ3CtiEWdoIM0Wg3t/foMTzw8EfNiMloe2l9TnnfdW31FfKGobYuIveqXsSQqNXXTkzq0c6/y7P3e81r1yyzlXtNgbLG/5IB9MgTX9+DfhT8isl7EslVfV0dLCxHLVqctould97wPawN6IDVtEbFX/TKWRKWmbuqpTnBtr/JE8jq36pcaEdN+0v6xXrLlyNjg2UKzu4itfdPcxmRKvmshYt7WQIlidWtFLBq40faupi0i9qpfxtJkWlM3FQjvma3Ly+rcql++pEzERnnGjVHMI4/003Mvm5DFeTJ0MmdBZ0srEStdEVuIWOYNep5YaVtE7FW/jFLPKBMJa5PFm/yl5ZW2ZYkntrVfSjyxm7x7YbbcUV7HTGk7lH4+OiYm8mywJW9MVxqR5+DxVhLvegsR855hn4WDZouIRRMgi4mVtkXEXvXLWJpMWfxohut4j/7v4FxbiomVtmVW51b9on2e8ZDnmPAOAqLt5FJa0x5cVvCs8nvM8j7wVGzsANLJhdRMOhQK2+iejXdpH9i3HqpFPTQcfDVtkbFH/TJKYjOeN6bl47Yat1B4T+npZGlbLtW5Rb+ozdHkxxw6FLGbvNd3zdjYiraV51VqHfWztN3PtCIiSp/CZ+ICg7Ythr68grIOxBwcrwA0cpR3dzkzGgco2ogTvKY8fBYOPmwH3fI9HLtK2qKElvWrKSfzDO4St5O9B+/DdJbS8taMq2hStegXbxG331l0/Ebfy48NRwT1rQ06RtAeb0H02gmvZTuHiGjXZ+d8pDVZHxBCFhikToyscOKkvAXPOgKM73mHECLvHm500ltzcqtEC47nNWNZhJANjNLGE5jlvLgUig6mglisxxR531u8sSis43nKd6EXRkgT7OHWGuwBwBmgiGWpJjb+G4UoVHhqBEafF23DPVE8u90IuRSTrDtVXPt/LUERy5J+VeBGiYVqbb6bd0A2iX+iPMjf++FMQshO9CJimGRv8+zUJpuyssX7JYRciF5EDJPs7TYdy4vsI4R8ID3ExBQN8Ht5dTa9iq9mEUJ+iU4nvVgdnk56cak1p5OKDeRnuZBnxxEJIR3RQ54Y/r8nVNEJJiHkw/FE58iMfWR07FGYoU8I+cV7RcsKEr4uFsWh8NWxrblb3nulCv7yByGEEEIIIYQQ0or/9LQFgP0WMKwAAAAASUVORK5CYII=)
+
+Siendo:
+
+P = peso, en μg, de fósforo obtenido al convertir la medida obtenida en el colorímetro utilizando la curva patrón.
+
+W = peso, en g, de la muestra tomada para el análisis.
+
+4.6 *Referencia*.
+
+1\. Federación Internacional de Lechería. Norma FIL-IDF 33A: 1971.
+
+5\. DETERMINACIÓN DEL CONTENIDO EN ÁCIDO CÍTRICO
+
+5.1 *Principio*.
+
+Obtención de un filtrado claro por dispersión de la muestra en agua y clarificación por la adición de ácido tricloroacético. El filtrado se trata con piridina y anhídrido acético y se forma con el ácido cítrico un compuesto de color amarillo. El color obtenido se mide por fotometría.
+
+La precisión del método es de 0,1 g de ácido cítrico anhidro por 100 g de producto.
+
+5.2 *Material y aparatos*.
+
+5.2.1 Balanza analítica, con precisión que permita de 0,001 g.
+
+5.2.2 Colorímetro fotoeléctrico que permita lecturas a una longitud de onda de 428 nm.
+
+5.2.3 Baño de agua con control termostático que permita una regulación a 32° ± 1 ºC.
+
+5.2.4 Aparato apropiado para triturar la muestra.
+
+5.2.5 Tubos de ensayo con tapones de vidrio o de plástico de 16 ó 18 por 150 mm.
+
+5.2.6 Mortero y mano de porcelana de unos 50 ml.
+
+5.2.7 Matraces aforados de 50, 100 y 1.000 ml.
+
+5.2.8 Pipetas y buretas de 1; 1,3; 4; 5,7; 8; 12; 16, y 20 ml.
+
+5.2.9 Embudos de vidrio de dimensiones apropiadas, por ejemplo, de 5 cm de diámetro.
+
+5.2.10 Papel de filtro duro Whadman número 540, S y S 5893 o equivalente.
+
+5.3 *Reactivos*.
+
+5.3.1 Ácido tricloroacético al 30 por 100 (p/v).‒Disolver 300 g de ácido tricloroacético en agua destilada y diluir hasta 1.000 ml.
+
+5.3.2 Piridina.
+
+5.3.3 Anhídrico acético
+
+Solución normalizada de citrato.‒Disolver 0,9565 g de citrato trisódico (C<sub>6</sub>H<sub>5</sub>O<sub>7</sub>Na<sub>3</sub> • 2H<sub>2</sub>O) en agua destilada y diluir hasta 1.000 ml.
+
+Todos los reactivos deben ser de calidad analítica.
+
+5.4 *Procedimiento*.
+
+5.4.1 Preparación de la muestra.
+
+Antes del análisis se quitará la corteza o la capa superficial mohosa del queso de modo que se obtenga una muestra representativa del queso tal como se consume habitualmente. La muestra será triturada a continuación con un triturador u otro aparato apropiado y/o mezclada íntimamente evitando las pérdidas por evaporación. La muestra así preparada será conservada en un recipiente al abrigo del aire hasta su análisis, que deberá efectuarse el mismo día.
+
+5.4.2 *Determinación*.
+
+Colocar 0,5 g de la muestra, pesada con precisión de 0,001 g en un mortero de porcelana. Dispersar la muestra machacándola con la mano del mortero y añadiendo pequeñas cantidades de agua caliente (60° - 70 °C).
+
+Transpasar el contenido del mortero a un matraz aforado de 100 ml, empleando unos 50 ml de agua. Enfriar a la temperatura ambiente.
+
+Añadir 4. ml de la solución de ácido tricloroacético, mezclar por agitación, llenar con agua destilada hasta el aforo y mezclar de nuevo.
+
+Dejar reposar a la temperatura ambiente durante treinta minutos y filtrar sobre un papel de filtro seco. Desechar la primera porción del filtrado hasta que se obtenga un líquido límpido; se desechará al menos 10 ml.
+
+Introducir con ayuda de una pipeta 1 ml de filtrado claro en un tubo de ensayo provisto de tapón.
+
+Añadir al tubo 1,3 ml de piridina. Mezclar y añadir inmediatamente 5,7 ml de anhídrido acético. Tapar el tubo y mezclar íntimamente su contenido, colocándolo inmediatamente en un baño de agua a 32 °C, dejándolo durante treinta minutos.
+
+Retirar el tubo del baño de María, secarlo y medir la densidad óptica con relación al ensayo en blanco (5.4.4) a una longitud de onda de 428 nm antes de treinta minutos.
+
+5.4.3 Preparación de la curva patrón.
+
+Introducir en seis matraces de 50 ml 0, 4, 8, 12, 16 y 20 ml de la solución normalizada de citrato (5.3.4); añadir a cada matraz agua destilada hasta obtener un volumen aproximado de 25 ml. Añadir 20 ml de la solución de ácido tricloroacético (5.3.1); mezclar por agitación, llenar hasta el aforo con agua destilada y mezclar de nuevo.
+
+Introducir con una pipeta 1 ml de cada solución patrón diluida en tubos de ensayo provistos de tapón, con el fin de obtener una serie de testigos que contengan 0 (valor cero), 50, 100, 150, 200 y 250 μg de ácido cítrico anhidro; añadir a cada tubo 1,3 ml de piridina. Mezclar y añadir inmediatamente 5,7 ml de anhídrido acético. Tapar el tubo y mezclar íntimamente su contenido. Colocar los tubos sin demora en un baño de agua a 32 °C y dejarlos durante treinta minutos.
+
+Retirar los tubos del baño de agua, enfriar a temperatura ambiente, secarlos y medir la densidad óptica de los testigos con relación al valor cero, a una longitud de onda de 428 nm antes de treinta minutos.
+
+Determinar la curva patrón señalando la diferencia de densidad óptica con relación a la cantidad de ácido cítrico anhidro en μg.
+
+5.4.4 Ensayo en blanco.
+
+Efectuar un ensayo en blanco siguiendo el procedimiento expresado anteriormente, pero sin muestra.
+
+5.5 *Cálculos*.
+
+Calcular el contenido en ácido cítrico anhidro por medio de la fórmula:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5DPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5kPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPiYjeEUxOzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPmM8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPiYjeEVEOzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+dDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmg8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmk8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnI8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm88L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij4oJSk8L21pPgogICAgPG1vPj08L21vPgogICAgPG1mcmFjPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+QzwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bW4+MTAwPC9tbj4KICAgICAgICAgICAgPG1vPiYjeEQ3OzwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5XPC9taT4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,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)
+
+Siendo:
+
+C = peso, en μg, de ácido cítrico obtenido al convertir la medida obtenida en el colorímetro utilizando la curva patrón.
+
+W = peso, en g, de la muestra tomada para el análisis.
+
+5.6 *Referencia*.
+
+1\. Federación Internacional de Lechería. Norma FIL-IDF 34B: 1971.
+
+6\. DETERMINACIÓN DEL CONTENIDO EN LACTOSA
+
+6.1 *Principio*.
+
+Preparación de un filtrado claro del queso por dispersión de la muestra en agua y defecación por ferrocianuro de cinc. A una parte del filtrado se le añade una solución que contiene un complejo cúprico. Se determina gravimétricamente el precipitado de óxido cuproso, formado por la acción reductora de la lactosa y los resultados obtenidos se convierten, con la ayuda de tablas, en lactosa anhidra o hidratada.
+
+La precisión del método es de 0,15 g de lactosa anhidra por 100 g de producto.
+
+6.2 *Material y aparatos*.
+
+6.2.1 Balanza analítica. Sensibilidad, 0,1 mg.
+
+6.2.2 Estufa regulable a 103 °C ± 2 °C.
+
+6.2.3 Mortero de porcelana de un contenido aproximado de 300 ml, de un diámetro interior de unos 110 mm, con una mano apropiada.
+
+6.2.4 Vaso de precipitados de 400 ml.
+
+6.2.5 Crisol filtrante de porcelana de un contenido aproximado de 35 ml y de una porosidad media de 3-15 micras, cuyo peso no debe variar más de 1,0 mg cuando se le aplica el método operatorio descrito más adelante, sin utilizar el queso.
+
+6.2.6 Desecador provisto de un agente de desecación eficaz, como el gel de sílice con indicador de humedad.
+
+6.2.7 Matraz aforado de 500 ml.
+
+6.2.8 Matraz Erlenmeyer de 500 ml.
+
+6.2.9 Pipetas de 25 y 100 ml.
+
+6.2.10 Probeta graduada de 20 ó 25 ml.
+
+6.2.11 Embudo de vidrio de unos 150 mm de diámetro.
+
+6.2.12 Vidrio de reloj destinado a cubrir el vaso de precipitados de 400 ml.
+
+6.2.13 Varilla de vidrio con protección de goma en la punta.
+
+6.2.14 Dispositivo de aspiración de una sección media.
+
+6.2.15 Matraz de vacío con portacrisol.
+
+6.2.16 Filtro plegado o filtro plano de porosidad media, de dimensión correspondiente al embudo 6.2.11.
+
+6.3 *Reactivos*.
+
+6.3.1 Solución de sulfato de cinc.
+
+Disolver 30 g de sulfato de cinc cristalizado (Zn SO<sub>4</sub>• 7H<sub>2</sub>O) en agua destilada, completando hasta 100 ml.
+
+6.3.2 Solución de ferrocianuro de potasio.
+
+Disolver 15 g de ferrocianuro de potasio cristalizado K<sub>4</sub>Fe (CN)<sub>6</sub> 3H<sub>2</sub>O en agua destilada completando hasta 100 ml.
+
+6.3.3 Solución de sulfato de cobre.
+
+Disolver 70 g de sulfato de cobre (Cu SO<sub>4</sub> • 5H<sub>2</sub>O) en agua destilada, completando hasta 1.000 ml y filtrando si es necesario.
+
+6.3.4 Solución de tartrato alcalino.
+
+Disolver 350 g de tartrato de sodio-potasio (KNa C<sub>4</sub>H<sub>4</sub>O<sub>5</sub> • 4H<sub>2</sub>O) y 100 g de hidróxido sódico (NaOH) en agua destilada, completando hasta 1.000 ml. Dejar reposar dos días en un frasco tapado y filtrar. La solución se deteriorará al cabo de un cierto tiempo, lo que puede falsear el ensayo en blanco (resultados más elevados).
+
+6.3.5 Ácido nítrico diluido: HNO<sub>3</sub> al 15-20 por 100 en peso.
+
+6.3.6 Alcohol etílico del 96 por 100. Puede ser desnaturalizado con un desnaturalizante apropiado que no deje residuos después de la evaporación.
+
+Los reactivos deben ser de calidad analítica.
+
+6.4 *Procedimiento*.
+
+6.4.1 Preparación de la muestra para el ensayo.
+
+Antes del análisis se quitará la corteza o capa superficial mohosa del queso, a fin de obtener una muestra representativa del queso tal como habitualmente se consume. La muestra será triturada a continuación en un triturador u otro aparato apropiado y mezclada íntimamente, evitando las pérdidas por evaporación. La muestra así preparada será conservada en un recipiente cerrado hasta su análisis, que deberá efectuarse el mismo día.
+
+6.4.2 Determinación.
+
+Lavar el crisol filtrante con ácido nítrico diluido, enjuagarlo perfectamente con agua caliente y después con 10 ml de alcohol. Secar el crisol a 103 °C ± 2 °C durante treinta minutos, enfriar en un desecador y pesar.
+
+Colocar, aproximadamente, 10 g de la muestra, pesados exactamente, en un mortero de porcelana. Dispersar la muestra machacándola con la mano del mortero, añadiendo pequeñas cantidades de agua caliente (60° - 70 °C). Trasvasar el contenido del mortero a un matraz aforado de 500 ml. Diluir en 400 ml, aproximadamente.
+
+Añadir 5 ml de la solución de sulfato de cinc, mezclando suavemente por rotación del matraz alrededor de su eje, manteniéndolo inclinado. Añadir del mismo modo 5 ml de la solución de ferrocianuro de potasio.
+
+Enfriar el contenido del matraz a 20 °C y completar con agua destilada (a 20 °C) hasta el aforo. Cerrar el matraz con un tapón seco y mezclar íntimamente su contenido mediante una agitación enérgica. Filtrar con un papel de filtro seco, desechando los primeros ml de filtrado.
+
+Tomar con una pipeta 25 ml de la solución de sulfato de cobre (6.3.3) y 25 ml de la solución de tartrato alcalino (6 3.4) y llevarlo a un vaso de precipitado de 400 ml. Mezclar por movimiento de rotación. Calentar la muestre hasta ebullición. Añadir 100 ml del filtrado de la muestra con ayuda de una pipeta. Cubrir el vaso con un vidrio de reloj y calentar de nuevo. Detener el calentamiento exactamente seis minutos después de alcanzar nuevamente el punto de ebullición.
+
+Para asegurar una ebullición más regular y para evitar las proyecciones del líquido, se podrán añadir pequeños trozos de piedra pómez tratados previamente de la misma manera que el crisol y pesados con este último.
+
+Enjuagar el vidrio de reloj con un poco de agua destilada caliente encima del vaso. Trasvasar todo el contenido del vaso a un crisol filtrante preparado previamente (según se indica con anterioridad). Para efectuar este trasvase ayudarse de chorros de agua destilada caliente y de una varilla de vidrio con protección de goma en la punta. El filtrado debe ser de color azul. Si es incoloro, repetir el análisis utilizando una cantidad más pequeña de filtrado diluida en 100 ml.
+
+Enjuagar cuidadosamente el crisol filtrante con agua destilada caliente y después con lo ml de alcohol. Secar el crisol durante treinta minutos a 103 °C ± 2 °C, enfriar en un desecador y pesar.
+
+6.4.3 Ensayo en blanco.
+
+Efectuar un ensayo en blanco siguiendo el procedimiento descrito pero utilizando 10 ml de agua destilada en lugar de 10 g de queso.
+
+6.5 *Cálculos*.
+
+Corregir la masa de óxido cuproso encontrada en el análisis de la muestra restándole el resultado del ensayo en blanco. Buscar en las tablas la cantidad de lactosa anhidra o hidratada correspondiente a la masa corregida de óxido cuproso.
+
+Calcular el contenido en lactosa anhidra o hidratada de la muestra con ayuda de la fórmula siguiente:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5DPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5kPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPmw8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmM8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm88L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnM8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5oPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5kPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+bzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPmg8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmk8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnI8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij4oJSk8L21pPgogICAgPG1vPj08L21vPgogICAgPG1mcmFjPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bW4+NTAuMDAwPC9tbj4KICAgICAgICAgICAgPG1vPiYjeEQ3OzwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5BPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5WPC9taT4KICAgICAgICAgICAgPG1vPiYjeEQ3OzwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5FPC9taT4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgogICAgPG1vPiYjeEQ3OzwvbW8+CiAgICA8bW4+MCw5OTwvbW4+CiAgICA8bW8+PTwvbW8+CiAgICA8bWZyYWM+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtbj41MDA8L21uPgogICAgICAgICAgICA8bW8+JiN4RDc7PC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPkE8L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlY8L21pPgogICAgICAgICAgICA8bW8+JiN4RDc7PC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPkU8L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CiAgICA8bW8+JiN4MjJDNTs8L21vPgogICAgPG1uPjk5PC9tbj4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,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)
+
+Siendo:
+
+A = masa, en g, de lactosa anhidra o hidratada encontrada en la tabla.
+
+E = masa, en g, de la muestra de ensayo.
+
+V = volumen, en ml, del filtrado utilizado.
+
+0,99 = factor de corrección para compensar el error de volumen que resulta de la presencia de materia grasa y proteínas en la muestra.
+
+6.6 *Referencia*.
+
+1\. Federación Internacional de Lechería. Norma FIL-IDF 43: 1967.
+
+Tabla para determinar la cantidad de lactosa (monohidrataday anhidra) en miligramos, según la cantidad de óxido cuprosoen miligramos
+
+| Óxido cuproso<br>(Cu<sub>2</sub>O)<br>en mg | Lactosa monohidratada<br>(C<sub>12</sub>H<sub>22</sub>O<sub>11</sub> 1 H<sub>2</sub>O)<br>en mg | Lactosa anhidra<br>(C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>)<br>en mg |
+|---|---|---|
+| 10 | 5,1 | 4,8 |
+| 11 | 5,8 | 5,5 |
+| 12 | 6,4 | 6,1 |
+| 13 | 7,1 | 6,7 |
+| 14 | 7,7 | 7,3 |
+| 15 | 8,4 | 8,0 |
+| 16 | 9,0 | 8,6 |
+| 17 | 9,7 | 9,2 |
+| 18 | 10,3 | 9,8 |
+| 19 | 11,0 | 10,5 |
+| 20 | 11,6 | 11,0 |
+| 21 | 12,3 | 11,7 |
+| 22 | 12,9 | 12,3 |
+| 23 | 13,6 | 12,9 |
+| 24 | 14,2 | 13,5 |
+| 25 | 14,8 | 14,1 |
+| 26 | 15,5 | 14,7 |
+| 27 | 16,2 | 15,4 |
+| 28 | 16,8 | 16,0 |
+| 29 | 17,7 | 16,6 |
+| 30 | 18,1 | 17,2 |
+| 31 | 18,7 | 17,8 |
+| 32 | 19,4 | 18,4 |
+| 33 | 20,0 | 19,0 |
+| 34 | 20,7 | 19,7 |
+| 35 | 21,3 | 20,2 |
+| 36 | 22,0 | 20,9 |
+| 37 | 22,6 | 21,5 |
+| 38 | 23,3 | 22,1 |
+| 39 | 23,9 | 22,7 |
+| 40 | 24,6 | 23,4 |
+| 41 | 25,2 | 23,9 |
+| 42 | 25,9 | 24,6 |
+| 43 | 26,5 | 25 2 |
+| 44 | 27,2 | 25,8 |
+| 45 | 27,8 | 26,4 |
+| 46 | 28,5 | 27,1 |
+| 47 | 29,1 | 27,6 |
+| 48 | 29,8 | 28,3 |
+| 49 | 30,4 | 28,9 |
+| 50 | 31,4 | 29,5 |
+| 51 | 31,7 | 30.1 |
+| 52 | 32,4 | 30,8 |
+| 53 | 33,0 | 31,4 |
+| 54 | 33,7 | 32,0 |
+| 55 | 34.3 | 32,6 |
+| 56 | 34,9 | 33,2 |
+| 57 | 35,3 | 33,8 |
+| 58 | 36,2 | 34,4 |
+| 59 | 36,9 | 35.1 |
+| 60 | 37,5 | 35,6 |
+| 61 | 38,2 | 36,3 |
+| 62 | 38,8 | 36,9 |
+| 63 | 39,4 | 37,4 |
+| 64 | 40,1 | 38,1 |
+| 65 | 40,8 | 38,8 |
+| 66 | 41,4 | 39,3 |
+| 67 | 42,0 | 39,9 |
+| 68 | 42,7 | 40,6 |
+| 69 | 43,3 | 41,1 |
+| 70 | 44,0 | 41,8 |
+| 71 | 44,6 | 42.4 |
+| 72 | 45,3 | 43,0 |
+| 73 | 45,9 | 43.6 |
+| 74 | 46,6 | 44,3 |
+| 75 | 47,2 | 44,8 |
+| 76 | 47,9 | 45,5 |
+| 77 | 48,5 | 46.1 |
+| 78 | 49,2 | 46.7 |
+| 79 | 49,8 | 47,3 |
+| 80 | 50,4 | 47,9 |
+| 81 | 51,1 | 48,5 |
+| 82 | 51,8 | 49.2 |
+| 83 | 52,4 | 49,8 |
+| 84 | 53,1 | 50,4 |
+| 85 | 53,7 | 51,0 |
+| 86 | 54,4 | 51.7 |
+| 87 | 55,0 | 52,3 |
+| 88 | 55,7 | 52,9 |
+| 89 | 56,3 | 53,5 |
+| 90 | 57,0 | 54,3 |
+| 91 | 57,6 | 54,7 |
+| 92 | 58,2 | 55,3 |
+| 93 | 58,9 | 56,0 |
+| 94 | 59,5 | 56,5 |
+| 95 | 60,2 | 57,2 |
+| 96 | 60,8 | 57,8 |
+| 97 | 61,4 | 58,3 |
+| 98 | 62,1 | 59,0 |
+| 99 | 62,8 | 59,7 |
+| 100 | 63,4 | 60,2 |
+| 101 | 64,0 | 60,8 |
+| 102 | 64,6 | 61,4 |
+| 103 | 65,3 | 62,0 |
+| 104 | 66,0 | 62,7 |
+| 105 | 66,6 | 63,3 |
+| 106 | 67,2 | 63,8 |
+| 107 | 67,9 | 64,5 |
+| 108 | 68,6 | 65,2 |
+| 109 | 69,2 | 65,7 |
+| 110 | 69,9 | 66,4 |
+| 111 | 70.5 | 67,0 |
+| 112 | 71,2 | 37,6 |
+| 113 | 71,9 | 68,3 |
+| 114 | 72,5 | 68,9 |
+| 115 | 73,2 | 69,5 |
+| 116 | 73,8 | 70,1 |
+| 117 | 74,5 | 70,8 |
+| 118 | 75,1 | 71,3 |
+| 119 | 75,8 | 72,0 |
+| 120 | 76,5 | 72,7 |
+| 121 | 77,1 | 73,2 |
+| 122 | 77,7 | 73,8 |
+| 123 | 78,4 | 74,5 |
+| 124 | 79,1 | 75,1 |
+| 125 | 79,8 | 75,8 |
+| 126 | 80,4 | 76,4 |
+| 127 | 81,0 | 77,0 |
+| 128 | 81,7 | 77,6 |
+| 129 | 82,3 | 78,2 |
+| 130 | 83,0 | 78,9 |
+| 131 | 83,7 | 79,5 |
+| 132 | 84,4 | 80,2 |
+| 133 | 85,0 | 80,8 |
+| 134 | 85,6 | 81,3 |
+| 135 | 86.3 | 82,0 |
+| 136 | 87,0 | 82,7 |
+| 137 | 87,7 | 83,3 |
+| 138 | 88.3 | 83,9 |
+| 139 | 89,0 | 84,6 |
+| 140 | 89,6 | 85,1 |
+| 141 | 90,3 | 85,8 |
+| 142 | 91,0 | 86,5 |
+| 143 | 91,6 | 87,0 |
+| 144 | 92,2 | 87,6 |
+| 145 | 92,9 | 88,3 |
+| 146 | 93,6 | 88,9 |
+| 147 | 94,3 | 89,6 |
+| 148 | 94,9 | 90,2 |
+| 149 | 95,6 | 90,8 |
+| 150 | 96,2 | 91,4 |
+| 151 | 96,9 | 92,1 |
+| 152 | 97,6 | 92,7 |
+| 153 | 98,2 | 93,3 |
+| 154 | 98,8 | 93,9 |
+| 155 | 99,5 | 94,5 |
+| 156 | 100,2 | 95,2 |
+| 157 | 100,8 | 95,8 |
+| 158 | 101,5 | 96,4 |
+| 159 | 102,2 | 97,1 |
+| 160 | 102,8 | 97,7 |
+| 161 | 103,5 | 98,3 |
+| 162 | 104,2 | 90,0 |
+| 163 | 104,9 | 99,7 |
+| 164 | 105,6 | 100,3 |
+| 165 | 106,2 | 100,9 |
+| 166 | 106,9 | 101,6 |
+| 167 | 107,6 | 102,2 |
+| 168 | 108,2 | 102,8 |
+| 169 | 108,9 | 103,5 |
+| 170 | 109.6 | 104,4 |
+| 171 | 110,2 | 104,7 |
+| 172 | 110,9 | 105,4 |
+| 173 | 111,6 | 106,0 |
+| 174 | 112,3 | 106,7 |
+| 175 | 113,0 | 107,4 |
+| 176 | 113,6 | 107,9 |
+| 177 | 114,3 | 108,6 |
+| 178 | 115,0 | 109,3 |
+| 179 | 115,6 | 109,8 |
+| 180 | 116,3 | 110,5 |
+| 181 | 117,0 | 111,2 |
+| 182 | 117,6 | 111,7 |
+| 183 | 118,3 | 112,4 |
+| 184 | 119,0 | 113,1 |
+| 185 | 119,7 | 113,7 |
+| 186 | 120.3 | 114,3 |
+| 187 | 121,0 | 115,0 |
+| 188 | 121,7 | 115,6 |
+| 189 | 122,4 | 116,3 |
+| 190 | 123,0 | 116,9 |
+| 191 | 123,7 | 117,5 |
+| 192 | 124,3 | 118,1 |
+| 193 | 125,0 | 118,8 |
+| 194 | 125,6 | 119,3 |
+| 195 | 126,3 | 120,0 |
+| 196 | 127,0 | 120,7 |
+| 197 | 127,7 | 121,3 |
+| 198 | 128,4 | 122,0 |
+| 199 | 129,1 | 122,6 |
+| 200 | 129,7 | 123,2 |
+| 201 | 130,4 | 123,9 |
+| 202 | 131,1 | 124,5 |
+| 203 | 131,8 | 125,2 |
+| 204 | 132,4 | 125,8 |
+| 205 | 133,1 | 126,4 |
+| 206 | 133,8 | 127,1 |
+| 207 | 134,5 | 127,8 |
+| 208 | 135,2 | 128,4 |
+| 209 | 135,8 | 129,0 |
+| 210 | 136,5 | 129,7 |
+| 211 | 137,2 | 130,3 |
+| 212 | 137,9 | 131,0 |
+| 213 | 138,6 | 131,7 |
+| 214 | 139,3 | 132,3 |
+| 215 | 140,0 | 133,0 |
+| 216 | 140,6 | 133,6 |
+| 217 | 141,3 | 134,2 |
+| 218 | 142,0 | 134,9 |
+| 219 | 142.6 | 135.5 |
+| 220 | 143,3 | 136,1 |
+| 221 | 144,0 | 136,8 |
+| 222 | 144.7 | 137.5 |
+| 223 | 145,4 | 138,1 |
+| 224 | 146,1 | 138,7 |
+| 225 | 146,8 | 139,5 |
+| 226 | 147,5 | 140,1 |
+| 227 | 148,1 | 140,7 |
+| 228 | 148,8 | 141,4 |
+| 229 | 149,4 | 141,9 |
+| 230 | 150,1 | 142,6 |
+| 231 | 150,8 | 143,3 |
+| 232 | 151,4 | 143,8 |
+| 233 | 152,1 | 144,5 |
+| 234 | 152,8 | 145,2 |
+| 235 | 153,4 | 145,7 |
+| 236 | 154,1 | 146,4 |
+| 237 | 154,8 | 147,1 |
+| 238 | 155,4 | 147,6 |
+| 239 | 156,1 | 148,3 |
+| 240 | 156,9 | 149,1 |
+| 241 | 157,4 | 149,5 |
+| 242 | 158,1 | 150,2 |
+| 243 | 158,7 | 150,8 |
+| 244 | 159,4 | 151,4 |
+| 245 | 160,1 | 152,1 |
+| 246 | 160,7 | 152,7 |
+| 247 | 161,4 | 153,3 |
+| 248 | 162,0 | 153,9 |
+| 249 | 162,7 | 154,6 |
+| 250 | 163,4 | 155,2 |
+| 251 | 164,0 | 155,8 |
+| 252 | 164.7 | 156.5 |
+| 253 | 165,4 | 157,4 |
+| 254 | 166,0 | 157,7 |
+| 255 | 166.7 | 158.4 |
+| 256 | 167,3 | 158,9 |
+| 257 | 168,0 | 159.6 |
+| 258 | 168.7 | 160,3 |
+| 259 | 169,4 | 160,9 |
+| 260 | 170,0 | 161,5 |
+| 261 | 170,7 | 162,2 |
+| 262 | 171,3 | 162,7 |
+| 263 | 172,0 | 163,4 |
+| 264 | 172,6 | 164,0 |
+| 265 | 173,3 | 164,6 |
+| 266 | 174,0 | 165,3 |
+| 267 | 174,7 | 166,0 |
+| 268 | 175,4 | 166,6 |
+| 269 | 176,1 | 167,3 |
+| 270 | 176,8 | 168,0 |
+| 271 | 177,5 | 168,6 |
+| 272 | 178,2 | 169,3 |
+| 273 | 178,8 | 169,9 |
+| 274 | 179,5 | 170,5 |
+| 275 | 180,2 | 171,2 |
+| 276 | 180,9 | 171,9 |
+| 277 | 181,6 | 172,5 |
+| 278 | 182,3 | 173,2 |
+| 279 | 183,0 | 173,9 |
+| 280 | 183,6 | 174,4 |
+| 281 | 184,3 | 175,1 |
+| 282 | 185,0 | 175,8 |
+| 283 | 185,7 | 176,4 |
+| 284 | 186,4 | 177,1 |
+| 285 | 187,1 | 177,7 |
+| 286 | 187,8 | 178,4 |
+| 287 | 188,5 | 179,1 |
+| 288 | 189,1 | 179,6 |
+| 289 | 189,8 | 180,3 |
+| 290 | 190,5 | 181,0 |
+| 291 | 191,2 | 181,6 |
+| 292 | 191,9 | 182.3 |
+| 293 | 192,6 | 183,0 |
+| 294 | 193,3 | 183,6 |
+| 295 | 194,0 | 184.3 |
+| 296 | 194,7 | 185,0 |
+| 297 | 195,4 | 185,6 |
+| 298 | 196,0 | 186,2 |
+| 299 | 196,7 | 186,9 |
+| 300 | 197,4 | 187,5 |
+| 301 | 198,1 | 188,2 |
+| 302 | 198,8 | 188,9 |
+| 303 | 199,5 | 189,5 |
+| 304 | 200,2 | 190,2 |
+| 305 | 200,9 | 190,9 |
+| 306 | 201,6 | 191,5 |
+| 307 | 202,3 | 192,2 |
+| 308 | 203,0 | 192,9 |
+| 309 | 203,7 | 193,5 |
+| 310 | 204,4 | 194,2 |
+| 311 | 205,2 | 194,9 |
+| 312 | 205,9 | 195,6 |
+| 313 | 206,6 | 196,3 |
+| 314 | 207,3 | 196,9 |
+| 315 | 208,0 | 197,6 |
+| 316 | 208,7 | 198,3 |
+| 317 | 209,5 | 199,0 |
+| 318 | 210,2 | 199,7 |
+| 319 | 210,9 | 200,4 |
+| 320 | 211,6 | 201,0 |
+| 321 | 212,3 | 201,7 |
+| 322 | 213,0 | 202,4 |
+| 323 | 213,7 | 203,0 |
+| 324 | 214,4 | 203,7 |
+| 325 | 215,2 | 204,4 |
+| 326 | 215,9 | 205,1 |
+| 327 | 216,6 | 205,8 |
+| 328 | 217,3 | 206,4 |
+| 329 | 218,0 | 207,1 |
+| 330 | 218,8 | 207,9 |
+| 331 | 219,5 | 208,5 |
+| 332 | 220,2 | 209,2 |
+| 333 | 220,9 | 209,9 |
+| 334 | 221,6 | 210,5 |
+| 335 | 222,4 | 211,3 |
+| 336 | 223,1 | 211,9 |
+| 337 | 223,8 | 212,6 |
+| 338 | 224,5 | 213,3 |
+| 339 | 225,2 | 213,9 |
+| 340 | 225,9 | 214,6 |
+| 341 | 226,6 | 215,3 |
+| 342 | 227,2 | 215,8 |
+| 343 | 227,9 | 216,5 |
+| 344 | 228,6 | 217,2 |
+| 345 | 229,3 | 217,8 |
+| 346 | 230,0 | 218,5 |
+| 347 | 230,7 | 219,2 |
+| 348 | 231,4 | 219,8 |
+| 349 | 232,1 | 220,5 |
+| 350 | 232,8 | 221,2 |
+| 351 | 233,5 | 221,8 |
+| 352 | 234,2 | 222,5 |
+| 353 | 234,9 | 223,2 |
+| 354 | 235,6 | 223,8 |
+| 355 | 236,2 | 224,4 |
+| 356 | 237,0 | 225,2 |
+| 357 | 237,7 | 225,8 |
+| 358 | 238,4 | 226,5 |
+| 359 | 239,1 | 227,1 |
+| 360 | 239,8 | 227,8 |
+| 361 | 240,5 | 228,5 |
+| 362 | 241,2 | 229,1 |
+| 363 | 241,8 | 229,7 |
+| 364 | 242,5 | 230,4 |
+| 365 | 243,2 | 231,0 |
+| 366 | 243,9 | 231,7 |
+| 367 | 244,6 | 232,4 |
+| 368 | 245,2 | 232,9 |
+| 369 | 245,9 | 233,6 |
+| 370 | 246,6 | 234,3 |
+| 371 | 247,3 | 234,9 |
+| 372 | 248,0 | 235,6 |
+| 373 | 248,7 | 236.3 |
+| 374 | 249,4 | 236,9 |
+| 375 | 250,1 | 237,6 |
+| 376 | 250,8 | 238.3 |
+| 377 | 251,3 | 239,0 |
+| 378 | 252,3 | 239,7 |
+| 379 | 253,0 | 2^0,4 |
+| 380 | 253,7 | 241,0 |
+| 381 | 254,4 | 241,7 |
+| 382 | 255,1 | 242,3 |
+| 383 | 255,8 | 243,0 |
+| 384 | 256,6 | 243,8 |
+| 385 | 257,3 | 244,4 |
+| 386 | 258,0 | 245,1 |
+| 387 | 258,7 | 245,8 |
+| 388 | 259,5 | 246,5 |
+| 389 | 260,2 | 247,2 |
+| 390 | 260,9 | 247,9 |
+| 391 | 261,6 | 248,5 |
+| 392 | 262,3 | 249,2 |
+| 393 | 263,1 | 249,9 |
+| 394 | 263,8 | 250,6 |
+| 395 | 264,5 | 251,3 |
+| 396 | 265,2 | 251,9 |
+| 397 | 265,9 | 252,6 |
+| 398 | 266,7 | 253,4 |
+| 399 | 267,4 | 254,0 |
+| 400 | 268,1 | 254,7 |
+| 401 | 268,8 | 255,4 |
+| 402 | 269,6 | 256,1 |
+| 403 | 270,3 | 256,8 |
+| 404 | 271,0 | 257,5 |
+| 405 | 271,8 | 258,2 |
+| 406 | 272,5 | 258,9 |
+| 407 | 273,2 | 259,5 |
+| 408 | 274,0 | 260.3 |
+| 409 | 274,7 | 261,0 |
+| 410 | 275,5 | 261,7 |
+| 411 | 276,2 | 262.4 |
+| 412 | 276,9 | 263,1 |
+| 413 | 277,7 | 263,8 |
+| 414 | 278,4 | 264,5 |
+| 415 | 279,1 | 265,1 |
+| 416 | 279,9 | 265,9 |
+| 417 | 280,6 | 266,6 |
+| 418 | 281,4 | 267,3 |
+| 419 | 282,2 | 268,1 |
+| 420 | 283,0 | 268,9 |
+| 421 | 283,7 | 269,5 |
+| 422 | 234,5 | 270,3 |
+| 423 | 285,2 | 270,9 |
+| 424 | 286,0 | 271,7 |
+| 425 | 286,8 | 272,5 |
+| 426 | 287,6 | 273,2 |
+| 427 | 288,3 | 273,9 |
+| 428 | 289,1 | 274.6 |
+| 429 | 289,9 | 275,4 |
+| 430 | 290,7 | 276,2 |
+| 431 | 291,4 | 276,8 |
+| 432 | 292,2 | 277,6 |
+| 433 | 293,0 | 278,4 |
+| 434 | 293,8 | 279,1 |
+| 435 | 294,5 | 279,8 |
+| 436 | 295,3 | 280,5 |
+| 437 | 296,0 | 281,2 |
+| 438 | 296,8 | 282,0 |
+| 439 | 297,6 | 282,7 |
+| 440 | 298,4 | 283,5 |
+| 441 | 299,2 | 284,2 |
+| 442 | 299,9 | 284,9 |
+| 443 | 300,7 | 285,7 |
+| 444 | 301,4 | 286,3 |
+| 445 | 302,2 | 287,1 |
+| 446 | 303,0 | 287,9 |
+| 447 | 303,7 | 288,5 |
+| 448 | 304,5 | 289,3 |
+| 449 | 305,2 | 289,9 |
+| 450 | 306,0 | 290,7 |
+
+LECHE
+
+4\. LACTOSA
+
+4.1 *Principio*.
+
+Después de desproteinización y filtración de la leche, la lactosa se determina por valoración de la cantidad de halógeno reducido en el curso de la reacción entre la lactosa y el conjunto ioduro de potasio cloramina T.
+
+Este método es aplicable a la leche natural, no alterada, así como a las conservadas por adición de formaldehido (1:2.500).
+
+El procedimiento es el que figura en el método número 4 del anejo III de la Orden de 31 de enero de 1977 («Boletín Oficial del Estado» de 14 de julio).
+
+9\. SACAROSA
+
+(Determinación polarimétrica en la leche condensada)
+
+9.1 *Principio*.
+
+La determinación se basa en el principio de inversión de Clerget: mediante un tratamiento suave por ácido se hidroliza completamente la sacarosa, mientras la lactosa y los otros azúcares prácticamente no se hidrolizan. El contenido en sacarosa se deduce del cambio del poder rotatorio de la solución y se expresa en porcentaje en peso.
+
+Este método es aplicable a leche condensada, entera o desnatada.
+
+El procedimiento es el que figura en el método número 9 del anejo III de la Orden de 31 de enero de 1977 («Boletín Oficial del Estado» de 14 de julio).
+
+14(a). HARINA DE ALFALFA
+
+(Método comparativo)
+
+14(a).1 *Principio*.
+
+Determinación de harina de alfalfa en leche desnaturalizada por comparación visual y microscópica frente a muestras patrón.
+
+14(a).2 *Material y aparatos*.
+
+14(a).2.1 Tamiz de 0,25 mm de luz de malla.
+
+14(a).2.2 Lupa para 10 a 20 aumentos.
+
+14(a).2.3 Material necesario para observación microscópica.
+
+14(a).3 *Procedimiento*.
+
+14(a).3.1. Preparación de la muestra patrón de harina de alfalfa.
+
+Mezclar íntimamente muestras de harina de alfalfa adquiridas en el mercado, finamente molidas.
+
+Tamizar la harina obtenida empleando el tamiz 14(a).2.1.
+
+Separar las dos fracciones y mezclarlas en la siguiente proporción: 98 partes de la fracción más fina y 2 de la más gruesa.
+
+Dicha mezcla se considera como muestra patrón de harina de alfalfa.
+
+14(a).3.2 Preparación de las muestras patrón de leche en polvo-harina de alfalfa.
+
+Mezclar y homogeneizar leche en polvo sin desnaturalizar y la muestra patrón de harina de alfalfa obtenida, según las siguientes proporciones:
+
+| Gramos de leche en polvo. | 99 | 98,5 | 98 | 97,5 | 97 | 96,5 | 96 |
+|---|---|---|---|---|---|---|---|
+| Gramos de harina de alfalfa. | 1 | 1,5 | 2 | 2,5 | 3 | 3,5 | 4 |
+| Porcentaje de harina de alfalfa. | 1 % | 1,5 % | 2 % | 2,5 % | 3 % | 3,5 % | 4 % |
+
+Realizar con estas muestras patrón una serie de preparaciones, colocando en el centro de un portaobjetos 0,6 g aproximadamente de cada una de las muestras. Cubrir con otro portaobjetos y extender el polvo mediante compresión y giro de los dos vidrios, hasta lograr una lámina circular de unos 2 cm de diámetro. Sujetar los dos portaobjetos fijando los extremos con papel adhesivo transparente.
+
+La colección de patrones así obtenida se conserva para ulteriores determinaciones.
+
+14(a).3.3 Determinación de la harina de alfalfa contenida en la muestra de leche en polvo a analizar.
+
+Obtener una preparación en forma análoga a la anteriormente descrita y comparar con las muestras patrón de leche en polvo-harina de alfalfa, separando aquellas que, a simple vista, sean análogas o muy próximas a la muestra problema.
+
+Proceder a una comparación microscópica entre la muestra a analizar y cada una de las muestras separadas, empleando lupa de 10 a 20 aumentos, considerando tanto el tamaño como la densidad de las partículas que aparecen en una serie de campos, obteniendo valores medios y expresando los resultados en porcentaje de harina de alfalfa contenida en la leche en polvo analizada.
+
+14(a).4 Referencias.
+
+1\. A López, M del C. Díaz-Peñalver y J. Gutiérrez: «Leches desnaturalizadas. Comprobación de la desnaturalización de las mismas».
+
+14(b). HARINA DE ALFALFA
+
+(Método gravimétrico)
+
+14(b).1 *Principio*.
+
+Separación de las partículas de alfalfa por lavado con agua y posterior determinación gravimétrica.
+
+14(b).2 *Material y aparatos*.
+
+14(b).2.1 Vaso de precipitados de 250 ml.
+
+14(b).2.2 Tamiz de 0,25 mm de luz de malla.
+
+14(b).2.3 Embudo.
+
+14(b).2.4 Matraz Erlenmeyer de 2.000 ml.
+
+14(b).2.5 Trompa de vacío.
+
+14(b).2.6 Placa filtrante de vidrio del número 1.
+
+14(b).2.7 Estufa de desecación.
+
+14(b).3 *Procedimiento*.
+
+Pesar 50 g de leche desnaturalizada en un vaso de precipitados de 250 ml y adicionar 150 ml de agua. Una vez bien impregnada la leche desnaturalizada, formar una papilla fina por agitación mediante una varilla con el extremo curvado en forma de U.
+
+Añadir a continuación otros 100 ml de agua, agitar y pasar la papilla a través del tamiz 14(b).2.2 (previamente desecado a 100 °C hasta peso constante, con precisión de 0,01 g) colocado sobre un embudo y éste a su vez sobre un matraz Erlenmeyer de 2.000 ml (fig. 1).
+
+Lavar el vaso y el tamiz añadiendo poco a poco agua a 40 °C en chorro fino, removiendo los pequeños grumos con ayuda de la varilla hasta que toda la leche haya sido arrastrada por el agua. Se precisan aproximadamente 1,5 litros.
+
+Dejar escurrir el tamiz y desecarlo en estufa a 100 °C, colocado sobre un papel de filtro.
+
+Una vez desecado el tamiz hasta peso constante, se pesa con aproximación de 0,0i g, recogiéndose en él previamente las partículas que pudieran haber caído en el papel de filtro a medida que se producía la desecación de la harina de alfalfa. Se obtiene así un peso p<sub>1</sub>.
+
+Las partículas de alfalfa, a causa de la humedad, sufren un hinchamiento, por lo que es necesario tamizar de nuevo después de la desecación y de exponer el tamiz a humedad ambiente durante dos horas, obteniéndose así el peso p<sub>2</sub> de la cantidad retenida por el mismo.
+
+Filtrar a vacío la leche recogida en el Erlenmeyer a través de la placa filtrante 14(b).2.6, cuyo fondo y paredes se han recubierto de algodón (fig. 2). Antes de iniciarse la filtración, pesar con aproximación de 0,01 g, la placa y el algodón previamente desecados a 100 °C. La filtración se realiza añadiendo la leche poco a poco sobre el centro de la placa, cuidando que el vacío no sea demasiado intenso para evitar la formación de espuma. Lavar con abundante agua a 40 °C hasta que ésta pase completamente transparente.
+
+Desecar la placa a 100 °C hasta peso constante y pesar con aproximación de 0,01 g. Se obtiene así el peso de las partículas de alfalfa, P<sub>3</sub>.
+
+14(b).4 *Cálculos*.
+
+La humedad propia de la harina de alfalfa se estima en un 8 por 100. Los valores reales de la harina de alfalfa total contenida en 50 gramos de muestra (P) y de la retenida por el tamiz (p), serán:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj4lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPmg8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnI8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmk8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDozcHg7Ij5kPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPlA8L21pPgogICAgPG1vIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+PTwvbW8+CiAgICA8bXN1Yj4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+cDwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bW4+MjwvbW4+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3ViPgogICAgPG1mZW5jZWQgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7IiBzZXBhcmF0b3JzPSJ8Ij4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cDwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bW4+MTwvbW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgICAgICAgICAgPG1vPis8L21vPgogICAgICAgICAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5wPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtbj4zPC9tbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICAgICAgICAgICAgICA8bW8+KzwvbW8+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWk+PC9taT4KICAgICAgICAgICAgICAgICAgICA8bWk+PC9taT4KICAgICAgICAgICAgICAgICAgICA8bWk+PC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tc3ViPgogICAgICAgICAgICA8bWZyYWM+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bW4+ODwvbW4+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1vIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+KDwvbW8+CiAgICAgICAgICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnA8L21pPgogICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1uPjE8L21uPgogICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgPC9tc3ViPgogICAgICAgICAgICAgICAgICAgIDxtbz4rPC9tbz4KICAgICAgICAgICAgICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cDwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bW4+MjwvbW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgICAgICAgICAgPG1vPik8L21vPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1uPjEwMDwvbW4+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbWZyYWM+CiAgICAgICAgPC9tcm93PgogICAgPC9tZmVuY2VkPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,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)
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5wPC9taT4KICAgIDxtbz49PC9tbz4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cDwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bW4+MjwvbW4+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3ViPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAARCAYAAABwxZQXAAAAxklEQVRIie2V6w2FIAyFzyzOwSBM4ijMwjDuon+ot1Qqj4CRG09CYtpw+EhbBP5QG4AdgAXgwvce4lMxeAAr22xZLmfGDy1ZywCGi2zCBOwAGR+hbgyakQnxtZ2xWDUM1JLJS+aMXB/eW5UyOPzalXJR++aMtBL3mpkaBiPym4zl+vUJtTJccmTkWWxRzEephcEgMc9kJNtGlnSkWhiSs6yV+EnVMngoMzjbZRziikV7ZroM/8fQOufGJ5J3T+gIvYHh06cSHdXRhDntePdYAAAAAElFTkSuQmCC)
+
+14(b).5 *Referencias*.
+
+1\. A. López, M. del C. Díaz-Peñalver y J. Gutiérrez: «Leches desnaturalizadas. Comprobación de la desnaturalización de las mismas».
+
+15(a). FENOLFTALEÍNA EN LECHE DESNATURALIZADA
+
+(Método cualitativo)
+
+15(a).1 *Principio*.
+
+Detección de fenolftaleína en leche desnaturalizada en presencia de una solución alcalina.
+
+15(a).2 *Material y aparatos*.
+
+Tubos de ensayo 160/60.
+
+15(a).3 *Reactivos*.
+
+Solución de hidróxido sódico 2 N.
+
+15(a).4 *Procedimiento*.
+
+Poner en un tubo de ensayo 160/60, aproximadamente, 0,5 g de leche en polvo, añadir 10 ml de agua destilada y agitar hasta lograr una emulsión uniforme. Añadir 2 ml de solución 2 N de NaOH.
+
+La presencia de fenolftaleína en la muestra se manifiesta por la aparición de una serie de puntos rojo-rosados que se ensanchan, intensificando su color hasta llegar a un máximo, para empalidecer seguidamente y llegar a desaparecer transcurrido un cierto tiempo.
+
+Comparar con un patrón de leche en polvo conteniendo fenolftaleína al 1/20.000.
+
+15(b). FENOLFTALEÍNA EN YOGUR, GALLETAS Y CHOCOLATE
+
+(Método cualitativo)
+
+15(b).1 *Principio*.
+
+Extracción y concentración de la fenolftaleína presente en el alimento e identificación por viraje a color rojo en medio alcalino que desaparece en medio ácido. La separación y concentración de la fenolftaleína se realiza por extracción etérea y soluciones alcalinas.
+
+15(b).2 *Material y aparatos*.
+
+15(b).2.1 Centrífuga que alcance 3.000 r.p.m.
+
+15(b).2.2 Aparato de destilación.
+
+15(b).3 *Reactivos*.
+
+15(b).3.1 Éter etílico.
+
+15(b).3.2 Solución de hidróxido sódico al 1 por 100.
+
+15(b).3.3 Ácido sulfúrico al 5 por 100.
+
+15(b).4 *Procedimiento*.
+
+Pesar 50 g de la muestra, reducida a polvo, si es necesario, y llevar a un matraz Erlenmeyer de 250 ml de capacidad. Añadir 50 ml de éter etílico. Agitar suavemente durante 3 a 5 minutos.
+
+Centrifugar la mezcla así obtenida a 1.500-2.000 r.p.m. durante diez minutos. Recoger el líquido sobrenadante.
+
+Volver a emulsionar el sedimento con nueva aportación de éter etílico, agitando durante dos-tres minutos.
+
+Centrifugar en las mismas condiciones y recoger el sobrenadante añadiéndolo a la centrifugación anterior.
+
+Repetir esta operación por tercera vez. Reunir todas las porciones de extracto etéreo y destilar para eliminar el éter, tomando las precauciones habituales en este tipo de destilación. Queda un residuo graso abundante.
+
+Añadir al residuo graso solución acuosa de hidróxido sódico al 1 por 100. Agitar suavemente durante 2-3 minutos. Si es necesario, calentando suavemente.
+
+Centrifugar la emulsión obtenida a 2.000-3.000 r.p.m. durante cinco minutos.
+
+Eliminar la capa superior grasa y tomar la fracción acuosa inferior. Cuando el producto contenga fenolftaleína, la capa acuosa presenta una coloración roja-rosada que desaparece al acidificar con ácido sulfúrico al 5 por 100 y vuelve a reaparecer si se alcaliniza el medio.
+
+16\. FÉCULA
+
+(Método comparativo)
+
+16.1 *Principio*.
+
+Determinación de fécula en leche desnaturalizada por comparación con muestras patrón.
+
+16.2 *Material y aparatos*.
+
+16.2.1 Matraz aforado de 100 ml.
+
+16.2.2 Probeta de 100 ml.
+
+16.2.3 Pipeta de 10 ml.
+
+16.3 *Reactivos*.
+
+Solución de iodo 0,1 N.
+
+16.4 *Procedimiento*.
+
+16.4.1 Preparación del desnaturalizante patrón.
+
+Mezclar íntimamente 80 g de salvado y 20 g de fécula de la misma naturaleza que la que se pretende identificar.
+
+16.4.2 Preparación de patrones de leche descremada en polvo y desnaturalizante patrón.
+
+Mezclar haciendo uso del mortero, según las siguientes proporciones:
+
+| Patrón | Leche descremada en polvo<br>(g) | Desnaturalizante patrón<br>(g) |
+|---|---|---|
+| Núm. 1. | 85 | 15 |
+| Núm. 2. | 80 | 20 |
+| Núm. 3. | 75 | 25 |
+
+16.4.3 Determinación de la muestra.
+
+Pesar exactamente un gramo de la muestra con precisión de 0,01 gramos. Pasar a un mortero y preparar una papilla con 25 ml de agua hirviente y verter en un matraz aforado de 100 ml. Lavar el mortero con agua caliente repetidas veces vertiendo los líquidos de lavado en el matraz hasta obtener unos 75 ml, agitar enérgicamente y llevar a un baño de María durante diez minutos, agitando de cuando en cuando; enfriar el matraz al chorro de agua fría y llevar el contenido exactamente a 100 ml.
+
+Tomar 10 ml exactamente medidos y pasar a una probeta de 100 ml. Añadir 80 ml de agua destilada, 1 ml de solución I<sub>2</sub> 0,1 N, completar hasta el enrase con agua destilada: agitar enérgicamente.
+
+Verificar el mismo método con los tres patrones preparados. El color desarrollado en la muestra se compara a los cinco minutos con el de los tres patrones.
+
+17\. SALVADO
+
+17.1 *Principio*.
+
+Separación por tamizado del salvado y determinación gravimétrica.
+
+17.2 *Material y aparatos*.
+
+17.2.1 Tamiz de 0,210 mm de luz de malla.
+
+17.2.2 Tamiz de 0,074 mm de luz de malla.
+
+17.2.3 Estufa de desecación.
+
+17.3 *Procedimiento*.
+
+Pesar con precisión de 0,01 g, 20 g de leche y tamizarla exhaustivamente a través del tamiz 17.2.1 estándar. Recoger cuidadosamente la fracción de salvado retenida por el tamiz y pesar
+
+A continuación, empastar con agua la parte tamizada, deshaciendo todos los grumos que puedan formarse con ayuda de una varilla de vidrio con el extremo curvado en forma de U y diluir con agua hasta completar unos 300 ml.
+
+Verter la emulsión sobre el tamiz 17.2.2, previamente desecado a 100 °C hasta peso constante; lavar repetidamente el residuo que permanece en el tamiz hasta que las aguas de lavado pasen transparentes e incoloras. Desecar el tamiz en una estufa a 100 ºC hasta peso constante.
+
+17.4 *Cálculos*.
+
+El contenido en salvado en 100 gramos de la muestra viene dado por:
+
+P<sub>s</sub> = 5 (a + 1,3 b)
+
+Siendo:
+
+b = peso, en g, de la fracción de salvado retenida por el tamiz de 17.2.1.
+
+a = peso, en g, de la fracción de salvado retenida por el tamiz de 17.2.1,
+
+17.5 *Observaciones*.
+
+17.5.1 Se estima que la pérdida que sufre el salvado por lavado y desecación es del 30 por 100.
+
+18\. FÉCULA + SALVADO
+
+18.1 *Principio*.
+
+Separación por centrifugación de la fécula y del salvado y determinación gravimétrica.
+
+18.2 *Material y aparatos*.
+
+18.2.1 Centrífuga de 3.000 r.p.m.
+
+18.2.2 Estufa de desecación al vacío.
+
+18.3 *Reactivos*.
+
+Solución yodo-yodurada. Mezclar 1 g de iodo y 2 g de ioduro potásico en agua destilada hasta 200 ml. Mantener la solución en el frasco cuentagotas.
+
+18.4 *Procedimiento*.
+
+Pesar con aproximación de 0,001 g, 0,5 g de la muestra de leche a analizar y colocarla en un tubo de centrífuga previamente pesado con igual exactitud. Añadir 10 ml de agua destilada fría y agitar con una varilla de vidrio hasta disolución de la leche. A continuación, centrifugar a 3.000 r.p.m.
+
+Decantar la emulsión sobrenadante y añadir 10 ml de agua destilada fría al residuo insoluble; agitar de nuevo con una varilla, centrifugar otros quince minutos a idénticas revoluciones y decantar. Repetir estas operaciones al menos cuatro veces.
+
+Los líquidos obtenidos por decantación tras la centrifugación no deben dar coloración azul con solución yodo-yodurada.
+
+Desecar a 80 °C en estufa de vacío el residuo final contenido en el tubo de centrífuga, hasta peso constante. El peso del residuo representará el peso total del desnaturalizante contenido en 0,5 g de la leche desnaturalizada.
+
+18.5 *Cálculo*.
+
+El salvado contiene una humedad media que puede cifrarse en un 10 por 100; por ello, el peso del residuo centrifugado debe incrementarse en la humedad correspondiente al salvado contenido en 0,5 g de leche, que en un producto correctamente desnaturalizado al 20 por 100 será 0,008 g.
+
+El peso del desnaturalizante total será:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj4lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+czwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+dDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+dTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ejwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+dDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bW8+PTwvbW8+CiAgICA8bWZyYWM+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtbj4xMDA8L21uPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgICAgICAgICAgPG1vIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+KDwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5SPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnM8L21pPgogICAgICAgICAgICA8bW8+KzwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5oPC9taT4KICAgICAgICAgICAgPG1vPik8L21vPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlA8L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASYAAAApCAYAAACY5YS7AAAFRklEQVR4nO2cwbWrMAxEVUvqSCFUQilsfxsUQy/5ixedpygjW4YEDG/uOSwCBCsGDbIsR4QQQgghXXI72oAnvdixlpr9Z/99hOzCICIPEVnAsfvzmG5jcI3ZnbfFluXZLrqu36YNbX0Sa+c9ce78dYsIOTGL/Dg3EqZR3h3tIe9O5feh72UYBQvNTbDgWdFsbesbtPzuu1CcCKmyyKswqRh4odDoanh+VlHzwxN/vRr3wvmRMIn8isE3Iqe58bqtghwJMSHkiRcSdbIBnGsjpGgI2OqkS9CWSFmYVCi/EX18W5hEsKgTQp54YdKcCXKaRX4dMIpWVDCinBQ6N3LQTMQUCZPaGolsiS3CpJFkTTRb2yDkT+GFSR0aoaI1Siw+JdHyTFIe9pWESfcjUZvkVRSmwNaItcJkRdAPfZGNWyYLCLk0RwpTLR9lhclvpWETEpY9hMnaFOXq/Hc4nCMEcBZhUqLcFvre5PYhSiUJfouGZluEqYdZRUK648gcU01kkDC1JL3V3pZoSWTfiKk1/0XInyCalUNvcj8rh8ShJRJYEzGJ/OZnShGMJRNlWfYUJkZMhACOrGOqJYBLyW+NhpDje8HSCC8rAnsKEyEEgIRkr8pvFYwo/1Oq8LbHfITkhaU10byHMKWXp8wSj0U5FuyHu7zfC82L8B7lQWvRrKMM7ljkYIs7r3WWaRHsdzX7RF6n6W3bA7C/xa4WYfJ2jqBtFEFWBfxmTvKl4nqsNXmGjFh748gPWwrmSL+UlqRclUEqwqfCY7GVm9lpzwzRmLx3erK3VrTWGz31Xc+Msv3lfxZukhBiXyEq7jMaNqzlrMLUU4LubMLUU9/1jg6Brk4qOvRjybv7/MkFgmcUJh0/98KZhKm3vjsDk1x7+jw9ZJ3dyVY4RtnWSTYxZ//7JlrbUyu3r+VYbGGcvV7mD75Qh/mkpnUy+90b2Oftm8x+PQ9FqiV7RGJhmsD+0nIG9MLJtJ/t41LfeZtL95z8YexDZEVjS27JTwVaJ/HCNMurQyEBqy1KVIFVp6rVmngnrjkrAl0bCYe3TaNS217WHnT9xdjphQlNI0czJLX2W/u41HeZe+7xQlbbzhSZkyST4EggQ/RXDpEje0dB5f6ZRYmolgI5ckk8PJ8QJrsfRW8t9tSub/ffnW1RjU1L+9k+1mugvsve82/yj1uXWxEtGxB5XdCI3sCI6KGOIqFHsKGIq7QoscVpvNPuJUxRbihrz9rr18o+su1/Qpiy9/ybHO2A3FYIkz6Q6CHMCFNUko8cuVT9WVpEiexocRp7TLcjhSlrz9rrZ5ZJZNr/hDC13nNCXqYs0cOc/SsH9EBGwpTJ1GcWJbY4zUPeh4pHClPWnjXXzyxHyLb/KWFaU1DIHNMf5SbvCdnRHc9ETPoA+VwGcuTS2qLB7PdvWLQoMes0aOHkkcLUYk/r9bWf/H0bjN0t7X9CmLL3nLxic71ou2yBpq+h8D92lNxbKFoRbf/LxoLOHaSc/EZRQNZpZnee2psZfqL2kOghIYiEqcWeVmHSGTvU5pr2W4Sp1HeZe07eie6NHYZfKlL0hZXy/DwVjpdANTT6Fp4FO5A917c1SHlRon+b6Jo/dE1vmy6i1M9+ZusRHIva9e2hN50la4/vo6Wyv/SGtQ92tv2WPs70Xe2ek3cyL9HL9KP+2FKyea/ZEkJITCaapa8SQnYlEzFdNtdECOmTSJjskJoQQnaltP7xMrklQsi5KA3lCCHkEChMhJDuoDARQrqDwkQI6Q5btHqpCm9CyDlBlfwspiSEEEIIIYQQ0gP/ASWnK6AcFLcjAAAAAElFTkSuQmCC)
+
+Siendo:
+
+Rs = peso, en g, del residuo.
+
+h = factor de corrección de humedad del salvado = 0,008 g.
+
+P = peso, en g, de la leche desnaturalizada.
+
+> Se derogan los métodos coincidentes que figuran en la presente Orden por la disposición derogatoria de la Orden de 26 de enero de 1989. [Ref. BOE-A-1989-2695](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-2695)
+
+## ANEJO VII — Métodos de análisis de piensos
+
+> Téngase en cuenta que la Orden de 23 de mayo de 1989. [Ref. BOE-A-1989-12209](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-12209), por la que se aprueban los métodos oficiales de análisis de alimentos para animales (piensos) y sus primeras materias, deroga los métodos coincidentes que figuran en la presente Orden.
+
+1\. UREA
+
+1.1 *Principio*.
+
+La urea se determina gravimétricamente por precipitación con xanthidrol. Este método es aplicable a productos lácteos.
+
+1.2 *Material y aparatos*.
+
+1.2.1 Matraz aforado de 100 ml de capacidad.
+
+1.2.2 Baño de agua.
+
+1.2.3 Crisol de fondo poroso.
+
+1.2.4 Estufa de desecación, regulable a 105 °C.
+
+1.2.5 Balanza de precisión.
+
+1.3 *Reactivos*.
+
+1.3.1 Alcohol de 96°.
+
+1.3.2 Ácido acético glacial.
+
+1.3.3 Solución de xanthidrol.
+
+1.3.4 Alcohol de 96° saturado de dixantil-urea.
+
+Añadir por cada gramo de urea 6,60 g de xanthidrol, es decir, 66 ml de xanthidrol al 10 por 100 en metanol, formándose un precipitado de dixantil-urea. Filtrar por crisol filtrante, quedando retenido el precipitado. Pasar por el mismo crisol alcohol de 96° con lo que se obtiene el alcohol de 96° saturado de dixantil-urea.
+
+1.4 *Procedimiento*.
+
+Pesar unos 3 g del producto e introducirlo en un matraz aforado de 100 ml que contenga 20 ml de agua destilada y agitar durante una hora. Enrasar con alcohol de 96° y agitar de nuevo durante unos quince minutos. Dejar reposar unas dos horas y filtrar por papel de filtro.
+
+Poner 50 ml de filtrado en un vaso (25 ml si se trata de un producto rico en urea) y concentrar al baño de agua hirviendo hasta un volumen de unos 10 ml. Añadir 35 ml de ácido acético glacial y 2 ml de solución recientemente preparada de xanthidrol al 10 por 100 de metanol, repitiendo la adición otras cuatro veces a intervalos de cinco a diez minutos. Dejar reposar durante una hora, como mínimo, y filtrar el precipitado formado a través de un criso1 de fondo poroso previamente tarado.
+
+Lavar tres veces empleando cada vez 5 ml de alcohol de 96° saturado de dixantil-urea, desecar en estufa a 105 °C hasta peso constante y pesar.
+
+1.5 *Cálculos*.
+
+1 g de dixantil-urea = 0,143 g de urea.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPnU8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnI8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmU8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgPG1vPj08L21vPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICA8bWZyYWM+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtbj4yPC9tbj4KICAgICAgICAgICAgPG1vPiYjeDIyQzU7PC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlA8L21pPgogICAgICAgICAgICA8bW8+JiN4MjJDNTs8L21vPgogICAgICAgICAgICA8bW4+MTQsMzwvbW4+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlA8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+JzwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQsAAAApCAYAAAAiRgzbAAAEjklEQVR4nO2d3ZXiMAyFVQt1UEgqSSm8bhsphl5mHxYdhEaSJdtZQrjfOXkYJpEVx7qR/4AIAAAAAKfm8m4HAPhGLkT0o45lwN5m2JPHOmB7edi4N87je4pE5TbRLwBOz4V+B95K48HDwaptc7C3AtniTs8Ab4kFC5ZXxkavgnglCAYAISvZAcXB1osnFkTPgL912r47dpmVYrG4Pg7Lbq9PAJweK2iIngHdOzYQiQVnLlun7Ugsrg/7XIblv3dPIwIGwNfCYtFLJrPoTfkjsWABisTCgrMRAECRO40FjycWclCxF08sbvQUh4pYcJcF4xUAFOFByJHpSWuGhY/RVN8Si4Vegz0jFuyjHHRFdgFAgczUKQeYF/hRN2TELpEtFjrIq90QeY03jgMAEGyUS8dbU5i9YpGZGtViYWUDPWIhMw0AQMBG82YDesUigxSLqLsjj4xosC1kFgAE3GjutOH/EguPnsxiSdgFA/BIMlK3z+VG/sDeRn0DnbwicnSg1KJHLOQycW9cJMwq9lzDDuZSTSlBjlYM9KTkls0ZswwVu1osVnq9J+tem+yxhv0T+MR7Gl1VCMBKA2MSe65hPzIji2LeBcQCjHChwVjecw37URndJPQuIBagF2t3bZeR6hp22f+JRnz5+oWeAaqFR3Z3vD6i3ndvnSN32cnzte93avfVZN8wuxVY+5TxuYWsZ7k92RKLkfLk/V6Mz/Tgbea5Zv2p1DV4M9U17Bv9bhjW2MZGz8C807/Goked9d8cHLJx6n33VsDospbgXD7fyyx0+VFmxfsHdDBkfG6h61nOp1v3M1qedQ0LuX4ereea9adS19pW9kAWNpHKGnZuPPotwaOrXtZgzapY6+/Zl5s4R4vYlWzfrKWqVmMn8sUiCg4PXScVn1s2dUP3Anq0vMi2VX+t55rxp6euZ/MHR/N4obJ4JHpj8dtG4jU2tjXyFvHWwo+IBT2ut7IWDy0WFZ89vDKt+p9Rnme7JRbec836U63r2bw7ED/heKEiFtG371j/ixqV1Z2pnKN9mCUW8jo+KmJR8dkj2oKs63hGeZ7tHrGo+lOpa/BmejKLaIBREjWqzCq0yptmllj80Gu6XM0sZrwdrSyNKB6vGWWmWGT9qda19DN7YMxiIhWx4EZi9YWtz6NGFW2HXRPnLOrzGWJhfTtSVSwqPnt4omwF9IzyPNs9YpH1p6euv5ELHWhjV3UNOweabCjcQDRRoyJRrr5mTZwzMsCpA0NPF17F59VuSMVnDznoLOGMQzee0fKI7Jkob+q897nqLKJa12eA79s7dF0fRkAtxzODYnqdhXWNZdtCr3uwGnjrHF3WSr/TVXmNXhvPjV7PDN3VvVrB4c0QZe4rwpql4oazGb6Mlkdk16O2N+u59tT1WahsschMBIAPofWWBUBT2WKxUp/wgwPiZRYAeFS2WCyEF9FpYLEAIMuePxMADoZ80LO/YQmcnz1/JgAcDDkQh8EnUGXPnwkAAJyIb5kmBgAMArEAAKSAWAAAUkAsAAAp9vyZAADASejdYgEAAAAAAAAA38RfBJxvBVhp1SIAAAAASUVORK5CYII=)
+
+Siendo:
+
+P = peso, en g, de dixantil-urea encontrado.
+
+P’ = peso, en g, de muestra analizada.
+
+2\. ALCALOIDES EN ALTRAMUCES
+
+2.1 *Principio*.
+
+Los alcaloides son puestos en solución en una mezcla de éter dietílico y de cloroformo, extrayéndose por ácido clorhídrico. Los alcaloides son precipitados por el ácido sílico-túngstico incinerados y pesados.
+
+2.2 *Material y aparatos*.
+
+2.2.1 Agitador mecánico.
+
+2.2.2 Cápsula de incineración de platino, cuarzo o porcelana.
+
+2.2.3 Horno de mufla eléctrico.
+
+2.3 *Reactivos*.
+
+2.3.1 Éter dietílico.
+
+2.3.2 Cloroformo.
+
+2.3.3 Solución de hidróxido sódico 4 N.
+
+2.3.4 Ácido clorhídrico 0,3 N.
+
+2.3.5 Cloruro sódico.
+
+2.3.6 Solución al 10 por 100 (p/v) de ácido sílico-túngstico SiO<sub>2</sub>12WO<sub>3</sub> • 26H<sub>2</sub>O.
+
+2.4 *Procedimiento*.
+
+Pesar, con aproximación de 5 mg, 15 g de la muestra e introducirla en un recipiente de unos 200 ml provisto de tapón esmerilado. Añadir 100 ml de éter dietílico y 50 ml de cloroformo exactamente medidos e inmediatamente y con la ayuda de una bureta graduada, 10 ml de la solución de hidróxido sódico. Agitar vigorosamente al principio para evitar la formación de grumos, continuando la agitación a intervalos; dejar reposar hasta el día siguiente. Si el líquido sobrenadante no está totalmente limpio, añadir algunas gotas de agua; filtrar la capa de éter-cloroformo. Recoger 50 ml de filtrado en un matraz aforado de 50 ml y traspasarlos cuantitativamente con la ayuda de 50 ml de éter dietílico a una ampolla de decantación de 150 ml. Extraer tres veces sucesivas con 20 ml de ácido clorhídrico, dejar decantar y recoger el extracto ácido después de cada extracción. Reunir los extractos ácidos en un matraz de 250 ml y eliminar las últimas trazas de éter y del cloroformo calentando ligeramente. Añadir alrededor de 1 g de cloruro de sodio, dejar enfriar y precipitar los alcaloides mediante la solución del ácido sílico-túngstico (2.6.1). Agitar mecánicamente durante treinta minutos, dejar reposar durante una noche, filtrar sobre filtro de cenizas conocidas y lavar el precipitado sucesivamente por dos veces con 10 ml y dos veces con 5 ml de ácido clorhídrico.
+
+Situar el filtro que contiene el precipitado en una cápsula de incineración e incinerar a 900 °C. Dejar enfriar y pesar.
+
+2.5 *Cálculos*.
+
+% alcaloides = 0,2 P
+
+Siendo:
+
+P = peso de las cenizas.
+
+Expresar los resultados en porcentaje de la muestra.
+
+2.6 *Observaciones*.
+
+2.6.1 Añadir solución sílico-túngstica hasta que se vea que no se forma más precipitado blanco lechoso de alcaloide.
+
+2.7 *Referencias*.
+
+1\. Journal Officiel des Communautés Européennes. Número 155/36.
+
+3\. PROTEÍNA TOTAL
+
+(Proteína bruta)
+
+3.1 *Principio*.
+
+Mineralizar la muestra por vía húmeda y alcalinizar por medio de solución de hidróxido sódico. El amoníaco liberado es arrastrado por destilación y recogido en una cantidad determinada de ácido sulfúrico, valorando el exceso con solución de hidróxido sódico.
+
+3.2 *Material y aparatos*.
+
+3.2.1 Mineralizador y destilador Kjeldahl.
+
+3.3 *Reactivos*.
+
+3.3.1 Sulfato de potasio.
+
+3.3.2 Catalizador.‒Óxido de cobre (CuO) o sulfato de cobre cristalizado (SO<sub>4</sub>Cu • 5H<sub>2</sub>O).
+
+3.3.3 Cinc granulado.
+
+3.3.4 Ácido sulfúrico d = 1,84.
+
+3.3.5 Ácido sulfúrico 0,1 N.
+
+3.3.6 Ácido sulfúrico 0,5 N.
+
+3.3.7 Indicador de fenolftaleína.‒Disolver 100 mg de fenolftaleína en 100 ml de etanol del 70 por 100 (v/v).
+
+3.3.8 Disolver 300 mg de rojo de metilo en 100 ml de etanol del 95-96 por 100 (v/v).
+
+3.3.9 Solución de hidróxido sódico al 30 por 100 (p/v).
+
+3.3.10 Solución de hidróxido sódico 0,1 N.
+
+3.3.11 Solución de hidróxido sódico 0,25 N.
+
+3.3.12 Solución saturada de sulfuro sódico.
+
+3.3.13 Solución de sulfuro potásico al 4 por 100 (p/v).
+
+3.3.14 Solución de tiosulfato sódico al 8 por 100 (p/v).
+
+3.3.15 Piedra pómez en granos, lavada con ácido clorhídrico y calcinada.
+
+3.4 *Procedimiento*.
+
+3.4.1 Mineralización.‒Pesar con precisión de 1 mg, aproximadamente, 1 de muestra e introducirla en el matraz de mineralización. Añadir 10 a 15 g de sulfato potásico, 0,3 a 0,4 g de catalizador óxido de cobre, 0,9 a 1,2 g de sulfato cúprico, 25 ml de ácido sulfúrico y algunos gránulos de piedra pómez. Homogeneizar. Calentar el matraz inicialmente con moderación, agitando de vez en cuando hasta carbonización de la masa y desaparición de espuma; calentar más intensamente hasta ebullición evitando el sobrecalentamiento y adherencia de partículas orgánicas.
+
+Cuando la solución aparece transparente e incolora (verde claro en presencia de catalizador a base de cobre), mantener la ebullición una hora dejando enfriar a continuación.
+
+3.4.2 Destilación.‒Añadir con precaución y agitando 250 a 350 ml de agua, comprobando que los sulfatos están disueltos totalmente. Dejar enfriar, añadir algunos gránulos de cinc y algunas gotas de indicador de fenolftaleína.
+
+Introducir en el matraz colector del aparato de destilar 25 ml, exactamente medidos, de ácido sulfúrico 0,1 N o 0,5 N, según que el producto sea pobre o rico en materias nitrogenadas, y algunas gotas del indicador rojo de metilo.
+
+Unir el matraz al refrigerante del aparato de destilar, sumergiendo la parte extrema de éste en el líquido del matraz colector, por lo menos, 1 cm. Introducir lentamente en el matraz, por medio de un embudo con llave, 120 ml de solución de hidróxido sódico al 30 por 100, o más cantidad si fuera necesario, debiéndose mantener la coloración roja hasta el fin de la destilación.
+
+Calentar el matraz de tal manera que se destile 150 ml de líquido en treinta minutos. Después de este tiempo, comprobar la neutralidad del destilado por medio del papel de tornasol. Si la reacción es alcalina, continuar con la destilación hasta que el papel de tornasol indique neutralidad en la solución. Al final de la destilación, observar de vez en cuando la coloración de la solución en el colector. Si vira a amarillo, añadir inmediatamente un volumen exactamente medido de ácido sulfúrico 0,1 N o 0,5 N.
+
+3.4.3 Valoración.‒Valorar en el matraz colector el exceso de ácido sulfúrico con la solución de hidróxido sódico 0,1 N o 0,25 N, según la normalidad del ácido sulfúrico utilizado hasta que la solución vire al amarillo claro.
+
+3.5 *Cálculos*.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj4lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPnA8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnI8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm88L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmU8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPiYjeEVEOzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPmU8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij5sPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+bTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+dTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+czwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+dDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bW8gc3R5bGU9InBhZGRpbmctbGVmdDozcHg7cGFkZGluZy1yaWdodDozcHg7Ij49PC9tbz4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1mcmFjPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bW4+MSw0PC9tbj4KICAgICAgICAgICAgPG1vPiYjeDIyQzU7PC9tbz4KICAgICAgICAgICAgPG1uPjYsMjU8L21uPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgogICAgPG1pIG1hdGh2YXJpYW50PSJib2xkIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+KFY8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPk48L21pPgogICAgPG1vPi08L21vPgogICAgPG1zdXA+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5WJzwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPC9tcm93PgogICAgICAgIDwvbXJvdz4KICAgIDwvbXN1cD4KICAgIDxtc3VwPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+TicpPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICA8L21yb3c+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3VwPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,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)
+
+Siendo:
+
+P = peso, en g, de la muestra.
+
+V = solución de NaOH.
+
+N = normalidad de la solución de ácido sulfúrico.
+
+V' = volumen, ml, de NaOH consumidos en la valoración.
+
+N' = normalidad de la solución de NaOH.
+
+3.6 *Observaciones*.
+
+3.6.1 Para productos pobres en materias nitrogenadas, introducir en el matraz colector 25 ml de ácido sulfúrico 0,1 N. Este volumen puede ser reducido, si es necesario, a 10 o 15 ml y completar a 25 ml con agua destilada.
+
+3.6.2 Para los productos ricos en materias nitrogenadas, tales como las harinas de carne o de pescado, utilizar 25 ml de ácido sulfúrico 0,5 N.
+
+3.7 *Referencias*.
+
+1\. Journal Officiel des Communautés Européennes. Número L 123/9.
+
+4(a). GRASA BRUTA
+
+(Sin hidrólisis previa)
+
+4(a).1 *Principio*.
+
+Extracción por éter dietílico de las materias grasas.
+
+Aplicable a todos los piensos excepto los que figuran en 4(b).1.
+
+4(a).2 Material y aparatos.
+
+4(a).2.1 Extractor tipo Soxhlet o equivalente.
+
+4(a).2.2 Aparato de calefacción con temperatura regulable, antideflagrante.
+
+4(a).2.3 Estufa de desecación a vacío (menos de 100 Torr) (1 Torr = 1 mm Hg = 1/760 atm).
+
+4(a).3 *Reactivos*.
+
+4(a).3.1 Éter dietílico anhidro d = 0,720 p. e. = 34,5 °C, exento de peróxidos [4(a).6.1].
+
+4(a).3.2 Sulfato sódico anhidro.
+
+4(a).3.3 Tetracloruro de carbono.
+
+4(a).4 *Procedimiento*.
+
+4(a).4.1 Pesar con precisión de 1 mg, aproximadamente, 5 g de la muestra y mezclar con 2 o 3 g (o más, si es necesario) de sulfato sódico anhidro. Introducir la mezcla en un cartucho de extracción exento de materias grasas y recubrimiento de un tapón de algodón desengrasado.
+
+Poner el cartucho en un extractor y extraer durante seis horas con el éter dietílico.
+
+Regular el calor para obtener 15 extracciones o menos a la hora. Recoger el extracto etéreo en un matraz seco, conteniendo algunos fragmentos de piedra pómez y tarar. Reemplazar los fragmentos de piedra pómez por perlas de vidrio cuando la materia grasa debe ser objeto de análisis cualitativos posteriores.
+
+Eliminar el éter por destilación e introducir el residuo durante una hora y media en la estufa de vacío a temperatura de 75 °C. Enfriar en desecador y pesar. Para comprobar que las pesadas de materia grasa son constantes, volver a introducir en la estufa de vacío durante treinta minutos.
+
+4(a).4.2 Para los productos de contenido alto en materias grasas, difíciles de triturar o no apropiados para tomar una porción de una vez por no estar homogéneos, proceder como sigue: Pesar con precisión de 1 mg, aproximadamente, 20 g de muestra y mezclar con 10 g o más, de sulfato sódico anhidro. Proceder a la extracción con éter dietílico como se indica anteriormente. Redisolver el extracto en tetracloruro de carbono y llevarlo a un matraz aforado de 500 ml y homogeneizar. Tomar 50 ml de la solución y llevarla a un pequeño matraz seco, añadir unos trozos de piedra pómez y tarar. Eliminar el disolvente por destilación, secar y proseguir la operación como se indica anteriormente.
+
+4(a).5 *Cálculos*.
+
+Según 4(a).4.1.‒Expresar el resultado en porcentaje de la muestra.
+
+Según 4(a).4.2.‒Expresar el resultado en porcentaje de muestra teniendo en cuenta los límites de parte alícuota utilizada en la primera extracción según la siguiente fórmula:
+
+(10 a + b) • 5
+
+Siendo:
+
+a = extracto etéreo, en g, de la parte alícuota en la primera extracción.
+
+b = extracto etéreo, en g, en la segunda extracción.
+
+La diferencia entre los resultados de dos determinaciones paralelas efectuadas sobre la misma muestra no debe diferenciarse en más del 0,3 por 100 de materia grasa.
+
+4(a).6 *Observaciones*.
+
+4(a).6.1 Para el ensayo de los peróxidos, verter 10 ml de éter en una pequeña probeta tapada con tapón de vidrio, previamente enjuagada con éter, añadir 1 ml de solución al 10 por 100 de yoduro de potasio recién preparada, agitar y dejar reposar durante un minuto. No debe aparecer ningún color amarillo en ninguna de las capas. El éter dietílico podrá mantenerse exento de peróxidos añadiendo una lámina de cinc húmeda, que previamente deberá sumergirse completamente en una solución ácido diluida de sulfato de cobre durante un minuto y después lavar con agua. Utilizar por cada litro de éter una superficie de 80 cm<sup>2</sup>, aproximadamente, de lámina de cinc, cortada en bandas suficientemente largas para que lleguen, por lo menos, hasta la mitad del recipiente.
+
+4(a).7 *Referencias*.
+
+1\. Journal Officiel des Communautés Européennes. Número L 279/17.
+
+4(b). GRASA BRUTA
+
+(Con hidrólisis previa)
+
+4(b).1 *Principio*.
+
+La muestra es hidrolizada en caliente por ácido clorhídrico, enfriada y filtrada. El residuo, lavado y secado, es sometido a la extracción por el éter dietílico según el procedimiento descrito en 4(a).
+
+Aplicable a los productos cuyas materias grasas no puedan ser totalmente extraídas por el éter dietílico sin hidrólisis previa, como los productos de origen animal, gluten, pulpa seca de patatas, residuos de maltería y destilería, levadura seca, pan, productos de desecho de panadería, galletería y pastas alimenticias, productos lácteos y piensos enriquecidos.
+
+4(b).2 *Material y aparatos*.
+
+Como en 4 (a) 2.
+
+4(b).3 *Reactivos*.
+
+4(b).3.1 Como en 4(a).3.1.
+
+4(b).3.2 Como en 4(a).3.2.
+
+4(b).3.3 Ácido clorhídrico 3 N.
+
+4(b).3.4 Material de filtración (tierra de diatomeas o similar).
+
+4(b).4 *Procedimiento*
+
+Pesar con precisión de 1 ml, aproximadamente, 2,5 g de la muestra e introducirlos en un vaso de 400 ml o en un Erlenmeyer de 300 ml. Añadir 100 ml de ácido clorhídrico 3 N y algunos trozos de piedra pómez. Tapar el vaso con un vidrio de reloj o acoplar al Erlenmeyer un refrigerante a reflujo. Llevar la mezcla a ebullición suave, con ayuda de una llama pequeña o una placa caliente y mantenerlo durante una hora, evitando que el producto se adhiera a las paredes del recipiente.
+
+Enfriar y añadir una cantidad de material de filtración suficiente para evitar cualquier pérdida de materia grasa durante la filtración. Filtrar sobre un doble papel de filtro mojado, exento de materia grasa; lavar el residuo con agua fría hasta la desaparición de reacción ácida. Verificar que el filtrado no contiene materia grasa. La presencia de ésta en el filtrado indica que debe efectuarse una extracción de la muestra por el éter dietílico según se indica en 4(a).4.
+
+Llevar el doble papel de filtro conteniendo el residuo sobre un vidrio de reloj y secar durante una hora y media en la estufa a temperatura de 95° - 98 °C.
+
+Introducir el doble filtro y el residuo seco en un cartucho de extracción, extraer por el éter dietílico y proseguir el modo operatorio como en 4(a).4.
+
+4(b).5 *Cálculos*.
+
+Como en 4(a).5.
+
+4(b).6 *Referencias*.
+
+1\. Journal Officiel des Communautés Européennes. Número 279/17.
+
+5\. CLORUROS
+
+5.1 *Principio*
+
+Los cloruros se solubilizan en agua, desecándose la solución si contiene materias orgánicas, posterior acidificación de la misma con ácido nítrico y precipitación de los cloruros con nitrato de plata. El exceso de nitrato se valora con una solución de sulfocianuro de amonio. Aplicable a todos los piensos.
+
+5.2 *Material y aparatos*.
+
+5.2.1 Agitador de 35 a 40 r.p.m.
+
+5.3 *Reactivos*.
+
+5.3.1 Solución de sulfocianuro de amonio 0,1 N.
+
+5.3.2 Solución de nitrato de plata 0,1 N.
+
+5.3.3 Solución saturada de sulfato amónico-férrico.
+
+5.3.4 Ácido nítrico, d = 1,38.
+
+5.3.5 Éter etílico.
+
+5.3.6 Acetona.
+
+5.3.7 Solución de Carrez I.‒Disolver en agua 24 g de acetato de cinc Zn (CH<sub>3</sub>COO)<sub>2</sub> 2H<sub>2</sub>O y 3 g de ácido acético glacial. Completar hasta 1.000 ml con agua.
+
+5.3.8 Solución de Carrez II.‒Disolver en agua 10,6 g de ferrocianuro de potasio K<sub>4</sub> [Fe (CN)<sub>6</sub>] • 3H<sub>2</sub>O. Completar a 100 ml con agua.
+
+5.3.9 Carbón activo, exento de cloruros.
+
+5.4 *Procedimiento*.
+
+5.4.1 Preparación de la solución.
+
+5.4.1.1 Muestras sin materia orgánica.‒Pesar, con precisión de 1 mg, de 0 a 10 g de la muestra de forma que no contenga más de 3 g de cloro en forma de cloruro e introducirla en un matraz aforado de 500 ml con 400 ml de agua a 20 °C aproximadamente. Agitar durante treinta minutos, enrasar, homogeneizar y filtrar.
+
+5.4.1.2 Muestras con materia orgánica (menos los citados en 5.4.1.3).‒Pesar, con precisión de 1 mg, aproximadamente, 5 g de muestra e introducirla con 1 g de carbón activo en un matraz aforado de 500 ml. Añadir 400 ml de agua a 20 °C aproximadamente y 5 ml de solución de Carrez I. Agitar y añadir seguidamente 5 ml de la solución de Carrez II. Agitar durante treinta minutos, enrasar, homogeneizar y filtrar.
+
+5.4.1.3 Torta y harina de lino, productos ricos en harina de lino y otros productos ricos en mucílagos o en sustancias coloidales (por ejemplo, almidón hidrolizado).‒Preparar la solución como se indica en 5.4.1.2, pero sin filtrar. Decantar (si es necesario centrifugar), separar 100 ml del líquido sobrenadante e introducirlos en un matraz de 200 ml. Mezclar con acetona y enrasar con este disolvente, homogeneizar y filtrar.
+
+5.4.2 Valoración.‒Tomar de 25 a 100 ml de filtrado (con contenido en cloro inferior a 150 mg) obtenido en 5.4.1.1, 5.4.1.2 o 5.4.1.3 e introducirlo en un Erlenmeyer, diluir si es necesario, hasta 50 ml con agua. Añadir 5 ml de ácido nítrico, 20 ml de solución saturada de sulfato amónico férrico y dos gotas de la solución de sulfocianuro amónico, añadidas mediante una bureta llena hasta el trazo de cero. Añadir seguidamente mediante una bureta la solución de nitrato de plata mediante la solución de sulfocianuro amónico hasta que el viraje a rojo oscuro persista durante un minuto.
+
+5.5 *Cálculos*
+
+La cantidad de cloro (p), expresado en cloruro de sodio presente en el volumen del filtrado separado para la valoración, viene dada por la fórmula:
+
+p = 5,845 (V<sub>1</sub> ‒ V<sub>2</sub>) mg
+
+Siendo:
+
+V<sub>1</sub> = volumen, en ml, de solución de nitrato de plata añadida.
+
+V<sub>2</sub> = volumen, en ml, de solución de sulfocianuro amónico 0,1 utilizados en la valoración.
+
+Efectuar un ensayo en blanco sin la muestra a analizar y si consume solución de nitrato de plata 0,1 N restar este valor al volumen (V<sub>1</sub> ‒ V<sub>2</sub>).
+
+Expresar el resultado en porcentaje de la muestra.
+
+5.6 *Observaciones*.
+
+5.6.1 Para los productos ricos en materias grasas, desengrasar previamente mediante éter etílico según 4(a).
+
+5.7 *Referencias*.
+
+1\. Journal Officiel des Communautés Européennes. Número L 155/23.
+
+6\. HUMEDAD
+
+6.1 *Principio*.
+
+La muestra se deseca en condiciones definidas, variando en función de la naturaleza del producto. La pérdida de masa es determinada por pesada. Es necesario proceder a una predesecación cuando se trata de sustancias sólidas, con un contenido elevado de humedad. No es aplicable a los productos derivados de la leche considerados como piensos simples, sustancias minerales, piensos compuestos constituidos esencialmente de sustancias minerales y semillas y frutos oleaginosos. Para los cereales y sus productos excepto productos de cereales hidrolizados y raicilla de cebada (6.3.2.2), se aplicará el método oficial para cereales y derivados.
+
+6.2 *Material y aparatos*
+
+6.2.1 Molino triturador, fácil de limpiar, que permita una trituración rápida y uniforme, sin provocar calentamientos sensibles, ni condensaciones, evitando al máximo el contacto con el aire.
+
+6.2.2 Balanza analítica de precisión 0,5 mg.
+
+6.2.3 Recipientes secos de metal inoxidable o de vidrio, provistos de una tapa que asegure un cierre estanco; superficie útil que permita obtener una distribución de la muestra del orden de 0,3 g por cm<sup>2</sup>.
+
+6.2.4 Estufa isotérmica (± 1 °C) de calefacción eléctrica, que asegure una regulación rápida de temperatura y convenientemente ventilada.
+
+6.2.5 Estufa de vacío, de calefacción eléctrica regulable, provista de una bomba de aceite o de un dispositivo de introducción de aire caliente deshidratado o de un deshidratante.
+
+6.2.6 Desecador con placa de metal o porcelana, que contenga un deshidratante eficaz.
+
+6.3 *Procedimiento*.
+
+6.3.1 Preparación de la muestra.
+
+6.3.1.1 Todas las muestras a excepción de las mencionadas en 6.3.1.2.
+
+Separar previamente por lo menos 50 g de la muestra, triturándola o tratándola previamente de forma apropiada, si fuera necesario, para evitar toda variación del contenido en humedad.
+
+6.3.1.2 Alimentos líquidos o pastosos, constituidos esencialmente por materias grasas.
+
+Separar previamente y pesar, con aproximación de 10 mg, alrededor de 25 g de muestra. Añadir una cantidad apropiada de arena anhidra, pesada con aproximación de 10 mg y mezclar hasta obtener un producto homogéneo.
+
+6.3.2 Desecación.
+
+6.3.2.1 Todos los alimentos a excepción de los mencionados en 6.3.2.2.
+
+Tarar, con aproximación de 0,5 mg, un recipiente provisto de tapa. Pesar, con aproximación de 1 mg, en el recipiente tarado unos 5 g de muestra y repartirla uniformemente. Colocar el recipiente, sin tapa, en una estufa previamente calentada a 103 ºC. Para evitar que la temperatura de la estufa no descienda demasiado, introducir el recipiente con rapidez. Dejar secar durante cuatro horas a partir del momento en que la estufa alcance de nuevo. La temperatura de 103 °C. Colocar la tapa sobre el recipiente, retirarlo de la estufa, dejar enfriar de 30 a 45 minutos en un desecador y pesar con aproximación de 1 mg.
+
+En el caso de estar constituidos esencialmente por materias grasas, efectuar una desecación complementaria de treinta minutos en la estufa a 103 °C. La diferencia entre las dos pesadas no debe exceder de 0,1 por 100 de humedad.
+
+6.3.2.2 Piensos compuestos que contengan más del 4 por 100 de sacarosa o de lactosa, productos de cereales hidrolizados, raicilla de cebada, garrofa, cabeza de remolacha, azúcares y solubles de pescado y piensos compuestos que contengan más del 25 por 100 de sales minerales con agua de cristalización.
+
+Tarar, con una aproximación de 0,5 mg, un recipiente con tapa. Pesar, con una aproximación de 1 mg, en el recipiente tarado aproximadamente 5 g de muestra y repartirla uniformemente. Colocar el recipiente en la estufa de vacío previamente calentada a una temperatura de 80 a 85 °C, sin tapa. Para evitar que la temperatura de la estufa descienda demasiado, introducir el recipiente con rapidez. Llevar la presión a 100 Torrs, y dejar secar a esta presión durante cuatro horas, bajo una corriente de aire seco y caliente o con la ayuda de un deshidratante (300 g aproximadamente para 20 muestras). En este último caso, cortar la conexión con la bomba de vacío cuando la presión prescrita se alcance. Contar el tiempo de secado a partir del momento en que la estufa alcance de nuevo la temperatura de 80 a 85 °C. Llevar con precaución la estufa a la presión atmosférica.
+
+Abrir la estufa, tapar inmediatamente el recipiente y sacarlo. Dejar enfriar durante cuarenta o cuarenta y cinco minutos en el desecador y pesar con una aproximación de 1 mg. Proceder a una desecación complementaria de 30 minutos en la estufa de vacío a la temperatura de 80 a 85 °C y pesar de nuevo. La diferencia entre las dos pesadas no debe exceder de 0,1 por 100 de humedad.
+
+6.3.3 Predesecación.‒Los alimentos sólidos, cuyo contenido en humedad sea elevado y hagan la molienda difícil deben ser predesecados como se indica a continuación.
+
+Pesar con una aproximación de 10 mg unos 50 g de muestra no molida (si es necesario puede hacerse una división previa en el caso de gránulos o aglomerados) en un recipiente adecuado.
+
+Dejar secar en una estufa, a la temperatura de 60 a 70 °C, hasta que el contenido en humedad sea reducido a un valor comprendido entre 8 y 12 por 100.
+
+Retirar de la estufa, dejar enfriar al aire en el laboratorio durante una hora y pesar con una aproximación de 10 mg. Triturar inmediatamente después como se indica en 6.3.1 y efectuar la desecación como en 6.3.2.1.
+
+6.4 *Cálculos*.
+
+El contenido en humedad, en tanto por ciento de muestra, se obtiene por las fórmulas siguientes:
+
+6.4.1 Desecación sin predesecación.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1uPjEwMDwvbW4+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPk08L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CiAgICA8bWkgbWF0aHZhcmlhbnQ9ImJvbGQiPjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij4oTTwvbWk+CiAgICA8bW8+LTwvbW8+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bSk8L21pPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAAAlCAYAAABSz4fZAAACo0lEQVRoge1a25GDMAzcWqiDQqiEUvJ7bVCMe8l9wA5CSMYkJjET7Yw/joextF5ZUg4INIvu2wv4ZQwAngCSca9f7nGMzhyTei5wAgnAAzYJ43K9F9eemB2OzDXrvUABErYkdJgd+VDPUTXD8jcJ1KFMzxcogHYad/NgPCt3vhfGQg0vQJPAGG8d1gmrgy21AKtivDMkYECTQEdbIEEjfEfnCAo4CBIaQIsk3L1uOb3+1s6EAdv0maMk49LvfEuNzDCt5MaElx1Z2Y3OjnTdcPT+EUbsHScde2SUJKAFNT1QSEQrdULvvDdiVaBFunzOKz6/iYSCDWk57RsVc4K9a0Yxb25uGtsaCQMym0f3fLRDB5TF14T3wwC/Zb07YkuEZdCwrI8qrkWCLFzlRuD8Hba2Wxuky9xrCg/4jiMBgG/shNnYmiRwTbqBKdWmExrvu7dI2XPniCSBMV8a1GNVR20l6HOQsBTpnZFY1rNT8N+HxxFKSZDyp7ETVmW0TMJuTa2RkHOcJEEayzNAOqOEBF1L5OJ1TRKemTU1gVIlAFs1TNg66FZKaA00wIImAVgzO21YyyQUHcw6ZS1pO5TK+gjMOCwDJuwN5vPaOTKtrlExey0Yi2iSoH1wuoXBD3CULNDL3c8iYWusrlO0gVbhqMc7aaHelEwArDXpWknbcVqZjF9H7MkmW40fcLy2xd0hs7dicEfmYitz81xL+xVY8f/OeNmehDmO5dRAdmuTgGWuU/GzUbDV8RJIgvc/STI3v4IEYA5zzfdaMujxZpuCJAD2gSh75FeR8POQJOjOJcMU1P0goTIkCcBWDTpeBwkXQZMg1aBrhyDhImgSZK9GOztIuABeie31dqiOGhVzAPsyXf/4L1Muq6XwTu8oEAgEAp/HP8Dys8pBVXBpAAAAAElFTkSuQmCC)
+
+Siendo:
+
+M = masa inicial, en g, de la muestra.
+
+m = masa, en g, de la muestra seca.
+
+6.4.2 Desecación con predesecación.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZmVuY2VkIHNlcGFyYXRvcnM9InwiPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWZyYWM+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWZlbmNlZCBzZXBhcmF0b3JzPSJ8Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+TTwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+JzwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bW8+LTwvbW8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bTwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICA8L21mZW5jZWQ+CiAgICAgICAgICAgICAgICAgICAgPG1pPjwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6M3B4OyI+TTwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+TTwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPic8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21mcmFjPgogICAgICAgICAgICA8bW8+KzwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5FPC9taT4KICAgICAgICAgICAgPG1vPi08L21vPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+TTwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZmVuY2VkPgogICAgPG1mcmFjIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtbj4xMDA8L21uPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPkU8L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CiAgICA8bW8gc3R5bGU9InBhZGRpbmctbGVmdDozcHg7cGFkZGluZy1yaWdodDozcHg7Ij49PC9tbz4KICAgIDxtbj4xMDA8L21uPgogICAgPG1mZW5jZWQgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7IiBzZXBhcmF0b3JzPSJ8Ij4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1uPjE8L21uPgogICAgICAgICAgICA8bW8+LTwvbW8+CiAgICAgICAgICAgIDxtZnJhYz4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5NPC9taT4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bTwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+RTwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPk08L21pPgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj4nPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tZnJhYz4KICAgICAgICA8L21yb3c+CiAgICA8L21mZW5jZWQ+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,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)
+
+Siendo:
+
+E = masa inicial, en g, de la muestra.
+
+M = masa en g, de la muestra predesecada.
+
+M' = masa en g, de la muestra después de la molienda.
+
+m = masa, en g, de la muestra seca.
+
+La diferencia entre los resultados de dos determinaciones simultáneas efectuadas sobre una misma muestra no debe sobrepasar el 0,2 por 100 de humedad.
+
+6.5 *Referencias*.
+
+1\. Journal Officiel des Communautés Européennes. Número L 279/8.
+
+7\. FIBRA BRUTA
+
+7.1 *Principio*.
+
+La muestra desengrasada se trata sucesivamente con soluciones de ácido sulfúrico e hidróxido potásico de concentraciones prefijadas. Separar el residuo filtrando sobre amianto, lavar, secar, pesar y calcinar a 900 °C. La pérdida de peso resultante de la calcinación corresponde a la fibra bruta.
+
+7.2 *Material y aparatos*.
+
+7.2.1 Vasos de 600 ml de capacidad graduados de 200 en 200 ml.
+
+7.2.2 Placas filtrantes de porcelana de 80 mm de ∅, con un espesor de unos 4 mm, perforadas con 32 orificios de 4 mm de ∅ o similar.
+
+7.2.3 Matraces aforados de 2 litros de capacidad con tapón de goma marcados con trazo de referencia al nivel de los 800 ml, provistos de un embudo de vidrio de 120 mm ∅.
+
+7.2.4 Placas filtrantes, de 40 mm ∅ y 1 cm de espesor de 4 mm de borde oblicuo adaptado al cono del embudo (7.2.3), perforadas con 16 orificios de unos 4 mm de ∅ o similar y recubiertas de una rejilla metálica de 1 mm. Las placas y las rejillas metálicas deben ser inalterables a los ácidos y a los álcalis.
+
+7.2.5 Crisoles de platino o cuarzo para la incineración.
+
+7.2.6 Horno de mufla con termostato.
+
+7.2.7 Desecador
+
+7.2.8 Filtro de amianto.‒Poner 2 g de amianto en suspensión (7.3.2) en 100 ml de agua. Filtrar sobre placa filtrante recubierta de rejilla metálica (7.2.4) y colocada en el embudo del matraz aforado (7.2.3). Recoger el filtrado y filtrarlo de nuevo en el mismo filtro. Eliminar el filtrado.
+
+7.2.9 Estufa.
+
+7.3 *Reactivos*.
+
+7.3.1 Ácido sulfúrico 0,26 N.
+
+7.3.2 Amianto tratado.‒Añadir al amianto unas cinco veces su peso en ClH diluido (1 vol. de ClH d = 1,19 + 300 vol. de agua). Hervir la mezcla durante unos cuarenta y cinco minutos, dejar enfriar y filtrar. Lavar el residuo con agua hasta ausencia de acidez en el filtrado. Lavar a continuación con la acetona (7.3.6). Secar el amianto en la estufa y calcinar después durante dos horas a 900 °C. Dejar enfriar en desecador y conservar en un frasco cerrado.
+
+7.3.3 Emulsión antiespuma.
+
+7.3.4 Solución valorada de KOH 0,23 N.
+
+7.3.5 Ácido clorhídrico 0,5 N.
+
+7.3.6 Acetona pura.
+
+7.3.7 Éter dietílico puro.
+
+7.4 *Procedimiento*.
+
+Pesar, con aproximación de 1 mg, 3 g de muestra y 2 g de amianto tratado en un vaso de 600 ml de capacidad. Añadir 200 ml de ácido sulfúrico 0,26 N y unas gotas de emulsión de antiespuma. Llevar rápidamente a ebullición y dejarla hervir durante treinta minutos exactos. Para mantener el volumen constante, cubrir el vaso con un dispositivo refrigerador, tal como un balón de fondo redondo de 500 ml sometido a una circulación de agua fría. Interrumpir la ebullición añadiendo 50 ml de agua fría y filtrar inmediatamente en un filtro de amianto.
+
+Lavar el residuo con 100 ml de agua muy caliente, cinco veces, para obtener un volumen final de filtrado de 800 ml. Transferir cuantitativamente el residuo en el vaso provisto de un disco de porcelana para regular la ebullición. Añadir 200 ml de solución de hidróxido potásico 0,23 N. Llevar rápido a ebullición y dejar hervir durante treinta minutos exactos. Añadir 50 ml de agua fría y filtrar sobre un filtro de amianto nuevo preparado según 7.2 8. Lavar el residuo con agua muy caliente hasta la neutralidad de las aguas de lavado (con ayuda de papel de tornasol). Deshidratar lavando tres veces con acetona usando un volumen total de unos 100 ml.
+
+Transferir cuantitativamente el residuo en un crisol, disgregarlo si es necesario, y secarlo a 130 °C hasta obtener un peso constante.
+
+Dejar enfriar un desecador y pesar rápido. Introducir a continuación el crisol en el horno de mufla (7.2.6) y dejar calcinar durante treinta minutos a 900 °C. Dejar enfriar en desecador y pesar rápidamente.
+
+Hacer un ensayo en blanco aplicando el mismo método operativo con amianto tratado (7.3.2) en ausencia de la muestra. La pérdida de peso resultante de la calcinación de los 6 g de amianto no debe ser superior a 6 mg.
+
+7.5 *Cálculos*.
+
+El contenido en fibra bruta en tanto por ciento de muestra viene dado por la fórmula:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1vPig8L21vPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICAgICAgICAgIDxtbz4tPC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmI8L21pPgogICAgICAgICAgICA8bW8+KTwvbW8+CiAgICAgICAgICAgIDxtbz4mI3gyMkM1OzwvbW8+CiAgICAgICAgICAgIDxtbj4xMDA8L21uPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtbj4zPC9tbj4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAAApCAYAAABeKYVuAAACKklEQVRoge2byXHDMAxFfy2uw4WoEpWia9pwMexFOUQ/QTDgKoq0ErwZHaINwBcIbg7gTOUxweYzc723TzNi/GYBEJAPugcBwH4cOXuv4zjLctgLxrWn8GcHsCZ8kfdVsQLYah86yYoykXHcc0bogK/4LJEtP3bDnj5X4z+ehuERVDmJPokQ8DvWx+GDfi+zfjn+5gfSpUa/L2l4yd7Vn1qRATvQGrQo9MGKX2ZurMwUxcAvlnJc1qGeGS8dlDU6la2vzPUcWmTGZsVPn1ivLbvUL1bDgePBlHD6K1u1qhWKLINkQDEbbLataJEppAU/wIq4kKkPEDUq0XWJhntlc6ypbZHz8pnWkvF2IvMlMqARIqeaYEsdl0wRuaTOMuiSurype1OCxASj4ymRrY6KfqYCnlKTc5msXz4ikxmUJWQqk2PjYElsdGG9T48urH6iqGWlOhLr2giReT71TCtTxsnMGqu5sClRBDp0pci0ERu3n51iW6IMmfEF2DWFActaLIddPSYwei0gl6WtnZ5lRwqm+51YXQ/qvuJRzqxpdS0Lxq+vdGVFpoeczAP3SIQsK+asYZTwJwQmG8asJ9fwpwR2nHvy4cclh4s8WmTHcUaxo3Ea6+ThuokkthLmNJLahXi3ydJtsbKVK2Uu8oXM+n3Iv0Cua3s9voAV12wWOAmKf3vmtHN2I9UpgOXDuZAX3nub7FbonyMAP/8J4HRCb9HvuPlOteM4ToRPqJ6F4nHbD90AAAAASUVORK5CYII=)
+
+Siendo:
+
+a = pérdida de peso debida a la calcinación, en la muestra.
+
+b = pérdida de peso debida a la calcinación, en el ensayo en blanco.
+
+La diferencia entre dos determinaciones simultáneas efectuadas sobre la misma muestra no debe ser superior a:
+
+0,3 en valor absoluto, para los contenidos en fibra bruta inferiores a 10 por 100.
+
+3 por 100 en valor relativo para los contenidos en fibra bruta iguales o superiores al 10 por 100.
+
+7.6 *Observaciones*.
+
+7.6.1 Las muestras conteniendo más de un 10 por 100 de materia grasa deben desengrasarse con éter etílico antes del análisis. Para ello colocar la muestra (3 g ± 1 mg) sobre un filtro de amianto. Añadir unos 50 ml de éter dietílico y filtrar con vacío. Repetir la operación dos veces más. Transferir cuantitativamente la muestra desengrasada y el amianto a un vaso de 600 ml, continuando el análisis como se ha descrito anteriormente.
+
+7.6.2 Las muestras con contenido en materias grasas protegidas por recubrimiento deben ser desengrasadas como se indica en 7.6.1 y ser sometidas, además, a un nuevo desengrasado después del lavado del residuo proveniente del ataque del ácido. Para esto lavar el residuo de este ataque tres veces con acetona (en total 100 ml), después tres veces con 50 ml de éter dietílico. Transferir a continuación cuantitativamente el residuo a un vaso de 600 ml y proseguir el análisis como se ha indicado anteriormente.
+
+7.6.3 En el caso de muestras ricas en calcio (más de 2 por 100 de calcio) sustituir el tratamiento de ácido sulfúrico por el de ácido clorhídrico. Pesar 3 g ± 1 mg de muestra en un vaso y 2 g de amianto calcinado, introduciéndolos en un vaso de 600 ml. Añadir 100 ml de ClH 0,5 N y unas gotas de emulsión antiespuma. Dejar reposar durante cinco minutos. Proceder a continuación como se ha indicado anteriormente.
+
+7.7 *Referencias*.
+
+1\. Journal Officiel des Communautés Européennes. Número L 83/24.
+
+8\. AZÚCARES
+
+8.1 *Principio*.
+
+Eliminación de todas las materias reductoras distintas de los azúcares, mediante defecación a partir de las soluciones de Carrez I, II, previa disolución de los azúcares en etanol diluido. Eliminación del etanol y valoración antes y después de la inversión según el método de Luff-Schoorl.
+
+8.2 *Material y aparatos*.
+
+8.2.1 Agitador mecánico.
+
+8.2.2 Matraces aforados de 1.000, 300, 200, 100 y 50 ml.
+
+8.3 *Reactivos*.
+
+8.3.1 Etanol al 40 por 100 (v/v) d: 0,948 a 20 °C.
+
+8.3.2 Solución de Carrez I.‒Disolver en agua 24 g de acetato de cinc y 3 g de ácido acético glacial y añadir agua destilada hasta 100 ml.
+
+8.3.3 Solución Carrez II.‒Disolver en agua 10,6 g de ferro- cianuro potásico K<sub>4</sub> (Fe CN<sub>6</sub>) 3H<sub>2</sub>O y añadir agua destilada hasta 100 ml.
+
+8.3.4 Solución de rojo de metilo al 0,1 por 100 (v/v).
+
+8.3.5 Ácido clorhídrico 4 N.
+
+8.3.6 Ácido clorhídrico 0,1 N.
+
+8.3.7 Solución de hidróxido sódico 0,1 N.
+
+8.3.8 Solución de sulfato de cobre.‒Disolver 25 g de sulfato de cobre CuSO<sub>2</sub> 5H<sub>4</sub>O, exento de hierro, en agua y enrasar a 100 ml.
+
+8.3.9 Solución de ácido cítrico.‒Disolver 50 g de ácido cítrico C<sub>6</sub>H<sub>8</sub>O<sub>7</sub> H<sub>2</sub>O en 50 ml de agua.
+
+8.3.10 Solución de carbonato sódico.‒Disolver 143,8 g de carbonato de sodio anhidro en 300 ml de agua caliente, dejar enfriar y completar a 300 ml.
+
+8.3.11 Solución de tiosulfato sódico 0,1 N.
+
+8.3.12 Solución de almidón.‒Añadir una mezcla de 5 g de almidón soluble en 30 ml de agua a un litro de agua hirviendo. Dejar hervir durante tres minutos. Dejar enfriar. Añadir 10 mg de ioduro mercúrico como agente conservado.
+
+8.3.13 Ácido sulfúrico 6 N.
+
+8.3.14 Solución de ioduro potásico al 30 por 100 (p/v).
+
+8.3.15 Piedra pómez lavada con ácido clorhídrico y aclarada con agua.
+
+8.3.16 Isopentanol.
+
+8.3.17 Reactivo de Luff-Schoorl.‒Mezclar agitando lentamente 50 ml de la solución 8.3.10. Añadir en seguida 100 ml de la solución 8.3.8 y completar a un litro de agua. Dejar reposar doce horas y filtrar. Verificar la normalidad del reactivo obtenido (Cu 0,1 N; Na<sub>2</sub>Co<sub>3</sub>2N). El pH de la solución debe ser aproximadamente 9,4.
+
+8.4 *Procedimiento*.
+
+8.4.1 Preparación de la muestra.‒Pesar con aproximación de 1 mg, 2,5 g de la muestra, e introducirlo en un matraz aforado de 250 ml. Añadir 200 ml de etanol al 40 por 100 (v/v) y mezclar durante una hora en el agitador. Añadir 5 ml de la solución Carrez I y agitar durante un minuto, adicionar y agitar durante el mismo tiempo con 5 ml de la solución Carrez II.
+
+Enrasar a 250 ml con la solución de etanol (8.3.1), homogeneizar y filtrar. Tomar 200 ml del filtrado y evaporar aproximadamente hasta la mitad del volumen, a fin de eliminar la mayor parte del etanol. Transvasar en su totalidad el residuo de evaporación con ayuda de agua caliente a un matraz aforado de 200 ml y enfriar, a continuación enrasar con agua y filtrar si es necesario. Esta solución será utilizada para la determinación de azúcares reductores y después de la inversión para la determinación de azúcares totales.
+
+8.4.2 Determinación de azúcares reductores.‒Tomar como máximo, 25 ml de la solución preparada según 8.4.1 y que contenga menos de 60 mg de azúcares reductores, expresado en glucosa. Si es necesario, completar el volumen hasta 25 ml con agua destilada y determinar la cantidad de azúcares reductores según Luff-Schoorl. El resultado será expresado en tantos por ciento de glucosa.
+
+8.4.3 Determinación de azúcares totales previa inversión.‒Tomar 50 ml de la solución 8.4.1 y llevar a un matraz aforado de 100 ml. Añadir unas gotas de la solución rojo de metilo y adicionar lentamente agitando 15 ml de la solución de ácido clorhídrico 4 N hasta viraje a rojo. Añadir 15 ml de ácido clorhídrico 0,1 N y sumergirlo en un baño de agua caliente a ebullición durante treinta minutos. Refrigerar hasta 20 °C y añadir a continuación 15 ml de la solución de hidróxido sódico 0,1 N (8.3.7). Enrasar a 100 ml con agua y homogeneizar.
+
+Tomar una cantidad que no exceda de 25 ml y contenga menos de 60 mg de azúcares reductores expresado en glucosa. Si es necesario, completar el volumen hasta 25 ml con agua destilada y determinar la cantidad de azúcares reductores según Luff-Schoorl. El resultado será expresado en tantos por ciento de glucosa. De expresarlo en sacarosa, se debe multiplicar por el factor 0,95.
+
+8.4.4 Valoración de Luff-Schoorl.‒Tomar 25 ml del reactivo Luff-Schoorl (8.3.17) y llevarlo a un Erlenmeyer de 300 ml; añadir 25 ml exactamente medidos de la solución defecada de azúcares, adicionar un poco de piedra pómez y calentar agitando sobre la llama del mechero. Colocar inmediatamente el Erlenmeyer sobre una tela metálica, perforada por una abertura de 6 cm de diámetro y regulando la llama de manera que solamente el fondo del Erlenmeyer sea calentado. Adoptar en seguida un refrigerante de reflujo sobre el Erlenmeyer; a partir de este momento, hacer hervir la solución y mantener en ebullición durante diez minutos exactamente. Refrigerar inmediatamente al chorro de agua fría durante cinco minutos y proceder a su valoración.
+
+Añadir 10 ml de la solución de ioduro potásico (8.3.14) inmediatamente después y con cuidado 25 ml de ácido sulfúrico 6 N (8.3.13). Valorar a continuación mediante la solución de tiosulfato de sodio 0,1 N (8.3.9) hasta la aparición de color amarillo, añadir en ese momento la solución de almidón y terminar de valorar.
+
+Efectuar la misma valoración sobre una mezcla que contenga 25 ml exactamente medidos del reactivo de Luff-Schoorl, 25 ml de agua, 10 ml de la solución de ioduro de potasio (8.3.14) y 25 ml de la solución de ácido sulfúrico 6 N (8.3.13), sin llegar a ebullición.
+
+8.5 *Cálculos*.
+
+Establecer por medio de la tabla I la cantidad de glucosa en mg correspondiente a la diferencia entre las dos valoraciones, según los ml de tiosulfato de sodio 0,1 N gastados en cada una de las valoraciones.
+
+Expresar los resultados en tanto por ciento de la muestra.
+
+8.6 *Observaciones*.
+
+8.6.1 En caso de alimentos muy ricos en melazas u otros alimentos poco homogéneos, pesar 20 g e introducirlos en un matraz aforado de un litro 500 ml de agua. Mezclar durante una hora en el agitador. Defecar mediante los reactivos de Carrez I y II (8.3.2 y 8.3.3), como se describe en 8.4.1, utilizando de todos los reactivos dosis cuatro veces superiores. Llenar a 1.000 ml con etanol al 40 por 100 (v/v) (8.3). Homogeneizar y filtrar; a continuación, eliminar el etanol según 8.4.1.
+
+En ausencia de almidón exento de productos de hidrolizado, enrasar a 1.000 ml con agua destilada.
+
+8.6.2 En el caso de melazas y alimentos simples, ricos en azúcares y prácticamente exentos de almidón, pesar 5 g e introducirlos en un matraz aforado de 250 ml, añadir 200 ml de agua destilada y mezclar durante una hora o más en el agitador. Defecar inmediatamente por medio de los reactivos de Carrez i y II (8.3.2 y 8.3.3), según 8.4.1
+
+Llevar a 250 mí con agua, homogeneizar y filtrar, para determinar los azúcares totales, proseguir como 8.4.3.
+
+8.6.3 Es recomendable añadir, aproximadamente, 1 ml de isopentanol (sin tener en cuenta el volumen) antes de la ebullición, con el reactivo Luff-Schoorl para evitar la formación de espuma.
+
+8.6.4 La diferencia entre la cantidad de azúcares totales después de la inversión, expresada en glucosa, y la cantidad de azúcares reductores, expresada igualmente en glucosa, multiplicada por 0,95, da la cantidad en tanto por ciento de sacarosa.
+
+8.6.5 Para calcular la cantidad de azúcares reductores, excluyendo la lactosa, se puede determinar de las siguientes formas:
+
+8.6.5.1 Para un cálculo aproximado, multiplicar por 0,675 la cantidad de lactosa obtenida, por determinación separada, y restar el resultado obtenido de la cantidad en azúcares reductores.
+
+8.6.5.2 Para el cálculo preciso de azúcares reductores, excluyendo la lactosa, es necesario partir de la misma muestra (8.4.1) para las dos determinaciones finales. Uno de los análisis es efectuado a partir de la solución obtenida en 8.4.1 y el otro sobre una parte de la solución obtenida para la valoración de la lactosa según el método para la determinación de lactosa.
+
+En los casos 8.6.5.1 y 8.6.5.2, la cantidad de azúcares presentes se determinan según el método de Luff-Schoorl, expresado en mg de glucosa.
+
+La diferencia entre los dos valores se expresa en tanto por ciento de la muestra.
+
+8.7 *Bibliografía.*
+
+1\. Journal Officiel des Communautés Européennes. Número L 155/32.
+
+TABLA I
+
+Para 25 ml de reactivo Luff-Schoorl
+
+<table>
+<thead>
+<tr>
+<th>
+<p>Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub></p>
+<p>0,1 N</p>
+</th>
+<th colspan="2">
+<p>Glucosa, fructosa</p>
+<p>Azúcares invertidos</p>
+<p>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></p>
+</th>
+<th colspan="2">
+<p>Lactosa</p>
+<p>C<sub>12</sub>H<sub>22</sub>O<sub>11</sub></p>
+</th>
+<th colspan="2">
+<p>Maltosa</p>
+<p>C<sub>12</sub>H<sub>22</sub>O<sub>11</sub></p>
+</th>
+</tr>
+<tr>
+<th>ml</th>
+<th>mg</th>
+<th>Diferencia</th>
+<th>mg</th>
+<th>Diferencia</th>
+<th>mg</th>
+<th>Diferencia</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>2,4</td>
+<td>2,4</td>
+<td>3.6</td>
+<td>3,7</td>
+<td>3,9</td>
+<td>3,9</td>
+</tr>
+<tr>
+<td>2</td>
+<td>4,8</td>
+<td>2,4</td>
+<td>7,3</td>
+<td>3,7</td>
+<td>7,8</td>
+<td>3,9</td>
+</tr>
+<tr>
+<td>3</td>
+<td>7,2</td>
+<td>2,5</td>
+<td>11,0</td>
+<td>3,7</td>
+<td>11,7</td>
+<td>3,9</td>
+</tr>
+<tr>
+<td>4</td>
+<td>9,7</td>
+<td>2,5</td>
+<td>14.7</td>
+<td>3,7</td>
+<td>15,6</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>5</td>
+<td>12,2</td>
+<td>2,5</td>
+<td>18 4</td>
+<td>3,7</td>
+<td>19,6</td>
+<td>3,9</td>
+</tr>
+<tr>
+<td>6</td>
+<td>14 7</td>
+<td>2,5</td>
+<td>22 I</td>
+<td>3,7</td>
+<td>23,5</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>7</td>
+<td>17,2</td>
+<td>2 6</td>
+<td>25,8</td>
+<td>3,7</td>
+<td>27,5</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>8</td>
+<td>19,8</td>
+<td>2,6</td>
+<td>29,5</td>
+<td>3,7</td>
+<td>31,5</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>9</td>
+<td>22,4</td>
+<td>2,6</td>
+<td>33,2</td>
+<td>3,8</td>
+<td>35,5</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>25,0</td>
+<td>2,6</td>
+<td>37,0</td>
+<td>3,8</td>
+<td>39,5</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>11</td>
+<td>27,6</td>
+<td>2,7</td>
+<td>40,8</td>
+<td>3,8</td>
+<td>43,5</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>12</td>
+<td>30,3</td>
+<td>2,7</td>
+<td>44,6</td>
+<td>3,8</td>
+<td>47,5</td>
+<td>4,1</td>
+</tr>
+<tr>
+<td>13</td>
+<td>33,0</td>
+<td>2,7</td>
+<td>48,4</td>
+<td>3,0</td>
+<td>51,6</td>
+<td>4,1</td>
+</tr>
+<tr>
+<td>14</td>
+<td>35,7</td>
+<td>2,8</td>
+<td>52,2</td>
+<td>3,8</td>
+<td>55,7</td>
+<td>4,1</td>
+</tr>
+<tr>
+<td>15</td>
+<td>38,5</td>
+<td>2,8</td>
+<td>56,0</td>
+<td>3,9</td>
+<td>59,8</td>
+<td>4,1</td>
+</tr>
+<tr>
+<td>16</td>
+<td>41,3</td>
+<td>2,9</td>
+<td>59,9</td>
+<td>3,9</td>
+<td>63,9</td>
+<td>4,1</td>
+</tr>
+<tr>
+<td>17</td>
+<td>44,2</td>
+<td>2,9</td>
+<td>63,8</td>
+<td>3,9</td>
+<td>68,0</td>
+<td>4,2</td>
+</tr>
+<tr>
+<td>18</td>
+<td>47,1</td>
+<td>2,9</td>
+<td>67,7</td>
+<td>4,0</td>
+<td>72,2</td>
+<td>4,3</td>
+</tr>
+<tr>
+<td>19</td>
+<td>50,0</td>
+<td>3,0</td>
+<td>71,7</td>
+<td>4,0</td>
+<td>76,5</td>
+<td>4,4</td>
+</tr>
+<tr>
+<td>20</td>
+<td>53,0</td>
+<td>3,0</td>
+<td>75,7</td>
+<td>4,1</td>
+<td>80,9</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td>21</td>
+<td>56,0</td>
+<td>3,1</td>
+<td>79,3</td>
+<td>4,1</td>
+<td>85,4</td>
+<td>4,6</td>
+</tr>
+<tr>
+<td>22</td>
+<td>59,1</td>
+<td>3,1</td>
+<td>83,9</td>
+<td>4,1</td>
+<td>90,0</td>
+<td>4,6</td>
+</tr>
+<tr>
+<td>23</td>
+<td>62,2</td>
+<td> </td>
+<td>88,0</td>
+<td> </td>
+<td>94,6</td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+9\. ACIDEZ DE LA GRASA
+
+9.1 *Principio*.
+
+Las materias grasas son extraídas por éter dietílico y subsiguiente neutralización con hidróxido sódico.
+
+9.2 *Material y aparatos*.
+
+9.2.1 Extractor tipo Soxhlet o equivalente.
+
+9.2.2 Aparato de calefacción a temperatura regulable, antideflagrante.
+
+9.2.3 Estufa de desecación a vacío (menos de 100 Torr) (1 Torr = 1 mmHg = 1/760 atm).
+
+9.3 *Reactivos*.
+
+9.3.1 Éter dietílico anhidro d = 0,720, p. e., 34,5 °C, exento de peróxidos 14 (a).6.11.
+
+9.3.2 Sulfato sódico, anhidro.
+
+9.3.3 Ácido clorhídrico 3 N.
+
+9.3.4 Material de filtración; por ejemplo, tierra de diatomeas.
+
+9.3.5 Tetracloruro de carbono.
+
+9.3.6 Alcohol etílico.
+
+9.3.7 Solución de hidróxido sódico 0,1 N.
+
+9.4 *Procedimiento*.
+
+9.4.1 Pesar, con aproximación de 1 mg, 5 g de la muestra y mezclar con 2 o 3 g (o más, si es necesario) de sulfato sódico anhidro. Introducir la mezcla en un cartucho de extracción exento de materias grasas y recubierto de un tapón de algodón desengrasado.
+
+Poner el cartucho en un extractor y extraer durante seis horas con éter dietílico.
+
+Regular el calor para obtener 15 extracciones o menos a la hora. Recoger el extracto etéreo en un matraz seco, conteniendo algunos fragmentos de piedra pómez y tarar. Reemplazar los fragmentos de piedra pómez por perlas de vidrio cuando la materia grasa debe ser objeto de análisis cualitativos posteriores.
+
+Eliminar el éter por destilación y secar seguidamente el residuo a evaporación durante una hora y media en la estufa de desecación a vacío a temperatura de 75 °C. Enfriar en desecador y pesar. Efectuar una segunda desecación durante 30 minutos para asegurar que las pesadas de materia grasa son constantes (la diferencia de pesadas debe ser inferior a 1 mg).
+
+9.4.2 Para los productos de contenido alto en materias grasas, difíciles de triturar o no apropiados para tomar una porción de una vez por no estar homogéneos, proceder como sigue: Pesar, con la aproximación de 1 mg, 20 g de muestra y mezclar con 10 g o más de sulfato sódico anhidro. Proceder a la extracción con éter dietílico como se indica anteriormente. Redisolver el extracto en tetracloruro de carbono y llevarlo a un matraz aforado de 500 ml y homogeneizar. Tomar 50 ml de la solución y llevarla a un pequeño matraz seco, añadir unos trozos de piedra pómez y tarar. Eliminar el disolvente por destilación, secar y proseguir la operación como se indica anteriormente. Eliminar el disolvente del residuo de extracción que se encuentra en el cartucho y moler el residuo con finura de 1 mm. Colocar de nuevo el producto en el cartucho de extracción (no añadir sulfato sódico), extraer con éter dietílico y proseguir la operación como se indica anteriormente.
+
+Disolver el extracto etéreo con 15 ml de una mezcla a volúmenes iguales de éter y alcohol dietílico de 96º y valorar con hidróxido sódico N/10 de factor conocido empleando fenolftaleína como indicador hasta color rosa persistente. Se hace un testigo en blanco para restarle la acidez de la mezcla alcohol-etérea.
+
+9.5 *Cálculo*.
+
+Expresar el resultado en tanto por ciento de acidez en ácido oleico:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj4lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPmE8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmM8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmk8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmU8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPno8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+JiN4RTE7PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5kPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+bzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICA8bW8gc3R5bGU9InBhZGRpbmctbGVmdDozcHg7cGFkZGluZy1yaWdodDozcHg7Ij49PC9tbz4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlY8L21pPgogICAgICAgICAgICA8bW8gc3R5bGU9InBhZGRpbmctbGVmdDozcHg7cGFkZGluZy1yaWdodDozcHg7Ij4mI3gyMkM1OzwvbW8+CiAgICAgICAgICAgIDxtbj4wLDAyODI0NTwvbW4+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij5GPC9taT4KICAgICAgICAgICAgPG1vPiYjeDIyQzU7PC9tbz4KICAgICAgICAgICAgPG1uPjEwMDwvbW4+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlA8L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CiAgICA8bW8gc3R5bGU9InBhZGRpbmctbGVmdDozcHg7cGFkZGluZy1yaWdodDozcHg7Ij49PC9tbz4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlY8L21pPgogICAgICAgICAgICA8bW8gc3R5bGU9InBhZGRpbmctbGVmdDozcHg7cGFkZGluZy1yaWdodDozcHg7Ij4mI3gyMkM1OzwvbW8+CiAgICAgICAgICAgIDxtbj4yLDgyNDU8L21uPgogICAgICAgICAgICA8bW8gc3R5bGU9InBhZGRpbmctbGVmdDozcHg7cGFkZGluZy1yaWdodDozcHg7Ij4mI3gyMkM1OzwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5GPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+UDwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAj4AAAAoCAYAAAD+IvADAAAIdklEQVR4nO2d65HzOgiGqSV1pJBU4lLy97ThYtzLnh/7MUsIIGRLspW8z4xndn2RECYCXU0EAAAAAAAAAABMyu1sAf5xFTnAdYBNAAA+jo2IftTxUPc81PW1sQw3lf4z8YyWSctM9F42K92F4rLpfH4o5ww2R6bVSC9TXus569gSaWm4jNazd5X+kpTvapxt59rGPZuVzGKbGXraLwAAVPOkXKUTOb69cOUtK+KtIAvLy5U8OxVZSW/06gTYgUvnsdK7M9nEuQe9V/xcgd8D+dhhaedyp2P6k87T4k71jmMj//1zOWRZLQesz1nPXYGz7Pxm5Mk6igLJmWwzQw/7BQCA3XCF5FWaVuXdKl9dwXOQYlXE3jXpbO9kt2jlPVwJe63+G/mt3ag34E5/DkinvdLxoYNSj8reFroONq1gkug9UNVBqJfeVTjDzhey3zvbiSXDjLaZoZf9AgBANRwUeJXmQv16e6x0PcfJjlY7LumoPacmnbbnXDiw4r8tIqe+ijRk2nLI6Igeew0l6TJ5PQMswyr+tnRx1V6fM+zc04EXNM5qmxmuOhQKAPhSotZwdv5ADV4QQ/TXMrV6EryKszSMwYEP57ca9y9UnnshhxwkT/qV13Iu1hyHPXNIIsdxpLWsHaanf76X9ejNA4mC2rMZbecebP8WM9pmhl72CwAAu+DWsDW80aNSipyrFxRFwU0UFMk0LRmIfstZctTcGtf3PejPmVjOxUpjj4PxHMfRd6QDn0iXrLNonkoUFJ3NaDv38IIUZjbbzNDLfgEAYDdcMclgZKM+QxYjAx9v+EBeyzjqp5H/jV6dRMm5MN58iwjdMpcHAp88I+3cQs7XiZjJNjP0sl8AANgNBxxcCfGEyBq4Ui9VZCMDn9WRR1bu1sovCV/X8nqTs0tOw2uhR3gt5jv5+s68j28LfEbauUXGPmawzVod7LFfAADoimxhcmuxttWXXTY8ao7PQrbDsFr4kWOwZF0q07BkqKnw98yRyLyPb5rjQzTWzjUrlfUyi23W6gBzfAAAl0RWZj2XJFt7+DClVV3eShhdeS5OOuwAvAmuOp1Izqj7vuRktsJ1S7ZoHtNevFVdnn5W42/JVVd1SUbZucTreZTMapsZetkvAAAcQraGRyxvbb2PD/Mg36FFeejztQ4g26qWy5OzjAp8PnUfH8lIOyf61VWmV2NW28xw2H6j7rIek5KuSq9JWOCdmXV9p/1yz1zuvXgOrTVWr490mnpIwpLNctKcrgUvC7aGcxZ1biO/ni0FVVwmlkXKwzLX9IjI/VZavxcrULGCSStQ1edm6O1hRtn5k/z5OezL5ZDRbLaZ4ZD9SqEWev2x75ksZyG7wj7lI2WfWKZaopUtLbmSrmV37zcFLkeJdodtjawQtROV12S9tqhnomv6kPc+jetMaZigVB4dzMln98wL0fm36FEp7eHyUNc8m9DlO/t3n2WEnVs6lgf7cvk/0Ty2meGQ/bLjkmjltHqJoyLhkXximbKMXmVxJV1Hc0nAHLBzAOCTsSYkfz1Wd5luHbWq3K/kuFrxiWXK0Gu8NuJKukbgMz+9dpIF4CqM7GWdCj0jXK99b1k5XMlxteITy1RCb2A1iivpGoHP3Gx0DTsCoBe9PgL8Eaz0qhzpWI52kckxRl6/7zkuPby2J1855he9cD3GrPNiWSyn1rJMN3XdGxPPkNGfnNwm79/T3a/z8xilaz0HY+8PPptOFPhk3kVU7pLOauQEAABgICciSadypItspVfnba2kkPdKB7CnZa+diBc86KE9diD87Eb+ipvWZbrRe9ChA9EMmbw4XXaSpaWjEXrmP+tMM1LX1qqQ2nLVpOMFPpl3EZW7pLNaOT2sSY7Rgd4RMCOwc1DFk/6MQPakZGCnoI3IcgLWvhi1k2YtJ2QFEJZc0bLVh3GuZZnu6rk9SzZr9OftS1IzZGPtB3G2ri2dsZzZnrPadDy5s+8iW26ts1bl7cV/OHAMPM7i7HLj6GAvcrUD9xIQ2T0UFl6vheW4ooi8phLXQYQlQ7TvgSQbSHGaLcq0d9uAmrxaBD43414OjLVcI3UdbYOfoTYdS+6ad+E9X9JZq/L24uyKDcd3HWdxdrlxdLAXdjqWo8w4Zm+HTW8IJgoGatBzI7QMUV5WOnpfgp5l2rsraU1eLQIf/Zw8snJZ6RzRtT6XuVZzr3XNC9iy76L2+b1yAgAAKMA7kBLZDigz/OS1PKO5J0f5offVaDrdbHDhOeNeZdK7Z9ZQk1erwMfStdbNKF3zuWgyd4badGp6qixqAr4jcpbSyR4IpsCMwM5BEb1M+Ydee3iyQ11e5Ww5rmhey8M57+UnsZxQlJcsVzSM0bpM1pwZvi/zI6zJq0XgE/W6ZOVqqWt+3grIvfMWtelYcte8i9rnWWetygvOQc6XtA5sqAhGAVv8x5Pev6EiC79QzhnLFTgSbsnrit2690H5SpxfIKfL+VutZy+vkjPuVSZvRVTN/KZsXi0CH61rL/9Irta6ZpmsIKKGmnQ8vWXfRe3zejJ5i/KCc/DqJzl8jJ4HMIKvt0W9cSHR65dfresR1h413Auz0nuFv6l7j+TFy635/5q89DVpEK3LFEXctcN/tXkttO/TJJYOHurvrFwtda33takJHGvTieS2rlvB7pHns3KCaxI1zPg3iZ47MIKvtkUufLRSBBUrAAAcJ3I2HNCivgUjgC0CAADoTqaV/TXzK8CpwBYBAAB0x3M2cugZgBHAFgEAAHQn+kbfx86nAJcEtggAAKA70fACACOBLQIAAOgOnA24CrBFAAAA3YGzAVcBtggAAKA7cDbgKsAWAQAAdIc/U/Pxu+KCywNbBAAA0BVrt3ZsEAfOALYIAAAAAAAAAAAAAAAAAAAAwFz8D4tept55nXQxAAAAAElFTkSuQmCC)
+
+Siendo:
+
+V = volumen, en ml, de NaOH N/10 gastados, restándole los gastados en la prueba testigo.
+
+P = peso de grasa obtenido en la extracción,
+
+9.6 *Observaciones*.
+
+9.6.1 Para el ensayo de los peróxidos verter 10 ml de éter en una pequeña probeta tapada con tapón de vidrio, previamente enjuagada con éter, añadir 1 ml de solución al 10 por 100 de yoduro de potasio, recién preparada. Agitar y dejar reposar durante un minuto No debe aparecer ningún color amarillo en ninguna de las capas. El éter dietílico podrá mantenerse exento de peróxidos añadiendo una lámina de cinc húmeda, que deberá sumergirse completamente en una solución ácida diluida de sulfato de cobre durante un minuto y después lavar con agua. Utilizar por litro una superficie de 80 cm<sup>2</sup> aproximadamente de lámina de cinc, cortada en bandas suficientemente largas para que lleguen por lo menos hasta la mitad del recipiente.
+
+9.6.2 En harinas de pescado empléese como indicador azul alcalino 6-B disuelto al 0,5 por 100 en etanol.
+
+10\. CALCIO
+
+10.1 Principio.
+
+Incineración de la muestra y precipitación del calcio mediante ácido clorhídrico en forma de oxalato cálcico y valoración del ácido oxálico formado con una solución de permanganato potásico previa disolución del precipitado con ácido sulfúrico. Aplicable a los alimentos de animales.
+
+10.2 Material y aparatos.
+
+10.2.1 Matraz aforado de 250 ml de capacidad.
+
+10.2.2 Erlenmeyer de 250 ml de capacidad.
+
+10.2.3 Crisol de platino, cuarzo o porcelana.
+
+10.2.4 Crisoles filtrantes de vidrio, porosidad G<sub>4</sub>.
+
+10.2.5 Horno eléctrico con circulación de aire y regulador automático, para regular a 550 °C.
+
+10.2.6 Baño de agua.
+
+10.3 *Reactivos*.
+
+10.3.1 Ácido clorhídrico d: 1,14.
+
+10.3.2 Ácido nítrico d: 1.40.
+
+10.3.3 Ácido sulfúrico d: 1,13.
+
+10.3.4 Amoníaco d: 0,98.
+
+10.3.5 Solución saturada de oxalato amónico.
+
+10.3.6 Solución al 30 por 100 (p/v) de ácido cítrico.
+
+10.3.7 Solución al 5 por 100 (p/v) de cloruro de amonio.
+
+10.3.8 Solución al 0,04 por 100 (p/v) de verde de bromocresol.
+
+10.3.9 Solución de permanganato potásico: 0,1 N.
+
+10.4 *Procedimiento*.
+
+Pesar, con aproximación de 1 mg, 5 g de la muestra a analizar (o más si es necesario), calcinarla a 550 °C y transvasar las cenizas a un Erlenmeyer de 250 ml. Añadir 40 ml de ácido clorhídrico (10.3.1), 60 ml de agua y algunas gotas de ácido nítrico (10 3.2). Llevar a ebullición y mantenerlo así durante treinta minutos Enfriar, transvasar la solución a un matraz aforado de 250 ml, enjuagar el Erlenmeyer y completar el volumen con agua, homogeneizar y filtrar.
+
+Tomar con una pipeta según la cantidad presumible de calcio, una alícuota que contenga de 10 a 40 mg de calcio e introducirla en un Erlenmeyer de 250 ml. Añadir 1 ml de la solución de ácido cítrico (10.3.6) y 5 ml de solución de cloruro de amonio (10.3.7). Completar el volumen a 100 ml aproximadamente con agua. Llevar a ebullición, añadiendo de 8 a 10 gotas de solución de verde de bromocresol (10.3.8) y 30 ml de solución caliente de oxalato de amonio (10.3.5). Si aparece un precipitado, disolver éste mediante la adición de algunas gotas de ácido clorhídrico r10.3 1).
+
+Neutralizar en seguida muy lentamente con amoníaco (10.3.4), agitando constantemente, hasta obtener un pH 4,4-4,6 (viraje del indicador). Colocar el Erlenmeyer en un baño de agua hirviendo durante treinta minutos, dejando reposar el precipitado formado Retirarlo del baño, dejarlo reposar durante una hora y filtrar en un crisol filtrante Gμ. Lavar el Erlenmeyer y el crisol con agua hasta la total eliminación del exceso de oxalato de amonio (la ausencia de cloruros en el agua de lavado indica que el lavado es suficiente).
+
+Disolver el precipitado sobre el filtro con 50 ml de ácido sulfúrico caliente (10.3.3), enjuagar el crisol con agua caliente hasta llevar el filtrado a 10 ml aproximadamente. Calentar a 70-80 °C y valorar mediante la solución de permanganato potásico (10.3.9) hasta la obtención de una coloración rosa persistente durante un minuto.
+
+10.5 *Cálculo*.
+
+Un ml de permanganato potásico 0,1 N corresponde a 2,004 mg de calcio.
+
+Expresar el resultado obtenido en tanto por ciento de la muestra.
+
+10.6 *Observaciones*.
+
+10.6.1 Para pequeñas cantidades de calcio, proceder como en 10.5. Filtrar el precipitado de oxalato de calcio sobre un papel de filtro sin cenizas y calcinarlo en un crisol a 550 °C. Recuperar el residuo con algunas gotas de ácido sulfúrico (10.3.3), evaporar a sequedad, calcinar de nuevo a 550 °C y pesar.
+
+Si P representa el peso de sulfato cálcico obtenido, la cantidad en calcio de la alícuota tomada será igual a P x 0,2944.
+
+10.6.2 Si la muestra está constituida exclusivamente de materias minerales, proceder a la disolución por ácido clorhídrico sin incineración previa. Para los productos tales que los fosfatos alumínico-cálcicos difíciles de disolver en los ácidos, proceder a una fusión alcalina antes de la disolución. Mezclar íntimamente en un crisol de platino la parte tomada con cinco veces su peso de una mezcla compuesta en partes iguales de carbonato de potasio y de carbonato de sodio. Calentar con precaución hasta la fusión completa de la mezcla, refrigerar y disolver con ácido clorhídrico.
+
+10.6.3 Si la cantidad en magnesio de la muestra es elevada, proceder a una segunda precipitación con oxalato de calcio.
+
+10.7 *Referencias*.
+
+I Journal Officiel des Communautés Européennes. Número L 155/17.
+
+11\. GRASA
+
+(En productos lácteos reengrasados)
+
+11.1 *Principio*.
+
+Determinación de la grasa por el método Gerber.
+
+11.2 *Material y aparatos*.
+
+11.2.1 Butirómetros contrastados, con graduaciones de 0-6 % de grasa y con divisiones del 0,1 %. Se pueden utilizar butirómetros con graduaciones de 0 a 5 % y divisiones del 0,1 % cuando muestra tenga un contenido en grasa inferior al 5%.
+
+11.2.2 Tapones troncocónicos de goma u otro tipo, apropiados.
+
+11.2.3 Pipetas contrastadas de 1 y 10 ml.
+
+11.2.4 Vidrios de reloj.
+
+11.2.5 Baño de agua regulable a 65° ± 1°C.
+
+11.2.6 Centrífuga capaz de alcanzar 1.200 r.p.m.
+
+11.2.7 Embudo desprovisto de cuello y vástago para la introducción de la muestra en el butirómetro.
+
+11.3 *Reactivos*.
+
+11.3.1 Ácido sulfúrico de densidad d = 1,82.
+
+11.3.2 Alcohol isoamílico de densidad d = 0,815 e intervalo de destilación de 128° a 132 °C.
+
+11.4 *Procedimiento*.
+
+11.4.1 Pesar, con precisión de 0,1 mg, 1.100 g de producto e introducirlo en el butirómetro a través del embudo. Añadir, a través del embudo, 10 ml de agua tibia (40 °C), arrastrando lo que haya podido adherirse al mismo. Tapar y agitar fuertemente para disolver la leche.
+
+Seguidamente añadir 10 ml de ácido sulfúrico haciéndolo resbalar suavemente por las paredes del butirómetro. Añadir 1 ml de alcohol isoamílico. Cerrar el butirómetro con el tapón de goma, agitar suavemente y centrifugar a 1.200 r.p.m. durante tres a cinco minutos. Sacar el butirómetro de la centrífuga e introducir en el baño de agua a 65 °C. Dejar transcurrir algunos minutos y efectuar la lectura.
+
+11.5 *Expresión de los resultados*.
+
+Leer en el butirómetro, en la escala dividida, la altura que ha alcanzado la columna de grasa, habiéndose ajustado a cero el líquido que no contiene grasa. Los grados de la escala indican las decenas, y las décimas, las unidades por ciento. Se puede apreciar perfectamente un 0,5 por 100.
+
+11.6 *Observaciones*.
+
+11.6.1 En el caso de sueros desprovistos de caseína, pueden producir carbonizaciones que dificultan la lectura (debido a que el ácido sulfúrico, de densidad d = 1,82, resulta demasiado concentrado). En este caso se puede diluir al 10 por 100 (v/v) con agua destilada.
+
+11.6.2 En los productos con grasa muy micronizada conviene repetir por tres veces las centrifugaciones, el calentamiento a 65 °C y las lecturas, hasta obtener resultados constantes.
+
+11.7 Referencias.
+
+1\. Instituto de Racionalización y Normalización del Trabajo. Una Norma Española 64.029.
+
+12\. CENIZAS BRUTAS
+
+12.1 *Principio*.
+
+Incineración de la muestra a 550 °C y pesada del residuo hasta peso constante.
+
+12.2 *Material y aparatos*.
+
+12.2.1 Placa calefactora.
+
+12.2.2 Horno eléctrico con regulación de temperatura.
+
+12.2.3 Crisoles de platino o cuarzo, rectangulares (60 x 40 x 25 mm) o redondos.
+
+12.2.4 Nitrato de amonio.‒Solución al 20 por 100.
+
+12.3 *Procedimiento*.
+
+Pesar alrededor de 5 g de muestra, con una aproximación de 1 mg (para los productos que tengan tendencia a «esponjarse», pesar 2,5 g) en un crisol previamente calcinado y tarado. Colocar el crisol sobre la placa calefactora hasta carbonización de la muestra. Introducir el crisol en el horno regulado a 550 ± 5 °C. Mantener a esta temperatura hasta la obtención de cenizas blancas, gris claro o rojizas, aparentemente desprovistas de partículas carbonosas. Colocar el crisol en un desecador, dejar enfriar y pesar inmediatamente.
+
+12.4 *Cálculo*.
+
+El porcentaje de cenizas sobre materia natural se obtiene por la fórmula siguiente:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5DPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj56PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5zPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6M3B4O3BhZGRpbmctcmlnaHQ6MHB4OyI+cDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+dDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ajwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPihtPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+bjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+dDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+dTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bCk8L21pPgogICAgPG1vPj08L21vPgogICAgPG1mcmFjPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWZlbmNlZCBzZXBhcmF0b3JzPSJ8Ij4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5QPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtbj4xPC9tbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICAgICAgICAgICAgICA8bW8+KzwvbW8+CiAgICAgICAgICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlA8L21pPgogICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1uPjI8L21uPgogICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgPC9tc3ViPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21mZW5jZWQ+CiAgICAgICAgICAgIDxtbiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPjEwMDwvbW4+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+UDwvbWk+CiAgICAgICAgICAgIDxtbz4tPC9tbz4KICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+UDwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bW4+MjwvbW4+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,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)
+
+Siendo:
+
+P = peso, en g, de la cápsula con la muestra.
+
+P<sub>1</sub> = peso, en g, de la cápsula con las cenizas.
+
+P<sub>2</sub> = peso, en g, de la cápsula vacía.
+
+12.5 *Observaciones*.
+
+12.5.1 Las materias difíciles de incinerar deben someterse a una primera incineración de tres horas, se enfrían y se les adiciona algunas gotas de una solución al 20 por 100 de nitrato de amonio. Continuando la incineración después de la desecación en estufa.
+
+Repetir eventualmente la operación hasta incineración completa.
+
+12.5.2 Para las materias resistentes al tratamiento anterior, operar como sigue: Después de una incineración de tres horas, arrastrar las cenizas con agua caliente y filtrar sobre un pequeño filtro de cenizas conocidas. Incinerar el filtro y su contenido en el crisol inicial.
+
+Llevar el filtrado al crisol frío, evaporar a sequedad, incinerar y pesar.
+
+12.5.3 En el caso de aceites y grasas, pesar 25 g en un crisol de capacidad apropiada. Carbonizar inflamando la muestra por medio de una mecha de papel de filtro sin cenizas. Después de la combustión, humedecer con la mínima cantidad de agua posible. Desecar y continuar como se indica en 12.5.
+
+12.6 Referencias.
+
+1\. Journal Officiel des Communautés Européennes. Número L 155/20.
+
+> Se deroga en cuanto se oponga, y en particular los métodos coinidentes de análisis, por la disposición derogatoria de la Orden de 23 de mayo de 1989. [Ref. BOE-A-1989-12209](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-12209)
+
+## ANEJO VIII — Métodos de análisis de aguas
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria de la Orden de 1 de julio de 1987. [Ref. BOE-A-1987-15871](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-15871)
+
+## ANEJO IX — Métodos de análisis de productos derivados de la uva
+
+VINOS
+
+42\. INVESTIGACIÓN DE DERIVADOS MONOHALOGENADOS DEL ÁCIDO ACÉTICO
+
+42.1 *Principio*.
+
+Extracción de los derivados monohalogenados del ácido acético con éter sulfúrico previamente acidificado. Formación de tioíndigo, de color rojo, que se extrae con cloroformo.
+
+El método permite detectar de 1,5 a 2 mg/l de ácido monocloroacético y las cantidades correspondientes de otros derivados monohalogenados.
+
+42.2 *Material y aparatos*.
+
+42.2.1 Éter sulfúrico.
+
+42.2.2 Ácido sulfúrico (1 + 4) (v/v).
+
+42.2.3 Sulfato sódico anhidro desecado en estufa a 105 °C.
+
+42.2.4 Hidróxido sódico 0,5 N.
+
+42.2.5 Ácido tiosalicílico (2 mercaptobenzoico) al 3 por 100 (p/v) en NaOH 1,5 N.
+
+42.2.6 Ferricianuro potásico al 2 por 100 (preparar inmediatamente antes de usar).
+
+42.2.7 Cloroformo.
+
+42.2.8 Baño de agua.
+
+42.2.9 Estufa eléctrica.
+
+42.2.10 Embudos de separación.
+
+42.2.11 Cápsulas de porcelana 70-80 mm ∅.
+
+42.2.12 Tubos de 150 x 15 mm con tapón esmerilado.
+
+42.2.13 Tubos de 150 x 15 mm con llave inferior.
+
+42.3 *Procedimiento*.
+
+Introducir en un Erlenmeyer de 500 cc y boca esmerilada 100 ml de vino, 5 ml de ácido sulfúrico (1 + 5) y, agitando, 100 ml de éter sulfúrico, continuando en un agitador durante una hora. Separar en embudo de decantación y descartar la capa interior. Añadir 8-10 g de sulfato sódico anhidro al extracto éter, agitando vigorosamente. Verter el éter en otro embudo de 500 ml, agregando sucesivamente: 5,0, 2,5 y 2,5 ml de NaOH 0,5 N, agitando un minuto cada vez y reuniendo las tres capas inferiores alcalinas obtenidas en un tubo con tapón esmerilado, en el cual se habrá vertido previamente 1 ml de la solución de ácido tiosalicílico. Agitar enérgicamente durante treinta segundos y transferir el contenido del tubo a una cápsula de porcelana, evaporando durante una hora en baño de agua (90-100 ºC), tiempo que habrá de respetarse aun cuando el agua se evapore mucho antes.
+
+Si se formara una costra sobre la superficie, es conveniente romperla con una varilla fina de vidrio, lo que facilitará la evaporación. Pasado este tiempo, llevar la cápsula con el residuo seco a la estufa mantenida a 200 °C durante treinta minutos exactamente, pasados los cuales se retira y se deja enfriar a la temperatura ambiente. Añadir 2 ml de agua destilada que disolverá la mayor parte del extracto y recoger en un tubo con llave en su parte inferior; agregar otros 2 ml de agua destilada para lavar la cápsula y, por último, 3 ml de solución de ferricianuro, recogiendo todo ello con los primeros, agitando bien el tubo durante treinta segundos para facilitar la oxidación. Conviene asegurarse de que todo el residuo se disolvió bien en los 4 ml de agua destilada antes de añadir la solución de ferricianuro. En presencia de un derivado monohalogenado se desarrollará una coloración rojo-anaranjado (apenas perceptible para contenidos inferiores a 0,1 mg). Agregar 3 ml de cloroformo; agitar alternativamente tres-cuatro veces y decantar. Si el extracto clorofórmico inferior se colorea de rojo-fucsia o rosado, indica la presencia de derivados monohalogenados del ácido acético.
+
+42.4 *Referencias*.
+
+1\. Recueil des Méthodes Internationales d’Analyse des Vins. O.l.V.A 35h.
+
+2\. Cabezuco, Gorostiza y Garrido: Determinación de derivados monohalogenados del ácido acético. Instituto de Fermentaciones (1971, ATA, vol. II, núm. 1, páginas 145-151).
+
+43\. GRADO ALCOHÓLICO EN POTENCIA
+
+43.1 *Principio*.
+
+Es el volumen en litros de alcohol susceptible de obtenerse por fermentación total de los azúcares contenidos en 100 litros de vino.
+
+43.2 *Material y aparatos*.
+
+Como en 7(a).2 o 7(b).2.
+
+43.3 *Reactivos*.
+
+Como en 7(a).3 o 7(b).3.
+
+43.4 *Procedimiento*.
+
+Como en 7(a) o 7(b).
+
+43.5 *Cálculos*.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5HPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5kPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+JiN4RjM7PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5sPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+ZTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPnA8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm88L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnQ8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmU8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmM8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmk8L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgPG1vPj08L21vPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICA8bWZyYWM+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5OPC9taT4KICAgICAgICAgICAgPG1vPi08L21vPgogICAgICAgICAgICA8bW4+MTwvbW4+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1uPjE3PC9tbj4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUUAAAAmCAYAAABTY4kdAAAFDElEQVR4nO2dy5HjMAxEEcvE4UAciUPxddNQMMrFe/BijcIAYFMWZbnYr0qHkSkS4KdFglSNCCGEEEIImZqfTxtACCGWVUQe5oq4uzQPeV/Mrv/yWd/MhxBCduciL7GrROohT4F8l1VeQktRJIScklVes8ZM+BZ5CujeZRJCyOlY5bkk1hnjLUhDUSSETIOKk11KX10aiiIhZBqsOOkmiN9QoSgSQqbBi5PdcVYoioSQaYjEaZGnKC7mb4riCbnI71jHKEYcLI3s1853lF/kWL6hfTNxsjvSLVGMzjNW6btFUSvSXrojtMdZIZQ9D2y+gz1kOrJz2Xrf8lbUeIx/9ij7CdlCJk52R3rrmKjKhETxJrkI3YvfRqLlfvqTHBWc0aKibdDbAdS+6DiD/Z2iOJZP99NvpBInuyN9uCjqYFyKNDqwKIrj2CKKV2k3MEXxGLLP1UiMil7VL7MV0Ds0RdFOU1vicwfS7AlFseYiWEiDojgeDX8QDP/tcyVSd9lHFKPQYDgRRGaJlmxpfZXfu0aRMZXzN5euEkWb9p1vGRHbKlGxZ6syQUNttaJoQxZZ26D5Zvbfk/v2mT38auED5VFZ2k4/Ln0WMsjQwXh1+bTapErnB3gkjiN8bLVR1b7omJwSrZwtmyiLvDrEKq/BbAexb5RskC/ufjWD9WmlSFuB2laJik1/C9L12GoHoOaRla11b9G28PlGeayS707u7VfF4vKNXoS+n12LtK2yojpW23199vhYzRRH+Nhqo6p90X7vy/PCX12fXt29hVYc+jbyFVgF+aPBGA3mLF4ZdYgsxqDxCXTGi9qWpY1sViG/uzSordHy2ee5Jd9MWI/yKyOKh2oe/iUd1c2WsED2jBeVXh8zURzhI9JGrWeRfj+KPye9/tMSRSWbirc65kXiN6K3IWqUSBSr2YG+aVEQ20RiH/2bOqLXVlQUe/PtEcURfrXyiS7khbGnKKpQ2eNnPT5mojjCR6SNsmdF8H4/ik+LX1MU0ZjiVlG0afSKln2oKC7BPeS3rbbZNK3lY4890W+oKPbm2yOKI/yq8snKykILo0VR67nXx0wUR/iItFH2rP+t6vfTgu4+bxXFaEBnsbCszGimWAWqURDbRPKYXKsj9draO1OM6jzKt0cUR/iV0TNDOUoU9X6vj5Uo7u0jevg48xXt95apYooi2GxxiyjqM5aoAbIOWMUUo42h7H4Eapst0/pYHZ/RJVivragoVrG7NbjfI4oj/Mqoyrq6+0fFFH061MdMFEf4iLRR9mxPvz8bhwut3ZWLsEcZLFXH1I6ijacD3DeAna1GZfrG13yjjoKC2iZSv3GjWZntmD22oqIoEr+k9Hlk97m6v7dfFVlZozda7ItD69jn0+Ojf4HbNhjhI9JG2dIb7fdnQf3wNlYz1S2naVKyaXK0EbME6Sz++8VV8iMRPq12XJ35ZG92m7YH1DZ/Bi1b+leNgdjq6/Im7bgPEhfK7D/KL4RWWVHd+H6KDgI7A7TPR7MuEdzHi0vn++sIH6s8s/btGZNnYJX4/6rcJG4z9e/rl++EHMWW2SX5PD6Omp2Wucm5Z72EnA6K4neCbi7pzJcQAkJR/E4QUeTSmZBOohg4B9B3gIgil86EkGlARJFLZ0LINLREkUtnQshUtESRS2dCyFS0RHERLp0JIRNRiSKXzoSQ6ahEkUtnQsg0RMeo/KeW2WfIhBBCCCGEEEIIGcNfTdULftaFpiMAAAAASUVORK5CYII=)
+
+Donde:
+
+N = g/l de azúcares reductores de la muestra.
+
+44\. GRADO ALCOHÓLICO TOTAL
+
+44.1 *Principio*.
+
+Se considera el grado alcohólico total como la suma del grado alcohólico adquirido determinado según 5(a) o 5(b), y del grado alcohólico potencial, determinado según 43.
+
+44.2 *Cálculo*.
+
+Grado alcohólico total = Grado alcohólico adquirido + Grado alcohólico potencial.
+
+7(c). AZÚCARES REDUCTORES
+
+(Valoración)
+
+7(c).1 *Principio*.
+
+Eliminación de las materias reductoras distintas de los azúcares reductores por defecación, y posterior valoración basada en la acción reductora de los azúcares sobre una solución cupro-alcalina.
+
+7(c).2 *Material y aparatos*.
+
+7(c).2.1 Erlenmeyer de 300 ml con refrigerante de reflujo.
+
+7(c).2.2 Material necesario para volumetría.
+
+7(c).2.3 Baño de agua.
+
+7(c).3 *Reactivos*.
+
+7(c).3.1 Solución cupro-alcalina:
+
+Disolver por separado: 25 g de sulfato de cobre puro (SO<sub>4</sub>Cu • 5H<sub>2</sub>O) en 100 ml de agua: 50 g de ácido cítrico en 300 ml de agua y 388 g de carbonato de sodio cristalizado en 300-400 ml de agua caliente. Mezclar la solución de ácido cítrico y la de carbonato de sodio. Añadir a continuación la solución de sulfato de cobre y completar el volumen con agua hasta un litro.
+
+7(c).3.2 Solución de ioduro de potasio al 30 por 100. Conservar en frasco topacio.
+
+7(c).3.3 Solución de ácido sulfúrico al 25 por 100 en volumen.
+
+7(c).3.4 Solución de engrudo de almidón de 5 g/l; contendrá 200 g/l de cloruro de sodio para asegurar su conservación. Esta solución debe de ser mantenida diez minutos en ebullición en el momento de su preparación.
+
+7(c).3.5 Tiosulfato de sodio N/10.
+
+7(c).4 *Procedimiento*.
+
+Poner en el Erlenmeyer de 300 ml, 25 ml de la solución cuproalcalina y 25 ml del vino previamente defecado según 7(a) o 7(b). Este volumen añadido no debe contener más de 60 mg de azúcares reductores.
+
+Añadir algunos granos de piedra pómez y llevar a ebullición, que debe de ser alcanzada en dos minutos, adaptando el Erlenmeyer al refrigerante de reflujo y mantener exactamente durante diez minutos la ebullición.
+
+Enfriar inmediatamente bajo corriente de agua fría. Añadir 10 ml de la solución de ioduro de potasio al 30 por 100, 25 ml de la solución de ácido sulfúrico al 25 por 100 y 2 ml de engrudo de almidón. A continuación, valorar con la solución 0,1 N de tiosulfato de sodio.
+
+Efectuar una prueba en blanco, sustituyendo los 25 ml del vino previamente defecados por igual volumen de agua destilada y tratar como se ha indicado antes para la muestra.
+
+7(c).5 *Cálculos*.
+
+La cantidad de azúcar, expresada en azúcar invertido contenida en la muestra analizada, se obtiene en la tabla 7(c).1 en función del n' ‒ n de ml de tiosulfato utilizado.
+
+Siendo:
+
+n = Volumen, en ml, de solución de tiosulfato de sodio 0,1 N utilizado en la valoración de la muestra.
+
+n' = Volumen, en ml, de solución de tiosulfato de sodio 0,1 N utilizado en la prueba en blanco.
+
+Expresar el contenido del vino en g de azúcar invertido por litro, teniendo en cuenta las diluciones efectuadas en el curso de la defecación del volumen de la muestra analizada.
+
+7(c).6 *Referencias*.
+
+1\. Recueil des Méthodes Internationales d’Analyse des Vins. O.I.V. A 4e 29-31.
+
+TABLA 7(c).1
+
+Azúcares reductores, expresados en mg
+
+<table>
+<thead>
+<tr>
+<th rowspan="2">MI N/10 de tiosulfato de sodio</th>
+<th colspan="10">Primera cifra decimal</th>
+</tr>
+<tr>
+<th>0</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>0,0</td>
+<td>0,3</td>
+<td>0,6</td>
+<td>1,0</td>
+<td>1,3</td>
+<td>1,6</td>
+<td>1,9</td>
+<td>2,2</td>
+<td>2,6</td>
+<td>2,9</td>
+</tr>
+<tr>
+<td>1</td>
+<td>3,2</td>
+<td>3,5</td>
+<td>3,8</td>
+<td>4,2</td>
+<td>4,5</td>
+<td>4,8</td>
+<td>5,1</td>
+<td>5,4</td>
+<td>5,7</td>
+<td>6,1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>6,4</td>
+<td>6,7</td>
+<td>7,1</td>
+<td>7,4</td>
+<td>7,7</td>
+<td>8,1</td>
+<td>8,4</td>
+<td>8,7</td>
+<td>9,0</td>
+<td>9,4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>9,7</td>
+<td>10,0</td>
+<td>10,4</td>
+<td>10,7</td>
+<td>11,0</td>
+<td>11,4</td>
+<td>11,7</td>
+<td>12,0</td>
+<td>12,3</td>
+<td>12,7</td>
+</tr>
+<tr>
+<td>4</td>
+<td>13,0</td>
+<td>13,3</td>
+<td>13,7</td>
+<td>14,0</td>
+<td>14,4</td>
+<td>14,7</td>
+<td>15,0</td>
+<td>15,4</td>
+<td>15,7</td>
+<td>16,1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>16,4</td>
+<td>16,7</td>
+<td>17,1</td>
+<td>17,4</td>
+<td>17,8</td>
+<td>18,1</td>
+<td>18,4</td>
+<td>18,8</td>
+<td>19,1</td>
+<td>19,5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>19,8</td>
+<td>20,1</td>
+<td>20,5</td>
+<td>20,8</td>
+<td>21,2</td>
+<td>21,5</td>
+<td>21,8</td>
+<td>22,2</td>
+<td>22,5</td>
+<td>22,9</td>
+</tr>
+<tr>
+<td>7</td>
+<td>23,2</td>
+<td>23,5</td>
+<td>23,9</td>
+<td>24,2</td>
+<td>24,6</td>
+<td>24,9</td>
+<td>25,2</td>
+<td>25.6</td>
+<td>25,9</td>
+<td>26,3</td>
+</tr>
+<tr>
+<td>8</td>
+<td>26,6</td>
+<td>26,9</td>
+<td>27,3</td>
+<td>27,6</td>
+<td>28,0</td>
+<td>28,3</td>
+<td>28,6</td>
+<td>29,0</td>
+<td>29,3</td>
+<td>29,7</td>
+</tr>
+<tr>
+<td>9</td>
+<td>30,0</td>
+<td>30,3</td>
+<td>30,7</td>
+<td>31,0</td>
+<td>31,3</td>
+<td>31,7</td>
+<td>32,0</td>
+<td>32,4</td>
+<td>32,7</td>
+<td>33,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>33,4</td>
+<td>33,7</td>
+<td>34,1</td>
+<td>34,4</td>
+<td>34,8</td>
+<td>35,1</td>
+<td>35,4</td>
+<td>35,8</td>
+<td>36,1</td>
+<td>36,5</td>
+</tr>
+<tr>
+<td>11</td>
+<td>36,8</td>
+<td>37,2</td>
+<td>37,5</td>
+<td>37,8</td>
+<td>39,2</td>
+<td>38,6</td>
+<td>38,9</td>
+<td>39,3</td>
+<td>39,6</td>
+<td>40,0</td>
+</tr>
+<tr>
+<td>12</td>
+<td>40,3</td>
+<td>40,7</td>
+<td>41,0</td>
+<td>41,4</td>
+<td>41,7</td>
+<td>42,1</td>
+<td>42,4</td>
+<td>42,8</td>
+<td>43,1</td>
+<td>43,5</td>
+</tr>
+<tr>
+<td>13</td>
+<td>43,8</td>
+<td>44,2</td>
+<td>44,5</td>
+<td>44,9</td>
+<td>45,2</td>
+<td>45,6</td>
+<td>45,9</td>
+<td>46,3</td>
+<td>46,6</td>
+<td>47,0</td>
+</tr>
+<tr>
+<td>14</td>
+<td>47,3</td>
+<td>47,7</td>
+<td>48,0</td>
+<td>48,4</td>
+<td>48.7</td>
+<td>49,1</td>
+<td>49,4</td>
+<td>49,8</td>
+<td>50,1</td>
+<td>50,5</td>
+</tr>
+<tr>
+<td>15</td>
+<td>50,8</td>
+<td>51,2</td>
+<td>51,5</td>
+<td>51,9</td>
+<td>52,2</td>
+<td>52,6</td>
+<td>52,9</td>
+<td>53,3</td>
+<td>53,6</td>
+<td>54,0</td>
+</tr>
+<tr>
+<td>16</td>
+<td>54,3</td>
+<td>54,7</td>
+<td>55,0</td>
+<td>55,4</td>
+<td>55,8</td>
+<td>56,2</td>
+<td>56,5</td>
+<td>56,9</td>
+<td>57,3</td>
+<td>57,6</td>
+</tr>
+<tr>
+<td>17</td>
+<td>58,0</td>
+<td>58,4</td>
+<td>58,8</td>
+<td>59,1</td>
+<td>59,5</td>
+<td>59,9</td>
+<td>60,3</td>
+<td>60,7</td>
+<td>61,0</td>
+<td>61,4</td>
+</tr>
+<tr>
+<td>18</td>
+<td>61,8</td>
+<td>62,2</td>
+<td>62,5</td>
+<td>62,9</td>
+<td>63,3</td>
+<td>63.7</td>
+<td>64,0</td>
+<td>64,4</td>
+<td>64,8</td>
+<td>65,1</td>
+</tr>
+<tr>
+<td>19</td>
+<td>65,5</td>
+<td>65,9</td>
+<td>66,3</td>
+<td>66,7</td>
+<td>67,1</td>
+<td>67.5</td>
+<td>67,8</td>
+<td>68,2</td>
+<td>68,6</td>
+<td>69,0</td>
+</tr>
+<tr>
+<td>20</td>
+<td>69,4</td>
+<td>69,8</td>
+<td>70,2</td>
+<td>70,6</td>
+<td>71,0</td>
+<td>71,4</td>
+<td>71,7</td>
+<td>72,1</td>
+<td>72,5</td>
+<td>72,9</td>
+</tr>
+<tr>
+<td>21</td>
+<td>73,3</td>
+<td>73,7</td>
+<td>74,1</td>
+<td>74,5</td>
+<td>74,9</td>
+<td>75,3</td>
+<td>75,6</td>
+<td>76,0</td>
+<td>76.4</td>
+<td>76,8</td>
+</tr>
+<tr>
+<td>22</td>
+<td>77,2</td>
+<td>77,6</td>
+<td>78,0</td>
+<td>78,4</td>
+<td>78,8</td>
+<td>79,2</td>
+<td>79,6</td>
+<td>80.0</td>
+<td>80,4</td>
+<td>80,8</td>
+</tr>
+<tr>
+<td>23</td>
+<td>81,2</td>
+<td>81,6</td>
+<td>82,0</td>
+<td>82,4</td>
+<td>82,8</td>
+<td>83,2</td>
+<td>83,6</td>
+<td>84,0</td>
+<td>84,4</td>
+<td>84,8</td>
+</tr>
+<tr>
+<td>24</td>
+<td>85,2</td>
+<td>85,6</td>
+<td>86,0</td>
+<td>86,4</td>
+<td>86,8</td>
+<td>87,2</td>
+<td>87,6</td>
+<td>88,0</td>
+<td>88,4</td>
+<td>88,8</td>
+</tr>
+<tr>
+<td>25</td>
+<td>89,2</td>
+<td>89,6</td>
+<td>90,0</td>
+<td>90,4</td>
+<td>90,8</td>
+<td>91,2</td>
+<td>91,6</td>
+<td>92,0</td>
+<td>92,4</td>
+<td>92,8</td>
+</tr>
+</tbody>
+</table>
+
+30\. CLORUROS
+
+30.1 *Principio*.
+
+Determinación directa de cloruros por potenciometría utilizando el electrodo Ag/AgCl.
+
+30.2 *Material y aparatos*.
+
+30.2.1 pH-metro con escala que permita apreciar 2 mV.
+
+30.2.2 Agitador magnético.
+
+30.2.3 Electrodo Ag/AgCl, con una solución saturada de nitrato de potasio como electrólito.
+
+30.2.4 Microbureta graduada en 1/100 de ml.
+
+30.3 *Reactivos*.
+
+30.3.1 Solución patrón de cloruros.‒Disolver 2,1027 g de cloruro de potasio puro para análisis (máximo 0,005 por 100 de bromo previamente desecado, en agua destilada hasta 1 litro. 1 ml de esta solución contiene 1 mg de ion cloro.
+
+30.3.2 Solución de nitrato de plata.‒Disolver 4,7912 g de nitrato de plata en una solución alcohólica al 10 por 100 (v/v) hasta 1 litro, 1 ml de esta solución corresponde a 1 mg de ion cloro.
+
+30.3.3 Ácido nítrico concentrado (d = 1,40).
+
+30.4 *Procedimiento*.
+
+30.4.1 Determinación del potencial del punto de equivalencia.
+
+Introducir 5,0 ml de la solución patrón de cloruros en un vaso de 150 ml. Diluir aproximadamente a 100 ml con agua destilada y acidificar con 10 ml de ácido nítrico (30.3.3). Introducir los electrodos. Añadir 10 ml de la solución de nitrato de plata, agitando moderadamente: adicionar los cuatro primeros mililitros en fracciones de 1 ml y leer las correspondientes lecturas en milivoltios; los dos siguientes mililitros, en fracciones de 0,2 ml y continuar adicionando en fracciones de 1 mililitro hasta que se hayan alcanzado un total de 10 ml. Después de cada adición esperar unos treinta segundos antes de hacer la correspondiente lectura en milivoltios. Llevar los valores así obtenidos sobre un papel milimetrado en función de los correspondientes mililitros de solución de nitrato de plata y a partir del punto singular de la curva obtenida determinar el potencial del punto de equivalencia.
+
+Para comprobar el potencial del punto de equivalencia, llevar a un vaso de 150 ml 5,0 ml de la solución patrón de cloruros, 95 ml de agua destilada y 1 ml de ácido nítrico concentrado. Introducir el electrodo y valorar agitando, justamente hasta el potencial del punto de equivalencia.
+
+Repetir esta operación hasta obtener una buena concordancia de resultados. Este control debe efectuarse antes de determinar la concentración de cloruros en cada serie de muestras a analizar.
+
+30.4.2 Determinación.
+
+Llevar a un vaso de 150 ml 50,0 ml de vino. Añadir 50 ml de agua destilada y 1,0 ml de ácido nítrico concentrado. Valorar a continuación siguiendo el procedimiento descrito anteriormente hasta alcanzar el potencial del punto de equivalencia.
+
+30.5 *Cálculos*.
+
+La cantidad de cloruros se determina mediante las expresiones:
+
+0,02 n en gramos de ion cloro.
+
+0,5633 n en miliequivalentes por litro de ion cloro.
+
+0,0329 n en gramos de cloruro sódico por litro.
+
+Siendo:
+
+n = volumen, en ml, de solución de nitrato de plata necesario para alcanzar el potencial del punto de equivalencia.
+
+30.6 *Referencia*.
+
+1\. Recueil des Méthodes Internationales d’Analyse des Vins. O. I. V. A 15j.
+
+45\. COLORANTES SINTÉTICOS
+
+45.1 *Principio*.
+
+Concentración mediante ebullición, extracción con éter y fijación de colorantes sintéticos básicos y ácidos sobre lana y posterior confirmación por cromatografía en papel.
+
+45.2 *Material y aparatos*.
+
+45.2.1 Hebras de lana blanca previamente desengrasadas con éter.
+
+45.2.2 Hebras de lana blanca mordentadas. Disolver 1 g de sulfato de aluminio cristalizado y 1,2 g de tartrato ácido de potasio en 500 ml de agua. Introducir en esta solución 10 g de hebras de lana blanca, previamente desengrasadas con éter y secas, agitar durante una hora y dejar reposar de dos a tres horas; transcurrido dicho tiempo, secar a temperatura ambiente.
+
+45.2.3 Papel para cromatografía Whatman número 1 o similar.
+
+45.2.4 Erlenmeyer de 50 ml de capacidad.
+
+45.2.5 Ampolla de decantación de 200 ml de capacidad.
+
+45.3 *Reactivos*.
+
+45.3.1 Éter sulfúrico.
+
+45.3.2 Hidróxido de sodio al 5 por 100.
+
+45.3.3 Ácido acético glacial, d = 1,05.
+
+45.3.4 Ácido acético diluido, 1/18 (v/v).
+
+45.3.5 Ácido clorhídrico diluido 1/10 (v/v).
+
+45.3.6 Amoníaco puro, d = 0,92.
+
+45.3.7 Solvente número 1 para cromatografía de colorantes de carácter básico:
+
+Butanol n: 50 ml.
+
+Etanol: 25 ml.
+
+Ácido acético glacial: 10 ml.
+
+Agua destilada: 25 ml.
+
+45.3.8 Solvente número 2 para la cromatografía de colorantes de carácter ácido:
+
+Butanol n: 50 ml.
+
+Etanol: 25 ml.
+
+Amoníaco puro: 10 ml
+
+Agua destilada: 25 ml.
+
+45.4 *Procedimiento*.
+
+45.4.1 Determinación de colorantes de carácter básico.
+
+Poner 200 ml de vino en un Erlenmeyer de 500 ml y llevar a ebullición hasta que el vino se reduzca a un tercio de su volumen. Enfriar y neutralizar con la solución de hidróxido sódico al 5 por 100 hasta claro viraje del color natural del vino. Extraer dos veces, con 30 ml de éter cada vez, y juntar las dos fases etéreas; en ellas se encuentran eventualmente los colorantes básicos; el residuo de la extracción debe ser conservado con objeto de investigar los colorantes ácidos. Lavar dos veces el éter empleado en la extracción con 5 ml de agua, con el objeto de eliminar el hidróxido sódico; a continuación, añadir 5 ml de ácido acético diluido a la fase etérea; la presencia de un colorante básico colorea la fase ácido-acuosa; la presencia de este colorante puede confirmarse por su fijación sobre lana mordentada.
+
+La fase ácido-acuosa obtenida se alcaliniza con amoníaco al 5 por 100; añadir 0,5 g de lana mordentada y llevar a ebullición durante un minuto; aclarar la lana bajo el chorro de agua fría; de permanecer coloreada, el vino contiene un colorante básico.
+
+45.4.1.1 Caracterización por cromatografía de papel. A partir de la fase acético-acuosa que contiene el colorante básico, concentrar hasta 0,5 ml. Si el colorante ha sido fijado sobre lana, añadir a ésta 10 ml de agua destilada, 10 gotas de ácido acético y llevar a ebullición, y una vez retirada la lana previamente escurrida, concentrar la solución hasta 0,5 ml.
+
+Depositar sobre papel de cromatografía 20 microlitros de la anterior solución concentrada a 3 cm del borde lateral y a 2 cm del borde inferior. Introducir dicho papel en una cubeta que contenga el solvente 45.3.7 de forma que su borde inferior esté sumergido en el solvente 1 cm. Retirar y dejar secar al aire cuando se haya alcanzado una altura del frente del solvente comprendido entre 20 o 25 cm. Identificar el colorante por medio de soluciones de colorantes sintéticos básicos depositados simultáneamente sobre el cromatograma.
+
+45.4.2 Determinación de colorantes de carácter ácido.
+
+Partir del residuo de vino concentrado a un tercio y neutralizado después de su extracción con éter; si no se realizó la determinación de colorante de carácter básico, poner 200 ml de vino en un Erlenmeyer de 500 ml y llevar a ebullición hasta que el vino se reduzca a un tercio de su volumen. En uno u otro caso, añadir 3 ml de ácido clorhídrico diluido (45.3.5) y 0,5 g de lana blanca; hervir durante cinco minutos, decantar el líquido y lavar la lana con agua abundante. En el Erlenmeyer que contiene la lana, añadir 100 ml de agua y 2 ml de ácido clorhídrico diluido (45.3.5); hervir durante cinco minutos, decantar el líquido ácido y repetir esta operación hasta que el líquido de lavado sea incoloro. Después de haber lavado bien la lana, para eliminar completamente el líquido ácido, añadir 50 ml de agua destilada y 10 gotas de amoníaco puro; llevar a ebullición suave durante diez minutos a fin de disolver la materia colorante artificial que eventualmente se haya fijado sobre la lana. A continuación, retirar la lana del Erlenmeyer, llevar el volumen de líquido a 100 ml y hervir hasta evaporación completa del amoníaco; una vez conseguida dicha evaporación, añadir 2 ml de ácido clorhídrico diluido (45.3.5) (comprobar que el líquido haya adquirido reacción francamente ácida, llevando una gota de éste sobre el papel indicador). Poner en el Erlenmeyer 60 mg de lana blanca y llevar a ebullición durante cinco minutos; retirar la lana y aclararla bajo el chorro de agua fría. Si después de esta operación la lana toma coloración roja, cuando se trata de vino tinto, o amarilla, si se trata de vino blanco, confirma la presencia de materia colorante orgánica artificial de naturaleza ácida. Si la coloración adquirida es débil o dudosa, repetir el tratamiento con amoníaco y hacer una segunda fijación sobre una hebra de lana de 30 mg. Si transcurrida esta segunda fijación se obtiene una coloración rosa, aunque sea débil, se deduce la presencia de colorante ácido. Recurrir para un análisis más completo a nuevas fijaciones-eluciones (hasta 4 o 5), operando siempre de forma idéntica a la empleada para la segunda fijación hasta que se obtenga una coloración rosácea que, aunque sea pálida, no ofrece lugar a dudas.
+
+45.4.2.1 Caracterización por cromatografía de papel.
+
+Añadir sobre la hebra de lana coloreada 10 ml de agua destilada, lo gotas de amoníaco y llevar a ebullición; retirar la lana previamente escurrida y concentrar la solución amoniacal hasta 0,5 ml. Depositar sobre papel de cromatografía 20 microlitros de la anterior solución concentrada, a 3 cm del borde lateral y a 2 cm del borde inferior; introducir dicho papel en una cubeta que contenga el solvente 45.3.8 de forma que su borde inferior esté sumergido en el solvente l cm. Retirar y dejar secar al aire cuando se haya alcanzado una altura del frente del solvente comprendida entre 20 o 25 cm. Identificar el colorante por medio de soluciones de colorantes sintéticos ácidos depositados simultáneamente sobre el cromatograma.
+
+45.5 *Referencia*.
+
+Recueil des méthodes internationales d’Analyse des vins. A43k, páginas 1-6.
+
+46\. MERCURIO
+
+46.1 *Principio*.
+
+Oxidación de la materia orgánica con ácido nítrico y crómico, reducción de las sales mercúricas por acción de Sn<sup>++</sup>, volatilización del Hg metálico, arrastre del mismo por corriente de aire y determinación de su absorbancia a 253,7 nanómetros.
+
+Este método es aplicable a concentraciones de mercurio superiores a 0,05 mg/l.
+
+46.2 *Material y aparatos*.
+
+46.2.1 Espectrofotómetro de absorción.
+
+46.2.2 Lámpara de mercurio.
+
+46.2.3 Aparato para la reducción del ion mercúrico a mercurio metal y posterior arrastre de éste con corriente de aire (figura 46.1).
+
+46.2.4 Matraces de reacción de forma cónica de 100 ml de capacidad.
+
+46.2.5 Bomba peristáltica accionada con motor provisto de vaciador de velocidad.
+
+46.2.6 Llave de purga en T de teflón.
+
+46.2.7 Tubo flexible de tigón de 1/8 pulgada de diámetro interior y un metro, aproximadamente, de longitud.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1979/207/21118_5402560_image21.png)
+
+46.3 *Reactivos*.
+
+46.3.1 Ácido sulfúrico, exento de mercurio.
+
+46.3.2 Oxido de mercurio.
+
+46.3.3 Cloruro estannoso, exento de mercurio.
+
+46.3.4 Oxido de cromo, exento de mercurio.
+
+46.3.5 Solución de ácido crómico al 5 por 100.‒Llevar a un vaso de 500 ml 25 g de óxido de cromo y disolverlos en 25 ml de agua destilada. Añadir lentamente y agitando ácido sulfúrico concentrado hasta enrasar a 500 ml cuando la solución esté fría.
+
+46.3.6 Solución reductora.‒Solución al 40 por 100 de cloruro estannoso en agua destilada, acidulada con sulfúrico.
+
+46.3.7 Solución patrón.‒Disolver 1,080 g de óxido de mercurio en 100 ml de ácido clorhídrico al 50 por 100; enrasar con agua a 1.000 ml. Mediante dilución 1/1.000 se obtiene la solución de 1 mg/l.
+
+46.4 *Procedimiento*.
+
+46.4.1 Preparación de la muestra.
+
+Tomar 1 ml de muestra y colocarla dentro de un matraz cónico. Añadir 2 ml de ácido nítrico. Cerrar con película de parafina y dejarlo en digestión durante sesenta minutos a temperatura ambiente. Añadir 5 ml de ácido crómico al 5 por 100, refrigerando durante la adición en baño de hielo. Tapar el matraz y dejarlo durante sesenta minutos, agitando cada diez minutos. Transcurrido este tiempo, añadir 15 ml de agua destilada, enfriando durante la adición con baño de hielo. Una vez fríos los matraces, añadir 2 g, aproximadamente, de sulfato de hidroxilamina, agitar y acoplar los matraces al aparato de medida. Añadir 10 ml de solución reductora. Continuar como en 46.4.3.
+
+46.4.2 Construcción de la curva patrón.
+
+A partir de 46.3.7, tomar 0,5, 10, 15, 20 y 25 ml. Tratarlas a continuación como se indica en 46.4.1. Estas soluciones contienen 0, 0,1, 0,2, 0,3, 0,4 y 0,5 partes por millón de Hg. Anotar las absorbancias obtenidas frente a las concentraciones correspondientes.
+
+46.4.3 Determinación.
+
+Efectuar la lectura de la absorbancia de la muestra. Una vez preparada según 46.4.1.
+
+46.5 *Referencias*.
+
+1\. A. Bouchard: «Determination of mercury after soon temperature digestión by flamaless atomic absorption.» Atom. Absorpt. Newsletter, vol. 12, número 5 (115-117), 1973.
+
+2\. A. García de Jalón y J. Frías: «Un método para la determinación de mercurio en vinos mediante espectrofotometría de absorción atómica sin llama.» Ministerio de Agricultura. Abril 1972.
+
+47\. PLOMO
+
+47.1 *Principio*.
+
+Determinación del plomo por A. A. después de una concentración previa con objeto de conseguir resultados suficientemente precisos.
+
+47.2 *Material y aparatos*.
+
+47.2.1 Espectrofotómetro de absorción atómica.
+
+47.2.2 Lámpara de plomo.
+
+47.2.3 Cápsula de platino de 100 ml de capacidad o similar.
+
+47.2.4 Baño de arena.
+
+47.2.5 Mufla con circulación de aire.
+
+47.2.6 Matraces de 10, 100 y 1.000 ml de capacidad.
+
+47.3 *Reactivos*.
+
+47.3.1 Ácido sulfúrico del 96 por 100 (d = 1,835).
+
+47.3.2 Ácido nítrico del 70 por 100 (d = 1,413).
+
+47.3.3 Ácido nítrico al 1 por 100 en agua destilada (v/v).
+
+47.3.4 Solución patrón de 1.000 ppm de plomo. Disolver 1,598 gramos de (NO<sub>3</sub>)<sub>2</sub>Pb enrasando a 1.000 ml con ácido nítrico al 1 por 100.
+
+47.4 *Procedimiento*.
+
+47.4.1 Preparación de la muestra.‒Poner 100 ml de la muestra en una cápsula de platino y llevarla a evaporación hasta consistencia siruposa en baño de arena. Añadir a continuación 2 ml de ácido sulfúrico y carbonizar el residuo en el baño de arena. Seguidamente introducir la cápsula en la mufla y mantenerla durante dos horas a 450 °C; transcurrido dicho tiempo, sacarla y dejarla enfriar. Añadir 1 ml de ácido nítrico concentrado, evaporar en el baño de arena e introducir en la mufla, repitiendo esta operación hasta obtener cenizas blancas. Disolver a continuación las cenizas con 1 ml de ácido nítrico concentrado y 2 ml de agua destilada, una vez disueltas filtrar y recoger el filtrado en un matraz de 10 ml, lavando la cápsula y el filtro con agua destilada hasta el enrase.
+
+47.4.2 Construcción de la curva patrón.‒A partir de la solución patrón 46.3.4, tomar alícuotas de 0,2; 0,4; 0,6; 0,8, y 1 ml, y llevar a 100 ml con ácido nítrico al 1 por 100 (v/v).
+
+El contenido en plomo de estas soluciones es, respectivamente, 2, 4, 6, 8 y 10 p.p.m. Anotar las absorbancias obtenidas frente a las concentraciones correspondientes.
+
+47.4.3 Determinación.‒Efectuar la lectura directa de la muestra preparada según 47.4.1 a 283,3 nm.
+
+47.5 *Cálculos*.
+
+Calcular el contenido en plomo, expresado en p.p.m. mediante comparación con la correspondiente curva patrón y teniendo en cuenta e1 factor de dilución.
+
+39(b). FLÚOR
+
+39(b).1 *Principio*.
+
+Determinación directa del flúor total por potenciometría utilizando un electrodo iónico específico.
+
+Para eliminar las posibles causas de error se le adiciona al vino una solución tampón.
+
+39(b).2 *Material y aparatos*.
+
+39(b).2.1 pH-metro con escala que permita apreciar 0,1 mV.
+
+39(b).2.2 Electrodo selectivo de flúor.
+
+39(b).2.3 Electrodo de referencia de calomelanos.
+
+39(b).2.4 Microbureta graduada en 1/100 de ml.
+
+39(b).2.5 Recipientes de plástico de 50-100 ml de capacidad para mezclas y matraces en material de plástico para conservar las soluciones patrón.
+
+39(b).2.6 Pipetas de precisión graduadas en microlitros.
+
+39(b).2.7 Agitador magnético.
+
+39(b).3 *Reactivos*.
+
+39(b).3.1 Solución patrón de fluoruros 10<sup>‒2</sup> M conteniendo 190 mg de F<sup>‒</sup>por litro. Pesar 0,4198 g de FNa (desecado durante cuatro horas a 106 °C antes de su utilización), disolver y enrasar a un volumen de 1.000 mL
+
+39(b).3.2 Solución tampón de PO<sub>4</sub>H<sub>3</sub> 0,75 M.
+
+39(b).4 *Procedimiento*.
+
+39(b).4.1 Verificación del electrodo y determinación de su pendiente.
+
+A partir de la solución 3.1 preparar, mediante diluciones, soluciones de concentraciones conocidas de 10<sup>‒3</sup> M, 10<sup>‒4</sup> M y 10<sup>‒5</sup> M, que contienen, respectivamente, 19, 1,9 y 0,19 mg de F<sup>‒</sup>, por litro.
+
+Tomar dos vasos de precipitados; en uno de ellos colocar 25 ml de la disolución 10<sup>‒</sup><sup>3</sup> M de F<sup>‒</sup>, adicionar 5 ml de solución tampón de PO<sub>4</sub>H<sub>3</sub> y determinar su potencial agitando de forma moderada mientras dure la medida. En el otro vaso, poner 25 ml de disolución 10<sup>‒4</sup> M de F<sup>‒</sup>, 5 ml de solución tampón de PO<sub>4</sub>H<sub>3</sub> y determinar su potencial, agitando como anteriormente. La diferencia entre los dos potenciales es la pendiente del electrodo (S) y cuyo valor debe ser, aproximadamente, 59 mV.
+
+39(b).4.2 Determinación.
+
+Tomar 25 ml de vino, adicionar 5 ml de la solución tampón y determinar su potencial (E<sub>1</sub>). A continuación, y en el mismo vaso, adicionar un ml de disolución 10<sup>‒3</sup> M de F<sup>‒</sup> y determinar su potencial (E<sub>2</sub>).
+
+Si el salto de potencial es pequeño, indica que la concentración de F<sup>‒</sup> es muy alta y hay que diluir la muestra hasta que el salto alcanzado esté comprendido alrededor de 20-40 mV.
+
+Los volúmenes de muestra y solución tampón pueden ser modificados en función de la forma y disposición de los electrodos utilizados.
+
+39(b).5 *Cálculos*.
+
+La cantidad de flúor, expresada en mg/l, nos viene determinada por la fórmula:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+QzwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5GPC9taT4KICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8bW8+JiN4MjIxMjs8L21vPgogICAgICAgIDwvbXJvdz4KICAgIDwvbXN1Yj4KICAgIDxtbz49PC9tbz4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPlY8L21pPgogICAgICAgICAgICA8bW8+JiN4MjJDNTs8L21vPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo0cHg7Ij5DPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtbj4yNTwvbW4+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij5bKGE8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj50PC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmk8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bDwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmc8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgICAgICAgICAgPG1mcmFjPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1vPiYjeDM5NDs8L21vPgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5FPC9taT4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5TPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tZnJhYz4KICAgICAgICAgICAgPG1vIHN0eWxlPSJwYWRkaW5nLWxlZnQ6LTRweDsiPikgJiN4MjIxMjs8L21vPgogICAgICAgICAgICA8bW4+MV08L21uPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAO4AAAA3CAYAAAAL33bFAAAFHElEQVR4nO2d23WrMBBFpxbXQSGuhFL8mzYohl58P5Jzo4xn9MCDkOHstfgItsEBHc0TWYQQQsjHsIrIU2139Z67en3p8B3mn9ceweci5DQ85Fssa+F9qaAimOVXqDf12pK8RghxgEgm5/WblIXdAqx47pgQNiHEASLx3OBZYq1taaIA0W45IacjJybLnd1KaZJIuQeel5BTAkHphNDd2PcOiKmZeCIkCCtZtErZpUXMWiNGJJ4oXEKC0NZwkjqXtjYzLULhEhLOTf5a3UVe67rv0hLjkkZYFL8uqfWMLAEBPTmQAFgUJ6mwIktAKZgcSlZ3lniLfzpYFCcAwtrTIuIc3nhaZb+J41SwKE7ATfqFRFZYRje6EhbFCflARi+Kp25VzcaJhVyCK9XWvrhxO8EmItuF68Unz8bj9OToC86NW8QmIu8VxRd5FTyzgYR04J2iuCVcHDMKxriEOGwtimvhTlIuKRHSCoxLy6ScNg3ltj06xLqypShuXRwKl0SDsdkahqXepMUkJxAuaCmK11rc3OzHmJiUSMfL1s96XKGa8oIX4xISxSzf4wwGpXWi3yr4U0Phkr15yndeBdWPVtc2J9xLenupS80eZrIHd/krVIy3lqeGPOHimWNCSDA6Idqy2gbIZZQpXEKCmeTVUqZZ4trqBS0uIR3x8ieoUNSKjjEu+U9Ud9ZRXV4Y/FasODn7e5JruIAlrrW6NVllPUEcdV/Y9VcgdblKCQ8rNqoZ2Lp2rQfHauw7kjTZeLRwH5K3qPiuNdevJNzJOM5SOH80egUaa3xeXtTWb+Gg1KBdp1m2d4Kh9mjR60a0ngMD6Gjhlqxp+iuCuf+xpnMq53n0EC8mcC/phrF5eeHO4neB6Rv8TjucJ9w9lj31aG08GEG4tT3GpV7jluN4opil7zI+FG4GbybXi6Slq15usbqWcHVdck+siajECMIdjV6ioXA3AuGCd/uqLeHm4tqahhaIEQu6ed/L6jdPwWe9H7K2hJtOZKVaqn7vJw+6Xt2BFO5GVvEFk8ZUteLVwkW8pUWB/ZP620qYQJBrchxvOVXP4q7iZ5U94VrJGk+UehnfnIi/Btw0ekLfCwp3AxiwpYvTYkG0cD1R4Mak7rg3iVjvzYnNG3DeZ6z92KfDBSR2LEHrfZ6ncbRIa4SbE05amiptpfCDwt1AzYUV8QexRa1w5ed4+lfyRhFuboF0eAAp8Aj0d/nU516ta74HFG4ji9S7v5676x03vRG4Ad5ntUs5inDTuFpjvWaV1p4yVs26hdJ9i4LCbaA18dCyhEqtxcUx04E+osXNLZCg0S7kHq2F3lpk0QKjxR2Mh7RbATzUXYOXnLKW/7Gyz6MIF/usa2Xt79G44E24D4mfJHr9ZhaFW0GupQ4ZVO2uYgDXYgnSGnCIE3FjvKSPSJtwdWx6q/hMaRJI93sDOpedj8DLuoPoc1sZ9T2gcAuUOmqQKNL7W62z14ChB7t2KyHu9PtY33uWV3dRr/9luZC6xrsW9oOaGFzEvnaRbmz6f1nHix7ge7vJ1nhMry2F2xkvk7rIuTuTVvEHWZTl6rX6yl2OT6pRuJ3JxZg9YqYjKCX7ouLPlqe73jnHCCUsCrcz2gWyYtuzAUvoZaCjXU4dKkRe0yPvDx/rG5izLp3ilWl6xYkR1/SMkyohQ5Imz2idCBmMRXxh5lx1QsiB5JpgrN5pQsgAoBauxestP0QIGQCsQmk9UkcXmRBCCCGEkGvzD+pXFrSarH3iAAAAAElFTkSuQmCC)
+
+Siendo:
+
+C<sub>F</sub><sub>‒</sub> = concentración, en mg/l, de F<sup>‒</sup> en el medio.
+
+V = volumen, en ml, de solución patrón de fluoruro añadida.
+
+C = concentración, en mg/l, de la solución patrón adicionada.
+
+S = pendiente del electrodo.
+
+ΔE = diferencia de los potenciales E<sub>1</sub> y E<sub>2</sub> obtenidos en 39(b).4.2.
+
+Este valor se deberá multiplicar por el factor de dilución correspondiente, en caso de haber sido necesario efectuarla.
+
+39(b).6 *Observaciones*.
+
+39(b).6.1 Todas las soluciones deben conservar una temperatura próxima a 25 °C ± 1 °C durante la medida.
+
+39(b).7 *Referencias*.
+
+1\. H. E. Haller y C. H. Junge, 1974, O. I. V. 317/FV/518 y 133/FV/439.
+
+2\. Deschreider, A., y Mme. R. Meaux, 1974. Determination des flúor dans les vins et eaux minerales naturelles au moyen d’une electrode ionique specifique.
+
+48\. RELACIÓN P/α
+
+48.1 *Principio*.
+
+Estimación de los contenidos relativos de glucosa y fructosa, en mostos, vinos dulces y mistelas, mediante el establecimiento de la relación entre azúcares reductores y desviación polarimétrica a 20 °C.
+
+48.2 *Material y aparatos*.
+
+48.2.1 Como en 7(a).2; 7(b).2 o 7(c).2.
+
+48.2.2 Polarímetro con luz monocromática amarilla (lámpara vapor de sodio) y tubo de 20 cm.
+
+48.3 *Procedimiento*.
+
+48.3.1 Determinar el contenido en azúcares reductores según el método 7(a), 7(b) o 7(c).
+
+48.3.2 Medida de la desviación polarimétrica.
+
+Una vez verificado el correcto reglaje del polarímetro, comprobando la correspondencia del valor «cero» con la existencia de un campo luminoso uniforme, ajustándolo si es necesario, introducir en el tubo del polarímetro el líquido de defecación sin diluir, incoloro y limpio, utilizando para la determinación de azúcares reductores, evitando la formación de burbujas de aire. Anotar la temperatura del líquido que debe ser lo más próxima posible a 20°C.
+
+Efectuar la lectura de la desviación polarimétrica varias veces sucesivas, tomando la media de los resultados obtenidos.
+
+48.4 *Cálculos*.
+
+Determinar el poder rotatorio y la relación P/oc aplicando las fórmulas siguientes:
+
+OC<sub>20</sub> = oc<sub>t</sub> + oc<sub>t</sub> (t ‒ 20) x K
+
+P/OC<sub>20</sub> (expresado con su correspondiente signo)
+
+Siendo:
+
+P = g/l de azúcares reductores.
+
+oc<sub>t</sub> = poder rotatorio en divisiones sacarimétricas a t °C (un grado polarimétrico = 4,615 divisiones sacarimétricas).
+
+OC<sub>20</sub> = poder rotatorio en divisiones sacarimétricas a 20 °C.
+
+t = temperatura del líquido en el momento de la lectura.
+
+K = coeficiente variable con la naturaleza de los azúcares, dado por la tabla I en función del valor P/oc<sub>t</sub>.
+
+48.5 *Referencias*.
+
+1\. J. Blouin. Manual practique d’analyse des Moúts et Vins. 1977.
+
+2\. J. Ribereau Gayón, E. Peynaud. Sciences et Techniques du Vin. Tome I. 1972.
+
+TABLA I
+
+| P/oct | K |
+|---|---|
+| ‒ 1,19 | 0,006 |
+| ‒ 1,41 | 0,007 |
+| ‒ 1,73 | 0,008 |
+| ‒ 2,24 | 0,009 |
+| ‒ 2,64 | 0,012 |
+| ‒ 3,20 | 0,012 |
+| ‒ 4,06 | 0,013 |
+| ‒ 5,56 | 0,014 |
+| ‒ 8,8 | 0,022 |
+| ‒ 21 | 0,042 |
+
+VINAGRES
+
+9\. METANOL, METODO DEL ÁCIDO CEOMOTRÓPICO
+
+9.1 *Principio*.
+
+Como en 37.1 de los métodos oficiales de análisis de vinos.
+
+9.2 *Material y aparatos*.
+
+Como en 37.2 de los métodos oficiales de análisis de vinos.
+
+9.3 *Reactivos*.
+
+9.3.1 Como 37.3.1 de los métodos oficiales de análisis de vinos.
+
+9.3.2 Ídem.
+
+9.3.3 Ídem.
+
+9.3.4 Etanol de 96° (v/v).
+
+9.3.5 Matraz aforado de 25 ml.
+
+9.4 *Procedimiento*.
+
+Tomar 25 ml de vinagre, destilar en destilador simple y recoger 15 ml de destilado en matraz aforado de 25 ml sumergido en baño de hielo. Añadir el etanol suficiente para que una vez enrasado a 25 ml con agua destilada la concentración del etanol sea del 5-6 por 100 (9.6.1). Continuar como en 37.4 de los métodos oficiales de análisis de vinos.
+
+9.5 *Cálculo*.
+
+Como en 37.5 de los métodos oficiales de análisis de vinos.
+
+9.6 *Observaciones*.
+
+9.6.1 En vinagres normales suele ser suficiente añadir 1,5 por 100 de alcohol de 96 por 100.
+
+9.7 *Referencias*.
+
+1\. Association of Official Agricultural Chemists Official Methodos of Analysis, 1965, página 138.
+
+10(a). ÁCIDO TARTÁRICO
+
+(Método cualitativo)
+
+10(a).1 *Principio*.
+
+Precipitación del ácido tartárico en forma de bitartrato potásico.
+
+10(a).2 *Material y aparatos*.
+
+10(a).2.1 Centrífuga.
+
+10(a).3 *Reactivos*.
+
+10(a).3.1 Ácido acético concentrado puro.
+
+10(a).3.2 Solución de precipitación.
+
+Disolver 300 g de cloruro de potasio puro, 5,75 g de tartrato de sodio y potasio (sal de Seignette) y 1,25 g de oxalato de potasio y enrasar a 1.000 ml con agua destilada.
+
+A baja temperatura la solución deposita pequeños cristales, por lo que se debe de calentar ligeramente antes de emplearse.
+
+10(a).3.3 Etanol de 96°.
+
+10(a).4 *Procedimiento*.
+
+Poner en un tubo de centrífuga 10 ml de vinagre, 0,4 ml de ácido acético 7,5 ml de la solución de precipitación y 2 ml de etanol. Agitar con una varilla de vidrio hasta que aparezca un enturbiamiento cristalino aproximadamente a los diez segundos. Mantener el tubo durante una hora a 8 ºC aproximadamente. Al cabo de este tiempo agitar enérgicamente el contenido del tubo con una varilla de vidrio, con la precaución de mezclar bien con la solución que sobrenada. Dejar en reposo aproximadamente a 8 ºC durante una hora. Transcurrido este tiempo centrifugar.
+
+10(a).5 *Interpretación de resultados*.
+
+La aparición de precipitado indica la presencia de ácido tartárico en la muestra.
+
+10(a).6 *Referencias*.
+
+1\. Recueil des Méthodes Internationales d’Analyse des Vins. O. I. V. A-12-h.
+
+10(b). ÁCIDO TARTÁRICO
+
+(Método cuantitativo)
+
+10(b).1 *Principio*.
+
+Aislamiento del ácido tartárico mediante columna de resinas cambiadoras de aniones y posterior valoración clorimétrica.
+
+10(b).2 *Material y aparatos*.
+
+10(b).2.1 Resinas aniónicas de basicidad fuerte (III Merck o equivalente). Las resinas deben de encontrarse en forma de acetato. Para ello deben estar al menos veinticuatro horas en contacto con una solución de ácido acético al 30 por 100.
+
+10(b).2.2 Columnas de vidrio de 10-11 mm de diámetro y 30 cm de longitud con llave en la parte inferior.
+
+10(b).3 *Reactivos*.
+
+10(b).3.1. Ácido acético al 30 por 100 (v/v).‒Introducir 300 mililitros de ácido acético glacial en un matraz aforado y completar a 1.000 ml con H<sub>2</sub>O destilada.
+
+10(b).3.2 Ácido acético al 0,5 por 100 (v/v).‒Introducir 5 mililitros de ácido acético glacail en un matraz aforado y completar hasta 1.000 ml con H<sub>2</sub>O destilada.
+
+10(b).3.3 Solución de sulfato de sodio al 7,1 por 100 (0,5 N).‒Disolver 71 g de sulfato de sodio anhidro (Na<sub>2</sub>SO<sub>4</sub>) y completar con agua destilada hasta 1.000 ml.
+
+10(b).3.4 Reactivo vanádico.‒Disolver 10 g de metavanadato de amonio en 150 ml de una solución de NaOH N. Pasar esta solución a un matraz aforado de 500 ml, añadir seguidamente 200 ml de una solución de acetato de sodio al 27 por 100 y llevar luego a 500 ml con H<sub>2</sub>O destilada.
+
+10(b).3.5 Solución de SO<sub>4</sub>H<sub>2</sub> 2 N.
+
+10(b).3.6 Solución de SO<sub>4</sub>H<sub>2</sub> 0,1 N.
+
+10(b).3.7 Solución de ácido peryódico 0,1 N (0,05 M).‒Introducir 10,696 g de peryodato de sodio en un matraz aforado de 1.000 ml, añadir 50 ml de SO<sub>4</sub>H<sub>2</sub> N y completar hasta 1.000 mililitros con H<sub>2</sub>O destilada.
+
+10(b).3.8 Solución de glicerol al 10 por 100.‒Pesar 10 g de glicerol muy puro bidestilado y llevarlo a 100 ml con H<sub>2</sub>O destilada.
+
+10(b).3.9 Solución de ácido tartárico de 1 g por litro.‒En un matraz aforado de 500 ml disolver 500 mg de ácido tartárico (puro) en 6,6 ml de sosa N y enrasar con solución de sulfato de sodio al 7,1 por 100 a 500 ml.
+
+10(b).4 *Procedimiento*.
+
+10(b).4.1 Preparación de las columnas de resinas aniónicas. Colocar en el fondo de la columna [10(b).2.2] lana de vidrio formando tapón de 2-3 mm de altura, aproximadamente, y añadir agua hasta una altura de unos 5 mm sobre el tapón de lana de vidrio. Añadir después al resina cambiadora de aniones, conservada en ácido acético al 30 por 100, agitar esta suspensión y agregar rápidamente un volumen de unos 10 ml, evitando la formación de burbujas de aire, depositando en la superficie un tapón de lana de vidrio, que se conduce con una varilla de vidrio, con el fin de no remover las resinas en los sucesivos lavados anteriores en su superficie. Las resinas solamente pueden servir para una sola vez.
+
+10(b).4.2 Aislamiento del ácido tartárico.‒Abrir la llave inferior de la columna y dar salida al ácido acético diluido hasta unos 2-3 ml por encima del tapón de lana superior. Añadir seguidamente unos.10 ml de ácido acético al 0,5 por 100 y vaciar hasta igual altura; efectuar estos lavados cuatro veces.
+
+Después del último lavado y con la llave cerrada, adicionar 10 ml de vinagre a analizar y señalar la altura alcanzada con un lápiz graso, abrir a continuación la llave y dejar salir vinagre goteando a razón de 1-1,5 gotas por segundo (25-30 ml por minuto) hasta un poco por encima del tapón superior de lana vidrio. Llenar de nuevo la columna con ácido acético al 0,5 por 100 hasta la señal del lápiz graso y dejar salir a la misma velocidad que la vez anterior y lavar después en la misma forma siete veces con 10 ml de agua destilada.
+
+Al terminar el último lavado, cerrar la llave cuando el nivel del líquido se encuentre un poco más arriba del tapón de lana de vidrio superior.
+
+Colocar un matraz receptor aforado de 100 ml. Eluir los ácidos fijados en el cambiador de aniones, mediante adiciones de solución de sulfato de sodio 110(b).3.31 hasta la señal trazada en el tubo.
+
+Para hacer esta operación resulta práctico colocar un frasco con solución de sulfato unido por el cuello a la columna mediante un manguito de caucho y con unas pinzas para regular la, caída del líquido en la bureta o tubo. Puesto así en comunicación los dos aparatos (frasco y bureta o tubo), abrir las pinzas del caucho de unión y la llave inferior, dejando caer el líquido a la bureta hasta unos 10 cm de altura y sin que queden huecos vacíos. Regular la salida del líquido en la proporción que queden huecos vacíos. Regular la salida del líquido en la proporción de 2-3 gotas por segundo, para llenar el matraz receptor hasta el enrase.
+
+10(b).4.3 Determinación del ácido tartárico.‒En dos matraces cónicos de 100 ml (A) y (B) introducir 20 ml del eluido. El matraz (A) sirve para la medida y el matraz (B), en el cual el ácido tartárico es destruido por el ácido pervódico, constituye el testigo.
+
+Añadir al matraz (A) 2 ml de SO<sub>4</sub>H<sub>2</sub> 2 N, 5 ml de SO<sub>4</sub>H<sub>2</sub> 0,1 N y 1 ml de glicerol al 10 por 100.
+
+En el matraz (B), añadir 2 ml de SO<sub>4</sub>H<sub>2</sub> 2 N, 5 ml de ácido peryódico 0,1 N, esperar quince minutos y añadir 1 ml de solución de glicerol al 10 por 100 para destruir el exceso de ácido peryódico. Esperar dos minutos.
+
+Verter a continuación, agitando, primero en el matraz (B) e inmediatamente después en el matraz (A). 5 ml del reactivo vanádico. Disparar inmediatamente un cronómetro e introducir el contenido de dichos matraces en las cubetas de caras paralelas de lo mm de espesor del espectrofotómetro. Al cabo de un minuto y treinta segundos medir la densidad óptica a 490 nm del líquido procedente del matraz (A) (medida) después de haber reglado el aparato para obtener la transmisión al 100 por 100 con la cubeta conteniendo el líquido testigo (B).
+
+10(b).5 *Cálculo*.
+
+10(b).5.1 Preparación de la curva patrón.‒Tomar 10, 20, 30, 40 y 50 ml de la solución 10(b).3.9 e introducir cada alícuota en un matraz aforado de 100 ml. Enrasar con solución de sulfato de sodio al 7,1 por 100. Las diferentes diluciones corresponden a eluidos del vinagre conteniendo 1, 2, 3, 4 y 5 g de ácido tartárico por litro.
+
+En dos matraces (A) y (B) de 100 ml poner 20 ml de cada una de estas soluciones y tratarlas idénticamente igual a los eluidos del vinagre anteriormente descrito.
+
+La representación gráfica de las densidades ópticas de estas soluciones está en función de la cantidad de ácido tartárico. Para ello es recomendable y más preciso partir de concentraciones 0,1; 0,2; 0,3; 0,4: 0,5; 0,6; 0,7; 0,8; 0,9 y 1 g/l de ácido tartárico.
+
+10(b).5.2 Comprobar los valores obtenidos en el ensayo con los correspondientes de la curva patrón.
+
+10(b).6 *Referencias*.
+
+1\. Recueil des Méthodes d’Analyse des Vins Al2h.
+
+11\. COBRE
+
+11.1 *Principio*.
+
+Determinación directa por espectrofotometría de absorción atómica.
+
+11.2 *Material y aparatos*.
+
+Espectrofotómetro de absorción atómica, con lámpara específica de cobre.
+
+11.3 *Reactivos*.
+
+11.3.1 Solución patrón de 1.000 mg/l de Cu.‒Disolver 1.000 g de cobre puro en el mínimo volumen necesario de NO<sub>3</sub>H (1 + 1) y diluir a 1 litro con NO<sub>3</sub>H al 1 por 100 (v/v).
+
+11.3.2 Soluciones que contengan de 1 a 10 mg/l de Cu.‒Diluir partes alícuotas de la solución patrón con ácido acético al 5 por 100
+
+11.4 *Procedimiento*.
+
+11.4.1 Calibrado del aparato.‒Ajustar el aparato a una longitud de onda de 324,7 nm en condiciones tales que se obtenga una respuesta lineal al introducirse las series de patrones preparados.
+
+11.4.2 Determinación.‒Efectuar la lectura directa de la absorbancia.
+
+11.5 *Interpretación de resultados*.
+
+Partiendo de los valores de absorbancia obtenidos, hallar mediante la curva patrón las concentraciones de cobre de la muestra.
+
+11.6 *Referencias*.
+
+1\. G. Charlot et D. Bezier: «Analyse quantitative mlnerale». El Masson. París (1955). 749-752.
+
+2\. H. E. Parker: «Atomic Absorption Newlette» (1963), 13.
+
+3\. Standart conditionc for Zn and Cu. Analytical Methods for atomic absorption spectrophotometry «Perkin-Elmer».
+
+4\. F. Rouselet: «Spectrophotometrie par absorption atomique Boudin». Ed. París (1968), págs. 59-144.
+
+12\. CLORUROS
+
+12.1 *Principio*.
+
+Determinación directa de cloruros por potenciometría utilizando el electrodo Ag/AgCl.
+
+12.2 *Material y aparatos*.
+
+12.2.1 pH-metro con escala que permita apreciar 2 mV.
+
+12.2.2 Agitador magnético.
+
+12.2.3 Electrodo Ag/AgCl con una solución saturada de nitrato de potasio como electrolitro.
+
+12.2.4 Microbureta graduada en 1/100 de mililitro.
+
+12.3 *Reactivos*.
+
+12.3.1 Solución patrón de cloruros.‒Disolver 2,1027 g de cloruro de potasio puro para análisis (máximo 0,005 por 100 de bromo), previamente desecado, en agua destilada hasta 1 litro, 1 ml de esta solución contiene 1 mg de ion cloro.
+
+12.3.2 Solución de nitrato de plata.‒Disolver 4,7912 g de nitrato de plata en una solución alcohólica al 10 por 100 (v/v) hasta 1 litro; 1 ml de esta solución corresponde a 1 mg de ion cloro.
+
+12.3.3 Ácido nítrico concentrado (d = 1,40).
+
+12.4 *Procedimiento*
+
+12.4.1 Determinación del potencial del punto de equivalencia.‒Introducir 5,0 ml de la solución patrón de cloruros en un vaso de 150 ml. Diluir aproximadamente a 100 ml con agua destilada y acidificar con 1.0 ml de ácido nítrico (12.3.3). Introducir los electrodos. Añadir la solución de nitrato de plata agitando moderadamente
+
+Los cuatro primeros mililitros se adicionan en fracciones de 1 ml y se leen las correspondientes lecturas en milivoltios; los dos siguientes mililitros, en fracciones de 0,2 ml y se continúa adicionando en fracciones de 1 ml hasta que se hayan alcanzado un total de 10 ml. Después de cada adición se debe esperar unos treinta segundos antes de hacer la correspondiente lectura en milivoltios. Los valores así obtenidos se llevan sobre un papel milimetrado en función de los correspondientes mililitros de solución de nitrato de plata, y a partir del punto singular de la curva obtenida, determinar el potencial del punto de equivalencia.
+
+Para comprobar el potencial del punto de equivalencia, llevar a un vaso de 150 ml, 5,0 ml de la solución patrón de cloruros, 95 ml de H<sub>2</sub>O destilada y 1 ml de ácido nítrico concentrado. Introducir el electrodo y valorar agitando, justamente hasta el potencial del punto de equivalencia.
+
+Repetir esta operación hasta obtener una buena concordancia de resultados
+
+Este control debe de efectuarse antes de determinar la concentración de cloruros en cada serie de muestras a analizar.
+
+12.4.2 Determinación.‒Llevar a un vaso de 150 ml 50,0 ml de vinagre. Añadir 50 ml de H<sub>2</sub>O destilada y 1 ml de ácido nítrico concentrado. Valorar a continuación, siguiendo el procedimiento descrito anteriormente, hasta alcanzar el potencial del punto de equivalencia.
+
+12.5 *Cálculos*.
+
+La cantidad de cloruros se determina mediante las expresiones:
+
+0,02 n en gramos de ion cloro.
+
+0,5633 n en miliequivalentes por litro de ion cloro.
+
+0,0329 n en gramos de cloruro sódico por litro.
+
+Siendo:
+
+n = volumen, en ml de solución de nitrato de plata necesario para alcanzar el potencial del punto de equivalencia.
+
+12.6 *Referencias*.
+
+1\. Recueil des Méthodes Internationales d’Analyse de Vins. OIV A-15j.
+
+13\. GRADO ALCOHÓLICO
+
+13.1 *Principio*.
+
+Separación del alcohol por destilación, oxidación del mismo por dicromato potásico y determinación del contenido por valoración del exceso de dicromato.
+
+13.2 *Material y aparatos*.
+
+Como en los apartados 5(a).2.1; 5(a).2.1.1; 5(a).2.1.2; 5(a).2.1.3 y 5(a).2.1.4 de los métodos Oficiales de Análisis de Vinos.
+
+13.3 *Reactivos*.
+
+13.3.1 Solución de dicromato potásico.‒Disolver 33,608 g de dicromato potásico puro en una cantidad suficiente de agua destilada y completar hasta 1 litro a 20 °C. Esta solución corresponde al grado alcohólico internacional O. I. V.
+
+1 ml de esta solución óxida 7,8934 mk de alcohol.
+
+13.3.2 Solución de sulfato de hierro y de amonio. Disolver 135 g de sulfato ferroso amoniacal y 20 ml de ácido sulfúrico puro en una cantidad de agua suficiente y completar hasta 1 litro, un volumen de esta solución corresponde a medio volumen de solución de dicromato potásico cuando está recientemente preparada. Esta solución se oxida lentamente, por lo que debe ser valorado frecuentemente en la misma que se realiza la determinación del alcohol, sustituyendo la disolución alcohólica por agua destilada.
+
+13.3.3 Solución de permanganato potásico.‒Disolver 1,088 gramos de permanganato potásico en una cantidad suficiente de agua y completar hasta 1 litro.
+
+13.3.4 Solución de ácido sulfúrico diluido.‒A 500 ml de agua destilada añadir, poco a poco y agitando, 500 ml de ácido sulfúrico puro. Después de enfriado, completar hasta 1 litro con agua destilada.
+
+13.3.5 Reactivo de ortofenantrolina ferrosa.‒Disolver 0,695 gramos de SO<sub>4</sub> Fe 7H<sub>2</sub>O en 100 ml de agua, añadir 1,485 gramos de monohidrato de ortofenantrolina. Calentar para favorecer la disolución.
+
+13.3.6 Lechada de cal 4N.
+
+13.4 *Procedimiento*.
+
+13.4.1 Destilación.‒Medir 200 ml de vinagre en matraz aforado y anotar la temperatura. Introducir el vinagre en el matraz de destilación que contenga unos fragmentos de material poroso. Lavar el matraz cuatro veces con 5 ml de agua. Alcalinizar con un ligero exceso de lechada de cal 4N. Recoger el destilado en matraz aforado de 100 ml. Enrasar con agua a la misma temperatura que se midió el vinagre inicialmente.
+
+13.4.2 En un matraz Erlenmeyer, con tapón esmerilado, de 250 ml, poner 20 ml de solución valorada de dicromato potásico, 20 ml de ácido sulfúrico diluido y agitar. Añadir 10 ml de destilado exactamente medidos. Tapar el Erlenmeyer, agitar y esperar por lo menos treinta minutos, agitando de vez en cuando.
+
+13.4.3 Valoración.‒Valorar el exceso de dicromato con la solución de sulfato ferroso amónico. Cuando la coloración verde de la solución vire a verde azulado, añadir cuatro gotas de reactivo de ortofenantrolina. Detener la adición de solución ferrosa cuando el líquido vire a marrón.
+
+A menudo se puede llegar a pasar el viraje, siendo entonces necesario volver al punto preciso, adicionando solución de permanganato potásico. Un décimo del volumen empleado de esta solución se resta del volumen empleado de sulfato ferroso.
+
+Hacer una prueba en blanco sustituyendo los 10 ml de destilado por agua.
+
+13.5 *Cálculos*.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5HPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5hPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5kPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+YTwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bzwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aDwvbWk+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+JiN4RjM7PC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5sPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgPG1vPj08L21vPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICA8bWZyYWM+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPic8L21pPgogICAgICAgICAgICA8bW8+JiN4MjIxMjs8L21vPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm48L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+JzwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAN8AAAAmCAYAAABEZE79AAADY0lEQVR4nO2c0ZGDMAxEVUvqSCFUklL4vTYoJr3kPhLd6DQrIxNsE7JvhrkbMGYdS7YlnIgQQgghjbmIyHW0CEK+kUVE7qNFEPKNzPJ0QEJIZ27ydEBCSGem10EI2YlFRB7yTKjMr/8f8pzpvkkDIV3RJMrj9VdnNnWAy5doIGQIN3kauX2NML3O9VpmHkEDId151/D1/swRJWzofA25Sr8PscUyBenXOOXTjeMIhr+LBu0Qe2jQ2DNNa58/cs2sa/nWHWk/9y27MLSj/b299I/k453PTr3e2OfCtZYcJWDt1ZGoAzOoviizdvblz0c7n95YevuvFdH52rHF+SZZ3zJF5zuohovkZ7U5UWZP6HxlrpILBc7sfD5M0l0smSTJcA2ZWc8SLUknI8LXZcWVRumbK1dyPp+h2rphNqOtZLx6rRSvZbVa57OdF/VNtt5I/xyct/fs0S4SoMa3ZXTwLxfVaKyx+M6NjGlx50szsi8rhbIlstpKxmvL30C5Gq3WmLWO6Nloh772ha8X1XGXONu5d7t83SiFHx2jVz1N0Q5YC9btsYDr6H7U6choongSzXxRVu8KtJXIaovKIs06YMyuTFYrWnb6OrfUGzlwr3a14udDjz/WnE+Jlihr8cRV/nckMvDI6JHzlZaiOvJnyWgTwW3MfD2lVmvW+WrrrXG+Fu1qxWgnetv5sjHfVuezZfRAy6Ws8y3gXObaVm22zNqyq0YPupZ1vtp6a5yvRbtIQDbbudX5kOFEsUr0TDTzoQSAdnyWjDaROGZaSzDUaq2d+dBnjuqtcb4W7UL3Zo/TO3Fm9tvifHqPBRl41JmlmA8liKLziKw2+0zbxtJrAV3C12rNOl8ptrqD8zXO16JdZ6Dp77/YTBtCZ6ca59NRUEWrIXkDt7MveqZvNMrSqf4sWW0icRuR5kn+x881WrPOJ4IHQ70/k+0snd+7XWcgGph3JVoWoITMAspZLu7aXXA6HZXVkV1Hcm8g/h1TbYYtq+0Oyln8dTTqZ7T6z/Im6/FoJl6N9Pdq11nIJKIIIQ3QXSuEkM5Mcs7teYQMw74asSHX2ntvQsgbaE5BY16d2Y6yoZ+QU3OEryMR8pXQ+QgZBJ2PkEHQ+QgZBJ2PkEHQ+QgZANrS1/v3XwghhBBCCGnJL8XEzxoJ6DubAAAAAElFTkSuQmCC)
+
+Siendo:
+
+n = volumen, en ml, gastados en la valoración.
+
+n’ = volumen, en ml, gastados en la prueba en blanco.
+
+13.6 *Observaciones*.
+
+Si el grado alcohólico del vinagre es superior a 0,8°, repetir la oxidación utilizando 10 ml de destilado diluido a 1/2.
+
+13.7 *Referencias*.
+
+1\. Recueil des Méthodes Internationales d’Analyse des Vins. O. I. V. A-2-16.
+
+14\. ARSÉNICO
+
+14.1 *Principio*.
+
+Reducción del arsénico a arsenamina gaseosa que reacciona con dietilditiocarbamato de plata (disuelto en piridina), dando un complejo de color rojo.
+
+14.2 *Material y aparatos.*
+
+14.2.1 Aparato Quickfit (figura I).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1979/207/21118_5402560_image22.png)
+
+14.2.2 Espectrofotómetro o colorímetro que permita lecturas a 538 nm.
+
+14.3 *Reactivos*.
+
+14.3.1 Solución de dietilditiocarbamato de plata.‒Disolver 1.000 g de este reactivo en 200 ml de piridina para cromatografía. Esta solución puede conservarse algunas semanas.
+
+14.3.2 Acetato de plomo en algodón.‒Impregnar el algodón hidrófilo en solución acuosa de acetato de plomo al 10 por 100, escurrir el líquido en exceso y desecar al vacío.
+
+14.3.3 Solución acuosa de ioduro potásico al 15 por 100.
+
+14.3.4 Solución acuosa de sulfato de cobre al 2 por 100.
+
+14.3.5 Solución de cloruro estannoso.‒Disolver 0,33 g de cloruro estannoso en 100 cc de ClH al 32 por 100 (d = 1,16).
+
+14.3.6 Zn puro granulado, exento de arsénico.
+
+14.3.7 Ácido nítrico (d = 1,40).
+
+14.3.8 Ácido sulfúrico (d = 1,84).
+
+14.3.9 Solución de 100 mg/l de arsénico.
+
+14.4 *Procedimiento*.
+
+14.4.1 Preparación de la muestra.‒En un matraz Kjeldahl de 500 ml introducir 100 ml de vinagre con 100 ml de NO<sub>3</sub>H (d = 1,40), para evitar las pérdidas de As. Llevar a ebullición hasta reducir el volumen a 10 ml, añadir 5 ml de ácido sulfúrico (d = 1,84) y continuar la ebullición adicionando NO<sub>3</sub>H gota a gota hasta la total decoloración. Después de la expulsión de los vapores nitrosos dejar enfriar, diluir con 10 ml de agua destilada y calentar hasta casi sequedad. Una vez frío el matraz, trasvasar el residuo al matraz de valoración utilizando 40 ml de agua destilada.
+
+14.4.2 Valoración.‒Poner en el tubo en U, 3 ml de la solución de dietilditiocarbamato de plata. Colocar en la parte superior del tubo intermedio del aparato el algodón impregnado en acetato de plomo con objeto de retener el sulfídrico y la fosfamina que puedan desprenderse al mismo tiempo que la arsenamina.
+
+Introducir la muestra preparada en el Erlenmeyer de 100 ml del aparato descrito y añadir sucesivamente 10 ml de la solución de cloruro estannoso, 5 ml de la solución de ioduro potásico y 1 ml de la solución de sulfato de cobre. Después de quince minutos añadir 5 gramos de Zn granulado y cerrar rápidamente el aparato. Colocarlo en la oscuridad y dejar pasar vapores por lo menos durante una hora.
+
+14.4.3 Preparación de la curva patrón.‒A partir de una solución 14.3.9., preparar soluciones que contengan 0,5, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 μg de arsénico por litro.
+
+14.5 *Cálculos*.
+
+Calcular el contenido en arsénico utilizando la correspondiente curva patrón.
+
+14.6 *Observaciones*.
+
+14.6.1 Interfiere en la determinación el antimonio cuyo complejo absorbe a 510 nm.
+
+14.6.2 La Ley de Lambert-Beer se cumple entre las concentraciones de 0 y 15 microgramos de As.
+
+14.6.3 Este método tiene un límite de detección de 0,2 microgramos.
+
+14.7 *Referencias*.
+
+1\. Vasak. V y Sedivec V (1952) Chem. Listy 46, 341, citado por M. D. Garrido, M. L Gil y C. Llaguno. An. Bromatología XXVI-2 (1974), 167-176.
+
+2\. Recueil des Méthodes Internationales d’Analys des Vins. O. I. V. A-34 f.
+
+15\. CINC
+
+15.1 *Principio*.
+
+Determinación directa por espectrofotometría de absorción atómica.
+
+15.2 *Material y aparatos*.
+
+15.2.1 Espectrofotómetro de absorción atómica.
+
+15.2.2 Lámpara de cinc.
+
+15.3 *Reactivos*.
+
+15.3.1 Solución patrón de 1.000 ppm de Zn.‒Disolver 1.000 gramos de Zn puro en el mínimo volumen necesario de ácido nítrico (1 + 1) y diluir a 1 litro con ácido nítrico al 1 por 100 (v/v).
+
+15.4 *Procedimiento.*
+
+15.4.1 Preparación de la muestra.‒No se necesita preparación especial. En caso de elevada concentración, realizar una o varias diluciones hasta quedar dentro del rango de medida.
+
+15.4.2 Determinación.‒Diluir partes alícuotas de la solución (15.3.1) con ácido acético al 5 por 100 para obtener soluciones de 0, 0,5, 1, 1,5 y 2 ppm. Aspirar las soluciones patrón y a continuación la muestra, anotando las absorbancias obtenidas a 213,8 nm.
+
+15.5 *Interpretación de resultados*.
+
+Partiendo de los valores de absorbancia obtenidos, hallar las concentraciones de cinc de la muestra.
+
+15.6 *Referencias*.
+
+1\. H. E. Parker, Atomic Absorption Newsletter (1963), 13.
+
+2\. Standar conditions for Zn and Cu. Analytical Methods for atomic absorption spectrophotometry «Perkin-Elmer».
+
+6\. ACETILMETILCARBINOL (ACETOÍNA)
+
+6.1 *Principio*.
+
+Determinación cuantitativa de la acetoína por cromatografía de gases.
+
+6.2 *Material y aparatos*.
+
+6.2.1 Equipo de cromatografía de gases compuesto por:
+
+6.2.1.1 Detector de ionización de llama.
+
+6.2.1.2 Horno con temperatura regulable.
+
+6.2.1.3 Registrador.
+
+6.2.1.4 Gases: Aire-nitrógeno.
+
+6.2.1.5 Columna: FFAP 2,5 por 100 sobre Chromosorb G (HP), añadiéndose un 0,5 de un reductor de colas (p. e., Carbowax 1.500) y de dimensiones 2 metros de longitud y 1/8 de pulgada de diámetro externo de la columna.
+
+6.2.2 Microjeringa de 1 a 10 μl.
+
+6.3 *Reactivos*.
+
+6.3.1 Acetoína.
+
+6.3.2 Pentanol-1.
+
+6.3.3 Alcohol etílico absoluto.
+
+6.3.4 Hidróxido cálcico.
+
+6.4 *Procedimiento*.
+
+6.4.1 Disoluciones patrón.
+
+6.4.1.1 De acetoína: A partir de acetoína purificada de su posible contenido en diacetilo mediante destilación, obtener soluciones de acetoína que cubran un rango de concentraciones de 10 a 500 mg/l en agua destilada.
+
+6.4.1.2 De patrón interno: Añadir 2 ml de pentanol-1 en 100 ml de solución hidroalcohólica al 50 por 100.
+
+6.4.2 Determinación.
+
+6.4.2.1 Condiciones cromatográficas.
+
+Gas portador: Nitrógeno (flujo de 12,5 mg/min).
+
+Temperatura horno: 70 °C.
+
+Temperatura inyector: 180 °C.
+
+Inyección: 4 o 2 μl.
+
+Patrón interno: Pentanol-1.
+
+6.4.2.2 Método operatorio.
+
+A cada una de las soluciones patrón de acetoína preparadas en 6.4.1.1 añadir solución de pentanol-1, de tal forma que las soluciones que contengan de 10 a 50 mg/l de acetoína se le añadan 15 μl y a las que contengan de 50 a 500 mg/l se le añadan 35 μl, e inyectarlas a continuación, obteniendo la curva de calibrado (se deben efectuar dos curvas de calibrado, una que cubra el rango de 0-50 mg/l de acetoína y otra de 50 a 300 mg/l).
+
+La inyección de la muestra puede efectuarse directamente del vinagre una vez añadido el patrón interno, pero teniendo en cuenta que el tiempo de retención es elevado y la concentración del acético es muy grande, obliga a esperar un largo período de tiempo entre dos inyecciones sucesivas. Para evitar esta dificultad, deben neutralizarse a pH = 7 las muestras, preferiblemente con Ca(OH)<sub>2</sub> sólido, para evitar variaciones de volumen. Téngase en cuenta que la concentración de acetoína en el medio neutro puede variar con el tiempo, por lo que la neutralización debe hacerse inmediatamente antes de inyectar en el cromatógrafo.
+
+6.5 *Cálculos*.
+
+Los cromatogramas obtenidos de las distintas soluciones patrón permiten representar gráficamente la relación existente entre el cociente:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPiYjeEMxOzwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5yPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmU8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij5kPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmU8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bDwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij5wPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmk8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YzwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIiBzdHlsZT0icGFkZGluZy1sZWZ0OjdweDsiPmQ8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InBhZGRpbmctbGVmdDo3cHg7Ij5sPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6N3B4OyI+YTwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5jPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmU8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+dDwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5vPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPiYjeEVEOzwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmE8L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG10ZXh0PiYjeEMxO3JlYSBkZWwgcGljbyBkZWwgcGVudGFub2w8L210ZXh0PgogICAgICAgICAgICA8bW8+JiN4MjIxMjsxPC9tbz4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAAA4CAYAAAAbx4ZoAAAH+klEQVR4nO2d0ZmrOAyFVcvUkUJSxT6mlLxuGymGXrIPd3WjnBzJMpiBgP7v42EYY2RZPpZhxogURVHM4EdE7lsbURTF9lxE5Pn/URTFiVExuG5tSFEU23IRkWlrI4qi2AeXrQ0oimJfXEXktrURO+Ii6y2fHnLO5dmaPi0Go0H67TzN8TPj+slcf6bgXeq3iLP6tIddPcOzbxd2YdBC7rIssK9yHF/0sNRvEUf06Sg/6fjbzet+DYSnHOPhYgnCPEoQ+hiRUatfdsOPvIJAReHbHzKWIMyjBCHPiCX2Lv8I8CZ/GifyCoiHX/yt3FVejsFrbNYRicxDlmcnN6gjCuyMXXOCV9fJV2lnXNZ/3r0j+25QZi9+i4h8OiIGsnVk/Ntq6wS/Z8LQ00d34Q/0tU0qHFqX9/B/hB9lkleDbZbgzRIPeTlEr73LuyA85L3jvUDDAMmIEbPHXhO1IWtXryA85D0AsE22cybx3zKgH2+kHLZX79E7s6/htwjPpyNiIFtH1r+ZtkYZQraP7ADGQY7jTG1acyzJVT6VRI2MUhntXKZUrE720IQFiDohi9aBzmFOy9rl2Za1Ba9hQcfKsrboIL1DGZyxtB3ZAFjLb5l7tvwwNwZadWT9m22rJwi9faTn2VjS2LF1reXHvxehITal8ogGDKZb9mDOQMXsaYRXngV2j10jBYF1OCuLsxcjmpl1Nsmwlt8iIv8siYFsHT3+zbTVE4TePhohCFrPIj/aFNE7vLVKaz3oOZ45Cdd0PY2YnPKsU3rsWkMQMtlRK2DtmrLnd8hafouIfLokBrJ1ZP2bbasnCL19NEoQ7O9m+fEufsqnhngVtgQhawgOlF5V82ZFL7Czda8hCK0UzxukFm0XexAWrWmRtfwW4flnaQxk68j4t+ferQwh20ejBGGxH1uziapMpETsd6wR9jo9r46z9DbCcz4L7Kxd+vMoQdD7tspG9mmw6HVMyL3zjLX8FuEtk0bFQKuOjH972tp6hpDtoxGCsNiP90Rhu55CWgOGXXeVTwWzjdUlTE8w2GWPRWdA7NiMXXpuriDYlFPtw3oilWf22WBRvzExybKW3yK8ZdLSGOipI+PfbFtRPNnbg0wfjRCERX7Ui/Vgavgkx49zvReI+K4WHYrPMCbxX91FsGchqo4PUk/LLvx97zKj9x02S20j+0Q+33H3PNxTRvstwmvziBjorSPTjkyZC5TxMsOoj6KxhL+7yWdsqV2jxlIxkDlZRVEUB6UEoSiKv5QgFEUhInwtuMY/CBVFURRFURTFyvxbRx11nPp4Y2tj6qijjm2PoiiKoiiKldnlHnBFUfw+9m+3i6I4Mex/+ouiOCEXOca3GoqiGEB2A4yiKE4CbiKxd6KdbyKizSrm0rO12ZrM2TpdpP5pK8tc/34lewnqDPYfjXoEwW4ocTRBsBt+9ASs3ZCjBMFnrn/n3mdT0bFvF74lKPaUIeyFo2YIN9nHrLxmhoC7KW/aXjtLfMvDxRKET44qCJsPkP/5jSXD5suSb/0QbAnCJ0cUhOgbCL/NKQThJvkPwdrPYunAmsjvn6YcgptbZgemXdbYDSZREDD18r6h0Lqv/bsM++yBZVCt7bqjtmKZns1U7bUP8YMJNwP1fNYSBC13kfesktncigVrq7XP1vUkh9qOG6Biu20/oy3RB1aipfMpBGGS3IdgMfge8r7t9FXeBwvbu153+1WiD16we7NgsNfih2m0ftu5GUHAJZSW1Wu9oLXc5N0f6it7X+x8JrIeWp9ea/sHtwtnW7z3fqPCDpjJlGX93IoFOylY/2qb2PcI2GC35azfUMBxB2gUMDyn98QYObwgYMeJxB+CjfaCt8KCdf2YMhg4mZkp6hwUM3attTebIVydckzEMEP4IWXUFm2/Z4cXjBbvWxDob/YHZ2xQZPuBDVh230wsMD8yn0SCEPWBlmFb8FufeAOQievhBQFnD5H3mQbBL+niee9gGUD2dZfa46XBFyjnHUqvIGSWHBiMmY+qeIMrkyV49WMw4VLBHmwGzwpCtOTIxkI00FuCgPT0MwqCZisIE+aMLZHP8WCT7maCMOdDsJ4gqPOzHyHV4MkEIqbGeP5ifs6k2r8hCJlOZcsZkdwXefRa77ydhTPPJEYKQjYWlgoC/iOelyG0BMGb/DJLvDXYTBBwvW1RZ3jppicIrUE2J1X1gpAJgpeNzLG1JQj2vJchZJ5TeKIbDWQvaJggZIJrlCBcJO/fJYLA7F0qCN6E03qeMZrNBCGbhlmHeIIg8pr5sQNu8qdzWCdmAtFbC2JwRq9N7eBaKggsXfeCkdmCzxBQdJngeLa1HnpZO9inzrG+uYJwF56Ge7HAbLX2tgSBvdWZKwitB4js3OEEATvQK+Oty9js5a3hJ7jWDmy7fIgGqHa2lsHljp6/C7fB3vNGzjHYsxS9L9rKBp1nCwt2a8tDcksf6zsR/zuE+DotsqMlkixzZALWigVrF3vbwfpLs4+rsZe9ddJrWF0C5fAcTi5MTDJZ6BJ+XRAwQFjjWGf+Q84hGJQY2DhIbPlWMOJrr9ZSgokB3j9Ky+2syQaaCH8Og69BvUGYsbeFfX0X/R1CZAfGQ3R/m0a3YiiKhUk+7UE/sLTee937gOuxvZO0+wptYm+IvDgYAfqLjZ9iQ7Jp9JnIPqcpisNRgvBJCUJxWjJvCs6G96q0KA5Nz7OGs9DzrKEoiqIoiqIoiqLYN/8BOI5iSqWnabYAAAAASUVORK5CYII=)
+
+La relación de áreas obtenida para la muestra se compara con la curva de calibrado (concentración de acetoína/relación de áreas), obteniéndose la cantidad de acetoína de la muestra.
+
+6.6 *Referencias*.
+
+1\. E. F. Gorostiza, M. L. Gil de la Peña y M. C. Gómez Cordobés. Instituto de Fermentaciones Industriales.
+
+16\. PROLINA
+
+16.1 *Principio*.
+
+Determinación cuantitativa de la prolina por reacción con ninhidrina en medio ácido.
+
+16.2 *Material y aparatos*.
+
+16.2.1 Tubos de ensayo con tapón de rosca.
+
+16.2.2 Espectrofotómetro o colorímetro que permita efectuar lecturas a 517 nm.
+
+16.3 *Reactivos*.
+
+16.3.1 Ninhidrina al 3 por 100 en éter monometílico del etilenglicol.
+
+16.3.2 Ácido fórmico.
+
+16.3.3 Isopropanol agua 1:1 (v/v).
+
+16.4 *Procedimiento*.
+
+Diluir la muestra hasta que contenga de 0,05 a 0,50 milimoles/ml de prolina. Tomar 1/2 ml de muestra diluida a introducirla en un tubo de ensayo con tapón de rosca, añadir 0,25 ml de ácido fórmico y 1 ml de solución de ninhidrina al 3 por 100. Cerrar herméticamente el tubo e introducirlo en un baño de agua hirviendo durante catorce o quince minutos. Enfriarlo a unos 20 °C de cinco a diez minutos, añadiendo mientras se enfría 5 ml de solución de isopropanol-agua 1:1 (v/v).
+
+A continuación efectuar la lectura de la absorción a 517 nm después de cinco minutos y antes de treinta minutos.
+
+Efectuar un blanco siguiendo el procedimiento anterior, pero usando 0,5 ml de agua destilada en vez de la solución problema.
+
+16.5 *Interpretación de resultados*.
+
+Calcular el contenido en prolina por comparación con una curva patrón que comprenda concentraciones entre 0,05 y 0,50 milimoles/ml.
+
+16.6 *Referencias.*
+
+1\. C. S. Ough J. of Food Science 34(3), pág. 228 (1969).
+
+ORUJOS, HECES Y LÍAS
+
+1\. CONTENIDO ALCOHÓLICO EN ORUJOS, HECES Y LÍAS
+
+1.1 *Principio*.
+
+Se determina por destilación de la muestra alcalinizada y medida del contenido alcohólico por alcohometría.
+
+1.2 *Material y aparatos*.
+
+1.2.1 Aparato de destilación.‒Consta de las siguientes partes:
+
+1.2.1.1 Matraz de destilación de 1.000 ml con rodaje esmerilado. Se puede utilizar de boca ancha o de boca estrecha.
+
+1.2.1.2 Columna de rectificación de 20 cm de largo.
+
+1.2.1.3 Disco metálico o de amianto con un orificio de 8 cm de diámetro.
+
+1.2.1.4 Refrigerante de West de 40 cm de longitud con circulación rápida de agua.
+
+1.2.2 Equipo de medida.
+
+1.2.2.1 Alcohómetros.
+
+1.2.2.2 Termómetros.‒Graduados en grados y décimas de grado y comprendiendo el intervalo de 0-30°.
+
+1.2.2.3 Probeta cilíndrica de 36 mm de diámetro y 320 mm de altura.
+
+1.2.3 Granatorio.
+
+1.2.4 Matraz aforado de 200 ml.
+
+1.2.5 Vaso de precipitados.
+
+1.3 *Reactivos*.
+
+1.3.1 Lechada de cal-solución de 120 g de CaO en 1.000 ml de agua.
+
+1.3.2 Ácido sulfúrico al 10 por 100.
+
+1.4 *Procedimiento*.
+
+El producto a analizar es vertido en un vaso de precipitados donde es agitado para su homogeneización y al mismo tiempo para favorecer la expulsión de CO<sub>2</sub> que pueda contener.
+
+En el caso de orujos, el muestreo se realiza de forma que la muestra sea lo más homogénea posible.
+
+Pesar 200 g de muestra homogeneizada y vaciar en el matraz de destilación añadiendo 200 ml de agua, parte de los cuales se utilizan para enjuagar el vaso que ha contenido la muestra, y a continuación se añade lechada de cal hasta neutralizar en exceso (10 ml aproximadamente).
+
+Destilar a continuación recogiendo 200 ml, o bien las tres cuartas partes de este volumen (150 ml).
+
+Añadir al destilado más gotas de una disolución acuosa de tornasol y comprobamos que el destilado toma color azul, de franca alcalinidad, debida al NH<sub>3</sub> que contiene.
+
+Seguidamente, con una pipeta se adiciona ácido sulfúrico al 10 por 100 en cantidad suficiente para que el destilado vire a rojo, añadiendo un poco más (0,5 ml) para que el medio quede francamente ácido.
+
+Completar con agua destilada el contenido de los 200 ml del matraz y se procede a una segunda destilación, como si de un vino se tratase.
+
+El destilado recogido de esta segunda destilación está ya en condiciones para determinar su grado alcohólico por aerometría y efectuar la corrección a 20 °C.
+
+1.5 *Expresión de los resultados*.
+
+El resultado se puede expresar:
+
+‒ cc de alcohol absoluto/100 g de muestra
+
+1.6 *Referencias*.
+
+1\. Recueil des Méthodes Internationales d’Analyse des vins O.I.V. 1969, A2 1-19.
+
+2\. De Bernardi, P.; García Viana, E. 1969. «Determinación de grado alcohólico de heces y lías». Estación Enológica de Requena.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1979/207/21118_5402560_image23.png)

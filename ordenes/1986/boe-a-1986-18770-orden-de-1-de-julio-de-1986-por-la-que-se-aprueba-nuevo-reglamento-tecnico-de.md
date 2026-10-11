@@ -1,0 +1,627 @@
+---
+title: "Orden de 1 de julio de 1986 por la que se aprueba nuevo Reglamento Técnico de Control y Certificación de Semillas de Remolacha"
+identifier: "BOE-A-1986-18770"
+eli: "https://www.boe.es/eli/es/o/1986/07/01/(3)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1986-07-01
+published: 1986-07-15
+in_force_from: 1986-07-16
+last_amended: 2022-08-16
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 168"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-18770"
+retrieved: 2026-10-11
+---
+
+# Orden de 1 de julio de 1986 por la que se aprueba nuevo Reglamento Técnico de Control y Certificación de Semillas de Remolacha
+
+Incluye la corrección de errores publicada en BOE núm. 103, de 30 de abril de 1987. [Ref. BOE-A-1987-10438](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10438).
+
+Ilustrísimo señor:
+
+La necesidad de adaptar la legislación específica relativa al control y certificación de semillas de remolacha a la Directiva del Consejo de la Comunidad Económica Europea 66/400, sobre la comercialización de semillas de remolacha, hace preciso modificar el actual Reglamento Técnico de Control y Certificación de Semillas de Remolacha, aprobado por Orden de 19 de julio de 1974.
+
+Por ello, este Ministerio, a propuesta de la Dirección General de la Producción Agraria, ha tenido a bien disponer:
+
+## Primero.
+
+Se aprueba el nuevo texto del Reglamento Técnico de Control y Certificación de Semillas de Remolacha, que figura como anejo único a la presente Orden.
+
+## Segundo.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo preceptuado en esta Orden y Reglamento anejo.
+
+## Tercero.
+
+La presente Orden entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Lo que comunico a V. I. para su conocimiento y efectos.
+
+Madrid, 1 de julio de 1986.
+
+ROMERO HERRERA
+
+Ilmo. Sr. Director general de la Producción Agraria.
+
+## Reglamento Técnico de Control y Certificación de Semillas de Remolacha
+
+I. ESPECIES SUJETAS AL REGLAMENTO TECNICO
+
+Quedan incluidas en el ámbito de aplicación de este Reglamento Técnico las semillas de remolacha azucarera y de remolacha forrajeras de la especie Beta vulgaris L.
+
+Solamente podrá denominarse semilla de remolacha aquella que proceda de cultivos controlados por los Servicios oficiales correspondientes y que haya sido obtenida según las disposiciones de este Reglamento; de la Ley 11/1971, de 30 de marzo, sobre semillas y plantas de vivero; del Decreto 3767/1972, de 23 de diciembre, por el que se aprueba el Reglamento General sobre Producción de Semillas y Plantas de Vivero, y de la Orden de 26 de julio de 1973, por la que se aprueba el Reglamento General de Control y Certificación de Semillas y Plantas de Vivero, y modificaciones posteriores, así como la Orden de 23 de mayo de 1986.
+
+También podrá recibir la denominación de «semilla» la importada que cumpla los correspondientes requisitos legales.
+
+II. DEFINICIONES, CATEGORIAS DE SEMILLAS Y SEMILLAS ESPECIALES
+
+1\. Definiciones
+
+Glomérulo.–Fruto natural de la especie.
+
+Semillas.–Nombre que, por extensión, recibe el glomérulo de la remolacha, sea monospermo o polispermo, de acuerdo con el número 4 del Reglamento General de Control y Certificación de Semillas y Plantas de Vivero.
+
+2\. Categorías
+
+Se admiten las siguientes categorías de semillas:
+
+Material parental o de partida.
+
+Semilla de prebase (generaciones anteriores a semilla base).
+
+Semilla de base.
+
+Semilla certificada.
+
+3\. Calificación de las semillas
+
+3.1 Cariológica:
+
+Semillas diploides.–Son las pertenecientes a un lote que contenga, como mínimo, un 85 por 100 de semillas con embriones diploides.
+
+Semillas triploides.–Son las obtenidas por cruzamientos de plantas de variedades diploides y tetraploides, pertenecientes a un lote que contenga como mínimo un 75 por 100 de semillas con embriones triploides.
+
+Semillas tetraploides.–Son las pertenecientes a un lote que contenga como mínimo un 85 por 100 de semillas con embriones tetraploides.
+
+Semillas poliploides.–Son las mezclas de semillas diploides, triploides y tetraploides, a las cuales las definiciones anteriores no son aplicables.
+
+3.2 Por número de gérmenes:
+
+Semillas monogérmenes.–Son los glomérulos genéticamente monogérmenes.
+
+Semillas multigérmenes.–Todas las demás semillas naturales.
+
+3.3 Por preparaciones especiales:
+
+Semillas de precisión (monogérmenes técnicas).–Son las procedentes de glomérulos polispermos que después de un proceso de elaboración presentan un porcentaje de semillas germinadas que no originen más que una sola plántula, superior al mínimo indicado en el anejo II, y están destinadas a las sembradoras de precisión.
+
+Semillas calibradas.–Son las definidas únicamente por su calibre.
+
+Semillas pildoradas o recubiertas.–Son las procedentes de glomérulos de cualquier clase recubiertos por un material inerte. Esta materia inerte puede también contener, eventualmente, productos coadyuvantes y protectores.
+
+III. VARIEDADES COMERCIALES ADMISIBLES PARA LA CERTIFICACION
+
+La producción de semilla de remolacha azucarera y forrajera se limitará a aquellas variedades incluidas en las listas de variedades comerciales publicadas por el Ministerio de Agricultura, Pesca y Alimentación, exceptuando la semilla de aquellas variedades que se destinen exclusivamente a la exportación.
+
+IV. PRODUCCION DE SEMILLA
+
+1\. Zona de producción
+
+La producción de semilla de remolacha azucarera y forrajera se llevará a efecto en zonas geográficas autorizadas por el Ministerio de Agricultura.
+
+2\. Requisitos generales de los procesos de producción
+
+Los campos de producción de semilla de remolacha han de reunir los requisitos que figuran en el anejo I, con las siguientes condiciones:
+
+2.1 Estado de los cultivos: El estado de los cultivos deberá, ser tal que permita el control de la identidad, pureza varietal y estado sanitario.
+
+2.2 Tamaño mínimo de las parcelas de portagranos:
+
+No existirá limitación en el tamaño de las parcelas dedicadas a la producción de semilla de base o generaciones anteriores, así como tampoco para las parcelas de producción de semilla certificada de variedades de reciente introducción, siempre que por cada productor no se siembren de cada una de ellas más de dos parcelas diferentes en una misma zona.
+
+En casos justificados por los Servicios oficiales de control correspondiente se admitirán superficies menores a las indicadas en el anejo I.a).
+
+2.3 Cultivos anteriores: No podrán sembrarse parcelas para la producción de semilleros y portagranos de semillas de remolacha azucarera y forrajera que en las dos campañas anteriores hayan mantenido cultivos de Beta vulgaris L.
+
+2.4 Aislamientos: Las distancias mínimas se fijan en el anejo I.b).
+
+2.5 Presencia de plantas del género Beta: El porcentaje máximo de impurezas será del 1 por 100, considerando como impurezas las plantas de otras especies o subespecies, los híbridos naturales con otra subespecie y las plantas claramente fuera de tipo. A estos efectos se considerará:
+
+Otras especies del género Beta: Beta marítima.
+
+Subespecies de la especie Beta vulgaris:
+
+Remolacha azucarera.
+
+Remolacha forrajera.
+
+Remolacha de mesa y acelga.
+
+2.6 Métodos de cultivo: Se podrá seguir el método de siembra directa o el empleo de semilleros para obtención de plantones para su posterior trasplante al terreno de asiento.
+
+2.7 Inspección de cultivos:
+
+Para la semilla de prebase y base se realizarán dos inspecciones oficiales en campo: una en los semilleros y otra en los cultivos portagranos.
+
+Para la semilla certificada se realizará, al menos, una inspección oficial en el momento apropiado sobre los cultivos portagranos.
+
+En caso de que, tras las inspecciones oficiales de campo, siguiera habiendo dudas sobre la identidad varietal de las semillas, la autoridad de certificación podrá utilizar, para el examen de dicha identidad, una técnica bioquímica o molecular reconocida internacionalmente y reproducible, de conformidad con las normas internacionales aplicables.
+
+2.8 Eliminación de las parcelas: Será causa de eliminación total de las parcelas destinadas a la obtención de semilla de prebase, base y certificada la presencia de enfermedades transmisibles por semilla y la proximidad, a distancias inferiores a las señaladas en el anejo I de este Reglamento, de otras especies o variedades con las que puedan cruzarse, salvo el caso de que se disponga de métodos artificiales de aislamiento que, a juicio de los Servicios oficiales de control correspondientes, impidan la fecundación con polen extraño.
+
+2.9 Otros requisitos:
+
+Cada agricultor-colaborador sólo podrá cultivar y producir semilla de una variedad en una misma finca o en fincas diferentes de su propiedad en cada zona.
+
+En el caso de que en una parcela dedicada a la obtención de semilla se sobrepasaran los limites máximos de plantas fuera de tipo, espigadas prematuramente o enfermas, indicadas en el anejo I.c) de este Reglamento, y siempre que la observación se haga antes de la floración, se dará un plazo para la eliminación de dichas plantas hasta reducir su porcentaje a los límites antes mencionados.
+
+En el caso de que la observación se hiciera cuando ya hubiese comenzado la floración, el productor dará cuenta de ello al Servicio oficial de control correspondiente, quien podrá ordenar la destrucción de la cosecha y, en su caso, la de la semilla que de ella se obtuviera.
+
+El productor es responsable en todo momento de que sus cultivos para la obtención de semilla alcancen los mínimos de calidad exigidos en este Reglamento y, por tanto, deben disponer de un sistema de inspección de los mismos, en especial de los contratados con agricultores-colaboradores, para garantizar la observación de las normas dictadas.
+
+3\. Requisitos especiales para la producción de semilla de base
+
+3.1 Métodos de conservación de una variedad comercial:
+
+El método para la conservación de una variedad de obtentor será el que figure en el Registro de Variedades Comerciales de Plantas.
+
+El método a seguir para la conservación de una variedad de obtentor no conocido ha de apoyarse en el mantenimiento de las distintas familias que se utilicen para constituir la variedad, según las normas de selección admitidas generalmente para la especie.
+
+En cualquier caso, el número máximo de generaciones a partir del material parental hasta alcanzar la semilla de base será de cuatro.
+
+4\. Requisitos de las semillas
+
+Las semillas de los distintos grupos, categorías y calificaciones han de cumplir los requisitos que se señalan en el anexo II.
+
+5\. Comunicaciones de los productores a los Servicios oficiales de control
+
+IV.5.1 Declaraciones de cultivo: Las declaraciones de cultivo se efectuarán de acuerdo con el punto 12 del Reglamento General de Control y Certificación de Semillas y Plantas de Vivero, en el modelo que se establezca, y tendrán que obrar en poder de los Servicios oficiales de control correspondientes dentro de los treinta días posteriores a la terminación de las siembras o trasplantes y como máximo en las fechas siguientes:
+
+Semilleros: Antes del 1 de octubre de cada campaña.
+
+Siembras directas: Antes del 30 de octubre.
+
+Cultivos de portagranos: Antes del 31 de mayo.
+
+Cualquier modificación de las declaraciones de cultivo se comunicará en el plazo máximo de veinte días de haberse producido.
+
+> Se modifica el punto 2.7 por el art. 7.1 de la Orden APA/800/2022, de 5 de agosto. [Ref. BOE-A-2022-13835](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13835)
+
+> Redactado el apartado IV.5 conforme a la corrección de errores publicada en BOE núm. 103, de 30 de abril de 1987. [Ref. BOE-A-1987-10438](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10438).
+
+V. PRECINTADO DE LAS SEMILLAS
+
+1\. Peso de los lotes
+
+El peso máximo de cada lote de semillas de remolacha azucarera y forrajera será de 20.000 kilogramos admitiéndose una tolerancia del 5 por 100.
+
+2\. Normalización de capacidades de los envases
+
+Excepto en el caso de emplearse contenedores, los envases en que vayan a comercializarse las semillas de remolacha azucarera y forrajera deberán salir del comercio con las capacidades que se indican a continuación:
+
+Remolacha azucarera: 1 kilogramo, 2,5 kilogramos, 10 kilogramos, 25 kilogramos y 50 kilogramos.
+
+Remolacha forrajera: 100 gramos, 250 gramos, 500 gramos, 1 kilogramo, 5 kilogramos, 10 kilogramos y 25 kilogramos.
+
+En el caso de semillas monogérmenes y de precisión se autoriza el envasado en unidades de 100.000 glomérulos.
+
+3\. Toma de muestras
+
+El peso mínimo de cada muestra oficial será de 500 gramos.
+
+4\. Duración de la validez del precintado
+
+Los lotes certificados y precintados tendrán una validez máxima de dos años desde la fecha de precintado. Pasado este plazo, los lotes deberán anualmente ser objeto de nuevo análisis de germinación, previa toma oficial de muestras.
+
+5\. Para las semillas de remolacha será de aplicación lo dispuesto en los apartados 26a, 26b y 26c del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, referente a semillas no certificadas definitivamente, y sólo en los casos en que procedan de la multiplicación de semillas de las categorías prebase o base.
+
+> Se añade el apartado 5 por el apartado 8.1 de la Orden de 16 de julio de 1990. [Ref. BOE-A-1990-18972](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-18972).
+
+> Se modifica el art. 1 por el apartado 1 de la Orden de 18 de noviembre de 1988. [Ref. BOE-A-1988-28030](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-28030).
+
+VI. ENSAYOS DE POSCONTROL
+
+Todo productor ha de sembrar en campos de postcontrol las maestras correspondientes a un 25 por 100 de los lotes de semillas precintadas con categoría de certificada.
+
+El Ministerio de Agricultura, Pesca y Alimentación dictará las normas a seguir para la realización de los ensayos oficiales de postcontrol de ámbito nacional, con objeto de verificar el cumplimiento de los requisitos especificados en este Reglamento, para lo cual se podrá tomar muestras oficiales en cualquier fase de los procesos de producción, acondicionamiento, conservación y comercialización de las semillas.
+
+Las semillas que se importen podrán ser igualmente objeto de postcontrol.
+
+> Se modifica por el art. 7.2 de la Orden APA/800/2022, de 5 de agosto. [Ref. BOE-A-2022-13835](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13835)
+
+VII. PRODUCTORES DE SEMILLAS DE REMOLACHA
+
+1\. Categorías de productor:
+
+– Productor mantenedor.
+
+– Productor multiplicador.
+
+– Productor procesador.
+
+2\. Requisitos para ser productor:
+
+Los productores de semillas de remolacha deberán, además de cumplir lo especificado en el artículo 13 del Real Decreto 1054/2021, de 30 de noviembre, por el que se establecen y regulan el Registro de operadores profesionales de vegetales, las medidas a cumplir por los operadores profesionales autorizados a expedir pasaportes fitosanitarios y las obligaciones de los operadores profesionales de material vegetal de reproducción, y se modifican diversos reales decretos en materia de agricultura, tener a su disposición las instalaciones necesarias para la manipulación anual, como mínimo, de 1.000 toneladas de semilla de remolacha azucarera o de 200 toneladas de semilla de remolacha forrajera, así como de las instalaciones de laboratorio adecuadas para controlar esta producción.
+
+> Se modifica por el art. 7.3 de la Orden APA/800/2022, de 5 de agosto. [Ref. BOE-A-2022-13835](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13835)
+
+VIII. ETIQUETAS OFICIALES
+
+En las etiquetas oficiales de precintado deberá figurar, además de los datos que se exigen en el punto 21 del Reglamento General de Control y Certificación de Semillas y Plantas de Vivero, la indicación de monogermen, en el caso de semillas monogérmenes; la indicación de precisión, si se trata de este tipo de semillas, y el calibre, cuando se trate de semillas calibradas e indicación de si se trata de remolacha azucarera o remolacha forrajera.
+
+> Se añade el párrafo último por el apartado 8.2 de la Orden de 16 de julio de 1990. [Ref. BOE-A-1990-18972](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-18972).
+
+IX. COMERCIALIZACION
+
+1\. Reenvasado
+
+Los productores podrán reenvasar semilla de categoría base o certificada de su propia producción en pequeños envases de capacidades iguales o inferiores a las que figuran a continuación, sin que se proceda a un nuevo precintado oficial, ajustándose siempre a lo dispuesto en el apartado V.2 sobre normalización de capacidad de los envases:
+
+Semillas monogérmenes o de precisión: 2,5 kilogramos o 100.000 glomérulos, excluyendo en el peso los pesticidas granulados, sustancias de pildorado u otros aditivos sólidos.
+
+Otras semillas que no sean monogérmenes o de precisión: 10 kilogramos, excluyendo en el peso los pesticidas granulados, sustancias de pildorado y otros aditivos sólidos.
+
+A este efecto, los productores deberán colocar en el envase, además de la etiqueta del productor, de acuerdo con lo indicado en el anexo III, un boletín numerado que será facilitado por el Servicio oficial de control correspondiente, con las siguientes indicaciones:
+
+INSPV-España.
+
+Reenvasado de semilla ***certificada.***
+
+Número de control.
+
+Peso del envase.
+
+Trimestralmente los productores deberán comunicar a sus respectivos Servicios oficiales de control los reenvasados realizados en cada uno de sus almacenes, en el modelo que se les facilite.
+
+El número de boletines utilizados en los reenvasados será justificado mediante entrega de las etiquetas oficiales del precintado original, que se adjuntará a la comunicación trimestral sobre reenvasados.
+
+> Se modifica el párrafo primero y se suprime el inciso destacado del párrafo segundo del apartado 1 por el art. 2.1 y .2 del Real Decreto 323/2000, de 3 de marzo. [Ref. BOE-A-2000-4333](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4333).
+
+## ANEJO I — Requisitos generales de los procesos de producción
+
+a) Tamaño mínimo de las parcelas para la producción de semilla certificada:
+
+| Clase | Cultivo directo<br>–<br>hectáreas | Cultivo<br>por colaboración<br>–<br>hectáreas |
+|---|---|---|
+| Remolacha azucarera | 2 | 0,5 |
+| Remolacha forrajera | 0,5 | 0,5 |
+
+b) Aislamientos mínimos:
+
+| Cultivo | Distancia mínima <br>- <br>Metros |
+|---|---|
+| 1. Para la producción de semilla de base: |  |
+| De todo foco de polen de género Beta | 1.000 |
+| 2. Para la producción de semilla certificada: |  |
+| a) De remolacha azucarera: |  |
+| De todo foco de polen de género Beta no incluido a continuación | 1.000 |
+| Cuando el polinizador o uno de los polinizadores previstos sea diploide, de los focos de polen de la remolacha azucarera tetraploide | 600 |
+| Cuando el polinizador previsto sea exclusivamente tetraploide, de los focos de polen de remolacha azucarera diploide | 600 |
+| De focos de polen de remolacha azucarera cuya ploidía se desconozca | 600 |
+| Cuando el polinizador o uno de los polinizadores previstos sea diploide, de los focos de polen de remolacha azucarera diploide | 300 |
+| Cuando el polinizador previsto sea exclusivamente tetraploide, de los focos de polen de remolacha azucarera tetraploide | 300 |
+| Entre dos parcelas de producción de semillas de remolacha azucarera en que no se utilice la esterilidad masculina | 300 |
+| b) De remolacha forrajera: |  |
+| De todo foco de polen del género Beta no incluido a continuación | 1.000 |
+| Cuando el polinizador o uno de los polinizadores previstos sea diploide, de focos de polen de la remolacha forrajera tetraploide | 600 |
+| Cuando el polinizador previsto sea exclusivamente tetraploide, de focos de polen de remolacha forrajera diploide .: | 600 |
+| De focos de polen de remolacha forrajera cuya ploidía se desconozca | 600 |
+| Cuando el polinizador o uno de los polinizadores previstos sea diploide, de focos de polen de remolacha forrajera diploide | 300 |
+| **(Suprimido)** |  |
+| Cuando el polinizador previsto sea exclusivamente tetraploide, de los focos de polen de remolacha forrajera tetraploide | 300 |
+| Entre dos parcelas de producción de semilla de remolacha forrajera en que no se utilice la esterilidad masculina | 300 |
+
+Dichas distancias podrán no observarse cuando exista una protección suficiente contra cualquier polinización extraña no deseable. No es necesario el aislamiento entre cultivos de semillas que utilicen el mismo polinizador.
+
+c) Máximos admisibles de plantas espigadas prematuramente y plantas enfermas:
+
+<table>
+<tbody>
+<tr>
+<th rowspan="2">
+<p>Categoría de la semilla</p>
+</th>
+<th colspan="2">
+<p>Plantas espigadas prematuramente</p>
+<p>–</p>
+<p>Porcentaje</p>
+</th>
+<th colspan="2">
+<p>Plantas enfermas</p>
+<p>–</p>
+<p>Porcentaje</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>Semillero</p>
+</th>
+<th>
+<p>Portagranos</p>
+</th>
+<th>
+<p>Semillero</p>
+</th>
+<th>
+<p>En parcelas portagranos</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>Prebase y base</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Certificada</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+d) Enfermedades transmisibles a que se refiere el apartado anterior.
+
+1\. Phoma betae (Oud) Frank (Pleospora betae)-Björling.
+
+2\. Amarillez (Yellow virus). Raza 41.
+
+> Se suprime el párrafo sexto del apartado b).2.b) por el apartado 8.3 de la Orden de 16 de julio de 1990. [Ref. BOE-A-1990-18972](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-18972).
+
+> Se modifica el apartado b) por el apartado 2 de la Orden de 18 de noviembre de 1988. [Ref. BOE-A-1988-28030](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-28030).
+
+> Redactado el apartado c) conforme a la corrección de errores publicada en BOE núm. 103, de 30 de abril de 1987. [Ref. BOE-A-1987-10438](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10438).
+
+## ANEJO II — Requisitos de las semillas de remolacha
+
+<table>
+<tbody>
+<tr>
+<th rowspan="2">
+<p> </p>
+</th>
+<th rowspan="2">
+<p>Pureza específica mínima</p>
+<p>–</p>
+<p>Porcentaje</p>
+<p>en peso</p>
+</th>
+<th rowspan="2">
+<p>Máximo otras semillas</p>
+<p>–</p>
+<p>Porcentaje en peso</p>
+</th>
+<th colspan="2">
+<p>Germinación mínima</p>
+<p>–</p>
+<p>Porcentaje</p>
+</th>
+<th colspan="2">
+<p>Monogernia</p>
+<p>–</p>
+<p>Porcentaje (1)</p>
+</th>
+<th rowspan="2">
+<p>Humedad máxima</p>
+<p>–</p>
+<p>Porcentaje</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>Remolacha azucarera</p>
+</th>
+<th>
+<p>Remolacha forrajera</p>
+</th>
+<th>
+<p>Remolacha azucarera</p>
+</th>
+<th>
+<p>Remolacha forrajera</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>Semillas monogérmenes</p>
+</td>
+<td>
+<p>97</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>73</p>
+</td>
+<td>
+<p>90</p>
+</td>
+<td>
+<p>90</p>
+</td>
+<td>
+<p>15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semillas de precisión de variedades con más de un 85 por 100 de diploides</p>
+</td>
+<td>
+<p>97</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+<td>
+<p>75</p>
+</td>
+<td>
+<p>73</p>
+</td>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>58</p>
+</td>
+<td>
+<p>15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Otras semillas de precisión</p>
+</td>
+<td>
+<p>97</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+<td>
+<p>75</p>
+</td>
+<td>
+<p>73</p>
+</td>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>63</p>
+</td>
+<td>
+<p>15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semillas multigérmenes de variedades con más de un 85 por 100 de diploides</p>
+</td>
+<td>
+<p>97</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+<td>
+<p>73</p>
+</td>
+<td>
+<p>73</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Otras semillas multigérmenes</p>
+</td>
+<td>
+<p>97</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+<td>
+<p>68</p>
+</td>
+<td>
+<p>68</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>15</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1) El porcentaje de glomérulos que den tres o más plántulas no debe sobrepasar un 5, calculado sobre los glomérulos germinados:
+
+El porcentaje en peso de materia inerte no sobrepasará el 1,0 en el caso de las ''semillas de base'', ni el 0,5 en el de las semillas de la categoría ''semillas certificadas''. Cuando se trate de semillas recubiertas de ambas categorías, y sin perjuicio del examen oficial de su pureza especifica mínima, el cumplimiento de los requisitos indicados se comprobará examinando muestras de semillas transformadas que hayan sido parcialniente descascarilladas (pulidas o trituradas), y que aun no se hayan recubierto, tomadas oficialmente.
+
+> Se añade el párrafo último por el apartado 3 de la Orden de 18 de noviembre de 1988. [Ref. BOE-A-1988-28030](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-28030).
+
+## ANEJO III — Indicación de la etiqueta del productor o inscripción en el envase (pequeños envases CE)
+
+1\. Pequeños envases CE.
+
+2\. Nombre y dirección del productor o su marca de identificación.
+
+3\. Remolacha azucarera o forrajera.
+
+4\. Variedad indicada al menos en caracteres latinos.
+
+5\. Categoría.
+
+6\. Número de lote.
+
+7\. Peso neto o bruto, con indicación de cuál se trata o especificación del número de glomérulos.
+
+Datos complementarios:
+
+Cuando se trate de semillas monogérmenes, se indicará en la etiqueta «Semilla monogermen».
+
+Cuando se trate de semilla de precisión, se indicará en la etiqueta «Semilla de precisión».
+
+Cuando se trate de semillas calibradas, se indicará el calibre.
+
+Cuando se indique el peso y se empleen pesticidas granulados, sustancias para el pildorado u otros aditivos sólidos, se indicará la naturaleza del aditivo, así como la relación aproximada entre el peso de glomérulos o de semillas puras y el peso total.
+
+Cuando las semillas hayan sido tratadas con algún producto, se indicará la materia activa del mismo y su posible toxicidad.
+
+> Se modifica el apartado 5 por el art. 2.3 del Real Decreto 323/2000, de 3 de marzo. [Ref. BOE-A-2000-4333](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4333).
+
+> Se modifica el título y el apartado 1 por el art. único de la Orden de 18 de julio de 1997. [Ref. BOE-A-1997-16798](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16798).
+
+> Téngase en cuenta para su aplicación la disposición transitoria.
+
+> Se modifica el apartado 4 por el apartado 8.4 de la Orden de 16 de julio de 1990. [Ref. BOE-A-1990-18972](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-18972).
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 103, de 30 de abril de 1987. [Ref. BOE-A-1986-18770](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-18770).

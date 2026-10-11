@@ -1,0 +1,685 @@
+---
+title: "Orden de 20 de mayo de 1969 por la que se aprueba la adaptación de las ordenanzas técnicas y normas constructivas, aprobadas por Ordenes de 12 de julio de 1955 y 22 de febrero de 1968 al texto refundido y revisado de la Legislación de Viviendas de Protección Oficial y su Reglamento"
+identifier: "BOE-A-1969-622"
+eli: "https://www.boe.es/eli/es/o/1969/05/20/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de la Vivienda"
+date: 1969-05-20
+published: 1969-05-23
+in_force_from: 1969-06-12
+last_amended: 1981-09-07
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 123"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1969-622"
+retrieved: 2026-10-11
+---
+
+# Orden de 20 de mayo de 1969 por la que se aprueba la adaptación de las ordenanzas técnicas y normas constructivas, aprobadas por Ordenes de 12 de julio de 1955 y 22 de febrero de 1968 al texto refundido y revisado de la Legislación de Viviendas de Protección Oficial y su Reglamento
+
+Incluye corrección de erratas publicada en BOE núm. 132, de 3 de junio de 1969. [Ref. BOE-A-1969-40063](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-40063)
+
+Ilustrísimo señor:
+
+La entrada en vigor de la Ley y Reglamento de «Viviendas de Protección Oficial» implica la necesaria adaptación a sus preceptos de las ordenanzas técnicas y normas constructivas, aprobadas por Orden ministerial de 12 de julio de 1955 y modificadas por la de 22 de febrero de 1968. Esta labor en extremo compleja y, por tanto, lenta, al suponer una verdadera codificación de las diversas normas sobre la materia, exige el transcurso de un período de tiempo, imprescindible para su acertada elaboración.
+
+No obstante, la publicación de la Orden ministerial de 26 de abril pasado, por la que se fija el número de «Viviendas de Protección Oficial» que han de ser iniciadas en este año y que han de estar sometidas plenamente a las nuevas disposiciones dictadas, aconseja que, en espera de poder llevar a feliz término aquella tarea, se practiquen de manera provisional las imprescindibles adaptaciones que permitan disponer de un texto armonizado debidamente con el del Reglamento para la promoción que se inicie en el programa de construcción de viviendas de referencia.
+
+Por otra parte, parece de utilidad que la adaptación que con carácter provisional se realiza por esta Orden se contraste con la realidad práctica y la experiencia obtenida pueda ser recogida en la elaboración de las ordenanzas definitivas.
+
+En su virtud, he tenido a bien disponer:
+
+### Primero.
+
+Se aprueba el texto que se inserta a continuación de esta Orden y que se denominará «Ordenanzas Provisionales de Viviendas de Protección Oficial», en que se recoge la adaptación al texto refundido y revisado de la legislación de Viviendas de Protección Oficial y de su Reglamento, de las Ordenanzas técnicas y Normas constructivas para Viviendas de Renta Limitada.
+
+### Segundo.
+
+Las «Ordenanzas provisionales de Viviendas de Protección Oficial» serán de aplicación a las que se construyan al amparo del texto refundido y revisado de la legislación de Viviendas de Protección Oficial y de su Reglamento, aprobado por Decreto 2114/1968, de 24 de julio, que se inicien dentro del programa de construcción para el año 1969, aprobado por Orden ministerial de 26 de abril pasado y de los que en lo sucesivo se aprueben.
+
+Lo que comunico a V. I. para su conocimiento y efectos.
+
+Dios guarde a V. I. muchos años.
+
+Madrid, 20 de mayo de 1969.
+
+MARTÍNEZ SÁNCHEZ-ARJONA
+
+Ilmo. Sr. Director general del Instituto Nacional de la Vivienda.
+
+## ORDENANZAS PROVISIONALES DE VIVIENDAS DE PROTECCIÓN OFICIAL
+
+## ORDENANZA 1.ª — Justificación urbanística de los terrenos.
+
+Toda solicitud de construcción de Viviendas de Protección Oficial se formulará de acuerdo con el artículo 76 del Reglamento e incluirá la justificación urbanística de los terrenos que permita juzgar sobre la conveniencia de su edificación.
+
+Si los terrenos sobre los que se proyecta la construcción de viviendas no tienen resuelto en el planeamiento municipal sus alineaciones, rasantes y ordenanzas se acompañará informe de Arquitecto, en el que se determinará la disposición de los bloques de edificación, el señalamiento de la utilización de los espacios no edificados y la forma de dotar los servicios urbanísticos de que carezca el terreno.
+
+> Téngase en cuenta que esta ordenanza se ve afectada por las normas de planeamiento del Texto Refundido (arts. 12 a 15) según establece la tabla de vigencias de disposiciones afectadas por la Ley 19/1975, de 2 de mayo, de reforma de la Ley sobre Régimen del Suelo y Ordenación Urbana, publicada por el Real Decreto 1346/1976, de 9 de abril, por el que se aprueba el texto refundido de la Ley sobre Régimen del Suelo y Ordenación Urbana. [Ref. BOE-A-1976-11506](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-11506)
+
+## ORDENANZA 2.ª — Proyectos de viviendas
+
+Los proyectos de viviendas, de conformidad con lo dispuesto en el artículo 79 del Reglamento de Viviendas de Protección Oficial, contendrán los siguientes documentos:
+
+1\. Memoria descriptiva.
+
+Deberá sistematizarse en las partes siguientes:
+
+a) Composición. Ambientación y composición urbanística. Programa de necesidades. Estudio funcional. Criterios estéticos. Ordenanzas de aplicación, etc.
+
+b) Estudio técnico. Justificación del sistema estructural y constructivo. Elección de materiales. Cálculo de la estructura. Estudio de los elementos de las instalaciones, etc.
+
+2\. Plano de situación, a escala mínima 1:1.000, que habrá de coincidir con el «unido al acta notarial a que se refiere el apartado c) del artículo 79 del Reglamento.
+
+3 Planos de todas las plantas, alzados y secciones a escala 1:50, con la indicación de la colocación de muebles y sentido de giro de las puertas en cada tipo de viviendas que comprenda el proyecto.
+
+Sección constructiva de un trozo de fachada en toda su altura, a escala 1:20, que permita apreciar con toda claridad el sistema de construcción de cada tipo de edificio.
+
+Planos de instalaciones y estructura de cada una de las plantas diferentes, como mínimo a escala 1:100.
+
+En caso de grupos de viviendas integradas en varios edificios, planos del conjunto a escala mínima de 1:200, en los que se especifique: replanteo, vías de circulación y accesos, redes de alcantarillado, de abastecimiento de agua potable y de riego, de energía eléctrica y perfiles longitudinales y transversales que indiquen los movimientos de tierras, así como los planos de detalle necesarios para la completa definición de estas obras, a escala 1:20.
+
+4\. Pliego de condiciones.
+
+Comprenderá todas las prescripciones sobre medidas, calidades y otras características de los materiales y de la ejecución que no pudiendo ser consignadas en los planos es preciso expresar para la completa definición de cada elemento.
+
+En este documento se incluirán las normas facultativas, económicas y jurídicas que sirvan, en su caso, de base al contrato de obras.
+
+5\. Presupuesto de ejecución material, tal como se define en el apartado f) del artículo 5.° del Reglamento.
+
+Se formularán por separado los presupuestos de ejecución, material de edificación, instalaciones especiales y obras de urbanización.
+
+6\. Presupuesto general, tal como se define en el apartado g) del artículo 5.° del Reglamento.
+
+Se formularán por separado los presupuestos generales de edificación, instalaciones especiales y obras de urbanización.
+
+7\. Presupuesto protegible, tal y como se define en el apartado h) del artículo 5.° del Reglamento.
+
+8\. Pliego de características resumidas, en modelo oficial.
+
+9\. Cuestionario de datos estadísticos, en modelo oficial.
+
+10\. Estudio económico, que abarcará los siguientes puntos: Coste y aprovechamiento del solar. Superficies edificada y útil. Análisis de costes. Costes por unidad de superficie. Financiación. Rentabilidad, con expresión, en su caso, del coste de mantenimiento de los servicios, etc.
+
+## ORDENANZA 3.ª — Proyectos de urbanización
+
+De conformidad con lo previsto en el artículo 79 del Reglamento, los proyectos de viviendas vendrán acompañados del correspondiente proyecto de urbanización si fuera necesario.
+
+Los proyectos de urbanización comprenderán los apartados siguientes: Movimiento de tierras, abastecimiento de aguas, red de desagüe, alumbrado público, pavimentaciones y zonas verdes. Estos proyectos constarán de Memoria, planos, presupuesto, con estado de mediciones suficientemente detallado para justificar clase y cuantía de los materiales que se van a emplear, pliego de condiciones facultativas y económicas y ordenanzas de uso.
+
+> Téngase en cuenta que esta ordenanza se ve afectada por las normas de planeamiento del Texto Refundido (arts. 12 a 15) según establece la tabla de vigencias de disposiciones afectadas por la Ley 19/1975, de 2 de mayo, de reforma de la Ley sobre Régimen del Suelo y Ordenación Urbana, publicada por el Real Decreto 1346/1976, de 9 de abril, por el que se aprueba el texto refundido de la Ley sobre Régimen del Suelo y Ordenación Urbana. [Ref. BOE-A-1976-11506](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-11506)
+
+## ORDENANZA 4.ª — Presentación de documentos
+
+La documentación que acompaña a las solicitudes iniciales se presentará por duplicado.
+
+La correspondiente a los proyectos anteriormente reseñados, que se acompaña a las solicitudes de calificación provisional, se presentará por triplicado, doblada a tamaño UNE A-4 y encarpetada, devolviéndose al interesado uno de los ejemplares con el sello y la fecha de la aprobación por el Instituto Nacional de la Vivienda.
+
+## ORDENANZA 5.ª — Aptitud de los terrenos en el medio urbano
+
+No son terrenos aptos para la construcción de Viviendas de Protección Oficial los siguientes:
+
+1.º Los que no tengan resuelta la dotación fundamental de los servicios urbanísticos, salvo que el promotor, de conformidad con el artículo 76 del Reglamento, se comprometa a incluirlos en el proyecto e instalarlos antes de solicitar la calificación definitiva.
+
+Cuando se trate de proyectos que se ejecuten por fases, los promotores se atendrán a lo dispuesto en el apartado i) del artículo 79 del Reglamento.
+
+2.º Los que no cumplan las distancias mínimas exigidas por el Reglamento de Industrias Molestas, Insalubres o Peligrosas o las Ordenanzas municipales en cuanto se refiere a este punto.
+
+3.º Los que, sumado a su valor el total del importe del presupuesto de las obras de urbanización, excedan de la cifra que resulte de multiplicar por el coeficiente 0,3 el presupuesto de ejecución material de las viviendas y demás edificaciones protegidas.
+
+Cuando se proyecten grupos no inferiores a 500 viviendas y las obras de urbanización del conjunto guarden la debida proporción con las edificaciones proyectadas, este coeficiente podrá ascender al 0,4.
+
+Si se justificase la necesidad de admitir como valor de los terrenos y obras de urbanización cantidad que sobrepase los límites establecidos en los párrafos anteriores, podrá aceptarse por el Ministro de la Vivienda, quien en este caso, a propuesta del Instituto Nacional de la Vivienda, resolverá también sobre la forma en que ha de financiarse el exceso de valor.
+
+## ORDENANZA 6.ª — Aptitud de los terrenos en el medio rural
+
+No son terrenos aptos para la construcción de Viviendas de Protección Oficial los siguientes:
+
+1.º Los que no tengan saneamiento natural para las aguas pluviales.
+
+2.º Los que disten menos de 100 metros de estercoleros comunales o menos de 250 metros de las estaciones de transformación de basuras, sea cual fuere su sistema, sin perjuicio de lo dispuesto en el Reglamento de Industrias Molestas, Insalubres o Peligrosas y en las Ordenanzas municipales.
+
+3.º Los que carezcan de la posibilidad de dotación de agua potable suficiente.
+
+4.º Los inmediatos a dunas o muédanos movedizos.
+
+5.º Las vías pecuarias.
+
+## ORDENANZA 7.ª — Terrenos situados en zonas de interés histórico-artístico o arqueológico
+
+No son terrenos aptos para la construcción de Viviendas de Protección Oficial los que estén situados sobre yacimientos arqueológicos declarados de interés.
+
+Cuando se promuevan proyectos de viviendas en zonas declaradas de interés histórico-artístico será necesario para obtener la calificación provisional que el proyecto correspondiente esté aprobado por las autoridades competentes.
+
+## ORDENANZA 8.ª — Valoración de los terrenos
+
+Cuando fuera preciso acreditar, a petición de la Administración, el valor de los terrenos, el promotor lo justificará por cualquiera de los procedimientos siguientes:
+
+1.º Por la exhibición del documento público de compraventa, siempre que éste tenga más de dos años fecha y menos, de cinco.
+
+2.º Por el mismo procedimiento, cuando sea más antiguo, incrementado en un tanto por ciento equivalente al índice de coste de vida, según el Instituto Nacional de Estadística.
+
+3.º Por el precio de adquisición, en caso de que el cedente sea entidad de carácter público.
+
+4.º Por la valoración estimativa razonada, de acuerdo con las prescripciones de la Ley del Suelo de 12 de mayo de 1956 y disposiciones complementarias.
+
+## ORDENANZA 9.ª — Composición, programas y habitaciones de las viviendas
+
+La vivienda familiar constará, como mínimo, de una habitación capaz para estar, comer y cocinar, un dormitorio y un cuarto de aseo, compuesto de baño, lavabo e inodoro.
+
+En viviendas de cuatro dormitorios, como mínimo, existirán dos cuartos de aseo, uno de ellos completo y el otro con lavabo e inodoro.
+
+Las superficies útiles serán para cada tipo de vivienda según su número de dormitorios las siguientes:
+
+| Vivienda de | Superficie<br>útil mínima<br>(m<sup>2</sup>) | Superficie útil máxima<br>(m<sup>2</sup>) |
+|---|---|---|
+| Un dormitorio. | 40 | 70 |
+| Dos dormitorios. | 50 | 70 |
+| Tres dormitorios. | 60 | 90 |
+| Cuatro dormitorios. | 70 | 90 |
+
+Todos los dormitorios, así como la cocina, tendrán primeras luces al espacio abierto exterior o a patios interiores. La estancia tendrá vistas y recibirá iluminación del espacio abierto exterior o de patio de manzana, sean de uso público o privado.
+
+> Se modifica por el art. 1.A) de la Orden de 21 de febrero de 1981. [Ref. BOE-A-1981-5020](https://www.boe.es/buscar/doc.php?id=BOE-A-1981-5020)
+
+> Se modifica por el art. 1 de la Orden de 4 de mayo de 1970. [Ref. BOE-A-1970-527](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-527)
+
+> Redactado el párrafo 1º conforme a la corrección de erratas publicada en BOE núm. 132, de 3 de junio de 1969. [Ref. BOE-A-1969-40063](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-40063)
+
+## ORDENANZA 10.ª — Dependencias artesanas y agrarias
+
+El taller familiar artesano podrá componerse en la misma planta de la vivienda, siempre que la actividad que se desarrolle no sea ruidosa, incómoda ni peligrosa, de acuerdo con los reglamentos vigentes.
+
+La vivienda rural dispondrá de accesos distintos para las bestias y las personas y estarán separadas de aquélla las dependencias destinadas a cochiqueras, gallineros, conejeras, estercoleros y otros usos análogos.
+
+En los presupuestos se separará siempre la parte correspondiente a viviendas de las otras dependencias, cuyo presupuesto de ejecución material, de acuerdo con lo establecido en el apartado B) del artículo 7 del Reglamenta no deberá exceder de la mitad del importe del mismo presupuesto de la vivienda ni el coste del metro cuadrado construido excederá del aplicable a la vivienda.
+
+## ORDENANZA 11.ª — Altura de la edificación
+
+En la construcción de viviendas acogidas a los beneficios de la Ley de Viviendas de Protección Oficial regirán las Ordenanzas municipales, y si estas no existieran, se aplicarán los siguientes preceptos:
+
+1.º En calle con anchura de cinco o seis metros, se construirán casas de una sola planta.
+
+2.º En calles de seis a ocho metros de ancho, casas de dos plantas.
+
+3.º En calles con anchos superiores a ocho metros, casas de altura igual al ancho de la calle.
+
+4.º Las Comisiones Provinciales de Urbanismo deberán fijar los criterios que han de imperar cuando existan dudas en la aplicación de los preceptos anteriores, evitando los abusos que al amparo de Ordenanzas municipales incompletas se pretendan realizar.
+
+5.º Las alturas libres generales entre pavimento y techo acabado serán:
+
+<table>
+<thead>
+<tr>
+<th rowspan="2"> </th>
+<th colspan="2">Mínima</th>
+<th colspan="2">Máxima</th>
+</tr>
+<tr>
+<th>
+<p>Planta baja</p>
+<p>–</p>
+<p>Metros</p>
+</th>
+<th>
+<p>Otras plantas</p>
+<p>–</p>
+<p>Metros</p>
+</th>
+<th>
+<p>Planta baja</p>
+<p>–</p>
+<p>Metros</p>
+</th>
+<th>
+<p>Otras plantas</p>
+<p>–</p>
+<p>Metros</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Medio rural.</td>
+<td>2,50</td>
+<td>2,40</td>
+<td>3,00</td>
+<td>2,80</td>
+</tr>
+<tr>
+<td>Medio urbano.</td>
+<td>2,80</td>
+<td>2,40</td>
+<td>3,60</td>
+<td>3,00</td>
+</tr>
+</tbody>
+</table>
+
+Las viviendas situadas en planta baja podrán tener una altura libre igual a las de las situadas en las plantas superiores, elevando, como mínimo el nivel de su pavimento 30 centímetros con respecto al pavimento del portal.
+
+En vestíbulo, pasillos y cuartos de aseo, la altura libre mínima podrá ser de 2,20 metros; en las restantes habitaciones esta altura también puede permitirse, siempre que no sobrepase, como máximo, el 30 por 100 de la superficie útil de la habitación en la que se produzca la reducción de la altura mínima obligatoria.
+
+> Se modifica el apartado 5º del párrafo primero, por el art. 1.B) de la Orden de 21 de febrero de 1981. [Ref. BOE-A-1981-5020](https://www.boe.es/buscar/doc.php?id=BOE-A-1981-5020)
+
+> Téngase en cuenta que esta ordenanza se ve modificada por el art. 74 del texto refundido, según establece la tabla de vigencias de disposiciones afectadas por la Ley 19/1975, de 2 de mayo, de reforma de la Ley sobre Régimen del Suelo y Ordenación Urbana, publicada por el Real Decreto 1346/1976, de 9 de abril, por el que se aprueba el texto refundido de la Ley sobre Régimen del Suelo y Ordenación Urbana. [Ref. BOE-A-1976-11506](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-11506)
+
+> Se modifica por el art. 1 de la Orden de 4 de mayo de 1970. [Ref. BOE-A-1970-527](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-527)
+
+## ORDENANZA 12.ª — Ascensor
+
+La altura máxima permitida para viviendas sin ascensor será de 10,75 metros. La medida de esta altura se hará desde el nivel de la acera, en el eje del portal, al nivel del suelo de la última planta.
+
+Esta altura, de acuerdo con las alturas mínimas libres de planta que fijan estas Ordenanzas, permite la construcción de planta baja y tres planta más, o soluciones de porche, con altura mínima de 2,20 metros, liberando el suelo de edificación (salvo portales y arranque de ascensores), y cuatro plantas normales de viviendas.
+
+Como excepción, en viviendas del segundo grupo, tercera categoría, se autoriza la altura de 11,30 metros, medida en la misma forma que la anterior; esta altura permite la construcción de planta baja y cuatro plantas más.
+
+> Se modifica por el art. 1 de la Orden de 4 de mayo de 1970. [Ref. BOE-A-1970-527](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-527)
+
+## ORDENANZA 13.ª — Dimensiones de los patios
+
+En los edificios de viviendas con patios se cumplirán las exigencias que a continuación se exponen, sin perjuicio de que se cumplan las Ordenanzas Municipales de aplicación, cuando éstas superen a aquéllas.
+
+En los patios interiores, la distancia entre paramentos enfrentados estará condicionada por su altura H y el uso de las habitaciones que iluminan los huecos, de forma que:
+
+En patios interiores a los que den dormitorios se debe poder inscribir un círculo de diámetro 0,30 H y la superficie del patio habrá de ser igual o mayor a H<sup>2</sup>/8. Se fija un mínimo para luces rectas y diámetro de 3 metros y de 12 m<sup>2</sup> para la superficie, salvo en el caso de viviendas unifamiliares de una planta, en que los mínimos se reducen a 2 metros para las luces rectas y diámetro y 8 m<sup>2</sup> para la superficie.
+
+En patios interiores a los que den cocinas y no abran dormitorios se debe poder inscribir un círculo de diámetro 0,20 H y la superficie del patio habrá de ser igual o mayor a H<sup>2</sup>/10. Se mantienen los mínimos para luces rectas, diámetro y superficie de los patios a los que abran dormitorios.
+
+En patios interiores a los que no abran dormitorios ni cocinas se podrá inscribir un circulo de diámetro 0,15 H, y la superficie del patio habrá de ser igual o mayor a H<sup>2</sup>/20. Se fija un mínimo de 3 metros para luces rectas y diámetro y de 9 m<sup>2</sup> para la superficie.
+
+A efectos de determinar la dimensión de los patios interiores no se computarán como plantas los remates de la caja de escalera, ascensor y depósitos de agua, únicas edificaciones autorizadas a estos efectos y situadas por encima de la última planta de viviendas.
+
+Quedan exentas de las exigencias de la ordenanza decimotercera las viviendas que se construyan sobre solares entre muros medianeros o colindantes, en núcleos urbanos consolidados con Ordenanzas Municipales de Edificación en manzana cerrada, específicamente definidas como tales por la normativa municipal o con características propias de éstas: anillos cerrados de edificación, obligada alineación de las fachadas en la definición de las calles...
+
+Los patios abiertos a fachada cumplirán las siguientes condiciones: La longitud L del frente abierto no será inferior a 1/6 de la altura, con un mínimo de tres metros.
+
+La profundidad del patio abierto, medida normalmente al plano de la fachada, será, como máximo, igual a vez y media el frente abierto de fachada cuando al patio den dormitorios o estancias, y dos veces el frente abierto de fachada, cuando al patio den otras habitaciones que no sean dormitorios o estancias.
+
+No tendrán consideración de patio abierto a fachada aquellos retranqueos cuya profundidad, medida normalmente al plano de la fachada, no sea superior a 1,50 metros y siempre que en los planos laterales no abran huecos.
+
+La altura del patio se medirá desde el nivel del piso de las viviendas más bajas, cuyas piezas ventilen a él, hasta la línea de coronación superior de la fábrica.
+
+> Se modifica por el art. 1.C) de la Orden de 21 de febrero de 1981. [Ref. BOE-A-1981-5020](https://www.boe.es/buscar/doc.php?id=BOE-A-1981-5020)
+
+> Se modifica por el art. 1 de la Orden de 4 de mayo de 1970. [Ref. BOE-A-1970-527](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-527)
+
+## ORDENANZA 14.ª — Chimeneas de ventilación
+
+Se admiten las chimeneas de ventilación por colector general o unitario y conductos independientes, siempre que estén autorizados por las Ordenanzas municipales de construcción y reúnan las condiciones siguientes:
+
+a) Un solo colector debe servir a un máximo de siete plantas.
+
+b) Todos los conductos (colectores e individuales) deben ser totalmente verticales (no existir ningún desvío) y ser de materiales incombustibles.
+
+c) La sección mínima del colector debe ser de 400 centímetros cuadrados, y la de los conductos individuales, de 150 centímetros cuadrados.
+
+d) La longitud mínima del conducto individual desde la toma hasta su desembocadura en el colector general debe ser de dos metros.
+
+e) El entronque del conducto individual con el colectar general debe hacerse con un ángulo menor de 45°. Debe prohibirse la salida perpendicular al eje vertical del colector.
+
+f) El conducto individual sólo debe servir para la ventilación de un solo local. Cuando se precise ventilar por un mismo colector dos locales de una misma planta, deberá hacerse a través de dos conductos individuales independientes.
+
+g) La relación entre ambos lados del colector, caso de ser de sección rectangular, así como de los conductos individuales, será como máximo de 1:1,5. Se admiten también y se da preferencia a igualdad de sección a los conductos de sección circular.
+
+h) La sección útil del orificio de ventilación del local deberá ser, por lo menos, igual a la sección del conducto individual, y si lleva incluido un sistema de regulación por rejilla, en la posición de cierre debe quedar garantizada una abertura mínima permanente de 100 centímetros cuadrados de sección. Las rejillas deben tener sus lamas orientadas en el sentido de la circulación del aire.
+
+i) El orificio de ventilación del local se colocará a una altura sobre el solado de 2,20 metros como mínimo.
+
+j) Cada local ventilado debe estar dotado de una entrada inferior de aire de 200 centímetros cuadrados de sección como mínimo, situada a la menor altura posible.
+
+k) Debe prestarse especial atención a la salida exterior del colector. Esta salida se debe prolongar 0,40 metros por encima de la cumbrera o por encima de cualquier construcción situada a menos de ocho metros. En cubiertas planas o con ligera pendiente deberá prolongarse 1,20 metros por encima de su punto de arranque al exterior.
+
+La parte superior de la chimenea de ventilación debe coronarse con un aspirador estático.
+
+l) Tanto el colector como los conductos individuales deberán estar debidamente protegidos térmicamente del ambiente exterior para evitar pérdidas de temperatura que dificulten el tiro correcto de la chimenea.
+
+m) A un mismo colector no deberán acometer conductos individuales de ventilación y de salida de humos de combustión.
+
+n) Para que estos sistemas de ventilación puedan ser empleados en las Viviendas de Protección Oficial, los fabricantes tienen que solicitar de la E. X. C. O. los oportunos ensayos y la expedición de un certificado en el que conste el signo positivo de éstos y que el material ensayado cumple con las presentes normas.
+
+## ORDENANZA 15.ª — Orientaciones
+
+Salvo casos especiales, debidamente justificados, se intentará conseguir que las estancias estén orientadas hacia el Sur o hacia la más favorable de la localidad y de los terrenos de que se trate; el mayor número de dormitorios deberán orientarse hacia los cuadrantes del Sur y del Este.
+
+## ORDENANZA 16.ª — Superficie de iluminación y ventilación
+
+La superficie de los huecos de iluminación de todas las habitaciones de las viviendas no será inferior a un décimo de la superficie de su planta.
+
+La superficie real de ventilación podrá reducirse hasta un tercio de la de iluminación. En zonas de clima cálido se recomienda facilitar la ventilación cruzada mediante montantes, lamas, etc.
+
+Será obligatoria la inclusión de un conducto de ventilación activada en la cocina, a fin de asegurar la evacuación del vapor de agua, gases o humos que se producen en aquella habitación.
+
+Asimismo, otro conducto será necesario para la ventilación de despensas, cuando las hubiera.
+
+> Se modifica por el art. 1 de la Orden de 4 de mayo de 1970. [Ref. BOE-A-1970-527](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-527)
+
+## ORDENANZA 17.ª — Superficies mínimas de las habitaciones
+
+En toda vivienda la superficie útil mínima de la estancia (E) y la acumulada de estar, comer y cocinar (E + C + K) serán, en función del número de dormitorios, las siguientes:
+
+| Viviendas de | E (m<sup>2</sup>) | E + C + K<br>(m<sup>2</sup>) |
+|---|---|---|
+| Un dormitorio. | 14 | 20 |
+| Dos dormitorios. | 16 | 20 |
+| Tres dormitorios. | 18 | 24 |
+| Cuatro dormitorios. | 20 | 24 |
+
+Si la cocina es independiente de la estancia tendrá, como mínimo, 7 m<sup>2</sup>, que se pueden dividir en 5 m<sup>2</sup> de cocina y 2 m<sup>2 </sup>de lavadero.
+
+Cuando la cocina se incorpore a la zona de estancia se reforzará la ventilación mediante la instalación de un ventilador centrífugo que asegure la extracción de 300 m<sup>3</sup>/h.
+
+En todas las viviendas existirá la posibilidad del tendido de ropa al exterior y, en su caso, con protección de vistas desde la calle.
+
+En viviendas de un dormitorio la zona de estancia deberá poder ser independizable funcionalmente del resto de la vivienda, incluso de la zona de cocina, no siendo paso obligado a cualquier otra habitación.
+
+La superficie útil mínima de los dormitorios será de 6 m<sup>2</sup>, y en toda vivienda existirá un dormitorio de superficie útil no menor de 10 m<sup>2</sup>.
+
+Los pasillos tendrán una anchura no menor de 0,85 m.
+
+> Se modifica por el art. 1.D) de la Orden de 21 de febrero de 1981. [Ref. BOE-A-1981-5020](https://www.boe.es/buscar/doc.php?id=BOE-A-1981-5020)
+
+> Se modifica por el art. 1 de la Orden de 4 de mayo de 1970. [Ref. BOE-A-1970-527](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-527)
+
+> Redactado el párrafo 1º conforme a la corrección de erratas publicada en BOE núm. 132, de 3 de junio de 1969. [Ref. BOE-A-1969-40063](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-40063)
+
+## ORDENANZA 18.ª — Retretes y aseos
+
+El sistema de cierre de los aparatos sanitarios será siempre hidráulico.
+
+Los cuartos de aseo deberán ir revestidos de azulejos u otro material impermeable en todos sus paramentos, hasta una altura mínima de 1,40 metros. Los paramentos afectados por el uso de la ducha, hasta 1,95 metros.
+
+El acceso no se permitirá desde las estancias, comedores, cocinas ni dormitorios.
+
+Si la vivienda está dotada de dos cuartos de aseo completos, uno de ellos podrá tener puerta a un dormitorio.
+
+## ORDENANZA 19.ª — Escaleras
+
+Altura máxima de tabicas: 19 centímetros.
+
+Anchura mínima de huella, sin contar su vuelo sobre la tabica: 27 centímetros.
+
+Longitud mínima de peldaños: 1,00 metro.
+
+Ancho mínimo de escalera entre paramentos: 2,20 metros.
+
+Número máximo de peldaños o altura en un solo tramo: 16.
+
+En escaleras curvas, longitud mínima de peldaño: 1,20 metros. Los peldaños tendrán como mínimo una línea de huella de 25 centímetros, medida a 40 centímetros de la línea interior del pasamanos.
+
+Las mesetas con puertas de acceso a locales o viviendas tendrán un fondo mínimo de 1,20 centímetros.
+
+Las mesetas intermedias, sin puertas de acceso a locales o viviendas, tendrán un fondo mínimo igual a la longitud del peldaño.
+
+La distancia mínima, desde la arista de los peldaños de meseta con puertas a estas, será de 25 centímetros.
+
+En las viviendas individuales se permiten mayores tabicas, menores anchos y escaleras compensadas.
+
+Salvo la excepción señalada para las viviendas individuales, se prohibirán las mesetas en ángulo, las mesetas partidas y las escaleras compensadas.
+
+Altura mínima de pasamanos de escalera: 0,95 metros, medidos en la vertical de la arista exterior de la huella.
+
+Separación máxima entre balaustres de barandillas y antepechos: Aquella que deje libre, horizontalmente, una dimensión de 12 centímetros.
+
+En las casas colectivas, las escaleras tendrán necesariamente iluminación y ventilación directa con el exterior en todas sus plantas, con una superficie mínima de iluminación de un metro cuadrado, pudiendo reducirse la de ventilación a 400 centímetros cuadrados.
+
+En edificios de hasta cuatro plantas, siempre que no se disponga lo contrario en las Ordenanzas municipales, se permiten escaleras con ventilación e iluminación cenital por medio de lucernarios, que tengan una superficie en planta que sea, como mínimo, dos tercios de la superficie de la caja de escalera. En este caso, el hueco central quedará libre en toda su altura y en él será incriptible un círculo de 1,30 metros de diámetro.
+
+> Se modifica por el art. 1 de la Orden de 4 de mayo de 1970. [Ref. BOE-A-1970-527](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-527)
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 119, de 19 de mayo de 1970. [Ref. BOE-A-1970-40201](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-40201)
+
+## ORDENANZA 20.ª — Disposición de las edificaciones
+
+La disposición de las edificaciones se ajustará a las normas urbanísticas provinciales y comarcales, si las hubiere, a las condiciones establecidas en los planes generales y parciales de Ordenación urbana que las afecten y a las Ordenanzas municipales de la edificación de cada localidad.
+
+## ORDENANZA 21.ª — Utilización de terrenos
+
+En defecto de los planes y reglamentos, señalados en la ordenanza anterior, y cuando fuese necesario redactar un avance de planeamiento, se tendrán en cuenta las siguientes normas:
+
+El número medio de viviendas por hectárea no será superior a ochenta. En esta superficie se computará la destinada a viales, espacios libres, zonas verdes y edificación complementaria.
+
+La separación entre bloques paralelos no será nunca menor que la altura de su edificación.
+
+> Téngase en cuenta que esta ordenanza se ve modificada por el art. 75 del texto refundido, según establece la tabla de vigencias de disposiciones afectadas por la Ley 19/1975, de 2 de mayo, de reforma de la Ley sobre Régimen del Suelo y Ordenación Urbana, publicada por el Real Decreto 1346/1976, de 9 de abril, por el que se aprueba el texto refundido de la Ley sobre Régimen del Suelo y Ordenación Urbana. [Ref. BOE-A-1976-11506](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-11506)
+
+## ORDENANZA 22.ª — Servicios comunitarios
+
+La agrupación de edificios en número considerable que dé lugar a núcleo de viviendas importante, obligará a prever todos los servicios comunitarios propios de la vida social, dentro de la escala apropiada a la dimensión de la unidad urbana resultante. Tales servicios son: religiosos, culturales, comerciales, sanitarios, asistenciales, administrativos, políticos, recreativos y de relación y varios, como garajes, estaciones de servicio, aparcamiento de vehículos, talleres artesanos, paradas de medios de transporte, etc.
+
+Los programas de estos servicios se estimarán en relación con las necesidades de los nuevos núcleos, con las previsibles en el futuro y con los disponibles de los núcleos vecinos existentes. En el caso en que el programa de construcción de viviendas no comprenda todos los servicios citados, se procederá a la previsión y reserva de los terrenos necesarios.
+
+> Téngase en cuenta que esta ordenanza se ve afectada por los arts. 12 y 13 del texto refundido, según establece la tabla de vigencias de disposiciones afectadas por la Ley 19/1975, de 2 de mayo, de reforma de la Ley sobre Régimen del Suelo y Ordenación Urbana, publicada por el Real Decreto 1346/1976, de 9 de abril, por el que se aprueba el texto refundido de la Ley sobre Régimen del Suelo y Ordenación Urbana. [Ref. BOE-A-1976-11506](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-11506)
+
+## ORDENANZA 23.ª — Dimensiones de las calles
+
+Las calles cumplirán las Ordenanzas municipales, y allí donde no las hubiese, los siguientes mínimos:
+
+Calle de dos circulaciones, 9 metros, de los que 6 serán de calzada y dos aceras de 1,50 metros.
+
+Para tres y más circulaciones se considerará cada una de ellas de 3 metros y se agregará a cada lado de la calzada 1,50 metros de acera.
+
+Los senderos de peatones tendrán un ancho mínimo de tres metros, de los que 1,10 metros serán pavimentados.
+
+Si la separación de bloques da lugar a perfiles transversales mayores que los necesarios para la circulación, se ampliarán las aceras, disponiendo espacios para arbolado o jardinería.
+
+## ORDENANZA 24.ª — Pavimentación, arbolado, alumbrado y canalizaciones
+
+Las pavimentaciones admitidas son: macadam con riego profundo, continuos de hormigón blindado, asfalto sobre firme de hormigón, adoquinado con piedras naturales sentadas en el firme de hormigón, enlosado de igual procedimiento, adoquinado de bloques aglomerados asfálticos y hormigón asfáltico.
+
+Los bordillos serán de piedras naturales o de hormigón de 350 kilogramos.
+
+Las pavimentaciones admitidas en aceras urbanas son: enlosado de piedras naturales o artificiales, embaldosado con baldosas hidráulicas o cerámicas, continuos de asfalto. Cualquier otro sistema ha da ser autorizado por el Instituto Nacional de la vivienda.
+
+En las aceras que por su pendiente hayan de ser peldañeadas, el peldaño irá formado por piedras naturales. Nunca tendrán altura superior a 14 centímetros ni huella menor de 0,40 metros.
+
+Salvo lo que establezcan expresamente las ordenanzas municipales, los imbornales en los bordillos o los sumideros en los arroyos irán provistos de cámara o cuba guarda-arenas, de sifón y tapa de registro.
+
+Se arbolarán todas las calles que por su anchura lo consientan con especies aptas al clima. A los árboles se les dotará de un alcorque que sea el apropiado y como mínimo de 75 centímetros de diámetro.
+
+El alumbrado público estará previsto en el proyecto. Todas las canalizaciones serán revisables y de fácil reparación. Cumplirá lo establecido en Ordenanzas municipales y en los Reglamentos en vigor del Ministerio de Industria.
+
+## ORDENANZA 25.ª — Normas constructivas
+
+A) Cimientos.–Se admiten todos los sistemas de cimentación.
+
+B) Muros.–Se permiten todos los sistemas, menos los entramados de madera y aquellos otros que estén constituidos por elementos combustibles. Se atenderá, especialmente, a sus condiciones de estabilidad, aislamiento e impermeabilidad.
+
+La separación entre viviendas o viviendas y servicios comunes, como mínimo, será ejecutada con medio pie de ladrillo macizo o con soluciones constructivas que aseguren el aislamiento sonoro mínimo que proporcionan los dichos 12 centímetros de ladrillo macizo.
+
+> Téngase en cuenta que queda derogado lo establecido para aislamiento acústico entre viviendas en el apartado B), por la disposición final segunda del Real Decreto 1909/1981, de 24 de julio. [Ref. BOE-A-1981-19978](https://www.boe.es/buscar/doc.php?id=BOE-A-1981-19978)
+
+C) Forjados.–Se autoriza cualquier clase de forjado, salvo los de madera, que se permiten en zonas rurales y previa autorización del Instituto Nacional de la Vivienda.
+
+D) Cubiertas.–En la construcción de cubiertas se admitirá cualquier material de los existentes en el mercado, siempre que se atiendan las condiciones fijadas en la ordenanza trigésima segunda y se asegure una perfecta impermeabilidad recomendándose una especial atención a este extremo.
+
+Las armaduras de madera solo se admitirán en viviendas unifamiliares situadas en el medio rural y previa autorización por el Instituto Nacional de la Vivienda.
+
+> Se deroga lo establecido para aislamiento acústico entre viviendas en el apartado B) por la disposición final segunda del Real Decreto 1909/1981, de 24 de julio. [Ref. BOE-A-1981-19978](https://www.boe.es/buscar/doc.php?id=BOE-A-1981-19978)
+
+> Se modifica por el art. 1 de la Orden de 4 de mayo de 1970. [Ref. BOE-A-1970-527](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-527)
+
+> Redactado el apartado B) conforme a la corrección de errores publicada en BOE núm. 119, de 19 de mayo de 1970. [Ref. BOE-A-1970-40201](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-40201)
+
+## ORDENANZA 26.ª — Instalaciones mínimas
+
+Serán preceptivas las siguientes instalaciones: instalación eléctrica para alumbrado y usos domésticos, instalación de agua fría y caliente.
+
+Estas instalaciones tendrán que cumplir las reglamentaciones particulares que para cada una de ellas se hallen vigentes.
+
+## ORDENANZA 27.ª — Programa mínimo sanitario
+
+En todas las viviendas se instalará, cuando menos, un cuarto de aseo compuesto de retrete lavabo y ducha.
+
+En la cocina o dependencia aneja se instalará un fregadero de cualquiera de los materiales existentes en el mercado, a excepción de la piedra artificial, y un lavadero.
+
+## ORDENANZA 28.ª — Saneamiento
+
+Cada uno de los aparatos sanitarios y fregaderos o lavaderos irá provisto de su correspondiente cierre hidráulico.
+
+Los sifones serán siempre registrables y fácilmente accesibles.
+
+Entre cada dos pozos de registro los tramos serán rectos y de pendiente uniforme.
+
+Los tubos serán de gres, fundición, fibrocemento o cemento bituminizado. Se admitirán también los de materiales plásticos autorizados por la Dirección General de Arquitectura, Economía y Técnica de la Construcción.
+
+## ORDENANZA 29.ª — Saneamiento de aguas pluviales. Medio urbano
+
+Las bajantes serán de cinc, plomo, fundición, gres, fibrocemento, cemento con o sin armadura y con revestimiento asfáltico interior, o de plásticos autorizados por la Dirección General de Arquitectura, Economía y Técnica de la Construcción.
+
+Las bocas de las bajantes en el canalón y los imbornales y sumideros en las azoteas irán siempre protegidos con rejillas filtrantes y cámaras de arena.
+
+Se aconseja que las bajantes vayan por el exterior, en cuyo caso se protegerán contra su posible rotura con material adecuado en una altura de dos metros a partir de la rasante de la acera.
+
+El saneamiento de aguas pluviales llevará en cada bajante un sifón terminal de registro, y en sistemas separativos, por lo menos un colectivo común.
+
+## ORDENANZA 30.ª — Saneamiento de aguas pluviales. Medio rural
+
+Las aguas pluviales pueden recogerse en bajantes que vayan a cualquier desagüe o despedirse por gárgolas o dejar la natural caída de los goterones del tejado.
+
+En este último caso, el alero no volará menos de 40 centímetros en casas de una planta y 60 en casas de dos plantas.
+
+Todo el perímetro de la casa estará protegido por una acera impermeable de 0,60 metros de anchura mínima, en caso de recoger las aguas en bajantes, y no menor de 1,10 metros, en caso de verter libremente el agua por los canales de la teja.
+
+Esta acera tendrá una pendiente mínima de un 2 por 100.
+
+## ORDENANZA 31.ª — Fosas sépticas
+
+Las fosas sépticas se calcularán de manera que la permanencia mínima en ellas de las materias fecales sea de tres días completos en el proceso anaerobio, hasta un mínimo de 36 litros por usuario. Si disminuye la dotación de agua no se variarán las dimensiones calculadas, para que prolongándose la permanencia haya una compensación.
+
+Se dividirá el proceso anaerobio en los departamentos usuales de separación de cuerpos flotantes y de decantación.
+
+El filtro (que puede ser único para toda la barriada, aunque las fosas sean varias) estará colocado en la zona opuesta a los vientos reinantes, a una distancia mínima de la vivienda más próxima de 50 metros y resguardada ésta de él por un seto que lo rodee de arbustos y matas de follaje perenne: romero, mirto, laurel, etc.
+
+El filtro será de cok, grava, pizarra o el material más conveniente en cada caso.
+
+Cuando no se pueda alejar suficientemente de la vivienda, se dispondrá de un filtro doble para usar alternativamente y no hacer la remoción del material filtrante más que después de una temporada de reposo que garantice la sequedad del filtro y la ausencia de malos olores
+
+La canalización que una la fosa con el filtro estará construida con el máximo esmero, yendo sentada sobre hormigón y recibida en él las juntas de los tubos. Tendrá una profundidad mínima de 0.60 metros.
+
+## ORDENANZA 32.ª — Aislamiento térmico
+
+Se dividirá España en dos zonas. La primera agrupará las regiones que comprenden la isoterma de más de 30 grados o que están por debajo de la de menos cinco grados, agrupando la segunda zona las restantes regiones.
+
+En la primera zona los muros tendrán una conductibilidad inferior al 1,2; las cubiertas, cuando no comprendan locales de habitación, una conductibilidad inferior a 1,6, y en caso de ser cubiertas planas, inferior a 1,2.
+
+En la segunda zona, los aislamientos de muros y cubiertas serán, respectivamente, los que garanticen conductibilidades máximas de 1,6 y 1,8.
+
+En las viviendas de planta baja será obligatoria la colocación de un forjado separado del terreno un mínimo de treinta centímetros.
+
+## ORDENANZA 33.ª — Instalaciones y dependencias especiales
+
+Se consideran instalaciones especiales, de acuerdo con la definición del apartado e) del artículo quinto del Reglamento de Viviendas de Protección Oficial, las siguientes:
+
+a) Aparatos elevadores: Ascensores, montacargas y otros que autorice el Instituto Nacional de la Vivienda.
+
+b) Instalación de calefacción, individual o colectiva, por cualquiera de los sistemas en uso, dispuesta para su inmediata utilización sin necesidad de complemento alguno.
+
+c) Instalación de agua caliente centralizada. Solamente el foco productor de calor y sus accesorios y las conducciones generales hasta la acometida a cada vivienda.
+
+d) Antena colectiva de televisión y frecuencia modulada, incluidas conducciones y tomas.
+
+e) Vivienda del portero. Las características de esta vivienda serán como mínimo las exigidas para las viviendas tipo del grupo II, tercera categoría, considerándose como elemento común de la casa.
+
+f) Cualquiera otra instalación que se dote a las viviendas por voluntad del promotor o por imperativo de las Ordenanzas Municipales o Reglamentaciones vigentes, previa autorización del Instituto Nacional de la Vivienda, según las características de aquella y teniendo en cuenta el carácter social de las viviendas.
+
+En el presupuesto general de las instalaciones a que se refieren los apartados a), b), c), d) y f) no se consideraran las obras de edificación necesarias para la habilitación de los locales destinados a maquinaria, poleas, foso y cierre del recinto de aparatos elevadores, cuartos de calderas, carboneras y locales para alojar depósitos de combustible y ayudas de albañilería.
+
+Estos locales no susceptibles de aprovechamiento individualizado, se considerarán, de acuerdo con el artículo 109 del Reglamento de Viviendas de Protección Oficial, como dependencias comunes del edificio.
+
+El presupuesto de ejecución material a que se refiere el apartado e), vivienda del portero, se obtendrá multiplicando la superficie útil de la misma por el módulo tipo afectado por el coeficiente 1,15, y su importe se desglosará del presupuesto general de ejecución material de la edificación.
+
+El valor máximo que corresponderá a la ejecución material de cada una de las instalaciones enumeradas anteriormente no podrá exceder de la cifra que resulte de multiplicar el presupuesto de ejecución material de la edificación por los coeficientes siguientes:
+
+a) Aparatos elevadores: 0,10.
+
+b) Instalación de calefacción: 0,10.
+
+c) Instalación de agua caliente: 0,05.
+
+d) Antena colectiva de televisión: 0,01.
+
+e) Vivienda de portero: 0,04.
+
+Cuando el promotor solicite alguna instalación especial de las no enumeradas en los apartados anteriores, el Instituto Nacional de la Vivienda, al autorizar su inclusión, fijará el coeficiente que le corresponda.
+
+El valor máximo del presupuesto de ejecución material de las instalaciones especiales no podrá exceder de la cifra que resulte de multiplicar por el coeficiente 0,3 el presupuesto de ejecución material de la edificación.
+
+Con el fin de garantizar la calidad de las instalaciones especiales y establecer los presupuestos admisibles para cada una, únicamente podrán incluirse en los proyectos de Viviendas de Protección Oficial aquellas cuyas características técnicas hayan sido previamente aprobadas por la Dirección General de Arquitectura, Economía y Técnica de la Construcción y sus precios por el Instituto Nacional de la Vivienda.
+
+## ORDENANZA 34.ª — Garajes
+
+1\. Definición. Se denomina garaje a todo local destinado a la guarda, con carácter regular, de vehículos de motor mecánico, así como a los lugares anejos de paso, espora o estancia de los mismos.
+
+2\. Situación. Los garajes pueden situarse en la planta baja y sótanos de los edilicios destinados a vivienda y de los edificios independientes destinados a locales comerciales, construidos de conformidad con lo previsto en el articulo 7, A), párrafo segundo del Decreto 2114/1968, de 24 de julio; en parcelas interiores y en los patios de manzana.
+
+3\. Superficies. La superficie mínima útil de los garajes será de 20 metros cuadrados por vehículo, incluida en ella la que corresponde a aceras, pasillos de maniobras, etc., pero no la destinada a servicios sanitarios, si los hubiese, u otros usos (como almacenillos, vestíbulo de llegada de ascensores, etc.). La superficie útil máxima permitida será la de 30 metros cuadrados por vehículo.
+
+4\. Dimensiones mínimas. La dimensión mínima por plaza, sin considerar accesos, etc., será de 2,20 por 4,50 metros. El número de vehículos en el interior de los garajes no podrá exceder del correspondiente a 20 metros cuadrados útiles por plaza, ni al número de viviendas de que conste el edificio, cuando aquéllos estén vinculados a las viviendas.
+
+5\. Accesos. Los garajes deberán tener un acceso con la anchura mínima siguiente: En calles con anchura inferior a 15 metros, cuatro metros, calles con anchura superior a 15 metros, tres metros.
+
+En los garajes con capacidad superior a cien vehículos, el acceso, en cualquier caso, deberá tener una anchura no inferior a cinco metros, o dos accesos independientes, uno de entrada y otro de salida, con las anchuras mínimas indicadas en el párrafo anterior.
+
+Las rampas rectas no podrán sobrepasar la pendiente del 16 por 100, y las rampas con vuelta o giro, el 12 por 100; su anchura mínima será de tres metros; con el sobreancho necesario en las curvas, y su radio de curvatura, medido en el eje, será, como mínimo, de seis metros.
+
+Todos los garajes dispondrán de una meseta con una anchura igual a la del acceso reglamentario, con un fondo mínimo, antes de comenzar la rampa, de cinco metros, sin incluir en esta superficie la de uso público (como aceras de peatones, etc.). La rasante del zaguán será horizontal, y en el mismo, así como en la totalidad de los accesos, estará prohibido el estacionamiento de vehículos.
+
+En los garajes con capacidad superior a los coches se dispondrá de un acceso para peatones independiente de la rampa de acceso de vehículos. Cuando este acceso se realice por medio de una escalera, ésta cumplimentará lo dispuesto en la Ordenanza 19 I.N.V., para las viviendas colectivas, excepto en lo que se refiere a iluminación y ventilación directa de escalera.
+
+El garaje podrá estar comunicado con el ascesor o escalera del inmueble, en cuyo caso deberá disponerse de un vestíbulo de aislamiento intermedio, con puertas blindadas de cierre automático, excepto cuando se trate de garajes en viviendas unifamiliares.
+
+6\. Ventilación e iluminación. La ventilación, natural o forzada, estará, proyectada con suficiente amplitud para impedir la acumulación de vapores y gases. Se hará por medio de patios o chimeneas previstos para su ventilación exclusiva, y a estos patios o chimeneas no abrirán más huecos que los del garaje. Las chimeneas sobrepasarán un metro de altura de la cubierta.
+
+En los garajes situados en patios de manzana o espacios interiores se permitirán huecos de ventilación directa, siempre que estén separados, como mínimo, 15 metros de las alineaciones interiores de los edificios destinados a vivienda.
+
+La iluminación artificial se realizará sólo mediante lámparas eléctricas. Las instalaciones de energía eléctrica responderán a las características exigidas por el Reglamento de Instalaciones Eléctricas vigente.
+
+7\. Protección contra el fuego. Todos los elementos, que constituyen la estructura de la edificación en la parte destinada a garaje deberán ser resistentes al fuego, no pudiendo utilizarse elementos metálicos sin protección, especial para este fin.
+
+Los paramentos del garaje (paredes y forjados) serán también resistentes al fuego y estarán desprovistos de huecos que comuniquen con patios o locales de uso diferente.
+
+Se instalarán aparatos de extinción de incendios de forma que correspondan cuatro, como mínimo, por cada 500 metros cuadrados o fracción. Estarán exentos de esta obligación los de dimensiones inferiores a 50 metros cuadrados.
+
+Si esta superficie de 500 metros cuadrados estuviera desarrollada en varias plantas, se exigirá, al menos, dos extintores en cada una de ellas. Los extintores manuales se situarán sobre los soportes y muros, en lugares de fácil acceso, y estarán provistos de dispositivos de sujeción seguros y de rápido manejo, debiendo figurar una chapa de instrucciones para su uso. Estarán señalizados con arreglo a las disposiciones de las normas UNE.
+
+Se instalará en cada 50 metros cuadrados de trabajo o fracción un recipiente de material resistente al fuego, con tapa abisagrada de las mismas características, para guardar trapos que pudieran estar impregnados de grasa o gasolina.
+
+Igualmente se instalarán por cada 500 metros cuadrados o fracción recipientes abiertos que contengan productos capaces de absorver cualquier derrame fortuito de gasolina o grasas (tales como arena, tierra de infusorios, etc.). Estos productos podrán estar en sacos para su fácil transporte y el depósito dispondrá de una pala para su manejo.
+
+Los garajes de más de 2.000 metros cuadrados dispondrán, en las proximidades de cada acceso por la vía pública, de un hidrante del modelo reglamentario utilizado por el Servicio contra incendios de la localidad.
+
+En los garajes-aparcamiento de más de 8.000 metros cuadrados se exigirá la instalación de una red automática de dispositivos para localizar y evitar la propagación de cualquier incendio.
+
+8\. Planos. En los planos que deben figurar entro los del proyecto deberán estar dibujadas y numeradas todas las plazas de estacionamiento o situación de los vehículos, así como los pasillos y rampas de acceso, indicándose el sentido de la circulación cuando fuere necesario. También se señalará la situación de las chimeneas y patios de ventilación.
+
+En un recuadro aparte figurará la superficie útil total. Estas mismas señalizaciones serán las que se realicen cuando la obra esté ultimada.
+
+9\. Garajes en viviendas unifamiliares.
+
+En viviendas unifamiliares se admiten las siguientes condiciones de los garajes anexos:
+
+a) La superficie útil mínima se fija en 14 m<sup>2</sup>.
+
+b) Las dimensiones mínimas de la plaza serán de 2,55 metros y de 4,80 metros en anchura y longitud, respectivamente.
+
+c) El ancho mínimo del camino de acceso y de la rampa, si la hubiese, será de 2,70 metros.
+
+d) La espera o meseta de rampa será, como mínimo, de 2,70 metros por 3,50 metros, con una pendiente máxima del 6 por 100.
+
+e) Se admite la ventilación natural por comunicación directa del garaje con el exterior.
+
+f) Deberá disponer de desagüe a pozo filtrante o a la red.
+
+10\. Trasteros independientes de las viviendas.
+
+Se admitirán como trasteros anejos a las viviendas los locales destinados a ese fin exclusivo, sin incorporación posible a aquéllas, y que tengan un acceso directo desde zonas comunes de circulación del edificio –portales, galerías, etc.–. En el caso de viviendas unifamiliares el acceso al trastero se realizará desde el exterior. La superficie de iluminación exterior de los mismos, si la hubiera, estará situada por encima de 1,80 metros del nivel del suelo del local. La superficie útil del trastero será, como máximo, el 15 por 100 de la superficie útil de la vivienda a la que está adscrito.
+
+> Se añaden los apartados 9 y 10 por el art. 1.E) de la Orden de 21 de febrero de 1981. [Ref. BOE-A-1981-5020](https://www.boe.es/buscar/doc.php?id=BOE-A-1981-5020)
+
+> Se añade por el art. 1 de la Orden de 16 de mayo de 1974. [Ref. BOE-A-1974-838](https://www.boe.es/buscar/doc.php?id=BOE-A-1974-838)
+
+> Redactada conforme a la corrección de erratas publicada en BOE núm. 140, de 12 de junio de 1974. [Ref. BOE-A-1974-41521](https://www.boe.es/buscar/doc.php?id=BOE-A-1974-41521)

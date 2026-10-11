@@ -1,0 +1,323 @@
+---
+title: "Real Decreto 2420/1978, de 2 de junio, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración y venta de conservas vegetales"
+identifier: "BOE-A-1978-25634"
+eli: "https://www.boe.es/eli/es/rd/1978/06/02/2420"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1978-06-02
+published: 1978-10-12
+in_force_from: 1978-10-13
+last_amended: 2013-03-29
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 244"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-25634"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2420/1978, de 2 de junio, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración y venta de conservas vegetales
+
+Incluye la corrección de errores publicada en el BOE núm. 267, de 8 de noviembre de 1978. [Ref. BOE-A-1978-27766](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-27766).
+
+El Decreto de la Presidencia del Gobierno número dos mil cuatrocientos ochenta y cuatro/mil novecientos sesenta y siete, de veintiuno de septiembre, por el que se aprueba el texto del Código Alimentario Español, prevé que puedan ser objeto de Reglamentaciones Especiales las materias en él reguladas.
+
+Publicado el Decreto de la Presidencia del Gobierno número dos mil quinientos diecinueve/mil novecientos setenta y cuatro, de nueve de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario, procede ahora dictar las distintas Reglamentaciones establecidas en el mismo.
+
+En su virtud, previo informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria, a propuesta de los Ministros de Sanidad y Seguridad Social, de Agricultura, de Industria y Energía y de Comercio y Turismo, y previa deliberación del Consejo de Ministros en su reunión del día dos de junio de mil novecientos setenta y ocho,
+
+DISPONGO:
+
+#### Artículo único.
+
+Se aprueba la adjunta Reglamentación Técnico-Sanitaria para la elaboración y venta de conservas y semiconservas vegetales.
+
+### DISPOSICIÓN FINAL
+
+La citada Reglamentación entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+### DISPOSICIONES TRANSITORIAS
+
+No obstante lo dispuesto en la disposición final, y como únicas excepciones a lo dispuesto en ella:
+
+#### Primera.
+
+Quedan en vigor, en todo aquello que no se oponga a la presente Reglamentación, la normalización de conservas vegetales que figura en la Orden del Ministerio de Industria de veintidós de septiembre de mil novecientos setenta y tres y la Orden del Ministerio de Comercio de veintitrés de junio de mil novecientos sesenta y seis en cuanto es de aplicación en el mercado interior en sus partes referentes a conservas de albaricoques, melocotones, cerezas, peras, ensaladas de frutas y mandarinas en almíbar.
+
+Asimismo queda en vigor, en todo aquello que no se oponga a esta Reglamentación, las Ordenes del Ministerio de Industria de quince de julio de mil novecientos sesenta y ocho, sobre normalización de envases de conservas vegetales, y de veintidós de agosto de mil novecientos sesenta y nueve.
+
+#### Segunda.
+
+La reforma de adaptaciones de instalaciones derivadas de las nuevas exigencias e incorporadas a esta Reglamentación que no sean consecuencia de disposiciones legales vigentes y en especial de lo dispuesto en el Decreto dos mil quinientos diecinueve/mil novecientos setenta y cuatro, de nueve de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, serán llevadas a cabo en el plazo de dieciocho meses, a contar desde la publicación de la presente Reglamentación.
+
+#### Tercera.
+
+Durante el mismo período las Empresas a que se refiere la disposición podrán seguir utilizando las existencias en almacén o contratadas, de las etiquetas, envolturas, estuches y envases de todo tipo que tuvieran en uso y que no se ajusten a lo dispuesto en la Reglamentación.
+
+Cualquier producto elaborado con anterioridad a la entrada en vigor de esta Reglamentación, dispondrá del mismo período de tiempo para su salida de fábrica.
+
+### DISPOSICIÓN DEROGATORIA
+
+Quedan derogadas todas las disposiciones del mismo e inferior rango a esta Reglamentación que regulen cualquier aspecto del mercado interior de las conservas vegetales comprendidas en su ámbito de aplicación y que se encuentren en contradicción con la misma.
+
+Dado en Madrid a dos de junio de mil novecientos setenta y ocho.
+
+JUAN CARLOS
+
+El Ministro de la Presidencia,
+
+JOSÉ MANUEL OTERO NOVAS
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA PARA LA ELABORACIÓN Y VENTA DE CONSERVAS VEGETALES
+
+## TÍTULO PRELIMINAR — Ámbito de aplicación
+
+#### Art. 1. Ámbito.
+
+La presente Reglamentación tiene por objeto definir, a efectos legales, lo que se entiende por semiconservas y conservas vegetales y fijar, con carácter obligatorio, las normas de elaboración, de comercialización y, en general, la ordenación jurídica de tales productos. Será de aplicación, asimismo, a los productos importados.
+
+Sus regulaciones son de aplicación a todas las elaboraciones que respondan a las definiciones comprendidas en el título primero de esta Reglamentación.
+
+Esta Reglamentación obliga a todos los fabricantes, comerciantes e importadores de semiconservas y conservas vegetales.
+
+Se consideran fabricantes de semiconservas y conservas vegetales aquellas personas, naturales o jurídicas, que, en uso de las autorizaciones concedidas al efecto por los Organismos oficiales competentes, dedican su actividad a la elaboración de los productos definidos en el artículo 4.° de esta Reglamentación.
+
+## TÍTULO PRIMERO — Definiciones
+
+#### Art. 2. Productos de origen vegetal.
+
+A los efectos de la presente Reglamentación, se considerarán productos de origen vegetal: las frutas, los cereales, las hortalizas, las legumbres, los tubérculos y los hongos comestibles, así como sus derivados.
+
+Frutas. Con la denominación genérica de «frutas» se designa a la infrutescencia, la semilla o las partes carnosas de órganos florales que hayan alcanzado un grado adecuado de madurez y sean propios para el consumo humano. A los efectos de esta Reglamentación se considerarán «frutas» a las incluidas en la sección primera del capítulo XXII del Código Alimentario Español, con exclusión de los frutos secos envasados como tales.
+
+> Téngase en cuenta que el epígrafe "Frutas" se deroga en lo que se oponga a lo establecido para los productos incluidos en el ámbito de aplicación de la norma de calidad por la disposición derogatoria del Real Decreto 670/1990, de 25 de mayo. [Ref. BOE-A-1990-12154](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-12154).
+
+Cereales. Con la denominación genérica de «cereales» se designa a las plantas gramíneas y a sus frutos maduros, enteros y sanos. A los efectos de esta Reglamentación, se considerarán «cereales» a los incluidos en el capítulo XVII del Código Alimentario Español.
+
+Hortalizas. Con la denominación genérica de «hortalizas» se designa cualquier planta herbácea hortícola que se pueda utilizar como alimento, ya sea en crudo o en cocinado. A los efectos de esta Reglamentación, se considerarán «hortalizas» a los frutos, bulbos coles, hojas y tallos tiernos, inflorescencias, legumbres verdes, pepónides, raíces y tallos jóvenes, incluidos en la sección primera capítulo XXI del Código Alimentario Español.
+
+Legumbres. Con la denominación genérica de «legumbres» se conocerán las semillas limpias, sanas y separadas de la vaina procedentes de plantas de la familia de las leguminosas, adecuadas para la alimentación. A los efectos de esta Reglamentación se considerarán «legumbres» a las incluidas en la sección primera del capítulo XVIII del Código Alimentario Español.
+
+Tubérculos. Con la denominación genérica de «tubérculos» se designa a las partes de tallos subterráneos o raíces de algunas plantas, sanos, maduros, limpios de tierra y de otras impurezas y que, en su estado natural, o debidamente conservados, son aptos para el consumo humano. A los efectos de esta Reglamentación, se considerarán «tubérculos» a los incluidos en los artículos 3.19.02, 3.19.09; 3.19.19 y 3.19.20 del Código Alimentario Español.
+
+Hongos y setas comestibles. A los efectos de esta Reglamentación se considerarán «hongos y setas comestibles» a las variedades incluidas en la sección segunda del capítulo XXI del Código Alimentario español y disposiciones que la desarrollen.
+
+> Se deroga el epígrafe "Frutas" en lo que se oponga por la disposición derogatoria del Real Decreto 670/1990, de 25 de mayo. [Ref. BOE-A-1990-12154](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-12154).
+
+#### Art. 3. Semiconservas y conservas.
+
+1\. Semiconservas. Son alimentos elaborados a base de productos de origen vegetal, con o sin adición de otras sustancias alimenticias o alimentarias permitidas, estabilizados para un tiempo limitado por un tratamiento apropiado y mantenidos en recipientes adecuados.
+
+2\. Conservas. Son alimentos elaborados a base de productos de origen vegetal, con o sin adición de otras sustancias alimenticias y alimentarias permitidas, sometidos a tratamientos autorizados que garanticen su conservación y contenidos en envases apropiados.
+
+Los tratamientos técnicos autorizados pueden ser:
+
+a) Térmico, por el que se garantice una esterilización industrial o técnica, definida en el artículo 2.05.09 del Código Alimentario Español, con envasado en recipientes herméticos.
+
+b) Congelación, por el que se garantice la estabilidad del producto hasta la venta al público, sometiendo a los alimentos a temperaturas inferiores a su punto de congelación. Durante el período de conservación la temperatura se mantendrá uniforme, de acuerdo con las exigencias de cada producto.
+
+c) Deshidratación, por el que se garantice la eliminación de la humedad necesaria hasta conseguir una estabilidad del producto.
+
+d) Encurtido, por el que se garantice la estabilidad del producto hasta la venta al público, al someter los alimentos frescos, tratados con salmuera o que han sufrido una fermentación láctica, a la acción del vinagre, o ácido acético de origen vínico, con o sin adición de sal, azúcares u otros condimentos.
+
+3\. Platos preparados, que serán regulados por su Reglamentación específica.
+
+> Se deroga el apartado 2.e) por el art. 7 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Redactado el apartado 2.a) y c) conforme a la corrección de errores publicada en BOE núm. 267, de 8 de noviembre de 1978. [Ref. BOE-A-1978-27766](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-27766)
+
+#### Art. 4. Elaboraciones reguladas por esta Reglamentación.
+
+4.1. Semiconservas y conservas de frutas, cereales, hortalizas, legumbres, tubérculos y hongos o setas. Son las elaboraciones llevadas a cabo con los respectivos productos vegetales, enteros o partidos.
+
+4.2. Triturados, purés, pastas y concentrados de tomate, de hortalizas en general y de hongos o setas. Son las semiconservas y/o conservas en cuya elaboración se han empleado las operaciones de trituración y, en su caso, las de tamizado y concentración.
+
+4.3. Compota. Es la conserva de frutas u hortalizas, enteras o partidas en trozos, a los que se les ha incorporado solución azucarada, con una graduación final inferior a 14° Brix.
+
+4.4. Confitura. Es el producto preparado con cocción de frutas u hortalizas, enteras, troceadas o trituradas, tamizadas o no, a las que se les ha incorporado azúcares, hasta conseguir un producto gelificado o casi gelificado.
+
+Tendrá una graduación mínima final de 60° Brix y una proporción mínima de fruta del 40 por 100, excepto para los cítricos, que pueden descender hasta el 30 por 100.
+
+4.5. Mermelada. Es el producto preparado por cocción de frutas u hortalizas enteras, troceadas, trituradas, tamizadas, o no, a las que se les han incorporado azúcares hasta conseguir un producto semifluido o espeso.
+
+Tendrá una graduación mínima de 40° Brix y una proporción mínima de fruta de 30 por 100.
+
+4.6. Pasta, carne o dulce de fruta. Es el producto preparado con fruta tamizada y adición de azucares, y llevada por cocción hasta consistencia sólida.
+
+Tendrá una graduación mínima final de 55° Brix.
+
+4.7. Jalea. Es el producto preparado por cocción de zumos, frutas y hortalizas y azucares hasta conseguir una consistencia de gel. Podrá llevar incluidos algunos trozos de frutas u hortalizas.
+
+Las jaleas de frutos cítricos pueden llevar tiras de cortezas y se pueden obtener a partir de extractos de pulpas y cortezas de aquéllos.
+
+Tendrán una graduación mínima final de 65° Brix y una proporción mínima de zumos de frutas de 40 por 100 para la totalidad de frutas, excepto para los cítricos, que puede descender hasta el 30 por 100.
+
+4.8. Pulpa. Es el producto constituido por frutas y/u hortalizas enteras, partidas, troceadas, trituradas y/o deshechas, con o sin agua.
+
+Cuando las frutas y/u hortalizas son cocidas previamente y después se tamizan reciben el nombre de pulpa tamizada.
+
+> Téngase en cuenta que los apartados 4.4, 4.5, 4.7 y 4.8 se derogan en lo que se opongan a lo establecido para los productos incluidos en el ámbito de aplicación de la norma de calidad por la disposición derogatoria del Real Decreto 670/1990, de 25 de mayo. [Ref. BOE-A-1990-12154](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-12154).
+
+4.9. Crema de frutas, hortalizas y tubérculos. Es el producto obtenido mediante la cocción de la pulpa tamizada, con o sin adición de azúcares, especias y/o agentes aromáticos autorizados, hasta conseguir una masa de consistencia homogénea.
+
+4.10. Frutas en almíbar—Son los productos obtenidos a partir de frutas enteras, mitades, segmentos, tiras o cubos, rodajas o gajos, a los que se ha adicionado un jarabe de cobertura.
+
+La graduación final del producto será, como mínimo, de 14° Brix.
+
+4.11. Macedonia o ensalada de frutas. Es la mezcla de frutas diferentes en almíbar, según se definen en 4.10. Puede prepararse el producto congelado o deshidratado, sin que en estos casos lleve incorporado el almíbar.
+
+4.12. Cóctel de frutas. Es la mezcla de diferentes frutas, cortadas en cubos principalmente y envasadas con un jarabe de cobertura igual al señalado en 4.10.
+
+Cuando el producto se presente congelado o deshidratado podrá prepararse sin almíbar.
+
+4.13. Fruta confitada. Es el producto obtenido por cocción de los frutos en jarabes de concentraciones crecientes, hasta quedar impregnados de dicho jarabe. La concentración final del producto será, como mínimo, de 65° Brix.
+
+4.14. Fruta glaseada y/o escarchada. Es la anterior, recubierta de una capa exterior de azúcares de aspecto sólido.
+
+4.15. Mezcla de verduras. Es el producto obtenido a partir de hortalizas, legumbres, tubérculos y/u hongos enteros o troceados. Su presentación puede variar desde la natural a la congelada, deshidratada y conservada por tratamiento térmico. En este caso, puede adicionársele un líquido de gobierno, compuesto esencialmente por agua y sal común. La mezcla de verduras recibe también las denominaciones comerciales siguientes: «menestra», «verdura para sopa», «sopa juliana», «verdura para paella», «sanfaina» y «macedonia de verduras». (Esta enumeración no tiene carácter limitativo.)
+
+> Se derogan en lo que se opongan los apartados 4.4, 4.5, 4.7 y 4.8 por la disposición derogatoria del Real Decreto 670/1990, de 25 de mayo. [Ref. BOE-A-1990-12154](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-12154).
+
+> Redactado el apartado 4.15 conforme a la corrección de errores publicada en BOE núm. 267, de 8 de noviembre de 1978. [Ref. BOE-A-1978-27766](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-27766)
+
+## TÍTULO SEGUNDO — Condiciones de las industrias, de los materiales y del personal
+
+#### Art. 5 a 9.
+
+**(Derogados)**
+
+> Se derogan por el art. 7 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO TERCERO — Registro sanitario
+
+#### Art. 10.
+
+**(Derogado)**
+
+> Se deroga por el art. 7 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 267, de 8 de noviembre de 1978. [Ref. BOE-A-1978-27766](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-27766).
+
+## TÍTULO CUARTO — Materias primas, ingredientes y características generales de los productos terminados
+
+#### Art. 11.
+
+Con carácter general, las materias primas utilizadas para la elaboración de semiconservas y conservas vegetales serán fundamentalmente:
+
+1\. Los productos de origen vegetal señalados en el articulo 2.°
+
+2\. Agua, grasas y aceites comestibles, vino, aguardientes y licores, vinagres, zumos, azúcares, sal y otros condimentos y especias relacionadas en el capítulo XXIV del Código Alimentario Español.
+
+Según el tipo de semiconserva y conserva, podrán utilizarse solamente los agentes aromáticos y aditivos autorizados por Resolución de la Dirección General competente del Ministerio de Sanidad y Seguridad Social.
+
+Todos los ingredientes deberán cumplir con las normas de pureza que se exija para estos productos en el Código Alimentario Español y Reglamentaciones específicas.
+
+#### Art. 12.
+
+**(Derogado)**
+
+> Se deroga por el art. 7 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 13.
+
+**(Derogado)**
+
+> Se deroga por el art. 7 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO QUINTO — Manipulaciones preceptivas, permitidas y prohibidas
+
+#### Art. 14. Manipulaciones preceptivas.
+
+**(Derogado)**
+
+> Se deroga por el art. 7 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 15. Manipulaciones permitidas.
+
+Se consideran prácticas permitidas las siguientes manipulaciones:
+
+1.ª **(Derogado)**
+
+2.ª El pelado de las materias primas por tratamiento con sustancias químicas tales como ácidos, álcalis u otras sustancias autorizadas por la Dirección General competente del Ministerio de Sanidad y Seguridad Social.
+
+3.ª El tratamiento de las frutas destinadas a la pasificación con sustancias autorizadas para este fin.
+
+4.ª Las operaciones encaminadas a mejorar las condiciones técnicas e higiénico-sanitarias del producto final.
+
+> Se deroga el apartado 1 por el art. 7 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 16. Manipulaciones prohibidas.
+
+**(Derogado)**
+
+> Se deroga por el art. 7 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO SEXTO — Envasado, etiquetado y rotulación
+
+#### Art. 17. Materiales de envase.
+
+**(Derogado)**
+
+> Se deroga por el art. 7 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 18. Etiquetado y rotulación.
+
+1\. **(Derogado)**
+
+2\. Denominación del producto y, en su caso, forma de presentación y/o de preparación.
+
+La denominación «al natural» no podrá aplicarse más que a las semiconservas y conservas vegetales elaboradas con los alimentos que las caracterizan, con la adición opcional de agua y/o con pequeñas cantidades de sal común, azúcar y los aditivos específicamente autorizados para estos casos.
+
+Se prohíbe la rotulación con calificativos o expresiones que puedan inducir a error, confusión o engaño del consumidor.
+
+> Se deroga excepto el apartado 2 por el art. 7 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO SÉPTIMO — Almacenamiento, transporte, venta, exportación e importación de conservas y semiconservas vegetales
+
+#### Art. 19.
+
+**(Derogado)**
+
+> Se deroga por el art. 7 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 20.
+
+**(Derogado)**
+
+> Se deroga por el art. 7 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 21. Exportación.
+
+Los productos objeto de esta Reglamentación, destinados a la exportación, se ajustaran a las disposiciones reglamentarias exigidas por el país de destino o, en su caso, a las de mercado y a lo dispuesto en esta materia por el Ministerio de Comercio y Turismo.
+
+Cuando estas disposiciones no aseguren el cumplimiento de las condiciones técnicas que fija esta Reglamentación, no podrán comercializarse en España sin previa autorización del Ministerio de Comercio y Turismo y previo informe de la Comisión interministerial para la Ordenación Alimentaria. El Ministerio de Comercio y Turismo decidirá a la vista de la correspondiente licencia de exportación.
+
+Para su distribución, estos productos deberán responder a las condiciones fijadas en esta Reglamentación y el envase llevará impresa la palabra «EXPORT», junto con aquellas inscripciones que, fijadas por el Ministerio de Comercio y Turismo, previo informe de la Comisión Interministerial para la Ordenación Alimentaria, aclaren al consumidor la diferencia existente entre el producto contenido en el envase y los similares que cumplen las condiciones de esta Reglamentación.
+
+#### Art, 22. Importación.
+
+Las semiconservas y conservas vegetales producidas en el extranjero, para su consumo en nuestro país, deberán adaptarse estrictamente, para su distribución en él, a todas las disposiciones establecidas por esta Reglamentación y las específicas existentes, asi como las futuras que se desarrollen, salvo lo establecido en los tratados o convenios internacionales o excepciones que pueda autorizar la Comisión Interministerial para la Ordenación Alimentaria.
+
+#### Art. 22. Importación.
+
+**(Derogado)**
+
+> Se deroga por el art. 7 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO OCTAVO — Competencias
+
+#### Art. 23.
+
+**(Derogado)**
+
+> Se deroga por el art. 7 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO NOVENO — Métodos analíticos
+
+#### Art. 24.
+
+**(Derogado)**
+
+> Se deroga por el art. 7 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).

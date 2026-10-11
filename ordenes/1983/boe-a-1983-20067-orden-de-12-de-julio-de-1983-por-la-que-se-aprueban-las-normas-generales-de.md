@@ -1,0 +1,455 @@
+---
+title: "Orden de 12 de julio de 1983 por la que se aprueban las normas generales de calidad para la nata y nata en polvo con destino al mercado interior"
+identifier: "BOE-A-1983-20067"
+eli: "https://www.boe.es/eli/es/o/1983/07/12/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1983-07-12
+published: 1983-07-20
+in_force_from: 1984-07-20
+last_amended: 2013-03-29
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 172"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1983-20067"
+retrieved: 2026-10-11
+---
+
+# Orden de 12 de julio de 1983 por la que se aprueban las normas generales de calidad para la nata y nata en polvo con destino al mercado interior
+
+Incluye la corrección de errores publicada en BOE núm. 224, de 19 de septiembre de 1983. [Ref. BOE-A-1983-25051](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-25051).
+
+De conformidad con lo dispuesto en el Decreto 1043/1973, de 17 de mayo, por el que se regula la normalización de productos ganaderos en el mercado interior, y teniendo en cuenta los Decretos de Presidencia del Gobierno 2484/1967, de 21 de septiembre, por el que se aprueba el texto del Código Alimentario Español, y el 2519/1279, de 9 de agosto, sobre su aplicación, desarrollo y entrada en vigor, parece oportuno dictar las presentes normas de calidad, visto el informe de la Comisión Interministerial para la Ordenación alimentaria y de conformidad con los acuerdos del FORPPA.
+
+En su virtud, a propuesta de los Ministros de Agricultura, Pesca y Alimentación, de Economía y Hacienda y de Sanidad y Consumo, esta Presidencia del Gobierno dispone:
+
+## Primero.
+
+Se aprueban las Normas Generales de Calidad para la nata y nata en polvo con destino al mercado interior, recogidas, respectivamente, en los anejos 1 y 2 de esta Orden.
+
+## Segundo.
+
+La toma de muestras, así como las determinaciones analíticas, se realizarán de acuerdo con los métodos oficiales vigentes.
+
+## Tercero.
+
+Los departamentos competentes velarán por el cumplimiento de lo dispuesto en la presente Orden a través de sus órganos administrativos encargados, que coordinarán sus actuaciones; en todo caso, sin perjuicio de las competencias que correspondan a las Comunidades Autónomas y a las Corporaciones Locales.
+
+## Cuarto.
+
+Las presentes Normas entrarán en vigor en todo el territorio del Estado español a los doce meses de su publicación en el «Boletín Oficial del Estado», excepto lo dispuesto en los apartados 12, «Etiquetado y Rotulación», de las mismas que lo harán en las fechas previstas para el título IV del Real Decreto 2058/1982, de 12 de agosto, por el que se aprueba la norma general de etiquetado, presentación y publicidad de los productos alimenticios envasados.
+
+## Quinto.
+
+A la entrada en vigor de las presentes normas quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a la presente Orden en los aspectos que regula.
+
+Lo que comunico a VV. EE. para su conocimiento y efectos.
+
+Dios guarde a VV. EE. muchos años.
+
+Madrid, 12 de julio de 1983.
+
+MOSCOSO DEL PRADO Y MUÑOZ
+
+Excmos. Sres. Ministros de Agricultura Pesca y Alimentación, de Economía y Hacienda y de Sanidad y Consumo.
+
+## ANEJO 1 — Norma general de calidad para la nata
+
+## 1. Nombre de la norma.
+
+Norma general de calidad para la nata.
+
+## 2. Objeto de la norma.
+
+La presente norma tiene por objeto definir aquellas condiciones y características que debe reunir la nata para su comercialización y consumo en el mercado interior.
+
+## 3. Ámbito de aplicación.
+
+La presente norma general abarca a la nata destinada a su comercialización en el mercado interior, con excepción de la nata en polvo.
+
+## 4. Definición.
+
+Se entiende por nata en general al producto lácteo rico en materia grasa separado de las leches de las especies animales a que luego se alude, que toma la forma de una emulsión del tipo grasa en agua.
+
+La nata se elaborará con leche procedente de animales que no padezcan procesos infecciosos peligrosos para la salud pública y forzosamente habrá de ser sometida a un tratamiento que asegure la destrucción de los gérmenes patógenos.
+
+> Redactado el párrafo 2 conforme a la corrección de errores publicada en BOE núm. 224, de 19 de septiembre de 1983. [Ref. BOE-A-1983-25051](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-25051).
+
+## 5. Denominaciones.
+
+5.1. Por su origen.
+
+5.1.1. Nata o nata de vaca: cuando proceda exclusivamente de leche de vaca.
+
+5.1.2. La nata que se fabrique con leche de oveja, leche de cabra, o mezcla de ambas entre sí y con la de vaca, deberá incluir en su denominación, después de la palabra «nata», la indicación de la especie o especies animales de las que proceda la leche empleada por orden descendente de proporciones en caracteres claros y legibles.
+
+5.2. Por su composición.
+
+Según el contenido en materia grasa, expresado en porcentaje en masa de materia grasa sobre masa del producto final, las natas se denominarán:
+
+5.2.1. Doble nata: La que contenga un mínimo de materia grasa del 50 por 100.
+
+5.2.2. Nata: La que contenga un mínimo de materia grasa del 30 por 100 y menos del 50 por 100.
+
+5.2.3. Nata delgada o ligera: La que contenga un mínimo de materia grasa del 12 por 100 y menos del 30 por 100.
+
+Cuando la nata contenga productos añadidos autorizados, la determinación del porcentaje de materia grasa se efectuará sobre la parte láctea, descontando dichos añadidos.
+
+5.3. **(Derogado)**
+
+5.4. Nata homogeneizada.
+
+Cualquiera de las natas anteriores sometidas a un proceso mecánico que subdivida los glóbulos grasos y asegure una mejor emulsión.
+
+5.5. Por distintas incorporaciones.
+
+Todos los tipos de nata que se relacionan a continuación habrán de ser sometidos a algunos de los tratamientos contemplados en el apartado 5.3 de esta norma, sean o no homogeneizados.
+
+5.5.1. Batida o montada: Con adición de aire o gases inocuos.
+
+5.5.2. Para batir o montar: La acondicionada para tal fin.
+
+5.5.3. Azucarada: Con adición de azúcares.
+
+5.5.4. Aromatizada: Con adición de aromas.
+
+5.5.5. Con frutas u otros alimentos naturales.
+
+5.5.6. Ácida o acidificada: la acidificada por adición de fermentos lácticos.
+
+> Se deroga el apartado 5.3 por el art. 25.1 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Redactado el apartado 5.3.1 conforme a la corrección de errores publicada en BOE núm. 224, de 19 de septiembre de 1983. [Ref. BOE-A-1983-25051](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-25051).
+
+## 6. Factores esenciales de composición y calidad.
+
+6.1. Ingredientes esenciales.
+
+Leche de vaca, oveja o cabra o sus mezclas.
+
+6.2. Ingredientes facultativos.
+
+6.2.1. Sacarosa y/o glucosa en proporción total no superior al 15 por 100 en masa con respecto al producto terminado, en las natas azucaradas.
+
+6.2.2. Sustancias aromáticas naturales o idénticas naturales en las natas aromatizadas.
+
+6.2.3. Frutas y otros alimentos naturales.
+
+6.3. Características fisicoquímicas.
+
+6.3.1. Organolépticas: La nata dispuesta para su venta deberá presentar las siguientes características:
+
+Consistencia líquida más o menos viscosa, excepto la «nata batida» o «montada», que presentará consistencia semisólida.
+
+Color blanco amarillento.
+
+Sabor y olor característicos.
+
+6.3.2. Intrínsecas.
+
+Contenido mínimo en materia grasa de leche, 12 por 100.
+
+La composición del extracto seco de la fracción no grasa de las distintas natas, descontando el correspondiente al de los ingredientes facultativos y aditivos añadidos, será la misma que la del extracto seco magro de la leche natural de partida.
+
+Acidez, expresada en peso de ácido láctico por 100 de nata en volumen de la parte no grasa, 0,25 por 100 como máximo, excepto para la nata acidificada, que podrá ser del 0,85 por 100 como máximo.
+
+Impurezas macroscópicas, grado 0.
+
+Las características fisicoquímicas de la grasa estarán comprendidas entre los siguientes valores:
+
+a) Para la nata de vaca:
+
+Índice de refracción a 40º C, de 1,4540 a 1,4557.
+
+Índice de Reichert, de 28 a 32.
+
+Índice de Polenske, de 1 a 4.
+
+Índice de Kirchner, de 19 a 27.
+
+b) Para la nata de oveja:
+
+Índice de refracción a 40º C, de 1,4530 Q 1,4557.
+
+Índice de Reichert, de 26 a 32.
+
+Índice de Polenske, de 5 a 8.
+
+Índice de Kirchner, de 19 a 27.
+
+c) Para la nata de cabra:
+
+Índice de refracción a 40º C, de 1,4520 a 1,4545.
+
+Índice de Reichert, de 21 a 28.
+
+Índice de Polenske, de 5 a 9.
+
+Índice de Kirchner, de 14 a 21.
+
+Tanto para la nata de vaca como para las de oveja y cabra el límite mínimo de colesterol dentro de los esteroles será del 98 por 100 de la fracción esterólica del insaponificable, determinados por cromatografía gaseosa.
+
+## 7. Aditivos autorizados.
+
+**(Derogado)**
+
+> Se deroga por el art. 25.1 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se derogan los apartados 7.2, 7.3, 7.5 y 7.6 por la disposición derogatoria única.12 del Real Decreto 145/1997, de 31 de enero. [Ref. BOE-A-1997-6156](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-6156).
+
+> Redactados los apartados 7.1.1, 7.1.2 y 7.2.2 conforme a la corrección de errores publicada en BOE núm. 224, de 19 de septiembre de 1983. [Ref. BOE-A-1983-25051](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-25051).
+
+## 8. Norma microbiológica y contaminantes.
+
+**(Derogado)**
+
+> Se deroga por el art. 25.1 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se deroga el apartado 8.1 por el art.único.h) del Real Decreto 135/2010, de 12 de febrero. [Ref. BOE-A-2010-3032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3032).
+
+> Redactado el apartado 8.1.a) conforme a la corrección de errores publicada en BOE núm. 224, de 19 de septiembre de 1983. [Ref. BOE-A-1983-25051](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-25051).
+
+## 9. Prohibiciones.
+
+Queda expresamente prohibido:
+
+9.1. **(Derogado)**
+
+9.2. Cualquier manipulación que tienda a sustituir total o parcialmente la grasa natural de la leche utilizada en su fabricación por grasas distintas.
+
+9.3. **(Derogado)**
+
+9.4. **(Derogado)**
+
+9.5. **(Derogado)**
+
+9.6. La venta de productos en cuya denominación se incluya la palabra «nata», donde la totalidad de la materia grasa no proceda exclusivamente de la leche, exceptuando aquellos en cuya composición se incluya únicamente como grasa distinta de la leche la manteca de cacao o aquellos otros donde la nata resulte fácilmente separable o identificable.
+
+9.7. El empleo de las palabras «crema» y «chantilly» para designar aquellos productos que puedan tener el carácter de sucedáneos o productos análogos a la nata, en sus distintas formas, e incluso para la nata misma.
+
+9.8. **(Derogado)**
+
+9.9. La venta de nata con un contenido en materia grasa menor del 12 por 100.
+
+> Se derogan los apartados 9.1, 9.3, 9.4 a 9.5, 9.8 y 9.10 a 9.13 por el art. 25.1 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Redactado el apartado 9.2 conforme a la corrección de errores publicada en BOE núm. 224, de 19 de septiembre de 1983. [Ref. BOE-A-1983-25051](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-25051).
+
+## 10. Higiene.
+
+**(Derogado)**
+
+> Se deroga por el art. 25.1 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## 11. Envasado.
+
+**(Derogado)**
+
+> Se deroga por el art. 25.1 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## 12. Etiquetado y rotulación.
+
+12.1.1. La denominación del producto, que incluirá obligatoriamente:
+
+La palabra «nata», seguida de la indicación de la especie de procedencia en caracteres de igual tamaño, según lo especificado en el apartado 5.1, y el nombre de su tratamiento higiénico según el apartado 5.3. Esta última mención no será obligatoria en el caso de la nata montada o batida.
+
+El porcentaje mínimo de grasa, que se declarará por defecto en unidades completas y discrecionalmente la denominación correspondiente al apartado 5,2.
+
+Las palabras «batida» o «montada», o «para batir» o «para montar» o «apta para batir» o «apta para montar», o acidificada, era su caso, según el apartado 5.5.
+
+En el caso de añadirse azúcares, la expresión «azucarada».
+
+En el caso de utilizarse sustancias aromáticas, la expresión «aromatizada».
+
+> Se deroga excepto el subapartado 12.1.1 por el art. 25.1 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se modifica el apartado 12.1.4.2 por el art. único de la Orden de 5 de octubre de 2001. [Ref. BOE-A-2001-18980](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18980).
+
+> Redactado el apartado 12.1.4.2 conforme a la corrección de errores publicada en BOE núm. 224, de 19 de septiembre de 1983. [Ref. BOE-A-1983-25051](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-25051).
+
+## 13. País de origen.
+
+**(Derogado)**
+
+> Se deroga por el art. 25.1 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## 14. Responsabilidades.
+
+**(Derogado)**
+
+> Se deroga por el art. 25.1 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## ANEJO 2 — Norma general de calidad de la nata en polvo
+
+## 1. Nombre de la norma.
+
+Norma general de calidad de la nata en polvo.
+
+## 2. Objeto de la norma.
+
+La presente norma tiene por objeto definir aquellas condiciones y características que debe reunir la nata en polvo para su comercialización y consumo en el mercado interior.
+
+## 3. Ámbito de aplicación.
+
+La presente norma general abarca a la nata en polvo destinada a su comercialización en el mercado interior.
+
+## 4. Definición.
+
+Se entiende por nata en polvo el producto seco y pulverulento que se obtiene mediante la deshidratación de la nata pasterizada al estado líquido, antes o durante el proceso de fabricación.
+
+## 5. Denominaciones.
+
+5.1. Por su origen.
+
+5.1.1. Nata en polvo o nata en polvo de vaca: Cuando procede exclusivamente de leche de vaca.
+
+5.1.2. La nata en polvo que se fabrique con leche de oveja leche de cabra, o mezcla de ambas entre si y con la de vaca deberá incluir en su denominación, después de la palabra «nata», la indicación de la especie o especies animales de las que procede la leche empleada por orden descendente de proporciones, en caracteres claros y legibles.
+
+5.2. Por su composición.
+
+Según el contenido en materia grasa, expresado en porcentaje en masa de materia grasa sobre masa del producto final las natas se denominarán:
+
+5.2.1. Nata en polvo: La que contenga un mínimo de materia grasa de la leche del 65 por 100 y un máximo de agua del 5 por 100.
+
+5.2.2. Nata delgada o ligera en polvo: La que contenga un mínimo de materia grasa de la leche del 50 por 100 y menos del 55 por 100, así como un contenido máximo de agua del 5 por 100.
+
+## 6. Factores esenciales de composición y calidad.
+
+6.1. Ingredientes esenciales.
+
+Nata de vaca, oveja, cabra o sus mezclas.
+
+6.2. Características fisicoquímicas.
+
+6.2.1. Organolépticas: La nata en polvo dispuesta para su venta deberá presentar las siguientes características:
+
+Consistencia pulverulenta.
+
+Color blanco amarillento.
+
+6.2.2. Intrínsecas:
+
+Contenido mínimo de materia grasa de la leche, 50 por 100.
+
+La naturaleza del extracto seco de la fracción no grasa de la nata en polvo, descontando el correspondiente al de los aditivos añadidos, será idéntica a la del extracto seco magro de la leche desnatada en polvo.
+
+La acidez máxima, expresada en gramos de ácido láctico por 100 gramos, vendrá dada por la fórmula 1,874-0,0133 G, en la que G representa el porcentaje de grasa.
+
+Impurezas macroscópicaes, ausencia.
+
+Las características fisicoquímicas de la grasa estarán comprendidas entre los siguientes valores:
+
+a) Para nata en polvo de vaca:
+
+Índice de refracción a 40º C, de 1,4540 a 1,4557
+
+Índice de Reichert, de 26 a 32.
+
+Índice de Polenske, de 1 a 4.
+
+Índice de Kirchner, de 19 a 27.
+
+b) Para nata en polvo de cabra:
+
+Índice de refracción a 40º C, de 1,4520 a 1,4545.
+
+Índice de Reichert, de 21 a 28.
+
+Índice de Polenske, de 5 a 9.
+
+Índice de Kirchner, de 14 a 21.
+
+c) Para nata en polvo de oveja:
+
+Índice de refracción a 40º C, de 1,4530 a 1,4557.
+
+Índice de Reichert, de 26 a 32.
+
+Índice de Polenske, de 5 a 8.
+
+Índice de Kirchner, de 19 a 27.
+
+Tanto para la nata en polvo de vaca como para las de cabra y oveja el límite mínimo de colesterol dentro de los esteroles será del 98 por 100 de la fracción esterólica del insaponificable determinados por cromatografía gaseosa.
+
+> Redactado el apartado 6.2.2 conforme a la corrección de errores publicada en BOE núm. 224, de 19 de septiembre de 1983. [Ref. BOE-A-1983-25051](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-25051).
+
+## 7. Aditivos autorizados.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.12 del Real Decreto 145/1997, de 31 de enero. [Ref. BOE-A-1997-6156](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-6156).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 224, de 19 de septiembre de 1983. [Ref. BOE-A-1983-25051](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-25051).
+
+## 8. Norma microbiológica y contaminantes.
+
+**(Derogado)**
+
+> Se deroga por el art. 25.2 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se deroga el apartado 8.1 por el art. único.h) del Real Decreto 135/2010, de 12 de febrero. [Ref. BOE-A-2010-3032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3032).
+
+> Redactado el apartado 8.1 conforme a la corrección de errores publicada en BOE núm. 224, de 19 de septiembre de 1983. [Ref. BOE-A-1983-25051](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-25051).
+
+## 9. Prohibiciones.
+
+Queda expresamente prohibido:
+
+9.1. **(Derogado)**
+
+9.2. Cualquier manipulación que tienda a sustituir total o parcialmente la grasa natural de la nata utilizada en su fabricación por grasas distintas.
+
+9.3. **(Derogado)**
+
+9.4. **(Derogado)**
+
+9.5. **(Derogado)**
+
+9.6. **(Derogado)**
+
+9.7. La venta de productos en cuya denominación se incluya la mención .nata en polvo, y no se ajusten a la presente norma.
+
+9.8. **(Derogado)**
+
+9.9. La venta de nata en polvo con un contenido en materia grasa menor del 50 por 100.
+
+> Se derogan los subapartados 9.1, 9.3 a 9.6, 9.8, 9.10 y 9.11 por el art. 25.2 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## 10. Higiene.
+
+**(Derogado)**
+
+> Se deroga por el art. 25.2 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## 11. Envasado.
+
+**(Derogado)**
+
+> Se deroga por el art. 25.2 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## 12. Etiquetado y rotulación.
+
+12.1.1. La denominación del producto, que incluirá obligatoriamente:
+
+La expresión nata en polvo, seguida de la indicación de la especie de procedencia, en caracteres de igual tamaño, según lo especificado en el apartado 5.1.
+
+El porcentaje mínimo de grasa, que se declarará, por defecto en unidades completas, y discrecionalmente la denominación; correspondiente, según el apartado 5.2.
+
+Cuando se trate de natas en polvo de disolución instantánea y/o destinadas para su venta en máquinas deberán hacerse constar tales circunstancias mediante las expresiones de disolución instantánea, «para venta en máquinas» u otras similares.
+
+> Se deroga excepto el subapartado 12.1.1 por el art. 25.2 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## 13. País de origen.
+
+**(Derogado)**
+
+> Se deroga por el art. 25.2 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## 14. Responsabilidades.
+
+**(Derogado)**
+
+> Se deroga por el art. 25.2 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).

@@ -1,0 +1,123 @@
+---
+title: "Real Decreto 924/1989, de 21 de julio, por el que se constituye el Organismo de cuenca Confederación Hidrográfica del Júcar"
+identifier: "BOE-A-1989-17834"
+eli: "https://www.boe.es/eli/es/rd/1989/07/21/924"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Obras Públicas y Urbanismo"
+date: 1989-07-21
+published: 1989-07-27
+in_force_from: 1989-07-28
+last_amended: 2017-10-20
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 178"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1989-17834"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 924/1989, de 21 de julio, por el que se constituye el Organismo de cuenca Confederación Hidrográfica del Júcar
+
+El Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, aprobado por Real Decreto 927/1988, de 29 de julio, establece las normas que desarrollan el título II de la Ley de Aguas en lo referente a la configuración y funciones, tanto de los Organismos de cuenca como de sus órganos de gobierno y administración. El ámbito territorial de cada uno de dichos Organismos se determinó por Real Decreto 650/1987, de 8 de mayo, restando, por lo tanto, para completar su constitución, determinar la sede del Organismos y concretar la representación de las Comunidades Autónomas y de los usuarios en la Junta de Gobierno y en el Consejo del Agua.
+
+En el presente Real Decreto, además de cumplir dichos extremos, oídas las Comunidades Autónomas interesadas, que han manifestado su propósito de incorporarse conforme a la opción que les concedió la disposición adicional segunda de la Ley de Aguas, se establecen las medidas oportunas para la integración de los funcionarios y personal laboral de la actual Confederación Hidrográfica en el nuevo Organismo, así como la subrogación de derechos y obligaciones.
+
+Por último, se prevé un régimen transitorio para el tiempo que tarden en constituirse los diferentes órganos colegiados y disponerse de los presupuestos del nuevo Organismo.
+
+En su virtud, a propuesta del Ministro de Obras Públicas y Urbanismo, con la aprobación del Ministerio para las Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 21 de julio de 1989,
+
+DISPONGO:
+
+## Art. 1. Confederación Hidrográfica del Júcar.
+
+Se constituye el Organismo de Cuenca Confederación Hidrográfica del Júcar, O. A., de acuerdo con lo regulado en el artículo 21 del texto refundido de la Ley de Aguas, aprobado por Real Decreto Legislativo 1/2001, de 20 de julio, como organismo autónomo de los previstos en el artículo 98 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, adscrito al Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente, a través de la Dirección General del Agua.
+
+> Se modifica por la disposición final 4 del Real Decreto 895/2017, de 6 de octubre. [Ref. BOE-A-2017-11984](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-11984)
+
+## Art. 2.
+
+El ámbito del territorio de la Confederación Hidrográfica del Júcar es el determinado por el Real Decreto 650/1987, de 8 de mayo. La sede del Organismo radicará en Valencia, pudiendo establecerse oficinas delegadas o auxiliares en aquellas localidades que acuerde el Presidente, oída la Junta de Gobierno.
+
+## Art. 3.
+
+Las funciones del Organismo, sus órganos de gobierno y de administración, así como su hacienda y patrimonio, se adecuarán a lo establecido en el Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, aprobado por Real Decreto 927/1988, de 29 de julio.
+
+## Art. 4.
+
+La Junta de Gobierno de la Confederación Hidrográfica del Júcar estará integrada por los miembros indicados en el artículo 29 del Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, correspondiendo a las Comunidades Autónomas y a los usuarios, de conformidad con las reglas establecidas en los apartados b) y c) del punto 3.º del apartado 1 de dicho precepto, la siguiente representación:
+
+a) Comunidades Autónomas:
+
+Comunidad de Aragón: Un representante.
+
+Comunidad de Castilla-La Mancha: Tres representantes.
+
+Comunidad de Cataluña: Un representante.
+
+Comunidad Valenciana: Cinco representantes.
+
+b) Usuarios:
+
+De abastecimiento a poblaciones: dos representantes.
+
+De regadío: siete representantes.
+
+De usos energéticos: un representante.
+
+De otros usos: dos representantes.
+
+> Se modifica la letra b) por la disposición final 2 del Real Decreto 255/2013, de 12 de abril. [Ref. BOE-A-2013-3901](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3901).
+
+## Art. 5.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 255/2013, de 12 de abril. [Ref. BOE-A-2013-3901](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3901).
+
+## Disposición adicional primera.
+
+El nuevo Organismo de cuenca se subroga en todos los derechos y obligaciones de la actual Confederación Hidrográfica del Júcar, adquiriendo, en consecuencia, la titularidad de sus bienes y derechos.
+
+## Disposición adicional segunda.
+
+Los funcionarios de la Administración Civil del Estado y de sus Organismos autónomos que, a la entrada en vigor del presente Real Decreto, estén destinados en la actual Confederación Hidrográfica del Júcar ocuparán los puestos de trabajo que en el nuevo Organismo de cuenca se les asigne, respetando la naturaleza de sus funciones y sus correspondientes niveles retributivos.
+
+## Disposición adicional tercera.
+
+El personal laboral que, a la entrada en vigor del presente Real Decreto, esté prestando sus servicios en la actual Confederación Hidrográfica del Júcar, quedará integrado como tal y con todos los derechos adquiridos con anterioridad en la plantilla del personal del nuevo Organismo.
+
+## Disposición transitoria primera.
+
+Los Órganos colegiados del Organismo de cuenca Confederación Hidrográfica del Júcar deberán quedar constituidos en el plazo nueve meses contados a partir de la entrada en vigor del presente Real Decreto.
+
+## Disposición transitoria segunda.
+
+1\. Hasta tanto queden válidamente constituidos los órganos colegiados de gobierno, gestión y planificación del nuevo Organismo de cuenca, ejercerán sus funciones los correspondientes órganos colegiados de la actual Confederación Hidrográfica del Júcar, correspondiendo a la Junta de Gobierno las atribuidas por la Ley de Aguas y sus Reglamentos al Consejo del Agua.
+
+2\. El nuevo Organismo de cuenca mantendrá la estructura orgánica establecida, para las Confederaciones Hidrográficas, por el Real Decreto 1821/1985, de 1 de agosto, hasta tanto se promulgue con carácter general el Real Decreto que determine la estructura orgánica correspondiente.
+
+3\. Hasta que sea nombrado, de acuerdo con el artículo 27 de la Ley de Aguas, el Presidente del Organismo, ejercerá sus funciones el Presidente de la actual Confederación Hidrográfica del Júcar.
+
+## Disposición transitoria tercera.
+
+1\. El nuevo Organismo de cuenca dispondrá, durante el año 1989, de los presupuestos asignados para dicho año a la actual Confederación Hidrográfica del Júcar.
+
+2\. Las cantidades recaudadas en el ejercicio 1988 por los conceptos «Canon de ocupación o utilización y cánones de vertidos», se incorporarán al presupuesto de ingresos del Organismo para el año 1989.
+
+## Disposición final primera.
+
+Se faculta al Ministerio de Obras Públicas y Urbanismo para dictar cuantas disposiciones sean necesarias para el cumplimiento del presente Real Decreto.
+
+## Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca a 21 de julio de 1989.
+
+JUAN CARLOS R.
+
+El Ministro de Obras Públicas y Urbanismo,
+
+JAVIER LUIS SÁENZ DE COSCULLUELA

@@ -1,0 +1,89 @@
+---
+title: "Real Decreto 1930/1984, de 10 de octubre, por el que se desarrolla el artículo 45, 1, de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria"
+identifier: "BOE-A-1984-24555"
+eli: "https://www.boe.es/eli/es/rd/1984/10/10/1930"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación y Ciencia"
+date: 1984-10-10
+published: 1984-11-05
+in_force_from: 1984-11-25
+last_amended: 1989-12-05
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 265"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1984-24555"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1930/1984, de 10 de octubre, por el que se desarrolla el artículo 45, 1, de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria
+
+El artículo 45, 1, de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, determina que la dedicación del profesorado universitario será en todo caso compatible con la realización de proyectos científicos, técnicos o artísticos a que alude el artículo 11 de la misma Ley, de acuerdo con las normas básicas que reglamentariamente se establezcan.
+
+Procede dar cumplimiento a dicha previsión legal y regular, en consecuencia, la concesión de la referida compatibilidad, todo ello conforme a criterios que garanticen el cumplimiento en este campo de las funciones que a la Universidad encomienda la mencionada Ley.
+
+Se aspira, en primer término, a estimular la realización de los aludidos proyectos como vía de aprovechamiento del potencial creador de las Universidades en orden a la solución de los problemas concretos que nuestra sociedad tiene planteados y, muy especialmente, el progreso tecnológico, elemento esencial del progreso económico.
+
+El marco normativo que se instrumenta responde, en segundo lugar, a un criterio de gran flexibilidad a fin de que dentro del lógico respeto a la autonomía de las Universidades sean los Estatutos de éstas los que llevan a cabo su aplicación en función de sus específicas peculiaridades.
+
+Por último se pretende conseguir que las actividades objeto de la compatibilidad no obstaculicen el normal cumplimiento de las funciones docentes e investigadoras de los Profesores mediante el ejercicio de los correspondientes mecanismos de control por parte de las propias Universidades.
+
+En su virtud, previo informe de la Comisión Permanente de la Junta Nacional de Universidades, del Consejo Nacional de Educación y de la Comisión Superior de Personal, de acuerdo con el Consejo de Estado, a propuesta del Ministro de Educación y Ciencia y previa deliberación del Consejo de Ministros en su reunión del día 10 de octubre de 1984,
+
+DISPONGO:
+
+## Artículo 1.
+
+1\. Los Profesores universitarios, cualquiera que sea el régimen de su dedicación, podrán realizar trabajos de carácter científico, técnico o artístico, así como desarrollar cursos de especialización a los que se refiere el artículo 11 de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, según lo dispuesto en el presente Real Decreto.
+
+2\. Los Estatutos de las Universidades, al regular las materias a que se refiere el mencionado artículo 11 de la Ley Orgánica de Reforma Universitaria, no podrán contradecir lo dispuesto en el presente Real Decreto.
+
+## Artículo 2.
+
+1\. En todo caso la compatibilidad a que se refiere el artículo 45, 1, de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, requerirá que el contrato para la realización del proyecto o para el desarrollo del curso de especialización haya sido autorizado por el procedimiento establecido en los Estatutos de la Universidad en la que los Profesores presten sus servicios.
+
+2\. Cuando dicho contrato sea suscrito por el Rector o persona en quien delegue, o por los Directores de los Departamentos o Institutos correspondientes, la compatibilidad se entenderá concedida automáticamente.
+
+Cuando el contrato sea firmado por el propio Profesor universitario, la compatibilidad requerirá la previa y expresa conformidad del Departamento o Instituto correspondiente a los términos del contrato.
+
+## Artículo 3.
+
+A los efectos de lo establecido en el presente Real Decreto tendrán la consideración de cursos de especialización aquellos dirigidos primordialmente a ampliar y profundizar los conocimientos de los titulados universitarios, al objeto de elevar su capacitación científica y profesional, y que supongan para el Profesor la obligación de dictar al menos cinco lecciones o conferencias.
+
+## Artículo 4.
+
+La compatibilidad será denegada:
+
+a) Cuando los trabajos o los cursos de especialización no tengan el nivel científico, técnico o artístico exigible al profesorado universitario.
+
+b) Cuando la realización de los trabajos o la participación en los cursos de especialización puedan ocasionar un perjuicio cierto a la labor docente, o cuando impliquen actuaciones impropias del profesorado universitario.
+
+c) Cuando el tipo de trabajo objeto del contrato esté atribuido en exclusiva a determinados profesionales en virtud de disposición legal y el Profesor contratante carezca del título correspondiente.
+
+d) Cuando las obligaciones contraídas en el contrato impliquen, de hecho, la constitución de una relación estable.
+
+## Artículo 5.
+
+1\. La remuneración que podrán percibir los Profesores por las actividades desarrolladas en ejercicio de las compatibilidades a las que se refiere el presente Real Decreto se ajustará a los siguientes límites:
+
+a) Cuando la cantidad contratada, una vez deducidos los gastos materiales y personales que la realización del proyecto o curso de especialización supongan para la Universidad, sea inferior al quíntuplo de los haberes brutos mensuales mínimos de un Catedrático de Universidad en régimen de dedicación a tiempo completo, el Profesor podrá percibir un porcentaje que será establecido en los Estatutos de la Universidad, y que no podrá ser superior al 90 por 100 de la misma. Cuando esta cantidad exceda del expresado quíntuplo, el Profesor podrá percibir, además, un porcentaje que será asimismo establecido en los Estatutos de la Universidad, y que no podrá ser superior al 75 por 100 del exceso
+
+b) La cantidad percibida anualmente por un Profesor universitario con cargo a los contratos a que se refiere el presente Real Decreto no podrá exceder del resultado de incrementar en el 50 por 100 la retribución anual que pudiera corresponder a la máxima categoría docente-académica en régimen de dedicación a tiempo completo por todos los conceptos retributivos previstos en el Real Decreto 1086/1989, de 28 de agosto, sobre retribuciones del Profesorado universitario.
+
+2\. Para determinar los porcentajes a que se refiere la letra a) del apartado anterior, la Universidad habrá de tener en cuenta, entre otros criterios, el número de Profesores que participen en la realización de; trabajo, así como el tipo de dedicación de éstos.
+
+> Se modifica la letra b) del apartado 1 por el art. único del Real Decreto 1450/1989, de 24 de noviembre. [Ref. BOE-A-1989-28789](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-28789).
+
+## Artículo 6.
+
+En el supuesto de contratos suscritos con Entidades públicas que gestionen fondos de investigación los porcentajes a que se refiere la letra a) del apartado uno del artículo anterior podrán ser fijados por la Entidad contratante.
+
+Dado en Madrid a 10 de octubre de 1984.
+
+JUAN CARLOS R.
+
+El Ministro de Educación y Ciencia,
+
+JOSÉ MARÍA MARAVALL HERRERO

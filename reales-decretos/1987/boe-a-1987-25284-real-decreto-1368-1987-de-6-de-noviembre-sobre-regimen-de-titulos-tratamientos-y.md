@@ -1,0 +1,107 @@
+---
+title: "Real Decreto 1368/1987, de 6 de noviembre, sobre régimen de títulos, tratamientos y honores de la Familia Real y de los Regentes"
+identifier: "BOE-A-1987-25284"
+eli: "https://www.boe.es/eli/es/rd/1987/11/06/1368"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1987-11-06
+published: 1987-11-12
+in_force_from: 1987-12-02
+last_amended: 2014-06-19
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 271"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1987-25284"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1368/1987, de 6 de noviembre, sobre régimen de títulos, tratamientos y honores de la Familia Real y de los Regentes
+
+A propuesta del Ministro de Justicia, previa deliberación del Consejo de Ministros en su reunión del día 6 de noviembre de 1987,
+
+DISPONGO:
+
+## CAPÍTULO PRIMERO — De la Real Familia
+
+### Artículo 1.
+
+1\. El titular de la Corona se denominará Rey o Reina de España y podrá utilizar los demás títulos que correspondan a la Corona, así como las otras dignidades nobiliarias que pertenezcan a la Casa Real. Recibirá el tratamiento de Majestad.
+
+2\. La consorte del Rey de España, mientras lo sea o permanezca viuda, recibirá la denominación de Reina y el tratamiento de Majestad, así como los honores correspondientes a su Dignidad que se establezcan en el ordenamiento jurídico.
+
+3\. Al consorte de la Reina de España, mientras lo sea o permanezca viudo, corresponderá la Dignidad de Príncipe. Recibirá el tratamiento de Alteza Real y los honores correspondientes a su Dignidad que se establezcan en el ordenamiento jurídico.
+
+### Artículo 2.
+
+El heredero de la Corona tendrá desde su nacimiento o desde que se produzca el hecho que origine el llamamiento la Dignidad de Príncipe o Princesa de Asturias, así como los demás títulos vinculados tradicionalmente al Sucesor de la Corona y los honores que como tal le correspondan. Recibirá el tratamiento de Alteza Real. De igual Dignidad y tratamiento participará su consorte, recibiendo los honores que se establezcan en el ordenamiento jurídico.
+
+### Artículo 3.
+
+1\. Los hijos del Rey que no tengan la condición de Príncipe o Princesa de Asturias y los hijos de este Príncipe o Princesa serán Infantes de España y recibirán el tratamiento de Alteza Real. Sus consortes, mientras lo sean o permanezcan viudos, tendrán el tratamiento y honores que el Rey, por vía de gracia, les conceda en uso de la facultad que le atribuye el apartado f) del artículo 62 de la Constitución.
+
+2\. Asimismo el Rey podrá agraciar con la Dignidad de Infante y el tratamiento de Alteza a aquellas personas a las que juzgue dignas de esta merced por la concurrencia de circunstancias excepcionales.
+
+3\. Fuera de lo previsto en el presente artículo y en el anterior, y a excepción de lo previsto en el artículo 5 para los miembros de la Regencia, ninguna persona podrá:
+
+a) Titularse Príncipe o Princesa de Asturias u ostentar cualquier otro de los títulos tradicionalmente vinculados al Sucesor de la Corona de España.
+
+b) Titularse Infante de España.
+
+c) Recibir los tratamientos y honores que corresponden a las Dignidades de las precedentes letras a) y b).
+
+### Artículo 4.
+
+Los hijos de los Infantes de España tendrán la consideración de Grandes de España, sin que ello dé origen a un tratamiento especial distinto del de Excelencia.
+
+## CAPÍTULO II — De la Regencia
+
+### Artículo 5.
+
+Quienes ejerzan la Regencia tendrán el tratamiento de Alteza e iguales honores que los establecidos para el Príncipe de Asturias, a no ser que les correspondan otros de mayor rango.
+
+## CAPÍTULO III — De los títulos de la Casa Real
+
+### Artículo 6.
+
+El uso de títulos de nobleza, pertenecientes a la Casa Real, solamente podrá ser autorizado por el Titular de la Corona a los miembros de su Familia. La atribución del uso de dichos títulos tendrá carácter graciable, personal y vitalicio.
+
+## DISPOSICIONES TRANSITORIAS
+
+### Primera.
+
+1\. Don Juan de Borbón y Battemberg, padre de Su Majestad el Rey, Don Juan Carlos I de Borbón, continuará vitaliciamente en el uso del título de Conde de Barcelona, con tratamiento de Alteza Real y honores análogos a los que corresponden al Príncipe de Asturias.
+
+2\. Igual título y tratamiento recibirá la madre de Su Majestad el Rey, don Juan Carlos I de Borbón, Doña María de las Mercedes de Borbón y Orleans.
+
+### Segunda.
+
+Las hermanas de Su Majestad el Rey, Don Juan Carlos I de Borbón, serán Infantas de España y conservarán el derecho al uso del tratamiento de Alteza Real vitaliciamente, pero no sus consortes ni hijos.
+
+### Tercera.
+
+Los miembros de la familia del Rey Don Juan Carlos I de Borbón, que en la actualidad tuviesen reconocido el uso de un título de la Casa Real y el tratamiento de Alteza Real, podrán conservarlo con carácter vitalicio, pero no sus consortes ni descendientes.
+
+### Cuarta.
+
+Don Juan Carlos de Borbón, padre del Rey Don Felipe VI, continuará vitaliciamente en el uso con carácter honorífico del título de Rey, con tratamiento de Majestad y honores análogos a los establecidos para el Heredero de la Corona, Príncipe o Princesa de Asturias, en el Real Decreto 684/2010, de 20 de mayo, por el que se aprueba el Reglamento de Honores Militares.
+
+Doña Sofía de Grecia, madre del Rey Don Felipe VI, continuará vitaliciamente en el uso con carácter honorífico del título de Reina, con tratamiento de Majestad y honores análogos a los establecidos para la Princesa o el Príncipe de Asturias consortes en dicho Real Decreto.
+
+El orden de precedencia de los Reyes Don Juan Carlos y Doña Sofía en el Ordenamiento General de Precedencias del Estado, aprobado por el Real Decreto 2099/1983, de 4 de agosto, será el inmediatamente posterior a los descendientes del Rey Don Felipe VI.
+
+> Se añade por el art. único del Real Decreto 470/2014, de 13 de junio. [Ref. BOE-A-2014-6477](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6477).
+
+## DISPOSICIÓN DEROGATORIA
+
+Quedan derogadas las disposiciones del mismo o inferior rango que se opongan a lo previsto en el presente Real Decreto.
+
+Dado en Madrid a 6 de noviembre de 1987.
+
+JUAN CARLOS R.
+
+El Ministro de Justicia,
+
+FERNANDO LEDESMA BARTRET

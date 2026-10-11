@@ -1,0 +1,965 @@
+---
+title: "Decreto de 6 de abril de 1943 por el que se aprueba el Reglamento para la ejecución de la Ley de Pesca Fluvial de 20 de febrero de 1942"
+identifier: "BOE-A-1943-4165"
+eli: "https://www.boe.es/eli/es/d/1943/04/06/(1)"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura"
+date: 1943-04-06
+published: 1943-05-02
+in_force_from: 1943-05-22
+last_amended: 2010-03-27
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 122"
+status: repealed
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1943-4165"
+retrieved: 2026-10-11
+---
+
+# Decreto de 6 de abril de 1943 por el que se aprueba el Reglamento para la ejecución de la Ley de Pesca Fluvial de 20 de febrero de 1942
+
+Disposición derogada en cuanto se oponga a lo dispuesto en el Decreto 4227/1964, de 17 de diciembre. [Ref. BOE-A-1965-71](https://www.boe.es/buscar/doc.php?id=BOE-A-1965-71).
+
+A propuesta del Ministro de Agricultura y previa deliberación del Consejo de Ministros,
+
+DISPONGO:
+
+#### Articulo único.
+
+Se aprueba el adjunto Reglamento para la aplicación de la Ley; de veinte de febrero de mil novecientos cuarenta y dos sobre Pesca Fluvial.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a seis de abril de mil novecientos cuarenta y tres.
+
+FRANCISCO FRANCO
+
+El Ministro de Agricultura,
+
+MIGUEL PRIMO DE RIVERA Y SÁENZ DE HEREDIA
+
+## REGLAMENTO
+
+## TÍTULO PRIMERO
+
+#### Art. 1. Aguas continentales.
+
+A los efectos de la Ley de Pesca Fluvial de 20 de febrero de 1942, se consideran aguas continentales, dentro de los límites fijados en su artículo 48, todos los manantiales, charcas, lagunas, lagos, acequias, embalses, pantanos, canales, albuferas, arroyos y ríos, ya sean dulces, salobres o saladas.
+
+## TÍTULO SEGUNDO — Conservación y fomento de las especies
+
+### CAPÍTULO I — Conservación
+
+#### Art. 2. Dimensiones mínimas.
+
+Para el debido cumplimiento del artículo 2.º de la Ley, queda también prohibida la tenencia en todo tiempo de aquellos ejemplares de la fauna acuática cuyas longitudes sean iguales o inferiores a las señaladas en dicho artículo, excepción hecha de la angula.
+
+#### Art. 3. Obstáculos; Pasos y Escalas: Obras.
+
+Los proyectos de instalación de pasos o escalas, así como los de ejecución de obras o adopción de medidas a que se refieren para los varios casos que prevén los artículos 3.º y 4.º de la Ley se formularán por las Jefaturas del Servicio Piscícola, por sí o por Orden de la Dirección General de Montes, Caza y Pesca Fluvial; y después de los trámites correspondientes se elevarán para su aprobación a la Dirección General expresada, la cual resolverá por sí.
+
+Siendo preceptivo el informe de la Jefatura de Aguas, cuando hubiere discrepancias entre ésta y lo proyectado, se pondrá en conocimiento de los Ministros de Agricultura y de Obras Públicas, y si no se lograse acuerdo, resolverá definitivamente la Presidencia del Gobierno.
+
+#### Art. 4. Ejecución de las obras: Pantanos.
+
+Cuando se trate de pantanos del Estado, sea cualquiera la fecha de su construcción, reparación o modificación, las obras que hayan de realizarse en cumplimiento de lo prevenido en el artículo 3.º de la Ley, así como la reparación y conservación de las mismas, se ejecutarán por el Servicio de Obras Públicas, a no ser que éste prefiera autorizar a la Administración Forestal para que ésta las lleve a cabo.
+
+#### Art. 5. Proyectos.
+
+Cuando se trate de escalas o pasos cuya construcción, reparación y conservación, corra a cargo de los concesionarios de los aprovechamientos hidráulicos, conforme a los párrafos sexto y séptimo del artículo 3.º de la Ley, podrá el concesionario formular el proyecto de escala o paso o, en su caso, el plan de medidas que reemplace a las referidas construcciones. Dicho proyecto deberá ser suscrito por técnico competente, y, una vez informado por la Jefatura del Servicio Piscícola correspondiente, tendrá que ser aprobado por la Dirección General de Montes Caza y Pesca Fluvial.
+
+De renunciar el concesionario a tal derecho, o de no presentar el proyecto en el plazo fijado, redactará el proyecto o plan el Servicio Piscícola correspondiente, estando obligado el concesionario a satisfacer los honorarios que la realización de tales trabajos supongan, a cuyo efecto el Servicio Piscícola formulará el oportuno presupuesto, que requerirá la aceptación del interesado.
+
+El importe de dichos honorarios deberá ser entregado en la Habilitación del Servicio Piscícola de la provincia correspondiente.
+
+De no prestar conformidad el concesionario al presupuesto, éste, con las impugnaciones hechas por aquél, será sometido a la resolución de la Dirección General de Montes, Caza y Pesca Fluvial.
+
+#### Art. 6. Plazo de ejecución.
+
+A los efectos del artículo cuarto de la Ley, el plazo para la presentación de los proyectos se contará desde la fecha en que el Servicio comunique a los concesionarios la necesidad de la obra o del plan de medidas; y el plazo de ejecución, desde la notificación de la aprobación del proyecto o plan.
+
+Para la fijación de la cuantía del canon, en su caso, se tendrán en cuenta los daños y perjuicios que pudieran causarse por el incumplimiento de lo acordado.
+
+Dichos concesionarios están obligados a satisfacer al Servicio Piscícola un interés máximo del 7 por 100 anual del capital anticipado por éste para la ejecución de los proyectos o planos correspondientes, hasta que se haya abonado el importe total de las obras.
+
+#### Art. 7. Reducción de los plazos.
+
+Cuando, a juicio del Servicio Piscícola y a los fines de repoblación de un río, sea indispensable acortar el plazo señalado en el artículo cuarto de la Ley para la construcción de una escala o paso, la Administración podrá realizar las obras, previo conocimiento y aceptación por el interesado del proyecto y presupuesto de ejecución formulado al efecto por el Servicio Piscícola y aprobado por la Dirección General de Montes, Caza y Pesca Fluvial. El importe de las obras será anticipado por el Servicio Piscícola, y deberá ser reintegrado por el concesionario antes de finalizar el plazo que se hubiera señalado para la terminación de aquéllas, y sin devengo de interés alguno hasta entonces; quedando sometida para lo sucesivo a lo preceptuado en el último párrafo del artículo sexto de este Reglamento.
+
+En caso de disconformidad del concesionario sobre el proyecto o presupuesto de ejecución, la Dirección General de Montes, Caza y Pesca Fluvial, con vista de las alegaciones de aquél, resolverá lo procedente.
+
+#### Art. 8. Inspección Técnica.
+
+El Servicio Piscícola tendrá la obligación de inspeccionar la ejecución de obras o la puesta en práctica de las medidas sustitutivas, y deberá certificar, a la terminación de las mismas, su realización con arreglo al plan o proyecto aprobados, siendo por cuenta de los concesionarios cuantos gastos se ocasionen por este concepto, para lo cual deberá formularse el correspondiente presupuesto, que, de no ser aceptado por el concesionario, se elevará por el Servicio Piscícola a la Dirección General de Montes, Caza y Pesca Fluvial, para la resolución pertinente.
+
+#### Art. 9. Subvenciones.
+
+En el caso de que las entidades obligadas a efectuar obras o adoptar medidas en beneficio de la riqueza piscícola, las ejecutaran o pusieran en práctica antes de la terminación del plazo señalado, podrá la Administración subvencionarlas en cuantía proporcional a la rapidez de la realización e importancia de la riqueza salvaguardada, sin que nunca pueda exceder la subvención del veinticinco por ciento del coste total de ejecución, y siempre a propuesta del Servicio Piscícola y mediante aprobación de la Dirección General de Montes, Caza y Pesca Fluvial.
+
+#### Art. 10. Caudal mínimo.
+
+En el caso de desacuerdo entre los Servicios de Obras Públicas y Piscícolas sobre elevación de caudales, mínimos para el buen funcionamiento de las escalas, resolverá la Presidencia del Gobierno.
+
+#### Art. 11. Conservación.
+
+En los casos en que la ejecución de las obras o la puesta en práctica de las medidas sustitutivas corran a cargo del concesionario de los aprovechamientos hidráulicos, cualquiera que sea aquél, conforme determinan los párrafos sexto y séptimo del artículo tercero de la Ley, también están obligados a mantenerlas en perfecto estado de conservación, para evitar daños a la riqueza piscícola.
+
+De observarse deterioro o deficiencia en las obras de fábrica ejecutarán por su cuenta las reparaciones precisas que se fijarán por el Servicio Piscícola; y de no llevarlas a cabo en el plazo que se marque, será función de la Administración la realización de las mismas con cargo al concesionario, quien satisfará, en concepto de multa, el cinco por ciento del presupuesto total de ejecución, debiendo, además, abonar los gastos, inherentes a la gestión del personal del Servicio Piscícola.
+
+#### Art. 12. Obras en presas y diques.
+
+Cuando los concesionarios de estos aprovechamientos hidráulicos se propongan realizar obras en las presas o diques, deberán dar cuenta de sus proyectos al Servicio Piscícola, para que éste pueda autorizarlos o condicionarlos, con arreglo a lo exigido por la conservación de la riqueza piscícola.
+
+Será aplicable, en su caso, respecto de tales proyectos, lo prevenido en el párrafo último del artículo tercero de este Reglamento.
+
+#### Art. 13. Concesiones de aprovechamientos hidráulicos.
+
+El Servicio Hidráulico que tramite la petición de una concesión de aprovechamiento de aguas, superficiales, lo comunicará, con remisión del proyecto a la Jefatura del Servicio Piscícola con jurisdicción en aquel lugar, para que, durante el período de información pública de la petición, y a la vista del proyecto, formule las condiciones que deberán imponerse en la concesión para salvaguardar la riqueza piscícola,
+
+#### Art. 14. Artefactos.
+
+A los efectos del párrafo tercero del artículo quinto de la Ley, se prohibe asimismo la colocación de artefactos que dificulten el desplazamiento de los seres acuáticos.
+
+#### Art. 15. Medidas contra la impurificación de las aguas.
+
+Queda prohibido incorporar a las aguas continentales o a sus álveos todas aquellas sustancias susceptibles de perjudicar a la fauna piscícola, bien sea de forma directa o inmediata o a sus exigencias fisiológicas, nutritivas, reproductivas o ecológicas.
+
+Las empresas cuyas instalaciones viertan actualmente o puedan verter en el futuro sus residuos de fabricación o explotación a las aguas continentales de forma tal que perjudiquen o puedan perjudicar a la fauna piscícola vendrán obligadas a adoptar los dispositivos precisos para anular o aminorar dichos perjuicios: a estos fines deberán corregir sus vertimientos para que las aguas públicas receptoras reúnan las características cualitativas y cuantitativas que señale el Servicio Nacional de Pesca Fluvial y Caza en función de las circunstancias de orden biológico y económico que concurran en la masa acuícola y en la riqueza piscícola afectadas. Lo anterior obliga a todo aquel que de una forma u otra incorpore o pretenda incorporar a las aguas continentales o a sus álveos sustancias que puedan ser nocivas a la riqueza piscícola.
+
+A los efectos indicados en el apartado anterior, en los expedientes de concesión de aguas tramitados por el Ministerio de Obras Públicas deberá figurar necesariamente un informe del Servicio Nacional de Pesca Fluvial y Caza en el que se fijen las características cualitativas y cuantitativas de que antes se hace mención.
+
+> Se modifica por el art. 1 del Decreto 2237/1966, de 13 de agosto. [Ref. BOE-A-1966-15517](https://www.boe.es/buscar/doc.php?id=BOE-A-1966-15517).
+
+#### Art. 16. Resarcimiento de daños y perjuicios.
+
+De los daños y perjuicios ocasionados a la riqueza piscícola por causa de la incorporación a las aguas o a sus álveos de sustancias perjudiciales para la fauna acuícola serán responsables las personas físicas o jurídicas que los causen.
+
+A estos efectos el Servicio Nacional de Pesca Fluvial y Caza instruirá los expedientes oportunos de valoración y resarcimiento, debiendo figurar en los mismos de forma preceptiva la audiencia e los interesados con el fin de valorar los daños y concretar la forma de resarcimiento. Cuando estos expedientes estuvieren ultimados se elevarán con propuesta a la Dirección General de Montes, Caza y Pesca Fluvial, que fijará la cuantía de la compensación.
+
+De la incoación de estos expedientes se dará cuenta a los Servicios Hidráulicos competentes para que adopten aquellas medidas derivadas del titulo concesional que estimen convenientes.
+
+En relación con el párrafo segundo del artículo sexto de la Ley de Pesca Fluvial, cuando se suscite conflicto acerca de la prioridad de los aprovechamientos industriales o de la riqueza piscícola, se promoverá lo necesario para llegar a su determinación por los Ministerios de Obras Públicas y de Agricultura, y en caso de desacuerdo decidirá el Consejo de Ministros.
+
+Cuando por circunstancias imprevisibles o inevitables se ocasionen daños a la riqueza piscícola no originarán responsabilidad alguna para las personas o entidades que lo causen, siendo objeto de la declaración correspondiente por el Servicio Nacional de Pesca Fluvial y Caza.
+
+> Se modifica por el art. 1 del Decreto 2237/1966, de 13 de agosto. [Ref. BOE-A-1966-15517](https://www.boe.es/buscar/doc.php?id=BOE-A-1966-15517).
+
+#### Art. 17. Plazos para adoptar las medidas depuradoras.
+
+En los casos de industrias o explotaciones ya establecidas y cuando el expediente afecte a la competencia del Ministerio de Industria se oirá a dicho Departamento, el cual emitirá informe en el plazo de quince días, correspondiendo al Servicio Nacional de Pesca Fluvial y Caza fijar los plazos en que las mismas deberán corregir sus vertimientos para que las aguas afectadas reúnan las características cualitativas y cuantitativas que señale el referido Servicio a tenor de lo preceptuado en el artículo quince del presente Reglamento. La notificación a los interesados tanto del plazo concedido para corregir los vertimientos como de las características de las aguas afectadas, deberá hacerse a través de los Servicios competentes del Ministerio de Obras Públicas. Transcurrido este plazo el expediente de armonización de los intereses industriales y piscícolas se tramitará en la forma prevista en el artículo anterior.
+
+> Se modifica por el art. 1 del Decreto 2237/1966, de 13 de agosto. [Ref. BOE-A-1966-15517](https://www.boe.es/buscar/doc.php?id=BOE-A-1966-15517).
+
+#### Art. 18. Cumplimiento de las normas reglamentarias.
+
+Si la entidad o explotación industrial no adaptara las características de sus vertimientos a las normas señaladas por el Servicio Nacional de Pesca Fluvial y Caza éste, aparte de exigir el pago de daños y perjuicios padecidos por la riqueza piscícola, lo pondrá en conocimiento de la Comisaria de Aguas de la cuenca correspondiente para que ésta obligue al interesado a cumplir las normas reglamentarias.
+
+> Se modifica por el art. 1 del Decreto 2237/1966, de 13 de agosto. [Ref. BOE-A-1966-15517](https://www.boe.es/buscar/doc.php?id=BOE-A-1966-15517).
+
+#### Art. 19. Causas de fuerza mayor.
+
+Cuando causas de fuerza mayor hicieren ineficaces las precauciones adoptadas, quedarán exentas de toda responsabilidad las entidades explotadoras de las industrias o concesiones, una vez comprobado dicho extremo por el Servicio Piscícola.
+
+#### Art. 20. Inspecciones.
+
+En lo que pueda afectar a la riqueza piscícola, compete al Servicio Nacional de Pesca Fluvial y Caza inspeccionar el funcionamiento de las instalaciones industriales, así como las redes de evacuación de las aguas residuales tomando cuantas muestras considere convenientes con el fin de analizar la composición y características de estas aguas.
+
+> Se modifica por el art. 1 del Decreto 2237/1966, de 13 de agosto. [Ref. BOE-A-1966-15517](https://www.boe.es/buscar/doc.php?id=BOE-A-1966-15517).
+
+#### Art. 21. Aguas fecales.
+
+En relación con los vertimientos procedentes de alcantarillados públicos los Ayuntamientos deberán extremar sus precauciones para evitar en lo posible que se originen daños a la riqueza piscícola. Las industrias usuarias de las redes de alcantarillado público quedan obligadas a cumplir y aplicar las disposiciones generales contenidas en los precedentes artículos del presente Reglamento.
+
+> Se modifica por el art. 1 del Decreto 2237/1966, de 13 de agosto. [Ref. BOE-A-1966-15517](https://www.boe.es/buscar/doc.php?id=BOE-A-1966-15517).
+
+> Se modifica por el art. único del Decreto 26 de enero de 1946. [Ref. BOE-A-1946-1928](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-1928).
+
+#### Art. 22. Enriado de textiles.
+
+Queda terminantemente prohibido, el enriado de toda clase de plantas textiles en las aguas públicas.
+
+Si por el Servicio Piscícola, y previa petición del interesado, se comprobara la necesidad de llevar a cabo esta operación en dichas aguas, aquél señalará el lugar donde deba realizarse, y fijará también las normas para su ejecución, autorizándola previo pago de los daños y perjuicios que se pudieran ocasionar a la riqueza acuícola.
+
+El Servicio Piscícola podrá regular esta operación en las aguas privadas, cuando, a su juicio, pueda causar daños a la pesca.
+
+#### Art. 23. Vegetación.
+
+La autorización a que se contrae el párrafo primero del artículo séptimo de la Ley, se otorgará por las Jefaturas del Servicio Piscícola por causa justificada de necesidad o por conveniencia pública, y previo pago del importe de la tasación de los productos aprovechables.
+
+La autorización para la extracción de plantas acuáticas en la zona marítimo-terrestre se hará por la Autoridad de Marina, proscribiéndose aquellos que señale el Servicio Piscícola por ser perjudiciales a la riqueza encargada a su custodia.
+
+> Se modifica por el art. único del Decreto de 26 de enero de 1946. [Ref. BOE-A-1946-1928](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-1928).
+
+#### Art. 24. Desviaciones.
+
+Las autorizaciones a que se refiere el párrafo cuarto del artículo 7.º de la Ley se concederán sin perjuicio de los acuerdos que sobre tales peticiones adopte el Servicio de Obras Públicas.
+
+#### Art. 25. Rejillas.
+
+A los efectos del artículo 9.° de la Ley, las Jefaturas del Servicio Piscícola tendrán asimismo la facultad de señalar las épocas en que deban funcionar las rejillas y procederse a su precintado.
+
+#### Art. 26. Agotamientos.
+
+Será también aplicable lo dispuesto en el artículo 10 de la Ley cuando los concesionarios de aprovechamientos hidráulicos juzguen necesario disminuir notablemente la masa o el caudal de agua de los embalses, canales u obras de desviación.
+
+Si para salvaguardar la riqueza piscícola se juzgara indispensable retrasar la fecha fijada para el agotamiento o disminución y con ello no se perturbaran grandemente los intereses primordiales de las concesiones hidráulicas, podrá acordar el Servicio Piscícola que se retrase por el tiempo estrictamente necesario para la ejecuclón de las operaciones indicadas.
+
+#### Art. 27. Embarcaciones.
+
+En las épocas de veda, solamente se permitirá en las masas de aguas continentales el tránsito de barcas de recreo y para el transporte de pasajeros y mercancías.
+
+### CAPÍTULO II — Vedas
+
+#### Art. 28. Época.
+
+A los efectos prevenidos en el artículo 12 de la Ley, todas las fechas señaladas en él o en las disposiciones que cita se entenderán incluidas en época de veda.
+
+#### Art. 29. Veda absoluta.
+
+La veda absoluta en aguas privadas, a que se refiere el párrafo último del artículo 13 de la Ley, sólo podrá decretarse cuando tal medida resurte indispensable para la repoblación de las aguas públicas, contiguas o próximas.
+
+#### Art. 30. Edictos.
+
+Los Jefes del Servicio Piscícola tendrán obligación de publicar en los «Boletines Oficiales» de las provincias respectivas, con diez días de anticipación, edictos recordando las fechas en que empiezan y terminan las vedas de las diferentes especies y procedimientos sujetos a ellas.
+
+La falta de publicación de los edictos no eximirá del cumplimiento de lo preceptuado en la Ley y en este Reglamento,
+
+#### Art. 31. Guías del salmón.
+
+Para el transporte y venta del salmón en época permitida, es condición indispensable que vaya acompañado de una guía acreditativa de su legal procedencia, expedida por la autoridad competente.
+
+#### Art. 32. Guías salmón congelado.
+
+La circulación y venta del salmón congelado procedente del extranjero, durante el período de veda para esta especie, sólo se autorizará con guía expedida por los organismos para ello facultados, en que conste taxativamente el punto de procedencia de la mercancía. Cada ejemplar llevará una etiqueta que así lo atestigüe.
+
+#### Art. 33. Circulación.
+
+Para los casos en que el período de veda no abarque a toda España por tener carácter regional, se prohíbe en absoluto la tenencia, circulación, comercio y consumo de la pesca fuera de los sitios en que esté autorizada la captura de la especia o especies correspondientes.
+
+### CAPÍTULO III — Prohibiciones por razón de sitio
+
+#### Art. 34. Distancia entre redes.
+
+A los efectos de prevenido en el párrafo primero del artículo 15 de la Ley, en caso de duda sobre prioridad de la colocación de las redes, ambos pescadores se retirarán, por igual, en direcciones opuestas, hasta que entre ellos quede el espacio indicado.
+
+#### Art. 35. Plazos.
+
+En los pozos salmoneros y sus corrientes no arrendadas, queda limitado el derecho del pescador a un período de tiempo no superior a treinta minutos para el primer ocupante de aquéllos, siempre que haya otros pescadores que deseen, a su vez, ejercer el derecho de pesca en el mismo pozo. Este plazo de duración se prorrogará hasta que cobre la primera pieza, de tener trabado en el anzuelo algún salmón, o hasta que éste se suelte si no logra capturarlo.
+
+Cuando el pozo salmonero no se halle bien determinado, se entenderá por tal una longitud de cauce de cincuenta metros, a partir del lugar donde se encuentre colocado el primer pescador, aguas arriba o aguas abajo de dicho lugar, a elección de aquél.
+
+#### Art. 36. Excepciones.
+
+No será preciso respetar las distancias señaladas en el artículo 15 de la Ley sino cuando lo reclame alguno de los interesados; pero si uno de los pescadores hubiere clavado en el anzuelo un pez que por su tamaño, defensa o resistencia lo requiriera, aquél podrá exigir de los restantes, situados en sus inmediaciones, que retiren los aparejos hasta que el ejemplar sea capturado o se liberte del anzuelo.
+
+#### Art. 37. Pesca en presas y escalas.
+
+De la prohibición señalada en el segundo párrafo del artículo 17 de la Ley exceptúase la pesca en las llamadas «presas sumergidas».
+
+#### Art. 38. Costera del salmón.
+
+Para el debido cumplimiento del primer párrafo del artículo 18 de la Ley, se prohíbe asimismo instalarse en puestos de observación a lo largo del recorrido de los ríos.
+
+### CAPÍTULO IV — Redes, artificios y procedimiento de pesca prohibidos
+
+#### Art. 39. Redes.
+
+Antes de utilizar los pescadores redes nuevas, están obligados a solicitar del Servicio Piscícola el reconocimiento y medición de aquéllas, para su precintado reglamentario, en el caso de que reúnan las características exigidas por la Ley y este Reglamento.
+
+Tanto de estas redes como de las comprendidas en la disposición adicional tercera de este Reglamento, se llevará por el Servicio Piscícola, y por provincias, una rotación nominal de propietarios, en la que consten todos los datos de los aparejos, a los efectos de la identificación de éstos.
+
+Se prohíbe la tenencia, utilización y circulación de redes para pescar usadas y sin precinto.
+
+> Se modifica por el art. 1 del Decreto de 16 de junio de 1950. [Ref. BOE-A-1950-8044](https://www.boe.es/buscar/doc.php?id=BOE-A-1950-8044).
+
+#### Art. 40. Redado en ríos salmoneros y trucheros.
+
+El redado en los ríos salmoneros y trucheros podrá ser en determinados casos autorizado por Orden ministerial de Agricultura, a propuesta de la Dirección General de Montes, Caza y Pesca Fluvial. En todos los casos el aprovechamiento se referirá a un peso predeterminado de pesca, y las operaciones de redado serán realizadas bajo la vigilancia directa del personal del Servicios Piscícola.
+
+> Se modifica por el art. 1 del Decreto de 16 de junio de 1950. [Ref. BOE-A-1950-8044](https://www.boe.es/buscar/doc.php?id=BOE-A-1950-8044).
+
+#### Art. 41. Artes regionales permitidos.
+
+Para la aplicación de los artículos 22 y 23, prárrafo primero, de la Ley, y dada la variedad, de los nombres regionales de los distintos artes, el Servicio Piscícola fijará taxativamente y con la debida justificación, en cada provincia, los permitidos para la pesca de las distintas especies, dando conocimiento de ello a la Dirección General de Montes, Caza y Pesca Fluvial.
+
+#### Art. 42. Registro de embarcaciones.
+
+A los efectos del artículo veinticuatro de la Ley, se llevará en las Jefaturas del Servicio Piscícola un Libro Registro de las embarcaciones destinadas a la pesca, aun cuando estuvieran inscritas en las Comandancias de Marina, donde constará el nombre y apellidos del propietario, residencia, dimensiones de la embarcación y fines a que se las destina. Se entregará al dueño un resguardo con el número de la matrícula y expresión de la provincia, el cual será fijado en la barca.
+
+Los cambios de dueño, así como los de las características de la embarcación, deberán formalizarse ante la Jefatura del Servicio Piscícola correspondiente.
+
+Las Jefaturas de los Servicios Piscícolas pasarán a las Comandancias Militares de Marina correspondientes una relación de las embarcaciones matriculadas en las provincias del litoral y, a su vez, las Comandancias de Marina remitirán los mismos datos de las que, por sus actividades en la zona marítimo-terrestre, pudieran interesar al Servicio Piscícola.
+
+> Se modifica por el art. único del Decreto de 26 de enero de 1946. [Ref. BOE-A-1946-1928](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-1928).
+
+#### Art. 43. Embarcaciones no matriculadas.
+
+Se prohibe la pesca en embarcaciones no matriculadas en la forma prescrita en el artículo anterior.
+
+#### Art. 44. Formalidades de inscripción.
+
+La inscripción de las barcas destinadas a la pesca fluvial se hará mediante solicitud de los interesados, quienes deberán abonar en metálico los correspondientes derechos de matrícula.
+
+#### Art. 45. Barcas durante la veda.
+
+Las barcas destinadas a la pesca serán retiradas de las aguas en las épocas de veda o tan pronto como lo ordene, por causa justificada, la Jefatura del Servicio Piscícola, aun cuando sea tiempo hábil para aquélla.
+
+#### Art. 46. Otras embarcaciones.
+
+Las embarcaciones para recreo y de transporte de pasajeros y mercancías no podrán destinarse a la pesca si no están inscritas con este fin en el registro correspondiente.
+
+#### Art. 47. Uso fraudulento de embarcaciones.
+
+Si una embarcación fuera ilegalmente empleada en la pesca sin el conocimiento del propietario y éste justificara dicho extremo de modo evidente, le será devuelta la embarcación; pero los que la hubieran utilizado abonarán el valor de la barca, según tasación pericial de la Jefatura del Servicio Piscícola, en concepto de multas.
+
+Caso de embarcaciones inscritas en las Comandancias de Marina, esta tasación se solicitará por las Jefaturas del Servicio de la Comandancia donde esté matriculada.
+
+> Se modifica por el art. único del Decreto de 26 de enero de 1946. [Ref. BOE-A-1946-1928](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-1928).
+
+### CAPÍTULO V — Repoblación de las aguas continentales
+
+#### Art. 48. Plan de conservación y repoblación.
+
+Los Servicios formularán un plan de conservación y repoblación de los ríos a su cargo, poniendo especial atención a la introducción de las especies que la Sección de Biología de las Aguas Continentales señalaren después de los estudios realizados.
+
+Anualmente formulará propuesta de las repoblaciones que deban efectuarse en dicho período, para lo cual tendrá también en cuenta los medios de que se disponga.
+
+#### Art. 49. Sueltas.
+
+De toda clase de sueltas que se realicen se levantará un acta de la operación, que deberán suscribir un representante del Servicio Piscícola y otro del Ayuntamiento o Ayuntamientos a quienes corresponda la jurisdicción donde las mismas se verifiquen, remitiendo un ejemplar de dicha acta a la Dirección General de Montes, Caza y Pesca Fluvial y archivándose otra en el Servicio.
+
+#### Art. 50. Repoblación intensiva.
+
+En los casos previstos en el artículo 13 de la Ley, el Servicio regional propondrá a la Dirección General del Ramo las medidas de repoblación intensiva que estime pertinentes como más convenientes al interés general; el Ministerio de Agricultura acordará lo que hubiere lugar sobre las mismas.
+
+#### Art. 51. Repoblación de aguas públicas por particulares.
+
+Las Entidades y particulares que pretendieren verificar repoblaciones en aguas públicas no arrendadas lo solicitarán del Servicio Piscícola, sometiéndose a las instrucciones que el mismo dicte.
+
+El Estado podrá proporcionar los elementos necesarios, previo abono del coste de los mismos; el personal técnico asistirá a las sueltas por cuenta del Estado, de las cuales se levantará acta, que se elevará a la Dirección General del Ramo.
+
+#### Art. 52. Centros ictiogénicos.
+
+Al objeto de comprobar la observancia de lo dispuesto en el párrafo primero del artículo 30 de la Ley, el Servicio Piscícola hará, por lo menos, una visita anual, a los viveros de pesca y estaciones de fecundación artificial, de la que dará cuenta a la Dirección General del Ramo, la cual podrá dictar las medidas que estime necesarias para que estas instalaciones cumplan las finalidades que se persiguen.
+
+La Administración, si lo juzga conveniente, podrá conceder auxilios y subvenciones fijas o extraordinarias, en metálico, en las condiciones que fijará el Ministerio de Agricultura, a propuesta de la Dirección General de Montes, Caza y Pesca Fluvial, previo informe del Servicio.
+
+#### Art. 53. Prohibiciones, generales.
+
+Además de los actos enumerados en el artículo 31 de la Ley, queda prohibido, en general, todo aquello que contrarie el funcionamiento normal de las estaciones ictiogénicas.
+
+#### Art. 54. Seres perjudiciales.
+
+A los efectos de lo prevenido en el artículo 32 de la Ley, la Sección de Biología de Aguas Continentales informará sobre las medidas que se estimen adecuadas. Los gastos de exterminio de los seres perjudiciales serán de cuenta de las Corporacioncs, Entidades, particulares, propietarios o concesionarios de las aguas respectivas.
+
+#### Art. 55. Repoblación de márgenes.
+
+Para dar cumplimiento a cuanto se establece en el artículo 33 de la Ley, referente a la repoblación de márgenes, y álveos, deberá tenerse en cuenta la Ley de 18 de octubre de 1941 sobre repoblación de riberas y arroyos y cuantas disposiciones reglamentarias se dictaren para la ejecución de la misma.
+
+#### Art. 56. Enseñanza y propaganda.
+
+El Estado cuidará de la enseñanza acuícola como una necesidad cultural, organizando cursillos prácticos, conferencias, repartiendo folletos, gráficos y todo cuanto constituya una extensa propaganda para el conocimiento de esta riqueza.
+
+Fomentará las Sociedades de Pesca y Sindicatos profesionales de pescadores, prestándoles la debida asistencia técnica por medio de los Servicios Piscícolas para su mejor orientación y facilidad en su labor.
+
+También procurará la mejora de los frezaderos y de la vegetación acuática y favorecerá la investigación de los problemas y cuestiones piscícolas.
+
+### CAPÍTULO VI — El fomento de la piscicultura
+
+#### Art. 57. Viveros industriales.
+
+Será de aplicación a las concesiones a que se refiere el artículo 35 de la Ley lo dispuesto en el artículo 51 de este Reglamento, pudiendo el Estado concertar con los Sindicatos, Entidades y particulares la repoblación de las aguas públicas mediante subvenciones.
+
+## TÍTULO TERCERO — Aprovechamientos
+
+### CAPÍTULO I — Concepto jurídico de la pesca
+
+#### Art. 58. Aguas de dominio privado.
+
+La administración y aprovechamiento de la riqueza piscícola perteneciente al Estado, conforme a lo prevenido en el último párrafo del artículo 38 de la Ley, se ajustará a las normas que con carácter general se dicten, a más de las especiales que se considere oportuno establecer por el Servicio Piscícola para cada pantano o canal de navegación o riego
+
+### CAPÍTULO II — Licencias
+
+#### Art. 59. Definición de la licencia.
+
+Se entiende por licencia el documento administrativo nominal, individual e intransferible, cuya tenencia es necesaria para practicar legalmente la pesca dentro del territorio nacional.
+
+> Téngase en cuenta que el art. 1.a) del Real Decreto 367/2010, de 26 de marzo incluye la siguiente modificación: "Se derogan los párrafos segundo a quinto del art. 59". [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+> Se modifica por el art. 2 del Decreto de 16 de junio de 1950. [Ref. BOE-A-1950-8044](https://www.boe.es/buscar/doc.php?id=BOE-A-1950-8044).
+
+#### Art. 60. Importe y obtención de las licencias.
+
+Importe y obtención de las licencias.-El importe de las licencias de pesca se regulará aplicando la misma escala que para la concesión de licencias de caza establezcan las disposiciones vigentes.
+
+El plazo de validez de las licencias será de un año, contado a partir de la fecha que figure en las mismas.
+
+Las licencias serán expedidas por la Jefatura Regional de Pesca Continental, del Servicio Nacional de Pesca Fluvial, o la Delegación de la misma en la provincia donde resida el interesado. Las solicitudes de licencia deberán ir acompañadas de un informe emitido por el Comandante del puesto de la Guardia Civil más próximo al lugar de la residencia del peticionario. Se autoriza a las Jefaturas Regionales de Pesca Continental y a sus Delegaciones para eximir de este Informe a aquellas personas que, por su cargo u otras circunstancias, merezcan tal consideración.
+
+El Servicio Nacional de Pesca Fluvial, si lo estimara conveniente, podrá exigir, además, para la expedición de la licencia de pesca el informe suplementario de una Asociación, Sindicato o Agrupación de carácter piscícola, radicado en la provincia.
+
+Las licencias serán nominales e intransferibles; no autorizarán por sí mismas a su poseedor para la pesca de las especies calificadas de selección por la Dirección General de Montes, Caza y Pesca Fluvial; llevarán la fotografía y la firma del interesado, si supiere firmar, y en su defecto, la huella dactilar del índice de la mano derecha.
+
+El pago de la licencia de pesca y los gastos de expedición que figuran en la misma se efectuará siempre en el lugar en que dicha licencia se solicite.
+
+Las licencias para extranjeros no residentes en España podrán ser solicitadas y obtenidas por la Dirección General del Turismo y por las Agencias de viajes legalmente reconocidas.
+
+> Se modifica por el art. 1 del Decreto de 12 de febrero de 1954. [Ref. BOE-A-1954-2628](https://www.boe.es/buscar/doc.php?id=BOE-A-1954-2628).
+
+> Redactado el párrafo tercero conforme a la rectificación publicada en BOE núm. 62, de 3 de marzo de 1954. [Ref. BOE-A-1954-2700](https://www.boe.es/buscar/doc.php?id=BOE-A-1954-2700).
+
+> Se modifica por el art. 2 del Decreto de 16 de junio de 1950. [Ref. BOE-A-1950-8044](https://www.boe.es/buscar/doc.php?id=BOE-A-1950-8044).
+
+#### Art. 61. Definición del recargo.
+
+Se entiende por recargo la cantidad que el tenedor de una licencia ha de satisfacer, además del importe de ésta, cuando la pesca recaiga sobre el salmón, la trucha u otras especies que considere como de selección la Dirección General de Montes, Caza y Pesca Fluvial.
+
+> Se modifica por el art. 2 del Decreto de 16 de junio de 1950. [Ref. BOE-A-1950-8044](https://www.boe.es/buscar/doc.php?id=BOE-A-1950-8044).
+
+#### Art. 62. Importe y forma de abono del recargo.
+
+Cuando la especie objeto de pesca sea la trucha, el recargo consistirá en una cuota por el plazo vigente para la licencia y no podrá exceder del cincuenta por ciento del importe de ésta.
+
+Cuando se trate de la pesca del salmón, el importe del recargo será, como máximo, de treinta pesetas por cada kilogramo del ejemplar capturado.
+
+Para la expedición del documento que autorice la circulación del salmón en fresco será condición indispensable la presentación de la licencia y del justificante de haber abonado el importe del recargo correspondiente a cada ejemplar capturado. Con el expresado documento-guía se facilitará un certificado de origen precintado. Este certificado consistirá en un cartón rojo para los salmones que se pretenda sean vendidos y en uno azul para los que no tengan aquel fin.
+
+El citado documento-guía, así como el certificado de origen precintado, será imprescindible para la circulación de todo salmón por el territorio nacional.
+
+El salmón provisto de certificado azul no podrá ser objeto de venta ni ser expendido, por consiguiente, en ningún establecimiento público.
+
+El abono de los recargos correspondientes a la pesca de la trucha y del salmón podrá efectuarse en cualquier oficina del Servicio Nacional de Pesca pluvial, o por medio de personal habilitado al efecto por éste, con la oportuna documentación, aun cuando la licencia de pesca haya sido expedida en otra provincia distinta de aquella en que se soliciten dichos recargos.
+
+Los recargos serán fijados respecto a sus características y cuantía por el Ministerio de Agricultura, a propuesta de la Dirección General de Montes, Caza y Pesca Fluvial, no pudiendo, en cada caso, exceder su importe en el cincuenta por ciento del de la licencia respecto de la trucha, o de treinta pesetas por cada kilogramo de ejemplar capturado salmón o de cualquier otra especie considerada de selección.
+
+> Se modifica por el art. 1 del Decreto de 12 de febrero de 1954. [Ref. BOE-A-1954-2628](https://www.boe.es/buscar/doc.php?id=BOE-A-1954-2628).
+
+> Se modifica por el art. 2 del Decreto de 16 de junio de 1950. [Ref. BOE-A-1950-8044](https://www.boe.es/buscar/doc.php?id=BOE-A-1950-8044).
+
+#### Art. 63. Permisos.
+
+Se entiende por permiso la autorización especial necesaria para pescar:
+
+a) En los cotos a cargo de la Dirección General del Turismo y en aquellos dependientes del Servicio Nacional de Pesca Fluvial.
+
+b) En los lugares que el Ministerio de Agricultura acuerde reservar de la pesca de una o varias especies por razones de enseñanza, investigación, aclimatación de especies o mejoras de los ríos.
+
+Los permisos serán expedidos y percibidos, según corresponda, por la Dirección General del Turismo o por el Servicio Nacional de Pesca.
+
+El importe de los permisos será fijado por la Dirección General de Montes, Caza y Pesca Fluvial a propuesta, según los casos, de la Dirección General del Turismo o del Servicio Nacional de Pesca Fluvial, teniendo en cuenta la especie de pesca, la mayor o menor abundancia de ésta y las características del lugar en que se practique.
+
+> Se modifica por el art. 2 del Decreto de 16 de junio de 1950. [Ref. BOE-A-1950-8044](https://www.boe.es/buscar/doc.php?id=BOE-A-1950-8044).
+
+#### Art. 64. Matrículas de embarcaciones y aparatos flotantes.
+
+A los efectos de su matriculación, las embarcaciones y los aparatos flotantes empleados en la pesca serán clasificados por la Dirección General de Montes, Caza y Pesca Fluvial en cuatro categorías. Los precios de las matrículas anuales serán, respectivamente, de los inferiores a los superiores tres, seis, nueve y doce veces el importe de una licencia.
+
+> Se modifica por el art. 2 del Decreto de 16 de junio de 1950. [Ref. BOE-A-1950-8044](https://www.boe.es/buscar/doc.php?id=BOE-A-1950-8044).
+
+#### Art. 65. Dominio privado.
+
+En las aguas de dominio privado sólo podrán pescar los dueños o arrendatarios y las personas que de ellas obtengan permiso escrito, debidamente reintegrado y visado por la Guardia Civil o Guardería del Estado. Todos ellos habrán de estar en posesión de la correspondiente licencia.
+
+#### Art. 66. Menores de edad y extranjeros.
+
+**(Derogado)**
+
+> Se deroga por el art. 1 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+### CAPÍTULO III — De las concesiones
+
+#### Art. 67. Concesiones a favor de la Dirección General del Turismo.
+
+Las solicitudes de la Dirección General del Turismo de concesiones para el establecimiento de cotos fluviales se formularán para cada caso mediante oficio a la Dirección General de Montes, Caza y Pesca Fluvial, al que se acompañará un esquema gráfico de la cuenca del río, con señalamiento expreso de los tramos cuya concesión se solicite y los intermedios que queden libres y propuesta, en su caso, justificada del importe de los permisos de pesca que pudiera expedir.
+
+La Dirección General de Montes, Caza y Pesca Fluvial remitirá la solicitud a la Jefatura correspondiente del Servicio Nacional de Pesca Fluvial para que informe sobre las condiciones técnicas y administrativas de la concesión. Recibido el informe, la Dirección General de Montes, Caza y Pesca Fluvial fijará las condiciones de la concesión, dentro de las determinadas por la Ley y el presente Reglamento, y dará traslado de ellas a la Dirección General del Turismo. Si la Dirección General de Turismo no aceptara la propuesta, se entenderá renunciada la petición.
+
+> Se modifica por el art. 3 del Decreto de 16 de junio de 1950. [Ref. BOE-A-1950-8044](https://www.boe.es/buscar/doc.php?id=BOE-A-1950-8044).
+
+#### Art. 68. Destino de los ingresos obtenidos por la Dirección General del Turismo en concepto de permisos de pesca.
+
+*El importe de los ingresos obtenidos por la Dirección General del Turismo en concepto de permisos especiales de pesca en los cotos fluviales que le sean concedidos, será destinado en primer término al resarcimiento de los gastos que obligatoriamente haya de efectuar la citada Dirección en concepto de haberes al personal de guardería afecto a su exclusivo servicio y de pago de las cuotas, cuando proceda, a los Ayuntamientos ribereños, y el resto, si lo hubiere, será invertido en propaganda de los ríos españoles en el exterior y en mejoras de los propios cotos, conforme éstas a los planes y proyectos que determine la Dirección General de Montes, Caza y Pesca Fluvial.*
+
+*Los gastos administrativos reglamentarios derivados de la concesión serán de cuenta de la Dirección General del Turismo y no deducibles del importe de los ingresos por permisos.*
+
+> Se deroga en cuanto se oponga por la disposición final 1 del Decreto 1434/1959, de 18 de agosto. [Ref. BOE-A-1959-11472](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-11472).
+
+> Se modifica por el art. 3 del Decreto de 16 de junio de 1950. [Ref. BOE-A-1950-8044](https://www.boe.es/buscar/doc.php?id=BOE-A-1950-8044).
+
+#### Art. 69. Peticiones de concesiones de cotos fluviales por las Sociedades deportivas.
+
+El Servicio Piscícola hará el estudio de las solicitudes de concesiones con cargo a la entidad solicitante, la cual deberá ingresar previamente en la Habilitación de dicho Servicio el importe del presupuesto que se formule.
+
+> Téngase en cuenta que el art. 1.c) del Real Decreto 367/2010, de 26 de marzo incluye la siguiente modificación: "El párrafo cuarto del art. 69 queda redactado en los siguientes términos : "La concesión se adjudicará al mejor postor".[Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+> Se modifica por el art. 3 del Decreto de 16 de junio de 1950. [Ref. BOE-A-1950-8044](https://www.boe.es/buscar/doc.php?id=BOE-A-1950-8044).
+
+#### Art. 70. Tramitación de concesiones a las Sociedades deportivas.
+
+Las Sociedades deportivas vendrán obligadas a satisfacer a la Administración un canon cuyo importe mínimo anual será igual al de los haberes del personal de guardería que reglamentariamente corresponda afectar al coto y el de las cuotas, cuando proceda, a los Ayuntamientos ribereños. Serán de cuenta de las mismas los gastos derivados de las subastas y los restantes administrativos reglamentarios.
+
+Las solicitudes que formulen deberán ir acompañadas de las certificaciones demostrativas de que la Sociedad reúne las condiciones prevenidas en el artículo noventa y seis de este Reglamento y de un estudio y plano de la cuenca del río, con indicación de los tramos objeto de la concesión pretendida.
+
+La Dirección General de Montes, Caza y Pesca Fluvial remitirá la solicitud a informe de la Jefatura correspondiente del Servicio de Pesca, la cual lo emitirá proponiendo a la vez las condiciones técnicas y administrativas de la concesión y el canon de la misma. El Ministerio de Agricultura resolverá lo que estime procedente, poniéndolo en conocimiento de la Sociedad solicitante y dando la orden de subasta, si así se acuerda, a la Dirección General de Montes, Caza y Pesca Fluvial, anunciándose aquélla en el «Boletín Oficial» de la provincia o provincias afectadas por la concesión.
+
+A la subasta podrán concurrir la Sociedad solicitante y todas aquellas de igual calidad que previamente lo pidan por escrito, al que habrán de acompañar la documentación que así lo justifique y previo depósito del diez por ciento del importe del canon anual establecido como base.
+
+La subasta versará sobre el importe del canon anual y se adjudicará al mejor postor. Será preferida en condiciones de igualdad toda Sociedad deportiva de pesca local, siempre que en sus Estatutos figuren las normas necesarias para facilitar el ingreso en las mismas de los vecinos de los pueblos ribereños al coto fluvial establecido, y en su defecto y en igualdad de condiciones, la Sociedad solicitante.
+
+La adjudicación será notificada por la Dirección General de Montes, Caza y Pesca Fluvial a la del Turismo, con traslado del pliego de condiciones para que en el término de quince días manifieste si desea ejercer el derecho de tanteo, y en este caso, las razones de tipo turístico en que apoye su petición. En el caso de que la Dirección General de Montes, Caza y Pesca Fluvial desestime ésta, se otorgará definitivamente la concesión a la Sociedad adjudicataria, lo que se anunciará en el «Boletín Oficial» de la provincia o provincias afectadas.
+
+> Se modifica por el art. 3 del Decreto de 16 de junio de 1950. [Ref. BOE-A-1950-8044](https://www.boe.es/buscar/doc.php?id=BOE-A-1950-8044).
+
+#### Art. 71. Organimos Sindicales de profesionales.
+
+Los Organismos Sindicales de profesionales de pesca fluvial que deseen obtener la concesión de un coto fluvial para sus fines, deberán solicitarlo de la Dirección General de Montes, Caza y Pesca Fluvial, en instancia razonada, acompañada de los documentos expresados para las concesiones a que se refiere el artículo anterior y copia de los Estatutos del Organismo Sindical de profesionales de pesca fluvial, acreditativa de que reúne las condiciones prevenidas en el artículo noventa y seis.
+
+La Dirección General de Montes, Caza y Pesca Fluvial remitirá a la Jefatura del Servicio Piscícola la instancia con toda su documentación para estudio, proponiendo ésta la desestimación, si a ello hubiera lugar, o el otorgamiento de la concesión solicitada con especificación en este caso del pliego de condiciones técnicas, administrativas y económicas que deberán regir.
+
+Aceptada o modificada, en su caso, la propuesta por la Dirección General de Montes, Caza y Pesca Fluvial, ésta notificará su resolución al Organismo Sindical de profesionales de pesca fluvial solicitante, para que en el plazo de quince días manifieste su conformidad o renuncia.
+
+Si el Organismo Sindical de profesionales de pesca fluvial aceptare, la Dirección General ordenará a la Jefatura del Servicio Piscícola la publicación en el «Boletín Oficial» de la provincia o provincias afectadas de la Orden ministerial de concesión, con todas las características y condiciones de la misma, la cual será firme a partir de este momento.
+
+Será aplicable a estas condiciones lo dispuesto en el artículo setenta referente al importe del canon anual, su destino y gastos administrativos reglamentarios.
+
+> Se modifica por el art. 3 del Decreto de 16 de junio de 1950. [Ref. BOE-A-1950-8044](https://www.boe.es/buscar/doc.php?id=BOE-A-1950-8044).
+
+#### Art. 72. Normas comunes a todas las concesiones.
+
+Las concesiones a la Dirección General del Turismo, a las Sociedades deportivas y a los Organismos Sindicales de profesionales de pesca fluvial, se otorgarán respecto a longitud y situación relativa de los tramos de río objeto de concesión, duración y derechos que ésta conlleva en las condiciones señaladas en el artículo cuarenta y dos de la Ley de veinte de febrero de mil novecientos cuarenta y dos, modificado por el tercero de la de dieciséis de julio de mil novecientos cuarenta y nueve y las especiales que para cada caso se establezcan.
+
+El plazo por que se otorgue la concesión no podrá ser objeto de prórroga tácita.
+
+La Administración se reservará en todo caso la facultad de rescindir y de declarar caducada la concesión en cualquier momento, cuando el interés público lo aconseje, sin que el concesionario tenga por ello derecho a indemnización alguna.
+
+En las condiciones de cada concesión se determinarán los casos de caducidad, además del expresado, señaladamente por incumplimiento de algunas de las obligaciones que incumban al concesionario.
+
+Se prohíbe el arriendo y la transferencia de las concesiones.
+
+> Se modifica por el art. 3 del Decreto 16 de junio de 1950. [Ref. BOE-A-1950-8044](https://www.boe.es/buscar/doc.php?id=BOE-A-1950-8044).
+
+#### Art. 73. Cuotas para conservación y fomento.
+
+Las Sociedades deportivas y los organismos sindicales de profesionalesde pesca fluvial que obtengan concesiones para el establecimiento de cotos fluviales, deberán incluir en sus presupuestos una cantidad proporcional a sus ingresos por cuotas de asociados o por liquidación anual de la explotación industrial, cantidad que se fijará por el Ministerio de Agricultura en las condiciones de cada concesión, sin que pueda pasar en ningún caso del 20 por 100 de los citados ingresos Esta cantidad será destinada por el Ministerio de Agricultura a la conservación y fomento de la riqueza acuícola.
+
+#### Art. 74. Aguas de Corporaciones.
+
+En el caso previsto en el artículo 46 de la Ley, las Corporaciones y Entidades de carácter público deberán solicitar autorización de la Dirección General de Montes, Caza y Pesca Fluvial, la cual, previos informes que crea necesarios, aprobará las condiciones del arrendamiento, siempre que no sean lesivas al interés general.
+
+#### Art. 75. Registro de concesiones y arrendamientos.
+
+La Dirección General de Montes, Caza y Pesca Fluvial llevará un registro general de todas las concesiones otorgadas, con detalle de sus características esenciales, así como otro de los arrendamientos autorizados por la misma.
+
+En dichos registros constarán todas las vicisitudes de las concesiones y arrendamientos.
+
+#### Art. 76. Tablillas indicadoras.
+
+Todos los acotamientos por concesión o arrendamiento deberán ostentar, con la profusión debida, tablillas indicadoras en las cuales se lea: «Coto fluvial núm. ...» o «Arrendamiento fluvial núm. ...»., con el fin de que queden perfectamente demarcados y conocidas por el público.
+
+Los cotos concedidos a la Dirección General del Turismo tendrán el título oficial de «Coto Nacional de Pesca», seguido cada uno del nombre del río en el cual estuviere establecido.
+
+El acotamiento será asímismo señalado con las tablillas indicadoras necesarias.
+
+## TÍTULO CUARTO — Jurisdicción
+
+#### Art. 77. Delimitación.
+
+Para proceder a fijar los dos puntos que determinen la línea a que se refiere el artículo 48 de la Ley delimitadora, en materia de pesca fluvial, de la jurisdicción administrativa de los Ministerios de Marina y Agricultura, el Ingeniero del Servicio Piscícola que al objeto se designe, puesto de acuerdo con el representante del Ministerio de Marina, fijará el día y hora en que han de verificar la operación, de la cual se levantará acta detallada, y la elevará, con su informe, el Ingeniero del Servicio a la Dirección General del Ramo, para su aprobación por el Ministerio de Agricultura, en el caso de conformidad de ambas representaciones. Si hubiere disentimiento, se remitirá lo actuado a la Presidencia del Gobierno, para la resolución que proceda.
+
+#### Art. 78. Amojonamiento.
+
+La resolución a que se refiere el artículo anterior se publicará en el «Boletín Oficial» de la provincia o provincias a que afecte; y se procederá a poner señales bien visibles que materialicen la línea sobre el terreno; caso de no existir otras naturales e invariables que puedan sustituirlas. Para la ejecución de esta operación se seguirán los mismos trámites y requisitos señalados en el artículo precedente.
+
+#### Art. 79. Demarcación y deslinde.
+
+En caso de desacuerdo entre los Servicios Hidráulicos y Piscícola respecto de la práctica de las operaciones a que se refiere el artículo 49 de la Ley, competerá a la Presidencia del Gobierno la resolución de la discrepancia.
+
+#### Art. 80. Urgencia ejecución.
+
+Las operaciones de demarcación, apeo y deslinde deberán ejecutarse a la brevedad posible por los Servicios Piscícolas en las aguas fluviales públicas, dando preferencia en un principio a aquellas donde sea más abundante la pesca y, por tanto, mayor su aprovechamiento, o a las que algún motivo o circunstancia especial determine la conveniencia de su más pronta demarcación o deslinde.
+
+#### Art. 81. Designación personal.
+
+Para la ejecución de tales operaciones se designará el Ingeniero que haya de verificarla por la Dirección General de Montes, Caza y Pesca Fluvial, a propuesta de la Jefatura del Servicio Piscícola. De la designación se dará cuenta a la Jefatura del Servicio Hidráulico correspondiente, para que proceda al nombramiento del Ingeniero que haya de representarla en las citadas operaciones, de acuerdo con el artículo 49 de la Ley.
+
+#### Art. 82. Publicidad operaciones.
+
+Con un mes de antelación a la fecha que se fije para dar principio a las operaciones, se publicará en el «Boletín Oficial» de la provincia o provincias a que afecten, por el Ingeniero Jefe del Servicio Piscícola, el correspondiente anuncio de la demarcación y deslinde que se vaya a practicar, a fin de que los interesados en las operaciones puedan presentar en las oficinas del citado Servicio, antes de la ejecución de los trabajos, los documentos, reclamaciones, etc., que consideren pertinentes a su objeto de los cuales se tomará nota para unirla al expediente,
+
+También serán atendidas las reclamaciones que se produzcan al ejecutarse los trabajos, examinando los justificantes que para probar aquéllas exhiban los interesados.
+
+#### Art. 83. Representación del Municipio.
+
+En el acto de la demarcación y deslinde deberá acompañar a los Ingenieros representantes de los Servicios Piscícola e Hidráulicos una representación de dos personas del Ayuntamiento por cuyo término discurran las aguas que vayan a deslindarse, debidamente autorizados al efecto.
+
+Si la operación de deslinde afectare a dos o más Ayuntamientos, deberán hallarse representados todos los que en tal caso se encuentren.
+
+#### Art. 84. Fijación de edictos.
+
+Además de la publicación y citación en el «Boletín Oficial» de la provincia o provincias prescritas en el artículo 82 de este Reglamento, por la Jefatura del Servicio Piscícola se pasarán oficios a los Alcaldes de los Municipios a quienes afecte el deslinde, encargándoles que fijen inmediatamente los oportunos edictos en los sitios de costumbre, a fin de que estos anuncios puedan llegar a conocimiento de los interesados; bien entendido que la no asistencia al acto, sea de las representaciones oficiales o de los particulares a quienes pueda afectar el resultado de los trabajos, no será motivo para la suspensión de éstos.
+
+#### Art. 85. Abogacía del Estado.
+
+Siempre que existan reclamaciones, la Jefatura del Servicio Piscícola deberá remitir a la Abogacía del Estado la documentación presentada para que ésta informe sobre la validez del derecho aducido.
+
+#### Art. 86. Ejecución de las operaciones.
+
+Las operaciones de demarcación y deslinde se efectuarán por los Ingenieros, acompañados de la Comisión y de los particulares interesados, conforme a las prescripciones de la Ley de 13 de junio de 1879, designando y fijando sobre el terreno de un modo material y bien visible las diversas líneas que sean limite entre las aguas públicas y privadas. Se levantará acta diaria de cuanto se ejecute y de las resultados obtenidos para la debida delimitación.
+
+#### Art. 87. Protestas.
+
+Las protestas que se produjeren no serán motivo de suspensión de las operaciones; pero se consignarán en el acta respectiva o se unirán a la misma para los efectos a que hubiere lugar.
+
+#### Art. 88. Vista del expediente.
+
+Terminados los trabajos de campo, la Jefatura del Servicio Piscícola anunciará en el «Boletín Oficial» de las provincias afectadas por la operación la vista del expediente durante un plazo de quince días, en el que los interesados podrán presentar las reclamaciones que convengan a sus derechos.
+
+#### Art. 89. Tramitación.
+
+Todos los citados documentos diarios, compendio y resultado de los trabajos ejecutados, juntamente con las protestas y reclamaciones que se hubieren producido y presentado y los informes de los Ingenieros operadores, los elevará el Ingeniero Jefe del Servicio Piscícola, con el suyo, a la Dirección General de Montes, Caza y Pesca Fluvial para su propuesta al Ministro de Agricultura, el cual dictará la resolución que proceda.
+
+En caso de desacuerdo entre los Ingenieros de los Servicios Hidráulicos y Piscícolas, éstos, por sus respectivos Jefes, elevarán sus propuestas al Ministerio correspendiente, el que informará a la Presidencia del Gobierno para su resolución, con arreglo al artículo 79 de este Reglamento.
+
+#### Art. 90. Publicidad aprobación.
+
+La Orden ministerial aprobatoria del deslinde se publicará en el «Boletin Oficial» de la provincia o provincias a las que interese, para su conocimiento general.
+
+## TÍTULO QUINTO — Organización del Servicio
+
+### CAPÍTULO I — Servicio piscícola
+
+#### Art. 91. Servicio regional.
+
+Subsistirán en sus funciones los actuales Comités Provinciales de Caza y Pesca Fluvial, en tanto no se provea a la organización definitiva del Servicio Piscícola, en cumplimiento de lo dispuesto en el párrafo segundo del artículo 50 de la Ley.
+
+#### Art. 92. Centros de investigación.
+
+La Sección de Biología de las Aguas Continentales del Instituto Forestal de Investigaciones y Experiencias constituirá, dentro del Servicio Piscícola, el Centro Técnico Superior de Estudios e Investigaciones Hidrobiológicas, que funcionará en calidad de Estación Central de Hidrobiología, y dependerá directamente de la Dirección General de Montes, Caza y Pesca Fluvial.
+
+A su propuesta, y según lo exijan los estudios a realizar y el fomento de la riqueza acuícola, se organizarán Estaciones regionales o locales, permanentes o volantes, que, como filiales de la Estación Central, funcionarán en la parte científica bajo su dependencia, coadyuvan de los Servicios Piscícolas al mejor éxito del fin buscado, bien por iniciativa propia o a petición de la Estación Central, previa propuesta de la Regional correspondiente.
+
+Las Estaciones Regionales asesorarán en la parte científica a los Servicios Piscícolas correspondientes, previa petición de éstos, y darán conocimiento de todo ello a la Estación Central.
+
+### CAPÍTULO II — De la guardería
+
+#### Art. 93. Guardería del Estado.
+
+Todo lo relativo a la organización, nombramiento, funciones, deberes, derechos y retribuciones del Cuerpo de Guardas Piscícolas será objeto de un Reglamento especial orgánico, conforme a lo prevenido en el artículo 51 de la Ley.
+
+#### Art. 94. Guardería de concesionarios.
+
+Independientemente del Cuerpo de Guardas Especiales Piscícolas, la Dirección General del Turismo y demás entidades y particulares a que se refiere el párrafo tercero del artículo cincuenta y uno de la Ley, dispondrán de guardería piscícola exclusivamente afecta a sus cotos fluviales, en las condiciones y con los requisitos que dicho precepto señala.
+
+Dicha guardería será la necesaria para la debida custodia de las concesiones, con un mínimo de una pareja de guardas por cada diez kilómetros de concesión, distancia que se elevará a veinte cuando los guardas dispongan de medios mecánicos para su desplazamiento.
+
+Los guardas deberán prestar servicio con uniforme y armamento.
+
+La guardería será nombrada y separada del servicio por la Dirección General de Montes, a propuesta del concesionario, cualquiera que ésta sea, y sus haberes serán abonados directamente a los interesados por la Dirección General del Turismo y por el Servicio Nacional de Pesca Fluvial en los demás casos.
+
+> Se modifica por el art. 4 del Decreto de 16 de junio de 1950. [Ref. BOE-A-1950-8044](https://www.boe.es/buscar/doc.php?id=BOE-A-1950-8044).
+
+#### Art. 95. Guardas honorarios.
+
+Los nombrados con arreglo a lo dispuesto en el último párrafo del artículo 51 de la Ley tendrán la consideración de Guardas jurados, y su nombramiento competerá exclusivamente a la Dirección General del Ramo.
+
+### CAPÍTULO III — Sociedades y Organismos sindicales de profesionales de Pesca Fluvial
+
+#### Art. 96. Calificación legal.
+
+A los efectos de los artículos 43 y 52 de la Ley, se entiende por Sociedades deportivas de pesca las constituidas de acuerdo con la legislación vigente de Asociaciones e incorporadas a la Delegación Nacional de Deportes de F. E. T. y de las J. O. N. S. a través de la Federación Española de Pesca, por medio de sus respectivas Delegaciones regionales, y que se hallen al corriente en el pago de sus cuotas reglamentarias.
+
+Asimismo a los efectos de los artículos citados y del 44 de la propia Ley, son Organismos sindicales de profesionales de pesca fluvial legalmente constituidos los Organismos sindicales locales de pesca profesional, dedicados a la pesca continental con fines exclusivos de explotación industrial, que estén integrados y encuadrados en el correspondiente Sindicato Nacional para la Pesca continental, u otro que abarque esta rama de la producción, con estatutos aprobados por el Mando del Movimiento y Decreto de reconocimiento oficial de su constitución y personalidad juridica, como Corporación de derecho público.
+
+## TÍTULO SEXTO
+
+### CAPÍTULO I — Del procedimiento
+
+#### Art. 97. Infracciones: Denuncias.
+
+Todas las Autoridades, gubernativas o judiciales, Guardas de pesca y demás Agentes de la Policía Judicial están obligados, por razón de su cargo, a denunciar cuantas infracciones a la Ley y a este Reglamento presencien o lleguen a su conocimiento.
+
+#### Art. 98. Clases de denuncias.
+
+La denuncia podrá ser verbal o escrita. En el primer caso se reducirá a escrito fehaciente, que suscribirá el denunciante, si sabe hacerlo; y en otro caso, darán fe del acto dos testigos.
+
+Cuando los denunciantes sean Agentes de la Autoridad, lo harán por escrito precisamente, salvo imposibilidad de fuerza mayor.
+
+#### Art. 99. Presentación de denuncias.
+
+Tratándose de faltas, se presentará la denuncia en las oficinas de la Jefatura del Servicio Nacional de Pesca Fluvial y Caza a que esté adscrita la provincia donde se cometió la infracción. En caso de delito, la denuncia se hará ante el Juez de Instrucción del partido competente por razón del lugar, o en su defecto al Juez Municipal o Comarcal, o a la Autoridad de Marina, según proceda.
+
+> Se modifica por el art. 1 del Decreto 483/1966, de 10 de febrero. [Ref. BOE-A-1966-4841](https://www.boe.es/buscar/doc.php?id=BOE-A-1966-4841).
+
+#### Art. 100. Instrucción del expediente.
+
+De la presentación de la denuncia deberá darse conocimiento inmediato a la Jefatura del Servicio Piscícola que por razón de sitio corresponda, la cual dispondrá la instrucción del oportuno expediente.
+
+> Se modifica por el art. 1 del Decreto 483/1966, de 10 de febrero. [Ref. BOE-A-1966-4841](https://www.boe.es/buscar/doc.php?id=BOE-A-1966-4841).
+
+#### Art. 101. Plazo de su presentación.
+
+La presentación de la denuncia ante la Autoridad que haya de promover el expediente o incoar el sumario se hará en el preciso término de cuarenta y ocho horas de conocido el hecho si causas justificadas no lo impidieren.
+
+#### Art. 102. Recibo de la denuncia.
+
+La Autoridad o Agente ante quien se haga la denuncia por infracción en materia de pesca fluvial estará obligado a expedir al denunciante, para su resguardo, recibo de la misma, con su firma, rubrica y sello, si lo tiene, no pudiendo negarse a ello en ningún caso. Si esto ocurriere, el denunciante lo pondrá en conocimiento del superior jerárquico de la Autoridad o Agente, a los efectos oportunos.
+
+#### Art. 103. Tramitación.
+
+Recibida que sea en la Jefatura del Servicio Piscícola noticia de la denuncia, procederá a incoar un expediente cuya tramitación se adaptará a las normas señaladas en la vigente Ley de Procedimiento Administrativo.
+
+> Se modifica por el art. 1 del Decreto 483/1966, de 10 de febrero. [Ref. BOE-A-1966-4841](https://www.boe.es/buscar/doc.php?id=BOE-A-1966-4841).
+
+#### Art. 104. Resolución.
+
+Una vez que el Instructor del expediente considere ultimados los trámites informativos se dictará resolución, sin que en ningún caso ésta pueda demorarse más de diez días respecto a la fecha de la última diligencia o plazo vencido.
+
+> Se modifica por el art. 1 del Decreto 483/1966, de 10 de febrero. [Ref. BOE-A-1966-4841](https://www.boe.es/buscar/doc.php?id=BOE-A-1966-4841).
+
+#### Art. 105. Traslado de la resolución.
+
+En el caso de presentación de la denuncia por parte de los Celadores del Puerto, se dará cuenta de la resolución por las Jefaturas del Servicio Piscícola, a la Comandancia de Marina correspondiente, para su conocimiento.
+
+Cuando la infracción pudiera ser constitutiva de delito, el Ingeniero Jefe pondrá los hechos en conocimiento del Juez de Instrucción correspondiente o de la Autoridad de Marina, según proceda, con remisión de todo lo actuado, para la incoación del sumario.
+
+Si la sanción impuesta fuese de privación de libertad, o en el caso de que, por la insolvencia del infractor, proceda su arresto subsidiario, lo comunicará al Gobernador civil para la detención gubernativa del responsable.
+
+> Se modifica por el art. 1 del Decreto 483/1966, de 10 de febrero. [Ref. BOE-A-1966-4841](https://www.boe.es/buscar/doc.php?id=BOE-A-1966-4841).
+
+> Se modifica por el art. único del Decreto de 26 de enero de 1946. [Ref. BOE-A-1946-1928](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-1928).
+
+#### Art. 106. Efectividad de la sanción.
+
+Cuando se trate de infracciones que afecten a cursos de aguas públicas, las indemnizaciones a que se refiere el párrafo primero del artículo 55 de la Ley se abonarán en las Jefaturas del Servicio Piscícola.
+
+#### Art. 107. Sanciones Autoridades.
+
+Cuando el infractor fuere una Autoridad o Agente de la Policía judicial se pondrá la resolución en conocimiento de su superior jerárquico, a efectos del castigo que en vía disciplinaria corresponde imponerle, independientemente de la sanción acordada.
+
+Tratándose de Guardas jurados, se procederá a anular su nombramiento.
+
+#### Art. 108. Petición de antecedentes.
+
+Cuando los Jueces de Instrucción, los Ingenieros Jefes del Servicio Piscícola o las Autoridades de Marina tuvieren conocimiento de algún delito o falta de pesca fluvial, pedirán en el Registro de infractores antecedentes del presunto culpable, por si hubiere incurrido en reincidencia.
+
+#### Art. 109. Registro de antecedentes.
+
+A los efectos del artículo anterior, en la Dirección General de Montes, Caza y Pesca Fluvial se llevará un «Registro de infractores» en materia de pesca, fluvial.
+
+Una disposición especial determinará la organización y funcionamiento de dicho Registro.
+
+#### Art. 110. Procedimiento administrativo.
+
+De conformidad con lo dispuesto en los párrafos segundo y tercero del artículo 56 de la Ley, contra los acuerdos dictados por las Jefaturas del Servicio Piscícola sobre ejecución de obras, adopción de medidas o cualesquiera otras cuestiones relacionadas con el cumplimiento de la Ley de Pesca Fluvial y de este Reglamento cabrá apelación ante la Dirección General del Ramo en el plazo de quince días, a contar de la fecha de notificación del acuerdo.
+
+Contra la resoluciones que adopte la Dirección General, ya por sí o va al conocer de las apelaciones, en su caso, interpuesta, podrán los interesados a quienes afecten aquéllas alzarse en el plazo de quince días ante el Ministro de Agricultura, el cual resolverá definitiva e inapelablemente.
+
+Serán aplicables las normas del Reglamento de procedimiento de este Ministerio en cuanto no se opongan a las contenidas en este artículo.
+
+### CAPÍTULO II — Sanciones
+
+#### Art. 111. Faltas leves.
+
+Tendrán la consideración de faltas leves, y serán sancionadas con multa comprendida entre cincuenta y quinientas pesetas, las siguientes:
+
+Uno.-Pescar siendo titular de una licencia válida de pesca, cuando no se lleva consigo.
+
+Dos.-Pescar en un tramo acotado, siendo titular del permiso reglamentario, cuando no se lleva consigo este permiso,
+
+Tres.-Pescar con caña en ríos trucheros, no habitados por salmón, de forma tal que el pescador o el cebo se sitúen a menos de veinticinco metros de la entrada o salida de las escalas o pasos de peces.
+
+Cuatro.-Calar reteles para la pesca del cangrejo, ocupando más de cien metros de orilla o colocarlos a menos de diez metros de donde otro pescador los hubiere puesto o los estuviere calando.
+
+Cinco.-Pescar con más de dos cañas a la vez, o con más de una si se trata del salmón.
+
+Seis.-Pescar entorpeciendo a otro pescador, cuando éste estuviere ejerciendo previamente su legítimo derecho de pesca.
+
+Siete.-No guardar, respecto a otros pescadores, mediando requerimiento previo, una distancia de treinta metros cuando se pesca con ova y de diez metros cuando se emplean otras modalidades de pesca.
+
+Ocho.-Dejar transcurrir más de media hora sin ceder su puesto al pescador de salmón que le hubiere requerido para hacerlo, si al transcurrir dicho plazo no se tuviera trabado un ejemplar.
+
+Nueve.-Emplear para la pesca embarcaciones o aparatos flotantes que no estén provistos de la matrícula reglamentaria expedida por el Servicio Nacional de Pesca Fluvial y Caza.
+
+Diez.-Negarse a numerar el contenido de los cestos y morrales o los aparejos empleados para la pesca, cuando le sea requerido para ello por el personal de Guardería.
+
+Once.-No restituir a las aguas los peces o cangrejos cuya dimensión sea inferior a la reglamentaria o conservarlos en cestas, morrales o al alcance inmediato del pescador.
+
+Doce.-Utilizar las aguas públicas como lugar de estancia de aves acuáticas, de propiedad particular, en los casos en que el Servicio Nacional de Pesca Fluvial y Caza haya advertido a los propietarios que deben retirarlas por ser perjudiciales para la fauna acuática.
+
+Trece.-Bañarse fuera de los lugares fijados por el Servicio Nacional de Pesca Fluvial y Caza, cuando se trate de masas de agua en las que existan señales colocadas con este objeto.
+
+Catorce.-Navegar con lanchas o embarcaciones de recreo, entorpeciendo la práctica de la pesca, en los lugares en que este aprovechamiento haya sido declarado por el Ministerio de Obras Públicas de carácter preferente.
+
+> Se modifica por el art. 1 del Decreto 2013/1966, de 14 de julio. [Ref. BOE-A-1966-14260](https://www.boe.es/buscar/doc.php?id=BOE-A-1966-14260).
+
+#### Art. 112. Faltas menos graves.
+
+Tendrán la consideración de faltas menos graves, y serán sancionadas con multa comprendida entre doscientas cincuenta y dos mil quinientas pesetas, las siguientes:
+
+Uno.-Pescar sin licencia.
+
+Dos.-Pescar con red a menos de cien metros de donde estuviese colocada la de otro pescador.
+
+Tres.-Pescar con redes a menos de cincuenta metros de cualquier presa o azud de derivación.
+
+Cuatro.-Tener o emplear redes no revisadas o precintadas.
+
+Cinco.-Tener en las proximidades del río redes o artefactos de uso prohibido, tales como garras, garfios, tridentes, gamos, grampines, fitoras, arpones, etc., cuando no se justifique razonablemente su aplicación a menesteres distintos de la pesca.
+
+Seis.-Pescar cangrejos empleando cada pescador más de ocho reteles, lamparillas o arañas a la vez, o con artes no permitidos.
+
+Siete.-Pescar con caña en río salmoneros de forma tal que el pescador o el cebo se sitúen a menos de cincuenta metros del pie de las presas o de las entradas a las escalas salmoneras.
+
+Ocho.-Pescar con caña en época de veda.
+
+Nueve.-Pescar haciendo uso de luces artificiales, que faciliten la captura de las especies.
+
+Diez.-Pescar utilizando como cebo peces vivos, cuando la especie que sirve de cebo no estuviera presente de forma natural en las aguas pescadas, salvo en aquellos casos en que el Servicio Nacional de Pesca Fluvial y Caza hubiese hecho pública autorización en contrario.
+
+Once.-Pescar en zonas acotadas sin estar en posesión del permiso reglamentario.
+
+Doce.-Pescar a mano.
+
+Trece.-Pescar durante las horas en que esté prohibido hacerlo.
+
+Catorce.-Apalear las aguas o arrojar piedras a las mismas con ánimo de espantar los peces y facilitar su captura.
+
+Quince.-Sobrepasar los límites, en número o en peso, fijados por el Servicio Nacional de Pesca Pluvial y Caza para las piezas pescadas, así como infringir las prescripciones especiales dictadas por dicho Servicio para determinados tramos o masas de agua.
+
+Dieciséis.-Emplear cebos cuyo uso no esté permitido o cebar las aguas con fines de pesca, a no ser en zonas en que le haya autorizado el Servicio Nacional de Pesca Fluvial y Caza.
+
+Diecisiete.-No restituir inmediatamente a las aguas los pintos o esguines de salmón que pudieran capturarse, estuvieren o no con vida.
+
+Dieciocho.-No restituir a las aguas las piezas cuya captura no se derive de la simple mordedura del cebo, sino de la trabazón del anzuelo en cualquier otra parte del cuerpo del pez.
+
+Diecinueve.-Emplear, en los casos permitidos para la pesca de anguilas o lampreas, más de tres cestones, nasas o tambores.
+
+Veinte.-La tenencia, transporte o comercio de esturiones o salmones pescados en su retorno hacia el mar después de la freza.
+
+Veintiuno.-Agotar o disminuir notablemente el caudal del agua circulante por las acequias y obras de derivación de carácter secundario, sin haberlo participado al Servicio Nacional de Pesca Fluvial y Caza con una anticipación mínima de quince días; salvo en el caso de que causas de fuerza mayor, basadas en razones derivadas de las concesiones hidráulicas no hubiesen permitido hacerlo.
+
+Veintidós.-Extraer gravas o arenas de los cauces sin estar en posesión del permiso reglamentario o fuera de los lugares señalados o no cumplir las condiciones que a efectos piscícolas se señalen en la concesión otorgada por el Ministerio de Obras Públicas.
+
+Veintitrés.-Arrojar o verter a las aguas basuras, inmundicias, desperdicios o cualquier otra sustancia o material similar a los anteriores, siempre que las mismas sean susceptibles de causar perjuicios a la riqueza piscícola.
+
+Veinticuatro.-Entorpecer el cumplimiento de lo dispuesto en el artículo cincuenta y cuatro de la Ley de Pesca Fluvial respecto a inspección de barcas, molinos, fábricas y demás dependencias no destinadas a viviendas.
+
+Veinticinco.-No conservar en buen estado las rejillas instaladas con fines de proteger a la riqueza piscícola o quitar los precintos colocados en las mismas por el Servicio Nacional de Pesca Fluvial y Caza.
+
+Veintiséis.-Entorpecer las servidumbres de paso por las riberas y márgenes establecidas en beneficio de los pescadores.
+
+> Se modifica por el art. 1 del Decreto 2013/1966, de 14 de julio. [Ref. BOE-A-1966-14260](https://www.boe.es/buscar/doc.php?id=BOE-A-1966-14260).
+
+> Se modifica por el art. único del Decreto de 26 de enero de 1946. [Ref. BOE-A-1946-1928](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-1928).
+
+#### Art. 113. Faltas graves.
+
+Tendrán la consideración de faltas graves y serán sancionadas con multa comprendida entre quinientas y cinco mil pesetas, pudiéndose además decretar de uno a cinco días de arresto gubernativo, así como la anulación de la licencia de pesca e inhabilitación para obtenerla durante un periodo de uno a tres años, las siguientes:
+
+Uno.-Pescar con red en acequias, caceras o cauces de derivación.
+
+Dos.-Pescar con redes que ocupen más de la mitad de la anchura de la corriente del río o emplear estas artes en aguas cuya anchura sea igual o inferior a diez metros, tomándose esta anchura como media del tramo situado entre veinticinco metros aguas arriba y veinticinco metros aguas abajo del pescador.
+
+Tres.-Pescar con redes o artefactos que tengan malla, luz o dimensiones que no cumplan las especificaciones determinadas para cada especie en el artículo diecinueve de la Ley o las que se señalen reglamentariamente.
+
+Cuatro.-Pescar en época de veda con redes u otras artes autorizadas, excepción hecha de la caña, en cuyo caso la falta se considerará como menos grave.
+
+Cinco.-Pescar con garlitos, cribas, butrones, esparaveles, remangas, palangres, salbardos, cordelillos o sedales durmientes, excepto en aquellos casos en que esté autorizado su uso.
+
+Seis.-Pescar con artes que permitan capturar las especies acuícolas sin que acudan al cebo o señuelo, tales como tridentes, arpones, grampines, fitoras, armas de fuego o de aire comprimido, etc., excepción hecha de las redes y otras artes autorizadas.
+
+Siete.-Practicar la pesca subacuática fuera de los lugares donde se haya autorizado por el Servicio Nacional de Pesca Fluvial y Caza.
+
+Ocho.-Pescar en vedados o donde esté prohibido hacerlo.
+
+Nueve.-Colocarse de vigía durante la costera del salmón para registrar y avisar su paso con línea de pesca, así como vigilar la presencia o movimiento de la guardería para facilitar la pesca fraudulenta practicada por otras pescadores.
+
+Diez.-La tenencia o transporte, por persona que no esté pescando, de peces o cangrejos de tamaño menor al reglamentario o de tamaño legal en época en que esté prohibida su pesca o su venta.
+
+Once.-Vender, comprar, transportar o traficar con huevos de peces o cangrejos, así como importar o exportar peces, cangrejos o sus huevos sin autorización del Servicio Nacional de Pesca fluvial y Caza.
+
+Doce.-La tenencia, transporte o comercio de especies que no vayan provistas de los precintos y certificados de origen facilitados por el Servicio Nacional de Pesca Fluvial y Caza, cuando sean preceptivos.
+
+Trece.-Vender salmón no enlatado, en tiempo de veda para la pesca de esta especie, en aquellos establecimientos que, poseyendo las instalaciones adecuadas, no hayan obtenido antes del diez de julio de cada año la oportuna autorización del Servicio Nacional de Pesca Pluvial y Caza.
+
+Catorce.-Tener, transportar o comercial con peces procedentes de piscifactorías, en época de veda para su pesca, cuando no vayan amparados por las guías, precintos o señales reglamentarias.
+
+Quince.-Entorpecer el buen funcionamiento de las escalas o pasos de peces.
+
+Dieciséis.-No mantener en perfecto estado de conservación las obras realizadas por los concesionarios, a instancia de la Administración, cuando estas obras hubiesen sido ejecutadas con el fin de armonizar los intereses hidráulicos y piscícolas.
+
+Diecisiete.-Colocar sobre presas tablas u otra clase de materiales con objeto de alterar el nivel de las aguas o su caudal, a menos que se esté autorizado para hacerlo.
+
+Dieciocho.-Derribar, dañar o cambiar de lugar los altos o mojones indicadores de deslinde de jurisdicciones, competencia o propiedad, así como los carteles de tramos acotados, vedados, zonas de baño u otras señales colocadas por el Servicio Nacional de Pesca Fluvial y Caza.
+
+Diecinueve.-Construir o poseer vivares o centros de piscicultura o astacicultura sin la debida autorización del Servicio Nacional de Pesca Fluvial y Caza.
+
+Veinte.-Introducir en las aguas públicas o privadas especies acuícolas distintas de las que habiten en ellas de forma natural sin la debida autorización del Servicio Nacional de Pesca Fluvial y Caza.
+
+> Se modifica por el art. 1 del Decreto 2013/1966, de 14 de julio. [Ref. BOE-A-1966-14260](https://www.boe.es/buscar/doc.php?id=BOE-A-1966-14260).
+
+#### Art. 114. Faltas muy graves.
+
+Tendrán la consideración de faltas muy graves y serán sancionadas con multa comprendida entre mil y diez mil pesetas, pudiéndose además decretar de uno a cinco días de arresto gubernativo, así como la anulación de la licencia de pesca e inhabilitación para obtenerla durante un periodo de uno a tres años, las siguientes:
+
+Uno.-Pescar en el interior de las escalas o pasos de peces.
+
+Dos.-Pescar con redes, o pretender hacerlo, en las aguas declaradas ofialmente como habitadas por salmónidos.
+
+Tres.-Pescar con redes en las inmediaciones de la desembocadura de los ríos salmoneros durante el periodo hábil para la pesca del salmón.
+
+Cuatro.-Pescar haciendo uso de aparatos accionados por electricidad.
+
+Cinco.-Tener sustancias tóxicas en las proximidades de las aguas, cuando razonablemente pueda presumirse que las mismas se pretenden utilizar con fines de pesca.
+
+Seis.-Incorporar a las aguas continentales o a sus alveos, áridos, arcillas, escombros, limos, residuos industriales o cualquier otra clase de sustancias que produzcan enturbiamiento o que alteren sus condiciones de habitabilidad piscícola, con daño para esta forma de riqueza.
+
+Siete.-La formación de escombreras en lugares que por su proximidad a las aguas o a sus cauces sean susceptibles de ser arrastradas por éstas, o lavadas por las de lluvia, con el consiguiente daño para la riqueza piscícola; salvo que tales escombreras tuviesen un carácter provisional, reuniesen las debidas garantías para impedir que se produzcan daños a la riqueza piscícola y hubiesen sido autorizadas por la Comisaría de Aguas de la cuenca correspondiente.
+
+Ocho.-No respetar los caudales mínimos fijados en el artículo quinto de la Ley para las escalas y pasos de peces.
+
+Nueve.-Agotar o disminuir notablemente el volumen de agua de los embalses y canales, así como la circulante por el lecho de los ríos, sin haberlo participado al Servicio Nacional de Pesca Fluvial y Caza con una anticipación mínima de quince días o el incumplimiento de las condiciones que a estos efectos hubiesen sido fijadas por el Servicio Nacional de Pesca Fluvial y Caza; salvo en el caso de que causas de fuerza mayor basadas en razones derivadas de las concesiones hidráulicas no hubiesen permitido hacerlo.
+
+Diez.-Construir barreras de piedras o de otras materias, estacadas, empalizadas, atajos, cañeras, cañizales o pesqueras, con fines directos o indirectos de pesca, así como colocar en los cauces artefactos destinados a este fin.
+
+Once.-Alterar los cauces, descomponer los pedregales del fondo, disminuir arbitrariamente el caudal de las aguas, destruir la vegetación acuática y la de las orillas y márgenes.
+
+Doce.-No cumplir las condiciones fijadas por eI Servicio Nacional de Pesca Fluvial y Caza para la defensa, conservación o fomento de la riqueza ictícola, cuando estas condiciones hayan sido fijadas mediante expediente que hubiera adquirido carácter de firmeza.
+
+Trece.-No colocar las rejillas reglamentarias en los canales, acequias y cauces de derivación o desagüe, cuando el interesado deje de cumplir una resolución administrativa firme que así lo disponga.
+
+Catorce.-Comerciar o pretender hacerlo con peces o cangrejos de dimensiones menores a las reglamentarias, o de tamaño legal cuando sea en época que esté prohibida su pesca o venta.
+
+Quince.-Introducir en las aguas públicas o privadas habitadas por salmónidos otras especies acuícolas, sin la debida autorización del Servicio Nacional de Pesca Fluvial y Caza.
+
+Dieciséis.-Perjudicar o trasladar, sin permiso, los aparatos de incubación artificial del Servicio Nacional de Pesca Fluvial y Casa, o los de particulares o Sociedades autorizadas para establecerlos.
+
+Diecisiete.-Solicitar licencia de pesca, o pescar, cuando medie providencia firme que inhabilite al interesado para la obtención de este documento.
+
+> Se modifica por el art. 1 del Decreto 2013/1966, de 14 de julio. [Ref. BOE-A-1966-14260](https://www.boe.es/buscar/doc.php?id=BOE-A-1966-14260).
+
+### DISPOSICIONES ADICIONALES
+
+#### Primera.
+
+Para cumplimentar lo dispuesto en los artículos tercero y cuarto de la Ley, las Jefaturas del Servicio Piscícola procederán, sin demora a enviar a la Dirección General del Ramo relaciones de las presas y diques en los que considere factible e indispensable el establecimiento de las escalas y pasos.
+
+#### Segunda.
+
+En ejecución de lo prevenido en el párrafo segundo de artículo 18 de la Ley, el Ministerio de Agricultura procederá, en el más breve plazo posible, a establecer la debida clasificación de los cursos de aguas españolas habitadas actualmente por salmónidos o susceptibles de alojarlos en lo sucesivo, y dictará al efecto cuantas disposciones sean necesarias para ello.
+
+#### Tercera.
+
+Los Jefes del Servicio Piscícola, personalmente o por delegación, con el Comadante del puesto de la Guardia Civil de la demarcación correspondiente, procederán, en el plazo máximo de seis meses, a efectuar una revisión de las redes que hayan de utilizarse en los lugares donde su uso sea lícito.
+
+A este fin, se invitará a los pescadores, mediante anuncio en el «Boletín Oficial» de la provincia para que en las respectivas Alcaldías, y en los días y horas señalados al efecto, depositen las redes que pretendan emplear; y, una vez revisadas y medidas serán selladas las reglamentarias con un precinto de plomo en el que figure la dimensión de la malla.
+
+#### Cuarta.
+
+Será obeto de reglamentación especial el régimen económico y administrativo de las Jefaturas del Servicio Piscícola, los ingresos y pagos que realicen por cualquier concepto, los requisitlos para efectuar unos y otros y la aplicación, destino, intervención y contabilización de los mismos; todo ello conforme a los preceptos de la Ley de 5 de noviembre de 1940 y demás disposiciones generales o especiales dictadas o que se dicten por el Ministerio de Hacienda y sean aplicables al caso.
+
+#### Quinta.
+
+Queda derogado el Reglamento de 7 de julio de 1911, y también todas las disposiciones que se opongan a las contenidas en el presente Reglamento.
+
+Madrid, 6 de abril de 1943.–Aprobado en esta fecha por S. E.–Miguel Primo de Rivera.

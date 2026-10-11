@@ -1,0 +1,369 @@
+---
+title: "Decreto 573/1976, de 26 de febrero, por el que se reconoce a la Academia de la Lengua Vasca bajo la denominación de Real Academia de la Lengua Vasca"
+identifier: "BOE-A-1976-6397"
+eli: "https://www.boe.es/eli/es/d/1976/02/26/573"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación y Ciencia"
+date: 1976-02-26
+published: 1976-03-25
+in_force_from: 1976-04-14
+last_amended: 2006-07-14
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 73"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1976-6397"
+retrieved: 2026-10-11
+---
+
+# Decreto 573/1976, de 26 de febrero, por el que se reconoce a la Academia de la Lengua Vasca bajo la denominación de Real Academia de la Lengua Vasca
+
+La lengua vasca ha reunido siempre un doble carácter: ha sido y es una lengua viva hablada por el pueblo, al mismo tiempo que una muestra única de las primitivas lenguas de Europa. Como tal, ha atraído la atención de eminentes especialistas que han consagrado a ella sus estudios e investigaciones. Baste recordar entre otros los nombres de Humboldt, Bonaparte, Van Eys, Schuchardt, Cejador, Azkue, Menéndez Pidal y Tovar.
+
+El euskera, además de su originalidad, ofrece al investigador la huella de los sucesivos estratos lingüísticos que en el transcurso de los siglos se fueron sedimentando en el idioma por efecto de las diversas influencias históricas recibidas por éste a través de su larga vida. Por ello, y por ser vehículo de una civilización de la que constituye hoy el único testimonio vivo, representa un valor de extraordinario interés cultural y humano. Así lo proclamó don Ramón Menéndez Pidal, en discurso pronunciado en Bilbao el año mil novecientos veintiuno: «Tenéis la fortuna de que vuestro pueblo sea depositario de la reliquia más venerable de la antigüedad hispana. Otras tendrán más vector artístico, serán más admiradas y codiciadas universalmente, pero no hay otra que tenga la importancia de esta lengua, sin cuyo estudio profundo jamás podrán ser revelados del todo los fundamentos y los primitivos derroteros de la civilización peninsular, ni podrá ésta ser esencialmente comprendida.»
+
+El cultivo literario de la lengua vasca comienza con el Renacimiento. La poesía épica y lírica medieval, transmitida por tradición oral, quedó recogida en documentos de los siglos XV y XVI. En los siglos XVI y XVII se editaron las obras de Dechepare, Leizarraga, Axular y otros. Más tarde, el uso escrito de la lengua adquiere sensible incremento, gracias a los eruditos trabajos de Larramendi y a la producción literaria de Mendiburu, Moguel y otros destacados cultivadores del idioma. Hoy es general la preocupación que en España se siente por asegurar el mantenimiento y la supervivencia de esta lengua conservada, hablada y transmitida por el pueblo, del que surge, como fenómeno peculiar, el bersolari, auténtico protagonista de una transmisión oral. El bersolari es expresión de este arraigo eminentemente popular, debiendo recordar, entre otros, al bardo José María de Iparraguirre, cuyo nombre recibió ya el Premio Nacional de Literatura en vascuence otorgado en 1964.
+
+Pero junto a esa preocupación por conservar y fomentar la cultura y la lengua transmitida por un pueblo, está también la de promover su desenvolvimiento en todos los órdenes, tanto en el puramente literario como en el de la investigación o la técnica, Para ello, se hace preciso que el idioma tenga acceso a los centros de enseñanza y a los medios escritos y audiovisuales de difusión, con la imprescindible adaptación de su léxico a las terminologías modernas.
+
+Para asegurar estos objetivos nació la Academia de la Lengua Vasca, bajo el patrocinio de las Diputaciones de Álava, Guipúzcoa, Navarra y Vizcaya, La Diputación de Vizcaya acordó, en sesión de veinticinco de enero de mil novecientos dieciocho, promover su fundación, y las Diputaciones hermanas se adhirieron a dicho acuerdo. Por otra parte, en el Congreso de Estudios Vascos, celebrado en la antigua Universidad de Oñate el citado año mil novecientos dieciocho, se llevó a cabo la consagración de la Academia. Su Majestad el Rey Don Alfonso XIII en la sesión inaugural de dicho Congreso pronunció estas memorables palabras: «Consagraos al estudio y fomento de todo cuanto pueda contribuir al adelanto y progreso del País, cultivad vuestra lengua, el milenario y venerable euskera, joya preciadísima del tesoro de la humanidad, que habéis recibido de vuestros padres y debéis legar incólume a vuestros hijos.»
+
+Desde entonces, la Academia viene laborando ininterrumpidamente en los fines para los que fue creada, fomentando la unidad de una lengua que hablen muchos españoles y que es un memento importante de la cultura y del acervo nacionales. Por ello, nada mejor para la tutela e investigación de la lengua vasca que el reconocimiento por el Estado de la labor de esta Academia que Su Majestad el Rey Juan Carlos l quiere hacer patente; de acuerdo con las memorables palabras de su egregio abuelo.
+
+En su virtud, a propuesta del Ministro de Educación y Ciencia y previa deliberación del Consejo de Ministros en su reunión del día veinte de febrero de mil novecientos setenta y seis,
+
+DISPONGO:
+
+### Artículo uno.
+
+Se reconoce a la Academia de la Lengua Vasca, cuyo ámbito de actuación se extenderá a las provincias de Álava, Guipúzcoa, Navarra y Vizcaya.
+
+### Artículo dos.
+
+La Academia se denominará en lo sucesivo Real Academia de la Lengua Vasca, «Euskaltzaindia».
+
+### Artículo tres.
+
+Se aprueban los Estatutos de la Real Academia de la lengua Vasca, cuyo texto se publica anexo al presente Decreto.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a veintiséis de febrero de mil novecientos setenta y seis.
+
+JUAN CARLOS
+
+El Ministro de Educación y Ciencia,
+
+CARLOS ROBLES PIQUER
+
+## ANEXO — Estatutos de la Real Academia de la Lengua Vasca «Euskaltzaindia»
+
+## Fines y naturaleza
+
+### Artículo primero.
+
+La Academia de la Lengua Vasca, fundada en mil novecientos dieciocho bajo los auspicios de las cuatro Diputaciones de Álava, Guipúzcoa, Navarra y Vizcaya, es una Institución que tiene por fines:
+
+a) Investigar y formular las leyes gramaticales del idioma vasco.
+
+b) Dar orientaciones y normas para el cultivo literario del mismo.
+
+c) Inventariar su léxico.
+
+d) Laborar por la formación de un lenguaje literario unificado en léxico, gramática y grafía.
+
+e) Promover su uso.
+
+f) Velar por los derechos de la lengua.
+
+g) Trabajar en la capacitación de la lengua, a fin de que ésta pueda ser medio de expresión de la comunidad a todos los niveles.
+
+h) Fomentar la celebración de concursos literarios y didácticos.
+
+i) Promover los estudios de filología y lingüística impulsando la creación de cátedras de lengua y literatura vasca.
+
+j) Como institución consultiva oficial en materia de lengua, expedir los oportunos certificados, informes y dictámenes.
+
+> Se modifican las letras i) y j) por el art. único del Real Decreto 272/2000, de 25 de febrero. [Ref. BOE-A-2000-4328](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4328).
+
+### Artículo segundo.
+
+En conformidad con estos cometidos, la Academia abarca dos grandes secciones, a saber: la de investigación y la tutelar.
+
+## Constitución orgánica
+
+### Artículo tercero.
+
+La Academia de la Lengua Vasca se compone de veinticuatro Académicos de número, de Académicos eméritos, de Académicos correspondientes y de Académicos de honor. Para los Académicos correspondientes y Académicos de honor no existe un límite establecido.
+
+> Se modifica por el art. único.1 del Real Decreto 750/2006, de 16 de junio. [Ref. BOE-A-2006-12686](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-12686).
+
+### Artículo cuarto.
+
+Los Académicos de número serán naturales u oriundos de todo el País Vasco, a fin de que estén representados en la Academia todos los dialectos tradicionales de la lengua.
+
+### Artículo cuarto bis.
+
+Los Académicos de número pasarán a situación de Académicos eméritos por razón de edad o incapacidad. Los académicos eméritos conservarán las mismas atribuciones que los Académicos de número. En el Reglamento de Régimen Interno se regularán las restantes disposiciones estatutarias sobre los Académicos eméritos.
+
+> Se añade por el art. único.7 del Real Decreto 750/2006, de 16 de junio. [Ref. BOE-A-2006-12686](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-12686).
+
+### Artículo quinto.
+
+La Academia contará con una Junta de Gobierno, compuesta del Presidente-Director, de un Vicepresidente, de un Secretario y de un Tesorero, así como de los Presidentes de la Sección de Investigación y de la Sección Tutelar.
+
+Todos habrán de ser miembros de número. El cargo de Vicepresidente podrá ser desempeñado simultáneamente, bien por el Presidente de la Sección de Investigación, bien por el de la Sección Tutelar.
+
+> Se modifica por el art. único del Real Decreto 272/2000, de 25 de febrero. [Ref. BOE-A-2000-4328](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4328).
+
+### Artículo sexto.
+
+Se podrá designar un Vicesecretario y un Gerente retribuidos. Estos cargos no podrán se desempeñados por Académicos de número.
+
+> Se modifica por el art. único.2 del Real Decreto 750/2006, de 16 de junio. [Ref. BOE-A-2006-12686](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-12686).
+
+### Artículo séptimo.
+
+De entre los miembros de número o correspondientes se designará un Bibliotecario.
+
+### Artículo octavo.
+
+A la Junta de Gobierno incumbe proponer los nombres de las personas que hayan de integrar las distintas Comisiones de trabajo y redactar notas informativas en relación con los asuntos tratados en las sesiones.
+
+### Artículo noveno.
+
+Serán atribuciones y obligaciones del Presidente:
+
+a) Presidir las reuniones de la Institución.
+
+b) Cuidar del cumplimiento de sus Estatutos, Reglamentos y acuerdos.
+
+c) Representar a la Institución ante toda clase de personas y entidades públicas o privadas.
+
+d) Ejercer las demás facultades que se le confieren por reglamentos y acuerdos de la Institución.
+
+### Artículo décimo.
+
+Será de la incumbencia del Vicepresidente sustituir al Presidente en ausencia de éste.
+
+### Artículo undécimo.
+
+Corresponderá al Secretario:
+
+a) Despachar los asuntos de trámite y burocráticos de la Institución.
+
+b) Extender el acta de cada sesión y firmarla con el visto bueno del Presidente-Director, después de aprobada.
+
+c) Dirigir la correspondencia y dar cuenta de ella en las sesiones.
+
+d) Redactar la Memoria anual y presentarla a la Academia en la sesión correspondiente.
+
+e) Coordinar las actividades de las distintas Delegaciones.
+
+f) Cumplir los demás cometidos que se le confieran por los reglamentos y acuerdos de las sesiones y de la Junta de Gobierno.
+
+### Artículo duodécimo.
+
+Compete al Tesorero:
+
+a) Recaudar las cantidades que por cualquier concepto deba percibir la Institución.
+
+b) Efectuar los pagos correspondientes.
+
+c) Rendir cuentas trimestralmente a la Academia, sin perjuicio de hacerlo al Presidente-Director o a la Junta de Gobierno siempre que sea requerido al efecto.
+
+### Artículo decimotercero.
+
+Corresponderá al Vicesecretario:
+
+a) Sustituir al Secretario en su ausencia.
+
+b) Despachar los asuntos de trámite de acuerdo con el Presidente y/o el Secretario, según proceda.
+
+c) Remitir por orden del Presidente a todos los miembros el acta de la sesión anterior y la convocatoria de la sesión inmediata, con el orden del día de los asuntos a tratar en ella.
+
+d) Colaborar con el Secretario en la coordinación del trabajo de las Delegaciones.
+
+> Se modifica por el art. único.3 del Real Decreto 750/2006, de 16 de junio. [Ref. BOE-A-2006-12686](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-12686).
+
+### Artículo decimotercero bis.
+
+Corresponderá al Gerente:
+
+a) Sustituir al Tesorero en su ausencia.
+
+b) Despachar los asuntos de trámite de acuerdo con el Presidente y/o el Tesorero, según proceda.
+
+c) Atender en el domicilio de la Academia el despacho normal de los asuntos y la gestión del personal.
+
+d) Gestionar las relaciones de carácter laboral de los empleados de las Delegaciones y del personal contratado para los proyectos.
+
+> Se añade por el art. único.7 del Real Decreto 750/2006, de 16 de junio. [Ref. BOE-A-2006-12686](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-12686).
+
+### Artículo decimocuarto.
+
+Será de la incumbencia del Bibliotecario:
+
+a) Conservar y ordenar libros, manuscritos y documentos de la Institución.
+
+b) Facilitar tales libros, manuscritos o documentos conforme a las normas que se establezcan en reglamento especial.
+
+c) Dar cuenta en cada sesión de las nuevas adquisiciones.
+
+## Sede y Delegaciones
+
+### Artículo decimoquinto.
+
+La institución tiene su sede en Bilbao. Su domicilio actual es plaza Nueva, número 15.
+
+> Se modifica por el art. único del Real Decreto 272/2000, de 25 de febrero. [Ref. BOE-A-2000-4328](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4328).
+
+### Artículo decimosexto.
+
+Podrán establecerse Delegaciones en las distintas capitales de provincia.
+
+## Juntas de la Institución
+
+### Artículo decimoséptimo.
+
+Las Juntas de la institución podrán ser ordinarias y extraordinarias, públicas o privadas. Todos los meses se celebrará en principio alguna de estas reuniones, y a ellas deberán asistir todos los académicos de número. En caso de no poder hacerlo, deberán excusar su ausencia. Los Académicos eméritos no estarán obligados a asistir a las mismas. Las disposiciones estatutarias sobre este artículo se regularán en el Reglamento de Régimen Interno.
+
+> Se modifica por el art. único.4 del Real Decreto 750/2006, de 16 de junio. [Ref. BOE-A-2006-12686](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-12686).
+
+> Se modifica por el art. único del Real Decreto 272/2000, de 25 de febrero. [Ref. BOE-A-2000-4328](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4328).
+
+### Artículo decimoctavo.
+
+En las sesiones privadas ordinarias se tratarán cuestiones internas y cuestiones académicas. Cuando se traten cuestiones académicas, podrán asistir también los académicos honorarios y correspondientes, con voz, pero sin voto.
+
+> Se modifica por el art. único del Real Decreto 272/2000, de 25 de febrero. [Ref. BOE-A-2000-4328](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4328).
+
+### Artículo decimonoveno.
+
+Las sesiones públicas se celebrarán con motivo de la recepción y tomas de posesión de los nuevos académicos de número, homenajes, conmemoraciones y actos, en general, que a juicio de la Junta de Gobierno deban ser revestidos de especial solemnidad.
+
+> Se modifica por el art. único del Real Decreto 272/2000, de 25 de febrero. [Ref. BOE-A-2000-4328](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4328).
+
+### Artículo vigésimo.
+
+Las sesiones extraordinarias serán convocadas exclusivamente por decisión de la Junta de Gobierno, que estará obligada a convocarla cuando lo soliciten por escrito cinco académicos de número.
+
+> Se modifica por el art. único del Real Decreto 272/2000, de 25 de febrero. [Ref. BOE-A-2000-4328](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4328).
+
+### Artículo vigésimo primero.
+
+Las decisiones se tomarán por mayoría, y, en su caso, con el quórum que especialmente se determina en estos Estatutos.
+
+Bastará que así lo solicite un Académico de número para que la votación sea secreta.
+
+### Artículo vigésimo segundo.
+
+Los académicos de número que justifiquen su imposibilidad de asistir a la sesión podrán emitir su voto por escrito o por medio de otro miembro de número, debidamente autorizado al efecto. Los académicos eméritos no podrán hacer uso de esa facultad. En caso de empate, el Presidente tendrá voto de calidad.
+
+> Se modifica por el art. único.5 del Real Decreto 750/2006, de 16 de junio. [Ref. BOE-A-2006-12686](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-12686).
+
+### Artículo vigésimo tercero.
+
+Cuando el Presidente-Director y el Vicepresidente no asistan a la sesión, será ésta presidida por el Académico de número más antiguo.
+
+### Artículo vigésimo cuarto.
+
+El Secretario será sustituido en caso de ausencia por el Académico de número de más reciente nombramiento.
+
+### Artículo vigésimo quinto.
+
+Cuando se trate de asuntos previamente declarados importantes por el Presidente-Director será preciso que la propuesta obtenga, en primera convocatoria, la mayoría absoluta de los votos de los académicos de número ; en segunda convocatoria, en cambio, será suficiente la mayoría simple.
+
+> Se modifica por el art. único del Real Decreto 272/2000, de 25 de febrero. [Ref. BOE-A-2000-4328](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4328).
+
+### Artículo vigésimo sexto.
+
+Tratándose de asuntos no declarados importantes, bastará que así lo pida un Académico de número para que queden sobre la Mesa hasta la siguiente sesión.
+
+## Fondos de la Institución
+
+### Artículo vigésimo séptimo.
+
+Los fondos de la institución estarán constituidos:
+
+a) Por las subvenciones y donativos del Estado, Comunidades Autónomas, Diputaciones Forales y Ayuntamientos, así como de instituciones, asociaciones y particulares.
+
+b) Por el producto de las publicaciones y trabajos de la Academia.
+
+c) Cualquier otro ingreso que la Academia pueda obtener de la explotación de su patrimonio.
+
+> Se modifica por el art. único del Real Decreto 272/2000, de 25 de febrero. [Ref. BOE-A-2000-4328](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4328).
+
+## Elección de cargos
+
+### Artículo vigésimo octavo.
+
+Los cargos de la Junta de Gobierno se proveerán por cuatro años. Los nombrados pueden ser reelegidos.
+
+> Se modifica por el art. único del Real Decreto 272/2000, de 25 de febrero. [Ref. BOE-A-2000-4328](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4328).
+
+### Artículo vigésimo noveno.
+
+La elección se hará por votación secreta, en sesión extraordinaria privada, dedicada exclusivamente a esta concreta finalidad.
+
+### Artículo trigésimo.
+
+Con quince días al menos de antelación se remitirá el aviso de sesión, en cuyo orden del día figure la renovación de cargos que en la dicha sesión va a tener lugar.
+
+### Artículo trigésimo primero.
+
+Para que la elección sea válida, será preciso que el candidato obtenga la mayoría absoluta de votos. Si no se alcanzara el expresado quórum, se verificará nueva votación en la que bastará la simple mayoría.
+
+### Artículo trigésimo segundo.
+
+La elección y toma de posesión de los miembros de la Junta de Gobierno tendrán lugar en el último trimestre del año.
+
+## Nombramiento de nuevos Académicos
+
+### Artículo trigésimo tercero.
+
+Las vacantes de Académicos de número que por fallecimiento o que, por razones de edad o incapacidad han pasado a situación de eméritos, se anunciarán en sesión ordinaria, pudiendo presentarse propuestas para proveerlas en las dos sesiones siguientes a aquella en que se hubiere anunciado la vacante.
+
+> Se modifica por el art. único.6 del Real Decreto 750/2006, de 16 de junio. [Ref. BOE-A-2006-12686](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-12686).
+
+### Artículo trigésimo cuarto.
+
+La propuesta para miembro de número deberá ser firmada por tres Académicos también de número. Acompañará a la propuesta una relación detallada de los méritos de cada candidato.
+
+### Artículo trigésimo quinto.
+
+Para ser elegido Académico de numero, será indispensable obtener la mayoría de los votes de los Académicos numerarios.
+
+### Artículo trigésimo sexto.
+
+La recepción de los nuevos académicos de número se efectuará en sesión pública. El académico electo pronunciará el discurso de ingreso y será contestado por un académico de número.
+
+> Se modifica por el art. único del Real Decreto 272/2000, de 25 de febrero. [Ref. BOE-A-2000-4328](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4328).
+
+### Artículo trigésimo séptimo.
+
+Cada dos años considerará la Academia la oportunidad de la designación, en su caso, de nuevos Académicos correspondientes.
+
+### Artículo trigésimo octavo.
+
+Para el nombramiento de Académico correspondiente, será precisa propuesta escrita de dos Académicos de número en la que consten los méritos del candidato. Para la designación será necesario el voto favorable de la mayoría de los Académicos de número. La votación será secreta.
+
+### Artículo trigésimo noveno.
+
+Al rango de los Académicos honorarios pertenecerán aquellas personas que en opinión de la Academia hayan prestado servicios eminentes al idioma. Para su nombramiento se requerirá propuesta escrita de la Junta de Gobierno o de dos académicos de número, y la subsiguiente aceptación del Pleno en sesión académica.
+
+## Publicaciones
+
+### Artículo cuadragésimo.
+
+La Academia publicará un boletín periódico, donde figurarán, juntamente con trabajos lingüísticos y literarios, las actas y acuerdos de la institución. Asimismo, editará trabajos que concuerden con sus fines.
+
+> Se modifica por el art. único del Real Decreto 272/2000, de 25 de febrero. [Ref. BOE-A-2000-4328](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4328).
+
+## Disposición adicional
+
+### Artículo cuadragésimo primero.
+
+Las disposiciones de estos Estatutos serán desarrolladas en los reglamentos oportunos. La Academia tendrá facultad para desarrollar las disposiciones de estos Estatutos en el reglamento interno, así como en los distintos reglamentos especiales.
+
+> Se modifica por el art. único del Real Decreto 272/2000, de 25 de febrero. [Ref. BOE-A-2000-4328](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4328).

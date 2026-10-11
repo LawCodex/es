@@ -1,0 +1,40 @@
+---
+title: "Circular de 26 de noviembre de 1980, de la Dirección General de los Registros y del Notariado, sobre menciones de identidad"
+identifier: "BOE-A-1980-25849"
+eli: "https://www.boe.es/eli/es/cir/1980/11/26/(1)"
+type: circular
+rank: "Circular"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1980-11-26
+published: 1980-11-28
+in_force_from: 1980-11-28
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 286"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1980-25849"
+retrieved: 2026-10-11
+---
+
+# Circular de 26 de noviembre de 1980, de la Dirección General de los Registros y del Notariado, sobre menciones de identidad
+
+Prevista en la Constitución la existencia de Comunidades Autónomas y aprobados los Estatutos de algunas de ellas, ha surgido un nuevo dato para identificar a la persona, como es la condición política de perteneciente a tales Comunidades, condición que depende de la vecindad administrativa, según los artículos 7 del Estatuto del País Vasco y 6 del Estatuto de Cataluña, vigentes en la actualidad.
+
+Por lo expuesto, surge la posibilidad de hacer constar la pertenencia a una Comunidad Autónoma de las ya existentes, lo que en su caso será aplicable en las Comunidades Autónomas que en el futuro se constituyan.
+
+Con independencia de lo anterior, la expresión «nacionalidad» designa en el Registro Civil, conforme a nuestro ordenamiento jurídico, el carácter de español o extranjero de la persona.
+
+En consecuencia, completando y precisando lo declarado por la anterior Circular de 6 de noviembre, esta Dirección General ha acordado declarar:
+
+1\. En el Registro Civil, la mención «nacionalidad» hará referencia al carácter de español o extranjero del interesado.
+
+2\. En las actuaciones del Registro Civil constará, si el interesado lo pidiere, entre las menciones de identidad, su condición política autonómica derivada de su vecindad administrativa que, a este efecto, se hará constar en los libros y modelos oficiales.
+
+Lo que digo a VV. SS.
+
+Dios guarde a VV. SS. muchos años.
+
+Madrid, 29 de noviembre de 1980.−El Director general, Francisco Javier Die Lamana.
+
+Sres. Jueces y Cónsules encargados da los Registros Civiles.

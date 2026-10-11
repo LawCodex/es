@@ -1,0 +1,293 @@
+---
+title: "Orden de 27 de diciembre de 1991 por la que se dictan instrucciones acerca del régimen económico financiero de la Agencia Estatal de Administración Tributaria"
+identifier: "BOE-A-1991-30910"
+eli: "https://www.boe.es/eli/es/o/1991/12/27/(4)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1991-12-27
+published: 1991-12-31
+in_force_from: 1992-01-01
+last_amended: 2025-03-31
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 313"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-30910"
+retrieved: 2026-10-11
+---
+
+# Orden de 27 de diciembre de 1991 por la que se dictan instrucciones acerca del régimen económico financiero de la Agencia Estatal de Administración Tributaria
+
+El artículo 103 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, modificado por las disposiciones adicionarles decimoséptima y vigésimo tercera de la Ley 18/1991, de 6 de junio, del Impuesto sobre la Renta de las Personas Físicas, creó la Agencia Estatal de Administración Tributaria, como un Ente de derecho público, integrado en las Administraciones Públicas Centrales y adscrito al Ministerio de Economía y Hacienda.
+
+La Orden del Ministro de Economía y Hacienda del pasado 25 de septiembre ha determinado que la Agencia quedará, efectivamente, constituida el 1 de enero de 1992.
+
+La presente Orden tiene, exclusivamente, por objeto establecer criterios y dictar instrucciones necesarios para el funcionamiento de la Agencia, tanto desde la perspectiva del régimen económico financiero propio de la Agencia como por las adaptaciones que la Agencia exige en el desenvolvimiento de las actuaciones del Tesoro Público. En definitiva, esta Orden persigue, exclusivamente, arbitrar los mecanismos precisos para responder a la novedad que la Agencia va a suponer en la organización de este Departamento, sin alterar los procedimientos de la Administración Tributaria.
+
+En su virtud, este Ministerio ha tenido a bien disponer:
+
+## Primero. Financiación.
+
+En aplicación de lo dispuesto en el apartado cinco de la Ley 31/1990, de 27 de diciembre, modificado por el apartado doce de la disposición adicional decimoséptima de la Ley 18/1991, de 6 de junio, la Agencia se financiará con cargo a los siguientes recursos:
+
+a) Las transferencias consignadas en los Presupuestos Generales del Estado, que se realizarán con cargo a los créditos de transferencias corrientes y de capital del Presupuesto de Gastos del Ministerio de Economía y Hacienda.
+
+b) Un porcentaje de la recaudación que se derive de los actos de liquidación y de gestión recaudatoria o de otros actos administrativos acordados o dictadas por la Agencia, en el ámbito de la gestión tributaria que tiene encomendada.
+
+Constituye la base de cálculo para la aplicación del porcentaje la recaudación bruta de los siguientes conceptos:
+
+1\. Ingresos de los capítulos I y II del Presupuesto de Ingresos del Estado, integrados por la recaudación bruta derivada de los actos de liquidación y de gestión recaudatoria o de actos administrativos acordados o dictados por la Agencia o por los órganos a los que ésta sucede, con excepción de los que se deriven de liquidaciones practicadas por los servicios aduaneros que no sean consecuencia de un acta de inspección.
+
+A estos efectos, no se considerarán ingresos procedemos de un acto de liquidación los que se deriven de cuotas autoliquidadas que hayan sido aplazadas o fraccionadas y satisfechas en período voluntario.
+
+2\. Ingresos del capítulo III del Presupuesto de Ingresos del Estado, que procedan de liquidaciones de tasas, cuya gestión corresponda a la Agencia, o de recargos, intereses de demora o sanciones tributarias, liquidados o acordados asimismo por la Agencia o por los órganos de la Administración tributaria a los que la Agencia sucede.
+
+El porcentaje a que se refiere esta letra b) se calculará sobre la recaudación aplicada al Presupuesto de Ingresos del Estado a partir de la constitución efectiva de la Agencia y derivada de liquidaciones, actos de gestión recaudatoria u otros actos administrativos.
+
+Para el pago a la Agencia de las cantidades derivadas de la aplicación del porcentaje citado se consignará un crédito de transferencias corrientes en el Presupuesto de Gastos del Ministerio de Economía y Hacienda.
+
+Los mayores ingresos que correspondan a la Agencia por estos conceptos con respecto a las previsiones iniciales incrementarán de forma automática los créditos del presupuesto de gastos de la Agencia, por el procedimiento establecido en el apartado seis.2 del artículo 103 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991.
+
+c) Los ingresos que perciba como retribución por las otras actividades que pueda realizar, por virtud de convenios o disposición legal, para otras Administraciones o Entes públicos nacionales o supranacionales.
+
+Dentro de este concepto se integran:
+
+1\. Los ingresos por prestación de servicios de gestión recaudatoria, tanto en período voluntario como en vía ejecutiva, para otras Administraciones o Entes públicos nacionales, en aquellos supuestos en que se haya estipulado una compensación por la prestación de estos servicios.
+
+El cobro de estos ingresos se producirá mediante deducción en los pagos que la Agencia realice a aquellas Administraciones o Entes públicos de la recaudación obtenida.
+
+2\. Los ingresos por prestación de servicios de gestión recaudatoria para Entidades supranacionales, cuando éstas se hallen obligadas a satisfacer una compensación con cargo a la recaudación obtenida.
+
+Se integra, entre otros, dentro de estos ingresos, la retribución que como compensación por los gastos de recaudación de los recursos propios de la Comunidad Económica Europea en el ámbito aduanero, se devenga a favor de cada Estado miembro de dicha Comunidad.
+
+Para el pago a la Agencia de las cantidades que procedan de acuerdo con este número se consignará un crédito de transferencias corrientes en el Presupuesto de Gastos del Ministerio de Economía y Hacienda.
+
+d) Los rendimientos de los bienes y valores que constituyen su patrimonio.
+
+e) Los préstamos que sean necesarios para atender situaciones de desfase temporal de tesorería.
+
+f) Los demás ingresos de Derecho Público o Privado que le sea autorizado percibir.
+
+En este concepto se integrarán, entre otros, las tasas o precios públicos percibidos por la Agencia como consecuencia de prestaciones de servicios efectuadas por sus órganos y las cantidades recaudadas en el curso de un procedimiento de premio y aplicadas al pago de las costas originadas durante el proceso de ejecución forzosa, de acuerdo con los artículos 153 y siguientes del Reglamento General de Recaudación.
+
+El Departamento competente o las Delegaciones de la Agencia elaborarán mensualmente un estado de los ingresos devengados por este concepto en el mes anterior a favor de la misma, que se trasladará a la Dirección General del Tesoro o a las Delegaciones del Ministerio de Economía y Hacienda. La Dirección General del Tesoro o las Delegaciones del Ministerio de Economía y Hacienda procederán a expedir los correspondientes libramientos en favor de la Agencia para el pago de estas cantidades, siempre que ello sea necesario por haberse efectuado el ingreso de las mismas en la cuenta del Tesoro en el Banco de España.
+
+> Se modifican las referencias a la "Dirección General del Tesoro y Política Financiera" por la disposición adicional 1 de la Orden HAC/305/2025, de 27 de marzo. [Ref. BOE-A-2025-6376](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6376)
+
+## Segundo. Devoluciones de naturaleza tributaria y otros pagos que se encomienden o deleguen en la Agencia.
+
+a) Los órganos competentes de la Agencia efectuarán, conforme a lo dispuesto en este apartado, el pago de las devoluciones de naturaleza tributaria reconocidas por órganos de la misma Agencia o por otros órganos de la Administración del Estado, cuando, en este último caso, no sea realizado el pago por la Dirección General del Tesoro, así como aquellos pagos cuya administración sea encomendada o se delegue en la Agencia Tributaria por otras Administraciones o Entes Públicos.
+
+b) A tal fin, antes del 1 de enero de cada año, el Presidente de la Agencia aprobará y comunicará a la Dirección General del Tesoro, un programa de las cantidades que habrán de ser destinadas cada mes de dicho año a atender el pago de devoluciones de naturaleza tributaria y otros pagos asumidos de acuerdo con el párrafo anterior.
+
+Durante el transcurso del año, el Presidente de la Agencia podrá modificar este programa y comunicar a la Dirección General del Tesoro las nuevas cantidades necesarias en los meses sucesivos para atender dichos pagos. La modificación del programa podrá ser realizada por el Director Adjunto de Administración Económica de la Agencia cuando, por el grado de ejecución del programa establecido, no suponga incrementar su importe global.
+
+La Dirección Adjunta de Administración Económica de la Agencia, solicitará a la Dirección General del Tesoro la realización del pago extrapresupuestario, como anticipo a favor de la Agencia, de la diferencia entre la cantidad que figure en el programa para el mes y el remanente no aplicado de la dotación a fin del mes anterior. El pago del montante total se podrá distribuir en dos o más pagos a realizar en el transcurso del mes al que se refiere el anticipo por las cantidades y fechas que en la solicitud se establezcan. Dentro de cada mes, el Director General del Tesoro ordenará y realizará los pagos en las fechas indicadas en la solicitud.
+
+No obstante, los importes destinados a la realización de devoluciones tributarias que la Agencia deba efectuar a favor de Comunidades Autónomas como consecuencia de ajustes a la recaudación, y en su caso entregas a cuenta de tributos cedidos o concertados, no formarán parte del programa de devoluciones y otros pagos. Dichos importes una vez conocida su cuantía, serán solicitados individualmente por la Dirección Adjunta de Administración Económica de la Agencia y ordenados y pagados por la Dirección General del Tesoro.
+
+Los pagos que se realicen por la Agencia con cargo a los anticipos que se reciban de la Dirección General del Tesoro actualizarán la contabilidad de la Administración General del Estado, produciendo las anotaciones contables que procedan, de conformidad con los procedimientos que rigen el traspaso de información contable entre la Administración General del Estado y la Agencia Tributaria.
+
+El importe de estos mandamientos de pago se abonará por transferencia en una cuenta corriente en el Banco de España de la que será titular la Agencia, dentro de la agrupación "Tesoro Público. Cuentas Transitorias".
+
+Esta cuenta sólo podrá admitir como ingresos las cantidades libradas por la Dirección General del Tesoro para atender los pagos a que se refiere este apartado, así como los abonos correspondientes a las transferencias emitidas que no hayan podido ser pagadas a los destinatarios y el importe de los cheques expedidos y anulados o caducados por el transcurso de su plazo de validez. Sólo podrá ser objeto de cargo por las operaciones necesarias para la realización de estos mismos pagos, sin perjuicio de los reintegros que procedan en favor del Tesoro Público.
+
+c) Los pagos con cargo a esta cuenta se efectuarán mediante cheques nominativos o transferencias bancarias, autorizados con las firmas mancomunadas de dos funcionarios de la Agencia.
+
+Existirán dos funcionarios habilitados, así como otros tantos sustitutos autorizados por el Director general de la Agencia, quien, además, podrá acordar la habilitación de otros funcionarios y el mismo número de sustitutos para disponer de los fondos de dicha cuenta cuando la estructura organizativa lo haga aconsejable. Las habilitaciones anteriores deberán ser comunicadas al Banco de España.
+
+En ningún caso podrá actuar una misma persona en sustitución de las dos que han de autorizar la disposición de fondos.
+
+Junto a la cuenta anterior, existirá otra en el Banco de España de titularidad de la Agencia destinada a registrar la situación de los cheques de devoluciones. Su saldo reflejará en cada momento el importe de los cheques pendientes de pago y no caducados ni anulados.
+
+Los fondos situados en estas cuentas tendrán, en todo caso, el carácter de fondos públicos y formarán parte integrante de la cuenta corriente del Tesoro Público.
+
+d) La Agencia remitirá mensualmente a la Dirección General del Tesoro un resumen de los pagos en el período, indicando su importe global y desglosado por cada uno de los conceptos extrapresupuestarios o del presupuesto de ingresos al que deban imputarse, y la situación de Tesorería referida al último día del período.
+
+e) El Banco de España facilitará diariamente por medios telemáticos a la Agencia Tributaria información acerca de los pagos que no hayan sido percibidos por los destinatarios, reintegrando su importe en la cuenta de ésta. La información distinguirá los pagos realizados por transferencias, de los cheques anulados o caducados por el transcurso de su plazo de validez.
+
+El nuevo pago podrá realizarse por cheque o transferencia, con independencia de cual fuera el medio de pago de la devolución retrocedida.
+
+f) Los órganos competentes de la Agencia llevarán contabilidad auxiliar detallada, tanto de las propuestas de pago que se expidan como de los pagos realizados, de acuerdo con la instrucción de Contabilidad de los Tributos Estatales aprobada para la Agencia.
+
+> Se modifican las referencias a la "Dirección General del Tesoro y Política Financiera" por la disposición adicional 1 de la Orden HAC/305/2025, de 27 de marzo. [Ref. BOE-A-2025-6376](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6376)
+
+> Se modifica por la disposición final 1 de la Orden EHA/3352/2007, de 19 de noviembre. [Ref. BOE-A-2007-19885](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-19885).
+
+> Esta modificación tiene efectos desde el 1 de enero de 2007, según establece la disposición final 2.
+
+> Se modifica la letra b) por el apartado 3 de la Orden de 14 de octubre de 1998. [Ref. BOE-A-1998-24509](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-24509).
+
+> Se modifica por el apartado 1 de la Orden de 27 de julio de 1994. [Ref. BOE-A-1994-17893](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17893).
+
+## Tercero. Gestión recaudatoria por cuenta de otras Administraciones y entes públicos encomendada a la Agencia por ley o convenio:
+
+a) Los órganos competentes de la Agencia realizarán el pago de las cantidades que resulten a favor de otras Administraciones o entes públicos por recursos de los mismos cuya gestión tenga encomendada la Agencia, salvo los recursos de Corporaciones Locales recaudados por el Estado en concepto de tributos locales por razón de autoliquidaciones o actos de liquidación cuya recepción o realización corresponda a la propia Agencia.
+
+En el caso de convenios suscritos con Comunidades Autónomas para el establecimiento de un procedimiento único y conjunto de presentación de declaraciones tributarias o aduaneras de recursos estatales y autonómicos, el pago de las cantidades que resulten a favor de cada Comunidad Autónoma se efectuará por la Dirección General del Tesoro a propuesta de los órganos competentes de la Agencia.
+
+b) A tal fin, durante los tres primeros días hábiles de cada mes, el Servicio de Gestión Económica de la Agencia remitirá a la Dirección General del Tesoro un estado de las cantidades efectivamente recaudadas durante el mes anterior y los importes a liquidar como recursos de otras Administraciones y entes públicos gestionados por la Agencia.
+
+En el caso de entes con recaudación líquida negativa en alguno de los conceptos incluidos en el estado a que se refiere el párrafo anterior, tales cantidades negativas podrán ser detraídas total o parcialmente de los pagos a que se refiere el punto c) siguiente, únicamente mediante compensación con importes positivos en otro u otros conceptos correspondientes al mismo ente. En ningún caso se podrán compensar saldos negativos de un ente público con cantidades a liquidar a entes públicos diferentes.
+
+c) La Dirección General del Tesoro ordenará el correspondiente pago extrapresupuestario a favor de la Agencia de las cantidades a que se refiere el estado citado en el punto anterior. El pago se realizará dentro de los cinco días hábiles siguientes a la recepción del estado a que se refiere el apartado b) anterior.
+
+Estas cantidades se abonarán mediante transferencia en la cuenta corriente abierta a nombre de la Agencia en la agrupación 12.41 del Banco de España, que el Servicio de Gestión Económica de la Agencia comunique a la Dirección General del Tesoro.
+
+d) El Departamento de Recursos Humanos y Administración Económica, a propuesta del Departamento de Recaudación, procederá a realizar el pago de las cantidades adeudadas a otras Administraciones y entes públicos como consecuencia de la gestión recaudatoria encomendada a la Agencia.
+
+La Agencia podrá detraer de los fondos recibidos para la realización de tales pagos las cantidades que constituyen ingresos propios de la misma, como retribución por los servicios de gestión recaudatoria, así como las cantidades que corresponda deducir por costas no repercutidas y los importes correspondientes a las devoluciones efectuadas por cuenta de los entes.
+
+Cuando no pueda detraerse la totalidad o parte de los importes a que se refiere el párrafo anterior y no haya sido atendido el requerimiento realizado por la Agencia reclamando el reintegro, ésta podrá exigir su pago de acuerdo con lo establecido en el Reglamento General de Recaudación.
+
+> Se modifican las referencias al "Departamento de Recursos Humanos y Administración Económica de la Agencia" y a la "Dirección General del Tesoro y Política Financiera" por la disposición adicional 1 de la Orden HAC/305/2025, de 27 de marzo. [Ref. BOE-A-2025-6376](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6376)
+
+> Se añade el párrafo segundo a la letra a) por la disposición final 2 de la Orden EHA/1806/2007, de 14 de junio. [Ref. BOE-A-2007-12116](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12116).
+
+> Se modifica por el apartado 1 de la Orden de 14 de octubre de 1998. [Ref. BOE-A-1998-24509](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-24509).
+
+## Tercero bis. Recaudación del impuesto sobre transmisiones patrimoniales y actos jurídicos documentados mediante efectos timbrados.
+
+1\. En el supuesto de documentos físicos:
+
+a) Dentro de los veinticinco primeros días de cada mes, la entidad adjudicataria del contrato de distribución al por mayor de Signos de Franqueo o de Efectos timbrados, o de ambos, que resulte de lo previsto en la disposición adicional sexta de la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria, comunicará al Comisionado para el Mercado de Tabacos el desglose de los ingresos y el número de documentos o efectos timbrados correspondientes a las ventas efectuadas el mes inmediato anterior que se indican a continuación, clasificando la información en los siguientes grupos y conceptos:
+
+Grupo 1.º Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados, concepto: “Transmisiones onerosas”.
+
+Concepto: contratos de arrendamiento de fincas urbanas y locales de negocio.
+
+Grupo 2.º Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados, concepto “Actos Jurídicos Documentados”.
+
+Concepto: papel timbrado común (pliego).
+
+Concepto: papel timbrado común (folio).
+
+Concepto: papel timbrado de uso notarial (pliego).
+
+Concepto: papel timbrado de uso notarial (folio).
+
+Concepto: letras de cambio (efectos).
+
+Concepto: letras de cambio (formularios).
+
+Concepto: timbres móviles (litográficos).
+
+Concepto: timbres móviles (calcográficos).
+
+Los importes se referirán a rendimientos netos, es decir, deducidas las comisiones establecidas en la disposición adicional sexta de la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria, y en el contrato suscrito por el Comisionado para el Mercado de Tabacos con la empresa adjudicataria del servicio de distribución al por mayor del timbre del Estado y signos de franqueo, y los distintos conceptos se presentarán desglosados por comunidades autónomas.
+
+b) En el plazo señalado en el apartado anterior y asimismo referida a rendimientos netos, la entidad adjudicataria del contrato de distribución comunicará al Comisionado para el Mercado de Tabacos, con desglose por conceptos, los ingresos correspondientes a las ventas efectuadas en el mes inmediato anterior por los conceptos de timbre del Estado y signos de franqueo siguientes:
+
+Grupo 3.º Otros ingresos del timbre.
+
+Concepto: papel pagos del Estado.
+
+Concepto: licencia de armas.
+
+Concepto: otros documentos timbrados para el pago de tasas parafiscales.
+
+Concepto: sellos de correo.
+
+Concepto: demás signos de franqueo.
+
+Concepto: timbres de telégrafos.
+
+c) Realizadas las comprobaciones que fuesen oportunas, de acuerdo con las competencias públicas atribuidas por el artículo 4.n) del Estatuto del Organismo autónomo Comisionado para el Mercado de Tabacos, aprobado por Real Decreto 2668/1998, de 11 de diciembre, el Comisionado para el Mercado de Tabacos comunicará a la Dirección General del Tesoro y al Departamento de Recaudación de la Agencia Estatal de Administración Tributaria, dentro de los cinco días siguientes a la finalización del plazo indicado en el apartado a) anterior, el número de documentos o efectos timbrados y los importes correspondientes a la recaudación neta del impuesto sobre transmisiones patrimoniales y actos jurídicos documentados [grupos 1.º y 2.º del apartado a)], desglosada por comunidades autónomas. Dichos importes habrán de ser ingresados en el Tesoro Público por la entidad adjudicataria del contrato de distribución como máximo el día último del mes siguiente a aquel en que fueron realizadas las ventas, y si éste fuese inhábil en el inmediato hábil anterior.
+
+d) En base a la información suministrada por el Comisionado para el Mercado de Tabacos y las cantidades ingresadas en el Tesoro Público, la Dirección General del Tesoro ordenará y realizará el correspondiente pago extrapresupuestario a favor de la Agencia de la recaudación mediante efectos timbrados por impuesto sobre transmisiones patrimoniales y actos jurídicos documentados (correspondiente a las comunidades autónomas que tuviesen cedido su rendimiento). El pago se realizará dentro de los cinco días hábiles siguientes a la recepción de la comunicación del Comisionado para el Mercado de Tabacos a que se refiere el apartado c).
+
+Estas cantidades se abonarán mediante transferencia en la cuenta corriente abierta en la agrupación 12.41 del Banco de España que el Servicio de Gestión Económica de la Agencia le comunique.
+
+e) El Servicio de Gestión Económica de la Agencia, a propuesta del Departamento de Recaudación, procederá a efectuar el pago de la recaudación líquida del impuesto sobre transmisiones patrimoniales y actos jurídicos documentados [grupos 1.º y 2.º del apartado a)] recaudado mediante efectos timbrados a las respectivas comunidades autónomas que tuviesen cedido su rendimiento, como máximo antes de terminar el mes siguiente al de la recepción del ingreso en la cuenta de la Agencia. Se entenderá por recaudación líquida la obtenida después de deducir las devoluciones de ingresos indebidos realizadas por la Agencia y el coste de confección de los efectos timbrados.
+
+f) Efectuado el pago a las distintas comunidades autónomas según lo establecido en el apartado anterior, el Servicio de Gestión Económica de la Agencia, comunicará a la Secretaria General de Financiación Autonómica y Local el montante y efectividad de las cantidades abonadas, dentro del mes siguiente a haberse efectuado el pago a las diferentes comunidades autónomas.
+
+2\. En el supuesto de documentos electrónicos:
+
+a) Dentro de los veinticinco primeros días de cada mes, el Consejo General del Notariado, comunicará al Comisionado para el Mercado de Tabacos el desglose de los ingresos y el número de documentos utilizados en el mes inmediato anterior, clasificando la información en los siguientes grupos y conceptos:
+
+Grupo 4.º Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados, concepto “Actos Jurídicos Documentados”.
+
+Concepto: folio de matriz electrónica.
+
+Concepto: folio de copia autorizada electrónica con destino a tercero.
+
+Los distintos conceptos se presentarán desglosados por comunidades autónomas.
+
+b) Realizadas las comprobaciones que fuesen oportunas, de acuerdo con las competencias públicas atribuidas por el artículo 4.n) del Estatuto del Organismo autónomo Comisionado para el Mercado de Tabacos, aprobado por Real Decreto 2668/1998, de 11 de diciembre, el Comisionado para el Mercado de Tabacos comunicará a la Dirección General del Tesoro y al Departamento de Recaudación de la Agencia Estatal de Administración Tributaria, dentro de los cinco días siguientes a la finalización del plazo indicado en el apartado a) anterior, el número de documentos y los importes correspondientes a la recaudación del impuesto sobre transmisiones patrimoniales y actos jurídicos documentados [grupo 4.º del apartado a)], desglosada por comunidades autónomas.
+
+Dichos importes habrán de ser ingresados en el Tesoro Público por el Consejo General del Notariado como máximo el día último del mes siguiente a aquel en que fueron utilizados los documentos, y si este fuese inhábil en el inmediato hábil anterior.
+
+c) En base a la información suministrada por el Comisionado para el Mercado de Tabacos y las cantidades ingresadas en el Tesoro Público, la Dirección General del Tesoro ordenará y realizará el correspondiente pago extrapresupuestario a favor de la Agencia de la recaudación por impuesto sobre transmisiones patrimoniales y actos jurídicos documentados (correspondiente a las comunidades autónomas que tuviesen cedido su rendimiento). El pago se realizará dentro de los cinco días hábiles siguientes a la recepción de la comunicación del Comisionado para el Mercado de Tabacos a que se refiere el apartado b).
+
+Estas cantidades se abonarán mediante transferencia en la cuenta corriente abierta en la agrupación 12.41 del Banco de España que el Servicio de Gestión Económica de la Agencia le comunique.
+
+d) El Servicio de Gestión Económica de la Agencia, a propuesta del Departamento de Recaudación, procederá a efectuar el pago de la recaudación del impuesto sobre transmisiones patrimoniales y actos jurídicos documentados [grupo 4.º del apartado a)] a las respectivas comunidades autónomas que tuviesen cedido su rendimiento, como máximo antes de terminar el mes siguiente al de la recepción del ingreso en la cuenta de la Agencia.
+
+e) Efectuado el pago a las distintas comunidades autónomas según lo establecido en el apartado anterior, el Servicio de Gestión Económica de la Agencia, comunicará a la Secretaria General de Financiación Autonómica y Local el montante y efectividad de las cantidades abonadas, dentro del mes siguiente a haberse efectuado el pago a las diferentes comunidades autónomas.
+
+> Se modifica por el art. único de la Orden HAC/305/2025, de 27 de marzo. [Ref. BOE-A-2025-6376](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6376)
+
+> Se añade por el apartado 2 de la Orden de 14 de octubre de 1998. [Ref. BOE-A-1998-24509](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-24509).
+
+## Tercero ter. Gestión recaudatoria por cuenta de otros Estados miembros de la Unión Europea referente a ingresos de IVA correspondientes a los regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios.
+
+a) La Agencia Estatal de Administración Tributaria realizará el pago de las cantidades que resulten a favor de otros Estados miembros de la Unión Europea, como consecuencia de la recaudación recibida en concepto de ingresos de IVA por los regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios.
+
+b) A tal fin, a solicitud de la Agencia Estatal de Administración Tributaria, la Dirección General del Tesoro ordenará el pago a la cuenta que al efecto señale la Agencia Estatal de Administración Tributaria mantenida en el Banco de España, por el importe total de las cantidades recaudadas líquidas en concepto de ingresos de IVA de los regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios, devengados en Estados de la Unión Europea distintos de España y anotados en el correspondiente concepto no presupuestario del Sistema de Información Contable de la Administración General del Estado.
+
+c) Efectuada la transferencia indicada en el párrafo anterior y, en el plazo legalmente previsto, el Servicio de Gestión Económica de la Agencia Estatal de Administración Tributaria, a propuesta del Departamento de Gestión Tributaria de la Agencia Estatal de Administración Tributaria, ordenará el pago del importe correspondiente a cada Estado de los ingresos obtenidos en concepto de IVA de los regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios.
+
+El pago a cada Estado se efectuará mediante transferencia a la cuenta que el mismo haya comunicado a tales efectos de conformidad con el artículo 47 octies del Reglamento (UE) n.º 904/2010 del Consejo, de 7 de octubre de 2010, relativo a la cooperación administrativa y la lucha contra el fraude en el ámbito del IVA, y por el importe exacto ordenado. Cualquier gasto derivado de las transferencias efectuadas será soportado por la Dirección General del Tesoro.
+
+> Se modifican las referencias a la "Dirección General del Tesoro y Política Financiera" por la disposición adicional 1 de la Orden HAC/305/2025, de 27 de marzo. [Ref. BOE-A-2025-6376](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6376)
+
+> Se modifica por el art. único.6 de la Orden HFP/603/2022, de 30 de junio, en la redacción dada a la disposición adicional única de la Orden HAC/665/2004, de 9 de marzo. [Ref. BOE-A-2022-10853](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10853)
+
+> Se añade por la disposición adicional única de la Orden HAC/665/2004, de 9 de marzo. [Ref. BOE-A-2004-4716](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-4716).
+
+## Cuarto. Pagos a Entidades Colaboradoras o que prestan el servicio de caja.
+
+Cuando resulten cantidades a reembolsar a las Entidades colaboradoras en la gestión recaudatoria o que presten el servicio de caja, por errores producidos en la actividad de las mismas, los órganos de recaudación competentes de la Agencia expedirán las pertinentes propuestas de pago, dirigidas a la Dirección General del Tesoro o a la Delegación correspondientes del Ministerio de Economía y Hacienda, a fin de que por éstas se proceda a la oportuna ordenación del pago.
+
+> Se modifica la referencia a la "Dirección General del Tesoro y Política Financiera" por la disposición adicional 1 de la Orden HAC/305/2025, de 27 de marzo. [Ref. BOE-A-2025-6376](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6376)
+
+## Quinto. Disposición transitoria primera.
+
+Continuarán efectuándose a través de las Entidades de depósito que presten el servicio de caja en las Delegaciones y Administraciones de la Agencia, cuantos ingresos en favor del Tesoro Público venían realizándose a través de las Delegaciones y Administraciones de Hacienda, como órganos de la Administración Territorial de la Hacienda Pública, aunque no se produzcan como consecuencia de la gestión encomendada a la Agencia.
+
+## Sexto. Disposición transitoria segunda.
+
+a) Los pagos de devoluciones de naturaleza tributaria que con anterioridad a la constitución efectiva de la Agencia venía realizando la Dirección General del Tesoro continuarán realizándose por este Centro cuando la fecha de reconocimiento de la devolución sea anterior a la fecha de constitución efectiva de la Agencia.
+
+b) Los órganos competentes de la Agencia continuarán los expedientes y realizarán el pago de todas las demás devoluciones de naturaleza tributaria cuya ejecución se hallase pendiente, en las Delegaciones y Administraciones de Hacienda, al constituirse la Agencia. Asimismo, procederán a satisfacer aquellas devoluciones cuyo pago se hubiese ordenado anteriormente, de producirse la anulación del cheque o la transferencia emitidos.
+
+c) Estos mismos criterios se aplicarán, a falta de otras normas específicamente aplicables, en las devoluciones de cantidades que constituyan ingresos de Derecho Público, distintas de los tributos.
+
+d) Las devoluciones de ingresos indebidos realizados mediante el empleo de efectos timbrados continuarán rigiéndose por la Orden de 11 de enero de 1983.
+
+> Se modifica la referencia a la "Dirección General del Tesoro y Política Financiera" por la disposición adicional 1 de la Orden HAC/305/2025, de 27 de marzo. [Ref. BOE-A-2025-6376](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6376)
+
+## Séptimo. Disposición transitoria tercera.
+
+Durante el mes de enero de 1992, la Dirección General del Tesoro o las Delegaciones del Ministerio de Economía y Hacienda procederán a ordenar y realizar los correspondientes pagos extrapresupuestarios en favor de la Agencia, por las cantidades ingresadas en la cuenta del Tesoro Público en el Banco de España, como recursos de otras Administraciones Públicas, que a 1 de enero se hallasen pendientes del oportuno pago a favor de la Administración acreedora.
+
+No obstante, la Agencia reintegrará al Tesoro Público aquella parte de estas cantidades correspondientes a conceptos que constituyeran recursos del Presupuesto de Ingresos del Estado.
+
+> Se modifica la referencia a la "Dirección General del Tesoro y Política Financiera" por la disposición adicional 1 de la Orden HAC/305/2025, de 27 de marzo. [Ref. BOE-A-2025-6376](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6376)
+
+## Octavo. Disposición transitoria cuarta.
+
+Entretanto no se lleven a cabo las adaptaciones necesarias, continuarán empleándose los modelos e impresos oficiales utilizados hasta la constitución efectiva de la Agencia para cualesquiera declaraciones, comunicaciones o actos de cualquier naturaleza en la gestión tributaria, entendiéndose hechas a las Delegaciones y Administraciones de la Agencia las referencias a las Delegaciones y Administraciones de Hacienda.
+
+## Noveno. Entrada en vigor.
+
+La presente Orden será de aplicación desde el 1 de enero de 1992.
+
+Madrid, 27 de diciembre de 1991.
+
+SOLCHAGA CATALÁN
+
+Excmo. Sr. Secretario de Estado de Hacienda.

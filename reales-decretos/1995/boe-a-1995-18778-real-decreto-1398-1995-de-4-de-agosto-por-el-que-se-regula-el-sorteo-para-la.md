@@ -1,0 +1,121 @@
+---
+title: "Real Decreto 1398/1995, de 4 de agosto, por el que se regula el sorteo para la formación de las listas de candidatos a jurados"
+identifier: "BOE-A-1995-18778"
+eli: "https://www.boe.es/eli/es/rd/1995/08/04/1398"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1995-08-04
+published: 1995-08-05
+in_force_from: 1995-08-06
+last_amended: 2012-09-04
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 186"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-18778"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1398/1995, de 4 de agosto, por el que se regula el sorteo para la formación de las listas de candidatos a jurados
+
+La Ley Orgánica 5/1995, de 22 de mayo, del Tribunal del Jurado, regula en la sección tercera del capítulo II la designación de los Jurados y el párrafo segundo del apartado 2 del artículo 13 establece que «el sorteo, que se celebrará en sesión pública previamente anunciada en un local habilitado al efecto por la correspondiente Audiencia Provincial, se desarrollará en la forma que reglamentariamente se determine».
+
+El presente Real Decreto, que ha sido informado por el Consejo General del Poder Judicial y por la Junta Electoral Central, contiene el desarrollo reglamentario previsto en el artículo 13.2 de la Ley Orgánica 5/1995, de 22 de mayo, especificando las reglas a que deberán de ajustar su actuación las correspondientes Delegaciones Provinciales de la Oficina del Censo Electoral en el sorteo que, conforme a las exigencias de la citada Ley Orgánica, han de efectuar por cada provincia a fin de obtener la lista bienal de candidatos a jurados.
+
+En su virtud, a propuesta de los Ministros de Justicia e Interior y Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 4 de agosto de 1995,
+
+## D I S P O N G O :
+
+### Artículo 1.
+
+1\. Las Delegaciones Provinciales de la Oficina del Censo Electoral fijarán la fecha del sorteo, dentro del plazo fijado en el artículo 13.1 de la Ley Orgánica 5/1995, de 22 de mayo, del Tribunal del Jurado, lo que comunicarán al Presidente de la respectiva Audiencia Provincial, quien dará a conocer a la correspondiente Delegación Provincial, con la antelación suficiente, el local habilitado al efecto para la celebración del sorteo.
+
+2\. Las delegaciones provinciales de la Oficina del Censo Electoral ordenarán la publicación en el Boletín Oficial de la provincia del anuncio en el que se haga constar el día y la hora de la celebración del sorteo, en sesión pública, en el local habilitado al efecto por la Audiencia Provincial, con una antelación mínima de siete días a la fecha señalada. Idéntica información se difundirá en las páginas web oficiales de la Oficina del Censo Electoral, accesibles en la dirección www.ine.es, a partir de la misma fecha de la publicación en el Boletín Oficial de la provincia y hasta la fecha de celebración del sorteo.
+
+Esta información será publicada de una manera clara, estructurada y entendible para los interesados, en formatos adecuados y siguiendo las reglas marcadas por el principio de diseño para todas las personas.
+
+> Se modifica el apartado 2 por el art. único del Real Decreto 1271/2012, de 31 de agosto. [Ref. BOE-A-2012-11311](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-11311).
+
+### Artículo 2.
+
+1\. Los candidatos a jurados se extraerán de la lista del censo electoral vigente a la fecha del sorteo, ordenada según determina el artículo 13.2 de la Ley Orgánica 5/1995, de 22 de mayo, del Tribunal del Jurado, que habrá sido expuesta anticipadamente en los respectivos Ayuntamientos durante siete días y en la que a cada elector se le habrá asignado un número de orden correlativo dentro de la provincia.
+
+2\. El sorteo será realizado por el Delegado provincial de la Oficina del Censo Electoral o funcionario que reglamentariamente le sustituya, asistido por el personal de la Delegación Provincial de la Oficina del Censo Electoral designado al efecto. A dicho acto asistirá el Secretario de la Sección Primera de la Audiencia Provincial correspondiente, o quien le sustituya reglamentariamente, que actuará como fedatario público.
+
+### Artículo 3.
+
+El sorteo de los candidatos a jurados se realizará utilizando medios informáticos mediante el método de selección sistemática con arranque aleatorio, conforme a las siguientes reglas:
+
+a) Se dividirá el número total de electores de la provincia (N) entre el de candidatos a jurados (n), obteniéndose el cociente (k):
+
+k = N / n
+
+calculándolo con cinco decimales y redondeando, en su caso, el último de ellos por defecto, si el siguiente decimal es menor que 5, o por exceso, en caso contrario.
+
+b) Mediante la aplicación informática diseñada al efecto por el Instituto Nacional de Estadística, se seleccionará de forma aleatoria un número (u), con cinco decimales, mayor que 0 y menor o igual que k.
+
+c) Se obtendrá la siguiente sucesión:
+
+u, u + k, u + 2k, ......... u + (n-1)k, tomando k con cinco decimales.
+
+d) Los términos de la sucesión anterior se aproximarán al número entero más próximo por defecto, si el primer decimal es menor que 5, o por exceso, en caso contrario.
+
+e) Los candidatos seleccionados serán aquellos cuyo número de orden, que figura en las listas del censo electoral expuestas en los Ayuntamientos, coincida con los términos aproximados referidos en el apartado anterior. Si al aproximar el primer término de la sucesión anterior resultase 0, el candidato a jurado seleccionado será el último de la lista provincial
+
+Ejemplo práctico:
+
+En una provincia de 412.505 electores en la que hay que obtener por sorteo 2.250 candidatos a jurados.
+
+El valor de k es:
+
+k = 412.505 / 2.250 = 183,33556
+
+A continuación se obtiene un número aleatorio mayor que 0 y menor o igual que 183,33556; por ejemplo, el 37,12345.
+
+La sucesición referida en el párrafo c) será:
+
+37,12345, 220,45901, 403,79457, ........ 412.358,79789
+
+Aproximando los términos de la sucesión anterior, los candidatos seleccionados serán los correspondientes a los números de orden siguientes, según la lista electoral:
+
+37, 220, 404, ........ 412.359.
+
+> Se modifica por el art. único del Real Decreto 2067/1996, de 13 de septiembre. [Ref. BOE-A-1996-20686](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-20686).
+
+### Artículo 4.
+
+1\. Finalizado el sorteo se extenderá la correspondiente acta que deberá ser firmada por el fedatario y por el Delegado provincial de la Oficina del Censo Electoral. En el acta se hará constar el número total de electores de la provincia, el número de candidatos a jurados, el primer número de la selección aleatoria y el cociente «k», así como cualquier incidencia que se haya presentado durante el acto del sorteo.
+
+2\. Dentro de los tres días siguientes, la Delegación Provincial de la Oficina del Censo Electoral remitirá a la respectiva Audiencia Provincial la lista de los candidatos a jurados.
+
+### Artículo 5.
+
+1\. En el supuesto de que, conforme a lo previsto en el artículo 13.3 de la Ley Orgánica 5/1995, de 22 de mayo, del Tribunal del Jurado, se haya de reiterar el sorteo, la respectiva Delegación Provincial del Censo Electoral indicará la fecha en que habrá de realizarse que, en cualquier caso, será en los quince días posteriores al día en que se tenga constancia de la resolución anulatoria del anterior sorteo.
+
+2\. La convocatoria de este nuevo sorteo será objeto de publicación en la forma y plazos establecidos en el artículo 1.2 del presente Real Decreto y a la misma se adjuntará la resolución que anule el sorteo anterior. El nuevo sorteo se efectuará siguiendo las mismas reglas establecidas para el primer sorteo en el presente Real Decreto.
+
+### Disposición adicional única.
+
+Conforme a lo dispuesto en el artículo 3.3 de la Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial, las Delegaciones Provinciales de la Oficina del Censo Electoral de Cádiz y Málaga efectuarán, además, un sorteo independiente con base en la lista del censo electoral vigente en las ciudades de Ceuta y Melilla, respectivamente, a fin de obtener la lista de candidatos a jurados para los juicios que se celebren en cada una de estas ciudades. A tal objeto, los Presidentes de las Audiencias Provinciales de Cádiz y Málaga comunicarán a los respectivos Delegados Provinciales de la Oficina del Censo Electoral el número de candidatos a obtener en las mencionadas ciudades.
+
+### Disposición transitoria única.
+
+En el año 1995, el sorteo para la primera lista de candidatos a jurados y sucesivos trámites se efectuará, de conformidad con lo dispuesto en la disposición transitoria tercera de la Ley Orgánica 5/1995, de 22 de mayo, del Tribunal del Jurado en relación con el artículo 183 de la Ley Orgánica 6/1995, de 1 de julio, del Poder Judicial, en los meses previstos en los artículos 13, 14, 15 y 16 de la citada Ley Orgánica del Tribunal del Jurado.
+
+### Disposición final primera.
+
+Se faculta a los Ministros de Justicia e Interior y de Economía y Hacienda para, en el ámbito de sus respectivas competencias, dictar las normas complementarias que sean necesarias para el cumplimiento de lo dispuesto en el presente Real Decreto.
+
+### Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca a 4 de agosto de 1995.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+ALFREDO PÉREZ RUBALCABA

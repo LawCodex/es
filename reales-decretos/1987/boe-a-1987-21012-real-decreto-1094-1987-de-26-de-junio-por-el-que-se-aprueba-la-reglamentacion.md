@@ -1,0 +1,255 @@
+---
+title: "Real Decreto 1094/1987, de 26 de junio, por el que se aprueba la Reglamentación Técnico-Sanitaria para la Elaboración, Fabricación, Circulación y Comercio de Cereales en Copos o Expandidos"
+identifier: "BOE-A-1987-21012"
+eli: "https://www.boe.es/eli/es/rd/1987/06/26/1094"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1987-06-26
+published: 1987-09-08
+in_force_from: 1987-09-28
+last_amended: 2013-03-29
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 215"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1987-21012"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1094/1987, de 26 de junio, por el que se aprueba la Reglamentación Técnico-Sanitaria para la Elaboración, Fabricación, Circulación y Comercio de Cereales en Copos o Expandidos
+
+Incluye la corrección de erratas publicada en BOE núm. 276, de 18 de noviembre de 1987. [Ref. BOE-A-1987-25798](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-25798).
+
+El Decreto de la Presidencia del Gobierno número 2484/1967, de 21 de septiembre («Boletín Oficial del Estado» de 17 a 23 de octubre), por el que se aprueba el texto del Código Alimentario Español, prevé que puedan ser objeto de Reglamentación especial las materias en el reguladas.
+
+Publicado el Decreto de la Presidencia del Gobierno número 2519/1974, de 9 de agosto («Boletín Oficial del Estado» de 13 de septiembre), sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, procede dictar las distintas Reglamentaciones establecidas en el mismo.
+
+En su virtud, a propuesta de los Ministros de Industria y Energía, de Economía y Hacienda, de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, de acuerdo con el informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria y previa deliberación del Consejo de Ministros en su reunión del día 26 de junio de 1987.
+
+### DISPONGO:
+
+#### Artículo único.
+
+Se aprueba la adjunta Reglamentación Técnico-Sanitaria para la Elaboración, Circulación y Comercio de Cereales en Copos o Expandidos.
+
+#### Disposición transitoria.
+
+Las reformas y adaptaciones de las instalaciones existentes, derivadas de las exigencias incorporadas a esta Reglamentación que no sean consecuencia de disposiciones legales vigentes y, en especial, de lo dispuesto en el Decreto 2519/1974, de 9 de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, serán llevadas a cabo en el plazo de doce meses a contar desde la publicación de la presente Reglamentación.
+
+#### Disposición derogatoria.
+
+A partir de la entrada en vigor del presente Real Decreto quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el mismo.
+
+Dado en Madrid a 26 de junio de 1987.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ
+
+## REGLAMENTO TÉCNICO-SANITARIO PARA LA ELABORACIÓN, CIRCULACIÓN Y COMERCIO DE CEREALES EN COPOS O EXPANDIDOS
+
+## TÍTULO I — Ámbito de aplicación
+
+#### Art. 1.
+
+La presente Reglamentación tiene por objeto definir, a efectos legales, lo que se entiende por cereales en copos o expandidos y fijar, con carácter obligatorio, las normas de elaboración, comercialización y, en general, la ordenación técnico-sanitaria de tales productos de consumo humano. Será de aplicación, asimismo, a los productos importados.
+
+Esta Reglamentación obliga a los elaboradores, comerciantes, así como a los importadores de cereales en copos o expandidos.
+
+Se consideran elaboradores, comerciantes e importadores de cereales en copos o expandidos aquellas personas, naturales o jurídicas que, en uso de las autorizaciones concedidas por los Organismos oficiales competentes, dedican su actividad a la elaboración, comercialización e importación de los productos definidos en el artículo 2.º de esta Reglamentación.
+
+## TÍTULO II — Definiciones y denominaciones
+
+#### Art. 2.
+
+2.1 Definiciones.—Se entiende por cereales en copos o expandidos los productos alimenticios elaborados a base de granos de cereales sanos, limpios y de buena calidad, enteros, o sus partes o molidos, preparados mediante técnicas que se indican en la presente Reglamentación, artículo 7.º, aptos para ser consumidos directamente o previa cocción. Podrán contener ingredientes adicionales autorizados.
+
+2.2 Denominaciones.—Se designarán mediante el nombre del cereal o cereales básicos y de la denominación del proceso o procesos característicos de la elaboración de que se trata.
+
+## TÍTULO III — Condiciones de los establecimientos, de los materiales y del personal
+
+#### Art. 3. Requisitos industriales.
+
+**(Derogado)**
+
+> Se deroga por el art. 40 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Redactados los apartados 3.3 y 3.5 conforme a la corrección de erratas publicada en BOE núm. 276, de 18 de noviembre de 1987. [Ref. BOE-A-1987-25798](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-25798).
+
+#### Art. 4. Requisitos higiénico-sanitarios.
+
+**(Derogado)**
+
+> Se deroga por el art. 40 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 5. Condiciones generales de los materiales.
+
+**(Derogado)**
+
+> Se deroga por el art. 40 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 6. Condiciones del personal.
+
+**(Derogado)**
+
+> Se deroga por el art. 40 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 7. Procesos de elaboración. Manipulaciones permitidas y prohibidas.
+
+7.1 Procesos de elaboración.–Los productos contemplados en esta Reglamentación se podrán preparar mediante uno o varios de los procesos siguientes:
+
+7.1.1 Molienda.—Fraccionamiento del grano en varias partes que se pueden separar por distintos procedimientos.
+
+7.1.2 Cocción.—Tratamiento del cereal con vapor de agua, en recipiente cerrado o abierto, con objeto de gelatinizar los almidones y convertirlo en digestible.
+
+7.1.3 Aplastado.–Aplanado mecánico del cereal cocido.
+
+7.1.4 Laminado.—Similar al aplastado, sólo que la forma obtenida es más delgada y alargada.
+
+7.1.5 Inflado.—Aplicación de calor y/o presión al cereal con objeto de lograr su expansión.
+
+El inflado se puede obtener, entre otros, por los siguientes procedimientos:
+
+Cocción y extrusión.
+
+Compresión y expansión.
+
+Simple aplicación de calor.
+
+7.1.6 Estriado.—Paso forzado, a presión atmosférica, del cereal cocido a través de cuchillas.
+
+7.1.7 Extrusión.—Paso forzado, a presión elevada, del cereal entero o sus partes, a través de una matriz con perforaciones y posteriormente cortado, con objeto de obtener formas diversas.
+
+7.1.8 Secado.—Disminución del contenido de humedad del cereal primitivo o procesado, mediante técnicas apropiadas.
+
+7.1.9 Tostado.—Aplicación de calor al cereal primitivo o procesado, con objeto de modificar el color, la textura, el sabor o el aroma.
+
+7.1.10 Recubrimiento.—Aplicación de diversos ingredientes, como azúcar líquido, jarabes, etc., u otras sustancias aromáticas autorizadas en la superficie del cereal primitivo o procesado.
+
+7.2 Manipulaciones permitidas y prohibidas.—En la elaboración de cereales en copos o expandidos se observará las siguientes prescripciones:
+
+7.2.1**(Derogado)**
+
+7.2.2 Queda prohibida la elaboración de los cereales en copos o expandidos mediante un proceso de tipo fermentativo.
+
+7.2.3 **(Derogado)**
+
+> Se derogan los apartados 2.1 y 2.3 por el art. 40 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO IV — Registros administrativos
+
+#### Art. 8.
+
+**(Derogado)**
+
+> Se deroga por el art. 40 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO V — Materias primas y otros ingredientes
+
+#### Art. 9. Ingredientes.
+
+En la elaboración de los cereales en copos o expandidos se autoriza el empleo de los siguientes productos que habrán de cumplir con los requisitos que les exijan sus reglamentaciones específicas y, en su defecto, por lo establecido en el Código Alimentario Español.
+
+9.1 Materias primas.—Trigo, maíz, arroz, avena, cebada, centeno y otros cereales comestibles enteros o troceados.
+
+9.2 Otros ingredientes.
+
+9.2.1 Cacao, frutas o verduras deshidratadas, frutos secos, leche en polvo, malta, miel. Esta enumeración no tiene carácter limitativo.
+
+9.2.2 Agua, sal común y azúcares y/o edulcorantes autorizados para estos productos.
+
+9.2.3 Los cereales en copos o expandidos que lleven incorporadas sustancias enriquecedoras se ajustarán a lo dispuesto en la legislación vigente sobre alimentos enriquecidos.
+
+#### Art. 10. Aditivos alimentarios.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.42 del Real Decreto 145/1997, de 31 de enero. [Ref. BOE-A-1997-6156](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-6156).
+
+> Se modifica por el apartado 1 de la Orden de 12 de mayo de 1989. [Ref. BOE-A-1989-11806](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-11806).
+
+#### Art. 11. Características generales y específicas de los productos terminados.
+
+11.1 Características generales.—Los distintos tipos de cereales en copos o expandidos deberán cumplir las siguientes condiciones generales:
+
+11.1.1 **(Derogado)**
+
+11.1.2 **(Derogado)**
+
+11.1.3 Humedad.
+
+11.1.3.1 Humedad máxima: No excederá del 12 por 100.
+
+11.1.4 **(Derogado)**
+
+11.1.5 **(Derogado)**
+
+11.2 **(Derogado)**
+
+> Se derogan los apartados 1.1, 1.2, 1.5 y 2 por el art. 40 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se derogada el apartado 1.4 por el art. único.q) del Real Decreto 135/2010, de 12 de febrero. [Ref. BOE-A-2010-3032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3032).
+
+## TÍTULO VI — Envasado, etiquetado y rotulación
+
+#### Art. 12.
+
+**(Derogado)**
+
+> Se deroga por el art. 40 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 276, de 18 de noviembre de 1987. [Ref. BOE-A-1987-25798](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-25798).
+
+#### Art. 13.
+
+13.1 **(Derogado)**
+
+13.2 **(Derogado)**
+
+13.3 La información del etiquetado de los envases de los productos sujetos a esta Reglamentación que vayan destinados al consumidor final o a restaurantes, hospitales u otros establecimientos y colectividades similares, constará obligatoriamente de las siguientes especificaciones:
+
+13.3.1 Denominación del producto.—Se designará mediante el nombre del cereal o cereales básicos y de la denominación del proceso o procesos característicos, de la elaboración de que se trata.
+
+> Se deroga, excepto el apartado 3.1, por el art. 40 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VII — Transporte, almacenamiento, venta y comercio exterior
+
+#### Art. 14.
+
+14.1**(Derogado)**
+
+14.2 Comercio exterior.
+
+14.2.1 Importación.— **(Derogado)**
+
+14.2.2 Exportación.—Los productos alimenticios contemplados en esta Reglamentación que se elaboren con destino exclusivo para su exportación a países no pertenecientes a la Comunidad Económica Europea y no cumplan lo dispuesto en esta Reglamentación, deberán estar embalados y etiquetados de forma que se identifiquen como tales inequívocamente, llevando impresa en caracteres bien visibles la palabra «Export», no pudiendo comercializarse ni consumirse en España, salvo autorización expresa de los Ministerios responsables, previo informe favorable de la Comisión Interministerial para la Ordenación Alimentaria y, siempre que no afecten a las condiciones de carácter sanitario.
+
+> Se derogan los apartados 1 y 2.1 por el art. 40 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VIII — Competencias y responsabilidades
+
+#### Art. 15.
+
+**(Derogado)**
+
+> Se deroga por el art. 40 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO IX — Toma de muestras y métodos analíticos
+
+#### Art. 16.
+
+**(Derogado)**
+
+> Se deroga por el art. 40 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO X — Régimen sancionador
+
+#### Art. 17.
+
+**(Derogado)**
+
+> Se deroga por el art. 40 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).

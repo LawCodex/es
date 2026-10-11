@@ -1,0 +1,63 @@
+---
+title: "Ley Orgánica 3/1986, de 14 de abril, de Medidas-Especiales en Materia de Salud Pública"
+identifier: "BOE-A-1986-10498"
+eli: "https://www.boe.es/eli/es/lo/1986/04/14/3"
+type: organic_law
+rank: "Ley Orgánica"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 1986-04-14
+published: 1986-04-29
+in_force_from: 1986-05-19
+last_amended: 2020-03-11
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 102"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10498"
+retrieved: 2026-10-11
+---
+
+# Ley Orgánica 3/1986, de 14 de abril, de Medidas-Especiales en Materia de Salud Pública
+
+JUAN CARLOS I,
+
+REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren,
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley orgánica:
+
+## Artículo primero.
+
+Al objeto de proteger la salud pública y prevenir su pérdida o deterioro, las autoridades sanitarias de las distintas Administraciones Públicas podrán, dentro del ámbito de sus competencias, adoptar las medidas previstas en la presente Ley cuando así lo exijan razones sanitarias de urgencia o necesidad.
+
+## Artículo segundo.
+
+Las autoridades sanitarias competentes podrán adoptar medidas de reconocimiento, tratamiento, hospitalización o control cuando se aprecien indicios racionales que permitan suponer la existencia de peligro para la salud de la población debido a la situación sanitaria concreta de una persona o grupo de personas o por las condiciones sanitarias en que se desarrolle una actividad.
+
+## Artículo tercero.
+
+Con el fin de controlar las enfermedades transmisibles, la autoridad sanitaria, además de realizar las acciones preventivas generales, podrá adoptar las medidas oportunas para el control de los enfermos, de las personas que estén o hayan estado en contacto con los mismos y del medio ambiente inmediato, así como las que se consideren necesarias en caso de riesgo de carácter transmisible.
+
+## Artículo cuarto.
+
+Cuando un medicamento, un producto sanitario o cualquier producto necesario para la protección de la salud se vea afectado por excepcionales dificultades de abastecimiento y para garantizar su mejor distribución, la Administración Sanitaria del Estado, temporalmente, podrá:
+
+a) Establecer el suministro centralizado por la Administración.
+
+b) Condicionar su prescripción a la identificación de grupos de riesgo, realización de pruebas analíticas y diagnósticas, cumplimentación de protocolos, envío a la autoridad sanitaria de información sobre el curso de los tratamientos o a otras particularidades semejantes.
+
+> Se modifica por el art. 4 del Real Decreto-ley 6/2020, de 10 de marzo. [Ref. BOE-A-2020-3434](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3434)
+
+Por tanto,
+
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
+
+Palacio de la Zarzuela, Madrid a 14 de abril de 1986.
+
+JUAN CARLOS R.
+
+El Presidente del Gobierno,
+
+FELIPE GONZÁLEZ MÁROUEZ

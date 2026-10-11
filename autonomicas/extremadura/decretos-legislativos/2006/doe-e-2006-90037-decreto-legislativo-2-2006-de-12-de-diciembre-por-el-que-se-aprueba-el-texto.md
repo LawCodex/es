@@ -1,0 +1,572 @@
+---
+title: "Decreto Legislativo 2/2006, de 12 de diciembre, por el que se aprueba el Texto Refundido de las disposiciones legales de la comunidad autónoma de Extremadura en materia de Tributos Propios"
+identifier: "DOE-e-2006-90037"
+type: legislative_decree
+rank: "Decreto Legislativo"
+jurisdiction: es-extremadura
+language: es
+department: "Comunidad Autónoma de Extremadura"
+date: 2006-12-12
+published: 2006-12-23
+in_force_from: 2006-12-24
+last_amended: 2025-04-07
+consolidated: 2025-04-14
+gazette: "Diario Oficial de Extremadura núm. 150"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=DOE-e-2006-90037"
+retrieved: 2026-10-11
+---
+
+# Decreto Legislativo 2/2006, de 12 de diciembre, por el que se aprueba el Texto Refundido de las disposiciones legales de la comunidad autónoma de Extremadura en materia de Tributos Propios
+
+De conformidad con lo dispuesto en el artículo 19.2.j) del Estatuto de Autonomía de Extremadura y en el artículo 45 de la Ley 1/2002, de 28 de Febrero, del Gobierno y de la Administración de la Comunidad Autónoma de Extremadura, mediante la aprobación del presente Texto Refundido la Junta de Extremadura ejercita la potestad de la delegación legislativa encomendada por la Asamblea de Extremadura contenida en la Disposición Adicional Segunda de la Ley 8/2005, de 27 de diciembre, de Reforma de Tributos Propios de la Comunidad Autónoma de Extremadura.
+
+La citada Disposición Adicional de la Ley 8/2005 autorizaba al Consejo de Gobierno para que en el plazo de un año desde su entrada en vigor, y a propuesta del Consejero competente en materia de Hacienda, aprobase un Texto Refundido de las disposiciones dictadas en materia de tributos propios.
+
+En cumplimiento de tal mandato legislativo, este texto legal refunde las distintas normas reguladoras de los tributos propios de la Comunidad Autónoma, procediendo al mismo tiempo a su sistematización, regularización, aclaración y armonización.
+
+Así, en primer lugar, se ha dado una nueva redacción a aquellos preceptos que resultaban obsoletos tras la aprobación de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+Con este nuevo texto refundido se dota de claridad al sistema tributario propio de la Comunidad Autónoma, que se encontraba disperso por las sucesivas modificaciones que se han efectuado en los últimos años, contribuyendo con ello a aumentar la seguridad jurídica que debe inspirar las relaciones de la Administración tributaria con los contribuyentes.
+
+La refundición de textos legales opera, por este orden, sobre los impuestos establecidos en la Ley 8/1990, de 21 de diciembre, de Caza de Extremadura, reguladora del impuesto sobre los aprovechamientos cinegéticos al que dedica su Título I; en la Ley 7/1997, de 29 de mayo, de Medidas Fiscales sobre la Producción y Transporte de Energía que incidan sobre el Medio Ambiente en la redacción dada tras su reforma sustancial operada por la Ley 8/2005, de 27 de diciembre, de Reforma de Tributos Propios de la Comunidad Autónoma de Extremadura, cuyo contenido se recoge en el Título II de este Texto Refundido; en la Ley 9/1998, de 26 de junio, del Impuesto sobre el Suelo sin edificar y edificaciones ruinosas, que es objeto de integración en el Título III; el Título IV contiene los preceptos de la Ley 14/2001, de 29 de noviembre, del Impuesto sobre Depósitos de las Entidades de Crédito; y, finalmente, el Título V contiene las normas comunes a todos los tributos objeto de refundición.
+
+Todas estas normas que se integran en el presente Texto Refundido quedan derogadas, constituyendo el mismo la norma vigente en esta materia a partir del día siguiente a su publicación en el Diario Oficial de Extremadura.
+
+En su virtud, a propuesta del Consejero de Hacienda y Presupuesto, de acuerdo con el Consejo Consultivo, y previa deliberación del Consejo de Gobierno en su reunión de 12 de diciembre de 2006,
+
+DISPONGO:
+
+##### Artículo único. Aprobación del Texto Refundido de las disposiciones legales de la Comunidad Autónoma de Extremadura en materia de Tributos propios.
+
+Se aprueba el Texto Refundido de las disposiciones legales de la Comunidad Autónoma de Extremadura en materia de Tributos propios, que se incluye a continuación.
+
+##### Disposición adicional única. Remisiones normativas.
+
+Las referencias normativas efectuadas en reglamentos y otras disposiciones a las Leyes que se sistematizan, regulan, aclaran y armonizan, se entenderán efectuadas a los preceptos correspondientes de este Texto Refundido.
+
+##### Disposición derogatoria única. Derogación normativa.
+
+1\. A la entrada en vigor de este Decreto Legislativo quedarán derogadas, con motivo de su incorporación al Texto Refundido que se aprueba las siguiente normas:
+
+– El artículo 1 y la Disposición Adicional Tercera de la Ley 8/2002, de 14 de noviembre, de Reforma Fiscal de la Comunidad Autónoma de Extremadura.
+
+– Los artículos 30 a 42, ambos inclusive, de la Ley 8/1990, de 21 de diciembre, de Caza de Extremadura.
+
+– La Ley 7/1997, de 29 de mayo, de medidas fiscales sobre la producción y transporte de energía que incidan en el medio ambiente.
+
+– La Ley 9/1998, de 26 de junio del Impuesto sobre el Suelo sin edificar y edificaciones ruinosas.
+
+– La Ley 14/2001, de 29 de noviembre, del Impuesto sobre depósitos de las entidades de crédito.
+
+– La Ley 8/2005, de 27 de diciembre, de Reforma de Tributos Propios de la Comunidad Autónoma de Extremadura.
+
+2\. Lo previsto en esta disposición derogatoria no perjudicará los derechos de la Hacienda pública respecto a las obligaciones devengadas durante su vigencia.
+
+##### Disposición final única. Entrada en vigor.
+
+El presente Decreto Legislativo y el Texto Refundido que se aprueba entrarán en vigor el día siguiente a su publicación en el Diario Oficial de Extremadura.
+
+Mérida, 12 de diciembre de 2006.–El Consejero de Hacienda y Presupuesto, José Martín Martín.–El Presidente de la Junta de Extremadura, Juan Carlos Rodríguez Ibarra.
+
+## TEXTO REFUNDIDO DE LAS DISPOSICIONES LEGALES DE LA COMUNIDAD AUTÓNOMA DE EXTREMADURA EN MATERIA DE TRIBUTOS PROPIOS
+
+## TÍTULO I — Del régimen fiscal de los terrenos cinegéticos
+
+### CAPÍTULO I — Disposiciones generales
+
+#### Sección 1.ª Naturaleza y objeto del impuesto
+
+##### Artículo 1. Naturaleza y objeto del Impuesto.
+
+1\. El Impuesto sobre aprovechamientos cinegéticos es un impuesto propio de la Comunidad Autónoma de Extremadura de naturaleza directa y real, que se regulará por las disposiciones de esta Ley y las normas complementarias que se dicten para su ejecución por la Comunidad Autónoma de Extremadura.
+
+2\. Los conceptos de terrenos cinegéticos, zonas de caza limitada y cotos de caza así como su clasificación serán los establecidos en la Ley de Caza de Extremadura vigente.
+
+> Se modifica por la disposición final 1.1 de la Ley 14/2010, de 9 de diciembre. [Ref. BOE-A-2010-19851](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19851)
+
+> Esta modificación entra en vigor el 15 de junio de 2011 y será de aplicación desde el 1 de abril de 2012, según determina la disposición final 5 de la citada ley.
+
+#### Sección 2.ª Hecho imponible, supuestos de no sujeción y exenciones
+
+> Se modifica por la disposición final 1.2 de la Ley 14/2010, de 9 de diciembre. [Ref. BOE-A-2010-19851](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19851)
+
+> Esta modificación entra en vigor el 15 de junio de 2011 y será de aplicación desde el 1 de abril de 2012, según determina la disposición final 5 de la citada ley.
+
+##### Artículo 2. Hecho Imponible y supuestos de no sujeción.
+
+1\. El hecho imponible de este Impuesto lo constituye el aprovechamiento cinegético de terrenos radicados en el territorio de Extremadura autorizado administrativamente a un determinado titular.
+
+2\. El aprovechamiento puede ser de caza mayor y de caza menor.
+
+3\. No quedarán sujetos al presente Impuesto los aprovechamientos cinegéticos que se realicen en los Cotos Regionales de Caza, las Reservas de Caza y las Zonas de Caza Limitada.
+
+> Se modifica el apartado 3 por la disposición final 1.3 de la Ley 14/2010, de 9 de diciembre. [Ref. BOE-A-2010-19851](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19851)
+
+> Esta modificación entra en vigor el 15 de junio de 2011 y será de aplicación desde el 1 de abril de 2012, según determina la disposición final 5 de la citada ley.
+
+##### Artículo 2 bis. Exenciones.
+
+Gozarán de exención en este impuesto:
+
+Los aprovechamientos cinegéticos en los refugios para la caza declarados de oficio como tales por la Administración.
+
+> Se añade por la disposición final 1.4 de la Ley 14/2010, de 9 de diciembre. [Ref. BOE-A-2010-19851](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19851)
+
+> Esta adicción entra en vigor el 15 de junio de 2011 y será de aplicación desde el 1 de abril de 2012, según determina la disposición final 5 de la citada ley.
+
+#### Sección 3.ª Obligados tributarios.
+
+##### Artículo 3. Obligados tributarios.
+
+1\. Son obligados tributarios, en condición de contribuyentes, las personas físicas o jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria que sean titulares de las autorizaciones administrativas de aprovechamiento cinegético privativo de terrenos radicados en Extremadura, cualquiera que sea el domicilio de aquéllos.
+
+2\. Los propietarios o poseedores de terrenos con valor cinegético y los titulares de cotos de caza deberán colaborar con la Administración autonómica al efecto de conocer la riqueza cinegética de aquellos terrenos.
+
+#### Sección 4.ª Base imponible
+
+##### Artículo 4. Base imponible.
+
+La base imponible del Impuesto estará constituida por la superficie del coto de caza en hectáreas.
+
+> Se modifica por la disposición final 1.5 de la Ley 14/2010, de 9 de diciembre. [Ref. BOE-A-2010-19851](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19851)
+
+> Esta modificación entra en vigor el 15 de junio de 2011 y será de aplicación desde el 1 de abril de 2012, según determina la disposición final 5 de la citada ley.
+
+#### Sección 5.ª Tipos de gravamen
+
+##### Artículo 5. Tipos de gravamen de los Cotos Sociales.
+
+1\. El tipo de gravamen aplicable a los cotos sociales cuya superficie se encuentre en su integridad en el mismo término municipal al de su sede social, será de 0,10 euros/ha.
+
+2\. La parte de la superficie de un coto social ubicada en distinto término municipal al de su sede social será gravada al tipo de 1,00 euro/ha.
+
+3\. Cuando toda la superficie de un coto social se encuentre fuera del término municipal al de su sede social será gravada al tipo de 2,00 euros/ha.
+
+4\. Si se advirtiera que la finalidad de estos Cotos Sociales fuera el ánimo de lucro, a efectos meramente fiscales se aplicarán las normas relativas a los Cotos Privados de Caza mediante resolución motivada.
+
+> Se modifica por la disposición final 1.6 de la Ley 14/2010, de 9 de diciembre. [Ref. BOE-A-2010-19851](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19851)
+
+> Esta modificación entra en vigor el 15 de junio de 2011 y será de aplicación desde el 1 de abril de 2012, según determina la disposición final 5 de la citada ley.
+
+> Se modifica el apartado 1 por la disposición adicional 4.1 de la Ley 5/2008, de 26 de diciembre. [Ref. BOE-A-2009-872](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-872)
+
+##### Artículo 6. Tipos de gravamen de los cotos privados.
+
+1\. Los tipos de gravamen aplicables a los cotos privados, en función de la clasificación establecida en la Ley de Caza de Extremadura, son los siguientes:
+
+A) Cotos privados de caza menor:
+
+a) Coto privado de caza menor extensivo: 2,21 euros/ha.
+
+b) Coto privado de caza menor más jabalí: 2,50 euros/ha.
+
+c) Coto privado de caza menor intensivo: 3,32 euros/ha.
+
+B) Cotos privados de caza mayor:
+
+a) Coto privado de caza mayor abierto: 3,50 euros/ha.
+
+b) Coto privado de caza mayor cerrado: 5,25 euros/ha.
+
+2\. En los cotos privados de caza mayor que realicen aprovechamiento intensivo de caza menor se incrementará el tipo de gravamen que les corresponda según la clasificación anterior del apartado B) en 1,00 euro/ha.
+
+3\. Los cotos constituidos en su totalidad en terrenos con cerramientos cinegéticos tributarán como coto privado de caza mayor cerrado. Cuando sólo esté cercada una parte de la superficie del coto, sólo tributará como coto privado de caza mayor cerrado dicha parte, tributando el resto como coto privado de caza mayor abierto.
+
+4\. Los Refugios para la caza tributarán como coto privado de caza menor extensivo, salvo que gocen de exención en virtud del artículo 2 bis.
+
+> Se modifica por la disposición final 1.7 de la Ley 14/2010, de 9 de diciembre. [Ref. BOE-A-2010-19851](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19851)
+
+> Esta modificación entra en vigor el 15 de junio de 2011 y será de aplicación desde el 1 de abril de 2012, según determina la disposición final 5 de la citada ley.
+
+> Se modifica por la disposición adicional 4.2 de la Ley 5/2008, de 26 de diciembre. [Ref. BOE-A-2009-872](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-872)
+
+##### Artículo 7. Tipo de gravamen reducido.
+
+1\. Cuando la totalidad o una parte diferenciable de un coto privado de caza haya sufrido la pérdida sobrevenida de sus recursos cinegéticos por alguna causa natural de fuerza mayor que no le sea imputable a su titular, éste podrá justificar tal causa y solicitar que se liquide el Impuesto sobre aprovechamientos cinegéticos, aplicando un tipo impositivo de 0,63 euros por hectárea, en la totalidad o en la parte afectada del coto, según proceda, renunciando éste a realizar aprovechamiento alguno mientras que la situación que lo originó perdure.
+
+2\. Cuando, como consecuencia de una resolución sancionadora ejecutiva, un coto de caza resulte suspendido, el tipo de gravamen aplicable durante todo el período de suspensión será el vigente en cada periodo impositivo, teniendo en cuenta la base imponible existente en el momento de cometerse la infracción de la que deriva la suspensión.
+
+> Se modifica por la disposición final 1.8 de la Ley 14/2010, de 9 de diciembre. [Ref. BOE-A-2010-19851](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19851)
+
+> Esta modificación entra en vigor el 15 de junio de 2011 y será de aplicación desde el 1 de abril de 2012, según determina la disposición final 5 de la citada ley.
+
+> Se modifica el apartado 1 por la disposición adicional 4.3 de la Ley 5/2008, de 26 de diciembre. [Ref. BOE-A-2009-872](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-872)
+
+#### Sección 6.ª Cuota tributaria
+
+##### Artículo 8. Cuota tributaria, bonificaciones y deducciones.
+
+1\. La cuota íntegra será el resultado de multiplicar el tipo de gravamen aplicable, según la clasificación del coto establecida en los artículos 5 y 6, por la extensión superficial real del terreno cinegético acotado.
+
+2\. La cuota líquida del impuesto será el resultado de aplicar sobre la cuota íntegra, en su caso, las siguientes bonificaciones, de acuerdo con lo dispuesto en la Ley de Caza:
+
+a) Una bonificación del 20 por 100 por aquellos cotos de caza que obtengan la Certificación de Calidad.
+
+b) Una bonificación del 10 por 100 por aquellos cotos situados en terrenos incluidos en la Red de Áreas Protegidas de Extremadura y que cuenten con instrumentos para su ordenación, uso, gestión o, en su caso, medidas reglamentarias de conservación. El beneficio tributario se aplicará sobre la parte de la superficie del coto que se encuentre incluida en el Área Protegida.
+
+c) Una bonificación del 7 por 100 por aquellos cotos privados de caza mayor abiertos con superficie igual o superior a mil hectáreas.
+
+d) Una bonificación del 15 por 100, con el límite máximo de 1.200 euros, por aquellos cotos en los que se hubieran invertido cantidades destinadas a su mejora o conservación durante el año natural inmediato anterior a la fecha del devengo del impuesto, siempre que el importe bonificado fuera inferior o igual al importe de la inversión.
+
+En el caso de que el importe bonificado fuera superior al importe de la inversión, la bonificación coincidiría con el importe de la inversión con el límite máximo de 1.200 euros.
+
+3\. Las bonificaciones en la cuota señaladas en el apartado anterior surtirán efecto según los casos, en el periodo impositivo siguiente a la fecha del acuerdo dictado por la Consejería competente en materia de caza por el que se otorgue la certificación de calidad, se emita el certificado del órgano competente mediante el que se acredite la superficie incluida en la Red de Áreas Protegidas de Extremadura que cuente con instrumento de ordenación, uso, gestión o, en su caso medidas reglamentarias de conservación, o se autorice por la Consejería competente en materia de caza el cambio de la superficie del coto.
+
+La bonificación prevista en la letra d) tendrá carácter rogado y surtirá efecto en el periodo impositivo siguiente a la fecha de finalización del año natural en el que se efectúe la inversión.
+
+Las solicitudes deberán presentarse ante la oficina gestora competente del impuesto en los veinte primeros días naturales de enero, con identificación de los cotos y de las cantidades invertidas en cada uno de ellos, debiendo ir acompañada de las facturas justificativas de las cantidades declaradas. Las solicitudes presentadas fuera de plazo no darán derecho a la bonificación.
+
+Las facturas deberán identificar de forma clara su objeto, el lugar en el que se realizan los trabajos o presta el servicio, en su caso, y la fecha de realización.
+
+Las solicitudes presentadas en plazo junto con las correspondientes facturas darán derecho a la aplicación de la bonificación sin perjuicio de las actuaciones de comprobación e investigación y, en su caso, de la ulterior regularización que pudiera realizar la Administración tributaria en el desempeño de sus funciones.
+
+4\. De la cuota íntegra o, en su caso, de la cuota líquida será deducible el importe abonado en razón del Impuesto Municipal de Gastos Suntuarios establecido en el artículo 372, apartado d), del Real Decreto Legislativo 781/1986, de 18 de abril, que aprueba el Texto Refundido de las Disposiciones Legales vigentes en materia de Régimen Local, en aquellos municipios en que se haya establecido dicho tributo mediante Ordenanza Fiscal y siempre que se documente tal pago. La cuantía de la presente deducción tendrá como límite el importe de la cuota líquida.
+
+> Se modifican los apartados 2 y 3 por el art. 2 de la Ley 1/2025, de 3 de abril. [Ref. BOE-A-2025-7444](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7444)
+
+> Se modifica por la disposición final 1.9 de la Ley 14/2010, de 9 de diciembre. [Ref. BOE-A-2010-19851](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19851)
+
+> Esta modificación entra en vigor el 15 de junio de 2011 y será de aplicación desde el 1 de abril de 2012, según determina la disposición final 5 de la citada ley.
+
+##### Artículo 9. Regularizaciones tributarias y colaboración entre órganos administrativos.
+
+1\. Cuando, abonado el Impuesto para un periodo impositivo, y como consecuencia de algún procedimiento de ampliación, segregación, cambio de aprovechamiento o similar, el órgano competente en materia de caza dicte un acto del cual se pueda derivar una modificación de la cuota tributaria respecto a la ya abonada, la Administración tributaria de la Comunidad Autónoma de Extremadura adoptará las medidas necesarias para devolver o requerir el abono adicional de la cuota, según proceda. Para ello, se establecerán reglamentariamente los cauces de comunicación y coordinación entre los órganos administrativos afectados.
+
+2\. La Consejería competente en materia de Hacienda recabará la colaboración necesaria de la Consejería que tenga atribuidas las competencias en materia de caza, así como de las Entidades Locales y demás organismos de ellas dependientes, requiriendo la comunicación de los datos y antecedentes que sean necesarios para la liquidación del Impuesto.
+
+> Se modifica por la disposición final 1.11 de la Ley 14/2010, de 9 de diciembre. [Ref. BOE-A-2010-19851](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19851)
+
+> Esta modificación entra en vigor el 15 de junio de 2011 y será de aplicación desde el 1 de abril de 2012, según determina la disposición final 5 de la citada ley.
+
+#### Sección 7.ª Período impositivo y devengo
+
+##### Artículo 10. Periodo impositivo y devengo del impuesto.
+
+1\. El Impuesto tiene carácter anual. El periodo impositivo se inicia el 1 de abril de un año determinado y termina el 31 de marzo del año siguiente, excepto en los casos de declaración de alta, en que abarcará desde la fecha de autorización administrativa de aprovechamiento cinegético hasta el final del período impositivo.
+
+2\. El impuesto se devenga el primer día del periodo impositivo. En los casos de declaración de alta, el devengo tendrá lugar el día que se produzca la primera autorización administrativa del aprovechamiento cinegético.
+
+La primera autorización administrativa sólo se podrá conceder una vez acreditado el pago del Impuesto mediante autoliquidación del obligado tributario. El abono del Impuesto determinará su inclusión en el padrón de cotos a los efectos que se establezcan reglamentariamente.
+
+3\. Para mantener en vigor una autorización de constitución de coto de caza el titular deberá, anualmente, ingresar el Impuesto que resulte exigible, según los tipos vigentes. Para ello, la Administración de la Comunidad Autónoma de Extremadura girará los documentos de pago teniendo en cuenta el tipo aplicable y los pondrá a disposición de los titulares de los cotos para su retirada e ingreso en el primer trimestre de cada año.
+
+4\. Sin perjuicio de lo establecido en el apartado anterior, no se exigirá el Impuesto correspondiente a un periodo impositivo cuando, antes de su inicio, el titular del aprovechamiento haya manifestado expresamente su voluntad de renunciar a la autorización del coto de caza y, tras comprobar la retirada de la señalización cinegética, haya aceptado su renuncia el órgano competente en materia de caza.
+
+> Se modifica por la disposición final 1.11 de la Ley 14/2010, de 9 de diciembre. [Ref. BOE-A-2010-19851](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19851)
+
+> Esta modificación entra en vigor el 15 de junio de 2011 y será de aplicación desde el 1 de abril de 2012, según determina la disposición final 5 de la citada ley.
+
+### CAPÍTULO II — Recaudación del impuesto
+
+##### Artículo 11. Pago en vía ejecutiva.
+
+Finalizado el período voluntario sin haberse realizado el ingreso del impuesto exigible, la deuda se recaudará por la vía ejecutiva. En estos casos, y hasta que se acredite el abono del impuesto, estarán prohibidas en el acotado todas las acciones cinegéticas, tanto las de aprovechamiento como las de mera gestión, permitiéndose las medidas de control de daños que estén autorizadas.
+
+> Se modifica por la disposición final 1.12 de la Ley 14/2010, de 9 de diciembre. [Ref. BOE-A-2010-19851](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19851)
+
+> Esta modificación entra en vigor el 15 de junio de 2011 y será de aplicación desde el 1 de abril de 2012, según determina la disposición final 5 de la citada ley.
+
+## TÍTULO II — Del régimen fiscal sobre la producción y transporte de energía que incidan en el medio ambiente
+
+### CAPÍTULO I — Disposiciones generales
+
+#### Sección 1.ª Naturaleza y objeto del impuesto
+
+##### Artículo 12. Naturaleza y objeto del Impuesto.
+
+1\. El Impuesto sobre Instalaciones que incidan en el Medio Ambiente es un impuesto directo propio de la Comunidad Autónoma de Extremadura que grava la incidencia, alteración o riesgo de deterioro que sobre el medio ambiente de la Comunidad Autónoma de Extremadura ocasiona la realización de las actividades a que se refiere esta Ley, a través de las instalaciones y demás elementos patrimoniales afectos a las mismas, con el fin de contribuir a compensar a la sociedad el coste que soporta y a frenar el deterioro del entorno natural.
+
+2\. A los efectos del presente Impuesto se considerarán elementos patrimoniales afectos a cualquier tipo de bienes, instalaciones y estructuras que se destinen a las actividades de producción, almacenaje, transformación, transporte efectuado por elementos fijos del suministro de energía eléctrica, así como los elementos fijos de las redes de comunicaciones telefónicas o telemáticas y que se encuentren radicados en el territorio de la Comunidad Autónoma de Extremadura.
+
+3\. Los ingresos que se recauden por este impuesto financiarán medidas y programas de carácter medioambiental, y entre ellos:
+
+– Programas de Fomento de las Energías Renovables, Tecnologías Limpias y Ahorradoras de Energía.
+
+– Descontaminación y mejoras medioambientales en el sector energético.
+
+– Programas de utilización racional de la energía que fomenten el ahorro de las mismas.
+
+– Programas que estimulen la reducción, reutilización y reciclaje de residuos.
+
+– Programas de apoyo al Transporte Público.
+
+#### Sección 2.ª Hecho imponible, supuestos de no sujeción y exenciones
+
+##### Artículo 13. Hecho imponible.
+
+Constituye el hecho imponible de este Impuesto la realización por el sujeto pasivo, mediante los elementos patrimoniales afectos señalados en el artículo anterior, de cualesquiera de las siguientes actividades:
+
+a) Las actividades de producción, almacenaje o transformación de energía eléctrica.
+
+b) Las actividades de transporte de energía eléctrica, telefonía y telemática efectuada por los elementos fijos del suministro de energía eléctrica o de las redes de comunicaciones.
+
+##### Artículo 14. Supuestos de no sujeción.
+
+No estarán sujetas al Impuesto las actividades que se realicen mediante instalaciones y estructuras que se destinen a la producción y almacenaje de los productos a que se refiere el artículo 13 para el autoconsumo, ni la producción de energía eléctrica en instalaciones que utilicen como energía primaria la energía solar o la eólica y en centrales que utilicen como combustible principal la biomasa o el biogás, salvo que éstas alteren de modo grave y evidente el medio ambiente.
+
+> Se modifica por el art. 41 de la Ley 19/2010, de 28 de diciembre. [Ref. BOE-A-2011-1144](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1144)
+
+##### Artículo 15. Exenciones.
+
+Estarán exentas del Impuesto las actividades que se realicen mediante:
+
+1\. Las instalaciones y estructuras de las que sean titulares el Estado, la Comunidad Autónoma, las Corporaciones Locales, así como sus Organismos autónomos.
+
+2\. Las instalaciones y estructuras que se destinen a la circulación de ferrocarriles.
+
+3\. Las estaciones transformadoras de energía eléctrica, y las redes de distribución en baja tensión siempre y cuando aquéllas no lleven a cabo actividades de producción de electricidad.
+
+#### Sección 3.ª Obligados tributarios
+
+##### Artículo 16. Obligados tributarios.
+
+1\. Son obligados tributarios, en condición de contribuyentes, las personas físicas o jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria que realicen cualquiera de las actividades señaladas en el artículo 13 de esta Ley.
+
+2\. Queda expresamente prohibida la repercusión del presente Impuesto a los consumidores sin que esta prohibición pueda ser alterada mediante pactos o acuerdos en contrario entre las partes.
+
+3\. Serán responsables solidarios de la deuda tributaria, en los términos previstos en la Ley General Tributaria, las personas físicas, jurídicas o entidades referidas en el artículo 35.4 de la citada norma que sucedan, por cualquier concepto, en la titularidad o ejercicio de las actividades sometidas a gravamen por esta Ley.
+
+#### Sección 4.ª Base imponible
+
+##### Artículo 17. Base imponible para actividades relacionadas con los procesos de producción de energía eléctrica.
+
+La base imponible para el supuesto de la letra a) del artículo 13 de esta Ley estará constituida por la producción bruta media de los tres últimos ejercicios expresada en Kw./h.
+
+##### Artículo 18. Base imponible para la actividad de transporte de energía eléctrica, telefonía y telemática.
+
+La base imponible para el supuesto de la letra b) del artículo 13 de esta Ley estará constituida por la extensión de las estructuras fijas expresadas en kilómetros y en número de postes o antenas no conectadas entre sí por cables.
+
+#### Sección 5.ª Cuota tributaria
+
+##### Artículo 19. Cuota tributaria en las actividades de producción, almacenaje y transformación de energía eléctrica.
+
+1\. La cuota tributaria en las actividades de producción, almacenaje y transformación no afectará a la producción de energía eléctrica en instalaciones que utilicen como energía primaria la energía solar o la eólica y en centrales que utilicen como combustible principal la biomasa o el biogás, salvo que estas alteren de modo grave y evidente el medio ambiente.
+
+2\. La cuota tributaria en las actividades de producción, almacenaje y transformación de energía eléctrica será el resultado de multiplicar la base imponible obtenida conforme a lo dispuesto en el artículo 17 por las siguientes cantidades:
+
+a) 0,0050 euros, en el caso de energía eléctrica de origen termonuclear.
+
+b) 0,0050 euros, en el caso de energía eléctrica que no tenga origen termonuclear, sin perjuicio de lo dispuesto en la letra c).
+
+c) 0,0010 euros en el caso de energía eléctrica producida en centrales hidroeléctricas cuya potencia instalada no supere los 10 MW.
+
+> Se modifica por el art. 19.1 de la Ley 2/2012, de 28 de junio. [Ref. BOE-A-2012-9283](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9283)
+
+> Se modifica por el art. 42 de la Ley 19/2010, de 28 de diciembre. [Ref. BOE-A-2011-1144](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1144)
+
+> Se modifica por la disposición adicional 7 de la Ley 8/2009, de 28 de diciembre. [Ref. BOE-A-2010-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1086)
+
+##### Artículo 20. Cuota tributaria en las actividades de transporte de energía, telefonía y telemática.
+
+La cuota tributaria del impuesto será el resultado de aplicar los siguientes tipos de gravamen a la base imponible obtenida conforme a lo dispuesto en el artículo 18 de esta ley:
+
+a) Por cada kilómetro de longitud o poste de la línea de transporte de energía eléctrica de tensión inferior a 400 kV, 700 euros.
+
+Este tipo de gravamen se aplicará igualmente en caso de que la instalación o elementos fijos se encuentren en desuso.
+
+b) Por cada kilómetro de longitud o poste de la línea de transporte de energía eléctrica de tensión igual o superior a 400 kV, 1.200 euros.
+
+c) En las actividades de telefonía y telemática, la cuota tributaria será de 700 euros por kilómetro, poste o antena.
+
+> Se modifica por el art. 5 de la Ley 8/2016, de 12 de diciembre. [Ref. BOE-A-2017-226](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-226)
+
+> Se modifica por el art. 19.2 de la Ley 2/2012, de 28 de junio. [Ref. BOE-A-2012-9283](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9283)
+
+> Se modifica por la disposición adicional 7 de la Ley 8/2009, de 28 de diciembre. [Ref. BOE-A-2010-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1086)
+
+#### Sección 6.ª Período impositivo y devengo
+
+##### Artículo 21. Periodo impositivo y devengo del impuesto.
+
+El Impuesto tiene carácter anual y se devengará el 30 de junio de cada año, salvo que se produjera el cese de la actividad que da origen a la exacción del presente tributo antes de esa fecha, en cuyo caso el devengo será el último día de actividad.
+
+### CAPÍTULO II — Gestión, inspección y recaudación del impuesto
+
+##### Artículo 22. Obligaciones formales y deber de colaboración.
+
+1\. Sin perjuicio de las obligaciones señaladas en el presente texto normativo, la Administración de la Comunidad Autónoma podrá recabar de los obligados tributarios cuántos datos y antecedentes sean necesarios para la liquidación del Impuesto.
+
+2\. La Administración de la Comunidad Autónoma podrá requerir de la Administración General y de las Corporaciones Locales y demás organismos de ellas dependientes, la comunicación de los datos y antecedentes que sean necesarios para la liquidación del Impuesto, así como la práctica de las comprobaciones que procedan fuera del territorio de la Comunidad Autónoma.
+
+3\. En el supuesto de cese de la actividad antes del 30 de junio, el obligado tributario deberá comunicar a la administración tributaria dicha circunstancia con carácter previo a la presentación de la correspondiente autoliquidación.
+
+> Se añade el apartado 3 por la disposición adicional 6 de la Ley 1/2012, de 24 de enero. [Ref. BOE-A-2012-1794](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1794)
+
+##### Artículo 23. Liquidación y pago del Impuesto.
+
+Los obligados tributarios en su calidad de sujetos pasivos estarán obligados a declarar y autoliquidar el Impuesto, a ingresar la correspondiente deuda tributaria en el lugar y forma que reglamentariamente se determinen, y en el plazo que establece el artículo siguiente.
+
+##### Artículo 24. Plazos de presentación.
+
+Las declaraciones-liquidaciones correspondientes al período impositivo señalado en el artículo anterior, se presentarán en el mes siguiente al de la fecha de devengo, en la forma que reglamentariamente se establezca.
+
+## TÍTULO III — Del régimen fiscal sobre suelo sin edificar y edificaciones ruinosas
+
+##### Artículos 25 a 39.
+
+**(Suprimidos)**
+
+> Se suprimen por el art. 43 de la Ley 19/2010, de 28 de diciembre. [Ref. BOE-A-2011-1144](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1144)
+
+## TÍTULO IV — Impuesto sobre depósitos de las entidades de crédito
+
+### CAPÍTULO I — Disposiciones generales
+
+#### Sección 1.ª Naturaleza y objeto de impuesto
+
+##### Artículo 40. Naturaleza y objeto del impuesto.
+
+El Impuesto sobre los Depósitos de las Entidades de Crédito es un impuesto propio de la Comunidad Autónoma de Extremadura, de carácter directo, que, en los términos establecidos en esta Ley, gravará la obtención de fondos reembolsares por parte de las entidades mencionadas en el artículo 43 de esta Ley de los clientes de las mismas.
+
+#### Sección 2.ª Hecho imponible y exenciones
+
+##### Artículo 41. Hecho imponible.
+
+Constituye el hecho imponible del Impuesto sobre los Depósitos de las Entidades de Crédito la captación de fondos de terceros, cualquiera que sea su naturaleza jurídica, por parte de las entidades mencionadas en el artículo 43 de esta Ley, y que comporten la obligación de restitución.
+
+##### Artículo 42. Exenciones.
+
+Gozarán de exención subjetiva el Banco de España y las autoridades de regulación monetaria, en cuanto tales, el Banco Europeo de Inversiones y las secciones de crédito de las cooperativas.
+
+#### Sección 3.ª Obligados tributarios
+
+##### Artículo 43. Sujetos pasivos.
+
+1\. Son sujetos pasivos, a título de contribuyentes, del Impuesto sobre los Depósitos de las Entidades de Crédito, las entidades de crédito, por los fondos captados por su casa central y sus sucursales que estén situadas en el territorio de la Comunidad Autónoma de Extremadura.
+
+2\. Se entiende por sucursal a los efectos de esta ley, la definida en el artículo 295 del Reglamento del Registro Mercantil.
+
+3\. Dichas entidades no pueden, en ningún caso, repercutir jurídicamente a terceros la cuota de este impuesto a satisfacer por ellas.
+
+#### Sección 4.ª Base imponible
+
+##### Artículo 44. Base imponible.
+
+La Base imponible de este Impuesto estará representada por la cuantía económica total, en términos de fondos, calculada promediando aritméticamente el saldo final de cada trimestre natural de cada año de la partida del Pasivo del Balance reservado de la Entidades de Crédito «4. Depósitos de la clientela» excluidos los importes de los epígrafes correspondientes a las partidas de Ajustes por valoración (4.1.5, 4.2.5, 4.3.2 y 4.4.5).
+
+#### Sección 5.ª Cuota tributaria
+
+##### Artículo 45. Cuota tributaria.
+
+1\. Cuota íntegra. A la base imponible determinada con arreglo a lo establecido en el artículo precedente se aplicará la siguiente escala de gravamen:
+
+| Base imponible<br>Hasta euros | Cuota íntegra<br>Euros | Resto base imponible<br>Hasta euros | Tipo aplicable<br>Porcentaje |
+|---|---|---|---|
+|  |  | 150.000.000 | 0,37 |
+| 150.000.000 | 555.000 | 600.000.000 | 0,50 |
+| 750.000.000 | 3.555.000 | En adelante | 0,60 |
+
+2\. Deducciones generales. De la cuota íntegra resultante del apartado anterior se deducirán, en los términos que se establezcan reglamentariamente, las siguientes cantidades:
+
+a) 500.000 euros cuando la casa central y los servicios generales de la entidad de crédito estén efectivamente radicados en Extremadura.
+
+b) 10.000 euros por cada sucursal. Esta cantidad se elevará a 30.000 euros cuando la sucursal esté radicada en municipios cuya población de derecho sea inferior a 2.000 habitantes.
+
+c) Las cantidades señaladas en la letra b) se incrementarán en 30.000 euros si la sucursal se hubiera abierto durante el último período impositivo en el que sea exigible el impuesto.
+
+3\. Deducciones específicas. Serán igualmente deducibles:
+
+a) Aquellas inversiones que siendo de utilidad pública o interés social para la región se concierten y aprueben con la Consejería competente en materia de hacienda, previo informe de la Consejería con competencias en la materia relacionada con el objeto de la inversión. La deducción por estas inversiones podrá ser aplicada por la entidad central de la que formen parte las Cajas de Ahorro y las Cooperativas de Crédito o por la entidad bancaria a través de la cual las Cajas de Ahorro realicen de forma indirecta su actividad financiera, de acuerdo con lo previsto en el artículo 5 del Real Decreto-Ley 11/2010, de 9 de julio, sobre órganos de gobierno y otros aspectos del régimen jurídico de las Cajas de Ahorro.
+
+Las leyes de Presupuestos de cada año señalarán los sectores sociales y económicos que tendrán la condición de utilidad o interés para la región.
+
+b) La Obra Benéfico Social de las Cajas de Ahorro y el Fondo de Formación y Promoción de las Cooperativas de Crédito, efectivamente invertida que esté autorizada o acordada, según los casos, con la Consejería competente en materia de política financiera.
+
+La deducción por estas inversiones en Obra Social y el Fondo de Formación y Promoción podrá ser aplicada por la entidad central de la que formen parte las Cajas de Ahorro y las Cooperativas de Crédito o por la entidad bancaria a través de la cual las Cajas de Ahorro realicen de forma indirecta su actividad financiera, de acuerdo con lo previsto en el artículo 5 del Real Decreto-ley 11/2010, de 9 de julio, sobre órganos de gobierno y otros aspectos del régimen jurídico de las Cajas de Ahorro.
+
+c) Aquellas otras inversiones concertadas con la Consejería competente en materia de Hacienda y realizadas por los sujetos pasivos en sectores o proyectos declarados de interés regional por una ley, previo informe de la Consejería con competencias en la materia relacionada con el objeto de la inversión.
+
+A los efectos de las deducciones referidas en el presente apartado, se entenderán efectivamente invertidas aquellas cantidades que supongan gastos reales para la entidad que pretenda aplicar la deducción, sin que puedan serlo las transferencias a otras entidades de ella dependientes, salvo que éstas, a su vez, realicen el gasto real en el ejercicio correspondiente.
+
+No obstante lo anterior, en el caso de inversiones de carácter plurianual o que se trasladen a ejercicios futuros, se podrá, con la debida justificación, optar por deducir la cantidad efectivamente invertida en los periodos impositivos correspondientes o bien en el primer período impositivo el importe total comprometido o contratado, siempre que en los dos años siguientes se ejecuten tales inversiones. En este último caso, se practicará liquidación caucional por el total importe que hubiera debido girarse de no mediar el beneficio fiscal aplicado, deducidas las cantidades efectivamente invertidas en el primer ejercicio impositivo.
+
+De no ejecutarse las inversiones, se procederá a la exacción del impuesto no pagado con los intereses de demora correspondientes, y sin perjuicio de la imposición de las sanciones que, en su caso, pudieran proceder.
+
+4\. Límite de deducciones. La suma de las deducciones tendrá como límite la cantidad resultante del apartado 1 de este artículo, reduciéndose a cero los resultados negativos.
+
+5\. Con posterioridad a la aplicación de las deducciones establecidas en los apartados anteriores se aplicará, sobre la cuota resultante una bonificación del 100 por 100 de dicha cuota si ésta es positiva.
+
+> Se añade el apartado 5 por el art. 34 de la Ley 6/2013, de 13 de diciembre. [Ref. BOE-A-2014-374](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-374)
+
+> Se modifican los apartados 1 y 3.a) y b) por el art. 20 de la Ley 2/2012, de 28 de junio. [Ref. BOE-A-2012-9283](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9283)
+
+> Téngase en cuenta que la modificación del apartado 3.a) y b) tiene efectos desde el 1 de enero de 2012, según establece la disposición final 7.c) de la citada ley.
+
+> Se modifican los apartados 1 y 2 por el art. 44 de la Ley 19/2010, de 28 de diciembre. [Ref. BOE-A-2011-1144](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1144)
+
+#### Sección 6.ª Período impositivo y devengo
+
+##### Artículo 46. Período impositivo y devengo.
+
+1\. El período impositivo de este Impuesto será el año natural, salvo cuando el sujeto pasivo haya iniciado su actividad en Extremadura, bien mediante sucursal o a través de su casa central, en fecha distinta al primero de enero, en cuyo caso abarcará desde la fecha de comienzo de la actividad hasta el final del año natural.
+
+En todo caso, el período impositivo concluirá cuando la entidad se extinga, surgiendo entonces la obligación de contribuir por este Impuesto.
+
+2\. El Impuesto se devengará el último día del período impositivo.
+
+### CAPÍTULO II — Gestión, inspección y recaudación del impuesto
+
+##### Artículo 47. Liquidación del Impuesto.
+
+1\. Los sujetos pasivos deberán determinar e ingresar la deuda tributaria mediante el sistema de declaración-autoliquidación en el lugar, forma, plazo e impresos que establezca la Administración Tributaria de la Junta de Extremadura. Todo ello sin perjuicio de los recargos que previene el artículo 27 de la Ley General Tributaria por liquidación extemporánea.
+
+2\. Las entidades sujetas a este impuesto deberán, al presentar la autoliquidación del impuesto, aportar una única certificación comprensiva del saldo final de cada trimestre natural de las cuentas a que se refiere este artículo, desglosada y referida a todas las sucursales radicadas en el ámbito de aplicación del impuesto, así como en su caso a la casa central cuando ésta se encuentre efectivamente radicada en Extremadura.
+
+##### Artículo 48. Deberes de colaboración e información.
+
+1\. Los sujetos pasivos del Impuesto sobre los Depósitos de las Entidades de Crédito están obligados a colaborar con la Junta de Extremadura, debiendo proporcionar a la Administración Tributaria de la Junta de Extremadura información relativa a la cifra de sus operaciones realizadas, gravadas con este Impuesto, y aquellos otros que sean necesarios para la gestión e inspección del presente tributo.
+
+2\. Las obligaciones a que se refiere el párrafo anterior deberán cumplirse, bien con carácter general, bien a requerimiento individualizado de la Administración Tributaria de la Junta de Extremadura, en ambos casos en la forma, plazo y modelo que reglamentariamente se determinen.
+
+3\. El incumplimiento de las obligaciones establecidas en este artículo no podrá ampararse en el secreto bancario.
+
+## TÍTULO V — Disposiciones comunes
+
+##### Artículo 49. Órganos competentes.
+
+La titularidad de la competencia para la gestión, liquidación y recaudación de los tributos propios corresponde a la Consejería que tenga atribuidas las competencias en materia de Hacienda.
+
+##### Artículo 50. Otras normas de gestión.
+
+En materia de aplazamientos, fraccionamientos y adopción de medidas cautelares se estará a lo dispuesto en la Ley General Tributaria.
+
+##### Artículo 51. Revisión en vía administrativa.
+
+1\. Los actos de gestión, liquidación, inspección y recaudación serán recurribles en reposición con carácter potestativo ante el Órgano que los haya dictado.
+
+2\. Contra la resolución del recurso de reposición o contra los actos de gestión, liquidación, inspección y recaudación, si no se interpuso aquél, podrá interponerse reclamación económico-administrativa ante la Junta Económico-Administrativa de la Comunidad Autónoma de Extremadura.
+
+3\. Agotada la vía administrativa, los interesados podrán interponer el correspondiente recurso contencioso-administrativo.
+
+##### Artículo 52. Prescripción.
+
+La prescripción se regirá por lo previsto en la Ley General Tributaria.
+
+##### Artículo 53. Infracciones y sanciones.
+
+1\. Las infracciones tributarias relativas al presente Impuesto serán calificadas y sancionadas de conformidad con lo previsto en la Ley General Tributaria.
+
+2\. A efectos del Impuesto sobre depósitos de las entidades de crédito, se calificarán como infracciones tributarias muy graves:
+
+a) La deslocalización del tributo regulado en el presente texto legal. A tal efecto tendrán la consideración de infracción, a título meramente ejemplificativo, la desviación de pasivo a cuentas de ahorro o a cualesquiera otras, correspondientes a sucursales que tengan su sede fuera del territorio de la Comunidad Autónoma de Extremadura.
+
+b) La repercusión a terceros de este Impuesto.
+
+En la graduación de la sanción se tendrá en cuenta las cuantías económicas deslocalizadas o repercutidas, la reiteración de las conductas sancionables y todas aquellas circunstancias previstas en la Ley General Tributaria.
+
+##### Disposición adicional única. Impuesto sobre los depósitos de las Entidades de Crédito.
+
+Las referencias del artículo 44 de esta ley a la partida del Pasivo del Balance Reservado de las Entidades de Crédito «4. Depósitos de la clientela» se entenderán realizadas a los correspondientes epígrafes o subepígrafes del pasivo del Balance Reservado que recojan las partidas de los depósitos de la clientela, con independencia de la nomenclatura o denominación que le asignen las sucesivas Instrucciones o Circulares que regulen la contabilidad o las normas de información financiera de dichas Entidades.
+
+##### Disposición final primera. Habilitación al Consejo de Gobierno.
+
+Se faculta al Consejo de Gobierno para dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de esta Ley.
+
+##### Disposición final segunda. Habilitación al Consejero competente en materia de Hacienda.
+
+Se faculta al Consejero de Hacienda y Presupuesto para que, mediante Orden, apruebe los modelos de declaración y declaración-liquidación de los impuestos a que se refiere la presente ley.
+
+##### Disposición final tercera. Habilitación de las Leyes de Presupuestos.
+
+Las Leyes anuales de Presupuestos Generales de la Comunidad Autónoma de Extremadura podrán modificar los elementos esenciales de los tributos propios.

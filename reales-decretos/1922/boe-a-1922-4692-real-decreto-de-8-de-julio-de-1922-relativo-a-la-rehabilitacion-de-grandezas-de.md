@@ -1,0 +1,191 @@
+---
+title: "Real Decreto de 8 de julio de 1922 relativo a la rehabilitación de Grandezas de España y Títulos del Reino"
+identifier: "BOE-A-1922-4692"
+eli: "https://www.boe.es/eli/es/rd/1922/07/08/(1)"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Gracia y Justicia"
+date: 1922-07-08
+published: 1922-07-12
+in_force_from: 1922-08-01
+last_amended: 1988-03-18
+consolidated: 2025-12-16
+gazette: "Gaceta de Madrid núm. 193"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1922-4692"
+retrieved: 2026-10-11
+---
+
+# Real Decreto de 8 de julio de 1922 relativo a la rehabilitación de Grandezas de España y Títulos del Reino
+
+EXPOSICIÓN
+
+SEÑOR: Las instancias de rehabilitación de mercedes nobiliarias, antaño encaminadas a impetrar de la Real magnanimidad que se alzase la cancelación de los títulos de Vizconde aludidos en la Real Cédula de Felipe IV, se refirieron, desde mediados del siglo XIX a toda clase de Dignidades de aquella índole, en virtud de la modificación sobrevenida por efecto de la reforma fiscal establecida en el año 1846.
+
+Admitido allí el principio de la caducidad, puso especial empeño la Administración en evitar que, valiéndose del procedimiento, entonces poco exigente, de la rehabilitación, acudieran a pretenderla personas cuyo remoto parentesco con los últimos posedores, produjese la apariencia de que la Grandeza o Título solicitados iban a recaer en extraños. El año 1858 se prohibió la rehabilitación de cualquier Título de Castilla que se hallase cancelado; seis años más tarde se templaba ese extremado rigor al decidir que las caducidades podrían ser alzadas por nuevas y atendibles razones, a instancia de parte legítima, entendiendo como tal quien pudiese alegar algún derecho a suceder en las Grandezas o Títulos de que se tratase, los Reales decretos de 1879, 1883, 1884 y 1885 buscaron la garanta del más alto Cuerpo Consultivo de la nación, prescribiendo que se oyera su autorizado dictamen antes de resolver los expedientes incoados, a fin de rehabilitar mercedes nobiliarias, y se inició también un criterio limitativo del parentesco, ya que sólo serían tenidos como parte legítima quienes fuesen descendientes en línea directa del último poseedor, o bien colaterales del mismo hasta el décimo grado inclusive, computado civilmente. Era ésta la frontera hereditaria en derecho privado castellano.
+
+Aunque el Código civil vigente limitó al sexto grado el parentesco transversal que habilita para suceder abintestado, no solamente no se transportó al derecho nobiliario esta novedad jurídica, sino que el Real decreto de 27 de Mayo de 1912, hoy vigente, guardó silencio sobre tan interesante extremo y ni la Diputación de la Grandeza de España, cuya audiencia se hizo entonces preceptiva en estos expedientes, ni el Consejo de Estado creyeron procedente formular observaciones acerca del particular. Por lo que a la consanguinidad se refiere, las modificaciones de mayor transcendencia debidas al Real decreto de 1912 consistieron en no requerir un parentesco mínimo, pero exigir que se demostrara la existencia de él entre el solicitante y el último poseedor del Título o Grandeza, así como también respecto del primitivo concesionario de la merced. Fácil es advertir que en algunos casos este último requisito sería imposible de cumplir, ya porque transacciones autorizadas conforme a un pretérito régimen jurídico hubiesen transmitido a extraños la Dignidad nobiliaria, ya porque el primer poseedor de la misma, autorizado por la Real Majestad, designara como sucesor a persona no ligada al mismo por vínculos de consanguinidad.
+
+Justo parece estatuir alguna diversidad de trato según el parentesco alegado por los aspirantes a la rehabilitación; y puesto que las normas dictadas en 1912 dejaron indeterminada la materia, y entretanto se ha dado el caso de las leyes dictadas en 1914 y 1920 han aceptado como base de sus decisiones fiscales el Real decreto de 27 de Mayo de 1912, natural resulta que se atienda a desenvolver la norma jurídica implícitamente sancionada por el Poder legislativo.
+
+Proponíase el Ministro que suscribe someter a estudio de las Cortes del Reino, previa la autorización de V. M., un proyecto de ley sobre estas cuestiones, y así tuvo el honor de manifestarlo cuando V. M. fué servido expedir su Real decreto del año 1921 suspendiendo la tramitación de los expedientes incoados para rehabilitar Dignidades nobiliarias. Pero circunstancias bien notorias embargan con gravísimas deliberaciones de inexcusable primacía la atención de ambas Cámaras y aconsejan aplazamiento de aquel designio. Mas no parece menos prudente poner punto a la forzada espera en que por tal motivo se hallan numerosos solicitantes acogidos a llamamientos legales anteriores al Real decreto del año 1921.
+
+A tal fin va encaminado el presente proyecto de Decreto; por lo demás, y sobre la base del Real decreto de 27 de Mayo de 1912, cuya vigencia es ineludible mantener, aspírase a detallar algunas de sus cardinales orientaciones : se conserva el principio de caducidad automática de las Dignidades nobiliarias cuando hubiesen transcurrido, desde la muerte del último poseedor, tres años sin haber sido solicitada sucesión en las mismas; queda aceptado el amplísimo criterio sobre el grado de consanguinidad que habilita para instar el alzamiento de las caducidades sobrevenidas; gradúanse las exigencias probatorias a tenor del parentesco alegado y probado; aclarase la duda nacida de los casos en que el primero y segundo poseedor no estuviesen ligados por vínculo de familia; y, por último, se provee al caso, cuya frecuencia puede acentuarse cada vez más, de instarse en materia nobiliaria el cumplimiento de sentencias judiciales adversas a personas agraciadas con la rehabilitación de la Dignidad litigada.
+
+Fundado en las consideraciones enunciadas, el Ministro que suscribe tiene el honor de someter a la aprobación de V. M. el adjunto proyecto de Decreto.
+
+Madrid, 8 de Julio de1922.
+
+SEÑOR:
+
+A L. R. P. de V. M.,
+
+MARIANO ORDÓÑEZ
+
+**REAL DECRETO**
+
+A propuesta del Ministro de Gracia y Justicia y de acuerdo con Mi Consejo de Ministros,
+
+Vengo en decretar lo siguiente:
+
+## Artículo 1.
+
+Conforme a lo prevenido en el artículo 54 de la Constitución de la Monarquía Española y en los 2.º y 8.º del Real Decreto de 27 de Mayo de 1912, corresponde al Rey acordar la rehabilitación de Grandezas de España y Títulos del Reino suprimidos por expresa disposición administrativa o incursos en caducidad a tenor de lo preceptuado en el artículo 5.º del citado Real decreto y en la Real orden de 29 de Mayo de 1915.
+
+## Artículo 2.
+
+La gracia de rehabilitación de Grandezas de España o de Títulos del Reino sólo podrá ser impetrada por las personas que reúnan las condiciones señaladas en el presente Decreto. La alegación y probanza de las mismas no tendrá otra eficacia que la de colocar al interesado en situación de aptitud para que la rehabilitación sea decretada en favor suyo, pero sin que por ello deje de ser plenamente potestativa para la Corona la concesión o denegación de la merced solicitada.
+
+## Artículo 3.
+
+Aquellas grandezas y títulos perpetuos que hubieran incurrido en caducidad y no hubieran permanecido en tal situación durante cuarenta o más años, podrán ser rehabilitados con sujeción a las formalidades y requisitos contenidos en los artículos siguientes y en las demás disposiciones de aplicación.
+
+> Se modifica por el art. 2 del Real Decreto 222/1988, de 11 de marzo. [Ref. BOE-A-1988-7023](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-7023).
+
+## Artículo 4.
+
+La rehabilitación se solicitará mediante instancia dirigida a Su Majestad El Rey, que deberá ir suscrita por el interesado o su representante legal y en la misma se hará constar:
+
+a) El nombre, los apellidos y el domicilio del interesado y, en su caso, los del representante legal que suscriba la petición.
+
+b) El nombre y los apellidos del último titular que legalmente ostentó la merced.
+
+c) La fecha en que la dignidad quedó vacante,
+
+d) El parentesco del solicitante con el último poseedor legal.
+
+> Se modifica por el art. 2 del Real Decreto 222/1988, de 11 de marzo. [Ref. BOE-A-1988-7023](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-7023).
+
+> Se modifica por el art. único del Real Decreto 602/1980, de 21 de marzo. [Ref. BOE-A-1980-7011](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-7011).
+
+## Artículo 5.
+
+Sólo procederá la rehabilitación cuando el solici­tante tenga un parentesco con el último poseedor legal que no exceda del sexto grado civil y cuando concurran en aquél méritos que excedan del cumplimiento normal de obligaciones propias del cargo, profesión o situación social que no hayan sido objeto de recompensa anterior a la petición que en ellos se apoye.
+
+> Se modifica por el art. 2 del Real Decreto 222/1988, de 11 de marzo. [Ref. BOE-A-1988-7023](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-7023).
+
+## Artículo 6.
+
+A la instancia deberá acompañarse por los interesados:
+
+a) Un árbol genealógico fechado y firmado por el solicitante y en el que se mostrará el parentesco de consanguinidad matrimonial que enlace al interesado con el ultimo poseedor de la dignidad cuya rehabilitación se pretende.
+
+b) La carta expedida al último titular o copia legalizada de la misma. También valdrá la referencia a aquella contenida en el expediente general del titulo custodiado en e! archivo del Ministe­rio de Justicia.
+
+c) Un índice de los documentos de prueba firmado por el que suscribe la instancia. En este índice no se reseñarán otros documen­tos que los que efectivamente se presenten en el Registro General del Ministerio de Justicia.
+
+> Se modifica por el art. 2 del Real Decreto 222/1988, de 11 de marzo. [Ref. BOE-A-1988-7023](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-7023).
+
+## Artículo 7.
+
+En todo caso deberá justificarse que la persona de quien se derive el derecho del solicitante poseyó efectiva y legalmente la Dignidad solicitada.
+
+## Artículo 8.
+
+Para acreditar el parentesco de consanguinidad matrimonial entre el interesado y el último poseedor, el solicitante deberá aportar certificaciones del Registro Civil relativas al naci­miento, matrimonio y defunción de cada uno de los enlaces.
+
+Cuando, de acuerdo con la Ley del Registro Civil, puedan admitirse documentos supletorios, éstos deberán presentarse mediante copias del texto íntegro testimoniadas notarialmente.
+
+En la documentación genealógica deberán incluirse con carácter necesario, las testamentarias de cada uno de los enlaces que acrediten la descendencia. Dichos documentos se presentarán también con los requisitos y solemnidades anteriores.
+
+Para los documentos extranjeros se estará a los acuerdos, tratados y demás disposiciones.
+
+> Se modifica por el art. 2 del Real Decreto 222/1988, de 11 de marzo. [Ref. BOE-A-1988-7023](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-7023).
+
+## Artículo 9.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 222/1988, de 11 de marzo. [Ref. BOE-A-1988-7023](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-7023).
+
+## Artículo 10.
+
+La resolución de los expedientes de rehabilita­ción se acordará mediante Real Decreto que será publicado en el ‘‘Boletín Oficial del Estado’’. No obstante, se considerarán tácitamente denegadas las solicitudes sobre las que no haya recaído resolución expresa dentro del año siguiente al día de puesta a despacho del expediente.
+
+> Se modifica por el art. 2 del Real Decreto 222/1988, de 11 de marzo. [Ref. BOE-A-1988-7023](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-7023).
+
+> Se modifica por el art. único del Real Decreto 602/1980, de 21 de marzo. [Ref. BOE-A-1980-7011](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-7011).
+
+## Artículo 11.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 222/1988, de 11 de marzo. [Ref. BOE-A-1988-7023](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-7023).
+
+> Se modifica por el art. único del Real Decreto 602/1980, de 21 de marzo. [Ref. BOE-A-1980-7011](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-7011).
+
+## Artículo 12.
+
+Toda rehabilitación se entenderá concedida sin perjuicio de tercero de mejor derecho genealógico. Cuando los Tribunales competentes declaren derecho genealógico preferente en favor de personas distinta de la que obtuvo la rehabilitación, el litigante vencedor que desee solicitar de la Corona la efectividad de la sentencia ejecutoria dictada obteniendo la rehabilitación en su favor deberá presentar con su instancia un árbol genealógico, reintegrado conforme a la ley del Timbre, y que exprese el parentesco que tuviere con el vencido en juicio y con la persona de quien derive su derecho, así como la situación genealógica suya respecto al último poseedor legal de la merced anterior al titular de la rehabilitación impugnada judicialmente; también acompañará la prueba de méritos y rentas que proceda según la categoría de la Dignidad nobiliaria instada y la situación que al peticionario corresponda según lo prevenido en los artículos 4.º y 11 del presente Decreto.
+
+## Artículo 13.
+
+La resolución de los expedientes de rehabilitación se acordará mediante Real Decreto que será publicado en el ‘‘Boletín Oficial del Estado’’.
+
+No obstante, se considerarán denegadas tácitamente las solicitudes sobre las que no haya recaído resolución expresa dentro del año siguiente al día de puesta a despacho del expediente de rehabilitación.
+
+> Se prorroga el plazo establecido hasta el 3 de octubre de 1981 por el art. único del Real Decreto 569/1981, de 27 de marzo. [Ref. BOE-A-1981-7560](https://www.boe.es/buscar/doc.php?id=BOE-A-1981-7560).
+
+> Se modifica por el art. único del Real Decreto 602/1980, de 21 de marzo. [Ref. BOE-A-1980-7011](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-7011).
+
+> Téngase en cuenta la disposición transitoria para el cómputo del plazo.
+
+## Artículo 14.
+
+La rehabilitación quedará sin efecto en los casos siguientes:
+
+A) Cuando dentro de los plazos determinados por las leyes fiscales no satisfaga el concesionario el impuesto sobre Grandezas y Títulos correspondiente;
+
+B) Cuando en término de seis meses, contados desde el pago del impuesto indicado en el párrafo anterior, no se abonen los derechos de imposición del Sello Real y el impuesto de Timbre correspondiente a la Real Cédula de rehabilitación.
+
+## Artículo 15.
+
+La Grandeza de España o Título del Reino solicitados reinvertirán a la Corona en los siguientes casos:
+
+A) Cuando la concesión quede sin efecto en virtud de lo dispuesto en el artículo 14;
+
+B) Cuando se deniegue la rehabilitación y la Real orden dictada haya quedado firme a causa de no interponerse contra ella los recursos procedentes en derecho;
+
+C) Cuando, interpuesto recurso contencioso-administrativo contra la Real orden denegatoria de rehabilitación, el Tribunal correspondiente absuelva a la Administración de la demanda.
+
+## Artículo 16.
+
+En lo sucesivo no podrá crearse Título del Reino alguno con denominación igual a la de otro suprimido, caducado o revertido a la Corona, a no ser que el favorecido con la concesión se halle comprendido en los casos de los apartados A), B) o C) del artículo 4.º del presente Decreto.
+
+## Artículo 17.
+
+Quedan derogados el Real decreto de 10 de Enero de 1921 y cuantas disposiciones administrativas se opongan a lo contenido en el presente.
+
+## Artículo 18.
+
+El Ministro de Gracia y Justicia dictará las disposiciones correspondientes para la ejecución del presente Real Decreto.
+
+Dado en Palacio a ocho de Julio de mil novecientos veintidós.
+
+ALFONSO
+
+El Ministro de Gracia y Justicia,
+
+MARIANO ORDÓÑEZ

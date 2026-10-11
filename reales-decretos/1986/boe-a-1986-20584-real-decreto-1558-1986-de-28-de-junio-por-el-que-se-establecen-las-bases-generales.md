@@ -1,0 +1,357 @@
+---
+title: "Real Decreto 1558/1986, de 28 de junio, por el que se establecen las bases generales del régimen de conciertos entre las Universidades y las Instituciones sanitarias"
+identifier: "BOE-A-1986-20584"
+eli: "https://www.boe.es/eli/es/rd/1986/06/28/1558"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1986-06-28
+published: 1986-07-31
+in_force_from: 1986-08-01
+last_amended: 2021-09-29
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 182"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-20584"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1558/1986, de 28 de junio, por el que se establecen las bases generales del régimen de conciertos entre las Universidades y las Instituciones sanitarias
+
+La colaboración entre la Universidad y las Instituciones hospitalarias, tanto de la Seguridad Social como de otras Entidades públicas y privadas, para la formación de estudiantes de Medicina, Enfermería y Farmacia y otras enseñanzas sanitarias, ha dado lugar a diversos tipos de convenios que, con modalidades diferentes, han afectado a casi todas las Universidades que imparten este tipo de enseñanzas, con resultados diversos, debido, fundamentalmente a la falta de uniformidad en los criterios seguidos al establecer y desarrollar dichos convenios.
+
+Para que esta colaboración persista y se incremente en su eficacia se estima necesario por parte de los Ministerios correspondientes establecer un marco normativo homogéneo que permita la ulterior realización de acuerdos de colaboración funcional entre las Instituciones respectivas con fines docentes y de investigación y que, además de Hospitales, habrá de abarcar a Centros de atención primaria, cada dia de mayor importancia para una correcta formación clínica extra-hospitalaria.
+
+Por ello, la disposición adicional sexta de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, determinó que por el Gobierno, a propuesta de los Ministerios de Educación y ciencia y de Sanidad y Consumo, y previo informe del Consejo de Universidades, se establecieran las bases generales del régimen de conciertos entre las Universidades y las Instituciones sanitarias en las que se deba impartir enseñanza universitaria y Enfermería y otras enseñanzas que asi lo exigieran. Asimismo, la Ley 14/1986, de 25 de abril, General de Sanidad, ha dispuesto que las Administraciones Públicas competentes en educación y sanidad establecerán el régimen de conciertos entre las Universidades y las Instituciones sanitarias en las que se debe impartir enseñanza universitaria, a efectos de garantizar la docencia práctica de la Medicina y Enfermería y otras enseñanzas que así lo exigieran, añadiendo que las bases generales del régimen de concierto preverán lo preceptuado en el artículo 149.1.30 de la Constitución.
+
+Este planteamiento parte del supuesto de que toda la estructura asistencial del sistema sanitario, tanto en sus recursos materiales como humanos, debe poder utilizarse para la docencia pregraduada, posgraduada y continuada de los profesionales sanitarios, del mismo modo que el sistema universitario debe servir para su reciclaje.
+
+Con idéntico objetivo, la Ley 14/1986, de 25 de abril, General de Sanidad, ha venido a establecer en su artículo 105 algunas singularidades en el régimen general de Profesorado, fijado por la Ley de Reforma Universitaria, con el fin de buscar una perfecta adecuación entre las estructuras docentes y !as asistenciales. Así, se introduce la posibilidad de vincular plazas de una Institución sanitaria pública concertada con otras pertenecientes a los Cuerpos Docentes Universitarios, creando puestos de trabajo que reflejen fielmente dos inseparables actividades de los Profesores universitarios de las áreas de la salud, cuales son la docente y la asistencial. En la misma línea se recogen algunas particularidades en relación a los Profesores asociados y los ayudantes, con el fin de permitir el acceso a la carrera universitaria de facultativos con el título de especialistas y de profesionales de las ciencias de la salud con una cualificación reconocida, al mismo tiempo que de facilitar una formación asistencial a los futuros Profesores de las mencionadas áreas. Todos estos aspectos deben ser desarrollados de forma que las Universidades y las Instituciones sanitarias puedan elaborar los oportunos conciertos que vengan a garantizar una adecuada formación a los estudiantes de las ciencias de la salud.
+
+En su virtud, de acuerdo con el Consejo de Estado y a propuesta de los Ministros de Educación y Ciencia y de Sanidad y Consumo, previo informe del Consejo de Universidades y de la Comisión Superior de Personal, y previa deliberación del Consejo de Ministros en su reunión del día 28 de junio de 1986,
+
+DISPONGO:
+
+## Artículo 1.
+
+Uno.–Las Universidades, para el cumplimiento en el ámbito sanitario de las funciones que el artículo 1.2 de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, les encomienda, deberán disponer de Hospitales y otras Instituciones sanitarias para el desarrollo de sus programas investigadores y docentes de primero, segundo y tercer ciclo.
+
+A tales efectos, las Universidades y las Administraciones Públicas responsables de las Instituciones sanitarias de titularidad pública deberán establecer los correspondientes conciertos para la utilización de estas últimas en la investigación y la docencia de la Medicina, la Enfermería, la Farmacia y las demás enseñanzas relacionadas con las ciencias de la salud, respetando las bases generales que se señalan en el presente Real Decreto y, en su caso, el régimen de conciertos que las Administraciones Públicas competentes en educación y sanidad puedan dictar, al amparo del artículo 104.3 de la Ley General de Sanidad, con sujeción, asimismo, a Io establecido en el presente Real Decreto.
+
+Dos.–Las Universidades que estén autorizadas a impartir la licenciatura en Medicina y Cirugía deberán disponer, a los efectos previstos en el apartado anterior, al menos de un Hospital y tres Centros de atención primaria de carácter universitario, haciendo coincidir estas Instituciones con las de mayor calidad asistencial del ámbito geográfico correspondiente.
+
+Tres.–Los Hospitales y Centros de atención primaria concertados de acuerdo con lo establecido en este Real Decreto constituirán las unidades docente-asistenciales de los Centros que organicen las enseñanzas relacionadas con las ciencias de la salud, proporcionando, en coordinación con la infraestructura sanitaria correspondiente, asistencia del máximo nivel científico y desarrollando funciones de investigación en las áreas de las ciencias de la salud.
+
+Cuatro.–Las Universidades, mediante los oportunos conciertos, deberán garantizar que los Profesores universitarios pertenecientes a los Cuerpos de Funcionarios Docentes, cuya actividad docente así lo exija, puedan ejercer la complementaria actividad asistencial, en los términos establecidos en el presente Real Decreto y en los respectivos conciertos. Asimismo, éstos deberán considerar las necesidades hospitalarias derivadas de la investigación que se realice en las Universidades.
+
+## Artículo 2.
+
+Los conciertos que se celebren entre las Administraciones Públicas responsables de las Instituciones sanitarias públicas y las Universidades se ajustarán a las bases que se recogen en el artículo 4.º de este Real Decreto.
+
+## Artículo 3.
+
+Uno.–La Universidad podrá concertar igualmente con Instituciones sanitarias de titularidad privada, de acuerdo con lo señalado en los artículos 1 y en las bases 1 a 6, 11, 12, 15, 17, 18 y disposición adicional primera. En todo caso, la Institución deberá estar previamente acreditada conforme a lo señalado en la base 3.
+
+Dos.–Con el fin de garantizar los objetivos docentes e investigadores de la Universidad, el concierto podrá señalar el número de plazas de profesores asociados pertenecientes a la plantilla de la Universidad que se cubrirán por personal de la Institución sanitaria de titularidad privada.
+
+## Artículo 4.
+
+Las bases generales del régimen de conciertos son las siguientes:
+
+Primera. Objetivo de los conciertos.*–*Los objetivos generales de los conciertos serán los siguientes:
+
+1\. Docentes:
+
+A) Promover la máxima utilización de los recursos sanitarios hospitalarios y extra-hospitalarios, humanos y materiales para la docencia universitaria de las diversas enseñanzas sanitarias a nivel pregraduado y posgraduado, favoreciendo la actualización de las mismas y su continua mejora de calidad.
+
+La colaboración se establecerá para la formación clínica y sanitaria de los alumnos de cualquiera de los tres ciclos universitarios y estudios de posgraduados en aquellas titulaciones o materias relacionadas con las ciencias de la salud. En el caso de estudios de tercer ciclo, esta formación se extenderá a la metodología y a las técnicas de la investigación sanitaria.
+
+B) Cooperar en el mantenimiento de la cualificación de los profesionales de la salud a su más alto nivel, cuidando su actualización y reciclaje y favoreciendo su incorporación a la docencia universitaria.
+
+2\. Asistenciales:
+
+A) Cooperar para que las investigaciones y enseñanzas universitarias en Medicina, Enfermería, Farmacia y demás profesiones sanitarias puedan ser utilizadas para la mejora constante de la atención sanitaria.
+
+B) Prever que coincidan la mayor calidad asistencial con la consideración de Hospital universitario o asociado a la Universidad, dentro del oportuno sistema de sectorialización y regionalización de la asistencia sanitaria.
+
+3\. De investigación:
+
+A) Potenciar la investigación en las ciencias de la salud, coordinando las actividades de las Universidades con las de las Instituciones sanitarias, para una mejor utilización de los recursos humanos y materiales.
+
+B) Favorecer el desarrollo de los departamentos universitarios en las áreas de la salud, potenciando su coordinación con las unidades de investigación de los Hospitales y estimulando las vocaciones investigadoras.
+
+Segunda. Procedimiento de elaboración del concierto.
+
+Uno.–Las Universidades, teniendo en cuenta las necesidades asistenciales de la población, en el marco de la planificación general de la enseñanza superior, harán un estudio, basado en criterios generales elaborados conjuntamente por los Ministerios de Educación y Ciencia y Sanidad y Consumo, de las necesidades docentes e investigadoras, tanto a nivel hospitalario como extrahospitalario, que debieran ser atendidas por las Instituciones concertadas.
+
+Dos.–Dicho estudio será elevado a los órganos responsables de enseñanza universitaria y de sanidad de la Comunidad Autónoma correspondiente, quienes, de acuerdo con la Universidad y el INSALUD u Organismo de la Comunidad Autónoma que hubiera asumido sus funciones, fijarán la Institución o Instituciones sanitarias que deban ser concertadas. En el caso de tratarse de una Institución sanitaria que no sea de la Seguridad Social, se requerirá el acuerdo de la Entidad de la que dependa aquélla. En todo caso, para garantizar una adecuada coordinación, se procurará que no exista una excesiva dispersión de la docencia en Centros diversos.
+
+Tres.–Se constituirá una Comisión formada por tres representantes de cada una de las siguientes Instituciones: Universidad, Organismos responsables de educación superior y de sanidad de las Comunidades Autónomas, Instituto Nacional de la Salud u Organismo que hubiera asumido sus funciones o, en su caso, Entidad de la que dependa la Institución sanitaria a concertar.
+
+Esta Comisión, en un plazo no superior a un año, elaborará el proyecto de concierto que, una vez acordado entre el INSALUD u Organismo que hubiera asumido sus funciones o, en su caso, Entidad de la que dependa la Institución sanitaria a concertar y la Universidad correspondiente, será remitido, previo informe del Consejo Social de ésta, para su aprobación y publicación, a la Comunidad Autónoma.
+
+Tercera. Uno.–Sólo podrán ser objeto de concierto con las Universidades aquellas Instituciones sanitarias que reúnan los requisitos que se establezcan, de común acuerdo, por los Ministerios de Sanidad y Consumo y de Educación y Ciencia, previo informe del Consejo de Universidades, para desarrollar la docencia en las distintas titulaciones o materias relacionadas con las ciencias de la salud,
+
+Dos.–Dichos requisitos, cuya existencia será comprobada por la Comunidad Autónoma correspondiente, deberán garantizar que las Instituciones sanitarias poseen la infraestructura material necesaria para el desarrollo de las funciones docentes e investigadoras que se derivan del establecimiento de un concierto con la Universidad.
+
+Cuarta. El Consejo de Universidades tendrá en cuenta, para la determinación de los módulos objetivos que deba fijar, en cumplimiento de lo dispuesto en el artículo 26 de la Ley de Reforma Universitaria, la capacidad de las Instituciones sanitarias que se concierten.
+
+Quinta. Se utilizará la denominación «hospital universitario» cuando el concierto se refiera al hospital en su conjunto o abarque el 75 por ciento de sus servicios o unidades asistenciales. En el caso de que solo se concierten algunos servicios, se hablará de «hospital asociado a la universidad». Lo mismo se aplicará a los Centros de Atención Primaria.
+
+Los hospitales universitarios no podrán estar vinculados por concierto o convenio a más de una universidad para la impartición de una misma titulación, salvo situaciones excepcionales, en los que la universidad inicialmente conveniada deberá estar de acuerdo en la ampliación a otra o a otras universidades de la actividad de ese hospital universitario. En todo caso, existe la posibilidad de realización de prácticas académicas por otra universidad diferente de la universidad vinculada bajo convenio específico y previa autorización de la universidad vinculada.
+
+Asimismo, será necesaria la armonización de la capacidad formativa del sistema público sanitario en el ámbito de hospitales públicos universitarios y universidades públicas.
+
+Sexta. Uno.–El concierto, de acuerdo con lo establecido en la base segunda, señalará los servicios de la Institución sanitaria que se conciertan y los departamentos universitarios que con ellos se relacionan, así como las fórmulas de coordinación entre las actividades docentes, investigadoras y asistenciales. Los servicios así concertados lo serán en su totalidad y el concierto preverá la existencia de una Comisión Universidad-Institución sanitaria compuesta por un número igual de miembros de ambas, encargada de velar por la correcta aplicación del mismo, teniendo en cuenta, de un lado, la estructura departamental prevista en la Ley de Reforma Universitaria y, de otra, la estructura funcional de la Institución sanitaria.
+
+Dos.–Las normas estatutarias de la Universidad podrán prever en los departamentos vinculados con diferentes servicios la representación de éstos en el Consejo del departamento, con el fin de garantizar la coordinación a que se refiere el apartado anterior.
+
+Séptima. Uno.–De conformidad con lo previsto en el artículo 105 de la Ley General de Sanidad y con el fin de garantizar los objetivos docentes e investigadores de las Universidades en las áreas relacionadas con las ciencias de la salud, el concierto establecerá las plazas de facultativos especialistas de la Institución sanitaria que quedan vinculadas con plazas docentes de la plantilla de los Cuerpos de Profesores de la Universidad. Mientras tenga tal carácter, dicha plaza se considerará a todos los efectos como un solo puesto de trabajo y supondrá para quien la ocupe el cumplimiento de las funciones docentes y asistenciales en los términos que se establecen en el presente Real Decreto.
+
+Asimismo, con idéntica finalidad y en virtud de lo dispuesto en el mencionado articulo de la Ley General de Sanidad, el concierto establecerá el número de plazas de Profesor asociado pertenecientes a la plantilla de la Universidad que obligatoriamente deberán cubrirse por personal de la Institución sanitaria concertada. Este número no será tenido en cuenta a efectos del porcentaje a que se refiere el artículo 33.3 de le Ley Orgánica 11/1983, de Reforma Universitaria.
+
+Dos.–Cuando se defina la plantilla vinculada se establecerá la adecuada correspondencia entre la actividad docente y asistencial para hacer efectivas ambas funciones. En todo caso, el acceso a las Jefaturas de Departamento, Servicio o Sección u otra Jefatura de las Instituciones sanitarias, deberá realizarse conforme a las disposiciones por las que las Administraciones Sanitarias competentes regulen el acceso a las mismas.
+
+Tres.–En el marco de la planificación asistencial de los Centros concertados, y en atención a las necesidades docentes e investigadoras de las Universidades, el concierto preverá, igualmente, la forma de reducir o ampliar tanto el número de plazas vinculadas como el de plazas de Profesor asociado destinadas al personal de la Institución sanitaria.
+
+Octava. **(Derogada)**
+
+Novena. Uno.–Los Profesores asociados a los que alude el párrafo 2 del número 1 de la base séptima serán contratados por las Universidades en las condiciones que se establecen en la base decimotercera, conforme a lo previsto en los Estatutos respectivos. Se regirán por lo establecido en la Ley de Reforma Universitaria y sus disposiciones de desarrollo. El concierto recogerá la duración de los contratos y de sus posibles renovaciones. El Profesor asociado, en todo caso, cesará como tal cuando, por cualquier motivo, cause baja en la plaza asistencial que ocupe en la Institución sanitaria concertada.
+
+Las Universidades adoptarán, mediante las normas estatutarias correspondientes, las fórmulas específicas necesarias para regular la participación de estos Profesores en los órganos de gobierno en que asi proceda.
+
+Dos.–En el supuesto de que algún Profesor asociado de los que se regulan en la presente base gane un concurso para ocupar una plaza perteneciente a los Cuerpos de Funcionarios Docentes de las Universidades, que no esté previamente vinculada, ésta pasará a serlo, siempre que las necesidades asistenciales y docentes así lo aconsejen, y se amortizará el correspondiente contrato.
+
+Décima. Uno.–Las Universidades, en los conciertos con las Instituciones sanitarias, preverán el número de plazas de ayudantes de su plantilla que se cubrirán mediante concurso público entre profesionales de las áreas de la salud con el título de especialista que se corresponda con el área de conocimiento del Departamento que proceda de conformidad con lo dispuesto en el artículo 105 de la Ley General de Sanidad.
+
+Dos.–El concierto contemplará las medidas necesarias para que los ayudantes de los Departamentos a que se refiere la base sexta, uno, puedan realizar la actividad asistencial que proceda.
+
+Undécima. Uno.–El concierto deberá prever que el personal sanitario contratado por la Universidad que no posea el título de Doctor, así como los facultativos residentes que realicen la formación especializada en las Instituciones concertadas, tenga reservado un cupo de plazas en los programas de doctorado que en el ámbito de las ciencias de la salud oferte la Universidad para poder obtener en ella el título de Doctor.
+
+Dos.–Con este fin, las Universidades podrán convalidar los cursos y seminarios de doctorado a que se refiere el artículo 6 del Real Decreto 185/1985, de 23 de enero, así como sus correspondientes créditos a aquellos facultativos que estuvieran en posesión del título de Especialista y que hubieran cursado un programa de formación especializada que tuviera relación directa con los programas de doctorado. Para efectuar dichas convalidaciones, que no podrán extenderse a los cursos y seminarios contemplados en el apartado 1, a), del artículo 3.º del Real Decreto mencionado anteriormente, las Universidades tendrán en cuenta, asimismo, el currículum científico académico de estos facultativos.
+
+Duodécima. Uno.–En el concierto se recogerán las medidas necesarias para que los ayudantes y los Profesores pertenecientes a los Cuerpos Docentes Universitarios de las áreas de conocimiento relacionadas con las ciencias de la salud puedan obtener el título de Especialista que se corresponda con su área, a través de la vía establecida en el artículo 18 del Real Decreto 127/1984, de 11 de enero, por el que se regula la formación médica especializada y la obtención del título de Médico Especialista, o de las que deberán establecerse para el resto de los títulos de Especialista en materias relacionadas con las ciencias de la salud.
+
+Dos.–Con el fin de garantizar la formación aludida en el apartado anterior, para los títulos de Médico Especialista, la Comisión Interministerial a que se refiere el artículo 5 del Real Decreto 127/1984, de 11 de enero, en función de las necesidades docentes y asistenciales, previo informe del Consejo Nacional de Especialidades Médicas, y a solicitud de las Universidades, decidirá anualmente el número de Profesores y ayudantes y las especialidades a las que podrán acogerse para acceder a los programas de formación que correspondan a su área de conocimiento.
+
+Tres.–De acuerdo con lo señalado en el artículo 105 de la Ley General de Sanidad y en el marzo de los conciertos, las Administraciones Públicas responsables de las Instituciones sanitarias facilitarán el desempeño de la actividad asistencial necesaria para la formación especializada de los ayudantes y Profesores citados, de acuerdo con los programas de formación de las Comisiones nacionales que correspondan.
+
+Decimotercera. Uno.–Todos los Catedráticos y Profesores titulares de las áreas de conocimiento relacionadas con las ciencias de la salud que ocupen una plaza vinculada desarrollarán el conjunto de sus funciones docentes, investigadoras y asistenciales en una misma jornada.
+
+La dedicación horaria semanal de dicha jornada será la siguiente:
+
+a) Seis horas semanales, como máximo, exclusivamente docentes, durante el período lectivo.
+
+b) Tres horas semanales, corno máximo, de asistencia y tutoría al alumnado durante el periodo lectivo, que podrá realizarse en la Institución sanitaria concertada.
+
+c) Veinticinco horas semanales, como mínimo, de asistencia sanitaria en la correspondiente Intitución. En dichas horas quedará incluida, en su caso, la docencia práctica y la función investigadora que impliquen actividad asistencial; la docencia práctica conllevará, en todo caso, la responsabilidad directa del Profesor en el aprendizaje clínico de los alumnos que le sean asignados.
+
+d) El resto de las horas de la jornada semanal legalmente establecida, tanto en el período lectivo como en el período no lectivo, se dedicarán a la función investigadora que no implique actividad asistencial, así como, en su caso, a la atención de las necesidades de gestión y administración inherentes al cargo o puesto de trabajo que se desempeñe en los ámbitos docentes y asistencial.
+
+Dos. El personal asistencial contratado como Profesor Asociado, en aplicación de lo establecido en el presente Real Decreto, desarrollará el conjunto de sus actividades docentes y asistenciales en una misma jornada. La dedicación horaria de dicho personal será la siguiente:
+
+a) Hasta un máximo de tres horas semanales exclusivamente docentes, si tuviera encomendada esta actividad, durante el período lectivo.
+
+b) Hasta un máximo de tres horas semanales de tutoría o asistencia al alumnado, durante el período lectivo.
+
+c) El resto de las horas de la jornada semanal legalmente establecida se dedicará a la actividad asistencial, en la que quedarán incluidas las horas de docencia práctica; esta implicará la responsabilidad directa del Profesor en el aprendizaje clínico de los alumnos que le sean asignados.
+
+Tres. 1. Con respecto a los límites máximos establecidos en el punto uno de esta misma base, el cómputo de tiempo de dedicación a la docencia podrá hacerse, de acuerdo con lo establecido en el punto 8 del artículo 9.° del Real Decreto 898/1985, de 30 de abril, por períodos anuales, siempre que lo permitan las necesidades del servicio y según acuerde la Comisión Mixta Universidad-Institución sanitaria.
+
+2\. En los períodos en los que la programación académica no incluya el desarrollo de las horas exclusivamente docentes, el cómputo de la jornada no será inferior a la legalmente establecida, dedicándose dichas horas a las actividades mencionadas en el apartado c) de los puntos uno y dos de esta base.
+
+Cuatro. La Comisión Mixta Universidad-Institución sanitaria prevista en la base sexta del artículo 4.º del Real Decreto 1558/1986, establecerá las fórmulas de coordinación entre las actividades a las que se refieren los puntos que anteceden, en especial a efectos de la elaboración del calendario académico de acuerdo con el artículo 10.1 del Real Decreto 898/1985, de 30 de abril, sobre régimen del profesorado universitario, teniendo en cuenta, por un lado, las competencias resultantes de la estructura departamental previstas en la Ley de Reforma Universitaria y, por otro, la estructura funcional de la Institución Sanitaria, todo ello en función de las necesidades docentes, asistenciales e investigadoras de la Universidad y de la Institución sanitaria.
+
+Cinco. 1. El régimen de dedicación del profesorado con plaza vinculada, desarrollada en la misma jornada a que se refieren los puntos uno y dos de la presente base, implicará, el conjunto de sus actividades docentes, asistenciales y de investigación.
+
+La denominación del régimen de dedicación del profesorado con plaza vinculada se corresponderá con el establecido para el profesorado de los Cuerpos Docentes Universitarios. En consecuencia, existirán dos regímenes de dedicación: A tiempo completo y a tiempo parcial. El régimen de dedicación a tiempo completo comportará la exclusiva dedicación a los sistemas sanitario y docente públicos. En ambos casos la duración de la jornada laboral será la legalmente establecida para el personal con plaza exclusivamente asistencial en los centros sanitarios públicos.
+
+2\. Los Profesores asociados con plaza asistencial en los centros concertados tendrán, en su calidad de Profesor, el régimen de dedicación a tiempo parcial de tres horas lectivas semanales y un número igual de horas de tutoría y asistencia a los alumnos, que se desarrollará dentro de la jornada laboral legalmente establecida, de acuerdo con lo dispuesto en el punto dos de esta base.
+
+Seis. 1. La realización de funciones docentes mediante contrato con la Universidad, como Profesor asociado, por el personal de las instituciones sanitarias concertados requerirá el reconocimiento previo de compatibilidad.
+
+2\. El desarrollo de actividad privada por el personal que desempeñe plaza vinculada o sea contratado como Profesor asociado de acuerdo con lo dispuesto en el presente Real Decreto, precisará la correspondiente autorización de compatibilidad. En todo caso, no podrá autorizarse dicha compatibilidad para el desarrollo de actividad privada al personal que desempeñe plaza vinculada por la que perciba complemento específico o concepto equiparable, ni al personal asistencial contratado como Profesor asociado, que perciba el mismo complemento retributivo por su actividad asistencial.
+
+Siete. Todas las retribuciones del personal que ocupe plaza vinculada se abonarán en un única nómina por la Universiad, sin que pueda satisfacerse retribución alguna por la correspondiente Institución sanitaria.
+
+Ocho. 1. Las retribuciones, por el conjunto de las funciones docentes, asistenciales y de investigación del profesorado que ocupe plaza vinculada en cualquier Universidad pública española, serán básicas y complementarias.
+
+2\. Las retribuciones básicas de este personal, cualquiera que sea su régimen de dedicación, serán las establecidas con carácter general para el personal funcionario del grupo A, incluidos en el ámbito de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+
+3\. Las cuantías de las retribuciones complementarias, constituidas por complemento de destino, complemento específico y complemento de productividad, se fijarán por el Consejo de Ministros a propuesta del Ministro de Economía y Hacienda, previa iniciativa conjunta de los de Educación y Ciencia y Sanidad y Consumo.
+
+4\. En ningún caso la cuantía que se fije para el complemento de destino supondrá variación del nivel que para dicho complemento ha sido fijado en el Real Decreto 1086/1989, de 28 de agosto.
+
+5\. El complemento específico, que se reconocerá al profesorado con plaza vinculada en régimen de dedicación a tiempo completo, resultará de la suma total de los importes de los siguientes componentes:
+
+a) Componente general, en la cuantía que fije el consejo de Ministros.
+
+b) Componente singular, por el desempeño de cargos académicos.
+
+c) Componente por méritos docentes.
+
+Los componentes b) y c) se aplicarán en los casos y cuantías que procedan por aplicación del citado Real Decreto 1086/1989.
+
+6\. El complemento de productividad, en la cuantía que resulte por la suma de los siguientes importes:
+
+a) Importe que fije el Consejo de Ministros.
+
+b) Importe del complemento de productividad por actividad investigadora, que se reconocerá al profesorado en régimen de tiempo completo en los casos y cuantías que procedan por aplicación del Real Decreto 1086/1989.
+
+c) Importe variable por atención continuada y por rendimiento o cumplimiento de objetivos en los casos y cuantías que se fijen para el personal asistencial por aplicación del Real Decreto-ley 3/1987, de 11 de septiembre, y demás disposiciones pertinentes.
+
+Nueve.–El Consejo de Ministros, a propuesta del Ministro de Economía y Hacienda, previa iniciativa conjunta de los de Educación y Ciencia y Sanidad y Consumo, fijará la retribución del personal sanitario que tenga formalizado contrato de Profesor asociado con la Universidad correspondiente, al amparo de lo establecido en el presente Real Decreto para la realización de funciones docentes.
+
+Diez.–Los Profesores que ocupen plazas vinculadas y los Profesores asociados a que se refieren los puntos anteriores podrán realizar actividades de investigación científica y técnica al amparo del artículo 11 de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, sin perjuicio de las obligaciones a que se refieren los puntos Uno y Dos de esta base.
+
+Once.–Los conciertos preverán los mecanismos de compensación presupuestaria entre el INSALUD u Organismo de la Comunidad Autónoma correspondiente, o Entidad de la que depende la Institución sanitaria concertada, y la Universidad, con el fin de satisfacer las retribuciones a que se refiere esta base.
+
+Decimocuarta. Uno.–Sin perjuicio de las especificaciones que se establecen en el presente Real Decreto, los Profesores que desempeñen plaza vinculada tendrán los derechos y deberes inherentes a su condición de Cuerpos Docentes de Universidad y de personal estatutario del régimen correspondiente de la Seguridad Social o de la Institución concertada que corresponda cuando ésta no pertenezca a la misma.
+
+Dos.–La aplicación del régimen disciplinario correspondiente en cada caso a las funciones docentes y asistenciales, tanto al personal que desempeñe plaza vinculada, como al sanitario que ejerza funciones como Profesor contratado, se hará de acuerdo con lo establecido, respectivamente, por el Real Decreto 898/1985, de 30 de abril, sobre régimen del Profesorado universitario, y por el Estatuto Jurídico del Personal Médico de la Seguridad Social de 23 de diciembre de 1966 y normas complementarias de aplicación. En el caso de Instituciones sanitarias que no pertenezcan a la Seguridad Social, se tendrá en cuenta el régimen disciplinario legalmente aplicable a su personal.
+
+Decimoquinta. Los estudiantes que reciban sus enseñanzas en una Institución concertada deberán someterse a las reglas de funcionamiento y disciplina de ésta y de la Universidad.
+
+Decimosexta. Una.–En el caso de Hospitales universitarios, formará parte de la Comisión de Dirección, como miembro de pleno derecho, con voz y voto, un representante nombrado por la Junta de Gobierno de la Universidad, a propuesta de las Facultades o Escuelas implicadas en el concierto. Este establecerá en estos casos fórmulas de participación de los Hospitales en los órganos de gobierno de la Universidad.
+
+Dos.–En los Hospitales que a 31 de diciembre de 1984 tenían la condición de Hospitales clínicos, el Director Médico del Hospital será designado, preferentemente, de entre Profesores que ocupen plaza de plantilla vinculada y Profesores asociados, previo informe de la Junta de Gobierno de la Universidad, con cumplimiento, en todo caso, de las normas sobre incompatibilidades. Asimismo, formarán parte de la Comisión de Participación Hospitalaria tres representantes de la Universidad, nombrados por la Junta de Gobierno de la misma, a propuesta de la Facultad de Medicina. A estos Hospitales les será de aplicación, igualmente, lo establecido en el apartado anterior.
+
+Tres.–En el caso de Hospitales asociados, el concierto establecerá fórmulas de participación de la Universidad en los órganos de Dirección de los Hospitales, así como de éstos en los órganos de gobierno de la Universidad.
+
+Cuatro.–En el caso de Centros de atención primaria, universitarios o asociados a la Universidad, el concierto establecerá también fórmulas de participación de la Universidad en los órganos de Dirección de las correspondientes Instituciones sanitarias, así como de éstos en los órganos de gobierno de la Universidad.
+
+Cinco.–Lo establecido en esta base deberá adaptarse por las diferentes Comunidades Autónomas que hayan recibido transferencias del INSALUD, previo acuerdo con la Administración competente en educación superior, a la estructura establecida para los Hospitales que dependan de cada una de ellas, respetando los criterios establecidos en los apartados anteriores.
+
+Decimoséptima. En el concierto se harán constar expresamente los criterios para la atribución de titularidad del material inventariable que se adquiera, por una u otra parte, durante el período de vigencia del mismo, para la financiación de las obras de todo tipo que se realicen, así como para la amortización e imputación de costes.
+
+Decimoctava. Los conciertos que se realicen al amparo del presente Real Decreto preverán la oportuna cláusula de denuncia. Para que la denuncia, en su caso, sea efectiva, deberá ser ratificada por el Organismo que dio la aprobación al concierto.
+
+> Se modifica la base quinta por la disposición final 1 del Real Decreto 822/2021, de 28 de septiembre. [Ref. BOE-A-2021-15781](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-15781)
+
+> Se modifica la base quinta por la disposición final 3 del Real Decreto 420/2015, de 29 de mayo. [Ref. BOE-A-2015-6708](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-6708).
+
+> Se deroga la base octava por la disposición derogatoria única.1.b) del Real Decreto 744/2002, de 26 de julio. [Ref. BOE-A-2002-15997](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-15997).
+
+> Se modifica la base decimotercera y se deroga el inciso destacado de la octava por el art. 1 y disposición derogatoria del Real Decreto 1652/1991, de 11 de octubre. [Ref. BOE-A-1991-28106](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-28106).
+
+## Disposición adicional primera.
+
+El concierto establecerá las compensaciones que la Universidad satisfará a la Institución sanitaria en concepto de su utilización para la docencia.
+
+## Disposición adicional segunda.
+
+Para la aplicación de lo establecido en el presente Real Decreto a los conciertos entre las Universidades y las Administraciones Públicas responsables de las Instituciones sanitarias de titularidad pública que no pertenezcan a la Seguridad Social, el Ministerio de Educación y Ciencia y el de Sanidad y Consumo o, en su caso, las Comunidades Autónomas que hayan asumido competencias en educación superior y sanidad, efectuarán las adaptaciones exigidas por las peculiaridades del régimen específico de las mencionadas Instituciones.
+
+## Disposición adicional tercera.
+
+Todo concierto que suponga incremento de gasto público preverá la forma de financiación del mismo, con la conformidad, en todo caso, de los Ministerios de Economía y Hacienda y de Trabajo y Seguridad Social, según corresponda, o de los Organismos responsables de la financiación de las Instituciones sanitarias y de la de Universidades.
+
+Cuando la Administración Pública que haya de firmar el concierto sea una Comunidad Autónoma que hubiera asumido la gestión de los servicios del INSALUD, el costo que suponga el concierto no podrá originar un incremento de los recursos que le correspondan por aplicación del coeficiente de participación de dicha Comunidad en el presupuesto del sistema de la Seguridad Social.
+
+## Disposición transitoria primera.
+
+Las plazas asistenciales de Hospitales concertados de titularidad pública y las docentes ocupadas por Profesores pertenecientes a los Cuerpos universitarios, se convertirán en plazas vinculadas cuando sean aprobados los correspondientes conciertos, de acuerdo con lo establecido en el presente Real Decreto.
+
+De acuerdo con lo establecido en la base decimocuarta de este Real Decreto, el desempeño de las funciones asistenciales correspondientes a estos Profesores se adaptará a lo dispuesto en las normas de la Seguridad Social o de la Institución sanitaria que proceda, si ésta no pertenece a la misma.
+
+El concierto podrá prever que dichas plazas dejen de tener tal carácter en el momento en que se produzca la correspondiente vacante, en atención a las necesidades docentes y asistenciales.
+
+## Disposición transitoria segunda.
+
+Uno.–En el plazo de un año a partir de la publicación del presente Real Decreto, deberán suscribirse los respectivos conciertos entre las Universidades y las Instituciones sanitarias a las que alude el presente Real Decreto.
+
+Dos.–En tanto se suscriben los conciertos a que se refiere el presente Real Decreto, los Catedráticos y Profesores titulares de las Facultades de Medicina y Farmacia y de las Escuelas Universitarias de Enfermería y Fisioterapia no precisarán autorización de compatibilidad para su complementaria actividad asistencial en el hospital de la Universidad o concertado con la misma que corresponda, de acuerdo con lo establecido en la disposición transitoria cuarta de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas. A estos funcionarios les será de aplicación el régimen previsto en la base decimotercera de las establecidas en el artículo 4.º de este Real Decreto, considerándoseles como titulares de plaza vinculada a los exclusivos efectos de la aplicación de la normativa contenida en dicha base.
+
+Todas las retribuciones de este personal se abonarán en una única nónima por la Universidad, sin que pueda satisfacerse retribución alguna por la correspondiente Institución sanitaria.
+
+Tres.–A partir del curso 1986-1987, las Universidades podrán contratar al personal facultativo de los Hospitales de la Universidad o concertados con la misma únicamente como Profesores asociados, en régimen de dedicación de tres o seis horas, de acuerdo con lo que se dispone en el apartado dos de la base decimotercera del presente Real Decreto. El desempeño de funciones docentes como tales Profesores requerirá la oportuna autorización de compatibilidad, cuya concesión tendrá en cuenta lo dispuesto en eI artículo 23 del Real Decreto 598/1985, de 30 de abril. Cuando sean fijadas las retribuciones a que se refiere la base decimotercera citada, entrará en vigor el régimen de incompatibilidades en ella determinado.
+
+Asimismo, a efectos del porcentaje de estos Profesores asociados, será de aplicación lo previsto en el párrafo 2, apartado uno, de la base séptima.
+
+En tanto se fijan las retribuciones a las que se refiere el apartado cuatro de la citada base decimotercera, estos Profesores asociados percibirán una retribución cuya cuantía en cómputo anual será el 80 por 100 de la de un Profesor titular interino de Escuela Universitaria, sin trienios, para cada uno de los dos regímenes de dedicación aludidos.
+
+> Se modifica el apartado 2 por el art. 2 del Real Decreto 1652/1991, de 11 de octubre. [Ref. BOE-A-1991-28106](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-28106).
+
+> Se modifica el apartado 2 por el art. 1 del Real Decreto 644/1988, de 3 de junio. [Ref. BOE-A-1988-15948](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-15948).
+
+> Téngase en cuenta que se declara la nulidad del art. 1 del Real Decreto 644/1988, de 3 de junio por Sentencia del TS publicada por Orden de 21 de junio de 1993. [Ref. BOE-A-1993-17271](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17271).
+
+## Disposición transitoria tercera.
+
+Hasta tanto no se proceda a desarrollar por los Ministerios de Educación y Ciencia y de Sanidad y Consumo lo previsto en la base tercera de este Real Decreto, se considerará que reúnen los requisitos para concertar con las Universidades los Hospitales que a 31 de diciembre de 1984 tuviesen la consideración de Hospitales clínicos, o tuvieran firmado concierto con la Universidad para cumplir los fines a que se refiere el presente Real Decreto o estuvieran acreditados para la formación de especialistas, según lo dispuesto en el Real Decreto 127/1984, por el que se regula la formación médica especializada y la obtención del título de Médico Especialista.
+
+En todo caso. los conciertos que celebren las Universidades con las Administraciones Públicas responsables de los Hospitales que a 31 de diciembre de 1984 tenían la condición de clínicos, deberán cumplir la condición que se establece en la base quinta, con el fin de que pasen a denominarse Hospitales universitarios.
+
+## Disposición transitoria cuarta.
+
+Uno. En el caso de que exista, en el marco de un concierto, una plaza vinculada que proceda de una asistencial que esté desempeñada en propiedad por un facultativo, y de una docente ocupada por un Catedrático o Profesor titular, se procederá a asignar a éste, por el Instituto Nacional de la Salud u Organismo correspondiente de la Comunidad Autónoma, o Entidad de la que dependa la Institución sanitaria, una plaza dentro de la red asistencial en la localidad donde esté ubicada la Universidad para que pueda desempeñar las funciones docentes y asistenciales correspondientes a su área de conocimiento. El régimen de prestación de servicios, así como sus retribuciones, será el establecido por el presente Real Decreto para las plazas vinculadas a que se refiere el artículo 105.1 de la Ley General de Sanidad.
+
+Cuando la plaza asistencial desempeñada por un facultativo, a la que alude el párrafo anterior, quede definitivamente vacante, se cubrirá por el procedimiento establecido para las plazas del INSALUD u Organismo de la Comunidad Autónoma que hubiera asumido sus funciones o Entidad de la que dependa la Institución sanitaria. En el caso de que el Catedrático o Profesor titular antes mencionado gane dicha plaza, ésta y la docente se convertirán en plazas vinculadas.
+
+En cualquier caso, el concierto deberá establecer un plazo máximo para que al Profesor le sea adjudicada una plaza asistencial en el Hospital o Centro de Atención Primaria concertado con la Universidad correspondiente en función del área de conocimiento a la que esté adscrito.
+
+Dos. Lo establecido en esta disposición transitoria sólo será de aplicación a quienes, a la entrada en vigor de este Real Decreto ocupen una plaza de Catedrático o de Profesor titular en la Universidad que corresponda, o la obtengan en virtud de un concurso convocado con anterioridad a la mencionada entrada en vigor.
+
+## Disposición transitoria quinta.
+
+En el caso de que exista, en el marco de un concierto, una plaza vinculada que proceda de una asistencial desempeñada por un facultativo, y de una perteneciente a los Cuerpos Docentes Universitarios que esté vacante en el concierto, se establecerá que la Universidad deberá nombrar al referido facultativo Profesor asociado, garantizando en todo caso un período no superior a cinco años, antes de sacar la plaza docente a concurso.
+
+## Disposición transitoria sexta.
+
+Hasta tanto no sean aprobados los conciertos, conforme a lo previsto en el presente Real Decreto, las Universidades y las Administraciones Públicas responsables de las Instituciones sanitarias a las que se refiere la disposición transitoria tercera, se comunicarán previamente las vacantes docentes y asistenciales que hubieran de salir a provisión, con el fin de facilitar la configuración de sus plantillas vinculadas en el futuro concierto.
+
+## Disposición transitoria séptima.
+
+Las Instituciones sanitarias podrán, en atención a los méritos científicos excepcionales de un determinado Profesor universitario, dotar una plaza asistencial en aquellos supuestos en que no existiera plaza vinculada o ésta estuviera ocupada. En este caso, la plaza asistencial será amortizada cuando quede vacante.
+
+## Disposición transitoria octava.
+
+En tanto las Comunidades Autónomas no asuman competencias en materia universitaria o de asistencia sanitaria, las que les atribuye el presente Real Decreto serán desempeñadas por el Ministerio de Educación y Ciencia y el Ministerio de Sanidad y Consumo,
+
+## Disposición transitoria novena.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 1652/1991, de 11 de octubre. [Ref. BOE-A-1991-28106](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-28106).
+
+## Disposición transitoria décima.
+
+El personal que en el momento inicial de aplicación de las previsiones retributivas del apartado tres de la base decimotercera de las establecidas en el artículo 4.º de este Real Decreto, se hallare desempeñando plaza de Profesor de los Cuerpos Universitarios y otra complementaria como personal estatutario o asimilado del INSALUD, podrá optar, en el plazo de un mes a contar desde el día final del mes en que por primera vez sea retribuido conforme a dichas previsiones, por continuar incluido en el Régimen General de la Seguridad Social y percibiendo los trienios, que le correspondan por la plaza asistencial que venía desempeñando. En este caso, la cotización al Régimen General de la Seguridad Social tornará como base la totalidad de las retribuciones previstas en el presente Real Decreto, de acuerdo con las normas generales que regulan esta materia en dicho Régimen.
+
+> Se añade por el art. 2 del Real Decreto 644/1988, de 3 junio. [Ref. BOE-A-1988-15948](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-15948).
+
+## Disposición final primera.
+
+Las competencias sobre planificación, gestión, estructura, funcionamiento, asistencia, evaluación e inspección de los servicios sanitarios serán exclusivas del Ministerio de Sanidad y Consumo, en los términos establecidos en la legislación vigente, sin perjuicio de las competencias de las Comunidades Autónomas.
+
+## Disposición final segunda.
+
+Se autoriza a los Ministerios de Educación y Ciencia y de Sanidad y Consumo para dictar, en la esfera de sus atribuciones respectivas, cuantas disposiciones sean necesarias para la aplicación del presente Real Decreto.
+
+## Disposición final tercera.
+
+El presente Real Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado».
+
+## Disposición derogatoria.
+
+A la publicación del presente Real Decreto quedan derogadas las siguientes disposiciones:
+
+Decreto de Presidencia de 27 de enero de 1941. Beneficencia Sanidad. Coordinación de servicios con los de enseñanza.
+
+Convenio marco de marzo de 1970. Suscrito por los Ministros de Educación y Ciencia y de Trabajo.
+
+Real Decreto 3500/1981, de 27 de noviembre, por el que se aprueban las bases del Acuerdo marco de colaboración en las Instituciones sanitarias de rango universitario entre los Ministerios de Educación y Ciencia y de Trabajo y Seguridad Social.
+
+Orden de 13 de septiembre de 1985 por la que se establece el régimen de integración de los Hospitales clínicos en el Instituto Nacional de la Salud, en lo que se oponga al presente Real Decreto y, expresamente, su artículo 6.º
+
+Cuantas disposiciones de igual o inferior rango se opongan a lo previsto en el presente Real Decreto.
+
+Dado en Madrid a 28 de junio de 1986.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JAVIER MOSCOSO DEL PRADO Y MUÑOZ

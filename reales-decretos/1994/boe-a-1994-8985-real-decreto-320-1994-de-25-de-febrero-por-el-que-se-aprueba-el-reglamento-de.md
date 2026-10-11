@@ -1,0 +1,255 @@
+---
+title: "Real Decreto 320/1994, de 25 de febrero, por el que se aprueba el Reglamento de procedimiento sancionador en materia de tráfico, circulación de vehículos a motor y seguridad vial"
+identifier: "BOE-A-1994-8985"
+eli: "https://www.boe.es/eli/es/rd/1994/02/25/320"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio del Interior"
+date: 1994-02-25
+published: 1994-04-21
+in_force_from: 1994-05-11
+last_amended: 2005-01-24
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 95"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-8985"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 320/1994, de 25 de febrero, por el que se aprueba el Reglamento de procedimiento sancionador en materia de tráfico, circulación de vehículos a motor y seguridad vial
+
+La disposición adicional tercera de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, ordena llevar a efecto reglamentariamente la adecuación a la misma de las normas reguladoras de los distintos procedimientos administrativos, cualquiera que sea su rango.
+
+Por su parte, el Título VI del Texto articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial, aprobado por Real Decreto Legislativo 339/1990, de 2 de marzo, regula bajo la denominación de "Procedimiento sancionador y recursos", el procedimiento administrativo de imposición de las correspondientes sanciones en materia de tráfico y circulación de vehículos a motor, que el apartado 1 de la disposición final del propio Texto articulado, autoriza a desarrollar al Gobierno. Pendiente el desarrollo reglamentario y abierto el período de adecuación, se ha estimado necesario acometer ambas tareas en un mismo texto reglamentario, en el que, según la pauta acostumbrada se transcriben primero los artículos correspondientes del Texto articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial, haciendo constar, entre paréntesis, el número del artículo del texto articulado de dicha Ley, adaptándolos a la vigente Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, cuando es necesario, lo que es posible en virtud de la deslegalización operada por esta última Ley, y desarrollándolos a continuación en aquellos aspectos en que se ha estimado era menester la ulterior explicitación y precisión reglamentaria.
+
+En su virtud, a propuesta del Ministro del Interior, previa aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 25 de febrero de 1994,
+
+### D I S P O N G O :
+
+#### Artículo único.
+
+Se aprueba el Reglamento de procedimiento sancionador en materia de tráfico, circulación de vehículos a motor y seguridad vial, cuyo texto se inserta a continuación.
+
+#### Disposición transitoria única.
+
+1\. Los procedimientos sancionadores incluidos en el ámbito de aplicación del Reglamento que se aprueba por el presente Real Decreto, iniciados con anterioridad a su entrada en vigor, se resolverán de acuerdo con la normativa anterior.
+
+2\. El régimen de recursos será el establecido en el artículo 17 del Reglamento que se aprueba por el presente Real Decreto y en el capítulo II del Título VII de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de la Administraciones Públicas y del Procedimiento Administrativo Común.
+
+#### Disposición derogatoria única.
+
+Quedan derogados los artículos 276, 277, 278, 279 I y II, 280, 281, 282, 283, 284, 285, 286, 287 y 289, todos ellos incluidos en el capítulo XVII del Código de la Circulación y cuantos preceptos se opongan a lo dispuesto en el Reglamento aprobado por el presente Real Decreto.
+
+#### Disposición final única.
+
+El presente Real Decreto entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 25 de febrero de 1994.
+
+JUAN CARLOS R.
+
+El Ministro del Interior,
+
+ANTONI ASUNCIÓN HERNÁNDEZ
+
+## REGLAMENTO DE PROCEDIMIENTO SANCIONADOR EN MATERIA DE TRÁFICO, CIRCULACIÓN DE VEHÍCULOS A MOTOR Y SEGURIDAD VIAL
+
+#### Artículo 1. Ámbito de aplicación.
+
+No se impondrá sanción alguna por infracciones a los preceptos de la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial, sino en virtud de procedimiento instruido con arreglo a las normas previstas en el presente Reglamento. En todo aquello que no esté previsto en este Reglamento será de aplicación el procedimiento regulado en el Reglamento de procedimiento para el ejercicio de la potestad sancionadora, aprobado por Real Decreto 1398/1993, de 4 de agosto.
+
+#### Artículo 2. Actuaciones administrativas y jurisdiccionales penales.
+
+1\. Cuando en el procedimiento administrativo se ponga de manifiesto un hecho que ofrezca apariencia de delito o falta penal perseguible de oficio, la autoridad administrativa lo pondrá en conocimiento del Ministerio Fiscal, por si hubiere lugar al ejercicio de la acción penal y proseguirá el procedimiento absteniéndose de dictar resolución mientras la autoridad judicial no pronuncie sentencia firme o dicte otra resolución que le ponga fin.
+
+2\. Concluido el proceso penal con sentencia condenatoria de los inculpados, y una vez acordada la suspensión del procedimiento administrativo, se archivará este procedimiento sin declaración de responsabilidad. Si la sentencia fuera absolutoria o el procedimiento penal acabara por otra resolución que le ponga fin sin declaración de responsabilidad y no estuviera fundada en la inexistencia del hecho, se dictará la resolución que corresponda en el procedimiento administrativo.
+
+> Se modifica por el art. único y el anexo.1 del Real Decreto 318/2003, de 14 de marzo. [Ref. BOE-A-2003-6931](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6931)
+
+#### Artículo 3. Incoación del procedimiento.
+
+El procedimiento sancionador se incoará de oficio por la autoridad competente que tenga noticias de los hechos que puedan constituir infracciones a los preceptos del Texto articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial o mediante denuncia formulada por los agentes de la autoridad encargados de la vigilancia y seguridad del tráfico. Asimismo se podrá incoar un procedimiento por la autoridad competente como consecuencia de denuncia formulada por cualquier persona que tenga conocimiento de los hechos mencionados.
+
+#### Artículo 4. Denuncias de carácter obligatorio y voluntario.
+
+1\. Los agentes de la autoridad encargados del servicio de vigilancia del tráfico deberán denunciar las infracciones que observen cuando ejerzan funciones de vigilancia y control de la circulación vial (artículo 75, apartado 2, del Texto articulado).
+
+2\. Cualquier persona podrá, igualmente, formular denuncias por hechos que puedan constituir infracciones a los preceptos del texto articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial o de sus Reglamentos.
+
+#### Artículo 5. Contenido de las denuncias.
+
+En las denuncias por hechos de circulación deberá constar: la identificación del vehículo con el que se hubiese cometido la supuesta infracción, la identidad del denunciado, si fuere conocida, una relación circunstanciada del hecho, con expresión del lugar, fecha y hora y el nombre, profesión y domicilio del denunciante. Cuando éste sea un agente de la autoridad podrán sustituirse estos datos por su número de identificación (artículo 75, apartado 3, párrafos primero y segundo, del Texto articulado).
+
+#### Artículo 6. Requisitos de las denuncias de carácter obligatorio por hechos de circulación.
+
+Los correspondientes boletines de denuncia se extenderán por triplicado ejemplar. Uno de ellos quedará en poder del denunciante, el segundo se entregará al denunciado si fuera posible y el tercero se remitirá a la Jefatura de Tráfico o Alcaldía correspondiente.
+
+Los boletines serán firmados por el denunciante y el denunciado, sin que la firma de este último implique conformidad con los hechos que motivan la denuncia, sino únicamente con la recepción del ejemplar a él destinado. En el caso de que el denunciado se negase a firmar o no supiere hacerlo, el denunciante así lo hará constar.
+
+#### Artículo 7. Requisitos de las denuncias de carácter voluntario por hechos de circulación.
+
+a) La denuncia podrá formularse verbalmente ante los agentes de vigilancia del tráfico más próximos al lugar del hecho, o por escrito dirigido a la Jefatura de Tráfico o a la Alcaldía del lugar de la infracción, según ostente una u otra la competencia para instruir el expediente.
+
+b) Se harán constar en la denuncia los datos y circunstancias que se consignan en el artículo 5 del presente Reglamento.
+
+c) Si la denuncia se presentase ante los agentes de vigilancia del tráfico, se formalizará por ellos el reglamentario boletín de denuncia, en el que se hará constar, además de los requisitos consignados en el apartado anterior, si personalmente comprobó o no la infracción denunciada, así como el nombre y domicilio del particular denunciante, remitiendo el boletín a la Jefatura de Tráfico o Alcaldía competente para su tramitación, sin perjuicio de entregar un duplicado al denunciado si fuere posible.
+
+#### Artículo 8. Requisitos de las denuncias por hechos ajenos a la circulación.
+
+1\. En las denuncias por hechos ajenos a la circulación se especificarán todos los datos necesarios para la exacta descripción de los mismos (artículo 75, apartado 3, párrafo tercero, del Texto articulado).
+
+2\. En tales denuncias, se consignará el nombre, domicilio, profesión del denunciante y su firma.
+
+#### Artículo 9. Tramitación de denuncias.
+
+1\. Recibida la denuncia en la Jefatura de Tráfico o Alcaldía, se procederá a la calificación de los hechos y graduación de la multa o a la verificación de la calificación y multa consignadas en la misma por el agente denunciante, impulsándose la ulterior tramitación o proponiéndose por el órgano instructor a la autoridad competente la correspondiente resolución que declare la inexistencia de infracción en los casos de que los hechos denunciados no fuesen constitutivos de la misma, o la improcedencia de imponer sanción, en los supuestos en que no pueda identificarse a su autor.
+
+2\. Sin perjuicio de que los órganos competentes puedan comprobar los hechos a que se refieran, en los casos en que puedan suponer un riesgo para la seguridad vial, las denuncias de carácter anónimo serán archivadas sin que deban efectuarse ulteriores trámites al respecto.
+
+#### Artículo 10. Notificación de denuncias.
+
+1\. Como norma general, las denuncias de carácter obligatorio, formuladas por agentes de la autoridad encargados de la vigilancia del tráfico, se notificarán en el acto a los denunciados, haciendo constar en las mismas los datos a que hace referencia el artículo 5 del Reglamento, así como que con ellas quedan incoados los correspondientes expedientes y, en su consecuencia, que disponen de un plazo de quince días para que aleguen cuanto consideren conveniente a su defensa y propongan las pruebas que estimen oportunas. Por razones justificadas que deberán constar en las propias denuncias, podrán notificárseles las mismas con posterioridad.
+
+2\. Las denuncias formuladas por los agentes de la autoridad sin parar a los denunciados no serán válidas a menos que consten en las mismas y se les notifique las causas concretas y específicas por las que no fue posible detener el vehículo.
+
+3\. Será causa legal que justifique la notificación de la denuncia en momento posterior el hecho de formularse en momentos de gran intensidad de circulación o concurriendo factores meteorológicos adversos, obras u otras circunstancias en que la detención del vehículo también pueda originar un riesgo concreto.
+
+Asimismo, la notificación de la denuncia podrá efectuarse en un momento posterior cuando la autoridad haya tenido conocimiento de los hechos a través de medios autorizados de captación y reproducción de imágenes que permitan la identificación del vehículo.
+
+Procederá también la notificación de la denuncia en momento posterior a su formulación en los casos de vehículos estacionados cuando el conductor no esté presente.
+
+> Se añade el apartado 3 por el art. único y el anexo.2 del Real Decreto 318/2003, de 14 de marzo. [Ref. BOE-A-2003-6931](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6931)
+
+#### Artículo 11. Domicilio de notificaciones.
+
+1\. A efectos de notificaciones, se considerará domicilio del conductor y del titular del vehículo aquel que los interesados hayan expresamente indicado y, en su defecto, el que figure en los Registros de Conductores e Infractores, y en el de vehículos, respectivamente (artículo 78, apartado 1, párrafo primero, del Texto articulado).
+
+Tanto los titulares de vehículos como de permisos para conducir están obligados a comunicar los cambios de domicilio (artículo 78, apartado 1, párrafo segundo, del Texto articulado).
+
+2\. Las notificaciones de las denuncias que no se entreguen en el acto y las demás notificaciones a que dé lugar el procedimiento sancionador, se cursarán al domicilio indicado en el anterior apartado de este artículo y se ajustarán el régimen y requisitos previstos en la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común (artículo 78, apartado 2, del Texto articulado).
+
+3\. Las denuncias formuladas en materia de centros de formación de conductores y de conocimientos para conductores, se notificarán al domicilio que de dichos centros figure en los correspondientes Registros.
+
+#### Artículo 12. Instrucción del procedimiento.
+
+1\. Los órganos competentes de las Jefaturas de la Dirección General de Tráfico y de los Ayuntamientos serán los instructores del expediente y deberán notificar las denuncias, si no se hubiere hecho por el denunciante, al presunto infractor, concediéndole un plazo de quince días para que alegue cuanto considere conveniente a su defensa y proponga las pruebas que estime oportunas.
+
+2\. El abono del importe de la multa indicado en la notificación de la denuncia, tanto si es seña lado por el agente en el acto de la denuncia, como en la notificación enviada posteriormente por el instructor, implicará la terminación del procedimiento una vez concluido el trámite de alegaciones sin que el denunciado las haya formulado, finalizando el expediente, salvo que se acuerde la suspensión del permiso o licencia para conducir y sin perjuicio de la posibilidad de interponer el recurso correspondiente.
+
+**(Párrafo anulado)**
+
+Cuando se haya minorado la cuantía de la sanción pecuniaria por pago anticipado efectuado con anterioridad a la resolución que se dicte, no será posible aplicar a la cantidad resultante ninguna otra reducción basada en la realización de medidas reeducadoras. No obstante, la minoración de la sanción pecuniaria por pago anticipado será compatible con la reducción por el desarrollo de medidas reeducadoras de la sanción de suspensión de la autorización para conducir o con el fraccionamiento de esta última sanción.
+
+3\. De las alegaciones del denunciado salvo que no aporten datos nuevos o distintos de los inicialmente constatados por el denunciante, se dará traslado a éste, para que informe en el plazo máximo de quince días.
+
+> Se declara la nulidad del segundo párrafo del apartado 2 por Sentencia del TS de 27 de octubre de 2004. [Ref. BOE-A-2005-1214](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1214)
+
+> Se reenumera el apartado 2 como 3 y se añade el apartado 2 por el art. único y el anexo.3 del Real Decreto 318/2003, de 14 de marzo. [Ref. BOE-A-2003-6931](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6931)
+
+#### Artículo 13. Período de prueba.
+
+1\. Cuando fuera necesario para la averiguación y calificación de los hechos o para la determinación de las posibles responsabilidades, el instructor acordará la apertura de un período de prueba, por un plazo no superior a treinta días ni inferior a diez, a fin de que puedan practicarse cuantas sean adecuadas.
+
+El instructor del procedimiento sólo podrá rechazar mediante resolución motivada las pruebas propuestas por los interesados, cuando sean improcedentes.
+
+En los casos en que, a petición del interesado, deban efectuarse pruebas cuya realización implique gastos que no deba soportar la Administración, ésta podrá exigir el anticipo de los mismos, a reserva de la liquidación definitiva, una vez practicada la prueba. La liquidación de los gastos se practicará uniendo los comprobantes que acrediten la realidad y cuantía de los mismos.
+
+2\. Una vez concluida la instrucción del procedimiento y practicada la audiencia al interesado por el órgano correspondiente, salvo cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos y otras alegaciones y pruebas que las aducidas por el interesado, el instructor elevará propuesta de resolución al órgano que tenga atribuida la competencia sancionadora para que dicte la resolución que proceda.
+
+3\. Cuando, por razón de la posible sanción de suspensión de la autorización administrativa para conducir, la Administración General del Estado deba conocer del expediente resuelto por las autoridades competentes de la Administración local o autonómica que hayan impuesto la sanción de multa correspondiente, estas autoridades, una vez que haya adquirido firmeza su resolución, remitirán el expediente a la autoridad competente de la Administración General del Estado. Esta última autoridad notificará la propuesta de resolución que contemple la suspensión del permiso o licencia de conducción que se pueda acordar y dará traslado ésta en trámite de audiencia, por 15 días, al interesado.
+
+> Se añade el apartado 3 por el art. único y el anexo.4 del Real Decreto 318/2003, de 14 de marzo. [Ref. BOE-A-2003-6931](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6931)
+
+> Se modifica el apartado 2 por el art. único del Real Decreto 137/2000, de 4 de febrero. [Ref. BOE-A-2000-3268](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3268)
+
+#### Artículo 14. Presunción de veracidad de las denuncias efectuadas por los agentes de la autoridad.
+
+Las denuncias efectuadas por los agentes de la autoridad encargados de la vigilancia del tráfico tendrán valor probatorio respecto de los hechos denunciados, sin perjuicio del deber de aquéllos de aportar todos los elementos probatorios que sean posibles sobre el hecho denunciado y de las pruebas que en defensa de los respectivos derechos o intereses puedan señalar o aportar los propios denunciados.
+
+#### Artículo 15.
+
+1\. Los Delegados o Subdelegados del Gobierno, en su caso, y los Alcaldes, dictarán resolución sancionadora o resolución que declare la inexistencia de responsabilidad por la infracción. Dicha resolución se dictará por escrito conforme previene el artículo 55.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, salvo que los órganos administrativos ejerzan su competencia de forma verbal, en cuyo caso el titular de la competencia deberá autorizar una relación de las que haya dictado de forma verbal con expresión de su contenido conforme previene el artículo 55.2 de la referida ley. La resolución habrá de notificarse en el plazo de un año desde que se inició el procedimiento, deberá ser motivada y decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del procedimiento.
+
+2\. La resolución no podrá tener en cuenta hechos distintos de los determinados en la fase de instrucción del procedimiento, sin perjuicio de su diferente valoración jurídica.
+
+3\. Las autoridades que tengan atribuida la potestad sancionadora en materia de tráfico, circulación de vehículos a motor y seguridad vial, podrán delegar sus competencias en los Jefes Provinciales y Locales de Tráfico o en éstos y en los Subdelegados del Gobierno correspondientes cuando se trate del Delegado del Gobierno. La potestad sancionadora también podrá delegarse por los Alcaldes con arreglo a las normas por las que se rige la Administración local.
+
+> Se modifica el apartado 1 por el art. único y el anexo.5 del Real Decreto 318/2003, de 14 marzo. [Ref. BOE-A-2003-6931](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6931)
+
+> Se modifica por el art. único del Real Decreto 137/2000, de 4 de febrero. [Ref. BOE-A-2000-3268](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3268)
+
+#### Artículo 16. Caducidad.
+
+Si no hubiera recaído resolución sancionadora transcurrido un año desde la iniciación del procedimiento, se producirá la caducidad de éste y se procederá al archivo de las actuaciones, a solicitud de cualquier interesado o de oficio por el órgano competente para dictar la resolución. Cuando la paralización del procedimiento se hubiera producido a causa del conocimiento de los hechos por la jurisdicción penal y cuando hubiera intervenido otra autoridad competente para imponer la sanción de multa y que haya de trasladar el expediente para substanciar la suspensión de la autorización administrativa para conducir a la Administración General del Estado, el plazo de caducidad se suspenderá y reanudará, por el tiempo que reste hasta un año, una vez haya adquirido firmeza la resolución judicial o administrativa correspondiente.
+
+La interrupción de la caducidad se computará desde que se notifique la resolución al interesado y se reanudará cuando la resolución sea firme, bien porque la consienta el interesado, bien porque se resuelva el recurso interpuesto por éste.
+
+> Se modifica por el art. único y el anexo.6 del Real Decreto 318/2003, de 14 de marzo. [Ref. BOE-A-2003-6931](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6931)
+
+> Se modifica por el art. único del Real Decreto 137/2000, de 4 de febrero. [Ref. BOE-A-2000-3268](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3268)
+
+#### Artículo 17. Recursos.
+
+1\. Contra las resoluciones de los expedientes sancionadores que sean competencia de los Delegados del Gobierno en las comunidades autónomas, podrá interponerse dentro del plazo de un mes recurso de alzada ante el Ministro del Interior. En igual plazo serán recurribles ante el Delegado del Gobierno correspondiente las sanciones impuestas por los Subdelegados del Gobierno.
+
+La competencia para resolver el recurso de alzada previsto en el párrafo anterior podrá delegarse en el Director General de Tráfico.
+
+Las resoluciones de los recursos de alzada serán recurribles ante el orden jurisdiccional contencioso-administrativo en los términos previstos en su ley reguladora.
+
+Transcurridos tres meses desde la interposición del recurso de alzada sin que recaiga resolución, se podrá entender desestimado, quedando expedita la vía contencioso administrativa.
+
+2\. Contra las resoluciones de los expedientes sancionadores dictadas por los órganos competentes de las comunidades autónomas que tengan transferidas competencias ejecutivas en materia de tráfico y circulación de vehículos a motor, así como las dictadas por los Alcaldes, en el caso de las entidades locales, se estará a lo establecido en la normativa correspondiente.
+
+> Se modifica por el art. único y el anexo.7 del Real Decreto 318/2003, de 14 de marzo. [Ref. BOE-A-2003-6931](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6931)
+
+> Se modifica el apartado 1 por el art. único del Real Decreto 137/2000, de 4 de febrero. [Ref. BOE-A-2000-3268](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3268)
+
+#### Artículo 18. Prescripción.
+
+1\. El plazo de prescripción de las infracciones previstas en el texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial será el de tres meses para las infracciones leves, seis meses para las infracciones graves, y un año para las infracciones muy graves y para las infracciones previstas en el artículo 67.2 de dicho texto articulado.
+
+El plazo de prescripción se cuenta a partir del día en que los hechos se hubieran cometido. La prescripción se interrumpe por cualquier actuación administrativa de la que tenga conocimiento el denunciado o esté encaminada a averiguar su identidad o domicilio y se practiquen con proyección externa a la dependencia en que se origine. También se interrumpe la prescripción por la notificación efectuada de acuerdo con lo establecido en el artículo 78 del texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial. La prescripción se reanuda si el procedimiento se paraliza durante más de un mes por causa no imputable al denunciado.
+
+2\. El plazo de prescripción de las sanciones será de un año, computado desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se imponga la correspondiente sanción.
+
+Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél está paralizado durante más de un mes por causa no imputable al infractor.
+
+3\. La prescripción se aplicará de oficio por los órganos competentes en las diversas fases de tramitación del expediente.
+
+> Se modifican los apartados 1 y 2 por el art. único y el anexo.8 del Real Decreto 318/2003, de 14 de marzo. [Ref. BOE-A-2003-6931](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6931)
+
+> Se modifica el apartado 1 por el art. 2 del Real Decreto 116/1998, de 30 de enero. [Ref. BOE-A-1998-3729](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3729)
+
+#### Artículo 19. Anotación de las sanciones graves y muy graves.
+
+1\. Una vez que adquieran firmeza las sanciones graves y muy graves, serán anotadas por la Jefatura de Tráfico en que se instruyó el expediente en el Registro de conductores e infractores y, cuando proceda, en los registros a que se refiere el artículo 5.h) del texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial. Cuando dichas sanciones hayan sido impuestas por los Alcaldes o por las autoridades competentes de las comunidades autónomas, se comunicarán para su anotación a los registros referidos en el plazo de 15 días siguientes a su firmeza. Las anotaciones se cancelarán de oficio a efectos de antecedentes una vez transcurridos dos años desde su total cumplimiento o prescripción.
+
+2\. La anotación de las sanciones interesadas por las autoridades judiciales u otras autoridades administrativas se practicará por la Jefatura de Tráfico de su demarcación, salvo que se establezca un sistema informático por el que se pueda realizar directamente en los registros de la Dirección General de Tráfico.
+
+3\. En la anotación y en su petición habrá de constar el documento nacional de identidad del sancionado, precepto aplicado, naturaleza y duración de la sanción impuesta.
+
+4\. Los datos relativos a las sanciones anotadas en los Registros sólo se certificarán a petición del propio interesado, de las autoridades judiciales o de las administrativas con potestad sancionadora en materia de tráfico y transcurrido el plazo a que se refiere el número 1 de este artículo, únicamente se podrán utilizar por la Dirección General de Tráfico para fines estadísticos o de gestión reglamentaria.
+
+> Se modifican los apartados 1 y 2 por el art. único y el anexo.9 del Real Decreto 318/2003, de 14 de marzo. [Ref. BOE-A-2003-6931](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6931)
+
+#### Artículo 20. Ejecución de las sanciones.
+
+1\. No se podrá proceder a la ejecución de las sanciones previstas en el Texto articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial que no hayan adquirido firmeza en vía administrativa (artículo 83, apartado 1, del Texto articulado).
+
+2\. La suspensión de las autorizaciones reguladas en el Texto articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial se llevará a efecto, una vez que adquiera firmeza la sanción impuesta, mediante orden cursada al infractor para que entregue el documento al agente de la autoridad que se le indique.
+
+En caso de desobediencia a dicha orden, se pasará el tanto de culpa a la autoridad judicial (artículo 83, apartado 2, del Texto articulado).
+
+3\. Con independencia de lo señalado en el número anterior, se tomará razón en los registros correspondientes del período de suspensión. El ejercicio de las actividades propias de la respectiva autorización durante dicho período, aunque se haga con el documento no entregado, será considerada, a todos los efectos, como infracción a lo dispuesto en el artículo 60 del Texto arti culado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial (artículo 83, apartado 3, del Texto articulado).
+
+#### Artículo 21. Cobro de multas.
+
+1\. Las multas deberán hacerse efectivas a los órganos de recaudación de la Administración gestora, directamente o a través de entidades de depósitos, dentro de los quince días hábiles siguientes a la fecha de su firmeza (artículo 84, apartado 1, del Texto articulado).
+
+2\. Vencido el plazo de ingreso establecido en el apartado anterior sin que se hubiese satisfecho la multa, su exacción se llevará a cabo por el procedimiento de apremio. A tal efecto, será título ejecutivo la certificación de descubierto expedida por el órgano competente de la Administración gestora (artículo 84, apartado 2, del Texto articulado).
+
+3\. Cuando las sanciones hayan sido impuestas por la Administración General del Estado, los órganos y procedimientos de la recaudación ejecutiva serán los establecidos en el Reglamento General de Recaudación y demás normas de aplicación. En los demás casos, serán los establecidos en la legislación aplicable por las autoridades que las hayan impuesto (artículo 84, apartado 3, del Texto articulado).
+
+4\. Los actos de gestión recaudatoria en vía de apremio dictados por los órganos de la Administración General del Estado respecto de las multas impuestas en aplicación del Texto articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial serán impugnables en vía económico-administrativa (artículo 84, apartado 4, del Texto articulado).

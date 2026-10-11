@@ -1,0 +1,209 @@
+---
+title: "Real Decreto 30/1991, de 18 de enero, sobre régimen orgánico y funcional de la Junta Consultiva de Contratación Administrativa"
+identifier: "BOE-A-1991-1735"
+eli: "https://www.boe.es/eli/es/rd/1991/01/18/30"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1991-01-18
+published: 1991-01-22
+in_force_from: 1991-02-11
+last_amended: 2018-09-08
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 19"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-1735"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 30/1991, de 18 de enero, sobre régimen orgánico y funcional de la Junta Consultiva de Contratación Administrativa
+
+Téngase en cuenta que las referencias efectuadas por el presente Real Decreto a la Junta Consultiva de Contratación Administrativa se entenderán hechas a la Junta Consultiva de Contratación Pública del Estado, según establece la disposición final 1 del Real Decreto 256/2018, de 4 de mayo. [Ref. BOE-A-2018-6044](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6044)
+
+La disposición adicional primera de la Ley de Contratos del Estado, texto articulado aprobado por Decreto 923/1965, de 8 de abril, faculta al Ministerio de Hacienda a proponer al Gobierno las disposiciones reglamentarias que fueran precisas para el cumplimiento de esta Ley. Dentro de estas facultades, resulta conveniente dictar las normas conducentes a la reorganización de la Junta Consultiva de Contratación Administrativa, con el fin de que pueda cumplir debidamente los cometidos que le asigna aquella Ley y su Reglamento.
+
+Creada por el Decreto 239/1960, de 4 de febrero, como órgano consultivo de la Administración dependiente del Ministerio de Hacienda, la Junta ha visto ampliadas sus competencias por la promulgación de distintas normas, siendo actualmente el órgano consultivo de la Administración del Estado y sus Organismos autónomos en materia de contratación, desarrollando al propio tiempo una importante actividad como es el Registro de Contratos y la clasificación de contratistas de obras del Estado y de empresas consultoras y servicios, además de la elaboración y propuesta al Gobierno de los índices oficiales de revisión de precios de los contratos de obra.
+
+Los cambios producidos en la Administración desde la entrada en vigor del Decreto 315/1971, de 18 de febrero, y su modificación llevada a cabo por el Real Decreto 2651/1982, de 24 de septiembre, sobre régimen orgánico y funcional de la Junta Consultiva, aconsejan promulgar este Real Decreto en el que se establece en un texto único la composición y competencias de los distintos órganos colegiados integrados en la Junta, cuya regulación se encuentra actualmente dispersa en distintas normas, y se incluye en la Comisión Permanente y en las Comisiones de Clasificación de Contratistas de Obras y de Empresas Consultoras y de Servicios a distintos Departamentos ministeriales que anteriormente no participaban en las mismas, sin que la unificación afecte al Comité Superior de Precios de Contratos del Estado al estar regulada su composición en el Decreto-ley 2/1964, de 4 de febrero. También se incluye en la nueva regulación de la Junta Consultiva de Contratación Administrativa la posibilidad de que las Comunidades Autónomas y las Entidades locales puedan solicitar informe de la misma, toda vez que ello es una consecuencia del principio de colaboración entre las Administraciones Públicas que puede hacerse especialmente conveniente en razón a las especificidades técnicas de la normativa básica del Estado en materia de contratos administrativos.
+
+Afectando la reforma que ahora se produce a la casi totalidad de los artículos del Decreto 315/1971, de 18 de febrero, con la redacción dada a determinados de ellos por el Real Decreto 2651/1982, de 24 de septiembre, ha parecido más conveniente, desde un punto de vista de técnica jurídica, la promulgación de un nuevo Real Decreto, que la modificación parcial de la normativa actualmente en vigor.
+
+En su virtud, a propuesta del Ministro de Economía y Hacienda, previo informe favorable de la Junta Consultiva de Contratación Administrativa, previa aprobación del Ministro para las Administraciones Públicas, de acuerdo con el dictamen del Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de enero de 1991,
+
+DISPONGO:
+
+## TÍTULO I — Naturaleza y competencia de la Junta Consultiva de Contratación Administrativa
+
+#### Artículo 1.
+
+La Junta Consultiva de Contratación Administrativa, adscrita al Ministerio de Economía y Hacienda, tiene el carácter de órgano consultivo de la Administración del Estado de sus Organismos autónomos y demás Entes públicos estatales, en materia de contratación administrativa y ejerce, además, las funciones que la legislación vigente le atribuye en orden a la clasificación de los contratistas, a la elaboración de los índices oficiales a efectos de la revisión de precios en los contratos y respecto del Registro de Contratos.
+
+#### Artículo 2.
+
+Es competencia de la Junta:
+
+1\. Informar sobre las cuestiones que se sometan a su consideración y, con carácter preceptivo, sobre las siguientes:
+
+a) Las disposiciones complementarias a que se refiere la disposición final tercera del Reglamento General de Contratación del Estado.
+
+b) Los pliegos de cláusulas administrativas generales y los de cláusulas administrativas particulares en que se proponga la inclusión de estipulaciones contrarias a lo previsto en aquéllos.
+
+c) Las demás cuestiones previstas en la legislación vigente.
+
+2\. Elaborar y proponer las disposiciones reglamentarias precisas para el cumplimiento y desarrollo de la Ley de Contratos del Estado.
+
+3\. Elaborar y proponer y, en su caso, adoptar en el ámbito de su competencia, las normas, instrucciones y medidas generales que considere necesarias en relación con la contratación administrativa.
+
+4\. Velar por el estricto cumplimiento de la legislación de contratos del Estado y, de modo especial, por el respeto de los principios de publicidad y concurrencia y de las prerrogativas de la Administración en los contratos que celebre. En el ejercicio de esta competencia corresponde a la Junta:
+
+a) Dirigir el Registro de Contratos a que se refiere el artículo 110 de la Ley de Contratos del Estado.
+
+b) Realizar encuestas e investigaciones sobre contratación administrativa.
+
+c) Exponer a los órganos de contratación las recomendaciones e instrucciones que considere pertinentes en función de la competencia que le está atribuida.
+
+5\. Desempeñar las funciones que le atribuyen la Ley de Contratos del Estado y las disposiciones que la desarrollan en materia de clasificación de los contratistas y las que le confiere el Decreto-ley 2/1964, de 4 de febrero, sobre inclusión de cláusulas de revisión en los contratos del Estado y Organismos autónomos.
+
+6\. Cualesquiera otras atribuciones que le otorguen las disposiciones vigentes.
+
+## TÍTULO II — Organización de la Junta Consultiva de Contratación Administrativa
+
+#### Artículo 3.
+
+La Junta podrá actuar en Pleno, en Comisión Permanente, en Secciones, en Comisiones de Clasificación y en Comité Superior de Precios.
+
+#### Artículo 4.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 1098/2001, de 12 de octubre. [Ref. BOE-A-2001-19995](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-19995).
+
+#### Artículo 5.
+
+La Junta conocerá en Pleno de aquellos asuntos y expedientes que, después de haber sido objeto de consideración por la Comisión Permanente o por las Secciones, estime el Presidente que deban serlo por aquél en razón de su importancia.
+
+#### Artículo 6.
+
+La Comisión Permanente tendrá como función el conocimiento de aquellos asuntos y expedientes que sean de carácter general o afecten a más de un Departamento ministerial y estará formada por los siguientes miembros:
+
+1\. El Presidente que será el Director general del Patrimonio del Estado.
+
+2\. El Vicepresidente que será el Vicepresidente segundo del Pleno.
+
+3\. Los cuatro Vocales a que se refiere el artículo 4, apartado 3.
+
+4\. Un Vocal en representación, respectivamente, de cada uno de los Ministerios de Justicia, Defensa, Obras Públicas y Urbanismo, Educación y Ciencia, Trabajo y Seguridad Social, Industria y Energía, Agricultura, Pesca y Alimentación, Transportes, Turismo y Comunicaciones, Administraciones Públicas, Relaciones con las Cortes y de la Secretaría del Gobierno y Sanidad y Consumo, designados por el Subsecretario de Economía y Hacienda a propuesta de los distintos Ministerios entre los que formen parte del Pleno.
+
+5\. Dos Vocales de los representantes de las organizaciones empresariales, designados por el Presidente de la Comisión entre los que formen parte del Pleno.
+
+6\. El Secretario de la Junta.
+
+> Téngase en cuenta que este artículo conserva su vigencia sólo en cuanto se refiere a las competencias de la Comisión Permanente, según establece la disposición derogatoria única.1.b) del Real Decreto 1098/2001, de 12 de octubre. [Ref. BOE-A-2001-19995](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-19995).
+
+> Se conserva su vigencia en cuanto se refiere a las competencias de la Comisión Permanente, por la disposición derogatoria única.1.b) del Real Decreto 1098/2001, de 12 de octubre. [Ref. BOE-A-2001-19995](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-19995).
+
+#### Artículo 7.
+
+Las Secciones conocerán de aquellos asuntos y expedientes no atribuidos al Pleno o a la Comisión Permanente y estarán constituidas por los siguientes miembros:
+
+1\. El Presidente de la Comisión Permanente.
+
+2\. Los cuatro Vocales a que se refiere el artículo 4, apartado 3.
+
+3\. Los dos Vocales representantes del Departamento del que proceda o al que afecte el asunto o expediente de que se trate.
+
+4\. Los dos Vocales representantes de las organizaciones empresariales en la Comisión Permanente.
+
+5\. El Secretario de la Junta.
+
+> Téngase en cuenta que este artículo conserva su vigencia sólo en cuanto se refiere a las competencias de las Secciones de la Junta Consultiva de Contratación Administrativa, según establece la disposición derogatoria única.1.b) del Real Decreto 1098/2001, de 12 de octubre. [Ref. BOE-A-2001-19995](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-19995).
+
+> Se conserva su vigencia en cuanto se refiere a las competencias de las Secciones de la Junta Consultiva de Contratación Administrativa, por la disposición derogatoria única.1.b) del Real Decreto 1098/2001, de 12 de octubre. [Ref. BOE-A-2001-19995](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-19995).
+
+#### Artículos 8 a 12.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1.b) del Real Decreto 1098/2001, de 12 de octubre. [Ref. BOE-A-2001-19995](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-19995).
+
+#### Artículo 13.
+
+Los órganos de apoyo técnico a la Junta Consultiva de Contratación Pública del Estado están constituidos por la Secretaría de la Junta Consultiva de Contratación Pública del Estado, la Subdirección General de Clasificación de Contratistas y Registro de Contratos, la Subdirección General de Coordinación de la Contratación Electrónica y la Subdirección General de Gobernanza y Coordinación de la contratación pública, que están adscritos orgánicamente a la Dirección General del Patrimonio del Estado
+
+> Se modifica por la disposición final 1 del Real Decreto 1113/2018, de 7 de septiembre. [Ref. BOE-A-2018-12265](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-12265)
+
+> Se modifica por la disposición final 1 del Real Decreto 1407/2007, de 29 de octubre. [Ref. BOE-A-2007-18777](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18777).
+
+> Se modifica por la disposición final 4 del Real Decreto 1552/2004, de 25 de junio. [Ref. BOE-A-2004-12014](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-12014).
+
+> Se modifica por la disposición adicional 1 del Real Decreto 1078/2002, de 21 de octubre. [Ref. BOE-A-2002-21076](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-21076).
+
+#### Artículo 14.
+
+El Secretario de la Junta Consultiva de Contratación Administrativa será el Jefe de la Secretaría y tendrá a su cargo las funciones siguientes:
+
+1\. Estudiar, elaborar y someter a consideración de los órganos de la Junta, a través de su Presidente, las propuestas de acuerdo en relación con los asuntos y expedientes que, de conformidad con lo dispuesto en el artículo 2.°, del presente Decreto, son de la competencia de aquélla.
+
+2\. Levantar acta de las sesiones, velar por el cumplimiento de los acuerdos y, en general, ejercer respecto de los órganos de la Junta las funciones que la Ley de Procedimiento Administrativo atribuye a los Secretarios de los órganos colegiados.
+
+3\. Las funciones que le encomienden los Presidentes de los órganos colegiados y cualesquiera otra que le atribuyan las disposiciones vigentes.
+
+El Secretario de la Junta será auxiliado y sustituido por un Vicesecretario que será nombrado por el Ministerio de Economía y Hacienda.
+
+#### Artículo 15.
+
+La Secretaria de la Junta tendrá a su cargo la ordenación y archivo de la documentación de la Junta y la preparación de los antecedentes necesarios e informes de orden técnico y administrativo sobre los asuntos que deban ser sometidos a la consideración de los órganos colegiados integrados en la Junta.
+
+## TÍTULO III — Funcionamiento de la Junta Consultiva de Contratación Administrativa
+
+#### Artículo 16.
+
+La convocatoria del Pleno, Comisión Permanente, Secciones, Comisiones de Clasificación y Comité Superior de Precios, asi como su régimen de constitución, de adopción de los acuerdos y de celebración de las sesiones se acomodará a lo dispuesto en el capítulo ll del título primero de la Ley de Procedimiento Administrativo.
+
+#### Artículo 17.
+
+La Junta emitirá sus informes a petición de los Subsecretarios y Directores generales de los Departamentos ministeriales, Presidentes y Directores generales de Organismos autónomos y Entes públicos, Interventor general de la Administración del Estado y los Presidentes de las organizaciones empresariales representativas de los distintos sectores afectados por la contratación administrativa.
+
+Igualmente podrán solicitar informes de la Junta los titulares de las Consejerías de las Comunidades Autónomas y los Presidentes de las Entidades locales.
+
+Los informes se trasladarán a los órganos que los hubieren solicitado, por conducto del Presidente de la Junta. Cuando éste considere que revisten interés general, los pondrá también en conocimiento de los órganos de contratación.
+
+Sin perjuicio de ello, los órganos de contratación y las organizaciones empresariales representativas de los distintos sectores de la contratación administrativa podrán elevar a la Junta mociones en materia de su específica competencia, que serán informadas por la Secretaría de la Junta y sometidas al Presidente de la Comisión Permanente, por si estima que el interés del tema planteado justifica su consideración por el órgano correspondiente de la Junta. En caso contrario, la Secretaría trasladará su informe al órgano remitente.
+
+#### Artículo 18.
+
+Para el ejercicio de la competencia a que se refiere el apartado 2 del artículo 2.° del presente Decreto, la Comisión Permanente de la Junta, a propuesta de cualquiera de sus miembros, acordará que por la Secretaría se proceda a la elaboración de un anteproyecto de la disposición general correspondiente.
+
+Aprobado el anteproyecto por la Comisión Permanente y, en su caso, por el Pleno, el Presidente de la Junta propondrá al Ministro de Economía y Hacienda la iniciación del procedimiento a que se refiere el capítulo primero del título IV de la Ley de Procedimiento Administrativo.
+
+#### Artículo 19.
+
+En los supuestos en que el asunto sobre el que se solicita informe de la Junta le sean aplicables criterios mantenidos de manera reiterada en dictámenes acordados anteriormente, el informe podrá ser emitido por el Presidente de la Comisión Permanente, a propuesta del Secretario, sin necesidad de ser sometido a la consideración del órgano colegiado competente.
+
+#### Artículo 20.
+
+Cuando la Comisión Permanente de la Junta acuerde realizar encuestas e investigaciones sobre la contratación administrativa, designará de entre sus miembros una ponencia, dirigida por el Secretario, que rendirá informe en el plazo que se establezca sobre los extremos señalados en el acuerdo de la Comisión.
+
+Para el desempeño de su cometido, la ponencia tendrá acceso a los órganos y servicios de contratación afectados por la encuesta o investigación, que deberán facilitar los datos, documentos o antecedentes que aquélla les reclame, salvo que tengan carácter secreto o reservado.
+
+A la vista del informe de la ponencia, la Comisión Permanente y, en su caso, el Pleno de la Junta, a propuesta en ambos casos de su Presidente, podrá acordar la elaboración de las recomendaciones que considere pertinente dirigir a los órganos de contratación o resolver lo que proceda..
+
+#### Artículo 21.
+
+La Memoria anual de la Junta será elaborada por la Secretaría, en cumplimiento de lo dispuesto en el artículo 339 del Reglamento General de Contratación del Estado, en base a los informes y conclusiones que se emitan por Ios órganos integrados en la Junta, así como a los datos que ofrezca el Registro de Contratos.
+
+El proyecto de Memoria se trasladará a los Vocales al objeto de que puedan presentar las observaciones que estimen convenientes.
+
+### DISPOSICIÓN FINAL
+
+A la entrada en vigor de este Real Decreto quedarán derogadas las disposiciones de igual o inferior rango que se opongan a lo que en el mismo se establece y, en particular, el artículo 304 del Reglamento General de Contratación del Estado, el Decreto 315/1971, de 18 de febrero, el artículo 15 del Real Decreto 609/1982, de 12 de febrero, y el Real Decreto 2651/1982, de 24 de septiembre.
+
+Dado en Madrid a 18 de enero de 1991.
+
+JUAN CARLOS R.
+
+El Ministro de Economía y Hacienda,
+
+CARLOS SOLCHAGA CATALÁN

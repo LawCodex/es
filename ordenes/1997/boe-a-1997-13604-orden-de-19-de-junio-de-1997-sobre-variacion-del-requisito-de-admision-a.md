@@ -1,0 +1,49 @@
+---
+title: "Orden de 19 de junio de 1997 sobre variación del requisito de admisión a negociación en Bolsa de Valores previsto en el artículo 32.1.c) del Reglamento de Bolsas de Comercio, aprobado por Decreto 1506/1967, de 30 de junio"
+identifier: "BOE-A-1997-13604"
+eli: "https://www.boe.es/eli/es/o/1997/06/19/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1997-06-19
+published: 1997-06-21
+in_force_from: 1997-06-22
+last_amended: 1999-12-30
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 148"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-13604"
+retrieved: 2026-10-11
+---
+
+# Orden de 19 de junio de 1997 sobre variación del requisito de admisión a negociación en Bolsa de Valores previsto en el artículo 32.1.c) del Reglamento de Bolsas de Comercio, aprobado por Decreto 1506/1967, de 30 de junio
+
+El artículo 32 del vigente Reglamento de Bolsas (aprobado por Decreto 1506/1967, de 30 de junio) determina en su número 2.º que el Ministerio de Economía y Hacienda puede variar los requisitos mínimos sobre admisión de valores a negociación en una Bolsa de Valores preceptuados en el mencionado artículo, siempre que, de un lado, concurran circunstancias que lo justifiquen y, de otro, medien los preceptivos informes.
+
+A tenor de dicha facultad, en esta Orden se posibilita que se excepcione, en concreto, el requisito contemplado en el apartado c) del número 1.º (beneficios obtenidos a lo largo de una serie de ejercicios) siempre que concurra alguna de las circunstancias que se precisan. En dichos casos, en el procedimiento de admisión de un valor a negociación, la Comisión Nacional del Mercado de Valores podrá excepcionar la concurrencia de la obtención de beneficios por parte de una entidad que pretenda obtener la calificación bursátil.
+
+En su virtud, previo informe del Comité Consultivo, dispongo:
+
+## Primero. Variación del requisito mínimo de beneficios obtenidos.
+
+El requisito a que hace mención el artículo 32.1.c) del Reglamento de Bolsas podrá ser excepcionado en el procedimiento de verificación de la admisión a negociación en dichos mercados por la Comisión Nacional del Mercado de Valores cuando concurra alguna de las siguientes circunstancias:
+
+a) Que la entidad emisora, con independencia del plazo que haya transcurrido desde su constitución, aporte un informe a la Comisión Nacional del Mercado de Valores de su órgano de administración sobre las perspectivas de negocio y financieras de la entidad y sobre las consecuencias que, a su particular juicio, tendrán sobre la evolución de sus resultados en los ejercicios venideros. Dicha información deberá incluirse en la información que la Comisión Nacional del Mercado de Valores registre y ponga a disposición del público con ocasión de la verificación del folleto correspondiente, con el fin de que el mercado y los potenciales inversores puedan obtener una imagen adecuada de la inversión en dichos valores.
+
+b) Que la entidad emisora se haya constituido como consecuencia de una operación de fusión, escisión o aportación de rama de actividad.
+
+c) Que se trate de un emisor que esté en proceso de reordenación o reestructuración económica o de privatización por una entidad pública.
+
+> Se modifica la letra a) por el apartado 2 de la Orden de 22 de diciembre de 1999. [Ref. BOE-A-1999-24791](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24791).
+
+## Segundo. Entrada en vigor.
+
+La presente Orden entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 19 de junio de 1997.
+
+DE RATO Y FIGAREDO
+
+Excmo. Sr. Presidente de la Comisión Nacional del Mercado de Valores e Ilmo. Sr. Director general del Tesoro y Política Financiera.

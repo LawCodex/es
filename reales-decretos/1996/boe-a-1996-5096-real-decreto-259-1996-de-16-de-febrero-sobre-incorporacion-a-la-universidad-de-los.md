@@ -1,0 +1,141 @@
+---
+title: "Real Decreto 259/1996, de 16 de febrero, sobre incorporación a la Universidad de los estudios superiores de turismo"
+identifier: "BOE-A-1996-5096"
+eli: "https://www.boe.es/eli/es/rd/1996/02/16/259"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1996-02-16
+published: 1996-03-05
+in_force_from: 1996-03-06
+last_amended: 1999-12-10
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 56"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-5096"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 259/1996, de 16 de febrero, sobre incorporación a la Universidad de los estudios superiores de turismo
+
+El turismo se ha consolidado como una de las principales actividades económicas de la sociedad española, con gran incidencia en la balanza de pagos, en la creación de empleo y en el producto interior bruto. Esta realidad, a la que se suman, junto a otros factores, la internacionalización de los mercados, tanto emisores como receptores, la implantación de nuevos sistemas de gestión y planificación empresarial, así como de programas de l+D y de sistemas de información tecnológicamente avanzados y la necesidad de integrar de forma coherente el sector turístico en los entornos natural y urbano, convierte en inevitable el proceso iniciado de mejora e impulso de las enseñanzas turísticas y la adaptación de las mismas a las demandas del sector.
+
+El Real Decreto 865/1980, de 14 de abril, sobre ordenación de las enseñanzas turísticas especializadas, regula las enseñanzas que se imparten en la actualidad, dirigidas a la formación de profesionales de nivel directivo en el campo del turismo. Los estudios se estructuran a lo largo de tres cursos académicos y dan lugar al título de Técnico de Empresas y Actividades Turísticas, equivalente al de Diplomado universitario.
+
+Las enseñanzas especializadas de turismo se imparten en la Escuela Oficial de Turismo, centro estatal dependiente del Ministerio de Comercio y Turismo, en otras Escuelas Oficiales que se han ido creando en los últimos años en Baleares, Canarias, Castilla y León, Cataluña y Valencia, así como en numerosos centros de carácter privado repartidos por toda la geografía nacional. En este sentido, es preciso reconocer la labor desarrollada por estas escuelas y, muy especialmente, destacar la valiosa aportación de los centros privados al panorama formativo del sector turístico en las tres últimas décadas.
+
+No obstante, el análisis del actual sistema, abordado en el seno de la Comisión Interministerial de Turismo, ha puesto de manifiesto la necesidad de resolver algunas deficiencias existentes en los niveles de formación y dar respuesta a la demanda de una superior capacitación entre los directivos de nuestras empresas turísticas, que se reclama desde los sectores empresarial, institucional e incluso académico.
+
+Todo ello aconseja la incorporación plena de los estudios superiores de turismo al ámbito universitario, en el marco de lo previsto en la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, de tal forma que estas enseñanzas puedan ser organizadas y desarrolladas por la Universidad.
+
+En su virtud, a propuesta de los Ministros de Educación y Ciencia y de Comercio y Turismo, previo informe de las Comunidades Autónomas, de la Comisión Superior de Personal y del Consejo de Universidades, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 16 de febrero de 1996,
+
+DISPONGO:
+
+## Artículo 1. Enseñanzas.
+
+Los estudios superiores de turismo se desarrollarán en las Universidades, de acuerdo con lo dispuesto en la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, el presente Real Decreto y demás normas a que se refiere el artículo sexto de la citada Ley Orgánica.
+
+## Artículo 2. Título.
+
+1\. Los alumnos que superen los estudios universitarios a que se refiere el artículo 1 anterior obtendrán el título de Diplomado en Empresas y Actividades Turísticas, que tendrá carácter oficial y validez en todo el territorio nacional y habilitará para el ejercicio profesional de acuerdo con la normativa vigente.
+
+2\. Dicho título será expedido por el Rector de la Universidad correspondiente, de acuerdo con lo dispuesto en la Ley Orgánica 11/1983, de 25 de agosto, y en el Real Decreto 1496/1987, de 6 de noviembre, sobre obtención, expedición y homologación de títulos universitarios y normas dictadas en su desarrollo.
+
+## Artículo 3. Acceso
+
+El acceso a los estudios a que se refieren los artículos anteriores se regirá por las normas generales vigentes para el acceso a los estudios universitarios conducentes a la obtención del título de Diplomado universitario.
+
+## Artículo 4. Planes de estudio.
+
+Los planes de estudio a cursar para la obtención del título de Diplomado en Empresas y Actividades Turísticas serán aprobados por las Universidades y homologados por el Consejo de Universidades, de conformidad con lo establecido en los artículos 28 y 29 de la Ley Orgánica 11/1983, de 25 de agosto, y en el Real Decreto 1497/1987, de 27 de noviembre, modificado por el Real Decreto 1267/1994, de 10 de junio, sobre directrices generales comunes de los planes de estudio de los títulos universitarios de carácter oficial y validez en todo el territorio nacional.
+
+## Disposición adicional única. Derechos de los titulados actuales.
+
+1\. Quienes estén en posesión del título de Técnico de Empresas Turísticas, obtenido con arreglo a la normativa anterior al Real Decreto 865/1980, de 14 de abril, o del de Técnico de Empresas y Actividades Turísticas, obtenido conforme a las normas de dicho Real Decreto, tendrán idénticos derechos profesionales y corporativos que tos que, en su caso, se atribuyen a quienes posean el título de Diplomado en Empresas y Actividades Turísticas.
+
+2\. Los que estén en posesión del título de Técnico de Empresas y Actividades Turísticas a que se refiere el artículo 2 del Real Decreto 865/1980, de 14 de abril, tendrán además idénticos derechos académicos que quienes obtengan el título de Diplomado en Empresas y Actividades Turísticas.
+
+## Disposición transitoria primera. Integración de centros.
+
+Con anterioridad al 1 de octubre del año 2001, si se cumplen las previsiones del artículo 16.1 del Real Decreto 557/1991, de 12 de abril, sobre creación y reconocimiento de Universidades y centros universitarios, las Administraciones competentes procederán a la integración de las actuales Escuelas Oficiales de Turismo en las Universidades que correspondan, previo acuerdo con éstas y de conformidad con lo establecido en el artículo 9 de la Ley Orgánica 11/1983, de 25 de agosto.
+
+En tanto se produce la citada integración, las Escuelas Oficiales de Turismo continuarán impartiendo las enseñanzas conducentes a la obtención del título de Técnico de Empresas y Actividades Turísticas. En el caso de que, de acuerdo con lo previsto en el apartado 1 de la disposición transitoria cuarta del presente Real Decreto, las mencionadas Escuelas Oficiales de Turismo sean autorizadas a impartir las enseñanzas a que se refiere el artículo 1 de este mismo Real Decreto, quedarán a extinguir las enseñanzas a que se refiere el inciso anterior.
+
+> Véase , sobre posible ampliación del plazo para la integración o adscripción de centros a las universidades, la disposición adicional única del Real Decreto 1795/1999, de 26 de noviembre. [Ref. BOE-A-1999-23522](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-23522)
+
+## Disposición transitoria segunda. Incorporación del personal.
+
+1\. En el momento de la integración a que se refiere la disposición transitoria anterior, el profesorado y personal de administración y servicios de las Escuelas Oficiales de Turismo pasarán a prestar servicios en la Universidad que corresponda.
+
+La incorporación del profesorado se producirá en las categorías que proceda de acuerdo con la Ley Orgánica 11/1983, de 25 de agosto, incorporándose a los correspondientes Departamentos universitarios, sin perjuicio, en su caso, del cumplimiento de lo establecido en la normativa sobre incompatibilidades.
+
+El personal de administración y servicios que tenga la condición de funcionario pasará a prestar servicio en las Universidades en situación de servicio activo en sus Cuerpos o Escalas. El personal laboral pasará a prestar servicios en la Universidad que corresponda.
+
+2\. En la incorporación del personal de Escuelas Oficiales de turismo cuya titularidad ostenten Comunidades Autónomas se estará a las disposiciones dictadas por la respectiva Comunidad Autónoma en el ámbito de sus competencias.
+
+## Disposición transitoria tercera. Dotaciones presupuestarias.
+
+1\. En el momento de la integración a que se refiere la disposición transitoria primera, se transferirán a las Universidades respectivas los créditos presupuestarios destinados al pago del personal docente y no docente que presta servicios en las actuales Escuelas Oficiales de Turismo y que ha de incorporarse a aquéllas, en las categorías legales universitarias que proceda de acuerdo con la Ley Orgánica 11/1983, de 25 de agosto, y lo establecido en el presente Real Decreto, así como el patrimonio y los créditos presupuestariamente previstos para garantizar la cobertura de los gastos derivados de la integración.
+
+2\. La integración de la Escuela Oficial de Turismo de Madrid en la Universidad que corresponda no se producirá hasta que tenga lugar el traspaso de servicios de la referida Escuela, del Estado a la Comunidad Autónoma de Madrid, de acuerdo con los criterios previstos en este Real Decreto.
+
+Por la Administración General del Estado se tendrán en cuenta, en el momento de llevar a cabo el mencionado traspaso, los costes derivados de la aplicación de lo previsto en las anteriores disposiciones transitorias.
+
+## Disposición transitoria cuarta. Enseñanzas y planes de estudios.
+
+1\. En virtud de lo establecido en el artículo 1 del presente Real Decreto y hasta tanto se produzca la efectiva integración de las Escuelas Oficiales de Turismo en las Universidades, de acuerdo con lo establecido en las disposiciones transitorias anteriores, éstas podrán impartir o autorizar la impartición de las enseñanzas en aquéllas con el personal propio de estos centros, previo acuerdo con la Administración titular de los mismos.
+
+2\. Hasta el momento en que se haga efectivo lo dispuesto en el artículo 4 del presente Real Decreto, mantendrán su vigencia los actuales planes de estudios de las enseñanzas turísticas especializadas aprobados por Orden de 29 de octubre de 1980 («Boletín Oficial del Estado» de 15 de noviembre), así como la prueba de evaluación final aprobada por Orden de 22 de diciembre de 1992 («Boletín Oficial del Estado» de 14 de enero de 1993) y los cursos de especialización aprobados por Orden de 22 de marzo de 1983 («Boletín Oficial del Estado» de 1 de abril), en aquellos centros que cuenten con la autorización prevista en el Real Decreto 865/1980.
+
+## Disposición transitoria quinta. Centros no estatales de enseñanzas especializadas de turismo.
+
+1\. Los actuales centros de enseñanzas especializadas de turismo, podrán solicitar y, en su caso, obtener, con anterioridad a 1 de octubre del año 2001, de conformidad con el Real Decreto 557/1991, de 12 de abril, sobre creación y reconocimiento de Universidades y centros universitarios, y demás normativa aplicable, su reconocimiento como Escuelas Universitarias adscritas a la Universidad correspondiente.
+
+En tanto se produzca dicho reconocimiento, y sin perjuicio de lo establecido en el párrafo anterior, las universidades podrán autorizar a los citados centros de enseñanzas especializadas de turismo, previo acuerdo de la Administración competente, la impartición de las enseñanzas conducentes a la obtención del título de Diplomado en Empresas y Actividades Turísticas, con el personal propio de dichos centros, quedando a extinguir las enseñanzas conducentes a la obtención del título de Técnico de Empresas y Actividades Turísticas. En otro caso, los centros continuarán impartiendo estas últimas enseñanzas cuyo título será expedido por el órgano correspondiente de la Comunidad Autónoma de la que dependa el centro docente competente para proponer su expedición; permaneciendo adscritos, a los efectos previstos en el artículo 6.2 del Real Decreto 865/1980, de 14 de abril, por el que se regula la ordenación de las enseñanzas turísticas especializadas y de los centros que las imparten, a la correspondiente Escuela Oficial de Turismo, aunque ésta se integre en la universidad de acuerdo con lo establecido en la disposición transitoria primera del presente Real Decreto.
+
+2\. En el caso de que, transcurrido el plazo señalado en el apartado anterior, no se hubiera producido el reconocimiento del centro como Escuela Universitaria adscrita a la universidad, quedará sin efecto la autorización para impartir las enseñanzas conducentes a la obtención del título de Técnico de Empresas y Actividades Turísticas o, en su caso, de Diplomado en Empresas y Actividades Turísticas. En este supuesto, por la Administración competente se adoptarán las medidas necesarias para que los alumnos de estos centros puedan concluir sus estudios.
+
+En otro caso, se estará a lo que dispongan el convenio de adscripción a la universidad y la resolución de reconocimiento del centro como Escuela Universitaria adscrita.
+
+> Se modifica el segundo párrafo del apartado 1 y el apartado 2 por el art. único. 1 y 2 del Real Decreto 1795/1999, de 26 de noviembre. [Ref. BOE-A-1999-23522](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-23522)
+
+## Disposición transitoria sexta. Prueba de grado para la obtención del título de Diplomado en Empresas y Actividades Turísticas.
+
+No obstante lo establecido en la disposición transitoria quinta anterior, la universidad en la que se haya integrado una Escuela Oficial de Turismo o que haya autorizado a esta última a impartir las enseñanzas conducentes a la obtención del título de Diplomado en Empresas y Actividades Turísticas, al amparo de la disposición transitoria cuarta, apartado 1, del presente Real Decreto, podrá autorizar a dicha Escuela Oficial a realizar una prueba de grado para la obtención del indicado título, a expedir por la Universidad, a los alumnos de los centros de enseñanzas especializadas de turismo, adscritos a ellas en la fecha de entrada en vigor del presente Real Decreto, que hayan superado los tres cursos completos del correspondiente plan de estudios. Análogamente, las universidades que, en virtud de lo estipulado en el apartado 1 de la disposición transitoria quinta, autoricen estos estudios a los centros de enseñanzas especializadas de turismo, desarrollarán y realizarán una prueba de grado, para la obtención del título de Diplomado en Empresas y Actividades Turísticas, a los alumnos de éstas que hayan completado los correspondientes estudios.
+
+> Se modifica por el art. único.3 del Real Decreto 1795/1999, de 26 de noviembre. [Ref. BOE-A-1999-23522](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-23522)
+
+## Disposición transitoria séptima. Alumnos.
+
+Los alumnos que actualmente cursan los estudios de Técnicos de Empresas y Actividades Turísticas en las Escuelas Oficiales de Turismo y en los centros adscritos a las mismas, mantendrán los derechos que les correspondan conforme al plan de estudios y régimen vigentes.
+
+> Se renumera por el art. único.3 del Real Decreto 1795/1999, de 26 de noviembre. [Ref. BOE-A-1999-23522](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-23522)
+
+> Su anterior numeración era disposición transitoria 6.
+
+## Disposición derogatoria única. Cláusula derogatoria.
+
+Queda derogado el Real Decreto 865/1980, de 14 de abril, por el que se regula la ordenación de las enseñanzas turísticas especializadas y de los centros que las imparten, así como las demás disposiciones de igual o inferior rango, en cuanto se opongan a lo dispuesto en el presente Real Decreto.
+
+## Disposición final primera. Admisión de alumnos.
+
+A partir del curso académico 1996-1997, en los casos en que las Universidades vayan a hacer uso de la facultad establecida en el apartado 1 de la disposición transitoria cuarta del presente Real Decreto, los límites máximos de admisión de alumnos serán establecidos por el Consejo de Universidades a propuesta de aquéllas.
+
+## Disposición final segunda. Habilitación para el desarrollo reglamentario.
+
+En el ámbito de sus respectivas competencias, por los Ministros de Educación y Ciencia, de Comercio y Turismo y de Economía y Hacienda, y por las Comunidades Autónomas que se encuentren en pleno ejercicio de sus competencias en materia de enseñanza superior, se dictarán las disposiciones y adoptarán las medidas legales y presupuestarias oportunas para el desarrollo y aplicación de lo dispuesto en el presente Real Decreto.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado» y será de aplicación a partir del curso académico 1996-1997.
+
+Dado en Madrid a 16 de febrero de 1996.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia.
+
+ALFREDO PÉREZ RUBALCABA

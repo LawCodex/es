@@ -1,0 +1,209 @@
+---
+title: "Real Decreto 587/1989, de 12 de mayo, por el que se aprueba el Reglamento de la Comisión Nacional de Astronomía"
+identifier: "BOE-A-1989-12517"
+eli: "https://www.boe.es/eli/es/rd/1989/05/12/587"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1989-05-12
+published: 1989-06-02
+in_force_from: 1989-06-03
+last_amended: 2001-07-03
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 131"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1989-12517"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 587/1989, de 12 de mayo, por el que se aprueba el Reglamento de la Comisión Nacional de Astronomía
+
+El artículo 8.2, de la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica, encomienda a la Comisión Interministerial de Ciencia y Tecnología la coordinación y el seguimiento de los programas internacionales de investigación científica y desarrollo tecnológico con participación española, y como consecuencia de ello le atribuye, entre otras, la función de proponer al Gobierno o designar, en su caso, a quién haya de representar a España en los Organismos Internacionales responsables de los indicados programas.
+
+Teniendo en cuenta que en los Decretos de 11 de marzo de 1948 y de 13 de marzo de 1958, se asignó a la Comisión Nacional de Astronomía la misión de representar a España en la Unión Astronómica Internacional, es preciso adaptar las normas reguladoras de la indicada Comisión Nacional a lo establecido en la Ley a que se ha hecho referencia.
+
+Por otra parte, resulta procedente adaptar el Reglamento de funcionamiento de la Comisión Nacional de Astronomía a las necesidades actuales que permita un funcionamiento más acorde con el estado de desarrollo de la astronomía en nuestro país. Su presidencia continuará atribuida al Director general del Instituto Geográfico Nacional del Ministerio de Obras Públicas y Urbanismo, de acuerdo con lo establecido en el Real Decreto 89/1987, de 23 de enero, mediante el que se modifica la estructura orgánica básica de dicho Departamento.
+
+En su virtud, previo informe del Pleno de la Comisión Interministerial de Ciencia y Tecnología, a propuesta de los Ministros de Obras Públicas y Urbanismo y de Educación y Ciencia, con la aprobación del Ministro para las Administraciones Públicas, y previa deliberación del Consejo de Ministros en su reunión del día 12 de mayo de 1989,
+
+D I S P O N G O :
+
+### Artículo único.
+
+Se aprueba el Reglamento por el cual ha de regirse la Comisión Nacional de Astronomía, conforme al texto que se acompaña como anexo al presente Real Decreto.
+
+## DISPOSICIÓN ADICIONAL
+
+Sobre la base del Convenio de 17 de julio de 1972, entre el Gobierno del Estado Español y el Gobierno de la República Federal de Alemania, relativo al establecimiento y funcionamiento del Centro Astronómica Hispano Alemán («Boletín Oficial del Estado» de 19 de junio de 1973), y el Acuerdo para determinar la estructura del mismo suscrito igual-mente el 17 de julio de 1972, entre la Comisión Nacional de Astronomía y la Sociedad Max Planck para el Fomento de las Ciencias («Boletín Oficial del Estado» de 1 de agosto de 1973), se faculta a la Comisión Nacional de Astronomía para que intervenga en el funcionamiento de dicho Centro por conducto de uno de los Institutos que están representa-dos en la expresada Comisión.
+
+La Comisión Nacional de Astronomía designará la representación que dicha Comisión tenga en los órganos colegiados de los distintos Centros y Organismos.
+
+## DISPOSICIÓN FINAL
+
+Quedan derogados el Decreto de 11 de marzo de 1948 por el que se aprueba el Reglamento de la Comisión Nacional de Astronomía, el Decreto de 20 de enero de 1949 que modifica el artículo 2.º de dicho Reglamento y el título VII referente a la citada Comisión del Decreto de 13 de marzo de 1958 y cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto que entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 12 de mayo de 1989.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GOMEZ
+
+## REGLAMENTO DE LA COMISION NACIONAL DE ASTRONOMIA
+
+## CAPITULO I — De su objeto y composición
+
+### Artículo 1.
+
+1\. La Comisión Nacional de Astronomía es un órgano colegiado de la Administración General del Estado dependiente de los Ministerios de Fomento y de Ciencia y Tecnología, que tiene como finalidades el impulso y coordinación de los programas astronómicos nacionales, el asesoramiento a la Administración General del Estado en materia de astronomía y astrofísica y la representación de España en la Unión Astronómica Internacional, desarrollando su misión de acuerdo con las directrices que establezca la Comisión Interministerial de Ciencia y Tecnología.
+
+2\. Se atribuyen a la Comisión Nacional de Astronomía las siguientes funciones:
+
+Proponer a la Comisión Interministerial de Ciencia y Tecnología, a los órganos directivos de la Administración General del Estado y a los organismos públicos dependientes de la misma que tengan responsabilidades en materia de astronomía, las medidas necesarias para la adecuada coordinación entre las diversas ramas de la astronomía, realizando el seguimiento de los programas y estudios que se planifiquen.
+
+Asesorar a la Comisión Interministerial de Ciencia y Tecnología y a los centros y organismos a que se refiere el párrafo anterior en relación con los acuerdos internacionales en materia de astronomía, proponiendo las medidas precisas para su cumplimiento.
+
+Aportar la colaboración española a las tareas de la Unión Astronómica Internacional, proponiendo a la Comisión Interministerial de Ciencia y Tecnología el nombramiento de las delegaciones que han de representar a España en las Asambleas de la Unión y las contribuciones que correspondan a la misma.
+
+En general, ejercer cuantas actividades se relacionen con el fomento, orientación y divulgación científica de la astronomía en España.
+
+> Se modifica por el art. único.1 del Real Decreto 663/2001, de 22 de junio. [Ref. BOE-A-2001-12768](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-12768)
+
+### Artículo 2.
+
+La Comisión Nacional de Astronomía tendrá la siguiente composición:
+
+1\. Un Presidente y un Vicepresidente.
+
+Corresponderá la Presidencia y Vicepresidencia de la Comisión, de forma alternativa y por períodos de dos años, al Director general del Instituto Geográfico Nacional y al Presidente del Consejo Superior de Investigaciones Científicas.
+
+2\. Serán vocales de la Comisión:
+
+a) El Director general del Instituto Nacional de Técnica Aeroespacial ``Esteban Terradas''.
+
+b) El Delegado Español en la Agencia Espacial Europea.
+
+c) El Director del Instituto de Astrofísica de Canarias.
+
+d) El Director del Observatorio Astronómico Nacional.
+
+e) El Director del Real Instituto y Observatorio de la Armada.
+
+f) El Director del Instituto de Astrofísica de Andalucía.
+
+g) El Presidente de la Sociedad Española de Astronomía.
+
+h) Un científico de reconocido prestigio internacional por cada una de las áreas que a continuación se indican: Cosmología, Galaxias, Física Estelar y Medio Interestelar, Sol y Sistema Solar, Astronomía de posición, Instrumentación y Espacio.
+
+3\. Actuará como Secretario de la Comisión Nacional de Astronomía un funcionario del grupo A, designado por el Presidente de dicha Comisión, con voz y sin voto.
+
+4\. El Presidente de la Comisión Nacional de Astronomía designará a los vocales a que se refiere el apartado 2.h) de este artículo, previo acuerdo de los restantes miembros de dicha Comisión, debiendo ser al menos dos de estos vocales profesores universitarios.
+
+5\. Los vocales que no lo sean por razón de su cargo tendrán un mandato de cuatro años.
+
+> Se modifica por el art. único.2 del Real Decreto 663/2001, de 22 de junio. [Ref. BOE-A-2001-12768](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-12768)
+
+### Artículo 3.
+
+La Comisión Nacional de Astronomía podrá convocar a sus reuniones, a título consultivo, cuantas personas estime conveniente.
+
+## CAPITULO II — De los Grupos de Trabajo
+
+### Artículo 4.
+
+1\. Para un mejor funcionamiento de la Comisión, se podrán constituir Grupos de Trabajo que se encarguen temporalmente de realizar estudios o publicaciones sobre asuntos de especial amplitud e interés.
+
+2\. Los miembros de cada Grupo de Trabajo se elegirán entre los de la Comisión, pudiendo solicitar la inclusión de otros componentes siempre que sea aprobada por la Comisión.
+
+## CAPITULO III — De la Comisión Permanente
+
+### Artículo 5.
+
+Existirá una Comisión Permanente de la Comisión Nacional de Astronomía que estará integrada por el Presidente, el Vicepresidente y el Secretario. Tendrá como misión la de resolver las cuestiones de carácter administrativo que exijan una decisión inmediata, y dispondrá del apoyo administrativo y técnico a que se refiere el artículo 14 de este Reglamento.
+
+> Se modifica por el art. único.3 del Real Decreto 663/2001, de 22 de junio. [Ref. BOE-A-2001-12768](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-12768)
+
+## CAPITULO IV — Del Presidente
+
+### Artículo 6.
+
+El Presidente tiene las siguientes atribuciones:
+
+1\. Disponer la celebración de las sesiones, ordinarias y extraordinarias, fijando al efecto la fecha y el lugar en que hayan de realizarse.
+
+2\. Establecer el orden del día de cada sesión.
+
+3\. Presidir las sesiones, dirigir la discusión y cerrar los debates.
+
+4\. Cuidar de la ejecución de los acuerdos de la Comisión.
+
+5\. Designar los Grupos de Trabajo que hayan de presentar, como Ponentes, los proyectos de dictamen, con arreglo a la índole de la materia de que se trate.
+
+6\. Autorizar con el Secretario de la Comisión los certificados relativos a acuerdos y firmar las comunicaciones correspondientes.
+
+7\. Velar por el exacto cumplimiento de este Reglamento.
+
+8\. Comunicar a la Comisión los acuerdos y disposiciones que le afecten.
+
+9\. Informar periódicamente al Secretario de la Comisión Interministerial de Ciencia y Tecnología sobre el cumplimiento de las funciones encomendadas a la Comisión.
+
+## CAPITULO V — Del Vicepresidente
+
+### Artículo 7.
+
+El Vicepresidente sustituirá al Presidente en sus funciones en caso de ausencia, vacante o enfermedad.
+
+## CAPITULO VI — De los Vocales
+
+### Artículo 8.
+
+1\. Los Vocales asistirán a las sesiones y a las reuniones de los Grupos de Trabajo a que pertenezcan y colaborarán en los proyectos de dictamen que se les encomienden.
+
+2\. Emitirán sus votos, que podrán razonar sucintamente y por escrito cuando sean contrarios a los acuerdos adoptados por la Comisión y de los cuales se harán mención en el acta de la sesión.
+
+3\. Podrán presentar mociones o proposiones que se incluirán en el orden del día de la primera sesión ordinaria que haya de celebrarse, excepto en el caso de que, a juicio del Presidente, la importancia del asunto requiera la celebración de una sesión extraordinaria que, en todo caso, se celebrará cuando las proposiciones estén avaladas por la mayoría de los Vocales que componen la Comisión.
+
+## CAPITULO VII — Del Secretario
+
+### Artículo 9.
+
+El Secretario tendrá a su cargo:
+
+1\. Notificar la convocatoria de las sesiones ordenadas por el Presidente.
+
+2\. Levantar acta de las sesiones que celebre la Comisión con indicación de los miembros asistentes, asuntos tratados, votaciones realizadas y contenido de los acuerdos.
+
+3\. Custodiar las actas y demás documentación oficial de la Comisión, organizar y mantener los archivos y realizar la distribución de las publicaciones.
+
+## CAPITULO VIII — De las sesiones
+
+### Artículo 10.
+
+1\. La Comisión se reunirá en sesión ordinaria, al menos, una vez al año, expresándose en la convocatoria, que habrá de hacerse con ocho días de antelación, los asuntos a tratar, lugar, fecha y hora de celebración.
+
+2\. Realizará, además, cuantas sesiones extraordinarias sean necesarias, a juicio del Presidente, y aquellas que sean solicitadas por la mayoría de sus miembros.
+
+### Artículo 11.
+
+La Comisión deliberará sobre los asuntos contenidos en el orden del día; los dictámenes de los Grupos de Trabajo serán entregados con la convocatoria y defendidos por un ponente. El Presidente podrá someter directamente a la deliberación de la Comisión los acuerdos que no requieran preparación ni ponencia previa.
+
+### Artículo 12.
+
+Los acuerdos se tomarán por mayoría absoluta de votos en primera votación y, en su defecto, por mayoría de los presentes. Las votaciones serán nominales. En caso de empate decidirá el voto del Presidente.
+
+### Artículo 13.
+
+En lo no previsto en el presente Real Decreto, se estará a lo dispuesto en el capítulo II del Título II de la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Se modifica por el art. único.4 del Real Decreto 663/2001, de 22 de junio. [Ref. BOE-A-2001-12768](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-12768)
+
+## CAPITULO IX — Oficina de la Secretaría
+
+### Artículo 14.
+
+El Instituto Geográfico Nacional o el Consejo Superior de Investigaciones Científicas, según el turno de la Presidencia de la Comisión Nacional de Astronomía, proporcionarán a la Comisión Permanente el apoyo administrativo y técnico que resulten necesarios.
+
+> Se modifica por el art. único.5 del Real Decreto 663/2001, de 22 de junio. [Ref. BOE-A-2001-12768](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-12768)

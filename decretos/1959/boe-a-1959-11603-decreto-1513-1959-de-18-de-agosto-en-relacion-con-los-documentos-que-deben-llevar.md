@@ -1,0 +1,91 @@
+---
+title: "Decreto 1513/1959, de 18 de agosto, en relación con los documentos que deben llevar los establecimientos de hostelería referentes a la entrada de viajeros"
+identifier: "BOE-A-1959-11603"
+eli: "https://www.boe.es/eli/es/d/1959/08/18/1513"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1959-08-18
+published: 1959-08-29
+in_force_from: 1959-09-18
+last_amended: 1981-05-13
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 207"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1959-11603"
+retrieved: 2026-10-11
+---
+
+# Decreto 1513/1959, de 18 de agosto, en relación con los documentos que deben llevar los establecimientos de hostelería referentes a la entrada de viajeros
+
+Es un hecho comprobado que la multiplicidad de disposiciones sobre una misma materia dificulta su voluntario cumplimiento y la acción estatal que pretende servir.
+
+Concurre esta complejidad legislativa en la regulación del aspecto fiscal de determinados documentos, como partes de entrada, en establecimientos hoteleros, libro registro de viajeros y póliza de turismo. De esta circunstancia derivan inconvenientes para los servicios de la industria turística, usuarios de los mismos e intereses del Tesoro.
+
+Las razones expuestas aconsejan compendiar las normas sobre la materia en una sola disposición que simplifique y reduzca al mínimo las obligaciones y requisitos relativos a los documentos citados.
+
+En su virtud, a propuesta de los Ministros de Hacienda, Gobernación e Información y Turismo, y previa deliberación y acuerdo del Consejo de Ministros en su reunión del día veinticuatro de julio de mil novecientos cincuenta y nueve,
+
+DISPONGO:
+
+## Primero.
+
+Los establecimientos de hostelería vienen obligados a llevar un libro registro en el que se inscribirán los nombres de las personas que ingresen en los mismos, con arreglo al procedimiento que establezca, en cada caso, el Ministerio de la Gobernación. Este libro se ajustará al modelo que determine dicho Ministerio.
+
+## Segundo.
+
+Toda persona mayor de dieciséis años que ingrese en uno de estos establecimientos deberá firmar un parte de entrada, según el procedimiento que asimismo establezca, en cada caso, el Ministerio de la Gobernación. Este parte se ajustará al modelo que determine dicho Ministerio.
+
+Los partes serán extendidos por los servicios del establecimiento de hostelería de que se trate, que responderán de que el texto incorporado coincide con los datos que figuran en el pasaporte o Documento Nacional de Identidad, que habrán de ser exhibidos por los viajeros extranjeros o españoles, respectivamente.
+
+## Tercero.
+
+**(Derogado)**
+
+> Se deroga por la disposición final 1 del Decreto 231/1965, de 14 de enero. [Ref. BOE-A-1965-3989](https://www.boe.es/buscar/doc.php?id=BOE-A-1965-3989).
+
+## Cuarto.
+
+Se suprime la obligación de que los partes de movimiento de viajeros sean talonarios, y, consecuentemente, el apartado siete del artículo ciento ochenta y ocho del Reglamento del Impuesto de Timbre, de veintidós de junio de mil novecientos cincuenta y seis, quedará redactado en la siguiente forma:
+
+«Los recibos de cantidad y documentos liberatorios por pagos periódicos y honorarios profesionales y los que expidan los fabricantes y los comerciantes al por mayor y menor por las ventas que realicen de cuantía superior a mil quinientas pesetas, a que se refieren, respectivamente, los artículos veintiuno y cuarenta y dos de la Ley del Timbre y los artículos ochenta y cuatro y ciento cinco de este Reglamento, se reintegrarán con timbres móviles y revestirán necesariamente la forma talonaria, sin perjuicio de lo dispuesto en el apartado nueve para los casos de pago en metálico.»
+
+## Quinto.
+
+**(Derogado)**
+
+> Se deroga por la clausula derogativa del Decreto 724/1962, de 12 de abril. [Ref. BOE-A-1962-6751](https://www.boe.es/buscar/doc.php?id=BOE-A-1962-6751).
+
+## Sexto.
+
+Las infracciones a los preceptos contenidos en los artículos primero, segundo y tercero de este Decreto serán sancionadas con multas de doscientas cincuenta a diez mil pesetas, que impondrán los Gobernadores civiles, quienes podrán delegar tal facultad en los Jefes Superiores y Comisarios de Policía de sus respectivas provincias.
+
+> Se actualiza por el art. 1.d) del Real Decreto 831/1981, de 10 de abril. [Ref. BOE-A-1981-10815](https://www.boe.es/buscar/doc.php?id=BOE-A-1981-10815).
+
+## Séptimo.
+
+Se autoriza a los Ministerios de Hacienda, Gobernación e Información y Turismo para dictar las normas complementarias que estimen convenientes.
+
+## Octavo.
+
+Quedan derogadas las disposiciones siguientes:
+
+Regla segunda, normas primera, segunda y tercera, y regla cuarta de la Real orden de veintisiete de noviembre de mil novecientos ocho.
+
+Regla séptima de la Real orden circular de diecisiete de marzo de mil novecientos nueve.
+
+Orden de veinticuatro de marzo de mil novecientos cuarenta y siete.
+
+Orden de veintisiete de febrero de mil novecientos cincuenta y cuatro.
+
+Orden de quince de julio de mil novecientos cincuenta y nueve.
+
+Así lo dispongo por el presente Decreto, dado en San Sebastián a dieciocho de agosto de mil novecientos cincuenta y nueve.
+
+FRANCISCO FRANCO
+
+El Ministro Secretario de la Presidencia del Gobierno,
+
+LUIS CARRERO BLANCO

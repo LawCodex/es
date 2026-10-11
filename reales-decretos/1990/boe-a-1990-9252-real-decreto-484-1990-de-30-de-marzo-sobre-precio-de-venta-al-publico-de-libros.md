@@ -1,0 +1,155 @@
+---
+title: "Real Decreto 484/1990, de 30 de marzo, sobre precio de venta al público de libros"
+identifier: "BOE-A-1990-9252"
+eli: "https://www.boe.es/eli/es/rd/1990/03/30/484"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Cultura"
+date: 1990-03-30
+published: 1990-04-20
+in_force_from: 1990-05-20
+last_amended: 2007-06-23
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 95"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-9252"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 484/1990, de 30 de marzo, sobre precio de venta al público de libros
+
+Norma derogada, con la excepción de los artículos 6 y 7 que mantendrán su vigencia en tanto no se adopte la correspondiente normativa de desarrollo, por la disposición derogatoria única.2.c) de la Ley 10/2007, de 22 de junio. [Ref. BOE-A-2007-12351](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12351).
+
+El sistema del precio fijo en la oferta y venta al público de los libros está establecido por la Ley 9/1975, de 12 de marzo, del Libro, y fue objeto de posterior desarrollo por Real Decreto 2828/1979, de 26 de octubre, y la Orden de 10 de diciembre de 1980.
+
+La experiencia acumulada ha puesto de manifiesto una serie de lagunas y disfunciones en relación con la realidad de un mercado complejo y de importancia cultural y económica indudable.
+
+Por otro lado la integración en la Comunidad Económica Europea ha significado unas normas y reglas de funcionamiento en el mercado interior que aconsejan establecer un marco de referencia similar al de la Comunidad y que, simultáneamente, aseguren los objetivos de compatibilizar al máximo los intereses legítimos de los diversos sectores del libro y de los ciudadanos. Asimismo, la práctica totalidad de los países comunitarios tienen establecido el sistema de precio fijo para los libros, como uno de los medios principales que favorece una oferta editorial y librera plural.
+
+En esta línea, la existencia de un precio fijo para cada libro asegura, al darse dicho precio en todos los puntos de venta, que las ediciones de rápida rotación no desplacen a las de vida más larga, hecho imprescindible si se quiere mantener una oferta editorial culturalmente plural, heterogénea y rica.
+
+Por otra parte, el precio fijo permitirá que la competencia entre establecimientos detallistas de distinto tamaño se establezca sobre factores diferentes al precio, permitiendo una oferta plural y un mayor número de puntos de venta en beneficio del consumidor final, esto es, del lector.
+
+Establecido el principio del precio fijo, el vigente Decreto establece una serie de excepciones claramente delimitadas, así como un margen de oscilación máximo que permita un tratamiento diferenciado según la naturaleza del consumidor final u otras circunstancias de promoción y se introduce la figura potestativa de la Oferta Anual para fondos específicos y períodos concretos.
+
+Por último, el Decreto remite todas las medidas sancionadoras por infracciones a las establecidas con carácter general por la legislación vigente y en la específica sobre competencia desleal.
+
+En su virtud, a propuesta del Ministro de Cultura, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión de 30 de marzo de 1990,
+
+DISPONGO:
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 99, de 25 de abril de 1990. [Ref. BOE-A-1990-9528](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-9528).
+
+## Artículo 1.
+
+1\. Todo editor o importador de libros está obligado a establecer un precio fijo de venta al público o consumidor final de los libros que se editen o importen con independencia del lugar en que se realice la venta o del procedimiento a través del cual se efectúe la misma.
+
+El precio de venta al público al contado podrá oscilar entre el 95 por 100 y el 100 por 100 del precio fijo.
+
+Se entiende por consumidor final la persona física o jurídica que, sin asumir obligaciones de compra o determinados pagos de cuota, adquiere los libros para su propio uso o los transmite a persona distinta sin que medie operación comercial.
+
+2\. Cuando el libro se venda formando una unidad o conjuntamente con discos, bandas magnéticas, cassettes, películas, fotografías, diapositivas, microformas o cualquier otro elemento y constituya una oferta editorial el precio fijo se determinará para la totalidad de los elementos que integren dicha oferta.
+
+3\. El editor podrá establecer un precio fijo distinto para la venta de colecciones completas, inferior al resultante de la suma de cada uno de los títulos que componen dicha colección.
+
+4\. En los casos de venta a plazos o a crédito se podrán establecer precios diferentes de acuerdo con aquéllos.
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 99, de 25 de abril de 1990. [Ref. BOE-A-1990-9528](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-9528).
+
+## Artículo 2.
+
+1\. Quedan exentos de la obligación de venta al precio fijo:
+
+a) Los libros de bibliófilo, entendiendo por tales los editados en número limitado para un público restringido, numerados correlativamente y de alta calidad formal.
+
+b) Los libros artísticos, entendiendo por tales los editados total o parcialmente mediante métodos de artesanía para la reproducción de obras artísticas, los que incluyan ilustraciones ejecutadas en forma directa o manual o aquéllos en los que se hayan utilizado encuadernaciones de artesanía.
+
+c) Los libros antiguos o de ediciones agotadas.
+
+d) Los libros usados.
+
+e) Los libros descatalogados.
+
+Se entiende que un libro ha sido descatalogado por el editor cuando no aparezca en su último catálogo o lo comunique por escrito a sus canales de distribución y venta.
+
+La oferta y exposición de estos libros deberá realizarse separada y suficientemente indicada de la de los libros sujetos a precio fijo.
+
+f) El librero o detallista podrá aplicar precios inferiores al de venta al público a los libros editados o importados transcurridos dos años desde la última edición siempre que hayan sido ofertados por los mismos durante un período mínimo de seis meses.
+
+La oferta y exposición de estos libros deberá realizarse separada y suficientemente indicada de la de los libros sujetos a precio fijo.
+
+g) Las suscripciones en fase de prepublicación.
+
+2\. A efectos de lo dispuesto en los apartados e) y f), el editor deberá dar cumplimiento, en su caso, a lo establecido en el artículo 67 de la Ley de Propiedad Intelectual.
+
+> Redactado el apartado 1.f) conforme a la corrección de errores publicada en BOE núm. 99, de 25 de abril de 1990. [Ref. BOE-A-1990-9528](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-9528).
+
+## Artículo 3.
+
+Podrán venderse los libros con los descuentos máximos que se especifican en los siguientes casos:
+
+a) En el Día del Libro y Ferias del Libro, Congresos o Exposiciones del Libro, siempre que así lo determinen sus Entidades organizadoras, cuando éstas pertenezcan a los sectores de la edición y comercialización del libro, con un descuento máximo del 10 por 100 del precio fijo.
+
+b) Cuando el consumidor final, de acuerdo con el artículo 1.º de este Real Decreto, sean Bibliotecas, Archivos, Museos, **Centros docentes legalmente reconocidos** o las Instituciones o Centros cuyo fin fundacional sea científico o de investigación, con un descuento máximo del 15 por 100 del precio fijo.
+
+> Téngase en cuenta que se anula el inciso destacado de la letra b) por Sentencia del TS de 13 de marzo de 1992, publicada por Orden de 29 de mayo de 1992. [Ref. BOE-A-1992-16090](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-16090).
+
+> Se anula el inciso destacado por Sentencia del TS de 13 de marzo de 1992, publicada por Orden de 29 de mayo de 1992. [Ref. BOE-A-1992-16090](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-16090).
+
+## Artículo 4.
+
+**(Anulado)**
+
+> Se declara nulo por Sentencia del TS de 13 de marzo de 1992, publicada por Orden de 29 de mayo de 1992. [Ref. BOE-A-1992-16090](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-16090).
+
+## Artículo 5.
+
+Los ejemplares de las ediciones especiales destinadas a instituciones o entidades deberán ostentar claramente dicha especificación.
+
+En el caso de su comercialización, tales ediciones sólo podrán ser objeto de venta a los miembros de las Instituciones o Entidades a las que van destinados y al precio fijado por el editor de aquéllas.
+
+Las Instituciones o Entidades culturales de base asociativa que actúen como editores podrán fijar libremente un precio especial para los ejemplares destinados a sus miembros o asociados, debiendo figurar claramente esta especificación en dichos ejemplares. El resto de la edición quedará sometido al régimen general de precio fijo de venta al público que establece el presente Real Decreto.
+
+## Artículo 6.
+
+Todo editor o importador quedará obligado a indicar en los libros por él editados o importados el precio fijo mediante impresión en cada libro, incorporación de etiquetas adhesivas, en forma de encarte o mediante la entrega de sus catálogos, listas de precios, o cualquier otro documento mercantil donde se especifique el precio fijo de venta al público.
+
+La consignación del número ISBN según lo establecido por el Decreto 2984/1972, de 2 de noviembre, y la Orden de 25 de marzo de 1987, podrá también cumplimentarse mediante sistemas de identificación codificados.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 99, de 25 de abril de 1990. [Ref. BOE-A-1990-9528](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-9528).
+
+## Artículo 7.
+
+A requerimiento del consumidor, el librero o detallista quedará obligado a mostrarle el catálogo o listas de precios, facturas o albaranes, o cualquier otro documento mercantil donde se especifique el precio fijo de venta al público.
+
+El librero o cualquier otro detallista, será responsable de que figure la indicación del precio en los libros que oferte desde su establecimiento, de acuerdo con las disposiciones en vigor sobre la materia.
+
+Asimismo, el librero o cualquier otro detallista estará obligado a que figure en lugar visible del establecimiento un extracto del contenido del presente Real Decreto en los términos y características que se desarrollen por Orden ministerial.
+
+## Artículo 8.
+
+Las responsabilidades administrativas por el incumplimiento de las obligaciones establecidas en el presente Real Decreto se entenderán sin perjuicio de las acciones legales que puedan ejercitarse al amparo de la legislación específica de competencia desleal, para los supuestos de la obtención de las ventajas competitivas adquiridas mediante la infracción de una norma jurídica.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 99, de 25 de abril de 1990. [Ref. BOE-A-1990-9528](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-9528).
+
+## Disposición derogatoria.
+
+Queda derogado el Real Decreto 2828/1979, de 26 de octubre, sobre precio de venta al por menor de libros al público, y la Orden de 10 de diciembre de 1980 que desarrolla el Real Decreto citado.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 99, de 25 de abril de 1990. [Ref. BOE-A-1990-9528](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-9528).
+
+## Disposición final.
+
+El presente Real Decreto entrará en vigor a partir de los treinta días de su publicación en el «Boletín Oficial del Estado».
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 99, de 25 de abril de 1990. [Ref. BOE-A-1990-9528](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-9528).
+
+Dado en Madrid, 30 de marzo de 1990.
+
+JUAN CARLOS R.
+
+El Ministro de Cultura,
+
+JORGE SEMPRÚM Y MAURA

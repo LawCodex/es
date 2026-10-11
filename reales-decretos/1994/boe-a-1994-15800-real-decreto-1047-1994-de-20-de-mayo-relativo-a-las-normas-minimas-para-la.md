@@ -1,0 +1,175 @@
+---
+title: "Real Decreto 1047/1994, de 20 de mayo, relativo a las normas mínimas para la protección de terneros"
+identifier: "BOE-A-1994-15800"
+eli: "https://www.boe.es/eli/es/rd/1994/05/20/1047"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1994-05-20
+published: 1994-07-07
+in_force_from: 1994-07-08
+last_amended: 2023-03-08
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 161"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-15800"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1047/1994, de 20 de mayo, relativo a las normas mínimas para la protección de terneros
+
+El Convenio europeo de 10 de marzo de 1976, ratificado por España mediante Instrumento de 21 de abril de 1988, recoge las normas mínimas sobre protección de animales en explotaciones ganaderas.
+
+Ante la necesidad de establecer normas de bienestar más concretas para algunas especies de animales ganaderas, la Comunidad Económica Europa adoptó la Directiva 91/629/CEE, del Consejo, de 19 de noviembre, relativa a las normas mínimas para la protección de terneros, cuya transposición al ordenamiento interno se efectúa por el presente Real Decreto.
+
+En dicha Directiva se pretende tanto asegurar el bienestar de estos animales en los modernos sistemas de explotación ganadera, como evitar las diferencias que puedan aparecer en la producción que perjudiquen a la organización común de mercados de terneros y productos derivados.
+
+Por otra parte, la plena realización del mercado interior previsto en el artículo 7 A del Tratado Constitutivo de la Comunidad Europea implica la supresión de todos los obstáculos en los intercambios intracomunitarios con vistas a la fusión de los mercados nacionales en un mercado único. Teniendo en cuenta que ello lleva consigo la supresión de los controles en frontera para el comercio intracomunitario y el refuerzo de las garantías en origen, no se pueden hacer diferencias entre productos destinados al mercado nacional y los destinados al mercado de otro Estado miembro, por lo que se ha promulgado la normativa comunitaria anteriormente citada.
+
+La transposición al ordenamiento jurídico español de la Directiva 91/629/CEE se efectúa de acuerdo con las competencias atribuidas al Estado con carácter exclusivo sobre comercio exterior y sobre bases y coordinación general de la sanidad en el artículo 149.1.10 y 16 de la Constitución, habiendo sido consultadas las entidades del sector que resultan afectadas.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 20 de mayo de 1994,
+
+## D I S P O N G O :
+
+### Artículo 1. Objeto.
+
+El presente Real Decreto establece las normas mínimas para la protección de terneros confinados para la cría y el engorde.
+
+### Artículo 2. Definiciones.
+
+A efectos del presente Real Decreto se entenderá por:
+
+1\. «Ternero»: Animal bovino hasta los seis meses de edad.
+
+2\. Autoridad competente: Los órganos competentes de las comunidades autónomas y de las ciudades de Ceuta y Melilla.
+
+> Se modifica el apartado 2 por la disposición final 1.1 del Real Decreto 159/2023, de 7 de marzo. [Ref. BOE-A-2023-6083](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6083)
+
+### Artículo 3. Espacios mínimos en las explotaciones de terneros, plazos de cumplimiento y excepciones.
+
+1\. A partir del 1 de enero de 1994, y durante un período transitorio de cuatro años, todas las explotaciones de nueva construcción o reconstruidas y/o puestas en funcionamiento por vez primera después de esta fecha deben cumplir, al menos, los requisitos siguientes:
+
+a) Cuando los terneros estén alojados en grupo, deberán disponer de un espacio libre suficiente para que puedan darse la vuelta y acostarse sin dificultad y de 1,5 metros cuadrados, por lo menos, para cada ternero de 150 kilogramos de peso vivo.
+
+b) Cuando los terneros estén alojados en recintos individuales o atados en establos, dichos recintos o establos deberán tener tabiques calados y su anchura no podrá ser inferior bien a 90 centímetros, más o menos el 10 por 100, o bien 0,80 veces su alzada.
+
+2\. Las disposiciones del apartado 1 no se aplicarán a las explotaciones de menos de seis terneros.
+
+3\. A partir del 1 de enero de 1998, se aplicarán a todas las explotaciones de nueva construcción o reconstruidas y a todas aquellas que entren en funcionamiento por primera vez después de esa fecha las siguientes disposiciones:
+
+a) No se mantendrá encerrado a ningún ternero de más de ocho semanas de edad en recintos individuales, a menos que un veterinario haya certificado que su salud o comportamiento requiere que se le aísle para que pueda recibir un tratamiento. La anchura del recinto individual de un ternero deberá ser, por lo menos, igual a la altura del animal en la cruz estando de pie y su longitud deberá ser, por lo menos, igual a la longitud del ternero medida desde la punta de la nariz hasta el extremo caudal del isquion y multiplicada por 1,1.
+
+Ningún alojamiento individual para terneros, con excepción de aquellos en que se aísle a los animales enfermos, deberá disponer de muros sólidos, sino de tabiques perforados que permitan un contacto visual y táctil directo entre los terneros.
+
+b) En el caso de los terneros criados en grupo, el espacio libre de que disponga cada animal deberá ser igual, por lo menos, a 1,5 metros cuadrados para cada ternero de peso vivo inferior a 150 kilogramos, y, al menos, de 1,7 metros cuadrados para cada ternero de un peso en vivo igual o superior a 150 kilogramos pero inferior a 220 kilogramos, y, al menos, de 1,8 metros cuadrados para cada ternero de un peso en vivo igual o superior a 220 kilogramos.
+
+No obstante, las disposiciones del punto a) del presente apartado no se aplicarán:
+
+1.º A las explotaciones con menos de seis terneros.
+
+2.º A los terneros mantenidos con sus madres para su amamantamiento.
+
+A partir del 31 de diciembre de 2006, las disposiciones que anteceden se aplicarán a todas las explotaciones.
+
+4\. El período de uso de las instalaciones construidas:
+
+a) Antes del 1 de enero de 1994 y que no cumplan los requisitos del apartado 1, lo determinará la autoridad competente, con arreglo a los resultados de las inspecciones contempladas en el apartado 1 del artículo 5 y en ningún caso excederá del 31 de diciembre del año 2003.
+
+b)**(Suprimida)**
+
+> Se modifica el apartado 3 por la disposición final 1.2 del Real Decreto 159/2023, de 7 de marzo. [Ref. BOE-A-2023-6083](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6083)
+
+> Se modifica la letra b) del apartado 3 por la disposición final 4 del Real Decreto 692/2010, de 20 de mayo. [Ref. BOE-A-2010-8824](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8824).
+
+> Se modifica el apartado 3 y se suprime el apartado 4.b) por el art. único.1 y 2 del Real Decreto 229/1998, de 16 de febrero. [Ref. BOE-A-1998-3566](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3566).
+
+### Artículo 4. Condiciones de cría de los terneros.
+
+Las condiciones relativas a la cría de terneros serán conformes con las disposiciones generales establecidas en el anexo.
+
+### Artículo 5. Control.
+
+1\. Los órganos competentes de las comunidades autónomas y de las ciudades de Ceuta y Melilla remitirán al Ministerio de Agricultura, Pesca y Alimentación el resultado de los controles oficiales realizados el año anterior para comprobar el cumplimiento de los requisitos del presente real decreto.
+
+2\. El formato de dicho informe y la fecha de remisión se determinarán de acuerdo con lo establecido en la normativa de la Unión Europea y en la Mesa de coordinación sobre bienestar y protección de los animales mantenidos con fines agrarios y para la acuicultura, de forma que sea posible dar cumplimiento a lo establecido por la normativa de la Unión Europea.
+
+3\. El informe irá acompañado de un análisis de los casos más graves de incumplimiento observados y de un plan de acción para evitar o reducir su repetición en los años siguientes.
+
+> Se modifica por la disposición final 1.3 del Real Decreto 159/2023, de 7 de marzo. [Ref. BOE-A-2023-6083](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6083)
+
+### Artículo 6. Importación de países terceros.
+
+Para ser importados en el territorio español, los animales procedentes de un país tercero deberán acompañarse de un certificado expedido por la autoridad competente de ese país, que certifique que se han beneficiado de un tratamiento, al menos, equivalente al concedido a los animales de origen comunitario, tal como se establece en el presente Real Decreto.
+
+### Artículo 7. Inspecciones de la Unión Europea.
+
+Los órganos competentes de las comunidades autónomas y de las ciudades de Ceuta y Melilla, así como el Ministerio de Agricultura, Pesca y Alimentación, en el ámbito de sus competencias, facilitarán la asistencia necesaria para el cumplimiento de sus funciones en el caso de que expertos de la Comisión Europea, solos o acompañados de expertos nacionales, realicen controles en el Reino de España, incluyendo auditorías, pudiendo los representantes del citado Departamento acompañar a dichos expertos.
+
+> Se modifica por la disposición final 1.4 del Real Decreto 159/2023, de 7 de marzo. [Ref. BOE-A-2023-6083](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6083)
+
+### Artículo 8. Incumplimientos y sanciones.
+
+En caso de incumplimiento de lo dispuesto en el presente real decreto, será de aplicación el régimen de infracciones y sanciones establecido en la Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio, y en la normativa autonómica de aplicación, sin perjuicio de las posibles responsabilidades civiles, penales o de otro orden que puedan concurrir.
+
+> Se añade por la disposición final 1.5 del Real Decreto 159/2023, de 7 de marzo. [Ref. BOE-A-2023-6083](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6083)
+
+### Disposición adicional única. Carácter de la disposición.
+
+El presente Real Decreto se dicta al amparo de las competencias atribuidas al Estado en el artículo 149.1.10 y 16 de la Constitución, sobre comercio exterior y sobre bases y coordinación general de la sanidad.
+
+### Disposición final primera. Facultad de aplicación.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para dictar, en el ámbito de sus competencias, las disposiciones necesarias para el cumplimiento y aplicación de lo dispuesto en el presente Real Decreto y, en particular, para adaptar el contenido del anexo a las modificaciones que en el mismo se introduzcan de acuerdo con el procedimiento y la normativa comunitaria.
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 20 de mayo de 1994.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+LUIS MARIA ATIENZA SERNA
+
+## ANEXO
+
+1\. Los materiales utilizados en la construcción de los establos y en particular de los recintos y equipos con los que los terneros puedan estar en contacto no deberán causar daño a los terneros y deberán poder limpiarse y desinfectarse a fondo.
+
+2\. Hasta la fecha en que se establezca una normativa comunitaria en la materia, los circuitos e instalaciones eléctricas se instalarán de conformidad con la normativa nacional vigente para evitar cualquier descarga eléctrica.
+
+3\. El aislamiento, la calefacción y la ventilación del edificio garantizarán que la circulación del aire, el nivel de polvo, la temperatura, la humedad relativa del aire y la concentración de gases se mantengan dentro de unos límites que no sean perjudiciales para los terneros.
+
+4\. Todos los equipos automáticos o mecánicos indispensables para la salud y el bienestar de los terneros se inspeccionarán al menos una vez al día. Cuando se descubran deficiencias, se subsanarán de inmediato o, si no fuera posible, se adoptarán las medidas adecuadas para proteger la salud y el bienestar de los terneros hasta que la deficiencia haya sido remediada, en particular mediante el uso de métodos alternativos para el suministro de alimentos y el mantenimiento de un entorno satisfactorio.
+
+Cuando se utilice un sistema de ventilación artificial, se dispondrá de un sistema de sustitución adecuado para garantizar la suficiente renovación del aire para salvaguardar la salud y el bienestar de los terneros en caso de que se averíe dicho sistema, así como de un sistema de alarma que advierta de la avería al ganadero. El sistema de alarma deberá probarse periódicamente.
+
+5\. No se mantendrá permanentemente a los terneros en la oscuridad. A este respecto y a fin de atender a sus necesidades fisiológicas y de comportamiento, se dispondrá, teniendo en cuenta las distintas condiciones climáticas de los Estados miembros, de una iluminación adecuada natural o artificial, equivalente, al menos, en el segundo caso, al tiempo de iluminación natural disponible entre los nueve y las diecisiete horas. Por otra parte, se dispondrá de una iluminación adecuada (fija o móvil), que posea la suficiente intensidad para poder inspeccionar a los terneros en cualquier momento.
+
+6\. Todos los terneros estabulados deberán ser inspeccionados por el propietario o el responsable de los animales, al menos, dos veces al día, y los mantenidos en el exterior, como mínimo, una vez al día. Los que parezcan hallarse enfermos o heridos recibirán sin demora el tratamiento adecuado, debiéndose consultar lo antes posible a un veterinario en caso de que el animal no responda a los cuidados del ganadero. En caso necesario, se aislará a los terneros enfermos o heridos en un lugar conveniente que esté provisto de lechos secos y confortables.
+
+7\. Los establos estarán construidos de tal manera que todos los terneros puedan tenderse, descansar, levantarse y limpiarse sin peligro.
+
+8\. No se deberá atar a los terneros, con excepción de los alojados en grupo, que podrán ser atados durante períodos de no más de una hora en el momento de la lactancia o de la toma del producto sustitutivo de la leche. Cuando se ate a los terneros, las ataduras no les deberá ocasionar heridas y serán inspeccionadas periódicamente y ajustadas en la medida de lo necesario para asegurar un ceñimiento confortable. Las ataduras estarán diseñadas de tal forma que eviten todo riesgo de estrangulación o herida y permitan que el ternero tenga todas las posibilidades de movimiento indicadas en el apartado 7.
+
+9\. Los establos, jaulones, utensilios y equipos destinados a los terneros se limpiarán y desinfectarán de forma adecuada para prevenir infecciones cruzadas y la aparición de organismos patógenos. Las heces, la orina y los alimentos no consumidos o vertidos se retirarán con la mayor frecuencia posible para evitar los olores y la posibilidad de moscas o roedores.
+
+10\. Los suelos no serán resbaladizos, pero tampoco presentarán asperezas, para evitar que los terneros se hieran, y se construirán de tal forma que no ocasionen heridas o daños a los terneros que permanezcan de pie o se tiendan sobre ellos. Serán adecuados para el tamaño y peso de los animales y formarán una superficie rígida, llana y estable. La zona en que se tiendan los terneros será confortable, estará seca, tendrá un buen sistema de desagüe y no será perjudicial para el animal. Los terneros de menos de dos semanas de edad deberán disponer de un lecho adecuado.
+
+11\. Todo ternero recibirá una alimentación adecuada a su edad, peso y necesidad fisiológicas y de comportamiento, con el fin de propiciar en él un buen estado de salud y un adecuado nivel de bienestar. A tal efecto, la dieta diaria incluirá una dosis suficiente de hierro para garantizar un nivel de hemoglobina en sangre de, al menos, 4,5 mmol/l y se proporcionará a cada ternero de más de dos semanas una ración diaria mínima de fibra, aumentándose la cantidad de 50 gramos a 250 gramos diarios para los terneros de ocho a veinte semanas de edad. No se pondrá bozales a los terneros.
+
+12\. Todos los terneros recibirán, al menos, dos raciones diarias de alimentos. Cuando los terneros estén alojados en grupo y no sean alimentados a voluntad o por un sistema automático, cada ternero tendrá acceso al alimento al mismo tiempo que los demás.
+
+13\. A partir de las dos semanas de edad, todos los terneros deberán tener acceso a agua fresca adecuada, distribuida en cantidades suficientes, o poder saciar su necesidad de líquidos mediante la ingestión de otras bebidas.
+
+Sin embargo, cuando haga calor, o en el caso de terneros enfermos, deberá disponerse en todo momento de agua potable.
+
+14\. Los equipos para el suministro de alimentos y agua estarán concebidos, construidos, instalados y mantenidos de tal forma que se reduzca al mínimo el riesgo de contaminación de los alimentos y del agua destinados a los terneros.
+
+15\. Todo ternero recibirá calostro bovino lo antes posible después de su nacimiento y, en todo caso, dentro de sus seis primeras horas de vida.
+
+> Se modifica por el art. único.3 del Real Decreto 229/1998, de 16 de febrero. [Ref. BOE-A-1998-3566](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3566).

@@ -1,0 +1,331 @@
+---
+title: "Real Decreto 437/1983, de 9 de febrero, sobre constitución y funcionamiento del Consejo Fiscal"
+identifier: "BOE-A-1983-6884"
+eli: "https://www.boe.es/eli/es/rd/1983/02/09/437"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1983-02-09
+published: 1983-03-07
+in_force_from: 1983-03-27
+last_amended: 2017-12-02
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 56"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1983-6884"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 437/1983, de 9 de febrero, sobre constitución y funcionamiento del Consejo Fiscal
+
+Las importantes funciones que el Estatuto Orgánico del Ministerio Fiscal. aprobado por Ley 50/1981, de 30 de diciembre atribuye al Consejo Fiscal exigen la publicación de las normas para su constitución y funcionamiento, que podrán ser incorporadas, en su día, al Reglamento que desarrolle el Estatuto.
+
+En su virtud, a propuesta del Ministro de Justicia, oído el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 9 de febrero de 1983,
+
+## DISPONGO:
+
+### Artículo 1.
+
+El Consejo Fiscal tendrá su sede en la de la Fiscalía General del Estado y estará constituido por el Fiscal General del Estado, el Teniente Fiscal del Tribunal Supremo y el Fiscal Inspector, en condición de vocales natos, así como por nueve vocales electivos, que deberán ser miembros del Ministerio Fiscal, en servicio activo y pertenecientes a cualquiera de sus categorías.
+
+> Se modifica por el art. único.1 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 2.
+
+1\. El Consejo Fiscal podrá funcionar en Pleno y en Comisión Permanente.
+
+El Pleno estará constituido por todos los vocales natos y electivos y la Comisión Permanente estará integrada por los vocales natos y por tres vocales electivos designados por el pleno del Consejo.
+
+El Pleno quedará válidamente constituido cuando se hallen presentes, al menos, ocho de sus miembros, de los que seis deberán ser vocales electivos. La Comisión Permanente se constituirá válidamente cuando estén presentes, al menos, tres de sus miembros de los que dos deberán ser vocales electivos.
+
+Los acuerdos se adoptarán por mayoría simple de los votos emitidos y, en caso de empate, el voto del Presidente será dirimente.
+
+Actuará como Secretario, tanto del Pleno, como de la Comisión Permanente, el fiscal más moderno.
+
+2\. En el seno del Consejo Fiscal se integrará una Comisión de Igualdad para el estudio de la mejora de los parámetros de igualdad de la carrera fiscal.
+
+Dicha comisión estará formada por tres vocales designados por el Pleno y será presidida por el de mayor antigüedad de entre ellos. Se renovará bienalmente, pudiendo sus miembros ser reelegidos.
+
+> Se modifica por el art. único.1 del Real Decreto 1372/2009, de 28 de agosto. [Ref. BOE-A-2009-14649](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-14649).
+
+> Se modifica por el art. único.1 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 3.
+
+Son competencias del Consejo Fiscal en Pleno:
+
+a) Regular su propio funcionamiento interno.
+
+b) Elaborar los criterios generales en orden a asegurar la unidad de actuación del Ministerio Fiscal en lo referente a estructuración y funcionamiento de sus órganos.
+
+c) Asesorar al Fiscal General del Estado en cuantas materias este le someta.
+
+d) Informar las propuestas de nombramiento de los diversos cargos y ascensos que no sean automáticos y reglados.
+
+e) Instar las reformas convenientes al servicio y al ejercicio de la función fiscal.
+
+f) Conocer los planes anuales de la Inspección Fiscal.
+
+g) Conocer e informar los planes de formación y selección de los fiscales.
+
+h) Apreciar las posibles incompatibilidades a que se refiere el Estatuto Orgánico del Ministerio Fiscal, así como la existencia de causas de prohibición para el ejercicio del cargo a que se refiere el artículo 58.1 del citado estatuto.
+
+i) Resolver los expedientes disciplinarios y de mérito que sean de su competencia.
+
+j) Resolver los recursos interpuestos contra resoluciones dictadas en expedientes disciplinarios por los Fiscales Jefes de los distintos órganos del Ministerio Fiscal.
+
+k) Ser oído, previo conocimiento del expediente, en la remoción de los Fiscales Jefes de los distintos órganos del Ministerio Fiscal.
+
+l) Informar, previo conocimiento del expediente contradictorio, la imposición de la sanción de separación de servicio.
+
+m) Informar al órgano competente para resolver y, previo examen del expediente contradictorio instruido al efecto, sobre los traslados forzosos previstos en el artículo 40 del Estatuto Orgánico del Ministerio Fiscal.
+
+n) Informar las propuestas de designación y, en su caso, los relevos de los Delegados de Jefatura de las Fiscalías.
+
+ñ) Ser oído por el Fiscal General del Estado antes de resolver en el supuesto de discrepancias de criterio entre los Fiscales Jefes y las Juntas de Fiscales en temas cuya competencia esté atribuida al Consejo Fiscal.
+
+o) Informar los anteproyectos de ley y proyectos de normas reglamentarias que afectan a la estructura, organización y funciones del Ministerio Fiscal.
+
+p) Las demás funciones que la ley u otras disposiciones le confieran y aquellas que, aun estando atribuidas a la Comisión Permanente, recabe para su conocimiento por razón de su importancia o complejidad.
+
+> Se modifica por el art. único.1 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 4.
+
+Compete a la Comisión Permanente:
+
+1\. Elaborar los informes para ascensos de los miembros de la carrera fiscal que se rijan por criterios reglados.
+
+2\. Informar al Fiscal general del Estado sobre la conveniencia de ordenar que se destaquen temporalmente uno o varios Fiscales a un órgano fiscal o jurisdiccional determinado, con arreglo a lo dispuesto en el artículo 20 del Estatuto.
+
+3\. Informar al Fiscal general del Estado sobre las adscripciones permanentes a que se refiere el artículo 21 del Estatuto orgánico.
+
+4\. Conocer de las sustituciones reguladas en el artículo 23 del Estatuto.
+
+5\. Informar al Fiscal general del Estado en las designaciones para actuar en asunto determinado.
+
+6\. Informar los expedientes de cancelación de sanciones por faltas graves o muy graves.
+
+7\. Cuantas otras funciones le delegue el Pleno del Consejo Fiscal.
+
+### Artículo 5.
+
+Los acuerdos decisorios de naturaleza sancionadora del Consejo Fiscal serán susceptibles de recurso contencioso-administrativo ante la Sala correspondiente de la Audiencia Nacional.
+
+> Se modifica por el art. único.2 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 6.
+
+1\. En el caso de vacante, ausencia o enfermedad, el Fiscal General del Estado será sustituido en la presidencia del Pleno y de la Comisión Permanente por el Teniente Fiscal del Tribunal Supremo.
+
+2\. El Fiscal general del Estado podrá delegar en el Teniente Fiscal del Tribunal Supremo la Presidencia de la Comisión Permanente.
+
+> Se modifica el apartado 1 por el art. único.3 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 7.
+
+Los Vocales natos adquirirán tal condición al posesionarse del cargo que determina su cualidad de Consejero, y no podrán renunciar a ésta.
+
+### Artículo 8.
+
+Los Vocales electivos adquirirán tal condición una vez firme el acuerdo de proclamación de los resultados de la elección por la Junta Electoral, que expedirá las correspondientes credenciales.
+
+### Artículo 9.
+
+El mandato de los Vocales electivos será de cuatro años, a contar desde el día siguiente al de la constitución del Consejo, y no podrán ser reelegidos para el período siguiente al de su mandato salvo los sustitutos que lleven menos de un año ejerciendo su función de Consejero.
+
+Los Vocales que deban cesar por agotamiento del mandato continuarán ejerciendo sus funciones hasta la constitución del nuevo Consejo.
+
+### Artículo 10.
+
+Los vocales del Consejo Fiscal no estarán ligados por mandato imperativo alguno y cesarán en su cargo por agotamiento de su mandato, renuncia, incapacidad, jubilación, pérdida de la situación de servicio activo, incumplimiento grave de sus deberes como vocal o sanción disciplinaria de suspensión de hasta tres años o separación del servicio.
+
+La aceptación de la renuncia competerá al Presidente.
+
+El cese por incapacidad o incumplimiento de los deberes del cargo de vocal deberá ser acordado por el Pleno del Consejo por mayoría de dos tercios de sus miembros, previo expediente contradictorio.
+
+El cese por sanción disciplinaria se producirá al cobrar firmeza la sanción y las restantes causas determinarán, por sí solas, el cese en la condición de vocal del Consejo Fiscal.
+
+> Se modifica por el art. único.4 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 11.
+
+Los Vocales del Consejo Fiscal continuarán desempeñando )as funciones propias de su destino en la carrera fiscal. Acudirán a las reuniones de aquél, cuando sean convocadas al efecto, sin necesidad de solicitar permiso, aunque notificando la ausencia a su superior jerárquico.
+
+### Artículo 12.
+
+El desempeño del cargo de Vocal del Consejo Fiscal no es retribuido, sin perjuicio del derecho a percibir las dietas de asistencia y las indemnizaciones de desplazamiento que legalmente les correspondan por acudir a las reuniones a que sean convocados.
+
+### Artículo 13.
+
+El cese anticipado de los vocales del Consejo Fiscal dará lugar a su inmediata sustitución. Cuando se trate de vocales natos, serán sustituidos por quien legalmente ocupe los respectivos cargos, y si fueran efectivos, por el sustituto que corresponda con arreglo a lo dispuesto en el artículo 26.
+
+El mandato de los sustitutos se extenderá por el tiempo de mandato que a los sustituidos les quedara por cumplir.
+
+> Se modifica por el art. único.5 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 14.
+
+La elección de los vocales se llevará a cabo por los miembros de la carrera fiscal en activo, mediante voto personal, igual, directo y secreto. Será válido el voto emitido por correo.
+
+> Se modifica por el art. único.5 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+> Se modifica el párrafo segundo por el art. único del Real Decreto 572/1987, de 30 de abril. [Ref. BOE-A-1987-10506](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10506).
+
+### Artículo 15.
+
+La circunscripción electoral será única para todo el territorio nacional y se distribuirá por secciones, correspondientes a cada una de las Fiscalías de las Comunidades Autónomas, Fiscalías Provinciales y Fiscalías de Área, que agruparán a los electores destinados en ellas con inclusión de los que lo estén en las secciones territoriales de las mismas. Se exceptúan las Fiscalías Provinciales que compartan sede con la Fiscalía de la Comunidad Autónoma respectiva, la cual integrará en su sección a los electores de aquéllas.
+
+La Sección de Madrid incluirá, además, a los fiscales de la Fiscalía General del Estado, del Tribunal Supremo, ante el Tribunal Constitucional, de la Audiencia Nacional, del Tribunal de Cuentas, de la Fiscalía Antidroga, de la Fiscalía contra la Corrupción y la Criminalidad Organizada y fiscales de sala coordinadores en materias específicas, así como a los fiscales adscritos a estos.
+
+> Se modifica el primer párrafo por el art. único.1 del Real Decreto 1009/2017, de 1 de diciembre. [Ref. BOE-A-2017-14113](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14113)
+
+> Se modifica por el art. único.2 del Real Decreto 1372/2009, de 28 de agosto. [Ref. BOE-A-2009-14649](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-14649).
+
+> Se modifica por el art. único.5 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 16.
+
+En las sedes de las Fiscalías mencionadas en el primer párrafo del artículo anterior se constituirá una mesa electoral integrada por el Fiscal Jefe respectivo, que la presidirá, y los fiscales de mayor y menor antigüedad de la plantilla de la Fiscalía, cualquiera que sea su categoría. En las Fiscalías de Área, de estar vacante la Jefatura, presidirá la mesa electoral el Fiscal más antiguo de la plantilla de la Fiscalía.
+
+En Madrid, la mesa estará presidida por el Teniente Fiscal del Tribunal Supremo e integrada por el fiscal más antiguo de la segunda categoría y el más moderno de la tercera categoría de entre los destinados en la Fiscalía de la Comunidad Autónoma o Fiscalía Provincial, con residencia en Madrid, y el más moderno de cada una de las Fiscalías ante el Tribunal Constitucional y de la Audiencia Nacional.
+
+> Se modifica el primer párrafo por el art. único.2 del Real Decreto 1009/2017, de 1 de diciembre. [Ref. BOE-A-2017-14113](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14113)
+
+> Se modifica por el art. único.3 del Real Decreto 1372/2009, de 28 de agosto. [Ref. BOE-A-2009-14649](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-14649).
+
+> Se modifica por el art. único.5 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 17.
+
+Las candidaturas serán abiertas y combinables entre sí de modo que cada votante pueda ejercer libremente su derecho a voto sin sujetarse necesariamente a los nombres comprendidos en una misma candidatura. No obstante, ningún candidato podrá formar parte de más de una candidatura.
+
+El número de candidatos de cada sexo, tanto titulares como suplentes, no podrá ser inferior, en cada candidatura, al 40% del total de los incluidos en la misma. En las candidaturas compuestas por tres miembros, dada la imposibilidad de cumplir los porcentajes de 60%-40%, bastará con cumplir los de 66%-33%. Para el caso de candidaturas individuales, el suplente habrá de ser de distinto sexo que el titular.
+
+Los candidatos se relacionarán por orden alfabético a partir de la inicial del primer apellido. Las candidaturas deberán incorporar suplentes, en igual número al de candidatos, a los efectos que se prevén en el artículo 26.
+
+Cada elector ejercerá su derecho al voto debiendo señalar a seis candidatos como máximo. Los votos emitidos de otra forma se considerarán nulos.
+
+> Se modifica por el art. único.4 del Real Decreto 1372/2009, de 28 de agosto. [Ref. BOE-A-2009-14649](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-14649).
+
+> Se modifica por el art. único.5 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 18.
+
+Será requisito indispensable para la validez de una candidatura que los candidatos que la integran sean propuestos bien por una asociación profesional de fiscales, bien por no menos de 45 miembros del Ministerio Fiscal, con derecho a voto y no pertenecientes a algunas de las asociaciones que presenten candidatura.
+
+> Se modifica por el art. único.5 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 19.
+
+Podrán ser candidatos todos los miembros en activo de la carrera fiscal.
+
+Para que sea válida la propuesta de un candidato deberá constar su aceptación.
+
+> Se modifica por el art. único.5 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 20.
+
+No podrán ser candidatos los vocales natos del Consejo Fiscal, los de la Junta Electoral, salvo renuncia, y los vocales que hayan concluido el mandato inmediatamente anterior, salvo los sustitutos que en la fecha de convocatoria de la elección lleven menos de un año ejerciendo su función de Consejero.
+
+> Se modifica por el art. único.5 del Real Decreto 1372/2009, de 28 de agosto. [Ref. BOE-A-2009-14649](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-14649).
+
+> Se declara la nulidad por Sentencia del TS de 8 de marzo de 2006. [Ref. BOE-A-2006-8091](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-8091).
+
+> Se modifica por el art. único.6 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 21.
+
+La organización de las elecciones corresponderá a la Junta Electoral, que será única y radicará en la Fiscalía General del Estado.
+
+La Junta Electoral estará presidida por el Fiscal General del Estado e integrada por el Fiscal Inspector, el Fiscal del Tribunal Supremo en activo de mayor antigüedad, el fiscal más antiguo en la tercera categoría e igualmente el más antiguo en la segunda categoría, ambos de la Fiscalía del Tribunal Superior de Justicia de Madrid. El cargo de miembro de la Junta Electoral sólo será renunciable en el caso de presentarse a la elección.
+
+Los miembros de la Junta Electoral serán sustituidos, en caso de imposibilidad o renuncia, por quienes legalmente les sustituyan en su cargo, en cuanto a los dos primeros, y por quienes les sigan en antigüedad, en cuanto a los demás.
+
+Durante el plazo comprendido entre la convocatoria de las elecciones y la proclamación de sus resultados, los miembros de la Junta Electoral no podrán ser trasladados o suspendidos en los cargos que les atribuyan aquella condición sino en virtud de sentencia penal en la que se imponga con carácter principal o accesorio la pena de inhabilitación o suspensión para cargo público.
+
+La efectividad de cualquier cambio de destino debida a causas diferentes de las mencionadas en el párrafo anterior será pospuesta hasta el término del proceso electoral.
+
+> Se modifica por el art. único.6 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 22.
+
+Los acuerdos de la Junta Electoral se adoptarán por mayoría de los presentes. El Presidente tendrá voto de calidad
+
+### Artículo 23.
+
+La Junta Electoral será competente para convocar las elecciones, dictar las normas necesarias para su organización, proceder al escrutinio definitivo y proclamar los resultados, resolver las cuestiones que se planteen sobre capacidad electoral activa y pasiva y, en general, para dirigir y ordenar el proceso electoral.
+
+Asimismo, la Junta fijará los trámites y formalidades del proceso electoral, mediante las correspondientes instrucciones en el marco de lo dispuesto en la ley y en este real decreto.
+
+Para procurar unos índices elevados de participación, la jornada electoral se desarrollará en horario de mañana y tarde.
+
+> Se modifica por el art. único.7 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 24.
+
+Los acuerdos de la Junta Electoral serán recurribles ante el Tribunal Supremo en vía contencioso-administrativa, con arreglo a lo dispuesto en la Ley de esta Jurisdicción.
+
+### Artículo 25.
+
+Serán proclamados electos los nueve candidatos que obtengan mayor número de votos. En caso de producirse empate será preferido el de mayor antigüedad en la carrera y, si fuere igual, el de mayor edad. No obstante, si el empate afectara a candidatos de distinto sexo, y los de un mismo sexo no hubieran obtenido un mínimo del 40% de candidatos electos en el cómputo global, el empate se resolverá en favor del candidato perteneciente a ese sexo.
+
+> Se modifica por el art. único.6 del Real Decreto 1372/2009, de 28 de agosto. [Ref. BOE-A-2009-14649](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-14649).
+
+> Se modifica por el art. único.8 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 26.
+
+Cuando se produzca el cese anticipado de un vocal electivo del Consejo Fiscal, se nombrará vocal al candidato de la misma lista por la que se haya presentado y que haya obtenido el mayor número de votos y, en su defecto, al suplente de la candidatura de la que formara parte el que ha cesado, atendiendo al orden establecido en aquella.
+
+> Se modifica por el art. único.8 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 27.
+
+Las candidaturas se presentarán ante la Junta Electoral, junto con el nombre de la Asociación que los presente y la certificación de su inscripción en el Registro correspondiente del Ministerio de Justicia o, en su caso. la lista de los proponentes individuales en la que constará nombre, cargo que desempeña en la carrera fiscal y firma. En todo caso habrá de acreditarse la aceptación, por escrito, de los candidatos.
+
+### Artículo 28.
+
+Examinadas las candidaturas y proclamados, en su caso, los candidatos, la Junta Electoral notificará a las Asociaciones que hayan propuesto candidatura y al primer firmante de las propuestas individuales tanto ese acuerdo con los nombres de los candidatos proclamados y rechazados como las circunstancias de sus proponentes. El plazo para subsanar defectos o recurrir el acuerdo será de tres días, a contar del de la notificación:
+
+La Junta Electoral, una vez firmes los anteriores acuerdos comunicará a todas las Fiscalías las listas de los candidatos proclamados y la fecha de la votación, que habrá de tener lugar entre los veinte y treinta días siguientes. Los Fiscales JefeS deberán notificar inmediata y formalmente a todos los miembros de sus Fiscalías las listas de los candidatos y la fecha de la votación, dando cuenta telegráfica a la Junta Electoral de haberlo efectuado.
+
+### Artículo 29.
+
+Los candidatos y las asociaciones profesionales de fiscales podrán designar interventores hasta tres días antes del señalado para la votación, y lo comunicarán por telegrama a la Junta Electoral, la cual lo hará, a su vez, a las mesas. Para ser designado interventor bastará reunir los requisitos exigidos para ser elector y no ser miembro de una mesa.
+
+> Se modifica por el art. único.9 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 30.
+
+Los escrutinios parciales correspondientes a las mesas electorales que se hubiesen constituido se llevarán a cabo por éstas al terminar la votación y se comunicaran a la Junta Electoral en el plazo máximo de 24 horas contado desde el cierre de las mesas electorales.
+
+El escrutinio definitivo se realizará por la Junta Electoral una vez recibidos los resultados anteriores y en el plazo máximo del octavo día hábil siguiente al cierre de las mesas electorales.
+
+La Junta Electoral proclamara los vocales electos y expedirá las correspondientes credenciales, de las que se remitirán copias auténticas a la Fiscalía General del Estado y al Ministerio de Justicia.
+
+> Se modifica por el art. único.7 del Real Decreto 1372/2009, de 28 de agosto. [Ref. BOE-A-2009-14649](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-14649).
+
+> Se modifica por el art. único.9 del Real Decreto 232/2005, de 4 de marzo. [Ref. BOE-A-2005-4408](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4408).
+
+### Artículo 31.
+
+En lo no previsto en el presente Decreto se aplicarán supletoriamente, acomodándose a tal efecto a las particularidades de esta elección, las normas contenidas en la legislación general electoral que estuviere vigente.
+
+### Disposición adicional.
+
+Dentro de los ocho días siguientes a la entrada en vigor de este Decreto el Fiscal general del Estado convocará a la Junta Electoral a efectos de su constitución. En el acto de la constitución se convocarán las elecciones y se señalará el plazo para presentación de las candidaturas, que no podrá ser inferior a treinta días, publicándose ambos acuerdos en el "Boletín Oficial del Estado".
+
+### Disposición final.
+
+El presente Real Decreto entrará en vigor a los veinte días siguientes de su publicación en el "Boletín Oficial del Estado".
+
+Dado en Madrid a 9 de febrero de 1983
+
+JUAN CARLOS R.
+
+El Ministro de Justicia
+
+Fernando Ledesma Bartret

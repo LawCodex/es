@@ -1,0 +1,5867 @@
+---
+title: "Decreto de 2 de junio de 1944 por el que se aprueba con carácter definitivo el Reglamento de la organización y régimen del Notariado"
+identifier: "BOE-A-1944-6578"
+eli: "https://www.boe.es/eli/es/d/1944/06/02/(1)"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1944-06-02
+published: 1944-07-07
+in_force_from: 1944-07-15
+last_amended: 2015-11-07
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 189"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1944-6578"
+retrieved: 2026-10-11
+---
+
+# Decreto de 2 de junio de 1944 por el que se aprueba con carácter definitivo el Reglamento de la organización y régimen del Notariado
+
+A propuesta del Ministerio de Justicia, oído el Consejo de Estado y de acuerdo con el Consejo de Ministros,
+
+DISPONGO:
+
+**Artículo 1.**
+
+Se aprueba con carácter definitivo el adjunto Reglamento de la organización y régimen del Notariado y sus tres Anexos.
+
+**Artículo 2.**
+
+Este Reglamento y sus Anexos empezarán a regir en la Península, Islas adyacentes y territorios españoles del Norte de Africa el día quince de julio de mil novecientos cuarenta y cuatro, con la excepción que se establece en el artículo siguiente.
+
+**Artículo 3.**
+
+El Anexo tercero relativo al ejercicio de la fe pública por los Agentes diplomáticos y consulares de España en el extranjero, regirá desde primero de enero de mil novecientos cuarenta y cinco.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a dos de junio de mil novecientos cuarenta y cuatro.
+
+FRANCISCO FRANCO
+
+El Ministro de Justicia,
+
+EDUARDO AUNÓS PÉREZ
+
+## EXPOSICIÓN
+
+El vigente Reglamento Notarial de 8 de agosto de 1935, como reconoce su preámbulo, tuvo un largo período formativo, ya que los primeros trabajos para la redacción del mismo, en los que colaboraron cuantos elementos del Cuerpo Notarial y de fuera de él podían ofrecer garantías de acierto, se iniciaron en el año 1930. La buena acogida que tuvo aquél a su publicación y los años que lleva aplicándose, han puesto de relieve el progreso que ha representado con relación a la serie de Reglamentos que le precedieron, publicados a partir de la Ley de 28 de mayo de 1862.
+
+Sin embargo, toda obra legislativa requiere revisiones periódicas que vengan a corregir los defectos o perfeccionar las ventajas que se hayan evidenciado en su aplicación y, por ello, ese es el propósito que anima a la actual reforma, en la que, respetándose las fases fundamentales del vigente Reglamento y desenvolviendo otras ya iniciadas, se trata de reajustarle en algunos de sus aspectos, con el fin de lograr el mejoramiento de la función, acrecentando con ello el prestigio de la institución notarial.
+
+Las novedades principales que se introducen tienden a una finalidad que ha de estimarse por todos plausible, cual es la de conseguir el arraigo del Notario en la localidad, de lo que se derivarán indudables ventajas para el servicio público y para el mismo Notario, al propio tiempo que se acomete la resolución de un problema que, en los últimos tiempos, ha adquirido extraordinarias proporciones acarreado graves consecuencias: el del incumplimiento del deber de residencia. Sus perniciosos efectos se han dejado sentir con más grande daño para el servicio notarial en estos últimos años, por la circunstancia de haberse producido las vacantes de más de un tercio del total de las Notarías demarcadas. Para remediar este problema, se ha acudido a una serie de medidas en las que predominan las de tipo preventivo, sin perjuicio de la aplicación estricta de las adecuadas sanciones reglamentarias. Con aquella finalidad se crean las mejoras de categoría por permanencia en la misma Notaria, en términos tan moderados que no representan privilegio; se proyecta la construcción de casas en las Notarías rurales; se dotan con subvenciones fijas a aquéllas de escasos rendimientos, y se establecen algunas limitaciones para tomar parte en los concursos, con objeto de acabar con la excesiva movilidad del Notario en la reglamentación actual.
+
+Desaparecidas las circunstancias que aconsejaron la centralización de las oposiciones libres a Notarías y el régimen establecido en el Decreto de 14 de octubre de 1942, se estima conveniente el restablecimiento de aquéllas en los Colegios Notariales, con ejercicios y programa que supongan una revaloración de un sistema de ingreso tradicionalmente prestigioso.
+
+No se ha creído oportuno modificar el sistema de turnos para la provisión de vacantes, y las únicas modificaciones que se introducen son las de romper la paridad hasta ahora existente entre el número de las que se turnan a oposición libre y entre Notarios, concediendo preferencia a estas últimas, y la de disponer que las vacantes de Madrid y Barcelona se turnen independientemente entre sí y de las demás de primera clase.
+
+Como fórmula armónica entre las soluciones extremas de la prohibición de concursar Notarias de capital de Colegio a los sesenta y cinco años de edad, que establecía el Reglamento de 1921, y la libertad de concursar, actualmente vigente, se dispone que los Notarios que hayan cumplido setenta años no podrán concursar Notarías de ninguna clase, adoptándose disposiciones transitorias que faciliten la implantación de esta medida.
+
+En materia de excedencias, se suprime el reingreso privilegiado por Notaría del mismo Colegio, que no tiene justificación; conservándose, no obstante, el derecho a volver al servicio activo, por Notaría de la misma población, como única excepción al régimen normal de reingreso por los turnos ordinarios.
+
+En cuanto al debatido problema de los convenios de reparto de documentos u honorarios, así como el de la llamada congrua local, sin desconocer que propugnan su implantación algunos sectores del Notariado, se ha estimado que ello repercutirá en la residencia y fomentaría el absentismo notarial, por lo cual se mantiene la prohibición del artículo 137, tratando de resolver el problema con la nueva reglamentación que se hace en el Anexo I, de las subvenciones de congrua, a las que se da la flexibilidad suficiente para atender, no sólo a las Notarias normalmente incongruas, sino también a los casos comprendidos en las repetidas congruas locales y otros igualmente justificados.
+
+En lo relativo al instrumento público, se precisa el valor del mismo, se regulan las escrituras de adhesión y la forma de hacerse efectiva la responsabilidad del Notario en los casos del artículo 146; recogiéndose, también, las disposiciones de la Ley de 1.º de abril de 1939, sobre intervención de testigos y subsanación de defectos formales. Se completa asimismo la reglamentación de las actas de notoriedad, esperando que alcance la finalidad que motivó su introducción en el Reglamento de 8 de agosto de 1935.
+
+Se incorporan también al texto reglamentario los Decretos de 10 de noviembre de 1938 y 7 de mayo de 1942 sobre reconstitución de protocolos y Tribunales de Honor.
+
+En materia de correcciones disciplinarias tan sólo se modifica la cuantía de las multas que se pueden imponer.
+
+El Anexo I de la mutualidad Notarial, recoge la serie de disposiciones que se han dictado últimamente para mejorar la situación de los pensionistas, teniendo en cuenta el encarecimiento de vida, y para hacer frente a este aumento de cargas, así como el que supone la elevación de los auxilios de defunción a 25.000 pesetas y la extensión de becas y subvenciones de estudios para huérfanos de Notarios, se ha procurado incrementar los recursos mutualistas.
+
+Finalmente, por las disposiciones transitorias se persigue la implantación de las reformas de modo que se respeten los derechos adquiridos.
+
+Tales son las modificaciones más importantes que contiene el proyecto que se presenta, con la aspiración de que con ellas obtenga la aprobación definitiva el Reglamento de la Organización y Régimen del Notariado y sus Anexos, que fue aprobado con carácter provisional por Decreto de 8 de agosto de 1935.
+
+Madrid, 2 de junio de 1944.—Eduardo Aunós Pérez.
+
+## REGLAMENTO DE LA ORGANIZACIÓN Y RÉGIMEN DEL NOTARIADO
+
+### TÍTULO PRELIMINAR — Principios fundamentales
+
+**Artículo 1.**
+
+El Notariado está integrado por todos los notarios de España, con idénticas funciones y los derechos y obligaciones que las leyes y reglamentos determinan.
+
+Los notarios son a la vez funcionarios públicos y profesionales del Derecho, correspondiendo a este doble carácter la organización del Notariado. Como funcionarios ejercen la fe pública notarial, que tiene y ampara un doble contenido:
+
+a) En la esfera de los hechos, la exactitud de los que el notario ve, oye o percibe por sus sentidos.
+
+b) Y en la esfera del Derecho, la autenticidad y fuerza probatoria de las declaraciones de voluntad de las partes en el instrumento público redactado conforme a las leyes.
+
+Como profesionales del Derecho tienen la misión de asesorar a quienes reclaman su ministerio y aconsejarles los medios jurídicos más adecuados para el logro de los fines lícitos que aquéllos se proponen alcanzar.
+
+El Notariado disfrutará de plena autonomía e independencia en su función, y en su organización jerárquica depende directamente del Ministerio de Justicia y de la Dirección General de los Registros y del Notariado. Sin perjuicio de esta dependencia, el régimen del Notariado se estimará descentralizado a base de Colegios Notariales, regidos por Juntas Directivas con jurisdicción sobre los notarios de su respectivo territorio.
+
+En ningún caso el notario, ni en el ejercicio de su función pública, ni como profesional del derecho, podrá estar sujeto a dependencia jerárquica o económica de otro notario.
+
+El ámbito territorial de los Colegios Notariales deberá corresponderse con el de las Comunidades Autónomas, de conformidad con lo previsto en el anexo V de este Reglamento.
+
+Las provincias integradas en cada Colegio Notarial se dividirán en Distritos, cuya extensión y límites determinará la Demarcación Notarial.
+
+> Se modifica por el art. 1.1 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 33, de 7 de febrero de 2007. [Ref. BOE-A-2007-2590](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-2590)
+
+**Artículo 2.**
+
+Al Notariado corresponde íntegra y plenamente el ejercicio de la fe pública, en cuantas relaciones de Derecho privado traten de establecerse o declararse sin contienda judicial.
+
+**Artículo 3.**
+
+El Notariado, como órgano de jurisdicción voluntaria, no podrá actuar nunca sin previa rogación de sujeto interesado, excepto en casos especiales legalmente fijados.
+
+Los particulares tienen el derecho de libre elección de notario sin más limitaciones que las previstas en el ordenamiento jurídico. La condición de funcionario público del notario impide que las Administraciones Públicas o los organismos o entidades que de ellos dependan puedan elegir notario, rigiendo para ellos lo dispuesto en el artículo 127 de este Reglamento.
+
+La prestación del ministerio notarial tiene carácter obligatorio siempre que no exista causa legal o imposibilidad física que lo impida.
+
+La jurisdicción notarial, fuera de los casos de habilitación, se extiende exclusivamente al Distrito Notarial en que está demarcada la Notaría.
+
+> Se modifica el párrafo segundo por el art. 1.2 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 4.**
+
+La demarcación notarial determinará el número y la residencia de los Notarios.
+
+También podrá establecer respecto de alguna o algunas de las Notarias de una población, de nueva creación, o ya existentes, para cuando queden vacantes, que los Notarios a quienes corresponda tengan instalado su despacho u oficina en barrios o distritos concretos de la misma, sin que esto altere su competencia territorial ni la de los restantes Notarios de lo población.
+
+La demarcación notarial deberá ser revisada en su totalidad transcurridos diez años desde la anterior revisión total. Tambien podrá serlo, transcurridos solamente cinco años, cuando las necesidades del servicio lo exijan conforme al artículo 3. de la Ley.
+
+Podrán realizarse revisiones parciales cuando lo exijan necesidades del servicio inherentes al nacimiento o a la expansión acelerada de núcleos de población, a la variación considerable de la contratación o a otras circunstancias semejantes, para demarcar alguna Notaría en población donde antes no la hubiere, trasladar la existente a otra población o aumentar o reducir el número de Notarias demarcadas en alguna. Para estas revisiones bastará que hayan transcurrido dos años desde la última revisión total, o tres desde la anterior parcial que les afecte.
+
+> Se modifica por el art. 1 del Real Decreto 1163/1983, de 30 de marzo. [Ref. BOE-A-1983-13178](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-13178).
+
+> Se modifica por el art. 1 del Real Decreto 1689/1980, de 24 de julio. [Ref. BOE-A-1980-18975](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-18975).
+
+### TÍTULO PRIMERO — De los Notarios
+
+#### CAPÍTULO I — Del ingreso en el Notariado
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+##### Sección 1.ª Condiciones personales de los aspirantes
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 5.**
+
+El ingreso en el Notariado tendrá lugar mediante oposición para obtener el Título de Notario. La convocatoria de la oposición se publicará en el "Boletín Oficial del Estado" y deberá expresar:
+
+a) El número de plazas que se convocan.
+
+b) El lugar donde vaya a celebrarse la oposición.
+
+c) Las condiciones o requisitos que deben reunir los aspirantes, la composición del tribunal o tribunales, en su caso, los ejercicios que han de celebrarse y el sistema o forma de la calificación, todo lo cual podrá expresarse por referencia a este reglamento.
+
+d) Una referencia al programa que ha de regir los dos primeros ejercicios de la oposición.
+
+e) La cuantía de los derechos de examen.
+
+f) La posibilidad de que en la misma oposición se constituyan simultáneamente varios tribunales distintos, identificados bajo números correlativos si lo considera conveniente la Dirección General a la vista del número de aspirantes admitidos, y de que alguno o algunos de dichos tribunales actúen en lugares distintos.
+
+g) El número de plazas que se reservan para personas que tengan la condición legal de personas con discapacidad con arreglo a lo dispuesto en la Ley 53/2003, de 10 de diciembre, sobre Empleo Público de Discapacitados y según el Real Decreto 1557/1995, de 21 de septiembre, sobre Acceso de Minusválidos a las oposiciones al título de notario.
+
+> Se añade la letra g) por el art. 1.3 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. único del Real Decreto 862/2003, de 4 de julio. [Ref. BOE-A-2003-13980](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-13980).
+
+> Se modifica por el art. 2 del Real Decreto 1728/1991, de 29 de noviembre. [Ref. BOE-A-1991-29525](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-29525).
+
+> Se modifica por el art. único del Real Decreto 950/1987, de 24 de julio. [Ref. BOE-A-1987-17387](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17387).
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+> Se modifica el párrafo tercero por el art. 1 del Decreto 173/1965, de 8 de febrero. [Ref. BOE-A-1965-2419](https://www.boe.es/buscar/doc.php?id=BOE-A-1965-2419).
+
+**Artículo 6.**
+
+Los que aspiren a realizar las pruebas selectivas para el ingreso en el Notariado deben reunir, en la fecha que termine el plazo de presentación de las instancias, las condiciones siguientes:
+
+a) Ser español u ostentar la nacionalidad de cualquier país miembro de la Unión Europea, o estar incurso en las situaciones previstas en el artículo 1 de la Ley 17/1993, de 23 de diciembre, de acceso a determinados sectores de la función pública de los nacionales de los Estados miembros de la Unión Europea.
+
+b) Ser mayor de edad.
+
+c) No encontrarse comprendido en ninguno de los casos que incapacitan o imposibilitan para el ejercicio del cargo de notario.
+
+d) Ser Doctor o Licenciado en Derecho o haber concluido los estudios de esta licenciatura, en los términos previstos en el segundo párrafo del apartado 2 del artículo 21 de este reglamento.
+
+Si el título procediera de un Estado miembro de la Unión Europea, deberá acreditar el reconocimiento u homologación del título equivalente, conforme a la Directiva 89/48/CEE, de 21 de diciembre de 1988, al Real Decreto 1665/1991, de 24 de octubre, y demás normas de transposición y desarrollo.
+
+> Se modifica por el art. único del Real Decreto 862/2003, de 4 de julio. [Ref. BOE-A-2003-13980](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-13980).
+
+> Se modifica por el art. único del Real Decreto 950/1987, de 24 de julio. [Ref. BOE-A-1987-17387](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17387).
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 7.**
+
+Carecen de aptitud para ingresar en el Notariado:
+
+1\. Los impedidos física o psíquicamente para desempeñar el cargo.
+
+2\. Los que estuvieren inhabilitados para el ejercicio de funciones públicas, como consecuencia de sentencia firme.
+
+3\. Los que se hallaren declarados en situación de prodigalidad, los quebrados no rehabilitados y los concursados no declarados inculpables.
+
+4\. Los que como consecuencia de expediente disciplinario hubieran sido separados del servicio de cualquiera de las Administraciones Públicas, por resolución firme.
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+##### Sección 2.ª Requisitos para el ingreso
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 8.**
+
+Las solicitudes para tomar parte en las oposiciones libres de ingreso en el Notariado deberán dirigirse a la Dirección General de los Registros y del Notariado. El plazo para presentar aquéllas será el de treinta días hábiles, contados desde el día siguiente al de la inserción de la convocatoria en el "Boletín Oficial del Estado".
+
+Para ser admitidos y, en su caso, tomar parte en la práctica de los ejercicios correspondientes bastará con que los aspirantes manifiesten en sus instancias que reúnen todas y cada una de las condiciones exigidas y que se comprometen a prestar acatamiento a la Constitución Española.
+
+Con la instancia podrán los aspirantes presentar los documentos que acrediten títulos o servicios académicos, científicos, culturales o administrativos.
+
+Al presentar la instancia, los solicitantes entregarán en la Dirección General de los Registros y del Notariado, en concepto de derechos de examen, la cantidad que en cada convocatoria se señale, de conformidad con la legislación vigente, al tiempo de su publicación. Si el solicitante desistiese de tomar parte en los ejercicios de oposición, no por ello tendrá derecho alguno a que le sea devuelta la cantidad ingresada.
+
+La presentación de instancias y el pago de derechos de examen podrán realizarse en la forma prevista en la Ley de Procedimiento Administrativo.
+
+Si alguna de las instancias adoleciese de algún defecto, se requerirá al interesado para que, en un plazo de diez días, subsane la falta, con apercibimiento de que si así no lo hiciere se le relacionará entre los excluidos.
+
+Expirado el plazo de presentación de instancias; la Dirección General aprobará con carácter provisional la lista de admitidos y excluidos, la cual se hará pública en el «Boletín Oficial del Estado», concediéndose un plazo de quince días para formular reclamaciones. Estas serán aceptadas o rechazadas en la resolución por la que se apruebe la lista definitiva, que, asimismo, se publicará en el "Boletín Oficial del Estado", fijándose, además, en lugar visible de la Dirección General.
+
+> Se modifica por el art. 2 del Real Decreto 1728/1991, de 29 de noviembre. [Ref. BOE-A-1991-29525](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-29525).
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 9.**
+
+Publicada la lista definitiva de aspirantes admitidos y excluidos, se hará el nombramiento del Tribunal o Tribunales por Orden Ministerial, dictada a propuesta de la Dirección General, que se hará pública en el «Boletín Oficial del Estado».
+
+> Se modifica por el art. único del Real Decreto 950/1987, de 24 de julio. [Ref. BOE-A-1987-17387](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17387).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 181, de 30 de julio de 1987. [Ref. BOE-A-1987-17745](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17745)
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+##### Sección 3.ª Del tribunal de las oposiciones libres y celebración de las mismas
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 10.**
+
+El tribunal o cada uno de los tribunales calificadores de la oposición estará compuesto por un presidente y seis vocales.
+
+Será presidente el Director General de los Registros y del Notariado o la persona en quien delegue, que podrá ser: uno de los subdirectores generales, si reúne la condición de notario o registrador; un notario o registrador de la propiedad o mercantil adscrito a la Dirección General de los Registros y del Notariado ; el decano u otro miembro de la Junta Directiva del colegio notarial donde se celebren las oposiciones, o un notario con más de 10 años de antigüedad en la carrera.
+
+Los vocales serán: dos notarios, uno de ellos perteneciente necesariamente al colegio donde se celebren las oposiciones ; un catedrático o profesor titular de universidad, en activo o excedente, de Derecho Civil, Mercantil, Financiero y Tributario, Romano, Internacional Privado, Procesal o Administrativo ; un miembro de la carrera judicial con categoría de magistrado ; un registrador de la propiedad o mercantil y un abogado del Estado, o un abogado ejerciente, con más de 15 años de ejercicio profesional especializado en asuntos civiles o mercantiles.
+
+Si presidiera el decano, otro miembro de la Junta Directiva o un notario, podrá ser vocal, en lugar de uno de los vocales notarios, un abogado del Estado o un registrador de la propiedad o mercantil.
+
+Ejercerá de secretario el vocal notario más moderno.
+
+En ausencia del presidente o del secretario, hará sus veces el vocal notario. Si el tribunal se hubiera constituido con varios notarios, la ausencia del presidente se cubrirá por el secretario, y la de éste, por un vocal registrador.
+
+El cargo de vocal es irrenunciable, salvo justa causa debidamente acreditada.
+
+La designación de los miembros de tribunales suplentes se realizará, en su caso, conforme a los mismos criterios señalados en los párrafos ante riores para el nombramiento de presidente, secretario y vocales de los tribunales titulares.
+
+> Se modifica por el art. único del Real Decreto 862/2003, de 4 de julio. [Ref. BOE-A-2003-13980](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-13980).
+
+> Se modifica por el art. 2 del Real Decreto 1728/1991, de 29 de noviembre. [Ref. BOE-A-1991-29525](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-29525).
+
+> Redactados los párrafos tercero y sexto conforme a la corrección de erratas publicada en BOE núm. 42, de 18 de febrero de 1992. [Ref. BOE-A-1992-3740](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-3740)
+
+> Se modifica por el art. único del Real Decreto 950/1987, de 24 de julio. [Ref. BOE-A-1987-17387](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17387).
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+> Se modifica por el art. 1 del Real Decreto 342/1978, de 10 de febrero. [Ref. BOE-A-1978-6588](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-6588).
+
+> Se modifica el párrafo primero por el art. 1 del Decreto 173/1965, de 8 de febrero. [Ref. BOE-A-1965-2419](https://www.boe.es/buscar/doc.php?id=BOE-A-1965-2419).
+
+**Artículo 11.**
+
+No podrán ser miembros del Tribunal quienes sean, entre sí o respecto de alguno de los opositores, cónyuges o parientes dentro del cuarto grado de consanguinidad o segundo de afinidad. Si, no obstante, fueren nombrados, incurrirán en causa de incompatibilidad, y se nombrará a los que hayan de sustituirles.
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 12.**
+
+En caso de pluralidad de tribunales, cada uno de ellos proveerá el mismo número de plazas convocadas; si hubiera exceso, la plaza o plazas en exceso se asignarán sucesivamente a los diversos tribunales.
+
+En el caso anterior, actuarán ante cada tribunal un número de opositores proporcional al número de plazas que deba proveer, haciéndose, en su caso, el redondeo oportuno.
+
+Publicado el nombramiento del tribunal o tribunales, la Dirección General citará a los nombrados para su constitución y, simultáneamente, señalará el local, día y hora en el que se celebrará, en su caso, el sorteo para determinar el tribunal ante el que ha de actuar cada opositor y su orden respectivo de actuación, así como el local o locales, en su caso, donde se celebrará la oposición, con expresión del día y hora de comienzo de los ejercicios, y hará públicos estos acuerdos en el "Boletín Oficial del Estado".
+
+El acto del sorteo será presidido por el Director General, o quien reglamentariamente le sustituya, y por dos miembros del tribunal o tribunales actuantes.
+
+Entre el sorteo y el comienzo del primer ejercicio deberá mediar, al menos, un plazo de 30 días ; y no podrá exceder de ocho meses el tiempo comprendido entre la publicación de la convocatoria y el comienzo de los ejercicios.
+
+> Se modifica por el art. único del Real Decreto 862/2003, de 4 de julio. [Ref. BOE-A-2003-13980](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-13980).
+
+> Se modifica por el art. 2 del Real Decreto 1728/1991, de 29 de noviembre. [Ref. BOE-A-1991-29525](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-29525).
+
+> Se modifica por el art. único del Real Decreto 950/1987, de 24 de julio. [Ref. BOE-A-1987-17387](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17387).
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 13.**
+
+Al tiempo de constituirse el Tribunal, todos sus miembros deberán prestar declaración de no estar comprendidos en ninguna de las causas de incompatibilidad previstas en el artículo 11. El cumplimiento de este requisito se hará constar en el acta correspondiente.
+
+Constituido el Tribunal le serán remitidos por la Junta directiva del Colegio Notarial la lista de opositores admitidos y excluidos y sus expedientes personales.
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 14.**
+
+En la fecha señalada por la Dirección General, conforme a lo previsto en el artículo 12 para la realización del sorteo, se celebrará sesión pública y, en ella, el Director general o quien reglamentariamente le sustituya, ordenará a quien desempeñe las funciones de Secretario del Tribunal o Tribunales actuantes, que dé lectura de la convocatoria y de la Orden nombrando los miembros del Tribunal o Tribunales y, en su caso, las delegaciones y designaciones reglamentarias.
+
+Realizado el sorteo se formará, por el número correlativo obtenido, la lista o listas de opositores que, autorizadas por el Presidente, se publicarán en el tablón de anuncios de la Dirección General y en el del local o locales de celebración de las oposiciones.
+
+> Se modifica por el art. único del Real Decreto 950/1987, de 24 de julio. [Ref. BOE-A-1987-17387](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17387).
+
+> Redactado el párrafo segundo conforme a la corrección de erratas publicada en BOE núm. 181, de 30 de julio de 1987. [Ref. BOE-A-1987-17745](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17745)
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 15.**
+
+El Tribunal designará, con veinticuatro horas de antelación, por lo menos, y por orden riguroso de la lista de sorteo, los opositores, que podrán ser llamados para actuar en cada día.
+
+**Artículo 16.**
+
+Los ejercicios de la oposición serán cuatro: los dos primeros, orales, y el tercero y el cuarto, escritos. Tanto los dos primeros como la lectura del tercero y de la primera parte del cuarto serán públicos.
+
+El primer ejercicio consistirá en contestar verbalmente, en el plazo máximo de 60 minutos, a cuatro temas, los tres primeros, de Derecho Civil Español, Común y Foral, y el cuarto, de legislación fiscal. Los temas de Derecho Civil corresponderán, respectivamente, uno a las materias de parte general o introducción, propiedad y derechos reales ; otro, a obligaciones y contratos, y otro, a Derecho de Familia y sucesiones.
+
+El segundo ejercicio consistirá, a su vez, en contestar asimismo verbalmente, en el tiempo máximo de 60 minutos, y por el siguiente orden, a seis temas: dos de Derecho Mercantil, dos de Derecho Hipotecario, uno de Derecho Notarial y otro de Derecho Procesal o Administrativo. Los dos temas de Derecho Mercantil y de Derecho Hipotecario serán uno de cada parte en que se hallen divididas estas materias.
+
+En ambos ejercicios orales los temas serán sacados a la suerte de los comprendidos en el programa que deberá estar publicado en el "Boletín Oficial del Estado" un año antes de la convocatoria de la oposición. El opositor dispondrá de cinco minutos, como máximo, antes de comenzar la exposición, para reflexionar y tomar notas por escrito, si lo desea.
+
+El programa comprenderá una exposición del derecho positivo vigente en España en cada una de las materias que en él se incluyen, destacando, tanto en el Derecho Común como en el Foral, aquellas que el notario debe profesionalmente conocer y aplicar y cuyo conocimiento le dote de una auténtica especialización en aquéllas.
+
+En la parte del Derecho Civil se incluirán los principios fundamentales de Derecho Internacional Privado.
+
+La legislación fiscal comprenderá aquellos impuestos que más puedan interesar al notario como asesor de los particulares.
+
+El indicado programa se revisará por la Dirección General cuando lo estime necesario, o a propuesta del Consejo General del Notariado, y siempre con informe preceptivo de éste.
+
+El tribunal no hará advertencia ni pregunta alguna a los opositores sobre las materias del ejercicio. Al presidente corresponde fijar la hora del comienzo y fin del ejercicio y advertirá al opositor, por una sola vez, con diez minutos de antelación, la hora en que debe acabar. Podrá también exigir que los opositores se atengan a la cuestión y eviten divagaciones inoportunas, y dar cumplimiento a las prescripciones de este reglamento relacionadas con la práctica de estos ejercicios.
+
+En el primer ejercicio se podrá excluir al opositor, al concluir su exposición del segundo tema de Derecho Civil, si el tribunal, por unanimidad, acuerda que los ha desarrollado con manifiesta insuficiencia para obtener la aprobación. Igual medida podrá ser aplicada en el segundo ejercicio al término de la exposición del primer tema de Derecho Hipotecario.
+
+El tercer ejercicio consistirá en redactar, en el tiempo máximo de seis horas, un dictamen sobre un tema de Derecho Civil Español, Común y Foral, Derecho Mercantil, Derecho Hipotecario o Notarial, de entre los formulados por el tribunal reservadamente. Las cuestiones que se propongan en este ejercicio versarán sobre casos de derecho positivo.
+
+El cuarto ejercicio, que tendrá una duración máxima de seis horas, se dividirá en dos partes, cada una de ellas con la duración que fije el tribunal:
+
+Primera: redactar una escritura o documento notarial, debiendo el opositor justificar en pliego aparte los problemas jurídicos que plantee o resuelva en su trabajo, realizando la liquidación del impuesto que en su caso corresponda a la escritura redactada.
+
+Segunda: resolver un supuesto de contabilidad y matemática financiera que recaerá sobre las materias contenidas en el anexo del programa de la oposición.
+
+Los ejercicios escritos se realizarán el día que fije el tribunal respectivo sobre cuestiones que serán secretas y se redactará en el mismo día designado para la realización del respectivo ejercicio por el tribunal, o, en su caso, tribunales conjunta o separadamente.
+
+Los opositores estarán totalmente aislados, y no podrán consultar sino los textos legales que el tribunal les permita, y que por sí mismos se proporcionen, sin notas de jurisprudencia ni comentarios. Así mismo podrán utilizar calculadora.
+
+Concluidos los ejercicios, los opositores los firmarán y entregarán al miembro del tribunal que estuviera presente, quien los cerrará en sobre firmado por el opositor.
+
+Los opositores deberán leer personalmente el tercer ejercicio y la primera parte del cuarto. La incomparecencia del opositor determinará el decaimiento de sus derechos y su consideración como retirado, salvo que concurran causas de fuerza mayor, debidamente justificadas y libremente apreciadas por el tribunal ; en estos casos, el tribunal podrá optar por fijar otra fecha para la lectura o, con el consentimiento del opositor, permitir la lectura del ejercicio por un miembro del propio tribunal.
+
+> Se modifica por el art. único del Real Decreto 862/2003, de 4 de julio. [Ref. BOE-A-2003-13980](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-13980).
+
+> Se modifica por el art. único del Real Decreto 950/1987, de 24 de julio. [Ref. BOE-A-1987-17387](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17387).
+
+> Redactado el párrafo décimo conforme a la corrección de erratas publicada en BOE núm. 181, de 30 de julio de 1987. [Ref. BOE-A-1987-17745](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17745)
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+> Se modifica el párrafo tercero por el art. 1 del Decreto de 30 de noviembre de 1945. [Ref. BOE-A-1945-12055](https://www.boe.es/buscar/doc.php?id=BOE-A-1945-12055).
+
+**Artículo 17.**
+
+En los dos primeros ejercicios, los opositores que no concurrieren a practicarlos en primer llamamiento, actuarán después de terminado éste, en un segundo turno y con el mismo número que les hubiere correspondido en el sorteo. Si llamados en el segundo turno no comparecieren, se les tendrá por desistidos de la oposición, sin admitirse excusa alguna.
+
+En los ejercicios tercero y cuarto sólo habrá un llamamiento.
+
+> Se modifica por el art. único del Real Decreto 950/1987, de 24 de julio. [Ref. BOE-A-1987-17387](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17387).
+
+**Artículo 18.**
+
+Todos los ejercicios de la oposición son eliminatorios.
+
+La calificación de los opositores tendrá lugar en la forma siguiente:
+
+Para obtener la declaración de aptitud en cada ejercicio se requiere alcanzar mayoría de votos del Tribunal en sentido favorable. En caso de empate, decidirá el Presidente.
+
+Obtenida la mayoría, se fijará la calificación dividiendo el total de puntos que alcance el opositor por el número de miembros del Tribunal.
+
+En los dos primeros ejercicios, cada uno de los miembros del Tribunal podrá conceder de uno a diez puntos, y de uno a veinte en el tercero y en el cuarto. En ningún caso al opositor que haya obtenido la declaración de aptitud en un ejercicio podrá asignársele una calificación inferior a cinco puntos.
+
+Las calificaciones se harán, en los dos primeros ejercicios, al término de cada sesión, y en el tercero y cuarto ejercicios, el mismo día o el siguiente en que concluya la lectura por el último opositor. Las calificaciones se expondrán seguidamente al público, expresándose el número de puntos alcanzados por cada opositor, sin hacer mención de los opositores que no hubiesen sido declarados aptos en los ejercicios.
+
+> Se modifica por el art. único del Real Decreto 950/1987, de 24 de julio. [Ref. BOE-A-1987-17387](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17387).
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 19.**
+
+El tribunal no podrá constituirse ni actuar sin la asistencia de cinco de sus miembros.
+
+Los ejercicios no podrán suspenderse, una vez comenzados, por un plazo mayor de 15 días naturales sino por causa justificada, aprobada por la Dirección General.
+
+Entre la conclusión del primer ejercicio y el comienzo del segundo deberá mediar un plazo mínimo de 30 días naturales. Entre la conclusión del segundo y el comienzo del tercero y entre la conclusión del tercero y el comienzo del cuarto, deberá mediar un plazo mínimo de 20 días naturales.
+
+Todas las dudas y cuestiones que se presenten durante la práctica de los ejercicios de oposición serán resueltas por el tribunal. Si no hubiera unanimidad, prevalecerá el criterio de la mayoría, y, en caso de empate, decidirá el voto del presidente.
+
+Los actos del tribunal podrán ser impugnados por los interesados en los casos y en la forma previstos en la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Se modifica por el art. único del Real Decreto 862/2003, de 4 de julio. [Ref. BOE-A-2003-13980](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-13980).
+
+> Se modifica por el art. único del Real Decreto 950/1987, de 24 de julio. [Ref. BOE-A-1987-17387](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17387).
+
+> Se modifica el párrafo primero por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 20.**
+
+Concluido el último ejercicio, el tribunal o, en su caso, cada tribunal formará, en el mismo día o en el siguiente, la lista de opositores aprobados por orden de calificación, teniendo en cuenta el número de puntos obtenidos por cada opositor en los cuatro ejercicios. Si la calificación fuera idéntica, el empate se resolverá por votación del tribunal, con el voto decisorio del presidente, en su caso, en consideración al juicio total que de los opositores hayan formado por la actuación de aquéllos.
+
+Un ejemplar de dicha lista autorizado por el secretario del tribunal o, en su caso, de los respectivos tribunales, y con el visto bueno de su presidente, expresiva de la suma total de puntos de cada opositor aprobado, se expondrá al público en el local o locales donde se celebren las oposiciones, remitiéndose otro idéntico a la Dirección General dentro del plazo de tres días, en unión de los ejercicios y expedientes de los opositores que hayan obtenido la aprobación.
+
+El número de opositores aprobados no podrá exceder, en ningún caso, del de plazas convocadas. Por tanto, solamente se incluirán en la lista de aprobados los que de acuerdo con las reglas anteriores resulten mejor clasificados y estén dentro del límite de plazas expresado. Si fueren varios los tribunales calificadores, el número de opositores aprobados por cada uno de ellos no podrá exceder del número de plazas a cada uno asignadas.
+
+Igualmente, en caso de pluralidad de tribunales, una vez recibida por la Dirección General la documentación a que se refiere el párrafo segundo de este artículo, procederá a ordenar a los opositores en función de las puntuaciones obtenidas. En caso de igualdad de puntuaciones, se establecerá el orden según la puntuación obtenida en el primer ejercicio o siguientes si persistiera la igualdad. En caso de igualdad en todos los ejercicios, se dará prioridad al opositor de mayor edad.
+
+La relación de opositores aprobados, ordenada conforme a los criterios recogidos en este artículo, se publicará de acuerdo con lo dispuesto en el último párrafo del artículo 21 de este reglamento.
+
+> Se modifica por el art. único del Real Decreto 862/2003, de 4 de julio. [Ref. BOE-A-2003-13980](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-13980).
+
+> Téngase en cuenta para su aplicación la disposición transitoria única.
+
+> Se modifica por el art. 2 del Real Decreto 1728/1991, de 29 de noviembre. [Ref. BOE-A-1991-29525](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-29525).
+
+> Se modifica por el art. único del Real Decreto 950/1987, de 24 de julio. [Ref. BOE-A-1987-17387](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17387).
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 21.**
+
+Dentro de los treinta días siguientes a la terminación del último ejercicio, los opositores aprobados deberán presentar en la Dirección General de los Registros y del Notariado, si no los tuvieren ya presentados, los siguientes documentos:
+
+Primero.-Certificación de nacimiento acreditativa de que el opositor tenía cumplida la edad de veintitrés años el día de terminación del plazo de presentación de instancias.
+
+Segundo.-Título de Licenciado o Doctor en Derecho, o bien certificación académica que acredite la terminación de los estudios de la licenciatura en Derecho, acompañada de certificación de haber hecho el depósito para obtener alguno de dichos títulos. Todos estos documentos podrán presentarse originales o por testimonio notarial.
+
+Cuando el opositor ejerza o haya ejercido algún cargo público que exija título de Licenciado en Derecho será suficiente que presente el título o nombramiento para dicho cargo, original o mediante testimonio notarial.
+
+Tercero.-Certificación del Registro Central de Penados y Rebeldes que acredite no estar condenado a pena que inhabilite para el ejercicio de funciones públicas.
+
+Cuarto.-Certificación médica de no tener impedimento físico o psíquico habitual para ejercer el cargo de Notario.
+
+Quinto.-Declaración de no hallarse comprendido en los números tercero y cuarto del artículo 7. La inexactitud en esta declaración dará lugar a la exclusión de las oposiciones, en cualquier momento que se descubra o a la expulsión del Cuerpo si se tuviere conocimiento de ello después de haber terminado los ejercicios.
+
+Los documentos que acrediten los extremos comprendidos bajo los números tercero, cuarto y quinto no surtirán efecto si su fecha es anterior en más de tres meses en relación a la de la publicación de la convocatoria.
+
+Los opositores que dejaren de presentar dentro de plazo los documentos antes reseñados quedarán decaídos de todos los derechos que hubiesen adquirido por virtud de la oposición.
+
+Si después de practicada la oposición resultare que alguno de los opositores carecía de la aptitud necesaria para el ingreso en el Notariado perderá los derechos adquiridos en aquélla.
+
+La Dirección General examinará a la mayor brevedad la documentación presentada y publicará en el «Boletín Oficial del Estado» la lista de opositores aprobados que habiendo completado la documentación requerida tienen derecho a la expedición del título y la de aquellos otros que, no habiéndola completado, han decaído en sus derechos y comunicará estos hechos a los respectivos interesados.
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+#### CAPÍTULO II — De la investidura notarial
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+##### Sección 1.ª Del título
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era la sección 3ª
+
+**Artículo 22.**
+
+El título de Notario se expide, al ingresar en el Cuerpo, por el Ministro de Justicia en nombre del Rey, y habilita para ejercer la función notarial en cualquiera de las Notarías demarcadas en el territorio español para las que el titular reciba el adecuado nombramiento. Dicho título no necesitará ser renovado cualquiera que sea la clase o sección de las Notarías para cuyo desempeño sea nombrado ulteriormente el Notario.
+
+Los sucesivos cambios de Notaría se harán constar al tiempo de la toma de posesión en el propio título por medio de diligencia extendida por el Decano del Colegio con referencia expresa a la orden de nombramiento.
+
+El nombre y título de Notario sólo podrá usarse por los que integran el Cuerpo notarial, sin que pueda ser utilizado por otras personas, aunque la legislación vigente dé a su actuación carácter notarial.
+
+Publicada la lista a que se refiere el párrafo último del artículo anterior, se expedirá el título de Notario a favor de cada uno de los opositores aprobados, quienes tendrán la obligación de participar en todos los concursos convocados desde aquella publicación y solicitar todas las vacantes hasta obtener una. Quien incumpliera dicha obligación será considerado como renunciante al título y dado de baja en el escalafón.
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Véase la sentencia del TC 67/1983, de 22 de julio. [Ref. BOE-T-1983-22267](https://www.boe.es/buscar/doc.php?id=BOE-T-1983-22267). en cuanto a la aplicación de este art. a la Comunidad Autónoma de Cataluña.
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+##### Sección 2.ª Del nombramiento
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era la sección 1ª
+
+**Artículo 23.**
+
+Salvo en los casos a que se refiere el párrafo siguiente, el nombramiento de los Notarios se hará por Orden ministerial, de la que se dará traslado al interesado y al Decano del Colegio Notarial al que pertenezca la Notaría. Si el nombrado desempeñare otra de distinto Colegio se dará también traslado al Decano de éste.
+
+Cuando el nombramiento de los Notarios del territorio de una Comunidad Autónoma esté atribuido a ésta, la Dirección General le remitirá la resolución recaída en relación con el concurso y, recibida ésta, el órgano competente de la Comunidad efectuará los nombramientos correspondientes y, además de practicar los traslados previstos en el párrafo anterior, comunicará los nombramientos, en la mayor brevedad posible, a la propia Dirección General, la cual proveerá a la necesaria coordinación entre los distintos Colegios notariales y a su adecuado reflejo en los escalafones del Cuerpo notarial. A tales efectos y, además, al objeto de respetar el orden de la lista definitiva de opositores aprobados en cada oposición de ingreso, para el cómputo de la antigüedad en dichos escalafones se tomará como fecha inicial la de la citada resolución de la Dirección General.
+
+Los nombramientos se publicarán, según corresponda, en el «Boletín Oficial del Estado» o en el periódico oficial de las respectivas Comunidades Autónomas, sin orden de preferencia entre unos u otros.
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+##### Sección 3.ª De las fianzas
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era la sección 2ª
+
+**Artículo 24.**
+
+El notario electo deberá obligatoriamente acreditar la contratación de un seguro de responsabilidad civil a que se refiere el artículo siguiente y constituir la fianza, en cumplimiento de lo preceptuado por el artículo 14 de la Ley Orgánica del Notariado, presentando en la Dirección General de los Registros y del Notariado los documentos justificativos de todo ello. Dicha obligación deberá cumplirse dentro del plazo de treinta días naturales, contados desde la publicación del nombramiento para una Notaría determinada en virtud de concurso ordinario en el Boletín Oficial del Estado o, en su caso, en el Boletín o Diario oficial de la Comunidad Autónoma correspondiente.
+
+> Se modifica por el art. 1.4 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 25.**
+
+El seguro de responsabilidad civil tendrá por objeto cubrir las responsabilidades de dicha índole en que pudiera incurrir el notario en el ejercicio de su cargo.
+
+La Dirección General de los Registros y del Notariado previa audiencia del Consejo General del Notariado fijará las condiciones mínimas del seguro de responsabilidad civil. No obstante, el Consejo General del Notariado podrá solicitar justificadamente a la Dirección General de los Registros y del Notariado que se modifiquen dichas condiciones. El centro directivo deberá pronunciarse expresamente en el plazo máximo de un mes sobre tal solicitud de modificación.
+
+> Se modifica por el art. 1.5 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era art. 24.
+
+**Artículo 26.**
+
+La fianza que deberá prestar el notario tendrá una cuantía de 1.500 euros, salvo que se trate de poblaciones de más de un millón de habitantes, en cuyo caso se elevará a 3.000 euros, cuya cuantía podrá ser actualizada por la Dirección General de los Registros y del Notariado previa audiencia del Consejo General del Notariado.
+
+La fianza podrá constituirse en títulos de la Deuda pública o con garantía de fincas rústicas o urbanas por el propio Notario o por un tercero, pero en este caso no podrá retirarse sino avisando al Notario con seis meses de anticipación, por medio de requerimiento en forma legal, para que durante este término la reponga, entendiéndose que si no lo hiciese así, se entregará la fianza a su dueño, previa liquidación de responsabilidad y en la forma determinada en este Reglamento, quedando en suspenso el Notario mientras no la complete en el plazo reglamentario.
+
+> Se modifica por el art. 1.6 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era art. 25.
+
+**Artículo 27.**
+
+La fianza en títulos o efectos públicos se constituirá en la Caja General de Depósitos o en establecimientos legalmente autorizados al efecto, en calidad de depósito necesario, a disposición de la Dirección General de los Registros y del Notariado.
+
+El Notario presentará en este Centro el resguardo original definitivo del depósito y copia simple del mismo; ambos documentos con instancia solicitando la aprobación de la fianza.
+
+Dicho resguardo, después de cotejado y conforme con la copia presentada, será devuelto, bajo recibo, al interesado o su legal representante.
+
+Iguales formalidades se cumplirán en el caso de renovación del resguardo.
+
+La fianza con garantía de fincas se constituirá en escritura pública de hipoteca que otorgará el que fuere dueño del inmueble, por cantidad bastante a producir la renta señalada para cada caso, capitalizada ésta al cinco por ciento, expresándose que queda a disposición de la Dirección General para responder del desempeño del cargo por el Notario.
+
+Otorgada la escritura se inscribirá en el Registro de la Propiedad correspondiente.
+
+El Notario solicitará de la Dirección General la aprobación de la fianza por medio de instancia, a la que acompañará: 1.º La escritura de constitución de hipoteca, debidamente inscrita; 2.º Certificación, en relación, de cargas de las fincas hipotecadas, librada con fecha posterior a la de la inscripción de la escritura de la hipoteca; y 3.º Otra certificación expedida por la Oficina catastral, por la del Registro Fiscal de Edificios y Solares o por la Secretaría municipal correspondiente, a falta de algunas de las expresadas, haciendo constar el líquido imponible con que en el último quinquenio aparezcan los inmuebles hipotecados.
+
+Si dicho líquido imponible no fuese igual o superior a la renta expresada en el párrafo primero de este artículo, no podrá aprobarse la fianza, salvo que la diferencia se haya constituido en títulos de la Deuda pública.
+
+Iguales formalidades se cumplirán en el caso de renovación o modificación de la fianza.
+
+> Se modifica por el art. 1.7 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era art. 26.
+
+**Artículo 28.**
+
+El notario suspenso en el ejercicio de su cargo por falta de fianza, según lo prevenido en el artícu­lo 14 de la Ley del Notariado, estará obligado a reponerla en el término de un mes, a contar desde el día en que se le hubiere notificado haber sido declarado suspenso, sin perjuicio de sus responsabilidades disciplinarias.
+
+> Se modifica por el art. 1.8 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era art. 27.
+
+**Artículo 29.**
+
+El plazo señalado para constitución de la fianza sólo podrá prorrogarse por otro que no exceda de un mes. Si se tratara de Notarios nombrados para Baleares o Canarias, la prórroga podrá ser de dos meses.
+
+Dicha prórroga se concederá por la Dirección General de los Registros y del Notariado.
+
+Los Notarios electos que no constituyan o amplíen su fianza en los plazos legales sin acreditar justa causa o haber obtenido prórroga serán considerados como renunciantes, anunciándose nuevamente la vacante de la Notaría para su provisión en el turno que corresponda.
+
+El interesado podrá recurrir en alzada del acuerdo de la Dirección General ante el Ministro de Justicia.
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era art. 28.
+
+**Artículo 30.**
+
+La fianza que están obligados a constituir los Notarios como garantía para el ejercicio de su cargo, así como los intereses o productos de la misma, estarán afectos a las responsabilidades contraídas en el desempeño de aquél y preferentemente a las cantidades que dejare de abonar el notario en concepto de multas, encuadernación de protocolos, desorganización y deterioro de éstos por su negligencia, primas del seguro de responsabilidad civil y de las aportaciones, cotizaciones y, en general cualquier pago, que deba realizar al Colegio Notarial, o que tenga su origen en causa corporativa.
+
+Para hacer efectivas estas obligaciones, la Dirección General de los Registros y del Notariado ordenará al notario deudor el pago de lo adeudado, apercibiéndole de la ejecución forzosa de la fianza. Notificada la orden de pago, el deudor dispondrá de un plazo de un mes para abonar su importe.
+
+Transcurrido el plazo a que se refiere el párrafo anterior, sin que el deudor hubiese satisfecho la deuda reclamada, la Dirección General de los Registros y del Notariado ordenará la traba y ejecución de la fianza. Si la misma fuese suficiente para solventar con cargo a ella la cantidad total reclamada por principal, recargos e intereses, la Dirección General dispondrá lo necesario para ejecutarla, comunicándolo al notario deudor a fin de que reponga la fianza con apercibimiento de que, de no hacerlo, quedará suspendido en sus funciones conforme al artículo 14 de la Ley del Notariado. Si la fianza fuere insuficiente para satisfacer todo lo adeudado, la Dirección General declarará la falta de fianza y la suspensión del notario en su cargo, con nota en el protocolo. Dicha suspensión no se alzará hasta que haya sido íntegramente satisfecha la deuda reclamada y haya sido repuesta la fianza.
+
+En lo relativo a la suspensión de la ejecución de la fianza se estará a lo dispuesto en el artículo 111 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Se modifica por el art. 1.9 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era art. 29.
+
+**Artículo 31.**
+
+Las fianzas podrán ser sustituídas en todo tiempo, solicitándolo al efecto de la Dirección General, quien no expedirá la orden de devolución o de cancelación, en su caso, sin que previamente haya aprobado la constitución de la nueva fianza, con arreglo a lo prevenido en este Reglamento.
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era art. 30.
+
+**Artículo 32.**
+
+La fianza constituída para una Notaría servirá por todo el valor reconocido al prestarla para cualquiera otra que obtenga el interesado, sin perjuicio del necesario aumento si la Notaría que pasara a desempeñar tuviese asignada mayor fianza, quedando afecta la totalidad de la garantía a las responsabilidades contraídas desde su ingreso en el Notariado.
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era art. 31.
+
+**Artículo 33.**
+
+Para la devolución o cancelación de una fianza deberá el Notario interesado o quien la haya constituído, sus herederos o la Autoridad judicial, en su caso, a instancia de la parte interesada, dirigirse al Decano del Colegio a que pertenezca la última Notaría servida, para que se anuncie en el «Boletín Oficial del Estado» y en el de la provincia donde se halle enclavada aquella en que ha cesado dicho Notario en el ejercicio de su cargo. En el anuncio se harán constar las Notarías que aquél hubiera anteriormente desempeñado y se fijará el plazo de un mes, contado desde el día de dicha publicaciones oficiales, para que se puedan formular las oportunas reclamaciones antes la Junta directiva del Colegio. Los gastos de los anuncios correrán a cargo de quien solicite la devolución o cancelación de la fianza.
+
+La misma Junta directiva unirá al expediente una certificación negativa o afirmativa, según proceda, de las infracciones reglamentarias, faltas o defectos que se observen en los protocolos del Notario que se trate y de hallarse o no comprendido en alguno de los casos determinados en el artículo 30, a los efectos de la responsabilidad de la fianza.
+
+La propia Junta, cuando se trate de Notarías pertenecientes a otro Colegio, recabará de las Juntas respectivas las certificaciones a que se refiere el párrafo anterior, que unirá también al expediente.
+
+Este será elevado, con informe de la Junta, a la Dirección General, una vez transcurrido el plazo fijado en el párrafo primero, para que dicho Centro, en virtud de Orden motivada, resuelva lo que fuese procedente.
+
+El mismo procedimiento se seguirá cuando, por haber pasado el interesado de Notaría de mayor fianza a otra que la tuviese asignada menor, se pretendiese la devolución o cancelación de la diferencia resultante entre ambas fianzas.
+
+En todo caso, procederá la devolución de la fianza notarial una vez transcurrido el plazo de quince años, a contar del cese del Notario en el ejercicio del cargo, sin que contra ella se haya formulado reclamación. En la hipótesis de que se formulare reclamación, dicho plazo se contará desde la última reclamación formulada contra la fianza.
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era art. 32.
+
+**Artículo 34.**
+
+Acordada la devolución de la fianza, la Dirección General de los Registros y del Notariado entregará al interesado escrito justificativo de tal acuerdo para su presentación en las Entidades en que hubiera quedado depositada o constituida.
+
+> Se modifica por el art. 1.10 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era art. 33.
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+##### Sección 4.ª De la toma de posesión
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 35.**
+
+El título de Notario, cuya expedición se comunicará al interesado, será remitido por la Dirección General a la Junta Directiva del Colegio al que corresponda la primera Notaría para la que haya sido nombrado el Notario electo, la cual, dentro de los quince días siguientes al último día del plazo para constituir la fianza según lo previsto en el artículo 24, le dará posesión en sesión pública, procurando que ésta sea solemne y además conjunta para todos los que hayan sido aprobados en la misma oposición si son varios.
+
+En los nombramientos ulteriores el expresado término posesorio de quince días empezará a contarse desde el siguiente a la publicación del nuevo nombramiento en el «Boletín Oficial del Estado» o, en su caso, en el periódico oficial de la Comunidad Autónoma, o desde que se apruebe la fianza, en el supuesto de que haya de aumentarse la constituida.
+
+El plazo señalado a los Notarios para tomar posesión de las Notarías no podrá prorrogarse por más de un mes. Este plazo podrá ser de dos meses si se tratase de Notarías en Baleares o Canarias.
+
+El Notario que no se posesionare de su cargo en los plazos legales, sin mediar justa causa debidamente acreditada o sin haber obtenido prórroga, será considerado como renunciante, y la Notaría será anunciada y provista en el turno que corresponda.
+
+No podrán obtener la posesión los notarios electos que desempeñen los cargos incompatibles determinados en el artículo 16 de la Ley del Notariado, sin haber acreditado previamente la cesación en aquéllos. En caso de ejercer cargo incompatible en la Administración Pública deberán acreditar la excedencia en el Cuerpo de origen, con carácter previo. Si, esto no obstante, se posesionaren de la Notaría, serán declarados renunciantes y dados de baja en el escalafón del Cuerpo tan pronto como se tenga noticia de que existe dicha incompatibilidad.
+
+El Decano exigirá al Notario electo una declaración firmada, asegurando, bajo su responsabilidad, que no desempeña dichos cargos incompatibles.
+
+No obstante lo dispuesto en los dos párrafos anteriores, los Notarios que se hallen en la situación de suspensos en el ejercicio del cargo por desempeñar alguno de los incompatibles determinados en el artículo 115, podrán posesionarse de la Notaría que hubieren obtenido por concurso u oposición, pero no desempeñar las funciones notariales. Esta misma disposición se aplicará a quienes hallándose en el desempeño de dichos cargos incompatibles, hubiesen de tomar posesión de su primera Notaría.
+
+> Se modifica el párrafo quinto por el art. 1.11 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifican los párrafos primero a cuarto y se deroga el octavo por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Téngase en cuenta la disposición transitoria 4 en cuanto a su aplicación.
+
+> Redactado el párrafo segundo conforme a la corrección de errores publicada en BOE núm. 183, de 1 de agosto de 1984. [Ref. BOE-A-1984-17221](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17221)
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+> Véase el art. 4 respecto al título de los Notarios.
+
+**Artículo 36.**
+
+La presentación del Notario electo a la Junta directiva el día de la posesión la hará uno de los Notarios colegiados a quien aquél elija.
+
+El nuevo Notario prometerá fidelidad a la Constitución y cumplir todas las obligaciones que las leyes y demás disposiciones emanadas del Poder público le impongan.
+
+El Decano le impondrá la medalla y placa que pueden usar los Notarios como distintivo oficial. Se dará por terminado el acto, consignándose la toma de posesión del nuevo Notario.
+
+Los Secretarios de las Juntas directivas llevarán un libro de actas en que consten las posesiones, y otro libro en el que los Notarios estamparán el signo, firma y rúbrica que adopten.
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 37.**
+
+Al tomar posesión de su primera Notaría, los Notarios electos recibirán su título que les entregará el Decano quien expedirá un testimonio literal e integro de aquél. En ambos se extenderá la diligencia de toma de posesión, quedando así colegiado el nuevo Notario.
+
+En las ulteriores tomas de posesión, el Notario, aunque lo fuere ya del mismo Colegio, deberá presentar su título al Decano y éste expedirá el testimonio antes mencionado con inclusión de cuantas diligencias figuren en aquél, extendiendo en los dos diligencia de la nueva posesión.
+
+El testimonio del título a que se refieren los dos párrafos anteriores se unirá al expediente que para cada Notario se formará en el Colegio.
+
+Si el título hubiera sufrido deterioro, pérdida o extravío deberá el Notario solicitar y obtener de la Dirección General a modo de duplicado, una certificación literal de la copia obrante en su expediente personal y, asimismo, deberá solicitar y obtener de los distintos Colegios Notariales donde hubiese ejercido la reproducción en dicha certificación, por orden cronológico, de las sucesivas diligencias de posesión. No obstante, para la toma de posesión bastará acreditar documentalmente haber solicitado de la Dirección General la certificación antedicha y presentar un testimonio del que, a su vez, obra en el Colegio donde hubiera tomado la posesión precedente.
+
+El Decano del Colegio comunicará a la Dirección General y, en su caso, a los órganos competentes de la Comunidad Autónoma, así como al Delegado de la Junta, la posesión del nuevo Notario.
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+> Véase el art. 4 respecto al título de los Notarios.
+
+**Artículo 38.**
+
+Conferida la posesión, el notario, desde su residencia, dirigirá oficios a los Alcaldes, Jueces de Primera Instancia y demás autoridades de los pueblos comprendidos en el Distrito notarial, notificándoles, para su conocimiento y el del público, hallarse en disposición de ejercer el cargo.
+
+> Se modifica por el art. 1.12 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 39.**
+
+El nuevo Notario comunicará a la Junta directiva del Colegio Notarial la fecha de la nota que al comenzar a ejercer su cargo, y dentro de los tres días siguientes al de la posesión, deberá consignar en el protocolo a continuación de la última escritura.
+
+También dará conocimiento a los demás Notarios del mismo distrito del signo, firma y rúbrica que haya adoptado.
+
+**Artículo 40.**
+
+Dentro de los treinta días siguientes a la fecha de la posesión, el notario informará a la Junta del Colegio Notarial a que pertenezca del estado general en que se encuentran el protocolo y el Libro-Registro de la Notaría de que se ha posesionado, haciendo constar si los instrumentos que los forman reúnen los requisitos externos prevenidos por las disposiciones vigentes. Será personalmente responsable de las deficiencias que en su día pudieran aparecer, de no haberlas hecho constar en su informe.
+
+Mientras no cumplan la expresada obligación, los notarios no podrán ausentarse de sus Notarías ni pedir licencia.
+
+El notario deberá entregar a su sucesor en el protocolo el Libro Indicador y los soportes informáticos en los que se encuentren los ficheros de titularidad pública a que se refiere la Orden JUS/484/2003, de 19 de febrero y los que, con idéntico carácter sustituyan o se añadan a éstos. En el informe a que se refiere el párrafo primero deberá hacerse constar el cumplimiento de esta obligación, incluyendo la relación de los ficheros informáticos recibidos.
+
+> Se modifica por el art. 1.13 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+##### Sección 5.ª Del cese
+
+> Se añade por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 41.**
+
+Los Notarios cesarán en el cargo dentro de los quince días siguientes a la publicación de la orden de jubilación, de excedencia o de nombramiento para otra Notaría en el «Boletín Oficial del Estado» o, en este último caso, si correspondiere a determinada Comunidad Autónoma, en el periódico oficial de ésta.
+
+En los casos de traslado a otra Notaría para la que se requiera ampliación de fianza, el plazo anteriormente indicado comenzará a contarse desde la fecha de la aprobación de la fianza.
+
+La nota a que se refiere el artículo 277 de este Reglamento se extenderá en todo caso dentro del plazo señalado en este precepto.
+
+La concesión de prórroga de plazo posesorio no implicará prórroga del plazo para cesar establecido en este artículo.
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+##### Sección 6.ª De la residencia y de los despachos u oficinas notariales
+
+> Se añade por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 42.**
+
+El Notario deberá residir en el lugar en que esté demarcada su Notaría.
+
+Los Notarios deberán tener su despacho u oficina en el punto de su residencia, en condiciones adecuadas y decorosas para el ejercicio de su Ministerio, teniendo allí centralizada la documentación general y particular que se les confíe.
+
+Se prohíbe a los Notarios tener más de un despacho u oficina en la población de residencia ni en otra de su distrito; no obstante, la Junta Directiva podrá autorizar algún despacho auxiliar en población distinta de aquella en que estuviere demarcada la Notaría, si lo aconsejan las necesidades del servicio.
+
+No podrá haber más de un despacho notarial en un mismo edificio, salvo autorización de la Junta Directiva del Colegio, oídos los Notarios que con anterioridad tengan establecido su despacho en aquél. También se exigirá autorización de la Junta para que un Notario establezca su despacho u oficina en el mismo edificio en que haya tenido instalado su despacho otro Notario, a menos de haber transcurrido tres años o tratarse de población donde exista demarcada una sola Notaría.
+
+Para que un mismo local actúe más de un Notario se requerirá, inexcusablemente, autorización de Junta Directiva, que solo podrá concederla si se dan las condiciones necesarias para asegurar el respeto al principio de libre elección de Notario por el público, atendidas las circunstancias de la población y el número de Notarios existentes en la misma. En todo caso, no podrá concederse esta autorización en los distritos que cuenten con menos de cinco plazas de notarios. En los distritos que cuenten con más de cinco plazas de notarios, el número de notarías abiertas no podrá ser inferior a los dos tercios de las plazas demarcadas.
+
+Las autorizaciones que se concedan deberán expresar, como mínimo, las condiciones relativas a la utilización del local único y a la instalación de los respectivos despachos, así como a las consecuencias de su incumplimiento y las previsiones relativas al cese, por cualquier causa, de alguno de los Notarios autorizados. La autorización por si sola no afectará a los contratos de trabajo de cada Notario con sus empleados.
+
+En ningún caso podrán las Juntas Directivas conceder autorización para que dos o más Notarios tengan su despacho, separadamente, en un mismo edificio o para poder actuar en un mismo local, cuando lo pretendan todos los Notarios de la población.
+
+Las Juntas Directivas podrán modificar e incluso revocar las autorizaciones concedidas en los casos de alteración de las circunstancias tenidas en cuenta al concederlas y en los de incumplimiento de las condiciones establecidas, así como dirimir, de conformidad con lo dispuesto en los artículos 314 y 327 de este Reglamento, las cuestiones que se susciten entre los Notarios interesados.
+
+Las decisiones de las Juntas Directivas concediendo, denegando, modificando o revocando las autorizaciones a que este artículo se refiere y resolviendo las dudas o las quejas que en esta materia se produzcan serán inmediatamente ejecutivas, sin perjuicio de que contra ellas puedan interponerse los recursos procedentes conforme al artículo 334 de este Reglamento.
+
+> Se modifica por el art. 1.14 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se derogan los párrafos segundo y tercero por la disposición derogatoria 3 del Real Decreto 3301/1983, de 7 de diciembre. [Ref. BOE-A-1984-606](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-606).
+
+> Se añaden los párrafos segundo y tercero por el art. 1 del Real Decreto 1689/1980, de 24 de julio. [Ref. BOE-A-1980-18975](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-18975).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+#### CAPÍTULO III — De los derechos de los Notarios
+
+##### Sección 1.ª De las ausencias y de las licencias
+
+**Artículo 43.**
+
+No se considerarán como casos de ausencia notarial los siguientes:
+
+1.º Las salidas que, por razón de su cargo, hagan los notarios a otros pueblos de su distrito.
+
+2.º Las que realicen en casos de habilitación reglamentaria mientras dure la habilitación.
+
+3.º Las de asistencia a sesiones de órganos y actos de carácter corporativo.
+
+4.º Las que efectúen para tomar parte en oposiciones entre notarios.
+
+En este caso, deberán ponerlo en conocimiento del Decano respectivo, contándose el término desde cuatro días antes del señalado para el sorteo de los opositores y expirando al cuarto día siguiente al de la última actuación del opositor.
+
+5.º Las que impliquen asistencia a Cámaras legislativas.
+
+6.º Las de asistencia a sesiones de organismos jurídicos o comisiones asesoras dependientes o relacionadas con cualquier Administración, siempre que previamente la Dirección General de los Registros y del Notariado lo haya así declarado al tiempo de su aceptación.
+
+> Se modifica por el art. 1.15 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 44.**
+
+Los Notarios, no teniendo reclamado su ministerio, podrán ausentarse de su Notaría o distrito notarial por los plazos y con las condiciones siguientes:
+
+a) Por cinco días si la Notaría está demarcada en población donde haya un solo Notario. b) Por diez días si en la residencia hubiere dos Notarios en servicio efectivo. c) Y por quince días en las Notarías donde residan y presten servicio efectivo más de dos Notarios.
+
+Al hacer uso de este derecho, los Notarios deberán dar conocimiento a la Junta directiva y a la Dirección General de las fechas en que se ausenten y vuelvan a hacerse cargo de su Notaría.
+
+De las mencionadas ausencias no podrá usarse por cada Notario más de seis veces al año, ni las ausencias podrán ser sucesivas, debiendo mediar entre una y otra un mes, por lo menos, de intervalo.
+
+**Artículo 45.**
+
+Independientemente del derecho anterior, los Notarios podrán obtener licencias ordinarias o extraordinarias; que serán concedidas por las Juntas directivas de los respectivos Colegios y por la Dirección General.
+
+Las Juntas directivas podrán conceder licencias ordinarias, que no excederán del plazo de un mes en cada año.
+
+La Dirección General podrá conceder licencias ordinarias, que no excederán del plazo de dos meses en cada año.
+
+Las licencias extraordinarias sólo se podrán conceder por la Dirección General en casos excepcionales, mediante justa causa y por plazo máximo de un año.
+
+Las licencias se concederán en virtud de solicitud del Notario interesado dirigida al Decano de la Junta directiva; y por conducto de ésta y con su informe; a la Dirección General, cuando a ella corresponde su concesión.
+
+> Se modifica por el art. 1 del Decreto de 30 de noviembre de 1945. [Ref. BOE-A-1945-12055](https://www.boe.es/buscar/doc.php?id=BOE-A-1945-12055).
+
+**Artículo 46.**
+
+Ni las Juntas directivas ni la Dirección General podrán conceder licencias simultáneas a todos los Notarios de un mismo distrito, salvo en casos de Notaría única.
+
+Si el Notario dejare de dar aviso al Decanato y a la Dirección del día en que se ausentare de su residencia y el en que vuelva a hacerse cargo de su Notaría, perderá el derecho a la congrua durante el año en curso.
+
+**Artículo 47.**
+
+Toda licencia concedida por la Dirección General o por las Juntas directivas de los Colegios notariales se entenderá caducada si el notario que la haya obtenido no empieza a disfrutarla dentro de los quince días siguientes a la fecha de concesión.
+
+Si concluido el término de la licencia concedida no se hubiere presentado el Notario a desempeñar de nuevo su cargo, ni alegare justa causa que lo haya impedido, se procederá en la forma prevenida en el artículo 84 de este Reglamento.
+
+**Artículo 48.**
+
+El Notario podrá interrumpir el uso de licencia, reintegrándose al ejercicio del cargo, y proseguir después el disfrute de aquélla por el tiempo que restare con tal de que la interrupción no exceda de la mitad del plazo concedido, comunicando a la Junta directiva y a la Dirección General los días en que interrumpa el uso de la licencia y en que la reanude.
+
+##### Sección 2.ª De las sustituciones
+
+**Artículo 49.**
+
+Los notarios, en los casos de ausencia, licencia, incluidas las de maternidad o paternidad, durante el tiempo en que hagan uso de este derecho y por el plazo máximo previsto por la normativa aplicable para la baja por tal concepto, enfermedad temporal o cualquier otro supuesto similar, serán sustituidos por el que designe el titular entre los del mismo distrito o de otro colindante, previo acuerdo en este último supuesto de la Junta Directiva. No mediando estas designaciones, por el que corresponda según el cuadro de sustituciones del Colegio, y, en su defecto, por el que designe la Junta Directiva del Colegio Notarial. No obstante, la Junta Directiva podrá encomendar la sustitución a varios notarios, de forma alternativa o sucesiva, en ningún caso simultánea, fijando su régimen de actuación.
+
+Si la duración de la enfermedad que motivase la sustitución excediere de un año y el notario o en su nombre quien le represente no pidiere la excedencia voluntaria, la Dirección General instruirá expediente de incapacidad permanente, previo agotamiento de los plazos de ausencias y licencias reglamentarias.
+
+No obstante lo anterior, si la enfermedad no fuese irreversible, el notario podrá optar por la situación de excedencia en cualquier momento de la instrucción del expediente de incapacidad permanente.
+
+> Se modifica por el art. 1.16 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 50.**
+
+Cuando una Notaría esté vacante o en suspenso su titular, se encargará de la misma, en concepto de sustituto, aquel a quien corresponda conforme al Cuadro de sustituciones del respectivo Colegio Notarial, y si no lo hubiere, el que designe la Junta directiva, dando cuenta a la Dirección General.
+
+**Artículo 51.**
+
+La Dirección General de los Registros y del Notariado podrá nombrar en comisión de servicios a los notarios en activo, por todo el tiempo que proceda según la naturaleza del trabajo encomendado:
+
+a) Para desempeñar las comisiones que se les encomienden en relación con los servicios propios de dicho Centro Directivo.
+
+b) Para prestar algún trabajo determinado en algún Ministerio u Organismo Público.
+
+c) Para realizar estudios o proyectos de especialización a instancia del Consejo General del Notariado.
+
+Los miembros del Consejo General del Notariado, los Decanos y Vicedecanos de los Colegios Notariales, los Secretarios, Vicesecretarios y los encargados de Sección del citado Consejo General del Notariado, se considerarán en comisión de servicio durante todo el tiempo de su mandato.
+
+Los notarios que ocupen cargo público que fuese compatible con su condición de tales con arreglo a las leyes, podrán solicitar de la Dirección General la asimilación de su situación a la de notario en comisión de servicio.
+
+Los notarios que tengan encomendada por la Dirección General de los Registros y del Notariado comisión de servicios o con autorización de ésta acepten cargo público compatible con su condición de tales con arreglo a las leyes, los miembros del Consejo General del Notariado, los Decanos y Vicedecanos de los Colegios Notariales, los Secretarios, Vicesecretarios y los encargados de Sección del Consejo General del Notariado, podrán designar para que les sustituyan en todas sus funciones notariales, durante el desempeño de sus citados cargos o comisión, a otro notario en activo, bien con carácter ocasional o bien con carácter permanente, con su conformidad, poniéndolo en conocimiento del Colegio Notarial que corresponda a la mayor brevedad.
+
+En defecto de designación será nombrado por la Junta Directiva del Colegio Notarial correspondiente, según el cuadro de sustituciones, o fuera del mismo, de acuerdo con lo previsto en este Reglamento.
+
+En los casos en que proceda, el sustituto se entenderá investido de habilitación especial a los fines previstos en los artículos 3, último párrafo, y 116 de este Reglamento.
+
+El sustituto permanente, antes de comenzar la sustitución y al finalizarla, pondrá nota en la última matriz del protocolo del notario sustituido, comunicándoselo seguidamente al Colegio Notarial. Si el sustituto no perteneciese al mismo Colegio Notarial que el sustituido, o lo solicitare a la vista de las características de su despacho, se estimará a los efectos reglamentarios que se halla en uso de licencia por ausencia mientras desempeña la sustitución, y su situación se regulará por lo establecido en el párrafo primero del artículo 49 y el párrafo primero del artículo 54 de este Reglamento.
+
+Las condiciones económicas de la sustitución serán libremente convenidas entre los interesados. A falta de convenio, se aplicará lo que dispone el párrafo segundo del artículo 55 de este Reglamento.
+
+El notario sustituido podrá, si las funciones que tiene encomendadas lo permiten, y siempre con subordinación al trabajo que pueda tener encomendado, actuar y autorizar documentos en su notaría en cualquier momento, sin necesidad de poner nota alguna en el Protocolo ni de comunicarlo al Colegio.
+
+En los supuestos de sustitución previstos en este artículo, la designación puede recaer en uno o en varios notarios siempre que, en este último caso, el ejercicio de las funciones notariales por parte de los nombrados sea alternativo o sucesivo, no simultáneo.
+
+Las disposiciones del presente artículo serán de aplicación a los notarios adscritos a la Dirección General de los Registros y del Notariado en todo lo que no se halle regulado en su normativa específica.
+
+> Se modifica por el art. 1.17 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 52.**
+
+Los notarios que acepten los cargos a que se refiere el artículo 115 de este Reglamento pueden designar para que les sustituyan en todas sus funciones notariales, mientras desempeñen aquéllos, a cualquier notario en activo.
+
+Si el sustituto perteneciese a distinto distrito notarial que el sustituido, se estimará, a los efectos reglamentarios, que se halla en uso de licencia por ausencia mientras desempeña la sustitución, y su situación se regulará por lo establecido en el párrafo primero del artículo 49 y en el párrafo primero del artículo 54 de este Reglamento.
+
+El sustituido, a la mayor brevedad posible, deberá poner en conocimiento de la Dirección General de los Registros y del Notariado, del Decano del Colegio Notarial de su residencia y del de la residencia del sustituto, si éste pertenece a distinto Colegio, la circunstancia de haber hecho uso de este derecho, y la Dirección General de los Registros y del Notariado autorizará al sustituto para que ejerza sus funciones como tal, poniéndolo en conocimiento del Decano o Decanos correspondientes.
+
+> Se modifica por el art. 1.18 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 53.**
+
+Los documentos autorizados por el Notario sustituto se incorporarán al Protocolo o Libro-Registro del Notario sustituido, excepto en los casos de vacante y de la habilitación prevista por el artícu­lo 121 de este Reglamento, en los términos que resultan del mismo.
+
+El protocolo y el Libro-Registro del Notario sustituido no se trasladarán a la Notaría del sustituto, salvo que éste residiere en distinta población, en cuyo supuesto podrá trasladarlos al domicilio de su Notaría, para su mejor custodia, previa autorización de la Junta Directiva del respectivo Colegio.
+
+Tratándose de sustitución por Notaría vacante, si el sustituto residiere en la misma población, deberá conservar el Protocolo y el Libro-Registro del sustituido, en su propia Notaría o en otro lugar adecuado, cuando así lo autorice con carácter previo la Junta Directiva. Si residiere en población distinta, el Protocolo y el Libro Registro deberán permanecer en lugar adecuado de la población en que estuviere demarcada, sin perjuicio de poder trasladarlos a su Notaría o a otro lugar adecuado, con la finalidad y previa la autorización a que se refiere el párrafo anterior.
+
+> Se modifica por el art. 1.19 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 54.**
+
+Cuando un sustituto deba encargarse de un protocolo por causa de licencia o de incompatibilidad para desempeñar el cargo mencionado, el sustituido pondrá, a continuación o al margen de la última escritura matriz de su protocolo de instrumentos públicos, nota fechada y firmada del día en que se ausente, haciendo mención de la causa de la sustitución. A su regreso pondrá nota en el último instrumento del mismo protocolo de haber vuelto a encargarse de la Notaría.
+
+En el caso de enfermedad temporal, la primera nota será puesta por el sustituto y la segunda por el sustituído.
+
+**Artículo 55.**
+
+El Notario sustituto tendrá derecho en todo caso a percibir íntegramente los honorarios que devengue en los documentos que autorice por el sustituído.
+
+Las Juntas directivas, en los casos de sustitución por enfermedad temporal u otros similares, podrán determinar la parte de honorarios que el Notario sustituído podrá percibir del sustituto.
+
+**Artículo 56.**
+
+Cada cuatro años, en la primera quincena del mes de diciembre, o cuando las necesidades del servicio lo aconsejen, las Juntas Directivas de los Colegios Notariales formarán el cuadro de sustituciones, que remitirán a la Dirección para su aprobación.
+
+El cuadro de sustituciones, una vez aprobado, se remitirá a todos los notarios del Colegio.
+
+> Se modifica por el art. 1.20 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+##### Sección 3.ª De las jubilaciones
+
+**Artículo 57.**
+
+Los notarios se jubilarán forzosamente al cumplir la edad de 70 años o voluntariamente a partir de los 65, sin perjuicio de lo que establezca en su momento la legislación aplicable.
+
+Los notarios que hubiesen sido declarados en situación de incapacidad permanente conforme a lo previsto en el segundo párrafo del artículo 49, podrán obtener, previo expediente análogo al previsto en el citado artículo, su reincorporación al Cuerpo, si acreditasen haber desaparecido la causa que motivó la incapacidad, considerándose que hasta la fecha han estado en situación de excedencia. Estos notarios tendrán derecho a reingresar en el servicio por la misma población donde residieran en la fecha en que se declare su incapacidad. No será precisa la reserva expresa de este derecho al tiempo de la declaración de su incapacidad, pudiendo renunciar en cualquier momento mediante escrito elevado a la Dirección General de los Registros y del Notariado, y cuyo ejercicio se regirá por lo dispuesto en el artículo 109 de este Reglamento.
+
+Tomada posesión de su plaza por el notario que se hubiera reincorporado, solicitará su alta en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos, con indicación de la base de cotización por la que opta, en los términos y condiciones establecidos en la regulación de dicho Régimen, de conformidad con lo previsto en el artículo 2 del Real Decreto 1505/2003, de 28 de noviembre, por el que se establece la inclusión de los miembros del Cuerpo Único de Notarios en ese Régimen Especial de la Seguridad Social.
+
+> Se modifica por el art. 1.21 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 2 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 58.**
+
+La jubilación implica el cese de la relación funcionarial y la pérdida de la condición de funcionario a los efectos del ejercicio de la función pública notarial y de la posibilidad de ser elector o elegible para órganos colegiados de la organización corporativa notarial.
+
+> Se modifica por el art. 1.22 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 59.**
+
+El Notario jubilado forzosamente por edad cesará en el ejercicio del cargo dentro del plazo señalado en el párrafo primero del artículo cuarenta y uno de este Reglamento.
+
+> Se modifica por el art. 1 del Decreto de 30 de noviembre de 1945. [Ref. BOE-A-1945-12055](https://www.boe.es/buscar/doc.php?id=BOE-A-1945-12055).
+
+##### Sección 4.ª De las prerrogativas y honores de los Notarios
+
+**Artículo 60.**
+
+El Notario, una vez que obtenga el título y tome posesión de su Notaría, tendrá en el distrito a que corresponda la demarcación de la misma el carácter de funcionario público y autoridad en todo cuanto afecte al servicio de la función notarial, con los derechos y prerrogativas que conceden a tales efectos las Leyes fundamentales tanto de carácter civil como administrativo y penal.
+
+La presentación de la medalla y de la tarjeta de identidad será bastante para el efecto de acreditar al Notario en el ejercicio de las funciones notariales, y asimismo para que las autoridades y sus delegados o dependientes le auxilien cuando lo solicitare en el cumplimiento de las obligaciones de su cargo.
+
+El Notario que haya de ejercer su ministerio en actos presididos por Autoridad, ocupará lugar preferente en la presidencia.
+
+**Artículo 61.**
+
+El notario requerido para ejercer su ministerio, a quien se impida o dificulte el libre ejercicio de sus funciones con injurias, amenazas o cualquier forma de coacción, lo hará constar, a los efectos de lo dispuesto en los artículos 550, 551.1, 552, 553, 555 y 556 del Código Penal, por medio de acta, que firmarán él mismo y los testigos concurrentes y, en su caso, la persona o personas que se presten a suscribirla, de cuyo documento se sacarán tres copias que, dentro de las veinticuatro horas siguientes, serán remitidas al Juez de Instrucción, al Presidente del Tribunal Superior de Justicia y a la Junta Directiva del Colegio Notarial. Esta tendrá legitimación para ejercitar las acciones civiles y criminales que estime convenientes, incluso para interponer la querella en nombre propio y en el del notario.
+
+De igual modo se procederá, a tenor de lo dispuesto en el artículo 634 del Código Penal, cuando, sin incurrir en delito, se faltare al respeto y consideración debida al notario. Además, el notario podrá reclamar directamente, y bajo su responsabilidad, la asistencia de agentes de la autoridad, los cuales vendrán obligados a prestarla, con arreglo a sus respectivos reglamentos.
+
+> Se modifica por el art. 1.23 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 62.**
+
+El Notario contra quien se tramite un sumario, sólo quedará en suspenso para el ejercicio del cargo por resolución judicial que lleve consigo auto de prisión consentido o firme.
+
+La Junta directiva del Colegio Notarial tendrá derecho a mostrarse parte en la causa, en cualquier momento procesal de la misma.
+
+**Artículo 63.**
+
+La retribución de los Notarios estará a cargo de quienes requieran sus servicios y se regulará por el Arancel notarial, sin que en ningún caso la percepción difiera del coste medio ponderado del documento incrementado con los derechos que correspondan según el Arancel. La determinación de dichos costes corresponderá a la Dirección General de los Registros y del Notariado a propuesta fundada de la Junta de Decanos, y será vinculante para todos los Notarios.
+
+El arancel notarial se aprobará por el Gobierno mediante Decreto, a propuesta del Ministro de Justicia, previo informe de la Junta de Decanos de los Colegios Notariales y con audiencia de la Comisión Permanente del Consejo de Estado.
+
+Su revisión y actualización se llevará a efecto cada diez años o antes si las circunstancias lo aconsejan.
+
+Los honorarios y derechos y las cantidades suplidas por el Notario con relación a los impuestos generales sobre las sucesiones y sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, plusvalía o inscripciones y certificaciones del Registro de la Propiedad podrán hacerse efectivas por el procedimiento de apremio que la legislación hipotecaria establece o establezca en lo sucesivo a favor de los Registradores de la Propiedad.
+
+Se regulará asimismo por la legislación hipotecaria la fijación de las bases sobre las que haya de aplicarse el arancel.
+
+El Notario podrá dispensar totalmente los derechos devengados en cualquier documento, pero no tendrá la facultad de hacer dispensa parcial, que se reputará ilícita.
+
+> Se modifica el párrafo primero por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 64.**
+
+Los Decanos de los Colegios Notariales tendrán tratamiento y consideraciones de Jefes Superiores de la Administración; los Notarios de capital de Colegio, los de Jefe de Administración de primera clase; los de capital de provincia y los que desempeñen Notarías de primera clase no comprendidas en las anteriores, los de Jefe de Administración de segunda; los Notarios de segunda, los de Jefes de Administración de tercera clase, y los Notarios de tercera, los de Jefes de Negociado de primera, segunda y tercera clase, según que lleven más de treinta años de antigüedad en el Escalafón, de veinte a treinta años, o menos de veinte.
+
+**Artículo 65.**
+
+Todos los Notarios colegiados estarán autorizados para usar, como distintivo oficial de su cargo, una medalla de oro ovalada, de diecinueve milímetros de diámetro en su mayor extensión, y quince de anchura, con un filete blanco en su contorno, conteniendo en el anverso un libro protocolo cerrado y orlado con dos ramas de olivo, con la inscripción alrededor «Nihil prius fide», y en el reverso la fecha de la Ley del Notariado. Esta medalla se usará pendiente en el lado izquierdo del pecho, de cinta blanca en el centro y encarnada en los costados ajustándose en todo al modelo oficial.
+
+Los individuos de las Juntas directivas, en los actos de oficio a que concurran como tales, podrán usar dicho distintivo, pero de dimensiones proporcionalmente aumentadas, pendiente al cuello con una cinta de iguales colores.
+
+Los Notarios usarán, además, una placa de plata rafagada en oro, de setenta y ocho milímetros de diámetro, en forma de estrella de ocho puntas, con una corona en la parte superior y en el centro un escudo esmaltado en oro con las armas de España, partiendo de la parte inferior del escudo dos cintas con la inscripción «Fe pública notarial», y debajo del enlace de las mismas un libro en forma de protocolo, con el lema «Nihil prius fide».
+
+Los Decanos podrán usar la placa de plata dorada o de oro.
+
+**Artículo 66.**
+
+El sello notarial tendrá en lo sucesivo carácter obligatorio y llevará en el centro un libro en forma de protocolo, con el lema «Nihil prius fide» orlado con el nombre y apellido del Notario y la designación de su residencia.
+
+**Artículo 67.**
+
+Los notarios podrán celebrar congresos, asambleas o reuniones generales.
+
+El Consejo General del Notariado, y las Juntas Directivas de los Colegios Notariales, en sus respectivos ámbitos, promoverán y organizarán la celebración de los que estimen convenientes para el cumplimiento de los fines corporativos.
+
+> Se modifica por el art. 1.24 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 68.**
+
+La Junta Directiva, respecto del notario que se inutilizare en el ejercicio del cargo para el desempeño de la función, o que se jubilare o renunciare al mismo, llevando, en estos dos últimos casos, treinta y cinco años de servicios efectivos, podrá solicitar y obtener de la Dirección General, el título de notario honorario, pudiendo asistir con voz pero sin voto a las Juntas Generales.
+
+> Se modifica por el art. 1.25 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 69.**
+
+El estudio del notario tendrá la categoría y consideración de "oficina pública". En consecuencia, la oficina pública notarial deberá reunir las condiciones adecuadas para la debida prestación de la función pública notarial, debiendo estar constituida por un conjunto de medios personales y materiales ordenados para el cumplimiento de dicha finalidad.
+
+> Se modifica por el art. 1.26 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 70.**
+
+Las Juntas Directivas por propia iniciativa o a solicitud fundada de un notario podrán consultar a la Dirección General las dudas que tengan sobre la aplicación de la Ley del Notariado y el Reglamento Notarial o sus disposiciones complementarias. En las consultas se consignará, razonándola, la opinión del consultante.
+
+> Se modifica por el art. 1.27 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 71.**
+
+Como consecuencia del carácter de funcionario público del notario y de la naturaleza de la función pública notarial, la publicidad de la oficina pública notarial y de su titular deberá realizarse preferentemente a través de los sitios web de los Colegios Notariales y del Consejo General del Notariado.
+
+A tal fin, los Colegios Notariales mantendrán una lista actualizada de los notarios que estuvieran colegiados en su ámbito territorial accesible al público en su sitio web. En dichos sitios web, y a los efectos de la identificación del notario y localización de la oficina pública notarial, se incluirá el nombre y apellidos del notario, su fotografía si éste lo solicitara, y la dirección, correo electrónico y números de teléfono y fax de la oficina pública notarial.
+
+En modo alguno los notarios podrán anunciarse directa o indirectamente a título de sucesores de un titular de la misma Notaría.
+
+Igualmente, el local de la oficina pública notarial podrá anunciarse mediante una placa, respecto de las que las Juntas Directivas podrán adoptar medidas sobre la forma y dimensiones.
+
+> Se modifica por el art. 1.28 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+### TÍTULO SEGUNDO — De las Notarías
+
+#### CAPÍTULO I — De la demarcación notarial
+
+**Artículo 72.**
+
+La revisión de la demarcación notarial en todos los supuestos del artículo 4. de este Reglamento, se llevará a efecto por el Ministro de Justicia, a propuesta de la Dirección General, y se aprobará por Real Decreto.
+
+A tal fin, se recabarán informes a la Junta de Decanos, a las Juntas directivas de los Colegios Notariales, que oirán a las generales, Registradores de la Propiedad y Salas de Gobierno de las Audiencias afectadas y cuantos otros se consideren oportunos, todos los cuales se solicitarán dentro de los quince días siguientes al inicio del expediente y deberán ser remitidos en el plazo máximo de tres meses, contados desde la remisión de la solicitud.
+
+El Ministro de Justicia, oída la Comisión Permanente del Consejo de Estado resolverá lo que proceda.
+
+En las Comunidades Autónomas, además de lo dispuesto en los párrafos anteriores, se tendrá en cuenta lo que, en su caso, dispongan sus respectivos Estatutos.
+
+Como complemento de la demarcación notarial, la Dirección General, previa audiencia de los Colegios y de acuerdo con la Mutualidad Notarial, hará una relación revisable cada dos años de las Notarias enclavadas en zonas rurales que, aun sin producir lo necesario pare la decorosa subsistencia de un Notario, se consideran imprescindibles para el buen servicio público. Estas Notarías, independientemente de la congrua normal que les corresponda por razón de folios, disfrutarán por razón de residencia de una subvención anual, cuyo percibo estará condicionado a que el Notario atienda con notorio celo a su Notaría y visite periódicamente los pueblos de su distrito que determina la Junta directiva.
+
+La revisión no perjudicará los derechos adquiridos por los titulares de Notarias que pierdan la consideración de subvencionadas en virtud de dicha revisión.
+
+> Se añade el párrafo cuarto por el art. 2 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 1 del Real Decreto 1163/1983, de 30 de marzo. [Ref. BOE-A-1983-13178](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-13178).
+
+> Se añaden los párrafos cuarto a séptimo por el art. 1 del Real Decreto 1689/1980, de 24 de julio. [Ref. BOE-A-1980-18975](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-18975).
+
+**Artículo 73.**
+
+La demarcación notarial tendrá en cuenta lo pre­ceptuado por el artículo 3 de la Ley y se adaptará a la delimitación territorial de las provincias o los entes territoriales previstos en la legislación aplicable y municipios con arreglo a los planos del Instituto Geográfico Catastral y de Estadística, sin que las alteraciones en la demarcación judicial puedan influir en la notarial, salvo en el caso de que, como consecuencia de aquélla, se modifique también la demarcación notarial.
+
+El Real Decreto en que se apruebe la demarcación deberá hacer constar los distritos notariales, indicando los términos municipales comprendidos dentro de los mismos, todo ello sin perjuicio de las competencias asumidas por las Comunidades Autónomas en sus respectivos Estatutos.
+
+> Se modifica por el art. 1.29 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 74.**
+
+El Real Decreto ordenando la demarcación expresará los turnos o forma en que deban proveerse las Notarías de nueva creación y, en su caso aquellas en que los Notarios a quienes correspondan hayan de instalar su despacho u oficina en barrios o distritos concretos de la población. También establecerá la manera de amortizar las que se supriman.
+
+En todo caso, las vacantes que fueren suprimidas por una demarcación y no hubieren sido anunciadas para su provisión en el «Boletín Oficial del Estado», quedarán amortizadas, cualquier que sea el turno a que hubieren correspondido.
+
+Las que estuvieren servidas y deban suprimirse serán amortizadas cuando reglamentariamente vaquen, y sus titulares continuarán desempeñándolas, siendo considerados como Notarios excedentes de demarcación para todos los efectos legales mientras no dejen de servir a la Notaría suprimida o no transcurra el plazo reglamentario para ejercitar los derechos de excedencia.
+
+> Se modifica el párrafo primero por el art. 1 del Real Decreto 1163/1983, de 30 de marzo. [Ref. BOE-A-1983-13178](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-13178).
+
+**Artículo 75.**
+
+Las suprimidas en demarcaciones anteriores que no hayan sido amortizadas y que se restablezcan por nueva demarcación continuarán desempeñadas por los Notarios que las sirvan, quienes ya no tendrán el carácter y derechos del excedente de demarcación.
+
+**Artículo 76.**
+
+Cuando en una localidad deba suprimirse, en virtud de demarcación más de una Notaría, la amortización se hará paulatinamente, suprimiéndose la primera vacante que ocurra y proveyéndose la segunda en el turno que corresponda.
+
+La declaración de Notaría amortizada se hará por la Dirección General, y mientras no lo verifique ésta, el archivo de la vacante estará a cargo del Notario sustituto a quien corresponda encargarse de la mencionada Notaría.
+
+#### CAPÍTULO II — De la clasificación de Notarías
+
+**Artículo 77.**
+
+Todos los Notarios de España tienen idénticas funciones. No obstante, a los meros efectos orgánicos y corporativos y en atención a criterios básicamente demográficos, las Notarías se agrupan en las siguientes clases o secciones:
+
+De capitales de provincia, sean o no capitales de Colegio Notarial, Ceuta, Melilla y todas las poblaciones mayores de setenta y cinco mil habitantes en su término municipal, según el último Censo de población publicado por el Instituto Nacional de Estadística (sección primera).
+
+De poblaciones que, no estando comprendidas en el párrafo anterior, excedan de dieciocho mil habitantes según dicho Censo (sección segunda).
+
+Y de todas las demás poblaciones (sección tercera).
+
+Para fijar la población de los términos municipales a efectos de los párrafos precedentes, se tendrá en cuenta la de hecho que resulte en el último Censo publicado por el mencionado Instituto.
+
+> Se modifica por el art. 1 del Real Decreto 342/1978, de 10 de febrero. [Ref. BOE-A-1978-6588](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-6588).
+
+> Téngase en cuenta el art. 2 en cuanto a su aplicación.
+
+**Artículo 78.**
+
+La clasificación de Notarías con las rectificaciones que imponga el Censo de población, se expresará de un modo concreto en la demarcación notarial.
+
+**Artículo 79.**
+
+Los notarios tendrán, para todos los efectos legales, la categoría que se fije en la clasificación a la Notaría que estuvieren desempeñando, con las siguientes excepciones:
+
+a) El notario que desempeñe Notaría que en virtud de nueva clasificación aumente o disminuya de clase o sección, conservará, mientras la sirva, la que hubiere tenido hasta entonces.
+
+b) Para que el notario pueda obtener la clase de la notaría que haya obtenido por concurso será preciso que tenga una antigüedad en la carrera de cinco años, si la notaría es de plaza clasificada de segunda, y de nueve si es de plaza clasificada de primera. Si tuviera menos antigüedad en la carrera, adquirirá la clase correspondiente a su notaría cuando haya transcurrido el plazo indicado, sumando a tal efecto la antigüedad en carrera que tuviere a la que pueda obtener en la plaza obtenida por concurso.
+
+> Se modifica por el art. 1.30 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 2 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 1 del Decreto de 30 de noviembre de 1945. [Ref. BOE-A-1945-12055](https://www.boe.es/buscar/doc.php?id=BOE-A-1945-12055).
+
+#### CAPÍTULO III — De las vacantes de Notarías
+
+##### Sección 1.ª De las causas y efectos de las vacantes
+
+**Artículo 80.**
+
+Las Notarías quedan vacantes:
+
+1.º Por muerte.
+
+2.º Por sentencia firme que condene a la inhabilitación absoluta, o especial para el cargo de notario.
+
+3.º Por renuncia.
+
+4.º Por abandono del cargo.
+
+5.º Por traslación.
+
+6.º Por excedencia, salvo lo prevenido en el artículo 109 de este Reglamento.
+
+7.º Por jubilación o incapacidad permanente.
+
+8.º Cuando por sentencia firme en que no medie inhabilitación, la pena impuesta impida al notario durante más de un año el ejercicio de su cargo.
+
+> Se modifica por el art. 1.31 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se deroga el número 8 por el art. 1 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 81.**
+
+Los Tribunales que impusieren a un notario pena que lleve consigo inhabilitación, absoluta o especial para el cargo de notario, lo comunicarán a la Dirección General, remitiéndole copia de la sentencia una vez que ésta sea firme.
+
+Tendrán la misma obligación en los casos en que la sentencia condene a una pena que, sin llevar consigo inhabilitación, impida al notario el ejercicio de su cargo.
+
+> Se modifica por el art. 1.32 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 82.**
+
+Los Jueces de Instrucción, al dictar auto de procesamiento contra un Notario, cuando el procesamiento lleva consigo la suspensión del cargo, por haberse dictado auto de prisión consentido o firme, deberán ponerlo en conocimiento de la Dirección General de los Registros y del Notariado y del Decano del Colegio Notarial del territorio donde sirva el Notario a los efectos procedentes.
+
+**Artículo 83.**
+
+Las Notarías quedarán vacantes por renuncia:
+
+1.º Cuando expresamente lo manifestare el Notario interesado.
+
+2.º Cuando dentro de los plazos legales no constituyere fianza para desempeñar el cargo, o no la repusiere cuando proceda, en los términos prevenidos en este Reglamento, en cuyo caso se estará a lo previsto en el artículo 28 del mismo.
+
+3.º Cuando no se posesionare de la Notaría en el plazo reglamentario o al concluir la licencia que se le hubiere concedido y cuando no hubiere obtenido prórroga, si procediere, hallándose en situación de excedencia, a no ser por motivo justificado, o se ausentare del distrito notarial sin estar autorizado para ello.
+
+4.º Cuando expresamente se declare en este Reglamento.
+
+Los derechos y obligaciones del Notario renunciante no cesarán mientras no le haya sido admitida o declarada la renuncia, según los casos.
+
+El Notario declarado renunciante será dado de baja en el Escalafón del Cuerpo.
+
+> Se modifica el número 2 por el art. 1.33 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 84.**
+
+Se considerará que hay abandono del cargo por parte del notario en cualquiera de los casos comprendidos en el apartado 3.º del artículo anterior.
+
+Comprobado el hecho de la ausencia, el Notario ausente será llamado por edicto publicado en el «Boletín Oficial del Estado», y si dentro del plazo de veinte días, a contar desde el de la publicación, no compareciese, se declarará la vacante de la Notaría y el Notario será dado de baja en el Escalafón.
+
+Cuando comparezca dentro del plazo señalado en el párrafo anterior, se seguirá el expediente con audiencia del interesado y se resolverá lo que proceda.
+
+Este expediente será resuelto en primera instancia por la Dirección General, y en última por el Ministro.
+
+No obstante, el Notario separado podrá solicitar la revisión del expediente, si justificare que la ausencia o abandono obedecieron a causas no imputables a su voluntad.
+
+> Se modifica el párrafo primero por el art. 1.34 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 85.**
+
+Los Decanos de los Colegios Notariales, los Delegados y Subdelegados de las Juntas Directivas y los Jueces de primera instancia, manifestarán a la Dirección General la fecha en que ocurriere una vacante, dentro de los tres días siguientes a la misma. Dicha Dirección general lo comunicará a la respectiva Comunidad Autónoma para el ejercicio de las competencias que tuviera asumidas estatutariamente.
+
+> Se modifica por el art. 1.35 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 86.**
+
+La Dirección General de los Registros y del Notariado llevará los libros necesarios para determinar con toda exactitud el turno a que corresponda cada vacante, y la turnará por el orden riguroso establecido en el artículo 88 y con estricta sujeción a la fecha en que ocurra o sea declarada la vacante, y de no ser esto posible, por la en que se haya dado conocimiento de ella.
+
+La Dirección podrá fijar libremente el turno cuando, por simultaneidad de las vacantes, sea imposible determinarlo según las anteriores reglas.
+
+Por excepción, las vacantes producidas por jubilación se turnarán automáticamente, antes de que toda otra vacante de las que se produzcan en el mismo día por cualquiera otra causa.
+
+**Artículo 87.**
+
+Se tendrá por fecha de la vacante, para todos los efectos reglamentarios, la del nombramiento para otra Notaría del titular que la servía, la de su fallecimiento, la del día en que cumpla la edad reglamentaria para su jubilación forzosa y la del en que se acuerde su jubilación por imposibilidad física o voluntaria, excedencia, renuncia o traslación forzosa, o se declare desierta una Notaría.
+
+##### Sección 2.ª De los turnos para la provisión de vacantes
+
+**Artículo 88.**
+
+El concurso constituye el único modo de cubrir las Notarías vacantes, sin otras excepciones que la traslación forzosa y la vuelta al servicio activo del excedente con reserva de vacante para la misma población.
+
+Las vacantes que se produzcan relativas a notarías de la misma población, se asignarán, las dos primeras al turno primero y la tercera al turno segundo y así sucesivamente. El orden de los turnos especificados será rotatorio, teniendo en cuenta los turnos que hubiesen correspondido en notarías vacantes de la misma población en los anteriores concursos. La vacante que en el concurso no resulte cubierta por el turno de clase según lo establecido en el artículo 92, se adjudicará en el mismo concurso por el turno de antigüedad en la carrera.
+
+Si en virtud del artículo 57 de este Reglamento existiera algún notario con derecho de reingreso preferente a la plaza que ocupara al tiempo de la declaración de su incapacidad permanente, dicho notario antes de la asignación de turnos para cada plaza deberá comunicar el ejercicio de su derecho a la Dirección General de los Registros y del Notariado. Ejercido su derecho esta plaza se excluirá del concurso atribuyéndosele en la resolución de dicho concurso.
+
+> Se modifica por el art. 1.36 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 2 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 1 del Real Decreto 342/1978, de 10 de febrero. [Ref. BOE-A-1978-6588](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-6588).
+
+**Artículo 89.**
+
+No consumirán turno las vacantes que correspondan a excedentes voluntarios al volver al servicio activo después de terminada la excedencia si tuvieran reservado el derecho a ser nombrados para vacantes de la misma población. Ninguno de ellos podrá ser nombrado para las vacantes que hayan de amortizarse por efecto de la demarcación notarial.
+
+Tampoco consumirán turno las que se destinen a los Notarios a quienes se impusiere la corrección disciplinaria de traslación forzosa.
+
+**Artículo 90.**
+
+Si una vacante no fuese cubierta en un concurso se anunciará en los siguientes hasta que sea cubierta.
+
+> Se modifica por el art. 1.37 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 2 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+a) Concurso de antigüedad
+
+**Artículo 91.**
+
+En el turno primero, de antigüedad en la carrera, será nombrado el Notario solicitante de mayor antigüedad en el Cuerpo.
+
+La antigüedad se determinará por el número que tenga el Notario en el Escalafón, sin deducción alguna por el tiempo de excedencia voluntaria o forzosa, anterior o posterior a este Reglamento.
+
+En el caso de suspensión en el cargo decretada por los Tribunales de Justicia, se deducirá la mitad del tiempo de aquélla, salvo el caso de que el Notario sometido al procedimiento fuese absuelto.
+
+No se descontará el tiempo de las licencias.
+
+b) Concurso de clase
+
+**Artículo 92.**
+
+En el turno segundo de antigüedad en la clase o sección será nombrado el notario solicitante más antiguo en la clase igual a la de la vacante, cuando se trate de notarios de primera o segunda clase; en defecto de solicitantes de la misma clase, el más antiguo en la inmediatamente inferior, y en defecto de éstos, el más antiguo de la restante clase.
+
+La antigüedad en este turno se contará desde la fecha de la adquisición de la clase o sección conforme a lo previsto en el artículo 23 de este Reglamento, teniéndose en cuenta además las siguientes reglas:
+
+a) Se computará todo el tiempo servido en Notarías de igual clase, así como, en su caso, el tiempo de antigüedad en clase abonado por la oposición entre notarios, conforme al sistema vigente al tiempo de la celebración de ésta.
+
+b) En los casos previstos en el artículo 79 se computará, además, todo el tiempo servido por el notario con su categoría personal en la Notaría de clase diferente a que dicho artículo se refiere en cada uno de sus dos supuestos.
+
+Si aplicando las reglas anteriores la antigüedad en la clase fuere igual, será nombrado el notario que tenga el número más bajo en el Escalafón del Cuerpo.
+
+Para las vacantes de tercera clase anunciadas en este turno será nombrado el notario de dicha categoría que tenga el número más bajo en el escalafón y, en su defecto, el más antiguo en la ca­rre­ra.
+
+> Se modifica por el art. 1.38 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 2 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Reglas generales**
+
+**Artículo 93.**
+
+La provisión de Notarías en los turnos precedentes se verificará por concurso, incluyéndose en cada uno de ellos las vacantes que resulten del anterior y las que hayan ocurrido hasta el día precedente a la fecha del anuncio del concurso de que se trate, siempre que de ella se tenga conocimiento en la Dirección General.
+
+**Artículo 94.**
+
+El anuncio del concurso se publicará en el «Boletín Oficial del Estado» y en él se convocará a los Notarios que quisieren aspirar a las vacantes incluidas en el mismo para que las soliciten con sujeción a las reglas siguientes:
+
+1\. Presentar en la Dirección General una instancia firmada de su puño y letra, dentro de los quince días naturales siguientes a la publicación del anuncio, debiendo ingresar las instancias en el referido Centro directivo antes de las dos de la tarde del día en que finalice el plazo, quedando sin efecto las que ingresen después de dicha hora, cualquiera que sea la causa.
+
+Si el último día del plazo fuera inhábil, se entenderá automáticamente prorrogado hasta el primero hábil, a la hora indicada.
+
+El Registro de entrada expedirá recibo de las instancias presentadas a los interesados que lo reclamen, siendo este recibo el único documento admisible para formular y reconocer reclamación alguna sobre tal hecho.
+
+2\. Solicitar en una sola instancia todas las Notarías que se pretendan, aunque correspondan a turno diferente.
+
+3\. Expresar sin salvedad ni condición alguna la Notaría o Notarías que se piden, indicando en la instancia, si fueran varias las Notarías pedidas, el orden en que se prefieran.
+
+4\. Indicar la fecha de su ingreso en la carrera, si es o no excedente de demarcación la Notaría que el solicitante sirve y su categoría, expresando el tiempo de servicios en ésta si entre las vacantes que solicita hay alguna del turno segundo o de antigüedad en la clase.
+
+5\. Consignar, bajo su responsabilidad en la solicitud, que por el hecho de obtener la Notaría que pretende no incurre en la incompatibilidad a que se refiere el artículo 138 de este Reglamento.
+
+La instancia que no contenga los requisitos exigidos en las reglas cuarta y quinta, o los exprese inexactamente, se tendrá por no presentada, sin perjuicio de las facultades disciplinarias concedidas a la Dirección en este Reglamento, si ésta estimase que se había cometido la inexactitud deliberadamente.
+
+Los titulares de Notarías que radiquen fuera de la Península podrán tomar parte en los concursos mediante telegrama, que tendrá el mismo valor y habrá de contener las mismas indicaciones que una instancia, y deberán ingresar en la Dirección General dentro del plazo señalado para las solicitudes, sometiéndose los pretendientes a la interpretación que el Centro directivo dé a posibles errores de los telegramas.
+
+El mismo día en que se remita al «Boletín Oficial del Estado» el anuncio de las Notarías vacantes, será telegrafiado a los Decanos de Baleares y Las Palmas, a fin de que éstos lo hagan llegar a conocimiento de todos los Notarios de su territorio por el medio más rápido posible.
+
+Ningún concursante podrá anular, ampliar, disminuir o modificar su solicitud después de presentada ésta.
+
+> Se modifica por el art. 2 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 95.**
+
+Para concursar Notarías en los turnos establecidos, excepto el destinado a excedentes de demarcación, será necesario que haya transcurrido el plazo de un año a contar desde la fecha de la posesión de la Notaría que sirva el solicitante.
+
+> Se modifica por el art. 1 del Decreto de 30 de noviembre de 1945. [Ref. BOE-A-1945-12055](https://www.boe.es/buscar/doc.php?id=BOE-A-1945-12055).
+
+**Artículo 96.**
+
+Los Notarios residentes en una localidad no podrán solicitar las vacantes que en ella se produzcan, salvo en el caso de cambio de su clasificación notarial. Podrá concursar dentro de la población el Notario obligado a tener su despacho u oficina en distrito urbano o barrio, conforme al artículo 4., siempre que hayan transcurrido tres años desde la fecha de posesión.
+
+No podrán concursar los Notarios que tengan suspendido este derecho mientras dure la sanción y durante dos años los que hubiesen sido trasladados forzosamente, no pudiendo estos últimos volver a Notarías del mismo distrito notarial ni de los colindantes, a no ser que hayan transcurrido diez años y durante este tiempo no hayan vuelto a ser corregidos con igual sanción.
+
+> Se modifica el párrafo segundo por el art. 2 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica el párrafo primero por el art. 1 del Real Decreto 1163/1983, de 30 de marzo. [Ref. BOE-A-1983-13178](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-13178).
+
+> Se modifica el párrafo primero por el art. 1 del Real Decreto 1689/1980, de 24 de julio. [Ref. BOE-A-1980-18975](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-18975).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+> Se modifica por el art. 1 del Decreto de 30 de noviembre de 1945. [Ref. BOE-A-1945-12055](https://www.boe.es/buscar/doc.php?id=BOE-A-1945-12055).
+
+##### Sección 3.ª De la oposición entre Notarios
+
+> Se renumera como Sección 3 por el art. 3 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 97.**
+
+La promoción en el Notariado, además de la que puede obtenerse por la antigüedad efectiva de cada notario, en la carrera o en la clase, tiene lugar por la oposición entre notarios, que mediante la selección de los concurrentes más aptos, confiere un abono de antigüedad en la carrera en los términos que se prevén en esta sección.
+
+> Se modifica por el art. 1.39 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 3 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 1 del Decreto de 30 de noviembre de 1945. [Ref. BOE-A-1945-12055](https://www.boe.es/buscar/doc.php?id=BOE-A-1945-12055).
+
+**Artículo 98.**
+
+Las oposiciones entre Notarios serán convocadas por la Dirección General cuando lo aconsejen las necesidades del servicio y, en todo caso, antes de que transcurran dos años desde el término de los ejercicios de las oposiciones últimamente celebradas, anunciándose la convocatoria en el «Boletín Oficial del Estado».
+
+> Se modifica por el art. 3 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+> Se modifica por el art. 1 del Real Decreto 342/1978, de 10 de febrero. [Ref. BOE-A-1978-6588](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-6588).
+
+> Téngase en cuenta el art. 2 en cuanto a su aplicación.
+
+**Artículo 99.**
+
+La convocatoria comprenderá un número de plazas que represente el 1,5 % de todas las Notarías demarcadas en España, con desprecio de los decimales.
+
+En ningún caso podrán resultar aprobados más opositores que el número de plazas convocadas.
+
+> Se modifica por el art. 1.40 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 3 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Redactado el párrafo segundo conforme a la corrección de errores publicada en BOE núm. 183, de 1 de agosto de 1984. [Ref. BOE-A-1984-17221](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17221)
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+> Se modifica el párrafo primero por el art. 1 del Decreto de 30 de noviembre de 1945. [Ref. BOE-A-1945-12055](https://www.boe.es/buscar/doc.php?id=BOE-A-1945-12055).
+
+**Artículo 100.**
+
+El abono de la antigüedad en la carrera se realizará en los siguientes términos:
+
+a) A los tres primeros de la lista de aprobados que hayan obtenido un mínimo de 60 puntos, veinte años.
+
+b) A quienes hayan obtenido un mínimo de 50 puntos y no rebasen un sexto, calculado por defecto, de las plazas convocadas, quince años.
+
+c) A quienes hayan obtenido un mínimo de 45 puntos y no rebasen un tercio, calculado por defecto, de las plazas convocadas, diez años.
+
+d) A quienes hayan obtenido un mínimo de 40 puntos y no rebasen dos tercios, calculados por defecto, de las plazas convocadas, cinco años.
+
+El abono de antigüedad obtenido se adicionará a la que a cada opositor ya le corresponda a los efectos de poder aplicarla en cualquier concurso que se convoque en los cinco años siguientes a la publicación en el Boletín Oficial Estado de la lista de aprobados. Transcurrido el término de cinco años, quedará sin efecto el abono obtenido, salvo que no se haya publicado ningún concurso durante tal plazo, en cuyo caso el abono se prorrogará hasta que éste se produzca. Ejercitado el abono y obtenida la plaza, el notario figurará en el escalafón exclusivamente con la antigüedad que originariamente le corresponda, quedando consumido el abonado por la oposición regulada en esta Sección.
+
+> Se modifica por el art. 1.41 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. único del Real Decreto 950/1987, de 24 de julio. [Ref. BOE-A-1987-17387](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17387).
+
+> Se modifica por el art. 3 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 183, de 1 de agosto de 1984. [Ref. BOE-A-1984-17221](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17221)
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 101.**
+
+El Tribunal estará compuesto por un Presidente y seis Vocales.
+
+Será Presidente el Director General de los Registros y del Notariado o uno de los Subdirectores del mismo Centro. En su defecto, el Presidente del Consejo General del Notariado o su Vicepresidente y, a falta de ambos, el Decano que el propio Consejo General designe.
+
+Serán Vocales: el Decano que designe el Consejo General del Notariado, en el caso de que presida el Director general o uno de los Subdirectores generales del Centro directivo, y, en otro caso, un Abogado del Estado o Letrado Adscrito a la Dirección General; dos notarios con más de veinte años de antigüedad en la carrera o que hubieran aprobado anteriores oposiciones entre notarios; un Registrador de la Propiedad o Mercantil, con más de veinte años de antigüedad en la carrera; un Catedrático de Universidad, en activo o excedente, de alguna de las siguientes áreas de conocimiento: Derecho Romano, Civil, Mercantil, Internacional Privado, Procesal o Financiero y Tributario, y un Abogado del Estado.
+
+Hará las veces de Secretario el Vocal notario más moderno.
+
+En ausencia del Presidente hará sus veces el primero de los Vocales; si el ausente fuere el Secretario, le sustituirá en sus funciones el otro Vocal notario.
+
+El nombramiento del Tribunal se hará, después de publicada la lista definitiva de aspirantes admitidos y excluidos, por Orden, a propuesta de la Dirección General de los Registros y del Notariado, que se insertará en el Boletín Oficial del Estado.
+
+Dentro de los ocho días siguientes a la publicación del nombramiento del Tribunal, la Dirección General citará a éste para su constitución, que deberá tener lugar en el plazo máximo de quince días, contados desde la citación.
+
+> Se modifica por el art. 1.42 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 2 del Real Decreto 1728/1991, de 29 de noviembre. [Ref. BOE-A-1991-29525](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-29525).
+
+> Se modifica por el art. único del Real Decreto 950/1987, de 24 de julio. [Ref. BOE-A-1987-17387](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17387).
+
+> Redactado el párrafo sexto conforme a la corrección de erratas publicada en BOE núm. 181, de 30 de julio de 1987. [Ref. BOE-A-1987-17745](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-17745)
+
+> Se modifica por el art. 3 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era art. 98.
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 102.**
+
+Podrán tomar parte en estas oposiciones los notarios en activo que cuenten con más de un año de servicios efectivos, debiendo solicitarlo a la Dirección General mediante instancia presentada dentro del plazo de treinta días hábiles, contados desde el siguiente al de la publicación de la convocatoria en el Boletín Oficial del Estado.
+
+Con la instancia no será necesario que se acompañe documento alguno, pero sí se podrán presentar los que acrediten la publicación de estudios sobre cualquier disciplina jurídica, a cuyo fin deberán acompañar original o testimonio notarial de su trabajo.
+
+Al presentar la instancia los solicitantes entregarán, o acreditarán haber entregado, en el lugar que fije la convocatoria, la cantidad establecida en concepto de derechos de examen, que se señale conforme a las disposiciones vigentes al tiempo de publicarse aquélla.
+
+Si alguna de las instancias adoleciese de algún defecto se procederá en la forma prevista en el artícu­lo 8, párrafo sexto, de este Reglamento.
+
+> Se modifica por el art. 1.43 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 3 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 103.**
+
+Dentro de los ocho días hábiles siguientes al de conclusión del plazo de presentación de instancias, la Dirección General resolverá sobre la admisión de los opositores, formará la lista de los admitidos y excluidos y remitirá un ejemplar para su publicación en el "Boletín Oficial del Estado" , concediéndose un plazo de quince días para formular reclamaciones.
+
+Estas serán aceptadas o rechazadas en la resolución por la que se apruebe la lista definitiva que, asimismo, se publicará en el "Boletín Oficial del Estado" y se fijará en el tablón de anuncios del Centro directivo.
+
+> Se modifica por el art. 3 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era art. 100.
+
+**Artículo 104.**
+
+Publicada la lista definitiva, así como el nombramiento del Tribunal, la Dirección General señalará, en la forma y plazos previstos en el artículo 12, las circunstancias del sorteo y del comienzo de los ejercicios.
+
+En la fecha prevista para la celebración del sorteo, el Tribunal se reunirá y dará cumplimiento a lo que, respecto a las oposiciones libres, ordena el artículo 14.
+
+> Se modifica por el art. 3 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era art. 101.
+
+**Artículo 105.**
+
+Los ejercicios serán tres: uno oral, y dos escritos; todos públicos.
+
+El primero consistirá en redactar por escrito un dictamen sobre una consulta de trascendencia jurídica, de entre los casos formulados reservadamente por el Tribunal, que versarán sobre Derecho civil español, común y foral, Derecho mercantil y Legislación Hipotecaria.
+
+El segundo consistirá en el desarrollo oral de tres temas, que versarán: uno, sobre Derecho civil, común y foral; otro, sobre Derecho mercantil; y el tercero, sobre Legislación Hipotecaria o Notarial, sacados a la suerte de los contenidos en el Cuestionario que redactará la Dirección General de los Registros y del Notariado y publicará oportunamente en el Boletín Oficial del Estado. En este ejercicio podrá invertir el opositor hora y media como máximo.
+
+El tercero consistirá en la redacción de un instrumento público de reconocida dificultad, debiendo el opositor razonar en pliego aparte la aplicación de los principios legales que se hayan tenido en cuenta para su redacción y resolución de los problemas planteados.
+
+Los ejercicios primero y tercero se podrán practicar en grupos, compuesto cada uno de ellos, si fueren varios, del número de opositores que determine el Tribunal. Cada grupo actuará el día que se le designe.
+
+Uno de los opositores del grupo sacará a la suerte el tema sobre el cual haya de versar el ejercicio correspondiente, el mismo para todos los individuos que lo formen, y durante ocho horas, como máximo, habrá de escribir cada opositor su trabajo.
+
+Una vez terminado, lo autorizará y encerrará en un sobre, del modo prevenido en el artículo 16.
+
+En estos ejercicios sólo podrá el opositor consultar textos legales.
+
+Los temas sacados a la suerte en los ejercicios primero y tercero no volverán a ser insaculados.
+
+> Se modifica por el art. 1.44 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 3 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era art. 102.
+
+**Artículo 106.**
+
+En los ejercicios primero y tercero, cada uno de los miembros del Tribunal podrá conceder 20 puntos como máximo a cada opositor.
+
+En el segundo ejercicio, cada uno de los miembros del Tribunal podrá conceder de uno a diez puntos como máximo por cada uno de los temas a que el opositor hubiere contestado.
+
+No podrá votarse en blanco, y el escrutinio se verificará en la forma prevenida en los párrafos segundo y tercero del artículo 18 de este Reglamento.
+
+> Se modifica por el art. 1.45 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 3 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 107.**
+
+Serán aplicables a las oposiciones entre Notarios, en todo lo que no esté previsto para las mismas, lo dispuesto en este Regimiento para la oposición libre.
+
+> Se modifica por el art. 3 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Su anterior numeración era art. 104.
+
+**Artículo 108.**
+
+El cuestionario del segundo ejercicio será el que haya redactado la Dirección General de los Registros y del Notariado en el momento de publicar la convocatoria y deberá constar, al menos, con un año de antelación al día en que se inicie el citado ejercicio. Dicho cuestionario no podrá contener más de veinticinco temas de Derecho Civil, quince de Derecho Mercantil, diez de Derecho Notarial y diez de Derecho Hipotecario.
+
+> Se modifica por el art. 1.46 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 3 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+##### Sección 4.ª De la excedencia
+
+**Artículo 109.**
+
+El Notario que lleve un año de servicios efectivos en su carrera podrá ser declarado, a su instancia, en situación de excedencia voluntaria. Y el que sin llevar un año de servicios efectivos tome posesión, en virtud de oposición o concurso, de otro cargo investido de funciones públicas, será considerado como renunciante y dado de baja en el escalafón del Cuerpo de Notarios.
+
+Las solicitudes de excedencia se presentarán a la Dirección General, expresando en ellas el domicilio que el interesado fije para las notificaciones que hayan de dirigírsele.
+
+Pasado el plazo de un año, el Notario podrá reingresar en el servicio activo por los turnos ordinarios y sin preferencia alguna por su carácter de excedente. Esta limitación no afectará a quien hallándose en la situación de excedencia apruebe una oposición entre Notarios.
+
+Excepcionalmente, el Notario que solicite la excedencia tendrá derecho, si se lo reserva al pedirla, a reingresar en el servicio por la misma población donde residiera al serle concedida aquélla, en cuyo caso, después de terminar el plazo por el que fuese concedida, y no antes, será nombrado para servir la primera vacante que se produzca en dicha población.
+
+Este derecho se podrá renunciar en todo tiempo mediante escrito que el Notario excedente elevará a la Dirección General de los Registros y del Notariado, y una vez hecha la expresada renuncia, podrá solicitar vacantes en los turnos ordinarios, al tiempo y en la forma dichos.
+
+Si hubiere más de un Notario que tenga reservado el derecho de reingreso por la misma población, será nombrado preferentemente aquél con relación al cual haga más tiempo que terminó el plazo de excedencia, y si en la misma población ocurrieren en el mismo día dos o más vacantes a que tengan derecho más de un Notario excedente, podrán elegir los Notarios por orden de antigüedad en el escalafón.
+
+El tiempo de excedencia voluntaria, sea anterior o posterior a este Reglamento, no será deducible para la determinación de la antigüedad de los Notarios en ninguno de los turnos de provisión de vacantes.
+
+> Se modifica por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Téngase en cuenta la disposición transitoria 2 en cuanto a la aplicación del inciso segundo del párrafo primero.
+
+**Artículo 110.**
+
+Si se reserva el reingreso por la misma población, con sujeción a lo dispuesto en el artículo anterior, la excedencia será obligatoria durante el plazo por que fuese concedida, pudiendo prorrogarse siempre que se le solicite antes de extinguirse éste.
+
+La situación de excedencia voluntaria y sus prórrogas serán por anualidades completas.
+
+**Artículo 111.**
+
+La situación de excedencia voluntaria no podrá solicitarse por notarios que se hallen sometidos a expediente de corrección disciplinaria.
+
+> Se modifica por el art. 1.47 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 112.**
+
+Los excedentes que deban reingresar solicitando las vacantes en concurso, lo harán llenando idénticos requisitos que los funcionarios en activo, y continuarán en situación de excedencia hasta que obtengan Notaría, considerándose prorrogado indefinidamente el plazo de excedencia mientras esto no suceda.
+
+**Artículo 113.**
+
+Los Notarios que hubieren disfrutado de excedencia no podrán obtenerla de nuevo hasta transcurrido un año de su vuelta al servicio activo.
+
+> Se modifica por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 114.**
+
+La situación especial de los excedentes por demarcación será regulada en el Decreto en que aquélla se ordene, sin que en ningún caso puedan ascender de clase, estimándose como tal para estos efectos la que el Reglamento establece en el artículo 77.
+
+> Se modifica por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 115.**
+
+Los Notarios que acepten los cargos de Ministro, Subsecretario, Director general y otros que lleven aneja la categoría de Jefe Superior de Administración civil: los de Gobernador civil. Presidente de Diputación Provincial, Consejero de Estado, del Consejo Superior del Ejército, Magistrado del Tribunal Supremo, los de miembro de Cámaras Legislativas; Altos organismos o Tribunales de Justicia o de la Administración Central, cuando estos cargos o representaciones sean incompatibles, quedarán en suspenso mientras desempeñen aquel cargo y serán sustituídos conforme a lo determinado en el artículo 52 de este Reglamento. Dentro de los treinta días siguientes al cese en los cargos mencionados deberán posesionarse de la Notaría. Cuando no lo hicieren, quedarán en situación de excedencia voluntaria por el plazo de un año, si al incurrir en la incompatibilidad tuvieren, por lo menos, otro de servicio en el Cuerpo. Si no lo llevaren, se les considerará como renunciantes y causarán baja definitiva en el Escalafón. Terminado el año de excedencia podrán solicitar Notarías por los turnos ordinarios en igual forma y con idénticos requisitos que los excedentes voluntarios, o reingresar en su residencia conforme a lo establecido en el artículo 109.
+
+### TÍTULO TERCERO — De la función Notarial
+
+#### CAPÍTULO I — De la jurisdicción notarial
+
+> Se modifica por el art. 1.48 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 116.**
+
+Los Notarios carecen de fe pública fuera de su respectivo distrito notarial, salvo en los casos de habilitación especial.
+
+Tendrán su residencia en la población designada en su nombramiento.
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 117.**
+
+Los notarios residentes en una misma localidad podrán ejercer su ministerio, indistintamente, dentro de su término municipal.
+
+También podrán ejercerlo en los términos municipales de los demás pueblos del mismo distrito notarial con arreglo al artículo 8 de la Ley en los que no exista notaría demarcada; pero, salvo los casos de sustitución y habilitación, sólo podrán autorizar instrumentos públicos en el término municipal correspondiente al domicilio de otro u otros notarios, cuando éstos sean incompatibles o haya otra causa que imposibilite su intervención y siempre que, en ambos supuestos concurra además alguna de las circunstancias siguientes:
+
+1.º Imposibilidad física permanente de alguno de los otorgantes o requirentes.
+
+2.º Imposibilidad accidental de los otorgantes, cuando se trate de escrituras de testamento, reconocimiento de hijos no matrimoniales, capitulaciones matrimoniales o actas notariales.
+
+3.º Cuando exista un caso de verdadera importancia por vencimiento del plazo legal o contractual.
+
+> Se modifica por el art. 1.49 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 118.**
+
+Sin perjuicio de los supuestos de habilitación reglamentaria, los notarios de cualquier residencia podrán actuar en los términos municipales contiguos al suyo y pertenecientes a otro Distrito notarial, cualquiera que sea el Colegio a que correspondan, para el solo caso de autorizar el testamento del que se halle gravemente enfermo, protestos o documentos de plazo perentorio, siempre que en tal término no resida notario o el notario único o todos los notarios residentes en el lugar sean incompatibles o haya otra causa que imposibilite su intervención.
+
+> Se modifica por el art. 1.50 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 119.**
+
+En todo caso, además de hacerlo constar en el respectivo documento, el notario comunicará a la Junta Directiva en los dos días hábiles siguientes, la práctica de cualquier actuación prevista en los dos artículos anteriores.
+
+> Se modifica por el art. 1.51 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 120.**
+
+Además de los casos de habilitación especial previstos en este Reglamento, cuando un distrito quede sin notario en servicio activo por muerte, jubilación, traslado del titular, ausencia o cualquier otra causa que lo haga necesario para la mejor prestación del servicio público y no estuviese previsto el caso en el Cuadro de sustituciones, el Decano del Colegio Notarial habilitará a otro de distrito colindante, dando cuenta a la Dirección General, que podrá ratificar o modificar la habilitación a favor de otro, atendiendo siempre al servicio público.
+
+> Se modifica por el art. 1.52 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 121.**
+
+Cuando la atención al servicio público lo requiera, las Juntas Directivas podrán habilitar excepcionalmente a uno o varios notarios para poder actuar en términos municipales distintos de aquellos donde esté demarcada su notaría, aunque exista otro notario. En todo caso, las Juntas Directivas adoptarán las medidas que procedan previo informe del notario o notarios afectados.
+
+Los documentos públicos autorizados o intervenidos por el notario habilitado quedarán incorporados a su protocolo o libro-registro, salvo que la Junta Directiva al acordar la habilitación determine lo contrario.
+
+Estas habilitaciones especiales serán inmediatamente ejecutivas sin perjuicio de ser recurribles ante la Dirección General de los Registros y del Notariado, que resolverá previo informe de la Junta Directiva.
+
+> Se modifica por el art. 1.53 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 122.**
+
+Las habilitaciones a que se refiere el artículo anterior subsistirán mientras que la Junta Directiva no acuerde lo contrario o las modifique.
+
+> Se modifica por el art. 1.54 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 123.**
+
+El notario que actúe en la residencia de otro hará suyos los honorarios devengados.
+
+> Se modifica por el art. 1.55 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 124.**
+
+En los supuestos de habilitación especial, se estará a lo que establezca la Junta Directiva en cada caso.
+
+> Se modifica por el art. 1.56 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 125.**
+
+La infracción del régimen mencionado, actuando indebidamente en la residencia de otro notario, además de la corrección disciplinaria que proceda, motivará la pérdida total de honorarios, que experimentará el notario infractor en beneficio del titular o titulares de la residencia no respetada.
+
+> Se modifica por el art. 1.57 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+#### CAPÍTULO II — Reparto de documentos
+
+##### Sección 1.ª Del derecho a la libre elección de Notario
+
+> Se añade por el art. 1.58 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 126.**
+
+Todo aquél que solicite el ejercicio de la función pública notarial tiene derecho a elegir al notario que se la preste, sin más limitaciones que las previstas en el ordenamiento jurídico, constituyéndose dicho derecho en elemento esencial de una adecuada concurrencia entre aquellos.
+
+En las transmisiones onerosas de bienes o derechos realizadas por personas, físicas o jurídicas, que se dediquen a ello habitualmente, o bajo condiciones generales de contratación, así como en los supuestos de contratación bancaria, el derecho de elección corresponderá al adquirente o cliente de aquellas, quien sin embargo, no podrá imponer notario que carezca de conexión razonable con algunos de los elementos personales o reales del negocio.
+
+A salvo de lo dispuesto en el párrafo anterior, se estará a lo dispuesto en la normativa específica. En defecto de tal, a lo que las partes hubieran pactado y, en último caso, el derecho de elección corresponderá al obligado al pago de la mayor parte de los aranceles.
+
+Los notarios tienen el deber de respetar la libre elección de notario que hagan los interesados y se abstendrán de toda práctica que limite la libertad de elección de una de las partes con abuso derecho o infringiendo las exigencias de la buena fe contractual.
+
+> Se modifica por el art. 1.59 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+##### Sección 2.ª Del turno de documentos
+
+> Se añade por el art. 1.60 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 127.**
+
+No obstante lo previsto en el artículo anterior, cuando el otorgante, transmitente o adquirente de los bienes o derechos, fuere el Estado, las Comunidades Autónomas, Diputaciones, Ayuntamientos, o los organismos o sociedades dependientes de ellos, participados en más de un cincuenta por ciento, o en los que aquellas Administraciones Públicas ostenten facultades de decisión, los documentos se turnarán entre los notarios con competencia en el lugar del otorgamiento.
+
+Dichos documentos deberán otorgarse en población en que la entidad, organismos o empresa tengan su domicilio social, o delegación u oficina o, en su caso, donde radique el inmueble objeto del contrato.
+
+Para los documentos en que, por su cuantía, esté permitido que el notario perciba la cantidad que acuerde libremente con las partes, las Administraciones Públicas y Entes a que se refiere el párrafo primero de este artículo podrán elegir notario sin sujeción al turno, atendiendo a los principios de concurrencia y eficiencia en el uso de recursos públicos.
+
+Cuando el adquirente fuere un particular, éste podrá solicitar del Colegio Notarial la intervención de notario de su libre elección, que deberá ser atendida.
+
+> Se modifica por el art. 1.61 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 128.**
+
+Cuando por consecuencia de actos, diligencias, procedimientos judiciales o resoluciones administrativas haya de extenderse escritura matriz o protocolizarse mediante acta, diligencias o documentos de cualquier clase, la escritura o acta será extendida, autorizada y protocolada por el Notario, si fuere único residente en el punto donde se halle establecido el Juzgado o Tribunal, o tenga su asiento la autoridad administrativa que hubiere dictado la resolución.
+
+Si fuesen varios los Notarios que tengan su residencia donde radique el Juzgado, Tribunal o autoridad administrativa, la elección corresponderá a los interesados si la designación fuese unánime; de no haber conformidad en la elección, el Juzgado, Tribunal o autoridad administrativa nombrará al Notario a quien corresponda, con arreglo a un turno establecido entre los Notarios que residan en la capitalidad del Juzgado, Tribunal o residencia de la autoridad administrativa.
+
+Las particiones que hayan sido aprobadas judicialmente, así como las actuaciones o diligencias judiciales que no dieren lugar a la extensión de escritura matriz, se protocolizarán por el Notario que, residiendo dentro del partido judicial, fuere designado unánimemente por los interesados.
+
+A falta de acuerdo entre éstos, el Juez o Tribunal designará el Notario a quien corresponda, con arreglo a un turno establecido entre los Notarios del distrito notarial.
+
+> Se modifica por el art. 1.62 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 129.**
+
+Cuando en las actuaciones judiciales o administrativas a que hacen referencia los artículos anteriores, por rebeldía o por cualquier otra causa, no compareciese una de las partes interesadas, se entenderá que no hay unanimidad y procederá a la designación de Notario con arreglo al turno correspondiente.
+
+El Juzgado o Tribunal facilitará al Notario nombrado los autos originales, los testimonios y los antecedentes necesarios para el desempeño de su cometido. Si los datos recibidos no fueren bastantes, aquél podrá reclamar a las partes o al Juzgado o Tribunal directamente, lo que le falte para completar la documentación.
+
+> Se modifica por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 130.**
+
+Serán objeto de turno especial de oficio, de carácter gratuito para el interesado:
+
+a) Los poderes para pleitos, copias y testimonios otorgados o instados por personas físicas que hayan obtenido el beneficio de pobreza o, al menos, solicitado su concesión, conforme a las leyes procesales, siempre que tengan relación directa con el procedimiento a que tal beneficio se refiera.
+
+b) Los poderes para pleitos cuyo exclusivo objeto sea solicitar el referido beneficio de pobreza.
+
+c) Los instrumentos, copias y testimonios relativos al estado civil de las personas cuando los interesados aleguen, bajo sanción de falsedad, carecer de medios económicos.
+
+d) Las actas y sus copias, autorizadas a requerimiento de Asociaciones de Beneficiencia Pública o de la Cruz Roja.
+
+Los respectivos instrumentos, en que se harán constar las circunstancias anteriores, quedarán exentos de cualquier aportación colegial o mutualista.
+
+Las actuaciones en este turno de oficio, aunque sólo existiere una Notaría demarcada en la localidad, eximen al beneficiario de la obligación de satisfacer honorarios al Notario, salvo en los supuestos autorizados por las leyes procesales.
+
+Los interesados, cuando en la población haya demarcada más de una Notaría, solicitarán de los Colegios Notariales y, en su defecto, de los Delegados y Subdelegados, la designación de un Notario que haya de actuar, a cuyo efecto tales órganos llevarán un turno especial.
+
+> Se modifica por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 131.**
+
+Se distribuirán también por igual entre los Notarios de una población los protestos de letras de cambio y documentos mercantiles, a no ser que el voto directo, no delegado ni delegable, de las tres cuartas partes de los Notarios de la localidad a que afecten acuerde lo contrario.
+
+Si hubiere tres Notarios, prevalecerá lo que acuerde la mayoría. Si solamente hubiere dos, el reparto de los protestos será siempre obligatorio, a no ser que, por acuerdo de ambos, se establezca el criterio de libertad.
+
+**Artículo 132.**
+
+La oposición al reparto de protestos y demás documentos mercantiles deberá hacerse por escrito dirigido a la Junta directiva en el mes de noviembre. La Junta acordará en la primera quincena de diciembre, la continuación o supresión del reparto en la localidad de que se trate, según el número de votos favorables o adversos. Los Notarios interesados podrán recurrir en alzada ante la Dirección General, en el plazo de diez días.
+
+**Artículo 133.**
+
+Los Notarios no podrán renunciar los turnos sino en favor de todos los Notarios de la localidad.
+
+Tan sólo se permitirá la cesión individual de un asunto determinado mediante justa causa.
+
+El reparto forzoso de protestos será renunciable siempre que, a juicio de la Junta directiva o de la Dirección General, quede el servicio público suficientemente atendido, y sin que esta renuncia pueda hacerse a favor de determinado Notario, sino de todos los que estén afectos al reparto.
+
+**Artículo 134.**
+
+Las Juntas Directivas determinarán las bases, manera o forma de llevar los turnos de documentos sujetos contemplados en los artículos anteriores, dando cuenta para la aprobación del sistema que implanten a la Dirección General.
+
+En aras del mantenimiento de la imparcialidad del notario, de la libre concurrencia entre estos, así como de la efectiva elección del particular y de una mejor prestación del servicio público, los Colegios Notariales podrán establecer turnos desiguales entre los notarios de una misma plaza y, en su caso, si las circunstancias así lo justificaren, excluirán del turno a aquellos notarios cuyo volumen de trabajo no les permita atender debidamente el mismo.
+
+En todo caso, la prestación de su ministerio es obligatoria para los notarios en caso de documentos sujetos a turno, debiendo las Juntas Directivas velar por la corrección de la prestación de la función pública notarial.
+
+La aplicación de los sistemas de turno de documentos en ningún caso alterará el régimen arancelario aplicable al instrumento público de cuya autorización o intervención se trate.
+
+> Se modifica por el art. 1.63 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se añade el párrafo tercero por el art. 1 del Real Decreto 1689/1980, de 24 de julio. [Ref. BOE-A-1980-18975](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-18975).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 135.**
+
+Los Notarios deben cumplir estrictamente estas bases acordadas en orden al reparto de documentos, y tendrán derecho a reclamar de los Centros correspondientes los antecedentes o documentos que sean necesarios para la redacción de las escrituras y actas sujetas a reparto.
+
+El incumplimiento de las obligaciones mencionadas, o la infracción de las bases que condicionan los turnos de reparto o la falta de diligencia en la autorización de los documentos con ellos relacionados, motivarán la suspensión en el turno durante el plazo que la Junta Directiva acuerde, y cuyo plazo no podrá exceder de seis meses y, en su caso, además del reembolso al fondo común de reparto de las cantidades indebidamente percibidas por el infractor, la aplicación de las correcciones disciplinarias que sean procedentes conforme al título sexto de este Reglamento.
+
+> Se modifica por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 136.**
+
+Cuando no exista en la localidad Notario a quien por razón de residencia debiere corresponder la autorización de documentos notariales sujetos a reparto, se turnarán éstos entre todos los del distrito, a no ser que sólo hubiere uno en la demarcación del mismo, en cuyo caso a él corresponderá la autorización del documento.
+
+**Artículo 137.**
+
+Se prohíbe a los Notarios estipular entre sí convenios de ninguna especie que tengan por objeto el reparto de documentos, sin perjuicio de lo establecido en los artículos anteriores.
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+#### CAPÍTULO III — De las incompatibilidades
+
+**Artículo 138.**
+
+En una misma localidad no podrá haber a la vez dos notarios unidos en matrimonio o en situación de convivencia análoga o parientes dentro del cuarto grado civil de consanguinidad o segundo de afinidad a no ser que en la misma haya, al menos, una notaría servida por notarios no parientes de aquellos.
+
+Tampoco será compatible en un mismo distrito notarial el cargo de Notario con el de Juez de primera instancia o Registrador de la Propiedad, cuando sean desempeñados por parientes de aquél dentro del segundo grado de consanguinidad o afinidad, a no ser que concurra la excepción mencionada en el párrafo anterior.
+
+Cuando la incompatibilidad por parentesco sea sobrevenida por causa de una nueva demarcación no será de aplicación lo establecido en los párrafos anteriores. En caso de que sea sobrevenida por cualquier otra causa, la Junta Directiva, previo expediente en que se dará audiencia a los notarios afectados y al resto de los de la plaza, resolverá atendiendo a las circunstancias de la misma.
+
+> Se modifica por el art. 1.64 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 139.**
+
+Los notarios no podrán autorizar escrituras en que se consignen derechos a su favor, pero sí las que en sólo contraigan obligaciones o extingan o pospongan aquellos derechos, con la antefirma "por mí y ante mí" .
+
+En tal sentido, los Notarios podrán autorizar su propio testamento, poderes de todas clases, cancelación y extinción de obligaciones. De igual modo podrán autorizar o intervenir en los actos o contratos en que sea parte su cónyuge o persona con análoga relación de afectividad o parientes hasta el cuarto grado de consanguinidad y segundo de afinidad, siempre que reúnan idénticas circunstancias.
+
+No podrán, en cambio, autorizar actos jurídicos de ninguna clase que contengan disposiciones a su favor o de su cónyuge o persona con análoga relación de afectividad o parientes de los grados mencionados, aun cuando tales parientes o el propio Notario intervengan en el concepto de representantes legales o voluntarios de un tercero.
+
+Exceptúase el caso de autorización de testamentos en que se les nombre albaceas o contadores-partidores y los poderes para pleitos a favor de los mencionados parientes.
+
+El notario no podrá autorizar o intervenir instrumentos públicos respecto de personas físicas o jurídicas con las que mantenga una relación de servicios profesionales.
+
+> Se modifica por el art. 1.65 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 140.**
+
+Los Notarios no podrán tampoco constituirse en fiadores de los contratos que autoricen, ni tomar parte en aquéllos en que intervengan por razón de su cargo, ni intervenir en empresas de arriendo de rentas públicas. Por el contrario, podrán formar parte de toda clase de Sociedades, incluso como Consejeros, que no tengan por objeto el arriendo de rentas públicas, siempre que no autoricen las escrituras que a las mismas afecten a partir del ingreso como socio o de la designación como Consejero.
+
+**Artículo 141.**
+
+El cargo de notario es incompatible con los que determina el artículo 16 de la Ley del Notariado, especialmente con los de Juez y Fiscal, y aquellos otros que determine el ordenamiento jurídico. A los efectos del citado artículo, las poblaciones en que haya demarcadas dos o más Notarías, se equiparan a las que tengan más de veinte mil habitantes.
+
+La incompatibilidad de los notarios que acepten los cargos de Ministro, Subsecretario, Director General y el resto de los citados en el artículo 115 de este Reglamento, se regularán por lo dispuesto en los artículos 52 y 115 de este Reglamento.
+
+> Se modifica por el art. 1.66 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 141 bis.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se añade por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Téngase en cuenta la disposición transitoria 4 en cuanto a su aplicación.
+
+> Su anterior numeración era art. 142.
+
+#### CAPITULO IV — Del derecho a la elección de Notario
+
+> Se añade por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 142.**
+
+Los Notarios, en aras de su deber de imparcialidad, cuidarán de que se respete el derecho de libre elección de Notario.
+
+En los actos y contratos que hayan de otorgarse por varias personas la elección de Notario corresponderá, en defecto de pacto, a quien de ellas deba satisfacer los derechos arancelarios notariales o la mayor parte de los mismos.
+
+No obstante lo dispuesto en el párrafo anterior, en las transmisiones onerosas de bienes o derechos realizadas por quien se dedique a ello habitualmente o bajo condiciones generales de contratación, el derecho de elección de Notario corresponderá al adquirente quien, sin embargo, no podrá imponer Notario que, por su competencia territorial, carezca de conexión razonable con alguno de los elementos personales o reales del negocio.
+
+Los Notarios se abstendrán de facilitar toda práctica que implique la imposición de Notario por una de las partes con abuso de derecho, o de modo antisocial o contrario a las exigencias de la buena fe contractual.
+
+> Se deja sin efecto la modificación efectuada por el Real Decreto 675/1993, de 7 de mayo, por Sentencia del TS de 28 de octubre de 1995. [Ref. BOE-A-1996-6556](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-6556)
+
+> Se añaden los párrafos quinto a séptimo por el art. único del Real Decreto 675/1993, de 7 de mayo. [Ref. BOE-A-1993-11994](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11994).
+
+> Se modifica por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+### TÍTULO CUARTO — Del instrumento público
+
+#### CAPÍTULO I — De la naturaleza y efectos del instrumento público
+
+**Artículo 143.**
+
+A los efectos del artículo 1217 del Código Civil, los documentos notariales se regirán por los preceptos contenidos en el presente Título.
+
+Los testamentos y actos de última voluntad se regirán, en cuanto a su forma y requisitos o solemnidades, por los preceptos de la legislación civil, acoplándose a los mismos la notarial, teniendo ésta el carácter de norma supletoria de aquélla.
+
+Los documentos públicos autorizados o intervenidos por notario gozan de fe pública, presumiéndose su contenido veraz e íntegro de acuerdo con lo dispuesto en la Ley.
+
+Los efectos que el ordenamiento jurídico atribuye a la fe pública notarial sólo podrán ser negados o desvirtuados por los Jueces y Tribunales y por las administraciones y funcionarios públicos en el ejercicio de sus competencias.
+
+> Se modifica por el art. 1.68 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 144.**
+
+Conforme al artículo 17 de la Ley del Notariado son instrumentos públicos las escrituras públicas, las pólizas intervenidas, las actas, y, en general, todo documento que autorice el notario, bien sea original, en certificado, copia o testimonio.
+
+Las escrituras públicas tienen como contenido propio las declaraciones de voluntad, los actos jurídicos que impliquen prestación de consentimiento, los contratos y los negocios jurídicos de todas clases.
+
+Las pólizas intervenidas tienen como contenido exclusivo los actos y contratos de carácter mercantil y financiero que sean propios del tráfico habitual y ordinario de al menos uno de sus otorgantes, quedando excluidos de su ámbito los demás actos y negocios jurídicos, y en cualquier caso todos los que tengan objeto inmobiliario; todo ello sin perjuicio, desde luego, de aquellos casos en que la Ley establezca esta forma documental.
+
+Las actas notariales tienen como contenido la constatación de hechos o la percepción que de los mismos tenga el notario, siempre que por su índole no puedan calificarse de actos y contratos, así como sus juicios o calificaciones.
+
+Los testimonios, certificaciones, legalizaciones y demás documentos notariales que no reciban la denominación de escrituras públicas pólizas intervenidas o actas, tienen como delimitación, en orden al contenido, la que este Reglamento les asigna.
+
+> Se modifica por el art. 1.69 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 145.**
+
+La autorización o intervención del instrumento público implica el deber del notario de dar fe de la identidad de los otorgantes, de que a su juicio tienen capacidad y legitimación, de que el consentimiento ha sido libremente prestado y de que el otorgamiento se adecua a la legalidad y a la voluntad debidamente informada de los otorgantes e intervinientes.
+
+Dicha autorización e intervención tiene carácter obligatorio para el notario con competencia territorial a quien se sometan las partes o corresponda en virtud de los preceptos de la legislación notarial, **una vez que los interesados le hayan proporcionado los antecedentes, datos, documentos, certificaciones, autorizaciones y títulos necesarios para ello.**
+
+**Esto no obstante, el notario, en su función de control de la legalidad, no sólo deberá excusar su ministerio, sino negar la autorización o intervención notarial cuando a su juicio:**
+
+**1. La autorización o intervención notarial suponga la infracción de una norma legal, o no se hubiere acreditado al notario el cumplimiento de los requisitos legalmente exigidos como previos.**
+
+**2. Todos o alguno de los otorgantes carezcan de la capacidad legal necesaria para el otorgamiento que pretendan.**
+
+**3. La representación del que comparezca en nombre de tercera persona natural o jurídica no esté suficientemente acreditada, o no le corresponda por las leyes. No obstante, si el acto documentado fuera susceptible de posterior ratificación o sanación el notario podrá autorizar el instrumento haciendo la advertencia pertinente conforme artículo 164.3 de este Reglamento, siempre que se den las dos circunstancias siguientes:**
+
+**a) Que la falta de acreditación sea expresamente asumida por la parte a la que pueda perjudicar.**
+
+**b) Que todos los comparecientes lo soliciten.**
+
+**4. En los contratos de obras, servicios, adquisición y transmisión de bienes del Estado, la Comunidad Autónoma, la Provincia o el Municipio, las resoluciones o expedientes bases del contrato no se hayan dictado o tramitado con arreglo a las leyes, reglamentos u ordenanzas.**
+
+**5. El acto o el contrato en todo o en parte sean contrarios a las leyes o al orden público o se prescinda por los interesados de los requisitos necesarios para su plena validez o para su eficacia.**
+
+**6. Las partes pretendan formalizar un acto o contrato bajo una forma documental que no se corresponda con su contenido conforme a lo dispuesto en el artículo 144 de este Reglamento.**
+
+**Cuando por consecuencia de resoluciones o expedientes de la Administración central, autonómica, provincial o local, deba extenderse instrumento público, el notario requerido para autorizarlo o intervenirlo tendrá derecho a examinar, sin entrar en el fondo de ella, si la resolución se ha dictado y el expediente se ha tramitado con arreglo a las leyes, reglamentos u ordenanzas que rijan en la materia, y que la persona que intervenga en nombre de la Administración es aquella a quien las leyes atribuyen la representación de la misma.**
+
+**En el caso de resoluciones judiciales que den lugar al otorgamiento ante Notario de un instrumento público, de apreciarse la falta de competencia, procedimiento, documentación o trámites necesarios para el mismo, el Notario se dirigirá con carácter previo al Juzgado o Tribunal poniendo de manifiesto dicha circunstancia. Una vez recibida la resolución del órgano jurisdiccional, el Notario procederá al otorgamiento en los términos indicados por el Juzgado o Tribunal, sin perjuicio de formular en el momento del otorgamiento las salvedades que correspondan, a fin de excluir su responsabilidad.**
+
+**La negativa de los notarios a intervenir o autorizar un instrumento público podrá ser revocada por la Dirección General de los Registros y del Notariado en virtud de recurso de cualesquiera de los interesados, la cual, previo informe del notario y de la Junta Directiva del Colegio Notarial respectivo, dictará en cada caso la resolución que proceda. Si ésta ordenara la redacción y autorización del instrumento público, el notario podrá consignar al principio del mismo que lo efectúa como consecuencia de la resolución de la Dirección General a fin de salvar su responsabilidad.**
+
+> Ref. BOE-A-2008-10272
+
+> Se declara la nulidad del inciso destacado por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.70 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 146.**
+
+El Notario responderá civilmente de los daños y perjuicios ocasionados con su actuación cuando sean debidos a dolo, culpa o ignorancia inexcusable. Si pudieren repararse, en todo o en parte, autorizando una nueva escritura el Notario lo hará a su costa, y no vendrá éste obligado a indemnizar sino los demás daños y perjuicios ocasionados.
+
+A tales efectos, quien se crea perjudicado, podrá dirigirse por escrito a la Junta Directiva del Colegio Notarial, la cual, si considera evidentes los daños y perjuicios hará a las partes una propuesta sobre la cantidad de la indemnización por si estiman procedente aceptarla como solución del conflicto.
+
+> Se modifica por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+#### CAPÍTULO II — Del instrumento público
+
+##### Sección 1.ª Requisitos generales
+
+**Artículo 147.**
+
+El notario redactará el instrumento público conforme a la voluntad común de los otorgantes, la cual deberá indagar, interpretar y adecuar al ordenamiento jurídico, e informará a aquéllos del valor y alcance de su redacción, de conformidad con el artículo 17 bis de la Ley del Notariado.
+
+**Lo dispuesto en el párrafo anterior se aplicará incluso en los casos en que se pretenda un otorgamiento según minuta o la elevación a escritura pública de un documento privado.**
+
+En el texto del documento, el notario consignará, en su caso, que aquél ha sido redactado conforme a minuta y si le constare, la parte de quien procede ésta y si la misma obedece a condiciones generales de su contratación.
+
+Asimismo, el notario intervendrá las pólizas presentadas por las entidades que se dedican habitualmente a la contratación en masa, **siempre que su contenido no vulnere el ordenamiento jurídico** y sean conformes a la voluntad de las partes.
+
+Sin mengua de su imparcialidad, el notario insistirá en informar a una de las partes respecto de las cláusulas de las escrituras y de las pólizas propuestas por la otra, comprobará que no contienen condiciones generales declaradas nulas por sentencia firme e inscrita en el Registro de Condiciones generales y prestará asistencia especial al otorgante necesitado de ella. También asesorará con imparcialidad a las partes y velará por el respeto de los derechos básicos de los consumidores y usuarios.
+
+> Ref. BOE-A-2008-10272
+
+> Se declara la nulidad de los incisos destacados por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.71 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 148.**
+
+Los instrumentos públicos deberán redactarse empleando en ellos estilo claro, puro, preciso, sin frases ni término alguno oscuros ni ambiguos, y observando, de acuerdo con la Ley, como reglas imprescindibles, la verdad en el concepto, la propiedad en el lenguaje y la severidad en la forma.
+
+> Se modifica por el art. 1.72 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 149.**
+
+Los instrumentos públicos se redactarán en el idioma oficial del lugar del otorgamiento que los otorgantes hayan convenido. En caso de discrepancia entre los otorgantes respecto de la utilización de una sola de las lenguas oficiales el instrumento público deberá redactarse en las lenguas oficiales existentes. Las copias se expedirán en el idioma oficial del lugar pedido por el solicitante.
+
+> Se modifica por el art. 1.73 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 150.**
+
+Cuando se trate de extranjeros que no entiendan el idioma español, el Notario autorizará el instrumento público si conoce el de aquéllos, haciendo constar que les ha traducido verbalmente su contenido y que su voluntad queda reflejada fielmente en el instrumento público.
+
+También podrá en este caso autorizar el documento a doble columna en ambos idiomas, si así lo solicitare el otorgante extranjero, que podrá hacer uso de este derecho aun en la hipótesis de que conozca perfectamente el idioma español. Podrá sustituirse la utilización de la doble columna por la incorporación de la traducción en idioma oficial al instrumento público.
+
+Los notarios podrán intervenir pólizas redactadas en lengua o idioma extranjero a requerimiento de las partes, si todas ellas y el notario conocen dicho idioma. En estos casos, la diligencia de intervención y las restantes manifestaciones del notario se redactarán en el idioma oficial del lugar del otorgamiento.
+
+Cuando los otorgantes, o alguno de ellos, no conocieren suficientemente el idioma en que se haya redactado el instrumento público, y el Notario no pudiere por sí comunicar su contenido, se precisará la intervención, en calidad de intérprete, de una persona designada al efecto por el otorgante que no conozca el idioma, extremo que se expresará en la comparecencia y la autorización del documento, que hará las traducciones necesarias, declarando la conformidad del original con la traducción y que suscribirá, asimismo, el instrumento público.
+
+De acuerdo con lo que antecede, el Notario que conozca un idioma extranjero podrá traducir los documentos escritos en el mencionado idioma, que precise insertar o relacionar en el instrumento público.
+
+Cuando en un instrumento público hubiere que insertar documento, párrafo, frase o palabra de otro idioma o dialecto, se extenderá inmediatamente su traducción o se explicará lo que el otorgante entienda por la frase, palabra o nombre exótico. Están fuera de esta prescripción las palabras latinas que tanto en el foro como en el lenguaje común son usuales y de conocida significación.
+
+> Se modifica por el art. 1.74 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 151.**
+
+Las abreviaturas y blancos de que trata el artículo 25 de la Ley no se refieren a las iniciales, abreviaturas y frases reconocidas comúnmente por tratamiento, títulos de honor, expresiones de cortesía, de respeto o de buena memoria, ni se reputarán blancos los espacios que resulten al final de una línea cuando la siguiente empiece formando cláusula distinta; pero en este último caso deberá cubrirse el blanco con una línea de tinta.
+
+En los instrumentos públicos no podrán usarse guarismos en ningún caso y concepto sin que previamente hubieren sido puestos en letra. Exceptúanse aquellos que impliquen expresión de cantidades que no afecten al valor o precio del contrato, o que constituyan referencia numérica de las fechas y datos de otros documentos o notas de inscripción en los Registros o del pago del impuesto.
+
+En las actas notariales y en las pólizas intervenidas podrán usarse guarismos para la expresión de cantidades y de fechas, si bien el notario, a su solo juicio, podrá ponerlos en letra incluso mediante diligencia extendida por sí, bajo su responsabilidad. En caso de discrepancia entre la expresión en letra y en guarismos prevalecerá la expresión en letra.
+
+> Se modifica por el art. 1.75 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 152.**
+
+Los instrumentos públicos deberán extenderse con caracteres perfectamente legibles, pudiendo escribirse a mano, a máquina o por cualquier otro medio de reproducción, cuidando de que los tipos resulten marcados en el papel en forma indeleble.
+
+En todo caso, los espacios en blanco deberán quedar cubiertos con escritura o, en su defecto, con una línea.
+
+Las adiciones, apostillas, entrerrenglonaduras, raspaduras y testados existentes en un instrumento público se salvarán, al final de éste, antes de la firma de los que lo suscriban.
+
+Los interlineados se podrán hacer, bien en el mismo texto, bien al final del instrumento haciendo en este último caso una llamada en el lugar que corresponda, y en cuanto afecten a las matrices deberán hacerse o salvarse siempre a mano, por el propio Notario.
+
+La Dirección General de los Registros y del Notariado, por sí, o por medio de los Colegios Notariales, vigilará el cumplimiento de lo establecido en este precepto, practicando las visitas de inspección que estime oportunas y, en general, adoptando las medidas necesarias para uniformar la práctica y asegurar la buena conservación y legibilidad del texto.
+
+> Se modifica por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+> Se modifica por el art. único del Decreto de 8 de agosto de 1958. [Ref. BOE-A-1958-14576](https://www.boe.es/buscar/doc.php?id=BOE-A-1958-14576).
+
+**Artículo 153.**
+
+Los errores materiales, las omisiones y los defectos de forma padecidos en los documentos notariales ínter vivos podrán ser subsanados por el Notario autorizante, su sustituto o sucesor en el protocolo, por propia iniciativa o a instancia de la parte que los hubiera originado o sufrido. Sólo el Notario autorizante podrá subsanar la falta de expresión en el documento de sus juicios de identidad o de capacidad o de otros aspectos de su propia actividad en la autorización.
+
+Para realizar la subsanación se atenderá al contexto del documento autorizado y a los inmediatamente anteriores y siguientes, a las escrituras y otros documentos públicos que se tuvieron en cuenta para la autorización y a los que prueben fehacientemente hechos o actos consignados en el documento defectuoso. El Notario autorizante podrá tener en cuenta, además, los juicios por él formulados y los hechos por él percibidos en el acto del otorgamiento.
+
+La subsanación podrá hacerse por diligencia en la propia escritura matriz o por medio de acta notarial en las que se hará constar el error, la omisión, o el defecto de forma, su causa y la declaración que lo subsane. La diligencia subsanatoria extendida antes de la expedición de ninguna copia no precisará ser trasladada en éstas, bastando trascribir la matriz conforme a su redacción rectificada. En caso de hacerse por acta se dejará constancia de ésta en la escritura subsanada en todo caso y en las copias anteriores que se exhiban al Notario.
+
+Cuando sea imposible realizar la subsanación en la forma anteriormente prevista, se requerirá para efectuarla el consentimiento de los otorgantes o una resolución judicial.
+
+> Se modifica por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 154.**
+
+Los instrumentos públicos, a excepción de las pólizas, se extenderán en el papel timbrado correspondiente, comenzando cada uno en hoja o pliego distinto, según se emplee una u otra clase de papel y, en todo caso, en la primera plana de aquéllos. Al final del instrumento, expresará el notario la numeración de todas las hojas o pliegos empleados que deberá ser estrictamente correlativa, salvo que con carácter excepcional y por causa justificada que el notario expresará no pudiere hacerse así. Las firmas de los otorgantes deberán figurar a continuación del texto del acto o negocio jurídico que se autoriza o interviene, sin perjuicio de que cuando el número de otorgantes así lo exigiere se utilice uno o más folios adicionales, cuya numeración deberá ser igualmente relacionada por el notario.
+
+Cuando por tratarse de provincia exceptuada del uso de papel sellado o cuando por alguna circunstancia excepcional se emplee papel común sin señal o numeración que lo identifique suficientemente, los otorgantes y testigos, en su caso, deberán firmar en todas las hojas o pliegos.
+
+No será necesaria la firma de otorgantes y testigos en las particiones y demás documentos que se protocolicen, aun cuando se hallen extendidos en papel común, debidamente reintegrado, si el instrumento público mediante el cual se protocolicen, lo está en papel timbrado o que reúna las condiciones expresadas.
+
+Además deberán llevar numeración correlativa todas las hojas, incluso las en blanco, que constituyen el protocolo anual.
+
+> Se modifica por el art. 1.76 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 155.**
+
+Las planas primera y tercera de cada pliego, en las escrituras y actas matrices, tendrán al lado izquierdo del que escribe un margen blanco de la cuarta parte de la anchura de la plana, y al lado derecho un pequeño margen para que no lleguen las letras al canto del papel.
+
+Las planas segunda y cuarta tendrán también al lado izquierdo un margen de la cuarta parte del ancho del papel y al lado derecho el necesario para la encuadernación de los protocolos.
+
+En ninguna plana los márgenes en blanco excederán del tercio de la anchura del papel.
+
+El número de líneas deberá ser el de veinte en la plana del sello y veinticuatro en las demás, a base de quince sílabas por línea aproximadamente.
+
+##### Sección 2.ª De las escrituras matrices
+
+a) Comparecencia y capacidad de los otorgantes
+
+**Artículo 156.**
+
+La comparecencia de toda escritura indicará:
+
+1.º El número de protocolo, la población en que se otorga, y, si es fuera de ella, la aldea, caserío o paraje, con expresión del término municipal. En caso de autorización fuera del despacho notarial se indicará el lugar de otorgamiento.
+
+2.º El día, mes y año, siendo facultativo agregar otros datos cronológicos, además de la hora en los casos en que por disposición legal deba consignarse.
+
+3.º El nombre, apellidos, residencia y Colegio del notario autorizante, con las oportunas indicaciones de sustitución, habilitación, requerimiento especial exigido en ciertos casos y designación en turno oficial.
+
+4.º El nombre, apellidos, edad, estado civil y domicilio de los otorgantes, salvo si se tratare de funcionarios públicos que intervengan en el ejercicio de sus cargos, en cuyo caso bastará con la indicación de éste y el nombre y apellidos.
+
+Se expresará la vecindad civil de las partes cuando lo pidan los otorgantes o cuando afecte a la validez o eficacia del acto o contrato que se formaliza, así como en el supuesto del artículo 161.
+
+En la comparecencia de los representantes podrá indicarse como domicilio el del representado o el de la sucursal, agencia o delegación que constituya su centro de trabajo, y en la comparecencia de profesionales colegiados, que intervengan por razón de su profesión, podrá indicarse como domicilio el de su despacho o estudio.
+
+5.º La indicación de los documentos de identificación de los comparecientes, a salvo lo dispuesto en el artículo 163. Igualmente deberá hacerse constar el número de identificación fiscal cuando así lo disponga la normativa tributaria.
+
+En particular se indicarán los números de identificación fiscal de los comparecientes y los de las personas o entidades en cuya representación actúen, en las escrituras públicas relativas a actos o contratos por los que se adquieran, declaren, constituyan, transmitan, graven, modifiquen o extingan el dominio y los demás derechos reales sobre bienes inmuebles, o a cualesquiera otros con trascendencia tributaria. Cuando los comparecientes se negaren a acreditar alguno de los números de identificación fiscal o manifestaren no poder efectuar dicha acreditación, el Notario hará constar en la escritura esta circunstancia, y advertirá verbalmente a aquellos de lo dispuesto en el apartado 2 del artículo 254 de la Ley Hipotecaria, de 8 de febrero de 1946, cuando resulte aplicable, dejando constancia, asimismo, de dicha advertencia.
+
+6.º Las mencionadas circunstancias respecto a las personas individuales o las que identifiquen a las sociales en cuya representación comparezca algún otorgante, si no constan de los documentos que se incorporen o testimonien, o si se ha operado en ellas alguna variación.
+
+7.º La fe de conocimiento por el notario o medios sustitutivos utilizados, si no se estima conveniente consignarla al final.
+
+8.º La afirmación de que los otorgantes, a juicio del notario, tienen la capacidad legal o civil necesaria para otorgar el acto o contrato a que la escritura se refiera, en la forma establecida en este Reglamento, así como, en su caso, el juicio expreso de suficiencia de las facultades de representación.
+
+9.º La calificación de dicho acto o contrato con el nombre conocido que en derecho tenga, salvo que no lo tuviere especial.
+
+10.º La profesión o cualquier otro dato personal, cuando lo solicite el otorgante, el Notario lo juzgue conveniente por resultar significativa su constancia para una adecuada identificación, o su inclusión sea exigida por leyes o reglamentos.
+
+> Se modifica el número 5 por el art. 1.1 del Real Decreto 1804/2008, de 3 de noviembre. [Ref. BOE-A-2008-18548](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-18548).
+
+> Se modifica por el art. 1.77 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 157.**
+
+Las circunstancias identificativas de los otorgantes o comparecientes se harán constar por lo que resulte de los documentos de identidad aportados**y en su caso de sus manifestaciones**.
+
+Cuando el otorgante fuere conocido con un segundo nombre unido al primero, o con un nombre distinto, se expresará también esta circunstancia. Si se conociere un solo apellido, se hará constar así, no siendo necesario expresar el segundo cuando por los otros datos resultare perfectamente identificado. En caso de duda, podrá agregarse su filiación.
+
+> Ref. BOE-A-2008-10272
+
+> Se declara la nulidad del inciso destacado por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.78 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 158.**
+
+La edad de los menores se expresará por indicación de la fecha de nacimiento.
+
+Tratándose de mayores de edad, bastará consignar esta expresión, salvo cuando la indicación del número de años de edad cumplidos fuere indispensable para el acto o contrato de que se trate, lo exija alguna disposición legal o reglamentaria, o el Notario lo juzgue conveniente.
+
+Los datos relativos a la edad se harán constar por lo que figure en el documento de identificación del compareciente, del que resulte la representación, o tratándose de menores de edad por lo que resulte de las declaraciones de los comparecientes, acreditándose esta circunstancia, si hubiere duda sobre ello, con su documento de identificación, con certificación del Registro civil o con el Libro de Familia.
+
+> Se modifica por el art. 1.79 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 159.**
+
+Las circunstancias relativas al estado de cada compareciente se expresarán diciendo si es soltero, casado, separado judicialmente, viudo o divorciado.
+
+También podrá hacerse constar a instancia de los interesados su situación de unión o separación de hecho.
+
+Si el otorgante fuere casado, separado judicialmente o divorciado, y el acto o contrato afectase o pudiese afectar en el futuro a las consecuencias patrimoniales de su matrimonio actual, o en su caso, anterior, se hará constar el nombre y apellidos del cónyuge a quien afectase o pudiese afectar, así como el régimen económico matrimonial.
+
+Las circunstancias a que se refiere este artículo se harán constar por el notario por lo que resulte de las manifestaciones de los comparecientes.
+
+Se expresará, en todo caso, el régimen económico de los casados no separados judicialmente. Si fuere el legal bastará la declaración del otorgante. Si fuese el establecido en capitulaciones matrimoniales será suficiente, **a todos los efectos legales**, que se le acredite al notario su otorgamiento en forma auténtica. El notario identificará la escritura de capitulaciones y en su caso, su constancia registral, y testimoniará,**brevemente**, el régimen acreditado, salvo que fuere alguno de los regulados en la ley, en que bastará con hacer constar cuál de ellos es.
+
+**En las escrituras de capitulaciones matrimoniales el notario hará constar que las modificaciones del régimen económico matrimonial realizadas durante el matrimonio no perjudicarán en ningún caso los derechos ya adquiridos por terceros.**
+
+> Ref. BOE-A-2008-10272
+
+> Se declara la nulidad de los incisos destacados por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.80 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 160.**
+
+Las circunstancias de profesión y vecindad se expresarán por lo que conste al Notario o resulte de las declaraciones de los otorgantes y de sus documentos de identidad.
+
+**Artículo 161.**
+
+Respecto de españoles la nacionalidad y su identidad se acreditarán por el pasaporte o el documento nacional de identidad **y la vecindad por el lugar de otorgamiento, salvo que manifieste el interesado otra cosa**. Respecto de extranjeros residentes en territorio nacional, su nacionalidad e identidad se acreditará mediante pasaporte o permiso de residencia expedido por autoridad española. Por último, respecto de extranjeros no residentes su nacionalidad e identidad se acreditará mediante pasaporte o mediante cualquier otro documento oficial expedido por autoridad competente de su país de origen que sirva a efectos de identificación, lo que se certificará en caso de duda por la autoridad consular correspondiente.
+
+En todo caso, el documento utilizado deberá contener fotografía y firma del otorgante.
+
+> Ref. BOE-A-2008-10272
+
+> Se declara la nulidad del inciso destacado por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.81 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 162.**
+
+Los que tengan su vecindad en un punto y su residencia o domicilio en otro deberán consignar expresamente uno de ellos para las notificaciones y diligencias a que pueda dar lugar el cumplimiento del negocio o acto documentado.
+
+> Se modifica por el art. 1.82 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 163.**
+
+La indicación de los documentos de identidad será obligatoria para la redacción de las escrituras cuando lo exija expresamente la ley.
+
+Se exceptúan los casos de testamentos y aquellos en los cuales no pueda diferirse, a juicio del notario, la autorización del instrumento.
+
+No será preciso aportar documentos de identidad cuando el compareciente manifieste carecer de ellos y la finalidad del documento otorgado sea exclusiva y precisamente la de hacer manifestaciones u otorgar poderes en relación con un expediente administrativo o judicial de asilo, acogida de refugiados, repatriación u otro similar, siempre que quede constancia de la huella digital y de fotografía del compareciente.
+
+Tampoco se necesitará la indicación del documento de identidad cuando se trate de funcionarios públicos que intervengan por razón de su cargo.
+
+> Se modifica por el art. 1.83 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 164.**
+
+La intervención de las otorgantes se expresará diciendo si lo hacen por su propio nombre o en representación de otro, reseñándose en este caso los datos identificativos del documento del cual surge la representación, salvo cuando emane de la ley, en cuyo caso se expresará esta circunstancia, no siendo preciso que la representación legal se justifique si consta por notoriedad al autorizante.
+
+Si la representación no resultare suficientemente acreditada a juicio del notario autorizante y todos los comparecientes hicieren constar expresamente su solicitud de que se autorice el instrumento con tal salvedad, el notario reseñará dichos extremos y los medios necesarios para la perfección del juicio de suficiencia. En tal caso, cuando le sean debidamente acreditados, el notario autorizante o su sucesor en el protocolo así lo harán constar por diligencia, expresando en ella su juicio positivo de suficiencia de las facultades expresadas. En todas las copias que se expidan con anterioridad a dicha diligencia el notario hará constar claramente que la representación no ha quedado suficientemente acreditada.
+
+También se hará constar el carácter con que intervienen los otorgantes que sólo comparezcan al efecto de completar la capacidad o de dar su autorización o consentimiento para el contrato.
+
+> Se declara la nulidad del párrafo 2 por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.84 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 165.**
+
+Cuando alguno de los otorgantes concurra al acto en nombre de una Sociedad, establecimiento público, Corporación u otra persona social, se expresará esta circunstancia, designando, además de las relativas a la personalidad del representante, el nombre de dicha entidad y su domicilio, datos de inscripción y número de identificación fiscal en su caso, e indicando los datos del título del cual resulte la expresada representación. El representante suscribirá el documento con su propia firma, sin que sea necesario que anteponga el nombre ni use la firma o razón social de la entidad que represente.
+
+> Se modifica por el art. 1.85 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 166.**
+
+En los casos en que así proceda, de conformidad con el artículo 164, el notario reseñará en el cuerpo de la escritura que autorice los datos identificativos del documento auténtico que se le haya aportado para acreditar la representación alegada y expresará obligatoriamente que, a su juicio, son suficientes las facultades representativas acreditadas para el acto o contrato a que el instrumento se refiera. La reseña por el notario de los datos identificativos del documento auténtico y su valoración de la suficiencia de las facultades representativas harán fe suficiente, por sí solas, de la representación acreditada, bajo la responsabilidad del notario. En consecuencia, el notario no deberá insertar ni transcribir, como medio de juicio de suficiencia o en sustitución de éste, facultad alguna del documento auténtico del que nace la representación.
+
+En los supuestos en que el documento del que resulte la representación figure en protocolo legalmente a cargo del notario autorizante, la exhibición de la copia auténtica podrá quedar suplida por la constancia expresa de que el apoderado se halla facultado para obtener copia del mismo y que no consta nota de su revocación.
+
+> Se declara la nulidad del párrafo 3 por Sentencia del TS de 9 de junio de 2008. [Ref. BOE-A-2008-13316](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-13316).
+
+> Se modifica por el art. 1.86 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 167.**
+
+El Notario, en vista de la naturaleza del acto o contrato y de las prescripciones del Derecho sustantivo en orden a la capacidad de las personas, hará constar que, a su juicio, los otorgantes, en el concepto con que intervienen, tienen capacidad civil suficiente para otorgar el acto o contrato de que se trate.
+
+**Artículo 168.**
+
+Constituyen reglas especiales en orden a la comparecencia en las escrituras públicas las siguientes:
+
+Primera.-Cuando se trate de ausentes deberá comparecer en representación de los mismos la persona a quien corresponda, de acuerdo con lo preceptuado en el Código Civil.
+
+Segunda.-Los menores de edad podrán comparecer por sí mismos, esto es, por su propio derecho, cuando de acuerdo con los preceptos del Derecho Civil puedan realizar por sí solos el acto de que se trate o hayan de consentir el que verifique su representante legal, también podrán comparecer al efecto de ser oídos.
+
+Tercera.-Las autoridades y funcionarios públicos no precisarán presentar ante el Notario documentos que justifiquen su cargo cuando al Notario le conste por notoriedad.
+
+De igual modo podrá éste hacer constar la intervención por parentesco o por otro motivo al efecto de completar la capacidad.
+
+Cuarta.-La capacidad legal de los extranjeros que otorguen documentos ante Notario español, si éste no la conociere, se acreditará por certificación del Cónsul general o, en su defecto, del representante diplomático de su país en España. Cuando se den los supuestos del número 8 del artículo 10 del Código Civil la capacidad de los extranjeros se calificará por el Notario con arreglo a la Ley española. Si en el Estado de que el extranjero otorgante fuese ciudadano no se usare más que el nombre y el primer apellido, el Notario se abstendrá de exigirle la declaración del segundo, aunque se trate de documentos inscribibles en el Registro de la Propiedad.
+
+**Cuando en la redacción de alguna escritura el notario tenga que calificar la legalidad de documentos otorgados en territorio extranjero, podrá exigir a su satisfacción que se le acredite la capacidad legal de los otorgantes y la observancia de las formas y solemnidades establecidas en el país de que se trate. En otro caso, el notario deberá denegar su función conforme al artículo 145 de este Reglamento.**
+
+> Ref. BOE-A-2008-10272
+
+> Se declara la nulidad del inciso destacado por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica el último párrafo por el art. 1.87 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Redactadas las reglas 1 y 2 conforme a la corrección de errores publicada en BOE núm. 183, de 1 de agosto de 1984. [Ref. BOE-A-1984-17221](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17221)
+
+**Artículo 169.**
+
+Cuando para la plena eficacia del acto o negocio jurídico que se pretenda formalizar, sea precisa la concurrencia del consentimiento del cónyuge o conviviente no intervinientes, el notario podrá autorizar el documento siempre que, haciendo la oportuna advertencia a las partes, éstas insistieren en ello y prestaren su conformidad, todo lo cual se consignará expresamente conforme al artículo 164.
+
+> Se modifica por el art. 1.88 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+b) Exposición
+
+**Artículo 170.**
+
+En los documentos sujetos a registro, el notario hará la descripción de los bienes que constituyan su objeto expresando con la mayor exactitud posible aquellas circunstancias que sean imprescindibles para realizar la inscripción.
+
+A requerimiento de los otorgantes o cuando el notario lo juzgue conveniente, podrá añadirse cualesquiera otras circunstancias descriptivas no exigidas por la legislación registral, que faciliten una mejor determinación del objeto del negocio jurídico formalizado.
+
+Tratándose de bienes inmuebles, la descripción incluirá la referencia catastral que les corresponda, así como la certificación catastral descriptiva y gráfica, en los términos establecidos en la normativa catastral.
+
+> Se modifica por el art. 1.89 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 171.**
+
+**(Anulado)**
+
+> Se declara la nulidad por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.90 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 172.**
+
+Cuando en los actos o contratos sujetos a registro, los interesados no presenten los documentos de los que hayan de tomarse las circunstancias necesarias para su inscripción, el Notario los requerirá para que verbalmente las manifiesten, y si así no lo hicieren, lo autorizará salvando su responsabilidad con la correspondiente advertencia, excepto el caso de que la inscripción y, por lo tanto, las circunstancias para obtenerla, sea forzosa, según la naturaleza del contrato, para que éste tenga validez, en el cual caso se negará a autorizarla.
+
+La falsedad o inexactitud de las manifestaciones verbales de los interesados serán de la responsabilidad de los que las formulasen, y nunca del Notario autorizante.
+
+**Artículo 173.**
+
+En todo caso el Notario cuidará de que el documento inscribible en el Registro de la Propiedad inmueble, intelectual, industrial, mercantil, de aguas o de cualquier otro que exista ahora o en lo sucesivo, se consignen todas las circunstancias necesarias para su inscripción, según la respectiva disposición aplicable a cada caso, cuidando además que tal circunstancia no se exprese con inexactitud que dé lugar a error o perjuicio para tercero.
+
+**Artículo 174.**
+
+La relación de los títulos de adquisición del que transmita, modifique, grave o libere un inmueble o derecho real, se hará con arreglo a lo que resulte de los títulos presentados, y a falta de esta presentación, por lo que, bajo su responsabilidad, afirmen los interesados, consignándose, siempre que sea posible, los datos del Registro, folio, tomo, libro y número de la finca y de la inscripción.
+
+En los títulos o documentos presentados o exhibidos al Notario con aquel objeto, y al margen de la descripción de la finca, o fincas o derechos objeto del contrato, se pondrá nota expresiva de la transmisión o acto realizado, con la fecha y firma del Notario autorizante. Cuando fueren varios los bienes o derechos, se pondrá una sola nota al pie del documento.
+
+**Artículo 175.**
+
+1\. A los efectos de informar debidamente a las partes acerca del acto o negocio jurídico, el notario, antes de autorizar el otorgamiento de una escritura de adquisición de bienes inmuebles o constitución de derecho real sobre ellos, deberá comprobar la titularidad y el estado de cargas de aquellos.
+
+2\. El conocimiento de la titularidad y estado de cargas del inmueble se efectuará por medios telemáticos en los términos previstos en la Ley Hipotecaria. Excepcionalmente, en supuestos de imposibilidad técnica, podrá efectuarse mediante un escrito con su sello que podrá remitirse por cualquier procedimiento, incluso telefax, en cuyo caso se estará a lo dispuesto en el apartado cuarto de este artículo.
+
+3\. Sin perjuicio de que como medio de preparación para la redacción de la escritura se acceda a los Libros del Registro de la Propiedad, el notario deberá efectuarlo también en el momento inmediato más próximo a la autorización de la escritura pública bajo su responsabilidad. En cualquier caso, el acceso se realizará sin intermediación del registrador mediante el empleo de la firma electrónica reconocida del notario y en los términos previstos en el artículo 222.10 de la Ley Hipotecaria.
+
+Dicho acceso sólo podrá efectuarse en el cumplimiento estricto de las funciones que la legislación vigente atribuye al notario.
+
+El notario testimoniará e incorporará a la matriz el contenido del acceso telemático, indicando el día y la hora de éste.
+
+4\. Si se empleara telefax o cualquier otro medio escrito el otorgamiento de la escritura deberá realizarse dentro de los diez días naturales siguientes a la recepción por el notario de la información registral, si bien que en tal caso el notario advertirá a las partes de la posible existencia de discordancia entre la información registral y los Libros del Registro, al no producirse el acceso telemático a estos en el momento de la autorización.
+
+La solicitud de información, que podrá referirse a una o varias fincas, contendrá, además del nombre del notario, su domicilio y número de telefax, la descripción de la finca o fincas con sus datos registrales y situación conocida de cargas, o bien solamente reseña identificadora en la que se haga constar su naturaleza, término municipal de su situación, extensión y linderos, con expresión, según los casos, del sitio o lugar en que se hallare si es rústica, nombre de la localidad, calle, plaza o barrio, el número, si lo tuviere, y el piso o local, si es urbana, y si fuesen conocidos, los datos registrales de ellas y los del titular registral o al menos los del transmitente.
+
+La información podrá ser solicitada sin expresión de plazo o para un día determinado dentro de los quince naturales siguientes al de la petición.
+
+5\. Se excepcionan del deber a que se refiere los apartados anteriores, los siguientes supuestos:
+
+a) Cuando se trate de actos de liberalidad.
+
+b) Cuando el adquirente del bien o beneficiario del derecho se declare satisfecho de la información resultante del título, de las afirmaciones del transmitente y por lo pactado entre ellos **siempre que, además, haga constar la urgencia de la formalización del acto en la escritura que autorice y todo ello sin perjuicio de que el notario podrá denegar su actuación si no considera suficientemente justificada la urgencia alegada o si alberga dudas sobre la exactitud de la información que posee el adquirente.**
+
+> Ref. BOE-A-2008-10272
+
+> Se declara la nulidad del inciso destacado por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.91 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Real Decreto 2537/1994, de 29 de diciembre. [Ref. BOE-A-1995-1851](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-1851).
+
+> Se modifica por el art. 1.1 del Real Decreto 1558/1992, de 18 de diciembre. [Ref. BOE-A-1993-3255](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-3255).
+
+c) Estipulación
+
+**Artículo 176.**
+
+La parte contractual se redactará de acuerdo con la declaración de voluntad de los otorgantes o con los pactos o convenios entre las partes que intervengan en la escritura cuidando el Notario de reflejar con la debida claridad y separadamente los que se refieran a cada uno de los derechos creados, transmitidos, modificados o extinguidos, como asimismo el alcance de las facultades, determinaciones y obligaciones de cada uno de los otorgantes o terceros a quienes pueda afectar el documento, las reservas y limitaciones, las condiciones, modalidades, plazos y pactos o compromisos anteriores.
+
+La aceptación de la oferta a que se refiere el artículo mil doscientos sesenta y dos y de la estipulación a favor de tercero del artículo mil doscientos cincuenta y siete, la ratificación del párrafo segundo del artículo mil doscientos cincuenta y nueve, todos del Código Civil y, en general, la adhesión a todo negocio jurídico, cuando en las escrituras matrices no aparezca la nota que las revoque o desvirtúe y la Ley no exigiere expresamente el requisito de la unidad de acto, podrán formalizarse mediante diligencia de adhesión en dichas matrices, autorizada dentro de los sesenta días naturales a contar desde la fecha de otorgamiento o en escritura independiente, sin sujeción a plazo.
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 177.**
+
+El precio o valor de los derechos se determinará en efectivo, con arreglo al sistema monetario oficial de España, pudiendo también expresarse las cantidades en moneda o valores extranjeros, pero reduciéndolos simultáneamente a moneda española. De igual modo, los valores públicos o industriales se estimarán en efectivo metálico, con arreglo a los tipos oficiales o contractuales.
+
+En las escrituras públicas relativas a actos o contratos por los que se declaren, constituyan, transmitan, graven, modifiquen o extingan a título oneroso el dominio y los demás derechos reales sobre bienes inmuebles, se identificarán, cuando la contraprestación consistiera, en todo o en parte, en dinero o signo que lo represente, los medios de pago empleados por las partes, en los términos previstos en el artículo 24 de la Ley del Notariado, de acuerdo con las siguientes reglas:
+
+1.ª Se expresarán por los comparecientes los importes satisfechos en metálico, quedando constancia en la escritura de dichas manifestaciones.
+
+2.ª El Notario incorporará testimonio de los cheques y demás instrumentos de giro que se entreguen en el momento del otorgamiento de la escritura. Los comparecientes deberán, asimismo, manifestar los datos a que se refiere el artículo 24 de la Ley del Notariado, correspondientes a los cheques y demás instrumentos de giro que hubieran sido entregados con anterioridad al momento del otorgamiento, expresando además su numeración y el código de la cuenta de cargo. En caso de cheques bancarios u otros instrumentos de giro librados por una entidad de crédito, entregados con anterioridad o en el momento del otorgamiento de la escritura, el compareciente que efectúe el pago deberá manifestar el código de la cuenta con cargo a la cual se aportaron los fondos para el libramiento o, en su caso, la circunstancia de que se libraron contra la entrega del importe en metálico. De todas estas manifestaciones quedará constancia en la escritura.
+
+3.ª En caso de pago por transferencia o domiciliación, los comparecientes deberán manifestar los datos correspondientes a los códigos de las cuentas de cargo y abono, quedando constancia en la escritura de dichas manifestaciones.
+
+En el marco del artículo 17.3 de la Ley de 28 de mayo de 1862, del Notariado, el Consejo General del Notariado proporcionará a la Agencia Estatal de la Administración Tributaria información, en particular, en el caso de pagos por transferencia o domiciliación, cuando no se hubieran comunicado al Notario las cuentas de cargo y abono.
+
+En el caso de que los comparecientes se negasen a identificar los medios de pago empleados, el Notario advertirá verbalmente a aquellos de lo dispuesto en el apartado 3 del artículo 254 de la Ley Hipotecaria, de 8 de febrero de 1946, dejando constancia, asimismo, de dicha advertencia en la escritura.
+
+A los efectos previstos en el párrafo anterior, se entenderán identificados los medios de pago si constan en la escritura, por soporte documental o manifestación, los elementos esenciales de los mismos. A estos efectos, si el medio de pago fuera cheque será suficiente que conste librador y librado, beneficiario, si es nominativo, fecha e importe; si se tratara de transferencia se entenderá suficientemente identificada, aunque no se aporten los códigos de las cuentas de cargo y abono, siempre que conste el ordenante, beneficiario, fecha, importe, entidad emisora y ordenante y receptora o beneficiaria.
+
+Igualmente, en las escrituras citadas el Notario deberá incorporar la declaración previa del movimiento de los medios de pago aportada por los comparecientes cuando proceda presentar ésta en los términos previstos en la normativa de prevención del blanqueo de capitales. Si no se aportase dicha declaración por el obligado a ello, el Notario hará constar dicha circunstancia en la escritura y lo comunicará al órgano correspondiente del Consejo General del Notariado.
+
+> Se modifica por el art. 1 del Real Decreto 1/2010, de 8 de enero. [Ref. BOE-A-2010-836](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-836).
+
+> Se modifica por el art. 1.2 del Real Decreto 1804/2008, de 3 de noviembre. [Ref. BOE-A-2008-18548](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-18548).
+
+> Se modifica por el art. 1.92 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 178.**
+
+Se hará constar al final o al margen de la escritura matriz, por medio de nota, que deberá ser transcrita en cuantas copias de cualquier clase sean libradas en lo sucesivo:
+
+**1.º La escritura o escrituras por las cuales se cancelen, rescindan, modifiquen, revoquen, anulen o queden sin efecto otras anteriores, de conformidad con lo dispuesto en el artículo 1.219 del Código Civil.**
+
+**2.º Las de cesión de derechos o subrogación de obligaciones.**
+
+3.º Las de adhesión a que se refiere el párrafo 2.º del artículo 176 anterior, cuando aquélla conste en escritura independiente.
+
+4.º Los endosos que constan en la primera copia del instrumento público de actos o contratos no inscribibles en el Registro de la Propiedad.
+
+El notario que autorice alguna de las escrituras comprendidas en los tres primeros números anteriores lo comunicará telemáticamente al notario en cuyo protocolo se hallen las matrices que contengan los negocios a que la nueva escritura afecte mediante el sistema de información Central del Consejo General del Notariado. El notario que reciba la comunicación lo hará constar al margen por nota indicativa de la fecha de la segunda escritura y el nombre y residencia del notario autorizante. Si la primitiva matriz obrase en el mismo protocolo del notario autorizante del último documento, él mismo pondrá la nota.
+
+Cuando al notario que custodie el protocolo en el que obre la escritura matriz objeto de cualquiera de las notas previstas en los números primero al cuarto de este artículo se le presente una copia auténtica de dicha escritura y se le requiera para ello por persona interesada, se transcribirá por él, al final de dicha copia, la nota correspondiente.
+
+**Tratándose de una escritura de revocación de poder el notario autorizante de la revocación comunicará telemáticamente la misma mediante el sistema de información Central del Consejo General del Notariado al Archivo de Revocación de Poderes del Consejo General del Notariado. Dicha comunicación deberá efectuarse en el mismo día o hábil siguiente al de autorización de dicha escritura. Asimismo, el notario comunicará telemáticamente y a través del mismo sistema de información al Consejo General y para dicho Archivo cualquier supuesto de extinción de poderes que le conste fehacientemente.**
+
+> Ref. BOE-A-2008-10272
+
+> Se declara la nulidad de los incisos destacados por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.93 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 179.**
+
+Los notarios que autoricen o eleven a escritura pública testamentos en los cuales conste alguna disposición de carácter benéfico o benéfico-docente, o que tenga por objeto fines de interés general, como los de asistencia social, cívicos, educativos, culturales, científicos, deportivos, sanitarios, de cooperación para el desarrollo, de defensa del medio ambiente o de fomento de la economía o de la investigación, de promoción del voluntariado, o cualesquiera otros de naturaleza análoga, remitirán a los órganos administrativos competentes que ejerzan el protectorado sobre las fundaciones creadas para el cumplimiento de dichos fines, una copia simple de la cláusula o cláusulas testamentarias correspondientes, tan luego como llegue a su conocimiento el fallecimiento del testador.
+
+De igual modo los notarios que autoricen o eleven a escritura pública particiones o manifestaciones de herencia fundadas en testamentos que contengan alguna disposición de las expresadas en el párrafo anterior, notificarán mediante acta, a los órganos administrativos competentes a que se refiere el apartado anterior, el texto íntegro del testamento, con cargo a la herencia, siendo responsables, si no lo hicieren, de los perjuicios que puedan ocasionar con su negligencia.**No se admitirán en ningún Registro u oficina dichas particiones si no aparecen otorgadas precisamente en escritura pública, y en ésta no consta el cumplimiento de lo dispuesto anteriormente.**
+
+> Ref. BOE-A-2008-10272
+
+> Se declara la nulidad del inciso destacado por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.94 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+d) Testigos
+
+**Artículo 180.**
+
+En la autorización de las escrituras públicas no será necesaria la intervención de testigos instrumentales, salvo que la reclamen el Notario autorizante o cualquiera de las partes, o cuando alguno de los otorgantes no sepa o no pueda leer ni escribir. Esta disposición se aplicará a los protestos sin perjuicio de las normas que sobre esta materia se dicten en lo sucesivo. Se exceptúan de esta disposición los testamentos, que se regirán por lo establecido en el Código Civil.
+
+Son testigos instrumentales los que presencien el acto de la lectura, consentimiento, firma y autorización de una escritura pública.
+
+Los testigos instrumentales pueden ser a la vez, incluso en los testamentos, testigos de conocimiento.
+
+No será necesario en los testamentos que los testigos tengan vecindad o domicilio en el lugar del otorgamiento cuando aseguren que conocen al testador, y el Notario conozca a éste y a aquéllos.
+
+**Artículo 181.**
+
+Para ser testigo instrumental en los documentos intervivos se requiere ser español, hombre o mujer, mayor de edad o emancipado o habilitado legalmente y no estar comprendido en los casos de incapacidad que establece el artículo siguiente.
+
+Las personas sujetas a régimen foral podrán ser testigos, si son mayores de edad, por su legislación.
+
+También podrán ser testigos los extranjeros domiciliados en España que comprendan y hablen suficientemente el idioma español.
+
+**Artículo 182.**
+
+Son incapaces o inhábiles para intervenir como testigos en la escritura:
+
+1.º Las personas que no posean el discernimiento necesario para conocer y para declarar o para comprender el acto o contrato a que el instrumento público se refiere.
+
+2.º El cónyuge o persona con análoga relación de afectividad y los parientes dentro del cuarto grado de consanguinidad o segundo de afinidad, del Notario autorizante o del Notario autorizado para actuar en su mismo despacho de conformidad con el artículo 42 de este Reglamento.
+
+3.º Los empleados del notario autorizante o del autorizado para actuar en su mismo despacho de conformidad con el artículo 42 de este Reglamento.
+
+4.º Los cónyuges y los parientes de los otorgantes, dentro del cuarto grado de consanguinidad o segundo de afinidad.
+
+5.º Los que hayan sido condenados por falsedad en documento público o mercantil o por falso testimonio.
+
+> Se modifica el párrafo 1 por el art. 7 del Real Decreto 1276/2011, de 16 de septiembre. [Ref. BOE-A-2011-14812](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-14812).
+
+> Se modifica por el art. 1.95 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 183.**
+
+Los testigos instrumentales serán designados por los otorgantes o, si éstos no lo hiciesen, por el notario; pero tanto éste, en el primer caso, como aquéllos, en el segundo, podrán oponerse a que lo sean determinadas personas, salvo los casos en que por mandato judicial o por disposiciones especiales se establezca lo contrario.
+
+> Se modifica por el art. 1.96 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 184.**
+
+Los testigos llamados de conocimiento sólo tienen como misión identificar a los otorgantes a quienes no conozca directamente el Notario, y sólo les afectan las incapacidades a que se refieren los números 1.º y 5.º del artículo 182.
+
+Los testigos de conocimiento sólo podrán ser a la vez instrumentales cuando reúnan los requisitos de capacidad antes expresados.
+
+**Artículo 185.**
+
+Cuando los testigos instrumentales conozcan al otorgante u otorgantes que no conociese el Notario, podrán, a la vez, ser testigos de conocimiento, en cuyo caso uno, cuando menos, deberá saber firmar y firmará. El Notario deberá dar fe de que conoce a los testigos de conocimiento.
+
+**Artículo 186.**
+
+Por regla general, todos los testigos deberán firmar el instrumento. Si alguno de los testigos instrumentales no supiere o no pudiere, firmará el otro por sí y a nombre del que por tal causa no lo hiciese; y si, por último, ninguno de estos testigos supiere o pudiere firmar, bastará la firma de los otorgantes y la autorización del Notario, expresando éste que los testigos no firman por no poder o no saber hacerlo.
+
+Cuando concurriesen, además, testigos de conocimiento, con arreglo al artículo 23 de la Ley, uno cuando menos deberá saber firmar, y firmará por sí y por el que no sepa, expresándose en ambos casos las circunstancias que prescribe el artículo 24 de la Ley respecto de los testigos.
+
+En ningún caso será preciso que el testigo que firme escriba de propio puño la antefirma; la cualidad con que lo haga la expresará claramente el Notario en el instrumento mismo.
+
+e) Fe de conocimiento
+
+**Artículo 187.**
+
+La identidad de las personas podrá constar al Notario directamente o acreditarse por cualquiera de los medios supletorios previstos en el artículo veintitrés de la Ley.
+
+Cuando la identificación se haga con referencia a carnets o documentos de identidad con fotografía, pero sin firma, en los que conste la huella digital, el Notario exigirá que ésta se imponga en el instrumento.
+
+La fe de conocimiento afecta a la identidad del otorgante, pero no garantiza sus circunstancias de edad, estado, profesión o vecindad, que consignará el Notario por lo que resulte de la declaración del propio interesado o por referencia de sus documentos de identidad, sin perjuicio de que, en caso de duda, pueda exigir las certificaciones del Registro del estado civil y cuantos documentos estime necesarios o convenientes.
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 188.**
+
+No es preciso que el Notario dé fe en cada cláusula de las estipulaciones o circunstancias que, según las leyes, necesiten este requisito. Bastará que consigne al final de la escritura la siguiente o parecida fórmula: «Y yo, el Notario, doy fe de conocer a los otorgantes (o a los testigos de conocimiento, en su caso, etcétera) y de todo lo contenido en este instrumento público». Con esta o parecida fórmula final se entenderá dada fe en el instrumento de todas las cláusulas, condiciones, estipulaciones y demás circunstancias que exijan este requisito según las leyes.
+
+**Artículo 189.**
+
+Para los efectos del artículo anterior, bastará que el Notario dé fe de todo lo contenido en el documento para entender que la da expresa del conocimiento de los otorgantes cuando en el curso del documento haya asegurado que los conoce.
+
+Si no hubiera dado fe del conocimiento de los otorgantes en las formas prevenidas, podrá no tratándose de testamentos, subsanar la falta por medio de acta, en la que el mismo Notario que autorizó la escritura dé fe de que los conocía al tiempo de su otorgamiento.
+
+**Artículo 190.**
+
+En los casos del párrafo tercero del artículo 23 de la Ley, cuando a un Notario le sea imposible dar fe de conocimiento de los otorgantes por no conocerlos, ni puedan éstos presentar testigos de conocimiento, lo expresará así en la escritura y en ella reseñará los documentos que le presenten para identificar su persona.
+
+Tendrán entre éstos preferencia los carnets y demás documentos de identidad que estén expedidos por el Estado.
+
+También podrá el Notario pedir la fotografía del interesado incorporándola al protocolo.
+
+**Artículo 191.**
+
+Siempre que el Notario no conozca a cualquiera de los otorgantes y cuando, aun conociéndolos, éstos no sepan o no puedan firmar, podrá exigir que pongan en el documento la impresión digital, preferentemente de uno o de los dos índices, antes de la firma de los testigos, haciendo constar el Notario en el mismo documento las circunstancias del caso.
+
+> Se modifica por el art. 4 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 192.**
+
+No será necesario que el Notario dé fe de conocimiento de las personas con quienes efectúe los protestos de letras de cambio, ni, en general, de aquella a quienes haga alguna notificación o requerimiento, salvo los casos en que la naturaleza de la notificación o requerimiento exijan la identificación del notificado o requerido.
+
+f) Otorgamiento y autorización
+
+**Artículo 193.**
+
+Los notarios darán fe de haber leído a las partes y a los testigos instrumentales la escritura íntegra o de haberles permitido que la lean, a su elección, antes de que la firmen, y a los de conocimiento lo que a ellos se refiera, y de haber advertido a unos y a otros que tienen el derecho de leerla por sí.
+
+A los efectos del artículo 25 de la Ley del Notariado, y con independencia del procedimiento de lectura, se entenderá que ésta es íntegra cuando el notario hubiera comunicado el contenido del instrumento con la extensión necesaria para el cabal conocimiento de su alcance y efectos, atendidas las circunstancias de los comparecientes.
+
+Igualmente darán fe de que después de la lectura los comparecientes han hecho constar haber quedado debidamente informados del contenido del instrumento y haber prestado a éste su libre consentimiento.
+
+Si alguno de los otorgantes fuese completamente sordo o sordomudo, deberá leerla por sí; si no pudiere o supiere hacerlo será precisa la intervención de un intérprete designado al efecto por el otorgante conocedor del lenguaje de signos, cuya identidad deberá consignar el notario y que suscribirá, asimismo, el documento; si fuese ciego, será suficiente que preste su conformidad a la lectura hecha por el notario.
+
+> Se modifica por el art. 1.97 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 194.**
+
+Los Notarios harán de palabra, en el acto del otorgamiento de los instrumentos que autoricen, las reservas y advertencias legales establecidas en los Códigos Civil y de Comercio, Ley Hipotecaria y su Reglamento y en otras leyes especiales, haciéndolo constar en ésta o parecida forma: «Se hicieron a los comparecientes las reservas y advertencias legales».
+
+Esto no obstante, se consignarán en el documento aquellas advertencias que requieran una contestación inmediata de uno de los comparecientes y aquellas otras en que por su importancia deban, a juicio del Notario, detallarse expresamente, bien para mayor y más permanente instrucción de las partes, bien para salvaguardia de la responsabilidad del propio Notario.
+
+**Artículo 195.**
+
+Se firmarán las escrituras matrices con arreglo al párrafo segundo del artículo 17 de la Ley, pero si los otorgantes o alguno de ellos no supiese o no pudiere firmar, lo expresará así el notario y firmará por el que no lo haga la persona que él designe para ello o un testigo, sin necesidad de que escriba en la antefirma que lo hace por sí y como testigo, o por el otorgante u otorgantes que no sepan o no puedan verificarlo, siendo el notario quien cuidará de expresar estos conceptos en el mismo instrumento.
+
+Los que suscriban un instrumento público, en cualquier concepto, lo harán firmando en la forma que habitualmente empleen.
+
+El notario, a continuación de las firmas de otorgantes y testigos, autorizará la escritura y en general los instrumentos públicos, signando, firmando y rubricando. Deberá estampar al lado del signo el sello oficial de su Notaría.
+
+A ningún notario se concederá autorización ni para signar, ni firmar con estampilla.
+
+> Se modifica por el art. 1.98 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 196.**
+
+Salvo indicación expresa en contrario de los interesados, los documentos susceptibles de inscripción en los Registros de la Propiedad, Mercantiles o de Bienes muebles podrán ser presentados en éstos por vía telemática y con firma electrónica reconocida del notario autorizante, interviniente o responsable del protocolo. El notario deberá inexcusablemente remitir tal documento a través del Sistema de Información central del Consejo General del Notariado debidamente conectado con el Sistema de Información corporativo del Colegio de Registradores de la Propiedad y Mercantiles de España.
+
+El notario deberá dejar constancia de ello en la matriz así como, en su caso, de la correspondiente comunicación del registro destinatario.
+
+Esta regla será de aplicación respecto de los documentos susceptibles de inscripción en otros Registros Públicos con efectos jurídicos cuando sus Sistemas de Información estén debidamente conectados con el del Consejo General del Notariado.
+
+> Se modifica por el art. 1.99 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+##### Sección 3.ª Actas notariales
+
+> Se modifica por el art. 5 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 197.**
+
+Podrán ser intervenidas las pólizas que documenten los actos y contratos a que se refiere el artículo 144 de este Reglamento, y reúnan los requisitos y consignen las circunstancias legalmente exigidas, en general o para el contrato que contengan.
+
+El notario sólo intervendrá el original de la póliza que conservará en el Libro Registro de Operaciones y, en su caso, en el protocolo ordinario. Se prohibe que el notario se desprenda del original de la póliza, salvo los supuestos legalmente previstos.
+
+Salvo en los casos de sustitución reglamentaria, respecto de la intervención del mismo supuesto negocial ante distintos notarios, podrá utilizarse el sistema de póliza desdoblada consistente en extender tantas pólizas completas como notarios competentes existan. Cada notario conservará la póliza que haya intervenido en su Libro Registro y, en su caso, en el protocolo ordinario.
+
+La póliza para ser intervenida deberá expresar, al menos, los siguientes extremos:
+
+a) El lugar y fecha de la misma, salvo que tales circunstancias figuren ya en el texto de la póliza.
+
+b) El nombre, apellidos, residencia y Colegio del notario autorizante, con las oportunas indicaciones de sustitución, habilitación, requerimiento especial exigido en ciertos casos y designación en turno oficial, así como el nombre y apellidos del notario a quien, en su caso, sustituya y a cuyo Libro-Registro o protocolo se incorporará la póliza intervenida.
+
+c) El nombre y apellidos o la denominación de los contratantes o intervinientes, y su domicilio, y cuantos otros datos exija la ley en orden a la identificación de aquellos. En el supuesto de representación o de apoderamiento se indicará el nombre y apellidos de las personas físicas intervinientes. La reseña identificativa del documento auténtico que se haya aportado para acreditar la representación y el juicio de suficiencia de las facultades representativas, en su caso, regulado por el artículo 166 de este Reglamento. El notario podrá hacer constar cuantos otros datos considere oportunos.
+
+d) La calificación del acto o contrato con el nombre conocido que tenga en derecho o le atribuyan los usos mercantiles, salvo que no tuviera denominación especial.
+
+e) El contenido del acto o negocio jurídico de que se trate según las manifestaciones y acuerdos de los otorgantes.
+
+f) La conformidad y aprobación de los otorgantes al contenido de la póliza tal como aparece redactada, y sus firmas. Los otorgantes suscribirán la póliza con su propia firma, sin que sea necesario que el representante anteponga el nombre, ni use la firma o razón social de la entidad que represente. Tampoco será necesario que firme más de una vez el otorgante que intervenga en la póliza en varios conceptos.
+
+g) Si constare de varias hojas, y también salvo que tales circunstancias figuren ya en el texto de la póliza, el número total de hojas, incluidos los anexos, que componen el texto contractual, incluyendo los documentos unidos, en su caso, que numerará, rubricará y sellará.
+
+**En lo relativo a la consulta al Archivo de Revocación de Poderes se estará a lo dispuesto en el ar-tículo 164 del presente Reglamento.**
+
+Si la póliza presentada al notario para su intervención no consignara alguno de los requisitos cuya constancia en la misma sea exigida por la Ley o por este Reglamento, los hará constar el notario antes de la diligencia de intervención.
+
+Las pólizas deberán extenderse con caracteres perfectamente legibles de manera que los tipos resulten marcados en el papel de forma indeleble. A los efectos de los márgenes de los lados izquierdo y derecho, necesarios para su encuadernación y posterior reproducción, serán aplicables a las mismas las normas contenidas en los tres primeros párrafos del artículo 155 de este Reglamento. Igualmente deberá dejarse un espacio en blanco de, al menos, 10 centímetros al principio de la primera hoja de la póliza a los efectos de escribir en el mismo las determinaciones que sean procedentes y, especialmente y de manera visible, el número del asiento.
+
+El notario podrá redactar las circunstancias relativas al otorgamiento de la póliza por las partes y a la intervención notarial.
+
+La intervención de la póliza se verificará por diligencia, mediante la fórmula "Con mi intervención", que el notario autorizará con su signo, firma, rúbrica, estampando su sello. Dicha diligencia podrá incorporar de modo sucinto los extremos previstos en las letras a) a g) precedentes.
+
+El notario, podrá anexar a la póliza folios de uso exclusivo notarial de papel de uso exclusivo para documentos notariales, identificándose en los mismos la póliza a la que se anexan.
+
+Si la póliza constase de varias hojas bastará con que los otorgantes firmen al final del texto contractual. El notario deberá expresar en la diligencia de intervención el número total de hojas que componen el texto contractual y en su caso los documentos unidos, debiendo numerar todas ellas, que el notario rubricará y sellará.
+
+Sin perjuicio de lo dispuesto en los artículos 272 y 283 de este Reglamento, la póliza se incorporará al protocolo o al libro registro indicando en la cabecera de la misma el número de protocolo o de libro registro. También se podrá incorporar mediante diligencia extendida en folio anexado donde constará el número de protocolo o de libro registro y además incluirá una exposición sucinta de la póliza que se incorpora al mismo.
+
+Intervenida e incorporada la póliza al protocolo o al libro registro de operaciones, el notario podrá expedir traslados de la misma con solos efectos informativos, con sujeción a lo dispuesto en el ar-tículo 224 de este Reglamento respecto de las copias simples.
+
+> Ref. BOE-A-2008-10272
+
+> Se declara la nulidad del inciso destacado por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.101 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 5 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 197 bis.**
+
+Las pólizas objeto de intervención deberán suscribirse en presencia del notario.
+
+Mientras no se haga constar otra cosa, se entenderá que la firma ha sido puesta en presencia del notario, en el mismo lugar y en la misma fecha de la intervención.
+
+> Se declara la nulidad del párrafo 2 por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se añade por el art. 1.102 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 197 ter.**
+
+En las pólizas objeto de intervención no se requerirá la concurrencia simultánea ante el notario de los distintos otorgantes, pudiendo, tener lugar en momentos diferentes, salvo que una disposición legal o reglamentaria, o el notario o cualquiera de los interesados la exija.
+
+En el caso de otorgamientos sucesivos, en cada uno de ellos el notario bajo la rúbrica "con mi intervención" indicará el nombre del otorgante, fecha del otorgamiento y cualquier otra circunstancia que considere necesario y signará, firmará y sellará. La incorporación al protocolo o al libro registro se produce con la primera intervención del notario.
+
+> Se declara la nulidad del párrafo 3 por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se añade por el art. 1.103 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 197 quater.**
+
+Como consecuencia del artículo 17 bis de la Ley del Notariado, la expresión "Con mi intervención" implica **el control de legalidad por el notario** y, en particular:
+
+a) La identificación por el notario de los contratantes por sus documentos de identidad reseñados, salvo que se consigne otro medio de identificación de los establecidos en el artículo 23 de la Ley del Notariado.
+
+b) La reseña de las circunstancias de los otorgantes conforme a lo prevenido en el artículo 197 bis, párrafo segundo, de este Reglamento.
+
+c) El juicio de capacidad de los otorgantes para el acto o contrato intervenido y, en su caso, que los poderes relacionados son suficientes para el acto o contrato intervenido. **Será de aplicación lo previsto en el segundo párrafo del artículo 164 de este Reglamento.**
+
+d) Que la calificación del acto o contrato es la que figura en el mismo, con el nombre conocido que tenga en derecho o le atribuyan los usos mercantiles, salvo que no tuviera denominación especial.
+
+e) Que el contenido del negocio jurídico de que se trate se realiza de acuerdo con las declaraciones de voluntad de los intervinientes.
+
+f) Haber hecho a los otorgantes las reservas y advertencias legales en la forma exigida por las leyes o por este Reglamento. No obstante el notario podrá incluir las reservas y advertencias legales que juzgue oportunas.
+
+g) La conformidad y aprobación del contenido de la póliza tal como aparece redactada, por los otorgantes, y de haber estampado los mismos o los testigos instrumentales, en su caso, la firma ante el notario, **o juicio de legitimidad de la misma tratándose de representantes de entidades financieras, cuando legalmente se halle permitido**.
+
+**Si fuera requerida la actuación de un notario y éste se negara motivadamente a intervenir, los interesados si consideran injustificada la negativa, podrán ponerlo en conocimiento de la Dirección General de los Registros y del Notariado, la cual, oído el notario, resolverá en el plazo de quince días. La resolución será susceptible de recurso de alzada ante el Ministro de Justicia.**
+
+> Ref. BOE-A-2008-10272
+
+> Se declara la nulidad de los incisos destacados por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se añade por el art. 1.104 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 197 quinquies.**
+
+Serán aplicables a las pólizas intervenidas las disposiciones de la Sección 1.ª y 2.ª anteriores sobre el instrumento público, a salvo lo establecido en el artículo 152, párrafo segundo de este Reglamento y las especialidades contenidas en esta Sección y las derivadas de su respectiva naturaleza.
+
+Se faculta a la Dirección General de los Registros y del Notariado para que, mediante Instrucción, pueda establecer o modificar las determinaciones físicas que en cuanto a papel, numeración o forma de redacción, confección y configuración formal, deban tener las pólizas a los efectos del mejor funcionamiento de protocolos y Libros-Registros o para la expedición de copias, testimonios o traslados de las mismas con solos efectos informativos.
+
+> Se añade por el art. 1.105 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 197 sexiens.**
+
+Los notarios podrán intervenir o autorizar las distintas declaraciones cambiarias, asegurándose de la identidad, capacidad y declaración de voluntad de los otorgantes, así como de sus facultades si actuasen en representación de otras personas, y velarán por que se extiendan, en su caso, en el modelo oficial y con el timbre correspondiente.
+
+La diligencia de intervención será del siguiente o parecido tenor: "con mi intervención respecto del... (libramiento, aceptación, endoso, aval) de don/ doña... lugar, fecha, signo, firma y rúbrica del notario y sello de su notaría".
+
+> Se añade por el art. 1.106 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+##### Sección 4.ª Actas notariales
+
+> Se añade por el art. 1.107 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 198.**
+
+1\. Los notarios, previa instancia de parte en todo caso, extenderán y autorizarán actas en que se consignen los hechos y circunstancias que presencien o les consten, y que por su naturaleza no sean materia de contrato.
+
+Serán aplicables a las actas notariales los preceptos de la sección segunda, relativos a las escrituras matrices, con las modificaciones siguientes:
+
+1.º En la comparecencia no se necesitará afirmar la capacidad de los requirentes, ni se precisará otro requisito para requerir al notario al efecto, que el interés legítimo de la parte requirente y la licitud de la actuación notarial, salvo que por tratarse del ejercicio de un derecho el notario deba hacer constar de modo expreso la capacidad y legitimación del requirente**a los efectos de su control de legalidad.**
+
+2.º No exigen tampoco la dación de fe de conocimiento, con las excepciones previstas en el párrafo anterior, y salvo el caso de que la identidad de las personas fuere requisito indispensable en consideración a su contenido.
+
+3.º No requieren unidad de acto ni de contexto, pudiendo ser extendidas en el momento del acto o posteriormente. En este caso se distinguirá cada parte del acta como diligencia diferente, con expresión de la hora y sitio, y con cláusula de suscripción especial y separada.
+
+4.º Las diligencias, salvo que, habiendo medios para ello, la persona con quien se entiendan pida que se redacten en el lugar, las podrá extender el notario en su estudio con referencia a las notas tomadas sobre el terreno, haciéndolo constar así, y podrá aquella persona comparecer en la Notaría para enterarse del contenido de la diligencia. Cuando se extienda la diligencia en el lugar donde se practique, invitará el notario a que la suscriban los que en ella tengan interés, así como a cualquier otra persona que esté presente en el acto.
+
+5.º Las manifestaciones contenidas en una notificación o requerimiento y en su contestación tendrán el valor que proceda conforme a la legislación civil o procesal, pero el acta que las recoja no adquirirá en ningún caso la naturaleza ni los efectos de la escritura pública. No será necesario que el notario dé fe de conocimiento de las personas con quienes entienda la diligencia ni de su identificación, salvo en los casos en que la naturaleza del acta exija la identificación del notificado o requerido.
+
+**6.º En todo caso y cualquiera que sea el tipo de acta, el notario deberá comprobar que el contenido de la misma y de los documentos a que haga referencia, con independencia del soporte utilizado, no es contrario a la ley o al orden público.**
+
+7.º Las manifestaciones verbales percibidas por el notario durante la realización de un acta sólo podrán ser recogidas en ésta previa advertencia por el Notario al autor de la existencia y finalidad del acta, del carácter potestativo de la manifestación y de la posibilidad de diferirla a la comparecencia en la notaría en los dos días hábiles siguientes a la entrega de la cédula o copia del acta que las insta. El requerimiento para levantar el acta no podrá referirse en ningún caso a conversaciones telefónicas, ni comprender la realización de preguntas por parte del notario.
+
+Cuando el acta deba ser realizada en el interior de un establecimiento el notario deberá advertir a la persona responsable, o que juzgue más idónea, de su condición y del objeto del acta y no consignará hecho alguno sino los que compruebe una vez autorizada su actuación. Si le fuere negada se limitará a hacerlo constar así.
+
+8.º Las actas notariales se firmarán por los requirentes y se signarán y rubricarán por el notario, salvo que alguno de aquéllos no pudiere o no supiere firmar, en cuyo caso se hará constar así. Quedarán a salvo aquellos supuestos de urgencia libremente apreciados por el notario.
+
+9.º Los notarios se abstendrán de dar fe de incidencias ocurridas en actos públicos sin ponerlo en conocimiento de la persona que los presida, pero ésta no podrá oponerse a que aquellos, después de cumplido este requisito, ejerzan las funciones propias de su ministerio; si ésta se opusiere, se limitará a hacerlo constar así.
+
+2\. Cuando un notario sea requerido para dejar constancia de cualquier hecho relacionado con un archivo informático, no será necesaria la transcripción del contenido de éste en soporte papel, bastando con que en el acta se indique el nombre del archivo y la identificación del mismo con arreglo a las normas técnicas dictadas por el Ministerio de Justicia. Las copias que se expidan del acta deberán reproducir únicamente la parte escrita de la matriz, adjuntándose una copia en soporte informático no alterable según los medios tecnológicos adecuados del archivo relacionado. La Dirección General de los Registros y del Notariado, de conformidad con el artículo 113.2 de la Ley 24/2001, de 27 de diciembre, determinará los soportes en que deba realizarse el almacenamiento, y la periodicidad con la que su contenido debe ser trasladado a un soporte nuevo, tecnológicamente adecuado, que garantice en todo momento su conservación y lectura.
+
+> Ref. BOE-A-2008-10272
+
+> Se declara la nulidad de los incisos destacados por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.108 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+###### Subsección 1.ª Actas de presencia
+
+> Se añade por el art. 1.109 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 199.**
+
+Las actas notariales de presencia acreditan la realidad o verdad del hecho que motiva su autorización.
+
+El notario redactará el concepto general en uno o varios actos, según lo que presencie o perciba por sus propios sentidos, en los detalles que interesen al requirente, si bien no podrá extenderse a hechos cuya constancia requieran conocimientos periciales.
+
+En la autorización de actas de presencia que constaten hechos susceptibles de publicidad comercial, el notario, al expresar el alcance concreto de la fe pública notarial, hará constar que ésta no puede extenderse a cosas o hechos distintos de los que han sido objeto de su percepción personal.
+
+Se prohíbe el uso publicitario de toda acta que no se haya instado expresamente con la finalidad de tal uso y, en su caso, será necesaria la aprobación previa, por parte del notario autorizante, de los textos e imágenes en que la publicidad se concrete. El nombre del notario no deberá aparecer en publicación autorizada de dichos textos e imágenes. Deberá el notario, igualmente, denegar la autorización cuando pueda inducir a confusión a los consumidores y usuarios sobre el alcance de la intervención notarial. El Consejo General del Notariado creará un archivo telemático de libre consulta por los notarios y los usuarios en que conste la intervención notarial y las bases de los concursos para los que se requiera aquélla. El notario requerido advertirá al requirente de la incorporación de ese acta al archivo telemático indicado a los efectos del ejercicio de los derechos a que se refiere la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal. Si se negare, no podrá hacer constar la intervención notarial en dicho archivo.
+
+> Se modifica por el art. 1.110 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 5 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 200.**
+
+Serán también materia de las actas de presencia:
+
+1.º La entrega de documentos, efectos, dinero u otras cosas, así como los ofrecimientos de pago. El texto de estas actas comprenderá, en lo pertinente, la trascripción del documento entregado, la descripción completa de la cosa, la naturaleza, características y notas individuales de los efectos.
+
+2.º El hecho de la existencia de una persona, previa su identificación por el notario.
+
+3.º La exhibición al notario de documentos o de cosas con el fin de que, examinados, los describa en el acta tal y como resulten de su percepción.
+
+4.º Conforme a lo establecido en el artículo 114.2 de la Ley 24/2001, de 27 de diciembre, los notarios deberán dejar constancia en acta, a solicitud de los interesados, tanto de las comunicaciones electrónicas recibidas de éstos como de las que, a requerimiento de los mismos, envíen los Notarios a terceros. La Dirección General de los Registros y del Notariado queda habilitada para regular mediante Instrucción la forma en que el notario debe almacenar en su archivo electrónico el contenido de las actas a que se refiere este párrafo, determinando los soportes en que debe realizarse el almacenamiento y la periodicidad con que su contenido debe ser trasladado a un soporte nuevo, tecnológicamente adecuado, que garantice en todo momento su conservación y lectura.
+
+> Se modifica por el art. 1.111 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 5 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+a) Actas de remisión de documentos por correo
+
+> Se añade por el art. 1.112 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 201.**
+
+El simple hecho del envío de cartas u otros documentos por correo ordinario, procedimiento telemático, telefax o cualquier otro medio idóneo podrá hacerse constar mediante acta, que acreditará el contenido de la carta o documento, y según el medio utilizado la fecha de su entrega, o su remisión por procedimiento técnico adecuado y, en su caso, la expedición del correspondiente resguardo de imposición como certificado, entrega o remisión, así como la recepción por el notario del aviso de recibo, o del documento o comunicación de recepción.
+
+En la carta o documentos remitidos quedará siempre constancia de la intervención notarial.
+
+Las sucesivas actuaciones notariales a que se refiere este artículo se harán constar por diligencias.
+
+Las actas de remisión de documentos no confieren derecho a contestar en la misma acta y a costa del requirente.
+
+El notario no admitirá requerimientos para envío de sobres cerrados cuyo contenido no aparezca reproducido en el acta.
+
+> Se modifica por el art. 1.113 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 5 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+b) Actas de notificación y requerimiento
+
+> Se añade por el art. 1.114 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 202.**
+
+Las actas de notificación tienen por objeto transmitir a una persona una información o una decisión del que solicita la intervención notarial, y las de requerimiento, además, intimar al requerido para que adopte una determinada conducta.
+
+El notario, discrecionalmente, y siempre que de una norma legal no resulte lo contrario, podrá efectuar las notificaciones y los requerimientos enviando al destinatario la cédula, copia o carta por correo certificado con aviso de recibo.
+
+Siempre que no se utilice el procedimiento a que hace referencia el párrafo anterior, el notario se personará en el domicilio o lugar en que la notificación o el requerimiento deban practicarse, según la designación efectuada por el requirente, dando a conocer su condición de notario y el objeto de su presencia. De no hallarse presente el requerido, podrá hacerse cargo de la cédula cualquier persona que se encuentre en el lugar designado y haga constar su identidad. Si nadie se hiciere cargo de la notificación, se hará constar esta circunstancia. Cuando el edificio tenga portero podrá entenderse la diligencia con el mismo.
+
+La diligencia se cumplimentará mediante entrega de cédula que, suscrita por el notario con media firma al menos, contendrá el texto literal de la notificación o el requerimiento y expresará el derecho de contestación del destinatario y su plazo, conforme al artículo 204. Si la diligencia se entendiera con persona distinta de éste, la cédula deberá entregarse en sobre cerrado en el que se hará constar la identidad del notario y el domicilio de la Notaría. El notario advertirá, en todo caso, al receptor de la obligación de hacer llegar a poder del destinatario el documento que le entrega, consignando en la diligencia este hecho, la advertencia y la respuesta que recibiere.
+
+La cédula podrá ir extendida en papel común y no será necesario dejar en la matriz nota de su expedición; bastará indicar el carácter con que se expide y la fecha de su entrega.
+
+El notario siempre que no pueda hacer entrega de la cédula deberá enviar la misma por correo certificado con acuse de recibo, tal y como establece el Real Decreto 1829/1999, de 3 de diciembre, o por cualquier otro procedimiento que permita dejar constancia fehaciente de la entrega.
+
+La diligencia podrá practicarse en cualquier lugar distinto del designado, siempre que el destinatario se preste a ello y sea identificado por el notario.
+
+Si se hubiere conseguido cumplimentar el acta, se hará constar así, la manera en que se haya producido la notificación y la identidad de la persona con la que se haya entendido la diligencia; si ésta se negare a manifestar su identidad o su relación con el destinatario o a hacerse cargo de la cédula, se hará igualmente constar. Si se hubiere utilizado el correo, o cualquier otro medio de envío de los previstos en este artículo, se consignarán sucesivamente las diligencias correspondientes.
+
+La notificación o el requerimiento quedarán igualmente cumplimentados y se tendrán por hechos en cualquiera de las formas expresadas en este artículo.
+
+> Se modifica por el art. 1.115 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 5 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 183, de 1 de agosto de 1984. [Ref. BOE-A-1984-17221](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17221)
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 203.**
+
+Cuando el interesado, su representante **o persona con quien se haya entendido la diligencia** se negare a recoger la cédula o prestase resistencia activa o pasiva a su recepción, se hará constar así, y se tendrá por realizada la notificación. Igualmente se hará constar cualquier circunstancia que haga imposible al notario la entrega de la cédula; en este caso se procederá en la forma prevista en el párrafo sexto del artículo 202.
+
+> Ref. BOE-A-2008-10272
+
+> Se declara la nulidad del inciso destacado por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.116 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 5 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 204.**
+
+El requerido o notificado tiene derecho a contestar ante el notario dentro de la misma acta, pero sin introducir en su contestación otros requerimientos o notificaciones que deban ser objeto de acta separada.
+
+La contestación deberá hacerse de una sola vez, bajo la firma del que contesta, y en el plazo improrrogable de los dos días hábiles siguientes a aquel en que se haya practicado la diligencia o recibido el envío postal. No se consignará en el acta ninguna contestación que diere el destinatario antes de haber sido advertido por el notario de su derecho a contestar y del plazo reglamentario para ello.
+
+Los derechos y gastos notariales de la contestación serán de cargo del requirente, pero si su extensión excediera del doble del requerimiento o notificación iniciales, el exceso será de cargo del que contesta.
+
+El notario no podrá librar copia de un acta de notificación o requerimiento sin hacer constar en aquélla la contestación, si la hubiere. Tampoco podrá expedir, antes de caducar el plazo, copia del acta pendiente de contestación, salvo que lo solicite, bajo su responsabilidad, quien tenga interés legítimo para ejercitar desde luego cualquier acción o derecho, todo lo cual se hará constar en la cláusula de suscripción de la copia y en la nota de expedición que ha de consignarse en la matriz, entendiéndose reservado el derecho a contestar mientras no caduque el plazo.
+
+> Se declara la nulidad del párrafo 3 por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.117 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 5 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 205.**
+
+En caso de tratarse de requerimientos o notificaciones de carácter urgente por referirse a plazos próximos a terminar, revocación de poderes u otros de carácter perentorio, el Notario si fuere requerido por medio de carta cuya firma le sea conocida o aparezca legitimada, podrá prestar su intervención.
+
+Si la aceptare, levantará el acta correspondiente, uniendo la carta recibida a la matriz, actuando en los términos que resulten de su texto, pero sin responsabilidad alguna por lo que se refiere a la identidad del firmante de la carta y a su capacidad.
+
+> Se modifica por el art. 5 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 206.**
+
+Las notificaciones o requerimientos previstos por las Leyes o Reglamentos sin especificar sus requisitos o trámites se practicarán en la forma que determinen los artículos precedentes. Pero cuando aquellas normas establezcan una regulación específica o señalen requisitos o trámites distintos en cuanto a domicilio, lugar, personas con quienes deban entenderse las diligencias, o cualesquiera otros, se estará a lo especialmente dispuesto en tales normas, sin que sean aplicables las reglas del artículo 202 y concordantes de este Reglamento.
+
+Los notarios, salvo en los casos taxativamente previstos en la ley, no aceptarán requerimientos dirigidos a Autoridades Públicas, Judiciales, Administrativas y funcionarios, sin perjuicio de que puedan dejar constancia en acta notarial de presencia de la realización por los particulares de acciones o actuaciones que les competan conforme a las normas administrativas.
+
+> Se añade el párrafo segundo por el art. 1.118 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 5 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+c) Actas de exhibición de cosas o documentos
+
+> Se añade por el art. 1.119 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 207.**
+
+En las actas de exhibición de cosas, el Notario describirá o relacionará las circunstancias que las identifiquen, diferenciando lo que resulte de su percepción de lo que manifiesten peritos u otras personas presentes en el acto, y podrá completar la descripción mediante planos, diseños, certificaciones, fotografías o fotocopias que incorporará a la matriz. En las actas de exhibición de documentos, además, transcribirá o relacionará aquéllos o concretará su narración a determinados extremos de los mismos, indicados por el requirente, observando en este caso, si a su parecer procede, lo dispuesto en el párrafo último del artículo 237.
+
+Este tipo de acta será utilizable, entre otros supuestos:
+
+1\. Para dejar constancia en el protocolo de la existencia de cosas o documentos en poder de una persona o en un determinado lugar.
+
+2\. Para hacer constar la existencia de un documento no notarial cuyas firmas legitime el propio Notario autorizante, que vaya a surtir efectos solamente fuera de España en país que prevea o exija dicha forma documental.
+
+En estas actas, el Notario identificará a los interesados, quienes comparecerán ante él, y en el mismo acto firmarán el documento no notarial o declararán que las firmas estampadas son las suyas, y, en todo caso, que conocen el contenido del documento y que, libre y voluntariamente, quieren que produzca los efectos que le sean aplicables conforme a lo previsto por las leyes extranjeras. El Notario, además, deberá emitir en cuanto le sea posible el juicio de capacidad legal o civil a que se refiere el artículo 156, 8., de este Reglamento, y cumplir lo dispuesto en el mismo respecto de la intervención y representación de los otorgantes.
+
+El documento, o un ejemplar del mismo, original o por fotocopia, quedará incorporado a la matriz del acta en la que se expresara, literalmente o en relación, el texto del testimonio de legitimación.
+
+En dicho texto, a continuación de las firmas legitimadas, se consignarán, abreviadamente, los particulares contenidos en el acta que sean pertinentes.
+
+3\. Para efectuar, conforme al artículo 262 de este Reglamento, el reconocimiento de la propia firma puesta con anterioridad en un documento que, a juicio del Notario, quedará suficientemente reseñado en el acta, o unido a ésta, original o por fotocopia.
+
+4\. Para fijar el saldo líquido exigible en los préstamos o créditos en cuenta corriente concedidos por entidades de crédito, ahorro o financiación, siempre que tales operaciones y esta modalidad de fijación hayan sido pactadas en escritura pública. En virtud de la documentación exhibida por la entidad acreedora y de su concordancia con certificación de ésta, que se unirá a la matriz, el Notario levantará el acta en la que quede determinado el saldo de la cuenta.
+
+> Se modifica por el art. 5 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+###### Subsección 2.ª Actas de referencia
+
+> Se añade por el art. 1.120 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 208.**
+
+En las actas de referencia se observarán iguales requisitos que en las de presencia, pero el texto será redactado por el Notario de la manera más apropiada a las declaraciones de los que en ellas intervengan, usando las mismas palabras, en cuanto fuere posible, una vez advertido el declarante por el Notario del valor jurídico de las mismas en los casos en que fuese necesario.
+
+###### Subsección 3.ª Actas de notoriedad
+
+> Se añade por el art. 1.121 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 209.**
+
+Las actas de notoriedad tienen por objeto la comprobación y fijación de hechos notorios sobre los cuales puedan ser fundados y declarados derechos y legitimadas situaciones personales o patrimoniales, con trascendencia jurídica.
+
+En las actas de notoriedad se observaran los requisitos siguientes:
+
+Primero. El requerimiento para instrucción del acta será hecho al Notario por persona que demuestre interés en el hecho cuya notoriedad se pretende establecer, la cual deberá aseverar, bajo su responsabilidad, la certeza del mismo, bajo pena de falsedad en documento público.
+
+Segundo. El Notario practicará, para comprobación de la notoriedad pretendida, cuantas pruebas estime necesarias, sean o no propuestas por el requirente. Y deberá hacer requerimientos y notificaciones personales o por edictos cuando el requirente lo pida o él lo juzgue necesario.
+
+En el caso de que fuera presumible, a Juicio del Notario, perjuicio para terceros, conocidos o ignorados, se notificará la iniciación del acta por cédula o edictos, a fin de que en el plazo de veinte días puedan alegar lo que estimen oportuno en defensa de sus derechos, debiendo el Notario interrumpir la instrucción del acta, cuando así proceda, por aplicación del número quinto de este artículo.
+
+Tercero. Constarán necesariamente en las actas de notoriedad todas las pruebas practicadas y requerimientos hechos con sus contestaciones; los justificantes de citaciones y llamamientos; la indicación de las reclamaciones presentadas por cualquier interesado, y la reserva de los derechos correspondientes al mismo ante los Tribunales de Justicia.
+
+Cuarto. El Notario, si del examen y calificación de las pruebas y del resultado de las diligencias estimare justificada la notoriedad pretendida, lo expresará así, con lo cual quedará conclusa el acta.
+
+Cuando además de comprobar la notoriedad se pretenda el reconocimiento de derechos o la legitimación de situaciones personales o patrimoniales, se pedirá así en el requerimiento inicial, y el Notario emitirá juicio sobre los mismos, declarándolos formalmente, si resultaren evidentes por aplicación directa de los preceptos legales atinentes al caso.
+
+Quinto. La instrucción del acta se interrumpirá si se acreditare al Notario haberse entablado demanda en juicio declarativo, con respecto al hecho cuya notoriedad se pretenda establecer. La interrupción se levantará, y el acta será terminada a petición del requirente, cuando la demanda haya sido expresamente desistida, cuando no se haya dado lugar a ella por sentencia firme o cuando se haya declarado caducada a instancia del actor.
+
+**Por acta de notoriedad podrán legitimarse hechos y situaciones de todo orden, cuya justificación, sin oposición de parte interesada, pueda realizarse por medio de cualquier otro procedimiento no litigioso. La declaración que ponga fin al acta de notoriedad será firme y eficaz, por sí sola, e inscribible donde corresponda, sin ningún trámite o aprobación posterior.**El requerimiento a que se refiere el requisito primero se formalizará mediante acta con la fecha y número de protocolo del día del requerimiento. Concluida la tramitación del acta se incorporará al protocolo como instrumento independiente en la fecha y bajo el número que corresponda en el momento de su terminación, dejando constancia de la misma en el acta que recoja el requerimiento.
+
+> Ref. BOE-A-2008-10272
+
+> Se declara la nulidad del inciso destacado por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica el último párrafo por el art. 1.122 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 209 bis.**
+
+En la tramitación de las actas de notoriedad a que se refiere el artículo 979 de la Ley de Enjuiciamiento Civil se observarán las siguientes reglas:
+
+1\. Será Notario hábil para autorizarla cualquiera que sea competente para actuar en la población donde el causante hubiera tenido su último domicilio en España. A tal efecto, dicho domicilio se acreditará preferentemente, y sin perjuicio de otros medios de prueba, mediante el Documento Nacional de Identidad del causante.
+
+De no haber tenido nunca domicilio en España, será competente el Notario correspondiente al lugar de su fallecimiento y, si hubiere fallecido fuera de España, al lugar donde estuviere parte considerable de los bienes o de las cuentas bancarias.
+
+2\. Está legitimada para formular el requerimiento inicial del acta cualquier persona con interés legítimo.
+
+3\. Requerido uno de los Notarios competentes, quedará excluida la competencia de los demás. El Notario requerido habrá de poner en conocimiento del Decanato del respectivo Colegio Notarial, en el mismo día que hubiese admitido el requerimiento, la iniciación de la tramitación del acta, especificando el nombre del causante y demás datos de identificación consignados en el artículo 4. del anexo segundo del Reglamento Notarial, a fin de que de tal iniciación quede constancia en el Registro Particular del Decanato y en el General de Actos de Ultima Voluntad, conforme a lo previsto en los artículos 12 y 13 del anexo segundo.
+
+Si, recibida una comunicación, se recibieren posteriormente otras relativas a la sucesión del mismo causante, el Decano, o el Jefe del Registro si los Notarios pertenecieren a distinto Colegio, lo comunicará inmediatamente a los Notarios que hubiesen iniciado el acta en segundo o posterior lugar para que suspendan la tramitación de la misma.
+
+Hasta que hayan transcurrido veinte días hábiles desde la comunicación al Decanato, el Notario no podrá expedir ningún tipo de copias del acta.
+
+4\. El interesado habrá de aseverar la certeza de los hechos positivos y negativos en que se deba fundar el acta, y acreditar documentalmente:
+
+a) La apertura de la sucesión intestada mediante la presentación de las certificaciones de fallecimiento y del Registro General de Actos de Ultima Voluntad del causante y, en su caso, el documento auténtico del que resulte indubitadamente que, a pesar del testamento o del contrato sucesorio, procede la sucesión "abintestato" o la sentencia firme que declare la invalidez de las instituciones de herederos.
+
+b) La relación de parentesco de las personas que el requirente designe como herederos del causante.
+
+Habrá de presentar el libro de familia del causante o las certificaciones correspondientes del Registro Civil acreditativas del matrimonio y filiaciones. Los documentos presentados o testimonio de los mismos quedarán incorporados al acta.
+
+5\. En el acta habrá de constar necesariamente, al menos, la declaración de dos testigos que aseveren que de ciencia propia o por notoriedad les constan los hechos positivos y negativos cuya declaración de notoriedad se pretende. Dichos testigos podrán ser, en su caso, parientes del fallecido, sea por consanguinidad o afinidad, cuando no tengan interés directo en la declaración. Se practicarán, también, las pruebas propuestas por el requirente así como las que se estimen oportunas, en especial las dirigidas a acreditar la nacionalidad y vecindad civil y, en su caso, la ley extranjera aplicable.
+
+6\. Ultimadas las anteriores diligencias, y transcurrido el plazo previsto en la regla 3.ª, hará constar el notario su juicio de conjunto sobre si quedan acreditados por notoriedad los hechos en que se funda la declaración de herederos.
+
+En caso afirmativo declarará qué parientes del causante son los herederos "abintestato", siempre que todos ellos sean de aquellos en que la declaración corresponde al notario. En la declaración se expresarán las circunstancias de identidad de cada uno y los derechos que por Ley le corresponden en la herencia.
+
+> Se modifican los apartados 5 y 6 por el art. 1.123 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se añade por el art. 2 del Real Decreto 1368/1992, de 13 de noviembre. [Ref. BOE-A-1992-27995](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-27995).
+
+**Artículo 210.**
+
+**(Anulado)**
+
+> Se declara la nulidad por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.124 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+###### Subsección 4.ª Actas de protocolización
+
+> Se añade por el art. 1.125 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 211.**
+
+Las actas de protocolización tendrán las características generales de las de presencia, pero el texto hará relación al hecho de haber sido examinado por el Notario el documento que deba ser protocolado, a la declaración de la voluntad del requirente para la protocolización o cumplimiento de la providencia que la ordene, al de quedar unido el expediente al protocolo, expresando el número de folios que contenga y los reintegros que lleve unidos.
+
+**Artículo 212.**
+
+Los documentos públicos autorizados en el extranjero, una vez legalizados en forma, podrán ser protocolados en España mediante acta que suscribirá el interesado, si se hallare presente.
+
+En otro caso, bastará la afirmación del Notario de haberle sido entregado el documento a tales efectos.
+
+**Artículo 213.**
+
+La protocolización de los expedientes judiciales se efectuará por medio de un acta extendida y suscrita por el Notario a requerimiento de cualquier persona que entregue el expediente con el auto judicial en que se ordene la protocolización.
+
+**Artículo 214.**
+
+También pueden ser protocolizados mediante acta los documentos públicos de todas clases, los impresos, planos, fotograbados, fotografías o cualesquiera gráficos cuya medida y naturaleza lo consienta, al efecto de asegurar su respectiva identidad y su existencia respecto de tercero en la fecha de la protocolización.
+
+**Artículo 215.**
+
+Los documentos privados cuyo contenido sea materia de contrato podrán protocolizarse por medio de acta cuando alguno de los contratantes desee evitar su extravío y dar autenticidad a su fecha, expresándose en tal caso que tal protocolización se efectúa sin ninguno de los efectos de la escritura pública y sólo a los efectos del artículo 1.227 del Código Civil.
+
+Cuando no sean materia de acto o contrato se podrán protocolizar mediante acta a los efectos que manifiesten los interesados.
+
+Los documentos privados sujetos al Impuesto de Transmisiones Patrimoniales y Actos Jurídicos Documentados, y al Impuesto de Sucesiones y Donaciones, no podrán ser objeto de acta de protocolización si no consta en ellos la nota que corresponda de la Oficina liquidadora o entidad bancaria colaboradora.
+
+> Se modifica por el art. 1.126 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+###### Subsección 5.ª Actas de depósito ante notario
+
+> Se añade por el art. 1.127 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 216.**
+
+Los notarios pueden recibir en depósito los objetos, valores, documentos y cantidades que se les confíen, bien como prenda de contratos, bien para su custodia.
+
+La admisión de depósitos es voluntaria por parte del notario, quien podrá imponer condiciones al depositante, salvo que el depósito notarial se halle establecido en alguna ley, en cuyo caso se estará a lo que en ella se disponga.
+
+El depósito notarial de documentos que estén extendidos en soporte informático se regirá además por las siguientes normas:
+
+1.º El soporte digital que contenga un documento electrónico se entregará en depósito al notario, por el plazo y condiciones que convenga éste con el requirente o requirentes; en el acta de depósito, o en el documento en que deba quedar unido, bastará con hacer referencia depósito con reseña de las características del documento electrónico y de su soporte, tales como su fecha, formato y su extensión, si las tiene, la unidad de medida, en su caso, así como las demás características técnicas que permitan identificarlos.
+
+2.º La Dirección General de los Registros y del Notariado en los términos previstos en el artícu-lo 113.3 de la Ley 24/2001, de 27 de diciembre, podrá acordar, cuando innovaciones técnicas lo hagan aconsejable, el traslado sistemático del contenido de documentos informáticos depositados a un nuevo soporte, más adecuado para su conservación, lectura o reproducción, dictando las normas que garanticen la fiabilidad de las copias. En todo caso, deberá citarse a los interesados, quienes podrán oponerse retirando el documento.
+
+También podrá realizarse, con la misma finalidad, el traslado a un nuevo soporte a instancia de la persona que depositó el documento o sus causahabientes. El traslado del contenido del documento deberá hacerse por medios técnicos adecuados que aseguren la fiabilidad de la copia.
+
+Cuando proceda la devolución de un depósito se extenderá en la misma acta nota expresiva de haberlo efectuado, firmada por la persona que haya impuesto el depósito o por quien traiga de ella su derecho u ostente su representación legal o voluntaria.
+
+Cuando el depósito estuviese constituido bajo alguna condición convenida con un tercero, el notario no efectuará la devolución mientras no se le acredite suficientemente el cumplimiento de la condición estipulada.
+
+Para la devolución del depósito el solicitante tendrá que acreditar al notario el derecho que le asiste.
+
+El notario rechazará todo depósito que pretenda constituirse en garantía de un acto o contrato contrario a las leyes o al orden público.
+
+Si el objeto depositado fuera un programa informático cuyo contenido no pueda ser razonablemente conocido por el notario, éste sólo admitirá el depósito si el requirente depositante manifiesta que el contenido de aquel programa no es contrario a la ley o al orden público.
+
+> Se modifica por el art. 1.128 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 217.**
+
+Cuando los notarios aceptaren los depósitos en metálico, valores, efectos y documentos a los que se refiere el artículo anterior, se extenderá un acta que habrán de firmar el depositante o persona a su ruego, si no supiera o no pudiera firmar, y el notario. En dicha acta se consignarán las condiciones propuestas por el notario y aceptadas por el depositante para la constitución y devolución del depósito, así como también todo cuanto fuere preciso para la identificación del mismo.
+
+Los depósitos de los objetos en que fuese necesaria su identificación se entregarán al notario, cerrándolos y sellándolos a su presencia en forma que ofrezca garantía de no ser abiertos. Respecto de los depósitos en efectivo a que se refiere este artícu-lo, el notario no podrá obtener para sí, el depositante o tercero rendimiento de las cantidades depositadas. A tal fin, deberá abrir una cuenta específica no remunerada, sin que el notario pueda desempeñar funciones de gestión respecto de dicho efectivo, cheque o fondos.
+
+Siempre que el notario lo considere conveniente para su seguridad, podrá conservar los depósitos que se le confíen en un Banco, y en caja de alquiler arrendada a su nombre como tal notario, advirtiéndolo así al depositante y consignándolo en el acta. Dicha caja sólo podrá ser abierta por el notario o su sustituto legal, o mediante orden escrita de la Junta Directiva del Colegio Notarial respectivo o de la Dirección General, en su caso. Queda a salvo lo anteriormente previsto.
+
+> Se modifica por el art. 1.129 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+###### Subsección 6.ª Documento fehaciente de liquidación
+
+> Se añade por el art. 1.130 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 218.**
+
+Cuando para despachar ejecución por el importe del saldo resultante de las operaciones derivadas de contratos formalizados en escritura pública o en póliza intervenida, conforme al artículo 572.2 de la Ley de Enjuiciamiento Civil, sea necesario acompañar a la demanda ejecutiva, además del título ejecutivo el documento fehaciente que acredite haberse practicado la liquidación en la forma pactada por las partes en dicho título, tal como establece el artícu-lo 573.1.2.ª de la Ley de Enjuiciamiento Civil, el notario lo hará constar mediante documento fehaciente en el que se exprese la liquidación, que se regirá por las normas generales y especialmente, por las siguientes:
+
+1.º Junto con el requerimiento, que podrá efectuarse mediante carta dirigida al notario quien legitimará la firma del remitente e incorporará al acta, la entidad acreedora entregará o remitirá al notario el título con efectos ejecutivos de la escritura pública o de la póliza intervenida que haya de servir de titulo para la ejecución o, en su caso, testimonio notarial de dichos documentos, salvo que el contenido del título ejecutivo resulte de su protocolo o libro registro, así como una certificación por ella expedida, en la que se especifique el saldo exigible al deudor, además de los extractos contables correspondientes, debidamente firmados, que permitan al notario efectuar las verificaciones técnicas oportunas. Quedará incorporada al documento fehaciente la certificación del saldo y se insertará o unirá testimonio literal o en relación de los documentos contables que han servido para su determinación.
+
+2.º Si en el contrato no se hubieren reflejado, de forma explícita, los tipos de interés o comisiones aplicables, la entidad requirente deberá acreditar al notario cuáles han sido estos, haciéndose constar todo ello en el acta de liquidación.
+
+3.º El notario deberá comprobar, y expresar en el documento fehaciente, que en el título ejecutivo las partes acordaron emplear el procedimiento establecido en el artículo 572.2 de la Ley de Enjuiciamiento Civil para fijar la cuantía líquida de la deuda.
+
+4.º Con los documentos contables presentados el notario comprobará si la liquidación se ha practicado, a su juicio, en la forma pactada por las partes en el título ejecutivo.
+
+Si el saldo fuere correcto, el notario hará constar por diligencia el resultado de su comprobación, expresando:
+
+a) Los datos y referencias que permitan identificar a las personas interesadas, al título ejecutivo y a la documentación examinada por el notario.
+
+b) Que, a su juicio, la liquidación se ha efectuado conforme a lo pactado por las partes en el título ejecutivo. Asimismo podrá hacer constar cualquier precisión de carácter jurídico, contable o financiero que el notario estime oportuno.
+
+c) Que el saldo especificado en la certificación expedida por la entidad acreedora, que se incorporará al acta de liquidación, coincide con el que aparece en la cuenta abierta al deudor.
+
+d) Que el documento fehaciente comprensivo de la liquidación se extiende a los efectos previstos en los artículos 572.2 y 573.1.2.º de la Ley de Enjuiciamiento Civil.
+
+> Se modifica por el art. 1.131 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 219.**
+
+Los notarios, a requerimiento de parte interesada, podrán autorizar actas de liquidación relativas a cualesquiera cuentas o contratos no comprendidos en el artículo anterior. Esta clase de actas, según el alcance del requerimiento, deberán contener los apuntes contables y el saldo final, así como la expresión de las condiciones en que se ha practicado la liquidación.
+
+Estas actas de liquidación se acomodarán a los requisitos formales, materiales y de registro, establecidos en el artículo anterior, con las especialidades derivadas del requerimiento.
+
+> Se modifica por el art. 1.132 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+###### Subsección 6.ª[sic] Actas de subastas
+
+> Se añade por el art. 1.133 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 220.**
+
+**(Anulado)**
+
+> Se declara la nulidad por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.134 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+##### Sección 5.ª De las copias
+
+> Se renumera por el art. 1.135 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Su anterior numeración era sección 4ª
+
+**Artículo 221.**
+
+Se consideran escrituras públicas, además de la matriz, las copias de esta misma expedidas con las formalidades de derecho. Igualmente, tendrán el mismo valor las copias de pólizas incorporadas al protocolo. Las copias deberán reproducir o trasladar fielmente el contenido de la matriz o póliza. Los documentos incorporados a la matriz podrán hacerse constar en la copia por relación o transcripción.
+
+Las copias autorizadas pueden ser totales o parciales, pudiendo constar en soporte papel o electrónico. Las copias autorizadas en soporte papel deberán estar signadas y firmadas por el notario que las expide; si estuvieran en soporte electrónico, deberán estar autorizadas con la firma electrónica reconocida del notario que la expide.
+
+> Se modifica por el art. 1.136 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 222.**
+
+Sólo el notario en cuyo poder se halle legalmente el protocolo, estará facultado para expedir copias u otros traslados o exhibirlo a los interesados.
+
+Ni de oficio ni a instancia de parte interesada decretarán los Tribunales que los Secretarios judiciales extiendan, por diligencia o testimonio, copias de actas, escrituras matrices y pólizas, sino que bajo su responsabilidad las exigirán del notario que deba darlas, con arreglo a la Ley del Notariado y el presente Reglamento, es decir, justificando ante el notario, y a juicio de éste con la documentación necesaria, el derecho de los interesados a obtenerlas, y siempre que la finalidad de la petición sea la prescrita en el artículo 256 de la Ley de Enjuiciamiento Civil. Para los cotejos o reconocimientos de estas copias se observará lo dispuesto en el párrafo tercero del artículo 32 de la Ley.
+
+> Se modifica por el art. 1.137 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 223.**
+
+Para expedir primeras o posteriores copias, con arreglo al artículo 31 de la Ley, se entiende que el protocolo está legalmente en poder del titular de la Notaría, de su sustituto o del Archivero de protocolos, en su caso.
+
+**Artículo 224.**
+
+1\. Además de cada uno de los otorgantes, según el artículo 17 de la Ley, tienen derecho a obtener copia, en cualquier tiempo, todas las personas a cuyo favor resulte de la escritura o póliza incorporada al protocolo algún derecho, ya sea directamente, ya adquirido por acto distinto de ella, y quienes acrediten, a juicio del notario, tener interés legítimo en el documento.
+
+2\. Los notarios darán también copias simples sin efectos de copia autorizada, pero solamente a petición de parte con derecho a ésta. En ningún caso podrá hacerse constar en la copia simple la firma de los otorgantes. Se habilita al Consejo General del Notariado para que establezca las características del papel para copia simple que deberá ser utilizado en su expedición, teniendo carácter de ingreso corporativo las cantidades que dicho Consejo obtenga por su utilización. A tal fin, el Consejo por sí o a través de los Colegios Notariales deberá proveer a los notarios de dicho papel.
+
+El Consejo comunicará a la Dirección General de los Registros y del Notariado las características de dicho papel, así como de sus modificaciones, que se entenderán admitidas si la Dirección no resuelve lo contrario en el plazo de quince días computados desde esa comunicación.
+
+3\. Igualmente darán lectura del contenido de documentos de su Protocolo a quienes demuestren, a su juicio, interés legítimo.
+
+4\. Las copias electrónicas, autorizadas y simples, se entenderán siempre expedidas a todos los efectos incluso el arancelario por el notario titular del protocolo del que formen parte las correspondientes matrices y no perderán su carácter, valor y efectos por el hecho de que su traslado a papel lo realice el notario al que se le hubiese enviado. Dichas copias sólo podrán expedirse para su remisión a otro notario o a un registrador o a cualquier órgano judicial o de las Administraciones Públicas, siempre en el ámbito de su respectiva competencia y por razón de su oficio. El notario que expida la copia autorizada electrónica será el mismo que la remita.
+
+En la expedición de las copias autorizadas electrónicas se hará constar expresamente la finalidad para la que se expide, siendo sólo válidas para dicha finalidad, y su destinatario, debiendo dejarse constancia de estas circunstancias por nota en la matriz.
+
+**Las copias autorizadas electrónicas una vez expedidas tendrán un plazo de validez de sesenta días a contar desde la fecha de su expedición. Transcurrido este plazo podrá expedirse nueva copia electrónica con igual finalidad que la caducada. La expedición de esta nueva copia autorizada electrónica con idéntico destinatario y finalidad no devengará arancel alguno.**
+
+El traslado a papel de las copias autorizadas expedidas electrónicamente, cuando así se requiera, sólo podrá hacerlo el notario al que se le hubiesen remitido, para que conserven la autenticidad y la garantía notarial. Dicho traslado se extenderá en folios timbrados de papel de uso exclusivo notarial, con expresión de su nombre, apellidos y residencia, notario que expide la copia, fecha de su expedición y de traslado a papel y números de los folios que comprende, bajo su firma, sello y rúbrica.
+
+El notario destinatario de una copia autorizada electrónica podrá, según su finalidad:
+
+1.º Incorporar a la matriz por él autorizada el traslado a papel de aquélla, haciéndolo constar en el cuerpo de la escritura o acta o en diligencia correspondiente.
+
+2.º Trasladarla a soporte papel en los términos indicados, dejando constancia en el Libro Indicador, mediante nota expresiva del nombre, apellidos y residencia del notario autorizante de la copia electrónica, su fecha y número de protocolo, así como los folios en que se extiende el traslado y su fecha.
+
+3.º Reseñar su contenido en lo legalmente procedente en la escritura o acta matriz o póliza intervenida.
+
+Una vez realizado el traslado a papel, el notario remitirá telemáticamente al que hubiese expedido la copia electrónica, el traslado a papel, para que aquel lo haga constar por nota en la matriz.
+
+La coincidencia de la copia autorizada expedida electrónicamente, con el original matriz, será responsabilidad del notario que la expide electrónicamente, titular del protocolo del que forma parte la correspondiente matriz. La responsabilidad de la coincidencia de la copia autorizada electrónica con la trasladada al papel será responsabilidad del notario que ha realizado dicho traslado.
+
+De conformidad con el artículo 17 bis de la Ley del Notariado, los registradores, así como los funcionarios competentes de los órganos jurisdiccionales y administrativos, destinatarios de las copias autorizadas electrónicas notariales podrán trasladarlas a soporte papel **dentro de su plazo de vigencia,** a los únicos y exclusivos efectos de incorporarlas a los expedientes o archivos que correspondan por razón de su oficio en el ámbito de su respectiva competencia. **Al pie del traslado a papel, dichos funcionarios deberán indicar su nombre y apellidos, cargo, fecha del traslado, número de folios que lo integran y su limitado efecto a la citada incorporación al expediente o archivo.**
+
+La Dirección General de los Registros y del Notariado podrá determinar el formato telemático en que deba expedirse la copia autorizada electrónica, utilizando para ello criterios de seguridad.
+
+En lo relativo a las copias simples electrónicas, éstas podrán remitirse a cualquier interesado cuando su identidad e interés legítimo le consten fehacientemente al notario, utilizando para su envío un procedimiento tecnológico adecuado que garantice su confidencialidad hasta el destinatario.
+
+> Ref. BOE-A-2008-10272
+
+> Se declara la nulidad de los incisos destacados del apartado 4 por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.138 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 225.**
+
+Las copias de testamentos solicitadas por las Administraciones públicas, con ocasión de expedientes o informes sobre solvencia o en procedimientos de apremio sobre bienes de determinadas personas a las que el testamento reconozca derechos hereditarios, se expedirán sólo parcialmente, limitadas a las cláusulas patrimoniales en las que aquellas sean beneficiarias, y previa justificación fehaciente del fallecimiento del testador y de la existencia de los citados expedientes y procedimientos.
+
+Las notificaciones previstas en el artículo 223 del Código Civil se efectuarán mediante testimonio en relación relativo a la designación de tutores.
+
+> Se modifica por el art. 1.139 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 226.**
+
+En vida del otorgante, sólo éste o su apoderado especial podrán obtener copia del testamento.
+
+Fallecido el testador, tendrán derecho a copia:
+
+a) Los herederos instituidos, los legatarios, albaceas, contadores partidores, administradores y demás personas a quienes en el testamento se reconozca algún derecho o facultad.
+
+b) Las personas que, de no existir el testamento o ser nulo, serían llamados en todo o en parte en la herencia del causante en virtud de un testamento anterior o de las reglas de la sucesión intestada, incluidos, en su caso, el Estado o la Comunidad Autónoma con derecho a suceder.
+
+c) Los legitimarios.
+
+Las copias de testamentos revocados sólo podrán ser expedidas a los efectos limitados de acreditar su contenido, dejando constancia expresa de su falta de vigor.
+
+> Se modifica por el art. 1.140 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 227.**
+
+El mandatario sólo podrá obtener copias del poder si del mismo o de otro documento resulta autorizado para ello; y también de la escritura en que aparezca la revocación omitiéndose por el Notario cuanto sea ajeno a ella.
+
+Lo dispuesto en el párrafo anterior será aplicable a los consentimientos, generales o especiales, prestados por un cónyuge al otro, y a su revocación.
+
+El cónyuge autorizado para obtener copias del poder o del consentimiento que le hubiere conferido el otro, hará constar bajo su responsabilidad, en cualquier solicitud de aquéllas, que no media entre los cónyuges separación legal, aunque sólo sea en virtud de medidas provisionales, ni tampoco separación de hecho.
+
+De los poderes o consentimientos recíprocos entre dos o más personas sólo se podrán expedir copias cuando lo soliciten actuando de consumo, todos los otorgantes, salvo que en el propio documento o en otro posterior esté autorizado alguno de ellos para obtenerlas.
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 228.**
+
+Cuando se trate de copias de testamentos autorizados por los Párrocos de Cataluña, no se librarán las copias, aunque se trate de segundas o ulteriores, sin la previa protocolización de la matriz con arreglo a la legislación civil que corresponde.
+
+> Se modifica por el art. 1.141 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 229.**
+
+Todo el que solicite copia de algún acta o escritura a nombre de quien pueda legalmente obtenerla, acreditará ante el Notario que haya de expedirla el derecho o la representación legal o voluntaria que para ello ostente.
+
+**Artículo 230.**
+
+Podrá pedirse copia por carta u otra comunicación dirigida al notario, y si a éste consta la autenticidad de la solicitud o aparece la firma legitimada y, en su caso, legalizada, expedirá la copia para entregarla a la persona designada o remitirla por correo y certificada al solicitante, sin responsabilidad por la remisión.
+
+> Se modifica por el art. 1.142 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 231.**
+
+Contra la negativa del Notario a expedir una copia se dará recurso de queja ante la Dirección General, la cual, oyendo al propio Notario y a la Junta directiva del Colegio respectivo, dictará la resolución que proceda.
+
+Si la resolución fuese ordenando la expedición de la copia, el Notario lo hará constar en las notas de expedición y suscripción de la misma copia.
+
+**Artículo 232.**
+
+Cuando por algún Juez o Tribunal se ordenare al Notario la expedición de una copia que éste no pueda librar con arreglo a las leyes y Reglamentos, lo hará saber, con exposición de la razón legal que para ello tenga, a la Autoridad judicial de quien emane el mandamiento, y lo pondrá en conocimiento de la Dirección General.
+
+**Artículo 233.**
+
+A los efectos del artículo 517.2.4.º de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, se considera título ejecutivo aquella copia que el interesado solicite que se le expida con tal carácter. Expedida dicha copia el notario insertará mediante nota en la matriz su fecha de expedición e interesado que la pidió. En todo caso, en la copia de toda escritura que contenga obligación exigible en juicio, deberá hacerse constar si se expide o no con eficacia ejecutiva y, en su caso y de tener este carácter, que con anterioridad no se le ha expedido copia con eficacia ejecutiva.
+
+Expedida una copia con eficacia ejecutiva sólo podrá obtener nueva copia con tal eficacia el mismo interesado con sujeción a lo dispuesto en el artículo 517.2.4.º de la Ley de Enjuiciamiento Civil.
+
+Si se expediere sin tal requisito segunda o posterior copia de escritura que contuviere tal obligación, se hará constar en la suscripción que la copia carece de efectos ejecutivos.
+
+Con excepción del juicio ejecutivo y de la regulación del Timbre, todas las copias expedidas por Notario competente se considerarán con igual valor que la primera, sin más limitación que la derivada del artículo 1.220 del Código Civil cuando fueren impugnadas en el juicio declarativo correspondiente, por los trámites de los artículos 597 y 599 de la Ley de Enjuiciamiento Civil.
+
+> Se modifican los párrafos 1 y 2 por el art. 1.143 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 234.**
+
+Cuando los otorgantes de una escritura en cuya virtud pueda exigirse de ellos ejecutivamente el cumplimiento de una obligación o sus sucesores estén conformes con la expedición de segundas o posteriores copias, comparecerán ante el Notario que legalmente tenga en su poder el protocolo, el cual extenderá en la matriz de que se trate una nota suscrita por dichos otorgantes, sus sucesores o quienes los representen y por el propio Notario, en la que se haga constar dicha conformidad.
+
+La conformidad puede mostrarse también en otro documento auténtico o en la forma prevenida en el artículo 230, haciéndose de ello referencia en la nota.
+
+La nota se insertará en la copia que se expida.
+
+Cuando todos o algunos de los interesados no sean conocidos del Notario, se procederá a su identificación en la forma prevenida en el mismo artículo 230.
+
+**Artículo 235.**
+
+Para la obtención de segundas o posteriores copias, cuando sea necesario mandamiento judicial, el interesado deberá solicitarla del Juez de Primera Instancia del distrito donde radique el protocolo, o del Juez que en su caso conozca de los autos a que la copia debe aportarse. En este último caso se procederá según lo dispuesto en la Ley Procesal correspondiente.
+
+Cuando la copia no se solicite del Juez que actúe en pleito o causa, el interesado que la reclame deberá presentar un escrito, sin necesidad de Letrado ni Procurador, expresando el documento de que se trata, la razón de pedirla, y el protocolo, donde se encuentre. El Juez, dentro de una audiencia, dará traslado al Ministerio fiscal cuando no deban ser citados los demás interesados en el documento, por ignorarse su paradero o por estar ausentes del pueblo donde radique la Notaría o Archivo de protocolos correspondiente. Cuando los interesados deban ser citados, lo serán dentro de los tres días siguientes a la presentación del escrito incoando el procedimiento.
+
+Transcurridos otros tres días con o sin impugnación del Fiscal o de los interesados citados, el Juez resolverá, expediendo en su caso, dentro del tercer día, el oportuno mandamiento al Notario o Archivero.
+
+**Artículo 236.**
+
+Las copias se encabezarán con el número que en el protocolo tenga la matriz, y han de ser literalmente reproducción de ella tal como aparezca después de las correcciones hechas, sin que haya de consignarse el particular referente a la salvadura de las mismas.
+
+Si el documento fuere defectuoso por carecer de firma o tener lagunas el texto, se hará constar en caracteres destacados por el subrayado o diverso color o tipo de letra.
+
+Cuando existan en la matriz como documentos complementarios de una escritura o acta los documentos a que se refiere el artículo 214, en la copia hará constar simplemente el Notario que la expida, que hay un plano, fotografía, dibujo, etcétera, como documento complementario o unido, con el número que le corresponda. Si el interesado en la expedición de la copia o en el ejercicio de los derechos que de ella deriven presenta una reproducción del documento de que se trate, el Notario, previo cotejo y caso de coincidencia, hará constar en dicha reproducción por diligencia que corresponde al documento de que se trate y sus circunstancias en el protocolo.
+
+**Artículo 237.**
+
+Es copia parcial la que expide el notario a instancia de parte legitimada para solicitarla reproduciendo o trasladando parte de la matriz, atendido su contenido, el requerimiento y el interés del solicitante.
+
+Se omitirá, cuando no interese al peticionario, en las copias extendidas para el legatario o la persona a cuyo favor haya alguna disposición, no siendo albacea o contador; y en los testamentos mancomunados cuanto sea disposición especial del otorgante que sobreviva.
+
+En toda copia parcial se hará constar, bajo la responsabilidad del Notario, que en lo omitido no hay nada que amplíe, restrinja, modifique o condicione lo inserto; sin perjuicio de que también pueda hacerse extracto o relación breve de aquello.
+
+> Se modifica el párrafo 1 por el art. 1.144 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 238.**
+
+Las primeras copias se expedirán siempre expresando el carácter de tales, y lo mismo se hará con las segundas o posteriores.
+
+Cada vez que se expidan segundas o posteriores copias se anotarán éstas del mismo modo prescrito para las primeras, y se insertarán antes de la suscripción todas las notas que aparezcan en la escritura matriz.
+
+También se mencionará el mandamiento judicial en cuya virtud se expidiesen las segundas o posteriores copias.
+
+**Artículo 239.**
+
+Cuando se expidan segundas o posteriores copias, la numeración ordenada se hará por el Notario con relación a las obtenidas por cada interesado.
+
+**Artículo 240.**
+
+El Notario podrá no expresar el carácter o numeración de las copias:
+
+a) En las de los poderes y testamentos.
+
+b) En las de las transmisiones de dominio si no hubiere precios o sumas aplazados.
+
+c) En la de los negocios jurídicos que no contengan obligación exigible en juicio ejecutivo.
+
+De las actas notariales, se expedirán a los interesados, signadas, firmadas y rubricadas, cuantas copias pidiesen, sin determinar su calidad de primeras, segundas, etcétera, y en la clase de papel sellado que corresponda, sin perjuicio de los requisitos exigidos para determinadas clases de actas.
+
+**Artículo 241.**
+
+En el pie o suscripción de la copia se hará constar, además de las circunstancias expresadas en los artículos 233, 238 y 244, su correspondencia con el protocolo, el concepto en que la tiene quien la expide, si no es el mismo autorizante; la persona a cuya instancia se libra y, en su caso, el fundamento de su interés legítimo, el número de pliegos, o folios, clase, serie y numeración, lugar y fecha, e irán autorizadas con el signo, firma, rúbrica y sello del notario, que rubricará todas las hojas, en las que constará su sello.
+
+Igualmente se reseñarán, rubricarán y sellarán el folio o pliego que se agregue a la copia para la consignación de notas por los Registros y oficinas públicas.
+
+En las copias de testamento no pedidas por el otorgante o apoderado especial se hará mención de haberse acreditado al notario o constarle de ciencia propia el fallecimiento del testador y, en su caso, el parentesco de los peticionarios o su derecho a obtenerlas, caso de que no resulte justificado en el testamento.
+
+Cuando se trate de copias autorizadas de pólizas expedidas al efecto de su ejecución, además de las menciones previstas en el primer párrafo de este artículo, se hará constar al pie que las mismas coinciden exactamente con el original, entendiéndose así cumplido el requisito de conformidad de la póliza a que hace referencia el artículo 517.2.5.º de la Ley de Enjuiciamiento Civil, todo ello sin perjuicio de acompañar, si así se hubiera pactado, la certificación a que se refiere el artículo 572.2 de la Ley de Enjuiciamiento Civil.
+
+Tanto en el pie de copia de escrituras y actas como en los testimonios, además de su sello, el notario impondrá el sello de seguridad creado a tal efecto por el Consejo General del Notariado.
+
+> Se modifica por el art. 1.145 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se añade el párrafo 2 por el art. 3 del Real Decreto 1597/1989, de 29 de diciembre. [Ref. BOE-A-1989-30592](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-30592).
+
+**Artículo 242.**
+
+Las copias que se expidan de los poderes para cobrar haberes pasivos llevarán después del signo y firma del Notario, la del otorgante, legitimada por el propio Notario autorizante o su sustituto o sucesor.
+
+**Artículo 243.**
+
+Las copias en soporte papel no podrán contener interpolaciones, tachaduras, raspaduras o enmiendas, ni siquiera en su pie o suscripción. Cuando fueran advertidos errores u omisiones, se subsanarán mediante diligencia posterior autorizada de igual modo que la copia haciendo constar, además, por nota al margen de ésta, la rectificación.
+
+> Se modifica por el art. 1.146 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 244.**
+
+Al pie o margen de la matriz o en la siguiente si no quedase espacio, se anotará la expedición de la copia, haciendo constar su clase, carácter, persona para quien se ha expedido, fecha y número de los pliegos o folios, autorizándose la nota con media firma del notario.
+
+Se harán constar por nota en matriz, a solicitud de los interesados o cuando al notario le conste, las circunstancias de haberse pagado los impuestos y los datos de inscripción en el registro correspondiente.
+
+> Se modifica por el art. 1.147 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 245.**
+
+Cuando en la misma fecha se expidieran varias copias primeras, segundas o posteriores del mismo documento, se registrará la expedición de todas en una sola nota.
+
+**Artículo 246.**
+
+Asimismo, podrán los Notarios librar testimonios a instancia de los que tuvieren derecho a copia de determinados particulares de las matrices ya literales, en relación o mixtos, conforme al señalamiento hecho por los legítimos interesados, haciendo constar el Notario que la parte no testimoniada no altera, desvirtúa o de algún modo modifica o condiciona la que sea objeto de testimonio; y de existir o no determinados instrumentos en la fecha que se indique y de que aquéllos pudieran pedir copia, haciendo constar en el pie del testimonio el carácter con que se expida.
+
+**Artículo 247.**
+
+Las copias y testimonios deberán extenderse en caracteres perfectamente legibles, pudiendo escribirse a mano, a máquina o por cualquier medio de reproducción sin otra limitación que la impuesta por la facilidad de su lectura, el decoro de su aspecto y su buena conservación.
+
+En su expedición se observarán las disposiciones relativas a líneas y sílabas que para las matrices contiene el artículo ciento cincuenta y cinco de este Reglamento.
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 248.**
+
+Los notarios están obligados a expedir las copias que soliciten los que sean parte legítima para ello, aun cuando no les hayan sido satisfechos los honorarios devengados por la matriz, sin perjuicio de que para hacer efectivos estos honorarios utilicen la acción que les corresponda con arreglo a las leyes.
+
+> Se modifica por el art. 1.148 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 249.**
+
+1\. Las copias deberán ser libradas por los notarios en el plazo más breve posible, dando preferencia a las más urgentes. En todo caso, deberá expedirse en los cinco días hábiles posteriores a la autorización.
+
+2\. Tratándose de copias autorizadas que contengan actos susceptibles de inscripción en el Registro de la Propiedad o en el Registro Mercantil, de conformidad con el artículo 112 de la Ley 24/2001, de 27 de diciembre, a salvo de que el interesado manifieste lo contrario deberán presentarse telemáticamente.
+
+En consecuencia, el notario deberá expedir y remitir la copia autorizada electrónica en el plazo más breve posible y, en todo caso, en el mismo día de autorización de la matriz o, en su defecto, en el día hábil siguiente. Se exceptúa el supuesto de imposibilidad técnica del que deberá quedar constancia en la copia que se expida en soporte papel de la causa o causas que justifican esa imposibilidad, en cuyo caso podrá presentarse mediante telefax en los términos previstos en el apartado siguiente. El notario deberá hacer constar en la matriz mediante diligencia la fecha y hora del acuse de recibo digital del Registro correspondiente, sin perjuicio de hacer constar tales extremos, en su caso, en el Libro Indicador.
+
+El notario será responsable de los daños y perjuicios que se cause al interesado como consecuencia del retraso en la expedición de copia electrónica y su presentación telemática, excepto en los supuestos de imposibilidad técnica.
+
+3\. A salvo de lo dispuesto en el apartado precedente, el notario podrá remitir por telefax el mismo día del otorgamiento al Registro de la Propiedad competente comunicación sellada y suscrita, en su caso, de haber autorizado escritura susceptible de ser inscrita por la que se adquieran bienes inmuebles o se constituya un derecho real sobre ellos, y en los demás casos en que lo solicite algún otorgante, o lo considere conveniente el notario. En su caso, el notario será responsable de los daños y perjuicios que se causen como consecuencia de la presentación telemática de cualquier título relativo al mismo bien y derecho con anterioridad a la presentación por telefax de la comunicación, a salvo de que se hubiera utilizado esta vía por imposibilidad técnica o como consecuencia de que así lo hubiera solicitado el interesado. Dicha comunicación dará lugar al correspondiente asiento de presentación y en ella constarán testimoniados en relación, al menos, los siguientes datos:
+
+a) La fecha de la escritura matriz y su número de protocolo.
+
+b) La identidad de los otorgantes y el concepto en el que intervienen.
+
+c) El derecho a que se refiera el título que se pretende inscribir.
+
+d) La reseña identificadora del inmueble haciendo constar su naturaleza y el término municipal de su situación, con expresión de su referencia catastral y, según los casos, del sitio o lugar en que se hallare si es rústica, nombre de la localidad, calle, plaza o barrio, el número si lo tuviere, y el piso o local, si es urbana, y, salvo en los supuestos de inmatriculación, los datos registrales.
+
+El notario hará constar en la escritura matriz, o en la copia si ya estuviese expedida ésta, la confirmación de la recepción por el Registrador y su decisión de practicar o no el asiento de presentación, que éste deberá enviar el mismo día o en el siguiente hábil.
+
+> Se modifica por el art. 1.149 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 2 del Real Decreto 2537/1994, de 29 de diciembre. [Ref. BOE-A-1995-1851](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-1851).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 45, de 22 de febrero de 1995. [Ref. BOE-A-1995-4476](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-4476)
+
+> Se añaden los párrafos cuarto y quinto por el art. 1.2 del Real Decreto 1558/1992, de 18 de diciembre. [Ref. BOE-A-1993-3255](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-3255).
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+##### Sección 6.ª Testimonios del Libro-Registro
+
+> Se añade por el art. 1.150 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 250.**
+
+A los efectos de lo dispuesto en el artículo 517.2.5.º de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, se considera título ejecutivo el testimonio expedido por el notario del original de la póliza debidamente conservada en su Libro Registro acompañada, si así se hubiera pactado, de la certificación a que se refiere el artículo 572.2 de dicha Ley de Enjuiciamiento Civil.
+
+Los testimonios del Libro Registro se expedirán previa petición de persona con derecho a solicitarla y en un plazo no superior a diez días hábiles. Tienen derecho a ellas los contratantes u otorgantes, sus causahabientes, sus apoderados con poder bastante y la autoridad judicial, así como las personas a cuyo favor resulte de la póliza o del documento algún derecho, ya sea directamente, ya adquirido por acto distinto de ella y quienes acrediten, a juicio del notario, tener interés legítimo.
+
+Los testimonios sólo podrán ser expedidos por el notario, respecto de los libros registros de su notaria, por su sustituto, sucesor, habilitado o por el archivero de protocolos tratándose de libros depositados en el archivo del Colegio Notarial.
+
+En todo testimonio de póliza y, en su caso, de asiento del Libro Registro se hará constar:
+
+1.º El nombre y apellidos del notario que la expide así como, en su caso, el carácter con el que actúe.
+
+2.º La indicación del solicitante a cuya petición se expide.
+
+3.º La referencia al número y fecha a que corresponde el asiento del Libro Registro objeto de testimonio.
+
+4.º El contenido literal, total o parcial, o en extracto, del asiento a que se refiera el testimonio, según proceda, pudiendo utilizarse cualquier procedimiento de reproducción.
+
+5.º Su finalidad o no ejecutiva. Si se solicitara con efecto ejecutivo se hará constar en la póliza mediante nota y, asimismo, en el testimonio que dicho interesado no ha solicitado otro con tal carácter.
+
+6.º El lugar, fecha de su expedición, dación de fe pública y signo, firma, rúbrica y sello del notario.
+
+La expedición del testimonio se hará constar en el asiento del Libro Registro y con expresión de la persona para quien se haya expedido y la fecha, autorizándose la nota con media firma. Cuando en la misma fecha se expidieran varios testimonios del mismo documento se registrará la expedición de todas en una sola nota.
+
+Sin perjuicio de sus efectos prevenidos en la Ley de Enjuiciamiento Civil, el testimonio del Libro Registro relativo a la incorporación de un documento intervenido, tendrá el mismo valor y eficacia que éste, salvo que las leyes dispongan otra cosa.
+
+Los testimonios en extracto acreditan los extremos que en ellas se comprendan, a instancia del solicitante, debiendo el Notario indicar si en lo omitido existe algún elemento que pudiere afectar, modificar o alterar los efectos de los extremos certificados.
+
+En ningún caso incluirán los testimonios firmas de los otorgantes, siendo de aplicación a los mismos, en cuanto sean compatibles con su naturaleza relativas a documentos no matrices, las disposiciones referentes a las copias contenidas en la Sección 4.ª anterior. Los testimonios se extenderán en folios de papel exclusivo para documentos notariales debiendo superponerse el sello de seguridad. Si no fuera posible expedir testimonio en folio de papel exclusivo notarial, se podrá extender en papel común, en cuyo caso y además de los extremos previstos en este artículo, se firmarán y sellarán todos y cada uno de los folios empleados.
+
+Tratándose de Libros registros depositados en los Colegios Notariales, los testimonios de las pólizas, serán expedidas por los notarios Archiveros.
+
+Las Juntas Directivas de los Colegios en orden a un mejor cumplimiento de su función podrán disponer que, en Distritos notariales, distintos del de residencia del Colegio, los Libros Registro que tengan en depósito sean custodiados por un notario en ejercicio en aquellos. Dichas disposiciones de las Juntas Directivas podrán ser revocadas en cualquier momento. Tanto las disposiciones como las revocaciones deberán ser puestas en conocimiento del Consejo General. Los notarios a quienes se les encomiende la custodia de los Libros Registro estarán facultados para expedir por designación de la Junta Directiva testimonios de los documentos contenidos en los mismos.
+
+El importe arancelario a percibir por estos testimonios se considerará ingreso del Colegio.
+
+> Se modifica por el art. 1.151 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+#### CAPÍTULO III — De otros documentos notariales
+
+##### Sección 1.ª Testimonios por exhibición
+
+> Se añade por el art. 1.152 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 251.**
+
+Mediante los testimonios por exhibición los notarios efectúan la reproducción auténtica de los documentos originales que les son exhibidos a tal fin o dan fe de la coincidencia de los soportes gráficos que les son entregados con la realidad que observen.
+
+El testimonio por exhibición no implica el juicio del notario sobre la autenticidad o autoría del documento testimoniado. Si el original testimoniado fuese a su vez copia de otro documento, el testimonio tampoco implicará la concordancia entre ambos, salvo que el notario la haga constar expresamente.
+
+También podrán ser utilizados estos testimonios para dar fe de la presencia de una persona ante el notario.
+
+> Se modifica por el art. 1.153 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 252.**
+
+No podrán ser testimoniados:
+
+1.° Los documentos matrices que conforman el protocolo, sin más excepciones que las previstas en este Reglamento. Los documentos unidos a una matriz podrán ser objeto de testimonio identificando en éste la matriz a la que se hallan incorporados.
+
+2.° Los redactados en lengua que no sea oficial en el lugar de expedición del testimonio y que el notario desconozca, salvo que les acompañe su traducción oficial.
+
+Los documentos privados que deban ser obligatoriamente presentados ante la Administración Tributaria sólo podrán ser testimoniados cuando conste su presentación.
+
+> Se modifica por el art. 1.154 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 253.**
+
+Los notarios podrán testimoniar en soporte papel, bajo su fe, las comunicaciones o notificaciones electrónicas recibidas o efectuadas conforme a la legislación notarial, debiendo almacenar en soporte informático adecuado las procedentes de otros notarios, registradores de la propiedad y mercantiles y otros órganos de la Administración estatal, autonómica, local y judicial.
+
+La Dirección General de los Registros y del Notariado determinará los soportes en que deba realizarse el almacenamiento y la periodicidad con la que su contenido deba ser trasladado a un soporte nuevo, tecnológicamente adecuado, que garantice en todo momento su conservación y lectura.
+
+> Se modifica por el art. 1.155 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 254.**
+
+Cuando en una escritura matriz o en una póliza haya de servir como documento complementario alguno que se halle en el Protocolo o Libro Registro a cargo del notario autorizante o de sus antecesores, podrá éste insertarlo, relacionarlo o reproducirlo total o parcialmente en aquélla, refiriéndose a la correspondiente matriz o asiento sin necesidad de obtener copia o testimonio independiente del mismo, y bastará que así lo haga constar en el original.
+
+También podrá el notario hacer referencia en el documento que autorice o intervenga a la existencia del documento complementario en el Protocolo o Libro-Registro y reproducirlo únicamente en las copias que expida.
+
+> Se modifica por el art. 1.156 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+##### Sección 2.ª Testimonio por vigencia de leyes
+
+> Se añade por el art. 1.157 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 255.**
+
+Los notarios podrán expedir testimonios cuyo objeto sea acreditar en el extranjero la legislación vigente en España o el estatuto personal del requirente.
+
+> Se modifica por el art. 1.158 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+##### Sección 3.ª Testimonios de legitimación de firmas
+
+> Se añade por el art. 1.159 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 256.**
+
+La legitimación de firmas es un testimonio que acredita el hecho de que una firma ha sido puesta a presencia del notario, o el juicio de éste sobre su pertenencia a persona determinada.
+
+El notario no asumirá responsabilidad por el contenido del documento cuyas firmas legitime.
+
+> Se modifica por el art. 1.160 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 257.**
+
+La nota de Visto y legitimado, con la fecha y todos los elementos de autorización notariales puestas al pie de cualquier documento oficial, o expedido por funcionario público en el ejercicio de su cargo es testimonio de que el notario considera como auténticas, por conocimiento directo o identidad con otras indubitadas, las firmas de los funcionarios autorizantes, y hallarse éstos, según sus noticias, en el ejercicio de sus cargos a la fecha del documento.
+
+> Se modifica por el art. 1.161 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 258.**
+
+Sólo podrán ser objeto de testimonios de legitimación de firmas los documentos y las certificaciones que hayan cumplido los requisitos establecidos por la legislación fiscal, siempre que estos documentos no sean de los comprendidos en el artículo 1280 del Código Civil, o en cualquier otro precepto que exija la escritura pública como requisito de existencia o de eficacia. Queda a salvo lo dispuesto en el artículo 207 de este Reglamento.
+
+No podrán ser objeto de dichos testimonios la prestación unilateral de garantías, ni los contratos de carácter mercantil que el artículo 144 de este Reglamento define como propios de las pólizas cuando exista pluralidad de partes con intereses contrapuestos.
+
+> Se modifica por el art. 1.162 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 259.**
+
+El notario podrá basar el testimonio de legitimación en el hecho de haber sido puesta la firma en su presencia, en el reconocimiento hecho en su presencia por el firmante, en su conocimiento personal, en el cotejo con otra firma original legitimada o en el cotejo con otra firma que conste en el protocolo o Libro Registro a su cargo, debiendo reseñar expresamente en la diligencia de testimonio el procedimiento utilizado.
+
+Dentro del ámbito de los documentos susceptibles de testimonio, sólo podrán ser legitimadas cuando sean puestas o reconocidas en presencia del notario las firmas de letras de cambio y demás documentos de giro, de pólizas de seguro y reaseguro y, en general, las de los documentos utilizados en la práctica comercial o que contengan declaraciones de voluntad.
+
+> Se modifica por el art. 1.163 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 260.**
+
+Si el que hubiere de suscribir un documento que haya de ser legitimado no sabe o no puede firmar, o en cualquier otro supuesto en el que proceda la legitimación de la huella dactilar, el interesado, previa su identificación, imprimirá la huella dactilar en la forma prevenida en el artículo 191 de este Reglamento a presencia del notario, quien lo hará constar así en la diligencia de testimonio.
+
+> Se modifica por el art. 1.164 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 261.**
+
+1\. El notario podrá legitimar las firmas electrónicas reconocidas puestas en los documentos en formato electrónico comprendidos en el ámbito del artículo 258. Esta legitimación notarial tendrá el mismo valor que la que efectúe el Notario respecto de documentos en soporte papel. La legitimación notarial de firma electrónica queda sujeta a las siguientes reglas:
+
+1.ª El notario identificará al signatario y comprobará la vigencia del certificado reconocido en que se base la firma electrónica generada por un dispositivo seguro de creación de firma.
+
+2.ª El notario presenciará la firma por el signatario del archivo informático que contenga el documento.
+
+3.ª La legitimación se hará constar mediante diligencia en formato electrónico, extendido por el notario con firma electrónica reconocida.
+
+2\. La legitimación a que se refiere el apartado anterior se entenderá sin perjuicio de aquellos otros procedimientos de legitimación, distintos del notarial, previstos en la legislación vigente.
+
+> Se modifica por el art. 1.165 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 262.**
+
+La diligencia del testimonio se extenderá en el propio documento testimoniado. De no ser posible se unirá a éste un folio de papel exclusivo para documentos notariales en el que se realizará la diligencia, reseñando en el documento testimoniado la numeración del folio que la contiene. En uno y otro caso, si el documento contuviere varios folios objeto de testimonio, sea de exhibición o de legitimación de las firmas que éstos contienen, en todos deberá constar la identificación del folio que contiene la diligencia o la referencia al asiento correspondiente en el Libro Indicador. Si el testimonio se hallare totalmente extendido en folios de papel exclusivo para documentos notariales, bastará con reseñar su numeración en la diligencia.
+
+Los testimonios por exhibición deberán realizarse en papel de uso exclusivo para documento notarial, salvo que el formato del documento testimoniado lo impida.
+
+En la diligencia de testimonio se hará constar lugar, fecha, signo, firma rubrica y sello del notario y el de seguridad creado por el Consejo General del Notariado. Si el documento constare en el Libro Indicador se reseñará el número que le corresponda.
+
+> Se declara la nulidad del párrafo 1 por Sentencia del TS de 20 de mayo de 2008. [Ref. BOE-A-2008-10272](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10272).
+
+> Se modifica por el art. 1.166 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 263.**
+
+También tienen la consideración de testimonios las reproducciones obtenidas por el notario de documentos exhibidos para su incorporación a un instrumento público, así como las legitimaciones de firmas practicadas en el cuerpo de dicho instrumento.
+
+Dichos testimonios no se incorporarán al Libro Indicador.
+
+> Se modifica por el art. 1.167 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+##### Sección 4.ª Disposiciones comunes a las secciones anteriores
+
+> Se añade por el art. 1.168 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 264.**
+
+Los notarios llevarán un libro indicador para cada año natural, integrado por dos secciones, en la primera página de cada una de las cuales pondrán nota de apertura y en la final otra de cierre, ambas autorizadas con firma entera.
+
+La sección primera de este libro se llevará mediante asientos numerados con carácter consecutivo para cada anualidad, autorizados con media firma, que contendrán la fecha y las circunstancias necesarias para la debida identificación de la actuación que motive el asiento.
+
+No será necesaria la inclusión en los supuestos en los que el traslado a papel de una copia electrónica haya quedado incorporado a una escritura o acta matriz, así como de los acuses de recibo digitales que consten por nota en una escritura o acta matriz.
+
+En dicha sección se anotarán:
+
+a) La fecha de traslado a papel de las copias electrónicas indicando la identidad del notario que expide la copia autorizada electrónica, conforme a los párrafos cuarto y quinto del artículo 17 bis de la Ley del Notariado.
+
+b) Los testimonios en soporte papel de las comunicaciones o notificaciones electrónicas recibidas o efectuadas por los notarios conforme a la legislación notarial que se relacionen directamente con un determinado documento autorizado o intervenido.
+
+c) Las legitimaciones de firmas electrónicas reconocidas en los documentos en formato electrónico, previstas en el artículo 261 de este reglamento. En estos casos el notario dejará constancia de la identidad de los particulares cuyas firmas electrónicas reconocidas han sido legitimadas y, en su caso, la fecha de remisión del archivo informático a un registro público y los datos de presentación que sean remitidos por el registrador al notario amparados con su firma electrónica reconocida; cuando tales actuaciones se realicen en la fecha del testimonio se harán constar mediante asiento complementario, con numeración propia, relacionado con el principal.
+
+La sección segunda de este libro se llevará mediante la incorporación de hojas numeradas en las que se reproduzcan los documentos testimoniados que constituyen su ámbito. Esta sección comprenderá los testimonios por exhibición, de vigencia de leyes, de legitimación de firmas, las certificaciones de saldo y de asiento que se realicen en soporte papel.
+
+El Notario podrá, bajo su responsabilidad, excluir la incorporación de los testimonios por exhibición que tengan por objeto documentos suficientemente identificables.
+
+La incorporación de la reproducción al libro indicador presupondrá la dación de fe de coincidencia respecto del testimonio correspondiente por parte del notario.
+
+Transcurrido un año desde el cierre anual de cada una de las secciones el Notario podrá reproducirlas en un archivo informático que garantice su conservación y reproducción, procediendo en tal caso a la destrucción del soporte papel correspondiente.
+
+> Se modifica por el art. 1.169 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+##### Sección 5.ª Legalizaciones
+
+> Se añade por el art. 1.170 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 265.**
+
+Por la legalización se declara que el signo, firma y rúbrica de un notario extendido en un documento coincide con el que habitualmente usa y figura registrado en el Colegio Notarial. Es competente para efectuar la legalización el Decano del Colegio Notarial, el o los miembros de la Junta Directiva a quien a estos efectos expresamente faculte y el Delegado o subdelegado de aquélla a quien expresamente el Decano le atribuya esta competencia.
+
+> Se modifica por el art. 1.171 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 266.**
+
+Para la legalización se utilizarán las fórmulas previstas en los Tratados internacionales o la siguiente: "El Decano del Ilustre Colegio Notarial legalizó el signo, firma y rúbrica que anteceden, del notario. N.N. (Aquí la fecha)".
+
+Esta fórmula se empleará siempre que la firma legalizada sea igual, al parecer, a la que el notario acostumbra a usar, y que a la fecha del documento se halle en ejercicio del cargo, sin que le conste nada en contrario.
+
+Cuando la legalización se ponga o concluya en pliego o folio distinto, se hará en ella sucinta relación del documento, cuyo signo, firma y rúbrica se haya legalizado, y, en su caso, el número del pliego o folio en que aparezcan las firmas legalizadas.
+
+> Se modifica por el art. 1.172 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 267.**
+
+Las legalizaciones llevarán sobrepuesto un sello de los Colegios Notariales, así como el sello de seguridad creado por el Consejo General del Notariado, con las características que determine dicho órgano.
+
+La Junta Directiva dispondrá las tiradas de estos dos tipos de sellos, únicos que podrán unirse a las legalizaciones y de que estará provisto el Colegio Notarial.
+
+> Se modifica por el art. 1.173 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 268.**
+
+Cuando se trate de documentos que hayan de surtir efecto en el extranjero y el Cónsul del país respectivo no legalice directamente la firma del notario autorizante, el Decano del Colegio Notarial, o quien le sustituya, haciendo constar necesariamente, en este caso, su cualidad de Decano accidental, legalizará la firma del notario.
+
+La firma de los Decanos será legalizada por la Dirección General.
+
+A este efecto, las Juntas Directivas remitirán a la Dirección General la firma del Decano y de quien legalmente le sustituya, para que puedan ser comprobadas.
+
+> Se modifica por el art. 1.174 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 269.**
+
+Lo dispuesto en el artículo anterior se entiende sin perjuicio de la legalización realizada mediante la apostilla establecida en el Real Decreto 2433/1978, de 2 de octubre, dictada en aplicación del Convenio Internacional de La Haya de 5 de octubre de 1961.
+
+> Se modifica por el art. 1.175 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 270.**
+
+Ningún Decano o sustituto a efectos de legalizaciones podrá negarse a legalizar sin justa causa; pero si prudentemente dudase del signo y firma, podrá diferir su legalización por veinticuatro horas, a fin de desvanecer sus dudas.
+
+Si no lo consiguiese, podrá negarse a legalizar, reteniendo el documento y dando parte inmediatamente a la Junta Directiva, con expresión de la causa, para que adopte con urgencia las medidas que procedan.
+
+> Se modifica por el art. 1.176 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 271.**
+
+Podrán usarse cajetines o medio de impresión adecuado para los testimonios de legitimidad de firmas de funcionarios y particulares y legalizaciones notariales.
+
+#### CAPÍTULO IV — De la conservación de los instrumentos públicos
+
+##### Sección 1.ª De los protocolos, del libro-registro y de los índices
+
+> Se modifica por el art. 1.177 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+###### Subsección 1.ª De los protocolos
+
+> Se añade por el art. 1.178 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 272.**
+
+El protocolo notarial comprenderá los instrumentos públicos y demás documentos incorporados al mismo en cada año, contado desde primero de enero a treinta y uno de diciembre, ambos inclusive, aunque en su transcurso haya vacado la Notaría y se haya nombrado nuevo Notario.
+
+Asimismo se incorporarán al protocolo las pólizas siempre que el notario así lo hubiera comunicado al Colegio Notarial en los plazos y modo previsto en el artículo 283 de este Reglamento.
+
+Las pólizas incorporadas al protocolo se numerarán conforme a lo previsto en la normativa notarial.
+
+Las Juntas directivas de los Colegios Notariales, dando cuenta a la Dirección General, podrán autorizar a los Notarios de aquellas poblaciones en que se autorice habitualmente un número de instrumentos elevado, para abrir, además del protocolo ordinario, uno especial de protestos de letras de cambio y de otros documentos mercantiles, con numeración propia y con apertura y cierre en las mismas fechas indicadas en el párrafo anterior. La Dirección General podrá dar instrucciones especiales sobre la conservación y encuadernación de este protocolo.
+
+> Se modifica por el art. 1.179 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 273.**
+
+El primer día de cada año se abrirá el protocolo, extendiendo una nota que diga así:
+
+«Protocolo de los instrumentos públicos correspondientes al año…» (Fecha en letra, firma y rúbrica del Notario).
+
+Una nota análoga pondrá el nuevo Notario en cualquier día del año en que empiece a ejercer el cargo.
+
+El último día del año se cerrará el protocolo con la siguiente nota:
+
+«Concluye el protocolo del año de …, que contiene (tantos) instrumentos y (tantos) folios, autorizados durante el mismo en esta Notaría». Y fechará en letra, firmará y rubricará.
+
+**Artículo 274.**
+
+Los protocolos son secretos. Con los protocolos especialmente reservados de que tratan los artículos 34 y 35 de la Ley se observarán las formalidades descritas para los protocolos generales en la parte que les corresponda, cumpliendo las prescripciones de los citados artículos de la Ley.
+
+Se encuadernarán al final del año en que se haya autorizado el número 100, o antes, a juicio del Notario, si su volumen lo exigiera, y el rótulo especial del tomo será:
+
+Para los protocolos a que se refiere el artículo 34 de la Ley: «Protocolo reservado testamentario.—Año de …» (en guarismo).
+
+Para los protocolos de que trata el artículo 35 de la Ley: «Protocolo reservado.—Filiaciones.—Año de …» (en guarismos).
+
+**Artículo 275.**
+
+Cuando el protocolo anual lo requiera por su volumen a juicio del Notario, podrá encuadernarse en más de un tomo, en cuyo caso se cerrará el primero y se empezará el segundo con la nota antes expresada, modificada en la parte precisa para designar los meses que contenga cada tomo.
+
+Los diferentes tomos no se considerarán como distintos protocolos, por lo cual no se interrumpirá ni volverá a empezar en el segundo la foliación del primero, debiendo expresarse en la nota final del último tomo de cada protocolo, además del número de instrumentos y folios del tomo, el número de instrumentos y folios de tomos, reunidos, que forman el protocolo.
+
+Las notas de apertura y cierre del protocolo se pondrá en pliego separado de la clase última. Este pliego no se foliará.
+
+**Artículo 276.**
+
+En los dos primeros meses de cada año deberán quedar encuadernados los protocolos en pergamino o en piel; la encuadernación se hará a pasta entera, con una caja de cartón, piel o pergamino, que impida el deterioro de su contenido.
+
+Se pondrán también unas correas para que pueda abrocharse la cubierta exterior.
+
+En el lomo del protocolo se pondrá la siguiente inscripción: «Protocolo.—Año de …» (en guarismo), y expresión de la residencia del Notario.
+
+La encuadernación de los protocolos, cuando no haya sido hecha por el Notario, se verificará por el Colegio Notarial, reintegrándose éste de su importe con cargo a la fianza del Notario.
+
+Cuando se trate de Notarías incongruas o de escaso rendimiento y los fondos del Colegio lo permitan, los Notarios titulares de las mismas podrán solicitar de la Junta directiva, y ésta conceder, la encuadernación a expensas del Colegio.
+
+**Artículo 277.**
+
+Vacante una Notaría, el Delegado o Subdelegado de las Juntas en el distrito correspondiente, y donde no la hubiera, el Juez de primera instancia o el municipal, en su caso, pondrán a continuación de la última escritura del protocolo corriente de instrumentos públicos la siguiente nota: «Queda vacante esta Notaría ……, por (fallecimiento, renuncia o lo que sea), resultando en este protocolo autorizados hasta hoy (tantos) instrumentos públicos y (tantos) folios». Fecha en letra y firma del Delegado o Subdelegado, o del Juez, con la de su respectivo Secretario.
+
+El funcionario que haya autorizado esta diligencia dará inmediatamente cuenta a las Juntas de haberse cumplido el servicio.
+
+**Artículo 278.**
+
+Puesta la nota a que se refiere el artículo anterior en el protocolo de una Notaría vacante, no podrá incorporarse al mismo ningún otro documento, a no ser por el Notario sucesor en quien la misma vacante hubiese sido provista.
+
+Mientras la Notaría no esté provista definitivamente, todos los documentos autorizados por el Notario sustituto se incorporarán al protocolo de éste.
+
+**Artículo 279.**
+
+Los Notarios y Archiveros serán responsables de la integridad y conservación de los protocolos.
+
+En el caso de inutilizarse todo o parte de un protocolo, además de las obligaciones del artículo 39 de la Ley, el Notario tendrá la de comunicarlo a la Junta directiva del Colegio, y ésta a la Dirección. Si el Notario interesado no pudiese cumplir con lo dispuesto en el citado artículo y en el presente, lo verificará cualquier otro de la misma residencia a cuyo conocimiento llegase el hecho. En su defecto, estará obligado a hacerlo el Juez de Primera Instancia o, en su caso, el Municipal.
+
+Si se deteriorasen por falta de diligencia, los Notarios y Archiveros lo repondrán a sus expensas, incurriendo además en responsabilidad disciplinaria.
+
+Si resultase motivo racional para sospechar que hubo delito, se pondrá en conocimiento de los Tribunales a los efectos procedentes.
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 280.**
+
+La reconstitución de protocolos notariales deteriorados o destruidos total o parcialmente se ajustará a las siguientes normas:
+
+1.ª El Notario titular y el Delegado de la Junta directiva del Colegio Notarial practicarán una visita extraordinaria a la Notaría y levantarán un acta, haciendo constar:
+
+a) Las circunstancias y extensión del siniestro, en su caso, y daños causados.
+
+b) El número de protocolos o de instrumentos, en su caso, y de libros inutilizados, consignando el mayor número posible de circunstancias y detalles necesarios para que pueda llegarse al conocimiento exacto de cuáles son los documentos o libros deteriorados o inutilizados. En el caso de ser pocos los documentos destruidos, deberá especificarse el número y clase de éstos, y en otro caso, bastará referirse al contenido de los índices. Del acta se remitirá una copia autorizada por ambos Notarios al Colegio Notarial, y la Junta directiva de éste adoptará las medidas de publicidad que estime necesarias para que la destrucción o deterioro de protocolo llegue a conocimiento de los interesados para que éstos puedan incoar el oportuno expediente.
+
+2.ª Los documentos que se hayan salvado deberán encuadernarse aún cuando falten algunos de numeración intermedia, interpolándose, en tal caso, en sustitución de los que falten, una hoja, en la que se hará constar que tales números intermedios desaparecieron o se inutilizaron, haciéndose referencia el acta en que así se acredite. Tal hoja se colocará en el lugar correspondiente al número o números inutilizados, y podrá emplearse una sola hoja para varios números o instrumentos, si éstos fuesen correlativos. En la misma se hará constar por nota suscrita por el Notario el hecho de la reconstitución, cuando ésta se verificare, con expresión de la fecha y número del acta de protocolización.
+
+3.ª Los documentos que no sean susceptibles de encuadernación se conservarán en sendas carpetas, con la numeración que, conforme a los índices, les corresponda dentro del año respectivo.
+
+4.ª Para la reconstitución de cada instrumento público inutilizado, deberá formalizarse un expediente al siguiente tenor:
+
+a) Se incoará mediante instancia de parte interesada o de su representante, y se reconoce personalidad para este objeto a las personas que, de conformidad con lo dispuesto en los artículos 17 de la Ley de 28 de mayo de 1862, y 224 y siguientes de este Reglamento, tengan derecho a obtener copia autorizada del documento que se trate de reconstruir.
+
+b) La instancia se presentará ante el Notario titular, el cual consignará con certificación, a continuación de la instancia. Lo que resulte del acta expresada en la regla primera en lo que haga relación al instrumento que se trate de reconstituir; también certificará de lo que resulte en los índices respecto del mismo instrumento, y si éstos hubiesen desaparecido, se incorporará certificación de los del Colegio Notarial.
+
+c) El solicitante presentará también los medios de prueba, expresará los nombres de las personas que hayan de declarar y manifestará los nombres y domicilios de las que sepa que tienen su domicilio en España y están interesadas en el documento.
+
+d) Los medios de prueba serán: las copias autorizadas con las formalidades de derecho, las demás copias y los testimonios, los documentos que hagan referencia a las mismas copias o a los originales o sean consecuencia o efecto de unas y otros, los certificados y documentos expedidos en los Registros y oficinas públicas, las declaraciones de los testigos, los informes periciales, la declaración jurada de los interesados o de sus representantes y cualquier otro medio que se estime pertinente.
+
+e) Si se presentare copia del documento inutilizado expedida con las formalidades del derecho, el Notario la remitirá a la Junta directiva del Colegio Notarial, la cual acordará su protocolización si la considera auténtica, después de cotejar el signo, firma y rúbrica con los que obran en el correspondiente libro del mismo o de otro Colegio, consignándose como resultado de tal cotejo una legalización por el Decano y el Secretario del Colegio Notarial a continuación de la copia misma, expresando en ella que se hace para los efectos de protocolización en sustitución del original, y en caso contrario, denegará la protocolización y devolverá el expediente, que podrá ser ampliado con otras pruebas, tramitándose en la forma que se expresa en los apartados siguientes.
+
+f) En los demás casos, el Notario citará, con la mayor urgencia, a los interesados en el documento, señalándoles un plazo no menor a treinta días para que comparezcan en la Notaría. También se citará al Notario autorizante del documento inutilizado, si no fuera el mismo titular, para que remita declaración detallada, autorizada con su signo, firma y sello, o concurra el día que se haya de examinar la prueba.
+
+g) El examen y desarrollo de prueba se consignará en un acta, en la cual el Notario titular hará constar el resultado de las declaraciones y reseñará con detalle las copias y documentos presentados, y si el Notario autorizante del documento fuera el mismo titular de la Notaría hará constar, además, lo que conozca directamente sobre dicho documento. La prueba deberá dirigirse a demostrar el contenido y la forma del instrumento que se trate de reconstruir o los detalles que falten (en los casos de deterioro parcial) y, por tanto, se dirá su clase y se expresará fielmente su contenido. En el desarrollo de la prueba, el Notario que interviene deberá cerciorarse de la firmeza de las declaraciones y requerirá al solicitante y a los declarantes para que manifiesten si conocen el domicilio en España de alguno o algunos de los interesados en el documento que no hubiesen sido citados personalmente, y en tal caso, se les notificará la existencia del expediente y el trámite en que se halle. Al levantar el acta hará constar, razonándolo, el juicio que la prueba le merezca.
+
+h) Todas las citaciones y notificaciones se practicarán con la máxima urgencia, y se expresarán por diligencia en el expediente, bajo la responsabilidad del Notario que lo instruya.
+
+i) Aportada y ultimada la prueba, se remitirá el expediente a la Junta directiva del Colegio Notarial, la cual emitirá informe razonado y, a su vez, lo remitirá al Juzgado de Primera Instancia del partido donde radique la Notaría cuyo protocolo se trate de reconstituir.
+
+j) El Juez de Primera Instancia examinará el expediente, apreciará la prueba que, en caso necesario, podrá ampliar para mejor proveer, y si la encontrase bastante y eficaz, aprobará el expediente y ordenará que se protocolice.
+
+k) La protocolización se concretará al auto judicial y al documento mismo que, según lo acreditado en el expediente, ha de sustituir al original destruido, y los demás documentos del expediente se conservarán en la Notaría en legajo especial al cual se hace referencia al formalizarse la protocolización.
+
+5.ª El instrumento público así reconstituido tendrá la eficacia jurídica correspondiente al original destruido.
+
+6.ª En el caso de que se impugnare por quien justifique interés legítimo la reconstitución del instrumento durante la tramitación del expediente, éste quedará en suspenso hasta que termine el juicio declarativo que el impugnante promueva. Si no se promoviere en el plazo de treinta días, se levantará la suspensión, así como en el caso de caducidad de la instancia.
+
+7.ª Cualquier inexactitud sustantiva en las declaraciones juradas que formulen los interesados o sus representantes, será considerada como falsedad en documento público.
+
+8.ª Los derechos de los Notarios y de los demás funcionarios que intervengan en la reconstitución de protocolos, se regularán por sus respectivos aranceles, reduciéndolos al diez por ciento.
+
+9.ª En su actuación profesional referente a la reconstitución de protocolos, los Notarios quedan exentos de pagar la contribución de utilidades y las cantidades por folio protocolado correspondientes a la Mutualidad Notarial.
+
+**Artículo 281.**
+
+La protocolización de toda clase de actos y contratos corresponde exclusivamente a los Notarios. Queda prohibida la formación de protocolos a toda entidad o persona que no sea Notario público, con arreglo a la Ley y al presente Reglamento.
+
+**Artículo 282.**
+
+Cuando con arreglo al artículo 32 de la Ley proceda que el Notario deje examinar por las partes interesadas con derechos adquiridos, sus herederos o causahabientes, un instrumento contenido en el protocolo, cuidará, bajo su más estrecha responsabilidad, que la lectura se limite al documento en que tengan aquéllos interés y que no pueda sufrir el protocolo el menor daño o deterioro, y a tales efectos, el Notario buscará personalmente la escritura señalada y la pondrá de manifiesto a los interesados, no consintiendo se saquen notas o extractos de ella, ni que sea hojeado el protocolo, sino en cuanto sea indispensable para la lectura de la matriz de que se trate, debiendo verificarse la exhibición ante dos testigos y extendiéndose de ella la oportuna acta.
+
+###### Subsección 2.ª Del Libro-Registro
+
+> Se añade por el art. 1.180 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 283.**
+
+Los notarios estarán obligados a llevar y conservar un Libro-Registro de Operaciones Mercantiles con los requisitos establecidos en las leyes y en el presente Reglamento. El Libro-Registro consta de dos Secciones. En la Sección A está constituida por la colección, ordenada por fechas, de las pólizas originales de contratos mercantiles intervenidas durante un año, que habrá de encuadernarse por años en uno o más tomos. A tal fin, se presume que las pólizas se incorporan al Libro Registro, salvo que el notario comunique al Colegio Notarial que opta por incorporarlas al protocolo. Dicha comunicación deberá realizarse en el mes de diciembre, para la totalidad del año inmediato posterior, no pudiendo ser modificada durante éste. En la Sección B se asentarán por orden de fecha y correlativamente las intervenciones de aquellos documentos originales que por su naturaleza no pueda conservarse en poder del notario el original.
+
+Las condiciones de confección, llevanza y conservación del Libro Registro serán las mismas establecidas para el protocolo, en cuanto no se opongan a la naturaleza y requisitos de los documentos incorporados.
+
+El Libro-Registro tendrá carácter de Registro Oficial.
+
+El contenido del libro-registro no podrá ser revelado por el notario salvo en los mismos supuestos que el protocolo.
+
+El notario custodiará en su oficina, bajo su responsabilidad, su libro-registro, debiendo realizarse, precisamente en dicha oficina, los cotejos procedentes con los mismos requisitos que se establecen para el cotejo de protocolo.
+
+Los documentos y, en su caso, asientos a que se refiere el párrafo primero de este artículo se incorporarán o practicarán en el libro-registro por orden cronológico en cada una de sus Secciones numerados correlativamente, empezando cada año natural por el número uno, sin que el cese del Notario y la toma de posesión de su sustituto interrumpa la numeración. El paso de un tomo a otro se hará respetando la correlación de números y fechas.
+
+Al principio de cada año natural se efectuará una diligencia de apertura del libro registro y al final del último documento y, en su caso, asiento de cada año natural una diligencia de cierre.
+
+Al final del tomo del Libro Registro de Operaciones correspondiente a la Sección A se expresará el número de pólizas y de folios de que constare. En el tomo relativo a la Sección B se expresará el número de asientos y de folios de que constare.
+
+Cuando proceda, se podrán realizar anotaciones en las hojas del libro-registro, manualmente, en forma mecanográfica o utilizando cualquier otro procedimiento de reproducción. Las anotaciones deberán autorizarse por el notario con media firma.
+
+El libro registro se llevará al día, sin hacer interpolaciones, tachaduras, raspaduras o enmiendas. Cuando fueran advertidos errores u omisiones, se extenderán asientos de rectificación o complementarios, con fecha corriente, efectuándose la correspondiente nota al margen del asiento originario.
+
+Los tomos se numerarán correlativamente a partir de la unidad. Cada tomo no podrá exceder de seiscientas hojas.
+
+La encuadernación se efectuará por los procedimientos técnicos que impidan que, en un uso normal de los libros, las hojas que los componen puedan llegar a soltarse o separarse del mismo.
+
+Las Secciones A y B del Libro Registro de Operaciones se encuadernarán en tomos separados, dando a cada póliza o asiento el número correlativo que en la respectiva Sección corresponda.
+
+En todo lo no regulado en este artículo, será de aplicación al Libro Registro las normas establecidas sobre los aspectos materiales del Protocolo ordinario, incluida las relativas a la confección y remisión de índices, en cuanto lo permita su respectiva naturaleza.
+
+> Se modifica por el art. 1.181 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+###### Subsección 3.ª De los Índices
+
+> Se añade por el art. 1.182 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 284.**
+
+Los Notarios deberán remitir índices de los documentos protocolizados, intervenidos y demás asientos del Libro Registro a las Juntas Directivas, que los archivarán bajo su más estricta responsabilidad. Si no hubiera habido actividad durante el periodo de que se trate, el Notario enviará una certificación negativa. Tales índices se remitirán en soporte informático, mediante firma electrónica reconocida de los Notarios y a través de la red telemática que el Consejo General del Notariado tenga establecida conforme a lo dispuesto en el artícu­lo 107 de la Ley 24/2001. Estos índices tendrán la misma consideración, en cuanto a la información que contienen, que el protocolo, del que se considerarán parte.
+
+Asimismo, el notario deberá velar por la más estricta veracidad de dichos índices, así como por su correspondencia con los documentos públicos autorizados e intervenidos, siendo responsables de cualquier discrepancia que exista entre aquellos y estos. Igualmente, serán responsables del incumplimiento de los plazos de remisión de tales índices.
+
+El notario confeccionará un índice en soporte papel para encuadernarlo al final del protocolo, formándose de este modo el índice cronológico del mismo. Dicho índice y su encuadernación deberá efectuarse en el mes de enero de cada año, respecto de los documentos autorizados o intervenidos en el año precedente.
+
+El notario conservará los correspondientes ficheros electrónicos comprensivos de los índices, en un soporte tecnológicamente seguro, con sujeción a las mismas obligaciones y responsabilidades del Protocolo. Se habilita al Consejo General del Notariado para que acuerde las características técnicas de conservación.
+
+Los índices en soporte informatizado se remitirán a las Juntas Directivas quincenalmente. A tal fin, los del día 1 al 15 de cada mes se remitirán antes del día 22 del mismo y los del día 16 a 30 antes del 7 del mes siguiente. Se habilita a la Dirección General de los Registros y del Notariado para que mediante Instrucción pueda reducir el plazo antes indicado. Estos índices se remitirán mediante firma electrónica reconocida de los Notarios y a través de la red telemática que el Consejo General del Notariado tenga establecida conforme a lo dispuesto en el artículo 107 de la Ley 24/2001.
+
+Sin perjuicio de lo dispuesto en el artículo 286 de este Reglamento, los Colegios Notariales conservarán los índices bajo su más estricta responsabilidad.
+
+> Se modifica por el art. 1.183 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 285.**
+
+El Ministerio de Justicia determinará el contenido básico de los índices con independencia de su soporte, pudiendo delegar en el Consejo General del Notariado el desarrollo de tal contenido, así como la incorporación de nuevos datos que deban expresarse respecto de cada instrumento.
+
+En cualquier caso, en los índices se expresará, respecto de cada instrumento, el número de orden, el lugar del otorgamiento, la fecha, el nombre y apellidos o denominación social de todos los otorgantes o requirentes y de los testigos cuando los hubiere y el domicilio de aquéllos; el objeto y la cuantía del documento y el número de folios que comprende y, en su caso, el nombre del notario autorizante que actúe por sustitución del titular del protocolo. También se expresarán en ellos los datos relativos a la sujeción del documento al turno de reparto, en su caso, y a las aportaciones corporativas. Asimismo, en los índices se expresaran los números de identificación fiscal y la descripción de los medios de pago, cuando deban constar en las escrituras de acuerdo con lo dispuesto en la Ley del Notariado o, en su caso, el incumplimiento de la obligación de comunicación del número de identificación fiscal al notario o la negativa a la identificación de los medios de pago o a aportar la declaración previa del movimiento de los medios de pago cuándo ésta resultara preceptiva de conformidad con la normativa de prevención del blanqueo de capitales. Igualmente, en los índices se expresará la referencia catastral de los inmuebles, cuando ésta deba constar en las escrituras o, en su caso, el incumplimiento de la obligación de su aportación.
+
+En la formalización del índice anual en soporte papel, los notarios se acomodarán al modelo que determine el Consejo General del Notariado. Respecto de los índices informatizados, compete, igualmente, al Consejo General del Notariado la determinación de las características técnicas de elaboración, remisión y conservación.
+
+En toda esta materia se observará lo dispuesto en la legislación especial en materia de protección de datos.
+
+> Se modifica por el art. 1.3 del Real Decreto 1804/2008, de 3 de noviembre. [Ref. BOE-A-2008-18548](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-18548).
+
+> Se modifica por el art. 1.184 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Real Decreto 1689/1980, de 24 de julio. [Ref. BOE-A-1980-18975](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-18975).
+
+**Artículo 286.**
+
+A los efectos de la debida colaboración con las Administraciones Públicas, se crea el índice único informatizado notarial. Es titular y responsable del mismo el Consejo General del Notariado, como consecuencia de su dependencia jerárquica respecto de la Dirección General de los Registros y del Notariado, de conformidad con el artículo 336 del Reglamento Notarial, así como de la dependencia de los notarios respecto del Consejo a través de las Juntas Directivas de los Colegios Notariales, en virtud de lo dispuesto en el artículo 307 del Reglamento Notarial.
+
+Dicho índice único informatizado es la agregación de los índices informatizados que deben confeccionar y remitir los notarios a sus Juntas Directivas. Los Colegios Notariales deberán remitir tales índices informatizados al Consejo General del Notariado en la tercera semana de cada mes los del precedente.
+
+Se habilita al Consejo General del Notariado a que trate el índice único informatizado a los efectos de la remisión de la información de que se trate a las autoridades judiciales y Administraciones Públicas que conforme a la ley tengan derecho a ello, como consecuencia del deber de colaboración del notario en su condición de funcionario.
+
+En todo caso, el Consejo General del Notariado podrá acceder a esa información a efectos estadísticos.
+
+> Se modifica por el art. 1.185 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 1 del Real Decreto 1689/1980, de 24 de julio. [Ref. BOE-A-1980-18975](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-18975).
+
+**Artículo 287.**
+
+El sustituto que, con arreglo al artículo 38 de la Ley, deba encargarse de una Notaría vacante, formará y remitirá, dentro de los ocho días siguientes, los índices o certificaciones negativas, en su caso, de los documentos protocolados en el mes que ocurrió la vacante, y aun en el anterior si el Notario que la produjo no lo hubiera verificado.
+
+**Artículo 288.**
+
+Los Notarios que no cumplan debidamente las prescripciones reglamentarias relativas al servicio de índices serán corregidos disciplinariamente.
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+##### Sección 2.ª Del Archivo de protocolos
+
+**Artículo 289.**
+
+Habrá un Archivo general de protocolos en la cabeza de cada distrito notarial.
+
+**Artículo 290.**
+
+Ninguna persona que no sea Notario podrá tener a su cargo el Archivo de protocolos.
+
+**Artículo 291.**
+
+Los Archivos generales de protocolos se formarán con los protocolos generales de más de veinticinco años de fecha, con los especiales y libros de que tratan los artículos 34 y 35 de la Ley que cuenten el mismo tiempo desde que aquéllos se hubiesen cerrado y con los de las Notarías amortizadas o suprimidas.
+
+Los demás protocolos y libros quedarán formando el Archivo de la Notaría, a cargo del Notario que la desempeñe.
+
+Se exceptúan de lo dispuesto en el párrafo primero de este artículo los casos en que aun viviese el Notario autorizante, que conservarán mientras viva todos los protocolos que hubiese autorizado.
+
+Sin embargo, los Notarios podrán solicitar autorización de la Junta directiva para depositar parte de su protocolo en el local del Archivo, siempre que la capacidad y demás circunstancias de éste lo permitan. La Junta resolverá discrecionalmente y, en su caso, fijará las condiciones y obligaciones que estime oportunas.
+
+**Artículo 292.**
+
+Los protocolos de las Notarías amortizadas permanecerán en los respectivos archivos generales y sólo pasarán al archivo de las Notarías creadas en la misma demarcación o en otra posterior si, por razones de servicio lo dispusiere así la Dirección General.
+
+Cuando por virtud de una demarcación notarial, dentro de un mismo distrito notarial, se suprima alguna Notaría y se creen otras, si alguna de éstas fuese desempeñada por el Notario de las suprimidas, podrá conservar los protocolos que constituyen su archivo.
+
+Cuando con motivo de una demarcación se traslade una Notaría de una población a otra distinta, dentro del mismo distrito, se trasladarán asimismo la totalidad de los protocolos que constituyan su archivo.
+
+El Notario que solicite una vacante distinta de la que venga desempeñando, pero dentro de una misma población, con arreglo al párrafo primero del artículo noventa y seis de este Reglamento, con el fin de obtener la nueva categoría asignada a la Notaría por haber sido modificada su clasificación, conservará los protocolos que constituyan su archivo y no se hará cargo de los de la Notaría solicitada.
+
+Cuando se produzca la vacante de una Notaría, el que deba sustituirla, o el Archivero de Protocolos, en su caso, se harán cargo, por su cuenta y bajo su responsabilidad, de aquellos que respectivamente les corresponda custodiar.
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 293.**
+
+El cargo de Archivero de protocolos es obligatorio cuando recaiga el nombramiento en el Notario único de cabeza de partido, o en el más moderno en la localidad si fueren dos o más los residentes en ella, y estará siempre provisto, a no ser que estén vacantes todas las Notarías del punto en que se hallen establecidos los Archivos; pero tan pronto como se provea una, la Dirección General elevará al Ministro de Justicia la correspondiente propuesta para el nombramiento.
+
+**Artículo 294.**
+
+De cada uno de los Archivos generales de protocolos estará encargado un Notario elegido por el Ministro de Justicia, a propuesta de la Dirección General del Ramo, de entre los que residan en el lugar del Archivo. El sustituto del Notario será, en su caso, el sustituto del Archivo. Cuando en la cabeza del distrito notarial exista un solo Notario, que forzosamente ha de ejercer el cargo de Archivero de protocolos, no será necesario que sea nombrado expresamente.
+
+Cuando vacare un Archivo de protocolos se hará cargo del mismo, con carácter interino, mientras no se designe titular por el Ministro de Justicia, el Notario más antiguo en la localidad. Las Juntas directivas, en casos extraordinarios, tendrán facultades para asegurar la prestación del servicio en los Archivos Notariales.
+
+Sin embargo, en las capitales de Colegio las Juntas directivas organizarán el Archivo general de protocolos del distrito notarial correspondiente, proporcionando local adecuado para su depósito, nombrando y separando el personal auxiliar, satisfaciendo, con cargo a los fondos del Colegio, sus nóminas y los demás gastos que ocasione el servicio, y percibiendo con destino al mismo fondo, los honorarios que corresponda. Para atender al mejor servicio público, propondrá al Ministro de Justicia el nombramiento de un Notario Archivero que podrá ser o no Vocal de la Junta directiva.
+
+**Artículo 295.**
+
+Los Notarios Archiveros serán corregidos disciplinariamente por iguales causas y en la misma forma que pueden serlo los Notarios.
+
+**Artículo 296.**
+
+En todo Archivo de protocolos existirá un inventario de los libros y papeles que lo constituyan, cuyo original quedará en el Archivo, y del que se remitirá copia a la Junta del Colegio Notarial.
+
+Los inventarios de los Archivos contendrán la relación de todos los papeles del mismo, y respecto de los protocolos expresarán el número de éstos, folios de cada volumen, Notario autorizante y años a que corresponda.
+
+**Artículo 297.**
+
+Cuando un Notario se encargue del Archivo de protocolos, extenderá un acta firmada por él mismo y por las personas que le hagan la entrega, acreditando haber recibido todos los protocolos, libros y papeles comprendidos en el inventario general y sus adiciones, expresando las fechas de uno y otras, y en el caso de que después de la última de éstas hayan ingresado otros protocolos y libros, los determinará con las circunstancias exigidas. De dicha acta, que quedará en el Archivo sacará y remitirá copia literal a la Junta directiva dentro de los quince días siguientes a su fecha.
+
+**Artículo 298.**
+
+Los Notarios y sus sustitutos, así como los sustitutos de las Notarías vacantes, entregarán durante el mes de enero de cada año, al Archivo del distrito a que pertenezcan, los protocolos y libros que obren en su poder y que cada año deban depositar en aquél; si no tuvieran ninguno, remitirán en su lugar certificación negativa, expresando el motivo de la no existencia.
+
+Cuando un Notario remitiere al Archivo certificación negativa por llevar veinticinco años de residencia y no corresponder la remisión de acuerdo con el párrafo tercero del artículo 291 de este Reglamento, bastará esta certificación por sí sola, sin que el Notario hubiera de hacer otra alguna en lo sucesivo mientras ocupe la misma Notaría.
+
+**Artículo 299.**
+
+En el mes de febrero, los Notarios Archiveros o sus sustitutos adicionarán el inventario general que debe existir de su Archivo, con los protocolos, libros y papeles que hayan sido entregados por los Notarios en el mes anterior, expresando respecto a los primeros su número, folios de cada volumen, Notarios autorizantes y años que comprendan.
+
+**Artículo 300.**
+
+Los Archiveros de protocolos, o sus sustitutos, remitirán a las respectivas Juntas directivas, en los ocho primeros días del mes de marzo de cada año, una copia de la adición de: inventario a que se refiere el artículo precedente y una relación de los Notarios que no hubiesen cumplido la obligación que les impone el artículo 298. Las Juntas corregirán disciplinariamente a dichos Notarios, sin perjuicio de adoptar los acuerdos conducentes al exacto cumplimiento de lo establecido en el artículo 298, antes citado.
+
+Antes del 1 de abril de cada año remitirán las Juntas a la Dirección General una relación de los Notarios morosos, de las sanciones que les hayan impuesto y de las medidas adoptadas para el cumplimiento de su deber en este servicio.
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 301.**
+
+Los Archivos generales de protocolos estarán sujetos a la inspección y vigilancia de las Juntas directivas de los Colegios de Notarios y de la Dirección General, que podrán decretar todas las visitas que estimaren convenientes.
+
+**Artículo 302.**
+
+Los Archiveros y Notarios que no cumplan las disposiciones anteriores en los plazos señalados serán corregidos disciplinariamente por las Juntas directivas por cada falta en que incurran. La Dirección General impondrá asimismo a las Juntas directivas una corrección disciplinaria por cada falta que cometieren por incumplimiento de lo prevenido en esta Sección.
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 303.**
+
+Dentro de los límites establecidos en el artículo 32 de la Ley del Notariado, los Archiveros de protocolos, en los días y horas hábiles que tengan señalados, deberán facilitar a las personas de notoria competencia en los estudios de investigación histórica la consulta de documentos que cuenten más de cien años de antigüedad y ofrezcan indudable valor para dichos estudios, adoptando en todo caso las medidas necesarias para la conservación de los documentos que estén bajo su custodia.
+
+**Artículo 304.**
+
+Los Ayuntamientos facilitarán un local a propósito para el Archivo general de protocolos en la población en que éste radique.
+
+En donde el Ayuntamiento no facilitase dicho local, o mientras no se consiga de él, lo establecerá el Archivero en el edificio que juzgue conveniente y que ofrezca las oportunas garantías para el objeto a que se destina.
+
+Los gastos que se ocasionen a los Notarios Archiveros desde el instante en que se incauten de los protocolos, los de inventarios y los demás referentes a la instalación de los Archivos, así como los de entretenimiento y servicio de oficina, serán de su cuenta.
+
+En casos especiales y de interés público, serán de cuenta de los Colegios los gastos de instalación y reparaciones extraordinarias de los Archivos.
+
+Cuando el Ayuntamiento de una cabeza de distrito no proporcionare local adecuado para la instalación del Archivo, la Junta Directiva, a propuesta del Archivero, podrá acordar su traslado a la capital del Colegio, a la de la provincia, o a otra población del territorio del Colegio donde se disponga de local suficiente para la conservación de los protocolos. A tal efecto, las Juntas Directivas podrán construir, adquirir o arrendar edificios en tales poblaciones, a fin de instalar debidamente los Archivos, y solicitar de los Ayuntamientos y otras Corporaciones públicas la ayuda económica necesaria para ello.
+
+> Se modifica el párrafo quinto por el art. 1.186 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 305.**
+
+Las Juntas directivas de los Colegios, por medio de uno de sus individuos o de alguno de los colegiados, podrán girar visitas de inspección a las Notarías y Archivos del mismo Colegio, a fin de corregir los defectos u omisiones subsanables en la manera de escribir y conservar los instrumentos y protocolos y uniformar la práctica, asegurándose del exacto cumplimiento de las obligaciones notariales en todo el territorio y si hubiere lugar a ello imponer correcciones disciplinarias.
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 306.**
+
+La Dirección General ejerce la alta inspección de las Notarías y Archivos y puede decretar cuantas visitas extraordinarias crea convenientes.
+
+Estas visitas podrán practicarse por el Director general, el Subdirector o alguno de los Oficiales o Auxiliares facultativos o Notarios colegiados, debiendo el funcionario que la practique ir acompañado de un Secretario, que nombrará dicho Centro directivo.
+
+Al acordarse la práctica de una visita extraordinaria, se expresará si ha de ser general o especial, designándose, en el primer caso, el período de tiempo que ha de abrazar; y en el segundo, los libros y documentos que han de examinarse o los demás particulares a que se considere oportuno extender la visita.
+
+### TÍTULO QUINTO — De la organización del Notariado
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+#### CAPÍTULO I — Del Ministro de Justicia
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 307.**
+
+Los notarios, en su organización jerárquica, dependen del Ministro de Justicia, de la Dirección General de los Registros y del Notariado, de las Juntas Directivas de los Colegios Notariales y, a través de estos, del Consejo General del Notariado.
+
+> Se modifica por el art. 1.187 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+**Artículo 308.**
+
+El Ministerio de Justicia es el órgano de la Administración del Estado encargado de la acción del Gobierno en cuanto afecte a la fe pública notarial. Su titular, además de las facultades que respecto del Notariado, le otorgan las leyes, tiene la condición de Notario Mayor del Reino, con la significación y atribuciones tradicionales.
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+#### CAPÍTULO II — De la Dirección General de los Registros y del Notariado
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 309.**
+
+A la Dirección General de los Registros y del Notariado competen, como Centro superior directivo y consultivo, todos los asuntos referentes al Notariado.
+
+**Artículo 310.**
+
+La estructura de la Dirección General de los Registros y del Notariado se ajustará a lo dispuesto en la legislación hipotecaria y en el Reglamento Orgánico del Ministerio de Justicia.
+
+> Se añade por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se deroga en lo referente a la determinación de las estructuras orgánicas, composición, dependencia y funcionamiento de los Organismos y unidades regulados en el Reglamento Orgánico y se modifica en la forma indicada por el anexo 2.4 del Reglamento Orgánico del Ministerio de Justicia aprobado por Decreto 1530/1968, de 12 de junio. [Ref. BOE-A-1968-819](https://www.boe.es/buscar/doc.php?id=BOE-A-1968-819).
+
+**Artículo 311.**
+
+El Director dependerá inmediatamente del Ministro de Justicia; someterá directamente a su resolución todos los asuntos que deban decidirse con su acuerdo, y dictará por sí, o a propuesta del servicio correspondiente, las resoluciones que sean de su competencia.
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 312.**
+
+Por vacante, ausencia, enfermedad u otra justa causa de imposibilidad del Director, hará sus veces el Subdirector y, a falta de éste, el Oficial primero o el que reglamentariamente le sustituya, sin necesidad de designación ni nombramiento especial.
+
+> Se deroga en lo referente a la determinación de las estructuras orgánicas, composición, dependencia y funcionamiento de los Organismos y unidades regulados en el Reglamento Orgánico y se modifica en la forma indicada por el anexo 2.4 del Reglamento Orgánico del Ministerio de Justicia aprobado por Decreto 1530/1968, de 12 de junio. [Ref. BOE-A-1968-819](https://www.boe.es/buscar/doc.php?id=BOE-A-1968-819).
+
+**Artículo 313.**
+
+Corresponderá a la Dirección General de los Registros y del Notariado:
+
+1\. Proponer al Ministro de Justicia, o adoptar por sí en los casos que sean de su competencia, las disposiciones necesarias para la observancia de la Ley del Notariado y de los Reglamentos y Ordenes para su ejecución.
+
+2\. Instruir los expedientes que se formen para la provisión de las Notarías vacantes y para celebrar las oposiciones en los casos en que fueren necesarias, proponiendo la resolución definitiva que en cada caso proceda con arreglo a las Leyes.
+
+3\. Resolver en consulta las dudas que se ofrezcan a las Juntas directivas de los Colegios Notariales o a los Notarios sobre la aplicación, inteligencia y ejecución de la Ley del Notariado, de su Reglamento y disposiciones complementarias, en cuanto no exijan disposiciones de carácter general que deban adoptarse por el Ministro de Justicia.
+
+4\. Dictar, conforme a las Leyes y Reglamentos, las Resoluciones que estime procedentes en los asuntos de su competencia.
+
+5\. Resolver las alzadas contra los acuerdos de las Juntas directivas en materia de impugnación de las cuentas o minutas notariales por aplicación del Arancel y sin que contra sus resoluciones se dé recurso alguno, en vía administrativa.
+
+6\. Resolver igualmente con el mismo alcance y en última instancia los recursos gubernativos contra las calificaciones que de los títulos inscribibles hagan los Registradores.
+
+7\. Ejercer la alta inspección y vigilancia en todas las Notarías, Colegios Notariales, Consejo General del Notariado y Archivos generales de protocolos.
+
+8\. Comunicar las órdenes que dicte en cualquier forma el Ministro de Justicia relativas al Notariado.
+
+9\. Tramitar e informar las resoluciones que estime procedentes en las alzadas o recursos de apelación interpuestos contra resoluciones de la Dirección General en los asuntos del Notariado.
+
+10\. Proponer asimismo al Ministro de Justicia todas las reformas y alteraciones que sean necesarias en la organización de la Dirección.
+
+11\. Convocar y celebrar las oposiciones para ingreso en el Cuerpo Facultativo e instruir los expedientes para el nombramiento, ascenso, suspensión y separación de los funcionarios de la Dirección, así como los de corrección disciplinaria en los casos que proceda.
+
+12\. Formar y publicar los estados de la contratación notarial con arreglo a los datos que suministren los Notarios.
+
+> Se modifica el apartado 7 por el art. 1.188 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+#### CAPITULO III — De los Colegios Notariales y del Consejo General del Notariado
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+##### Sección 1.ª De los Colegios Notariales
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 314.**
+
+Los Colegios Notariales son Corporaciones de Derecho público, amparadas por la Ley y reconocidas por el Estado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines. En el ejercicio de las funciones públicas atribuidas respecto de la prestación de la función pública notarial quedan subordinados jerárquicamente al Ministro de Justicia y a la Dirección General de los Registros y del Notariado.
+
+Son fines esenciales de estas Corporaciones la ordenación del ejercicio de la profesión, sin perjuicio de las atribuciones del Gobierno, del Ministro de Justicia, de la Dirección General de los Registros y del Notariado y del Consejo General del Notariado, la representación exclusiva de aquélla, la defensa de los intereses profesionales de los colegiados y el cumplimiento de la función social que al notario corresponde.
+
+Los Colegios Notariales, para el ejercicio de sus fines, tienen atribuidas con carácter general en su ámbito territorial, las funciones de colaborar con la Administración, a solicitud de la misma o por propia iniciativa; estar representados en sus Consejos u Organismos consultivos cuando proceda; organizar actividades y servicios comunes de interés para los colegiados en el orden formativo, cultural, asistencial, de previsión y otros análogos. Especialmente les corresponde:
+
+1\. Ostentar en su ámbito la representación y defensa de la profesión notarial ante la Administración, Instituciones, Tribunales, Entidades y particulares, con legitimación para ser parte en cuantos litigios afecten a los intereses profesionales y ejercitar el derecho de petición conforme a la Ley.
+
+2\. Ordenar en su respectivo ámbito territorial la actividad profesional de los notarios en las siguientes materias: correcta atención al público, tiempo y lugar de su prestación, concurrencia leal y publicidad, continuidad de la prestación de funciones, incluso en días festivos y períodos de vacaciones. No obstante, en el ejercicio de esta competencia la Junta Directiva deberá cumplir con los acuerdos y circulares del Consejo General del Notariado, así como con lo que disponga éste cuando la materia objeto de dicha ordenación por su trascendencia o interés afecte a un ámbito territorial superior al del Colegio respectivo. Asimismo, y en los términos legalmente previstos corregirán las infracciones disciplinarias de sus colegiados, dejando a salvo las facultades del Ministro de Justicia y de la Dirección General de los Registros y del Notariado.
+
+3\. Adoptar las medidas conducentes a evitar el intrusismo profesional.
+
+4\. Conciliar las posturas de los colegiados. Igualmente y, en su caso, dirimir las cuestiones que por motivos profesionales se susciten entre los colegiados cuando así se lo soliciten. No obstante, se excluye de ambas actuaciones aquellas cuestiones que por afectar a la función pública notarial deba decidir los Colegios Notariales en el ejercicio de las competencias que la legislación notarial les atribuye.
+
+5\. Cumplir y hacer cumplir a los colegiados las Leyes generales y especiales, el Reglamento Notarial, los Reglamentos de régimen interior, así como las normas y decisiones adoptadas por los Órganos jerárquicos competentes, incluidas las Circulares de orden interno del Consejo General del Notariado que se refieran a aspectos de ordenación de la función pública notarial.
+
+Los Colegios Notariales se regirán por la Legislación Notarial y en lo que no esté previsto en aquella y no constituya especialidad derivada del ejercicio de la función pública notarial atribuida a los notarios o a los Colegios por la de Colegios Profesionales. El Reglamento Notarial tendrá el carácter de regulador de la actividad pública notarial y de Estatuto General de la profesión.
+
+Cada uno de los notarios de España habrá de estar integrado, con carácter exclusivo, en el Colegio a cuyo territorio pertenezca la población donde tenga su residencia reglamentaria.
+
+Son órganos de los Colegios la Junta general, la Junta Directiva y el Decano.
+
+El Decano ostenta la representación del Colegio.
+
+> Se modifica por el art. 1.189 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se deroga en lo referente a la determinación de las estructuras orgánicas, composición, dependencia y funcionamiento de los Organismos y unidades regulados en el Reglamento Orgánico y se modifica en la forma indicada por el anexo 2.4 del Reglamento Orgánico del Ministerio de Justicia aprobado por Decreto 1530/1968, de 12 de junio. [Ref. BOE-A-1968-819](https://www.boe.es/buscar/doc.php?id=BOE-A-1968-819).
+
+**Artículo 315.**
+
+La Junta general se reunirá en la capital del Colegio cuando la convoque la Junta directiva, que deberá hacerlo, por lo menos, una vez al año para aprobar las cuentas del año anterior y el presupuesto del corriente. También deberá convocarla, siempre que lo solicite más de la décima parte de los colegiados, expresando en la solicitud los asuntos a tratar y la información que sobre tales asuntos haya de dar la Junta directiva. En este último caso la Junta general deberá ser convocada para celebrarse dentro del plazo máximo de un mes, contado desde la solicitud.
+
+El anuncio de la convocatoria, con expresión del orden del día, deberá hacerse por escrito con quince días, al menos, de antelación, salvo casos de urgencia en que se hará por telegrama remitido cuarenta y ocho horas antes. Igualmente, dicha remisión podrá hacerse por medios telemáticos en cuyo caso deberá ser firmada electrónicamente y remitida a las direcciones de correo corporativo de los miembros del Colegio. En dicho anuncio podrá indicarse que, a falta de quórum, se celebrará la Junta en segunda convocatoria, una hora después, como mínimo, de la fijada para la primera.
+
+Presidirá la Junta general el Decano y, con él, constituirán la Mesa los miembros de la Junta directiva, la cual podrá designar escrutadores, si lo estima procedente, en cualquier momento de la sesión. Actuará de Secretario el que lo sea de la Junta directiva, que levantará acta de la sesión y la firmará con el Presidente.
+
+Todos los Notarios del Colegio tendrán derecho de asistir, con voz y voto, procurando que no quede desatendido el servicio público. También tendrán el derecho de conferir su representación por escrito a otro colegiado.
+
+Para que se considere legalmente constituida la Junta general hará falta la concurrencia, en primera convocatoria, de la mitad, al menos, de los colegiados en ejercicio. En segunda convocatoria, quedará constituida la Junta cualquiera que sea el número de Notarios concurrentes.
+
+Compete a la Junta general:
+
+1.º La aprobación de cuentas y presupuestos.
+
+2.º La aprobación de los actos de adquisición, enajenación y cuantos signifiquen constitución, modificación o extinción de derechos reales sobre bienes inmuebles.
+
+3.º Apreciar la justificación de las causas invocadas por los miembros de la Junta directiva para admitir su renuncia al desempeño del cargo.
+
+4.º Adoptar acuerdos sobre censura de la gestión de la Junta Directiva. La censura podrá ser simple o cualificada, llevando esta última aparejada el cese de la Junta. Tratándose de censura simple se exigirá para su inclusión en el orden del día la firma de, al menos, el cinco por Ciento de los notarios con derecho a voto. Si fuera cualificada ese porcentaje será, al menos, del diez por Ciento.
+
+La petición de la convocatoria se hará por escrito firmado por los solicitantes que en el caso de censura simple deberá ser el cinco por Ciento de los colegiados y en el de cualificada el diez por Ciento, expresando la causa de la moción. La Junta deberá ser convocada a este solo efecto y en ella se podrán consumir los turnos en pro y en contra que se consideren necesarios.
+
+5.º Adoptar acuerdos sobre mociones de confianza que les someta la Junta directiva sobre aprobación o rechazo de actuaciones específicas ya realizadas en curso o meramente proyectadas, que no hubieren sido votadas anteriormente por la Junta general. La no aprobación tendrá el carácter de censura simple.
+
+6.º Proponer a la Junta de Decanos la adopción de acuerdos sobre materias de interés general para el Notariado en cuanto sean de su competencia, o proponer su elevación a la Dirección General, o al Ministro de Justicia cuando sean de la competencia de éstos.
+
+7.º Elaborar los Reglamentos o Estatutos de régimen interior del Colegio.
+
+8.º Acordar el aumento o reducción del número de Censores de la Junta Directiva en los términos previstos por el artículo 318.
+
+9.º Adoptar los acuerdos sobre asuntos que someta a su consideración la Junta directiva y cualesquiera otros previstos en las Leyes y Reglamentos.
+
+Los acuerdos se adoptarán por mayoría simple de votos, salvo los de los números 4.º y 5.º de este artículo, para los que se requerirá el voto favorable de un tercio, al menos, de los colegiados.
+
+> Se modifica por el art. 1.190 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 316.**
+
+Constituyen ingresos de los Colegios Notariales:
+
+1.º Los derivados de sus patrimonios respectivos, y las donaciones, subvenciones y legados que se les hicieren.
+
+2.º La participación en el importe íntegro de los sellos de legitimaciones y legalizaciones, conforme establezca la legislación vigente, y el total importe de las legalizaciones y apostillas que efectúen los miembros de la Junta Directiva con este carácter.
+
+3.º La cuota fija anual que deba aportar cada colegiado, pudiendo las Juntas Directivas fraccionar su pago. No obstante, y respecto de notarías de entrada esta cuota podrá bonificarse previo acuerdo de la Junta Directiva en un porcentaje no superior al 50%. Excepcionalmente y previa solicitud fundada del interesado, podrá la Junta Directiva mediante acuerdo motivado eximir del pago de la cuota fija.
+
+En todo caso, la Junta Directiva podrá acordar la modificación de la cuota fija anual atendiendo a la evolución de los costes a los que va destinada. Si se pretendiera una elevación superior a estos, la Junta Directiva deberá someterlo a aprobación de la Junta General del Colegio Notarial.
+
+4.º Una cantidad mensual que en ningún caso podrá tener carácter progresivo, ni podrá determinarse con arreglo al volumen de ingresos de los notarios. En la determinación de esta cuota será preciso que la Junta Directiva del Colegio identifique el servicio y financiación que el mismo exija.
+
+5.º Las cuotas suplementarias precisas para costear el sostenimiento de servicios específicos.
+
+Cuando estos servicios, por su naturaleza o por la población en que se presten, beneficien solamente a parte de los colegiados, las cuotas serán de cargo exclusivo de éstos.
+
+6.º Las cantidades que las Juntas Generales determinen al aprobar un presupuesto extraordinario conforme a la facultad segunda del artículo 328.
+
+7.º Cualquier otro ingreso reconocido por la legislación en vigor o la que la sustituya, sin perjuicio de su adscripción a fines determinados legalmente.
+
+> Se modifica por el art. 1.191 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se derogan los apartados 4 y 6 por la disposición derogatoria única del Real Decreto 1643/2000, de 22 de septiembre. [Ref. BOE-A-2000-17213](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-17213).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 183, de 1 de agosto de 1984. [Ref. BOE-A-1984-17221](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17221)
+
+> Se deroga en lo referente a la determinación de las estructuras orgánicas, composición, dependencia y funcionamiento de los Organismos y unidades regulados en el Reglamento Orgánico y se modifica en la forma indicada por el anexo 2.4 del Reglamento Orgánico del Ministerio de Justicia aprobado por Decreto 1530/1968, de 12 de junio. [Ref. BOE-A-1968-819](https://www.boe.es/buscar/doc.php?id=BOE-A-1968-819).
+
+**Artículo 317.**
+
+Los Colegios Notariales podrán elaborar, en Junta General, Reglamentos de régimen interior en las materias que sean de su competencia. Estos Reglamentos habrán de ser aprobados por el Consejo General del Notariado, que deberá hacerlo en el plazo de treinta días, siempre que aquéllos estén de acuerdo con el presente Reglamento. Una vez aprobados, las Juntas Directivas darán cuenta del texto de los mismos a la Dirección General de los Registros y del Notariado. El Consejo General del Notariado deberá denegar motivadamente su autorización, siendo recurrible su acuerdo en los plazos y modo previsto para el de alzada ante la Dirección General de los Registros y del Notariado en cuanto a la interpretación y aplicación de la legislación notarial. En la votación relativa a la aprobación del Reglamento de Régimen Interior no deberá participar el Decano del Colegio al que se refiera tal Reglamento.
+
+> Se modifica por el art. 1.192 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+##### Sección 2.ª De las Juntas Directivas
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 318.**
+
+La Junta Directiva de cada Colegio estará integrada por un mínimo de tres y un máximo de nueve miembros. Estará compuesta necesariamente de un Decano-Presidente, un Censor y un Secretario. La Junta General del Colegio determinará el número de miembros de la Junta Directiva, así como la existencia de un Vicedecano, número de Censores, Tesorero y Vicesecretarios, dando cuenta de ello a la Dirección General.
+
+Al Decano le sustituirá el Vicedecano; a ambos, los Censores por su orden; éstos se sustituirán mutuamente; al Tesorero, un Censor, el Vicedecano o el Decano, y al Secretario, un Vicesecretario y, de no existir éste, un Censor o el Tesorero. No obstante, y en todo caso, el Decano podrá delegar las funciones de su cargo, para actuaciones concretas, en cualquier miembro de la Junta Directiva.
+
+Todos los cargos de la Junta serán gratuitos, honoríficos y voluntarios. Los miembros de la Junta Directiva cesarán en el ejercicio de su cargo por el transcurso de su mandato, por renuncia que deberá ser aceptada por la Junta General, por pérdida de la cualidad de colegiado y por elección para otro cargo de la misma Junta, así como por la establecida en el penúltimo párrafo del artículo 353 y las que lo sean de suspensión en el ejercicio del cargo de notario conforme a este Reglamento.
+
+> Se modifica por el art. 1.193 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 319.**
+
+El mandato de la Junta Directiva es de cuatro años, pudiendo ser reelegidos sus miembros por iguales períodos, sea para el mismo o para distinto cargo.
+
+La renovación de la Junta será total o parcial. Será total en los supuestos de transcurso del mandato previsto o por haberse aprobado su censura cualificada. En ambos casos, la Junta cesante seguirá desempeñando sus funciones básicas hasta la toma de posesión de la nueva Junta. La renovación será parcial cuando afecte a uno o varios de los miembros de la Junta. En caso de renovación parcial, el elegido desempeñará su función por el tiempo que reste hasta completar el período normal de cuatro años.
+
+Todos los cargos de la Junta Directiva se proveerán mediante elección, por mayoría de votos, siendo elegidos como miembros de la Junta Directiva los integrantes de aquella candidatura que obtenga más votos. No podrá incluirse en más de una candidatura a un mismo notario sea para el mismo o para distinto cargo de la Junta Directiva.
+
+La elección podrá ser ordinaria o extraordinaria. Será ordinaria la elección que se produzca como consecuencia del transcurso del mandato. En cualquier otro supuesto, la elección será extraordinaria.
+
+Serán electores y podrán ser candidatos todos los notarios que estén colegiados el día de la convocatoria de las elecciones.
+
+> Se modifica por el art. 1.194 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 320.**
+
+Compete a las Juntas Directivas la convocatoria de elecciones para proveer su renovación, sea total o parcial. Si la renovación fuera parcial, el anuncio de la convocatoria expresará todos los cargos que hayan de proveerse.
+
+El anuncio de la convocatoria para elección ordinaria se efectuará en los diez primeros días de septiembre del año en que expire el mandato de la Junta Directiva. Si se tratara de elección extraordinaria, el anuncio se efectuará dentro de los veinte días siguientes a la fecha en que se hubiera acordado la censura cualificada de la Junta o en que se hubiere producido la vacante, con la sola excepción de que restaran tres meses o menos para la elección ordinaria, en cuyo caso se estará a ésta debiendo ponerlo en conocimiento de la Dirección General de los Registros y del Notariado.
+
+Durante los diez días siguientes al del anuncio de la convocatoria se procederá a la formación de las candidaturas y a su presentación a la Junta Directiva. Cuando el Decano pretendiera su reelección por tercero o ulterior mandato consecutivo la candidatura en la que esté incluido deberá ser presentada por, al menos, el veinticinco por ciento de los colegiados. Las candidaturas expresarán el nombre del candidato o candidatos y el cargo para el que se les proponga. Las candidaturas deberán incluir todos los cargos objeto de elección; en otro caso, serán rechazadas.
+
+Si durante el anterior plazo se hubiere presentado una sola candidatura se abrirá otro extraordinario de cinco días, a contar desde la expiración de aquél para que puedan presentarse otras candidaturas.
+
+La Junta Directiva concluido el plazo de presentación de candidaturas hará pública éstas, pudiendo utilizarse a tal fin medios telemáticos o cualquier otro procedimiento que permita su difusión y conocimiento entre los colegiados. En cualquier caso, la Junta Directiva en el día hábil inmediato posterior comunicará al Consejo General del Notariado las candidaturas, ya se trate de elección ordinaria o extraordinaria, debiendo publicarse en el mismo día o inmediato hábil posterior en el sitio web del Consejo General del Notariado.
+
+Publicadas las candidaturas en el sitio web del Consejo podrán recurrirse las mismas ante éste en los dos días hábiles siguientes. El Consejo dará traslado del recurso a la candidatura recurrida para que por ésta se alegue lo que a su derecho convenga en el plazo de un día hábil. La resolución del Consejo agota la vía administrativa.
+
+La elección ordinaria tendrá lugar el tercer domingo del mes de noviembre siguiente y la extraordinaria, el tercer domingo siguiente a aquél en que se publicite la candidatura en el sitio web del Consejo.
+
+El programa de actuación de las candidaturas sólo podrá ponerse de manifiesto en el período comprendido entre la publicación de las candidaturas en el sitio web del Consejo el día anterior al domingo fijado para la elección.
+
+Fijado el domingo en que ha de celebrarse una elección extraordinaria, si antes de iniciarse la semana precedente a dicho día se produjese una vacante imprevista, podrá aplazarse la elección por un período máximo de dos meses, a los efectos de cumplir con lo dispuesto en este artículo.
+
+Se habilita a la Dirección General de los Registros y del Notariado para que determine mediante Instrucción las reglas y requisitos a los que debe quedar sujeta la emisión del voto electrónico.
+
+> Se modifica por el art. 1.195 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 321.**
+
+Todas las elecciones se celebrarán en la capital del Colegio. Las ordinarias, en el día, hora y local señalados en la convocatoria, y en las extraordinarias la Junta Directiva anunciará estas circunstancias a la mayor brevedad posible, conforme a lo previsto en el artículo anterior.
+
+La Mesa estará constituida, al menos, por tres miembros de la Junta Directiva y la presidirá el Decano o quien legalmente le sustituya.
+
+Quien encabece cada una de las candidaturas presentadas podrá designar un escrutador, cuya identidad deberá ser puesta en conocimiento de la Junta Directiva, al menos dos días hábiles antes del día de la elección. En cualquier caso habrá, como mínimo, dos escrutadores, que serán nombrados por la Mesa en defecto de dicha designación.
+
+Los escrutadores habrán de ostentar la cualidad de electores.
+
+La Mesa tendrá papeletas de todas las candidaturas. Las papeletas se confeccionarán con arreglo a un modelo externamente uniforme para todas las candidaturas presentadas, aprobado por la Junta Directiva, de modo que, una vez dobladas aquéllas, no puedan distinguirse unas de otras.
+
+La votación, siempre secreta, se realizará personalmente o por correo. El voto emitido por correo se enviará bajo doble sobre. El exterior se dirigirá al Decano y el sobre interior, conteniendo la papeleta doblada, expresará el nombre y residencia del elector e irá autorizado con su firma y rúbrica. Comprobadas éstas por un miembro de la Junta Directiva, previo cotejo en su caso con el libro a que se refiere el artículo 36, el Secretario de la misma Junta o quien haga sus veces relacionará los sobres recibidos hasta las catorce horas del día anterior al de la votación, únicos que serán admitidos a ésta.
+
+Durante una hora votarán los electores presentes mediante papeleta que entregarán doblada al Presidente, quien, ante el propio votante, depositará aquélla en la urna destinada al efecto, situada a la vista de todos.
+
+Terminada la votación de los presentes, el Presidente de la Mesa abrirá los sobres remitidos por correo y depositará las papeletas en la urna.
+
+> Se modifica por el art. 1.196 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 322.**
+
+Para realizar el escrutinio, el Presidente extraerá las papeletas de la urna y las leerá en voz alta, una por una, de lo que los escrutadores tomarán nota. Serán nulas las papeletas que no contengan el nombre del candidato o el cargo para el que es votado.
+
+Hecho el escrutinio y publicado su resultado, si hubiere conformidad y no se suscitase reclamación alguna, se inutilizarán todas las papeletas extraídas de la urna. No habiendo conformidad, se repetirá el escrutinio, consignando su resultado y las diferencias que hubiere.
+
+En caso de empate se entenderá ganadora aquella candidatura que incluya como candidato a Decano al de mayor antigüedad en la carrera. Si se tratara de elección extraordinaria para cubrir otro puesto de la Junta se aplicará el mismo criterio.
+
+Las dudas sobre la inteligencia o validez de votos o sobre el resultado del escrutinio se resolverán en el acto por la Mesa.
+
+No se admitirá discusión sobre ninguna de las protestas o reclamaciones que durante la elección se hicieren, pero la Mesa, sin embargo, acordará sobre ellas lo que juzgue conveniente, antes o después de verificado el escrutinio.
+
+El Presidente proclamará los nombres de los candidatos electos y el cargo para que hayan sido elegidos.
+
+De todo ello se levantará acta, en la que se consignarán los acuerdos sobre la inteligencia y validez de los votos, el resultado del escrutinio y las reclamaciones o protestas que se hubieren hecho.
+
+> Se modifica por el art. 1.197 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 1 del Decreto 2310/1967, de 22 de julio. [Ref. BOE-A-1967-15204](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-15204).
+
+**Artículo 323.**
+
+Quienes hubieren elevado protesta o reclamación en el acto de la votación podrán impugnar su resultado mediante escrito dirigido a la Dirección General, el cual, en unión de las pruebas que tenga a bien aducir el impugnante, será presentado dentro de los dos días siguientes a la Junta Directiva y ésta, al siguiente día, lo trasladará al Centro directivo. Dicho Centro, en el plazo de quince días a contar desde aquél en que hubiere recibido el escrito de impugnación, decidirá lo que estime oportuno en resolución razonada que pondrá fin a la vía administrativa.
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 324.**
+
+El día siguiente al de la elección, la Junta Directiva participará el resultado a la Dirección General y al Consejo General del Notariado y fijará la fecha de la toma de posesión de los elegidos, que habrá de tener lugar dentro del plazo de treinta días, contados desde la fecha de la elección.
+
+Una vez posesionados de sus cargos los elegidos, se comunicará a la Dirección General y al Presidente del Consejo General del Notariado y a todos los notarios del Colegio.
+
+> Se modifica por el art. 1.198 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 325.**
+
+La Junta Directiva se reunirá cuando el Decano estime que lo requiere la necesidad del despacho de los asuntos pendientes, siempre por lo menos una vez al mes, y cuando lo soliciten dos Vocales de la misma.
+
+La Junta Directiva de cada Colegio se reunirá ordinariamente en la población que sea capital del mismo, sin perjuicio de la posibilidad de celebrar sus reuniones en cualquier localidad del Colegio Notarial cuando así lo acuerde por mayoría.
+
+> Se modifica por el art. 1.199 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 1 del Decreto de 5 de abril de 1957. [Ref. BOE-A-1957-5212](https://www.boe.es/buscar/doc.php?id=BOE-A-1957-5212).
+
+**Artículo 326.**
+
+Será precisa para la válida constitución de la Junta la presencia del Decano, Secretario y, al menos uno o dos censores, dependiendo de si el número de los miembros de la Junta es de tres o más. El Decano y el Secretario podrán ser sustituidos por quienes legalmente corresponda.
+
+Los acuerdos de las Juntas Directivas se adoptarán por mayoría y se consignarán en acta, resolviendo en caso de empate el voto de calidad del Presidente. Una vez aprobada ésta, será suscrita al menos por el Secretario y el Presidente asistentes a la sesión en que se tomaron los acuerdos.
+
+Las deliberaciones de la Junta serán secretas. Sus acuerdos sólo podrán hacerse públicos cuando esté legalmente previsto o lo decida la Junta Directiva que, asimismo, determinará el medio y ámbito de dicha publicidad.
+
+> Se modifica por el art. 1.200 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 327.**
+
+Corresponde a la Junta Directiva, como órgano de gobierno y ejecución, el ejercicio de todas las funciones atribuidas al Colegio para el cumplimiento de sus fines, salvo las que están reservadas a la Junta General.
+
+Especialmente son obligaciones de la Junta Directiva:
+
+1.ª Velar por la más estricta disciplina de los notarios en el cumplimiento de sus deberes funcionales, colegiales y corporativos, corrigiendo sus infracciones, de conformidad con lo dispuesto en el régimen disciplinario.
+
+2.ª Ordenar en su respectivo ámbito territorial la actividad profesional de los notarios en las siguientes materias: correcta atención al público, tiempo y lugar de su prestación, concurrencia leal y publicidad, continuidad de la prestación de funciones, incluso en días festivos y períodos de vacaciones. No obstante, en el ejercicio de esta competencia la Junta Directiva deberá cumplir con los acuerdos y circulares del Consejo General del Notariado, así como con lo que disponga éste cuando la materia objeto de dicha ordenación por su trascendencia o interés afecte a un ámbito territorial superior al del Colegio respectivo.
+
+3.ª Organizar los servicios necesarios para la ejecución de los fines del Colegio e impulsar y vigilar su actividad.
+
+4.ª Gestionar, administrar y disponer de los bienes del Colegio en general y proponer a la Junta General la inversión y disposición sobre inmuebles.
+
+5.ª Representar los derechos y administrar los intereses del Colegio. A este fin, antes del 31 de marzo de cada año, formalizará y someterá a la aprobación de la Junta General el presupuesto ordinario de ingresos y gastos del Colegio para el ejercicio corriente y las cuentas del anterior. El ejercicio económico coincidirá con el año natural.
+
+En el presupuesto ordinario se consignarán en partidas separadas las diferentes clases de ingresos, y serán expresadas, también separadas unas de otras, las partidas de gastos que se autoricen, con la cantidad asignada para cada una de ellas. Entre las partidas de gastos se consignarán necesariamente cantidades para bibliotecas y organización de archivos, sin que el concepto de «Imprevistos» pueda exceder del 15 por 100 del total de aquél.
+
+La Junta Directiva podrá hacer transferencias de unas a otras partidas cuando lo considere conveniente a las necesidades del Colegio.
+
+6.ª Informar a los colegiados que lo soliciten acerca de las cuestiones en que tengan interés legítimo y, asimismo, informar a todos los colegiados asistentes, en Junta General, por lo menos una vez al año, de cuantas cuestiones de interés colectivo puedan afectarles a ellos o al Colegio en el orden corporativo, colegial, profesional o cultural y de las que la Junta tenga conocimiento.
+
+7.ª Suministrar al público, incluso a través de los medios de comunicación social, información general sobre materias directamente relacionadas con la actividad notarial y, en particular, aquella información que, según las circunstancias, resulte adecuada para el mejor conocimiento y salvaguarda de los derechos de los particulares.
+
+8.ª Cumplir y ejecutar los acuerdos de la Junta General.
+
+> Se modifica por el art. 1.201 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Redactado el apartado 7 conforme a la corrección de errores publicada en BOE núm. 183, de 1 de agosto de 1984. [Ref. BOE-A-1984-17221](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17221)
+
+> Se modifica por el art. 1 del Decreto de 5 de abril de 1957. [Ref. BOE-A-1957-5212](https://www.boe.es/buscar/doc.php?id=BOE-A-1957-5212).
+
+**Artículo 328.**
+
+Las Juntas Directivas, además de las facultades contenidas en otras disposiciones, tendrán las siguientes:
+
+1\. Acordar la comparecencia en juicio del Colegio y el otorgamiento de poderes.
+
+2\. Formalizar y someter a la aprobación de la Junta General presupuesto extraordinario para atender gastos colegiales excepcionales, fijando con precisión la forma en que hayan de financiarse y el plazo previsto para su amortización, así como la justa aportación de los colegiados para satisfacer aquéllos.
+
+3\. Determinar el sistema contable del Colegio.
+
+4\. Organizar, dirigir y administrar el servicio de legalizaciones y apostillas.
+
+5\. Adoptar las medidas que estime necesarias y de carácter urgente para asegurar la prestación de las funciones notariales cuando circunstancias excepcionales de la localidad así lo exijan, pudiendo el Decano, en iguales casos, disponer lo conveniente para garantizar la normalidad en el reparto de letras, pagarés y demás documentos de crédito, y sin perjuicio de dar cuenta de ello a la Dirección General.
+
+6\. Acordar el pago en todo o en parte, según los fondos de que disponga el Colegio, de las expensas que hubiere hecho un notario para salvar su protocolo, o el de otro notario, de inundación, incendio u otra fuerza mayor. Si se hubiere producido muerte, inutilidad o lesión, se podrá acordar, además, la concesión a aquél o a sus familiares, por una sola vez, de auxilios extraordinarios complementarios en la cuantía que determine la Junta atendidas las circunstancias.
+
+> Se modifica el apartado 6 por el art. 1.202 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 329.**
+
+El Decano, además de su carácter representativo y de las funciones previstas en otros artículos del Reglamento, tendrá las de convocar la Junta Directiva y presidir ésta, la General y las Comisiones especiales a que asista, dirigiendo las deliberaciones y discusiones; impulsará y coordinará las actividades de la Junta Directiva y vigilará el cumplimiento de todos los servicios. Cuidará de la buena conservación de los bienes del Colegio y será el ordenador de pagos, si bien podrá delegar con carácter general en el Tesorero este último cometido.
+
+Ningún pago podrá hacerse sin que sea ordenado por el Decano o el Tesorero o quienes legalmente le sustituyan.
+
+El Vicedecano ejercerá las funciones que le delegue el Decano, asumiendo las de éste en casos de ausencia, enfermedad, incompatibilidad o vacante.
+
+El Secretario llevará y custodiará la documentación oficial del Colegio y los libros de actas, extenderá éstas, expedirá certificaciones con el visto bueno del Decano y remitirá comunicaciones bajo la dirección de éste.
+
+El Tesorero llevará la contabilidad, formalizará anualmente las cuentas, redactará el presupuesto, haciendo constar en tantas cuentas separadas cuantos sean los diferentes conceptos que tengan los ingresos del Colegio y los gastos relativos a cada concepto y, en su caso, ordenará los pagos; confeccionará el inventario de bienes y verificará la Caja.
+
+Los Censores actuarán como Vocales de la Junta y desempeñarán las funciones que el Decano les delegue y las demás previstas en el Reglamento.
+
+Los Vicesecretarios sustituirán al Secretario, pudiendo ejercer asimismo las funciones que les delegue el Decano y la Junta Directiva.
+
+> Se modifica por el art. 1.203 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 330.**
+
+Cuando en el archivo de un Notario fallecido existan instrumentos que no reúnan las solemnidades legales o que adolezcan de otra clase de defectos, las Juntas Directivas de los Colegios Notariales adoptarán las medidas necesarias para su subsanación, si fuere posible, procurando poner en conocimiento de los interesados dichas circunstancias a fin de que puedan, si les conviniere, extender un nuevo documento en sustitución del defectuoso, haciendo los llamamientos por los periódicos oficiales en términos que se respete el secreto del protocolo, pero con las indicaciones necesarias para que se identifiquen los documentos y aplicando, en cuanto sea posible, lo dispuesto en los artículos 146, 153 y 280.
+
+Los gastos que se ocasionen con motivo de lo prevenido en el párrafo anterior, lo mismo que los del otorgamiento de los nuevos instrumentos y cualesquiera otras responsabilidades, serán siempre a cargo de la fianza y sin perjuicio, si ésta no bastara, del derecho de los perjudicados o sus herederos contra los bienes del Notario responsable.
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 183, de 1 de agosto de 1984. [Ref. BOE-A-1984-17221](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17221)
+
+**Artículo 331.**
+
+Las Juntas Directivas y el Decano tendrán también la facultad de acordar inspecciones a las Notarías siempre que lo consideren conveniente a los fines prevenidos en este Reglamento, debiendo practicarlas de inmediato cuando existan indicios racionales de anomalías que deban ser corregidas. Las Juntas Directivas elaborarán cada año un Plan de inspección de notarías del territorio, que deberá ser aprobado por la Dirección General. A tal efecto designarán para cada inspección dos notarios, uno de los cuales actuará como Secretario. Cualquier forma de resistencia a una inspección dará lugar a la inmediata apertura de expediente de corrección disciplinaria, sin perjuicio de que la Junta adopte cuantas medidas estime pertinentes para que la inspección se lleve a efecto.
+
+Previo acuerdo de la Junta Directiva, el Decano podrá solicitar de otros Colegios Notariales que le permitan designar a notarios de su Colegio como inspectores. El Colegio Notarial donde ejerza su función el notario inspeccionado podrá acordar el abono de indemnizaciones por razón de servicio a aquellos notarios colegiados de otro Colegio, como consecuencia de los gastos en que incurran en el ejercicio de su función. A tal fin, en cada Colegio Notarial se establecerá una lista de notarios que puedan ser designados como inspectores. Dicha lista no podrá ser inferior a cinco y será renovada cada año. Los inspectores podrán servirse del auxilio de peritos, incluso de notarios jubilados, para desempeñar su función.
+
+> Se modifica por el art. 1.204 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 183, de 1 de agosto de 1984. [Ref. BOE-A-1984-17221](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17221)
+
+**Artículo 332.**
+
+En cada distrito notarial y para facilitar el cumplimiento de sus funciones, las Juntas Directivas designarán un Notario con el carácter de Delegado y otro como Subdelegado, y podrán nombrar varios Subdelegados cuando lo estimen necesario para el servicio. De estos nombramientos las Juntas darán cuenta a la Dirección General.
+
+Los cargos de Delegado y Subdelegado durarán cuatro años, pero la Junta podrá reelegir a los mismos notarios.
+
+Estos cargos son honoríficos, gratuitos y obligatorios para los notarios menores de sesenta años de edad y también para los mayores cuando no haya más que uno en el distrito.
+
+Las Juntas Directivas podrán, cuando existiere motivo para ello y dando cuenta a la Dirección, separar de sus cargos a los Delegados y Subdelegados.
+
+A instancia del Delegado, y previo informe de los Notarios afectados, podrán las Juntas Directivas autorizar la apertura de una oficina especial para que en ella quede instalada la Delegación, siempre que las necesidades del servicio o de la organización notarial así lo aconsejen. El acuerdo razonado de la Junta incluirá, caso de ser favorable a dicha apertura, todas las medidas que considere oportunas en orden a su régimen.
+
+> Se modifica por el art. 1.205 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 333.**
+
+Los Notarios de un distrito podrán reunirse en Junta a fin de emitir los informes que se les soliciten por la Junta Directiva y formular a ésta, sin carácter vinculante, las proposiciones que crean oportunas. La Junta del Distrito en que radique la capital del Colegio será convocada por el Decano y presidida por él. Las demás Juntas de Distrito serán convocadas, previo aviso al Decanato, por el respectivo Delegado, quien las presidirá, salvo que la Junta Directiva hubiere designado para hacerlo a alguno de sus miembros. En defecto de Delegado, le sustituirá a estos fines el Subdelegado más antiguo en la carrera. Ejercerá las funciones de Secretario el Notario más moderno.
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 334.**
+
+Las resoluciones o acuerdos de las Juntas podrán ser recurribles en los plazos y forma previstos para el de alzada ante la Dirección General cuando se refieran a la interpretación y aplicación de la regulación notarial.
+
+> Se modifica por el art. 1.206 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 335.**
+
+Las Juntas Directivas, lo mismo que los Colegios Notariales y sus Decanos, tendrán el tratamiento de Ilustres.
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+##### Sección 3.ª Del Consejo General del Notariado
+
+> Se añade por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 336.**
+
+El Consejo General del Notariado tiene la condición de Corporación de Derecho público, con personalidad jurídica propia y plena capacidad. En el ejercicio de las funciones públicas atribuidas respecto de la prestación de la función pública notarial queda subordinado jerárquicamente al Ministro de Justicia y a la Dirección General de los Registros y del Notariado. Son sus fines esenciales: colaborar con la Administración, mantener la organización colegial, coordinar las funciones de los Colegios Notariales, asumiéndolas en los casos legalmente establecidos, dictar Circulares de orden interno de obligado cumplimiento para los Colegios y los notarios en las materias a que se refiere el artículo 344 de este Reglamento, y ostentar la representación unitaria del Notariado español.
+
+Forman parte del Consejo General todos los Decanos de los Colegios Notariales de España. En caso de vacante del cargo de Decano de algún Colegio Notarial será miembro del Consejo General quien haga sus veces.
+
+Se relacionará con el Ministerio de Justicia por medio de la Dirección General de los Registros y del Notariado.
+
+El Consejo General tiene su sede en Madrid.
+
+> Se modifica por el art. 1.207 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 337.**
+
+El Consejo General funcionará en Pleno, en Comisión Permanente y por medio de la actuación de su Presidente, que ostenta la representación legal del mismo. En defecto o imposibilidad del Presidente será sustituido por el Vicepresidente.
+
+El Presidente y el Vicepresidente serán designados por el Pleno del Consejo General mediante elección entre sus miembros. El Pleno podrá también acordar su remoción y aceptar su renuncia. Todos estos acuerdos se pondrán en conocimiento del Ministerio de Justicia dentro del plazo de cinco días.
+
+El tiempo de duración de los cargos de Presidente y de Vicepresidente coincidirá con el de su mandato como Decano. La condición de Presidente y de Vicepresidente no es delegable en ningún caso.
+
+> Se añade el párrafo tercero por el art. 1.208 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 338.**
+
+El Pleno se reunirá cuando así lo acuerde el mismo y, además, siempre que lo determine el Presidente, por propia iniciativa o a petición fundada de cualquier Decano. Deberá convocarse el Pleno, al menos, con dos días hábiles de antelación a la fecha de su celebración. En dicha convocatoria se incluirá el orden del día. El Presidente podrá por motivos de urgencia modificar el orden del día hasta el día inmediato hábil al de su celebración comunicando inmediatamente dicha modificación a los miembros del Pleno. Quedará éste válidamente constituido si concurre la mayoría absoluta de sus miembros.
+
+A las sesiones del Pleno asistirán los Decanos personalmente. En caso de imposibilidad podrán designar como su delegado, precisamente por escrito, con expresión de causa y para la sesión particular de que se trate, a un miembro de la Junta Directiva de su Colegio. El Pleno podrá delegar en la Comisión Permanente el ejercicio de aquellas competencias que entienda oportunas, a excepción de la aprobación de Circulares de orden interno que sólo compete al Pleno.
+
+> Se modifica por el art. 1.209 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 339.**
+
+La Comisión Permanente estará integrada por el Presidente, el Vicepresidente y tres Decanos designados por el Pleno. Se reunirá cuantas veces fuere necesario, previa convocatoria por el Presidente, por propia iniciativa o a petición fundada de cualquiera de sus miembros. Quedará válidamente constituida para su actuación en cada caso con la asistencia de la mayoría absoluta de sus componentes. De sus acuerdos se dará cuenta inmediata a todos los Decanos.
+
+Podrá ejercer aquellas competencias que le delegue el Pleno del Consejo, asumiendo las funciones de éste en casos de urgencia. Los acuerdos adoptados por la Comisión Permanente en virtud de delegación del Consejo deberán expresar tal carácter y se entenderán adoptados por el órgano delegante, pudiendo ser objeto de recurso en los términos previstos en el artículo 343 de este Reglamento. Del resto de sus acuerdos dará cuenta a todos los Decanos.
+
+No es delegable la condición de miembro de la Comisión Permanente, que se ostentará con carácter personal por todo el tiempo que el designado desempeñe el cargo de Decano.
+
+> Se modifica por el art. 1.210 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 340.**
+
+El Consejo General elegirá un Secretario, a propuesta del Presidente. El Secretario deberá ser notario. Su cese se producirá por acuerdo del Consejo, a propuesta asimismo del Presidente. Su designación y cese serán comunicados al Ministerio de Justicia a la mayor brevedad.
+
+Son funciones del Secretario levantar acta de las sesiones del Pleno y de la Comisión Permanente, expedir certificaciones con el visto bueno del Presidente, custodiar la documentación de la Junta, auxiliar al Presidente en la ejecución de los acuerdos y en la preparación del orden del día de las sesiones y dirigir la labor del personal del Consejo, tanto de secciones técnicas como de la oficina administrativa.
+
+A propuesta conjunta del Presidente y del Secretario, el Consejo designará uno o varios Vicesecretarios y los removerá, en su caso. Cualquiera de las funciones del Secretario puede ser delegada por éste en un Vicesecretario, siempre en cuestiones determinadas. El Vicesecretario, o uno de los Vicesecretarios, actuará como Tesorero.
+
+El Consejo podrá encomendar servicios determinados a Secciones Delegadas del mismo, integradas por notarios o personal especializado. El Director de cada una de ellas utilizará la denominación de Delegado o Director de la Sección correspondiente, y rendirá cuenta de su actuación al Consejo a través del Presidente.
+
+Igualmente, podrá crear la unidad especializada prevista en el artículo 17.6 de la Ley del Notariado a los efectos de colaborar eficazmente con las Administraciones Públicas, y especialmente, con las autoridades judiciales, administrativas y policiales competentes en lo relativo a la lucha contra el fraude tributario pudiendo a estos efectos recabar del notario la información y datos precisos.**Creada dicha unidad el notario le prestará auxilio en el ejercicio de sus funciones, debiendo facilitar a dicha unidad especializada cualquier información que ésta les requiera para el ejercicio de su función de examen.**
+
+> Ref. BOE-A-2008-18893
+
+> Se declara la nulidad del inciso destacado por Sentencia del TS de 14 de octubre de 2008. [Ref. BOE-A-2008-18893](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-18893).
+
+> En el mismo sentido se pronuncian:
+
+> Sentencia del TS de 7 de octubre de 2008. [Ref. BOE-A-2008-20310](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20310)
+
+> Sentencia del TS de 7 de octubre de 2008. [Ref. BOE-A-2008-20311](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20311)
+
+> Sentencia del TS de 7 de octubre de 2008. [Ref. BOE-A-2008-20312](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20312)
+
+> Sentencia del TS de 7 de octubre de 2008. [Ref. BOE-A-2008-20313](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20313)
+
+> Sentencia del TS de 7 de octubre de 2008. [Ref. BOE-A-2008-20314](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20314)
+
+> Sentencia del TS de 7 de octubre de 2008. [Ref. BOE-A-2008-20315](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20315)
+
+> Sentencia del TS de 14 de octubre de 2008. [Ref. BOE-A-2008-20316](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20316)
+
+> Sentencia del TS de 14 de octubre de 2008. [Ref. BOE-A-2008-20317](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20317)
+
+> Sentencia del TS de 14 de octubre de 2008. [Ref. BOE-A-2008-20318](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20318)
+
+> Sentencia del TS de 14 de octubre de 2008. [Ref. BOE-A-2008-20319](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20319)
+
+> Sentencia del TS de 14 de octubre de 2008. [Ref. BOE-A-2008-20320](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20320)
+
+> Sentencia del TS de 14 de octubre de 2008. [Ref. BOE-A-2008-20321](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20321)
+
+> Sentencia del TS de 4 de noviembre de 2008. [Ref. BOE-A-2008-20322](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20322)
+
+> Sentencia del TS de 4 de noviembre de 2008. [Ref. BOE-A-2008-20323](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20323)
+
+> Sentencia del TS de 11 de noviembre de 2008. [Ref. BOE-A-2008-20324](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20324)
+
+> Sentencia del TS de 11 de noviembre de 2008. [Ref. BOE-A-2008-20325](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20325)
+
+> Sentencia del TS de 11 de noviembre de 2008. [Ref. BOE-A-2008-20326](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20326)
+
+> Sentencia del TS de 11 de noviembre de 2008. [Ref. BOE-A-2008-20327](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20327)
+
+> Sentencia del TS de 11 de noviembre de 2008. [Ref. BOE-A-2008-20328](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20328)
+
+> Se modifica por el art. 1.211 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Redactado el párrafo segundo conforme a la corrección de errores publicada en BOE núm. 183, de 1 de agosto de 1984. [Ref. BOE-A-1984-17221](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17221)
+
+**Artículo 341.**
+
+Para la válida adopción de acuerdos se exige la presencia de la mitad más uno de los Decanos debiendo asistir el Presidente o Vicepresidente en su sustitución y el Secretario o Vicesecretario que le sustituya.
+
+Los acuerdos del Pleno deberán ser adoptados con el voto favorable de la mayoría de los asistentes, resolviendo en caso de empate el voto de calidad del Presidente.
+
+Las deliberaciones del Pleno serán secretas. Sus acuerdos sólo podrán hacerse públicos cuando esté legalmente previsto o lo decida el Pleno que, asimismo, determinará el medio y ámbito de dicha publicidad. Respecto de la Comisión Permanente se estará a lo dispuesto en el artículo 339 de este Reglamento.
+
+Todas las sesiones del Pleno y de la Comisión Permanente se celebrarán en el lugar en que por mayoría simple acuerden sus miembros.
+
+> Se modifica por el art. 1.212 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 342.**
+
+Los acuerdos adoptados por el Consejo General son inmediatamente ejecutivos. La ejecución corresponde al Presidente o a la Comisión Permanente, salvo que, en casos especiales, se hubiese acordado que se lleve a efecto por uno o varios Decanos o bien por el Secretario.
+
+> Se modifica por el art. 1.213 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 343.**
+
+Los acuerdos o resoluciones del Consejo General, hayan sido adoptados por el Pleno o por la Comisión Permanente previa delegación de aquél, serán impugnables ante el Ministro de Justicia, cuando se refieran a la interpretación y aplicación de la regulación notarial en los plazos y forma previstos para el de alzada.
+
+> Se modifica por el art. 1.214 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 344.**
+
+Son funciones del Consejo General las siguientes:
+
+A) 1. Facilitar y organizar la comunicación entre Colegios Notariales; coordinar sus actuaciones y dirimir, dentro de sus facultades, proponiendo en otro caso su resolución, los conflictos que puedan surgir entre ellos.
+
+2\. Adoptar las medidas necesarias para que los Colegios cumplan las resoluciones del Consejo General dictadas en materia de su competencia.
+
+3\. Completar provisionalmente con los colegiados más antiguos las Juntas Directivas de los Colegios cuando se produzcan las vacantes de más de la mitad de los cargos de aquéllas. La Junta provisional, así constituida, ejercerá sus funciones hasta que tomen posesión los designados en virtud de elección.
+
+Igualmente, el Consejo podrá designar una Junta Gestora para aquellos Colegios en los que no se presentara candidatura válida para cubrir todos los puestos de la Junta Directiva. Dicha Junta estará integrada por tres notarios del ámbito territorial del Colegio respectivo y sus cargos serán obligatorios para los notarios designados. Constituida esa Junta el Consejo comunicará a la Dirección General la identidad de sus integrantes y cargos. En todo caso, dicha Junta deberá convocar elecciones tan pronto sea posible.
+
+4\. Velar por el exacto cumplimiento de las disposiciones vigentes por parte de los Colegios y de los notarios. A estos efectos, y en el ámbito de las disposiciones que rigen la función pública notarial podrá dictar circulares de orden interno de obligado cumplimiento para los Colegios y notarios. El Proyecto de circular deberá ser sometido a consulta previa de la Dirección General de los Registros y del Notariado. Transcurridos diez días hábiles desde su remisión sin que dicha Dirección General practique objeción se entenderá aprobada la misma. Este plazo podrá reducirse a dos días hábiles por razones de urgencia que motivará el Consejo en su comunicación a la Dirección General y apreciará ésta. En todo caso, las circulares deberán publicarse en la página web del Consejo.
+
+5\. Aprobar los Reglamentos de régimen interior de los Colegios.
+
+6\. Organizar actividades y servicios comunes de interés para los notarios, y entre ellos los culturales, asistenciales, de previsión y otros análogos, y proveer, en su caso, a su sostenimiento económico. En este sentido, regulará todos los aspectos relativos a la «Revista de Derecho Notarial», organizará el servicio de pago de indemnizaciones por las responsabilidades civiles contraídas por los notarios en el ejercicio de su cargo y el denominado Servicio Quirúrgico, y llevará a cabo de modo continuado estudios sociológicos sobre la implantación del servicio notarial en la sociedad nacional y, en función de sus resultados, propondrá o adoptará, según los casos, las medidas conducentes a procurar el grado óptimo de aquélla en cada circunstancia.
+
+7\. Estimular, proteger y vigilar, conforme a las competencias atribuidas por las leyes, la mejor organización y conservación de los archivos.
+
+8\. Procurar la armonía y colaboración entre todos los notarios a fin de evitar conflictos entre notarios de Colegios diferentes.
+
+9\. Ejercitar el derecho a mostrarse parte en la causa contra cualquier notario que el artículo 62 del Reglamento Notarial concede a la Junta Directiva, si la Junta correspondiente no lo ejercitase y siempre previo informe de la misma.
+
+10\. Organizar cursos para la formación de posgraduados o de práctica notarial, primando especialmente la formación continua y sistemática de los empleados de notarías.
+
+11\. Determinar su régimen económico-financiero mediante la aprobación de sus propios presupuestos y la fijación equitativa de las aportaciones de todos los Colegios Notariales. **Igualmente, establecerá, en su caso, las compensaciones institucionales que estime procedente, para aquellos cargos del Consejo que se entienda oportuno, a fin de garantizar la debida dedicación de los mismos a sus obligaciones corporativas.**
+
+12\. Establecer sistemas unificados de consignaciones, depósitos, cobros y pagos relativos a cualquier actuación o expediente notarial cuya existencia esté prevista por alguna disposición normativa.
+
+B) 1. Ostentar la representación y defensa de la profesión notarial ante la Administración, Instituciones, Tribunales, Entidades y particulares, con legitimación para ser parte en cuantos litigios afecten a los intereses profesionales, y ejercitar el derecho de petición conforme a la Ley.
+
+2\. Asumir la representación del Notariado español ante las Entidades similares en otras naciones, designando asimismo las personas y Delegaciones que corresponda.
+
+3\. Informar en todos aquellos casos en que el Ministerio de Justicia lo estime conveniente y en especial en las reformas que afecten al ingreso en el Notariado y al régimen de las oposiciones y, en particular, al programa o temario de las oposiciones libres.
+
+4\. Designar o proponer, en su caso, los Decanos y notarios que hayan de figurar como vocales de la Junta de Patronato de la Mutualidad Notarial y de los órganos rectores de otras Entidades en los supuestos legalmente establecidos.
+
+5\. Participar en los Consejos u Organismos consultivos de la Administración en las materias de competencia de la profesión notarial.
+
+C) 1. Informar preceptivamente todo proyecto de modificación de la legislación sobre Colegios Profesionales, así como los proyectos de Ley o de disposiciones de cualquier rango que se refieran a las condiciones generales de la función notarial.
+
+2\. Informar los proyectos de disposiciones generales de carácter fiscal que afecten directa y concretamente a la profesión notarial en los términos previstos en la legislación estatal o autonómica correspondiente.
+
+**3. Informar en los recursos gubernativos contra calificaciones de los Registradores de la Propiedad o Mercantiles, siempre que la Dirección General lo solicite y se trate de materias que afecten al Notariado o a la función notarial.**
+
+4\. Informar, a petición de las Juntas Directivas de los Colegios Notariales o de la Dirección General de los Registros y del Notariado, en las impugnaciones de honorarios hechas con arreglo a los Aranceles Notariales y en los supuestos de consultas a los que se refiere el artículo 70 del Reglamento Notarial.
+
+5\. Ejercer cuantas funciones le sean encomendadas por la Administración y colaborar con ésta mediante la realización de estudios, emisión de informes, elaboración de estadísticas y otras actividades relacionadas con sus fines que puedan serle solicitadas o acuerde formular por propia iniciativa, y especialmente colaborar con el Ministerio de Justicia y con la Dirección General de los Registros y del Notariado en todo lo que se refiera a la función notarial.
+
+6\. Proponer a la Administración, y en especial a la Dirección General de los Registros y del Notariado, la adopción de medidas o las resoluciones y disposiciones de carácter general que estime convenientes para el Notariado.
+
+7\. Colaborar con la Administración para que se cumplan las condiciones exigidas en orden a la presentación y proclamación de candidatos para los cargos de las Juntas Directivas de los Colegios Notariales.
+
+8\. Consultar a la Dirección General las dudas que tenga sobre la aplicación de las disposiciones de carácter notarial, y elevar consultas a los Organismos competentes sobre la aplicación de las Leyes cuando se relacionen directamente con la actuación notarial, verificándolo por mediación del Ministerio de Justicia si se refieren a la función.
+
+9\. Elevar consulta vinculante a la Dirección General de los Registros y del Notariado, respecto de aquellos actos o negocios susceptibles de inscripción en los Registros de la Propiedad, Mercantil y de Bienes Muebles, de conformidad con el artículo 103 de la Ley 24/2001, de 27 de diciembre.
+
+10\. Evacuar las consultas que los Colegios o los notarios le formulen sobre asuntos técnicos de la profesión. La resolución de las consultas deberá ser objeto de publicación en el sitio web del Consejo.
+
+D) 1. Velar por la ética y dignidad profesional en la práctica de la función notarial y por el respeto debido a los derechos de los particulares, promoviendo la corrección de cuanto pueda atentar a tales principios, a cuyos fines estará facultado para girar visitas de inspección a los Colegios Notariales y para proponer a la Dirección General de los registros y del Notariado, si procediere, la apertura de expedientes disciplinarios.
+
+2\. Instruir los expedientes de corrección disciplinaria promovidos contra las Juntas Directivas por causa de infracciones mutualistas.
+
+3\. Adoptar las medidas conducentes a evitar el intrusismo profesional.
+
+E) Colaborar con las Administraciones tributarias de acuerdo con lo dispuesto en el artículo 17.3 de la Ley del Notariado y con las autoridades responsables de la prevención del blanqueo de capitales en los términos establecidos en la Ley 19/1993, de 28 de diciembre, sobre determinadas medidas de prevención del blanqueo de capitales.
+
+F) Cualquier otra establecida en las Leyes y Reglamentos.
+
+El ejercicio de todas las funciones establecidas en los apartados anteriores corresponde al Pleno del Consejo General, si bien por acto expreso de delegación, general o específica, de aquél podrán ser ejercitadas por la Comisión Permanente, de conformidad con lo previsto en el artículo 339 de este Reglamento. Igualmente, y mediante acuerdo de las dos terceras partes de sus miembros el Pleno podrá delegar la ejecución de alguna de sus competencias en uno o varios de sus integrantes.
+
+> Ref. BOE-A-2008-18893
+
+> Ref. BOE-A-2008-13316
+
+> Se añade el punto 12 al apartado A) por la disposición final 2 del Real Decreto 1011/2015, de 6 de noviembre. [Ref. BOE-A-2015-12055](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12055).
+
+> Se declara la nulidad del inciso destacado del apartado A).11 por Sentencia del TS de 14 de octubre de 2008. [Ref. BOE-A-2008-18893](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-18893).
+
+> En el mismo sentido se pronuncian:
+
+> Sentencia del TS de 7 de octubre de 2008. [Ref. BOE-A-2008-20310](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20310)
+
+> Sentencia del TS de 7 de octubre de 2008. [Ref. BOE-A-2008-20311](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20311)
+
+> Sentencia del TS de 7 de octubre de 2008. [Ref. BOE-A-2008-20312](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20312)
+
+> Sentencia del TS de 7 de octubre de 2008. [Ref. BOE-A-2008-20313](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20313)
+
+> Sentencia del TS de 7 de octubre de 2008. [Ref. BOE-A-2008-20314](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20314)
+
+> Sentencia del TS de 7 de octubre de 2008. [Ref. BOE-A-2008-20315](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20315)
+
+> Sentencia del TS de 14 de octubre de 2008. [Ref. BOE-A-2008-20316](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20316)
+
+> Sentencia del TS de 14 de octubre de 2008. [Ref. BOE-A-2008-20317](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20317)
+
+> Sentencia del TS de 14 de octubre de 2008. [Ref. BOE-A-2008-20318](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20318)
+
+> Sentencia del TS de 14 de octubre de 2008. [Ref. BOE-A-2008-20319](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20319)
+
+> Sentencia del TS de 14 de octubre de 2008. [Ref. BOE-A-2008-20320](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20320)
+
+> Sentencia del TS de 14 de octubre de 2008. [Ref. BOE-A-2008-20321](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20321)
+
+> Sentencia del TS de 4 de noviembre de 2008. [Ref. BOE-A-2008-20322](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20322)
+
+> Sentencia del TS de 4 de noviembre de 2008. [Ref. BOE-A-2008-20323](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20323)
+
+> Sentencia del TS de 11 de noviembre de 2008. [Ref. BOE-A-2008-20324](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20324)
+
+> Sentencia del TS de 11 de noviembre de 2008. [Ref. BOE-A-2008-20325](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20325)
+
+> Sentencia del TS de 11 de noviembre de 2008. [Ref. BOE-A-2008-20326](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20326)
+
+> Sentencia del TS de 11 de noviembre de 2008. [Ref. BOE-A-2008-20327](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20327)
+
+> Sentencia del TS de 11 de noviembre de 2008. [Ref. BOE-A-2008-20328](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20328)
+
+> Se reordena la letra E) como F) y se añade la letra E) por el art. 1.4 del Real Decreto 1804/2008, de 3 de noviembre. [Ref. BOE-A-2008-18548](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-18548).
+
+> Se declara la nulidad del inciso destacado del apartado C).3 por Sentencia del TS de 7 de julio de 2008. [Ref. BOE-A-2008-13316](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-13316).
+
+> Se modifica por el art. 1.215 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 345.**
+
+Corresponde al Presidente del Consejo General ostentar la representación legal de ésta; convocar, preparar el orden del día en el que se incluirán obligatoriamente las materias solicitadas por cualquiera de los miembros del Consejo y presidir las sesiones del Pleno y de la Comisión Permanente, ejecutar los acuerdos adoptados; llevar a cabo los actos de administración del patrimonio de la Junta, entre ellos los de abrir, seguir y extinguir cuentas bancarias, efectuar cobros y pagos y comprar y vender valores mobiliarios; comparecer en juicio por sí o por medio de Procuradores; resolver los asuntos de tramitación ordinaria y cuantas atribuciones le sean encomendadas por el Pleno o la Comisión Permanente. En relación con ésta, apreciará, en su caso, la urgencia de los asuntos que motive la convocatoria de la misma.
+
+> Se modifica por el art. 7 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+### TÍTULO SEXTO — De las correcciones disciplinarias
+
+**Artículo 346.**
+
+El régimen disciplinario de los notarios se regirá por lo establecido en el artículo 43.Dos de la Ley 14/2000, de 29 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, y por lo previsto en el presente Reglamento. Supletoriamente, a falta de normas especiales, se aplicará lo dispuesto en las normas reguladoras del régimen disciplinario de los funcionarios civiles del Estado, excepto en lo referente a la tipificación de las infracciones.
+
+La Dirección General de los Registros y del Notariado podrá acordar las visitas de inspección que estime necesarias en relación con la actuación de los Colegios Notariales.
+
+La regulación del régimen disciplinario de los notarios prevista en este Reglamento se entenderá sin perjuicio de lo dispuesto en los artículos 186.3 y 211.5.a) de la Ley 58/2003, de 17 de diciembre, General Tributaria, y sus normas de desarrollo.
+
+> Se modifica por el art. 1.5 del Real Decreto 1804/2008, de 3 de noviembre. [Ref. BOE-A-2008-18548](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-18548).
+
+> Se modifica por el art. 1.216 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 347.**
+
+Las faltas cometidas por los notarios en el ejercicio de su actividad pública se considerarán infracciones muy graves, graves o leves, conforme se establece en los artículos siguientes.
+
+Las infracciones prescribirán a los cuatro meses, en el caso de infracciones leves; a los dos años las infracciones graves y a los cuatro años las infracciones muy graves, computados desde su comisión.
+
+Los mismos plazos serán necesarios en los mismos supuestos para la prescripción de las sanciones, computados desde el día siguiente al que adquiera firmeza la resolución en que se impongan.
+
+La incoación de procedimiento penal no será obstáculo para la iniciación de un expediente disciplinario por los mismos hechos, mas no se dictará resolución en éste en tanto no haya recaído sentencia o auto de sobreseimiento firmes en la causa penal.
+
+En todo caso, la declaración de hechos probados contenida en la resolución que pone término al procedimiento penal vinculará a la que se dicte en el expediente disciplinario, sin perjuicio de la distinta calificación jurídica que pueda merecer en una u otra vía.
+
+Sólo podrá recaer sanción penal y disciplinaria sobre los mismos hechos cuando no hubiere identidad de fundamento jurídico y de bien jurídico protegido.
+
+> Se modifica por el art. 1.217 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 348.**
+
+Son infracciones muy graves:
+
+a) Las conductas constitutivas de delito doloso relacionadas con la prestación de la fe pública que causen daño a la Administración o a los particulares declaradas en sentencia firme.
+
+b) Las conductas que hayan acarreado sanción administrativa, en resolución firme, por infracción grave de disposiciones en materia de prevención de blanqueo de capitales, tributaria, de mercado de valores u otras previstas en la legislación especial que resulte aplicable, siempre que dicha infracción esté directamente relacionada con el ejercicio de su profesión.
+
+c) La autorización o intervención de documentos contrarios a lo dispuesto en las leyes o sus reglamentos, a sus formas y reglas esenciales siempre que se deriven perjuicios graves para clientes, para terceros o para la Administración.
+
+d) La actuación del notario sin observar las formas y reglas de la presencia física.
+
+e) La reincidencia por la comisión de infracciones graves en el plazo de dos años siempre que hubieran sido sancionadas por resolución firme.
+
+f) El incumplimiento grave de las normas sobre incompatibilidades contenidas en la Ley 5/2006, de 10 de abril de Regulación de los Conflictos de intereses de los miembros del Gobierno y Altos cargos de la Administración General del Estado y en la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.
+
+g) La percepción de derechos arancelarios con infracción de las disposiciones por las que aquellos se rijan.
+
+h) El incumplimiento del deber de fidelidad a la Constitución en el ejercicio de su profesión.
+
+i) Toda actuación profesional que suponga discriminación por razón de raza, sexo, religión, lengua, opinión, lugar de nacimiento, vecindad o cualquier otra condición o circunstancia personal o social.
+
+j) La violación de neutralidad o independencia políticas, utilizando las facultades atribuidas para influir en procesos electorales de cualquier naturaleza y ámbito, así como la obstaculización al ejercicio de las libertades públicas y derechos sindicales.
+
+k) El incumplimiento de las obligaciones de custodia y uso de la firma electrónica reconocida del notario, así como la obligación de denunciar la pérdida, extravío o deterioro o situación que ponga en riesgo el secreto o la unicidad del dispositivo seguro de creación de firma de acuerdo con lo dispuesto en la legislación sobre el uso de firma electrónica de notarios y Registradores de la Propiedad, Mercantiles y de Bienes Muebles.
+
+> Se modifica por el art. 1.218 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 349.**
+
+Son infracciones graves:
+
+a) Las conductas que hayan acarreado sanción administrativa, en resolución firme, por infracción de disposiciones en materia de prevención de blanqueo de capitales, tributaria, de mercado de valores, u otras previstas en la legislación especial que resulte aplicable, siempre que dicha infracción esté directamente relacionada con el ejercicio de su profesión y no constituyan falta muy grave.
+
+b) La negativa injustificada a la prestación de funciones requeridas, así como la ausencia injustificada por más de dos días del lugar de su residencia, siempre que cause daño a terceros; en particular, se considerará a los efectos de esta infracción de negativa injustificada a la prestación de funciones requeridas, la denegación injustificada por parte del notario a autorizar un instrumento público.
+
+c) Las conductas que impidan prestar con imparcialidad, dedicación y objetividad las obligaciones de asistencia, asesoramiento y control de legalidad que la vigente legislación atribuya a los notarios o que pongan en peligro los deberes de honradez e independencia necesarios para el ejercicio público de su función.
+
+d) Los enfrentamientos graves y reiterados del notario con autoridades, clientes u otros notarios, en el lugar, zona o distrito donde ejerce su función, debida a actitudes no justificadas de aquél.
+
+e) El incumplimiento grave y reiterado de cualesquiera deberes impuestos por la legislación notarial o por acuerdo corporativo vinculante, así como el impago de los gastos colegiales acordados reglamentariamente.
+
+f) La reincidencia por la comisión de infracciones leves en el plazo de dos años siempre que hubieran sido sancionadas por resolución firme.
+
+g) La falta de rendimiento que afecte al normal funcionamiento del servicio y no constituya falta muy grave.
+
+h) La falta de obediencia debida a las Juntas Directivas y al Consejo General del Notariado.
+
+i) El incumplimiento y la falta de obediencia a las Instrucciones y Resoluciones de carácter vinculante de la Dirección General de los Registros y del Notariado, así como la falta de respeto o menosprecio a dicho Centro Directivo.
+
+j) La negativa injustificada a la prestación de funciones requeridas a través de la Agenda Electrónica Notarial.
+
+> Se añade la letra j) por la disposición final 3 del Real Decreto 421/2015, de 29 de mayo. [Ref. BOE-A-2015-6520](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-6520).
+
+> Se modifica por el art. 1.219 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 1 del Decreto de 30 de noviembre de 1945. [Ref. BOE-A-1945-12055](https://www.boe.es/buscar/doc.php?id=BOE-A-1945-12055).
+
+**Artículo 350.**
+
+Es infracción disciplinaria leve, si no procediere calificarla como grave o muy grave, el incumplimiento de los deberes y obligaciones impuestos por la legislación notarial o, con base en ella, por resolución administrativa o acuerdo corporativo. Tratándose del incumplimiento de un acuerdo corporativo, será necesario que el notario previamente haya sido requerido para su observancia por el órgano corporativamente competente.
+
+El requerimiento citará expresamente el precepto, dará un plazo para cumplirlo y apercibirá al notario de que, si no lo hace, podrá incurrir en infracción disciplinaria leve.
+
+> Se modifica por el art. 1.220 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se modifica por el art. 2 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 351.**
+
+Tendrán la consideración de infracción grave las siguientes infracciones en que pudieren incurrir los miembros o delegados del Consejo General del Notariado, los de las Juntas Directivas de los Colegios Notariales, así como los archiveros de protocolos:
+
+a) El incumplimiento grave o reiterado de sus deberes, siempre que suponga infracción de un precepto legal, reglamentario o corporativo.
+
+b) La negativa o resistencia a cumplir instrucciones, circulares, resoluciones o actos administrativos de obligado cumplimiento y las graves insuficiencias o deficiencias en su cumplimiento.
+
+c) El incumplimiento o cumplimiento defectuoso de acuerdos corporativos regularmente adoptados, si mediara dolo o negligencia grave.
+
+Si la infracción fuera reiterada en el transcurso de su mandato, tendrá la calificación de muy grave.
+
+Sin perjuicio de lo dispuesto en el artículo 354 de este Reglamento, la sanción a los miembros de la Junta Directiva de los Colegios Notariales o del Consejo General sólo podrá ser impuesta por el Director General de los Registros y del Notariado.
+
+> Se modifica por el art. 1.221 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 352.**
+
+Las sanciones que pueden ser impuestas a los notarios, sin perjuicio de lo previsto en la Ley y en la reglamentación notarial en relación a la traba de su fianza, son las siguientes:
+
+a) Apercibimiento.
+
+b) Multa.
+
+c) Suspensión de los derechos de ausencia, licencia o traslación voluntaria hasta dos años.
+
+d) Postergación de la antigüedad en la carrera cien puestos o en la clase hasta cinco años.
+
+e) Traslación forzosa.
+
+f) Suspensión de funciones hasta cinco años.
+
+g) Separación del servicio.
+
+En la sanción de multa existirá una escala de tres tramos: menor, entre 601 y 3.005 euros; media entre 3.005 y 12.020 euros, y mayor entre 12.020 euros y 30.050 euros.
+
+En caso de reiteración podrá multiplicarse dicha cuantía hasta un máximo del cien por cien de la multa a pagar.
+
+> Se modifica por el art. 1.222 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+**Artículo 353.**
+
+Las infracciones muy graves se sancionarán con multa en el último tramo, traslación forzosa, suspensión de funciones y separación del servicio.
+
+Las infracciones graves se sancionarán con multa a partir del tramo medio de la escala, con suspensión de los derechos reglamentarios de ausencia, licencia o traslación voluntaria y con postergación.
+
+Las infracciones leves sólo podrán ser sancionadas con apercibimiento, con multa de tramo menor o con suspensión de los derechos reglamentarios de ausencia, licencia o traslación voluntaria.
+
+Las sanciones se graduarán atendiendo en cada caso concreto, esencialmente, a la trascendencia que para la prestación de la función notarial tenga la infracción cometida; la existencia de intencionalidad o reiteración y la entidad de los perjuicios ocasionados.
+
+La imposición de una sanción por infracción grave o muy grave llevará aneja, como sanción accesoria, la privación de la aptitud para ser elegido miembro de las juntas Directivas mientras no se haya obtenido rehabilitación.
+
+El notario separado del servicio causará baja en el escalafón y perderá todos sus derechos, excepto los derivados de la previsión notarial, en los casos en que corresponda.
+
+> Se modifica por el art. 1.223 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 183, de 1 de agosto de 1984. [Ref. BOE-A-1984-17221](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17221), y la corrección de erratas publicada en BOE núm. 187, de 6 de agosto de 1984. [Ref. BOE-A-1984-17515](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17515)
+
+> Se deroga por el art. 1 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 354.**
+
+Son órganos competentes en la imposición de sanción las Juntas Directivas de los Colegios Notariales, la Dirección General de los Registros y del Notariado y el Ministro de Justicia.
+
+Las Juntas Directivas podrán imponer las sanciones de apercibimiento y multa en los tramos menor y medio.
+
+La Dirección General de los Registros y del Notariado será el órgano competente para imponer las sanciones no reservadas a las Juntas Directivas excepto la separación del servicio.
+
+La separación del servicio sólo podrá ser impuesta por el Ministro de Justicia.
+
+> Se modifica por el art. 1.224 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se deroga por el art. 1 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 355.**
+
+En todo lo no previsto en el presente título en orden al régimen disciplinario de los notarios se aplicará supletoriamente, a falta de normas especiales, lo dispuesto en las normas reguladoras del régimen disciplinario de los funcionarios civiles del Estado, salvo en lo referente a la tipificación de las infracciones y, específicamente, lo establecido en el Reglamento de Régimen Disciplinario de los Funcionarios de la Administración del Estado, aprobado por Real Decreto 33/1986, de 10 de enero, o norma que lo sustituya.
+
+> Se modifica por el art. 1.225 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se deroga por el art. 1 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 356.**
+
+El procedimiento disciplinario se iniciará en virtud de acuerdo del órgano competente que tenga conocimiento de los hechos y que podrán ser las Juntas Directivas de los Colegios Notariales, la Dirección General de los Registros y del Notariado o el Ministro de Justicia. El órgano competente para incoar el procedimiento podrá acordar previamente la realización de una información reservada.
+
+En la resolución por la que se incoe el procedimiento se nombrará Instructor y, cuando la complejidad y trascendencia del mismo lo demanden, Secretario para que se encarguen de la tramitación del expediente.
+
+Si el órgano competente para incoar el expediente disciplinario fuera informado por otro de la existencia de hechos que revistan el carácter de infracción disciplinaria podrá ordenar al mismo la incoación del expediente. Igualmente, el órgano competente podrá recabar del inferior su parecer acerca de los hechos a los efectos de valorar su alcance.
+
+La incoación del procedimiento con el nombramiento del Instructor y del Secretario se notificará al notario sujeto a expediente, así como los designados para ostentar dichos cargos.
+
+Serán de aplicación al Instructor y al Secretario las normas relativas a la abstención y recusación establecidas en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+El Ministro de Justicia en el supuesto de la separación del servicio, o el Director General de los Registros y del Notariado, en los restantes casos, podrán suspender provisionalmente en el ejercicio de sus funciones a cualquier notario al que se haya ordenado incoar procedimiento disciplinario por infracción muy grave o grave, si ello fuere necesario para asegurar la debida instrucción del expediente o para impedir que continúe el daño al interés público o de terceros. La resolución acordando la suspensión provisional, que agotará la vía administrativa, será recurrible independientemente.
+
+La suspensión de funciones, sea con carácter provisional, sea como sanción definitiva, llevará consigo el nombramiento de un habilitado para atender el servicio público.
+
+> Se modifica por el art. 1.226 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se deroga por el art. 1 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 357.**
+
+El Instructor ordenará la práctica de cuantas diligencias sean adecuadas para la determinación y comprobación de los hechos y en particular de cuantas pruebas puedan conducir a su esclarecimiento y a la determinación de las responsabilidades susceptibles de sanción. A este respecto, cuando las conductas a esclarecer tuvieran relación con aspectos económicos de la función pública notarial, el Instructor tanto en esta fase, como en la de información reservada, podrá servirse del auxilio de peritos en la forma establecida en el artículo 331 de este Reglamento.
+
+Como primeras actuaciones, el Instructor procederá a recibir declaración al presunto inculpado y a evacuar cuantas diligencias se deduzcan de la comunicación o denuncia que motivó la incoación del expediente y de lo que aquél hubiera alegado en su declaración.
+
+A la vista de las actuaciones practicadas y en un plazo no superior a tres meses contado a partir de la incoación del procedimiento, el Instructor formulará el correspondiente pliego de cargos, comprendiendo en el mismo los hechos imputados, con expresión, en su caso, de la falta presuntamente cometida, y de las sanciones que puedan ser de aplicación. El Instructor podrá por causa justificada solicitar la ampliación en un mes del plazo referido.
+
+El pliego de cargos deberá redactarse de modo claro y preciso, en párrafos separados y numerados por cada uno de los hechos imputados al notario. También podrá proponer el levantamiento de la suspensión del notario en el ejercicio de sus funciones a que antes se ha hecho referencia.
+
+El pliego de cargos se notificará al inculpado concediéndose un plazo de diez días para que pueda contestarlo con las alegaciones que considere convenientes a su defensa y con la aportación de cuantos documentos considere de interés. En este trámite deberá solicitar, si lo estima conveniente, la práctica de las pruebas que para su defensa crea necesarias.
+
+Contestado el pliego o transcurrido el plazo sin hacerlo, el Instructor podrá acordar la práctica de las pruebas solicitadas que juzgue oportunas así como de todas aquellas que considere pertinentes. Para la práctica de las pruebas se dispondrá del plazo de un mes.
+
+El Instructor cuidará de la tramitación del expediente podrá denegar motivadamente la admisión y práctica de las pruebas cuando las estime improcedentes, sin que contra esta resolución quepa recurso del inculpado.
+
+Para la práctica de las pruebas propuestas, así como para las de oficio cuando así se estime oportuno, se notificará al notario el lugar, fecha y hora en que deberán realizarse, debiendo incorporarse al expediente la constancia de la notificación al domicilio oficial del notario.
+
+El Secretario, en su caso, cuidará y dará fe de las diversas actuaciones del mismo.
+
+Cumplimentadas las diligencias previstas, se dará vista del expediente al inculpado para que en el plazo de diez días alegue lo que estime pertinente a su defensa y aporte cuantos documentos considere de interés. Se facilitará copia completa del expediente al inculpado cuando éste así lo solicite y lo permita la específica naturaleza de los documentos.
+
+El Instructor formulará dentro de los diez días siguientes la propuesta de resolución en la que fijará con precisión los hechos, motivando, en su caso, la denegación de las pruebas propuestas por el inculpado y hará la valoración jurídica de los mismos para determinar la falta que se estime cometida, señalando la responsabilidad del notario así como la sanción que procede imponer.
+
+La propuesta de resolución se notificará por el Instructor al interesado para que, en el plazo de diez días, pueda alegar ante el instructor cuanto considere conveniente a su defensa.
+
+Oído el inculpado, o transcurrido el plazo sin alegación alguna, se remitirá con carácter inmediato el expediente completo al órgano que haya acordado la incoación del procedimiento. El órgano que ordenó la incoación del expediente no queda vinculado por la propuesta del Instructor, pero deberá resolver siempre acerca de su propia competencia. Consecuentemente, dicho órgano podrá aceptar la propuesta del Instructor, reducirla o ampliarla, e, incluso, apreciar que la sanción procedente rebasa su propia competencia, debiendo elevar el expediente, en este último caso, al órgano superior con su informe preceptivo.
+
+El órgano competente para imponer la sanción podrá devolver el expediente al Instructor para la práctica de aquellas diligencias que, habiendo sido omitidas, resulten imprescindibles para la decisión. En este caso, antes de remitir de nuevo el expediente a dicho órgano, se dará vista de lo actuado al notario inculpado, a fin de que en el plazo de diez días alegue cuanto estime conveniente.
+
+> Se modifica por el art. 1.227 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se deroga por el art. 1 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 358.**
+
+La resolución que pone fin al procedimiento disciplinario deberá adoptarse en el plazo de diez días, salvo en el caso de separación del servicio y resolverá todas las cuestiones planteadas en el expediente.
+
+La resolución habrá de ser motivada y en ella no se podrán aceptar hechos distintos de los que sirvieron de base al pliego de cargos y a la propuesta de resolución, sin perjuicio de su distinta valoración jurídica.
+
+En la resolución que ponga fin al procedimiento disciplinario deberá determinarse con toda precisión la infracción que se estime cometida señalando los preceptos en que aparece recogida la misma, el funcionario responsable y la sanción que se impone, haciendo expresa declaración en orden a las medidas provisionales adoptadas durante la tramitación del procedimiento.
+
+La resolución deberá ser notificada al inculpado con expresión del recurso o recursos que quepan contra la misma y el plazo para interponerlos.
+
+La imposición de sanciones por infracción leve se hará en procedimiento abreviado que sólo requerirá la previa audiencia del inculpado y no exigirá el nombramiento de Secretario.
+
+> Se modifica por el art. 1.228 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se deroga por el art. 1 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 359.**
+
+El plazo máximo para dictar y notificar la resolución será de nueve meses, ampliables por otros tres mediante acuerdo del órgano que decidió la iniciación del procedimiento. No obstante, en los casos de procedimiento abreviado, el plazo máximo para dictar y notificar la resolución será de tres meses, salvo que se acuerde la transformación del procedimiento durante su instrucción.
+
+Transcurridos los expresados plazos máximos el procedimiento quedará caducado, pero la caducidad no producirá por sí sola la prescripción de la infracción.
+
+> Se modifica por el art. 1.229 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se deroga por el art. 1 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 360.**
+
+A salvo de medidas cautelares que puedan adoptar los Juzgados o Tribunales competentes, las sanciones disciplinarias de apercibimiento y multa se ejecutarán cuando quede agotada la vía administrativa. Las sanciones de postergación, traslación, suspensión de funciones y separación del servicio, se ejecutarán cuando sean firmes.
+
+> Se modifica por el art. 1.230 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se deroga por el art. 1 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 361.**
+
+La ejecución de las sanciones disciplinarias corresponde al órgano que las hubiere impuesto, salvo las acordadas por el Ministro de Justicia, que se harán efectivas por la Dirección General.
+
+Si la sanción impuesta fuere la de multa, el notario deberá ingresar el importe de la misma, en el plazo de quince días siguientes al requerimiento de pago en el Colegio Notarial al que pertenezca.
+
+Si no lo abonare en el plazo indicado, se procederá a la ejecución de su fianza, o de las que sucesivamente vaya constituyendo de no ser suficiente la cuantía de la primitiva para afrontar las responsabilidades derivadas de la sanción, en la forma regulada en los artículos 24 y siguientes de este Reglamento y normativa complementaria para su desarrollo. Ejecutada la fianza, el notario no podrá ejercer la profesión hasta que no la reponga en toda su integridad.
+
+Si con la fianza o fianzas no bastare para el cumplimiento de la sanción, se procederá a la ejecución de los bienes del sancionado por la vía administrativa de apremio.
+
+Todos los gastos serán de cuenta del notario corregido y mientras no se hagan efectivos por éste, los suplirá el Colegio Notarial.
+
+> Se modifica por el art. 1.231 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se deroga por el art. 1 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 362.**
+
+Las sanciones se graduarán atendiendo en cada caso concreto, esencialmente, a la trascendencia que para la prestación de la función notarial tenga la infracción cometida; la existencia de intencionalidad o reiteración y la entidad de los perjuicios ocasionados.
+
+Así, en el supuesto concreto de traslación forzosa el Órgano sancionador, esto es, la Dirección General de los Registros y del Notariado, ponderará si el sancionado debe ser nombrado directamente por la Dirección para servir una Notaría de sección o clase inmediatamente inferior a la que tuviera el interesado, siendo esto último posible, o si es suficiente obligarle a pedir traslado en el siguiente concurso, pudiendo optar en el mismo a una plaza de idéntica categoría.
+
+Idénticos criterios se utilizarán para ponderar la sanción de postergación de puestos de antigüedad en la carrera o la de años de antigüedad en la clase.
+
+> Se modifica por el art. 1.232 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se deroga por el art. 1 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 363.**
+
+Contra las resoluciones de la Junta imponiendo sanciones disciplinarias, podrá entablarse recurso en los plazos y forma previsto para el de alzada, ante la Dirección General, en el plazo de un mes, contado a partir del día siguiente al de la notificación. Contra las que imponga la Dirección General podrá recurrirse en alzada, en igual plazo, ante el Ministro de Justicia.
+
+Las resoluciones recaídas en cualquiera de los recursos de alzada previstos en este artículo agotan la vía administrativa.
+
+> Se modifica por el art. 1.233 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se deroga por el art. 1 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+**Artículo 364.**
+
+Los notarios sancionados podrán obtener la cancelación en sus expedientes personales de las sanciones anotadas cuando haya transcurrido un año desde que ganó firmeza la orden, resolución o acuerdo sancionador si la falta fue leve, dos años si fue grave y cuatro años si fue muy grave, salvo si los efectos de la sanción se extendieren a plazos superiores, en cuyo caso será necesario el transcurso de éstos.
+
+> Se modifica por el art. 1.234 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Se modifica por el art. 8 del Real Decreto 1209/1984, de 8 de junio. [Ref. BOE-A-1984-14281](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14281).
+
+> Se deroga por el art. 1 del Real Decreto 1126/1982, de 28 de mayo. [Ref. BOE-A-1982-13247](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-13247).
+
+#### DISPOSICIONES TRANSITORIAS
+
+**Primera a Novena.**
+
+**(Derogadas)**
+
+> Se derogan las disposiciones 3 y 5 por el art. 2 del Decreto de 30 de noviembre de 1945. [Ref. BOE-A-1945-12055](https://www.boe.es/buscar/doc.php?id=BOE-A-1945-12055). y las disposiciones 1, 2, 4 y 6 a 9 por la disposición derogatoria única.1.1 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+#### Modelo oficial a que se refiere el artículo 286 del Reglamento Notarial
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1944/189/06578_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1944/189/06578_002.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1944/189/06578_003.png)
+
+## ANEXO PRIMERO — Mutualidad Notarial
+
+> Se deroga por la disposición final derogatoria del Estatuto aprobado por Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+### TÍTULO PRIMERO — De la Mutualidad Notarial en general
+
+> Se deroga por la disposición final derogatoria del Estatuto aprobado por Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+**Artículos 1 a 5.**
+
+**(Derogados)**
+
+> Se derogan por la disposición final derogatoria del Estatuto aprobado por Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+### TÍTULO SEGUNDO — De la intervención de las Juntas directivas y Colegios Notariales en la administración de la Mutualidad Notarial
+
+> Se deroga por la disposición final derogatoria del Estatuto aprobado por Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+**Artículo 6 al 12.**
+
+**(Derogados)**
+
+> Se derogan por la disposición final derogatoria del Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+### TÍTULO TERCERO — De la Junta de Patronato de la Mutualidad Notarial
+
+> Se deroga por la disposición final derogatoria del Estatuto aprobado por Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+**Artículo 13 al 18.**
+
+**(Derogados)**
+
+> Se derogan por la disposición final derogatoria del Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+### TÍTULO CUARTO — De las subvenciones a las Notarías incongruas
+
+> Se deroga por la disposición final derogatoria del Estatuto aprobado por Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+**Artículo 19 al 35.**
+
+**(Derogados)**
+
+> Se derogan por la disposición final derogatoria del Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+### TÍTULO QUINTO — De las jubilaciones de los Notarios
+
+> Se deroga por la disposición final derogatoria del Estatuto aprobado por Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+**Artículo 36 al 46.**
+
+**(Derogados)**
+
+> Se derogan por la disposición final derogatoria del Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+### TÍTULO SEXTO — De las pensiones y auxilios a las familias de los Notarios fallecidos
+
+> Se deroga por la disposición final derogatoria del Estatuto aprobado por Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+**Artículo 47 al 53.**
+
+**(Derogados)**
+
+> Se derogan por la disposición final derogatoria del Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+### TÍTULO SÉPTIMO — De las becas para hijos y huérfanos de Notarios
+
+> Se deroga por la disposición final derogatoria del Estatuto aprobado por Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+**Artículo 54 al 64.**
+
+**(Derogados)**
+
+> Se derogan por la disposición final derogatoria del Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+#### DISPOSICIONES TRANSITORIAS
+
+> Se derogan por la disposición final derogatoria del Estatuto aprobado por Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+**Primera a Octava.**
+
+**(Derogadas)**
+
+> Se derogan por la disposición final derogatoria del Estatuto aprobado por Decreto de 29 de abril de 1955. [Ref. BOE-A-1955-7722](https://www.boe.es/buscar/doc.php?id=BOE-A-1955-7722).
+
+## ANEXO SEGUNDO — Del Registro de actos de última voluntad
+
+**Artículo 1.**
+
+El Registro general de actos de última voluntad, creado por Real Decreto de 14 de noviembre de 1885, continuará llevándose en la Dirección General de los Registros y del Notariado a cargo de uno de los funcionarios del Cuerpo Facultativo de Letrados de la misma, con el personal auxiliar que fuese necesario, y constituirá una de sus Secciones.
+
+> Se deroga en lo referente a la determinación de las estructuras orgánicas, composición, dependencia y funcionamiento de los Organismos y unidades regulados en el Reglamento Orgánico y se modifica en la forma indicada por el anexo 2.4 del Reglamento orgánico del Ministerio de Justicia aprobado por Decreto 1530/1968, de 12 de junio. [Ref. BOE-A-1968-819](https://www.boe.es/buscar/doc.php?id=BOE-A-1968-819).
+
+**Artículo 2.**
+
+Además del Registro general de actos de última voluntad, continuarán bajo la inspección de la Dirección General los Registros particulares que se lleven en los Decanatos de los Colegios Notariales de la Península e islas adyacentes.
+
+**Artículo 3.**
+
+En el Registro general se tomará razón:
+
+a) De los testamentos abiertos, de la autorización del acta de otorgamiento y protocolización de los cerrados o sus respectivas revocaciones de las donaciones mortis causa y, en general, de todo acto relativo a la expresión o modificación de la última voluntad autorizado por Notario de la Península e islas adyacentes, posesiones del Norte de Africa y demás territorios de soberanía nacional; por Cura párroco, en los puntos en que por ley, fuero o costumbre tenga esta facultad, o por Agente diplomático o consular de España en el extranjero.
+
+b) De los testamentos ológrafos, si los otorgantes lo desean y lo hacen constar por medio de acta notarial, en que se expresen la fecha y lugar de su otorgamiento y las demás circunstancias personales expresadas en el artículo siguiente.
+
+c) De la protocolización de los testamentos ológrafos y de los abiertos otorgados sin autorización de Notario, de los testamentos otorgados por militares con arreglo a los artículos 716 y 717 del Código Civil y de los otorgados en viaje marítimo.
+
+d) Las personas que, residiendo o hallándose accidentalmente en el extranjero, otorgaren testamento ante funcionario del país en que se halle, podrán hacer constar el hecho de este otorgamiento ante el Agente diplomático o consular de España, suscribiendo un acta en la que constará su nombre y apellidos, estado, nombre y apellidos del cónyuge, si fuere casado o viudo, naturaleza y vecindad, nombre de los padres, nombre y apellidos del funcionario que haya autorizado el acto, población en que tenga lugar, fecha y clase del instrumento. El representante diplomático y consular de España, dará referencia de dichas actas, con transcripción de todos sus datos, al Registro general de actos de última voluntad.
+
+e) De las ejecutorias que afecten a la validez o nulidad de los testamentos y demás actos de última voluntad.
+
+**Artículo 4.**
+
+El Registro General de Actos de Ultima Voluntad se llevará por procedimientos informáticos. Respecto de cada uno de los otorgantes se expresará: el nombre, apellidos, lugar de nacimiento y Documento Nacional de Identidad; el estado, expresándose el nombre y apellidos del cónyuge del testador, si fuere casado, y el nombre de los padres. Se expresarán, también, el nombre y apellidos del Notario o funcionario que haya autorizado o protocolizado el acto de última voluntad, o el Juez o Tribunal que haya dictado la ejecutoria; y el lugar, fecha y clase del acto de última voluntad y aquellas otras circunstancias que se determinen.
+
+> Se modifica por el art. 3 del Real Decreto 1368/1992, de 13 de noviembre. [Ref. BOE-A-1992-27995](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-27995).
+
+**Artículo 5.**
+
+El Registro general y los particulares de cada Colegio o Notaría serán reservados, bajo la responsabilidad del personal destinado a este servicio en la Dirección y en los Decanatos de los Colegios Notariales.
+
+Sólo podrán expedirse certificaciones de lo que resulte del Registro general en los casos siguientes:
+
+1.º Cuando las pidan los Jueces o Tribunales u otras autoridades para asuntos del servicio, expresando cuál sea.
+
+2.º Cuando las soliciten los mismos otorgantes, acreditando su personalidad, o mandatario con poder especial otorgado ante Notario.
+
+3.º Cuando se pidan por cualquier persona, si acreditando consta ya acreditado con documento fehaciente el fallecimiento de aquélla de quien se desee saber si aparece o no registrado algún acto de última voluntad, siempre que hayan transcurrido quince días desde la fecha de la defunción.
+
+**Artículo 6.**
+
+Las solicitudes se elevarán a la Dirección General y se extenderán en papel timbrado o común reintegrado por valor de 2,50 pesetas, y se estampará en ellas un sello de la Mutualidad Benéfica de Funcionarios de la Administración Central del Ministerio de Justicia de 1,50 pesetas.
+
+También podrán solicitarse certificaciones de urgencia mediante el uso del sello especial creado por la Dirección General para tal objeto. Tales peticiones tendrán la preferencia del despacho urgente en ella solicitado.
+
+Los Jueces y Tribunales que se dirijan al Director general en demanda de certificaciones usarán el papel que corresponda a las actuaciones en que hayan de surtir efecto. Las demás autoridades podrán pedirlas de oficio.
+
+**Artículo 7.**
+
+Los Tribunales, Jueces de cualquier fuero, autoridades y particulares que soliciten certificaciones, consignarán en la respectiva petición, como datos indispensables, el nombre y apellidos del causante, el pueblo de su naturaleza, los nombres de los padres y la fecha del fallecimiento; acreditando tales extremos con el correspondiente certificado de la inscripción de defunción.
+
+**Artículo 8.**
+
+Las certificaciones se expedirán en papel blanco o impreso, y se autorizarán con media firma del funcionario que las extienda, estampada a continuación del texto, firma entera del Jefe del Registro, al pie del certificado, y Visto Bueno del Director general, que podrá ser estampillado cuando el documento no haya de ser objeto de legalización.
+
+Las certificaciones no se entregarán a los solicitantes sin que sean debidamente reintegradas con la correspondiente póliza de la clase séptima, que será inutilizada con el sello especial de salida del Registro, sin cuyos requisitos no serán admisibles para efecto alguno ante los Tribunales y oficinas. En las que se expidan a petición de Jueces y Tribunales cuidarán éstos de que se reintegren debidamente.
+
+**Artículo 9.**
+
+En caso de que se advirtiera algún error en el certificado, se devolverá a la Dirección para que, examinando la Sección los antecedentes se verifique la rectificación, si procediere, y se utilizarán las pólizas que se hubieren adherido. En el nuevo certificado se hará constar que se expide por rectificación.
+
+Si los antecedentes que obran en el Registro no son conformes con la reclamación efectuada por el interesado, se oficiará inmediatamente al Decano del Colegio Notarial respectivo quien, en el plazo de dos días, deberá confirmar o rectificar los datos pedidos o comunicar que, siendo sus datos iguales a los del Registro Central, oficiar a su vez al Notario o Notarios que proceda para que contesten en un plazo igual, de tal modo que, en el caso más desfavorable, los datos lleguen a la Dirección General en el plazo máximo de ocho días, a contar desde la reclamación.
+
+Cuando se solicite certificación relativa a persona que haya podido ser conocida o llamada con variedad de nombres o apellidos, se podrá interesar que la certificación se extienda a las diversas variedades morfológicas; sin embargo, la certificación no alcanzará a aquellas que claramente no se refieran a la persona de quien se certifique, por no coincidir las demás circunstancias personales. En todo caso, el solicitante abonará los derechos establecidos tantas veces como variedades comprenda el certificado.
+
+**Artículo 10.**
+
+De toda certificación que se expida se tomará nota en su instancia, consignándose la cualidad de negativa o, en su caso, abreviadamente, las fechas de los actos de última voluntad que aparezcan en el Registro si aquéllas fuesen afirmativas.
+
+Dichas instancias anotadas se conservarán enlegajadas durante tres años, pasados los cuales la Dirección dispondrá de ellas como inútiles.
+
+**Artículo 11.**
+
+Los Curas párrocos y Notarios de la Península e islas adyacentes que de cualquier modo intervengan en los otorgamientos y protocolizaciones y actas notariales que se relacionan en el artículo 3.º, dirigirán dentro del tercero día al Decanato del respectivo Colegio Notarial una comunicación en la que, por párrafos separados y numerados, se consignen las noticias determinadas en el artículo 4.º En el caso de no poder expresarlas todas, manifestarán que son las únicas adquiridas.
+
+Los Agentes diplomáticos o consulares de España en el extranjero remitirán a la Dirección General la comunicación, que expresa el párrafo precedente, en el primer correo que puedan utilizar.
+
+Los Decanatos facilitarán a los Notarios del respectivo Colegio oficios impresos para las comunicaciones.
+
+La Dirección General y los Decanos, respectivamente, acusarán recibo a los Agentes diplomáticos o consulares, así como a los Párrocos, por medio de oficio que éstos deberán conservar.
+
+Si transcurrido el tiempo necesario para recibir el oficio no llegare a poder de dichos funcionarios, repetirán la comunicación hasta obtenerlo. Los Jueces y Tribunales respectivos consignarán igualmente en comunicación al Decano del Colegio Notarial los datos necesarios para llenar las casillas en las tarjetas a que se refiere el artículo 4.º cuando proceda, según los casos.
+
+Los Decanos acusarán el correspondiente recibo a los respectivos Notarios dentro del tercer día, mediante una tarjeta igual a las usados para la Dirección General, en la que, además se exprese que corresponde al oficio recibido, según su número especial. Con tales tarjetas formarán los Notarios un Registro o fichero de últimas voluntades.
+
+**Artículo 12.**
+
+Los Decanos de los Colegios Notariales que reciban las comunicaciones a que se refiere el artículo anterior dispondrán que inmediatamente se consignen los datos en el Registro particular que ha de llevarse en el Decanato.
+
+> Se modifica por el art. 3 del Real Decreto 1368/1992, de 13 de noviembre. [Ref. BOE-A-1992-27995](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-27995).
+
+**Artículo 13.**
+
+La información será remitida al Registro General de Actos de Ultima Voluntad por el procedimiento y con la periodicidad que se determine.
+
+> Se modifica por el art. 3 del Real Decreto 1368/1992, de 13 de noviembre. [Ref. BOE-A-1992-27995](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-27995).
+
+**Artículo 14.**
+
+Tan pronto como los Notarios y demás funcionarios obligados a hacerlo remitan a los Decanatos la comunicación prevenida en el artículo 11, lo harán constar así por nota en el respectivo instrumento.
+
+> Se modifica por el art. 3 del Real Decreto 1368/1992, de 13 de noviembre. [Ref. BOE-A-1992-27995](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-27995)
+
+**Artículo 15.**
+
+Siempre que ante cualquier Juzgado se solicite declaración de que una persona ha fallecido «ab intestato» o la aprobación de particiones practicadas en virtud de cualquier acto de última voluntad, se presentará el respectivo certificado, en el que se consignen los testamentos registrados o expresión de que no consta ninguno del causante.
+
+El certificado se unirá a los autos, y el Juez, sin perjuicio de que en su vista acuerde lo que estime procedente, cuidará, al hacer la declaración de herederos o al aprobar las particiones, de que se consigne en el auto correspondiente el contenido de la certificación.
+
+Los Notarios que sean requeridos para autorizar actos de adjudicación o partición de bienes adquiridos por herencia testada, exigirán que los interesados les presenten certificado en que conste si existe o no registrado algún acto de última voluntad del causante.
+
+Los Registradores de la Propiedad harán constar brevemente en la inscripción de los bienes adquiridos por herencia testada o intestada el contenido de la certificación y la suspenderán por defecto subsanable en el caso de que ésta no les sea presentada con los títulos correspondientes. Una vez que dicha certificación les sea presentada, podrán verificar el asiento solicitado, cualquiera que sea el contenido de aquélla.
+
+La certificación del Registro de actos de última voluntad no será, sin embargo, precisa cuando se trate de causantes menores de catorce años o de los que hubieren fallecido con anterioridad a 1.º de enero de 1886.
+
+Los Jueces, Notarios y Registradores de la Propiedad, a quienes se presente certificado relativo a personas que les conste por otros documentos, que ha sido designada con alguna variación en nombre o apellidos, deberán exigir un nuevo certificado, en la forma prevenida en el artículo 9.
+
+## ANEXO TERCERO — Del ejercicio de la fe pública por los Agentes diplomáticos y consulares de España en el extranjero
+
+**Artículo 1.**
+
+Los Jefes de las Misiones diplomáticas y los Cónsules de España de carrera tendrán a su cargo el ejercicio de la fe pública en el extranjero, con arreglo a lo dispuesto en los artículos 11 y 734 del Código Civil y a las estipulaciones de los Tratados internacionales. Los Jefes de Misión podrán delegar esas funciones en el Secretario de Embajada de mayor categoría que forme parte de aquélla, y los Cónsules, en los Vicecónsules. Cuando en una misma localidad exista Misión diplomática y Consulado de carrera, corresponderá a este último el ejercicio de la fe pública.
+
+**Artículo 2.**
+
+En los países en que los Cónsules ejerzan la jurisdicción contenciosa y en aquellos en que por existir una numerosa población española lo juzgue necesario el Ministerio de Asuntos Exteriores, los Cónsules de carrera o, en su defecto, las Misiones diplomáticas, podrán autorizar, previa aprobación de dicho Ministerio, para el ejercicio de la fe pública, a determinados Agentes consulares honorarios, teniendo en cuenta en todo caso sus condiciones personales de aptitud.
+
+**Artículo 3.**
+
+Para que los instrumentos públicos autorizados por los funcionarios a que se refiere el artículo anterior tengan validez en España, deberán ser calificadas sus copias por los Cónsules de carrera de que tales funcionarios dependan con la siguiente fórmula:
+
+«El Cónsul de España ……… Certifica: Que don ………… (Cónsul, Vicecónsul honorario o Agente consular de España), en ………, está autorizado para el ejercicio de la fe pública, y que este instrumento reúne las condiciones intrínsecas y extrínsecas exigidas para su validez por la legislación española» (Fecha, firma y sello.)
+
+Esta diligencia se practicará de oficio y no devengará derechos.
+
+**Artículo 4.**
+
+Los Agentes consulares honorarios conservarán en todo caso y en todos los países la facultad de legalizar firmas, dar certificados de existencia, de consentimiento para contraer matrimonio, extender y autorizar protestas de averías y de naufragios y expedir, en general, toda clase de certificados que, no teniendo carácter notarial, estén comprendidos dentro de las atribuciones originarias de los Cónsules, a menos que éstas les sean limitadas por sus Jefes inmediatos.
+
+**Artículo 5.**
+
+Los Agentes diplomáticos y consulares observarán en la redacción de las escrituras y actas matrices, expedición de copias y testimonios, formación y conservación de protocolos y en todos aquellos actos en que intervengan con carácter notarial todas las prescripciones contenidas en la Ley del Notariado y en el título IV de su Reglamento y su Anexo II, en la parte que sea aplicable y con las excepciones que se consignan en los artículos siguientes. No será de aplicación lo dispuesto en los artículos 175 y 249, apartado 2, del Reglamento Notarial.
+
+> Se modifica el último inciso por el art. 7 del Real Decreto 2537/1994, de 29 de diciembre. [Ref. BOE-A-1995-1851](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-1851).
+
+> Se añade el último inciso por el art. 1.3 del Real Decreto 1558/1992, de 18 de diciembre. [Ref. BOE-A-1993-3255](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-3255).
+
+**Artículo 6.**
+
+Cuando el número de instrumentos que se autoricen en una Agencia diplomática o consular durante el año no exceda ordinariamente de cincuenta se encuadernarán cuando se haya autorizado el número 100, o antes si por su volumen o por otras circunstancias se creyere más conveniente para su mejor conservación.
+
+En ese caso se abrirá y cerrará el protocolo con las siguientes notas:
+
+«Protocolo de los instrumentos públicos autorizados en esta ……… (Legación o Consulado) desde el día de la fecha.»
+
+«Concluye el protocolo de instrumentos públicos abierto el día ……… (fecha), que contiene ……… (tantos) instrumentos y ……… (tantos) folios.»
+
+En ambas diligencias se observarán las formalidades prescritas por el artículo 273 del Reglamento del Notariado.
+
+La numeración de las escrituras se seguirá sin interrupción desde el número 1 hasta el 100, o hasta aquel con que se cierre el protocolo.
+
+**Artículo 7.**
+
+Tanto en el caso a que se refiere el artículo anterior como cuando se forme el protocolo con arreglo al artículo 272 del Reglamento del Notariado, se conservarán las escrituras, antes de ser encuadernadas, en una carpeta especial cerrada por todos sus lados, que llevará la inscripción: «Protocolo corriente de instrumentos públicos de ……… (designación de la Agencia diplomática o consular).
+
+**Artículo 8.**
+
+Los Cónsules de carrera se harán cargo de los protocolos llevados por los Agentes consulares honorarios que cesen en el ejercicio de la fe pública y también de los llevados por los Agentes que en lo sucesivo cesen en sus cargos por supresión del puesto, o cuando el que haya de sustituirlos en el que aquéllos desempeñaban no esté autorizado para ejercer esas funciones.
+
+**Artículo 9.**
+
+Cuando se suprima un Consulado de carrera se hará cargo de su protocolo el Consulado general o, en su defecto, la Embajada o Legación y, a falta de ambos, el Consulado de carrera más próximo en el mismo país. Si no hubiera Legación o Consulado de carrera, se remitirá al Ministerio de Asuntos Exteriores para los efectos expresados en el artículo 27 de este anexo. El mismo procedimiento se seguirá al suprimirse una Misión diplomática.
+
+En el caso de suprimirse un Consulado por traslado a otra localidad próxima en el mismo país, continuará el protocolo de aquél a cargo del nuevamente establecido.
+
+**Artículo 10.**
+
+En sustitución de los índices mensuales a que se refiere el artículo 284 del Reglamento del Notariado, los Agentes diplomáticos y consulares, al comenzar cada protocolo abrirán un índice en el que, con los requisitos señalados en el párrafo segundo del artículo 23 de la Ley, irán anotando todos los instrumentos a medida que los autoricen. Los índices se conservarán en la carpeta donde se guarden las escrituras antes de ser encuadernadas y se encuadernarán con éstas al final del tomo respectivo.
+
+Los Agentes diplomáticos y consulares enviarán anualmente al Ministerio de Asuntos Exteriores, para su remisión a la Dirección General de los Registros y del Notariado, un índice en el que se detallen, con arreglo al modelo oficial que se inserta al final del Reglamento, los instrumentos públicos que hayan autorizado durante el año. Estos índices se depositarán en el Archivo general de Protocolos de Madrid.
+
+**Artículo 11.**
+
+Los instrumentos públicos a que se refieren los artículos 34 y 35 de la Ley, autorizados por los Agentes diplomáticos y consulares, se protocolizarán en el Protocolo corriente.
+
+**Artículo 12.**
+
+Las escrituras matrices y sus copias se extenderán en papel común de tamaño aproximado al del papel sellado (45,50 centímetros de largo por 31,50 de ancho), observándose siempre lo dispuesto en el párrafo segundo del artículo 154 del Reglamento del Notariado.
+
+**Artículo 13.**
+
+Los Agentes diplomáticos y consulares autorizarán los instrumentos públicos con el sello de la respectiva Agencia, y firmándolos y rubricándolos. No podrán autorizar matrices ni copias los funcionarios cuyas firmas no se hallen previamente registradas en el Ministerio de Asuntos Exteriores, y no podrán variar sus firmas sin autorización de dicho Ministerio.
+
+**Artículo 14.**
+
+La presentación y reseña del certificado de nacionalidad establecido por el artículo 8.º del Reglamento del Registro de nacionalidad en el extranjero de 5 de septiembre de 1871, será obligatoria para la redacción de los instrumentos públicos en sustitución del documento de identidad correspondiente, cuando el otorgante o requirente sea español y resida en el extranjero. Cuando se trate de un español transeúnte, deberá presentar, y se reseñará en el instrumento, su documento personal de identidad o, en su defecto, el certificado de nacionalidad.
+
+**Artículo 15.**
+
+La capacidad legal de los extranjeros que otorguen documentos ante los Agentes diplomáticos y consulares y que pertenezcan a país distinto de aquel en que dichos Agentes se hallen acreditados, se justificará, en el caso a que se refiere el número 5.º del artículo 168 del Reglamento del Notariado, por certificación expedida por el Cónsul y, en su defecto, por el Agente diplomático del país a que el extranjero pertenezca.
+
+La designación de cargas, gravámenes o responsabilidades a que puedan estar afectos los bienes objeto del contrato se hará constar, en primer término, por lo que resulte de la declaración de la parte transmitente o de la que constituya un gravamen y, en segundo lugar, por lo que aparezca de los títulos o documentos que se exhiban al Agente diplomático o consular. También podrán hacerse constar, cuando en ello estén conformes los contratantes, remitiéndose a lo que resulte de los libros del Registro de la Propiedad.
+
+> Se añade el párrafo segundo por el art. 8 del Real Decreto 2537/1994, de 29 de diciembre. [Ref. BOE-A-1995-1851](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-1851).
+
+> Téngase en cuenta que el párrafo ya estaba añadido por el Real Decreto 1558/1992, de 18 de diciembre.
+
+> Se añade el párrafo segundo por el art. 1.4 del Real Decreto 1558/1992, de 18 de diciembre. [Ref. BOE-A-1993-3255](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-3255).
+
+**Artículo 16.**
+
+Podrán ser testigos instrumentales en los documentos intervivos los que reúnan las condiciones señaladas en el artículo 181 del Reglamento del Notariado, no siendo necesaria, sin embargo, la condición del domicilio en España para los extranjeros, pero sí en el país del otorgamiento cuando aquéllos no sean ciudadanos del mismo.
+
+Sólo podrán ser testigos en los testamentos los que tengan la capacidad exigida por el Código Civil, pero no será necesaria la condición del domicilio, conforme a lo dispuesto en el artículo 734 del mismo Código.
+
+**Artículo 17.**
+
+Las escrituras autorizadas por los Agentes diplomáticos y consulares de España harán fe en todo el territorio español.
+
+> Se modifica por el art. 2 del Real Decreto 510/1985, de 6 de marzo. [Ref. BOE-A-1985-6285](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-6285).
+
+**Artículo 18.**
+
+Los testimonios que, para los efectos expresados en el artículo 254 del Reglamento del Notariado, expidan los Agentes diplomáticos o consulares de los testamentos y los de otras escrituras por las que se modifique el estado civil, se remitirán a la Dirección General de los Registros por conducto del Ministerio de Asuntos Exteriores.
+
+**Artículo 19.**
+
+Los agentes diplomáticos y consulares remitirán al Ministerio de Asuntos Exteriores copia autorizada con su firma y sello, de los testamentos abiertos y del acta de los testamentos cerrados que autoricen.
+
+**Artículo 20.**
+
+El Agente diplomático o consular en cuyo poder hubiese depositado su testamento ológrafo o cerrado un español, lo remitirá al Ministerio de Asuntos Exteriores, cuando fallezca el testador, con el certificado de defunción, para los fines expresados en el artículo 736 del Código Civil.
+
+**Artículo 21.**
+
+Para la obtención de segundas o posteriores copias, en el caso del artículo 235 del Reglamento del Notariado, será Juez competente el del domicilio del que la solicita o, en su caso, el que conozca de los autos a que la copia deba adaptarse.
+
+**Artículo 22.**
+
+Los recursos de queja ante la Dirección General de los Registros que establecen los artículos 145 y 231 del Reglamento del Notariado, se cursarán por conducto del Ministerio de Asuntos Exteriores.
+
+**Artículo 23.**
+
+Cuando se otorguen documentos ante un Agente diplomático o consular, por los que se cancele, rescinda, anule o por cualquier otro concepto quede sin efecto una escritura anterior, el Agente lo comunicará, por conducto del Ministerio de Asuntos Exteriores, al Notario autorizante del primer documento, para los efectos expresados en el párrafo segundo del artículo 178 del mencionado Reglamento.
+
+Si el primer documento hubiere sido también autorizado por un Agente diplomático o consular, la comunicación se hará directamente por el que autorice el documento posterior.
+
+**Artículo 24.**
+
+Los Agentes diplomáticos y consulares podrán dar testimonio de legitimidad de firmas de toda clase de personas, particulares y razones sociales, puestas en su presencia en la forma y con los requisitos consignados en el artículo 256 y siguientes del Reglamento del Notariado, pero sin que sea necesario que los documentos se extiendan en papel del Timbre del Estado. Cuando los documentos hayan de producir efecto en el país en que se firman, se observarán las prescripciones de carácter fiscal impuestas por la legislación territorial.
+
+**Artículo 25.**
+
+Para los testimonios por exhibición, certificados de asistencia, testimonios de legitimidad de firmas y legalizaciones, los Agentes diplomáticos y consulares llevarán en sustitución del libro a que se refiere el artículo 283 del Reglamento del Notariado, los libros y registros prevenidos por las disposiciones dictadas por el Ministerio de Asuntos Exteriores.
+
+**Artículo 26.**
+
+Los depósitos a que se refiere el artículo 216 del expresado Reglamento Notarial, que los particulares o Corporaciones constituyan en poder de los Agentes diplomáticos y consulares, se regirán por las disposiciones dictadas por el Ministerio de Asuntos Exteriores.
+
+**Artículo 27.**
+
+Los Agentes diplomáticos y consulares remitirán, para su custodia en el Archivo general de Protocolos de Madrid, por conducto del Ministerio de Asuntos Exteriores, los protocolos de más de veinte años de fecha y los de las Agencias suprimidas en los casos previstos en el artículo 9 de este anexo.
+
+## ANEXO CUARTO — Del ejercicio de la fe pública en materia electoral
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+#### CAPÍTULO PRELIMINAR — Disposiciones generales
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 1.**
+
+Las normas contenidas en este anexo se aplicarán en la elección de Diputados y Senadores de las Cortes Generales, miembros de los Parlamentos y Asambleas Legislativas de las Comunidades Autónomas, miembros de las Corporaciones Locales y otros cargos de representación política que deban ser designados por elección directa de primer grado.
+
+Serán también aplicables, en cuanto procedan, a las distintas modalidades de referéndum.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 2.**
+
+Corresponderá en general, a las Juntas directivas de los Colegios notariales la ejecución de lo establecido en este anexo y disposiciones que lo desarrollen, para lo cual podrán adoptar en cada caso las medidas que consideren oportunas.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+#### CAPÍTULO I — De la actuación de los Notarios
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+##### Sección 1.ª Normas relativas al período electoral en general
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 3.**
+
+Convocada la elección, las Juntas directivas examinarán la situación de los Notarios del Colegio y adoptarán las medidas necesarias con el fin de procurar que queden atendidos tanto el servicio público general como el extraordinario que pueda motivar la elección.
+
+Todos los Notarios tienen el deber de comunicar a su Decano las circunstancias que puedan ser relevantes a los fines señalados en el párrafo anterior. Este deber subsistirá durante todo el período electoral.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 4.**
+
+Durante el período comprendido entre la convocatoria de la elección y la proclamación de candidatos y el que medie entre el quinto día anterior a la votación y el siguiente a ésta, quedarán en suspenso los ejercicios de las oposiciones entre Notarios, los derechos de ausencia y licencia y la situación prevista en el apartado 4.º del artículo 43 del Reglamento Notarial, respecto de los Notarios residentes en el territorio afectado por las elecciones. Los ejercicios de las oposiciones de ingreso en el Notariado quedarán suspendidos entre el quinto día anterior a la votación y el siguiente a ésta.
+
+No obstante lo dispuesto en el párrafo anterior, las Juntas directivas de los Colegios Notariales y la Dirección General, en su caso, podrán conceder o mantener, por justa causa, las licencias previstas en el artículo 45 del Reglamento Notarial.
+
+En el tiempo comprendido entre los dos períodos mencionados en el párrafo primero de este artículo, se aplicarán las normas establecidas en los artículos 43 a 48 del Reglamento Notarial, si bien los Notarios interesados deberán añadir a las comunicaciones ordinarias los datos necesarios para su inmediata localización.
+
+En cualquiera de los supuestos contemplados en este artículo, las Juntas directivas y la Dirección General, por razones de servicio, podrán exigir que el Notario se reintegre a su residencia en el plazo máximo de tres días.
+
+> Se modifica el primer párrafo por el art. único del Real Decreto 2630/1985, de 23 de octubre. [Ref. BOE-A-1986-1367](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-1367).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 20, de 23 de enero de 1986. [Ref. BOE-A-1986-1808](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-1808).
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 5.**
+
+Los Notarios presentados como candidatos podrán ausentarse de su residencia con el fin de intervenir en los actos electorales propios de su candidatura, pero si no fueren proclamados como candidatos deberán reintegrarse al desempeño de su cargo en el plazo de tres días.
+
+A los proclamados candidatos se les prohíbe la dación de fe en los hechos y actos del correspondiente procedimiento electoral.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 6.**
+
+Los Decanos, atendidas las circunstancias de hecho y conforme a las informaciones recibidas, procederán a habilitar de oficio, en cualquier momento del período electoral, al Notario o Notarios que se estime conveniente para asegurar la prestación de la función en materia electoral en distrito o distritos notariales distintos del suyo propio dentro del territorio del Colegio. Estas habilitaciones tienen carácter obligatorio para los Notarios, salvo excusa admitida.
+
+Para la designación de habilitados se procurará seguir criterios de proximidad territorial y facilidad de comunicaciones.
+
+El Notario así habilitado será provisto de la correspondiente credencial, en la que constará el distrito o distritos a que la habilitación se refiera y la indicación de que se realiza sólo a efectos electorales. Incorporará a su propio protocolo los instrumentos que autorice.
+
+En razón a las habilitaciones efectuadas, y por el tiempo de su duración, las Juntas directivas realizarán las necesarias adaptaciones en el régimen de sustituciones.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 7.**
+
+Los Notarios deberán ser informados por las Juntas directivas de las medidas de sustitución y habilitación que se adopten respecto al distrito a que pertenezcan. El Delegado y Subdelegado de la Junta directiva en la capital de cada provincia recibirán análoga información en cuanto a todos los distritos notariales a ella correspondientes. Unos y otros tendrán el deber de facilitar tal información a los interesados que lo soliciten.
+
+El Colegio Notarial informará igualmente con referencia a todo el territorio del mismo.
+
+A los mismos fines, las Juntas directivas comunicarán a las Juntas Electorales Provinciales y, en su caso, a las Juntas de Zona que acumulen sus funciones la relación de los Notarios, titulares o habilitados, que puedan ejercer dentro del respectivo territorio y el lugar de su residencia, así como las alteraciones que se produzcan antes del día señalado para la votación.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 8.**
+
+La prestación de funciones para dar fe de actos u operaciones relacionadas con la materia electoral se regirá por la legislación notarial general y, en especial, por lo que se dispone en este anexo para el día de la votación.
+
+Las autorizaciones para solicitar la certificación de inclusión en el censo y para recibir, en su caso, la documentación para el voto por correo, en los supuestos de enfermedad o incapacidad que impida la formulación personal de la solicitud o la realización personal de la recepción, se instrumentarán en escritura pública de poder.
+
+El notario exigirá al poderdante la presentación de la certificación médica acreditativa de la enfermedad o incapacidad que le impida la formulación personal de la solicitud e incorporará la expresada certificación a la escritura. Exigirá igualmente al poderdante la presentación del documento nacional de identidad, que deberá reseñar en aquélla. El apoderado tendrá derecho a obtener las copias necesarias para cumplimiento de las autorizaciones a que se refiere el párrafo anterior y no tendrá facultad de subapoderar.
+
+La escritura será única para cada poderdante y sólo podrá contener una designación de apoderado. El notario no autorizará ningún otro documento de la misma clase a favor del mismo apoderado. Tampoco autorizará ningún otro poder del mismo elector, quien manifestará que es el único que otorga y que desconoce que el apoderado ya lo sea de otra persona.
+
+Las actuaciones notariales relacionadas con la emisión del voto por correo deberán ser cumplimentadas por los notarios con la máxima urgencia y con carácter preferente.
+
+> Se añaden los párrafos segundo a quinto por el art. 1 del Real Decreto 557/1993, de 16 de abril. [Ref. BOE-A-1993-10086](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-10086).
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 9.**
+
+Los candidatos y los representantes de las candidaturas, así como sus respectivos apoderados, podrán solicitar la adscripción de Notarios solamente para hacer constar hechos o actos electorales que se produzcan el día de la votación en una o varias circunscripciones.
+
+A tales efectos se procederá de la siguiente forma:
+
+A) Los interesados presentarán al Decano del Colegio Notarial una solicitud en la que expresarán el número de Notarios cuya adscripción pretendan y los previsibles lugares de actuación. Esta solicitud deberá presentarse necesariamente en un período de diez días, que finalizará el sexto día anterior al señalado para la votación.
+
+B) El Decano, discrecionalmente hará en su caso, las adscripciones que considere posibles, a la vista del conjunto de las peticiones formuladas y teniendo en cuenta las previsiones generales para el día de la elección.
+
+C) En todo caso, a los efectos previstos en el párrafo primero del artículo 3. de este anexo, deberá quedar sin adscripción la mitad, como mínimo, de los Notarios disponibles.
+
+D) Cuando el número de las adscripciones solicitadas fuere superior al de las que procedan con arreglo a la letra anterior, se procurará distribuirlas de forma que todos los solicitantes puedan disponer de análogas garantías de autenticidad, reduciendo, en su caso y progresivamente, las solicitudes con mayor número de peticiones para la misma circunscripción. Estos criterios se referirán a las candidaturas en las elecciones de listas cerradas y a los candidatos en las de listas abiertas.
+
+E) La adscripción recaerá preferentemente en los Notarios residentes en el lugar en que deban actuar, atendiendo en otro caso a criterios de facilidad de comunicaciones.
+
+F) El Decano notificará a los solicitantes y a los Notarios adscritos los acuerdos recaídos.
+
+Las menciones que en este artículo se hacen a los Notarios comprenden igualmente a los Fedatarios electorales a que se refiere el artículo 18 de este anexo.
+
+El Decano comunicará a la Junta Electoral Provincial y a todos los Notarios del Colegio, al menos un día antes del señalado para la votación, los Notarios o Fedatarios electorales adscritos.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+##### Sección 2.ª Normas especiales para el día de la votación
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 10.**
+
+Todos los Notarios con residencia demarcada dentro de una circunscripción electoral quedan habilitados sin necesidad de investidura especial, para actuar en materia electoral en todo el territorio de aquélla durante el día de la votación.
+
+En los supuestos en que el territorio de la circunscripción electoral sea de menor extensión que el distrito notarial todos los Notarios de éste podrán actuar libremente, en la misma materia, en todos y cada uno de los términos municipales del mismo.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 11.**
+
+Sin perjuicio de lo dispuesto en el artículo anterior, los Decanos podrán disponer que determinados Notarios permanezcan el día de la votación en la población que se les señale, con obligación de desplazarse a las demás poblaciones de la circunscripción territorial en donde sean requeridos.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 12.**
+
+Los Notarios que ostenten cargos en organismos electorales están excusados de prestar su ministerio durante el día en que se celebre la votación. Asimismo podrán excusarse hasta dos miembros de la Junta directiva que esta misma señale.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 13.**
+
+Quienes en virtud de la oportuna solicitud hayan obtenido adscripción de Notarios o Fedatarios electorales conforme al artículo 9.º sólo podrán realizar los requerimientos del día de la votación a los que les fueron adscritos, quienes no deberán aceptar requerimientos de personas distintas de los solicitantes.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 14.**
+
+El requerimiento de prestación de funciones para el día de la votación deberá ser efectuado al Notario o Fedatario electoral adscrito por los mismos candidatos o representantes de las candidaturas a cuyo favor se hubiera realizado la adscripción, o por sus respectivos apoderados, expresando el objeto concreto a que deba referirse su actuación.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 15.**
+
+Toda persona que, en el ámbito de un Colegio electoral determinado, tenga interés legítimo en hacer constar el día de la votación hechos o actos concretos del procedimiento electoral podrá requerir la prestación de funciones de cualquier Notario o Fedatario electoral que no haya sido adscrito conforme al artículo 9.º del presente anexo.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 16.**
+
+Al cumplimentar los requerimientos, el Notario hará constar únicamente los hechos que, a su juicio, tengan relación directa con el objeto de aquéllos y no estará obligado a recoger manifestaciones ajenas a dicho objeto que puedan hacer otras personas, salvo las que le haga el Presidente de la Mesa en relación con los mismos hechos.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 17.**
+
+En el caso de que se impidiere o dificultare a los Notarios su actuación, se estará a lo establecido en las normas electorales y, en todo caso podrán aquéllos reclamar el auxilio de los agentes de la autoridad, quienes vendrán obligados a prestarlo con arreglo a sus respectivos reglamentos.
+
+Cuando la gravedad de los hechos, a juicio del Notario, así lo aconseje, éste, por medio de simple escrito, lo pondrá en conocimiento de la Junta directiva de su Colegio a fin de que la misma pueda ejercitar, si lo estimare oportuno, las acciones pertinentes, e incluso interponer querellas en nombre propio y en el del Notario.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+#### CAPÍTULO II — De los funcionarios acreditados como Fedatarios electorales
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 18.**
+
+En la forma y con los requisitos que se establecen en este capítulo podrán ser facultados para levantar actas relativas a hechos o actos que puedan influir en la pureza del sufragio los funcionarios siguientes: Registradores de la Propiedad, Abogados del Estado, Agentes de Cambio y Bolsa, Corredores Colegiados de Comercio e Inspectores financieros y tributarios.
+
+Para poder ser acreditados como Fedatarios electorales, los funcionarios deberán tener la condición de Licenciados en Derecho y no figurar incluidos en ninguna de las candidaturas proclamadas.
+
+El ámbito de sus facultades abarca únicamente la circunscripción territorial expresada en su credencial y el período comprendido entre el comienzo del día de la votación y la conclusión del escrutinio en los Colegios electorales.
+
+El ejercicio de dichas facultades es obligatorio.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 19.**
+
+Los Fedatarios electorales, en cuanto a la organización del servicio que este anexo les encomienda, dependerán de la Junta directiva del Colegio Notarial correspondiente la cual les expedirá la oportuna credencial, autorizada con la firma del Decano y el sello del Colegio Notarial.
+
+No podrán ejercer sus funciones si fueren proclamados candidatos y deberán poner este hecho en conocimiento del Decano del Colegio Notarial con devolución de la credencial.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 20.**
+
+Los Ministerios de que dependan los funcionarios antes citados, bien directamente, bien a través de sus Delegaciones Provinciales o, en su caso, por medio de los Colegios profesionales a que aquéllos pertenezcan, remitirán a los Decanos de los correspondientes Colegios Notariales, en el plazo de seis días siguientes a la publicación de la convocatoria de elecciones, una relación de tales funcionarios, con expresión del domicilio de cada uno de ellos. En el plazo de otros seis días las Juntas directivas, tras apreciar y admitir, en su caso, las excusas presentadas, publicarán en el tablón de anuncios del Colegio Notarial las listas definitivas de los funcionarios autorizados y remitirán una copia a los Presidentes de las Juntas Electorales Provinciales correspondientes.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 21.**
+
+De conformidad con lo dispuesto en el artículo 2.º de este anexo, cuando el carácter limitado de una convocatoria electoral lo aconseje y siempre que el servicio notarial se estime suficiente, las Juntas directivas podrán acordar que la designación de Fedatarios electorales quede reducida a algunos de los funcionarios mencionados en el artículo 18 e incluso prescindir de su designación.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 22.**
+
+La Dirección General de los Registros y del Notariado dictará una instrucción dirigida a determinar la forma en que los Fedatarios electorales han de extender las actas que levanten.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 23.**
+
+Los Fedatarios electorales entregarán las actas que hayan levantado, dentro de los tres días siguientes al de la votación, en el Colegio Notarial que les haya expedido su credencial, donde quedarán archivadas, al menos, durante cinco años. La entrega podrá ser efectuada directamente o mediante el Notario Delegado o Subdelegado de la Junta directiva en el distrito notarial donde el Fedatario electoral tenga su domicilio.
+
+Los testimonios de dichas actas se librarán por cualquier miembro de la Junta directiva a petición del requirente o de las Juntas Electorales. Las personas con las que se hayan entendido determinadas diligencias podrán obtener testimonio parcial relativo a ellas.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Artículo 24.**
+
+En cuanto sea posible serán de aplicación a los Fedatarios electorales las disposiciones de este anexo que se refieran a los Notarios.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+#### DISPOSICIONES ADICIONALES
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Primera.**
+
+Los Notarios y Fedatarios electorales que incumplieren las obligaciones que les impone este anexo incurrirán en responsabilidad, que les podrá ser exigida ante sus superiores en la forma que dispongan las normas orgánicas de sus respectivos Cuerpos.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Segunda.**
+
+La Dirección General de los Registros y del Notariado, teniendo en cuenta las cifras establecidas en ocasiones precedentes y las oscilaciones en los costes de los servicios públicos, señalará la cantidad que el solicitante, a que se refiere el artículo 9., habrá de satisfacer en el Colegio Notarial por cada uno de los Notarios o Fedatarios electorales indicados en su petición.
+
+La cantidad que corresponde al adscrito será percibida por éste en razón de la mera adscripción y aun cuando el día de la votación no llegare a tener actuación alguna. La parte relativa a las peticiones que no hubiere sido posible atender será devuelta al solicitante.
+
+La retribución de los Fedatarios electorales por sus actuaciones será equivalente a la de los Notarios.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+**Tercera.**
+
+Para el cómputo de los plazos a que se refiere este anexo los días se entenderán siempre como días naturales.
+
+> Se añade por el art. 1 del Real Decreto 1954/1982, de 30 de julio. [Ref. BOE-A-1982-20739](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-20739).
+
+## ANEXO QUINTO
+
+> Se añade por el art. 2 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Esta modificación tiene efectos desde el 1 de enero de 2009, según establece la disposición final 2.1.
+
+**Artículo 1.**
+
+Los Colegios Notariales deberán adecuar su ámbito territorial al de las Comunidades Autónomas, con la única excepción de Ceuta y Melilla cuyos notarios serán colegiados del Colegio Notarial de Andalucía.
+
+La denominación de los Colegios Notariales es:
+
+a) Colegio Notarial de Andalucía.
+
+b) Colegio Notarial de Aragón.
+
+c) Colegio Notarial de Asturias.
+
+d) Colegio Notarial de Baleares.
+
+e) Colegio Notarial de Canarias.
+
+f) Colegio Notarial de Cantabria.
+
+g) Colegio Notarial de Castilla La Mancha.
+
+h) Colegio Notarial de Castilla-León.
+
+i) Colegio Notarial de Cataluña.
+
+j) Colegio Notarial de Extremadura.
+
+k) Colegio Notarial de Galicia.
+
+l) Colegio Notarial de La Rioja.
+
+m) Colegio Notarial de Madrid.
+
+n) Colegio Notarial de Murcia.
+
+o) Colegio Notarial de Navarra.
+
+p) Colegio Notarial del País Vasco.
+
+q) Colegio Notarial de Valencia.
+
+> Se añade por el art. 2 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Esta modificación tiene efectos desde el 1 de enero de 2009, según establece la disposición final 2.1.
+
+**Artículo 2.**
+
+La capitalidad de los Colegios Notariales coincidirá con la capital de la Comunidad Autónoma respectiva, con la de cualquiera de las capitales de provincia que la integren o con la que hasta el momento tuvieran respecto de aquellos Colegios cuyo ámbito territorial no se modifique.
+
+> Se añade por el art. 2 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Esta modificación tiene efectos desde el 1 de enero de 2009, según establece la disposición final 2.1.
+
+**Artículo 3.**
+
+La elección de la junta Directiva en aquellos Colegios Notariales cuyo ámbito territorial se modifica de conformidad con lo dispuesto en el artículo 1 de este Anexo se sujetará a las siguientes reglas:
+
+1.º Se formará una Comisión electoral integrada por tres notarios del ámbito territorial del nuevo Colegio y por dos Decanos de Colegios Notariales que no estuvieran afectados por el artículo 1. Los tres notarios, en su caso, deberán pertenecer a la Junta o Juntas Directivas de los Colegios que se agrupen o segreguen. Su nombramiento, así como el de los dos Decanos será efectuado por el Consejo General del Notariado. Su identidad será comunicada a la Dirección General de los Registros y del Notariado.
+
+2.º La Comisión Electoral será presidida por uno de los Decanos nombrados por el Consejo General del Notariado, actuando como secretario uno de los notarios del ámbito territorial del nuevo Colegio designados por el Consejo.
+
+3.º La Comisión electoral asumirá las competencias que establece el Reglamento Notarial respecto de las Juntas Directivas en materia electoral.
+
+4.º A los efectos de integrar la Junta Directiva, la Comisión electoral, atendido el ámbito territorial y número de colegiados de cada Colegio Notarial, designará provisionalmente el número de miembros de la Junta Directiva sin que, en ningún caso, pueda ser inferior a tres y superior a nueve.
+
+5.º La Comisión electoral convocará elecciones en los plazos de elección ordinaria a que se refiere el artículo 320 del Reglamento Notarial.
+
+Las candidaturas que se presenten deberán incluirse candidatos a todos los cargos que incorpore dicha Junta Directiva que inexcusablemente deberá contener los de Decano y Secretario.
+
+Si no se presentara candidatura válida para cubrir los cargos de la Junta Directiva el Consejo General del Notariado nombrará una Junta Gestora integrada por tres notarios del ámbito territorial del Colegio Notarial respectivo, siendo obligatorios sus cargos para los notarios designados. Constituida esa Junta el Consejo comunicará a la Dirección General la identidad de sus integrantes y cargos. En todo caso, dicha Junta deberá convocar elecciones tan pronto sea posible.
+
+Igualmente, la Comisión electoral designará a un escrutador que deberá tener la condición de elector.
+
+6.º Una vez elegida la Junta Directiva, la Comisión electoral comunicará el resultado de la elección a la Dirección general de los Registros y del Notariado y al Consejo General del Notariado. Asimismo, fijará la fecha de toma de posesión de conformidad con lo dispuesto en el artículo 324 del Reglamento Notarial. La toma de posesión de los miembros de la Junta Directiva tendrá lugar ante el Presidente de la Comisión electoral levantando acta uno de los miembros de ésta.
+
+7.º La Junta Directiva elegida deberá convocar Junta General de colegiados en los treinta días siguientes a su toma de posesión, incluyendo necesariamente como punto en el orden del día la concreción del número de miembros de la Junta Directiva, que no podrá ser inferior al designado por la Comisión electoral.
+
+Si la Junta General fijara un número superior, la Junta Directiva convocará elecciones extraordinarias en los términos previstos en el Reglamento Notarial. El mandato de los nuevos miembros de la Junta coincidirá con el del resto de los miembros de aquélla inicialmente elegidos.
+
+> Se añade por el art. 2 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Esta modificación tiene efectos desde el 1 de enero de 2009, según establece la disposición final 2.1.
+
+**Artículo 4.**
+
+Se habilita al Consejo General del Notariado para que adopte aquellas medidas relativas a fijación provisional de las sedes de los nuevos Colegios, patrimonio y personal que sean precisas para el adecuado cumplimiento de lo dispuesto en este Anexo.
+
+> Se añade por el art. 2 del Real Decreto 45/2007, de 19 de enero. [Ref. BOE-A-2007-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1810).
+
+> Esta modificación tiene efectos desde el 1 de enero de 2009, según establece la disposición final 2.1.
+
+#### DISPOSICIÓN FINAL
+
+Quedan derogadas todas las disposiciones anteriores al presente Reglamento relativas a las materias que en el mismo o sus anexos se regulan o condicionan, salvo en aquellos puntos que en ellos se declaran vigentes.
+
+Madrid, dos de junio de mil novecientos cuarenta y cuatro.
+
+Aprobados por S. E.
+
+Eduardo Aunós.

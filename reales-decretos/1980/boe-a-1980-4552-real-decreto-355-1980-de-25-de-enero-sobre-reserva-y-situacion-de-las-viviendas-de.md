@@ -1,0 +1,66 @@
+---
+title: "Real Decreto 355/1980, de 25 de enero, sobre reserva y situación de las viviendas de protección oficial destinadas a minusválidos"
+identifier: "BOE-A-1980-4552"
+eli: "https://www.boe.es/eli/es/rd/1980/01/25/355"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Obras Públicas y Urbanismo"
+date: 1980-01-25
+published: 1980-02-28
+in_force_from: 1980-03-19
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 51"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1980-4552"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 355/1980, de 25 de enero, sobre reserva y situación de las viviendas de protección oficial destinadas a minusválidos
+
+El artículo primero del Decreto mil setecientas sesenta y seis/mil novecientos setenta y cinco, de veinte de junio, dispuso la necesidad de que en los proyectos de viviendas de protección oficial que se presenten para su aprobación a partir del uno de enero de mil novecientos setenta y seis se proyecten tres viviendas por cada cien programadas, situadas obligatoriamente en planta baja y que reúnan las características que en dicto Decreto se detallan.
+
+La experiencia acumulada respecto al destino obligatorio de las viviendas en planta baja, en cuanto que sólo van destinadas a cubrir un tipo de minusvalidez, junto con las dificultades que el cumplimiento de dicho destino presentaban ante la existencia de planes de ordenación que expresamente se oponían a ello, ha puesto de manifiesto la necesidad de acometer la modificación de las directrices emanadas del citado Decreto, el objeto de adecuar las necesidades de la población minusvalida con las exigencias propias del planeamiento, permitiendo por otro lado la posibilidad de que coexistan en planta baja locales comerciales y viviendas de minusválidos, cuestión que expresamente resultaba prohibida por el apartado A) del artículo segundo del Real Decreto tres mil ciento cuarenta y ocho/mil novecientos setenta y ocho de diez de noviembre.
+
+En su virtud y a propuesta del Ministro de Obras Públicas y Urbanismo y previa deliberación del Consejo de Ministros en su sesión del día veinticinco de enero de mil novecientos ochenta,
+
+DISPONGO:
+
+## Artículo primero.
+
+Los promotores de viviendas de protección oficial vendrán obligados a reservar en los proyectos de viviendas de protección oficial, que presenten para su aprobación la siguiente proporción mínima de viviendas para minusválidos:
+
+– Una vivienda, cuando la programación abarque más de treinta y tres viviendas y menos de sesenta y seis.
+
+– Dos viviendas, cuando se programen más de sesenta y seis y menos de cien.
+
+– Tres viviendas, si el proyecto incluye entre cien y doscientas viviendas. Si abarca más de doscientas viviendas, a las tres viviendas citadas se añadiría una vivienda adicional por cada cincuenta viviendas más o fracción.
+
+## Artículo segundo.
+
+Las viviendas proyectadas podrán situarse en cualquier planta del edificio incluidas las plantas destinadas a locales comerciales, debiendo reunir en cualquier caso las condiciones de acceso y movilidad interior que se establezcan en las normas de desarrollo de esta disposición.
+
+## Artículo tercero.
+
+Las acciones u omisiones que contravengan lo dispuesto en esta disposición tendrán la consideración de falta grave a los efectos de lo dispuesto en el artículo octavo del Real Decreto-ley treinta y uno/mil novecientos setenta y ocho, de treinta y uno de octubre, sobre política de vivienda, y artículos cincuenta y seis y siguientes del Real Decreto tres mil ciento cuarenta y ocho/miI novecientos setenta y ocho, de diez de noviembre.
+
+## Disposición final primera.
+
+Se autoriza al Ministro de Obras Públicas y Urbanismo a dictar las disposiciones necesarias para la aplicación del presente Real Decreto.
+
+## Disposición final segunda.
+
+Queda derogado el Decreto mil setecientos sesenta y seis/mil novecientos setenta y cinco, de veinte de junio, sobre características de accesibilidad para minusválidos en viviendas de protección oficial, así como el apartado A) del artículo segundo del Real Decreto tres mil ciento cuarenta y ocho/mil novecientos setenta y ocho, de diez de noviembre, en cuanto se oponga a lo dispuesto en el artículo segundo del presente Real Decreto.
+
+## Disposición transitoria.
+
+En tanto no se produzca la entrada en vigor de las norman que se dicten en desarrollo de esta disposición serán de aplicación las características de accesibilidad contenidas en el Decreto mil setecientos sesenta y seis/mil novecientos setenta y cinco, de veinte de junio.
+
+Dado en Madrid a veinticinco de enero de mil novecientos ochenta.
+
+JUAN CARLOS R.
+
+El Ministro de Obras Públicas y Urbanismo.
+
+JESÚS SANCHO ROF

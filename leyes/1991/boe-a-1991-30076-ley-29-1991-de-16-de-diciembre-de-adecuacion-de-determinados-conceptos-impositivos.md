@@ -1,0 +1,433 @@
+---
+title: "Ley 29/1991, de 16 de diciembre, de adecuación de determinados conceptos impositivos a las Directivas y Reglamentos de las Comunidades Europeas"
+identifier: "BOE-A-1991-30076"
+eli: "https://www.boe.es/eli/es/l/1991/12/16/29"
+type: act
+rank: "Ley"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 1991-12-16
+published: 1991-12-17
+in_force_from: 1992-01-01
+last_amended: 1995-12-28
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 301"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-30076"
+retrieved: 2026-10-11
+---
+
+# Ley 29/1991, de 16 de diciembre, de adecuación de determinados conceptos impositivos a las Directivas y Reglamentos de las Comunidades Europeas
+
+Incluye la corrección de errores publicada en BOE núm. 34, de 8 de febrero de 1992. [Ref. BOE-A-1992-2849](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-2849).
+
+JUAN CARLOS I,
+
+REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren,
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+EXPOSICION DE MOTIVOS
+
+El Tratado de Adhesión de España a las Comunidades Europeas obliga a adaptar nuestra legislación fiscal a las normas comunitarias y a las modificaciones que de las mismas se vayan produciendo en el tiempo.
+
+Por ello, la presente Ley regula un conjunto de materias cuyo lazo de unión es, precisamente, la necesidad de adecuar nuestra normativa tributaria a las normas de armonización emanadas de la Comunidad Económica Europea.
+
+El Título I tiene como finalidad primordial incorporar a nuestro ordenamiento jurídico las normas contenidas en la Directiva 90/434/C.E.E. del Consejo, de 23 de julio de 1990, relativa al régimen fiscal común aplicable a las fusiones, escisiones, aportaciones de activos y canjes de acciones. A través de estos negocios jurídicos se realizan habitualmente importantes operaciones económicas de concentración y reestructuración de empresas; de ahí su relevancia fiscal.
+
+Si bien la norma comunitaria únicamente versa sobre aquellas operaciones que se realicen entre entidades residentes en diferentes Estados miembros de la Comunidad Económica Europea, los principios tributarios sobre los que está construida son igualmente válidos para regular las operaciones realizadas entre entidades residentes en territorio español. Por este motivo, se establece un régimen tributario único para unas y otras.
+
+Este régimen tributario responde a un principio básico: La neutralidad. La regulación contenida en la presente norma no estimula la realización de las operaciones antedichas, pero tampoco las obstaculiza, porque su ejecución no origina carga tributaria alguna, ni otro beneficio fiscal que el consistente en el diferimiento de aquélla.
+
+La neutralidad se alcanza a través de dos técnicas tributarias:
+
+a) No integración en la base imponible del Impuesto sobre Sociedades, que grava a las entidades transmitentes, de los incrementos y disminuciones de patrimonio correspondientes a los bienes transmitidos.
+
+b) Las entidades adquirentes deben valorar los elementos recibidos, a efectos fiscales, por el importe que tenían con anterioridad a la realización de la transmisión.
+
+Técnicas similares se utilizan respecto de los socios de las entidades transmitentes, ya que éstos no están obligados a integrar en su base imponible los incrementos y disminuciones de patrimonio que se produzcan con ocasión del canje de valores, pero los recibidos se valoran, a efectos fiscales, por el valor de adquisición de los entregados.
+
+El régimen contenido en la presente Ley difiere sensiblemente del actualmente vigente, establecido en la Ley 76/1980, de 26 de diciembre, sobre Régimen Fiscal de las Fusiones de Empresas, a cuyo amparo se puede conceder una bonificación de hasta el 99 por 100 de los incrementos de patrimonio manifestadas en los procesos de fusión y escisión. Por consiguiente, la nueva normativa ha de suponer una importante economía de recursos fiscales, sin que ello vaya en mengua de las operaciones de concentración y reestructuración empresarial, que podrán realizarse sin condicionamientos fiscales inmediatos.
+
+Junto al principio básico de neutralidad, que se proyecta intensamente sobre todo el entramado normativo, debemos destacar otra característica, tal vez menos aparente, pero sin duda importante. Se trata de la práctica ausencia de intervención administrativa en las operaciones de concentración y reestructuración, lo que también contrasta fuertemente con el régimen establecido en la Ley 76/1980, cuya aplicación requería la sustanciación de un complicado expediente administrativo. Tal ausencia de intervención administrativa debe entenderse sin perjuicio de la que corresponde a los órganos españoles y comunitarios de Defensa de la Competencia, con el fin de evitar que mediante dichas operaciones se creen situaciones de dominio de mercado que puedan afectar el mantenimiento de una competencia efectiva en el mismo.
+
+El Título II realiza la incorporación a la normativa española de la Directiva 90/435/C.E.E. del Consejo, de 23 de julio de 1990, relativa al régimen fiscal común aplicable a las sociedades matrices y filiales de Estados miembros diferentes.
+
+Dicha Directiva se refiere a las distribuciones de beneficios entre sociedades matrices y filiales residentes en diferentes Estados miembros de la C.E.E., siempre que reúnan diversos requisitos entre los que se encuentra la circunstancia de que la participación de la sociedad matriz en la filial sea, al menos, del 25 por 100.
+
+El principio general que recoge este Título II, de acuerdo con la Directiva comunitaria, es que los beneficios distribuidos por la sociedad filial a su sociedad matriz quedan exentos de retención en origen.
+
+En aplicación de este principio, la sociedad matriz española que reciba dividendos de una sociedad filial de otro Estado comunitario integrará, en la base imponible del Impuesto sobre Sociedades, los beneficios líquidos recibidos y el impuesto correspondiente a tales beneficios efectivamente pagado por la sociedad filial deduciendo, de la cuota integra del Impuesto sobre Sociedades, las cantidades ya satisfechas por la filial con el límite resultante de aplicar el tipo de gravamen del Impuesto a la parte de la base imponible que corresponda a tales beneficios recibidos.
+
+Asimismo, los beneficios distribuidos por una sociedad filial española a su sociedad matriz de otro Estado comunitario no estarán sujetos a retención.
+
+El Título III de la Ley incorpora una modificación de la normativa del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados que persigue una doble finalidad: Por una parte, adaptar la regulación de la modalidad de «operaciones societarias» a la normativa comunitaria referente a las concentraciones de capital y, por otra, modificar el tratamiento dado por el Texto Refundido a ciertas cuestiones y materias, recogiendo lo que aconseja la experiencia derivada de la gestión del Impuesto durante más de diez años y las modificaciones experimentadas por otros conceptos tributarios afines como la imposición sobre el tráfico empresarial y el Impuesto sobre Sucesiones y Donaciones.
+
+Las modificaciones en la modalidad de operaciones societarias, aunque afectan a la práctica totalidad de los artículos que el Testo Refundido dedica a la misma, no implican un cambio total en su regulación, y ello como consecuencia, por una parte, de que la Ley 32/1980, de 21 de junio, ya procuró ajustarse, en lo que en aquel momento era posible, a la regulación comunitaria, contenida fundamentalmente en la Directiva 69/335/C.E.E., de 17 de julio de 1969, relativa a los impuestos indirectos que gravan la concentración de capitales y, además, porque se han ido realizando progresivamente otras adaptaciones, como demuestra la Ley 37/1988, de 28 de diciembre, de Presupuestos Generales del Estado para 1989, que estableció un tipo único de imposición del 1 por 100.
+
+No obstante, todavía existían materias en las que, al menos formalmente, la regulación del impuesto español diferia de la establecida en la normativa comunitaria. Tal es el caso del ámbito territorial de aplicación del tributo, por cuanto que el criterio comunitario de que el impuesto sólo puede exigirse una vez en todo el ámbito de la Comunidad, no se adaptaba al contenido del artículo 6 del Texto Refundido, que exigía el pago del tributo a todas las sociedades residentes en territorio español, con independencia de que lo hubieran satisfecho en otro país de la Comunidad Económica Europea.
+
+Del mismo modo, se modifica el artículo 25, referente a la fijación de la base imponible de las operaciones de constitución y aumento de capital de aquellas sociedades que no limiten la responsabilidad de los socios, admitiéndose, conforme al criterio comunitario, la deducción de las obligaciones asumidas por la sociedad con motivo de la aportación.
+
+Por lo que se refiere al resto de las modificaciones que introduce el Título III, obedecen, en general, a la necesidad de establecer una nueva regulación de ciertas figuras, para las que la experiencia derivada de la aplicación del Impuesto durante más de un decenio, dejaba traslucir la existencia de deficiencias que impedían su plena efectividad, como ocurría, por ejemplo, en materia de concesiones administrativas, cesiones de bienes a cambio de pensión y comprobación de valores.
+
+Por último, se establece una nueva regulación de la competencia funcional para la gestión y liquidación del Impuesto, adoptando el mismo sistema implantado por la Ley del Impuesto sobre Sucesiones y Donaciones.
+
+Asimismo, las modificaciones técnicas introducidas en el Texto Refundido del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados exigen, por razón de homogeneidad, efectuar algunos retoques de los artículos 18 y 19 de la Ley del Impuesto sobre Sucesiones y Donaciones, lo que se realiza a través de Disposiciones Adicionales.
+
+El Título IV se refiere al Impuesto sobre el Valor Añadido, dado que, en este ámbito, se han producido algunas modificaciones que requieren la oportuna adaptación de nuestra legislación.
+
+La plena aplicación en nuestro país, desde el 1 de enero de 1990, del Reglamento 1999/85/C.E.E., regulador del régimen aduanero de perfeccionamiento activo, en el que se prevén sistemas diferentes de los establecidos en la legislación anterior y, la necesidad de crear un régimen fiscal de perfeccionamiento activo que permita aplicar también los beneficios de la exención del Impuesto sobre el Valor Añadido a las importaciones de mercancías que no estén sujetas a derechos arancelarios, como establecen las legislaciones interiores de los demás Estados miembros, obliga a introducir las adecuadas modificaciones en la Ley del IVA.
+
+Ocurre lo mismo con las importaciones temporales, respecto de las cuales la Directiva 85/362/C.E.E. contiene las normas aplicables a las importaciones temporales de bienes distintos de los medios de transporte, a las que no está plenamente adaptada nuestra normativa.
+
+A partir del 1 de enero de 1992 entrarán en vigor los Reglamentos 2503/88/C.E.E. y 2504/88/C.E.E., relativos a Depósitos aduaneros y a Zonas y Depósitos francos, respectivamente, que modifican sustancialmente la normativa anterior y obligan a introducir en nuestra legislación los cambios para la necesaria armonización.
+
+La sentencia de 26 de febrero de 1991 del Tribunal de Justicia de las Comunidades Europeas obliga a España a adoptar las medidas necesarias para reconocer a las personas no sujetas al IVA, que importen bienes que hayan sido gravados en otro Estado miembro, el derecho a deducir, del IVA devengado a la importación, la cuantía del IVA residual incorporado al precio de los bienes en el momento de la importación.
+
+Esta sentencia obliga también a modificar los preceptos legales que regulan la base imponible de las importaciones para dar efectividad al derecho a minorar la cuota residual en las indicadas importaciones.
+
+Asimismo, la Ley trata de dar solución a determinados problemas de interpretación de los preceptos que definen los sectores diferenciados y la regularización de las cuotas soportadas por las adquisiciones de bienes de inversión efectuadas antes del inicio de la actividad empresarial, que pueden originar distorsiones en el normal funcionamiento del Impuesto.
+
+Por último, la derogación de la Ley 76/1980, de 26 de diciembre, prevista en la presente Ley, determina la necesidad de modificar el artículo 5.º de la Ley del Impuesto que hacía referencia a la disposición derogada.
+
+## TITULO I — Fusiones, escisiones, aportaciones de activos y canjes de valores
+
+> Se deroga por la disposición derogatoria única.27 de la Ley 43/1995, de 27 de diciembre. [Ref. BOE-A-1995-27752](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27752).
+
+### Artículos 1 a 16
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.27 de la Ley 43/1995, de 27 de diciembre. [Ref. BOE-A-1995-27752](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27752).
+
+## TITULO II — Régimen fiscal aplicable a las sociedades matrices y filiales de Estados miembros diferentes de la Comunidad Económica Europea
+
+> Se deroga por la disposición derogatoria única.27 de la Ley 43/1995, de 27 de diciembre. [Ref. BOE-A-1995-27752](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27752).
+
+### Artículos 17 a 24
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.27 de la Ley 43/1995, de 27 de diciembre. [Ref. BOE-A-1995-27752](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27752).
+
+## TITULO III — Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados
+
+### Artículo 25.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria 2.3 del Real Decreto Legislativo 1/1993, de 24 de septiembre. [Ref. BOE-A-1993-25359](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-25359).
+
+> Téngase en cuenta que se declara inconstitucional y nula la redacción dada por la modificación decimotercera al art. 59.2, por Sentencia 113/2006, de 5 de abril. [Ref. BOE-T-2006-8143](https://www.boe.es/buscar/doc.php?id=BOE-T-2006-8143).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 34, de 8 de febrero de 1992. [Ref. BOE-A-1992-2849](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-2849).
+
+## TITULO IV — Impuesto sobre el Valor Añadido
+
+### Artículo 26.
+
+Se introducen las siguientes modificaciones en la Ley 30/1985. de 2 de agosto, del Impuesto sobre el Valor Añadido:
+
+Primero: El apartado 1.º, letra b) del artículo 5.º quedará redactado de la siguiente forma:
+
+«b) La transmisión de la totalidad del patrimonio empresarial del sujeto pasivo o de los elementos patrimoniales afectos a una o varias ramas de la actividad empresarial del transmitente en virtud de las operaciones a las que se refiere el artículo 1.º de la Ley 29/1991, de adecuación de determinados conceptos impositivos, a las Directivas y Reglamentos de las Comunidades Europeas, siempre que las operaciones tengan derecho al régimen tributario regulado en el Título primero de la citada Ley.
+
+A los efectos previstos en esta letra se entenderá por rama de actividad la definida en el número 4 del artículo 2.º de la Ley citada en el párrafo anterior.»
+
+Segundo: El número 3, apartado 3.º del artículo 6.º, quedará redactado de la siguiente forma:
+
+«3.º El cambio de afectación de bienes corporales o de derechos reales de goce o disfrute sobre bienes inmuebles de un sector a otro diferenciado de su actividad empresarial o profesional.
+
+A efectos de lo dispuesto en el párrafo anterior, se considerarán sectores diferenciados de la actividad empresarial o profesional los siguientes:
+
+a) Aquellos en los que las actividades económicas realizadas y los regímenes de deducción aplicables sean distintos.
+
+Se considerarán actividades económicas distintas aquéllas que tengan asignados grupos diferentes en la Clasificación Nacional de Actividades Económicas.
+
+No se reputará a estos efectos distinta la actividad accesoria a otra que contribuya a su realización, con los límites que reglamentariamente se establezcan.
+
+Los regímenes de deducción a que se refiere esta letra a) se considerarán distintos si los porcentajes de deducción, determinados con arreglo a lo dispuesto en el artículo 40 de esta Ley, que resultarían aplicables en el sector o en el conjunto de los sectores económicos diferentes del principal, difiriesen en más de 50 puntos porcentuales del correspondiente al citado sector principal.
+
+El sector principal, con las actividades accesorias al mismo y los sectores económicos cuyos porcentajes de deducción no difiriesen en más de 50 puntos porcentuales con el de aquél, constituirán un solo sector diferenciado.
+
+Los sectores económicos diferentes del principal cuyos porcentajes de deducción difiriesen en más de 50 puntos porcentuales con el de aquél y cuyas actividades económicas sean distintas también a las del sector principal constituirán un sector diferenciado del principal.
+
+A los efectos de lo dispuesto en este apartado se considerará principal el sector en el que se hubiese realizado mayor volumen de operaciones durante el año natural inmediato anterior.
+
+b) Los sectores acogidos a los regímenes especiales simplificado, de la agricultura, ganadería y pesca o del recargo de equivalencia.
+
+c) Las operaciones de arrendamiento a que se refiere la disposición adicional séptima de la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito.»
+
+Tercero: El artículo 11 quedará redactado de la siguiente forma:
+
+«Artículo 11. Exenciones relativas a áreas y regímenes aduaneros y fiscales.
+
+1\. Están exentas, en las condiciones y con los requisitos que se establezcan reglamentariamente, las siguientes operaciones relacionadas con las zonas francas, depósitos francos y depósitos aduaneros, cuando se cumpla, en cada caso, lo dispuesto en la legislación aduanera y los bienes a que se refieran no sean utilizados ni destinados a su consumo final en dichas áreas:
+
+1.º Las entregas de bienes expedidos o transportados a las citadas áreas para su introducción en ellas, así como las prestaciones de servicios relacionadas con dichas entregas.
+
+A los efectos de la exención definida en este apartado 1.º, no se considerarán utilizados en las citadas áreas los bienes introducidos en las mismas para ser incorporados a los procesos de transformación en curso que se realicen en ellas, al amparo de los regímenes aduaneros de transformación en aduana o de perfeccionamiento activo en el sistema de suspensión, o al amparo del régimen fiscal de perfeccionamiento activo.
+
+2.º Las entregas de los bienes que se encuentren en las mencionadas áreas y las prestaciones de servicios que se refieran a dichos bienes.
+
+3.º Las prestaciones de servicios realizadas por intermediarios que actúen en nombre y por cuenta de terceros cuando intervengan en las operaciones descritas en los apartados 1.º y 2.º anteriores.
+
+2\. Están exentas del impuesto, en las condiciones y con los requisitos que se establezcan reglamentariamente, las siguientes operaciones relativas a los bienes que se encuentren, con cumplimiento de la normativa que sea aplicable en cada caso, al amparo de los regímenes aduaneros de tránsito, importación temporal con exención total, perfeccionamiento activo en el sistema de suspensión, con exclusión de la modalidad de exportación anticipada, transformación en aduana y depósito aduanero y de los regímenes fiscales de importación temporal y de perfeccionamiento activo:
+
+1.º Las entregas de los bienes que se encuentren al amparo de cualquiera de los regímenes aduaneros y fiscales indicados en este número 2, así como las prestaciones de servicios relacionadas con dichas entregas.
+
+2.º Las prestaciones de servicios relativas a los bienes situados al amparo de los regímenes aduaneros de tránsito, perfeccionamiento activo en el sistema de suspensión, transformación en aduana y depósito aduanero, así como las relativas a los bienes que se encuentren al amparo del régimen fiscal de perfeccionamiento activo.
+
+3.º Las entregas de bienes destinados a ser incorporados a procesos de transformación en curso, realizados en los lugares mencionados en el número 1 anterior al amparo de los regímenes aduaneros de transformación en aduana o de perfeccionamiento activo en el sistema de suspensión, o al amparo del régimen fiscal de perfeccionamiento activo.
+
+4.º Las prestaciones de servicios efectuadas por intermediarios que actúen en nombre y por cuenta de terceros cuando intervengan en las operaciones exentas comprendidas en los apartados anteriores de este número 2.
+
+3\. Las prestaciones de servicios exentas por el presente artículo no comprenderán, en ningún caso, las que gocen de exención en virtud de lo establecido en el artículo 8 de esta Ley.»
+
+Cuarto: El artículo 22 quedará redactado de la siguiente forma:
+
+«Artículo 22. Exenciones en las importaciones de bienes en áreas exentas y al amparo de determinados regímenes aduaneros y fiscales.
+
+1\. Están exentas del Impuesto, en las condiciones y con los requisitos que se establezcan reglamentariamente, las importaciones de bienes que se introduzcan en zonas francas, depósitos francos, depósitos aduaneros y depósitos temporales, cuando se cumpla, en cada caso, lo dispuesto en la legislación aduanera y los bienes a que se refieran no sean utilizados ni destinados a su consumo final en dichas áreas.
+
+2\. Están exentas del Impuesto, con las condiciones y con los requisitos que se determinen reglamentariamente, las importaciones de bienes que se incluyan en los regímenes aduaneros de transito, importación temporal con exención total, perfeccionamiento activo en el sistema de suspensión, con exclusión de la modalidad de exportación anticipada, perfeccionamiento pasivo, depósito aduanero y transformación en aduana, cuando se cumpla en cada caso lo dispuesto en la legislación aduanera reguladora de dichos regímenes.
+
+La exención correspondiente a las importaciones de bienes que se efectúen al amparo del régimen aduanero de perfeccionamiento pasivo no alcanzará a los trabajos efectuados ni a los bienes incorporados fuera del ámbito de aplicación del Impuesto.
+
+3\. Están exentas del Impuesto, en las condiciones y con los requisitos que se establezcan reglamentariamente, las importaciones de bienes que se efectúen al amparo, del régimen fiscal de perfeccionamiento activo y del régimen fiscal de perfeccionamiento pasivo.
+
+Los regímenes fiscales de perfeccionamiento activo y pasivo se autorizarán respecto de los bienes que quedan excluidos de los regímenes aduaneros de la misma denominación, con sujeción, en lo demás, a las mismas normas que regulan los mencionados regímenes aduaneros.
+
+La exención correspondiente a las importaciones de bienes que se efectúen al amparo del régimen fiscal de perfeccionamiento pasivo no alcanzará a los trabajos efectuados o bienes incorporados fuera del ámbito de aplicación del Impuesto.
+
+4\. Están exentas del Impuesto, en las condiciones y con los requisitos que se establezcan reglamentariamente, las importaciones que se efectúen, al amparo del régimen fiscal de importación temporal con exención.
+
+El régimen fiscal de importación temporal con exención se autorizará respecto de los siguientes bienes:
+
+1.º Los procedentes de un Estado miembro de la Comunidad Económica Europea, que cumplan las condiciones de los artículo 9 y 10 del Tratado de la Comunidad Económica Europea y que hayan sido adquiridos o importados en las condiciones normales de tributación del Estado miembro de salida, sin haberse beneficiado el exportador de la deducción o devolución del Impuesto con ocasión de la exportación.
+
+Cuando se trate de medios de transporte, la exención estará también condicionada a que su importación temporal no esté gravada efectivamente con una parte de los derechos del Arancel aduanero que corresponderían a su importación a libre práctica.
+
+2.º Los importados de terceros países cuya importación temporal no esté gravada efectivamente con una parte de los derechos del Arancel aduanero que corresponderían a su importación a libre práctica.
+
+3.º Los bienes no comprendidos en los apartados 1.º y 2.º anteriores cuando hubieren sido cedidos al importador en virtud de arrendamiento que, por aplicación de las normas del lugar de realización de las prestaciones de servicios contenidas en el artículo 13 de esta Ley, estuviese sujeto y no exento del Impuesto.
+
+5\. Están exentas las prestaciones de servicios relacionadas directamente con las importaciones de bienes exentas en virtud de este artículo.
+
+6\. Están exentas las prestaciones de servicios efectuadas por intermediarios, que actúen en nombre y por cuenta de terceros, cuando intervengan en las operaciones exentas comprendidas en este artículo 22.
+
+7\. Las prestaciones de servicios que se declaran exentas por el presente artículo 22 no comprenderán, en ningún caso, las que gocen de exención en virtud de lo establecido en el artículo 8 de esta Ley.»
+
+Quinto: Se añade un nuevo número 5 al artículo 26, con el siguiente texto:
+
+«5. La base imponible de las importaciones a consumo, efectuadas por personas que no tengan la condición de empresarios o profesionales respecto de dichas importaciones, relativas a bienes procedentes de un Estado miembro de la Comunidad Económica Europea, en el que hubiesen sido adquiridos o importados en las condiciones normales de tributación y cuya salida de este Estado no hubiese originado el derecho a la deducción o devolución en favor del exportador, será la que resulte de aplicar el presente artículo 26 y el artículo 25 anterior, minorada en la cuantía del Impuesto sobre el Valor Añadido que esté incorporada al bien en el momento de su importación.
+
+La cuota tributaria exigible será la que resulte de aplicar, a la base imponible calculada en la forma dispuesta en el párrafo anterior, el tipo impositivo vigente en el momento del devengo y deducir, de la cantidad obtenida, el importe del Impuesto incorporado al bien en el momento de la importación.
+
+El Impuesto incorporado al bien en el momento de la importación será la cuota repercutida o satisfecha por la última entrega o importación, efectuadas en el Estado miembro de procedencia, multiplicada por la relación entre el Valor en aduana del bien en el momento de la importación en el territorio peninsular español o Islas Baleares y el valor del bien cuando fue objeto de aquella entrega o importación, excluido el propio Impuesto.
+
+La cuota soportada en el Estado miembro de exportación se acreditará mediante la correspondiente factura de adquisición o documento de liquidación ante la Aduana.»
+
+Sexto: El número 4 del artículo 46 quedará redactado de la siguiente forma:
+
+«4. Las deducciones provisionales se regularizarán aplicando el porcentaje definitivo que globalmente corresponda al periodo de los tres primeros años naturales del ejercicio de la actividad.
+
+Cuando se trate de bienes de inversión, se aplicará una regularización complementaria en los casos que sea procedente, según lo dispuesto en el artículo 43 de esta Ley, por el tiempo que falte del correspondiente periodo de regularización.
+
+Para la regularización de las deducciones a que se refiere el párrafo precedente, se considerará deducción efectuada el año en que tuvo lugar la repercusión, según lo dispuesto en el artículo 43, número 2 de esta Ley, la que resulte del porcentaje de deducción definitivamente aplicable en virtud de lo establecido en el párrafo primero de este número 4.»
+
+Séptimo: Se añade un nuevo número 3 al artículo 48, con el siguiente texto:
+
+«3. En los supuestos a que se refieren este artículo y el siguiente, la Administración vendrá obligada a practicar liquidación provisional dentro de los seis meses siguientes al termino del plazo previsto para la presentación de la declaración-liquidación en que se solicite la devolución del Impuesto.
+
+Cuando de la liquidación provisional resulte una cantidad a devolver, la Administración procederá, en el plazo de treinta días, a su devolución de oficio.
+
+Si la liquidación provisional no se hubiera practicado en el plazo anteriormente previsto, la Administración procederá a devolver de oficio, en el plazo de treinta días, el importe total de la cantidad solicitada.
+
+Transcurrido el plazo legal para efectuar la devolución sin haber tenido lugar ésta, el sujeto pasivo podrá solicitar por escrito que le sean abonados intereses de demora, en la forma dispuesta en el artículo 45 del Texto Refundido de la Ley General Presupuestaria, aprobado por Real Decreto Legislativo 1091/1988, de 23 de septiembre.
+
+Reglamentariamente se determinarán el procedimiento y la forma de pago para la realización de la devolución de oficio a que se refiere el presente apartado.»
+
+Octavo: Se modifican los números 2 y 3 y se crean dos nuevos números 4 y 5 en el artículo 49, con la siguiente redacción:
+
+«2. En las mismas condiciones y con iguales límites cuantitativos que los previstos en el número 1 anterior, los sujetos pasivos tendrán también derecho a la devolución del saldo a su favor existente al término de cada periodo de liquidación respecto de las siguientes operaciones:
+
+1.º Las prestaciones de servicios exentas del Impuesto en virtud de lo dispuesto en los artículos 9 y 21 número 7 de esta Ley.
+
+2.º Las entregas de bienes y prestaciones de servicios exentas del Impuesto en aplicación de lo establecido en el artículo 10 de esta Ley.
+
+3\. Cuando las operaciones descritas en los números 1 y 2 anteriores originen pagos anticipados determinantes del devengo de Impuesto, podrán acogerse igualmente al derecho a la devolución regulado en este artículo, como exportaciones, envíos, entregas o servicios efectivamente realizados durante el año natural correspondiente.
+
+4\. A los efectos de lo dispuesto en este artículo, se entenderá por importe de las exportaciones, envíos, entregas y prestaciones de servicios a que se refieren los números 1 y 2 precedentes, la suma total de las contraprestaciones correspondientes, incluidos los pagos anticipados o, en su defecto, de los valores en el interior, de los bienes exportados, enviados o entregados y de los servicios prestados.
+
+5\. Reglamentariamente se determinará el procedimiento para el ejercicio del derecho establecido en el presente artículo.»
+
+Noveno: El artículo 52 quedará redactado en los siguientes términos:
+
+«Artículo 52. Rgimen simplificado.
+
+1\. El régimen simplificado se aplicará a los sujetos pasivos personas físicas y a las entidades en régimen de atribución de rentas en el Impuesto sobre la Renta de las Personas Físicas, que reúnan las circunstancias previstas en las normas que lo regulen, salvo que renuncien a él en los términos que reglamentariamente se establezcan.
+
+El ámbito de aplicación del régimen simplificado se determinará reglamentariamente en función del volumen de operaciones de los sujetos pasivos, salvo con respecto a aquéllas de sus actividades a las que sea de aplicación la modalidad de signos, índices o módulos del método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas, en que se estará a lo dispuesto en las Ordenes Ministeriales a que se refiere el número 2 del artículo siguiente.
+
+2\. El régimen simplificado se aplicará a los sectores económicos y a las actividades empresariales que se establezcan en el Reglamento del Impuesto.
+
+3\. No podrán tributar por el régimen simplificado por ninguna de sus actividades económicas, los sujetos pasivos a quienes sea de aplicación el método de estimación objetiva por signos, índices o módulos del Impuesto sobre la Renta de las Personas Físicas y que renuncien a él.»
+
+Décimo: El artículo 53 quedará redactado de la siguiente forma:
+
+«Artículo 53. Contenido del régimen simplificado.
+
+1\. Para la aplicación del régimen especial regulado en este Capítulo se determinará, mediante índices o módulos, el importe de las cuotas del Impuesto sobre el Valor Añadido y, en su caso, del Recargo de equivalencia a ingresar por el sujeto pasivo durante cada uno de los años naturales en que dicho régimen especial resulte aplicable.
+
+2\. Los índices o módulos a que se refiere el número anterior, así como las instrucciones para su cómputo, se establecerán, para cada sector económico o para cada actividad empresarial, por el Ministro de Economía y Hacienda.
+
+3\. En la estimación indirecta del Impuesto sobre el Valor Añadido se tendrán en cuenta, preferentemente, los índices o módulos establecidos para el régimen simplificado, cuando se trate de sujetos pasivos que hayan renunciado a este último régimen.
+
+4\. Los sujetos pasivos que hubiesen incurrido en omisión o falseamiento de los índices o módulos a que se refiere el número 2 anterior, estarán obligados al pago de las cuotas tributarias totales que resultasen de la aplicación del régimen simplificado con las sanciones e intereses de demora que procedan.
+
+5\. Quedarán excluidas del régimen simplificado las siguientes operaciones:
+
+1.º Las importaciones de bienes.
+
+2.º Las entregas de bienes inmuebles, buques y activos fijos inmateriales.
+
+El Impuesto sobre el Valor Añadido, satisfecho o soportado en la adquisición o importación de los bienes comprendidos en el apartado 2.º anterior será deducible de conformidad con lo previsto en el Título Cuarto de esta Ley.
+
+6\. Reglamentariamente se regulará este régimen simplificado y se determinarán las obligaciones formales y regístrales que deberán cumplir los sujetos pasivos acogidos al mismo.»
+
+Undécimo: El apartado 1 del artículo 54 quedará redactado de la siguiente forma:
+
+«1. A los efectos de lo dispuesto en el artículo 52 de esta Ley se considerará volumen de operaciones el importe total, excluido el Impuesto sobre el Valor Añadido y el Recargo de equivalencia, de las entregas de bienes y prestaciones de servicios, incluidas las exentas, cuyo devengo se hubiera producido durante el año natural correspondiente, que haya efectuado el sujeto pasivo en sus actividades empresariales y profesionales a las que no sea de aplicación el método de estimación objetiva singular por signos, índices o módulos del Impuesto sobra la Renta de las Personas Físicas.»
+
+Duodécimo: El apartado 1 del artículo 64 quedará redactado de la siguiente forma:
+
+«1. El régimen especial del Recargo de equivalencia se aplicará a los comerciantes minoristas que sean personas físicas o entidades en régimen de atribución de rentas en el Impuesto sobre la Renta de las Personas Físicas, que desarrollen su actividad en los sectores económicos y cumplan los requisitos que se determinen reglamentariamente.»
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 34, de 8 de febrero de 1992. [Ref. BOE-A-1992-2849](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-2849).
+
+### Disposición adicional primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.27 de la Ley 43/1995, de 27 de diciembre. [Ref. BOE-A-1995-27752](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27752).
+
+### Disposición adicional segunda.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.27 de la Ley 43/1995, de 27 de diciembre. [Ref. BOE-A-1995-27752](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27752).
+
+### Disposición adicional tercera.
+
+Lo dispuesto en esta Ley se entenderá sin perjuicio de los regímenes tributarios forales de Concierto y Convenio Económico en vigor, respectivamente, en los territorios históricos del País Vasco y en la Comunidad Foral de Navarra.
+
+### Disposición adicional cuarta.
+
+A partir de la entrada en vigor de la presente Ley quedarán exentas en la modalidad de «operaciones societarias» del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados las operaciones de constitución y aumento de capital de Sociedades Anónimas Laborales, Sociedades de Inversión Mobiliaria de Capital Fijo y Sociedades y Fondos de Capital Riesgo, siempre que concurran las condiciones y requisitos establecidos en su normativa reguladora para la aplicación de bonificaciones en la cuota devengada o en la base imponible.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 34, de 8 de febrero de 1992. [Ref. BOE-A-1992-2849](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-2849).
+
+### Disposición adicional quinta.
+
+EI apartado 3 del artículo 18 de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones quedará redactado en los siguientes términos:
+
+«3. Si el nuevo valor así obtenido fuese superior al que resultase de la aplicación de la correspondiente regla del Impuesto sobre el Patrimonio surtirá efecto en relación con las liquidaciones a practicar a cargo del adquirente por dicho Impuesto por la anualidad corriente y las siguientes.»
+
+### Disposición adicional sexta.
+
+El apartado 1 del artículo 19 de la Ley 29/1987, de 18 de diciembre, del Impuestos obre Sucesiones y Donaciones quedará redactado en los siguientes términos:
+
+«Artículo 19. Derecho de adquisición por la Administración.
+
+1\. La Administración Pública tendrá derecho a adquirir para sí cualquiera de los bienes y derechos que hayan sido transmitidos, cuando su valor comprobado exceda en más del 100 por 100 del declarado. Este derecho sólo podrá ejercitarse dentro de los seis meses siguientes a la fecha de firmeza de la liquidación del Impuesto.»
+
+### Disposición adicional séptima.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria 1.2 de la Ley 25/1995, de 20 de julio. [Ref. BOE-A-1995-17682](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17682).
+
+### Disposición adicional octava.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria 2.3 del Real Decreto Legislativo 1/1993, de 24 de septiembre. [Ref. BOE-A-1993-25359](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-25359).
+
+### Disposición adicional novena.
+
+El Gobierno elaborará y aprobará en el plazo de un año a partir de la entrada en vigor de la presente Ley, un nuevo Texto Redundido del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+
+> Se prorroga hasta el 31 de diciembre de 1993 la autorización concedida al Gobierno por la disposición final 2 de la Ley 37/1992, de 28 de diciembre. [Ref. BOE-A-1992-28740](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-28740).
+
+### Disposición transitoria primera.
+
+Se regirán por lo establecido en la Ley 76/1980, de 26 de diciembre, sobre Régimen Fiscal de las Fusiones de Empresas y en su normativa de desarrollo, las operaciones de fusión y escisión acordadas con anterioridad a la entrada en vigor de esta Ley, cuando reúnan los requisitos necesarrios y lo soliciten los interesados antes de transcurridos seis meses desde la entrada en vigor de la presente Ley.
+
+No obstante, los interesados podrán optar por el régimen establecido en la pesente Ley, previa comunicación a la Comisión informadora sobre Fusiones de Empresas.
+
+### Disposición transitoria segunda.
+
+**(Derogada)**
+
+> Se deroga por la dispsición derogatoria 2.3 del Real Decreto Legislativo 1/1993, de 24 de septiembre. [Ref. BOE-A-1993-25359](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-25359).
+
+### Disposición transitoria tercera.
+
+**(Derogada)**
+
+> Se deroga por la dispsición derogatoria 2.3 del Real Decreto Legislativo 1/1993, de 24 de septiembre. [Ref. BOE-A-1993-25359](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-25359).
+
+### Disposición transitoria cuarta.
+
+Hasta el 31 de diciembre de 1992 estarán exentas del Impuesto sobre el Valor Añadido las importaciones temporales de buques con exención parcial de derechos arancelarios.
+
+### Disposición transitoria quinta.
+
+1\. Las Ordenes Ministeriales correspondientes a 1992, a que se refiere el número 2 del artículo 53 de la Ley 30/1985, de 2 de agosto, del Impuesto sobre el Valor Añadido, podrán aprobarse por el Ministro de Economía y Hacienda y publicarse en el «Boletín Oficial del Estado» hasta el 29 de febrero del citado año.
+
+2\. Los sujetos pasivos del Impuesto sobre el Valor Añadido que hayan optado por el régimen simplificado y deseen renunciar a él para 1992, dispondrán de plazo hasta el 31 de marzo del citado año para ejercitar dicha renuncia que deberá efectuarse de acuerdo con lo previsto en el Real Decreto 1041/1990, de 27 de julio, por el cual se regulan las declaraciones censales que han de presentar a efectos fiscales los empresarios, los profesionales y otros obligados tributarios.
+
+Los sujetos pasivos que inicien su actividad en el año 1992, con anterioridad al día 1 de abril, podrán renunciar al régimen simplificado durante el mismo plazo señalado en el párrafo anterior.
+
+Los sujetos pasivos que no hayan optado por el régimen simplificado para 1991, no estarán obligados a renunciar expresamente al mismo para el año 1992 y siguientes y tributarán en régimen general hasta tanto no manifiesten expresamente la revocación de su renuncia.
+
+No obstante lo dispuesto en el párrafo anterior, los sujetos pasivos a los que sea aplicable la modalidad de signos, índices o módulos del método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas, estarán obligados, en caso de renuncia al régimen simplificado, a efectuarla expresamente en los términos y plazos previstos en el párrafo primero de este apartado.»
+
+### Disposición derogatoria.
+
+A la entrada en vigor de la presente Ley quedarán derogadas cuantas disposiciones se opongan a lo en ella previsto y, en particular, las siguientes:
+
+– Ley 76/1980, de 26 de diciembre, sobre Régimen Fiscal de las Fusiones de Empresas, y su normativa de desarrollo, sin perjuicio de lo previsto en la Disposición Transitoria Primera de esta Ley.
+
+– Disposición Adicional vigésima primera de la Ley 21/1986, de 23 de diciembre, de Presupuestos Generales del Estado para 1987.
+
+– Artículo 106.3 de la Ley 39/1988, de 28 de diciembre, de Haciendas Locales.
+
+– Artículo 33.6 de la Ley 20/1990, de 19 de diciembre, sobre Régimen Fiscal de las Cooperativas.
+
+– Disposición Transitoria sexta de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones.
+
+### Disposición final primera.
+
+El Gobierno dictará las disposiciones necesarias para el desarrollo y aplicación de esta Ley.
+
+### Disposición final segunda.
+
+La presente Ley entrará en vigor el día 1 de enero de 1992.
+
+Por tanto,
+
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+
+Madrid, 16 de diciembre de 1991.
+
+JUAN CARLOS, R.
+
+El Presidente del Gobierno,
+
+FELIPE GONZALEZ MARQUEZ

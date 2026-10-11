@@ -1,0 +1,1449 @@
+---
+title: "Orden de 13 de septiembre de 1985 por la que se aprueban determinadas Instrucciones Técnicas Complementarias de los capítulos III y IV del Reglamento General de Normas Básicas de Seguridad Minera"
+identifier: "BOE-A-1985-19595"
+eli: "https://www.boe.es/eli/es/o/1985/09/13/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria y Energía"
+date: 1985-09-13
+published: 1985-09-18
+in_force_from: 1985-10-08
+last_amended: 2021-07-09
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 224"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-19595"
+retrieved: 2026-10-11
+---
+
+# Orden de 13 de septiembre de 1985 por la que se aprueban determinadas Instrucciones Técnicas Complementarias de los capítulos III y IV del Reglamento General de Normas Básicas de Seguridad Minera
+
+Incluye la corrección de errores publicada en BOE núm. 281, de 23 de noviembre de 1985. [Ref. BOE-A-1985-24366](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-24366)
+
+Ilustrísimo señor:
+
+Por Real Decreto 863/1985, de 2 de abril, se aprobó el Reglamento General de Normas Básicas de Seguridad Minera, previéndose su desarrollo y ejecución mediante Instrucciones Técnicas Complementarias, cuyo alcance y vigencia se define en el articulo 2.° del citado Real Decreto.
+
+La variedad de materias que han de ser objeto de desarrollo aconseja, en beneficio de su mayor celeridad, la promulgación de las Instrucciones Técnicas Complementarias correspondientes a los capítulos del Reglamento, a medida que son objeto de acabada preparación.
+
+En virtud de lo expuesto, de acuerdo con la autorización a que se refiere el artículo 2.° del Real Decreto 863/1985, de 2 de abril, a propuesta de la Dirección General de Minas,
+
+Este Ministerio tiene a bien disponer:
+
+Se aprueban las Instrucciones Técnicas Complementarias, que se indican en el anexo, de los capítulos III y IV del Reglamento General de Normas Básicas de Seguridad Minera, aprobado por Real Decreto 863/1985, de 2 de abril.
+
+Lo que comunico a V. I. para su conocimiento y efectos.
+
+Madrid, 13 de septiembre de 1985.
+
+MAJÓ CRUZATE
+
+Ilmo. Sr. Director general de Minas.
+
+## A N E X O — INSTRUCCIONES TÉCNICAS COMPLEMENTARIAS DE LOS CAPÍTULOS III Y IV DEL REGLAMENTO GENERAL DE NORMAS BÁSICAS DE SEGURIDAD MINERA, APROBADO POR REAL DECRETO 863/1985, DE 2 DE ABRIL
+
+## CAPÍTULO III — MEDIDAS DE SALVAMENTO
+
+## Actuaciones en caso de accidentes
+
+ITC: 03.1.01
+
+Í N D I C E
+
+1\. Accidentes e incidentes graves.
+
+2\. Información periódica.
+
+3\. Trabajos de salvamento.
+
+4\. Requerimiento de medios auxiliares.
+
+### 1. Accidentes e incidentes graves.
+
+Los titulares de las actividades sujetas a este Reglamento comunicarán con la mayor urgencia a la Dirección General de Minas del Ministerio de Industria y Energía o Autoridad competente, cualquier accidente mortal o que haya producido lesiones cualificadas de graves.
+
+Igualmente procederán cuando se produzca un incidente que comprometa gravemente la seguridad de los trabajos o de las instalaciones, o cuando, a consecuencia de huelgas, exista un peligro inminente, tal como inundación, falta de ventilación o conservación. La autoridad antes citada, a través de las Autoridades locales o provinciales, recurrirá a las Asociaciones profesionales y obreras para que proporcionen el personal necesario para hacer frente a dicho peligro.
+
+También quedan obligados a remitir los partes normalizados con la periodicidad que se solicite para la confección de la estadística de accidentes y enfermedades profesionales.
+
+Cuando la autoridad minera competente tenga conocimiento de accidentes o incidentes graves que no hayan sido comunicados de manera inmediata por el titular, abrirá un expediente sancionador.
+
+Se entiende por incidentes graves aquellos que comprometan la seguridad de los trabajadores, y en particular los relacionados con:
+
+– Fenómenos gaso-dinámicos.
+
+– Deflagraciones o explosiones de gases o polvos inflamables.
+
+– Incendios y autocombustiones.
+
+– Derrabes.
+
+– Hundimientos súbitos de talleres o galenas.
+
+– Explosivos.
+
+– Escapes de relleno.
+
+– Sistemas de extracción o maniobras en pozos verticales e inclinados.
+
+– Incidentes singulares por su excepcionalidad en la explotación de que se trate.
+
+– Inundaciones o afluencias súbitas de agua.
+
+Los trabajos de salvamento y la ejecución de las labores necesarias para evitar nuevos peligros se dispondrán por la Dirección Facultativa, inmediatamente de producirse el suceso.
+
+Cuando la autoridad minera tenga conocimiento de accidentes o incidentes graves, dispondrá que su personal facultativo se traslade al lugar del suceso. El Ingeniero actuario redactará un acta que recoja los trabajos de salvamento y la ejecución de las labores necesarias para evitar nuevos peligros, dispuestos por el Director facultativo haciendo constar su aprobación o desacuerdo. En caso de desacuerdo prevalecerá la opinión del Ingeniero actuario.
+
+Posteriormente, el Ingeniero actuario investigará el suceso y redactará un informe consignando la descripción y forma de producirse el mismo, señalando sus causas ciertas o probables, los preceptos reglamentarios infringidos si los hubiere y las medidas a tomar necesarias. El informe se emitirá el plazo máximo de un mes, y el Ingeniero actuario podrá recabar la opinión de los especialistas en la materia y las pruebas de laboratorio que considere necesarias.
+
+Con la misma fecha del informe se levantará un acta que recogerá la situación exacta de las instalaciones, máquinas o labores donde ocurrió el accidente o incidente, y las recomendaciones y/o prescripciones derivadas del informe.
+
+En cualquier caso, y a la mayor brevedad, las autoridades mineras comunicarán los sucesos de esta clase a la Dirección General de Minas.
+
+La autoridad minera, caso de haber ocurrido alguna desgracia personal, remitirá el informe al Juez de Instrucción, adicionando la información complementaria que estime pertinente.
+
+### 2. Información periódica de accidentes.
+
+Los titulares de las actividades sujetas a este Reglamento remitirán mensualmente a la autoridad minera competente una relación de los accidentados que hayan causado baja durante el mes, con su calificación médica, especificando sus causas y el tipo de lesiones.
+
+También enviarán trimestralmente los siguientes datos:
+
+– Número total de personas en nómina, especificando las plantillas de exterior e interior.
+
+– Número total de horas trabajadas (ordinarias y extraordinarias).
+
+– Número total de accidentados que hayan causado baja y su clasificación por su duración según modelo de parte oficial.
+
+– Número de horas perdidas por incapacidad temporal y por incapacidades permanentes declaradas en el mismo acuerdo con el baremo reglamentario.
+
+– Anualmente, el número personal afectado por enfermedades profesionales y grado de las mismas.
+
+La autoridad minera competente, previa confrontación e investigación, en su caso, de los accidentes comunicados, remitirá trimestralmente a la Dirección General de Minas los datos correspondientes.
+
+### 3. Trabajos de salvamento.
+
+En todas las minas, trabajos subterráneos o industrias comprendidas en este Reglamento se dispondrá de personal adiestrado para el pronto auxilio de los accidentados y para el uso de los aparatos de salvamento. La autoridad minera podrá exigir que dispongan de aparatos de salvamento.
+
+### 4. Requerimiento de medios auxiliares.
+
+En los casos de extrema urgencia, y ausencia del Ingeniero actuario, el requerimiento a que se refiere el artículo 17 del Reglamento General de Normas Básicas de Seguridad Minera podrá ser realizado por el Director facultativo de la actividad donde haya ocurrido el siniestro.
+
+Los titulares de actividades y los Directores facultativos están obligados a atender los requerimientos.
+
+Los gastos originados por los auxilios prestados para la atención de los accidentados y reparación de las labores serán sufragados por los titulares de la actividad en que se haya producido el suceso.
+
+## Estaciones de salvamento
+
+ITC: 03.2.01
+
+Í N D I C E
+
+1\. Prescripciones generales.
+
+2\. Aparatos de respiración autónoma.
+
+3\. Organización.
+
+### 1. Prescripciones generales.
+
+a) Las estaciones de salvamento citadas en el artículo 18 del Reglamento General de Normas Básicas de Seguridad Minera, estarán provistas de aparatos de respiración autónoma y de los materiales y herramientas precisos para hacer frente a las situaciones de emergencia, así como de medios de transporte.
+
+b) Para establecer estaciones de salvamento comunes a varias actividades, será preceptivo el informe favorable de la autoridad minera competente.
+
+### 2. Aparatos de respiración autónoma.
+
+Los aparatos de respiración autónoma deberán ser homologados y autorizados por la Dirección General de Minas, quien tendrá en cuenta entre otras cosas:
+
+– La posibilidad de poder trabajar con ellos en espacios reducidos y en cualquier posición.
+
+– La temperatura máxima del aire generado, que permita la realización de un trabajo eficaz, durante el tiempo de autonomía.
+
+– La facilidad de manejo y mínima atención durante su utilización, así como disponer de dispositivos que adviertan posibles situaciones anormales en su funcionamiento.
+
+El número total de aparatos de respiración autónoma de cada estación de salvamento se establecerá para permitir una acción continua, en función de su autonomía y del número de personas que constituyan el relevo de salvamento.
+
+En las estaciones de salvamento se dispondrá también de detectores de gases nocivos, aparatos para practicar la respiración artificial y suministro de oxígeno a los accidentados, así como de lámparas eléctricas.
+
+Todos los aparatos serán periódicamente revisados y comprobados por personal responsable, que dejará constancia de su estado, comunicando las posibles anomalías encontradas en las revisiones.
+
+### 3. Organización.
+
+El Jefe de la estación de salvamento será un técnico titulado de Minas, autorizado por la autoridad minera competente a propuesta de la Empresa o Empresas integradas en la estación, que será el responsable de su estado de conservación y correcto funcionamiento.
+
+Los componentes de la estación de salvamento deberán ser personas de acreditada experiencia minera y disponer de los conocimientos precisos al desarrollo de su función, hallándose adiestrados convenientemente en el manejo de los aparatos de salvamento y en la práctica de la respiración artificial.
+
+Habrán, también, de superar los reconocimientos médicos iniciales y periódicos requeridos para poder realizar su trabajo en las condiciones que se le señalen.
+
+El personal adiestrado en salvamento no prestará servicios de modo aislado, cuando esté haciendo uso del equipo de respiración autónoma, sino agrupado en equipos cuyo número no deberá ser inferior a tres, actuando uno de ellos como encargado.
+
+La estación de salvamento dispondrá del personal necesario para garantizar su trabajo de forma continua, teniendo en cuenta la autonomía de los aparatos de respiración y los tiempos de recuperación del personal después de cada relevo.
+
+El Jefe de estación de salvamento comunicará a la autoridad minera competente la organización de la misma, la cual podrá exigir la presencia continuada de turnos de guardia o un adecuado sistema de localización de sus componentes, de acuerdo con los riesgos que entrañe la mina o minas agrupadas.
+
+El personal adiestrado en el manejo de aparatos de respiración autónoma hará prácticas periódicas que serán debidamente anotadas en el libro registro. Cuando sean requeridos por la autoridad minera competente, harán las prácticas en presencia de su personal técnico.
+
+## CAPÍTULO IV — LABORES SUBTERRÁNEAS
+
+## Clasificación
+
+ITC: 04.1.01
+
+Í N D I C E
+
+1\. Clasificación de labores subterráneas respecto al riesgo de grisú y otros:
+
+1.1 Prescripción general.
+
+1.2 División de las minas en cuarteles y clasificación de éstos.
+
+1.3 Clasificación como minas o cuarteles con propensión a fuegos.
+
+1.4 Clasificación como minas o cuarteles con polvos inflamables.
+
+1.5 Gasificación de minas o zonas con grisú u otros gases inflamables.
+
+1.6 Clasificación de nuevas actividades subterráneas.
+
+1.7 Notificación de variaciones en las condiciones que motivaron la clasificación.
+
+1.8 Revisión de la clasificación de una mina o zona.
+
+1.9 Solicitud de anulación de clasificación como mina grisuosa.
+
+1.10 Manifestaciones de grisú o gas inflamable en minas de primera categoría.
+
+1.11 Notificación de incidentes que puedan considerarse como desprendimiento instantáneo.
+
+1.12. Solicitud de desclasificación como mina con desprendimientos instantáneos.
+
+1.13 Prescripciones adicionales para las minas de carbón de primera categoría
+
+1.14 Caso especial de la mecanización integral de explotaciones.
+
+### 1. Clasificación de labores subterráneas respecto al riesgo de grisú y otros.
+
+1.1 Prescripción general.
+
+Las labores subterráneas serán clasificadas por la autoridad minera respecto al grisú u otros gases combustibles, al riesgo de propensión al fuego y a polvos inflamables.
+
+Cuando en las labores subterráneas se presenten otros gases combustibles distintos que el grisú, la Dirección General o Autoridad competente, oída la Comisión de Seguridad Minera, procederá a su clasificación en una de las categorías previstas para aquel gas y si fuera necesario, dictará normas especiales que permitan alcanzar grados de seguridad similares a los de las labores grisuosas y para ello se tendrán en cuenta las concentraciones límites explosivas y las temperaturas mínimás de inflamación de los gases desprendidos.
+
+Igualmente procederá a la clasificación la Dirección General o Autoridad competente, oída la Comisión de Seguridad Minera, cuando coexistan con el grisú bien otros gases combustibles o bien riesgo de propensión al fuego.
+
+1.2 División de las minas en cuarteles; clasificación de éstos.
+
+Las minas podrán dividirse en cuarteles independientes, los cuales podrán clasificarse en distintas categorías.
+
+Dos cuarteles se considerarán independientes cuando tengan solamente en común, desde el punto de vista de la ventilación, galerías principales de entrada y salida del aire.
+
+Un retorno de aire común a varios cuarteles independientes se considerará que forma parte del cuartel de clasificación más peligroso.
+
+En ningún caso podrán coexistir cuarteles clasificados de primera categoría con otros de categorías diferentes. La división en cuarteles será establecida por la autoridad minera.
+
+Todo el personal de la mina estará debidamente informado de la clasificación de los distintos cuarteles de la misma, que estarán señalizados.
+
+1.3 Clasificación como minas o cuarteles con propensión a fuegos.
+
+Se clasificarán como minas o cuarteles con propensión a fuegos aquellos en los que existan referencias de que se produce la autocombustión del mineral o de sus rocas encajantes.
+
+Para la clasificación de una mina, cuartel o taller, se tendrán en cuenta las características genéticas y naturales del yacimiento (espesor de las capas, contenido en volátiles y azufre, etc.), conjuntamente con las derivadas del método y condiciones de la explotación (avance o retirada, relleno o hundimiento, ventilación, etc.), siendo predominante finalmente la frecuencia con la que en esas condiciones se produce la autocombustión.
+
+En todo caso, se clasificarán como propensas al fuego aquellas minas, cuarteles o talleres en los que se produce sistemáticamente la autocombustión cuando dejasen de aplicarse medidas específicas de prevención o lucha.
+
+1.4 Clasificación como minas o cuarteles con polvos explosivos.
+
+Se clasificarán como minas o cuarteles con polvos explosivos aquellos que explotan combustible cuyos polvos son capaces de producir o propagar una explosión.
+
+Se clasificarán en esta categoría las minas de carbón que tengan:
+
+a) Un contenido en materias volátiles superiores al 12 por 100, si la mina o cuartel está clasificada como grisuosa.
+
+b) Un contenido en materias volátiles superior al 16 por 100, si la mina o cuartel está clasificada como sin grisú.
+
+Las tomas de muestras para determinar la composición del polvo se harán en distintos puntos del piso, techo y paredes, en una longitud de galería no menor de 50 metros y a efectos de análisis se determinarán exentos de humedad, anhídrido carbónico y cenizas.
+
+No obstante lo anterior, no serán considerados como minas, cuarteles o emplazamientos con riesgo de explosión de polvo aquellos en que éste se encuentre eficazmente neutralizado por las condiciones naturales de la mina, por ejemplo, por encontrarse en forma de barro o cuando se encuentre en cantidad tal que, dispersado en la atmósfera, no dé lugar a una concentración suficiente para que se produzca la explosión, o cuando por la experiencia o los estudios realizados en una estación de ensayos oficialmente reconocidos, se demuestre que el polvo no es susceptible de propagar la explosión. La autoridad minera determinará las minas, cuarteles o emplazamientos que deben ser considerados peligrosos. El explotador deberá dar cuenta cuando varíen las condiciones que dieron lugar a la clasificación.
+
+1.5 Clasificación de minas o zonas con grisú u otros gases inflamables.
+
+Las minas o zonas en que éstas se dividan y las labores subterráneas en general en que sea posible la existencia de grisú u otros gases inflamables, se clasificarán en una de las cuatro categorías siguientes:
+
+a) Sin grisú o de primera categoría.–Aquellas en las que no se han presentado grisú ni otros gases inflamables. La clasificación de una mina de carbón en esta categoría deberá considerarse como excepcional y especialmente cuando tenga tajos mecanizados.
+
+b) Débilmente grisuosas o de segunda categoría.–Aquellas en las que puedan desprenderse en cantidad reducida grisú u otros gases inflamables.
+
+c) Fuertemente grisuosas o de tercera categoría.–Aquellas en las que puedan desprenderse, en cantidad abundante grisú u otros gases inflamables.
+
+d) Con desprendimientos instantáneos de gas o de cuarta categoría.–Aquellas en las que puedan desprenderse de forma súbita y masiva el grisú u otros gases inflamables, originando el arrastre violento de cantidades importantes de mineral o de sus rocas encajantes.
+
+Para la clasificación de minas sin grisú se tendrá en cuenta, además de la no presencia del mismo, la improbabilidad de que se presente debido a las condiciones del yacimiento.
+
+Para la clasificación de débil o fuertemente grisuosas, se tendrán en cuenta el volumen de gases inflamables que se desprende, así como la rapidez con que, en el caso de parada o disminución de la ventilación, se produce una acumulación peligrosa de estos gases.
+
+En todo caso se considerarán como fuertemente grisuosas:
+
+– Las minas o zonas independientes en las que el contenido en grisú en el retorno general de aire es superior al 0,5 por 100.
+
+– Las minas o zonas independientes en las que el grisú se desprende con regularidad y abundancia, de forma que se alcancen concentraciones explosivas en el ambiente al cabo de una hora de parada de la ventilación y de la actividad.
+
+– Las minas, zonas o labores en las que debido a la escasa consistencia mecánica del mineral y por efecto de la gravedad se produzcan desprendimientos del mismo que liberan cantidades tales de grisú que su acumulación supere contenidos del 2,5 por 100, aunque sea momentáneamente.
+
+En la clasificación de los fenómenos sospechosos de desprendimiento instantáneo se prestará especial atención al estudio de la causa originaria de los mismos, que habrá de ser la desorción rápida del gas.
+
+1.6 Clasificación de nuevas actividades subterráneas.
+
+Toda nueva actividad subterránea será clasificada con la autorización de explotación por la autoridad minera, la cual tendrá en cuenta la naturaleza del mineral explotado, las características geológicas del yacimiento, el historial de otras minas de la cuenca y la analogía con otras minas similares.
+
+Esta clasificación deberá considerarse como provisional, hasta que el desarrollo de los trabajos permita actuar con mayor conocimiento de causa para proceder a la clasificación definitiva. Esta clasificación provisional no excederá de un año.
+
+No obstante, si fuera clasificada en primera categoría, durante el periodo provisional la autoridad minera podrá prescribir mediciones complementarias que permitan una correcta clasificación definitiva.
+
+En todo caso, para la clasificación de una mina o cuartel de la misma como susceptible de desprendimiento instantáneo de grisú, será oída la Comisión de Seguridad Minera.
+
+1.7 Notificación de variaciones en las condiciones que motivaron la clasificación.
+
+El Director facultativo de una mina clasificada en una determinada categoría está obligado a dar aviso inmediatamente a la autoridad minera cuando varíen las condiciones que motivaron aquella clasificación.
+
+1.8 Revisión de la clasificación de una mina o zona.
+
+La autoridad minera, como consecuencia de los datos que le comunique el Director facultativo o de los obtenidos de las comprobaciones o medidas periódicas, o de las que especialmente pueda ordenar, podrá revisar la clasificación de una mina o zona de la misma.
+
+Igualmente, el Director facultativo de una explotación podrá solicitar ante la autoridad minera la revisión de la clasificación de una determinada mina o zona de la misma.
+
+1.9 Solicitud de anulación de clasificación como mina grisuosa.
+
+Si la mina está clasificada como grisuosa y quisiera clasificarse como no grisuosa, el Director facultativo deberá solicitarlo ante la autoridad minera, acompañando una relación de los reconocimientos y ensayos efectuados durante un período mínimo de un año, los cuales deberán ir avalados con su firma.
+
+La autoridad minera, a la vista de todos los antecedentes que pueda reunir, y después de comprobar, paralizando la ventilación de la mina durante veinticuatro horas, el contenido en grisú de distintas labores cada dos horas, sirviéndose de grisúmetros oficialmente aprobados, y tomando muestras de aire que necesariamente se analizarán en un laboratorio oficial, dictará su resolución definitiva, pudiendo oír a la Comisión de Seguridad Minera si lo estima conveniente, aunque dándole siempre conocimiento de lo actuado.
+
+1.10 Manifestaciones de grisú o gas inflamable en minas de primera categoría.
+
+En el momento en que en una mina o zona clasificada en primera categoría se presente una manifestación, por pequeña que sea, de grisú u otro gas inflamable, el Director Facultativo de la misma deberá comunicarlo a la autoridad minera, que desde ese momento considerará a la mina como de segunda categoría y prescribirá que se someta a las observaciones siguientes:
+
+a) Reconocimiento y comprobación por parte de la autoridad minera de gases y de la atmósfera de la mina o zona, especialmente en los lugares donde se produjeron las primeras manifestaciones y en las mismas condiciones que se exigen para las minas grisuosas.
+
+b) Vigilancia especial de la atmósfera en los trabajos de investigación y preparación, principalmente en las proximidades de fallas, otros accidentes geológicos y minados antiguos.
+
+c) La autoridad minera competente establecerá las medidas provisionales de seguridad y los plazos de ejecución.
+
+El período de examen y vigilancia tendrá una duración máxima de un año, durante el cual, si dichas manifestaciones se mantienen o agravan, la autoridad minera mantendrá la clasificación de la mina.
+
+Si durante el plazo de un año establecido para examen y vigilancia no se ha presentado ninguna manifestación de gases inflamables, la autoridad minera podrá reclasificar la mina como de primera categoría.
+
+1.11 Notificación de incidentes que puedan considerarse como desprendimiento instantáneo.
+
+El Director facultativo está obligado a dar cuenta a la autoridad minera que lo notificará para su conocimiento a la Comisión de Seguridad Minera, de todo incidente en que pueda sospecharse la existencia de desprendimiento instantáneo y de toda manifestación anormal que pueda anunciar dichos incidentes, tales como proyecciones o desplazamientos de la capa, o liberaciones súbitas y masivas de gas, cause o no desgracias personales.
+
+Desde ese momento, la autoridad minera declarará la mina, cuartel o capa donde se ha producido el incidente, como sospechoso y se pirita un período de examen y vigilancia, de duración máxima de un año, durante el cual la autoridad minera exigirá las prescripciones de explotación y las medidas de vigilancia que considere adecuadas, así como la realización de un estudio técnico conducente a la determinación de la naturaleza y causas de los fenómenos ocurridos.
+
+Si durante este período de vigilancia las manifestaciones continúan o se agravan, la autoridad minera procederá a la clasificación de la mina o cuartel en cuarta categoría, dando cuenta a la Comisión de Seguridad Minera. Podrá también eliminar el período de vigilancia cuando esté claro que se trata de un desprendimiento instantáneo, en cuyo caso procederá inmediatamente a esta clasificación.
+
+Si durante el período de vigilancia no volviera a presentarse ninguna manifestación, pero de los estudios realizados hubiera sospecha de que aquélla pudo deberse a un desprendimiento súbito de gas, se declarará la mina como sospechosa, quedando sometida a las normas de explotación y vigilancia que dicte la autoridad minera.
+
+1.12 Solicitud de desclasificación como mina con desprendimientos instantáneos.
+
+Si el explotador de una mina o zona clasificada como susceptible de desprendimientos instantáneos de gas, pretende su desclasificación, se establecerá un período de vigilancia de duración no menor de dos años, al final del cual, oída la Comisión de Seguridad, la autoridad minera resolverá.
+
+1.13 Prescripciones adicionales para las minas de carbón de primera categoría.
+
+En las minas de carbón de primera categoría, queda terminantemente prohibido introducir en el interior de la mina cerillas, encendedores, así como efectos de fumar. Se requerirá autorización expresa de la Dirección Facultativa para introducir cualquier elemento capaz de producir chispas o llamas que sea preciso utilizar de forma excepcional en los trabajos de interior. La Dirección Facultativa podrá realizar los controles que considere oportunos para garantizar su cumplimiento.
+
+1.14 Caso especial de la mecanización integral de explotaciones.
+
+En el caso de llevarse a cabo proyectos de explotación con mecanización integral, entendiéndose como tal la del arranque más el sostenimiento, u otros en los que la autoridad minera considere que puede producirse un despilamiento rápido del carbón, tales como métodos de derrabado con voladuras u otros, el taller de arranque, incluyendo sus galerías de retorno de aire y los 50 metros anteriores de su galería de entrada de aire limpio, así como los fondos de saco de las galerías que acompañan al taller, serán considerados como de segunda categoría.
+
+## Accesos a trabajos subterráneos
+
+ITC: 04.2.01
+
+Í N D I C E
+
+1\. Objeto y campo de aplicación.
+
+2\. Señalización.
+
+3\. Personal.
+
+4\. Salidas a la superficie.
+
+5\. Protecciones contra caídas.
+
+6\. Protección contra incendios.
+
+7\. Accesos no utilizados.
+
+### 1. Objeto y campo de aplicación.
+
+La presente Instrucción tiene por objeto establecer los requisitos generales que deben cumplir los accesos a las explotaciones mineras.
+
+### 2. Señalización.
+
+Las instalaciones exteriores de los trabajos subterráneos de explotaciones mineras y los caminos que conducen a los mismos estarán eficazmente señalizados o separados de las propiedades vecinas de manera que nadie, inadvertidamente, pueda entrar en ellas.
+
+Esta disposición se hará extensiva a toda excavación peligrosa abandonada, así como a las escombreras en actividad.
+
+### 3. Personal.
+
+No se permitirá la presencia de personas ajenas en las instalaciones exteriores, a no ser que hayan sido autorizadas especialmente por la Dirección Facultativa.
+
+Toda persona cuya actuación sea tal que comprometa la conservación de las instalaciones, la seguridad o la higiene de los trabajadores, o la suya propia, será inmediatamente apartada de las mismas. Se actuará de igual manera con las personas en estado de embriaguez.
+
+### 4. Salidas a la superficie.
+
+Todo campo de explotación subterránea tendrá por lo menos dos salidas distintas a la superficie, accesibles en todo momento al personal y debidamente acondicionadas. No será preciso que ambas pertenezcan a una misma concesión.
+
+Cuando se trate de pozos, para que puedan considerarse como salidas en el sentido anterior, deberán estar equipados con escalas o contar con otros medios auxiliares en previsión de fallos en las instalaciones mecánicas de uso normal.
+
+Las bocas exteriores de los pozos no se hallarán bajo una misma edificación y la distancia entre ellas no será inferior a 30 metros. Las bocas exteriores construidas antes de la promulgación del presente Reglamento podrán seguir funcionando, aunque no se cumpla con la exigencia de los 30 metros indicados, siempre que la autoridad minera no determine lo contrario.
+
+En casos excepcionales o en períodos de preparación, podrá la autoridad minera permitir el trabajo provisional con un solo pozo de salida.
+
+### 5. Protección contra caídas.
+
+En las bocas de salida se establecerán los medios y aparatos adecuados que eviten caídas de personas o de materiales.
+
+### 6. Protección contra incendios.
+
+Las construcciones que recubran los accesos serán de materiales incombustibles. En éstas no podrán almacenarse sustancias fácilmente inflamables.
+
+Se tomarán medidas para que caso de que se produzca un incendio en el exterior, se pueda luchar rápidamente contra la penetración de los humos en los trabajos.
+
+### 7. Accesos no utilizados.
+
+Las bocas de los pozos que existan en superficie y no estén en servicio se taparán convenientemente a fin de imposibilitar el acceso y la caída de personas.
+
+Iguales medidas precautorias se aplicarán a todas las labores mineras inactivas que comuniquen con la superficie.
+
+## CABLES
+
+## Labores subterráneas
+
+## Cables
+
+ITC: 04.4.01
+
+1\. Objeto y campo de aplicación.
+
+2\. Definiciones.
+
+3\. Dimensionamiento, instalación y puesta en servicio.
+
+4\. Inspección de cables en servicio.
+
+5\. Retirada de cables del servicio.
+
+6\. Registro de cables.
+
+7\. Almacenamiento de los cables.
+
+1\. Objeto y campo de aplicación
+
+La presente Instrucción Técnica Complementaria tiene por objeto establecer los requisitos de seguridad aplicables a los cables de acero de cordones empleados como cables de extracción en pozos verticales y planos inclinados en las labores subterráneas realizadas en las actividades que como ámbito de aplicación recoge el artículo 1.o del Reglamento General de Normas Básicas de Seguridad Minera.
+
+Quedan excluidos de esta ITC los cables planos y los cerrados y semicerrados que serán regulados por una disposición interna de seguridad, aprobada por la autoridad minera competente, quien tendrá en cuenta, lo establecido en el informe de auditoría realizada por el laboratorio oficial acreditado al fabricante, en base a lo establecido en el apartado 2.3, b), de la ITC 12.0.01.
+
+Quedan excluidos de esta ITC los cables que se utilicen en las siguientes instalaciones:
+
+Pozos y planos inclinados equipados con un torno manual o un cabrestante exclusivo para transporte de material.
+
+Instalaciones de monorraíl con transporte ligero, excluido personal.
+
+Estrobos para maniobras de vagones en zonas de embarques en planos inclinados.
+
+Cables de telemina.
+
+Las medidas de seguridad para estos cables deberán recogerse en una DIS.
+
+2\. Definiciones
+
+2.1 Coeficiente de seguridad de proyecto (C): A efectos del dimensionado de los cables se define el coeficiente de seguridad de proyecto (C), como el cociente entre la fuerza de rotura total mínima del cable y la fuerza estática máxima que soportará en servicio.
+
+2.2 Coeficiente de seguridad efectivo (C): A efectos de comprobación de la resistencia de los cables para la puesta en servicio se define como coeficiente de seguridad efectivo (C) el cociente entre la fuerza de rotura total medida del cable y la fuerza estática máxima que soportará en servicio.
+
+2.3 Fuerza de rotura total mínima: Es el valor especificado en KN por debajo del cual no se permite que descienda la fuerza de rotura total medida, en una prueba especificada y que, normalmente, se obtiene como el producto del cuadrado del diámetro nominal del cable, por el factor del área transversal metálica y el factor de arrollamiento o como la suma de los productos del área transversal (en base al diámetro nominal del alambre) y el grado de resistencia a la tracción de cada alambre que se indican en el diseño del fabricante.
+
+2.4 Fuerza de rotura total medida: Es el valor obtenido como la suma de las fuerzas de rotura medidas de todos los alambres tomados de una muestra del cable y ensayados separadamente.
+
+2.5 Carga estática máxima: Es la componente en la dirección del movimiento del peso máximo suspendido del cable. En su determinación se tomarán en cuenta el peso del aparato de carga, incluyendo el de las piezas y los accesorios de unión a los cables de extracción y de equilibrio, el peso de la carga máxima a transportar, el peso de los cables de equilibrio y el peso propio del cable de extracción. Además, en los planos inclinados se tendrán en cuenta las resistencias al movimiento debidas a la rodadura del aparato de carga y al rozamiento del cable.
+
+2.6 Tramo de fabricación: Es la longitud de cable obtenida con una misma carga de máquina.
+
+3\. Dimensionamiento, instalación y puesta en servicio
+
+3.1 Normas respecto a las condiciones que deben reunir los cables y los métodos de ensayo: En base al reconocimiento mutuo con los Estados miembros de la Unión Europea, la aplicación de normas UNE que se cita en los epígrafes siguientes, podrá sustituirse por normas armonizadas o normas de cualquier otro Estado miembro de la Unión Europea u otros Estados partes contratantes del Acuerdo sobre el Espacio Económico Europeo (Acuerdo EEE), siempre que las características de los cables y los métodos de ensayo ofrezcan un nivel de seguridad y fiabilidad equivalentes a los garantizados por las citadas normas UNE.
+
+3.2 Coeficientes de seguridad: Los cables se dimensionarán con los coeficientes de seguridad de proyecto mínimos, establecidos en la tabla 1.
+
+TABLA 1
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Longitud máxima</p>
+<p>de cable suspendida</p>
+</td>
+<td colspan="2">
+<p>Coeficientes de seguridad de proyecto</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cordadas de personal</p>
+</td>
+<td>
+<p>Cordadas de material</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L &lt;= 500 m</p>
+<p>L &gt; 500 m</p>
+</td>
+<td>
+<p>Cp = 9,5</p>
+<p>Cp = 9,5 - 0,001 L</p>
+</td>
+<td>
+<p>Cp = 7,2</p>
+<p>&gt;Cp = 7,2 - 0,0005 L</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Nota: La longitud máxima de cable suspendida L(m) será la medida entre la polea de fricción o bobina de arrollamiento y la posición más baja que pueda alcanzar el aparato de carga en el pozo o plano.
+
+Para L > 500 m, el coeficiente de seguridad de proyecto mínimo en cordadas de material no será inferior a 6.
+
+3.3 Instalación y puesta en servicio:
+
+3.3.1 Reglas generales.-La instalación y puesta en servicio de los cables a que se refiere esta ITC se someterán a las siguientes reglas generales de seguridad:
+
+1.º No se podrán emplear cables empalmados ni cables que hayan sido utilizados en otras instalaciones de extracción o con otros fines. Quedan excluidas de este requisito las instalaciones dotadas con sistemas de cable sin fin en las que, habiendo sido aprobado el proyecto de la instalación por la autoridad minera, sea preciso la realización de empalmes.
+
+2.º La instalación de un cable ya utilizado anteriormente en la propia instalación será objeto de aprobación especial por la autoridad minera.
+
+3.3.2 Suministro.-Todo tramo de fabricación de cable suministrado a una mina deberá ir acompañado de la siguiente documentación:
+
+Informe de auditoría al fabricante, realizado por el laboratorio oficial acreditado en base a lo indicado en el apartado 2.3, b), de la ITC 12.0.01 y criterios de la Comisión de Seguridad Minera que los desarrollen.
+
+En su caso, documentación acreditativa del cumplimiento de lo establecido en el informe de auditoría citado.
+
+Certificado de control emitido por el fabricante a que se refiere el anexo B de la norma UNE 22.000.
+
+Certificado emitido por el laboratorio acreditado de la carga de rotura total medida, que dispondrá de los medios necesarios para controlar periódicamente el coeficiente de pérdidas por cableado. La carga de rotura total medida se determinará aplicando el método citado en el punto 7.5.1 de la norma UNE 22.000 a una muestra del tramo de fabricación, obtenida por el fabricante siguiendo el método descrito en la ET0014-1-92.
+
+3.3.3 Instalación y puesta en servicio.-Antes de la instalación de un cable nuevo, el empresario deberá proceder a obtener una muestra del cable de cada tramo de fabricación suministrado, siguiendo el método establecido en la ET 0014-1-92. Esta muestra del cable será guardada en los locales de la mina, debidamente protegida contra la corrosión y daños mecánicos, hasta un mes después de la retirada definitiva del cable del servicio.
+
+Antes de la puesta en servicio del cable se realizarán al menos 30 cordadas consecutivas de transporte de material, con la carga máxima de elevación, y la velocidad, aceleración y deceleración máximas previstas en servicio normal. Durante las pruebas se obtendrá un registro continuo de la velocidad de cada cordada (diagrama velocidad-tiempo) y a su finalización se realizará una inspección del cable de nivel I, según lo establecido en ET 0801-1-93. El resultado de esta prueba se recogerá en el Libro de Registro de Cables.
+
+Toda instalación nueva, así como toda modificación de una instalación será objeto de un proyecto; cuando en una instalación únicamente se sustituya el cable se solicitará su puesta en servicio adjuntando una memoria técnica, que deberá contener:
+
+a) Las características completas del cable y el certificado de control emitido por el fabricante a que se refiere el anexo B de la norma UNE 22.000.
+
+b) El certificado emitido por un laboratorio acreditado correspondiente a la determinación de la carga de rotura total medida prevista en el apartado 3.2.2.
+
+c) La comprobación de que el coeficiente de seguridad efectivo C es igual o mayor que el coeficiente de seguridad mínimo de proyecto C.
+
+d) Informe de auditoría al fabricante, realizada por el laboratorio oficial acreditado en base a lo indicado en el apartado 2.3, b), de la ITC 12.0.01 y criterios de la Comisión de Seguridad Minera que los desarrollen.
+
+e) En su caso, documentación acreditativa del cumplimiento de lo establecido en el informe de auditoría citado.
+
+4\. Inspección de los cables en servicio
+
+4.1 Procedimientos de inspección.-Los cables de acero contemplados en la presente ITC serán inspeccionados durante el servicio aplicando los métodos establecidos en la ET 0801-1-93, correspondientes a las inspecciones de nivel I y nivel II, respectivamente.
+
+4.2 Realización de las inspecciones:
+
+4.2.1 Aplicación de la inspección de nivel I.-El empresario designará la persona o personas encargadas de la realización de las inspecciones de nivel I que deberán estar debidamente capacitadas.
+
+La aplicación de la inspección de nivel I se realizará con la periodicidad siguiente:
+
+a) Diariamente se inspeccionará el estado general del cable, a velocidad R= 1 m/s, para localizar posibles deformaciones visibles y roturas concentradas de alambres. Si se detecta algún deterioro de estas características se realizará una inspección de la zona afectada a cable parado. El resultado de la inspección se anotará en el Libro de Registro de Cables.
+
+b) Semanalmente se inspeccionará el cable a una velocidad menor o igual a 1 m/s, observando en particular el número de alambres rotos, así como deformaciones, disminuciones de la sección y otros deterioros. Se prestará especial atención a aquellas zonas que lo requieran como consecuencia de los resultados de la inspección diaria.
+
+En cada posición de inspección se medirán el diámetro y el paso de cableado según la ET 0801-1-93.
+
+Los resultados de la inspección se anotarán en el Libro de Registro de Cables.
+
+c) Inspección de la zona del cable comprendida en los dispositivos de amarre. El resultado de esta inspección se anotará en el Libro de Registro de Cables.
+
+c)1. Poleas Koepe: Anualmente se inspeccionará la zona del cable comprendida en los dispositivos de amarre, desde el punto de vista del número de alambres rotos, el desgaste y la corrosión externa e interna.
+
+c)2. Máquinas de tambor: Para las instalaciones destinadas al transporte de personal y dotadas de máquinas de tambor se procederá, una vez durante el primer año y una vez cada seis meses los años siguientes, al corte de su parte inferior en una longitud de, al menos, tres metros comprendiendo la zona del amarre. Esta muestra, obtenida según el procedimiento establecido en la ET 0014-1-92, se someterá al ensayo para determinar la carga de rotura total medida, según el punto 7.5.1 de la norma UNE 22.000, en un laboratorio oficial acreditado, que dispondrá de los medios adecuados para controlar periódicamente el coeficiente de pérdidas por cableado; además, se destrenzará un trozo de la muestra para una cuidadosa inspección del interior del cable desde el punto de vista del número de alambres rotos, el desgaste y la corrosión interna y externa.
+
+4.2.2 Aplicación de la inspección de nivel II.-Las inspecciones de nivel II deberán ser realizadas por personal de la autoridad minera competente u organismo de control de los contemplados en el artículo 15 de la Ley 21/1992, de 16 de julio, de Industria, y reguladas en el capítulo IV del Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial, aprobado por Real Decreto 2200/1995, de 28 de diciembre, y las conclusiones de sus informes de inspección registradas en el Libro de Registro de Cables.
+
+Deberá realizarse una inspección de nivel II, según lo establecido en la ET 0801-1-93 antes de que haya transcurrido un mes de funcionamiento desde la puesta en servicio del cable.
+
+El aparato de examen electromagnético empleado deberá ser conforme con la ET 0802-1-93.
+
+Una vez realizada la primera inspección electromagnética, destinada a obtener un registro base del cable que servirá de referencia para las siguientes inspecciones, todo cable será inspeccionado electromagnéticamente al menos una vez cada seis meses a lo largo de toda su longitud.
+
+Aquellas secciones accesibles del cable que no puedan ser examinadas electromagnéticamente se inspeccionarán aplicando la metodología del nivel I de inspección.
+
+Cuando un accidente en el pozo (caída de objetos sobre el cable, choque de la jaula, etc.) pueda haber ocasionado algún daño al cable, el empresario deberá comunicarlo a la autoridad minera, adjuntando un informe de inspección de nivel II realizado en el menor plazo de tiempo posible después de ocurrido el accidente.
+
+5\. Retirada de cables del servicio
+
+Del resultado de las inspecciones efectuadas según los apartados anteriores se deducirá si un cable puede o no continuar en servicio.
+
+Los cables se retirarán del servicio, salvo autorización expresa justificada en casos excepcionales, cuando se dé al menos una de las condiciones siguientes:
+
+Primero: Los resultados de un ensayo de nivel II indiquen una pérdida de sección metálica superior al 15 por 100.
+
+Segundo: El número de alambres rotos en un paso de cableado (excluyendo los alambres de relleno) es superior a:
+
+1\. El 15 por 100 del número total de alambres localizados en cualquier cordón.
+
+2\. El 5 por 100 del número total de alambres cuando se encuentren localizados en un cordón.
+
+Tercero: Cuando la disminución del diámetro del cable en un punto cualquiera alcance el 10 por 100 del diámetro del cable.
+
+Cuarto: Cuando los alambres exteriores han perdido más de un tercio de su sección metálica como resultado de cualquier tipo de deterioro.
+
+Quinto: Cuando el factor de rechazo, determinado según la ET 0801-1-93 alcance el valor 100.
+
+6\. Registro de cables
+
+El empresario deberá disponer de un Libro de Registro de Cables de acuerdo con la ET 0801-1-93.
+
+7\. Almacenamiento de los cables
+
+Todo cable recepcionado en la mina deberá ser almacenado en un local que reúna las condiciones adecuadas para asegurar su protección contra la corrosión, daños mecánicos y daños térmicos.
+
+El local deberá ser cerrado, a ser posible seco, con suelo de hormigón, bien aireado, libre de polvo, vapores y gases y en el que no se produzcan variaciones importantes de temperatura.
+
+Cuando el cable se almacene en rollos no deberán ser colocados directamente sobre el suelo. Se colocarán sobre una tarima de madera.
+
+Los carretes se podrán posar directamente sobre el suelo siempre que el cable quede a una distancia mínima del suelo de 25 cm.
+
+Los cables almacenados deberán inspeccionarse periódicamente para asegurarse que no existen indicios de corrosión u otro tipo de deterioro visible.
+
+**Transporte y circulación de personal por planos inclinados**
+
+ITC: 04.5.03
+
+Í N D I C E
+
+1\. Objeto y campo de aplicación.
+
+2\. Circulación de personal por planos inclinados exentos de sistema de transporte.
+
+3\. Circulación de personal por planos inclinados dotados de transporte rodado.
+
+3.1 Prescripciones generales.
+
+3.2 Máquinas y cabrestantes.
+
+3.3 Iluminación, señalización y comunicaciones.
+
+4\. Circulación de personal por planos inclinados dotados de bandas transportadoras.
+
+4.1 Prescripciones generales.
+
+4.2 Protección contra órganos en movimiento.
+
+4.3 Iluminación, señalización y comunicaciones.
+
+5\. Circulación de personal por planos inclinados dotados de otros sistemas de transporte.
+
+6\. Normas específicas de circulación.
+
+### 1. Objeto y campo de aplicación.
+
+La presente Instrucción tiene por objeto establecer los requisitos mínimos a que, por motivos de seguridad, debe ajustarse la circulación de personal por planos inclinados en explotaciones subterráneas.
+
+### 2. Circulación de personal por planos inclinados exentos del sistemas de transporte.
+
+Los planos inclinados con pendiente superior a 25° por donde se efectúe una circulación habitual de personal, deberán tener un paso de personal escalonado o estar provistos de escalas y dotados de una barra o cable que sirva de pasamanos.
+
+Si su inclinación sobrepasase los 45°, estos planos llevarán, además, descansillos cada 10 metros como máximo, con plataformas de protección contra caídas de personas u objetos. No se podrán llevar a cabo trabajos de conservación en los mismos más que sobre andamios o con cinturones de seguridad.
+
+Los accesos intermedios a los planos inclinados con pendiente superior a 30° han de estar acondicionados de tal modo que impidan la caída de personas.
+
+### 3. Circulación de personal por planos inclinados dotados de transporte rodado.
+
+3.1 Prescripciones generales:
+
+Los accesos a todo plano inclinado en servicio de transporte deben estar cerrados de tal modo que el personal no pueda penetrar inopinadamente en el plano.
+
+Todos los embarques de un plano inclinado deben estar dispuestos de manera que los vagones no puedan ponerse en movimiento más que a voluntad de los encargados de la maniobra.
+
+Los accesos a la cabeza de los planos inclinados y a las plantas intermedias estarán debidamente protegidos para evitar que los vagones puedan penetrar en la pendiente sin estar previamente sujetos al elemento tractor.
+
+En todos los embarques de un plano inclinado dotado con plataforma transportadora, un dispositivo debe, en su posición normal, impedir el acceso involuntario de vehículos en el plano; no se debe retirar más que si la plataforma está correctamente colocada en el embarque.
+
+Los sistemas de amarre de los vagones deben estar concebidos y conservados de tal forma que no se escapen durante la marcha.
+
+En las galerías en las que desemboquen planos inclinados, se tomarán las precauciones precisas para que las personas no puedan ser alcanzadas por los vagones en su marcha normal, ni en caso de escape. Las personas afectas a la maniobra del plano se protegerán durante la circulación de los vagones en galerías transversales o en refugios construidos al efecto. Esta misma protección se hará extensiva al personal de maniobra de las plantas intermedias y al de la planta superior, cuando la galería de acceso a la cabecera del plano constituya con éste una misma alineación vertical.
+
+En el avance de planos inclinados en sentido descendente, se dispondrán nichos o barreras para protección del personal en caso de escape de vagones o caída de objetos.
+
+Cuando un vagón descarrile en la pendiente del plano o quede detenido por cualquiera causa, se tomarán por el personal de la maniobra las medidas convenientes para que no pueda ponerse en movimiento inesperadamente. Una vez encarrilado el vagón o corregido el incidente, no se pondrá de nuevo en marcha en tanto que el personal del plano no ocupe sus respectivos puestos.
+
+Queda terminantemente prohibido efectuar labores de reparación o conservación en un plano inclinado durante la circulación de los vagones.
+
+No se permitirá el transpone de personas utilizando vagones o plataformas por los planos inclinados, a no ser que se disponga de un permiso de la autoridad minera competente, fijando las condiciones de esta circulación; quedan exceptuados de esta prohibición los heridos o enfermos que autorice bajo su responsabilidad la Dirección Facultativa.
+
+En planos inclinados por los que circulen habitualmente relevos de personal y que tengan una diferencia entre cotas de más de 30 metros, dispondrán de sistemas autorizados de transporte mecánico para el mismo.
+
+En Ios planos inclinados dotados de sistemas de transporte rodado, sólo se permitirá el tránsito de personal cuando el transporte no funcione.
+
+3.2 Máquinas y cabrestantes.
+
+Las máquinas de extracción o cabrestantes al servicio de los planos inclinados estarán provistos de frenos de palanca y contrapeso, prohibiéndose la utilización de artificios que impidan su correcto funcionamiento.
+
+Cuando la importancia del plano o instalación lo requiera, a juicio de la autoridad minera competente, se dispondrá, además, de otro freno que regule con más perfección la marcha; asimismo, contarán con un regulador de velocidad accionado por el eje del tambor para impedir su embalamiento.
+
+Para el caso de no funcionar a su debido tiempo el freno, la instalación estará dispuesta de tal modo que el maquinista no pueda ser alcanzado por vagones ascendentes y quede protegido, asimismo, de los cables en movimiento.
+
+Los maquinistas encargados del manejo de un cabrestante no se deben alejar del mismo sin haber cortado la alimentación del motor y verificado que el freno está efectivamente amarrado.
+
+Para la conservación de las instalaciones de los planos inclinados en los que se tenga autorización para transportar personal, se seguirán los mismos criterios indicados para las instalaciones de extracción.
+
+Los maquinistas de los planos inclinados autorizados para transporte de personal deben estar aprobados por la autoridad minera competente.
+
+3.3 Iluminación, señalización y comunicaciones.
+
+Todos los embarques utilizados para transporte principal, extremos o intermedios, de un plano inclinado han de estar convenientemente iluminados y señalizados.
+
+Todo plano inclinado debe de contar con medios adecuados de comunicación entre los diferentes embarques y maquinista o frenista. La Dirección de la mina fijará, en cada caso, el código de señales.
+
+### 4. Circulación de personal por planos inclinados dotados de bandas transportadoras.
+
+4.1 Prescripciones generales.
+
+La circulación de personal a lo largo de planos inclinados dotados de banda transportadora se autorizará a condición de que exista un comando a distancia en toda su longitud y un paso libre lateral de al menos 80 centímetros.
+
+El sistema de señalización o comando a distancia no será exigible cuando la banda transportadora y el seno de paso del personal estén separados por un vallado que impida el acceso al compartimiento de la banda.
+
+Se prohíbe cruzar, por encima o por debajo, una banda transportadora, a no ser en aquellos puntos debidamente acondicionados para ello y señalados al personal.
+
+Se prohíbe llevar a cabo cualquier intervención sobre una banda transportadora en marcha o en sus proximidades inmediatas, salvo en aquellos casos considerados como no peligrosos a juicio de la Dirección Facultativa.
+
+El cargue y descargue de material auxiliar sobre una banda transportadora no se debe efectuar más que si la banda está parada. Sin embargo, si el material es lo suficientemente ligero para ser manipulado por una persona sola, puede ser cargado y descargado en marcha si el personal dispone del espacio suficiente.
+
+Cuando la pendiente del plano inclinado sea tal que puedan temerse caídas y/o proyección de bloques de la banda transportadora, deben tomarse las medidas necesarias para remediarlo (disminución de la velocidad, modalidad de alimentación, realces, tabiques divisorios, etc.). Estas protecciones pueden ser suficientes localmente.
+
+4.2 Protección contra órganos en movimiento.
+
+Las cabezas motrices, los tambores de retorno y las estaciones tensoras deben estar protegidas de tal modo que no sean accesibles más que desmontando alguno de los elementos protectores o mediante actitudes o posturas anormales del personal.
+
+Queda prohibido limpiar bandas transportadoras en marcha. Cuando por las circunstancias del servicio no fuera posible parar la banda, se recurrirá al empleo de dispositivos adecuados, como rodillos limpiadores, rascadores, chorros de agua a presión, etcétera.
+
+4.3 Iluminación, señalización y comunicaciones.
+
+Los puntos en donde existan cabezas motrices, tambores de retorno y estaciones tensoras deben estar convenientemente iluminados y/o señalizados de modo que el personal quede suficientemente advertido de su presencia.
+
+Todo plano inclinado equipado con bandas transportadoras estará dotado con medios de comunicación eficaces entre la cabeza motriz y el tambor de retorno de la banda y las estaciones de transbordo de las bandas transportadoras instaladas en las plantas intermedias.
+
+### 5. Circulación de personal por planos inclinados dotados de otros sistemas de transporte.
+
+Debido a la dificultad que entrañaría el establecimiento de normas de circulación de personal por planos inclinados dotados de otros sistemas de transporte, como consecuencia de la gran variedad de procedimientos existentes, la autoridad minera competente dictará, en cada caso concreto de aplicación, las prescripciones necesarias a que, por motivos de seguridad, deba ajustarse la circulación.
+
+### 6. Normas específicas de circulación.
+
+La Dirección Facultativa redactará las disposiciones internas de seguridad que regulen la circulación del personal y el transporte de materiales por los planos inclinados. Estas disposiciones serán aprobadas por la autoridad minera competente.
+
+## Vehículos automotores
+
+ITC: 04.5.04
+
+Í N D I C E
+
+1\. Objeto y campo de aplicación.
+
+2\. Vehículos con motor de combustión interna.
+
+2.1 Condiciones generales de empleo.
+
+2.2 Emisión de gases.
+
+2.3 Protección contra incendios.
+
+2.4 Combustibles.
+
+2.5 Revisiones.
+
+2.6 Puesta fuera de servicio.
+
+2.7 Condiciones generales de marcha.
+
+3\. Vehículos eléctricos.
+
+4\. Otros vehículos.
+
+5\. Conductores y maquinistas.
+
+6\. Trenes.
+
+6.1 Gálibos.
+
+6.2 Enganche.
+
+6.3 Revisiones.
+
+6.4 Señalización.
+
+6.5 Circulación de personal.
+
+7\. Gálibos y nichos de protección.
+
+8\. Normas generales de circulación.
+
+### 1. Objeto y campo de aplicación.
+
+La presente Instrucción tiene por objeto establecer los requisitos para que el transporte con vehículos automotores en explotaciones de interior pueda llevarse a cabo en condiciones adecuadas de seguridad.
+
+### 2. Vehículos con motor de combustión interna.
+
+2.1 Condiciones generales de empleo.
+
+El empleo de vehículos con motor de combustión interna en el interior será objeto de una autorización de la autoridad minera que aprobará el tipo de máquina, zonas por las que pueda circular, así como las normas de funcionamiento y revisión.
+
+En las minas grisuosas o con gases inflamables, sólo podrán emplearse vehículos de tipo antigrisú, aprobados por la Dirección General de Minas, que en todo caso sólo podrán circular por galerías donde la proporción de grisú sea menor del 1 por 100.
+
+Si la mina estuviera clasificada en cuarta categoría, los vehículos con motor de combustión interna sólo podrán circular por galerías cuya corriente de aire no haya recorrido tajos de explotación.
+
+2.2 Emisión de gases.
+
+La proporción volumétrica de monóxido de carbono en el escape no sobrepasará las 1.500 p.p.m., y en caso necesario se instalarán dispositivos de depuración de los gases. En minas con grisú o con peligro de fuego, la autoridad minera podrá establecer limitaciones en la temperatura de los gases del escape.
+
+La proporción de gases medida en las galerías por las que circulen estos vehículos no superarán los valores indicados en la ITC 04.7.02.
+
+2.3 Protección contra incendios.
+
+Cada máquina irá provista de extintor de incendios, máscaras protectoras de monóxido de carbono y sistemas de iluminación eficaz; este último deberá ser antigrisú para el caso de utilización en minas con gases inflamables.
+
+2.4 Combustibles.
+
+El combustible tendrá una temperatura de emisión de vapores inflamables superior a 35° y se transportará en recipientes cerrados.
+
+El almacenamiento de combustible y cargue de locomotoras se hará en cámaras incombustibles, bien ventiladas y provistas de elementos de prevención contra incendios. Distarán al menos 5 metros de toda galería de arrastre y dispondrán de un sistema de aislamiento que evite riesgos para el resto de la mina en caso de eventualidad de incendio.
+
+2.5 Revisiones.
+
+Por la Dirección Facultativa se dictarán las normas para las revisiones periódicas de los vehículos. Los resultados de estas revisiones estarán a disposición de las inspecciones oficiales.
+
+Se analizará diariamente el contenido de monóxido de carbono en el escape.
+
+2.6 Puesta fuera de servicio.
+
+Queda prohibido utilizar cualquier vehículo de combustión interna, y por tanto, deberá interrumpirse su funcionamiento cuando:
+
+1\. Tenga fugas en la caja de lavado o deficiente funcionamiento de los depuradores oxicatalítícos.
+
+2\. Haya disminución anormal de la presión en el circuito de engrase.
+
+3\. Haya proyección de chispas en el escape.
+
+4\. Haya fuga de combustible.
+
+5\. El motor se acelere inopinadamente. En este caso deberá comprobarse el contenido de metano en el aire.
+
+2.7 Condiciones generales de marcha.
+
+Cuando se circule en el mismo sentido que la ventilación, el conductor acomodará la velocidad del vehículo para que sea distinta a la del aire, para facilitar la dilución de los gases.
+
+Si por cualquier causa se interrumpiera la ventilación en el lugar en que se encuentran trabajando, deberá pararse el motor de manera inmediata.
+
+### 3. Vehículos eléctricos.
+
+Los vehículos eléctricos, tanto alimentados por línea de contacto como por acumuladores, así como las instalaciones a ellos anejas, se ajustarán a lo preceptuado en el capítulo 9, «Electricidad».
+
+### 4. Otros vehículos.
+
+Para la utilización de otros tipos de vehículos será obligatoria su aprobación por la autoridad minera, que, asimismo, deberá aprobar las normas que para su funcionamiento dicte la Dirección Facultativa.
+
+### 5. Conductores y maquinistas.
+
+Los conductores y maquinistas de todo tipo de vehículos deberán estar perfectamente capacitados y disponer de un certificado de aptitud expedido por la autoridad minera.
+
+### 6. Trenes.
+
+6.1 Gálibos.
+
+Las galerías por donde circulen trenes tendrán al menos 80 centímetros más de ancho (de los que 60 centímetros serán siempre a un lado) y 25 centímetros más de alto que las locomotoras en circulación. Se sobreentiende que las medidas anteriores serán libres de todo obstáculo rígido.
+
+6.2 Enganche.
+
+Los dispositivos de unión permitirán las operaciones de enganche y desenganche, de forma que se evite el riesgo de que ninguna parte del cuerpo quede atrapada entre cajas o entre topes. Los enganches se diseñarán de modo que no puedan soltarse fácilmente durante la marcha.
+
+6.3 Revisiones.
+
+Se efectuará anualmente una revisión de todo el material móvil.
+
+6.4 Señalización.
+
+Los trenes irán dotados con señales acústicas de aviso, alumbrado fijo en cabeza y señalización luminosa en cola.
+
+6.5 Circulación de personal.
+
+En ningún caso se permitirá que el personal circule montado en los topes, excepto si alguna persona realiza las funciones de enganchador, que podrá montar únicamente en el último tope del tren.
+
+### 7. Gálibos y nichos de protección.
+
+Cuando se trate de vehículos sobre orugas o neumáticos, además de disponer de los gálibos precisos para la circulación y maniobra de los mismos, se establecerán nichos de protección para el personal de acuerdo con el trazado de la galería.
+
+### 8. Normas generales de circulación.
+
+La Dirección Facultativa redactará disposiciones internas de seguridad que regulen las condiciones de circulación, recogiendo en ellas circunstancias tales como:
+
+– Circulación a pie por las galerías donde funcionan trenes o vehículos automotores.
+
+– Velocidad de los trenes o vehículos automotores.
+
+– Número de vagones de cada tren.
+
+– Distancias de frenado, de inversión y de marcha.
+
+Estas normas serán aprobadas por la autoridad minera.
+
+**Transporte de personal en trenes arrastrados por locomotoras**
+
+ITC: 04.5.06
+
+Í N D I C E
+
+1\. Objeto y campo de aplicación.
+
+2\. Proyecto de instalación.
+
+3\. Condiciones especiales para el transpone de personal en tren.
+
+4\. Condiciones especiales para el transpone de personal en tren arrastrado por locomotora con trole.
+
+### 1. Objeto y campo de aplicación.
+
+Se consideran en esta Instrucción las prescripciones mínimas de seguridad para el transporte de personal en tren, en galerias horizontales o con pendiente no automotora.
+
+### 2. Proyecto de instalación.
+
+Para la autorización se exigirá la presentación de un proyecto en el que se indiquen:
+
+– Normas de funcionamiento y utilización.
+
+– Recorridos, con indicación de las secciones de las galerías y los gálibos del material rodante.
+
+– Características mecánicas y eléctricas de los equipos empleados.
+
+### 3. Condiciones especiales para el transporte de personal en tren.
+
+El Director facultativo dará a conocer al personal las normas de utilización y funcionamiento, incluidas en el proyecto y aprobadas por la autoridad minera.
+
+Además de estas normas deberán cumplir los requisitos que se enumeran a continuación:
+
+1\. El transporte de personal por galerías sólo podrá hacerse en vagones de uso exclusivo para este fin.
+
+2\. Dichos vagones tendrán distinción indicativa de su uso para personal, e irán provistos de asientos solidarios con su estructura.
+
+3\. Los vagones llevarán el mismo tipo de enganche, no utilizándose como tal elementos extraños.
+
+4\. El lugar señalizado como habitual para subir y bajar se mantendrá libre de materiales o cualquier impedimento que entorpezca el acceso al tren.
+
+5\. Habrá siempre un responsable del tren, que velará por el cumplimiento de las normas de seguridad, e indicará cuándo hay que arrancar o parar y quiénes pueden utilizar dicho transporte.
+
+6\. Está prohibida la subida y bajada en marcha de los trenes y viajar en los topes, excepto si alguna persona realiza las funciones de enganchador, que podrá montar únicamente en el último tope del tren.
+
+7\. Reducirán la velocidad de los trenes en cambios, lugares de visibilidad reducida, cruces con personal, cruces con otros trenes y cuando se encuentren con señales de peligro, parando si es necesario.
+
+8\. La velocidad máxima de marcha se establecerá de acuerdo con las características del material, el estado de las vías y el trazado, debiendo figurar en el proyecto.
+
+9\. Se revisarán todos los enganches antes de comenzar a circular el tren.
+
+10\. Antes de arrancar, el maquinista se cerciorará que, desde su puesto, tiene visibilidad del conjunto del tren estando en recta.
+
+11\. Durante la marcha, no se deberá sacar ninguna parte del cuerpo fuera del gálibo del vagón, ni el maquinista fuera de la máquina.
+
+12\. Los trenes con personal no efectuarán manioboras en retroceso.
+
+13\. Antes de encarrilar, si se trata de un tren de personal, se apeará todo el que viaje en él y se mantendrá alejado de la operación, salvo los que vayan a intervenir en el encarrilado.
+
+### 4. Condiciones específicas para el transporte de personal en tren arrastrado por locomotora alimentada por hilo contacto.
+
+Cuando la locomotora eléctrica que arrastra el tren reciba la corriente mediante hilo de contacto que pueda ser accesible por el personal, además de las medidas ya indicadas en los apartados anteriores de esta ITC, se añadirán:
+
+1\. En los lugares de subida y descenso de personal, tanto en el hilo de contacto como en los alimentadores, si los hubiera, se colocarán interruptores-seccionadores que serán manejados exclusivamente por el maquinista.
+
+2\. Se cortará tensión cuando suba o baje personal.
+
+3\. Nadie subirá ni bajará del tren mientras la persona encargada no dé la orden y se haya cortado la tensión.
+
+## Proyectos, planos y registros
+
+ITC: 04.6.01
+
+Í N D I C E
+
+1\. Objeto y campo de aplicación.
+
+2\. Proyecto de nuevos trabajos.
+
+3\. Documentación a conservar en las explotaciones.
+
+3.1 Plano topográfico.
+
+3.2 Plano general de labores.
+
+3.3 Planos de tajos o cuarteles.
+
+3.4 Plano de ventilación.
+
+3.5 Planos eléctricos y comunicación.
+
+3.6 Registro de golpes de techo y desprendimientos instantáneos.
+
+### 1. Objeto y campo de aplicación.
+
+La presente Instrucción tiene por objeto establecer las condiciones mínimas que deben cumplir los trabajos subterráneos, respecto a los documentos que sobre dichos trabajos debe disponerse en las explotaciones.
+
+### 2. Proyecto de nuevos trabajos.
+
+Con anterioridad al comienzo de un nuevo trabajo subterráneo de cualquier clase, o al reanudarse la actividad en un trabajo subterráneo después de una parada oficialmente comunicada, los explotadores deberán obtener la autorización de la autoridad minera.
+
+Para ello deberá presentar a la autoridad minera un proyecto completo del trabajo o explotación que se pretende realizar, detallando su finalidad, sistema de explotación o trabajo y medios a emplear, así como las medidas de seguridad previstas para evitar daños a personas, bienes y al medio ambiente.
+
+Cualquier modificación fundamental que altere el contenido del proyecto citado en el párrafo anterior deberá contar, igualmente, con la aprobación de la autoridad minera.
+
+Si la autoridad minera estima que los trabajos proyectados o el método de explotación previsto pueden suponer riesgo manifiesto para personas, bienes o medio ambiente, o contravienen las disposiciones de este Reglamento, lo notificará al explotador en el plazo máximo de tres meses, a fin de que por el mismo se establezcan las modificaciones oportunas.
+
+Transcurrido este plazo sin observaciones de la autoridad minera u organismo autonómico competente, se considerará aprobado el proyecto sin modificaciones.
+
+### 3. Documentación a conservar en las explotaciones.
+
+En todo trabajo o explotación subterránea en actividad existirán los siguientes planos o croquis:
+
+– Topográfico.
+
+– Generales de labores.
+
+– De detalle de tajos y cuarteles.
+
+– General de ventilación.
+
+– General de la red eléctrica,
+
+– General de aire comprimido.
+
+– General de comunicaciones interiores.
+
+– General de red de aguas, en el caso de que las hubiere.
+
+– General de transporte.
+
+– General de exteriores.
+
+y cualquier otro plano que la autoridad minera considere necesario exigir.
+
+Un ejemplar actualizado de cada plano exigido deberá estar disponible en la oficina de la explotación subterránea.
+
+Anualmente se enviarán a la autoridad minera, acompañando al plan de labores, los planos, detalles y esquemas que vengan especificados en el modelo de dicho plan, aprobado por la Dirección General de Minas.
+
+Toda mina deberá disponer de un plano de concesiones.
+
+Asimismo, se llevarán los Libros-Registro que se exigen en los diferentes cápítulos del Reglamento General de Normas Básicas de Seguridad Minera, así como los que se puedan establecer en el futuro por la Dirección General de Minas.
+
+3.1 Plano topográfico.
+
+En el plano topográfico detallado (escala mínima 1:5.000) figurarán las obras y edificaciones importantes, poblados, corrientes de agua y, en general, cuanto pueda sufrir daño derivado del laboreo minero o constituir peligro para éste. Asimismo, se señalará la posición acotada de cada una de las bocas de los pozos, socavones y depósitos de explosivos.
+
+3.2 Plano general de labores.
+
+En el plano general de labores (1: 2.000) estarán representadas las labores ejecutadas, incluso abandonadas, que se distinguirán claramente, y las labores en ejecución. Entre las abandonadas se indicarán las inaccesibles.
+
+Si existe sospecha fundada de labores antiguas no recogidas en los planos disponibles, el explotador tomará las medidas preventivas necesarias, realizando, si se considera necesario, trabajos de reconocimiento.
+
+3.3 Planos de tajos o cuarteles.
+
+En los planos de detalle de tajos o cuarteles (según el tipo de explotación) figurarán las proyecciones horizontales o verticales, así como los cortes transversales y longitudinales de las labores.
+
+En las minas metálicas, siempre que la estructura del yacimiento lo aconseje, se indicará en la proyección vertical un gráfico de metalizaciones.
+
+Para evitar confusiones, cuando sobre un mismo plano haya proyectadas dos o más plantas, cada una de éstas se representará en color distinto, y si hubiese varios criaderos sus proyecciones verticales respectivas se representarán separadamente.
+
+La escala que en general se adopte en los planos de detalle de labores será de 1:1.000.
+
+3.4 Plano de ventilación.
+
+El plano de ventilación (escala 1 : 5.000) se realizará de acuerdo con lo que se exige en el apartado 4.7, «Ventilación y desagüe».
+
+3.5 Planos eléctricos y comunicación.
+
+El plano o croquis de la red eléctrica, a escala apropiada, se efectuará según se indica en la Instrucción Técnica Complementaria correspondiente.
+
+El plano general de comunicaciones interiores incluirá las instalaciones fijas de dicha red de comunicaciones.
+
+3.6 Registro de golpes de techo y desprendimientos instantáneos.
+
+Con independencia de los Libros-Registro que se mencionan en los capítulos correspondientes del Reglamento, en toda explotación subterránea que tenga golpes de techo o desprendimientos instantáneos deberá llevarse un registro de los mismos.
+
+## Precauciones contra incendios
+
+ITC: 04.6.03
+
+Í N D I C E
+
+1\. Objeto y campo de aplicación.
+
+2\. Precauciones generales.
+
+3\. Utilización de materiales difícilmente combustibles.
+
+4\. Ubicación de estaciones de aprovisionamiento de combustible.
+
+5\. Revestimiento de pozos; planos, embarques y galerías principales de acceso.
+
+6\. Cintas transportadoras.
+
+7\. Máquinas accionadas por motor diesel.
+
+### 1. Objeto y campo de aplicación.
+
+La presente Instrucción tiene por objeto establecer el conjunto mínimo de medidas precautorias que, contra el riesgo de incendio, debe tomarse en toda labor subterránea.
+
+### 2. Precauciones generales.
+
+En todo trabajo o explotación subterránea se elaborará una norma para la prevención y lucha contra incendios, que trate de prevenirlos y controlarlos de manera general y muy especialmente en aquellos lugares donde exista acumulación de material inflamable o aparatos susceptibles de producir chispas. Estas precauciones se extremarán en las entradas generales de ventilación y en las proximidades de las puertas principales.
+
+La utilización de la soldadura o de cualquier otro sistema que produzca llama o chispas exigirá la autorización del Director facultativo que dará la normativa particular en cada caso.
+
+### 3. Utilización de materiales difícilmente combustibles.
+
+Las correas transportadoras de mineral o de personal, en su caso, deberán ser de material difícilmente propagador de la llama. Debe evitarse en lo posible la utilización de fluidos hidráulicos inflamables en máquinas o sistemas de fortificación.
+
+No se colocarán luces sin protección cercanas a una fortificación de madera o a lugares donde se almacenen materiales combustibles.
+
+### 4. Ubicación de estaciones de aprovisionamiento de combustible.
+
+Los retornos de aire de las estaciones de aprovisionamiento de combustible para maquinaria accionada por motor de combustión no discurrirán por ningún frente en actividad o galería frecuentada, salvo que exista un sistema de puerta que cierre automáticamente y aisle la cámara.
+
+### 5. Revestimiento de pozos, planos, embarques y galerías principales de acceso.
+
+Las nuevas construcciones de pozos principales, planos inclindos o socavones principales de acceso desde el exterior, así como sus embarques e instalaciones fijas, tales como subestación eléctrica, salas de desagüe, cocheras o salas de cargue de baterías, estarán revestidas con material incombustible. La autoridad minera competente podrá establecer excepciones a lo anterior.
+
+Las labores de este tipo ya existentes, de no cumplir la condición del párrafo anterior, dispondrán:
+
+– En el caso de los pozos verticales, de una instalación de rodado de agua capaz de lanzar 50 litros/minuto por cada metro cuadrado de sección de pozo.
+
+– En el resto, de red de agua con tomas cada 50 metros dotadas con lanzadores especiales o, en otro caso, con tomas que permitan él acoplamiento de mangueras del tipo de las utilizadas para el aire comprimido. Podrá complementarse además con otros medios, tales como montones de arena, lanzadores de espuma, extintores, etcétera.
+
+En los locales de servicio eléctrico, se estará a lo previsto en los mismos respecto a evitar los riesgos de electrocución.
+
+En casos de labores existentes que pudieran suponer especial peligrosidad, la A.M.C. podrá prescribir la modificación del revestimiento combustible.
+
+### 6. Cintas transportadoras,
+
+6.1 Difiniciones.
+
+Cintas transportadoras de instalación fija: Son aquellas cintas de longitud constante cuya posición en la mina no varía en el tiempo.
+
+Cintas transportadoras de instalación semifija: Son aquellas cintas de longitud variable, sometidas a montaje y desmontaje, cuya posición en la mina depende de las necesidades de explotación.
+
+Cintas transportadoras de instalación auxiliar: Son aquellas cintas de menos de 40 metros de longitud, con cambios de posición frecuentes, asociadas a trabajos puntuales y que únicamente funcionan cuando hay presencia de personal.
+
+6.2 Requisitos exigibles a la banda.
+
+Las bandas transportadoras empleadas en las instalaciones de cintas transportadoras de las minas subterráneas deben satisfacer lo dispuesto en el capítulo XII del RGNBSM y las ITC que lo desarrollan.
+
+6.3 Requisitos exigibles a la instalación.
+
+6.3.1 Proyecto. Toda instalación de cintas transportadoras, clasificada como fija o semifija según el apartado 6.1, debe estar contemplada en un proyecto que el empresario debe presentar, para su aprobación, a la autoridad minera competente.
+
+Dicho proyecto tendrá vigencia en tanto no se lleven a cabo modificaciones sustanciales en la instalación, respecto al proyecto aprobado.
+
+6.3.2 Requisitos de seguridad. Las instalaciones contempladas en el proyecto deben satisfacer los siguientes requisitos de seguridad frente al riesgo de incendio:
+
+a) Sistemas de prevención y lucha contra incendios.
+
+Al proyecto de instalación de las cintas transportadoras debe acompañarse un estudio relativo a los sistemas de prevención y lucha contra incendios, en el cual se especifique: Necesidad, características, tipo y número de elementos que lo constituyen y ubicación de los mismos, incluyendo las oportunas señalizaciones.
+
+En este documento debe incluirse, como mínimo, un sistema de red de distribución de agua, salvo en aquellas explotaciones donde el uso de agua esté contraindicado.
+
+b) Control de CO.
+
+Debe instalarse un sistema de control de la concentración de CO en la atmósfera de la mina, de forma que sea posible detectar prematuramente el desarrollo de un incendio en cualquier punto del circuito de cintas transportadoras.
+
+Los captadores de CO deben ser de un tipo certificado conforme a la especificación técnica 1001/1/91, aprobada por Orden de 3 de abril de 1992, según normas armonizadas recogidas en el anexo V y por los organismos autorizados que figuran en el anexo VI de esta especificación técnica.
+
+La ubicación y número de los captadores de CO en la mina debe especificarse en el proyecto aprobado por la autoridad minera competente. En todo caso, debe ser obligatoria su colocación en las proximidades de las cabezas motrices. Asimismo, debe estar prevista la ubicación de los captadores de CO en los cambios de posición de las instalaciones de cintas transportadoras semifijas.
+
+c) Comunicaciones.
+
+1) De carácter preventivo.
+
+El proyecto de instalación debe contemplar un sistema de comunicaciones enlazado con un puesto de control con presencia permanente de personal, en el cual se reciban las señales procedentes de los captadores de CO, y desde el que se comunique directamente la investigación de cualquier anomalía.
+
+2) De carácter de emergencia.
+
+Las comunicaciones deben llegar hasta el personal que pueda ser afectado por una emergencia.
+
+d) Equipos de protección individual.
+
+En el proyecto deben definirse las labores que pueden verse afectadas por la corriente de humos producidos por una eventual inflamación de la banda. En función de la evaluación del riesgo se determinará la obligatoriedad de utilización de equipos individuales de protección respiratoria, preferentemente de generación química de oxígeno.
+
+En todo caso, tales equipos deben ser obligatorios para el personal que trabaja en la proximidad de las cabezas motrices de cintas fijas y semifijas.
+
+e) Sostenimiento y revestimiento.
+
+Todos los materiales utilizados en el sostenimiento y revestimiento de la labor en que se encuentre instalada la cinta transportadora deben ser no combustibles 10 metros antes y 10 metros después del punto donde se encuentre ubicado el grupo o grupos motrices. En las minas de carbón, en las cintas instaladas en galerías en capa, además del requisito anterior, la capa de carbón debe ser revestida con un material no combustible en la misma longitud mencionada anteriormente.
+
+f) Almacenamiento y relleno.
+
+En la labor donde se encuentre instalada la cinta no deben almacenarse materiales combustibles, excepto, eventualmente, si se justifica la necesidad. En este caso, los puntos o zonas de almacenamiento deben estar dotadas de los sistemas de lucha contra incendios apropiados a las características de los productos almacenados.
+
+Debe evitarse, en la medida de lo posible, la utilización de materiales combustibles en el relleno de campanas de hundimiento que se puedan producir a lo largo de la labor donde se encuentra instalada la cinta transportadora.
+
+g) Fluidos para transmisiones.
+
+Las transmisiones hidrocinéticas utilizadas en los grupos motrices deben emplear, cuando sea posible, fluidos difícilmente inflamables que satisfagan lo dispuesto en el capítulo XII del RGNBSM y las ITC que lo desarrollan. Cuando justificadamente se utilicen fluidos que no respondan a lo dispuesto en dicho capítulo, deben tomarse medidas complementarias de prevención.
+
+h) Deslizamiento, descentrado, parada de emergencia y limpieza de la banda.
+
+En la proximidad del grupo motriz debe instalarse un sistema de detección del deslizamiento de la banda en el tambor motriz que provoque la parada automática de la instalación.
+
+La instalación debe estar dotada de un sistema de corrección de descentrado de la banda.
+
+A lo largo del recorrido de la cinta transportadora debe instalarse un sistema de parada de emergencia del tipo tirón, con posición de bloqueo.
+
+La instalación de la banda debe disponer de sistemas de limpieza que aseguren el acceso de la banda limpia a los tambores motrices y de reenvío.
+
+i) Iluminación.
+
+Deben instalarse puntos de iluminación en los lugares que a continuación se citan y con las siguientes características:
+
+En cabezas motrices, puntos de descarga y reenvío, luminarias de lámpara fluorescente de al menos 2 x 18/20 W.
+
+En el dispositivo de tensado de la banda, luminarias de lámpara fluorescente de al menos 2 x 18/20 W cada 10 metros.
+
+En las estaciones de transferencia, luminarias de lámpara fluorescente de al menos 2 x 36/40 W. En galerías de sección menor de 10 metros cuadrados las luminarias deben ser al menos de 2 x 18/20 W.
+
+En las estaciones de transferencia en ángulo deben instalarse cuatro luminarias de lámpara fluorescente de al menos 2 x 36/40 W, o de 2 x 18/20 W si la galería tiene una sección menor de 10 metros cuadrados, que deben disponerse:
+
+\- Aproximadamente a 10 metros de la intersección de la galería auxiliar con la principal.
+
+\- En la misma intersección.
+
+\- En la galería principal, antes y después de la estación de transferencia, a unos 7 metros de la misma.
+
+Las luminarias utilizadas deben cumplir lo establecido en los capítulos IX y XII del RGNBSM.
+
+j) Excepciones.
+
+En función de las características generales de la instalación, el empresario debe solicitar a la autoridad minera competente, de manera justificada, la sustitución de alguno de los requisitos anteriores por otros de seguridad equivalente.
+
+6.3.3 Control de CO en instalaciones auxiliares. En la cintas transportadores de instalación auxiliar deben ser utilizados medidores continuos de CO durante los períodos de trabajo.
+
+6.4 Disposiciones internas de seguridad.
+
+Para la prevención de incendios en las instalaciones de cintas transportadores debe elaborarse una disposición interna de seguridad, que debe incorporarse al proyecto, en la que se contemplen, en función del análisis de riesgos, al menos los aspectos relativos a:
+
+La comunicación y actuaciones a realizar en el caso de alarma de los dispositivos de control de CO.
+
+La limpieza periódica de la zona próxima a partes móviles de la instalación.
+
+El mantenimiento de la alineación de la banda y de los gálibos de las partes próximas a la instalación.
+
+Las operaciones de soldadura y corte que se realicen sobre la instalación o en su proximidad.
+
+El mantenimiento de la instalación y de los dispositivos de seguridad.
+
+El procedimiento operativo a seguir para la puesta en marcha de la instalación tras cualquier parada, tanto prevista (mantenimiento) como imprevista.
+
+Esta DIS debe integrarse en las medidas de prevención y lucha contra incendios establecidas en cada explotación.
+
+### 7. Máquinas accionadas por motor diesel.
+
+Las máquinas accionadas por motor diesel deberán disponer de un equipo de extinción de incendios y de máscaras protectoras, cuyo tipo y disposición se contemplarán en la homologación de la máquina.
+
+## VENTILACION Y DESAGÜE — Circulación de la corriente de aire
+
+ITC: 04.7.01
+
+Í N D I C E
+
+1\. Circulación de la corriente de aire. Prescripciones generales.
+
+2\. Circulación de la corriente de aire por pozos y galerías.
+
+3\. Velocidades máximas de la corriente de aire.
+
+4\. Suspensión v abandono de labores.
+
+### 1. Circulación de la corriente de aire. Prescripciones generales.
+
+Todas las labores subterráneas accesibles deben estar recorridas por una corriente regular de aire, suficiente y en armonía con las condiciones del trabajo y del criadero. El aire exterior introducido estará exento de gases, vapores y polvos nocivos o peligrosos.
+
+El volumen de aire introducido en las labores estará en relación con su extensión, el número de personas, el tonelaje extraído y las condiciones naturales de la mina, teniendo en cuenta la temperatura, humedad, emisión de polvo y otras sustancias peligrosas.
+
+El caudal mínimo de aire de cada labor, mina o cuartel independiente será función del número de personas presentes en el relevo más numeroso a razón de 40 litros por persona y segundo. El reparto de aire en cada taller será proporcional a los efectivos de cada uno de ellos. Caso de existir semovientes, se calcularán 120 litros por segundo y unidad.
+
+Además, si circulasen vehículos propulsados por motores de combustión interna o estuviesen instalados motores fijos de este tipo, deberán cumplirse las prescripciones vigentes sobre la utilización de los mismos indicada en las Instrucciones Técnicas Complementarias del capítulo «Circulación y transporte».
+
+En las minas con ventilación natural, se dispondrá de medios de ventilación artificial para regularizarla cuando no sea capaz de cumplir las condiciones exigidas.
+
+Las galerías serán accesibles en todos sus puntos, incluso a los equipos de salvamento provistos de sus aparatos respiratorios.
+
+En las labores en fondo de saco en actividad, de más de 15 metros en horizontal o de 5 metros en pendiente, se establecerá una circulación secundaria con conducción independiente. No obstante, la autoridad minera podrá establecer excepciones en el caso de grandes cámaras que ventilen por convección o de labores que puedan realizarlo por difusión.
+
+Para las labores de este tipo con más de 300 metros en horizontal o de 50 metros en pendiente, se solicitará la autorización de la autoridad minera competente.
+
+Siempre que sea posible, la dirección de la corriente de ventilación será tal que en caso de parada de los ventiladores generales la corriente natural conserve el mismo sentido, evitando la inversión.
+
+### 2. Circulación de la corriente de aire por pozos y galerías.
+
+Toda mina deberá tener pozos o galerías distintos para entrada y salida del aire. Sólo en casos excepcionales y en las labores preparatorias, la entrada y salida de aire podrá hacerse por un mismo pozo o galería, con la debida separación y con arreglo al proyecto que el explotador presente a la autoridad minera competente y las condiciones que ésta fije, a la vista del mismo.
+
+Si las galerías de ventilación atravesasen rellenos, éstos se conservarán impermeables, evitando el arrastre de polvo. Los rellenos de los tajos de arranque se llevarán a distancia conveniente de los frentes, a fin de que la corriente sea activa e impida la acumulación de gases o polvos nocivos.
+
+### 3. Velocidades máximas de la corriente de aire.
+
+La velocidad de la corriente de ventilación no será superior a ocho m/s, salvo en los pozos, traviesas y retornos principales que no se utilicen normalmente para transporte de materiales y circulación de personal. A propuesta razonada del explotador la autoridad minera competente podrá autorizar velocidades mayores en los casos que lo juzgue conveniente.
+
+### 4. Suspensión y abandono de labores.
+
+En las labores inactivas temporalmente que no se utilicen para la circulación de personal y no estén ventiladas, se señalizará la entrada con dos postes cruzados y un letrero claramente visible que advierta al personal la prohibición de acceso. Se evitará la acumulación de gases perjudiciales en las mismas y con anterioridad a su puesta en actividad se ventilarán conveniente.
+
+Las labores abandonadas se aislarán herméticamente cuando puedan acumularse en ellas gases peligrosos o producirse atmósferas irrespirables.
+
+**Concentraciones límites de gases. Temperatura, humedad, clima**
+
+ITC: 04.7.02
+
+Í N D I C E
+
+1\. Concentraciones límites de gases.
+
+2\. Presencia de grisú u otras mezclas inflamables.
+
+3\. Temperatura, humedad, clima.
+
+### 1. Concentraciones límites de gases.
+
+**(Derogado)**
+
+### 2. Presencia de grisú u otras mezclas inflamables.
+
+Cuando en un trabajo, mina o cuartel de mina, se detecte la existencia de grisú u otras mezclas inflamables, le serán aplicables las prescripciones específicas para las minas y trabajos con grisú u otros gases inflamables, que se indican en las Instrucciones Técnicas correspondientes.
+
+En los casos a que se refiere el párrafo anterior, así como en aquellos en que aparezcan otros gase o polvos peligrosos, la Dirección Facultativa propondrá a la autoridad minera competente los sistemas de seguridad que considere adecuados al caso que se trate.
+
+### 3. Temperatura, humedad, clima.
+
+La corriente de ventilación establecida deberá ser capaz de diluir y expulsar los polvos y gases nocivos, suministrar aire respirable e impedir la elevación de la temperatura de las labores, que no excederá de 33 °C de temperatura equivalente en ningún lugar donde regularmente trabaje el personal.
+
+La temperatura equivalente se calculará con la fórmula siguiente:
+
+t<sub>e</sub> = 0,9 t<sub>h</sub> + 0,1 t<sub>s</sub>
+
+donde:
+
+t<sub>e</sub> = temperatura equivalente en °C.
+
+t<sub>h</sub> = temperatura húmeda en °C.
+
+t<sub>s</sub> = temperatura seca en °C.
+
+Para la salubridad del trabajo se observarán las siguientes disposiciones:
+
+1\. En los trabajos subterráneos con elevadas temperaturas se tomarán éstas diariamente, en los sitios en los que la temperatura equivalente excede de 30 °C, anotándolas en un registro. Además se medirá la temperatura del aire a la entrada y salida general.
+
+2\. En casos especiales podrá trabajarse a temperatura equivalente superior a 33 °C, previa autorización especial de la autoridad minera y en las condiciones fijadas por ella. También podrá trabajarse a temperaturas equivalentes superiores a 33 °C en casos urgentes, lo que se realizará con las debidas precauciones y bajo el control constante de personal técnico.
+
+## Conducción de la corriente de aire: Ventiladores principales y puertas
+
+ITC: 04.7.03
+
+Í N D I C E
+
+1\. Ventiladores principales.
+
+2\. Puertas de ventilación.
+
+### 1. Ventiladores principales.
+
+Cuando la ventilación natural sea insuficiente para mantener las exigencias generales de ventilación, se instalarán ventiladores principales. En las minas de carbón será siempre obligatorio el empleo de ventiladores principales.
+
+El régimen de marcha, el arranque o parada, y las medidas a tomar en el caso de parada accidental de los ventiladores principales, tanto del exterior como del interior, será objeto de una disposición interna de seguridad.
+
+Cuando los ventiladores principales no sean objeto de vigilancia permanente, deben preverse aparatos que señalen su parada accidental en locales ocupados permanentemente.
+
+### 2. Puertas de ventilación.
+
+Las labores se dispondrán de manera que se evite, en lo posible, el empleo de puertas para dirigir o dividir la corriente de aire. Las puertas destinadas a repartir la ventilación se establecerán de modo que aseguren el paso de un volumen de aire regulado según las necesidades, y se cierren a favor de la corriente.
+
+Las puertas principales de ventilación deberán ser dobles e ignífugas, cuando constituyan la única separación entre las corrientes principales de entrada y retorno de la mina, debiendo instalarse convenientemente espaciadas para que, durante su utilización como paso, una permanezca siempre cerrada.
+
+Las puertas estarán señalizadas. Queda prohibida la circulación simultánea de personas y trenes por la misma puerta, a no ser que dispongan de pasos distintos.
+
+Todo persona que haya abierto una puerta de ventilación debe asegurarse que ésta queda cerrada. Excepto durante el paso de los trenes, queda prohibido fijarlas en posición abierta. Si ya no cumplieran su objetivo, aunque sea temporalmente, deberán retirarse.
+
+Las puertas de socorro previstas para hacer frente a determinadas eventualidades –fuegos, explosiones, etc.– se mantendrán normalmente sacadas de sus goznes y se dispondrán de forma que puedan instalarse rápidamente.
+
+## Inspección y vigilancia: Aforos, planos y libros de ventilación
+
+ITC: 04.7.04
+
+Í N D I C E
+
+1\. Aforos, planos y libros de ventilación.
+
+2\. Planos de labores y proyectos de explotación.
+
+### 1. Aforos: planos y libros de ventilación.
+
+Mensualmente, como mínimo, se harán aforos del aire circulante, y además siempre que, por una nueva labor u otra causa, se modifiquen la dirección o distribución de alguna de las ramas principales de la corriente de ventilación.
+
+Los aforos se harán a la entrada y salida de la mina, en el origen y extremo de cada una de las ramas principales de la corriente y en las labores que hayan sido especialmente señaladas por la Dirección Facultativa. Los de las galerías generales se verificarán en la estaciones especialmente dispuestas para ello.
+
+La determinación de gases nocivos se realizará de acuerdo con las características de la mina y con la frecuencia que prescriba la autoridad minera competente.
+
+Se llevará un libro-registro con los resultados de los aforos y las determinaciones prescritas en el párrafo anterior. En las galerías generales y vías principales serán simultáneas estas medidas y las tomas de muestras.
+
+En el registro constarán:
+
+a) La especificación de la corriente investigada y su aforo en el lugar y momento de la toma de muestras.
+
+b) El número de personas, semovientes y motores de combustión interna, con indicación de su potencia, situadas en la zona recorrida por la corriente.
+
+c) La proporción de gases nocivos.
+
+d) La temperatura y la humedad.
+
+En el citado libro se registrarán, también, todas las modificaciones y cambios importantes ocurridos en el circuito de ventilación, así como cuantas observaciones se consideren de interés.
+
+Estas medidas se harán por personal convenientemente adiestrado y designado por la Dirección Facultativa.
+
+La Dirección Facultativa dispondrá de un plano de ventilación con la situación al día de la misma, en el que figuren, como mínimo, la dirección de las corrientes de ventilación y la situación de las puertas. Una copia de dicho plano estará siempre en la oficina de la mina.
+
+### 2. Planos de labores y proyectos de explotación.
+
+Los explotadores, con los planos anuales de labores de cada mina, permiso de investigación y, en su caso, con los proyectos generales de explotación, enviarán a las autoridades mineras competentes una Memoria en la que se exponga:
+
+a) El plan adoptado para garantizar la salubridad de los distintos puestos de trabajo, describiendo el material que se utilizará.
+
+b) Planos o esquemas a escala adecuada del circuito de ventilación, figurando en ellos la dirección y distribución de la corriente donde se consignarán con la posible precisión los volúmenes de aire circulante por segundo en la corriente general y en las diversas corrientes parciales.
+
+**Condiciones ambientales: Lucha contra el polvo**
+
+ITC: 04.8.01
+
+**(Derogada).**
+
+> Se deroga la ITC 04.8.01 por la Disposición derogatoria única de la Orden TED/723/2021, de 1 de julio. [Ref. BOE-A-2021-11458](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-11458)
+
+> Se deroga el apartado 1 de la ITC 04.7.02, con efectos de 30 de abril de 2019, por la disposición derogatoria única de la Orden TEC/1146/2018, de 22 de octubre. [Ref. BOE-A-2018-14894](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14894)
+
+> Se modifica la ITC 04.4.01 por el art. único y anexo de la Orden 2 de febrero de 1998. [Ref. BOE-A-1998-3416](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3416).
+
+> Redactado el apartado 2.1 conforme a la corrección de errores publicada en Boe núm. 74 de 27 de marzo. [Ref. BOE-A-1998-7079](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-7079)
+
+> Se modifica el apartado 6 de la ITC: 04.6.03 por el apartado 1 y anexo de la Orden de 23 de febrero de 1996. [Ref. BOE-A-1996-5281](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-5281).
+
+> Se modifica la ITC 04.4-01por el apartado 1 y anexo de la Orden de 23 Abril de 1987. [Ref. BOE-A-1987-10977](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10977).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 281, de 23 de noviembre de 1985. [Ref. BOE-A-1985-24366](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-24366)

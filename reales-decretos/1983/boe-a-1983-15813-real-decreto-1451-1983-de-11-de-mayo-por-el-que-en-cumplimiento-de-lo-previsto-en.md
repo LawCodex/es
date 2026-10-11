@@ -1,0 +1,263 @@
+---
+title: "Real Decreto 1451/1983, de 11 de mayo, por el que en cumplimiento de lo previsto en la Ley 13/1982, de 7 de abril, se regula el empleo selectivo y las medidas de fomento del empleo de los trabajadores minusválidos"
+identifier: "BOE-A-1983-15813"
+eli: "https://www.boe.es/eli/es/rd/1983/05/11/1451"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Seguridad Social"
+date: 1983-05-11
+published: 1983-06-04
+in_force_from: 1983-06-05
+last_amended: 2023-01-11
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 133"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1983-15813"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1451/1983, de 11 de mayo, por el que en cumplimiento de lo previsto en la Ley 13/1982, de 7 de abril, se regula el empleo selectivo y las medidas de fomento del empleo de los trabajadores minusválidos
+
+Téngase en cuenta que se derogan las referencias a las bonificaciones en las cuotas empresariales a la Seguridad Social incluidas las de accidente de trabajo y enfermedad profesional y las cuotas de recaudación conjunta, por la contratación de trabajadores con discapacidad, o su incorporación como socios a cooperativas de trabajo asociado, según establece la disposición derogatoria única.2 de Ley 43/2006, de 29 de diciembre. [Ref. BOE-A-2006-22949](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-22949)
+
+El Gobierno entiende que es preciso realizar un esfuerzo económico y de solidaridad social para hacer efectivo respecto de los minusválidos el derecho al trabajo que para todos los españoles, sin discriminación, reconoce y garantiza el artículo 25 de la Constitución Española.
+
+Por otra parte, el Gobierno en coherencia con el espíritu que inspira la Ley 13/1982, de 7 de abril, de integración social de los minusválidos, considera que la integración laboral de éstos debe realizarse fundamentalmente a través del sistema ordinario de trabajo y anuncia que a tal fin irá encaminada la política de empleo que desarrollará en favor de los minusválidos.
+
+Pues bien, favorecer la incorporación de los minusválidos, tanto originarios como sobrevenidos, a puestos de trabajo en la Empresa ordinaria es lo que se persigue con las medidas que se contemplan en el presente Real Decreto que se dicta tanto para dar cumplimiento al mandato legislativo que se contiene en el artículo 40 de la Ley de Integración Social de los Minusválidos respecto del empleo selectivo, cuanto para introducir determinadas modificaciones en las medidas de fomento del empleo de los minusválidos que hasta ahora venían rigiendo y al propio tiempo, aprovechando estas circunstancias, para proceder a la unificación de ambos tipos de medidas en una sola disposición.
+
+En el presente Real Decreto aparecen, pues, claramente diferenciados dos tipos de medidas. De una parte, las relativas al empleo selectivo, estableciendo las condiciones en que se han de producir la reincorporación o readmisión de los trabajadores afectos de una incapacidad permanente parcial, reconocida originariamente o como consecuencia de un expediente de revisión, por parte de las Empresas en las que venían prestando sus servicios con anterioridad al reconocimiento de la invalidez permanente; se concretan, asimismo, determinados aspectos relativos al cupo de reserva de plantilla de la Ley de Integración Social de los Minusválidos impone a las Empresas con más de 50 trabajadores fijos y se abre, en fin, la posibilidad para que, a través de la negociación colectiva, pueda llegarse a establecer la reserva de ciertos puestos de trabajo para los minusválidos. De otra parte, como ya se ha dicho, se incorporan las medidas de fomento del empleo de minusválidos que estaban reguladas anteriormente en el Real Decreto 1445/1982, de 25 de junio. Las modificaciones más importantes que se introducen respecto de este tipo de medidas son básicamente dos: una, se eleva la cuantía de la subvención que se concede por la contratación de trabajadores minusválidos para diferenciarla claramente de las que se conceden por las contrataciones por tiempo indefinido de trabajadores que no tienen disminuida su capacidad funcional; otra, la posibilidad de, sin límite de edad, poder concertar contratos de formación con los minusválidos que servirán, sin duda, para conseguir una mejor adaptación o readaptación profesional de aquéllos al puesto de trabajo que con carácter estable vayan a ocupar.
+
+En su virtud, a propuesta del Ministerio de Trabajo y Seguridad Social, de acuerdo con el dictamen del Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de mayo de 1983
+
+DISPONGO:
+
+## CAPÍTULO I — Empleo selectivo
+
+### Art. 1.
+
+Los trabajadores que hayan sido declarados en situación de incapacidad permanente parcial, tienen derecho a su reincorporación en la Empresa, en las condiciones siguientes:
+
+1\. Si la incapacidad permanente parcial no afecta el rendimiento normal del trabajador en el puesto de trabajo que ocupaba antes de incapacitarse deberá el empresario reincorporarlo al mismo puesto o, en caso de imposibilidad, mantenerle el nivel retributivo correspondiente al mismo. En el supuesto de que el empresario acredite la disminución en el rendimiento, deberá ocupar al trabajador en un puesto de trabajo adecuado a su capacidad residual y, si no existiera, podrá reducir proporcionalmente el salario, sin que en ningún caso la disminución pueda ser superior al 25 por 100 ni que los ingresos sean inferiores al salario mínimo interprofesional cuando se realice jornada completa.
+
+2\. Los trabajadores que hubiesen sido declarados en situación de incapacidad permanente parcial y después de haber recibido prestaciones de recuperación profesional recobraran su total capacidad para su profesión habitual, tendrán derecho a reincorporarse a su puesto de trabajo originario, si el que viniesen ocupando fuese de categoría inferior, siempre que no hubiesen transcurrido más de tres años en dicha situación. La reincorporación se llevará a efecto previa la comunicación a la Empresa, y a los representantes del personal, en el plazo de un mes, contado a partir de la declaración de aptitud por el organismo correspondiente.
+
+### Art. 2.
+
+1\. Los trabajadores que hubieran cesado en la Empresa por habérseles reconocido una incapacidad permanente total o absoluta y después de haber recibido prestaciones de recuperación profesional hubieran recobrado su plena capacidad laboral, tendrán preferencia absoluta para su readmisión en la última Empresa en que trabajaron en la primera vacante que se produzca en su categoría o grupo profesional.
+
+2\. Los trabajadores que hubieran cesado en la Empresa por habérseles reconocido una invalidez permanente y después de haber recibido las prestaciones de recuperación profesional continuaran afectos de una incapacidad permanente parcial, tendrán preferencia absoluta para su readmisión en la última Empresa en que trabajaron en la primera vacante que se produzca y que resulte adecuada a su capacidad laboral.
+
+3\. Las readmisiones que lleven a efecto las empresas, en los supuestos previstos en este artículo, podrán dar derecho a beneficios de la cuota patronal de la Seguridad Social en los términos que legalmente se establezcan.
+
+> Se modifica el apartado 3, con efectos desde el 1 de septiembre de 2023, por la disposición final 7 del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625)
+
+### Art. 3.
+
+1\. Los trabajadores que, con arreglo al artículo anterior tengan derecho a ser readmitidos, deberán comunicarlo a la Empresa, y a los representantes del personal, en el plazo de un mes, contado a partir de la declaración de aptitud por el organismo correspondiente. La Empresa deberá poner en conocimiento de los trabajadores que se encuentren en tal situación, las vacantes que existan de igual o inferior categoría, quedando liberada de su obligación desde el momento en que el trabajador rechace un puesto de trabajo de igual categoría a la que ostentaba en la Empresa o de categoría inferior si no hubiese obtenido la plena recuperación para su profesión habitual, que no implique cambio de residencia.
+
+2\. Cuando la Empresa tenga varios Centros de trabajo y la vacante que exista implique cambio de residencia, el trabajador podrá optar entre ocuparla o esperar a que exista plaza en el Centro de trabajo donde tenga establecida su residencia. En el primer supuesto mantendrá su preferencia para ocupar la primera vacante de su categoría o grupo profesional que se produzca en el Centro de trabajo originario.
+
+### Art. 4.
+
+Conforme a lo dispuesto en el artículo 38.1 de la Ley 13/1982, de 7 de abril, las empresas públicas y privadas que empleen a un número de 50 o más trabajadores vendrán obligadas a que de entre ellos, al menos, el 2 por 100 sean trabajadores minusválidos. No obstante lo anterior, las empresas responsables podrán excepcionalmente quedar exentas de tal obligación en los términos previstos en la referida Ley 13/1982, así como en lo dispuesto en su normativa de desarrollo.
+
+> Se modifica por la disposición adicional 2.1 del Real Decreto 27/2000, de 14 de enero. [Ref. BOE-A-2000-1547](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1547)
+
+### Art. 5.
+
+Dentro del primer trimestre de cada año, con conocimiento de los representantes del personal, las Empresas que empleen un número de trabajadores fijos que exceda de 50 deberán enviar a la Oficina de Empleo del INEM de la provincia en que tengan su sede social, así como a las de las provincias donde tengan Centros de trabajo, relación detallada de los puestos de trabajo ocupados por trabajadores minusválidos y de aquellos que por sus características queden reservados a los mismos.
+
+Las Oficinas de Empleo darán traslado de estas relaciones a los equipos multiprofesionales.
+
+### Art. 6.
+
+1\. En los Convenios Colectivos las partes podrán establecer los puestos de trabajo reservados a minusválidos.
+
+2\. Los modelos de la hoja estadística que figuran en los anexos del Real Decreto 3040/1981, de 22 de mayo, sobre Registro y Depósito de Convenios Colectivos quedan modificados en el sentido de incorporar los siguientes datos:
+
+a) Relación de puestos de trabajo que puedan destinarse preferentemente a minusválidos.
+
+b) Acuerdos recogidos en Convenio por los que se establezca, como medida de empleo selectivo, la reserva con preferencia absoluta, de determinados puestos de trabajo a los minusválidos.
+
+## CAPÍTULO II — Medidas de fomento del empleo
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.1.a) de la Ley 3/2012, de 6 de julio. [Ref. BOE-A-2012-9110](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9110).
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.a) del Real Decreto-ley 3/2012, de 10 de febrero. [Ref. BOE-A-2012-2076](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2076).
+
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto-ley 3/2011, de 18 de febrero. [Ref. BOE-A-2011-3255](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3255).
+
+> Téngase en cuenta que este capítulo permanecerá en vigor hasta que se aprueben la Estrategía Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establece la disposición transitoria 3.
+
+### Art. 7.
+
+1\. Las empresas que contraten por tiempo indefinido y a jornada completa a trabajadores minusválidos tendrán derecho a una subvención de 3.907 euros por cada contrato de trabajo celebrado y, durante su vigencia, a bonificaciones en las cuotas empresariales de la Seguridad Social, incluidas las de accidente de trabajo y enfermedad profesional y las cuotas de recaudación conjunta, en las siguientes cuantías:
+
+a) 70 por ciento por cada trabajador minusválido contratado menor de 45 años. En el caso de contratación de mujeres minusválidas, dicho porcentaje será del 90 por ciento.
+
+b) 90 por ciento por cada trabajador minusválido contratado de 45 o más años. En el caso de contratación de mujeres minusválidas, dicho porcentaje será del 100 por cien.
+
+Cuando el contrato por tiempo indefinido se concierte a tiempo parcial, se mantendrán las bonificaciones en las cuotas descritas en los párrafos anteriores, si bien la subvención de 3.907 euros se reducirá proporcionalmente a la jornada pactada.
+
+2\. Las Cooperativas de Trabajo Asociado que incorporen a trabajadores minusválidos como socios, tendrán derecho a los beneficios establecidos en el número anterior.
+
+3\. Los beneficios aquí previstos no podrán, en concurrencia con otras ayudas públicas para la misma finalidad, superar el 60 por 100 del coste salarial anual correspondiente al contrato que da derecho a los mismos.
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.1.a) de la Ley 3/2012, de 6 de julio. [Ref. BOE-A-2012-9110](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9110).
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.a) del Real Decreto-ley 3/2012, de 10 de febrero. [Ref. BOE-A-2012-2076](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2076).
+
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto-ley 3/2011, de 18 de febrero. [Ref. BOE-A-2011-3255](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3255).
+
+> Téngase en cuenta que este precepto permanecerá en vigor hasta que se aprueben la Estrategía Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establece la disposición transitoria 3.
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 170/2004, de 30 de enero. [Ref. BOE-A-2004-1847](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1847)
+
+> Se modifica el apartado 3 por la disposición adicional 2.2 del Real Decreto 27/2000, de 14 de enero. [Ref. BOE-A-2000-1547](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1547)
+
+> Se modifica el apartado 1 por el art. único del Real Decreto 4/1999, de 8 de enero. [Ref. BOE-A-1999-1824](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-1824)
+
+### Art. 8.
+
+Las empresas deberán solicitar los trabajadores minusválidos de la correspondiente oficina de empleo, con descripción detallada de los puestos que se quieran cubrir, sus características técnicas, así como capacidad que debe tener el trabajador para cubrir dicho puesto. La presentación del contrato en modelo oficial y por ejemplar cuadruplicado, acompañado de la solicitud de alta en el régimen correspondiente de la Seguridad Social y del certificado que acredite el grado de minusvalía, expedido por el organismo competente, surtirá los efectos de solicitud de las subvenciones y bonificaciones a que hace referencia el artículo anterior.
+
+El servicio público de empleo competente solicitará el informe de los equipos multiprofesionales sobre la adecuación del puesto de trabajo a la minusvalía de los trabajadores que, teniendo acreditada tal circunstancia, se encuentren inscritos en la oficina de empleo.
+
+Completada la documentación, el servicio público de empleo competente notificará a las empresas la resolución sobre la concesión de las subvenciones o bonificaciones en el plazo de un mes a partir de la fecha de la presentación. Transcurrido dicho plazo sin resolución expresa, se entenderán denegadas.
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.1.a) de la Ley 3/2012, de 6 de julio. [Ref. BOE-A-2012-9110](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9110).
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.a) del Real Decreto-ley 3/2012, de 10 de febrero. [Ref. BOE-A-2012-2076](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2076).
+
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto-ley 3/2011, de 18 de febrero. [Ref. BOE-A-2011-3255](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3255).
+
+> Téngase en cuenta que este precepto permanecerá en vigor hasta que se aprueben la Estrategía Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establece la disposición transitoria 3.
+
+> Se modifica por el art. único.2 del Real Decreto 170/2004, de 30 de enero. [Ref. BOE-A-2004-1847](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1847)
+
+### Art. 9.
+
+Para hacer efectivas las bonificaciones de la Seguridad Social, las Empresas diligenciarán sus documentos de cotización en la forma establecida con carácter general y con sujeción a las normas que lo regulan. Al mismo tiempo, utilizarán boletín anexo específico para reflejar las bonificaciones en el que se harán constar los trabajadores objeto de la bonificación, la cuantía correspondiente a cada uno y el importe de la bonificación total de la Empresa, para deducir su importe del total resultante para ingresar en la Seguridad Social.
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.1.a) de la Ley 3/2012, de 6 de julio. [Ref. BOE-A-2012-9110](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9110).
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.a) del Real Decreto-ley 3/2012, de 10 de febrero. [Ref. BOE-A-2012-2076](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2076).
+
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto-ley 3/2011, de 18 de febrero. [Ref. BOE-A-2011-3255](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3255).
+
+> Téngase en cuenta que este precepto permanecerá en vigor hasta que se aprueben la Estrategía Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establece la disposición transitoria 3.
+
+### Art. 10.
+
+Las Empresas beneficiarias están obligadas a mantener la estabilidad en el empleo de los trabajadores contratados al amparo de la presente disposición por un tiempo mínimo de tres años, no pudiendo despedir sin causa justificada a estos trabajadores, y, en caso de despido procedente, deberán sustituirles por otros trabajadores minusválidos, beneficiándose en este caso solamente de la bonificación de la cuota de la Seguridad Social por los sustitutos.
+
+El incumplimiento por las Empresas beneficiarias de estas condiciones supondrá la obligación de reintegrar al Tesoro las cantidades percibidas.
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.1.a) de la Ley 3/2012, de 6 de julio. [Ref. BOE-A-2012-9110](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9110).
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.a) del Real Decreto-ley 3/2012, de 10 de febrero. [Ref. BOE-A-2012-2076](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2076).
+
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto-ley 3/2011, de 18 de febrero. [Ref. BOE-A-2011-3255](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3255).
+
+> Téngase en cuenta que este precepto permanecerá en vigor hasta que se aprueben la Estrategía Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establece la disposición transitoria 3.
+
+### Art. 11.
+
+Las Empresas podrán solicitar del Instituto Nacional de Empleo la formación o reconversión profesional de los trabajadores de nuevo ingreso o readmitidos.
+
+Las Empresas y el Instituto Nacional de Empleo concertarán los términos en los que se hayan de desarrollar las acciones de formación.
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.1.a) de la Ley 3/2012, de 6 de julio. [Ref. BOE-A-2012-9110](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9110).
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.a) del Real Decreto-ley 3/2012, de 10 de febrero. [Ref. BOE-A-2012-2076](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2076).
+
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto-ley 3/2011, de 18 de febrero. [Ref. BOE-A-2011-3255](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3255).
+
+> Téngase en cuenta que este precepto permanecerá en vigor hasta que se aprueben la Estrategía Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establece la disposición transitoria 3.
+
+### Art. 12.
+
+Las empresas que contraten trabajadores minusválidos mediante un contrato indefinido podrán solicitar subvenciones con cargo al Servicio Público de Empleo Estatal, que serán compatibles en su caso con los beneficios establecidos en los artículos anteriores, destinadas a la adaptación de los puestos de trabajo o dotación de equipos de protección personal necesarios para evitar accidentes laborales al trabajador minusválido contratado o para eliminar barreras u obstáculos que impidan o dificulten el trabajo de los trabajadores minusválidos. La necesidad de adaptación o de medios especiales de protección personal deberá contar con el informe favorable de la Inspección de Trabajo y Seguridad Social.
+
+Si la empresa no solicitase esta ayuda, podrá hacerlo el propio trabajador.
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.1.a) de la Ley 3/2012, de 6 de julio. [Ref. BOE-A-2012-9110](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9110).
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.a) del Real Decreto-ley 3/2012, de 10 de febrero. [Ref. BOE-A-2012-2076](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2076).
+
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto-ley 3/2001, de 18 de febrero. [Ref. BOE-A-2011-3255](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3255).
+
+> Téngase en cuenta que este precepto permanecerá en vigor hasta que se aprueben la Estrategía Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establece la disposición transitoria 3.
+
+> Se modifica por el art. único.3 del Real Decreto 170/2004, de 30 de enero. [Ref. BOE-A-2004-1847](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1847)
+
+### Art. 13.
+
+1\. Las Empresas podrán celebrar contratos de formación con minusválidos con objeto de lograr su mejor adaptación al puesto de trabajo o cuando así lo exijan las condiciones de éste. Estos contratos se regirán hasta tanto se desarrolle reglamentariamente el contrato especial de formación profesional previsto en el artículo 34, 2, de la Ley 13/1982, de 7 de abril, de integración social de los minusválidos, por las normas contenidas en la sección tercera del capítulo II del Real Decreto 1454/1982, de 25 de junio, excepto en lo relativo al límite máximo de edad para concertar el contrato que no existirá en este caso.
+
+2\. No se aplicarán a estos contratos la subvención o bonificaciones en las cuotas de Seguridad Social previstas en el artículo 7 del presente Real Decreto, sino a partir del momento en que el trabajador minusválido se incorpore a la Empresa con carácter indefinido y en jornada completa.
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.1.a) de la Ley 3/2012, de 6 de julio. [Ref. BOE-A-2012-9110](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9110).
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.a) del Real Decreto-ley 3/2012, de 10 de febrero. [Ref. BOE-A-2012-2076](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2076).
+
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto-ley 3/2011, de 18 de febrero. [Ref. BOE-A-2011-3255](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3255).
+
+> Téngase en cuenta que este precepto permanecerá en vigor hasta que se aprueben la Estrategía Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establece la disposición transitoria 3.
+
+### Art. 14.
+
+Los contratos a que se refiere este Real Decreto se formalizarán en el modelo oficial que al efecto se establezca.
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.1.a) de la Ley 3/2012, de 6 de julio. [Ref. BOE-A-2012-9110](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9110).
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.a) del Real Decreto-ley 3/2012, de 10 de febrero. [Ref. BOE-A-2012-2076](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2076).
+
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto-ley 3/2011, de 18 de febrero. [Ref. BOE-A-2011-3255](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3255).
+
+> Téngase en cuenta que este precepto permanecerá en vigor hasta que se aprueben la Estrategía Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establece la disposición transitoria 3.
+
+### Disposición adicional primera.
+
+Las subvenciones y bonificaciones en las cuotas empresariales de la Seguridad Social, incluidas las de recaudación conjunta, previstas en este Real Decreto serán financiadas con cargo a los recursos del INEM.
+
+> Se renumera como disposición adicional 1 por el art. único.4 del Real Decreto 170/2004, de 30 de enero. [Ref. BOE-A-2004-1847](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1847)
+
+### Disposición adicional segunda.
+
+Lo dispuesto en el artículo 12 será aplicable también a las empresas que celebren contratos temporales de fomento del empleo para minusválidos de acuerdo con lo establecido en el artículo 44.dos.1 de la Ley 42/1994, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, o, siempre que su duración sea igual o superior a 12 meses, contratos en prácticas o para la formación regulados en el artículo 11 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto legislativo 1/1995, de 24 de marzo, o contratos de duración determinada al amparo del artículo 15 del citado texto refundido.
+
+> Se añade por el art. único.4 del Real Decreto 170/2004, de 30 de enero. [Ref. BOE-A-2004-1847](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1847)
+
+### Disposición adicional tercera. Personas con capacidad intelectual límite.
+
+1\. Será de aplicación el régimen de subvención previsto en el artículo 7 a los empleadores descritos en el artículo 3 del Real Decreto 368/2021, de 25 de mayo, sobre medidas de acción positiva para promover el acceso al empleo de personas con capacidad intelectual límite, que contraten por tiempo indefinido a personas con capacidad intelectual límite según se definen en el artículo 2 del real decreto anterior. La cuantía de la subvención en este caso será de 2.000 euros por cada contrato de trabajo celebrado a tiempo completo.
+
+2\. Asimismo, los empleadores descritos en el apartado 1 que contraten a las citadas personas con capacidad intelectual límite mediante un contrato indefinido podrán solicitar las subvenciones establecidas en el artículo 12 con cargo al Servicio Público de Empleo Estatal, que serán compatibles en su caso con el beneficio establecido en el apartado 1 de esta disposición adicional.
+
+> Se añade por el art. 4 del Real Decreto 368/2021, de 25 de mayo. [Ref. BOE-A-2021-8749](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8749)
+
+### Disposición transitoria.
+
+Hasta tanto no se apruebe el modelo oficial de contrato a que se refiere el artículo 14 del presente Real Decreto, dichos contratos se formalizarán en el modelo oficial que se hubiera venido utilizando a la entrada en vigor del presente Real Decreto.
+
+### Disposición derogatoria.
+
+1\. Queda derogado lo dispuesto en la sección segunda del capítulo III del Real Decreto 1454/1982, de 25 de junio.
+
+2\. No obstante la derogación expresa del número anterior las normas a las que sustituye el presente Real Decreto seguirán siendo de aplicación a los contratos que se hubiesen celebrado al amparo de las mismas.
+
+### Disposición final.
+
+Se faculta al Ministro de Trabajo y Seguridad Social para dictar cuantas normas sean necesarias para el desarrollo y aplicación del presente Real Decreto, que entrará en vigor el día siguiente a su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 11 de mayo de 1983.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Seguridad Social,
+
+JOAQUÍN ALMUNIA AMANN

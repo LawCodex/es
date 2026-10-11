@@ -1,0 +1,4978 @@
+---
+title: "Real Decreto 3349/1983, de 30 de noviembre, por el que se aprueba la Reglamentación Técnico-Sanitaria para la fabricación, comercialización y utilización de plaguicidas"
+identifier: "BOE-A-1984-1791"
+eli: "https://www.boe.es/eli/es/rd/1983/11/30/3349"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1983-11-30
+published: 1984-01-24
+in_force_from: 1984-02-24
+last_amended: 2021-05-10
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 20"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1984-1791"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 3349/1983, de 30 de noviembre, por el que se aprueba la Reglamentación Técnico-Sanitaria para la fabricación, comercialización y utilización de plaguicidas
+
+El Decreto de la Presidencia del Gobierno número 2484/1967, de 25 de septiembre, por el que se aprueba el texto del Código Alimentario Español, prevé que puedan ser objeto de reglamentaciones especiales las materias en él reguladas.
+
+Publicado el Decreto de la Presidencia del Gobierno número 2519/1974, de 9 de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, procede dictar la Reglamentación referente a la fabricación, comercialización y utilización de plaguicidas, en la que se tenga en cuenta las experiencias acumuladas así como la necesaria armonización con las disposiciones correspondientes de la Comunidad Económica Europea.
+
+En su virtud, oídos los representantes de las organizaciones profesionales afectadas, previo informe preceptivo de la Comisión Interministerial para la Ordenación alimentaria, a propuesta de los Ministros de Economía y Hacienda, de Industria y Energía, de Agricultura, Pesca y Alimentación y de Sanidad y Consumo y previa deliberación del Consejo de Ministros en su reunión del día 30 de noviembre de 1983,
+
+DISPONGO:
+
+### Artículo único.
+
+Se aprueba la adjunta Reglamentación Técnico-Sanitaria para la fabricación, comercialización y utilización de plaguicidas.
+
+## DISPOSICIÓN FINAL
+
+Esta Reglamentación entrará en vigor a los treinta días de su publicación en el «Boletín Oficial del Estado».
+
+## DISPOSICIONES TRANSITORIAS
+
+### Primera.
+
+Las adaptaciones de las instalaciones existentes, derivadas de las exigencias incorporadas por esta Reglamentación, que no sean consecuencia de disposiciones legales vigentes, serán llevadas a cabo en el plazo de un año a contar desde la publicación de la presente Reglamentación.
+
+### Segunda.
+
+El cumplimiento de lo establecido en los artículos 8.º y 9.º, sobre envasado y etiquetado, deberá realizarse en el plazo de dieciocho meses a partir de la publicación del presente Real Decreto en el «Boletín Oficial del Estado».
+
+## DISPOSICIÓN DEROGATORIA
+
+A partir de la entrada en vigor del presente Real Decreto queda derogada la Orden de Presidencia del Gobierno de 29 de septiembre de 1976, así como todas las disposiciones de igual o inferior rango, en lo que se opongan a lo establecido en el mismo.
+
+Dado en Madrid a 30 de noviembre de 1986.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JAVIER MOSCOSO DEL PRADO Y MUÑOZ
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA PARA LA FABRICACIÓN, COMERCIALIZACIÓN Y UTILIZACIÓN DE PLAGUICIDAS
+
+### Art. 1.º Objeto y ámbito de aplicación.
+
+1.1 La presente Reglamentación tiene por objeto definir lo que se entiende por plaguicidas y establecer las normas de su fabricación, almacenamiento, comercialización y utilización y, en general, la ordenación Técnico-Sanitaria de dichos productos, tanto de producción nacional, como importados, en cuanto concierne a la salud pública, así como establecer las bases para la fijación de los límites máximos de residuos admitidos en o sobre productos destinados a la alimentación.
+
+1.2 La presente Reglamentación obliga a los fabricantes, comerciantes, aplicadores y empresas de tratamientos con plaguicidas y, en general, a los usuarios de plaguicidas y en su caso, a los importadores.
+
+1.3 Se consideran fabricantes, comerciantes, aplicadores y empresas de tratamientos con plaguicidas, aquellas personas, naturales o jurídicas, que, en uso de las autorizaciones concedidas por los Organismos Oficiales competentes, dediquen su actividad a la fabricación y envasado, comercio o aplicación de los mismos, respectivamente.
+
+1.4 La presente Reglamentación no es de aplicación:
+
+a) A las preparaciones medicinales, narcóticas y radiactivas.
+
+b) Al transporte de plaguicidas.
+
+c) A los plaguicidas en tránsito por España, bajo control aduanero, que no sufran procesos de transformación o modificación.
+
+d) A las experiencias de campo para la investigación y ensayo de plaguicidas, previas al registro, que deberán ser autorizadas por los Ministerios de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, en las condiciones y con los requisitos que establezcan conjuntamente.
+
+### Art. 2.º Definiciones.
+
+A efectos de la presente Reglamentación, se entiende por:
+
+2.1 Plaguicida: las sustancias o ingredientes activos, así como las formulaciones o preparados que contengan uno o varios de ellos, destinados a cualquiera de los fines siguientes:
+
+a) Combatir los agentes nocivos para los vegetales y productos vegetales o prevenir su acción.
+
+b) Favorecer o regular la producción vegetal, con excepción de los nutrientes y los destinados a la enmienda de suelos.
+
+c) Conservar los productos vegetales, incluida la protección de las maderas.
+
+d) Destruir los vegetales indeseables.
+
+e) Destruir parte de los vegetales o prevenir un crecimiento indeseable de los mismos.
+
+f) Hacer inofensivos, destruir o prevenir la acción de otros organismos nocivos o indeseables distintos de los que atacan a los vegetales.
+
+2.2 Ingrediente activo-técnico: todo producto orgánico o inorgánico, natural, sintético o biológico, con determinada actividad plaguicida, con un grado de pureza establecido.
+
+2.3 Ingredientes inertes: aquellas sustancias o materiales que, unidos a los ingredientes activos para la preparación de formulaciones, permiten modificar sus características de dosificación o de aplicación.
+
+2.4 Coadyuvantes: las sustancias tales como tensoactivos, fluidificantes, estabilizantes y demás, que sean útiles en la elaboración de plaguicidas por su capacidad de modificar adecuadamente las propiedades físicas y químicas de los ingredientes activos.
+
+2.5 Aditivos: aquellas sustancias tales como colorantes, repulsivos, eméticos, y demás que, sin tener influencia en la eficacia de los plaguicidas, sean utilizadas en la elaboración de los mismos con objeto de cumplir prescripciones reglamentarias u otras finalidades.
+
+2.6 Formulación o preparado: todo plaguicida compuesto de una o varias sustancias o ingredientes activo-técnicos y, en su caso, ingredientes inertes, coadyuvantes y aditivos, en proporción fija.
+
+2.7 Residuos de plaguicidas: los restos de ellos y de los eventuales productos tóxicos de su metabolización o degradación que se presenten en o sobre los alimentos destinados al hombre o al ganado.
+
+2.8 Plazo de seguridad: período de tiempo que debe transcurrir desde la aplicación de un plaguicida a vegetales, animales o sus productos hasta la recolección o aprovechamiento de los mismos o, en su caso, hasta la entrada en las áreas o recintos tratados.
+
+2.9 **(Derogado).**
+
+2.10 Plaguicidas de uso ganadero: los destinados a su utilización en el entorno de los animales o en las actividades estrechamente relacionadas con su explotación.
+
+2.11 Plaguicidas para uso en la industria alimentaria: los destinados a tratamientos externos de transformación de vegetales, de productos de origen animal y de sus envases, así como los destinados al tratamiento de locales, instalaciones o maquinaria relacionados con la industria alimentaria.
+
+2.12 Plaguicidas de uso ambiental: aquellos destinados a operaciones de desinfección, desinsectación y desratización en locales públicos o privados, establecimientos fijos o móviles, medios de transporte y sus instalaciones.
+
+2.13 Plaguicidas para uso en higiene personal: aquellos preparados útiles para la aplicación directa sobre el hombre.
+
+2.14 Plaguicidas para uso doméstico: cualquiera de los definidos en los epígrafes 2.9 a 2.13, autorizados expresamente para que puedan ser aplicados por personas no especialmente cualificadas en viviendas y otros locales habitados.
+
+2.15 Para los ingredientes activos plaguicidas que sean sustancias químicas, son asimismo de aplicación las restantes definiciones establecidas en el artículo 2.º del Reglamento de Sustancias Nuevas y Clasificación, Envasado y Etiquetado de Sustancias Peligrosas (en lo sucesivo Reglamento de Sustancias), aprobado por Real Decreto 2216/1985, de 23 de octubre.
+
+> Se deroga el apartado 2.9, con efectos de 10 de noviembre de 2021, por la disposición derogatoria única.b) del Real Decreto 285/2021, de 20 de abril. [Ref. BOE-A-2021-7689](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7689)
+
+> Se añade el apartado 2.15 por el art. único.1 del Real Decreto 162/1991, de 8 de febrero. [Ref. BOE-A-1991-4002](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-4002).
+
+> Téngase en cuenta para su aplicación la disposición transitoria.1
+
+### Art. 3.º Clasificación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 255/2003, de 28 de febrero. [Ref. BOE-A-2003-4376](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-4376).
+
+> Se modifica por el art. único.2 del Real Decreto 162/1991, de 8 de febrero. [Ref. BOE-A-1991-4002](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-4002).
+
+> Téngase en cuenta para su aplicación la disposición transitoria.1
+
+### Art. 4.º Homologación y Registros Oficiales de Plaguicidas.
+
+4.1 En concordancia con lo establecido en las diferentes disposiciones específicas que regulan su control oficial y para cumplimiento de las mismas, los plaguicidas que hayan de utilizarse en el territorio nacional sólo podrán fabricarse y/o comercializarse si, como garantía de una contrastación de su utilidad y eficacia por los Organismos oficiales competentes, están inscritos en algunos de los siguientes Registros:
+
+a) **(Derogada).**
+
+b) Los plaguicidas de uso ganadero, en el Registro de productos Zoosanitarios de la Dirección General de la Producción Agraria de conformidad con el Real Decreto 163/1981, de 23 de enero.
+
+c) Los plaguicidas para uso en la industria alimentaria y los plaguicidas de uso ambiental, en el Registro de Plaguicidas de la Dirección General de Salud Pública.
+
+d) Los plaguicidas de uso en higiene personal y los desinfectantes de material clínico y farmacéutico y de ambientes clínicos y quirúrgicos en el correspondiente Registro de la Dirección General de Farmacia y Productos Sanitarios.
+
+4.2 Para la inscripción de los plaguicidas en sus respectivos Registros, sus aspectos de peligrosidad para las personas deberán ser homologados por la Dirección General de Salud Alimentaria y Protección de los Consumidores que, a petición del organismo responsable del Registro Oficial correspondiente, determinará:
+
+a) La clasificación del plaguicida, de acuerdo con lo establecido en el artículo 3.º
+
+b) Las sustancias que, atendiendo a lo especificado en el apartado 3, d), del artículo 9.º, deban ser mencionadas expresamente en la etiqueta del plaguicida.
+
+c) Los símbolos de peligro, menciones de riesgo particulares (frases R) y consejos de prudencia (frases S) a que se refieren los puntos g), h), j) y l), del apartado 3 del artículo 9.º
+
+d) Si el plaguicida puede ser utilizado para uso doméstico.
+
+e) La capacidad máxima de los envases, en caso de que aquélla se considere factor determinante de su peligrosidad para las personas.
+
+4.3 Para aquellos plaguicidas de cuya utilización pueda derivarse presencia de sus residuos en productos destinados a la alimentación humana o animal, el procedimiento descrito en el epígrafe 4.2 se completará de la siguiente forma:
+
+4.3.1 La Dirección General de Salud Pública determinará la ingestión diaria admisible para el hombre (IDA) de cada ingrediente activo y, en su caso, de sus metabolitos o productos de degradación. Para ello, podrá recabar la asistencia de los expertos que considere convenientes.
+
+4.3.2 En comisiones conjuntas de la Dirección General de Salud Pública y, en cada caso, del Organismo competente en materia de sanidad vegetal, de sanidad animal o de farmacia, según corresponda, se determinará, en base a la ingestión diaria admisible (IDA), a los hábitos del consumo y a los resultados de prácticas correctas en el uso de dichos plaguicidas y oída la representación del sector fabricante de los mismos, los límites máximos de residuos (LMR) para cada ingrediente activo y, en su caso, para sus metabólicos o productos de degradación. Cada una de dichas comisiones conjuntas se reunirán a instancia de la autoridad responsable del Registro Oficial correspondiente.
+
+4.3.3 Los Organismos competentes para autorizar y registrar los plaguicidas, establecerán los plazos de seguridad y demás condiciones de utilización de los mismos, de forma que no sean superados los límites máximos de residuos (LMR).
+
+4.4 Los aditivos, los coadyuvantes y los ingredientes inertes de cada preparado, deben ser especificados por el titular de la solicitud de inscripción registral a que se refiere el apartado 4.1 y serán considerados confidenciales con las salvedades previstas en el punto 9.º, 3, d). En todo caso es obligatoria la supresión o sustitución de aquellos no autorizados a tal efecto por el Ministerio de Sanidad y Consumo.
+
+4.5 A efectos de su control oficial, las fábricas de plaguicidas, los locales en que se almacenen o comercialicen plaguicidas y las instalaciones destinadas a realizar tratamientos con los mismos, así como los aplicadores y las empresas de tratamientos con plaguicidas, deberán estar inscritos en el Registro Oficial de Establecimientos y Servicios Plaguicidas, del que existirá una oficina en cada provincia, que comprenderá el anterior denominado Registro Oficial de Productores y Distribuidores de Productos y Material Fitosanitario, así como lo relativo a los restantes plaguicidas comprendidos en la presente Reglamentación. Los Ministerios de Agricultura, Pesca y Alimentación y de Sanidad y Consumo establecerán conjuntamente las normas de inscripción y funcionamiento de dicho Registro.
+
+4.6 A los efectos de este artículo, la Dirección General de Farmacia y Productos Sanitarios realizará las determinaciones y controles necesarios respecto a los plaguicidas de uso en higiene personal y los desinfectantes de material clínico y farmacéutico y de ambientes quirúrgicos.
+
+4.7 Sin perjuicio de las especificidades señaladas en los dos párrafos siguientes, la tramitación de los expedientes de homologación y registro se regirá por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Por los Ministerios competentes se determinarán, mediante disposiciones de desarrollo de la presente Reglamentación, los documentos a presentar por los solicitantes. Igualmente, las Direcciones Generales competentes establecerán los modelos y sistemas normalizados de solicitudes correspondientes.
+
+Los expedientes de solicitud de homologación y registro deberán ser resueltos en el plazo máximo de dieciocho meses. Transcurrido el plazo para la resolución, podrán entenderse desestimadas las solicitudes correspondientes.
+
+> Se deroga la letra a) del apartado 1, con efectos de 10 de noviembre de 2021, por la disposición derogatoria única.b) del Real Decreto 285/2021, de 20 de abril. [Ref. BOE-A-2021-7689](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7689)
+
+> Se modifica por el art. único.1 a 3 del Real Decreto 443/1994, de 11 de marzo. [Ref. BOE-A-1994-7329](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-7329).
+
+> Se modifica por el art. único.3 del Real Decreto 162/1991, de 8 de febrero. [Ref. BOE-A-1991-4002](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-4002).
+
+> Téngase en cuenta para su aplicación la disposición transitoria.1
+
+### Art. 5.º Autorización de sustancias activas y límites máximos de residuos.
+
+5.1 Para que una formulación pueda ser registrada según lo previsto en el art. 4.º, sus ingredientes activos habrán de estar homologados y autorizados a tal fin, estableciéndose en dicha homologación las condiciones de pureza, determinación analítica y demás especificaciones que correspondan, así como su clasificación toxicológica y, en su caso, los límites máximos de residuos, de acuerdo con el procedimiento establecido en los epígrafes 4.2 y 4.3.
+
+Para la autorización o denegación de un ingrediente activo, se considerarán los resultados de los estudios toxicológicos de corta y larga duración, de mutagénesis, carcinogénesis, teratogénesis y sensibilización alérgica, así como cualquier otro que pueda demostrar un efecto nocivo, directo o indirecto, sobre la salud humana.
+
+5.2 En base a informes suficientemente documentados de Entidades públicas o privadas o de Organizaciones internacionales, podrán establecerse, igualmente límites máximos de residuos para sustancias o ingredientes activos no registrados en España.
+
+5.3 A propuesta conjunta de los Ministerios de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, será hecha pública periódicamente la lista de sustancias activas autorizadas, con sus correspondientes límites máximos de residuos. En la misma forma, serán hechos públicos los límites máximos de residuos de los ingredientes activos no registrados.
+
+5.4 Los límites máximos de residuos hechos públicos de acuerdo con lo establecido en el epígrafe 5.3 serán de aplicación a los productos destinados a la alimentación, tanto de origen nacional como importados.
+
+### Art. 6.º Requisitos de los establecimientos de fabricación, almacenamiento, comercialización y aplicación de plaguicidas y de los materiales con ellos relacionados.
+
+6.1 Las instalaciones de fabricación de plaguicidas reunirán las siguientes condiciones:
+
+6.1.1 Deberán cumplir la normativa vigente sobre industrias molestas, insalubres, nocivas y peligrosas y sobre protección del medio ambiente). Asimismo, habrán de cumplir cualesquiera otras condiciones técnicas, sanitarias e higiénicas que establezcan, dentro de sus respectivas competencias, los Organismos de la Administración Pública en sus distintas esferas.
+
+6.1.2 Dispondrán de los medios adecuados de producción, análisis y control para determinar la naturaleza y composición de las materias primas y de los productos elaborados. Dichos medios estarán a disposición de la Administración para realizar las verificaciones oportunas.
+
+6.2 Los locales de almacenamiento de plaguicidas deberán cumplir las siguientes condiciones:
+
+6.2.1 Estarán construidos con materia no combustible y de características y orientaciones tales que su interior esté protegido de temperaturas exteriores extremas y de la humedad.
+
+6.2.2 Estarán ubicados en emplazamientos tales que eviten posibles inundaciones y queden en todo caso alejados de cursos de agua.
+
+6.2.3 Estarán dotados de ventilación, natural o forzada, que tenga salida exterior y en ningún caso a patios o galerías de servicios interiores.
+
+6.2.4 Estarán separadas por pared de obra de viviendas u otros locales habitados.
+
+6.2.5 En caso de que vayan a almacenarse o comercializarse productos clasificados como tóxicos o inflamables, no podrán estar ubicados en plantas elevadas de edificios habitados.
+
+6.2.6 En caso de que vayan a almacenarse o comercializarse productos clasificados como muy tóxicos, deberán estar ubicados en áreas abiertas y suficientemente alejados de edificios habitados y dotados de equipos de detección y de protección personal adecuados.
+
+6.3 Las cámaras de fumigación, túneles de pulverización y demás instalaciones destinadas a efectuar tratamientos con plaguicidas clasificados como tóxicos y muy tóxicos, deberán cumplir las siguientes condiciones:
+
+6.3.1 Las edificaciones en que se emplacen cámaras de fumigación u otras instalaciones en que, por su sistema de funcionamiento, puedan generarse vapores tóxicos, deberán estar situadas áreas abiertas.
+
+6.3.2 Los locales de trabajo del personal, así como aquellos en que se efectúe el movimiento de productos objeto de fumigación o tratamiento, contiguos a las cámaras, deberán estar bien ventilados y dotados de detectores de gases, máscaras respiratorias y extintores de incendios adecuados y en ellos no deberán superarse las concentraciones máximas admisibles para cada plaguicida.
+
+6.3.3 Los tanques de inmersión, túneles de pulverización y autoclaves de las plantas de tratamiento, deberán estar dotados de sistemas de protección para evitar salpicaduras o derramamientos de plaguicida utilizado y dispondrán de un sistema estanco de conducciones y reciclado.
+
+6.3.4 Las cámaras de fumigación y demás instalaciones fijas en las que puedan generarse vapores, gases y aerosoles tóxicos deberán ser totalmente herméticas y dotadas de detectores y elementos de alarma). Asimismo, dispondrán de un sistema de introducción, recirculación y extracción de los gases conectado el de extracción a una chimenea de expulsión dotada de los elementos de filtración o degradación reglamentarios.
+
+6.3.5 La chimenea de expulsión estará situada en una pared exterior de la edificación donde no existan ventanas practicables u otras aberturas al interior de la misma). En ningún caso estará ubicada en un patio o galería de servicios interior y tendrá la boca de salida a una altura mínima de dos metros por encima del punto más alto de la edificación.
+
+6.3.6 Los locales para el depósito de fumigantes y demás plaguicidas clasificados en la categoría muy tóxicos estarán aislados o bien adosados a paredes exteriores de la edificación, al abrigo de los rayos del sol, donde no existan ventanas practicables u otras aberturas al interior de la misma, y abiertas para ventilación en un tercio de la superficie de sus paredes. Las puertas estarán provistas de carteles indicadores y de cerradura y las que comuniquen con los locales de trabajo tendrán dispositivos de cierre hermético.
+
+6.4 Condiciones referentes al personal.
+
+Independientemente de las condiciones exigidas en la reglamentación en materia de higiene y seguridad en el trabajo, los aplicadores y el personal de las empresas dedicadas a la realización de tratamientos con plaguicidas deberán haber superado los cursos o pruebas de capacitación homologados conjuntamente a estos efectos por los Ministerios de Agricultura, Pesca y Alimentación y de Sanidad y Consumo.
+
+6.5 Condiciones relativas a los materiales.
+
+Todos los materiales que tengan contacto con los plaguicidas durante su fabricación, distribución y utilización, reunirán las siguientes condiciones:
+
+6.5.1 No deberán reaccionar ni descomponerse en presencia de los plaguicidas ni producirles cualquier tipo de alteración.
+
+6.5.2 Deberán ser impermeables a los plaguicidas y a los distintos componentes de los mismos y, asimismo, a los gases, humedad y radiaciones que puedan alterarlos.
+
+6.5.3 No deberán adsorber o absorber a los plaguicidas.
+
+6.5.4 Deberán permitir su fácil limpieza.
+
+### Art. 7.º Características de los plaguicidas.
+
+7.1 Las formulaciones se elaborarán a partir de ingredientes activos e inertes, coadyuvantes y aditivos, que no contengan impurezas en proporciones superiores a las admitidas en su proceso de homologación.
+
+7.2 Las formulaciones tendrán aspecto y composición homogéneas o fácilmente homogeneizables antes de su aplicación, sin que presenten precipitaciones o separación de componentes que puedan ocasionar errores de dosificación.
+
+7.3 Las formulaciones que puedan inducir a confusión con piensos o alimentos estarán adicionadas de un colorante y, en su caso, de otros aditivos, que permitan distinguirlos sin posibilidad de error.
+
+7.4 Los plaguicidas destinados a su utilización en fumigaciones estarán adicionados de una sustancia que alerte sensiblemente del riesgo de su presencia imprevista o accidental. Análoga exigencia podrá ser establecida en el procedimiento de homologación para aquellos otros plaguicidas cuyas características así lo requieran.
+
+7.5 Los plaguicidas autorizados para el tratamiento de semillas u otros materiales de reproducción y para la preparación de cebos u otros fines similares, contendrán sustancias colorantes y, en su caso, otros aditivos en cantidad suficiente para que los productos tratados resulten claramente identificables, con objeto de evitar su posible confusión con productos de la misma naturaleza destinados a la alimentación humana o animal.
+
+7.6 Los fabricantes deberán determinar los plazos límites de comercialización para aquellas formulaciones cuya conservación sea limitada, bien por degradación de sus ingredientes activos o bien por pérdidas de estabilidad, y fijar las condiciones para la eliminación de materiales útiles y envases retirados del uso o mercado.
+
+### Art. 8.º Envasado.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 255/2003, de 28 de febrero. [Ref. BOE-A-2003-4376](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-4376).
+
+> Se modifica el apartado 2 por el art. único.4 del Real Decreto 162/1991, de 8 de febrero. [Ref. BOE-A-1991-4002](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-4002).
+
+### Art. 9.º Etiquetado.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 255/2003, de 28 de febrero. [Ref. BOE-A-2003-4376](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-4376).
+
+> Se modifica el apartado 3.b) por el art. único.4 del Real Decreto 443/1994, de 11 de marzo. [Ref. BOE-A-1994-7329](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-7329).
+
+> Se modifica por el art. único.5 del Real Decreto 162/1991, de 8 de febrero. [Ref. BOE-A-1991-4002](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-4002).
+
+### Art. 10º. Manipulaciones y prácticas de seguridad.
+
+10.1 En las instalaciones de fabricación de plaguicidas.
+
+10.1.1 Los procesos mecánicos y térmicos de fabricación de los plaguicidas deberán contar con medios de control y registro para el conocimiento del historial de la elaboración de los productos.
+
+10.1.2 Los plaguicidas saldrán de la nave de fabricación perfectamente identificados.
+
+10.2 En la comercialización de plaguicidas.
+
+10.2.1 En los almacenes y locales donde se comercialicen plaguicidas, éstos se mantendrán en sus envases de origen cerrados y precintados; quedando, en consecuencia, prohibida su venta a granel.
+
+10.2.2 Los plaguicidas clasificados como nocivos también podrán ser comercializados en establecimientos mixtos siempre y cuando estén expuestos al público en estanterías o lugares independientes y se almacenen en otros locales completamente separados, por pared de obra, de aquellos otros donde se almacenen piensos o alimentos, siempre que se expendan en envases de contenido no superior a:
+
+1\. Un kilogramos, para los formulados en polvo para espolvoreo y los granulados.
+
+2\. Un litro para los aerosoles.
+
+3\. Quinientos gramos o 500 mililitros para el resto de los plaguicidas.
+
+10.2.3 Como excepción a lo establecido en el epígrafe 4.5, los plaguicidas para uso en higiene personal y los plaguicidas para uso doméstico podrán comercializarse en locales o establecimientos a los que no será exigible su inscripción en el Registro Oficial a que se refiere dicho epígrafe.
+
+10.2.4 Los plaguicidas clasificados en las categorías tóxicos y muy tóxicos se comercializarán bajo un sistema de control, basado en el registro de cada operación, con la correspondiente referencia del lote de fabricación, en un Libro Oficial de Movimiento, quedando prohibida su venta o almacenamiento en establecimientos mixtos donde se comercialicen piensos o alimentos.
+
+10.3 En la utilización de plaguicidas.
+
+10.3.1 Los usuarios de plaguicidas serán responsables de que en su manipulación y aplicación se cumplan las condiciones de utilización de los mismos que figuren en las etiquetas de sus envases y, particularmente, de que se respeten los plazos de seguridad correspondientes.
+
+10.3.2 **(Derogado).**
+
+10.3.3 Queda prohibido:
+
+a) La utilización como plaguicidas de productos o sustancias no inscritos en los Registros Oficiales correspondientes, a que se refiere el epígrafe 4.1.
+
+b) La utilización de los plaguicidas inscritos en los Registros Oficiales correspondientes en aplicaciones, condiciones o técnicas de aplicación distintas de las autorizadas.
+
+c) La aplicación de cualquier tipo de plaguicidas sobre alimentos preparados para consumo inmediato, ni en las superficies sobre los que éstos se preparen o hayan de servirse y consumirse.
+
+10.3.4 Los plaguicidas clasificados en la categoría muy tóxicos sólo podrán ser utilizados por aplicadores o Empresas de tratamiento autorizadas específicamente a tal fin o por usuarios que, habiendo superado los correspondientes cursos o pruebas de capacitación específicas, realicen el tratamiento para sí mismos. En cualquier caso, los operarios, en número mínimo de dos, efectuarán la aplicación en ausencia de otras personas y advirtiendo mediante señales o letreros ostensibles del peligro de entrada en las áreas o recintos tratados, así como en los contiguos en que puedan existir riesgos, hasta que se haya eliminado o desaparecido el peligro. Estas mismas limitaciones afectan igualmente a las aplicaciones de los plaguicidas de uso ambiental clasificados en la categoría de tóxicos.
+
+10.3.5 Cuando se realicen fumigaciones bajo lonas, éstas, además de cumplir los requisitos establecidos en el epígrafe 6.5, deberán colocarse en lugar y de forma que impidan fugas de los plaguicidas utilizados, lo que se comprobará mediante aparatos de detección adecuados.
+
+10.3.6 En los productos vegetales destinados a la alimentación que hayan sido tratados después de la recolección con plaguicidas destinados a asegurar su conservación, deberá hacerse constar dicho tratamiento si así lo establecen las condiciones de inscripción de los plaguicidas utilizados en el Registro Oficial correspondiente. Igual obligación regirá para las maderas que hayan sido tratadas con plaguicidas destinados a su protección.
+
+10.3.7 Los envases que contengan semillas u otros materiales de reproducción tratados con plaguicidas, a los que se refiere el epígrafe 7.5, deberán ir provistos de una etiqueta en la que se especifique el plaguicida empleado y las indicaciones gráficas correspondientes a su categoría toxicológica, haciendo mención expresa de la prohibición de su utilización para la alimentación humana o animal.
+
+10.3.8 Los envases vacíos que hayan contenido plaguicidas clasificados en las categorías nocivos, tóxicos y muy tóxicos, deberán ser destruidos y enterrados o, en su caso, devueltos al fabricante.
+
+> Se deroga el apartado 10.3.2, con efectos de 10 de noviembre de 2021, por la disposición derogatoria única.b) del Real Decreto 285/2021, de 20 de abril. [Ref. BOE-A-2021-7689](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7689)
+
+> Se modifica el apartado 2.2 por el art. único.6 del Real Decreto 162/1991, de 8 de febrero. [Ref. BOE-A-1991-4002](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-4002).
+
+> Téngase en cuenta para su aplicación la disposición transitoria.1
+
+### Art. 11º. Exportación e importación.
+
+Salvo lo dispuesto en los tratados o convenios internacionales suscritos por España:
+
+a) Los plaguicidas destinados a la exportación que no cumplan las condiciones técnico-sanitarias exigidas por la presente Reglamentación deberán estar embalados y etiquetados de forma que se identifiquen como tales inequívocamente, con objeto de evitar su posible comercialización o utilización en el interior del territorio nacional.
+
+b) Los plaguicidas de fabricación extranjera, para comercializarse y utilizarse en territorio español, deberán cumplir la presente Reglamentación.
+
+### Art. 12º. Inspección y control.
+
+La inspección y control oficial de la fabricación, comercio y utilización de los plaguicidas será efectuada por los Organismos competentes de la Administración Pública, de acuerdo con sus respectivas competencias.
+
+### Art. 13º. Competencias administrativas.
+
+Los departamentos responsables velarán por el cumplimiento de lo dispuesto en la presente Reglamentación, en el ámbito de sus respectivas competencias y a través de los Organismos administrativos encargados, que coordinarán sus actuaciones, y en todo caso sin perjuicio de las competencias que correspondan a las Comunidades Autónomas y a las Corporaciones Locales.
+
+Cuando, por hechos contrastados o por nuevos conocimientos científicos, el Ministerio de Sanidad y Consumo compruebe que un plaguicida, aunque ajustándose a las prescripciones de la presente Reglamentación, representa un peligro para la seguridad o la salud, podrá prohibirse provisionalmente o someterse a condiciones particulares su comercialización. La autoridad responsable informará inmediatamente a la Comisión y a los demás Estados miembros de la Comunidad Económica Europea, indicando los motivos que hayan justificado tal decisión.
+
+> Se añade el párrafo segundo por el art. único.7 del Real Decreto 162/1991, de 8 de febrero. [Ref. BOE-A-1991-4002](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-4002).
+
+> Téngase en cuenta para su aplicación la disposición transitoria.1
+
+### Art. 14º. Régimen sancionador.
+
+Las infracciones a lo dispuesto en la presente Reglamentación serán sancionadas en cada caso por las autoridades competentes de acuerdo con la legislación vigente, y con lo previsto en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones en materia de defensa del consumidor y de la producción agroalimentaria, previa la instrucción del correspondiente expediente administrativo. En todo caso, el Organismo instructor del expediente que proceda, cuando sean detectadas infracciones de índole sanitaria, deberá dar cuenta inmediata de las mismas a las autoridades sanitarias que correspondan.
+
+## ANEXO I — Clasificación por cálculo de los plaguicidas que contienen una sola sustancia activa
+
+(Ver apartado 3 del artículo 3.º)
+
+Los plaguicidas que contengan una sustancia activa se clasificarán por cálculo aplicando la fórmula siguiente:
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>L × 100</p>
+</td>
+<td rowspan="2">
+<p>= A</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+donde,
+
+L = DL<sub>50</sub> de la sustancia activa por vía oral en la rata.
+
+C = Concentración de la sustancia activa en porcentaje de peso.
+
+A = Valor que determina la clasificación del plaguicida según el apartado 2.1 del artículo 3.º
+
+Cuando la sustancia activa figure en el anexo III, el valor de la DL<sub>50</sub> que se tomará en consideración para el cálculo será el que se recoge en dicho anexo.
+
+> Se modifica por el art. único.8 del Real Decreto 162/1991, de 8 de febrero. [Ref. BOE-A-1991-4002](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-4002).
+
+> Téngase en cuenta para su aplicación la disposición transitoria.1
+
+## ANEXO II — Clasificación por cálculo de los plaguicidas que contienen varias sustancias activas
+
+(Ver apartado 4 del artículo 3.º)
+
+1\. Para aplicar el método de cálculo que permita la clasificación de los plaguicidas que contengan varias sustancias activas, las sustancias peligrosas que entran en su composición se dividirán en clases y subclases de acuerdo con la lista del número 5.
+
+2\. Para clasificar el plaguicida se aplicará la fórmula:
+
+Σ (P × I)
+
+donde,
+
+P = Representa el porcentaje en peso de cada una de las sustancias peligrosas que contiene el plaguicida.
+
+I = Representa el índice característico de la subclase a la que pertenecen cada una de las sustancias; se atribuye para cada unidad centesimal presente de la sustancia considerada.
+
+El valor I se convierte en particular en:
+
+I<sub>1</sub> para clasificar como tóxicos o nocivos plaguicidas sólidos.
+
+I<sub>2</sub> para clasificar como tóxicos o nocivos plaguicidas líquidos o gaseosos.
+
+Los valores de los índices I<sub>1</sub> e I<sub>2</sub> se indican en el cuadro siguiente:
+
+CUADRO DE LOS ÍNDICES DE CLASIFICACIÓN
+
+<table>
+<tbody>
+<tr>
+<th rowspan="3">
+<p>Clase a la que pertenece la sustancia</p>
+</th>
+<th colspan="4">
+<p>Indice para la clasificación de los plaguicidas</p>
+</th>
+</tr>
+<tr>
+<th colspan="2">
+<p>Sólidos</p>
+</th>
+<th colspan="2">
+<p>Líquidos o gaseosos</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>I<sub>1</sub></p>
+</th>
+<th>
+<p>Porcentaje</p>
+</th>
+<th>
+<p>I<sub>2</sub></p>
+</th>
+<th>
+<p>Porcentaje</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>Clase I:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>I/a</p>
+</td>
+<td>
+<p>500</p>
+</td>
+<td>
+<p>(= 1)</p>
+</td>
+<td>
+<p>500</p>
+</td>
+<td>
+<p>(= 1)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>I/b</p>
+</td>
+<td>
+<p>100</p>
+</td>
+<td>
+<p>(= 5)</p>
+</td>
+<td>
+<p>125</p>
+</td>
+<td>
+<p>(= 4)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>I/c</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>(= 33)</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>(= 20)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Clase II:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II/a</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>(=100)</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>(= 50)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II/b</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>(=100)</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>(=100)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II/c</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>(=100)</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>(=100)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II/d</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>(=100)</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>(=100)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+3\. Se considerarán tóxicos los plaguicidas que contengan una o más de las sustancias citadas en el número 5, si la suma de los productos obtenidos multiplicando el porcentaje en peso P de las diversas sustancias presentes en el plaguicida por los índices respectivos I<sub>1</sub> o I<sub>2</sub> es superior a 500, siendo:
+
+Para los plaguicidas sólidos: Σ (P × I<sub>1</sub>) > 500.
+
+Para los plaguicidas líquidos o gaseosos: Σ (P × I<sub>2</sub>) > 500.
+
+4\. Se considerarán nocivos los plaguicidas que contengan una o más de las sustancias citadas en el número 5, si la suma de los productos obtenidos por el cálculo indicado en el número 3 es inferior o igual a 500 y superior a 25 para los plaguicidas líquidos o gaseosos, siendo:
+
+Para los plaguicidas sólidos: 25 > Σ (P × I<sub>1</sub>) ≤ 500.
+
+Para los plaguicidas líquidos o gaseosos: 40 > Σ (P × I<sub>2</sub>) < 500.
+
+Si el resultado de este cálculo es igual o inferior a 25 para los plaguicidas sólidos e igual o inferior a 40 para los plaguicidas líquidos o gaseosos, no se clasificará el plaguicida.
+
+5\. Lista de las sustancias activas, subdivididas en clases y subclases:
+
+Las sustancias que llevan la indicación (NT) no son transferibles a otras clases.
+
+CLASE I/a
+
+| Número de orden según la Directiva 67/548/CEE | Nomenclatura según la Directiva 67/548/CEE |
+|---|---|
+| 006-008-00-0 | Antu (NT). |
+| 015-056-00-1 | Azinfos-Etil. |
+| 015-039-00-9 | Azinfos-Metil. |
+| 006-029-00-5 | Dioxacarb. |
+| 006-026-00-9 | Carbofurano. |
+| 015-071-00-3 | Clorofenvinfos. |
+| 606-014-00-9 | Clorofacinona (NT). |
+| 015-038-00-3 | Cumafos. |
+| 607-059-00-7 | Cumatetralilo. |
+| 613-004-00-8 | Crimidina (NT). |
+| 015-070-00-8 | Ciantoato (NT). |
+|  | Cicloheximida (NT). |
+| 015-028-00-9 | Cemetón-O (NT). |
+| 015-029-00-4 | Demetón-S (NT). |
+| 015-088-00-6 | Dialifos (NT). |
+| 015-073-00-4 | Dicrotofos. |
+| 015-061-00-9 | Dimefos (NT). |
+| 015-063-00-X | Dioxatión. |
+| 609-020-00-X | DNOC. |
+| 015-060-00-3 | Disulfotón (NT). |
+| 602-051-00-X | Endrin. |
+| 015-090-00-7 | EPN. |
+|  | Etoprofos. |
+| 015-090-00-7 | Fensufotión (NT). |
+| 607-078-00-0 | Fluenetil (NT). |
+| 616-002-00-5 | Monofluoroacetamida. |
+| 015-091-00-2 | Fonofos. |
+| 602-053-00-0 | Isobenzano (NT). |
+| 006-009-00-6 | Isolan. |
+| 015-094-00-9 | Mefosfolan. |
+| 015-095-00-4 | Metamidofos. |
+| 015-069-00-2 | Metidatión. |
+|  | Metomil. |
+|  | Mevinfos (NT). |
+| 015-072-00-9 | Monocrotofos. |
+| 614-001-00-4 | Nicotina. |
+| 650-004-00-7 | Nobormida (NT) |
+| 015-034-00-1 | Paratión (NT) |
+| 015-035-00-7 | Paratión-metil (NT) |
+| 015-033-00-6 | Forato (NT) |
+|  | Fosfolán |
+| 015-022-00-6 | Foslfamidón. |
+|  | Promurit (NT) |
+| 015-032-00-0 | Protoato. |
+| 015-026-00-8 | Schradan. |
+| 614-003-00-5 | Estricnina. |
+| 015-027-00-3 | Solfotep (NT). |
+| 015-025-00-2 | TEPP (NT). |
+|  | Tionazin. |
+| 015-024-00-7 | Triamifos. |
+| 015-098-00-0 | Tricloronato. |
+| 607-056-00-0 | Warfarina (NT). |
+| 602-049-00-9 | Dieldrin. |
+| 604-002-00-8 | Pentaclorofenol. |
+| 602-008-00-5 | Tetraclorometano (NT). |
+| 602-002-00-3 | Bromomatano (NT). |
+| 006-003-00-3 | Sulfuro de carbono (NT). |
+| 015-004-00-8 | Fosfuro de aluminio (NT). |
+| 015-006-00-9 | Fosfuro de cinc (NT). |
+| 602-010-00-6 | 1,2-Dibromoetano (NT). |
+| 603-023-00-X | Oxido de etileno (NT). |
+
+CLASE I/b
+
+| Número de orden según la Directiva 67/548/CEE | Nomenclatura según la Directiva 67/548/CEE |
+|---|---|
+| 605-008-00-3 | 2-Propenal (Acroleína). |
+| 602-048-00-3 | Aldrin. |
+| 603-015-00-6 | 2-Propen-1-ol. |
+| 006-018-00-5 | Aminocarb. |
+| 015-064-00-5 | Bromofos-etil. |
+|  | Crotoxifos. |
+| 015-044-00-6 | Carbofenatión. |
+| 015-086-00-5 | Cumitoato. |
+| 015-031-00-5 | Demetón-S-metil. |
+| 015-078-00-1 | Demetón-S-metil-sulfona. |
+| 015-019-00-X | Diclorvos. |
+| 006-040-00-5 | Dimetilan. |
+| 609-025-00-7 | Dinoseb. |
+| 609-026-00-2 | Sales y ésteres del dinoseb. |
+| 609-030-00-4 | Dinoterb. |
+| 609-031-00-X | Sales y ésteres del dinoterb. |
+| 607-055-00-5 | Endotal-sódico. |
+| 015-049-00-3 | Endotión. |
+| 611-003-00-7 | Fenaminsulf. |
+| 015-045-00-1 | Mecarbam. |
+| 015-066-00-6 | Ometoato. |
+|  | Heptacloro epóxido. |
+| 006-023-00-2 | Metiocarb. |
+| 006-037-00-9 | Promecarb. |
+
+CLASE I/c
+
+| Número de orden según la Directiva 67/548/CEE | Nomenclatura según la Directiva 67/548/CEE |
+|---|---|
+| 608-006-00-0 | Bromoxinil. |
+| 602-044-00-1 | Canfecloro. |
+| 606-019-00-6 | Clodecon. |
+| 015-085-00-X | Clorfonio. |
+| 015-084-00-4 | Clorpirifos. |
+| 613-013-00-7 | Cianazina. |
+| 602-045-00-7 | DDT. |
+| 015-030-00-X | Demetón-O-metil. |
+| 602-021-00-6 | 1,2-Dibromo-3-cloropropano. |
+| 006-010-00-1 | Dimetán. |
+| 006-028-00-X | Dinobutón. |
+| 006-029-00-5 | Dioxacarb. |
+| 650-008-00-9 | Drazoxolon. |
+| 602-052-00-5 | Endosulfan. |
+| 015-047-00-2 | Etión. |
+| 015-048-00-8 | Fenitión. |
+| 050-003-00-6 | Acetato de Fenestan. |
+| 050-004-00-1 | Hidróxido de Fenestan. |
+| 602-046-00-2 | Heptacloro. |
+| 608-007-00-6 | Yoxinil. |
+| 602-043-00-6 | Lindano. |
+| 615-002-00-2 | Isotioclanato de metilo. |
+| 015-099-80-6 | Pirimifos-etil. |
+| 006-016-00-4 | Propoxur. |
+| 015-050-00-9 | Tiometón. |
+| 015-059-00-8 | Vamidotión. |
+
+CLASE II/a
+
+| Número de orden según la Directiva 67/548/CEE | Nomenclatura según la Directiva 67/548/CEE |
+|---|---|
+| 612-052-00-7 | 2-Aminobutano. |
+| 006-011-00-7 | Carbaril. |
+| 650-007-00-3 | Clordimeform. |
+| 607-039-00-8 | 2,4-D |
+| 006-019-00-0 | Dialato. |
+| 015-068-00-7 | Diclofentión. |
+| 015-089-00-1 | Etoato-metil. |
+| 613-015-00-8 | Fenazaflor. |
+| 015-057-00-7 | Formotión. |
+| 607-079-00-6 | Kelevan. |
+| 080-003-00-1 | Cloruro mercurioso. |
+| 613-018-00-4 | Morfamcuat y sus sales. |
+| 006-014-00-3 | Naban. |
+| 015-097-00-5 | Fentoato. |
+| 015-101-00-5 | Fosmet. |
+| 015-040-00-4 | Diazinón. |
+|  | Yoxinil-octanoato. |
+
+CLASE II/b
+
+| Número de orden según la Directiva 67/548/CEE | Nomenclatura según la Directiva 67/548/CEE |
+|---|---|
+| 015-080-00-2 | Amiditión. |
+| 602-047-00-8 | Clordano. |
+| 607-074-00-9 | Clorofenac. |
+| 015-087-00-0 | Cianofos. |
+| 050-002-00-0 | Cihexaestan. |
+| 613-008-00-X | Dazomet. |
+| 613-021-00-0 | Ditianona. |
+| 015-054-00-0 | Fenitrotión. |
+| 605-005-00-7 | Metaldeido. |
+| 015-055-00-6 | Naled. |
+| 607-041-00-9 | 2,4,5-T. |
+| 607-042-00-4 | Sales y ésteres del 2,4,5-T. |
+| 006-005-00-4 | Tiram. |
+| 015-021-00-0 | Triclorfón. |
+| 609-024-00-1 | Binapacril. |
+| 015-051-00-4 | Dimetoato. |
+
+CLASE II/c
+
+| Número de orden según la Directiva 67/548/CEE | Nomenclatura según la Directiva 67/548/CEE |
+|---|---|
+| 015-079-00-7 | Acefato. |
+| 006-025-00-3 | Aletrin. |
+| 616-004-00-6 | Alidocloro. |
+|  | Carbonato de bario. |
+| 015-083-00-9 | Bensulida. |
+| 603-049-00-1 | Clorfenetol. |
+| 616-005-00-1 | Clortiamida. |
+| 607-057-00-6 | Cumaclor. |
+| 015-074-00-X | Crufomato. |
+| 607-083-00-8 | 2,4-DB. |
+| 602-012-00-7 | 1,2-Dicloroetano. |
+| 607-045-00-0 | Dicloroprop. |
+| 603-044-00-4 | Dicofol. |
+| 607-047-00-1 | Fenoprop. |
+|  | Malatión con un contenido de isomalatión superior al 1,8 por 100. |
+| 607-051-00-3 | MCPA. |
+| 607-052-00-9 | Sales y ésteres del MCPA. |
+| 607-053-00-4 | MCPB. |
+| 607-054-00-X | Sales y ésteres del MCPB. |
+| 607-049-00-2 | Mecoprop. |
+| 006-038-00-4 | Sulfalato. |
+|  | Molinato. |
+| 613-020-00-5 | Tridemorf. |
+
+CLASE II/d
+
+| Número de orden según la Directiva 67/548/CEE | Nomenclatura según la Directiva 67/548/CEE |
+|---|---|
+|  | Alacloro. |
+| 613-010-00-0 | Ametrina. |
+| 006-020-00-6 | Barban. |
+| 613-012-00-1 | Bentazona. |
+| 006-036-00-3 | Benztiazurón. |
+| 609-032-00-5 | Bromofenoxim. |
+|  | Bromofos. |
+| 607-075-00-4 | Clorfenprop-metil. |
+| 613-007-00-4 | Desmetrina. |
+| 606-018-00-0 | Diclona. |
+| 609-023-00-6 | Dinocap. |
+| 616-007-00-2 | Difenamida. |
+| 607-076-00-X | Dodina. |
+| 006-030-00-0 | EPTC. |
+| 607-007-00-5 | Erbón. |
+| 015-052-00-X | Fenclorfos. |
+| 613-017-00-9 | Sulfato de 8-hidroxiquinoleína. |
+|  | Hexacloroacetona. |
+| 006-032-00-1 | Monolinurón. |
+|  | Monurón. |
+| 006-034-00-2 | Pebulato. |
+| 616-009-00-3 | Propanil. |
+|  | Propargite. |
+|  | 2,3,6-TPA. |
+|  | Trifenmorf. |
+| 006-039-00-X | Trialato. |
+|  | Malatión con un contenido de isomalatión de 18 por 100 o menos. |
+| 006-012-00-2 | Ziram. |
+| 613-011-00-6 | Amitrol. |
+| 015-100-00-X | Foxim. |
+| 016-010-00-3 | Polisulfuros de sodio (1). |
+| 016-007-00-7 | Polisulfuros de potasio (1). |
+| 016-008-00-2 | Polisulfuros de amonio (1). |
+| 016-005-00-6 | Polisulfuros de calcio (1). |
+| 016-003-00-5 | Polisulfuros de bario (1). |
+| 616-006-00-7 | Diclofluoamido (1). |
+
+(1) Estas sustancias no se han subdividido en clases y subclases por sus propiedades corrosivas/irritantes.
+
+> Se modifica por el art. único.8 del Real Decreto 162/1991, de 8 de febrero. [Ref. BOE-A-1991-4002](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-4002).
+
+> Téngase en cuenta para su aplicación la disposición transitoria.1
+
+## ANEXO III — Lista de las sustancias activas indicando los valores convencionales de las DL<sub>50</sub> y las CL<sub>50</sub>
+
+Nota explicativa
+
+1\. Los datos marcados con asterisco serán los que se tomen en consideración para la aplicación de la fórmula del anexo I: Clasificación para cálculo de los plaguicidas que contengan una sola sustancia activa (ver apartado 3, artículo 3).
+
+Los otros datos se reseñarán a título de información con el fin de asignar frases adicionales apropiadas que indiquen la naturaleza de los riesgos específicos (frases R), y las indicaciones de precaución (frase S), que deban, figurar en la etiqueta.
+
+2\. NR (no relevante). Esta indicación significa que se puede disponer de los datos pero que éstos no son relevantes ni para la clasificación ni para el etiquetado; por ejemplo valores de DL<sub>50</sub> por vía cutánea superiores a los valores límites considerados en el apartado 3, artículo 3.
+
+<table>
+<tbody>
+<tr>
+<th rowspan="2">
+<p>Número CEE</p>
+</th>
+<th rowspan="2">
+<p>Sustancia</p>
+</th>
+<th colspan="4">
+<p>Valores convencionales</p>
+</th>
+</tr>
+<tr>
+<th colspan="2">
+<p>DL<sub>50</sub> orb</p>
+<p>–</p>
+<p>mg/kg</p>
+</th>
+<th>
+<p>DL<sub>50</sub> cut.</p>
+<p>–</p>
+<p>mg/kg</p>
+</th>
+<th>
+<p>CL<sub>50</sub> ihl.</p>
+<p>–</p>
+<p>mg/l/4h</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>015-079-00-7</p>
+</td>
+<td>
+<p>Acefato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>945</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>605-008-00-3</p>
+</td>
+<td>
+<p>2-Propenal (Acroleína)</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>46</p>
+</td>
+<td>
+<p>562</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Alacloro</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.200</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>602-048-00-3</p>
+</td>
+<td>
+<p>Aldrín</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>46</p>
+</td>
+<td>
+<p>* 98</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-025-00-3</p>
+</td>
+<td>
+<p>Aletrín</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>920</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>616-004-00-6</p>
+</td>
+<td>
+<p>Alidocloro</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>700</p>
+</td>
+<td>
+<p>360</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>603-015-00-6</p>
+</td>
+<td>
+<p>2-Propen-1-ol</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>64</p>
+</td>
+<td>
+<p>90</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>613-011-00-6</p>
+</td>
+<td>
+<p>Amitrol</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>613-010-00-0</p>
+</td>
+<td>
+<p>Ametrina</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.405</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-080-00-2</p>
+</td>
+<td>
+<p>Amiditión</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>600</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>612-052-00-7</p>
+</td>
+<td>
+<p>2-Aminobutano</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>380</p>
+</td>
+<td>
+<p>2.500</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-018-00-5</p>
+</td>
+<td>
+<p>Aminocarb</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>275</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-008-00-0</p>
+</td>
+<td>
+<p>Antu</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-056-00-1</p>
+</td>
+<td>
+<p>Azinfos-etil</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>250</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-039-00-9</p>
+</td>
+<td>
+<p>Azinfos-metil</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>250</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-020-00-6</p>
+</td>
+<td>
+<p>Barban</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.300</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Carbonato de bario</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>650</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-083-00-9</p>
+</td>
+<td>
+<p>Bensulida</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>770</p>
+</td>
+<td>
+<p>3.950</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>613-012-00-1</p>
+</td>
+<td>
+<p>Bentazona</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.100</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-036-00-3</p>
+</td>
+<td>
+<p>Benztiazurón</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.280</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>609-024-00-1</p>
+</td>
+<td>
+<p>Binapacril</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>421</p>
+</td>
+<td>
+<p>720</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>609-032-00-5</p>
+</td>
+<td>
+<p>Bromofenoxim</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.217</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Bromofos</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.600</p>
+</td>
+<td>
+<p>2.181</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-064-00-5</p>
+</td>
+<td>
+<p>Bromofos-etil</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>71</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>608-006-00-0</p>
+</td>
+<td>
+<p>Bromoxinil</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>190</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>602-044-00-1</p>
+</td>
+<td>
+<p>Canfecloro</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>1.075</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-011-00-7</p>
+</td>
+<td>
+<p>Carbaril</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>300</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-026-00-9</p>
+</td>
+<td>
+<p>Carbufurano</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>120</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-044-00-6</p>
+</td>
+<td>
+<p>Carbofenatión</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>32</p>
+</td>
+<td>
+<p>27</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>602-047-00-8</p>
+</td>
+<td>
+<p>Clordano</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>460</p>
+</td>
+<td>
+<p>700</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>606-019-00-6</p>
+</td>
+<td>
+<p>Clordecona</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>114</p>
+</td>
+<td>
+<p>475</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>650-007-00-3</p>
+</td>
+<td>
+<p>Clordimeform</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>340</p>
+</td>
+<td>
+<p>640</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-074-00-9</p>
+</td>
+<td>
+<p>Clorfenac</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>575</p>
+</td>
+<td>
+<p>3.160</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>603-049-00-1</p>
+</td>
+<td>
+<p>Clorfenetol</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>930</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-075-00-4</p>
+</td>
+<td>
+<p>Clorfenprop-metilo</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.190</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-071-00-3</p>
+</td>
+<td>
+<p>Clorfenvinfos</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>108</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>606-014-00-9</p>
+</td>
+<td>
+<p>Clorofacinoma</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>200</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-085-00-X</p>
+</td>
+<td>
+<p>Clorfonio</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>178</p>
+</td>
+<td>
+<p>750</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-084-00-4</p>
+</td>
+<td>
+<p>Clorpirifos</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>135</p>
+</td>
+<td>
+<p>202</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>616-005-00-1</p>
+</td>
+<td>
+<p>Clortiamida</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>757</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-057-00-6</p>
+</td>
+<td>
+<p>Cumacloro</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>900</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-038-00-3</p>
+</td>
+<td>
+<p>Cumafos</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>860</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-059-00-7</p>
+</td>
+<td>
+<p>Cumatetralilo</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-086-00-5</p>
+</td>
+<td>
+<p>Cumitoato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>67</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Crotoxifos</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>74</p>
+</td>
+<td>
+<p>202</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>613-004-00-8</p>
+</td>
+<td>
+<p>Crimidina</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-074-00-X</p>
+</td>
+<td>
+<p>Crufomato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>770</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>613-013-00-7</p>
+</td>
+<td>
+<p>Cianazina</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>182</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-087-00-0</p>
+</td>
+<td>
+<p>Cianofos</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>610</p>
+</td>
+<td>
+<p>800</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Cicloheximida</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-070-00-8</p>
+</td>
+<td>
+<p>Cianotoato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>3,2</p>
+</td>
+<td>
+<p>105</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-002-00-0</p>
+</td>
+<td>
+<p>Cihexaestan</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>540</p>
+</td>
+<td>
+<p>2.200</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-039-00-8</p>
+</td>
+<td>
+<p>2,4-D</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>375</p>
+</td>
+<td>
+<p>1.500</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>613-008-00-X</p>
+</td>
+<td>
+<p>Dazomet</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>640</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-083-00-8</p>
+</td>
+<td>
+<p>2,4-DB</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>700</p>
+</td>
+<td>
+<p>800</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>602-045-00-7</p>
+</td>
+<td>
+<p>DDT</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>113</p>
+</td>
+<td>
+<p>2.510</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-028-00-9</p>
+</td>
+<td>
+<p>Demetón-O</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1,7</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-030-00-X</p>
+</td>
+<td>
+<p>Demetón-O-metil</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>180</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-029-00-4</p>
+</td>
+<td>
+<p>Demetón-S</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1,7</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-031-00-5</p>
+</td>
+<td>
+<p>Demetón-S-metil</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>302</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-078-00-1</p>
+</td>
+<td>
+<p>Demetón-S-metil-sulfona</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>37</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>613-007-00-4</p>
+</td>
+<td>
+<p>Desmetrina</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.390</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-088-00-6</p>
+</td>
+<td>
+<p>Dialifos</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>145</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-019-00-0</p>
+</td>
+<td>
+<p>Dialato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>395</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-040-00-4</p>
+</td>
+<td>
+<p>Diazinón</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>300</p>
+</td>
+<td>
+<p>900</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>602-021-00-6</p>
+</td>
+<td>
+<p>1,2-Dibromo-3-cloropropano</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>170</p>
+</td>
+<td>
+<p>1.420</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-068-00-7</p>
+</td>
+<td>
+<p>Diclofentión</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>270</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>606-018-00-0</p>
+</td>
+<td>
+<p>Diclona</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.300</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>602-012-00-7</p>
+</td>
+<td>
+<p>1,2-Dicloroetano</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>670</p>
+</td>
+<td>
+<p>2.800</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-045-00-0</p>
+</td>
+<td>
+<p>Diclorprop</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>800</p>
+</td>
+<td>
+<p>1.400</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-019-00-X</p>
+</td>
+<td>
+<p>Diclorvos</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>56</p>
+</td>
+<td>
+<p>107</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>603-044-00-4</p>
+</td>
+<td>
+<p>Dicofol</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>690</p>
+</td>
+<td>
+<p>1.870</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-073-00-4</p>
+</td>
+<td>
+<p>Dicrotofos</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>181</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>602-049-00-9</p>
+</td>
+<td>
+<p>Dieldrín</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>38</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-061-00-9</p>
+</td>
+<td>
+<p>Dimefox</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-010-00-1</p>
+</td>
+<td>
+<p>Dimetán</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>120</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-051-00-4</p>
+</td>
+<td>
+<p>Dimetoato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>425</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-040-00-5</p>
+</td>
+<td>
+<p>Dimetilán</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>47</p>
+</td>
+<td>
+<p>600</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-028-00-X</p>
+</td>
+<td>
+<p>Dinobutón</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>140</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>609-025-00-7</p>
+</td>
+<td>
+<p>Dinoseb</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>58</p>
+</td>
+<td>
+<p>200</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>609-023-00-6</p>
+</td>
+<td>
+<p>Dinocap</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>980</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>609-026-00-2</p>
+</td>
+<td>
+<p>Sales y ésteres de dinoseb</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>609-030-00-4</p>
+</td>
+<td>
+<p>Dinoterb</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>609-031-00-X</p>
+</td>
+<td>
+<p>Sales y ésteres de dinoterb</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-029-00-5</p>
+</td>
+<td>
+<p>Dioxacarb</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>90</p>
+</td>
+<td>
+<p>3.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-063-00-X</p>
+</td>
+<td>
+<p>Dioxatión</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>23</p>
+</td>
+<td>
+<p>63</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>616-007-00-2</p>
+</td>
+<td>
+<p>Difenamida</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>970</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-060-00-3</p>
+</td>
+<td>
+<p>Disulfotón</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>2,6</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>613-021-00-0</p>
+</td>
+<td>
+<p>Ditianona</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>640</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>609-020-00-X</p>
+</td>
+<td>
+<p>DNOC</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>200</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-076-00-X</p>
+</td>
+<td>
+<p>Dodina</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>650-008-00-9</p>
+</td>
+<td>
+<p>Drazoxolona</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>126</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>602-052-00-5</p>
+</td>
+<td>
+<p>Endosulfán</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>359</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-055-00-5</p>
+</td>
+<td>
+<p>Endotalsódico</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>51</p>
+</td>
+<td>
+<p>750</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-049-00-3</p>
+</td>
+<td>
+<p>Endotión</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>400</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>602-051-00-X</p>
+</td>
+<td>
+<p>Endrin</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-036-00-2</p>
+</td>
+<td>
+<p>EPN</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-030-00-0</p>
+</td>
+<td>
+<p>EPTC</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.652</p>
+</td>
+<td>
+<p>3.200</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-077-00-5</p>
+</td>
+<td>
+<p>Erbón</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.120</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-047-00-2</p>
+</td>
+<td>
+<p>Etión</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>161</p>
+</td>
+<td>
+<p>915</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-089-00-1</p>
+</td>
+<td>
+<p>Etoato-metil</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>340</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Etoprofos</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>62</p>
+</td>
+<td>
+<p>26</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>611-033-00-7</p>
+</td>
+<td>
+<p>Fenaminosulf</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>–60</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>613-015-00-8</p>
+</td>
+<td>
+<p>Fenazaflor</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>283</p>
+</td>
+<td>
+<p>700</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-052-00-X</p>
+</td>
+<td>
+<p>Fenclorfos</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.740</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-054-00-0</p>
+</td>
+<td>
+<p>Fenitrotión</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>503</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-047-00-1</p>
+</td>
+<td>
+<p>Fenoprop</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>650</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-090-00-7</p>
+</td>
+<td>
+<p>Fensulfotión</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>3,5</p>
+</td>
+<td>
+<p>3,5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-048-00-8</p>
+</td>
+<td>
+<p>Fenitión</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>190</p>
+</td>
+<td>
+<p>1.680</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>050-003-00-6</p>
+</td>
+<td>
+<p>Acetato de Fenestán</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>125</p>
+</td>
+<td>
+<p>500</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>050-004-00-1</p>
+</td>
+<td>
+<p>Hidróxido de Fenestán</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>180</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-078-00-0</p>
+</td>
+<td>
+<p>Fluenetil</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>* 4</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-002-00-5</p>
+</td>
+<td>
+<p>Monofluoroacetamida</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-091-00-2</p>
+</td>
+<td>
+<p>Fonofos</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-057-00-7</p>
+</td>
+<td>
+<p>Formotión</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>365</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Hexacloroacetona</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.550</p>
+</td>
+<td>
+<p>2.980</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Heptacloroepóxido</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>34</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>602-046-00-2</p>
+</td>
+<td>
+<p>Heptacloro</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>100</p>
+</td>
+<td>
+<p>159</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>613-017-00-9</p>
+</td>
+<td>
+<p>Sulfato de 8-hidroxiquinoleína</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.200</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>608-007-00-6</p>
+</td>
+<td>
+<p>Yoxinil</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>110</p>
+</td>
+<td>
+<p>809</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Yoxinil-octanoato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>390</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>602-053-00-0</p>
+</td>
+<td>
+<p>Isobenzano</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4,8</p>
+</td>
+<td>
+<p>* 4</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-009-00-6</p>
+</td>
+<td>
+<p>Isolán</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>5,6</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-079-00-6</p>
+</td>
+<td>
+<p>Keleván</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>240</p>
+</td>
+<td>
+<p>314</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>602-043-00-6</p>
+</td>
+<td>
+<p>Lindano</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>88</p>
+</td>
+<td>
+<p>900</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Malatión con un contenido de isomalatión de 1,8 por 100 como mínimo</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>885</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Malatión con un contenido de isomalatión de 1,8 por 100 como máximo</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-051-00-3</p>
+</td>
+<td>
+<p>MCPA</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>700</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-052-00-9</p>
+</td>
+<td>
+<p>Sales y ésteres del MCPA</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>700</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-053-00-4</p>
+</td>
+<td>
+<p>MCPB</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>680</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-054-00-X</p>
+</td>
+<td>
+<p>Sales y ésteres del MCPB</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>680</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-045-00-1</p>
+</td>
+<td>
+<p>Mecarbam</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-049-00-2</p>
+</td>
+<td>
+<p>Mecoprop</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>930</p>
+</td>
+<td>
+<p>900</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-094-00-9</p>
+</td>
+<td>
+<p>Mefosfolán</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>9,7</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-023-00-2</p>
+</td>
+<td>
+<p>Metiocarb</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>400</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>080-003-00-1</p>
+</td>
+<td>
+<p>Cloruro mercurioso</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>210</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>605-005-00-7</p>
+</td>
+<td>
+<p>Metaldehído</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>630</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-095-00-4</p>
+</td>
+<td>
+<p>Metamidofos</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>7,5</p>
+</td>
+<td>
+<p>110</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-069-00-2</p>
+</td>
+<td>
+<p>Metidatión</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>1.546</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>615-002-00-2</p>
+</td>
+<td>
+<p>Isotiocianato de metilo</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>175</p>
+</td>
+<td>
+<p>2.780</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Metomil</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Mevinfos</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>* 4</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Molinato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>720</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Monurón</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.480</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-072-00-9</p>
+</td>
+<td>
+<p>Monocrotofos</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>112</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-032-00-1</p>
+</td>
+<td>
+<p>Monolinurón</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.800</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>613-018-00-4</p>
+</td>
+<td>
+<p>Morfamcuat</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>325</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-014-00-3</p>
+</td>
+<td>
+<p>Naban</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>395</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-055-00-6</p>
+</td>
+<td>
+<p>Naled</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>430</p>
+</td>
+<td>
+<p>800</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>614-001-00-4</p>
+</td>
+<td>
+<p>Nicotina</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>650-004-00-7</p>
+</td>
+<td>
+<p>Norbormida</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>4,4</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-066-00-6</p>
+</td>
+<td>
+<p>Ometoato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>700</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-034-00-1</p>
+</td>
+<td>
+<p>Paratión</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>6,8</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-035-00-7</p>
+</td>
+<td>
+<p>Paratión-metil</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>67</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-034-00-2</p>
+</td>
+<td>
+<p>Pebulato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.120</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>604-002-00-8</p>
+</td>
+<td>
+<p>Pentaclorofenol</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>27</p>
+</td>
+<td>
+<p>105</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-097-00-5</p>
+</td>
+<td>
+<p>Pentoato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>400</p>
+</td>
+<td>
+<p>700</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-033-00-6</p>
+</td>
+<td>
+<p>Forato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-101-00-5</p>
+</td>
+<td>
+<p>Fosmet</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>230</p>
+</td>
+<td>
+<p>1.150</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-022-00-6</p>
+</td>
+<td>
+<p>Fosfamidón</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>374</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Fosfolán</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>23</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-100-00-X</p>
+</td>
+<td>
+<p>Foxim</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.845</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-099-00-6</p>
+</td>
+<td>
+<p>Pirimifos-etil</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>140</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-037-00-9</p>
+</td>
+<td>
+<p>Promecarb</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>74</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>616-009-00-3</p>
+</td>
+<td>
+<p>Propanil</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.400</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Propargite</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.500</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Promurit</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>0,28</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-016-00-4</p>
+</td>
+<td>
+<p>Propoxur</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>95</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-032-00-0</p>
+</td>
+<td>
+<p>Protoato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-026-00-8</p>
+</td>
+<td>
+<p>Schradan</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>614-003-00-5</p>
+</td>
+<td>
+<p>Estricnina</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-038-00-4</p>
+</td>
+<td>
+<p>Sufalato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>850</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-027-00-3</p>
+</td>
+<td>
+<p>Sulfotep</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-041-00-9</p>
+</td>
+<td>
+<p>2,4,5-T</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>500</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-042-00-4</p>
+</td>
+<td>
+<p>Sales y ésteres del 2,4,5-T</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>500</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-025-00-2</p>
+</td>
+<td>
+<p>TEPP</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>2,4</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-050-00-9</p>
+</td>
+<td>
+<p>Tiometón</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>120</p>
+</td>
+<td>
+<p>700</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Tionazín</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>*11</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-039-00-X</p>
+</td>
+<td>
+<p>Trialato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.700</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-098-00-0</p>
+</td>
+<td>
+<p>Tricloronato</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>135</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>613-020-00-5</p>
+</td>
+<td>
+<p>Tridemorf</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>650</p>
+</td>
+<td>
+<p>1.350</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Trifenmorf</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.400</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2,3,6-TBA</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.500</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-005-00-4</p>
+</td>
+<td>
+<p>Tiram</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>560</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-024-00-7</p>
+</td>
+<td>
+<p>Triamifos</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>48</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-021-00-0</p>
+</td>
+<td>
+<p>Triclorfón</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>560</p>
+</td>
+<td>
+<p>NR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-059-00-B</p>
+</td>
+<td>
+<p>Vamidotión</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>103</p>
+</td>
+<td>
+<p>1.160</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>607-056-00-0</p>
+</td>
+<td>
+<p>Warfarina</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-012-00-2</p>
+</td>
+<td>
+<p>Ziram</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>1.400</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>602-008-00-5</p>
+</td>
+<td>
+<p>Tetraclorometano (1)</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>602-002-00-3</p>
+</td>
+<td>
+<p>Bromometano (1)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>* 0,004</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>006-003-00-3</p>
+</td>
+<td>
+<p>Disulfuro de carbono (1)</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-004-00-8</p>
+</td>
+<td>
+<p>Fosfuro de aluminio (1)</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,004</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>015-006-00-9</p>
+</td>
+<td>
+<p>Fosfuro de cinc (1)</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,004</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>602-010-00-6</p>
+</td>
+<td>
+<p>1,2-Dibromoetano (1)</p>
+</td>
+<td>
+<p>*</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>603-023-00-X</p>
+</td>
+<td>
+<p>Oxido de etileno (1)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>* 0,004</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>016-010-00-3</p>
+</td>
+<td>
+<p>Polisulfuros de sodio (2)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>016-007-00-7</p>
+</td>
+<td>
+<p>Polisulfuros de potasio (2)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>016-008-00-2</p>
+</td>
+<td>
+<p>Polisulfuros de amonio (2)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>016-005-00-6</p>
+</td>
+<td>
+<p>Polisulfuros de calcio (2)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>016-003-00-5</p>
+</td>
+<td>
+<p>Polisulfuros de bario (2)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>616-006-00-7</p>
+</td>
+<td>
+<p>Diclofuoanido (2)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1) No determinados experimentalmente.
+
+(2) No se han atribuido valores convenionales DL<sub>50</sub>/CL<sub>50</sub> a estas sustancias por sus propiedades corrosivas/irritantes.
+
+> Se modifica por el art. único.8 del Real Decreto 162/1991, de 8 de febrero. [Ref. BOE-A-1991-4002](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-4002).
+
+> Téngase en cuenta para su aplicación la disposición transitoria.1
+
+> **Información relacionada**
+
+> Téngase en cuenta que las referencias hechas en el texto de la Reglamentación Técnico-Sanitaria a determinados órganos administrativos, se entenderan hechas a los nuevos órganos, según establece la disposición adicional 1 del Real Decreto 443/1994, de 11 de marzo. [Ref. BOE-A-1994-7329](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-7329).

@@ -1,0 +1,313 @@
+---
+title: "Ley 7/1987, de 4 de abril, por la que se establecen y regulan actuaciones públicas especiales en la «conurbación» de Barcelona y en las comarcas comprendidas dentro de su zona de influencia directa"
+identifier: "BOE-A-1987-10011"
+eli: "https://www.boe.es/eli/es-ct/l/1987/04/04/7"
+type: act
+rank: "Ley"
+jurisdiction: es-cataluna
+language: es
+department: "Comunidad Autónoma de Cataluña"
+date: 1987-04-04
+published: 1987-04-27
+in_force_from: 1987-04-09
+last_amended: 2010-09-06
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 100"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1987-10011"
+retrieved: 2026-10-11
+---
+
+# Ley 7/1987, de 4 de abril, por la que se establecen y regulan actuaciones públicas especiales en la «conurbación» de Barcelona y en las comarcas comprendidas dentro de su zona de influencia directa
+
+Incluye la corrección de erratas publicada en el DOGC núm. 830, de 22 de abril de 1987.
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 33.2 de Estatuto de Autonomía, promulgo la siguiente
+
+**LEY POR LA QUE SE ESTABLECEN Y REGULAN ACTUACIONES PÚBLICAS ESPECIALES EN LA «CONURBACIÓN» DE BARCELONA Y EN LAS COMARCAS COMPRENDIDAS DENTRO DE SU ZONA DE INFLUENCIA DIRECTA**
+
+El establecimiento de la nueva organización territorial de Cataluña incide necesariamente sobre el fenómeno metropolitano generado por las interrelaciones específicas de la ciudad de Barcelona y los municipios de su entorno más inmediato. La organización comarcal como estructura territorial general en todo el territorio de Cataluña, la presencia de la Administración de la Generalidad y las potestades legislativas que tiene atribuidas el Parlamento, son elementos que inciden sobre la situación actual que tiene una expresión institucional en la Entidad Municipal Metropolitana de Barcelona, creada por el Decreto-Ley de 24 de agosto de 1974.
+
+Para abordar de forma adecuada esta cuestión es necesaria una reflexión en torno al fenómeno metropolitano, la cual debe ir más allá de una visión restringida a una determinada fórmula organizativa. Tal como demuestran otras experiencias, no existe un modelo único de organización administrativa para reconocer una realidad con características peculiares y de la organización territorial de cada país hay que encontrar la fórmula que ofrezca una mayor coherencia y racionalidad, articulada con las vigentes coordenadas políticas.
+
+Las circunstancias presentes son hoy notablemente diferentes de las que existían en el momento de la creación de la Entidad Municipal Metropolitana de Barcelona y obligan a reconsiderar el tratamiento metropolitano. Es pues el momento de tener en cuenta la necesidad de actualizar los ámbitos territoriales en cuanto a la coordinación de las políticas sectoriales entre la administración local y las administraciones superiores y de considerar las aportaciones que ponen de relieve los problemas de relación que pueden darse entre ellas, las cuales apuntan hacia fórmulas de actuación integrada.
+
+Asimismo hay que tener presente el principio de autonomía local garantizado por la Constitución y el Estatuto. Este principio, no sólo es incompatible con un sistema que permite la asunción generalizada de competencias municipales como en el caso del Decreto-Ley de 24 de agosto de 1974, sino que exige claramente fórmulas de devolución de competencias a los municipios salvo las que necesariamente han de ser ejercidas coordinadamente, dadas las especiales características de los servicios y del territorio. Este hecho ya se ha producido en otros lugares del Estado, donde los municipios han recuperado muchas de las competencias que antes habían sido objeto de centralización.
+
+A partir de estas premisas, la Ley aborda esta cuestión con un criterio abierto, que tiene como principio esencial el de la partición e integración de todas las administraciones afectadas en el tratamiento especial que requiere esta parte del territorio de Cataluña, respetando en el mayor grado posible las competencias que de acuerdo con la legislación general corresponden a cada una de ellas.
+
+La Ley se articula, de esta forma, alrededor de los siguientes ejes: el reconocimiento de un ámbito territorial más amplio que el actual, que debe superar los límites del Decreto-Ley de 1974 y extenderse a las comarcas del Barcelonès, el Baix Llobregat, el Maresme, el Vallès Occidental y el Vallès Oriental; la identificación de las actividades públicas que requieren una regulación específica en función de la realidad metropolitana, como por ejemplo la ordenación territorial y el urbanismo, el transporte y los servicios hidráulicos y de eliminación de residuos; la concreción de los mecanismos de planificación y coordinación, de ámbito regional, que debe adoptar la Administración de la Generalidad en estas materias de acuerdo con sus competencias; la creación de dos entidades metropolitanas, con representación de todos los municipios para ordenar y gestionar los servicios de transporté y los servicios hidráulicos y de eliminación de residuos, definiendo en cada caso el ámbito territorial idóneo finalmente, el ejercicio que los municipios deben realizar de las propias competencias, de conformidad con la legislación general, salvo las que de forma expresa se asignen a las nuevas entidades metropolitanas.
+
+Este esquema permite asegurar el desarrollo y el equilibrio socioeconómico del territorio con la intervención de todas las instituciones y el respeto a los ámbitos de actuación de cada una de ellas. Hay que hacer notar que esta participación se extiende incluso a la Administración de la Generalidad, en la medida en que la Ley dispone la creación de Organismos de composición mixta, es decir, con la integración de representantes de los entes locales.
+
+Este esquema, permite, por lo tanto, adecuar el fenómeno metropolitano de Barcelona, a la nueva organización territorial y administrativa de Cataluña, adoptando una fórmula más coherente con la nueva situación política y administrativa, que requiere en todo caso un mayor protagonismo de los municipios y la presencia necesaria de la Administración de la Generalidad, y de la que debe desprenderse también el establecimiento de unos nuevos criterios de financiación coherentes con la distribución de las responsabilidades y los servicios de competencia local que resulta de la presente Ley.
+
+## TÍTULO I — Disposiciones generales
+
+#### Artículo 1.
+
+La presente Ley tiene por objeto regular las actuaciones de la Administración de la Generalidad de las Entidades metropolitanas y de los demás Entes locales para el cumplimiento de las actividades y la prestación de los servicios que, por las características económicas, sociales y urbanas que concurren en la «conurbación» de Barcelona y en las comarcas comprendidas dentro de su zona de influencia directa, requieren una ordenación especial e integrada.
+
+#### Artículo 2.
+
+1\. El régimen especial que establece la presente Ley se articula de acuerdo con los siguientes principios:
+
+a) La eficacia y coordinación en la prestación de los servicios.
+
+b) El respeto a la autonomía municipal y a las competencias que, corresponden a cada administración pública.
+
+c) La participación de los Entes locales territoriales en las decisiones de las demás Administraciones públicas.
+
+2\. Constituyen los instrumentos básicos del régimen especial:
+
+a) La planificación y coordinación en el ámbito regional.
+
+b) La creación de Entidades metropolitanas para la planificación conjunta, programación coordinación, gestión y ejecución de determinados servicios.
+
+c) La devolución de competencias a los municipios afectados por el Decreto-Ley 5/1974, de 24 de agosto, el Decreto 3276/1974, de 28 de noviembre.
+
+#### Artículo 3.
+
+Para la aplicación de la presente Ley se determinan los siguientes ámbitos territoriales:
+
+a) El comprendido por las comarcas del Barcelonès, el Baix Llobregat, el Maresme, el Vallès Occidental y el Vallès Oriéntal, de conformidad con la división establecida por los Decretos del Gobierno de la Generalitat de 27 de agosto y 23 de diciembre de 1936, a efectos de planificación y coordinación en el ámbito regional.
+
+b) El comprendido por los municipios de Badalona, Barcelona, Castelldefels, Cornellà de Llobregat, Esplugues de Llobregat Gavà, l`Hospltalet de Llobregat, Montcada i Reixác, Montgat, el Prat de Llobregat, Sant Adrià de Besòs, Sant Boi de Llobregat, Sant Feliu de Llobregat, Sant Joan Despí, Sant Just Desvern, Santa Coloma de Gramenet, Tiana i Viladecans, para la actuación de la Entidad Metropolitana del Transporte.
+
+c) El comprendido por los municipios de Badalona, Barberà del Vallés, Barcelona, Begues, Castellbisbal, Castelldefels, Cerdanyola del Vallès, Cornellà de Llobregat, Esplugues de Llobregat, Gavà, l`Hospltalet de Llobregat, Molins de Rei, Montcada i Reixac, Montgat, Pallejà, El Papiol, El Prat de Llobregat, Ripollet, Sant Adriá de Besós, Sant Andreu de la Barca, Sant Boi de Llobregat, Sant Climent de Llobregat, Sant Cugat del Vallès, Sant Feliu de Llobregat, Sant Joan Despí, Sant Just Desvern, Sant Vicenc dels Horts, Santa Coloma de Cervelló, Santa Coloma de Gramenet, Tiana, Torrelles de Llobregat i Viladecans, para la actuación de la Entidad Metropolitana de Servicios Hidráulicos y Tratamiento de Residuos.
+
+d) El municipal y el comarcal, a efectos de las competencias que legalmente les corresponden.
+
+#### Artículo 4.
+
+Tendrán la consideración de administraciones actuantes, a efectos de lo dispuesto por la presente Ley:
+
+a) La Administración de la Generalidad.
+
+b) Las entidades metropolitanas.
+
+c) Los municipios las comarcas y, en su caso, los demás Entes locales.
+
+#### Artículo 5.
+
+Las actuaciones públicas reguladas por la presente Ley son las relativas a las siguientes materias:
+
+a) Ordenación del territorio y del litoral y urbanismo.
+
+b) Transporte público de viajeros.
+
+c) Servicios hidráulicos.
+
+d) Tratamiento y eliminación de residuos.
+
+## TÍTULO II — De la planificación y la coordinación regional
+
+### CAPÍTULO I — Planificación territorial
+
+#### Artículo 6.
+
+1\. La Administración de la Generalidad elaborará el Plan Territorial Parcial específico para el ámbito definido por el artículo 3.a).
+
+2\. Dicho Plan contendrá las determinaciones que establecen la Ley 23/1983, de 21 de noviembre, de Política Territorial, y las disposiciones complementarias, y fijará las normas de coordinación de la planificación local, que deberán comprender:
+
+a) La indicación y localización de las infraestructuras básicas de los sistemas generales de comunicaciones, abastecimiento y saneamiento de aguas, suministros energéticos, tratamiento de residuos sólidos urbanos e industriales y defensa contra incendios y otras infraestructuras análogas y complementarias.
+
+b) Las medidas de protección de los recursos naturales y las medidas de defensa del medio ambiente.
+
+c) La determinación de espacios libres y espacios de protección especial de interés supracomarcal.
+
+d) La definición de objetivos para el reequilibrio territorial y de prioridades para el asentamiento poblacional y de actividades.
+
+e) Las directrices para la distribución geográfica de los usos y actividades a que deberá destinarse prioritariamente el suelo y la indicación de las áreas del territorio en que sea preciso promover usos específicos.
+
+f) Las demás determinaciones relativas a las infraestructuras y equipamientos que afecten de una forma sustancial al desarrollo del territorio y cualesquiera otras que sean necesarias para la adecuada ordenación del territorio y la coordinación del planeamiento.
+
+3\. El Plan Territorial Parcial establecerá los principios básicos para definir los ámbitos territoriales idóneos de la planificación urbanística general, municipal o supramunicipal, de conformidad con el sistema de competencias públicas establecido por la legislación urbanística y determinará asimismo las actuaciones que deban ejecutarse directamente por medio de planes especiales.
+
+#### Artículo 7.
+
+1\. Para elaborar el Plan Territorial Parcial, el Departamento de Política Territorial y Obras Públicas constituirá una Comisión integrada por representantes de la Administración de la Generalidad y de los Entes locales afectados, encargada de formular el proyecto del plan y, en su caso, de las correspondientes modificaciones. El procedimiento para la aprobación inicia,l la aprobación provisional y la aprobación definitiva del Plan es el establecido por el artículo 14 de la Ley 23/1983, de Política Territorial.
+
+2\. La Comisión a que se refiere el apartado 1 será paritaria en cuanto a los representantes de la Generalidad y de las Administraciones locales y estará presidida por el Consejero de Política Territorial y Obras Publicas Esta Comisión además de formular el proyecto del Plan y las correspondientes modificaciones, se reunirá trimestralmente, como mínimo para examinar el grado de cumplimiento de las previsiones del Plan y comprobar la coherencia entre las inversiones programadas y las reales; asimismo, dará audiencia en el proceso de formulación del proyecto del Plan a los municipios que puedan verse afectados por la localización de grandes infraestructuras, de equipamientos o de sistemas generales.
+
+3\. Sin perjuicio de su participación en la elaboración del Plan, los Entes locales dispondrán, antes de la aprobación provisional, de un plazo de audiencia de dos meses para poder informar a la Comisión y presentar alegaciones.
+
+4\. En el marco de las determinaciones del Plan Territorial Parcial, corresponderá a los Ayuntamientos y, en su caso a las comarcas, elaborar los planes generales de ordenación urbana y otorgar la aprobación inicial y la provisional de los mismos sin perjuicio de las medidas de intervención subsidiaria establecidas por la legislación urbanística.
+
+#### Artículo 8.
+
+1\. La Administración de la Generalidad y los Entes locales de acuerdo con sus competencias llevarán a cabo las actuaciones reguladas por el Plan Territorial Parcial, respetando las determinaciones establecidas por el propio Plan.
+
+2\. El Plan, para la ejecución de las determinaciones y disposiciones generales podrá establecer fórmulas de colaboración y cooperación o modalidades de gestión conjunta entre las diferentes administraciones interesadas.
+
+3\. Si las actuaciones previstas son propias de la competencia local, pero el Plan las declara de interés supramunicipal o supracomarcal, los Entes interesados deberán establecer las fórmulas asociativas o Convenios de colaboración necesarios para prestar los servicios resultantes en el marco de la legislación de régimen local y en su caso de conformidad con la Ley de Organización Comarcal.
+
+### CAPÍTULO II — Planificación del sistema de transporte público de viajeros
+
+#### Artículo 9.
+
+1\. Corresponderá a la Administración de la Generalidad planificar y ordenar el sistema general de transporte público de viajeros y coordinar los servicios interurbanos que se presten en el ámbito definido por el artículo 3.a), por medio del Plan Intermodal de Transportes.
+
+2\. El Plan Intermodal de Transportes tendrá por objeto determinar las bases para la gestión coordinada de los diferentes medios y modalidades de transporte, de acuerdo con las necesidades de los usuarios, las exigencias de la ordenación del sector y los condicionantes económicos y de gestión pertinentes.
+
+3\. La aprobación inicial y la provisional del Plan, corresponderán al Departamento de Política Territorial y Obras Públicas y la aprobación definitiva corresponderá al Gobierno de la Generalidad.
+
+#### Artículo 10.
+
+1\. Compondrán el sistema de transportes a que se refiere el artículo 9.º:
+
+a) Los transportes prestados por ferrocarriles de la Generalidad de Cataluña, dentro del ámbito territorial del Plan.
+
+b) Los transportes gestionados por «Ferrocarril Metropolitano de Barcelona Sociedad Anónima y por la Sociedad Privada Municipal de Transportes de Barcelona, Sociedad Anónima.
+
+c) Los transportes públicos urbanos de viajeros de superficie y lo del mismo carácter interurbanos que relacionen dos o más núcleos de población y los de naturaleza análoga a los anteriores, cualquiera que sea la modalidad que adopten, que se desarrollen íntegramente en el ámbito definido por el artículo 3.a).
+
+d) Los demás medios de transporte de viajeros que sean competencia de la Generalidad y que tengan el origen o el destino dentro del ámbito territorial del Plan, sólo en cuanto a la coordinación necesaria con los medios y modalidades de transporte a que se refieren las letras, a) b) y c).
+
+2\. Los servicios de la Red Nacional de los Ferrocarriles Españoles podrán integrarse dentro del sistema a que se refiere el artículo 9.º, mediante un Convenio de cooperación con la Administración del Estado en las condiciones que de forma expresa se determinen a tal efecto sin perjuicio de lo dispuesto por el artículo 11.9 del Estatuto de Autonomía de Cataluña.
+
+#### Artículo 11.
+
+El Plan intermodal de Transportes deberá contener:
+
+a) La oferta de transporte proporcionada por cada modalidad, medio y sistema multimodal.
+
+b) La asignación y reparto de los tráficos entre los diferentes medios de transporte y las formas de corregir desequilibrios eventuales entre la oferta y la demanda.
+
+c) La previsión y programación de estaciones de autobuses, aparcamientos de disuasión, centro de transferencia de tráficos y demás infraestructuras del transporte.
+
+d) La coordinación del sistema a que se refiere el artículo 9.º en cuanto a tarifas, división del territorio en sectores, conexiones intermodales y demás medidas de finalidad análoga.
+
+e) La programación de la actuación de los diferentes gestores –las Empresas públicas, los concesionarios y los titulares de autorizaciones– de los servicios de transporte público.
+
+f) La evaluación económica y financiera de la ejecución del plan y, en su caso, las asignaciones presupuestarias o las subvenciones que sea necesario transferir a las Entidades locales para alcanzar las finalidades del Plan.
+
+2\. Para formular las determinaciones especificadas por el apartado 1 se tendrán en cuenta los siguientes parámetros:
+
+a) Las características de la población asentada en el territorio y las previsiones de la evolución de la misma.
+
+b) La estimación y las características de la demanda de transporte público de viajeros.
+
+c) El trazado y la localización de las infraestructuras de las comunidades terrestres, marítimas y aéreas.
+
+d) Las previsiones generales de la ordenación del tráfico rodado.
+
+e) La configuración anual de los servicios y la posible reestructuración de los mismos, atendiendo especialmente a la capacidad económica o financiera de los posibles gestores.
+
+#### Artículo 12.
+
+1\. Para formular el Plan Intermodal de Transportes se constituirá en el Departamento de Política Territorial y Obras Públicas a Comisión Coordinadora del Transporte, con la función de redactar el proyecto y, en su caso, las correspondientes modificaciones. La Comisión estará integrada por representantes de la Administración de la generalidad y de los Entes locales con competencias en la materia, y estará presidida por el Consejero de Política Territorial y Obras Públicas.
+
+2\. La Comisión, para elaborar el proyecto del Plan Intermodal de Transportes, dará audiencia a los municipios que puedan ser afectados directamente por la localización de las grandes infraestructuras relacionadas con el sistema de transportes.
+
+### CAPÍTULO III — Planificación hidráulica
+
+#### Artículo 13.
+
+1\. La planificación hidráulica elaborada por la Administración de la Generalidad, en el marco de la legislación especial que la regula, establecerá determinaciones específicas para el ámbito definido por el artículo 3.º, a).
+
+2\. Estas determinaciones incluirán, como mínimo:
+
+a) El inventario de los usos y demandas existentes el estudio de los que sean previsibles.
+
+b) Los criterios de prioridad y compatibilidad de usos y el orden de preferencia de los aprovechamientos.
+
+c) La asignación y reserva de recursos para los usos y demandas existentes y previsibles.
+
+d) Las infraestructuras básicas necesarias.
+
+3\. Las concesiones de aprovechamiento de aguas se ajustarán al orden de preferencia fijado por los planes hidráulicos y podrán estar condicionadas al hecho de que los Entes locales establezcan las fórmulas asociativas necesarias, de conformidad con lo dispuesto por la legislación de aguas.
+
+4\. Los Entes locales han de participar en el proceso de elaboración de la planificación a que se refiere este artículo.
+
+#### Artículo 14.
+
+La Administración de la Generalidad y la Junta de Saneamiento, en ejercicio de las funciones que les atribuye la Ley 5/1981, de 4 de junio, sobre Desarrollo Legislativo en Materia de Evacuación y Tratamiento de Aguas Residuales, establecerán los criterios de planificación, de acuerdo con los planes zonales aprobados y las condiciones de coordinación específicas para el ámbito definido por el artículo 3.º, a)
+
+## TÍTULO III — De las Entidades metropolitanas
+
+> Se deroga por la disposición derogatoria única de laLey 31/2010, de 3 de agosto. [Ref. BOE-A-2010-14562](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-14562).
+
+#### Artículos 15 a 27.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única de laLey 31/2010, de 3 de agosto. [Ref. BOE-A-2010-14562](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-14562).
+
+## TÍTULO IV — De la participación de municipios y comarcas
+
+> Se deroga por la disposición derogatoria única de laLey 31/2010, de 3 de agosto. [Ref. BOE-A-2010-14562](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-14562).
+
+#### Artículos 28 a 29.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única de laLey 31/2010, de 3 de agosto. [Ref. BOE-A-2010-14562](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-14562).
+
+#### Disposición adicional primera.
+
+1\. Queda extinguida la Entidad Municipal Metropolitana de Barcelona creada por el Decreto-Ley 5/1974 de 24 de agosto, sin perjuicio de lo establecido por la disposición transitoria segunda. La Administración de la Generalidad y los municipios de conformidad con la legislación de régimen local y con las correspondientes leyes sectoriales, asumirán las competencias de la Entidad mencionada que no hayan sido asignadas de forma expresa por la presente Ley a otros órganos o Entidades.
+
+2\. Las Entidades metropolitanas creadas por la presente Ley se constituirán al iniciarse el proceso de transferencias a que se refieren las disposiciones adicionales segunda y cuarta, y asumirán los medios materiales y personales de la Entidad Municipal Metropolitana de Barcelona necesarios para ejercer sus funciones de conformidad con lo establecido por dichas disposiciones adicionales.
+
+#### Disposición adicional segunda.
+
+1\. Las Entidades metropolitanas creadas por la presente Ley asumirán los servicios prestados por la Entidad Municipal Metropolitana de Barcelona relativos a las competencias que les atribuyen los artículos 16 y 17.
+
+2\. En cuanto a los servicios públicos prestados por la Entidad Municipal Metropolitana de Barcelona que no correspondan a las nuevas Entidades metropolitanas una Comisión Mixta integrada por representantes, de la Generalidad y de los municipios afectados, determinará su asignación definitiva de acuerdo con las respectivas competencias, las competencias de las nuevas entidades metropolitanas y la unidad efectiva de explotación o destino del servicio.
+
+3\. Si la unidad de explotación o destino de un servicio local hiciera necesaria una actuación conjunta, la gestión podrá corresponder a la Entidad comarcal respectiva o podrán crearse entes asociativos o establecerse convenios de cooperación.
+
+#### Disposición adicional tercera.
+
+1\. La Comisión Mixta a que se refiere el apartado 2 de la disposición adicional segunda estará compuesta por cinco representantes de la Administración de la Generalidad designados por el Consejo Ejecutivo, y por cinco representantes de los municipios, designados por las organizaciones asociativas municipales en función de su representatividad en el correspondiente ámbito territorial.
+
+2\. La Comisión Mixta estará presidida por el Consejero de Gobernación y se constituirá en el plazo máximo de un mes contado desde la fecha en que entre en vigor la presente Ley.
+
+#### Disposición adicional cuarta.
+
+1\. Las propuestas de la Comisión Mixta a que se refiere el apartado 2 de la disposición adicional segunda incluirán la relación de medios materiales y personales que deberán ser objeto de la transferencia y se elevarán al Gobierno de la Generalidad que las apruebe por Decreto.
+
+2\. La Comisión elaborará las propuestas en el plazo máximo de seis meses contados desde la entrada en vigor de la presente Ley; si transcurriera este plazo y la Comisión no hubiese adoptado el acuerdo de transferencia, el Gobierno de la Generalidad formulará directamente la correspondiente propuesta a la que adjuntará en su caso, las discrepancias formuladas en la Comisión, y la presentará al Parlamento para que determine los servicios a transferir. Una vez adoptada la decisión parlamentaria el Gobierno de la Generalidad aprobará el Decreto de transferencias de acuerdo con la misma.
+
+3\. Las propuestas de la Comisión se referirán asimismo a los servicios consorciados, a los gestionados por Convenio y a los gestionados a través de Entes de gestión. En este último caso, se entiende que la asignación será efectuada sin perjuicio del mantenimiento de las relaciones jurídicas con las demás Entidades afectadas.
+
+4\. Los Entes locales, la Administración de la Generalidad y las Entidades metropolitanas a que se refiere la presente Ley, se subrogan a la Entidad Municipal Metropolitana de Barcelona creada por el Decreto-Ley 51 974, de 24 de agosto, en las relaciones jurídicas de Derecho público y privado establecidas por dicha Entidad.
+
+5\. Los derechos de cualquier orden y naturaleza que correspondan a los funcionarios y al personal afectados por los traspasos deberán ser respetados.
+
+#### Disposición transitoria primera.
+
+1\. Mientras no estén elaborados los planes de ordenación a que se refiere el artículo 7.4, continuará en vigor el plan general metropolitano, con las modificaciones acordadas hasta la entrada en vigor de la presente Ley.
+
+2\. Las demás competencias de planeamiento, ejecución y gestión urbanísticos que correspondan a la Entidad Municipal Metropolitana de Barcelona serán ejercidas directamente por los Entes locales, de conformidad con la legislación urbanística. A tal efecto, podrán adoptarse fórmulas de colaboración institucional, especialmente cuando la actuación afecte a diversos Entes locales.
+
+3\. Lo dispuesto por el apartado 1 se entiende sin perjuicio de la posibilidad de modificar el plan y revisar el programa de actuación, si concurren las circunstancias legalmente establecidas. Si la modificación del plan afecta a elementos con una incidencia territorial limitada a un término municipal o a una comarca, la iniciativa corresponderá también al Ente local interesado.
+
+#### Disposición transitoria segunda.
+
+1\. Mientras no se produzcan las transferencias a que se refieren las disposiciones adicionales segunda y cuarta, los servicios serán administrados transitoriamente por la Entidad Municipal Metropolitana de Barcelona.
+
+2\. Mientras dure este período, la Entidad Municipal Metropolitana de Barcelona se limitará a realizar las actuaciones estrictamente necesarias para garantizar el normal desarrollo de los servicios existentes. En cualquier caso necesitará la autorización previa del Consejero de Gobernación para modificar la relación de puestos de trabajo, para formalizar operaciones de crédito, salvo las de tesorería y para realizar inversiones que supongan ampliación de los servicios.
+
+#### Disposición final primera.
+
+Se autoriza al Gobierno de la Generalidad para que dicte las disposiciones necesarias para el desarrollo, ejecución y cumplimiento de la presente Ley.
+
+#### Disposición final segunda.
+
+Queda derogado el Decreto-ley 5/1974, de 24 de agosto, de Creación de la Entidad Municipal Metropolitana de Barcelona.
+
+#### Disposición final tercera.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el «Diari Oficial de la Generalitat de Catalunya».
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley cooperen a su cumplimiento y que los Tribunales y Autoridades a los que correspondan la hagan cumplir.
+
+Palacio de la Generalidad, 4 de abril de 1987.
+
+JORDI PUJOL,
+
+Presidente de la Generalidad de Cataluña

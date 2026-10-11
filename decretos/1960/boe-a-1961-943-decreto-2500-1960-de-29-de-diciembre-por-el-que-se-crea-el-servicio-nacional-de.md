@@ -1,0 +1,75 @@
+---
+title: "Decreto 2500/1960, de 29 de diciembre, por el que se crea el Servicio Nacional de Control de la Circulación Aérea"
+identifier: "BOE-A-1961-943"
+eli: "https://www.boe.es/eli/es/d/1960/12/29/2500"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio del Aire"
+date: 1960-12-29
+published: 1961-01-17
+in_force_from: 1961-02-06
+last_amended: 1990-06-07
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 14"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1961-943"
+retrieved: 2026-10-11
+---
+
+# Decreto 2500/1960, de 29 de diciembre, por el que se crea el Servicio Nacional de Control de la Circulación Aérea
+
+Por Ley de veinticuatro de julio de mil novecientos cuarenta y dos, que creó la Dirección General de Protección de Vuelo, y por el Decreto de catorce de octubre de mil novecientos cuarenta y dos, que la organizó, fueron atribuidas al nuevo organismo, entre otras, las misiones de control de la circulación aérea.
+
+La firma por España del Convenio de Chicago de mil novecientos cuarenta y cuatro, que creó la Organizacion de Aviación Civil Internacional, y las posteriores Resoluciones y Recomendaciones de dicho organismo internacional, comprenden la obligación de velar por la seguridad, eficacia y ordenacion de la circulación aérea no sólo sobre el territorio nacional, sino también sobre las aguas libres que a este fin se asignan a España. Y del mismo modo, la ayuda prestada y la coordinación de la circulación aérea a través de los organismos de control, debe extenderse sin diferencia a las aeronaves del Estado como a las privadas, a las nacionales como a las extranjeras, y en fin, a las comerciales tanto como a las militares, todo ello dentro de los fines específicos del control de la circulación aérea en el desarrollo del vuelo, sin menoscabo de la función de mando y de decisión que constituyen el objeto mismo de cada vuelo.
+
+A este fin, el Decreto de veintitrés de mayo de mil novecientos cincuenta y dos dispuso, de acuerdo con nuestras obligaciones internacionales, la división del espacio aéreo asignado a España a efectos de información al vuelo y de control de la circulación aérea y designó los correspondientes centros y organismos que atienden a esa misión indistintamente y dentro de las normas que se van estableciendo, tanto a los aviones civiles como a los militares. Posteriormente, se promulgó el Reglamento de Circulación Aérea, aprobado por Orden del Ministerio del Aire de dieciocho de agosto de mil novecientos cincuenta y tres, que contiene las normas para la ordenación y seguridad de la navegación, y la Ley de veintiuno de julio de mil novecientos sesenta señaló las reglas básicas para la policía de dicha circulación.
+
+La creciente intensidad de tráfico aéreo sobre el territorio nacional, las modificaciones suscitadas por la organización internacional en cuanto a la división del espacio aéreo y, en fin, la necesidad de una utilización común de ciertos aeródromos por las aviaciones civil y militar, aconsejan que, dentro de las disposiciones legales vigentes, y sin merma del contenido sustancial de las mismas, se acentúe el carácter nacional y de los organismos de control y se dicten aquellas otras disposiciones que permitan la adaptación del territorio nacional y de los organismos de ordenación de la circulación aérea a las necesidades técnicas de las aeronaves que evolucionan rápidamente.
+
+A este fin, a propuesta del Ministro del Aire y previa deliberación del Consejo de Ministros en su reunión del día veintitrés de diciembre de mil novecientos sesenta.
+
+## Dispongo:
+
+### Artículo primero.
+
+El Servicio Nacional de Control de la Circulación Aérea estará constituido por los organismos para ordenación y seguridad del tráfico existente en las Regiones de Información y en las Areas y Zonas de Control de Vuelo.
+
+Dicho Servicio formará parte orgánica y técnicamente de la Dirección General de Protección de Vuelo, sin menoscabo de la austeridad que a los Jefes de Región, Zona y Base Aérea y a los Jefes de Demarcación Aérea y de Aeropuerto confiere, en esta materia, la legislación vigente.
+
+El Jefe del Servicio será nombrado por el Ministro del Aire.
+
+### Artículo segundo.
+
+El Servicio de Control de la Circulación Aérea ejercerá su cometido en las Regiones de Información de Vuelo y en las Áreas de Control, así como en las Zonas de Control y en las de Aeródromo que correspondan a Aeropuertos Nacionales.
+
+El control de la Zona de Aeródromo en las bases aéreas, y, en su caso, el de Aproximación, quedará a cargo del Mando de la Base, con personal y medios del Ejército del Aire.
+
+En aquellos Aeródromos donde coincidan un aeropuerto y una base aérea, el control de la Zona de Aeródromo y, en su caso, el de Aproximación, se hará por el Servicio de Control de la Circulación Aérea. Cuando el número de operaciones militares sea mayor que el de movimientos de la circulación aérea general, el control se efectuará con personal y medios del Ejército del Aire.
+
+> Se modifica por el art. 1 del Real Decreto 693/1990, de 18 de mayo. [Ref. BOE-A-1990-12794](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-12794).
+
+### Artículo tercero.
+
+Todas las aeronaves, cualquiera que sea su clase o nacionalidad, que sobrevuelen el espacio aéreo de soberanía y el asignado a España por la O.A.C.I. están obligadas a cumplir, cerca del Servicio Nacional de Control de la Circulación Aérea, las normas que establece el Reglamento de Circulación Aérea.
+
+### Artículo cuarto.
+
+El Ministerio del Aire podrá alterar los límites de las Regiones de Información de Vuelo y de las Areas y Zonas de Control, de acuerdo con las necesidades nacionales y con las obligaciones contraídas dentro de la O.A.C.I.
+
+### Artículo quinto.
+
+El Ministerio del Aire determinará las obligaciones respectivas y los enlaces que deban mantener, de una parte, el Servicio Nacional de Control, y de otra, los Organismos de la Defensa Aérea y del Servicio de Búsqueda y Salvamento, para su debida coordinación.
+
+### Artículo sexto.
+
+Por el Ministerio del Aire se establecerán las condiciones, enseñanzas y títulos exigibles al personal afecto al Servicio Nacional de Control de la Circulación Aérea, así como las normas administrativas que requiera su organización.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a veintinueve de diciembre de mil novecientos sesenta.
+
+FRANCISCO FRANCO
+
+El Ministerio del Aire,
+
+JOSÉ RODRÍGUEZ Y DIAZ DE LECEA

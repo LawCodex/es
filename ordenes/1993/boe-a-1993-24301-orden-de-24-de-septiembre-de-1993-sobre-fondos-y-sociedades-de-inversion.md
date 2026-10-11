@@ -1,0 +1,469 @@
+---
+title: "Orden de 24 de septiembre de 1993 sobre fondos y Sociedades de inversión inmobiliaria"
+identifier: "BOE-A-1993-24301"
+eli: "https://www.boe.es/eli/es/o/1993/09/24/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1993-09-24
+published: 1993-10-05
+in_force_from: 1993-10-25
+last_amended: 2010-06-08
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 238"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1993-24301"
+retrieved: 2026-10-11
+---
+
+# Orden de 24 de septiembre de 1993 sobre fondos y Sociedades de inversión inmobiliaria
+
+Incluye la corrección de errores publicada en BOE núm. 248, de 16 de octubre de 1993. [Ref. BOE-A-1993-24978](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-24978).
+
+La presente Orden culmina un proceso normativo que, iniciado con la Ley 19/1992, de 7 de julio, sobre Régimen de Sociedades y Fondos de Inversión Inmobiliaria y sobre Fondos de Titulización Hipotecaria, continuó con el Real Decreto 686/1993, de 7 de mayo.
+
+Con la aprobación de esta Orden será posible la implantación en España de las instituciones de inversión colectiva inmobiliarias, de notable arraigo y utilidad en otros países. Dada la vocación que estas fórmulas de inversión tienen para invertir en inmuebles en alquiler, unida al régimen fiscal legalmente adoptado, es de esperar un apreciable incremento, a medio plazo, de la oferta de viviendas en alquiler, atendiéndose así a una de las principales preocupaciones que, en materia de política de la vivienda, ha venido manifestando el Gobierno de la Nación. Por otra parte, se introduce en nuestro sistema financiero una nueva institución caracterizada por su seguridad y rentabilidad a largo plazo, que, por ello, podrá suscitar especial interés en los inversores institucionales.
+
+La Orden regula sólo los aspectos financieros de las instituciones de inversión colectiva inmobiliaria, ya que los aspectos fiscales lo fueron en la Ley 19/1992 y el Real Decreto 686/1993 citados.
+
+Aunque la Orden, en coherencia con las normas que desarrolla, regula tanto las Sociedades como los Fondos de Inversión Inmobiliaria, es esta última figura la que es objeto de una regulación más completa, debiendo constituir el Fondo de Inversión la fórmula ordinaria de inversión colectiva inmobiliaria.
+
+En relación con éstos, la Orden persigue garantizar tanto su transparencia y adecuada valoración como un cierto grado de liquidez en la inversión, si bien esto último, dada la naturaleza inmobiliaria de los activos del Fondo, sólo se alcanza de forma relativa, teniendo por ello estos Fondos un carácter «semiabierto».
+
+Constituyen reglas encaminadas a garantizar la transparencia y la prudencia valorativa, entre otras, las siguientes:
+
+a) La valoración de los activos por una Sociedad de tasación, que actuará como experto independiente.
+
+b) La obligación de valorar los inmuebles al menos una vez al año, así como con ocasión de su adquisición y venta.
+
+c) El cálculo mensual del valor liquidativo del Fondo y la fijación de reglas precisas para su determinación.
+
+d) La intervención del depositario.
+
+e) Las obligaciones de información, inherentes a toda institución de inversión colectiva y el papel supervisor de la Comisión Nacional del Mercado de Valores.
+
+Constituyen reglas que persiguen garantizar un cierto grado de liquidez en la inversión de los partícipes, entre otras, las siguientes:
+
+a) La obligación de garantizar, al menos una vez al año, el reembolso de las participaciones.
+
+b) La existencia tanto de un coeficiente de liquidez como de un coeficiente de inversión en valores.
+
+c) El establecimiento de unos plazos, perentorios y breves, para atender el eventual reembolso de participaciones.
+
+La Orden regula, finalmente, tres categorías de sujetos financieros llamados a desempeñar un papel fundamental en la vida de las instituciones de inversión colectiva inmobiliaria. En primer lugar las Sociedades gestoras, en cuya regulación se ha optado por permitir que una misma Sociedad pueda gestionar tanto valores mobiliarios como patrimonios inmobiliarios, si bien, dada la muy diferente naturaleza de ambos tipos de activos, se han introducido cierto número de funciones y reglas específicas. En segundo lugar, las Sociedades de tasación, cuyo papel en el esquema institucional diseñado es básico, dada la importancia que tiene la correcta valoración de los inmuebles y, por consiguiente, la independencia del tasador frente a las Sociedades gestoras. Finalmente, los depositarios, cuya función, no siempre idéntica a la aplicable a las instituciones de inversión mobiliaria, se orienta también a la protección de los inversores.
+
+## CAPÍTULO I — Disposiciones generales
+
+### Sección primera. Ámbito de aplicación
+
+#### Art. 1. Disposiciones generales.
+
+Quedan sometidos a la presente Orden las Sociedades y Fondos de Inversión Inmobiliaria, definidas en el artículo 72 del Reglamento de la Ley 46/1984, de 26 de diciembre, reguladora de las instituciones de inversión colectiva.
+
+### Sección segunda. Autorización, registro y denominación
+
+#### Art. 2. Autorización y registro.
+
+1\. Los procedimientos de autorización, modificación y registro de las Sociedades y Fondos de Inversión Inmobiliaria se ajustarán a lo dispuesto con carácter general en el artículo 9 del Reglamento de la Ley 46/1984, de 26 de diciembre, con las especialidades estabecidas en la presente Orden. Además, a las solicitudes de autorización, como requisito para su concesión, se acompañará una Memoria explicativa sobre las características de la institución y los criterios a los que ajustará sus inversiones, en la que se ponga de manifiesto la viabilidad financiera de la institución. En particular, en dicha Memoria se especificarán:
+
+a) Los tipos de inmuebles en los que se pretende invertir.
+
+b) Áreas geográficas de inversión.
+
+c) Criterios de diversificación de riesgos.
+
+d) Formas de gestión de los bienes.
+
+e) Fórmulas de comercialización de las participaciones en los Fondos.
+
+f) Programa y calendario de inversión de los recursos que se capten.
+
+g) La Sociedad de tasación prevista para realizar la valoración de los inmuebles.
+
+h) Relación e historial de los Administradores y directivos.
+
+i) En el caso de Fondos, si se pretende concertar un contrato de liquidez con una Entidad de crédito para garantizar reembolsos de participación, se especificarán y explicarán sus cláusulas fundamentales.
+
+j) Medios materiales para desarrollar la gestión.
+
+k) Plan de liquidez del Fondo.
+
+l) Cualquier otra información adicional que sea requerida por la Comisión Nacional del Mercado de Valores.
+
+2\. Las especificaciones que deberán incluirse en el Reglamento de Gestión de los Fondos de Inversión Inmobiliaria serán las previstas con carácter general en el artículo 35.1 del Reglamento de la Ley 46/1984, con las adaptaciones necesarias a las características de los mismos. Además, se especificarán:
+
+a) El objeto de la Entidad, a los efectos de determinar el concreto régimen fiscal aplicable.
+
+b) Los criterios de selección y áreas geográficas de los inmuebles.
+
+c) Especialidades en materia de suscripción y reembolso de las participaciones. En particular, se indicará el número de veces al año que se garantizará el reembolso, las fechas en las que se atenderán las peticiones y el régimen de preavisos.
+
+d) Fechas concretas para el cálculo del valor liquidativo.
+
+e) Periodicidad de las tasaciones de los bienes inmuebles.
+
+f) Política de conservación y aseguramiento de los bienes inmuebles del Fondo.
+
+g) Contrato de liquidez, en el supuesto de que se prevea concertarlo.
+
+h) Gastos de explotación de los inmuebles imputables al Fondo.
+
+i) La Sociedad de tasación inicialmente designada para valorar los inmuebles, el plazo de esta designación y los procedimientos y plazos para las sucesivas designaciones.
+
+3\. El procedimiento de autorización de Sociedades de Inversión Inmobiliaria y de Fondos de Inversión Inmobiliaria tendrá un plazo máximo de seis meses para su resolución. La resolución sólo podrá ser denegatoria por incumplimiento de los requisitos previstos en la Ley 46/1984, en su Reglamento de desarrollo y en la presente Orden. Transcurrido el plazo sin pronunciamiento expreso, se entenderá denegada la solicitud. En el caso de modificaciones de Estatutos sociales de las Sociedades de Inversión Inmobiliaria o de Reglamento de Gestión de los Fondos de Inversión Inmobiliaria, el plazo será de cuatro meses, y de no mediar resolución expresa se entenderá igualmente concedida la autorización.
+
+4\. En el registro de otras instituciones de inversión colectiva de la Comisión Nacional del Mercado de Valores, al amparo de lo dispuesto en el artículo 9.3 del Reglamento de la Ley 46/1984 mencionada, se crearán dos secciones especiales, respectivamente, para Sociedades de Inversión Inmobiliaria y Fondos de Inversión Inmobiliaria.
+
+> Redactados los apartados 2.c) y 3 conforme a la corrección de errores publicada en BOE núm. 248, de 16 de octubre de 1993. [Ref. BOE-A-1993-24978](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-24978).
+
+#### Art. 3. Denominación.
+
+1\. Los Fondos y Sociedades de Inversión Inmobiliaria deberán incluir en su denominación la expresión «Fondo de Inversión Inmobiliaria» o «Sociedad de Inversión Inmobiliaria», o sus correspondientes abreviaturas y siglas «F. I. I.» y «S. I. I.», respectivamente.
+
+2\. Las denominaciones «Fondo de Inversión Inmobiliaria» y «Sociedad de Inversión Inmobiliaria» serán privativas de las Entidades inscritas en las correspondientes secciones especiales del Registro a que se refiere el anterior artículo 2.4.
+
+### Sección tercera. Régimen de las inversiones y obligaciones frente a terceros
+
+#### Art. 4. Reglas de las inversiones.
+
+1\. **(Derogado)**
+
+2\. **(Derogado)**
+
+3\. **(Derogado)**
+
+4\. **(Derogado)**
+
+5\. **(Derogado)**
+
+6\. Los bienes inmuebles integrantes del activo de las Sociedades de Inversión Inmobiliaria y de los Fondos de Inversión Inmobiliaria sólo podrán poseerse en concepto de propietario. Asimismo, dichos bienes deberán adquirirse libres de los derechos de usufructo, uso y habitación.
+
+7\. Los bienes inmuebles arrendados a Entidades de un mismo grupo no podrán representar más del 25 por 100 del activo de la institución. A estos efectos, será de aplicación el concepto de grupo a que se refiere el artículo 4.º de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+
+8\. **(Derogado)**
+
+9\. El cobro del precio por la venta de inmuebles no podrá aplazarse más de seis meses desde que se perfeccione el contrato de compraventa.
+
+10\. Se habilita a la Comisión Nacional del Mercado de Valores para especificar el valor de los bienes inmuebles, de otros activos y de las referencias de denominador a utilizar en el cálculo de los coeficientes y límites establecidos en la normativa que les sea de aplicación. Adicionalmente especificará las condiciones que deben cumplir los límites a las obligaciones frente a terceros.
+
+En el ejercicio de esta habilitación, la Comisión Nacional del Mercado de Valores podrá determinar especialmente:
+
+El cálculo del valor estimado de realización de la cartera de inversiones de carácter inmobiliario en las referencias de numerador del coeficiente de inversión obligatorio,
+
+El cálculo de los coeficientes de diversificación del riesgo en el caso de: inmuebles y derechos arrendados al mismo grupo; inmuebles en construcción, sobre plano y compromisos de compra; e inmuebles adquiridos a entidades del mismo grupo,
+
+Las partidas que se incluyen y se excluyen de los saldos de las cuentas acreedoras a efectos del cálculo de los límites a las financiaciones ajenas,
+
+El cálculo de las referencias de numerador del coeficiente de liquidez, y
+
+La asignación de bienes inmuebles en el calendario de tasaciones.
+
+> Se modifica el apartado 10 por el art. 3.1 de la Orden EHA/3064/2008, de 28 de octubre. [Ref. BOE-A-2008-17328](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17328).
+
+> Se deroga el apartado 5 por la disposición derogatoria.2 de la Orden de 18 de abril de 2001. [Ref. BOE-A-2001-8094](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-8094).
+
+> Se derogan los apartados 1, 2, 3, 4 y 8 por la disposición derogatoria única.2 del Real Decreto 845/1999, de 21 de mayo. [Ref. BOE-A-1999-12488](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-12488).
+
+#### Art. 5. Financiación con garantía hipotecaria.
+
+1\. Las Sociedades de Inversión Inmobiliaria y los Fondos de Inversión Inmobiliaria podrán financiar la adquisición de inmuebles que integren su patrimonio con garantía hipotecaria. Asimismo, dicha financiación podrá utilizarse para financiar rehabilitaciones en los términos contemplados en la presente orden.
+
+2\. **(Derogado)**
+
+> Se deroga el apartado 2 por la disposición derogatoria única.2 del Real Decreto 845/1999, de 21 de mayo. [Ref. BOE-A-1999-12488](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-12488).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 248, de 16 de octubre de 1993. [Ref. BOE-A-1993-24978](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-24978).
+
+### Sección cuarta. Limitaciones operativas
+
+#### Art. 6. Operaciones con Administradores, Gestores, partícipes y socios.
+
+1\. El régimen de las operaciones con los Consejeros, Administradores o Directores de las Sociedades de Inversión Mobiliaria y de las Sociedades Gestoras de instituciones de inversión colectiva, previsto en el artículo 7 del Reglamento de la Ley 46/1984, resultará de aplicación en los supuestos allí referidos a las Sociedades y Fondos de Inversión Inmobiliaria.
+
+2\. Las limitaciones establecidas en el número anterior afectarán también al arrendamiento, adquisición o enajenación de bienes inmuebles que integren el activo de las Sociedades de Inversión Inmobilaria y de los Fondos de Inversión Inmobiliaria. No obstante, no será de aplicación, en cuanto a bienes inmuebles se refiere, la excepción contemplada en el artículo 7.4 del Reglamento.
+
+3\. **(Derogado)**
+
+4\. **(Derogado)**
+
+> Se derogan los apartados 3 y 4 por la disposición derogatoria única.2 del Real Decreto 845/1999, de 21 de mayo. [Ref. BOE-A-1999-12488](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-12488).
+
+#### Art. 7. Operaciones en régimen de mercado.
+
+1\. En lo referente a las operaciones sobre valores negociables que, en los porcentajes establecidos en la presente Orden, integren el activo de las Sociedades y Fondos de Inversión Inmobiliaria, resultará de aplicación lo prescrito en el artículo 8.º del Reglamento de la Ley 46/1984, en cuanto a la forma de efectuar operaciones.
+
+2\. Tanto la adquisición como la venta de bienes inmuebles requerirá tasación previa, la cual no surtirá efectos en lo que a determinación de valor liquidativo se refiere. No obstante lo anterior, en el caso de venta, la tasación no será obligatoria en aquellos supuestos donde el bien se hubiera tasado, a efectos de fijar el valor liquidativo, en los seis meses anteriores.
+
+### Sección quinta. Obligaciones de información
+
+#### Art. 8. Disposiciones generales.
+
+1\. Las Sociedades y Fondos de Inversión Inmobiliaria, así como sus correspondientes Sociedades Gestoras, estarán sujetas a las obligaciones de información establecidas en los números 1 a 3 del artículo 10 del Reglamento de la Ley 46/1984.
+
+2\. Asimismo, las Sociedades de Inversión Inmobiliaria o, en su caso, la correspondiente Sociedad Gestora, deberán cumplir las obligaciones complementarias de información sobre hechos relevantes a que se refiere el artículo 10.4 del Reglamento de la Ley 46/1984. No obstante, en materia de reembolso de participaciones se considerará hecho relevante todo reembolso superior al 5 por 100 del patrimonio del Fondo. Asimismo tendrán la consideración de hechos relevantes los contemplados en los artículos 18.2, 19.5, 20.2, en cuanto a que un partícipe alcance el 25 por 100; 21, en cuanto al hecho de modificación de las comisiones vigentes, y 28.3 de la presente Orden. También tendrá la consideración de hecho relevante la venta de un inmueble por un precio inferior en un 10 por 100 a su valor de tasación, calculado según lo previsto en el artículo 7.2.
+
+3\. Se habilita a la Comisión Nacional del Mercado de Valores para establecer la forma y contenido de los modelos de Folleto Informativo, Memoria Anual e Informes trimestrales de las Instituciones reguladas en la presente Orden, atendiendo a las peculiaridades resultantes en el régimen de inversiones y funcionamiento.
+
+#### Art. 9. Información y publicidad sobre participaciones significativas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 845/1999, de 21 de mayo. [Ref. BOE-A-1999-12488](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-12488).
+
+### Sección sexta. Supervisión e inspección
+
+#### Art. 10. Competencia.
+
+1\. La inspección y supervisión del cumplimiento de las disposiciones contenidas en la presente norma corresponderá a la Comisión Nacional del Mercado de Valores.
+
+2\. La Comisión Nacional del Mercado de Valores en el marco de las competencias anteriores podrá solicitar tanto de las Sociedades de Inversión Inmobiliaria, como de los Fondos de Inversión Inmobiliaria, la información adicional que estime necesaria, estableciendo, en su caso, los modelos para su transmisión.
+
+3\. La Comisión Nacional del Mercado de Valores establecerá las reglas contables específicas de las instituciones de inversión colectiva inmobiliarias, así como las necesarias para la determinación de su patrimonio. Adicionalmente establecerá las reglas específicas para el cálculo del valor liquidativo de los fondos de inversión inmobiliaria.
+
+En el ejercicio de esta habilitación, la Comisión Nacional del Mercado de Valores podrá determinar las partidas de los estados contables que se computarán para calcular el patrimonio a los efectos del párrafo anterior, así como establecer las particularidades necesarias en caso de que existan compartimentos, o bien clases de participaciones o series de acciones.
+
+> Se modifica el apartado 3 por el art. 3.2 de la Orden EHA/3064/2008, de 28 de octubre. [Ref. BOE-A-2008-17328](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17328).
+
+## CAPÍTULO II — De las Sociedades de Inversión Inmobiliaria
+
+#### Art. 11. Forma y legislación aplicable.
+
+1\. Las Sociedades de Inversión Inmobiliaria serán Sociedades Anónimas que sólo podrán adoptar la forma de Capital Fijo.
+
+2\. Las Sociedades de Inversión Inmobiliaria se regirán, en primer lugar, por lo establecido en la Ley 46/1984, de 26 de diciembre, y en su Reglamento para las Instituciones de Inversión Colectiva Inmobiliarias; en segundo lugar, por lo previsto en la presente Orden y en sus normas de desarrollo, y, supletoriamente, por lo previsto en la citada Ley, en su Reglamento y en las normas de desarrollo para las Sociedades de Inversión Mobiliaria de Capital Fijo.
+
+#### Art. 12. Capital social.
+
+1\. El capital social mínimo de las Sociedades de Inversión Inmobiliaria será de 1.500 millones de pesetas. Deberá estar desembolsado desde su constitución y representado mediante acciones nominativas, que tendrán el mismo valor nominal y conferirán los mismos derechos.
+
+2\. Las acciones podrán estar representadas mediante títulos o mediante anotaciones en cuenta.
+
+3\. **(Derogado)**
+
+> Se deroga el apartado 3 por la disposición derogatoria única.2 del Real Decreto 845/1999, de 21 de mayo. [Ref. BOE-A-1999-12488](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-12488).
+
+#### Art. 13. Número mínimo de accionistas.
+
+1\. El número mínimo de accionistas será el previsto con carácter general en el artículo 15 del Reglamento de la Ley 46/1984.
+
+2\. **(Derogado)**
+
+> Se deroga el apartado 2 por la disposición derogatoria única.2 del Real Decreto 845/1999, de 21 de mayo. [Ref. BOE-A-1999-12488](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-12488).
+
+#### Art. 14. Valoración del activo, régimen de auditoría, cuentas anuales, determinación y distribución de resultados y administración.
+
+1\. Las Sociedades de Inversión Inmobiliaria deberán valorar su activo inmobiliario al menos una vez al año. Para ello se ajustarán a los criterios y normas de valoración previstos en el artículo 17 de la presente Orden. La citada valoración se realizará por una Sociedad de Tasación inscrita en el Registro Oficial del Banco de España, en lo que a bienes inmuebles se refiere. En cuanto a los activos mobiliarios se ajustarán a los criterios previstos en el Reglamento de la Ley 46/1984 para las Sociedades de Inversión Mobiliaria y disposiciones que lo desarrollan.
+
+2\. El régimen de auditoría, cuentas anuales y determinación y distribución de resultados se ajustará a lo dispuesto con carácter general en los artículos 23, 30 y 31 del Reglamento de la Ley 46/1984.
+
+3\. La Junta general de accionistas podrá acordar, cuando así lo prevean los Estatutos de la Sociedad, que la gestión o administración de los activos que integren el patrimonio social se encomiende a una Sociedad Gestora de Instituciones de Inversión Colectiva que cumpla los requisitos previstos en la presente Orden.
+
+4\. El régimen de la Comisión de Control de Gestión y Auditoría se ajustará a lo previsto, con carácter general, en los artículos 23, 24 y 25 del Reglamento de la Ley 46/1984.
+
+5\. Los administradores y directivos de las Sociedades de Inversión Inmobiliaria deberán reunir los requisitos de honorabilidad y conocimientos exigidos en el artículo 9.º del Reglamento de la Ley 46/1984. Al menos la mayoría de aquéllos deberán contar con conocimientos y experiencia en el mercado inmobiliario.
+
+## CAPÍTULO III — De los Fondos de Inversión Inmobiliaria
+
+#### Art. 15. Legislación aplicable.
+
+Los Fondos de Inversión Inmobiliaria se regirán, en primer lugar, por lo establecido en la Ley 46/1984, de 26 de diciembre, para las Instituciones de Inversión Colectiva de carácter no financiero, y en su Reglamento para las Instituciones de Inversión Colectiva Inmobiliarias; en segundo lugar, por la presente Orden y normas de desarrollo, y supletoriamente, por lo previsto en la citada Ley, en su Reglamento y en las normas de desarrollo para los Fondos de Inversión de carácter financiero.
+
+#### Art. 16. Patrimonio.
+
+1\. Los Fondos de Inversión Inmobiliaria deberán tener un patrimonio mínimo inicial de 1.500 millones de pesetas, totalmente desembolsado.
+
+2\. Las participaciones representativas del patrimonio de los Fondos tendrán iguales características, serán consideradas valores negociables y podrán representarse mediante certificados nominativos sin valor nominal o mediante anotaciones en cuenta, conforme al régimen general previsto en el artículo 12.2 del Reglamento de la Ley 46/1984.
+
+3\. **(Derogado)**
+
+> Se deroga el apartado 3 por la disposición derogatoria única.2 del Real Decreto 845/1999, de 21 de mayo. [Ref. BOE-A-1999-12488](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-12488).
+
+#### Art. 17. Criterios de valoración.
+
+1\. El valor del patrimonio de los Fondos de Inversión Inmobiliaria será el resultado de deducir las cuentas acreedoras de la suma de todos sus activos, valorados conforme a los siguientes criterios:
+
+a) Los bienes inmuebles se valorarán de acuerdo con los criterios establecidos en el artículo 35 del Reglamento de la Ley 2/1981, de 25 de marzo, de regulación del Mercado Hipotecario, aprobado por Real Decreto 685/1982, de 17 de marzo, y sus normas de desarrollo. No obstante, en el caso de inmuebles arrendados se tomará como valor de tasación la media aritmética entre el valor de capitalización de la renta neta, conforme a las instrucciones sobre valoración de bienes en el mercado hipotecario, y el valor de mercado del inmueble, supuesto libre de inquilinos. El valor de tasación que se adopte no podrá ser superior al valor de mercado del inmueble, supuesto libre de inquilinos.
+
+b) Los valores negociables se valorarán de acuerdo con los criterios generales establecidos en el artículo 43 del Reglamento de la Ley 46/1984, y disposiciones que lo desarrollan.
+
+c) El efectivo, depósitos y cuentas bancarias se valorarán por su nominal.
+
+2\. Las valoraciones de los bienes inmuebles se realizarán por Sociedades de Tasación inscritas en el Registro Especial del Banco de España.
+
+3\. Las valoraciones de los bienes inmuebles se realizarán al menos una vez al año, salvo que el Reglamento de Gestión establezca una frecuencia mayor.
+
+#### Art. 18. Régimen de las participaciones.
+
+1\. El patrimonio del Fondo estará dividido en participaciones de iguales características, sin valor nominal, que conferirán a sus titulares un derecho de propiedad sobre aquél en los términos establecidos legalmente y en el Reglamento de Gestión.
+
+2\. El número de participaciones no será limitado, dependiendo su suscripción de la demanda que de las mismas se haga, salvo que, mediando autorización expresa de la Comisión Nacional del Mercado de Valores, se suspenda la suscripción a petición razonada y fundada de la Sociedad Gestora, que procederá, en especial, cuando las peticiones de suscripción superen el ***15 por 100*** del activo total del Fondo.
+
+3\. La suscripción de participaciones implicará la aceptación del Reglamento por el que se rige el Fondo.
+
+4\. El Reglamento de gestión, respetando lo establecido en el artículo 20.2, podrá establecer límites máximos al porcentaje del Fondo que podrá poseer un solo partícipe, así como a la inversión mínima inicial exigible.
+
+> Se deroga lo indicado del apartado 2 por la disposición derogatoria única.2 del Real Decreto 845/1999, de 21 de mayo. [Ref. BOE-A-1999-12488](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-12488).
+
+#### Art. 19. Régimen de suscripción y reembolso.
+
+1\. El valor de la participación será el resultado de dividir el patrimonio del Fondo, valorado conforme a lo establecido en el artículo 17 de la presente Orden, entre el número de participaciones en circulación.
+
+2\. El valor liquidativo de las participaciones será calculado una vez al mes por la Sociedad Gestora y en la fecha fijada en el Reglamento de Gestión del Fondo. Únicamente podrá diferir del aplicado al partícipe por las comisiones de suscripción o reembolso, o por la aplicación de los descuentos a favor del Fondo, si se encuentran previstos en su Reglamento de Gestión para los reembolsos.
+
+3\. El valor de los bienes inmuebles, a los efectos de determinar el valor liquidativo de las participaciones, se obtendrá como sigue:
+
+a) La Sociedad de Tasación, conforme a los criterios de valoración del artículo 17 de la presente Orden, tasará el inmueble.
+
+b) La Sociedad Gestora, con el consentimiento previo, motivado y escrito de la Sociedad de Tasación, podrá aplicar una oscilación de hasta un 3 por 100, al alza o la baja, sobre el valor de tasación. En ningún caso el valor resultante podrá superar el valor de mercado dado en la tasación.
+
+c) Dicho valor se mantendrá a los presentes efectos hasta una nueva tasación.
+
+4.**(Derogado)**
+
+5\. **(Derogado)**
+
+6\. Las peticiones de reembolso que se hagan según lo previsto en el número anterior deberán realizarse con un plazo de entre un mes y quince días de antelación a la fecha concreta establecida en el Reglamento del Fondo para determinar el valor liquidativo mensual aplicable a la operación. Las peticiones de suscripción podrán realizarse en cualquier momento anterior a dicha fecha; no obstante, la entrega de fondos se ajustará a las condiciones que se establezcan en el Reglamento de Gestión.
+
+El valor liquidativo que se aplicará a los referidos suscripciones y reembolso será el primero que se calcule con posterioridad a la solicitud de la operación.
+
+7\. El reembolso deberá efectuarse en el plazo máximo de cinco días a partir de la fecha de fijación mensual del valor liquidativo que sea de aplicación.
+
+Las suscripciones se materializarán al día siguiente de la fecha de fijación mensual del valor liquidativo que sea de aplicación.
+
+> Se derogan los apartados 4 y 5 por la disposición derogatoria única.2 del Real Decreto 845/1999, de 21 de mayo. [Ref. BOE-A-1999-12488](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-12488).
+
+#### Art. 20. Número mínimo de partícipes.
+
+1\. El número mínimo de partícipes será el previsto con carácter general en el artículo 15 del Reglamento de la Ley 46/1984, número que deberá ser alcanzado en el plazo de un año a contar desde la fecha de inscripción del Fondo en el Registro de la Comisión Nacional del Mercado de Valores.
+
+2\. **(Derogado)**
+
+> Se deroga el apartado 2 por la disposición derogatoria única.2 del Real Decreto 845/1999, de 21 de mayo. [Ref. BOE-A-1999-12488](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-12488).
+
+#### Art. 21. Comisiones y gastos.
+
+1\. Las Sociedades Gestoras podrán percibir de los Fondos una Comisión de gestión, como remuneración de sus servicios, que no podrá ser superior: Al 4 por 100 del patrimonio del Fondo o al 10 por 100 de sus resultados, si se calcula en función de éstos; o al 1,50 por 100 del patrimonio y el 5 por 100 de sus resultados, si se calcula en función de ambos.
+
+2\. La comisión de suscripción no podrá ser superior al 5 por 100 del precio de la participación.
+
+3\. La comisión de reembolso no podrá ser superior al 5 por 100 del precio de la participación.
+
+4\. Serán por cuenta del Fondo los gastos de tasación, los de reparaciones, rehabilitación y conservación de inmuebles, los que, vinculados a la adquisición y venta de inmuebles, deban abonarse a un tercero por la prestación de un servicio, y los demás contemplados en el Reglamento de Gestión.
+
+#### Art. 22. Especialidades en materia de modificación de Reglamentos de Gestión.
+
+1\. Las modificaciones del Reglamento de Gestión, una vez autorizadas, deberán ser publicadas en el «Boletín Oficial del Estado» y comunicadas por la Sociedad Gestora a los partícipes en el plazo de los diez días siguientes a la notificación de la autorización.
+
+2\. Cuando las modificaciones se refieran a los supuestos previstos en el número 2 del artículo 35 del Reglamento de la Ley 46/1984, el reembolso a que tienen derecho los partícipes tan sólo será automático en los supuestos de que aquél represente, como máximo, un 15 por 100 del total del activo del Fondo. A los efectos presentes, se considerará también modificación con derecho de reembolso el cambio de objeto del Fondo, cuando determine una modificación en el régimen fiscal.
+
+3\. En los supuestos que superen el porcentaje establecido en el número anterior, la Sociedad Gestora podrá solicitar a la Comisión Nacional del Mercado de Valores la suspensión provisional del reembolso, así como proponer las medidas posibles para hacer frente a la citada situación. Asimismo, se atenderán mediante prorrateo las solicitudes presentadas hasta el límite del 15 por 100 antes referido. No obstante, en los casos en que el reembolso solicitado alcanzara un importe total igual o superior al 50 por 100 del patrimonio del Fondo, éste podrá ser disuelto.
+
+4\. Los reembolsos regulados en el presente número deberán realizarse en el plazo de un mes desde la fecha de inscripción de las modificaciones en el Registro de la Comisión Nacional del Mercado de Valores.
+
+#### Art. 23. Régimen de auditorías, cuentas anuales y determinación y distribución de resultados.
+
+El régimen de auditoría, cuentas anuales y distribución de resultados será el previsto con carácter general en los artículos 44, 46 y 60 del Reglamento de la Ley 46/1984.
+
+#### Art. 24. Especialidades sobre disolución y liquidación del Fondo.
+
+1\. El régimen de disolución y liquidación de los Fondos de Inversión Inmobiliaria será el previsto con carácter general en el artículo 47 del Reglamento de la Ley 46/1984, de 26 de diciembre, con las particularidades recogidas en los números siguientes. Las reglas de diversificación previstas en el artículo 4.º de la presente Orden no se aplicarán durante este período.
+
+2\. La enajenación de los bienes inmuebles, en el caso de disolución del Fondo, se realizará previa tasación de los mismos.
+
+3\. **(Derogado)**
+
+> Se deroga el apartado 3 por la disposición derogatoria única del Real Decreto 749/2010, de 7 de junio. [Ref. BOE-A-2010-9101](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9101).
+
+## CAPÍTULO IV — Sociedades Gestoras de Instituciones de Inversión Colectiva Inmobiliarias
+
+#### Art. 25. Régimen de las Sociedades Gestoras.
+
+1\. El régimen y funciones de las Sociedades Gestoras de Instituciones de Inversión Colectiva Inmobiliarias se ajustará al general previsto en el capítulo III del Títuto primero del Reglamento de la Ley 46/1984, con las especificaciones que se establecen en los números siguientes.
+
+2\. Las Sociedades Gestoras de Instituciones de Inversión Colectiva que pretendan gestionar Instituciones de Inversión Colectiva Inmobiliarias deberán contar en su Consejo de Administración y entre sus directivos o asimilados con personas con conocimiento y experiencia en mercados financieros y mercados inmobiliarios.
+
+El total de los miembros con experiencia en alguno de los mercados citados deberá constituir mayoría en el Consejo de Administración.
+
+A tales efectos, se entenderá que poseen conocimiento y experiencia adecuada en relación con los mercados inmobiliarios quienes hayan desempeñado durante un plazo no inferior a dos años funciones de alta dirección, administración o asesoramiento de Entidades financieras vinculadas con el sector inmobiliario, o funciones relacionadas con el mercado inmobiliario en otras Entidades públicas o privadas.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 248, de 1993. [Ref. BOE-A-1993-24978](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-24978).
+
+#### Art. 26. Funciones de la Sociedad Gestora.
+
+Además de las funciones atribuidas en el artículo 54 del Reglamento de la Ley 46/1984, las Sociedades Gestoras de Fondos de Inversión Inmobiliaria tendrán las siguientes funciones:
+
+a) Selección, adquisición y venta de los bienes inmuebles que integren el patrimonio del Fondo.
+
+b) Contratar toda clase de servicios vinculados con los bienes inmuebles.
+
+c) Administrar los inmuebles.
+
+d) Ejercer como representante del Fondo todos los derechos que la legislación vigente conceda al propietario, de los bienes inmuebles que integran el patrimonio del Fondo.
+
+e) La contratación, formalización, modificación y cancelación de créditos con garantía hipotecaria.
+
+f) Designar, con arreglo a lo establecido en el Reglamento de Gestión, la Sociedad de Tasación que realizará la valoración de los bienes inmuebles del Fondo.
+
+g) Conservación, mejora y asesoramiento de los bienes inmuebles del Fondo.
+
+h) La comercialización de las participaciones.
+
+i) Custodia de los documentos públicos o privados, representativos de los derechos sobre los bienes inmuebles del Fondo.
+
+j) En general, cualquier actividad de administración y disposición de bienes y derechos del Fondo dirigida a lograr un aumento del valor del patrimonio y que resulte conforme con la normativa reguladora.
+
+k) Concertar con terceros, mediante el correspondiente contrato de arrendamiento de obra, la rehabilitación de bienes inmuebles. Dicho tercero no podrá ser una Entidad del grupo de la Sociedad Gestora, conforme al concepto de grupo del artículo 4.º de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+
+## CAPÍTULO V — De las Sociedades de Tasación
+
+#### Art. 27. Funciones.
+
+La valoración de los bienes inmuebles que integran el patrimonio de las Sociedades de Inversión Inmobiliaria y de los Fondos de Inversión Inmobiliaria se realizará por las Sociedades especializadas inscritas en el Registro especial del Banco de España.
+
+Las Sociedades de Tasación que pretendan valorar inmuebles pertenecientes a las Instituciones de Inversión Inmobiliaria lo comunicarán a la Comisión Nacional del Mercado de Valores, debiendo suministrar a este Organismo cualquier información relativa a su actividad tasadora que les sea solicitada.
+
+#### Art. 28. Designación.
+
+1\. Las Sociedades Gestoras de los Fondos de Inversión Inmobiliaria y las Sociedades de Inversión Inmobiliaria designarán la Sociedad de Tasación que realizará las valoraciones previstas en la presente Orden por un plazo no inferior a tres años, ni superior a nueve.
+
+2\. La Sociedad Gestora no podrá designar como Sociedad de Tasación aquella que se encuentre en alguno de los siguientes supuestos:
+
+a) Que pertenezca al mismo grupo que la Gestora, conforme al artículo 4.º de la Ley 24/1988, del Mercado de Valores.
+
+b) Que las retribuciones obtenidas anualmente de la Gestora supongan más del 15 por 100 de los ingresos totales por servicios de valoración de la Sociedad de Tasación.
+
+3\. Previa autorización de la Comisión Nacional del Mercado de Valores, por causa justificada, podrá ser cambiada la Sociedad de Tasación antes de que transcurra el plazo fijado en el apartado 1 de este artículo.
+
+4\. Los cambios de Sociedad de Tasación deberán ser comunicados a la Comisión Nacional del Mercado de Valores.
+
+## CAPÍTULO VI — De los depositarios
+
+> Se deroga por la disposición derogatoria única de la Orden EHA/596/2008, de 5 de marzo. [Ref. BOE-A-2008-4399](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-4399).
+
+#### Art. 29. Disposiciones generales.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden EHA/596/2008, de 5 de marzo. [Ref. BOE-A-2008-4399](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-4399).
+
+#### Disposición adicional.
+
+1\. Anualmente, la Dirección General del Tesoro y Política Financiera, previo informe de los Organismos supervisores interesados, establecerá los tipos máximos y mínimos de capitalización que deban aplicarse para realizar las valoraciones a que se refiere el artículo 17 de la presente Orden.
+
+2\. Las acciones y participaciones de las Sociedades de Inversión Inmobiliaria y de los Fondos de Inversión Inmobiliaria, respectivamente, se considerarán activos aptos para la inversión de las provisiones técnicas de las Entidades aseguradoras sometidas al ámbito de aplicación de la Ley 33/1984, de 2 de agosto, sobre Ordenación del Seguro Privado.
+
+3\. Las actuales Sociedades Gestoras de Instituciones de Inversión Colectiva que pretendan promover o gestionar Fondos de Inversión Inmobiliaria deberán adaptarse al régimen previsto en la presente Orden, con carácter previo al inicio de las citadas actividades. Para ello presentarán ante la Comisión Nacional del Mercado de Valores una declaración de actividades que refleje su intención de gestionar Sociedades de Inversión Inmobiliaria y Fondos de Inversión Inmobiliaria, acompañada de una memoria justificativa de su capacidad para gestionar este tipo de Instituciones.
+
+La solicitud se entenderá denegada una vez transcurridos tres meses de la solicitud, o desde que se complete adecuadamente la documentación requerida.
+
+#### Disposición final.
+
+Sin perjuicio de las habilitaciones específicas contenidas en esta Orden, se habilita con carácter general a la Comisión Nacional del Mercado de Valores para dictar cuantas disposiciones sean necesarias para su desarrollo.
+
+Madrid, 24 de septiembre de 1993.
+
+SOLBES MIRA
+
+Ilmos. Sres. Director general del Tesoro y Política Financiera y Presidente de la Comisión Nacional del Mercado de Valores.

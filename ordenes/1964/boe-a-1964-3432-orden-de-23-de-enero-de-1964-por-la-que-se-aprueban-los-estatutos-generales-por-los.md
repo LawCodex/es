@@ -1,0 +1,705 @@
+---
+title: "Orden de 23 de enero de 1964 por la que se aprueban los Estatutos Generales por los que ha de regirse el Colegio Nacional de Ingenieros procedentes del Instituto Católico de Artes e Industrias"
+identifier: "BOE-A-1964-3432"
+eli: "https://www.boe.es/eli/es/o/1964/01/23/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria"
+date: 1964-01-23
+published: 1964-02-06
+in_force_from: 1964-02-26
+last_amended: 2003-09-02
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 32"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1964-3432"
+retrieved: 2026-10-11
+---
+
+# Orden de 23 de enero de 1964 por la que se aprueban los Estatutos Generales por los que ha de regirse el Colegio Nacional de Ingenieros procedentes del Instituto Católico de Artes e Industrias
+
+Ilmo. Sr.: En cumplimiento de lo dispuesto en el artículo segundo del Decreto número 679/1963, de 4 de abril («Boletín Oficial del Estado» del 6 de dicho mes), por el que se crea el Colegio Nacional de Ingenieros procedentes del Instituto Católico de Artes e Industrias, y vista la propuesta de Estatutos Generales que eleva a este Ministerio la Junta Provisional de Gobierno del citado Colegio,
+
+Este Ministerio ha tenido a bien aprobar los adjuntos Estatutos Generales por los que ha de regirse el Colegio Nacional de Ingenieros procedentes del Instituto Católico de Artes e Industrias.
+
+Lo que digo a V. I. para su conocimiento y efectos.
+
+Dios guarde a V. I. muchos años.
+
+Madrid, 23 de enero de 1964.−P. D., Angel de las Cuevas.
+
+Ilmo. Sr. Subsecretario de Industria.
+
+## ESTATUTOS GENERALES DEL COLEGIO NACIONAL DE INGENIEROS DEL INSTITUTO CATOLICO DE ARTES E INDUSTRIAS
+
+## TITULO I — Disposiciones generales
+
+### CAPÍTULO ÚNICO
+
+##### Artículo 1.
+
+El Colegio Nacional de Ingenieros del Instituto Católico de Artes e Industrias, constituido por el Decreto número 679/1963, de fecha 4 de abril («Boletín Oficial del Estado» del 6 de abril de 1963), es en consecuencia una Corporación de derecho público, con personalidad jurídica propia, que gozará a todos los efectos civiles del rango y derechos que le corresponden como tal Corporación.
+
+##### Artículo 2.
+
+Este Colegio agrupa obligatoriamente a los Ingenieros que, habiendo cursado sus estudios en el Instituto Católico de Artes e Industrias (I. C. A. I.), posean el título correspondiente, expedido por el Ministerio de Educación y Ciencia, y que ejerzan la profesión tanto a los de ejercicio libre como a los que dependan de empresa/s o dirijan industria/s o nego- cio/s industrial/es.
+
+> Se modifica por la Orden de 8 de julio de 1968. [Ref. BOE-A-1968-826](https://www.boe.es/buscar/doc.php?id=BOE-A-1968-826)
+
+##### Artículo 3.
+
+El domicilio social del Colegio Nacional de Ingenieros del Instituto Católico de Artes e Industrias radicará en Madrid, aunque podrá trasladar su domicilio a cualquier otra capital del territorio nacional.
+
+Cuando las circunstancias o el número de los colegiados lo aconsejen, el Colegio podrá crear delegaciones regionales o provinciales, con domicilio en las poblaciones que al efecto elija; asimismo podrá nombrar colegiados corresponsales en el extranjero. Las funciones de las delegaciones o corresponsalías citadas serán especificadas en cada caso de acuerdo con estos Estatutos y las instrucciones, normas, etc. que oportunamente dictase el Colegio.
+
+##### Artículo 4.
+
+El Colegio Nacional de Ingenieros procedentes del Instituto Católico de Artes e Industrias (ICAI) se relacionará con el departamento ministerial competente de la Administración General del Estado, sin perjuicio de las relaciones que mantenga con las Administraciones de las comunidades autónomas a través del cauce que éstas determinen.
+
+> Se modifica por el apartado 1 del Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 5.
+
+Este Colegio escoge como Patrono a San Fructuoso, santo español del siglo III, cuya festividad, el 16 de abril, será solemnizada con actos religiosos y profesionales.
+
+## TITULO II
+
+### CAPÍTULO ÚNICO
+
+##### Artículo 6.
+
+El Colegio tiene como fines esenciales la ordenación del ejercicio de la profesión, la representación de ésta y la defensa de los intereses profesionales de los colegiados.
+
+> Se modifica por el apartado 2 del Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 7.
+
+1\. Para la consecución de los fines previstos en el artículo anterior, el colegio desempeña, al amparo de la vigente legislación sobre colegios profesionales, las siguientes funciones.
+
+2\. Son funciones de ordenación del ejercicio y actividad profesional de los colegiados:
+
+a) El registro de todos sus miembros, para lo que llevarán al día una relación en la que conste, como mínimo, el testimonio auténtico del título, la fecha de alta, el domicilio profesional y de residencia. El colegio facilitará a los órganos jurisdiccionales y a las Administraciones públicas, de conformidad con las leyes, la relación de colegiados que pudieran ser requeridos para intervenir como peritos o designarlos directamente.
+
+b) Velar para que la actividad profesional de los colegiados se someta, en todo caso, a la ética y dignidad de la profesión y al debido respeto a los derechos de los particulares. Para el cumplimiento de esta función esencial, el colegio podrá aprobar normas deontológicas, que habrán de ajustarse a estos estatutos, que rijan la actividad profesional de sus colegiados.
+
+c) El ejercicio, en el orden profesional y colegial, de la potestad disciplinaria sobre los colegiados que incumplan las prescripciones legales o deontológicas.
+
+d) Cumplir y hacer cumplir a los colegiados las leyes generales y especiales y los estatutos colegiales, así como todas las normas y decisiones acordadas por los órganos colegiales.
+
+e) La adopción de las medidas conducentes a la evitación del intrusismo profesional.
+
+f) Establecer, con carácter meramente orientativo, baremos de honorarios.
+
+g) Visar los trabajos profesionales, de conformidad con lo dispuesto en el título XI de estos estatutos.
+
+h) Mediar, en vía de conciliación o arbitraje, en las cuestiones que, por motivos profesionales, se susciten entre los colegiados.
+
+3\. El colegio ejerce las siguientes funciones de representación y defensa de la profesión y de sus colegiados:
+
+a) Ostenta, en su ámbito, la representación y defensa de la profesión ante las Administraciones públicas, los tribunales y demás poderes públicos, así como ante cualesquiera instituciones, entidades y particulares.
+
+b) Actuar ante los jueces y tribunales en cuantos litigios afecten a los intereses profesionales, con la legitimación que la ley les otorga, y hacerlo en representación de sus miembros.
+
+c) Informar en los procedimientos, administrativos o judiciales, en que se discutan cualesquiera cuestiones profesionales, cuando sean requeridos para ello o cuando se prevea su intervención con arreglo a la legislación vigente.
+
+d) Informar los proyectos de disposiciones normativas que regulen o afecten directamente las condiciones generales de las funciones profesionales.
+
+e) Cooperar al mejoramiento de la enseñanza e investigación de la profesión, para lo que podrán colaborar con instituciones científicas, educativas o culturales y, en particular, con la Universidad Pontificia Comillas, mediante los convenios que el colegio pueda suscribir con ésta.
+
+f) Cuantas otras funciones redunden en beneficio de los intereses profesionales de los colegiados.
+
+4\. El colegio podrá ofrecer a sus colegiados, de acuerdo con las condiciones que crean más convenientes, y entre otros, los servicios siguientes:
+
+a) Gestionar el cobro de los honorarios profesionales, en los términos y condiciones señalados en el artículo 51 de los estatutos.
+
+b) Resolver, por laudo, con arreglo a la legislación vigente sobre arbitrajes, los conflictos y discrepancias que puedan surgir entre colegiados y clientes sobre el cumplimiento de las obligaciones dimanantes de los trabajos realizados por aquéllos en el ejercicio profesional.
+
+c) Organizar actividades y servicios de interés para los colegiados de índole profesional, formativo, cultural, asistencial, de previsión y otros análogos; o colaborar, en su caso, con instituciones de este carácter.
+
+d) Asesorar a sus colegiados y promover cursos de formación y especialización.
+
+5\. El colegio, en el ejercicio de su potestad de autoorganización interna, ejercerá las siguientes funciones:
+
+a) Aprobar y ejecutar sus presupuestos.
+
+b) Aprobar el reglamento de régimen Interno en desarrollo y con sujeción a estos estatutos.
+
+> Se modifica por el apartado 3 del Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+## TITULO III
+
+### CAPÍTULO ÚNICO
+
+#### Sección 1.ª
+
+##### Artículo 8.
+
+Constituyen los recursos económicos ordinarios del Colegio los que a continuación se enumeran:
+
+1\. Los intereses, rentas, pensiones o valores de toda especie que produzcan los bienes que integren el capital del Colegio.
+
+2\. Los derechos de incorporación al Colegio.
+
+3\. El importe de las cuotas mensuales ordinarias de colegiado que el Colegio fije.
+
+4\. Las percepciones derivadas del ejercicio del servicio de visado o de otras funciones encomendadas al colegio por disposiciones legales o reglamentarias. El cobro por servicios que sean de uso obligatorio en virtud de los estatutos deberá hacerse con arreglo a las condiciones aprobadas por la Junta General, a propuesta de la Junta de Gobierno.
+
+5\. Los derechos que corresponda percibir al colegio por dictámenes, informes, tasaciones, valoraciones, arbitrajes, laudos, presupuestos, expedición de documentos, certificaciones, impresos, actas, etc.
+
+6\. Los beneficios que obtuviere por publicaciones.
+
+> Se modifican los apartdos 4 y 5 y se suprime el último párrafo por los apartados 4 y 5 del Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+> Se modifica por la Orden de 8 de julio de 1968. [Ref. BOE-A-1968-826](https://www.boe.es/buscar/doc.php?id=BOE-A-1968-826)
+
+#### Sección 2.ª
+
+##### Artículo 9. Recursos extraordinarios.
+
+Constituyen recursos extraordinarios del Colegio los siguientes:
+
+1) Las subvenciones, donativos, legados, pensiones, etc., que se le concedan por el Estado, Corporaciones oficiales, particulares o cualquier otra persona jurídica o natural.
+
+2) Los bienes muebles o inmuebles que por cualquier causa o título adquiera el Colegio.
+
+3) Las cuotas extraordinarias.
+
+4) Las cantidades o bienes que por cualquier otro concepto de los señalados anteriormente le corresponda o pueda recibir el Colegio.
+
+La percepción de los recursos extraordinarios deberá ser ratificada por la Junta General de Colegio.
+
+##### Artículo 10.
+
+Todos los recursos, tanto ordinarios como extraordinarios, deben ser empleados en los fines del Colegio que señalan los presentes Estatutos.
+
+El régimen económico del colegio es presupuestario. El presupuesto será único y comprenderá la totalidad de ingresos, gastos e inversiones del colegio, e irá referido a un año natural. En cada presupuesto se cifrarán con la suficiente especificación los gastos previstos en función del programa de actividades colegial que se vaya a desarrollar, así como los ingresos que se prevea devengar durante el correspondiente ejercicio.
+
+> Se añade el último párrafo por el apartado 6 del Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+## TITULO IV
+
+### CAPÍTULO I — Colegiados
+
+#### Sección única
+
+##### Artículo 11. Altas y bajas de colegiados.
+
+Los que solicitasen incorporarse al Colegio Nacional de Ingenieros del Instituto Católico de Artes e Industrias habrán de acreditar ser mayores de edad, presentar el título de Ingeniero del ICAI en cualquiera de sus especialidades expedido por el Ministerio de Educación, Cultura y Deporte o, en su defecto, un testimonio notarial de aquél o del recibo acreditativo de haber satisfecho los derechos para obtenerlo y no estar suspendido en el ejercicio de la profesión.
+
+> Se modifica por el apartado 7 del Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 12.
+
+Los Colegiados perderán esta condición por cualquiera de las siguientes causas:
+
+1\. A petición propia, por cesar en el ejercicio de la profesión, siempre y cuando en ese momento no estén sometidos a expediente disciplinario.
+
+2\. Por impago de tres cuotas colegiales, previo apercibimiento al colegiado moroso.
+
+3\. Por haber sido expulsado del colegio, previo expediente disciplinario incoado al efecto.
+
+4\. Por sanción disciplinaria del Colegio.
+
+> Se modifican los apartados 2 y 3 por el apartado 8 del Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+> Se modifica por la Orden de 8 de julio de 1968. [Ref. BOE-A-1968-826](https://www.boe.es/buscar/doc.php?id=BOE-A-1968-826)
+
+### CAPÍTULO II — Derechos y obligaciones de los Colegiados
+
+#### Sección 1.ª
+
+##### Artículo 13.
+
+Son obligaciones de los colegiados las que se especifican a continuación:
+
+1) Cumplir estrictamente cuantas prescripciones contienen estos Estatutos y el Reglamento que los desarrolle, así como los acuerdos que el Colegio adopte.
+
+2) Asistir y participar en los actos corporativos cuando residen en el lugar en que se celebren y, en otro caso, otorgar su representación a los mismos efectos.
+
+3) Aceptar sin excusa, y desempeñar diligentemente, los cargos del Colegio para los que éste les eligiere, así como las comisiones, cometidos y representaciones que el mismo les encomiende.
+
+4) Comparecer en el Colegio cuando fueran requeridos para ello, salvo imposibilidad justificada, de la que se avisará con la antelación suficiente.
+
+5) Pagar, dentro de plazo, las cuotas, derechos y tasas de toda índole legalmente aprobadas por el Colegio
+
+6) **(Suprimido)**
+
+7) Participar al colegio, dentro del plazo de 30 días hábiles siguientes, los cambios de residencia y domicilio.
+
+8) Cooperar en el Colegio, con sugerencias, iniciativas, informaciones, estudios, etc., de orden profesional que puedan repercutir en beneficio del Colegio y de la profesión.
+
+9) Actuar con caridad, moralidad y altura de miras en las actividades profesionales y en la vida de relación con los demás, sean superiores, iguales o inferiores.
+
+10) Cumplir los deberes de disciplina, orden y armonía profesional, respecto de los órganos rectores del Colegio y de los Colegiados.
+
+> Se suprime el apartado 6 y se modifica el 7 por el apartado 9 del Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+#### Sección 2.ª
+
+##### Artículo 14.
+
+Los colegiados disfrutarán de los siguientes derechos:
+
+1) Participar en el uso y disfrute de los bienes comunes del Colegio y de los servicios que éste tenga establecidos, siempre que con ello no perjudique los derechos de los demás.
+
+2) Tomar parte en las votaciones o deliberaciones, que estos Estatutos y su Reglamento prevengan, para la elección de los colegiados que hayan de desempeñar el órgano rector del Colegio, y censurar las cuentas y, en general, conocer la marcha del Colegio.
+
+3) Idem, ídem, para adoptar acuerdos sobre las actividades y modo de actuar del Colegio.
+
+4) Presentar su candidatura para cubrir cargo rector del Colegio, siempre que ésta vaya avalada por su Decano y por diez Colegiados, como mínimo.
+
+5) Llevar a cabo la formulación de dictámenes, emisión de informes o estudios, o cualquier otro trabajo que sea solicitado del Colegio, por organismos, entidades o personas de cualquier clase, y que les corresponda por turno previamente establecido.
+
+6) Poner en conocimiento del Colegio todos los hechos que puedan afectar a la profesión, particular o colectivamente, y que puedan determinar su intervención.
+
+7) Recabar el amparo e intervención del Colegio, cuando consideren lesionados o menoscabados los derechos o intereses del propio Colegio.
+
+8) Ser apoyados por el Colegio ante las autoridades, entidades o personas, cuando se trate de justas reclamaciones motivadas por diferencias que surjan con ocasión del ejercicio profesional, llegando a ser representados por el Colegio, incluso ante los Tribunales de Justicia, si fuere necesario.
+
+9) Asistir al domicilio social y a cuantos actos de carácter general se organicen por el Colegio o en los que éste participe: conferencias, coloquios, solemnidades profesionales, congresos, asambleas, etc., etc.; y participar en la labor cultural, informativa y de relaciones públicas y humanas.
+
+10) Ser informado sobre la actuación funcional y social del Colegio.
+
+11) Ostentar el emblema y usar el uniforme adoptado por el Colegio y utilizar el carnet de colegiado.
+
+12) Preferencia para optar a plazas técnicas o administrativas en las oficinas del Colegio.
+
+## TITULO V
+
+### CAPÍTULO ÚNICO — Organización del Colegio
+
+#### Sección 1.ª
+
+##### Artículo 15.
+
+El Colegio Nacional de Ingenieros del ICAI se estructura de conformidad con el siguiente organigrama básico: Junta General, Junta de Gobierno y Decano del colegio.
+
+En desarrollo de las previsiones del estatuto, la Junta General del colegio aprobará un reglamento de régimen interno, que será elaborado por la Junta de Gobierno.
+
+> Se modifica por el apartado 10 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+#### Sección 2.ª Organos del Colegio
+
+##### Artículo 16.
+
+1\. La Junta de Gobierno es el órgano encargado de la dirección, gobierno y administración del colegio, así como de la ejecución de los acuerdos de la Junta General, con sujeción a lo establecido en estos estatutos.
+
+2\. La Junta de Gobierno estará formada por el Decano, el Vicedecano primero, el Vicedecano segundo, el Secretario, el Tesorero y demás vocales en el número que se estime conveniente, según lo dispuesto en el reglamento de régimen interno.
+
+3\. Para formar parte de la Junta de Gobierno es necesario estar en el ejercicio de la profesión, hallarse al corriente de sus obligaciones con el colegio y no estar incurso en prohibición o incapacidad legal. Asimismo, para el cargo de Decano es necesario una pertenencia al colegio de cinco años consecutivos; para los cargos de Vicedecano primero, Vicedecano segundo, Secretario, y Tesorero, es suficiente tres años consecutivos de colegiación.
+
+4\. El desempeño de los cargos de la Junta de Gobierno será honorífico, y no podrá percibirse remuneración alguna por su ejercicio; no obstante, la Junta de Gobierno podrá acordar, si las circunstancias lo aconsejaran, la concesión de dietas o indemnizaciones a los miembros que, durante su mandato, tuvieran una dedicación continuada a la gestión de los asuntos colegiales.
+
+5\. La dedicación a los cargos colegiales constituye una obligación colegial. La inasistencia durante tres reuniones consecutivas de la Junta de Gobierno o cinco en un período de dos años, sin causa justificada, constituye motivo de cese en el ejercicio del cargo, que será declarada por la propia Junta de Gobierno.
+
+> Se modifica por el apartado 10 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+> Se modifica por la Orden de 8 de julio de 1968. [Ref. BOE-A-1968-826](https://www.boe.es/buscar/doc.php?id=BOE-A-1968-826)
+
+##### Artículo 17.
+
+La Junta de Gobierno creará y organizará las Delegaciones provinciales y regionales que estime convenientes, según autoriza el artículo tercero de estos Estatutos.
+
+Al frente de cada delegación territorial del colegio se encontrará un Delegado Territorial que será elegido democráticamente por todos los colegiados residentes en el ámbito de demarcación de la delegación. El Delegado Territorial actuará de enlace entre la Junta de Gobierno y los colegiados de su ámbito territorial, y tiene como funciones principales la de representar al colegio ante las Administraciones públicas radicadas en el territorio de la delegación, gestionar los asuntos de ámbito local o autonómico que le sean encomendados por la Junta de Gobierno y velar por el cumplimiento de los cometidos corporativos y de estos estatutos.
+
+> Se añade el último párrafo por el apartado 11 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 18.
+
+Son atribuciones fundamentales de la Junta de Gobierno, la dirección y administración del Colegio para el cumplimiento de sus fines, en aquello que de manera expresa no corresponda a las Juntas generales.
+
+De modo especial, corresponde a la Junta de Gobierno:
+
+1) La representación judicial y extrajudicial del Colegio con facultades para otorgar poderes y delegar las facultades que estime oportunas.
+
+2) La dirección y vigilancia del cumplimiento de estos Estatutos y de los fines del Colegio.
+
+3) **(Suprimido)**
+
+4) La designación de las personas, comisiones y ponencias que hayan de encargarse de formular dictámenes, emitir informes, hacer estudios, realizar actuaciones, representar al Colegio, etc.
+
+5) Llevar la lista de los colegiados con el turno riguroso a efecto de las actuaciones anteriormente citadas que se le pidan al Colegio.
+
+6) Llevar las cuentas del Colegio y formular los oportunos presupuestos.
+
+7) Acordar la admisión de nuevos colegiados.
+
+8) Preparar las Juntas generales y ejecutar los acuerdos de las mismas.
+
+9) Tramitar los expedientes disciplinarios e imponer las sanciones que corresponda.
+
+10) Proponer a la Junta general correspondiente, la disolución del Colegio, sin perjuicio de los facultades soberanas que pueda tener la Junta general.
+
+Las funciones antes señaladas no son limitativas y, por lo tanto, la Junta de Gobierno podrá realizar cualquiera otra semejante.
+
+> Se suprime el apartado 3 por el apartado 12 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 19.
+
+1\. La Junta de Gobierno será elegida en Junta General por todos los colegiados que tengan derecho a voto. Tienen la condición de electores todos los colegiados que, habiéndose incorporado al colegio, no se encuentren suspendidos en sus derechos.
+
+2\. El voto es directo y secreto y se podrá ejercitar personalmente, por correo o por procedimientos informatizados.
+
+3\. La votación por correo puede realizarse a través del servicio postal, y requiere, en todo caso, que quede constancia del envío, se acredite la identidad del votante, se garantice el secreto del voto y que éste sea recibido por la mesa electoral antes del comienzo de la votación. Todo elector podrá revocar su voto por correo compareciendo a votar personalmente; en tal caso, el sobre será destruido en el mismo acto y en su presencia.
+
+4\. Cuando el colegio tenga los servicios informáticos adecuados, el voto podrá también emitirse a través de correo electrónico o mecanismos informatizados análogos, de acuerdo con el procedimiento que se desarrolle, que deberá garantizar en todo caso el carácter secreto y la autenticidad del voto emitido.
+
+> Se modifica por el apartado 13 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 20.
+
+El Decano ostenta la presidencia de la Junta de Gobierno y de las Juntas Generales. Señalará el orden del día de las reuniones de la Junta de Gobierno. En caso de empate, el voto del Decano tiene valor doble. El Vicedecano primero sustituirá al Decano en caso de ausencia, enfermedad, vacante u otra causa legal.
+
+> Se modifica por el apartado 14 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 21.
+
+El Decano autorizará, con su firma, la ejecución y cumplimiento de los acuerdos del Colegio y ordenará los pagos.
+
+##### Artículo 22.
+
+El reglamento de régimen interno del colegio determinará las funciones propias del Secretario y del Tesorero del colegio.
+
+> Se modifica por el apartado 15 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 23.
+
+La Junta de Gobierno además de actuar en Pleno, podrá hacerlo por delegación, en una Comisión Ejecutiva, que está constituida por el Decano, el Vicedano primero, el Vicedecano segundo, el Secretario y el Tesorero.
+
+La Comisión Ejecutiva será presidida por el Decano, y actuará como Secretario el de la Junta de Gobierno. El reglamento de régimen interno determinará las condiciones de actuación de la Comisión Ejecutiva.
+
+> Se modifica por el apartado 16 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+#### Sección 3.ª De las Juntas generales
+
+##### Artículo 24.
+
+Los colegiados constituidos en Junta general debidamente convocada, decidirán, por mayoría, sobre los asuntos propios de la competencia de la Junta.
+
+Las Juntas generales podrán ser ordinarias y extraordinarias y habrán de ser convocadas por la Junta de Gobierno.
+
+Todos los colegiados, incluso los disidentes y los que no hayan participado en la reunión, quedan sometidos a los acuerdos de la Junta general.
+
+##### Artículo 25.
+
+Corresponde a la Junta General:
+
+a) La aprobación del reglamento de régimen interno del colegio, así como la propuesta de modificación de estos estatutos generales.
+
+b) La aprobación de las cuentas anuales, de la memoria, del presupuesto y de la gestión de la Junta de Gobierno.
+
+c) La aprobación de la creación de nuevos servicios colegiales, a propuesta de la Junta de Gobierno.
+
+d) La aprobación de las normas generales ordenadoras del ejercicio de la profesión.
+
+e) La elección de los cargos de Junta de Gobierno.
+
+> Se modifica por el apartado 17 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 26.
+
+La Junta General se reunirá con carácter ordinario dentro de los seis primeros meses de cada año. Esta Junta General conocerá, necesariamente, y como mínimo, de la aprobación de las cuentas anuales, de la memoria, del presupuesto y de la gestión de la Junta de Gobierno.
+
+> Se modifica por el apartado 18 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+> Se modifica por la Orden de 8 de julio de 1968. [Ref. BOE-A-1968-826](https://www.boe.es/buscar/doc.php?id=BOE-A-1968-826)
+
+##### Artículo 27.
+
+La Junta general ordinaria quedará válidamente constituida, en primera convocatoria, cuando concurra a ella la mayoría de los colegiados. En segunda convocatoria, que puede ser el mismo día, será válida la constitución de la misma, cualquiera que sea el número de colegiados concurrentes.
+
+##### Artículo 28.
+
+Con carácter extraordinario, podrá convocarse Junta General, que podrá conocer de los asuntos señalados en el artículo 25, exceptuados los determinados en el apartado 2 por ser de competencia de la Junta General ordinaria, y cuantos otros se estimen oportunos, a propuesta de la Junta de Gobierno o del número y porcentaje de colegiados que se precisan en el artículo 30 de estos estatutos.
+
+> Se modifica por el apartado 19 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 29.
+
+La convocatoria será acordada por la Junta de Gobierno la cual fijará el orden del día. La convocatoria se notificará a los colegiados, por escrito, con al menos 15 días naturales de anticipación a la fecha fijada para su celebración. Podrá igualmente notificarse mediante procedimientos telemáticos, siempre que el colegiado haya señalado dicho medio como preferente o hubiera consentido expresamente su utilización e identificado, además, la dirección electrónica correspondiente. En la convocatoria se señalará el lugar, día y hora en que la Junta ha de tener lugar. Actuarán como Presidente y Secretario de la Junta General el Decano y Secretario del colegio, respectivamente.
+
+> Se modifica por el apartado 20 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 30.
+
+La Junta de Gobierno podrá convocar Junta General de carácter extraordinario, a iniciativa propia o a petición de un número de colegiados superior al 10 por ciento, siempre que este número no sea inferior a 50 colegiados, y manifiesten el motivo de la petición. En estos dos últimos supuestos la Junta General extraordinaria habrá de celebrarse antes de transcurrir un mes del acuerdo de la Junta de Gobierno o dos meses de la fecha de presentación de la petición de los colegiados. La convocatoria se notificará a todos los colegiados de la misma forma que se establece para la Junta General ordinaria.
+
+> Se modifica por el apartado 21 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 31.
+
+La representación y voto, tanto para las Juntas generales ordinarias como para las extraordinarias, puede ser delegada en otro colegiado, en comunicación dirigida a la Junta de Gobierno.
+
+Con objeto de que la aprobación del acta de la Junta General no se demore hasta la próxima reunión, se adoptarán las siguientes disposiciones: en el plazo de 15 días siguientes a la reunión, el Secretario confeccionará un borrador de acta que someterá a la aprobación y firma del Decano y Secretario del colegio y de dos colegiados designados por la Junta General de entre sus asistentes. Obtenida la conformidad a la redacción, el Secretario hará constar su aprobación en el libro de actas. El acta habrá de ser ratificada en la próxima Junta General.
+
+> Se añade el último párrafo por el apartado 22 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+## TITULO VI — De la jurisdicción disciplinaria
+
+### CAPÍTULO ÚNICO
+
+#### Sección 1.ª
+
+##### Artículo 32.
+
+El colegio sancionará disciplinariamente las infracciones tipificadas en el artículo siguiente.
+
+> Se modifica por el apartado 23 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+#### Sección 2.ª
+
+##### Artículo 33.
+
+1\. Constituyen faltas muy graves:
+
+a) El falseamiento, con intencionalidad manifiesta, de la documentación profesional exigida por el colegio para el control profesional preceptivo.
+
+b) El impago de tres cuotas colegiales, previo apercibimiento, por el colegiado obligado a ello.
+
+2\. Son faltas graves:
+
+a) La realización de trabajos o intervenciones profesionales que por su índole atenten o desmerezcan el prestigio de la profesión.
+
+b) El encubrimiento del intrusismo profesional, o la colaboración al ejercicio de actividades propias de la profesión por quien no reúna la debida aptitud legal para ello.
+
+c) La realización de trabajos profesionales con omisión del preceptivo visado colegial.
+
+d) La ocultación o simulación de datos que el colegio debe conocer para ejercitar sus funciones de control profesional o para el reparto equitativo de las cargas colegiales.
+
+3\. Son faltas leves:
+
+a) La desconsideración ofensiva hacia los compañeros en el ejercicio de la profesión.
+
+b) Los actos de desconsideración hacia los componentes de la Junta de Gobierno, con ocasión de actos colegiales o en el ejercicio de sus funciones.
+
+> Se modifica por el apartado 23 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 34.
+
+1\. El colegio podrá imponer las siguientes sanciones:
+
+a) Amonestación privada.
+
+b) Apercibimiento por escrito, con anotación en el expediente personal.
+
+c) Reprensión publicada en el boletín o circular informativa colegial.
+
+d) Suspensión de la condición de colegiado, con prohibición del ejercicio profesional, por un plazo no superior a tres meses.
+
+e) Suspensión de la condición de colegiado, con prohibición del ejercicio profesional, por un plazo superior a tres meses e inferior a un año.
+
+f) Expulsión del colegio.
+
+2\. A las infracciones leves corresponderán las sanciones a) o b). A las infracciones graves, las sanciones c) o d). Y a la muy grave, las sanciones e) o f).
+
+3\. Para la graduación de las sanciones imponibles se tendrá en consideración la concurrencia de las siguientes circunstancias: intencionalidad manifiesta; negligencia profesional inexcusable; desobediencia reiterada a acuerdos colegiales; daño o perjuicio grave al cliente o a terceros; obtención de lucro ilegítimo merced a la actuación ilícita; hallarse en el ejercicio de cargo público o colegial al cometer la infracción, cuando exista prevalimiento de esta condición, y haber sido sancionado anteriormente, por resolución colegial firme no cancelada, a causa de una infracción grave.
+
+> Se modifica por el apartado 23 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 35.
+
+Las infracciones prescribirán: a los seis meses, las leves; al año, las graves, y a los dos años, las muy graves.
+
+Las sanciones prescriben: las leves, a los seis meses; las graves, al año, y las muy graves, a los dos años.
+
+Los plazos de prescripción de las infracciones comenzarán a contar desde el día siguiente a la comisión de la infracción. Y los de las sanciones desde el día siguiente al de adquisición de firmeza. La prescripción de las infracciones se interrumpirá por cualquier actuación colegial expreso y manifiesto dirigido a investigar la presunta infracción, con conocimiento del interesado. La realización de cualquier acto colegial expreso y manifiesto de ejecución de la sanción interrumpirá su plazo de prescripción, para lo que es necesario el conocimiento del interesado.
+
+Las sanciones se cancelarán: al año si la falta fuera leve; a los dos años, si fuera grave, y a los cuatro años, si fuera muy grave. Los plazos anteriores serán contados a partir del cumplimiento efectivo de la sanción. La cancelación supone la anulación del antecedente sancionador a todos los efectos.
+
+> Se modifica por el apartado 23 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 36.
+
+La Junta de Gobierno del colegio ejercerá la función disciplinaria, e impondrá, en su caso, las sanciones correspondientes, mediante el oportuno expediente disciplinario, que se sujetará al procedimiento siguiente:
+
+a) El procedimiento disciplinario se iniciará de oficio por la Junta de Gobierno, bien por propia iniciativa, bien a petición razonada del Decano del colegio, bien por denuncia firmada por un colegiado o por un tercero con interés legítimo.
+
+El órgano titular de la función disciplinaria, a la vista de los antecedentes disponibles, ordenará el archivo de las actuaciones o dará trámite al expediente, y designará, en ese momento, a un instructor.
+
+b) Tras las oportunas diligencias indagatorias, el instructor propondrá el sobreseimiento del expediente, si no encontrara indicios de ilícito disciplinario, o formulará pliego de cargos, en caso contrario. En el pliego de cargos habrá de indicarse con precisión y claridad, y debidamente motivados: los actos profesionales o colegiales que se presumen ilícitos, la calificación del tipo de infracción en que incurre aquella conducta, así como la sanción a que, en su caso, puede ser acreedora. Se concederá al expedientado un plazo de 15 días hábiles para que pueda contestar por escrito, y formular el oportuno pliego de descargos.
+
+En el expediente se admitirán todos los medios de prueba admisibles en derecho. Corresponde al instructor la práctica de las que habiendo sido propuestas estime oportunas o las que él mismo pueda acordar. De las audiencias y pruebas practicadas deberá existir constancia escrita en el expediente.
+
+c) Concluida la instrucción del expediente disciplinario, el instructor lo elevará, con la correspondiente propuesta de resolución, al órgano disciplinario, ante el cual se concederá al expedientado nuevo trámite de audiencia, para que pueda alegar cuanto estime oportuno o conveniente a su derecho. El instructor no podrá intervenir en las deliberaciones ni en la toma de decisión del órgano disciplinario.
+
+Este procedimiento disciplinario podrá ser desarrollado, de conformidad con lo dispuesto en los estatutos, por el reglamento de régimen interior del colegio. Artículo 37.
+
+El colegio, por acuerdo de la Junta de Gobierno o de la Junta General, podrá otorgar a los colegiados por sus merecimientos de carácter profesional o colegial las recompensas siguientes:
+
+a) Felicitaciones o menciones honoríficas.
+
+b) Solicitud de concesión de condecoraciones oficiales.
+
+c) Publicación, con cargo a los fondos del colegio, de aquellos trabajos de destacado valor científico o profesional.
+
+d) Los de tipo económico que la Junta de Gobierno acuerde y las disponibilidades del colegio permitan.
+
+> Se modifica por el apartado 23 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 37.
+
+La Junta de Gobierno actuará en materia disciplinaria, con asistencia de todos sus miembros que no aleguen impedimento bastante, estimado por la Junta, o sean recusables, constituyendo falta grave la omisión de este deber. Los miembros de la Junta de Gobierno, en los acuerdos que se tomen en materia disciplinaria, podrán hacer constar su voto particular, el cual se unirá al expediente.
+
+## TITULO VII
+
+### CAPÍTULO ÚNICO — Del personal
+
+##### Artículo 38.
+
+El Colegio contará con el personal de oficina y subalterno que la Junta de Gobierno estime necesario para la marcha normal de sus tareas, el cual dependerá del Decano y del Secretario de la misma, como Jefe nato del personal.
+
+La oficina del Colegio dependerá directamente de un Jefe que habrá de ser elegido por la Junta de Gobierno. Para ocupar las plazas técnico-administrativas que en esa oficina sean consideradas necesarias tendrán preferencia los colegiados.
+
+## TITULO VIII
+
+### CAPÍTULO ÚNICO
+
+##### Artículo 39.
+
+El Colegio mantendrá una estrecha y asidua relación con el Instituto Católico de Artes e Industrias, ICAI, especialmente por lo que se refiere a la evolución de los planes de estudio, y en orden a una eficaz colaboración.
+
+También mantendrá estrecho contacto con los demás Colegios y Asociaciones profesionales de procedencia universitaria y técnica superior, con el Instituto de Ingenieros Civiles de España, con las Corporaciones académicas y con el Consejo Superior de Investigaciones Científicas; dados los términos de afinidad, las relaciones con la Asociación de Ingenieros del ICAI y el Patronato del ICAI serán ininterrumpidas y en pro de una completa compenetración.
+
+Guardará también estrechas relaciones con las Hermandades y Congregaciones de profesionales de procedencia similar, en especial, con el fin de estar al día en materia de doctrina o moral católicas profesionales.
+
+##### Artículo 40.
+
+Mantendrá el Colegio asiduas relaciones con los medios de difusión, editoriales, prensa, revistas, cinematografía, radiodifusión y televisión, nacionales o extranjeros, con el fin de incrementar los archivos informativos y de publicaciones; lo mismo que con las representaciones diplomáticas en España y las españolas en el extranjero, para la más amplia difusión del conocimiento de las actividades del Colegio.
+
+##### Artículo 41.
+
+Fomentará los intercambios, viajes de estudios, becas, bolsas de viajes y las pensiones de ampliación de estudios técnicos de los colegiados dentro del territorio nacional y en el extranjero.
+
+##### Artículo 42.
+
+El emblema profesional que podrán usar los colegiados será el que el Ministerio de Educación Nacional haya autorizado al Instituto Católico de Artes e Industrias para sus Ingenieros.
+
+##### Artículo 43.
+
+El uniforme profesional que podrán usar los colegiados será el de uso por los ingenieros del I. C. A. I., con el emblema antes citado.
+
+Dicho uniforme es de paño color azul marino oscuro, chaqueta cruzada y gorra de plato, con la tapa de igual paño; con hombreras ribeteadas por cordoncillo dorado y con el emblema en el centro, y con pantalón liso, sin vueltas. En el frente de la gorra, el emblema mediante placa esmaltada en colores. Para el de gala se adicionará un fajín, color morado, con remate flecado dorado.
+
+El uso del uniforme profesional podrá ser obligado por el Colegio para asistir a determinados actos de carácter corporativo o representativo oficial o solemnidades.
+
+> Se modifica por la Orden de 2 de diciembre de 1964. [Ref. BOE-A-1964-23305](https://www.boe.es/buscar/doc.php?id=BOE-A-1964-23305)
+
+## TITULO IX
+
+### CAPÍTULO ÚNICO — Disolución
+
+##### Artículo 44.
+
+El Colegio podrá disolverse cuando lo acuerden las tres cuartas partes de los colegiados por votación directa en Junta general extraordinaria convocada especialmente para este objeto. En este caso y en los de causa distinta a la voluntad del Colegio, dicha Junta general extraordinaria o la de Gobierno nombrará una Comisión de liquidación, compuesta por dos colegiados, con un Presidente, designados por la Junta.
+
+La Comisión de liquidación, una vez hayan sido satisfechas todas las obligaciones sociales, dedicará el sobrante existente al fondo de previsión social de la Asociación de Ingenieros del ICAI o del Patronato del ICAI o del Patronato P. Pulgar, o a los fines sociales, culturales, profesionales o benéficos que acuerden dicha Junta general extraordinaria, o a falta de ésta, la misma Comisión liquidadora.
+
+## TÍTULO X
+
+> Se añade por el apartado 24 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 45.
+
+1\. El Colegio de Ingenieros procedentes del ICAI, como corporación de derecho público, se rige en su organización y funcionamiento por:
+
+a) La legislación básica estatal y autonómica de desarrollo en materia de colegios profesionales.
+
+b) Los estatutos del colegio.
+
+c) El reglamento de régimen interior que el colegio apruebe en desarrollo y aplicación de las previsiones de su estatuto general.
+
+d) El resto del ordenamiento jurídico en cuanto sea aplicable.
+
+2\. En lo no previsto por el estatuto general, será de aplicación la legislación vigente sobre régimen jurídico de las Administraciones públicas y procedimiento administrativo común. El régimen jurídico de los órganos colegiados de los colegios profesionales se ajustará a las normas contenidas en este estatuto general y el reglamento de régimen interior, que establecerán el régimen de convocatoria, sesiones y adopción de acuerdos.
+
+3\. Los acuerdos, decisiones o recomendaciones de los colegios con trascendencia económica deberán observar los límites establecidos en el artículo 1 de la Ley 16/1989, de 17 de julio, de Defensa de la Competencia.
+
+> Se añade por el apartado 24 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 46.
+
+1\. Son nulos de pleno derecho los actos de los órganos colegiados en los que se dé alguno de los siguientes supuestos:
+
+a) Los que lesionen los derechos y libertades susceptibles de amparo constitucional.
+
+b) Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.
+
+c) Los que tengan un contenido imposible.
+
+d) Los que sean constitutivos de infracción penal o se dicten como consecuencia de ésta.
+
+e) Los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados.
+
+f) Los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición.
+
+g) Los acuerdos, decisiones y recomendaciones que estén prohibidos en virtud de lo dispuesto en el artículo 1.1 de la Ley 16/1989, de 17 de julio, de Defensa de la Competencia, y no estén amparados por la debida exención legal.
+
+h) Cualquier otro que se establezca expresamente en una disposición de rango legal.
+
+2\. Son anulables los restantes actos que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder. No obstante, el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados. La realización de actuaciones administrativas fuera del tiempo establecido para ellas sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo.
+
+> Se añade por el apartado 24 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 47.
+
+Los actos y resoluciones adoptados por los órganos del colegio en el ejercicio legítimo de potestades administrativas serán ejecutivos desde su adopción, en los términos señalados en la legislación sobre procedimiento administrativo.
+
+> Se añade por el apartado 24 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 48.
+
+1\. Los actos y disposiciones del colegio, cuando estén sujetos al derecho administrativo, serán impugnables directamente ante la jurisdicción contencioso-administrativa, de conformidad con lo dispuesto en su ley reguladora, una vez agotados los recursos corporativos.
+
+2\. Los acuerdos y disposiciones de la Junta de Gobierno del colegio son recurribles en reposición ante la propia Junta de Gobierno, de conformidad con lo dispuesto en la vigente legislación sobre procedimiento administrativo.
+
+3\. Contra los acuerdos y disposiciones de la Junta General del colegio no cabe recurso corporativo alguno, siendo impugnables directamente ante la jurisdicción contencioso-administrativa.
+
+> Se añade por el apartado 24 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+## TÍTULO XI
+
+> Se añade por el apartado 25 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 49.
+
+1\. Las competencias relativas a funciones colegiales que consistan en actos de control sobre la actividad profesional de los colegiados son de naturaleza reglada conforme a lo dispuesto en estos estatutos, y tendrán como único fin legítimo velar por el cumplimiento de la normativa legal, estatutaria y deontológica de la profesión, y defender la legítima actuación del profesional, sin menoscabo de los derechos de quienes contratan sus servicios.
+
+2\. La Junta de Gobierno del colegio es el titular de las competencias de control. Cuando delegue su ejercicio, retendrá las facultades de inspección y coordinación que resulten precisas para asegurar el debido cumplimiento de las disposiciones legales y colegiales que sean de aplicación.
+
+> Se añade por el apartado 25 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 50.
+
+1\. Son objeto del visado colegial los trabajos profesionales que se reflejen documentalmente y estén autorizados con la firma del colegiado. No están sujetos a visado los trabajos que realicen como contenido de su relación de servicio los profesionales adscritos a las Administraciones públicas bajo régimen funcionarial o laboral permanente.
+
+2\. El visado es un acto de control profesional que comprenderá, como mínimo, la comprobación de: la identidad, habilitación legal y colegiación del profesional, la corrección e integridad formales de la documentación integrante del trabajo y la observancia de la normativa legal y deontológica-colegial aplicable a la respectiva profesión. El visado no comprenderá los honorarios ni las demás condiciones contractuales cuya determinación se deja al libre acuerdo de las partes.
+
+3\. El reglamento de régimen interno del colegio detallará el procedimiento a que ha de sujetarse el ejercicio de la función de visado.
+
+> Se añade por el apartado 25 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 51.
+
+1\. El colegio podrá prestar a los colegiados que voluntariamente lo soliciten el servicio de cobro y reclamación de honorarios profesionales, bien se trate de trabajos aislados o con encargo específico, bien sean retribuciones periódicas por la prestación de servicios continuados a la persona deudora.
+
+2\. El colegiado al formalizar el encargo de cobro al colegio indicará la persona o entidad deudora, con referencia en su caso al visado, clase de trabajo encomendado y su realización y las gestiones llevadas a cabo para su efectividad.
+
+3\. La gestión del colegio podrá consistir simplemente en un requerimiento a la persona o entidad deudora o bien, de resultar fallido este procedimiento, proceder judicialmente para la efectividad de los honorarios.
+
+4\. Por acuerdo de Junta de General se aprobará la normativa que detalle el régimen de funcionamiento de este servicio y su financiación.
+
+> Se añade por el apartado 25 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Artículo 52.
+
+Al recibir un encargo profesional en el libre ejercicio de su profesión, el colegiado presentará a su cliente, si este se lo requiriera, para su conformidad, un presupuesto expresivo, como mínimo, de la descripción del objeto de la prestación encargada junto con el importe de los honorarios que haya de devengar.
+
+> Se añade por el apartado 25 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)
+
+##### Disposición transitoria única.
+
+Los actuales miembros de la Junta de Gobierno permanecerán en sus cargos hasta la conclusión de su mandato, y se organizarán las próximas elecciones de conformidad con la nueva configuración de la Junta dispuesta en esta modificación de estatutos.
+
+> Se añade por el apartado 26 por el Real Decreto 1056/2003, de 1 de agosto. [Ref. BOE-A-2003-16975](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16975)

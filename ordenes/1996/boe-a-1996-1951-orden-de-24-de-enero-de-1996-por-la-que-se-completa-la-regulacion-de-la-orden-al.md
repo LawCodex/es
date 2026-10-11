@@ -1,0 +1,113 @@
+---
+title: "Orden de 24 de enero de 1996 por la que se completa la regulación de la Orden al Mérito del Plan Nacional sobre Drogas"
+identifier: "BOE-A-1996-1951"
+eli: "https://www.boe.es/eli/es/o/1996/01/24/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia e Interior"
+date: 1996-01-24
+published: 1996-02-01
+in_force_from: 1996-02-01
+last_amended: 1997-11-01
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 28"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-1951"
+retrieved: 2026-10-11
+---
+
+# Orden de 24 de enero de 1996 por la que se completa la regulación de la Orden al Mérito del Plan Nacional sobre Drogas
+
+La disposición final primera del Real Decreto 2023/1995, de 22 de diciembre, por el que se crea la Orden al Mérito del Plan Nacional sobre Drogas, faculta al Ministro de Justicia e Interior para dictar las disposiciones necesarias para el desarrollo y ejecución de lo dispuesto en dicho Real Decreto.
+
+En su virtud, a propuesta de la Secretaría de Estado-Delegación del Gobierno para el Plan Nacional sobre Drogas,
+
+DISPONGO:
+
+## Primero. Requisitos.
+
+Los requisitos para la concesión a las personas, entidades o instituciones a que se refiere el Real Decreto 2023/1995, de 22 de diciembre, de las distintas categorías de la Orden al Mérito del Plan Nacional sobre Drogas, serán los siguientes:
+
+1\. Para la concesión de la Medalla de Oro: Que hayan destacado o destaquen por sus actividades de forma relevante o por la realización de actuaciones de especial significación y trascendencia, o que hayan implicado riesgo para su vida, tanto en el ámbito preventivo, asistencial y de reinserción como en el del control de la oferta o tráfico ilícito de drogas y estupefacientes y de sus consecuencias o beneficios ilícitamente obtenidos.
+
+2\. Para la concesión de la Medalla de Plata: Que hayan realizado o realicen destacadas actividades con una entrega continuada y de dedicación constante y solidaria en los ámbitos antes mencionados, teniendo en cuenta la eficacia real obtenida de las mismas.
+
+3\. Para la concesión de la Cruz Blanca: Que las actuaciones en los ámbitos antes citados impliquen o hayan implicado ejemplaridad y significativa dedicación.
+
+## Segundo. Procedimiento para su concesión.
+
+1\. La concesión de las respectivas categorías estarán en función de la valoración conjunta de las circunstancias concurrentes en las personas, entidades o instituciones propuestas.
+
+2\. Se iniciará la tramitación del correspondiente expediente por la Subdirección General de Gestión y Relaciones Institucionales de la Delegación del Gobierno para el Plan Nacional sobre Drogas, y en el mismo deberán hacerse constar cuantas informaciones y documentos se consideren necesarios para justificar los méritos que puedan servir de base para la concesión de la condecoración.
+
+El expediente se incoará a iniciativa de la Delegación del Gobierno para el Plan Nacional sobre Drogas, de los órganos directivos de las entidades oficiales o privadas que tengan relación directa con las funciones, fines y competencias del Plan Nacional sobre Drogas, o de los que dependan las personas, servicios o instituciones a distinguir.
+
+3\. La Medalla en su categoría de Oro se concederá por Orden del Ministro del Interior a propuesta del Delegado del Gobierno para el Plan Nacional sobre Drogas. En tal propuesta se detallarán cuantas actividades, servicios o actuaciones se consideren fundamentales para dicha concesión.
+
+La Orden de concesión de la Medalla en su categoría de Oro será publicada en el "Boletín Oficial del Estado".
+
+4\. La Medalla en su categoría de Plata y la Cruz Blanca se concederán por resolución del Delegado del Gobierno para el Plan Nacional sobre Drogas a propuesta de cualquiera de los titulares de las Unidades orgánicas con rango de Subdirección General integradas en la Delegación del Gobierno para el Plan Nacional sobre Drogas.
+
+En uno y otro caso la resolución será publicada en el "Boletín Oficial del Estado" cuando la concesión se haga de forma colectiva a personas jurídicas, instituciones, servicios administrativos, o a grupos de funcionarios o de particulares.
+
+> Se modifican los apartados 2 a 4 por el art. único.1 de la Orden de 24 de octubre de 1997. [Ref. BOE-A-1997-23160](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-23160).
+
+## Tercero. Imposición y registro.
+
+1\. Los actos de imposición, en los que se efectuará la lectura de la Orden o Resolución de concesión, deberán revestir la mayor dignidad posible, celebrándose en las ocasiones que se estimen más adecuadas.
+
+2\. La Subdirección General de Gestión y Relaciones Institucionales llevará el registro de las personas o instituciones a las que se les conceda la Orden, debiendo reseñarse los datos de identificación relativos a las mismas, categoría concedida, fecha de la concesión y número de expediente.
+
+Por la misma Subdirección General se dispondrá la confección del correspondiente diploma, que llevará consigo cada condecoración, y se expedirán las certificaciones de las inscripciones practicadas en dicho registro cuando así lo soliciten los interesados, o, en caso de fallecimiento de los mismos, su cónyuge o sus ascendientes o descendientes hasta el primer grado de consanguinidad.
+
+No se expedirán ni el diploma ni las certificaciones citadas anteriormente cuando la concesión de la Orden en sus diferentes categorías se haya efectuado de forma colectiva a personas jurídicas, instituciones, servicios administrativos o a grupos de funcionarios o de particulares, sirviendo de título acreditativo en estos casos la publicación en el "Boletín Oficial del Estado" de la correspondiente resolución de concesión.
+
+> Se modifica el apartado 2 por el art. único.2 de la Orden de 24 de octubre de 1997. [Ref. BOE-A-1997-23160](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-23160).
+
+## Cuarto. Descripción de las condecoraciones.
+
+1\. Las medallas de Oro y Plata al Mérito del Plan Nacional sobre Drogas tendrán forma circular, un diámetro de 40 milímetros y un grosor de 2 milímetros, y reunirán, además, las siguientes características:
+
+a) Anverso: Ajustado al diseño que se inserta como anexo I de esta Orden, consistirá en una corona circular de color azul, con la inscripción "P.N.S.D." "Al Mérito", dorado o plateado, según la categoría de la Medalla; en el interior llevará el escudo oficial de España, esmaltado en sus correspondientes colores.
+
+b) Reverso: Será liso y pulido, sin ningún tipo de esmaltes. En el mismo podrá grabarse la dedicatoria.
+
+2\. La Cruz Blanca al Mérito del Plan Nacional sobre Drogas tendrá las características siguientes:
+
+a) Anverso: Ajustado al diseño que se inserta como anexo II de esta Orden, será una cruz de cuatro brazos, terminados en aristas de 45 milímetros, que irá esmaltada en color blanco y filteado de metal plateado; en el centro llevará un círculo de 20 milímetros de diámetro, en el cual aparecerá una corona circular de 2 milímetros de ancho, aproximadamente, esmaltada de azul con la inscripción "P.N.S.D." "Al Mérito", en metal plateado; en el centro de dicha corona aparecerá el escudo oficial de España, esmaltado en sus correspondientes colores sobre fondo blanco.
+
+b) Reverso: Será pulido y liso. En el mismo podrá grabarse la dedicatoria.
+
+3\. Las Medallas en sus categorías de Oro y Plata penderán, a modo de corbata, de un cordón dorado o plateado respectivamente.
+
+La Cruz Blanca penderá de una cinta, de 30 milímetros de ancho, del mismo color, realizada en moiré y montada en un pasador de metal dorado.
+
+Las miniaturas para solapa, que serán reproducción fiel de las medallas o de la cruz, tendrán un diámetro de 20 milímetros aproximadamente.
+
+> Se modifica por el art. único.3 de la Orden de 24 de octubre de 1997. [Ref. BOE-A-1997-23160](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-23160).
+
+## Disposición final.
+
+La presente Orden entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 24 de enero de 1996.
+
+BELLOCH JULBE
+
+## ANEXO 1
+
+![Imagen: img/disp/1997/269/23974_001.png](https://www.boe.es/datos/imagenes/disp/1997/269/23974_001.png)
+
+> Se modifica por el art. único.4 de la Orden de 24 de octubre de 1997. [Ref. BOE-A-1997-23160](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-23160).
+
+> Redactado conforme a la corrección de errores publicada en el BOE núm. 269, de 10 de noviembre de 1997. [Ref. BOE-A-1997-23974](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-23974).
+
+## ANEXO 2
+
+![Imagen: img/disp/1997/269/23974_002.png](https://www.boe.es/datos/imagenes/disp/1997/269/23974_002.png)
+
+> Se modifica por el art. único.4 de la Orden de 24 de octubre de 1997. [Ref. BOE-A-1997-23160](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-23160).
+
+> Redactado conforme a la corrección de errores publicada en el BOE núm. 269, de 10 de noviembre de 1997. [Ref. BOE-A-1997-23974](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-23974).

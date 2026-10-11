@@ -1,0 +1,57 @@
+---
+title: "Ley Orgánica 3/1985, de 29 de mayo, sobre modificación de la Ley orgánica 1/1982, de 5 de mayo, sobre protección del derecho al honor, a la intimidad personal y familiar y a la propia imagen"
+identifier: "BOE-A-1985-9861"
+eli: "https://www.boe.es/eli/es/lo/1985/05/29/3"
+type: organic_law
+rank: "Ley Orgánica"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 1985-05-29
+published: 1985-05-30
+in_force_from: 1985-06-19
+last_amended: 1990-02-15
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 129"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-9861"
+retrieved: 2026-10-11
+---
+
+# Ley Orgánica 3/1985, de 29 de mayo, sobre modificación de la Ley orgánica 1/1982, de 5 de mayo, sobre protección del derecho al honor, a la intimidad personal y familiar y a la propia imagen
+
+JUAN CARLOS I
+
+REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley orgánica:
+
+El artículo 71 de la Constitución, en sus números 1 y 2, garantiza la inviolabilidad e inmunidad de los Diputados y Senadores por las opiniones manifestadas en el ejercicio de sus funciones y actividades realizadas durante el periodo de su mandato, garantías que recogen también los Reglamentos vigentes del Congreso de los Diputados (artículos 10 y 11), y del Senado (artículos 21 y 22). Tales garantías pueden resultar afectadas por lo dispuesto en la Ley orgánica 1/1982, de 5 de mayo, sobre protección del derecho al honor, a la intimidad personal y familiar y a la propia imagen, cuando los Diputados o Senadores expresen opiniones que están estrechamente conectadas con sus funciones parlamentarias, pero no se producen dentro de las sedes de las Cámaras, y a las que no alcanzaría el principio de inviolabilidad ya referido. Al amparo de esta Ley, los parlamentarios podrían verse constantemente amenazados por la iniciación de procesos civiles que menoscabasen su necesaria libertad para el ejercicio de sus funciones. Es preciso, pues, solucionar este problema mediante una Ley que, por un lado, respete el principio de igualdad entre todos los ciudadanos, garantizado por la Constitución, así como su derecho al honor, a la intimidad y a la propia imagen, pero, al mismo tiempo, evite que una aplicación excesiva de la Ley orgánica 1/1982, de 5 de mayo, limite la libertad de expresión política de Diputados y Senadores.
+
+Para ello, se adiciona un inciso final al artículo 2.º, párrafo 2.º, de la Ley orgánica 1/1982, de 5 de mayo.
+
+## Artículo único.
+
+El artículo 2.°, párrafo 2.º, de la Ley orgánica 1/1982, de 5 de mayo, queda redactado en los siguientes términos:
+
+2\. No se apreciará la existencia de intromisión ilegítima en el ámbito protegido cuando estuviere expresamente autorizada por Ley o cuando el titular del derecho hubiere otorgado al efecto su consentimiento expreso, ***o, por imperativo del artículo 71 de la Constitución, cuando se trate de opiniones manifestadas por Diputados o Senadores en el ejercicio de sus funciones. Iniciado un proceso civil en aplicación de la presente Ley, no podrá seguirse contra un Diputado o Senador sin la previa autorización del Congreso de los Diputados o del Senado.***
+
+***La previa autorización será tramitada por el procedimiento previsto para los suplicatorios.***
+
+> **Atención**: Se declara la inconstitucionalidad y nulidad del inciso destacado por Sentencia del TC 9/1990, de 18 de enero.
+
+> Se declara la inconstitucionalidad y nulidad del inciso destacado por Sentencia del TC 9/1990, de 18 de enero. [Ref. BOE-T-1990-3964](https://www.boe.es/buscar/doc.php?id=BOE-T-1990-3964).
+
+Por tanto.
+
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley orgánica.
+
+Palacio de la Zarzuela, Madrid, a 29 de mayo de 1985.
+
+JUAN CARLOS R.
+
+El Presidente del Gobierno,
+
+FELIPE GONZÁLEZ MÁRQUEZ

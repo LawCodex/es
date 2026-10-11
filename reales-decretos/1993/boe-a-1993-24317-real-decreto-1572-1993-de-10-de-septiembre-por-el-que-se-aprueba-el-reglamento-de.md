@@ -1,0 +1,135 @@
+---
+title: "Real Decreto 1572/1993, de 10 de septiembre, por el que se aprueba el Reglamento de procedimiento administrativo sancionador de las infracciones por incumplimiento de las obligaciones establecidas en la Ley de la Función Estadística Pública"
+identifier: "BOE-A-1993-24317"
+eli: "https://www.boe.es/eli/es/rd/1993/09/10/1572"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1993-09-10
+published: 1993-10-06
+in_force_from: 1993-10-07
+last_amended: 2025-01-29
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 239"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1993-24317"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1572/1993, de 10 de septiembre, por el que se aprueba el Reglamento de procedimiento administrativo sancionador de las infracciones por incumplimiento de las obligaciones establecidas en la Ley de la Función Estadística Pública
+
+La Ley 12/1989, de 9 de mayo, de la Función Estadística Pública, dispone, en su artículo 10, que los servicios estadísticos tienen la facultad de solicitar datos de las personas físicas y jurídicas, tanto nacionales como extranjeras, a condición de que sean residentes en España, y, con exigencia, en todo caso, de que la información suministrada lo sea en forma veraz, exacta y completa, así como rendida dentro de los plazos en que se recaben.
+
+A su vez, el artículo 7 de la citada Ley establece un principio de reserva legal para la determinación de las estadísticas para cuya elaboración se exijan datos de carácter obligatorio. En aras de dicha determinación, la Ley 4/1990, de 29 de junio, de Presupuestos Generales del Estado para el año 1990, en su disposición adicional cuarta relaciona las estadísticas para cuya elaboración pueden exigirse datos con dicho carácter.
+
+Por otro lado, el artículo 48 de la Ley de la Función de la Estadística Pública establece que el incumplimiento de las obligaciones impuestas en relación con las estadísticas para fines estatales será sancionado de acuerdo con los términos señalados en su misma ordenación y, de conformidad con lo dispuesto en el artículo 54 del mismo texto legal, con el que termina su Título V (Infracciones y Sanciones), el Instituto Nacional de Estadística no podrá imponer sanciones muy graves o graves sino en virtud de expediente instruido al efecto, con arreglo a lo dispuesto en el capítulo II del Título VI de la Ley de Procedimiento Administrativo de 17 de julio de 1958, si bien se establece que las sanciones por infracciones leves se impondrán sin más trámite que la previa audiencia al interesado.
+
+Derogada la Ley de Procedimiento Administrativo citada, en la parte que aquí interesa, y habiendo entrado en vigor la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, por Real Decreto-ley 14/1993, de 4 de agosto, se dispone que, reglamentariamente, en el plazo de dieciocho meses, a partir de la entrada en vigor (el 27 de febrero de 1993) de la Ley, se llevará a cabo la adecuación a la misma en las normas reguladoras de los procedimientos administrativos, cualquiera que sea su rango, con específica mención de los efectos estimatorios o desestimatorios que la falta de resolución expresa produzca. En su consecuencia, conviene consignar que el Reglamento del procedimiento para el ejercicio de la potestad sancionadora, aprobado que ha sido por el Real Decreto 1398/1993, de 4 de agosto, constituye la normativa básica reguladora de la materia, incluso en el ámbito estadístico, de modo que la reglamentación que por el presente Real Decreto se aprueba viene a contemplar únicamente las singularidades específicas de aplicación, en perfecta adecuación, en todo caso, con aquella normativa genérica y básica.
+
+En su virtud, a propuesta del Ministro de Economía y Hacienda, previa aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 10 de septiembre de 1993,
+
+### D I S P O N G O :
+
+#### Artículo único.
+
+Se aprueba el Reglamento de procedimiento sancionador de las infracciones por incumplimiento de las obligaciones en materia estadística establecidas en la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública, que se inserta a continuación.
+
+#### Disposición final única.
+
+El presente Real Decreto y Reglamento que aprueba entrarán en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 10 de septiembre de 1993.
+
+JUAN CARLOS R.
+
+El Ministro de Economía y Hacienda,
+
+PEDRO SOLBES MIRA
+
+## REGLAMENTO DE PROCEDIMIENTO SANCIONADOR DE LAS INFRACCIONES POR INCUMPLIMIENTO DE LAS OBLIGACIONES ESTABLECIDAS EN LA LEY DE LA FUNCION ESTADISTICA PUBLICA
+
+## Capítulo I — Disposiciones generales
+
+#### Artículo 1.
+
+El procedimiento para el ejercicio de la potestad sancionadora, a que se refiere el Título V de la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública, será el regulado por el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento del procedimiento para el ejercicio de la potestad sancionadora, con las singularidades establecidas en los artículos siguientes.
+
+El presente reglamento no será de aplicación en los casos en que, de conformidad con lo dispuesto en el artículo 48.3 de la Ley 12/1989, de 9 de mayo, la potestad sancionadora corresponda a la persona titular de la Dirección del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria. En tales casos será de aplicación el procedimiento sancionador previsto en su normativa específica.
+
+> Se añade un párrafo por la disposición final 1 del Real Decreto 1305/2024, de 23 de diciembre. [Ref. BOE-A-2025-1562](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1562)
+
+#### Artículo 2. Órganos competentes.
+
+1\. Será competente para acordar la iniciación del procedimiento el Presidente del Instituto Nacional de Estadística (en adelante, INE); para la instrucción, la Secretaría General del INE, y para la resolución, el Presidente del citado Organismo, a tenor de lo que se dispone en el artículo 48 de la Ley 12/1989, de 9 de mayo.
+
+En todo caso, deberá entenderse que los funcionarios designados para la instrucción del procedimiento ostentarán el carácter de órgano instructor.
+
+2\. **(Derogado)**
+
+> Se deroga el apartado 2 por la disposición derogatoria única.2 del Real Decreto 1305/2024, de 23 de diciembre. [Ref. BOE-A-2025-1562](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1562)
+
+> Se modifica por el art. único.1 del Real Decreto 1677/2011, de 18 de noviembre. [Ref. BOE-A-2011-18783](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18783).
+
+## Capítulo II — Iniciación del procedimiento
+
+#### Artículo 3.
+
+1\. Con carácter de actividades previas a las respectivas propuestas, las Delegaciones provinciales o locales del Instituto Nacional de Estadística, las unidades de los Servicios Centrales del mismo o, en su caso, de los Servicios Estadísticos de la Administración General del Estado o cualesquiera otras entidades dependientes de la misma deberán haber actuado con arreglo a cuanto se preceptúa en el presente artículo.
+
+2\. Cualquier solicitud de datos formulada por los servicios estadísticos para cumplimiento de su función, bien directamente, bien a través de terceros facultados al efecto, se realizará con advertencia expresa de la naturaleza, de las características y de la finalidad de la estadística en cuestión, así como, en su caso, el carácter obligatorio de la información recabada, de la protección que dispensa el secreto estadístico y, en su lugar, asimismo, de las sanciones que pudieran ser impuestas por la autoridad competente en los casos de falta de colaboración o de facilitación de datos falsos, incorrectos, incompletos o recibidos fuera del plazo establecido para recibir la información.
+
+3\. La advertencia de tales extremos se hará constar, de modo fehaciente, en los instrumentos utilizados para la recogida de información (cuestionarios, soporte magnético, etc.), de modo que con la medida pueda evitarse la presunta alegación, por parte de los interesados (personas o entidades), de ignorancia o desconocimiento de la materia considerada.
+
+4\. Agotado el plazo establecido para facilitar dicha información sin que el interesado (persona o entidad) hubiere cumplimentado, en tiempo y forma, los datos exigidos, la unidad administrativa requirente reiterará aquella solicitud, dirigiendo al efecto al interesado una nueva notificación, cursada por cualquier medio que permita tener constancia de su recepción, preferentemente por correo certificado, requiriéndole el cumplimiento de la exigencia reglamentaria y otorgándole un plazo de quince días naturales, a contar desde el siguiente al de la notificación, con advertencia de las infracciones y sanciones en que pudiera incurrir de no atender, en los términos señalados, dichos requerimientos.
+
+5\. La actuación detallada en el apartado anterior será independiente de la que, dentro del procedimiento normal de gestión estadística, pueda practicar el servicio cerca de los interesados, respecto de la rectificación o cumplimentación de los datos defectuosos o errores fácticos cometidos por aquéllos en el cumplimiento de sus deberes en la materia. Dicha rectificación o aportación de información complementaria será recabada por la unidad administrativa competente mediante las comunicaciones, notificaciones o requerimientos usuales dirigidos a los interesados según el procedimiento habitual del proceso estadístico de elaboración de datos.
+
+> Se deroga el apartado 6 por la disposición derogatoria única.2 del Real Decreto 1305/2024, de 23 de diciembre. [Ref. BOE-A-2025-1562](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1562)
+
+> Se añade el apartado 6 por el art. único.2 del Real Decreto 1677/2011, de 18 de noviembre. [Ref. BOE-A-2011-18783](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18783).
+
+#### Artículo 4.
+
+Si transcurrido el plazo de quince días mencionado en el artículo anterior no se hubiese cumplimentado, por parte del interesado, el requerimiento efectuado por la Administración estadística, la unidad recabante de la información remitirá los antecedentes habidos al órgano competente para la iniciación del procedimiento en unión de un informe-propuesta detallado de las circunstancias que hubieran concurrido en el supuesto en consideración.
+
+## Capítulo III — Fase de instrucción
+
+#### Artículo 5.
+
+1\. El procedimiento abreviado previsto en el artículo 54.2 de la Ley 12/1989, de 9 de mayo, se tramitará conforme a las siguientes normas y lo dispuesto en el artículo 24 del Reglamento del procedimiento para el ejercicio de la potestad sancionadora.
+
+2\. Si el instructor apreciara la existencia de infracción de carácter leve, procederá a formular propuesta razonada de resolución, que notificará a los interesados, concediéndoles un plazo de siete días para que aleguen lo que estimen conveniente a su defensa. Recibidas las alegaciones o transcurrido el plazo de presentación y si el instructor no estimara necesaria la proposición y práctica de prueba, elevará todo lo actuado a la Presidencia del Instituto para que adopte la resolución pertinente.
+
+## Capítulo IV — Fase de resolución
+
+#### Artículo 6.
+
+1\. El plazo máximo para la tramitación del procedimiento que este Reglamento regula será de seis meses, contados a partir de la fecha del acuerdo de iniciación.
+
+2\. Si no hubiere recaído resolución transcurridos treinta días desde la finalización del plazo de seis meses desde el acuerdo de iniciación, teniendo en cuenta las posibles interrupciones de su cómputo por causas imputables a los interesados, se tendrá por cumplido el plazo de caducidad establecido en el apartado 4 del artículo 43 de la Ley 30/1992, debiendo procederse al archivo de las actuaciones, bien de oficio por el propio órgano competente para dictar resolución o a solicitud de cualquier interesado.
+
+3\. Las resoluciones que ultimen el procedimiento ponen fin a la vía administrativa y serán inmediatamente ejecutivas, no pudiéndose interponer contra las mismas recurso administrativo ordinario.
+
+#### Artículo 7. Comunicaciones y notificaciones electrónicas.
+
+1\. A los efectos del procedimiento regulado en este real decreto cuando la potestad sancionadora corresponda al Instituto Nacional de Estadística, al amparo de lo establecido en el artículo 27.6 de la Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos, se establece la obligatoriedad de utilización de medios electrónicos para las comunicaciones que haya de realizar la Administración con entidades con forma jurídica de sociedad anónima (con número de identificación fiscal -NIF- que empiece por la letra A) o sociedad de responsabilidad limitada (entidades con NIF que empiece por la letra B), siempre que medie la previa comunicación a los interesados.
+
+2\. Para la asignación de la dirección electrónica habilitada, será de aplicación lo previsto en la Orden PRE/878/2010, de 5 de abril, por la que se establece el régimen de sistema de dirección electrónica habilitada previsto en el artículo 38.2 del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio.
+
+> Se deroga el apartado 3 por la disposición derogatoria única.2 del Real Decreto 1305/2024, de 23 de diciembre. [Ref. BOE-A-2025-1562](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1562)
+
+> Se añade por el art. único.3 del Real Decreto 1677/2011, de 18 de noviembre. [Ref. BOE-A-2011-18783](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18783).
+
+#### Disposición adicional única. Criterios de calificación de las infracciones y de graduación de las sanciones en el ámbito del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 1305/2024, de 23 de diciembre. [Ref. BOE-A-2025-1562](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1562)
+
+> Se añade por el art. único.4 del Real Decreto 1677/2011, de 18 de noviembre. [Ref. BOE-A-2011-18783](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18783).
+
+> Información relacionada
+
+> Véase la Resolución de 28 de septiembre de 2001, [Ref. BOE-A-2001-18591](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18591), sobre actualización de las cuantías de las sanciones en materia de estadística.

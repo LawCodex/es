@@ -1,0 +1,119 @@
+---
+title: "Real Decreto 648/1994, de 15 de abril, por el que se declaran los patrones nacionales de medida de las unidades básicas del Sistema Internacional de Unidades"
+identifier: "BOE-A-1994-9802"
+eli: "https://www.boe.es/eli/es/rd/1994/04/15/648"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Obras Públicas, Transportes y Medio Ambiente"
+date: 1994-04-15
+published: 1994-04-30
+in_force_from: 1994-05-01
+last_amended: 2020-02-21
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 103"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-9802"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 648/1994, de 15 de abril, por el que se declaran los patrones nacionales de medida de las unidades básicas del Sistema Internacional de Unidades
+
+El artículo cuarto de la Ley 3/1985, de 18 de marzo, de Metrología, establece en su apartado 1 que la obtención, conservación, desarrollo y difusión de las unidades básicas de medida es competencia del Estado, añadiendo el apartado 3 del mencionado artículo que los patrones de las unidades básicas declarados como tales, custodiados, conservados y mantenidos por el Estado, serán los patrones nacionales de los que se derivarán todos los demás.
+
+La determinación de los patrones nacionales, de acuerdo con las recomendaciones internacionales de la Conferencia General de Pesas y Medidas, constituye una exigencia prioritaria para el desarrollo tecnológico nacional. Por ello, este Real Decreto declara los patrones nacionales de medida de las unidades básicas del Sistema Internacional de Unidades, al objeto de que todos los patrones de medida estén referenciados a los patrones nacionales.
+
+De la declaración de patrones nacionales de medida efectuada por este Real Decreto se exceptúa la correspondiente al patrón nacional de la Cantidad de sustancia, cuya unidad es el mol, debido a que esta unidad se utiliza exclusivamente en el campo de las medidas químicas y su materialización ofrece serios problemas técnicos, por lo que tampoco ha sido incluido en las declaraciones de patrones nacionales efectuadas por los restantes Estados miembros de la Unión Europea.
+
+Debe por otra parte indicarse que, aunque los patrones nacionales de Intensidad luminosa y de Tiempo fueron ya declarados como tales por los Reales Decretos 1219/1992, de 2 de octubre, y 1308/1992, de 23 de octubre, sus características técnicas se incluyen en el anexo de este Real Decreto por no haber sido recogidas en las dos disposiciones anteriormente citadas.
+
+El artículo 100 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, atribuye expresamente al Centro Español de Metrología, entre otras funciones, la relativa a la custodia y conservación de los patrones nacionales de medida.
+
+En su virtud, a propuesta del Ministro de Obras Públicas, Transportes y Medio Ambiente y previa deliberación del Consejo de Ministros en su reunión del día 15 de abril de 1994,
+
+## D I S P O N G O :
+
+### Artículo único.
+
+Se declaran, a efectos legales, patrones nacionales de medida de las unidades básicas del Sistema Internacional de Unidades, de los que se derivarán todos los demás patrones utilizados en los distintos procesos de medida, de acuerdo con lo dispuesto en el artículo cuarto de la Ley 3/1985, de 18 de marzo, de Metrología, los relacionados en el anexo de este Real Decreto, con las características técnicas en él indicadas.
+
+### Disposición final primera.
+
+Se autoriza al Ministro de Obras Públicas, Transportes y Medio Ambiente para modificar las definiciones técnicas incluidas en el anexo en la medida en que el progreso técnico lo demande, así como para definir los patrones nacionales de las unidades derivadas del Sistema Internacional de Unidades.
+
+### Disposición final segunda.
+
+Este Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 15 de abril de 1994.
+
+JUAN CARLOS R.
+
+El Ministro de Obras Públicas, Transportes y Medio Ambiente,
+
+JOSE BORRELL FONTELLES
+
+## ANEXO — Patrones nacionales de las unidades de medida básicas del sistema internacional de unidades
+
+1\. Patrón nacional correspondiente a la magnitud longitud
+
+El patrón nacional correspondiente a la magnitud longitud, cuya unidad SI es el metro (m), es realizado, mantenido y diseminado por el Centro Español de Metrología mediante radiaciones monocromáticas de luz coherente, cuyos valores de frecuencia han sido establecidos por el Comité Internacional de Pesas y Medidas (CIPM), tras fijar para la velocidad de la luz en el vacío el valor numérico 299 792 458 m/s, según Resolución de la XVII Conferencia General de Pesas y Medidas (CGPM).
+
+La conservación del patrón se realiza de dos formas posibles:
+
+a) Mediante un sintetizador óptico (peine de frecuencia) basado en láser de pulsos de femtosegundos, con frecuencia de repetición de 250 MHz y frecuencia *offset* de 20 MHz, referenciado a la unidad de tiempo, el segundo, a través de un patrón atómico de cesio, que genera un *continuum* de longitudes de onda entre 530 nm y 2100 nm.
+
+b) Mediante láseres de helio-neón estabilizados sobre la componente *f* (a<sub>16</sub>) de la estructura hiperfina de la transición 11-5 R(127) de la molécula del iodo 127, de valor nominal aprox. 633 nm, y sintonizables en otros picos de absorción de dicha molécula.
+
+Estos láseres se comparan periódicamente entre sí, en los distintos picos de absorción saturada, y con el sintetizador óptico. Asimismo, participan junto a láseres patrón de otros países en la comparación clave internacional continua CCL-K11, basada en el uso de sintetizadores ópticos y auspiciada por la Oficina Internacional de Pesas y Medidas (BIPM), dentro del Acuerdo de Reconocimiento Mutuo CIPM-MRA, a fin de garantizar su equivalencia internacional.
+
+La diseminación del patrón de longitud hacia el siguiente nivel metrológico se realiza mediante batido de frecuencias, a fin de determinar la longitud de onda emitida por otras fuentes de radiación y conferirle trazabilidad al SI y, posteriormente, mediante el uso de interferómetros, comparadores interferométricos y sistemas interferométricos láser, con objeto de dotar de trazabilidad al SI a los patrones materializados del siguiente nivel metrológico.
+
+2\. Patrón nacional correspondiente a la magnitud masa
+
+El patrón nacional correspondiente a la magnitud masa, cuya unidad es el kilogramo (kg), es mantenido, conservado, custodiado y diseminado por el Centro Español de Metrología; es la copia número 24 del Prototipo Internacional del Kilogramo depositado en el BIPM.
+
+Fue construido en 1889 en aleación de platino-iridio, con un 10 % de iridio. Lleva grabado sobre su superficie, a los dos tercios de altura, el número 24. La determinación de su valor de masa, su conservación y mantenimiento se realiza de acuerdo a las premisas establecidas por el Comité Consultivo de Masa y Magnitudes Derivadas, de acuerdo a la definición del kilogramo basada en el valor numérico de la constante de Planck.
+
+3\. Patrón nacional correspondiente a la magnitud tiempo
+
+El patrón nacional correspondiente a la magnitud tiempo, cuya unidad es el segundo (s), es mantenido, conservado, custodiado y diseminado, bajo la supervisión y coordinación del Centro Español de Metrología, por el Laboratorio de la Sección de Hora del Real Instituto y Observatorio de la Armada en San Fernando (ROA). Es realizado por medio de un conjunto de osciladores referidos permanentemente a la frecuencia de la transición cuántica del átomo de cesio, establecida en la XIII CGPM como definición del segundo.
+
+Está materializado mediante un máser de hidrógeno activo, convenientemente disciplinado a través de un sintetizador de frecuencia, a partir de la información proporcionada por un conjunto de relojes atómicos de haz de cesio y máseres activos de hidrógeno, y su incertidumbre relativa y trazabilidad vienen referidas a los datos publicados por la Circular T de la Sección de Tiempo del BIPM.
+
+Partiendo del patrón nacional correspondiente a la magnitud tiempo, el ROA elabora y mantiene la Escala de Tiempo Nacional que tiene por denominación UTC(ROA). Esta escala se compara periódicamente con la referencia internacional Tiempo Universal Coordinado (UTC), mediante la participación en la comparación clave (KC) de tiempo (CCTF-K001.UTC), en el ámbito del acuerdo de reconocimiento mutuo del CIPM (MRA-CIPM).
+
+El valor absoluto de la diferencia entre UTC(ROA) y UTC se mantiene dentro de un margen de cien nanosegundos, según lo establecido por la Recomendación del Comité Consultivo para la Definición del Segundo (Comité Consultatif pour la Définition de la Seconde, CCDS), en la actualidad Comité Consultivo de Tiempo y Frecuencia, aprobada en su duodécima Asamblea en el año 1993.
+
+4\. Patrón nacional correspondiente a la magnitud intensidad de corriente eléctrica
+
+El patrón nacional correspondiente a la magnitud intensidad de corriente eléctrica, cuya unidad es el amperio (A), es realizado, mantenido y diseminado por el Centro Español de Metrología.
+
+Se realiza utilizando la relación A=V/Ω proporcionada por la ley de Ohm y la realización práctica de las unidades derivadas del SI, voltio V y ohmio Ω, basadas en los efectos Josephson y Hall cuántico respectivamente.
+
+Este patrón se compara periódicamente con los de otros Institutos Nacionales de Metrología, mediante la participación en comparaciones clave (KC) y regionales, en el ámbito del acuerdo de reconocimiento mutuo del CIPM (MRA-CIPM).
+
+5\. Patrón nacional correspondiente a la magnitud temperatura termodinámica
+
+El patrón nacional correspondiente a la magnitud temperatura termodinámica cuya unidad es el kelvin (K) es mantenido, conservado, custodiado y diseminado por el Centro Español de Metrología, mediante la realización de la Escala Internacional de Temperatura de 1990 (EIT-90) y termometría radiométrica primaria absoluta y relativa, de acuerdo con las recomendaciones del CIPM.
+
+La EIT-90 se materializa y mantiene mediante puntos fijos de temperatura. Se utilizan termómetros de resistencia de platino hasta 1235 K y cuerpos negros y termómetros de radiación para temperaturas superiores a 1235 K. La EIT-90 se disemina desde 83 K a 2500 K utilizando termómetros de interpolación; además es periódicamente comparada con las Escalas de otros Institutos Nacionales de Metrología.
+
+La realización, mantenimiento y diseminación del kelvin mediante termometría radiométrica primaria absoluta se lleva a cabo mediante la determinación de la potencia óptica emitida por una cavidad isoterma de emisividad, banda espectral y ángulo sólidos conocidos.
+
+La realización, mantenimiento y diseminación del kelvin mediante termometría radiométrica relativa se lleva a cabo mediante la medida de la potencia óptica en una serie de puntos fijos de temperatura termodinámica conocida.
+
+6\. Patrón nacional correspondiente a la magnitud intensidad luminosa
+
+El patrón nacional correspondiente a la magnitud intensidad luminosa cuya unidad es la candela (cd), es mantenido, conservado, custodiado y diseminado, bajo la supervisión y coordinación del Centro Español de Metrología, por el Instituto de Óptica «Daza de Valdés», dependiente del Consejo Superior de Investigaciones Científicas.
+
+Se realiza a partir de un radiómetro criogénico de sustitución eléctrica (ESCR) que permite medir el flujo radiante por comparación con una potencia eléctrica. La derivación de la intensidad luminosa se hace siguiendo la guía «Mise en pratique for the definition of the candela and associated derived units» elaborada por el Comité Consultivo para Fotometría y Radiometría (CCPR) del Comité Internacional de Pesas y Medidas (CIPM); en particular, según el método B de la recomendación para la realización práctica, que consiste en derivar la intensidad luminosa a partir de la medida de iluminancia y la distancia desde la fuente a la que se obtiene esa iluminancia.
+
+El patrón está materializado y conservado mediante un grupo de lámparas de incandescencia, que se comparan periódicamente con las de otros Institutos Nacionales de Metrología mediante participación en Comparaciones Claves (Key Comparisons, KC) organizadas por el CCPR del CIPM y por el Comité Técnico para la Fotometría y la Radiometría de la Asociación Europea de Institutos Nacionales de Metrología (EURAMET).
+
+> Se sustituye por el que figura como anexo I de la Orden ICT/149/2020, de 7 de febrero. [Ref. BOE-A-2020-2508](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2508), según establece su art. 1.
+
+> Redactado el apartado 2 conforme a la corrección de erratas publicada en BOE núm. 57, de 6 de marzo de 2020. [Ref. BOE-A-2020-3227](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3227)
+
+> Se sustituye por el que figura como anexo de la Orden ITC/2432/2006, de 20 de julio. [Ref. BOE-A-2006-13556](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-13556), según establece su art. único.

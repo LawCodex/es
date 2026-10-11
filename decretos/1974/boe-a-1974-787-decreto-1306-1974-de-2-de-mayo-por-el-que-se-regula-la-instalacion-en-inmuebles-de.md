@@ -1,0 +1,58 @@
+---
+title: "Decreto 1306/1974, de 2 de mayo, por el que se regula la instalación en inmuebles de sistemas de distribución de la señal de televisión por cable"
+identifier: "BOE-A-1974-787"
+eli: "https://www.boe.es/eli/es/d/1974/05/02/1306"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1974-05-02
+published: 1974-05-15
+in_force_from: 1974-06-04
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 116"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1974-787"
+retrieved: 2026-10-11
+---
+
+# Decreto 1306/1974, de 2 de mayo, por el que se regula la instalación en inmuebles de sistemas de distribución de la señal de televisión por cable
+
+El desarrollo de la televisión en España, así como los constantes progresos técnicos surgidos en este medio, han determinado la conveniencia de ofrecer nuevos procedimientos en la distribución de las señales que permitan una mejor recepción de dicho servicio público.
+
+Con estos objetivos comenzará a prestarse el servicio público de distribución de la señal de televisión por cable, y considerando las ventajas que ha de procurar al espectador, tal sistema, en cuanto a calidad de recepción y contenido de su programación, así como teniendo presente el principio de amplia libertad de utilización de la televisión por sus usuarios consagrado en el Convenio Internacional de Comunicaciones de veintidós de diciembre de mil novecientos sesenta y dos, resulta necesario dictar las normas precisas para encauzar jurídicamente la problemática que pudieran comportar en la relación arrendaticia las instalaciones inherentes a estas nuevas técnicas receptoras, al igual que anteriormente se dictaron para regular la instalación de antenas receptoras de televisión en el exterior de los inmuebles, por Decreto de dieciocho de octubre de mil novecientos cincuenta y siete, con vigencia reconocida en la disposición final segunda del texto refundido de la Ley de Arrendamientos Urbanos de veinticuatro de diciembre de mil novecientos sesenta y cuatro y en el artículo veintisiete de la Ley de veintitrés de julio de mil novecientos sesenta y seis. Al mismo tiempo, se faculta a las Entidades encargadas por la Dirección General de Radiodifusión y Televisión, única competente para regular la implantación del servicio de televisión por cable, según lo dispuesto en el Decreto dos mil quinientos nueve/mil novecientos setenta y tres, de once de octubre, a realizar las obras necesarias para establecer la infraestructura e instalar el servicio de televisión por cable en los inmuebles.
+
+En su virtud, de acuerdo con lo establecido por la disposición adicional octava del texto refundido de la Ley de Arrendamientos Urbanos, aprobado por el Decreto de veinticuatro de diciembre de mil novecientos sesenta y cuatro, y a propuesta de los Ministros de Justicia e Información y Turismo y previa deliberación del Consejo de Ministros en su reunión del día diecinueve de abril de mil novecientos setenta y cuatro,
+
+DISPONGO:
+
+## Artículo primero.
+
+Los inquilinos, arrendatarios o personas legalmente autorizadas para usar de la totalidad o parte de un inmueble urbano podrán instalar en los mismos, a través de las Empresas debidamente autorizadas por la Dirección General de Radiodifusión y Televisión, el servicio de televisión por cable, sin más limitaciones que las derivadas de la observancia de los Reglamentos Administrativos sobre la materia.
+
+Las obras conexas al ejercicio del derecho arrendaticio o posesorio antes citado no serán causa de resolución contractual, quedando excluidas del efecto previsto en la cláusula séptima del artículo ciento catorce de la vigente Ley de Arrendamientos Urbanos.
+
+## Artículo segundo.
+
+Uno. Las Entidades encargadas por la Dirección General de Radiodifusión y Televisión para establecer la infraestructura e instalar el servicio de televisión por cable quedan facultadas, conforme a su legislación especial, para la realización de cuantas obras sean necesarias respecto a la adecuada prestación del mismo.
+
+Dos. Los inquilinos y las Entidades encargadas de la instalación responderán civilmente de los daños que causen, en los términos establecidos en el Código Civil y, en su caso, en la Ley de Arrendamientos Urbanos,
+
+Tres. Las cuestiones que se susciten, en relación con la materia regulada por el presente artículo, se ventilarán ante los Tribunales ordinarios por los trámites establecidos en las normas procesales que sean de aplicación.
+
+## Artículo tercero.
+
+Las autorizaciones y servidumbres que precise obtener la «Compañía Telefónica Nacional de España» para la realización de las obras e instalaciones que exija la adecuada prestación del servicio de televisión por cable, se regirán por las normas contenidas en la Ley de treinta y uno de diciembre de mil novecientos cuarenta y cinco y en el contrato celebrado entre dicha Compañía y el Estado, aprobado por Decreto de treinta y uno de octubre de mil novecientos cuarenta y seis.
+
+## Artículo cuarto.
+
+Los Ministerios de Justicia e Información y Turismo quedan autorizados para dictar las normas complementarias precisas para el cumplimiento y ejecución del presente Decreto.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a dos de mayo de mil novecientos setenta y cuatro.
+
+FRANCISCO FRANCO
+
+El Ministro de la Presidencia del Gobierno,
+
+ANTONIO CARRO MARTÍNEZ

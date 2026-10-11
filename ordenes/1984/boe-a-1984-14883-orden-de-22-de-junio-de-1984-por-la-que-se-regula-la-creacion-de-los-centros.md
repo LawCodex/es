@@ -1,0 +1,113 @@
+---
+title: "Orden de 22 de junio de 1984 por la que se regula la creación de los Centros gestores, el funcionamiento de las Entidades titulares de los mismos y la percepción de las ayudas correspondientes, previstos en el Real Decreto 2707/1983, de 7 de septiembre, que aprueba el Reglamento de la Ley 19/1982, de 26 de mayo, sobre contratación de productos agrarios"
+identifier: "BOE-A-1984-14883"
+eli: "https://www.boe.es/eli/es/o/1984/06/22/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1984-06-22
+published: 1984-07-02
+in_force_from: 1984-07-22
+last_amended: 1994-06-07
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 157"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1984-14883"
+retrieved: 2026-10-11
+---
+
+# Orden de 22 de junio de 1984 por la que se regula la creación de los Centros gestores, el funcionamiento de las Entidades titulares de los mismos y la percepción de las ayudas correspondientes, previstos en el Real Decreto 2707/1983, de 7 de septiembre, que aprueba el Reglamento de la Ley 19/1982, de 26 de mayo, sobre contratación de productos agrarios
+
+Incluye la corrección de erratas publicada en BOE núm. 174, de 21 de julio de 1984. [Ref. BOE-A-1984-16554](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-16554).
+
+El Real Decreto 2707/1983, de 7 de septiembre, por el que se aprueba el Reglamento de la Ley 19/1982, de 20 de mayo, sobre Contratación de Productos Agrarios, recoge, en sus artículos 8.2, 11.1, 16.2, 19.2, 20.4 y 21.2, el establecimiento, funciones y facultades de los Centros gestores, configurados como requisito obligatorio para la homologación de los acuerdos, y con carácter administrativo y atribuciones derivadas de la aplicación y desarrollo de los mismos.
+
+Dada la importancia que para el desarrollo y ejecución de los acuerdos tendrán los Centros gestores, así como las Entidades titulares de los mismos en los acuerdos interprofesionales, se hace necesario establecer los criterios para su creación y desarrollo.
+
+En virtud de la facultad concedida en el artículo 3. del Real Decreto 2707/1983, he tenido a bien disponer:
+
+## Primero.
+
+Las partes suscribientes de un Acuerdo colectivo o interprofesional cuando quieran que éste sea homologado, deberán crear obligatoriamente un Centro gestor.
+
+## Segundo.
+
+Las funciones desarrolladas por el Centro gestor serán:
+
+– Centralizar las actividades necesarias para la aplicación y desarrollo del Acuerdo.
+
+– Desarrollar labores informativas.
+
+– Elaborar trabajos y estudios pertinentes necesarios para que las Empresas suscribientes puedan llevar a término las decisiones negociadas en el Acuerdo, una vez recibidas las comunicaciones de las Empresas a que hace referencia el artículo del Real Decreto 2707/1983.
+
+– Comunicar, una vez decidido el programa y los objetivos de producción a las Empresas suscribientes los cupos que les corresponden y efectuar el adecuado seguimiento para conocer cómo se van cumpliendo las previsiones de producción, transformación, almacenamiento y comercialización.
+
+– Actuar como depositario de los contratos de compraventa firmados realizando las pertinentes comprobaciones, análisis, estudios y estadísticas oportunas para la consecución de los objetivos del Acuerdo.
+
+– Comunicar al Organismo administrativo correspondiente la sustitución de los contratos de compraventa por un Acuerdo Colectivo homologado, cuando las dos terceras partes de las Empresas agrarias que hubiesen formalizado contratos de compraventa con una misma Empresa adquirente para un denominado producto para el que se homologa posteriormente un Acuerdo colectivo, y siempre que ambas partes estén ubicadas en su ámbito de aplicación.
+
+– Realizar cuantas funciones le sean encomendadas por las partes suscribientes.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 174, de 21 de julio de 1984. [Ref. BOE-A-1984-16554](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-16554).
+
+## Tercero.
+
+Las partes suscribientes del Acuerdo designarán un Director-Gerente al frente del Centro gestor, que será el encargado de su funcionamiento en orden al cumplimiento de los objetivos y funciones derivadas de la aplicación del Acuerdo.
+
+## Cuarto.
+
+Cuando las partes suscribientes de un Acuerdo interprofesional homologado hayan constituido una Entidad con personalidad jurídica propia como titular del Centro gestor, remitirán al Ministerio de Agricultura, Pesca y Alimentación la siguiente documentación:
+
+– Copia del Acuerdo interprofesional.
+
+– Memoria de la Entidad, en la que figuren su denominación, domicilio y ámbito territorial, partes suscribientes, fines y objetivos de su creación.
+
+– Estatutos visados por el Organismo correspondiente, de acuerdo con su personalidad jurídica, y en los que figuran los órganos de representación, gobierno y administración, funcionamiento de la Entidad, requisitos para la adquisición y pérdida de la condición de miembros de la Entidad, régimen electoral para los órganos de gobierno y régimen económico.
+
+– Reglamento de régimen interior.
+
+## Quinto.
+
+Los órganos de gobierno de la Entidad estará formados por Vocales representantes, debidamente acreditados y apoderados para el ejercicio de sus funciones, siempre con carácter paritario entre la representación del sector agrario y de las Empresas adquirentes.
+
+Las partes suscribientes podrán cambiar libremente a sus Vocales.
+
+## Sexto.
+
+El Ministerio de Agricultura, Pesca y Alimentación podrá conceder subvenciones a estas Entidades de hasta el 60, 40 y 30 por 100, en el primero, segundo y tercer años a contar- desde la fecha de solicitud de los gastos reales de funcionamiento, mantenimiento y promoción.
+
+## Séptimo.
+
+Para poder acceder a estas ayudas, las Entidades titulares de los Centros gestores con derecho a ellos deberán remitir al inicio de cada ejercicio económico su presupuesto de gastos de funcionamiento al Ministerio de Agricultura, Pesca y Alimentación. A la vista del mismo y teniendo en cuenta las consignaciones presupuestarias destinadas a este fin y los límites establecidos para este tipo de ayudas, el Ministerio de Agricultura, Pesca y Alimentación fijará el tope máximo.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 174, de 21 de julio de 1984. [Ref. BOE-A-1984-16554](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-16554).
+
+## Octavo.
+
+Los beneficiarios de las subvenciones deberán justificar sus gastos reales por trimestres naturales, con carácter previo al pago, mediante la presentación ante la Dirección General de Política Alimentaria de las correspondientes facturas y comprobantes de pago, en el plazo máximo de treinta días naturales desde la finalización de cada trimestre.
+
+La tramitación de las ayudas se efectuará de conformidad con el Real Decreto 2225/1993, de 17 de diciembre, por el que se aprueba el Reglamento del procedimiento para la concesión de subvenciones públicas.
+
+La falta de resolución expresa, en el plazo de seis meses, tendrá carácter desestimatorio.
+
+Las resoluciones de concesión de ayudas quedarán supeditadas a la existencia de crédito suficiente en el presupuesto de gastos de la Dirección General de Política Alimentaria.
+
+La resolución del procedimiento pondrá fin a la vía administrativa.
+
+> Se modifica por el art. único de la Orden de 27 de mayo de 1994. [Ref. BOE-A-1994-12836](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-12836).
+
+## Noveno.
+
+Los beneficiarios de las subvenciones quedan obligados a someterse a las actuaciones de comprobación a efectuar por la Dirección General de Política Alimentaria, y a las de control financiero que corresponden a la Intervención General de la Administración del Estado, en relación con las subvenciones y ayudas concedidas y a las previstas en la legislación reguladora del Tribunal de Cuentas.
+
+En caso de incumplimiento, total o parcial, de los fines establecidos conforme a la presente Orden, quedará sin efecto la subvención concedida, debiendo la entidad beneficiaria proceder al reintegro inmediato de las cantidades que tuviere percibidas, a requerimiento de la Administración, y luego de cumplido el trámite de audiencia.
+
+> Se modifica por el art. único de la Orden de 27 de mayo de 1994. [Ref. BOE-A-1994-12836](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-12836).
+
+## Décimo.
+
+Queda autorizada la Dirección General de Política Alimentaria para dictar cuantas disposiciones sean necesarias para la mejor aplicación de la presente.
+
+Madrid, 22 de junio de 1984.–ROMERO HERRERA.

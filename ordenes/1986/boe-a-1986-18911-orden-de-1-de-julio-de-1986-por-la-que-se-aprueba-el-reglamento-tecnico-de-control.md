@@ -1,0 +1,1062 @@
+---
+title: "Orden de 1 de julio de 1986 por la que se aprueba el Reglamento Técnico de Control y Certificación de Semillas de Plantas Hortícolas"
+identifier: "BOE-A-1986-18911"
+eli: "https://www.boe.es/eli/es/o/1986/07/01/(5)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1986-07-01
+published: 1986-07-16
+in_force_from: 1986-07-17
+last_amended: 2025-05-30
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 169"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-18911"
+retrieved: 2026-10-11
+---
+
+# Orden de 1 de julio de 1986 por la que se aprueba el Reglamento Técnico de Control y Certificación de Semillas de Plantas Hortícolas
+
+Incluye la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. [Ref. BOE-A-1987-10508](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10508).
+
+Ilustrísimo señor:
+
+La necesidad de adaptar la legislación específica relativa al control y certificación de semillas de plantas hortícolas a la Directiva del Consejo de las Comunidades Europeas 70/458, sobre la comercialización de semillas hortícolas, hace preciso publicar el Reglamento Técnico de Control y Certificación de Semillas de Plantas Hortícolas.
+
+Por ello, este Ministerio, a propuesta de la Dirección General de la Producción Agraria, ha tenido a bien disponer:
+
+### Primero.
+
+En orden al desarrollo de la Directiva del Consejo de la CEE 70/458, se aprueba el Reglamento Técnico de Control y Certificación de Semillas de Plantas Hortícolas, cuyo texto figura como anejo único a la presente Orden.
+
+### Segundo.
+
+La presente Orden entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Lo que comunico a V. I. para su conocimiento y efectos.
+
+Madrid, 1 de julio de 1986.
+
+ROMERO HERRERA
+
+Ilmo. Sr. Director general de la Producción Agraria.
+
+## ANEJO ÚNICO — Reglamento Técnico de Control y Certificación de Semillas de Plantas Hortícolas
+
+## I. ESPECIES SUJETAS AL REGLAMENTO TÉCNICO
+
+I. Quedan incluidas en el ámbito de aplicación de este Reglamento Técnico, las semillas de especies y variedades botánicas siguientes, cuyo fin sea la producción de plantas hortícolas o de utilización agrícola, excluida la utilización ornamental:
+
+*Allium cepa* L:
+
+– Grupo Cepa (Cebolla).
+
+– Grupo Aggregatum (Chalota).
+
+*Allium fistulosum* L. (Cebolleta):
+
+– Todas las variedades.
+
+*Allium porrum* L. (Puerro):
+
+– Todas las variedades.
+
+*Allium sativum* L. (Ajo):
+
+– Todas las variedades.
+
+*Allium schoenoprasum* L. (Cebollino):
+
+– Todas las variedades.
+
+*Anthriscus cerefolium* (L.) Hoffm. (Perifollo)
+
+– Todas las variedades.
+
+*Apium graveolens* L. (Apio):
+
+– Grupo Apio.
+
+– Grupo Apionabo.
+
+*Asparagus officinalis* L. (Espárrago):
+
+– Todas las variedades.
+
+*Beta vulgaris* L.:
+
+– Grupo Remolacha.
+
+– Grupo Acelga.
+
+*Borrago officinalis* L. (Borraja).
+
+*Brassica oleracea* L.:
+
+– Grupo Col rizada.
+
+– Grupo Coliflor.
+
+– Grupo Capitata (lombarda y repollo).
+
+– Grupo Col de Bruselas.
+
+– Grupo Colirrábano.
+
+– Grupo Col de Milán.
+
+– Grupo Brécol (bróculi o brécol).
+
+– Grupo Col negra.
+
+– Grupo Berza.
+
+*Brassica rapa* L.:
+
+– Grupo Col de China.
+
+– Grupo Nabo.
+
+*Capsicum annuum* L. (Pimientos y guindillas):
+
+– Todas las variedades.
+
+*Cicer arietinum* L. (partim) Garbanzo.
+
+*Cichorium endivia* L. (Escarola):
+
+– Todas las variedades.
+
+*Cichorium intybus* L.:
+
+– Grupo Endivia.
+
+– Grupo Achicoria común (incluida la achicoria roja).
+
+– Grupo Achicoria industrial (raíz).
+
+*Citrullus lanatus* (Thunb.) Matsum. et Nakai (Sandía):
+
+– Todas las variedades.
+
+*Cucumis melo* L. (Melón):
+
+– Todas las variedades.
+
+*Cucumis sativus* L.:
+
+– Grupo Pepino.
+
+– Grupo Pepinillo.
+
+*Cucurbita maxima* Duchesne (Calabaza gigante):
+
+– Todas las variedades.
+
+*Cucurbita pepo* L. (Calabazas, como la calabaza bonetera, y calabacines):
+
+– Todas las variedades.
+
+*Cynara cardunculus* L.:
+
+– Grupo Alcachofa.
+
+– Grupo Cardo.
+
+*Daucus carota* L. (Zanahoria de mesa y zanahoria forrajera):
+
+– Todas las variedades.
+
+*Foeniculum vulgare* Mill. (Hinojo):
+
+– Grupo Azoricum.
+
+*Lactuca sativa* L. (Lechuga):
+
+– Todas las variedades.
+
+*Lens culinaris* L. (partim) Lenteja.
+
+*Petroselinum crispum* (Mill.) Nyman ex A. W. Hill:
+
+– Grupo Perejil de hoja.
+
+– Grupo Perejil tuberoso.
+
+*Phaseolus coccineus* L. (Judía escarlata o judía de España):
+
+– Todas las variedades.
+
+*Phaseolus vulgaris* L.:
+
+– Grupo Judía de mata baja.
+
+– Grupo Judía de enrame.
+
+*Pisum sativum* L.:
+
+– Grupo Guisante de grano liso redondo.
+
+– Grupo Guisante de grano rugoso.
+
+– Grupo Guisante cometodo.
+
+*Raphanus sativus* L.:
+
+– Grupo Rábano o rabanito.
+
+– Grupo Rábano negro.
+
+*Rheum rhabarbarum* L. (Ruibarbo):
+
+– Todas las variedades.
+
+*Scorzonera hispanica* L. (Escorzonera o salsifí negro):
+
+– Todas las variedades.
+
+*Solanum lycopersicum* L. (Tomate):
+
+– Todas las variedades.
+
+*Solanum melongena* L. (Berenjena):
+
+– Todas las variedades.
+
+*Spinacia oleracea* L. (Espinaca):
+
+– Todas las variedades.
+
+*Tragopogon porrifolium* L. (Salsifí blanco).
+
+*Valerianella locusta* (L.) Laterr. (Canónigo o hierba de los canónigos):
+
+– Todas las variedades.
+
+*Vicia faba* L. (Haba):
+
+– Todas las variedades.
+
+*Zea mays* L.:
+
+– Grupo Maíz dulce.
+
+– Grupo Maíz para palomitas.
+
+Todos los híbridos de las especies y grupos enumerados *supra.*
+
+Solamente podrán ser denominadas como semillas de plantas hortícolas aquellas que hayan sido controladas por los servicios oficiales correspondientes y que hayan sido obtenidas según las disposiciones de este Reglamento; de la Ley 30/2006, de 26 de julio, de semillas y plantas de vivero y de recursos fitogenéticos; del Decreto 3767/1972, de 23 de diciembre, por el que se aprueba el Reglamento General sobre Producción de Semillas y Plantas de Vivero y modificaciones posteriores, así como la Orden de 23 de mayo de 1986 por la que se aprueba el Reglamento General de Control y Certificación de Semillas y Plantas de Vivero.
+
+También podrán recibir la denominación de “semillas” la importada que cumpla los correspondientes requisitos legales.
+
+> Se modifica por el art. 1.1 de la Orden APA/455/2020, de 26 de mayo. [Ref. BOE-A-2020-5413](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5413)
+
+> Se modifica por el art. 3 de la Orden AAA/198/2014, de 12 de febrero. [Ref. BOE-A-2014-1647](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1647).
+
+> Se modifica por el art. 1 de la Orden APA/1818/2007, de 13 de junio. [Ref. BOE-A-2007-12197](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12197).
+
+> Se modifica por el apartado 10.1 de la Orden de 16 de julio de 1990. [Ref. BOE-A-1990-18972](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-18972).
+
+> Se modifica por el apartado 1 de la Orden de 6 de octubre de 1988. [Ref. BOE-A-1988-24864](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-24864).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. [Ref. BOE-A-1987-18911](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-18911).
+
+## II. CATEGORÍAS DE SEMILLAS
+
+Se admiten las siguientes categorías de semillas:
+
+– Material Parental.
+
+– Semillas de Prebase (Generaciones anteriores a semilla de Base).
+
+– Semilla de Base.
+
+– Semilla Certificada.
+
+– Semilla Estándar.
+
+Las semillas de Cichorium intybus L (partim.): Achicoria industrial, no podrán comercializarse más que si pertenecen a las categorías "Semillas de prebase", "Semillas de base" o "Semillas certificadas", siempre que satisfagan los requisitos establecidos en los anejos I y II.
+
+Las semillas de las demás especies contempladas en el presente Reglamento sólo se podrán comercializar si pertenecen a las categoría "Semillas de prebase", "Semillas de base", "Semillas certificadas" "Semillas estándar", siempre que cumplan los requisitos establecidos en los anejos I y Il.
+
+> Se sustituye la palabra «standard» por «estándar» según establece el art. 8.1 de la Orden APA/800/2022, de 5 de agosto. [Ref. BOE-A-2022-13835](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13835)
+
+> Se añaden los dos párrafos últimos por el apartado 10.2 de la Orden de 16 de julio de 1990. [Ref. BOE-A-1990-18972](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-18972).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. [Ref. BOE-A-1987-10508](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10508).
+
+## III. VARIEDADES COMERCIALES OBJETO DE CERTIFICACIÓN Y CONTROL
+
+En las especies para las cuales el Ministerio de Agricultura, Pesca y Alimentación haya establecido una lista de variedades comerciales, sólo podrán producirse para presentarse a la certificación o control oficial semilla de variedades incluidas en la misma, exceptuándose la semilla de aquellas variedades que se destinen exclusivamente a la exportación.
+
+## IV. DENOMINACIONES VARIETALES
+
+Las denominaciones varietales de las semillas de plantas hortícolas que se comercialicen serán exactamente con las que figuren inscritas en el Registro de Variedades Comerciales o en el Catálogo Común de Variedades de Plantas Hortícolas de la CEE. Caso de no existir lista de variedades comerciales, para una determinada especie, o no estar incluida en el Catálogo Común de Variedades de Plantas Hortícolas de la CEE, la denominación varietal deberá cumplir las normas al respecto del Reglamento General del Registro de Variedades.
+
+Para las variedades que sean notoriamente conocidas con anterioridad al 1 de marzo de 1986, se podrá mencionar en las etiquetas o inscripciones sobre los envases, además de los datos prescritos en el apartado X.2, el nombre de una determinada selección conservadora de la variedad, siempre que haya sido, previamente, declarada al Instituto Nacional de Semillas y Plantas de Vivero, y no se refiera a propiedades especiales relacionadas con dicha selección conservadora. Dicha mención irá a continuación de la denominación varietal, de la que estará claramente separada, preferentemente mediante un guión, y no deberá destacar más que la denominación varietal.
+
+A partir de una fecha determinada, que sé fijará antes del 1 de julio de 1992, siguiendo el procedimiento establecido en la normativa de la CEE, sólo podrán mencionarse en la etiqueta aquellas selecciones conservadoras declaradas con anterioridad a la fecha que se fije.
+
+> Se modifica por el apartado 10.3 de la Orden de 16 de julio de 1990. [Ref. BOE-A-1990-18972](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-18972).
+
+## V. PRODUCCIÓN DE SEMILLAS
+
+V.1 Procesos de conservación.
+
+En las variedades de obtentor, el método de conservación será el que figure en el Registro de Variedades Comerciales de Plantas.
+
+En las variedades de obtentor no conocido, los productores que realicen la conservación seguirán las normas de selección varietal conservadora generalmente admitida para la especie.
+
+En cualquier caso el número máximo de generaciones a partir del Material Parental hasta alcanzar la semilla de Base será de cuatro.
+
+V.2 Requisitos de los procesos de producción.
+
+El cultivo estará prácticamente libre de cualquier plaga que reduzca la utilidad y calidad de los materiales de reproducción.
+
+El cultivo también cumplirá los requisitos relativos a las plagas cuarentenarias de la Unión, las plagas cuarentenarias de zonas protegidas y las plagas reguladas no cuarentenarias contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
+
+Los campos de producción de semilla de Base y Certificada de las especies hortícolas a que afecta este Reglamento han de cumplir los siguientes requisitos:
+
+No podrá destinarse a la producción de semillas ningún campo que en la campaña anterior hubiese estado cultivado con la misma especie.
+
+El estado del cultivo deberá ser tal que permita el control de la identidad, pureza varietal y su estado sanitario.
+
+Las parcelas de producción de semilla de cada una de las diferentes categorías deberán guardar las distancias mínimas de aislamientos que se indican en el anejo I.
+
+En el caso de no apreciarse suficientemente la identidad varietal, aparecer plantas fuera de tipo o detectarse la presencia de plagas o enfermedades que afecten al valor de la semilla, los cultivos podrán ser rechazados en su calificación de semilla de Base o Certificada.
+
+Los porcentajes máximos admisibles de plantas que no correspondan claramente al tipo varietal serán los siguientes:
+
+Autógamas:
+
+Categoría Base: 0,5 por 100.
+
+Categoría Certificada: 1 por 100.
+
+Alógamas:
+
+Categoría Base: 1 por 100.
+
+Categoría Certificada: 2 por 100.
+
+V.3 Inspecciones de campo.
+
+Todos los cultivos destinados a producir Semilla Base o Certificada serán objeto, por lo menos, de una inspección oficial, efectuada en el momento más adecuado para conocer la pureza varietal y verificar en campo el cumplimiento de los requisitos especificados en este Reglamento.
+
+En el caso de que, tras las inspecciones oficiales de campo, siguiera habiendo dudas sobre la identidad varietal de las semillas, la autoridad de certificación podrá utilizar, para el examen de dicha identidad, una técnica bioquímica o molecular reconocida internacionalmente y reproducible, de conformidad con las normas internacionales aplicables.
+
+V.4 Requisitos de las semillas.
+
+Las semillas de las categorías Base, Certificada y Estándar han de cumplir los requisitos que figuran en el anejo II.
+
+V.5. Para las especies incluidas en este Reglamento será de aplicación lo dispuesto en los apartados 26a, 26b y 26c del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, referente a semillas no certificadas definitivamente, y sólo en los casos en que procedan de la multiplicación de semillas de categorías prebase o base.
+
+> Se añade un párrafo al final del apartado V.3 y se sustituye la palabra «standard» por «estándar» del V.4 según establece el art. 8.1 y 2 de la Orden APA/800/2022, de 5 de agosto. [Ref. BOE-A-2022-13835](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13835)
+
+> Se modifica el apartado V.2 por el art. 1.2 de la Orden APA/455/2020, de 26 de mayo. [Ref. BOE-A-2020-5413](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5413)
+
+> Se añade el apartado V.5 por el apartado 10.4 de la Orden de 16 de julio de 1990. [Ref. BOE-A-1990-18972](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-18972).
+
+## VI. DECLARACIONES DE CULTIVO
+
+VI.1 Semilla de Prebase, de Base y Certificada.
+
+Las declaraciones de cultivos se realizarán de acuerdo con el punto 12 del Reglamento General de Control y Certificación de Semillas y Plantas de Vivero y tendrán que obrar en poder de los servicios oficiales de control, en un plazo máximo de treinta días después de efectuarse la siembra o trasplante.
+
+Cualquier modificación de la declaración de cultivos se comunicará dentro del plazo de veinte días de haberse producido.
+
+Previamente a la admisión de cualquier cultivo declarado para la producción de semilla de categoría Certificada se podrá exigir por el personal inspector la presentación de las etiquetas oficiales correspondientes a los envases de semillas utilizadas.
+
+VI.2 Semilla Estándar.
+
+Para la semilla estándar no se realizará declaración de cultivos. No obstante, anualmente y antes del 1 de noviembre, se enviará a los servicios oficiales de control correspondientes una relación de los cultivos recolectados hasta la fecha, según el modelo del anexo III.
+
+> Se sustituye la palabra «standard» por «estándar» del apartado 2 según establece el art. 8.1 de la Orden APA/800/2022, de 5 de agosto. [Ref. BOE-A-2022-13835](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13835)
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. [Ref. BOE-A-1987-10508](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10508).
+
+## VII. PRECINTADO DE SEMILLAS
+
+VII.1 Tamaño de los lotes.
+
+El peso máximo de los lotes no podrá exceder de:
+
+Para semillas de “Phaseolus coccineus”, “Phaseolus vulgaris”, “Pisum sativum” y “Vicia faba”: 30 toneladas.
+
+Para semillas de tamaño igual o superior al de los granos de trigo, excepto las de “Phaseolus coccineus”, “Phaseolus vulgaris”, “Pisum sativum” y “Vicia faba”: 20 toneladas.
+
+Para semillas de tamaño inferior al de los granos de trigo: 10 toneladas.
+
+En el peso máximo de los lotes se admite una tolerancia de hasta el 5 por 100.
+
+VII.2 Identificación de los lotes.
+
+Cada lote de semillas de cualquier categoría será identificado por un número de referencia, de acuerdo con las normas que a tal fin se establezcan por el Instituto Nacional de Semillas y Plantas de Vivero.
+
+Las etiquetas oficiales a utilizar en el precintado de semilla de Prebase, de Base y Certificada se ajustarán a lo indicado en el punto 20 del Reglamento General de Control y Certificación de Semillas y Plantas de Vivero.
+
+VII.3 Requisitos especiales para semilla de Base y Certificada.
+
+Sólo podrán ser objeto de precintado oficial los lotes de semillas de categoría de Base y Certificada; cuyos envases contengan un peso superior a los indicados en el anejo IV.
+
+En el anejo V se indica, por especies, el tamaño de la muestra a tomar oficialmente en el momento del precintado de cada lote y su periodo mínimo de conservación; dichas muestras se tomarán por duplicado quedando una en poder del Productor y retirándose la otra por el Inspector del Servicio Oficial de Control responsable del precintado.
+
+VII.4 Requisitos especiales para semilla estándar.
+
+El precintado y la toma de muestras correspondiente en esta categoría será responsabilidad del Productor, siguiendo la normativa de este Reglamento.
+
+VII.4.1 Control de precintados de semilla estándar.
+
+La reseña detallada de todos los lotes que se precinten en un determinado almacén autorizado se relacionarán en impresos, cuyo modelo figura en el anejo VI, debiendo enviarse por el Productor aI Servicio Oficial de Control correspondiente los impresos que se hayan cumplimentado al finalizar cada trimestre del año, quedándose el Productor con una copia durante un período mínimo de cuatro años.
+
+Los Productores de semilla estándar antes de proceder a la comercialización de un lote determinado de semillas deberán tomar por duplicado una muestra con el peso mínimo indicado para cada especie en el anejo V, las cuales serán debidamente conservadas por los mismos, por un período de tiempo, al menos, igual al señalado en dicho anejo. Estas muestras estarán a disposición de los Servicios Oficiales de Control para la realización de las pruebas de postcontrol que se estimen necesarias.
+
+El rigor del muestreo, efectuado por el Productor, será verificado mediante comprobaciones aleatorias realizadas por los Servicios Oficiales de Control.
+
+> Se sustituye la palabra «standard» por «estándar» de los apartados 4 y 4.1 según establece el art. 8.1 de la Orden APA/800/2022, de 5 de agosto. [Ref. BOE-A-2022-13835](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13835)
+
+> Se modifica el apartado 1 por el art. único.1 de la Orden ARM/3187/2010, de 3 de diciembre. [Ref. BOE-A-2010-19102](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19102).
+
+> Se modifica el apartado 1 por el art. 4 de la Orden de 17 de julio de 1996. [Ref. BOE-A-1996-16632](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-16632).
+
+> Se modifica el apartado 1 por el apartado 1 de la Orden 6 de octubre de 1988. [Ref. BOE-A-1988-24864](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-24864).
+
+> Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. [Ref. BOE-A-1987-10508](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10508).
+
+## VIII. PRE Y POSCONTROL
+
+El Instituto Nacional de Semillas y Plantas de Vivero dictará las normas a seguir para la realización de los ensayos oficiales de pre y postcontrol de ámbito nacional, con objeto de verificar el cumplimiento de los requisitos especificados en el anejo II, para lo cual se podrán tomar muestras oficiales, con los pesos mínimos indicados en el anejo V, en cualquier fase de los procesos de producción, acondicionamiento, conservación o comercialización de las semillas.
+
+En el caso de detectarse en los controles oficiales reincidencias sobre anomalías graves de índoles varietal o sanitaria se podrá prohibir al Productor afectado la comercialización de la correspondiente variedad, hasta que se demuestre la eliminación de las anomalías observadas, independientemente de poderse proceder, en cualquier caso, a la incoación de expediente sancionador por las infracciones administrativas en que se pudiera haber incurrido.
+
+Las semillas que se importen podrán ser igualmente objeto de postcontrol oficial.
+
+## IX. PRODUCTORES DE SEMILLAS DE PLANTAS HORTÍCOLAS
+
+IX.1 Categorías de Productores.
+
+Se admiten las siguientes categorías:
+
+– Productor mantenedor.
+
+– Productor multiplicador.
+
+– Productor procesador.
+
+IX.2 Requisitos para ser productor.
+
+Los productores de semillas hortícolas deberán, además de cumplir lo especificado en artículo 13 del Real Decreto 1054/2021, de 30 de noviembre, por el que se establecen y regulan el Registro de operadores profesionales de vegetales, las medidas a cumplir por los operadores profesionales autorizados a expedir pasaportes fitosanitarios y las obligaciones de los operadores profesionales de material vegetal de reproducción, y se modifican diversos reales decretos en materia de agricultura, ajustarse a lo siguiente:
+
+a) Capacidad de instalaciones: La capacidad de las instalaciones para ser productor de una o todas las especies referidas en este Reglamento ha de ser tal que, como mínimo, permita la manipulación de las producciones anuales de semillas que espere el productor.
+
+b) Clases de instalaciones: Las instalaciones podrán ser propiedad del productor o estar a su disposición a través de un contrato de prestación de servicios; y han de comprender como mínimo:
+
+– Almacenamiento.
+
+– Recepción.
+
+– Limpieza y selección mecánica.
+
+– Tratamiento.
+
+– Envasado.
+
+– Laboratorio de análisis y ensayo de semillas.
+
+c) Personal inspector. El número de Inspectores de Campo corresponderá, al menos, a:
+
+– Un Inspector por cada 50 hectáreas de cultivos de semilla Base.
+
+– Un Inspector por cada 100 hectáreas de cultivos de semilla certificada.
+
+– Un Inspector por cada 200 hectáreas de cultivos de semillas estándar.
+
+> Se modifica por el art. 8.1 y 3 de la Orden APA/800/2022, de 5 de agosto. [Ref. BOE-A-2022-13835](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13835)
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. [Ref. BOE-A-1987-10508](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10508).
+
+## X. COMERCIALIZACIÓN
+
+X.1 Envases.
+
+Los envases de semilla estándar o de reenvasados de semilla Certificada serán cerrados de manera que no puedan ser abiertos sin que el envase, el sistema de cierre o la etiqueta del Productor se deterioren y, a excepción de los pequeños envases, irán provistos de un precinto metálico o de un cierre equivalente colocado por el Productor.
+
+X.2 Etiquetas.
+
+Las semillas de las categorías prebase, base y certificada llevarán una etiqueta oficial que cumplirá lo prescrito en el capítulo V, artículo 20, del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, debiéndose indicar el nombre de la especie y de la variedad, al menos, en caracteres latinos.
+
+En las etiquetas o incripciones de los envases de semillas estándar o de pequeños envases de semilla Certificada figurarán las prescripciones que se indican en el anejo VII.
+
+El tamaño mínimo de las etiquetas será de 110 x 67 milímetros (excepto para los pequeños envases).
+
+El color de las etiquetas será amarillo para las semillas estándar y azul para las Certificadas.
+
+En el caso de semillas de base y certificadas, las etiquetas o inscripciones del productor y, en su caso, del importador se redactarán de forma que no puedan confundirse con la etiqueta oficial mencionada anteriormente.
+
+Cuando se trate de semillas de categoría estándar, excepto en el caso de pequeños envases, las informaciones establecidas para la etiqueta, o inscripción en el envase, prescritas en el anejo VII, estarán claramente separadas de cualquier otra información que figure en la etiqueta o en el envase.
+
+X.3 Reenvasados.
+
+X.3.1 Semilla Certificada.
+
+Los Productores podrán reenvasar semilla de categoría Certificada de su propia producción en pequeños envases de capacidades iguales o inferiores a las indicadas en el anejo IV, sin que se proceda a un nuevo precintado oficial. A este efecto, los Producto-res deberán colocar en el envase, además de la etiqueta o inscripción del Productor, de acuerdo con lo indicado en el anejo VII, un boletín numerado que será facilitado por el Servicio Oficial de Control correspondiente, con las siguientes indicaciones:
+
+REENVASADO DE SEMILLAS CERTIFICADAS<br> INSPV - España<br> Número de control ...........<br> Peso del envase ...........
+
+Trimestralmente los Productores deberán comunicar a los respectivos Servicios Oficiales de Control los reenvasados realizados en cada uno de sus almacenes en el modelo que se les facilite.
+
+El número de boletines utilizados en los reenvasados será justificado mediante la entrega de las etiquetas oficiales del precintado original, que se adjuntará a la comunicación trimetral sobre reenvasados.
+
+X.3.2 Semilla Estándar.
+
+En los reenvasados de semilla de categoría estándar que se realicen por el Productor se conservará siempre el número de lote original.
+
+Para las semillas que no sean de producción propia, podrá realizarse el reenvasado en dichas semillas producidas por otro Productor, siempre que se ajusten a lo siguiente:
+
+– Un Productor sólo podrá autorizar el reenvasado de semillas de su propia producción, nunca semilla adquirida a otros Productores.
+
+– El Productor que efectúe el reenvasado será responsable de que las semillas por él reenvasadas se ajusten a las especificaciones de este Reglamento.
+
+> Se sustituye la palabra «standard» por «estándar» de los apartados 1, 2 y 3.2 según establece el art. 8.1 de la Orden APA/800/2022, de 5 de agosto. [Ref. BOE-A-2022-13835](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13835)
+
+> Se modifica el apartado 2 por el apartado 10.5 de la Orden de 16 de julio de 1990. [Ref. BOE-A-1990-18972](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-18972).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. [Ref. BOE-A-1987-10508](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10508).
+
+## ANEJO I — Distancias mínimas de aislamiento en los cultivos para producción de semillas
+
+a) Autógamas (garbanzo, guisante, judía, lechuga, lenteja y tomate).
+
+1\. En relación con parcelas de otras variedades o parcelas de cultivos comerciales de la misma variedad:
+
+– Semilla de Base y de Prebase: 50 metros.
+
+– Semilla Certificada: 10 metros.
+
+b1) Beta vulgaris:
+
+1\. Con relación a fuentes de polen del género Beta no incluidas a continuación: 1.000 m.
+
+2\. Con relación a fuentes de polen de variedades de la misma subespecie, pertenecientes a un grupo diferente de variedades:
+
+Semilla de base y de prebase. 1.000 m.
+
+Semilla certificada: 600 m.
+
+3\. Con relación a fuentes de polen de variedades de la misma subespecie, pertenecientes al mismo grupo de variedades:
+
+Semilla de base y de prebase: 600 m.
+
+Semilla certificada: 300 m.
+
+4\. En relación con los grupos de variedades a que se hace referencia en los puntos 2 y 3, se dispone lo siguiente:
+
+4.1 Beta vulgaris L. var. vulgaris, acelga.
+
+Beta vulgaris L. var. conditiva Alef, remolacha roja.
+
+Cuando el cultivo sea de una variedad genéticamente monogermen, las variedades multigérmenes se considerarán como pertenecientes a un grupo diferente.
+
+4.2 Beta vulgaris L. var. vulgaris, acelga.
+
+Sin perjuicio de lo dispuesto en el punto 4.1, y sobre la base de sus caracteres, las variedades se clasificarán en cinco grupos de la siguiente manera:
+
+Grupo 1. Caracteres: Con peciolo blanco y limbo de la hoja verde pálido, sin coloración antociánica.
+
+Grupo 2. Caracteres: Con peciolo blanco y limbo de la hoja verde medio u oscuro, sin coloración antociánica.
+
+Grupo 3. Caracteres: Con peciolo verde y limbo de la hoja verde medio u oscuro, sin coloración antociánica.
+
+Grupo 4. Caracteres: Con peciolo rosa y limbo de la hoja verde medio u oscuro.
+
+Grupo 5. Caracteres: Con peciolo rojo y limbo de la hoja con coloración antociánica.
+
+4.3 Beta vulgaris L. var. conditiva Alef, remolacha roja.
+
+Sin perjuicio de lo dispuesto en el punto 4.1, y sobre la base de sus caracteres, las variedades se clasificarán en seis grupos de la siguiente manera:
+
+Grupo 1. Caracteres: Con sección longitudinal de la raíz con forma elíptica transversa estrecha o transversa elíptica y con raíz roja o púrpura.
+
+Grupo 2. Caracteres: Con sección longitudinal de la raíz con forma circular o elíptica ancha y con raíz de carne blanca.
+
+Grupo 3. Caracteres: Con sección longitudinal de la raíz con forma circular o elíptica ancha y raíz de carne amarilla.
+
+Grupo 4. Caracteres: Con sección longitudinal de la raíz con forma circular o elíptica ancha y raíz de carne roja o púrpura.
+
+Grupo 5. Caracteres: Con sección longitudinal de la raíz con forma oblonga estrecha y raíz de carne roja o púrpura.
+
+Grupo 6. Caracteres: Con sección longitudinal de la raíz con forma triangular estrecha y raíz de carne roja o púrpura.
+
+b2) Alógamas (especies de los géneros Brassica y Allium):
+
+1\. En relación con parcelas de otras variedades de distinto tipo morfológico, agronómico o de utilización, susceptibles de provocar deterioro serio a causa de su cruce:
+
+– Semilla de Base y Prebase: 1.000 metros.
+
+– Semilla Certificada: 600 metros.
+
+2\. En relación con parcelas de otras variedades del mismo tipo morfológico, agronómico y de utilización o parcelas de cultivos comerciales de la misma variedad cuando exista posibilidad de polinización cruzada.
+
+– Semilla de Base y de Prebase: 500 metros.
+
+– Semilla Certificada: 300 metros.
+
+c) Alógamas (las demás especies).
+
+1\. En relación con parcelas de otras variedades de distinto tipo morfológico, agronómico o de utilización, susceptibles de provocar deterioración seria a causa de su cruce:
+
+– Semilla de Base y de Prebase: 500 metros.
+
+– Semilla Certificada: 300 metros.
+
+2\. En relación con parcelas de otras variedades del mismo tipo morfológico, agronómico y de utilización o parcelas de cultivos comerciales de la misma variedad, cuando exista posibilidad de polinización cruzada:
+
+– Semilla de Base y de Prebase: 300 metros.
+
+– Semilla Certificada: 100 metros.
+
+d) Achicoria industrial.
+
+1\. En relación con las parcelas de otras especies del mismo género u otras subespecies: 1.000 m.
+
+2\. En relación con parcelas de otras variedades de achicoria industrial:
+
+– Semilla de Base y de Prebase: 600 metros.
+
+– Semilla Certificada: 300 metros.
+
+Todas las distancias anteriormente relacionadas podrán ser modificadas cuando se utilice un medio de aislamiento que, a juicio del Servicio Oficial de Control correspondiente, evite todo tipo de polinización indeseable.
+
+> Se modifica la letra d) por el apartado 10.6 de la Orden de 16 de julio de 1990. [Ref. BOE-A-1990-18972](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-18972).
+
+> Se añade el apartado b).1. 4 por el apartado 1 de la Orden de 6 de febrero de 1990. [Ref. BOE-A-1990-4226](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-4226).
+
+> Se añade el apartado b).1 y se modifica y renumera el anterior b) como b.2) por el apartado 1 de la Orden de 6 de octubre de 1988. [Ref. BOE-A-1988-24864](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-24864).
+
+## ANEJO II — Requisitos de las semillas
+
+Las semillas de las distintas categorías han de cumplir los requisitos siguientes:
+
+A) Porcentajes mínimos de pureza específica, germinación y máximos de semillas de otras especies, exigibles para todas las categorías:
+
+| Especies | Pureza específica<br>(tanto por ciento<br>en peso) | Germinación<br>de semillas puras<br>o glomérulos<br>(tanto por ciento) | Contenido<br>máximo<br>de semillas<br>de otras especies<br>(tanto por ciento<br>en peso) |
+|---|---|---|---|
+| Acelga. | 97 | 70 (gl.) | 0,5 |
+| Achicoria común (incluida la achicoria roja). | 95 | 65 | 1,5 |
+| Achicoria industrial. | 97 | 80 | 1 |
+| Ajo. | 97 | 65 | 0,5 |
+| Apio y apionabo. | 97 | 80 | 1,0 |
+| Berenjena. | 96 | 65 | 0,5 |
+| Berza. | 97 | 75 | 1,0 |
+| Borraja. | 97 | 65 | 0,5 |
+| Bróculi o brécol. | 97 | 70 | 1,0 |
+| Calabacín. | 98 | 75 | 0,1 |
+| Calabaza. | 98 | 85 | 0,1 |
+| Cardo. | 96 | 65 | 0,5 |
+| Cebolla y Chalota. | 97 | 70 | 0,5 |
+| Cebolleta. | 97 | 65 | 0,5 |
+| Cebollino. | 97 | 65 | 0,5 |
+| Col china. | 97 | 75 | 1,0 |
+| Col de Bruselas. | 97 | 75 | 1,0 |
+| Col de Milán. | 97 | 75 | 1,0 |
+| Col negra. | 97 | 75 | 1,0 |
+| Col repollo. | 97 | 75 | 1,0 |
+| Col rizada. | 97 | 75 | 1,0 |
+| Coliflor. | 97 | 70 | 1,0 |
+| Colirrábano. | 97 | 75 | 1,0 |
+| Endibia. | 95 | 65 | 1,5 |
+| Escarola. | 95 | 65 | 1,0 |
+| Escorzonera. | 95 | 70 | 1,0 |
+| Espárrago. | 96 | 70 | 0,5 |
+| Espinaca. | 97 | 75 | 1,0 |
+| Garbanzo. | 98 | 80 | 0,1 |
+| Guisante. | 98 | 80 | 0,1 |
+| Haba. | 98 | 80 | 0,1 |
+| Hinojo. | 96 | 70 | 1,0 |
+| Judía. | 98 | 75 | 0,1 |
+| Judía de España. | 98 | 80 | 0,1 |
+| Lechuga. | 95 | 75 | 0,5 |
+| Lenteja. | 98 | 80 | 0,1 |
+| Lombarda. | 97 | 75 | 1,0 |
+| Maíz dulce y Maíz para palomitas. | 98 | 85 | 0,1 |
+| Melón. | 98 | 75 | 0,1 |
+| Nabo. | 97 | 80 | 1,0 |
+| Pepino. | 98 | 80 | 0,1 |
+| Perejil. | 97 | 65 | 1,0 |
+| Pimiento y guindilla. | 97 | 65 | 0,5 |
+| Puerro. | 97 | 65 | 0,5 |
+| Rábano. | 97 | 70 | 1,0 |
+| Remolacha. | 97 | 70 (gl.) | 0,5 |
+| Ruibardo. | 97 | 70 | 0,5 |
+| Sandía. | 98 | 75 | 0,1 |
+| Tomate. | 97 | 75 | 0,5 |
+| Zanahoria. | 95 | 65 | 1,0 |
+
+Notas:
+
+1\. Las cifras de germinación para acelga y remolacha se refieren al número de glomérulos germinados.
+
+2\. Para variedades de “Zea mays” (maíz dulce de tipo superdulce), la capacidad germinativa mínima exigida se reduce al 80% de semillas puras. En la etiqueta oficial o la etiqueta del proveedor, cuando proceda, deberá figurar el texto “facultad germinativa mínima del 80 %”.
+
+B) Porcentajes mínimos de pureza varietal (plantas que correspondan al tipo varietal).
+
+Especies autógamas (garbanzo, guisante, judía, lechuga, lenteja y tomate).
+
+Semilla de Base: 99,5 por 100.
+
+Semilla Certificada: 99 por 100.
+
+Semilla estándar: 97 por 100.
+
+Especies alógamas (el resto de las especies citadas en el epígrafe I).
+
+Semilla de Base: 99 por 100.
+
+Semilla Certificada: 98 por 100.
+
+Semilla estándar: 95 por 100.
+
+C) Presencia de plagas, enfermedades y organismos nocivos.
+
+Las semillas estarán prácticamente libres de cualquier plaga que reduzca la utilidad y calidad de los materiales de reproducción. Las semillas también cumplirán los requisitos relativos a las plagas cuarentenarias de la Unión, las plagas cuarentenarias de zonas protegidas y las plagas reguladas no cuarentenarias contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
+
+Se comprobará, al menos mediante inspección visual, que la presencia de plagas reguladas no cuarentenarias en las semillas de plantas hortícolas no supera los umbrales correspondientes que figuran en el cuadro siguiente:
+
+<table>
+<thead>
+<tr>
+<td>
+<p>Plagas reguladas no cuarentenarias</p>
+<p>o síntomas causados por ellas</p>
+</td>
+<td>
+<p>Género o especie</p>
+<p>de las semillas</p>
+<p>de plantas hortícolas</p>
+</td>
+<td>
+<p>Umbral de presencia</p>
+<p>de las plagas reguladas</p>
+<p>no cuarentenarias</p>
+<p>en las semillas</p>
+<p>de plantas hortícolas</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="3">
+<p>
+<em>Bacterias</em>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Clavibacter michiganensis</em> ssp. <em>michiganensis</em> (Smith) Davis <em>et al.</em> [CORBMI].</p>
+</td>
+<td>
+<p><em>Solanum lycopersicum</em> L.</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Xanthomonas axonopodis</em> pv. <em>phaseoli</em> (Smith) Vauterin <em>et al.</em> [XANTPH].</p>
+</td>
+<td>
+<p><em>Phaseolus vulgaris</em> L.</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Xanthomonas euvesicatoria</em> Jones <em>et al.</em> [XANTEU].</p>
+</td>
+<td>
+<p><em>Capsicum annuum</em> L., <em>Solanum lycopersicum</em> L.</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Xanthomonas fuscans</em> subsp. <em>fuscans</em> Schaad <em>et al.</em> [XANTFF].</p>
+</td>
+<td>
+<p><em>Phaseolus vulgaris</em> L.</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Xanthomonas gardneri</em> (ex Šutic 1957) Jones <em>et al.</em> [XANTGA].</p>
+</td>
+<td>
+<p><em>Capsicum annuum</em> L., <em>Solanum lycopersicum</em> L.</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Xanthomonas perforans</em> Jones <em>et al.</em> [XANTPF].</p>
+</td>
+<td>
+<p><em>Capsicum annuum</em> L., <em>Solanum lycopersicum</em> L.</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Xanthomonas vesicatoria</em> (ex Doidge) Vauterin <em>et al.</em> [XANTVE].</p>
+</td>
+<td>
+<p><em>Capsicum annuum</em> L., <em>Solanum lycopersicum</em> L.</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>
+<em>Insectos y ácaros</em>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Acanthoscelides obtectus</em> (Say) [ACANOB].</p>
+</td>
+<td>
+<p><em>Phaseolus coccineus</em> L., <em>Phaseolus vulgaris</em> L.</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Bruchus pisorum</em> (Linnaeus) [BRCHPI].</p>
+</td>
+<td>
+<p><em>Pisum sativum</em> L.</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Bruchus rufimanus</em> Boheman [BRCHRU].</p>
+</td>
+<td>
+<p><em>Vicia faba</em> L.</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>
+<em>Nematodos</em>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Ditylenchus dipsaci</em> (Kuehn) Filipjev [DITYDI].</p>
+</td>
+<td>
+<p><em>Allium cepa</em> L., <em>Allium porrum</em> L.</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>
+<em>Virus, viroides, enfermedades similares a las víricas y fitoplasmas</em>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Virus del mosaico del pepino [PEPMV0].</p>
+</td>
+<td>
+<p><em>Solanum lycopersicum</em> L.</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Viroide del tubérculo fusiforme de la patata [PSTVD0].</p>
+</td>
+<td>
+<p><em>Capsicum annuum</em> L., <em>Solanum lycopersicum</em> L.</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+</tr>
+<tr>
+<td>Virus rugoso del tomate (ToBRFV).</td>
+<td>
+<p><em>Capsicum annuum</em> L., excepto las semillas pertenecientes a una variedad que ha demostrado ser resistente al ToBRFV.</p>
+<p><em>Solanum lycopersicum</em> L. y sus híbridos.</p>
+</td>
+<td>0 %</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica el apartado C) por el art. 2 de la Orden APA/539/2025, de 28 de mayo. [Ref. BOE-A-2025-10686](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10686)
+
+> Se modifica por el art. 1.3 de la Orden APA/455/2020, de 26 de mayo. [Ref. BOE-A-2020-5413](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5413)
+
+> Se añade la nota 5 por el art. único.2 de la Orden ARM/3187/2010, de 3 de diciembre. [Ref. BOE-A-2010-19102](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19102).
+
+> Se modifica por el art. 1.2 de la Orden APA/1818/2007, de 13 de junio. [Ref. BOE-A-2007-12197](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12197).
+
+> Se modifica por el apartado 10.7 de la Orden de 16 de julio de 1990. [Ref. BOE-A-1990-18972](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-18972).
+
+> Redactado el apartado B) conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. [Ref. BOE-A-1987-10508](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10508).
+
+## ANEJO III — Modelo de impreso a utilizar en la declaración anual de cultivos de producción de semillas estándar
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1986/169/18911_001.png)
+
+> Se sustituye la palabra «standard» por «estándar» según establece el art. 8.1 de la Orden APA/800/2022, de 5 de agosto. [Ref. BOE-A-2022-13835](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13835)
+
+> Redactado el título conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. [Ref. BOE-A-1986-18911](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-18911).
+
+## ANEJO IV — Pequeños envases
+
+Se consideran pequeños envases los que contengan, como máximo, un peso neto de semillas de:
+
+Cinco kilogramos para garbanzo, guisante, haba, judía y lenteja.
+
+500 gramos para acelga, calabacín, calabaza, cebolla, escorzonera, espárrago, espinaca, nabo, rábano, sandía y zanahoria.
+
+100 gramos para el resto de las especies hortícolas.
+
+## ANEJO V — Pesos mínimos de las muestras y períodos de conservación
+
+| Especies | Peso mínimo<br>de la muestra<br>(En gramos) | Período obligatorio<br>de conservación<br>de la muestra<br>–<br>Años |
+|---|---|---|
+| Acelga | 100 | 3 |
+| Achicoria industrial | 50 | 3 |
+| Ajo | 20 | 2 |
+| Apio | 5 | 4 |
+| Berenjena | 20 | 4 |
+| Berza | 25 | 3 |
+| Borraja | 25 | 4 |
+| Bróculi | 25 | 3 |
+| Calabacín | 150 | 4 |
+| Calabaza | 250 | 4 |
+| Cardo | 50 | 4 |
+| Cebolla y Chalota | 25 | 2 |
+| Cebolleta | 15 | 2 |
+| Cebollino | 15 | 2 |
+| Col china | 20 | 3 |
+| Col de Bruselas | 25 | 3 |
+| Col de Milán | 25 | 3 |
+| Col repollo | 25 | 3 |
+| Coliflor | 25 | 3 |
+| Colirrábano | 25 | 3 |
+| Endivia, Achicoria común (incluida la achicoria roja) | 15 | 3 |
+| Escarola | 15 | 3 |
+| Escorzonera | 30 | 2 |
+| Espárrago | 100 | 2 |
+| Espinaca | 75 | 3 |
+| Garbanzo | 1.000 | 3 |
+| Guisante | 500 | 3 |
+| Haba | 1.000 | 3 |
+| Hinojo | 25 | 2 |
+| Judía | 700 | 3 |
+| Judía de España | 1.000 | 3 |
+| Lechuga | 10 | 3 |
+| Lenteja | 500 | 3 |
+| Lombarda | 25 | 3 |
+| Maíz dulce y Maíz para palomitas | 1000 | 2 |
+| Melón | 100 | 4 |
+| Nabo | 20 | 4 |
+| Pepino | 25 | 4 |
+| Perejil | 10 | 2 |
+| Pimiento | 40 | 3 |
+| Puerro | 20 | 2 |
+| Rábano | 50 | 3 |
+| Remolacha | 100 | 3 |
+| Ruibardo | 135 | 2 |
+| Sandía | 250 | 4 |
+| Tomate | 20 | 3 |
+| Zanahoria | 10 | 3 |
+
+Para variedades híbridas F-1 de las especies mencionadas, el peso mínimo de la muestra puede reducirse a una cuarta parte del peso fijado. No obstante, deberá pesar, al menos, cinco gramos o tener 400 semillas.
+
+> Se modifica por el art. 1.4 de la Orden APA/455/2020, de 26 de mayo. [Ref. BOE-A-2020-5413](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5413)
+
+> Se modifica por el art. 1.3 de la Orden APA/1818/2007, de 13 de junio. [Ref. BOE-A-2007-12197](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12197).
+
+> Se modifica por el apartado 10.8 de la Orden de 16 de julio de 1990. [Ref. BOE-A-1990-18972](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-18972).
+
+## ANEJO VI — Modelo de relación de precintado de semillas estándar
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1986/169/18911_002.png)
+
+> Se sustituye la palabra «standard» por «estándar» según establece el art. 8.1 de la Orden APA/800/2022, de 5 de agosto. [Ref. BOE-A-2022-13835](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13835)
+
+> Redactado el título conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. [Ref. BOE-A-1987-10508](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10508).
+
+## ANEJO VII — Datos que deben figurar en las etiquetas del productor o inscripción sobre los envases
+
+(Semilla Estándar y pequeños envases de semilla Certificada)
+
+– La indicación "Reglas y Normas UE", excepto para las siguientes especies: *Borrago officinalis L., Cicer arietinum L.*y*Lens culinaris L.*
+
+– Código de operador según Real Decreto 1054/2021.
+
+– Mes y año del precintado o del último examen de la facultad germinativa.
+
+– Especie.
+
+– Variedad.
+
+– Categoría.
+
+– Número de identificación del lote.
+
+– Peso neto o peso bruto, con indicación de cual se trata, o especificación del número de semillas: A excepción de pequeños envases de capacidad inferior a diez gramos.
+
+Otras indicaciones:
+
+– En el caso de que las semillas hayan sido tratadas con algún producto, se indicará la materia activa del mismo y su posible toxicidad.
+
+– En el caso de emplearse pesticidas granulados o substancias de empildorado u otros aditivos, se expresará la naturaleza del aditivo y, si se indica el peso, se añadirá la relación entre el peso de las semillas puras y el peso total.
+
+> Se modifica por el art. 8.1 y 4 de la Orden APA/800/2022, de 5 de agosto. [Ref. BOE-A-2022-13835](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13835)
+
+> Se modifica por el art. único de la Orden de 18 de jullio de 1997. [Ref. BOE-A-1997-16798](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16798).
+
+> Téngase en cuenta para su aplicación la disposición transitoria.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. [Ref. BOE-A-1987-10508](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10508).

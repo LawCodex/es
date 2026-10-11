@@ -1,0 +1,101 @@
+---
+title: "Real Decreto 3379/1978, de 29 de diciembre, por el que se regula la concesión de la «Medalla al Mérito en las Bellas Artes»"
+identifier: "BOE-A-1979-4741"
+eli: "https://www.boe.es/eli/es/rd/1978/12/29/3379"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Cultura"
+date: 1978-12-29
+published: 1979-02-16
+in_force_from: 1979-03-08
+last_amended: 1985-06-14
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 41"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1979-4741"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 3379/1978, de 29 de diciembre, por el que se regula la concesión de la «Medalla al Mérito en las Bellas Artes»
+
+El Decreto tres mil cuatrocientos veintiocho/mil novecientos sesenta y nueve, de diecinueve de diciembre, creó la «Medalla al Mérito en las Bellas Artes» para distinguir a las personas y Entidades que hubieran destacado de modo eminente en el campo de la creación artística, prestando servicios destacados o fomentando notoriamente la enseñanza, el desarrollo y difusión del arte o la conservación del Patrimonio Artístico Nacional.
+
+Las recientes modificaciones estructurales introducidas en la Administración, así como la experiencia en la tramitación de dicha Medalla, regulada por Orden de veinticinco de enero de mil novecientos setenta y dos, aconsejan dictar la presente disposición, que, dejando intactas las características esenciales, acomoden los trámites de concesión a la presente estructura de los órganos de la Administración Central del Estado, dada por Real Decreto mil quinientos cincuenta y ocho/mil novecientos setenta y siete, de cuatro de julio, al propio tiempo que actualice el Consejo Asesor creado por Orden de veinticinco de octubre de mil novecientos setenta y tres.
+
+En su virtud, a propuesta del Ministro de Cultura, con la aprobación de la Presidencia del Gobierno y previa deliberación del Consejo de Ministros en su reunión del día veintinueve de diciembre de mil novecientos setenta y ocho,
+
+DISPONGO:
+
+## Artículo primero.
+
+La «Medalla al Mérito en las Bellas Artes» se otorgará para distinguir a las personas y Entidades que hayan destacado de modo eminente en el campo de la creación artística y cultural o hayan prestado notorios servicios en el fomento, desarrollo o difusión del arte y la cultura o en la conservación del Patrimonio Artístico.
+
+## Artículo segundo.
+
+La «Medalla al Mérito en las Bellas Artes», en sus categorías de Oro, Plata y Bronce, tendrá las características y dimensiones determinadas por Orden de veinticinco de enero de mil novecientos setenta y dos («Boletín Oficial del Estado» de veintiocho de febrero).
+
+## Artículo tercero.
+
+Las Medallas de Oro se otorgarán por Real Decreto, a propuesta del Ministro de Cultura, y las de Plata y Bronce por Orden ministerial a propuesta de la Secretaría General Técnica o Dirección General del Ministerio de Cultura competente en el campo de las actividades que vayan a ser objeto de la recompensa.
+
+## Artículo cuarto.
+
+Las Entidades publicas o privadas que tengan relación con la creación artística y cultural, o interés en ella, su difusión o la protección del Patrimonio Cultural, podrán promover la iniciación del expediente ante la Secretaría del Consejo Asesor de la «Medalla al Mérito en las Bella Artes», órgano encargado de la tramitación de la concesión.
+
+## Artículo quinto.
+
+Sin perjuicio de lo establecido en el artículo ciento diez del texto refundido de la Ley y Tarifas de los Impuestos Generales sobre las Sucesiones y sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por Decreto mil dieciocho/mil novecientos sesenta y siete, de seis de abril, la tramitación y concesión de los diplomas acreditativos de la condición de titulares de la Medalla, en cualquiera de sus grados, tendrán carácter gratuito.
+
+## Artículo sexto.
+
+Uno. El Consejo Asesor de la «Medalla al Mérito en las Bellas Artes» tendrá como misión asesorar al Ministro sobre los méritos que concurran en las personas o Entidades propuestas para la concesión de esta recompensa.
+
+Dos. La Composición del Consejo Asesor de la «Medalla al Mérito en las Bellas Artes» será el siguiente:
+
+Presidente: El Subsecretario de Cultura.
+
+Vocales:
+
+El Secretario general Técnico.
+
+El Director general de Bellas Artes y Archivos.
+
+El Director general del Libro y Bibliotecas.
+
+El Director general de Cooperación Cultural.
+
+El Director del Gabinete del Ministro de Cultura.
+
+El Director general del Instituto Nacional de Artes Escénicas y de la Música.
+
+El Director general del Instituto de la Cinematografía y Artes Audiovisuales.
+
+El Presidente del Consejo Asesor, a propuesta en cada caso de la Secretaría General Técnica o de cada una de las Direcciones que promuevan la concesión, podrán nombrar dos Vocales, expertos en el campo de la creación artística o cultural que vayan a ser objeto de la recompensa.
+
+Secretario: El Jefe del Gabinete de Protocolo del Ministerio de Cultura.
+
+> Se modifica por el art. único de la Orden de 7 de junio de 1985. [Ref. BOE-A-1985-11230](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-11230).
+
+> Se modifica por el art. único del Real Decreto 2100/1979, de 13 de julio. [Ref. BOE-A-1979-21748](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-21748).
+
+## Artículo séptimo.
+
+Los poseedores de las Medallas de Oro y Plata podrán usar también una placa con las insignias, características y dimensiones establecidas por la mencionada Orden de veinticinco de enero de mil novecientos setenta y dos.
+
+## Disposición derogatoria.
+
+Quedan derogados el Decreto tres mil cuatrocientos veintiocho/mil novecientos sesenta y nueve, de diecinueve de diciembre, y la Orden de veinticinco de octubre de mil novecientos setenta y tres.
+
+## Disposición final.
+
+Se autoriza al Ministerio de Cultura para dictar cuantas disposiciones de desarrollo estime necesarias para la ejecución de lo dispuesto en el presente Real Decreto.
+
+Dado en Madrid a veintinueve de diciembre de mil novecientos setenta y ocho.
+
+JUAN CARLOS
+
+El Ministro de Cultura,
+
+PÍO CABANILLAS GALLAS

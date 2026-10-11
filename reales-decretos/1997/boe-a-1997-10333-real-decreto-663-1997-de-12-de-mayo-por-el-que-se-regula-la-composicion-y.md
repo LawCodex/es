@@ -1,0 +1,183 @@
+---
+title: "Real Decreto 663/1997, de 12 de mayo, por el que se regula la composición y funciones de la Autoridad Nacional para la Prohibición de las Armas Químicas"
+identifier: "BOE-A-1997-10333"
+eli: "https://www.boe.es/eli/es/rd/1997/05/12/663"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1997-05-12
+published: 1997-05-13
+in_force_from: 1997-05-14
+last_amended: 2024-08-29
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 114"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-10333"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 663/1997, de 12 de mayo, por el que se regula la composición y funciones de la Autoridad Nacional para la Prohibición de las Armas Químicas
+
+La preocupación de la Humanidad por las armas de destrucción masiva e indiscriminada se inicia, al menos, en 1899 con la Primera Conferencia de La Haya sobre Desarme Internacional.
+
+Hitos importantes de esta lucha han sido el Protocolo relativo a la prohibición del uso en guerra de gases asfixiantes, tóxicos o similares y de medios bacteriológicos u otros y de los métodos de guerra bacteriológica, firmado en Ginebra el 17 de julio de 1925; el Convenio sobre la prohibición del desarrollo, producción y almacenamiento de armas bacteriológicas y toxínicas y sobre su destrucción, firmado en Londres, Moscú y Washington el 10 de abril de 1972, así como el Tratado sobre la No-Proliferación de Armas Nucleares que entró en vigor el 5 de marzo de 1970 y la Convención sobre armas dañinas y efectos indiscriminados de 10 de abril de 1981.
+
+Un avance significativo en este proceso de lucha contra las armas de destrucción masiva ha sido la Convención sobre la prohibición del desarrollo, la producción, el almacenamiento y el empleo de armas químicas y sobre su destrucción, hecha en París el 13 de enero de 1993 y ratificada por España el 3 de agosto de 1994.
+
+La citada Convención tiene como objetivo último la erradicación definitiva de las armas químicas, entendiendo por tales no sólo el dispositivo bélico y las instalaciones de fabricación y montaje de sus componentes, sino también cualquier producto químico o de procedencia biológica que, directa o indirectamente, coadyuve a la elaboración de dicho tipo de armas. En efecto, existen determinados productos químicos que son utilizados para la fabricación de armas químicas, o que mediante un proceso adecuado pueden llegar a serlo —precursores—, pero que al mismo tiempo se utilizan también en la producción de materias de uso pacífico, motivo por el cual la Convención establece unos requisitos y normas de control que, sin interferir en modo alguno en dichos procesos industriales de carácter civil, impidan su posible desvío para fines militares. Esta dualidad en el uso y producción de ciertas sustancias químicas es la que justifica la implantación de un sistema de verificación que garantice el cumplimiento de las obligaciones asumidas por cada uno de los Estados Partes.
+
+A tal fin, la Convención prevé la designación de una Autoridad Nacional, a quien se atribuye la responsabilidad de asegurar a nivel interno la aplicación efectiva de las obligaciones derivadas de la misma, además de servir de enlace con la Organización para la Prohibición de las Armas Químicas, a que se refiere el artículo VIII, y con los demás Estados Partes. En desarrollo de este mandato, el presente Real Decreto procede a constituir la Autoridad Nacional española y a definir las correspondientes funciones, todas ellas encaminadas al logro de los mencionados objetivos y plenamente respetuosas con aquellas otras que responden a fines distintos y compatibles con los aquí previstos.
+
+En su virtud, a propuesta conjunta de los Ministros de Asuntos Exteriores, Defensa e Industria y Energía, previa aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 9 de mayo de 1997,
+
+DISPONGO:
+
+## Artículo 1. Creación.
+
+En cumplimiento del artículo VII.4 de la Convención sobre la Prohibición del Desarrollo, la Producción, el Almacenamiento y el Empleo de Armas Químicas y sobre su destrucción, se crea la Autoridad Nacional para la Prohibición de las Armas Químicas, órgano colegiado de la Administración General del Estado, adscrito al Ministerio de Asuntos Exteriores, Unión Europea y Cooperación. Tiene encomendadas las funciones de planificación, coordinación y seguimiento de todos los temas relacionados con dicha Convención y se regirá por el presente real decreto.
+
+> Se modifica por el art. único.1 del Real Decreto 611/2024, de 2 de julio. [Ref. BOE-A-2024-17485](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-17485)
+
+## Artículo 2. Funciones.
+
+Son funciones de la Autoridad Nacional:
+
+1\. Garantizar el cumplimiento de las obligaciones contraídas por parte de España en virtud de la Convención sobre la prohibición del desarrollo, la producción, el almacenamiento y el empleo de armas químicas y sobre su destrucción.
+
+2\. Mantener un enlace eficaz entre España y la Organización para la Prohibición de las Armas Químicas (OPAQ), así como con los otros Estados Parte de la Convención.
+
+3\. Defender, dentro del respeto a la Convención, los legítimos intereses nacionales en la OPAQ y en las relaciones con otros Estados Parte.
+
+4\. Coordinar las actividades de la totalidad de los organismos de la Administración General del Estado para la aplicación de la Convención.
+
+5\. Instar la aprobación de las disposiciones y la adopción de las medidas que fueran necesarias para la aplicación de la Convención.
+
+6\. Ejercer las competencias que en materia sancionadora le sean legalmente atribuidas.
+
+7\. Adoptar las medidas necesarias para garantizar la confidencialidad de la información obtenida en virtud de lo dispuesto en la Convención.
+
+8\. Establecer los criterios para el eficaz cumplimiento de las misiones de control llevadas a cabo tanto por la OPAQ como a instancia de la propia Autoridad Nacional, asegurándose también la protección de los intereses, tanto públicos como privados.
+
+9\. Requerir la información exigida por la Convención a las personas físicas o jurídicas afectadas por la misma.
+
+10\. Coordinarse con los órganos competentes en materia de comercio exterior respecto a la importación y exportación de las sustancias químicas previstas en la Convención.
+
+## Artículo 3. Composición.
+
+1\. La Autoridad Nacional estará compuesta por los siguientes miembros:
+
+a) Presidencia: la persona titular de la Secretaría de Estado de Asuntos Exteriores y Globales.
+
+b) Vicepresidencia primera: la persona titular de la Secretaría de Estado de Industria.
+
+c) Vicepresidencia segunda: la persona titular de la Secretaría General de Política de Defensa.
+
+d) Vocalías: las personas titulares de:
+
+1.º La Dirección General de Cooperación Jurídica Internacional.
+
+2.º La Dirección Técnica de Inteligencia del Centro Nacional de Inteligencia.
+
+3.º La Subsecretaría de Hacienda.
+
+4.º La Secretaría de Estado de Seguridad.
+
+5.º La Secretaría de Estado de Comercio.
+
+6.º La Subsecretaría de Agricultura, Pesca y Alimentación.
+
+7.º El Departamento de Seguridad Nacional.
+
+8.º La Secretaría de Estado de Medio Ambiente.
+
+9.º La Secretaría de Estado de Sanidad.
+
+10.º La Secretaría General de Investigación.
+
+La suplencia de la Presidencia, en los casos de vacancia, ausencia, enfermedad o por otra causa legal, corresponderá a las Vicepresidencias según su orden. Los demás miembros podrán designar la representación de su Departamento en una autoridad con rango, al menos, de Director general.
+
+2\. Actuará como Secretario/a la persona titular de la Secretaría General de la Autoridad Nacional a que se refiere el artículo 5 de este real decreto, actuando con voz, pero sin voto. La suplencia del Secretario será designada por la Presidencia, a propuesta del Secretario/a General.
+
+3\. La Autoridad Nacional se reunirá al menos una vez cada dos años. Asimismo, podrá reunirse a propuesta de la Presidencia, siempre que ésta o al menos dos miembros lo consideren oportuno.
+
+4\. La Presidencia, cuando los temas a tratar así lo aconsejen, podrá convocar a las reuniones de la Autoridad Nacional, con voz, pero sin voto, a representantes de otras administraciones públicas, de los sectores afectados, así como a personas expertas en la materia.
+
+5\. La Autoridad Nacional será asistida en sus funciones por el grupo de trabajo y la Secretaría General a que se refieren los artículos siguientes.
+
+> Se modifica por el art. único.2 del Real Decreto 611/2024, de 2 de julio. [Ref. BOE-A-2024-17485](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-17485)
+
+## Artículo 4. Grupo de trabajo.
+
+1\. Como órgano de asistencia de la Autoridad Nacional se crea un grupo de trabajo formado por representantes de todos los ministerios miembros de dicho órgano colegiado, con rango mínimo de Subdirector general o asimilado, con la salvedad del Departamento de Seguridad Nacional, que estará representado por un funcionario de carrera del Grupo A, Subgrupo A1, destinado en dicho Departamento, al objeto de discutir y elaborar propuestas que deban someterse a la ANPAQ en los asuntos que así lo requieran. Será coordinado por el Secretario General. Se reunirá al menos una vez cada seis meses.
+
+2\. Son funciones del grupo de trabajo debatir y elaborar propuestas que deban someterse a la Autoridad Nacional y aquellas otras funciones que ésta le encomiende. El grupo de trabajo dará cuenta de sus actuaciones a la Autoridad Nacional a través del Secretario General.
+
+3\. Cuando la naturaleza de los asuntos a tratar así lo aconsejen, el grupo de trabajo podrá contar con la asistencia de expertos y de representantes de otras administraciones públicas y de los sectores afectados.
+
+> Se modifica por el art. único.3 del Real Decreto 611/2024, de 2 de julio. [Ref. BOE-A-2024-17485](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-17485)
+
+## Artículo 5. Secretaría General.
+
+Como órgano ejecutivo de la Autoridad Nacional, se constituye la Secretaría General, que estará adscrita al Gabinete Técnico de la Secretaría de Estado de Industria, y contará para la realización de sus funciones con el apoyo de los Ministerios de Asuntos Exteriores, Unión Europea y Cooperación, y de Defensa, así como de los otros Ministerios representados en la Autoridad Nacional. Su titular será un funcionario, con nivel orgánico de Subdirector general o asimilado, que ocupe un puesto de trabajo del citado Gabinete.
+
+> Se modifica por el art. único.4 del Real Decreto 611/2024, de 2 de julio. [Ref. BOE-A-2024-17485](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-17485)
+
+## Artículo 6. Funciones de la Secretaría General.
+
+Bajo la dependencia y supervisión de la Autoridad Nacional, corresponden a la Secretaría General las siguientes funciones:
+
+1\. Recibir y remitir a la OPAQ las declaraciones y cuanta información exija la Convención.
+
+2\. Asegurar que las inspecciones efectuadas por la OPAQ se realicen de acuerdo con la Convención y con los legítimos intereses españoles.
+
+3\. Adoptar las medidas de verificación y control, incluidas en su caso las de inspección, necesarias para el cumplimiento de la Convención.
+
+4\. Requerir, en su caso, la colaboración de las Fuerzas y Cuerpos de Seguridad y de las autoridades aduaneras para efectuar sus controles.
+
+5\. Asegurar el cumplimiento de los requisitos de confidencialidad de los datos que maneje de acuerdo con la Convención y las instrucciones que reciba de la Autoridad Nacional.
+
+6\. Aquellas otras que le encomiende la Autoridad Nacional.
+
+## Artículo 7. Recursos.
+
+Las resoluciones que dicte la Autoridad Nacional en el ámbito de sus competencias podrán ser objeto de recurso ordinario ante la persona titular del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación, de acuerdo con lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+> Se modifica por el art. único.5 del Real Decreto 611/2024, de 2 de julio. [Ref. BOE-A-2024-17485](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-17485)
+
+## Artículo 8. Régimen jurídico.
+
+En lo no previsto en el presente real decreto, la Autoridad Nacional ajustará su funcionamiento a lo establecido para los órganos colegiados en la sección 3.ª, capítulo II, del título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifica por el art. único.6 del Real Decreto 611/2024, de 2 de julio. [Ref. BOE-A-2024-17485](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-17485)
+
+## Disposición adicional única. Modificación del Real Decreto 1889/1996, de 2 de agosto, de Estructura Orgánica del Ministerio de Industria y Energía.
+
+**(Suprimida)**
+
+> Se suprime por el art. único.7 del Real Decreto 611/2024, de 2 de julio. [Ref. BOE-A-2024-17485](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-17485)
+
+## Disposición final primera. Facultades de desarrollo y ejecución.
+
+Se autoriza a las personas titulares del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación, del Ministerio de Defensa, y del Ministerio de Industria y Turismo para que adopten las medidas necesarias para el desarrollo y ejecución de este real decreto.
+
+> Se modifica por el art. único.8 del Real Decreto 611/2024, de 2 de julio. [Ref. BOE-A-2024-17485](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-17485)
+
+## Disposición final segunda. Financiación.
+
+Los gastos derivados del presente real decreto serán financiados por el Ministerio de Industria y Turismo con cargo a su presupuesto ordinario, y no supondrán aumento de gasto público.
+
+> Se modifica por el art. único.9 del Real Decreto 611/2024, de 2 de julio. [Ref. BOE-A-2024-17485](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-17485)
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 12 de mayo de 1997.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ

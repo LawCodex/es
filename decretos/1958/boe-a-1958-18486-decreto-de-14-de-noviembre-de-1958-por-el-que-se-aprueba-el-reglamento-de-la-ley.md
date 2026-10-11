@@ -1,0 +1,4167 @@
+---
+title: "Decreto de 14 de noviembre de 1958 por el que se aprueba el Reglamento de la Ley del Registro Civil"
+identifier: "BOE-A-1958-18486"
+eli: "https://www.boe.es/eli/es/d/1958/11/14/(1)"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1958-11-14
+published: 1958-12-11
+in_force_from: 1959-01-01
+last_amended: 2015-11-07
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 296"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1958-18486"
+retrieved: 2026-10-11
+---
+
+# Decreto de 14 de noviembre de 1958 por el que se aprueba el Reglamento de la Ley del Registro Civil
+
+Incluye la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+La segunda de las disposiciones adicionales de la Ley del Registro Civil de ocho de julio de mil novecientos cincuenta y siete ordena que antes de comenzar a regir habrá de aprobarse el Reglamento para su ejecución.
+
+En cumplimiento de tal mandato legal, se dicta el presente Reglamento, una vez implantada la sustancial reforma del Código Civil por la Ley de veintiocho de abril del año en curso, que, ineludiblemente, había de tener en cuenta. Puesto que el primer Cuerpo Legal constituye las «sedes materiae» de la regulación sustantiva de la persona y de su estado civil, cuya constancia oficial es misión del Registro; por lo que cualquier alteración de la norma civil sustantiva puede tener reflejo en la propia de aquel órgano, como lo han causado las recientes modificaciones relativas al matrimonio y a la adopción.
+
+Diversas han sido las fuentes y elementos que han inspirado el nuevo Reglamento. En primer lugar, se han tenido en cuenta cuantos preceptos de la primitiva Ley del Registro Civil coordinaban con el nuevo sistema, no recogidos en la Ley, próxima a entrar en vigor, por su carácter casuístico o interpretativo.
+
+También se ha tenido a la vista el Reglamento para la ejecución de la Ley anterior que, elaborado sin conocimiento de lo que fuera el Registro Civil como institución viva, resultaba manifiestamente insuficiente.
+
+Y, por último, las disposiciones administrativas de diferente rango y época, y las resoluciones de la Dirección General de los Registros y del Notariado, han sido medios excepcionales para saber lo que ha sido un Registro Civil casi secular y para resolver la prolija problemática registral a través de las más diversas situaciones.
+
+En la actual tarea legislativa se ha intentado dar certeza, simplicidad y unidad orgánica a multitud de normas anteriores, casuísticas, complementarias o interpretativas, a veces poco concordes entre sí o manifiestamente insuficientes para resolver las necesidades planteadas en el antiguo sistema.
+
+La nueva Ley, además, ha organizado el Registro Civil en toda su complejidad y ha dado más tecnicismo a la institución, a la vez que la ha hecho más práctica, simple y flexible y, también, más completa, veraz y justa, lo que ha obligado a introducir en las antiguas normas reglamentarias congruentes alteraciones y a establecer otras para las materias en que la Ley partía de nuevas bases.
+
+Los primeros artículos del Reglamento comprenden las disposiciones generales que, si por una parte han de dar al Registro la agilidad que exige el interés público y el de los particulares, de otra, afrontan ciertas cuestiones, cuya solución ha de ser la misma para todo tipo de actuación, bien se trate de asientos, expedientes o certificaciones. Entre dichas disposiciones destaca la que tiende a facilitar el servicio a los particulares que podrán acceder a cualquier Registro a través de la oficina de su domicilio.
+
+Especial mención merece la disposición relativa a la capacidad, en orden al Registro, que se decide conforme a criterios impuestos por las necesidades prácticas, avalados por la solución que da a problema análogo la Ley de Jurisdicción Contencioso-Administrativa y, más recientemente, la Ley sobre Procedimiento Administrativo.
+
+Las normas de jurisdicción voluntaria son de aplicación supletoria, en las actuaciones del Registro para aquellas cuestiones que el propósito de huir de un casuísmo exagerado o la imprevisión hayan dejado sin solución reglamentaria. Esta aplicación está en armonía con la especial naturaleza de la actividad pública registral, tan distinta de la típica administración del Estado, regulada por el Derecho administrativo y sujeta a la jurisdicción contencioso-administrativa. La actividad pública registral, en íntimo contacto con el Derecho común, tiene por fin crear títulos de legitimación sobre el estado civil, constituir, a veces, con otros requisitos, el propio estado y, siempre, proporcionar a los particulares una información sobre la condición civil de las personas en que por sus garantías jurídicas puedan confiar. Estamos, pues, ante cuestiones civiles típicas de la tradicionalmente llamada Administración de Justicia, y por ello, desde su origen, encomendadas a los órganos de la jurisdicción ordinaria. Si en determinado escalón interviene en los expedientes del Registro Civil un órgano formalmente administrativo, la Dirección General de los Registros y del Notariado, sus funciones, en este orden, como en otros determinados de su competencia, no se diferencian esencialmente de los que corresponden, en los otros escalones, a los órganos judiciales y sus resoluciones, contra las que no cabe recurso alguno, dejan siempre abierta la vía Judicial ordinaria.
+
+– La Ley establece que el Registro es público para quien tenga interés en conocer los asientos. Según la legislación anterior, se debían facilitar certificaciones del Registro a cualquier persona que las solicitara. Aun cuando no se ha producido un cambio radical de criterio, ahora se puntualiza el principio, con objeto de evitar abusos y exigir, en los casos señalados en el Reglamento, una cualificación especial del interés. Se han reglamentado concretamente las restricciones de publicidad impuestas por el artículo 51 de la Ley y, al efecto, se regula la expedición de certificaciones en extracto de nacimiento, de modo tal que, sin perjuicio de la identificación del nacido, resulte efectivo el principio que, «fuera de la familia, no podrá hacerse distinción de españoles por clase de filiación». El Libro de Familia se completa con el Libro de Filiación, que ahora se crea con igual finalidad que aquél, dentro y fuera del ámbito laboral, respecto de los hijos que no nacen de familia legítimamente constituida.
+
+– Conforme a las directrices que marca la Ley, se desarrolla la organización y funcionamiento del Registro, se da simplicidad al mecanismo de los asientos y se tiende a alcanzar el máximo de eficacia mediante la acción de oficio y las sanciones a los particulares que olviden sus obligaciones.
+
+En los Registros llevados por Jueces de Paz, como delegados del Encargado, se ha intensificado, de acuerdo con los criterios legales, intervención de éste, que es obligada en las cuestiones que salen de la fácil solución que proporcionarán los formularios. Se han sentado también las bases para que el Registro Civil en las grandes poblaciones se organice de acuerdo con su densidad demográfica y las necesidades del servicio público.
+
+El sistema de libros duplicados, uno de cuyos ejemplares había de conservarse en la Secretaría del Juzgado del partido, no tuvo realidad en la práctica. Sin duda alguna, con ello, se hubiera garantizado la conservación de los asientos a costa de una complicación formal y burocrática: en el Reglamento actual tiene la misma finalidad la creación de un archivo provincial, en el que se integrarán los legajos de los Registros; de esta forma, en caso de destrucción, se asegura y facilita notablemente la reconstrucción de los asientos desaparecidos.
+
+El Libro Diario dará garantía de la certeza de la fecha, de los asientos marginales, en los que, por definición, no es posible contar siempre con la que se deriva de la exigencia de que se extiendan por un orden sucesivo o sin dejar huecos o claros intermedios.
+
+El Libro del Personal y Oficina proporcionará la historia de las modificaciones de cada demarcación y se facilitará así la busca de asientos del Registro, cuya competencia está determinada por el lugar en que ocurrió un hecho. El sisterna de ficheros y el de notas marginales de coordinación dará agilidad a la función informativa del Registro, que no sólo debe servir para que los que ya conocen los datos obtengan las certificaciones que necesiten, sino también para que los interesados que no los conozcan puedan llegar a determinarlos por el propio Registro.
+
+Se regulan las anotaciones con las cautelas convenientes para evitar su confusión con las inscripciones y para que se basen en títulos suficientes a su finalidad informativa. Supletoriamente se les aplica el régimen de las inscripciones, las cuales siempre tendrán un valor prevalente.
+
+– Respecto de las inscripciones marginales en los folios de nacimiento, merece explicación el criterio adoptado en cuanto a los hechos que afecten a la patria potestad. La Ley prescribe la inscripción marginal de tales hechos, salvo el de fallecimiento de los padres, disposición que se cumple, pero evitando que haya inscripciones repetidas sobre un mismo hecho en distintas Secciones del Registro. Los hechos, pues, que son inscribibles separadamente y que producen, como consecuencia, una alteración de la patria potestad, sólo darán lugar a la nota marginal de referencia. De acuerdo con el criterio legal, la muerte de los padres no constará marginalmente en el folio de nacimiento.
+
+– La filiación natural materna no solo llegará al Registro en virtud del acto de reconocimiento, sino que, conforme a las disposiciones de la nueva Ley se considerará acreditada por el parte técnico del alumbramiento y por la declaración de quien tenga conocimiento cierto del hecho, si bien es el padre la persona a quien la Ley cita en primer lugar entre los obligados a formular la declaración.
+
+El Reglamento considera que, en consecuencia de lo establecido en la nueva Ley, el artículo 132 del Código Civil ha sido modificado de tal modo, que ya no se tachará de oficio toda revelación que sobre la madre natural se haga en los asientos en base a la declaración del padre. De esta manera adquirirán seguridad las inscripciones, no infrecuentes, de filiación materna natural practicadas en virtud de declaración formulada por padre concubinario. No se olvida la defensa que la Ley concede a la víctima de falsas atribuciones de filiación, y con esa finalidad bastará, según el Reglamento, que conste al Encargado la oposición de la interesada, para omitir toda mención de la maternidad en la inscripción. Así se evitarán asientos afrentosos, que habrían de quedar inmediatamente sin el efecto propio, en virtud del ulterior asiento de desconocimiento.
+
+En cuanto a la filiación legítima, se han seguido rigurosamente las prescripciones del Código Civil, teniendo en cuenta que por dicho Cuerpo legal la presunción de legitimidad se asienta en un doble tipo de circunstancias, inscribibles unas en el folio de nacimiento y otras en la Sección II del Registro.
+
+Sobre documentos públicos aptos para el reconocimiento de la filiación natural, se ha seguido la doctrina consagrada en la práctica.
+
+En congruencia, por último, con la especial eficacia que tiene la inscripción, no se ha permitido la de reconocimiento alguno sin que se acredite, con un mínimo de garantías, la adecuación al ordenamiento jurídico.
+
+A fin de facilitar la identificación de la persona y, a la vez, con el propósito de velar la situación enojosa del que carece de padres conocidos, los Encargados consignarán en la descripción de nacimiento o por nota marginal nombres de frecuente uso como si fueran de padre o madre del inscrito, que constará preceptivamente entre las menciones de identidad.
+
+– Se completa y desarrolla lo que la Ley dispone sobre una serie de cuestiones, como son la de imposición de nombre propio, quién la hace y cómo; apellidos, en general; determinación de los de legitimado por concesión soberana y de los que adquieren la nacionalidad española: reglas para la inversión de los apellidos del hijo natural reconocido sólo por la madre; apellidos adoptivos y expedientes sobre nombres y apellidos. En cuanto a apellidos de los hijos adoptivos, se sigue lo que el Código Civil dispone después de su última reforma, y se completan, conforme a su espíritu, las normas sustantivas, procurando la mayor protección de los intereses del adoptado.
+
+– Se regula especialmente el expediente sobre nacionalidad y se dan normas complementarias de las sustantivas, en las que, naturalmente, se inspiran; así las relativas a opción y a la nacionalidad de la mujer casada.
+
+En general, no es posible que el Registro proporcione una prueba directa de la nacionalidad de la persona: pero para facilitar su determinación se pretende llevar al Registro, por vía de inscripción o anotación, según proceda, un gran número de los hechos influyentes en la misma.
+
+La facilidad para inscribir ciertas declaraciones sobre nacionalidad se atenúa con el limitado alcance que se concede a la fe del Registro.
+
+– En cuanto a matrimonio, se adapta el Reglamento al vigente Concordato del Estado español con la Santa Sede, cuyas doctrinas están sustancialmente reflejadas en el Código y en la Ley del Registro Civil. La inscripción del matrimonio canónico, por lo demás, es objeto de mero desarrollo reglamentario. Las normas sobre matrimonio civil siguen la línea impuesta por el Código, recientemente reformado; por la nueva Ley del Registro, por el Decreto de veintiséis de octubre de mil novecientos cincuenta y seis y por la Circular de la Dirección General de los Registros y del Notariado, de dos de abril de mil novecientos cincuenta y siete. Se concreta el régimen de consultas, recursos gubernativos e impugnaciones judiciales, perfilando las funciones del Juez de Paz en tan delicado acto jurídico.
+
+– En cuanto a inscripciones de defunción, destacan las normas sobre fallecimiento en circunstancias excepcionales, las cuales implican un régimen de carácter más común y ordinario, que suple con ventaja a las numerosas y casuísticas disposiciones dictadas para situaciones de emergencia. También es de notar la flexible regulación de la licencia de inhumación para eliminar las dificultades suscitadas para la ordenación anterior.
+
+– Respecto a la Sección IV, se han tenido en cuenta las disposiciones sobre Registro de Tutelas y Central de Ausentes. Por lo que hace a las representaciones legales distintas de la tutela o de la del ausente, el Reglamento es somero y restrictivo, porque la Ley, en esta parte, tiene un indudable carácter de ensayo: la prudencia aconseja recoger los datos de la experiencia antes de acometer una ordenación más amplia, detallada y precisa. No se han excluido, sin embargo, las representaciones que constan en documentes judiciales por la necesidad de adaptación al tenor de la Ley; su publicidad formal será más fácil por el Registro Civil que la que podían proporcionar los archivos judiciales.
+
+– Se reciben los supuestos en que es necesario expediente gubernativo; se completa la concisión del texto legal y se dan reglas especiales para ciertos expedientes y para la inscripción de las resoluciones.
+
+Especial atención se ha dedicado a los expedientes de inscripción de nacimiento fuera de plazo, a fin de disipar el confusionismo que existía hasta ahora sobro el modo de fijar la filiación dentro de este expediente.
+
+La reconstrucción del Registro es objeto de un detallado ordenamiento, en el que se recogen las enseñanzas de la práctica y se prevén fórmulas flexibles, sin mengua de las debidas garantías.
+
+Las declaraciones con valor de simple presunción podrán utilizarze, entre otros fines, para conseguir verdaderos certificados de nacionalidad, similares a los que se difunden en la legislación comparada, y cuya falta se acusaba en la nuestra.
+
+La tramitación de los expedientes está presidida por los criterios de economía, celeridad y eficacia que el Estado trata de imponer en todas sus actuaciones. Por la que afecta a la competencia se parte del principio de atribuirla al Juez de Primera Instancia, dada la importancia que tiene cuanto afecte el estado civil, sin perjuicio de confiar la instrucción e, incluso en las casos que lo permita la naturaleza o menor entidad de la cuestión planteada –la decisión– a los propios Encargados, en aras a la rapidez y a fin de minar la excesiva acumulación de asuntos en los Juzgados de Primera Instancia.
+
+La realidad exige una fácil prueba de la vida y de la soltería o viudez, y a este efecto se brindan a la Administración y a los particulares los más sencillos medios probatorios, la comparecencia del sujeto y la declaración jurada, respectivamente, con lo que, además, de acuerdo con las nuevas tendencias, se simplificará la mecánica burocrática. Se dispone, sin embargo, que se sigan expidiendo fes de vida, soltería o viudez, a cuyo efecto se ha establecido un procedimiento, con un mínimo de garantías, adecuado al fin pretendido.
+
+– Sin perjuicio del principio de gratuidad respecto a los asientos u otros conceptos determinados, el Reglamento respeta el tradicional régimen arancelario y al propio tiempo regula el beneficio registral de pobreza con gran generosidad, facilitando extraordinariamente la prueba, de acuerdo con las exigencias de la práctica. Se prevén también otros supuestos de gratuidad en la expedición de certificaciones y se elimina el confusionismo actual en tales casos.
+
+– La integración en el Reglamento de la ordenación orgánica del Cuerpo de Médicos del Registro Civil contribuirá a la simplificación de los textos legales, actualmente vigentes, sin mengua de lo que exige una adecuada sistematización legislativa, ya que dichos funcionarios están afectos al exclusivo servicio del Registro. Se ha procurado que, sin perjuicio de los derechos adquiridos, la reglamentación responda a los criterios que inspiraron la ordenación general de los funcionarios en cuanto no exija otra cosa la especialidad de la función. Se incorpora, simplificado, el ordenamiento de su Mutualidad Benéfica, creada por Orden de diecisiete de julio de mil novecientos cincuenta y uno, y, para representación del Cuerpo, se crea una Junta especial. El régimen económico de dichos funcionarios sigue siendo el de la percepción directa de derechos arancelarios. Teniendo en cuenta las necesidades del servicio y la posibilidad de una congrua dotación de los funcionarios, se limita dicho servicio a las capitales de provincia y poblaciones de más de cincuenta mil habitantes.
+
+– La complejidad y el carácter innovador de la nueva legislación plantea una prolija serie de cuestiones de Derecho intertemporal, entre otras, las de cierre de la antigua Sección IV, incorporación al Registro Civil del Registro de Tutelas, publicidad formal, nuevos libros e impresos, nombre y apellidos y cartas de naturaleza. A resolverlas tienden las disposiciones transitorias, con las que se pretende también liquidar la compleja problemática suscitada a raíz de la guerra de Liberación por los asientos practicados en territorio no sujeto a las Autoridades legítimas, que ya fue abordada en disposiciones anteriores; a este efecto, y con el fin de mantener, hasta donde sea posible, la virtualidad de los asientos, se extiende, en principio, a los practicados en dichos territorios, el régimen ordinario sobre defectos y procedimientos de corrección.
+
+– En las disposiciones finales se determina el régimen jurídico del Registro en las provincias africanas, que no puede ser otro que el general, salvo las excepciones que impongan las especialidades existentes en materia de órganos y de hechos inscribibles relativos a indígenas. La última disposición deja vigente el sistema actual de Aranceles, pues, aun reconociendo que la nueva legislación exige determinadas adaptaciones, éstas tendrán cabida en las disposiciones que les sean específicas.
+
+En en virtud, a propuesta del Ministro de Justicia, de conformidad con el dictamen del Consejo de Estado y previa deliberación del Consejo de Ministros,
+
+DISPONGO:
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Artículo único.**
+
+Se aprueba, con el carácter de definitivo, el adjunto Reglamento del Registro Civil, que comenzará a regir el primero de enero de mil novecientos cincuenta y nueve.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a catorce de noviembre de mil novecientos cincuenta y ocho.
+
+FRANCISCO FRANCO
+
+El Ministro de Justicia,
+
+ANTONIO ITURMENDI BAÑALES
+
+## REGLAMENTO DEL REGISTRO CIVIL
+
+### TÍTULO PRIMERO — Disposiciones generales
+
+#### CAPÍTULO PRIMERO — Reglas comunes y complementarias
+
+**Art. 1.**
+
+Los órganos del Registro Civil se comunicarán directamente entre sí de oficio. Por el mismo procedimiento se realizará la comunicación entre los Registros Consulares y los situados en España.
+
+> Se modifica por el art. 1 del Real Decreto 510/1985, de 6 de marzo. [Ref. BOE-A-1985-6285](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-6285).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 2.**
+
+Las Autoridades, funcionarios o particulares podrán formular peticiones ante el Registro Civil de su residencia o domicilio, cuando la oficina competente, a la que se dará inmediato traslado, radique en otro término o demarcación.
+
+Las notificaciones y, en general, toda comunicación al peticionario o parte se hará de oficio a través de la oficina de presentación en el domicilio que hubieren señalado en la misma población.
+
+El Encargado, asistido, en su caso, por el Secretario, deberá trasladarse al lugar en que haya de formularse una declaración inscribible por persona que, por enfermedad u otra causa, no pueda acudir al Registro.
+
+**Art. 3.**
+
+Quienes tienen capacidad para realizar un acto de estado civil, la poseen para todas las actuaciones registrales relativas al mismo.
+
+**Art. 4.**
+
+La muerte del interesado no impide la inscripción pretendida ni la tramitación de un expediente en cualquier tiempo incoado.
+
+**Art. 5.**
+
+Salvo justificadas razones de urgencia, el despacho de asuntos se llevará a efecto a las horas de servicio, que se anunciarán en lugar visible al público.
+
+La inscripción de defunción se considera siempre de urgencia.
+
+**Art. 6.**
+
+Para las obligaciones impuestas en esta legislación que no tengan señalado cumplimiento inmediato o plazo especial, éste será de tres días.
+
+No se computará el día en que acaezca el hecho inicial del plazo.
+
+**Art. 7.**
+
+En las peticiones que promuevan expediente o que exijan una legitimación especial, deberá hacerse constar por diligencia del Encargado, Secretario u Oficial la identidad del peticionario, a no ser que la firma de éste hubiera sido autenticada o se comparezca por Procurador de los Tribunales.
+
+Deberá constar la identidad de los testigos en todo caso.
+
+Los particulares o los testigos que no fueren conocidos podrán ser identificados por dos testigos de conocimiento o mediante documento oficial de identificación.
+
+Cuando para la inscripción sea necesaria la identificación, se expresará por diligencia en acta separada o en el propio cuerpo del asiento.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 8.**
+
+La Oficina de presentación dará al peticionario, si éste lo pidiera, justificante de haberse formulado, verbal o por escrito, petición o declaración, o de la recepción de documentos, en su caso.
+
+Se admitirá como recibo la fotocopia o copia simple del escrito o documento de que se trate, fechada, firmada y sellada por el funcionario a quien se entregue.
+
+**Art. 9.**
+
+En todas las oficinas del Registro habrá, a disposición del público, un ejemplar de la Ley y del Reglamento y de los formularios oficiales.
+
+**Art. 10.**
+
+En el Registro se utilizarán los libros e impresos oficiales, y, en su defecto, se seguirán los modelos oficiales, haciéndose constar la causa por la que se prescinde del impreso oficial.
+
+El blanco del impreso destinado a la circunstancia que no pueda acreditarse se llenará con la frase «no consta».
+
+**Art. 11.**
+
+Los asientos, certificaciones y diligencias expresarán, en su caso, el carácter de sustituto del autorizante. Tratándose de Juez de Paz, no se hará mención de su calidad de delegado ni de circunstancia alguna del Juez Encargado.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 12.**
+
+Las menciones de identidad consisten, a ser posible, en los nombres y apellidos, nombre de los padres, número del documento nacional de identidad, naturaleza, edad, estado, domicilio y nacionalidad.
+
+> Se interpreta el artículo por la Circular de 6 de noviembre de 1980 . [Ref. BOE-A-1980-24747](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-24747)
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 13.**
+
+Firmarán dos testigos a ruego de quien debe y no sabe o no puede hacerlo.
+
+Los mismos testigos no podrán sustituir en el asiento o diligencia a más de una persona.
+
+**Art. 14.**
+
+Rubricará los asientos y certificaciones el empleado que materialmente los extienda.
+
+**Art. 15.**
+
+Las diligencias serán fechadas y firmadas por el Encargado y por el Secretario, donde existiere.
+
+**Art. 16.**
+
+En las actuaciones y expedientes son de aplicación supletoria las normas de jurisdicción voluntaria.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+#### CAPÍTULO II — De la publicidad del Registro
+
+##### Sección Primera. De las certificaciones
+
+**Art. 17.**
+
+El Encargado y, por su delegación, el Secretario son los únicos funcionarios que pueden certificar de los asientos del Registro. Están, además, obligados a informar a los interesados para facilitarles la publicidad registral.
+
+El interés en conocer los asientos se presume en quien solicita la certificación.
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 18.**
+
+La manifestación y examen de los libros tendrá lugar a la hora más conveniente para el servicio y bajo la vigilancia del Encargado.
+
+**Art. 19.**
+
+Sin perjuicio de lo dispuesto en el artículo 21, las Autoridades y funcionarios, cuando lo exijan los asuntos de su respectiva función, y con indicación de los mismos, pueden conocer, por examen directo, certificación o nota simple informativa, el contenido de cualquier asiento o documento del Registro, salvo los correspondientes al libro de Matrimonios Secretos.
+
+Interesada de oficio, certificación o nota simple, sobre más de un folio registrar, el Encargado puede optar por la manifestación de Libros, excepto que otra cosa se imponga por Ley o Decreto o por la Dirección General. En estos últimos casos, podrá comprenderse en una sola certificación el contenido de diferentes folios.
+
+> Redactado el párrafo segundo conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 20.**
+
+Los Encargados comunicarán a los órganos oficiales, sin necesidad de petición especial, los datos exigidos por Ley, Real Decreto o por la Dirección General.
+
+Igualmente remitirán al Instituto Nacional de estadística, a través de sus Delegaciones, y a los servicios de Estadística Municipal los boletines sobre nacimientos, abortos, matrimonios, defunciones u otros hechos inscribibles.
+
+Los órganos competentes suministrarán, antes de que los hechos se hagan constar en el Registro, los impresos de boletines redactados de acuerdo con la Dirección General. Serán extendidas por el promotor o titular del asiento, Médico, Sanitario o Encargado, según prescriba el modelo y el Encargado consignará en ellos con el sello del Registro el tomo, página y fecha de la inscripción, y en los de abortos, los números del legajo correspondiente. No se consignarán en los boletines datos de identidad de los particulares afectados por los hechos, para cuya publicidad se requiere autorización especial.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto.[Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+**Art. 21.**
+
+No se dará publicidad sin autorización especial:
+
+1.º De la filiación adoptiva o desconocida o de circunstancias que descubran tal carácter y del cambio del apellido Expósito u otros análogos o inconvenientes.
+
+2.º De la rectificación del sexo.
+
+3.º De las causas de privación o suspensión de la patria potestad.
+
+4.º De los documentos archivados, en cuanto a los extremos citados en los números anteriores o a circunstancias deshonrosas o que estén incorporados en expediente que tenga carácter reservado.
+
+5.º Del legajo de abortos.
+
+6.º De los cambios de apellido autorizados conforme a lo previsto en el párrafo tercero del artículo 208 de este Reglamento.
+
+La autorización se concederá por el Juez Encargado y sólo a quienes justifiquen interés legítimo y razón fundada para pedirla. La certificación expresará el nombre del solicitante, los solos efectos para que se libra y la autorización expresa del Encargado. Este, en el registro directamente a su cargo, expedirá por sí mismo la certificación.
+
+> Se modifican los números 1º, 3º y se añade el 6º por el art. único.1 del Real Decreto 170/2007, de 9 de febrero. [Ref. BOE-A-2007-4942](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4942).
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 22.**
+
+No obstante, no requieren autorización especial para obtener certificación:
+
+1.º Respecto de los extremos a que se refiere el número primero del artículo anterior, el propio inscrito o sus ascendientes, descendientes o herederos. Respecto de la adopción plena, el adoptante o el adoptado mayor de edad, y respecto de la simple, además, los herederos, ascendientes y descendientes de uno y otro.
+
+2.º Respecto de la rectificación del sexo, el propio inscrito.
+
+3.º Respecto de las causas de privación o suspensión de la patria potestad, el sujeto a ésta o sus ascendientes o descendientes o herederos.
+
+4.º Respecto de los documentos archivados, las personas antes referidas en los distintos supuestos, y cuando se trate de resolución notificada, el destinatario de la notificación.
+
+5.º Respecto del legajo de abortos, los padres.
+
+6.º Respecto de los cambios de apellido autorizados conforme a lo previsto en el párrafo tercero del artícu­lo 208, únicamente la persona inscrita.
+
+Tampoco requieren autorización los que tienen bajo su guarda las personas antes referidas y los apoderados especialmente por aquéllos o estas. Aunque el apoderamientos escrito o la guarda no consten fehacientemente, el Encargado discrecionalmente podrá estimarlos acreditados.
+
+En la certificación se expresará, en todos los supuestos de este articulo, el nombre del solicitante.
+
+> Se modifica el número 3º y se añade el 6º por el art. único.2 del Real Decreto 170/2007, de 9 de febrero. [Ref. BOE-A-2007-4942](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4942).
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 23.**
+
+Para obtener certificaciones no es necesaria solicitud por escrito, excepto:
+
+1.º Si la busca ha de exceder de dos años.
+
+2.º Para las que requieran autorización previa.
+
+3.º Para las negativas, que necesariamente se referirán al tiempo expresamente indicado por el solicitante.
+
+4.º Cuando se pretenda que, en su caso, se formalice resolución denegatoria.
+
+5.º Cuando le presente en oficina distinta de la que ha de librar la certificación.
+
+La solicitud contendrá los datos necesarios para la busca.
+
+> Redactado el apartado 2 conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 24.**
+
+Las certificaciones que se soliciten con urgencia se expedirán o denegarán en veinticuatro horas.
+
+**Art. 25.**
+
+Denegada la certificación, se expedirá nota simple o, si se hubiere solicitado, se formalizará resolución denegatoria, con referencia en una y otra a la solicitud, indicando su fecha y peticionario. La nota o resolución será motivada en tanto no revele dato alguno de que no pueda certificarse y, en su caso, expresará, en fórmula general, que sólo pueden solicitar certificación las personas señaladas por las disposiciones vigentes. Entablado recurso contra la resolución, el Encargado elevará informe reservado sobre los motivos de la denegación.
+
+**Art. 26.**
+
+Las certificaciones se extenderán sin dejar espacio para transcripciones marginales. Los asientos marginales se transcribirán a continuación del texto, antes de la fecha y firma.
+
+Cabe certificar sobre copias de los asientos, obtenidas por fotografía o procedimientos análogos del modo que autorice la Dirección General.
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 27.**
+
+En las certificaciones constarán:
+
+1.º El Registro, con indicación en los Municipales, del término y provincia, y en los Consulares, de la población y Estado.
+
+2.º Las menciones de identidad del inscrito que aparezcan en la inscripción principal.
+
+3.º La página y tomo del asiento, o al folio y legajo correspondiente.
+
+4.º Las demás circunstancias exigidas.
+
+5.º La fecha, el nombre y firma del Encargado o del Secretario que certifique, y sello de la oficina.
+
+Los defectos o lagunas del asiento se harán constar en caracteres destacados por el subrayado o diverso color o tipo de letra.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 28.**
+
+Las certificaciones pueden ser positivas o negativas, y de asientos o de documentos archivados.
+
+Las positivas de asientos pueden ser literales o en extracto.
+
+Las literales comprenden íntegramente los asientos a que se refieren, con indicación de las firmas.
+
+Las certificaciones en extracto u ordinarias, contienen los datos de que especialmente hace fe la inscripción correspondiente, según resulte de las inscripciones ulteriores modificativas, sin expresión de éstas, y, también, las notas marginales de referencia a las inscripciones o anotaciones de matrimonio, tutela, representación o defunción del nacido o a la de nacimiento.
+
+**Art. 29.**
+
+La certificación en extracto de nacimiento ordinaria no da fe de la filiación: expresará la fecha y lugar de nacimiento, sin precisar hora y sitio, y entre las menciones de identidad referirá los nombres propios de los padres, reales o figurados, que aparezcan en la inscripción. Tratándose de adoptados, mencionará únicamente el nombre del padre y madre cuyos apellidos ostentan en primer lugar.
+
+Esta certificación declarará que sólo da fe del hecho, fecha y lugar del nacimiento y del sexo del inscrito.
+
+**Art. 30.**
+
+En la certificación literal de nacimiento se hará constar que se expide para los asuntos en los que sea necesario probar la filiación, sin que sea admisible a otros efectos.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 31.**
+
+Las certificaciones no requieren legalización para surtir sus efectos ante cualquier órgano, sin perjuicio de las diligencias de comprobación que éste estime oportuno realizar en caso de duda fundada.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 32.**
+
+Las certificaciones referirán, literalmente o en extracto, según su clase, las anotaciones del mismo folio, en cuanto se relacionan con el hecho de que se certifica.
+
+**Art. 33.**
+
+Las certificaciones positivas de documentos podrán ser totales o de particulares y, unas y otras, literales, en relación o mixtas. En la de particulares se hará constar que «en lo omitido no hay nada que amplíe, restrinja o modifique lo inserto», y si lo hay, se hará, necesariamente, relación de ello en la certificación.
+
+Las certificaciones de documentos podrán hacer referencia a extremos concretos contenidos en un expediente terminado o en tramitación.
+
+**Art. 34.**
+
+Las negativas de asientos o documentos archivados harán referencia, según lo solicitado, a un tiempo determinado o al transcurrido desde el establecimiento del Registro respectivo.
+
+**Art. 35.**
+
+De lo mismo que puede certificarse se dará, sin garantía, nota simple informativa a quien la solicite.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+##### Sección Segunda. Del Libro de Familia
+
+> Se modifica por el art. 2 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 36.**
+
+El Libro de Familia se abre con la certificación del matrimonio no secreto y contiene sucesivas hojas destinadas a certificar las indicaciones registrales sobre el régimen económico de la sociedad conyugal, el nacimiento de los hijos comunes y de los adoptados conjuntamente por ambos contrayentes, el fallecimiento de los cónyuges y la nulidad, divorcio o separación del matrimonio.
+
+También se entregará Libro de Familia al progenitor o progenitores de un hijo no matrimonial y a la persona o personas que adopten a un menor. Se hará constar, en su caso, el matrimonio que posteriormente contraigan entre sí los titulares del Libro.
+
+En el Libro se asentará con valor de certificaciones cualquier hecho que afecte a la patria potestad y la defunción de los hijos, si ocurre antes de la emancipación.
+
+Los asientos-certificaciones son en extracto, sin transcripción de notas y en los de nacimientos no se expresará la clase de filiación. Pueden rectificarse en virtud de ulterior asiento-certificación.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 37.**
+
+El Libro de Familia se entregará a sus titulares, o a personas autorizadas por éstos, inmediatamente después de la inscripción del matrimonio en el Registro ordinario o, salvo que ya lo tuvieren, cuando se inscriba una filiación no matrimonial o una adopción.
+
+Cuando la entrega del Libro tenga lugar por consecuencia de la inscripción de una adopción, habrá de cancelarse el asiento de nacimiento que figure en el anterior Libro de Familia expedido, en su caso, al progenitor a progenitores por naturaleza. Si en este Libro anterior consta únicamente ese asiento de nacimiento, dicho Libro será anulado.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+**Art. 38.**
+
+La entrega del Libro, cualquiera que sea el tiempo en que tenga lugar, se hará constar siempre al margen de la correspondiente inscripción de matrimonio o, en defecto de éste, en cada una de las inscripciones de nacimiento.
+
+Los cónyuges o el titular o titulares de la patria potestad tendrán siempre el Libro correspondiente. En caso de pérdida o deterioro, obtendrán del mismo Registro un duplicado, en el que se extenderán las certificaciones oportunas. En el duplicado se expresará que sustituye al primitivo y de su expedición se tomará nota en las inscripciones correspondientes del Registro.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 39.**
+
+El titular del Libro exigirá que en él se extiendan todas las certificaciones pertinentes inmediatamente de la inscripción. El Encargado del Registro velará, especialmente por el cumplimiento de esta obligación.
+
+**Art. 40.**
+
+El Encargado facilitará gratuitamente, a los titulares del Libro, las hojas supletorias de los impresos necesarios del mismo tamaño y de papel común. Las hojas supletorias serán rubricadas por el Encargado y selladas con el de la oficina, y su número se expresará por diligencia al final de la última.
+
+### TÍTULO II — De los órganos del Registro
+
+#### CAPÍTULO PRIMERO — De la Dirección General de los Registros y del Notariado
+
+**Art. 41.**
+
+Dentro del Ministerio de Justicia, compete a la Dirección General de los Registros y del Notariado la dirección e inspección de los servicios del Registro Civil. En general, le corresponde cumplir y hacer cumplir la Ley, el Reglamento, preparar las propuestas de cuantas disposiciones en la materia hayan de revestir forma de Orden o Real Decreto e informar sobre las cuestiones propias del Registro Civil.
+
+Será oído el Ministerio de Asuntos Exteriores sobre las peculiaridades del servicio de libros e impresos en cuanto a los Registros Civiles en el extranjero.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+**Art. 42.**
+
+La Dirección General comunicará a los órganos del Registro las resoluciones o instrucciones directamente o por conducto de los Presidentes de los Tribunales Superiores de Justicia o del Ministerio de Asuntos Exteriores.
+
+Los Encargados o Inspectores del Registro Civil no quedan obligados por órdenes o instrucciones emanadas de Organismos distintos de aquellos a quienes la Ley encomienda este servicio. En consecuencia, toda orden dirigida a esos funcionarios por otros superiores jerárquicos indicará su carácter de traslado.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 43.**
+
+Los Encargados del Registro pueden elevar a la Dirección, previo informe del Ministerio Fiscal, propuestas para mejorar el servicio o resolver cuestiones de carácter general.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+#### CAPÍTULO II — De los Registros
+
+##### Sección primera. De los Registros Municipales
+
+**Art. 44.**
+
+En las poblaciones en que haya más de un Juzgado de Primera Instancia, el servicio del Registro Civil queda sujeto a las siguientes reglas:
+
+1.ª Existirán uno o más Registros, siempre a cargo de Jueces de Primera Instancia, asistidos por los correspondientes Secretarios judiciales.
+
+2.ª El Ministerio de Justicia, atendiendo a las circunstancias de cada población, adoptará o promoverá las medidas convenientes y en particular:
+
+a) Si en el término municipal ha de existir un único Registro o varios, señalándose en este caso la competencia de cada uno.
+
+b) El Juez o Jueces de Primera Instancia a quienes incumbe el Registro Civil y, en su caso, las funciones que a cada uno corresponden.
+
+c) Si el Juez o Jueces han de dedicarse exclusivamente al servicio del Registro.
+
+En todo caso, la decisión sobre estos extremos y la provisión de vacantes de Juez, Secretario y personal auxiliar se ajustarán a las disposiciones orgánicas de la Administración de Justicia.
+
+Corresponde al Ministerio de Justicia, a propuesta de la Dirección General, la determinación del número de Médicos del Registro Civil y la distribución entre ellos de los servicios.
+
+3.ª El Secretario, por delegación del Encargado, podrá desempeñar por si solo: la función de certificar; todas las funciones registrales a que se refiere el párrafo segundo del artículo 46, y las relativas a las fes de vida o estado. Las mismas atribuciones tendrá el Oficial habilitado de la Administración de Justicia en quien el Secretario, a su vez, delegue, previa autorización del Encargado.
+
+4.ª En el ámbito de funciones referido en el párrafo segundo del artículo 46, las inscripciones que pueden practicarse en virtud de declaración pueden igualmente practicarse en virtud de acta que de tal declaración levante dicho Oficial o Secretario, siempre que se extienda el asiento antes de los veinte días de ocurrir el hecho inscribible.
+
+Para que el Juez pueda expedir la licencia de entierro se requiere que se haya levantado el acta y que conste el parte y comprobación de la muerte en los términos exigidos para la inscripción.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 166, de 12 de julio de 1969. [Ref. BOE-A-1969-868](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-868).
+
+**Art. 45.**
+
+La Dirección General podrá autorizar, cuando el servicio lo requiera, la apertura de varios tomos del Libro Diario, así como los tomos que en cada una de las Secciones de un Registro pueden estar simultáneamente abiertos.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 46.**
+
+En los Registros Municipales, el Juez de Paz actúa por delegación del Encargado y con iguales facultades, salvo en los expedientes.
+
+En su virtud, extenderá las inscripciones dentro del plazo de nacimiento de hijos habidos en matrimonio, las ordinarias de defunción, las de matrimonio en forma religiosa mediante la certificación respectiva, las de matrimonio en forma civil cuyo previo expediente haya instruido, y las notas marginales que no sean de rectificación o cancelación.
+
+No deberá, sin embargo, extender ningún otro asiento, salvo en casos de urgente necesidad, sin recibir instrucción particular y por escrito del Encargado, solicitada y despachada inmediatamente, la cual será archivada con los demás antecedentes relativos al asiento, reservándose minuta el Encargado.
+
+En todo caso, cumplirá cuantos cometidos reciba del Encargado del Registro.
+
+Las certificaciones, siempre, se expedirán y firmarán conjuntamente por el Juez y el Secretario.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado el último párrafo conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 47.**
+
+Corresponde a los Jueces de Primera Instancia ilustrar y dirigir a los Jueces de Paz, aclarando sus dudas, corrigiendo sus errores, dándoles las instrucciones necesarias para el desempeño de su cometido y encareciéndoles la máxima diligencia y la consulta en los casos dudosos.
+
+Siempre que lo imponga el servicio y, al menos, una vez al año visitarán los Registros a su cargo para examinar minuciosamente todos los asientos, documentos archivados y diligencias posteriores a la última visita y proveer a lo necesario en orden a su buen funcionamiento. Si en el año o años anteriores no se hubieren efectuado estas visitas, darán cuenta de ello al Presidente del Tribunal Superior de Justicia.
+
+Del resultado levantarán por duplicado acta minuciosa, uno de cuyos ejemplares entregarán al Juez de Paz; la visita se diligenciará en el Libro de Personal y Oficina y en cada uno de los de inscripciones abiertos.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado el último párrafo conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 48.**
+
+Los Jueces de Primera Instancia, en cuanto Encargados del Registro, serán sustituidos de acuerdo con lo prescrito para aquellos cargos.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 49.**
+
+Juez y Secretario responden solidariamente de cuantos actos autoricen conjuntamente relativos al Registro.
+
+El Secretario se atendrá a lo ordenado por el Juez; pero si estimare que hay infracción, salvará su responsabilidad dando seguidamente cuenta al órgano inmediato superior.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+##### Sección segunda. De los Registros Consulares y Central
+
+**Art. 50.**
+
+Habrá un Registro para cada demarcación consular; el Ministerio de Asuntos Exteriores comunicará al de Justicia los Consulados de España en el extranjero y su demarcación territorial.
+
+**Art. 51.**
+
+Los Registros Consulares estarán a cargo de los Cónsules de España o, en su caso, de los funcionarios diplomáticos encargados de las Secciones consulares de la Misión Diplomática.
+
+Serán sustituidos por el funcionario de carrera que corresponda y, en su defecto, por el Canciller o persona que le sustituya, según su Reglamento.
+
+A falta del sustituto reglamentario, los hechos se inscribirán en el Registro Central.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 52.**
+
+El Registro Civil Central estará a cargo de dos Magistrados, asistidos de otros tantos Secretarios Judiciales. Los Magistrados se sustituirán entre sí y, en su defecto, serán sustituidos por los encargados del Registro Civil de Madrid. La Dirección General de los Registros y del Notariado determinará las funciones que correspondan a cada Encargado.
+
+> Se modifica por la disposición adicional 1 del Real Decreto 644/1990, de 18 de mayo. [Ref. BOE-A-1990-11642](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-11642).
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores del BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 53.**
+
+Los Registros Consulares carecen de Secretario; los asientos, certificaciones y diligencias se autorizarán solo por el Encargado.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 54.**
+
+Asumirá las funciones que, en orden a cada Registro se asignan al Presidente del Tribunal Superior de Justicia correspondiente, respecto del Central, el Presidente del de Madrid, y respecto de los Consulares, el propio Encargado o el sustituto legal de carrera.
+
+El Ministerio Fiscal estará representado en los expedientes relativos al Registro Central por quien corresponda, según el Registro ante quien se ventilen, y en todo lo demás relativo al Registro por el Fiscal que se le asigne entre los de Madrid. Respecto de los Consulares, por el Canciller del Consulado, y en defecto de sustituto reglamentario, por dos españoles capaces e instruidos, nombrados por el Jefe de la Oficina Consular o de la Misión Diplomática. El representante se atendrá a las normas que rigen el Ministerio Fiscal y actuará en este cometido con independencia de los Cónsules.
+
+No se puede actuar en el mismo asunto como Encargado y representante del Ministerio Fiscal.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+##### Sección tercera. De la segregación, extinción y división de los Registros
+
+**Art. 55.**
+
+Para cerrar un Registro en día señalado, el Encargado, a las cero horas, extenderá nota, con mención de la disposición, en el primer folio en blanco de cada libro. Los folios en blanco restantes serán inutilizados, trazando en toda su extensión un aspa e indicando al pie de cada uno su carácter de «Inutilizado», con la rúbrica del Secretario o Encargado, y sello de la oficina. En el último folio se pondrá nota de referencia a la de cierre.
+
+Al ordenarse la segregación, división o extinción de un Registro se indicará el que conservará su archivo.
+
+#### CAPÍTULO III — De la Inspección y sanciones
+
+**Art. 56.**
+
+La Dirección General ejerce la inspección superior por sus funcionarios del grupo A, Licenciados en Derecho, con la categoría de Subdirectores o Jefes de Servicio, que tienen carácter y atribuciones de Inspectores centrales, sin perjuicio de la superior facultad del Director General.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+**Art. 57.**
+
+Los Inspectores se atendrán a las instrucciones que reciban de la Dirección General para corregir las deficiencias que perturben el servicio.
+
+**Art. 58.**
+
+La inspección ordinaria de los Registros Municipales se ejerce por el Presidente del Tribunal Superior de Justicia respectivo o por el Magistrado en quien delegue para cada provincia.
+
+La inspección se hará personalmente y una vez al año, sin perjuicio de las visitas extraordinarias que él o la Dirección estimen convenientes; dará cuenta a la Dirección General de la falta de inspección en el año o años anteriores.
+
+La inspección recaerá:
+
+1.º Sobre el Registro directamente a cargo del Juez de Primera Instancia, examinando las actas de las visitas que el Encargado hubiere efectuado en los Registros a su cargo, así como instrucciones particulares que hubiere dado a los Jueces de Paz.
+
+2.º Sobre uno, al menos, por cada Juez de Primera Instancia de los Registros en que actúe por delegación el Juez de Paz, comprobando el cumplimiento de los deberes del respectivo Encargado.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 59.**
+
+La inspección ordinaria de los Registros Consulares se ejercerá, sin sujeción a periodos, por el Jefe de la Misión Diplomática. Puede delegar en otros funcionarios diplomáticos o consulares destinados en la misma, previa autorización del Ministerio de Asuntos Exteriores.
+
+La del Registro a cargo del propio Jefe de Misión se efectuará por funcionario designado por el Ministerio de Asuntos Exteriores.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 60.**
+
+La inspección se referirá al tiempo posterior a la ultima según el Libro de Personal y Oficina.
+
+El Inspector examinará los libros, legajos y expedientes, y, de modo especial, los expedientes de matrimonio civil y la documentación de cuentas arancelarias. En los libros de inscripciones abiertos y en el de Personal y Oficinas se extenderá diligencia de inspección.
+
+Del resultado levantará, por duplicado, acta minuciosa, uno de cuyos ejemplares entregará al Encargado.
+
+**Art. 61.**
+
+Los Inspectores ordinarios, en el mes de enero, darán a la Dirección General parte circunstanciado de las inspecciones designando nominalmente los Encargados en cuyos Registros no hubieran advertidos faltas y los que se encuentren en otro caso, con expresión de las observadas, medidas tomadas para corregirlas, si se ha procedido a la subsanación y las sanciones impuestas.
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo.[Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 62.**
+
+En los años terminados en cero o cinco, los Inspectores ordinarios enviarán, con el parte remitido a la Dirección General, una Memoria de las medidas aconsejables para el servicio, de cuya redacción encargarán, con un año de anticipación, a un Encargado de Registro, el cual utilizará los informes y propuestas de los demás, sujetos al mismo Inspector.
+
+La Dirección podrá señalar, con la debida antelación, el tema o temas a que debe ceñirse la Memoria.
+
+Un resumen de las Memorias, aprobado por la Dirección General, se incorporará al Anuario de este Centro.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 63.**
+
+Los particulares, así como el Ministerio Fiscal o cualquier funcionario, pueden denunciar cualquier infracción, morosidad o negligencia en orden al Registro al Inspector ordinario o a la Dirección General.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 64.**
+
+Los Inspectores que conozcan cualquier infracción en relación con el Registro están obligados:
+
+1.º A su comprobación.
+
+2.º A promover los remedios o expedientes para subsanarla.
+
+3.º A imponer o proponer las multas.
+
+4.º A dar cuenta a los órganos a quienes corresponda, en su caso, imponer corrección administrativa o exigir responsabilidades de otro orden.
+
+**Art. 65.**
+
+Lor órganos del registro comunicarán a sus superiores las infracciones a las que corresponda sanción mayor que a que ellos puedan imponer o cometidas por funcionarios no sujetos a su autoridad.
+
+Los Jueces de Paz impondrán, como Delegados del Registro, multas hasta 250 pesetas.
+
+En ningún caso las multas serán inferiores de 50 pesetas; podrán imponerse, aunque los infractores hubieren cesado en sus cargos, siempre que no hayan transcurrido cinco años de la infracción.
+
+Se impondrán previa citación del infractor, examinando las causas que excusen, atenúen o agraven la infracción y teniendo en cuenta su situación económica. Se harán efectivas en papel del Estado y, en su defecto, por la vía de apremio.
+
+### TÍTULO III — Reglas generales de competencia
+
+##### Sección primera. De la competencia de los Registros
+
+**Art. 66.**
+
+En el Registro constarán los hechos que afecten a españoles, aunque determinen la pérdida de su condición de tales o hayan acaecido antes de adquirirla. También se inscribirán los que afecten mediatamente a su estado civil.
+
+La duda sobre la nacionalidad del sujeto no es obstáculo para la inscripción de hecho. Tampoco lo es el no estar matriculado en el Consulado.
+
+También constarán los acaecidos en el curso de un viaje a bordo de naves o aeronaves españolas.
+
+En las inscripciones de nacimiento que hayan de practicarse en los Registros Consulares o Central, sin que esté acreditada conforme a Ley la nacionalidad española del nacido, se hará constar expresamente esta circunstancia.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 67.**
+
+La competencia del Registro de La Línea se extiende a Gibraltar en cuanto a los súbditos españoles. Se llevarán, respecto de dicho territorio, libros legajos y ficheros separados.
+
+**(Suprimido)**
+
+> Se suprime por la disposición derogatoria única del Real Decreto 1183/1994, de 3 de junio. [Ref. BOE-A-1994-15125](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-15125).
+
+**Art. 68.**
+
+Los nacimientos, matrimonios y defunciones se inscribirán en el Registro Municipal o Consular del sitio en que acaecen, cualquiera que sea el domicilio de los afectados, la incardinación de la parroquia o el lugar de enterramiento.
+
+Cuando sea competente un Registro Consular, si el promotor está domiciliado en España, deberá practicarse antes la inscripción en el Registro Central, y después, por traslado, en el Consular correspondiente.
+
+A los efectos de la inscripción dentro de plazo de nacimiento en el Registro Civil del domicilio del progenitor o progenitores legalmente conocidos, habrán de conrurrir las condiciones establecidas por el artículo 16.2 de la Ley y la justificación del domicilio se realizará por exhibición de los documentos nacionales de identidad oportunos o, en su defecto, por certificación del padrón municipal.
+
+El solicitante o solicitantes de tal inscripción deberán manifestar, bajo su responsabilidad, que no han promovido la inscripción en el Registro Civil correspondiente al lugar del nacimiento y acompañarán una certificación acreditativa de que tampoco se ha promovido la inscripción por la Dirección del Centro hospitalario en el que tuvo lugar el alumbramiento.
+
+En estas inscripciones se hará constar expresamente, en la casilla destinada a observaciones, que se considera a todos los efectos legales que el lugar del nacimiento del inscrito es el municipio en que se ha practicado el asiento.
+
+> Se añaden los párrafos tercero a quinto por el art. 1 del Real Decreto 1063/1991, de 5 de julio. [Ref. BOE-A-1991-17679](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-17679).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 166, de 12 de julio de 1969. [Ref. BOE-A-1969-868](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-868).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 69.**
+
+La inscripción de nacimiento o matrimonio ocurrido en el curso de un viaje se practica en el Registro del lugar en que se abandona el vehículo. Si el nacido o uno de los contrayentes falleciera antes de abandonarlo, dicha inscripción se practicará en el Registro en que se inscriba la defunción, y si fallecen ambos cónyuges, en aquel en que se inscriba el primer fallecimiento.
+
+**Art. 70.**
+
+En caso de naufragio, en defecto de diligencias instruidas por autoridades españolas, se decidirá la competencia para la inscripción por razón del lugar del siniestro.
+
+En la catástrofe aérea rigen las reglas del naufragio.
+
+##### Sección segunda. De los nacimientos, matrimonios y defunciones ocurridos en circunstancias especiales
+
+**Art. 71.**
+
+El acta en cuya virtud puede practicarse la inscripción de nacimiento, matrimonio o defunción, cualquiera que sea el tiempo transcurrido, será autorizada:
+
+1.º Si los hechos ocurren en el curso de un viaje marítimo o aéreo, por el Contador del buque de guerra, o, en las otras naves, por el Comandante, Capitán o Patrón.
+
+2.º Ocurridos en campaña, por el Comandante de la unidad o por cualquier Oficial encargado.
+
+3.º En cualesquiera circunstancias que impidan el funcionamiento del Registro correspondiente, por el Encargado del mismo, por el Delegado especial nombrado por la Dirección General y, en defecto de todos, por la autoridad gubernativa local.
+
+4.º En lazareto, cárcel, cuartel, hospicio, hospital u otro establecimiento público análogo, ya ocurra el hecho en los inmuebles, ya en las ambulancias u otros móviles accesorios, por el funcionario a cuyo cargo esté la dirección o jefatura u otro formalmente encargado por éste.
+
+5.º En los lugares desde los que no fuere posible durante más de un día el traslado a la oficina del Registro, por la autoridad gubernativa local.
+
+6.º En los núcleos de población distantes de la oficina del Registro y determinados por la Dirección General, por el Delegado del Registro Civil, nombrado por el Juez de Primera Instancia.
+
+7.º En los lugares en que sólo haya Agentes consulares honorarios de España, por éstos, aunque no sean de nacionalidad española.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 72.**
+
+Las autoridades o funcionarios referidos en el artículo anterior tienen los mismos deberes y facultades del Encargado del Registro respecto a la comprobación de nacimiento, filiación defunción o aborto, y, salvo en los supuestos de los números cuarto séptimo, para la licencia de entierro, que sólo expedirán si hubiera inconveniente para conseguir la ordinaria antes de las veinticuatro horas.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 73.**
+
+Los obligados a hacer la declaración lo están también a promover el acta y la inscripción.
+
+Levantada el acta, será transcrita en el Diario de Navegación u otro libro de naturaleza análoga que reglamentariamente lleve quien la autorice: a falta de tal libro, el autorizante llevará uno especial para estas actas con las precauciones establecidas para el Diario de la oficina del Registro. En todo caso el asiento de transcripción será firmado por la persona que lo autorice.
+
+El acta, con los documentos, en su caso, se remitirá por el medio más rápido y seguro al Registro competente, cuyo Encargado comunicará al remitente la práctica del asiento, con mención del tomo y página, o la resolución recaída. En el Iibro Diario constará por diligencia el envío al Registro y la comunicación de éste con sus particularidades.
+
+Pasados treinta días del hecho, la inscripción, en virtud del acta, sólo puede practicarse previo expediente.
+
+En campaña pueden constar diferentes defunciones en una sola acta.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 74.**
+
+En el acta de nacimiento que se levanta antes de las veinticuatro horas del hecho, porque el viaje durante el cual ocurre ha de terminar antes o porque concurren circunstancias que impiden la demora, se harán constar las horas del nacido y las circunstancias de urgencia que concurren.
+
+La supervivencia a dicho plazo se demostrará, a efectos de inscripción, por acta separada de identificación del nacido, diligenciada, a presencia del Ministerio Fiscal, por el Encargado del Registro competente o por el del domicilio y, en defecto de acta, por expediente gubernativo.
+
+El fallecimiento, antes de las veinticuatro horas del nacimiento, constará, igualmente, en el acta, que será incorporada, con los documentos complementarios, al legajo de abortos; si ocurre en circunstancias distintas del nacimiento, se acreditará con la declaración y parte pertinentes que, con el acta de nacimiento, se llevarán a dicho legajo.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 75.**
+
+Las actas levantadas en los supuestos especiales referidos en el artículo 71 por las correspondientes autoridades o funcionarios de país extranjero, no excluyen la necesidad del previo expediente; si bastan para la inscripción en Registro extranjero, tendrán la misma consideración que las certificaciones de este Registro.
+
+##### Sección tercera. De los traslados de inscripciones
+
+**Art. 76.**
+
+Pueden pedir el traslado de la inscripción de nacimiento, el nacido o sus representantes legales; de la de matrimonio, ambos cónyuges de común acuerdo, y de la de defunción, los herederos del difunto.
+
+Trasladada una inscripción de nacimiento o de matrimonio al Registro del domicilio, habrán de transcurrir veinticinco años para que pueda admitirse un posterior traslado al Registro del nuevo domicilio.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 77.**
+
+La inscripción se traslada por medio de certificación literal remitida por vía oficial, sin desglose de documentos archivados; del tomo y página de la nueva inscripción se hará referencia en el índice del tomo abierto en la fecha del hecho inscrito; y en el asiento cancelatorio, además de estos datos, se consignará el del registro donde aquella se practique mediante la comunicación de haberse realizado el traslado.
+
+En caso de adopción, si los solicitantes del traslado así lo piden, en la nueva inscripción de nacimiento constarán solamente, además de los datos del nacimiento y del nacido, las circunstancias personales de los padres adoptivos y, en su caso, la oportuna referencia al matrimonio de estos.
+
+En las nuevas inscripciones a las que refiere este artículo se hará referencia a la antigua.
+
+> Se modifica por el art. único.1 del Real Decreto 820/2005, de 8 de julio. [Ref. BOE-A-2005-12704](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-12704).
+
+**Art. 78.**
+
+Las inscripciones practicadas en los Registros Consulares y en el Central podrán ser trasladadas desde cualquiera de ellos al Registro del domicilio. En éste, si es municipal, se extenderán exclusivamente los posteriores asientos marginales.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+##### Sección cuarta. De las incompatibilidades
+
+**Art. 79.**
+
+Los funcionarios del Registro pueden actuar con tal carácter respecto de los hechos en que hayan intervenido como Juez o Fedatario. Pero no intervendrán en los asuntos en que los funcionarios o los parientes con los que son incompatibles hayan actuado como Abogado ni tampoco en las actuaciones motivadas por infracciones cometidas por unos o por otros.
+
+### TÍTULO IV — De los asientos en general y modo de practicarlos
+
+#### CAPÍTULO PRIMERO — De los títulos de inscripción
+
+##### Sección primera. De las clases de títulos y sus requisitos
+
+**Art. 80.**
+
+La inscripción se practicará en cuanto resulten legalmente acreditado cualquier hecho de que hace fe, según su clase, aun cuando no puedan constar todos los datos exigidos, sin perjuicio de las diligencias para completarla.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 81.**
+
+El documento auténtico, sea original o testimonio, sea judicial, administrativo o notarial, es título para inscribir el hecho de que da fe. También lo es el documento auténtico extranjero, con fuerza en España con arreglo a las leyes o a los Tratados internacionales.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 82.**
+
+Las sentencias y resoluciones firmes son títulos suficientes para inscribir el hecho que constituyen o declaran; si contradicen hechos inscritos, deben ordenar para ser inscribibles, la rectificación correspondiente.
+
+**Art. 83.**
+
+No podrá practicarse inscripción en virtud de sentencia o resolución extranjera que no tenga fuerza en España; si para tenerla requiere «exequátur», deberá ser previamente obtenido.
+
+Las sentencias o resoluciones canónicas, para ser inscritas, requieren que su ejecución, en cuanto a efectos civiles, haya sido decretada por el Juez o Tribunal correspondiente.
+
+**Art. 84.**
+
+No es necesario que tengan fuerza directa en España, excepto cuando lo impida el orden público.
+
+1.º Las sentencias o resoluciones extranjeras que determinen o completen la capacidad para el acto inscribible.
+
+2.º Las autorizaciones, aprobaciones o comprobaciones de autoridad extranjera en cuanto impliquen formas o solemnidades del acto en el país en que éste se otorga.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 85.**
+
+Para practicar inscripciones sin expediente en virtud de certificación de Registro extranjero, se requiere que éste sea regular y auténtico, de modo que el asiento de que se certifica, en cuanto a los hechos de que da fe, tenga garantías análogas a las exigidas para la inscripción por la Ley española.
+
+Se completarán por los medios legales los datos y circunstancias que no puedan obtenerse de la certificación o parte extranjero, por no contenerlos, por no merecer, en cuanto a ellos autenticidad o por ofrecer, por cualquier otro motivo, dudas sobre su realidad.
+
+La falta de inscripción en el Registro extranjero no impide practicarla en el español mediante título suficiente.
+
+##### Sección segunda. De los requisitos complementarios de los documentos
+
+**Art. 86.**
+
+Con los documentos no redactados en castellano ni en ninguna de las demás lenguas oficiales en las respectivas Comunidades Autónomas, o escritos en letra antigua o poco inteligible, se acompañará traducción o copia suficiente hecha por Notario, Cónsul, Traductor u otro órgano o funcionario competentes.
+
+No será necesaria la traducción si al Encargado le consta su contenido.
+
+> Se modifica por el art. único del Real Decreto 628/1987, de 8 de mayo. [Ref. BOE-A-1987-11822](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-11822).
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 87.**
+
+Los documentos auténticos expedidos por autoridad o funcionario español competente no requieren legalización para surtir efectos en los Registros Civiles españoles.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 88.**
+
+A salvo lo dispuesto en los Tratados internacionales, requieren legalización los documentos expedidos por funcionario extranjero y los expedidos en campaña o en el curso de un viaje marítimo o aéreo.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 89.**
+
+Aun siendo preceptiva la legalización, no se exigirá si consta al Encargado la autenticidad, directamente, o bien por haberle llegado el documento por vía oficial o por diligencia bastante. No se exigirá legalización ulterior si consta la autenticidad de la precedente.
+
+El Encargado que dude fundadamente de la autenticidad de un documento, realizará las comprobaciones oportunas, sin dilatar el plazo o tiempo señalado para su actuación.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 90.**
+
+La legalización, a efectos del Registro, se hará, tratándose de documentos extranjeros, por el Cónsul español del lugar en que se expidan o por el Cónsul del país en España.
+
+Si se trata de documentos expedidos en campaña o en el curso de un viaje marítimo o aéreo, la legalización se practicará, a estos efectos, por el Subsecretario del Ministerio correspondiente, sin perjuicio de la competencia atribuida al Cuerpo Militar de Intervención de la Defensa.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 91.**
+
+La adecuación de un hecho o documento al Derecho extranjero no conocido por el Encargado se justificará por testimonio del Cónsul en España del Cónsul de España en el país o de Notario español que conozca tal Derecho.
+
+#### CAPÍTULO II — De quienes promueven la inscripción y del auxilio para conseguirla
+
+**Art. 92.**
+
+Puede promover la inscripción quien presente título suficiente.
+
+La obligación de promoverla se refiere a todos sus datos y circunstancias.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 93.**
+
+Están especialmente obligados a promoverla sin demora los representantes legales de los legalmente obligados, cuando éstos sean incapaces.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 94.**
+
+El Encargado deberá de oficio:
+
+1.º Practicar la inscripción cuando tenga en su poder los títulos suficientes. Si ha de devolverlos o remitirlos a otro órgano, librará gratuitamente testimonio en relación, que archivará en el legajo.
+
+2.º Comunicar al Ministerio fiscal las denuncias de hechos o datos no inscritos o sobre errores del Registro y la insuficiencia de títulos determinantes de asientos, con su remisión y, si hubiera de devolverlos, de testimonio bastante igualmente librado por él.
+
+3.º Instruir a los interesados y excitar o exigir su actuación cuando proceda.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 95.**
+
+Las Autoridades, funcionarios y particulares prestarán el auxilio necesario para la concordancia del Registro y la realidad.
+
+A este efecto, las Autoridades y funcionarios comunicarán los hechos no inscritos, con todas las circunstancias posibles, al Ministerio Fiscal, con remisión de los documentos que puedan servir de título. Será preferente el Registro Central al Consular, si ambos fueren competentes.
+
+En los duplicados, autos, expedientes o matrices, se consignará esta comunicación, y extendido el asiento, la que debe enviar el Encargado, con indicación de tomo y página o de la resolución recaída.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 96.**
+
+Los órganos del Registro prestarán auxilio a los Registros extranjeros, en régimen de reciprocidad.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 97.**
+
+Los Cónsules recabarán los partes de las inscripciones que afecten a españoles practicadas en el Registro del país.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+#### CAPÍTULO III — De los Libros del Registro y de su archivo
+
+##### Sección Primera. Disposiciones generales
+
+**Art. 98.**
+
+En cada Registro se llevarán:
+
+1.º Los libros correspondientes a las Secciones que comprende: el Diario, que en los Registros Consulares puede ser sustituido por el Libro Registro General, y el de Personal y Oficina.
+
+2.º Un orden de legajo por Sección: otro indistinto de Inscripciones, indicaciones, cancelaciones y anotaciones marginales el de Notas Marginales, el de Personal y Oficina, el de Expedientes, el de Otros Documentas y el de Abortos.
+
+3.º Y además un fichero por cada Sección, otro de fes de vida o estado, y los cuadernos auxiliares y ficheros que juzgue conveniente el Encargado o prescriba la Dirección General.
+
+> Se sustituye la expresión "fe de vida, soltería o viudez" por la expresión "fe de vida o estado" por el art. 3 del Real Decreto 1917/1986, de 29 de agosto . [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861)
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 99.**
+
+Los Libros de Inscripciones del Registro Central serán:
+
+1.º Los libros formados por Secciones, con los duplicados de las inscripciones consulares.
+
+2.º Los ordinarios destinados a las demás inscripciones para las que es competente.
+
+3.º El Libro Especial de Matrimonios Secretos.
+
+**Art. 100.**
+
+Los libros, objetos y documentos estarán en condiciones de seguridad, bajo la custodia del Encargado, que dará cuenta a la superioridad del especial peligro de incendio, inundación o cualquier otro que no pueda prevenir con sus medios.
+
+Los legajos no remitidos al Archivo Provincial se custodiarán, a ser posible, en distinta habitación que los libros de inscripciones.
+
+**Art. 101.**
+
+Las diligencias judiciales que exijan el examen directo de los libros se practicarán en la oficina del Registro.
+
+Por mandato judicial, se hará desglose temporal de los demás documentos, que se entregarán contra recibo.
+
+**Art. 102.**
+
+Los Registros Municipales remitirán cada año al Archivo Provincial, en el mes señalado por el Encargado de éste:
+
+1.º Los legajos correspondientes a las inscripciones, una vez transcurridos cinco años de éstas.
+
+2.º Los Libros de Inscripciones si han transcurrido, a partir de la inscripción principal, cincuenta años en el de defunciones y ciento veinticinco en los demás.
+
+En iguales condiciones remitirá el Registro Central al Archivo de Madrid los legajos de inscripciones en libros ordinarios, estos mismos libros y los de inscripciones duplicadas.
+
+El Encargado del Archivo velará por el cumplimiento del servicio.
+
+**Art. 103.**
+
+El Encargado del Registro Municipal, designado por la Dirección General, lo será también del Archivo Provincial, incluso a efectos de asientos y certificaciones.
+
+El Archivo se instalará en un edificio distinto al del Registro Civil. La ordenación se hará por partidos judiciales, comarcas, términos municipales, Registros, clases de libro o legajo y, finalmente, dentro de cada clase, por orden cronológico.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 104.**
+
+Los Libros de Inscripciones y el de Personal y Oficina se conservarán siempre.
+
+Serán vendidos e inutilizados en forma que se evite la publicidad de su contenido; los legajos y Libros Diarios de fecha superior a cincuenta años; las fichas de defunciones y de fes de vida o estado de más de cien; las de matrimonio de más de ciento cincuenta, y las demás de fecha superior a doscientos.
+
+> Se sustituye la expresión "fe de vida, soltería o viudez" por la expresión "fe de vida o estado" por el art. 3 del Real Decreto 1917/1986, de 29 de agosto . [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861)
+
+##### Sección segunda. De los libros en especial
+
+**Art. 105.**
+
+Los libros estarán formados por hojas fijas o por hojas móviles, foliadas y selladas y en las que se expresará la Sección y tomo del Registro. Se encabezarán con diligencia de apertura, en la que se indicará el Registro, la Sección o clase de libro, el número correlativo que le corresponde entre los de su Sección o clase, y el de páginas destinadas a asientos.
+
+Extendida la inscripción principal en el último folio registral útil, se pondrá diligencia de cierre expresiva del motivo de clausura, número total de inscripciones principales y el de páginas utilizadas.
+
+Las diligencias de apertura y cierre se autorizarán por el Encargado y Secretario, en su caso.
+
+El carácter especial del libro que, siempre por Secciones separadas, se abra por causa de corrección, reconstitución o rectificación, constará en las diligencias de apertura y cierre.
+
+El Ministerio de Justicia podrá establecer que los libros se formen por encuadernación posterior de las declaraciones, formuladas en impreso oficial, que abran folio registral. En este caso, las declaraciones, numeradas y selladas, se conservarán por orden cronológico y se encuadernarán cuando el tomo abarque trescientos folios, incorporándose al libro las oportunas diligencias de apertura y cierre, así como los índices.
+
+El Ministerio de Justicia podrá igualmente decidir, sin perjuicio de la conservación de los libros, la informatización de los Registros y la expedición de certificaciones por ordenador.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 166, de 12 de julio de 1969. [Ref. BOE-A-1969-868](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-868).
+
+**Art. 106.**
+
+No habiendo disponible libros editados oficialmente, el Encargado, sin perjuicio de la responsabilidad en que pudiere haber incurrido, habilitará otros, formados como aquellos o conforme a los modelos establecidos.
+
+El Encargado numerará las páginas destinadas a asientos y estampará el sello de su oficina en cada hoja, debiendo, además, rubricarlas en su parte superior. En la diligencia de apertura se hará mención de estos extremos.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 107.**
+
+Los Libros de Inscripciones tendrán un índice de folios registrales, ordenado por apellidos de los inscritos, y los de Matrimonios, por apellidos de ambos cónyuges, y en él se expresará también el nombre propio y la página.
+
+El índice de la Sección Cuarta se llevará por tutelados o titulares del patrimonio sujeto a la representación, antes de producirse ésta.
+
+Las inscripciones principales practicadas en tomo distinto de aquel al que corresponderían de haberse extendido en el tiempo ordenado se reflejarán también en el índice de este último, con indicación de tomo y página.
+
+Consumidas las hojas relativas a una letra, se indicará en la última línea el lugar en que continúa el índice; en general, se harán las indicaciones para facilitar la busca y evitar erorres, permitiéndose adiciones e interlineados.
+
+##### Sección tercera. De los libros auxiliares
+
+**Art. 108.**
+
+En el Libro Diario se consignará:
+
+1.º La fecha de entrada de todo documento, con indicación de procedencia y legajo en que se archiva. Se exceptúan los antecedentes de inscripciones de nacimiento, matrimonio y defunción practicadas en tiempo oportuno y, salvo petición del presentante, los relativos a la expedición de fes de vida o estado, entregados a mano.
+
+2.º Las declaraciones que no provoquen inmediatamente la inscripción a que van destinadas, aunque de ellas se levante acta; se hará referencia al contenido y declarante, que firmará el asiento, si no lo ha hecho en acta o documento que quede en el Registro.
+
+3.º La fecha, tomo y página de las inscripciones y anotaciones marginales, expresando los nombres y apellidos del inscrito.
+
+4.º La salida de cualquier documento, con expresión del asunto, pero no la entrega a mano de certificaciones.
+
+> Se sustituye la expresión "fe de vida, soltería o viudez" por la expresión "fe de vida o estado" por el art. 3 del Real Decreto 1917/1986, de 29 de agosto . [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861)
+
+**Art. 109.**
+
+En el Libro Diario se abrirá un asiento para cada asunto bajo el número de orden correlativo, y en él se expresarán, sin claros intermedios, las entradas y salidas que ocurran con relación al mismo.
+
+A este efecto, se dedicará, a cada asiento el espacio necesario, y cuando se agote, se abrirá otro suplementario con recíprocas referencias.
+
+Los asientos no requieren firmas ni sellos. Las adiciones, apostillas, interlineados, raspaduras, tachados o enmiendas se salvarán, en la primera línea útil, dentro del asiento o en el suplementario, empleando paréntesis y haciendo referencias mutuas.
+
+El libro estará provisto de un índice alfabético.
+
+**Art. 110.**
+
+Podrá exigirse que en el recibo de títulos, o aparte, se certifique gratuitamente el asiento de presentación.
+
+El sello de entrada y salida, con la fecha correspondiente, será estampado en los documentos que produzcan asiento en el Libro Diario; no se dará salida a ninguna resolución o comunicación sin estamparlo en su minuta y en todos sus traslados.
+
+**Art. 111.**
+
+El Libro de Personal y Oficina tendrá las siguientes partes; primera, Inventario; segunda, Personal; tercera, Inspecciones, y cuarta, ámbito territorial y sus modificaciones.
+
+**Art. 112.**
+
+El inventario detallará los libros, legajos, el sello oficial y demás objetos archivados.
+
+Se pondrá diligencia inmediata de las entradas y salidas, indicando la procedencia o destino; de las salidas se exigirá recibo.
+
+En caso de destrucción se pondrá diligencia de su alcance en cada tomo y, en su día, el de la cancelación por traslado o reconstitución.
+
+En las diligencias de toma de posesión, sustitución o reincorporación, el entrante expresará su conformidad con el inventario o las faltas que notare. En la propia diligencia o en otra complementaria explicará el sustituido, que también firmará, las faltas advertidas.
+
+**Art. 113.**
+
+En la parte de personal se dedicarán folios separados a cada cargo de la plantilla para expresar por diligencia:
+
+1.º La fecha de posesión, con la firma y rúbrica del funcionario o empleado.
+
+2.º En los folios de Encargado y Secretario, el cuadro respectivo de sustituciones y las que ocurran, incluso por incompatibilidad, expresando causa y duración.
+
+3.º Fecha del cese.
+
+4.º Las resoluciones declaratorias de que se han realizado actuaciones por quien no estaba legítimamente encargado.
+
+Sólo se reflejarán los cambios de Juez encargado en el libro del Registro que está directamente a su cargo.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 114.**
+
+La diligencia de inspección expresará el carácter, hora y fecha, inspector y entrega del duplicado del acta.
+
+La de visita del Encargado a Registro en que actúa Juez de Paz contendrá análogas circunstancias.
+
+**Art. 115.**
+
+En la parte de «Ámbito Territorial» se consignará por diligencia:
+
+1.º El del Registro, y en el de la sede del Juez Encargado, términos a su cargo.
+
+2.º Las agregaciones o segregaciones.
+
+3.º La procedencia del territorio, según la demarcación anterior a la creación o modificación y destino del segregado. Se expresarán los Registros afectados, con precisión de los que conservan el archivo, fecha de entrada en vigor de las modificaciones y disposiciones que las ordenen.
+
+4.º Tiempo que haya dejado de funcionar el Registro por concurrir circunstancias excepcionales.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+##### Sección cuarta. De los legajos y ficheros
+
+**Art. 116.**
+
+Los legajos se formarán por orden cronológico, dando un número correlativo a cada documento, cualquiera que sea el de sus folios.
+
+En los relativos a asientos se incorporarán todos los antecedentes, tras de hacer, en cada documento, indicación rubricada por el Secretario o Encargado, del tomo y página: aunque el expediente esté archivado en el Registro, el testimonio de la resolución que causa un asiento se incorporará al legajo correspondiente.
+
+Las actas de nacionalidad, vecindad u otras que no producen asiento en el mismo Registro y cualquier otro documento no exceptuado, se llevarán al legajo especial de «Otros documentos».
+
+Los legajos de expedientes, de otros documentos y de abortos tendrán un índice de los archivados.
+
+Podrá obtener el desglose de un documento público, su presentante, terminadas las actuaciones correspondientes quedando en el legajo el recibo y testimonio bastante librado de oficio.
+
+> Redactado el último párrafo conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 117.**
+
+Los ficheros se ordenarán alfabéticamente por apellidos de los inscritos, y el de Matrimonios por los de ambos cónyuges, cada ficha tendrá las indicaciones del índice alfabético, fecha del hecho y referencia el tomo.
+
+Las fichas de los duplicados del Registro Central indicarán, además, el Consulado.
+
+##### Sección quinta. De los libros especiales del Registro Central
+
+**Art. 118.**
+
+Los Registros Consulares y el Central se remitirán en la primera decena de cada mes, los duplicados del mes anterior y los partes literales de los asientos marginales extendidos en este tiempo, acusando recibo de las recepciones.
+
+Cualesquiera que fueren los defectos de los asientos, los duplicados serán incorporados y los marginales transcritos siempre que no haya dudas fundadas de su coincidencia con los del Registro remitente.
+
+Los duplicados podrán ser extendidos por medio de fotografía o procedimiento análogo, debiendo cuidar el remitente que la impresión sea indeleble y de letra claramente legible, y que su tamaño coincida con el de los folios de los libros de inscripciones. En todo caso, las firmas exigidas en las inscripciones deberán ser originales en los duplicados y, de comprender éstos más de un folio, estampará en cada uno de ellos su firma el Encargado.
+
+> Se modifica por el art. 1 del Real Decreto 510/1985, de 6 de marzo. [Ref. BOE-A-1985-6285](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-6285).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 119.**
+
+La incorporación de los duplicados a su Sección se hará por diligencia, asignándoles un numero correlativo. Reunido el número de hojas convenientes y numeradas las páginas, serán encuadernadas con sus hojas complementarias e índices.
+
+Cada tomo tendrá diligencia de apertura, sin expresión del número de páginas, y cierre, con esta expresión, autorizadas ambas por el Encargado; previamente a la de cierre, sellará y rubricará las hojas complementarias en el centro de su parte superior, numerando tambien sus páginas, y así constará en la diligencia.
+
+**Art. 120.**
+
+Los duplicados de una inscripción se anulan en aquello en que se contradicen.
+
+**Art. 121.**
+
+El Libro Especial de Matrimonios Secretos se formará como el ordinario y se llevará con el sigilo necesario, correspondiéndole dos clases de legajos: el de antecedentes de inscripciones, que se llevará con precauciones iguales, y el de los relativos a publicaciones.
+
+#### CAPÍTULO IV — De la calificación
+
+**Art. 122.**
+
+El Encargado del Registro no puede consultar cuestiones sujetas a calificación.
+
+Los Jueces de Paz suspenderán, por el tiempo estrictamente necesario, la extensión o denegación del asiento, cuando fuere obligatoria u oportuna la consulta al Encargado.
+
+Formulada consulta, quedan en suspenso los plazos establecidos.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 123.**
+
+No procede la inscripción incompatible con otra anterior sin antes remover legalmente el obstáculo.
+
+**Art. 124.**
+
+El acuerdo denegatorio o suspensivo se formulará con indicación ordenada y precisa de todos los defectos, formas de subsanarlos, si es posible, y cita concreta de las disposiciones aplicables.
+
+Denegada o suspendida una inscripción, quien la promoviera en virtud de declaración tiene derecho a que se levante acta de ésta y del acuerdo recaído.
+
+La denegación o suspensión se notificará a los que promuevan el asiento y, en su caso, al Ministerio fiscal. Esto se entiende sin perjuicio de la comunicación que proceda a la Autoridad o funcionario que expidió el documento, quien, a su vez, en caso de denegación o suspensión, lo notificará a las partes del procedimiento o acto o promotores del documento, dentro de los diez días hábiles siguientes a su recepción.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 125.**
+
+Sin perjuicio de los derechos de los interesados, tiene personalidad para entablar recurso el Notario autorizante del título y, en todo caso, el Ministerio Fiscal.
+
+**Art. 126.**
+
+Aunque se practique la inscripción, cabe el recurso si sus términos no concuerdan con los títulos.
+
+En el mismo folio se inscribirá marginalmente la inscripción del recurso con indicación de su alcance y advirtiendo que la practicada pende de la resolución definitiva, la que se inscribirá, haciendo constar la confirmación o cancelación de la inscripción o los extremos que varíe.
+
+**Art. 127.**
+
+El plazo para el recurso se cuenta desde la inscripción, y, no practicándose ésta, desde la notificación.
+
+Al escrito de interposición se acompañarán los documentos calificados y, en su caso, el acta de Ia declaración y acuerdo recaído.
+
+**Art. 128.**
+
+Antes de la inscripción, aun acordada en recurso gubernativo, es posible señalar defectos que la impidan, no observados en calificaciones anteriores, sin perjuicio de la responsabilidad en que incurra el Encargado que, por negligencia inexcusable, no los hubiere advertido.
+
+**Art. 129.**
+
+El procedimiento judicial entablado durante el plazo para recurrir gubernativamente no impide la inscripción y los recursos gubernativos.
+
+Practicado el asiento, se inscribirá al margen aquel procedimiento con indicación de su alcance y advirtiendo que la inscripción pende de la sentencia, la que se inscribirá haciendo constar la confirmación o cancelación de la inscripción o los extremos que varíe.
+
+Denegado aquél por los órganos del Registro, quedan en suspenso, en virtud del procedimiento entablado oportunamente, los plazos para practicar el ordenado en la sentencia.
+
+#### CAPÍTULO V — De la extensión de los asientos
+
+**Art. 130.**
+
+Las inscripciones de nacimiento, matrimonio, defunción y la primera de cada tutela o representación legal, son principales; las demás, marginales.
+
+**Art. 131.**
+
+Las inscripciones principales o que abren folio registral se practicarán sucesivamente, en los espacios a ellas destinados. Por folio registral se entiende la parte del libro dedicada a una inscripción principal y sus asientos marginales, cualquiera que sea el número de sus páginas.
+
+La inscripción principal que no quepa en el espacio correspondiente continuará en el dedicado a asientos marginales, con las oportunas referencias; la línea siguiente a la última escrita de la continuación y la parte de ésta línea que hubiera quedado sin escribir serán cubiertas con una raya de tinta; quienes deban firmar la inscripción principal firmarán también la continuación.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 132.**
+
+Los asientos marginales empezarán en la cabeza del espacio correspondiente, y, sin dejar huecos intermedios, seguirán por orden cronológico; continuarán en las hojas complementarias del tomo, tras hacer constar, con caracteres destacados, la página y columna asignada en que continúan, donde se hará referencia, a su vez, al folio registral.
+
+**Art. 133.**
+
+Las páginas indebidamente en blanco se inutilizarán en cuanto se observe la falta con dos rayas de tinta cruzadas en forma de aspa, indicándose por nota la causa.
+
+De igual modo se inutilizarán los espacios en blanco existentes entre asientos marginales.
+
+Las líneas o partes de líneas que no fueran escritas por entero se inutilizarán con una raya de tinta.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 134.**
+
+Se interrumpirá el asiento en cuanto el Encargado observe error en el libro o folio en que aquel se extienda.
+
+Interrumpido por cualquier causa un asiento, se cubrirá con una raya de tinta la línea o parte de línea por escribir y la siguiente a la última total o parcialmente escrita.
+
+Si no fuera posible practicar el nuevo asiento o se requiriera expediente previo, el interrumpido se cancelará; sin perjuicio de que, cuando se practique el procedente, se hagan mutuas referencias.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 135.**
+
+Los asientos se escribirán en letra clara y con tinta indeleble; en los marginales se utilizarán caracteres diminutos y sólo contendrán las expresiones indispensables.
+
+Las cantidades se consignarán en guarismos, salvo las que expresan la hora y fecha del hecho y de la inscripción.
+
+En los asientos se expresarán los títulos nobiliarios o dignidades cuya posesión legal conste o se justifique debidamente en el acto.
+
+**Art. 136.**
+
+Se numerarán correlativamente las inscripciones y anotaciones principales extendidas en los libros no editados oficialmente y siempre contendrán las menciones de identidad del inscrito.
+
+Los asientos marginales se señalarán en todo caso por letras, según orden alfabético, y en ellos se designará al sujeto por su nombre y apellidos.
+
+**Art. 137.**
+
+Las menciones de identidad se ajustarán a las siguientes reglas:
+
+1.ª Junto al nombre y apellidos constarán, cuando fueren distintos, los usados habitualmente.
+
+2.ª La mujer casada se designará con sus propios apellidos, aunque usare el de su marido. La extranjera que, con arreglo a su ley personal, ostente el apellido de su marido, será designada con éste, pero se hará referencia, además, al apellido de nacimiento.
+
+3.ª La edad se indicará si en la inscripción no consta el día de su nacimiento, y se contará por años cumplidos.
+
+4.ª La naturaleza hará referencia al término municipal de nacimiento y, no siendo éste cabeza de partido, a la provincia, y si es país extranjero, a la nación.
+
+5.ª El domicilio se precisará como la naturaleza, con indicación de calle y número o entidad de población, cuando no sea capital del municipio.
+
+Cuando la inscripción se practique en virtud de declaración, el Encargado procurará comprobar los datos con los de su propio Registro o mediante la exhibición de certificación de nacimiento, Libro de Familia o cualquier otro documento oficial.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+**Art. 138.**
+
+Las horas se expresan contando el día desde la cero a las veinticuatro.
+
+El lugar en que los hechos acaecen se indicará en las inscripciones de nacimiento, matrimonio y defunción con los datos exigidos para expresar el domicilio, agregando en sus caso, el carácter del establecimiento o advocación del templo; no se expresarán las circunstancias en el aspecto en que sean deshonrosas. En las demás inscripciones basta, para expresar el lugar, su referencia en la mención del funcionario autorizante del título u otra genérica.
+
+**Art. 139.**
+
+La declaración en virtud de la cual se practica un asiento se expresará indicando el nombre apellidos, domicilio y carácter del declarante.
+
+El asiento firmado por testigos contendrá su nombre, apellidos, domicilio y calidad de su intervención.
+
+**Art. 140.**
+
+La fecha y funcionario autorizante del documento auténtico que deben constar en el asiento son los del original o matriz.
+
+El funcionario autorizante se designa por su nombre y apellidos, carácter y lugar en que ejerce el cargo.
+
+Las autoridades se designan sólo por su carácter, y si no son de ámbito nacional, por el lugar.
+
+La inscripción en virtud de testamento expresará, en su caso, además de su fecha, la de la protocolización y Notario que la autoriza.
+
+**Art. 141.**
+
+Los funcionarios que autoricen las inscripciones se designan por su nombre, apellidos y carácter.
+
+**Art. 142.**
+
+No se empleará en los asientos y certificaciones adiciones, apostillas, interlineados, raspaduras, testados enmiendas. Se pondrá, sin embargo, una raya sobre las palabras equivocadas o innecesarias de modo que no impida su lectura.
+
+Estas tachaduras y las omisiones se salvarán al final, antes de la fecha y firma, por la persona que extienda el asiento o certificación; en tal caso, se cubrirá con una raya de tinta el encasillado de la data y se pondrá data a mano; tras las tachaduras u omisiones, con números correlativos entre paréntesis, se harán las oportunas llamadas al lugar en que se salvan.
+
+Los encasillados, cuando sean innecesarias, serán cubiertos con una raya de tinta, sin necesidad de salvarlos.
+
+**Art. 143.**
+
+No se cerrará un asiento sin que se entere de su contenido quien debe suscribirlo; si no puede leer, le dará lectura el Encargado.
+
+**Art. 144.**
+
+En los asientos y diligencias de los libros del Registro no se pondrá el sello de la oficina.
+
+#### CAPÍTULO VI — De las anotaciones
+
+**Art. 145.**
+
+En la anotación constará el hecho de que informa, y de modo destacado, tanto en el asiento como en la certificación, el carácter de tal, su valor simplemente informativo y que en ningún caso constituye la prueba que proporciona la inscripción.
+
+**Art. 146.**
+
+Anotado un hecho, su inscripción podrá practicarse marginalmente por simple referencia al contenido de la anotación.
+
+Inscrito el hecho, se cancelará su anotación con referencia a la inscripción.
+
+**Art. 147.**
+
+Las anotaciones pueden ser rectificadas y canceladas en virtud de expediente gubernativo en que se acredite la inexactitud o por título suficiente para rectificar o cancelar la correspondiente inscripción.
+
+**Art. 148.**
+
+Las personas que han pedido la anotación están obligadas a pedir su cancelación cuando proceda.
+
+**Art. 149.**
+
+Se aplicarán a las anotaciones supletoriamente las reglas de las inscripciones.
+
+**Art. 150.**
+
+La anotación de procedimiento referirá la pretensión deducida en cuanto afecta al contenido del Registro. Se extenderá al margen del folio afectado, pero si en el procedimiento se pretende una inscripción principal, la anotación abrirá folio registral.
+
+El título para practicarla es el mandamiento judicial, librado de oficio o a instancia de parte, en virtud de un principio de prueba bastante.
+
+La anotación caducará y será cancelada de oficio a los cuatro años de su fecha. Son posibles prórrogas sucesivas por igual plazo, obtenidas como la anotación, y se harán constar, como esta, en el Registro.
+
+También será cancelada si se justifica la extinción del procedimiento.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 151.**
+
+El hecho cuya inscripción no puede practicarse por no resultar, en alguno de sus requisitos, legalmente acreditado puede anotarse en cuanto a los extremos debidamente justificados. Pero no procede la anotación si resulta evidente su ineficacia absoluta e insubsanable: la verificada será cancelada al acreditarse la ineficacia.
+
+**Art. 152.**
+
+Para anotar el estado civil según la Ley extranjera o la existencia o inexistencia de hecho o resolución que le afecte, es suficiente:
+
+1.º El título público correspondiente.
+
+2.º La certificación o parte oficial del Registro extranjero regular y auténtico.
+
+3.º Si el hecho o situación no puede acreditarse mediante este Registro, la declaración oficial extranjera.
+
+**Art. 153.**
+
+Son objeto de anotación las sentencias o resoluciones extranjeras sobre hechos inscribibles, aunque no puedan tener fuerza en España.
+
+**Art. 154.**
+
+Cabrá también la anotación:
+
+1.º En sustitución de Inscripción principal que no pueda practicarse inmediatamente a cuyo Registro sea imposible el acceso y al solo efecto de servir de soporte a asientos marginales; en la anotación se indicará este carácter especial, y puede extenderse en virtud de declaración del interesado: desaparecida la situación que la motivó, será cancelada y los asientos marginales, trasladados, en su caso.
+
+2.º De la resolución judicial española denegatoria de la ejecución de una sentencia anotable.
+
+3.º Del prohijamiento o acogimiento, en virtud de certificación de la Junta Provincial de Beneficencia.
+
+4.º De la desaparición de hecho en virtud de sentencia firme, expediente gubernativo o declaración de la autoridad judicial que instruya las diligencias seguidas por causa de siniestro o de violencia contra la vida, en que el desaparecido hubiera encontrado con riesgo inminente de muerte, o en virtud del auto por el que se constituye la defensa. En la anotación se indicará la fecha del siniestro o violencia y cuantas circunstancias puedan influir, en su día, en la declaración de fallecimiento. A falta de reglas especiales se aplican las de las inscripciones de declaración de ausencia y fallecimiento.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+#### CAPÍTULO VII — De las notas marginales
+
+**Art. 155.**
+
+Los hechos que, como el matrimonio posterior de los padres, afecten mediatamente a una persona constarán por nota marginal de referencia a la inscripción practicada.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 156.**
+
+Al margen de la inscripción de nacimiento de los sujetos a tutela o curatela, o titulares del patrimonio sometido a representación, se pondrá nota de referencia a la de tutela, curatela o representación.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 157.**
+
+Las anotaciones producen la nota o mención de referencia que provocarían las correspondientes inscripciones.
+
+**Art. 158.**
+
+La Dirección General podrá ordenar notas de referencia a asientos de expedición de determinadas certificaciones y de cumplimiento o advertencia de obligaciones impuestas a los Encargados.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 159.**
+
+El Encargado que inscriba un hecho que produce nota marginal la consignará inmediatamente o enviará al competente parte duplicado con las circunstancias necesarias. Puesta la nota, se devolverá un ejemplar indicando el cumplimiento; pasados treinta días sin haberse recibido, se reiterará su envío, y pasados otros treinta, se dará cuenta a la superioridad.
+
+Cuando en una población haya varios Registros y se ignore el competente, se hará la remisión al Encargado del Archivo Provincial para que promueva la nota.
+
+**Art. 160.**
+
+En las notas marginales constará:
+
+1.º Su carácter.
+
+2.º El asiento o hecho a que se refieren.
+
+3.º Y fecha y firma del funcionario o funcionarios autorizantes.
+
+La referencia a un asiento o folio registral indicará la página, tomo y Registro y titular o titulares por su nombre y apellidos; la referencia que no se practique en el folio en que no encuentra el asiento expresará, además, la fecha y lugar de hecho. La referencia a un hecho también expresará el nombre y apellidos de los sujetos.
+
+**Art. 161.**
+
+Los datos que proporciona el título que produce una inscripción serán suficientes para la referencia que debe hacerse en ella a otra, o a un hecho inscribible separadamente; pero el Encargado procurará comprobar los obtenidos en virtud de declaración con los de su propio Registro o mediante exhibición de certificación o documento oficial.
+
+Igualmente se tomarán los necesarios para enviar los partes a los Registros que deben extender notas relativas al hecho.
+
+**Art. 162.**
+
+Las referencias en nota o en el cuerpo de la inscripción serán agregadas, completadas o rectificadas en virtud de examen del propio Registro o de certificación o parte de la correspondiente inscripción y, en su caso, suprimidas, en virtud de expediente acreditativo de la inexactitud.
+
+Al expresar la modificación o supresión se indicará el título que la produce.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+#### CAPÍTULO VIII — De las cancelaciones
+
+**Art. 163.**
+
+La cancelación total o parcial de un asiento por ineficacia del acto, inexactitud del contenido u otra causa se practicará marginalmente en virtud de título adecuado con sujeción a las formalidades del asiento cancelado y con indicación especial de la causa y alcance de la cancelación.
+
+En su caso, será comprendida en la inscripción del hecho que la produce; en el folio en que procede la cancelación, si fuere distinto, se pondrá nota de referencia.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 164.**
+
+El asiento totalmente cancelado será cruzado con tinta de distinto color; si se cancela parcialmente, se subrayará la parte cancelada cerrándose entre paréntesis con llamada marginal al asiento cancelatorio.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado el párrafo tercero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+### TÍTULO V — De las Secciones del Registro
+
+#### CAPÍTULO PRIMERO — De la Sección de Nacimientos y general
+
+##### Sección primera. De la inscripción de nacimiento
+
+**Art. 165.**
+
+La inscripción en virtud de declaración formulada antes de que el feto viviera veinticuatro horas enteramente desprendido del seno materno se convalidará acreditando, en expediente, la supervivencia a dicho plazo.
+
+**Art. 166.**
+
+EI plazo de declaración será de treinta días cuando se acredite justa causa, que constará en la inscripción.
+
+La obligación de declarar afecta a los consanguíneos hasta el cuarto grado y a los afines hasta el segundo.
+
+> Se modifica el párrafo primero por el art. 2 del Real Decreto 1063/1991, de 5 de julio. [Ref. BOE-A-1991-17679](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-17679).
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 167.**
+
+En el parte de nacimiento, además del nombre, apellidos, carácter y número de colegiación de quien lo suscribe, constará con la precisión que la inscripción requiere la fecha, hora y lugar del alumbramiento, sexo del nacido y menciones de identidad de la madre, indicando si es conocida de ciencia, propia o acreditada, y en este supuesto, documentos oficiales examinados o menciones de identidad de persona que afirme los datos, la cual, con la madre, firmará el parte, salvo si esta no puede o se opone, circunstancia que también se hará contar.
+
+El parte o declaración de los profesionales y personal de establecimientos sanitarios que tengan obligación de guardar secreto no se referirá a la madre contra su voluntad.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 168.**
+
+El Encargado antes de inscribir, exigirá el parte adecuado. Y no obteniéndolo o siendo contradictorio a la información del declarante, comprobará el hecho por medio del Médico del Registro Civil o su sustituto, que ratificará o suplirá el parte exigido.
+
+El Médico del Registro Civil o sustituto más cercano que resida en población situada a más de dos kilómetros podrá excusar su asistencia, y la comprobación se diligenciará en acta separada en virtud de la información de dos personas capaces que hayan asistido al parto o tengan noticia cierta de él.
+
+En los Registros consulares, en defecto de parte adecuado del Médico de cabecera, se acudirá a la información supletoria a que se refiere el párrafo anterior.
+
+**Art. 169.**
+
+La inscripción, cuando se ignore el término municipal y fecha de nacimiento, sólo procede en virtud de expediente que, necesariamente, en defecto de otras pruebas, establecerá el día, mes y año del alumbramiento, de acuerdo con la edad aparente, según informe médico, y el término, por el primero conocido de estancia del nacido. Tratándose de acogidos en casas de expósitos, basta como prueba la información que proporcionará su Jefe, al que, en su día, será comunicada la inscripción, con indicación del tomo y página.
+
+En la resolución, tratándose de menores expósitos o abandonados, además de las circunstancias inscribibles, se mencionarán:
+
+1.º La hora, fecha y sitio del hallazgo y menciones de identidad de la persona que los haya recogido.
+
+2.º Señas particulares de conformación.
+
+3.º Relación de documentos, ropas y demás objetos encontrados.
+
+4.º Cuantas circunstancias sean útiles para la futura identificación.
+
+Con la resolución se archivarán los documentos referidos; los demás objetos, siendo de fácil conservación, serán marcados para, en todo tiempo, poder ser reconocidos, y los que no estén bajo custodia de la casa de expósitos, serán convenientemente depositados.
+
+No se expresará en los asientos ninguna indicación de la exposición o abandono.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 170.**
+
+En la inscripción de nacimiento constará especialmente:
+
+1.º La hora, fecha y lugar de nacimiento. En los partos múltiples, de no conocerse la hora exacta de cada uno, constará la prioridad entre ellos o que no ha podido determinarse.
+
+2.º Si el nacido es varón o mujer y el nombre impuesto
+
+3.º Los padres, cuando legalmente conste la filiación.
+
+4.º El número que se asigne en el legajo al parte o comprobación.
+
+5.º La hora de inscripción.
+
+> Se modifica el apartado 2º por el art. 1 del Real Decreto 762/1993, de 21 de mayo. [Ref. BOE-A-1993-16055](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-16055).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+##### Sección segunda. De las declaraciones de abortos
+
+**Art. 171.**
+
+Se entiende por criaturas abortivas las que no reúnen las circunstancias exigidas para que un feto se repute nacido, a los efectos civiles.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 172.**
+
+La competencia del Registro se determina, si la criatura nace muerta, como en los nacimientos y, en otro caso, como en las defunciones.
+
+**Art. 173.**
+
+La declaración y parte expresarán al aborto o, en su caso, el alumbramiento y muerte; contendrán, en cuanto sea posible, las circunstancias exigidas para la inscripción de nacimiento y defunción y, particularmente, el tiempo aproximado de vida fetal y si la muerte de la criatura se produjo antes, al tiempo o después del alumbramiento, indicando en este último caso, con toda exactitud, las horas del alumbramiento y muerte.
+
+**Art. 174.**
+
+El Encargado, con los requisitos de inscripción, pero en folio suelto, levantará acta de la declaración con referencia precisa al parte o a la información supletoria. Inmediatamente incorporará al legajo de abortos con el acta, los documentos relativos al declarado, cuya entrada debe constar, con la propia declaración, en el Libro Diario. Hecha la incorporación, expedirá la licencia de sepultura.
+
+##### Sección tercera. De las inscripciones marginales de la Sección primera
+
+**Art. 175.**
+
+En las inscripciones de filiación constarán las menciones de identidad del padre o madre, consignándose en la adopción, si es plena o simple.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 176.**
+
+La emancipación por concesión de quienes ejercen la patria potestad se inscribe en virtud de escritura o de comparecencia ante el Encargado del Registro.
+
+La emancipación por concesión judicial y el beneficio de la mayor edad se inscriben en virtud del testimonio correspondiente.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 177.**
+
+La inscripción de la incapacitación expresará la extensión y límites de ésta, así como si el incapacitado queda sujeto a tutela o curatela, según la resolución judicial.
+
+En la inscripción de la declaración de prodigalidad se expresarán los actos que el pródigo no puede realizar sin consentimiento del curador.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 178.**
+
+Es inscribible la providencia por la que se tiene por solicitada la declaración del estado de suspensión de pagos y el auto declarando este estado.
+
+La inscripción de la declaración precisará si la insolvencia es provisional o definitiva, y los límites que el Juez fije a la capacidad del suspenso.
+
+También es inscribible el hecho de haberse aprobado judicialmente el convenio en la suspensión de pagos y la rehabilitación del concursado o quebrado, expresando, respecto de éste, si es general o limitada.
+
+**Art. 179.**
+
+En la inscripción de declaración de fallecimiento se expresará la fecha a partir de la cual se entiende ocurrida la muerte, salvo prueba en contrario.
+
+Son inscribibles las resoluciones judiciales que dejan sin efecto las declaraciones de ausencia o fallecimiento.
+
+Cualquier funcionario o particular que conozca la existencia de persona declarada ausente o fallecida o cuya desaparición esté anotada, lo comunicará al Ministerio Fiscal o al Encargado del Registro.
+
+**Art. 180.**
+
+En la inscripción de hecho que afecte a la patria potestad se consignará:
+
+1.º El hecho, con precisión de las circunstancias que influyan en la patria potestad.
+
+2.º Si se produce adquisición plena o limitada, extinción, recuperación, restricción, prórroga o rehabilitación de la patria potestad, si el menor queda sujeto a tutela, facultades que pasan al otro progenitor y si hay administrador.
+
+Cuando la alteración de la patria potestad es consecuencia de un hecho inscribible separadamente, se extenderá al margen de la inscripción de nacimiento, simplemente, nota de referencia a la inscripción del hecho, en la que se consignarán las circunstancias antes expresadas.
+
+No se consignará nota de referencia a la inscripción de defunción del padre o madre.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+##### Sección cuarta. De la filiación
+
+###### Subsección primera. De la filiación materna
+
+**Art. 181.**
+
+El padre que promueve dentro del plazo la inscripción de nacimiento, en virtud de declaración, puede expresar, a efectos de hacer constar en el Registro la filiación materna, la persona con quien hubiere tenido el hijo, siempre que la identidad de la madre resulte del parte o comprobación exigidos para la inscripción.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 182.**
+
+Las notificaciones .en materia de dilación se harán al destinatario en persona y por el Encargado, directamente o cometiendo su cumplimiento al del domicilio, y guardándose, en cuanto sean compatibles con la conveniente reserva, las reglas de las notificaciones judiciales.
+
+A la que figura como madre se lo advertirá expresamente, al ser notificada, que transcurridos quince días sin que formalice el desconocimiento ante el Encargado, la mención de filiación sólo podrá cancelarse en virtud de sentencia. Si la notificada no pudiere firmar, sin perjuicio de que lo haga a su ruego un testigo, pondrá en la notificación las huellas de los dedos pulgar, índice y medio de la mano derecha.
+
+La notificación del asiento de filiación materna se hará constar por inscripción marginal, con indicación de su carácter personal, hora, fecha y lugar de la notificación y destinatario.
+
+La del asiento de desconocimiento producirá nota marginal con las mismas indicaciones.
+
+###### Subsección segunda. De la filiación paterna matrimonial
+
+> Se modifica por el art. 2 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 183.**
+
+Cuando, por lo que resulta de la declaración o título de la inscripción, se presume que el hijo lo es del marido, conforme a lo dispuesto en el Código Civil, en la inscripción de nacimiento, y en su defecto, por nota al margen, se hará referencia a la inscripción de matrimonio de los padres, y si no fueren conocidos todos los datos de la referencia, constará la fecha del matrimonio, y cuando menos, que éste tuvo lugar.
+
+En este supuesto constarán en la inscripción las menciones de identidad del padre.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 184.**
+
+Nacido el hijo dentro de los ciento ochenta días siguientes a la celebración del matrimonio, se inscribirá la paternidad del marido, salvo que conste la declaración auténtica en contrario de este a que se refiere el artículo 117 del Código Civil.
+
+Inscrita la paternidad, podrá ser cancelada por expediente gubernativo si la declaración auténtica del marido, para desvirtuar la presunción, se ha formulado en el tiempo y condiciones exigidos por el Código Civil.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+###### Subsección tercera. De la inscripción de la filiación no matrimonial
+
+> Se modifica por el art. 2 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 185.**
+
+Sólo se podrá inscribir, en virtud de declaración formulada dentro del plazo, la filiación no matrimonial de hijo de casada, así como el reconocimiento de la filiación paterna de progenitor distinto del marido si se comprueba antes de la inscripción que no rige la presunción legal de paternidad de éste.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 186.**
+
+Son documentos públicos aptos para el reconocimiento la escritura pública, el acta civil de la celebración del matrimonio de los padres, el expediente de inscripción de nacimiento fuera de plazo, las capitulaciones matrimoniales y el acto de conciliación.
+
+La declaración de reconocimiento ante el Encargado cuando no pueda inscribirse inmediatamente, se diligenciará con las circunstancias del asiento, las de identidad del hijo y la firma del declarante, en acta por duplicado, uno de cuyos ejemplares se remitirá primero, en su caso, con la solicitud correspondiente, a la aprobación judicial, y después, con el testimonio de la aprobación, tras de diligenciar ésta en el duplicado, al Registro competente para, en su virtud, practicar la inscripción.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986.[Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 187.**
+
+No se puede Inscribir el reconocimiento de un hijo mayor de edad sin su consentimiento expreso o tácito. La existencia de este último podrá comprobarse en expediente gubernativo.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 188.**
+
+El reconocimiento de un menor o incapaz es inscribible, sin necesidad del consentimiento del representante legal ni de la aprobación judicial, cuando conste en testamento y se acredite la defunción del autor del reconocimiento. También es inscribible, sin necesidad de dicho consentimiento o aprobación, el reconocimiento de menores o incapaces otorgado en otro documento público dentro del plazo establecido para practicar la inscripción de nacimiento; en este caso la inscripción de paternidad podrá ser suspendida o confirmada de acuerdo con lo establecido en el Código Civil.
+
+Los reconocimientos inscritos conforme al párrafo anterior se notificarán al otro progenitor y, en su caso, al representante legal del nacido, y si este representante no fuera conocido, al Ministerio Fiscal. De haber fallecido el interesado, serán notificados sus herederos. Tales notificaciones se practicarán con arreglo a lo dispuesto por los párrafos primero y tercero del artículo 182.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 189.**
+
+Cualquiera que sea el tiempo transcurrido y aunque hayan muerto padre e hijo, el expediente para inscribir la filiación no matrimonial puede iniciarse a petición de quien tenga interés legítimo o de su representante legal.
+
+La incoación será notificada en persona a los interesados, quienes en todo caso podrán constituirse en parte y formular oposición.
+
+Para que la oposición de los constituidos en parte o del Ministerio Fiscal se entienda debidamente formulada a efectos de impedir la aprobación del expediente, debe presentarse en tiempo oportuno y expresar las razones por las que se estima que faltan los concretos fundamentos de fondo que en la solicitud se invoquen.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 190.**
+
+Es inscribible la sentencia penal firme que, en su fallo, determine una filiación.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+###### Subsección cuarta. De la filiación desconocida
+
+> Se modifica por el art. 2 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 191.**
+
+No constando su filiación, el Encargado consignará en la inscripción de nacimiento o en otra marginal, en lugar de los nombres de padre o madre, otros de uso corriente, con la declaración de que se consignan a efectos de identificar a la persona. Tales nombres serán los usados en las menciones de identidad.
+
+A petición del interesado mayor de edad o de quien tenga la representación legal del menor, se suprimirán en el registro los nombres de la madre o padre que se hubieran inscrito a los efectos identificadores. Del mismo modo, quien tenga la representación legal del menor de edad podrá decidir en cualquier momento que no lleguen a consignarse tales nombres propios de la madre o padre a los efectos de identificar a la persona.
+
+Las normas relativas a la imposición y modificación de apellidos que no corresponden por filiación, contenidas en la sección 5., capítulo I, del presente Título, regirán también, con las variaciones pertinentes, respecto de la imposición y modificación de los nombres de padre o madre a efectos identificadores.
+
+> Se modifica el párrafo segundo por el art. único.2 del Real Decreto 820/2005, de 8 de julio. [Ref. BOE-A-2005-12704](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-12704).
+
+> Se modifica por el art. 2 y 3 del Real Decreto 762/1993, de 21 de mayo. [Ref. BOE-A-1993-16055](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-16055).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+##### Sección quinta. Del nombre y apellidos
+
+###### Subsección primera. Del nombre propio
+
+**Art. 192.**
+
+No se podrán imponer más de dos nombres simples o de uno compuesto. Cuando se impongan dos nombres simples, éstos se unirán por un guión y ambos se escribirán con mayúscula inicial.
+
+Se considera que perjudican objetivamente a la persona los nombres propios que, por sí o en combinación con los apellidos, resultan contrarios al decoro.
+
+La sustitución del nombre propio por su equivalente onomástico en cualquiera de las lenguas españolas requerirá, si no fuese notorio, que se acredite por los medios oportunos esta equivalencia y la grafía correcta del nombre solicitado.
+
+> Se modifica por el art. único del Real Decreto 193/2000, de 11 de febrero. [Ref. BOE-A-2000-3842](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3842).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 193.**
+
+El Encargado hará constar en la inscripción de nacimiento el nombre impuesto por los padres o guardadores, según lo manifestado por el declarante.
+
+No expresándose nombre o siendo éste inadmisible, el Encargado requerirá a las personas mencionadas en el párrafo anterior para que den nombre al nacido, con apercibimiento de que, pasados tres días sin haberlo hecho, se procederá a la inscripción de nacimiento imponiéndose el nombre por el Encargado.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+###### Subsección segunda. De los apellidos en general
+
+**Art. 194.**
+
+Si la filiación está determinada por ambas líneas y a salvo la opción prevista en el artículo 109 del Código Civil, primer apellido de un español es el primero del padre y segundo apellido el primero de los personales de la madre, aunque sea extranjera.
+
+> Se modifica por el art. único del Real Decreto 193/2000, de 11 de febrero. [Ref. BOE-A-2000-3842](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3842).
+
+**Art. 195.**
+
+A petición del propio interesado, ante el Encargado, se antepondrá la preposición «de» al apellido paterno que fuere usualmente nombre propio o empezare por tal.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 196.**
+
+No puede imponerse de oficio como apellido el de Expósito u otro indicador de origen desconocido, ni nombre propio.
+
+Establecida la filiación paterna, materna o en ambas líneas, perderán su vigencia los apellidos impuestos por no ser aquélla conocida.
+
+**Art. 197.**
+
+En las inscripciones de reconocimiento, adopción, adquisición de nacionalidad española, resoluciones que afecten a estos hechos o cualquier otro que determine cambio de apellidos, se expresará con claridad el orden resultante.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 198.**
+
+La inversión de apellidos de los mayores de edad podrá formalizarse mediante simple declaración ante el encargado del Registro Civil del domicilio y no surte efecto mientras no se inscriba.
+
+El mismo régimen rige para la regularización ortográfica de los apellidos para adecuarlos a la gramática y fonética de la lengua española correspondiente. Cuando no fuere un hecho notorio, deberá acreditarse por los medios oportunos que el apellido pertenece a una lengua vernácula y su grafía exacta en este idioma.
+
+> Se modifica por el art. único del Real Decreto 193/2000, de 11 de febrero. [Ref. BOE-A-2000-3842](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3842).
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 199.**
+
+El que adquiere la nacionalidad española conservará los apellidos que ostente en forma distinta de la legal siempre que así lo declare en el acto de adquirirla, o dentro de los dos meses siguientes a la adquisición o a la mayoría de edad.
+
+La declaración se ajustará a las reglas del artículo anterior.
+
+**Art. 200.**
+
+En la inscripción de nacimiento constará la forma masculina o femenina del apellido de origen extranjero cuando en el país de procedencia se admite la variante, acreditándose ésta, si no es conocida por el Encargado, en virtud de testimonio del Cónsul en España, del Cónsul de España en el país o de Notario español que la conozca. Los hijos de españoles fijarán tales apellidos en la forma que en el uso haya prevalecido.
+
+Al margen se podrán anotar las versiones de apellidos extranjeros cuando se acredite igualmente que son usuales.
+
+###### Subsección tercera. De los apellidos de los hijos adoptivos
+
+**Art. 201.**
+
+El adoptado en forma plena por una sola persona tendrá por su orden los apellidos del adoptante. Se exceptúan el caso en que uno de los cónyuges adopte al hijo de su consorte, aunque haya fallecido, y aquél en que la única adoptante sea mujer. En este último supuesto podrá invertirse el orden con el consentimiento de la adoptante y del adoptado si es mayor de edad, sin perjuicio de lo dispuesto en el artículo 207.
+
+> Se modifica por el art. 1 del real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 202.**
+
+Constituida e inscrita una adopción simple, podrá convenirse después en cualquier momento, por escritura pública y en vida del adoptante o adoptantes, la sustitución de los apellidos del adoptado por los de aquél o éstos, o el uso de un apellido de cada procedencia, caso en que se fijará el orden de los mismos.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 203.**
+
+Fallecido el adoptante o los adoptantes simples, concesión de sus apellidos al adoptado requiere autorización del Ministerio de Justicia, a solicitud del adoptado, y con el consentimiento de los herederos, descendientes y cónyuge del adoptante o de sus representantes legales.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 204.**
+
+El adoptado transmite el primer apellido a los descendientes.
+
+El cambio de apellidos por adopción alcanza a los sujetos a la patria potestad y también a los demás descendientes que expresamente lo consientan en la propia escritura o dentro de los dos meses siguientes. La declaración se ajustará a las reglas del artículo 198.
+
+###### Subsección cuarta. De los expedientes sobre nombres y apellidos de la competencia del Ministerio o del Gobierno
+
+**Art. 205.**
+
+El Ministerio de Justicia puede autorizar cambios de nombre y apellidos, previo expediente instruido en forma reglamentaria:
+
+Son requisitos necesarios de la petición de cambio de apellidos:
+
+1.º Que el apellido en la forma propuesta constituya una situación de hecho no creada por el interesado.
+
+2.º Que el apellido o apellidos que se traten de unir o modificar pertenezcan legítimamente al peticionario.
+
+3.º Que los dos apellidos que resulten después del cambio no provengan de la misma línea.
+
+Podrá formularse oposición fundada únicamente en el incumplimiento de los requisitos exigidos.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 206.**
+
+Los cambios pueden consistir en segregación de palabras, agregación, trasposición o supresión de letras o acentos, supresión de artículos o partículas, traducción o adaptación gráfica o fonética a las lenguas españolas, y en sustitución, anteposición o agregación de otros nombres o apellidos o parte de apellidos u otros análogos, dentro de los límites legales.
+
+Las uniones no podrán exceder de dos palabras, sin contar artículos ni partículas.
+
+El cambio de nombre propio requiere justa causa y que no perjudique a tercero.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 207.**
+
+Bastará que se cumpla el requisito del número primero del artículo 206, para que pueda autorizarse el cambio de apellidos en los siguientes casos:
+
+a) Si se tratare de apellido a apellidos que no correspondan por naturaleza y el propuesto sea usual o perteneciente a la línea de apellidos conocida.
+
+b) Si el apellido o apellidos solicitados correspondieren a quien tuviere adoptado, prohijado o acogido de hecho al interesado, siempre que aquél, o por haber fallecido, sus herederos, den su consentimiento al cambio. En todo caso se requiere que, por si a sus representantes legales, asientan al cambio el cónyuge y descendientes del titular del apellido.
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 208.**
+
+No será necesario que concurra el primer requisito del artículo 205 para cambiar o modificar un apellido contrario al decoro o que ocasiones graves inconvenientes o para evitar la desaparición de un apellido español. Se entiende que un apellido ocasiona graves inconvenientes cuando, por cualquier razón, lleve consigo deshonra.
+
+Cuando se den circunstancias excepcionales, y a pesar de faltar los requisitos que señala dicho artículo, podrá accederse al cambio por Real Decreto a propuesta del Ministerio de Justicia, con audiencia del Consejo de Estado.
+
+En caso de que el solicitante de la autorización del cambio de sus apellidos sea objeto de violencia de género, podrá accederse al cambio por Orden del Ministro de Justicia. Para ello deberá acreditarse que quien alegue ser objeto de violencia de género ha obtenido alguna medida cautelar de protección judicial en el citado ámbito. También se podrá acceder al cambio de apellidos en la misma forma en cualquier supuesto en que la urgencia de la situación así lo requiera.
+
+La Orden ministerial a que se refiere el párrafo anterior no será objeto de publicación en el ''Boletín Oficial del Estado'' ni en cualquier otro medio.
+
+En todos estos casos la oposición puede fundarse en cualquier motivo razonable.
+
+Lo dispuesto en este artículo se entiende sin perjuicio del ejercicio de las acciones que puedan proceder una vez concedida la autorización del cambio y, en particular, en caso de que se apreciare con posteridad a la autorización del cambio la existencia de simulación o fraude por parte del solicitante.
+
+> Se modifica por el art. único.3 del Real Decreto 170/2007, de 9 de febrero. [Ref. BOE-A-2007-4942](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4942).
+
+###### Subsección quinta. De otros casos de cambio o conservación de nombres y apellidos
+
+> Se modifica por el art. 2 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 209.**
+
+El Juez de Primera Instancia, Encargado del Registro, puede autorizar, previo expediente:
+
+1.º El cambio de apellido Expósito u otros análogos, indicadores de origen desconocido, por otro que pertenezca al peticionario o, en su defecto, por un apellido de uso corriente.
+
+2.º El de nombres y apellidos impuestos con infracción de las normas establecidas.
+
+3.º La conservación por el hijo o sus descendientes de los apellidos que vinieran usando, siempre que insten el procedimiento dentro de los dos meses siguientes a la inscripción de la filiación o, en su caso, a la mayoría de edad.
+
+4.º El cambio de nombre propio por el usado habitualmente.
+
+5.º La traducción de nombre extranjero o adecuación gráfica a las lenguas españolas de la fonética de apellido también extranjero.
+
+El Ministerio de Justicia puede, en todos estos casos, autorizar directamente y sin limitación de plazo el cambio o conservación de nombres y apellidos.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+**Art. 210.**
+
+Para el cambio de nombre y apellidos a que se refiere el artículo anterior se requiere, en todo caso, justa causa y que no haya perjuicio de tercero.
+
+**Art. 211.**
+
+El apellido Expósito o análogo será sustituido:
+
+1.º Por aquel en que concurra la situación de hecho, pertenencia legítima y proveniencia de línea exigidas para el cambio ordinario.
+
+2.º En su defecto, por el siguiente, en la misma línea, al que ha de sustituirse.
+
+3.º Si no hay apellidos de la línea, por el elegido por el peticionario o representante legal entre los de la otra, exceptuado el que ya se ostenta como paterno o materno, o entre los de uso corriente.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 212.**
+
+El nombre impuesto con infracción de las normas establecidas será, en su caso, traducido y, en los demás, sustituido por otro ajustado, que usare habitualmente el peticionario; en su defecto, por el elegido por él o su representante legal, y, en último término, por una impuesta de oficio.
+
+El apellido impuesto con infracción de las normas será sustituido por el que éstas determinen; en su defecto, por el llevado habitualmente por el peticionario; después, por el de uso corriente que él o su representante legal elija y, en último término, por uno impuesto de oficio.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 213.**
+
+Para el que adquiera la nacionalidad, el nacido no inscrito en plazo o el inscrito sin nombre o apellidos, rigen las siguientes reglas:
+
+1.ª Se mantendrá el nombre y, cuando la filiación no determine otros, los apellidos que viniera usando, aunque no fueren, uno u otros, de uso corriente.
+
+2.ª Serán completados o cambiados en cuanto infrinjan las demás normas establecidas.
+
+El cambio o imposición se efectuará conforme a las reglas del artículo anterior, y tratándose de abandonados o expósitos, en cuanto éstas lo consientan, se respetarán los nombres y apellidos de uso corriente indicados en escrito hallado con ellos.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 214.**
+
+Estas modificaciones o imposiciones de nombres y apellidos se efectuarán en los trámites previos a la inscripción de nacimiento o complementarios de sus circunstancias, o en el propio expediente de nacionalidad.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 215.**
+
+Lo dispuesto en los tres artículos anteriores se entiende sin perjuicio de que los interesados puedan solicitar, cuando proceda, el cambio de nombre y apellidos que no son de uso corriente.
+
+No estando inscritos el nombre y apellidos antiguos, se harán constar, en todo caso, con el cambio producido.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+###### Subsección sexta. Reglas comunes de los expedientes de cambio
+
+**Art. 216.**
+
+La solicitud para el cambio expresará con claridad la genealogía, en cuanto sea necesario justificar la procedencia de algún apellido. El solicitante acreditará los requisitos exigidos para el cambio.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado el párrafo tercero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 217.**
+
+Todo cambio de apellidos alcanza a los sujetos a la patria potestad y también a los demás descendientes que expresamente lo consientan.
+
+Para que alcance a estos descendientes, se requiere la inscripción de su consentimiento, formulado bien en el expediente, bien dentro de los dos meses siguientes a la inscripción del cambio y con sujeción a las reglas formales de reconocimiento ante el Encargado.
+
+El Encargado competente para la inscripción de cualquier acto que implique cambio de nombre o apellidos lo comunicará, en cuanto afecte a mayores de dieciséis años, a la Dirección general de la Policía del Ministerio del Interior y al Registro Central de Penados y Rebeldes. También podrá comunicarlo, en su caso, a las autoridades de Policía del país extranjero en que residan los alcanzados por el cambio. La Dirección General de los Registros y del Notariado puede ordenar otras comunicaciones.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 218.**
+
+En las autorizaciones de cambios de nombre o apellidos se expresará que no surten efectos mientras no sean inscritos al margen de la inscripción de nacimiento del peticionario.
+
+La inscripción sólo puede practicarse si se solicita antes de ciento ochenta días desde la notificación.
+
+Inscrito el cambio, se pondrá de oficio nota marginal con referencia en todos los folios registrales en que consten los antiguos, incluso en los de nacimiento de los hijos, para lo cual el interesado proporcionará los datos no conocidos.
+
+###### Subsección séptima. Nombre y apellidos de extranjeros
+
+**Art. 219.**
+
+El nombre y apellidos de un extranjero se rigen por su ley personal.
+
+##### Sección sexta. De la nacionalidad y vecindad civil
+
+###### Subsección primera. Reglas especiales de los expedientes de nacionalidad
+
+> Téngase en cuenta que prevalecerá el Real Decreto 1004/2015, de 6 de noviembre, por el que se aprueba el Reglamento por el que se regula el procedimiento para la adquisición de la nacionalidad española por residencia sobre lo dispuesto en los artículos 220 a 224 del presente Reglamento de la Ley del Registro Civil, que mantendrán sin embargo su vigencia en la medida en que resulten aplicables a otros procedimientos, según establece la disposición final 2 del citado Real Decreto. [Ref. BOE-A-2015-12047](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12047).
+
+**Art. 220.**
+
+En la solicitud de carta de naturaleza, de habilitación del Gobierno para recuperar la nacionalidad española o de concesión de la nacionalidad por residencia, se indicará especialmente:
+
+1.º Menciones de identidad, lugar y fecha de nacimiento del solicitante, si tiene la capacidad exigida al efecto por la Ley española, y nacionalidad actual y anteriores de él y de sus padres.
+
+2.º Su estado civil; menciones de identidad y lugar y fecha de nacimiento del cónyuge y de los hijos sujetos a la patria potestad. Si hubiere contraído ulteriores nupcias se hará referencia a los matrimonios anteriores.
+
+3.º Si está procesado o tiene antecedentes penales. Si ha cumplido el servicio militar o prestación equivalente, exigidos por las leyes de su país, o situación al respecto.
+
+4.º La residencia en territorio español, con precisión de fechas y lugares y las circunstancias excepcionales que invoca para la obtención de la carta o de la habilitación.
+
+5.º Las circunstancias que reducen el tiempo exigido; si habla castellano u otra lengua española; cualquier circunstancia de adaptación a la cultura y estilo de vida españoles, como estudios, actividades benéficas o sociales, y las demás que estime conveniente.
+
+6.º Si se propone residir permanentemente en España y medios de vida con que cuenta.
+
+7.º En su caso, el compromiso de renunciar a la nacionalidad anterior y de prestar juramento o promesa de fidelidad al Rey y de obediencia a la Constitución y a las Leyes.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 221.**
+
+El peticionario probará los hechos a que se refieren los cinco primeros números del artículo anterior.
+
+Los referidos en los números primero y segundo se acreditarán por certificación del Registro español, en su defecto, por la expedida por Cónsul o funcionaria competente de su país, y de no ser esto posible, por cualquier otro medio.
+
+La certificación consular, si es posible, hará referencia también a las circunstancias del número 3 y a la conducta, que se acreditará, además, por certificado de la autoridad gubernativa local y por el Registro Central de Penados y Rebeldes.
+
+Para la concesión de la nacionalidad por residencia, ésta se acreditará, de ser posible, por información del Gobierno Civil o de la Dirección General de la Policía del Ministerio del Interior.
+
+Las demás hechos y circunstancias se acreditarán por cualquier medio de prueba adecuado admitido en derecho.
+
+El Encargado, en el expediente de concesión de nacionalidad por residencia, oirá personalmente al peticionario, especialmente para comprobar el grado de adaptación a la cultura y estilo de vida españoles, y procurará oír también el cónyuge por separado y reservadamente sobre el cambio de nacionalidad y circunstancias que en ello concurren.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 225, de 19 de septiembre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 222.**
+
+La Dirección recabará los informes oficiales que estime precisos y siempre el del Ministerio del Interior.
+
+El informe de este Departamento comprenderá el juicio sobre la conducta y situación del extranjero respecto de las obligaciones que impone su entrada y residencia en España.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 223.**
+
+La concesión de carta de naturaleza revestirá la forma de Real Decreto, dictado a propuesta del Ministro de Justicia. La de habilitación para recuperar la nacionalidad española se formalizará, con la misma propuesta, por acuerdo del Consejo de Ministros.
+
+En el «Boletín Oficial del Estado» se insertará, a efectos informativos, relación semestral de las concesiones de nacionalidad por residencia.
+
+Podrán no motivarse las resoluciones denegatorias por razones de orden público o interés nacional.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 224.**
+
+En los ciento ochenta días siguientes a la notificación, pasados los cuales caducará la concesión, el solicitante comparecerá ante el funcionario competente para, en su caso, renunciar a la nacionalidad anterior, prestar la promesa o juramento exigidos e inscribirse como español en el Registro.
+
+El Encargado que recibe las declaraciones velará por la práctica de toda clase de asientos que procedan por el cambio.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+###### Subsección segunda. De las modificaciones de nacionalidad y vecindad
+
+**Art. 225.**
+
+El cambio de vecindad civil se produce “ipso iure” por la residencia habitual durante diez años seguidos, en provincia o territorio de diferente legislación civil, a no ser que antes de terminar este plazo el interesado formule la declaración en contrario.
+
+En el plazo de los diez años no se computa el tiempo en que el interesado no pueda legalmente regir su persona.
+
+El extranjero que adquiera la nacionalidad española por naturaleza u opción y desee también optar por la vecindad civil correspondiente al territorio de Derecho especial o foral en que lleve al menos dos años de residencia, formulará esta segunda opción ante el Encargado del Registro Civil al mismo tiempo que las declaraciones previstas en el segundo párrafo del artículo 20 del Código Civil. Queda a salvo lo dispuesto, en su caso, por los Estatutos de Autonomía.
+
+> Se modifica por el art. único del Real Decreto 628/1987, de 8 de mayo. [Ref. BOE-A-1987-11822](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-11822).
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 226.**
+
+Las declaraciones de voluntad relativas a la nacionalidad o a la vecindad y la renuncia y el juramento o promesa exigidos serán admitidos por el Encargado del Registro aunque no se presente documento alguno, siempre que resulte de la declaración la concurrencia de los requisitos exigidos, pero sólo podrá practicarse la inscripción si se justifican previamente los requisitos para la adquisición, modificación o conservación.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 227.**
+
+Si al prestarse las declaraciones a que se refiere el artículo anterior no apareciesen acreditados los requisitos exigidos, el declarante, sin perjuicio de los recursos oportunos, estará obligado a completar la prueba en el plazo prudencial que le señale Encargado. Este se limitará por el momento a levantar acta de la declaración y en su día, cuando por acreditarse los requisitos se practique la inscripción, se considerarán hora y fecha de ésta, a partir de la cual surtirá efecto la declaración, las del acta, que se harán constar en el asiento.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 228.**
+
+En las inscripciones de nacionalidad o vecindad practicadas en virtud de declaración constará especialmente el carácter de ésta y la hora en que se formula y, en los casos exigidos, la renuncia a la nacionalidad anterior y el juramento o promesa de fidelidad y obediencia.
+
+Las inscripciones de adquisición de nacionalidad por concesión o de recuperación previa habilitación del Gobierno se practicarán en virtud del Real Decreto u Orden correspondientes y de la declaración del interesado.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 229.**
+
+Cuando por estar en otro término el Registro competente, o por cualquier obstáculo de hecho no se practicare inmediatamente la inscripción, el Encargado ante el que se formule debidamente declaración de conservación o modificación de nacionalidad o vecindad, levantará acta por duplicado con las circunstancias de la inscripción y las de identidad del sujeto; uno de los ejemplares, con los títulos en su caso, se remitirá al Registro competente para, en su virtud, practicarla.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 230.**
+
+En los países extranjeros en que no exista Agente Diplomático o Consular español, la declaración de opción podrá formularse en documento debidamente autenticado dirigido al Ministerio español de Asuntos Exteriores, quien, con informe sobre la fecha de remisión a dicho Ministerio, dará traslado, a través del Ministerio de Justicia, al Registro competente para la inscripción.
+
+Se considerará fecha de la inscripción, a partir de la cual surte sus efectos la opción, la de remisión al Ministerio de Asuntos Exteriores, que constará en dicho asiento.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 231.**
+
+El mismo régimen establecido en el artículo anterior será aplicable a cualquier otra declaración de voluntad relativa a la nacionalidad o vecindad civil.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 232.**
+
+La pérdida de la nacionalidad sólo se inscribirá en virtud de documentos auténticos que la acrediten plenamente, previa citación del interesado o su representante legal y, en su caso, de sus herederos.
+
+En defecto de documentos auténticos, será necesario expediente gubernativo, con la citación predicha.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 233.**
+
+Para inscribir la pérdida de la nacionalidad española por el que ostente desde su menor edad, además, una nacionalidad extranjera, se acreditará debidamente, conforme a lo dispuesto en el artículo precedente, la nacionalidad extranjera que le venga atribuida al interesado desde su minoría y su renuncia expresa a la nacionalidad española.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 234.**
+
+En los países extranjeros en que no existan funcionarios consulares o diplomáticos españoles, las peticiones de dispensa o habilitación podrán hacerse en documento debidamente autenticado dirigido al Ministerio de Justicia.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 235.**
+
+En los traslados de la concesión de nacionalidad por residencia o por carta de naturaleza, o cuando se inscriba la opción o la recuperación, se advertirá expresamente que los hijos del interesado sometidos a la patria potestad tienen derecho a optar a la nacionalidad española conforme a los artículos 19 y 20 del Código Civil.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 236.**
+
+En las inscripciones de vecindad se hará referencia en su texto o en nota marginal complementaria al nacimiento de los demás afectados por la modificación de la vecindad civil, con indicación de nombres y apellidos.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Redactado el párrafo tercero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 237.**
+
+En las inscripciones de nacimiento de estas personas afectadas se pondrá nota de referencia a la de la vecindad, con indicación del hecho inscrito y del carácter del titular.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+#### CAPÍTULO II — De la Sección de Matrimonios
+
+##### Sección primera. De la celebración del matrimonio ante Juez o funcionario que haga sus veces
+
+> Se modifica por el art. 2 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 238.**
+
+Es competente para la instrucción del expediente previo a la celebración del matrimonio el Juez encargado o de Paz, o el Encargado del Registro Civil consular, correspondiente al domicilio de cualquiera de los contrayentes.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado el párrafo tercero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 239.**
+
+El Juez de Paz es competente, bajo la dirección del Encargado y por delegación de éste, para instruir el expediente previo al matrimonio y para autorizar o denegar su celebración.
+
+Firme el auto favorable dictado por el Juez de Paz y si los interesados hubiesen solicitado que el Alcalde autorice el matrimonio, se celebrará el casamiento ante él, quien levantará acta con todos los requisitos exigidos en el Código Civil y en esta legislación y la remitirá inmediatamente al Registro de la localidad para su inscripción.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 240.**
+
+El expediente se inicia con la presentación de un escrito, que contendrá:
+
+1.º Las menciones de identidad, incluso la profesión, de los contrayentes.
+
+2.º En su caso, el nombre y apellidos del cónyuge o cónyuges anteriores y fecha de la disolución del matrimonio.
+
+3.º La declaración de que no existe impedimento para el matrimonio.
+
+4.º El Juez o funcionario elegido, en su caso, para la celebración.
+
+5.º Pueblos en que hubiesen residido o estado domiciliados en los dos últimos años.
+
+El escrito será firmado por un testigo a ruego del contrayente que no pueda hacerlo.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 241.**
+
+Con el escrito se presentará la prueba del nacimiento y, en su caso, la prueba de la disolución de los anteriores vínculos, la emancipación o la dispensa; ésta no prejuzga la inexistencia de otros impedimentos u obstáculos.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 242.**
+
+En el momento de la ratificación o cuando se adviertan se indicarán a los contrayentes los defectos de alegación y prueba que deban subsanarse. La ratificación del contrayente que no esté domiciliado en la demarcación del Registro donde se instruya el expediente podrá realizarse por comparecencia ante otro Registro Civil español o por medio de poder especial.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 243.**
+
+Se publicarán edictos o proclamas por espacio de quince días exclusivamente en las poblaciones en cuya demarcación hubiesen residido o estado domiciliados los interesados en los dos últimos años y que tengan menos de 25.000 habitantes de derecho, según el último censo oficial, o bien que correspondan a la circunscripción de un Consulado español con menos de 25.000 personas en el Registro de Matrícula.
+
+Los edictos anunciarán el casamiento con todas las indicaciones contenidas en el artículo 240 y con el requerimiento a los que tuviesen noticia de algún impedimento para que lo denuncien. Los Encargados que reciban la comunicación del instructor devolverán a éste los edictos, una vez fijados en el tablón de anuncios durante el plazo expresado, con certificación de haberse cumplido dicho requisito y de haberse o no denunciado algún impedimento.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Redactado el apartado 6 conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 244.**
+
+Si los interesados hubieran residido en los dos últimos años en poblaciones que no reúnan las condiciones expresadas en el artículo anterior, el trámite de edictos o proclamas se sustituirá por la audiencia, al menos, de un pariente, amigo a allegado de uno u otro contrayente, elegido por el instructor y que deberá manifestar, so pena de falsedad, su convencimiento de que el matrimonio proyectado no incurre en prohibición legal alguna.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 245.**
+
+Mientras se tramitan los edictos o diligencias sustitutorias, se practicarán las pruebas propuestas o acordada de oficio encaminadas a acreditar el estado, capacidad o domicilio de los contrayentes o cualesquiera otros extremos necesarios.
+
+Si el instructor estima que alguno de los contrayentes está afectado por deficiencias o anomalías psíquicas, recabará del Médico del Registro Civil o de su sustituto el dictamen facultativo oportuno.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 246.**
+
+El instructor, asistido del Secretario, oirá a ambos contrayentes reservadamente y por separado para cerciorarse de la inexistencia del impedimento de ligamen o de cualquier otro obstáculo legal para la celebración. La audiencia del contrayente no domiciliado en la demarcación del instructor podrá practicarse ante el Registro Civil del domicilio de aquél.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 247.**
+
+El Ministerio Fiscal y los particulares a cuyo conocimiento llegue la pretensión del matrimonio están obligados a denunciar cualquier impedimento u obstáculo que les conste. Si el instructor conociese la existencia de obstáculo legal, denegará la celebración.
+
+Contra el auto de aprobación o de denegación de la celebración del matrimonio cabe recurso en vía gubernativa, según las reglas establecidas para los expedientes en general.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 248.**
+
+Pasado un año desde la publicación de los edictos, de su dispensa o de las diligencias sustitutorias, sin que se efectúe el elemento, no podrá celebrarse éste sin nuevas publicación, dispensa o diligencias.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado el párrafo segundo conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 249.**
+
+Firme el auto favorable a la celebración, se llevará a cabo ésta, en cuanto lo permitan las necesidades del servido, en el día y hora elegidos por los contrayentes, que se les señalará, al menos, con un mes de antelación. Si los contrayentes lo solicitan, el casamiento se celebrará dentro de los tres días siguientes a la conclusión del expediente y en el día y hora que fije el Encargado.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Redactado el párrafo segundo conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 250.**
+
+Cuando los contrayentes, en el escrito inicial o durante la tramitación del expediente, hayan solicitado que la prestación del consentimiento se realice, por delegación del instructor, ante otro Encargado de un Registro Civil, el expediente, una vez concluido por el instructor, se remitirá al Encargado elegido para la celebración, el cual se limitará a autorizar el matrimonio y a extender la inscripción en su Registro.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 251.**
+
+En las poblaciones con más de un Juez de Primera instancia cualquiera de ellos, designado por el Juez Decano, podrá sustituir al instructor, una vez firme el auto favorable de éste, en la prestación del consentimiento y en la extensión del asiento en el Registro.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 252.**
+
+Si los contrayentes han manifestado su propósito de contraer matrimonio en el extranjero con arreglo a la forma establecida por la Ley del lugar de celebración y esta Ley exige la presentación de un certificado de capacidad matrimonial, una vez concluido el expediente con auto firme favorable, el instructor entregará a aquéllos tal certificado. La validez de éste estará limitada a los seis meses de su fecha.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 253.**
+
+La autoridad o funcionario competente, para autorizar el matrimonio del que se halle en peligro de muerte, extenderá el acta oportuna, que deberá contener las circunstancias necesarias para practicar la inscripción.
+
+El Delegado del Registro Civil, designado conforme a lo previsto en el número 6.º del artículo 71 de este Reglamento, tiene competencia para autorizar este matrimonio y para levantar el acta.
+
+El Juez de Paz está dispensado de pedir instrucciones al Encargado cuando lo impida la urgencia del caso, pero le dará cuenta inmediata del matrimonio autorizado.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 254.**
+
+Si en el acta civil de celebración los contrayentes reconocen hijos habidos por ellos antes del matrimonio, deberán manifestar los datos de las inscripciones de nacimiento para promover las correspondientes notas marginales.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+##### Sección segunda. De la inscripción del matrimonio en el Registro Civil
+
+> Se modifica por el art. 2 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 255.**
+
+Si el matrimonio se ha celebrado en las oficinas del propio Registro, como resultado del expediente previo, el acta del matrimonio será la propia inscripción, que se extenderá haciendo constar todas las circunstancias establecidas en la Ley del Registro Civil y su Reglamento, y sin mención del cumplimiento de las diligencias prevenidas para la celebración.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 256.**
+
+A salvo lo dispuesto en el artículo 63 del Código Civil y en los artículos 239, 252 y 255 de este Reglamento, se inscribirán, siempre que no haya dudas de la realidad del hecho y de su legalidad conforme a la española, los matrimonios que consten por cualquiera de los documentos siguientes:
+
+1.º Acta levantada por Encargado o funcionario competente para autorizar el matrimonio del que se halle en peligro de muerte.
+
+2.º Certificación expedida por la Iglesia o confesión, cuya forma de celebración esté legalmente prevista como suficiente por la Ley española.
+
+3.º Certificación expedida por autoridad o funcionario del país de celebración.
+
+4.º Certificación expedida por funcionario competente, acreditativa del matrimonio celebrado en España por dos extranjeros, cumpliendo la forma establecida por la Ley personal de cualquiera de ellos.
+
+El título para practicar la inscripción será, en todos estos casos, el documento expresado y las declaraciones complementarias oportunas.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado el párrafo segundo conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 257.**
+
+En cualquier otro supuesto el matrimonio sólo puede inscribirse en virtud de expediente, en el que se acreditará debidamente la celebración en forma del matrimonio y la inexistencia de impedimentos.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 258.**
+
+En la inscripción de matrimonio constarán la hora, fecha y sitio en que se celebre, las menciones de identidad de los contrayentes, nombre, apellidos y cualidad del autorizante y, en su caso, la certificación religiosa o el acta civil de celebración.
+
+En la inscripción de matrimonio por poder se expresará quién es el poderdante, menciones de identidad del apoderado y fecha y autorizante del poder; en la del contraído con intérprete, sus menciones de identidad, idioma en que se celebra y contrayente a quien se traduce.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861)
+
+**Art. 259.**
+
+Todas las actuaciones y documentos previos a la inscripción de matrimonio se archivarán en el legajo de la Sección correspondiente.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 6 de marzo. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+##### Sección tercera. De las dispensas matrimoniales
+
+> Se modifica por el art. 2 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 260.**
+
+Podrá solicitarse dispensa de impedimentos, así como de publicación de edictos o proclamas, si en ambos casos existe justa causa suficientemente comprobada.
+
+Quien la solicite acreditará los motivos de índole particular, familiar o social que invoque, y aportará, en su caso, un principio de prueba de impedimento.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 261.**
+
+En el expediente se practicarán, en su caso, las audiencias legalmente exigidas. Su tramitación será reservada y nunca se exigirá diligencia desproporcionada a la urgencia de aquélla.
+
+En la solicitud de dispensa de impedimento de grado tercero de parentesco entre colaterales se expresará con claridad el árbol genealógico de los esposos.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+**Art. 262.**
+
+El expediente de dispensa de edictos será resuelto por el mismo Encargado bajo cuya autoridad se ha de instruir el previo al matrimonio.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+##### Sección cuarta. De las sentencias y resoluciones
+
+> Se modifica por el art. 2 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 263.**
+
+Las inscripciones de las resoluciones judiciales precisarán su alcance y las determinaciones sobre patria potestad y cuidado de los hijos.
+
+En la inscripción de la sentencia de nulidad se expresará la cancelación de la de matrimonio.
+
+> Se modifica el primer párrafo por el art. único.4 del Real Decreto 170/2007, de 9 de febrero. [Ref. BOE-A-2007-4942](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4942).
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 264.**
+
+Las inscripciones se practican en virtud del testimonio de la resolución judicial remitido de oficio al Registro Civil donde conste inscrito el matrimonio. El Encargado, también de oficio, promoverá la extensión en su Registro o en otros de las notas de referencia sobre alteración de la patria potestad a que se refiere el artículo 180.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado el párrafo cuarto conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 265.**
+
+La inscripción de las resoluciones sobre nulidad de matrimonio canónico o de las decisiones pontificias sobre matrimonio rato requieren que previamente su ejecución haya sido acordada por Juez civil competente.
+
+La de las sentencias extranjeras sobre nulidad, separación o divorcie requiere su reconocimiento en España conforme a la dispuesto en las leyes procesales.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+##### Sección quinta. De las menciones o indicaciones sobre régimen de bienes
+
+> Se modifica por el art. 2 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 266.**
+
+Las indicaciones registrales sobre régimen económico de la sociedad conyugal se rigen, a falta de reglas especiales, por las de las inscripciones.
+
+Sólo se extenderán a petición de interesado.
+
+No cabe indicación sobre hecho ya inscrito: la practicada se cancelará de oficio con referencia a la inscripción que tendrá, además del propio, el valor de indicación registral.
+
+En la indicación constará la naturaleza del hecho, la denominación, en su caso del nuevo régimen matrimonial, el documento auténtico o resolución en cuya virtud se extiende el asiento y, en forma destacada, su carácter de indicación.
+
+El título será devuelto al presentante, con nota firmada en la que se consignará el Registro, tomo y folio en que consta la indicación.
+
+En las inscripciones que, en cualquier otro Registro, produzcan las capitulaciones y demás hechos que afecten al régimen económico se expresará el Registro Civil, tomo y folio en que consta inscrito o indicado el hecho. Se acreditarán los datos exigidos por certificación, por el Libro de Familia o por la nota a que se refiere el párrafo anterior, y de no acreditarse se suspenderá la inscripción por defecto subsanable.
+
+En las capitulaciones se consignará siempre el Registro Civil, tomo y folio en que consta inscrito el matrimonio celebrado. Si el matrimonio no se hubiere celebrado aún, los otorgantes están obligados a acreditar, en su caso, esos datos al Notario por medio de certificación del matrimonio o de exhibición del Libro de Familia, y el Notario los consignará por nota al pie o al margen de la escritura matriz; el Notario hará a los otorgantes advertencia de esta obligación.
+
+Los Notarios expedirán copias de las estipulaciones que afecten al régimen económico matrimonial en los casos permitidos por la legislación notarial y, en particular, a cualquier solicitante que presente un principio de prueba que le acredite como titular de algún derecho patrimonial frente a cualquiera de los cónyuges.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+##### Sección sexta. De los matrimonias secretos
+
+> Se modifica por el art. 2 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 267.**
+
+El matrimonio secreto, cualquiera que sea la forma legal en que se celebre, se inscribirá en el Libro Especial.
+
+La autorización a que se refiere el artículo 54 del Código Civil se concederá a propuesta de la Dirección General.
+
+El acta, sin producir asiento alguno en los libros de inscripciones será remitida original, inmediata y reservadamente al Central.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado conforme a la corrección de errores publicada en el BOE núm. 166, de 12 de julio de 1969. [Ref. BOE-A-1969-868](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-868).
+
+**Art. 268.**
+
+La inscripción es secreta pero cualquiera de los cónyuges puede comprobarla mediante manifestación y examen, por sí o por mandatario con poder especial.
+
+La obligación de guardar secreto se extiende a los cónyuges, mientras ambos no consientan la divulgación, y a los que intervienen en las diligencias para la celebración o inscripción.
+
+No se hará mención de los cónyuges en las comunicaciones de cumplimiento dirigidas a la Autoridad eclesiástica o Encargado remitente, ni en los Libros Diarios.
+
+**Art. 269.**
+
+La solicitud de publicación podrá presentarse ante cualquier Registro. En su caso, deberá acompañarse la prueba del fallecimiento del cónyuge premuerto.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 270.**
+
+El matrimonio secreto puede inscribirse directamente en Registro ordinario a petición de quienes pueden pedir su publicación, siempre que en la solicitud el Encargado del Central exprese por diligencia, a la vista de la certificación o acta en cuya virtud se ha de inscribir, que no consta inscrito en el Libro Especial.
+
+##### Sección séptima. De las anotaciones de matrimonio
+
+> Se renumera por el art. 2 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Su anterior numeración era sección octava.
+
+**Art. 271.**
+
+Deberá ser anotado el matrimonio que conste por expediente o por cualquiera de los documentos a que se refiere el artículo 256 y que no pueda ser inscrito, por no reunir los requisitos exigidos para su validez por el Código Civil o por no haber sido éstos acreditados debidamente.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 272.**
+
+Cualquiera de las partes puede solicitar la anotación de la demanda de nulidad, separación o divorcio mediante la presentación del testimonio de su admisión.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+#### CAPÍTULO III — De la Sección de Defunciones
+
+**Art. 273.**
+
+La declaración se formulará inmediatamente de la muerte.
+
+La obligación de declarar afecta a los consanguíneos hasta el cuarto grado y a los afines hasta el segundo.
+
+**Art. 274.**
+
+El facultativo que haya asistido al difunto en su última enfermedad o cualquier otro que reconozca el cadáver enviará inmediatamente al Registro parte de defunción en el que, además del nombre, apellidos, carácter y número de colegiación del que lo suscriba, constará que existen señales inequívocas de muerte, su causa y, con la precisión que la inscripción requiere, fecha, hora y lugar del fallecimiento y menciones de identidad del difunto, indicando si es conocido de ciencia propia o acreditada y, en este supuesto, documentos oficiales examinados o menciones de identidad de persona que afirme los datos, la cual también firmará el parte.
+
+Si hubiere indicios de muerte violenta se comunicará urgente y especialmente al Encargado.
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 275.**
+
+En los Registros que tuvieran adscrito Médico del Registro Civil comprobará éste, por reconocimiento del cadáver, los términos del parte y suplirá sus omisiones, para lo cual se le dará, como mínimo, cuatro horas.
+
+En los que no lo tuvieren, el Encargado, antes de inscribir, exigirá al Médico obligado el parte adecuado, en cuanto lo permita la urgencia de la inscripción y, no obteniéndola, o siendo contradictorio con la información del declarante, comprobará el hecho por medio del sustituto del Médico del Registro Civil, que ratificará o suplirá el parte exigido.
+
+El Médico del Registro Civil o sustituto más cercano que resida en población situada a más de dos kilómetros podrá excusar su asistencia. La comprobación se hará entonces a elección del Encargado o Juez de Paz, por él mismo, por quien tiene a este respecto los mismos deberes y facultades o delegando, bajo su responsabilidad, en dos personas capaces; el resultado se diligenciará en acta separada.
+
+En los Registros Consulares, en defecto de parte adecuado, se acudirá a la comprobación supletoria a que se refiere el párrafo anterior.
+
+Cuando las informaciones fueren defectuosas u ofrecieren dudas fundadas, el Encargado, por sí solo o asistido de perito, practicará las comprobaciones oportunas antes de proceder a la inscripción.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 276.**
+
+Las comprobaciones y demás diligencias para la inscripción y la expedición de la licencia de entierro se realizarán dentro de las veinticuatro horas siguientes a la defunción.
+
+**Art. 277.**
+
+La inscripción puede practicarse, en todo caso, y sin perjuicio de lo que dispone el artículo siguiente, por sentencia u orden de la autoridad judicial que afirme, sin duda alguna, el fallecimiento.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 278.**
+
+Cuando el cadáver hubiera desaparecido o se hubiera inhumado, no basta para la inscripción la fama de muerte, sino que se requiere certeza que excluya cualquier duda racional.
+
+En su caso, a la orden de la autoridad judicial que instruye las diligencias seguidas por la muerte, debe haber precedido informa favorable del Ministerio Fiscal, y si se trata de autoridad judicial militar, el del Auditor; si la autoridad es extranjera, se instruirá, para poder inscribir, el oportuno expediente.
+
+Para precisar las circunstancias en el expediente o diligencias, se tendrán en cuenta las pruebas previstas para el de reconstitución.
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 279.**
+
+El fallecimiento en las condiciones a que se refiere el artículo anterior, ocurrido en campaña o en cautividad, se inscribirá en virtud de expediente instruido y resuelto conforme a esta legislación, sin ulterior recurso en vía gubernativa, por la Autoridad Judicial militar de la Región, Zona o Departamento correspondiente y, en su defecto, por la de la Primera o la Central, y siempre previo Informe favorable del Auditor.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 280.**
+
+En la inscripción de defunción constarán especialmente:
+
+1.º Las menciones de identidad del fallecido.
+
+2.º Hora, fecha y lugar del fallecimiento.
+
+3.º Número que se asigna en el legajo al parte o comprobación.
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 281.**
+
+Las menciones de identidad desconocidas se suplicarán por los nombres o apodos, señales o defectos de conformación, edad aparente o cualquier otro dato identificante; los vestidos, papeles u otros objetos encontrados con el difunto serán reseñados por diligencia en folio suelto.
+
+De no poderse expresar la hora, fecha y lugar del fallecimiento se indicarán los límites máximo y mínimo del tiempo en que ocurrió y el primer lugar conocido de situación del cadáver.
+
+La inscripción será completada y, en su caso, conocido el lugar de defunción, trasladada al Registro competente, en virtud de sentencia, expediente gubernativo u orden de la Autoridad Judicial. Los antecedentes se pasarán al Ministerio Fiscal para que promueva el expediente oportuno, sino hay en curso procedimiento o diligencias suficiente a este fin.
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 282.**
+
+La inhumación se ajustará a las Leyes y Reglamentos respecto al tiempo, lugar y demás formalidades.
+
+La licencia se extenderá inmediatamente de la inscripción por el Encargado o por la Autoridad Judicial que instruya las diligencias oportunas y servirá para la inhumación en cualquier lugar, al que no hará mención.
+
+Justificado el fallecimiento, la licencia también podrá expedirse por el Encargado del lugar en que ha de llevarse a efecto la inhumación, si es distinto de aquel en que haya de extender la inscripción y antes o después de extendida.
+
+En la inscripción o por nota marginal se hará referencia al lugar de enterramiento, si consta en la declaración de defunción o en certificación de Autoridad o funcionario a cuyo cargo está el cementerio; esta certificación es título suficiente para modificar o rectificar la referencia.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+#### CAPÍTULO IV — De la Sección de Tutelas y Representaciones legales
+
+##### Sección Primera. De las inscripciones
+
+**Art. 283.**
+
+Son objeto de inscripción los cargos tutelares o de la curatela, sus modificaciones y las medidas judiciales sobre guarda o administración, o sobre vigilancia o control de aquellos cargos.
+
+También son inscribibles los cargos de Albacea, Depositario, Administrador e Interventor judiciales, Síndico o cualesquiera otros representantes que tengan nombramiento especial y asuman la administración y guarda de un patrimonio.
+
+> Se modifica por el art. 1del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 284.**
+
+No estarán sujetos a inscripción:
+
+1.º La patria potestad y sus modificaciones, sin perjuicio de lo dispuesto para la Sección Primera del Registro Civil y de la inscripción de Administradores nombrados para los menores.
+
+2.º Las representaciones de personas jurídicas o de su patrimonio en liquidación.
+
+3.º Los apoderamientos voluntarios.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 285.**
+
+Tanto el domicilio como el lugar donde estuvieren dentro o fuera de España, la mayor parte de los bienes se acredita a efectos de decidir el Registro competente. por declaración del gestor o representante legal o por cualquier otro medio.
+
+**Art. 286.**
+
+Los cargos se inscriben por testimonio judicial u otro documento público suficiente que acredite la toma de posesión.
+
+La inscripción del administrador del caudal relicto requiere acreditar la aceptación del cargo, en virtud de documento con firma autenticada; no se requiere acreditarla si el mismo nombrado promueve el asiento, lo cual se hará constar entonces en él con su firma.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado el párrafo segundo conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 287.**
+
+El folio registral de cada tutela, curatela o representación legal se abrirá con la inscripción primeramente obligatoria relativa a la misma; respeto de las posteriores se aplicará lo establecido sobre inscripciones marginales.
+
+El Encargado del Registro, inmediatamente de practicada la inscripción principal, determinará el número de páginas que ha de comprender el folio, haciéndolo así constar al pie de la última asignada por diligencia en la que se referirá a la inscripción principal.
+
+El organismo tutelar para varios hermanos será objeto de inscripciones únicas.
+
+La inscripción de representación legal del ausente se practicará en el folio abierto para el defensor, si hubiera precedido la de este cargo.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 288.**
+
+En la primera inscripción se expresarán las menciones de identidad del pupilo o de los que, con anterioridad a la constitución de la representación, eran titulares de los patrimonios a ella sujetos. En los asientos marginales se expresarán sólo los nombres y apellidos.
+
+En la primera o a su margen se hará referencia a la de su nacimiento y a la de incapacitación, declaración de ausencia, muerte u otro hecho que motivó la representación legal.
+
+También, por nota marginal se hará referencia, en su día, a la inscripción del hecho que implique la extinción de la tutela, curatela o representación, cuando se practique en distinto folio registral.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 289.**
+
+En la inscripción se expresará especialmente:
+
+1.º La naturaleza de los cargos, y si la representación incumbe a varias personas y en qué medida.
+
+2.º Parentesco con el tutelado o representado, cuando sea la razón del nombramiento.
+
+3.º Facultades de representación conferidas en el título de nombramiento y las limitaciones, igualmente impuestas, si no constan en la inscripción del hecho que motiva la representación legal.
+
+4.º Fecha de toma de posesión.
+
+En la inscripción de modificación se expresará el alcance de ésta.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+##### Sección Segunda. De las anotaciones
+
+**Art. 290.**
+
+Se hará constar por anotación:
+
+1.º La existencia del inventario o descripciones de bienes formados por el tutor o defensor del desaparecido y la de inventarios, descripción de bienes, escrituras de transmisiones y gravámenes o de partición o adjudicación y actas de protocolización a que se refiere el artículo 198 del Código Civil.
+
+2.º La presentación o modificación de la garantía o fianza exigida al tutor.
+
+3.º La declaración, en su caso, de que se han compensado frutos por alimentos.
+
+4.º La rendición de cuentas por el tutor.
+
+Las cuentas serán depositadas en la oficina del Registro y con ellas se formarán legajos especiales ordenados por organismos tutelares, que se conservarán durante ciento cincuenta años.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 291.**
+
+Están obligados a promoverlas sin demora:
+
+1.º El Juez.
+
+2.º El tutor o curador.
+
+3.º El defensor del desaparecido o representante legal del ausente.
+
+4.º El Ministerio fiscal.
+
+Las autoridades y funcionarios a quienes consten, por razón de sus cargos, los hechos no anotados, están obligados o comunicarlos al Ministerio Fiscal.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 292.**
+
+Estas anotaciones pueden practicarse en virtud de testimonio de la resolución judicial oportuna o de parte enviado oficialmente por el funcionario autorizante.
+
+En ellas constarán especialmente:
+
+1.º En sus casos, las menciones de identidad de los comparecientes y de los otorgantes y lugar, fecha y funcionario autorizante.
+
+2.º En las de inventarios y particiones, el valor total que en el título se asigne a los bienes.
+
+3.º En las de transmisiones y gravámenes, el auto de concesión de la licencia judicial, y
+
+4.º En la de prestación de fianza, la clase de bienes en que se haya constituido y, si es personal, las menciones de identidad de los fiadores.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+### TÍTULO VI — De la rectificación y otros procedimientos
+
+#### CAPÍTULO PRIMERO — De la rectificación
+
+##### Sección Primera. Reglas especiales
+
+**Art. 293.**
+
+Las inscripciones no pueden rectificarse en virtud de sentencia recaída en proceso penal; no obstante, en cuanto sean contradictorias con los hechos que la sentencia declara probados, serán rectificadas mediante expediente gubernativo.
+
+**Art. 294.**
+
+Para rectificar en la inscripción de nacimiento la indicación del sexo se investigará:
+
+1.º Si la identidad queda establecida por las demás circunstancias de la inscripción.
+
+2.° Si no existe o ha existido otra persona con tales circunstancias y del sexo indicado.
+
+3.º Si la persona a que afecta la rectificación no está correctamente inscrita en otro asiento; y
+
+4.º El sexo del inscrito por dictamen del Médico del Registro Civil o su sustituto.
+
+**Art. 295.**
+
+Procede la rectificación de errores provenientes de documento público nacional o extranjero, o eclesiástico, cuando el original o matriz haya sido, a su vez, rectificado por el procedimiento legal correspondiente.
+
+Las actas simples o duplicadas establecidas en la legislación del Registro, para en su virtud, practicar inscripciones, se rectificarán por los procedimientos fijados para los correspondientes asientos.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+##### Sección Segunda. De los expedientes para completar o suprimir circunstancias y asientos
+
+**Art. 296.**
+
+Basta expediente gubernativo para completar los datos y circunstancias de inscripciones firmadas:
+
+1.º Cuando la inscripción del hecho es posible en virtud de expediente.
+
+2.º Cuando se trata de omisiones de menciones o indicaciones que, de estar equivocadas, podrían rectificarse por expediente gubernativo.
+
+Las reglas de uno u otro expediente rigen también en el que tiene por fin completar las inscripciones.
+
+No se requiere expediente si la inscripción complementaria puede practicarse en virtud de declaración en los casos, tiempo y forma señalados en la Ley o por documento auténtico.
+
+**Art. 297.**
+
+Por expediente gubernativo sólo pueden suprimirse:
+
+1.º Las circunstancias cuya constancia no está prevista legal o reglamentariamente.
+
+2.º Los asientos sobre hechos que no constituyen el objeto del Registro.
+
+3.º Los asientos o circunstancias cuya práctica se haya basado, de modo evidente, según el propio asiento, en título manifiestamente ilegal.
+
+4.º Las adiciones, apostillas, interlineados, raspaduras y enmiendas nulos; el asiento se considera parcialmente destruido en cuantos datos y circunstancias resulten ilegibles en el expediente.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+##### Sección Tercera. De los defectos y faltas formales y de su corrección
+
+**Art. 298.**
+
+Son defectos formales de los asientos:
+
+1.º Su extensión en Registro, libro o folio distinto del que corresponde. La competencia para el expediente viene determinada por el Registro en que se practicaron y la resolución ordenará el traslado del asiento o asientos, los cuales deben ser cancelados,
+
+2.º La actuación en los asientos o en las diligencias previas, de funcionario incompatible o de quien, sin estar legítimamente encargado de funciones en el Registro las ejerce públicamente.
+
+3.º El practicarlos fuera del libro correspondiente o formado sin las cautelas o el visado reglamentario; o el no extenderlos por orden sucesivo o en Ios espacios oportunos.
+
+4.º La omisión a expresión inexacta de la declaración, declarante y testigos, o del documento en virtud del cual se practican.
+
+5.º La omisión de la fecha de las inscripciones, de los nombres de quienes las autorizan o de las firmas legalmente exigidas.
+
+6.º El uso de abreviaturas o guarismo no permitidos, el empleo de idioma distinto del castellano, la difícil legibilidad de caracteres, así como la defectuosa expresión de conceptos cuando por el contexto de la inscripción o de otras no hay duda sobre su contenido. Estas asientos se entenderán destruidos en la medida en que resulten ilegibles.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 299.**
+
+Para acreditar debidamente los hechos de que los asientos dan fe se requiere presentar títulos suficientes para la inscripción o justificar cumplidamente, mediante los propios asientos defectuosos, los documentos archivados, u otros medios que se practicaron en virtud de título adecuado.
+
+Se presumen acreditados:
+
+1.º Los extendidos en libros o registros que no corresponda.
+
+2.º En caso de intervención de funcionario ilegitimo, si se acredita que ejerció la función con diligencia y pericia ordinarias.
+
+3.º En las demás faltas, siempre que, al menos, se trate de inscripción firmada, extendida en libro, por orden sucesivo, con la debida constancia de la declaración o documento auténtico, en virtud del cual se practica.
+
+El anuncio a interesados en los tres casos anteriores puede ser general.
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 300.**
+
+La Dirección General puede dispensar de la traducción al castellano, que, sin embargo. deberá hacerse si hay petición de interesado; las certificaciones se expedirán siempre traducidas. En estos casos, la traducción se realizará sin expediente, por el encargado o persona con título facultativo idóneo, dando vista al Ministerio Fiscal.
+
+La dispensa será objeto de inscripción, como las resoluciones de estos expedientes.
+
+**Art. 301.**
+
+Basta expediente gubernativo para cancelar la inscripción practicada sobre hecho ya inscrito con las mismas circunstancias; en la cancelación se hará referencia al antiguo asiento al que serán trasladados los asientos marginales del cancelado,
+
+Si una inscripción contradice a otras en los hechos de que ambas dan fe, la rectificación sólo puede obtenerse en juicio ordinario, cuya anotación en ambos folios será solicitada por el Ministerio Fiscal.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 302.**
+
+Las resoluciones de los expedientes se limitarán a declarar los defectos formales de los asientos o las faltas en el modo de llevar los libros y a corregirlos, en su caso, sin determinar el alcance de la infracción en orden a la eficacia de los asientos.
+
+**Art. 303.**
+
+Son faltas en el modo de llevar los libros que no afectan directamente a inscripciones:
+
+1.º Los defectos de formato de los libros.
+
+2.º Las cometidas en la numeración o en la indicación alfabética de asientos o páginas. Si los defectos son numerosos se acodará numerar nuevamente en sentido inverso, con distinta tinta y sin borrar la numeración anterior; la numeración inversa de inscripciones no se practicará hasta que se extienda la diligencia de cierre.
+
+En los expedientes promovidos para corregirlas basta el anuncio general a interesados.
+
+**Art. 304.**
+
+No se requiere expediente para corregir:
+
+1.º Cualquier infracción en el modo de llevar los libros, incluso en la diligencia de apertura, cuando no se han practicado en ellos inscripciones.
+
+2.º La omisión de la diligencia de cierre o índices o cualquier infracción cometida en una u otros.
+
+##### Sección Cuarta. De la inscripción de resoluciones
+
+**Art. 305.**
+
+Las resoluciones denegatorias no serán objeto de inscripción, pero sí las que declaren la existencia de defectos formales de los asientos o de faltas en el modo de llevar los libros que afectan directamente a inscripciones firmadas, las de rectificación y corrección y las que completan una inscripción.
+
+**Art. 306.**
+
+La inscripción se practicará en el folio registral a que se refiere la resolución, y determinará las expresiones o conceptos que se cancelan y las que las sustituyen, el defecto o falta, a que afectan o las circunstancias que se agregan, con referencia a la inscripción rectificada, corregida, completada o afectada.
+
+**Art. 307.**
+
+En la resolución puede ordenarse, para mayor claridad del asiento y mayor seguridad de los correspondientes datos reservados, la cancelación del antiguo asiento con referencia a otro nuevo que, con las circunstancias a que se refiere el artículo anterior, lo comprenda y sustituya; tratándose de inscripciones principales, se trasladará todo el folio registral. Igual traslado total se realizará, a petición del interesado mayor de edad o de quien tenga la representación legal del menor, en los casos de rectificación o modificación de sexo o de filiación. En el caso de adopción, el traslado no requerirá expediente, y se estará, en cuanto a los datos de la nueva inscripción de nacimiento, a lo dispuesto en el segundo párrafo del artículo 77. De la nueva inscripción se podrán expedir certificaciones literales a favor de cualquier persona con interés en conocer el asiento.
+
+Se ordenará igualmente el traslado de los asientos practicados sin garantías de conservación y las difícilmente legibles o en peligro de destrucción o ilegibilidad.
+
+Si el traslado se refiere a numerosos asientos, podrá ordenarse la apertura de libros especiales; la cancelación se hará al margen da la diligencia de apertura del libro que pierda vigencia o, en su caso, al margen del primer folio afectado; se cruzarán las hojas con tinta de distinto color y se pondrá nota de referencia a la cancelación y a la nueva inscripción al margen de cada folio registral.
+
+Toda, inscripción principal trasladada hará referencia a la antigua.
+
+> Se modifica el párrafo primero por el art. único.3 del Real Decreto 820/2005, de 8 de julio. [Ref. BOE-A-2005-12704](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-12704).
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 308.**
+
+Se ordenará el cierre de los libros con defectos insubsanables; si contuvieren asientos vigentes se tomarán las medidas oportunas a su conservación, encuadernándolos, si fuere conveniente.
+
+**Art. 309.**
+
+Cuando un mismo defecto afecte a varios asientos de un folio registral, basta uno solo de corrección o declaración con referencia a todos ellos.
+
+Si afecta a varios folios, el órgano que dictó la resolución puede ordenar la inscripción de corrección o declaración con referencia a todos las asientos afectados, al margen de la diligencia de apertura, y si ésta faltare o se abrieren nuevos libros, al margen de la que se ordene extender, poniendo referencia en los folios afectados o en aquellos en que se extendieron los trasladados. Igualmente se procederá con las faltas en el modo de llevar los libros que no afecten directamente a inscripciones; pero si el asiento se extendiere al margen de la diligencia de apertura no se pondrá nota en cada folio.
+
+> Redactado el párrafo segundo conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 310.**
+
+Rectificada una inscripción, se rectificarán también, por nota, los demás asientos que, fundados en la misma, estuviesen igualmente equivocados o fueren incompletos.
+
+#### CAPÍTULO II — Del expediente para la inscripción de nacimiento fuera de plazo
+
+**Art. 311.**
+
+En la solicitud para la inscripción fuera de plazo se expresará que, realizada la investigación oportuna, no se ha encontrado inscripción de nacimiento o se presentará la correspondiente certificación negativa.
+
+**Art. 312.**
+
+En el expediente se investigará por las pruebas presentadas o de oficio:
+
+1.º Que no hay previa inscripción de nacimiento.
+
+2.º La existencia e identidad del nacido.
+
+3.º Cuantas circunstancias deban constar en la inscripción.
+
+**Art. 313.**
+
+En caso de duda sobre el sexo o edad del nacido, emitirá dictamen el Médico del Registro Civil o su sustituto.
+
+Para determinar el año y población de nacimiento basta la información de dos personas a quienes les conste de ciencia propia o por notoriedad; pero para precisar más el tiempo y lugar acreditados por notoriedad se procurará que concurran otras pruebas.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 314.**
+
+En cuanto a la filiación se estará a lo legalmente dispuesto.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 315.**
+
+Siempre que no produzca dilación superior a treinta días, deberán incorporarse al expediente:
+
+1.º El parte de alumbramiento, suscrito por Médico, Comadrona o Ayudante Técnico Sanitario o, en su defecto, la partida de bautismo o análoga de la religión correspondiente.
+
+2.º Certificado del matrimonio de los padres y, no siendo posible, la partida eclesiástica.
+
+3.º En su caso, certificación o parte oficial de la inscripción de nulidad, disolución o separación legal del matrimonio, aun la provisional, o de la muerte o declaración de ausencia o fallecimiento del marido.
+
+Esto se entiende sin perjuicio de las diligencias para mejor proveer, como la unión al expediente del certificado de empadronamiento, la práctica o ampliación de prueba testifical u otras.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 316.**
+
+Comprobada la existencia o identidad del no inscrito y realizadas las diligencias oportunas, se ordenará practicar la inscripción con cuantas circunstancias hayan quedado acreditadas.
+
+Caso de incompetencia, se remitirán las actuaciones, sin resolver, al órgano correspon-diente.
+
+#### CAPÍTULO III — De la reconstitución de inscripciones destruidas
+
+##### Sección Primera. De las medidas para caso de destrucción o deterioro
+
+**Art. 317.**
+
+El Encargado, en caso de siniestro, hará cuanto esté a su alcance para salvar los asientos y documentos, y a este efecto podrá requerir la ayuda de la autoridad gubernativa. Dará cuenta urgentemente de la destrucción o deterioro al Presidente del Tribunal Superior de Justicia.
+
+Si resultan afectadas Inscripciones de más de un folio registral, dará cuenta también a la Dirección General, y el Presidente del Tribunal Superior de Justicia, o el Magistrado en quien delegue, girará inmediatamente una visita extraordinaria de inspección, para la que podrá también delegar, tratándose de Registros en los que actúe el Juez de Paz, en el de Primera Instancia correspondiente. Siempre que resultare dudosa la culpabilidad del Encargado, será inmediatamente sustituido en las diligencias de salvamento y reconstitución.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 318.**
+
+El propio Encargado levantará urgentemente acta en la que consten clara y ordenadamente las circunstancias del siniestro y tomos y legajos siniestrados, con especificación detallada, por orden de páginas, asientos o documentos, de su estado, del de las tintas y de su legibilidad y copia literal de los asientos y documentos en peligro de destrucción o ilegibilidad que no pudieran ser inmediatamente trasladados.
+
+Cuando los folios y libros no tengan garantías para la conservación o resulten difícilmente legibles o en peligro de destrucción o ilegibilidad, eI citado Encargado trasladará los asientos, conforme a lo dispuesto sobre traslados por rectificación o corrección, en cuanto sea aplicable. El traslado será intervenido por el Ministerio Fiscal, que firmará también los asientos.
+
+Si la urgencia del salvamento no permite el traslado ni las transcripciones literales en el acta, se procurarán reproducciones foto o fonográficas tomadas y custodiadas oficialmente, las que serán apreciadas discrecionalmente en el procedimiento.
+
+**Art. 319.**
+
+Los libros salvados deberán encuadernarse interpolándose una hoja en sustitución de cada grupo de folios correlativos intermedios que falten, en la que se hará constar que desaparecieron o se inutilizaron, con referencia al acta en que se acredite, y en su día, a la reconstitución con indicación del tomo y página.
+
+Al margen de la diligencia de apertura se diligenciará el alcance del siniestro en el libro deteriorado.
+
+Los folios no susceptibles de encuadernación y los documentos archivados salvados se conservarán en carpetas ordenadas por tomos, libros y legajos.
+
+**Art. 320.**
+
+Los asientos, incluso los del Libro de Personal y Oficina, se reconstituirán en virtud de expediente.
+
+Se reconstituirán sin necesidad de expediente:
+
+1.º Los índices, ficheros y legajos, salvo el de notas marginales, por lo que resulte de los folios salvados. En los legajos constarán las circunstancias del hecho de que especialmente dé fe cada inscripción.
+
+2.º Las notas marginales.
+
+##### Sección Segunda. Del expediente de reconstitución
+
+**Art. 321.**
+
+El expediente se iniciará de oficio en cuanto lo permitan las circunstancias excepcionales que impidan o perturben el funcionamiento del Registro. El plazo para su tramitación se fijará por el Presidente del Tribunal Superior de Justicia dentro de los quince días siguientes a la apertura, y lo comunicará seguidamente a la. Dirección General; su duración será de ochenta días, que podrá ampliase en diez más por cada cuatrocientas páginas o fracción de ellas que hayan sido destruidas o deterioradas.
+
+La Dirección General puede prorrogar discrecionalmente el plazo por el tiempo necesario, a petición fundada del Encargado o de quien ostente interés especial; la prórroga tendrá también la conveniente publicidad.
+
+El Presidente del Tribunal Superior de Justicia velará porque la reconstitución termine dentro del plazo, exigiendo, a este efecto, las informaciones que estime oportunas sobre el curso del expediente.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 322.**
+
+Podrá también promoverse reconstitución de asientos fuera de plaza hábil. Si el expediente seguido en tiempo oportuno hubiere sido anunciado a los interesados, los hechos que sólo producen efecto contra tercero desde su inscripción dejarán de producirlo mientras no se verifique la reinscripción.
+
+Aun cuando la nueva inscripción no exprese el carácter de reinscripción, se pueden emplear otros medios de prueba para demostrar la previa inscripción.
+
+Respecto de todo o parte de una inscripción practicada o no en plazo de reconstitución, puede hacerse constar, si llega a acreditarse, su carácter de reinscripción.
+
+**Art. 323.**
+
+En este expediente basta el anuncio general a interesados, que se hará inmediatamente a la fijación del plazo, con mención de éste y concediéndoles treinta días para que puedan formular alegaciones y constituirse en parte.
+
+**Art. 324.**
+
+Para acreditar la inscripción destruída se admite cualquier medio de prueba y se tendrán preferentemente en cuenta:
+
+1.º Las certificaciones de ella o de inscripciones duplicadas y los Libros de Familia y Filiación.
+
+2.º Las inscripciones canceladas por traslado.
+
+3.º Los restos salvados de la parcialmente destruída.
+
+4.º Las referencias a la destruída en otros asientos, notas marginales, legajos, índices y ficheros.
+
+5.º Las copias, testimonios, certificaciones o duplicados que sirvieron de título a la inscripción, o los originales, matrices o libros diarios de los funcionarios a que se refiere el artículo 19 de la Ley o de otros en que conste consignada.
+
+6.º Las copias o testimonios de certificaciones o partes y cualquier documento en que conste la mención auténtica de la inscripción o de su certificación.
+
+7.º Las certificaciones de los libros de cementerios.
+
+8.º Los documentos mencionados expedidos por autoridades o funcionarios ilegítimos.
+
+Se dará preferencia a los documentos existentes al tiempo de la destrucción en el Archivo Provincial del Registro Civil, Juzgado, Registros, Notarías u otras oficinas públicas que, originales o por traslado, lleguen al expediente por vía oficial. A este efecto serán reclamados de oficio.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 325.**
+
+Para precisar las circunstancias de los hechos que se reinscriban se requerirá, en cuanto sea posible:
+
+1.º Los documentos auténticos en cuya virtud puede practicarse la inscripción.
+
+2.º Las partidas canónicas y certificaciones de Registros extranjeros, libros de cementerios y de empadronamiento, los documentos extranjeros o de autoridades o funcionarios llegítimos y los demás medios convenientes o exigidos en expediente destinado a practicar la correspondiente inscripción.
+
+**Art. 326.**
+
+Los asientos serán reconstituidos con todos los datos y circunstancias que tuvieren, aunque fueren irregulares o defectuosos. Cuando procedan rectificaciones u otras alteraciones en virtud de expediente, se hará constar en las reinscripciones las que se produzcan.
+
+La acumulación de otros expedientes al de reconstitución se entiende sin perjuicio del régimen especial de cada uno y, en su caso, de la necesaria aprobación judicial de éstos.
+
+##### Sección tercera. De las reinscripciones
+
+**Art. 327.**
+
+A medida que vayan resultando acreditadas las antiguas inscripciones se acordarán las reinscripciones con las circunstancias y asientos marginales probados, incluso con indicación del tomo y página; el acuerdo se reflejará sucintamente con fecha y firma en el documento principal que vaya al legajo o en uno especial.
+
+El acuerdo será notificado oralmente a quien proceda; quien pretenda recurrir exigirá que se formule el auto y se notifique en forma.
+
+Las reinscripciones se practicarán seguidamente observando, en lo posible, un orden cronológico, según los hechos de que den fe, y sin dejar huecos para las recurridas, que se extenderán cuando la resolución sea firme.
+
+> Redactado el párrafo tercero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 328.**
+
+La resolución puede ordenar según convenga, para la claridad y conservación:
+
+a) El traslado de todos los asientos de un folio registral a otro de los libros corrientes, con sujeción a las reglas referidas en el artículo 318.
+
+b) La extensión del asiento reconstruído en el folio antiguo o en aquel a que, en su caso, hubieren sido trasladados los demás asientos de él.
+
+Si la reconstitución afecta a numerosos asientos podrá ordenarse la apertura de libros especiales, circunstancia que expresarán las diligencias, de apertura y cierre.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 329.**
+
+En cada asiento o folio reconstituido constará:
+
+1.º La reproducción de los asientos en los términos acordados.
+
+2.º La resolución en cuya virtud se practica la reconstitución.
+
+3.º La fecha de los nuevos asientos y los nombres de los funcionarios que los autoricen.
+
+**Art. 330.**
+
+Los antiguos asientos parcialmente destruídos, serán cancelados, haciendo referencia a los nuevos.
+
+La cancelación que afectare a numerosos asientos se hará al margen de la diligencia de apertura o, en su defecto, en el primer folio afectado; se cruzarán todos los folios con tinta de distinto color y se pondrá nota de referencia a la cancelación y a la nueva inscripción, al margen de cada incripción principal.
+
+**Art. 331.**
+
+Las inscripciones principales reconstruídas en tomo distinto de aquel al cual corresponden las originarias, según el tiempo del hecho, se reflejarán también en el índice del antiguo, con indicación de la página y tomo, salvo si estuvieren cancelados los asientos primitivos correspondientes.
+
+Las practicadas en tomo distinto del destinado a contener las reconstituciones por la fecha del hecho se reflejarán en el índice del último, con indicación del tomo y página en que se encuentra.
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 332.**
+
+Los documentos utilizados para la reconstitución, menos los libros, índice y los que hayan de devolverse se archivarán nuevamente como título de cada nuevo asiento.
+
+El que haya servido a más de un asiento se archivará según cualquiera de ellos, haciéndose en el legajo, en el lugar respectivo de los demás asientos, las referencias oportunas.
+
+Del que haya de devolverse quedará, referencia suficiente en el legajo.
+
+**Art. 333.**
+
+A los hechos o circunstancias cuya inscripción no resulte y que estén acreditados por título suficiente para practicarla se aplicarán las reglas de reconstitución, en cuanto al folio registral en que ha de extenderse y referencia en índices; en lo demás se aplicarán las normas ordinarias.
+
+Es objeto de anotación el resultado de las investigaciones que, por falta de prueba, no pueda serlo de inscripción.
+
+**Art. 334.**
+
+Terminado el expediente se dará cuenta a la Dirección General, a través del Presidente del Tribunal Superior de Justicia, del número y clase de asientos reconstituidos, de los practicados sin este carácter y de la medida en que no pudo realizarse la reconstitución ordenada.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+#### CAPÍTULO IV — De los expedientes para declaraciones con valor de simple presunción
+
+**Art. 335.**
+
+Respecto de los expedientes para declaraciones con valor de simple presunción, es competente el Encargado del Registro del domicilio del solicitante.
+
+Para el expediente a que se refiere el artículo 339 es competente, a elección del solicitante, el Encargado del Registro correspondiente al lugar de celebración del matrimonio o el del domicilio del promotor.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 336.**
+
+Los hechos y la imposibilidad de acceso al Registro, cuando no sean notorios, se acreditarán por los peticionarios:
+
+1.º Con los medios establecidos para la reconstitución de la inscripción.
+
+2.º Con los documentos auténticos en cuya virtud puede practicarse o por las pruebas establecidas para el expediente previo a la inscripción.
+
+3.º En último término, por los demás medios de prueba, teniendo en cuenta, en su caso, la posesión de estado. Cuando la Ley establece especiales medios de prueba se estad a lo en ella dispuesto.
+
+El domicilio de los apátridas se acreditará por certificación municipal o información testifical; se recabará informe oficial al Ministerio del Interior sobre su entrada en territorio español y sobre su condición de apátrida.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 337.**
+
+También pueden ser declarados con valor de simple presunción los hechos relativos al estado civil de un extranjero, residente o domiciliado en España, en tanto que por su condición de refugiado o asilado o por cualquier razón de fuerza mayor no pueda conseguir las certificaciones o pruebas normalmente acreditativas de tales hechos.
+
+Salvo petición del interesado, la anotación que en su virtud haya de extenderse en el Registro Civil Central no será objeto de asiento duplicado en el Registro Consular español del país del refugiado o asilado.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 338.**
+
+Las declaraciones sobre nacionalidad o vecindad civil podrán referirse a determinada edad del sujeto. En el expediente se probará la adquisición y la posesión de estado, y si puede accederse al Registro, la inexistencia, en el folio registral de nacimiento de asiento que contradiga la declaración que se pretende.
+
+**Art. 339.**
+
+Puede declararse con valor de simple presunción el matrimonio, cuya celebración conste, y que, sin embargo, no pueda ser inscrito por no haberse acreditado debidamente los requisitos exigidos para su validez por el Código Civil.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1978, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 340.**
+
+El testimonio, literal o en extracto, de las declaraciones, expresará siempre su valor de simple presunción y su expedición quede sujeta a las restricciones de publicidad establecidas para las certificaciones registrales.
+
+La anotación de las declaraciones es obligatoria, y precisará la fecha a que éstas se refieren; la anotación de fes de vida o estado es facultativa.
+
+> Se sustituye la expresión "fe de vida, soltería o viudez" por la expresión "fe de vida o estado" por el art. 3 del Real Decreto 1917/1986, de 29 de agosto . [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861)
+
+#### CAPÍTULO V — De las reglas de los expedientes en general
+
+> Téngase en cuenta que prevalecerá el Real Decreto 1004/2015, de 6 de noviembre, por el que se aprueba el Reglamento por el que se regula el procedimiento para la adquisición de la nacionalidad española por residencia sobre lo dispuesto en los artículos 341 a 362 del presente Reglamento de la Ley del Registro Civil, que mantendrán sin embargo su vigencia en la medida en que resulten aplicables a otros procedimientos, según establece la disposición final 2 del citado Real Decreto. [Ref. BOE-A-2015-12047](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12047).
+
+##### Sección Primera. De sus presupuestos y tramitación
+
+**Art. 341.**
+
+Los expedientes gubernativos, a que se refiere esta legislación, se sujetarán, a falta de reglas especiales, a lo establecido en este capítulo.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 342.**
+
+Es competente el Juez Encargado a que correspondiere el Registro donde deba inscribirse la resolución pretendida. Si la inscripción hubiera de practicarse en los Registros Consular y Central la competencia será del primero si el promotor está domiciliado en el extranjero, y del segundo, en otro caso.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 343.**
+
+El expediente será instruido por el propio Encargado, quien, oído el Ministerio fiscal, dictará en forma de auto la resolución que proceda.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 344.**
+
+El Ministerio fiscal conocerá los expedientes y recursos desde su iniciación para velar por la instrucción y tramitación adecuada, y emitirá informe como último trámite previo a la resolución del Juez correspondiente.
+
+El Ministerio fiscal, antes de su informe definitivo, puede proponer las diligencias o pruebas oportunas. Igualmente puede ampliar, modificar u oponerse a la pretensión deducida, sobre lo cual se oirá a los interesados. Aunque a su juicio haya alguna razón procesal bastante para la oposición, ésta deberá incluir, a la vez, todas aquellas, procedimentales o de fondo, que impidan acceder a lo solicitado.
+
+Los Fiscales de Paz sólo pueden actuar en las diligencias encomendadas a los Jueces de Paz.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 345.**
+
+Los expedientes de la competencia de órganos judiciales y del Registro Civil Central se tramitan con la intervención del Secretario respectivo.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 346.**
+
+Tienen interés legítimo en un expediente los que por él pueden resultar afectados directamente en su estado bienes o derechos o sus herederos. Para promover un expediente, basta el interés en confirmar un asiento vigente o el estado que ya tiene.
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 347.**
+
+Los expedientes para los que es competente un mismo órgano pueden ser acumulados de oficio, si así se estima conveniente, o a petición fundada de parte.
+
+La parte que no la haya pedido puede solicitar la tramitación separada. si la acumulación no está fundada en causa legal.
+
+**Art. 348.**
+
+La solicitud para iniciar el expediente se dirigirá al órgano que ha de resolver, contendrá las menciones conocidas de identidad del promotor y de quienes tengan interés legítimo, expondrá sucinta y numeradamente los hechos, las pruebas y diligencias que acompañe y proponga y Ios fundamentos de derecho y fijará con claridad y precisión lo que se pida.
+
+Las solicitudes que tiendan a concordar el Registro con la realidad, aunque sean defectuosas, deberán admitirse y se informará a los interesados sobre el modo de subsanar los defectos.
+
+Formulada solicitud ante el Registro del domicilio del promotor, el Encargado instruirá las diligencias oportunas con intervención del Ministerio Fiscal, quien emitirá informe, y en unión del suyo propio, dará al expediente el curso reglamentario.
+
+Para la recepción de la solicitud y práctica de las diligencias de auxilio, son competentes los Jueces de Paz.
+
+Tanto los Procuradores como los Abogados podrán asistir con el carácter de apoderados o con el de auxiliares de los interesados, cuando éstos quieran valerse espontáneamente de ellos.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 349.**
+
+La incoación se notificará a quienes tengan interés legítimo. Se investigará de oficio si hay más interesados que los mencionados en la solicitud y el paradero de todos ellos.
+
+En lo no previsto en esta legislación, toda notificación se ajustará a lo establecido en las leyes procesales. Sin embargo y salvo cuando se exija notificación personal, las notificaciones podrán hacerse también mediante carta certificada, telegrama o cualquier otro medio que permita tener constancia de la recepción, de la fecha y de la identidad del acto notificado, y se dirigirán al domicilio del interesado o al lugar señalado por éste para las notificaciones. En su caso, la cédula de notificación será fechada y sellada por el funcionario de Correos antes de ser certificada y se unirá al expediente el resguardo del certificado.
+
+Cuando no conste el paradero de algún interesado, se hará la notificación por anuncio general de la incoación mediante edictos fijados en el tablón de anuncios del Registro y en el de las oficinas que se juzgue oportuno. En expediente relativo a numerosos asientos, basta que el anuncio determine la Sección y fecha de los hechos de que dan fe las inscripciones principales afectadas.
+
+Si se estima conveniente por la índole de la cuestión cabe que, además de las notificaciones, se haga también anuncio general de la incoación por edictos o cualquier otro medio de publicidad; la inserción en periódicos oficiales u otros medios de información general sólo cabe si la causa es grave y lo ordena la autoridad que haya de resolver el expediente. No obstante, a petición y costa del interesado, se ordenará la publicidad que proponga, si no hubiera en ello afrenta a personas u otro inconveniente.
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 350.**
+
+La citación a los infractores de disposiciones sobre Registro Civil en los expedientes motivados por la infracción se rige por las reglas del artículo anterior; las diligencias sobre imposición de costas no suspenden el curso y resolución del expediente.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 351.**
+
+La certeza de los hechos será investigada de oficio sin perjuicio de la carga de la prueba que incumba a los particulares; los infractores tienen esta carga en el expediente motivado por la infracción.
+
+La prueba se practicará con intervención libre y directa del órgano competente, y si comparecieran, del Ministerio Fiscal y de las partes. Antes de tomar declaración se advertirá al declarante la especial responsabilidad en que puede incurrir.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 352.**
+
+Hay tres días hábiles:
+
+1.º Para que los notificados en domicilio situado en la población donde se sigue el expediente se personen o, sin constituirse en parte, hagan sus alegaciones. Para los demás interesados residentes en la población, el plazo será de diez días, a partir del último de la publicación del anuncio.
+
+2.º Para que los constituídos en parte, visto el expediente, hagan sus alegaciones.
+
+3.º Para citar después al Ministerio Fiscal y también a las partes para la práctica de la prueba, y a fin de que éstas en el mismo acto conozcan lo instruído y expongan cuanto a su derecho conduzca. A esta comparecencia podrá concurrir, para hablar en su nombre, la persona que cada parte elija.
+
+4.º Para cualquier diligencia dentro de la población.
+
+5.º Para que el Ministerio Fiscal evacue sus informes.
+
+6.º Para dictar, tras el último informe, auto resolviendo el expediente y para la ulterior notificación de éste al Ministerio Fiscal y a las partes.
+
+En los casos primero, segundo y cuarto el plazo podrá ampliarse hasta diez días hábiles si lo exigen la gravedad o las circunstancias de la causa. También podrá disponerse que, practicada la prueba, se concedan hasta diez días hábiles a cada parte para que, sucesivamente, puedan conocer lo instruido y exponer cuanto a su derecho conduzca.
+
+Para personarse los no residentes en la población y para hacer sus alegaciones o para las diligencias fuera de aquélla se señalarán plazos adecuados.
+
+**Art. 353.**
+
+Mientras no recaiga resolución definitiva de un expediente o recurso, los promotores o partes pueden desistir de sus pretensiones por escrito u oralmente mediante comparecencia debidamente diligenciada.
+
+El desistimiento de una parte será comunicado a las demás y al Ministerio Fiscal, quienes podrán instar la continuación del expediente dentro de los diez días hábiles siguientes a la notificación.
+
+**Art. 354.**
+
+La práctica de una diligencia no paralizará las demás que sean compatibles.
+
+Se evitará toda dilación o trámite superfluo o desproporcionado con la causa. En otro caso, las partes podrán recurrir en queja ante el Presidente del Tribunal Superior de Justicia, y, si éste no lo corrige, ante la Dirección General. Igualmente cabrán quejas por omisión de trámites que puedan subsanarse antes de la resolución definitiva.
+
+El Ministerio fiscal o el órgano de oficio suplirá la pasividad de las partes en el cumplimiento de sus deberes, sin perjuicio de las multas que procedan conforme a la Ley. Transcurridos tres meses desde que un expediente o recurso se paralice por culpa del promotor o promotores, el Ministerio fiscal y las demás partes, unánimemente, podrán pedir que se declare su caducidad, previa citación al promotor o promotores.
+
+En el despacho de los expedientes se guardará el orden riguroso de incoación en asuntos de homogénea naturaleza, salvo que se dé orden motivada y escrita en contrario por el inmediato superior.
+
+Los interesados tendrán derecho a ser informados en cualquier momento del estado de la tramitación.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+##### Sección Segunda. De los recursos
+
+**Art. 355.**
+
+Las resoluciones del Encargado no admitiendo el escrito inicial o poniendo término al expediente son recurribles ante la Dirección General durante quince días hábiles, a partir de la notificación.
+
+No cabe recurso, remedio o queja ante otros órganos.
+
+La notificación de las resoluciones expresará si son definitivas o el recurso que proceda, órgano ante quien haya de interponerse y plazo para entablarlo. La notificación defectuosa será eficaz respecto de la parte que consienta expresamente la resolución o interponga el recurso pertinente; asimismo surtirá efectos por el transcurso de seis meses la practicada personalmente a la parte si contuviera el texto íntegro de la resolución, salvo que se hubiere hecho protesta formal dentro de este plazo en solicitud de rectificación de la deficiencia.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 356.**
+
+El Encargado del Registro resolverá en el plazo de tres días naturales toda solicitud que no dé lugar a expediente.
+
+Contra toda decisión, sea o no de oficio, no comprendida en el artículo anterior, cabe recurso de reposición y, posteriormente, el recurso a que se refiere el mismo artículo.
+
+Estas normas no modifican las establecidas sobre recursos contra la calificación registral.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 357.**
+
+Cuando se formule cualquier solicitud o recurso y no se notificare resolución en el plazo de noventa días naturales, el interesado podrá denunciar la mora, y transcurridos otros noventa días desde la denuncia podrá considerar desestimada su petición al efecto de deducir, frente a esta denegación presunta, el correspondiente recurso o esperar la resolución expresa de su petición.
+
+La denegación presunta no excluirá el deber de dictar una resolución expresa, y si recayera ésta, el plazo para formular el recurso que proceda se contará desde la notificación de la misma.
+
+**Art. 358.**
+
+El escrito de recurso se ajustará a las formas de la solicitud y determinará con claridad y precisión los extremos objeto de la reclamación.
+
+Sólo podrán ser discutidas las cuestiones relacionadas directa e inmediatamente con la decisión recurrida. Podrán rechazarse los documentos a pruebas que pudieron presentarse oportunamente, salvo que sea de interés público su admisión.
+
+En los recursos contra la calificación registral, no podrán fundarse peticiones en títulos no presentados en tiempo y forma.
+
+El recurso puede presentarse ante cualquier órgano del Registro Civil. Se dará inmediato traslado al órgano cuya decisión se recurra, quien lo notificará en su caso, a la otra parte, y siempre al Ministerio Fiscal, y con las alegaciones de los notificados e informe del propio órgano, se elevará al competente. Esto podrá ordenar diligencias para mejor proveer, con citación y audiencia de las partes y del Ministerio Fiscal.
+
+Si el fallo recorrido se hubiera limitado a declarar la falta de presupuestos del procedimiento y tal falta no fuera apreciada, el órgano decisor podrá resolver por sí la cuestión de fondo o devolver las actuaciones. De apreciarse falta de presupuestos o la omisión de un trámite esencial, el órgano decisor podrá, bien reponer las actuaciones, bien, una vez subsanado aquel defecto dentro de la tramitación misma del recurso, resolver ya sobre el fondo.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 359.**
+
+La Dirección General resolverá el recurso dentro de los treinta días hábiles siguientes a su recepción o, en su caso, a la terminación de todas las diligencias.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 360.**
+
+El Director resolverá sobre la propuesta formulada por el Subdirector.
+
+La resolución se dictará en forma análoga al auto, y se publicará en el «Boletín de Información del Ministerio de Justicia», en el anuario del Centro directivo y, cuando sea conveniente, en el «Boletín Oficial del Estado».
+
+Si se alegasen o discutieren hechos que afecten a cuestiones matrimoniales, al honor privado o sobre las cuales no se pueda certificar libremente, la Dirección General adoptará medidas para que no trascienda la identidad de los interesados. Si al resolver se hiciera alguna advertencia a funcionarios, se omitirá su expresión empleando la frase «y lo demás acordado».
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 361.**
+
+La resolución del recurso será notificada al Ministerio Fiscal y partes a través del órgano cuya decisión se recurrió en primera instancia.
+
+Firme la resolución, se remitirá a este último el expediente a su archivo.
+
+**Art. 362.**
+
+Contra las resoluciones de la Dirección no cabe recurso alguno, salvo cuando corresponda la vía judicial ordinaria y sin perjuicio de lo dispuesto en el capítulo VII.
+
+#### CAPÍTULO VI — De la fe de vida o estado
+
+> Se modifica por el art. 2 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 363.**
+
+La vida, estado de soltero, viudo o divorciado se acreditan por la correspondiente fe del Encargado.
+
+La vida se acredita también por comparecencia del sujetó o por acta notarial de presencia, y el estado de soltero, viudo o divorciado, por declaración jurada o afirmación solemne del propio sujeto o por acta de notoriedad.
+
+Ningún órgano oficial, ante quien la vida se acredite por comparecencia del sujeto o el estado de soltero, viudo o divorciado por aquella manifestación podrá exigir otros medios de prueba, sin perjuicio de la investigación de oficio que proceda en caso de duda fundada. Por los órganos oficiales se advertid previamente al declarante la responsabilidad penal en que puede incurrir.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 364.**
+
+El expediente de fe de vida o estado se ajustará a las siguientes normas:
+
+1.ª Es competente el Encargado y, por delegación, el Juez de Paz del domicilio del sujeto a que se refiere.
+
+2.ª No se requiere audiencia del Ministerio fiscal ni comunicación a interesados, pero aquél o éstos pueden constituirse en parte o hacer las manifestaciones que estimen oportunas.
+
+3.ª Siempre que sea posible se pedirá declaración al propio sujeto sobre su identidad o estado.
+
+4.ª Para la fe de vida, basta la identificación del sujeto.
+
+5.ª Cuando se trate de declarar el estado, se abrirá a cada persona una ficha en la que se indicará el lugar y fecha de nacimiento. La apertura se comunicará al Registro de nacimiento, a fin de que la consigne por nota al margen de la inscripción y comunique, para su constancia en la ficha y efectos en los expedientes las notas marginales de matrimonio y defunción ya practicadas o según se vayan produciendo. La declaración, que se reseñará en la ficha, no puede demorarse por falta de inscripción de nacimiento o del obligado acuse de recibo con la indicación de haberse practicado la nota marginal.
+
+6.ª Para el estado de soltero, viudo o divorciado se acreditará suficientemente su posesión, salvo que al Encargado le conste, y basta para acreditarlo la declaración jurada de una persona, preferentemente familiar.
+
+7.ª Se tramitará con urgencia, y siempre dentro del plazo máximo de cinco días hábiles.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+#### CAPÍTULO VII — De los expedientes de la competencia del Ministerio o Autoridad superior y de nombres y apellidos.
+
+> Téngase en cuenta que prevalecerá el Real Decreto 1004/2015, de 6 de noviembre, por el que se aprueba el Reglamento por el que se regula el procedimiento para la adquisición de la nacionalidad española por residencia sobre lo dispuesto en los artículos 365 a 369 del presente Reglamento de la Ley del Registro Civil, que mantendrán sin embargo su vigencia en la medida en que resulten aplicables a otros procedimientos, según establece la disposición final 2 del citado Real Decreto. [Ref. BOE-A-2015-12047](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12047).
+
+> Se modifica la rúbrica por el art. 2 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 365.**
+
+Los expedientes de nacionalidad que sean de la competencia del Ministerio, los de cambio o conservación de nombre y apellidos y los de dispensa para matrimonio serán instruidos, conforme a las reglas generales, por el Encargado del Registro Municipal del domicilio de cualquiera de los promotores. Si todos los peticionarios estuvieran domiciliados en país extranjero se instruirán por el Cónsul del domicilio de cualquiera de ellos o, en su defecto, por el Encargado del Central.
+
+Resueltos por el Encargado los de su competencia, los demás se elevarán directamente a la Dirección, que podrá ordenar su ampliación con nuevas diligencias y, en este caso, se oirá nuevamente al Ministerio fiscal.
+
+Los de nacionalidad, cuya resolución corresponda al Gobierno, serán instruidos por la Dirección General, que podrá comisionar al efecto al Encargado del Registro del domicilio, sin que, en ningún caso, se requiera anuncios generales ni audiencia del Ministerio fiscal.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 366.**
+
+Cuando la concesión sea otorgable discrecionalmente o cuando dependa de circunstancias excepcionales o de motivos de orden público o interés nacional, los Encargados instructores y el Subdirector en sus propuestas se limitarán a enjuiciar los requisitos de fondo y forma, y a destacar los hechos probados o notorios que puedan ilustrar para la decisión.
+
+La resolución denegatoria se comunicará en estos casos a la Dirección General para que ordene las notificaciones que procedan.
+
+No es imperativa la resolución de peticiones de gracia. Se librará recibo de su presentación.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 6 de marzo. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 367.**
+
+El Ministro de Justicia resuelve en forma de Orden, a propuesta de la Dirección General, previo informe de la Subdirección respectiva.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 368.**
+
+Las concesiones y demás resoluciones serán notificadas a las partes a través del Encargado competente para la instrucción del expediente.
+
+**Art. 369.**
+
+El cambio de nombre y apellidos aprobado por el Ministro al conceder la nacionalidad no podrá inscribirse, y así se advertirá en la resolución, mientras que el sujeto afectado no se inscriba como español.
+
+### TÍTULO VII — Régimen económico
+
+**Art. 370.**
+
+Son gratuitas:
+
+1.º Las declaraciones de nacimiento y defunción.
+
+2.º Los expedientes de fe de vida, o de vida y estado.
+
+3.º Las diligencias y certificaciones de los Libros de Familia, por los que sólo podrá cobrarse el precio del impreso fijado por el Ministerio de Justicia.
+
+4.º Las actuaciones señaladas por la Ley con tal carácter y, en general, todas las que no devenguen derechos especialmente señalados en arancel legalmente aprobado.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 371.**
+
+En los expedientes no gratuitos los recursos serán gratuitos cuando la resolución sea total o parcialmente estimatoria. En los gratuitos, los recursos también lo serán, salvo que sea vencido en todas las instancias el particular recurrente, quien, en tal supuesto, satisfará las costas, si en la última resolución se aprecia temeridad.
+
+Las costas del expediente de cambio de nombre y apellidos a que se refiere el número 2.º del artículo 209 se impondrán al infractor, que, a este efecto, será previamente citado.
+
+**Art. 372.**
+
+Los que tengan ingresos no superiores al doble del salario mínimo interprofesional gozarán de exención de toda clase de derechos en las actuaciones del Registro Civil, incluso los de urgencia y auxilio registral, debiendo expedirse por correo oficial la correspondencia relativa a sus solicitudes.
+
+Aquella circunstancia se acreditará por escrito del Alcalde o de la Tenencia de Alcaldía no anterior en un año a su presentación.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 373.**
+
+Al pie de toda certificación o fe de vida o estado, que devenguen derechos, se hará constar su importe total, con expresión de las diversas partidas que lo integran y de los preceptos concretos que autorizan la percepción.
+
+En la resolución que pone término a un expediente se expresará si devenga derechos y la persona obligada a su pago.
+
+En toda certificación o fe de vida o estado gratuita constará este carácter, precepto que autoriza la exención y su ineficacia para casos o fines no exentos.
+
+Incurrirán en especial responsabilidad los funcionarios que infrinjan lo dispuesto en este artículo.
+
+> Se sustituye la expresión "fe de vida, soltería o viudez" por la expresión "fe de vida o estado" por el art. 3 del Real Decreto 1917/1986, de 29 de agosto . [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861)
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 374.**
+
+No devengan derechos las certificaciones y fes de vida o estado solicitadas:
+
+1.º Por las personas mencionadas en el artículo 372.
+
+2.º Para surtir efectos en expedientes de familia numerosa.
+
+3.º Por los asegurados y derechohabientes para la Seguridad Social obligatoria y percepción de sus beneficios.
+
+4.º Por Misiones Diplomáticas o Consulados extranjeros, en régimen de reciprocidad.
+
+5.º Por cualquier Organismo oficial o eclesiástico.
+
+6.º Por los que aporten el impreso oficial para extenderlas, con cita de la disposición de exención, aprobado por la Dirección y sellado por la oficina pública en que aquellas hayan de surtir efecto.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+**Art. 375.**
+
+El peticionario de certificaciones anticipará su total importe y el de los gastos de correo, giro y auxilio registral, en su caso, contra entrega de recibo, en el que constará inexcusablemente la cantidad anticipada.
+
+Serán cumplimentadas las peticiones de certificaciones que se reciban directamente por correo, siempre que se gire cantidad bastante para cubrir los gastos totales de expedición.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 376.**
+
+Las multas y costas causadas por infracciones serán condonadas cuando el responsable haya instado, de modo espontáneo, lo procedente para repararlas.
+
+No podrán imponerse costas a los funcionarios del Registro sin especial expediente de responsabilidad, pero en ningún caso se impondrán a los particulares las motivadas por infracciones cometidas por aquéllos.
+
+El particular que culposamente provoque desplazamientos u otros gastos innecesarios de los funcionarios del Registro será condenado a su resarcimiento en papel de pagos al Estado, sin perjuicio de la multa que corresponda.
+
+**Art. 377.**
+
+Las tasas y exacciones que se devenguen en compensación de servicios o que, en su caso, correspondan a organismos y funcionarios del Registro Civil se administrarán y distribuirán conforme legalmente se establezca.
+
+### TÍTULO VIII — De los Médicos del Registro
+
+**Art. 378.**
+
+Las funciones que la Ley sobre el Registro Civil atribuye a los médicos del Registro Civil serán desempañadas por funcionarios del Cuerpo de Médicos Forenses. Por regla general estas funciones se desempeñarán conjuntamente con las demás propias de este Cuerpo, pero, excepcionalmente, podrá haber puestos de trabajo adscritos exclusivamente a funciones del Registro Civil.
+
+Los médicos forenses en el ejercicio de sus funciones en el Registro Civil están también sometidos a la inspección y control de los órganos encargados del Registro Civil.
+
+> Se modifica por el art. 1.1 del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+**Art. 379.**
+
+Respecto a las defunciones ocurridas en Centros sanitarios militares, en playas, mar, cuarteles, aeródromos y, en general, todas aquellas en que por disposición especial corresponde a Médicos castrenses el reconocimiento de cadáveres, dichos facultativos asumirán las funciones de Médicos del Registro Civil.
+
+> Se modifica por el art. 1.2 del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+**Art. 380.**
+
+El médico forense adscrito al Registro Civil, en los registros en que exista, o el médico forense al que correspondan las funciones relativas al Registro Civil, será sustituido en los casos en que legítimamente proceda por otro que sirva en el mismo Registro, si lo hubiera, por otro médico forense o, en su defecto, por el médico correspondiente de atención primaria de salud o el equivalente en la organización sanitaria.
+
+> Se modifica por el art. 1.3 del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+**Art. 381.**
+
+En los dictámenes sobre la causa de la muerte a que se refiere el artículo 85 de la Ley del Registro Civil, no podrá actuar el médico que hubiera emitido el certificado de defunción o prestado asistencia al finado en su última enfermedad.
+
+> Se modifica por el art. 1.4 del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+**Art. 382.**
+
+**(Derogado)**
+
+El Juez encargado es el superior jerárquico inmediato de los Médicos que estén adscritos al Registro. La Inspección velará por el buen funcionamiento del servicio.
+
+> Se deroga el párrafo primero por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+**Art. 383.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 384.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+**Art. 385.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 166, de 12 de julio de 1969. [Ref. BOE-A-1969-868](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-868).
+
+**Art. 386.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 387.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Art. 388.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 389.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 390.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+**Art. 391.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Decreto 1778/1971, de 8 de julio. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 166, de 12 de julio de 1969. [Ref. BOE-A-1969-868](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-868).
+
+**Art. 392.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 393.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+**Art. 394.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+> Redactado el último párrafo conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 395.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+**Art. 396.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 397.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 398.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 399.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+**Art. 400.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 401.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Redactado el párrafo tercero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 402.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. [Ref. BOE-A-1969-745](https://www.boe.es/buscar/doc.php?id=BOE-A-1969-745).
+
+**Art. 403.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Art. 404.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Art. 405.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1986. [Ref. BOE-A-1986-26429](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26429).
+
+**Art. 406.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+**Art. 407.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+**Art. 408.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+**Disposición transitoria primera.**
+
+Se inscribirán o anotarán los hechos que hayan de servir de base a asientos marginales, aun cuando no estuvieren sujetos al Registro conforme a la Ley que se deroga.
+
+**Disposición transitoria segunda.**
+
+Las reglas sobre manifestación de libros y certificaciones se aplican, aunque éstas se refieran a asientos anteriores a su vigencia.
+
+Conservarán su eficacia las certificaciones expedidas bajo la antigua Ley, sin perjuicio de las restricciones que para su admisibilidad impone la nueva legislación.
+
+**Disposición transitoria tercera.**
+
+Podrá utilizarse, sujetándose a la legislación que entra en vigor, los impresos oficiales de certificaciones u otros en tanto no se suministren los nuevos y, en todo caso, los libros de familia que estuvieren abiertos; sin embargo, los de certificaciones en extracto de actas de nacimiento no se utilizarán en lo sucesivo, pero queda a salvo lo establecido en la disposición anterior.
+
+**Disposición transitoria cuarta.**
+
+El Ministerio de Justicia determinará el comienzo del funcionamiento del Archivo provincial. Las funciones del Encargado de éste, a efectos de lo dispuesto en el artículo 159, serán asumidas por el que lo tolera del Registro de la capital y, habiendo varios, por el Juez decano.
+
+Los ficheros se completarán con los datos de asientos anteriores a la Ley, a razón de dos años, al menos, por cada uno que transcurra, empezando por los de 1957 y 1958.
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Disposición transitoria quinta.**
+
+A las cero horas del día 1 de enero de 1959 se cerrarán los libros de la antigua Sección IV por diligencia extendida en la página siguiente a la última de las utilizadas en la que se hará referencia a esta disposición.
+
+En igual fecha se iniciará la formación de legajos con arreglo a la nueva legislación.
+
+Seguirán utilizándose los libros abiertos de las restantes secciones, y mientras no se suministren nuevos libros oficiales podrán abrirse los confeccionados conforme a la legislación que se deroga; pero, en todo caso, la práctica de asientos se adaptará a las nuevas normas.
+
+**Disposición transitoria sexta.**
+
+Sólo a petición del interesado y en cuanto a las inscripciones de nacimiento practicadas bajo la legislación anterior a la Ley del Registro Civil de 8 de junio de 1957, el encargado dará cumplimiento a lo dispuesto por el párrafo primero del artículo 191.
+
+Los nombres extravagantes, impropios de personas, irreverentes o subversivos se consideran en todo caso impuestos con infracción de las normas establecidas.
+
+Las declaraciones sobre apellidos a que se refieren los artículos 198 y 199 podrán realizarse, en todo caso, dentro del año siguiente a la vigencia de la Ley.
+
+Cuando en la escritura de adopción se hubiera permitido al adoptado usar con el apellido de su familia el del adoptante sin establecer el orden, se atribuirá prioridad a los apellidos paterno y materno por naturaleza; Ios apellidos de adopción precederán a los impuestos de oficio, y el del adoptante varón, al de la madre; si la filiación es natural.
+
+En las inscripciones ya practicadas a que se refiere el párrafo segundo del artículo 197, el Encargado, previamente a la expedición de la certificación de la inscripción de nacimiento o a petición del interesado, expresará marginalmente, con claridad, el orden resultante.
+
+> Se modifica el párrafo primero por el art. 4 del Real Decreto 762/1993, de 21 de mayo. [Ref. BOE-A-1993-16055](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-16055).
+
+> Se modifica el párrafo segundo por el art. 3 del Real Decreto 3455/1977, de 1 de diciembre. [Ref. BOE-A-1978-2206](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-2206).
+
+**Disposición transitoria séptima.**
+
+Las inscripciones de desaparición que se practicaron con arreglo al Decreto de 8 de noviembre de 1936 causarán, a petición del interesado y con valor de declaración de fallecimiento, inscripciones marginales en el folio de nacimiento, y se cancelarán los asientos originarios.
+
+**Disposición transitoria octava.**
+
+A las cero horas del día 1 de enero de 1959 se procederá por diligencia al cierre de los libros de tutelas de los Juzgados de Primera Instancia.
+
+Los asientos posteriores relativos a tutelas inscritas en dichos libros se practicarán en el Registro Civil, previa apertura del correspondiente folio registral, por traslado de los asientos originarios, que serán cancelados.
+
+**Disposición transitoria novena.**
+
+No requieren expediente de corrección los defectos meramente formales y las faltas en el modo de llevar los libros cuando unos u otras no se consideren tales en la nueva legislación.
+
+Son eficaces los asientos basados en título suficiente, conforme a la nueva legislación, aunque no lo fuere según la antigua.
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Disposición transitoria décima.**
+
+Si al regir la Ley del Registro Civil hubiera procedimientos empezados bajo la legislación anterior, y éstos fueren diferentes en sus requisitos o tramitación de los establecidos por aquélla, podrán los interesados constituidos en parte unánimemente optar por el nuevo procedimiento antes de que se dicte resolución sobre la cuestión ventilada.
+
+En defecto de opción se aplicarán las reglas de la legislación anterior.
+
+**Disposición transitoria undécima.**
+
+Quedan anuladas, debiendo cancelarse de oficio, las notas marginales de nulidad, y en cuanto afecten a hechos y circunstancias objeto del Registro, las tachaduras ordenadas por las Órdenes de 12 de agosto y 22 de septiembre de 1938 y 8 de marzo de 1939 sobre asientos en zona roja, los que estarán sujetos a las restantes Leyes, Decretos u Órdenes, sin perjuicio de lo establecido en la disposición transitoria novena y de la posible aplicación de los procedimientos de la nueva legislación.
+
+Quedan a salvo las convalidaciones efectuadas con arreglo a lo dispuesto en las citadas Órdenes ministeriales.
+
+Se dispensa la traducción de los asientos referidos que no estén en castellano, sin perjuicio de lo dispuesto en el párrafo primero del artículo 300 sobre las traducciones que procedan a solicitud de interesado o en certificación.
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Disposición transitoria duodécima.**
+
+**(Suprimida)**
+
+> Se suprime por el art. 4 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+**Disposición transitoria décimotercera.**
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. [Ref. BOE-A-1986-24861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24861).
+
+> Redactado el último párrafo conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1959. [Ref. BOE-A-1959-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-1959-1071).
+
+**Disposición final primera.**
+
+Las inscripciones previstas en el Decreto-ley de 29 de diciembre de 1948, sobre condición de súbdito español de determinados sefardíes, podrán practicarse sin limitación de plazo.
+
+Las disposiciones del Decreto de 2 de abril de 1955, sobre nacionalidad, quedan sustituidas por las de este Reglamento.
+
+**Disposición final segunda.**
+
+En las provincias africanas rige la legislación general, sin perjuicio de las disposiciones especiales sobre órganos del Registro y hechos inscribibles relativos a indígenas.
+
+**Disposición final tercera.**
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. [Ref. BOE-A-1993-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5006).
+
+## Tabla de los derechos a percibir en metálico por los Médicos del Registro Civil
+
+Los Médicos del Registro Civil percibirán los siguientes honorarios:
+
+1.º Por la comprobación de nacimientos, cincuenta pesetas.
+
+2.º Por su dictamen en expedientes no gratuitos, doscientas pesetas.
+
+3.º Por reconocimiento de cadáveres:
+
+a) Cincuenta pesetas si el importe del sepelio no excede de mil pesetas.
+
+b) Ciento cincuenta pesetas en los superiores a dicha cantidad e inferiores a tres mil pesetas.
+
+c) Doscientas cincuenta pesetas en los superiores a esta cantidad e inferiores a seis mil pesetas.
+
+d) Cuatrocientas pesetas en las que excedan de esta cantidad y sean inferiores a doce mil pesetas.
+
+e) Seiscientas pesetas en los superiores a dicha cantidad e inferiores a veinticuatro mil pesetas.
+
+f) Setecientas cincuenta pesetas en los superiores a dicha cantidad e inferiores a cincuenta mil pesetas.
+
+g) Mil pesetas en los que excedan de la expresada cifra de cincuenta mil pesetas.
+
+A estos efectos se tendrán exclusivamente en cuenta los gastos de entierro, sin computar los de funeral ni sepultura.
+
+> Se modifica por el art. 1 del Decreto 1778/1971, de 8 de julio. [Ref. BOE-A-1971-944](https://www.boe.es/buscar/doc.php?id=BOE-A-1971-944).
+
+#### DISPOSICION ESPECIAL
+
+**(Derogada)**
+
+> Se deroga por el art. 2 del Decreto 1778/1971, de 8 de julio. [Ref. BOE-A-1971-944](https://www.boe.es/buscar/doc.php?id=BOE-A-1971-944).
+
+Madrid, 14 de noviembre de 1958.–Aprobado por Su Excelencia.–Antonio Iturmendi.

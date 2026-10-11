@@ -1,0 +1,803 @@
+---
+title: "Real Decreto 1787/1982, de 14 de mayo, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración y venta de turrones y mazapanes"
+identifier: "BOE-A-1982-19736"
+eli: "https://www.boe.es/eli/es/rd/1982/05/14/1787"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1982-05-14
+published: 1982-08-02
+in_force_from: 1982-08-28
+last_amended: 2013-03-29
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 183"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-19736"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1787/1982, de 14 de mayo, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración y venta de turrones y mazapanes
+
+Incluye la correción de errores publicada en el BOE núm. 21, de 25 de enero de 1984. [Ref. BOE-A-1984-1883](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-1883).
+
+La Reglamentación Técnico-Sanitaria para la elaboración y venta de turrones y mazapanes, aprobada por Decreto dos mil ciento ochenta y dos/mil novecientos setenta y cinco, de doce de septiembre, fue parcialmente modificada por el artículo sexto del Real Decreto mil setecientos setenta y uno/mil novecientos setenta y seis, de dos de julio, y por el Real Decreto mil setecientos setenta y siete/mil novecientos setenta y ocho, de diecinueve de mayo. La experiencia adquirida en la aplicación de esta Reglamentación aconseja proceder a la aprobación de un nuevo texto a fin de evitar una diversificación de disposiciones sobre esta materia, clarificar determinados conceptos y adaptar la Reglamentación a la nueva estructura de la Administración del Estado.
+
+En su virtud, previo informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria, a propuesta de los Ministros de Agricultura, Pesca y Alimentación, Economía y Comercio, Industria y Energía, Sanidad y Consumo y previa deliberación del Consejo de Ministros en su reunión del día catorce de mayo de mil novecientos ochenta y dos,
+
+DISPONGO:
+
+### Artículo único.
+
+Se aprueba el nuevo texto, revisado, de la Reglamentación Técnico-Sanitaria para la elaboración y venta de turrones y mazapanes, que se publica como anexo.
+
+### Disposición derogatoria.
+
+Quedan derogadas, en lo que se oponga a lo establecido en el presente Real Decreto, las disposiciones vigentes de igual o inferior rango, y en particular el Decreto dos mil ciento ochenta y dos/mil novecientos setenta y cinco, de quince de septiembre; el artículo sexto del Real Decreto mil setecientos setenta y uno/mil novecientos setenta y seis, de dos de julio, y el Real Decreto mil setecientos setenta y siete/mil novecientos setenta y ocho, de diecinueve de mayo.
+
+Dado en Madrid a catorce de mayo de mil novecientos ochenta y dos.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+MATÍAS RODRÍGUEZ INCIARTE
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA PARA LA ELABORACIÓN, CIRCULACIÓN Y COMERCIO DE TURRONES Y MAZAPANES
+
+### 1. ÁMBITO DE APLICACIÓN
+
+La presente Reglamentación tiene por objeto definir a efectos legales lo que se entiende por turrones y mazapanes y fijar con carácter obligatorio las normas de dichos productos. Será de aplicación, asimismo, a los productos importados.
+
+Esta Reglamentación obliga a todos los fabricantes, elaboradores y comerciantes de turrones y mazapanes y, en su caso, a los importadores de estos productos.
+
+Se considerarán industriales de turrones y mazapanes aquellas personas naturales o jurídicas que, en uso de las autorizaciones concedidas por los Organismos oficiales, dedican su actividad a la fabricación de las elaboraciones fundamentales indicadas en el punto 6.1.
+
+Se consideran elaboradores de turrones y mazapanes aquellas personas naturales o jurídicas que se dedican a la preparación de estos productos. como complemento de otra actividad principal y para la venta al «detall» en su propio establecimiento.
+
+### 2. DEFINICIONES
+
+2.1. *Turrón.–*Se entiende por turrón la masa obtenida por cocción de miel y azúcares con o sin clara de huevo o albúmina, con incorporación posterior y amasado de almendras tostadas, peladas o con piel. La miel podrá ser sustituida total o parcialmente por azúcares en sus distintas clases y derivados.
+
+2.2. *Turrones diversos.–*A efectos de esta Reglamentación se consideran turrones diversos a las masas obtenidas por amasado, con o sin cocción, de almendras que podrán sustituirse total o parcialmente por cualquier otro fruto seco, pelado o con piel, crudo o tostado y otras materias básicas e ingredientes señalados en el punto 6.3 con miel y/o azúcares en sus distintas clases y derivados.
+
+2.3. *Turrones con féculas.–*Se entiende por turrones con féculas a los definidos en los puntos 2.1. y 2.2., a los que se han incorporado harinas o féculas alimenticias en proporción máxima de 15 por 100 de almidón, expresado en extracto seco.
+
+2.4. *Mazapán.–*Se entiende por mazapán la masa obtenida por amasado, con o sin cocción, de una mezcla de almendras crudas, peladas y molidas, con azúcares en sus distintas clases y derivados.
+
+2.5. *Mazapán con fécula.–*Mazapán con fécula es el definido en el punto anterior al que se han incorporado harinas o féculas alimenticias en proporción máxima del 15 por 100 de almidón, expresado en extracto seco.
+
+Se entiende particularmente por marquesas la masa obtenida por amasado de una mezcla de almendras crudas, peladas y molidas, con azúcares en sus distintas clases, y derivados, huevos enteros y almidón de trigo, con batido y cocción. El contenido de almidón no excederá en su proporción del 8,5 por 100 expresado en extracto seco.
+
+### 3. CONDICIONES DE LAS INDUSTRIAS, DE LOS MATERIALES Y DEL PERSONAL
+
+**(Derogado)**
+
+> Se deroga por el art. 18 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### 4. REGISTRO SANITARIO
+
+**(Derogado)**
+
+> Se deroga por el art. 18 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### 5. RÉGIMEN DE INSTALACIÓN DE INDUSTRIAS Y ESTABLECIMIENTOS DE VENTA
+
+**(Derogado)**
+
+> Se deroga por el art. 18 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### 6. CLASIFICACIÓN Y CARACTERÍSTICAS DE LOS PRODUCTOS PROPIOS DE LAS INDUSTRIAS Y ESTABLECIMIENTOS DE ELABORACIÓN REGULADOS POR ESTA REGLAMENTACIÓN
+
+6.1. *Productos elaborados.–*Los productos propios de las industrias y establecimientos de turrones y mazapanes, se clasificarán en dos grandes grupos:
+
+1\. Elaboraciones fundamentales.
+
+1.1. Turrón blando.
+
+1.2. Turrón duro.
+
+1.3. Turrones diversos (yema, crema o yema quemada o tostada, nieve o mazapán, de fruta, de coco, de nata, praliné, de cacao, chocolate y cualquier otra denominación en virtud de los ingredientes que entran en su composición o por razones tradicionales).
+
+1.4. Turrones con fécula.
+
+1.5. Mazapán en sus diferentes variedades y termas: Figuritas, reyes, castañas, pasteles gloria, pasteles yema, cascas, cádiz, marquesitas y otras denominaciones de carácter tradicional.
+
+1.6. Mazapán con fécula.
+
+La enumeración de tipos y variedades recogidas en los epígrafes 1.3 y 1.5 no tienen en forma alguna carácter limitativo.
+
+2\. Elaboraciones complementarias.–Con carácter puramente enunciativo se relacionan las elaboraciones tradicionales más signiticativas: Frutas (confitadas, escarchadas, glaseadas y en almíbar), polvorones, grageas, peladillas, piñones, anises, almendras de Alcalá o garrapiñadas y otros artículos análogos y de fantasía.
+
+6.2. *Subordinación a otras Reglamentaciones.–*Cuando alguna de las elaboraciones complementarias esté sujeta a Reglamentaciones específicas los industriales de turrones y mazapanes que las elaboren deberán observar las normas que dichas Reglamentaciones determinen.
+
+6.3. *Materias básicas e ingredientes.–*De forma genérica en la elaboración de turrones y mazapanes se consideran materias básicas los siguientes productos:
+
+– Almendras, avellanas, nueces, piñones, anacardo, pistacho, otros frutos secos, cacahuete, coco, manteca de cacao, cacao, café, leche o nata (fresca, concentrada, condensada evaporada o en polvo), yema de huevo y frutas trituradas incorporadas a la masa.
+
+El resto de ingredientes utilizados para la elaboración de turrón y mazapán y a los que se puede aplicar el calificativo de materias primas son:
+
+– Agua potable, miel, azúcares en sus distintas clases y derivados, clara de huevo (fresca, congelada o en polvo), gelatinas alimenticias, grasas comestibles, féculas y harinas alimenticias, arroz hinchado, trigo hinchado, maíz hinchado, obleas, especias y alimentos estimulantes, licores, proteínas vegetales, limón, naranja u otros frutos (frescos, enteros o sus partes o extractos y aromas), así como los aditivos contenidos en la lista positiva aprobada por Resolución de la Subsecretaría para la Sanidad.
+
+6.4. Características de los productos elaborados.
+
+6.4.1. Turrones blando y duro.–Elaborados exclusivamente con almendras peladas o con piel y tostadas, miel, azúcares, clara de huevo o albúmina, agua y los aditivos autorizados.
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td colspan="4">
+<p>Calidad</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Suprema</p>
+<p>(*)</p>
+</td>
+<td>
+<p>Extra</p>
+<p>(*)</p>
+</td>
+<td>
+<p>Standard</p>
+<p>(*)</p>
+</td>
+<td>
+<p>Popular</p>
+<p>(*)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turrón duro:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Humedad (máximo)</p>
+</td>
+<td>
+<p>5,0</p>
+</td>
+<td>
+<p>6,0</p>
+</td>
+<td>
+<p>7,0</p>
+</td>
+<td>
+<p>7,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Proteínas (mínimo)</p>
+</td>
+<td>
+<p>11,0</p>
+</td>
+<td>
+<p>9,0</p>
+</td>
+<td>
+<p>7,5</p>
+</td>
+<td>
+<p>6,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grasa (mínimo)</p>
+</td>
+<td>
+<p>32,5</p>
+</td>
+<td>
+<p>26,0</p>
+</td>
+<td>
+<p>21,5</p>
+</td>
+<td>
+<p>18,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cenizas (máximo)</p>
+</td>
+<td>
+<p>2,2</p>
+</td>
+<td>
+<p>2,2</p>
+</td>
+<td>
+<p>2,0</p>
+</td>
+<td>
+<p>2,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turrón blando:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Humedad (máximo)</p>
+</td>
+<td>
+<p>4,5</p>
+</td>
+<td>
+<p>5,0</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Proteínas (mínimo)</p>
+</td>
+<td>
+<p>12,0</p>
+</td>
+<td>
+<p>95</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grasa (mínimo) ,</p>
+</td>
+<td>
+<p>34,0</p>
+</td>
+<td>
+<p>27,0</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cenizas (máximo)</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>2,3</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(*) Tanto por ciento en producto terminado.
+
+Se admitirá la presencia de fécula o harina hasta un máximo de un gramo por cien gramos, en los turrones duros, procedentes de restos de obleas de recubrimientos y, en el caso de los blandos, por el aprovechamiento de fragmentos de turrones duros.
+
+6.4.2. Turrones diversos.–Elaborados con cualquier fruto seco, pelado, crudo o tostado, cacahuete, coco, cacao, chocolate, yema de huevo, gelatinas alimenticias, azúcares y otras materias básicas e ingredientes de los indicados en el punto 6.3.
+
+No contendrán féculas ni harinas.
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td colspan="2">
+<p>Turrón de coco</p>
+</td>
+<td colspan="2">
+<p>Turrón de nieve</p>
+<p>o de mazapán</p>
+</td>
+<td colspan="2">
+<p>Turrón de yema</p>
+<p>o de crema</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Suprema (*)</p>
+</td>
+<td>
+<p>Extra</p>
+<p>(*)</p>
+</td>
+<td>
+<p>Suprema (*)</p>
+</td>
+<td>
+<p>Extra</p>
+<p>(*)</p>
+</td>
+<td>
+<p>Suprema (*)</p>
+</td>
+<td>
+<p>Extra</p>
+<p>(*)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Humedad (máximo)</p>
+</td>
+<td>
+<p>13,0</p>
+</td>
+<td>
+<p>13,0</p>
+</td>
+<td>
+<p>13,0</p>
+</td>
+<td>
+<p>13,0</p>
+</td>
+<td>
+<p>13,0</p>
+</td>
+<td>
+<p>13,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Proteínas (mínimo)</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>7,5</p>
+</td>
+<td>
+<p>6,0</p>
+</td>
+<td>
+<p>7,5</p>
+</td>
+<td>
+<p>6,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grasa (mínimo)</p>
+</td>
+<td>
+<p>22,0</p>
+</td>
+<td>
+<p>19,0</p>
+</td>
+<td>
+<p>22,0</p>
+</td>
+<td>
+<p>19,0</p>
+</td>
+<td>
+<p>22,0</p>
+</td>
+<td>
+<p>19,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cenizas (máximo)</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>2,0</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>2,0</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(*) Tanto por ciento en producto terminado.
+
+Los otros turrones diversos se ajustarán en sus características analíticas a las declaraciones de la fórmula cuantitativa presentada en la Dirección General de Salud Pública.
+
+Los turrones diversos podrán rellenarse o recubrirse con preparados de confitería, pastelería y frutas confitadas, debiendo diferenciarse perfectamente del turrón, la cobertura o el relleno
+
+6.4.3. Turrones con féculas.–Este tipo de turrones podrá llevar además incorporadas féculas o harinas alimenticias hasta un contenido máximo de 15 por 100 de almidón calculado sobre extracto seco.
+
+Turrones con fécula blandos
+
+|  | Standard (*) | Popular (*) |
+|---|---|---|
+| Humedad (máximo) | 7,0 | 7,0 |
+| Proteínas (mínimo) | 8,0 | 5,5 |
+| Grasa (mínimo) | 27,0 | 20,0 |
+| Cenizas (máximo) | 1,5 | 2,0 |
+
+(*) Tanto por ciento en producto terminado.
+
+Turrones diversos con féculas
+
+Sus características analíticas se determinarán de acuerdo con las declaraciones de la fórmula en la Dirección General de Salud Pública.
+
+Estos turrones tendrán un contenido en humedad que no excederá del 16 por 100.
+
+6.4.4. Mazapán.–Elaborado con almendras, azúcares y aditivos autorizados.
+
+|  | Suprema (*)<br>–<br>Porcentaje | Extra (*)<br>–<br>Porcentaje |
+|---|---|---|
+| Humedad (máximo) | 11,0 | 11,0 |
+| Proteínas (mínimo) | 8,0 | 6,0 |
+| Grasa (mínimo) | 24,0 | 18,5 |
+| Cenizas (máximo) | 1,5 | 1,5 |
+
+(*) Tanto por ciento en producto terminado.
+
+En el caso específico del producto denominado «Mazapán de Soto», el contenido máximo de humedad admitido será del 16 por 100.
+
+El mazapán podrá estar relleno o recubierto de diversos preparados de confitería, pastelería o frutas confitadas. La cobertura o relleno deberá diferenciarse perfectamente del mazapán.
+
+6.4.5 Mazapán con fécula.–En este caso se permitirá la adición de féculas o harinas alimenticias hasta un contenido del 15 por 100 de almidón, expresado sobre extracto seco.
+
+|  | Estándar (*)<br>–<br>Porcentaje |
+|---|---|
+| Humedad (máximo) | 12,0 |
+| Proteínas (mínimo) | 4,5 |
+| Grasa (mínimo) | 12,2 |
+| Cenizas (máximo) | 1,5 |
+
+(*) Tanto por ciento en producto terminado.
+
+Para el producto denominado «Mazapán de Soto», el contenido máximo de humedad admitido será del 16 por 100.
+
+6.4.6. Marquesas.–Las características particulares de este producto serán las siguientes:
+
+|  | Standard (*) |
+|---|---|
+| Humedad (máximo) | 16,0 |
+| Proteínas (mínimo) | 10,0 |
+| Grasa (mínimo) | 21,0 |
+| Cenizas (máximo) | 1,3 |
+
+(*) Tanto por ciento en producto terminado.
+
+6.5 **(Derogado)**
+
+6.6 Condiciones generales de los turrones, mazapanes y otras elaboraciones complementarias:
+
+1\. Estar elaborados exclusivamente con las materias básicas y otros ingredientes autorizados para cada tipo de productos.
+
+2\. Poseer aspecto normal, color, olor y sabor característicos.
+
+3\. No contener impurezas o contaminantes en cantidades que puedan suponer un riesgo para la salud.
+
+> Se deroga el apartado 6.5 por el art. único. e) del Real Decreto 135/2010, de 12 de febrero. [Ref. BOE-A-2010-3032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3032).
+
+> Se modifican los apartados 6.4.4, 6.4.5, 6.5 y se añaden el apartado 6.6 por el art. único del Real Decreto 1167/1990, de 21 de septiembre. [Ref. BOE-A-1990-23737](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23737).
+
+> Redactado el apartado 4.2 conforme a la correción de errores publicada en el BOE núm. 21, de 25 de enero de 1984. [Ref. BOE-A-1984-1883](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-1883).
+
+### 7. ENVASADO, ETIQUETADO Y ROTULACIÓN
+
+7.1. **(Derogado)**
+
+7.2. **(Derogado)**
+
+7.3. *Etiquetado y rotulación.–*En las envueltas o envases dispuestos para la venta al público deberán figurar los datos que se especifican a continuación, en un tamaño de letra suficientemente legible. A este respecto, se exigirá un mínimo de 5 milímetros para las especificaciones de los epígrafes 2, 3 y 6, que se incluirán en una de las caras principales del envase.
+
+Los datos mencionados en el párrafo anterior son:
+
+1\. **(Derogado)**
+
+2\. Clase de elaboración o denominación genérica, si la tiene.
+
+3\. Los turrones diversos deberán indicar, además, junto a la palabra turrón, el nombre de la materia o materias básicas que sustituyan total o parcialmente a la almendra.
+
+4\. **(Derogado)**
+
+5\. **(Derogado)**
+
+6\. Categoría Comercial.
+
+7\. **(Derogado)**
+
+Los productos que se elaboren en bloque o en envases a granel deberán llevar en su envoltura o envase todos los datos reseñados anteriormente.
+
+7.4. *Diferenciación de calidades*.–Según su composición y atendiendo a los porcentajes mínimos de almendra que a continuación se detallan, los turrones blandos y duros se clasifican en las siguientes calidades:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td colspan="4">
+<p>Calidad</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Suprema</p>
+<p>–</p>
+<p>Porcentaje</p>
+</td>
+<td>
+<p>Extra</p>
+<p>–</p>
+<p>Porcentaje</p>
+</td>
+<td>
+<p>Standard</p>
+<p>–</p>
+<p>Porcentaje</p>
+</td>
+<td>
+<p>Popular</p>
+<p>–</p>
+<p>Porcentaje</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turrones blandos</p>
+</td>
+<td>
+<p>54</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>44</p>
+</td>
+<td>
+<p>30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turrones duros</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>46</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>34</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Según su composición y atendiendo a los porcentajes mínimos de almendras y otras materias básicas, los turrones diversos y mazapanes se clasifican en las siguientes calidades:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td colspan="4">
+<p>Calidad</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Suprema</p>
+<p>–</p>
+<p>Porcentaje</p>
+</td>
+<td>
+<p>Extra</p>
+<p>–</p>
+<p>Porcentaje</p>
+</td>
+<td>
+<p>Standard</p>
+<p>–</p>
+<p>Porcentaje</p>
+</td>
+<td>
+<p>Popular</p>
+<p>–</p>
+<p>Porcentaje</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turrones diversos</p>
+</td>
+<td>
+<p>45</p>
+</td>
+<td>
+<p>38</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turrón de coco (en porcentaje de coco)</p>
+</td>
+<td>
+<p>45</p>
+</td>
+<td>
+<p>38</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turrón de nieve o mazapán (en porcentaje de almendra)</p>
+</td>
+<td>
+<p>45</p>
+</td>
+<td>
+<p>38</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turrón de yema (en almendra y yema en polvo como mínimo, respectivamente, si bien la suma de ambos ingredientes no será inferior al 45 por 100 en Suprema, al 38 por 100 en Extra, al 25 por 100 en Standard y al 9 por 100 en Popular)</p>
+</td>
+<td>
+<p>40 y 1</p>
+<p>(*)</p>
+</td>
+<td>
+<p>33 y 1</p>
+<p>(*)</p>
+</td>
+<td>
+<p>20 y 1</p>
+<p>(*)</p>
+</td>
+<td>
+<p>5 y 1</p>
+<p>(*)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mazapanes</p>
+</td>
+<td>
+<p>45</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>23</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(*) La yema en polvo podrá ser sustituida por su equivalente en yema fresca.
+
+Estas calidades guardarán relación con las especificaciones establecidas en el punto 6.4.
+
+Los porcentajes de almendras y de otras materias básicas tienen el carácter de mínimos, no tomándose en consideración el relleno o cobertura.
+
+En el caso de las marquesas, el porcentaje de almendras será del 30 por 100 y no contendrán menos del 6 por 100 de sólidos de huevo.
+
+> Se derogan los apartados 1, 2, 3.1, 3.4, 3.5, y 3.7 por el art. 18 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### 8. EXPORTACIÓN E IMPORTACIÓN
+
+8.1. *Exportación.–*Los productos objeto de esta Reglamentación dedicados a la exportación, se ajustarán a las disposiciones reglamentarias exigidas por el país de destino y a lo que disponga en esta materia el Ministerio de Economía y Comercio. Cuando estas disposiciones no aseguren el cumplimiento de las condiciones técnicas que fija esta Reglamentación llevarán en caracteres bien visibles la palabra «Export» y no podrán comercializarse ni consumirse en España salvo autorización expresa de los Ministerios de Economía y Comercio y de Sanidad y Consumo, previo informe de la Comisión Interministerial para la Ordenación Alimentaria.
+
+8.2. **(Derogado)**
+
+> Se deroga el apartado 2 por el art. 18 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### 9. RESPONSABILIDADES Y COMPETENCIAS
+
+**(Derogado)**
+
+> Se deroga por el art. 18 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## ANEXO — Inspecciones y métodos de análisis de aplicación en turrones y mazapanes
+
+1\. Las inspecciones y toma de muestras se realizarán con los procedimientos que al efecto tengan establecidos los Servicios de Inspección competentes en esta materia.
+
+2\. Para los análisis de turrones y mazapanes se aplicarán los métodos oficiales de análisis publicados por Orden de Presidencia del Gobierno, y en su defecto, los aprobados por la Comisión Coordinadora de Laboratorios y Métodos de Análisis del Ministerio de Agricultura, Pesca y Alimentación.

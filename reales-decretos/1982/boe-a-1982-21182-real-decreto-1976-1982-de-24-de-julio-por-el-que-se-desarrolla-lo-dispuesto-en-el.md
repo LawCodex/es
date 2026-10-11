@@ -1,0 +1,105 @@
+---
+title: "Real Decreto 1976/1982, de 24 de julio, por el que se desarrolla lo dispuesto en el Real Decreto-ley por el que se modifica la redacción de los artículos 25 y 31 del texto refundido regulador del Régimen Especial Agrario de la Seguridad Social"
+identifier: "BOE-A-1982-21182"
+eli: "https://www.boe.es/eli/es/rd/1982/07/24/1976"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Seguridad Social"
+date: 1982-07-24
+published: 1982-08-20
+in_force_from: 1982-08-21
+last_amended: 2003-10-22
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 199"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-21182"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1976/1982, de 24 de julio, por el que se desarrolla lo dispuesto en el Real Decreto-ley por el que se modifica la redacción de los artículos 25 y 31 del texto refundido regulador del Régimen Especial Agrario de la Seguridad Social
+
+El Real Decreto-ley nueve/mil novecientos ochenta y dos, de treinta de abril, modifica la redacción de los artículos veinticinco y treinta y uno, dos, del texto refundido regulador del Régimen Especial Agrario de la Seguridad Social, aprobado por Decreto dos mil ciento veintitrés/mil novecientos setenta y uno, de veintitrés de julio, incluyendo la prestación económica por Incapacidad Laboral Transitoria como mejora voluntaria en la acción protectora de los trabajadores por cuenta propia del citado Régimen Especial, tanto en cuanto a contingencias generales como a las de accidentes de trabajo y enfermedades profesionales, señalando dicho Real Decreto-ley que la prestación por incapacidad laboral transitoria, en ambos casos, se otorgará en las condiciones y con los requisitos que se determinen reglamentariamente.
+
+En su virtud, a propuesta del Ministro de Trabajo y Seguridad Social, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día veintitrés de julio de mil novecientos ochenta y dos,
+
+DISPONGO:
+
+### Artículo primero.
+
+La mejora voluntaria de la acción protectora de los trabajadores por cuenta propia del Régimen Especial Agrario de la Seguridad Social a que se refieren los artículos veinticinco y treinta y uno, punto dos, del Decreto dos mil ciento veintitrés/mil novecientos setenta y uno, de veintitrés de julio, por el que se aprueba el texto refundido regulador de dicho Régimen, según la redacción dada a los mismos por el Real Decreto-ley nueve/mil novecientos ochenta y dos, de treinta de abril, se regirá por lo dispuesto en el presente Real Decreto, y en lo no previsto en él, por las normas sobre incapacidad laboral transitoria aplicables a los trabajadores por cuenta ajena comprendidos en el referido Régimen.
+
+### Artículo segundo.
+
+1\. Los trabajadores por cuenta propia incluidos en este Régimen Especial, en el momento de cursar el alta en el mismo, podrán acogerse a la mejora mencionada en el artículo anterior.
+
+La efectividad de la mejora realizada se producirá desde el día 1 del mes siguiente a aquel en que se efectúe la solicitud o desde el primer día del segundo mes, según que la solicitud se formule la primera o segunda quincena, respectivamente.
+
+2\. Realizada la opción en favor de la cobertura de la prestación por incapacidad laboral transitoria, los derechos y obligaciones derivados de la misma serán exigibles por un período mínimo de tres años, computados por años naturales completos, que se prorrogará automáticamente por períodos de igual duración, salvo renuncia expresa del interesado en la forma y plazos que se determinan en el siguiente apartado.
+
+3\. Dentro del último de los tres años de cada período, el trabajador por cuenta propia acogido a la prestación de incapacidad laboral transitoria que desee renunciar a la misma deberá formular solicitud en tal sentido y por escrito antes del primer día del mes de octubre correspondiente, surtiendo efectos dicha solicitud desde el día 1 de enero del año siguiente.
+
+La renuncia así realizada no impedirá en el futuro ejercer nuevamente la opción a la prestación económica de incapacidad laboral transitoria, siempre que hayan transcurrido, como mínimo, tres años desde que tuvo efectos la renuncia anterior.
+
+4\. La baja en el Régimen Especial Agrario de la Seguridad Social llevará consigo la renuncia a la opción de la prestación por incapacidad laboral transitoria, sin perjuicio de mantener el percibo de la prestación que se viniere recibiendo en el momento de la baja, hasta que se produzca una causa legal de extinción.
+
+> Se modifica por el art. 4 del Real Decreto 2110/1994, de 28 de octubre. [Ref. BOE-A-1994-27176](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-27176).
+
+### Artículo tercero.
+
+Tendrán la consideración de situaciones determinantes de la Incapacidad Laboral Transitoria:
+
+a) Las debidas a enfermedad común o accidente no laboral mientras el trabajador reciba asistencia sanitaria de la Seguridad Social y esté impedido para el trabajo, con una duración máxima igual a la establecida en el Régimen General de la Seguridad Social.
+
+b) En caso de maternidad, los períodos que a tal efecto se determinan en el Régimen General de la Seguridad Social.
+
+c) Las debidas a accidentes de trabajo o enfermedades profesionales, en cuyo caso se otorgará la prestación económica en la misma extensión, forma, términos y condiciones que en el Régimen General, con las salvedades que se establecen en el número tres del artículo treinta y uno del texto refundido aprobado por Decreto dos mil ciento veintitrés/mil novecientos setenta y uno, de veintitrés de julio, y en el presente Real Decreto.
+
+### Artículo cuarto.
+
+Uno. Los trabajadores por cuenta propia del Régimen Especial Agrario tendrán derecho a la prestación económica por Incapacidad Laboral Transitoria cuando reúnan las siguientes condiciones:
+
+a) Estar afiliados y en alta en este Régimen Especial.
+
+b) Hallarse al corriente en el pago de las cuotas.
+
+c) Haber ingresado en concepto de cuota, por la mejora voluntaria que se regula por el presente Real Decreto, un mínimo de seis mensualidades inmediatamente anteriores al hecho causante, en caso de enfermedad, y en caso de maternidad, nueve mensualidades inmediatamente anteriores al momento de dar a luz.
+
+Dos. No obstante, cuando la solicitud de acogerse a la mejora voluntaria regulada en este Real Decreto se efectúe conjuntamente con la petición de alta en este Régimen Especial, el período mínimo de cotización exigido para tener derecho a la prestación económica por Incapacidad Laboral Transitoria será de seis mensualidades, dentro de los ocho meses anteriores al hecho causante, en caso de enfermedad, y en caso de maternidad nueve mensualidades dentro de los once meses anteriores al del momento de dar a luz. A estos efectos, los períodos de cotización cubiertos por los interesados en el Régimen General o en cualquier otro de la Seguridad Social que tenga establecido el reconocimiento recíproco de cuotas con este Régimen Especial, y en el que se cotice por la contingencia de Incapacidad Laboral Transitoria, se computarán para cubrir este período de carencia especial exigido.
+
+### Artículo quinto.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 1273/2003, de 10 de octubre. [Ref. BOE-A-2003-19458](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-19458).
+
+### Artículo sexto.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 1273/2003, de 10 de octubre. [Ref. BOE-A-2003-19458](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-19458).
+
+### Artículo séptimo.
+
+Uno. Los trabajadores que se acojan a la mejora regulada en el presente Real Decreto deberán abonar una cuota complementaria que consistirá en la cantidad que resulte de aplicar a la base de cotización vigente en cada momento el tipo del dos coma veinte por ciento por enfermedad común, maternidad y accidente no laboral, más el cero coma cincuenta por ciento por accidente de trabajo y enfermedad profesional.
+
+Dos. El ingreso de la cuota complementaria se realizará conjuntamente con la cotización correspondiente a las prestaciones de carácter obligatorio y le serán de aplicación las normas que regulan la recaudación de ésta en período voluntario y en vía ejecutiva. En ningún caso se admitirá el ingreso por separado de una u otra.
+
+## DISPOSICIÓN FINAL
+
+Se faculta al Ministerio de Trabajo y Seguridad Social para dictar normas de aplicación y desarrollo de lo dispuesto en el presente Real Decreto, que entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+## DISPOSICIÓN TRANSITORIA
+
+No obstante lo dispuesto en el artículo segundo, quienes a la entrada en vigor del presente Real Decreto deseen acogerse a la mejora que en el mismo se regula podrán hacerlo, solicitándolo de la Entidad gestora antes del día uno de octubre próximo. En este caso, la mejora comenzará a producir efectos el día primero del mes siguiente a aquel en que se verifique la solicitud o el primer día del mes inmediato a éste, según que dicha solicitud se hubiese realizado en la primera o segunda quincena del mes, respectivamente.
+
+> Véase el art. único del Real Decreto 2611/1982, de 15 de octubre sobre la ampliación del plazo establecido. [Ref. BOE-A-1982-26959](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-26959).
+
+Dado en Madrid a veinticuatro de julio de mil novecientos ochenta y dos.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Seguridad Social,
+
+SANTIAGO RODRÍGUEZ-MIRANDA GÓMEZ

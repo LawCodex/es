@@ -1,0 +1,75 @@
+---
+title: "Real Decreto 1385/1988, de 18 de noviembre, por el que se crea la Orden del Mérito Constitucional"
+identifier: "BOE-A-1988-26928"
+eli: "https://www.boe.es/eli/es/rd/1988/11/18/1385"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1988-11-18
+published: 1988-11-22
+in_force_from: 1988-11-22
+last_amended: 2003-11-14
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 280"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1988-26928"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1385/1988, de 18 de noviembre, por el que se crea la Orden del Mérito Constitucional
+
+Próximo a celebrarse el décimo aniversario de la promulgación de la Constitución Española de 1978, parece oportuno establecer una distinción honorífica conmemorativa de dicha efeméride, como reconocimiento a los integrantes de las Cámaras Legislativas que elaboraron y aprobaron el nuevo orden constitucional de la Nación española y como premio a aquellos que en el futuro se distingan por la realización de relevantes actividades al servicio de sus valores y principios.
+
+En su virtud, a propuesta del Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno y previa deliberación del Consejo de Ministros, en su reunión del día 18 de noviembre de 1988,
+
+DISPONGO:
+
+### Art. 1.º
+
+Se crea la Orden del Mérito Constitucional para premiar a aquellas personas que hayan realizado actividades relevantes al servicio de la Constitución y de los valores y principios en ella establecidos.
+
+### Art. 2.º Propuestas de concesión.
+
+1\. Los Diputados y Senadores que fueron miembros de las Cortes que aprobaron la Constitución de 27 de diciembre de 1978 tendrán derecho a ingresar en la Orden mediante orden del Ministro de la Presidencia.
+
+2\. La solicitud de ingreso se formalizará mediante comunicación escrita de los interesados, dirigida al Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno.
+
+3\. En el caso de que alguna de estas personas hubiera fallecido, cualquiera de sus herederos podrá instar el ingreso del causante a título póstumo.
+
+4\. **(Suprimido)**
+
+> Se modifica el apartado 1 y se suprime el apartado 4 por el art. único.1 y 2 del Real Decreto 1375/2003, de 7 de noviembre. [Ref. BOE-A-2003-20837](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20837).
+
+### Art. 3.º Ingreso en la Orden.
+
+El ingreso en la Orden se efectuará mediante real decreto acordado en Consejo de Ministros, a propuesta del Ministro de la Presidencia.
+
+> Se modifica por el art. único.1 del Real Decreto 1375/2003, de 7 de noviembre. [Ref. BOE-A-2003-20837](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20837).
+
+### Art. 4.º Grados de la Orden.
+
+1\. La Orden consta de una Medalla y de una Placa de Honor, cuyo diseño y características se establecerán en el reglamento de aquélla.
+
+2\. El cargo de Canciller de la Orden será desempeñado por el Ministro de la Presidencia, y corresponde a la Subsecretaría de la Presidencia el ejercicio de la Secretaría de la Orden. A esta última corresponderá la tramitación de todas las propuestas de concesión de condecoraciones de la referida Orden, a cuyo efecto instruirá los oportunos procedimientos, quedando facultada para interesar los informes que estime convenientes en orden a la determinación de la procedencia o no del otorgamiento.
+
+> Se modifica por el art. único.1 del Real Decreto 1375/2003, de 7 de noviembre. [Ref. BOE-A-2003-20837](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20837).
+
+## DISPOSICIONES FINALES
+
+### Primera.
+
+Se autoriza al Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno para dictar el Reglamento de la Orden y cuantas disposiciones sean necesarias para el desarrollo y cumplimiento de lo dispuesto en el presente Real Decreto.
+
+### Segunda.
+
+El presente Real Decreto entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 18 de noviembre de 1988.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ

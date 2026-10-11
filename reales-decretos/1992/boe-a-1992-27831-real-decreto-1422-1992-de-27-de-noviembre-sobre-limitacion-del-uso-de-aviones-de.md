@@ -1,0 +1,256 @@
+---
+title: "Real Decreto 1422/1992, de 27 de noviembre, sobre limitación del uso de aviones de reacción subsónicos civiles"
+identifier: "BOE-A-1992-27831"
+eli: "https://www.boe.es/eli/es/rd/1992/11/27/1422"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Obras Públicas y Transportes"
+date: 1992-11-27
+published: 1992-12-17
+in_force_from: 1993-01-06
+last_amended: 2000-01-04
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 302"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1992-27831"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1422/1992, de 27 de noviembre, sobre limitación del uso de aviones de reacción subsónicos civiles
+
+El cuarto programa de acción de las Comunidades Europeas en materia de medio ambiente (1987-1992) ha puesto de manifiesto la importancia del problema de las perturbaciones sonoras y en particular la necesidad de actuar sobre el ruido causado por el tráfico aéreo, previendo la ampliación de las directivas comunitarias existentes relativas a los ruidos generados por los aviones.
+
+En este sentido, el Consejo de las Comunidades Europeas, tras la adopción de la Directiva 80/51/CEE, de 20 de diciembre de 1979, modificada por la Directiva 83/206/CEE, de 21 de abril de 1983, sobre limitación de emisiones sonoras de aeronaves subsónicas, que fueron incorporadas al derecho interno por el Real Decreto 873/1987, de 29 de mayo, de igual título, aprobó la Directiva 89/629/CEE, de 4 de diciembre de 1989, con el objeto de limitar la inscripción en los registros de aviación civil de los Estados miembros de los aviones que únicamente cumplieran las normas enunciadas en el capítulo 2 del anexo 16 del Convenio OACI, que fue incorporada a la legislación española por el Real Decreto 1256/1990, de 11 de octubre, sobre limitación de emisiones sonoras de los aviones de reacción subsónicos civiles.
+
+En una segunda etapa de progresiva introducción de limitaciones dirigidas a ir atenuando la incidencia del problema del ruido causado por las aeronaves, se ha aprobado la Directiva 92/014/CEE, de 2 de marzo de 1992, relativa a la limitación del uso de aviones objeto del anexo 16 del Convenio de la Aviación Civil Internacional, volumen I, segunda parte, capítulo 2 segunda edición (1988), cuyo fin no es ya limitar la inscripción de aquellos aparatos en los registros de los Estados miembros, sino restringir el uso de los aviones ya inscritos cuando no se correspondan con las normas del citado capítulo 3 del anexo 16 sobre esta materia, si bien teniendo en cuenta las posibilidades técnicas de conversión de los aparatos y las consecuencias económicas derivadas de la limitación de su uso.
+
+Este Real Decreto, en ejecución de lo dispuesto en el capítulo VI de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y al amparo de lo previsto en el párrafo segundo de la disposición final cuarta de esta Ley, tiene por finalidad incorporar al Derecho interno la citada Directiva 92/014/CEE.
+
+En su virtud, a propuesta del Ministro de Obras Públicas y Transportes, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 27 de noviembre de 1992,
+
+DISPONGO:
+
+> Se modifica el párrafo tercero por la disposición adicional única del Real Decreto 325/1995, de 3 de marzo. [Ref. BOE-A-1995-7247](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-7247).
+
+## Artículo 1. Objeto.
+
+Este Real Decreto tiene por objeto la limitación del uso en el territorio nacional de los aviones de reacción subsónicos civiles cuya masa máxima al despegue sea igual o superior a 34.000 kilogramos o cuya capacidad interior certificada para el tipo de avión de que se trate sea superior a 19 pasajeros, excluidos los asientos reservados a la tripulación.
+
+## Artículo 2. Requisitos para la utilización de los aviones.
+
+1\. A partir del 1 de abril de 1995, los aviones de reacción subsónicos civiles a los que se refiere el artículo anterior, equipados de motores con una relación de derivación inferior a 2, sólo podrán ser utilizados en los aeropuertos españoles cuando previamente hayan obtenido una certificación acústica correspondiente, ya sea:
+
+a) A las normas enunciadas en el anexo 16 al Convenio de Aviación Civil Internacional, segunda edición (1988), volumen I, segunda parte, capítulo 3; o bien
+
+b) A las normas enunciadas en el capítulo 2 de la segunda parte del volumen I del anexo 16 del mencionado Convenio, y que el primer certificado de aeronavegabilidad tenga una antigüedad inferior a veinticinco años.
+
+2\. A partir del 1 de abril del año 2002, todos los aviones de reacción subsónicos civiles que se utilicen en los aeropuertos españoles deberán cumplir lo dispuesto en el párrafo a) del apartado anterior.
+
+## Artículo 3. Exclusión.
+
+Los aviones de reacción subsónicos civiles enumerados en el anexo a este Real Decreto quedarán excluidos del cumplimiento de lo dispuesto en el apartado 1 del artículo anterior, cuando cumplan los siguientes requisitos:
+
+a) Que estén provistos de un certificado acústico que se ajuste a las normas enunciadas en la parte segunda, capítulo 2, volumen 1 del anexo 16 del Convenio de la Aviación Civil Internacional, que operasen en aeropuertos de la Comunidad en el transcurso de un período de referencia de doce meses comprendidos entre 1986 y 1990, determinado conjuntamente con los Estados de los operadores, y
+
+b) Que durante el transcurso del período de referencia antes indicado, dichos aviones estuviesen matriculados en los Estados que figuran, para cada uno de estos aviones, en el anexo de este Real Decreto y continúen siendo utilizados, ya sea en propiedad, ya sea bajo cualquier forma jurídicamente válida que faculte para su disponibilidad, por personas físicas o jurídicas establecidas en dichos Estados.
+
+La exclusión prevista en el párrafo anterior no será de aplicación cuando se haya cedido el uso del avión, a una persona física o jurídica establecida en un Estado distinto del mencionado para dicho avión en el citado anexo.
+
+> Se modifica por el art. 1.1 del Real Decreto 1908/1999, de 17 de diciembre. [Ref. BOE-A-2000-77](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-77).
+
+## Artículo 4. Exenciones.
+
+Los aviones que, a pesar de no cumplir las normas del capítulo 3 del mencionado anexo 16, puedan ser modificados para ajustarse a dichas normas serán eximidos por el Ministerio de Obras Públicas y Transportes del cumplimiento de lo dispuesto en el número 1 del artículo 2, siempre que se den las condiciones siguientes:
+
+a) Que el equipo de conversión adecuado para el tipo de avión de que se trate exista y esté disponible.
+
+b) Que los aviones provistos de dicho equipo se ajusten a las normas del mencionado capítulo 3 del anexo 16, determinadas con arreglo a las normas y procedimientos técnicos aceptados por la Dirección General de Aviación Civil del Ministerio de Obras Públicas y Transportes, hasta que se establezcan normas y procedimientos comunes en el ámbito comunitario.
+
+c) Que la compañía aérea haya encargado el equipo antes del día 1 de abril de 1994, y haya aceptado la fecha de entrega más próxima para llevar a cabo dicha modificación.
+
+## Artículo 5. Otras exenciones.
+
+1\. El Ministerio de Fomento podrá eximir a los aviones con certificación acústica ajustada a las normas del capítulo 2 del anexo 16 del Convenio sobre Aviación Civil Internacional de la exigencia de que el primer certificado de aeronavegabilidad tenga una antigüedad inferior a veinticinco años, a que se hace referencia en el párrafo b) del apartado 1 del artículo 2 de este Real Decreto, en el caso de que la compañía aérea operadora demuestre que al dejar de ser utilizados se pondría en peligro la continuidad del ejercicio de sus actividades, siempre que tales exenciones a cualquier avión no superen en total el período de tres años.
+
+2\. Igualmente, podrán concederse exenciones al cumplimiento de lo dispuesto en el apartado 1 del artículo 2, a cada uno de los aviones que vayan a ser sustituidos por otros que cumplan las especificaciones del indicado capítulo 3 del anexo 16 del Convenio sobre Aviación Civil Internacional, y cuyo pedido haya sido hecho por la compañía aérea antes del 1 de abril de 1994 con el compromiso de aceptar su entrega en la fecha más próxima.
+
+3\. También podrán ser eximidos del cumplimiento de lo preceptuado en el artículo 2 los aviones que posean un interés histórico.
+
+> Se modifica por el art. 1.1 del Real Decreto 1908/1999, de 17 de diciembre. [Ref. BOE-A-2000-77](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-77).
+
+## Artículo 6. Bajas en el Registro de matrícula de aeronaves.
+
+1\. El Ministerio de Fomento podrá eximir a las compañías aéreas españolas de la obligación de dar baja de matrícula, por razón de lo dispuesto en el apartado 1 del artículo 2, a los aviones que no cumplan las normas del capítulo 3 del mencionado anexo 16, en una proporción anual equivalente de hasta el 10 por 100 del total de su flota de aviones de reacción subsónicos civiles, matriculada en España.
+
+A los efectos de este Real Decreto se entenderá por ‘‘flota completa de aviones de reacción subsónicos civiles’’ la flota completa de aviones de reacción subsónicos civiles a disposición de una compañía ya sea en propiedad, ya sea bajo cualquier forma jurídicamente válida que faculte para su disponibilidad, por un plazo no inferior a un año.
+
+2\. Cuando se haya aplicado una exención equivalente a la prevista en el párrafo anterior, a aviones matriculados en un Estado que no sea miembro de la Unión Europea, que operen en los aeropuertos españoles antes de la fecha de entrada en vigor de este Real Decreto, la exención podrá seguir autorizándose siempre que la compañía aérea operadora continúe cumpliendo las condiciones fijadas para la retirada gradual de su flota de aviones de reacción subsónicos civiles en la correspondiente autorización.
+
+> Se modifica por el art. 1.1 del Real Decreto 1908/1999, de 17 de diciembre. [Ref. BOE-A-2000-77](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-77).
+
+> Se modifica por el art. único del Real Decreto 325/1995, de 3 de marzo. [Ref. BOE-A-1995-7247](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-7247).
+
+## Artículo 7. Casos particulares.
+
+En casos particulares se podrá autorizar la utilización provisional de aeropuertos situados en territorio nacional a aviones, que no puedan ser explotados en virtud de lo dispuesto en este Real Decreto, si están comprendidos en alguno de estos supuestos:
+
+a) Aviones cuyas operaciones tengan un carácter de singularidad tal que no sería razonable denegarles una exención temporal.
+
+b) Aviones en vuelos sin finalidad lucrativa, con el fin de efectuar modificaciones, reparaciones o trabajos de mantenimiento.
+
+## Disposición adicional primera. Órgano competente para otorgar exenciones y autorizaciones.
+
+La Dirección General de Aviación Civil del Ministerio de Obras Públicas y Transportes será el órgano competente para otorgar las exenciones y autorizaciones a que se refiere este Real Decreto.
+
+## Disposición adicional segunda. Comunicación de las exenciones o autorizaciones.
+
+El otorgamiento de las exenciones o autorizaciones determinadas en los artículos 4 a 6 se comunicará a las autoridades competentes de los Estados miembros y a la Comisión de las Comunidades Europeas, con expresión de las causas que las motivaron.
+
+## Disposición adicional tercera. Validez de exenciones.
+
+Tendrán validez en España las exenciones concedidas por otros Estados miembros de la Unión Europea respecto de aviones inscritos en sus respectivos registros.
+
+> Se modifica por el art. 1.1 del Real Decreto 1908/1999, de 17 de diciembre. [Ref. BOE-A-2000-77](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-77).
+
+Dado en Madrid a 27 de noviembre de 1992.
+
+JUAN CARLOS R.
+
+El Ministro de Obras Públicas y Transpones.
+
+JOSÉ BORRELL FONTELLES
+
+## ANEXO — Lista de aviones exentos con arreglo a lo dispuesto en el artículo 3
+
+Argelia
+
+| Número de serie | Tipo | Matrícula | Operador |
+|---|---|---|---|
+| 20955 | B-727-2D6 | 7T-VEH | Air Algerie. |
+| 21053 | B-727-2D6 | 7T-VEI | Air Algerie. |
+| 21210 | B-727-2D6 | 7T-VEM | Air Algerie. |
+| 21284 | B-727-2D6 | 7T-VEP | Air Algerie. |
+| 20884 | B-737-2D6 | 7T-VEG | Air Algerie. |
+| 21063 | B-737-2D6 | 7T-VEJ | Air Algerie. |
+| 21064 | B-737-2D6 | 7T-VEK | Air Algerie. |
+| 21065 | B-737-2D6 | 7T-VEL | Air Algerie. |
+| 21211 | B-737-2D6 | 7T-VEN | Air Algerie. |
+| 20650 | B-737-2D6 | 7T-VED | Air Algerie. |
+| 21285 | B-737-2D6 | 7T-VEQ | Air Algerie. |
+
+República Democrática del Congo
+
+| Número de serie | Tipo | Matrícula | Operador |
+|---|---|---|---|
+| 20200 | B707-329C | 9Q-CBW | Scibe Airlift. |
+
+República Dominicana
+
+| Número de serie | Tipo | Matrícula | Operador |
+|---|---|---|---|
+| 19767 | B707-399C | HI-442CT | Dominicana de Aviación. |
+
+Egipto
+
+| Número de serie | Tipo | Matrícula | Operador |
+|---|---|---|---|
+| 19916 | B707-328C | SU-PBB | Air Memphis. |
+| 21194 | B737-266 | SU-AYK | Egipt Air. |
+| 21195 | B737-266 | SU-AYL | Egipt Air. |
+| 21227 | B737-266 | SU-AYO | Egipt Air. |
+
+Iraq
+
+| Número de serie | Tipo | Matrícula | Operador |
+|---|---|---|---|
+| 20889 | B707-370C | YI-AGE | Iraqi Airways. |
+| 20892 | B737-270C | YI-AGH | Iraqi Airways. |
+| 20893 | B737-270C | YI-AGI | Iraqi Airways. |
+
+Líbano
+
+| Número de serie | Tipo | Matrícula | Operador |
+|---|---|---|---|
+| 20259 | B-707-3B4C | OD-AFD | MEA. |
+| 19589 | B-707-323C | OD-AHC | MEA. |
+| 19515 | B-707-323C | OD-AHD | MEA. |
+| 20170 | B-707-323B | OD-AHF | MEA. |
+| 19516 | B-707-323C | OD-AHE | MEA. |
+| 19104 | B-707-327C | OD-AGX | TMA. |
+| 19105 | B-707-327C | OD-AGY | TMA. |
+| 18939 | B-707-323C | OD-AGD | TMA. |
+| 19214 | B-707-331C | OD-AGS | TMA. |
+| 19269 | B-707-321C | OD-AGO | TMA. |
+| 19274 | B-707-321C | OD-AGP | TMA. |
+
+Liberia
+
+| Número de serie | Tipo | Matrícula | Operador |
+|---|---|---|---|
+| 45683 | DC8F-55 | EL-AJO | Liberia World Air fines. |
+
+Libia
+
+| Número de serie | Tipo | Matrícula | Operador |
+|---|---|---|---|
+| 20245 | B-727-224 | 5A-DAI | Libyan Arab Airlines.<br>Airlines. |
+| 21051 | B-727-2L5 | 5A-DIB | Libyan Arab Airlines. |
+| 21052 | B-727-2L5 | 5A-DIC | Libyan Arab Airlines. |
+| 21229 | B-727-2L5 | 5A-DID | Libyan Arab Airlines. |
+| 21230 | B-727-2L5 | 5A-DIE | Libyan Arab Airlines. |
+
+Mauritania
+
+| Número de serie | Tipo | Matrícula | Operador |
+|---|---|---|---|
+| 11093 | F-28-4000 | 5T-CLG | Air Mauritanie. |
+
+Nigeria
+
+| Número de serie | Tipo | Matrícula | Operador |
+|---|---|---|---|
+| 18809 | B707-338C | 5N-ARQ | DAS Air Cargo. |
+
+Pakistán
+
+| Número de serie | Tipo | Matrícula | Operador |
+|---|---|---|---|
+| 20488 | B-707-340C | AP-AXG | PIA. |
+
+Arabia Saudita
+
+| Número de serie<br>de serie | Tipo | Matrícula | Operador |
+|---|---|---|---|
+| 20574 | B-737-268C | HZ-AGA | Saudia. |
+| 20575 | B-737-268C | HZ-AGB | Saudia. |
+| 20576 | B-737-268 | HZ-AGC | Saudia. |
+| 20577 | B-737-268 | HZ-AGD | Saudia. |
+| 20578 | B-737-268 | HZ-AGE | Saudia. |
+| 20882 | B-737-268 | HZ-AGF | Saudia. |
+| 20883 | B-737-268 | HZ-AGG | Saudia. |
+
+Swazilandia
+
+| Número de serie | Tipo | Matrícula | Operador |
+|---|---|---|---|
+| 45802 | DC-8F-54 | 3D-AFR | African International Airways. |
+| 46012 | DC-8F-54 | 3D-ADV | African International Airways. |
+
+Túnez
+
+| Número de serie | Tipo | Matrícula | Operador |
+|---|---|---|---|
+| 20545 | B-727-2H3 | TS-JHN | Tunis Air. |
+| 20948 | B-727-2H3 | TS-JHQ | Tunis Air. |
+| 21179 | B-727-2H3 | TS-JHR | Tunis Air. |
+| 21235 | B-727-2H3 | TS-JHT | Tunis Air. |
+
+Uganda
+
+| Número de serie | Tipo | Matrícula | Operador |
+|---|---|---|---|
+| 19821 | B-707-379C | 5X-JEF | Dairo Air Services. |
+
+> Se modifica por el art. 2 del Real Decreto 1908/1999, de 17 de diciembre. [Ref. BOE-A-2000-77](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-77).

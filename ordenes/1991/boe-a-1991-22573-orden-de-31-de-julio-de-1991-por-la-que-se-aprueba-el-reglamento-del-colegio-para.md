@@ -1,0 +1,695 @@
+---
+title: "Orden de 31 de julio de 1991 por la que se aprueba el Reglamento del Colegio para Huérfanos de Funcionarios de la Hacienda Pública"
+identifier: "BOE-A-1991-22573"
+eli: "https://www.boe.es/eli/es/o/1991/07/31/(15)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1991-07-31
+published: 1991-09-04
+in_force_from: 1991-09-24
+last_amended: 2002-04-26
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 212"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-22573"
+retrieved: 2026-10-11
+---
+
+# Orden de 31 de julio de 1991 por la que se aprueba el Reglamento del Colegio para Huérfanos de Funcionarios de la Hacienda Pública
+
+Incluye las correcciones de errores y erratas publicadas en BOE núms. 222, de 16 de septiembre de 1991. [Ref. BOE-A-1991-23387](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-23387). y 262, de 1 de noviembre de 1991. [Ref. BOE-A-1991-26487](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-26487).
+
+De conformidad con la propuesta elevada por la Asamblea general de Socios del Colegio para Huérfanos de Funcionarios de la Hacienda Pública,
+
+Este Ministerio se ha servido acordar:
+
+#### Único.
+
+Aprobar el Reglamento del Colegio para Huérfanos de Funcionarios de la Hacienda Pública, que figura como anexo a la presente disposición.
+
+Lo que les comunico para su conocimiento.
+
+Madrid, 31 de julio de 1991.
+
+SOLCHAGA CATALAN
+
+Ilmos. Sres. Subsecretario y Presidente del Colegio para Huérfanos de Funcionarios de la Hacienda Pública.
+
+## ANEXO — Reglamento del Colegio para Huérfanos de Funcionarios de la Hacienda Pública
+
+## CAPÍTULO I — Naturaleza y fines de la Institución
+
+#### Art. 1.
+
+El Colegio para Huérfanos de Funcionarios de la Hacienda Pública es una Entidad sin ánimo de lucro, creada por Real Decreto de 24 de mayo de 1927 y clasificada como institución benéfico-particular por Orden de 30 de abril de 1929 del Ministerio de Instrucción Pública y Bellas Artes.
+
+#### Art. 2.
+
+El Colegio tiene por objeto la protección de los hijos de socios de número en los casos de fallecimiento, inutilidad física o mental u otra circunstancia sobrevenida que redunde en grave detrimento de la capacidad familiar del asociado para hacer frente al pleno desarrollo del protegido, proporcionando, en los términos y condiciones que establece el presente Reglamento y las normas internas de funcionamiento, asistencia, instrucción y educación, ampliada con la formación necesaria, para ponerlos en condiciones de proveer en su día al propio sustento y adecuado desempeño de las funciones sociales.
+
+Se deberá entender por inutilidad física o mental, a los efectos del presente Reglamento, aquellas situaciones sobrevenidas a un socio con posterioridad a la fecha de su incorporación como tal, que tengan como causa enfermedad común, profesional o accidente, que le imposibiliten para la realización de sus tareas laborales y familiares habituales y sean reconocidas por resolución administrativa o judicial.
+
+Se entiende por grave detrimento de la capacidad familiar del socio, aquellas situaciones anormales acaecidas con posterioridad a su incorporación al Colegio de Huérfanos de Hacienda que reduzcan de forma sustancial y grave, la capacidad económica de la unidad familiar del socio, habida cuenta de las circunstancias concurrentes, los ingresos totales de la unidad y el número de miembros que la forman, todo ello de acuerdo con lo que prevean las Normas Internas de Funcionamiento y atendiendo a los criterios expresados en las mismas.
+
+Con independencia del objeto indicado en el párrafo primero de este artículo, que tendrá carácter central y prioritario, el Colegio podrá establecer ayudas complementarias a favor de discapacitados hijos de socio o de los propios socios, en los términos establecidos en este Reglamento y en las normas internas de funcionamiento.
+
+> Se modifica por el art. único.1 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 262, de 1 de noviembre de 1991. [Ref. BOE-A-1991-26487](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-26487).
+
+## CAPÍTULO II — De los socios
+
+### Sección primera. De los socios de número
+
+#### Art. 3.
+
+1\. Pertenecerán al Colegio en concepto de socios de número por el sistema ordinario todos los funcionarios y personal contratado en régimen laboral de carácter fijo, que presten sus servicios en el Ministerio de Hacienda y Organismos u otros Entes que configuran la Hacienda Pública, cuando así lo soliciten antes de transcurridos seis meses desde su primera toma de posesión o contratación laboral.
+
+Las normas internas de funcionamiento definirán en todo momento cuales deben ser esos Entes u Organismos, a la vista de los cambios que se produzcan en la Administración General del Estado que afecten a la organización de la Hacienda pública.
+
+2\. Las personas contempladas en el párrafo anterior que experimenten una modificación en su situación administrativa, no perderán su condición de socio de número si lo solicitan en el plazo de seis meses, contados a partir de la fecha en que se produjo la nueva situación y siempre que continúen cotizando al Colegio, ininterrumpidamente, las cuotas correspondientes.
+
+3\. Podrán adquirir la condición de socios de número los cónyuges de los socios mencionados en el apartado uno del presente articulo que expresamente lo soliciten, en las condiciones y con los requisitos que se establezcan en las normas internas de funcionamiento.
+
+Serán asimilados a los cónyuges, a los efectos del presente Reglamento, con independencia de su estado civil, el padre o madre de los hijos del socio.
+
+Esta condición no se podrá alcanzar cuando los referidos cónyuges o asimilados se encuentren jubilados o hayan cumplido los sesenta y cinco años de edad.
+
+4\. Al pasar a la situación de jubilación por razón de edad, por incapacidad judicial o administrativamente declarada o por cualquier otra causa, el socio mantendrá todos sus derechos sin que le alcance la obligación de pagar las cuotas ordinarias correspondientes, siempre que haya cotizado al Colegio durante treinta o más años.
+
+Si el período de cotización hubiese sido inferior a treinta años, podrá conservar todos sus derechos, si continúa pagando las cuotas ordinarias que correspondan a su nueva situación hasta completar el indicado período de cotización. Las normas internas de funcionamiento determinarán el porcentaje de beneficios que correspondan en función del período cotizado.
+
+5\. El socio cónyuge o asimilado vendrá obligado al cumplimiento de las obligaciones derivadas de su condición de socio, de acuerdo con lo previsto en el presente Reglamento y normas internas de funcionamiento.
+
+6\. Se perderá la condición de socio de número:
+
+a) Por voluntad del interesado.
+
+b) Por retraso superior a un año en el pago de cuotas, salvo causa de fuerza mayor apreciada por la Junta de Gobierno.
+
+c) Por cesar en la prestación de servicios al Ministerio de Hacienda y Organismos u otros entes dependientes. En este caso podrá mantenerse en los términos previstos en el número dos del presente artículo.
+
+d) Por fallecimiento.
+
+e) Por actuaciones contrarias a los intereses del Colegio. Las circunstancias y el procedimiento a seguir se regularán en las normas internas de funcionamiento. En todo caso la pérdida de la condición de socio por este motivo requerirá que el acuerdo se adopte por mayoría de tres quintos de la Asamblea general.
+
+7\. En los casos de renuncia o pérdida de la condición de socio se estará a lo siguiente:
+
+a) La renuncia o pérdida de la condición de socio de número conllevará la pérdida de todos los derechos derivados, quedando en beneficio del Colegio las cuotas satisfechas.
+
+b) La renuncia o la pérdida de la condición de socio de número por cualquier circunstancia no impedirá adquirirla de nuevo, siempre que el interesado supere el período de carencia de dos años y satisfaga la cuota extraordinaria que pudiera corresponderle en función de su edad y situación familiar, de acuerdo con la escala que a este efecto se establezca en las normas internas de funcionamiento, sin perjuicio del pago de las cuotas ordinarias que en cada momento estén establecidas.
+
+El mismo tratamiento se dará a quienes no habiendo ejercitado su derecho a incorporarse al Colegio como socios de número en el plazo de seis meses antes indicado, decidiesen hacerlo con posterioridad y una vez transcurrido dicho plazo.
+
+El procedimiento de incorporación de socios contemplado en esta letra se considera extraordinario.
+
+8\. Los socios cónyuges o asimilados que se incorporen transcurridos más de seis meses desde el día en que tuvieron derecho a integrarse deberán superar el mismo período de carencia y abonar las cuotas extraordinarias previstas en el apartado anterior.
+
+En cualquier circunstancia, los socios cónyuges o asimilados conservarán su condición de socios de número, siempre que continúen haciendo efectivas las cuotas que les correspondan.
+
+Sin embargo, sólo podrán alcanzar los beneficios del Colegio para sí mismos o para los hijos a su cargo habidos con el socio del que traen causa.
+
+Asimismo, no podrán generar derechos, como tales socios cónyuges, a favor de un nuevo cónyuge o asimilado o de los hijos que pudiesen resultar de esta nueva unión.
+
+El mismo criterio se aplicará en los supuestos de nulidad matrimonial siempre que haya hijos nacidos dentro del matrimonio declarado nulo o, cuando sin haberlos, la nulidad se decrete tras un período de convivencia probada superior a dos años después de celebrado el matrimonio que se anula.
+
+> Se modifica por el art. único.2 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+> Redactados los apartados 7 y 8 conforme a la corrección de errores publicada en BOE núm. 135, de 6 de junio de 2002. [Ref. BOE-A-2002-11037](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-11037).
+
+### Sección segunda. De los socios protectores y socios de honor
+
+#### Art. 4.
+
+Pertenecerán al Colegio en concepto de socios protectores las personas o entidades que sean acreedoras a tal distinción por la ayuda o auxilio que presten al mismo.
+
+Serán socios de honor los altos cargos del Ministerio de Hacienda y Organismos y Entes que configuran la Hacienda Pública y aquellas personas que por su meritoria labor hayan contribuido a la realización de los altos fines del Colegio.
+
+La Asamblea general, en las normas internas de funcionamiento, establecerá los derechos de tales distinciones y resolverá sobre las personas físicas o jurídicas que han de ser acreedoras de los mismos, a propuesta de la Junta de Gobierno.
+
+> Se modifica por el art. único.3 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 135, de 6 de junio de 2002. [Ref. BOE-A-2002-11037](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-11037).
+
+## CAPÍTULO III — De los recursos económicos
+
+### Sección primera. De la obtención de medios
+
+#### Art. 5.
+
+Para la realización de sus fines, el Colegio contará con los siguientes medios económicos:
+
+1\. A) Las cuotas de los socios de número, incorporados por el sistema ordinario previsto en el apartado 1 del artículo 3, que se determinarán aplicando el porcentaje en vigor, inferior al uno por ciento, a la cantidad íntegra de todas las retribuciones que tengan asignadas. No se computarán a estos efectos las dietas e indemnizaciones por razón del servicio.
+
+El importe de las cuotas correspondientes a los socios que se encuentren en situación de excedencia o al servicio de organismos u otros entes no dependientes del Ministerio de Hacienda, se determinará tomando como base la última retribución anual percibida con las actualizaciones correspondientes.
+
+Las cuotas de los socios cónyuges y las de aquellos otros socios de número no indicados en los párrafos anteriores de este apartado así como su sistema de actualización, se fijarán en las normas internas de funcionamiento, sin que en ningún caso puedan ser inferiores a la cuota media resultante para el conjunto de todos los socios de número en el ejercicio anterior, actualizada en función del IPC.
+
+B) Las cuotas de los socios de número o socios cónyuges incorporados por el sistema extraordinario previsto en el artículo 3 del presente Reglamento, cuyas cuotas ordinarias serán iguales a las que les hubieran correspondido si su incorporación hubiera sido ordinaria, más una cuota extraordinaria calculada según la escala establecida a este efecto en las normas internas de funcionamiento.
+
+2\. Los beneficios derivados de la venta de publicaciones y otros productos cuya distribución comercial les encarguen sus respectivos editores o productores.
+
+3\. Los beneficios que se obtengan mediante la venta, por el Colegio, de impresos y otros soportes documentales que sean utilizados por los servicios del Ministerio de Hacienda.
+
+4\. Las cantidades que paguen los socios de número por la utilización de determinados servicios del Colegio.
+
+5\. Las donaciones, herencias, legados y demás aportaciones a título gratuito que puedan causarse a favor del Colegio conforme a la legislación vigente.
+
+6\. Los beneficios derivados de la constitución y participación en sociedades mercantiles, cuyo objeto social tenga relación con actividades desarrolladas por el propio Colegio para la consecución de sus fines, gestionándose las mismas con criterios de eficacia empresarial gozando de la autonomía propia de las entidades mercantiles, sin perjuicio de los controles, tanto internos, como externos, que se consideren necesarios o convenientes.
+
+7\. Las rentas del capital del Colegio y los demás ingresos que pueda obtener en el ejercicio de cualquier actividad que la Junta de Gobierno estime conveniente para el cumplimiento de los fines benéficos perseguidos.
+
+> Se modifica por el art. único.4 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+> Redactado el apartado 1.A) conforme a la corrección de errores publicada en BOE núm. 135, de 6 de junio de 2002. [Ref. BOE-A-2002-11037](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-11037).
+
+#### Art. 6.
+
+La Junta de Gobierno adoptará las medidas que considere oportunas para facilitar la recaudación de los recursos del Colegio.
+
+Con la finalidad de facilitar el cobro de las cuotas, mejorar la cooperación, así como para temas considerados de interés recíproco, se establecerán los acuerdos de colaboración que se consideren necesarios, con el Ministerio de Hacienda.
+
+> Se modifica por el art. único.5 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+### Sección segunda. De la gestión de fondos e inversiones
+
+#### Art. 7.
+
+1\. Los fondos que se recauden por el Colegio deberán ingresarse en cuenta o cuentas de los establecimientos de crédito que, a juicio de la Junta de Gobierno ofrezcan las debidas garantías, no pudiendo extraerse cantidad alguna sin la orden del Presidente, de la que el Interventor y el Tesorero tomarán razón en los correspondientes libros, autorizando los tres, o los que reglamentariamente les sustituyan, el cheque o recibo de la suma extraída.
+
+2\. Para hacer frente a los gastos corrientes derivados del normal funcionamiento del Colegio en las normas internas de funcionamiento se determinará la cantidad y modo de disposición.
+
+3\. El trasvase de fondos entre cuentas cuyo titular sea el Colegio para efectuar inversiones urgentes, no se considerará una extracción de fondos y podrá ser autorizado por el Presidente, que vendrá obligado a comunicarlo a la Junta de Gobierno en el plazo más breve posible.
+
+#### Art. 8.
+
+Con objeto de consolidar el patrimonio del Colegio y cubrir las reservas constituidas para garantizar el nivel de recursos necesarios para hacer frente a los compromisos asistenciales presentes y futuros, la Junta de Gobierno efectuará las inversiones con sujeción a los siguientes criterios:
+
+1\. Las inversiones atribuibles a las reservas de garantía de las obligaciones del CHH, las efectuará en bienes inmuebles o valores mobiliarios de renta fija que tengan garantía del Estado u otros organismos públicos o de otro modo, estén garantizados mediante hipoteca, aval o cualquiera otro título de garantía de análoga naturaleza.
+
+2\. Los excedentes sobre las reservas de garantía, podrán invertirse, previo acuerdo de la Asamblea general, en cualquiera de los activos anteriormente indicados, en títulos de participación en sociedades, u otras entidades que ofrezcan, a juicio de la Junta de Gobierno suficientes garantías de rentabilidad y recuperación de la inversión realizada.
+
+En las inversiones a realizar se cuidará especialmente, la seguridad, la rentabilidad y la concordancia con los fines del Colegio y se gestionarán con criterios ágiles, eficaces y profesionales.
+
+Cualquier inversión superior a ciento cincuenta mil doscientos cincuenta y tres euros con tres cents, será aprobada conforme al procedimiento que se establezca en las normas internas de funcionamiento.
+
+Se entenderá por reservas de garantía las que en cada ejercicio se determinen de acuerdo con el estudio actuarial efectuado para calcular el importe de los compromisos adquiridos por la institución con los beneficiarios que tenga en cada momento.
+
+> Se modifica por el art. único.6 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+## CAPÍTULO IV — Administración y gobierno de la Institución
+
+#### Art. 9.
+
+La gestión, administración y representación del Colegio corresponden a la Asamblea general, la Junta de Gobierno, la Comisión Ejecutiva y la Presidencia, conforme a las competencias asignadas a cada uno de estos órganos en el presente Reglamento. Para el cumplimiento de sus objetivos el Colegio contará con una organización profesional integrada por un Administrador general y los Directores de los departamentos y, el resto del personal dependiente de los mismos, en que se estructura el organigrama del CHH, cuya composición se definirá en la normas internas de funcionamiento.
+
+> Se modifica por el art. único.7 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+### Sección primera. De la Asamblea general
+
+#### Art. 10.
+
+La Asamblea general, órgano supremo del Colegio, estará integrada por la totalidad de los socios de número. Sus acuerdos reglamentariamente adoptados serán obligatorios para todos.
+
+#### Art. 11.
+
+Corresponde a la Asamblea general:
+
+1\. Elegir al Presidente y a los Vocales de la Junta de Gobierno y, en su caso, cesarlos.
+
+2\. Elaborar las directrices generales de actuación del Colegio y el diseño de políticas concretas.
+
+3\. Examinar y aprobar, en su caso, las memorias anuales de las diferentes actividades realizadas por el Colegio.
+
+4\. Examinar y aprobar, en su caso, las cuentas y ratificar los presupuestos de las diferentes actividades del Colegio.
+
+5\. Determinar las cuotas de los socios de número y su procedimiento de recaudación.
+
+6\. Acordar la modificación del presente Reglamento.
+
+7\. Aprobar y modificar, en su caso, las normas internas de funcionamiento.
+
+8\. Fijar el tipo y cuantía de las prestaciones y ayudas del Colegio.
+
+9\. Acordar la disolución del Colegio en los términos previstos por el presente Reglamento.
+
+10\. Cumplir y hacer cumplir los preceptos del presente Reglamento y normas internas de funcionamiento y resolver las dudas que en su aplicación y casos no previstos pudieran plantearse.
+
+11\. Adoptar cualquier otro acuerdo a propuesta de la Junta de Gobierno y relacionado con los fines del Colegio.
+
+> Se modifica por el art. único.8 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+#### Art. 12.
+
+Las reuniones de la Asamblea general podrán ser ordinarias o extraordinarias. Los socios no presentes en las mismas solamente podrán ser representados por otros socios asistentes, a cuyo fin deberán extender una autorización escrita en la que se indique la persona a la que se confiere la representación, la fecha de celebración de la Asamblea y, si la convocatoria lo precisa, el sentido específico del voto en cada uno de los asuntos señalados en el orden del día.
+
+1\. La Asamblea general ordinaria se constituirá una vez al año, durante el primer semestre, y será convocada por el Presidente a iniciativa propia, a requerimiento de la Junta de Gobierno o a solicitud de un cinco por cien de los socios con derecho a voto en la fecha de solicitud. Sus acuerdos se adoptarán por mayoría de los socios presentes y representados.
+
+2\. La Asamblea general extraordinaria se constituirá por iniciativa del Presidente, por acuerdo de un tercio de los componentes de la Junta de Gobierno o del cinco por cien de los socios con derecho a voto. Sus acuerdos se adoptarán por mayoría de los socios presentes y representados salvo, cuando se trate de adoptar acuerdos relacionados con:
+
+a) Modificación del presente Reglamento.
+
+b) Disolución del Colegio y, en su caso, liquidación y destino de su patrimonio.
+
+c) Aquellos asuntos que por su entidad y urgencia lo requieran.
+
+Dichos acuerdos se adoptarán por mayoría de tres quintos de los asistentes y representados.
+
+> Se modifica por el art. único.9 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+#### Art. 13.
+
+Las reuniones de la Asamblea general, tanto ordinarias como extraordinarias serán convocadas en el "Boletín Oficial del Estado" y en el del Ministerio de Hacienda, con una antelación mínima de quince días naturales, dentro de los cuales los socios podrán acceder a la documentación correspondiente a los asuntos a tratar en la Asamblea general.
+
+En la convocatoria se incluirá el orden del día, se indicará el carácter de ordinaria o extraordinaria y se podrá hacer constar la fecha en que, si procediera, se reunirá la Asamblea en segunda convocatoria, sin que, entre una y otra reunión, pueda mediar un plazo inferior a una hora.
+
+> Se modifica por el art. único.10 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+#### Art. 14.
+
+1\. Ostentará la presidencia de la Asamblea general el Presidente efectivo del Colegio o, en su ausencia, el Vicepresidente y, en ausencia de ambos, el socio más antiguo de la Junta de Gobierno presente en la reunión.
+
+2\. La Mesa estará constituida por el Presidente y tres miembros de la Junta de Gobierno, uno de los cuales será el Secretario, que lo será a su vez de la Mesa, el socio de más edad y el más joven, presentes a la hora del inicio de la reunión.
+
+En ausencia del Secretario le sustituirá el miembro más joven de la Junta de Gobierno presente en el acto.
+
+3\. La Mesa pondrá de manifiesto y controlará las delegaciones de asistencia válidamente conferidas por los socios ausentes y dirigirá el desarrollo de la Asamblea. Los acuerdos se tomarán por mayoría.
+
+4\. El orden del día de la Asamblea no podrá ser modificado ni se podrán tomar acuerdos sobre asuntos no incluidos en el mismo.
+
+5\. De las reuniones de la Asamblea general se levantará acta que será firmada por todos los miembros de la Mesa, quedando a disposición de los asociados.
+
+6\. La Asamblea quedará válidamente constituida en primera convocatoria, cuando concurran a ella, presentes o representados, la mayoría de los socios con derecho a voto, y en segunda convocatoria cualquiera que sea el número de los mismos.
+
+### Sección segunda. De la Junta de Gobierno
+
+#### Art. 15.
+
+La Junta de Gobierno, integrada por el Presidente y ocho Vocales, de los que cuatro como mínimo serán Delegados del Colegio y de éstos, al menos tres de provincias distintas a la de Madrid. Es el órgano de gobierno del Colegio, encargado de hacer ejecutar las directrices y política diseñadas por la Asamblea general, para lo que se marcarán los objetivos que considere oportunos y tomará los acuerdos que sean necesarios para una efectiva acción de gobierno, con sujeción a lo dispuesto en el presente Reglamento, normas internas de funcionamiento y acuerdos de la Asamblea general.
+
+> Se modifica por el art. único.11 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+#### Art. 16.
+
+1\. El Presidente de la Junta de Gobierno será nombrado de la forma prevista en el artículo veintiséis del presente Reglamento.
+
+2\. Los Vocales serán elegidos por la Asamblea general de entre los socios de número del Colegio, por un período de cuatro años, y hasta un máximo de ocho años, con posibilidad de una única reelección de forma sucesiva, renovándose cada dos años por mitades.
+
+3\. Todos los cargos de la Junta de Gobierno serán gratuitos y responderán de su gestión ante la Asamblea general.
+
+> Se modifica por el art. único.12 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+#### Art. 17.
+
+La Junta de Gobierno se reunirá por lo menos una vez cada trimestre y en cuantas ocasiones sea convocada por el Presidente, bien por iniciativa propia o a solicitud de la mitad más uno de los Vocales.
+
+#### Art. 18.
+
+La Junta de Gobierno quedará válidamente constituida cuando concurran a la reunión cinco o más de sus miembros, sus acuerdos se adoptarán por mayoría y en caso de empate decidirá el voto de calidad del Presidente.
+
+La asistencia a las reuniones podrá ser delegada por escrito en otro miembro de la Junta.
+
+#### Art. 19.
+
+Corresponden a la Junta de Gobierno, todas las competencias de gestión, administración y representación no reservadas a la Asamblea general y, a título indicativo y no limitativo, las siguientes:
+
+1\. Representar a la institución, con plena responsabilidad, en toda clase de documentos, actos y contratos, a través de su Presidente.
+
+2\. Dirigir todas las actividades de la institución y ejecutar las acciones necesarias para el pleno gobierno de la misma.
+
+3\. Resolver los expedientes de solicitud de beneficios dirigidos al Colegio. Las solicitudes asistenciales ajustadas a la normativa reglamentaria podrán ser aprobadas por el Presidente a propuesta de la organización profesional, de lo que dará cuenta a la Junta de Gobierno.
+
+4\. Resolver las reclamaciones que formulen los socios de número y los beneficiarios del Colegio, apreciando las circunstancias que concurran en cada caso.
+
+5\. Presentar anualmente a la Asamblea general las memorias de las actividades del Colegio, con indicación de los objetivos a conseguir y las cuentas correspondientes al ejercicio anterior.
+
+6\. Aprobar los presupuestos de ingresos y gastos de la institución y decidir inversiones.
+
+7\. Resolver las cuestiones que se susciten sobre la admisión de socios.
+
+8\. Acordar la pérdida de la condición de socio de número del Colegio en los casos previstos en el presente Reglamento.
+
+9\. Decidir, con carácter excepcional, la prórroga de la protección del Colegio en favor de aquellos beneficiarios en quienes concurran las circunstancias exigidas por el presente Reglamento y normas internas de funcionamiento.
+
+10\. Ejecutar o hacer que se ejecuten las disposiciones del presente Reglamento y acuerdos de la Asamblea general.
+
+11\. Otorgar los poderes que considere necesarios o convenientes.
+
+12\. Elegir entre sus miembros los que vayan a ejercer las funciones de Vicepresidente, de Interventor, de Tesorero y de Secretario, y determinar los miembros de la Junta que hayan de sustituirlos en casos de vacante, ausencia o enfermedad.
+
+13\. Fijar los objetivos y otorgar facultades al órgano superior de la organización profesional.
+
+14\. Resolver los recursos que se presenten contra las resoluciones de la Comisión Ejecutiva en los expedientes de solicitud de beneficios.
+
+15\. Acordar las acciones que juzgue necesarias para la consecución de los fines del Colegio.
+
+16\. Designar a los Delegados del Colegio en los términos y condiciones establecidas en el presente Reglamento.
+
+17\. Designar a la terna de candidatos para la elección de Presidente conforme a lo establecido en el presente Reglamento y las normas internas de funcionamiento.
+
+18\. Ejercer todas las atribuciones que le confiere el presente Reglamento y Normas Internas de funcionamiento.
+
+La Junta de Gobierno podrá delegar las funciones meramente ejecutivas.
+
+> Se modifica por el art. único.13 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+#### Art. 20.
+
+Corresponde al Interventor:
+
+1\. Formar el proyecto de los presupuestos de ingresos y gastos del Colegio.
+
+2\. Intervenir todas las operaciones relativas a la inversión de los fondos del Colegio y las correspondientes a la ejecución de los presupuestos anuales.
+
+3\. Autorizar con su firma, en unión del Presidente y del Tesorero, los documentos necesarios para satisfacer obligaciones con cargo a las cuentas abiertas en las Entidades financieras autorizadas, salvo la disponibilidad de los fondos destinados a gastos para cubrir las necesidades del normal funcionamiento del Colegio que se efectuará en la forme prevista en las normas internas de funcionamiento.
+
+4\. Supervisar la contabilidad del Colegio.
+
+5\. Formar mensualmente un estado de gestion y anualmente las cuentas que la Junta haya de someter a la Asamblea general.
+
+#### Art. 21.
+
+Corresponde al Tesorero:
+
+1\. Dirigir la recaudación de todas las cantidades que reglamentariamente corresponda ingresar y hacer frente a las obligaciones cuyas órdenes de pago estén autorizadas por el Presidente e intervenidas reglamentariamente.
+
+2\. Ordenar el ingreso de las cantidades que recaude por todos los conceptos en las cuentas abiertas a nombre del Colegio en las Entidades autorizadas por la Junta de Gobierno. Podrá conservar bajo su custodia, en la forma que se determine en las normas internas de funcionamiento, los fondos destinados para cubrir las necesidades del normal funcionamiento del Colegio.
+
+3\. Velar por la custodia de los resguardos de depósitos y talonarios de cuentas corrientes abiertas en las Entidades mencionadas en el apartado anterior, firmando en unión del Presidente y del Interventor las órdenes oportunas para extraer de aquellas cuentas las cantidades necesarias.
+
+4\. Dirigir el control contable que permita conocer en todo momento, con exactitud, la situación de la tesorería del Colegio.
+
+#### Art. 22.
+
+Corresponde al Secretario:
+
+1\. Actuar como tal en las reuniones de la Asamblea general, Junta de Gobierno y Comisión Ejecutiva, redactando las correspondientes actas, que autorizará con su firma, en unión del Presidente.
+
+2\. Cuidar del cumplimiento del régimen documental, trámites y procedimiento de los servicios del Colegio.
+
+3\. Redactar, de acuerdo con el Presidente, el orden del día para las reuniones de la Junta de Gobierno y de la Asamblea general, así como la convocatoria de las mismas.
+
+4\. Redactar las Memorias anuales que la Junta de Gobierno debe someter a la Asamblea general.
+
+5\. Tener a su cargo el archivo del Colegio.
+
+6\. Velar por la asistencia a los protegidos.
+
+#### Art. 23.
+
+Para el mejor ejercicio de sus funciones, el Presidente, el Interventor, el Tesorero y el Secretario contarán con el apoyo de la organización profesional del Colegio y podrán delegar las funciones ejecutivas que consideren oportunas o convenientes.
+
+> Se modifica por el art. único.14 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+### Sección tercera. De la Comisión Ejecutiva
+
+#### Art. 24.
+
+El Vicepresidente, el Interventor, el Tesorero y el Secretario de la Junta de Gobierno formarán, junto con el Presidente, la Comisión Ejecutiva.
+
+#### Art. 25.
+
+Corresponderá a la Comisión Ejecutiva:
+
+1\. Resolver por sí misma toda cuestión que por su importancia o urgencia sea necesaria para el mejor cumplimiento de los fines de la Institución, viniendo obligada a dar cuenta de todo ello a la Junta de Gobierno, y, en su caso, a la Asamblea general.
+
+2\. Resolver discrecionalmente los expedientes de solicitud de beneficios dirigidos al Colegio.
+
+3\. Cualquier otro asunto que le encomiende la Junta de Gobierno.
+
+### Sección cuarta. De la Presidencia
+
+#### Art. 26.
+
+1\. El Presidente es el representante del Colegio y lo será tanto de la Junta de Gobierno como de la Asamblea general.
+
+2\. Será Presidente honorario del Colegio el excelentísimo señor Ministro de Hacienda.
+
+La Presidencia efectiva será ejercida, con carácter gratuito, por la persona que libremente elija la Asamblea general, de entre una terna propuesta por la Junta de Gobierno. Para la inclusión en dicha terna se requerirá ser socio del Colegio con más de diez años de antigüedad y cumplir los requisitos que a tal efecto se determinen en las normas internas de funcionamiento. Una vez elegido por la Asamblea general será designado formalmente por el excelentísimo señor Ministro de Hacienda.
+
+El cargo de Presidente del Colegio se nombrará para un período de cuatro años, con posibilidad, de forma sucesiva, de una única reelección por un período de igual duración.
+
+En caso de vacante, ausencia o enfermedad, el Presidente efectivo será sustituido por el Vicepresidente y, en su defecto, por el Vocal de más edad.
+
+> Se modifica por el art. único.15 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+#### Art. 27.
+
+Corresponde al Presidente efectivo:
+
+1\. Representar al Colegio en todos los actos y contratos en que éste deba intervenir, y ante las autoridades y Tribunales, en cualquier clase de asuntos administrativos o judiciales a cuyo efecto podrá otorgar los poderes que sean necesarios o convenientes.
+
+2\. Desempeñar las tareas de relación con otras Instituciones y altos órganos de la Administración del Estado.
+
+3\. Presidir la Asamblea general y dirigir sus debates.
+
+4\. Presidir la Junta de Gobierno y, en su caso, la Comisión Ejecutiva, dirigiendo las deliberaciones y decidiendo las votaciones con su voto de calidad en caso de empate.
+
+5\. La coordinación e impulso de Ios diferentes servicios y actividades del Colegio.
+
+6\. Velar por el cumplimiento del presente Reglamento y de los acuerdos de la Asamblea general y de la Junta de Gobierno.
+
+7\. Convocar las reuniones de la Asamblea general, de la Junta de Gobierno y de la Comisión Ejecutiva.
+
+8\. Autorizar los nombramientos del personal retribuido del Colegio, así corno las comunicaciones y escritos que no sean de mero trámite.
+
+9\. Ordenar los pagos, ejercitar todas las facultades y cumplir los deberes que le conciernan para la ejecución de los acuerdos de la Asamblea general y de la Junta de Gobierno.
+
+Las funciones contempladas en los apartados 8 y 9 del presente artículo podrán ser delegadas.
+
+### Sección quinta. De las Auditorías
+
+#### Art. 28.
+
+Las memorias anuales de las actividades del Colegio, las cuentas correspondientes al mismo ejercicio y la gestión, serán sometidas a examen e informe de dos Auditores, quienes propondrán por escrito su aprobación o formularán los reparos que estimen convenientes. Para realizar esta labor, los Auditores podrán examinar la contabilidad y todos los antecedentes, con la mayor amplitud, sin que puedan revelar particularmente a los socios, o a terceros, el resultado de sus actuaciones.
+
+Los Auditores serán designados cada año por el Subsecretario de Hacienda, a propuesta del Interventor General de la Administración del Estado, entre los funcionarios adscritos a dicho Centro y no cesarán en su función hasta que sean aprobadas las memorias y las cuentas del año correspondiente por la primera Asamblea general ordinaria que se celebre dentro del primer semestre del año siguiente.
+
+> Se modifica por el art. único.16 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+### Sección sexta. De los Delegados del Colegio
+
+#### Art. 29.
+
+1\. El Delegado del Colegio es el representante de la Junta de Gobierno en el ámbito de su circunscripción.
+
+En cada Delegación del Ministerio de Hacienda, de la A.E.A.T., centros directivos y Organismos u otros entes existirá un Delegado del Colegio designado por la Junta de Gobierno, de entre los socios de número adscritos a ellos, a propuesta de los Jefes superiores de los indicados centros, una vez oídos los socios, por un período de cuatro años renovable por períodos iguales y sucesivos y con carácter gratuito.
+
+Excepcionalmente, donde el colectivo de socios sea numeroso, se podrá designar a varios Delegados del Colegio que actuarán de forma individual o colegiada, según los casos.
+
+2\. Corresponde a los Delegados del Colegio:
+
+a) Representar a la Junta de Gobierno en el ámbito de su circunscripción, con las facultades que se le asignen.
+
+b) Desempeñar las tareas de relación con otras instituciones, organismos de la Administración periférica del Estado, socios y beneficiarios.
+
+c) Elaborar los informes asistenciales que la Junta de Gobierno le solicite.
+
+d) Desarrollar tareas de captación de socios, información y fomento del Colegio, con divulgación de sus fines.
+
+e) Informar las solicitudes para el reconocimiento o concesión de los beneficiarios que integran la acción protectora del Colegio, remitiéndolos a la Junta de Gobierno para su resolución.
+
+f) Desempeñar las demás funciones derivadas de la aplicación del presente Reglamento, normas internas de funcionamiento o emanadas de la Junta de Gobierno.
+
+Para la realización de su cometido, los Delegados del Colegio contarán con el apoyo de la organización profesional de la Institución.
+
+> Se modifica por el art. único.17 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+### Sección Séptima. Del Administrador general.
+
+> Se añade por el art. único.18 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+#### Art. 30.
+
+El Administrador general, que depende de la Junta de Gobierno a través de su Presidente, ostenta la jefatura de todos los Departamentos y servicios del Colegio y es el órgano superior de la organización profesional de la Institución.
+
+El Administrador general será el encargado, con el apoyo de la organización profesional, de la gestión y ejecución de las directrices señaladas por la Junta de Gobierno, responsabilizándose de su cumplimiento con las facultades que se le establezcan en las normas internas de funcionamiento y en el poder notarial, que a tal efecto, le confiera la Junta de Gobierno.
+
+> Se modifica por el art. único.19 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+## CAPÍTULO V — De la acción protectora
+
+#### Art. 31.
+
+El cumplimiento de los fines del Colegio se realizará directamente a través de prestaciones, ayudas y demás beneficios que establezca la Asamblea general, de acuerdo con lo dispuesto en el presente Reglamento y normas internas de funcionamiento, o indirectamente a través de fundaciones, asociaciones y sociedades constituidas o participadas por el Colegio.
+
+Para garantizar los derechos económicos de los beneficiarios, presentes y futuros, el Colegio deberá constituir las reservas técnicas determinadas a través del correspondiente estudio actuarial que se realizará anualmente. La Asamblea general, a propuesta de la Junta de Gobierno, destinará de los beneficios de cada ejercicio, en primer lugar, las cantidades necesarias para que dicha reserva alcance el nivel establecido. Esta reserva se materializará en bienes inmuebles, valores mobiliarios y el efectivo necesario para garantizar la liquidez de la Institución en cuanto a los pagos de las prestaciones.
+
+> Se modifica por el art. único.20 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+#### Art. 32.
+
+1\. Se considerarán beneficiarios a todos los efectos del presente Reglamento, los hijos de los socios de número, menores de la edad que se determine en las normas internas de funcionamiento, y los discapacitados cualquiera que sea su edad, en los que concurran alguna de las siguientes circunstancias: Fallecimiento del socio, inutilidad física o mental de éste, o algunas otras circunstancias sobrevenidas que redunden en grave detrimento de la capacidad familiar del asociado para hacer frente al pleno desarrollo del beneficiario, en los términos que establece este Reglamento y las normas internas de funcionamiento.
+
+En los casos en que concurra invalidez permanente en el beneficiario, o en un hijo de socio que conviva y dependa económicamente del socio, no se tendrá en cuenta limitación de edad alguna para que éste pueda disfrutar de la plenitud de derechos del Colegio, en los términos que se indiquen en las normas internas de funcionamiento.
+
+Con independencia del límite de edad establecido la situación de beneficiario podrá ser objeto de prórroga en los términos y condiciones que establezcan las normas internas de funcionamiento.
+
+2\. La concesión de prestaciones, ayudas, u otros beneficios en la cuantía y forma que se establezca, vendrán determinadas por las circunstancias, referidas a los socios de número, que a continuación se indican, apreciadas por la Junta de Gobierno o Comisión Ejecutiva, con el orden de prioridad que se señala:
+
+1.ª El fallecimiento.
+
+2.ª Inutilidad física o mental derivada de enfermedad común, profesional o accidente ocurrido en fecha posterior a la de su incorporación al Colegio, o de enfermedad crónica o degenerativa puesta de manifiesto con posterioridad a dicha fecha.
+
+3.ª Cualquier otra circunstancia sobrevenida que altere gravemente el entorno familiar y perturbe el pleno desarrollo del beneficiario.
+
+4.ª Sólo por lo que se refiere a determinados beneficios y mediante el pago correspondiente, las situaciones que considere la Asamblea general, no contempladas en los apartados precedentes.
+
+3\. Se considerarán perceptores de ayudas complementarias, los destinatarios de cualquier ayuda o beneficio establecido por el Colegio con carácter graciable para atender necesidades distintas de las derivadas de la condición de beneficiario o complementarias a las mismas. Dichas ayudas complementarias se atenderán a través de planes especiales en la medida que lo permitan los recursos disponibles en cada ejercicio y, en los términos y condiciones que se establezcan en este Reglamento y normas internas de funcionamiento.
+
+> Se modifica por el art. único.21 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+#### Art. 33.
+
+La protección a los beneficiarios se llevará a efecto en función de los recursos disponibles y siguiendo las prioridades establecidas en el presente Reglamento, en la cuantía, forma y condiciones que determine la Asamblea general a través de sus normas internas de funcionamiento y acuerdos complementarios.
+
+#### Art. 34.
+
+La protección del Colegio se llevará a efecto en la forma que determine la Asamblea general, mediante pensiones alimenticias, ayudas para vestuario, asistencias médico-quirúrgicas, farmacéuticas, instrucción o cualquier otra que se establezca.
+
+#### Art. 35.
+
+Contra las Resoluciones de la Comisión Ejecutiva que recaigan sobre expedientes de solicitud de beneficios se dará recurso de alzada ante la Junta de Gobierno,
+
+#### Art. 36.
+
+1\. Cesará la protección del Colegio:
+
+a) Al cumplir los beneficiarios la edad que se determine en las normas internas de funcionamiento.
+
+b) En todo momento, por renuncia expresa del beneficiario, con autorización en su caso del representante legal.
+
+c) Al percibir el beneficiario rentas de trabajo por el importe que se señale en las normas internas de funcionamiento. En estos casos, el cese será transitorio, recuperándose la plenitud de derechos al modificarse las causas que originaron la suspensión.
+
+d) Por alteración fraudulenta de datos que pudieran ser sustanciales para la concesión de cualquier tipo de ayuda, apreciado por la Junta de Gobierno en resolución motivada, tras la instrucción del oportuno expediente.
+
+2\. Cuando concurran circunstancias excepcionales, la protección podrá prorrogarse en la forma prevista por la Asamblea general en sus normas internas de funcionamiento.
+
+> Se modifica por el art. único.22 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+## CAPÍTULO VI — Disposiciones Generales.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 222, de 16 de septiembre de 1991. [Ref. BOE-A-1991-23387](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-23387).
+
+### Sección primera. Domicilio, duración y ejercicio social de la Institución
+
+#### Art. 37.
+
+El Colegio tendrá su domicilio social en el lugar que se determine en las normas internas de funcionamiento, dentro del municipio de Madrid y podrá establecer oficinas en cualquier punto de la geografía nacional.
+
+#### Art. 38.
+
+El Colegio tendrá una duración indefinida y los ejercicios sociales empezarán el 1 de enero y terminarán el 31 de diciembre de cada año.
+
+### Sección segunda. Régimen jurídico
+
+#### Art. 39.
+
+El Colegio se regirá por el presente Reglamento y sus normas internas de funcionamiento.
+
+Todos los socios de número y beneficiarios se entenderá que renuncian al fuero propio de su domicilio, sometiéndose a los juzgados y Tribunales de Madrid capital, para los asuntos e incidencias que puedan suscitarse en sus relaciones con el Colegio.
+
+> Se modifica por el art. único.23 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+#### Art. 40.
+
+Las acciones para exigir el pago de prestaciones devengadas prescribirán por el transcurso de un año, contado desde el día en que pudieran ejecutarse.
+
+### Sección tercera. Régimen contable
+
+#### Art. 41.
+
+El régimen cantable del Colegio será el establecido en el Plan General de Contabilidad y en las disposiciones de las normas internas de funcionamiento.
+
+Las Memorias anuales, las cuentas de cada ejercicio y el informe de los Auditores podrán ser examinados por los socios en el domicilio del Colegio, quince días antes de la celebración de la Asamblea general ordinaria.
+
+Con independencia de los Auditores indicados en el artículo 28 se podrán establecer los mecanismos de control que se consideren necesarios en el funcionamiento cotidiano del Colegio y en el ámbito de su organización administrativa, asistencial y empresarial.
+
+### Sección cuarta. Disolución, liquidación y destino del patrimonio
+
+#### Art. 42.
+
+En caso de no ser posible aplicar la actividad y los medios de que dispone el Colegio a los fines previstos por este Reglamento, la Asamblea general podrá acordar la disolución con liquidación de su patrimonio, cuyo destino, en todo caso, tendrá finalidad asistencial y redundará. principalmente, en favor de los beneficiarios reales y potenciales del Colegio, de la forma y modo que se determine.
+
+### Sección quinta. Régimen documental
+
+#### Art. 43.
+
+El Colegio tendrá el régimen documental siguiente:
+
+1\. Libro de registro general de socios, donde constarán sus circunstancias personales y administrativas.
+
+2\. Libro de registro general del beneficiario.
+
+3\. Libro de actas de la Asamblea general.
+
+4\. Libros de actas de la Junta de Gobierno y de la Comisión Ejecutiva.
+
+5\. Libros de registro de entrada y salida de documentos.
+
+6\. Los libros de contabilidad exigidos por la Ley.
+
+7\. Cualquier libro auxiliar que se considere necesario.
+
+Toda la documentación estará bajo la custodia de la Junta de Gobierno, a través de la organización profesional, a disposición de los socios de número, previa solicitud razonada por escrito a la Junta de Gobierno y podrá contar con soporte informático adecuadamente protegido.
+
+> Se modifica por el art. único.24 de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 222, de 16 de septiembre de 1991. [Ref. BOE-A-1991-23387](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-23387).
+
+#### Disposición transitoria primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+#### Disposición transitoria segunda.
+
+En tanto se establecen los acuerdos de colaboración con el Ministerio de Economía y Hacienda, previstos en el artículo 6.º del presente Reglamento, la recaudación de las cuotas de los socios de número se efectuará:
+
+a) Respecto a las retribuciones libradas sobre las Tesorerías de las Delegaciones de Hacienda, cualquiera que sea el Ministerio, Dependencia u Organismo en que el socio preste servicio, los Habilitados las liquidarán en la nómina, a cuyo efecto se añadirá en este documento una columna especial y al expedir los oportunos mandamientos de pago, anotará en el cajetín correspondiente el importe liquidado que será descontado en formalización.
+
+Este descuento se aplicará en formalización a un concepto extrapresupuestario denominado «Cuotas del Colegio para Huérfanos de Funcionarios de Hacienda Pública». Por el saldo de este concepto en fin de cada mes la Intervención procederá a su devolución en formalización para aplicarlo a «Fondos centralizados en la Dirección General del Tesoro y Política Financiera». Antes de proceder a esta devolución se comprobará su exactitud, debiendo efectuarse todas estas operaciones en la primera quincena del mes siguiente al que correspondan.
+
+La documentación acreditativa de la operación anteriormente indicada se remitirá a la Intervención de la Dirección General del Tesoro y Política Financiera para su aplicación contable a un concepto denominado «Fondos procedentes de las cuotas a disposición del Colegio para Huérfanos de Funcionarios de la Hacienda Pública».
+
+La Dirección General del Tesoro y Política Financiara abonará mensualmente el saldo de dicha cuenta en fin del mes anterior previa petición del Presidente de la Junta de Gobierno al Colegio.
+
+b) Cuando se trate de retribuciones libradas sobre la Tesorería Central, los Habilitados procederán como en el apartado anterior y la aplicación del descuento correspondiente al Colegio se hará directamente al concepto a que se ha hecho referencia.
+
+La Intervención de la Dirección General del Tesoro y Política Financiera facilitará mensualmente a la Administración del Colegio una relación de los ingresos efectuados en dicho período.
+
+c) Cuando se trate de retribuciones satisfechas por medio de libramientos «a justificar», los perceptores vendrán obligados a unir a la cuenta justificativa de la inversión de fondos la carta de pago que acredite haber ingresado en la respectiva Delegación de Hacienda o Dirección General del Tesoro y Política Financiera las cuotas que, en su caso, correspondan a aquellas retribuciones.
+
+d) Las cuotas correspondientes a retribuciones no incluidas en los apartados anteriores se ingresarán directa y trimestralmente por el socio dentro del primer mes del trimestre natural siguiente en la cuenta corriente abierta en el Banco de España a nombre del Colegio para Huérfanos de Funcionarios de la Hacienda Pública, o directamente en las oficinas del Colegio.
+
+#### Disposición transitoria tercera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+#### Disposición transitoria cuarta.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+#### Disposición transitoria quinta.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Orden HAC/917/2002, de 15 de abril. [Ref. BOE-A-2002-8099](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8099).
+
+> Redactado conforme a las correcciones de errores y erratas publicadas en BOE núms. 222, de 16 de septiembre de 1991. [Ref. BOE-A-1991-23387](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-23387). y 262, de 1 de noviembre de 1991. [Ref. BOE-A-1991-26487](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-26487).
+
+#### Disposición derogatoria.
+
+A partir de la entrada en vigor del presente Reglamento queda derogado el Reglamento aprobado por Orden del Ministerio de Economía y Hacienda de 27 de noviembre de 1986
+
+#### Disposición final.
+
+El presente Reglamento entrará en vigor a los veinte días de su completa publicación en el «Boletín Oficial del Estado», en unión de la Orden del excelentísimo señor Ministro de Economía Hacienda aprobatoria de aquél.

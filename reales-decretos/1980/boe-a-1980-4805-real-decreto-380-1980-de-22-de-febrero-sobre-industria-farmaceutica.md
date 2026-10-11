@@ -1,0 +1,137 @@
+---
+title: "Real Decreto 380/1980, de 22 de febrero, sobre industria farmacéutica"
+identifier: "BOE-A-1980-4805"
+eli: "https://www.boe.es/eli/es/rd/1980/02/22/380"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria y Energía"
+date: 1980-02-22
+published: 1980-03-03
+in_force_from: 1980-03-23
+last_amended: 1990-03-02
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 54"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1980-4805"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 380/1980, de 22 de febrero, sobre industria farmacéutica
+
+La importancia económica del sector de fabricación de materias primas farmacéuticas, que se ha desarrollado considerablemente en España en los últimos años, justifica que se individualice su tratamiento administrativo. Además, resulta conveniente sustituir el Decreto 1418/1973, de 10 de mayo, sobre ordenación de la industria farmacéutica, por una nueva disposición que considera la realidad actual de la industria farmacéutica en el marco de las circunstancias socioeconómicas actuales y de su previsible evolución.
+
+Por ello, el presente Real Decreto establece, en primer lugar, dos normas de carácter general para el sector industrial farmacéutico, la primera de las cuales define dicho sector, diferenciando claramente el subsector de especialidades farmacéuticas del de materias primas para uso farmacéutico, mientras la segunda actualiza la regulación del Registro de Empresas Farmacéuticas, creado por el Decreto mil cuatrocientos dieciocho/mil novecientos setenta y tres, de diez de mayo.
+
+Entre los preceptos de carácter específico que regulen la actividad de fabricación de productos de uso farmacéutico, este Real Decreto dispone la adopción de medidas liberalizadoras. Estas medidas liberalizadoras no afectarán a la fabricación de aquellos productos de uso farmacéutico que están sometidos a control del Estado, como estupefacientes, psicotrópicos u otros que por razones sanitarias se sometan a dicho control.
+
+Se establecen también medidas de estímulo y promoción a la fabricación de materias primas y a la investigación y desarrollo tecnológico. Estas medidas, conjuntamente con las disposiciones específicas que para estimular la fusión y concentración de Empresas pudieran adoptarse en el futuro, tienen por objeto impulsar al sector a adoptar una estructura que permita afrontar con éxito la integración de la economía española en una comunidad de intereses más amplia.
+
+Finalmente, se crea la Junta Asesora de Materias Primas de Uso Farmacéutico, como una Comisión Mixta de estimable ayuda al Ministerio de Industria y Energía, para la adopción de las medidas que caen en el ámbito de sus competencias, pero que tienen complejas aplicaciones en otros sectores de la Administración y de la sociedad.
+
+En su virtud, a propuesta del Ministro de Industria y Energía y previa deliberación del Consejo de Ministros del día veintidós de febrero de mil novecientos ochenta,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo primero. Definiciones.
+
+A efectos del presente Real Decreto, se entenderá por:
+
+Uno. Industria farmacéutica, tanto la producción de especialidades farmacéuticas como la fabricación de materias primas de uso farmacéutico.
+
+Dos. Especialidades farmacéuticas, las así definidas en la legislación sanitaria.
+
+Tres. Materias primas de uso farmacéutico, las sustancias terapéuticamente activas y los productos intermedios y sustancias excipientes y auxiliares que, de forma muy específica, se emplean en la fabricación de las especialidades farmacéuticas.
+
+El Ministerio de Industria y Energía, teniendo en cuenta la calificación del Ministerio de Sanidad y Seguridad Social sobre actividad terapéutica de los productos farmacéuticos y previo informe de la Junta Asesora que se crea en el artículo octavo del presente Real Decreto, determinará las sustancias y productos que se considerarán materias primas de uso farmacéutico.
+
+### Artículo segundo. Registro de Empresas dedicados a la industria farmacéutica.
+
+Uno. Las industrias farmacéuticas existentes y las que se instalen en el futuro deberán inscribirse en el Registro de Empresas dedicadas a la Industria Farmacéutica, creado por el Decreto mil cuatrocientos dieciocho/mil novecientos setenta y tres, de diez de mayo, dependiente de la Dirección General de Industrias Químicas y Textiles del Ministerio de Industria y Energía. Dicha inscripción se practicará, previa solicitud del interesado, de acuerdo con lo que se establezca por Orden ministerial que también regulará las modificaciones que deben anotarse en el citado Registro.
+
+Dos. Las industrias farmacéuticas deberán cumplir las condiciones técnicas en relación con una correcta fabricación industrial exigibles a las instalaciones de fabricación de productos destinados a uso farmacéutico, que señale el Ministerio de Industria y Energía. Dichas condiciones deberán constar en los proyectos de nuevas instalaciones o modificación de las ya existentes que se inscriban provisionalmente en el Registro Industrial y será necesario su estricto cumplimiento para practicar la inscripción definitiva.
+
+Tres. No se procederá a la inscripción provisional o a la anotación de modificaciones en el Registro Industrial si, previamente, la Empresa solicitante no ha cumplido lo establecido en el número uno de este artículo.
+
+Cuatro. Las inscripciones del Registro de Empresas dedicadas a la Industria Farmacéutica podrán cancelarse mediante resolución de la Dirección General de Industrias Químicas y Textiles, adoptada previa instrucción de expediente, que se tramitará conforme a lo prevenido en el capítulo segundo del título sexto de la Ley de Procedimiento Administrativo, cuando se haya producido el falseamiento o declaración inexacta de los datos y circunstancias que sirvieron de base a la inscripción inicial o a las anotaciones posteriores.
+
+Cinco. La Dirección General de Industrias Químicas y Textiles, previo informe de la Junta Asesora que se crea en el artículo octavo y de acuerdo con los criterios que determine el Ministerio de Industria y Energía, clasificará las Empresas productoras de especialidades farmacéuticas inscritas en el Registro de Empresas dedicadas a la Industria Farmacéutica, a los efectos señalados en el número uno del artículo quinto del Real Decreto tres mil ciento cincuenta y dos/mil novecientos setenta y siete, de siete de noviembre.
+
+## CAPÍTULO II — Disposiciones sobre la fabricación de especialidades farmacéuticas
+
+### Artículo tercero. Medidas liberalizadoras.
+
+Se autoriza la libre instalación, ampliación y traslado de las industrias de fabricación de especialidades farmacéuticas, sin perjuicio de las autorizaciones de fabricación y cumplimiento de lo prevenido en la legislación sanitaria.
+
+Queda exceptuada de lo establecido en el párrafo anterior, por estar sometida a control del Estado, la producción de especialidades farmacéuticas que contengan estupefacientes y psico-trópicos.
+
+## CAPÍTULO III — Disposiciones sobre la fabricación de materias primas de uso farmacéutico
+
+### Artículo cuarto. Medidas liberalizadoras.
+
+Uno. Se autoriza la libre instalación, ampliación y traslado de las industrias de fabricación de materias primas de uso farmacéutico.
+
+Queda exceptuada de lo establecido en el párrafo anterior, por estar sometida a control del Estado, la producción de estupefacientes y psicotrópicos.
+
+Dos. La información exigible a las Empresas productoras de materias primas de uso farmacéutico sobre su actividad industrial, fabril y productiva, se realizara de acuerdo con lo establecido en el artículo segundo del presente Real Decreto. La información y control que ejercerán los Ministerios de Sanidad y Seguridad Social y de Agricultura sobre los fabricantes de dichas materias primas, en el ejercicio de las facultades que les atribuye el Real Decreto novecientos veinte/mil novecientos setenta y ocho, de catorce de abril, y la Ley de Epizootias se referirá a los aspectos sanitarios y zoosanitarios de su producción, respectivamente.
+
+Las Direcciones Generales de Farmacia y Medicamentos, de la Producción Agraria y de Industrias Químicas y Textiles se comunicarán mutuamente las informaciones industriales, sanitarias y zoosanitarias obtenidas, de acuerdo con lo dispuesto en el párrafo anterior.
+
+### Artículo quinto. Fomento de la producción.
+
+Uno. Para la calificación de interés preferente no será exigible el porcentaje fijado en la condición quinta del artículo tercero del Real Decreto dos mil dos/mil novecientos setenta y seis, de dieciocho de junio.
+
+Dos. Se considerará circunstancia favorable a los efectos de la clasificación, a que se refiere el punto cinco del artículo segundo del presente Real Decreto el hecho de que las Empresas elaboradoras de especialidades farmacéuticas produzcan materias primas de uso farmacéutico, participen en el capital social o que en el suyo propio tengan participación de otras Empresas fabricantes de materias primas de uso farmacéutico en territorio nacional. Para ello se tendrá en cuenta la cuantía de dicha participación.
+
+Tres. Corresponderá a la Dirección General de Industrias Químicas y Textiles, a los efectos previstos en los Reales Decretos tres mil ciento cincuenta y dos/mil novecientos setenta y siete, de siete de noviembre, y novecientos cuarenta seis/mil novecientos setenta y ocho, de catorce de abril, colaborar con la Dirección General de Farmacia y Medicamentos, realizando las siguientes funciones:
+
+a) Informar sobre el origen de las materias primas contenidas en las especialidades farmacéuticas.
+
+b) Informar sobre la fabricación de materias primas de uso farmacéutico elaboradas por Empresas declaradas de «interés preferente».
+
+c) Informar a los afectos señalados en el artículo quinto, número uno, del referido Real Decreto tres mil ciento cincuenta y dos/mil novecientos setenta y siete, de siete de noviembre.
+
+### Artículo sexto. Fomento de la tecnología.
+
+Uno. El Centro para el Desarrollo Tecnológico Industrial, dependiente del Ministerio de Industria y Energía, dará carácter prioritario, dentro de su actuación, a la promoción de la investigación y desarrollo tecnológico del sector de fabricación de materias primas de uso farmacéutico, previo un estudio de las posibilidades del sector.
+
+Dos. Se considerará circunstancia favorable a los efectos de la clasificación a que se refiere el punto cinco del artículo segundo del presente Real Decreto el hecho de que las Empresas elaboradoras de especialidades farmacéuticas realicen actividades de investigación y de desarrollo tecnológico, participen en el capital social o que en el suyo propio tengan participación de otras Empresas que realicen dichas actividades en territorio nacional. Para ello se tendrá en cuenta la cuantía de dicha participación.
+
+Tres. A los efectos de los criterios de la actuación de los representantes del Ministerio de Industria y Energía en la Comisión Asesora de Investigación Científica y Técnica la promoción de proyectos de investigación y desarrollo tecnológico en el área de las materias primas de uso farmacéutico se considerará de carácter prioritario.
+
+Cuatro. Corresponderá a la Dirección General de Industrias Químicas y Textiles colaborar con la Dirección General de Farmacia y Medicamentos, a los efectos previstos en los Reales Decretos tres mil ciento cincuenta y dos/mil novecientos setenta y siete, de siete de noviembre, y novecientos cuarenta y seis/mil novecientos setenta y ocho, de catorce de abril, informando sobre las materias primas que se fabrican con tecnología española.
+
+### Artículo séptimo. Valoración de materias primas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 271/1990, de 23 de febrero. [Ref. BOE-A-1990-5368](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-5368).
+
+### Artículo octavo. Junta Asesora de Materias Primas de Uso Farmacéutico.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 271/1990, de 23 de febrero. [Ref. BOE-A-1990-5368](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-5368).
+
+## DISPOSICIÓN DEROGATORIA
+
+Quedan derogados el Decreto mil cuatrocientos dieciocho/mil novecientos setenta y tres, de diez de mayo, sin perjuicio de la subsistencia del Registro de Empresas dedicadas a la Industria Farmacéutica, y el Real Decreto tres mil quinientos seis/mil novecientos setenta y siete, de dieciséis de diciembre, así como cuantas disposiciones del mismo o inferior rango se opongan a lo previsto en el presente Real Decreto.
+
+## DISPOSICIÓN TRANSITORIA
+
+Continúa en vigor la Orden del Ministerio de Industria de treinta de septiembre de mil novecientos setenta y cinco, que contiene la lista de sustancias y productos considerados como materias primas de uso farmacéutico, hasta tanto no se modifique ésta en la forma establecida en el párrafo segundo del número tres del artículo primero de la presente disposición.
+
+## DISPOSICIÓN FINAL
+
+Por el Ministerio de Industria y Energía se dictarán las disposiciones necesarias para el cumplimiento de lo dispuesto en el presente Real Decreto.
+
+Dado en Madrid a veintidós de febrero de mil novecientos ochenta.
+
+JUAN CARLOS R.
+
+El Ministro de Industria y Energía,
+
+CARLOS BUSTELO Y GARCÍA DEL REAL

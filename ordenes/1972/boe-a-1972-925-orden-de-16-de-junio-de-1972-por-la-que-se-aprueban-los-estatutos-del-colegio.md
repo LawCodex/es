@@ -1,0 +1,859 @@
+---
+title: "Orden de 16 de junio de 1972 por la que se aprueban los Estatutos del Colegio Oficial de Ingenieros Técnicos en Topografía"
+identifier: "BOE-A-1972-925"
+eli: "https://www.boe.es/eli/es/o/1972/06/16/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1972-06-16
+published: 1972-06-26
+in_force_from: 1972-07-16
+last_amended: 2001-07-18
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 152"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1972-925"
+retrieved: 2026-10-11
+---
+
+# Orden de 16 de junio de 1972 por la que se aprueban los Estatutos del Colegio Oficial de Ingenieros Técnicos en Topografía
+
+Incluye la corrección de errores publicada en BOE núm. 170, de 17 de julio de 1972. [Ref. BOE-A-1972-1054](https://www.boe.es/buscar/doc.php?id=BOE-A-1972-1054).
+
+Ilustrísimo señor:
+
+El Colegio Oficial de Ingenieros Técnicos en Topografía, de acuerdo con lo establecido en el artículo 23 de la Orden de 13 de octubre de 1965, que aprobó los Estatutos vigentes del citado Colegio, ha elevado a esta Presidencia del Gobierno propuesta de modificación de estos Estatutos, que fué aprobada en la Asamblea General Extraordinaria, convocada al efecto en 18 de enero de 1971.
+
+Esta Presidencia del Gobierno, conforme en lo sustancial con la aludida propuesta, ha acordado aprobar los Estatutos del Colegio Oficial de Ingenieros Técnicos en Topografía que se insertan a continuación.
+
+Lo que comunico a V. I. para su conocimiento y efectos.
+
+Dios guarde a V. I.
+
+Madrid, 18 de junio de 1972.
+
+CARRERO
+
+Ilmo. Sr. Director general de Servicios.
+
+## ESTATUTOS DEL COLEGIO OFICIAL DE INGENIEROS TÉCNICOS EN TOPOGRAFÍA
+
+## CAPÍTULO I — Disposiciones generales
+
+### Art. 1. Naturaleza y objeto.
+
+El Ilustre Colegio Oficial de Ingenieros Técnicos en Topografía es una corporación de derecho público, con plena capacidad jurídica, civil y administrativa, para la representación y defensa de la profesión. Su sede radica en Madrid, relacionándose con la Administración General del Estado a través del Ministerio de Fomento.
+
+> Se modifica por el art. único y anexo.1 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 2. Régimen del ejercicio.
+
+El ejercicio de la profesión de ingeniero técnico en topografía se realizará en régimen de libre competencia y estará sujeto, en cuanto a la oferta de servicios y fijación de su remuneración, a la Ley 16/1989, de 17 de julio, sobre Defensa de la Competencia, modificada por la Ley 52/1999, de 28 de diciembre, y Ley 3/1991, de 10 de enero, sobre Competencia Desleal. Los demás aspectos del ejercicio profesional continuarán rigiéndose por la legislación general y específica sobre la ordenación sustantiva propia de la profesión.
+
+> Se modifica por el art. único y anexo.1 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 3. Alcance.
+
+El Colegio agrupa a los ingenieros técnicos en topografía que practiquen el ejercicio profesional, siendo requisito indispensable la colegiación en esta corporación oficial para poder ejercer legalmente la profesión.
+
+Cuando la profesión se organice por Colegios Territoriales, bastará la incorporación a uno sólo de ellos, que será el del domicilio profesional único o principal para ejercer en todo el territorio del Estado.
+
+> Se modifica por el art. único y anexo.1 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 4. Emblema y patronazgo.
+
+El Colegio Oficial de Ingenieros Técnicos en Topografía tiene como emblema el siguiente:
+
+a) Una mira y un jalón en ángulo de 45o, cortados en su parte superior por una corona real.
+
+La mira estará situada a la izquierda y el jalón a la derecha, vistos desde dentro del escudo.
+
+b) Delante de este motivo aparece un taquímetro-teodolito.
+
+c) Y todo ello rodeado por dos ramas arqueadas, convergentes de abajo a arriba, la de la izquierda de hojas de roble y la de la derecha de hoja de laurel, vistas desde dentro del escudo. El emblema se reflejará en la medalla corporativa a utilizar por todos los miembros de la Junta de Gobierno en los actos oficiales, y circunstancias de honor y protocolo.
+
+El Colegio Nacional se coloca bajo el patrocinio de San Isidoro de Sevilla.
+
+> Se modifica por el art. único y anexo.1 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 5.
+
+Se entenderá por ejercicio de la profesión la dedicación a funciones, trabajos y actividades relacionadas con las atribuciones, facultades, derechos y prerrogativas que las disposiciones legales otorgan al título, así como cualesquiera otras en las que se aduzca, exhiba o utilice la condición de Ingeniero Técnico en Topografía, Perito Topógrafo, Topógrafo u otra análoga que pudiera inducir a error, tanto libremente como al servicio de Empresas, Entidades, Corporaciones, Sociedades, explotaciones, industrias o negocios relacionados con la especialidad de la Topografía.
+
+### Art. 6. Composición del Colegio.
+
+El Colegio Oficial de Ingenieros Técnicas en Topografía estará compuesto por todos los colegiados, incluidos los que lo sean de honor.
+
+Estará regido en primer grado por la Junta General de Colegiados; en segundo, por la Junta de Gobierno del Colegio, y en tercero, por el Decano.
+
+## CAPÍTULO II — Fines del Colegio
+
+### Art. 7. Enunciación de fines.
+
+En tanto el Colegio constituya la corporación representativa de la profesión con carácter nacional, tendrá como fines, entre otros que legalmente le puedan corresponder, los siguientes:
+
+1\. Asesorar a las Administraciones públicas, corporaciones oficiales, personas o entidades y a los colegiados, en todos aquellos asuntos que, directa o indirectamente, afecten a la profesión de ingeniero técnico en topografía, emitiendo informes, resolviendo consultas o actuando en arbitrajes técnicos y económicos, que pudieran serle solicitados o acuerde formular a iniciativa propia.
+
+2\. Informar, cuando sea requerido para ello, en las modificaciones de la legislación vigente, en cuanto se refiere a la profesión de ingeniero técnico en topografía.
+
+3\. Cooperar con la Administración de Justicia y demás organismos oficiales en la designación de ingenieros técnicos en topografía que hayan de realizar informes, dictámenes, tasaciones, peritaciones u otras actividades profesionales, a cuyo efecto se facilitarán periódicamente a tales organismos las relaciones de colegiados correspondientes.
+
+4\. Velar por los derechos y deberes de los colegiados, defendiéndoles debidamente, sobre todo en las cuestiones que afecten al interés general de la profesión, especialmente las que se deriven de las disposiciones legales vigentes, interviniendo en todo momento para que no se desconozca ni se dificulte su ejercicio.
+
+5\. Comparecer ante los Tribunales de Justicia por sustitución de los colegiados, ejercitando las acciones procedentes en reclamación de los honorarios devengados, cuando lo soliciten libre y expresamente, hayan cumplido con lo establecido en los presentes Estatutos y exista presupuesto aceptado, hoja de encargo o contrato.
+
+6\. Ostentar la representación de la Ingeniería Técnica Topográfica, de acuerdo con lo establecido en el artículo 1, apartado 3, de la Ley 2/1974, de 13 de febrero, de Colegios Profesionales, ante los Tribunales de Justicia, poderes públicos y autoridades de toda clase, sin perjuicio de la representación que correspondiera en el caso de que se creasen Colegios de la profesión dentro del ámbito territorial de las Comunidades Autónomas, al amparo de su legislación en esta materia.
+
+7\. Velar por el prestigio, independencia y decoro de la profesión, tanto en las relaciones mutuas de los colegiados como en las que mantengan con las autoridades, entidades y particulares, exigiendo a los colegiados el estricto cumplimiento de las normas de ética y moral profesional.
+
+8\. Adoptar las medidas conducentes a evitar el intrusismo profesional.
+
+9\. Visar los trabajos de los colegiados ; exigir, con carácter obligatorio, el visado en los trabajos profesionales de los mismos, tanto si actúan de manera individual como asociada, por cuenta propia o contratados al servicio de empresas o sociedades.
+
+Esta obligatoriedad de visado se hace extensible a los trabajos profesionales realizados por los colegiados para las Administraciones públicas, cuando éstas, total o parcialmente, remuneren dichos servicios en concepto de honorarios profesionales.
+
+El visado es un acto colegial de control profesional que comprende la acreditación de la identidad del colegiado, la no existencia de incompatibilidad legalmente establecida y el no estar sujeto a sanción disciplinaria que impida su realización. Asimismo, supone la comprobación de la correcta presentación e integridad de la documentación del trabajo.
+
+La resolución colegial, otorgando el visado de los trabajos profesionales presentados o denegándolos, deberá adoptarse en el plazo de diez días a partir de su presentación. Si el trabajo adoleciera de defectos subsanables a efectos del visado, se le concederá al colegiado un plazo de diez días para su corrección, transcurridos los cuales se iniciará el cómputo del plazo para el otorgamiento o denegación del mismo. La denegación sólo podrá tener lugar por no reunir el colegiado las condiciones estatutarias requeridas, por incompatibilidad legalmente establecida o por incorrección en su contenido formal de la documentación técnica objeto del visado, de conformidad con la normativa establecida.
+
+La resolución colegial denegatoria del visado, motivada y razonada, se notificará a los interesados en el plazo de diez días, y deberá contener el texto íntegro del acuerdo adoptado. En la notificación a los interesados se indicará, además, si la resolución es o no definitiva en vía colegial y, en su caso, la expresión de los recursos que contra aquel acuerdo procedan, órgano ante el que hubieran de presentarse y plazo para interponerlos.
+
+En ningún caso el visado comprenderá los honorarios ni las demás condiciones contractuales, cuya determinación se deja al libre acuerdo de las partes.
+
+10\. Establecer baremos de honorarios, que tendrán carácter meramente orientativo, y establecer condiciones de su percepción a través del Colegio, para el caso en que el colegiado así lo solicite, y régimen del presupuesto o de la nota de encargo que los colegiados deberán presentar a los clientes.
+
+11\. Fomentar el perfeccionamiento cultural y científico de los profesionales.
+
+12\. Promover y cooperar el fomento de la profesión en sus funciones económicas, sociales o de cualquier otro género.
+
+13\. Cooperar con las Escuelas de Ingeniería Técnica Topográfica en el desarrollo de las labores científicas y profesionales relacionadas con la especialidad, contribuyendo a obtener el máximo nivel de los ingenieros técnicos en topografía.
+
+14\. Contribuir a todo aquello que tienda a la mejora de la profesión y al perfeccionamiento de las técnicas topográfica y cartográfica.
+
+15\. Organizar y desarrollar la previsión social entre los colegiados cuando las circunstancias de orden económico lo aconsejen.
+
+16\. Informar a los colegiados en todos los asuntos de interés general que profesionalmente les puedan afectar.
+
+17\. Cualesquiera otros fines que acuerde la Junta de Gobierno o la Junta General de Colegiados, siempre que guarden relación con la profesión y no se opongan a las disposiciones legales vigentes.
+
+> Se modifica por el art. único y anexo.2 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+## CAPÍTULO III — De las Juntas generales de colegiados
+
+### Art. 8.
+
+La Junta general es la reunión, presidida por el Decano, de todos los colegiados para expresar la voluntad del Colegio, siendo los acuerdos adoptados por la misma de obligado cumplimiento para la Junta de Gobierno y para todos y cada uno de los colegiados.
+
+### Art. 9.
+
+Los colegiados podrán asistir a la reunión personalmente o delegando su voto por escrito, amplio o concreto, en un representante, que habrá de tener inexcusablemente la condición de colegiado.
+
+A los efectos oportunos sólo se admitirán las representaciones que se entreguen al señor Secretario general hasta cuarenta y ocho horas antes de dar comienzo la Junta general.
+
+### Art. 10.
+
+Las Juntas generales podrán ser de dos clases: Ordinarias y extraordinarias.
+
+Tanto las Juntas generales ordinarias como las extraordinarias se constituirán con la asistencia de todos los colegiados, presentes y representados, siendo necesaria para la validez de sus acuerdos, en primera convocatoria, la concurrencia de la mayoría absoluta, entre presentes y representados. En segunda convocatoria, que deberá celebrarse después de pasada media hora de la anunciada, serán válidos los acuerdos, cualquiera que sea el número de asistentes y representados, a excepción de cuando se trate de modificación de los Estatutos, para lo que se necesitará, entre presentes y representados, una mayoría de dos tercios.
+
+Junta general ordinaria
+
+Las reuniones serán convocadas por la Junta de Gobierno dentro del primer bimestre de cada año, con quince días de anticipación como mínimo. Hasta el 15 de diciembre anterior todos los colegiados podrán remitir a la Junta de Gobierno propuestas para la Junta general ordinaria, que obligatoriamente serán incluidas en el orden del día de la convocatoria, si van avaladas con la firma de diez colegiados.
+
+Junta general extraordinaria
+
+Las reuniones se convocarán cuando lo acuerde la Junta de Gobierno y en el plazo máximo de treinta días, si lo solicitan por escrito, al menos, tres Delegaciones periféricas o eI 10 por 100 de los colegiados en escrito dirigido al Decano, explicando las causas que la justifiquen y los asuntos concretos a tratar.
+
+### Art. 11. Orden del día.
+
+Será competencia de la Junta General ordinaria la discusión y aprobación, en su caso:
+
+1\. Del acta de la sesión anterior.
+
+2\. De la memoria anual de actividades presentada por la Junta de Gobierno.
+
+3\. De los presupuestos y cuentas del año.
+
+4\. De la cuantía de las cuotas de incorporación, anual y de las extraordinarias que se acuerden.
+
+5\. De los asuntos y proposiciones que entren en el orden del día.
+
+6\. De los ruegos y preguntas.
+
+> Se modifica por el art. único y anexo.3 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 12. Convocatorias.
+
+Las convocatorias para las reuniones de las Juntas generales ordinarias y extraordinarias se enviarán a todos los colegiados por escrito firmado por el Secretario general, de orden del Decano, con quince días de anticipación, por la menos, e irán acompañadas del orden del día correspondiente.
+
+### Art. 13. Orden de las reuniones.
+
+No podrá ser tratado asunto alguno que no figure consignado en el orden del día.
+
+Para discutir en Junta general un asunto o propuesta incluido en el orden del día, se tratará previamente si se toma en consideración. Para ello podrá hablar un colegiado a favor y otro en contra, pudiendo ambos replicar una sola vez, sin pasar de diez minutos cada intervención. A continuación, el Decano someterá a votación la toma en consideración del asunto propuesto.
+
+Tomado en consideración un asunto, se procederá a discutirlo, pudiéndose consumir tres turnos a favor y tres en contra por los colegiados que previamente hayan solicitado hacer uso de la palabra. Cada uno de los intervinientes tendrá derecho a ejercitar por una sola vez el derecho de réplica, sin que las mismas puedan consumir más de cinco minutos, ni más de quince cada una de los turnos a favor y en contra; el Decano podrá ampliar discrecionalmente este último tiempo, así como privar del uso de la palabra a quien se conduzca de manera poco respetuosa y en caso de reiteración expulsarlo de la sala.
+
+Los miembros de la Junta de Gobierno, los componentes de Comisiones nombrados con algún fin especial, cuya gestión se discuta, los autores de las proposiciones y los colegiados a cuya conducta afecten de manera directa y personal las proposiciones sometidas a deliberación, podrán hacer uso de la palabra con carácter preferente sin consumir turno.
+
+### Art. 14. Asistencia a las Juntas generales.
+
+Los asistentes firmarán en un pliego antes de comenzar la sesión ante el Secretario general, haciendo constar su número de colegiado, así como el número de votos cuya representación ostente, con especificación de si son amplios o concretos, todo ello sin perjuicio de lo establecido a tal efecto en el artículo 9.º de los presentes Estatutos.
+
+### Art. 15. Acuerdos.
+
+Los acuerdos en las Juntas Generales serán tomados por mayoría de votos de colegiados asistentes y debidamente representados.
+
+Las votaciones serán secretas cuando lo pidan, por lo menos, el 20 por 100 de los colegiados presentes y representados o cuando se refieran a cuestiones cuya índole lo aconseje, a juicio del Decano. Los acuerdos adoptados por la Junta General obligan a todos los colegiados.
+
+Se levantarán actas de las reuniones y se extenderán en un libro especial, firmándolas el Decano y el Secretario general, remitiendo una copia de las mismas al órgano de la Administración General del Estado al que corresponda la relación con el Colegio.
+
+> Se modifica por el art. único y anexo.4 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+## CAPÍTULO IV — De la Junta de gobierno
+
+### Art. 16. Definición.
+
+La Junta de Gobierno es el órgano rector ejecutivo del Colegio Oficial de Ingenieros Técnicos en Topografía.
+
+### Art. 17. Composición.
+
+La Junta de Gobierno estará compuesta por el Decano, Vicedecano, Secretario general, Tesorero general, Contador-Bibliotecario y seis Vocales nacionales. Todos ellos, salvo dos Vocales cómo máximo, preceptivamente deberán estar domiciliados en Madrid.
+
+### Art. 18. Atribuciones.
+
+La Junta de Gobierno asumirá la plena dirección y administración del Colegio para la consecución de sus fines. De una manera expresa le corresponde:
+
+a) Con relación a los colegiados:
+
+1\. Resolver sobre la admisión de los que deseen incorporarse al Colegio, pudiendo, en caso de urgencia, delegar esta facultad en el Decano y Secretario general, cuya decisión será provisional hasta que sea sometida a la ratificación de la Junta.
+
+2\. Repartir equitativamente las cargas entre los colegiados, fijando las cuotas ordinarias que procedan.
+
+3\. Facilitar a los Tribunales, conforme a las Leyes, la relación de los colegiados que sean requeridos para intervenir como peritos en los asuntos judiciales, tanto civiles como laborales o criminales.
+
+4\. Oír a los colegiados en sus reclamaciones, asesorarles en las que formulen contra los particulares y representarles si fuera conveniente.
+
+5\. Encargarse del cobro de los honorarios profesionales, cuando el colegiado lo solicite libre y expresamente, haya cumplido con lo establecido en los presentes Estatutos y exista presupuesto aceptado, hoja de encargo o contrato.
+
+6\. Confeccionar el anuario de los colegiados.
+
+7\. Comunicar a éstos las normas que deban de observar para el ejercicio de la profesión.
+
+8\. Velar por la independencia, amplitud y libertad necesarias para que puedan cumplir fielmente los colegiados con sus deberes profesionales y que se les guarde toda clase de consideraciones debidas al prestigio de su profesión.
+
+9\. Velar por que los colegiados observen buena conducta en relación con sus compañeros y clientes, así como por que en el desempeño de su función desplieguen competencia profesional.
+
+10\. Adoptar las medidas conducentes al cumplimiento de los requisitos de orden legal establecidos para el ejercicio de la profesión, así como los de naturaleza económica fijados estatutariamente en materia colegial y, en su caso, tomar las medidas disciplinarias previstas en los presentes Estatutos.
+
+11\. Convocar a la elección de cargos de la Junta de Gobierno y a las Juntas ordinarias y extraordinarias, señalando el orden del día para cada una.
+
+12\. Resolver por laudo, a instancia de las partes interesadas, las discrepancias que puedan surgir sobre el cumplimiento de las condiciones pactadas en los trabajos realizados por los colegiados en el ejercicio de la profesión.
+
+b) Con relación a los organismos públicos o privados y a la Organización colegial:
+
+1\. Defender, cuando lo estime procedente y justo, a los colegiados en el desempeño de las funciones de la profesión o con motivo de las mismas.
+
+2\. Promover cerca del Gobierno y de las autoridades cuanto se considere beneficioso para los intereses profesionales de los colegiados.
+
+3\. Dirigir peticiones a los poderes públicos conforme a la Ley 92/1960, de 22 de diciembre, reguladora del Derecho de Petición.
+
+4\. Representar al Colegio en asociaciones, congresos y asambleas internacionales.
+
+5\. Designar uno o más vocales en los tribunales de oposiciones, cuando el Colegio fuera requerido para ello.
+
+6\. Evacuar las consultas sobre política topográfica y cartográfica que le solicite el Ministerio de Fomento.
+
+7\. Concurrir, en representación del Colegio, a todos los actos oficiales.
+
+8\. Informar, de palabra y por escrito, en nombre del Colegio, en cuantos proyectos o iniciativas de las Administraciones públicas lo requieran.
+
+9\. Dictar las normas de orden interno que juzgue conveniente, que podrán ser revisadas por la Junta General, así como crear Delegaciones periféricas organizadas en Territoriales y Provinciales, de acuerdo con lo establecido en el artículo 36 de estos Estatutos.
+
+c) Con relación a los recursos económicos del Colegio:
+
+1\. Recaudar, distribuir y administrar los fondos del Colegio.
+
+2\. Redactar presupuestos y rendir las cuentas anuales.
+
+3\. Proponer a la Junta General la inversión de los fondos sociales.
+
+d) Como norma general:
+
+Cuantas funciones se prevean en los presentes Estatutos y todas aquellas no sometidas de forma explícita a la Junta General.
+
+> Se modifica por el art. único y anexo.5 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 19. Reuniones.
+
+La Junta de Gobierno se reunirá una vez al mes, excepto en agosto, con carácter ordinario y extraordinario, cuando fuere convocada por el Decano, por si o a petición de tres de sus miembros; en este caso, habrá de ser hecha la citación en el plazo máximo de diez días, a contar de la fecha en que se reciba el escrita razonado de petición.
+
+### Art. 20. Convocatarías.
+
+Se harán por escrito por el Secretario de orden del Decano, con seis días de antelación por lo menos, e irán acompañadas del orden del día, salvo lo exceptuado en el artículo anterior.
+
+### Art. 21. Acuerdos.
+
+Se tomarán por mayoría, siendo necesario para su validez la asistencia de la mitad más uno de sus miembros, en primera convocatoria, y en segunda convocatoria serán válidos los acuerdos cuando el número de asistentes sea al menos cinco, siempre que uno de ellos sea el Decano o el Vicedecano en funciones.
+
+El voto será personal sin posibilidad de representación alguna para cada uno de sus miembros, decidiendo en caso de empate el voto de calidad del Decano. El Secretario podrá tomar parte en las deliberaciones.
+
+### Art. 22. Gastos de viaje.
+
+A los Vocales nombrados de acuerdo con el artículo 17 que no tengan obligatoriedad de residencia se les abonará, con cargo a la Tesorería del Colegio, los gastos de locomoción y tantos días de dietas como duren las reuniones.
+
+### Art. 23.
+
+Los cargos de la Junta de Gobierno se proveerán por elección, en la que podrán participar todos los colegiados que no hayan sida privados del derecho de voto.
+
+### Art. 24. Candidaturas.
+
+Las candidaturas por cargos avaladas como mínimo, cada una de ellas, por 20 colegiados y con la conformidad de los candidatos, deberán ser enviadas a la Junta de Gobierno antes del día 15 de diciembre, y deberse ser distribuidas sin distinción.
+
+### Art. 25. Trámite electoral.
+
+Señalada por la Junta de Gobierno la fecha de las elecciones en Madrid y en todas las provincias, de acuerdo con lo establecido en los artículos 23 y 24 de estos Estatutos, se procederá en todas las Delegaciones, ante el Delegado o persona que le represente, a la votación, depositando en la urna los votos en sobre cerrado, previa identificación del votante y su inclusión en la lista de colegiados, y anotando que dicha persona ha ejercido su derecho al voto. Concluida la votación, y en el mismo día, el Delegado, o representante, remitirá al Secretario general del Colegio en Madrid, en sobre lacrado y certificado, el contenido de la urna y la lista de votantes relacionada en la de colegiados.
+
+Transcurridos diez días de las votaciones celebradas en las provincias, se constituirá en Madrid una mesa electoral, integrada por un miembro de la Junta de Gobierno y dos colegiados, que actuarán de escrutadores. Se constituirán varios turnos de la mesa electoral, con idéntica composición, designados todos por la Junta de Gobierno.
+
+Los colegiados residentes en Madrid podrán votar, el día que se celebren las elecciones, entregando la papeleta al Presidente de la mesa para que la deposite en la urna.
+
+Por la Junta de Gobierno se redactarán las normas que en cada ocasión estime más conveniente, a fin de garantizar el ejercicio del voto a distancia de aquellos colegiados que presuman que no pueden estar presentes el día de la votación.
+
+Terminada la votación anterior, el Secretario general del Colegio abrirá los sobres lacrados que han enviado las Delegaciones, y entregará los sobres interiores al Presidente, quien los introducirá cerrados en la urna. En el momento de hacerse el escrutinio se romperán los sobres, anulándose los votos incorrectos o ilegales. Igualmente se procederá al escrutinio de los votos enviados a distancia.
+
+Los electores podrán examinar, al terminar el escrutinio, las papeletas que les ofrezcan alguna duda. En caso de empate se decidirá por nueva votación, limitada a los empatados.
+
+Del resultado del escrutinio se levantará acta por triplicado, uno de los cuales se remitirá al Ministerio de Fomento, otro al archivo del Colegio y el tercero quedará en poder del Presidente de la mesa. Transcurridos quince días desde la fecha del acta, deberán tomar posesión de sus cargos los miembros de la Junta de Gobierno elegidos.
+
+> Se modifica por el art. único y anexo.6 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 26. Reclamaciones.
+
+Las reclamaciones suscitadas con ocasión y motivo de las elecciones de la Junta de Gobierno, habrán de presentarse ante el Colegio Oficial, dentro de las veinticuatro horas siguientes a la elección, y éste se reunirá en convocatoria urgente en plazo inferior a tres días, debiendo resolver dentro de estos tres días y notificando la resolución al interesado en el día siguiente hábil.
+
+Contra las resoluciones expresas o tácitas del Colegio, en cuanto estén sujetas al Derecho administrativo, podrán interponerse por los interesados recurso potestativo de reposición, a que se refiere la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, o bien, directamente, recurso contencioso-administrativo.
+
+> Se modifica por el art. único y anexo.6 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 27. Renovación de cargos.
+
+La duración de los cargos en la .Junta de Gobierno será de cuatro años, excepto la del Secretario general que lo será de seis años renovándose los restantes, por mitad cada dos años, siendo todos los cargos reelegibles.
+
+Cuando por cese o dimisión total de la Junta de Gobierno hubiere que nombrarse una nueva, se renovará a los dos años siguientes el Vicedecano, Contador-Bibliotecario y Vocales 4.º, 5.º y 6.º, y a los cuatro, el Decano, Tesorero general y Vocales 1.º, 2.º y 3.º
+
+### Art. 28. Suspensión de cargos.
+
+En casos excepcionales el Decano podrá relevar total o parcialmente en sus funciones a cualquier miembro de la Junta de Gobierno, necesitando para que tal acuerdo sea firme dar conocimiento del mismo a la Junta de Gobierno que lo sancionará por mayoría de votos, dando cuenta de esta resolución en la primera Junta general que se celebre.
+
+Cuando el cesado fuera el Secretario general será preceptivo el previo acuerdo de la Junta de Gobierno, al menos por una mayoría de los dos tercios de la misma.
+
+Será preceptiva la inmediata convocatoria de Junta general extraordinaria para suspender en sus funciones al Decano.
+
+### Art. 29. Del Decano.
+
+El Decano es la máxima autoridad del Colegio, correspondiéndole:
+
+1.º Ostentar plenamente y en todos los casos la representación oficial del Colegio de Ingenieros Técnicos en Topografía, de su Junta general y de la Junta de Gobierno del mismo, ante las autoridades, jerarquías, Tribunales de Justicia, Organismos oficiales y particulares.
+
+2.º Llevar la dirección del Colegio y decidir en cuantos asuntos sean de urgencia, dando cuenta de sus decisiones a la Junta de Gobierno.
+
+3.º Presidir y dirigir las Juntas generales, de Gobierno y Comisiones o reuniones a las que asista, teniendo en todas ellas voto de calidad en caso de empate y levantando las sesiones cuando lo juzgue oportuno, y fijar el orden del día de los mismos, señalando lugar, día y hora.
+
+4.º Autorizar con su visto bueno las actas de cuantas sesiones se celebren bajo su presidencia y las inversiones de fondos, de acuerdo con lo previsto a tal efecto en estos Estatutos.
+
+5.º Autorizar, en unión del Secretario general, el documento que acredite que el miembro de que se trate está incorporado al Colegio.
+
+6.º Designar en caso de litigio al Abogado y Procurador que hayan de defender y representar los intereses del Colegio.
+
+7.º Firmar todos los escritos que se dirijan a las autoridades, Corporaciones oficiales o particulares.
+
+8.º Expedir los libramientos para la inversión de los fondos del Colegio.
+
+9.º Autorizar el ingreso y retirada de fondos de las cuentas corrientes del Colegio, uniendo al efecto su firma a la del Tesorero general.
+
+10\. Adquirir y enajenar cualquier clase de bienes del Colegio, previo acuerdo de Ia Junta de Gobierno.
+
+11\. Ejercer las funciones de vigilancia y de correcciones disciplinarias que procedan a los colegiados, de acuerdo con lo dispuesto en los presentes Estatutos.
+
+12\. Nombrar y destituir, previo acuerdo de la Junta de Gobierno, a los Delegados periféricos.
+
+13\. Todas las demás funciones que decida la Junta general o la de Gobierno en la esfera de sus respectivas competencias.
+
+### Art. 30. Del Vicedecano.
+
+El Vicedecano sustituirá al Decano en caso de ausencia, enfermedad o vacante y además tendrá, por delegación expresa del Decano, todas aquellas funciones y atribuciones que por estos Estatutos se le confieren al Decano.
+
+### Art. 31. Del Secretario general.
+
+Serán funciones del Secretario general:
+
+1.º Dirigir y firmar las citaciones para todas las sesiones y actos del Colegio Oficial de Ingenieros Técnicos en Topografía, según ordene el Decano.
+
+2.º Redactar y firmar todas las actas de las reuniones de las Juntas generales y de Gobierno, que deberán llevar el visto bueno del Decano.
+
+3.º Llevar los correspondientes libros de actas, en los que constarán cronológicamente las de todas las reuniones que se celebren.
+
+4.º Responsabilizarse de Ios correspondientes libros de entradas y salidas de documentos.
+
+5.º Cumplir y hacer cumplir los presentes Estatutos y los acuerdos de las Juntas, dando inmediata cuenta de las infracciones observadas y de las medidas adoptadas al Decano.
+
+6.º Preparar las Juntas generales y de Gobierno, enviando a sus miembros, con la debida antelación, toda la información que proceda.
+
+7.° Recibir, dando cuenta al Decano, todas las comunicaciones, dirigidas al Colegio y a la Junta de Gobierno.
+
+8.º Extender y autorizar con su firma las comunicaciones y circulares que hayan de dirigirse por orden del Decano o de la Junta de Gobierno.
+
+9.º Redactar la Memoria anual a someter a la Junta general.
+
+10\. Custodiar los sellos y la documentación del Colegio.
+
+11\. Expedir, con el visto buena del Decano, el documento que acredite que el miembro de que se trata está incorporado al Colegio, y toda clase de certificaciones.
+
+12\. Llevar un fichero circunstanciado de todos los Ingenieros Técnicos en Topografía.
+
+13\. Atender a los visitantes con el mayor interés y cortesía, tratando de resolver y aclarar las consultas que se les hagan y que sean de la competencia del Colegio.
+
+14\. Anotar en libros y ficheros todo cuando pueda interesar al Colegio.
+
+15\. Dirigir a los empleados del Colegio, de quienes será su Jefe inmediato, ordenándoles cuanto fuera necesario para el mejor servicio de la oficina y proponiendo a la Junta de Gobierno cuantas iniciativas estime oportunas.
+
+16\. Todos los demás inherentes al cargo, que sean de su competencia, así como los que le encomiende el Decano y la Junta de Gobierno.
+
+### Art. 32. Del Tesorero general.
+
+Corresponde al Tesorero general:
+
+1.º Recaudar y custodiar, bajo su responsabilidad, los fondos pertenecientes al Colegio, no pudiendo autorizar al Cajero a tener en caja cantidad superior a la que la Junta de Gobierno acuerde.
+
+2.º Responsabilizarse de que sean llevados con las debidas formalidades, los libros de contabilidad, debiendo conservar los justificantes de caja a disposición del Decano y de la Junta de Gobierno.
+
+3.º Formalizar todos los trimestres las correspondientes cuentas de ingresos y gastos, sometiéndolos a la aprobación de la Junta de Gobierno, dando cuenta del estado de caja.
+
+4.º Ingresar y retirar fondos de las cuentas corrientes conjuntamente con el Decano.
+
+5.º Constituir y cancelar depósitos por acuerdo de la Junta de Gobierno, uniendo su firma a la del Decano.
+
+6.º Formalizar, conjuntamente con el Contador-Bibliotecario, el presupuesto de ingresos y gastos del ejercicio económico siguiente, que habrá de someterse a la aprobación de la Junta general.
+
+7.º Formalizar, sometiéndola a la aprobación de la Junta general y de la de Gobierno, la cuenta anual de ingresos y gastos del Colegio.
+
+8.º Informar a la Junta de Gobierno, cuando se Ie requiera para ello, de la marcha económica del Colegio.
+
+9.º Ser el administrador de todos los bienes del Colegio.
+
+### Art. 33. Del Contador-Bibliotecario.
+
+Corresponde al Contador-Bibliotecario:
+
+1.º Intervenir las operaciones de Tesorería.
+
+2.º Confeccionar, juntamente con el Tesorero, el presupuesto anual de ingresos y gastos del Colegio que ha de ser sometido a la Junta general.
+
+3.º Llevar el inventario detallado de los bienes del Colegio.
+
+4.º Cuidar de la Biblioteca y proponer la adquisición de las obras que considere procedente.
+
+### Art. 34. De los Vocales nacionales.
+
+Corresponde a Ios Vocales nacionales:
+
+1.º Colaborar en los trabajos de la Junta de Gobierno, asistiendo a sus deliberaciones y desempeñando los cometidos que les asigne el Decano.
+
+2.º Formar parte de las Comisiones o ponencias, presidiéndolas por delegación del Decano, que se constituyan para el estudio y desarrollo de cuestiones o asuntos determinados.
+
+3.º Sustituir por ausencia, enfermedad, cese o muerte al Decano, Vícedecano, Secretario general, Tesorero general y Contador-Bibliotecario, hasta las primeras elecciones.
+
+4.º Todas las funciones que les encomiende el Decano y la Junta de Gobierno.
+
+### Art. 35.
+
+En el Colegio habrá dos censores efectivos y dos suplentes, que tendrán a su disposición, desde quince días antes de la Junta general, a la que haya de someterse la aprobación de cuentas, las del ejercicio liquidado, los justificantes de ingresos y gastos, órdenes de pago correspondientes, y, en su caso, los acuerdos determinantes de Ios mismos.
+
+Los censores se designarán cada año para el ejercicio económico siguiente, precisamente en la Junta general que apruebe las cuentas.
+
+El cargo de censor es incompatible con el de miembros de la Junta de Gobierno.
+
+## CAPÍTULO V — Delegaciones periféricas
+
+### Art. 36. Composición de las Delegaciones periféricas.
+
+En tanto no se constituyan por las Comunidades Autónomas Colegios de la profesión en sus respectivos ámbitos territoriales, las Delegaciones periféricas estarán constituidas por una Delegación Territorial en cada Comunidad Autónoma, de la que dependerán las provinciales correspondientes. Estarán compuestas por todos los colegiados que estén adscritos a la misma y estará regida, en nombre y representación de la Junta de Gobierno y del Decano, por un Delegado y una Junta Delegada, de al menos dos miembros, presidida por dicho Delegado.
+
+Por razones de funcionalidad, la Junta de Gobierno podrá refundir en una sola varias territoriales, que llevarán el nombre de las Comunidades Autónomas representadas.
+
+> Se modifica por el art. único y anexo.7 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 37. Supresión de las Delegaciones periféricas.
+
+Los colegiados pertenecientes a una Delegación podrán solicitar de la Junta de Gobierno la supresión de su Delegación, siendo necesario que dicho acuerdo sea aprobado por mayoría en la Asamblea convocada al efecto en dicha Delegación. La Junta de Gobierno, con el correspondiente informe, elevará la propuesta a la Presidencia del Gobierno para su aprobación.
+
+### Art. 38. Duración de las cargos.
+
+La duración de los cargos será de cuatro años, renovándose por mitad cada dos años los cargos de Secretario Tesorero y la mitad de los Vocales y a los dos años siguientes los restantes cargos de la Junta delegada.
+
+### Art. 39. Sustitución.
+
+En caso de ausencia, enfermedad o muerte o dimisión debidamente justificable del Delegado o Secretario-Tesorero, los Vocales desempeñarán interinamente dichos cargos, mientras duren tales circunstancias o se verifique la elección reglamentaria.
+
+### Art. 40. Domicilio de cargos.
+
+Para desempeñar los cargos de Delegado y Secretario-Tesorero es preceptivo estar domiciliados en la Comunidad Autónoma correspondiente.
+
+> Se modifica por el art. único.8 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 41. Facultades y obligaciones.
+
+Los Delegados periféricos tendrán, dentro de su circunscripción territorial, las siguientes:
+
+a) Ostentar la representación del Decano y de la Junta de Gobierno ante las autoridades, Tribunales de Justicia, Corporaciones oficiales y particulares.
+
+b) Llevar la dirección del Colegio en la circunscripción territorial, desempeñando por delegación todas las funciones que Ie encomiende la Junta de Gobierno y el Decano.
+
+c) Autorizar con su firma todos los documentos de la Delegación.
+
+d) Convocar y presidir las reuniones de la Junta delegada, teniendo en ellas voto de calidad en caso de empate.
+
+e) Designar en caso de litigio, si tiene poder del Decano para ello, al Abogado y Procurador que hayan de defender y representar los intereses del Colegio ante los Tribunales de Justicia de la circunscripción territorial que abarque la Delegación.
+
+f) Ordenar los pagos de la Delegación periférica, con cargo a los fondos que expresamente se le autoricen por la Tesorería General del Colegio.
+
+g) Autorizar el ingreso y retirada de fondos de las cuentas corrientes de la Delegación, uniendo al efecto su firma a la del Secretario-Tesorero.
+
+h) Enviar y firmar los escritos que sean precisos dirigir a las autoridades, Corporaciones y particulares.
+
+i) Atender las consultas que le dirijan los colegiados, autoridades, Corporaciones y particulares, resolviendo cuantos asuntos de urgencia se presenten, sin perjuicio de someter sus resoluciones al Decano y a la Junta de Gobierno.
+
+j) Tramitar las reclamaciones de toda índole que se le dirijan.
+
+k) Redactar todos los años una breve reseña de la vida colegial de la Delegación, que remitirá al Secretario del Colegio antes del 31 de diciembre de cada año a los efectos de que pueda ser incorporada a la Memoria anual
+
+l) Cuantas le encomiende la Junta de Gobierno y el Decano.
+
+Los Secretarios-Tesoreros, dentro de la Delegación, tendrán las siguientes:
+
+a) Como Secretarios, las señaladas en el artículo 31, puntos 1 <sup>o</sup>, 2.º, 3.º, 4.º, 5.º, 7.º, 8.º, 10, 12, 13, 14, 15 y 16 de estos Estatutos, reduciendo su ámbito de aplicación exclusivamente a la Delegación, Junta delegada y Delegado.
+
+b) Como Tesorero, además de las señaladas en el artículo 32, puntos 1.º, 2.º, 3.º, 4.º y 8.º de estos Estatutos, reduciendo su ámbito de aplicación exclusivamente a la Delegación, Junta delegada y Delegado, los siguientes:
+
+c) Conservar en su poder los justificantes de caja para poder presentarlos en cualquier momento que la Junta de Gobierno, el Tesorero general del Colegio o el Decano lo estimaran necesario.
+
+d) Formar trimestralmente, de acuerdo con las instrucciones que reciba del Tesorero general del Colegio, las cuentas de ingresos y gastos del trimestre anterior y el presupuesto para el siguiente.
+
+e) Formalizar la cuenta documentada que habrán de rendir anualmente al Tesorero general, del Colegio.
+
+f) El exacto cumplimiento de cuantas órdenes relativas a Tesorería reciba del Tesorero general del Colegio.
+
+Los Vocales tendrán las facultades derivadas del artículo 34 a nivel periférico.
+
+## CAPÍTULO VI — De los colegiados
+
+### Art. 42. Clases de colegiados.
+
+El Colegio oficial de Ingenieros Técnicos en Topografía estará integrado por dos clases de miembros, a saber:
+
+a) Colegiados de honor.
+
+b) Colegiados de número.
+
+### Art. 43. Colegiados de honor.
+
+El nombramiento de colegíados de honor será otorgado por el Colegio Oficial de Ingenieros Técnicos en Topografía, a propuesta de la Junta de Gobierno, previa aprobación de la Junta general, a las personas que se hayan hecho acreedoras de tal distinción, estén o no en posesión del título de Ingeniero Técnico en Topografía.
+
+### Art. 44. Colegiados de número.
+
+Para ser colegiado de número es necesario ostentar el Título oficial de Ingeniero Técnico en Topografía. También podrán incorporarse al Colegio como colegiados de número, quienes ostenten el título extranjero equivalente, siempre que haya otorgado el Estado español a dicho titulado, el reconocimiento expreso para poder ejercer la profesión. Los colegiados de número, desde el momento de su colegiación, quedan sometidos a lo regulado por los presentes Estatutos.
+
+> Se modifica por el art. único y anexo.9 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 45. Obligatoriedad de colegiación.
+
+Para poder ejercer legalmente la profesión de ingeniero técnico en topografía, será requisito indispensable e imprescindible estar colegiado en el Colegio Oficial de Ingenieros Técnicos en Topografía, sin perjuicio de lo establecido en el párrafo segundo del artículo 3.
+
+> Se modifica por el art. único y anexo.9 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 46. Normas para la incorporación.
+
+Para incorporarse al Colegio Oficial de Ingenieros Técnicos en Topografía, como colegiado de número, habrá de solicitarse, directamente o por medio de los Delegados periféricos correspondientes, en instancia dirigida al Decano, a la que se acompañará el título exigido, testimonio del mismo, o en su defecto, recibo de haber efectuado el pago de los derechos correspondientes, una declaración jurada de no estar incapacitado por sentencia firme para el ejercicio de la profesión, y el recibo de haber satisfecho la cuota de incorporación establecida reglamentariamente por la Junta general de colegiados.
+
+La Junta de Gobierno examinará las solicitudes presentadas, y practicando las diligencias necesarias acordará, en el plazo máximo de dos meses, lo que estime procedente, comunicándosele por escrito al solicitante.
+
+### Art. 47. Motivos de denegación de las solicitudes de incorporación.
+
+La Junta de Gobierno podrá denegar la solicitud de admisión:
+
+1\. Cuando no se presenten todos los documentos exigidos en el artículo 46 de estos Estatutos u ofreciera alguno de ellos dudas de su legitimidad, sin que ésta se acredite tras un período de prueba abierto de conformidad con lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+2\. Cuando hubiese sido condenado por delito, por sentencia firme, que conlleve la inhabilitación para el ejercicio de la profesión, y en tanto duren sus efectos.
+
+3\. Cuando hubiese sido expulsado del Colegio sin haber obtenido después su rehabilitación.
+
+> Se modifica por el art. único y anexo.10 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 48. Causas de baja.
+
+La condición de colegiado se pierde:
+
+1\. A petición propia, comunicada por carta certificada del interesado dirigida al Decano del Colegio, con un mes de antelación como mínimo. No será procedente la baja a petición propia, en tanto en cuanto el colegiado esté sometido a acciones disciplinarias.
+
+2\. Por dejar impagada las cuotas reglamentarias en el plazo oportuno y una vez transcurrida prórroga de treinta días a partir de la notificación.
+
+La baja por esta causa se mantendrá en tanto no se abonen las cuotas atrasadas más el interés de demora correspondiente.
+
+3\. Por haber sido condenado por delito que suponga inhabilitación para el ejercicio de la profesión, sin perjuicio de la reincorporación cuando finalicen los efectos de la pena.
+
+4\. Por expulsión del Colegio, acordada según lo dispuesto en estos Estatutos.
+
+> Se modifica por el art. único y anexo.10 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 49. Reincorporación.
+
+Los colegiados de número que se diesen de baja voluntaria en el Colegio, cumpliendo con los requisitos establecidos en estos Estatutos, y más tarde solicitaran su reincorporación al Colegio, lo solicitarán por escrito, del Decano, bien directamente o por intermedio de los Delegados provinciales, acompañando a la misma el recibo de haber satisfecho la cuota de reincorporación reglamentariamente acordada por la Junta general de Colegiados en esa fecha.
+
+### Art. 50. Anuario. Lista nacional de colegiados.
+
+La Junta de Gobierno, a la vista de los datos facilitados por las Delegaciones y los que consten en los archivos del Colegio, redactará a principios de cada año una lista comprensiva de todos los colegiados, habilitados legalmente para el ejercicio de la profesión en la que figurarán, además de sus nombres y apellidos, su número de colegiado, domicilio, residencia y Delegación a la que pertenezca, así como cuantas datos complementarios se estimen oportunos.
+
+### Art. 51. Obligaciones de los colegiados.
+
+Son obligaciones de los colegiados:
+
+1\. Cumplir estrictamente cuantas prescripciones contienen estos Estatutos y los reglamentos que los desarrollen, así como los acuerdos que se adopten con sujeción a los mismos.
+
+2\. Ejercer la profesión con ética y decoro, cumpliendo cuantos preceptos y normas determinan las disposiciones legales vigentes.
+
+3\. Someter a visado del Colegio, de conformidad con las normas que se establezcan para ello, todos los trabajos que realicen en el ejercicio de la profesión, abonando los correspondientes derechos de intervención colegial.
+
+El colegiado firmante es responsable de la calidad técnica del trabajo que realiza y de su ajuste a la normativa sectorial correspondiente. El Colegio únicamente responde de la corrección externa de la documentación integrante del trabajo, pero no de las previsiones, cálculos y conclusiones que integran el mismo.
+
+4\. Comparecer ante el Decano y la Junta de Gobierno y Delegados periféricos, cuando fueran requeridos, salvo casos de imposibilidad justificada.
+
+Cuando esta comparecencia origine al colegiado gastos de desplazamiento, y no fuera culpa del mismo le serán abonados dichos gastos con cargo a la tesorería del Colegio de la Delegación de que se trate.
+
+5\. Comunicar al Colegio, bien directamente, o a través de los Delegados, los casos que conozcan de ingenieros técnicos en topografía que ejerzan actos propios de la profesión que ampara estos Estatutos sin pertenecer al Colegio, o de los que siendo colegiados, faltan a las obligaciones que como tales contraen.
+
+6\. Abonar las cuotas y derechos que hayan sido aprobados para sostenimiento del Colegio y para el desarrollo de los diversos fines que se encomiendan al mismo.
+
+7\. Asistir a los actos corporativos, salvo causa justificada, así como aceptar el desempeño de los cargos que se les encomienden por los órganos rectores del Colegio.
+
+8\. Los colegiados están obligados a dar cuenta a la Junta de Gobierno de los casos que conozcan de intrusismo.
+
+> Se modifica por el art. único y anexo.11 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 52. Derechos del colegiado.
+
+Son derechos del colegiado con carácter de generalidad:
+
+1\. Asistir a los actos corporativos y ejercer su derecho al voto.
+
+2\. Ser defendido por el Colegio cuando sea injustamente tratado en el ejercicio profesional o con motivo de él.
+
+3\. Ser representado por el Decano y la Junta de Gobierno, y asistido por el abogado y procurador que la misma designe, cuando lo necesite, a fin de presentar reclamaciones relacionadas con el ejercicio profesional a las autoridades, entidades o particulares.
+
+4\. A cobrar sus minutas de honorarios a través del Colegio, cuando el colegiado lo solicite libre y expresamente, haya cumplido con lo establecido en los presentes Estatutos, y exista presupuesto aceptado, hoja de encargo o contrato.
+
+5\. A la inclusión en las listas para asuntos judiciales o de índole análoga, de pago y de oficio.
+
+6\. A presentar cuantas proposiciones juzgue necesarias para el enaltecimiento y mejora general de la profesión. Si han de ser tratados en Junta general, deberán ir firmados por diez colegiados como mínimo.
+
+7\. Desempeñar los cargos directivos para los que fueran elegidos.
+
+8\. Inspeccionar, previo conocimiento del Secretario general y del Tesorero general, respectivamente, las oficinas y contabilidad del Colegio, durante el período que media entre la convocatoria y la Junta general.
+
+9\. A utilizar cuantos servicios establezca el Colegio, ostentar el emblema profesional y a utilizar el documento de identidad que acreditará su condición de colegiado y derecho a ejercer la profesión.
+
+10\. Interponer recurso de reposición o de queja ante el Decano, contra los acuerdos tomados por la Junta de Gobierno y Delegados, que considere lesivos, injustos o contrarios a las disposiciones legales o acuerdos de la Junta general de Colegiados.
+
+11\. Formular queja ante la Junta de Gobierno contra actuación profesional de cualquiera de los colegiados.
+
+12\. Ejercer cuantos derechos se deduzcan de los presentes Estatutos o de las disposiciones vigentes.
+
+> Se modifica por el art. único y anexo.11 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 53. Colegiados de honor.
+
+Los colegiados de honor tendrán los derechos y obligaciones que en cada caso se determinen.
+
+## CAPÍTULO VII — Régimen disciplinario
+
+### Art. 54. Objeto del régimen disciplinario.
+
+El Colegio sancionará disciplinariamente todas las acciones y omisiones culpables de los colegiados, que infrinjan las normas reguladoras de la profesión, los presentes Estatutos, Reglamentos de régimen interior o acuerdos adoptados por sus órganos de gobierno, en los términos que se establecen en el artículo 55.
+
+> Se modifica por el art. único y anexo.12 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 55. Infracciones y sanciones.
+
+Las faltas se clasificarán en leves, graves y muy graves.
+
+Las faltas leves prescriben a los seis meses, las graves al año y las muy graves a los tres años.
+
+A. Infracciones.
+
+1\. Son faltas leves:
+
+a) La falta de veracidad en los datos personales suministrados al Colegio.
+
+b) La negligencia en el cumplimiento de los preceptos estatutarios, Reglamentos de régimen interior y de los acuerdos adoptados por los órganos rectores del Colegio.
+
+c) Las desconsideraciones de escasa trascendencia a los compañeros.
+
+d) Las faltas reiteradas, sin causa justificada, a las reuniones de las Juntas de Gobierno.
+
+e) Todas las acciones y omisiones culpables de los colegios, a las que se refiere el artículo 54, que no sean graves o muy graves.
+
+2\. Son faltas graves:
+
+a) El incumplimiento doloso de los presentes Estatutos, de los Reglamentos de régimen interior y de los acuerdos adoptados por los órganos rectores del Colegio.
+
+b) Los actos de desconsideración ofensiva grave hacia los compañeros, tanto en relación con la actividad de carácter colegial como profesional, así como hacia los miembros de la Junta de Gobierno.
+
+c) Encubrimiento del intrusismo profesional, del trabajo profesional cometido por ingenieros técnicos en topografía no colegiados, o la colaboración al ejercicio de actividades propias de la profesión de ingeniero técnico en topografía por quien no reúna la debida aptitud legal para ello.
+
+d) No visar en el Colegio Oficial de Ingenieros Técnicos en Topografía los trabajos profesionales.
+
+e) La realización de trabajos o intervenciones profesionales que por su índole atenten manifiestamente al prestigio profesional.
+
+f) No aceptar, salvo causa justificada, el desempeño de los cargos corporativos a los que hubiera presentado su candidatura de forma voluntaria.
+
+3\. Son faltas muy graves:
+
+a) Los actos y omisiones que constituyan ofensas muy graves a la dignidad de la profesión o a las reglas éticas que la gobiernan.
+
+b) La comisión de delito doloso, en cualquier grado de participación, como consecuencia del ejercicio de la profesión, declarado por sentencia firme.
+
+c) No asistir, salvo causa justificada, a las reuniones de la Junta de Gobierno convocadas para la toma de los acuerdos previstos en el artículo 57 de los presentes Estatutos.
+
+B. Sanciones. A las faltas e infracciones podrán imponerse las siguientes sanciones:
+
+1\. A las leves:
+
+a) Apercibimiento verbal o por escrito.
+
+b) Represión privada o pública.
+
+c) Suspensión del ejercicio profesional de uno a quince días.
+
+d) La privación temporal del derecho a ocupar cargos corporativos entre uno y quince días.
+
+Haber sido sancionado tres o más veces por la comisión de faltas leves conllevará la sanción prevista en los párrafos c) y d) de este apartado B.1.
+
+2\. A las graves:
+
+a) Suspensión del ejercicio profesional por un plazo entre quince días y seis meses.
+
+b) La privación temporal del derecho a ocupar cargos corporativos entre quince días y seis meses.
+
+Haber sido sancionado tres o más veces por la comisión de faltas leves conllevará la aplicación de las sanciones previstas en los párrafos anteriores de este apartado B.2, por seis meses.
+
+3\. A las muy graves:
+
+a) La suspensión del ejercicio profesional por un plazo de seis meses y un día a tres años.
+
+b) La privación temporal del derecho a ocupar cargos corporativos durante tres años, en las infracciones tipificadas en el artículo 55, apartado A.3, párrafo c).
+
+c) La expulsión del Colegio. Haber sido sancionado tres o más veces por la comisión de faltas muy graves, conllevará la sanción prevista en el párrafo c) de este apartado B.3.
+
+> Se modifica por el art. único y anexo.12 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 56.
+
+No podrá imponerse ninguna sanción sin la previa instrucción de un expediente, en el que actuará de Juez un colegiado nombrado por la Junta de Gobierno, que sea más antiguo que el interesado, y de Secretario, el del Colegio, el Delegado que corresponda o el Secretario de la Delegación en su caso.
+
+La incoación del expediente y los nombramientos de Juez y de Secretario se notificarán aI interesado en forma debida.
+
+Por el Juez se formulará el correspondiente pliego de cargos que se imputen al encartado, al cual le será notificado, otorgándole un plazo de quince días para que presente los descargos que estime conveniente y aporte las pruebas necesarias para su defensa.
+
+Una vez terminada la tramitación del expediente, unidas a él todas las actuaciones que se hayan practicado, el Juez instructor redactará una propuesta de resolución, que elevará a la Junta de Gobierno, la que será, en definitiva, quien imponga la sanción correspondiente.
+
+### Art. 57. Adopción de acuerdos de suspensión o expulsión.
+
+El acuerdo de suspensión por más de seis meses o expulsión, deberá ser tomado por la Junta de Gobierno mediante votación secreta y con la conformidad de las dos terceras partes de los miembros presentes en la Junta.
+
+A esta sesión estarán obligados a asistir todos los componentes de la Junta. El que sin causa justificada no concurriere, incurrirá en falta muy grave, tipificada en el artículo 55, apartado A.3, párrafo c).
+
+Si el acuerdo se refiere a alguno de los miembros de la Junta de Gobierno, conocerá del expediente la misma Junta, aumentada por cinco colegiados designados por insaculación entre los primeros cincuenta colegiados
+
+> Se modifica por el art. único y anexo.13 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 58.
+
+Las resoluciones a que se refieren los artículos 47, 48, 56 y 57 podrán ser recurridas en reposición ante la propia Junta de Gobierno, de conformidad con lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, o bien directamente ante la Jurisdicción Contencioso-Administrativa.
+
+> Se modifica por el art. único y anexo.13 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+## CAPÍTULO VIII — Recursos económicos
+
+### Art. 59.
+
+El Colegio Nacional tendrá plena capacidad jurídica en el ámbito económico y patrimonial para el cumplimiento de sus fines.
+
+### Art. 60.
+
+Los recursos económicos del Colegio serán ordinarios y extraordinarios.
+
+### Art. 61. Recursos económicos ordinarios.
+
+Los recursos económicos ordinarios serán los siguientes:
+
+1\. Cuotas de incorporación al Colegio y cuotas periódicas de mantenimiento, cuya cuantía será señalada por acuerdo de la Junta General, a propuesta de la Junta de Gobierno.
+
+2\. Las cantidades que corresponda devengar por derechos de intervención colegial, de los trabajos que realicen los colegiados en el ejercicio de la profesión.
+
+3\. Los ingresos que pueda obtener el Colegio por sus propios medios, tales como los debidos a publicaciones, impresos de adquisición voluntaria, certificaciones, dictámenes, asesoramientos y análogos, solicitados del Colegio y realizados por éste.
+
+4\. Las rentas y frutos de los bienes y derechos de toda clase que posea el Colegio.
+
+> Se modifica por el art. único y anexo.14 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 62. Recursos económicos extraordinarios.
+
+Los recursos económicos extraordinarios serán los siguientes:,
+
+1.º Las subvenciones, donativos y aportaciones que se le concedan por el Estado, Corporaciones oficiales, Entidades de cualquier clase y particulares.
+
+2.º Los bienes muebles o inmuebles que por herencia, donación o cualquier otro titulo lucrativo pasen a formar parte del patrimonio del Colegio.
+
+3.º Las cantidades que por cualquier otro concepto no especificado en estos Estatutos pueda percibir el Colegio.
+
+Todos los recursos extraordinarios precisarán para ser recibidos la previa aprobación de la Junta de Gobierno.
+
+## CAPÍTULO IX — Disposiciones complementarias
+
+### Art. 63. Reglamentos.
+
+La Junta General podrá aprobar Reglamentos de régimen interior del Colegio, sin que los mismos puedan contener preceptos que se opongan a los de estos Estatutos o carezcan de fundamento en los mismos.
+
+> Se modifica por el art. único y anexo.15 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 64.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 170, de 17 de julio de 1972. [Ref. BOE-A-1972-1054](https://www.boe.es/buscar/doc.php?id=BOE-A-1972-1054).
+
+### Art. 65. Procedimiento de disolución.
+
+La disolución del Colegio Oficial de Ingenieros Técnicos en Topografía podrá ser propuesta por la Junta de Gobierno o por la mitad de los colegiados, discutiéndose en Junta General extraordinaria. La propuesta de disolución tendrá que ser votada favorablemente al menos por las tres quintas partes del total de colegiados, lo cual conllevará el acuerdo de someterla a la aprobación del Gobierno.
+
+> Se modifica por el art. único y anexo.15 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Art. 66. Efectos de la disolución.
+
+En caso de disolución del Colegio, la Junta General extraordinaria acordará el destino que haya de darse a los fondos y bienes que posea.
+
+> Se modifica por el art. único y anexo.15 del Real Decreto 743/2001, de 29 de junio. [Ref. BOE-A-2001-13863](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13863).
+
+### Disposición transitoria primera.
+
+También podrán incorporarse a este Colegio Oficial, sin previa convalidación de estudios y con el mismo carácter obligatorio y e extinguir:
+
+Los titulados Peritos Topógrafos y los Topógrafos con título profesional expedido a través de la Dirección General del Instituto Geográfico y Catastral.
+
+Los diplomados del Servicio Geográfico del Ejército (Geodestas militares), los diplomados Topógrafos en la Escuela de Geodesia y Topografía del Ejército y los diplomados Hidrógrafos de la Marina, que hayan obtenido sus correspondientes diplomas con anterioridad al 24 de septiembre de 1954.
+
+Las personas que con anterioridad al 24 de septiembre de 1954 viniesen ejerciendo como Topógrafos, previa justificación de su derecho, siendo imprescindible la presentación del recibo o certificación expedida por el Ministerio de Hacienda de haber estado dado de alta en la licencia fiscal, epígrafe de Topógrafos, con anterioridad a la citada fecha de 24 de septiembre de 1954.

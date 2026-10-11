@@ -1,0 +1,171 @@
+---
+title: "Orden de 21 de noviembre de 1996 por la que se reestructura la Comisión general de la entidad estatal de seguros Agrarios y se constituyen Comisiones Territoriales de Seguros Agrarios, estableciéndose su composición y funciones"
+identifier: "BOE-A-1996-28541"
+eli: "https://www.boe.es/eli/es/o/1996/11/21/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1996-11-21
+published: 1996-12-21
+in_force_from: 1996-12-22
+last_amended: 1998-07-15
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 307"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-28541"
+retrieved: 2026-10-11
+---
+
+# Orden de 21 de noviembre de 1996 por la que se reestructura la Comisión general de la entidad estatal de seguros Agrarios y se constituyen Comisiones Territoriales de Seguros Agrarios, estableciéndose su composición y funciones
+
+La Entidad Estatal de Seguros Agrarios (en adelante ENESA), creada al amparo de lo dispuesto en la Ley 87/1978, de 28 de diciembre, de Seguros Agrarios Combinados, y en el Real Decreto 2329/1979, de 14 de septiembre, por el que se aprueba el Reglamento para la aplicación de dicha Ley, tiene encomendada la misión de actuar como órgano de coordinación y enlace por parte de la Administración para las actividades vinculadas a los Seguros Agrarios. En la anterior normativa se incluye entre los órganos de Gobierno de la Entidad a la Comisión General de ENESA, integrada por representantes de los Ministerios de Agricultura, Pesca y Alimentación y de Economía y Hacienda, y de las Organizaciones y Asociaciones de Agricultores y Ganaderos.
+
+Mediante Orden de 22 de abril de 1980, posteriormente modificada por Orden de 30 de marzo de 1982, se constituye la Comisión General de la Entidad Estatal de Seguros Agrarios y se regula su composición.
+
+Asimismo, mediante Orden de 1 de septiembre de 1983 se constituyen las Comisiones Provinciales de Seguros Agrarios y se regula su composición.
+
+Desde la aprobación de dichas Órdenes, el Ministerio de Agricultura, Pesca y Alimentación, ha experimentado una serie de modificaciones en su estructura orgánica, tanto a nivel central como periférico, que afectan a su representación en la Comisión General de ENESA y en las Comisiones Provinciales. Por otra parte, las entidades del sector, han evolucionado hacia una nueva estructura representativa, al producirse diversos procesos de integración y disociación.
+
+Como consecuencia de lo anteriormente expuesto, y con el objetivo de facilitar el logro de las misiones encomendadas a la Entidad Estatal de Seguros Agrarios, se hace necesario modificar la actual composición de la Comisión General de ENESA y constituir Comisiones Territoriales, como órganos de apoyo para el logro de los fines asignados a los Planes de Seguros Agrarios, atendiendo a los aspectos que afecten, sustancialmente, al ámbito de las diferentes Comunidades Autónomas.
+
+En la tramitación de la presente norma han sido oídos los sectores afectados.
+
+En su virtud, previa aprobación del Ministro de Administraciones Públicas, dispongo:
+
+## Artículo 1.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 388/1998, de 13 de marzo. [Ref. BOE-A-1998-7793](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-7793)
+
+## Artículo 2.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 388/1998, de 13 de marzo. [Ref. BOE-A-1998-7793](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-7793)
+
+## Artículo 3.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 388/1998, de 13 de marzo. [Ref. BOE-A-1998-7793](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-7793)
+
+## Artículo 4.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 388/1998, de 13 de marzo. [Ref. BOE-A-1998-7793](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-7793)
+
+## Artículo 5.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 388/1998, de 13 de marzo. [Ref. BOE-A-1998-7793](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-7793)
+
+## Artículo 6.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 388/1998, de 13 de marzo. [Ref. BOE-A-1998-7793](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-7793)
+
+## Artículo 7.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 388/1998, de 13 de marzo. [Ref. BOE-A-1998-7793](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-7793)
+
+## Artículo 8.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 388/1998, de 13 de marzo. [Ref. BOE-A-1998-7793](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-7793)
+
+## Artículo 9.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 388/1998, de 13 de marzo. [Ref. BOE-A-1998-7793](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-7793)
+
+## Artículo 10.
+
+En el ámbito de cada una de las Comunidades Autónomas se constituirá una Comisión Territorial de Seguros Agrarios, que actuará como órgano de apoyo para la mejora de los Seguros Agrarios en dicho ámbito.
+
+Las Comisiones Territoriales de Seguros Agrarios quedarán adscritas a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación.
+
+> Se modifica por el art. único de la Orden de 7 de julio de 1998 . [Ref. BOE-A-1998-16823](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-16823)
+
+## Artículo 11.
+
+La Comisión Territorial de Seguros Agrarios estará constituida por:
+
+a) El Presidente, que será nombrado por el Presidente de la Entidad Estatal de Seguros Agrarios, a propuesta de la Comunidad Autónoma correspondiente.
+
+b) El Vicepresidente, que será el Director del Área funcional de Agricultura de la Delegación del Gobierno en la Comunidad Autónoma.
+
+c) Un representante de cada una de las Organizaciones Profesionales y de las Cooperativas Agrarias que estén presentes en la Comisión General de ENESA y de aquellas que, no estándolo, sean manifiestamente representativas en el ámbito de la Comunidad Autónoma. Dicho representante será nombrado por el Presidente de la Comisión, previo acuerdo con el Vicepresidente, a propuesta de las organizaciones existentes.
+
+d) Un representante de ENESA, designado por el Presidente de esta entidad.
+
+e) Un representante de la Comunidad Autónoma, si ésta lo decidiera.
+
+f) Un representante del Consorcio de Compensación de Seguros, designado por su Presidente.
+
+g) Un representante de la entidad que agrupe a las entidades aseguradoras de los seguros agrarios combinados.
+
+Actuará como Secretario, sin voz ni voto, un funcionario titular de un puesto de trabajo ya existente en la correspondiente Área funcional de Agricultura, designado por el Presidente de la Comisión Territorial, previo Acuerdo con el Vicepresidente de la misma.
+
+> Se modifica por el art. único de la Orden de 7 de julio de 1998 . [Ref. BOE-A-1998-16823](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-16823)
+
+## Artículo 12.
+
+Cuando el objeto de la reunión lo requiera, el Presidente, previo acuerdo con el Vicepresidente, podrá convocar a la sesión de la Comisión a expertos que la asistan en materia de su competencia, los cuales podrán intervenir con voz, pero sin voto.
+
+## Artículo 13.
+
+Estas Comisiones se reunirán, al menos, dos veces al año y siempre que lo solicite la mayoría de sus Vocales.
+
+## Artículo 14.
+
+1\. Las Comisiones Territoriales de Seguros Agrarios, ejercerán en el ámbito territorial de la respectiva Comunidad Autónoma, las siguientes funciones:
+
+a) El análisis de las campañas de promoción y difusión de los seguros agrarios y la elaboración de propuestas para su mejora, a efectos del aprovechamiento más eficiente de los recursos disponibles.
+
+b) La elaboración de informes sobre el desarrollo y aplicación de los planes de seguros agrarios, con fines de mejora de la extensión y calidad del seguro.
+
+c) La elaboración de propuestas con vistas al mejor funcionamiento de las líneas de seguros agrarios, en vigor, de especial interés en el ámbito de la Comunidad Autónoma.
+
+d) La propuesta de realización de estudios técnicos y de viabilidad y, en su caso, de inclusión de nuevos riesgos o producciones a incorporar al Sistema de Seguros Agrarios.
+
+e) Cualesquiera otras funciones que contribuyan al logro de la mejora del diseño y aplicación de los planes de seguros agrarios.
+
+2\. Para la realización de los cometidos anteriores, las Comisiones Territoriales podrán ser apoyadas por grupos de trabajo, constituidos al efecto, en el seno de las propias Comisiones.
+
+> Se modifica por el art. único de la Orden de 7 de julio de 1998 . [Ref. BOE-A-1998-16823](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-16823)
+
+## Artículo 15.
+
+La Comisión General de ENESA y los Grupos de Trabajo, así como las Comisiones Territoriales de Seguros Agrarios se ajustarán a lo establecido en el capítulo II, título II, de la Ley 30/1992 de 26 de noviembre de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## Disposición transitoria única.
+
+Sin perjuicio de lo dispuesto en el artículo 10 de la presente Orden y hasta la definitiva constitución de cada Comisión Territorial de Seguros Agrarios, las actuales Comisiones Provinciales mantendrán su constitución y funciones.
+
+## Disposición derogatoria.
+
+Por la presente Orden quedan derogadas las Órdenes de 22 de abril de 1980, por la que se constituye la Comisión General de ENESA, y la Orden de 30 de marzo de 1982, por la que se modifica el número de suplentes en la Comisión General, así como los dos primeros párrafos del punto 1 del artículo 7 de la Orden de 1 de septiembre de 1983, por la que se definen el ámbito de aplicación, las condiciones técnicas mínimas de cultivo, rendimientos, precios y fechas de suscripción en relación con el seguro integral de cereales de invierno en secano comprendido en el Plan Anual de Seguros Agrarios Combinados 1983.
+
+## Disposición final primera.
+
+Se faculta al Presidente de ENESA en el ámbito de sus competencias para dictar las disposiciones y adoptar las medidas que sean precisas para la aplicación de la presente Orden.
+
+## Disposición final segunda.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 21 de noviembre de 1996.
+
+DE PALACIO DEL VALLE-LERSUNDI
+
+Ilmo. Sr. Presidente de la Entidad Estatal de Seguros Agrarios (ENESA). Madrid.

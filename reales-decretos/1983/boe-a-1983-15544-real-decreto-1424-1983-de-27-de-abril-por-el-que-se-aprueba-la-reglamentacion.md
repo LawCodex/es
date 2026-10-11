@@ -1,0 +1,365 @@
+---
+title: "Real Decreto 1424/1983, de 27 de abril, por el que se aprueba la Reglamentación Técnico-Sanitaria para la obtención, circulación y venta de la sal y salmueras comestibles"
+identifier: "BOE-A-1983-15544"
+eli: "https://www.boe.es/eli/es/rd/1983/04/27/1424"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1983-04-27
+published: 1983-06-01
+in_force_from: 1983-06-21
+last_amended: 2013-03-29
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 130"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1983-15544"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1424/1983, de 27 de abril, por el que se aprueba la Reglamentación Técnico-Sanitaria para la obtención, circulación y venta de la sal y salmueras comestibles
+
+Incluye las correcciones de errores publicadas en BOE núms. 279, de 22 de noviembre de 1983. [Ref. BOE-A-1983-30705](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-30705). y 60, de 10 de marzo de 1984. [Ref. BOE-A-1984-6123](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-6123).
+
+Por Decreto 704/1976, de 5 de marzo, se aprobó la norma sobre la sal comestible y salmueras. La experiencia adquirida en su aplicación aconseja su modificación en algunos puntos, al tiempo que se adapta a las Directivas comunitarias en esta materia.
+
+En su virtud, previo informe de la Comisión Interministerial para la Ordenación Alimentaria y a propuesta de los Ministerios de Economía y Hacienda, de Industria y Energía, de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, y previa deliberación del Consejo de Ministros en su reunión del día 27 de abril de 1983,
+
+### DISPONGO:
+
+#### Artículo único.
+
+Se aprueba la adjunta Reglamentación Técnico-Sanitaria para la obtención, circulación y venta de sal y salmueras comestibles.
+
+#### Disposición transitoria primera.
+
+Las adaptaciones de las instalaciones existentes derivadas de las exigencias incorporadas a esta Reglamentación que no sean consecuencia de disposiciones legales vigentes serán llevadas a cabo en el plazo de un año, a contar desde la publicación de la presente Reglamentación.
+
+#### Disposición transitoria segunda.
+
+El artículo 15 de la Reglamentación Técnico-Sanitaria no será exigible hasta las fechas de entrada en vigor que fijan las Disposiciones Transitorias del Real Decreto 2058/1982, de 12 de agosto, por el que se aprueba la norma general de etiquetado, presentación y publicidad de los productos alimenticios envasados.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 279, de 22 de noviembre de 1983. [Ref. BOE-A-1983-30705](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-30705).
+
+#### Disposición derogatoria.
+
+Salvo en lo expresado en las disposiciones transitorias, queda derogada la norma sobre la sal comestible y salmueras, aprobada por Decreto 704/1976, de 5 de marzo («Boletín Oficial del Estado» de 12 de abril), y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto a partir de su entrada en vigor.
+
+Dado en Madrid a 27 de abril de 1983.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JAVIER MOSCOSO DEL PRADO Y MUÑOZ
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA PARA LA ELABORACIÓN, CIRCULACIÓN Y COMERCIO DE LA SAL Y SALMUERAS COMESTIBLES
+
+## TÍTULO PRELIMINAR — Ámbito de aplicación
+
+#### Artículo 1.
+
+1.1 La presente Reglamentación tiene por objeto definir, a efectos legales, qué se entiende por sal y salmueras comestibles y fijar, con carácter obligatorio, las normas de dichos productos, las condiciones técnicas y sanitarias que deben reunir las industrias que se dedican a la fabricación, preparación y/o mezcla de los mismos, así como las condiciones de higiene en la elaboración y envasado, en su caso, y establecer las condiciones a que se debe someter el almacenamiento y transporte de dichos productos. Será de aplicación, asimismo, a los productos importados.
+
+1.2 Esta Reglamentación obliga a aquellas personas naturales o jurídicas que, en uso de las autorizaciones concedidas por los Organismos Oficiales competentes, dedican su actividad a la elaboración, envasado, circulación y comercio de los productos definidos en el artículo segundo.
+
+## TÍTULO I — Definiciones y denominaciones
+
+#### Artículo 2. Definiciones.
+
+2.1 Sal para alimentación.
+
+Es el producto cristalino constituido fundamentalmente por cloruro sódico en condiciones que le hacen apto para usos alimenticios y que se conoce con el nombre de «sal comestible» o simplemente «sal».
+
+2.2 Salmueras para alimentación.
+
+Se designan con este nombre las disoluciones en agua potable de sal comestible, adicionado o no de azúcar, vinagre otros condimentos, especias y demás sustancias autorizadas por la Dirección General de Salud Pública para este fin. Las salmueras naturales deberán cumplir, para su uso en alimentación, las condiciones exigidas en esta Reglamentación.
+
+#### Artículo 3. Denominaciones.
+
+A efectos de esta Reglamentación, las distintas clases de sal se denominan como sigue:
+
+3.1 Sal gema.–Es la sal procedente de yacimientos salinos naturales.
+
+3.2 Sal marina.–Es la sal procedente de la evaporación del agua del mar.
+
+Cuando se obtiene exclusivamente por la acción del viento y del sol, recogida a mano y lavada sólo en el cristalizador, sin la adición de ningún ingrediente, se puede denominar «sal marina virgen».
+
+Cuando la capa flotante de la sal cristalizada en la superficie del agua de los cristalizadores, formada exclusivamente por la acción del viento y del sol, se recolecta manualmente y sin lavar ni adicionar ningún ingrediente, se puede denominar «flor de sal».
+
+3.3 Sal de manantial.–Es la sal procedente de manantiales salinos obtenida por evaporación de las salmueras correspondientes.
+
+3.4 Sal refinada: es la sal gema, la sal de manantial o la sal marina, excepto la sal marina virgen y la flor de sal, purificada por lavado o también por disolución seguida de cristalización. Si esta cristalización se lleva a cabo al vacío se denominará «Sal vacuum».
+
+3.5 Sal de salazón.–Es la sal comestible a la que se le tolera un contenido en magnesio superior al normal por ir destinada a la salazón.
+
+3.6 Sal de mesa.–Es la sal refinada cuyo tamaño de gránulo es igual o inferior a 2,0 milímetros, humedad 0,5 por 100 como máximo y que puede contener alguno o algunos de los agentes antiapelmazantes autorizados por la Dirección General de Salud Pública.
+
+3.7 Sal de cocina.–Es la sal refinada definida en el Punto 3.6 cuya humedad no excede del 5,0 por 100.
+
+3.8 Sales especiales.–Son aquellas constituidas por sal refinada, a las que se les ha agregado diversas sustancias autorizadas por la Dirección General de la Salud Pública y que se declararán en la rotulación de los envases.
+
+Entre ellas se distinguen las siguientes:
+
+3.8.1 Sal yodada.–Es la sal a la que se le ha añadido yoduro potásico, yodato potásico, u otro derivado yodado autorizado por la Dirección General de Salud Pública, en la proporción conveniente para que el producto terminado contenga 60 miligramos de yodo por kilogramo de sal, admitiéndose una tolerancia del 15 por 100.
+
+3.8.2 Sal fluorada.–Es la sal a la que se le ha añadido fluoruro sódico u otro derivado fluorado autorizado por la Dirección General de Salud Pública, en la proporción conveniente para que el producto terminado contenga entre 90 y 225 miligramos de flúor por kilogramo de sal.
+
+3.8.3 Sal yodofluorada.–Es la sal que contiene, conjuntamente, los compuestos de yodo y flúor, autorizados por la Dirección General de Salud Pública, en los límites establecidos en los puntos 3.8.1 y 3.8.2.
+
+3.8.4 Sal nitritada.–Es la sal a la que se la ha añadido nitrito sódico en la proporción máxima de seis gramos por kilogramo de sal.
+
+3.8.5 Otras sales.–Son las que, elaboradas con sal comestible se les pueda añadir otras sustancias alimenticias que en su día pueda autorizar la Dirección General de Salud Pública.
+
+Las sales denominadas en los puntos 3.8.1 al 3.8.5 precisarán autorización, previa a su comercialización, de la Dirección General de Salud Pública.
+
+> Se modifican los apartados 2 y 4 por el art. único.1 del Real Decreto 1634/2011, de 14 de noviembre. [Ref. BOE-A-2011-18537](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18537).
+
+## TÍTULO II — Condiciones de los establecimientos, del material y del personal. Manipulaciones permitidas y prohibidas
+
+#### Artículo 4. Con carácter general la industria salinera cumplirá con lo establecido en la legislación vigente.
+
+**(Derogado)**
+
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Artículo 5. Requisitos higiénicos-sanitarios.
+
+**(Derogado)**
+
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Artículo 6. Condiciones generales de los materiales.
+
+**(Derogado)**
+
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Artículo 7. Condiciones del personal.
+
+**(Derogado)**
+
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Artículo 8. Manipulaciones permitidas y prohibidas.
+
+**(Derogado)**
+
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Artículo 9. Aditivos autorizados.
+
+**(Derogado)**
+
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se deroga la lista por la disposicion derogatoria única.57 del Real Decreto 145/1997, de 31 de enero. [Ref. BOE-A-1997-6156](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-6156).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 60, de 10 de marzo de 1984. [Ref. BOE-A-1984-6123](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-6123).
+
+## TÍTULO III — Registros Administrativos
+
+#### Artículo 10. Identificación de la industria.
+
+**(Derogado)**
+
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO IV — Materias primas y otros ingredientes. Características de los productos terminados
+
+#### Artículo 11. Condiciones Generales.
+
+**(Derogado)**
+
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Artículo 12. Materias primas y otros ingredientes.
+
+12.1 Materias primas:
+
+12.1.1 Se considerarán materias primas, a efectos de esta Reglamentación, los productos definidos en el título primero puntos: 2.2, 3.1, 3.2 y 3.3.
+
+12.1.2 a 12.2.2 **(Derogados)**
+
+> Se deroga, excepto el apartado 1.1, por el art. 23 del Real Decreto 176/2003, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Artículo 13. Características de los productos terminados.
+
+13.1 De la sal comestible: Los caracteres y composición de la sal comestible, cualquiera que sea su origen, serán los siguientes:
+
+13.1.1 Cristales blancos, inodoros, solubles en agua y con sabor salino franco, excepto la flor de sal que tiene sabor salino no franco. Los granos de la flor de sal son fácilmente disgregables y rompibles por simple presión de los dedos. El tamaño del gránulo es inferior a los 3 milímetros.
+
+13.1.2 Su residuo insoluble en agua no será mayor de cinco gramos por kilogramo de sal.
+
+13.1.3 El contenido de cloruro sódico no debe ser inferior al 97 por cien de la materia seca, con exclusión de los aditivos, a excepción de la sal marina virgen y la flor de sal que puede contener como mínimo un 94 por cien. Para la sal marina virgen y la flor de sal el defecto en cloruro sódico no será consecuencia del aumento de los residuos insolubles.
+
+13.1.4 Se tolera la presencia de sales magnésicas, calculadas en óxido de magnesio, hasta el 2 por 100 sobre el producto seco, cuando el producto vaya destinado a la salazón.
+
+13.1.5 El contenido de nitritos, nitratos y sales amónicas no excederá, expresado en nitrógeno, de 20 mg por kilogramo de sal, excepto en el caso de la sal nitritada.
+
+13.1.6 **(Derogado)**
+
+13.1.7 Se admiten las siguientes tolerancias de residuos de metales pesados:
+
+|  | mg/k |
+|---|---|
+| Cobre | 2 |
+| Plomo | 2 |
+| Arsénico | 1 |
+| Cadmio | 0,5 |
+| Mercurio | 0,1 |
+
+13.2 De las salmueras:
+
+13.2.1 Tendrán reacción ácida y la flora bacteriana estará exenta de bacterias patógenas.
+
+13.2.2 **(Derogado)**
+
+13.2.3 Las salmueras en uso deberán renovarse cuando absorban más del 10 por 100 de yodo 0,1 N.
+
+> Se deroga el apartado 2.2 por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se modifican los apartados 1.1 y 1.3 por el art. único.2 del Real Decreto 1634/2011, de 14 de noviembre. [Ref. BOE-A-2011-18537](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18537).
+
+> Se deroga el apartado 1.6 por el art. único.f) del Real Decreto 135/2010, de 12 de febrero. [Ref. BOE-A-2010-3032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3032).
+
+## TÍTULO V — Envasado, etiquetado y rotulación
+
+#### Artículo 14. Envasado.
+
+**(Derogado)**
+
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se modifica el apartado 3 por la disposición final 3 del Real Decreto 1801/2008, de 3 de noviembre. [Ref. BOE-A-2008-17629](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17629).
+
+#### Artículo 15. Etiquetado y rotulación.
+
+El etiquetado de los envases y el rotulado de los embalajes deberá cumplir lo dispuesto en la norma general de etiquetado, presentación y publicidad de los productos alimenticios envasados.
+
+15.1 Etiquetado.
+
+La información del etiquetado de los envases de los productos sujetos a esta Reglamentación, que vayan destinados al consumidor final o restaurantes, hospitales y otros establecimientos y colectividades similares, constará obligatoriamente de las siguientes especificaciones, grabadas o litografiadas con material indeleble
+
+15.1.1 Denominación del producto.
+
+Serán las definiciones y denominaciones específicas de la presente Reglamentación contemplados en los artículos 1.º y 2.º
+
+En la denominación de la sal refinada se podrá añadir el origen de la misma: gema, marina o de manantial.
+
+15.1.2 Lista de ingredientes.
+
+**(Derogado)**
+
+15.1.3 Contenido neto.
+
+**(Derogado)**
+
+15.1.4 Identificación de la Empresa.
+
+**(Derogado)**
+
+15.1.5 Identificación del lote de fabricación.
+
+**(Derogado)**
+
+15.2 Rotulación.
+
+**(Derogado)**
+
+> Se deroga, excepto el apartado 1.1, por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Artículo 16. Productos importados.
+
+**(Derogado)**
+
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VI — Transporte, almacenamiento, venta, exportación e importación
+
+#### Artículo 17. Transporte y almacenamiento.
+
+**(Derogado)**
+
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se modifican los apartados 2 y 3 por el art. único del Real Decreto 1095/1987, de 10 de julio. [Ref. BOE-A-1987-21013](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-21013).
+
+#### Artículo 18. Exportación e importación.
+
+18.1 Los productos objeto de esta Reglamentación dedicados a la exportación, se ajustarán a lo que dispongan en esta materia los Ministerios de Economía y Hacienda y de Agricultura, Pesca y Alimentación. Cuando estos productos no cumplan lo dispuesto en esta Reglamentación, llevarán en caracteres bien visibles impresa la palabra «Export» y no podrán comercializarse ni consumirse en España salvo autorización expresa de los Ministerios competentes, previo informe favorable de la Comisión Interministerial para la Ordenación Alimentaria y siempre que no afecte a las condiciones de carácter sanitario.
+
+18.2 **(Derogado)**
+
+> Se deroga el apartado 2 por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402)
+
+## TÍTULO VII — Competencias y responsabilidades
+
+#### Artículo 19. Competencias.
+
+**(Derogado)**
+
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402)
+
+#### Artículo 20. Responsabilidades
+
+**(Derogado)**
+
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402)
+
+## TÍTULO VIII — Toma de muestras y métodos de análisis
+
+#### Artículo 21. Toma de muestras.
+
+**(Derogado)**
+
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402)
+
+#### Artículo 22. Métodos analíticos.
+
+Para las determinaciones exigidas en la sal comestible se aplicarán las normas siguientes:
+
+22.1 Determinación de la masa.–La comprobación de la masa en las unidades de venta será como mínimo el resultante del promedio de 10 unidades de venta por tipo, admitiéndose la tolerancia señalada en el punto 14.4 de la presente Reglamentación.
+
+22.2 Determinación de la pérdida de masa, UNE 34-203.
+
+22.3 Determinación de residuo insoluble en agua, UNE 34-202.
+
+22.4 Determinación de cloruros, UNE 34-205.
+
+22.5 Determinación de sulfatos, UNE 34-233.
+
+22.6 Determinación de calcio y magnesio, UNE 34-204.
+
+22.7 Determinación del potasio, UNE 34-208.
+
+22.8 Determinación de nitritos en la sal nitritada, UNE 34-208.
+
+22.9 Determinación de yoduros en la sal yodada, UNE 34-207.
+
+22.10 Determinación de fluoruros en la sal fluorada o yodo-fluorada, UNE 34-210.
+
+22.11 Determinación granulométrica, UNE 34-232.
+
+22.12 Cálculo del contenido en cloruro sódico de la sal comestible, exigido en el punto 13.1.3 de esta Reglamentación.
+
+Aplicando las normas relacionadas se hace el cálculo:
+
+– Expresar el sulfato como CaSO<sub>4</sub> y el calcio sobrante como CaCl<sub>2</sub> salvo que la cantidad de sulfato exceda de la necesaria para combinarse con el calcio, en cuyo caso se expresa el calcio como CaSO<sub>4</sub> y el sulfato sobrante como MgSO<sub>4</sub> y, si aún sobrase sulfato, como Na<sub>2</sub>SO<sub>4</sub>.
+
+– Expresar el magnesio sobrante como MgCl<sub>2</sub>
+
+– Expresar el potasio como KCl.
+
+– Expresar el cloro sobrante como NaCl.
+
+– Se calcula el contenido en NaCl sobre producto seco, multiplicando la cantidad de NaCl encontrado, por el cociente (100)/(100-P), siendo P el porcentaje de pérdida de masa.
+
+> Redactado el apartado 12 conforme a la corrección de errores publicada en BOE núm. 60, de 10 de marzo de 1984. [Ref. BOE-A-1984-6123](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-6123).
+
+#### Disposición final única. Reconocimiento mutuo.
+
+Los requisitos de la presente reglamentación no se aplicarán a los productos legalmente fabricados o comercializados de acuerdo con otras especificaciones, en los otros Estados miembros de la Unión Europea, ni a los productos originarios de los países de la Asociación Europea de Libre Comercio (AELC), Partes contratantes en el Acuerdo del Espacio Económico Europeo (EEE), ni a los Estados que tengan un acuerdo de Asociación Aduanera con la Unión Europea.
+
+> Se añade por el art. único.3 del Real Decreto 1634/2011, de 14 de noviembre. [Ref. BOE-A-2011-18537](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18537).

@@ -1,0 +1,289 @@
+---
+title: "Orden de 8 de mayo de 1986 sobre práctica y enseñanza de la aerostación"
+identifier: "BOE-A-1986-11791"
+eli: "https://www.boe.es/eli/es/o/1986/05/08/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Transportes, Turismo y Comunicaciones"
+date: 1986-05-08
+published: 1986-05-14
+in_force_from: 1986-05-15
+last_amended: 1995-07-25
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 115"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-11791"
+retrieved: 2026-10-11
+---
+
+# Orden de 8 de mayo de 1986 sobre práctica y enseñanza de la aerostación
+
+Ilustrísimo señor:
+
+El desarrollo de la práctica y enseñanza de la Aerostación, y el carácter provisional de la Orden de 5 de abril de 1978, expresado en la misma, por la que se regulaba la práctica de la aerostación en el espacio aéreo español, aconsejan la promulgación de una nueva disposición reguladora, al considerar la evolución constante del material y de las técnicas de pilotaje de globos libres, así como la conveniencia de adaptar esta nueva regulación a la normativa de Organismos Internacionales de los que nuestro país forma parte.
+
+En su virtud, este Ministerio ha dispuesto lo siguiente:
+
+## CAPÍTULO PRIMERO — Competencia y definiciones
+
+### Artículo 1. Competencia del Ministerio de Transportes, Turismo y Comunicaciones.
+
+1\. Competen al Ministerio de Transportes, Turismo y Comunicaciones, a través de la Dirección General de Aviación Civil, regular, dirigir e inspeccionar la práctica y enseñanza de la aerostación que se realicen en territorio nacional, coordinando las iniciativas que, en cuanto a promoción y fomento de esta modalidad de vuelo, puedan desarrollar otros organismos.
+
+2\. **(Derogado)**
+
+3\. **(Derogado)**
+
+> Se derogan los apartados 2 y 3 por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se dispone el cumplimiento de Sentencia de 26 de noviembre de 1993, que anula la Orden de 30 de noviembre de 1990, por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+> Se derogan los apartados 2 y 3 por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+### Artículo 2. Definiciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se dispone el cumplimiento de Sentencia de 26 de noviembre de 1993, que anula la Orden de 30 de noviembre de 1990, por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+## CAPÍTULO II — Centros de vuelo
+
+### Artículo 3. Requisitos para la apertura de un Centro de Aerostación.
+
+a) Para la apertura de un Centro de Aerostación la persona natural o jurídica interesada habrá de solicitar, por escrito, la pertinente autorización del Ministerio de Transportes, Turismo y Comunicaciones, cursando su petición a través de la Dirección General de Aviación Civil.
+
+b) En la solicitud se consignarán las instalaciones, personal y material con que se cuente para el desarrollo de su actividad, adjuntando la documentación justificativa de la existencia y título de uso o de asignación de todo ello.
+
+### Artículo 4. Medios.
+
+a) Los medios mínimos, indispensables para autorizar la apertura de un Centro de Aerostación sin Escuela, son los siguientes:
+
+1\. Un Jefe de Vuelos o persona que reúna las condiciones legales para serlo.
+
+2\. Una superficie terrestre autorizada.
+
+3\. Un sistema de comunicaciones por radio, o un sistema de señales.
+
+4\. Un botiquín para asistencia sanitaria de urgencia.
+
+5\. Un aerostato.
+
+b) Los medios mínimos, indispensables para autorizar la apertura de un Centro de Aerostación con Escuela, son los siguientes:
+
+1\. Un piloto de globo libre, con la calificación de instructor.
+
+2\. Los exigidos para los Centros de Aerostación sin Escuela en los apartados 1, 2, 3, 4, y 5 del párrafo precedente.
+
+c) Los promotores de Centros de Aerostación podrán solicitar y obtener de la Dirección General de Aviación Civil, previas las garantías necesarias, el préstamo de material para la realización de sus actividades, así como el apoyo técnico y operativo correspondiente.
+
+### Artículo 5. Documentación de los Centros de Aerostación.
+
+Los Centros de Aerostación llevarán la documentación siguiente:
+
+a) Deberá figurar en sitio perfectamente visible en las dependencias del Centro la correspondiente autorización expedida por la Dirección General de Aviación Civil.
+
+b) Las hojas de cronometración, en las que se anotan diariamente los vuelos efectuados por los pilotos y alumnos formaran el libro diario de vuelos.
+
+c) Un parte trimestral de actividades, en modelo oficial, formulado por el Jefe de Vuelos, que se remitirá a la Dirección General de Aviación Civil, dentro de los quince primeros días del trimestre siguiente.
+
+## CAPÍTULO III — Actividad
+
+### Artículo 6. Jefe de Vuelos.
+
+Para el desempeño de las funciones de Jefe de Vuelos en los Centros de Aerostación se deberán reunir las condiciones siguientes:
+
+a) Ser mayor de edad.
+
+b) Poseer el título de Piloto de Globo Libre, con experiencia mínima de sesenta horas de vuelo en globo.
+
+### Artículo 7. Funciones del Jefe de Vuelos.
+
+Corresponden al Jefe de Vuelos las funciones siguientes, en orden a la supervisión de las actividades de vuelo:
+
+a) Determinar su comienzo y fin.
+
+b) Verificar que los vuelos se desarrollen de acuerdo con la normativa vigente.
+
+c) Determinar la colocación de los globos y dirección de despegue.
+
+d) Establecer el orden de los vuelos.
+
+e) Establecer las comunicaciones aire-tierra, y viceversa.
+
+f) Autorizar, con su firma, la hoja de cronometración al finalizar los vuelos, comprobando la exactitud de las anotaciones.
+
+g) Autentificar, con su firma y el sello del Centro, las cartillas de vuelo, los diarios de a bordo y los certificados de vuelo.
+
+h) Realizar los vuelos de prueba relacionados con el mantenimiento y la seguridad en vuelo.
+
+Esta atribución podrá ser delegada en un piloto expresamente autorizado por el Jefe de Vuelos para dicha operación.
+
+### Artículo 8. Práctica de vuelo.
+
+a) Los Centros de Aerostación a que se refiere esta normativa desarrollaran sus actividades de vuelo bajo la supervisión del Jefe de Vuelos, o, en su defecto, del Piloto que este designe para que le sustituya durante su ausencia.
+
+b) Los Centros de Aerostación con Escuela desarrollarán su actividad de enseñanza bajo la supervisión y responsabilidad de un Instructor de Globo Libre.
+
+c) Autorización del propietario o poseedor legitimo del terreno donde se despegue o aterrice.
+
+d) No se efectuarán los vuelos en espacios aéreos controlados, restringidos, prohibidos o sobre zonas peligrosas activadas.
+
+e) Los vuelos se realizarán siempre en condiciones meteorológicas de vuelo visual diurno.
+
+Con carácter excepcional, y por causa justificada, y previa petición razonada ante la Dirección General de Aviación Civil, podrán dejarse en suspenso las limitaciones operativas anteriormente expuestas.
+
+## CAPÍTULO IV — Enseñanza
+
+### Artículo 9. Instrucción.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se dispone el cumplimiento de Sentencia de 26 de noviembre de 1993, que anula la Orden de 30 de noviembre de 1990, por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+### Artículo 10. Curso.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se dispone el cumplimiento de Sentencia de 26 de noviembre de 1993, que anula la Orden de 30 de noviembre de 1990, por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+### Artículo 11. Requisitos para el vuelo solo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se dispone el cumplimiento de Sentencia de 26 de noviembre de 1993, que anula la Orden de 30 de noviembre de 1990, por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+### Artículo 12. Exámenes.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se dispone el cumplimiento de Sentencia de 26 de noviembre de 1993, que anula la Orden de 30 de noviembre de 1990, por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+## CAPÍTULO V — Títulos, licencias y calificaciones
+
+### Artículo 13. Tarjeta de alumno-piloto.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se dispone el cumplimiento de Sentencia de 26 de noviembre de 1993, que anula la Orden de 30 de noviembre de 1990, por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+### Artículo 14. Alumnos extranjeros.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se dispone el cumplimiento de Sentencia de 26 de noviembre de 1993, que anula la Orden de 30 de noviembre de 1990, por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+### Artículo 15. Título y licencia.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se dispone el cumplimiento de Sentencia de 26 de noviembre de 1993, que anula la Orden de 30 de noviembre de 1990, por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+### Artículo 16. Atribuciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se dispone el cumplimiento de Sentencia de 26 de noviembre de 1993, que anula la Orden de 30 de noviembre de 1990, por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+### Artículo 17. Convalidaciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se dispone el cumplimiento de Sentencia de 26 de noviembre de 1993, que anula la Orden de 30 de noviembre de 1990, por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+### Artículo 18. Duración, prórroga y renovación de licencias y calificaciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se dispone el cumplimiento de Sentencia de 26 de noviembre de 1993, que anula la Orden de 30 de noviembre de 1990, por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+## CAPÍTULO VI — Control de la actividad
+
+### Artículo 19. Inspecciones.
+
+a) La Dirección General de Aviación Civil ordenará una visita de inspección a la apertura de los Centros de Aerostación a los que se refiere esta disposición, y, con posterioridad, las periódicas que se estimen pertinentes.
+
+b) El material de vuelo será objeto de las revisiones periódicas y generales, de acuerdo con sus normas de fabricación.
+
+## CAPITULO VII — Facilitación
+
+### Artículo 20. Reducción de requisitos.
+
+Los aspirantes con alguna licencia de vuelo en vigor podrán solicitar la convalidacion de la parte teórica correspondiente.
+
+## CAPÍTULO VIII — Responsabilidades
+
+### Artículo 21. Sanciones.
+
+Todas las infracciones cometidas contra esta Orden por los alumnos-pilotos o Pilotos de Globo Libre, podrán ser objeto de expediente sancionador con arreglo a lo previsto en la Ley de Navegación Aérea.
+
+### Artículo 22. Accidentes.
+
+En caso de accidente de un aerostato el Jefe de Vuelos lo comunicará inmediatamente, y por el medio más rápido, a la Dirección General de Aviación Civil. Comisión de Accidentes.
+
+Con posterioridad a la notificación preceptuada en el párrafo anterior, el Jefe de Vuelos remitirá a la Dirección General de Aviación Civil una información comprensiva de todas las circunstancias que concurrieron en el accidente.
+
+### Disposición final primera.
+
+El desarrollo de las actividades de vuelo previstas en esta disposición circunscribirá a las zonas y espacios aéreos en cada caso establecido.
+
+### Disposición final segunda.
+
+Queda derogada la Orden de 5 de abril de 1978, así como cuantas disposiciones de igual rango o inferiores que se opongan a lo dispuesto en la presente Orden.
+
+### Disposición final tercera.
+
+Esta Orden entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Lo que comunico a V. I.
+
+Madrid, 8 de mayo de 1986.
+
+CABALLERO ÁLVAREZ
+
+Ilmo. Sr. Director General de Aviación Civil.

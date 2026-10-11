@@ -1,0 +1,207 @@
+---
+title: "Real Decreto 2491/1996, de 5 de diciembre, de estructura orgánica y funciones del Instituto Nacional de las Artes Escénicas y de la Música"
+identifier: "BOE-A-1996-28432"
+eli: "https://www.boe.es/eli/es/rd/1996/12/05/2491"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1996-12-05
+published: 1996-12-20
+in_force_from: 1996-12-21
+last_amended: 2025-11-13
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 306"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-28432"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2491/1996, de 5 de diciembre, de estructura orgánica y funciones del Instituto Nacional de las Artes Escénicas y de la Música
+
+Incluye la corrección de erratas publicada en BOE núm. 70, de 22 de marzo de 1997. [Ref. BOE-A-1997-6154](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-6154).
+
+Una vez creado el nuevo Ministerio de Educación y Cultura, mediante Real Decreto 758/1996, de 5 de mayo y, establecida su estructura orgánica básica por los Reales Decretos 839/1996, de 10 de mayo y 1887/1996, de 2 de agosto, resulta conveniente proceder a la revisión de la estructura orgánica y funciones del organismo autónomo Instituto Nacional de las Artes Escénicas y de la Música, antes dependiente del Ministerio de Cultura y que ahora lo es del nuevo departamento, al que queda adscrito a través de la Secretaría de Estado de Cultura.
+
+Dicha revisión se lleva a cabo en cumplimiento de lo establecido en la disposición final tercera del citado Real Decreto 839/1996, y en uso de la autorización conferida al Gobierno por el artículo 76 de la Ley 42/1994, de 30 de diciembre, sobre Medidas Fiscales, Administrativas y de Orden Social.
+
+En la reestructuración de este organismo se han tenido en cuenta los mismos criterios de racionalidad, eficacia y disminución del gasto público que han estado presentes en la reestructuración de los Departamentos ministeriales.
+
+En su virtud, a propuesta conjunta de los Ministros de Administraciones Públicas y de Economía y Hacienda, de acuerdo con el Ministerio de Educación y Cultura y previa deliberación del Consejo de Ministros en su reunión del día 5 de diciembre de 1996,
+
+## D I S P O N G O :
+
+> Redactado el párrafo cuarto conforme a la corrección de erratas publicada en BOE núm. 70, de 22 de marzo de 1997. [Ref. BOE-A-1997-6154](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-6154).
+
+### Artículo 1. Naturaleza y régimen jurídico.
+
+1\. El Instituto Nacional de las Artes Escénicas y de la Música, creado por el artículo 87.3 de la Ley 50/1984, de 30 de diciembre, de Presupuestos Generales del Estado para 1985, es un organismo autónomo, de carácter comercial, de los comprendidos en el artículo 4.1.b) de la Ley General Presupuestaria, texto refundido aprobado por Real Decreto legislativo 1091/1988, de 23 de septiembre, y queda adscrito al Ministerio de Educación y Cultura, a través de la Secretaría de Estado de Cultura.
+
+2\. El Instituto Nacional de las Artes Escénicas y de la Música tiene personalidad jurídica propia y capacidad de obrar para el cumplimiento de sus fines y se rige por lo establecido en la Ley de Régimen Jurídico de las Entidades Estatales Autónomas, en la Ley General Presupuestaria y en las demás disposiciones de aplicación a los organismos autónomos.
+
+### Artículo 2. Fines.
+
+Corresponde al Instituto Nacional de las Artes Escénicas y de la Música la consecución de los siguientes fines:
+
+1\. La promoción, protección y difusión de las artes escénicas y de la música en cualquiera de sus manifestaciones.
+
+2\. La proyección exterior de las actividades a que se refiere el apartado anterior.
+
+3\. La comunicación cultural entre las Comunidades Autónomas en las materias propias del organismo, de acuerdo con ellas.
+
+### Artículo 3. Funciones.
+
+Para el cumplimiento de los fines que se le atribuyen, el INAEM está facultado para desarrollar las siguientes funciones:
+
+a) La programación y gestión de las unidades de producción, musicales, líricas, coreográficas y teatrales del organismo autónomo, así como las funciones adecuadas para su actuación en aquellas entidades públicas o privadas con fines similares en que participe el INAEM o el Ministerio de Cultura.
+
+b) La creación, producción y exhibición escénica y musical, así como la difusión y comunicación artística.
+
+c) La distribución y la gestión de las giras, en coordinación con la función de proyección estatal y exterior de la Dirección General de Artes Escénicas y Música del Ministerio de Cultura.
+
+d) La colaboración con otras entidades, públicas o privadas, así como con artistas y creadores, a través de los distintos instrumentos jurídicos de relación y colaboración con el sector cultural.
+
+e) Cuantas otras funciones resulten precisas para la consecución de los fines que se le encomienden.
+
+> Se modifica por el art. 1.1 del Real Decreto 1028/2025, de 12 de noviembre. [Ref. BOE-A-2025-22948](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22948)
+
+### Artículo 4. Órganos rectores.
+
+Los órganos rectores del Instituto Nacional de las Artes Escénicas y de la Música son las siguientes:
+
+1\. El Presidente.
+
+2\. El Director general.
+
+### Artículo 5. El Presidente.
+
+1\. El Presidente del Instituto Nacional de las Artes Escénicas y de la Música es el Ministro de Educación y Cultura.
+
+2\. Corresponde al Presidente:
+
+a) La alta inspección del organismo.
+
+b) La aprobación de los planes generales de actuación del mismo.
+
+### Artículo 6. El Director general.
+
+1\. El Director general del Instituto Nacional de las Artes Escénicas y de la Música es nombrado y separado por Real Decreto, acordado por el Consejo de Ministros a propuesta del Ministro de Educación y Cultura y, en atención a las características específicas de las funciones que la Dirección General tiene atribuidas, para su nombramiento no será preciso que ostente la condición de funcionario.
+
+2\. Corresponde al Director general:
+
+a) La dirección del Instituto y del personal del mismo.
+
+b) La ejecución de los planes generales de actuación del Instituto.
+
+c) La representación del organismo.
+
+d) La elaboración de la memoria anual de actividades del organismo y la elevación al Ministro, a través del Secretario de Estado de Cultura, del anteproyecto de presupuesto del Instituto.
+
+e) La contratación en nombre del organismo y la disposición de gastos hasta el límite máximo establecido por la disposición transitoria tercera de la Ley 13/1995, de 18 de mayo, de Contratos de las Administraciones Públicas, sin perjuicio de la facultad del titular del departamento prevista en el artículo 12.1 de la citada Ley, así como la ordenación de pagos.
+
+f) La concesión de las ayudas y subvenciones que corresponda otorgar al Instituto.
+
+> Se modifica el apartado 1 por el art. único del Real Decreto 1292/1999, de 23 de julio. [Ref. BOE-A-1999-16087](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-16087).
+
+### Artículo 7. Estructura orgánica básica.
+
+1\. Dependen de la Dirección General las siguientes unidades con nivel orgánico de subdirección general:
+
+a) Secretaría General.
+
+b) Subdirección General de Personal.
+
+c) Subdirección General Económico-Administrativa.
+
+2\. Corresponde a la Secretaría General:
+
+a) La supervisión y dirección de los asuntos de personal y de los económico-administrativos del INAEM.
+
+b) La coordinación de las Subdirecciones Generales de Personal y Económico-Administrativa.
+
+c) Cuantas funciones le encomiende la Dirección General.
+
+3\. Corresponde a la Subdirección General de Personal:
+
+a) La gestión de los recursos humanos.
+
+b) La inspección y la tramitación de expedientes sancionadores, dentro de las atribuciones del organismo.
+
+c) La negociación y cumplimiento de los Convenios Colectivos del personal laboral.
+
+4\. Corresponde a la Subdirección General Económico-Administrativa:
+
+a) El ejercicio de las funciones de gestión económico-administrativa y financiera.
+
+b) La elaboración del anteproyecto de presupuestos.
+
+c) La gestión de los servicios generales y de régimen interior.
+
+> Se modifica por el art. 1.2 del Real Decreto 1028/2025, de 12 de noviembre. [Ref. BOE-A-2025-22948](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22948)
+
+### Artículo 8. Bienes y medios económicos.
+
+Los bienes y medios económicos del Instituto Nacional de las Artes Escénicas y de la Música son las siguientes:
+
+1\. Los bienes que constituyan su patrimonio y los productos y rentas del mismo.
+
+2\. Las transferencias y subvenciones que anualmente se le consignen en los Presupuestos Generales del Estado.
+
+3\. Los ingresos de derecho público o privado que le corresponda percibir y los que se produzcan a consecuencia de sus actividades de gestión y explotación.
+
+4\. Las subvenciones, aportaciones voluntarias, donaciones, herencias o legados que se concedan a favor del organismo.
+
+5\. Cualquier otro recurso que le sea legalmente atribuido.
+
+### Disposición adicional única. Supresión de órganos.
+
+Quedan suprimidos los siguientes órganos:
+
+1\. Con nivel orgánico de Dirección General: Gerencia del Instituto Nacional de las Artes Escénicas y de la Música.
+
+2\. Con nivel orgánico de Subdirección General:
+
+a) Departamento Musical.
+
+b) Departamento Dramático.
+
+c) Oficina de Coordinación Artística.
+
+d) Departamento de Personal.
+
+e) Departamento Económico-Administrativo.
+
+### Disposición transitoria única. Unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General.
+
+Las unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General continuarán subsistentes y será retribuido con cargo a los mismos créditos presupuestarios, hasta que se aprueben las relaciones de puestos de trabajo adaptadas a la estructura orgánica de este Real Decreto. Dicha adaptación, en ningún caso, podrá suponer incremento de gasto público.
+
+Las unidades y puestos de trabajo encuadrados en los órganos suprimidos por este Real Decreto se adscribirán provisionalmente mediante resolución del Director del organismo, hasta tanto entre en vigor la nueva relación de puestos de trabajo, a los órganos regulados en el presente Real Decreto, en función de las atribuciones que éstos tengan asignadas.
+
+> Redactado el párrafo segundo conforme a la corrección de erratas publicada en BOE núm. 70, de 22 de marzo de 1997. [Ref. BOE-A-1997-6154](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-6154).
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a lo establecido en el presente Real Decreto y, en particular, el Título III del Real Decreto 565/1985, de 24 de abril, por el que se establece la estructura orgánica básica del Ministerio de Cultura y sus organismos autónomos.
+
+### Disposición final primera. Facultades de desarrollo.
+
+Se autoriza a la Ministra de Educación y Cultura para que, previo cumplimiento de los trámites legales oportunos, adopte las medidas necesarias para el desarrollo y ejecución del presente Real Decreto.
+
+### Disposición final segunda. Modificaciones presupuestarias.
+
+Por el Ministerio de Economía y Hacienda se llevarán a cabo las modificaciones presupuestarias precisas para el cumplimiento de lo previsto en el presente Real Decreto.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 5 de diciembre de 1996.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno
+
+y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ

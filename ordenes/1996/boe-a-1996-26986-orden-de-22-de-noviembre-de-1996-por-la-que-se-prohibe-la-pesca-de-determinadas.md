@@ -1,0 +1,61 @@
+---
+title: "Orden de 22 de noviembre de 1996 por la que se prohíbe la pesca de determinadas especies pelágicas con artes de arrastre"
+identifier: "BOE-A-1996-26986"
+eli: "https://www.boe.es/eli/es/o/1996/11/22/(6)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1996-11-22
+published: 1996-12-03
+in_force_from: 1996-12-04
+last_amended: 2016-08-26
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 291"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-26986"
+retrieved: 2026-10-11
+---
+
+# Orden de 22 de noviembre de 1996 por la que se prohíbe la pesca de determinadas especies pelágicas con artes de arrastre
+
+Téngase en cuenta que quedan derogadas las disposiciones de esta norma en todo lo que afecte a lo dispuesto en la Orden AAA/1307/2013, de 1 de julio. [Ref. BOE-A-2013-7605](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7605), según establece su disposición derogatoria única.2.
+
+La pesca de especies pelágicas se ha venido ejerciendo, tradicionalmente en nuestro país, por un elevado número de embarcaciones, generalmente de pequeño porte, mediante el empleo de artes y aparejos de carácter artesanal. En efecto, en España la pesca de sardina y anchoa se ha venido efectuando exclusivamente con artes de cerco y la de bonito del norte, y otros túnidos con aparejos de anzuelo.
+
+La importancia económica y social de estas pesquerías es muy grande para las flotas de bajura en amplias zonas de nuestro litoral, lo que hace conveniente, junto con la necesidad de preservar unos recursos pesqueros limitados, el mantenimiento de estas actividades tradicionales.
+
+Sin perjuicio de lo establecido en la normativa comunitaria, el artículo 149.1.19 de la Constitución española atribuye al Estado la competencia exclusiva sobre la pesca marítima en aguas exteriores.
+
+Han sido consultadas las Comunidades Autónomas y los sectores afectados y cumplido el trámite del artículo 14.2 del Reglamento (CE) 3094/86, del Consejo, por el que se establecen determinadas medidas técnicas de conservación de los Recursos Pesqueros.
+
+En su virtud, dispongo:
+
+## Artículo 1. Ámbito de aplicación.
+
+La presente orden es de aplicación a los buques españoles en las aguas del Atlántico comprendidas en las Regiones 2 y 3 del Consejo Internacional para la Exploración del Mar (CIEM) excepto el Caladero Nacional del Golfo de Cádiz y el Caladero Nacional del Cantábrico y Noroeste.
+
+> Se modifica por la disposición final 2 de la Orden AAA/1406/2016, de 18 de agosto. [Ref. BOE-A-2016-8052](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8052)
+
+## Artículo 2. Prohibiciones.
+
+Se prohíbe la pesca con artes de arrastre de las siguientes especies: Anchoa («Engraulis encrasicholus»), sardina («Sardina pilchardus») y bonito del norte («Tunnus alalunga»), así como cualquier otra especie de túnidos.
+
+Asimismo, se prohíbe la tenencia a bordo, transporte y desembarque de las mencionadas especies capturadas con artes de arrastre.
+
+## Artículo 3. Infracciones y sanciones.
+
+Las infracciones a lo dispuesto en la presente Orden serán sancionadas de acuerdo a lo establecido en la Ley 53/1982, de 13 de julio, sobre infracciones en materia de pesca marítima y disposiciones concordantes.
+
+## Disposición final primera. Facultad de aplicación.
+
+Por la Secretaría General de Pesca Marítima se dictarán las resoluciones y se adoptarán las medidas necesarias para la aplicación y cumplimiento de la presente Orden.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 22 de noviembre de 1996.
+
+DE PALACIO DEL VALLE-LERSUNDI

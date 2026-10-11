@@ -1,0 +1,211 @@
+---
+title: "Instrumento de Ratificación del Protocolo Adicional al Convenio Europeo de Asistencia Judicial en Materia Penal hecho en Estrasburgo el 17 de marzo de 1978"
+identifier: "BOE-A-1991-19739"
+eli: "https://www.boe.es/eli/es/ai/1978/03/17/(1)"
+type: treaty
+rank: "Acuerdo Internacional"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 1978-03-17
+published: 1991-08-02
+in_force_from: 1991-09-11
+last_amended: 2024-08-05
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 184"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-19739"
+retrieved: 2026-10-11
+---
+
+# Instrumento de Ratificación del Protocolo Adicional al Convenio Europeo de Asistencia Judicial en Materia Penal hecho en Estrasburgo el 17 de marzo de 1978
+
+JUAN CARLOS I
+
+REY DE ESPAÑA
+
+*Por cuanto*el día 12 de abril de 1985, el Plenipotenciario de España, nombrado en buena y debida forma al efecto, firmó en Estrasburgo el Protocolo Adicional al Convenio Europeo de Asistencia Judicial en materia penal, hecho en Estrasburgo el 17 de marzo de 1978.
+
+*Vistos y examinados* los doce artículos de dicho Protocolo,
+
+*Concedida* por las Cortes Generales la autorización prevista en el artículo 94.1 de la Constitución,
+
+*Vengo en aprobar y ratificar*cuanto en él se dispone, como en virtud del presente lo apruebo y ratifico, prometiendo cumplirlo, observarlo y hacer que se cumpla y observe puntualmente en todas sus partes, a cuyo fin, para su mayor validación y firmeza *mando* expedir este Instrumento de Ratificación firmado por Mí, debidamente sellado y refrendado por el infrascrito Ministro de Asuntos Exteriores, con la siguiente declaración:
+
+El Gobierno español declara conforme al artículo 8.2 del Protocolo citado, que se reserva el derecho de no ejecutar comisiones rogatorias a los fines de investigación o embargo de objetos en materia fiscal.
+
+Dado en Madrid a 27 de mayo de 1991.
+
+JUAN CARLOS R.
+
+El Ministro de Asuntos Exteriores,
+
+FRANCISCO FERNÁNDEZ ORDÓÑEZ
+
+## PROTOCOLO ADICIONAL AL CONVENIO EUROPEO DE ASISTENCIA JUDICIAL EN MATERIA PENAL
+
+Los Estados Miembros del Consejo de Europa, signatarios del presente Protocolo,
+
+Queriendo facilitar la aplicación en materia de infracciones fiscales, del Convenio Europeo de Asistencia Judicial en Materia Penal, abierto a la firma en Estrasburgo el 20 de abril de 1959 (a continuación denominado «El Convenio»;
+
+Considerando asimismo que es conveniente completar dicho Convenio en algunos aspectos,
+
+Convienen en lo siguiente:
+
+## TÍTULO I
+
+#### Artículo 1.
+
+Las Partes Contratantes no ejercerán el derecho, previsto en el artículo 2 (a) del Convenio, a denegar la asistencia judicial únicamente por el motivo de que la solicitud se refiera a una infracción que la Parte requerida considere como una infracción fiscal.
+
+#### Artículo 2.
+
+1\. En el caso de que una Parte Contratante se haya reservado la facultad de someter la ejecución de las comisiones rogatorias que tenga por finalidad un registro o embargo de bienes a la condición de que la infracción que motive la comisión rogatoria sea punible con arreglo a la Ley de la Parte requirente y de la Parte requerida, dicha condición se tendrá por cumplida, en lo que respecta a las infracciones fiscales, si la infracción es punible con arreglo a la Ley de la Parte requirente y se corresponde a una infracción de la misma naturaleza con arreglo a la Ley de la Parte requerida.
+
+2\. No podrá denegarse la solicitud por el motivo de que la legislación de la Parte requerida no impone el mismo tipo de contribuciones o impuestos, o no contiene el mismo tipo de reglamentación en materia de contribuciones o de impuestos de Aduana y de cambio que la legislación de la Parte requirente.
+
+## TÍTULO II
+
+#### Artículo 3.
+
+El Convenio se aplicará asimismo:
+
+a) A la notificación de los documentos relativos a la ejecución de una condena, el cobro de una multa o el pago de gastos procesales.
+
+b) A las medidas relativas a la suspensión del pronunciamiento de una condena o de su ejecución, a la libertad condicional, al aplazamiento del comienzo de cumplimiento una condena o a la interrupción de su cumplimiento.
+
+## TÍTULO III
+
+#### Artículo 4.
+
+El artículo 22 del Convenio se completará con el texto siguiente, por constituir el artículo 22 original del Convenio el párrafo 1 y las disposiciones que a continuación figuran en el párrafo 2:
+
+«2. Asimismo, cualquier Parte Contratante que haya facilitado la información anteriormente mencionada comunicará a la parte interesada, a petición de la misma, en casos particulares, copia de las condenas y medidas de que se trate así como cualquier otra información correspondiente, para permitirle examinar si requieren medidas a nivel nacional. Dicha comunicación tendrá lugar entre los Ministerios de Justicia interesados.»
+
+## TÍTULO IV
+
+#### Artículo 5.
+
+1\. El presente Protocolo quedará abierto a la firma de los Estados Miembros del Consejo de Europa que hayan firmado el Convenio. Se someterá a ratificación, aceptación o aprobación. Los Instrumentos de Ratificación, de aceptación o de aprobación se depositarán en poder del Secretario general del Consejo de Europa.
+
+2\. El Protocolo entrará en vigor noventa días después de la fecha del depósito del tercer Instrumento de Ratificación, de aceptación o de aprobación.
+
+3\. Entrará en vigor, para cualquier Estado signatario que lo ratifique, lo acepte o lo apruebe ulteriormente, noventa días después de la fecha del depósito de su Instrumento de Ratificación, de aceptación o de aprobación.
+
+4\. Un Estado Miembro del Consejo de Europa no podrá ratificar, aceptar o aprobar el presente Protocolo sin haber ratificado el Convenio simultánea o anteriormente.
+
+#### Artículo 6.
+
+1\. Cualquier Estado que se haya adherido al Convenio podrá adherirse al presente Protocolo después de la entrada en vigor del mismo.
+
+2\. La adhesión se efectuará mediante el depósito, en poder del Secretario general del Consejo de Europa, de un instrumento de adhesión que surtirá efecto noventa días después de la fecha de su depósito.
+
+#### Artículo 7.
+
+1\. Cualquier Estado, en el momento de la firma o del depósito de su Instrumento de Ratificación, aceptación, aprobación o adhesión, podrá designar el o los territorios a los cuales se aplicará el presente Protocolo.
+
+2\. Cualquier Estado, en el momento del depósito de su Instrumento de Ratificación, aceptación, aprobación o adhesión, o en cualquier otro momento posterior, podrá ampliar la aplicación del presente Protocolo mediante declaración dirigida al Secretario general del Consejo de Europa, a cualquier otro territorio designado en la declaración y cuyas relaciones internacionales asuma o en cuya representación esté facultado para estipular.
+
+3\. Cualquier declaración efectuada en virtud del párrafo anterior podrá retirarse, en lo que respecta a cualquier territorio designado en dicha declaración, mediante notificación dirigida al Secretario general del Consejo de Europa. La retirada surtirá efecto seis meses después de la fecha de recepción de la notificación por el Secretario general del Consejo de Europa.
+
+#### Artículo 8.
+
+1\. Las reservas formuladas por un Parte Contratante a una disposición del Convenio se aplicarán asimismo al presente Protocolo, al menos que dicha Parte exprese la intención contraria en el momento de la firma o del depósito de su Instrumento de Ratificación, aceptación, aprobación o adhesión. Igual norma regirá para las declaraciones efectuadas en virtud del artículo 24 del Convenio.
+
+2\. Cualquier Estado, en el momento de la firma o del depósito de su Instrumento de Ratificación, aceptación, aprobación o adhesión, podrá declarar que se reserva el derecho a:
+
+a) No aceptar el título I o aceptarlo solamente en lo que respecta a determinadas infracciones o categorías de infracciones a que se refiere el artículo 1, o a no ejecutar las comisiones rogatorias referentes a registro o embargo de bienes en materia de infracciones fiscales.
+
+b) No aceptar el título II.
+
+c) No aceptar el título III.
+
+3\. Cualquier Parte Contratante que haya formulado una reserva en virtud del párrafo anterior podrá retirarla mediante una declaración dirigida al Secretario general del Consejo de Europa, la cual surtirá efecto el día de la fecha de su recepción.
+
+4\. La Parte Contratante que haya aplicado al presente Protocolo una reserva formulada con respecto a una disposición del Convenio, o que haya formulado una reserva con respecto a una disposición del presente Protocolo, no podrá pretender que otra Parte Contratante aplique dicha disposición; sin embargo, si la reserva fuese parcial o condicional, podrá pretender la aplicación de dicha disposición en la medida en que haya aceptado.
+
+5\. No se admitirá ninguna otra reserva a las disposiciones del presente Protocolo.
+
+#### Artículo 9.
+
+Las disposiciones del presente Protocolo no constituirá un obstáculo para las normas más detalladas contenidas en los acuerdos bilaterales o multilaterales concluidos entre las Partes Contratantes en aplicación del artículo 26, párrafo 3, del Convenio.
+
+#### Artículo 10.
+
+El Comité Europeo para los Problemas Penales del Consejo de Europa se mantendrá informado del cumplimiento del presente Protocolo y facilitará cuando sea menester la solución amistosa de cualquier dificultad a que diera lugar el cumplimiento de dicho Protocolo.
+
+#### Artículo 11.
+
+1\. Cualquier Parte Contratante podrá, en lo que a ella respecte, denunciar el presente Protocolo dirigiendo la notificación correspondiente al Secretario general del Consejo de Europa.
+
+2\. La denuncia surtirá efecto seis meses después de la fecha de recepción de la notificación por el Secretario general.
+
+3\. La denuncia del Convenio implicará automáticamente la denuncia del presente Protocolo.
+
+#### Artículo 12.
+
+El Secretario general del Consejo de Europa notificará a lo Estados Miembros del Consejo y a cualquier Estado que se haya adherido al Convenio:
+
+a) Cualquier firma del presente Protocolo.
+
+b) El depósito de cualquier Instrumento de Ratificación, aceptación, aprobación o adhesión.
+
+c) Cualquier fecha de entrada en vigor del presente Protocolo con arreglo a sus artículos 5 y 6.
+
+d) Cualquier declaración recibida en aplicación de las disposiciones de los párrafos 2 y 3 del artículo 7.
+
+e) Cualquier declaración recibida en aplicación de las disposiciones del párrafo 1 del artículo 8.
+
+f) Cualquier reserva formulada en aplicación de las disposiciones del párrafo 2 del artículo 8.
+
+g) La retirada de cualquier reserva efectuada en aplicación de las disposiciones del párrafo 3 del artículo 8.
+
+h) Cualquier notificación recibida en aplicación de las disposiciones del artículo 11 y la fecha en que la denuncia surtirá efecto.
+
+En fe de lo cual los infrascritos, debidamente autorizados al efecto, firman el presente Protocolo.
+
+Hecho en Estrasburgo el 17 de marzo de 1978, en francés y en inglés, ambos textos igualmente fehacientes, un ejemplar único que quedará depositado en los archivos del Consejo de Europa. El Secretario general del Consejo de Europa remitirá una copia certificada del mismo a cada uno de los Estados signatarios y adheridos.
+
+### DECLARACIONES DE ESPAÑA
+
+En relación con la comunicación del Reino Unido de fecha 29 de julio de 2019 dirigida al Secretario General del Consejo de Europa relativa al propósito del Reino Unido de extender la aplicación del Convenio europeo de asistencia judicial en materia penal (ETS 030), España, recordando que es parte de dicho Convenio, así como de sus protocolos adicional (ETS 099) y segundo (ETS 182), formula la siguiente Declaración:
+
+«– Gibraltar es un territorio no autónomo de cuyas relaciones exteriores es responsable el Reino Unido y que está sometido a un proceso de descolonización de acuerdo con las decisiones y resoluciones pertinentes de la Asamblea General de las Naciones Unidas.
+
+– Las autoridades de Gibraltar tienen un carácter local y ejercen competencias exclusivamente internas que tienen su origen y fundamento en la distribución y atribución de competencias efectuadas por el Reino Unido, de conformidad con lo previsto en su legislación interna, en su condición de Estado soberano del que depende el citado territorio no autónomo.
+
+– En consecuencia, la eventual participación de las autoridades gibraltareñas en la aplicación del Convenio Europeo y sus Protocolos se entenderá realizada exclusivamente en el marco de las competencias internas de Gibraltar y no podrá considerarse que produce cambio alguno respecto de lo previsto en los dos párrafos anteriores.
+
+– El procedimiento previsto en el Régimen relativo a las autoridades de Gibraltar en el contexto de ciertos Tratados internacionales acordado por España y el Reino Unido el 19 de diciembre de 2007 (junto al "Régimen acordado relativo a las autoridades de Gibraltar en el contexto de los instrumentos de la UE y CE y Tratados conexos", de 19 de abril de 2000) se aplica al presente Convenio, y eventualmente a sus protocolos.
+
+– La aplicación a Gibraltar del presente Convenio, y eventualmente de sus Protocolos, no puede ser interpretada como reconocimiento de cualesquiera derechos o situaciones relativas a los espacios que no estén comprendidos en el artículo 10 del Tratado de Utrecht, de 13 de julio de 1713, suscrito por las Coronas de España y Gran Bretaña.»
+
+Mediante Nota Verbal de fecha 12 de julio de 2024, la Representación Permanente de España ante el Consejo de Europa ha notificado a la Secretaría General de esta organización las siguientes Declaraciones de España relativas al Convenio Europeo de asistencia judicial en materia penal, a su Protocolo Adicional y a su Segundo Protocolo Adicional:
+
+– Declaración para la notificación de la Fiscalía Europea como autoridad judicial competente en relación con el Convenio Europeo de asistencia judicial en materia penal, su Protocolo Adicional y su Segundo Protocolo Adicional:
+
+«De conformidad con el artículo 24 del convenio modificado por el artículo 6 del Segundo Protocolo Adicional del convenio, el Reino de España, en su calidad de Estado miembro de la Unión Europea que participa en la cooperación reforzada para la creación de la Fiscalía Europea, declara que la Fiscalía Europea, en el ejercicio de sus competencias tal como se establecen en los artículos 22, 23 y 25 del Reglamento (UE) 2017/1939 del Consejo, se considerará autoridad judicial a efectos de emitir solicitudes de asistencia judicial de conformidad con el convenio y sus Protocolos, así como a efectos de facilitar, a petición de otra Parte Contratante de conformidad con el convenio y sus Protocolos, la información o las pruebas que haya obtenido ya o pueda obtener a raíz del inicio de una investigación en el ámbito de su competencia. También se considerará que la Fiscalía Europea es una autoridad judicial a los efectos de la recepción de información, de conformidad con el artículo 21 del convenio, respecto de los delitos de su competencia previstos en los artículos 22, 23 y 25 del Reglamento (UE) 2017/1939 del Consejo. Esta declaración tiene por objeto completar las declaraciones anteriores formuladas por el Reino de España de conformidad con el artículo 24 del convenio.
+
+Con referencia a la presente declaración hecha de conformidad con el artículo 24 del convenio, España aprovecha la oportunidad para interpretar los efectos jurídicos de dicha declaración de la siguiente manera:
+
+a) Cuando el convenio o sus Protocolos se refieran a la Parte requirente o a la Parte requerida, ello se interpretará, en el caso de las solicitudes emitidas por la Fiscalía Europea o dirigidas a ella, como una referencia al Estado miembro de la UE del Fiscal Europeo Delegado competente cuyas competencias y funciones se mencionan en el artículo 13 del Reglamento (UE) 2017/1939 del Consejo.
+
+b) Cuando el convenio o sus Protocolos se refieran a la legislación de la Parte requirente o de la Parte requerida, ello se interpretará, en el caso de solicitudes emitidas por la Fiscalía Europea o dirigidas a ella, como una referencia al Derecho de la Unión, en particular, al Reglamento (UE) 2017/1939 del Consejo, así como al Derecho nacional del Estado miembro de la UE del Fiscal Europeo Delegado competente, en la medida en que sea aplicable de conformidad con el artículo 5, apartado 3, de dicho Reglamento.
+
+c) Cuando el convenio o sus Protocolos prevean la posibilidad de que una Parte formule declaraciones o reservas, todas esas declaraciones y reservas formuladas por el Reino de España se considerarán aplicables en caso de que otra Parte presente una solicitud a la Fiscalía Europea siempre que un Fiscal Delegado Europeo con sede en España sea competente de conformidad con el artículo 13, apartado 1, del Reglamento (UE) 2017/1939 del Consejo.
+
+d) Como autoridad judicial requirente que actúa de conformidad con el artículo 24 del convenio modificado por el artículo 6 del Segundo Protocolo Adicional del convenio, la Fiscalía Europea cumplirá las condiciones o restricciones sobre el uso de la información y las pruebas obtenidas que pueda imponer la Parte requerida sobre la base del convenio y sus Protocolos.
+
+e) Las obligaciones impuestas a la Parte requirente por el artículo 12 del convenio también serán vinculantes para las autoridades judiciales del Estado miembro de la UE del Fiscal Delegado Europeo competente. Lo mismo se aplica en el caso de las obligaciones de la Parte requirente en virtud del artículo 11 del convenio modificado por el artículo 3 del Segundo Protocolo Adicional y los artículos 13, 14 y 23 del Segundo Protocolo Adicional respecto del Estado miembro de la UE del Fiscal Delegado Europeo competente de conformidad con el artículo 13, apartado 1, del Reglamento (UE) 2017/1939 del Consejo.»
+
+– Declaraciones adicionales:
+
+1\. «De conformidad con el artículo 15 del convenio modificado por el artículo 4 del Segundo Protocolo Adicional del convenio, el Reino de España declara que las solicitudes de asistencia judicial a la Fiscalía Europea, así como la información presentada por una Parte contratante de conformidad con el artículo 21 del convenio se dirigirán directamente a la Fiscalía Europea y la declaración hecha de conformidad con el artículo 15 del convenio modificada por el artículo 4 del Segundo Protocolo Adicional del convenio no será aplicable en el caso de la Fiscalía Europea. Las solicitudes de asistencia judicial se enviarán a la oficina central de la Fiscalía Europea o a la oficina de los Fiscales Europeos Delegados de dicho Estado miembro. Cuando proceda, la Fiscalía Europea remitirá dicha solicitud a las autoridades nacionales competentes si la Fiscalía Europea no tiene o no está ejerciendo su competencia en un caso concreto.»
+
+2\. «De conformidad con el artículo 15 del convenio modificado por el artículo 4 del Segundo Protocolo Adicional del convenio, el Reino de España declara además que las solicitudes presentadas de conformidad con el artículo 11 del convenio modificado por el artículo 3 del Segundo Protocolo Adicional, y los artículos 13 y 14 del Segundo Protocolo Adicional en relación con el mencionado artículo 11 iniciadas por uno de los Fiscales Delegados Europeos en ese Estado miembro de la UE serán transmitidas por el Ministerio de Justicia (Subdirección General de Cooperación Jurídica Internacional).»
+
+3\. «De conformidad con el artículo 33, apartado 2, del Segundo Protocolo Adicional, el Reino de España declara que la Fiscalía Europea podrá, cuando un equipo conjunto de investigación a que se refiere el artículo 20 de dicho Protocolo esté destinado a funcionar en el territorio del Reino de España, actuar en calidad de "autoridad competente" de conformidad con el artículo 20 de dicho Protocolo sólo con el consentimiento previo de las autoridades judiciales del Reino de España y de conformidad con el Reglamento (UE) 2017/1939 del Consejo y la legislación nacional aplicable.»
+
+> Se añaden y se publican declaraciones de España, por Nota Diplomática de 12 de julio de 2024. [Ref. BOE-A-2024-16128](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-16128)
+
+> Se añade la declaración de España con motivo de la extensión a Gibraltar del ámbito de aplicación, publicada por Resolución de 19 de julio de 2022. [Ref. BOE-A-2022-12485](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12485)

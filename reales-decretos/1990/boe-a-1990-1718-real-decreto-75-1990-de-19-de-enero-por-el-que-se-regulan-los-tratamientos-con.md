@@ -1,0 +1,197 @@
+---
+title: "Real Decreto 75/1990, de 19 de enero, por el que se regulan los tratamientos con opiáceos de personas dependientes de los mismos"
+identifier: "BOE-A-1990-1718"
+eli: "https://www.boe.es/eli/es/rd/1990/01/19/75"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Consumo"
+date: 1990-01-19
+published: 1990-01-23
+in_force_from: 1990-01-24
+last_amended: 1996-02-20
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 20"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-1718"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 75/1990, de 19 de enero, por el que se regulan los tratamientos con opiáceos de personas dependientes de los mismos
+
+La Orden de 31 de octubre de 1985 por la que se regulan los tratamientos de deshabituación con metadona, dirigidos a toxicómanos dependientes de opiáceos («Boletín Oficial del Estado» número 269, de 9 de noviembre), del Ministerio de Sanidad y Consumo, regulaba esta modalidad terapéutica teniendo en cuenta las competencias que la Constitución española asigna a las Comunidades Autónomas, y al amparo de la Ley 17/1967, de 8 de abril («Boletín Oficial del Estado» número 11, del 11), que en su artículo 1.º autoriza al Estado a intervenir en la prescripción, posesión, uso y consumo de sustancias estupefacientes.
+
+La especial situación de desorganización y uso indiscriminado que entonces existía condujo a configurar una regulación restrictiva en algunos aspectos.
+
+La aparición del Síndrome de Inmunodeficiencia Adquirida que obliga a reconsiderar algunos enfoques terapéuticos, y cuatro años de aplicación de dicha norma, que han permitido corregir aquella situación, aconsejan la revisión de algunos aspectos importantes regulados por ella.
+
+La presente norma adopta rango de Real Decreto, teniendo en cuenta lo dispuesto en el artículo 40.5 de la Ley General de Sanidad, Ley 14/1986, de 25 de abril («Boletín Oficial del Estado» número 102, del 29), que establece como competencia de la Administración del Estado, sin menoscabo de las competencias de las Comunidades Autónomas, «la reglamentación, autorización y registro u homologación, según proceda, de los medicamentos de uso humano y veterinario y de los demás productos y artículos sanitarios y de aquellos que, al afectar al ser humano, pueden suponer un riesgo para la salud de las personas».
+
+Se dicta la presente norma al amparo de lo previsto por el artículo 149.1.1.ª y 16.ª de la Constitución, al participar sus preceptos de la naturaleza de normas básicas en materia de sanidad, o bien constituir legislación sobre productos farmacéuticos, materia de la exclusiva competencia estatal.
+
+Asimismo, el presente Real Decreto regula ciertos aspectos organizativos que se justifican por la necesidad de perfeccionar los mecanismos de coordinación que han venido funcionando para conjugar las actuaciones que corresponden a la Administración del Estado y a las Comunidades Autónomas en la materia regulada, habiendo merecido los mismos, como el conjunto del Real Decreto, el informe favorable del Consejo Interterritorial del Sistema Nacional de Salud. Todo ello, no obstante, debe entenderse sin perjuicio de las facultades de que disponen las Comunidades Autónomas para autorregular el ejercicio de sus competencias,
+
+En su virtud, a propuesta del Ministro de Sanidad y Consumo, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del 19 de enero de 1990,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Art. 1.º Objeto.
+
+Constituye el objeto de la presente norma regular los tratamientos con los principios activos que se incluyen en la lista del anexo al presente Real Decreto, cuando se prescriban para el tratamiento de la dependencia de opiáceos en aquellas pautas cuya duración exceda de veintiún días.
+
+### Art. 2.º Centros o Servicios de tratamiento.
+
+1\. Los tratamientos a que hace referencia la presente norma serán realizados únicamente por Centros o Servicios sanitarios publicos o privados sin animo de lucro, debidamente acreditados para ello por los órganos competentes de la Administración Sanitaria de la Comunidad Autónoma correspondiente o, en su caso, por los órganos competentes del Ministerio de Sanidad y Consumo.
+
+2\. A los efectos que establece el presente Real Decreto, y siempre que se considere oportuno, las autoridades sanitarias de aquellas Comunidades Autónomas que tengan atribuciones en esta materia o, en su caso, el Ministerio de Sanidad y Consumo, a través de sus órganos competentes, podrán acreditar servicios en Centros penitenciarios o en otros establecimientos de carácter no estrictamente sanitario.
+
+### Art. 3.º Prescripción, elaboración, conservación, dispensación, administración y formulación.
+
+1\. La prescripción de los tratamientos regulados en la presente norma será realizada por los facultativos de los Centros o Servicios acreditados.
+
+2\. La medicación utilizada para estos tratamientos será elaborada, cuando proceda, conservada y dispensada por los servicios farmacéuticos de los centros acreditados, de acuerdo con lo previsto en el artículo 2. En defecto de los mismos, así como también en el supuesto previsto en la disposición adicional segunda, dicha medicación será elaborada, cuando proceda, conservada y dispensada por los órganos de la Administración sanitaria competente o por las oficinas de farmacia acreditadas al efecto. El control de la administración de la indicada medicación será llevado a cabo por profesionales del equipo sanitario que reúnan los requisitos exigidos por las normas vigentes en cada Comunidad Autónoma.
+
+3\. En todo caso, la elaboración, conservación o dispensación de la medicación a que hace referencia el apartado anterior estará sujeta a la normativa vigente sobre estupefacientes, quedando sometida al control de la Dirección General de Farmacia y Productos Sanitarios, o de los órganos correspondientes de las Comunidades Autónomas competentes en la materia.
+
+4\. Los medicamentos utilizados para estos tratamientos serán prescritos, formulados, dispensados y administrados en solución oral extemporánea, siempre que sea posible.
+
+> Se modifica el apartado 2 por el art. 1.1 del Real Decreto 5/1996, de 15 de enero. [Ref. BOE-A-1996-3693](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-3693).
+
+> Se modifica el apartado 3 por el art. único del Real Decreto 1131/1990, de 14 de septiembre. [Ref. BOE-A-1990-23080](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23080).
+
+## CAPÍTULO II — Comisiones de acreditación, evaluación y control de Centros o Servicios
+
+### Art. 4.º Constitución de las comisiones.
+
+1\. Para el ejercicio por las Comunidades Autónomas de lo establecido en el presente Real Decreto se tendrá en cuenta:
+
+a) En aquellas Comunidades Autónomas donde no se ha establecido todavía ninguna Comisión de acreditación, los órganos competentes fijaran su composición y régimen de funcionamiento, incorporando, en todo caso, algún miembro en representación tanto de los Planes Autonómicos sobre Drogas como de la Administración Central.
+
+b) En las Comunidades Autónomas en las que ya se encuentran establecidas, al amparo de la Orden de 31 de octubre de 1985, los órganos competentes podrán modificar la composición y normativa reguladora de las mismas, adaptándola a las directrices del presente Real Decreto.
+
+2\. Las Comisiones deberán quedar constituidas en un plazo no superior a dos meses a partir de la publicación del presente Real Decreto.
+
+### Art. 5.º Facultades.
+
+Las Comunidades Autónomas fijarán las facultades que tendrán las comisiones en su ámbito territorial. Entre estas habrán de figurar las siguientes:
+
+1\. Emitir informe en relación con las solicitudes de acreditación presentadas por los Centros o servicios ante el órgano competente de la Administración Sanitaria.
+
+2\. Coodinar y evaluar la información sobre la materia objeto de sus competencias.
+
+3\. Suministrar a los órganos competentes de la Administración Sanitaria de la Comunidad Autónoma correspondiente o, en su caso, a los órganos competentes del Ministerio de Sanidad y Consumo la información que les sea solicitada, de tal forma que se garantice siempre la confidencialidad de la misma.
+
+4\. Establecaer un registro de pacientes, con mecanismos que garanticen el derecho a la confidencialidad. La información mínima que debe contener se prevé en el artículo 10.
+
+## CAPÍTULO III — Acreditación de los Centros o servicios
+
+### Art. 6.º Criterios generales para la acreditación de Centros o Servicios de tratamiento.
+
+1\. El responsable del Centro o Servicio sanitario que desee obtener acreditación para realizar tratamientos con los principios activos a que hace referencia el artículo 1 de la presente norma remitirá a las autoridades sanitarias de la comunidad autónoma correspondiente o, en su caso, a los órganos competentes del Ministerio de Sanidad y Consumo, la solicitud con la información que les sea requerida.
+
+2\. Las comisiones de Acreditación, Evaluación y Control de Centros o Servicios emitirán informe sobre la solicitud de acreditación realizada por los responsables de los Centros o Servicios. El informe emitido deberá ser favorable para que pueda otorgarse la acreditación.
+
+3\. Sin perjuicio del régimen de funcionamiento que fijen en cada caso las Comunidades Autónomas, y a efectos de la emisión del informe citado en el número anterior, las Comisiones deberán tener en cuenta los criterios siguientes:
+
+a) La consecución de un equilibrio entre la demanda y la oferta de este tipo de servicio asistencial en el área territorial correspondiente.
+
+b) La prioridad para la acreditación de los Centros o Servicios sanitarios de titularidad pública.
+
+c) La experiencia en el tratamiento de toxicómanos por parte del equipo del Centro o Servicio.
+
+d) La existencia de adecuación entre los recursos disponibles y los objetivos propuestos.
+
+### Art. 7.º Tiempo de vigencia de la acreditación.
+
+Las autoridades de las Comunidades Autónomas o, en su caso, los órganos competentes del Ministerio de Sanidad y Consumo, previo informe de la Comisión, podrán acreditar Centros de tratamiento y oficinas de farmacia por un período no superior a dos años. La renovación de la acreditación tendrá que ser solicitada antes de que expire dicho período.
+
+### Art. 8.º Revocación de la acreditación.
+
+Las autoridades de las Comunidades Autónomas o, según proceda, los órganos competentes del Ministerio de Sanidad y Consumo, previo informe de la Comisión, podrán revocar la acreditación cuando se evidencie ausencia de cumplimiento de la presente norma o de aquellas que la desarrollen y cuando razones de índole sanitario o social así lo aconsejen.
+
+## CAPÍTULO IV — Admisión a tratamiento
+
+### Art. 9.º Admisión a tratamiento.
+
+A efectos de la inclusión en los programas de tratamiento regulados por la presente norma se exigirá previamente diagnóstico confirmado de dependencia a opiáceos.
+
+Podrán ser solicitados por las Comisiones documentos acreditativos del cumplimiento de dicho requisito.
+
+> Se modifica por el art. 1.2 del Real Decreto 5/1996, de 15 de enero. [Ref. BOE-A-1996-3693](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-3693).
+
+## CAPÍTULO V — Notificación
+
+### Art. 10. Notificación.
+
+El responsable facultativo del Centro o Servicio acreditado para realizar los tratamientos regulados en el presente Real Decreto informará trimestralmente a la Comisión o, en su caso, a los órganos competentes del Ministerio de Sanidad y Consumo, del numero de pacientes en tratamiento, señalando también los inicios, interrupciones y finalizaciones de los mismos que se hayan producido, así como las razones que los justifican y los opiáceos empleados. Esta información es considerada como mínima y cada Comisión Autonómica de Acreditación podrá solicitar información adicional.
+
+## DISPOSICIÓN ADICIONAL PRIMERA
+
+Los Centros o Servicios que han sido acreditados, al amparo de la Orden de 31 de octubre de 1985, reguladora de los tratamientos de deshabituación con metadona, se consideran, asimismo, acreditados para los tratamientos con los principios activos incluidos en la lista del anexo de este Real Decreto, salvo en aquellas Comunidades Autónomas en las que las normativas que lo desarrollen dispongan lo contrario.
+
+## DISPOSICIÓN ADICIONAL SEGUNDA
+
+1\. No obstante lo dispuesto en los artículos 2.1 y 3.1 del presente Real Decreto, los órganos competentes de la Administración sanitaria de las Comunidades Autónomas correspondientes podrán otorgar, con carácter excepcional, autorización para la prescripción de los tratamientos regulados en esta norma a aquellos facultativos no integrados en centros o servicios acreditados que lo soliciten ante dichos órganos aportando, además de la correspondiente solicitud, la información adicional que les sea requerida.
+
+2\. La concesión de la autorización que se refiere el apartado anterior deberá contar previamente con el informe favorable de la Comisión de acreditación, evaluación y control de centros y servicios de la Comunidad Autónoma correspondiente, teniendo en cuenta los criterios establecidos en el artículo 6.3 de este Real Decreto, siendo su régimen de vigencia y, en su caso, de renovación el establecido por el artículo 7.
+
+3\. Los facultativos que obtengan la correspondiente autorización quedarán sometidos a las mismas obligaciones que establece el presente Real Decreto respecto a los centros y servicios acreditados con el mismo fin, pudiendo las autoridades de las Comunidades Autónomas no renovar la autorización, cuando no resulte oportuna su continuación, o revocarla en los supuestos que establece el artículo 8.
+
+> Se añade por el art. 2 del Real Decreto 5/1996, de 15 de enero. Ref. BOE-A- 1996-3693.
+
+## DISPOSICIÓN DEROGATORIA
+
+Quedan derogadas: La Orden del Ministerio de Sanidad y Consumo de 31 de octubre de 1985 («Boletín Oficial del Estado» número 269, de 9 de noviembre), «por la que se regulan los tratamientos de deshabituación con metadona dirigidos a toxicómanos dependientes de opiáceos»; la resolución de 22 de noviembre de 1985 («Boletín Oficial del Estado» del 27), de la Dirección General de Salud Publica sobre «dosificación y criterios de aplicación de los tratamientos de metadona a toxicómanos dependientes de opiáceos», y cuantas otras disposiciones de igual o inferior rango se opongan a lo establecido en este Real Decreto.
+
+## DISPOSICIÓN FINAL
+
+El presente Real Decreto entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 19 de enero de 1990.
+
+JUAN CARLOS R.
+
+El Ministro de Sanidad y Consumo,
+
+JULIAN GARCÍA VARGAS
+
+## ANEXO — Lista de principios activos sometidos a lo dispuesto en el Real Decreto por el que se regulan los tratamientos con opiáceos de personas dependientes de los mismos
+
+Buprenorfina.
+
+Butorfanol.
+
+Codeína.
+
+Dextropropoxifeno.
+
+Dihidrocodeína.
+
+Etilmorfina.
+
+Folcodina.
+
+Levo alfa acetilmetadol(LAAM).
+
+Metadona.
+
+Morfina.
+
+Noscapina.
+
+Opio extracto.
+
+Pentazocina.
+
+Petidina.
+
+Tilidina.
+
+> Se modifica por el art. 3 del Real Decreto 5/1996, de 15 de enero. [Ref. BOE-A-1996-3693](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-3693).
+
+> **INFORMACIÓN RELACIONADA**
+
+> \- Orden de 18 de noviembre de 1991 por la que se dispone el cumplimiento de la Sentencia del TS de 19 de junio de 1991, [Ref. BOE-A-1991-29995](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-29995), en cuanto a la acreditación de oficinas de farmacia para la dispensación de opiáceos.

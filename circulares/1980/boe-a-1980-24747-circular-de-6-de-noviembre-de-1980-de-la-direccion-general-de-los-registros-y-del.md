@@ -1,0 +1,37 @@
+---
+title: "Circular de 6 de noviembre de 1980, de la Dirección General de los Registros y del Notariado, sobre la consignación de la nacionalidad, como mención de identidad a los efectos del Registro Civil"
+identifier: "BOE-A-1980-24747"
+eli: "https://www.boe.es/eli/es/cir/1980/11/06/(1)"
+type: circular
+rank: "Circular"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1980-11-06
+published: 1980-11-12
+in_force_from: 1980-11-12
+last_amended: 1980-11-28
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 272"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1980-24747"
+retrieved: 2026-10-11
+---
+
+# Circular de 6 de noviembre de 1980, de la Dirección General de los Registros y del Notariado, sobre la consignación de la nacionalidad, como mención de identidad a los efectos del Registro Civil
+
+El artículo 12 del Reglamento del Registro Civil fija las menciones de identidad de la persona que, de ser posible, han de consignarse a los efectos del Registro Civil, y, entre aquéllas, indica la nacionalidad con lo que, indudablemente se refería, dada la fecha de su publicación, a la nacionalidad española o extranjera de los interesados.
+
+Una vez promulgada la Constitución española (crf. su artículo 2.º), La expresión «nacionalidad» puede tener otro significado, pues comprende también la especial condición política del español que pertenezca a determinada región o nacionalidad, que se haya constituido como Comunidad Autónoma. Y como esta condición personal es un elemento importante de identificación, no hay razón para negar su acceso al Registro Civil, cuya ordenación corresponde a la exclusiva competencia del Estado (artículo 149.1.8.ª, de la Constitución).
+
+Atendiendo estas razones esta Dirección General, en interpretación del artículo 12 del Reglamento del Registro Civil, ha acordado declarar que, tanto en las comparecencias ante el Registro Civil como en los propios asientos de éste, cuando haya de consignarse la nacionalidad española de una persona, podrá también hacerse constar, si así se ha declarado por los interesados, su nacionalidad o regionalidad autonómica, es decir, su pertenencia a determinada nacionalidad o región, de las que integran la Nación española y que tengan Estatuto de Autonomía aprobado.
+
+> Téngase en cuenta la Circular de 26 de noviembre de 1980, de la Dirección General de los Registros y del Notariado, sobre menciones de identidad, [Ref. BOE-A-1980-25849](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-25849), completando y precisando lo declarado en la presente Circular.
+
+Lo que digo a VV. SS.
+
+Dios guarde a VV. SS. muchos años.
+
+Madrid, 6 de noviembre de 1980.–El Director general, Francisco Javier Die Lamana.
+
+Sres. Jueces y Cónsules Encargados de los Registros Civiles.

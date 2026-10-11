@@ -1,0 +1,155 @@
+---
+title: "Real Decreto 195/1989, de 17 de febrero, por el que se establecen los requisitos y procedimiento para solicitar ayudas para fines de interés social, derivadas de la asignación tributaria del Impuesto sobre la Renta de las Personas Físicas"
+identifier: "BOE-A-1989-4535"
+eli: "https://www.boe.es/eli/es/rd/1989/02/17/195"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1989-02-17
+published: 1989-02-25
+in_force_from: 1989-02-26
+last_amended: 2013-06-29
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 48"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1989-4535"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 195/1989, de 17 de febrero, por el que se establecen los requisitos y procedimiento para solicitar ayudas para fines de interés social, derivadas de la asignación tributaria del Impuesto sobre la Renta de las Personas Físicas
+
+Téngase en cuenta que esta disposición se declara expresamente vigente en lo que no se oponga al Real Decreto-ley 7/2013, de 28 de junio [Ref. BOE-A-2013-7062](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7062)., según establece la disposición derogatoria única.2, y en tanto no se proceda a la aprobación del desarrollo reglamentario previsto en el artículo 2.
+
+Por Real Decreto 825/1988, se regulan los fines del interés social a que ha de destinarse la asignación tributaria del Impuesto sobre la Renta de las Personas Físicas, en cuanto a la parte no atribuida a la Iglesia Católica, señalando el artículo tercero de este Real Decreto que el Gobierno establecerá los requisitos que deben cumplir las Organizaciones o Entidades sociales para solicitar ayudas económicas y subvenciones destinadas a cumplir aquellos fines, así como el procedimiento para la obtención de las mismas, mediante Real Decreto.
+
+La aplicación de un determinado porcentaje de los ingresos presupuestarios del Estado procedentes de la asignación tributaria del Impuesto sobre la Renta de las Personas Físicas a fines de interés social, contenida en la Ley de Presupuestos Generales del Estado para 1988, comporta una importante innovación en cuanto supone abrir un cauce de participación social en la aplicación de parte de los créditos presupuestarios, por lo que se considera necesario el establecimiento de unos requisitos y procedimientos de general aplicación que permitan el conocimiento por parte de los contribuyentes del destino que se dan a sus impuestos.
+
+Por otra parte, el artículo 81 del Real Decreto Legislativo 1091/1988, de 23 de septiembre, por el que se aprueba el Texto Refundido de la Ley General Presupuestaria, establece que las ayudas y subvenciones que se concedan con cargo a los Presupuestos Generales del Estado lo serán con arreglo a criterios de publicidad, concurrencia y objetividad en la concesión, criterios que se respetan en el presente Real Decreto al establecer la publicación de las convocatorias y de las correspondientes Resoluciones en el «Boletín Oficial del Estado», disponiendo asimismo que éstas últimas se efectuarán a propuesta de una comisión establecida al efecto en cada convocatoria.
+
+Asimismo, a fin de facilitar al máximo la participación de todas las Organizaciones y Entidades en la realización de actividades de cooperación social, se estima necesario proceder a la simplificación de los trámites y supresión de requisitos que no se consideren imprescindibles, por lo que se considera oportuno proceder a la supresión del Registro de Entidades que desarrolla actividades de acción social.
+
+Finalmente, debe significarse que las ayudas y subvenciones pueden concederse a Organizaciones no gubernamentales y Entidades sociales de ámbito estatal o que realicen actividades de cooperación en el ámbito internacional en favor de la población necesitada de los países en vías de desarrollo.
+
+En su virtud, a propuesta conjunta de los Ministros de Asuntos Exteriores y Asuntos Sociales y previa deliberación del Consejo de Ministros en su reunión de 17 de febrero de 1989,
+
+DISPONGO:
+
+## Artículo 1.
+
+Los Ministerios de Trabajo y Asuntos Sociales, de Asuntos Exteriores y de Cooperación, y de Medio Ambiente podrán conceder, en el ámbito de competencias del Estado, con cargo a los créditos consignados en sus presupuestos de conformidad con lo establecido en los artículos 3 y 4 del Real Decreto 825/1988, de 15 de julio, ayudas y subvenciones a los programas y proyectos a que se refiere el artículo 2 del citado real decreto, siempre que las entidades que los desarrollen reúnan los requisitos previstos en este real decreto, de acuerdo con los procedimientos establecidos en el mismo, y de conformidad con lo dispuesto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y en el Real Decreto 887/2006, de 21 de julio, por el que se aprueba el Reglamento de desarrollo de dicha Ley.
+
+> Se modifica por el art. 2.1 del Real Decreto 599/2007, de 4 de mayo. [Ref. BOE-A-2007-14051](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-14051).
+
+> Se modifica por el art. 2 del Real Decreto 223/1991, de 22 de febrero. [Ref. BOE-A-1991-5291](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-5291).
+
+## Artículo 2.
+
+Para poder solicitar las ayudas económicas y subvenciones a que se refiere el artículo anterior, las Organizaciones o Entidades deberán cumplir los siguientes requisitos:
+
+a) Estar legalmente constituidas.
+
+b) Tener ámbito estatal de actuación según su título constitutivo, que les habilite para desarrollar programas de carácter estatal, o realizar sus actividades en países en vías de desarrollo. También podrán concurrir otras Organizaciones o Entidades que propongan proyectos, a ejecutar en sus respectivos ámbitos territoriales, relacionados directamente con programas definidos como de interés general en la convocatoria anual.
+
+c) Carecer de fines de lucro. A estos efectos, se considerarán también Entidades sin fines de lucro aquéllas que desarrollen actividades de carácter comercial, siempre que los beneficios resultantes de las mismas se inviertan en su totalidad en los fines sociales previstos en el artículo 3.° del presente Real Decreto.
+
+d) Tener como fines institucionales primordiales la realización de las actividades enumeradas en el artículo 3.° del presente Real Decreto.
+
+e) Acreditar que se hallan al corriente de las obligaciones tributarias y de Seguridad Social, de conformidad con lo previsto en las Ordenes del Ministerio de Economía y Hacienda de 28 de abril de 1986 y de 25 de noviembre de 1987.
+
+f) Haber justificado, en su caso, suficientemente las inversiones de las ayudas económicas recibidas con anterioridad para el cumplimiento de fines sociales.
+
+g) Disponer de la estructura suficiente para garantizar el cumplimiento de sus objetivos, acreditando la experiencia operativa necesaria para ello.
+
+> Se modifica la letra b) por el art. 2 del Real Decreto 223/1991, de 22 de febrero. [Ref. BOE-A-1991-5291](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-5291).
+
+## Artículo 3.
+
+Las ayudas económicas y subvenciones podrán concederse para la realización de programas de cooperación y voluntariado sociales de ámbito estatal dirigido a ancianos, disminuidos físicos, psíquicos o sensoriales, personas incapacitadas para el trabajo o incursas en toxicomanías o drogodependencia, familias monoparentales, menores en situación de desamparo, mujeres maltratadas, minorías étnicas, presos, exreclusos, transeúntes y demás actividades de solidaridad social ante situaciones de necesidad.
+
+Asimismo podrán concederse ayudas y subvenciones para la realización de programas y proyectos que las Organizaciones no gubernamentales lleven a cabo en países en vías de desarrollo, que favorezcan la justicia social y la mejora de las condiciones de vida de la población.
+
+Igualmente, podrán concederse ayudas y subvenciones para la realización de programas destinados a la defensa del medio natural y la biodiversidad, la utilización sostenible de los recursos naturales y la prevención de la contaminación y del cambio climático.
+
+> Se añade el párrafo tercero por el art. 2.2 del Real Decreto 599/2007, de 4 de mayo. [Ref. BOE-A-2007-14051](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-14051).
+
+## Artículo 4.
+
+Los Ministerios de Asuntos Exteriores y de Cooperación, de Trabajo y Asuntos Sociales, y de Medio Ambiente convocarán individual o conjuntamente, según los conceptos específicos en que figuren consignados los correspondientes créditos, la concesión de las ayudas económicas y subvenciones.
+
+En las correspondientes convocatorias deberá incluirse la relación de las necesidades sociales o acciones de cooperación al desarrollo que deban ser objeto de atención prioritario y preferente.
+
+Las convocatorias deberán publicarse en el «Boletín Oficial del Estado».
+
+> Se modifica el párrafo primero por el art. 2.3 del Real Decreto 599/2007, de 4 de mayo. [Ref. BOE-A-2007-14051](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-14051).
+
+## Artículo 5.
+
+Las convocatorias de ayudas y subvenciones determinarán los datos que deba facilitar el solicitante, documentación que debe aportar, procedimiento de selección de los programas y proyectos, así como los criterios de valoración para la adjudicación de las ayudas y subvenciones, entre los que tendrán especial consideración los programas y proyectos encaminados a satisfacer las necesidades consideradas como prioritarias y preferentes.
+
+Dichos documentos deberán justificar que se reúnen los requisitos establecidos en el artículo segundo del presente Real Decreto, así como que se cumplen las condiciones precisas para la debida ejecución del programa seleccionado. También deberá facilitarse la información relativa al grado de implantación de la Entidad solicitante.
+
+Asimismo, establecerán los plazos para la presentación de solicitudes y para su resolución, debiendo contener el modelo de instancia a la que debe acomodarse la solicitud.
+
+## Artículo 6.
+
+Las solicitudes se dirigirán al órgano convocante, debiendo acomodarse en su contenido a lo establecido en la propia resolución de la convocatoria. En todo caso, deberá incluirse en la misma una descripción sucinta del programa, proyecto o actividad propuesto, la declaración expresa de que se reúnen los requisitos establecidos en el artículo segundo del presente Real Decreto y el compromiso de facilitar la documentación que se solicite en su caso y la aplicación de los sistemas de evaluación, seguimiento y control que oportunamente se determinen.
+
+A la solicitud deberá acompañarse una memoria en la que se describa detalladamente la actividad o programa que se propone desarrollar, así como el número de personas a quienes se dirige y los plazos previstos para su cumplimiento.
+
+Cuando las solicitudes comprendan actividades de cooperación y voluntariado dirigidos a personas incursas en toxicomanías o drogodependencia el órgano convocante solicitará informe previo de la Delegación del Gobierno del Plan Nacional sobre drogas del Ministerio de Sanidad y Consumo. Si las solicitudes comprenden actividades dirigidas a presos y exreclusos, deberá solicitarse informe de la Comisión de Asistencia Social de la Dirección General de Instituciones Penitenciarias del Ministerio de Justicia.
+
+> Redactado el párrafo primero conforme a la corrrección de erratas publicada en BOE núm. 60, de 11 de marzo de 1989. [Ref. BOE-A-1989-5661](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-5661).
+
+## Artículo 7.
+
+Las resoluciones de concesión de ayudas y subvenciones se acordarán a propuesta de una comisión designada al efecto por el órgano convocante, debiendo contener el título del programa o proyecto aprobado, la denominación de las Organizaciones beneficiarias y la cuantía de las ayudas o subvenciones concedidas, y se publicarán en el «Boletín Oficial del Estado», sin perjuicio de su notificación a los interesados.
+
+Una vez notificada la resolución, y aportada la documentación exigida en la convocatoria, se suscribirá un convenio-programa en el que necesariamente constarán las obligaciones que contraen las partes, las modalidades y la forma de pago de la ayuda o subvención concedida.
+
+## Artículo 8.
+
+Si la ejecución de los programas subvencionados generara ingresos, éstos se reinvertirán en la misma actividad, salvo que la Organización o Entidad solicitante proponga su aplicación a otro fin social de los enumerados en el artículo tercero del presente Real Decreto y así se apruebe por el órgano convocante.
+
+## Artículo 9.
+
+La aplicación de las ayudas y subvenciones recibidas deberá justificarse mediante la presentación de los documentos que acrediten la ejecución de la obra, la realización del servicio o el cumplimiento de la finalidad que haya motivado la concesión.
+
+A tales efectos, en las convocatorias se determinarán los documentos específicos a aportar por las Entidades, así como los plazos de presentación de los mismos.
+
+## Artículo 10.
+
+El incumplimiento total o parcial de las condiciones establecidas en el convenio-programa dará lugar a la obligación de reintegrar la ayuda económica o subvención recibida, El órgano convocante requerirá el reintegro y, en caso de no ser atendido, promoverá la correspondiente ejecución forzosa, sin perjuicio de ejercitar las acciones que procedan en orden a la exigencia de otras responsabilidades.
+
+## Artículo 11.
+
+Las Entidades adjudicatarias deberán presentar una Memoria justificativa de la aplicación de las ayudas y subvenciones concedidas en el ejercicio anterior en los plazos que al efecto sean señalados por el Ministerio de Asuntos Sociales y el Ministerio de Asuntos Exteriores, en el ámbito de su respectiva competencia, debiendo someterse asimismo, en su caso. a los sistemas de evaluación que se establezcan.
+
+> Se modifica por el art. único del Real Decreto 1112/1989, de 28 de agosto. [Ref. BOE-A-1989-22337](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-22337).
+
+## Artículo 12.
+
+El incumplimiento por parte de las Entidades de las obligaciones establecidas en el convenio-programa podrá determinar la no consideración de futuras solicitudes, en tanto no quede garantizada la eliminación de las causas que dieron lugar a tal incumplimiento.
+
+## Disposición derogatoria.
+
+Se deroga el Real Decreto 1033/1986, de 25 de abril, por el que se crea el Registro de Entidades que desarrollan actividades de acción social y cuantas disposiciones de igual o inferior rango que se opongan a lo dispuesto en el presente Real Decreto.
+
+## Disposición final primera.
+
+Se faculta a los Ministros de Asuntos Exteriores y de Cooperación, de Trabajo y Asuntos Sociales, y de Medio Ambiente para dictar cuantas disposiciones sean necesarias para la aplicación de este real decreto.
+
+> Se modifica por el art. 2.4 del Real Decreto 599/2007, de 4 de mayo. [Ref. BOE-A-2007-14051](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-14051).
+
+## Disposición final segunda.
+
+El presente Real Decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 17 de febrero de 1989.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ

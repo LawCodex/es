@@ -1,0 +1,243 @@
+---
+title: "Real Decreto 560/1995, de 7 de abril, por el que se establece las tallas mínimas de determinadas especies pesqueras"
+identifier: "BOE-A-1995-8639"
+eli: "https://www.boe.es/eli/es/rd/1995/04/07/560"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1995-04-07
+published: 1995-04-08
+in_force_from: 1995-04-09
+last_amended: 2025-11-01
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 84"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-8639"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 560/1995, de 7 de abril, por el que se establece las tallas mínimas de determinadas especies pesqueras
+
+Incluye las correcciones de erratas publicadas en BOE núms. 112, de 11 de mayo de 1995 [Ref. BOE-A-1995-11261](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-11261) y 120, de 20 de mayo de 1995. [Ref. BOE-A-1995-11968](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-11968)
+
+El Reglamento (CEE) 3760/92, del Consejo, de 20 de diciembre, por el que se establece un régimen comunitario de la pesca y la acuicultura, fija como objetivo general de la política común de pesca la protección y conservación de los recursos marinos y la organización sobre una base sostenible de la explotación nacional y responsable de los mismos, en condiciones económicas apropiadas para el sector, teniendo en cuenta sus repercusiones en el ecosistema marino, y tomando en consideración en particular tanto las necesidades de los productores como las de los consumidores.
+
+El Reglamento (CEE) 3094/86, del Consejo, de 7 de octubre, establece determinadas medidas técnicas de conservación de los recursos pesqueros, entre las que se disponen tallas mínimas para diversas especies de interés pesquero.
+
+El Reglamento (CE) 1626/94, del Consejo, de 27 de junio, establece determinadas medidas técnicas de conservación de los recursos pesqueros en el Mediterráneo, medidas que comprenden las tallas mínimas de ciertas especies de peces, crustáceos y moluscos.
+
+Por otra parte, la normativa nacional que recoge tallas mínimas de especies pesqueras se encuentra dispersa en múltiples disposiciones, muchas de las cuales han venido sufriendo diversas modificaciones.
+
+A la vista de lo expuesto resulta conveniente, para una mayor claridad, sin perjuicio de la aplícabilidad directa de los Reglamentos comunitarios citados desde su entrada en vigor, dictar el presente Real Decreto que reúne en una sola disposición las tallas mínimas de aplicación en las distintas áreas englobadas en el caladero nacional, previo informe del Instituto Español de Oceanografía. Asimismo, de conformidad con los artículos 14 del Reglamento (CEE) 3094/86 y 1 del Reglamento (CE) 1626/94, se ha cumplido el trámite de comunicación del proyecto de Real Decreto a la Comisión Europea.
+
+Finalmente, la Constitución establece, en su artículo 149.1.19.<sup>a</sup> que la pesca marítima por fuera de las aguas que delimitan las líneas de base es competencia exclusiva del Estado.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado, previa deliberación del Consejo de Ministros en su reunión del día 7 de abril de 1995,
+
+DISPONGO:
+
+## Artículo 1. Tallas mínimas.
+
+Las tallas mínimas autorizadas para las diferentes especies pesqueras capturadas por buques españoles serán, para cada uno de los caladeros diferenciados que integran el caladero nacional, las indicadas en los anexos del presente real decreto, sin perjuicio de la aplicación del Reglamento (CE) n.º 850/1998, del Consejo, de 30 de marzo, para la conservación de los recursos pesqueros a través de medidas técnicas de protección de los juveniles de organismos marinos.
+
+Se considerará que un pez, crustáceo, molusco o cualquier otro producto de la pesca no tiene la talla exigida cuando sus dimensiones sean inferiores a las establecidas en este Real Decreto para la especie correspondiente.
+
+> Se modifica el primer párrafo por el art. 2.1 del Real Decreto 1076/2015, de 27 de noviembre. [Ref. BOE-A-2015-12897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12897).
+
+## Artículo 2. Medición de las tallas.
+
+La talla de los peces, crustáceos y moluscos se medirá de conformidad con las disposiciones del apartado 2 del artículo 5 del Reglamento (CEE) 3094/86, de 7 de octubre.
+
+## Artículo 3. Prohibiciones.
+
+Se prohíbe retener a bordo, transbordar, desembarcar, transportar, almacenar, vender, exponer o comercializar peces, crustáceos, moluscos u otros productos de la pesca que no tengan la talla exigida.
+
+## Artículo 4. Infracciones y sanciones.
+
+Las infracciones a lo dispuesto en el presente Real Decreto serán sancionadas de acuerdo con lo establecido en la Ley 53/1982, de 13 de julio, sobre infracciones en materia de pesca marítima y demás disposiciones concordantes.
+
+## Disposición adicional única. Competencia.
+
+El presente Real Decreto se dicta al amparo de la competencia exclusiva del Estado en materia de pesca marítima en aguas exteriores, de acuerdo con lo previsto en el artículo 149.1.19.<sup>a</sup> de la Constitución.
+
+## Disposición derogatoria única.
+
+Queda derogada toda disposición, de igual o inferior rango, en lo que se oponga a lo establecido en el presente Real Decreto.
+
+## Disposición final primera. Facultad de desarrollo.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para dictar, dentro del ámbito de sus competencias, las disposiciones precisas para el desarrollo y aplicación del presente Real Decreto.
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 7 de abril de 1995.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+LUIS MARÍA ATIENZA SERNA
+
+## ANEXO I — Tallas mínimas autorizadas para los caladeros del Cantábrico y noroeste y del golfo de Cádiz
+
+| Especie | Talla (en cm) |
+|---|---|
+| Abadejo (Pollachius pollachius) | 30 |
+| Acedia (Dicologoglossa cuneata) | 15 |
+| Aguja (Belone belone) | 25 |
+| Anguila (Anguilla anguilla) | (*) |
+| Arenque (Clupea harengus) | 20 |
+| Atún rojo (Thunnus thynnus) | 6,4 kg |
+| Bacalao (Gadus morhua) | 35 |
+| Besugo (Pagellus bogaraveo) | 25 |
+| Boga (Boops boops) | 1 1 |
+| Boquerón (Engraulis encrasicholus) | 12 (**) |
+| Buey (Cáncer pagurus) | (*) |
+| Caballa, Estornino (Scomber spp) | 20 |
+| Calamar (Loligo vulgaris) | (*) |
+| Carbonero (Pollachius virens) | 35 |
+| Centolla (Maja squinado) | 12 |
+| Cigala (entera) (Nephrops norvegicus): |  |
+| Longitud cefalotórax | 2 |
+| Longitud total | 7 |
+| Cigalas (colas) | 3,7 |
+| Congrio (Conger conger) | 58 |
+| Chopa (Spondyliosoma cantharus) | 23 |
+| Dorada (Sparus aurata) | 19 |
+| Eglefino (Melanogrammús aeglefinus) | 30 |
+| Faneca (Trisopterus luscus) | (*) |
+| Gallos (Lepidorhombus spp) | 20 |
+| Jibias (Sepia spp) | (*) |
+| Jurel (Trachurus trachurus) | 15 |
+| Lenguado (Solea vulgaris) | 24 |
+| Limanda (Limanda limanda) | 23 |
+| Lisas (Mugil spp) | 20 |
+| Lubina (Dicentrarchus labrax) | 36 (***) |
+| Maruca Azul (Molva dypterygia) | 70 |
+| Maruca (Molva molva) | 63 |
+| Mendo limón (Microstommus kitt) | 25 |
+| Mendo (Gliptocephalus cynoglossus) | 28 |
+| Merlán (Merlangus merlangus) | 23 |
+| Merluza (Merluccius merluccius) | 27 |
+| Palometa negra o japuta (Brama brama) | 16 |
+| Pargo (Pagrus pagrus) | 15 |
+| Patudo (Thunnus obesus) | 3,2 kg |
+| Platija (Platichthys flesus) | 25 |
+| Pulpo *(Octopus vulgaris)* | 1 kg |
+| Rabil (Thunnus albacares) | 3,2 kg |
+| Rape (Lophius piscatorius, L. Budegassa) | (*) |
+| Ramal (Scophthalmus rhombus) | 30 |
+| Rodaballo (Psetta maxima) | 30 |
+| Sabalos (Alosa spp) | 30 |
+| Salema (Sarpa salpa) | 15 |
+| Salmón (Salmo salar) | 50 |
+| Salmonete de roca (Mullus surmuletus) | 15 |
+| Sardina (Sardina pilchardus) | 11 |
+| Solla (Pleuronectes platessa) | 25 |
+| Trucha marisca o reo (Salmo trutta) | 25 |
+| Vieira (Pecten maximus) | 10 |
+
+(*) Talla por determinar.
+
+(**) Excepto en la división IX, a), en la que la talla mínima es de 10 centímetros.
+
+(***) Excepto en las divisiones 8a y 8b del Consejo Internacional para la Exploración del Mar, tanto para la pesca profesional como para la pesca recreativa, en las que la talla mínima es de 44 centímetros.
+
+> Se modifica por el art. único.1 del Real Decreto 936/2025, de 21 de octubre. [Ref. BOE-A-2025-22024](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22024)
+
+> Se modifca la fila relativa a la lubina y se añade una nueva nota por la disposición final 1 del Real Decreto 664/2023, de 18 de julio. [Ref. BOE-A-2023-16726](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16726)
+
+## ANEXO II — Tallas mínimas autorizadas para el caladero mediterráneo
+
+| Especie | Talla<br>(en cm) |
+|---|---|
+| Aguja (Belone belone) | 25 |
+| Almeja (Venerupis spp) | 2,5 |
+| Atún rojo (Thunnus thynnus) | 80 cm o 10 kg de peso |
+| Bacaladilla (Micromesistius poutassou). | 15 |
+| Boga (Boops boops) | 11 |
+| Bogavante (Homarus gammarus): |  |
+| Longitud cefalotórax | 8,5 |
+| Boquerón (Engraulis encrasicholus) | 9 |
+| Caballa (Scomber scombrus) | 18 |
+| Capellán/mollera (Trisopterus minutus capelanus) | 11 |
+| Cigala (Nephrops norvegicus): |  |
+| Longitud cefalotórax | 2 |
+| Longitud total | 7 |
+| Cherna (Polyprion americanus) | 45 |
+| Chirla (Venus spp) | 2,5 |
+| Dorada (Sparus aurata) | 20 |
+| Estornino (Scomber japonicus) | 18 |
+| Gallo (Lepidorhombus spp) | 15 |
+| Jurel (Trachurus spp) | 12 |
+| Langosta (Palinuridae) | 24 |
+| Langostino (Panaeux kerathurus) | 10 |
+| Lenguado (Solea vulgaris) | 20 |
+| Lisa (Mugil spps) | 16 |
+| Lubina (Dicentrarchus labrax) | 23 |
+| Merluza (Merluccius merluccius) | 20 |
+| Mero (Epinephelus spp) | 45 |
+| Pagel, besugo (Pagellus spp) | 12 |
+| Palometa negra o japuta (Brama brama). | 16 |
+| Pargo (Pagrus pagrus) | 18 |
+| Pulpo *(Octopus vulgaris)* * | 1 kg |
+| Rape (Lophius spp) | 30 |
+| Salema (Sarpa salpa) | 15 |
+| Salmonete (Mullus spp) | 11 |
+| Sardina (Sardina pilchardus) | 11 |
+| Sargo (Diplodus spp) | 15 |
+| Vieira (Pecten spp) | 10 |
+
+(*) La talla del pulpo *(Octopus vulgaris)* recogida en la presente tabla no es de aplicación en las aguas interiores y la plataforma continental de la Comunidad Autónoma de las Illes Balears.
+
+> Se modifica por el art. único.2 del Real Decreto 936/2025, de 21 de octubre. [Ref. BOE-A-2025-22024](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22024)
+
+> Se modifica por el art. único del Real Decreto 1615/2005, de 30 de diciembre. [Ref. BOE-A-2006-756](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-756)
+
+> Redactado conforme a las correcciones de erratas publicadas en BOE núms. 112, de 11 de mayo de 1995. [Ref. BOE-A-1995-11261](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-11261) y 120, de 20 de mayo de 1995. [Ref. BOE-A-1995-11968](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-11968)
+
+## ANEXO III — Tallas mínimas autorizadas para el caladero canario
+
+| Especie | Nombre local canario | Talla (en cm) |
+|---|---|---|
+| Aguja (Belone belone) | Agujón | 25 |
+| Aligote (Pagellus acarne) | Besuguito aligote | 20 |
+| Atún rojo (Thunnus Thynnus) | Patudo | 6,4 kg |
+| Boga (Boops boops) | Boga | 11 |
+| Boquerón (Engraulis encrasicholus) | Boquerón, anchoa | 9 |
+| Cabrilla (Serranus cabrilla) | Cabrilla, cabrilla reina | 19 |
+| Cachucho (Dentex macrophtalmus) | Antoñito, dientón | 22 |
+| Chopa (Spondyliosoma cantharus) | Chopa, negrón | 23 |
+| Dorada (Sparus auratus) | Dorada, zapata morisca | 19 |
+| Estornino (Scomber japonicus) | Caballa | 18 |
+| Gitano (Mycteroperca fusca) | Abade, abadejo | 35 |
+| Jureles (Trachurus spp) | Chicharro | 12 |
+| Lisa (Mugil auratus) | Lisa amarilla | 14 |
+| Vieja colorada (Sparisoma cretense) | Vieja | 22 |
+| Lubina (Dicentrarchus labrax) | Lubina | 22 |
+| Mero (Epinephelus marginatus) | Mero | 45 |
+| Mojarra (Diplodus vulgaris) | Seifia, seifio | 22 |
+| Morena negra (Muraena augusti) |  | 56 |
+| Murión (Gymnothorax unicolor) |  | 57 |
+| Pagel (Pagellus erythrinus) | Breca | 22 |
+| Palometa negra o japuta (Brama brama) | Pez tontón | 16 |
+| Pargo (Pagrus pagrus) | Bocinegro | 28 |
+| Patudo (Thunnus obesus) | Tuna | 3,2 kg |
+| Pulpo *(Octopus vulgaris)* |  | 1 kg |
+| Rabil (Thunnus aibacares) | Rabil | 3,2 kg |
+| Salema (Sarpa salpa) | Salema, salpa | 24 |
+| Salmonetes (Mullus spp) | Salmón, salmonete | 15 |
+| Sama de pluma (Dentex filosus) | Sama, serruda, pargo macho | 35 |
+| Sardina (Sardina pilchardus) | Sardina | 11 |
+| Sargo (Diplodus sargus) | Sargo, sargo blanco | 22 |
+| Serrano imperial (Serranus atricauda) | Cabrilla negra o cabrilla ruana | 20 |
+
+> Se modifica por el art. único.3 del Real Decreto 936/2025, de 21 de octubre. [Ref. BOE-A-2025-22024](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22024)
+
+> Se modifica por el art. 2.2 y 3 del Real Decreto 1076/2015, de 27 de noviembre. [Ref. BOE-A-2015-12897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12897).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 112, de 11 de mayo de 1995. [Ref. BOE-A-1995-11261](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-11261)

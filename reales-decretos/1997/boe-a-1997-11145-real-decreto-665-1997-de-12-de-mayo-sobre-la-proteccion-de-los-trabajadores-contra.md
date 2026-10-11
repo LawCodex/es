@@ -1,0 +1,1033 @@
+---
+title: "Real Decreto 665/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes cancerígenos durante el trabajo"
+identifier: "BOE-A-1997-11145"
+eli: "https://www.boe.es/eli/es/rd/1997/05/12/665"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1997-05-12
+published: 1997-05-24
+in_force_from: 1997-07-24
+last_amended: 2024-07-03
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 124"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-11145"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 665/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes cancerígenos durante el trabajo
+
+Esta norma pasa a denominarse **«Real Decreto 665/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes cancerígenos, mutágenos o reprotóxicos durante el trabajo»**, según establece el art. único.1 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, determina el cuerpo básico de garantías y responsabilidades preciso para establecer un adecuado nivel de protección de la salud de los trabajadores frente a los riesgos derivados de las condiciones de trabajo, en el marco de una política coherente, coordinada y eficaz. Según el artículo 6 de la misma serán las normas reglamentarias las que irán fijando y concretando los aspectos más técnicos de las medidas preventivas.
+
+Así, son las normas de desarrollo reglamentario las que deben fijar las medidas mínimas que deben adoptarse para la adecuada protección de los trabajadores. Entre ellas se encuentran las destinadas a garantizar la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes cancerígenos durante el trabajo.
+
+En el mismo sentido hay que tener en cuenta que en el ámbito de la Unión Europea se han fijado, mediante las correspondientes Directivas, criterios de carácter general sobre las acciones en materia de seguridad y salud en los centros de trabajo, así como criterios específicos referidos a medidas de protección contra accidentes y situaciones de riesgo. Concretamente, la Directiva 90/394/CEE, de 28 de junio, relativa a la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes cancerígenos durante el trabajo, establece las disposiciones específicas mínimas en este ámbito. Mediante el presente Real Decreto se procede a la transposición al Derecho español del contenido de la Directiva 90/394/CEE, antes mencionada.
+
+En su virtud, de conformidad con el artículo 6 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, a propuesta de los Ministros de Trabajo y Asuntos Sociales y de Sanidad y Consumo, consultadas las organizaciones empresariales y sindicales más representativas, oída la Comisión Nacional de Seguridad y Salud en el Trabajo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 9 de mayo de 1997,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto y ámbito de aplicación.
+
+1\. El presente real decreto tiene por objeto, en el marco de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, la protección de los trabajadores contra los riesgos para su salud y su seguridad derivados o que puedan derivarse de la exposición a agentes cancerígenos, mutágenos o reprotóxicos durante el trabajo, así como la prevención de dichos riesgos.
+
+2\. Mediante este real decreto se establecen las disposiciones mínimas aplicables a las actividades en las que los trabajadores estén o puedan estar expuestos a agentes cancerígenos, mutágenos o reprotóxicos como consecuencia de su trabajo, sin perjuicio de aquellas disposiciones específicas contenidas en la normativa vigente relativa a la protección sanitaria contra las radiaciones ionizantes.
+
+En cuanto a la protección de los trabajadores frente a los riesgos derivados de exposiciones al amianto, regulada por su normativa específica, serán de aplicación las disposiciones de este real decreto cuando estas sean más favorables para la seguridad y salud de los trabajadores.
+
+3\. Las disposiciones del Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, se aplicarán plenamente al conjunto del ámbito contemplado en el apartado anterior, sin perjuicio de las disposiciones más rigurosas o específicas previstas en el presente real decreto.
+
+> Se modifica por el art. único.2 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se modifican los apartados 1 y 2 por el art. único.1 y 3 del Real Decreto 349/2003, de 21 de marzo. [Ref. BOE-A-2003-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6934).
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 1124/2000, de 16 de junio. [Ref. BOE-A-2000-11372](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-11372).
+
+### Artículo 2. Definiciones.
+
+1\. A efectos de este real decreto, se entenderá por agente cancerígeno, mutágeno o reprotóxico, una sustancia o mezcla que cumpla los criterios para su clasificación como cancerígeno, mutágeno en células germinales o tóxico para la reproducción de categoría 1A o 1B establecidos en el anexo I del Reglamento (CE) n.º 1272/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas.
+
+2\. También se entenderá como agente cancerígeno una sustancia, mezcla o procedimiento de los mencionados en el anexo I, así como una sustancia o mezcla que se produzca durante uno de los procedimientos mencionados en dicho anexo.
+
+3\. Se entenderá por:
+
+a) «agente reprotóxico sin umbral»: un agente reprotóxico para el que no existe un nivel de exposición seguro para la salud de las personas trabajadoras y que se identifica como tal en la columna de observaciones del anexo III.
+
+b) «agente reprotóxico con umbral»: un agente reprotóxico para el que existe un nivel de exposición seguro por debajo del cual no hay riesgos para la salud de las personas trabajadoras y que se identifica como tal en la columna de observaciones del anexo III.
+
+4\. Se entenderá por “valor límite”, salvo que se especifique lo contrario, el límite de la media ponderada en el tiempo de la concentración de un agente cancerígeno, mutágeno o reprotóxico en el aire dentro de la zona de respiración de la persona trabajadora, en relación con un período de referencia específico, tal como se establece en el anexo III.
+
+5\. Se entenderá por “valor límite biológico”, el límite de la concentración, en el medio biológico adecuado, del agente químico o de uno de sus metabolitos o de otro indicador biológico directa o indirectamente relacionado con los efectos de la exposición de la persona trabajadora al agente en cuestión.
+
+6\. Se entenderá por “vigilancia de la salud”, el examen de cada persona trabajadora para determinar su estado de salud, en relación con la exposición durante el trabajo a agentes carcinógenos, mutágenos o reprotóxicos específicos.
+
+> Se modifica por el art. único.3 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se modifican los apartados 1 y 2 por el art. 3.1 y 2 del Real Decreto 598/2015, de 3 de julio. [Ref. BOE-A-2015-7458](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7458).
+
+> Se modifica por el art. único.2 del Real Decreto 349/2003, de 21 de marzo. [Ref. BOE-A-2003-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6934).
+
+> Se modifica por el art. único.2 del Real Decreto 1124/2000, de 16 de junio. [Ref. BOE-A-2000-11372](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-11372).
+
+## CAPÍTULO II — Obligaciones del empresario
+
+### Artículo 3. Identificación y evaluación de riesgos.
+
+1\. De acuerdo con lo dispuesto en el artículo 2 del Real Decreto 39/1997, de 17 de enero, identificados uno o más riesgos relacionados con la exposición a agentes cancerígenos, mutágenos o reprotóxicos durante el trabajo, se procederá, para aquellos que no hayan podido evitarse, a evaluar los mismos determinando la naturaleza, el grado y la duración de la exposición de los trabajadores.
+
+2\. La evaluación deberá tener en cuenta especialmente:
+
+a) Toda posible vía de entrada al organismo o tipo de exposición, incluidas las que se produzcan por absorción a través de la piel o que afecten a ésta.
+
+b) Los posibles efectos para la seguridad o la salud de las personas trabajadoras especialmente sensibles a tales riesgos y tendrá en cuenta, entre otros aspectos, la conveniencia de que dichas personas trabajadoras no trabajen en zonas en las que puedan estar en contacto con agentes cancerígenos, mutágenos o reprotóxicos, sin perjuicio de lo establecido en el artículo 5.5.i).
+
+3\. La evaluación de los riesgos deberá mantenerse actualizada, revisándose:
+
+a) Periódicamente, conforme a lo dispuesto en el artículo 6.2 del Reglamento de los Servicios de Prevención, en función de la naturaleza y gravedad del riesgo y la posibilidad de que este se incremente por causas que pasen desapercibidas, y teniendo en cuenta los criterios establecidos en la guía a que hace referencia la disposición final primera.
+
+b) Cada vez que se produzca un cambio en las condiciones que pueda afectar a la exposición de los trabajadores a agentes cancerígenos, mutágenos o reprotóxicos.
+
+c) Cuando se den las circunstancias a que se refiere el artículo 8.4.
+
+> Se modifica por el art. único.4 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se modifican los apartados 1 y 2 por el art. único.3 del Real Decreto 349/2003, de 21 de marzo. [Ref. BOE-A-2003-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6934).
+
+### Artículo 4. Sustitución de agentes cancerígenos, mutágenos o reprotóxicos.
+
+En la medida en que sea técnicamente posible, el empresario evitará la utilización en el trabajo de agentes carcinógenos, mutágenos o reprotóxicos, en particular mediante su sustitución, por una sustancia, mezcla o un procedimiento que, en condiciones normales de utilización, no sea peligroso, o lo sea en menor grado, para la salud o la seguridad de los trabajadores.
+
+> Se modifica por el art. único.5 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se modifica por el art. 3.3 del Real Decreto 598/2015, de 3 de julio. [Ref. BOE-A-2015-7458](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7458).
+
+> Se modifica por el art. único.3 del Real Decreto 349/2003, de 21 de marzo. [Ref. BOE-A-2003-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6934).
+
+### Artículo 5. Prevención y reducción de la exposición.
+
+1\. Si los resultados de la evaluación a la que se refiere el artículo 3 pusieran de manifiesto un riesgo para la seguridad o la salud de los trabajadores por exposición a agentes cancerígenos, mutágenos o reprotóxicos, deberá evitarse dicha exposición y programar su sustitución de conformidad con lo dispuesto en el artículo 4.
+
+2\. En caso de que no sea técnicamente posible sustituir el agente cancerígeno, mutágeno o reprotóxico, el empresario garantizará que la producción y utilización del mismo se lleven a cabo en un sistema cerrado.
+
+3\. Cuando la aplicación de un sistema cerrado no sea técnicamente posible, el empresario garantizará que el nivel de exposición de los trabajadores a agentes cancerígenos, mutágenos o reprotóxicos sin umbral se reduzca a un valor tan bajo como sea técnicamente posible.
+
+En caso de que no sea técnicamente posible utilizar o producir un agente reprotóxico con umbral en un sistema cerrado, el empresario garantizará que el riesgo relacionado con la exposición de las personas trabajadoras a dicho agente reprotóxico con umbral se reduzca al mínimo.
+
+El empresario aplicará lo previsto en el párrafo anterior en relación con los agentes reprotóxicos distintos de los agentes reprotóxicos sin umbral y de los agentes reprotóxicos con umbral. En tal caso, cuando realice la evaluación de los riesgos a que se refiere el artículo 3, el empresario tendrá debidamente en cuenta la posibilidad de que pudiera no existir un nivel de exposición seguro para la salud de las personas trabajadoras en el caso de un agente reprotóxico de ese tipo y tomará las medidas adecuadas al respecto.
+
+4\. La exposición no superará el valor límite de los agentes cancerígenos, mutágenos o reprotóxicos establecido en el anexo III.
+
+En todo caso, la no superación del valor límite no eximirá del cumplimiento de lo dispuesto en el apartado anterior.
+
+5\. Siempre que se utilice un agente cancerígeno, mutágeno o reprotóxico el empresario aplicará todas las medidas necesarias siguientes:
+
+a) Limitar las cantidades del agente cancerígeno, mutágeno o reprotóxico en el lugar de trabajo.
+
+b) Diseñar los procesos de trabajo y las medidas técnicas con el objeto de evitar o reducir al mínimo la formación de agentes cancerígenos, mutágenos o reprotóxicos.
+
+c) Limitar al menor número posible los trabajadores expuestos o que puedan estarlo.
+
+d) Evacuar los agentes cancerígenos, mutágenos o reprotóxicos en origen, mediante extracción localizada o, cuando ello no sea técnicamente posible, por ventilación general, en condiciones que no supongan un riesgo para la salud pública y el medio ambiente.
+
+e) Utilizar los métodos de medición más adecuados, en particular para una detección inmediata de exposiciones anormales debidas a imprevistos o accidentes.
+
+f) Aplicar los procedimientos y métodos de trabajo más adecuados.
+
+g) Adoptar medidas de protección colectiva y, cuando la exposición no pueda evitarse por otros medios, medidas de protección individual.
+
+h) Adoptar medidas higiénicas, en particular la limpieza regular de suelos, paredes y demás superficies.
+
+i) Delimitar las zonas de riesgo, estableciendo una señalización de seguridad y salud adecuada, que incluya la prohibición de fumar en dichas zonas, y permitir el acceso a las mismas sólo al personal que deba operar en ellas, excluyendo a los trabajadores especialmente sensibles a estos riesgos.
+
+j) Velar para que todos los recipientes, envases e instalaciones que contengan agentes cancerígenos, mutágenos o reprotóxicos, estén etiquetados de manera clara y legible y colocar señales de peligro claramente visibles, de conformidad todo ello con la normativa vigente en la materia.
+
+k) Instalar dispositivos de alerta para los casos de emergencia que puedan ocasionar exposiciones anormalmente altas.
+
+l) Disponer de medios que permitan el almacenamiento, manipulación y transporte seguros de los agentes cancerígenos, mutágenos o reprotóxicos, así como para la recogida, almacenamiento y eliminación de residuos, en particular mediante la utilización de recipientes herméticos etiquetados de manera clara, inequívoca y legible, y colocar señales de peligro claramente visibles, de conformidad todo ello con la normativa vigente en la materia.
+
+> Se modifica por el art. único.6 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se añade el párrafo segundo al apartado 4 y se modifican los apartados 2 y 5 por el art. único.4 y 5 del Real Decreto 349/2003, de 21 de marzo. [Ref. BOE-A-2003-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6934).
+
+> Se añade el apartado 4 y se renumera el anterior 4 como 5 por el art. único.3 del Real Decreto 1124/2000, de 16 de junio. [Ref. BOE-A-2000-11372](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-11372).
+
+### Artículo 6. Medidas de higiene personal y de protección individual.
+
+1\. El empresario, en toda actividad en que exista un riesgo de contaminación por agentes cancerígenos, mutágenos o reprotóxicos, deberá adoptar las medidas necesarias para:
+
+a) Prohibir que los trabajadores coman, beban o fumen en las zonas de trabajo en las que exista dicho riesgo.
+
+b) Proveer a los trabajadores de ropa de protección apropiada o de otro tipo de ropa especial adecuada.
+
+c) Disponer de lugares separados para guardar de manera separada las ropas de trabajo o de protección y las ropas de vestir.
+
+d) Disponer de un lugar determinado para el almacenamiento adecuado de los equipos de protección y verificar que se limpian y se comprueba su buen funcionamiento, si fuera posible con anterioridad y, en todo caso, después de cada utilización, reparando o sustituyendo los equipos defectuosos antes de un nuevo uso.
+
+e) Disponer de retretes y cuartos de aseo apropiados y adecuados para uso de los trabajadores.
+
+2\. Los trabajadores identificados en la evaluación de riesgos como expuestos dispondrán, dentro de la jornada laboral, del tiempo necesario para su aseo personal, con un máximo de 10 minutos antes de la comida y otros 10 minutos antes de abandonar el trabajo. Este tiempo en ningún caso podrá acumularse ni utilizarse para fines distintos a los previstos en este apartado.
+
+3\. El empresario se responsabilizará del lavado y descontaminación de la ropa de trabajo, quedando rigurosamente prohibido que los trabajadores se lleven dicha ropa a su domicilio para tal fin. Cuando contratase tales operaciones con empresas idóneas al efecto, estará obligado a asegurar que la ropa se envía en recipientes cerrados y etiquetados con las advertencias precisas.
+
+4\. De acuerdo con el apartado 5 del artículo 14 de la Ley 31/1995, de 8 de noviembre, el coste de las medidas relativas a la seguridad y la salud en el trabajo establecidas por el presente real decreto no debe recaer en modo alguno sobre los trabajadores.
+
+> Se modifica por el art. único.7 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 1154/2020, de 22 de diciembre. [Ref. BOE-A-2020-16833](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-16833)
+
+> Se modifica el apartado 1 por el art. único.3 del Real Decreto 349/2003, de 21 de marzo. [Ref. BOE-A-2003-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6934).
+
+### Artículo 7. Exposiciones accidentales y exposiciones no regulares.
+
+1\. En caso de accidentes o de situaciones imprevistas que pudieran suponer una exposición anormal de los trabajadores, el empresario informará de ello lo antes posible a los mismos y adoptará, en tanto no se hayan eliminado las causas que produjeron la exposición anormal, las medidas necesarias para:
+
+a) Limitar la autorización para trabajar en la zona afectada a los trabajadores que sean indispensables para efectuar las reparaciones u otros trabajos necesarios.
+
+b) Garantizar que la exposición no sea permanente y que su duración para cada trabajador se limite a lo estrictamente necesario.
+
+c) Poner a disposición de los trabajadores afectados ropa y equipos de protección adecuados.
+
+d) Impedir el trabajo en la zona afectada de los trabajadores no protegidos adecuadamente.
+
+2\. En aquellas actividades no regulares, en las que pueda preverse la posibilidad de un incremento significativo de la exposición de los trabajadores, el empresario, una vez agotadas todas las posibilidades de adopción de otras medidas técnicas preventivas para limitar la exposición, deberá adoptar, previa consulta a los trabajadores o sus representantes, las medidas necesarias para:
+
+a) Evitar la exposición permanente del trabajador, reduciendo la duración de la misma al tiempo estrictamente necesario.
+
+b) Adoptar medidas complementarias para garantizar la protección de los trabajadores afectados, en particular poniendo a su disposición ropa y equipos de protección adecuados que deberán utilizar mientras dure la exposición.
+
+c) Evitar que personas no autorizadas tengan acceso a las zonas donde se desarrollen estas actividades, bien delimitando y señalizando dichos lugares o bien por otros medios.
+
+### Artículo 8. Vigilancia de la salud de los trabajadores.
+
+1\. El empresario garantizará una vigilancia adecuada y específica de la salud de los trabajadores en relación con los riesgos por exposición a agentes cancerígenos, mutágenos o reprotóxicos, realizada por personal sanitario competente, según determinen las autoridades sanitarias en las pautas y protocolos que se elaboren, de conformidad con lo dispuesto en el apartado 3 del artículo 37 del Real Decreto 39/1997, de 17 de enero. Dicha vigilancia deberá ofrecerse a los trabajadores en las siguientes ocasiones:
+
+a) Antes del inicio de la exposición.
+
+b) A intervalos regulares en lo sucesivo, con la periodicidad que los conocimientos médicos aconsejen, considerando el agente cancerígeno, mutágeno o reprotóxico, el tipo de exposición y la existencia de pruebas eficaces de detección precoz.
+
+c) Cuando sea necesario por haberse detectado en alguna persona trabajadora algún trastorno que pueda deberse a la exposición a agentes cancerígenos, mutágenos o reprotóxicos, o si se detecta que se ha superado un valor límite biológico, el médico o las autoridades sanitarias podrán exigir que otras personas trabajadoras que hayan estado expuestos de forma similar sean objeto de dicha vigilancia.
+
+El anexo II contiene recomendaciones prácticas en materia de vigilancia de la salud de los trabajadores.
+
+Cuando se haya fijado un valor límite biológico en el anexo III bis, la vigilancia de la salud será obligatoria para el trabajo con el agente carcinógeno, mutágeno o reprotóxico de que se trate, de conformidad con los procedimientos establecidos en dicho anexo.
+
+2\. Los trabajadores podrán solicitar la revisión de los resultados de la vigilancia de su salud.
+
+3\. Deberá llevarse un historial médico individual de los trabajadores afectados.
+
+4\. El empresario deberá revisar la evaluación y las medidas de prevención y de protección colectivas e individuales adoptadas cuando se hayan detectado alteraciones de la salud de los trabajadores que puedan deberse a la exposición a agentes cancerígenos, mutágenos o reprotóxicos, o cuando el resultado de los controles periódicos, incluidos los relativos a la vigilancia de la salud, ponga de manifiesto la posible inadecuación o insuficiencia de estas. El médico encargado de la vigilancia de la salud de los trabajadores podrá proponer medidas individuales de prevención o de protección para cada trabajador en particular. En función de los riesgos inherentes al trabajo, el control biológico y los requisitos relacionados formarán parte de la vigilancia de la salud.
+
+5\. Se aconsejará e informará a los trabajadores en lo relativo a cualquier control médico que sea pertinente efectuar con posterioridad al cese de la exposición. En particular, resultará de aplicación a dichos trabajadores lo establecido en el artículo 37.3 e) del Real Decreto 39/1997, de 17 de enero, en materia de vigilancia de la salud más allá de la finalización de la relación laboral.
+
+> Se modifica por el art. único.8 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se modifican los apartados 1 y 4 por el art. único.3 y 5 del Real Decreto 349/2003, de 21 de marzo. [Ref. BOE-A-2003-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6934).
+
+### Artículo 9. Documentación.
+
+1\. El empresario está obligado a disponer de:
+
+a) La documentación sobre los resultados de la evaluación a que se refiere el artículo 3, así como los criterios y procedimientos de evaluación y los métodos de medición, análisis o ensayo utilizados.
+
+b) Una lista actualizada de los trabajadores encargados de realizar las actividades respecto a las cuales los resultados de las evaluaciones mencionadas en el artículo 3 revelen algún riesgo para la seguridad o la salud de los trabajadores, indicando la exposición a la cual hayan estado sometidos en la empresa.
+
+2\. El empresario deberá adoptar las medidas necesarias para la conservación de los historiales médicos individuales previstos en el artículo 8.3, sin perjuicio de lo dispuesto en el artículo 22 de la Ley 31/1995, de 8 de noviembre.
+
+3\. Tanto la lista mencionada en el apartado 1 anterior como los historiales médicos mencionados en el apartado 2 deberán conservarse, después de terminada la exposición, al menos, durante cuarenta años en el caso de los agentes cancerígenos o mutágenos y, al menos, durante cinco años en el caso de los agentes reprotóxicos, remitiéndose a la autoridad laboral en caso de que la empresa cese en su actividad antes de dicho plazo dentro de los diez días hábiles siguientes al cese y garantizando la confidencialidad de los datos en todo momento.
+
+Los historiales médicos serán remitidos por la autoridad laboral a la sanitaria, quien los conservará, garantizándose en todo caso la confidencialidad de la información en ellos contenida. En ningún caso la autoridad laboral conservará copia de los citados historiales.
+
+4\. El tratamiento de datos personales solo podrá realizarse en los términos previstos en la normativa de protección de datos de carácter personal.
+
+> Se modifica por el art. único.9 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se modifica el apartado 4 por el art. único.2 del Real Decreto 1154/2020, de 22 de diciembre. [Ref. BOE-A-2020-16833](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-16833)
+
+### Artículo 10. Información a las autoridades competentes.
+
+1\. El empresario deberá suministrar a las autoridades laborales y sanitarias, cuando éstas lo soliciten, la información adecuada sobre:
+
+a) Las evaluaciones previstas en el artículo 3, incluyendo la naturaleza, grado y duración de las exposiciones, así como los criterios y procedimientos de evaluación y los métodos de medición, análisis o ensayo utilizados.
+
+b) Las actividades o los procedimientos industriales aplicados, incluidas las razones por las cuales se utilizan agentes cancerígenos, mutágenos o reprotóxicos.
+
+c) Las cantidades utilizadas o fabricadas de sustancias o mezclas que contengan agentes cancerígenos, mutágenos o reprotóxicos.
+
+d) El número de trabajadores expuestos y, en particular, la lista actualizada prevista en el artículo anterior.
+
+e) Las medidas de prevención adoptadas y los tipos de equipos de protección utilizados.
+
+f) Los criterios y resultados del proceso de sustitución de agentes cancerígenos, mutágenos o reprotóxicos a que se refiere el artículo 4.
+
+2\. Se comunicarán a la autoridad laboral todos los casos de cáncer, efectos adversos sobre la función sexual y la fertilidad de personas trabajadoras adultas o toxicidad para el desarrollo de los descendientes que se reconozcan como contingencia profesional resultantes de la exposición a un agente carcinógeno, mutágeno o reprotóxico durante el trabajo.
+
+> Se modifica por el art. único.10 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se modifica el apartado 1.c) por el art. 3.4 del Real Decreto 598/2015, de 3 de julio. [Ref. BOE-A-2015-7458](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7458).
+
+> Se modifica por el art. único.3 del Real Decreto 349/2003, de 21 de marzo. [Ref. BOE-A-2003-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6934).
+
+### Artículo 11. Información y formación de los trabajadores.
+
+1\. De conformidad con los artículos 18 y 19 de la Ley 31/1995, de 8 de noviembre, el empresario adoptará las medidas adecuadas para que los trabajadores y los representantes de los trabajadores reciban formación y sean informados sobre las medidas que hayan de adoptarse en aplicación del presente real decreto.
+
+Asimismo, el empresario tomará las medidas apropiadas para garantizar que los trabajadores reciban una formación suficiente y adecuada e información precisa basada en todos los datos disponibles, en particular en forma de instrucciones, en relación con:
+
+a) Los riesgos potenciales para la salud, incluidos los riesgos adicionales debidos al consumo de tabaco.
+
+b) Las precauciones que se deberán tomar para prevenir la exposición.
+
+c) Las disposiciones en materia de higiene personal.
+
+d) La utilización y empleo de equipos y ropa de protección.
+
+e) Las consecuencias de la selección, de la utilización y del empleo de equipos y ropa de protección.
+
+f) Las medidas que deberán adoptar los trabajadores, en particular el personal de intervención, en caso de incidente y para la prevención de incidentes.
+
+2\. Dicha formación deberá:
+
+a) Adaptarse a la evolución de los conocimientos respecto a los riesgos existentes, así como a la aparición de nuevos riesgos, en particular cuando las personas trabajadoras estén o puedan estar expuestos a agentes carcinógenos, mutágenos o reprotóxicos nuevos, o a una serie de agentes carcinógenos, mutágenos o reprotóxicos distintos, incluidos los contenidos en medicamentos peligrosos, o en caso de que se produzcan cambios en las circunstancias relacionadas con el trabajo.
+
+b) En el ámbito sanitario, impartirse periódicamente a todas las personas trabajadoras que estén expuestas a agentes carcinógenos, mutágenos o reprotóxicos, en particular cuando se utilicen nuevos medicamentos peligrosos que contengan dichos agentes.
+
+c) En otros ámbitos, repetirse periódicamente si fuera necesario.
+
+3\. El empresario deberá informar a los trabajadores sobre las instalaciones y sus recipientes anexos que contengan agentes cancerígenos, mutágenos o reprotóxicos.
+
+Cuando, de acuerdo con lo dispuesto en el artículo 8.1, la vigilancia de la salud sea obligatoria, se informará a las personas trabajadoras de dicho requisito antes de que se les asigne la tarea que entraña un riesgo de exposición a los agentes carcinógenos, mutágenos o reprotóxicos indicados.
+
+4\. Asimismo, los representantes de los trabajadores y los trabajadores afectados deberán ser informados de las causas que hayan dado lugar a las exposiciones accidentales y a las exposiciones no regulares mencionadas en el artículo 7 así como de las medidas adoptadas o que se deban adoptar para solucionar la situación.
+
+5\. Los trabajadores tendrán acceso a la información contenida en la documentación a que se refiere el artículo 9 cuando dicha información les concierna a ellos mismos. Asimismo, los representantes de los trabajadores o, en su defecto, los propios trabajadores tendrán acceso a cualquier información colectiva anónima.
+
+> Se modifica por el art. único.11 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se modifica el apartado 3 por el art. único.3 del Real Decreto 349/2003, de 21 de marzo. [Ref. BOE-A-2003-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6934).
+
+### Artículo 12. Consulta y participación de los trabajadores.
+
+La consulta y participación de los trabajadores o sus representantes sobre las cuestiones a que se refiere este Real Decreto se realizarán de conformidad con lo dispuesto en el apartado 2 del artículo 18 de la Ley de Prevención de Riesgos Laborales.
+
+### Disposición adicional primera. Remisión de documentación e información a las autoridades sanitarias.
+
+Las autoridades laborales remitirán a las autoridades sanitarias copia de cuanta documentación e información reciban de las empresas.
+
+> Se modifica por el art. único.12 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se modifica el título por el art. único.3 del Real Decreto 1154/2020, de 22 de diciembre. [Ref. BOE-A-2020-16833](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-16833)
+
+### Disposición adicional segunda. Referencia a agentes cancerígenos, mutágenos o reprotóxicos en las normas laborales vigentes.
+
+Toda referencia hecha a agentes cancerígenos, mutágenos o reprotóxicos en las normas laborales vigentes deberá entenderse hecha a los incluidos en el ámbito de aplicación de este real decreto.
+
+> Se modifica por el art. único.13 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se añade por el art. único.4 del Real Decreto 1154/2020, de 22 de diciembre. [Ref. BOE-A-2020-16833](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-16833)
+
+### Disposición derogatoria única. Alcance de la derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto y expresamente los artículos 138 y 139 de la Ordenanza General de Seguridad e Higiene en el Trabajo, aprobada por Orden de 9 de marzo 1971, en lo relativo a los riesgos relacionados con la exposición a agentes cancerígenos durante el trabajo, así como la Orden de 14 de septiembre de 1959 sobre fabricación y empleo de productos que contengan benceno y la Resolución de 15 de febrero de 1977 por la que se actualizan las instrucciones complementarias de desarrollo de la Orden de 14 de septiembre de 1959, que regula el empleo de disolventes y otros compuestos que contengan benceno.
+
+Asimismo quedan derogados los artículos 138 y 139 de la Ordenanza General de Seguridad e Higiene en el Trabajo, aprobada por Orden de 9 de marzo de 1971, en lo relativo a los riesgos relacionados con la exposición a agentes mutágenos durante el trabajo, y la Orden de 9 de abril de 1986, por la que se aprueba el Reglamento para la prevención de riesgos y protección de la salud por la presencia de cloruro de vinilo monómero en el ambiente de trabajo.
+
+> Se añade el párrafo segundo por el art. único.7 del Real Decreto 349/2003, de 21 de marzo. [Ref. BOE-A-2003-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6934).
+
+> Se modifica por el art. único.6 del Real Decreto 1124/2000, de 16 de junio. [Ref. BOE-A-2000-11372](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-11372).
+
+### Disposición final primera. Elaboración y actualización de la Guía Técnica de Riesgos.
+
+1\. El Instituto Nacional de Seguridad y Salud en el Trabajo, de acuerdo con lo dispuesto en el apartado 3 del artículo 5 del Real Decreto 39/1997, de 17 de enero, elaborará y mantendrá actualizada una Guía Técnica, de carácter no vinculante, para la evaluación de los riesgos relacionados con la exposición a agentes cancerígenos, mutágenos o reprotóxicos durante el trabajo.
+
+2\. En particular, dicha guía incluirá un listado de maderas duras a las que se refiere el anexo III del presente real decreto.
+
+3\. Cada actualización de la Guía Técnica, en particular, prestará especial atención a los cambios introducidos en los anexos del presente real decreto y propondrá criterios técnicos que faciliten la aplicación práctica de las disposiciones de seguridad y salud en el trabajo derivadas de la inclusión de nuevos valores límite vinculantes.
+
+> Se modifica por el art. único.14 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se añade un párrafo por el art. único.5 del Real Decreto 1154/2020, de 22 de diciembre. [Ref. BOE-A-2020-16833](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-16833)
+
+> Se modifica por el art. único.3 y 8 del Real Decreto 349/2003, de 21 de marzo. [Ref. BOE-A-2003-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6934).
+
+### Disposición final segunda. Facultades de aplicación y desarrollo.
+
+Se autoriza a la persona titular del Ministerio de Trabajo y Economía Social, previo informe favorable de la de Sanidad, y previo informe de la Comisión Nacional de Seguridad y Salud en el Trabajo, a dictar cuantas disposiciones sean necesarias para la aplicación y desarrollo de este real decreto, así como para las adaptaciones de carácter estrictamente técnico de sus anexos en función del progreso técnico y de la evolución de normativas o especificaciones internacionales o de los conocimientos en materia de agentes cancerígenos, mutágenos o reprotóxicos.
+
+> Se modifica por el art. único.15 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se modifica por el art. único.3 del Real Decreto 349/2003, de 21 de marzo. [Ref. BOE-A-2003-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6934).
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor a los dos meses de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 12 de mayo de 1997
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+## ANEXO I — Lista de sustancias, mezclas y procedimientos
+
+[Párrafo b) del artículo 2]
+
+1\. Fabricación de auramina.
+
+2\. Trabajos que supongan exposición a los hidrocarburos aromáticos policíclicos presentes en el hollín, el alquitrán o la brea de hulla.
+
+3\. Trabajos que supongan exposición al polvo, al humo o a las nieblas producidas durante la calcinación y el afinado eléctrico de las matas de níquel.
+
+4\. Procedimiento con ácido fuerte en la fabricación de alcohol isopropílico.
+
+5\. Trabajos que supongan exposición a polvo de maderas duras.
+
+6\. Trabajos que supongan exposición al polvo respirable de sílice cristalina generado en un proceso de trabajo.
+
+7\. Trabajos que supongan exposición cutánea a aceites minerales previamente utilizados en motores de combustión interna para lubrificar y refrigerar los elementos móviles del motor.
+
+8\. Trabajos que supongan exposición a emisiones de motores diésel.
+
+> Se añaden los apartados 7 y 8 por el art. único.1 del Real Decreto 427/2021, de 15 de junio. [Ref. BOE-A-2021-10029](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10029)
+
+> Se añade el apartado 6 por el art. único.6 del Real Decreto 1154/2020, de 22 de diciembre. [Ref. BOE-A-2020-16833](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-16833)
+
+> Se modifica el título por el art. 3.5 del Real Decreto 598/2015, de 3 de julio. [Ref. BOE-A-2015-7458](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7458).
+
+> Se añade el apartado 5 por el art. único.6 del Real Decreto 349/2003, de 21 de marzo. [Ref. BOE-A-2003-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6934).
+
+## ANEXO II — Recomendaciones prácticas para la vigilancia de la salud de los trabajadores
+
+1\. El médico y/o la autoridad responsable de la vigilancia de la salud de los trabajadores expuestos a agentes cancerígenos, mutágenos o reprotóxicos deberán estar familiarizados con las condiciones o las circunstancias de exposición de cada uno de los trabajadores.
+
+2\. La vigilancia de la salud de los trabajadores deberá realizarse de conformidad con los principios y las prácticas de la medicina del trabajo; deberá incluir al menos las medidas siguientes:
+
+a) Registro de los antecedentes médicos y profesionales de cada trabajador.
+
+b) Entrevista personal.
+
+c) En su caso, un control biológico, así como una detección de los efectos precoces y reversibles.
+
+De acuerdo con los conocimientos más recientes en el campo de la medicina del trabajo, se podrá decidir la realización de otras pruebas para cada uno de los trabajadores sometidos a control médico.
+
+> Se modifica por el art. único.16 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se modifica el apartado 1 por el art. único.3 del Real Decreto 349/2003, de 21 de marzo. [Ref. BOE-A-2003-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6934).
+
+## ANEXO III — Valores límite de exposición profesional y otras disposiciones directamente relacionadas
+
+<table>
+<thead>
+<tr>
+<th rowspan="3">
+<p>Nombre del agente</p>
+</th>
+<th rowspan="3">N.<sup>o</sup> CE <sup>(1)</sup></th>
+<th rowspan="3">N.<sup>o</sup> CAS <sup>(2)</sup></th>
+<th colspan="6">Valores límite</th>
+<th rowspan="3">Observaciones</th>
+<th rowspan="3">Medidas transitorias</th>
+</tr>
+<tr>
+<th colspan="3">De exposición diaria <sup>(3)</sup></th>
+<th colspan="3">De corta duración <sup>(4)</sup></th>
+</tr>
+<tr>
+<th>mg/m<sup>3(5)</sup></th>
+<th>ppm <sup>(6)</sup></th>
+<th>f/ml <sup>(7)</sup></th>
+<th>mg/m<sup>3(5)</sup></th>
+<th>ppm <sup>(6)</sup></th>
+<th>f/ml <sup>(7)</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Polvo de maderas duras.</td>
+<td>–</td>
+<td>–</td>
+<td>2<sup>(8)</sup></td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>Valor límite: 3 mg/m<sup>3</sup> hasta el 17 de enero de 2023.</td>
+</tr>
+<tr>
+<td>Compuestos de cromo VI que son cancerígenos en el sentido del artículo 2.1 del presente real decreto (expresados en cromo).</td>
+<td>–</td>
+<td>–</td>
+<td>0,005</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>Valor límite: 0,010 mg/m3 hasta el 17 de enero de 2025. Valor límite: 0,025 mg/m3 para procesos de soldadura o de corte por chorro de plasma u otros similares que generen humo, hasta el 17 de enero de 2025.</td>
+</tr>
+<tr>
+<td>Fibras cerámicas refractarias que son cancerígenos en el sentido del artículo 2.1 del presente real decreto.</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>0,3</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td> </td>
+</tr>
+<tr>
+<td>Polvo respirable de sílice cristalina.</td>
+<td>–</td>
+<td>–</td>
+<td>0,05<sup>(9)</sup></td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>Valor límite: 0,1 mg/m<sup>3</sup> hasta el 31 de diciembre de 2021.</td>
+</tr>
+<tr>
+<td>Benceno.</td>
+<td>200-753-7</td>
+<td>71-43-2</td>
+<td>0,66</td>
+<td>0,2</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Piel <sup>(10)</sup></td>
+<td>Valor límite 1 ppm (3,25 mg/m<sup>3</sup>) hasta el 5 de abril de 2024. Valor límite 0,5 ppm (1,65 mg/m<sup>3</sup>) desde 5 de abril de 2024 hasta el 5 de abril de 2026.</td>
+</tr>
+<tr>
+<td>Cloruro de vinilo monómero.</td>
+<td>200-831-0</td>
+<td>75-01-4</td>
+<td>2,6</td>
+<td>1</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td> </td>
+</tr>
+<tr>
+<td>Óxido de etileno.</td>
+<td>200-849-9</td>
+<td>75-21-8</td>
+<td>1,8</td>
+<td>1</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>1,2-epoxipropano.</td>
+<td>200-879-2</td>
+<td>75-56-9</td>
+<td>2,4</td>
+<td>1</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td> </td>
+</tr>
+<tr>
+<td>Tricloroetileno.</td>
+<td>201-167-4</td>
+<td>79-01-6</td>
+<td>54,7</td>
+<td>10</td>
+<td>–</td>
+<td>164,1</td>
+<td>30</td>
+<td>–</td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>Acrilamida.</td>
+<td>201-173-7</td>
+<td>79-06-1</td>
+<td>0,03</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>2-Nitropropano.</td>
+<td>201-209-1</td>
+<td>79-46-9</td>
+<td>18</td>
+<td>5</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td> </td>
+</tr>
+<tr>
+<td>o-Toluidina.</td>
+<td>202-429-0</td>
+<td>95-53-4</td>
+<td>0,5</td>
+<td>0,1</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>4,4′-Metilendianilina.</td>
+<td>202-974-4</td>
+<td>101-77-9</td>
+<td>0,08</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>Epiclorohidrina.</td>
+<td>203-439-8</td>
+<td>106-89-8</td>
+<td>1,9</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>Dibromuro de etileno.</td>
+<td>203-444-5</td>
+<td>106-93-4</td>
+<td>0,8</td>
+<td>0,1</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>1,3-Butadieno.</td>
+<td>203-450-8</td>
+<td>106-99-0</td>
+<td>2,2</td>
+<td>1</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td> </td>
+</tr>
+<tr>
+<td>Dicloruro de etileno.</td>
+<td>203-458-1</td>
+<td>107-06-2</td>
+<td>8,2</td>
+<td>2</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>Hidracina.</td>
+<td>206-114-9</td>
+<td>302-01-2</td>
+<td>0,013</td>
+<td>0,01</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>Bromoetileno.</td>
+<td>209-800-6</td>
+<td>593-60-2</td>
+<td>2,2</td>
+<td>0,5</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td> </td>
+</tr>
+<tr>
+<td>Emisiones de motores diésel.</td>
+<td> </td>
+<td> </td>
+<td>0,05 <sup>(*) (9)</sup></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>El valor límite se aplicará a partir del 21 de febrero de 2023. Para la minería subterránea y la construcción de túneles, el valor límite se aplicará a partir del 21 de febrero de 2026.</td>
+</tr>
+<tr>
+<td>Mezclas de hidrocarburos aromáticos policíclicos, en particular los que contienen benzo[a]pireno y son agentes carcinógenos en el sentido del presente real decreto.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>Aceites minerales previamente utilizados en motores de combustión interna para lubrificar y refrigerar los elementos móviles del motor.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>Cadmio y sus compuestos inorgánicos.</td>
+<td> </td>
+<td> </td>
+<td>0,001</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Valor límite 0,002 mg/m<sup>3</sup> (11) hasta el 11 de julio de 2027.</td>
+</tr>
+<tr>
+<td>Berilio y compuestos inorgánicos del berilio.</td>
+<td> </td>
+<td> </td>
+<td>0,0002</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Sensibilización cutánea y respiratoria <sup>(12)</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>Ácido arsénico y sus sales, así como compuestos inorgánicos del arsénico.</td>
+<td> </td>
+<td> </td>
+<td>0,01</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Formaldehído.</td>
+<td>200-001-8</td>
+<td>50-00-0</td>
+<td>0,37</td>
+<td>0,3</td>
+<td> </td>
+<td>0,74</td>
+<td>0,6</td>
+<td> </td>
+<td>Sensibilización cutánea <sup>(13)</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>4,4′-metilenbis (2 cloroanilina).</td>
+<td>202-918-9</td>
+<td>101-14-4</td>
+<td>0,01</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>Acrilonitrilo.</td>
+<td>203-466-5</td>
+<td>107-13-1</td>
+<td>1</td>
+<td>0,45</td>
+<td> </td>
+<td>4</td>
+<td>1,8</td>
+<td> </td>
+<td>Piel <sup>(10)</sup> Sensibilización dérmica <sup>(13)</sup></td>
+<td>Valor límite de 2 ppm (4,4 mg/m<sup>3</sup>) hasta el 5 de abril de 2026.</td>
+</tr>
+<tr>
+<td rowspan="2">Compuestos de níquel (como níquel).</td>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
+<td>0,01 <sup>(9)</sup></td>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
+<td rowspan="2">Sensibilización dérmica y respiratoria <sup>(12)</sup></td>
+<td>El valor límite <sup>(9)</sup> se aplicará a partir del 18 de enero de 2025.</td>
+</tr>
+<tr>
+<td>0,05</td>
+<td>El valor límite se aplicará a partir del 18 de enero de 2025. Hasta ese momento, se aplicará un valor límite de 0,1 mg/m<sup>3</sup>.</td>
+</tr>
+<tr>
+<td>Plomo y sus compuestos inorgánicos.</td>
+<td> </td>
+<td> </td>
+<td>0,15</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>N,N-dimetilacetamida.</td>
+<td>204-826-4</td>
+<td>127-19-5</td>
+<td>36</td>
+<td>10</td>
+<td> </td>
+<td>72</td>
+<td>20</td>
+<td> </td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>Nitrobenceno.</td>
+<td>202-716-0</td>
+<td>98-95-3</td>
+<td>1</td>
+<td>0,2</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>N,N-Dimetilformamida.</td>
+<td>200-679-5</td>
+<td>68-12-2</td>
+<td>15</td>
+<td>5</td>
+<td> </td>
+<td>30</td>
+<td>10</td>
+<td> </td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>2-Metoxietanol.</td>
+<td>203-713-7</td>
+<td>109-86-4</td>
+<td> </td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>Acetato de 2-metoxietilo.</td>
+<td>203-772-9</td>
+<td>110-49-6</td>
+<td> </td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>2-Etoxietanol.</td>
+<td>203-804-1</td>
+<td>110-80-5</td>
+<td>8</td>
+<td>2</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>Acetato de 2-etoxietilo.</td>
+<td>203-839-2</td>
+<td>111-15-9</td>
+<td>11</td>
+<td>2</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>1-metil-2-pirrolidona.</td>
+<td>212-828-1</td>
+<td>872-50-4</td>
+<td>40</td>
+<td>10</td>
+<td> </td>
+<td>80</td>
+<td>20</td>
+<td> </td>
+<td>Piel <sup>(10)</sup></td>
+<td> </td>
+</tr>
+<tr>
+<td>Mercurio y compuestos inorgánicos divalentes del mercurio, incluidos el óxido de mercurio y el cloruro de mercurio (como mercurio).</td>
+<td> </td>
+<td> </td>
+<td>0,02</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Bisfenol A; 4,4’- isopropilidendifenol.</td>
+<td>201-245-8</td>
+<td>80-05-7</td>
+<td>2</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Monóxido de carbono.</td>
+<td>211-128-3</td>
+<td>630-08-0</td>
+<td>23</td>
+<td>20</td>
+<td> </td>
+<td>117</td>
+<td>100</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="12">
+<p><sup>(1)</sup> El número CE, es decir, EINECS, ELINCS o de «ex polímero (NLP)», es el número oficial de la sustancia en la Unión Europea, tal como se define en la sección 1.1.1.2 del anexo VI, parte 1, del Reglamento (CE) n.<sup>o</sup> 1272/2008.</p>
+<p><sup>(2)</sup> N.<sup>o</sup> CAS: Número de registro del Chemical Abstracts Service (Servicio de resúmenes de productos químicos).</p>
+<p><sup>(3)</sup> Medido o calculado en relación con una media ponderada temporalmente con un período de referencia de ocho horas.</p>
+<p><sup>(4)</sup> Límite de exposición de corta duración. Valor límite a partir del cual no debe producirse ninguna exposición y que hace referencia a un período de quince minutos, salvo que se especifique lo contrario.</p>
+<p><sup>(5)</sup> mg/m<sup>3</sup> = miligramos por metro cúbico de aire a 20 ºC y 101,3 kPa (760 mm de presión de mercurio).</p>
+<p><sup>(6)</sup> ppm = partes por millón en volumen de aire (ml/m<sup>3</sup>).</p>
+<p><sup>(7)</sup>  f/ml = fibras por mililitro.</p>
+<p><sup>(8)</sup> Fracción inhalable: si el polvo de maderas duras se mezcla con polvo de otras maderas, el valor límite se aplicará a todo el polvo de madera presente en la mezcla.</p>
+<p><sup>(9)</sup> Fracción respirable.</p>
+<p><sup>(10)</sup> Posible contribución importante a la carga corporal total por exposición dérmica.</p>
+<p><sup>(11)</sup> Fracción respirable. Se aplica conjuntamente con un sistema de control biológico con un valor límite biológico inferior o igual a 0,002 mg Cd/g de creatinina en orina.</p>
+<p><sup>(12)</sup> La sustancia puede provocar sensibilización dérmica y de las vías respiratorias.</p>
+<p><sup>(13)</sup> La sustancia puede provocar sensibilización dérmica.</p>
+<p><sup>(*)</sup> Medidas como carbono elemental.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+> Se modifica por el art. único.17 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)
+
+> Se modifica por el art. único del Real Decreto 395/2022, de 24 de mayo de 2022. [Ref. BOE-A-2022-8521](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-8521)
+
+> Se modifica por el art. único.2 del Real Decreto 427/2021, de 15 de junio. [Ref. BOE-A-2021-10029](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10029)
+
+> Se modifica por el art. único.7 del Real Decreto 1154/2020, de 22 de diciembre. [Ref. BOE-A-2020-16833](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-16833)
+
+> Se modifica por el art. único.9 del Real Decreto 349/2003, de 21 de marzo. [Ref. BOE-A-2003-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6934).
+
+> Se añade por el art. único.5 del Real Decreto 1124/2000, de 16 de junio. [Ref. BOE-A-2000-11372](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-11372).
+
+## ANEXO III bis — Valores límite biológicos vinculantes y medidas de vigilancia de la salud
+
+1\. Plomo y sus compuestos inorgánicos.
+
+1.1 El control biológico incluirá la medición del nivel de plomo en sangre (PbB) utilizando la espectrometría de absorción o un método de resultados equivalentes. El valor límite biológico vinculante es: 70 μg Pb/100 ml de sangre.
+
+1.2 Deberá procederse a la vigilancia médica cuando: se esté expuesto a una concentración de plomo en el aire superior a 0,075 mg/m<sup>3</sup>, calculada de forma ponderada con respecto al tiempo para un período de referencia de cuarenta horas semanales, o si se detectan en las personas trabajadoras niveles individuales de plomo en sangre superiores a 40 μg Pb/100 ml de sangre.
+
+> Se añade por el art. único.18 del Real Decreto 612/2024, de 2 de julio. [Ref. BOE-A-2024-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13419)

@@ -1,0 +1,107 @@
+---
+title: "Real Decreto 1369/1987, de 18 de septiembre, por el que se crea el Sistema Nacional de Compensación Electrónica"
+identifier: "BOE-A-1987-25285"
+eli: "https://www.boe.es/eli/es/rd/1987/09/18/1369"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1987-09-18
+published: 1987-11-12
+in_force_from: 1987-11-13
+last_amended: 1995-07-31
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 271"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1987-25285"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1369/1987, de 18 de septiembre, por el que se crea el Sistema Nacional de Compensación Electrónica
+
+El sistema vigente de compensación de medios de pago entre Entidades de depósito viene recogido básicamente en la Orden de 2 de febrero de 1949, que ajustó el sistema inicialmente puesto en marcha por las Reales Ordenes de 19 de febrero y 16 de marzo de 1923, al nuevo marco legal establecido por la Ley de Ordenación Bancaria de 31 de diciembre de 1946.
+
+Las normas citadas atribuyeron al Ministerio de Hacienda la facultad de crear Cámaras Oficiales de Compensación, y a la Dirección General de Banca y Bolsa, cuyas funciones ostenta hoy el Banco de España, a raíz del Decreto Ley 18/1962, de 7 de junio, la de autorizar la creación de otros sistemas de compensación distintos de aquéllas.
+
+Los mecanismos así diseñados en 1949, están hoy ampliamente rebasados por la dinámica propia del tráfico mercantil, que en una economía con alto grado de integración demanda de forma imperiosa e inaplazable soluciones capaces de asegurar la máxima fluidez de las transacciones y la inmediata efectividad de las mismas en el mercado nacional.
+
+El progreso técnico permite ya sin dificultades mayores organizar un Sistema Nacional de Compensación Electrónica que permita que una Entidad, cualquiera que sea el punto de la geografía nacional en el que se encuentre instalada, pueda recibir toda la información que, en forma de registros magnéticos, le remita el resto de Entidades, así como remitir toda la información que presente a las demás Entidades. Al participar el Banco de España en esa red de comunicaciones en que se convierte el Sistema Nacional de Compensación Electrónica, el establecimiento de los saldos de compensación de cada Entidad participante frente al resto, hará innecesaria la existencia de un espacio físico determinado, tal y como hoy día ocurre con las Cámaras de Compensación, por cuanto aquellos serán comunicados al Banco de España a través de la red común. A su vez, el proceso de liquidación de los saldos será efectuado por el Banco de España directa y necesariamente mediante las correspondientes anotaciones en las cuentas corrientes que cada entidad tiene abiertas en el mismo. El resultado final será la constitución de un sistema de compensación y liquidación de ámbito estatal, en el cual desaparecerá el concepto tradicional de Cámaras de Compensación.
+
+Nada se opone, pues, desde el punto de vista técnico, al establecimiento de tal sistema. En el orden jurídico tampoco existe obstáculo alguno. La legislación mercantil corresponde en exclusiva al Estado, de acuerdo con lo dispuesto en el artículo 149.1.6, de la Constitución y de esa legislación forma parte con toda evidencia todo cuanto se refiere a la compensación de documentos mercantiles. Así lo ha entendido la reciente Ley Cambiaria y del Cheque de 16 de julio de 1985, cuya disposición final primera incluye el mandato de regular por vía reglamentaria las Cámaras o sistemas de compensación y la forma en que habrán de presentarse en ellos las letras de cambio, que ahora se cumple mediante el presente Real Decreto.
+
+El carácter nacional del sistema que se crea viene constitucionalmente exigido también por la unidad del orden económico en todo el ámbito del Estado, una de cuyas manifestaciones es, precisamente, la unidad de mercado, implícitamente reconocida por el artículo 139.2 de la norma fundamental, como ha puesto insistentemente de relieve el Tribunal Constitucional.
+
+La prudencia de la localización del Sistema bajo la tutela del Banco de España es, a todas luces, aconsejable y ello no solo por el protagonismo que en materia de compensación le han venido reconociendo las disposiciones que desde hace más de sesenta años se han ido dictando a propósito de la misma, sino también y sobre todo por la función en la que sin duda alguna se inscribe la tarea de centralizar y tutelar la compensación de obligaciones recíprocas entre las Entidades de Depósito.
+
+En su virtud, a propuesta de los Ministros de Justicia y de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de septiembre de 1987,
+
+DISPONGO:
+
+### Art. 1.º
+
+1\. Se crea en el Banco de España el «Sistema Nacional de Compensación Electrónica» (en adelante, Sistema Nacional), a través del cual se llevará a cabo la compensación de documentos, medios de pago y transmisiones de fondos que, mediante sistemas y procedimientos electrónicos, presenten al mismo las entidades miembros. El ámbito geográfico del Sistema Nacional se extiende a todo el territorio del Estado.
+
+2\. A través del Sistema Nacional se llevará a cabo la compensación de las letras de cambio, pagarés y cheques que presenten al mismo las Entidades miembros, de acuerdo con lo previsto en la Ley 19/1985, de 16 de julio, Cambiaria y del Cheque.
+
+3\. Las normas que se dicten en desarrollo del presente Real Decreto contendrán la enumeración de los demás documentos, medios de pago o transmisión de fondos, que puedan ser objeto de compensación en el Sistema Nacional.
+
+### Art. 2.º
+
+1\. La administración y gestión del Sistema Nacional corresponde al Banco de España, quien asimismo estará facultado para dictar sus normas de funcionamiento, con sujeción, en todo caso, a lo dispuesto en el presente Real Decreto y normas que lo desarrollen.
+
+2\. En el desempeño de las funciones mencionadas en el número anterior, el Banco de España actuará con el asesoramiento de una Comisión presidida por un representante del mismo, designado por su Comisión Ejecutiva, y compuesta por diez miembros: seis designados por la Asociación Española de Banca Privada, tres designados por la Confederación Española de Cajas de Ahorro y uno más designado por las organizaciones representativas de las Cooperativas de Crédito. El Banco de España se dirigirá a las mencionadas entidades representativas para que designen los miembros correspondientes de la Comisión.
+
+Por lo que respecta a la entidad representativa de las Cooperativas de Crédito a la que se refiere el párrafo anterior, el Banco de España procederá a identificar a dicha entidad mediante consulta realizada entre las Cooperativas que sean miembros del Sistema Nacional.
+
+Se faculta al Banco de España, cuando la evolución experimentada por el sistema de pagos español lo justifique, a modificar la composición interna de la Comisión Asesora, procediendo a una redistribución de los miembros de ésta entre las distintas entidades en ella representadas.
+
+> Se modifica el apartado 2 por la disposición adicional 6.1 del Real Decreto 1245/1995, de 14 de julio. [Ref. BOE-A-1995-18450](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-18450).
+
+### Art. 3.º
+
+1\. Podrán ser miembros del Sistema Nacional las entidades de crédito operantes en España e inscritas en los preceptivos Registros Oficiales del Banco de España, así como este último.
+
+En ningún caso podrán serlo los establecimientos financieros de crédito.
+
+2\. Las altas y bajas en el Sistema Nacional se publicarán en el «Boletín Oficial del Estado».
+
+> Se modifica el apartado 1 por la disposición adicional 6.2 del Real Decreto 1245/1995, de 14 de julio. [Ref. BOE-A-1995-18450](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-18450).
+
+### Art. 4.º
+
+Los gastos originados por el funcionamiento del Sistema Nacional serán sufragados por las Entidades miembros del mismo, distribuyéndose en proporción a la utilización que de aquél haga cada una de ellas, de acuerdo con los criterios y períodos que fijen las normas que desarrollen el presente Real Decreto.
+
+### Art. 5.º
+
+1\. Todo documento, medio de pago o transmisión de fondos compensable en el Sistema Nacional se considerará presentado al mismo en el momento en que la Entidad, tenedora u ordenante de aquél, cursó comunicación por vía electrónica a la Entidad librada, domiciliataria o destinataria, en la forma y con los datos requeridos por las normas aplicables, solicitando su abono o adeudo por compensación.
+
+2\. Las normas que se dicten para el funcionamiento del Sistema Nacional deberán establecer, en su caso, el plazo de antelación al vencimiento con que deberán ser presentados los diversos documentos en función de sus características, así como los plazos máximos en que la Entidad librada, domiciliataria o destinataria deberá comunicar que no atiende el pago o transmisión de fondos presentados a compensación.
+
+### Art. 6.º
+
+1\. Una vez que la Entidad tenedora de las letras de cambio, pagarés y cheques presentados al Sistema Nacional haya recibido a través de éste la comunicación de que la Entidad librada o domiciliataria de los mismos no atiende el pago, aquélla efectuará y hará constar en el documento, por cuenta y en nombre del Sistema Nacional, la declaración a que se refieren los artículos 51 y 146 c), de la Ley 19/1985, de 16 de julio, Cambiaria y del Cheque, cuando proceda hacer tal declaración.
+
+2\. A los efectos contemplados en el punto anterior, el Sistema Nacional de Compensación Electrónica tendrá la consideración de Cámara de Compensación.
+
+### Art. 7.º
+
+Las Entidades miembros del Sistema Nacional serán responsables del estricto cumplimiento, en sus actuaciones relacionadas con el mismo, de las disposiciones de la Ley 19/1985, de 16 de julio, Cambiaria y del Cheque, que resultan aplicables a dichas actuaciones.
+
+## DISPOSICIÓN ADICIONAL
+
+A la entrada en vigor del presente Real Decreto, las actuales Cámaras de Compensación, ya sean éstas oficiales o privadas, podrán seguir desarrollando sus funciones habituales de acuerdo con la normativa específica que les es aplicable. Igualmente, y a partir de la misma fecha, los documentos, medios de pago o transmisión de fondos apoyados en soporte electrónico, para cuya compensación existan normas del Sistema Nacional, se compensarán en este; todo ello sin perjuicio de que dos o más Entidades convengan de forma voluntaria en definir un sistema para compensar entre si medios de pago. Tanto la modificación del presente ámbito de actuación de las Cámaras hoy existentes como los Convenios entre Entidades para crear sistemas de compensación electrónica diferentes del Nacional, quedarán sometidos a la previa autorización del Banco de España.
+
+## DISPOSICIÓN FINAL
+
+Se faculta al Ministro de Economía y Hacienda para determinar el día en que haya de comenzar a funcionar el Sistema Nacional de Compensación Electrónica, así como para dictar cuantas disposiciones precise el desarrollo y ejecución de lo dispuesto en el presente Real Decreto, que entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 18 de septiembre de 1987.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes
+
+y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ

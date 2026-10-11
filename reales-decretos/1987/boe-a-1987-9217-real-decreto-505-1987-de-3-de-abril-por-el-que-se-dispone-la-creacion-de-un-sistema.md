@@ -1,0 +1,261 @@
+---
+title: "Real Decreto 505/1987, de 3 de abril, por el que se dispone la creación de un sistema de anotaciones en cuenta para la Deuda del Estado"
+identifier: "BOE-A-1987-9217"
+eli: "https://www.boe.es/eli/es/rd/1987/04/03/505"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1987-04-03
+published: 1987-04-14
+in_force_from: 1987-04-14
+last_amended: 2017-09-02
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 89"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1987-9217"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 505/1987, de 3 de abril, por el que se dispone la creación de un sistema de anotaciones en cuenta para la Deuda del Estado
+
+Incluye la corrección de errores publicada en BOE núm. 128, de 29 de mayo. [Ref. BOE-A-1987-12889](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-12889).
+
+La aparición y posterior extensión del título-valor, con la consiguiente incorporación del derecho al documento, constituyó un hito fundamental en el desarrollo de los mercados de capitales y, en cierto sentido, de la moderna economía de mercado.
+
+La ingente ampliación de aquellos mercados, a los cuales no ha sido ajena la actividad del Estado como emisor de títulos públicos cuyo producto se destinaba a financiar las crecientes diferencias entre ingresos y gastos presupuestarios, ha convertido el título-valor en un obstáculo para el ágil funcionamiento del tráfico mercantil. Se hace preciso, por lo tanto, iniciar nuevas fórmulas que posibiliten las operaciones de transmisión de los derechos que los títulos incorporaban, así como el normal y puntual ejercicio de los mismos. Precisamente, la aparición de los modernos sistemas informáticos contribuye a resolver las dificultades anejas al manejo material de las masas de títulos –públicos y privados– negociados en los mercados. En efecto, la rapidez en el tratamiento de la información, la posibilidad de incorporar mecanismos que eviten o subsanen los errores cometidos, así como las facilidades de interconexión, que permiten el intercambio a distancia de cientos de miles de datos, hacen que hoy en día el tratamiento informático permita la sustitución del viejo soporte documental por simples referencias procesables en los ordenadores.
+
+En realidad, la nueva configuración que la emisión de Deuda Pública a través de anotaciones en cuenta implica, supone la creación de un tratamiento jurídico propio y específico que se aleja de la tradicional doctrina del título-valor, en cuanto que lo que ahora se plantea es la sustitución de éste por una técnica operativa más ágil y funcional cuyo fundamento teórico se halla más cercano al concepto de derechos-valores que al de títulos-valores.
+
+Se facilitará de esta forma la tenencia y transmisión en los mercados secundarios de la Deuda Pública, favoreciendo la financiación del Estado e introduciendo elementos que contribuirán a incrementar la eficiencia del mercado financiero en su acepción más amplia, al tiempo que se mejora la gestión y se agiliza el tráfico de los activos financieros emitidos por el Estado.
+
+El sistema de anotaciones en cuenta de Deuda del Estado queda configurado como un procedimiento para la tenencia de valores emitidos por el Estado, en el que sus adquirentes poseen derechos frente al mismo asentados en una Central de anotaciones, cuya gestión es delegada por el emisor al Banco de España. Dichos valores serán negociables y transmisibles en mercado secundario.
+
+Por razones de eficiencia y economicidad, el número de titulares de cuentas en la Central estará limitado a las Entidades e intermediarios financieros que se determinen. Una parte de los titulares de cuentas podra adquirir la condición de Entidad Gestora de anotaciones en cuenta de Deuda del Estado –en adelante Entidad Gestora– manteniendo dentro de aquéllos y debidamente desglosados los saldos de terceros. A este fin, las Entidades así autorizadas deberán mantener, por delegación, los registros detallados que acrediten la titularidad de los saldos de terceros frente al Estado.
+
+A las Entidades Gestoras se atribuyen funciones registrales y de administración del mercado secundario, tanto en materia de contratación como de compensación y liquidación. Para el desarrollo de las mismas, y sujetas al cumplimiento de los requisitos que se establezcan, podrán organizarse sistemas de compensación y liquidación que agrupen a Entidades gestoras, atribuyéndoles parte de las funciones asignadas a estas últimas. Las Bolsas Oficiales de Comercio contarán con un sistema de compensación y liquidación específico, previsto en el presente Real Decreto, y establecerán un sistema de contratación y negociación de las deudas emitidas al amparo del mismo.
+
+Será tarea, entre otras, de la normativa que desarrolle los principios establecidos en este Real Decreto, y de acuerdo con las directrices que en el mismo se establecen, la de precisar las reglas que rijan las relaciones entre los titulares de cuentas en la Central de anotaciones y la propia Central, así como las norma a que deberán quedar sujetas las Entidades Gestoras, o los sistemas de contratación o compensación que se organicen para el ejercicio de sus funciones, especificando sus obligaciones respecto a los órganos de supervisión.
+
+En atención a lo que antecede y al amparo de lo dispuesto en el artículo 38.4, de la Ley 21/1986, de 23 de diciembre, de Presupuestos Generales del Estado para 1987, y en los artículos 101 y 102 de la Ley 11/1977, de 4 de enero, General Presupuestaria, de acuerdo con el Consejo de Estado, previa deliberación del Consejo de Ministros en su reunión del día 3 de abril de 1987,
+
+DISPONGO:
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 128, de 29 de mayo. [Ref. BOE-A-1987-12889](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-12889).
+
+## Art. 1. De la representación de la Deuda del Estado.
+
+La Deuda del Estado podrá estar representada, además de en títulos-valores, en anotaciones en cuenta en una Central de anotaciones en cuenta de Deuda del Estado.
+
+> Redactado el título conforme a la corrección de errores publicada en BOE núm. 128, de 29 de mayo. [Ref. BOE-A-1987-12889](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-12889).
+
+## Art. 2. Del régimen jurídico aplicable a la Deuda del Estado representada en anotaciones en cuenta.
+
+1\. Las anotaciones en cuenta representativas de la Deuda del Estado se regirán por lo dispuesto en este Real Decreto y disposiciones que lo desarrollen.
+
+2\. La constitución de prenda y demás derechos de garantía sobre anotaciones en cuenta será comunicada a la Central de anotaciones, que procederá a su desglose dentro de las cuentas incluidas en la Central, de forma que permita la individualización e identificación de los saldos en garantía, y extenderá la certificación oportuna.
+
+3\. Igualmente, serán objeto de desglose en la Central de anotaciones los valores sobre los que se constituya algún derecho o traba que impida la fungibilidad con los restantes de la misma emisión.
+
+## Art. 3. De la no intervención de fedatario público.
+
+La suscripción y transmisión de anotaciones en cuenta representativas de Deuda del Estado no precisará la intervención de fedatario público. Tampoco será necesaria dicha intervención para la transformación de títulos-valores de Deuda del Estado en anotaciones en cuenta.
+
+## Art. 4. De los titulares de Deuda Pública, representada por medio de anotaciones en cuenta.
+
+Podrán adquirir y mantener Deuda Pública representada por medio de anotaciones en cuenta, en las cuentas bajo su titularidad abiertas en la Central de Anotaciones, además del Banco de España, las Entidades o intermediarios financieros que cumplan los requisitos que establezca el Ministerio de Economía y Hacienda, atendiendo a criterios de solvencia y capacidad operativa.
+
+Las restantes personas físicas y jurídicas podrán adquirir y mantener Deuda Pública representada por medio de anotaciones en cuenta, en calidad de comitentes, en el Banco de España o a través de las Entidades Gestoras a que se refiere el artículo 6.º
+
+> Se modifica por el art. 1 del Real Decreto 1009/1991, de 21 de junio. [Ref. BOE-A-1991-16485](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-16485).
+
+> Redactado el título conforme a la corrección de errores publicada en BOE núm. 128, de 29 de mayo. [Ref. BOE-A-1987-12889](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-12889).
+
+## Art. 5. De la Central de anotaciones en cuenta de la Deuda del Estado.
+
+1\. La Central de anotaciones es un servicio público del Estado que gestionará, por cuenta del Tesoro, el Banco de España con la estructura que éste determine.
+
+2\. La Central de anotaciones en cuenta de Deuda del Estado gestionará la emisión y amortización de los valores incluidos en el sistema de anotaciones en cuenta, los pagos de los intereses devengados por sus titulares y las transferencias de saldos que se originen por su transmisión en el mercado secundario. Asimismo, llevará a cabo las tareas necesarias para el cumplimiento de lo previsto en los números 2 y 3 del artículo 2.º
+
+3\. La Central de anotaciones organizará un mercado secundario entre los titulares directos de cuentas en la propia Central y con este fin establecerá los procedimientos de cotización y negociación, así como los de compensación y liquidación derivados de éstos, velando en todo momento por la transparencia de los mismos y su correcta aplicación. La liquidación de operaciones se efectuará mediante el asiento simultáneo de las transferencias de valores en las cuentas de la Central y de las contrapartidas correspondientes en las cuentas de efectivo en el Banco de España.
+
+4\. Con autorización del Ministro de Economía y Hacienda, la Central de anotaciones podrá determinar el momento en que en el mercado organizado por ella podrá iniciarse la práctica de cada una de las modalidades de operación.
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 128, de 29 de mayo. [Ref. BOE-A-1987-12889](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-12889).
+
+## Art. 6. De las Entidades Gestoras.
+
+1\. Las Entidades Gestoras llevarán las cuentas de quienes no estén autorizados a operar a través de la Central de Anotaciones y mantendrán en ésta una cuenta global, que constituirá en todo momento la contrapartida exacta de aquellas cuentas. Se denominarán "Entidades Gestoras con capacidad plena" aquellas Entidades que pueden realizar todo tipo de operaciones autorizadas con sus comitentes y que ostenten la condición adicional de titular de cuentas a nombre propio en la Central de Anotaciones, según lo previsto en el apartado c) del número 2 de este artículo. Se denominarán "Entidades Gestoras con capacidad restringida" aquellas que pueden realizar con sus comitentes únicamente las operaciones a las que se hace referencia en el número 3 del artículo 8.º de este Real Decreto.
+
+2.a) La condición de Entidad Gestora podrá ser otorgada por el Ministro de Economía y Hacienda, a propuesta del Banco de España y previo informe de la Comisión Nacional del Mercado de Valores, a aquellas Entidades que pertenezcan a alguna de las siguientes categorías:
+
+I) Sociedades de Valores y Agencias de Valores.
+
+II) Bancos, Cajas de Ahorro, incluida la Confederación Española de Cajas de Ahorro y la Caja Postal de Ahorros y Entidades Oficiales de Crédito.
+
+III) Cooperativas de Crédito.
+
+IV) Sociedades Mediadoras del Mercado de Dinero.
+
+2.b) El acceso a la condición de Entidad Gestora y su mantenimiento exigirá la concurrencia de los siguientes requisitos en las Entidades:
+
+I) Que cuenten con un capital o dotación social mínimos desembolsados de 150.000.000 de pesetas y posteriormente con unos niveles mínimos de recursos propios proporcionados al volumen de actividad y a los riesgos asumidos, de acuerdo con su normativa específica.
+
+II) Reconocida honorabilidad comercial o profesional de todos los miembros de su Órgano de Administración, que habrá de contar como mínimo con tres miembros, así como de sus Directores generales y asimilados.
+
+III) Que ninguno de los miembros de su Órgano de Administración, así como ninguno de sus Directores generales o asimilados, haya sido declarado en quiebra o concurso de acreedores sin haber sido rehabilitado, se encuentre procesado o tenga antecedentes penales por delitos de falsedad, contra la Hacienda Pública, de infidelidad en la custodia de documentos, de violación de secretos, de malversación de caudales públicos, de descubrimiento y revelación de secretos, contra la propiedad o esté inhabilitado, penal o administrativamente, para ejercer cargos públicos o de administración o dirección de Entidades Financieras.
+
+IV) Que la mayoría de los miembros de su Órgano de Administración cuente con conocimientos y experiencia adecuados en materias relacionadas con el Mercado de Valores.
+
+V) Que se comprometan a contar con una organización y unos medios personales y materiales técnicamente adecuados al carácter y volumen de la actividad que vayan a desarrollar y cumplan, efectivamente, este compromiso. La Entidad solicitante deberá acreditar suficientemente que está en disposición de cumplirlo desde el primer momento.
+
+Para apreciar la concurrencia de los requisitos a que se refieren los anteriores epígrafes II y IV, se estará a lo dispuesto en las letras g) e i) del artículo 2.º del Real Decreto 276/1989, de 22 de marzo, sobre Sociedades y Agencias de Valores.
+
+2.c) Las Entidades Gestoras, con la sola excepción de las Agencias de Valores, podrán ser además, de acuerdo con lo dispuesto en los artículos 56 y 58 de la Ley del Mercado de Valores, titulares de cuentas a nombre propio en la Central de Anotaciones, siempre que cumplan los requisitos que establezca el Ministerio de Economía y Hacienda.
+
+Las Agencias de Valores sólo podrán adquirir o mantener por cuenta propia Deuda Pública anotada a través de otra Entidad Gestora.
+
+2.d) La condición de Entidad Gestora podrá ser denegada, particularmente, a las Entidades solicitantes que, perteneciendo a alguna de las categorías contempladas en los epígrafes II y IV del anterior apartado a) del presente número, formen parte del mismo grupo que otra de tales Entidades que ya hubiese obtenido con anterioridad dicha condición, siempre que resultara aconsejable no incrementar el número de Entidades Gestoras para garantizar el adecuado funcionamiento y supervisión del sistema.
+
+2.e) Será objeto de publicación en el ''Boletín Oficial del Estado'' el otorgamiento de la condición de Entidad Gestora. El Banco de España mantendrá un registro público de éstas y de los titulares de cuenta.
+
+3\. Las Entidades citadas en los números anteriores gestionarán, como comisionistas por cuenta de quienes no puedan ser titulares directos de cuentas en la Central de anotaciones, la adquisición, mantenimiento y transmisión de Deuda del Estado representada en anotaciones en cuenta, haciendo seguir a los titulares las liquidaciones de intereses y amortizaciones que les correspondan. Asimismo, gestionarán la negociación en el mercado secundario y los procesos de compensación y liquidación, formalizando los cambios de titularidad a que den lugar.
+
+4\. Las Entidades Gestoras, como delegadas del Tesoro, quedan obligadas a la permanente identificación de sus comitentes titulares de Deuda en anotaciones, asegurando la continua y exacta correspondencia de los saldos de valores mantenidos por cuenta de aquéllos con los saldos de terceros de sus cuentas en la Central de anotaciones. Igualmente corresponderá a las Entidades Gestoras, sin perjuicio de lo dispuesto en el artículo segundo, 2 y 3, facilitar, en la esfera que les es propia, el adecuado desenvolvimiento de los derechos a que se refieren los citados preceptos.
+
+Las anotaciones que, con los requisitos formales y procedimentales que se establezcan, lleven a cabo las Entidades Gestoras en relación con los saldos de valores de sus comitentes comunicados a la Central de anotaciones y asentados por ésta tendrán los mismos efectos que si hubiesen sido producidas por la Central de anotaciones.
+
+5\. Las Entidades Gestoras que ostenten la condición adicional de titulares de cuenta a nombre propio llevarán con total separación dentro de sus cuentas los saldos de valores que mantengan por cuenta de terceros y los suyos propios. Asimismo, todas las Entidades Gestoras efectuarán, dentro de sus saldos por cuenta de terceros, los desgloses que se determinen, atendiendo a la situación jurídica en que se encuentren los valores, las necesidades operativas de control del sistema o la conveniencia de contar con información estadística relativa al mismo.
+
+6\. Las Entidades Gestoras extenderán resguardos acreditativos de la formalización de la anotación en cuenta a nombre del titular de los derechos. Dichos resguardos deberán codificarse de modo que se garantice la correspondencia con los registros de la Entidad y con la información comunicada a la Central de anotaciones. Los resguardos no serán transmisibles ni negociables ni representativos del valor y sólo acreditarán la formalización de la anotación y su identificación.
+
+7\. Sujetos a la autorización del Ministro de Economía y Hacienda, podrán establecerse sistemas de compensación y liquidación que agrupen y presten servicios a varias Entidades Gestoras. La autorización será concedida en función de su viabilidad y de que no supongan merma de la seguridad operativa del sistema, y podrá ser retirada si dejan de concurrir las circunstancias que fundamentaron su concesión.
+
+8\. El Ministro de Economía y Hacienda podrá conferir la condición de Entidad Gestora al Banco de España, con objeto de facilitar la prestación por éste de los servicios relacionados con la deuda anotada que se determinen a través del correspondiente convenio especial, de acuerdo con lo previsto en el artículo 20 del Decreto-ley 18/1962, de 7 de junio, sobre nacionalización y reorganización del Banco de España.
+
+> Se modifican los apartados 1, 2 y 5 y se añade el apartado 8 por el art. 2 del Real Decreto 1009/1991, de 21 de junio. [Ref. BOE-A-1991-16485](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-16485).
+
+> Redactado el epígrafe V del apartado 2.b) y el apartado 5 conforme a la corrección de erratas publicada en BOE núm. 163, de 9 de julio. [Ref. BOE-A-1991-17682](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-17682).
+
+> Redactados los apartados 4 y 5 conforme a la corrección de errores publicada en BOE núm. 128, de 29 de mayo. [Ref. BOE-A-1987-12889](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-12889).
+
+## Art. 7. Del régimen específico de las Bolsas de Valores, de negociación, compensación y liquidación de operaciones.
+
+1\. Las Bolsas de Valores gestionarán un régimen específico de negociación, compensación y liquidación de operaciones sobre anotaciones en cuenta de Deuda Pública, que estará sujeto a la autorización del Ministerio de Economía y Hacienda en los términos señalados en el número 8 del artículo 12 del presente Real Decreto. Los saldos incluidos en este régimen específico se mantendrán desglosados en las cuentas de los miembros de tal régimen en la Central de Anotaciones.
+
+2\. Podrán adherirse a ese régimen especifico las Entidades Gestoras en cualquiera de sus modalidades y los titulares de cuentas que cumplan las obligaciones que se establezcan, de conformidad con el número 8 del artículo 12 de este Real Decreto. Estas Entidades y titulares adheridos participarán en los procesos de compensación y liquidación a que se refiere este artículo, introducirán los oportunos controles contables de las operaciones que se efectúen bajo este régimen específico y, cuando se trata de Entidades Gestoras, mantendrán los registros de los titulares de los valores y harán seguir a los mismos las liquidaciones que se deriven de las operaciones de compraventa, pago de intereses o amortizaciones.
+
+> Se modifica por el art. 3 del Real Decreto 1009/1991, de 21 de junio. [Ref. BOE-A-1991-16485](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-16485).
+
+> Redactado el apartado 2 conforme a la corrección de erratas publicada en BOE núm. 163, de 9 de julio. [Ref. BOE-A-1991-17682](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-17682).
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 128, de 29 de mayo. [Ref. BOE-A-1987-12889](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-12889).
+
+## Art. 8. De la transmisión y de las operaciones de compra-venta con pacto de recompra.
+
+1\. Las transmisiones de Deuda del Estado representada en anotaciones en cuenta se tendrán por realizadas en el momento en que la central de anotaciones o, en su caso, la Entidad Gestora efectúen las anotaciones correspondientes, de acuerdo con lo dispuesto en el número 4 del artículo 6.º
+
+2\. **(Derogado).**
+
+3\. Las Agencias de Valores y las restantes Entidades Gestoras con capacidad restringida podrán realizar, con sus comitentes, operaciones de compraventa simple al contado, compraventas simples a plazo y compraventas con pacto de recompra, en fecha fija o a la vista, pero deberán limitarse a actuar como meros comisionistas en nombre de sus clientes, buscando contrapartidas en el mercado, sin que puedan, por consiguiente, dar lugar a anotación alguna en las cuentas a nombre propio.
+
+> Se deroga el apartado 2 por la disposición derogatoria única del Real Decreto 878/2015 , de 2 de octubre [Ref. BOE-A-2015-10637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10637). en la redacción dada por el art. único.42 del Real Decreto 827/2017, de 1 de septiembre. [Ref. BOE-A-2017-10141](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10141)
+
+> Se añade al apartado 3 por el art. 4 del Real Decreto 1009/1991, de 21 de junio. [Ref. BOE-A-1991-16485](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-16485).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 163, de 9 de julio. [Ref. BOE-A-1991-17682](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-17682).
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 128, de 29 de mayo. [Ref. BOE-A-1987-12889](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-12889).
+
+## Art. 9. De las tarifas aplicables.
+
+Las tarifas aplicables por la Central de anotaciones de Deuda del Estado a los usuarios de la misma serán establecidas por el Ministerio de Economía y Hacienda, previo informe del Banco de España. Las tarifas que rijan entre las Entidades Gestoras y las Bolsas Oficiales de Comercio o entre aquéllas y los sistemas a que se refiere el artículo 7.º, y número 7, del 6.º, deberán ser preceptivamente comunicadas a la Central de anotaciones y hechas públicas en la forma que se determine. Las que se apliquen por las Entidades Gestoras a sus clientes se ajustarán a lo que se establezca por el Ministerio de Economía y Hacienda.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 128, de 29 de mayo. [Ref. BOE-A-1987-12889](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-12889).
+
+## Art. 10. De las liquidaciones a efectuar por emisión, reembolso y pago de intereses.
+
+La liquidación de los importes efectivos por emisión, pago de intereses o por amortización de las anotaciones en cuenta de Deuda del Estado se realizarán en la cuenta de efectivo de los titulares de las cuentas en la Central de anotaciones, por la cantidad que corresponda a la totalidad de sus saldos, tanto de su propia cartera como de sus comitentes. Las Entidades Gestoras harán seguir a sus comitentes los importes líquidos que les correspondan.
+
+El pago de los intereses de los saldos que en la fecha de devengo se encuentren sujetos a compromisos de reventa, será abonado a quien resulte propietario en dicha fecha de los referidos intereses, de conformidad con lo establecido en el artículo 8.º
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 128, de 29 de mayo. [Ref. BOE-A-1987-12889](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-12889).
+
+## Art. 11. Del régimen fiscal y obligaciones de información.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 215/1999, de 5 de febrero. [Ref. BOE-A-1999-3252](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3252)
+
+> Se modifica por el art. 4.2 del Real Decreto 536/1997, de 14 de abril. [Ref. BOE-A-1997-8766](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8766).
+
+> Tengase en cuenta para su aplicación el art. 4.1.
+
+> Redactado el párrafo segundo del apartado 4 conforme a la corrección de errores publicada en BOE núm. 128, de 29 de mayo. [Ref. BOE-A-1987-12889](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-12889).
+
+## Art. 12. De las competencias atribuidas al Ministerio de Economía y Hacienda.
+
+Corresponde al Ministerio de Economía y Hacienda:
+
+1\. Establecer las circunstancias en que los tenedores de Deuda del Estado representada en anotaciones en cuenta podrán solicitar su transformación en títulos-valores, así como el procedimiento para efectuar esas transformaciones.
+
+2\. Establecer cuándo y cómo emisiones de Deuda del Estado que en el momento de su creación no ofrecían al suscriptor la posibilidad de elegir la forma de representación –título o anotación en cuenta– puedan incorporarse a ambas formas de representación.
+
+3\. Establecer los procedimientos para la movilización de los saldos de Deuda del Estado anotados en la Central de anotaciones o en las Entidades Gestoras, en su caso, así como los controles necesarios para la inmovilización de los mismos cuando se produzcan las situaciones previstas en los números 2 y 3 del artículo 2.º de este Real Decreto.
+
+4\. Concretar, de acuerdo con lo dispuesto en el artículo 4.º, los requisitos de solvencia y capacidad operativa necesarios para que las Entidades e intermediarios financieros puedan ser titulares directos de cuentas de valores en la Central de anotaciones, con la finalidad de asegurar el cumplimiento de sus cometidos, la seguridad del sistema y el funcionamiento eficiente del mercado. A tal efecto podrá imponer la aportación de las garantías técnicas, formales o de otra naturaleza que estime convenientes. Asimismo determinará las condiciones de funcionamiento a cuya observancia han de comprometerse expresamente las Entidades e intermediarios financieros para ser titulares de cuentas de valores en la Central de anotaciones, entre las que se incluirán necesariamente el mantenimiento de los requisitos de solvencia y capacidad operativa establecidos y el sometimiento a la actividad de supervisión y control que incumbe a la Central de anotaciones, facilitándole cuantas informaciones solicite al efecto.
+
+5\. Concretar, en la medida en que lo estime preciso para asegurar el buen funcionamiento y supervisión del sistema, con qué requisitos de organización deberá contar y qué medios personales, materiales y técnicos habrá de tener, como mínimo, a su disposición la Entidad que solicite la condición de Entidad Gestora, o habilitar al Banco de España para formular tal concreción. Además de las condiciones señaladas en el número 4 anterior, se incluirá la del estricto cumplimiento de las obligaciones legales de información a la Administración Tributaria respecto a las operaciones relacionadas con el sistema.
+
+6\. Determinar los registros que deberán llevar las Entidades Gestoras, su contenido, los requisitos formales para las altas y bajas en los mismos –sea por emisión, amortización, mercado secundario o traspaso de saldos– y las comunicaciones de información que deben establecer de modo sistemático con la Central de anotaciones.
+
+7\. Establecer, de acuerdo con lo dispuesto en este Real Decreto, las operaciones que podrán realizarse en el mercado secundario encomendado a las Entidades Gestoras y regular los procedimientos de cotización, negociación y contratación de las mismas, las reglas de compensación y liquidación, las obligaciones de información necesarias para la vigilancia de las prácticas en el mercado secundario y demás requisitos para asegurar la protección de los inversores.
+
+8\. Aprobar las reglas de funcionamiento del régimen específico de negociación, compensación y liquidación organizado por las Bolsas de Valores, velando por la seguridad del sistema, la integración y eficacia de los mercados y los derechos de los inversores. En particular, deberá aprobar los procedimientos de cotización y negociación y las reglas de compensación y liquidación en este mercado, así como los requisitos formales para la garantía y documentación de las operaciones, las obligaciones de las Entidades adheridas y las comunicaciones de información que deberán efectuar con la Central de Anotaciones.
+
+9\. Encomendar, si así se estima necesario, al Banco de España: a) la determinación de la mecánica operativa de la Central de anotaciones, incluso en los aspectos referentes a sus relaciones con los titulares de las cuentas; b) el establecimiento de los mecanismos de supervisión y control que garanticen el adecuado funcionamiento de la Central de anotaciones y del conjunto del sistema; c) la vigilancia de las tarifas que rijan entre las Entidades Gestoras o las Bolsas Oficiales de Comercio y sus clientes, tarifas que deberán ser hechas públicas en la forma que se determine; d) el establecimiento de las tarifas aplicables por la Central de anotaciones a los usuarios de la misma, dentro de lo dispuesto en el artículo noveno precedente, y e) la fijación del procedimiento de cotización y demás prácticas contenidas en el número 7 anterior a observar por las Entidades Gestoras en relación con las operaciones de mercado secundario autorizadas por el Ministerio de Economía y Hacienda.
+
+10\. A propuesta del Banco de España, previo informe de la Comisión Nacional del Mercado de Valores, y con previa audiencia del interesado, el Ministro de Economía y Hacienda, podrá revocar la condición de Entidad Gestora o de titular de cuenta de valores en la Central de Anotaciones en los casos siguientes:
+
+a) Por el desarrollo, durante un año, de un volumen de actividad nulo o inferior al que establezca el Ministerio de Economía y Hacienda.
+
+b) Cuando incumplan, de modo sobrevenido, los requisitos exigidos para el otorgamiento de dichas autorizaciones.
+
+c) Cuando incurran en suspensión de pagos o quiebra.
+
+d) Cuando, en el caso de Entidades Gestoras, no alcancen o no mantengan en la Central de Anotaciones los saldos mínimos de Deuda Pública por cuenta de terceros que fije el Ministerio de Economía y Hacienda, en los plazos o durante el período que él mismo determine.
+
+e) Como sanción, en los casos contemplados en el título VIII de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+
+Igualmente, cuando por su actuación generen un peligro u ocasionen un grave trastorno para el sistema de anotaciones en cuenta o, tratándose de Entidades Gestoras, para la seguridad de los valores de sus comitentes, el Banco de España podrá acordar su suspensión o la limitación del tipo o del volumen de las operaciones que puedan realizar las correspondientes Entidades durante el tiempo necesario para el restablecimiento de la normalidad. Estas medidas deberán ser comunicadas por el Banco de España al Ministerio de Economía y Hacienda para que el Ministro, en el plazo de dos días, ratifique o, en su caso, levante la medida.
+
+En el caso de que algún titular de cuenta o Entidad Gestora reincida en estas actuaciones y la suspensión sea ratificada por el Ministro de Economía y Hacienda, se procederá a revocarle definitivamente dicha condición, siguiendo los requisitos de informe y audiencia señalados en el párrafo primero.
+
+> Se modifican loa apartados 5, 8 y 10 por el art. 5 del Real Decreto 1009/1991, de 21 de junio. [Ref. BOE-A-1991-16485](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-16485).
+
+> Se modifica el apartado 10 por el art. único del Real Decreto 54/1988, de 29 de enero. [Ref. BOE-A-1988-2608](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-2608).
+
+> Redactado el apartado 12 conforme a la corrección de errores publicada en BOE núm. 128, de 29 de mayo. [Ref. BOE-A-1987-12889](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-12889).
+
+## Disposición adicional
+
+El régimen que para la Deuda del Estado representada en anotaciones en cuenta establece este Real Decreto y las disposiciones que lo desarrollen será aplicable a la Deuda del Tesoro. No obstante, sólo se aplicará a los Pagarés del Tesoro cuando, a la vista de la experiencia adquirida, lo decida el Ministerio de Economía y Hacienda en atención a la mayor eficacia en la gestión y al mejor funcionamiento de sus mercados.
+
+El presente Real Decreto entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+## Disposición final única. Extensión del régimen de la Deuda del Estado a las de otras entidades.
+
+1\. Las referencias contenidas en este Real Decreto y sus disposiciones complementarias a los valores de la Deuda del Estado, representados por medio de anotaciones en cuenta, se entenderán hechas también a los valores que, bajo esa forma de representación, emitan el Banco Central Europeo, los Bancos centrales nacionales de la Unión Europea o las Comunidades Autónomas, así como, siempre que lo autorice el Ministerio de Economía, a solicitud del emisor, los Bancos multilaterales de los que España sea miembro, el Banco Europeo de Inversiones, las entidades locales u otras entidades públicas.
+
+2\. Los emisores que, al amparo de lo establecido en el artículo 55 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, pretendan incluir sus emisiones representadas por medio de anotaciones en cuenta en la Central de Anotaciones, deberán presentar la correspondiente propuesta en el Banco de España, quien, a la vista de la memoria de emisión, la elevará, con su informe, a la consideración del Ministerio de Economía.
+
+> Se añade por la disposición adicional 3 del Real Decreto 705/2002, de 19 de julio. [Ref. BOE-A-2002-15542](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-15542).
+
+Dado en Madrid a 3 de abril de 1987.
+
+JUAN CARLOS R.
+
+El Ministro de Economía y Hacienda,
+
+CARLOS SOLCHAGA CATALÁN

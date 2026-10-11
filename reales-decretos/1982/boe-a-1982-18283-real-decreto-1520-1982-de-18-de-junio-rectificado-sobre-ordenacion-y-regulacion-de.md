@@ -1,0 +1,135 @@
+---
+title: "Real Decreto 1520/1982, de 18 de junio (rectificado), sobre ordenación y regulación de la artesanía"
+identifier: "BOE-A-1982-18283"
+eli: "https://www.boe.es/eli/es/rd/1982/06/18/1520(b)"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria y Energía"
+date: 1982-06-18
+published: 1982-07-21
+in_force_from: 1982-08-10
+last_amended: 2011-06-04
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 173"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-18283"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1520/1982, de 18 de junio (rectificado), sobre ordenación y regulación de la artesanía
+
+Habiéndose padecido error, por omisión, en el texto remitido para su publicación del Real Decreto 1520/1982, de 18 de junio, sobre ordenación y regulación de la artesanía, inserto en el «Boletín Oficial del Estado» número 187, de 18 de julio de 1982, se publica íntegro y debidamente rectificado.
+
+Los presupuestos básicos de la normativa ordenadora de la actividad artesana, contenidos en el Decreto trescientos treinta y cinco/mil novecientos sesenta y ocho, de veintidós de febrero, han quedado claramente desfasados con los cambios legislativos, políticos y administrativos acaecidos en el país desde su publicación, y de modo especial con la promulgación de la Constitución Española de mil novecientos setenta y ocho. Asimismo, el proceso de desarrollo económico vivido desde esa fecha ha supuesto cambios estructurales notables en el sector artesano que exige entre otros aspectos, modificar los criterios cualitativos y cuantitativos definitorios de la Empresa artesana.
+
+De igual modo, a fin de obtener la máxima eficacia en la coordinación de los Organismos competentes en materia de artesanía, conviene modificar el carácter, composición y funcionamiento de la anterior Comisión Nacional de Artesanía.
+
+Con este Real Decreto que ha merecido la conformidad preceptiva de la Comisión Nacional de Artesanía, se pretende fundamentalmente adecuar el marco legal de la acción administrativa de fomento de la artesanía a la nueva realidad del sector y del Estado.
+
+En su virtud, a propuesta del Ministro de Industria y Energía y previa deliberación del Consejo de Ministros en su reunión del día dieciocho de junio de mil novecientos ochenta y dos,
+
+DISPONGO:
+
+### Sección I
+
+#### Artículo primero.
+
+Se considera artesanía a los efectos de esta disposición, la actividad de producción transformación y reparación de bienes o prestación de servicio realizada mediante un proceso en el que la intervención personal constituye un factor predominante, obteniéndose un resultado final Individualizado que no se acomoda a la producción industrial, total-mente mecanizada o en grandes series.
+
+#### Artículo segundo.
+
+La acción administrativa adoptará como base la siguiente clasificación de actividades artesanas:
+
+a) Artesanía artística.
+
+b) Artesanía productora de bienes de consumo y complementaria de la industria y la agricultura.
+
+c) Artesanía de servicios.
+
+#### Artículo tercero.
+
+A los efectos de esta disposición se considera unidad artesana a toda unidad económica incluido el artesanado individual, que realizando una actividad que figure en el Repertorio de Oficios Artesanos, cumpla los siguientes requisitos.
+
+a) Que la actividad desarrollada sea de carácter preferentemente manual o cuando menos individualizada, sin que pierda tal carácter por el empleo de utillaje y maquinaria auxiliar.
+
+b) Que el número de trabajadores no familiares empleados con carácter permanente, no exceda de diez, excepción hecha de los aprendices alumnos.
+
+Gozarán igualmente de la condición de Unidad Artesana, las diversas Entidades, Asociaciones o Empresas comunitarias que se dediquen exclusivamente a la producción y comercialización de sus propios productos artesanos.
+
+#### Artículo cuarto.
+
+También podrán gozar de la Consideración de Unidad Artesana, las Empresas que superando el número de, trabajadores establecido en el apartado b) del artículo tercero de esta disposición, cumplan los demás requisitos previstos, previa solicitud de la Dirección General de la Pequeña y Mediana Industria, la cual resolverá en cada caso atendiendo fundamentalmente a la naturaleza de las actividades que desarrolla la Empresa.
+
+El Ministro de Industria y Energía oída la comisión Interministerial para la Artesanía, podrá modificar el número de trabajadores requerido para la consideración de Unidad Artesana.
+
+### Sección II
+
+#### Artículo quinto.
+
+El reconocimiento oficial por la Administración de la condición de Unidad Artesana se acredita mediante la inscripción en el Registro Artesano regulado por la Orden de este Ministerio de diez de febrero de mil novecientos sesenta y nueve.
+
+#### Artículo sexto.
+
+La inscripción en el Registro Artesano es voluntaria para todas las unidades artesanas, sin perjuicio de lo dispuesto en el Decreto mil setecientos setenta y cinco/mil novecientos sesenta y siete de veintidós de julio, sobre inscripción en el Registro Industrial.
+
+#### Artículo séptimo.
+
+No obstante el carácter voluntario de la inscripción en el Registro Artesano, la misma será requisito indispensable a los fines de poder acceder a los beneficios que la Administración del Estado tiene establecidos o establezca para la protección y fomento de la Artesanía.
+
+#### Artículo octavo.
+
+La inscripción en el Registro Artesano se extingue:
+
+a) Por renuncia del titular que figure inscrito en el Registro.
+
+b) Por incumplimiento de los requisitos establecidos en los artículos tercero y cuarto del presente Real Decreto.
+
+c) Por fallecimiento del titular.
+
+d) Por disolución de la Entidad, Asociación o Empresa comunitaria de que se trate.
+
+#### Artículo noveno.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única y anexo del Real Decreto 776/2011, de 3 de junio. [Ref. BOE-A-2011-9736](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9736).
+
+#### Artículo décimo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única y anexo del Real Decreto 776/2011, de 3 de junio. [Ref. BOE-A-2011-9736](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9736).
+
+#### Artículo undécimo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única y anexo del Real Decreto 776/2011, de 3 de junio. [Ref. BOE-A-2011-9736](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9736).
+
+## DISPOSICIÓN ADICIONAL
+
+El contenido de este Real Decreto deja a salvo las competencias asumidas en materia de artesanía por las Comunidades Autónomas, de acuerdo con sus Estatutos.
+
+## DISPOSICIONES FINALES
+
+#### Primera.
+
+El Ministerio de Industria y Energía, oída la Comisión Interministerial para la Artesanía, procederá, en el plaza máximo de un año, a la actualización del Repertorio de Oficios Artesanos.
+
+#### Segunda.
+
+Se autoriza al Ministerio de Industria y Energía para dictar las disposiciones necesarias parada mejor ejecución de lo dispuesto en el presente Real Decreto.
+
+## DISPOSICIÓN DEROGATORIA
+
+Queda derogado el Decreto trescientos treinta y cinco/mil novecientos sesenta y ocho, de veintidós de febrero, sobre Ordenación de la Artesanía, y el Decreto mil ochocientos diecisiete/mil novecientos setenta y cuatro, de veinte de junio, por el que se modificará el artículo once del Decrete trescientos treinta y cinco/mil novecientos sesenta y ocho, relativo a la Comisión Nacional de Artesanía.
+
+Dado en Madrid a dieciocho de junio de mil novecientos ochenta y dos.
+
+JUAN CARLOS R.
+
+El Ministro de Industria y Energía,
+
+IGNACIO BAYÓN MARINÉ

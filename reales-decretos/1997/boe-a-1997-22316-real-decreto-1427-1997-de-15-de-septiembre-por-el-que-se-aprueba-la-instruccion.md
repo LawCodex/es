@@ -1,0 +1,2926 @@
+---
+title: "Real Decreto 1427/1997, de 15 de septiembre, por el que se aprueba la instrucción técnica complementaria MI-IP 03 «Instalaciones petrolíferas para uso propio»"
+identifier: "BOE-A-1997-22316"
+eli: "https://www.boe.es/eli/es/rd/1997/09/15/1427"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria y Energía"
+date: 1997-09-15
+published: 1997-10-23
+in_force_from: 1998-04-23
+last_amended: 2023-03-18
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 254"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-22316"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1427/1997, de 15 de septiembre, por el que se aprueba la instrucción técnica complementaria MI-IP 03 «Instalaciones petrolíferas para uso propio»
+
+Incluye la corrección de errores publicada en BOE núm. 21, de 24 de enero de 1998. [Ref. BOE-A-1998-1458](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1458)
+
+La Ley 21/1992, de 18 de julio, de Industria, señala, en el apartado 5 del artículo 12, que «los Reglamentos de Seguridad Industrial de ámbito estatal se aprobarán por el Gobierno de la Nación, sin perjuicio de que las Comunidades Autónomas, con competencia legislativa sobre industria, puedan introducir requisitos adicionales sobre las mismas materias cuando se trate de instalaciones radicadas en su territorio».
+
+De acuerdo con ello, se ha elaborado la instrucción técnica complementaria MI-IP 03, referente a las instalaciones petrolíferas de que dispongan los consumidores finales para su propio uso o consumo, y en la que se han tenido en cuenta las soluciones técnicas disponibles en el actual nivel de conocimientos y experiencia práctica.
+
+La presente disposición ha sido sometida al procedimiento de información en materia de normas y reglamentaciones técnicas previsto en el Real Decreto 1168/1995, de 7 de julio, por el que se aplican las disposiciones de la Directiva 83/189/CEE del Parlamento Europeo y del Consejo, de 28 de marzo.
+
+En su virtud, a propuesta del Ministro de Industria y Energía, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 12 de septiembre de 1997,
+
+DISPONGO:
+
+### Artículo único.
+
+Se aprueba la instrucción técnica complementaria MI-IP 03 «Instalaciones petrolíferas para uso propio», del Reglamento de instalaciones petrolíferas aprobado por Real Decreto 2085/1994, de 20 de octubre, que se incluye como anexos al presente Real Decreto.
+
+### Disposición adicional única.
+
+La adecuación de las instalaciones petrolíferas para uso propio de las Fuerzas Armadas a las prescripciones contenidas en la instrucción que aprueba el presente Real Decreto, se efectuarán por los propios organismos encargados de su mantenimiento y utilización.
+
+Asimismo, las revisiones e inspecciones de las instalaciones petrolíferas para uso propio de las Fuerzas Armadas, que estén ubicadas dentro de las zonas de interés para la Defensa Nacional, serán realizadas por los órganos correspondientes de las Fuerzas Armadas.
+
+### Disposición transitoria primera.
+
+Las instalaciones petrolíferas para uso propio existentes con anterioridad a la fecha de entrada en vigor del presente Real Decreto, o que estuviesen en trámite en dicha fecha, podrán adaptarse a las prescripciones aquí establecidas, presentando un proyecto o escrito de adecuación (caso de exigirlo así la capacidad de almacenamiento) en un plazo de seis meses. En dicho proyecto se contemplará el plan de adopción de las medidas de seguridad a aplicar con plazos de cumplimiento que, en ningún caso sobrepasarán los cinco años.
+
+### Disposición transitoria segunda.
+
+Las instalaciones que no se adapten deberán someterse obligatoriamente a las revisiones e inspecciones establecidas en el capítulo X de la anexa ITC, disponiendo de los siguientes plazos para realizar la primera inspección:
+
+a) Instalaciones con más de treinta años: un año.
+
+b) Instalaciones entre veinte y treinta años: dos años.
+
+c) Instalaciones entre diez y veinte años: tres años.
+
+d) Instalaciones entre cinco y diez años: cuatro años.
+
+e) Instalaciones con menos de cinco años: cinco años.
+
+Todos ellos contados a partir de la entrada en vigor del presente Real Decreto.
+
+La fecha de antigüedad será la correspondiente al acta de puesta en marcha o autorización de funcionamiento de las instalaciones otorgadas por la Administración competente.
+
+Las revisiones e inspecciones serán realizadas de acuerdo con las exigencias del Reglamento según el cual fueron instaladas.
+
+### Disposición derogatoria única.
+
+En virtud de lo prevenido en la disposición derogatoria del Real Decreto 2085/1994, a la entrada en vigor de la instrucción técnica complementaria MI-IP 03 quedarán derogadas total o parcialmente, las disposiciones de igual o inferior rango al presente Real Decreto en lo que se opongan al mismo, y expresamente las siguientes:
+
+a) Decreto de 25 de enero de 1936, del Ministerio de Hacienda («Gaceta de Madrid» del 28), que aprueba el Reglamento a que han de someterse las instalaciones de la industria petrolífera.
+
+b) Real Decreto 2115/1984, de 10 de octubre, sobre características de los depósitos de almacenamiento en estaciones de autobuses.
+
+c) Orden de 21 de junio de 1968 por la que se aprueba el Reglamento sobre Utilización de Productos Petrolíferos para Calefacción y Otros Usos no Industriales.
+
+d) Resolución de la Dirección General de Energía y Combustibles, de 3 de octubre de 1969, por la que se dictan instrucciones complementarias del Reglamento sobre Utilización de Productos Petrolíferos para Calefacción y Otros Usos no Industriales.
+
+e) Orden de 3 de octubre de 1969 por la que se modifican los artículos 7. 9, 11 y 17 del Reglamento sobre Utilización de Productos Petrolíferos para Calefacción y Otros Usos no Industriales.
+
+f) Orden de 28 de junio de 1991 por la que se faculta a la Dirección General de la Energía a dictar casos de excepcionalidad en instalaciones de productos petrolíferos para calefacción y otros usos no industriales.
+
+### Disposición final única.
+
+El presente Real Decreto entrará en vigor a los seis meses de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 15 de septiembre de 1997.
+
+JUAN CARLOS R.
+
+El Ministro de Industria y Energía,
+
+JOSEP PIQUÉ I CAMPS
+
+## ANEXO I — INSTRUCCIÓN TÉCNICA COMPLEMENTARIA MI-IP03
+
+**Instalaciones de almacenamiento para su consumo en la propia instalación**
+
+> Se modifica por el art. 2, según se indica en el Anexo I, del Real Decreto 1523/1999, de 1 de octubre. [Ref. BOE-A-1999-20723](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-20723)
+
+> Redactado conforme a la corrección de errores publicada en BOE de 3 de marzo de 2000. [Ref. BOE-A-2000-4221](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4221)
+
+## CAPÍTULO I — Introducción
+
+1\. Objeto
+
+La presente «instrucción técnica complementaria (ITC)» tiene por objeto establecer las prescripciones técnicas a las que han de ajustarse las instalaciones para almacenamiento de carburantes y combustibles líquidos, para su consumo en la propia instalación.
+
+2\. Campo de aplicación
+
+La presente ITC se aplicará a las instalaciones de almacenamientos de carburantes y combustibles líquidos, para consumos industriales, agrícolas, ganaderas, domésticas y de servicio, así como a todos aquellos otros no contemplados de forma específica, pero que puedan ser considerados como semejantes, apreciándose identidad de razón con los expresamente previstos. A estos efectos, se establece la clasificación de instalaciones siguiente:
+
+2.1 Tendrán la consideración de instalaciones para consumo en la propia instalación:
+
+a) Instalaciones industriales fijas (hornos, quemadores para aplicaciones diversas, etc.).
+
+b) Instalaciones de almacenamiento de recipientes móviles que contengan carburantes y combustibles para uso industrial.
+
+c) Instalaciones de combustibles para calefacción, climatización y agua caliente sanitaria.
+
+d) Instalaciones fijas para usos internos no productivos en las industrias (grupos electrógenos, etc.).
+
+e) Instalaciones destinadas a suministrar combustible y/o carburante a medios de transporte interno, que operen sólo dentro de las empresas (carretillas elevadoras, etc.).
+
+f) Instalaciones destinadas a suministrar combustible y/o carburante a maquinaria, que no sea vehículo.
+
+2.2 No tendrán la consideración de instalaciones de almacenamiento para su consumo en la propia instalación, aquellas instalaciones que no aparezcan incluidas, expresa o tácitamente, en alguno de los supuestos previstos anteriormente o en el campo de aplicación de las ITCs MI-IP01, «Refinerías», o MI-IP02 «Parques de almacenamiento de líquidos petrolíferos», deberán regirse por la ITC MI-IP04.
+
+3\. Definiciones usadas en esta instrucción
+
+A los efectos de esta instrucción técnica complementaria, se entiende por:
+
+3.1 Aguas contaminadas: se entiende por aguas contaminadas aquéllas que no cumplan con las condiciones de vertido, de acuerdo con la legislación vigente al respecto.
+
+En general, se consideran como susceptibles de estar contaminadas las aguas en contacto con los productos, las de limpieza de los recipientes, cisternas y otras semejantes, así como las de lluvia y de protección contra incendios que, en su recorrido hacia el drenaje, puedan ponerse en contacto con elementos contaminantes.
+
+3.2 Almacenamiento: es el conjunto de recipientes de todo tipo que contengan o puedan contener líquidos, combustibles o carburantes, ubicados en un área que incluye los tanques propiamente dichos, sus cubetos de retención, las calles intermedias de circulación y separación, las tuberías de conexión y las zonas e instalaciones de carga, descarga y trasiego anejas.
+
+3.3 Área de las instalaciones: superficie delimitada por la proyección normal sobre un plano horizontal del perímetro de la instalación considerada.
+
+3.4 Cubeto: recipiente estanco que contiene en su interior algún/os elemento/s de almacenamiento y cuya misión es retener los productos contenidos en este/os elemento/s en caso de rotura de los mismos o de funcionamiento incorrecto del sistema de trasiego o manejo.
+
+3.5 Estación de bombeo: es aquella que tiene una capacidad de trasiego de producto mayor de 3,5 m<sup>3</sup>/h para los de clase B y 15 m<sup>3</sup>/h para los de las clases C y D.
+
+3.6 Inspección periódica: todo examen realizado con posterioridad a la puesta en servicio de las instalaciones, aparatos o equipos, para verificar el cumplimiento de los requisitos que se establecen en esta ITC. Realizada por la Administración competente o por organismo de control autorizado.
+
+3.7 Líquido: todo producto que en el momento de su almacenamiento tiene dicho estado físico, incluyendo los que tienen una fluidez mayor de 300 cuando se prueba según norma UNE 104 281, parte 4-2, «Prueba de penetración para materiales bituminosos y bituminosos modificados».
+
+3.8 Líquido combustible: es un líquido con punto de inflamación igual o superior a 38 ºC.
+
+3.9 Líquido inflamable: es un líquido con un punto de inflamación inferior a 38 ºC.
+
+3.10 Ovalización: es la diferencia entre el diámetro nominal y el diámetro real una vez enterrado el tanque (cuando se encuentra vacío) dividido por el diámetro nominal.
+
+3.11 Pila: es el conjunto de recipientes móviles no separados por pasillos o por recipientes con productos no inflamables o cuya combustión sea endotérmica en condiciones de fuego.
+
+3.12 Recipiente: toda cavidad con capacidad de almacenamiento o de retención de fluidos. A efectos de esta ITC, las tuberías, bombas, vasos de expansión, válvulas, no se consideran como recipientes.
+
+3.13 Resistencia al fuego: es la cualidad de un elemento constructivo que lo hace capaz de mantener durante cierto tiempo las condiciones de estabilidad mecánica, estanqueidad a las llamas y humos, ausencia de emisión de gases inflamables y aislamiento térmico cuando se le somete a la acción del fuego. Esta cualidad se valora por el tiempo que el material mantiene las condiciones citadas expresado en minutos, y se expresa por las siglas RF seguidas de la expresión numérica de tiempo. Su determinación se hará de acuerdo con las normas UNE 23 093, UNE 23 801 y UNE 23 802.
+
+3.14 Revisión periódica: toda revisión o prueba posterior a la puesta en servicio de los aparatos o equipos, realizada por una empresa instaladora habilitada según lo establecido en la Instrucción Técnica Complementaria MI-IP05 «Instaladores o reparadores y empresas instaladoras o reparadoras de productos petrolíferos líquidos», aprobada por Real Decreto 365/2005, de 8 de abril, u organismo de control.
+
+3.15 Titular de la instalación: persona física o jurídica que figura como responsable ante la Administración, de las obligaciones impuestas en la normativa y reglamentación vigente. Podrá ser el propietario, arrendatario, administrador, gestor o cualquier otra cuyo título le confiere esa responsabilidad.
+
+3.16 Tanque: recipiente diseñado para soportar una presión interna manométrica entre 0 y 98 kPa (1kg/cm<sup>2</sup>).
+
+3.17 Unidad de proceso: es el conjunto de elementos e instalaciones de producción.
+
+3.18 Uniones desmontables: son aquellas uniones estancas que, por diseño, están concebidas para poder ejecutar las operaciones de conexionado y desconexionado fácilmente, manteniendo intacta su cualidad de uniones estancas.
+
+3.19 Uniones fijas: son aquellas uniones estancas en las que la operación de desconexionado sólo puede realizarse por destrucción de las mismas, no manteniendo su cualidad de uniones estancas en un posterior conexionado, salvo que se realicen de nuevo como si se tratara de su primera ejecución, reponiendo los materiales de la unión.
+
+3.20 Vehículo: artefacto o aparato capacitado para circular por vías o terrenos públicos, tanto urbanos como interurbanos, por las vías y terrenos que, sin tener tal aptitud, sean de uso común y, en defecto de otras normas, por las vías y terrenos privados que sean utilizados por una colectividad indeterminada de usuarios, excluyéndose los artefactos o aparatos cuya única vía de circulación sea «el agua o el aire». No se considera vehículo al ferrocarril.
+
+3.21 Venteo: es el sistema diseñado para prevenir los efectos de las alteraciones bruscas de presión interna de un tanque de almacenamiento como consecuencia de las operaciones de transvase o de las variaciones de la temperatura ambiente.
+
+3.22 Vías de comunicación públicas: son las carreteras, caminos, calles y líneas de ferrocarril de uso público y libre circulación.
+
+3.23 Vías de comunicación de servicio: son las carreteras, caminos, calles y líneas de ferrocarril de circulación restringida o reglamentada.
+
+3.24 Zonas clasificadas: son los emplazamientos en los que haya o pueda haber gases o vapores inflamables en cantidad suficiente para producir mezclas explosivas o inflamables (norma UNE-EN 60079-10).
+
+3.25 Zona de carga y descarga: son aquellos lugares en los que se sitúan unidades de transporte o recipientes móviles para realizar operaciones de transvase de líquidos, entre las unidades de transporte o recipientes móviles y los almacenamientos o entre unidades de transporte.
+
+3.26 Zonas de fuego abierto: se consideran zonas de fuego abierto aquellas en las que, de forma esporádica o continuada, se producen llamas o chispas al aire libre, así como en las que existen superficies que pueden alcanzar temperaturas capaces de producir una ignición.
+
+A título indicativo y, no exhaustivo, se consideran como zonas de fuego abierto:
+
+Los hornos, calderas, forjas, gasógenos fijos o móviles y todo sistema de combustión, en general.
+
+Las instalaciones con motores de explosión o combustión interna utilizados en zonas con ambientes inflamables o explosivos, que no lleven protección antideflagrante.
+
+Los emplazamientos y locales en los que está permitido encender el fuego y fumar, por ejemplo: oficinas, comedores y otros lugares similares.
+
+4\. Área de las instalaciones
+
+A efectos de establecer las áreas de las instalaciones se deben considerar los límites siguientes:
+
+4.1 Estación de carga: el área que contiene los dispositivos de carga en posición normal de operación, más las cisternas de todos los vehículos en el supuesto de que carguen simultáneamente.
+
+4.2 Centrales de vapor de agua: el borde de las calderas con sus elementos de recuperación y conductos de humos, si están situados a la intemperie, o el edificio que las albergue, incluidas las turbinas de generación de energía eléctrica si las hubiera.
+
+4.3 Subestaciones eléctricas: el vallado más próximo que deba existir a su alrededor, o los límites del edificio donde estén contenidas.
+
+4.4 Tanques de almacenamiento: el área de la proyección sobre el terreno, tomada desde el borde de los tanques y recipientes similares.
+
+4.5 Almacenamiento: el área que contiene las instalaciones definidas para igual concepto en el apartado 3.2 de este capítulo.
+
+4.6 Balsas separadoras: el borde de la balsa a plena capacidad.
+
+4.7 Edificios: el área de proyección de las paredes exteriores.
+
+4.8 Estaciones de bombeo: el área que incluye el conjunto de bombas con sus accionamientos y valvulería aneja o el vallado mínimo que pudiera serle aplicable, o el edificio que las contenga.
+
+5\. Formas de almacenamiento
+
+El almacenamiento se podrá realizar en recipientes fijos o móviles.
+
+Con las limitaciones que por cada caso o producto que almacenen se establezca, los recipientes fijos se podrán instalar:
+
+Sobre el nivel del terreno, o de superficie.
+
+Semienterrados.
+
+Bajo el nivel del terreno, que pueden estar enterrados o en fosa.
+
+Los recipientes móviles se podrán apilar, en función de su forma, material y dimensiones, en las mismas condiciones que los recipientes fijos, excepto la de enterrados.
+
+> Se modifica el apartado 3.14 por el art. 6.1 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+> Se modifica por el art. 2, según se indica en el Anexo I, del Real Decreto 1523/1999, de 1 de octubre. [Ref. BOE-A-1999-20723](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-20723)
+
+> Redactado el apartado 3.16 conforme a la corrección de errores publicada en BOE núm. 21, de 24 de enero de 1998. [Ref. BOE-A-1998-1458](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1458)
+
+## CAPÍTULO II — Tanques de almacenamiento y equipos auxiliares
+
+6\. Tanques
+
+Los tanques se diseñarán y construirán conforme a las correspondientes normas UNE-EN 976-1, UNE 53 432, UNE 53 496, UNE 62 350, UNE 62 351 y UNE 62 352.
+
+En ausencia de normas para el cálculo se justificará, como mínimo, lo siguiente:
+
+Resistencia del material utilizado. Para el cálculo se usará un valor menor o igual al 40 por 100 de resistencia a la rotura y al 80 por 100 del límite elástico.
+
+Resistencia mecánica del tanque lleno de agua.
+
+Presión y depresión en carga y descarga.
+
+Medidas suplementarias por condiciones de corrosión interior o exterior.
+
+Idoneidad entre el material del tanque y el líquido a contener.
+
+Los tanques se podrán construir de chapa de acero, polietileno de alta densidad, plástico reforzado con fibra de vidrio u otros materiales, siempre que se garantice la estanqueidad.
+
+Asimismo, se podrán construir tanques de doble pared, cuyas paredes podrán ser del mismo o distinto material.
+
+Se podrán instalar tanques compartimentados para contener diferentes productos.
+
+7\. Tuberías y accesorios
+
+El material de las tuberías para las conducciones de hidrocarburos podrá ser de acero al carbono, cobre, plástico u otro adecuado al producto que se trate, siempre que cumplan las normas aplicables UNE 19 011, UNE 19 040, UNE 19 041, UNE 19 045 y UNE 19 046. Podrán utilizarse tuberías de materiales sobre los que no exista normativa aplicable, siempre que dispongan de un certificado extendido por un laboratorio oficial acreditado, nacional o de un país miembro de la UE, en el que se certifique el cumplimiento de los siguientes requisitos:
+
+a) Resistencia química interna y externa a los productos petrolíferos.
+
+b) Permeabilidad nula a los vapores de los productos petrolíferos.
+
+c) Resistencia mecánica adecuada a la presión de prueba.
+
+Para la tubería de cobre el espesor de pared mínimo será de un milímetro.
+
+Las uniones de los tubos entre sí y de éstos con los accesorios se harán de acuerdo con los materiales en contacto y de forma que el sistema utilizado asegure la resistencia y estanqueidad, sin que ésta pueda verse afectada por los distintos carburantes o combustibles que se prevea conduzcan, no admitiéndose las uniones roscadas/embridadas salvo en uniones con equipos o que puedan ser permanentemente inspeccionables visualmente.
+
+Las conducciones tendrán el menor número posible de uniones en su recorrido. Estas podrán realizarse mediante sistemas desmontables y/o fijos.
+
+Las uniones desmontables deberán ser accesibles permanentemente.
+
+En tuberías de acero, los cambios de dirección se practicarán, preferentemente, mediante el curvado en frío del tubo, tal como se especifica en la norma UNE 37 505 o UNE 19 051, según sea galvanizada o sin galvanizar. Si el radio de curvatura fuera inferior al mínimo establecido en normas, el cambio de dirección se resolverá mediante la utilización de codos de acero para soldar según norma UNE 19 071, o mediante codos y curvas de fundición maleable definidas en la norma UNE-EN 10242.
+
+Cuando las tuberías se conecten a tubuladuras situadas en la boca de hombre, se realizará mediante uniones desmontables de forma que permitan liberar completamente el acceso de la boca de hombre, para lo cual deberán disponer de los acoplamientos suficientes y necesarios para su desconexión.
+
+El diámetro de las tuberías y sus accesorios se calcularán en función del caudal, de la longitud de la tubería y de la viscosidad del líquido a la temperatura mínima que pueda alcanzar.
+
+8\. Conexiones
+
+8.1 Carga del tanque. La carga o llenado se realizará por conexiones formadas por dos acoplamientos rápidos abiertos, un macho y otro hembra, para que por medio de éstos se puedan realizar transferencias de los carburantes y combustibles líquidos de forma estanca y segura.
+
+Serán de tipo de acoplamiento rápido, construidos de acuerdo con una norma de reconocido prestigio. Será obligatorio que sean compatibles entre el camión cisterna, vagón cisterna o cualquier medio de transporte del líquido y la boca de carga. Las conexiones rápidas serán de materiales que no puedan producir chispas en el choque con otros materiales.
+
+El acoplamiento debe garantizar su fijación y no permitir un desacoplamiento fortuito.
+
+Los acoplamientos deben asegurar la continuidad eléctrica.
+
+En los tanques con capacidad nominal superior a 3.000 litros, se instalarán dispositivos para evitar un rebose por llenado excesivo.
+
+Para tanques de superficie de capacidad nominal igual o inferior a 3.000 litros y con productos de las clases C o D, la carga podrá realizarse por medio de un boquerel a un orificio apropiado a tal efecto.
+
+La tubería de carga, en los tanques de capacidad superior a los 1.000 litros, entrará en el tanque hasta 15 cm del fondo y terminará, preferentemente, cortada en pico de flauta, y su diámetro no podrá ser inferior al del acoplamiento de descarga.
+
+Cuando el líquido almacenado sea de la clase C o D, el final de la misma podrá realizarse en forma de cayado, para que el líquido al salir no remueva los fondos del tanque, utilizándose, a tal fin, tubo curvado, comúnmente denominado «descarga curva hamburguesa de 180<sup>o</sup>».
+
+La carga o llenado del tanque podrá hacerse por gravedad o forzada. Cuando ésta sea por gravedad, la tubería tendrá una pendiente mínima hacia el tanque de, al menos, el 1 por 100.
+
+La boca de carga se situará a una distancia no superior a 10 m de la zona de carga. En caso contrario se justificará debidamente.
+
+Se evitará en todo momento la presurización del tanque.
+
+En todos los casos los caudales mínimos de llenado serán los siguientes:
+
+10 metros cúbicos por hora en instalaciones con capacidad de almacenamiento igual o inferior a 5 metros cúbicos.
+
+20 metros cúbicos por hora en instalaciones con capacidad de almacenamiento comprendida entre 5 y 50 metros cúbicos.
+
+40 metros cúbicos por hora para instalaciones con capacidad de almacenamiento superior a 50 metros cúbicos.
+
+8.2 Ventilación. Los tanques dispondrán de una tubería de ventilación de un diámetro interior mínimo de 25 mm para capacidades menores o iguales a 3.000 litros y de 40 mm para el resto, que accederá al aire libre hasta el lugar en el que los vapores expulsados no puedan penetrar en los locales y viviendas vecinos ni entrar en contacto con fuente que pudiera provocar su inflamación, protegiendo su salida contra la introducción de cuerpos extraños. Se calculará de forma que la evacuación de los gases no provoquen sobrepresión en el tanque.
+
+La aireación para tanques con volumen de almacenamiento total inferior o igual a 1.500 litros de productos de clase C o D podrá desembocar en espacios o locales cerrados con una superficie mínima de ventilación de 200 cm<sup>2</sup> al exterior.
+
+La boca de salida de ventilación del tanque deberá protegerse con una rejilla cortafuegos y, siempre que sea posible, será visible desde la boca de descarga del producto.
+
+Si se trata de instalaciones con tanques por debajo del nivel del suelo, la conducción de aireación debe desembocar al menos 50 cm sobre el orificio de llenado o entrada al tanque de la tubería de carga y, al menos, 50 cm sobre el nivel del suelo. En el caso de instalaciones con tanques sobre el nivel del suelo, la tubería de aireación y el orificio de llenado o entrada al tanque de la tubería de carga pueden acabar, prácticamente, a la misma altura.
+
+La tubería tendrá una pendiente hacia el tanque, tal que permita la evacuación de los posibles condensados y, como mínimo, ésta será del 1 por 100.
+
+Varios tanques que contengan la misma clase de un mismo producto pueden conectarse a un solo conducto de respiración, pero siempre el diámetro del conducto único de salida será como mínimo igual al mayor de los conductos individuales.
+
+8.3 Extracción del producto del tanque. La extracción del producto podrá realizarse por aspiración, impulsión o gravedad.
+
+La tubería de extracción se dimensionará de acuerdo al caudal de suministro de los equipos correspondientes y a las normas que los fabricantes de los mismos recomienden.
+
+Justo a la salida del tanque de almacenamiento se instalará en la tubería una válvula de cierre rápido que durante el funcionamiento normal de la instalación permanecerá abierta. En casos debidamente justificados, esta válvula podrá ser suprimida.
+
+La tubería podrá situarse al fondo del tanque o flotante en la superficie del líquido almacenado. Con el fin de evitar el vaciado de la tubería hasta el equipo, dispondrá de válvula antirretorno siempre que sea necesario.
+
+Cuando la tubería esté situada al fondo del tanque deberá dejar una altura libre que evite el estrangulamiento de la aspiración.
+
+Cuando la tubería tenga disposición flotante, se realizará con materiales resistentes al líquido a almacenar y dispondrá de certificado de calidad del fabricante indicando para qué líquidos es apropiada su utilización.
+
+8.4 Retorno. Las tuberías de retorno, de ser necesaria su instalación, se dimensionarán de forma análoga a las de extracción.
+
+8.5 Conectores flexibles. Será admisible la utilización de elementos flexibles en las conexiones entre tubería rígida y equipos, en las tubuladuras del tanque y en los equipos de consumo, trasiego, bombeo, etc.
+
+Estarán construidos con material apropiado para la conducción de combustible líquido y reforzados o protegidos exteriormente por funda metálica u otro material de protección mecánica equivalente.
+
+Los conectores flexibles deberán ser accesibles de forma permanente y se garantizará su continuidad eléctrica cuando se utilicen con productos de clase B.
+
+9\. Protecciones
+
+9.1 Protección contra corrosión de las tuberías.
+
+9.1.1 Protección pasiva. Las tuberías de acero y fundición enterradas serán protegidas contra la corrosión por la agresividad y humedad del terreno mediante una capa de imprimación antioxidante y revestimientos inalterables a los hidrocarburos que aseguren una tensión de perforación mínima de 15 kV.
+
+Las tuberías aéreas y fácilmente inspeccionables se protegerán con pinturas antioxidantes con características apropiadas al ambiente donde se ubiquen.
+
+9.1.2 Protección activa. En el caso de que los tanques tengan protección activa, las tuberías de acero tendrán continuidad eléctrica con los tanques y en función del tipo de red general de tierra pueden darse dos casos:
+
+A) Si la red general de tierras es de cable galvanizado desnudo o cable de cobre recubierto y picas de zinc, los tubos y tanques tendrán continuidad con la red general de tierras.
+
+B) Si la red general de tierras es de cobre desnudo y existe una tierra local de zinc, los tubos de extracción de combustible de acero dispondrán de juntas aislantes en los puntos en que afloran a la superficie.
+
+Si las tuberías enterradas son de cobre se aislarán eléctricamente de los tanques si estos son de acero y enterrados. No se instalarán juntas dieléctricas en Zona 0.
+
+Los tubos de venteo y de descarga no tendrán juntas aislantes, no se unirán a la red general y se conectarán a la tierra local de zinc junto a la pinza del camión.
+
+Si las bombas son sumergidas, su tierra no se unirá a la red general de cobre y sí a la red local de zinc.
+
+Es esencial evitar el contacto entre los tanques y tuberías acero y fundición enterradas y la red general de tierra de cobre.
+
+Las tuberías de impulsión de acero de simple pared tendrán protección activa.
+
+9.2 Puesta a tierra.
+
+En los almacenamientos de combustibles clase B, todas las tuberías y elementos metálicos aéreos se conectarán a la red general de tierra, no siendo necesaria en las instalaciones de líquidos clase C y D.
+
+Para evitar riesgos de corrosión, o para permitir una protección catódica correcta, los tubos de acero y fundición metálicos enterrados no se unirán a un sistema de tierra en el que existan metales galvánicamente desfavorables para el acero, como el cobre, en contacto directo con el terreno.
+
+Los elementos enterrados de acero, tanques y tuberías, sólo se unirán a la red general si no existe riesgo galvánico para los mismos por estar ésta construida en cable galvanizado o cable de cobre recubierto y picas de zinc.
+
+En caso de que la red general sea de cobre, los tubos y tanques metálicos enterrados se unirán a una tierra local de zinc y se aislaran de la red general de cobre. Es esencial evitar el contacto entre los tanques y tuberías de acero enterrados y la red general de tierra de cobre.
+
+Junto a cada puesto de carga o descarga de productos de la clase B existirá un conductor flexible, permanentemente conectado por un extremo a la citada red a tierra y por otro a una pieza de conexión de longitud suficiente para conectar la masa de la cisterna del camión o del vagón correspondiente, con anterioridad y durante las operaciones de carga y descarga.
+
+La conexión eléctrica de la puesta a tierra será a través de un interruptor manual, con grado de protección adecuado al tipo de zona del emplazamiento donde va instalado. El cierre del interruptor se realizará siempre después de la conexión de la pinza al camión cisterna.
+
+Para la puesta a tierra se tendrá en cuenta lo especificado en el informe UNE 109 100.
+
+La pinza y la borna de la puesta a tierra para el control de la electricidad estática cumplirán la norma UNE 109 108, partes 1 y 2.
+
+La tierra para el camión se unirá a la red general de tierras si ésta es de hierro galvanizado o en la red local de zinc si la red general es de cobre.
+
+10\. Controles y pruebas de tuberías
+
+10.1 De resistencia y estanqueidad. Se realizarán pruebas de estanqueidad de acuerdo con lo establecido en la norma UNE 100 151, «Pruebas de estanqueidad en tuberías».
+
+10.2 Controles. Antes de enterrar las tuberías se controlará, al menos visualmente, la protección contra la corrosión, y la formación de bolsas o puntos bajos.
+
+11\. Reparación de tanques y transformación de tanques enterrados de simple a doble pared.
+
+11.1 Reparación de tanques de acero instalados.
+
+La reparación de tanques de acero para combustibles y carburantes sólo podrá realizarse si se cumplen los requisitos especificados en el informe UNE 53.991.
+
+Los procedimientos o sistemas para realizarla deberán estar amparados por un estudio-proyecto genérico que deberá estar suscrito por técnico titulado competente, el cual deberá ser presentado ante el órgano competente en materia de industria de la comunidad autónoma. El mismo comprenderá todas las fases de actuación, ensayos, pruebas obligatorias, según describe el referido informe UNE 53.991.
+
+Las reparaciones e intervenciones, según el procedimiento o sistema, sólo podrán realizarlas las empresas habilitadas para tal fin según lo establecido en la Instrucción Técnica Complementaria MI-IP05 «Instaladores o reparadores y empresas instaladoras o reparadoras de productos petrolíferos líquidos», aprobada por Real Decreto 365/2005, de 8 de abril, siempre bajo la supervisión de un reparador de P.P.L. de la empresa.
+
+Una vez terminadas las obras de reparación de los tanques e instalaciones afectadas y antes de ponerlas en servicio se someterán a una prueba de estanqueidad certificada por un organismo de control autorizado, levantando el acta correspondiente, que podrá ser suscrita conjuntamente con el responsable de la empresa instaladora-reparadora y por el titular de la instalación o representante autorizado por éste. El sistema para realizar la prueba cumplirá lo establecido en el punto 38.2 de esta ITC.
+
+Dicho certificado, será remitido al órgano competente en materia de Industria de la comunidad autónoma para unirla a su expediente, sirviendo éste como autorización para la reanudación de las actividades y el funcionamiento de las instalaciones afectadas por la reparación.
+
+En el supuesto de que para la reparación haya que transportarse el tanque sin desgasificar, se deberán cumplir las normas establecidas en el Acuerdo europeo sobre el transporte internacional de mercancías peligrosas por carretera (ADR), o, en su caso, el Reglamento relativo al transporte internacional de mercancías peligrosas por ferrocarril (RID).
+
+11.2 Transformación de tanques enterrados de simple a doble pared.
+
+La reparación transformación de tanques enterrados de simple a doble pared solo podrá realizarse si se cumplen los requisitos especificados en la norma UNE 62422 o en la norma UNE 53935.
+
+Los procedimientos de construcción de tanques de doble pared por transformación *in situ,* de tanques de acero de simple pared o tanques de plástico reforzados con fibra de vidrio de simple pared, deberán estar amparados por un estudio-proyecto genérico que deberá estar suscrito por técnico titulado competente y ser presentado ante el órgano territorial competente. El mismo comprenderá todas las fases de actuación, ensayos y pruebas obligatorias, según describe, dependiendo del material del tanque de simple pared, en las citadas normas UNE 62422 o UNE 53935.
+
+A los tanques así transformados no tendrán que realizar las pruebas periódicas de estanqueidad previa comunicación, al órgano territorial competente, de la reforma efectuada en la instalación. Cuando se detecte una fuga se procederá a la reparación o sustitución del tanque.
+
+12\. Calentamiento del combustible
+
+Los combustibles de las clases C y D, se podrán someter a calentamiento de acuerdo con sus propiedades físicas y con las características de la instalación.
+
+> Se modifica el apartado 11 por la disposición final 2.2 del Real Decreto 145/2023, de 28 de febrero. [Ref. BOE-A-2023-7056](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7056)
+
+> Se modifican el segundo y tercer párrafo del apartado 11 por el art. 6.2 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+> Se modifica por el art. 2, según se indica en el Anexo I, del Real Decreto 1523/1999, de 1 de octubre. [Ref. BOE-A-1999-20723](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-20723)
+
+## CAPÍTULO III — Instalación de tanques
+
+13\. Almacenamiento en recipientes fijos
+
+Los tanques podrán estar instalados dentro y fuera de edificaciones y se alojarán de acuerdo con lo que indiquen los correspondientes informes UNE-EN 976(2), UNE 53.990, UNE 53.993, UNE 109.500, UNE 109.501 y UNE 109.502.
+
+13.1 Enterrados. La situación con respecto a fundaciones de edificios y soportes se realizará, a criterio del técnico autor del proyecto de tal forma que las cargas de éstos no se transmitan al recipiente. La distancia desde cualquier parte del tanque a los límites de propiedad no será inferior a medio metro.
+
+Los tanques se instalarán con sistema de detección de fugas, tal como cubeto con tubo buzo, doble pared con detección de fugas, u otro sistema debidamente autorizado por el órgano competente de la correspondiente Comunidad Autónoma.
+
+Se limitará la capacidad total de almacenamiento, en interior de edificaciones, a 30 m<sup>3</sup> para líquidos de la clase B y 100 m<sup>3</sup> para los de las clases C y D. El órgano competente de la Comunidad Autónoma podrá autorizar que se superen estas cantidades en casos, a su juicio, excepcionales, debidamente justificados.
+
+13.2 De superficie. Los tanques, en caso de ser necesario, dispondrán de protección mecánica contra impactos exteriores. Los tanques de simple pared estarán contenidos en cubetos.
+
+Los almacenamientos con capacidad no superior a 1.000 litros de productos de las clases C o D, no precisarán cubeto, debiendo disponer de una bandeja de recogida con una capacidad de, al menos, el 10 por 100 de la del tanque.
+
+13.2.1 Interior de edificaciones. La capacidad total de almacenamiento dentro de edificaciones se limitará a 3m<sup>3</sup> para los productos de la clase B y a 100 m<sup>3</sup> para los productos de las clases C y D.
+
+En los almacenamientos con capacidad no superior a 5.000 litros para los productos de las clases C y D, la distancia mínima entre el tanque y la caldera u otro elemento que produzca llama o calor será de 1 metro en proyección horizontal o en su defecto 0,5 metros con tabique de separación entre ambos, con una resistencia mínima al fuego de 120 minutos.
+
+En todos los casos, la temperatura superficial en el tanque no será superior a 40 <sup>o</sup>C.
+
+Todos los almacenamientos de la clase B y los de capacidad superior a 5.000 litros de las clases C y D, deberán estar situados en recinto dedicado exclusivamente a este fin. La puerta y ventanas se abrirán hacia el exterior, teniendo el acceso restringido, siendo convenientemente señalizado. Este recinto podrá ser simplemente un cubeto, en caso de estar situado en una nave o edificio industrial.
+
+De acuerdo con la clasificación establecida en el artículo 19 de la NBE-CPI/96, los recintos que almacenen productos de la clase B tendrán la consideración de local de riesgo alto, los de la clase C de riesgo medio, y los de la clase D de riesgo bajo.
+
+Las instalaciones eléctricas e iluminación del recinto cumplirán el Reglamento electrotécnico de baja tensión.
+
+En la puerta, por su cara exterior o junto a ella, se colocará un letrero escrito con caracteres fácilmente visibles que avisen: «Atención-depósito de combustible-prohibido fumar, encender fuego, acercar llamas o aparatos que produzcan chispas».
+
+En edificios de uso colectivo, entendiéndose por tal la existencia de varios titulares de actividades o viviendas dentro del mismo edificio en altura y siempre que el almacenamiento sea para uso exclusivo en calefacción y/o ACS la capacidad máxima de almacenamiento, en una vivienda será de 400 litros. En este caso, los tanques estarán contenidos en una bandeja de recogida de derrames de al menos una capacidad del 10 por 100 de la del tanque. Se podrán almacenar hasta 800 litros si se instalan dentro de un cubeto y la resistencia del edificio lo permite.
+
+13.2.2 Exterior de edificación. La capacidad del cubeto cuando contenga un solo tanque será igual a la de éste, y se establece considerando que tal recipiente no existe; es decir, será el volumen de líquido que pueda quedar retenido dentro del cubeto incluyendo el del recipiente hasta el nivel de líquido del cubeto.
+
+Cuando varios tanques se agrupen en un mismo cubeto, la capacidad de éste será, al menos, igual al mayor de los siguientes valores:
+
+El 100 por 100 del tanque mayor, considerando que no existe éste, pero sí los demás; es decir, descontando del volumen total del cubeto vacío el volumen de la parte de cada recipiente que quedaría sumergido bajo el nivel del líquido, excepto el del mayor.
+
+El 10 por 100 de la capacidad global de los tanques, considerando que no existe ningún recipiente en su interior.
+
+El cubeto será impermeable, y tendrá una inclinación del 2 por 100 hacia una arqueta de recogida y evacuación de vertidos.
+
+13.3 En fosa. La fosa debe ser estanca.
+
+Las instalaciones en fosa podrán ser de tres tipos:
+
+Fosa cerrada (habitación enterrada).
+
+Fosa abierta.
+
+Fosa semiabierta.
+
+13.3.1 Fosa cerrada. Las instalaciones de esta disposición, se considerarán para dimensiones y diseño de la misma como si se tratase de instalación de superficie en interior de edificación. La cubierta de la fosa podrá estar a distinta cota que la natural del terreno circundante.
+
+13.3.2 Fosa abierta. Son instalaciones en las que el almacenamiento está por debajo de la cota del terreno, sin estar cubierto ni cerrado. Se tendrán en cuenta las consideraciones de almacenamientos de superficie en el exterior de edificación, en los que las paredes de la excavación hagan las veces de cubeto. La profundidad de la fosa vendrá definida por el autor del proyecto.
+
+Asimismo, y dependiendo de la profundidad de la fosa y de la red de aguas pluviales, se tomarán las disposiciones oportunas para eliminar las aguas de lluvia.
+
+13.3.3 Fosa semiabierta. Se considerará fosa semiabierta cuando la distancia existente entre la cubierta y la fosa permita una correcta ventilación. La distancia mínima entre la cubierta y la coronación de las paredes, muros, etc., laterales de la fosa será de 50 centímetros.
+
+Ésta tendrá la consideración de instalación en fosa abierta, a todos los efectos, con la particularidad que al tener cubierta superior que impide entrar las aguas de lluvia, no hay que tener especial precaución con ellas.
+
+13.4 Semienterrados. Cuando, por necesidades constructivas, o por considerarlo oportuno el autor del proyecto, los tanques podrán adoptar la disposición de semienterrados, quedando los tanques recubiertos de arena lavada e inerte por todas sus partes, tal y como se deduce de la figura 1.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/253/20723_001.png)
+
+En donde, las dimensiones expresadas deben ser:
+
+a) debe estar comprendido entre 0,5 m como mínimo y 1,5 m como máximo.
+
+b) debe ser 1 m como mínimo.
+
+c) y d), según lo establecido en las normas UNE-EN 976(2) y UNE 109.502 (dependiendo del tipo de tanque).
+
+La distancia marcada para la cota b, coincidirá con la marcada para c cuando el tanque se rodee de un muro o pared de contención de la arena lavada e inerte.
+
+Estas instalaciones han de cumplir lo especificado para la instalación de tanques enterrados.
+
+13.5 Otras disposiciones. Se podrá adoptar cualquier otra disposición, del tanque recogida, en cualquiera de las normas de prestigio (UNE, DIN, EN, etc.), así como la que la buena práctica y el buen hacer del autor del proyecto determine y justifique.
+
+13.6 Distancia entre instalaciones fijas de superficie en el exterior de edificaciones y entre sus recipientes.
+
+13.6.1 Distancias entre instalaciones en general. Las distancias mínimas entre las diversas instalaciones que componen un almacenamiento y de éstas a otros elementos exteriores no podrán ser inferiores a los valores obtenidos por la aplicación del siguiente procedimiento:
+
+A. En el cuadro I, obtener la distancia a considerar.
+
+B. En el cuadro II, obtener el posible coeficiente de reducción en base a la capacidad total del almacenaje y aplicarlo a la distancia en A.
+
+C. Aplicar los criterios del cuadro III, a la distancia resultante en B.
+
+D. Las distancias así obtenidas no podrán ser inferiores a un metro, excepto las distancias entre instalaciones que puedan contener líquidos (recipientes, cargaderos y balsas separadoras), y los conceptos 9 y 10 del cuadro I que no podrán ser inferiores a:
+
+Subclase B<sub>1</sub> = 12 metros.
+
+Subclase B<sub>2</sub> = 8 metros.
+
+Clase C = 2 metros.
+
+A los efectos de medición de estas distancias se consideran los límites de las áreas de las instalaciones que se definen en el apartado 3 del capítulo I.
+
+La variación de la capacidad total de almacenamiento en combustibles clases C y D, como consecuencia de nuevas ampliaciones obliga a la reconsideración y posible modificación, de ser necesario, de distancias en las instalaciones existentes. El órgano competente en materia de industria de la Comunidad Autónoma podrá autorizar que no se modifiquen las distancias cuando el interesado justifique, por medio de un certificado de un organismo de control, que no se origina un riesgo adicional.
+
+Los tipos de instalaciones, que se consideran en esta ITC, son las siguientes:
+
+1\. Unidad de proceso.
+
+2\. Estación de bombeo.
+
+3.1 Tanque almacenamiento clase B (paredes del tanque).
+
+3.2 Tanque almacenamiento clases C y D (paredes del tanque).
+
+4.1 Estaciones de carga clase B.
+
+4.2 Estaciones de carga clases C y D.
+
+5\. Balsas separadoras.
+
+6\. Hornos, calderas, incineradores.
+
+7\. Edificios administrativos y sociales, laboratorios, talleres, almacenes y otros edificios independientes.
+
+8\. Estaciones de bombeo de agua contra incendios.
+
+9\. Límites de propiedades exteriores en las que puedan edificarse y vías de comunicación pública.
+
+10\. Locales y establecimientos de pública concurrencia.
+
+CUADRO I
+
+Distancia en metros entre instalaciones fijas de superficie en almacenamientos con capacidad superior a 50.000 m<sup>3</sup>
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/253/20723_002.png)
+
+Notas:
+
+(1) Salvo las bombas para transferencia de productos susceptibles de ser almacenados en el mismo cubeto, en cuyo caso es suficiente que estén situados fuera del cubeto (en casos especiales, por ejemplo, por reducción del riesgo, las bombas podrían situarse dentro del cubeto).
+
+(2) Salvo las bombas de transferencia propias de esta instalación.
+
+(3) Salvo los tanques auxiliares de alimentación o recepción directa del cargadero con capacidad inferior a 25 m<sup>3</sup>, que pueden estar a distancias no inferiores a:
+
+Clase B = 10 m.
+
+Clases C y D = 2 m.
+
+(4) Respecto a la vía de ferrocarril de la que se derive un apartadero para cargadero de vagones cisterna, esta distancia podría reducirse a 15 m con vallado de muro macizo situado a 12 m del cargadero y altura tal que proteja la instalación.
+
+No se considerará a efectos de distancias el sistema de bombeo del camión-cisterna que efectúe suministros de productos de la clase C a instalaciones para calefacción de viviendas o establecimientos administrativos, comerciales, docentes, sanitarios, etc., en vías de comunicación tanto públicas como restringidas.
+
+CUADRO II
+
+Coeficientes de reducción por capacidad
+
+| Capacidad total<br>–<br>m<sup>3</sup> | Coeficiente reducción |
+|---|---|
+| Q ≥ 50.000 | 1,00 |
+| 50.000 > Q ≥ 20.000 | 0,95 |
+| 20.000 > Q ≥ 10.000 | 0,90 |
+| 10.000 > Q ≥ 7.500 | 0,85 |
+| 7.500 > Q ≥ 5.000 | 0,80 |
+| 5.000 > Q ≥ 2.500 | 0,75 |
+| 2.500 > Q ≥ 1.000 | 0,70 |
+| 1.000 > Q ≥ 500 | 0,65 |
+| 500 > Q ≥ 250 | 0,50 |
+| 250 > Q ≥ 100 | 0,35 |
+| 100 > Q ≥ 50 | 0,20 |
+| 50 > Q ≥ 5 | 0,10 |
+| 5 > Q | 0,05 |
+
+No se computará a efectos de capacidad total de la instalación la que pueda existir en recipientes móviles, ni en tanques enterrados o en fosa cerrada.
+
+CUADRO III
+
+Reducciones de las distancias entre instalaciones fijas de superficie por protecciones adicionales a las obligatorias señaladas en el capítulo VII
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>Medidas o sistemas de protección adoptados</p>
+</td>
+<td rowspan="2">
+<p>Coeficiente de reducción</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nivel</p>
+</td>
+<td>
+<p>Cantidad</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Una.</p>
+</td>
+<td>
+<p>0,75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Dos o más.</p>
+</td>
+<td>
+<p>0,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Una o más.</p>
+</td>
+<td>
+<p>0,50</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Las distancias mínimas entre las instalaciones fijas de superficie exterior pueden reducirse mediante la adopción de medidas y sistemas adicionales de protección contra incendios. Las distancias susceptibles de reducción son las correspondientes al elemento de la instalación dotado de protección adicional respecto a otros que tengan o no protección adicional.
+
+A efectos de reducciones se definen los niveles de protección siguientes:
+
+Nivel 0. Protecciones obligatorias según el capítulo VII.
+
+Nivel 1. Elementos separadores resistentes al fuego, sistemas fijos de extinción de incendios de accionamiento manual y/o personal adiestrado, aplicados a las instalaciones que puedan ser dañadas por el fuego.
+
+Pueden ser:
+
+1\. Muros RF-120 situados entre las instalaciones.
+
+2\. Sistemas fijos de agua pulverizada, aplicada mediante boquillas conectadas permanentemente a la red de incendios, con accionamiento situado a más de 10 metros de la instalación protegida y diseñados de acuerdo con las normas UNE 23.501 a UNE 23.507, ambas inclusive.
+
+3\. Sistemas fijos de espuma para la inundación o cubrición del elemento de instalación considerado, con accionamiento situado a más de 10 metros de la instalación protegida y diseñados de acuerdo con las normas UNE 23.521 a UNE 23.526, ambas inclusive.
+
+4\. Otros sistemas fijos de extinción de incendios de accionamiento manual (por ejemplo: polvo seco, CO<sub>2</sub>) especialmente adecuados al riesgo protegido y diseñados de acuerdo con las normas UNE correspondientes.
+
+5\. Brigada de lucha contra incendios propia (formada por personal especialmente adiestrado en la protección contra incendios mediante formación adecuada, periódica y demostrable) incluyendo los medios adecuados que deben determinarse especialmente, un plan de autoprotección, y una coordinación adecuada con un servicio de bomberos.
+
+Es equivalente a lo anterior la localización de la planta en una zona dedicada específicamente a este tipo de instalaciones (tales como áreas de inflamables o similares) y con una distancia mínima a zonas habitadas urbanas de 1.000 metros. Dicha zona deberá contar con buenos accesos por carretera, con un servicio de bomberos a menos de 10 km y menos de 10 minutos, para el acceso de los mismos y con un sistema de aviso adecuado.
+
+Se valorará positivamente a estos efectos la existencia de un plan de ayuda mutua, en caso de emergencia, puesto en vigor entre entidades diferentes localizadas en las cercanías.
+
+6\. Sistemas de agua DCI (red, reserva y medios de bombeo) con capacidad de reserva y caudales 1,5 veces la de diseño obligado.
+
+7\. Tener red de DCI, conforme a lo dispuesto en el apartado correspondiente del capítulo VII de esta ITC, las instalaciones que no estén obligadas. Dicha red deberá ser capaz de aportar como mínimo un caudal de 24 m<sup>3</sup>/h de agua.
+
+8\. Tener medios para verter, de forma eficaz y rápida, espuma en el área de almacenamiento considerada, las instalaciones que no están obligada a ello.
+
+Se dispondrá de una capacidad de aplicación mínima de 11,4 m<sup>3</sup>/h durante, al menos, 30 minutos.
+
+9\. Disponer de hidrantes en número suficiente para que cada punto de la zona de riesgo esté cubierto por dos hidrantes, que además estén ubicados convenientemente para actuar de forma alternativa en caso de que el siniestro pueda afectar a uno de ellos.
+
+10\. Detectores automáticos fijos, con alarma, de mezclas explosivas (de forma directa o mediante la concentración) en la zona circundante a la instalación.
+
+11\. Otras de eficacia equivalente que puedan proponerse, de forma razonable y justificada, en los proyectos.
+
+Nivel 2. Sistemas fijos de accionamiento automático aplicados a las instalaciones.
+
+Pueden ser:
+
+1\. Sistemas fijos de inertización permanente mediante atmósfera de gas inerte en el interior de los recipientes de almacenamiento.
+
+2\. Los sistemas mencionados en los puntos 2, 3 y 4 del nivel 1 pero dotados de detección y accionamientos automáticos.
+
+3\. Las instalaciones que no estén obligadas, tener DCI con bomba de presurización automática, abastecimiento exclusivo para este fin y para un mínimo de 2,5 horas con caudal mínimo de 60 m<sup>3</sup>/h y presiones mínimas indicadas en el capítulo VII.
+
+4\. Doble reserva y capacidad de aplicación de espuma del que resulte por cálculo en la ITC.
+
+5\. Monitores fijos que protejan las áreas circundantes a la instalación considerada, supuesto que se disponga del caudal de agua requerida para la alimentación de los mismos.
+
+6\. Para productos de la subclase B1: techo flotante en el tanque de almacenamiento y sistema fijo de espuma, de accionamiento manual.
+
+La adopción de más de una medida o sistema de nivel 1 de distinta índole (por ejemplo: muro cortafuegos, sistemas fijos o brigada de lucha contra incendios), equivale a la adopción de una medida o sistema del nivel 2.
+
+Solamente se puede aplicar una (y una sola vez) de entre las reducciones que figuran en el cuadro III.
+
+13.6.2 Distancia entre recipientes de superficie con capacidad unitaria superior a 5.000 litros para productos de las clases C y D y para todos los de la clase B.–La distancia entre las paredes de los recipientes será la que figura en el cuadro IV.
+
+CUADRO IV
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Clase de producto</p>
+</td>
+<td colspan="2">
+<p>Tipos de recipientes sobre los que se aplica la distancia</p>
+</td>
+<td>
+<p>Distancia mínima (D = dimensión según nota 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>B</p>
+</td>
+<td rowspan="2">
+<p>A recipientes con productos de clases B, C o D.</p>
+</td>
+<td>
+<p>Mismo cubeto.</p>
+</td>
+<td>
+<p>0,5 D (mín. 1,5 m.)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cubeto diferente.</p>
+</td>
+<td>
+<p>0,8 D (mín. 2 m.)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C</p>
+</td>
+<td colspan="2">
+<p>A recipientes para productos de clases C o D.</p>
+</td>
+<td>
+<p>0,2 D (mín. 0,5 m.)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D</p>
+</td>
+<td colspan="2">
+<p>A recipientes para productos de clase D.</p>
+</td>
+<td>
+<p>0,1 D (mín. 0,5 m.)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Nota 1: el valor de D será igual al diámetro del tanque para aquéllos que sean cilíndricos horizontalmente y dispuestos en paralelo (batería). Para aquellos en los que la generatriz sea vertical, D será igual al diámetro del recipiente, salvo que su generatriz sea superior a 1,75 veces el diámetro, en cuyo caso se tomará como D la semisuma de generatriz y diámetro.
+
+Para productos de la clase B el límite de distancia mínima podrá ser de 1 metro para tanque de capacidad igual o inferior a 50 m<sup>3</sup>.
+
+Si el almacenamiento de los productos de las clases C y D se efectúa a temperaturas superiores a las de su punto de inflamación, las distancias entre tanques se mantendrán de acuerdo con lo preceptuado para los productos de la clase B.
+
+CUADRO V
+
+Reducciones de las distancias entre recipientes por protección adicional a las obligaciones del capítulo VII
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>Medidas o sistemas de protección adoptados</p>
+</td>
+<td rowspan="2">
+<p>Coeficiente de reducción</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nivel</p>
+</td>
+<td>
+<p>Cantidad</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Una.</p>
+</td>
+<td>
+<p>0,9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Dos o más.</p>
+</td>
+<td>
+<p>0,8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Una.</p>
+</td>
+<td>
+<p>0,8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Dos o más.</p>
+</td>
+<td>
+<p>0,7</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Las distancias mínimas entre recipientes pueden reducirse mediante la adopción de medidas y sistemas adicionales de protección contra incendios.
+
+Las distancias susceptibles de reducción son las correspondientes al recipiente con protección adicional con respecto a otro que tenga o no protección adicional.
+
+A efectos de reducción se definen los niveles de protección siguientes:
+
+Nivel 0. Protección obligatoria según el capítulo VII.
+
+Nivel 1. Elementos separadores resistentes al fuego, sistemas fijos de extinción de incendios de accionamiento manual y brigada de lucha contra incendios propia.
+
+Pueden ser:
+
+1\. Muros RF-120 situados entre los recipientes.
+
+2\. Sistemas fijos de agua pulverizada aplicada sobre los recipientes mediante boquillas conectadas permanentemente a la red de incendio, con accionamiento desde el exterior del cubeto y diseñados conforme a las normas UNE 23.501 a 23.507, ambas inclusive.
+
+3\. Sistemas fijos de espuma física instalados permanentemente, con accionamiento desde el exterior del cubeto y diseñados conforme a las normas UNE 23.521 a UNE 23.526, ambas inclusive.
+
+4\. Brigada de lucha contra incendios propia (formada por personal especialmente adiestrado en la protección contra incendios mediante la formación adecuada, periódica y demostrable) incluyendo medios adecuados, que deben determinarse específicamente un plan de autoprotección y coordinación adecuada con un servicio de bomberos.
+
+Es equivalente a la anterior la localización de la planta en una zona dedicada específicamente a este tipo de instalaciones (tal como inflamables), y con distancia mínima a zonas habitadas urbanas de 1.000 metros. Dicha zona deberá contar con buenos accesos por carretera y con servicio de bomberos a menos de 10 km y menos de 10 minutos para el acceso de los bomberos con un sistema de aviso adecuado.
+
+5\. Sistema de agua de DCI con capacidad de reserva y caudales 1,5 veces, la de diseño obligado, como mínimo.
+
+6\. Tener red de DCI de acuerdo con la tabla 7.1. del capítulo VII, las instalaciones que no estén obligadas a ello.
+
+7\. Tener medios para verter, de forma rápida y eficaz, espuma en el cubeto, las instalaciones que no estén obligadas a ello.
+
+Se dispondrá de una capacidad de aplicación mínima de 11,4 m<sup>3</sup>/h durante al menos 30 minutos.
+
+8\. Disponer de hidrantes en números suficientes para que cada punto de la zona de riesgo esté cubierto por dos hidrantes que, además, estén ubicados convenientemente para actuar de forma alternativa en caso de siniestro que pueda afectar a uno de ellos.
+
+9\. Detectores automáticos fijos, con alarma, de mezclas explosivas (de forma directa o mediante la concentración) en la zona circundante a los tanques.
+
+10\. Otras de eficacia equivalente que puedan proponerse, de forma razonada y justificada, en los proyectos.
+
+Nivel 2. Sistemas fijos de accionamiento automático o brigada de lucha contra incendios propia.
+
+Pueden ser:
+
+1\. Sistemas fijos de inertización permanente mediante atmósfera de gas inerte en el interior de los recipientes.
+
+2\. Los sistemas mencionados en los puntos 2 y 3 del nivel 1, pero dotados de detección y accionamiento automáticos.
+
+3\. Brigada propia y permanente de bomberos, dedicada exclusivamente a esta función.
+
+4\. Para productos de la subclase B1: techo flotante para los tanques de eje vertical y sistema fijo de espuma de accionamiento manual.
+
+5\. Las instalaciones que no estén obligadas tener red DCI con bomba de presurización automática, abastecimiento exclusivo para este fin y para un mínimo de 12 horas con caudal mínimo de 60 m 3 /h y presión de acuerdo al capítulo VII.
+
+6\. Las paredes del tanque tengan una resistencia al fuego RF-60.
+
+7\. Doble caudal y doble sistema para inyección de espuma en los tanques del resultante por cálculos según la ITC.
+
+8\. Doble caudal de vertido de espuma al cubeto del resultante por cálculo según la ITC.
+
+9\. Doble reserva de espumógeno del que resulte por cálculo según la ITC. No es aplicable cuando se hayan adoptado las medidas 7 u 8 de este mismo grupo.
+
+10\. Otras de eficacia equivalente que puedan proponerse, de forma razonada y justificada, en los proyectos.
+
+La adopción de más de una medida o sistema de nivel 1, de distinta índole, equivale a la adopción de una medida del nivel 2.
+
+Solamente se puede aplicar una, y por una sola vez, de entre las reducciones que figuran en el cuadro V.
+
+14\. Almacenamiento en recipientes móviles
+
+14.1 Campo de aplicación. Las exigencias de este apartado se aplican a los almacenamientos en recipientes móviles con capacidad unitaria de hasta 1.000 litros para los de la clase B, y de 3.000 litros, para los de las clases C y D.
+
+14.2 Exclusiones. Quedan excluidos del alcance de este apartado los siguientes recipientes o almacenamientos:
+
+Los utilizados intermitentemente en instalaciones de proceso.
+
+Los almacenamientos cuando vayan a ser usados dentro de un período de treinta días y por una sola vez.
+
+14.3 Generalidades. Los recipientes móviles deberán cumplir con las condiciones constructivas, pruebas y máximas capacidades unitarias, establecidas en el Acuerdo europeo sobre el transporte internacional de mercancías peligrosas por carretera (ADR).
+
+Cuando el producto almacenado coexista con productos no combustibles ni miscibles, no se computarán, a efectos de volumen almacenado, las cantidades de estos últimos.
+
+La capacidad máxima de almacenamiento en el interior de edificios no superará la establecida para los tanques fijos y dispondrán obligatoriamente de un mínimo de dos accesos independientes señalizados, cuando la misma sea superior a 100 litros para la clase B, y 5.000 litros para la clase C. El recorrido máximo real (sorteando pilas u otro obstáculo) al exterior o a una vía segura de evacuación no será superior a 25 metros. En ningún caso la disposición de los recipientes obstruirá las salidas normales o de emergencia ni será obstáculo para el acceso a equipos o áreas destinados a la seguridad. Se exceptúa esto cuando la superficie de almacenamiento sea de 25 m<sup>2</sup> o la distancia a recorrer para alcanzar la salida sea inferior a 6 metros.
+
+Cuando se almacenen líquidos de diferentes clases en una misma pila o estantería se considerará todo el conjunto como un líquido de la clase más restrictiva. Si el almacenamiento se realiza en pilas o estanterías separadas, la suma de los cocientes entre las cantidades almacenadas y las permitidas para cada clase no superará el valor de 1.
+
+Las pilas de productos no inflamables ni combustibles pueden actuar como elementos separadores entre pilas o estanterías, siempre que estos productos no sean incompatibles con los productos inflamables almacenados.
+
+En el caso de utilizarse estanterías, estrados o soportes de madera, ésta será maciza y de un espesor mínimo de 25 milímetros.
+
+La instalación eléctrica se ejecutará de acuerdo con el Reglamento electrotécnico para baja tensión y en especial con su Instrucción MI-BT-026 «Prescripciones particulares para las instalaciones con riesgo de incendio o explosión». Los elementos mecánicos destinados al movimiento de los recipientes serán adecuados a las exigencias derivadas de las características de inflamabilidad de los líquidos almacenados.
+
+Cuando los recipientes se almacenen en estanterías o paletas se computará, a efectos de altura máxima permitida, la suma de las alturas de los recipientes.
+
+El punto más alto de almacenamiento no podrá estar a menos de un metro por debajo de cualquier viga, cercha, boquilla pulverizadora u otro obstáculo situado en su vertical, sin superar los valores indicados en las tablas II y III.
+
+No se permitirá el almacenamiento de productos de la subclase B1 en sótanos.
+
+Los almacenamientos en interiores dispondrán de ventilación natural o forzada. En caso de trasvasar líquidos de la subclase B1, el volumen máximo alcanzable no excederá de 10 litros por metro cuadrado de superficie o deberá existir una ventilación forzada de 0,3 m<sup>3</sup>/minuto y m<sup>2</sup> de superficie, pero no menos de 4 m<sup>3</sup>/min con alarma para el caso de avería en el sistema. La ventilación se canalizará al exterior mediante conductos exclusivos a tal fin.
+
+El recinto tendrá la consideración de local de riesgo alto de acuerdo con la clasificación establecida en el artículo 19 de la NBE-CPI/96.
+
+Se mantendrá un pasillo libre de 1 metro de ancho como mínimo, salvo que se exija una anchura mayor en el apartado específico aplicable.
+
+El suelo y los primeros 10 cm (a contar desde el mismo) de las paredes alrededor de todo el recinto de almacenamiento deberán ser estancos al líquido, inclusive en puertas y aberturas para evitar el flujo de líquidos a las áreas adjuntas. Alternativamente, el suelo podrá drenar a un lugar seguro.
+
+Los edificios destinados al almacenamiento industrial deberán disponer de instalaciones de pararrayos con las condiciones de diseño establecidas en la norma tecnológica de la edificación instalación de pararrayos (NTE-IPP).
+
+14.4 Clasificación de los almacenamientos. A efectos de esta ITC, los distintos tipos de almacenamiento de recipientes móviles serán de alguno de los tipos siguientes:
+
+Armarios protegidos.
+
+Salas de almacenamiento:
+
+Interior.
+
+Separada.
+
+Anexa.
+
+Almacenamientos industriales:
+
+Interiores.
+
+Exteriores.
+
+14.4.1 Armarios protegidos. Se consideran como tales aquéllos que tengan, como mínimo, una resistencia al fuego RF-15, conforme a la norma UNE 23.802. Los armarios deberán llevar un letrero bien visible con la indicación de «inflamable». No se instalarán más de tres armarios de este tipo en la misma dependencia, a no ser que cada grupo de tres esté separado un mínimo de 30 m para los combustibles clase B, y 10 m para los de clase C. En el caso de guardarse productos de la clase B, es obligatoria la existencia de una ventilación exterior.
+
+La cantidad máxima de líquidos que puede almacenarse en un armario protegido es de 25 litros para clase B, y 500 litros para la clase C.
+
+14.4.2 Salas de almacenamiento. Se consideran como tales las destinadas exclusivamente para los almacenamientos que se encuentran en edificios o parte de los mismos.
+
+Podrán ser de tres tipos:
+
+14.4.2.1 Sala de almacenamiento interiores aquélla que se encuentra totalmente cerrada dentro de un edificio y que no tiene paredes exteriores.
+
+Deberá tener la resistencia al fuego, densidad máxima de ocupación y volumen máximo permitido que se señalan en la tabla I.
+
+TABLA I
+
+| Se dispone de protección fija contra incendios (***) | Grado de riesgo según artículo 19 de la NBE CPI/96 | Volumen máximo permitido | Densidad máxima de ocupación litros/m<sup>2</sup> |
+|---|---|---|---|
+| Sí | Medio | (*) | 400 |
+| No | Medio | (*) | 160 |
+| Sí | Bajo | (**) | 200 |
+
+(*) El volumen máximo de producto almacenado será el 60 por 100 del obtenido en la tabla II.
+
+(**) El volumen máximo será en este caso el 40 por 100 de los indicados en la tabla II.
+
+(***) La instalación fija contra incendios podrá ser automática o manual. De ser manual deberá existir permanentemente, las veinticuatro horas del día, personal entrenado en su puesta en funcionamiento. Estas instalaciones deberá realizarse de acuerdo con la correspondiente norma UNE.
+
+Ningún recipiente estará situado a más de 6 metros de un pasillo.
+
+La altura máxima por pila será tal y como se establece en la tabla II (h máx.) excepto para la clase B1, en recipientes mayores de 20 litros que sólo podrán almancenarse en una altura.
+
+TABLA II
+
+Tamaño del recipiente
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Clase del líquido</p>
+</td>
+<td colspan="3">
+<p>R ≤ 25 litros</p>
+</td>
+<td colspan="3">
+<p>25 &lt; R ≤ 250 l</p>
+</td>
+<td colspan="3">
+<p>250 &lt; R ≤ 1.000 l para clase B</p>
+<p>250 &lt; R ≤ 3.000 l para clase C-D</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>h máx.</p>
+<p>–</p>
+<p>m</p>
+</td>
+<td>
+<p>Vp pila</p>
+<p>–</p>
+<p>m<sup>3</sup></p>
+</td>
+<td>
+<p>Vg global</p>
+<p>–</p>
+<p>m<sup>3</sup></p>
+</td>
+<td>
+<p>h máx.</p>
+<p>–</p>
+<p>m</p>
+</td>
+<td>
+<p>Vp pila</p>
+<p>–</p>
+<p>m<sup>3</sup></p>
+</td>
+<td>
+<p>Vg global</p>
+<p>–</p>
+<p>m<sup>3</sup></p>
+</td>
+<td>
+<p>h máx.</p>
+<p>–</p>
+<p>m</p>
+</td>
+<td>
+<p>Vp pila</p>
+<p>–</p>
+<p>m<sup>3</sup></p>
+</td>
+<td>
+<p>Vg global</p>
+<p>–</p>
+<p>m<sup>3</sup></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B2</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>75</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Notas:
+
+1\. h máx. es la altura máxima permitida.
+
+Vp es el volumen máximo por pila.
+
+Vg es el volumen global máximo del almacenamiento.
+
+2\. Las cantidades máximas podrán duplicarse en el caso de que exista protección por sistema de extinción fijo automático o manual, debiendo en el segundo caso existir personal entrenado en el funcionamiento durante las veinticuatro horas del día. Las instalaciones se diseñarán de acuerdo con las normas UNE que les sean de aplicación.
+
+14.4.2.2 Sala de almacenamiento separada, es la que encontrándose en el interior de un edificio tiene una o más paredes exteriores, y deberá proporcionar un fácil acceso para los medios de extinción, por medio de ventanas, aberturas o paredes ligeras no combustibles.
+
+14.4.2.3 Sala de almacenamiento anexa, es la que sólo tiene una pared común con un edificio que tiene otro tipo de ocupaciones.
+
+El almacenamiento en salas separadas o anexas deberá cumplir con lo indicado en la tabla II.
+
+14.4.3 Almacenes industriales. Son los destinados al uso exclusivo de almacenamientos siendo su capacidad ilimitada, deberán cumplir los requisitos que a continuación se indican, según se trate de almacenamientos interiores o exteriores.
+
+14.4.3.1 Almacenamientos en el interior. Se consideran como tales los pabellones, edificios o partes de los mismos destinados a uso específico de almacenamiento, que superan la capacidad máxima de la sala de almacenamiento, y que deben estar separados de otros edificios o límites de propiedad por 15 metros, al menos, de espacio libre, o por una pared con una resistencia mínima al fuego RF-120 por lo menos y provista de puertas de cierre automático RF-90 mínimo.
+
+Ningún recipiente estará a más de 6 metros de un pasillo, siempre que se respete el volumen máximo de pila y la altura correspondiente a la tabla III.
+
+Los pasillos principales tendrán un ancho mínimo de 2,5 metros, los pasillos laterales un mínimo de 1,2 metros y los accesos a las puertas o conexiones un mínimo de 1 metro.
+
+La capacidad de almacenamiento de estos almacenes industriales no estará limitada, pero deberán separarse en pilas, tal como señala la tabla III, mediante un pasillo de acceso o una pila de materiales no inflamables ni combustibles (M-O según UNE 23.727). La anchura mínima en ambos casos será de 1,20 metros.
+
+TABLA III
+
+Capacidad de las pilas
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<p>Clase de peligro</p>
+</td>
+<td colspan="9">
+<p>Tamaño del recipiente</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>h max</p>
+<p>–</p>
+<p>m</p>
+</td>
+<td colspan="2">
+<p>R ≤ 25 l</p>
+</td>
+<td rowspan="2">
+<p>h máx.</p>
+<p>–</p>
+<p>m</p>
+</td>
+<td colspan="2">
+<p>25 l &lt; R ≤ 250 l</p>
+</td>
+<td rowspan="2">
+<p>h máx.</p>
+<p>–</p>
+<p>m</p>
+</td>
+<td colspan="2">
+<p>250 &lt; R ≤ 1.000 l. Clase B</p>
+<p>250 &lt; R ≤ 3.000 l. Clases C-D</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sin protección fija (*)</p>
+<p>–</p>
+<p>m<sup>3</sup></p>
+</td>
+<td>
+<p>Con protección fija (*)</p>
+<p>–</p>
+<p>m<sup>3</sup></p>
+</td>
+<td>
+<p>Sin protección fija (*)</p>
+<p>–</p>
+<p>m<sup>3</sup></p>
+</td>
+<td>
+<p>Con protección fija (*)</p>
+<p>–</p>
+<p>m<sup>3</sup></p>
+</td>
+<td>
+<p>Sin protección fija (*)</p>
+<p>–</p>
+<p>m<sup>3</sup></p>
+</td>
+<td>
+<p>Con protección fija (*)</p>
+<p>–</p>
+<p>m<sup>3</sup></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>7,5</p>
+</td>
+<td>
+<p>15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B2</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C-D</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>100</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>100</p>
+</td>
+<td>
+<p>300</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>100</p>
+</td>
+<td>
+<p>300</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Notas:
+
+1\. R es el volumen de cada recipiente.
+
+h es la altura máxima por pila.
+
+(*) El sistema de protección fija contra incendios podrá ser automático o manual. De ser manual deberá existir permanentemente, las veinticuatro horas del día, personal entrenado en su puesta en funcionamiento. Estas instalaciones deberán realizarse de acuerdo con la correspondiente norma UNE.
+
+2\. En el caso de almacenaje en estanterías, la altura y el volumen por pila serán los reales, descontando los espacios vacíos entre recipientes y estanterías.
+
+Cuando la superficie de almacenamiento supere 2.500 m<sup>2</sup> deberá sectorizarse la misma con cortafuegos RF-120 o cortinas de agua en secciones inferiores o iguales a 2.500 m<sup>2</sup>.
+
+14.4.3.2 Almacenamiento en el exterior. Se considerará almacenamiento en recipientes móviles en el exterior o en estructuras abiertas cuando su relación superficie abierta/volumen es superior a 1/15 m<sup>2</sup>/m<sup>3</sup>, y estará de acuerdo con la tabla IV.
+
+Cuando el almacenamiento en el exterior se realiza adosado a un edificio industrial de la misma propiedad o bajo la misma dirección, se podrá agrupar un máximo de 1.000 litros de productos de las clases B, C o D si las paredes exteriores de dicho edificio tienen una resistencia al fuego RF-120 como mínimo y las aberturas de las paredes distan, al menos, 3 metros del almacenamiento.
+
+En caso de que la capacidad global supere las cifras anteriores los recipientes deberán separarse un mínimo de 3 metros del edificio. Si las paredes exteriores de dicho edificio industrial tienen una resistencia mínima al fuego RF-120, podrá reducirse esta distancia, previa justificación en el proyecto, hasta 1,50 metros.
+
+El área de almacenamiento tendrá una pendiente adecuada para evitar cualquier fuga hacia los edificios, o bien estar rodeada de un resalte de 15 cm de altura mínima. Cuando se utilice el resalte deberá disponerse de un sistema de drenaje para las aguas de lluvia, las posibles fugas de líquidos y agua de protección contra incendios.
+
+El drenaje deberá terminar en un lugar seguro y accesible en caso de incendio.
+
+Para almacenamientos de duración inferior a quince días siempre que sea con carácter esporádico y no habitual no serán de aplicación los volúmenes de pila indicados, siempre que se mantenga una distancia superior a 25 metros para la clase B, y de 5 metros para las clases C y D, a cualquier edificio, instalación o límite de propiedad.
+
+La distancia de estos almacenamientos a estaciones de carga y descarga de cisternas de líquidos inflamables y de parques de almacenamiento de los mismos será como mínimo de 10 metros para los de clase B, y de 5 metros para los de clases C y D.
+
+TABLA IV
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Clase del líquido</p>
+</td>
+<td rowspan="2">
+<p>h máx.</p>
+<p>–</p>
+<p>m</p>
+</td>
+<td colspan="2">
+<p>Tamaño del recipiente (R)</p>
+</td>
+<td rowspan="2">
+<p>Distancia entre pilas</p>
+<p>–</p>
+<p>m</p>
+</td>
+<td rowspan="2">
+<p>Distancia a propiedades ajenas</p>
+<p>–</p>
+<p>m</p>
+</td>
+<td rowspan="2">
+<p>Distancia a vías de comunicación públicas</p>
+<p>–</p>
+<p>m</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>R ≤ 250 l</p>
+<p>Vp</p>
+<p>–</p>
+<p>m<sup>3</sup></p>
+</td>
+<td>
+<p>250 &lt; R ≤ 1.000 l para clase B</p>
+<p>250 &lt; R ≤ 3.000 l para clase C-D</p>
+<p>Vp</p>
+<p>–</p>
+<p>m<sup>3</sup></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B1</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>12</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B2</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C y D</p>
+</td>
+<td>
+<p>4,5</p>
+</td>
+<td>
+<p>100</p>
+</td>
+<td>
+<p>160</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Notas:
+
+1\. R es el volumen unitario de los recipientes.
+
+Vp es el volumen máximo por pila.
+
+h máx. es la altura máxima por pila.
+
+2\. Existirán pasillos de 4 metros de ancho mínimo para permitir el acceso al almacenamiento en caso de incendio. Ningún recipiente móvil estará a más de 6 metros de uno de los pasillos. Cuando todos los pasillos y no sólo los de acceso en caso de incendio sean de 4 metros, se podrán aumentar en un 50 por 100 los volúmenes de pila.
+
+3\. Las distancias a vías de comunicación pública y otras propiedades edificables pueden reducirse al 50 por 100 cuando el volumen por grupos no exceda del 50 por 100 del máximo volumen permitido en la tabla o cuando existan protecciones adecuadas (paredes cortafuegos, sistemas fijos de agua, pulverizadores automáticos o similares).
+
+4\. Las cantidades máximas podrán duplicarse en el caso de que exista protección de extinción fija, automática o manual, debiendo en el segundo caso existir personal entrenado en el funcionamiento durante las veinticuatro horas del día. Las instalaciones se diseñarán de acuerdo con las normas UNE que sean aplicables.
+
+> Se modifica por el art. 2, según se indica en el Anexo I, del Real Decreto 1523/1999, de 1 de octubre. [Ref. BOE-A-1999-20723](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-20723)
+
+> Redactada la nota 1 del cuadro IV del apartado 13.6.2 conforme a la corrección de errores publicada en BOE núm. 21, de 24 de enero de 1998. [Ref. BOE-A-1998-1458](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1458)
+
+## CAPÍTULO IV — Instalaciones de suministro por tubería
+
+15\. Objeto
+
+El objeto de estas instalaciones es el de posibilitar el suministro de combustible líquido hasta las de consumo individualizado, para la generación de agua caliente de calefacción y ACS en conjuntos residenciales, edificios de viviendas, edificios comerciales, edificios o polígonos industriales, con un almacenamiento de combustible común.
+
+16\. Descripción
+
+La instalación de suministro por tubería, de combustible líquido a las instalaciones de consumo individualizado se iniciará con un almacenamiento común, que reunirá las condiciones descritas en los capítulos II y III, en cualquiera de sus variantes.
+
+De este almacenamiento partirá una tubería que llevará el combustible hasta un equipo de trasiego adecuado a las características de la instalación de consumo.
+
+Este equipo de trasiego (apartado 17) es el comienzo de la red de distribución (apartado 18), formada por tuberías de distintos diámetros, en función de las características de cada tramo en cuanto a longitud, caudal, etcétera (apartado 19).
+
+Las derivaciones de la red general a cada usuario se podrán realizar directamente o desde un colector común para varios usuarios, en función del tipo de red que se instale (apartado 18).
+
+En el comienzo de la derivación individual o en el colector de derivación común se instalará un contador volumétrico de combustible. Asimismo, y cuando el proyectista lo considere oportuno o la propiedad de la instalación lo demande, se podrá instalar un contador general, también volumétrico, al comienzo de la red (apartado 20).
+
+La red descrita en los párrafos anteriores, almacenamiento, equipo de trasiego, red de tuberías y sus accesorios, equipos de seguridad y control y equipos de medida tendrán la ubicación adecuada a las características propias del elemento a instalar, lugar en el que se ubique, medidas de seguridad a tomar, y elementos que la rodeen, pudiendo variar para el mismo elemento en función de los condicionantes anteriormente mencionados u otros que pudieran existir (apartado 21).
+
+Del equipo de medida individual partirá una conducción de combustible o acometida particular para cada usuario, individualizada del resto de la red, con sus correspondientes accesorios y equipos de seguridad que llegará hasta el equipo de consumo (apartado 22).
+
+La instalación de suministro de combustible que discurra por el interior de local habitado (vivienda, local comercial, industria, etc.) deberá reunir unas condiciones particulares y se deberán instalar los elementos adecuados que protejan debidamente la instalación de suministro y el equipo de consumo (apartado 23).
+
+17\. Equipo de trasiego
+
+El equipo de trasiego es el encargado de impulsar el combustible del tanque de almacenamiento a los puntos de consumo.
+
+El denominado equipo de trasiego será un grupo de presión compuesto por:
+
+Dos grupos moto-bomba de funcionamiento alternativo y adecuado a las necesidades de la instalación.
+
+Un filtro.
+
+Un manómetro.
+
+Un vacuómetro.
+
+Un presostato.
+
+Una válvula de seguridad, para evitar sobrepresiones en la red, haciendo retornar el combustible al tanque.
+
+Un vaso de expansión de dimensiones adecuadas al caudal nominal del grupo de presión.
+
+El grupo de presión se montará en un alojamiento apropiado.
+
+Cuando se trate de una instalación exterior a edificación se alojará en arqueta, armario o caseta de fabrica de ladrillo, hormigón, etc., resistente al fuego tipo RF-120, dotado de su correspondiente ventilación. El dimensionamiento de esta ventilación quedará a criterio del proyectista de la instalación en función de la superficie del habitáculo. La instalación eléctrica a montar en el interior del mencionado alojamiento se ajustará a lo dispuesto en el Reglamento electrotécnico para baja tensión.
+
+Cuando la instalación se realice en el interior de una edificación, se deberá dotar de protección adecuada al lugar donde se encuentre. Si este alojamiento se encuentra próximo a zonas habitadas, patios, patinillos, conductos o bajantes se le dotará del correspondiente aislamiento a la transmisión de ruidos o vibraciones molestas, según lo dispuesto en la norma básica NBE-CA 88 sobre condiciones acústicas en los edificios.
+
+18\. Red de distribución
+
+La red de distribución para combustible líquido es la encargada de transportar éste desde el equipo de trasiego hasta todos y cada uno de los equipos de medida de los usuarios de la misma.
+
+A esta instalación se la podrá denominar horizontal o vertical, en función de la configuración de la misma y a tenor del tipo de edificación o edificaciones a las que vaya a dar servicio.
+
+La condición que caracteriza la «instalación horizontal» es que es de un solo nivel de cota variable.
+
+Estará destinada a dar servicio a conjuntos de viviendas unifamiliares, polígonos industriales con naves individuales, centros comerciales, etc., transcurriendo prácticamente la totalidad de la instalación enterrada en el subsuelo, galería, o situación similar debidamente protegida e incluso aérea, con las debidas protecciones y señalizaciones (apartado 21).
+
+Se denominará vertical a la red de distribución que se instale en edificaciones en las cuales los usuarios se encuentren situados en las distintas plantas del edificio, pudiendo ser indistintamente viviendas, locales industriales, locales comerciales, etc.
+
+Las derivaciones en la «instalación vertical» se podrán realizar en cada nivel de la edificación, para los usuarios situados en la misma planta, denominándose «red vertical por columnas», o desde un colector común, desde el que partirán todas las derivaciones para cada usuario, independientes las unas de las otras, denominándose a este sistema «red vertical capilar».
+
+En las instalaciones horizontales la red estará formada por un conjunto de tuberías, que recorrerán las distintas vías de comunicación en donde se realice la instalación, para dar suministro a todos los posibles usuarios.
+
+La red será lo más cerrada posible, instalándose llaves de seccionamiento en cada entronque de los distintos ramales, de forma que cada ramal pueda quedar independizado de la red general, en el caso de detectarse avería que precise el corte del suministro.
+
+En los ramales abiertos, sin conexión por su otro extremo con la red general o con otro ramal, se instalará una llave de corte, al comienzo del mismo.
+
+En cualquier tipo de red se instalará, como mínimo, una llave de corte o seccionamiento cada 10 usuarios, conectados al mismo tramo de tubería y por la misma banda, con un máximo de 100 metros de distancia entre éstas.
+
+También se instalarán válvulas de corte o seccionamiento en los cruces de calles, a ambos lados.
+
+No será necesario instalar llaves de corte en las derivaciones de la red de distribución a los contadores individuales, conectándose éstas directamente a la tubería por los sistemas que más adelante se detallan (apartado 19).
+
+Al menos se montará un purgador manual o automático a lo largo de la red y en el punto más elevado de la misma. En las redes en la que el colector general forme circuito cerrado, se montará otro purgador situado en uno de los ramales del entronque del retorno con la salida del grupo de presión. En circuitos ramificados, no cerrados, se montará otro en el final de cada ramal.
+
+La red vertical, por definición, hay que contemplarla de dos diferentes maneras. La «red vertical por columnas» y la «red vertical capilar».
+
+La red vertical por columnas se compondrá de tuberías que, partiendo del grupo de presión, discurrirán horizontalmente hasta el punto en que inicie su ascensión a las distintas plantas a suministrar. Esta ascensión se realizará por una tubería vertical denominada «columna».
+
+De la columna partirá, en cada planta de la edificación, una derivación para cada usuario o una derivación a un colector común. Se podrán montar tantas columnas como se consideren precisas por el proyectista.
+
+Cuando la configuración de la edificación lo permita se podrán conexionar todas las columnas entre sí, por su parte superior, a fin de formar un circuito cerrado y facilitar el suministro por dos vías, en caso de necesidad. En la columna de suministro, en cada planta y antes de las derivaciones a usuarios o a colector, se montará una llave de corte, de cierre rápido.
+
+En la red capilar se montará una llave de corte, de cierre rápido, inmediatamente antes del colector.
+
+Asimismo, se montará llave de corte, de cierre rápido en la tubería de reparto horizontal, entre el grupo de presión y las columnas o colectores, en el inicio de la columna o al comienzo de la derivación a cada colector.
+
+En el caso en que la línea de reparto horizontal forme circuito cerrado se montará llave de corte, de cierre rápido, inmediatamente antes de cada derivación, en el sentido teórico del flujo, a fin de que, en caso de avería en una de las columnas, quede garantizado el suministro al resto de las mismas.
+
+Se montarán purgadores, manuales o idiomáticos, en el punto más elevado de cada columna, cuando no estén comunicadas entre sí en su coronación, o en el punto más elevado de la intercomunicación de las mismas.
+
+En los casos en que el suministro vaya destinado a una agrupación de edificios de altura, con consumidores individuales y almacenamiento común para todos los edificios, tendremos una red con las características de la red horizontal en la distribución desde almacenamiento a edificaciones y una red vertical en cada uno de los edificios en cuestión.
+
+19\. Tuberías y accesorios
+
+Las tuberías de este tipo de instalaciones cumplirán lo indicado en el capítulo II, de esta ITC, en cuanto a materiales, conexiones y montaje se refiere, en cualquiera de sus situaciones, con las salvedades o ampliaciones que en este apartado se regulan.
+
+Las uniones de los diferentes tramos de la tubería de cobre se realizará con soldadura fuerte y a tope o con soldadura blanda con un contenido de plata de 6 por 100, como mínimo. Las uniones roscadas se limitarán a las conexiones entre tubería y accesorios o entre accesorios. Todas las uniones roscadas deberán ser accesibles de forma permanente. Las derivaciones de los distintos ramales realizadas con este material se harán mediante T soldada.
+
+Se permite la unión por compresión a través de bicono en instalaciones vistas y en las reparaciones y adaptaciones de las tuberías enterradas que han tenido ya suministro.
+
+Las uniones de los diferentes tramos de la tubería de acero se realizará por soldadura a tope con oxiacetilénica o eléctrica.
+
+Las válvulas serán estancas, interior y exteriormente, debiendo resistir una prueba hidráulica igual a tres veces la de trabajo, con un mínimo de 600 kPa (6 kg/cm<sup>2</sup>).
+
+Cuando en la red puedan existir presiones iguales o superiores a 600 kPa (6 kg/cm<sup>2</sup>), será preceptivo que las válvulas que se instalen lleven troquelada la presión máxima a la que pueden estar sometidas.
+
+Se instalarán llaves de corte, de cierre rápido, además de los ya reseñados en el apartado 18, antes y después de los filtros, contadores, purgadores y cualquier otro accesorio o conjunto de ellos que se instale, a fin de poder facilitar su manipulación si fuera preciso, sin afectar por ello a la totalidad de la red.
+
+Se instalarán filtros inmediatamente antes de cada contador, en cualquiera de las modalidades de red de distribución anteriormente descritas.
+
+En las redes horizontales, cuando la tubería principal retorne hasta el punto de inicio de la red, cerrando el circuito y en aquellos ramales o ramificaciones que formen malla cerrada, podrán sustituirse los filtros, a situar inmediatamente antes de los contadores individuales, por otros situados estratégicamente en la tubería general de suministro, en la cantidad y lugares que estime oportuno el proyectista de la instalación.
+
+Para tuberías de acero forjado o fundido se admiten accesorios roscados, hasta un diámetro de 100 mm. A partir de este diámetro las uniones se realizarán por medio de bridas.
+
+20\. Equipos de medida
+
+En las redes de distribución de combustible líquido, se montarán equipos de control de medida para todos y cada uno de los usuarios de forma individualizada.
+
+Se montarán en alojamientos apropiados para protegerlos de accidentes y manipulaciones indebidas (apartado 21) y se situarán entre dos llaves de corte. La llave de corte anterior al contador puede ser la misma que preceda al filtro, cuando ambos vayan montados en conjunto o sobre colector.
+
+Cuando el proyectista de la instalación lo considere oportuno o lo demande el propietario de la misma se podrá montar un contador volumétrico general. Este contador irá montado al comienzo de la red.
+
+21\. Situación y montaje de la red y sus equipos
+
+La red de distribución de combustible líquido tendrá distintas formas y lugares de alojamiento, en función del tipo de red y del edificio para el que se diseñe.
+
+21.1 Red horizontal. La red horizontal puede discurrir por el exterior de las edificaciones, en cuyo caso irá enterrada, o por galería de servicios, o por el interior de las edificaciones cuando éstas tienen alojados, bajo ellas, aparcamientos o garajes comunes, o colectivos, que posibiliten la acometida directa desde este local a la vivienda.
+
+Cuando las tuberías discurran por el exterior de las edificaciones irán enterradas en una zanja de 40 cm de profundidad, como mínimo, medidos desde la superficie del terreno a la generatriz superior de la tubería.
+
+Esta zanja, siempre que sea posible, será independiente de las de otros servicios.
+
+Cuando la tubería de conducción de combustible líquido deba ir enterrada en una zanja con conducciones de otros servicios, se observarán las siguientes condiciones:
+
+Se situarán a 30 cm, como mínimo, de las conducciones de gas y electricidad.
+
+No podrán situarse, bajo ningún concepto, por encima de las conducciones de agua potable.
+
+La tubería irá enterrada en una capa de arena de río lavada. Esta capa tendrá un espesor de 10 cm por debajo, y 20 cm por encima de la tubería. Se colocará una señalización adecuada (teja, rasilla, etc.) 15 cm por encima de la tubería.
+
+Las llaves de corte o seccionamiento, purgadores y filtros, que se monten en los ramales de distribución, irán alojadas en arquetas de fábrica con su correspondiente tapa, que serán resistentes al paso de vehículos cuando estén situadas en calzadas o zonas de circulación de los mismos.
+
+Los equipos de medida individual se alojarán en armarios apropiados que les protejan mecánica y térmicamente.
+
+Cuando la red discurra por el interior de un sótano o zona común situada bajo los locales a abastecer, bien diáfano o con uso definido (garaje, trasteros, etc.), la tubería de distribución de combustible líquido se montará por el techo del local. En las zonas en las que tengan que discurrir por las paredes del mismo se situarán lo más próximo posible al techo o al suelo. No deberá ir empotrada en paredes, muros, forjados y fábricas en general, salvo caso excepcional y debidamente justificado.
+
+Las tuberías estarán instaladas de forma que su aspecto sea limpio y ordenado, dispuestas en líneas paralelas o a escuadra con los elementos estructurales del edificio.
+
+La separación entre tuberías y su accesibilidad serán tales que pueda manipularse o sustituirse una tubería sin tener que desmontar el resto.
+
+Los apoyos o amarres de las tuberías serán tales que no se puedan producir flechas superiores al 2 por 1.000, ni ejerzan esfuerzo alguno sobre elementos o aparatos a los que estén unidas.
+
+Los elementos de sujeción permitirán la libre dilatación de la tubería sin dañar el aislamiento de la misma.
+
+Las distancias entre soportes, para tuberías de acero, serán como máximo las indicadas en la tabla 1.
+
+Entre sujeción y tubería se intercalará material elástico apropiado.
+
+Existirá al menos un soporte entre dos uniones de tuberías y, con preferencia, se colocarán éstos al lado de cada unión.
+
+TABLA 1
+
+| Tubería ø en mm | Separación máxima entre soportes (m) Tramos horizontales |
+|---|---|
+| < 15 | 1,80 |
+| 20 | 2,50 |
+| 25 | 2,50 |
+| 32 | 2,80 |
+| 40 | 3,00 |
+| 60 | 3,00 |
+| 70 | 3,00 |
+| 80 | 3,50 |
+| 100 | 4,00 |
+| 125 | 5,00 |
+| 150 | 6,00 |
+
+Los tubos de cobre llevarán elementos de soporte a una distancia no superior a la indicada en la tabla 2.
+
+TABLA 2
+
+| Tubería ø en mm | Separación máxima entre soportes (m) Tramos horizontales |
+|---|---|
+| 10 | 1,20 |
+| De 10 a 20 | 1,80 |
+| De 25 a 40 | 2,40 |
+| De 50 a 100 | 3,00 |
+
+No se podrán utilizar soportes de madera o alambre como elementos fijos. Si se emplearan durante la ejecución de la obra deberán ser desmontados al finalizar ésta o sustituidos por los indicados anteriormente.
+
+Todos los soportes deberán ir montados sobre elementos elásticos, empotrados en la fábrica a la que se sujete la tubería, a fin de evitar transmisión de ruidos y vibraciones a la edificación.
+
+Cuando las tuberías pasen a través de muros, tabiques, forjados, etc., se dispondrán manguitos protectores, que dejen espacio libre alrededor de la tubería, debiendo rellenarse este espacio con materia plástica. Los manguitos deberán sobresalir de los paramentos al menos 5 mm.
+
+Los cruces de obras de fábrica deberán estar libres de uniones de tuberías, accesorios, etc.
+
+En esta situación de la red, el grupo de presión podrá ir instalado en el interior del mismo local por el que discurren las tuberías, así como los contadores individuales. Deberán ir alojados en armarios o locales apropiados que los protejan mecánicamente y de las actuaciones ajenas a su funcionamiento y mantenimiento.
+
+21.2 Red vertical. La red vertical, en cualquiera de sus dos formas descritas, por columnas o capilar, podrá discurrir por el interior o por el exterior de la edificación.
+
+Cuando discurra por el interior de la edificación, deberá ir alojada en patinillos o conductos de servicios apropiados.
+
+Los sistemas de amarre y montaje de las tuberías verticales serán iguales al descrito para las horizontales, con aplicación de las distancias de las tablas3y4.
+
+La distancia entre soportes, para tuberías de acero, serán como máximo:
+
+TABLA 3
+
+| Tubería ø en mm | Separación máxima entre soportes (m) Tramos horizontales |
+|---|---|
+| 15 | 2,50 |
+| 20 | 3,00 |
+| 25 | 3,00 |
+| 32 | 3,00 |
+| 40 | 3,50 |
+| 60 | 3,50 |
+| 70 | 4,50 |
+| 80 | 4,50 |
+| 100 | 4,50 |
+| 125 | 5,00 |
+| 150 | 6,00 |
+
+Los tubos de cobre llevarán elementos de soporte a una distancia no superior a la indicada en la tabla 4.
+
+TABLA 4
+
+| Tubería ø en mm | Separación máxima entre soportes (m) Tramos horizontales |
+|---|---|
+| 10 | 1,80 |
+| de 12 a 20 | 2,40 |
+| de 25 a 40 | 3,00 |
+| de 50 a 100 | 3,70 |
+
+Los soportes para estas redes verticales sujetarán la tubería en todo su contorno. Serán desmontables para permitir, después de estar anclados, montar o desmontar la tubería con facilidad.
+
+En la red denominada capilar, los haces de tuberías deberán ir dotados de elementos de guía que harán la doble función de guía y amarre de tuberías. En este caso el amarre será conjunto y la pieza móvil será común para todas las tuberías.
+
+Para la instalación de la tubería, en los tramos que discurran horizontalmente entre el grupo de presión y las columnas de distribución, por los bajos, sótanos o garajes de las edificaciones, se les aplicará el mismo sistema de montaje y las mismas condiciones que las descritas en el apartado dedicado a instalación de la red horizontal.
+
+En la red vertical por columnas, los equipos de medida individualizada se situarán en cada planta de la edificación, alojados en un armario destinado a los mismos, que podrá ser de cualquier material apropiado (plástico, chapa metálica, fabrica de ladrillo, etc.).
+
+En la red vertical capilar, el colector donde se sitúan los contadores se alojará en local, cuarto o armario, destinado al efecto. Su situación será decidida por el proyectista de la instalación a la vista de las necesidades, condiciones y posibilidades de la edificación.
+
+El grupo de presión, en cualquiera de las modalidades de las redes verticales, se alojará en habitáculo de fábrica de ladrillo, siempre que sea posible. No obstante se podrá alojar en armario de otro material que proteja debidamente al equipo y su entorno.
+
+En cualquier circunstancia en la que la instalación de la tubería, de alguna de las modalidades de la red vertical, concurra igual circunstancia que en la instalación de la red horizontal, será de aplicación lo prescrito para esta última.
+
+22\. Acometida a usuario
+
+La acometida y distribución del combustible hasta el punto de consumo, dentro de los límites de la propiedad del usuario, se realizará en las mismas condiciones que las prescritas para la instalación de la tubería y equipos en la red exterior.
+
+En este caso, cuando sea necesario que la tubería discurra por zonas de paso de personas y para preservar la estética y la decoración de las edificaciones se podrá empotrar la tubería en las obras de fábrica, tales como muros, tabiques, forjados, soleras, etc.
+
+23\. Instalación en el interior de la vivienda
+
+Dentro de la vivienda e inmediatamente antes del equipo de consumo, se instalarán los siguientes elementos:
+
+Válvula limitadora de presión, con o sin manómetro.
+
+Válvula de corte automática (electroválvula enclavada con el quemador) o manual, instalada inmediatamente antes del quemador.
+
+Filtro.
+
+24\. Pruebas de las instalaciones
+
+Las pruebas tienen por objeto verificar las condiciones de funcionamiento de la red de distribución en relación a las fijadas en el proyecto en cuanto a caudales, presiones y comportamiento de los diferentes elementos que la componen, así como el nivel de calidad de la construcción de la red de distribución, principalmente en lo que a estanqueidad se refiere.
+
+Por todo ello, y preferentemente, se irán realizando pruebas de presión y estanqueidad de los tramos de la red de distribución que sea necesario ir enterrando u ocultando bajo obras de fábrica, previo a la finalización de la totalidad de la red.
+
+Terminada la red de distribución e independientemente de las pruebas parciales, que se hayan ido realizando por tramos o sectores de la misma, se realizará una prueba del total de la red de distribución desde el equipo de trasiego.
+
+La prueba de presión se realizará de acuerdo con lo dispuesto en la norma UNE 100 151.
+
+> Se modifica por el art. 2, según se indica en el Anexo I, del Real Decreto 1523/1999, de 1 de octubre. [Ref. BOE-A-1999-20723](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-20723)
+
+## CAPÍTULO V — Instalaciones de suministro a motores
+
+25\. Generalidades
+
+Se definen como aquellas instalaciones destinadas a dar suministro de carburantes y combustibles a motores térmicos, tanto fijos como móviles.
+
+Constan en esencia de un almacenamiento de producto, un equipo de suministro y opcionalmente un sistema de control electrónico del conjunto.
+
+26\. Equipos de suministro
+
+El suministro de carburantes y combustibles podrá hacerse por gravedad, con bomba manual, con bomba eléctrica con recirculación automática y manguera de suministro con válvula de cierre rápido. Este equipo podrá estar adosado al tanque de almacenamiento.
+
+La instalación eléctrica se realizará de acuerdo con lo indicado en los distintos apartados de esta ITC y de conformidad con la normativa especifica vigente.
+
+Los materiales utilizados en la construcción de los equipos de suministro y control serán resistentes a la corrosión del líquido que se utilice, la de sus vapores y a la del medio ambiente en que se encuentren. Los fabricantes de los mismos documentarán cómo se pueden instalar, qué acciones soportan y para dónde están diseñados.
+
+Los elementos metálicos del boquerel o llave de corte del suministro serán de materiales que no puedan producir chispas al contacto con otros materiales.
+
+Opcionalmente, se podrán instalar equipos de control del suministro, que podrán ser mecánicos o electrónicos, estando pensados para resistir la acción del combustible/s utilizado/s, la de sus vapores y la del medio ambiente reinante. La misión de estos equipos es la de controlar el combustible suministrado a cada motor, así como la de gestionar la puesta en marcha y parada de la instalación.
+
+27\. Emplazamiento de los equipos
+
+27.1 Dentro de edificación. Para productos de clase B, el recinto, si se precisa, deberá estar bien ventilado y tendrá la consideración de local de riesgo alto, de acuerdo con la clasificación establecida en el artículo 19 de la NBE-CPI/96. Asimismo, junto al equipo se montará sistema automático detector de fugas. La zona donde se efectúe el suministro no deberá tener locales, habitaciones, garajes, etc., por debajo de ella y no deberá estar situada en cota inferior a la natural del terreno circundante, de tal forma que no exista acumulación natural de los gases que puedan emanar.
+
+Para los productos de clases C y D, el recinto, si se precisa, deberá disponer de una ventilación adecuada; tendrá la consideración de local de riesgo medio para los productos de clase C, y de riesgo bajo para los de la clase D, de acuerdo con la clasificación establecida en el artículo 19 de la NBE-CPI/96.
+
+27.2 En exterior de edificación. Los equipos de suministro podrán estar cubiertos con un voladizo o marquesina y se podrán cerrar con valla metálica abierta.
+
+28\. Unidades autónomas provisionales
+
+Se definen unidades autónomas provisionales, aquellos equipos de instalación temporal, compuestos por un tanque de almacenamiento y adosado un equipo de suministro a máquinas, motores.
+
+Los tanques de cuerpo cilíndrico y eje horizontal deberán tener apoyos fijos y podrán tener elementos de acceso incorporados.
+
+Se podrán instalar para consumos ocasionales, con motivo de obras u otros motivos debidamente justificados. No será necesario cubeto. Dispondrán de una bandeja de recogida de derrames de, al menos, una capacidad del 10 por 100 de la del tanque.
+
+Las unidades se deberán transportar siempre vacías de producto.
+
+No se permite la instalación de estas unidades en el interior de edificación, con combustible de la clase B.
+
+Los dos últimos metros de la acometida, o en su defecto, desde la última borna de conexión del equipo, se realizará con el mismo tipo de protección que la del equipo instalado.
+
+El conjunto recipiente de almacenamiento-equipo de suministro deberá contar con certificado de conformidad a normas, expedido por un organismo de control autorizado. Su instalación y período de duración se comunicará al órgano competente de la correspondiente Comunidad Autónoma.
+
+> Se modifica por el art. 2, según se indica en el Anexo I, del Real Decreto 1523/1999, de 1 de octubre. [Ref. BOE-A-1999-20723](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-20723)
+
+## CAPÍTULO VI — Instalación eléctrica
+
+La instalación eléctrica se realizará de acuerdo con lo indicado en los distintos apartados de esta ITC y de conformidad con la normativa específica vigente.
+
+> Se modifica por el art. 2, según se indica en el Anexo I, del Real Decreto 1523/1999, de 1 de octubre. [Ref. BOE-A-1999-20723](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-20723)
+
+## CAPÍTULO VII — Protección contra incendios
+
+29\. Generalidades
+
+Las instalaciones, los equipos y sus componentes destinados a la protección contra incendios en un almacenamiento de carburantes y combustibles líquidos y sus instalaciones conexas se ajustará a lo establecido en el Reglamento de instalaciones de protección contra incendios, aprobado por Real Decreto 1942/1993, de 5 de noviembre.
+
+La protección contra incendios estará determinada por el tipo de líquido, la forma de almacenamiento, su situación y la distancia a otros almacenamientos y por las operaciones de manipulación, por lo que en cada caso deberá seleccionarse el sistema y agente extintor que más convenga, siempre que cumpla los requisitos mínimos que de forma general se establecen en el presente capítulo.
+
+30\. En instalaciones de superficie en exterior de edificios
+
+30.1 Protección con agua.
+
+1\. No necesitan sistemas de protección contra incendios por agua, los almacenamientos de superficie, cuando su capacidad global no exceda de:
+
+50 metros cúbicos para los productos de la subclase B1.
+
+100 metros cúbicos para los productos de la subclase B2.
+
+500 metros cúbicos para los productos de la clase C.
+
+Sin límite para los productos de la clase D.
+
+2\. Deberán disponer de un sistema de abastecimiento de agua contra incendios, los almacenamientos de superficie con capacidades globales superiores a las anteriores, y que no excedan de:
+
+100 metros cúbicos para los productos de la subclase B1.
+
+200 metros cúbicos para los productos de la subclase B2.
+
+1.000 metros cúbicos para los productos de la clase C.
+
+La red de distribución de agua, en este caso, será de utilización exclusiva para este fin, y deberá tener las bocas de incendio suficientes, mediante hidrantes de arqueta o de columna, o bocas de incendio equipadas, que aseguren de forma inmediata y continua el caudal de agua requerido en la tabla 7.1 durante un tiempo mínimo de una hora.
+
+Cuando los almacenamientos se compongan de más de un tanque, éstos estarán protegidos con sistemas fijos de enfriamiento por agua pulverizada.
+
+La presión dinámica del agua en la punta de la lanza será de 343 kPa (3,5 kilogramos/centímetros cuadrados) con el funcionamiento simultáneo de cuatro bocas de incendio de 45 milímetros de diámetro.
+
+La presión dinámica del agua de salida de la boquilla en la situación más desfavorable hidráulicamente será de 98 kPa (1 kilogramo/centímetro cuadrado), si la proyección se hace con boquillas pulverizadoras orientadas al tanque y, en cualquier caso, la necesaria para obtener una pulverización y cobertura adecuadas, en función del tipo de boquilla utilizada.
+
+3\. Los almacenamientos de superficie con capacidades globales superiores a las del apartado 2 deberán disponer de un sistema de abastecimiento de agua que garantice los caudales requeridos en cada punto de la red con una presión manométrica mínima de 686 kPa (7 kilogramos/centímetro cuadrado).
+
+Las conducciones de la red específica de agua contra incendios seguirán, siempre que sea posible, el trazado de las calles.
+
+Deberá disponerse de un volumen de agua suficiente para los máximos caudales requeridos en la tabla 7.1 para la completa protección de la zona afectada por el incendio y sus alrededores durante un tiempo mínimo de:
+
+Una hora para capacidades de almacenamiento inferiores a 500 metros cúbicos para líquidos de la clase B y 2.000 metros cúbicos para líquidos de la clase C.
+
+Tres horas para capacidades superiores a las del apartado anterior.
+
+La instalación estará dotada de un sistema de bombeo capaz de proporcionar el caudal, resultante de aplicar la tabla 7.1, a la zona de almacenamiento de mayor demanda, más el requerido por el resto de los sistemas de protección de las zonas, que necesiten utilizar agua simultáneamente.
+
+Para los almacenamientos de superficie con capacidad superior a:
+
+500 metros cúbicos para líquidos de la clase B, o
+
+2.000 metros cúbicos para líquidos de la clase C, el caudal mínimo será de 100 m<sup>3</sup>/h.
+
+Cuando el caudal requerido no exceda de 150 m<sup>3</sup>/h la presión podrá conseguirse mediante equipo de bombeo principal único, si existen dos fuentes de energía distintas para accionar el mismo.
+
+4\. Proyección del agua. El agua podrá proyectarse mediante:
+
+Instalaciones fijas de pulverización.
+
+Monitores fijos y móviles.
+
+Equipos de manguera conectados a hidrantes.
+
+Bocas de incendio equipadas.
+
+Los hidrantes de la red de agua contra incendios estarán distribuidos por toda la planta. La distancia de un punto cualquiera de su límite, a nivel de rasante, al hidrante más próximo será inferior a 40 metros.
+
+TABLA 7.1
+
+Evaluación del caudal de agua necesario en caso de incendio en función del tipo de recipiente incendiado
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<p>Clase de líquido del recipiente supuesto incendiado</p>
+</td>
+<td rowspan="3">
+<p>Recipientes a enfriar</p>
+</td>
+<td colspan="3">
+<p>Caudal mínimo de agua a prever (nota 3)</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Para enfriamiento</p>
+</td>
+<td rowspan="2">
+<p>Para espuma</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Recipientes con líquidos de Clase A y B</p>
+</td>
+<td>
+<p>Otros recipientes o instalaciones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.º Líquido Clase B: Capacidad unitaria o global hasta 200 m<sup>3</sup>.</p>
+</td>
+<td>
+<p>El supuesto incendiado y los situados a menos de 10 metros de las paredes de aquél.</p>
+</td>
+<td>
+<p>0,18 m<sup>3</sup>/h (3 l/min) por m<sup>2</sup> de superficie de los recipientes (nota 2).</p>
+</td>
+<td>
+<p>Clase C, según el punto 2.<sup>o</sup> de esta tabla.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Líquido Clase B: Capacidad unitaria o global superior a 200 m<sup>3</sup>.</p>
+</td>
+<td>
+<p>a) El supuesto incendiado y los situados a menos de 30 metros de las paredes de aquél.</p>
+</td>
+<td>
+<p>0,18 m<sup>3</sup>/h (3 l/min) por m<sup>2</sup> de superficie de los recipientes (nota 2).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td rowspan="2">
+<p>Máximo caudal de agua necesaria para producir espuma en el tanque supuesto incendiado y/o a su cubeto.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Los restantes recipientes contenidos en el mismo cubeto.</p>
+</td>
+<td>
+<p>0,06 m<sup>3</sup>/h (1 l/min) por m<sup>2</sup> de superficie de los recipientes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.º Líquido Clase C.</p>
+</td>
+<td>
+<p>a) El supuesto incendiado.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0,90 m<sup>3</sup>/h (15 l/min) por metro de perímetro de proyección horizontal del tanque.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>b) Los situados amenos de 15 metros de las paredes del supuesto incendiado o 1,5 veces su radio.</p>
+</td>
+<td>
+<p>0,18 m<sup>3</sup>/h (3 l/min) por m<sup>2</sup> de superficie de los recipientes (nota 2).</p>
+</td>
+<td>
+<p>Caudales por m<sup>2</sup> de 1/4 de la superficie de los recipientes (nota 2).</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Techo fijo:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Clase B1: 0,30 m<sup>3</sup>/h (5 l/min).</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Clases B2 y C: 0,12 m<sup>3</sup>/h (2 l/min).</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Techo flotante:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>C &lt; 7500 m<sup>3</sup>. 0,18 m 3 /h (3 l/min).</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>C ≥7500 m<sup>3</sup>. 0,12 m<sup>3</sup>/h (2 l/min) (nota 3).</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Notas:
+
+1\. Para refrigeración de los recipientes próximos al incendiado que tengan un aislamiento térmico con una conductancia mínima de 83,64 MJ/h m<sup>2</sup> <sup>O</sup>k (20 Kcal/h m<sup>2</sup> <sup>O</sup>C) resistentes al fuego y al chorro de agua, se usará la mitad del caudal de agua establecido en el cuadro.
+
+2\. Se considera como superficie total a refrigerar: La superficie total para los recipientes cilíndricos de eje horizontal y para los esféricos y la superficie lateral para los restantes recipientes.
+
+3\. Se añadirá el caudal necesario para la protección de las instalaciones adyacentes cuando proceda.
+
+30.2 Protección con espuma para subclase B1. Los tanques de almacenamiento para productos de la subclase B1 de capacidad unitaria igual o superior a 30 m<sup>3</sup>, deberán estar dotados de protección con espuma. Los cubetos que contengan recipientes que almacenen productos de la subclase B1 de capacidad global igual o mayor a 100 m<sup>3</sup>, deberán estar dotados de protección de incendios con espuma contra derrames en cubetos.
+
+El caudal mínimo de agua-espumógeno necesario para los tanques de techo fijo que se deberá suministrar, es de 4 litros por minuto por metro cuadrado de superficie máxima del líquido en el mismo.
+
+Para los tanques de techo flotante.
+
+A) Si las bocas de descarga están por encima del cierre superior.
+
+La distancia máxima entre dos bocas de descarga será de 12 m, medidos sobre la circunferencia del tanque, si se utiliza una pantalla de espuma de 30 cm de altura y de 24 m si la pantalla es de 60 cm.
+
+El caudal de aplicación y suministro de espumógeno debe calcularse utilizando el área de la corona circular comprendida entre la pantalla de espuma y el cuerpo cilíndrico del tanque.
+
+El caudal mínimo de espumante debe ser de 6,5 litros/minuto/metro cuadrado.
+
+B) Si las bocas de descarga están por debajo del cierre.
+
+El caudal de aplicación y suministro de espumógeno debe calcularse utilizando el área de la corona circular comprendida entre el cuerpo cilíndrico del tanque y el borde del techo flotante.
+
+El caudal mínimo de espumante debe ser de 20 litros/minuto/metro cuadrado.
+
+Si se utiliza el cierre tubular la distancia entre dos bocas no debe exceder de 18 m.
+
+Si se utiliza el cierre pantógrafo, la distancia entre dos bocas no debe de exceder de 40 m.
+
+30.2.1 Tiempos mínimos de aplicación. Para tanques de techo fijo el mínimo tiempo de aplicación será de una hora, para la subclase B1.
+
+Para los tanques de techo flotante con boca de descarga por encima del cierre, el tiempo mínimo de descarga será de veinte minutos.
+
+Para los tanques de techo flotante con boca de descarga por debajo del cierre, el tiempo mínimo de aplicación será de diez minutos.
+
+30.2.2 Protección de incendios de derrames en cubetos. Para la protección de incendios de derrames en cubetos deberá contarse con generadores de espuma de un caudal unitario mínimo de 11,4 m<sup>3</sup>/h (190 litros/minuto). Para cubrir este requerimiento deberá disponerse, al menos, del número de generadores y tiempo mínimo de aplicación que se indican a continuación:
+
+| Diámetro en m del mayor de los tanques | Número de generadores requerido | Tiempo mínimo de aplicación (*) (min) |
+|---|---|---|
+| < 20 | 1 | 20 |
+| ≤ 20 ∅ < 36 | 2 | 30 |
+| ≥ 36 | 3 | 30 |
+
+(*) El tiempo mínimo de aplicación en minutos está basado en la operación simultánea del número de generadores requerido considerando un caudal unitario de 11,4 m<sup>3</sup>/h.
+
+Cuando los generadores sean de mayor capacidad se podrán efectuar los correspondientes ajustes en tiempos mínimos de aplicación, manteniendo constante la cantidad total de agua-espuma a verter.
+
+Se tendrá una cantidad de espumógeno suficiente para proteger el tanque de mayor superficie y su cubeto, en cada una de las zonas independientes en que está dividido el almacenamiento, con los caudales y tiempos de aplicación que se han indicado en los párrafos anteriores. Se dispondrá, además, de una reserva tal que el plazo máximo de veinticuatro horas permita la reposición para la puesta en funcionamiento del sistema a plena carga.
+
+La protección por espuma, a efectos de este apartado, puede sustituirse por otro agente extintor que, en los tiempos especificados anteriormente, dé lugar a una protección de eficacia equivalente, lo cual deberá justificarse en el proyecto a que hace referencia el capítulo VIII de la presente ITC.
+
+Este sistema podrá sustituir a la protección mediante espuma del tanque, pero no a la del cubeto.
+
+30.3 Protección con extintores. En todas las zonas del almacenamiento donde existan conexiones de mangueras, bombas, válvulas de uso frecuente o análogos, situados en el exterior de los cubetos y en sus accesos se dispondrá de extintores del tipo adecuado al riesgo y con eficacia mínima 144B para productos de clase B y de 89B para productos de las clases C y D.
+
+Los extintores, generalmente, serán de polvo, portátiles o sobre ruedas, dispuestos de tal forma que la distancia a recorrer horizontalmente desde cualquier punto del área protegida hasta alcanzar el extintor adecuado más próximo no exceda de 15 m.
+
+En las inmediaciones del aparato surtidor o de la isleta de repostamiento se situará un extintor por cada equipo de suministro, de polvo BC, de eficacia extintora 144B para los productos de la clase B y 89B para los productos de las clases C y D. La distancia de los extintores a los puntos de suministro no podrá exceder de 15 m para clase B y 25 m de clases C y D.
+
+30.4 Alarmas. Los almacenamientos de superficie con capacidad global superior a 50 m 3 para los subclase B1, 100 m<sup>3</sup> para los subclase B2, 500 m<sup>3</sup> para los clases C y D dispondrán en los accesos al cubeto y en el exterior de los mismos de puestos para el accionamiento de la alarma, emplazados de tal forma que la distancia a recorrer no exceda de 25 m, desde cualquier punto de la zona de riesgo.
+
+Los puestos de accionamiento manual de alarma podrán ser sustituidos por detectores automáticos, transmisores portátiles en poder de vigilantes o personal de servicio, u otros medios de vigilancia continua del área de almacenamiento (circuito cerrado de TV, etc.).
+
+Se establecerá alarma acústica, perfectamente audible en toda la zona, distinta de las señales destinadas a otros usos.
+
+30.5 Estabilidad ante el fuego. Los soportes metálicos o apoyos críticos deberán tener una estabilidad al fuego EF-180 como mínimo.
+
+Como soporte o apoyo crítico se entiende aquel que, en caso de fallo, puede ocasionar un daño o un riesgo grave. Por ejemplo, soportes de tanques elevados, columnas de edificios de más de una planta.
+
+31\. En instalaciones de superficie en el interior de edificios
+
+Para los productos de la clase B.
+
+Cuando el volumen almacenado sea igual o inferior a 0,3 m<sup>3</sup> se instalarán extintores de tipo adecuado al riesgo y con eficacia mínima de 144B.
+
+Cuando la cantidad exceda de 0,3 m<sup>3</sup> se realizará sala de almacenamiento independiente con un sistema fijo de detección y extinción automática.
+
+Para los productos de las clases C y D.
+
+Se instalarán extintores de tipo adecuado al riesgo y con eficacia mínima 89B.
+
+En todas estas instalaciones los medios de protección y extinción que tengan funcionamiento manual deberán estar al alcance del personal que los maneje. Entre el almacenamiento y los equipos la distancia máxima en horizontal no excederá de 15 m; de estar los tanques dentro de cubeto o habitación, los equipos se encontrarán fuera.
+
+31.1 Protección con extintores. En todas las zonas del almacenamiento donde existan conexiones de mangueras, bombas, válvulas de uso frecuente o análogos, situados en el exterior de los cubetos y en sus accesos se dispondrá de extintores del tipo adecuado al riesgo y con eficacia mínima 144B para productos de clase B y de 89 B para productos de las clases C y D.
+
+Los extintores, generalmente, serán de polvo, portátiles o sobre ruedas, dispuestos de tal forma que la distancia a recorrer horizontalmente desde cualquier punto del área protegida hasta alcanzar el extintor adecuado más próximo no exceda de 10 m.
+
+En las inmediaciones del aparato surtidor o de la isleta de repostamiento, se situará un extintor por cada equipo de suministro, de polvo BC, de eficacia extintora 144B para los productos de la clase B y 89B para los productos de las clases C y D. La distancia de los extintores a los puntos de suministro no podrá exceder de 15 m para los de clase B y 25 m para los de las clases C y D.
+
+Junto a cada equipo de suministro se instalará un extintor de eficacia extintora mínima 144B para clase B y 89B para clases C y D. La distancia de los extintores a los surtidores no será superior a 10 m.
+
+31.2 Alarmas. Los almacenamientos de superficie con capacidad global superior a 0,3 m<sup>3</sup> para la clase B y 50 m<sup>3</sup> para las clases C y D dispondrán de puestos para el accionamiento de la alarma que estén a menos de 25 m de los tanques, bombas o estaciones de carga y descarga.
+
+Los puestos de accionamiento manual de alarma podrán ser sustituidos por detectores automáticos, transmisores portátiles en poder de vigilantes o personal de servicio, o otros medios de vigilancia continua del área de almacenamiento (circuito cerrado de TV, etc.).
+
+Se establecerá alarma acústica, perfectamente audible en toda la zona, distinta de las señales destinadas a otros usos.
+
+La sala en donde se instalen equipos de suministro y control para productos de la clase B se dotará de un sistema de detección automática de incendios.
+
+31.3 Estabilidad ante el fuego. Los soportes metálicos o apoyos críticos deberán tener una estabilidad al fuego EF-180 como mínimo.
+
+Como soporte o apoyo crítico se entiende aquel que, en caso de fallo, puede ocasionar un daño o un riesgo grave. Tales como: soportes de tanques elevados, columnas de edificios de más de una planta.
+
+> Se modifica por el art. 2, según se indica en el Anexo I, del Real Decreto 1523/1999, de 1 de octubre. [Ref. BOE-A-1999-20723](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-20723)
+
+> Redactado conforme a la corrección de errores publicada en BOE de 3 de marzo de 2000. [Ref. BOE-A-2000-4221](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4221)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 21, de 24 de enero de 1998. [Ref. BOE-A-1998-1458](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1458)
+
+## CAPÍTULO VIII — Comunicación de instalaciones
+
+Los titulares de los almacenamientos de carburantes y combustibles líquidos deberán presentar ante el órgano competente de la Comunidad Autónoma la documentación que se establece en los siguientes puntos de este capítulo
+
+Las instalaciones objeto de esta Instrucción Técnica Complementaria, serán realizadas por empresas instaladoras habilitadas según lo establecido en la Instrucción Técnica Complementaria MI-IP05 «Instaladores o reparadores y empresas instaladoras o reparadoras de productos petrolíferos líquidos», aprobada por Real Decreto 365/2005, de 8 de abril.
+
+32\. Instalaciones con proyecto
+
+Será preciso la presentación ante el órgano territorial competente, del correspondiente proyecto técnico y certificado final de obra de la dirección facultativa, firmado por técnico titulado competente, según lo dispuesto en el capítulo III del Reglamento de Instalaciones Petrolíferas, aprobado por el Real Decreto 2085/1994, de 20 de octubre, para las capacidades totales de almacenamiento y productos siguientes:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Tipo de producto</p>
+</td>
+<td colspan="2">
+<p>Disposición de almacenamiento</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Interior</p>
+<p>–</p>
+<p>litros</p>
+</td>
+<td>
+<p>Exterior</p>
+<p>–</p>
+<p>litros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Clase B</p>
+</td>
+<td>
+<p>&gt; 300</p>
+</td>
+<td>
+<p>&gt; 500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Clases C y D</p>
+</td>
+<td>
+<p>&gt; 3.000</p>
+</td>
+<td>
+<p>&gt; 5.000</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+33\. Instalaciones sin proyecto
+
+No será necesaria la presentación de proyecto cuando la capacidad de almacenamiento (Q) sea:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Tipo de producto</p>
+</td>
+<td colspan="2">
+<p>Disposición de almacenamiento</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Interior</p>
+<p>–</p>
+<p>litros</p>
+</td>
+<td>
+<p>Exterior</p>
+<p>–</p>
+<p>litros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Clase B</p>
+</td>
+<td>
+<p>300 ≥ Q ≥ 50</p>
+</td>
+<td>
+<p>500 ≥ Q ≥ 100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Clases C y D</p>
+</td>
+<td>
+<p>3.000 ≥ Q &gt; 1.000</p>
+</td>
+<td>
+<p>5.000 ≥ Q &gt; 1.000</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+En estos casos será suficiente la presentación ante el órgano territorial competente, de documento (memoria resumida y croquis) en el que se describa y detalle la misma, y certificado final acreditativo de la adaptación de las instalaciones a la Instrucción Técnica Complementaria, responsabilizándose de la instalación, firmados ambos por un instalador de P.P.L. de la empresa instaladora de la obra.
+
+34\. Resto de instalaciones
+
+El resto de las instalaciones de almacenamiento de capacidades inferiores a las anteriormente establecidas, quedan excluidas del trámite de presentación de documentación pero cumpliendo, en todo caso, las normas de seguridad establecidas en esta Instrucción Técnica Complementaria.
+
+35\. Documentos del proyecto de una instalación
+
+Los documentos que contendrá como mínimo todo proyecto serán los siguientes:
+
+1\. Memoria descriptiva y cálculos.
+
+2\. Planos.
+
+3\. Mediciones-Presupuesto.
+
+4\. Pliego de condiciones.
+
+5\. Plan de ejecución de obras.
+
+Los documentos memoria, pliego y presupuesto, así como cada uno de los planos, deberán ser firmados por el técnico titulado competente.
+
+> Se modifica el primer párrafo por el art. 4 del Real Decreto 542/2020, de 26 de mayo. [Ref. BOE-A-2020-6472](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6472)
+
+> Se modifica por el art. 6.3 a 8 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+> Se modifica por el art. 2, según se indica en el Anexo I, del Real Decreto 1523/1999, de 1 de octubre. [Ref. BOE-A-1999-20723](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-20723)
+
+> Redactado conforme a la corrección de errores publicada en BOE de 3 de marzo de 2000. [Ref. BOE-A-2000-4221](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4221)
+
+## CAPÍTULO IX — Obligaciones y responsabilidades
+
+36\. De los titulares
+
+El titular de las instalaciones comprendida en esta instrucción técnica, queda obligado a mantenerlas en correcto estado de funcionamiento y será responsable, en todo momento, del cumplimiento de los requisitos técnicos y de seguridad que la misma establece, sin perjuicio de la legislación de protección del medio ambiente aplicable.
+
+37\. De las empresas instaladoras
+
+El montaje, mantenimiento, conservación y, en su caso, la reparación de las instalaciones, deberá realizarse con equipos propios o por empresas instaladoras o reparadoras, según corresponda, debidamente habilitadas según lo establecido en la Instrucción Técnica Complementaria MI-IP05 «Instaladores o reparadores y empresas instaladoras o reparadoras de productos petrolíferos líquidos», aprobada por Real Decreto 365/2005, de 8 de abril, con personal especializado que tendrá como obligaciones, además de lo establecido en el Reglamento de Instalaciones Petrolíferas, aprobado por el Real Decreto 2085/1994, de 20 de octubre, las siguientes:
+
+a) Controlar los materiales y la ejecución de los trabajos que se lleven a cabo.
+
+b) Realizar o hacer realizar las pruebas exigidas por la Reglamentación y Normativas vigentes.
+
+c) Emitir o hacer emitir los certificados pertinentes.
+
+d) Responsabilizarse de las deficiencias de ejecución de las instalaciones que construyan.
+
+> Se modifica el primer párrafo del apartado 37 por el art. 6.9 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+> Se modifica por el art. 2, según se indica en el Anexo I, del Real Decreto 1523/1999, de 1 de octubre. [Ref. BOE-A-1999-20723](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-20723)
+
+## CAPÍTULO X — Revisiones e inspecciones periódicas
+
+De conformidad con lo dispuesto en el artículo 12.2 de la Ley 21/1992, de 16 de julio, de Industria, sobre cumplimiento reglamentario y lo establecido en el artículo 9 del Reglamento de Instalaciones Petrolíferas, aprobado por el Real Decreto 2085/1994, de 20 de octubre, sobre Conservación e Inspección, las instalaciones comprendidas en esta instrucción técnica deberán someterse a las revisiones, pruebas e inspecciones periódicas que a continuación se indican:
+
+38\. Revisión y pruebas periódicas
+
+El titular de las instalaciones, en cumplimiento de las obligaciones señaladas en el capítulo anterior, deberá solicitar la actuación de las empresas instaladoras, mantenedoras o conservadoras de nivel correspondiente a la instalación, a fin de revisar y comprobar, dentro de los plazos que se señalan, el correcto estado y funcionamiento de los elementos, equipos e instalaciones, según los requisitos y condiciones técnicas o de seguridad exigidos por los reglamentos y normas que sean de aplicación. Del resultado de las revisiones se emitirán, por ellas, los correspondientes certificados, informes o dictámenes debidamente diligenciados, los cuales serán conservados por el titular a disposición de la Administración que lo solicite.
+
+Tales revisiones podrán ser llevadas a cabo igualmente por los organismos de control autorizados en el campo correspondiente.
+
+En las instalaciones contempladas en esta ITC se realizarán además de las revisiones y pruebas que obligan los Reglamentos existentes para los aparatos, equipos e instalaciones incluidas en los mismos, las siguientes:
+
+38.1 Instalaciones de superficie. 1. El correcto estado de las paredes de los cubetos, cimentaciones de tanques, vallado, cerramiento, drenajes, bombas, equipos, instalaciones auxiliares, etc.
+
+2\. En caso de existir puesta a tierra, se comprobará la continuidad eléctrica de las tuberías o del resto de elementos metálicos de la instalación en caso de no existir documento justificativo de haber efectuado revisiones periódicas por el servicio de mantenimiento de la planta.
+
+3\. En los tanques y tuberías se comprobará el estado de las paredes y medición de espesores si se observa algún deterioro en el momento de la revisión.
+
+4\. Comprobación del correcto estado de las bombas, surtidores, mangueras y boquereles.
+
+38.1.1 Instalaciones que no requieren proyecto. Cada diez años se realizarán las revisiones y pruebas descritas en 38.1.
+
+38.1.2 Instalaciones que requieran proyecto. Cada cinco años se realizarán las revisiones y pruebas descritas en 38.1.
+
+38.2 Instalaciones enterradas. En las instalaciones enterradas de almacenamiento para su consumo en la propia instalación se realizarán además las siguientes pruebas:
+
+a) Protección activa. Cuando la protección catódica sea mediante corriente impresa, se comprobará el funcionamiento de los aparatos cada tres meses.
+
+Se certificará el correcto funcionamiento de la protección activa con la periodicidad siguiente:
+
+Tanques de capacidad no superior a 10 m<sup>3</sup> cada cinco años, coincidiendo con la prueba periódica.
+
+Tanques y grupos de tanques con capacidad global hasta 60 m<sup>3</sup> cada dos años.
+
+Tanques y grupos de tanques con capacidad global de más de 60 m<sup>3</sup> cada año.
+
+b) A los tanques de doble pared con detección automática de fugas, no será necesario la realización de las pruebas periódicas de estanquidad. Cuando se detecte una fuga se procederá a la reparación o sustitución del tanque.
+
+c) A los tanques enterrados en cubeto estanco con tubo buzo, no será necesario la realización de las pruebas periódicas de estanquidad. El personal de la instalación comprobará al menos semanalmente la ausencia de producto en el tubo buzo.
+
+Cuando se detecte una fuga se procederá a la reparación o sustitución del tanque.
+
+d) A los tanques que no se encuentren en las situaciones b) o c) se les realizará una prueba de estanquidad, según las opciones siguientes:
+
+1\. Cada cinco una prueba de estanquidad, pudiéndose realizar con producto en el tanque y la instalación en funcionamiento.
+
+2\. Cada diez años una prueba de estanquidad, en tanque vacío, limpio y desgasificado, tras examen visual de la superficie interior y medición de espesores en tanques metálicos no revestidos.
+
+e) Las tuberías deberán ser sometidas cada cinco años a una prueba de estanquidad.
+
+f) La primera prueba de estanquidad se realizará a los diez años de su instalación o reparación.
+
+El sistema para realizar la prueba de estanquidad ha de garantizar la detección de una fuga de 100 ml/h y tiene que estar evaluado con el procedimiento indicado en el informe UNE 53.968. El laboratorio de ensayo que realice la evaluación ha de estar acreditado de acuerdo con el Real Decreto 2200/1995.
+
+Estas pruebas serán certificadas por un organismo de control autorizado.
+
+Así mismo, si las instalaciones disponen de algún sistema de detección de fugas distinto a los indicados en los párrafos b) o c), el órgano territorial competente en materia de industria de la Comunidad Autónoma podrá conceder la exención de las pruebas periódicas de estanquidad o aumentar su periodicidad.
+
+No será necesario realizar la prueba de estanquidad en las revisiones de tanques enterrados que contengan fuelóleos, dado que las características del producto (fluidez crítica alta, viscosidad elevada, etc.) hacen que sea prácticamente imposible que fuguen.
+
+39\. Inspecciones periódicas
+
+Se inspeccionarán cada diez años todas aquellas instalaciones que necesiten proyecto. Esta inspección será realizada por un organismo de control autorizado.
+
+La inspección consistirá, fundamentalmente, en la comprobación del cumplimiento, por parte del titular responsable de la instalación, de haberse realizado en tiempo y forma, las revisiones, pruebas, verificaciones periódicas u ocasionales indicadas para cada tipo de instalación en la presente instrucción. El procedimiento a seguir, sin que éste tenga carácter limitativo, será el siguiente:
+
+1\. Identificación del establecimiento o instalación respecto a los datos de su titular, emplazamiento y registros.
+
+2\. Comprobación de que no se han realizado ampliaciones o modificaciones que alteren las condiciones de seguridad por las que se aprobó la instalación inicial, o que en caso de haberse producido éstas, se ha presentado ante el órgano competente de la comunidad autónoma la documentación correspondiente según lo establecido en el Reglamento de instalaciones petrolíferas, aprobado por el Real Decreto 2085/1994, de 20 de octubre.
+
+3\. Comprobación de que la forma y capacidad del almacenamiento, así como la clase de los productos almacenados, siguen siendo los mismos que los declarados inicialmente, o como consecuencia de ampliaciones o modificaciones posteriores.
+
+4\. Comprobación de las distancias de seguridad y medidas correctoras.
+
+5\. Mediante inspección visual, se comprobará el correcto estado de las paredes de los tanques, cuando estos sean aéreos, así como el de las paredes de los cubetos, cimentaciones y soportes, cerramientos, drenajes, bombas y equipos e instalaciones auxiliares.
+
+6\. En los tanques y tuberías inspeccionables visualmente, se medirán los espesores de chapa, comprobando si existen picaduras, oxidaciones o golpes que puedan inducir roturas y fugas.
+
+7\. Comprobación del correcto estado de mangueras y boquereles de aparatos surtidores o equipos de trasiego.
+
+8\. Inspección visual de las instalaciones eléctricas, cuadros de mando y maniobra, protecciones, instrumentos de medida, circuitos de alumbrado y fuerza motriz, señalizaciones y emergencias.
+
+9\. En el caso de existir puesta a tierra, si no existiera constancia documental de haberse realizado las revisiones periódicas reglamentarias, se comprobará la continuidad eléctrica de tuberías o del resto de los elementos metálicos de la instalación.
+
+10\. Se comprobará que se han realizado, en tiempo y forma, las revisiones y pruebas periódicas.
+
+Del resultado de la inspección se levantará un acta en triplicado ejemplar, la cual será suscrita por el técnico inspector de la Administración o del organismo de control autorizado actuante, invitando al titular o representante autorizado por éste a firmarla, expresando así su conformidad o las alegaciones que en su derecho corresponda, quedando un ejemplar en poder del titular, otro en poder del técnico inspector y el tercero para unirlo al expediente que figure en los archivos del organismo de la Administración competente a los efectos que procedan.
+
+> Se modifican los apartados 39.1, 2 y 3 por el art. 6.10 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+> Se modifica por el art. 2, según se indica en el Anexo I, del Real Decreto 1523/1999, de 1 de octubre. [Ref. BOE-A-1999-20723](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-20723)
+
+> Redactado conforme a la corrección de errores publicada en BOE de 3 de marzo de 2000. [Ref. BOE-A-2000-4221](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4221)
+
+## ANEXO — Normas admitidas para el cumplimiento de la Instrucción MI-IP03
+
+<table>
+<thead>
+<tr>
+<th>Norma</th>
+<th>Norma internacional o europea equivalente</th>
+<th>Título</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>UNE-EN 976(1)-98</p>
+<p>UNE-EN 976 (1)-99 ERRATUM</p>
+</td>
+<td>EN 976-1:97</td>
+<td>Tanques enterrados de plásticos reforzados con fibra de vidrio (prfv) tanques cilíndricos horizontales para el almacenamiento sin presión de carburantes petrolíferos líquidos. Parte 1: requisitos y métodos de ensayo para tanques de una sola pared.</td>
+</tr>
+<tr>
+<td>UNE-EN 976(2)-98</td>
+<td>EN 976-2: 97</td>
+<td>Tanques enterrados de plásticos reforzados con fibra de vidrio (prfv) tanques cilíndricos horizontales para el almacenamiento sin presión de carburantes petrolíferos líquidos. Parte 2: transporte, manejo, almacenamiento e instalación de tanques de una sola pared.</td>
+</tr>
+<tr>
+<td>UNE-EN 1057-96</td>
+<td>EN 1057:96</td>
+<td>Cobre y aleaciones de cobre. Tubos redondos de cobre, sin soldadura, para agua y gas en aplicaciones sanitarias y de calefacción.</td>
+</tr>
+<tr>
+<td>UNE-EN 10242-95</td>
+<td>EN 10242:94</td>
+<td>Accesorios roscados de fundición maleable para tuberías.</td>
+</tr>
+<tr>
+<td>UNE 19.011-86</td>
+<td> </td>
+<td>Tubos lisos de acero, soldados y sin soldadura. Tablas generales de medidas y masas por metro lineal.</td>
+</tr>
+<tr>
+<td>UNE 19.040-93</td>
+<td> </td>
+<td>Tubos roscables de acero de uso general. Medidas y masas. Serie normal.</td>
+</tr>
+<tr>
+<td>UNE 19.041-93</td>
+<td> </td>
+<td>Tubos roscables de acero de uso general. Medidas y masas. Serie reforzada.</td>
+</tr>
+<tr>
+<td>UNE 19.045-96</td>
+<td> </td>
+<td>Tubos de acero soldados roscables. Tolerancias y características.</td>
+</tr>
+<tr>
+<td>UNE 19.046-93</td>
+<td> </td>
+<td>Tubos de acero sin soldadura roscables. Tolerancias y características.</td>
+</tr>
+<tr>
+<td>UNE 19.051-96</td>
+<td> </td>
+<td>Tubos de acero soldados (no galvanizados) para instalaciones interiores de agua.</td>
+</tr>
+<tr>
+<td>UNE 19.071-63</td>
+<td> </td>
+<td>Codos y curvas de tubo de acero, para soldar (a 90 grados y 180 grados).</td>
+</tr>
+<tr>
+<td>UNE 23.093(1)-98</td>
+<td> </td>
+<td>Ensayos de resistencia al fuego. Parte 1: requisitos generales.</td>
+</tr>
+<tr>
+<td>UNE 23.093(2)-98</td>
+<td> </td>
+<td>Ensayos de resistencia al fuego. Parte 2: procedimientos alternativos y adicionales.</td>
+</tr>
+<tr>
+<td>UNE 23.501-88</td>
+<td> </td>
+<td>Sistemas fijos de agua pulverizada. Generalidades.</td>
+</tr>
+<tr>
+<td>UNE 23.502-86</td>
+<td> </td>
+<td>Sistemas fijos de agua pulverizada. Componentes del sistema.</td>
+</tr>
+<tr>
+<td>UNE 23.503-89</td>
+<td> </td>
+<td>Sistemas fijos de agua pulverizada. Diseño e instalaciones.</td>
+</tr>
+<tr>
+<td>UNE 23.504-86</td>
+<td> </td>
+<td>Sistemas fijos de agua pulverizada. Ensayos de recepción.</td>
+</tr>
+<tr>
+<td>UNE 23.505-86</td>
+<td> </td>
+<td>Sistemas fijos de agua pulverizada. Ensayos periódicos y mantenimiento.</td>
+</tr>
+<tr>
+<td>UNE 23.506-89</td>
+<td> </td>
+<td>Sistemas fijos de agua pulverizada. Planos, especificaciones y cálculos hidráulicos.</td>
+</tr>
+<tr>
+<td>UNE 23.507-89</td>
+<td> </td>
+<td>Sistemas fijos de agua pulverizada. Equipos de detección automática.</td>
+</tr>
+<tr>
+<td>UNE 23.521-90</td>
+<td> </td>
+<td>Sistemas de extinción por espuma física de baja expansión. Generalidades.</td>
+</tr>
+<tr>
+<td>UNE 23.522-83</td>
+<td> </td>
+<td>Sistemas de extinción por espuma física de baja expansión. Sistema fijos para protección de riesgos interiores.</td>
+</tr>
+<tr>
+<td>UNE 23.523-84</td>
+<td> </td>
+<td>Sistemas de extinción por espuma física de baja expansión. Sistemas fijos para protección de riesgos exteriores. Tanques de almacenamiento de combustibles líquidos.</td>
+</tr>
+<tr>
+<td>UNE 23.524-83</td>
+<td> </td>
+<td>Sistemas de extinción por espuma física de baja expansión. Sistemas fijos para protección de riesgos exteriores. Espuma pulverizada.</td>
+</tr>
+<tr>
+<td>UNE 23.525-83</td>
+<td> </td>
+<td>Sistemas de extinción por espuma física de baja expansión. Sistemas para protección de riesgos exteriores. Monitores, lanzas y torres de espuma.</td>
+</tr>
+<tr>
+<td>UNE 23.526-84</td>
+<td> </td>
+<td>Sistemas de extinción por espuma física de baja expansión. Ensayos de recepción y mantenimiento.</td>
+</tr>
+<tr>
+<td>UNE 23.727-90</td>
+<td> </td>
+<td>Ensayos de reacción al fuego de los materiales de construcción, clasificación de los materiales utilizados en la construcción.</td>
+</tr>
+<tr>
+<td>UNE 23.801-79</td>
+<td> </td>
+<td>Ensayo de resistencia al fuego de elementos de construcción vidriados.</td>
+</tr>
+<tr>
+<td>UNE 23.802(1)-98</td>
+<td> </td>
+<td>Ensayo de resistencia al fuego de puertas y elementos de cierre de huecos. Parte 1: puertas y cerramientos cortafuegos.</td>
+</tr>
+<tr>
+<td>UNE 37.505-89</td>
+<td> </td>
+<td>Recubrimientos galvanizados en caliente sobre tubos de acero. Características y métodos de ensayo.</td>
+</tr>
+<tr>
+<td>
+<p>UNE 53.432(1)-92</p>
+<p>UNE 53.432(1)-94 ERRATUM</p>
+</td>
+<td> </td>
+<td>Plásticos. Depósitos de polietileno de alta densidad (pe-hd) destinados a almacenar productos petrolíferos líquidos con punto de inflamación superior a 55 <sup>o</sup>C. Depósitos no pigmentados. Parte 1: ensayos y características generales.</td>
+</tr>
+<tr>
+<td>UNE 53.432(2)-92</td>
+<td> </td>
+<td>Plásticos. Depósitos de polietileno de alta densidad (pe-hd) destinados a almacenar productos petrolíferos líquidos con punto de inflamación superior a 55 <sup>o</sup>C. Depósitos no pigmentados. Parte 2: especificaciones particulares para depósitos fabricados por extrusión-soplado.</td>
+</tr>
+<tr>
+<td>UNE 53.432(3)-92</td>
+<td> </td>
+<td>Plásticos. Depósitos de polietileno de alta densidad (pe-hd) destinados a almacenar productos petrolíferos líquidos con punto de inflamación superior a 55 <sup>o</sup>C. Depósitos no pigmentados. Parte 3: especificaciones particulares para depósitos fabricados por moldeo rotacional. Polietileno reticulado.</td>
+</tr>
+<tr>
+<td>UNE 53.496(1)-93 Experimental + UNE 53.496-11M:96 Experimental</td>
+<td> </td>
+<td>Plásticos. Depósitos, aéreos o en fosa, de plástico reforzado con fibra de vidrio destinados a almacenar productos petrolíferos. Parte 1: características generales.</td>
+</tr>
+<tr>
+<td>UNE 53.496(2)-93 Experimental</td>
+<td> </td>
+<td>Plásticos. Depósitos, aéreos o en fosa, de plástico reforzado con fibra de vidrio destinados a almacenar productos petrolíferos. Parte 2: características particulares para depósitos horizontales y verticales.</td>
+</tr>
+<tr>
+<td>
+<p>UNE 53.935:2014</p>
+<p>UNE 53.935:2014/1M:2015</p>
+</td>
+<td> </td>
+<td>Construcción de tanques de doble pared por transformación <em>in situ</em> de tanques de plástico reforzado con fibra de vidrio (PRFV).</td>
+</tr>
+<tr>
+<td>UNE 53.968(1)-99 Informe</td>
+<td> </td>
+<td>Procedimientos normalizados para evaluar métodos de verificación de la estanquidad en depósitos atmosféricos. Parte 1: generalidades.</td>
+</tr>
+<tr>
+<td>UNE 53.968(2)-99 Informe</td>
+<td> </td>
+<td>Procedimientos normalizados para evaluar métodos de verificación de la estanquidad en depósitos atmosféricos. Parte 2: métodos volumétricos.</td>
+</tr>
+<tr>
+<td>UNE 53.968(3)-99 Informe</td>
+<td> </td>
+<td>Procedimientos normalizados para evaluar métodos de verificación de la estanquidad en depósitos atmosféricos. Parte 3: métodos no volumétricos.</td>
+</tr>
+<tr>
+<td>UNE 53.990 Informe</td>
+<td> </td>
+<td>Plásticos. Instalación de depósitos aéreos o en fosa, fabricados en plástico reforzado con fibra de vidrio (pr-fv) para el almacenamiento de productos petrolíferos líquidos.</td>
+</tr>
+<tr>
+<td>UNE 53.991:2018 Informe</td>
+<td> </td>
+<td>Plásticos. Reparación y revestimiento interior de depósitos metálicos, para el almacenamiento de productos petrolíferos líquidos, con plásticos reforzados.</td>
+</tr>
+<tr>
+<td>UNE 53.993 Informe</td>
+<td> </td>
+<td>Plásticos. Instalación de depósitos de polietileno de alta densidad pe-hd para productos petrolíferos líquidos con punto de inflamación superior a 55 <sup>o</sup>C.</td>
+</tr>
+<tr>
+<td rowspan="2">UNE EN 60.079-10:97</td>
+<td>EN 60.079-10:96</td>
+<td rowspan="2">Material eléctrico para atmósferas de gas explosivas. Parte 10: clasificación de emplazamientos peligrosos.</td>
+</tr>
+<tr>
+<td>CEI 60.079-10:95</td>
+</tr>
+<tr>
+<td>UNE 62.350(1)-99</td>
+<td> </td>
+<td>Tanques de acero para almacenamiento de carburantes y combustibles líquidos. Tanques de capacidad mayor de 3.000 litros. Parte 1: tanques horizontales de pared simple.</td>
+</tr>
+<tr>
+<td>UNE 62.350(2)-99</td>
+<td> </td>
+<td>Tanques de acero para almacenamiento de carburantes y combustibles líquidos. Tanques de capacidad mayor de 3.000 litros. Parte 2: tanques horizontales de doble pared (acero-acero).</td>
+</tr>
+<tr>
+<td>UNE 62.350(3)-99</td>
+<td> </td>
+<td>Tanques de acero para almacenamiento de carburantes y combustibles líquidos. Tanques de capacidad mayor de 3.000 litros. Parte 3: tanques horizontales de doble pared (acero-polietileno).</td>
+</tr>
+<tr>
+<td>UNE 62.350(4)-99</td>
+<td> </td>
+<td>Tanques de acero para almacenamiento de carburantes y combustibles líquidos. Tanques de capacidad mayor de 3.000 litros. Parte 4: tanques horizontales de doble pared (acero-plástico reforzado con fibra de vidrio).</td>
+</tr>
+<tr>
+<td>UNE 62.351(1)-99</td>
+<td> </td>
+<td>Tanques de acero para almacenamiento de carburantes y combustibles líquidos. Tanques de hasta 3.000 litros de capacidad. Parte 1: tanques de pared simple.</td>
+</tr>
+<tr>
+<td>UNE 62.351(2)-99</td>
+<td> </td>
+<td>Tanques de acero para almacenamiento de carburantes y combustibles líquidos. Tanques de hasta 3.000 litros de capacidad. Parte 2: tanques de doble pared (acero-acero).</td>
+</tr>
+<tr>
+<td>UNE 62.351(3)-99</td>
+<td> </td>
+<td>Tanques de acero para almacenamiento de carburantes y combustibles líquidos. Tanques de hasta 3.000 litros de capacidad. Parte 3: tanques de doble pared (acero-polietileno).</td>
+</tr>
+<tr>
+<td>UNE 62.351(4)-99</td>
+<td> </td>
+<td>Tanques de acero para almacenamiento de carburantes y combustibles líquidos. Tanques de hasta 3.000 litros de capacidad. Parte 4: tanques de doble pared (acero-plástico reforzado con fibra de vidrio).</td>
+</tr>
+<tr>
+<td>UNE 62.352-99</td>
+<td> </td>
+<td>Tanques de acero para almacenamiento de carburantes y combustibles líquidos. Tanques aéreos paralelepipédicos de hasta 2.000 litros de capacidad.</td>
+</tr>
+<tr>
+<td>
+<p>UNE 62.422:2014</p>
+<p>UNE 62.422:2014/1M:2015</p>
+<p>UNE 62.422:2014/2M:2021</p>
+</td>
+<td> </td>
+<td>Construcción de tanques de doble pared por transformación <em>in situ</em> de tanques de acero.</td>
+</tr>
+<tr>
+<td>UNE 100.151-88</td>
+<td> </td>
+<td>Climatización. Pruebas de estanquidad de redes de tuberías.</td>
+</tr>
+<tr>
+<td>UNE 104.281(4-2)-86</td>
+<td> </td>
+<td>Materiales bituminosos y bituminosos modificados. Materiales para sellado de juntas en elementos de hormigón. Métodos de ensayo. Penetración.</td>
+</tr>
+<tr>
+<td>UNE 109.100-90 Informe</td>
+<td> </td>
+<td>Control de la electricidad estática en atmósferas inflamables. Procedimientos prácticos de operación. Carga y descarga de vehículos-cisterna, contenedores-cisterna y vagones-cisterna.</td>
+</tr>
+<tr>
+<td>UNE 109.108(1)-95 Informe</td>
+<td> </td>
+<td>Almacenamiento de productos químicos. Control de la electricidad estática. Parte 1: pinza de puesta a tierra.</td>
+</tr>
+<tr>
+<td>UNE 109.108(2)-95 Informe</td>
+<td> </td>
+<td>Almacenamiento de productos químicos. Control de la electricidad estática. Parte 2: borna de puesta a tierra.</td>
+</tr>
+<tr>
+<td>UNE 109.500 Informe</td>
+<td> </td>
+<td>Instalación no enterrada de tanques de acero paralelepipédicos para almacenamiento de carburantes y combustibles líquidos.</td>
+</tr>
+<tr>
+<td>UNE 109.501 Informe</td>
+<td> </td>
+<td>Instalación de tanques de acero aéreos o en fosa para almacenamiento de carburantes y combustibles líquidos.</td>
+</tr>
+<tr>
+<td>UNE 109.502 Informe</td>
+<td> </td>
+<td>Instalación de tanques de acero enterrados para almacenamiento de carburantes y combustibles líquidos.</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+<p>Nota. De acuerdo con el artículo 10 del Reglamento de Instalaciones Petrolíferas, aprobado por Real Decreto 2085/1994, la referencia a normas que se hace en esta instrucción técnica complementaria se entenderá sin perjuicio del reconocimiento de las normas correspondientes admitidas por los Estados miembros de la Unión Europea, o por los países miembros de la Asociación Europea de Libre Comercio, firmantes del Acuerdo sobre el Espacio Económico Europeo, siempre que las mismas supongan un nivel de seguridad de las personas, los bienes o el medio ambiente equivalente, al menos, al que proporcionan aquellas.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+> Se modifica por la disposición final 2.3 del Real Decreto 145/2023, de 28 de febrero. [Ref. BOE-A-2023-7056](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7056)
+
+> Se modifica por el art. 2, según se indica en el Anexo I, del Real Decreto 1523/1999, de 1 de octubre. [Ref. BOE-A-1999-20723](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-20723)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 21, de 24 de enero de 1998. [Ref. BOE-A-1998-1458](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1458)

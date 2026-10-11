@@ -1,0 +1,97 @@
+---
+title: "Real Decreto 960/1990, de 13 de julio, por el que se integra en el Régimen General de la Seguridad Social al personal interino al servicio de la Administración de Justicia"
+identifier: "BOE-A-1990-17724"
+eli: "https://www.boe.es/eli/es/rd/1990/07/13/960"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1990-07-13
+published: 1990-07-25
+in_force_from: 1990-08-01
+last_amended: 2006-01-21
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 177"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-17724"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 960/1990, de 13 de julio, por el que se integra en el Régimen General de la Seguridad Social al personal interino al servicio de la Administración de Justicia
+
+El Real Decreto-ley 16/1978, de 7 de junio, por el que se regula la Seguridad Social de los funcionarios al servicio de la Administración de Justicia, establece, en su artículo 1.°, que el personal interino o en prácticas al servicio de la Justicia sólo estará obligatoriamente incluido en el citado Régimen es los términos y en la extensión que se fijen reglamentariamente, especificando el Reglamento General de la Mutualidad General Judicial, aprobado por Real Decreto 3283/1978, de 3 de noviembre, en su artículo 23, por una parte, que el personal interino se incluirá en el Régimen Especial siempre que no estuviese acogido a otro Régimen de Seguridad Social y, por otra, que la acción protectora de la Mutualidad para este colectivo sólo abarcará determinadas prestaciones.
+
+Por todo ello, resulta que al personal interino al servicio de la Administración de Justicia, al no estar integrado en las Clases Pasivas del Estado, en la práctica, sólo se le protege en caso de enfermedad y, al amparo del Real Decreto 2363/1985, de 18 de diciembre, en el supuesto de desempleo, originando una situación de notoria desigualdad frente a los interinos de la Administración del Estado, incluidos en el Régimen General de la Seguridad Social desde el Decreto-ley 10/1965, de 23 de septiembre, y los de la Administración Local, con protección similar a la de los funcionarios de carrera.
+
+Poniendo solución a la problemática anteriormente descrita, la disposición final sexta de la Ley 33/1987, de 23 de diciembre, de Presupuestos Generales del Estado para 1988, autoriza al Gobierno para que, mediante Real Decreto, proceda a la integración en el Régimen General de la Seguridad Social del personal interino al servicio de la Administración de Justicia.
+
+De otra parte, el artículo 61.2, h), del texto refundido de la Ley General de la Seguridad Social, aprobado por Decreto 2065/1974, de 30 de mayo, dispone que el Gobierno podrá establecer la asimilación a trabajadores por cuenta ajena de cualesquiera personas para las que se estime procedente por razón de su actividad, a efecto de su inclusión en el campo de aplicación del Régimen General de la Seguridad Social.
+
+En su virtud, a propuesta conjunta de los Ministros de Trabajo y Seguridad Social y de Justicia, previo informe del Consejo General del Poder Judicial, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 13 de julio de 1990,
+
+DISPONGO:
+
+### Artículo 1. Integración en el Régimen General de la Seguridad Social.
+
+1\. En la fecha de entrada en vigor del este real decreto quedan integrados en el Régimen General de la Seguridad Social, como asimilados a trabajadores por cuenta ajena, quienes ostenten la condición de personal interino al servicio de la Administración de Justicia.
+
+2\. A efectos de dicha integración, tendrán la consideración de personal interino al servicio de la Administración de Justicia:
+
+a) Los magistrados suplentes, excluidos los magistrados eméritos.
+
+b) Los jueces, fiscales y secretarios judiciales sustitutos.
+
+c) Los funcionarios interinos al servicio de la Administración de Justicia, nombrados de conformidad con el artículo 472.2 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+
+> Se modifica por el art. único.1 del Real Decreto 4/2006, de 13 de enero. [Ref. BOE-A-2006-931](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-931).
+
+> Se declara la nulidad del apartado 2 en cuanto no comprende en su ámbito a los Jueces sustitutos que no desempeñan ininterrumpidamente sus funciones durante más de un mes, por Sentencia del TS de 21 de octubre de 2003. [Ref. BOE-A-2004-11171](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-11171).
+
+> Se declara la nulidad del apartado 2 en cuanto no comprende en su ámbito a los Magistrados suplentes, por Sentencia del TS de 2 de julio de 2001. [Ref. BOE-A-2001-17567](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-17567).
+
+### Artículo 2. Acción protectora.
+
+El alcance de la acción protectora dispensada al personal interino al que se hace referencia en el artículo anterior, será el establecido en el artículo 114.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto legislativo 1/1994, de 20 de junio.
+
+> Se modifica por el art. único.2 del Real Decreto 4/2006, de 13 de enero. [Ref. BOE-A-2006-931](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-931).
+
+### Artículo 3
+
+1\. La base de cotización estará constituida por la retribución percibida, conforme a lo determinado para el Régimen General de la Seguridad Social.
+
+2\. Los tipos de cotización para las contigencias comunes serán los que estén vigentes, en cada momento, en el Régimen General de la Seguridad Social. Para las contingencias de accidentes de trabajo y enfermedades profesionales, se aplicará el epígrafe 113 de la tarifa de primas aprobada por Real Decreto 2930/1979, de 29 de diciembre, por el que se revisa la tarifa de primas para la cotización de accidentes de trabajo y enfermedades profesionales.
+
+### Artículo 4
+
+1\. La Administración de Justicia y el personal interino a que se refiere el artículo 1 de este real decreto quedan obligados a cotizar por la contingencia de desempleo conforme a lo previsto en el título III del texto refundido de la Ley General de la Seguridad Social y en sus normas de desarrollo reglamentario.
+
+2\. Corresponderá a la Tesorería General de la Seguridad Social, la competencia en materia de gestión recaudatoria de las cuotas de desempleo correspondientes al personal mencionado.
+
+3\. La acreditación de la situación de desempleo del personal interino de la Administración de Justicia se atendrá a lo previsto en el número 2 del artículo 1.º del Real Decreto 625/1985, de 2 de abril, por el que se desarrolla la Ley 31/1984, de 2 de agosto, de protección por desempleo.
+
+> Se modifica el apartado 1 por el art. único.3 del Real Decreto 4/2006, de 13 de enero. [Ref. BOE-A-2006-931](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-931).
+
+## DISPOSICIÓN ADICIONAL
+
+Por el Ministerio de Economía y Hacienda se habilitarán los créditos presupuestarios necesarios para hacer efectivo el cumplimiento de las disposiciones del presente Real Decreto.
+
+## DISPOSICIÓN TRANSITORIA
+
+El personal interino de la Administración de Justicia que acredite periodos de cotización a la Mutualidad General Judicial entre la entrada en vigor del Real Decreto-ley 16/1978, de 7 de junio, y del presente Real Decreto, podrá, a efectos del reconocimiento en el Régimen General de la Seguridad Social de pensiones de jubilación, invalidez, muerte y supervivencia, causadas con posterioridad a la segunda de las fechas indicadas, efectuar las cotizaciones necesarias para que dichos periodos puedan computarse como cotizados al Régimen General.
+
+Corresponderá a los Ministerios de Trabajo y Seguridad Social y Justicia, en el ámbito de sus respectivas competencias, la determinación, dentro de las normas de desarrollo de este Real Decreto, de las condiciones en que haya de llevarse a cabo lo dispuesto en el párrafo anterior.
+
+## DISPOSICIÓN FINAL
+
+Se autoriza al Ministro de Trabajo y Seguridad Social y al de Justicia, en el ámbito de sus respectivas competencias, para dictar las normas de aplicación y desarrollo del presente Real Decreto, que entrará en vigor el día primero del mes siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, 13 de julio de 1990.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes
+
+y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ

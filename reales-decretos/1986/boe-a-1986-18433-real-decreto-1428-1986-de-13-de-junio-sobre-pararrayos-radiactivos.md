@@ -1,0 +1,61 @@
+---
+title: "Real Decreto 1428/1986, de 13 de junio, sobre pararrayos radiactivos"
+identifier: "BOE-A-1986-18433"
+eli: "https://www.boe.es/eli/es/rd/1986/06/13/1428"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria y Energía"
+date: 1986-06-13
+published: 1986-07-11
+in_force_from: 1986-07-12
+last_amended: 1987-07-11
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 165"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-18433"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1428/1986, de 13 de junio, sobre pararrayos radiactivos
+
+A la vista de la proliferación de fuentes radiactivas instaladas en cabezales de pararrayos, el Ministerio de Industria y Energía ha realizado estudios y solicitado informe del Consejo de Seguridad Nuclear, que lo ha emitido con un estudio de los riesgos derivados del empleo de radionucleidos para estos fines, así como de las supuestas ventajas de tales equipos frente a los pararrayos convencionales. Las conclusiones alcanzadas ponen de manifiesto que no es posible la homologación de los pararrayos radiactivos ateniéndose a lo dispuesto en la Orden del Ministerio de Industria de 20 de marzo de 1975, y que deben ser consideradas como instalaciones radiactivas a todos los efectos.
+
+Las conclusiones de los estudios realizados evidencian que si bien los riesgos de radiactividad en condiciones normales de funcionamiento son escasos, los de contaminación a causa del deterioro del sistema de contención de los radioisótopos empleados son apreciables y en caso de accidente los riesgos son considerables sin que en ningún caso ofrezcan compensación por su eficacia, por lo que el referido Consejo ha propuesto se dicte una disposición para impedir la instalación en el futuro de pararrayos radiactivos y regular la legalización o retirada de los ya instalados.
+
+En su virtud, a propuesta del Ministro de Industria y Energía y a iniciativa del Consejo de Seguridad Nuclear, previa deliberación del Consejo de Ministros en su reunión del día 13 de junio de 1986,
+
+DISPONGO:
+
+## Articulo único.
+
+A partir de la entrada en vigor del presente Real Decreto queda prohibido el empleo de radioelementos en la fabricación de pararrayos, la importación e instalación de pararrayos que incorporen fuentes radiactivas, así como la importación de fuentes radiactivas destinadas a los mismos.
+
+## Disposición transitoria primera.
+
+Se concede el plazo de dos años para que los poseedores de estos pararrayos radiactivos ya instalados que carezcan de autorización como instalación radiactiva, la soliciten cumpliendo los requisitos previstos en el Reglamento de instalaciones Nucleares y Radiactivas, aprobado por Decreto 2869/1972, de 21 de julio («Boletín Oficial del Estado de 24 de octubre).
+
+> Se modifica por el art. 1 del Real Decreto 903/1987, de 10 de julio. [Ref. BOE-A-1987-16196](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-16196)
+
+## Disposición transitoria segunda.
+
+Los titulares de los pararrayos que no soliciten la autorización, de acuerdo con lo establecido en la disposición transitoria anterior, deberán comunicar la tenencia de dichos pararrayos a la Dirección General de la Energía y al Consejo de Seguridad Nuclear en el mismo plazo de dos años, en el que también vienen obligados a poner los cabezales de los citados pararrayos a disposición de una Empresa autorizada por el Gobierno para la gestión de los residuos radiactivos, que se encargará de retirar los cabezales.
+
+> Se modifica por el art. 1 del Real Decreto 903/1987, de 10 de julio. [Ref. BOE-A-1987-16196](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-16196)
+
+## Disposición final primera.
+
+Se faculta al Ministro de Industria y Energía para que dicte las disposiciones de desarrollo y aplicación de este Real Decreto.
+
+## Disposición final segunda.
+
+El presente Real Decreto entrara en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en madrid a 13 de junio de 1986.
+
+JUAN CARLOS R.
+
+El Ministro de Industria y Energía,
+
+JOAN MAJÓ CRUZATE

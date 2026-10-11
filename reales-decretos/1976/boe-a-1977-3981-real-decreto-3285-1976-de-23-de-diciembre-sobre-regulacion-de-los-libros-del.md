@@ -1,0 +1,48 @@
+---
+title: "Real Decreto 3285/1976, de 23 de diciembre, sobre regulación de los Libros del Registro de la Propiedad"
+identifier: "BOE-A-1977-3981"
+eli: "https://www.boe.es/eli/es/rd/1976/12/23/3285"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1976-12-23
+published: 1977-02-14
+in_force_from: 1977-03-06
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 38"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1977-3981"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 3285/1976, de 23 de diciembre, sobre regulación de los Libros del Registro de la Propiedad
+
+Los Registros de la Propiedad utilizan en la actualidad un modelo de libros que impiden el uso adecuado de la máquina de escribir y otros medios mecánicos modernos de reproducción, cuya utilización significaría una mayor claridad del contenido de tales libros y una mayor agilidad en la prestación del servicio público, siguiendo así a la Ley de Procedimiento Administrativo, que dispone que se realice la actuación administrativa con economía, celeridad y eficacia, y ordena, a tal efecto, la normalización y racionalización de aquélla.
+
+Parece, por ello, conveniente establecer una regulación de los libros de los Registros de la Propiedad que permita al mismo tiempo la utilización de los medios mecánicos de reproducción; y el respeto a las garantías que exige la Ley Hipotecaria, o sea, la foliación, visado, uniformidad para todos los Registros y formación, bajo la dirección del Ministerio de Justicia, con las precauciones convenientes para impedir cualquier fraude o falsedad (artículo doscientos treinta y nueve Ley Hipotecaria).
+
+En su virtud, a propuesta del Ministro de Justicia, y previa deliberación del Consejo de Ministros en su reunión del día veintitrés de diciembre de mil novecientos setenta y seis,
+
+DISPONGO:
+
+## Artículo primero.
+
+Los libros del Registro de la Propiedad estarán compuestos de hojas móviles, las cuales, con anterioridad a la utilización del libro correspondiente, serán foliadas y selladas, consignándose en ellas el tomo y nombre del Registro, siendo seguidamente visado el libro conforme a las disposiciones vigentes. Todas las hojas que no contengan firma del Registrador al final de algún asiento deberán ser firmadas por éste al se utilizadas para las operaciones normales del Registro, en el lugar previsto al efecto.
+
+## Artículo segundo.
+
+Los asientos de los nuevos libros y las certificaciones que de los mismos se expidan podrán extenderse a mano, a máquina o por cualquier medio mecánico de reproducción, aprobado por el Ministerio de Justicia.
+
+## Artículo tercero.
+
+Se faculta a la Dirección General de los Registros y del Notariado para aprobar los nuevos modelos de libros, señalar la fecha en que comenzarán a utilizarse y el tiempo y condiciones en que podrán seguir siendo utilizados los actuales.
+
+Dado en Madrid a veintitrés de diciembre de mil novecientos setenta y seis.
+
+JUAN CARLOS
+
+El Ministro de Justicia,
+
+LANDELINO LAVILLA ALSINA

@@ -1,0 +1,1990 @@
+---
+title: "Decreto Legislativo 1/2005, de 21 de julio, por el que se aprueba el Texto Refundido de la Ley de Cajas de Ahorro de Castilla y León"
+identifier: "BOCL-h-2005-90023"
+type: legislative_decree
+rank: "Decreto Legislativo"
+jurisdiction: es-castilla-y-leon
+language: es
+department: "Comunidad de Castilla y León"
+date: 2005-07-21
+published: 2005-07-27
+in_force_from: 2005-07-28
+last_amended: 2012-07-17
+consolidated: 2023-12-26
+gazette: "Boletín Oficial de Castilla y León núm. 144"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOCL-h-2005-90023"
+retrieved: 2026-10-11
+---
+
+# Decreto Legislativo 1/2005, de 21 de julio, por el que se aprueba el Texto Refundido de la Ley de Cajas de Ahorro de Castilla y León
+
+La disposición final segunda de la Ley 6/2004, de 21 de diciembre, de Modificación de la Ley de Cajas de Ahorro de Castilla y León, autoriza a la Junta de Castilla y León para aprobar, en el plazo de un año a partir de su entrada en vigor, un Texto Refundido de la Ley de Cajas de Ahorro, incluyendo la posibilidad de regularizar, aclarar y armonizar los textos legales que hayan de ser refundidos.
+
+Al cumplimiento de dicho mandato obedece este Decreto Legislativo por el que se aprueba el Texto Refundido de la Ley de Cajas de Ahorro de Castilla y León, que pretende ofrecer al destinatario de la norma un texto sistemático y unificado, comprensivo de la normativa legalmente aplicable a las Cajas de Ahorro de esta Comunidad, contribuyendo con ello a facilitarle su utilización mediante una rápida y adecuada localización de sus preceptos, reforzándose la seguridad jurídica.
+
+El Texto Refundido de la Ley de Cajas de Ahorro de Castilla y León mantiene la estructura y sistemática de la Ley 5/2001, de 4 de julio, de Cajas de Ahorro de Castilla y León, reformada posteriormente por la Ley 7/2003, de 8 de abril, y por la Ley 6/2004, de 21 de diciembre. El Texto Refundido es aprobado mediante el presente Decreto Legislativo que consta de un artículo único, y sendas disposiciones adicional, derogatoria y final únicas. A su vez, el mismo se compone de un total de siete títulos, organizados en capítulos y, en su caso, en secciones; con un total de ciento ocho artículos; completándose con tres disposiciones adicionales, cuatro transitorias y dos finales.
+
+En su virtud, la Junta de Castilla y León, a propuesta de la Consejera de Hacienda, de acuerdo con el dictamen del Consejo Consultivo de Castilla y León, y previa deliberación del Consejo de Gobierno en su reunión del 21 de julio de 2005
+
+DISPONE:
+
+##### Artículo único. Aprobación del Texto Refundido de la Ley de Cajas de Ahorro de Castilla y León.
+
+Se aprueba el Texto Refundido de la Ley de Cajas de Ahorro de Castilla y León, que se inserta a continuación.
+
+##### Disposición adicional. Remisiones normativas.
+
+Las referencias efectuadas en otras disposiciones a la Ley de Cajas de Ahorro de Castilla y León, se entenderán efectuadas a los preceptos correspondientes del Texto Refundido que se aprueba.
+
+##### Disposición derogatoria. Normas derogadas.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Texto Refundido de la Ley de Cajas de Ahorro de Castilla y León que se aprueba y, en particular:
+
+La Ley 5/2001, de 4 de julio, de Cajas de Ahorro de Castilla y León.
+
+Ley 7/2003, de 8 de abril, de reforma de la Ley 5/2001, de 4 de julio, de Cajas de Ahorro de Castilla y León.
+
+La Ley 6/2004, de 21 de diciembre, de modificación de la Ley de Cajas de Ahorro de Castilla y León.
+
+En tanto no se desarrolle reglamentariamente el presente Texto Refundido, continuará vigente y se aplicará, en lo que no resulte incompatible con el mismo, el Decreto 284/2001, de 13 de diciembre, por el que se desarrolla la Ley 5/2001, de 4 de julio, de Cajas de Ahorro de Castilla y León, en materia de órganos de gobierno y dirección.
+
+##### Disposición final. Entrada en vigor.
+
+El presente Decreto Legislativo y el Texto Refundido que se aprueba entrarán en vigor el día siguiente al de su publicación en el «Boletín Oficial de Castilla y León».
+
+Valladolid, 21 de julio de 2005.−El Presidente de la Junta de Castilla y León, Juan Vicente Herrera Campo.−La Consejera de Hacienda, María del Pilar del Olmo Moro.
+
+## TÍTULO I — Disposiciones generales
+
+##### Artículo 1. Ámbito de aplicación.
+
+La presente Ley será de aplicación a las Cajas de Ahorro cuyo domicilio social radique en el territorio de la Comunidad Autónoma de Castilla y León.
+
+También será de aplicación a las Cajas de Ahorro domiciliadas en otras Comunidades Autónomas, exclusivamente en lo relativo a las actividades que realicen en el territorio de la Comunidad de Castilla y León y en los términos establecidos en las leyes.
+
+##### Artículo 2. Naturaleza.
+
+1\. A los efectos de la presente Ley se entenderá por Caja de Ahorros, con o sin Monte de Piedad, la entidad de crédito sin ánimo de lucro, de naturaleza fundacional y carácter social, no dependiente de otra empresa, institución o entidad.
+
+2\. Todas las Cajas de Ahorro tendrán la misma naturaleza jurídica, idéntica consideración ante los poderes públicos, y los derechos y obligaciones que les confieren las leyes.
+
+##### Artículo 3. Régimen jurídico.
+
+Sin perjuicio de la normativa básica del Estado, las Cajas de Ahorro con domicilio social en la Comunidad de Castilla y León se regirán por las siguientes disposiciones:
+
+1\. La presente Ley.
+
+2\. Las normas reglamentarias dictadas en desarrollo de esta Ley.
+
+3\. Sus propios Estatutos y Reglamento de Procedimiento Electoral.
+
+##### Artículo 4. Objetivo y fines.
+
+1\. Las Cajas de Ahorro tendrán como objetivos básicos el fomento del ahorro, la gestión eficiente de los recursos que les son confiados, y la estabilidad y seguridad de los fondos en ellas depositados, mediante la realización de las operaciones económicas y financieras permitidas por las leyes.
+
+2\. Su actuación también irá orientada a contribuir al desarrollo social y económico de su ámbito de actuación, especialmente en Castilla y León.
+
+3\. Para el cumplimiento de sus objetivos y fines las Cajas de Ahorro dedicarán sus excedentes líquidos a la constitución de reservas y a la realización de obras sociales, de acuerdo con la legislación en esta materia.
+
+4\. Las Cajas de Ahorros podrán desarrollar su objeto propio como entidad de crédito a través de una entidad bancaria a la que aportarán todo su negocio financiero. Igualmente podrán aportar todos o parte de sus activos no financieros adscritos al mismo.
+
+Este ejercicio indirecto de la actividad financiera de la Caja podrá realizarse también concertadamente con otras Cajas de Ahorros, a través de una entidad de crédito controlada conjuntamente por todas ellas conforme a lo dispuesto en el artículo 8.3 de la Ley 13/1985, de 25 de mayo, de Coeficientes de Inversión, Recursos Propios y Obligaciones de Información de los Intermediarios Financieros.
+
+En los supuestos descritos en los párrafos anteriores, la Caja deberá incorporar a sus estatutos las condiciones básicas del ejercicio indirecto de su actividad financiera.
+
+5\. La entidad bancaria a través de la cual la Caja de Ahorros ejerza su actividad como entidad de crédito podrá utilizar en su denominación social y en su actividad expresiones que permitan identificar su carácter instrumental, incluidas las denominaciones propias de la caja de ahorros de la que dependa.
+
+6\. Si una caja de ahorros dejase de ostentar el control en los términos del artículo 42 del Código de Comercio o redujese su participación de modo que no alcance el 25 % de los derechos de voto de la entidad de crédito a la que se refiere la presente disposición, deberá renunciar a la autorización para actuar como entidad de crédito y proceder a su transformación en fundación especial con arreglo a lo dispuesto en el artículo 21 bis.
+
+7\. Lo establecido en el presente artículo respecto al ejercicio indirecto de la actividad financiera será también de aplicación a aquellas cajas de ahorros que, de forma concertada, ejerzan en exclusiva su objeto como entidades de crédito a través de una entidad de crédito controlada conjuntamente por todas ellas. En estos casos, concurrirá la obligación de renuncia a la autorización para actuar como entidad de crédito prevista en el apartado anterior, en el momento en que tales cajas de ahorros dejasen de ostentar el control conjunto de la entidad de crédito instrumental o cuando la participación conjunta de todas ellas baje por debajo del 25 % de los derechos de voto de la entidad de crédito instrumental.
+
+8\. A los efectos de la aplicación de la obligación de renuncia a la autorización para actuar como entidad de crédito prevista en este artículo, no se tendrá en cuenta la participación del Fondo de Reestructuración Ordenada Bancaria en el capital social de una entidad.
+
+> Se modifican los apartados 6 y 7 y se añade el 8 por la disposición final 2.1 de la Ley 4/2012, de 16 de julio. [Ref. BOE-A-2012-10158](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10158)
+
+> Se modifican los apartados 6 y 7 por la disposición final 15.7 de la Ley 1/2012, de 28 de febrero. [Ref. BOE-A-2012-4385](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4385)
+
+> Se añaden los apartados 4, 5, 6 y 7 por el art. único.1 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 5. Protectorado público.
+
+La Consejería de Hacienda, en el marco de las bases de la ordenación de la actividad económica general y de la política monetaria del Estado, ejercerá el protectorado de las Cajas de Ahorro con domicilio social en Castilla y León, conforme a los siguientes principios:
+
+a) Vigilar que las Cajas de Ahorro realicen las adecuadas políticas de administración y gestión del ahorro que les permitan el cumplimiento de su función económica y social.
+
+b) Garantizar el cumplimiento de los principios de democratización, profesionalización, independencia y transparencia en la elección, composición y funcionamiento de sus órganos de gobierno.
+
+c) Proteger la independencia, estabilidad y prestigio de las Cajas de Ahorro.
+
+d) Promover y coordinar las relaciones de las Cajas de Ahorro entre sí y con las instituciones públicas, encaminadas a mejorar el nivel socioeconómico de Castilla y León.
+
+e) Proteger los derechos e intereses de los clientes de las Cajas de Ahorro.
+
+f) Vigilar el cumplimiento por las Cajas de Ahorros de las normas aplicables a su organización y actividad.
+
+> Se modifica la letra f) por el art. único.2 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+## TÍTULO II — Creación, modificación y extinción de las Cajas de Ahorro domiciliadas en Castilla y León
+
+### CAPÍTULO I — Creación
+
+##### Artículo 6. Autorización.
+
+1\. La creación de Cajas de Ahorro exigirá la autorización de la Junta de Castilla y León a propuesta de la Consejería de Hacienda, que sólo podrá concederse previa comprobación del cumplimiento de la normativa básica vigente y de lo dispuesto en la presente Ley y su normativa de desarrollo.
+
+2\. La solicitud de creación se dirigirá a la Consejería de Hacienda, e irá acompañada de la siguiente documentación:
+
+a) Proyecto de escritura fundacional.
+
+b) Proyectos de Estatutos y Reglamento de Procedimiento Electoral.
+
+c) Programa de actividades, haciendo constar el género de operaciones que pretendan realizarse, la organización administrativa y contable, y los procedimientos de control interno de la entidad.
+
+d) Memoria justificativa de su viabilidad económica y de los fines que se propongan alcanzar con su creación.
+
+e) Relación y circunstancias de los miembros fundadores y de los futuros miembros del Patronato.
+
+f) Justificación de haber constituido el fondo dotacional mínimo exigido legalmente en cada momento.
+
+3\. La solicitud de autorización deberá ser resuelta dentro de los seis meses siguientes a su recepción o momento en que se complete la documentación exigible y, en todo caso, dentro de los doce meses siguientes a la recepción de la solicitud.
+
+Cuando la solicitud no se hubiera resuelto en el plazo anteriormente establecido podrá entenderse desestimada.
+
+4\. La autorización para la creación de Cajas de Ahorro se publicará en el «Boletín Oficial de Castilla y León».
+
+5\. No podrán ser objeto de transmisión o cesión por título alguno las autorizaciones concedidas, siendo nula de pleno derecho cualquier actuación en contrario.
+
+6\. La autorización se denegará, mediante resolución motivada, cuando no se cumplan los requisitos exigidos legal o reglamentariamente.
+
+7\. La autorización concedida de acuerdo con lo previsto en este artículo caducará si no se da comienzo a las actividades autorizadas dentro de los doce meses siguientes a la fecha de notificación de la autorización, por causa imputable al interesado.
+
+##### Artículo 7. Constitución.
+
+1\. La creación de Cajas de Ahorro se formalizará en escritura pública en la que necesariamente habrán de constar las siguientes circunstancias:
+
+a) Datos identificativos y circunstancias específicas de las personas fundadoras, físicas y jurídicas, públicas o privadas.
+
+b) Manifestación expresa de la voluntad de constituir una Caja de Ahorros de conformidad con las disposiciones vigentes.
+
+c) Los Estatutos por los que se regirá la entidad y el Reglamento de Procedimiento Electoral.
+
+d) Domicilio social de la entidad.
+
+e) Fondo dotacional inicial con descripción de los bienes y derechos que lo integren, su título de propiedad, las cargas y el carácter de la aportación.
+
+f) Personas integrantes del Patronato de la fundación y Director General designado por el mismo.
+
+2\. En el supuesto de que la voluntad fundacional estuviera recogida en testamento, será ejecutada por las personas designadas por el fundador, las cuales otorgarán la escritura pública de fundación cumplimentando dicha voluntad en la forma prevista por las leyes.
+
+##### Artículo 8. Estatutos.
+
+1\. Corresponde a la Junta de Castilla y León, a propuesta de la Consejería de Hacienda, la aprobación de los Estatutos de las nuevas Cajas, que recogerán, como mínimo, los siguientes extremos:
+
+a) La denominación y naturaleza de la entidad.
+
+b) El domicilio social y el ámbito de actuación.
+
+c) El objeto y los fines.
+
+d) La estructura y composición de los órganos de gobierno, en especial el número de miembros, las reglas de procedimiento para su elección y designación, para la cobertura de vacantes, para la renovación parcial de los órganos y para su cese.
+
+e) Las funciones y el funcionamiento de los órganos de gobierno y de sus comisiones delegadas, en especial los requisitos de convocatoria, el quórum de asistencia y las mayorías necesarias para la adopción de acuerdos.
+
+f) La forma de elección, renovación y cese del Presidente, así como sus funciones.
+
+g) La fecha del cierre del ejercicio económico.
+
+h) La aplicación o destino de los excedentes.
+
+i) Aquellos otros extremos que, con tal carácter, se recojan en esta Ley.
+
+2\. Corresponde también a la Junta de Castilla y León, a propuesta de la Consejería de Hacienda, la aprobación del Reglamento de Procedimiento Electoral, que contendrá el procedimiento para elegir y designar a los miembros de los órganos de gobierno.
+
+##### Artículo 9. Inscripción.
+
+1\. Una vez concedida la autorización, con aprobación de los Estatutos y del Reglamento de Procedimiento Electoral, se otorgará la escritura fundacional.
+
+2\. La escritura fundacional y la acreditación de la inscripción de la constitución de la Caja de Ahorros en el Registro Mercantil se presentará en la Consejería de Hacienda, en el plazo máximo de seis meses a contar desde la notificación de la autorización, procediéndose de oficio, previa comprobación de que se ajusta a los términos de la autorización, a su inscripción provisional en el Registro de Cajas de Ahorro de Castilla y León.
+
+3\. De acuerdo con la normativa básica del Estado, las inscripciones en el Registro de Cajas de Ahorro de Castilla y León y en el Registro correspondiente del Banco de España serán indispensables para que la nueva entidad pueda desarrollar sus actividades.
+
+##### Artículo 10. Órganos de gobierno.
+
+1\. El Patronato tendrá atribuidas las funciones propias del Consejo de Administración y de la Asamblea General hasta la constitución de estos órganos, no existiendo durante dicho período la Comisión de Control.
+
+2\. Los órganos de gobierno de la nueva Caja de Ahorros, previstos en el Título IV de la presente Ley, deberán estar constituidos en el plazo máximo de dos años, a partir de la fecha de inscripción provisional en el Registro de Cajas de Ahorro de Castilla y León.
+
+A estos efectos, para los Consejeros Generales representantes del personal y de los impositores no se exigirán los requisitos de antigüedad establecidos en el apartado 2 del artículo 31 de la presente Ley.
+
+3\. El primer Consejo de Administración estará formado por los miembros elegidos según lo dispuesto en el Capítulo III del Título IV de la presente Ley y por los miembros del Patronato, con voz y voto, los cuales cesarán en el plazo máximo de un año desde la constitución de la primera Asamblea General, sin perjuicio de que puedan ser elegidos en el nuevo Consejo.
+
+4\. El Director General, designado por el Patronato, habrá de ser confirmado o sustituido por el primer Consejo de Administración que se constituya, debiendo ser ratificado por la Asamblea General convocada al efecto.
+
+##### Artículo 11. Período transitorio.
+
+1\. Las nuevas Cajas de Ahorro, durante los dos primeros años de funcionamiento, estarán sometidas a las normas especiales de control que se establezcan por la Consejería de Hacienda, sin perjuicio de las que, con carácter general, les sean aplicables.
+
+2\. Finalizado dicho período y aprobada la gestión por la Asamblea General, la Consejería de Hacienda, previa la correspondiente inspección, acordará que se practique la inscripción definitiva en el Registro de Cajas de Ahorro de Castilla y León.
+
+##### Artículo 12. Revocación de la autorización.
+
+1\. La autorización concedida a una Caja de Ahorros podrá ser revocada en los siguientes supuestos:
+
+a) No dar comienzo a las actividades específicas de su objeto social dentro de los doce meses siguientes a la notificación de la autorización o renunciar de modo expreso a ésta.
+
+b) Interrumpir de hecho las actividades específicas de su objeto social durante un período superior a seis meses.
+
+c) Haber obtenido la autorización por medio de declaraciones falsas o por otro medio irregular.
+
+d) Incumplir las condiciones contenidas en la autorización, salvo que se disponga otra cosa con relación a alguna de dichas condiciones.
+
+e) Carecer de fondos propios suficientes o no ofrecer garantía de poder cumplir sus obligaciones con relación a sus acreedores y, en particular, no garantizar la seguridad de los fondos que le hayan sido confiados.
+
+f) Haber sido sancionada como consecuencia de haber incurrido en infracciones tipificadas como muy graves en la normativa vigente.
+
+2\. Sin perjuicio de lo dispuesto en la normativa básica, corresponde a la Junta de Castilla y León, a propuesta de la Consejería de Hacienda, acordar la revocación. Reglamentariamente se desarrollará el procedimiento a seguir para la revocación, garantizando la audiencia previa de la entidad interesada.
+
+3\. La revocación de la autorización llevará implícita la disolución de la Caja de Ahorros y la apertura del período liquidatorio, que se realizará conforme a lo dispuesto en la normativa vigente y a lo establecido en la norma fundacional.
+
+4\. La revocación de la autorización se hará constar en los registros administrativos correspondientes y, tan pronto sea notificada a la Caja, conllevará el cese de las operaciones que vinieran amparadas por la autorización que se revoca.
+
+### CAPÍTULO II — Modificación
+
+##### Artículo 13. Modificación de Estatutos y Reglamentos de Procedimiento Electoral.
+
+La aprobación de las modificaciones de los Estatutos y Reglamentos de Procedimiento Electoral de las Cajas de Ahorro domiciliadas en la Comunidad de Castilla y León, una vez aprobadas por la Asamblea General, en los términos previstos en el artículo 55 de la presente Ley, corresponde a la Junta de Castilla y León, quien podrá ordenar la modificación de aquellos preceptos que no se ajusten a la legalidad vigente.
+
+##### Artículo 14. Clases y efectos de fusión.
+
+Las Cajas de Ahorro con domicilio social en Castilla y León podrán fusionarse:
+
+a) Mediante la creación de una nueva Caja de Ahorros y extinción de las entidades que se fusionan, las cuales transferirán en bloque sus patrimonios a la entidad de nueva creación.
+
+b) Mediante absorción, en cuya virtud la entidad o entidades absorbidas transferirán en bloque su patrimonio a la Caja absorbente, produciéndose la extinción de aquéllas.
+
+##### Artículo 15. Proyecto de fusión.
+
+1\. El Consejo de Administración de cada una de las Cajas de Ahorro que pretendan fusionarse habrá de aprobar el proyecto de fusión, que deberá contener, al menos, los siguientes extremos:
+
+a) La denominación, domicilio y datos de inscripción en el Registro Mercantil y en los correspondientes Registros Administrativos de todas las entidades participantes, así como la denominación y domicilio de la entidad resultante de la fusión.
+
+b) El proyecto de escritura fundacional de la nueva entidad, que deberá recoger el proyecto de Estatutos y de Reglamento de Procedimiento Electoral, o si se tratara de absorción, el texto íntegro de las modificaciones que vayan a introducirse en los Estatutos y en el Reglamento de Procedimiento Electoral de la Caja absorbente.
+
+c) Informe del Consejo de Administración de cada una de las entidades participantes relativo a la justificación económica de la fusión y a su participación, a la viabilidad del proyecto, a la nueva estructura técnica, financiera y administrativa, al nuevo programa estratégico de la entidad resultante, a la integración de las plantillas laborales y la continuidad de las obras sociales.
+
+d) La composición, régimen de funcionamiento y facultades atribuidas a las personas u órganos que se designen para la coordinación del proceso de fusión.
+
+e) La composición de los órganos de gobierno de la entidad resultante de la fusión durante el período transitorio a que se refiere el artículo 19 de la presente Ley.
+
+f) Los balances de fusión de cada una de las entidades y el balance con-junto resultante de la fusión, señalando y justificando las diferencias de valor que pudieran aparecer respecto del último balance aprobado y auditado.
+
+g) La fecha a partir de la cual las operaciones de las entidades que se extingan habrán de considerarse realizadas a efectos contables por cuenta de la entidad a la que traspasan su patrimonio.
+
+h) El texto del acuerdo de fusión que se someterá a la aprobación de las respectivas Asambleas Generales.
+
+2\. Los miembros del Consejo de Administración de cada Caja deberán suscribir el proyecto de fusión. Si faltara la firma de alguno de ellos deberá indicarse su causa al final del proyecto.
+
+3\. En el plazo máximo de siete días a partir de la aprobación del proyecto por el Consejo de Administración de cada Caja, se presentará, por cada entidad, un ejemplar del proyecto de fusión en el Registro Mercantil correspondiente a su domicilio para su depósito.
+
+##### Artículo 16. Acuerdo de fusión.
+
+1\. El acuerdo de fusión habrá de ser adoptado independientemente por la Asamblea General de cada una de las Cajas de Ahorro que se fusionan, en los términos previstos en el artículo 55 de esta Ley.
+
+2\. En todo caso, la convocatoria de la Asamblea General deberá hacer constar el derecho de sus miembros a examinar, desde la fecha de la convocatoria, en el domicilio social de las Cajas, los siguientes documentos:
+
+a) Proyecto de fusión.
+
+b) Informe de los expertos independientes sobre el proyecto a que se refiere el artículo 17.2 de esta Ley.
+
+c) Cuentas anuales e informe de gestión de los tres últimos ejercicios de cada una de las Cajas participantes, con los correspondientes informes de los auditores de cuentas.
+
+d) Estatutos vigentes de cada una de las Cajas participantes.
+
+##### Artículo 17. Autorización.
+
+1\. La autorización de la fusión en que intervengan las Cajas de Ahorro con domicilio social en Castilla y León corresponde a la Junta de Castilla y León, a propuesta de la Consejería de Hacienda, previo informe del Banco de España.
+
+En el caso de que las Cajas de Ahorro con domicilio social en la Comunidad Autónoma de Castilla y León pretendan fusionarse con Cajas cuya sede social se encuentre situada en otra Comunidad Autónoma distinta, la autorización para la fusión habrá de acordarse conjuntamente con los Gobiernos de las otras Comunidades Autónomas afectadas. En el acto que autorice la fusión se determinará la proporción que corresponderá a las Administraciones Públicas y Entidades y Corporaciones de Derecho Público de cada Comunidad en los órganos de gobierno de la Caja de Ahorros resultante.
+
+Así mismo, corresponde a la Junta de Castilla y León, a propuesta de la Consejería de Hacienda, la autorización de los Estatutos y el Reglamento de Procedimiento Electoral de la nueva entidad constituida o las modificaciones en los de la entidad absorbente, pudiendo ordenar la adecuación de aquellos preceptos que no se ajusten a la normativa vigente.
+
+2\. A tal efecto, la entidad o entidades a que se refiere el apartado anterior, presentarán solicitud dirigida a la Consejería de Hacienda, acompañando la siguiente documentación:
+
+a) Acuerdo de la Asamblea General de cada una de las Cajas participantes en la fusión.
+
+b) Proyecto de fusión.
+
+c) Estatutos y Reglamento de Procedimiento Electoral vigentes de cada una de las Cajas participantes.
+
+d) Cuentas anuales e informe de gestión de los tres últimos ejercicios de cada una de las Cajas participantes, con los correspondientes informes de los auditores de cuentas.
+
+e) Informe de dos o más expertos independientes, designados por el Registrador Mercantil correspondiente, relativo al proyecto de fusión y al patrimonio aportado por las entidades que se extinguen.
+
+3\. Para la autorización de la fusión deberán cumplirse las condiciones siguientes:
+
+a) Que las entidades que vayan a fusionarse no se hallen en período de liquidación.
+
+b) Que queden a salvo los derechos y garantías de los impositores, acreedores, trabajadores y demás afectados por la fusión.
+
+c) Que se garantice la continuidad de las obras sociales de las entidades a extinguir por parte de la entidad de nueva creación o de la entidad absorbente.
+
+4\. La autorización de la fusión deberá otorgarse en el plazo de los tres meses siguientes a su recepción o momento en que se complete la documentación exigible, entendiéndose denegada por el transcurso de dicho plazo. La autorización de la fusión o, en su caso, la denegación de la misma será motivada.
+
+5\. La autorización de la fusión será notificada a las Cajas interesadas y publicada en el «Boletín Oficial de Castilla y León».
+
+##### Artículo 18. Inscripción.
+
+1\. La escritura pública de fusión otorgada por las Cajas intervinientes en la misma, junto a la acreditación de su inscripción en el Registro Mercantil, deberá presentarse ante la Consejería de Hacienda, en el plazo máximo de tres meses a contar desde la notificación de la autorización.
+
+2\. La Consejería de Hacienda, previa comprobación de que la escritura otorgada se ajusta a los términos de la autorización, procederá a la inscripción de la fusión en el Registro de Cajas de Ahorro de Castilla y León y a la cancelación de las inscripciones correspondientes a las Cajas extinguidas.
+
+##### Artículo 19. Período transitorio.
+
+1\. En el supuesto de fusión de Cajas de Ahorro con creación de nueva entidad, la constitución de los órganos de gobierno se realizará en el plazo de dos años a partir de la inscripción de la nueva Caja en el Registro de Cajas de Ahorro de Castilla y León.
+
+Durante este período transitorio los órganos de gobierno y de dirección de la nueva entidad serán los que se fijen en los acuerdos de fusión, respetando lo establecido con carácter general en la presente Ley, excepto en lo relativo al número de miembros de los órganos de gobierno, que podrá ser como máximo el doble del previsto en esta Ley, y en lo relativo al porcentaje correspondiente en los órganos de gobierno a cada uno de los grupos de representación, que podrá ser diferente al señalado en la presente Ley pero respetando en todo caso los grupos que la misma establece y los límites previstos por la normativa básica estatal respecto a la representación de las Administraciones Públicas y Entidades y Corporaciones de Derecho Público y a los grupos de Impositores y de Empleados.
+
+Una vez constituidos los órganos de gobierno de la nueva entidad tras el período transitorio, sus posteriores renovaciones se realizarán respetando lo dispuesto en el artículo 37, correspondiendo la primera renovación parcial a la agrupación segunda. En consecuencia, quedará reducido o prorrogado en lo necesario el período de cuatro años de mandato de los consejeros generales afectados.
+
+2\. En el caso de fusión por absorción quedarán disueltos los órganos de gobierno de las Cajas absorbidas, y la administración, gestión, representación y control de la entidad corresponderá a los de la Caja absorbente.
+
+No obstante lo anterior, los acuerdos de fusión podrán prever la incorporación de miembros del Consejo de Administración y de la Comisión de Control de las entidades absorbidas en los de la entidad absorbente hasta un total máximo, para el conjunto de las entidades, de la mitad del número de miembros previsto en esta Ley, respetando el resto de normas establecidas en la presente Ley para los distintos órganos de gobierno y de dirección.
+
+Estos órganos de gobierno desempeñarán de forma transitoria sus funciones hasta la fecha en que debiera producirse en la entidad absorbente la siguiente renovación parcial, conforme establece el artículo 37 de la presente Ley.
+
+3\. La aprobación de un proyecto de fusión por los Consejos de Administración de varias Cajas de Ahorros determinará la no iniciación del proceso de renovación de sus órganos de gobierno que en su caso corresponda, o la suspensión del mismo si ya se hubiese iniciado pero no hubiese finalizado. El citado proceso se iniciará o reanudará en el plazo máximo de un mes si la fusión no es aprobada por las Asambleas Generales de las Cajas de Ahorros implicadas o si no es autorizada administrativamente. Dicho plazo se computará desde el rechazo expreso por una de las Asambleas Generales o la no adopción por todas ellas del acuerdo de fusión en el plazo máximo de seis meses, o desde la denegación, expresa o por silencio, de la autorización administrativa.
+
+Como consecuencia de la aplicación de lo dispuesto en el párrafo anterior, el mandato de los miembros de los órganos de gobierno que deban ser renovados a causa del cumplimiento de su mandato quedará prorrogado, y el mandato de los miembros de los órganos de gobierno que se incorporen cuando la renovación finalmente se efectúe quedará reducido en lo necesario para cumplir lo dispuesto en el artículo 37 de la presente Ley.
+
+> Se añade un párrafo tercero al apartado 1 por el art. único.1 del Decreto-ley 1/2011, de 25 de agosto. [Ref. BOCL-h-2011-90091](https://www.boe.es/buscar/doc.php?id=BOCL-h-2011-90091)
+
+> Se modifica el segundo párrafo del apartado 1 y se añade un apartado 3 por la disposición final 7.2 y 3 de la Ley 10/2009, de 17 de diciembre. [Ref. BOE-A-2010-564](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-564)
+
+##### Artículo 20. Entidad Fundadora.
+
+En el supuesto de fusión con creación de una nueva Caja de Ahorros serán Entidades Fundadoras de la misma, las Cajas de Ahorro que se extinguen.
+
+La representación de dichas Entidades Fundadoras en los órganos de gobierno de la Caja de nueva creación corresponderá a las Entidades Fundadoras de las Cajas extinguidas, cuando aquéllas existan, o, en su defecto, a las Entidades que designen en los acuerdos de fusión.
+
+La representación que se asigne a cada entidad fundadora en los órganos de gobierno de la Caja resultante, dentro del porcentaje total correspondiente a este grupo, deberá ser recogida en los acuerdos de fusión y en los Estatutos de la Caja de Ahorros resultante y se determinará por acuerdo entre la Cajas intervinientes y, en su defecto, en función de la dimensión económica de éstas, tomando como base los balances de fusión aprobados por las respectivas Asambleas Generales.
+
+##### Artículo 21. Cesión global del activo y pasivo, escisión, adhesión a sistemas institucionales de protección y ejercicio indirecto de la actividad financiera.
+
+1\. Corresponde a la Junta de Castilla y León, a propuesta de la Consejería competente en materia de ordenación y supervisión de entidades de crédito, autorizar la cesión global del activo y pasivo y la escisión en que intervenga una Caja de Ahorros con domicilio social en Castilla y León, una vez adoptado el acuerdo por la Asamblea General.
+
+2\. También corresponde a la Junta de Castilla y León, a propuesta de la citada Consejería, autorizar la adhesión de una Caja de Ahorros con domicilio social en Castilla y León a un sistema institucional de protección que suponga una alianza o integración, ya sea mediante mecanismos puramente contractuales o mediante la creación de entidades para la realización de actividades comunes, destinada a garantizar la liquidez y solvencia de los participantes.
+
+3\. Asimismo, corresponde a la Junta de Castilla y León, a propuesta de la citada Consejería, autorizar a una Caja de Ahorros el ejercicio indirecto de su objeto propio como entidad de crédito mediante una entidad bancaria, a la cual se aporta todo el negocio financiero.
+
+4\. Será aplicable a las operaciones contempladas en este artículo y a sus correspondientes autorizaciones el mismo régimen previsto en la presente Ley para los supuestos de fusión, así como el previsto sobre adjudicación del remanente para los supuestos de liquidación, en lo que resulten aplicables.
+
+Específicamente, no será aplicable a las operaciones contempladas en este artículo lo dispuesto en el apartado 3 del artículo 19.
+
+La adopción de los acuerdos de cesión global del activo y pasivo, escisión, de adhesión a un sistema institucional de protección o de modificación sustancial de las condiciones de dicha adhesión y de ejercicio indirecto de su objeto propio como entidad de crédito por los órganos de gobierno de una caja de ahorros requieren la adaptación simultánea de los Estatutos de la entidad, incorporando a los mismos los aspectos básicos de la integración o ejercicio indirecto y cómo se ven afectadas la estructura, el funcionamiento y las funciones atribuidas a los diferentes órganos de la caja de ahorros. En los casos de cesión global del activo y pasivo, ejercicio indirecto o de escisión total del negocio bancario a favor de otra entidad de crédito, será también precisa la adaptación simultánea del Reglamento de Procedimiento Electoral concretando los cambios en el modo de representación de los intereses sociales y colectivos y en el desarrollo de los correspondientes procesos electorales que el acuerdo conlleva.
+
+> Se añade un párrafo tercero al apartado 4 por el art. único.2 del Decreto-ley 1/2011, de 25 de agosto. [Ref. BOCL-h-2011-90091](https://www.boe.es/buscar/doc.php?id=BOCL-h-2011-90091)
+
+> Se modifica el título y se añade un apartado 3, pasando el actual 3 a ser apartado 4 por el art. único.3 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+> Se modifica el apartado 3 por el art. único.1 de la Ley 4/2010, de 28 de mayo. [Ref. BOE-A-2010-9352](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9352)
+
+> Se modifica por la disposición final 7.4 de la Ley 10/2009, de 17 de diciembre. [Ref. BOE-A-2010-564](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-564)
+
+> Téngase en cuenta para su aplicación la disposición final 7.7 de la citada ley.
+
+##### Artículo 21 bis. Transformación en fundación de carácter especial.
+
+1\. Las Cajas de Ahorros podrán acordar la segregación de sus actividades financieras y benéfico-sociales mediante el régimen previsto en este artículo en los siguientes casos:
+
+a) En los supuestos de renuncia obligada a la autorización para actuar como entidad de crédito previstos en el artículo 4 de esta ley.
+
+b) En otros casos de renuncia a la autorización para actuar como entidad de crédito y en los demás supuestos de revocación.
+
+c) Como consecuencia de la intervención de la entidad de crédito en los supuestos previstos en la Ley.
+
+A tal efecto, traspasarán todo el patrimonio afecto a su actividad financiera a otra entidad de crédito a cambio de acciones de esta última y se transformarán en una fundación de carácter especial, perdiendo su condición de entidad de crédito.
+
+La fundación centrará su actividad en la atención y desarrollo de su obra benéfico-social, para lo cual podrá llevar a cabo la gestión de su cartera de valores. La fundación deberá destinar a su finalidad benéfico-social el producto de los fondos, participaciones e inversiones que integre su patrimonio. Con carácter auxiliar, podrá llevar a cabo la actividad de fomento de la educación financiera.
+
+2\. El acuerdo a que se refiere el apartado anterior estará sujeto al cumplimiento de los requisitos previstos para la constitución de fundaciones y supondrá la transformación de la Caja en una fundación de carácter especial. La segregación de la actividad financiera, por su parte, se regirá por lo establecido en esta Ley y en la Ley 3/2009, de 3 de abril, sobre Modificaciones Estructurales de las Sociedades Mercantiles.
+
+3\. Las transformaciones de Cajas de Ahorros con domicilio social en Castilla y León en fundaciones especiales deberán ser autorizadas por la Junta de Castilla y León, a propuesta de la Consejería competente en materia de Cajas de Ahorros. La autorización deberá otorgarse en el plazo de tres meses a partir de su solicitud, siempre que esta incluya toda la documentación exigible, pudiéndose entender denegada por el transcurso de dicho plazo sin resolución expresa. La autorización sólo podrá denegarse si no concurren los supuestos de hecho y condiciones previstos en el presente artículo o si ese proceso no ofrece garantías suficientes para el adecuado ejercicio de la obra benéfico-social por la futura fundación de carácter especial. Una vez autorizada la transformación, su implementación será supervisada por la Junta de Castilla y León a través de la Consejería competente en materia de Cajas de Ahorros.
+
+4\. A las fundaciones de carácter especial en que se transformen las cajas de ahorros les serán aplicables, además de la presente Ley y del régimen jurídico general sobre fundaciones, las normas reguladoras de las fundaciones que gestionan la obra social de dichas entidades de crédito. Mediante Decreto de la Junta de Castilla y León, a propuesta de la Consejería competente en materia de cajas de ahorros, podrá completarse su régimen jurídico específico.
+
+5\. Los estatutos de las fundaciones de carácter especial y sus modificaciones, una vez acordadas por el patronato de las mismas, requerirán la autorización de la Consejería competente en materia de cajas de ahorros.
+
+6\. Al ejercicio de la obra benéfico-social de las fundaciones de carácter especial procedentes de la transformación de Cajas de Ahorros con domicilio social en Castilla y León les será de aplicación lo previsto en los apartados 3, 4, 6 y 7 del artículo 87, entendiéndose la referencia hecha en el apartado 6 a los «acuerdos de la Asamblea General» a los acuerdos del patronato de la correspondiente fundación.
+
+7\. El patronato de las fundaciones de carácter especial en que se transformen las cajas de ahorros estará compuesto por un máximo de veinte miembros, debiendo estar representados los mismos grupos que en los órganos de gobierno de la caja de ahorros transformada y en la misma proporción. Los criterios y procedimientos para su designación y para la renovación del patronato serán fijados en los estatutos, tomando como referencia los aplicables a los órganos de gobierno de las cajas de ahorros. La Consejería competente en materia de cajas de ahorros podrá nombrar un representante en el patronato de las fundaciones de carácter especial en que se transformen las cajas de ahorros con domicilio social en Castilla y León, que asistirá a las reuniones con voz y sin voto.
+
+> Se modifican las letras a) y b) del apartado 1 por la disposición final 2.2 de la Ley 4/2012, de 16 de julio. [Ref. BOE-A-2012-10158](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10158)
+
+> Se añaden los apartados 4, 5 y 7 y se renumera el actual 4 como 6 por el art. único.3 del Decreto-ley 1/2011, de 25 de agosto. [Ref. BOCL-h-2011-90091](https://www.boe.es/buscar/doc.php?id=BOCL-h-2011-90091)
+
+> Se añade por el art. único.4 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+### CAPÍTULO III — Extinción
+
+##### Artículo 22. Causas de extinción. Las Cajas de Ahorro se extinguirán:
+
+a) Por acuerdo de la Asamblea General adoptado conforme establece el artículo 55 de la presente Ley.
+
+b) Como consecuencia de la revocación de la autorización.
+
+c) Por cualquiera de las causas que se establezcan en los Estatutos y en las leyes.
+
+##### Artículo 23. Disolución y liquidación.
+
+1\. La autorización de los acuerdos de disolución y liquidación de las Cajas de Ahorro corresponde a la Consejería de Hacienda.
+
+2\. Aprobada la disolución, excepto en caso de fusión, cesión global del activo y pasivo y escisión, se abrirá el período de liquidación. El proceso de liquidación estará sujeto al control de la Consejería de Hacienda, la cual podrá designar representantes a tal fin.
+
+3\. La adjudicación del remanente resultante de la liquidación se ajustará a lo que dispongan la escritura fundacional, los Estatutos y las leyes aplicables, procurando la continuidad de las obras sociales establecidas.
+
+4\. Los acuerdos de disolución y liquidación se inscribirán en el Registro de Cajas de Ahorro de Castilla y León y se publicarán en el «Boletín Oficial de Castilla y León».
+
+5\. Las presentes disposiciones se entenderán sin perjuicio de las normas básicas sobre la materia y, en concreto, las que regulan el Fondo de Garantía de Depósitos.
+
+En cualquier caso, las instituciones u organismos competentes podrán establecer sistemas de colaboración en el ejercicio de las respectivas competencias.
+
+## TÍTULO III — Registros
+
+### CAPÍTULO I — Registro de Cajas de Ahorro de Castilla y León
+
+##### Artículo 24. Naturaleza.
+
+1\. El Registro de Cajas de Ahorro de Castilla y León dependerá de la Consejería de Hacienda.
+
+2\. El Registro será público. Cualquier persona podrá obtener gratuitamente certificado de los datos que consten en él, siempre que justifique su interés legítimo.
+
+3\. Su funcionamiento se regulará por la Consejería de Hacienda.
+
+##### Artículo 25. Estructura y contenido.
+
+El Registro de Cajas de Ahorro de Castilla y León estará organizado en tres secciones:
+
+Sección Primera: En la Sección Primera se inscribirán las Cajas de Ahorro que tengan su domicilio social en Castilla y León, con el siguiente contenido mínimo:
+
+a) La denominación de la entidad.
+
+b) El domicilio social.
+
+c) La fecha de la escritura de fundación y de su inscripción en el Registro Mercantil.
+
+d) Las personas o entidades fundadoras.
+
+e) Los Estatutos y el Reglamento de Procedimiento Electoral, y sus modificaciones.
+
+f) Las autorizaciones relativas a la creación, fusión, cesión global de activos y pasivos, escisión, ejercicio indirecto como entidad de crédito, transformación en fundación de carácter especial, disolución y liquidación.
+
+g) Las sanciones firmes.
+
+h) La relación de agencias y sucursales.
+
+i) Cualquier otro contenido que se determine reglamentariamente.
+
+Sección Segunda: En la Sección Segunda se inscribirán las Cajas de Ahorro que, sin estar domiciliadas en el territorio de Castilla y León, tengan oficinas abiertas en el mismo, con el siguiente contenido mínimo:
+
+a) La denominación de la entidad.
+
+b) El domicilio social.
+
+c) Los Estatutos y el Reglamento de Procedimiento Electoral, y sus modificaciones.
+
+d) La relación de agencias y sucursales en la Comunidad Autónoma de Castilla y León.
+
+e) Las sanciones firmes.
+
+f) Cualquier otra información que se determine reglamentariamente.
+
+Sección Tercera: En la Sección Tercera se inscribirán las fundaciones de las Cajas de Ahorro con domicilio social en Castilla y León que gestionen total o parcialmente la obra social, con el siguiente contenido mínimo:
+
+a) La denominación de la fundación.
+
+b) El domicilio social.
+
+c) La identidad de los fundadores.
+
+d) La fecha de inscripción de la escritura pública de constitución en el Registro de Fundaciones y de sus modificaciones.
+
+e) Los Estatutos y sus modificaciones.
+
+f) La relación de miembros que integran el Patronato y sus fechas de nombramiento y cese.
+
+g) La fecha de nombramiento y cese del Gerente y de los apoderados, con expresión de las facultades otorgadas.
+
+h) Cualquier otra información que se determine reglamentariamente.
+
+> Se modifica la letra f) de la Sección Primera por el art. único.5 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 26. Reserva de denominación.
+
+1\. Ninguna persona física o jurídica podrá, sin haber obtenido la preceptiva autorización y hallarse inscrita en el Registro correspondiente, ejercer en la Comunidad de Castilla y León las actividades reservadas legalmente a las Cajas de Ahorro, ni utilizar denominaciones, marcas, rótulos, modelos, anuncios o expresiones que puedan inducir a error sobre su naturaleza, en relación con las Cajas de Ahorro.
+
+2\. El incumplimiento de lo dispuesto en el apartado anterior conllevará la correspondiente sanción en los términos establecidos en la normativa vigente.
+
+### CAPÍTULO II — Registro de Altos Cargos de las Cajas de Ahorro de Castilla y León
+
+##### Artículo 27. Naturaleza.
+
+El Registro de Altos Cargos de las Cajas de Ahorro de Castilla y León dependerá de la Consejería de Hacienda, y tendrá carácter informativo y de control. Cualquier persona podrá obtener gratuitamente certificado de los datos que consten en él, siempre que justifique su interés legítimo.
+
+Su funcionamiento se regulará por la Consejería de Hacienda.
+
+##### Artículo 28. Estructura.
+
+El Registro de Altos Cargos de las Cajas de Ahorro con domicilio social en Castilla y León estará organizado en las siguientes secciones:
+
+Sección A: Asamblea General.
+
+Sección B: Consejo de Administración.
+
+Sección C: Comisión de Control.
+
+Sección D: Director General o asimilado y otro personal de dirección.
+
+##### Artículo 29. Contenido.
+
+En el Registro de Altos Cargos se inscribirán los nombramientos, reelecciones, renovaciones, cobertura de vacantes y ceses de los miembros de los órganos de gobierno y del Director General o asimilado y otro personal de Dirección, y aquellos otros datos y circunstancias que se determinen por la Consejería de Hacienda.
+
+## TÍTULO IV — Los órganos de gobierno y la dirección de las Cajas de Ahorro con domicilio social en Castilla y León
+
+### CAPÍTULO I — Disposiciones comunes
+
+##### Artículo 30. Órganos de gobierno.
+
+1\. La administración, gestión, representación y control de las cajas de ahorros con domicilio social en Castilla y León corresponde a los siguientes órganos de gobierno:
+
+a) La Asamblea General.
+
+b) El Consejo de Administración.
+
+c) La Comisión de Control.
+
+Adicionalmente, serán órganos de las cajas de ahorros el Director General y las Comisiones de Inversiones, Retribuciones y Nombramientos y Obra Social.
+
+Los órganos de las cajas de ahorros que desarrollen su actividad indirectamente de acuerdo con lo previsto en el artículo 4 de esta ley, o hayan escindido totalmente su negocio bancario a favor de otra entidad de crédito, serán exclusivamente la Asamblea General, el Consejo de Administración y, potestativamente, la Comisión de Control; en tales casos, las funciones que esta ley atribuye a las Comisiones de Inversiones y Retribuciones y Nombramientos corresponderán al Consejo de Administración, y las que atribuye a la Comisión de Obra Social corresponderán a la Asamblea General. Las funciones que esta ley atribuye a la Comisión de Control corresponderán, en las entidades que no tengan dicho órgano de gobierno, al Consejo de Administración, salvo en lo referido al control de la actuación del propio Consejo que corresponderá a la Asamblea General.
+
+2\. Los Estatutos y el Reglamento de Procedimiento Electoral de las Cajas de Ahorro regularán la elección, composición, funcionamiento y funciones de sus órganos de gobierno de acuerdo con la normativa básica en materia de Órganos Rectores de Cajas de Ahorro, así como con la presente Ley y las normas que la desarrollen.
+
+3\. La representación de las Administraciones Públicas y Entidades y Corporaciones de Derecho Público en los órganos de gobierno no podrá superar en su conjunto el 40% del total de los derechos de voto en cada uno de tales órganos, teniendo que estar representadas todas las Entidades y Corporaciones.
+
+Al regular los procesos de elección, designación, y en su caso cobertura de vacantes, los Estatutos y el Reglamento de Procedimiento Electoral de las Cajas de Ahorro deberán contener las normas precisas que garanticen en todo caso que, respetando los porcentajes de representación establecidos en el artículo 44, se cumpla lo establecido en el párrafo anterior.
+
+En el caso de Cajas cuya única Entidad Fundadora sea una Corporación Municipal, y ésta opte por ejercer su representación por el grupo de Entidades Fundadoras, el número de representantes que le corresponda irá en detrimento de la representación asignada, en cada órgano de gobierno, al grupo de Corporaciones Municipales, incrementándose en idéntico número los representantes asignados en cada órgano de gobierno al grupo de Impositores.
+
+> Se modifica el último párrafo del apartado 1 por la disposición final 2.3 de la Ley 4/2012, de 16 de julio. [Ref. BOE-A-2012-10158](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10158)
+
+> Se modifica el apartado 1 por el art. único.4 del Decreto-ley 1/2011, de 25 de agosto. [Ref. BOCL-h-2011-90091](https://www.boe.es/buscar/doc.php?id=BOCL-h-2011-90091)
+
+> Se modifica el apartado 1 y el primer párrafo del apartado 3 por el art. único.6 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 31. Requisitos de elegibilidad y ejercicio del cargo.
+
+1\. Los miembros de los órganos de gobierno deberán reunir los siguientes requisitos:
+
+a) Ser persona física con residencia habitual en la Comunidad Autónoma o zona de actividad de la Caja.
+
+b) Ser mayor de edad y no estar incapacitado.
+
+c) Tener la condición de impositor.
+
+d) Estar al corriente en el cumplimiento de las obligaciones que hubieran contraído con la Caja de Ahorros por sí mismo o en representación de otras personas o entidades.
+
+e) Tener la honorabilidad comercial y profesional necesaria, preparación técnica y experiencia adecuada para el ejercicio de sus funciones.
+
+En cualquier caso, se entenderá que concurre honorabilidad comercial y profesional en quienes hayan venido observando una trayectoria personal de respeto a las Leyes mercantiles u otras que regulan la actividad económica y la vida de los negocios, así como las buenas prácticas comerciales y financieras.
+
+En todo caso, se entenderá que carecen de tal honorabilidad quienes, en España o en el extranjero, tengan antecedentes penales por delitos dolosos, estén inhabilitados para ejercer cargos públicos o de administración o dirección de entidades financieras o estén inhabilitados conforme a la Ley 22/2003, de 9 de julio, concursal, mientras no haya concluido el período de inhabilitación fijado en la sentencia de calificación del concurso y los quebrados y concursados no rehabilitados en procedimientos concursales anteriores a la entrada en vigor de la referida Ley.
+
+f) No estar incursos en las incompatibilidades reguladas en el artículo siguiente.
+
+Los Compromisarios deberán reunir los mismos requisitos establecidos anteriormente para los miembros de los órganos de gobierno con excepción de lo dispuesto en la letra e).
+
+2\. Además de los requisitos anteriores los Compromisarios y los Consejeros Generales representantes de los Impositores habrán de tener la condición de depositantes con una antigüedad superior a dos años en el momento de la elección y un saldo medio en cuentas o un número de movimientos en las mismas, indistintamente, no inferior a lo que se determine por la Junta de Castilla y León. En el caso de aquellas Cajas que desarrollen su actividad financiera indirectamente a través de una entidad bancaria, se tomarán en consideración las cuentas, así como sus saldos y movimientos, abiertas con anterioridad en la Caja de Ahorros correspondiente, a los efectos de entender cumplidos los requisitos anteriores.
+
+Los Consejeros Generales representantes del Personal, además de los requisitos establecidos en el apartado 1 del presente artículo deberán tener como mínimo una antigüedad de dos años en la Caja y tener la condición de trabajador fijo en activo de la entidad. Reglamentariamente se determinará, a estos solos efectos, los supuestos a los que pueda extenderse esta situación. En el caso de aquellas Cajas que desarrollen su actividad financiera indirectamente a través de una entidad bancaria, se tomarán en consideración, a los efectos de entender cumplido el requisito de antigüedad, los servicios prestados en la correspondiente Caja de Ahorros.
+
+Los Consejeros Generales representantes de las Cortes de Castilla y León y de las Corporaciones Municipales, además de los requisitos establecidos en el apartado 1 del presente artículo deberán tener reconocida experiencia, conocimientos y prestigio en materia de economía y finanzas.
+
+3\. Los miembros del Consejo de Administración y de la Comisión de Control deberán ser Consejeros Generales, cumplir los requisitos del apartado 1, los establecidos, en su caso, para su grupo de representación en el apartado 2 del presente artículo y ser menores de setenta años en el momento de la toma de posesión.
+
+No obstante, podrán ser miembros del Consejo de Administración en representación de los grupos de Corporaciones Municipales, Impositores, Entidades fundadoras, Cortes de Castilla y León y Entidades de Interés General terceras personas no Consejeros Generales. Cuando esas terceras personas sean elegidas en representación del grupo de Impositores quedarán excluidas del requisito previsto en el primer párrafo del apartado 2 del presente artículo.
+
+4\. A las personas que integren las candidaturas para la elección de miembros de órganos de gobierno, les serán exigibles los requisitos previstos en este artículo.
+
+5\. Los requisitos establecidos en los apartados anteriores, y los específicos establecidos para los miembros del Consejo de Administración y de la Comisión de Control en los artículos 57 y 65, serán exigibles para los compromisarios y miembros de los órganos de gobierno al tiempo de formular la aceptación del cargo, y para los candidatos al tiempo de presentar la candidatura.
+
+Los miembros de los órganos de gobierno habrán de mantener los requisitos exigidos para su nombramiento durante el período de ejercicio de sus cargos.
+
+> Se modifican los apartados 1.e), 2, 3 y 5 por el art. único.7 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 32. Causas de incompatibilidad.
+
+No podrán ser compromisarios ni miembros de los órganos de gobierno quienes incurran en las siguientes causas de incompatibilidad:
+
+a) Encontrarse sujeto a un procedimiento concursal en el que se haya producido la apertura de la fase de liquidación.
+
+b) Haber sido condenado a pena que lleve aneja la inhabilitación para el ejercicio de cargos públicos o haber sido sancionado por resolución administrativa o sentencia como consecuencia de la comisión de infracciones graves o muy graves, entendiéndose por tales las tipificadas con tal carácter por el ordenamiento jurídico.
+
+c) Los Presidentes, Consejeros, Administradores, Directores, Gerentes, Asesores o asimilados de otra entidad de crédito de cualquier clase o de corporaciones o entidades que propugnen, sostengan o garanticen entidades de crédito o establecimientos financieros de crédito.
+
+Quedan exceptuados quienes ostenten cargos en otras entidades de crédito en representación de la Caja o promovidos por ella.
+
+d) Los administradores o miembros del Consejo de Administración u órgano equivalente de más de cuatro sociedades mercantiles, cooperativas, entidades, o sociedades agrarias en transformación.
+
+Quedan exceptuados los cargos que se desempeñen en representación de la Caja o por designación de la misma.
+
+e) El personal al servicio de las Administraciones Públicas con funciones que se relacionen directamente con las actividades propias de las Cajas de Ahorro.
+
+f) Las personas que estén ligadas laboralmente o mediante prestación de servicios a otro intermediario financiero, aunque se encuentren en suspenso o en situación de excedencia voluntaria.
+
+g) Las personas que formen parte de un órgano de gobierno de otra Caja de Ahorros u otra entidad de crédito.
+
+h) Los que, por sí mismos o en representación de otras personas o entidades:
+
+1\. Mantuviesen, en el momento de ser elegidos para los cargos, deudas vencidas y exigibles de cualquier clase frente a la entidad.
+
+2\. Durante el ejercicio del cargo hubieran incurrido en incumplimiento de las obligaciones contraídas con la Caja con motivo de créditos o préstamos o por impago de deudas de cualquier clase frente a la entidad.
+
+i) Los que estén vinculados directamente o través de sociedad inter-puesta en la que participen en más del veinte por ciento, a la Caja de Ahorros o a sociedades en las cuales participe ésta con más de un veinte por ciento del capital, por contrato de obras, servicios, suministros o trabajo retribuido, salvo la relación laboral para los empleados de la Caja. Esta incompatibilidad se mantendrá durante los dos años siguientes, contados a partir de la terminación de tal vinculación.
+
+j) Las personas que se encuentren en alguno de los siguientes supuestos de hecho:
+
+1\. Desempeñen un cargo político electo.
+
+2\. Ocupen el puesto de alto cargo de la Administración General del Estado, la Administración de las Comunidades Autónomas o la Administración local, o de cualquiera de las entidades del sector público, de derecho público o privado, vinculadas o dependientes de aquéllas.
+
+3\. No siendo altos cargos, desempeñen cargos de confianza en las Administraciones Públicas para los cuales hayan sido nombrados por el Gobierno de la Nación o el Consejo de Gobierno de una Comunidad Autónoma.
+
+En el caso de los altos cargos, la incompatibilidad se extenderá durante los dos años siguientes a la fecha de su cese como tales, cuando se den cualquiera de los siguientes supuestos de hecho:
+
+– Que los altos cargos, sus superiores a propuesta de ellos o los titulares de sus órganos dependientes, por delegación o sustitución, hubieran dictado resoluciones en relación con Cajas de Ahorros.
+
+– Que hubieran intervenido en sesiones de órganos colegiados en las que se hubiera adoptado algún acuerdo o resolución en relación con Cajas de Ahorros.
+
+k) Quienes hayan sido miembros de órganos de gobierno de una Caja de Ahorros distinta hasta dos años posteriores a su cese, exceptuándose los supuestos de fusión y con respecto a las instituciones afectadas.
+
+> Se modifica por el art. único.8 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 33. Limitaciones.
+
+1\. Las personas que hayan ostentado la condición de miembros de los órganos de gobierno de una Caja de Ahorros no podrán establecer, directamente o a través de sociedad interpuesta en la que participen en mas de un veinte por ciento, contratos de obras, servicios, suministros o trabajo retribuido con la Caja de Ahorros o con sociedades en las que ésta participe en más de un veinte por ciento del capital, durante un período mínimo de dos años, contados a partir del cese en el correspondiente órgano de gobierno, salvo la relación laboral para los empleados de la Caja.
+
+2\. Los miembros no retribuidos del Consejo de Administración y de la Comisión de Control de las Cajas de Ahorros de Castilla y León con excepción del Presidente de la entidad, el Director General o asimilado y el personal de dirección a que se refiere el Capítulo V del Título IV de esta Ley, así como sus cónyuges, ascendientes o descendientes y las sociedades en que dichas personas tengan una participación que aislada o conjuntamente, directa o indirectamente, sea superior al diez por ciento del capital social, o en las que ejerzan los cargos de Presidente, Consejero, Administrador, Gerente, Director General o asimilado no podrán obtener créditos, avales o garantías de la Caja de Ahorros sin que exista acuerdo del Consejo de Administración de ésta y autorización expresa de la Consejería competente en materia de Cajas de Ahorros previamente a su formalización, con las excepciones previstas en el artículo 80 de la presente Ley.
+
+Serán precisos también el acuerdo del Consejo de Administración correspondiente y la autorización prevista en el artículo 80 de la presente Ley para que las personas y sociedades a que hace referencia el párrafo anterior puedan enajenar a la Caja de Ahorros bienes, derechos o valores propios, así como para adquirir bienes o derechos propiedad de la Caja de Ahorros y valores de su cartera o emitidos por las Cajas.
+
+Por su parte, los Presidentes de las Cajas de Ahorros y los miembros retribuidos de los Consejos de Administración y las Comisiones de Control, así como sus cónyuges, ascendientes o descendientes y las sociedades en que dichas personas tengan una participación que aislada o conjuntamente, directa o indirectamente, sea superior al diez por ciento del capital social, o en las que ejerzan los cargos de Presidente, Consejero, Administrador, Gerente, Director General o asimilado no pueden en ningún caso mantener u obtener créditos, avales o garantías de la Caja de Ahorros para el ejercicio de sus actividades profesionales o empresariales, ni de ninguna otra entidad participada por la Caja. La obtención de créditos, avales o garantías para fines distintos precisará acuerdo del Consejo de Administración y autorización expresa de la Consejería competente en materia de Cajas de Ahorros previamente a su formalización, con las excepciones previstas en el artículo 80 de la presente Ley. Tampoco podrán las personas y sociedades a que se hace referencia en el presente párrafo enajenar a la Caja de Ahorros, ni a ninguna entidad participada por ésta, bienes, derechos o valores propios, así como adquirir bienes o derechos propiedad de la Caja de Ahorros y valores de su cartera o emitidos por las Cajas.
+
+Las limitaciones anteriores se extenderán en todo caso no sólo a las operaciones realizadas directamente por las personas o entidades referidas, sino también a aquellas otras en que pudieran aparecer una o varias personas físicas o jurídicas interpuestas.
+
+3\. La concesión de créditos a los representantes del personal se regirá por lo que dispongan los convenios colectivos, previo informe de la Comisión de Control.
+
+> Se modifica el apartado 2 por el art. único.9 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 34. Cese.
+
+1\. Los miembros de los órganos de gobierno cesarán, única y exclusivamente, en el ejercicio de sus cargos, en los siguientes supuestos:
+
+a) Por cumplimiento del período para el que hubieran sido nombrados.
+
+b) Por cumplimiento del período máximo de doce años previsto en el artículo 35 de la presente Ley, salvo en los casos de los miembros del Consejo de Administración designados por titulares de cuotas participativas, para los que no habrá límite máximo.
+
+c) Por renuncia formalizada por escrito.
+
+d) Por defunción, declaración de ausencia legal o declaración de fallecimiento.
+
+e) Por pérdida de cualquiera de los requisitos que condicionan su elegibilidad.
+
+f) Por incurrir en alguna de las causas de incompatibilidad reguladas en esta Ley.
+
+g) Por acuerdo de revocación o separación adoptados por la Asamblea General, de acuerdo con lo previsto en el artículo 36.
+
+2\. El cese de los miembros de los órganos de gobierno no afectará a la participación de los distintos grupos de representación en los órganos de gobierno.
+
+> Se modifica la letra b) del apartado 1 por el art. único.10 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 35. Mandato y reelección.
+
+1\. Los miembros de los órganos de gobierno serán nombrados por un período de cuatro años.
+
+El mandato se iniciará en la fecha de celebración de la Asamblea General en que hayan sido nombrados, y se entenderá cumplido en la fecha de la Asamblea General en que se produzca la incorporación de los nuevos Consejeros Generales.
+
+2\. En el caso de vacantes producidas por el cese de miembros antes del transcurso del tiempo para el que hubieren sido nombrados, los suplentes ejercerán su función hasta completar el mandato.
+
+El mandato del suplente se iniciará en la fecha de su incorporación como miembro del órgano, y finalizará en la fecha de la Asamblea General en que se produzca la incorporación de los nuevos Consejeros Generales.
+
+El mandato del sustituido finalizará en la fecha en que se produzca la causa de cese.
+
+3\. Los Estatutos podrán prever su reelección siempre que cumplan los requisitos establecidos para su nombramiento.
+
+4\. El límite temporal de ejercicio del cargo no podrá superar como máximo los doce años, computándose todas las representaciones que hayan ostentado y en cualquiera de los órganos en los que hayan ejercido un cargo. Se exceptúan de esta regla los miembros del Consejo de Administración designados por titulares de cuotas participativas, para los que no habrá límite alguno».
+
+Cumplido el mandato de doce años de forma continuada o ininterrumpida, y transcurridos ocho años desde dicha fecha, podrá volver a ser elegido en las condiciones establecidas en la presente Ley.
+
+5\. En el supuesto de fusión de Cajas de Ahorro, para el cómputo del plazo de ejercicio del cargo en los órganos de gobierno de la Caja resultante se acumulará el tiempo de ejercicio del cargo en cada una de las Cajas fusionadas.
+
+> Se modifica el apartado 4 por el art. único.11 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 36. Separación y revocación de los miembros de los órganos de Gobierno.
+
+1\. Los miembros de la Asamblea General podrán ser separados de su cargo cuando incumplieren los deberes inherentes al mismo, o perjudiquen con su actuación, pública o privada, el prestigio, buen nombre o actividad de la Caja.
+
+La separación se efectuará mediante acuerdo adoptado por la Asamblea General, conforme establece el artículo 55 de la presente Ley.
+
+2\. Por las mismas causas podrá la Asamblea General acordar la revocación de los miembros del Consejo de Administración y de la Comisión de Control, conforme establece el artículo 55 de la presente Ley.
+
+##### Artículo 37. Renovación parcial.
+
+Los órganos de gobierno serán renovados parcialmente cada dos años, respetando la proporcionalidad de las representaciones, y conforme al procedimiento de elección y designación establecido para cada órgano y grupo por la presente Ley.
+
+A tal efecto, se establecen dos agrupaciones: la primera de ellas estará integrada por los grupos de Impositores y Empleados, y la segunda estará integrada por los grupos de Corporaciones Municipales, Cortes de Castilla y León, Entidades Fundadoras y Entidades de Interés General.
+
+La renovación de la agrupación segunda deberá quedar realizada en el plazo máximo de cuatro meses desde la celebración de las correspondientes elecciones municipales.
+
+> Se modifica por el art. único.12 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 38. Vacantes.
+
+1\. Las vacantes que se produzcan como consecuencia del cese de Consejeros Generales con anterioridad a la finalización del período para el que fueron elegidos, se cubrirán:
+
+a) Cuando la vacante afecte a un Consejero General de los grupos de Corporaciones Municipales, Entidades Fundadoras, Entidades de Interés General y Cortes de Castilla y León, mediante nueva designación por dichas entidades, respetando la proporcionalidad originaria.
+
+b) Cuando la vacante afecte a un Consejero General de los grupos de Impositores y de Empleados, por la persona que, atendiendo a su orden de colocación, corresponda dentro de la lista de suplentes aprobada por la Asamblea General para la candidatura en la que estuviese integrado el titular.
+
+2\. Las vacantes que se produzcan como consecuencia del cese de miembros del Consejo de Administración y de la Comisión de Control con anterioridad a la finalización del período de ejercicio del cargo se cubrirán, dentro del mismo grupo afectado, por la persona que, atendiendo a su orden de colocación, corresponda dentro de la lista de suplentes aprobada por la Asamblea General para la candidatura en la que estuviese integrado el titular.
+
+3\. La cobertura de vacantes se efectuará en el plazo máximo de dos meses contados desde que se produzca el cese correspondiente, cualquiera que sea la causa, sin que puedan efectuarse nombramientos provisionales.
+
+4\. No podrá nombrarse a una misma persona como suplente para distintos órganos.
+
+##### Artículo 39. Percepciones.
+
+1\. En general, en el ejercicio de sus funciones, los miembros de los órganos de gobierno que no tengan asignada retribución no podrán recibir percepciones distintas de las dietas por asistencia y los gastos de desplazamiento, cuyas cuantías máximas serán autorizadas por la Consejería competente en materia de cajas de ahorros.
+
+También serán autorizadas por dicha Consejería las cuantías máximas de dietas y gastos aplicables a los compromisarios en el ejercicio de sus funciones.
+
+Los miembros de los órganos de gobierno que sean a su vez miembros de los órganos de administración de otras entidades en representación o por designación de la Caja de Ahorros, o promovidos por ella, o que realicen actividades en representación de la Caja, deberán ceder a ésta los ingresos percibidos por dichas circunstancias en lo que excedan de los límites máximos a los que se refiere el párrafo primero, salvo que se perciban por la participación en los órganos de administración de la entidad de crédito a través de la que la caja de ahorros desarrolle su actividad indirectamente de acuerdo con lo previsto en el artículo 4 de esta Ley o a favor de la cual la Caja de Ahorros haya escindido totalmente su negocio bancario.
+
+2\. El ejercicio de las funciones de los miembros del Consejo de Administración y de la Comisión de Control, en las entidades que no desarrollen su actividad indirectamente ni hayan escindido totalmente su negocio bancario, podrá ser retribuido. Corresponderá a la Asamblea General la determinación de dicha remuneración.
+
+En ese caso, el ejercicio del cargo será incompatible con cualquier actividad retribuida de cualquier modo tanto de carácter público como privado, salvo la administración del propio patrimonio y aquellas actividades que ejerza en representación de la Caja. En este último caso los ingresos que obtenga, distintos a dietas y gastos de desplazamiento dentro de los límites máximos a los que se refiere el apartado anterior, deberán cederse a la Caja por cuya cuenta realiza dicha actividad o representación.
+
+A los efectos de lo dispuesto en el párrafo anterior, no se considerará administración del propio patrimonio y, por tanto, resultará incompatible con el cargo de miembro retribuido del Consejo de Administración o de la Comisión de Control el ejercicio de actividades que no estén dirigidas a la mera gestión del patrimonio preexistente, resultando por tanto incompatibles con el ejercicio del cargo las actividades de creación o incremento del propio patrimonio mediante la realización de toda clase de actos de naturaleza mercantil, laboral o industrial, ya sean éstos realizados por sí o por otro o a través de personas jurídicas en las que se tenga una participación directa o indirecta que permita ejercer su control.
+
+> Se modifica por el art. único.5 del Decreto-ley 1/2011, de 25 de agosto. [Ref. BOCL-h-2011-90091](https://www.boe.es/buscar/doc.php?id=BOCL-h-2011-90091)
+
+> Se modifica por el art. único.13 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 40. Procesos electorales.
+
+1\. La elección y designación de los miembros de los órganos de gobierno de las Cajas de Ahorro se regula por lo dispuesto en esta Ley y en su normativa de desarrollo, en los Estatutos, y en el Reglamento de Procedimiento Electoral que aprobará cada Caja de Ahorros.
+
+2\. El proceso de elección de los órganos de gobierno deberá respetar los principios de legalidad, transparencia, publicidad, proporcionalidad y participación democrática.
+
+3\. El Consejo de Administración será responsable de la iniciación, desarrollo y coordinación de los trámites de designación de los miembros de órganos de gobierno con la antelación necesaria para que puedan cumplirse plazos legales para su renovación.
+
+4\. En el supuesto de inobservancia de lo previsto en el apartado anterior, la Comisión de Control requerirá al Consejo de Administración para que proceda al cumplimiento de sus obligaciones, e informará a la Consejería de Hacienda.
+
+5\. Para proceder a la elección y renovación de los órganos de gobierno de las Cajas de Ahorro, la Comisión de Control se constituirá en Comisión Electoral. Esta Comisión Electoral será el órgano encargado de vigilar el proceso electoral y como tal ostenta las necesarias facultades y ejerce las correspondientes funciones.
+
+6\. La Comisión de Control habrá de comunicar a la Consejería de Hacienda cuantos nombramientos y ceses de los miembros de los órganos de gobierno se produzcan, sin perjuicio de efectuar cualesquiera otras comunicaciones que resulten exigibles de conformidad con la normativa aplicable.
+
+7\. La Consejería de Hacienda podrá acordar, a propuesta de la Comisión de Control, por sí misma o constituida en Comisión Electoral, la anulación o suspensión, total o parcial, del proceso electoral cuando observe incumplimientos de la normativa aplicable u otro tipo de irregularidades que afecten muy gravemente al proceso. Se entenderán por muy graves aquellas que puedan producir alteraciones efectivas en el resultado electoral.
+
+La Comisión de Control, con carácter previo a la elevación de la propuesta, deberá ponerlo en conocimiento del Consejo de Administración.
+
+8\. La Consejería de Hacienda velará por el cumplimiento de las normas sobre elección y designación de miembros de los órganos de gobierno y podrá instar la iniciación del oportuno expediente sancionador, para lo cual podrá solicitar a la Comisión de Control las informaciones oportunas.
+
+##### Artículo 41. Normas de funcionamiento de los órganos.
+
+1\. Los órganos de gobierno actuarán con carácter colegiado y sus miembros ejercerán sus funciones con plena independencia, en beneficio exclusivo de los intereses de la Caja de Ahorros a la que pertenezcan.
+
+2\. Los miembros de los órganos de gobierno con derecho a voto no podrán estar representados por otros miembros ni por terceras personas, ya sean físicas o jurídicas.
+
+Cada uno de esos miembros tendrá derecho a un solo voto. La persona que presida la sesión, cuando tenga derecho a voto, tendrá voto de calidad.
+
+3\. Los acuerdos adoptados por los órganos de gobierno vincularán a sus miembros, quedando exentos de la responsabilidad que pueda derivarse quienes hubieran votado en contra y los ausentes por causa justificada.
+
+4\. Los miembros de los órganos de gobierno deberán guardar secreto de cuanta información relativa a las Cajas de Ahorro reciban en el ejercicio de sus cargos, así como de los acuerdos adoptados en sus reuniones.
+
+A ese deber quedarán sujetas también las demás personas que hubiesen asistido a las sesiones de los órganos de gobierno.
+
+Las deliberaciones de los órganos de gobierno serán secretas, a menos que el propio órgano acuerde expresamente la posibilidad de su difusión.
+
+5\. Los miembros de los órganos de gobierno deben disponer de la información necesaria para el ejercicio de sus funciones, debiendo los Presidentes de los respectivos órganos velar por el cumplimiento de este derecho.
+
+##### Artículo 41 bis. Derecho de información y de impugnación de los titulares de cuotas participativas.
+
+1\. Los titulares de cuotas participativas en, al menos, un porcentaje del total de cuotas emitidas en circulación igual o superior al 5%, pueden solicitar de la entidad informaciones o aclaraciones, o formular preguntas por escrito sobre cualquier asunto que sea de su interés. La entidad estará obligada a facilitárselos, a menos que resulten perjudicados los intereses de la Caja de Ahorros o el cumplimiento de su función social.
+
+2\. Sin perjuicio de la legitimación que para otros sujetos resulte de la normativa aplicable, los titulares de cuotas participativas podrán impugnar los acuerdos adoptados por la Asamblea General o por el Consejo de Administración de la entidad emisora en los mismos términos y condiciones que los accionistas respecto de los acuerdos sociales de las juntas y del órgano de administración de la sociedad anónima de los cuales son socios.
+
+A estos efectos, será de aplicación supletoria la normativa reguladora de la impugnación de acuerdos en las sociedades anónimas.
+
+> Se añade por el art. único.14 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+### CAPÍTULO II — Asamblea General
+
+#### Sección 1.ª Naturaleza y composición
+
+##### Artículo 42. Naturaleza.
+
+La Asamblea General es el órgano supremo de gobierno y decisión de la Caja de Ahorros. Sus miembros recibirán la denominación de Consejeros Generales y representarán los intereses de los depositantes, de los trabajadores, así como los sociales y generales del ámbito de actuación de la entidad.
+
+##### Artículo 43. Composición.
+
+Los Estatutos de cada Caja de Ahorros fijarán el número de miembros de la Asamblea General, que estará constituida por un mínimo de ciento veinte y un máximo de ciento sesenta Consejeros Generales que representarán a los siguientes grupos:
+
+a) Impositores.
+
+b) Cortes de Castilla y León.
+
+c) Corporaciones Municipales.
+
+d) Personas o entidades fundadoras de la Caja.
+
+e) Entidades de Interés General, a que se refiere el artículo 50 de la presente Ley.
+
+f) Empleados de la Caja de Ahorros.
+
+En las cajas de ahorros que no desarrollen de forma directa su actividad financiera, el número de miembros de la Asamblea General será determinado por los Estatutos de la Caja atendiendo a su dimensión económica y actividad, sin sujetarse al mínimo señalado con anterioridad.
+
+> Se añade un párrafo final por la disposición final 2.4 de la Ley 4/2012, de 16 de julio. [Ref. BOE-A-2012-10158](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10158)
+
+##### Artículo 44. Participación de los grupos de representación.
+
+1\. El número de miembros que corresponde a cada uno de los grupos a que se refiere el artículo anterior se determinará en los Estatutos aplicando los porcentajes siguientes:
+
+a) Impositores: 37 %.
+
+b) Cortes de Castilla y León: 16 %.
+
+c) Corporaciones Municipales: 21 %.
+
+d) Personas o Entidades Fundadoras: 5 %.
+
+e) Entidades de Interés General, a que se refiere el artículo 50 de la presente Ley: 10 %.
+
+f) Empleados de la Caja de Ahorros: 11 %.
+
+2\. En el supuesto de Cajas de Ahorros cuyas personas o entidades fundadoras no estuviesen identificadas en sus Estatutos a la entrada en vigor de la Ley 31/1985, de 2 de agosto, de Regulación de las Normas Básicas sobre Órganos Rectores de las Cajas de Ahorro, o bien estándolo no puedan o no deseen ejercitar la representación que les corresponde, los porcentajes de participación de los grupos de representación serán los siguientes:
+
+a) Impositores: 42 %.
+
+b) Cortes de Castilla y León: 16 %.
+
+c) Corporaciones Municipales: 21 %.
+
+d) Entidades de Interés General, a que se refiere el artículo 50 de la presente Ley: 10 %.
+
+e) Empleados de la Caja de Ahorros: 11 %.
+
+3\. Los Consejeros Generales no podrán ostentar simultáneamente más de una representación.
+
+4\. Los porcentajes de representación por grupos previstos en este artículo deberán cumplirse respecto de los derechos de voto resultantes, una vez deducidos del total los que hayan correspondido, en su caso, a los cuotapartícipes, conforme a lo previsto en los apartados 6 a 9 de este artículo.
+
+5\. A las Cajas de Ahorros que desarrollen su actividad indirectamente de acuerdo con lo previsto en el artículo 4, apartado 4, de esta Ley, les serán de aplicación las siguientes especialidades:
+
+a) La representación de los intereses colectivos de los impositores, de las corporaciones locales que no tuviesen la condición de entidad fundadora de la caja y de los trabajadores en sus órganos de gobierno se establecerá de la siguiente manera:
+
+– La representación de las corporaciones municipales se llevará a cabo sobre la base de aquéllas en cuyo término tenga abierta oficina la entidad bancaria a través de la que la caja de ahorros desarrolle su actividad financiera.
+
+– La representación de los grupos de impositores y trabajadores se llevará a cabo sobre la base de los correspondientes colectivos de la entidad bancaria a través de la que la caja de ahorros desarrolle su actividad financiera. La representación de los trabajadores en los órganos de gobierno incluirá, asimismo, a los empleados de la caja de ahorros. En aquellos casos en los que el ejercicio indirecto de la actividad financiera se lleve a cabo concertadamente con otras Cajas de Ahorros, los estatutos de la Caja establecerán el sistema para determinar los impositores y trabajadores de la entidad bancaria que participarán en los correspondientes procesos electorales, tomando en consideración la participación de la Caja en la entidad bancaria común.
+
+b) La Caja de Ahorros designará a sus representantes en el Consejo de Administración de la entidad bancaria a través de la cual realice su actividad teniendo en cuenta la representación de los grupos en su Consejo de Administración.
+
+6\. En caso de que una caja de ahorros emita cuotas participativas, los cuotapartícipes dispondrán en la Asamblea General de un número de votos proporcional al porcentaje que supongan sus cuotas participativas sobre el patrimonio neto total de la caja, que se computará tanto a efectos de adopción de acuerdos, como de quórum de asistencia para la válida constitución de la Asamblea General.
+
+7\. Los cuotapartícipes tendrán derecho a asistir a las Asambleas Generales que celebre la Caja de Ahorros emisora y a votar para formar la voluntad necesaria para la válida adopción de acuerdos en los términos previstos en esta Ley.
+
+Los Estatutos podrán exigir la posesión de un número mínimo de cuotas para asistir a la Asamblea General, sin que, en ningún caso, el número exigido pueda ser superior al uno por mil del total de cuotas emitidas con derechos de representación que se encuentren en circulación.
+
+Para el ejercicio del derecho de asistencia y voto en las Asambleas Generales será lícita la agrupación de cuotas.
+
+Todo cuotapartícipe que tenga derecho de asistencia podrá hacerse representar en la Asamblea General por medio de otra persona, aunque ésta no sea titular de cuotas participativas. Los estatutos podrán limitar esta facultad. A estos efectos, será de aplicación supletoria, en tanto no se oponga a lo previsto en esta Ley, la normativa reguladora de la representación de los accionistas en las sociedades anónimas.
+
+8\. Sin perjuicio de lo previsto en el apartado anterior, la participación de los cuotapartícipes en la Asamblea General no afectará al número de Consejeros Generales que, de acuerdo con la normativa vigente, corresponda a los distintos grupos representativos de intereses colectivos.
+
+9\. Los derechos políticos derivados de la suscripción de cuotas participativas por entidades públicas computarán a los efectos del cálculo de los límites a la representación de las Administraciones públicas y entidades y corporaciones de derecho público, previstos en el artículo 30.3.
+
+> Se modifican los apartados 1 y 2 y se añaden el 4, 5, 6, 7, 8 y 9 por el art. único.15 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 45. Consejeros Generales representantes de los Impositores.
+
+1\. Los Consejeros Generales en representación de los Impositores de la Caja de Ahorros serán elegidos por los compromisarios, mediante votación personal y secreta de entre los Impositores que cumplan los requisitos previstos en el artículo 31 de esta Ley, de forma proporcional a los votos obtenidos por cada una de las candidaturas.
+
+2\. En el caso de que una Caja de Ahorros tenga abiertas oficinas en más de una Comunidad Autónoma, el número de Consejeros Generales de este grupo que corresponda a cada Comunidad se obtendrá de forma proporcional, entre los depósitos captados en las oficinas de las diferentes Comunidades Autónomas, el importe total de dichos depósitos, y el número de representantes de este grupo.
+
+3\. Para la designación de compromisarios, los Impositores se relacionarán en lista única por cada Comunidad Autónoma en que la Caja tenga abiertas oficinas.
+
+Cada Impositor solamente podrá aparecer relacionado una vez y en una única lista, con independencia del número de cuentas de que pudiera ser titular.
+
+4\. Se designarán 25 compromisarios por cada Consejero General que corresponda a cada lista de Impositores.
+
+5\. La designación de los compromisarios se efectuará ante notario mediante sorteo público y aleatorio, debiendo remitir a la Consejería de Hacienda una copia del acta notarial con el resultado del mismo y debiendo publicar en el «Boletín Oficial de Castilla y León» un anuncio relativo a la exposición de las listas de los compromisarios designados en el domicilio social y en las oficinas de la Caja.
+
+6\. La Junta de Castilla y León determinará los criterios para la distribución de los Consejeros Generales de este grupo entre las Comunidades Autónomas.
+
+##### Artículo 46. Consejeros Generales representantes de las Cortes de Castilla y León.
+
+Los Consejeros Generales designados por las Cortes de Castilla y León, en representación de los intereses generales de la Comunidad Autónoma, serán elegidos por el Pleno de las Cortes proporcionalmente al número de procuradores de los distintos grupos parlamentarios integrantes de la Cámara y de acuerdo con los procedimientos que ésta determine.
+
+##### Artículo 47. Consejeros Generales representantes de las Corporaciones Municipales.
+
+1\. Los Consejeros Generales representantes de las Corporaciones Municipales en cuyo término tenga abierta oficina la entidad, serán designados mediante acuerdo del Pleno de la propia Corporación, en proporción a la importancia numérica de los grupos políticos integrantes de la Corporación.
+
+En el supuesto de que a una Corporación Municipal le correspondiese un solo Consejero General, resultará elegido el que obtenga la mayoría de los votos de los miembros del Pleno.
+
+2\. En el caso de que una Caja de Ahorros tenga abiertas oficinas en más de una Comunidad Autónoma, el número de Consejeros Generales de este grupo que corresponda a cada Comunidad se obtendrá de forma proporcional, entre los depósitos captados en las oficinas de las diferentes Comunidades Autónomas en aquellos Municipios en los que el número de Impositores supere el 5% de la población de derecho del Municipio, el importe total de dichos depósitos, y el número de representantes de este grupo. Efectuado el cálculo anterior, la distribución de los Consejeros Generales correspondientes a cada Comunidad Autónoma entre las Corporaciones Municipales será la siguiente:
+
+– El 95% del número de Consejeros Generales que corresponda a cada Comunidad Autónoma se distribuirá entre las Corporaciones Municipales en función del número de Impositores que tenga la Caja en los distintos Municipios en los que el número de Impositores supere el 5% de la población de derecho del Municipio.
+
+– El 5% restante se distribuirá entre el resto de Municipios en que la Caja de Ahorros tenga abierta oficina operativa, determinándose mediante sorteo aleatorio celebrado ante notario.
+
+3\. En ningún caso corresponderá a una misma Corporación Municipal un número tal de Consejeros Generales superior al 20% del número total de
+
+Consejeros Generales correspondientes a este grupo.
+
+4\. Las Corporaciones Municipales que sean fundadoras de Cajas de Ahorro que operen total o parcialmente en el mismo ámbito de actuación que otra Caja no podrán nombrar representantes en esta última.
+
+5\. La Junta de Castilla y León determinará los criterios para la distribución de los Consejeros Generales de este grupo entre las Corporaciones Municipales de las Comunidades Autónomas.
+
+##### Artículo 48. Consejeros Generales representantes del Personal.
+
+1\. Los Consejeros Generales representantes del Personal serán elegidos a través de candidaturas, aplicando el procedimiento de proporcionalidad que se desarrolle por la Junta de Castilla y León. Serán electores todos los miembros de la plantilla.
+
+2\. Los empleados de las Cajas de Ahorro únicamente podrán acceder a los órganos de gobierno de la respectiva Caja por el grupo de Empleados.
+
+3\. Los Consejeros Generales representantes del Personal tendrán las mismas garantías que las establecidas en el artículo 68. c) del Estatuto de los Trabajadores para los representantes legales de las mismas.
+
+##### Artículo 49. Consejeros Generales representantes de las Entidades Fundadoras.
+
+1\. Los Consejeros Generales representantes de las personas o entidades fundadoras, sean instituciones públicas o privadas, serán nombrados directamente por las mismas de acuerdo con sus normas de funcionamiento, pudiendo asignar una parte de su porcentaje de representación a instituciones de interés social o a Corporaciones Locales que, a su vez, no sean fundadoras de otras Cajas de Ahorro de su ámbito de actuación. Las asignaciones recaerán sobre entidades concretas. El nombramiento de representantes que efectúen las Corporaciones Locales deberá hacerse de acuerdo con lo dispuesto en el artículo 47.1 de esta Ley.
+
+2\. Las Corporaciones Municipales fundadoras de una Caja de Ahorros sólo podrán nombrar representantes por este grupo, salvo que decidan estar representados en el grupo de Corporaciones Municipales y, por lo tanto, no ejercitar la representación que les corresponde como entidad fundadora.
+
+3\. En el supuesto de Cajas de Ahorro fundadas por varias personas o entidades, para determinar la representación que corresponde a cada una de ellas, se estará a lo dispuesto en los pactos fundacionales. Si este extremo no se hubiera consignado en los mismos, se tendrá en cuenta la aportación económica de cada una de ellas; y, en defecto de ambos supuestos, las partes podrán convenir la forma y proporción de los representantes a designar. Los Estatutos de las Cajas regularán, conforme a lo anterior, la representación de cada Entidad Fundadora.
+
+4\. En el supuesto de pluralidad de entidades fundadoras, si alguna de ellas no pudiera o no deseara ejercitar su derecho a designar los Consejeros Generales que le correspondan, se distribuirá su participación entre las demás entidades fundadoras proporcionalmente al número de Consejeros Generales que correspondan a las mismas hasta completar el total de los Consejeros Generales correspondientes a este grupo.
+
+##### Artículo 50. Consejeros Generales representantes de las Entidades de Interés General.
+
+1\. Los Consejeros Generales representantes del grupo Entidades de Interés General serán designados por entidades representativas de intereses colectivos con reconocido arraigo en el ámbito de actuación de la Caja de acuerdo con las reglas previstas en el presente artículo.
+
+Este grupo se subdividirá en dos subgrupos, correspondiendo a cada uno de ellos la mitad de los Consejeros Generales atribuibles al grupo, excepto en el caso previsto en el apartado 3 de este mismo artículo.
+
+2\. Los subgrupos del grupo de Entidades Interés General serán los siguientes:
+
+a) El subgrupo 1.º estará integrado por las organizaciones sindicales y empresariales que tengan representación en el Consejo de Diálogo Social de Castilla y León creado por la Ley 8/2008, de 16 de octubre, siendo designados estos consejeros generales conjuntamente por los miembros de las organizaciones sindicales y empresariales que representen a estas organizaciones en el citado Consejo, atendiendo a criterios de paridad entre todas las organizaciones representadas.
+
+b) El subgrupo 2.º estará integrado por fundaciones, asociaciones, colegios profesionales, corporaciones u otras entidades de carácter cultural, científico, benéfico, cívico, económico, social o profesional, de reconocido arraigo en el ámbito de actuación de la Caja de Ahorros.
+
+3\. Cuando la Caja de Ahorros tenga abiertas oficinas en más de una Comunidad Autónoma, la representación de Entidades de Interés General deberá ser, en observancia del principio de igualdad, proporcional a la cifra de depósitos entre las diferentes Comunidades Autónomas en que la Caja de Ahorros tenga abiertas oficinas. Si el cumplimiento de esta regla así lo exigiera, el número de Consejeros Generales correspondientes al subgrupo 2.º podrá ser superior a la mitad de los miembros del grupo de Entidades de Interés General. La Junta de Castilla y León podrá concretar los criterios para la distribución de los Consejeros Generales de este grupo entre las Comunidades Autónomas y entre los dos subgrupos que lo forman.
+
+4\. Los Estatutos o el Reglamento de Procedimiento Electoral de cada Caja de Ahorros determinarán las Entidades de Interés General que van a estar representadas en sus órganos de gobierno en representación del subgrupo 2.º. Esa determinación se realizará de la siguiente manera:
+
+a) Con relación a las entidades con reconocido arraigo en el territorio de Castilla y León, una vez asignados los Consejeros Generales que correspondan al subgrupo 1.º, el 90% de los Consejeros Generales que correspondan al subgrupo 2.º se distribuirán entre las entidades incluidas en la relación que apruebe la Consejería competente en materia de Cajas de Ahorros; y el 10% restante se distribuirá entre las entidades que deseen incorporar las Cajas de Ahorros, previa autorización de la Consejería competente en materia de Cajas de Ahorros. En todo caso, la Caja de Ahorros no podrá atribuir más de tres Consejeros Generales a una entidad de las incluidas en el subgrupo 2.º.
+
+b) Los Consejeros Generales que, en el caso previsto en el apartado 3 de este artículo, corresponda designar en representación de Entidades de Interés General de otras Comunidades Autónomas, se distribuirán entre las entidades que deseen incorporar las Cajas de Ahorros, previa autorización de la Consejería competente en materia de Cajas de Ahorros. En todo caso, la Caja de Ahorros no podrá atribuir más de tres Consejeros Generales a cada una de las entidades correspondientes.
+
+5\. El nombramiento de los Consejeros Generales se realizará, en cada caso, por las entidades designadas de conformidad con lo previsto en este artículo, aplicando estrictamente el principio de proporcionalidad sobre las candidaturas que se presenten en su seno.
+
+> Se modifica la letra a) del apartado 2 por el art. único.6 del Decreto-ley 1/2011, de 25 de agosto. [Ref. BOCL-h-2011-90091](https://www.boe.es/buscar/doc.php?id=BOCL-h-2011-90091)
+
+> Se modifica por el art. único.16 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+#### Sección 2.ª Funciones y funcionamiento
+
+##### Artículo 51. Funciones.
+
+Corresponderá especialmente a la Asamblea General, dentro de sus facultades generales de gobierno, las siguientes funciones:
+
+a) Aprobar y modificar los Estatutos y el Reglamento de Procedimiento Electoral.
+
+b) Nombrar a los miembros del Consejo de Administración y de la Comisión de Control de su competencia, así como revocar a los mismos antes del cumplimiento de su mandato.
+
+c) Acordar la separación de los Consejeros Generales antes del cumplimiento de su mandato.
+
+d) Ratificar, en su caso, los acuerdos por los que se designe al Presidente Ejecutivo y se fijen sus facultades.
+
+e) Ratificar, en su caso, el nombramiento del Director General o asimilado.
+
+f) Aprobar la fusión, escisión, cesión global del activo y pasivo, disolución y liquidación de la entidad, así como su adhesión a un sistema institucional de protección que suponga una alianza o integración, ya sea mediante mecanismos puramente contractuales o mediante la creación de entidades para la realización de actividades comunes, destinada a garantizar la liquidez y solvencia de los participantes.
+
+g) Optar por la forma de ejercicio indirecto del objeto propio de la Caja como entidad de crédito a través de una entidad bancaria y aprobar la transformación de la Caja de Ahorros en una fundación de carácter especial.
+
+h) Definir anualmente las líneas generales del plan de actuación de la entidad, para que pueda servir de base a la labor del Consejo de Administración y de la Comisión de Control.
+
+i) Nombrar a los auditores de cuentas.
+
+j) Aprobar, en su caso, la gestión del Consejo de Administración.
+
+k) Aprobar, en su caso, las cuentas anuales, así como la aplicación de los resultados a los fines propios de la Caja de Ahorros.
+
+l) Crear y disolver las obras sociales, así como aprobar sus presupuestos anuales, y la gestión y liquidación de las mismas.
+
+m) Autorizar las emisiones de cuotas participativas, obligaciones subordinadas u otros valores negociables agrupados en emisiones.
+
+n) Cualesquiera otros asuntos que se sometan a su consideración por los órganos facultados al efecto o que le sean atribuidos por los Estatutos.
+
+> Se añade una letra g) y se renombran las actuales g), h), i), j), k), l) y m) como h), i), j), k), l), m) y n) por el art. único.17 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+> Se modifica la letra f) por la disposición final 7.5 de la Ley 10/2009, de 17 de diciembre. [Ref. BOE-A-2010-564](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-564)
+
+> Téngase en cuenta para su aplicación la disposición final 7.7 de la citada ley.
+
+##### Artículo 52. Clases de sesiones.
+
+1\. Las sesiones de la Asamblea General pueden ser ordinarias y extraordinarias.
+
+2\. Con carácter obligatorio deberán celebrarse, al menos, dos Asambleas Generales ordinarias anuales. La primera Asamblea General será convocada y celebrada el primer semestre natural de cada ejercicio con el fin de someter a su aprobación las cuentas anuales, el informe de gestión, el informe de seguimiento de la gestión elaborado por la Comisión de Control, la propuesta de aplicación de excedentes, y el proyecto de presupuesto y la liquidación de la obra social.
+
+La segunda Asamblea General será convocada y celebrada el segundo semestre natural de cada ejercicio con el fin de someter a aprobación las directrices básicas del plan de actuación de la entidad y los objetivos para el ejercicio siguiente.
+
+En las cajas de ahorros que desarrollen su actividad indirectamente de acuerdo con lo previsto en el artículo 4 de esta Ley, o hayan escindido totalmente su negocio bancario a favor de otra entidad de crédito, sólo deberá celebrarse con carácter obligatorio una Asamblea General ordinaria anual, durante el primer semestre natural de cada ejercicio.
+
+3\. El Consejo de Administración podrá convocar Asamblea General Extraordinaria siempre que lo considere conveniente a los intereses de la entidad. Deberá hacerlo, asimismo, a petición de un grupo de Consejeros Generales y, en su caso, de cuotapartícipes que representen en su conjunto al menos un cuarto de los derechos de voto de la Asamblea General, de un tercio de los miembros del Consejo de Administración o por acuerdo de la Comisión de Control. La petición deberá expresar el Orden del día de la Asamblea que se solicita y sólo se podrá tratar en ella el objeto para el que fue expresamente convocada.
+
+> Se añade un tercer párrafo al apartado 2 por el art. único.7 del Decreto-ley 1/2011, de 25 de agosto. [Ref. BOCL-h-2011-90091](https://www.boe.es/buscar/doc.php?id=BOCL-h-2011-90091)
+
+> Se modifica el apartado 3 por el art. único.18 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 53. Convocatoria.
+
+1\. La Asamblea General Ordinaria será convocada por el Consejo de Administración con una antelación mínima de quince días, en la forma que dispongan los Estatutos de cada entidad. La convocatoria será comunicada a los Consejeros Generales y, en su caso, a los cuotapartícipes, con indicación, al menos, de la fecha, hora y lugar de reunión y Orden del día, así como el día y hora de reunión en segunda convocatoria; y será publicada con una antelación mínima de quince días en el "Boletín Oficial de Castilla y León", en el "Boletín Oficial del Estado" y, al menos, en dos periódicos de amplia difusión en la zona de actuación de la Caja.
+
+La Asamblea General Extraordinaria será convocada de igual forma que la Ordinaria en el plazo máximo de treinta días desde la presentación de la petición, no pudiendo mediar más de treinta días entre la fecha de la convocatoria y la señalada para la celebración de la Asamblea.
+
+2\. En los quince días anteriores a la celebración de la Asamblea, los miembros con derecho a asistir a la misma tendrán a su disposición información suficiente relacionada con los temas a tratar y, en su caso, la documentación señalada en el apartado 2 del artículo 52.
+
+> Se modifica el apartado 1 por el art. único.19 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 54. Presidencia y asistencia.
+
+1\. La Asamblea General será presidida por el Presidente de la Caja o, en caso de vacante, ausencia, enfermedad u otra causa legal, por los Vicepresidentes del Consejo de Administración, según su orden y, en su defecto, por el Vocal de mayor edad del Consejo de Administración que se encuentre presente. Actuará de Secretario quien lo sea del Consejo de Administración.
+
+2\. Además de los Consejeros Generales y, en su caso, los cuotapartícipes, podrán asistir a la Asamblea General, con voz y sin voto, los miembros del Consejo de Administración no Consejeros Generales, el Director General, el Presidente del sindicato de cuotapartícipes y las personas que hubieran sido convocadas al efecto.
+
+> Se modifica el apartado 2 por el art. único.20 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 55. Constitución y acuerdos.
+
+1\. La Asamblea General quedará válidamente constituida en primera convocatoria cuando los Consejeros Generales presentes y, en su caso, los cuotapartícipes presentes o representados posean, al menos, el cincuenta por ciento de los derechos de voto. La constitución en segunda convocatoria será válida cualquiera que sea el número de Consejeros Generales asistentes.
+
+2\. Los acuerdos de la Asamblea General se adoptarán como regla general por mayoría de los derechos de voto asistentes. No obstante, se exigirá mayoría de los derechos de voto de la Asamblea General en los supuestos establecidos en el artículo 34.g) y en el párrafo segundo del apartado 1 del artículo 58 de la presente Ley.
+
+En todo caso, se exigirá la asistencia de Consejeros Generales y, en su caso, cuotapartícipes que representen la mayoría de los derechos de voto, así como el voto favorable de dos tercios de los derechos de voto asistentes para la adopción de los acuerdos previstos en las letras a), f) y g) del artículo 51. Los Estatutos de la entidad no podrán variar dicha mayoría cualificada.
+
+3\. Los acuerdos de la Asamblea General se harán constar en acta. Ésta será aprobada al término de la reunión, o con posterioridad en el plazo máximo de diez días, por el Presidente y dos interventores nombrados al efecto por la Asamblea General. Los acuerdos recogidos en las actas tendrán fuerza ejecutiva a partir de la fecha de su aprobación.
+
+No obstante, el Consejo de Administración podrá requerir la presencia de fedatario público para que levante acta de la Asamblea General, que no se someterá a trámite de aprobación, y tendrá fuerza ejecutiva desde su cierre.
+
+Cualquier Consejero General y, en su caso, cuotapartícipe podrá solicitar certificación de los acuerdos adoptados en la Asamblea, que se expedirán por el Secretario de la misma con el visto bueno del Presidente.
+
+> Se modifica el apartado 2 por el art. único.8 del Decreto-ley 1/2011, de 25 de agosto. [Ref. BOCL-h-2011-90091](https://www.boe.es/buscar/doc.php?id=BOCL-h-2011-90091)
+
+> Se modifica por el art. único.21 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+### CAPÍTULO III — Consejo de Administración
+
+#### Sección 1.ª Naturaleza, funciones y composición
+
+##### Artículo 56. Naturaleza y funciones.
+
+1\. El Consejo de Administración es el órgano que tiene encomendada la administración y gestión financiera de la Caja de Ahorros, así como de la obra social, sin más limitaciones que las facultades expresamente reservadas a los restantes órganos de gobierno por el ordenamiento jurídico y los Estatutos de la entidad.
+
+Así mismo, el Consejo de Administración ostentará la representación de la entidad para todos los actos comprendidos en su ámbito de actividad.
+
+2\. En el ejercicio de sus funciones, el Consejo se regirá por lo dispuesto en la presente Ley y demás normas de aplicación, en los Estatutos de la Caja, y en los acuerdos de la Asamblea General.
+
+3\. El Consejo de Administración deberá establecer normas de funcionamiento y procedimientos adecuados para facilitar que todos sus miembros puedan cumplir en todo momento sus obligaciones y asumir las responsabilidades que les correspondan de acuerdo con las normas de ordenación y disciplina de las entidades de crédito y las restantes disposiciones que sean de aplicación a las Cajas de Ahorros.
+
+> Se añade el apartado 3 por el art. único.22 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 57. Composición.
+
+1\. El Consejo de Administración estará compuesto por diecisiete miembros.
+
+Cuando la Caja de Ahorros mantenga cuotas participativas en circulación, el límite anterior podrá ser rebasado, sin que en ningún caso el Consejo de Administración pueda tener más de veinte miembros. A efectos de cumplir con el límite anterior, la representación de los intereses colectivos en el Consejo de Administración se disminuirá proporcionalmente, si fuera necesario, para respetar la representación de los intereses de los cuotapartícipes.
+
+De manera transitoria, en tanto se produce la siguiente renovación de los órganos de gobierno, el número de miembros del Consejo de Administración podrá superar hasta en un 10% el límite máximo previsto en el párrafo anterior.
+
+2\. Al menos la mayoría de sus miembros deberá poseer los conocimientos y experiencia específicos para el ejercicio de sus funciones.
+
+Se considera que poseen conocimientos y experiencia específicos para ejercer sus funciones en el Consejo de Administración de una Caja de Ahorros quienes hayan desempeñado, durante un plazo no inferior a cinco años, funciones de alta administración, dirección, control o asesoramiento de entidades financieras o funciones de similar responsabilidad en otras entidades públicas o privadas de, al menos, análoga dimensión. Mediante Decreto de la Junta de Castilla y León, a propuesta de la Consejería competente en materia de Cajas de Ahorros, se podrán concretar estos criterios y establecer el procedimiento para su verificación.
+
+3\. A los efectos de cumplir con el requisito previsto en el apartado anterior, al menos la mitad de los miembros del Consejo de Administración nombrados en representación de cada uno de los siguientes grupos: Corporaciones Municipales, Impositores, Entidades Fundadoras y Entidades de Interés General deberán reunir los conocimientos y experiencia referidos en dicho apartado. Con el mismo fin, todos los miembros del Consejo de Administración nombrados en representación de las Cortes de Castilla y León y, en su caso, de los cuotapartícipes, deberán reunir tales requisitos de conocimientos y experiencia.
+
+No será necesario que los miembros del Consejo de Administración que procedan del subgrupo 1.º del grupo de Entidades de Interés General reúnan los conocimientos y experiencia referidos en el párrafo anterior, siempre que no sea preciso a los efectos de cumplir con el requisito previsto en el apartado 2 de este artículo.
+
+Mediante Decreto de la Junta de Castilla y León, a propuesta de la Consejería competente en materia de Cajas de Ahorros, podrá regularse la presentación de candidaturas, las propuestas y la designación de los miembros del Consejo de Administración a los efectos de asegurar el cumplimiento de los requisitos de conocimientos y experiencia previstos en el presente artículo.
+
+4\. La participación de los grupos de representación en el Consejo de Administración será fijada por los Estatutos de cada Caja de Ahorros, conforme a los porcentajes de participación previstos en el artículo 44 de la presente Ley, ajustando las fracciones que resulten de su reducción numérica en la forma que reglamentariamente se determine, de modo que exista al menos un representante de cada uno de los grupos integrantes de la Asamblea General.
+
+En el caso de que la Caja de Ahorros mantenga cuotas participativas en circulación, estarán representados en el Consejo de Administración los intereses de los cuotapartícipes. A tal efecto, los cuotapartícipes podrán proponer candidatos a la Asamblea General para ser miembros del Consejo de Administración. La designación de vocales del Consejo de Administración por los cuotapartícipes podrá recaer sobre cuotapartícipes o sobre terceras personas. En todo caso, las personas designadas tendrán que reunir los requisitos adecuados de profesionalidad y honorabilidad. A efectos de su elegibilidad, no serán de aplicación las causas de incompatibilidad establecidas en los apartados c), f) y j) del artículo 32.
+
+5\. Los miembros del Consejo de Administración no podrán ostentar simultáneamente más de una representación.
+
+> Se añade un párrafo al apartado 3 por el art. único.9 del Decreto-ley 1/2011, de 25 de agosto. [Ref. BOCL-h-2011-90091](https://www.boe.es/buscar/doc.php?id=BOCL-h-2011-90091)
+
+> Se modifica por el art. único.23 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 58. Nombramiento.
+
+1\. Los miembros del Consejo de Administración serán elegidos por la Asamblea General entre los miembros de cada grupo, sin perjuicio de lo establecido en el apartado 2 del presente artículo, a propuesta de los miembros del grupo respectivo. Dicha propuesta se formará proporcionalmente a los votos obtenidos por cada una de las candidaturas presentadas en cada grupo.
+
+En el caso de que la Asamblea General rechace alguna de las propuestas de nombramiento que realicen los respectivos grupos de representación, la propia Asamblea realizará los oportunos nombramientos aplicando criterios de proporcionalidad en la votación de las candidaturas presentadas ante el correspondiente grupo de representación.
+
+2\. Podrán ser nombradas en representación de los grupos de Corporaciones Municipales, Impositores, Entidades Fundadoras, Cortes de Castilla y León y Entidades de Interés General terceras personas no Consejeros Generales. Su nombramiento exigirá en todo caso la propuesta por parte del grupo respectivo.
+
+> Se modifica el apartado 2 por el art. único.24 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+#### Sección 2.ª Organización y funcionamiento
+
+##### Artículo 59. Presidente y Secretario.
+
+1\. El Consejo de Administración nombrará de entre sus miembros al Presidente del Consejo que, a su vez, lo será de la entidad y de la Asamblea General de la Caja, y a un Secretario. Así mismo, podrá nombrar de entre sus miembros, uno o más Vicepresidentes y un Secretario de Actas que no sea miembro del Consejo.
+
+Estos nombramientos se realizarán con el voto favorable de la mitad más uno de los miembros del Consejo.
+
+En caso de vacante, ausencia, enfermedad, u otra causa legal del Presidente ejercerá sus funciones uno de los Vicepresidentes por su orden o, en su ausencia, el vocal de mayor edad. En los mismos supuestos el Secretario será sustituido por el vocal de menor edad.
+
+2\. Corresponderán al Presidente las siguientes funciones:
+
+a) Convocar las reuniones de los órganos cuya presidencia ostente y determinar los asuntos que deben figurar en el orden del día.
+
+b) Presidir las reuniones de dichos órganos y dirigir y ordenar sus debates.
+
+c) Coordinar la actividad de los órganos de gobierno de la Caja.
+
+d) Ostentar la más alta representación de la entidad en sus relaciones externas.
+
+e) Ejercer cuantas otras funciones le atribuyan la presente Ley y los Estatutos de la Caja.
+
+3\. El Presidente cesará en su cargo:
+
+a) Por acuerdo adoptado con el voto favorable de la mitad más uno delos miembros del Consejo de Administración.
+
+b) Por pérdida de la condición de miembro del Consejo de Administración.
+
+c) Por renuncia formalizada por escrito ante el Consejo de Administración.
+
+> Se deroga el apartado 4 por la disposición derogatoria del Decreto-ley 1/2011, de 25 de agosto. [Ref. BOCL-h-2011-90091](https://www.boe.es/buscar/doc.php?id=BOCL-h-2011-90091)
+
+> Se añade el apartado 4 por el art. único.25 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 60. Presidente Ejecutivo.
+
+1\. El Consejo de Administración podrá atribuir al Presidente funciones ejecutivas.
+
+En tal caso, la persona designada por el Consejo de Administración deberá tener reconocida honorabilidad comercial y profesional, así como capacidad, preparación técnica y experiencia suficiente para desarrollar las funciones propias de este cargo.
+
+2\. El ámbito de sus funciones será el que se fije por acuerdo del Consejo, con excepción de las no delegables reguladas en el artículo 62.
+
+Así mismo, el Consejo podrá encomendar al Presidente funciones de las atribuidas al Director General sin perjuicio de los apoderamientos que el Presidente pueda conferir.
+
+3\. Los acuerdos del Consejo por los que se establezca o revoque la Presidencia ejecutiva y se fijen las funciones de su titular, así como los que las modifiquen:
+
+– Requerirán para su validez el voto favorable de, al menos, dos tercios de los miembros del Consejo.
+
+– Deberán ser ratificados por la Asamblea General, que deberá celebrar sesión al efecto, dentro de los treinta días siguientes.
+
+– Deberán ser comunicados a la Consejería de Hacienda en los quince días siguientes a la adopción del acuerdo por el Consejo. En igual plazo, desde la celebración de la Asamblea, se comunicará el acuerdo de ratificación.
+
+– Deberán ser inscritos en el Registro Mercantil.
+
+4\. El cargo de Presidente Ejecutivo requiere dedicación exclusiva y será, por tanto, incompatible con cualquier actividad retribuida de cualquier modo tanto de carácter público como privado, salvo la administración del propio patrimonio y aquellas actividades que ejerza en representación de la caja. En este último caso los ingresos que obtenga, distintos a dietas y gastos de desplazamiento percibidos de conformidad con el artículo 39.1 de esta Ley, deberán cederse a la Caja por cuya cuenta realiza dicha actividad o representación.
+
+A los efectos de lo dispuesto en el párrafo anterior, no se considerará administración del propio patrimonio y, por tanto, resultará incompatible con el cargo de Presidente Ejecutivo el ejercicio de actividades que no estén dirigidas a la mera gestión del patrimonio preexistente, resultando por tanto incompatibles con el ejercicio del cargo las actividades de creación o incremento del propio patrimonio mediante la realización de toda clase de actos de naturaleza mercantil, laboral o industrial, ya sean éstos realizados por sí o por otro o a través de personas jurídicas en las que se tenga una participación directa o indirecta que permita ejercer su control.
+
+> Se añade un apartado 4 por el art. único.10 del Decreto-ley 1/2011, de 25 de agosto. [Ref. BOCL-h-2011-90091](https://www.boe.es/buscar/doc.php?id=BOCL-h-2011-90091)
+
+##### Artículo 61. Funcionamiento.
+
+1\. El Consejo de Administración se reunirá cuantas veces sea necesario para la buena marcha de la entidad.
+
+2\. El Presidente convocará reunión del Consejo de Administración a iniciativa propia o a petición de, al menos, una tercera parte de los miembros del Consejo. En este último caso la petición deberá acompañarse de orden del día en que figuren los asuntos a tratar y la sesión deberá celebrarse en el plazo máximo de diez días desde la presentación de la petición.
+
+3\. La válida constitución del Consejo exigirá la asistencia a la sesión de la mitad más uno de sus miembros.
+
+4\. La adopción de acuerdos exigirá el voto favorable de la mitad más uno de los asistentes, excepto en los supuestos en que expresamente la Ley o los Estatutos exijan mayorías cualificadas.
+
+5\. Los contratos con el personal de la entidad que contengan cualquier tipo de cláusula que suponga, directa o indirectamente, la predeterminación de una indemnización por rescisión de los mismos, distinta a la prevista en el Estatuto de los Trabajadores, deberán estar sometidos a la relación laboral de carácter especial del personal de alta dirección y ser aprobados por el Consejo de Administración con el voto favorable de, al menos, cuatro quintos de sus miembros, siendo esta competencia no delegable.
+
+Los contratos a que hace referencia el párrafo anterior deberán necesariamente impedir que las personas que los hayan ostentado establezcan, directamente o a través de sociedad interpuesta, contratos de obras, servicios, suministros o trabajo retribuido con cualquier entidad de crédito, establecimiento financiero de crédito o entidad aseguradora que opere total o parcialmente en el mismo ámbito de actuación de la Caja de Ahorros, o con sociedades en que ésta participe en más de un veinte por ciento del capital, durante un período de dos años, contados a partir del cese en la Caja de Ahorros.
+
+6\. El Director General de la entidad asistirá, salvo cuando sea preciso adoptar decisiones que le afecten, a las reuniones del Consejo con voz y sin voto. Podrán, así mismo, asistir sin derecho a voto terceras personas convocadas al efecto.
+
+> Se modifica el apartado 1 por el art. único.11 del Decreto-ley 1/2011, de 25 de agosto. [Ref. BOCL-h-2011-90091](https://www.boe.es/buscar/doc.php?id=BOCL-h-2011-90091)
+
+##### Artículo 62. Delegación de funciones.
+
+1\. Sin perjuicio de lo establecido en el apartado 4 del presente artículo, el Consejo de Administración podrá actuar en pleno o delegar funciones en una o más Comisiones, en el Presidente o en el Director General, salvo en las entidades que no ejerzan la actividad financiera en forma directa, que no podrán tener Comisión Ejecutiva ni otras Comisiones Delegadas del Consejo de Administración.
+
+No podrán ser objeto de delegación la rendición de cuentas, la elevación de propuestas a la Asamblea General, las facultades delegadas por ésta en el Consejo de Administración, salvo que expresamente se autorice la subdelegación, y aquellas otras declaradas como no delegables por la presente Ley.
+
+2\. Los acuerdos permanentes de delegación y sus modificaciones deberán ser adoptados por mayoría de los miembros del Consejo, expresar con precisión y claridad su contenido y alcance, y ser comunicados a la Consejería de Hacienda en los quince días siguientes a la adopción del acuerdo.
+
+3\. La Comisión Ejecutiva y las demás Comisiones Delegadas creadas por el Consejo de Administración estarán compuestas, al menos, por un representante de cada uno de los grupos que componen el Consejo, y deberán respetar la limitación establecida en el primer párrafo del artículo 30.3 de la presente Ley. Su constitución, organización, funcionamiento y funciones se regularán en las normas de desarrollo de la presente Ley, si bien, como regla general, todos sus miembros deberán reunir los requisitos de profesionalidad previstos en el apartado 2 del artículo 57, con la única excepción posible en los casos en que ninguno de los miembros del grupo de Empleados en el Consejo de Administración reúna dichos requisitos.
+
+4\. El Consejo de Administración podrá delegar alguna o algunas de sus facultades de gestión en los órganos de gobierno de las entidades que constituyan y articulen alianzas entre Cajas de Ahorro, o los creados al efecto en el seno de la Confederación Española de Cajas de Ahorros, o de la Federación de Cajas de Ahorro de Castilla y León, con la finalidad de reducir los costes operativos de las entidades que la integren para aumentar su eficiencia sin poner en peligro la competencia en los mercados nacionales o para participar con volumen suficiente en los mercados internacionales de capital. Esta delegación se mantendrá en vigor durante el período de la alianza o mientras las entidades no acuerden su modificación mediante el procedimiento que previamente hayan establecido al efecto. Esta delegación no se extenderá al deber de vigilancia de las actividades delegadas ni a las facultades que respecto a las mismas tenga la Comisión de Control.
+
+> Se modifica el párrafo primero del apartado 1 por la disposición final 15.1 de la Ley 1/2012, de 28 de febrero. [Ref. BOE-A-2012-4385](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4385)
+
+> Se modifica el apartado 3 por el art. único.26 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 63. Comisión de Retribuciones y Nombramientos y Comisión de Inversiones.
+
+1\. El Consejo de Administración de las Cajas de Ahorros constituirá en su seno una Comisión de Retribuciones y Nombramientos, que tendrá las siguientes funciones:
+
+a) Informar sobre la política general de retribuciones e incentivos para los miembros del Consejo de Administración y de la Comisión de Control y personal directivo, y velar por la observancia de dicha política. La Comisión informará periódicamente a la Consejería competente en materia de Cajas de Ahorros sobre dicha política, en los términos que reglamentariamente se determine, y atenderá los requerimientos de información que ésta le formule sobre la materia.
+
+b) Garantizar el cumplimiento de los requisitos, incompatibilidades y limitaciones previstos en la Ley para el ejercicio del cargo de miembro del Consejo de Administración y de la Comisión de Control, así como para los previstos en el caso del Director General.
+
+La Comisión estará formada por un máximo de cinco personas de diferentes grupos de representación, elegidas por la Asamblea General de entre los Consejeros Generales que ostenten la condición de vocales del Consejo de Administración.
+
+El régimen de funcionamiento de la Comisión de Retribuciones y Nombramientos será establecido por los Estatutos de la Caja y su propio reglamento interno, que podrán atribuir las funciones previstas en las letras a) y b) del apartado uno a una Comisión de Retribuciones y otra de Nombramientos respectivamente, a las que les resultará de aplicación el presente artículo, salvo en lo relativo a su número de miembros que será en ese caso de tres para cada una de ellas.
+
+Cualquier miembro de los órganos de gobierno habrá de comunicar a la Comisión de Retribuciones y Nombramientos cualquier situación de conflicto, directo o indirecto, que pudieran tener con los intereses de la Caja y con el cumplimiento de su función social. En caso de conflicto, el afectado por el mismo habrá de abstenerse de intervenir en la operación o decisión de que se trate.
+
+2\. El Consejo de Administración de las Cajas de Ahorro constituirá en su seno una Comisión de Inversiones, que tendrá la función de informar al Consejo sobre las inversiones y desinversiones de carácter estratégico y estable que efectúe la Caja, ya sea directamente o a través de entidades de su mismo grupo, así como la viabilidad financiera de las citadas inversiones y su adecuación a los presupuestos y planes estratégicos de la entidad. La Comisión estará formada por tres personas de diferentes grupos de representación, que serán designadas de entre sus miembros por el Consejo de Administración atendiendo a su capacidad técnica y experiencia profesional. La Comisión de Inversiones remitirá anualmente al Consejo de Administración un informe en el que, al menos, deberá incluirse un resumen de dichas inversiones. Igualmente se incluirá en el informe anual relación y sentido de los informes emitidos por la citada Comisión. Este informe anual, de la Comisión de Inversiones, se incorporará al informe de gobierno corporativo de la entidad.
+
+Se entenderá como estratégica la adquisición o venta de cualquier participación significativa de cualquier sociedad cotizada, o la participación en proyectos empresariales con presencia en la gestión o en sus órganos de gobierno.
+
+3\. Con excepción del número de miembros, la Comisión de Retribuciones y Nombramientos, y la Comisión de Inversiones estarán sometidas a las mismas normas de constitución, organización y funcionamiento que las Comisiones Delegadas del Consejo de Administración.
+
+4\. Al designar las personas que van a formar parte de la Comisión de Retribuciones y Nombramientos y de la Comisión de Inversiones, se deberá garantizar que todos los grupos de representación estén presentes en, al menos, una de las dos Comisiones anteriores.
+
+> Se modifica el título y los apartados 1, 3 y 4 por el art. único.27 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 63 bis. Comisión de Obra Social.
+
+1\. Para garantizar el cumplimiento de la obra benéfico-social de la Caja de Ahorros se creará una Comisión de Obra Social.
+
+2\. La Comisión estará integrada por los Consejeros Generales que nombre la Asamblea General sin tener en cuenta los derechos de voto de los cuotapartícipes, si los hubiere.
+
+Podrá formar parte de la Comisión de Obra Social un representante de la Comunidad Autónoma de Castilla y León, designado por el Consejero competente en materia de Cajas de Ahorros, y otro representante de cada Comunidad Autónoma en que la Caja de Ahorros haya captado más de un 10% del total de sus depósitos.
+
+> Se añade por el art. único.28 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+### CAPÍTULO IV — Comisión de Control
+
+##### Artículo 64. Naturaleza.
+
+La Comisión de Control tiene por objeto velar por que la gestión del Consejo de Administración se cumpla con la máxima eficacia y precisión dentro de las directrices generales de actuación aprobadas por la Asamblea General y de acuerdo con la normativa vigente.
+
+##### Artículo 65. Composición y nombramiento.
+
+1\. La Comisión de Control se compondrá de siete miembros.
+
+2\. La participación de los grupos de representación en la Comisión de Control será fijada por los Estatutos de cada Caja de Ahorros, conforme a los porcentajes de participación previstos en el artículo 44 de la presente Ley, ajustando las fracciones que resulten de la reducción numérica en la forma que reglamentariamente se determine, de modo que exista un representante de cada uno de los grupos integrantes de la Asamblea General y que ningún grupo tenga más de dos representantes.
+
+Los miembros de la Comisión de Control no podrán ostentar simultáneamente más de una representación.
+
+En caso de que la Caja de Ahorros mantenga cuotas participativas en circulación, en la Comisión de Control existirán representantes de los cuotapartícipes, en idéntica proporción que en la Asamblea General. Los cuotapartícipes podrán proponer a la Asamblea General candidatos para ser miembros de la Comisión de Control de la entidad emisora y tendrán derecho a su designación de conformidad con las mismas normas establecidas para los miembros del Consejo de Administración.
+
+3\. Los miembros de la Comisión de Control serán elegidos por la Asamblea General entre los Consejeros Generales de cada grupo que, reuniendo los conocimientos y experiencia adecuados a los que se refiere el artículo 57.2 de esta Ley, no tengan la condición de miembros del Consejo de Administración, a propuesta de los Consejeros Generales del grupo respectivo, y de acuerdo con el procedimiento previsto para los miembros del Consejo de Administración.
+
+4\. La Comisión de Control nombrará de entre sus miembros un Presidente, un Vicepresidente y un Secretario.
+
+En caso de vacante, ausencia, enfermedad, o cualquier otra causa legal del Presidente o del Secretario, serán sustituidos el Presidente por el Vicepresidente y, en ausencia de éste, por el vocal de mayor edad, y el Secretario por el vocal de menor edad.
+
+> Se modifican los apartados 2 y 3, se suprime el 4 y se renumera el actural 5 como 4 por el art. único.29 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 66. Funciones.
+
+1\. Serán funciones de la Comisión de Control:
+
+a) Efectuar el seguimiento y análisis de la gestión económica y financiera de la entidad, incluyendo la política de retribuciones e incentivos de los cargos y personal directivo de la Caja. A los anteriores efectos, elevará a la Consejería competente en materia de Cajas de Ahorros, al Banco de España y a la Asamblea General, información semestral sobre la misma.
+
+b) Analizar los informes de control interno y externo, y las recomendaciones que se formulen en los mismos.
+
+c) Revisar las cuentas anuales de cada ejercicio y formular las observaciones que considere adecuadas.
+
+d) Elevar a la Asamblea General información relativa a su actuación.
+
+e) Requerir al Presidente del Consejo de Administración la convocatoria de la Asamblea General con carácter extraordinario cuando se de el supuesto previsto en la letra i) de este artículo.
+
+f) Vigilar el proceso de elección, designación, revocación, reelección y cobertura de vacantes de los miembros de los órganos de gobierno de la entidad, de lo que habrá de informar a la Consejería de Hacienda.
+
+g) Efectuar el control y seguimiento efectivo de los requisitos que deben reunir los miembros de los órganos de gobierno, interpretando las normas estatutarias y reglamentarias relativas a estos aspectos, resolviendo las reclamaciones e impugnaciones que se presenten y adoptando las decisiones oportunas.
+
+h) Informar a la Asamblea General sobre los presupuestos y dotación dela obra social, así como vigilar el cumplimiento de las inversiones y gastos previstos.
+
+i) Proponer a la Consejería de Hacienda y al organismo estatal competente, que resolverán dentro de sus respectivas competencias y sin perjuicio de las acciones que procedan, poniéndolo previamente en conocimiento del Consejo de Administración, la suspensión de los acuerdos de éste y de los adoptados por quienes ejerzan funciones delegadas del mismo, en el supuesto de que vulneren las disposiciones vigentes o afecten injusta y gravemente a la situación patrimonial, a los resultados o al crédito de la Caja de Ahorros o a sus impositores o clientes.
+
+j) Informar sobre cuestiones o situaciones concretas a petición de la Asamblea General, de la Consejería de Hacienda o del órgano estatal competente.
+
+k) En su caso, las previstas en la disposición adicional decimoctava de la Ley 24/1988, de 28 de julio, del Mercado de Valores, salvo cuando las hubiese asumido un Comité de Auditoría creado al efecto.
+
+l) Informar al órgano estatal competente y a la Consejería de Hacienda en los casos de nombramiento y cese del Director General y, en su caso, del Presidente Ejecutivo.
+
+m) Aquellas que le vengan atribuidas legal o estatutariamente.
+
+2\. La Comisión de Control, en el ejercicio de sus competencias, deberá informar inmediatamente a la Consejería de Hacienda de las irregularidades observadas con objeto de que se adopten las medidas adecuadas, sin perjuicio de la obligación de comunicar directamente al Banco de España u órgano estatal competente, las cuestiones relacionadas con la competencia de éstos.
+
+3\. La Comisión de Control elaborará los informes que se establezcan reglamentariamente, los cuáles se remitirán a la Consejería de Hacienda.
+
+4\. Para el cumplimiento de estas funciones la Comisión de Control podrá recabar del Consejo de Administración, de sus Comisiones, del Presidente y de los órganos directivos de la entidad, cuantos antecedentes e informaciones considere necesario, sin encontrarse en ningún caso vinculada por los criterios y decisiones que la Comisión de Retribuciones y Nombramientos pueda adoptar en ejercicio de las competencias que le atribuye el artículo 63.1 de la Ley.
+
+> Se modifican los apartados 1 y 4 por el art. único.30 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 67. Funcionamiento.
+
+1\. La Comisión de Control se reunirá cuantas veces sea necesario para el correcto ejercicio de sus funciones y, como mínimo, dentro de los quince días siguientes a cada reunión del Consejo de Administración.
+
+2\. El Presidente convocará reunión de la Comisión de Control a iniciativa propia o a petición de al menos un tercio de sus miembros.
+
+3\. La válida constitución de la Comisión exigirá la asistencia a la sesión de la mayoría de sus miembros.
+
+4\. Con carácter general, los acuerdos de la Comisión de Control se adoptarán por mayoría de los asistentes con derecho a voto, salvo en el supuesto previsto en el artículo 66.1.i) de la presente Ley, en que se requerirá mayoría absoluta de sus miembros.
+
+5\. El Presidente y el Director General de la entidad podrán asistir a las reuniones de la Comisión de Control siempre que ésta lo requiera. Podrán así mismo, asistir, terceras personas convocadas al efecto.
+
+> Se modifica el apartado 2 por el art. único.31 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+### CAPÍTULO V — Personal de dirección
+
+#### Sección 1.ª Director General o asimilado
+
+##### Artículo 68. Naturaleza y funciones.
+
+1\. A los efectos de la presente Ley, se entiende por Director General o asimilado aquellas personas que desarrollen en la entidad funciones de alta dirección, bajo la dependencia directa del Consejo de Administración o de órganos que tengan funciones delegadas por el mismo o del Presidente Ejecutivo.
+
+2\. El Director General o asimilado ejecutará los acuerdos del Consejo de Administración, coordinará las relaciones entre los órganos de gobierno y los servicios de la Caja de Ahorros, ostentará la jefatura superior del personal y ejercerá las funciones que los Estatutos de cada entidad le atribuyan, y aquellas que le delegue el Consejo de Administración y, en su caso, el Presidente.
+
+En el ejercicio de sus funciones el Director General actuará bajo la superior autoridad del Consejo de Administración y de su Presidente.
+
+##### Artículo 69. Nombramiento.
+
+El Director General o asimilado será designado por el Consejo de Administración entre personas de reconocida honorabilidad comercial y profesional y con capacidad, preparación técnica y experiencia suficiente para desarrollar las funciones propias de este cargo.
+
+Se considera que posee preparación técnica y experiencia adecuadas para ejercer sus funciones como Director General de una Caja de Ahorros quien haya desempeñado, durante un plazo no inferior a cinco años, funciones de alta administración, dirección, control o asesoramiento de entidades financieras o funciones de similar responsabilidad en otras entidades públicas o privadas de, al menos, análoga dimensión.
+
+Esta designación requerirá el voto favorable de dos tercios de los miembros del Consejo y la ratificación de la Asamblea General, que deberá celebrar sesión al efecto dentro de los treinta días siguientes al nombramiento por el Consejo.
+
+Los Estatutos de las Cajas de Ahorros regularán la suplencia del Director General o asimilado en el supuesto de vacante, ausencia, enfermedad, u otra causa legal.
+
+> Se modifica por el art. único.32 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 70. Incompatibilidades y limitaciones.
+
+1\. El ejercicio del cargo de Director General o asimilado requiere dedicación exclusiva y será, por tanto, incompatible con cualquier actividad retribuida de cualquier modo, tanto de carácter público como privado, salvo la administración del propio patrimonio y aquellas actividades que ejerza en representación o por designación de la Caja. En este último caso los ingresos que obtenga, distintos a dietas y gastos de desplazamiento percibidos de conformidad con el artículo 39.1 de esta Ley, deberán cederse a la Caja por cuya cuenta realiza dicha actividad o representación.
+
+A los efectos de lo dispuesto en el párrafo anterior, no se considerará administración del propio patrimonio y, por tanto, resultará incompatible con el cargo de Director General o asimilado el ejercicio de actividades que no estén dirigidas a la mera gestión del patrimonio preexistente, resultando por tanto incompatibles con el ejercicio del cargo las actividades de creación o incremento del propio patrimonio mediante la realización de toda clase de actos de naturaleza mercantil, laboral o industrial, ya sean éstos realizados por sí o por otro o a través de personas jurídicas en las que se tenga una participación directa o indirecta que permita ejercer su control.
+
+2\. El Director General o asimilado tendrá las mismas limitaciones que las establecidas en el artículo 33 de esta Ley para los miembros de los órganos de gobierno.
+
+3\. El Director General o asimilado no podrá participar como candidato en la elección de los órganos de gobierno de las Cajas de Ahorro durante el período de ejercicio de su cargo y hasta transcurridos dos años desde su cese.
+
+> Se modifica el apartado 1 por el art. único.33 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 71. Cese.
+
+1\. El Director General o asimilado cesará en su cargo al cumplir la edad que determinen los Estatutos de cada Caja de Ahorros, y como máximo a los setenta años.
+
+2\. Podrá, además, ser removido de su cargo por las causas siguientes:
+
+a) Por acuerdo del Consejo de Administración adoptado por la mayoría de sus miembros con la asistencia de dos terceras partes de los mismos, dando traslado a la Consejería de Hacienda para su conocimiento.
+
+b) En virtud de expediente disciplinario instruido por el Banco de España o la Consejería de Hacienda, que se pondrá en conocimiento del Consejo de Administración y de la Comisión de Control. En el primer caso, junto con el expediente se elevará propuesta de resolución a la autoridad competente.
+
+> Se modifica el apartado 1 por el art. único.2 de la Ley 4/2010, de 28 de mayo. [Ref. BOE-A-2010-9352](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9352)
+
+#### Sección 2.ª Otro personal de dirección
+
+##### Artículo 72. Naturaleza.
+
+Está sujeto a lo dispuesto en la presente Sección el personal vinculado a la Caja de Ahorros por una relación laboral especial de alta dirección que, no siendo Director General o asimilado, ejerce poderes inherentes a la titularidad jurídica de la empresa relativos a los intereses generales de la misma con autonomía y plena responsabilidad, ya sea bajo la dependencia directa del Consejo de Administración o de órganos o personas con funciones delegadas del mismo, o del Director General o asimilado.
+
+##### Artículo 73. Nombramiento y cese.
+
+El personal a que se refiere esta Sección será designado por el Consejo de Administración a propuesta del Director General, entre personas de reconocida honorabilidad comercial y profesional y con capacidad, preparación técnica y experiencia suficiente para desarrollar las funciones propias de este cargo.
+
+Cesarán y podrán ser removidos de su cargo, con igual mayoría que la exigida para su nombramiento, en los mismos supuestos que establece el artículo 71 de la presente Ley para el Director General o asimilado.
+
+##### Artículo 74. Incompatibilidades y limitaciones.
+
+Será de aplicación a este personal lo dispuesto en el artículo 70 de la presente Ley sobre incompatibilidades y limitaciones del Director General o asimilado.
+
+##### Artículo 75. Comunicación del organigrama.
+
+Las Cajas de Ahorro deberán comunicar a la Consejería de Hacienda el organigrama del equipo directivo de la entidad, especificando el ámbito de sus funciones y los apoderamientos otorgados.
+
+## TÍTULO V — Control y supervisión de las Cajas de Ahorro
+
+##### Artículo 76. Disposición general.
+
+En el marco de la normativa básica del Estado y sin perjuicio de las facultades que corresponden a otros Organismos y Órganos de otras Administraciones Públicas, la Consejería de Hacienda ejercerá, en el ámbito de sus competencias, las funciones de coordinación y control de las actividades realizadas por las Cajas de Ahorro.
+
+##### Artículo 77. Deber de información.
+
+1\. Las Cajas de Ahorro con domicilio social en Castilla y León facilitarán a la Consejería de Hacienda cuanta información y documentación les sea solicitada sobre su actividad, gestión y situación económica.
+
+2\. Las Cajas de Ahorros de Castilla y León que no desarrollen de modo directo la actividad financiera que constituye su objeto propio como entidad de crédito deberán facilitar, a la consejería competente en materia de cajas de ahorro, la información y documentación correspondiente a la actividad propia y a la realizada por las entidades financieras a través de las cuales desarrollen dicha actividad financiera o por el grupo de entidades en el que se hallen integradas, en el territorio de Castilla y León.
+
+3\. Las Cajas de Ahorro que operen en el territorio de Castilla y León sin tener en el mismo su domicilio social estarán igualmente obligadas a facilitar información en relación con las actividades y operaciones realizadas en esta Comunidad Autónoma.
+
+4\. La Consejería de Hacienda establecerá la información periódica que las Cajas de Ahorro deban remitir, así como la forma y plazos de dicha remisión.
+
+> Se añade un apartado 2 y se renumeran los actuales 2 y 3 como 3 y 4 por la disposición final 15.2 de la Ley 1/2012, de 28 de febrero. [Ref. BOE-A-2012-4385](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4385)
+
+##### Artículo 78. Deber de secreto.
+
+1\. Tendrán carácter reservado cuantos datos, documentos e informaciones obren en poder de la Consejería de Hacienda en virtud de cuantas funciones le encomienden las leyes.
+
+2\. Cualquier persona que haya tenido conocimiento de datos, documentos o informaciones de carácter reservado acerca de las Cajas de Ahorro, por razón de su cargo o empleo, está obligada a guardar secreto incluso después de cesar en el mismo.
+
+El incumplimiento de esta obligación determinará las responsabilidades penales y demás previstas en las leyes.
+
+3\. Se exceptúan de la obligación de secreto los siguientes supuestos:
+
+a) Cuando el interesado consienta expresamente la difusión, publicación o comunicación de los datos.
+
+b) La publicación de datos agregados a fines estadísticos o las comunicaciones en forma sumaria o agregada, de manera que las entidades individuales no puedan ser identificadas ni siquiera indirectamente.
+
+c) Las informaciones requeridas por las autoridades judiciales competentes en un proceso penal.
+
+d) Las informaciones que deban realizarse en virtud de lo dispuesto en los artículos 93 y 94 de la Ley General Tributaria.
+
+e) Las informaciones que por razón de supervisión o sanción de las entidades de crédito la Consejería tenga que dar a conocer al Ministerio de Economía y Hacienda, al Banco de España o a otras Comunidades Autónomas con competencias sobre Cajas de Ahorro.
+
+##### Artículo 79. Inversiones.
+
+La Junta de Castilla y León podrá acordar, con carácter general, el sometimiento a autorización previa de determinadas inversiones de las Cajas de Ahorro, que en todo caso, se referirán a la concesión de grandes créditos o a la concentración de riesgos en una persona o grupo económico.
+
+El sometimiento a autorización previa deberá relacionarse con una determinada cuantía o con el volumen de recursos propios o totales de la Caja sin que suponga interferencia en el desarrollo de las operaciones ordinarias de la actividad de la entidad.
+
+Las Cajas de Ahorro comunicarán a la Consejería de Hacienda las entidades participadas por ellas en, al menos, un 3% del capital de éstas, el porcentaje de participación, las operaciones concedidas, el riesgo y situación de las mismas, y los datos personales de los representantes que mantenga la Caja en dichas entidades en cada momento.
+
+##### Artículo 80. Operaciones con miembros de los órganos de gobierno y de dirección.
+
+1\. La Consejería competente en materia de Cajas de Ahorros podrá desarrollar el régimen aplicable a las autorizaciones a que se refiere el artículo 33.2 de la presente Ley, pudiendo establecer que, hasta determinado volumen de crédito, aval o garantía, no sea preceptiva autorización administrativa expresa.
+
+No será necesaria autorización para los créditos, avales o garantías concedidos para la adquisición de viviendas para uso habitual con aportación por el titular de garantía real suficiente.
+
+Quedarán, asimismo, exceptuadas de autorización las operaciones con sociedades en las que el cargo de Presidente, Consejero o Administrador, lo desempeñen las personas a que se refiere el artículo 33.2 en representación o por designación de la Caja, sin tener en dicha sociedad interés económico, personal o familiar directo o a través de persona interpuesta, así como la adquisición de valores de la Caja cuando correspondan a una emisión pública en condiciones de igualdad con el resto de adquirentes.
+
+2\. La Consejería competente en materia de Cajas de Ahorros controlará el cumplimiento de las disposiciones vigentes relativas a estas operaciones en el trámite de autorización administrativa previa, que se denegará si la operación incumple algunas de las referidas disposiciones o las condiciones de la operación no resultan equiparables a las del resto de operaciones de la misma naturaleza que se realicen con otros particulares no vinculados a la Caja de Ahorros.
+
+> Se modifica por el art. único.34 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 81. Expansión.
+
+1\. La apertura de oficinas por parte de las Cajas de Ahorro en el territorio de la Comunidad de Castilla y León se realizará de acuerdo con las normas que dicte la Consejería de Hacienda y las restantes que sean de aplicación.
+
+2\. Las Cajas de Ahorro con domicilio social en Castilla y León comunicarán a la Consejería de Hacienda las variaciones en cuanto a apertura, traslado, cesiones o traspasos, y cierre de oficinas.
+
+3\. Las Cajas de Ahorro que, sin estar domiciliadas en el territorio de Castilla y León, tengan oficinas abiertas en el mismo, comunicarán a la Consejería de Hacienda las variaciones en cuanto a apertura, traslado, cesiones o traspasos, y cierre de dichas oficinas.
+
+4\. Corresponde a la Consejería de Hacienda, previo informe del Banco de España, otorgar las autorizaciones sobre apertura de oficinas en los casos previstos en la legislación vigente.
+
+##### Artículo 82. Solvencia.
+
+Corresponde a la Consejería de Hacienda, en el ámbito de sus competencias, el control del mantenimiento por parte de las Cajas de Ahorro de un volumen suficiente de recursos propios en relación con las inversiones realizadas y los riesgos asumidos, así como el control del cumplimiento de las limitaciones a la actividad por razón de la solvencia.
+
+A estos efectos, la Consejería de Hacienda podrá requerir cuanta información sea necesaria para verificar tal cumplimiento por parte de las Cajas o, en su caso, del grupo consolidable, pudiendo inspeccionar sus libros, documentos y registros.
+
+Del mismo modo, podrá solicitar información de las personas físicas e inspeccionar a las entidades con las que la Caja de Ahorros mantenga una relación de control, a efectos de determinar su incidencia en la situación jurídica, financiera y económica de las Cajas de Ahorros y sus grupos consolidados.
+
+Las Cajas deberán comunicar, de forma inmediata a la Consejería de Hacienda, cualquier incumplimiento del nivel mínimo de recursos propios exigidos o la vulneración de las limitaciones por razones de solvencia; debiendo adoptar, en las condiciones que reglamentariamente se determine, las medidas necesarias para el cumplimiento de las normas.
+
+> Se modifica el párrafo tercero por el art. único.35 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 83. Protección al cliente.
+
+1\. La Junta de Castilla y León dictará las normas necesarias para proteger los derechos de la clientela de las Cajas de Ahorro que operen en el territorio de Castilla y León; sin perjuicio de la libertad de contratación que, en sus aspectos sustantivos y con las limitaciones que pudieran emanar de otras disposiciones legales, deba presidir las relaciones entre las Cajas de Ahorro y su clientela.
+
+2\. Las Cajas de Ahorro estarán obligadas a atender y resolver las quejas y reclamaciones que sus clientes puedan presentar, relacionados con sus intereses y derechos legalmente reconocidos. A estos efectos, las entidades deberán contar con un departamento o servicio de atención al cliente encargado de atender y resolver las quejas y reclamaciones.
+
+Dichas entidades podrán, bien individualmente, bien agrupadas por proximidad geográfica, volumen de negocio o cualquier otro criterio, designar un Defensor del Cliente, que habrá de ser una entidad o experto independiente de reconocido prestigio en el ámbito económico o financiero con, al menos, diez años de experiencia profesional y que no haya estado o esté incurso en algún procedimiento judicial relacionado con el sistema financiero, y a quien corresponderá atender y resolver los tipos de reclamaciones que se sometan a su decisión en el marco de lo que disponga su reglamento de funcionamiento, así como promover el cumplimiento de la normativa de transparencia y protección de la clientela y de las buenas prácticas y usos financieros.
+
+La decisión del Defensor del Cliente favorable a la reclamación vinculará a la entidad. Esta vinculación no será obstáculo a la plenitud de tutela judicial, al recurso a otros mecanismos de solución de conflictos ni a la protección administrativa.
+
+##### Artículo 84. Publicidad.
+
+La Junta de Castilla y León, de acuerdo con lo dispuesto en la normativa básica del Estado, dictará las normas necesarias para que la publicidad de las operaciones, productos y servicios financieros de las Cajas de Ahorro que operen en el territorio de Castilla y León incluya todos los elementos necesarios para apreciar con la suficiente claridad sus verdaderas condiciones, regulando las modalidades de control administrativo de dicha publicidad, y pudiendo someterla al régimen de autorización administrativa previa de la Consejería de Hacienda.
+
+##### Artículo 85. Financiación.
+
+De acuerdo con lo dispuesto en la normativa básica, las Cajas de Ahorros con domicilio social en Castilla y León, para la ampliación de sus recursos propios podrán obtener financiación mediante la emisión de cuotas participativas, de deuda subordinada y de cualquier otros instrumento autorizado por el Banco de España.
+
+Dichas emisiones y sus modificaciones serán comunicadas a la Consejería competente en materia de Cajas de Ahorros.
+
+> Se modifica por el art. único.36 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 86. Excedentes.
+
+1\. Los acuerdos de distribución de excedentes de las Cajas de Ahorro con domicilio social en Castilla y León deberán estar presididos por la defensa y salvaguarda de los fondos recibidos del público y por el reforzamiento de sus recursos propios.
+
+2\. Las Cajas de Ahorro con domicilio social en Castilla y León, deberán destinar la totalidad de sus excedentes líquidos, que no sean atribuibles a los cuotapartícipes, a la constitución de reservas y al mantenimiento y creación de obras sociales, de acuerdo con la normativa básica del Estado.
+
+3\. Corresponde a la Consejería de Hacienda la autorización, en su caso, de los acuerdos adoptados por la Asamblea General de las Cajas de Ahorro con domicilio social en Castilla y León, relativos a la distribución de sus excedentes.
+
+##### Artículo 87. Obra social.
+
+1\. Sin perjuicio de lo dispuesto en la legislación básica, las Cajas de Ahorro con domicilio social en Castilla y León destinarán anualmente la totalidad de sus excedentes líquidos que, conforme a la normativa vigente, no sean atribuibles a los cuotapartícipes, ni hayan de integrar sus reservas o fondos de provisión no imputables a riesgos específicos, a la dotación de un fondo para la creación y mantenimiento de obras sociales.
+
+2\. Las Cajas de Ahorro que operan en Castilla y León sin tener en dicho territorio su domicilio social deberán destinar a la realización de obra social en esta Comunidad, como mínimo, la parte de su presupuesto anual de obra social que sea proporcional a la participación que suponga los recursos ajenos captados en Castilla y León respecto a los recursos ajenos totales de la entidad.
+
+Dicha obligación existirá también en los casos en que dichas Cajas de Ahorros ejerzan la actividad financiera de forma indirecta, se transformen en fundaciones de carácter especial o hayan cedido sustancialmente su negocio financiero en el marco de un sistema institucional de protección; respondiendo también de su cumplimiento las entidades de crédito a través de las que ejerzan la actividad financiera, sean receptoras de dicho negocio o actúen como cabecera del correspondiente grupo de entidades, en cada uno de los casos.
+
+3\. La Consejería de Hacienda realizará una labor de orientación en materia de obra social, indicando carencias y prioridades, dentro del más absoluto respeto a la libertad de las Cajas de Ahorro para la elección de las inversiones concretas.
+
+4\. Las obras sociales que realicen las Cajas de Ahorro con domicilio social en Castilla y León podrán ser propias o en colaboración con otras Administraciones, entidades públicas o privadas. Así mismo, podrán colaborar en la realización de obras sociales ajenas.
+
+5\. La gestión de la obra social de las Cajas de Ahorro con domicilio social en Castilla y León, que corresponde al Consejo de Administración bajo las directrices de la Asamblea General, podrá realizarse por los órganos o servicios de la Caja o mediante una fundación constituida por la propia Caja, con arreglo a las normas que dicte la Junta de Castilla y León. A tal efecto la constitución de la fundación y sus estatutos requerirán autorización de la Consejería de Hacienda.
+
+6\. Los acuerdos de la Asamblea General relativos al presupuesto de la obra social y liquidación de cada ejercicio, que incluirá el de las fundaciones si las hubiere, requerirán la autorización de la Consejería de Hacienda en la forma que reglamentariamente se determine.
+
+7\. La Junta de Castilla y León dictará las normas de desarrollo necesarias en materia de obra social y ejercerá, a través de la Consejería de Hacienda, el control del cumplimiento, por parte de las Cajas de Ahorro, de las disposiciones de la presente Ley.
+
+> Se añade un segundo párrafo al apartado 2 por la disposición final 15.3 de la Ley 1/2012, de 28 de febrero. [Ref. BOE-A-2012-4385](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4385)
+
+##### Artículo 88. Auditoría.
+
+1\. Las Cajas de Ahorro con domicilio social en Castilla y León deberán someter a auditoría externa las cuentas anuales de cada ejercicio, y remitir a la Consejería de Hacienda una copia del informe.
+
+2\. La Consejería de Hacienda podrá establecer el alcance y contenido de determinados informes, elaborados por los auditores, que deban remitirle las Cajas de Ahorro. Así mismo, podrá recabar de los auditores, a través del Consejo de Administración, cuanta información considere necesaria.
+
+##### Artículo 89. Inspección.
+
+1\. En el marco de la normativa básica del Estado y sin perjuicio de las competencias del Banco de España o cualquier otro Órgano competente, la Consejería de Hacienda ejercerá la función de inspección de las Cajas de Ahorro con domicilio social en Castilla y León y de las actividades que realicen en el territorio de esta Comunidad las Cajas que no tengan su domicilio social en la misma.
+
+2\. Así mismo, podrá ejercer la función inspectora respecto de las entidades con las que las Cajas de Ahorro mantengan relaciones económicas, financieras o gerenciales cuando de las mismas quepa deducir la existencia de una relación de control conforme a los criterios establecidos en la legislación vigente, a los efectos de determinar la procedencia de la consolidación.
+
+3\. A tal efecto, la Junta de Castilla y León podrá celebrar los convenios oportunos con el Banco de España con el objeto de coordinar sus actuaciones.
+
+##### Artículo 90. Sustitución e intervención.
+
+1\. En el marco de lo dispuesto en la legislación básica del Estado, sin perjuicio de las atribuciones que corresponden al Banco de España, la Junta de Castilla y León podrá acordar de oficio o a petición de la propia entidad, la intervención de la misma o la sustitución de los órganos de gobierno y de dirección de las Cajas de Ahorro con domicilio social en Castilla y León, cuando lo aconsejen situaciones de grave irregularidad administrativa o económica que pongan en peligro la efectividad de sus recursos propios o su estabilidad, liquidez o solvencia.
+
+Por motivos de urgencia podrá acordarlos la Consejería de Hacienda, que someterá el acuerdo a ratificación de la Junta de Castilla y León.
+
+2\. Será precisa la audiencia previa de la entidad, salvo cuando sea a instancia de la entidad o el retraso que provocaría tal trámite pudiera comprometer gravemente la efectividad de la medida o los intereses económicos afectados.
+
+3\. Los acuerdos de intervención y sustitución deberán ser motivados y establecer su alcance y limitaciones.
+
+4\. Los gastos causados por la intervención y sustitución serán a cargo de la Caja de Ahorros afectada.
+
+## TÍTULO VI — Régimen sancionador
+
+### CAPÍTULO I — Disposiciones generales
+
+##### Artículo 91. Competencias.
+
+1\. La Administración de la Comunidad de Castilla y León ejercerá, en el ámbito de sus competencias y en el marco de la normativa básica del Estado, las funciones de disciplina y sanción respecto a las actividades realizadas en su territorio por las Cajas de Ahorro.
+
+2\. El ejercicio de la potestad sancionadora a que se refiere la presente Ley es independiente de la eventual concurrencia de delitos o faltas de naturaleza penal. No obstante, cuando se esté tramitando un proceso penal por los mismos hechos o por otros cuya separación de los sancionables con arreglo a esta Ley sea racionalmente imposible, el procedimiento quedará suspendido respecto de los mismos hasta que recaiga pronunciamiento firme de autoridad judicial. Reanudado, en su caso, el expediente, la resolución que se dicte deberá respetar la apreciación de los hechos que contenga dicho pronunciamiento.
+
+##### Artículo 92. Responsabilidad.
+
+1\. Las Cajas de Ahorro y quienes ostenten cargos de administración o de dirección en las mismas, que infrinjan lo dispuesto en la presente Ley, incurrirán en responsabilidad administrativa de acuerdo con lo establecido en este Título.
+
+Podrán ser declarados responsables de las infracciones muy graves o graves cometidas por las Cajas de Ahorro, los miembros de sus órganos colegiados de administración, salvo en los siguientes casos:
+
+a) Cuando quienes formen parte de órganos colegiados de administración no hubieren asistido por causa justificada a las reuniones correspondientes, o hubieren votado en contra o salvado su voto en relación con las decisiones o acuerdos que hubiesen dado lugar a las infracciones.
+
+b) Cuando dichas infracciones sean exclusivamente imputables a Comisiones Ejecutivas, Directores Generales u órganos asimilados u otras personas con funciones ejecutivas en la entidad.
+
+Quien ejerza en la Caja cargos de administración o de dirección será responsable de las infracciones graves o muy graves cuando éstas sean imputables a su conducta dolosa o negligente.
+
+2\. Los miembros de la Comisión de Control incurrirán en responsabilidad por la comisión de las infracciones establecidas en la presente Ley.
+
+3\. Incurrirán también en responsabilidad las personas que participen como compromisarios o candidatos en los procesos electorales, así como quienes asistan a las sesiones de los órganos de gobierno, en los términos establecidos en la presente Ley.
+
+4\. Así mismo, incurrirán en responsabilidad las personas o entidades que sin estar inscritas en el Registro de Cajas de Ahorro de la Comunidad de Castilla y León, realicen en el territorio de la misma operaciones propias de este tipo de entidades o utilicen denominaciones u otros elementos identificativos, propagandísticos o publicitarios que puedan prestarse a confusión con la actividad de las Cajas de Ahorro inscritas.
+
+5\. La responsabilidad administrativa a que se refieren los apartados anteriores será sancionable de acuerdo con lo previsto en el presente Título, sin perjuicio de aquella otra normativa que resulte aplicable.
+
+### CAPÍTULO II — Infracciones
+
+##### Artículo 93. Clasificación.
+
+Las infracciones a que se refiere el artículo 92 de esta Ley se clasifican en muy graves, graves y leves.
+
+##### Artículo 94. Infracciones muy graves.
+
+1\. Constituyen infracciones muy graves:
+
+a) La realización de los actos que a continuación se relacionan, sin autorización cuando ésta sea preceptiva, sin observar las condiciones básicas fijadas en la misma, u obtenerla por medio de declaraciones falsas o por otro medio irregular:
+
+– Creación de Cajas de Ahorros.
+
+– Fusión, cesión global de activo y pasivo, y escisión.
+
+– Ejercicio indirecto como entidad de crédito y transformación en fundación de carácter especial.
+
+– Disolución y liquidación.
+
+– Modificación de Estatutos y Reglamentos.
+
+b) La no adaptación de los Estatutos y Reglamentos de Procedimiento Electoral en los plazos legalmente previstos.
+
+c) El ejercicio de actividades ajenas a su objeto exclusivo legalmente determinado, salvo que tengan carácter meramente ocasional o aislado.
+
+d) La realización de actos u operaciones prohibidas por las normas de ordenación y disciplina con rango legal o reglamentario, o con incumplimiento de los requisitos establecidos en las mismas, salvo que tengan carácter meramente ocasional o aislado.
+
+e) La negativa o resistencia a la actuación inspectora de la Comunidad Autónoma, siempre que medie requerimiento expreso y por escrito al efecto.
+
+f) La falta de remisión al órgano administrativo competente de la Comunidad Autónoma de cuantos datos o documentos deban remitírsele o requieran en el ejercicio de sus funciones, o la falta de veracidad en los mismos, cuando con ello se dificulte la apreciación de la solvencia de la entidad.
+
+A estos efectos, se entenderá que hay falta de remisión cuando la misma no se produzca dentro del plazo concedido al efecto por el órgano competente en el escrito recordatorio de la obligación o en la reiteración del requerimiento.
+
+g) El no sometimiento de sus cuentas anuales a auditoría externa, o el incumplimiento del alcance y contenido de los referidos informes de auditoría respecto de los fijados previamente por la Consejería de Hacienda.
+
+h) El incumplimiento del deber de veracidad informativa y transparencia debida a los clientes de la entidad y al público en general, así como el incumplimiento del deber de confidencialidad sobre los datos recibidos de la Central de Información de Riesgos, su uso para fines diferentes a los previstos en la normativa reguladora de la misma, o la solicitud de informes sobre personas titulares de riesgos fuera de los casos expresamente autorizados en dicha normativa. Todo ello siempre que, por el número de afectados o por la importancia de la información, tales incumplimientos puedan estimarse como especialmente relevantes.
+
+i) La realización de actos fraudulentos o la utilización de personas físicas o jurídicas interpuestas con la finalidad de conseguir un resultado que, de ser obtenido directamente, sería calificado, al menos, como infracción grave.
+
+j) La no convocatoria de Asamblea General Extraordinaria cuando sea solicitada al menos, por una tercera parte de los Consejeros Generales, o a petición de la Comisión de Control.
+
+k) La vulneración reiterada de las normas reguladoras de los procesos electorales para la elección y designación de los órganos de gobierno.
+
+l) La comisión de una infracción grave, si en los cinco años anteriores hubiera sido impuesta sanción firme por el mismo tipo de infracción.
+
+m) Presentar, la Caja de Ahorros o el grupo consolidable al que pertenezca, deficiencias en la organización administrativa y contable, o en los procedimientos de control interno, incluidos los relativos a la gestión de los riesgos, cuando tales deficiencias pongan en peligro la solvencia o la viabilidad de la entidad.
+
+2\. Constituyen, además, infracciones muy graves de los miembros de la Comisión de Control, ya actúe como tal o como Comisión Electoral:
+
+a) La negligencia grave y persistente en el ejercicio de las funciones que tengan legalmente encomendadas.
+
+b) El no proponer a los órganos administrativos competentes la suspensión de acuerdos adoptados por el Consejo de Administración y los adoptados por quienes ejerzan funciones delegadas de éste en el supuesto previsto en el artículo 66.1.i) de la presente Ley.
+
+c) Las infracciones graves cuando durante los 5 años anteriores a su comisión, les hubiera sido impuesta sanción firme por el mismo tipo de infracción.
+
+> Se modifica la letra h) del apartado 1 por la disposición final 15.4 de la Ley 1/2012, de 28 de febrero. [Ref. BOE-A-2012-4385](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4385)
+
+> Se modifica la letra a) del apartado 1 por el art. único.37 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Artículo 95. Infracciones graves.
+
+1\. Constituyen infracciones graves:
+
+a) La realización de actos y operaciones sin autorización cuando ésta sea preceptiva, sin observar las condiciones básicas fijadas en la misma, u obtenerla por medio de declaraciones falsas o por otro medio irregular, cuando no constituya infracción muy grave.
+
+b) El ejercicio meramente ocasional o aislado de actividades ajenas a su objeto exclusivo legalmente determinado.
+
+c) La realización meramente ocasional o aislada de actos u operaciones prohibidas por normas de ordenación y disciplina con rango legal o reglamentario, o con incumplimiento de éstas.
+
+d) El incumplimiento de las normas vigentes en materia de límites de riesgos o de cualesquiera otras que impongan limitaciones cuantitativas, absolutas o relativas, al volumen de determinadas operaciones activas o pasivas.
+
+e) El incumplimiento de las condiciones y requisitos exigidos por la normativa correspondiente en las operaciones crediticias que gocen de subvención de intereses u otras ayudas públicas.
+
+f) La falta de remisión al órgano competente de la Comunidad Autónoma de cuantos datos, documentos o comunicaciones, que con arreglo a la presente Ley, deban remitírsele o les requieran en el ejercicio de sus funciones, o la falta de veracidad en los mismos, salvo que ello suponga la comisión de una infracción muy grave. A estos efectos, se entenderá que hay falta de remisión cuando la misma no se produzca dentro del plazo concedido al efecto por el órgano competente en el escrito recordatorio de la obligación o en la reiteración del requerimiento.
+
+g) El incumplimiento del deber de veracidad informativa y transparencia debida a los clientes de la entidad y al público en general, así como el incumplimiento del deber de confidencialidad sobre los datos recibidos de la Central de Información de Riesgos, su uso para fines diferentes a los previstos en la normativa reguladora de la misma, o la solicitud de informes sobre personas titulares de riesgos fuera de los casos expresamente autorizados en dicha normativa, cuando no sean constitutivas de infracción muy grave.
+
+h) La realización de actos fraudulentos o la utilización de personas físicas o jurídicas interpuestas con la finalidad de conseguir un resultado contrario a las normas de ordenación y disciplina, siempre que no sea calificada como muy grave.
+
+i) Siempre que no sea constitutivo de ilícito penal, la cesión del remate de bienes embargados por las Cajas efectuada por éstas a favor de los miembros del Consejo de Administración o de los miembros de la Comisión de Control, bien directamente o a través de persona física o jurídica interpuesta. Se considerará infracción grave del Director General la cesión del remate efectuada a favor de los empleados de la Caja, directamente o por persona interpuesta, salvo cuando ésta haya sido acordada por el Consejo de Administración o sus Comisiones Delegadas, en cuyo caso la infracción grave correspondería a dichos órganos de gobierno.
+
+j) La adquisición mediante subasta judicial, directamente o por persona física o jurídica interpuesta, por los miembros del Consejo de Administración, por los miembros de la Comisión de Control, por el Director General o demás personal de dirección de la Caja, de bienes embargados por ésta.
+
+k) El incumplimiento de normas sobre cumplimentación de estados de rendición de cuentas, comunicación de datos y demás documentos previstos por la normativa autonómica.
+
+l) La vulneración de las normas reguladoras de los procesos electorales para la elección y designación de los órganos de gobierno, cuando no sea constitutiva de infracción muy grave, o la comisión de irregularidades en los mismos. A estos efectos, se considerarán irregularidades las conductas que no respeten los principios de legalidad, transparencia, publicidad, proporcionalidad o participación democrática. En particular, se considerarán irregularidades:
+
+La solicitud directa o indirecta del voto de algún elector, o inducirle a la abstención, por medio de recompensas, dádivas, remuneraciones o promesas de las mismas.
+
+La presión con violencia o intimidación sobre los electores para que no usen su derecho, lo ejerciten contra su voluntad o descubran el secreto de voto.
+
+Impedir o dificultar injustificadamente la entrada, salida o permanencia de los electores, candidatos, apoderados, interventores y notarios en los lugares en los que se realicen actos del proceso electoral.
+
+m) La utilización por la Caja de Ahorros de denominaciones que puedan inducir a error al público sobre la identidad de la propia Caja o confusión con la denominación de otra entidad de crédito con domicilio social en la Comunidad Autónoma, salvo lo dispuesto en el artículo 4.5 para el ejercicio indirecto de la actividad financiera por una caja de ahorros.
+
+n) La utilización de la denominación u otros elementos identificativos, propagandísticos o publicitarios propios de las Cajas por personas o entidades no inscritas en el Registro de Cajas de Ahorro.
+
+o) La comisión de una infracción leve, si en los cinco años anteriores hubiera sido impuesta sanción firme por el mismo tipo de infracción.
+
+p) Presentar la Caja de Ahorros o el grupo consolidable al que pertenezca, deficiencias en la organización administrativa y contable, o en los procedimientos de control interno, incluidos los relativos a la gestión de riesgos, una vez haya transcurrido el plazo concedido al efecto para su subsanación por las autoridades competentes, y siempre que ello no constituya infracción muy grave.
+
+q) La efectiva administración o dirección de las Cajas de Ahorro por personas que no ejerzan de derecho en las mismas un cargo de dicha naturaleza.
+
+r) El incumplimiento del deber de secreto previsto en el artículo 41.4 de la presente Ley.
+
+2\. Constituyen infracciones graves de los miembros de la Comisión de Control, ya actúe como tal o como Comisión Electoral:
+
+a) La negligencia en el ejercicio de las funciones que legalmente tienen encomendadas, si no constituyen infracción muy grave.
+
+b) La falta de remisión a la Consejería de Hacienda de los datos e informes que deban hacerle llegar o su remisión con notorio retraso.
+
+3\. Constituyen, así mismo, infracciones graves de quienes ostenten la condición de compromisarios y candidatos en procesos electorales, y de quienes ejerzan cargos de órganos de gobierno de las Cajas, el ejercicio de dichos cargos sin cumplir los requisitos exigidos por la Ley.
+
+> Se modifica la letra g) del apartado 1 por la disposición final 15.5 de la Ley 1/2012, de 28 de febrero. [Ref. BOE-A-2012-4385](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4385)
+
+> Se modifica la letra m) del apartado 1 por el art. único.38 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+> Se modifica la letra l) del apartado 1 por el art. único.1 de la Ley 5/2007, de 28 de marzo. [Ref. BOE-A-2007-9098](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-9098)
+
+##### Artículo 96. Infracciones leves.
+
+Constituyen infracciones leves aquellas infracciones de preceptos de obligada observancia comprendidos en esta Ley y disposiciones de desarrollo que no constituyan infracción muy grave o grave, así como la falta reiterada de asistencia a las reuniones del Consejo de Administración, Comisiones Delegadas y Comisión de Control.
+
+##### Artículo 97. Prescripción.
+
+1\. Las infracciones muy graves y las graves prescribirán a los cinco años, y las leves a los dos años.
+
+2\. En ambos casos el plazo de prescripción se contará desde la fecha en que la infracción hubiera sido cometida. En las infracciones derivadas de una actividad continuada, la fecha inicial del cómputo será la de finalización de la actividad o la del último acto con el que la infracción se consume.
+
+3\. La prescripción se interrumpirá por la iniciación, con conocimiento del interesado, del procedimiento sancionador; volviendo a correr el plazo si el expediente permaneciera paralizado durante seis meses por causa no imputable a aquéllos contra quienes se dirija.
+
+### CAPÍTULO III — Sanciones
+
+##### Artículo 98. Sanciones.
+
+1\. De acuerdo con la normativa básica del Estado las infracciones a que se refieren los artículos anteriores darán lugar a la imposición a las Cajas de Ahorro de las siguientes sanciones:
+
+A) Por la comisión de infracciones muy graves una o más de las siguientes sanciones:
+
+a) Multa de hasta el uno por ciento de sus recursos propios o hasta 300.000 euros, si aquel porcentaje fuera inferior a esta cifra.
+
+b) Revocación de la autorización de la entidad con exclusión del Registro de Cajas de Ahorro de Castilla y León.
+
+c) Amonestación pública con publicación en el «Boletín Oficial de Castilla y León».
+
+B) Por la comisión de infracciones graves una o más de las siguientes sanciones:
+
+a) Amonestación pública con publicación en el «Boletín Oficial de Castilla y León».
+
+b) Multa por importe de hasta el medio por ciento de sus recursos propios o hasta 150.000 euros, si aquel porcentaje fuera inferior a esta cifra.
+
+C) Por la comisión de infracciones leves en una de las siguientes sanciones:
+
+a) Amonestación privada.
+
+b) Multa por importe de hasta 60.000 euros.
+
+2\. Además de las sanciones que corresponda imponer a la Caja de Ahorro, podrán imponerse las siguientes sanciones, a quienes ejerciendo cargos de administración, de hecho o de derecho, en la misma, sean responsables de la infracción, conforme establece el artículo 92.1 de la presente Ley: A) Por la comisión de infracciones muy graves:
+
+a) Multa a cada responsable por importe no superior a 150.000 euros.
+
+b) Suspensión en el ejercicio del cargo por plazo no superior a tres años.
+
+c) Separación del cargo con inhabilitación para ejercer cargos de administración o de dirección en la misma Caja de Ahorros por un plazo máximo de cinco años.
+
+d) Inhabilitación para ejercer cargos de administración o de dirección en cualquier entidad de crédito o del sector financiero, con separación, en su caso, del cargo de administración o de dirección que ocupe el infractor en una entidad de crédito, por plazo no superior a diez años.
+
+En caso de imposición de las sanciones previstas en las letras c) y d) del apartado anterior, podrá imponerse simultáneamente la sanción prevista en la letra a) del mismo.
+
+B) Por la comisión de infracciones graves:
+
+a) Amonestación privada.
+
+b) Amonestación pública.
+
+c) Multa a cada uno de ellos por importe no superior a 90.000 euros.
+
+d) Inhabilitación para ejercer cargos de administración o de dirección en cualquier entidad de crédito o del sector financiero, con separación, en su caso, del cargo de administración o de dirección que ocupe el infractor en una entidad de crédito, por plazo no superior a un año.
+
+En el caso de imposición de la sanción prevista en la letra d) del apartado B anterior, podrá imponerse simultáneamente la sanción prevista en su letra c).
+
+3\. Las sanciones aplicables a los miembros de la Comisión de Control de Cajas de Ahorro que sean responsables de las infracciones muy graves o graves serán, respectivamente las previstas en las letras b), c) y d) del apartado A y en las letras a), b) y d) del apartado B del punto 2 de este artículo.
+
+Además por la comisión de infracciones muy graves o graves podrán imponerse las sanciones de multa de hasta 6.000 euros, y de hasta 3.000 euros, respectivamente.
+
+Por la comisión de infracciones leves podrá imponerse la sanción de amonestación privada o de multa por importe de hasta 300 euros.
+
+4\. Por la comisión de las infracciones muy graves o graves a que se refieren los artículos 94.1.k), 95.1.l) y r), y 95.3 de la presente Ley, a los compromisarios, a los candidatos, y a quienes ejerzan cargos en los órganos de gobierno o asistan a sus reuniones, se les impondrán las sanciones siguientes:
+
+a) Multa a cada responsable por importe no superior a 12.000 euros.
+
+b) Separación del cargo.
+
+c) Inhabilitación para la participación en procesos electorales durante los cinco años siguientes.
+
+5\. En el supuesto previsto en el artículo 92.4 de la presente Ley, las personas o entidades responsables serán sancionadas con multa de hasta 150.000 euros.
+
+Si requeridas para que cesen inmediatamente en la utilización de las denominaciones o en la realización de las actividades, continuaran utilizándolas o realizándolas serán sancionadas con multa por importe de hasta 300.000 euros, que podrá ser reiterada con ocasión de posteriores requerimientos.
+
+> Se modifica el apartado 4 por el art. único.2 de la Ley 5/2007, de 28 de marzo. [Ref. BOE-A-2007-9098](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-9098)
+
+##### Artículo 99. Criterios de graduación.
+
+Las sanciones aplicables en cada caso por la comisión de infracciones administrativas se determinarán en base a los siguientes criterios:
+
+a) La naturaleza de la infracción.
+
+b) La gravedad de los hechos.
+
+c) Los perjuicios ocasionados o el peligro ocasionado.
+
+d) Las ganancias obtenidas, en su caso, como consecuencia de los actos u omisiones constitutivas de la infracción.
+
+e) La importancia de la Caja de Ahorros infractora, medida en función del importe total de su balance.
+
+f) La circunstancia de haber procedido a la subsanación de la infracción por propia iniciativa.
+
+g) La conducta anterior de la Caja de Ahorros o de las personas individuales responsables en relación con las normas de ordenación y disciplina que le afecten, considerando las sanciones firmes que le hubieran sido impuestas durante los cinco últimos años.
+
+h) La incidencia de la infracción en la economía de la Comunidad de Castilla y León.
+
+i) La repercusión en el sistema financiero regional.
+
+j) El grado de responsabilidad de los hechos que concurran en las per-sonas individuales.
+
+k) El grado de representación que las personas individuales ostenten.
+
+##### Artículo 100. Órganos competentes.
+
+1\. La competencia para la instrucción de los expedientes a que se refiere el presente Título corresponde a la Consejería de Hacienda.
+
+2\. La imposición de sanciones por infracciones graves y leves corresponderá al Consejero de Hacienda.
+
+3\. La imposición de sanciones por infracciones muy graves corresponderá a la Junta de Castilla y León, a propuesta de la Consejería de Hacienda.
+
+4\. En el supuesto de infracciones muy graves y graves, la propuesta de resolución deberá ser informada preceptivamente por el Banco de España.
+
+5\. Cuando los órganos competentes de la Comunidad Autónoma tengan conocimiento de hechos que puedan ser constitutivos de infracción que deban ser sancionados por los órganos competentes de la Administración del Estado, se dará traslado de los mismos al Banco de España.
+
+##### Artículo 101. Procedimiento.
+
+El procedimiento para la imposición de las sanciones a que se refiere la presente Ley será el regulado en el Reglamento del Procedimiento Sancionador de la Administración de la Comunidad de Castilla y León, aprobado por el Decreto 189/1994, de 25 de agosto, en tanto no se desarrolle reglamentariamente un procedimiento específico para esta materia.
+
+## TÍTULO VII — Federación de Cajas de Ahorro de Castilla y León
+
+##### Artículo 102. Naturaleza.
+
+1\. La Federación de Cajas de Ahorro de Castilla y León, que tendrá personalidad jurídica propia y plena capacidad para el desarrollo de las actividades dirigidas al cumplimiento de sus fines, agrupa a las Cajas de Ahorro con domicilio social en Castilla y León.
+
+2\. La Federación de Cajas de Ahorro tendrá su domicilio social en la Comunidad de Castilla y León.
+
+3\. Los Estatutos de la Federación podrán establecer un sistema de participación en la misma para aquellas Cajas de Ahorro que, actuando en el territorio de Castilla y León, no tengan en él su domicilio social.
+
+4\. Sin perjuicio de lo establecido en este Título, las Cajas de Ahorro podrán establecer, mediante resolución de su Consejo de Administración, acuerdos de colaboración o cooperación y alianzas con otras Cajas de Ahorro.
+
+##### Artículo 103. Funciones.
+
+La Federación de Cajas de Ahorro de Castilla y León tendrá las siguientes funciones:
+
+a) Unificar la representación de las Cajas ante los poderes públicos territoriales.
+
+b) Fomentar la captación, defensa y difusión del ahorro, así como orientar las inversiones de acuerdo con las normas generales sobre inversión regional.
+
+c) Promover y coordinar la prestación de servicios técnicos y financieros comunes.
+
+d) Impulsar el establecimiento de sistemas informáticos compatibles, así como la interconexión de los mismos.
+
+e) Impulsar y coordinar la creación y sostenimiento de obras sociales conjuntas, con los criterios establecidos en el artículo 87 de la presente Ley.
+
+f) Facilitar la actuación de las Cajas asociadas fuera del territorio de la Comunidad, ofreciendo los servicios que éstas puedan requerir.
+
+g) Promover la realización de acuerdos de colaboración entre los miembros de la Federación y, en su caso, entidades ajenas para la ejecución de las funciones previstas en este artículo.
+
+h) Cuantas otras le sean encomendadas por las Cajas federadas.
+
+##### Artículo 104. Órganos.
+
+La Federación de Cajas de Ahorro de Castilla y León estará constituida por los órganos siguientes:
+
+a) El Consejo General.
+
+b) La Secretaría General.
+
+##### Artículo 105. Consejo General.
+
+1\. El Consejo General es el máximo órgano de gobierno y decisión de la Federación.
+
+2\. Estará constituido por dos representantes de cada una de las Cajas asociadas, de las que al menos uno deberá ser miembro del Consejo de Administración de la Caja, y dos representantes de la Consejería de Hacienda.
+
+3\. El Consejo General podrá delegar parte de sus funciones en una Comisión Ejecutiva, que será objeto de regulación en los Estatutos de la Federación, y de la que deberá formar parte, al menos, uno de los representantes de la Consejería de Hacienda.
+
+##### Artículo 106. Secretaría General.
+
+La Secretaría General se configura como el órgano administrativo de gestión y coordinación, teniendo un carácter permanente.
+
+Al frente de la misma estará un Secretario General elegido por el Consejo General entre personas con capacidad, preparación técnica y experiencia suficiente para el ejercicio de sus funciones.
+
+##### Artículo 107. Funcionamiento.
+
+Los Estatutos regularán las fórmulas de adopción de acuerdos y su grado de vinculación para las Cajas federadas.
+
+Igualmente, establecerán los supuestos en que pueda emitirse voto ponderado, que en ningún caso se ejercerá para la elección de los distintos cargos, y los criterios de tal ponderación.
+
+##### Artículo 108. Estatutos.
+
+Los Estatutos de la Federación de Cajas de Ahorro de Castilla y León y sus modificaciones será aprobados por la Consejería de Hacienda.
+
+##### Disposición adicional primera. Cajas de Ahorro fundadas por la Iglesia Católica.
+
+En el caso de Cajas de Ahorro cuyos Estatutos a la entrada en vigor de la Ley 31/1985, de 2 de agosto, de Regulación de las Normas Básicas sobre Órganos Rectores de las Cajas de Ahorros, recojan como entidad fundadora a la Iglesia Católica o entidades de Derecho Público de la misma, el procedimiento de nombramiento y la duración del mandato de los representantes de la entidad fundadora en los órganos de gobierno, se regirá por lo que se disponga en sus Estatutos, debiendo someterse en lo demás a lo establecido en esta Ley y sus normas de desarrollo.
+
+##### Disposición adicional segunda. Obligación de los órganos de gobierno.
+
+Los órganos de gobierno de las Cajas de Ahorro adoptarán los acuerdos necesarios para la debida ejecución y cumplimiento de las normas contenidas en el presente Texto Refundido y en sus normas de desarrollo.
+
+##### Disposición adicional tercera. Comité de Auditoría.
+
+Los Estatutos de las Cajas de Ahorro que emitan valores admitidos a negociación en mercados secundarios oficiales de valores deberán determinar si, al amparo de lo previsto en la disposición adicional decimoctava de la Ley 24/1988, de 28 de julio, del Mercado de Valores, las Cajas constituirán un Comité de Auditoría o formado mayoritariamente por miembros, no ejecutivos del Consejo de Administración o encomendarán las funciones del Comité de Auditoría a la Comisión de Control.
+
+En el caso de que el Comité de Auditoría esté formado por miembros del Consejo de Administración, los Estatutos deberán regular su número de miembros, sus competencias y sus normas de funcionamiento.
+
+##### Disposición adicional cuarta. Transparencia.
+
+Todas las Cajas de Ahorros de Castilla y León deberán elaborar, aprobar, remitir a la consejería competente en materia de cajas de ahorros y hacer públicos con carácter anual un informe de gobierno corporativo y un informe de remuneraciones, con el mismo contenido y en los mismos plazos que se establezcan por la Comisión Nacional del Mercado de Valores para las cajas de ahorros que emitan valores admitidos a negociación en mercados oficiales.
+
+Todas las Cajas de Ahorros de Castilla y León deberán elaborar, aprobar, remitir a la consejería competente en materia de cajas de ahorros y hacer pública información sobre remuneraciones con el mismo contenido y periodicidad que se establezcan por el Banco de España, tanto en general para las entidades de crédito como en particular para las entidades que hayan recibido apoyo directo del Fondo de Reestructuración Ordenada Bancaria o hayan cedido el ejercicio directo de su actividad financiera a alguna de dichas entidades.
+
+Reglamentariamente podrán concretarse o ampliarse aspectos específicos del contenido de estas obligaciones.
+
+> Se modifica por la disposición final 15.6 de la Ley 1/2012, de 28 de febrero. [Ref. BOE-A-2012-4385](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4385)
+
+> Se añade por el art. único.39 del Decreto-ley 2/2010, de 2 de septiembre. [Ref. BOCL-h-2010-90058](https://www.boe.es/buscar/doc.php?id=BOCL-h-2010-90058)
+
+##### Disposición adicional quinta. Remuneraciones, indemnizaciones y supuestos de extinción y suspensión del contrato.
+
+Serán aplicables a las cajas de ahorros de Castilla y León y a sus administradores y directivos las limitaciones en materia de remuneraciones e indemnizaciones por terminación del contrato, así como los supuestos de extinción y suspensión del mismo, previstos por el artículo 5 del Real Decreto-ley 2/2012, de 3 de febrero, de saneamiento del sector financiero, y por la disposición adicional séptima del Real Decreto-ley 3/2012, de 10 de febrero, de medidas urgentes para la reforma del mercado laboral.
+
+En los casos de las cajas de ahorros que no desarrollen su objeto propio como entidad de crédito de forma directa, las limitaciones contempladas en el párrafo anterior serán también aplicables a las entidades de crédito integradas en grupos que hayan recibido apoyo financiero público para su saneamiento o reestructuración, y a sus administradores y directivos.
+
+> Se añade por la disposición final 2.5 de la Ley 4/2012, de 16 de julio. [Ref. BOE-A-2012-10158](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10158)
+
+##### Disposición transitoria primera. Renovaciones parciales.
+
+La renovación parcial de los grupos incluidos en la agrupación primera prevista en los Estatutos o Reglamentos de Procedimiento Electoral de cada Caja deberá quedar realizada en el plazo de cinco meses a contar desde la fecha de aprobación por la Junta de Castilla y León de la adaptación de los Estatutos y del Reglamento de Procedimiento Electoral de las Cajas de Ahorro a lo previsto en el presente Texto Refundido.
+
+El mandato de los miembros de los órganos de gobierno que deban ser renovados en el proceso electoral a que se refiere el párrafo anterior, como consecuencia del cumplimiento del período de su mandato quedará prorrogado hasta la fecha de la Asamblea General en que se produzca la incorporación de los nuevos Consejeros Generales, sin perjuicio de los ceses que deban producirse como consecuencia de lo previsto en el artículo 34.1 del Texto Refundido de la Ley de Cajas de Ahorro de Castilla y León, con excepción de la causa prevista en su letra a).
+
+Así mismo, hasta la finalización de la renovación prevista en el párrafo anterior, las Asambleas Generales de las Cajas de Ahorro de Castilla y León podrán estar transitoriamente integradas por un número de miembros superior al previsto en el artículo 43 del presente Texto Refundido.
+
+La siguiente renovación parcial de los grupos incluidos en la agrupación primera deberá quedar realizada en el mes de junio del año 2009, por lo que el mandato de los miembros de los órganos de gobierno que se incorporen en el proceso electoral previsto en el párrafo primero quedará, en su caso, reducido; finalizando en la fecha de la Asamblea General en que se produzca la incorporación de los nuevos Consejeros Generales.
+
+> Se amplía hasta el mes de diciembre del año 2010, el plazo establecido en el párrafo cuarto por la disposición final 7.1 de la Ley 10/2009, de 17 de diciembre. [Ref. BOE-A-2010-564](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-564)
+
+> Se amplía hasta el mes de junio del año 2010, el plazo establecido en el párrafo cuarto, en la redacción dada por la disposición adicional 2 de la Ley 17/2008, de 23 de diciembre, por el art. único de la Ley 7/2009, de 16 de junio. [Ref. BOE-A-2009-11188](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-11188)
+
+> Se amplía hasta el mes de diciembre del año 2009, el plazo establecido en el párrafo cuarto por la disposición adicional 2 de la Ley 17/2008, de 23 de diciembre. [Ref. BOE-A-2009-2394](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2394)
+
+##### Disposición transitoria segunda. Cobertura de vacantes.
+
+Las vacantes que se produzcan por el cese de los actuales miembros de los órganos de gobierno hasta que se realice la renovación parcial a que se refiere el párrafo primero de la disposición transitoria primera, se cubrirán conforme al sistema de cobertura de vacantes establecido por el presente Texto Refundido. A estos efectos, serán aplicables las listas de suplentes correspondientes a las candidaturas que obtuvieron representantes en los órganos de gobierno en los respectivos procesos electorales correspondientes a los grupos de representación que no se hayan renovado desde el 29 de julio de 2001 y que fueron aprobadas por las Asambleas Generales.
+
+##### Disposición transitoria tercera. Régimen transitorio de determinados aspectos del régimen jurídico de las Cajas de Ahorro.
+
+1\. El régimen de irrevocabilidad de los miembros de los órganos de gobierno previsto en el artículo 34 del presente Texto Refundido, será aplicable a los cargos nombrados con posterioridad al 1 de junio de 2003.
+
+2\. Los Consejeros Generales y los miembros del Consejo de Administración pertenecientes a los grupos incluidos en la agrupación primera prevista en los Estatutos o Reglamentos de Procedimiento Electoral de cada Caja que ostentaran el cargo a 24 de noviembre de 2002 y que cumplan el período máximo establecido en el artículo 35.4 de este Texto Refundido durante el mandato actual o el siguiente, podrán permanecer en el cargo durante el presente mandato y uno más, siempre que sean elegidos para ello por la representación que ostenten; sin perjuicio de los ceses que deban producirse como consecuencia de lo previsto en el artículo 34.1, con excepción de la causa prevista en su letra b).
+
+3\. Los Consejeros Generales y los miembros del Consejo de Administración pertenecientes a los grupos incluidos en la agrupación segunda prevista en los Estatutos o Reglamentos de Procedimiento Electoral de cada Caja que ostentaran el cargo a 24 de noviembre de 2002 y que cumplan el período máximo establecido en el artículo 35.4 de este Texto Refundido durante el mandato actual, podrán permanecer en el cargo hasta la finalización del presente mandato; sin perjuicio de los ceses que deban producirse como consecuencia de lo previsto en el artículo 34.1, con excepción de la causa prevista en su letra b).
+
+4\. Los requisitos de elegibilidad y ejercicio del cargo de los Consejeros Generales representantes del Personal establecidos en el párrafo segundo del artículo 31.2, y las modificaciones de las causas de incompatibilidad de los miembros de los órganos de gobierno previstas en las letras a), d) y g) del artículo 32, serán aplicables a los cargos nombrados a partir de la primera renovación parcial, inclusive, que se produzca después del 23 de diciembre de 2004.
+
+5\. El régimen de distribución de Consejeros Generales por Comunidades Autónomas será de aplicación a los cargos nombrados en las renovaciones parciales que se realicen con posterioridad al 23 de diciembre de 2004.
+
+##### Disposición transitoria cuarta. Adaptación de los Estatutos y Reglamentos del Procedimiento Electoral de las Cajas de Ahorro.
+
+Las Cajas de Ahorro deberán adaptar sus Estatutos y Reglamentos de Procedimiento Electoral a lo dispuesto en el presente Texto Refundido, en el plazo de tres meses desde la entrada en vigor del Decreto que desarrolle el presente Texto Refundido en materia de Órganos de Gobierno y de Dirección.
+
+##### Disposición final primera. Autorización de la adaptación de Estatutos.
+
+La adaptación por las Cajas de Ahorro de los Estatutos y Reglamentos de Procedimiento Electoral a lo dispuesto en el presente Texto Refundido, se entiende sin perjuicio de la posterior aprobación de los mismos por la Junta de Castilla y León, quien podrá ordenar la modificación en todo caso de aquellos preceptos que no se ajusten a las normas o principios de la presente disposición.
+
+##### Disposición final segunda. Desarrollo reglamentario.
+
+Se autoriza a la Junta de Castilla y León para adoptar las medidas y dictar las disposiciones que sean necesarias para el desarrollo del presente Texto Refundido.
+
+Específicamente, para el desarrollo reglamentario de su Título IV, sobre los Órganos de Gobierno y la Dirección de las Cajas de Ahorro con domicilio social en Castilla y León, se establece un plazo de tres meses desde la entrada en vigor del presente Texto Refundido para que la Junta de Castilla y León apruebe y publique el correspondiente Decreto.

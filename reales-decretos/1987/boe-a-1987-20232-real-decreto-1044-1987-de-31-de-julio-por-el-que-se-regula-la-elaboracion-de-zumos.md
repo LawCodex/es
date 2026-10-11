@@ -1,0 +1,169 @@
+---
+title: "Real Decreto 1044/1987, de 31 de julio, por el que se regula la elaboración de zumos de uva en armonización con la normativa comunitaria"
+identifier: "BOE-A-1987-20232"
+eli: "https://www.boe.es/eli/es/rd/1987/07/31/1044"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1987-07-31
+published: 1987-08-29
+in_force_from: 1987-08-30
+last_amended: 2023-10-04
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 207"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1987-20232"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1044/1987, de 31 de julio, por el que se regula la elaboración de zumos de uva en armonización con la normativa comunitaria
+
+La adhesión del Reino de España a las Comunidades Europeas exige acomodar la normativa existente a las Directivas del Consejo 75/726/CEE, de 17 de noviembre de 1975; 79/168/CEE, de 5 de febrero de 1979, y 81/487/CEE, de 30 de junio de 1981, en lo que afecta a los zumos de uva, con independencia de lo legislado para estos productos en el Reglamento (CEE) 822/87, de 16 de marzo.
+
+Por otra parte, la presente disposición pretende establecer las características analíticas de estos productos en orden a conseguir la máxima garantía en cuanto a calidad y pureza.
+
+En su virtud, previo informe de la Comisión Interministerial para la Ordenación Alimentaria, a propuesta de los Ministerios de Economía y Hacienda, Sanidad y Consumo, y Agricultura, Pesca y Alimentación, y previa deliberación del Consejo de Ministros, en su reunión de 31 de julio de 1987,
+
+DISPONGO:
+
+## Art. 1.º
+
+Las definiciones de los productos contemplados en el presente Real Decreto son las siguientes:
+
+1\. Zumo de uva: El producto líquido no fermentado, pero capaz de fermentar, obtenido por los tratamientos adecuados para ser consumido en su estado se obtiene:
+
+a) A partir de uva fresca o de mosto de uva, definidos en los puntos 1 y 2, respectivamente, del anexo I del Reglamento (CEE) 822/87.
+
+b) Por reconstitución:
+
+De mosto de uva concentrado, obtenido de acuerdo con la definición mencionada en el punto 6 del anexo I del Reglamento (CEE) numero 822/87, de 16 de marzo, o
+
+De zumo de uva concentrado, obtenido restituyendo la proporción de agua extraída al zumo en el proceso de concentración; el agua que se añada debe presentar unas características apropiadas, en particular, desde los puntos de vista químico, microbiológico y organoléptico, de forma que se garanticen las cualidades esenciales del zumo y restituyendo también su aroma por medio de sustancias aromatizantes recuperadas al concentrar el zumo de uva de que se trata o el zumo de la misma especie y que presentan características organolépticas y analíticas equivalentes a las del zumo obtenido a partir de uvas de la misma especie.
+
+2\. Zumo de uva concentrado: El zumo de uva sin caramelizar obtenido por deshidratación parcial de zumo de uva, realizada por cualquier método autorizado, excepto el fuego directo, de modo que la indicación numérica dada por el refractómetro a la temperatura de 20º C y utilizado según el método previsto en el anexo III del Reglamento (CEE) número 543/86, de 28 de febrero («Diario Oficial» número L55, de 1 de marzo de 1986), no sea inferior al 50,9 por 100.
+
+3\. Zumo de uva deshidratado: El producto obtenido a partir de zumo de uva eliminando físicamente la casi totalidad del agua que lo constituye.
+
+## Art. 2.º
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.4 del Real Decreto 773/2023, de 3 de octubre. [Ref. BOE-A-2023-20563](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-20563)
+
+> Se derogan los apartados a), c), d) y e) por el art. 41 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se deroga un inciso del apartado a) por la disposición derogatoria única.40 del Real Decreto 145/1997, de 31 de enero. [Ref. BOE-A-1997-6156](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-6156)
+
+## Art. 3.º
+
+**(Derogado)**
+
+> Se deroga por el art. 41 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## Art. 4.º
+
+Se autoriza además para la fabricación del zumo de uva deshidratado, la deshidratación casi total del zumo de uva mediante un tratamiento o proceso físico, con exclusión del fuego directo, siendo obligatoria la restitución de los componentes aromáticos esenciales procedentes de la misma especie de uvas o recuperados eventualmente durante la deshidratación.
+
+## Art. 5.º
+
+Será de aplicación a estos productos la normativa que regula el etiquetado, presentación y publicidad de los productos alimenticios envasados, con las siguientes particularidades:
+
+1\. Con independencia de que la denominación del producto definido en el artículo 1.º, 1, a efectos de etiquetado, sea zumo de uva, se podrá incluir la palabra mosto en la marca comercial del mismo.
+
+2\. En el etiquetado de los productos definidos en los números 1 a 3 del artículo 1.º deberán incluirse obligatoriamente las menciones siguientes:
+
+a) Para zumo de uva obtenido total o parcialmente a partir de un zumo de uva concentrado, la mención «a base de zumo de uva concentrado»; esta mención deberá aparecer en proximidad a la denominación, de forma que resalte en relación con todo el contexto y en caracteres bien visibles.
+
+b) Para los productos definidos en los números 1 y 2 del artículo 1.º, cuyo contenido en anhídrido carbónico sea superior a 2 gramos por litro, la mención «gasificado».
+
+c) Para el zumo de uva concentrado y el zumo de uva deshidratado la cantidad de agua que debe añadirse para reconstituir el producto.
+
+3\. **(Derogado)**
+
+4.**(Derogado)**
+
+5\. **(Derogado)**
+
+6\. **(Derogado)**
+
+7\. En el etiquetado de los productos envasados figurará el número de Registro de Envasadores y Embotelladores a que se refiere la Ley 25/1970.
+
+8\. **(Derogado)**
+
+> Se derogan los apartados 3 a 6 y 8 por el art. 41 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## Art. 6.º
+
+Los productos definidos en el artículo 1.º, en los apartados 1, 2 y 3, una vez reconstituidos deberán cumplir las siguientes especificaciones técnicas:
+
+Grado brix: Superior a 16º a 20º C.
+
+Densidad relativa 20/20º: Superior a 1,065.
+
+Índice de formol: Superior a 9.
+
+Cenizas: Contenido superior a 1,4 gramos por litro.
+
+Acidez total: Comprendida entre 3,5 y 10 gramos por litro, expresada en ácido tartárico.
+
+Alcohol: Inferior a 1º.
+
+Azúcares totales: Contenido superior a 140 gramos por litro expresado en glucosa.
+
+Relación glucosa/fructosa: Comprendida entre 0,95 y 1,05.
+
+Fósforo: Contenido superior a 40 miligramos por litro.
+
+Nitrógeno total: contenido superior a 250 miligramos por litro.
+
+Potasio: Contenido superior a 400 miligramos por litro.
+
+Sulfatos: Contenido inferior a 1 gramo por litro, expresado en sulfato potásico.
+
+Magnesio: Contenido superior a 30 miligramos por litro.
+
+Prolina: Contenido superior a 150 miligramos por litro.
+
+Arsénico: **(Derogado)**
+
+Plomo: **(Derogado)**
+
+Cobre: **(Derogado)**
+
+Zinc: **(Derogado)**
+
+> Se derogan los límites establecidos para arsénico, plomo, cobre y zinc por el art. 41 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se modifica por el art. único del Real Decreto 1071/1991, de 14 de junio. [Ref. BOE-A-1991-17914](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-17914)
+
+## Art. 7.º
+
+**(Derogado)**
+
+> Se deroga por el art. 41 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## Disposición transitoria primera.
+
+La cantidad máxima de anhídrido sulfuroso a que se refiere el artículo 2.º, c), se amplía a 25 miligramos por litro durante los tres años siguientes a la fecha de entrada en vigor de esta disposición.
+
+## Disposición transitoria segunda.
+
+Durante el primer año de vigencia de la presente disposición no serán legalmente exigibles las cantidades de fósforo, potasio y magnesio recogidas en el artículo 6.º
+
+## Disposición derogatoria única.
+
+Quedan derogadas todas las normas de igual o inferior rango que se opongan a lo establecido en este Real Decreto.
+
+## Disposición final única.
+
+La presente disposición entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca a 31 de julio de 1987.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ

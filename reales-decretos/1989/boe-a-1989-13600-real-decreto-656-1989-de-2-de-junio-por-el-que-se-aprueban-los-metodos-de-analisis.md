@@ -1,0 +1,162 @@
+---
+title: "Real Decreto 656/1989, de 2 de junio, por el que se aprueban los métodos de análisis cuantitativos de mezclas binarias y terciarias de fibras textiles"
+identifier: "BOE-A-1989-13600"
+eli: "https://www.boe.es/eli/es/rd/1989/06/02/656"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1989-06-02
+published: 1989-06-15
+in_force_from: 1989-12-15
+last_amended: 2007-01-13
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 142"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1989-13600"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 656/1989, de 2 de junio, por el que se aprueban los métodos de análisis cuantitativos de mezclas binarias y terciarias de fibras textiles
+
+Esta norma se deroga en lo que se refiere a las mezclas binarias, con efectos de 14 de enero de 2007 y pasa a denominarse**"Real Decreto 656/1989, de 2 de junio, por el que se aprueban los métodos de análisis cuantitativos de mezclas ternarias de fibras textiles"**, según establece la disposición derogatoria única y la disposición final 1 del Real Decreto 4/2007, de 12 de enero. [Ref. BOE-A-2007-744](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-744).
+
+Como consecuencia de la adhesión de España a las Comunidades Europeas, y recogiendo los principios de la Directiva 71/307/CEE, del Consejo, de 26 de julio de 1971, se publicó por el Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno, el Real Decreto 928/1987, de 5 de junio, relativo al etiquetado de composición de los productos textiles.
+
+Siendo necesario para el control del cumplimiento del Real Decreto anteriormente mencionado, establecer unos métodos de análisis cuantitativos de mezclas binarias y ternarias de fibras textiles, adaptando así nuestra normativa a las exigencias de la legislación comunitaria, resulta necesario declarar oficiales los métodos establecidos por la Comunidad Europea mediante las Directivas 72/276/CEE y 73/44/CEE del Consejo, de 17 de julio de 1972 y de 26 de febrero de 1973, respectivamente, y sus posteriores modificaciones, con objeto de que la determinación de la composición en fibras de los productos textiles, tanto en lo que se refiere al tratamiento previo de la muestra como a su análisis cuantitativo, se efectúe a través de métodos uniformes.
+
+En su virtud, oída la Comisión Interministerial para la Ordenación Alimentaria, las Asociaciones de Consumidores y los Sectores Industriales afectados, a propuesta de los Ministros de Economía y Hacienda, de Industria y Energía y de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 2 de junio de 1989,
+
+DISPONGO:
+
+### Artículo 1.
+
+Se aprueba como oficiales los métodos de análisis cuantitativo de mezclas binarias y ternarias de fibras textiles establecidos en las Directivas que se citan en el anexo y el modelo de preparación de las muestras reducidas y de las muestras de análisis.
+
+A los efectos del Real Decreto 928/1987, de 5 de junio, se declaran de oligado cumplimiento los citados métodos de análisis.
+
+### Artículo 2.
+
+1\. Por muestra reducida se entiende una muestra de tamaño apropiado para los análisis, procedentes de muestras globales para laboratorio, tomadas a su vez de una partida de artículos para analizar.
+
+2\. Por muestra de análisis se entiende la porción de la muestra reducida necesaria para obtener un resultado analítico individual.
+
+### Artículo 3.
+
+Los laboratorios encargados de los controles de las mezclas binarias y ternarias de fibras textiles indicarán en su informe del análisis todos los datos mencionados en las Directivas de aplicación.
+
+### Artículo 4.
+
+Sin perjuicio de la potestad sancionadora de los Ministerios de Industria y Energía y de Economía y Hacienda, en el ejercicio de sus propias competencias, las actuaciones administrativas en materia de defensa del consumidor, en cuanto a la toma de muestras y análisis de los productos textiles se refiere, se regirán por lo dispuesto en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria.
+
+### Artículo 5.
+
+De acuerdo con el artículo anterior la recogida de muestras oficiales, de carácter global, para la realización de análisis se formalizará por triplicado según lo previsto en el artículo 15 del citado Real Decreto 1945/1983.
+
+A tales efectos, cada muestra constará de una cantidad de producto que, al menos, tenga un peso de 50 gramos. En artículos de peso superior a los 150 gramos, los servicios oficiales de inspección podrán constituir cada muestra por partición del artículo, procurando que cada una de ellas sea lo más homogénea posible en relación al producto total.
+
+Para artículos con menor peso al descrito, se procederá a la toma de tres unidades iguales.
+
+## DISPOSICIÓN ADICIONAL
+
+Lo dispuesto en el presente Real Decreto tendrá eficacia supletoria en aquellas Comunidades Autónomas que hayan asumido competencia normativa en materia de protección del consumidor y usuario.
+
+## DISPOSICIONES FINALES
+
+### Primera.
+
+Se faculta a los Ministros de Economía y Hacienda, Industria y Energía y de Sanidad y Consumo, por Orden conjunta para modificar el anexo, a fin de adaptarlo a las disposiciones de las Directivas que puedan dictarse en el futuro, así como, para establecer las fechas a partir de las cuales serán de obligado cumplimiento sus disposiciones.
+
+### Segunda.
+
+El presente Real Decreto entrará en vigor a los seis meses de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 2 de junio de 1989.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ
+
+## ANEXO
+
+<table>
+<tr>
+<td>
+<p>Número y fecha de la Directiva</p>
+</td>
+<td>
+<p>Fecha de su publicación en el «Diario Oficial de las Comunidades Europeas»</p>
+</td>
+<td>
+<p>Referencia a la edición especial publicada en español. Política industrial y mercado interior (13)</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>1. Métodos de análisis cuantitativos de mezclas binarias de fibras textiles</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72/276, de 17 de julio.</p>
+</td>
+<td>
+<p>31 de julio de 1972.</p>
+</td>
+<td>
+<p>Volumen 2, página 127.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79/76, de 21 de diciembre de 1978.</p>
+</td>
+<td>
+<p>24 de enero de 1979.</p>
+</td>
+<td>
+<p>Volumen 9, página 158.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>81/75, de 17 de febrero.</p>
+</td>
+<td>
+<p>4 de marzo de 1981.</p>
+</td>
+<td>
+<p>Volumen 11, página 163.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>87/184, de 6 de febrero.</p>
+</td>
+<td>
+<p>17 de marzo de 1987 (N.º L75, página 21).</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>2. Métodos de análisis cuantitativos de mezclas ternarias de fibras textiles</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>73/44, de 26 de febrero.</p>
+</td>
+<td>
+<p>30 de marzo de 1973.</p>
+</td>
+<td>
+<p>Volumen 2, página 187.</p>
+</td>
+</tr>
+</table>

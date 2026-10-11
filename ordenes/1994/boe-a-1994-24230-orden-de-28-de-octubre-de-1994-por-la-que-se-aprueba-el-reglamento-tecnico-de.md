@@ -1,0 +1,763 @@
+---
+title: "Orden de 28 de octubre de 1994 por la que se aprueba el Reglamento Técnico de Control de la Producción y Comercialización de Plantones de Hortalizas y Material de Multiplicación de Hortalizas distinto de las semillas"
+identifier: "BOE-A-1994-24230"
+eli: "https://www.boe.es/eli/es/o/1994/10/28/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1994-10-28
+published: 1994-11-04
+in_force_from: 1994-11-05
+last_amended: 2025-05-30
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 264"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-24230"
+retrieved: 2026-10-11
+---
+
+# Orden de 28 de octubre de 1994 por la que se aprueba el Reglamento Técnico de Control de la Producción y Comercialización de Plantones de Hortalizas y Material de Multiplicación de Hortalizas distinto de las semillas
+
+La Directiva 92/33/CEE del Consejo, de 28 de abril de 1992, relativa a la comercialización de plantones de hortalizas y de materiales de multiplicación de hortalizas, distintos de las semillas, se ha transpuesto, parcialmente, a nuestro derecho mediante el Real Decreto 2273/1993, de 22 de diciembre, por el que se modifica el Reglamento General sobre producción de semillas y plantas de vivero. Debido a ello, se hace necesario que dicha Directiva se transponga en su integridad. Igualmente se deben incorporar la Directiva 93/61/CEE, de 2 de julio de 1993, por la que se establecen las fichas que contienen las condiciones que deben cumplir los plantones y materiales de multiplicación de hortalizas, distintos de las semillas, de conformidad con la Directiva 92/33/CEE; y la Directiva 93/62/CEE, de 5 de julio de 1993, por la que se establecen las disposiciones de aplicación para la vigilancia y el control de los proveedores y establecimientos en el marco de la Directiva 92/33/CEE.
+
+Por ello, debido a las materias tan específicas que se regulan en estas Directivas y dada la urgencia de que sean transpuestas a nuestro derecho, su incorporación se realiza mediante esta Orden.
+
+En su virtud, dispongo:
+
+## Artículo 1.
+
+La presente Orden regula la producción y comercialización de los plantones de hortalizas y de los materiales de multiplicación de hortalizas distintos de las semillas, de los géneros y especies que se citan en el anexo I, así como de sus híbridos y de los portainjertos y otras partes de plantas de otros géneros o especies, o de sus híbridos, si se injerta o si se debe injertar en ellos materiales de los géneros o especies citados en el anexo I, o de sus híbridos.
+
+## Artículo 2. Excepciones al ámbito de aplicación.
+
+La presente orden no se aplicará a los materiales de multiplicación ni a los plantones de hortalizas, cuando se demuestre que están destinados a la exportación a países que no pertenezcan a la Unión Europea, siempre que se hallen correctamente identificados y adecuadamente aislados, sin perjuicio de las normas fitosanitarias fijadas en el Reglamento (UE) 2016/2031 del Parlamento Europeo y del Consejo, de 26 de octubre de 2016, relativo a las medidas de protección contra las plagas de los vegetales, y en los actos de ejecución adoptados con arreglo a dicho Reglamento, incluyendo el Reglamento de Ejecución (UE) 2019/2072 de la Comisión, de 28 de noviembre de 2019, por el que se establecen condiciones uniformes para la ejecución del Reglamento (UE) 2016/2031 del Parlamento Europeo y del Consejo en lo que se refiere a las medidas de protección contra las plagas de los vegetales, se deroga el Reglamento (CE) n.º 690/2008 de la Comisión y se modifica el Reglamento de Ejecución (UE) 2018/2019 de la Comisión; y en el Real Decreto 739/2021, de 24 de agosto, por el que se dictan disposiciones para la aplicación en España de la normativa de la Unión Europea relativa a las medidas de protección contra las plagas de los vegetales y los controles y otras actividades oficiales en dicha materia.
+
+> Se modifica, con efectos de 2 de enero de 2024, por el art. único.1 de la Orden APA/1322/2023, de 4 de diciembre. [Ref. BOE-A-2023-25113](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25113)
+
+## Artículo 3.
+
+A efectos de la presente Orden se entenderá por:
+
+a) Materiales de multiplicación: Las partes de plantas y cualquier material vegetal incluidos los portainjertos, destinados a la multiplicación y producción de plantas de hortalizas.
+
+b) Plantones: Las plantas enteras y las partes de plantas, incluido el injerto, destinados a ser plantados para la producción de hortalizas.
+
+c) Proveedor: cualquier persona física o jurídica que ejerza profesionalmente, al menos, una de las actividades siguientes, en relación con los materiales de multiplicación o con los plantones de hortalizas: reproducción, producción, protección, tratamiento, envasado, almacenaje y comercialización (incluida la importación) o puesta en el mercado.
+
+Atendiendo a la actividad principal que realizan, los proveedores se clasifican en:
+
+1.º Productor: el que realiza la actividad de producción y puede realizar, además, cualquiera de las señaladas para los demás proveedores.
+
+2.º Comerciante: el que realiza la actividad de importación, almacenamiento o comercialización o puesta en el mercado.
+
+d) Comercialización o puesta en el mercado: Mantener disponible o en almacén, exponer u ofrecer en venta, vender o entregar a otra persona, sea cual fuere la forma en que se realice, materiales de multiplicación o plantones de hortalizas.
+
+e) Organismo oficial responsable:
+
+La Dirección General de Producciones y Mercados Agrarios, a través de la Subdirección General de Medios de Producción Agrícola y Oficina Española de Variedades Vegetales, respecto a la ordenación y coordinación en materia de control y certificación de semillas y plantas de vivero.
+
+Los órganos competentes de las comunidades autónomas, respecto a la ejecución de las operaciones necesarias para el control y certificación correspondiente.
+
+f) Medidas oficiales: Las medidas adoptadas por el organismo oficial responsable.
+
+g) Inspección oficial: La inspección efectuada por el organismo oficial responsable.
+
+h) Declaración oficial: La declaración hecha por el organismo oficial responsable o bajo su responsabilidad.
+
+i) Lote: Una cantidad determinada de elementos de un único producto de los incluidos en los apartados a) y b) de este artículo, identificable por la homogeneidad de su composición y de su origen.
+
+j) Laboratorio: Una entidad de derecho público o privado que efectúe análisis y establezca diagnósticos correctos que permitan al proveedor controlar la calidad de la producción.
+
+> Se modifican las letras c) y e), con efectos de 2 de enero de 2024, por el art. único.2 y 3 de la Orden APA/1322/2023, de 4 de diciembre. [Ref. BOE-A-2023-25113](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25113)
+
+## Artículo 4. Requisitos.
+
+1\. En el presente artículo se establecen los requisitos que deben cumplir, independientemente del sistema de multiplicación utilizado, los plantones y el material de multiplicación de hortalizas que pertenezcan a los géneros o especies mencionados en el anexo I, o los portainjertos de otros géneros o especies, en caso de que se injerten o deban injertarse en ellos materiales de uno de los géneros o especies mencionados.
+
+2\. El material deberá tener adecuada identidad y pureza con relación al género o especie de que se trate y tendrá también una identidad y pureza suficientes en cuanto a la variedad, salvo que no exista Registro de Variedades para la especie en concreto.
+
+3\. El material deberá estar sustancialmente libre de cualquier defecto que pueda mermar su utilidad como material de multiplicación o de plantación.
+
+4\. El vigor y tamaño del material serán satisfactorios en relación con su valor de utilización, como material de multiplicación o de plantación. Además, cuando corresponda, deberá existir un equilibrio adecuado entre raíces, tallos y hojas.
+
+5\. El referido material deberá cumplir, cuando sea aplicable, las condiciones fitosanitarias pertinentes establecidas en el Real Decreto 739/2021, de 24 de agosto, en el Reglamento (UE) 2016/2031 del Parlamento Europeo y del Consejo, de 26 de octubre de 2016, y en el Reglamento de Ejecución (UE) 2019/2072 de la Comisión, de 28 de noviembre de 2019.
+
+6\. Al menos mediante inspección visual, los plantones y materiales de multiplicación de hortalizas en el lugar de producción estarán prácticamente libres de todas las plagas enumeradas en el anexo II con respecto a los materiales de multiplicación y plantones correspondientes.
+
+7\. La presencia de plagas reguladas no cuarentenarias en plantones y materiales de multiplicación de hortalizas destinados a la comercialización no excederá, al menos mediante inspección visual, de los umbrales correspondientes establecidos en el anexo II.
+
+8\. Mediante inspección visual, los plantones y materiales de multiplicación de hortalizas estarán prácticamente libres de cualquier plaga, distinta de las enumeradas en el anexo II con respecto a los plantones y materiales de multiplicación correspondientes, que reduzca su utilidad y calidad.
+
+9\. Los plantones y materiales de multiplicación de hortalizas también cumplirán los requisitos relativos a las plagas cuarentenarias de la Unión, las plagas cuarentenarias de zonas protegidas y las plagas reguladas no cuarentenarias contempladas en el Reglamento (UE) 2016/2031 del Parlamento Europeo y del Consejo y en los actos de ejecución adoptados con arreglo a dicho Reglamento, incluidas las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
+
+> Se modifican los apartados 2 y 5, con efectos de 2 de enero de 2024, por el art. único.4 y 5 de la Orden APA/1322/2023, de 4 de diciembre. [Ref. BOE-A-2023-25113](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25113)
+
+> Se modifica por el art. 2 de la Orden APA/455/2020, de 26 de mayo. [Ref. BOE-A-2020-5413](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5413)
+
+## Artículo 5.
+
+1\. Los proveedores tomarán las medidas necesarias para garantizar el cumplimiento de las normas fijadas por la presente Orden, en todas las etapas de la producción y comercialización de los materiales de multiplicación y de los plantones de hortalizas. Con dicha finalidad, los proveedores, bien por ellos mismos o en su caso, en colaboración con otro proveedor o con el organismo oficial responsable, deberán efectuar controles que estén basados en los principios siguientes:
+
+a) Identificación de los puntos críticos de su proceso de producción, en función de los métodos de producción utilizados, teniendo en cuenta principalmente los que a continuación se relacionan:
+
+1.º La calidad del material de multiplicación y de plantación utilizado para iniciar el proceso de producción.
+
+2.º La siembra, trasplante, enmacetado y plantación del material de multiplicación y de plantación.
+
+3.º El cumplimiento de las condiciones fitosanitarias establecidas en el Reglamento (UE) 2016/2031 del Parlamento Europeo y del Consejo, de 26 de octubre de 2016, y en los actos de ejecución adoptados con arreglo a dicho reglamento.
+
+4.º El plan y método de cultivo.
+
+5.º El cuidado general del cultivo.
+
+6.º Las operaciones de multiplicación.
+
+7.º Las operaciones de recolección.
+
+8.º La higiene.
+
+9.º Los tratamientos.
+
+10.º El envasado.
+
+11.º El almacenamiento.
+
+12.º El transporte.
+
+13.º La administración.
+
+b) Elaboración y puesta en marcha de métodos de vigilancia y de control, cuando proceda, de los puntos críticos anteriormente citados, debiendo tener en cuenta:
+
+La disponibilidad y utilización real de dichos métodos para controlar cada uno de los referidos puntos críticos.
+
+La fiabilidad de los citados métodos.
+
+Su idoneidad para evaluar el contenido de las modalidades de producción y comercialización, incluyendo los aspectos administrativos.
+
+La competencia del personal del proveedor para realizar los controles.
+
+c) Toma de muestras cuando corresponda, las cuales deberán analizarse, siempre que sea necesario, en un laboratorio autorizado a tal efecto por el organismo oficial responsable con objeto de comprobar que cumplen las normas establecidas en la presente Orden, debiendo asegurar que:
+
+Las muestras se tomarán durante las distintas fases del proceso de producción y de acuerdo con la frecuencia que se establezca por dicho organismo, cuando se comprueben los métodos de producción al concederse la autorización del proveedor.
+
+El muestreo se realizará de forma técnicamente correcta y siguiendo un procedimiento estadísticamente fiable, teniendo en cuenta el tipo de análisis a efectuar.
+
+Las personas que tomen las muestras serán competentes para ello.
+
+d) Anotación por escrito o realizada por algún otro medio que garantice una conservación duradera de los datos mencionados en a), b) y c) anteriores y mantenimiento de un registro de la producción y de la comercialización de los plantones y materiales de multiplicación que estarán a disposición del organismo oficial responsable. Estos registros así como los documentos que los acrediten se conservarán durante un período de un año como mínimo y, especialmente, contendrán información completa sobre:
+
+El material comprado para su almacenamiento o plantación en sus instalaciones, en proceso de producción o expedido a otros.
+
+Cualquier tratamiento químico que haya sido aplicado al material.
+
+No obstante los proveedores cuya actividad en este ámbito se limite a la mera distribución de materiales de multiplicación y de plantones de hortalizas producidos y envasados fuera de su establecimiento, deberán únicamente llevar un registro o conservar pruebas duraderas de las operaciones de compra, venta o entrega de tales productos.
+
+e) Colaborar con el organismo oficial responsable en cuanto se refiere a su actividad y al control oficial correspondiente y especialmente:
+
+Encargarse personalmente o designar otra persona preparada técnicamente en la producción de estos materiales y en cuestiones fitosanitarias para relacionarse con dicho organismo.
+
+Efectuar, siempre que sea necesario y en los momentos oportunos, inspecciones visuales, en la forma autorizada por el referido organismo.
+
+Facilitar a las personas facultades para actuar en nombre de dicho organismo al acceso a los registros indicados en el punto d) anterior y a los correspondientes documentos, especialmente para fines de inspección o de muestreo.
+
+El presente apartado 1 no se aplicará a los proveedores cuya actividad en este ámbito se limite a la entrega de pequeñas cantidades de materiales de multiplicación y de plantones de hortalizas a consumidores finales no profesionales.
+
+2\. Cuando, como consecuencia de sus propios controles o de las informaciones de que dispongan, los proveedores comprobasen la presencia de uno o varios de los organismos nocivos contemplados en el artículo 4 de esta Orden, informarán de ello inmediatamente al organismo oficial responsable y tomarán las medidas que éste les indique, o cualquier otra medida necesaria para reducir el riesgo de diseminación de dichos organismos nocivos. Los proveedores llevarán un registro de todos los organismos nocivos que hayan aparecido en sus establecimientos y de todas las medidas que se hayan adoptado al respecto.
+
+> Se modifica la letra a) del apartado 1, con efectos de 2 de enero de 2024, por el art. único.6 de la Orden APA/1322/2023, de 4 de diciembre. [Ref. BOE-A-2023-25113](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25113)
+
+## Artículo 6. Registro y seguimiento de proveedores y categorías de productores.
+
+1\. Los proveedores de materiales de multiplicación de hortalizas y plantones de hortalizas deberán estar registrados conforme al Real Decreto 1054/2021, de 30 de noviembre, por el que se establecen y regulan el Registro de operadores profesionales de vegetales, las medidas a cumplir por los operadores profesionales autorizados a expedir pasaportes fitosanitarios y las obligaciones de los operadores profesionales de material vegetal de reproducción, y se modifican diversos reales decretos en materia de agricultura, y cumplir los requisitos especificados en el mismo para cada clase y tipología de operador, según corresponda.
+
+2\. Se admiten las siguientes categorías de productor:
+
+1.º Productor multiplicador.
+
+2.º Productor procesador.
+
+3\. La vigilancia y el control de los proveedores, establecimientos y laboratorios se efectuará con regularidad y, al menos, una vez al año, por el organismo oficial responsable o bajo su responsabilidad, para poder garantizar el cumplimiento de las disposiciones de la presente orden y, en particular, las condiciones indicadas en el artículo 5.
+
+> Se modifica, con efectos de 2 de enero de 2024, por el art. único.7 de la Orden APA/1322/2023, de 4 de diciembre. [Ref. BOE-A-2023-25113](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25113)
+
+## Artículo 7.
+
+1\. Los materiales de multiplicación y los plantones de hortalizas sólo podrán ser comercializados por proveedores autorizados y siempre que cumplan los requisitos establecidos en el artículo 4.
+
+2\. El apartado 1, excepto en lo que refiere al apartado 5 del artículo 4, no se aplicará a los materiales de multiplicación de hortalizas y plantones de hortalizas destinados a uno o varios de los fines siguientes:
+
+a) Pruebas o fines científicos.
+
+b) Labores de selección.
+
+c) Medidas encaminadas a la conservación de la diversidad genética.
+
+> Se modifica el apartado 2, con efectos de 2 de enero de 2024, por el art. único.8 de la Orden APA/1322/2023, de 4 de diciembre. [Ref. BOE-A-2023-25113](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25113)
+
+## Artículo 8. Materiales de multiplicación y los plantones de hortalizas que pertenezcan a los géneros y especies enumerados en el anexo I.
+
+1\. Sin perjuicio de lo dispuesto en el artículo 2, los materiales de multiplicación y los plantones de hortalizas que pertenezcan a los géneros y especies enumerados en el anexo I y que entren también en el ámbito de la Orden de 1 de julio de 1986 por la que se aprueba el Reglamento Técnico de Control y Certificación de Semillas de Plantas Hortícolas, solo se podrán comercializar cuando pertenezcan a una variedad admitida, de conformidad con la normativa relativa al registro de variedades comerciales, en el caso de que exista registro de variedades para la especie.
+
+2\. Sin perjuicio de lo dispuesto en el artículo 2, los materiales de multiplicación y los plantones de hortalizas que pertenezcan a géneros o especies citados en el anexo I y que no estén contemplados en el reglamento antes citado, sólo podrán comercializarse cuando pertenezcan a una variedad que esté admitida oficialmente en, al menos, un Estado miembro de la Unión Europea, salvo que no existiera registro de variedades para la especie.
+
+Por lo que se refiere a los procedimientos y formalidades relativos a la admisión, a las condiciones de admisión y a la selección conservadora serán aplicables los requisitos establecidos en la normativa relativa al registro de variedades comerciales.
+
+> Se modifica, con efectos de 2 de enero de 2024, por el art. único.9 de la Orden APA/1322/2023, de 4 de diciembre. [Ref. BOE-A-2023-25113](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25113)
+
+## Artículo 9.
+
+1\. Durante el cultivo, así como en el arranque o la extracción de injertos del material parental, tanto los materiales de multiplicación como los plantones de hortalizas se mantendrán en lotes separados.
+
+2\. Si durante el envasado, el almacenamiento, el transporte o la entrega, se juntaran o mezclaran materiales de multiplicación o plantones de distintas procedencias, el proveedor conservará los datos correspondientes a la composición del lote y al origen de sus distintos componentes.
+
+3\. El cumplimiento de lo dispuesto en los apartados 1 y 2 anteriores, se comprobará mediante controles oficiales.
+
+## Artículo 10. Comercialización.
+
+1\. Sin perjuicio de lo dispuesto en el apartado 2 del artículo 9, los materiales de multiplicación y los plantones de hortalizas sólo se comercializarán en lotes homogéneos.
+
+2\. Los materiales de multiplicación y los plantones de hortalizas puestos en el mercado deberán cumplir los requisitos de la presente orden. Además, las unidades comerciales deberán ir provistas de una etiqueta expedida por el productor, que sea de material adecuado, que no haya sido usada previamente, y en el que se indicará la información siguiente:
+
+a) Indicación: “Calidad UE”.
+
+b) Indicación: “España”.
+
+c) Nombre, logo o código de identificación del organismo oficial responsable del control de ese material.
+
+d) Código de registro ROPVEG del productor.
+
+e) Nombre del productor.
+
+f) Número individual de serie o lote.
+
+g) Fecha de expedición del documento y/o fecha de precintado.
+
+h) Número de referencia del lote de semillas, cuando se trate de plantones procedentes directamente de semillas comercializadas con arreglo a la Orden de 1 de julio de 1986 por la que se aprueba el Reglamento Técnico de Control y Certificación de Semillas de Plantas Hortícolas.
+
+i) Nombre común y nombre botánico.
+
+j) Denominación de la variedad, en su caso. En el caso de los portainjertos, denominación de la variedad o su designación.
+
+k) Cantidad (peso bruto /peso neto/unidades).
+
+l) Tratamientos aplicados al material, en su caso.
+
+m) Cuando se trate de importaciones procedentes de terceros países, el nombre del país de producción y los datos del importador.
+
+El productor podrá optar por indicar esta información en un documento de acompañamiento, siempre y cuando la etiqueta contenga, como mínimo, la información exigida en las letras d), f) i) y j). Si en dicho documento figurara otra información diferente a la exigida, ésta deberá distinguirse claramente.
+
+Esta etiqueta deberá ser substituida cuando la partida identificada por el mismo se divida o se combine con otra por causas comerciales o cuando sea necesario proceder a una reselección para poder comercializar la partida, por haberse producido modificaciones que afecten a su calidad, en relación con los requisitos y condiciones establecidas en el artículo 4.
+
+En la nueva etiqueta deberá indicarse además de los datos mencionados anteriormente, el nombre del productor actual y el del organismo oficial responsable junto con la palabra “Reenvasado”.
+
+3\. Todo el material de multiplicación y los plantones de hortalizas destinado a plantación deben ir acompañados de un pasaporte fitosanitario conforme a lo dispuesto en el artículo 13 del Reglamento de Ejecución (UE) 2019/2072, de 28 de noviembre de 2019, según el formato definido en el Reglamento de Ejecución (UE) 2017/2313 de la Comisión, de 13 de diciembre de 2017, por el que se establecen las especificaciones de formato del pasaporte fitosanitario para los traslados en el territorio de la Unión y del pasaporte fitosanitario para la introducción y los traslados en una zona protegida. El pasaporte fitosanitario podrá constituir, si el productor lo desea, la etiqueta expedida por el productor a que se refiere el apartado 2, siempre y cuando en la etiqueta figure, además y claramente separada de la información requerida para el pasaporte fitosanitario, la información del citado apartado que no se contemple en el pasaporte fitosanitario.
+
+4\. En el caso de un productor minorista cuya actividad se limita exclusivamente al suministro de materiales de multiplicación o plantones de hortalizas a un consumidor final no profesional, la información exigida en los apartados 2 y 3 anteriores podrá quedar reducida a las letras d), f), i) y j) del apartado 2.
+
+> Se modifica, con efectos de 2 de enero de 2024, por el art. único.10 de la Orden APA/1322/2023, de 4 de diciembre. [Ref. BOE-A-2023-25113](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25113)
+
+## Artículo 11. Países terceros.
+
+Para poder introducir en el Reino de España material de multiplicación y plantones de hortalizas producidos en un país tercero, deberán ofrecer las mismas garantías que los producidos en España.
+
+Las mercancías comercializadas legalmente en otro Estado miembro de la Unión Europea o en Turquía, u originarias de un Estado de la AELC signatario del Acuerdo EEE y comercializadas legalmente en él, se consideran conformes con la presente medida. La aplicación de la presente medida está sujeta al Reglamento (UE) 2019/515 del Parlamento Europeo y del Consejo, de 19 de marzo de 2019, relativo al reconocimiento mutuo de mercancías comercializadas legalmente en otro Estado miembro y por el que se deroga el Reglamento (CE) n.° 764/2008.
+
+En cuanto a la tramitación y documentación necesarias para efectuar importaciones y exportaciones de dicho material, se aplicará lo dispuesto en la Orden de 23 de mayo de 1986 por la que se aprueba el Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, además de lo establecido al respecto en el Reglamento (UE) 2016/2031 del Parlamento Europeo y del Consejo, de 26 de octubre de 2016, y en los actos de ejecución adoptados con arreglo a dicho Reglamento y en el Real Decreto 739/2021, de 24 de agosto; y en el Real Decreto 387/2021, de 1 de junio, por el que se regula el régimen de certificación fitosanitaria oficial para la exportación de vegetales y productos vegetales y se modifica el Real Decreto 58/2005, de 21 de enero, por el que se adoptan medidas de protección contra la introducción y difusión en el territorio nacional y de la Comunidad Europea de organismos nocivos para los vegetales o productos vegetales, así como para la exportación y tránsito hacia países terceros.
+
+> Se modifica, con efectos de 2 de enero de 2024, por el art. único.11 de la Orden APA/1322/2023, de 4 de diciembre. [Ref. BOE-A-2023-25113](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25113)
+
+## Artículo 12.
+
+El organismo oficial responsable realizará controles y toma de muestras durante los procesos de producción y comercialización de los materiales de multiplicación y de los plantones de hortalizas, mediante sondeo, con el fin de verificar que se cumplen los requisitos y condiciones establecidos en la presente Orden.
+
+## Artículo 13. Incumplimiento de los requisitos.
+
+1\. Si durante la vigilancia y el control previstos en el apartado 3 del artículo 6, o durante la inspección oficial establecida en el artículo 12, o bien en los ensayos previstos en el artículo 14, se comprobara que el material de multiplicación o los plantones de hortalizas no cumplen los requisitos de la presente orden, el organismo oficial responsable tomará todas las medidas adecuadas para garantizar su conformidad con dichos requisitos, o bien, si esto no fuera posible, para que se prohíba la comercialización de dicho material de multiplicación y de dichos plantones de hortalizas.
+
+2\. Si se comprobara que el material de multiplicación o los plantones de hortalizas comercializados por un proveedor determinado no cumplen los requisitos y condiciones de la presente orden, el organismo oficial responsable tomará las medidas apropiadas con respecto a dicho proveedor. Las posibles infracciones y sanciones en la producción y comercialización de plantones y material de multiplicación de hortalizas se clasificarán y aplicarán de acuerdo con lo preceptuado en la Ley 30/2006, de 26 de julio, de semillas y plantas de vivero y recursos fitogenéticos, en disposiciones complementarias y, con carácter subsidiario, con lo establecido en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agro-alimentaria.
+
+3\. Si se prohibiera a dicho proveedor comercializar materiales de propagación y plantones de hortalizas, el Ministerio de Agricultura, Pesca y Alimentación informará de ello a la Comisión Europea y a los organismos nacionales competentes de los demás Estados miembros. Se suspenderán estas medidas tan pronto como se determine, con la debida certeza, que los materiales de multiplicación o los plantones de hortalizas destinados a la comercialización por dicho proveedor cumplirán en el futuro los requisitos y condiciones de la presente orden.
+
+> Se modifica, con efectos de 2 de enero de 2024, por el art. único.12 de la Orden APA/1322/2023, de 4 de diciembre. [Ref. BOE-A-2023-25113](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25113)
+
+## Artículo 14.
+
+Con objeto de comprobar que el material de multiplicación y los plantones de hortalizas producidos o comercializados en España cumplen los requisitos de la presente Orden, incluidos los de carácter fitosanitario, se llevarán a cabo ensayos de poscontrol.
+
+## Artículo 15.
+
+Si como consecuencia de una inspección oficial se comprobara que los materiales de multiplicación o los plantones de hortalizas no pueden ser comercializados por no cumplir alguna condición de carácter fitosanitario, el organismo oficial responsable adoptará las medidas adecuadas para eliminar cualquier riesgo fitosanitario que pudiera producirse.
+
+## Artículo 16. Declaraciones anuales.
+
+Los proveedores deberán efectuar, según lo recogido en el Real Decreto 1054/2021, de 30 de noviembre, una declaración anual de las cantidades producidas y de las comercializadas de los materiales de multiplicación o plantones de hortalizas, indicando el género, especie y variedad (en su caso), para confeccionar las estadísticas nacionales y facilitar la información prevista en la normativa comunitaria.
+
+La mencionada declaración deberá enviarse al órgano competente de la comunidad autónoma correspondiente, el cual remitirá a la Dirección General de Producciones y Mercados Agrarios (Subdirección General de Medios de Producción Agrícola y Oficina Española de Variedades Vegetales) los datos que figuran en las citadas declaraciones.
+
+> Se modifica, con efectos de 2 de enero de 2024, por el art. único.13 de la Orden APA/1322/2023, de 4 de diciembre. [Ref. BOE-A-2023-25113](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25113)
+
+## Disposición final primera. Título competencial.
+
+La presente orden se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+> Se añade, con efectos de 2 de enero de 2024, por el art. único.16 de la Orden APA/1322/2023, de 4 de diciembre. [Ref. BOE-A-2023-25113](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25113)
+
+## Disposición final segunda.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+> Se numera, con efectos de 2 de enero de 2024, por el art. único.16 de la Orden APA/1322/2023, de 4 de diciembre. [Ref. BOE-A-2023-25113](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25113)
+
+> Su anterior denominación era disposición final única.
+
+Madrid, 28 de octubre de 1994.
+
+ATIENZA SERNA
+
+Ilmos. Sres. Secretario general de Producciones y Mercados Agrarios y Director general de Producciones y Mercados Agrícolas.
+
+## ANEXO I — Lista de los géneros y especies contemplados en el artículo 1
+
+*Allium cepa* L.:
+
+– Grupo Cepa (Cebolla).
+
+– Grupo Aggregatum (Chalota).
+
+*Allium fistulosum* L. (Cebolleta):
+
+– Todas las variedades.
+
+*Allium porrum* L. (Puerro):
+
+– Todas las variedades.
+
+*Allium sativum* L. (Ajo):
+
+– Todas las variedades.
+
+*Allium schoenoprasum* L. (Cebollino):
+
+– Todas las variedades.
+
+*Anthriscus cerefolium* (L.) Hoffm. (Perifollo):
+
+– Todas las variedades.
+
+*Apium graveolens* L. (Apio):
+
+– Grupo Apio.
+
+– Grupo Apionabo.
+
+*Asparagus officinalis* L. (Espárrago):
+
+– Todas las variedades.
+
+*Beta vulgaris* L.:
+
+– Grupo Remolacha.
+
+– Grupo Acelga.
+
+*Borrago officinalis* L. (Borraja).
+
+*Brassica oleracea* L.:
+
+– Grupo Col rizada.
+
+– Grupo Coliflor.
+
+– Grupo Capitata (lombarda y repollo).
+
+– Grupo Col de Bruselas.
+
+– Grupo Colirrábano.
+
+– Grupo Col de Milán.
+
+– Grupo Brécol (bróculi o brécol).
+
+– Grupo Col negra.
+
+– Grupo Berza.
+
+*Brassica rapa* L.:
+
+– Grupo Col de China.
+
+– Grupo Nabo.
+
+*Capsicum annuum* L. (Pimientos y guindillas):
+
+– Todas las variedades.
+
+*Cicer arietinum* L. (partim) Garbanzo.
+
+*Cichorium endivia* L. (Escarola):
+
+– Todas las variedades.
+
+*Cichorium intybus* L.:
+
+– Grupo Endivia.
+
+– Grupo Achicoria común (incluida la achicoria roja).
+
+– Grupo Achicoria industrial (raíz).
+
+*Citrullus lanatus* (Thunb.) Matsum. et Nakai (Sandía):
+
+– Todas las variedades.
+
+*Crocus sativus L.*(Azafrán).
+
+– Todas las variedades.
+
+*Cucumis melo* L. (Melón):
+
+– Todas las variedades.
+
+*Cucumis sativus* L.:
+
+– Grupo Pepino.
+
+– Grupo Pepinillo.
+
+*Cucurbita maxima* Duchesne (Calabaza gigante):
+
+– Todas las variedades.
+
+*Cucurbita pepo* L. (Calabazas, como la calabaza bonetera, y calabacines):
+
+– Todas las variedades.
+
+*Cynara cardunculus* L.:
+
+– Grupo Alcachofa.
+
+– Grupo Cardo.
+
+*Daucus carota* L. (Zanahoria de mesa y zanahoria forrajera):
+
+– Todas las variedades.
+
+*Foeniculum vulgare* Mill. (Hinojo):
+
+– Grupo Azoricum.
+
+*Lactuca sativa* L. (Lechuga):
+
+– Todas las variedades.
+
+*Lens culinaris* L. (partim) Lenteja.
+
+*Petroselinum crispum* (Mill.) Nyman ex A. W. Hill:
+
+– Grupo Perejil de hoja.
+
+– Grupo Perejil tuberoso.
+
+*Phaseolus coccineus* L. (Judía escarlata o judía de España):
+
+– Todas las variedades.
+
+*Phaseolus vulgaris* L.:
+
+– Grupo Judía de mata baja.
+
+– Grupo Judía de enrame.
+
+*Pisum sativum* L.:
+
+– Grupo Guisante de grano liso redondo.
+
+– Grupo Guisante de grano rugoso.
+
+– Grupo Guisante cometodo.
+
+*Raphanus sativus* L.:
+
+– Grupo Rábano o rabanito.
+
+– Grupo Rábano negro.
+
+*Rheum rhabarbarum* L. (Ruibarbo):
+
+– Todas las variedades.
+
+*Scorzonera hispanica* L. (Escorzonera o salsifí negro):
+
+– Todas las variedades.
+
+*Solanum lycopersicum* L. (Tomate):
+
+– Todas las variedades.
+
+*Solanum melongena* L. (Berenjena):
+
+– Todas las variedades.
+
+*Spinacia oleracea* L. (Espinaca):
+
+– Todas las variedades.
+
+*Tragopogon porrifolium* L. (Salsifí blanco).
+
+*Valerianella locusta* (L.) Laterr. (Canónigo o hierba de los canónigos):
+
+– Todas las variedades.
+
+*Vicia faba* L. (Haba):
+
+– Todas las variedades.
+
+*Zea mays* L.:
+
+– Grupo Maíz dulce.
+
+– Grupo Maíz para palomitas.
+
+> Se modifica, con efectos de 2 de enero de 2024, por el art. único.14 de la Orden APA/1322/2023, de 4 de diciembre. [Ref. BOE-A-2023-25113](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25113)
+
+> Se modifica por el art. 2.2 de la Orden APA/455/2020, de 26 de mayo. [Ref. BOE-A-2020-5413](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5413)
+
+> Se modifica por el art. 4 de la Orden AAA/198/2014, de 12 de febrero. [Ref. BOE-A-2014-1647](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1647).
+
+> Se modifica por el art. 2 de la Orden APA/1818/2007, de 13 de junio. [Ref. BOE-A-2007-12197](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12197)
+
+## ANEXO II — Plagas reguladas no cuarentenarias que afectan a los plantones y materiales de multiplicación de hortalizas
+
+<table>
+<thead>
+<tr>
+<th>Plagas reguladas no cuarentenarias o síntomas causados por ellas</th>
+<th>Plantones y materiales de multiplicación de hortalizas (género o especie)</th>
+<th>
+<p>Umbral de presencia de las plagas reguladas no cuarentenarias en los plantones y materiales de multiplicación de hortalizas</p>
+<p>–</p>
+<p>Porcentaje</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="3">Bacterias</td>
+</tr>
+<tr>
+<td>
+<em>Clavibacter michiganensis ssp. michiganensis (Smith) Davis et al. [CORBMI].</em>
+</td>
+<td>
+<em>Solanum lycopersicum L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+<em>Xanthomonas euvesicatoria Jones et al. [XANTEU].</em>
+</td>
+<td>
+<em>Capsicum annuum L., Solanum lycopersicum L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+<em>Xanthomonas gardneri (ex Šutič 1957) Jones et al. [XANTGA].</em>
+</td>
+<td>
+<em>Capsicum annuum L., Solanum lycopersicum L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+<em>Xanthomonas perforans Jones et al. [XANTPF].</em>
+</td>
+<td>
+<em>Capsicum annuum L., Solanum lycopersicum L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+<em>Xanthomonas vesicatoria (ex Doidge) Vauterin et al. [XANTVE].</em>
+</td>
+<td>
+<em>Capsicum annuum L., Solanum lycopersicum L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">Hongos y oomicetos</td>
+</tr>
+<tr>
+<td>
+<em>Fusarium Link (género anamórfico) [1FUSAG] distinto de Fusarium oxysporum f. sp. albedinis (Kill. &amp; Maire) W.L. Gordon [FUSAAL] y Fusarium circinatum Nirenberg &amp; O’Donnell [GIBBCI].</em>
+</td>
+<td>
+<em>Asparagus officinalis L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+<em>Helicobasidium brebissonii (Desm.) Donk [HLCBBR].</em>
+</td>
+<td>
+<em>Asparagus officinalis L., Crocus sativus L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+<em>Stromatinia cepivora Berk. [SCLOCE].</em>
+</td>
+<td>
+<em>Allium cepa L., Allium fistulosum L., Allium porrum L., Allium sativum L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+<em>Verticillium dahliae Kleb. [VERTDA].</em>
+</td>
+<td>
+<em>Cynara cardunculus L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td><em>Fusarium oxysporum Schlechtendal [FUSAOX]: las formas especializadas iridiacearum, croci y</em> <em>saffrani (f. sp. iridiacearum, croci y</em> <em>saffrani) y de F. oxysporum f. sp. Gladioli.</em></td>
+<td>
+<em>Crocus sativus L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+<em>Penicillium cyclopium Westling [PENIAU].</em>
+</td>
+<td>
+<em>Crocus sativus L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+<em>Penicillium gladioli L. McCulloch &amp; Thom [PENIGL].</em>
+</td>
+<td>
+<em>Crocus sativus L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+<em>Penicillium hirsutum Dierckx [PENICO].</em>
+</td>
+<td>
+<em>Crocus sativus L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+<em>Rhizopus oryzae Went &amp; Prinsen Geerligs [RIZPAR].</em>
+</td>
+<td>
+<em>Crocus sativus L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+<em>Stromatinia gladioli (Drayton) Whetzel [SCLEGL].</em>
+</td>
+<td>
+<em>Crocus sativus L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">Nematodos y ácaros</td>
+</tr>
+<tr>
+<td>
+<em>Ditylenchus dipsaci (Kuehn) Filipjev [DITYDI].</em>
+</td>
+<td>
+<em>Allium cepa L., Allium sativum L., Crocus sativus.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+<em>Rhizoglyphus sp. [RHIGSP].</em>
+</td>
+<td>
+<em>Crocus sativus L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">Virus, viroides, enfermedades similares a las víricas y fitoplasmas</td>
+</tr>
+<tr>
+<td>Virus del estriado amarillo del puerro <em>[LYSV00].</em></td>
+<td>
+<em>Allium sativum L.</em>
+</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Virus del enanismo amarillo de la cebolla <em>[OYDV00].</em></td>
+<td>
+<em>Allium cepa L., Allium sativum L.</em>
+</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Viroide del tubérculo fusiforme de la patata <em>[PSTVD0].</em></td>
+<td>
+<em>Capsicum annuum L., Solanum lycopersicum L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Virus del bronceado del tomate <em>[TSWV00].</em></td>
+<td>
+<em>Capsicum annuum L., Lactuca sativa L., Solanum lycopersicum L., Solanum melongena L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Virus del rizado amarillo del tomate <em>[TYLCV0].</em></td>
+<td>
+<em>Solanum lycopersicum L.</em>
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Virus rugoso del tomate (ToBRFV).</td>
+<td>
+<p><em>Capsicum annuum</em> L., excepto las semillas pertenecientes a una variedad que ha demostrado ser resistente al ToBRFV.</p>
+<p><em>Solanum lycopersicum</em> L. y sus híbridos.</p>
+</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+Los envases en que se vaya a comercializar la semilla deberán reunir las suficientes condiciones de seguridad y ser aptos para la conservación de la semilla, no existiendo limitaciones en cuanto al material de que estén fabricados.
+
+> Se modifica por el art. 3 de la Orden APA/539/2025, de 28 de mayo. [Ref. BOE-A-2025-10686](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10686)
+
+> Se sustituye, con efectos de 2 de enero de 2024, por el art. único.15 de la Orden APA/1322/2023, de 4 de diciembre. [Ref. BOE-A-2023-25113](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25113)
+
+> Se modifica por el art. 2.3 de la Orden APA/455/2020, de 26 de mayo. [Ref. BOE-A-2020-5413](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5413)
+
+> Se modifica por el art. 4 de la Orden AAA/198/2014, de 12 de febrero. [Ref. BOE-A-2014-1647](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1647).

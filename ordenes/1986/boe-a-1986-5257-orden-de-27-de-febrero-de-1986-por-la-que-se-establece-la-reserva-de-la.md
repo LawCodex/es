@@ -1,0 +1,107 @@
+---
+title: "Orden de 27 de febrero de 1986 por la que se establece la reserva de la denominación del «Cava» para los vinos espumosos de calidad elaborados por el método tradicional en la región que se determina"
+identifier: "BOE-A-1986-5257"
+eli: "https://www.boe.es/eli/es/o/1986/02/27/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1986-02-27
+published: 1986-02-28
+in_force_from: 1986-03-01
+last_amended: 1989-08-16
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 51"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-5257"
+retrieved: 2026-10-11
+---
+
+# Orden de 27 de febrero de 1986 por la que se establece la reserva de la denominación del «Cava» para los vinos espumosos de calidad elaborados por el método tradicional en la región que se determina
+
+Incluye la corrección de errores publicada en BOE núm. 54, de 4 de marzo de 1986 [Ref. BOE-A-1986-5619](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-5619)
+
+Ilustrísimo señor:
+
+La reciente aprobación de los Reglamentos de la Comunidad Económica Europea (3309/1985 y 3310/1985, de 18 de noviembre) hacen obligado que España introduzca en su reglamentación sobre vinos espumosos y gasificados las necesarias adaptaciones y modificaciones, al tiempo que protege bajo una denominación tradicional y de amplia raigambre aquellos vinos que, por sus peculiares características, necesitan de una protección especial.
+
+Con tal propósito y considerando que la denominación «Cava», regulada en la Orden de este Departamento de 27 de julio de 1972, es la única que cumple con los fines que se pretenden, la misma se ha reservado «para los vinos espumosos de calidad producidos en región determinada», los conocidos internacionalmente por las siglas v.e.c.p.r.d., que encuentran en la denominación «Cava» la definición justa de su protección, comercialización, presentación y producción,
+
+Por todo ello, este Ministerio tiene a bien disponer:
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 54, de 4 de marzo de 1986 [Ref. BOE-A-1986-5619](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-5619)
+
+## Artículo 1.
+
+La denominación «Cava», regulada regulada en el artículo 3.° de la Orden de 27 de julio de 1972, queda reservada a los vinos espumosos de calidad, elaborados por el método tradicional, producidos de acuerdo con la normativa de la CEE y la española aplicable, en una región determinada.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 54, de 4 de marzo de 1986 [Ref. BOE-A-1986-5619](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-5619)
+
+## Artículo 2.
+
+**(Anulado)**
+
+> Se anula por Sentencia del TS de 14 de marzo de 1989 publicada por Orden de 3 de julio de 1989. [Ref. BOE-A-1989-19813](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-19813)
+
+## Artículo 3.
+
+Las variedades de uva autorizadas para la elaboración de los vinos espumosos de calidad, de acuerdo con las disposiciones de la presente Orden son, como variedades principales, la Viura o Macabeo, Parellada, Xarel-lo y Chardonnay y, como complementarias, Subirat o Malvasia Riojana, Garnacha Tinta y Monastrel.
+
+## Artículo 4.
+
+La densidad de plantación, el sistema de cultivo, la forma de producción y de poda serán las que correspondan a cada área vitícola o las adecuadas y tradicionales para mantener o mejorar el nivel de calidad de los vinos espumosos protegidos.
+
+Sin perjuicio de las limitaciones establecidas en las áreas vitícolas reglamentadas, en todo caso, el rendimiento máximo autorizado será, en quintales métricos de uva por hectárea, 120 para las variedades de uva blanca y 80 para las variedades de uva tinta. La uva procedente de parcelas rendimientos superiores a dichos limites será descalificada para la elaboración de los vinos espumosos de calidad a que se refiere esta disposición.
+
+Podrán dedicarse a la elaboración de los vinos protegidos, exclusivamente las primeras fracciones del prensado, con un rendimiento máximo de 1 hectolitro de mosto por cada 150 kilogramos de uva.
+
+## Artículo 5.
+
+La elaboración, condiciones analíticas, análisis y degustación de los vinos a que se refiere la presente Orden, se efectuara de acuerdo con lo señalado en los Reglamentos de la CEE números 338/1979, 358/1979, 3309/1985 y 3310/1985.
+
+## Artículo 6.
+
+El registro dos (de Cava), que figura en el articulo 15 de la Orden de 27 de julio de 1972 comprenderá, exclusivamente, las Empresas elaboradoras de los vinos que se regulan en la presente disposición.
+
+Igualmente, se crea un nuevo registro, cuyo epígrafe será «el método tradicional», que comprenderá aquellas industrias elaboradoras inscritas hasta ahora en el registro «Cava» que no reúnan los requisitos y características, en la elaboración de sus vinos, que se han señalado en la presente disposición, y las que se inscriban en el futuro.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 54, de 4 de marzo de 1986 [Ref. BOE-A-1986-5619](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-5619)
+
+## Disposición adicional primera.
+
+Se autoriza el etiquetado hasta el 1 de diciembre de 1986, a las empresas inscritas en el registro de cava, bajo las normas que establecía la Orden de 27 de julio de 1972, así como la comercialización, hasta el agotamiento de existencias, de botellas etiquetadas de estos vinos.
+
+> Véase, sobre prorroga del plazo para la utilización de la denominación «cava» por las empresas situadas fuera de la región del «cava», la Orden de 19 de enero de 1987. [Ref. BOE-A-1987-1984](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-1984)
+
+## Disposición adicional segunda.
+
+El Consejo Regulador de los Vinos Espumosos vigilará el cumplimiento de la presente Orden.
+
+Los Consejos Reguladores de Denominación de Origen, cuyas zonas de producción estén incluidas en la región determinada por la denominación «Cava», controlarán el uso de los vinos producidos en las mismas, y que se ampararán bajo esta denominación.
+
+Asimismo, dichos Consejos colaborarán con el Consejo Regulador de los Vinos Espumosos en las demás funciones de control de los vinos espumosos relacionadas con sus competencias.
+
+## Disposición final primera.
+
+Sin perjuicio de la disposición adicional primera, queda derogada la orden de 27 de julio de 1972, en cuanto se oponga a la presente Orden.
+
+## Disposición final segunda.
+
+La presente Orden entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Lo que comunico a V. I. para su conocimiento y efectos.
+
+Madrid, 27 de febrero de 1986.
+
+ROMERO HERRERA
+
+Ilmo Sr. Director general de Política Alimentaria.
+
+## ANEXO — Relación de municipios que componen la región determinada por la denominación «Cava»
+
+**(Anulado).**
+
+> Se anula por Sentencia del TS de 14 de marzo de 1989 publicada por Orden de 3 de julio de 1989. [Ref. BOE-A-1989-19813](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-19813)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 54, de 4 de marzo de 1986 [Ref. BOE-A-1986-5619](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-5619)

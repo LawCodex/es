@@ -1,0 +1,438 @@
+---
+title: "Real Decreto 3360/1983, de 30 de noviembre, por el que se aprueba la Reglamentación Técnico-Sanitaria de Lejías"
+identifier: "BOE-A-1984-2215"
+eli: "https://www.boe.es/eli/es/rd/1983/11/30/3360"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1983-11-30
+published: 1984-01-28
+in_force_from: 1984-02-17
+last_amended: 1993-04-20
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 24"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1984-2215"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 3360/1983, de 30 de noviembre, por el que se aprueba la Reglamentación Técnico-Sanitaria de Lejías
+
+El Decreto de la Presidencia del Gobierno número 2484/1977, de 25 de septiembre, por el que se aprueba el texto del Código Alimentario Español, prevé que puedan ser objeto de reglamentaciones especiales las materias en él reguladas.
+
+Publicado el Decreto de la Presidencia del Gobierno número 2519/1974, de 9 de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, procede dictar la Reglamentación Técnico-Sanitaria de Lejías, en la que se tenga en cuenta las experiencias acumuladas.
+
+En su virtud, oídos los representantes de las organizaciones profesionales afectadas, previo informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria, a propuesta de los Ministerios de Economía y Hacienda, de Industria y Energía, de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, y previa deliberación del Consejo de Ministros en su reunión del día 30 de noviembre de 1983,
+
+DISPONGO:
+
+### Artículo único.
+
+Se aprueba la adjunta Reglamentación Técnico-Sanitaria de Lejías.
+
+### Disposición transitoria primera.
+
+Las reformas y adaptaciones de instalaciones derivadas de las nuevas exigencias incorporadas a esta Reglamentación que no sean consecuencias de disposiciones legales vigentes y en especial de lo dispuesto en el Decreto 2519/1974, de 8 de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, serán llevadas a cabo en el plazo de doce meses, a contar desde la publicación de la presente Reglamentación.
+
+### Disposición transitoria segunda.
+
+Durante el mismo período de tiempo se permitirá a los industriales el uso de las existencias en almacén o contratadas de los envases, etiquetas, cierres o precintos, no pudiéndose efectuar a partir de la fecha de publicación del presente Real Decreto nuevas contrataciones de dichos materiales si no es ajustándose a las exigencias de la presente Reglamentación.
+
+### Disposición transitoria tercera.
+
+El etiquetado de los envases cuyos prototipos han sido objeto de aprobación anterior por la Orden ministerial de 25 de octubre de 1966 («Boletín Oficial del Estado» del 29) podrá ser modificado conservando el número de registro ya concedido, sin más restricciones que la adaptación de textos del etiquetado a la nueva Reglamentación, siempre que se conserven las características físico-químicas y geométricas del envase.
+
+### Disposición transitoria cuarta.
+
+Los artículos 5.1 y 10.8 e) de la adjunta Reglamentación entrarán en vigor a partir de la publicación de la lista positiva de aditivos de aplicación en las aguas potables de consumo público.
+
+### Disposición derogatoria.
+
+Queda derogada expresamente la Orden de Presidencia de 25 de octubre de 1986 y cuantas disposiciones legales de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.
+
+Dado en Madrid a 30 de noviembre de 1983.
+
+JUAN CARLOS R
+
+El Ministro de la Presidencia,
+
+JAVIER MOSCOSO DEL PRADO Y MUÑOZ
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA DE LEJÍAS
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1. Ámbito de aplicación.
+
+La presente Reglamentación tiene por objeto definir a efectos legales lo que se entiende por lejías y fijar con carácter obligatorio normas de fabricación, comercialización y, en general, la ordenación técnico-sanitaria de tales productos.
+
+Será de aplicación también a los productos importados.
+
+Esta Reglamentación obliga a todos los fabricantes, envasadores y comerciantes de lejías para uso doméstico, en colectividades y en industrias relacionadas con la alimentación y, en su caso, a los importadores de dichos productos con destino directo a los usos antes enunciados, siendo de aplicación en todo el territorio nacional.
+
+Se considerarán fabricantes, envasadores y comerciante, de lejías para uso doméstico, en colectividades y en industrias relacionadas con la alimentación, a todas las personas naturales o jurídicas que en uso de las autorizaciones concedidas por los Organismos oficiales competentes dediquen su actividad a la obtención, envasado, manipulación o comercio de los productos definidos y clasificados en los artículos 2 y 3, respectivamente, de esta Reglamentación.
+
+## TÍTULO I — Definiciones y clasificaciones
+
+### Artículo 2. Definiciones.
+
+2.1 Cloro activo. Es un término usado para expresar el poder oxidante del cloro contenido en las lejías descritas en esta Reglamentación. Se expresa en gramos de cloro activo por litro (g Cl/l).
+
+La determinación del cloro activo se realizará por el método establecido en el anejo I.
+
+2.2 Lejías. Se entiende por lejías las soluciones de hipoclorito alcalino, tal y como se producen por la industria, incluyan o no los aditivos necesarios para su puesta en el mercado, siendo su contenido en cloro activo no inferior a 35 gramos por litro ni superior a 100 gramos por litro.
+
+2.3 La denominación «lejía» queda reservada exclusivamente a las sustancias definidas en el presente artículo, quedando prohibida la designación de cualquier otra sustancia o producto comercial con dicha denominación.
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 349/1993, de 5 marzo. [Ref. BOE-A-1993-10258](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-10258)
+
+> Téngase en cuenta para su aplicación la disposición transitoria única del citado Real Decreto.
+
+### Artículo 3. Clasificaciones.
+
+En función de su contenido en claro activo, las lejías se clasifican en:
+
+1\. Lejía.
+
+Es aquella cuyo contenido en cloro activo no es inferior a 35 gramos por litro ni superior a 60 gramos por litro y tiene una alcalinidad total máxima, expresada en óxido de sodio (ONa<sub>2</sub>), del 0,9 por 100 en peso.
+
+2\. Lejía concentrada.
+
+Es aquella cuyo contenido en cloro activo no es inferior a 60 gramos por litro ni superior a 100 gramos por litro y tiene una alcalinidad total máxima, expresada en óxido de sodio (ONa<sub>2</sub>), del 1,8 por 100 en peso.
+
+La alcalinidad total se determinará por el método descrito en el anejo I de la presente Reglamentación.
+
+> Se modifica por el art. único.2 del Real Decreto 349/1993, de 5 marzo. Ref. BOE-A-1993-10258
+
+> Téngase en cuenta para su aplicación la disposición transitoria única del citado Real Decreto.
+
+## TÍTULO II — Materias primas, manipulaciones permitidas y prohibidas
+
+### Artículo 4. Materias primas.
+
+El hipoclorito empleado en la fabricación de las lejías habrá de ser de grado de pureza técnica y la materia insoluble en el mismo no debe exceder del 0,15 por 100.
+
+### Artículo 5. Manipulaciones permitidas y prohibidas.
+
+1\. Para que en una lejía pueda figurar la etiqueta "apta para la desinfección del agua de bebida" se deberán cumplir los requisitos siguientes:
+
+a) A la dilución de uso indicada en el apartado c), la proporción de sustancias, aditivos e impurezas aportada por la lejía al agua tratada no superará los límites tolerables establecidos en la Reglamentación Técnico-Sanitaria para el abastecimiento y control de calidad de las aguas potables de consumo público, aprobada por el Real Decreto 1138/1990, de 14 de septiembre.
+
+b) Su concentración en cloro activo será la establecida en el artículo 3, apartado 3.1.
+
+c) El fabricante indicará en la etiqueta las instrucciones de uso oportunas para que el consumidor obtengan una concentración de 3 miligramos de cloro activo por litro (tres partes por millón de cloro) en el agua a tratar.
+
+d) El hipoclorito y los aditivos, en su caso, utilizados para su fabricación deberán estar autorizados para el uso en el tratamiento de agua potable de consumo público.
+
+e) El material de los envases y sus cierres deberán estar autorizados para el uso alimentario.
+
+2\. En las lejías, y con el objeto de evitar los fenómenos de degradación de su contenido en cloro activo previsible en estos productos, se aceptará una tolerancia de ‒7 y +10 por 100 para las concentraciones comprendidas entre 35 y 60 gramos de claro activo por litro y de ±10 por 100 para las comprendidas entre 60 y 100 gramos de cloro activo por litro.
+
+3\. Se prohíbe la adición a la lejía de sustancias que produzcan olores iguales o parecidos a los productos alimenticios o que enmascaren totalmente su olor, así como los que alteren su color.
+
+> Se modifica por el art. único.3 del Real Decreto 349/1993, de 5 marzo. Ref. BOE-A-1993-10258
+
+> Téngase en cuenta para su aplicación la disposición transitoria única del citado Real Decreto.
+
+## TÍTULO III — Registros administrativos
+
+### Artículo 6.
+
+1\. Los fabricantes, envasadores e importadores de lejías fabricadas para uso como desinfectantes en la industria de la alimentación, así como aquellas que incluyan la denominación de "apta para la desinfección del agua de bebida", cumplirán lo exigido en el Real Decreto 1712/1991, de 29 de noviembre, sobre Registro General Sanitario de Alimentos.
+
+2\. Los fabricantes de lejías estarán obligados a comunicar al Instituto Nacional de Toxicología la composición de las mismas y cualquier cambio que introduzcan, a fines de orientación en caso de accidentes.
+
+> Se modifica el apartado 1 por el art. único.4 del Real Decreto 349/1993, de 5 marzo. Ref. BOE-A-1993-10258
+
+> Téngase en cuenta para su aplicación la disposición transitoria única del citado Real Decreto.
+
+## TÍTULO IV — Condiciones generales de los establecimientos, del material y del personal
+
+### Artículo 7. Condiciones generales de las industrias.
+
+Todos los establecimientos incluidos en esta Reglamentación deberán ajustarse a un diseño o esquema que garantice el adecuado tratamiento técnico e higiénico sanitario de las materias primas, sus productos y subproductos, y que facilite una correcta aplicación de las distintas prácticas de fabricación en áreas de la salud pública.
+
+Con este fin, los establecimientos cumplirán obligatoriamente las siguientes exigencias:
+
+7.1 Los locales de fabricación o almacenamiento y sus anejos, en todo caso, deberán ser idóneos para el uso a que se destinen, con emplazamientos e instalaciones adecuados, accesos fáciles y amplios, situados a distancia conveniente de cualquier clase de suciedad y basuras o insalubridad.
+
+7.2 La ventilación e iluminación, natural o artificial, será la reglamentaria y, en todo caso, apropiada a la capacidad y volumen del local, según la finalidad a que se destine.
+
+7.3 Dispondrán en todo momento de agua corriente a presión en cantidad suficiente para cubrir las necesidades de los establecimientos industriales. La red de distribución de agua tendrá el suficiente número de tomas para asegurar la limpieza y el lavado de los locales, instalaciones y elementos industriales. La industria dispondrá de un suministro adecuado de agua potable con capacidad suficiente para el uso del personal.
+
+7.4 Habrán de tener servicios higiénicos y vestuarios en número y características acomodadas a lo que prevean para cada caso las autoridades competentes.
+
+7.5 Todos los locales deberán mantenerse en estado adecuado de limpieza, que habrá de llevarse a cabo por los medios más apropiados para no levantar polvo ni introducir contaminaciones o alteraciones.
+
+7.6 Toda maquinaria y demás elementos que estén en contacto con las materias primas, productos en curso de elaboración o ya elaborados e incluso en los envases serán de características tales que no puedan transmitir al material elaborado propiedades nocivas ni originar, en contacto con él, reacciones químicas perjudiciales. Iguales precauciones se tomarán en cuanto a los recipientes, elementos de transportes, envases provisionales y lugares de almacenamiento. Todos estos elementos estarán construidos de forma tal que puedan mantenerse en perfectas condiciones de higiene y limpieza.
+
+7.7 Contarán con servicios, defensas, utillajes o instalaciones adecuadas en su construcción y emplazamiento para garantizar las condiciones de higiene y limpieza y su no contaminación por la proximidad o contacto con cualquier clase de residuo, aguas residuales, humo, suciedad y materias extrañas, así como por la presencia de insectos, roedores, aves y otros animales domésticos o no.
+
+7.8 Asimismo habrán de cumplirse cualesquiera otras condiciones técnicas, sanitarias e higiénicas que se establezcan en sus respectivas competencias por los Organismos de la Administración Pública en sus distintas esferas.
+
+7.9 Dispondrán del adecuado laboratorio propio o concertado para control de calidad de materias primas y producto terminado, regido por un técnico titulado competente.
+
+### Artículo 8. Condiciones generales referentes al personal.
+
+El personal que intervenga en el proceso de elaboración vestirá durante el trabajo en forma adecuada, con la debida pulcritud e higiene.
+
+## TÍTULO V — Envasado, etiquetado y rotulación
+
+### Artículo 9. Envasado.
+
+La venta de los productos objeto de esta Reglamentación Técnico-Sanitaria habrá de hacerse en envases que cumplan los siguientes requisitos:
+
+1\. Los materiales que constituyen los envases y sus cierres no serán susceptibles de ser atacados por el contenido ni de formar con éste combinaciones que puedan ser peligrosas.
+
+2\. Los envases y sus cierres estarán diseñados y fabricados de manera que sean estancos y serán fuertes y sólidos, con el fin de que no se abran y que resistan con seguridad los esfuerzos de las operaciones normales de manipulación, debiendo satisfacer los requisitos de resistencia descritos en el anejo II de la presente Reglamentación.
+
+3\. Los envases de lejía dispondrán de un cierre de características o diseños tales que resistan con seguridad las operaciones normales de manipulación y que, una vez abiertos, puedan ser nuevamente cerrados sin perder su carácter estanco. Las lejías clasificadas como irritantes, en aplicación del Real Decreto 2216/1985, de 28 de octubre, por el que se aprobó el Reglamento sobre Declaración de Sustancias Nuevas y Clasificación, Envasado y Etiquetado de Sustancias Peligrosas, modificado por el Real Decreto 725/1988, de 3 de junio, dispondrán de un cierre que cumpla con las especificaciones que para dichas clasificaciones se establezcan.
+
+4\. No se utilizarán en los envases y etiquetas diseños que puedan atraer o suscitar la curiosidad infantil.
+
+5\. Los envases de lejía de contenido neto igual o inferior a 10 litros no serán retornables.
+
+Los envases de lejía apta para la desinfección de agua de bebida de contenido neto superior a 10 litros, que vayan a ser reutilizados, deberán limpiarse e higienizarse previamente, mediante cualquier procedimiento que garantice las condiciones higiénico-sanitarias que tenía el envase en su primer uso.
+
+> Se modifica por el art. único.5 del Real Decreto 349/1993, de 5 marzo. Ref. BOE-A-1993-10258
+
+> Téngase en cuenta para su aplicación la disposición transitoria única del citado Real Decreto.
+
+### Artículo 10. Etiquetado, presentación y publicidad.
+
+El etiquetado, la presentación y la publicidad de los productos regulados en esta Reglamentación Técnico-Sanitaria estarán sujetos a los principios generales contenidos en el título III del Reglamento de Etiquetado, Presentación y Publicidad de los Productos Industriales destinados a su venta directa a los Consumidores y Usuarios, aprobado por el Real Decreto 1468/1988, de 2 de diciembre.
+
+Además, serán de obligatoria aplicación:
+
+‒ Lo establecido en el apartado 8.1 del artículo 8 del Real Decreto 1468/1988, de 2 de diciembre.
+
+‒ La prohibición de cualquier mención que induzca al consumidor a realizar un trasvase de la lejía a un envase diferente del de origen.
+
+‒ La prohibición de que los envases lleven grabado en relieve sobre su superficie alguno de los textos o símbolos de inserción obligatoria.
+
+La información del etiquetado de los envases constará obligatoriamente de las siguientes especificaciones:
+
+1\. Denominación de "lejía", "lejía concentrada", seguida de la indicación de "apta para la desinfección de agua de bebida" o "no apta para la desinfección de agua de, bebida", según corresponda. En el caso de que lleve incorporado algún perfume, se indicará la mención "perfumada" con los caracteres en el tamaño mínimo exigidos en el apartado 10, para la denominación del tipo de lejía.
+
+2\. El nombre o la razón social o la denominación del fabricante, envasador o vendedor, establecidos en la Comunidad Europea y, en todo caso, su domicilio.
+
+3\. La denominación "hipoclorito de ......, solución de ....... gramos de cloro activo por litro", debiendo señalar el metal alcalino de que se trate y el contenido de cloro activo a la salida de fábrica.
+
+4\. Instrucciones de uso adecuado para el consumidor. En las lejías clasificadas como "aptas para la desinfección de agua de bebida" se deberá indicar claramente la cantidad necesaria para su uso correcto.
+
+5\. En función del grado de peligrosidad, las lejías definidas en esta Reglamentación Técnico-Sanitaria se someterán a lo siguiente:
+
+A) Las lejías cuya concentración en cloro activo las clasifique como irritantes deberán llevar obligatoriamente el pictograma e indicación de peligro establecidos en el anejo II del Reglamento sobre Declaración de Sustancias Nuevas y Clasificación, Envasado y Etiquetado de Sustancias Peligrosas, aprobado por el Real Decreto 2216/1985, de 28 de octubre, modificado por el Real Decreto 725/1988, de 3 de junio, así corno las siguientes frases de riesgo y prudencia:
+
+a) En contacto con los ácidos, libera gases tóxicos.
+
+b) Irrita los ojos y la piel.
+
+c) Manténgase fuera del alcance de los niños.
+
+d) En caso de contacto con los ojos y con la piel, lávense inmediata y abundantemente con agua.
+
+e) No mezclar con otros productos, pueden desprender gases peligrosos (cloro).
+
+B) La lejía cuya concentración en cloro activo no la clasifique como "irritante" deberá llevar las frases:
+
+a) En contacto con los ácidos libera gases tóxicos.
+
+b) Manténgase fuera del alcance de los niños.
+
+c) No mezclar con otros productos, pueden desprender gases peligrosos (cloro)
+
+d) En caso de contacto con los ojos y con la piel, lávense inmediata y abundantemente con agua.
+
+C) En cualquier caso, ambos tipos de lejía deberán indicar en su etiquetado:
+
+«En caso de accidente o peligro para la salud, acuda a su médico o consulte al instituto Nacional de Toxicología.»
+
+Deberá indicarse a continuación el teléfono del Instituto Nacional de Toxicología.
+
+6\. Las leyendas de inscripción obligatoria señaladas en los apartados 1, 2, 3 y 5 deberán estar agrupadas en el mismo campo visual; a fin de facilitar su lectura a los consumidores, y de tal forma que se puedan leer horizontalmente cuando el envase esté en posición normal.
+
+7\. Las instrucciones de uso adecuado para el consumidor señaladas en el apartado 4 podrán figurar en cualquier parte del etiquetado.
+
+8\. El conjunto de las inscripciones señaladas en los apartados 1, 2, 3 y 5 deberá ocupar como mínimo las superficies siguientes:
+
+| Capacidad del envase | Formato en milímetros |
+|---|---|
+| Inferior o igual a 3 litros. | 52 x 74 |
+| Superior a 3 litros e inferior o igual a 50 litros. | 74 x 105 |
+| Superior a 50 litros e inferior o igual a 500 litros. | 105 x 148 |
+| Superior a 500 litros. | 148 x 210 |
+
+9\. a) El pictograma de producto irritante, en su caso, deberá ocupar como mínimo una décima parte de la superficie descrita en el apartado 8 y estará dibujado en negro sobre fondo amarillo-naranja.
+
+b) Excepcionalmente, aquellos envases de capacidad inferior a un litro y con dimensiones que no permitan el tamaño señalado en el apartado 5, podrán llevar una etiqueta de tamaño reducido siempre que el pictograma, si lo requiere, no ocupe una superficie inferior a un centímetro cuadrado, En eso casos, el pictograma podrá figurar separadamente del resto de la inscripción obligatoria, pero necesariamente junto a la parte superior de la misma.
+
+10\. La denominación "lejía" o "lejía concentrada" deberá resaltar sobre el resto de las leyendas del etiquetado, siendo el tamaño mínimo de estos caracteres de 6 milímetros de altura, así como las menciones "apta pare le desinfección del agua de bebida" o "no apta para la desinfección del agua de bebida", que tendrá unos caracteres mínimos de 3 milímetros de altura y deberán figurar en una misma línea.
+
+11\. La información obligatoria no podrá inscribirse en cierres, precintos u otras partes que se inutilicen al abrir el envase.
+
+> Se modifica por el art. único.6 del Real Decreto 349/1993, de 5 marzo. Ref. BOE-A-1993-10258
+
+> Téngase en cuenta para su aplicación la disposición transitoria única del citado Real Decreto.
+
+### Artículo 11. Rotulación.
+
+En el rótulo de los embalajes de los productos comprendidos en esta Reglamentación deberán figurar como mínimo las siguientes especificaciones:
+
+11.1 Marca comercial y mención, en su caso, de la frase «lejía» (diluida o concentrada).
+
+11.2 Número y contenido neto de los envases.
+
+11.3 País de origen en caso de importación.
+
+11.4 Símbolo que indique la posición normal de los envases, según prácticas de uso corriente.
+
+No será obligatoria la mención de estas especificaciones, siempre que puedan ser determinadas clara y fácilmente en el etiquetado de los envases sin necesidad de abrir el embalaje.
+
+## TÍTULO VI — Transporte, almacenamiento y venta
+
+### Artículo 12.
+
+La lejía podrá ser transportada con alimentos y productos alimenticios, siempre que exista la debida separación material y que el transporte se haga en envases herméticos como se exige en el anejo II.
+
+En su caso cumplirán lo establecido en la legislación vigente en materia de transporte de mercancías peligrosas.
+
+### Artículo 13. Prohibición de venta al por menor.
+
+No se permitirá la venta al por menor de lejías a granel.
+
+> Se modifica por el art. único.7 del Real Decreto 349/1993, de 5 marzo. Ref. BOE-A-1993-10258
+
+> Téngase en cuenta para su aplicación la disposición transitoria única del citado Real Decreto.
+
+### Artículo 14.
+
+Se podrán almacenar y vender lejías con alimentos y productos alimenticios, siempre que se cumplan en su totalidad las siguientes condiciones:
+
+14.1 Que sus envases cumplan el artículo 9 de esta Reglamentación y su anejo II y que en el transporte, almacenamiento y venta se garantice con los mejores medios disponibles el que su contenido no se mezcle, ni entre en contacto ni ejerza acción de cualquier clase sobre los alimentos o productos alimenticios transportados, almacenados o vendidos.
+
+14.2 Que exista la debida separación material, asegurando el aislamiento de unos respecto de otros, tanto en estanterías como en las trastiendas y almacenes de reserva del establecimiento.
+
+### Artículo 15.
+
+No obstante lo preceptuado en el artículo anterior, los productos objeto de esta Reglamentación se atendrán en lo que les afecte a lo dispuesto en otras Reglamentaciones en materia de transporte, almacenamiento y venta de alimentos.
+
+En los casos no previstos en esta Reglamentación Técnico Sanitaria se estará a lo dispuesto en esta materia por las ordenanzas municipales y Comunidades Autónomas.
+
+## TÍTULO VII — Comercio exterior e intercambios intracomunitarios
+
+> Se modifica por el art. único.8 del Real Decreto 349/1993, de 5 marzo. Ref. BOE-A-1993-10258
+
+> Téngase en cuenta para su aplicación la disposición transitoria única del citado Real Decreto.
+
+### Artículo 16. Comercio exterior.
+
+1\. Los productos objeto de esta Reglamentación destinados a la exportación a países terceros, que no cumplan las condiciones técnico-sanitarias exigidas en la misma, llevarán impresas en su embalaje la palabra EXPORT. Dichos productos no podrán comercializarse en España.
+
+Además, deberán estar etiquetados y rotulados de forma que se identifiquen como producto de exportación inequívocamente mediante un rombo rojo sobre fondo de distinto color, cuyas dimensiones mínimas serán de 15 x 25 milímetros, para evitar su consumo en el mercado interior.
+
+En el caso de que los envases vayan etiquetados en idioma extranjero no necesitarán el mencionado rombo.
+
+2\. Los productos procedentes de países terceros deberán cumplir todas las especificaciones de la presente Reglamentación e incluirán el número de Registro General Sanitario de Alimentos, si el producto lo requiere, según lo establecido en la legislación aplicable.
+
+Todo ello se entiende sin perjuicio de lo dispuesto en los tratados y convenios internacionales sobre la materia que resulten de aplicación en España.
+
+> Se modifica por el art. único.8 del Real Decreto 349/1993, de 5 marzo. Ref. BOE-A-1993-10258
+
+> Téngase en cuenta para su aplicación la disposición transitoria única del citado Real Decreto.
+
+### Artículo 17. Intercambios intracomunitarios.
+
+Las exigencias de composición no se aplicarán a los productos procedentes de intercambios intracomunitarios legal y lealmente fabricados y comercializados en el Estado miembro de origen. Los citados productos, siempre que no supongan riesgos para la salud humana y no afecten a la aplicación del artículo 36 del Tratado Constitutivo de la Comunidad Europea, podrán ser comercializados en España con la correspondiente denominación legal del Estado de producción, o, en su defecto, con una denominación consagrada por los usos y costumbres legales y constantes en el Estado miembro de producción, acompañada de una mención descriptiva lo suficientemente precisa para permitir al comprador conocer su naturaleza real.
+
+> Se modifica por el art. único.8 del Real Decreto 349/1993, de 5 marzo. Ref. BOE-A-1993-10258
+
+> Téngase en cuenta para su aplicación la disposición transitoria única del citado Real Decreto.
+
+## TÍTULO VIII — Competencias administrativas y régimen sancionador
+
+### Artículo 18. Competencias administrativas.
+
+Los Departamentos responsables velarán por el cumplimiento de lo dispuesto en la presente Reglamentación, en el ámbito de sus respectivas competencias y a través de los Organismos administrativos encargados, que coordinarán sus actuaciones, y en todo caso sin perjuicio de las competencias que correspondan a las Comunidades Autónomas y a las Corporaciones Locales.
+
+### Artículo 19. Régimen sancionador.
+
+Las infracciones a lo dispuesto en la presente Reglamentación serán sancionadas en cada caso por las autoridades competentes de acuerdo con la legislación vigente y con lo previsto en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones en materia del consumidor y en materia agroalimentaria, previa la instrucción del correspondiente expediente administrativo. En todo caso, el Organismo instructor del expediente que proceda, cuando sean detectadas infracciones de índole sanitaria, deberá dar cuenta inmediata de las mismas a las autoridades sanitarias que correspondan.
+
+## ANEJO I — Métodos analíticos para las determinaciones previstas en los artículos 2 y 3 de la presente Reglamentación Técnico-Sanitaria de Lejías
+
+1\. *Determinación del cloro activo*.
+
+Se establece como método el previsto en las normas UNE 55-528-77, parte I y parte II.
+
+2\. *Determinación de la alcalinidad total*.
+
+Se establece como método el previsto en la norma UNE 55-528-77, parte VI.
+
+## ANEJO II — Especificaciones técnicas de envases para lejías
+
+1\. *Naturaleza química de los materiales empleados en la fabricación de los envases*.
+
+1.1 El material para la fabricación de envases para lejías será resistente al posible ataque químico de las lejías y tal que reúna las exigencias previstas en el apartado 9.1 de la Reglamentación Técnico-Sanitaria de Lejías. No se permitirán los envases de vidrio.
+
+1.2 Los envases deberán cumplir con las normas de resistencia a la compresión y al impacto por caída fijadas en el apartado 2 de este anejo.
+
+2\. *Condiciones mínimas de resistencia a la rotura por impacto y compresión de los envases*.
+
+2.1 Los envases objeto de ensayo deberán reunir las siguientes condiciones previas.
+
+a) Ser muestra aleatoria representativa de al menos un 2 por 100 del lote a inspeccionar, como mínimo será de cuatro unidades.
+
+b) Serán llenados con agua o lejía hasta un 95 por 100 de su capacidad y cerrados con el sistema propio del mismo envase.
+
+c) Se acondicionaran a una temperatura de 23 ± 2 ºC durante dos horas.
+
+2.2 Resistencia a la rotura por impacto en caída libre.
+
+El 90 por 100 de los envases a ensayar deberán resistir de forma total la prueba efectuada.
+
+El impacto por caída se provocara sobre una superficie rígida, uniforme, lisa, plana y horizontal.
+
+El número de envases a ensayar se dividirá en dos grupos iguales y a cada uno de estos grupos se les someterá a una de las dos pruebas previstas de ensayo de impacto.
+
+Se evitará que coincidan sobre un mismo envase los dos ensayos, a fin de evitar que por efectos de fatiga se distorsionen los resultados.
+
+a) Ensayo 1. El envase caerá verticalmente siguiendo una perpendicular a la superficie de choque coincidente con su eje longitudinal y produciéndose el impacto sobre su base. La altura de caída será medida desde la parte inferior de la base del envase hasta la superficie del impacto.
+
+b) Ensayo 2. El envase caerá en posición horizontal, produciéndose el impacto sobre un lateral de su cuerpo. La altura de caída será medida desde el plano tangente-horizontal del envase en su posición inferior hasta la superficie del impacto.
+
+Las alturas de los ensayos 1 y 2 se determinarán de acuerdo con el volumen del envase ensayado.
+
+1\. Envase inferior o igual a 1.000 ml: 1,5 metros.
+
+2\. Envase superior a 1.000 ml: 1 metro.
+
+2.3 Resistencia a la compresión.
+
+La equivalente a dos metros de altura de apilado de envases de su mismo tamaño y capacidad dentro de sus respectivos embalajes.
+
+Los envases, una vez llenos, deberán resistir una sobrepresión externa de 127,14 kpa (1,3 kgf/cm2), sin presentar deformaciones considerables ni salida apreciable del líquido contenido.
+
+2.4 Ensayo de estanquidad.
+
+Los envases motivo de ensayo serán colocados en posición invertida, apoyándose sobre el tapón durante dos horas, al cabo de las cuales no deben haberse producido pérdida ni derrame del líquido.
+
+3\. *Condiciones de seguridad respecto al desprendimiento de gases*.
+
+Los envases y/o sus recipientes deberán estar diseñados de tal modo que se evite la formación de una sobrepresión interior que pudiera afectar su adecuada seguridad.
+
+Este requisito se entenderá cumplido cuando exista en su interior una cámara sin líquido equivalente al menos al 5 por 100 de su volumen total.
+
+4\. *Condiciones de conservación.*
+
+Con el objeto de ayudar a cumplir los márgenes de tolerancia citados en el apartado 5.2 de la Reglamentación Técnico-Sanitaria de Lejías, es aconsejable la opacidad del envase y el evitar la exposición a la luz solar directa.
+
+> Téngase en cuenta la Orden de 23 de diciembre de 1985, por la que se dictan normas complementarias para la homologación de envases de lejías. [Ref. BOE-A-1985-26981](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-26981)
+
+> Se modifica el segundo párrafo del apartado 2.3 por el art. único.8 del Real Decreto 349/1993, de 5 marzo. Ref. BOE-A-1993-10258
+
+> Téngase en cuenta para su aplicación la disposición transitoria única del citado Real Decreto.
+
+> Véase la Orden de 23 de diciembre de 1985, por la que se dictan normas complementarias para la homologación de envases de lejías. [Ref. BOE-A-1985-26981](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-26981)

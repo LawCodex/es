@@ -1,0 +1,281 @@
+---
+title: "Real Decreto 3176/1983, de 16 de noviembre, por el que se aprueba la Reglamentación Técnico-Sanitaria para la Elaboración, Circulación y Comercio de Especies Vegetales para Infusiones de uso en Alimentación"
+identifier: "BOE-A-1983-33964"
+eli: "https://www.boe.es/eli/es/rd/1983/11/16/3176"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1983-11-16
+published: 1983-12-28
+in_force_from: 1984-01-17
+last_amended: 2013-03-29
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 310"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1983-33964"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 3176/1983, de 16 de noviembre, por el que se aprueba la Reglamentación Técnico-Sanitaria para la Elaboración, Circulación y Comercio de Especies Vegetales para Infusiones de uso en Alimentación
+
+Incluye la corrección de errores publicada en el BOE núm. 80, de 3 de abril de 1984. [Ref. BOE-A-1984-7963](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7963).
+
+El Decreto de la Presidencia del Gobierno número 2484/1967, de 21 de septiembre, por el que se aprueba el texto del Código Alimentario Español, prevé que puedan ser objeto de Reglamentación Especial las materias en él reguladas.
+
+Publicado el Decreto de la Presidencia del Gobierno número 2519/1974, de 9 de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, procede dictar las distintas Reglamentaciones establecidas en el mismo.
+
+En su virtud, a propuesta de los Ministerios de Economía y Hacienda; Industria y Energía; de Agricultura, Pesca y Alimentación, y de Sanidad y Consumo, de acuerdo con el informe favorable de la Comisión Interministerial para la Ordenación Alimentaria y previa deliberación del Consejo de Ministros en su reunión del día 16 de noviembre de 1983,
+
+DISPONGO:
+
+### Artículo único.
+
+Se aprueba la adjunta Reglamentación Técnico-Sanitaria para la Elaboración, Circulación y Comercio de Especies Vegetales para Infusiones de uso en Alimentación.
+
+### Disposición transitoria primera.
+
+Las adaptaciones de las instalaciones existentes, derivadas de las exigencias incorporadas a esta Reglamentación, que no sean consecuencia de las disposiciones legales vigentes, serán llevadas a cabo en el plazo de un año a contar desde la publicación de la presente Reglamentación.
+
+### Disposición transitoria segunda.
+
+En el plazo de dieciocho meses, todas las especies vegetales anotadas en el Registro General Sanitario de Alimentos que no figuren en la lista del artículo 3.º de esta Reglamentación, serán automáticamente dados de baja, quedando prohibida su comercialización al amparo de la autorización sanitaria otorgada en su día.
+
+Las especies vegetales que, figurando en el anejo de la Orden ministerial de 3 de octubre de 1973 («Boletín Oficial del Estado» del 15), no están contempladas en el artículo 3.º de esta Reglamentación, deberán ser anotadas en los Servicios correspondientes de la Dirección General de Farmacia y Medicamentos.
+
+### Disposición transitoria tercera.
+
+Para la aplicación de la información obligatoria del etiquetado y la rotulación, establecida en el título quinto de la adjunta Reglamentación, se estará a lo dispuesto en el Real Decreto 2058/1982, de 12 de agosto, por el que se aprueba la norma general de etiquetado, presentación y publicidad de los productos alimenticios envasados.
+
+> Redactado conforme a la corrección de errores publicada en el BOE núm 80, de 3 de abril de 1984. [Ref. BOE-A-1984-7963](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7963).
+
+### Disposición derogatoria.
+
+Salvo lo expresado en las disposiciones transitorias, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto, a partir de su entrada en vigor.
+
+Dado en Madrid a 16 de noviembre de 1983.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JAVIER MOSCOSO DEL PRADO Y MUÑOZ
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA PARA LA ELABORACIÓN, CIRCULACIÓN Y COMERCIO DE ESPECIES VEGETALES PARA INFUSIONES DE USO EN ALIMENTACIÓN
+
+## TÍTULO PRELIMINAR — Ámbito de aplicación
+
+### Art. 1.
+
+La presente Reglamentación tiene por objeto definir, a efectos legales, lo que se entiende por especies vegetales para infusiones de uso en alimentación y fijar, con carácter obligatorio, las normas de elaboración, envasado, comercialización y, en general, la ordenación jurídica de los productos.
+
+Esta Reglamentación obliga a los elaboradores, envasadores, comerciantes o importadores de los mismos.
+
+Será de aplicación, asimismo, a los productos importados.
+
+Se consideran elaboradores, envasadores y comerciantes de estos productos aquellas personas, naturales o jurídicas, que, en uso de las autorizaciones concedidas por los Organismos oficiales competentes, dedican su efectividad a la elaboración, envasado y comercialización de los productos cuya denominación figura en el artículo 2.º de esta Reglamentación.
+
+## TÍTULO I — Definiciones y denominaciones
+
+### Art. 2. Definiciones.
+
+2.1 Especies vegetales para infusiones de uso en alimentación.
+
+Son aquellas especies vegetales o sus partes que debido a su aroma y sabor, características de la especie a que pertenecen, se utilizan en alimentación por su acción fisiológica u organoléptica.
+
+2.2 Infusión.
+
+Es el producto líquido obtenido por la acción del agua, a temperatura de ebullición, sobre la especie vegetal, con el objeto de extraer las sustancias solubles de la misma.
+
+2.3 Extracto soluble.
+
+Es el producto soluble en agua, obtenido por parcial o total evaporación de la infusión de la especie vegetal correspondiente.
+
+### Art. 3. Denominaciones.
+
+Las especies vegetales para infusiones de uso en alimentación, contempladas en esta Reglamentación son, con especificación de la parte a utilizar, las siguientes:
+
+3.1 Anís estrellado.—Illicium verum, fruto.
+
+3.2 Anís verde.—Pimpinella anisum, fruto.
+
+3.3 Azahar.—Citrus aurantium, flor.
+
+3.4 Escaramujo.—Rosa canina, fruto.
+
+3.5 Eucalipto.—Eucaliptus globulus, hoja.
+
+3.6 Hibisco.—Hibiscus sabdariffa, flor.
+
+3.7 Hierba luisa.—Lippia citriodora, hoja.
+
+3.8 Hinojo.—Foeniculum vulgare, fruto.
+
+3.9 Malva.—Malva sylvestris, hoja y flor.
+
+3.10 Manzanilla.—Matricaria chamomilla, planta y flor.
+
+3.11 Manzanilla amarga.—Anthemis nobilis, cabezuelas floridas.
+
+3.12 Manzanilla de Mahón.—Santolina chamaesiperisius.
+
+3.13 Mejorana.—Origanum mejorana, planta.
+
+3.14 Melisa.—Melissa officinalis, planta y hojas.
+
+3.15 Menta.—Mentha piperita, planta y hojas.
+
+3.16 Menta poleo.—Menta pulegium, hojas.
+
+3.17 Romero.—Rosmarinus officinalis, hoja.
+
+3.18 Salvia.—Salvia officinalis, hoja.
+
+3.19 Saúco.—Sambucus nigra, flor.
+
+3.20 Tila.—Tilia argentum y officinalis, flor y bráctea.
+
+3.21 Tomillo.—Tymus vulgaris, planta y hojas.
+
+3.22 Verbena.—Verbena officinalis, planta y hojas
+
+3.23 Zarzaparrilla.—Smilax officinalis, raíz.
+
+Para cualquier especie vegetal no incluida en la anterior lista, se solicitará el previo informe de los Servicios correspondientes del Ministerio de Sanidad y Consumo, quien determinará la inclusión o no de la misma en esta Reglamentación, previo informe de la Comisión Interministerial para la Ordenación Alimentaria.
+
+## TÍTULO II — Condiciones de los establecimientos, del material y del personal. Manipulaciones permitidas y prohibidas
+
+### Art. 4. Condiciones de los establecimientos.
+
+**(Derogado)**
+
+> Se deroga por el art. 28 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 5. Requisitos higiénico-sanitarios.
+
+**(Derogado)**
+
+> Se deroga por el art. 28 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 6. Condiciones generales de los materiales.
+
+**(Derogado)**
+
+> Se deroga por el art. 28 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 7. Condiciones del personal.
+
+**(Derogado)**
+
+> Se deroga por el art. 28 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 8. Manipulaciones permitidas y prohibidas.
+
+8.1 **(Derogado)**
+
+8.2 Manipulaciones prohibidas.
+
+8.2.1 El envasado para la venta de especies vegetales que contengan tallos extraños a las mismas, materias inertes u otras impurezas, con una tolerancia del 8 por 100 máximo.
+
+8.2.2 Tratamientos destinados a producir aumento en su masa.
+
+8.2.3 La adición de agua, agentes conservadores, colorantes y otras materias extrañas al producto.
+
+8.2.4 a 8.2.8 **(Derogados)**
+
+> Se deroga excepto los apartados 2.1, 2.2 y 2.3 por el art. 28 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO III — Registros administrativos
+
+### Art. 9. Identificación de la industria.
+
+**(Derogado)**
+
+> Se deroga por el art. 28 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO IV — Materias primas y otros ingredientes. Características de los productos terminados
+
+### Art. 10. Materias primas y otros ingredientes.
+
+Las materias primas utilizadas para la elaboración de los distintos productos serán únicamente las especies vegetales y parte de las mismas o sus extractos solubles, cuyas denominaciones figuran en el artículo tercero de la presente Reglamentación.
+
+### Art. 11. Características de los productos terminados.
+
+Las especies vegetales dispuestas para su consumo deberán cumplir las siguientes condiciones:
+
+11.1 **(Derogado)**
+
+11.2 De carácter especifico.
+
+11.2.1 Humedad: máximo, 15 por 100.
+
+11.2.2 Cenizas: máximo, 14 por 100.
+
+11.2.3 **(Derogado)**
+
+> Se deroga excepto los apartados 2.1 y 2.2 por el art. 28 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO V — Envasado, etiquetado y rotulación
+
+### Art. 12. Envasado.
+
+**(Derogado)**
+
+> Se deroga por el art. 28 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 13. Etiquetado.
+
+El etiquetado de los envases y el rotulado de los embalajes deberá cumplir lo dispuesto en el Real Decreto 2058/1982, de 12 de agosto, por el que se aprueba la Norma General de Etiquetado, Presentación y Publicidad de los productos alimenticios envasados.
+
+En el etiquetado de las especies vegetales envasadas para la venta directa al consumidor final, así como a los suministrados a los restaurantes, hospitales y otros establecimientos y colectividades similares figuraran las siguientes especificaciones:
+
+13.1 Denominación del producto de acuerdo con las denominaciones del artículo tercero de esta Reglamentación.
+
+13.2 a 13.8 **(Derogados)**
+
+> Se deroga excepto el apartado 1 por el art. 28 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 14. Rotulación.
+
+**(Derogado)**
+
+> Se deroga por el art. 28 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 15. Productos importados.
+
+**(Derogado)**
+
+> Se deroga por el art. 28 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VI — Transporte, almacenamiento, venta, exportación e importación
+
+### Art. 16. Transporte y almacenamiento.
+
+**(Derogado)**
+
+> Se deroga por el art. 28 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 17. Venta.
+
+**(Derogado)**
+
+> Se deroga por el art. 28 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 18. Exportación e importación.
+
+18.1 Exportación.
+
+Los productos objeto de esta Reglamentación dedicados a la exportación se ajustarán a lo que dispongan en esta materia los Ministerios competentes. Cuando estos productos no cumplan lo dispuesto en esta Reglamentación llevarán en caracteres bien visibles impresa la palabra «Expor» y no podrán comercializarse ni consumirse en España, salvo autorización expresa de los Ministerios responsables, previo informe de la Comisión Interministerial para la Ordenación Alimentaria y siempre que no afecte a las condiciones de carácter sanitario.
+
+18.2 **(Derogado)**
+
+> Se deroga el apartado 2 por el art. 28 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VII — Competencias y responsabilidades
+
+### Arts. 19 a 21.
+
+**(Derogados)**
+
+> Se derogan por el art. 28 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).

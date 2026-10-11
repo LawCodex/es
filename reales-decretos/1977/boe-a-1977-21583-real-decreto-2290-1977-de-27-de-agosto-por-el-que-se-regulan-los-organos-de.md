@@ -1,0 +1,265 @@
+---
+title: "Real Decreto 2290/1977, de 27 de agosto, por el que se regulan los organos de gobierno y las funciones de las Cajas de Ahorros"
+identifier: "BOE-A-1977-21583"
+eli: "https://www.boe.es/eli/es/rd/1977/08/27/2290"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía"
+date: 1977-08-27
+published: 1977-09-05
+in_force_from: 1977-09-06
+last_amended: 1985-08-09
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 212"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1977-21583"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2290/1977, de 27 de agosto, por el que se regulan los organos de gobierno y las funciones de las Cajas de Ahorros
+
+La profunda reforma que el sistema financiero español exige para alcanzar un adecuado funcionamiento de nuestra economía ha sido emprendida decididamente por el Gobierno dentro de un plan coherente de disposiciones de distinto rango, cuya finalidad última no es otra que la de dotar al referido sistema de altos grados de libertad en su operativa y de representatividad en sus instituciones. En esta línea de actuación reformadora, las Cajas de Ahorro no podían quedar al margen pues no en vano suponen hoy, por el volumen de depósitos que administran, más de un tercio del sistema crediticio privado.
+
+Representatividad y libertad son, pues, los dos principios que intentan combinarse en la reforma y constituyen, en dosis diferentes, los criterios inspiradores de otras disposiciones que articulan modificaciones estructurales profundas en nuestro sistema financiero. También estos dos principios constituyen el fundamento básico del presente Real Decreto, cuyo contenido normativo se dirige a la modificación de los órganos de gobierno de las Cajas de Ahorros, de la operatoria de las mismas, de la asignación de sus excedentes y, finalmente, de la organización y funciones de sus instituciones representativas a nivel nacional.
+
+En el primero de los ámbitos indicados, la profunda transformación que ofrece la política y el ambiente social de nuestro país, al incorporar plenamente a sus estructuras y actividad los criterios pluralistas y democráticos que ha impuesto el ejercicio de la libertad individual y colectiva, aconseja trasladar tales principios a los órganos de gobierno de las Cajas de Ahorros, instituciones que, por su finalidad y naturaleza, están directamente insertas en la propia comunidad que constituye la base de su desarrollo. Por ello, la modificación de la normativa por la que se regula la composición y funcionamiento de esos órganos de gobierno y administración ha de ofrecer el cauce adecuado y necesario para materializar de forma plena el principio de amplia representatividad que actualmente informa y preside las diferentes expresiones de la vida social española.
+
+A tales efectos se arbitran en el presente Real Decreto los procedimientos necesarios para conseguir una extensa base de representación de la que surjan los miembros que integrarán los citados órganos de gobierno, articulándose la selección mediante amplios criterios objetivos que permitan excluir influencias o vinculaciones que pudieran condicionar, en alguna forma, el libre y racional desenvolvimiento de la gestión de las Cajas de Ahorros y la eficaz realización de sus objetivos.
+
+Para ello se establece, en primer lugar, una Asamblea General, como órgano supremo de las Cajas de Ahorros, de la que forman parte Consejeros generales, elegidos por compromisarios de los impositores, así como representantes de instituciones de carácter político, cultural o benéfico y de fuerte arraigo en el ámbito de cada Caja. A esta Asamblea se le atribuyen las más amplias competencias y funciones, al tiempo que se regulan los requisitos, incompatibilidades y procedimiento de designación de los Consejeros generales, así como el régimen de funcionamiento de la misma.
+
+En segundo término se regula la composición de los Consejos de Administración de las Cajas, procurando que reflejen adecuadamente la pluralidad de intereses y representaciones de la propia Asamblea General de modo abierto y pleno, dando entrada, además, en los mismos a representantes directos del personal de estas entidades, en igualdad de derechos y deberes con las restantes representaciones.
+
+Por otra parte, tomando como base los criterios que ofrece el derecho comparado de algunos de los países integrados en la OCDE, se establece una Comisión de Control, con funciones específicas de control y tutela permanente, que se compone de impositores y representantes de las Corporaciones Locales elegidos por la Asamblea General e incluye una representación de los empleados de la propia Caja de Ahorros, garantizándose de ese modo el adecuado empleo de los fondos en el cumplimiento de los fines legalmente establecidos.
+
+Por último, se instituye un Comisión de Obras Sociales, con la misión específica de seleccionar y administrar las obras de esta naturaleza que hayan de nutrirse de los excedentes libres de las Cajas, deslindándose de este modo las tareas asistenciales de estas instituciones de las gerenciales relativas al plano financiero típico de las Entidades crediticias. El principio de necesaria especialización que ello supone redundará en mayores niveles de eficiencia respecto a los objetivos perseguidos tanto en el ámbito financiero como en el asistencial, sin que por ello se separen las obras sociales del ámbito propio de las Cajas que las sostienen e impulsan.
+
+En cuanto a la operatoria de las Cajas de Ahorros, el presente Real Decreto, atendiendo al criterio de libertad que debe prevalecer en la organización del sistema financiero, suprime las limitaciones que hasta ahora se habían venido manteniendo, sin otra aparente justificación que un evidente deseo de tutela ante riesgos no distintos por su naturaleza a los que constituyen el ámbito obligado de toda Entidad crediticia. Alcanzado hoy por las Cajas de Ahorros un grado notable de desarrollo, parece llegado el momento de levantar las prohibiciones referidas para que sea cada entidad la que libremente decida la especialización a que su vocación y capacidad de gestión le conducen, sin otras limitaciones que las generales de las restantes instituciones financieras privadas.
+
+Por lo que se refiere a la distribución de excedentes y a su destino a obras sociales, se ratifican y refuerzan los criterios que respecto a la creación de reservas ya se habían establecido anteriormente, al tiempo que se acota el ámbito propio de las obras sociales de las Cajas de Ahorros y se consolida la posibilidad –necesaria debido al elevado coste de ciertas obras y socialmente conveniente hoy en día– de la realización de obras sociales en régimen de colaboración con otras instituciones o personas.
+
+Por último, el presente Real Decreto delimita claramente el ámbito de la Confederación Española de Cajas de Ahorros, Entidad cuya historia alcanza ya medio siglo de vigencia, frente al propio y específico de las Cajas que la integran, al tiempo que crea, en el seno de su Asamblea General, el Consejo Superior de Ahorro, como alto órgano consultivo de las Cajas sobre las materias propias de su competencia.
+
+En su virtud, a propuesta del Ministro de Economía y previa deliberación del Consejo de Ministros en su reunión del día veintiséis de agosto de mil novecientos setenta y siete,
+
+DISPONGO:
+
+## CAPÍTULO PRIMERO — De los órganos de gobierno de las Cajas de Ahorros
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo primero.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo segundo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo tercero.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo cuarto.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo quinto.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo sexto.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo séptimo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo octavo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo noveno.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo diez.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo once.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo doce.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo trece.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo catorce.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo quince.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo dieciséis.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo diecisiete.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo dieciocho.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo diecinueve.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+## CAPÍTULO II — De las operaciones de las Cajas de Ahorros
+
+### Artículo veinte.
+
+A partir de la entrada en vigor de la presente disposición las Cajas de Ahorros podrán realizar las mismas operaciones que las autorizadas a la Banca privada, sin otras limitaciones que las vigentes para esta última en el marco de la Ley dos/mil novecientos sesenta y dos, de catorce de abril, sobre bases de ordenación del crédito y de la Banca.
+
+## CAPÍTULO III — De la distribución de excedentes y de las obras benéficas sociales
+
+### Artículo veintiuno.
+
+En ningún caso las reservas expresas constituidas por las Cajas de Ahorros al amparo de lo prevenido en el Decreto mil ochocientos treinta y ocho/mil novecientos setenta y cinco, de tres de julio, tendrán el carácter de reservas legales.
+
+### Artículo veintidós.
+
+Uno. Las Cajas de Ahorro destinarán la totalidad de los excedentes que, conforme a las normas vigentes, no hayan de integrar sus reservas a la financiación de obras benéfico-sociales propias o en colaboración, de modo que las mismas se orienten hacia la sanidad pública, la investigación, enseñanza y cultura o los servicios de asistencia social y que los beneficios de ellas derivados se extiendan especialmente al ámbito regional de actuación de la Caja.
+
+Dos. La autorización definitiva de las obras benéfico-sociales de las Cajas de Ahorro, una vez aprobadas por sus Asambleas Generales, se concederá por el Ministerio de Economía a la vista de los datos contenidos en las correspondientes solicitudes y Memorias y teniendo presente los criterios expuestos en el número anterior de este artículo.
+
+### Artículo veintitrés.
+
+Las Cajas de Ahorros, individual o colectivamente y sin otras limitaciones que las que se deriven de las necesidades de sostenimiento de las obras benéfico-sociales propias ya acometidas, podrán efectuar obras benéfico-sociales en colaboración con otras Instituciones o personas físicas o jurídicas. En tales casos, si la colaboración de las Cajas consistiese en la financiación de las inversiones reales necesarias para la puesta en marcha de la obra, tales inversiones revertirán a estas Entidades al finalizarse la misma por cualquier motivo, siendo destinados los bienes referidos o el producto íntegro de su enajenación a la financiación de nuevas obras benéfico-sociales.
+
+## CAPÍTULO IV — De la Confederación Española de Cajas de Ahorros y del Consejo Superior del Ahorro
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo veinticuatro.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo veinticinco.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Artículo veintiséis.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Disposición transitoria primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Disposición transitoria segunda.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Disposición transitoria tercera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Disposición final primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Disposición final segunda.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Disposición final tercera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Disposición final cuarta.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+### Disposición final quinta.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. [Ref. BOE-A-1985-16766](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-16766).
+
+Dado en Palma de Mallorca a veintisiete de agosto de mil novecientos setenta y siete.
+
+JUAN CARLOS
+
+El Ministro de Economía,
+
+ENRIQUE FUENTES QUINTANA

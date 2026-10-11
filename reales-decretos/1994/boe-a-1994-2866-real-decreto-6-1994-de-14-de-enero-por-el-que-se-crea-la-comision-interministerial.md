@@ -1,0 +1,141 @@
+---
+title: "Real Decreto 6/1994, de 14 de enero, por el que se crea la Comisión Interministerial de Turismo"
+identifier: "BOE-A-1994-2866"
+eli: "https://www.boe.es/eli/es/rd/1994/01/14/6"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Comercio y Turismo"
+date: 1994-01-14
+published: 1994-02-08
+in_force_from: 1994-02-09
+last_amended: 2019-02-06
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 33"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-2866"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 6/1994, de 14 de enero, por el que se crea la Comisión Interministerial de Turismo
+
+El Plan Marco de Competitividad del Turismo Español (Plan FUTURES), del que el Gobierno tuvo conocimiento, siguiendo el correspondiente dictamen de la Comisión de Industria, Obras Públicas y Servicios del Congreso de los Diputados, contempla como instrumento básico para su ejecución la creación de una Comisión Interministerial de Turismo, en la que participen aquellos departamentos cuyas actuaciones tengan mayor incidencia sobre la política turística.
+
+A este fin, el presente Real Decreto procede a crear la citada Comisión Interministerial de Turismo con la finalidad primordial de coordinar las actuaciones de los diversos órganos de la Administración General del Estado con incidencia en el sector turístico, así como realizar los estudios, informes y propuestas que se detallan. Igualmente, determina la composición y normas generales de actuación de la citada Comisión Interministerial.
+
+Interesa destacar que las funciones atribuidas a la Secretaría General de Turismo corresponden, en la actualidad, al Ministerio de Comercio y Turismo creado por Real Decreto 1173/1993, de 13 de julio,
+
+En su virtud a propuesta del Ministro de Comercio y Turismo, previa aprobación del Ministro para las Administraciones Públicas, y previa deliberación del Consejo de Ministros en su reunión del día 14 de enero de 1994,
+
+## D I S P O N G O :
+
+### Artículo 1. Objeto.
+
+Se crea la Comisión Interministerial de Turismo, que tendrá como objetivo básico promover y coordinar la acción de los servicios de la Administración General del Estado y Entidades Públicas de ella dependientes o vinculadas que desarrollen planes y proyectos con repercusión directa en el turismo, cuando su complejidad exija la concurrencia de acciones para definir medidas de ordenación básica del sector y fomentar el turismo en España.
+
+### Artículo 2. Composición.
+
+1\. La Comisión Interministerial de Turismo, órgano colegiado adscrito al Ministerio de Industria, Comercio y Turismo, estará presidido por la Ministra de Industria, Comercio y Turismo, y la Vicepresidencia corresponderá al titular de la Secretaría de Estado de Turismo.
+
+La Comisión estará integrada, además, por los Vocales con rango de Secretario de Estado o Subsecretario que se designen en representación de los siguientes Departamentos ministeriales: Ministerio de Asuntos Exteriores, Unión Europea y Cooperación, Ministerio de Justicia, Ministerio de Defensa, Ministerio de Hacienda, Ministerio del Interior, Ministerio de Fomento, Ministerio de Educación y Formación Profesional, Ministerio de Trabajo, Migraciones y Seguridad Social, Ministerio de Agricultura, Pesca y Alimentación, Ministerio de la Presidencia, Relaciones con las Cortes e Igualdad, Ministerio de Política Territorial y Función Pública, Ministerio para la Transición Ecológica, Ministerio de Cultura y Deporte, Ministerio de Economía y Empresa, Ministerio de Sanidad, Consumo y Bienestar Social, Ministerio de Ciencia, Innovación y Universidades.
+
+Los Vocales serán designados por los respectivos Ministros atendiendo a la especial incidencia que tengan en el sector turístico las áreas competenciales de ellos dependientes.
+
+También actuará como Vocal el Director General del Instituto de Turismo de España.
+
+Como Secretario de la Comisión Interministerial actuará el Subdirector General de Cooperación y Competitividad Turística, con voz pero sin voto.
+
+2\. El Pleno de la Comisión Interministerial de Turismo se reunirá, a iniciativa de su Presidente, al menos, una vez al año.
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 7/2019, de 18 de enero. [Ref. BOE-A-2019-1538](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1538)
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 418/2012, de 24 de febrero. [Ref. BOE-A-2012-3265](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3265).
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 2391/2004, de 30 de diciembre. [Ref. BOE-A-2005-723](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-723).
+
+> Se modifica el apartado 1 por el art. único del Real Decreto 248/1997, de 21 de febrero. [Ref. BOE-A-1997-5065](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-5065).
+
+### Artículo 3. Funciones.
+
+1\. Corresponde a la Comisión Interministerial el desarrollo de las siguientes funciones:
+
+a) La coordinación de las actuaciones de los diversos departamentos ministeriales y organismos de la Administración General del Estado, así como las entidades públicas dependientes o vinculadas a ella, cuando desarrollen actuaciones con incidencia en el sector turístico.
+
+b) El estudio y formulación de propuestas y planes de actuación integral en materia turística para el mejor cumplimiento de las directrices y objetivos fundamentales que se definan por el Gobierno.
+
+c) El informe o dictamen sobre proyectos y propuestas de alcance nacional, con repercusión en el turismo, que impliquen competencias de diversos departamentos y organismos, cuando les sea requerido por el Gobierno.
+
+d) La aprobación de las normas de régimen interno que estime procedentes para el mejor desarrollo de sus trabajos.
+
+e) Cualquier otra función que, en el marco de sus competencias, se le atribuyan por disposición legal o reglamentaria.
+
+2\. Los estudios, informes y propuestas elaborados por la Comisión Interministerial de Turismo, una vez aprobados por el Pleno, serán elevados por su Presidente al Gobierno para su conocimiento y decisión.
+
+### Artículo 4. Funcionamiento.
+
+La Comisión Interministerial de Turismo funcionará en Pleno y en Comisión Permanente, en cuyo seno podrán constituirse grupos de trabajo para desarrollar informes o estudios de carácter específico.
+
+En atención a la materia a tratar, la Comisión Interministerial podrá convocar, en cada caso, para el desarrollo de sus trabajos, a representantes de otros departamentos ministeriales, cuyo rango será equivalente, según los casos, al de los vocales de la Comisión Interministerial o miembros de su Comisión Permanente, así como representantes del sector turístico.
+
+### Artículo 5. Comisión Permanente.
+
+1\. Actuará como Presidente de la Comisión Permanente la persona titular de la Secretaría de Estado de Turismo.
+
+Los demás miembros de la Comisión Permanente, que tendrán rango de Director General, serán designados por cada uno de los Departamentos ministeriales citados en el artículo 2.1, en razón de las áreas competenciales con incidencia en el sector turístico.
+
+Actuará también como Vocal el Director General del Instituto de Turismo de España.
+
+La Secretaría de la Comisión Permanente corresponderá al Subdirector General de Cooperación y Competitividad Turística con voz, pero sin voto.
+
+2\. Corresponderá a la Comisión Permanente:
+
+a) El desarrollo de las funciones enumeradas en el artículo 3, de acuerdo con las directrices establecidas por el Pleno.
+
+b) Atender las tareas de coordinación interdepartamental.
+
+c) Proponer la creación de grupos de trabajo.
+
+d) Cuantos otros cometidos le sean asignados por el Pleno de la Comisión Interministerial.
+
+> Se modifica el apartado 1 por el art. único.2 del Real Decreto 7/2019, de 18 de enero. [Ref. BOE-A-2019-1538](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1538)
+
+> Se modifica el apartado 1 por el art. único.2 del Real Decreto 418/2012, de 24 de febrero. [Ref. BOE-A-2012-3265](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3265).
+
+> Se modifica el apartado 1 por el art. único.2 del Real Decreto 2391/2004, de 30 de diciembre. [Ref. BOE-A-2005-723](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-723).
+
+> Se modifica el apartado 1 por el art. único del Real Decreto 248/1997, de 21 de febrero. [Ref. BOE-A-1997-5065](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-5065).
+
+### Artículo 6. Actuación.
+
+Sin perjuicio de las especialidades establecidas en este Real Decreto, la Comisión Interministerial de Turismo ajustará su funcionamiento a las normas generales que para la actuación de los órganos colegiados se establecen en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015 de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifica por el art. único.3 del Real Decreto 7/2019, de 18 de enero. [Ref. BOE-A-2019-1538](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1538)
+
+### Disposición final primera. Primera sesión de la Comisión Interministerial de Turismo.
+
+La Comisión Interministerial de Turismo celebrará su primera sesión en el plazo máximo de dos meses a partir de la fecha de entrada en vigor de este Real Decreto.
+
+### Disposición final segunda. Funcionamiento de la Comisión Permanente.
+
+El régimen de funcionamiento de la Comisión Permanente se desarrollará, previo acuerdo del Pleno de la Comisión Interministerial, mediante orden de la Ministra de Industria, Comercio y Turismo.
+
+> Se modifica por el art. único.4 del Real Decreto 7/2019, de 18 de enero. [Ref. BOE-A-2019-1538](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1538)
+
+> Se modifica por el art. único.3 del Real Decreto 418/2012, de 24 de febrero. [Ref. BOE-A-2012-3265](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3265).
+
+> Se modifica por el art. único.3 del Real Decreto 2391/2004, de 30 de diciembre. [Ref. BOE-A-2005-723](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-723).
+
+> Se modifica por el art. único del Real Decreto 248/1997, de 21 de febrero. [Ref. BOE-A-1997-5065](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-5065).
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 14 de enero de 1994.
+
+JUAN CARLOS R.
+
+El Ministro de Comercio y Turismo,
+
+JAVIER GÓMEZ-NAVARRO NAVARRETE

@@ -1,0 +1,163 @@
+---
+title: "Real Decreto 2609/1982, de 24 de septiembre, sobre evaluación y declaración de las situaciones de invalidez en la Seguridad Social"
+identifier: "BOE-A-1982-26953"
+eli: "https://www.boe.es/eli/es/rd/1982/09/24/2609"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1982-09-24
+published: 1982-10-19
+in_force_from: 1982-12-01
+last_amended: 1995-08-19
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 250"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-26953"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2609/1982, de 24 de septiembre, sobre evaluación y declaración de las situaciones de invalidez en la Seguridad Social
+
+Incluye la corrección de errores publicada en BOE núm. 283, de 25 de noviembre de 1982. [Ref. BOE-A-1982-30887](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-30887)
+
+El Real Decreto-ley treinta y seis/mil novecientos setenta y ocho, de dieciséis de noviembre, sobre gestión institucional de la Seguridad Social, la Salud y el Empleo, previó, en su disposición transitoria primera, que las Comisiones Técnicas Calificadoras continuasen subsistiendo y ejerciendo sus funciones hasta tanto fueran sustituidas por la correspondiente Entidad Gestora, Servicio u Organismo que resulte competente, de acuerdo con lo previsto en el Real Decreto-ley.
+
+A la vista de las competencias de los Institutos Nacionales de la Seguridad Social, de la Salud y de los Servicios Sociales, se hace precisa, en aras de una mayor eficacia y simplificación, la asunción por dichos Institutos, teniendo en cuenta las competencias atribuidas a cada uno de ellos de las funciones que transitoriamente han venido ejerciendo desde el citado Real Decreto-ley, las Comisiones Técnicas Calificadoras. Con ello, por otra parte, se viene a dar cumplimiento al Programa de Mejora y Racionalización de la Seguridad Social que entre sus medidas contempla la revisión de la actual normativa en relación con el órgano competente para calificar la invalidez, con la finalidad de obtener una mayor rapidez procedimental sin merma de las garantías de los beneficiarios.
+
+En su virtud, a propuesta de los Ministros de Trabajo y Seguridad Social y de Sanidad y Consumo y previa deliberación del Consejo de Ministros en su reunión del día veinticuatro de septiembre de mil novecientos ochenta y dos,
+
+DISPONGO:
+
+## Artículo 1.
+
+Las funciones que de acuerdo con las normas de derecho transitorio del Real Decreto-ley treinta y seis/mil novecientos setenta y ocho de dieciséis de noviembre, venían ejerciendo las extinguidas Comisiones Técnicas Calificadoras, quedan atribuidas a los Institutos Nacionales de la Seguridad Social de la Salud y de los Servicios Sociales, en la forma y condiciones que se establecen en el presente Real Decreto.
+
+## Artículo 2.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 1300/1995, de 21 de julio. [Ref. BOE-A-1995-19848](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-19848)
+
+## Artículo 3.
+
+Será competencia del Instituto Nacional de la Salud cualquiera que sea la Entidad gestora o colaboradora que cubra la contingencia de que se trate:
+
+Uno. **(Derogado)**
+
+Dos. Determinar la imposibilidad para el trabajo y la necesidad de continuar precisando asistencia sanitaria a efectos de que se pueda reconocer el derecho a la prórroga de la incapacidad laboral transitoria, así como a la subsistencia de la invalidez provisional.
+
+Tres. Determinar la existencia de síntomas de enfermedad profesional que, sin constituir incapacidad laboral transitoria, aconsejen el traslado del trabajador a otro puesto de trabajo exento de riesgo o su baja en la Empresa cuando el traslado no fuera posible.
+
+Cuatro. Resolver las reclamaciones que se promuevan por los beneficiarios de la asistencia sanitaria contra las decisiones en las que se haya calificado de no razonable la negativa de aquéllos a seguir los tratamientos que les hubieran indicado los facultativos que les asisten, en los supuestos previstos en el artículo diecisiete del Decreto dos mil setecientos sesenta y seis/mil novecientos sesenta y siete, de dieciséis de noviembre.
+
+Cinco. Emitir cuantos dictámenes médicos le sean solicitados por las Entidades gestoras en relación con materias análogas o conexas con las contenidas en los números anteriores y muy especialmente el asesoramiento médico a los representantes jurídicos del Instituto Nacional de la Seguridad Social en los juicios que tengan lugar como consecuencia de demandas interpuestas ante la Magistratura de Trabajo.
+
+Seis. Cuantas otras funciones y competencias le estén atribuidas por la legislación vigente en materias análogas a las enumeradas en los párrafos anteriores.
+
+> Se deroga el apartado 1 por la disposición derogatoria única.c) del Real Decreto 1300/1995, de 21 de julio. [Ref. BOE-A-1995-19848](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-19848)
+
+> Véase la disposición adicional tercera del citado Real Decreto en cuanto a la supresión de las Unidades de Valoración Médica de Incapacidades, respecto a las competencias que le atribuyen los apartados 2 a 6 del presente artículo.
+
+## Artículo 4.
+
+Uno. Será competencia del Instituto Nacional de Servicios Sociales, cualquiera que sea la Entidad gestora o colaboradora que cubra la contingencia de que se trate:
+
+a) Determinar la existencia de posibilidad razonable de recuperación y, en su caso, elaborar y desarrollar el programa correspondiente, con arreglo a lo previsto en el artículo ciento cuarenta y seis de la Ley General de la Seguridad Social.
+
+b) Tener conocimiento de los resultados obtenidos cuando las prestaciones recuperadoras estén a cargo de las Mutuas Patronales o Empresas autorizadas para colaborar en la gestión, que, a tal efecto, deberán realizar la comunicación oportuna en el plazo que reglamentariamente se determine.
+
+c) Informar sobre la procedencia de que se presten tratamientos especializados de recuperación no profesionales.
+
+d) Emitir cuantos dictámenes técnicos le sean solicitados por las Entidades gestoras en relación con materias análogas o conexas con las contenidas en este artículo.
+
+e) Resolver con carácter definitivo los recursos que se interpongan contra las decisiones de las Mutuas Patronales o Empresas autorizadas para colaborar en la gestión sobre procedencia de las prestaciones de recuperación profesional, así como sobre la negativa a seguir el programa individual de recuperación.
+
+f) Ejercer cuantas otras funciones le estén atribuidas por la legislación vigente en cuanto Entidad gestora de prestaciones de la Seguridad Social.
+
+Dos. El ejercicio de las competencias a que se refieren los apartados a) y b) del número anterior se entenderán sin perjuicio de las que al respecto están atribuidas a las Mutuas Patronales y Empresas autorizadas para colaborar en la gestión por el artículo dieciocho del Decreto mil seiscientos cuarenta y seis/mil novecientos setenta y dos, de veintitrés de junio, y demás disposiciones legales vigentes.
+
+## Artículo 5.
+
+Uno. Para el ejercicio de las facultades señaladas en los artículos segundo, tercero y cuarto, serán respectivamente competentes las Direcciones Provinciales de los Institutos Nacionales de la Seguridad Social, de la Salud y de los Servicios Sociales de la provincia en la que tenga su domicilio el interesado.
+
+Dos. **(Derogado)**
+
+> Se deroga el apartado 2 por la disposición derogatoria única.c) del Real Decreto 1300/1995, de 21 de julio. [Ref. BOE-A-1995-19848](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-19848)
+
+## Artículo 6.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 1300/1995, de 21 de julio. [Ref. BOE-A-1995-19848](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-19848)
+
+## Artículo 7.
+
+En las Direcciones Provinciales del Instituto Nacional de la Salud, salvo las que expresamente se determinen, y con encuadramiento orgánico en las mismas, se crean Unidades de Valoración Médica de Incapacidades, con la misión de cumplimentar los dictámenes e informes previstos en el artículo tercero. Los facultativos destinados en estas Unidades deberán pertenecer al Cuerpo Sanitario de la Seguridad Social (Escala de Médicos Inspectores) o al de Asesores (Escala de Asesores Médicos del extinguido Mutualismo Laboral).
+
+El número de facultativos se designará teniendo en cuenta las necesidades de cada Unidad de Valoración Médica de Incapacidades.
+
+> Téngase en cuenta la disposición adicional 3 del Real Decreto 1300/1995, de 21 de julio, por la que se establece la supresión de las Unidades de Valoración Médica de Incapacidades en el ámbito de gestión del Instituto Nacional de la Salud no transferido a las Comunidades Autónomas. [Ref. BOE-A-1995-19848](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-19848)
+
+> Se suprimen las Unidades de Valoración Médica de Incapacidades en el ámbito de gestión del Instituto Nacional de la Salud no transferido a las Comunidades Autónomas, por la disposición adicional 3 del Real Decreto 1300/1995, de 21 de julio. [Ref. BOE-A-1995-19848](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-19848)
+
+## Artículo 8.
+
+La actuación de las Direcciones Provinciales de los Institutos Nacionales de la Seguridad Social, de la Salud y de los Servicios Sociales, en el desempeño de sus respectivas competencias, se iniciará de oficio bien por propia iniciativa o por comunicación de la Inspección de Trabajo. También podrá iniciarse a instancia de parte interesada, ante la Dirección Provincial del Instituto Nacional de la Seguridad Social considerándose a estos efectos parte interesada los trabajadores y sus beneficiarios, las Mutuas Patronales y las Empresas en aquellos asuntos que les afecten directamente o puedan resultar afectadas por su resolución.
+
+El correspondiente procedimiento será impulsado de oficio y se adecuará a las normas que se establezcan en las disposiciones de desarrollo de este Real Decreto.
+
+## Artículo 9.
+
+Uno. Las Resoluciones de los Directores provinciales de Las Entidades Gestoras de la Seguridad Social, que recaigan sobre las materias a que se refiere el presente Real Decreto serán recurribles ante la Jurisdicción del Trabajo, con arreglo a lo dispuesto en la Ley de Procedimiento Laboral, por los beneficiarios y, en su caso, por las Mutuas Patronales y empresarios responsables de las prestaciones.
+
+Para formular la demanda será necesario que se interponga la reclamación previa regulada en los artículos cincuenta y ocho y siguientes de la Ley de Procedimiento Laboral, sin perjuicio de lo dispuesto en el último inciso del número dos del artículo sesenta y tres de la Ley de Procedimiento Laboral.
+
+Dos.**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 1300/1995, de 21 de julio. [Ref. BOE-A-1995-19848](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-19848)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 283, de 25 de noviembre de 1982. [Ref. BOE-A-1982-30887](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-30887)
+
+## Disposición adicional primera.
+
+Las Mutuas Patronales y las Empresas autorizadas para la colaboración en la gestión contribuirán al sostenimiento de los costos que se deriven de los cometidos atribuidos a las Entidades Gestoras de la Seguridad Social en este Real Decreto en el porcentaje que anualmente se fije por el Ministerio de Trabajo y Seguridad Social al amparo de lo dispuesto en la Ley General de la Seguridad Social sobre colaboración en la gestión.
+
+## Disposición adicional segunda.
+
+Las competencias y funciones atribuidas en el presente Real Decreto al Instituto Nacional de la Salud en cuanto se refiere al ámbito de aplicación de régimen especial de los trabajadores del mar, podrán ser ejercidas por los correspondientes Servicios Médicos del Instituto Social de la Marina, hasta que por el Instituto Nacional de la Salud se asuman de forma efectiva todas las competencias y funciones atribuidas por el Real Decreto mil ochocientos cincuenta y cinco/mil novecientos setenta y nueve, de treinta de julio, en relación con el citado régimen especial.
+
+## Disposición transitoria primera.
+
+La tramitación y resolución de los expedientes que, en la fecha de entrada en vigor de este Real Decreto, se encuentren en alguna de las situaciones que a continuación se indican, se regirán por las normas siguientes:
+
+a) Los expedientes sobre los que no hubiera recaído resolución de la Dirección Provincial del Instituto Nacional de la Seguridad Social, serán tramitados de acuerdo con lo establecido en las normas vigentes con anterioridad a las de este Real Decreto. No obstante, en cuanto a los recursos procedentes, tanto en vía administrativa como jurisdiccional, se estará a lo dispuesto en el artículo noveno de este Real Decreto y en el artículo sesenta y tres de la Ley de Procedimiento Laboral.
+
+b) A los que estén en fase de tramitación en la Comisión Técnica Calificadora Central, así como a aquellos en los que haya recaído resolución de la Dirección Provincial del Instituto Nacional de la Seguridad Social, les serán de aplicación, íntegramente, las normas de procedimiento vigentes hasta aquella fecha. Ello no obstante, las posibles revisiones del grado de invalidez que se tramiten con posterioridad a la entrada en vigor de este Real Decreto se regirán por lo dispuesto en el mismo.
+
+## Disposición transitoria segunda.
+
+No obstante lo dispuesto en la disposición final primera sobre la entrada en vigor de este Real Decreto, las resoluciones que se dicten a partir del día siguiente al de su publicación se regirán por lo dispuesto en el mismo, respecto a recursos. En cuanto a las reclamaciones previas se estará a lo dispuesto en el artículo sesenta y tres de la Ley de Procedimiento Laboral.
+
+## Disposición transitoria tercera.
+
+Las funciones a que se refiere el artículo primero del presente Real Decreto en relación con el Instituto Nacional de la Salud y el Instituto Nacional de Servicios Sociales, seguirán siendo ejercidas por las Direcciones Provinciales del Instituto Nacional de la Seguridad Social en las provincias de Barcelona, Tarragona, Lérida y Gerona, hasta que se transfieran a la Generalidad de Cataluña los servicios inherentes a dichas funciones.
+
+## Disposición final primera.
+
+Al amparo del número tres de la disposición final segunda del Real Decreto-ley treinta y seis/mil novecientos setenta y ocho, quedan derogados los artículos noventa y tres punto cuatro y ciento cuarenta y cuatro de la Ley General de la Seguridad Social de treinta de mayo de mil novecientos setenta y cuatro. Quedan asimismo derogados el Decreto dos mil ciento ochenta y seis/mil novecientos sesenta y ocho, de dieciséis de agosto, y cuantas otras disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto, que sin perjuicio de lo señalado en la disposición transitoria segunda, entrará en vigor el uno de diciembre del año en curso. Para dicha fecha deberán estar debidamente constituidas las Comisiones a que se refiere el artículo sexto y dotadas por el Instituto Nacional de la Salud las Unidades a que se refiere el artículo séptimo.
+
+Por el Instituto Nacional de Servicios Sociales se adoptarán las medidas precisas para el cumplimiento de las funciones que le atribuye el presente Real Decreto.
+
+## Disposición final segunda.
+
+Se faculta a los Ministerios de Trabajo y Seguridad Social y de Sanidad y Consumo para dictar, en el ámbito de sus respectivas competencias, las normas necesarias para la aplicación y desarrollo del presente Real Decreto.
+
+Dado en Madrid a veinticuatro de septiembre de mil novecientos ochenta y dos.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+MATIAS RODRIGUEZ INCIARTE

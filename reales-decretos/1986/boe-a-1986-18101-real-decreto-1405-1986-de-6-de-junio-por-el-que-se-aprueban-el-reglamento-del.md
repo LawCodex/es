@@ -1,0 +1,293 @@
+---
+title: "Real Decreto 1405/1986, de 6 de junio, por el que se aprueban el Reglamento del Registro Central de Personal y las normas de coordinación con los de las restantes Administraciones Públicas"
+identifier: "BOE-A-1986-18101"
+eli: "https://www.boe.es/eli/es/rd/1986/06/06/1405"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1986-06-06
+published: 1986-07-08
+in_force_from: 1986-07-09
+last_amended: 2000-01-18
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 162"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-18101"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1405/1986, de 6 de junio, por el que se aprueban el Reglamento del Registro Central de Personal y las normas de coordinación con los de las restantes Administraciones Públicas
+
+Incluye las correcciones de errores publicadas en BOE núms. 237, de 3 de octubre de 1986 [Ref. BOE-A-1986-26247](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26247)., y 57, de 7 de marzo de 1987 [Ref. BOE-A-1987-6075](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-6075).
+
+El artículo 13 de la Ley 30/1984, de 2 de agosto, determina que en la Dirección General de la Función Pública existirá un Registro Central en el que se inscribirá a todo el personal al servicio de la Administración del Estado y en el que se anotarán preceptivamente todos los actos que afecten a la vida administrativa del mismo.
+
+Dicho artículo dispone que el Gobierno, a propuesta del Ministro de la Presidencia aprobará las normas reguladoras del Registro Central y el programa para su implantación progresiva.
+
+En consecuencia, para el debido cumplimiento de este precepto legal y a fin de conseguir la mayor eficiencia y operatividad del citado Registro Central en materia de personal se hace preciso dictar sus normas básicas de funcionamiento que regulen todos los extremos relativos a las inscripciones del personal y a las sucesivas anotaciones de los actos que afecten a su vida administrativa, con respeto, en todo caso, a la intimidad personal; disponiendo que el personal a inscribir será el incluido en el ámbito de aplicación establecido en el artículo 1.1 y disposición transitoria cuarta de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, y el afectado por lo dispuesto en el artículo 18 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.
+
+Se hace necesario, al propio tiempo, establecer los criterios de coordinación de los Registros de Personal de todas las Administraciones Públicas, regulando los contenidos mínimos homogeneizadores de los mismos y los requisitos y procedimientos para su utilización recíproca, con la aplicación de las más desarrolladas técnicas informáticas en todos los procesos que los Registros han de llevar a cabo.
+
+En su virtud, a propuesta del Ministro de la Presidencia, previo informe de la Comisión Superior de Personal y de la Comisión de Coordinación de la Función Pública, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 6 de junio de 1986,
+
+DISPONGO:
+
+### Artículo único.
+
+Se aprueba el Reglamento del Registro Central de Personal y las normas de coordinación con los de las restantes Administraciones Públicas, en desarrollo y ejecución de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+
+Dado en Madrid a 6 de junio de 1986.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JAVIER MOSCOSO DEL PRADO Y MUÑOZ
+
+## REGLAMENTO DEL REGISTRO CENTRAL DE PERSONAL Y NORMAS DE COORDINACIÓN CON LOS DE LAS RESTANTES ADMINISTRACIONES PUBLICAS
+
+## CAPÍTULO I — Registro Central de Personal
+
+### Art. 1.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. [Ref. BOE-A-2000-1007](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1007).
+
+### Art. 2.
+
+1\. En el Registro Central deberá inscribirse:
+
+a) Al personal incluido en el ámbito de aplicación del artículo 1.1 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+
+b) Al personal a que se refiere la disposición transitoria cuarta de la Ley 30/1984, que ocupe puestos de trabajo del ámbito sanitario en la Administración Civil del Estado, de acuerdo con lo determinado en las respectivas relaciones de puestos de trabajo.
+
+c) Al restante personal al servicio de la Administración del Estado no incluido en los apartados anteriores, que haya obtenido una resolución de compatibilidad para desempeñar un segundo puesto o actividad en el sector público o en el ejercicio de actividades privadas que deban inscribirse de acuerdo con lo dispuesto en el artículo 18 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.
+
+2\. La inscripción deberá contener el nombre, apellidos, fecha, lugar de nacimiento y número del Registro de Personal del interesado, y se efectuará una vez formalizado el nombramiento o contrato origen de la relación de servicios y resolución de compatibilidad correspondiente, en su caso.
+
+> Téngase en cuenta que este artículo queda derogado, pero conservará su vigencia exclusivamente a efectos de la aplicación del artículo 16 del presente Reglamento, por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. [Ref. BOE-A-2000-1007](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1007).
+
+### Art. 3.
+
+El número del Registro de Personal estará compuesto por el número del documento nacional de identidad, completado con ceros a la izquierda hasta la cifra de ocho dígitos. A continuación se añadirán dos dígitos, uno de control y otro para evitar posibles duplicaciones, seguidos del código del cuerpo, escala, convenio y categoría a que pertenezca la persona objeto de inscripción.
+
+> Téngase en cuenta que este artículo queda derogado, pero conservará su vigencia exclusivamente a efectos de la aplicación del artículo 16 del presente Reglamento, por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. [Ref. BOE-A-2000-1007](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1007).
+
+### Art. 4.
+
+1\. Deberán anotarse preceptivamente en el Registro Central de Personal, respecto del personal inscrito al que se refieren los apartados a) y b) del artículo 2.1 del presente Reglamento, los actos y resoluciones siguientes:
+
+1.1 Referentes a personal funcionario.
+
+a) Tomas de posesión del primer puesto de trabajo y de los sucesivos.
+
+b) Ceses en los puestos de trabajo.
+
+c) Cambios de situación administrativa.
+
+d) Adquisición del grado personal y sus modificaciones.
+
+e) Reingresos.
+
+f) Jubilaciones.
+
+g) Pérdida de la condición de funcionario.
+
+h) Reconocimiento de antigüedad y trienios.
+
+i) Autorización o reconocimiento de compatibilidades.
+
+j) Títulos, diplomas e idiomas.
+
+k) Premios, sanciones, condecoraciones y menciones.
+
+1.2 Referente a personal laboral.
+
+a) Altas.
+
+b) Bajas temporales y definitivas.
+
+c) Reingresos.
+
+d) Cambios de destino.
+
+e) Prórrogas de contrato.
+
+f) Excedencia.
+
+g) Situaciones.
+
+h) Jubilaciones.
+
+i) Reconocimiento de antigüedad.
+
+j) Categoria laboral.
+
+k) Autorización o reconocimiento de compatibilidades.
+
+l) Títulos, diplomas eidiomas.
+
+m) Premios, sanciones, condecoraciones y menciones.
+
+2\. **(Derogado).**
+
+3\. **(Derogado).**
+
+> Téngase en cuenta que se deroga este artículo, excepto el apartado uno, que conservará su vigencia exclusivamente a efectos de la aplicación del artículo 16 del presente Reglamento, por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. [Ref. BOE-A-2000-1007](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1007).
+
+### Art. 5.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. [Ref. BOE-A-2000-1007](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1007).
+
+### Art. 6.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. [Ref. BOE-A-2000-1007](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1007).
+
+### Art. 7.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. [Ref. BOE-A-2000-1007](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1007).
+
+### Art. 8.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. [Ref. BOE-A-2000-1007](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1007).
+
+### Art. 9.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. [Ref. BOE-A-2000-1007](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1007).
+
+### Art. 10.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. [Ref. BOE-A-2000-1007](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1007).
+
+### Art. 11.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. [Ref. BOE-A-2000-1007](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1007).
+
+### Art. 12.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. [Ref. BOE-A-2000-1007](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1007).
+
+### Art. 13.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. [Ref. BOE-A-2000-1007](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1007).
+
+### Art. 14.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. [Ref. BOE-A-2000-1007](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1007).
+
+## CAPÍTULO II — Coordinación del Registro Central de Personal y los de las restantes Administraciones Públicas
+
+### Art. 15.
+
+1\. Las Adrninitraciones Públicas constituirán sus correspondientes Registros de Personal, en los que deberá inscribirse todo el personal dependiente de las mismas, anotándose los actos que afecten a su vida administrativa.
+
+2\. Cuando las Entidades Locales no cuenten con suficiente capacidad financiera o técnica, las Comunidades Autónomas, las Diputaciones Provinciales, los Cabildos o los Consejos Insulares cooperarán a la constitución de dichos Registros.
+
+### Art. 16.
+
+Los contenidos mínimos homogeneizadores de los Registros de Personal son los establecidos en los artículos 2 y 4.1 del presente Reglamento. La estructura de los números de Registro de Personal se acomodará a lo previsto en el artículo 3 del mismo.
+
+Todas las Administraciones Públicas utilizarán los códigos, claves y formatos de los soportes magnéticos establecidos en los anexos I y II que se acompañan a este Reglamento.
+
+### Art. 17.
+
+Todos aquellos Registros de Personal que se encuentren informatizados están obligados a dar acceso telemático al Registro Central de Personal para la actualización interactiva de los datos a que se refieren los artículos 2 y 4.1.
+
+Cuando por dificultades técnicas insalvables no sea posible el acceso telemático, los Registros afectados remitirán mensualmente una cinta magnética con las modificaciones operadas en el correspondiente Registro de Personal, segun los formatos establecidos en el anexo II del presente Reglamento.
+
+Las Administraciones Públicas que no dispongan de un sistema informático remitirán trimestralmente al Registro Central de Personal relaciones nominales con la modificación operada respecto de los actos a que se refieren los artículos 2 y 4.1 del presente Reglamento. En este supuesto las Corporaciones Locales remitirán las relaciones según los modelos que se recogen en el anexo III del mismo a través de la correspondiente Comunidad Autónoma.
+
+### Art. 18.
+
+Todos los Registros de Personal deberán acomodar sus procedimientos de actuación de forma que posibiliten la utilización recíproca de la información contenida en los mismos.
+
+### Art. 19.
+
+El Registro Central de Personal facilitará a las distintas Administraciones Públicas el acceso a las bases de datos a que se refieren los apartados a) y d) del artículo 11 del presente Reglamento.
+
+### Art. 20.
+
+La Dirección General de la Función Pública, a través de sus correspondientes unidades prestará el apoyo técnico que le soliciten Ias restantes Administraciones Públicas durante el proceso de instalación de sus respectivos Registros.
+
+### Disposición adicional primera.
+
+A los efectos de confección de un censo de funcionarios españoles en Organismos internacionales, podrán anotarse, cuando así lo soliciten los propios interesados, los datos relativos al personal de nacionalidad española que preste servicios en dichos Organismos.
+
+### Disposición adicional segunda.
+
+Los Ministerios de Economía y Hacienda y de la Presidencia dictarán conjuntamente las oportunas instrucciones a fin de facilitar el cumplimiento de lo dispuesto en el artículo 6 del presente Reglamento.
+
+### Disposición adicional tercera.
+
+De acuerdo con lo previsto en la disposición transitoria decimocuarta de la Ley 30/1984, de 2 de agosto, el presente Reglamento no será de aplicación a las Fuerzas y Cuerpos de Seguridad del Estado.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 237, de 3 de octubre de 1986. [Ref. BOE-A-1986-26247](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26247).
+
+### Disposición adicional cuarta.
+
+EI Ministro de la Presidencia, a iniciativa del de Sanidad y Consumo, podrá acordar la inscripción en el Registro Central, del personal a que se refiere la disposición transitoria cuarta de la Ley 30/1984, de 2 de agosto, así como la anotación de los actos que afecten a su vida administrativa.
+
+### Disposición adicional quinta.
+
+Mediante convenio suscrito al efecto podrán inscribirse o anotarse en el Registro Central de Personal los datos correspondientes al personal de otras Administraciones Públicas no comprendido en los artículos 2 y 14 de este Reglamento.
+
+### Disposición final primera.
+
+EI programa de implantación progresiva del Registro Central de Personal será el siguiente:
+
+1\. Durante los seis meses siguientes a la entrada en vigor del presente Reglamento se procederá a la inscripción de todo el personal incluido en su ámbito de aplicación, así como a las anotaciones de los actos que afecten a su vida administrativa. A tal efecto todos los Centros Directivos competentes y Administraciones Públicas respectivas, facilitarán la oportuna información.
+
+El Registro Central de Personal enviará a los Departamentos Ministeriales a los que figuren adscritos el personal inscrito, listados con toda la información recogida, a fin de que se proceda a la comprobación y, en su caso, a la rectificación de los datos. Esta fase de la implantación se efectuará en el plazo de seis meses.
+
+2\. Una vez ultimadas dichas fases se considerará implantado el Registro Central de Personal, sin perjuicio de la posterior inscripción del resto del personal dependiente de todas las Administraciones Públicas, que se efectuarán de acuerdo con las disposiciones que se dicten al efecto.
+
+Implantado el Registro Central de Personal será de plena aplicación el artículo 14 del Real Decreto 2617/1985, del Reglamento General de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios.
+
+### Disposición final segunda.
+
+Las Comunidades Autónomas y las Entidades Locales procederán a la constitución de sus Registros de Personal y a su implantación, de acuerdo con los programas que establezcan al efecto, que no podrán exceder de doce meses contados a partir de la entrada en vigor del presente Reglamento.
+
+### Disposición final tercera.
+
+Por Orden del Ministro de la Presidencia podrá procederse a la modificación de los códigos, claves y formatos contenidos en los anexos I, II y III que se acompañan al presente Reglamento.
+
+El Director general de la Función Pública determinará los modelos de impresos y demás adecuaciones instrumentales para la ejecución de lo dispuesto en el presente Reglamento.
+
+### Disposición final cuarta.
+
+El programa de implantación progresiva del Registro Central de Personal respecto de los funcionarios de la Administración de la Seguridad Social comenzará a computarse a los seis meses de haberse producido la homologación de dicho personal, de acuerdo con lo previsto en la disposición adicional decimosexta de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+
+### Disposición derogatoria.
+
+Quedan derogadas todas las normas de igual o inferior rango que se opongan a lo dispuesto en el presente Reglamento.
+
+## ANEXOS
+
+> Anexos omitidos, consulte el [PDF original](http://www.boe.es/datos/pdfs/BOE/1986/162/R24654-24874.pdf#page=5) y sus modificaciones:
+
+> \- Se modifica el anexo I por los apartados 1 y 2 de la Orden de 9 de enero de 1989. [Ref. BOE-A-1989-903](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-903).
+
+> \- Correcciones de errores publicadas en BOE núms. 237, de 3 de octubre de 1986 [Ref. BOE-A-1986-26247](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-26247). y 57, de 7 de marzo de 1987. [Ref. BOE-A-1987-6075](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-6075).

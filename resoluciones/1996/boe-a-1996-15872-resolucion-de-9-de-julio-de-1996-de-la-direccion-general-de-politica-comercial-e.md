@@ -1,0 +1,163 @@
+---
+title: "Resolución de 9 de julio de 1996, de la Dirección General de Política Comercial e Inversiones Exteriores, por la que se dictan normas para la aplicación de los artículos 4.º, 5.º, 7.º y 10 de la Orden del Ministerio de Economía y Hacienda, de 27 de diciembre de 1991, sobre transacciones económicas con el exterior"
+identifier: "BOE-A-1996-15872"
+eli: "https://www.boe.es/eli/es/res/1996/07/09/(1)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1996-07-09
+published: 1996-07-12
+in_force_from: 1996-07-13
+last_amended: 2007-12-27
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 168"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-15872"
+retrieved: 2026-10-11
+---
+
+# Resolución de 9 de julio de 1996, de la Dirección General de Política Comercial e Inversiones Exteriores, por la que se dictan normas para la aplicación de los artículos 4.º, 5.º, 7.º y 10 de la Orden del Ministerio de Economía y Hacienda, de 27 de diciembre de 1991, sobre transacciones económicas con el exterior
+
+Incluye la corrección de errores publicada en BOE núm. 172, de 17 de julio de 1996. [Ref. BOE-A-1996-16263](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-16263).
+
+El Real Decreto 1638/1996, de 5 de julio, ha venido a modificar el Real Decreto 1816/1991, de 20 de diciembre, tras las sentencias del Tribunal de Justicia de las Comunidades Europeas de fechas 23 de febrero y de 14 de diciembre de 1995.
+
+La adaptación llevada a cabo por la Orden de 9 de julio de 1996 al citado Real Decreto, conlleva la necesidad de proceder a la consiguiente modificación de la Resolución de la Dirección General de Transacciones Exteriores de 7 de enero de 1992.
+
+Ahora bien, dado que la Resolución indicada ha sido objeto de diversas modificaciones a lo largo de su período de vigencia, resulta conveniente refundir en un único texto las disposiciones aplicables en esta materia, clarificando así las normas de procedimiento y unificando las mismas en una sola Resolución.
+
+En su virtud, dispongo:
+
+> Redactado el párrafo segundo conforme a la corrección de errores publicada en BOE núm. 172, de 17 de julio de 1996. [Ref. BOE-A-1996-16263](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-16263).
+
+## Instrucción 1.ª Ámbito de aplicación.
+
+1\. **(Derogado)**
+
+2\. La presente Resolución se aplicará igualmente a la realización de cobros y pagos entre residentes y no residentes y a las transferencias del o al extranjero, estén cifradas todas ellas en pesetas o moneda extranjera y efectuadas a través de las entidades a que se refiere el artículo 5.º y la disposición adicional segunda (en adelante «Entidades registradas») del Real Decreto 1816/1991, sobre transacciones económicas con el exterior.
+
+> Se deroga el apartado 1 por la disposición derogatoria única de la Orden EHA/1439/2006, de 3 de mayo. [Ref. BOE-A-2006-8467](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-8467).
+
+## Instrucción 2.ª Entrada en territorio español.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única de la Orden EHA/1439/2006, de 3 de mayo. [Ref. BOE-A-2006-8467](http://tigre.boe.es/diario_boe/txt.php?id=BOE-A-2006-8467).
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 172, de 17 de julio de 1996. [Ref. BOE-A-1996-16263](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-16263).
+
+## Instrucción 3.ª Salida de territorio español.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única de la Orden EHA/1439/2006, de 3 de mayo. [Ref. BOE-A-2006-8467](http://tigre.boe.es/diario_boe/txt.php?id=BOE-A-2006-8467).
+
+## Instrucción 4.ª Cobros y pagos a través de Entidades registradas.
+
+1\. De conformidad con lo previsto en el artículo 5.º del Real Decreto 1816/1991, de 20 de diciembre, y artículo 5.º de la Orden de 27 de diciembre de 1991, los cobros y pagos entre residentes y no residentes, así como las transferencias al y del exterior realizadas a través de Entidades registradas están sujetos a la obligación de declaración por parte del residente que efectúe el cobro, pago o transferencia, en las condiciones establecidas en la presente instrucción.
+
+2\. Cuando se trate de pagos o transferencias al exterior, el residente que efectúe los mismos deberá formular una declaración escrita, debidamente firmada, mediante el documento, impreso o formulario que en su caso establezca cada Entidad registrada, en la que se consignen los siguientes datos:
+
+a) Nombre o razón social, domicilio y NIF del residente.
+
+b) Nombre o razón social y domicilio del no residente beneficiario del pago.
+
+c) Importe, moneda, país de destino y contravalor en pesetas.
+
+d) Concepto de la operación por la que se procede al pago o transferencia.
+
+3\. La citada declaración deberá efectuarse con anterioridad a la ejecución del pago o transferencia de que se trate, salvo en los casos en que el pago se realice mediante cheque contra cuenta del residente pagador que un no residente presente al cobro, mediante la adquisición por residentes de cheques bancarios cifrados en pesetas, en euros o en divisas, para ser abonados en cuentas de no residentes o mediante efectos de comercio (letras de cambio, pagarés y recibos) o adeudos por domiciliación a cargo de residentes presentados al cobro por no residentes y liquidados por una Cámara de compensación específica.
+
+En estos casos, la declaración podrá hacerse con posterioridad al adeudo en cuenta, en el plazo de quince días naturales desde su ejecución. A tal efecto, la entidad registrada comunicará inmediatamente dicha ejecución al interesado, para que éste cumplimente la declaración correspondiente en el plazo indicado. Transcurrido este plazo sin que el interesado haya formulado la declaración, la entidad registrada pondrá en conocimiento del residente pagador que procederá a comunicar esta omisión a la Dirección General del Tesoro y Política Financiera a los efectos oportunos, en el período máximo de quince días naturales, contados a partir de la expiración del plazo anterior, comunicación que efectuará transcurrido el citado período sin respuesta.
+
+No obstante, en los supuestos en que el pago se efectúe mediante el endoso de un cheque u otro efecto de comercio por parte de un residente a favor de un no residente, la obligación de presentar la declaración incumbirá directamente al residente que efectúa dicho endoso, con independencia de que el librador o tomador iniciales o los endosantes o endosatarios anteriores del efecto tuvieran o no la condición de residentes. En estos supuestos, independientemente de que las entidades registradas efectúen las comunicaciones indicadas en el párrafo anterior, el endosante del cheque o efecto de comercio efectuará la declaración en la forma y plazo previstos en las Instrucciones 5.a y 6.a de la presente Resolución.
+
+4\. Cuando se trate de cobros o transferencias del exterior, el residente destinatario de los mismos deberá declarar a la entidad registrada los siguientes datos:
+
+a) Nombre o razón social, domicilio y NIF del residente.
+
+b) Nombre o razón social y domicilio del no residente remitente.
+
+c) Importe, moneda, país de origen y contravalor en euros.
+
+d) Concepto de la operación por la que se procede al cobro o transferencia.
+
+La obligación de cumplimentar la declaración existirá aunque el cobro se efectúe mediante el endoso de un cheque u otro efecto de comercio por parte de un no residente a favor de un residente, con independencia de que el librador o tomador iniciales o los endosantes o endosatarios anteriores del efecto tuvieran o no la condición de residentes. En el supuesto de que, como consecuencia de los endosos, y a pesar de tratarse de un pago realizado por un no residente, el efecto se adeude en la cuenta de un residente, la declaración se formulará por el residente destinatario del mismo, en la forma y plazo previstos en las Instrucciones 5.a y 6.a de la presente Resolución.
+
+5\. La exigencia de declaración establecida en la presente instrucción no será de aplicación a los cobros, pagos o transferencias cuya cuantía sea igual o inferior a 50.000 euros, siempre que no constituyan pagos fraccionados.
+
+6\. Cuando por la reiteración de cobros o pagos por cuantía inferior a la franquicia establecida en el apartado anterior, la entidad registrada sospechara que se trata de pagos fraccionados, deberá ponerlo en conocimiento de la Dirección General del Tesoro y Política Financiera.
+
+> Se deroga el párrafo 3 del apartado 4 y se modifica el apartado 5 por el art. único de la Resolución de 20 de diciembre de 2007. [Ref. BOE-A-2007-22298](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22298).
+
+> Se modifican los apartados 3 a 6 por el apartado 1 de la Resolución de 31 de octubre de 2000. [Ref. BOE-A-2000-21051](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-21051).
+
+> Redactado el apartado 4.c) conforme a la corrección de errores publicada en BOE núm. 172, de 17 de julio de 1996. [Ref. BOE-A-1996-16263](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-16263).
+
+## Instrucción 5.ª Cobros y pagos en moneda metálica, billetes de banco o cheques bancarios al portador.
+
+De conformidad con lo dispuesto en el artículo 7.º del Real Decreto 1816/1991, en su redacción dada por el Real Decreto 1638/1996, de 5 de julio, y en el artículo 7.º de la Orden de 27 de diciembre de 1991, cuando un residente efectúe un pago a un no residente o reciba un cobro de un no residente por importe superior a 1.000.000 de pesetas en moneda metálica, billetes de banco o cheques bancarios al portador, cifrados en pesetas o en divisas, efectuados tanto dentro como fuera del territorio español, queda obligado a declarar dicho pago o cobro a través de una Entidad registrada mediante el impreso modelo B3 que consta de cuatro ejemplares, dentro del plazo de los treinta días siguientes a su realización.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 172, de 17 de julio de 1996. [Ref. BOE-A-1996-16263](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-16263).
+
+## Instrucción 6.ª Declaración en impreso modelo B3.
+
+1\. En el impreso B3 se reflejarán los siguientes datos:
+
+a) Nombre o razón social, domicilio y NIF del residente, así como nombre, domicilio y NIF, número de pasaporte o documento equivalente del no residente.
+
+b) Importe global del cobro o pago, con especificación de la clase de medio o medios de pago utilizados, su moneda de denominación y su correspondiente valor.
+
+c) Concepto a que deba aplicarse el cobro o el pago correspondiente.
+
+d) Indicación, en su caso, de que los medios de pago mencionados han sido previamente importados o exportados.
+
+La declaración referida contendrá la especificación de que los datos reseñados por el residente son ciertos, con la advertencia de que de no ser así, comete infracción administrativa en los términos previstos en el artículo 10 de la Ley 40/1979, de Régimen Jurídico de Control de Cambios.
+
+2\. Dichas declaraciones deberán suscribirse por el residente que efectúe el cobro o el pago, aún cuando dicho residente no fuese el destinatario final del cobro o el responsable último del pago respectivo.
+
+3\. Cuando el cobro o el pago tuviese lugar fuera del territorio español, las declaraciones a que se refiere la presente instrucción podrán efectuarse en las oficinas operantes en el extranjero de Entidades registradas, en el mismo impreso y plazo señalados en la instrucción 5.ª
+
+4\. La Entidad registrada receptora del impreso modelo B3, lo diligenciará y dará a sus ejemplares el siguiente destino:
+
+Ejemplar 1: Se devolverá al titular residente como justificante de su declaración.
+
+Ejemplar 2: Se remitirá al Banco de España-Servicio Ejecutivo.
+
+Ejemplar 3: Se devolverá al titular residente, quien lo hará seguir al no residente interviniente en el cobro o pago declarado.
+
+Ejemplar 4: Se conservará por la Entidad registrada.
+
+## Instrucción 7.ª Abonos en cuentas a nombre de no residentes.
+
+1\. Cuando un no residente pretenda abonar billetes de banco españoles o extranjeros o cheques bancarios al portador cifrados en pesetas o en divisas en cuentas a nombre de no residentes en una Entidad registrada, ordenar la transferencia al exterior del importe o el contravalor de dichos medios de pago, adquirir cheques bancarios, órdenes de pago u otros instrumentos cifrados en divisas o pesetas en una Entidad registrada o efectuar compraventas de billetes contra otros billetes en establecimientos abiertos al público para cambio de moneda, deberá acreditar:
+
+a) El cumplimiento de la obligación de declaración de importación a que se refiere la instrucción 2.ª (impreso modelo B1 de importación) cuando los medios de pago hubieran sido importados, o
+
+b) El cumplimiento de la obligación de declaración de los pagos efectuados en moneda metálica, billetes de banco o cheques bancarios al portador, a que se refiere la instrucción 5.ª (impreso modelo B3), cuando los citados medios de pago procedan de un cobro recibido de un residente.
+
+2\. La entidad registrada y el establecimiento abierto al público para cambio de moneda no podrán efectuar el abono, transferencia o compraventa solicitados hasta tanto el no residente realice la acreditación a que se refiere el párrafo anterior.
+
+3\. Una vez efectuada la operación, la Entidad registrada o el establecimiento abierto al público para cambio de moneda estamparán al dorso del modelo B1 de importación o B3 una diligencia en la que conste la operación efectuada y su importe.
+
+## Disposición transitoria.
+
+Hasta tanto entren en vigor los impresos B1 de importación, B1 de exportación y B3, a que se refiere la presente Resolución, se continuarán utilizando los actuales impresos B1 y B3, efectuando su tramitación de acuerdo con las normas contenidas en la presente Resolución y las que, en su caso, se dicten en su aplicación por el Banco de España, quedando sin efecto el impreso B2.
+
+## Disposición derogatoria.
+
+Quedan derogadas las siguientes Resoluciones:
+
+1\. Resolución de 7 de enero de 1992, por la que se dictan normas para la aplicación de los artículos 4.º, 5.º, 7.º y 10 de la Orden del Ministerio de Economía y Hacienda de 27 de diciembre de 1991, sobre transacciones económicas con el exterior.
+
+2\. Resolución de 12 de junio de 1992, por la que se modifica la instrucción 5.ª de la Resolución de 7 de enero de 1992, sobre transacciones exteriores.
+
+3\. Resolución de 3 de febrero de 1993, por la que se modifica la de 7 de enero de 1992.
+
+## Disposición final.
+
+La presente Resolución entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 9 de julio de 1996.–El Director general de Política Comercial e Inversiones Exteriores, Álvaro Rangifo Abbad.

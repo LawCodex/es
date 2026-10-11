@@ -1,0 +1,267 @@
+---
+title: "Real Decreto 1427/1989, de 17 de noviembre, por el que se aprueba el Arancel de los Registradores de la Propiedad"
+identifier: "BOE-A-1989-28112"
+eli: "https://www.boe.es/eli/es/rd/1989/11/17/1427"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1989-11-17
+published: 1989-11-28
+in_force_from: 1989-11-29
+last_amended: 2011-11-17
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 285"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1989-28112"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1427/1989, de 17 de noviembre, por el que se aprueba el Arancel de los Registradores de la Propiedad
+
+El apartado 5 de la disposición adicional tercera de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, encomienda al Gobierno, a propuesta conjunta de los Ministros de Economía y Hacienda y, en su caso, del Ministro del que dependan los funcionarios afectados, la aprobación del correspondiente Arancel. Por otra parte, el apartado 3 de la disposición transitoria de la mencionada Ley determina que, en el plazo de un año a partir de su entrada en vigor, el Gobierno elaborará nuevos Aranceles de los funcionarios públicos por el procedimiento previsto en el apanado 5 de la disposición adicional tercera. En cumplimiento de tales disposiciones se ha elaborado el presente Arancel de los Registradores. Su confección ha estado presidida por los siguientes criterios:
+
+1\. Cobertura de gasto.–De conformidad con lo dispuesto en el apanado 2 de la disposición adicional 3 de la Ley de Tasas y Precios Públicos según el cual, «los Aranceles se determinarán a un nivel que permita la cobertura de los gastos de funcionamiento y conservación de las oficinas en que se realicen las actividades o servicios de los funcionados, incluida su retribución profesional», se han adaptado los derechos arancelarios a los incrementos experimentados por los costes de personal y material desde la fecha de entrada en vigor del Arancel anterior. Asimismo se han hecho las previsiones necesarias para la ejecución del plan general de informatización de los Registros.
+
+2\. Cambio en la determinación de las bases.–Hasta la entrada en vigor de la Ley de Tasas y Precios Públicos, la determinación de los derechos de los Registradores de la Propiedad se realizaba sobre la base de los valores reales, obtenidos mediante los procedimientos previstos por el Reglamento Hipotecario. Con la entrada en vigor de la Ley, únicamente pueden tenerse en cuenta como base los valores comprobados fiscalmente de los hechos, actos o negocios jurídicos y, a falta de aquéllos, los valores consignados por las partes, en el correspondiente documento.
+
+3\. Simplificación de la estructura y contenido del Arancel.–A diferencia del Arancel anteriormente vigente, aprobado par Decreto 3234/1971, de 23 de diciembre, que contenía 22 números y seis disposiciones adicionales, el presente Arancel consta únicamente de seis números, habiéndose incorporado diversas reglas de aplicación a los diversos números del Arancel para lograr así una mayor claridad en su consulta. Esta simplificación no es puramente sistemática, sino que se han eliminado como conceptos minutables numerosas operaciones registrales que no serán ya objeto de retribución separada.
+
+4\. Clarificación de los conceptos.–En el presente Arancel se ha pretendido lograr una mayor claridad y rigor en los conceptos minutables eliminando en lo posible las dudas interpretativas y los problemas de aplicación a que había dado lugar el anterior. Al propio tiempo y a fin de lograr mayor transparencia y publicidad se ordena que se ponga a disposición del público en todas las oficinas del Registro.
+
+En su virtud, a propuesta de los Ministros de Economía y Hacienda y de Justicia, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 17 de noviembre de 1989,
+
+D I S P O N G O :
+
+### Artículo 1.º Aprobación de los Aranceles.
+
+Se aprueban los adjuntos Aranceles de los Registradores de la Propiedad y sus normas generales de aplicación contenidas en los anexos I y II de este Real Decreto.
+
+### Art. 2.º Comisión de seguimiento.
+
+Una Comisión de seguimiento de la aplicación de los aranceles adjuntos, presidida por el Director general de los Registros y del Notariado, e integrada por el Subdirector general del Impuesto sobre Transmisiones Patrimoniales y de los Ingresos Tributarios no Impositivos y el Subdirector general de Costes de Personal Funcionario del Ministerio de Economía y Hacienda, el Subdirector general del Notariado y de los Registros de la Propiedad y Mercantiles o persona que los represente y dos Registradores de la Propiedad designados por el Ilustre Colegio Nacional de Registradores de la Propiedad y Mercantiles de España, examinará las incidencias prácticas del arancel adjunto en la retribución de los servicios registrales y elevará anualmente a los Ministros de Justicia y de Economía y Hacienda una memoria sobre las modificaciones que sea conveniente introducir en el presente Real Decreto. Durante el primer año la memoria se elevará semestralmente.
+
+## DISPOSICIÓN DEROGATORIA
+
+Quedan derogados el Decreto 3234/1971, de 23 de diciembre, por el que se aprobó el Arancel de los Registradores de la Propiedad, y los artículos 592. 594, 596, 597, 601, 610, 612 a 614, 615 párrafo primero, 616 y 618 del Reglamento Hipotecario aprobado por Decreto de 14 de febrero de 1947 y demás normas sobre Aranceles de los Registradores de la Propiedad contenidas en otras disposiciones de rango reglamentario, salvo las que establezcan bonificaciones.
+
+## DISPOSICIÓN FINAL
+
+El presente Real Decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+## ANEXO I — Arancel de los Registradores de la Propiedad
+
+### Número 1. Presentación.
+
+Por el asiento de presentación de cada título, cualquiera que sea el número de documentos complementarios que lo acompañen, ya se presenten al tiempo o dentro del plazo de vigencia del asiento de presentación, cualquiera que sea la clase y número de asientos que se pretendan, las fincas que comprenda y las notas complementarias que dé lugar el asiento de presentación, incluida, en su caso, la nota de suspensión o denegación del asiento solicitado 6,010121 euros.
+
+> Se convierten a euros la cuantía contemplada por el art. 8 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros la cuantía contemplada por el art. 8 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+### Número 2. Inscripciones.
+
+1\. Por la inscripción, anotación o cancelación de cada finca o derecho, se percibirán las cantidades que fijan las siguientes escalas:
+
+a) Si el valor de la finca o derecho no excede de 6.010,12 euros, 24,040484 euros.
+
+b) Por el exceso comprendido entre 6.010,13 y 30.050,61 euros, 1,75 por 1.000.
+
+c) Por el exceso comprendido entre 30.050,62 y 60.101,21 euros, 1,25 por 1.000.
+
+d) Por el exceso comprendido entre 60.101,22 y 150.253,03 euros, 0,75 por 1.000.
+
+e) Por el exceso comprendido entre 150.253,04 y 601.012,10 euros, 0,30 por 1.000.
+
+f) Por el valor que exceda de 601.012,10 euros 0,20 por 1.000.
+
+g) El arancel aplicable a la inscripción de escrituras de subrogación, novación modificativa y cancelación de créditos o préstamos hipotecarios será el contemplado en este apartado, tomando como base el capital pendiente de amortizar reducido en un 90 por 100 y con independencia de que la operación se integre o no en un proceso de subrogación o novación hipotecaria.
+
+En todo caso, el arancel global aplicable regulado en el número 2 del arancel no podrá superar los 2.181,673939 euros ni ser inferior a 24,040484 euros.
+
+En todos los supuestos de este número se aplicará una rebaja del 5 por 100 del importe del arancel a percibir por el registrador de la propiedad. Esta rebaja también se llevará a cabo, en todo caso, en los supuestos previstos en los apartados siguientes de este número y con carácter adicional a los demás descuentos y rebajas previstos en la normativa vigente y sin que resulte de aplicación a la misma lo dispuesto en el apartado 6 de este número.
+
+2\. Los derechos a que se refiere este número del arancel se reducirán al 75 por 100 de su impone en los préstamos con garantía hipotecada y al 70 por 100 en los siguientes casos:
+
+a) En las agrupaciones, segregaciones y divisiones de fincas. En las agrupaciones y agregaciones se tomará como base el valor de la finca resultante; en las segregaciones, el valor de la finca segregada, y en las divisiones, el valor de cada una de las fincas resultantes.
+
+Los asientos que se practiquen en las folios de las fincas originarias no devengarán honorarios.
+
+b) En las primeras inscripciones de cada propiedad separada en los casos de propiedad horizontal u otros regímenes de comunidad.
+
+c) En la constitución y cancelación de hipotecas y condiciones resolutorias cuando tuvieren por finalidad garantizar el precio aplazado en las compraventas.
+
+d) En los asientos de conversión, tanto de inscripciones de posesión como de anotaciones preventivas por defecto subsanable.
+
+e) En los asientos practicados a consecuencia de rectificación de títulos ya inscritos, siempre que ésta se solicite dentro de los tres meses siguientes a la fecha del asiento rectificado y no se modifique la titularidad de los derechos inscritos.
+
+3\. Los derechos de este número se bonificarán en un 50 por 100 cuando legalmente resulten obligadas al pago:
+
+a) Las Administraciones Públicas, comprendiendo la Estatal, Autonómica, Provincial, Local o sus Organismo autónomos.
+
+b) Los partidos políticos y las organizaciones sindicales.
+
+4\. Los derechos de este número se bonificarán igualmente en un 50 por 100 en los casos siguientes:
+
+a) Los préstamos para la rehabilitación protegida de viviendas existentes y del equipamiento comunitario primario.
+
+b) Las segundas o posteriores transmisiones de edificios y viviendas que hayan obtenido calificación o certificación de actuación protegible por reunir los requisitos exigidos en la normativa vigente.
+
+c) La subrogación, con o sin simultánea novación, y las novaciones modificativas de préstamos hipotecarios acogidas a la Ley 2/1994, de 30 de marzo, en cuanto al asiento de inscripción previsto en el último párrafo de los artículos 5 y 9 de la citada Ley. A estos efectos la nota marginal a que se refiere el c) párrafo 1 del mencionado artículo 5, tendrá la consideración de nota marginal de referencia. Para el cálculo de los honorarios se tomará como base la cifra del capital pendiente de amortizar en el momento de la subrogación, y en las novaciones modificativas la que resulte de aplicar al importe de la responsabilidad hipotecaria vigente el diferencial entre el interés del préstamo que se modifica y el interés nuevo.
+
+5\. Quedan además a salvo las exenciones o bonificaciones en materia de concentración parcelaria, Viviendas de Protección Oficial, explotaciones familiares y demás establecidas por Ley.
+
+6\. Cuando en un mismo asiento concurriesen dos o más reducciones o bonificaciones de las señaladas en los apartados 1 y 2 anteriores, se aplicará de entre ellas la más favorable para el obligado al pago.
+
+7\. En la inscripción del régimen de propiedad horizontal o de cualquier otro sistema de comunidad, no constituirá concepto minutable la existencia de estatutos o reglas especiales que configuren dicho régimen.
+
+No obstante, cuando los estatutos o reglas especiales del régimen de propiedad horizontal o de comunidad se establecieren con posterioridad a la inscripción del título constitutivo de dicho régimen, se percibirán los derechos del número 2 de este Arancel, reducidos en un 70 por 100 de su impone y sobre la base de la suma de los valores de los elementos a que la modificación afecte.
+
+8\. Cuando las operaciones a que se refieren el apanado anterior impliquen asientos en las folios separados ya abiertos, aquéllas no darán lugar a concepto minutable.
+
+9\. La desafectación de un elemento común devengará los derechos que correspondan por segregación o individualización como finca independiente sin considerar la repercusión que produzca en las demás cuotas.
+
+10\. En las inscripciones de obras públicas en que haya de practicarse inscripción principal y otras de referencia, se cobrarán por aquélla los derechos correspondientes según las escalas del número 2 del Arancel, y por cada una de las otras 6,010121 euros.
+
+> Se modifiica el apartado 1 por el art. 2.1 del Real Decreto 1612/2011, de 14 de noviembre. [Ref. BOE-A-2011-17962](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17962).
+
+> Véase la disposición adicional 8.1.2 del Real Decreto-ley 8/2010 de 20 de mayo. [Ref. BOE-A-2010-8228](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8228)., que aplica una rebaja del 5% al importe de los derechos de los registradores, previsto en el apartado 1.
+
+> Se convierten a euros las cuantías contempladas en los apartados 1 y 10 y la letra c) del apartado 4 por los arts. 8 y 9 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas en los apartados 1 y 10 y se modifica la letra c) del apartado 4 por los arts. 8 y 9 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2002-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24394).
+
+> Se modifica la letra f) del apartado 1 por el art. 36.2 del Real Decreto-Ley 6/2000, de 23 de junio. [Ref. BOE-A-2000-11836](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-11836).
+
+> Se añade la letra c) al apartado 4 por el art. 2 del Real Decreto 2616/1996, de 20 de diciembre. [Ref. BOE-A-1996-28544](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-28544).
+
+### Número 3. Notas marginales.
+
+1\. Por las notas marginales que impliquen adquisición, modificación o extinción de derechos inscritos, se devengará el 50 por 100 de los derechos que correspondan por el número 2.
+
+2\. Por las notas de constancia de la expedición de la certificación para expedientes de expropiación forzosa, reparcelación o compensación urbanística, las de entrega de capital en los préstamos hipotecarios, y las de afectación o adscripción de bienes de las Administraciones Públicas a determinados Organismos, y las de expedición de certificaciones de cargas para procedimientos ejecutivos se percibirán: 9,015182 euros.
+
+3\. Por las notas de afección en garantía de débitos fiscales se devengarán: 3,005061 euros.
+
+4\. Las notas de referencia practicadas por el Registrador para relacionar los distintos asientos del Archivo no devengarán derechos.
+
+> Se convierten a euros las cuantías contempladas en los apartados 2 y 3 por el art. 8 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas en los apartados 2 y 3 por el art. 8 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+### Número 4. Publicidad formal.-
+
+1\. Por los distintos instrumentos de publicidad formal se devengarán las cantidades siguientes:
+
+a) Certificación de dominio ya sea literal o en extracto, cualquiera que sea el tiempo a que se refiera, por cada finca: 9,015182 euros.
+
+b) Certificación de cargas, incluya o no la titularidad del dominio, por finca, y cualquiera que sea el número de cargas: 24,040484 euros.
+
+c) Por la certificación con información continuada, conjuntamente: 48,080968 euros
+
+d) Por certificación negativa de cargas: 9,015182 euros.
+
+e) Por otras certificaciones no comprendidas en los apartados anteriores: 6,010121 euros.
+
+f) Por nota simple informativa o exhibición, por cada finca, y cualquiera que sea el número de asientos que contenga el folio registral: 3,005061 euros.
+
+2\. La expresión en la certificación de que en el Libro Diario de presentación de documentos no consta asiento alguno que pueda modificar el contenido de aquélla, o la transcripción de los que existiesen, no devengará derecho alguno.
+
+3\. Tampoco devengarán derechos las certificaciones negativas expedidas en virtud de mandamiento dictado en expediente de justicia gratuita para personas físicas, o las de cualquier tipo que éstas soliciten en tanto estén disfrutando del beneficio concedido.
+
+4\. Por las notificaciones que se practiquen en virtud de las certificaciones con información continuada sólo se minutarán los gastos que las mismas originen.
+
+> Se convierten a euros las cuantías contempladas en el apartado 1 por el art. 8 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas en el apartado 1 por el art. 8 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+### Número 5. Dictamen registral.
+
+Por la emisión del informe regulado en el artículo 355 del Reglamento Hipotecario se devengarán los derechos que procedan, según el valor de la finca o derecho, conforme al número 2 de este Arancel.
+
+### Número 6. Asientos de incapacidad e inhabilitación:
+
+a) Por los asientos que se practiquen en el libro especial de incapacitados: 6,010121 euros.
+
+b) Por los asientos que se practiquen en los libros de inscripciones sobre incapacitación de personas físicas: 3,005061 euros.
+
+c) Por los asientos causados en los procedimientos de suspensión de pagos, concurso o quiebra de personas físicas o jurídicas se devengará el 25 por 100 de los derechos que procedan conforme al número 2, sobre el valor de la finca o derecho.
+
+> Se convierten a euros las cuantías contempladas en las letras a) y b) por el art. 8 de la Instrucción de 22 de mayo de 2001. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas en las letras a) y b) por el art. 8 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+## ANEXO II — Normas generales de aplicación
+
+### Primera.
+
+1\. El Arancel se aplicará sobre los valores comprobados fiscalmente de los hechos, actos o negocios jurídicos, y, a falta de aquéllos, sobre los consignados por las partes en el correspondiente documento.
+
+2\. Cuando no constaren dichos valores, por no exigirlo la naturaleza del hecho, acto o negocio jurídico celebrado, se fijarán por datos objetivos que consten documentados; o el valor registral de la finca o derecho; o el proporcional al comprobado de otras de análoga naturaleza y situación o el precio de tasación para subasta, si estuviese hipotecada. Las mimas reglas se aplicarán cuando los valores no estén individualizados sin que la suma de éstos pueda ser superior al valor global declarado.
+
+3\. Cuando el documento se presente a inscripción después de transcurridos diez años desde su otorgamiento, el Arancel se aplicará sobre el valor declarado, corregido por el coeficiente de actualización del valor de adquisición de los bienes establecidos por la legislación del Impuesto sobre la Renta a efectos de incrementos patrimoniales.
+
+### Segunda.
+
+1\. Para la regulación de derechos en las inscripciones y anotaciones en los casos de pro indiviso, se distribuirá el valor total de las fincas o derechos objeto de la adquisición entre los distintos partícipes en proporción a su respectivo haber, aplicando a cada una de las participaciones los derechos que correspondan, y sin que en ningún caso pueda exceder el total de los derechos el 1 por 100 del valor de la finca o derecho.
+
+2\. En las adquisiciones efectuadas por personas casadas en régimen de gananciales o cualquier otro de comunidad matrimonial, se tomará como única base el valor total de la finca o derecho adquirido.
+
+### Tercera.
+
+1\. Para la regulación de los derechos devengados en las anotaciones de embargo se atendrán los Registradores de la Propiedad al importe de la suma por la que se libre el mandamiento cuando el valor de la finca o derecho real anotado alcanzare a cubrir dicha suma, y, si no alcanzare, se ajustarán para este efecto al valor de la finca o derecho real sobre el que recaiga la anotación.
+
+2\. Siendo varias las fincas embargadas de un mismo Registro, se distribuirá la citada suma entre las mismas al efecto exclusivo de regular los derechos del Registrador.
+
+### Cuarta.
+
+En el caso de presentación de documentos en Registro distinto del competente, en los supuestos que estuviera autorizado, sin perjuicio de los derechos correspondientes al asiento de presentación que deba percibir el Registrador de destino, el Registrador de origen percibirá por las operaciones inherentes a su actuación los derechos del número 1, a los que se añadirá, en concepto de suplido, el coste de envío.
+
+### Quinta.
+
+1\. El impone de los derechos devengados, la base tenida en cuerna para su cálculo y los números del Arancel aplicados se hará constar al pie del título registrado, al final de la certificación o nota informativa, en su caso, y tras la nota de despacho que se hubiere practicado en el libro Diario.
+
+2\. Los derechos devengados por los registradores con arreglo a estos aranceles se consignarán en la oportuna minuta, en la que deberán expresarse los suplidos, conceptos, bases y números del arancel. La minuta, que irá firmada por el Registrador, incluirá las obligaciones de información que se establecen en el apartado 2 de la disposición adicional octava del Real Decreto-ley 8/2010, de 20 de mayo, por el que se adoptan medidas extraordinarias para la reducción del déficit público y deberá contener mención expresa al recurso que contra ella cabe y el plazo para su impugnación.
+
+3\. Los Registradores entregarán el original de la minuta al interesado y conservarán una copia de la misma.
+
+4\. El modelo de minuta será uniforme para todos los Registros y será aprobado por Resolución de la Dirección General de los Registros y del Notariado.
+
+> Se modifica el apartado 2 por el art. 2.2 del Real Decreto 1612/2011, de 14 de noviembre. [Ref. BOE-A-2011-17962](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17962).
+
+### Sexta.
+
+1\. Los interesados podrán impugnar la minuta formulada por el Registrador dentro del plazo de quince días hábiles siguientes al de su notificación o entrega.
+
+2\. La impugnación deberá presentarse ante el Registrador que la hubiere formulado, quien, con su informe, la elevará, en el plazo de diez días hábiles, ante la Junta Directiva del Colegio Nacional de Registradores de la Propiedad para su resolución.
+
+Asimismo, la impugnación podrá presentarse directamente ante la Junta Directiva del Colegio Nacional de Registradores de la Propiedad. En este caso, la Junta recabará inmediatamente informe del Registrador que habrá de emitirlo en el plazo máximo de diez días.
+
+3\. Las resoluciones de la Junta Directiva podrán apelarse en el plazo de diez días hábiles ante la Dirección General de los Registros y del Notariado.
+
+4\. La Junta Directiva deberá comunicar a la Dirección General todos los recursos que se hubieren interpuesto así como las resoluciones que dictaren en esta materia.
+
+### Séptima.
+
+Un ejemplar completo del Arancel, con sus normas de aplicación y adicionales, y una tabla en que figuren los derechos correspondientes a bases comprendidas entre 1 y 50 millones de pesetas que sean múltiplos de 100.000, estará a disposición del público en todos los Registros de la Propiedad, anunciándose tal circunstancia en lugar visible de la oficina.
+
+### Octava.
+
+1\. Los derechos del Registrador se pagarán por aquél o aquéllos a cuyo favor se inscriba o anote inmediatamente el derecho, siendo exigibles también a la persona que haya presentado el documento, pero en el caso de las letras b) y c) del artículo 6 de la Ley Hipotecaria, se abonarán por el transmitente o interesado.
+
+2\. Los derechos correspondientes a las certificaciones y manifestaciones serán de cargo de quienes las soliciten.
+
+### Novena.
+
+Las operaciones, con independencia de su modo de tramitación, que no tengan señalados derechos en el arancel no devengarán derecho de cobro ninguno.
+
+> Se modifica por el art. 2.2 del Real Decreto 1612/2011, de 14 de noviembre. [Ref. BOE-A-2011-17962](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17962).
+
+Dado en Madrid a 17 de noviembre de 1989.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno
+
+VIRGILIO ZAPATERO GÓMEZ

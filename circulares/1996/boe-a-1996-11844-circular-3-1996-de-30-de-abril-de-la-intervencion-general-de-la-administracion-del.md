@@ -1,0 +1,233 @@
+---
+title: "Circular 3/1996, de 30 de abril, de la Intervención General de la Administración del Estado, por la que se dictan instrucciones sobre función interventora"
+identifier: "BOE-A-1996-11844"
+eli: "https://www.boe.es/eli/es/cir/1996/04/30/3"
+type: circular
+rank: "Circular"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1996-04-30
+published: 1996-05-25
+in_force_from: 1996-06-14
+last_amended: 2024-07-19
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 127"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-11844"
+retrieved: 2026-10-11
+---
+
+# Circular 3/1996, de 30 de abril, de la Intervención General de la Administración del Estado, por la que se dictan instrucciones sobre función interventora
+
+La entrada en vigor del Real Decreto 2188/1995, de 28 de diciembre, por el que se desarrolla el régimen de control interno ejercido por la Intervención General de la Administración del Estado, publicado en el «Boletín Oficial del Estado» de 25 de enero de 1996, ha supuesto una modificación de la anterior normativa contenida fundamentalmente en los Reales Decretos de 3 de marzo de 1925, por el que se aprobó el Reglamento del Tribunal Supremo de la Hacienda Pública y en el 1124/1978, de 12 de mayo, por el que, con el carácter de instrucción provisional, se desarrollan las normas relativas a los servicios de intervención y control contenidas en la Ley General Presupuestaria.
+
+Por otra parte, el Real Decreto 405/1996, de 1 de marzo, de reorganización de la Intervención General de la Administración del Estado, modifica la estructura del Centro directivo y atribuye competencias a las Intervenciones delegadas en los diferentes Departamentos, Organismos y Administración periférica.
+
+El Real Decreto 2188/1995 desarrolla detalladamente el Texto Refundido de la Ley General Presupuestaria introduciendo novedades en el ejercicio de la función interventora respecto de la regulación anterior, ello aconseja dejar sin efecto distintas Circulares de este Centro, como la 7/1984 sobre comprobación material de las inversiones, la 5/1987 sobre procedimiento y contenido de los informes por omisión de la preceptiva fiscalización y la 1/1991 sobre procedimiento en el examen de las cuentas justificativas de pagos a justificar y anticipos de caja fija.
+
+Asimismo, la aplicación de algunos de sus preceptos ha suscitado dudas en distintas Intervenciones delegadas por lo que resulta aconsejable que, para garantizar la unidad de criterio, este Centro fije la doctrina en el ámbito de sus competencias.
+
+Por consiguiente, con la finalidad de conseguir este doble objetivo, esta Intervención General ha tenido a bien disponer lo siguiente:
+
+## Instrucción 1.ª Competencias.
+
+El Real Decreto 2188/1995 recoge, en el artículo 8.1.a) las competencias del Interventor general para fiscalizar la aprobación de determinados gastos, entre los que se encuentran los que supongan una modificación de otros que hubiera fiscalizado la Intervención General. Respecto de estos actos, el Interventor general ha delegado determinadas competencias en los Interventores delegados por Resolución de 10 de abril de 1996.
+
+Por lo que se refiere a los supuestos en los que la competencia del órgano gestor tenga un ámbito territorial pluriprovincial, se extienda o no a toda una Comunidad Autónoma, la intervención de los actos dictados por aquél corresponderá, de acuerdo con lo dispuesto en el artículo 7.4.a) del Real Decreto 405/1996, de 1 de marzo, de reorganización de la IGAE, al Interventor regional. En el caso de que la sede del órgano gestor se encuentre en una localidad distinta a aquella en la que radique el Interventor regional, se podrá proceder, en aras a la agilidad en el normal desenvolvimiento de los servicios, a delegar la competencia en el Interventor delegado territorial de la provincia donde tenga la sede el órgano gestor.
+
+Respecto de los expedientes de contratación que tengan por objeto la realización de auditorías y la elaboración e implantación de planes de contabilidad, deberán remitirse a este Centro, de acuerdo con lo dispuesto en la Carta-Circular de 1 de abril de 1991, por si el Interventor general decidiese avocar la competencia.
+
+## Instrucción 2.ª Recursos.
+
+De acuerdo con el artículo 17.1.a) del Real Decreto 2188/1995, de 28 de diciembre, están sometidos a intervención previa los actos resolutorios de recursos administrativos que tengan contenido económico, siendo el régimen de ejercicio, ordinario o especial de fiscalización limitada, aplicable a dichos actos el previsto para el expediente original por formar parte del mismo procedimiento. Idéntico criterio deberá aplicarse a los expedientes de revisión de actos administrativos.
+
+No obstante, las resoluciones de los órganos económico-administrativos están excluidas de intervención, pues dichos órganos no tienen atribuidas funciones de gestión, sino conforme al artículo 90 de la Ley General Tributaria, de resolución de las reclamaciones que se susciten contra los actos de gestión, ejerciendo unas funciones calificadas como de jurisdicción delegada siendo, por tanto, un órgano de autocontrol de la Administración. Es esta naturaleza de órgano especial, carente de funciones de gestión, lo que determina que sus resoluciones no estén sometidas a intervención. A mayor abundamiento, la legitimación que el ordenamiento jurídico otorga a los interventores para recurrir dichas resoluciones nos conduce al mismo resultado, pues de estar sometidas a fiscalización no tendría sentido esta legitimación para recurrirlas.
+
+## Instrucción 3.ª Pagos a justificar y anticipos de caja fija.
+
+Apartado 1.º Fiscalización previa de las órdenes de pago
+
+En la fiscalización previa de las órdenes de pago a justificar por las que se ponen fondos a disposición de las cajas pagadoras del Estado y sus Organismos autónomos y de las órdenes de pago para la constitución, modificación y reposición de fondos de los anticipos de caja fija se efectuarán las comprobaciones señaladas en los artículos 22 y 23 del Real Decreto 2188/1995, con las especialidades en cuanto al régimen de reparos previstas en el artículo 24 del citado texto.
+
+Para la adecuada interpretación y aplicación de los mencionados preceptos, se estima necesario realizar las siguientes precisiones:
+
+1\. La comprobación, en la fiscalización previa de las órdenes de pago a justificar, de que el órgano pagador, a cuyo favor se libren las órdenes de pago, ha justificado dentro del plazo correspondiente la inversión de los fondos percibidos con anterioridad, deberá tener presente que la cuenta se considera rendida desde el momento en que se presenta a la Unidad Central.
+
+Asimismo, en cuanto a la excepción a la formulación de reparo por falta de justificación de libramientos anteriores cuando el Ministro o Presidente o Director del Organismo autónomo autorice un nuevo libramiento, deberá considerarse que tal autorización, en tanto que dirigida a evitar daños en el funcionamiento de los servicios y, por tanto, de carácter excepcional, deberá ir referida a una orden de pago específica, debiendo rechazarse fórmulas genéricas que eludiesen con carácter general el contenido del artículo 1.3 del Real Decreto 640/1987, de 8 de mayo, sobre pagos librados a justificar.
+
+2\. Se entenderá que el crédito propuesto en el libramiento para la reposición de fondos por anticipos de caja fija es el adecuado cuando exista coincidencia entre las imputaciones presupuestarias del resumen de la cuenta y las de dicho libramiento.
+
+A este respecto, deberá tenerse presente que, tras la entrada en vigor del Real Decreto 2188/1995, la aprobación de la cuenta justificativa de los fondos librados por el sistema de anticipo de caja fija se produce una vez intervenida la misma y emitido el correspondiente informe por la Intervención competente, por lo que el documento contable de reposición de fondos se expedirá antes de la aprobación de dicha cuenta, y con cargo a las aplicaciones presupuestarias y por los importes consignados en la misma en ese momento. En este sentido, debe entenderse que la cuenta, tal como la haya rendido el correspondiente cajero pagador, acompañará al libramiento y le servirá de justificación, sin perjuicio de que se produzcan, en su caso, ulteriores operaciones de rectificación contable como consecuencia de su aprobación en distintos términos de aquéllos en los que se rindió.
+
+Apartado 2.º Intervención de cuentas de pagos a justificar
+
+La intervención de las cuentas justificativas de los pagos a justificar se realizará examinando las cuentas y los documentos que justifiquen cada partida.
+
+1\. El examen de las cuentas, que deberán ser presentadas con arreglo al modelo normalizado establecido por la Intervención General de la Administración del Estado en Resolución de 23 de diciembre de 1987, tiene por objeto verificar la observancia del procedimiento previsto en el artículo 12 del Real Decreto 640/1987 para su rendición, por lo que en cada cuenta deberá comprobarse que:
+
+Está debidamente firmada.
+
+Contiene un resumen cuadrado de la cuenta.
+
+Incluye, en su caso, la carta de pago acreditativa del reintegro del sobrante. En los casos de pagos en el exterior a que se refiere el Real Decreto 591/1993, de 23 de abril, se acompañarán los documentos previstos en dicha norma.
+
+Se rinde dentro del plazo establecido.
+
+Existe correlación de la cuenta con el libramiento a que se refiere.
+
+Comprende, debidamente relacionadas, facturas y documentos originales por importe igual al consignado en el resumen de la cuenta.
+
+2\. El examen de los justificantes se llevará a cabo con arreglo al siguiente procedimiento:
+
+I. Extensión del examen.
+
+El examen de los justificantes se realizará, de acuerdo con lo dispuesto en el punto IV de este apartado, sobre una muestra representativa de los mismos. No obstante, el Interventor, cuando aprecie la existencia de circunstancias particulares que lo aconsejen, podrá optar por el examen de todos los documentos citados.
+
+Se entenderán como justificantes a efectos de lo prevenido en el presente apartado, además de las facturas, las cuentas individuales de indemnizaciones por razón del servicio, y cuantos documentos, en general, acrediten un gasto determinado y justifiquen su pago, referidos a una misma partida de la cuenta en que se integran.
+
+II. Alcance del examen.
+
+En el examen de los justificantes se verificará:
+
+a) La adecuación de los gastos realizados y justificados al crédito del libramiento y a las atenciones específicas para cuya cobertura fueron librados los fondos. Cuando los gastos justificados correspondan a conceptos distintos de los del libramiento pero se respete el nivel de vinculación presupuestaria establecido en la Ley, el Interventor deberá considerar correcta dicha imputación. No obstante, en el informe se hará constar dicha circunstancia a fin de que, siempre que sea posible, se efectúen las oportunas operaciones de rectificación contable.
+
+b) Constancia del importe pagado, del gasto realizado y la identificación del acreedor.
+
+c) Conformidad con la prestación recibida.
+
+d) El recibí del acreedor o documento que acredite el pago del importe correspondiente.
+
+e) El procedimiento aplicable en la ejecución de gastos concretos y determinados, incluida la fiscalización previa de los que no se encuentran excluidos de la misma de acuerdo con el artículo 95.1 y 2 del texto refundido de la Ley General Presupuestaria.
+
+III. Resultados del examen.
+
+Cuando la cuenta no se reciba debidamente firmada por el órgano proponente para su aprobación, se devolverá por la Intervención para su firma.
+
+Los resultados del examen se pondrán de manifiesto en los informes a que hacen referencia el apartado 4.º y la Instrucción 6.ª siguientes.
+
+IV. Procedimientos de muestreo.
+
+1\. Elección del procedimiento.
+
+En el supuesto de aplicación de un procedimiento de muestreo, la elección del tipo del mismo se realizará por la Intervención Delegada competente en función de los medios disponibles y de los objetivos y alcance perseguidos, debiendo garantizarse, en todo caso, la aleatoriedad y objetividad del proceso de selección y la representatividad de la muestra. A estos efectos, se podrán utilizar los procedimientos de muestreo que figuran en el anexo I de la Circular 3/1992, de 3 de marzo, de este Centro.
+
+La determinación del tamaño de la muestra o, alternativamente, de la precisión y nivel de confianza fijados, se efectuará en función de los cometidos y carga de trabajo de la Intervención, y de los medios personales y materiales disponibles, así como del número de facturas o justificantes que componen el universo.
+
+A estos efectos, se define el universo como el conjunto de facturas o justificantes integrantes de las cuentas justificativas que deban ser aprobadas por la misma Autoridad, y que tienen entrada en la Intervención a lo largo de un año.
+
+El tipo de muestreo elegido deberá garantizar el examen de las cuentas a medida que tienen entrada en la Intervención, para lo cual se procederá a la previsión del universo para cada año.
+
+2\. Aplicación del procedimiento.
+
+Para la aplicación del procedimiento de muestreo se tendrán en cuenta las siguientes especificaciones:
+
+El criterio de ordenación de las cuentas será el del Registro de Entrada de la Intervención.
+
+El marco o «lista de unidades de muestreo», estará constituido por copias de las «relaciones» de facturas o justificantes que integran las cuentas, respetando dentro de cada «relación» el orden en que aparezcan dichas facturas o justificantes.
+
+Los justificantes o facturas a examinar en cada cuenta se obtendrán de las citadas relaciones que integran el marco o «lista de unidades de muestreo», aplicando el procedimiento de muestreo elegido.
+
+3\. Diligenciado de las cuentas.
+
+Las cuentas que se examinen utilizando procedimientos de muestreo, se diligenciarán indicando lo siguiente: «Intervención por muestreo. Artículo 12.4 Real Decreto 640/87. Cuenta justificativa examinada por muestreo». Esta diligencia figurará en la carátula de las cuentas y se firmará por el Interventor actuante.
+
+4\. Limitaciones al muestreo.
+
+A fin de garantizar que todas las cuentas son objeto de verificación, se excluirán de la aplicación de procedimientos de muestreo aquellas cuyo número de documentos justificativos sea muy reducido a juicio del Interventor.
+
+Asimismo y, sin perjuicio de su inclusión en el universo, se efectuará la comprobación de todos los justificantes que superen individualmente el importe de 300.000 pesetas.
+
+Apartado 3.º Intervención de las cuentas justificativas de anticipos de caja fija
+
+En el examen de las cuentas y documentos que las justifican, será de aplicación lo establecido en el apartado 2.º anterior, sobre «pagos a justificar», con las particularidades siguientes:
+
+1\. El modelo a que se ha de ajustar la cuenta será el establecido en la Resolución de esta Intervención General de 14 de septiembre de 1989, con las variaciones derivadas de que la aprobación de la cuenta se produce una vez intervenida la misma y de que queda suprimido el trámite de alegaciones, tal como se especifica en el apartado 4.º siguiente.
+
+2\. No serán de aplicación los extremos relativos a la comprobación de la correlación de la cuenta con el libramiento a que se refiere, reintegro del sobrante y cumplimiento de plazos para la rendición de cuentas.
+
+3\. En el examen de los justificantes, la adecuación de los gastos al crédito presupuestario y a las atenciones para cuya cobertura fueron librados los fondos se referirá al libramiento para reposición y a la naturaleza de las atenciones previstas en los Acuerdos de constitución o modificación del anticipo.
+
+4\. Si en el examen de los justificantes se incluyen gastos correspondientes a conceptos no relacionados en el artículo 1 del Real Decreto 725/89 o pagos por importe superior a 5.000 euros, excepto los relacionados en el artículo 2.3 de dicha norma, se hará constar en el informe a la cuenta.
+
+5\. La diligencia a consignar en las cuentas, cuando se apliquen procedimientos de muestreo, será la siguiente: «Intervención por muestreo. Artículo 7.4 del Real Decreto 725/89. Cuenta justificativa examinada por muestreo».
+
+6\. Limitaciones al muestreo.
+
+A fin de garantizar que todas las cuentas son objeto de verificación, se excluirán de la aplicación de procedimientos de muestreo aquellas cuyo número de documentos justificativos sea muy reducido a juicio del Interventor.
+
+Asimismo, y sin perjuicio de su inclusión en el universo, se efectuará la comprobación de todos los justificantes que superen individualmente el importe de 3.000 euros.
+
+Apartado 4.º Informes
+
+De acuerdo con lo previsto en los Reales Decretos 640/1987, de 8 de mayo; 725/1989, de 16 de junio, y 2188/1995, de 28 de diciembre, para cada cuenta justificativa de la inversión de fondos librados «a justificar» o como «anticipo de caja fija» se realizará informe singular en el que se reflejarán los resultados del examen efectuado sobre la misma y sobre los justificantes de las distintas partidas que la integran. En el indicado informe habrá de dejarse constancia del procedimiento seguido para el examen. En las correspondientes hojas de trabajo se indicarán los justificantes examinados de acuerdo con el muestreo utilizado. Asimismo, se consignará en los correspondientes justificantes la diligencia «Justificante seleccionado».
+
+El informe que se emita contendrá una opinión favorable o desfavorable acerca de la cuenta y de los documentos que justifiquen cada partida.
+
+En este sentido, deberá emitirse informe favorable cuando no se observe defecto alguno al realizar las comprobaciones a que hacen referencia el punto 2.II del apartado 2.º y el punto 4 del apartado 3.º e informe desfavorable en caso contrario y, en particular, cuando se detecten defectos que impliquen la falta de justificación total o parcial de la cuenta o la posible existencia de responsabilidades previstas en los artículos 140 y siguientes del texto refundido de la Ley General Presupuestaria, supuestos, estos últimos, que requerirán, asimismo, la emisión de un informe especial con arreglo al procedimiento previsto en la instrucción 6.ª siguiente.
+
+A estos efectos, deberá entenderse no justificada la cuenta, en todo caso, cuando la suma de los justificantes originales, incluido, en su caso, el del reintegro, sea inferior al importe del libramiento que justifica.
+
+El informe, que en ningún caso tendrá efectos suspensivos respecto a la aprobación de la cuenta, será remitido por el Interventor junto con la correspondiente cuenta, que será aprobada, en su caso, por el órgano gestor. En este sentido, debe tenerse en cuenta que la redacción del artículo 25.c) del Real Decreto 2188/1995, supone una modificación en la tramitación de las cuentas por anticipos de caja fija prevista en el Real Decreto 725/89 en tanto que, a partir de la entrada en vigor de aquél, las cuentas no se aprueban con carácter previo al examen a practicar por la Intervención, sino que dicha aprobación se producirá, en su caso, una vez intervenida la cuenta justificativa por el órgano de control y emitido el correspondiente informe, razón ésta por la que debe entenderse sin efecto el trámite de alegaciones contemplado en el artículo 7.4 del Real Decreto 725/89, antes citado.
+
+> Se modifica el punto 4 y se añade el 6 al apartado 3 por el apartado 1 de la Circular 2/2024, de 8 de julio. [Ref. BOE-A-2024-14837](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-14837)
+
+> Téngase en cuenta que el apartado 3.6 será de aplicación a todas las cuentas justificativas pendientes de informe por la Intervención Delegada, Regional o Territorial competente, según establece el apartado 2 de la Circular 2/2024, de 8 de julio.
+
+## Instrucción 4.ª Comprobación material de la inversión.
+
+**(Derogada)**.
+
+> Se deroga por la disposición derogatoria única de la Resolución de 14 de julio de 2015. [Ref. BOE-A-2015-8268](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8268).
+
+## Instrucción 5.ª Omisión de la intervención previa.
+
+El procedimiento a seguir cuando se produce la omisión de la fiscalización o de la intervención previa, siendo éstas preceptivas, sigue estando centrado en la emisión por parte del Interventor que advierta esa circunstancia de un informe dirigido al órgano gestor, en el que, por una parte, ha de poner de manifiesto la citada omisión, y, por otra, ha de formular su opinión respecto de la propuesta.
+
+Los informes deberán redactarse de forma que incluyan, ordenada y separadamente, los siguientes apartados:
+
+a) Descripción detallada del gasto, con inclusión de todos los datos necesarios para su identificación, haciendo constar, al menos, los siguientes extremos:
+
+Organo gestor.
+
+Objeto del gasto.
+
+Importe.
+
+Naturaleza jurídica (tipo de contrato, subvención, convenio, etc.)
+
+Fecha de realización.
+
+Concepto presupuestario y ejercicio económico al que se imputa.
+
+b) Exposición de los incumplimientos normativos que, a juicio del interventor informante, se produjeron en el momento en que se adoptó el acto con omisión de la preceptiva fiscalización o intervención previa, enunciando expresamente los preceptos legales infringidos.
+
+c) Constatación de que las prestaciones se han llevado a cabo efectivamente y de que su precio se ajusta al precio de mercado, para lo cual se tendrán en cuenta las valoraciones y justificantes aportados por el órgano gestor, que habrá de recabar los asesoramientos o informes técnicos que resulten precisos a tal fin.
+
+d) Comprobación de que existe crédito presupuestario adecuado y suficiente para satisfacer el importe del gasto.
+
+e) Posibilidad y conveniencia de revisión de los actos dictados con infracción del ordenamiento, que será apreciada por el interventor, en función de si se han realizado o no las prestaciones, el carácter de éstas y su valoración, así como de los incumplimientos legales que se hayan producido. Para ello, se tendrá en cuenta que el resultado de la revisión del acto se materializará acudiendo a la vía de indemnización de daños y perjuicios derivada de la responsabilidad patrimonial de la Administración como consecuencia de haberse producido un enriquecimiento injusto en su favor o de incumplir la obligación a su cargo, por lo que, por razones de economía procesal, sólo sería pertinente instar dicha revisión cuando sea presumible que el importe de dichas indemnizaciones fuera inferior al que se propone.
+
+## Instrucción 6.ª Actuaciones e informes especiales.
+
+Cuando en el ejercicio de la función interventora, el Interventor actuante entienda que los hechos acreditados en el expediente pudieran ser constitutivos de infracciones administrativas o de responsabilidades contables o penales se emitirá un informe especial.
+
+En particular, se emitirá este informe cuando en el examen de las cuentas de fondos librados a justificar o como anticipo de caja fija y de sus justificantes se detectaran defectos graves que, a juicio del Interventor, impliquen la falta de justificación parcial o total de la cuenta a la que se refieren, en cuyo caso se extenderá el examen a fin de obtener evidencia suficiente sobre la irregularidad apreciada y su alcance. Esta extensión se efectuará, en función del tipo y características de los defectos advertidos, sobre la cuenta, gasto o caja pagadora de que se trate.
+
+El informe especial se remitirá a los órganos gestores a efectos de alegaciones. Transcurrido el plazo de quince días y si, a juicio del Interventor, los defectos o anomalías no hubiesen sido subsanados suficientemente, lo pondrá en conocimiento de la Intervención General de la Administración del Estado mediante informe en el que se indicará:
+
+Las presuntas infracciones, con descripción de los hechos constatados y los elementos que suponen su inclusión en el correspondiente tipo de infracción penal, administrativa o que den lugar a responsabilidad contable.
+
+La identificación de los presuntos responsables.
+
+Cuando del supuesto de hecho se derive responsabilidad contable, la cuantificación de los perjuicios causados.
+
+Al citado informe se acompañará copia de la documentación en la que conste la evidencia obtenida, así como, en su caso, de las alegaciones que hubiera realizado el ente controlado. Asimismo, se indicarán las actuaciones realizadas por el órgano gestor en relación a las presuntas infracciones detectadas.
+
+## Disposición derogatoria.
+
+Quedan sin efecto las Circulares de este Centro 7/1984, de 9 de marzo; 5/1987, de 31 de marzo, y 1/1991, de 15 de marzo.
+
+Madrid, 30 de abril de 1996.–El Interventor general, Gregorio Mañez Vindel.
+
+Excmo. Sr. Interventor general de la Defensa, Ilmo. Sr. Interventor general de la Seguridad Social, Ilmos. Sres. Interventores delegados en departamentos ministeriales, centros, organismos autónomos administrativos e Interventores regionales y territoriales de la Administracion del Estado.

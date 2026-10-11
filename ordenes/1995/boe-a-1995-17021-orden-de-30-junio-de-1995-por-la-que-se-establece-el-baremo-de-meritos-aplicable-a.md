@@ -1,0 +1,419 @@
+---
+title: "Orden de 30 junio de 1995 por la que se establece el baremo de méritos aplicable a la promoción interna de los funcionarios del Cuerpo Nacional de Policía"
+identifier: "BOE-A-1995-17021"
+eli: "https://www.boe.es/eli/es/o/1995/06/30/(3)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia e Interior"
+date: 1995-06-30
+published: 1995-07-13
+in_force_from: 1995-07-14
+last_amended: 2024-06-25
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 166"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-17021"
+retrieved: 2026-10-11
+---
+
+# Orden de 30 junio de 1995 por la que se establece el baremo de méritos aplicable a la promoción interna de los funcionarios del Cuerpo Nacional de Policía
+
+Téngase en cuenta que, sin perjuicio de lo previsto en la disposición derogatoria única del Real Decreto 853/2022, de 11 de octubre, por el que se aprueba el Reglamento de procesos selectivos y formación de la Policía Nacional, y hasta tanto entren en vigor las disposiciones necesarias para la ejecución y desarrollo del reglamento que se aprueba por este real decreto, será aplicable, en cuanto sea compatible con el contenido del mismo, la presente Orden, según establece la disposición transitoria segunda del citado Real Decreto. [Ref. BOE-A-2022-16582](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16582).
+
+El Real Decreto 614/1995, de 21 de abril, por el que se aprueba el Reglamento por el que se regulan los procesos selectivos y de formación en el Cuerpo Nacional de Policía, señala, en sus artículos 15, 17, 20 y 25, que el proceso de promoción interna para el acceso a las diferentes categorías del Cuerpo Nacional de Policía constará de una primera fase de calificación previa o de concurso en la que con arreglo a un baremo se valorará la trayectoria profesional, teniendo en cuenta la función y puestos de trabajo desempeñados, las recompensas y condecoraciones obtenidas, los méritos culturales relacionados con la actividad policial que se posean y, en su caso, la antigüedad efectiva en el Cuerpo Nacional de Policía.
+
+Es necesario, por tanto, fijar el baremo de méritos aplicable a los procesos de promoción de los funcionarios del Cuerpo Nacional de Policía, basado en criterios de profesionalidad y eficacia, propiciando las condiciones más favorables para una adecuada promoción profesional de acuerdo con los principios de objetividad, igualdad de oportunidades, méritos y capacidad.
+
+En virtud de cuanto antecede, previo informe del Consejo de Policía y aprobación del Ministro para las Administraciones Públicas, dispongo:
+
+### Primero.
+
+Se aprueba el baremo de méritos que figura como anexo I de la presente Orden y que será de aplicación en los procesos selectivos de promoción interna en las distintas categorías del Cuerpo Nacional de Policía, en las modalidades de concurso-oposición y antigüedad selectiva, de conformidad con lo establecido en el Real Decreto 614/1995, de 21 de abril.
+
+### Segundo.
+
+1\. El historial profesional comprenderá los conceptos que bajo esa denominación se relacionan en los números 1, 2 y 3 del apartado A, del anexo I.
+
+2\. Los méritos académicos y otras actividades de formación y preparación relacionadas con la función policial estarán constituidos por los que se recogen en los números 1, 2 y 3 del apartado B, del anexo I.
+
+3\. La antigüedad será valorada con arreglo a las puntuaciones que se señalan en el apartado C, del repetido anexo I.
+
+### Tercero.
+
+A los efectos prevenidos en la presente Orden se entiende por actividades policiales operativas las directamente relacionadas con el cumplimiento de las funciones que se relacionan en el artículo 11.1 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, en sus apartados b), c), d), e), f), g) e i), así como las relativas a captar directamente cuantos datos tengan interés para el orden y la seguridad pública y poner en práctica los métodos y técnicas de prevención de la delincuencia.
+
+Asimismo, las actividades de gestión y apoyo a la función policial serán las que no estando comprendidas en las anteriormente mencionadas, son atribuidas por la normativa vigente para su desempeño por los funcionarios del Cuerpo Nacional de Policía.
+
+### Cuarto.
+
+Todos los méritos que sean alegados en los procesos selectivos de promoción interna en los que se intervenga, deberán ser documentalmente acreditados, incluidas, en su caso, las equivalencias u homologaciones de títulos obenidos o estudios cursados, para ser tenidos en consideración por el Tribunal correspondiente a efectos de baremo.
+
+No obstante lo anterior, los méritos que ya se encuentren documentados en la Administración receptora no será necesario justificarlos de nuevo.
+
+### Quinto.
+
+1\. Dentro de cada uno de los apartados A, B, y C del anexo I, serán acumulables las puntuaciones correspondientes a los distintos grupos de méritos.
+
+2\. No obstante lo anterior, en el apartado A, serán excluyentes entre sí las comprendidas en los números 1.2 y 1.4 y, en el mismo apartado, tampoco serán acumulables las correspondientes a los números 3.1.1 y 3.1.2, salvo, en ambos casos, en la medida en que se refieran a lapsos de tiempo distintos.
+
+3\. La puntuación de cualquier mérito académico del apartado B excluirá las correspondientes a otros méritos necesarios para adquirir aquél.
+
+### Sexto.
+
+Para la promoción a categoría superior se tendrán en cuenta las puntuaciones obtenidas en las categorías de la Escala en la que se encuentre el funcionario, las que se consumirán sólo con motivo del ascenso a la Escala inmediata superior.
+
+No obstante lo anterior, en ningún caso se consumirán las puntuaciones correspondientes a las Condecoraciones y Recompensas del número 2, del apartado A, ni la totalidad de las establecidas en el apartado B, ambos del anexo I, sobre méritos académicos y otras actividades de formación, preparación y estudio relacionados con la función policial.
+
+### Séptimo.
+
+1\. Las puntuaciones correspondientes al historial profesional del número 1.1 del apartado A del anexo I, se aplicarán por cada año de servicio, teniéndose en cuenta la mayor puntuación obtenida durante un período continuado de noventa días naturales, como mínimo, en el supuesto de que correspondan en el mismo año dos o más diferentes por distintos puestos ocupados o servicios prestados.
+
+En todo caso se entenderá que los funcionarios del Cuerpo Nacional de Policía en situación de servicio activo en el mismo ocupan un puesto de trabajo, con independencia de que al no estar singularizado no se encuentre incluido en la tabla de puntuaciones de los servicios profesionales del citado número 1.1 del apartado A del anexo I.
+
+2\. Las puntuaciones reconocidas a los servicios prestados en las Plantillas policiales pertenecientes a las Jefaturas Superiores de Policía de Madrid, Barcelona, Bilbao, Las Palmas de Gran Canaria, Palma de Mallorca y Pamplona, previstas en el número 1.5, del apartado A, del anexo I serán aplicadas únicamente a cada año de servicio ininterrumpido.
+
+### Octavo.
+
+1\. En los procesos de promoción interna para el ascenso a la categoría inmediata superior se exigirán las puntuaciones mínimas que se indican, obtenidas durante su permanencia en las categorías de la Escala en la que se encuentre el funcionario, en la parte estrictamente profesional, que comprenderá las señaladas en el apartado A, sobre historial profesional, del anexo I a esta Orden, sin perjuicio de los dispuesto en el párrafo segundo del apartado sexto de la misma.
+
+A Subinspector: 18 puntos.
+
+A Inspector: 10 puntos.
+
+A Inspector Jefe: 25 puntos.
+
+A Comisario: 60 puntos.
+
+En el ascenso de la categoría de Comisario a la de Comisario Principal se exigirá una puntuación mínima de 140 puntos, obtenidos en la Categoría de Comisario, sin perjuicio de lo establecido en el citado párrafo segundo, del apartado sexto, de esta Orden, teniendo en cuenta los grupos de méritos A, B y C fijados en el anexo I de la presente Orden.
+
+2\. Las puntuaciones consumibles obtenidas con posterioridad a la finalización del plazo fijado para la acreditación de los méritos en el correspondiente proceso selectivo, sin que hayan sido baremadas para el mismo, serán tenidas en cuenta en los procesos sucesivos en los que se intervenga, hasta que proceda su consumación con arreglo a lo dispuesto en la presente Orden.
+
+### Noveno.
+
+Los puestos de trabajo desempeñados por los funcionarios del Cuerpo Nacional de Policía en las distintas Administraciones Públicas, fuera del ámbito de la Dirección General de la Policía, y en los Organismos Internacionales, a los efectos de valoración previstos en esta Orden, serán asimilados, por el Tribunal del proceso selectivo correspondiente, a los establecidos en el epígrafe 1 del apartado A del anexo I. A tal fin, se tendrán en cuenta la denominación del puesto desempeñado, el nivel de complemento de destino, las funciones y responsabilidades asignadas al mismo y el ámbito territorial en que han de ser desarrolladas.
+
+> Se modifica por el apartado único.1 de la Orden INT/4008/2005, de 16 de diciembre. [Ref. BOE-A-2005-21047](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21047).
+
+### Décimo.
+
+1\. El Tribunal del proceso selectivo valorará, previo informe razonado de la División de Personal, las condecoraciones y recompensas de otros organismos, previstas en los números 2.6 y 2.7 del apartado A del anexo I, hasta el máximo que se establece en los mismos.
+
+2\. Asimismo, los méritos previstos en el apartado B del anexo I, que no tengan señalada puntuación fija, serán valorados por el Tribunal del proceso selectivo, previo informe razonado de la División de Formación y Perfeccionamiento. A estos efectos, tratándose de cursos, se atenderá al número de horas lectivas, al grado de dificultad, nivel de las disciplinas que comporta y otras circunstancias concurrentes.
+
+### Disposición adicional primera.
+
+Para la concesión de las felicitaciones públicas comprendidas en el número 2.5 del apartado A del anexo I se tendrán en cuenta criterios de relevancia policial en el servicio, riesgo, trascendencia social, grado de dedicación, carácter humanitario, el prestigio de la corporación policial, así como cualquier otro que mejore la eficacia, posibilite la incentivación profesional y se establezca en las disposiciones de desarrollo y aplicación de esta norma.
+
+Las felicitaciones públicas serán propuestas al Director general de la Policía por los Subdirectores generales correspondientes en el ámbito de sus respectivas competencias, previo el siguiente procedimiento:
+
+1\. En los Órganos centrales, la iniciativa corresponderá a los Comisarios generales, Jefes de División, o Secretarios Técnicos de las Subdirecciones Generales que tramitarán su propuesta al Subdirector general correspondiente.
+
+2\. En los Órganos periféricos la iniciativa corresponderá a los Jefes de las Comisarías Provinciales, los cuales tramitarán su propuesta, con el informe favorable del Gobernador Civil, al Comisario General o Jefe de División correspondiente, quien procederá como se determina en el apartado anterior.
+
+3\. No obstante lo anterior, cuando concurran circunstancias especiales, los Subdirectores generales podrán proponer la recompensa de felicitación pública a cualquier funcionario, comunicando tal propuesta, en el momento de su formulación, al Comisario general, Jefe de División, Jefe Superior o Jefe de la Comisaría Provincial respectivo.
+
+### Disposición adicional segunda.
+
+Los méritos adquiridos con anterioridad a la presente Orden se valorarán conforme a las puntuaciones que se establecen en la misma. Los méritos adquiridos y no previstos expresamente en la presente Orden, serán valorados por el Tribunal del proceso selectivo, previo informe de la División de Personal, conforme a la normativa vigente en el momento de su reconocimiento, sin que la puntuación que se otorgue sobrepase la que se establece para méritos análogos en el baremo que se aprueba por la presente Orden.
+
+No obstante, los méritos que a continuación se señalan, todos ellos del historial profesional, serán valorados con las puntuaciones siguientes:
+
+Por cada año continuo de servicio como Jefe de Negociado: 2,5 puntos.
+
+Galón de mérito: 1 punto.
+
+Felicitación Pública con Premio en Metálico: Otorgada con anterioridad a la vigencia de la Orden del Ministerio del Interior de 19 de junio de 1989: 0,50 puntos.
+
+Felicitación Pública: Otorgada con anterioridad a la vigencia de la Orden del Ministerio del Interior de 19 de junio de 1989: 0,25 puntos.
+
+### Disposición adicional tercera.
+
+1\. Será considerado como mérito para el ingreso en el Cuerpo Nacional de Policía el tiempo de servicio prestado en las Fuerzas Armadas como militar de complemento, como militar profesional de tropa o marinería o como reservista voluntario.
+
+2\. Dicho tiempo de servicios será valorado, durante la fase de oposición, con la puntuación que se establece en el anexo II de la presente Orden, que se incorporará a la suma final de la puntuación que se obtenga en las pruebas realizadas.
+
+> Se modifica el apartado 1 por el apartado único.2 de la Orden INT/4008/2005, de 16 de diciembre. [Ref. BOE-A-2005-21047](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21047).
+
+### Disposición adicional cuarta.
+
+1\. Será considerado como mérito para el ingreso por el sistema de oposición libre en la Escala Ejecutiva del Cuerpo Nacional de Policía el tiempo de servicio prestado como funcionario de dicho Cuerpo, el cual será valorado, durante la fase de oposición, con la puntuación que se establece a continuación, que se incorporará a la suma final de la puntuación que se obtenga en las pruebas realizadas.
+
+2\. Puntuación:
+
+Por cada año de servicio en la categoría de Policía: 0,20 puntos.
+
+Por cada año de servicio en la categoría de Oficial de Policía: 0,30 puntos.
+
+Por cada año de servicio en la categoría de Subinspector: 0,40 puntos.
+
+> Se añade por el apartado único de la Orden de 1 de octubre de 1999. [Ref. BOE-A-1999-19941](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-19941).
+
+### Disposición adicional quinta. Deportistas de alto nivel.
+
+Asimismo, también será considerado como mérito para el ingreso y la promoción interna en el Cuerpo Nacional de Policía haber ostentado la condición de deportista de alto nivel en los últimos cinco años, a contar desde la fecha de publicación de la convocatoria. Dicho mérito será valorado de acuerdo con lo dispuesto en la normativa específica.
+
+> Se modifica por la disposición final 4 del Real Decreto 637/2010, de 14 de mayo. [Ref. BOE-A-2010-8322](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8322).
+
+> Se añade por el apartado único.3 de la Orden INT/4008/2005, de 16 de diciembre. [Ref. BOE-A-2005-21047](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21047).
+
+### Disposición transitoria.
+
+Los niveles del Grado de Aptitud Física Policial vigentes, obtenidos en virtud de convocatorias publicadas conforme a la Resolución de 23 de septiembre de 1993, mantendrán su validez hasta que se resuelva la convocatoria para la realización de pruebas para la obtención de los nuevos niveles del Grado de Aptitud Física establecidos en el apartado B.3.2 del anexo de esta orden.
+
+> Se añade por la disposición final 2.1 de la Orden INT/632/2024, de 20 de junio. [Ref. BOE-A-2024-12811](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12811)
+
+### Disposición derogatoria.
+
+Quedan derogadas las Órdenes del Ministerio del Interior de fechas 19 de junio de 1989 («Boletín Oficial del Estado» número 165, de 12 de julio), 1 de febrero de 1991 («Boletín Oficial del Estado» número 33, del 7) y 6 de febrero de 1994 («Boletín Oficial del Estado» número 57, de 8 de marzo), así como restantes disposiciones de igual o inferior rango.
+
+### Disposición final primera.
+
+Por la Dirección General de la Policía se adoptarán las medidas necesarias para la puesta en práctica de lo establecido en la presente Orden.
+
+### Disposición final segunda.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 30 de junio de 1995.
+
+BELLOCH JULBE
+
+## ANEXO I — Baremo de méritos aplicable a la promoción interna en el Cuerpo Nacional de Policía
+
+## A. Historial profesional
+
+1\. Servicios profesionales
+
+1.1 Por cada año de servicio en cada uno de los puestos de trabajo incluidos en el Catálogo del Ministerio del Interior.
+
+1.1.1 Director general de la Policía: 25.
+
+1.1.2 Subdirector: 22.
+
+1.1.3 Comisarios generales y Jefes de División: 20.
+
+1.1.4 Jefes Superiores de Madrid y Barcelona: 18.
+
+1.1.5 Resto de Jefes Superiores de Policía; puestos de trabajo con NCD 30 no citados en otros epígrages: 17.
+
+1.1.6 Inspectores Regionales de Servicios; puestos de trabajo con NCD 29: 16.
+
+1.1.7 Jefes Comisarías Provinciales del Grupo A (salvo que por el NCD asignado le corresponda una puntación superior): 15.
+
+1.1.8 Jefes Comisarías Provinciales del Grupo B, Inspectores Provinciales de Servicios; Jefes Comisarías Locales del Grupo 1.º; puestos de trabajo de NCD 28 no citados en otros epígrafes: 14.
+
+1.1.9 Jefes Comisarías Locales del Grupo 2.º; Inspectores Locales de Servicios; puestos de trabajo de NCD 27 no citados en otros epígrafes: 13.
+
+1.1.10 Puestos de trabajo de NCD 26 no citados en otros epígrafes: 12.
+
+1.1.11 Jefe Sección Operativa y puestos de carácter operativo asimilados, con NDC 24 y 25, en Servicios Centrales y en Madrid y Barcelona: 10.
+
+1.1.12 Jefe Sección Administrativa o Técnica y puestos asimilados con NCD 24 y 25 en Servicios Centrales y en Madrid y Barcelona; Jefes Sección Operativa y puestos de carácter operativo con NCD 24 en Comisarías Provinciales del Grupo A; Jefes de Puestos Fronterizos (salvo que por aplicación de epígrafes anteriores de este apartado le corresponda una puntuación superior): 9.
+
+1.1.13 Asesores Técnicos; Jefes de Gabinete Psicopedagógico de Centros Docentes; Secretarios Locales de Comisarías Locales del Grupo 1.º; Jefes de Sección Operativa y puestos de carácter operativo con NCD 24 en Comisarías Provinciales del Grupo B y Comisarías Locales del Grupo 1.º: 8.
+
+1.1.14 Jefes de Brigada Local Operativa (salvo que por aplicación de epígrafes anteriores de este apartado le corresponda una puntación superior); Jefes de Sección Administrativa o Técnica en Comisarías Provinciales del Grupo A: 7.
+
+1.1.15 Jefes Grupo Operativo en Servicios Centrales y en Madrid y Barcelona; Jefes de Sección Operativa en Comisarías Locales del Grupo 2.º; Secretarios Locales de Comisarías Locales del Grupo 2.º; Profesores Jefes de Area Docente de los Centros Docentes de la Dirección General de la Policía: 6.
+
+1.1.16 Jefes Grupo Operativo en Comisarías Provinciales del Grupo A; Profesores de Centros Docentes; Jefes de Sección Administrativa o Técnica en Comisarías Provinciales del Grupo B y en Comisarías Locales del Grupo 1.º: 5.
+
+1.1.17 Jefes Grupo Operativo Comisarías Provinciales del grupo B; Jefes Grupo Operativo Comisarías Locales del Grupo 1.º; Jefes Grupo Operativo Puestos Fronterizos; Instructores de Expedientes Disciplinarios en Servicios Centrales: 4.
+
+1.1.18 Jefes Grupo Operativo en Comisarías Locales del Grupo Segundo; Jefes de Grupo Técnico en servicios centrales y Comisaría Provinciales del Grupo A; Instructores de Expedientes en servicios periféricos; Instructores de Centros Docentes: 3,5.
+
+1.1.19 Jefes de Subgrupo en Servicios Centrales y en Madrid y Barcelona; Jefes de Subgrupo en Unidades de Intervención Policial; Jefes de Grupo Técnico restantes: 3.
+
+1.1.20 Jefes de Subgrupo restantes; Jefes de Equipo en Servicios Centrales y en Madrid y Barcelona; Jefes de Equipo en Unidades de Intervención: 2,50.
+
+1.1.21 Jefes de Equipo restantes: 2.
+
+1.1.22 Personal Operativo del Grupo Especial de Operaciones (GEO) y de las Unidades de Desactivación de Explosivos: 1.
+
+1.2 Por cada año realizando actividades policiales operativas:
+
+1.2.1 En Órganos Centrales; en Madrid y Barcelona; en los Puestos Fronterizos de los Aeropuertos de Madrid-Barajas y Barcelona-El Prat: 3,5.
+
+1.2.2 En órganos provinciales de Comisarías Provinciales del Grupo A restantes y en los Puestos Fronterizos de los Aeropuertos ubicados en el ámbito de las mismas: 3,25.
+
+1.2.3 En órganos provinciales de Comisarías Provinciales del Grupo B y en Comisarías Locales del Grupo 1.º: 3.
+
+1.2.4 En órganos de Comisarías Locales del Grupo 2.º y en Puestos Fronterizos restantes: 2,50.
+
+1.3 Por cada año realizando actividades de gestión y apoyo a la función policial:
+
+1.3.1 En Órganos Centrales; en Madrid y Barcelona; en los Puestos Fronterizos de los Aeropuertos de Madrid-Barajas y Barcelona-El Prat: 2,75.
+
+1.3.2 En órganos provinciales de Comisarías Provinciales del Grupo A restantes y en los Puestos Fronterizos de los Aeropuertos ubicados en el ámbito de las mismas: 2,50.
+
+1.3.3 En órganos provinciales de Comisarías Provinciales del Grupo B y en Comisarías Locales del Grupo 1.º: 2,25.
+
+1.3.4 En órganos de Comisarías Locales del Grupo 2.º y en Puestos Fronterizos restantes: 2.
+
+1.4 Por cada año de servicio en las Unidades Operativas siguientes:
+
+1.4.1 Unidades de Desactivación de Explosivos no pertenecientes a Órganos Centrales y provinciales de Madrid y Barcelona: 3,50.
+
+1.4.2 Grupos Operativos Especiales de Seguridad (GOES) y Unidades de Intervención Policial no pertenecientes a Órganos Centrales y Provinciales de Madrid y Barcelona: 3,50.
+
+1.5 Por cada año continuo prestando servicio en las plantillas pertenecientes a los Servicios Centrales y Jefaturas Superiores de Policía siguientes:
+
+1.5.1 Madrid, Barcelona, Bilbao, Las Palmas de Gran Canaria, Palma de Mallorca y Pamplona: 1.
+
+2\. Condecoraciones y recompensas.
+
+2.1 Medalla de Oro al Mérito Policial: 15.
+
+2.2 Medalla de Plata al Mérito Policial: 12.
+
+2.3 Cruz al Mérito Policial con distintivo Rojo: 8.
+
+2.4 Cruz al Mérito Policial con distintivo Blanco: 4.
+
+2.5 Felicitación Pública:
+
+Tipo A: 1.
+
+Tipo B: 0,75.
+
+Tipo C: 0,50.
+
+Tipo D: 0,25.
+
+Colectiva: 0,10.
+
+2.6 Otras condecoraciones, recompensas y felicitaciones concedidas por instituciones oficiales por actividades directamente relacionadas con la función policial: Hasta 4.
+
+2.7 Otras condecoraciones y recompensas concedidas por instituciones oficiales por la realización de actividades ajenas a la función policial: Hasta 2.
+
+2.8 Placa a la Dedicación al Servicio Policial: 2.
+
+2.9 Encomienda a la Dedicación al Servicio Policial: 1,75.
+
+2.10 Cruz a la Dedicación al Servicio Policial: 1,50.
+
+2.11 Medalla a la Dedicación al Servicio Policial: 1,25.
+
+3\. Actividades sindicales
+
+3.1 Por cada año ininterrumpido en las situaciones que se citan:
+
+3.1.1 Vocales titulares del Consejo de Policía, en representación de los funcionarios del Cuerpo Nacional de Policía: PT+2.
+
+3.1.2 Representantes de los funcionarios del Cuerpo Nacional de Policía con permiso a tiempo total: PT+1.
+
+A dichos representantes sindicales se les otorga la puntuación, por años de servicio, que corresponda al puesto de trabajo (PT) que desempeñaban antes de pasar a tal situación, a la que se sumarán 2 puntos o 1 punto, según proceda de los comprendidos en los apartados 3.1.1 ó 3.1.2.
+
+## B. Méritos académicos y otras actividades de formación y estudio relacionados con la función policial
+
+1\. Titulaciones académicas
+
+Estar en posesión de título de:
+
+1.1 Doctor: 10.
+
+1.2 Licenciado, Ingeniero superior, Arquitecto superior o equivalente: 9.
+
+1.3 Diplomado universitario, Ingeniero técnico, Arquitecto técnico, Formación Profesional de tercer grado o equivalente: 7,5.
+
+1.4 Técnico Superior de Formación Profesional o equivalente: 7.
+
+1.5 Curso de Orientación Universitaria, Bachillerato (LOGSE): 6.
+
+1.6 BUP, Bachiller Superior, pruebas de acceso a la Universidad, Graduado en Educación Secundaria (LOGSE), Técnico de Formación Profesional o equivalente: 5,5.
+
+1.7 Estar en posesión de título de la Escuela Oficial de Idiomas, por cada uno: 4.
+
+1.8 Otros estudios acreditados mediante diplomas o certificados expedidos por Centros académicos oficiales: Hasta 5.
+
+2\. Formación y estudios profesionales
+
+2.1 Haber superado cursos de especialización en funciones del Cuerpo Nacional de Policía para los que se haya fijado servidumbre de permanencia en la especialidad: Hasta 6.
+
+2.2 Haber superado cursos de actualización, formación permanente o perfeccionamiento programados y supervisados por la División de Formación y Perfeccionamiento: Hasta 4.
+
+2.3 Haber superado otros cursos relacionados con la función policial: Hasta 2.
+
+2.4 Haber dirigido o impartido cursos relacionados con la función policial: Hasta 2.
+
+2.5 Haber impartido clases en cursos de actualización, especialización y formación permanente de funcionarios del Cuerpo Nacional de Policía: Hasta 3.
+
+2.6 Ser autor de libros que tengan esa consideración legal y su contenido sea de aplicación o esté relacionado con las funciones y formación policiales: Hasta 3.
+
+2.7 Ser autor de artículos, folletos o separatas relacionadas con la función policial: Hasta 2.
+
+2.8 Haber impartido conferencias, dirigido seminarios o coloquios relacionados con la función policial y tutelados por la División de Formación y Perfeccionamiento: Hasta 2.
+
+3\. Méritos de cultura y preparación física
+
+3.1 Estar en posesión de la titulación en alguna de las artes marciales reconocidas oficialmente: Hasta 1,50.
+
+3.2 Estar en posesión de Grados de Aptitud Física Policial acreditados: hasta 6,00 puntos.
+
+El Grado de Aptitud Física Policial comprenderá los niveles A, B, C y D, en función de la puntuación obtenida en la realización de las pruebas que se establezcan mediante resolución de la persona titular de la Dirección General de la Policía.
+
+El baremo obtenido anualmente en función del nivel alcanzado será el siguiente:
+
+Nivel A: 0,30 puntos.
+
+Nivel B: 0,20 puntos.
+
+Nivel C: 0,15 puntos.
+
+Nivel D: 0,10 puntos.
+
+Las puntuaciones obtenidas anualmente conforme los niveles indicados se irán acumulando hasta alcanzar el máximo establecido.
+
+## C. Antigüedad
+
+Por cada año de servicio efectivo prestado en el Cuerpo Nacional de Policía en las siguientes categorías:
+
+1\. Policía: 1.
+
+2\. Oficial de Policía: 1,5.
+
+3\. Subinspectores: 2.
+
+4\. Inspector: 2,5.
+
+5\. Inspector Jefe: 3.
+
+6\. Comisario: 3,5.
+
+> Se modifica el punto 3.2 del Apartado B por la disposición final 2.2 de la Orden INT/632/2024, de 20 de junio. [Ref. BOE-A-2024-12811](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12811)
+
+> Se modifica el punto 2 del Apartado A por el art. único de la Orden INT/575/2012, de 20 de febrero. [Ref. BOE-A-2012-4036](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4036).
+
+## ANEXO II — Servicios prestados en las Fuerzas Armadas
+
+1\. Por cada año completo de servicio prestado como militar de complemento y como militar profesional de tropa o marinería, u ostentando la condición de reservista voluntario, 0,15 puntos, hasta un máximo de 1,5 puntos.
+
+2\. Además, en función del empleo alcanzado como militar de complemento, militar profesional de tropa o marinería o reservista voluntario, se asignará la siguiente puntuación:
+
+1\. Cabo: 0,10 puntos.
+
+2\. Cabo 1.º: 0,15 puntos.
+
+3\. Cabo Mayor: 0,20 puntos.
+
+4\. Sargento: 0,25 puntos.
+
+5\. Alférez: 0,30 puntos.
+
+6\. Teniente: 0,40 puntos.
+
+7\. Capitán: 0,50 puntos.
+
+A los efectos de esta puntuación, únicamente se tendrá en cuenta el empleo máximo alcanzado, no considerándose aquellos ostentados para la consecución de aquél.
+
+> Se modifica por el apartado único.4 de la Orden INT/4008/2005, de 16 de diciembre. [Ref. BOE-A-2005-21047](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21047).
+
+## ANEXO III — Puntuaciones que se asignan a los deportistas de alto nivel
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 637/2010, de 14 de mayo. [Ref. BOE-A-2010-8322](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8322).
+
+> Se añade por el apartado único.5 de la Orden INT/4008/2005, de 16 de diciembre. [Ref. BOE-A-2005-21047](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21047).

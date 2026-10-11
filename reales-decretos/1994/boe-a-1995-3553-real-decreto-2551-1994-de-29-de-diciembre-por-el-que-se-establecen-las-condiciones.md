@@ -1,0 +1,593 @@
+---
+title: "Real Decreto 2551/1994, de 29 de diciembre, por el que se establecen las condiciones de sanidad animal y sanitarias aplicables a los intercambios e importaciones de productos no sometidos, con respecto a estas condiciones, a las normas especificas establecidas en el capítulo I del anexo A del Real Decreto 49/1993, de 15 de enero, y, por lo que se refiere a los patógenos, en el Real Decreto 1316/1992, de 30 de octubre"
+identifier: "BOE-A-1995-3553"
+eli: "https://www.boe.es/eli/es/rd/1994/12/29/2551"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1994-12-29
+published: 1995-02-10
+in_force_from: 1995-02-11
+last_amended: 2006-05-27
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 35"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-3553"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2551/1994, de 29 de diciembre, por el que se establecen las condiciones de sanidad animal y sanitarias aplicables a los intercambios e importaciones de productos no sometidos, con respecto a estas condiciones, a las normas especificas establecidas en el capítulo I del anexo A del Real Decreto 49/1993, de 15 de enero, y, por lo que se refiere a los patógenos, en el Real Decreto 1316/1992, de 30 de octubre
+
+La puesta en marcha del mercado interior, con la supresión de los controles fronterizos entre los Estados miembros de la Comunidad Europea, lleva implícita la fijación de las normas de sanidad animal y sanitarias que se deben aplicar al conjunto de productos cuyos intercambios e importaciones no han sido objeto aún de armonización a nivel comunitario.
+
+Por otra parte, teniendo en cuenta los riesgos considerables de propagación de enfermedades a que están expuestos los animales, es necesario fijar para determinados productos de origen animal, los requisitos especiales que han de cumplir al comercializarse con fines de intercambio, en particular con destino a regiones que dispongan de un estatuto sanitario avanzado.
+
+En cuanto a la importación de países terceros, es preciso establecer un procedimiento de autorización tanto de los países como de los establecimientos, de forma que se satisfagan los requisitos del presente Real Decreto.
+
+En consecuencia, resulta necesario incorporar a la legislación española los requisitos relativos a sanidad animal y sanitarios que establece la Directiva 92/118/CEE, del Consejo, de 17 de diciembre, por la que se establecen las condiciones de policía sanitaria y sanitarias aplicables a los intercambios y a las importaciones a la Comunidad de productos no sometidos, con respecto a estas condiciones, a las normativas comunitarias específicas a que se refiere el capítulo I del anexo A de la Directiva 89/662/CEE y, por lo que se refiere a los patógenos, de la Directiva 90/425/CEE, teniendo en cuenta que ambas Directivas ya han sido incorporadas a la legislación nacional por los Reales Decretos 49/1993, de 15 de enero, relativo a los controles veterinarios aplicables en los intercambios intracomunitarios de los productos de origen animal, y 1316/1992, de 30 de octubre, por el que se establecen los controles veterinarios y zootécnicos aplicables a los intercambios intracomunitarios de determinados animales, aves y productos con vistas a la realización del mercado interior y que, de acuerdo con la Directiva 92/118/CEE, han de ser modificados en sus anexos.
+
+También se debe tener en cuenta que la Directiva 92/118/CEE ha sido parcialmente incorporada al ordenamiento jurídico español mediante el Real Decreto 1904/1993, de 29 de octubre, por el que se establecen las condiciones sanitarias de producción y comercialización de productos cárnicos y de otros determinados productos de origen animal, y el Real Decreto 2224/1993, de 17 de diciembre, sobre normas sanitarias de eliminación y transformación de animales muertos y desperdicios de origen animal y protección frente a agentes patógenos en piensos de origen animal.
+
+La Decisión de la Comisión de 13 de julio de 1994 por la que se modifica el capítulo 13 del anexo I de la Directiva 92/118/CEE, del Consejo, de 17 de diciembre, por la que se establecen las condiciones de policía sanitaria y sanitarias aplicables a los intercambios y a las importaciones en la Comunidad de productos no sometidos, con respecto a estas condiciones, a las normativas comunitarias específicas a que se refiere el capítulo I del anexo A de la Directiva 89/662/CEE y, por lo que se refiere a los patógenos, de la Directiva 90/425/CEE, modificación que también se incorpora en el presente Real Decreto.
+
+Por otra parte, la plena realización del mercado interior previsto en el artículo 7A del Tratado Constitutivo de la Comunidad Europea, implicará la supresión de todos los obstáculos en los intercambios intracomunitarios con vistas a la fusión de los mercados nacionales en un mercado único. Teniendo en cuenta que ello lleva consigo la supresión de los controles en frontera para el comercio intracomunitario y el refuerzo de las garantías en origen, no se pueden hacer diferencias entre productos destinados al mercado nacional y los destinados al mercado de otro Estado miembro, por lo que se han promulgado las normas comunitarias aludidas.
+
+El presente Real Decreto se dicta al amparo de la competencia estatal contenida en el artículo 149.1.10.ª y 16.ª de la Constitución y en virtud de lo dispuesto en los artículos 38 y 40.2 de la Ley 14/1986, de 25 de abril, General de Sanidad, una vez consultados los sectores afectados y previo el informe de la Comisión Interministerial para la Ordenación Alimentaria.
+
+En su virtud, a propuesta de los Ministros de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 29 de diciembre de 1994,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Ámbito de aplicación.
+
+El presente Real Decreto establece las condiciones de sanidad animal y sanitarias aplicables a los intercambios e importaciones de productos de origen animal (incluidas las muestras comerciales tomadas de dichos productos) no sometidos, con respecto a estas condiciones a las normas específicas a las que se refiere el capítulo I del anexo A del Real Decreto 49/1993, de 15 de enero, relativo a los controles veterinarios aplicables en los intercambios intracomunitarios de los productos de origen animal, y, en lo que se refiere a agentes patógenos, el Real Decreto 1316/1992, de 30 de octubre, por el que se establecen los controles veterinarios y zootécnicos aplicables a los intercambios intracomunitarios de determinados animales, aves y productos, con vistas a la realización del mercado interior.
+
+#### Artículo 2. Definiciones.
+
+1\. A los efectos del presente Real Decreto, se entenderá por:
+
+a) «Intercambios»: los intercambios de mercancías entre Estados miembros, con arreglo al apartado 2 del artículo 9 del Tratado constitutivo de la Comunidad Europea.
+
+b) «Muestra comercial»: una muestra sin valor comercial, tomada en nombre del propietario o del responsable de un establecimiento, que sea representativa de una producción concreta de productos de origen animal de dicho establecimiento o que constituya un modelo de un producto de origen animal cuya fabricación esté prevista y que, para su posterior examen, deberá llevar la indicación del tipo de producto, de su composición y de la especie animal de la que se ha obtenido.
+
+c) «Enfermedad transmisible grave»: cualquier enfermedad prevista en el Real Decreto 959/1986, de 25 de abril, por el que se establece la lista de enfermedades de animales de declaración obligatoria y se da la normativa para su notificación.
+
+d) «Agentes patógenos»: toda agrupación o cultivo de organismos o todo derivado presente, ya sea solo, ya sea en forma combinada, de dicha agrupación o cultivo de organismos, que pueda provocar una enfermedad en cualquier ser vivo (salvo el hombre), y todos los derivados modificados de dichos organismos, tejidos, cultivos celulares, secreciones o excreciones por medio de los cuales se pueda llevar o transmitir un patógeno animal. Esta definición no incluye los medicamentos veterinarios inmunológicos autorizados en el marco de la Ley 25/1990, de 20 de diciembre, del Medicamento.
+
+e)**(Suprimida)**
+
+f) «Proteínas animales elaboradas destinadas al consumo humano»: los chicharrones, la harina de carne y la corteza de cerdo en polvo contemplados en el apartado 2 del artículo 2 del Real Decreto 1904/1993, de 29 de octubre, por el que se establecen las condiciones sanitarias de producción y comercialización de productos cárnicos y de otros determinados productos de origen animal.
+
+g) **(Suprimida)**
+
+h) «Autoridad competente»: los órganos competentes de las Comunidades Autónomas respecto de los intercambios intracomunitarios y los Ministerios de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, en sus respectivos ámbitos de competencias, respecto de las importaciones procedentes de países terceros.
+
+2\. Además se aplicarán, «mutatis mutandis», las definiciones contempladas en el artículo 2 de los Reales Decretos 49/1993, 1316/1992 y 2022/1993, de 19 de noviembre, por el que se establecen los controles veterinarios aplicables a los productos que se introduzcan en territorio nacional procedentes de países no pertenecientes a la Comunidad Europea.
+
+> Se suprime el apartado 1.e) y g) por el art. 2.1 del Real Decreto 500/2003, de 2 de mayo. [Ref. BOE-A-2003-9447](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9447).
+
+#### Artículo 3. Condiciones de los intercambios y de las importaciones.
+
+La autoridad competente velará por que:
+
+1\. No se prohíban ni restrinjan los intercambios e importaciones de productos de origen animal contemplados en el artículo 1, por motivos de sanidad animal o sanitarios distintos de los que resulten de la aplicación de este real decreto o de la normativa comunitaria, y, en particular, de las medidas de salvaguardia que se hubieran adoptado.
+
+2\. Todo nuevo producto de origen animal destinado al consumo humano, cuya puesta en el mercado sea autorizada en España, sólo pueda ser objeto de intercambios o de importaciones una vez se haya tomado una decisión por el Consejo de la Comunidad Europea, previa evaluación realizada, en su caso, de acuerdo con el procedimiento previsto en la normativa comunitaria, del riesgo real de propagación de enfermedades transmisibles graves que pudiera derivarse de la circulación del producto, no sólo en la especie de la que procede el producto, sino también en otras especies que pudieran ser portadoras de la enfermedad, convertirse en foco de enfermedad o suponer un riesgo para la salud humana.
+
+3\. Los otros productos de origen animal contemplados en el apartado 2 del artículo 2 del Real Decreto 1904/1993 sólo puedan ser objeto de intercambio o de importación de países terceros si cumplen las condiciones del mismo, así como las que sean de aplicación del presente Real Decreto.
+
+> Se modifican los apartados 1 y 2 por el art. 2.2 del Real Decreto 500/2003, de 2 de mayo. [Ref. BOE-A-2003-9447](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9447).
+
+## CAPÍTULO II — Disposiciones aplicables a los intercambios intracomunitarios
+
+#### Artículo 4. Condiciones generales para los intercambios de productos de origen animal.
+
+La autoridad competente adoptará las medidas necesarias para que, en aplicación del apartado 1 del artículo 4 del Real Decreto 49/1993, y del párrafo a) del apartado 1 del artículo 4 del Real Decreto 1316/1992, los productos de origen animal contemplados en el anexo I, así como en el segundo y tercer párrafo del artículo 3 del presente Real Decreto, sólo puedan ser objeto de intercambios si, sin perjuicio de las disposiciones particulares que se adopten en aplicación del párrafo c) del apartado 3 de los artículos 10 y 11 responden a los siguientes requisitos:
+
+1\. Cumplir los requisitos del artículo 5 y los requisitos específicos previstos en el anexo I para los aspectos de sanidad animal.
+
+2\. Proceder de establecimientos que:
+
+a) Se comprometan, en función de los requisitos específicos previstos en el anexo I para los productos obtenidos por el establecimiento, a:
+
+1.º Respetar las condiciones de producción enunciadas en el presente Real Decreto.
+
+2.º Establecer y aplicar métodos de vigilancia y de control de los puntos críticos en función de los procedimientos utilizados.
+
+3.º En función de los productos, tomar muestras para su análisis en un laboratorio reconocido por la autoridad competente para verificar el cumplimiento de las normas establecidas en el presente Real Decreto.
+
+4.º Conservar por escrito o en un registro las indicaciones obtenidas en aplicación de los párrafos anteriores, para su presentación a la autoridad competente. Los resultados de los diferentes controles y pruebas se conservarán, en particular, durante un período de dos años como mínimo.
+
+5.º Garantizar la gestión del marcado o del etiquetado.
+
+6.º Informar a la autoridad competente, si el resultado del examen de laboratorio o cualquier otra información de la que dispongan revela la existencia de un grave riesgo sanitario o de sanidad animal.
+
+7.º Expedir, a efectos de intercambios, únicamente productos acompañados de un documento comercial que precise el tipo de producto, el nombre y, en su caso, el número de autorización veterinaria del establecimiento de producción.
+
+b) Se sometan a una supervisión ejercida por la autoridad competente para asegurarse de que el empresario o el gestor del establecimiento cumplen los requisitos del presente Real Decreto.
+
+c) Hayan sido registrados por la autoridad competente sobre la base de las garantías ofrecidas por el establecimiento para garantizar el cumplimiento de los requisitos del presente Real Decreto.
+
+> Se modifica el párrafo primero y apartados 1 y 2.a) por el art. único.1 y 2 del Real Decreto 639/2006, de 26 de mayo. [Ref. BOE-A-2006-9299](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9299).
+
+> Téngase en cuenta para la aplicación de esta modificación la disposición adicional única.
+
+#### Artículo 5. Condiciones de sanidad animal en los intercambios de productos de origen animal.
+
+La autoridad competente adoptará las medidas necesarias para garantizar que los productos de origen animal mencionados en el anexo I, se despachan, a efectos de intercambios, a partir de explotaciones situadas en una zona que no es objeto de restricciones debidas a la existencia de una enfermedad que pueda padecer la especie a partir de la cual se elabore el producto, ni de ningún establecimiento o zona a partir de los cuales los movimientos o los intercambios puedan constituir un riesgo para la situación sanitaria de los Estados miembros, excepto en el caso de los productos tratados térmicamente de conformidad con la legislación comunitaria.
+
+Con arreglo al procedimiento comunitario previsto, en el marco de las medidas de salvaguardia, podrán aprobarse garantías particulares que permitan, no obstante lo dispuesto en el primer párrafo, el movimiento de algunos de dichos productos.
+
+> Se modifica el párrafo primero por el art. único.1 del Real Decreto 639/2006, de 26 de mayo. [Ref. BOE-A-2006-9299](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9299).
+
+> Téngase en cuenta para la aplicación de esta modificación la disposición adicional única.
+
+#### Artículo 6. Intercambios de agentes patógenos.
+
+Los intercambios de agentes patógenos se someterán a las normas que se establezcan según el procedimiento previsto en la normativa comunitaria.
+
+#### Artículo 7. Normas de control aplicables.
+
+1\. Se aplicarán a los productos a que hace referencia el presente Real Decreto las normas del control previstas en el Real Decreto 49/1993 y, por lo que se refiere a los agentes patógenos, en el Real Decreto 1316/1992, en particular en lo relativo a la organización y al curso que habrá que dar a los controles que deberán efectuarse.
+
+2\. Se aplicará a los productos a que se refiere el presente Real Decreto el artículo 10 del Real Decreto 1316/1992.
+
+3\. A efectos de intercambios se harán extensivas las disposiciones del artículo 11 del Real Decreto 1316/1992, a los establecimientos que proporcionen productos de origen animal mencionados en el presente Real Decreto.
+
+4\. Sin perjuicio de las disposiciones específicas establecidas en el presente Real Decreto, cuando existan sospechas de incumplimiento del mismo, la autoridad competente efectuará cuantos controles considere oportunos.
+
+#### Artículo 8. Infracciones y sanciones.
+
+Las responsabilidades así como las sanciones a imponer por la autoridad competente respecto a las infracciones que se cometieran contra lo dispuesto en el presente Real Decreto, estarán sometidas a lo dispuesto en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria, en lo relativo a los aspectos sanitarios, y en la Ley 14/1986, de 25 de abril, General de Sanidad, y demás disposiciones que resulten de aplicación en cada caso, de acuerdo con los principios de procedimiento sancionador establecidos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## CAPÍTULO III — Disposiciones aplicables a las importaciones en la Comunidad Europea desde terceros países
+
+#### Artículo 9. Disposiciones mínimas aplicables a las importaciones.
+
+Las condiciones aplicables a las importaciones de productos cubiertos por el presente Real Decreto deberán ofrecer al menos las mismas garantías que las establecidas en el capítulo II, incluidas las fijadas en aplicación del artículo 6, así como las previstas en el segundo y tercer párrafo del artículo 3.
+
+#### Artículo 10. Condiciones aplicables a los terceros países.
+
+1\. A efectos de la aplicación uniforme del artículo 9, serán de aplicación las disposiciones de los apartados siguientes.
+
+2\. Los productos contemplados en el anexo I y en el segundo y tercer párrafo del artículo 3 sólo podrán importarse si cumplen los siguientes requisitos:
+
+a) Salvo disposición específica contraria contenida en el anexo I, proceder de un país tercero o de una parte de país tercero que figura en la lista que se elabore conforme a lo dispuesto en el procedimiento previsto en la normativa comunitaria.
+
+b) Proceder, salvo cuando el anexo I especifique otra cosa, de establecimientos que figuren en una lista comunitaria que se elaborará con arreglo al procedimiento previsto en las normas comunitarias.
+
+c) En los casos a los que hacen referencia el anexo I y el segundo y tercer párrafo del artículo 3, ir acompañados de un certificado sanitario o de inspección veterinaria con arreglo a un modelo que se elaborara según el procedimiento previsto en la normativa comunitaria que irá firmado por un veterinario oficial o, en su caso, por cualquier autoridad competente reconocida, conforme al procedimiento previsto en la normativa comunitaria y que certificará que los productos cumplen las condiciones adicionales, u ofrecen las garantías equivalentes a que se hace referencia en el párrafo a) del apartado 3 y proceden de establecimientos que ofrecen dichas garantías.
+
+3\. De acuerdo con el procedimiento previsto en la normativa comunitaria:
+
+a) Se establecerán las condiciones específicas en particular, las encaminadas a proteger la Comunidad contra determinadas enfermedades exóticas o enfermedades transmisibles al hombre o garantías equivalentes a dichas condiciones.
+
+Las condiciones específicas y las garantías equivalentes fijadas para los países terceros no podrán ser más favorables que las previstas en el anexo I y en el segundo y tercer párrafo del artículo 3.
+
+A la espera que se establezca el desarrollo normativo previsto en los párrafos d) y e) del capítulo II del anexo II, la importación de los productos contemplados en dichos apartados se supeditará a la observancia de las garantías mínimas previstas en los mismos.
+
+b) Se determinará el tipo de tratamientos posibles o las medidas que deberán tomarse para evitar la contaminación de las tripas de animales, los huevos y los ovoproductos.
+
+4\. Para comprobar si las garantías ofrecidas por el tercer país, en cuanto a las condiciones de producción y comercialización, pueden considerarse equivalentes a las que se aplican en la Comunidad, expertos de la Comisión Europea y del Ministerio de Agricultura, Pesca y Alimentación o del de Sanidad y Consumo, en el ámbito de sus respectivas competencias, efectuarán controles ‘‘in situ’’.
+
+> Se modifican los apartados 2 y 3 por el art. único.1 del Real Decreto 639/2006, de 26 de mayo. [Ref. BOE-A-2006-9299](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9299).
+
+> Téngase en cuenta para la aplicación de esta modificación la disposición adicional única.
+
+> Se modifica el apartado 2.b) por el art. 2.3 del Real Decreto 500/2003, de 2 de mayo. [Ref. BOE-A-2003-9447](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9447).
+
+> Se modifica por el art. único.1 del Real Decreto 74/1998, de 23 de enero. [Ref. BOE-A-1998-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1460).
+
+#### Artículo 11. Condiciones para importar productos destinados a los laboratorios de experimentación.
+
+Según el procedimiento previsto en la normativa comunitaria, se fijarán las condiciones específicas de sanidad animal para la importación, la índole y el contenido de los documentos de acompañamiento de los productos contemplados en el anexo I destinados a laboratorios de experimentación.
+
+#### Artículo 12. De las licencias para importar muestras comerciales.
+
+1\. La autoridad competente podrá autorizar las importaciones procedentes de países terceros de productos de origen animal contemplados en el anexo I en forma de muestra comercial, mediante la expedición de una licencia adecuada.
+
+2\. La licencia contemplada en el apartado 1 deberá acompañar al lote y precisar las condiciones particulares en las que podrá importarse, así como cualquier excepción a los controles establecidos en el Real Decreto 2022/1993.
+
+3\. Cuando un lote entre en el territorio nacional en tránsito hacia otro Estado miembro, la autoridad competente velará para que el lote vaya acompañado de la licencia adecuada. Los desplazamientos del lote se efectuarán en las condiciones establecidas en el apartado 2 del artículo 10 del Real Decreto 2022/1993. La responsabilidad de cerciorarse de que el lote cumple las condiciones establecidas en la licencia y de determinar si se autorizará su entrada en su territorio incumbirá al Estado miembro que expida la licencia.
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 639/2006, de 26 de mayo. [Ref. BOE-A-2006-9299](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9299).
+
+> Téngase en cuenta para la aplicación de esta modificación la disposición adicional única.
+
+## CAPÍTULO IV — Productos de origen comunitario que hayan transitado por países terceros
+
+#### Artículo 13. Certificados exigibles.
+
+1\. La introducción en territorio del Reino de España de productos de origen animal contemplados en el anexo I, y en el segundo y tercer apartado del artículo 3, obtenidos en el territorio de un Estado miembro, que hayan transitado por el territorio de un país tercero, podrá supeditarse por la autoridad competente a la presentación de un certificado sanitario y, en su caso, de inspección veterinaria, que atestigüe el cumplimiento de los requisitos del presente Real Decreto.
+
+2\. Si se recurre a la facultad prevista en el apartado 1, se informará de ello al Ministerio de Agricultura, Pesca y Alimentación para su traslado a la Comisión Europea y a los demás Estados miembros a través del cauce correspondiente.
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 639/2006, de 26 de mayo. [Ref. BOE-A-2006-9299](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9299).
+
+> Téngase en cuenta para la aplicación de esta modificación la disposición adicional única.
+
+#### Disposición adicional primera. Carácter básico.
+
+Los artículos 2 y 3, en lo que se refiere a los intercambios intracomunitarios, 4, 5, 6, 7 y 8 del presente Real Decreto se dictan al amparo del artículo 149.1.16.ª de la Constitución, relativo a la competencia estatal en materia de bases y coordinación general de la sanidad.
+
+#### Disposición adicional segunda. Organización de los controles y medidas de salvaguardia.
+
+En relación con la organización y curso que deba darse a los controles que la autoridad competente deba realizar, así como a las medidas de salvaguardia que deban aplicarse, se estará a los principios y normas establecidos en el Real Decreto 1430/1992, de 27 de noviembre, por el que se establecen los principios relativos a la organización de controles veterinarios y de identidad de los animales que se introduzcan en la Comunidad procedentes de países terceros, y en el Real Decreto 2022/1993.
+
+No obstante, de acuerdo con el procedimiento previsto en la normativa comunitaria, podrá obviarse, para determinados tipos de productos de origen animal, el control físico previsto en el párrafo b) del apartado 4 del artículo 4 del Real Decreto 1977/1999, de 23 de diciembre, por el que se establecen los principios relativos a la organización de los controles veterinarios sobre los productos procedentes de países terceros.
+
+> Se modifica el párrafo segundo por la disposición final 1.3 del Real Decreto 1977/1999, de 23 de diciembre. [Ref. BOE-A-1999-24718](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24718).
+
+#### Disposición adicional tercera. Sustitución de anexos.
+
+Los anexos A y B de los Reales Decretos 49/1993 y 1316/1992 se sustituyen por los textos que figuran en el anexo III del presente Real Decreto
+
+#### Disposición transitoria única. Normativa nacional aplicable al control de los productos importados.
+
+En tanto se elaboran las listas a que hacen referencia el párrafo a) y el punto 2 del párrafo b) del apartado 2, se mantendrán los controles previstos en el artículo 10 del Real Decreto 2022/1993, de 19 de noviembre, por el que se establecen los controles veterinarios aplicables a los productos, que se introduzcan en territorio nacional procedente de países no pertenecientes a la Comunidad Europea, y el certificado nacional exigido para los productos importados.
+
+> Se modifica por el art. único.4 del Real Decreto 74/1998, de 23 de enero. [Ref. BOE-A-1998-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1460).
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo previsto en el presente Real Decreto.
+
+#### Disposición final primera. Facultad de desarrollo.
+
+Se faculta a los Ministros de Agricultura, Pesca y Alimentación y de Sanidad y Consumo para que, en el ámbito de sus respectivas competencias, para dictar las disposiciones necesarias de desarrollo y aplicación de lo dispuesto en este Real Decreto, así como para dictar las normas necesarias para la actualización de los anexos del presente Real Decreto adaptándolos a la normativa comunitaria, cuando ello sea preciso.
+
+#### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 29 de diciembre de 1994.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+ALFREDO PEREZ RUBALCABA
+
+## ANEXO I — Condiciones específicas de sanidad animal
+
+## CAPÍTULO I — Leche, productos lácteos y calostro no destinados al consumo humano
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.4 del Real Decreto 500/2003, de 2 de mayo. [Ref. BOE-A-2003-9447](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9447).
+
+> Se modifica por el art. único.2 y anexo I del Real Decreto 74/1998, de 23 de enero. [Ref. BOE-A-1998-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1460).
+
+## CAPÍTULO II — Tripas de animales
+
+1\. Intercambios.
+
+Los intercambios de tripas de animales se supeditarán a la presentación de un documento que precise el establecimiento de origen, que deberá ser:
+
+a) Cuando las tripas se salen o desequen en origen, y en el caso de que las tripas saladas o desecadas se manipulen a continuación para otros fines, un establecimiento aprobado por la autoridad competente.
+
+b) En los demás casos, un establecimiento autorizado de conformidad con el Real Decreto 147/1993, de 29 de enero, por el que se establecen las condiciones sanitarias de producción y comercialización de carnes frescas.
+
+2\. Importaciones procedentes de países terceros.
+
+Las importaciones de tripas de animales procedentes de países terceros se supeditarán a la presentación del certificado contemplado en el párrafo c) del apartado 2 del artículo 10, expedido y firmado por un veterinario oficial del país tercero exportador, que acredite:
+
+a) Que las tripas proceden de establecimientos autorizados por la autoridad competente del país exportador.
+
+b) Que las tripas se han limpiado y rascado, y después salado o blanqueado (o que, como alternativa al salado o blanqueado, han sido secadas después de su rascado).
+
+c) Que tras el tratamiento mencionado en el párrafo b), se han tomado medidas eficaces para evitar que las tripas vuelvan a contaminarse.
+
+## CAPÍTULO III — Pieles de ungulados no sujetas a lo dispuesto en los Reales Decretos 147/1993, de 29 de enero, y 110/1990, de 26 de enero, y que no han sido sometidas a determinados procesos de curtido
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.4 del Real Decreto 500/2003, de 2 de mayo. [Ref. BOE-A-2003-9447](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9447).
+
+> Se modifica por el art. único.2 y anexo I del Real Decreto 74/1998, de 23 de enero. [Ref. BOE-A-1998-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1460).
+
+## CAPÍTULO IV — Alimentos en los que se han incorporado materias de bajo riesgo con arreglo a la definición del Real Decreto 2224/1993, de 17 de diciembre, sobre normas sanitarias de eliminación y transformación de animales muertos y desperdicios de origen animal y protección frente a agentes patógenos en piensos de origen animal
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.4 del Real Decreto 500/2003, de 2 de mayo. [Ref. BOE-A-2003-9447](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9447).
+
+## CAPÍTULO V — Huesos y productos óseos (excluida la harina de huesos), cuernos y productos córneos (excluida la harina de asta pulverizada), pezuñas y productos a base de pezuñas (excluida la harina de pezuña) destinados al consumo humano
+
+Los intercambios y las importaciones procedentes de países terceros de dichos productos se someterán a las siguientes condiciones:
+
+a) Por lo que se refiere a intercambios, los huesos, los cuernos y las pezuñas se someterán a las condiciones de sanidad animal establecidas en el Real Decreto 110/1990, de 26 de enero, por el que se establecen las condiciones de sanidad animal que deben reunir las carnes frescas destinadas al comercio intracomunitario e importadas de países terceros.
+
+b) Por lo que se refiere a intercambios, los productos óseos, los productos córneos y los productos a base de pezuñas se someterán a las condiciones de sanidad animal establecidas en el Real Decreto 1066/1990, de 27 de julio, por el que se establecen los requisitos de sanidad animal que deben reunir los productos cárnicos destinados al comercio intracomunitario e importados de países terceros.
+
+c) Por lo que se refiere a las importaciones procedentes de países terceros, los huesos, los productos óseos, los cuernos, los productos córneos, las pezuñas y los productos a base de pezuñas se someterán a las condiciones establecidas en el Real Decreto 110/1990.
+
+> Se modifica por el art. 2.5 y anexo A del Real Decreto 500/2003, de 2 de mayo. [Ref. BOE-A-2003-9447](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9447).
+
+## CAPÍTULO VI — Proteínas animales elaboradas destinadas al consumo humano
+
+I. Sin perjuicio de posibles restricciones impuestas a causa de la encefalopatía espongiforme bovina (BSE) y de las impuestas a la alimentación de rumiantes con proteínas de rumiantes, los intercambios y las importaciones de proteínas animales elaboradas se supeditarán:
+
+1\. Por lo que se refiere al comercio, a la presentación del documento o certificado establecido en el Real Decreto 1904/1993, de 25 de octubre, por el que se establecen las condiciones sanitarias de producción y comercialización de productos cárnicos y de otros determinados productos de origen animal, que acredite el cumplimiento de los requisitos de dicho real decreto.
+
+2\. Por lo que se refiere a las importaciones:
+
+a) A la presentación del certificado de inspección veterinaria tal como está previsto en el párrafo c) del apartado 2 del artículo 10, firmado por el veterinario oficial del país de origen y que acredite que:
+
+1.º El producto cumple los requisitos del Real Decreto 1066/1990.
+
+2.º Se han tomado todas las precauciones después del tratamiento para evitar la contaminación del producto tratado.
+
+3.º Se han tomado muestras a la salida del país de origen para someterlas a pruebas de detección de salmonelas.
+
+4.º Los resultados de dichas pruebas han sido negativos.
+
+b) Tras el control documental del certificado contemplado en el apartado 1, a la toma de muestras por parte de la autoridad competente del puesto de inspección fronterizo, sin perjuicio de la parte II siguiente:
+
+1.º En cada lote de productos presentados a granel.
+
+2.º Por muestreo aleatorio en los lotes de productos envasados en la fábrica de elaboración.
+
+c) Para el despacho a libre práctica en el territorio de la Comunidad Europea de los lotes de proteínas animales elaboradas, a la prueba de que los resultados de las tomas de muestras efectuadas de conformidad con el apartado 2.a).3.o son negativos.
+
+3\. Las normas nacionales existentes en el momento de la publicación de este real decreto, por lo que se refiere a los requisitos aplicables en materia de BSE y de tembladera (scrapie), para las proteínas de origen animal, podrán mantenerse a la espera de una decisión comunitaria sobre el tipo de tratamiento térmico capaz de destruir al agente responsable de dichas enfermedades.
+
+Los intercambios e importaciones de harinas de carnes y de harinas de huesos seguirán estando sometidos a las disposiciones del apartado 2 del artículo 5 del Real Decreto 49/1993, de 15 de enero, y a las condiciones de importación tal y como se definen en el artículo 2.b) del Real Decreto 1977/1999, de 23 de diciembre."
+
+II. La autoridad competente podrá practicar un control por muestreo aleatorio en lotes de productos presentados a granel, originarios de un país tercero procedente del cual las últimas seis pruebas consecutivas hayan arrojado un resultado negativo a salmonelas. Cuando en el curso de dicho control se obtenga un resultado positivo, la autoridad competente del país de origen deberá ser informada a fin de que adopte las medidas adecuadas para resolver la situación. Dichas medidas deberán comunicarse a la autoridad competente responsable de los controles de importación. En caso de nuevo resultado positivo de la misma procedencia, los controles posteriores se llevarán a cabo en todos los lotes de la misma procedencia, hasta que se cumplan de nuevo las condiciones contempladas en la primera frase.
+
+III. La autoridad competente deberá conservar una relación de los resultados de los controles efectuados en los lotes que hayan sido controlados.
+
+IV. De conformidad con el apartado 3 del artículo 3 del Real Decreto 49/1993, sólo se permitirá el transbordo de los lotes en puertos reconocidos de acuerdo con el procedimiento previsto en la normativa comunitaria, siempre y cuando exista un acuerdo bilateral entre Estados miembros para permitir el aplazamiento del control de los lotes hasta que alcancen el puesto de inspección fronterizo del Estado miembro de destino final.
+
+V. Cuando el resultado de las pruebas de detección de las salmonelas efectuadas en una partida sea positivo, ésta deberá:
+
+a) Bien exportarse nuevamente de la Comunidad.
+
+b) Bien utilizarse para fines distintos de la alimentación de los animales; en tal caso, la partida sólo podrá abandonar el puerto o depósito de almacenamiento si los productos que la forman no se incluyen en alimentos para animales.
+
+c) Bien someterse a un nuevo tratamiento en una fábrica de transformación autorizada de conformidad con el Real Decreto 2224/1993 o en cualquier empresa autorizada para la descontaminación. Para garantizar su control, el traslado desde el puerto o el depósito de almacenamiento se someterá a una autorización expedida por la autoridad competente y la partida no será liberada antes de haber sido tratada y de haber sido sometida por la autoridad competente a pruebas de detección de las salmonelas de conformidad con el capítulo III del anexo II del Real Decreto 2224/1993, y a condición de que el resultado de las pruebas sea negativo.
+
+> Se modifica el título y el apartado 1 por el art. 2.6 y anexo B del Real Decreto 500/2003, de 2 de mayo. [Ref. BOE-A-2003-9447](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9447).
+
+## CAPÍTULO VII — Sangre y productos sanguíneos de ungulados y aves de corral (excepto el suero de équidos)
+
+I. Sangre fresca y productos sanguíneos destinados al consumo humano
+
+A) Comercio:
+
+1\. El comercio de sangre fresca de ungulados o de aves de corral destinados al consumo humano se someterá a las mismas condiciones de policía sanitaria que el de carne fresca, conforme a los Reales Decretos 110/1990, de 26 de enero; 1322/1992, de 30 de octubre, y 1543/1994, de 8 de julio.
+
+2\. El comercio de productos sanguíneos destinados al consumo humano se someterá a las condiciones de policía sanitaria establecidas en el capítulo II del presente Real Decreto.
+
+B) Importaciones:
+
+1\. Las importaciones de sangre fresca de ungulados domésticos destinadas al consumo humano quedarán prohibidas de acuerdo con lo establecido en el Real Decreto 110/1990, de 26 de enero.
+
+Las importaciones de sangre fresca de aves de corral domésticas destinadas al consumo humano quedarán sometidas a las condiciones de policía sanitaria establecidas en el Real Decreto 1322/1992, de 30 de octubre, que establece las condiciones de sanidad animal a las que deben ajustarse los intercambios intracomunitarios y las importaciones de carnes frescas de aves de corral procedentes de países terceros, modificado por el Real Decreto 362/1995, de 10 de marzo.
+
+Las importaciones de sangre fresca de animales de caza de cría destinadas al consumo humano quedarán sometidas a las condiciones de policía sanitaria establecidas en el capítulo 11 del presente anexo.
+
+2\. Las importaciones de productos sanguíneos destinados al consumo humano, incluidos los regulados por el Real Decreto 1904/1993, de 29 de octubre, que establece las condiciones sanitarias de producción y comercialización de productos cárnicos y de otros determinados productos de origen animal, quedarán sometidas a las mismas condiciones de policía sanitaria que las de productos cárnicos conforme al Real Decreto 110/1990 o al presente Real Decreto, sin perjuicio de las normas sobre proteínas animales elaboradas a base de sangre establecidas en el capítulo VI del presente anexo.
+
+II. Sangre fresca y productos sanguíneos no destinados al consumo humano
+
+**(Suprimida)**
+
+III. Aspectos generales
+
+En caso necesario, las disposiciones de aplicación del presente capítulo se adoptarán según el procedimiento previsto en las normas comunitarias.
+
+> Se suprime el apartado 2 por el art. 2.7 del Real Decreto 500/2003, de 2 de mayo. [Ref. BOE-A-2003-9447](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9447).
+
+> Se modifica por el art. único.2 y anexo I del Real Decreto 74/1998, de 23 de enero. [Ref. BOE-A-1998-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1460).
+
+## CAPÍTULO VIII — Sueros procedentes de équidos
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.8 del Real Decreto 500/2003, de 2 de mayo. [Ref. BOE-A-2003-9447](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9447).
+
+## CAPÍTULO IX — Manteca de cerdo y grasas fundidas
+
+1\. La autoridad competente autorizará la importación de manteca de cerdo y grasas fundidas de los países terceros que figuran en la lista del anexo del Real Decreto 110/1990 de los que está permitida la importación de carne fresca de la especie de la que se trate.
+
+2\. En caso de que en uno de los países citados en el apartado 1 se hubiera declarado una de las enfermedades transmisibles graves en los doce meses anteriores a la exportación, cada lote de manteca de cerdo o de grasas fundidas deberá ir acompañado del certificado previsto en el apartado 2 del artículo 10 del presente Real Decreto, que acredite:
+
+a) Que la manteca de cerdo o las grasas fundidas han sido sometidas a uno de los siguientes procesos de tratamiento térmico:
+
+1.º Al menos 70 ºC durante treinta minutos como mínimo, o
+
+2.º Al menos 90 ºC durante quince minutos como mínimo, o
+
+3.º Una temperatura mínima de 80 ºC en un sistema de fundido continuo.
+
+b) Si la manteca de cerdo o las grasas fundidas van embaladas, que han sido embaladas en recipientes nuevos y que se han tomado todas las precauciones para evitar que vuelvan a contaminarse.
+
+c) Cuando se desee transportar el producto a granel, que los tubos, las bombas y depósitos, así como cualquier otro contenedor a granel o camión cisterna utilizado para transportar los productos desde el establecimiento de producción, bien directamente al buque, o bien a depósitos de costa o directamente a establecimientos, han sido inspeccionados y declarados limpios antes de ser utilizados.
+
+## CAPÍTULO X — Materias primas para la elaboración de alimentos para animales y de productos farmacéuticos o industriales
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.8 del Real Decreto 500/2003, de 2 de mayo. [Ref. BOE-A-2003-9447](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9447).
+
+## CAPÍTULO XI — Carnes de conejo y carnes de caza de cría
+
+La autoridad competente velará por que sólo se importen las carnes de conejo y de caza de cría:
+
+1\. Si proceden de países terceros que figuran:
+
+a) En el caso de caza de cría de pelo, en la lista de países a partir de los cuales pueden importarse las carnes frescas de las especies correspondientes en aplicación del Real Decreto 110/1990.
+
+b) En el caso de caza de cría de pluma, en la lista de países a partir de los cuales pueden importarse las carnes frescas de aves de corral en aplicación del Real Decreto 1322/1992, de 30 de octubre, por el que se establecen las condiciones de sanidad animal a las que deben ajustarse los intercambios intracomunitarios y las importaciones de carnes frescas de aves de corral procedentes de países terceros.
+
+c) En el caso de las carnes de conejo, en la lista establecida por la Comisión de la Comunidad Europea en la Decisión 94/278/CE.
+
+2\. Si cumplen, al menos, los requisitos establecidos en los capítulos II y III del Real Decreto 1543/1994, de 9 de septiembre, respectivamente.
+
+3\. Si proceden de establecimientos que ofrezcan las garantías previstas en el apartado 2) y reconocidos o, a la espera de la lista contemplada en el párrafo c) del apartado 1) de establecimientos autorizados por las autoridades competentes.
+
+4\. Si cada lote de carne va acompañado del certificado de inspección veterinaria previsto en el párrafo c) del apartado 2 del artículo 10.
+
+## CAPÍTULO XII — Productos apícolas
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.8 del Real Decreto 500/2003, de 2 de mayo. [Ref. BOE-A-2003-9447](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9447).
+
+## CAPÍTULO XIII — Trofeos de caza
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.8 del Real Decreto 500/2003, de 2 de mayo. [Ref. BOE-A-2003-9447](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9447).
+
+## CAPÍTULO XIV
+
+A los efectos del presente capítulo se entenderá por estiércol semilíquido todo excremento u orín de biungulados, équidos o aves de corral, con o sin cama, y el guano.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.8 del Real Decreto 500/2003, de 2 de mayo. [Ref. BOE-A-2003-9447](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9447).
+
+> Se modifica por el art. único.2 y anexo I del Real Decreto 74/1998, de 23 de enero. [Ref. BOE-A-1998-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1460).
+
+## CAPÍTULO XV — Lana, pelo, cerdas, plumas y trozos de pluma no elaborados
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.8 del Real Decreto 500/2003, de 2 de mayo. [Ref. BOE-A-2003-9447](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9447).
+
+## ANEXO II — Condiciones específicas de salud pública
+
+**(Suprimido)**
+
+> Se suprime por el art. único.3 del Real Decreto 639/2006, de 26 de mayo. [Ref. BOE-A-2006-9299](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9299).
+
+## CAPÍTULO I — Importaciones a partir de países terceros de productos cárnicos obtenidos a partir de carne de aves de corral, de caza de cría, de caza salvaje y carne de conejo
+
+**(Suprimido)**
+
+> Se suprime por el art. único.3 del Real Decreto 639/2006, de 26 de mayo. [Ref. BOE-A-2006-9299](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9299).
+
+> Se modifica la letra a) por el art. único.3 y anexo II del Real Decreto 74/1998, de 23 de enero. [Ref. BOE-A-1998-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1460).
+
+## CAPÍTULO II
+
+**(Suprimido)**
+
+> Se suprime por el art. único.3 del Real Decreto 639/2006, de 26 de mayo. [Ref. BOE-A-2006-9299](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9299).
+
+> Se modifica por el art. único.3 y anexo II del Real Decreto 74/1998, de 23 de enero. [Ref. BOE-A-1998-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1460).
+
+## CAPÍTULO III
+
+**(Suprimido)**
+
+> Se suprime por el art. único.3 del Real Decreto 639/2006, de 26 de mayo. [Ref. BOE-A-2006-9299](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9299).
+
+> Se añade por el art. único.3 y anexo II del Real Decreto 74/1998, de 23 de enero. [Ref. BOE-A-1998-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1460).
+
+## ANEXO III
+
+## I — Versión consolidada de los anexos A y B del Real Decreto 49/1993
+
+## ANEXO A — Legislación veterinaria
+
+## CAPÍTULO I
+
+1\. Real Decreto 147/1993, de 29 de enero, por el que se establecen las condiciones sanitarias de producción y comercialización de carnes frescas.
+
+2\. Real Decreto 644/1989, de 19 de mayo, por el que se aprueba la Reglamentación técnico-sanitaria en materia de intercambios de carnes frescas de aves para el comercio intracomunitario e importación de las mismas de terceros países y las normas que hace relación a los mataderos, salas de despiece y almacenes frigoríficos autorizados para dicho comercio.
+
+3\. Real Decreto 110/1990, de 26 de enero, por el que se establecen las condiciones de sanidad animal que deben reunir las carnes frescas destinadas al comercio intracomunitario e importadas de terceros países.
+
+4\. Real Decreto 1904/1993, de 29 de octubre, por el que se establecen las condiciones de producción y comercialización de productos cárnicos y de otros determinados productos de origen animal.
+
+5\. Real Decreto 1066/1990, de 27 de julio, por el que se establecen los requisitos de sanidad animal que deben reunir los productos cárnicos destinados al comercio intracomunitario e importados de países terceros.
+
+6\. Real Decreto 1322/1992, de 30 de octubre, por el que se establecen las condiciones de sanidad animal a las que deben ajustarse los intercambios intracomunitarios y las importaciones de carnes frescas de aves de corral procedentes de países terceros.
+
+7\. Real Decreto 1348/1992, de 6 de noviembre, por el que se aprueba la Reglamentación técnico-sanitaria que regula la producción y la comercialización de ovoproductos.
+
+8\. Real Decreto 1436/1992, de 27 de noviembre, por el que se aprueba la Reglamentación técnico-sanitaria por la que se establecen los requisitos relativos a la producción y a los intercambios intracomunitarios de carnes picadas, de carnes en trozos de menos de 100 gramos y de preparados de carnes destinados al consumo humano directo o a la industria.
+
+9\. Real Decreto 1437/1992, de 27 de noviembre, por el que se fijan las normas sanitarias aplicables a la producción y comercialización de productos pesqueros y de la acuicultura.
+
+10\. Real Decreto 308/1993, de 26 de febrero, por el que se aprueba la Reglamentación técnico-sanitaria que fija las normas aplicables a la comercialización de moluscos bivalvos vivos.
+
+11\. Real Decreto 1882/1994, de 16 de septiembre, por el que se establecen las condiciones de sanidad animal aplicables a la puesta en el mercado de animales y de productos de la acuicultura.
+
+12\. Real Decreto 1543/1994, de 8 de julio, por el que se establecen requisitos sanitarios y de policía sanitaria aplicables a la producción y a la comercialización de carnes de conejo doméstico y de caza de granja.
+
+13\. Real Decreto 2044/1994, de 14 de octubre, por el que se establecen las condiciones sanitarias y de sanidad animal aplicables al sacrificio de animales de caza silvestre y a la producción y comercialización de sus carnes.
+
+14\. Real Decreto 1679/1994, de 22 de julio, por el que se establecen las condiciones sanitarias aplicables a la producción y comercialización de leche cruda, leche tratada térmicamente y productos lácteos.
+
+## CAPÍTULO II
+
+Real Decreto 1882/1994, de 16 de septiembre, por el que se establecen las condiciones de sanidad animal y sanitarias aplicables a los intercambios e importaciones de productos no sometidos a las normas específicas establecidas en el capítulo I del anexo A del Real Decreto 49/1993, de 15 de enero, y, en lo relativo a los agentes patógenos, en el Real Decreto 1316/1992, de 30 de octubre.
+
+## ANEXO B — Productos no sujetos a armonización comunitaria pero cuyos intercambios se someterán a los controles establecidos en el presente Real Decreto
+
+Otros productos de origen animal que no figuren ni en el anexo A del presente Real Decreto, ni en el anexo del Real Decreto 1316/1992. Estos productos se definirán de acuerdo con el procedimiento comunitario previsto.
+
+## II — Versión consolidada de los anexos A y B del Real Decreto 1316/1992
+
+## ANEXO A
+
+## CAPÍTULO I — Legislación veterinaria
+
+### Sección 1.ª
+
+1\. Real Decreto 434/1990, de 30 de marzo por el que se establecen las condiciones sanitarias aplicables al comercio intracomunitario de animales vivos de la especie bovina y porcina, y posteriores.
+
+2\. Real Decreto 877/1990, de 6 de julio, por el que se fijan las exigencias de policía sanitaria aplicables a los intercambios intracomunitarios y a las importaciones de esperma congelado de animales de la especie bovina.
+
+3\. Real Decreto 855/1992, de 10 de julio, por el que se fijan las condiciones de policía sanitaria aplicables a los intercambios intracomunitarios y a las importaciones procedentes de terceros países de embriones de animales domésticos de la especie bovina.
+
+4\. Real Decreto 1148/1992, de 25 de septiembre, por el que se fijan las exigencias de sanidad animal aplicables a los intercambios y a las importaciones de esperma de animales de la especie porcina.
+
+5\. Real Decreto 1317/1992, de 30 de octubre, por el que se establecen las condiciones de sanidad animal aplicables a los intercambios intracomunitarios y las importaciones de aves de corral y de huevos para incubar procedentes de países terceros.
+
+6\. Real Decreto 1347/1992, de 6 de noviembre, por el que se modifican las medidas de lucha contra la peste equina y se establecen las condiciones de sanidad animal que regulan los movimientos intracomunitarios de équidos y las importaciones de estos animales de países terceros.
+
+7\. Real Decreto 2121/1993, de 3 de diciembre, relativo a las normas de policía sanitaria que regulan los intercambios intracomunitarios y las importaciones de terceros países de animales de las especies ovina y caprina.
+
+8\. Real Decreto 224/1993, de 17 de diciembre, sobre normas sanitarias de eliminación y transformación de animales muertos y desperdicios de origen animal y protección frente a agentes patógenos en piensos de origen animal.
+
+9\. Real Decreto 66/1994, de 21 de enero, por el que se establecen las normas relativas a la protección de los animales durante el transporte.
+
+10\. Real Decreto 1882/1994, de 16 de septiembre, por el que se establecen las condiciones de sanidad animal aplicables a la puesta en el mercado de animales y de productos de la acuicultura.
+
+### Sección 2.ª
+
+Real Decreto 1881/1994, de 16 de septiembre, por el que se establecen las condiciones de policía sanitaria aplicables a los intercambios y las importaciones procedentes de terceros países de animales, esperma, óvulos y embriones no sometidos, con respecto a estas condiciones, a las disposiciones contenidas en la sección 1 del anexo A del Real Decreto 1316/1992, de 30 de octubre.
+
+Real Decreto 1882/1994, de 16 de septiembre, por el que se establecen las condiciones de sanidad animal aplicables a los intercambios y a las importaciones de productos no sometidos a las normas específicas establecidas en el capítulo I del anexo A del Real Decreto 49/1993, de 15 de enero, y en lo relativo a los agentes patógenos en el Real Decreto 1316/1992, de 30 de octubre.
+
+## CAPÍTULO II — Legislación zootécnica
+
+1\. Real Decreto 420/1987, de 20 de febrero, sobre selección y reproducción del ganado bovino de razas puras y Ordenes ministeriales de 15 de septiembre de 1987 y de 25 de febrero de 1989.
+
+2\. Real Decreto 723/1990, de 8 de junio sobre selección y reproducción de ganado porcino de razas puras y Real Decreto 1108/1991, de 12 de julio, sobre normas zootécnicas aplicables a los reproductores porcinos híbridos.
+
+3\. Real Decreto 286/1991, de 8 de enero sobre relación y reproducción de ganado ovino y caprino de razas puras.
+
+4\. Real Decreto 1026/1993, de 25 de junio, sobre selección y reproducción de ganado equino de razas puras.
+
+5\. Real Decreto 391/1992, de 21 de abril, por el que se regula el reconocimiento oficial de los organismos o asociaciones de criadores de animales de razas puras que lleven o creen libros genealógicos.
+
+## ANEXO B — Animales y productos no sujetos a armonización pero cuyos intercambios se someterán a los controles establecidos en el presente Real Decreto
+
+## CAPÍTULO I
+
+Legislación veterinaria. Otros animales vivos que no figuran en el capítulo I del anexo A.
+
+## CAPÍTULO II
+
+Legislación veterinaria. Espermas, óvulos y embriones que no figuran en el capítulo I del anexo A.

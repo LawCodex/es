@@ -1,0 +1,647 @@
+---
+title: "Instrumento de Ratificación de 10 de abril de 1978 del Convenio entre España y Canadá para evitar la doble imposición y prevenir la evasión fiscal en materia de impuestos sobre la renta y sobre el patrimonio, firmado en Ottawa el 23 de noviembre de 1976"
+identifier: "BOE-A-1981-2731"
+eli: "https://www.boe.es/eli/es/ai/1976/11/23/(1)"
+type: treaty
+rank: "Acuerdo Internacional"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 1976-11-23
+published: 1981-02-06
+in_force_from: 1980-12-26
+last_amended: 2022-06-21
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 32"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-2731"
+retrieved: 2026-10-11
+---
+
+# Instrumento de Ratificación de 10 de abril de 1978 del Convenio entre España y Canadá para evitar la doble imposición y prevenir la evasión fiscal en materia de impuestos sobre la renta y sobre el patrimonio, firmado en Ottawa el 23 de noviembre de 1976
+
+Tengase en cuenta que las disposiciones de este Convenio pueden haberse visto afectadas por el Convenio multilateral para aplicar las medidas relacionadas con los tratados fiscales para prevenir la erosión de las bases imponibles y el traslado de beneficios, de 24 de noviembre de 2016, [Ref. BOE-A-2021-21097](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21097), computándose los plazos para determinar la fecha de efectos de las medidas previstas en el citado Convenio conforme a la notificación efectuada por España, publicada en el BOE núm. 147, de 21 de junio de 2022. [Ref. BOE-A-2022-10231](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10231)
+
+A este respecto, puede consultarse el texto sintético disponible en la [web del Ministerio competente en materia de Hacienda](https://www.hacienda.gob.es/es-ES/Normativa%20y%20doctrina/Normativa/CDI/Paginas/CDI_Alfa.aspx).
+
+DON JUAN CARLOS I
+
+REY DE ESPAÑA
+
+*Por cuanto* el día 23 de noviembre de 1976, el Plenipotenciario de España firmó en Ottawa, juntamente con el Plenipotenciario de Canadá, nombrados en buena y debida forma al efecto, el Convenio entre España y Canadá para evitar la doble imposición y prevenir la evasión fiscal en materia de impuestos sobre la renta y sobre el patrimonio.
+
+*Vistos y examinados* los treinta artículos que integran dicho Convenio,
+
+*Aprobado* su texto por las Cortes Españolas y, por consiguiente, *autorizado* para su ratificación,
+
+*Vengo en aprobar y ratificar* cuanto en él se dispone, como en virtud del presente lo apruebo y ratifico, prometiendo cumplirlo, observarlo y hacer que se cumpla y observe puntualmente en todas sus partes, a cuyo fin, para su mayor validación y firmeza, *mando*expedir este Instrumento de Ratificación firmado por Mí, debidamente sellado y refrendado por el infrascrito Ministro de Asuntos Exteriores.
+
+Dado en Madrid a diez de abril de mil novecientos setenta y ocho.
+
+JUAN CARLOS R.
+
+El Ministro de Asuntos Exteriores
+
+MARCELINO OREJA AGUIRRE
+
+**CONVENIO ENTRE ESPAÑA Y CANADÁ PARA EVITAR LA DOBLE IMPOSICIÓN Y PREVENIR LA EVASIÓN FISCAL EN MATERIA DE IMPUESTOS SOBRE LA RENTA Y SOBRE EL PATRIMONIO**
+
+El Gobierno de España y el Gobierno de Canadá;
+
+Deseando concluir un Convenio para evitar la doble imposición y prevenir la evasión fiscal en materia de impuestos sobre la renta y el patrimonio;
+
+Han acordado lo siguiente:
+
+## I. ÁMBITO DE APLICACIÓN DEL CONVENIO
+
+### Artículo I. Ámbito subjetivo.
+
+El presente Convenio se aplica a las personas residentes de uno o de ambos Estados Contratantes.
+
+### Artículo II. Ámbito objetivo.
+
+1\. El presente Convenio se aplica a los impuestos sobre la renta y sobre el patrimonio exigibles por cada uno de los Estados Contratantes, cualquiera que sea el sistema de su exacción.
+
+2\. Se consideran impuestos sobre la renta y sobre el patrimonio los que gravan la totalidad de la renta o del patrimonio o cualquier parte de los mismos, incluidos los impuestos sobre las ganancias derivadas de la enajenación de bienes muebles o inmuebles, los impuestos sobre el importe de sueldos pagados por las Empresas, así como los impuestos sobre las plusvalías.
+
+3\. Los impuestos actuales a los que se aplica este Convenio son, en particular:
+
+a) en España:
+
+(i) el Impuesto sobre la Renta de las Personas Físicas;
+
+(ii) el Impuesto sobre Sociedades;
+
+(iii) el Impuesto sobre la Renta de No Residentes;
+
+(iv) los impuestos locales sobre la renta; y
+
+(v) el Impuesto sobre el Patrimonio,
+
+(denominados en lo sucesivo “impuesto español”);
+
+b) en Canadá, los impuestos exigibles por el Gobierno de Canadá conforme a la Ley del Impuesto sobre la Renta (denominados en lo sucesivo “impuesto canadiense”).
+
+4\. El presente Convenio se aplicará a los impuestos futuros de naturaleza idéntica o análoga y a los impuestos sobre el patrimonio (que entren en vigor después de la firma de este Convenio) que se añadan a los actuales o que los sustituyan. Los Estados Contratantes se comunicarán las modificaciones que se hayan introducido en sus respectivas legislaciones fiscales.
+
+> Se modifica el apartado 3 por el art. 1 del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+## II. DEFINICIONES
+
+### Artículo III. Definiciones generales.
+
+1\. En el presente Convenio, a menos que de su texto se infiera una interpretación diferente:
+
+a) (i) La expresión «Canadá», empleada en un sentido geográfico, significa el territorio del Canadá, comprendiendo cualquier región fuera de las aguas territoriales del Canadá, donde, en virtud de las leyes del Canadá, dichos país pueda ejercer los derechos referentes al suelo y subsuelo marinos y a sus recursos naturales.
+
+(ii) La expresión «España» significa el Estado español (España peninsular, las islas Baleares y las islas Canarias, las ciudades españolas de África) y las zonas adyacentes a las aguas territoriales de España sobre las que, de acuerdo con el Derecho internacional, España puede ejercer los derechos referentes al suelo y subsuelo marinos y a sus recursos naturales.
+
+b) Las expresiones «un Estado Contratante» y «otro Estado Contratante» significan, según el texto, España o el Canadá.
+
+c) La expresión «persona» comprende las personas físicas, las herencias, las fiducias (trusts), las sociedades y cualquier otra agrupación de personas.
+
+d) La expresión «sociedad» significa cualquier persona jurídica o cualquier entidad que deba considerarse como persona jurídica a efectos impositivos; en francés, la expresión «societé» incluye igualmente a una «corporation» en el sentido de la ley canadiense.
+
+e) Las expresiones «empresas de un Estado Contratante» y «empresa del otro Estado Contratante» significan, respectivamente, una empresa explotada por un residente de un Estado Contratante y una empresa explotada por un residente del otro Estado Contratante.
+
+f) La expresión «Autoridades competentes» significa:
+
+(i) En lo que refiere al Canadá, el Ministro de la Renta Nacional o su representante autorizado.
+
+(ii) En lo que se refiere a España, el Ministro de Hacienda, el Secretario general técnico u otra autoridad debidamente autorizado por el Ministro.
+
+g) La expresión «impuestos» significa, según el texto, el impuesto español o el impuesto canadiense.
+
+h) La expresión «nacional» significa:
+
+(i) Cualquier persona física poseedora de la nacionalidad de un Estado Contratante.
+
+(ii) Cualquier persona jurídica, sociedad de personas y asociación constituida de acuerdo con la legislación en vigor en un Estado Contratante.
+
+i) la expresión “tráfico internacional” significa cualquier transporte efectuado por un buque o aeronave explotado por una empresa de un Estado contratante, a menos que dicho transporte se efectúe únicamente entre puntos situados en el otro Estado contratante;
+
+j) el término “empresa” se aplica a la realización de cualquier actividad económica;
+
+k) la expresión “actividad económica” incluye la prestación de servicios profesionales y la realización de otras actividades de carácter independiente.
+
+2\. Para la aplicación del presente Convenio por un Estado Contratante, cualquier expresión no definida de otra manera tendrá a menos que el texto exija una interpretación diferente, el significado que se atribuya por la legislación de este Estado Contratante relativa a los impuestos que son objeto del presente Convenio.
+
+> Se modifica la letra i) y se añaden las letras j) y k) por el art. 2 del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+### Artículo IV. Domicilio fiscal.
+
+1\. A los efectos del presente Convenio, se considera «residente de un Estado Contratante» a toda persona que, en virtud de la legislación de este Estado, esté sujeta a imposición en el por razón de su domicilio, residencia, sede de dirección o cualquier otro criterio de naturaleza análoga.
+
+2\. Cuando en virtud de las disposiciones del párrafo 1, una persona física resulte residente de ambos Estados Contratantes, se resolverá sobre este particular de la siguiente manera:
+
+a) Esta persona será considerada como residente del Estado Contratante donde tenga una vivienda permanente a su disposición. Cuando disponga de una vivienda permanente en ambos Estados Contratantes, se considerará residente del Estado Contratante con el que mantenga relaciones personales y económicas más estrechas («Centro de intereses vitales»).
+
+b) Si no pudiera determinarse el Estado Contratante en el que dicha persona tenga el centro de sus intereses vitales, o si no tuviera una vivienda permanente a su disposición en ninguno de los Estados Contratantes, se considerará residente del Estado Contratante donde viva de manera habitual.
+
+c) Si viviera de manera habitual en ambos Estados Contratantes o no lo hiciera en ninguno de ellos, se considerará residente del Estado Contratante del que sea nacional.
+
+d) Si fuera nacional de ambos Estados Contratantes o no lo fuera de ninguno de ellos, las autoridades competentes de los Estados Contratantes resolverán el caso de común acuerdo.
+
+3\. Cuando en virtud de las disposiciones del apartado 1 una persona que no sea una persona física sea residente de ambos Estados contratantes, las autoridades competentes de los Estados contratantes harán lo posible para determinar mediante acuerdo amistoso el Estado del que debe considerársela residente, teniendo en cuenta su sede de dirección efectiva, el lugar de constitución, y cualquier otro factor pertinente. En caso de que las autoridades competentes no pudieran dirimir esta cuestión mediante acuerdo amistoso, se esforzarán por determinar mediante acuerdo amistoso el modo de aplicación de este Convenio a esa persona.
+
+> Se modifica el apartado 3 y se suprime el 4 por el art. 3 del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+### Artículo V. Establecimiento permanente.
+
+1\. A los efectos del presente Convenio, la expresión «establecimiento permanente» designa un lugar fijo de negocios en el que una empresa efectúa toda o parte de su actividad.
+
+2\. La expresión «establecimiento permanente» comprende en especial:
+
+a) Una sede de dirección.
+
+b) Sucursal.
+
+c) Oficina.
+
+d) Fábrica.
+
+e) Taller.
+
+f) Mina, cantera o cualquier otro lugar de extracción de recursos naturales.
+
+g) Obras de construcción o de montaje cuya duración exceda de doce meses.
+
+3\. El término «establecimiento permanente» no comprende:
+
+a) La utilización de instalaciones con el único fin de almacenar, exponer o entregar bienes o mercancías pertenecientes a la empresa.
+
+b) El mantenimiento de un depósito de bienes o mercancías pertenecientes a la empresa con el único fin de almacenarlas, exponerlas o entregarlas.
+
+c) El empleo de un depósito de bienes o mercancías pertenecientes a la empresa con el único fin de que sean transformadas por otras empresas.
+
+d) El uso de un lugar fijo de negocios con el único fin de comprar bienes o mercancías o de recoger información para la empresa.
+
+e) El mantenimiento de un lugar fijo de negocios con el único fin de hacer publicidad, suministrar información, realizar investigaciones científicas o desarrollar otras actividades similares que tengan carácter preparatorio o auxiliar.
+
+4\. Una persona que actúe en un Estado Contratante por cuenta de una empresa del otro Estado Contratante, salvo que se trate de un agente independiente comprendido en el párrafo 5 de este texto, se considera que constituye establecimiento permanente en el Estado Contratante primeramente mencionado si tiene y ejerce habitualmente en este Estado poderes para concluir contratos en nombre de la empresa, a menos que sus actividades se limiten a la compra de bienes o mercancías para la misma.
+
+5\. No se considera que una empresa de un Estado Contratante tiene establecimiento permanente en el otro Estado Contratante por el mero hechos de que realice actividades en este otro Estado por medio de un corredor, un comisionista general o cualquier otro mediador que goce de un estatuto independiente, siempre que estas personas actúen dentro del marco ordinario de su actividad.
+
+6\. El hecho de que una sociedad residente de un Estado Contratante controle o sea controlada por una sociedad residente del otro Estado Contratante o que realice actividades en este otro Estado (ya sea por medio de un establecimiento permanente o de otra manera) no convierte por sí solo a cualquier de estas sociedades en establecimiento permanente de la otra.
+
+## III. IMPUESTO SOBRE LAS RENTAS
+
+### Artículo VI. Rentas de bienes inmuebles.
+
+1\. Las rentas procedentes de bienes inmuebles, incluidas las derivadas de explotaciones agrícolas o forestales, pueden someterse a imposición en el Estado Contratante en que tales bienes están situados.
+
+2\. A los efectos del presente Convenio, la expresión «bienes inmuebles» se definirá de acuerdo con la Ley del Estado Contratante en que los bienes en cuestión estén situados. La expresión comprende, en todo caso, los accesorios, el ganado y el equipo utilizado en las explotaciones agrícolas y forestales; los derechos a los que se apliquen las disposiciones de derecho privado relativas a la propiedad inmobiliaria, el usufructo de bienes inmuebles y los derechos a percibir cánones variables o fijos por la explotación o la concesión de la explotación de yacimientos minerales, fuentes u otras riquezas del suelo. Los buques, embarcaciones y aeronaves no se consideran bienes inmuebles.
+
+3\. Las disposiciones del párrafo 1 se aplican a las rentas derivadas de la utilización directa, del arrendamiento o de cualquier otra forma de explotación de los bienes inmuebles y a los beneficios provenientes de la enajenación de los mismos.
+
+4\. Las disposiciones de los apartados 1 y 3 se aplican igualmente a las rentas derivadas de los bienes inmuebles de una empresa.
+
+> Se modifica el apartado 4 por el art. 7.1.a) del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+### Artículo VII. Beneficios de las empresas.
+
+1\. Los beneficios de una empresa de un Estado Contratante solamente pueden someterse a imposición en este Estado, a no ser que la empresa efectúe operaciones en el otro Estado por medio de un establecimiento permanente situado en él. Si la empresa ejerce o ha ejercido su actividad en dicha forma, los beneficios de la empresa pueden someterse a imposición en el otro Estado, pero sólo en la medida en que puedan atribuirse al establecimiento permanente.
+
+2\. Sin perjuicio de las disposiciones del párrafo 3, cuando una empresa de un Estado Contratante realice negocios en el otro Estado Contratante por medio de un establecimiento permanente situado en él, en cada Estado Contratante se atribuirán al establecimiento los beneficios que éste obtendría si fuese una empresa distinta y separada que realizase las mismas o similares actividades, en las mismas o similares condiciones, y tratase con total independencia con la empresa de la que es establecimiento permanente.
+
+3\. Para la determinación del beneficio del establecimiento permanente se permitirá la deducción de los gastos realizados para los fines del establecimiento permanente, debidamente demostrados, comprendidos los gastos de dirección y generales de administración para los mismos fines, bien en el Estado en que halle situado el establecimiento permanente o en otra parte.
+
+4\. No se imputará ningún beneficio a un establecimiento permanente por el mero hecho de que este establecimiento permanente haya comprado mercancías para la empresa.
+
+5\. A efectos de los párrafos anteriores, los beneficios imputables al establecimiento permanente se calcularán cada año por el mismo método, a no ser que existan motivos válidos y suficientes para proceder de otra forma.
+
+6\. Cuando los beneficios comprendan rentas reguladas separadamente en otros artículos de este Convenio, las disposiciones de aquellos no quedarán afectadas por las del presente artículo.
+
+### Artículo VIII. Navegación marítima y aérea.
+
+1\. Los beneficios de una empresa de un Estado Contratante procedentes de la explotación de buques o aeronaves en tráfico internacional, sólo pueden someterse a imposición en este Estado.
+
+2\. Sin perjuicio de las disposiciones del párrafo 1, y las del artículo VII, los beneficios provenientes de la explotación de naves o aeronaves dedicadas principalmente al transporte de pasajeros o de mercancías exclusivamente entre lugares situados en un Estado Contratante, están sujetos a imposición en este Estado.
+
+3\. Las disposiciones de los párrafos 1 y 2 de este artículo se aplican, asimismo, a los beneficios mencionados anteriormente que sean obtenidos por una empresa de un Estado Contratante, como consecuencia de su participación en un «pool», una explotación en común o un organismo internacional de explotación.
+
+### Artículo IX. Empresas asociadas.
+
+1\. Cuando:
+
+a) Una empresa de un Estado Contratante participe, directa o indirectamente, en la dirección, control o capital de una empresa del otro Estado Contratante, o
+
+b) Unas mismas personas participen, directa o indirectamente, en la dirección, control o capital de una empresa de un Estado Contratante y de una empresa del otro Estado Contratante.
+
+Y en uno y otro caso las dos empresas estén, en sus relaciones comerciales o financieras, unidas por condiciones, aceptadas o impuestas, que difieran de las que serían acordadas por empresas independientes, los beneficios que una de las empresas habría obtenido, de no existir estas condiciones y que de hecho no se han producido a causa de las mismas, pueden ser incluidos en los beneficios de esta empresa y sometidos a imposición en consecuencia.
+
+2\. Cuando los beneficios sobre los que una empresa de un Estado Contratante ha satisfecho sus impuestos en dicho Estado se incluyan en los beneficios de una empresa del otro Estado Contratante y se graven en consecuencia, y cuando estos beneficios hubiesen sido obtenidos por esta empresa del otro Estado si las condiciones acordadas entre las dos empresas hubieran sido idénticas a las que se hubiesen fijado entre dos empresas independientes, el primer Estado procederá a un ajuste correspondiente al importe de impuestos recibido sobre estos beneficios. En la determinación del ajuste deberán tenerse en cuenta las demás disposiciones del presente Convenio, relativas a la naturaleza de la renta.
+
+3\. Un Estado contratante no rectificará los beneficios de una empresa en los casos mencionados en el apartado 1 después del transcurso de los plazos de prescripción previstos en su legislación nacional y, en todo caso, una vez transcurridos ocho años desde el fin del ejercicio fiscal en el cual los beneficios que hubieran sido objeto de rectificación se habrían atribuido a esa empresa de no existir las condiciones a las que se hace referencia en el apartado 1.
+
+4\. Lo dispuesto en los apartados 2 y 3 no será aplicable en caso de fraude, incumplimiento intencionado o cuando un Estado contratante aplique normas anti-abuso.
+
+> Se modifica el apartado 3 y se añade el 4 por el art. 4 del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+### Artículo X. Dividendos.
+
+1\. Los dividendos pagados por una sociedad residente de un Estado Contratante a un residente del otro Estado Contratante pueden someterse a imposición en este último Estado.
+
+2\. Sin embargo, dichos dividendos pueden someterse también a imposición en el Estado contratante en que resida la sociedad que paga los dividendos y según la legislación de ese Estado, pero si el beneficiario efectivo de los dividendos es un residente del otro Estado contratante, el impuesto así exigido no podrá exceder del:
+
+a) 5 por ciento del importe bruto de los dividendos si el beneficiario efectivo es una sociedad (distinta de una sociedad de personas “partnership”) que posea directamente al menos el 10 por ciento del capital de la sociedad que paga los dividendos;
+
+b) 15 por ciento del importe bruto de los dividendos en todos los demás casos.
+
+Este apartado no afecta a la imposición de la sociedad respecto de los beneficios con cargo a los que se pagan los dividendos.
+
+3\. El término «dividendos» empleado en el presente artículo comprende los rendimientos de las acciones, de las acciones o bonos de disfrute, de las participaciones mineras, de las acciones de fundador o de otros derechos, excepto los de crédito, que permitan participar en los beneficios, así como las rentas de otras participaciones sociales asimiladas a los rendimientos de las acciones por la legislación fiscal del Estado en que resida la sociedad que las distribuya.
+
+4\. Las disposiciones del apartado 2 no se aplican si el perceptor de los dividendos, residente de un Estado contratante, ejerce en el otro Estado contratante del que es residente la sociedad que paga los dividendos una actividad económica por medio de un establecimiento permanente situado allí, y la participación que genera los dividendos está vinculada efectivamente a dicho establecimiento permanente. En este caso, se aplican las disposiciones del artículo VII.
+
+5\. Cuando una sociedad sea residente de un Estado contratante, el otro Estado contratante no puede exigir impuesto alguno sobre los dividendos pagados por la sociedad, salvo que tales dividendos se paguen a un residente de este otro Estado o en la medida en que la participación que genere los dividendos esté vinculada efectivamente a un establecimiento permanente situado en ese otro Estado, ni someter los beneficios no distribuidos de la sociedad a un impuesto sobre los mismos, aunque los dividendos pagados o los beneficios no distribuidos consistan, total o parcialmente, en beneficios o rentas procedentes de este otro Estado.
+
+6\. No obstante las restantes disposiciones de este Convenio, cuando una sociedad residente de un Estado contratante tenga un establecimiento permanente en el otro Estado contratante, podrán someterse a imposición los beneficios repatriados atribuibles a dicho establecimiento permanente de acuerdo con la legislación del otro Estado contratante, pero el impuesto exigido sobre dichos beneficios repatriados no excederá del 5 por ciento.
+
+7\. Las disposiciones de este Convenio no podrán interpretarse en el sentido de impedir a un Estado contratante aplicar un impuesto sobre la renta procedente de la enajenación de bienes inmuebles situados en ese Estado por una sociedad residente del otro Estado contratante que desarrolle una actividad económica relacionada con bienes inmuebles, complementario al impuesto que resultaría aplicable sobre la renta de una sociedad residente en el Estado mencionado en primer lugar, aunque dicho impuesto complementario así exigido no excederá del 5 por ciento del importe de dicha renta. A los efectos de esta disposición, el término “renta” significa la renta procedente de la enajenación del bien inmueble situado en un Estado contratante que pueda ser sometida a imposición por ese Estado en aplicación de lo dispuesto en el apartado 1 del artículo XIII, tras detraer todos los impuestos, distintos al impuesto adicional al que se hace referencia en este apartado, exigidos sobre dicha renta en ese Estado.
+
+8\. No obstante lo dispuesto en el apartado 2, los dividendos procedentes de un Estado contratante y pagados a un plan de pensiones o plan de jubilación del otro Estado contratante estarán exentos de imposición en el Estado mencionado en primer lugar si:
+
+a) el plan de pensiones o plan de jubilación es el beneficiario efectivo de las acciones respecto de las que se pagan los dividendos y la posesión tiene carácter de inversión;
+
+b) el plan de pensiones o plan de jubilación no posee directa o indirectamente más del 5 por ciento del capital o del 5 por ciento de las acciones con derecho a voto de la sociedad que paga los dividendos; y
+
+c) la clase de acciones de la sociedad respecto de las que se pagan los dividendos se negocia regularmente en un mercado de valores regulado.
+
+9\. A los efectos del apartado 8,
+
+a) la expresión “mercado de valores regulado” significa:
+
+(i) en el caso de dividendos procedentes de Canadá, un mercado de valores canadiense determinado o designado a los efectos de la Ley del Impuesto sobre la Renta;
+
+(ii) en el caso de dividendos procedentes de España, los mercados regulados definidos en la Directiva 2004/39/CE del Parlamento Europeo y del Consejo de 21 de abril relativa a los mercados de instrumentos financieros; y
+
+(iii) cualquier otro mercado de valores acordado mediante intercambio de cartas entre las autoridades competentes de los Estados contratantes;
+
+b) la expresión “plan de pensiones o plan de jubilación” significa:
+
+(i) en Canadá, un fideicomiso, una sociedad, organización u otra estructura constituida y explotada en Canadá exclusivamente para gestionar o dispensar pensiones o prestaciones por jubilación, y que, en términos generales, está exento de imposición sobre la renta en un ejercicio en Canadá; y
+
+(ii) en España, todo plan, fondo, mutualidad u otra entidad constituida y explotada en España exclusivamente para gestionar el derecho de las personas a cuyo favor se constituyen a percibir rentas o capitales por jubilación, supervivencia, viudedad, orfandad o invalidez, y cuyas aportaciones pueden ser objeto de beneficios fiscales en forma de minoración de la base imponible de los impuestos personales.
+
+> Se modifican los apartados 2, 4, 5 y 6 y se añaden los apartados 7 a 9 por los arts. 5 y 7.1.b) del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+### Artículo XI. Intereses.
+
+1\. Los intereses procedentes de un Estado Contratante pagados a un residente del otro Estado Contratante pueden someterse a imposición en este último Estado.
+
+2\. Sin embargo, dichos intereses pueden someterse también a imposición en el Estado contratante del que procedan y según la legislación de ese Estado, pero si el beneficiario efectivo de los intereses es un residente del otro Estado contratante, el impuesto así exigido no podrá exceder del 10 por ciento del importe bruto de los intereses.
+
+3\. El término «intereses» empleado en este artículo comprende los rendimientos de créditos de cualquier clase, con o sin garantía hipotecaria o con derecho o no a participar en beneficios, y particularmente los rendimientos de la Deuda Pública, de los bonos u obligaciones, comprendidos las primas y lotes de estos artículos, y todos los demás beneficios asimilados a los rendimientos de sumas prestadas por la legislación fiscal del Estado del que provienen los rendimientos; pero no incluye los rendimientos mencionados en el artículo X.
+
+4\. Las disposiciones del apartado 2 no se aplican si el perceptor de los intereses, residente de un Estado contratante, ejerce en el otro Estado contratante del que proceden los intereses, una actividad económica por medio de un establecimiento permanente situado allí, y el crédito que genere los intereses está vinculado efectivamente a dicho establecimiento permanente. En este caso, se aplican las disposiciones del artículo VII.
+
+5\. Los intereses se consideran procedentes de un Estado contratante cuando el deudor es el propio Estado, una de sus subdivisiones políticas, una de sus autoridades locales o un residente del mismo. Sin embargo, cuando el deudor de los intereses, sea o no residente de un Estado contratante, tenga en un Estado contratante un establecimiento permanente en relación con el que se haya contraído la deuda que da origen a los intereses y tal establecimiento soporte el pago de los mismos, los intereses se considerarán procedentes del Estado contratante en que esté situado el establecimiento permanente.
+
+6\. Cuando, debido a relaciones especiales existentes entre el deudor y el beneficiario de los intereses o entre ambos y cualquier otra persona, el importe de los intereses pagados, habida cuenta del crédito por el que se paguen, exceda del importe que habría sido acordado por el deudor y el beneficiario en ausencia de tales relaciones, las disposiciones de este artículo no se aplicarán más que a este último importe. En este caso, el exceso podrá someterse a imposición de acuerdo con la legislación de cada Estado Contratante, teniendo en cuenta las demás disposiciones de este Convenio.
+
+7\. No obstante lo dispuesto en el apartado 2:
+
+a) los intereses procedentes de un Estado contratante y pagados a un residente del otro Estado contratante no podrán someterse a imposición en el Estado contratante mencionado en primer lugar cuando el beneficiario efectivo de los intereses sea un residente del otro Estado contratante y opere en condiciones de plena competencia con el deudor de los mismos;
+
+b) los intereses procedentes de España y pagados a un residente de Canadá serán gravables exclusivamente en Canadá cuando se paguen por razón de un préstamo efectuado, garantizado o asegurado, o de un crédito concedido, garantizado o asegurado por la Agencia de Crédito a la Exportación canadiense (Export Development Canada); y
+
+c) los intereses procedentes de Canadá y pagados a un residente de España serán gravables exclusivamente en España cuando se paguen por razón de un préstamo, o crédito debido a España, o a una de sus subdivisiones políticas, entidades locales u organismo de crédito a la exportación, o concedido, otorgado, garantizado o asegurado por cualquiera de los anteriores, siempre que el crédito o préstamo tenga por objeto la exportación.
+
+8\. El apartado 7 a) no será aplicable cuando los intereses, o parte de ellos, se paguen, o sean pagaderos, respecto de una obligación que dependa de la utilización o la producción de bienes o que se calcule en función de la renta, el beneficio, el flujo de caja, el precio de las materias primas o cualquier otro criterio similar, o por referencia a los dividendos pagados o pagaderos a los accionistas que posean acciones de cualquier clase en el capital social de una sociedad.
+
+> Se modifican los apartados 2, 4, 5 y 7 y se añade el 8 por los arts. 6 y 7.1.c) del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+### Artículo XII. Cánones.
+
+1\. Los cánones procedentes de un Estado Contratante pagados a un residente del otro Estado Contratante pueden someterse a imposición en este último Estado.
+
+2\. Sin embargo, estos cánones pueden someterse a imposición en el Estado Contratante del que procedan y de acuerdo con la legislación de este Estado; pero, en este caso, el impuesto así establecido no puede exceder del 10 por 100 del importe bruto de dichos cánones, siempre y cuando éstos estén sujetos a imposición en el otro Estado Contratante.
+
+3\. No obstante las disposiciones del párrafo 2, los cánones pagados en virtud de derechos de autor y otras remuneraciones similares por la producción o reproducción de una obra literaria, dramática, musical o artística (con exclusión de los cánones referentes a películas cinematográficas y de obras registradas en películas o cintas magnetoscópicas destinadas a la televisión) procedentes de un Estado Contratante y pagados a un residente del otro Estado Contratante que esté sometido a gravamen por razón de los mismos, sólo pueden someterse a imposición en este otro Estado.
+
+4\. El término «cánones» empleado en este artículo, comprende las remuneraciones de cualquier clase pagadas por el uso o la concesión de uso de derechos de autor, de patentes, marcas de fábrica o de comercio, dibujos o modelos, planos, fórmulas o procedimientos secretos, así como por el uso o la concesión de uso de equipos industriales, comerciales o científicos y las cantidades pagadas por informaciones relativas a experiencias industriales comerciales o científicas; este término comprende también las cantidades de cualquier clase relativas a películas cinematográficas y obras registradas en películas y cintas magnetoscópicas destinadas a la televisión.
+
+5\. Las disposiciones de los apartados 2 y 3 no se aplican si el perceptor de los cánones, residente de un Estado contratante, ejerce en el otro Estado contratante, del que proceden los cánones, una actividad económica por medio de un establecimiento permanente situado allí, y el derecho o bien que genera los cánones está vinculado efectivamente a dicho establecimiento permanente. En este caso, se aplican las disposiciones del artículo VII.
+
+6\. Los cánones se considerarán procedentes de un Estado contratante cuando el deudor sea el propio Estado, una de sus subdivisiones políticas, una de sus autoridades locales o un residente del mismo. Sin embargo, cuando el deudor de los cánones, sea o no residente de un Estado contratante, tenga en un Estado contratante un establecimiento permanente en relación con el que se haya contraído la obligación de pago de los mismos, y cuyo pago soporte, tales cánones se considerarán procedentes del Estado contratante en que esté situado el establecimiento permanente.
+
+7\. Cuando debido a relaciones especiales existentes entre el deudor y el beneficiario o entre ambos y cualquier otra persona, el importe de los cánones pagados, habida cuenta de la prestación por la que se paguen, exceda del importe que habría sido acordado por el deudor y el beneficiario en ausencia de tales relaciones, las disposiciones de este artículo no se aplicarán más que a este último importe. En este caso, el exceso podrá someterse a imposición de acuerdo con la legislación de cada Estado Contratante, teniendo en cuenta las demás disposiciones de este Convenio.
+
+> Se modifican los apartados 5 y 6 por el art. 7.1.d) del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+### Artículo XIII. Ganancias derivadas de la enajenación de bienes.
+
+1\. Las ganancias derivadas de la enajenación de bienes inmuebles pueden someterse a imposición en el Estado Contratante en que estén sitos.
+
+2\. Las ganancias derivadas de la enajenación de bienes muebles que formen parte del activo de un establecimiento permanente que una empresa de un Estado contratante tenga en el otro Estado contratante, comprendidas las ganancias procedentes de la enajenación de dicho establecimiento permanente (solo o con el conjunto de la empresa), podrán someterse a imposición en dicho otro Estado. Sin embargo, las ganancias procedentes de la enajenación de embarcaciones o aeronaves explotadas en tráfico internacional, así como los bienes muebles afectos a la explotación de tales embarcaciones o aeronaves serán gravables exclusivamente en el Estado contratante al que con arreglo al artículo XXII, apartado 3, corresponda el derecho a gravarlos.
+
+3\. Las ganancias derivadas de la enajenación:
+
+a) De acciones de una Sociedad cuyos bienes están constituidos principalmente por bienes inmuebles sitos en un Estado Contratante, o
+
+b) De participaciones en una sociedad de personas o en una fiducia (trust) cuyos bienes estén constituidos principalmente por bienes inmuebles sitos en un Estado Contratante, pueden someterse a imposición en este Estado.
+
+A estos efectos, la expresión «bienes inmuebles» no comprende los bienes −salvo los destinados al arrendamiento− en los que la Sociedad, la Sociedad de personas o la fiducia ejerce su actividad; sin embargo, la expresión comprende las acciones de una Sociedad mencionada en el apartado a), y las participaciones referidas en el apartado b), anteriores.
+
+4\. Las ganancias derivadas de la enajenación de cualquier clase de bienes distintos de los mencionados en los párrafos 1, 2 y 3 solamente pueden someterse a imposición en el Estado Contratante en que reside el transmitente.
+
+5\. No obstante las disposiciones del párrafo 4, un Estado Contratante podrá gravar, de acuerdo con su legislación, las ganancias obtenidas por una persona física residente del otro Estado Contratante y procedentes de la enajenación de un bien cuando el transmitente:
+
+a) Posea la nacionalidad del primer Estado Contratante o haya sido residente de este Estado durante, por lo menos, quince años antes de la enajenación del bien, y
+
+b) Haya sido residente de este Estado Contratante en algún momento en los cinco años anteriores a dicha enajenación.
+
+> Se modifica el apartado 2 por el art. 7.1.e) del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+### Artículo XIV. Profesiones independientes.
+
+**(Suprimido)**
+
+> Se suprime por el art. 7 del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+### Artículo XV. Profesiones dependientes.
+
+1\. Sin perjuicio de las disposiciones de los artículos XVI, XVIII y XIX, los sueldos, salarios y remuneraciones similares obtenidos por un residente de un Estado Contratante por razón de un empleo, sólo pueden someterse a imposición en este Estado, a no ser que el empleo se ejerza en el otro Estado Contratante. Si el empleo se ejerce en este último Estado, las remuneraciones derivadas del mismo sólo pueden someterse a imposición en este Estado.
+
+2\. No obstante lo dispuesto en el apartado 1, las remuneraciones obtenidas por un residente de un Estado contratante por razón de un empleo ejercido en el otro Estado contratante serán gravables exclusivamente en el Estado mencionado en primer lugar cuando:
+
+a) el perceptor permanezca en el otro Estado durante un período o períodos cuya duración no exceda en conjunto de 183 días en cualquier período de doce meses que comience o termine en el año fiscal considerado, y
+
+b) las remuneraciones se paguen por un empleador que no sea residente del otro Estado, o en su nombre, y
+
+c) las remuneraciones no las soporte un establecimiento permanente que el empleador tenga en el otro Estado.
+
+3\. No obstante lo anteriormente establecido en este artículo, las remuneraciones obtenidas por razón de un empleo ejercido a bordo de un buque o aeronave en tráfico internacional, explotado por una Empresa de un Estado Contratante, sólo pueden someterse a imposición en este Estado.
+
+> Se modifica el apartado 2 por el art. 8 del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+### Artículo XVI. Participaciones de Consejeros.
+
+Las participaciones, dietas de asistencia y retribuciones similares que un residente de un Estado Contratante obtiene como miembro de un Consejo de Administración o de vigilancia, o de un órgano similar de una Sociedad, residente del otro Estado Contratante, pueden someterse a imposición en este otro Estado.
+
+### Artículo XVII. Artistas y deportistas.
+
+1\. No obstante las disposiciones de los artículos VII, XIV y XV, las rentas obtenidas por los artistas del espectáculo, tales como los artistas de teatro, cine, radiodifusión o televisión y los músicos, así como por los deportistas, por sus actividades personales en este concepto, pueden someterse a imposición en el Estado Contratante donde actúen.
+
+2\. Las rentas de actividades realizadas personalmente por artistas o deportistas, y atribuidas a otra persona distinta de aquéllos, no obstante lo dispuesto en los artículos VII, XIV y XV, pueden ser objeto de gravamen en el Estado Contratante donde el artista o deportista haya efectuado sus actividades.
+
+3\. Las disposiciones de los apartados 1 y 2 no son aplicables si las actividades ejercidas en un Estado contratante por un artista o deportista se financian total o principalmente con fondos públicos en el marco un programa de intercambio cultural o deportivo aprobado por un Estado contratante, una de sus subdivisiones políticas o entidades locales. En tal caso, las rentas derivadas del ejercicio de dichas actividades sólo pueden someterse a imposición en el otro Estado contratante.
+
+> Se modifica el apartado 3 por el art. 9 del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+### Artículo XVIII. Pensiones y anualidades.
+
+1\. Las pensiones y las anualidades procedentes de un Estado Contratante y pagadas a un residente del otro Estado Contratante, pueden someterse a imposición en este último Estado.
+
+2\. Las pensiones procedentes de un Estado Contratante y pagadas a un residente del otro Estado Contratante pueden someterse a imposición en el Estado de donde provienen y según la legislación de este Estado. En todo caso, para los pagos periódicos de una pensión, el impuesto así establecido no puede exceder de la menor de las dos cantidades siguientes:
+
+a) 15 por 100 del importe bruto del pago, o
+
+b) El porcentaje calculado en función del importe del impuesto que el beneficiario debiera pagar al año, si hubiera sido residente del Estado Contratante de donde proviene el pago, tomando en cuenta el total de las pensiones percibidas en tal período.
+
+3\. Las anualidades procedentes de un Estado Contratante y pagadas a un residente del otro Estado Contratante pueden someterse a imposición en el Estado del cual provienen y según la legislación de este Estado, pero el impuesto así establecido no puede exceder del 15 por 100 del rendimiento que está sujeto a gravamen en este Estado. En todo caso, esta limitación no se aplica a los pagos a tanto alzado originados por el abandono, la anulación, la redención, la venta u otra forma de enajenación de la renta, o a los pagos de cualquier naturaleza en virtud de un contrato de renta fija.
+
+4\. Pese a cualquier otra disposición del presente convenio:
+
+a) Las pensiones de la Seguridad Social y otras asignaciones similares, periódicas o no, así como las pensiones de ex combatientes, pagadas por un Estado Contratante, una de sus subdivisiones políticas o autoridades locales, o por una persona jurídica de derecho público a un beneficiario efectivo que sea residente del otro Estado Contratante, están exentas de impuestos en el otro Estado, en tanto en cuanto estén, asimismo, exentas en el primer Estado.
+
+b) Las pensiones alimenticias y otros pagos similares procedentes de un Estado Contratante y abonadas a un residente del otro Estado Contratante que sea el beneficiario efectivo, pueden someterse a imposición solamente en este otro Estado.
+
+### Artículo XIX. Funcionarios públicos.
+
+1\. a) Las remuneraciones, distintas de las pensiones, pagadas por un Estado Contratante o una de sus subdivisiones políticas o autoridades locales, a una persona física, en consideración a servicios prestados a este Estado, subdivisión o autoridad, sólo pueden someterse a imposición en este Estado.
+
+b) Sin embargo, estas remuneraciones sólo pueden someterse a imposición en el Estado Contratante del que el beneficiario sea residente si los servicios han sido prestados en este Estado y si el beneficiario de la remuneración no se hubiera hecho residente de dicho Estado solamente para la prestación de los servicios.
+
+2\. Las disposiciones del párrafo 1 no se aplican a las remuneraciones pagadas en consideración a servicios prestados en el marco de una actividad comercial o industrial ejercida por uno de los Estados Contratantes o una de sus subdivisiones políticas o autoridades locales.
+
+### Artículo XX. Estudiantes.
+
+Las cantidades que un estudiante, una persona en prácticas o un aprendiz, que sea o haya sido inmediatamente antes de visitar un Estado Contratante, residente del otro Estado y que se encuentre en el primer Estado con el único fin de proseguir sus estudios o completar su formación, reciba para cubrir sus gastos de mantenimiento, estudios o formación, no se someterán a imposición en el primer Estado, siempre que tales cantidades procedan de fuentes de fuera de este Estado.
+
+### Artículo XXI. Rentas no mencionadas expresamente.
+
+Las rentas de un residente de un Estado Contratante no mencionas expresamente en los artículos anteriores del presente Convenio, pueden someterse a imposición en este Estado Contratante. Sin embargo, pueden someterse a imposición en el Estado Contratante del que proceden y según la legislación de este Estado.
+
+## IV. IMPUESTOS SOBRE EL PATRIMONIO
+
+### Artículo XXII. Patrimonio.
+
+1\. El patrimonio constituido por bienes inmuebles puede someterse a imposición en el Estado Contratante en que los bienes estén sitos.
+
+2\. El patrimonio constituido por bienes muebles que formen parte del activo de un establecimiento permanente de una empresa puede someterse a imposición en el Estado contratante en que esté situado el establecimiento permanente.
+
+3\. Los buques y aeronaves explotados en tráfico internacional por una empresa de un Estado Contratante, así como los bienes muebles vinculados a su explotación, sólo pueden someterse a imposición en este Estado.
+
+4\. Todos los demás elementos del patrimonio de un residente de un Estado Contratante sólo pueden someterse a imposición en este Estado.
+
+> Se modifica el apartado 2 por el art. 7.1.f) del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+## V. DISPOSICIONES PARA ELIMINAR LA DOBLE IMPOSICIÓN
+
+### Artículo XXIII. Eliminación de la doble imposición.
+
+1\. En España, la doble imposición se evitará bien de conformidad con las disposiciones de su legislación interna o de acuerdo con las siguientes disposiciones, de conformidad con la legislación interna española:
+
+a) Cuando un residente de España obtenga rentas que, con arreglo a las disposiciones de este Convenio, puedan someterse a imposición en Canadá, España permitirá:
+
+(i) la deducción del impuesto sobre la renta de ese residente por un importe igual al impuesto sobre la renta pagado en Canadá;
+
+(ii) la deducción del impuesto sobre sociedades efectivamente pagado por la sociedad que reparte los dividendos, correspondiente a los beneficios con cargo a los cuales dichos dividendos se pagan, de acuerdo con la legislación interna de España.
+
+Sin embargo, dicha deducción no podrá exceder de la parte del impuesto sobre la renta, calculado antes de la deducción, correspondiente a la renta que pueda someterse a imposición en Canadá.
+
+Las disposiciones de este subapartado no son aplicables a los impuestos sobre la renta pagados en Canadá de acuerdo con lo dispuesto en el apartado 5 del artículo XIII.
+
+b) Cuando con arreglo a cualquier disposición de este Convenio las rentas obtenidas por un residente de España estén exentas de impuestos en España, España podrá, no obstante, tomar en consideración las rentas exentas para calcular el impuesto sobre el resto de las rentas de ese residente.
+
+2\. En Canadá, la doble imposición se evitará como sigue:
+
+a) de conformidad con las disposiciones vigentes contenidas en la legislación canadiense relativas a la posibilidad de deducir del impuesto canadiense los impuestos pagados en un territorio fuera de Canadá, y con las modificaciones ulteriores de esas disposiciones que no afecten a los principios generales aquí expuestos, y a menos que la legislación canadiense contemple una reducción o desgravación más amplia, el impuesto exigible en España sobre los beneficios, renta o ganancias procedentes de España será deducible del impuesto canadiense exigible sobre dichos beneficios, renta o ganancias;
+
+b) de conformidad con las disposiciones vigentes contenidas en la legislación canadiense relativas a la imputación contra el impuesto canadiense del impuesto exigido en un territorio fuera de Canadá, y con las modificaciones ulteriores de esas disposiciones que no afecten a los principios generales aquí expuestos, cuando una sociedad residente de España pague dividendos a una sociedad residente de Canadá y que controle, directa o indirectamente, al menos el 10 por ciento del poder de voto en la sociedad mencionada en primer lugar, la imputación tendrá en cuenta el impuesto debido en España por esa sociedad mencionada en primer lugar respecto de los beneficios con cargo a los que se pagan los dividendos; y
+
+c) cuando con arreglo a cualquier disposición de este Convenio las rentas obtenidas por un residente de Canadá estén exentas de impuestos en Canadá, Canadá podrá, no obstante, tomar en consideración las rentas exentas para calcular el impuesto sobre otras rentas.
+
+3\. A los efectos del apartado 2, los beneficios, rentas o ganancias de un residente de Canadá que puedan someterse a imposición en España de conformidad con este Convenio, se considerarán procedentes de fuentes situadas en España.
+
+> Se modifica por el art. 10 del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+## VI. DISPOSICIONES ESPECIALES
+
+### Artículo XXIV. No discriminación.
+
+1\. Los nacionales de un Estado Contratante no serán sometidos en el otro Estado Contratante a ningún impuesto ni obligación relativa al mismo que no se exijan o que sean más gravosos que aquéllos a los que estén o puedan estar sometidos los nacionales de este último Estado que se encuentren en las mismas condiciones.
+
+2\. Un establecimiento permanente que una empresa de un Estado Contratante tenga en el otro Estado Contratante no será sometido a imposición en este Estado de manera menos favorable que las empresas de este último Estado que realicen las mismas actividades.
+
+3\. Ninguna disposición del presente Convenio obliga a un Estado Contratante a conceder a los residentes del otro Estado Contratante las deducciones personales, desgravaciones y reducciones de impuestos que otorgue a sus propios residentes en consideración a su estado civil o cargas familiares.
+
+4\. Las empresas de un Estado Contratante cuyo capital esté, en todo o en parte, directa o indirectamente, poseído o controlado por uno o más residentes del otro Estado Contratante, no serán sometidas en el primer Estado Contratante a ningún impuesto ni obligación relativa al mismo que no se exijan o que sean más gravosos que aquéllos a los que estén o puedan estar sometidas las empresas similares del primer Estado en que el capital esté, en todo o en parte, directa o indirectamente, poseído o controlado por uno o más residentes de un tercer Estado.
+
+5\. La expresión «imposición» significa, a efectos de este artículo, los impuestos comprendidos en el presente Convenio.
+
+### Artículo XXV. Procedimiento amistoso.
+
+1\. Cuando una persona considere que las medidas adoptadas por uno o por ambos Estados contratantes implican o pueden implicar para ella una imposición que no esté conforme con las disposiciones de este Convenio, con independencia de los recursos previstos por el Derecho interno de esos Estados, podrá dirigir a las autoridades competentes del Estado del que sea residente una reclamación por escrito manifestando las razones para solicitar la revisión de dicha imposición. Para poder aceptar la reclamación, esta debe plantearse dentro de los tres años siguientes a la primera notificación de la medida que implique una imposición no conforme a las disposiciones de este Convenio.
+
+2\. La autoridad competente a la que se hace referencia en el apartado 1, si la reclamación le parece fundada y no puede por sí misma llegar a una solución satisfactoria, hará lo posible por resolver la cuestión mediante un acuerdo amistoso con la autoridad competente del otro Estado contratante, a fin de evitar una imposición que no se ajuste a este Convenio. El acuerdo al que pueda llegarse será aplicable independientemente de los plazos previstos por el Derecho interno de los Estados contratantes.
+
+3\. Una vez cumplidos los plazos de prescripción previstos en la normativa interna de los Estados contratantes y, en cualquier caso, transcurrido el plazo de ocho años desde la conclusión del ejercicio fiscal al que se atribuye la renta en cuestión, los Estados contratantes no incrementarán la base imponible de un residente de cualquiera de ellos incluyendo en ella elementos de renta que ya se hayan incluido en la renta en el otro Estado contratante. Este apartado no será aplicable en caso de fraude, incumplimiento intencionado o cuando un Estado contratante aplique normas anti-abuso.
+
+4\. Las autoridades competentes de los Estados contratantes harán lo posible por resolver las dificultades o las dudas que plantee la interpretación o aplicación de este Convenio mediante un acuerdo amistoso.
+
+5\. Las autoridades competentes de los Estados contratantes podrán consultarse con vistas a eliminar la doble imposición en los casos no previstos en este Convenio y podrán comunicarse directamente entre sí a fin de aplicar este Convenio.
+
+> Se modifica por el art. 11 del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+> Téngase en cuenta, para su aplicación, el art. 16.3 del citado Protocolo.
+
+### Artículo XXVI. Intercambio de información.
+
+1\. Las autoridades competentes de los Estados contratantes intercambiarán la información que previsiblemente pueda resultar de interés para aplicar lo dispuesto en este Convenio o para la administración o la aplicación del Derecho interno relativo a los impuestos de cualquier naturaleza o denominación exigibles por los Estados contratantes, en la medida en que la imposición así exigida no sea contraria a este Convenio. El intercambio de información no está limitado por los artículos I y II.
+
+2\. La información recibida por un Estado contratante en virtud del apartado 1 se mantendrá en secreto en igual forma que la información obtenida en virtud del Derecho interno de ese Estado y sólo se comunicará a las personas o autoridades (incluidos los tribunales y órganos administrativos) encargadas de la gestión o recaudación de los impuestos, de su aplicación efectiva o de la persecución del incumplimiento relativo a dichos impuestos, de la resolución de los recursos relativos a los mismos, o de la supervisión de tales actividades. Dichas personas o autoridades sólo utilizarán esta información para dichos fines. Podrán revelar la información en las audiencias públicas de los tribunales o en las sentencias judiciales. No obstante las disposiciones precedentes, la información recibida por un Estado contratante puede utilizarse para otros fines si conforme al Derecho de ambos Estados puede usarse para dichos otros fines y las autoridades competentes del Estado que proporciona la información autorizan tal uso.
+
+3\. En ningún caso las disposiciones de los apartados 1 y 2 pueden interpretarse en el sentido de obligar a un Estado contratante a:
+
+a) adoptar medidas administrativas contrarias a su legislación y práctica administrativa, o a las del otro Estado contratante;
+
+b) suministrar información que no se pueda obtener sobre la base de su legislación o en el ejercicio de su práctica administrativa normal, o de las del otro Estado contratante;
+
+c) suministrar información que revele un secreto empresarial, industrial, comercial o profesional, o un procedimiento industrial, o información cuya comunicación sea contraria al orden público (ordre public).
+
+4\. Cuando un Estado contratante solicite información en virtud de este artículo, el otro Estado contratante utilizará las medidas para recabar información de que disponga con el fin de obtener la información solicitada, aun cuando este otro Estado pueda no necesitar dicha información para sus propios fines tributarios. La obligación precedente está limitada por lo dispuesto en el apartado 3, pero en ningún caso tales limitaciones se interpretarán en el sentido de permitir a un Estado contratante denegar el intercambio de información únicamente por la ausencia de interés nacional en la misma.
+
+5\. En ningún caso las disposiciones del apartado 3 se interpretarán en el sentido de permitir a un Estado contratante denegar el intercambio de información únicamente porque esta obre en poder de bancos, otras instituciones financieras o de cualquier persona que actúe en calidad representativa o fiduciaria, incluidos los agentes designados, o porque la información esté relacionada con acciones o participaciones en una persona.
+
+> Se modifica por el art. 12 del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+> Téngase en cuenta, para su aplicación, el art. 16.3 del citado Protocolo.
+
+### Artículo XXVI-A. Asistencia en la recaudación de impuestos.
+
+1\. Los Estados contratantes se comprometen a prestarse asistencia mutua en la recaudación de sus créditos tributarios. Esta asistencia no está limitada por los artículos I y II. Las autoridades competentes de los Estados contratantes establecerán de mutuo acuerdo el modo de aplicación de este artículo, comprendido el acuerdo que garantice niveles de asistencia equiparables.
+
+2\. La expresión “crédito tributario” en el sentido de este artículo, significa un importe debido en relación con los impuestos de cualquier naturaleza o denominación recaudados por los Estados contratantes o en su nombre, en la medida en que esta imposición no sea contraria al presente Convenio o a cualquier otro instrumento del que los Estados contratantes sean parte; la expresión comprende igualmente los intereses, las sanciones administrativas y los costes relacionados con dicho importe.
+
+3\. Cuando un crédito tributario de un Estado contratante sea exigible en virtud del Derecho de ese Estado y el deudor sea una persona que conforme al Derecho de ese Estado no pueda impedir en ese momento la recaudación, a petición de las autoridades competentes de dicho Estado, las autoridades competentes del otro Estado contratante aceptarán dicho crédito tributario a los efectos de su recaudación. Cuando:
+
+a) España acepte un crédito tributario para su recaudación, España cobrará el crédito tributario de acuerdo con lo dispuesto en su legislación relativa a exigibilidad y recaudación de sus propios impuestos, como si se tratara de un crédito tributario español; y
+
+b) Canadá acepte un crédito tributario para su recaudación, Canadá le otorgará el tratamiento de importe debido en virtud de la Ley del Impuesto sobre la Renta, cuya recaudación no está sujeta a restricción alguna.
+
+4\. No obstante lo dispuesto en el apartado 3, un crédito tributario aceptado por un Estado contratante no estará sujeto en ese Estado a la prescripción o prelación aplicables a los créditos tributarios conforme a su Derecho interno por razón de su naturaleza. Asimismo, un crédito tributario aceptado por un Estado contratante a los efectos del apartado 3 no disfrutará en ese Estado de las prelaciones aplicables a los créditos tributarios en virtud del Derecho del otro Estado contratante. Los créditos tributarios de un Estado contratante no se saldarán mediante el encarcelamiento del deudor en el otro Estado contratante.
+
+5\. Las disposiciones de este artículo no podrán interpretarse como constitutivas o generadoras de derechos de revisión administrativa o judicial de los créditos tributarios de un Estado contratante en el otro Estado.
+
+6\. Cuando en un momento posterior a la solicitud de recaudación realizada por un Estado contratante y previo a su recaudación y remisión por el otro Estado contratante al primero, el crédito tributario dejara de ser un crédito del primer Estado contratante exigible conforme a su Derecho interno y cuyo deudor fuera una persona que en ese momento y según el Derecho de ese Estado no pudiera impedir su recaudación, las autoridades competentes del Estado mencionado en primer lugar notificarán sin dilación a las autoridades competentes del otro Estado ese hecho y, según decida ese otro Estado, el Estado mencionado en primer lugar suspenderá o retirará su solicitud.
+
+7\. En ningún caso las disposiciones de este artículo se interpretarán en el sentido de obligar a un Estado contratante a:
+
+a) adoptar medidas administrativas contrarias a su legislación o práctica administrativa o a las del otro Estado contratante;
+
+b) adoptar medidas contrarias al orden público (ordre public);
+
+c) prestar asistencia cuando el otro Estado contratante no haya aplicado todas las medidas para la recaudación de que disponga conforme a su legislación o práctica administrativa;
+
+d) prestar asistencia en aquellos casos en que la carga administrativa para ese Estado esté claramente desproporcionada con respecto al beneficio que vaya a obtener el otro Estado contratante.
+
+> Se añade por el art. 13 del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+> Téngase en cuenta, para su aplicación, el art. 16.4 del citado Protocolo.
+
+### Artículo XXVII. Funcionarios diplomáticos y consulares.
+
+1\. Las disposiciones del presente Convenio no afectan a los privilegios fiscales que disfrutan los funcionarios diplomáticos y consulares de acuerdo con los principios generales del Derecho internacional o en virtud de acuerdos especiales.
+
+2\. Sin perjuicio de lo dispuesto en el artículo IV del presente Convenio, una persona física, miembro de una misión diplomática, consular o permanente de un Estado Contratante, establecida en el otro Estado Contratante o en un tercer Estado, será considerada, a fines de este Convenio, como residente del Estado que le envía, siempre que esté sometida a las mismas obligaciones en materia de imposición sobre la renta que los demás residentes de este Estado.
+
+3\. El presente Convenio no se aplicará a las Organizaciones Internacionales, sus Corporaciones o sus funcionarios, ni tampoco a las personas que sean miembros de una misión diplomática, consular o permanente en un tercer Estado, cuando se encuentren en el territorio de un Estado Contratante y no estén sometidos en uno u otro Estado Contratante a las mismas obligaciones, en materia de imposición sobre la renta, que los demás residentes de dichos Estados.
+
+### Artículo XXVIII. Disposiciones diversas.
+
+1\. Lo dispuesto en este Convenio no se interpretará en el sentido de restringir en modo alguno las exenciones, desgravaciones, créditos y demás deducciones contenidas en la legislación de un Estado contratante para el cálculo del impuesto exigido en dicho Estado.
+
+2\. Lo dispuesto en este Convenio no se interpretará en el sentido de impedir a Canadá exigir un impuesto sobre los importes comprendidos en la renta de un residente de Canadá relacionados con una sociedad u otra entidad en la que dicho residente participe.
+
+3\. Este Convenio no será aplicable a ninguna sociedad u otra entidad residente de un Estado contratante, cuyo beneficiario o beneficiarios efectivos no sean residentes de dicho Estado o que esté bajo el control directo o indirecto de una o más personas que no sean residentes de dicho Estado, si la cuantía del impuesto exigible sobre la renta o el patrimonio de la sociedad u otra entidad por ese Estado es considerablemente inferior al impuesto que procedería imponer en ese Estado (después de tener en cuenta todas las reducciones impositivas o compensaciones de cualquier clase en la cuantía del impuesto, incluyendo las devoluciones, reembolsos, contribuciones, créditos o desgravaciones concedidos a la sociedad o a cualquier otra persona) si los beneficiarios efectivos de todas las acciones del capital social de la sociedad o de todas las participaciones en la entidad, según sea el caso, fueran una o más personas físicas residentes de dicho Estado.
+
+4\. A los efectos del apartado 3 del artículo XXII (Consultas) del Acuerdo General sobre el Comercio de Servicios del Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio, los Estados contratantes acuerdan que, no obstante lo dispuesto en ese apartado, todo desacuerdo entre ellos en cuanto a que una medida esté o no comprendida en el ámbito de este Convenio podrá plantearse ante el Consejo del Comercio de Servicios, como se prevé en dicho apartado, únicamente con el consentimiento de ambos Estados contratantes. En caso de duda en la interpretación de este apartado, esta se resolverá conforme a lo dispuesto en el apartado 4 del artículo XXV o, en caso de no alcanzar un acuerdo en virtud de dicho procedimiento, conforme a cualquier otro procedimiento acordado entre ambos Estados contratantes.
+
+> Se modifica por el art. 14 del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+## VII. DISPOSICIONES FINALES
+
+### Artículo XXIX. Entrada en vigor.
+
+1\. El presente Convenio será ratificado y los instrumentos de ratificación serán intercambiados en Madrid.
+
+2\. El presente Convenio entrará en vigor a partir del intercambio de los instrumentos de ratificación y sus disposiciones producirán efecto:
+
+a) En relación con el impuesto retenido en la fuente sobre cantidades pagadas o acreditadas a no residentes, a partir del 1 de enero del año civil en que se efectúe el cambio de los instrumentos de ratificación, y
+
+b) En relación con los demás impuestos, desde el ejercicio fiscal, que comience a partir del 1 de enero del año civil en que se produzca el intercambio de los instrumentos de ratificación.
+
+### Artículo XXX. Denuncia.
+
+El presente Convenio permanecerá en vigor indefinidamente, pero cualquiera de los Estados Contratantes podrá, hasta el día 30 de junio inclusive de cada año civil posterior al año del intercambio de los instrumentos de ratificación, denunciarlo al otro Estado Contratante y, en este caso, el Convenio dejará de tener efecto:
+
+a) En relación con el impuesto retenido en la fuente sobre cantidades pagadas o acreditadas a no residentes, a partir del 1 de enero del año civil siguiente al de la notificación, y
+
+b) En cuanto a los demás impuestos, para el ejercicio fiscal que comience a partir del 1 de enero del año civil siguiente al de la notificación.
+
+*En fe de lo cual,* los infrascritos, debidamente autorizados para ello, han firmado el presente Convenio.
+
+*Hecho*en doble ejemplar en Ottawa, el 23 de noviembre de 1976, en lenguas española, inglesa y francesa, siendo igualmente fehacientes todos los textos.
+
+*In witness whereof* the undersigned, duly authorized to that effect, have signed this Convention.
+
+*Done* in duplicate at Ottawa, this 23rd day of November, 1976, in the English, French and Spanish languages, each version being equally authentic.
+
+*En foi de quoi* les soussigneés, dùment autorisés à cet effet, ont signé la présente Convention.
+
+*Fait* en double exemplaire à Ottawa le 23ème jour de novembre 1976, en langues française, anglaise et espagnole, chaque version faisant également foi.
+
+| Por el Gobierno de España<br>For the Government of Spain<br>Pour le Gouvernement de l'Espagne | Por el Gobierno del Canadá<br>For the Government of Canada<br>Pour le Gouvernement du Canada |
+|---|---|
+| *Marcelino Oreja Aguirre* | *Don Jamieson* |
+
+## Protocolo
+
+En el momento de proceder a la firma del Convenio entre España y el Canadá, para evitar la doble imposición y prevenir la evasión fiscal en materia de impuestos sobre la renta y sobre el patrimonio, los abajo firmantes han acordado las siguientes disposiciones que forman parte integrante del Convenio:
+
+1\. En relación con el apartado 1 del artículo II, en el caso de España, este Convenio se aplicará igualmente a los impuestos sobre la renta exigidos en nombre de sus subdivisiones políticas o entidades locales.
+
+2\. En relación con el apartado 6 del artículo X, las referencias a los beneficios repatriados se entenderán, en el caso de Canadá, como los importes calculados de acuerdo con el Apartado XIV de la Ley del Impuesto sobre la Renta.
+
+3\. En relación con el subapartado a) del apartado 7 del artículo XI, se considerará que las personas descritas en los subapartados a) o b) del apartado 1 del artículo IX no operan entre sí en condiciones de plena competencia.
+
+4\. Referente a los artículos XVIII y XIX se ha convenido que las pensiones pagadas por el Estado español, sus subdivisiones políticas o autoridades locales, bien sea directamente o con cargo a fondos por ellos constituidos, a una persona física en consideración de servicios prestados a este Estado, subdivisión o autoridad, sólo podrán someterse a imposición en España.
+
+5\. Respecto al artículo XXI se ha acordado que las rentas que un residente de España perciba de una fiducia o herencia residente del Canadá pueden someterse a imposición en el Canadá, de acuerdo con su legislación; pero si tales rentas tributasen en España, el impuesto así exigido no podrá exceder del 15 por 100 de su importe bruto.
+
+6\. En aras de una mayor certidumbre, ambos Estados contratantes acuerdan que la interpretación del apartado 4 del artículo XIII se realizará conforme al párrafo 28.5 de los Comentarios al artículo 13 del Modelo de Convenio Tributario sobre la Renta y sobre el Patrimonio de la Organización para la Cooperación y el Desarrollo Económicos (Julio 2010).
+
+7\. A los efectos de este Convenio, la expresión “bienes inmuebles” comprende las acciones o participaciones u otros derechos que atribuyan directa o indirectamente a su propietario el derecho al disfrute de los bienes inmuebles situados en un Estado contratante.
+
+8\. En aras de una mayor certidumbre, se entiende que el término “perceptor” utilizado en los artículos X, XI y XII significa «beneficiario efectivo».
+
+> Se modifican los apartados 1 a 3 y 6 y se añaden los apartados 7 y 8 por el art. 15 del Protocolo de 18 de noviembre de 2014. [Ref. BOE-A-2015-10793](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10793)
+
+*En fe de lo cual,* los infrascritos, debidamente autorizados para ello, han firmado el presente Protocolo.
+
+*Hecho* en doble ejemplar en Ottawa, el 23 de noviembre de 1976, en lenguas española, inglesa y francesa, siendo igualmente fehacientes todos los textos.
+
+*In witness whereof* the undersigned, duly authorized to that effect, have signed this Protocol.
+
+*Done* in duplicate at Ottawa, this 23rd day of November, 1976, in the English, French and Spanish languages, each version being equally authentic.
+
+*En foi de quoi* les soussignées, dùment autorisés à cet effet, ont signé le présent Protocole.
+
+*Fait*en double exemplaire à Ottawa le 23ème jour de novembre 1976, en langues française, anglaise et espagnole, chaque version faisant également foi.
+
+| Por el Gobierno de España<br>For the Government of Spain<br>Pour le Gouvernement de l'Espagne | Por el Gobierno del Canadá<br>For the Government of Canada<br>Pour le Gouvernement du Canada |
+|---|---|
+| *Marcelino Oreja Aguirre* | *Don Jamieson* |

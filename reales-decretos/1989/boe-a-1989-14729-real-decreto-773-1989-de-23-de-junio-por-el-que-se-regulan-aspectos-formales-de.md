@@ -1,0 +1,77 @@
+---
+title: "Real Decreto 773/1989, de 23 de junio, por el que se regulan aspectos formales de los sorteos a celebrar por el Organismo Nacional de Loterías y Apuestas del Estado"
+identifier: "BOE-A-1989-14729"
+eli: "https://www.boe.es/eli/es/rd/1989/06/23/773"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1989-06-23
+published: 1989-06-27
+in_force_from: 1989-06-28
+last_amended: 2004-02-07
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 152"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1989-14729"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 773/1989, de 23 de junio, por el que se regulan aspectos formales de los sorteos a celebrar por el Organismo Nacional de Loterías y Apuestas del Estado
+
+Dentro del proceso de paulatina coordinación con las Loterías de Estado de Europa, se prevé la celebración en común de actos de sorteos, que periódicamente se efectuarán en diversos países europeos.
+
+Asimismo, resulta previsible la organización de actos similares en colaboración con Loterías de Estado de Iberoamérica, como consecuencia de la conmemoración del V Centenario del Descubrimiento de América.
+
+La colaboración con otras Loterías de Estado estará, en todo caso, limitada a la celebración en común de los actos de sorteos, a la constitución de un fondo común para premios con respeto absoluto de los porcentajes legalmente vigentes y a la constitución de una aportación con fines benéficos o culturales, sin que la misma pueda suponer disminución alguna de dichos porcentajes.
+
+Por otra parte, la colaboración a la que se viene haciendo mención, no supondrá merma alguna de la competencia exclusiva del Estado en materia de loterías. Cada país participante comercializará la lotería que le es propia dentro del ámbito de su territorio nacional.
+
+Asimismo resulta procedente regular determinados aspectos de los actos de los sorteos, cualquiera que sea el lugar de su celebración, garantizando que los mismos se realicen sin menoscabo de los necesarios controles.
+
+En su virtud, a propuesta del Ministro de Economía y Hacienda y previa deliberación del Consejo de Ministros, en su reunión de día 23 de junio de 1989,
+
+DISPONGO:
+
+### Art. 1.º
+
+Se autoriza al Organismo Nacional de Loterías y Apuestas del Estado a que disponga la celebración en el extranjero de los actos de sorteo de los juegos que gestiona. Dichos actos, así como los que se celebren en territorio nacional, tendrán carácter público y habrán de realizarse a través de la utilización de los medios humanos y técnicos que en cada momento resulten adecuados, previa verificación por los servicios del Organismo Nacional de Loterías y Apuestas del Estado.
+
+### Art. 2.º
+
+El Organismo Nacional de Loterías y Apuestas del Estado podrá participar en sorteos comunes con otras Loterías de Estado, pudiendo contribuir, a tal fin, en la constitución de un fondo común para premios, respetándose, en todo caso, los porcentajes que, con destino a los mismos, se encuentran establecidos legalmente.
+
+### Art. 3.º
+
+Cualquiera que sea el lugar de celebración de los actos de sorteo, se constituirá una mesa de control, al menos con dos miembros: un presidente, que será el Director General de Loterías y Apuestas del Estado o funcionario o autoridad en quien delegue, y un interventor o un fedatario público, quienes levantarán acta de que las operaciones se han realizado de acuerdo con las normas vigentes y el programa del sorteo respectivo.
+
+Asimismo, deberán asistir a los sorteos los funcionarios y demás personal que sea preciso para su realización que hayan sido nombrados para ello por la Dirección General.
+
+> Se modifica por el art. 3 del Real Decreto 208/2004, de 6 de febrero. [Ref. BOE-A-2004-2305](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2305).
+
+### Art. 4.º
+
+Se autoriza al Organismo Nacional de Loterías y Apuestas del Estado, para que con cargo a sus gastos comerciales, y hasta un máximo del 0,5 por 100 del importe de la emisión del correspondiente sorteo, contribuya a constituir una dotación, con destino a la institución benéfica, de carácter social o cultural de reconocido prestigio, que se determine de común acuerdo con los países participantes en el sorteo, o por el Ministerio de Economía y Hacienda, previa consulta al Ministerio competente.
+
+### Art. 5.º
+
+Con objeto de poder materializar la constitución de los fondos comunes a los que se hace referencia en los artículos precedentes, el Organismo podrá transferir al extranjero, mediando las formalidades legales oportunas, las cantidades que correspondan y dentro de los límites establecidos
+
+## DISPOSICIONES FINALES
+
+### Primera.
+
+Se autoriza al Ministerio de Economía y Hacienda para dictar las disposiciones necesarias para la aplicación y desarrollo de lo dispuesto en el presente Real Decreto.
+
+### Segunda.
+
+El presente Real Decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 23 de junio de 1989.
+
+JUAN CARLOS R.
+
+El Ministro de Economía y Hacienda,
+
+CARLOS SOLCHAGA CATALÁN

@@ -1,0 +1,979 @@
+---
+title: "Real Decreto 2255/1994, de 25 de noviembre, por el que se establece las especificaciones técnicas de los equipos a utilizar en los servicios de Valor Añadido de telemando, telemedida, telealarma y teleseñalización"
+identifier: "BOE-A-1995-301"
+eli: "https://www.boe.es/eli/es/rd/1994/11/25/2255"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Obras Públicas, Transportes y Medio Ambiente"
+date: 1994-11-25
+published: 1995-01-05
+in_force_from: 1995-01-06
+last_amended: 1998-01-20
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 4"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-301"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2255/1994, de 25 de noviembre, por el que se establece las especificaciones técnicas de los equipos a utilizar en los servicios de Valor Añadido de telemando, telemedida, telealarma y teleseñalización
+
+Incluye la corrección de errores publicada en BOE núm. 52, de 2 de marzo de 1995. [Ref. BOE-A-1995-5539](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-5539)
+
+La Ley 31/1987, de 18 de diciembre, de Ordenación de las Telecomunicaciones, modificada por la Ley 32/1992, de 3 de diciembre, establece en su artículo 29 que corresponde al Gobierno, a propuesta del Ministerio de Obras Públicas, Transportes y Medio Ambiente, la competencia para definir y aprobar las especificaciones técnicas de los equipos, aparatos, dispositivos y sistemas, a fin de garantizar el funcionamiento eficiente de los servicios y redes de telecomunicación, así como la adecuada utilización del espectro radioeléctrico, asignando a este mismo Departamento la facultad de expedir el correspondiente certificado de aceptación de dichas especificaciones técnicas y de aprobar el modo en que deberán realizarse los ensayos para su comprobación.
+
+En ejecución de ello, el Reglamento de desarrollo de la Ley 31/1987, en relación con los equipos, aparatos, dispositivos y sistemas a que se refiere el artículo 29 de dicho texto legal, aprobado por Real Decreto 1066/1989, de 28 de agosto, dispone en sus artículos 5 y 8 que la resolución por la que se certifique el cumplimiento de las especificaciones técnicas se extenderá en la forma prevista en ese Reglamento, recibirá la denominación de certificado de aceptación y requerirá la previa aprobación por Real Decreto de las especificaciones técnicas a cumplir por los aparatos, equipos, dispositivos y sistemas que pretendan obtenerla.
+
+De acuerdo con todo ello, este Real Decreto tiene por objeto la aprobación de las especificaciones técnicas que deberán cumplir los equipos a utilizar en los servicios de valor añadido de telemando, telemedida, telealarma y teleseñalización. Estas especificaciones deberán cumplirse para que dichos equipos obtengan el correspondiente certificado de aceptación, de modo que su comercialización y utilización garantice el uso eficiente del espectro radioeléctrico y evite las perturbaciones en el funcionamiento normal de otros servicios de telecomunicación.
+
+Por último, es de significar que ha sido cumplido el procedimiento de información a la Comisión de la Unión Europea establecido en la Directiva del Consejo 83/189/CEE, de 28 de marzo, y en el Real Decreto 568/1989, de 12 de mayo; así como que en la tramitación de este Real Decreto se ha dado audiencia a las asociaciones de consumidores y usuarios en cumplimiento del artículo 2 del Reglamento de desarrollo de la Ley 31/1987, antes mencionado.
+
+En su virtud, a propuesta del Ministro de Obras Públicas, Transportes y Medio Ambiente, y previa deliberación del Consejo de Ministros en su reunión del día 25 de noviembre de 1994,
+
+D I S P O N G O :
+
+## Artículo 1.
+
+Los equipos a utilizar en los servicios de valor añadido de telemando, telemedida, telealarma y teleseñalización para los que se desee obtener el certificado de aceptación a que se refiere el artículo 5 del Reglamento de desarrollo de la Ley 31/1987, de 18 de diciembre, de Ordenación de las Telecomunicaciones, en relación con los equipos, aparatos, dispositivos y sistemas a que se refiere el artículo 29 de dicho texto legal, aprobado por el Real Decreto 1066/1989, de 28 de agosto, deberán cumplir las especificaciones técnicas contenidas en el anexo I de este Real Decreto en los aspectos que les sean de aplicación de acuerdo con las características técnicas generales que utilicen para su funcionamiento.
+
+## Artículo 2.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2/1998, de 9 de enero. [Ref. BOE-A-1998-1109](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1109)
+
+## Artículo 3.
+
+En la obtención del certificado de aceptación a que se refiere el artículo 1, será de aplicación para la exigencia de comercialización, procedimiento y demás aspectos, lo regulado en el Reglamento de desarrollo de la Ley 31/1987, de 18 de diciembre, aprobado por el Real Decreto 1066/1989, de 28 de agosto.
+
+## Artículo 4.
+
+La solicitud del certificado de aceptación para los equipos transmisores se formulará según el modelo que se publica como anexo II de este Real Decreto.
+
+## Artículo 5.
+
+Para los equipos receptores será equivalente al certificado de aceptación la declaración de conformidad con las especificaciones técnicas recogidas en el anexo I que sean de aplicación. Esta declaración de conformidad, que se formulará según modelo recogido en el anexo III, y para la que será aplicable lo dispuesto en la UNE 66514, deberá realizarla el fabricante cuando esté ubicado en territorio nacional o, en caso contrario, la persona responsable de la comercialización de los equipos. El que suscriba la declaración deberá tener, a disposición de la Dirección General de Telecomunicaciones, el informe técnico en el que la fundamenta. Una copia de la declaración de conformidad deberá enviarse a la Dirección General de Telecomunicaciones, exigiéndose su acuse de recibo previamente a la comercialización de los equipos, y otra deberá adjuntarse con la garantía y el manual de instrucciones de cada equipo receptor.
+
+## Disposición transitoria primera.
+
+Los equipos a utilizar en los servicios de valor añadido de telemando, telemedida, telealarma y teleseñalización que posean certificado de aceptación a la entrada en vigor del presente Real Decreto, en virtud de lo dispuesto en el artículo 8.2 del Reglamento arriba mencionado, aprobado por el Real Decreto 1066/1989, podrán seguir comercializándose al amparo del mismo hasta la fecha de su caducidad.
+
+## Disposición transitoria segunda.
+
+Las solicitudes de expedición del certificado de aceptación para equipos a utilizar en los servicios de valor añadido de telemando, telemedida, telealarma y teleseñalización, que se hayan formulado hasta la fecha de entrada en vigor del presente Real Decreto, dispondrán de un plazo de dos meses para la finalización del procedimiento de obtención del certificado, pudiendo eximirse de la realización de parte de los ensayos cuando se aporte documentación suficiente que garantice que se han efectuado las pruebas exigidas en este Real Decreto.
+
+## Disposición transitoria tercera.
+
+Los equipos a utilizar en los servicios de valor añadido de telemando, telemedida, telealarma y teleseñalización que a la entrada en vigor del presente Real Decreto estén amparados por el correspondiente título habilitante para su conexión a un sistema de telemando, telemedida, telealarma y teleseñalización, podrán seguir conectándose de acuerdo con dicho título, siempre que quien lo hubiera obtenido, o quien legalmente se haya subrogado en el mismo, notifique a la Dirección General de Telecomunicaciones, en el plazo de cuatro meses contados desde la entrada en vigor de este Real Decreto, el título habilitante y la normativa técnica que se aplicó para la expedición del mencionado título, así como las características técnicas del equipo a que tal título se refiere.
+
+La Dirección General de Telecomunicaciones acordará, mediante la resolución motivada, la transformación del citado título en el correspondiente certificado de aceptación a que se refiere el artículo 1 o el otorgamiento de un plazo para que se obtenga el oportuno certificado, de conformidad con lo dispuesto en el Reglamento de desarrollo de la Ley 31/1987. En este último caso, podrá eximirse de la realización de parte de las pruebas cuando se aporte documentación suficiente que garantice que se han efectuado las pruebas exigidas en este Real Decreto.
+
+## Disposición final primera.
+
+Se faculta al Ministro de Obras Públicas, Transportes y Medio Ambiente para dictar cuantas disposiciones se precisen para el desarrollo del presente Real Decreto.
+
+## Disposición final segunda.
+
+Este Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 25 de noviembre de 1994.
+
+JUAN CARLOS R.
+
+El Ministro de Obras Públicas, Transportes y Medio Ambiente
+
+JOSÉ BORRELL FONTELLES
+
+## ANEXO I — Especificaciones técnicas de los equipos a utilizar en los servicios de valor añadido de telemando, telemedida, telealarma y teleseñalización
+
+## 1. Objeto de las especificaciones.
+
+Las presentes especificaciones tienen por objeto fijar las características mínimas que deben cumplir estos equipos, para una utilización adecuada de los recursos disponibles del espectro radioeléctrico. No comprenden, por tanto, el resto de las posibles características exigibles al equipo, aun cuando éstas pudieran considerarse imprescindibles para el funcionamiento correcto del mismo.
+
+Se aplican tanto a los equipos dotados de un conector para una antena exterior, como a los que llevan incluida la antena de forma permanente y sin la ayuda de un conector y/o cable.
+
+En equipos con antena incorporada no se autorizará la instalación de otra antena que no sea aquella con la que ha sido homologado el equipo, sin permitir ninguna modificación de la antena o sistema de fijación al equipo.
+
+La prestación de los servicios en los que se emplean estos equipos se efectúa mediante enlaces radioeléctricos, generalmente de corto alcance, los cuales requieren equipos de baja potencia para transmisión de datos en banda estrecha y que funcionan en frecuencias comprendidas entre 25 MHz y 900 MHz.
+
+En general, estos radioenlaces son unidireccionales debido a la naturaleza del servicio prestado, aunque hay usos que requieren transmisión y recepción de datos en ambos sentidos.
+
+## 2. Definiciones básicas.
+
+A efectos del presente Real Decreto, se entiende por equipos y aparatos de telemando, telemedida, telealarma y teleseñalización los definidos en los apartados 1, 2, 3 y 4, respectivamente.
+
+1\. Telemando.
+
+Se entiende por equipos y aparatos radioeléctricos de telemando aquellos que utilizan señales radioeléctricas, destinadas a iniciar, modificar o detener a distancia el funcionamiento de dispositivos de un sistema.
+
+2\. Telemedida.
+
+Se entiende por equipos y aparatos radioeléctricos de telemedida, aquellos que utilizan señales radioeléctricas, destinadas a indicar o registrar automáticamente mediciones a distancia de instrumentos de medida.
+
+3\. Telealarmas.
+
+Se entiende por equipos y aparatos radioeléctricos de telealarma, aquellos que utilizan medios radioeléctricos para transmitir información de señales de aviso, alerta o alarmas desde el lugar o lugares de origen hasta un centro de recepción de dichas señales.
+
+4\. Teleseñalización.
+
+Se entiende por equipos y aparatos de teleseñalización, aquellos que utilizan medios radioeléctricos para transmitir y recibir otras señales de datos no comprendidas expresamente en los tres apartados anteriores (queda excluida la fonía).
+
+## 3. Generalidades funcionales de los equipos.
+
+1\. Los equipos de telemando, telemedida y datos en general estarán diseñados de manera que solamente esté activado el transmisor durante el tiempo que sea necesario para transmitir la información.
+
+Se admiten también transmisiones esporádicas de muy corta duración, a efectos de pruebas y verificaciones del equipo, cuando por diseño o seguridad se requiera.
+
+2\. Los equipos de telealarma deberán cumplir con lo establecido en el apartado precedente (1). Además de lo anterior, teniendo en cuenta la naturaleza de sus informaciones, y en el caso en que el canal esté previsto para explotarse en régimen compartido por varios sistemas, se limitará la duración de cada emisión a cuatro segundos como máximo cada vez que se activa el transmisor.
+
+3\. En cualquier caso, la información a transmitir deberá estar protegida y codificada de manera que el sistema garantice el silenciamiento del receptor ante cualquier señal radioeléctrica capaz de excitarle, salvo aquella que lleve la codificación correcta para desbloquear la salida del receptor.
+
+4\. El equipo que tome la iniciativa de transmitir señales u órdenes, deberá condicionar la activación del transmisor a que su receptor no reciba señales radioeléctricas capaces de excitarle durante al menos un segundo.
+
+5\. En ausencia de sincronismo, el emisor deberá cortar automáticamente la emisión si se utiliza un sintetizador de frecuencias y/o un sistema de enganche de fase (PLL).
+
+6\. Se autoriza cualquier tipo de modulación, exceptuando la fonía, siempre que la anchura de banda resultante de la emisión modulada se ajuste a los requisitos de la canalización para la que el equipo ha sido diseñado.
+
+## 4. Frecuencias y canalización.
+
+**(Derogado)**
+
+## 5. Condiciones de ensayo.
+
+1\. Condiciones de ensayo normales y extremas.
+
+Los ensayos se realizarán en condiciones normales de ensayo y, cuando se especifique, en condiciones extremas.
+
+2\. Fuentes de alimentación para los ensayos.
+
+Durante los ensayos de la alimentación del equipo será sustituida por una fuente de ensayo que pueda suministrar las tensiones de ensayo normales y extremas según se especifica en los apartados 5.3, b), y 5.4, b). La impedancia interna de la fuente de alimentación de ensayo será de un valor suficientemente bajo como para que su influencia sobre los resultados de los ensayos sea despreciable. Durante los ensayos la tensión de la fuente de alimentación se medirá en los bornes de entrada de los equipos. Si el equipo tiene incorporado permanentemente un cable de alimentación, la tensión de ensayo será la que se mida en los puntos de conexión del cable al aparato.
+
+En los equipos que llevan baterías incorporadas la fuente de alimentación de ensayo se conectará lo más cerca posible a los bornes de la batería.
+
+Durante los ensayos, la tensión de la fuente de alimentación se mantendrá igual a la tensión inicial con una tolerancia de ± 3 por 100.
+
+3\. Condiciones normales de ensayo:
+
+a) Condiciones normales de temperatura y humedad.
+
+Durante los ensayos, las condiciones normales de temperatura y humedad será cualquier combinación de temperatura y humedad de los límites siguientes:
+
+1.º Temperatura: =15 ºC a +35 ºC.
+
+2.º Humedad relativa: 20 por 100 a 75 por 100.
+
+Cuando no sea posible realizar los ensayos en las condiciones dadas anteriormente, se indicarán en el informe la temperatura y humedad relativa existentes durante los ensayos.
+
+b) Alimentación normal de ensayo:
+
+1.º Tensión y frecuencia de red.
+
+La tensión normal de ensayo para los equipos alimentados por la red será la tensión normal de la red. En cuanto a las presentes especificaciones, la tensión nominal de la red será la tensión o una cualquiera de las tensiones para las que se indica que el equipo ha sido diseñado.
+
+La frecuencia de la fuente de alimentación de ensayo correspondiente a la red alterna estará comprendida entre 49 y 51 Hz.
+
+2.º Fuente de alimentación en vehículos, constituida por una batería de plomo con regulador.
+
+Cuando el equipo esté previsto para trabajar en un vehículo con una fuente de alimentación formada por una batería de plomo de tipo normal con regulador, la tensión normal de ensayo será 1.1 veces la tensión nominal de la batería (6 V, 12 V, etc.).
+
+3.º Otras fuentes de alimentación.
+
+Para otros tipos de fuentes de alimentación u otros tipos de batería (pilas o acumuladores), la alimentación normal de ensayo será la tensión nominal indicada por el fabricante del equipo.
+
+4\. Condiciones extremas de ensayo:
+
+a) Para los ensayos a temperaturas extremas las medidas se harán según el apartado 5.5. Las temperaturas inferior y superior serán de -10 ºC y +55 ºC, respectivamente.
+
+En el caso de que las pruebas se realicen con otros márgenes, se indicará así en el dictamen técnico de realización de las pruebas, así como en el certificado de aceptación radioeléctrica.
+
+b) Valores extremos de ensayo para la alimentación:
+
+1.º Tensión y frecuencia de la red.
+
+Las tensiones extremas de ensayo para los equipos que se alimentan por la red se ajustan al ±10 por 100 respecto a la tensión nominal de la red.
+
+La frecuencia de la fuente de alimentación de ensayo correspondiente a la red alterna estará comprendida entre 49 y 51 Hz.
+
+2.º Fuente de alimentación en vehículos constituida por una batería de plomo con regulador.
+
+Cuando el equipo esté previsto para trabajar en un vehículo con una fuente de alimentación formada por una batería de plomo de tipo normal con regulador, las tensiones extremas de ensayo serán 1.3 y 0.9 veces la tensión nominal de la batería (6 V, 12 V, etc.).
+
+3.º Otras fuentes de alimentación.
+
+El valor extremo inferior de la tensión de ensayo para los equipos alimentados por pilas será el siguiente:
+
+1.ª Para pilas de tipo «Leclanché»: 0,85 veces la tensión nominal de la pila.
+
+2.ª Para pilas de mercurio: 0,9 veces la tensión nominal de la pila.
+
+3.ª Para los otros tipos de pila: La tensión mínima de utilización especificada por el fabricante de los equipos.
+
+5\. Realización de ensayos a temperaturas extremas:
+
+Realización de los ensayos.
+
+Antes de proceder a realizar las medidas, los equipos deberán haber alcanzado su equilibrio térmico en el recinto de ensayo. El equipo no se alimentará hasta que no alcance el equilibrio térmico. Si el equilibrio térmico no se controla mediante medidas, se elegirá como el período de establecimientos de este equilibrio un tiempo de una hora o cualquier otra duración elegida por la autoridad que ordene los ensayos. Con objeto de evitar una condensación excesiva, se elegirán convenientemente el orden de ejecución de las medidas y el ajuste de la humedad relativa en el recinto de ensayo.
+
+a) Realización de los ensayos para los equipos de funcionamiento continuo.
+
+Si el fabricante garantiza que su equipo está previsto para funcionar de modo continuo, los ensayos se realizarán de la forma siguiente:
+
+Antes de realizar los ensayos a las temperaturas superiores, el equipo se colocará en el recinto de ensayo y quedará allí hasta que se alcance el equilibrio térmico. El equipo se pondrá a continuación en transmisión durante media hora, después de lo cual el equipo cumplirá las especificaciones.
+
+En el caso en el que los equipos tengan circuitos de estabilización de temperatura para funcionar en forma continua se admitirá que estos circuitos se pongan bajo tensión durante quince minutos después de haber alcanzado el equilibrio térmico. El equipo deberá entonces cumplir las condiciones requeridas. Los equipos de este tipo estarán dotados por el fabricante de un circuito de alimentación del alojamiento del cuarzo distinto de la alimentación del resto del equipo.
+
+b) Realización de los ensayos para los equipos de funcionamiento intermitente.
+
+Si el fabricante garantiza que su equipo está previsto para un funcionamiento intermitente, los ensayos se realizarán de la forma siguiente:
+
+Antes de realizar los ensayos a las temperaturas superiores, el equipo se colocará en el recinto de ensayo y quedará allí hasta que se alcance el equilibrio térmico.
+
+A continuación se pondrá en condición de espera o de recepción durante un período de un minuto, y después de esto el equipo deberá satisfacer las especificaciones.
+
+6\. Condiciones generales:
+
+a) Disposiciones relativas a las señales de ensayo aplicadas a la entrada del transmisor.
+
+Para la aplicación de las presentes especificaciones, la señal moduladora aplicada al transmisor se obtendrá de un generador conectado al interfaz adecuado, que deberá ser suministrado por el fabricante, de acuerdo con el laboratorio, que realice las pruebas.
+
+Los efectos de cualquier producto de intermodulación y de ruido que tengan su origen en los generadores de señales de ensayo deberán ser despreciables.
+
+b) Modulación normal de ensayo.
+
+La modulación de prueba debe ser tal que su composición y su nivel sean los utilizados normalmente en funcionamiento para modular el transmisor. Esta señal será la que, por acuerdo entre el fabricante y la autoridad que realiza las medidas, corresponda a la máxima anchura de banda ocupada y sea transmitida durante un tiempo suficientemente largo para poder realizar las medidas. Se presentan a continuación ejemplos de señales analógicas de prueba para las distintas modulaciones admitidas.
+
+Para las medidas de modulación de frecuencia o fase, la modulación normal de ensayo es una señal de una frecuencia de 1 kHz, que produzca una excursión de frecuencia igual al que aparece en la tabla I.
+
+Para las medidas en modulación de amplitud con portadora completa, la modulación normal de ensayo es una señal de frecuencia de 1 kHz, que produce un índice de modulación de 60 por 100.
+
+Para las medidas en modulación de amplitud con onda portadora reducida o suprimida, la modulación de ensayo está constituida por dos señales con frecuencias de 400 Hz y de 2.500 Hz, de amplitud igual y aplicadas simultáneamente y de forma que el nivel tenga el valor necesario para obtener la potencia de cresta.
+
+Si el aparato posee un limitador de modulación, los niveles aplicados deben ser tales que este limitador funcione.
+
+| Canalización (kHz) | Excursión (kHz) |
+|---|---|
+| 25 | 3 |
+| 12,5 | 1,5 |
+| 10 | 1,2 |
+
+TABLA I
+
+c) Antena artificial.
+
+Cuando los ensayos del transmisor se realicen con una antena artificial, ésta deberá ser una carga resistiva y no radiante de un valor de 50 ohmios.
+
+d) Lugar de ensayo y requisitos generales para las medidas que utilizan campos radiados.
+
+1.º Lugar de ensayo.
+
+El lugar de ensayo estará situado sobre una superficie o un suelo suficientemente plano.
+
+En un punto del lugar existirá un plano de tierra que tenga por lo menos 5 metros de diámetro. En medio de este plano de tierra se colocará un soporte no conductor que pueda girar 360 grados en el plano horizontal y que permita situar el equipo de ensayo a 1,5 metros por encima del plano de tierra. El lugar de ensayo será lo suficientemente grande para permitir la instalación de una antena de medida o de emisión a una distancia del equipo al menos igual al mayor de los valores siguientes: ?/2 ó 3 metros. La distancia utilizada se indicará con los resultados de las medidas.
+
+Se tomarán las debidas precauciones para asegurar que las reflexiones sobre los objetos cercanos al emplazamiento y sobre el suelo no alteren las medidas.
+
+2.º Antena de medida.
+
+La antena de medida se utiliza para captar las radiaciones del equipo a medir y de la antena de sustitución durante las medidas de radiación. Si fuese necesario, servirá como antena de emisión cuando el lugar se utilice para las medidas de las características de un receptor. Esta antena estará situada sobre un soporte que le permita ser utilizada en polarización horizontal o vertical y teniendo la posibilidad de regular la altura de su centro entre 1 y 4 metros por encima del suelo. Es preferible utilizar una antena de medida con una gran directividad. La longitud de la antena de medida a lo largo del eje de medida no excederá del 20 por 100 de la distancia de la antena de medida al equipo.
+
+Para las medidas de radiación, la antena de medida estará conectada a un receptor de medida que pueda ser sintonizado a cualquiera de las frecuencias utilizadas y apto para medir con precisión los niveles de las señales aplicadas a su entrada. Si fuese necesario (para las medidas sobre receptores), el receptor de medida se sustituirá por un generador de señales.
+
+3.º Antena de sustitución.
+
+La antena de sustitución será un dipolo ?/2, sintonizado a la frecuencia de medida, u otra antena calibrada con respecto al dipolo ?/2. El centro de esta antena coincidirá con el punto de referencia del equipo bajo ensayo al cual sustituye. Este punto de referencia será el centro de volumen del equipo a ensayar cuando la antena del equipo está situada en el interior de su caja, o el punto de conexión de la antena a la caja en el caso de una antena exterior.
+
+La distancia entre la parte más baja del dipolo y el suelo será de 30 centímetros como mínimo.
+
+La antena de sustitución estará conectada a un generador de señales calibrado cuando el lugar se utilice para medidas de radiación y a un receptor de medida calibrado cuando se utilice para medir las características del receptor. El generador de señales y el receptor de medida deberán sintonizarse a la frecuencia de medida y se conectarán a la antena por medio de adecuadas redes portadoras.
+
+4.º Sala de ensayos para medidas en el interior.
+
+Cuando la frecuencia de la señal a medir sea superior a 80 MHz, las medidas pueden realizarse en una sala de ensayos. Si se utiliza este tipo de emplazamiento, se hará constar en el informe de los ensayos.
+
+El lugar de medida debe ser una sala de laboratorio con una superficie mínima de 6 × 7 metros y una altura de 2,7 metros como mínimo.
+
+Aparte del operador y los instrumentos de medida, la sala no debe contener, en lo posible, otros objetos reflectantes, más que las paredes, el suelo y el techo.
+
+La sala de ensayos será, en principio, como la indicada en la figura 1.
+
+Las posibles reflexiones sobre la pared posterior al equipo bajo ensayo se reducen colocando un material absorbente, delante de esta pared. El diedro reflector que rodea la antena de medida se utiliza para reducir los efectos de las reflexiones, en la pared opuesta, así como las del techo y suelo en el caso de medida con polarización horizontal.
+
+Del mismo modo, el diedro reflector reduce los efectos de las reflexiones en las paredes laterales en el caso de medidas con polarización vertical.
+
+En la parte baja de la gama de frecuencia (por debajo de 175 MHz aproximadamente) no son necesarios el diedro reflector ni el material absorbente.
+
+Por razones prácticas, la antena en ?/2 de la figura 1 se puede sustituir por una antena de longitud constante, comprendida entre ?/4 y ?, siempre que la sensibilidad del instrumento de medida sea suficiente. También puede cambiarse su distancia de ?/2 al vértice del diedro.
+
+La antena de medida, el receptor de medida, la antena de sustitución y el generador de señales se utilizarán de la misma forma que en el método general.
+
+Para asegurarse que no se produzcan errores debidos a trayectos de propagación próximos a los de anulación de fase de la señal resultante de las señales directa y reflejadas, la antena de sustitución debe desplazarse ±10 centímetros en la dirección de la antena de medida, así como en las dos direcciones perpendiculares a ésta. Si las variaciones de distancia producen una variación en la señal superior a 2 dB, habrá que desplazar el equipo hasta que se obtenga una variación inferior a 2 dB.
+
+e) Caja de ensayos para los aparatos con antena incorporada.
+
+La utilización o no de una caja de ensayos se acordará entre el fabricante y el laboratorio de ensayos indicándose las características de ésta si se emplea.
+
+Esta caja de ensayo debe presentar una salida de una impedancia de 50 ohmios de la frecuencia de funcionamiento del aparato.
+
+La caja de ensayo debe permitir efectuar las conexiones de modulación y sustituir a la alimentación del aparato por la fuente de alimentación de ensayo.
+
+La caja de ensayo debe tener, en condiciones normales y extremas, las características siguientes:
+
+1.ª Las pérdidas por acoplamiento no serán superiores a 30 dB.
+
+2.ª Las variaciones en función de la frecuencia de las pérdidas debidas al acoplamiento no pueden causar error superior a 2 dB.
+
+3.ª El sistema de acoplamiento no puede comprender elementos no lineales.
+
+Además, los equipos que por diseño no tengan entrada de modulación ni conexión a una antena exterior, deberán presentar un prototipo con estas posibilidades, a fin de poderlo adaptar a la caja de pruebas, y también dispondrán de la opción de poder funcionar en modo continuo (de transmisión) al menos dos minutos.
+
+## 6. Características técnicas.
+
+I. Transmisor:
+
+A) Tolerancia de frecuencia:
+
+1.º Definición:
+
+La tolerancia de frecuencia es el valor máximo admisible para la separación entre la frecuencia de la onda portadora medida en el transmisor y su valor nominal.
+
+2.º Método de medida:
+
+La frecuencia portadora será medida en ausencia de modulación con el equipo conectado a la antena artificial.
+
+Los equipos con antena integral serán situados en la caja de ensayos conectada a la antena artificial.
+
+La medida será hecha tanto en condiciones normales como en condiciones extremas de ensayo.
+
+Caso de no ser posible realizar ésta sin modulación, el laboratorio indicará en el informe el método utilizado para la medida.
+
+3.º Límites:
+
+La tolerancia de frecuencia, medida tanto en condiciones normales como extremas que se especifiquen, no excederá del valor indicado en la tabla II.
+
+<table>
+<tbody>
+<tr>
+<th rowspan="2">
+<p>Canalización kHz</p>
+</th>
+<th colspan="3">
+<p>Error de frecuencia en kHz</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>f ? 50 MHz</p>
+</th>
+<th>
+<p>50 MHz &lt; f ? 470 MHz</p>
+</th>
+<th>
+<p>f &gt; 470 MHz</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>10/12,5</p>
+</td>
+<td>
+<p>± 1,0</p>
+</td>
+<td>
+<p>± 1,5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>± 2,0</p>
+</td>
+<td>
+<p>± 2,5</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+TABLA II
+
+B) Potencia del transmisor en régimen de portadora y potencia radiada aparente P.R.A.:
+
+1.º Definición:
+
+La potencia del emisor en régimen de portadora es la potencia media entregada a una carga resistiva y adaptada a la salida del emisor durante un ciclo de radiofrecuencia en ausencia de modulación.
+
+La potencia radiada aparente es el producto de la potencia media suministrada a la antena por su ganancia máxima con relación al dipolo de media onda.
+
+En el caso de equipos con antena integral, la potencia en régimen de portadora es la potencia radiada aparente en la dirección del campo máximo en las condiciones indicadas y en ausencia de modulación.
+
+Para las emisiones con portadora reducida o suprimida, la potencia radiada es la potencia en la cresta de la envolvente cuando la emisión está modulada por la modulación normal de ensayo.
+
+La potencia nominal del transmisor en régimen de portadora será la indicada por el fabricante.
+
+2.º Métodos de medida:
+
+1.ª Método de medida (para equipos con salida de radiofrecuencia mediante conector coaxial):
+
+El transmisor se conectará a la antena artificial y la potencia entregada se medirá sobre la antena artificial.
+
+Las medidas serán hechas en condiciones normales de ensayo y en condiciones extremas de ensayo.
+
+2.ª Método de medida (para equipos con antena integral):
+
+Métodos de medida en condiciones normales de ensayo: En el emplazamiento de ensayos ubicado, el equipo a ensayar debe colocarse sobre el soporte en la posición siguiente:
+
+a) Para equipos con antena interna debe colocarse en posición vertical, de manera que el eje del aparato en la posición normal de funcionamiento sea perpendicular al suelo.
+
+b) Para equipos con antena externa rígida, con la antena en posición vertical.
+
+c) Para equipos con antena externa no rígida con la antena en posición vertical con ayuda de un soporte no conductor.
+
+El transmisor debe ponerse en funcionamiento, sin modulación, y el receptor de medida debe ser sintonizado a la frecuencia de la señal a medir. La antena de medida debe orientarse para estar levantada o bajada dentro de la gama de alturas especificada hasta que se obtenga un máximo de señal en el receptor de medida.
+
+El transmisor girará hasta 360º para obtener igualmente un máximo de señal recibida.
+
+Este máximo puede ser inferior al valor que se podría obtener fuera de los límites de altura especificados.
+
+El transmisor será entonces sustituido por la antena de sustitución definida en 5.6.d).3.º y la antena de medida elevada y descendida tanto como sea necesario para asegurar que la señal recibida sea siempre la máxima. El nivel de señal de entrada aplicada a la antena de sustitución debe ajustarse hasta obtener en el receptor de medida el mismo nivel que el procedente del transmisor o teniendo con este nivel una relación conocida.
+
+La potencia del transmisor en régimen de portadora es igual a la potencia entregada a la antena de sustitución corregida con la relación conocida, en su caso.
+
+Deben efectuarse mediciones sobre otros planos de polarización con el fin de verificar que el valor obtenido es el máximo. Si se obtienen valores superiores, deben constar en el informe de los ensayos.
+
+3.º**(Derogado)**
+
+C) Potencia en el canal adyacente:
+
+1.º Definición:
+
+La potencia en el canal adyacente es la parte de la potencia total de salida del transmisor, modulada la señal en determinadas condiciones, que cae en el interior de una banda de paso especificada centrada sobre la frecuencia nominal de uno u otro de los canales adyacentes. Esta potencia es la suma de las potencias medias que resultan del proceso de modulación y de la modulación residual debida al zumbido y al ruido del transmisor.
+
+2.º Métodos de medida:
+
+Observación general:
+
+Los dos métodos que se describen a continuación dan resultados equivalentes. Los centros encargados de efectuar los ensayos podrán elegir cualquiera de ellos. El método empleado será especificado en el informe correspondiente. Existen aparatos de medida que dan directamente la potencia en el canal adyacente.
+
+1.ª Método de medida empleando un receptor de medida de potencia:
+
+La potencia en el canal adyacente puede medirse por medio de un receptor de medida de potencia que cumpla las especificaciones del apartado 2.ª (este aparato se mencionará en los apartados 1.ª y 2.ª como el receptor):
+
+a) El transmisor funcionará con la potencia nominal en las condiciones normales de ensayo (apartado 5.3). La salida del transmisor se conectará a la entrada del receptor por medio de un dispositivo tal que la impedancia presentada al transmisor sea 50 ohmios y que el nivel a la entrada del receptor sea el adecuado.
+
+Para equipos con antena integral la conexión deberá de hacerse utilizando la caja de prueba [apartado 5.6.e)].
+
+b) Con el transmisor sin modular, el receptor se sintonizará a la frecuencia que dé una respuesta máxima. Será el punto 0 dB. Se anotarán los valores de la atenuación del receptor y la lectura del aparato de medida. Esta medida puede hacerse con el transmisor modulado con la modulación normal de prueba. En tal caso, figurará así en los resultados de la medición.
+
+c) Se sintonizará el receptor a una frecuencia tal que la respuesta –6 dB del receptor que corresponda a la frecuencia más próxima a la frecuencia portadora del transmisor esté separada de esta frecuencia de la portadora en un valor dado por la tabla IV.
+
+d) Se modulará el transmisor con modulación normal de ensayo.
+
+e) Se ajustará la atenuación variable del receptor de forma que se obtenga sobre el aparato de medida la misma lectura que en b) o una relación conocida.
+
+f) La relación entre la potencia en el canal adyacente y la potencia en régimen de portadora vendrá dada por los valores obtenidos en b) y e) corregida por la diferencia entre los valores leídos en el aparato de medida.
+
+g) Deberá repetirse la medida para el otro canal adyacente.
+
+2.ª Características del receptor de medida de potencia:
+
+El receptor de medida de potencia estará constituido por un mezclador, un filtro F.I., un oscilador, un amplificador, un atenuador variable y un indicador de valores eficaces, un voltímetro que mida los valores eficaces calibrado en dB. Se dan a continuación las características técnicas del receptor de medida.
+
+Filtro F.I.
+
+El filtro F.I. debe tener una característica de selectividad tal como se da en la figura 2.
+
+La selectividad del filtro en función de la separación entre canales utilizada se muestra en la tabla V.
+
+La tolerancia en los puntos de atenuación que se indica hacia el lado cercano y alejado de la portadora no excederá de los valores que aparecen en las tablas VI y VII.
+
+La atenuación mínima del filtro, más allá de los puntos de atenuación 90 dB, debe ser igual o mayor de 90 dB.
+
+Indicador de atenuación.
+
+El indicador de atenuación debe tener como mínimo un margen de 80 dB con una precisión de 1 dB.
+
+Indicador de valores eficaces.
+
+El instrumento de medida debe indicar con precisión el valor eficaz de las señales no sinusoidales cuya relación de amplitud de cresta a valor eficaz sea al menos 10.
+
+Oscilador y amplificador:
+
+El oscilador y el amplificador deben ser tales que la medida de la potencia en el canal adyacente de un transmisor no modulado, cuyo ruido tenga una influencia despreciable sobre la medida, dé un valor ? –90 dB para separaciones entre canales de 25 kHz y ? – 80 dB para separación de 10 y 12,5 kHz respecto a la potencia de portadora del transmisor.
+
+| Separación <br>entre canales (kHz) | Anchura de banda <br>necesaria (kHz) | Desplazamiento <br>del punto 6 dB |
+|---|---|---|
+| 25 | 16 | 17 |
+| 12,5 | 8,5 | 8,25 |
+| 10 | 8,5 | 5,75 |
+
+TABLA IV. SINTONIA DEL RECEPTOR
+
+<table>
+<tbody>
+<tr>
+<th rowspan="2">
+<p>Separación <br>entre canales (kHz)</p>
+</th>
+<th colspan="4">
+<p>Selectividad del filtro en función de la separación entre canales (kHz)</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>D1</p>
+</th>
+<th>
+<p>D2</p>
+</th>
+<th>
+<p>D3</p>
+</th>
+<th>
+<p>D4</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>10/12,5</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>4,25</p>
+</td>
+<td>
+<p>5,5</p>
+</td>
+<td>
+<p>9,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>8,00</p>
+</td>
+<td>
+<p>9,25</p>
+</td>
+<td>
+<p>13,25</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+TABLA V. SELECTIVIDAD DEL FILTRO
+
+<table>
+<tbody>
+<tr>
+<th rowspan="2">
+<p>Separación <br>entre canales (kHz)</p>
+</th>
+<th colspan="4">
+<p>Tolerancia de las frecuencias de la curva de selectividad (kHz) cerca de la portadora</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>D1</p>
+</th>
+<th>
+<p>D2</p>
+</th>
+<th>
+<p>D3</p>
+</th>
+<th>
+<p>D4</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>10/12,5</p>
+</td>
+<td>
+<p>+ 1,35</p>
+</td>
+<td>
+<p>± 0,1</p>
+</td>
+<td>
+<p>– 1,35</p>
+</td>
+<td>
+<p>– 5,35</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>+ 3,1</p>
+</td>
+<td>
+<p>± 0,1</p>
+</td>
+<td>
+<p>– 1,35</p>
+</td>
+<td>
+<p>– 5,35</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+TABLA VI. TOLERANCIAS DE LA CURVA DE SELECTIVIDAD DEL FILTRO CERCA DE LA PORTADA
+
+<table>
+<tbody>
+<tr>
+<th rowspan="2">
+<p>Separación entre canales (kHz)</p>
+</th>
+<th colspan="4">
+<p>Tolerancia de las frecuencias de la curva de selectividad (kHz) lejos de la portadora</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>D1</p>
+</th>
+<th>
+<p>D2</p>
+</th>
+<th>
+<p>D3</p>
+</th>
+<th>
+<p>D4</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2">
+<p>10/12,5</p>
+</td>
+<td rowspan="2">
+<p>± 2,0</p>
+</td>
+<td rowspan="2">
+<p>± 2,0</p>
+</td>
+<td rowspan="2">
+<p>± 2,0</p>
+</td>
+<td>
+<p>+ 2,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– 6,0</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>25</p>
+</td>
+<td rowspan="2">
+<p>± 3,5</p>
+</td>
+<td rowspan="2">
+<p>± 3,5</p>
+</td>
+<td rowspan="2">
+<p>± 3,5</p>
+</td>
+<td>
+<p>+ 3,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– 7,5</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+TABLA VII. TOLERANCIAS DE LA CURVA DE SELECTIVIDAD DEL FILTRO LEJOS DE LA PORTADORA
+
+3.ª Método de medida empleando un analizador de espectro:
+
+La potencia en el canal adyacente puede medirse con un analizador de espectro que satisfaga las condiciones del apartado 4.ª. El transmisor funcionará al nivel de potencia nominal y en las condiciones normales de ensayo (apartado 5), aplicándose asimismo la modulación normal de ensayo. La salida del transmisor se conectará a la entrada del analizador del espectro por medio de un dispositivo que presente una impedancia de 50 ohmios al transmisor y un nivel adecuado a la entrada del analizador.
+
+Para equipos con antena integral la conexión deberá de hacerse utilizando la caja de pruebas [apartado 5.6.e)].
+
+Para este ensayo se escogerá un receptor de los normalmente empleados en el sistema, cuya anchura de banda sea de 16 kHz o 8,5 kHz, de acuerdo con la canalización del equipo (25 kHz o 12,5 kHz \ 10 kHz).
+
+La frecuencia central de la banda en la que se efectúen las medidas se separará de la frecuencia nominal de la portadora del transmisor un valor igual a la separación entre canales adyacentes para la cual el equipo está previsto.
+
+La potencia en el canal adyacente es la suma de las potencias de cada uno de los componentes discretos y del ruido que se encuentra en la banda de paso considerada.
+
+Esta suma puede ser calculada u obtenida con la ayuda de un dispositivo automático de integración de potencia (véase el apartado 5.ª).
+
+En este último caso se mide la potencia relativa de la portadora sin modular del transmisor por integración en la banda de paso considerada centrada sobre la frecuencia nominal. Se repite la integración modulando el transmisor con la señal antes definida en la misma banda de paso centrada sobre el canal adyacente y se aumenta la señal de entrada hasta que se obtenga la misma potencia en la salida del dispositivo de integración.
+
+La diferencia de niveles en la entrada expresada en dB es la relación en dB, de la potencia en el canal adyacente a la potencia de la portadora.
+
+La potencia en el canal adyacente se calcula aplicando esta relación a la potencia de salida en régimen de portadora determinada según el apartado 6.1.B) o por un método de sustitución que utilice un generador calibrado.
+
+La medida debe repetirse para el otro canal adyacente.
+
+4.ª Características del analizador de espectro:
+
+El analizador de espectro deberá cumplir las características siguientes. Cuando se utilice una anchura de banda de resolución de 1 kHz será posible medir con una precisión de ± 2 dB la amplitud de una señal o ruidos cuyos niveles sobrepasen en 3 dB o más el nivel de ruido del analizador de espectro representado en la pantalla y en presencia de una señal con una separación de frecuencia de:
+
+a) 10 kHz para canalización de 25 kHz y con un nivel 90 dB superior a la señal a medir.
+
+b) 5 kHz para canalizaciones de 12,5 kHz o 10 kHz y con un nivel 60 dB superior a la señal a medir.
+
+La indicación de frecuencia debe tener una precisión de ± 2 por 100 del valor de la separación entre canales adyacentes.
+
+La precisión de medida de las amplitudes relativas estará dentro de los límites de ± 1 dB.
+
+Será posible ajustar el analizador de espectro para poder discriminar sobre su pantalla dos componentes cuya separación en frecuencia sea de 1 kHz.
+
+5.ª Dispositivo de integración para medida de la potencia:
+
+El dispositivo de integración para medida de la potencia se conecta a la salida de vídeo del analizador de espectro descrito en el apartado 4.ª
+
+Será capaz de sumar las potencias eficaces de cada uno de los componentes descritos y de la potencia de ruido que se encuentra en la banda de paso considerada y expresarla relativamente con respecto a la potencia del transmisor en régimen de portadora.
+
+La posición y el tamaño de los intervalos de integración podrán indicarse sobre el analizador de espectro por una intensificación de la luminosidad del trazo.
+
+Cuando la potencia medida alcanza niveles de 50 mW o menos, el nivel de salida del dispositivo sobrepasará el nivel interno de ruido en 10 dB. El margen dinámico del aparato permitirá la medida de los límites impuestos en el apartado 2.º con un margen de al menos 10 dB.
+
+3.º Límites:
+
+La potencia en el canal adyacente no deberá sobrepasar 10 ?W, para 10 y 12,5 kHz de separación entre canales y 200 nW para una separación entre canales de 25 kHz.
+
+D) Emisiones no esenciales del transmisor:
+
+1.º Definición:
+
+Las emisiones no esenciales son emisiones a cualquier frecuencia distinta de la portadora y componentes laterales que resultasen del proceso normal de modulación.
+
+El nivel de emisiones no esenciales se mide como:
+
+a) Su nivel de potencia en la línea de transmisión o antena.
+
+b) La potencia efectiva radiada por el equipo y su estructura.
+
+2.º Métodos de medida:
+
+1.ª Método de medida del nivel de potencia:
+
+El nivel de potencia será medido como la potencia de cualquier componente discreta en una carga de 50 ohmios.
+
+Se puede efectuar conectando la salida del transmisor, mediante un atenuador y filtro adecuado si es necesario, a un analizador de espectro o voltímetro selectivo, o bien midiendo el nivel de señales no deseadas sobre la antena ficticia.
+
+El emisor deberá estar sin modulación, y las medidas se realizarán entre 25 MHz y 4 GHz, exceptuándose el canal por el que transmite y los adyacentes.
+
+Las medidas se repetirán aplicando la modulación normal de ensayo.
+
+Si no resulta posible realizar las medidas anteriores sin modulación, se indicará en el informe del laboratorio de ensayos, especificando el ancho de banda utilizado en el receptor.
+
+2.ª Método de medida de la potencia radiada efectiva:
+
+En el emplazamiento de la medida se colocará el equipo sometido a ensayos, de acuerdo con lo especificado en el apartado 5.6.d).
+
+El transmisor deberá operar con la potencia de portadora sin modular sobre la antena artificial, excepto en el caso de equipos con antena integral.
+
+La radiación de cualquier componente no esencial será captada por la antena de medida y el receptor que cubre la banda 25 MHz a 4 GHz, excepto el canal de funcionamiento del equipo y los canales adyacentes.
+
+A cada frecuencia en la que se reciba una emisión, el equipo se orientará de forma tal que el campo medido sea máximo y la potencia radiada aparente de cada componente se determinará por un método de sustitución.
+
+La antena de sustitución se desplazará en altura entre 1 y 4 metros, buscando el máximo de señal.
+
+Las medidas se repetirán modulando el transmisor con la modulación normal de ensayo.
+
+3.º Límites:
+
+La potencia de cualquier emisión no esencial, excluidas aquellas emisiones que caen dentro de los canales adyacentes, bien sea por radiación de estructuras o como potencia entregada a la salida del emisor, no debe exceder los límites indicados en la tabla VIII.
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Frecuencias</p>
+</td>
+<td colspan="2">
+<p>Límite</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Emisor</p>
+</td>
+<td>
+<p>Emisor</p>
+<p>en posición</p>
+<p>de espera</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>47 a 68 MHz</p>
+</td>
+<td>
+<p>25 nW</p>
+</td>
+<td>
+<p>4 nW</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>87 a 136 MHz</p>
+</td>
+<td>
+<p>25 nW</p>
+</td>
+<td>
+<p>4 nW</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>174 a 223 MHz</p>
+</td>
+<td>
+<p>25 nW</p>
+</td>
+<td>
+<p>4 nW</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>470 a 862 MHz</p>
+</td>
+<td>
+<p>25 nW</p>
+</td>
+<td>
+<p>4 nW</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1 a 1000 MHz</p>
+</td>
+<td>
+<p>0,25 µW</p>
+</td>
+<td>
+<p>4 nW</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1 a 4 GHz</p>
+</td>
+<td>
+<p>1 µW</p>
+</td>
+<td>
+<p>25 nW</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+TABLA VIII
+
+II. Receptor:
+
+A) Radiaciones parásitas del receptor:
+
+1.º Definición:
+
+Las radiaciones parásitas del receptor son las radiaciones de señales de cualquier frecuencia generadas por el equipo receptor y su antena.
+
+El nivel de radiaciones parásitas puede medirse por:
+
+a) El nivel de potencia en la línea de transmisión o antena.
+
+b) La potencia radiada efectiva del equipo y su estructura.
+
+Para equipos con antena integral solamente es aplicable el caso b).
+
+2.º Método de medida:
+
+1.ª Método de medida del nivel de potencia:
+
+Las radiaciones parásitas se expresarán por la potencia de cada componente discreta en el conector de antena. La entrada del receptor en terminal de antena se conectará a un analizador de espectro o a un voltímetro selectivo con impedancia de entrada de 50 ohmios y el receptor puesto en funcionamiento.
+
+Si el dispositivo de medida no está calibrado en potencia a la entrada, el nivel de cada componente se determinará por un método de sustitución, utilizando un generador de señales.
+
+Las medidas se llevaran a cabo en el margen de 25 MHz a 4 GHz.
+
+2.ª Método de medida de la potencia aparente radiada:
+
+Se situará en el lugar de ensayo, según el apartado 5.6.d), el equipo a ensayar a la altura especificada sobre un soporte no conductor. El receptor debe funcionar alimentado a través de un filtro radioeléctrico, con el fin de evitar las emisiones por la línea de alimentación.
+
+La radiación de toda componente parásita debe ser captada por la antena de medida y el receptor en una gama de 25 MHz a 4 GHz.
+
+En cada frecuencia en que se reciba una emisión el equipo a ensayar se orientará de tal forma que el campo medido sea máximo y la potencia radiada aparente sobre cada componente se determinará por un método de sustitución.
+
+Las medidas se repetirán con la antena de medida polarizada en un plano perpendicular.
+
+3.º Límites:
+
+Los límites son los mismos que figuran en la tabla VIII para el caso de un emisor en posición de espera.
+
+## 7. Presentación de equipos de uno o más canales a las pruebas de homologación.
+
+1\. Elección del equipo para las pruebas de homologación:
+
+El fabricante debe suministrar para las pruebas de homologación un equipo de serie. Cuando se proceda a la homologación como consecuencia de las pruebas efectuadas con un prototipo, la producción de serie deberá mantenerse idéntica a dicho prototipo en todo y para todo.
+
+2\. Equipo de funcionamiento en un solo canal:
+
+A efectos de pruebas de homologación puede seleccionarse cualquier canal dentro de los que el equipo ha sido diseñado y puede funcionar.
+
+3\. Equipo de funcionamiento en varios canales:
+
+A menos que se presenten condiciones particulares, es necesario proceder a las pruebas en tres canales por lo menos, dispuestos, respectivamente, en los extremos y en el centro de la banda de frecuencia de funcionamiento. El fabricante indicará la banda así cubierta en el equipo.
+
+4\. La elección de los canales para las pruebas de homologación estará sujeta a su aprobación por la autoridad responsable de las mismas.
+
+![Imagen facsímil de la edición original: img/disp/1995/004/00301_001.png](https://www.boe.es/datos/imagenes/disp/1995/4/00301_001.png)
+
+FIGURA 1<br>SALA DE ENSAYOS PARA MEDIDAS EN EL INTERIOR
+
+![Imagen facsímil de la edición original: img/disp/1995/004/00301_002.png](https://www.boe.es/datos/imagenes/disp/1995/4/00301_002.png)
+
+FIGURA 2<br>CURVA DE SELECTIVIDAD DEL FILTRO
+
+> Se derogan los apartados 4 y 6.I.B.3º por la disposición derogatoria única del Real Decreto 2/1998, de 9 de enero. [Ref. BOE-A-1998-1109](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-1109)
+
+> Redactado conforme a las correcciones de errores publicadas en BOE núms. 52, de 2 de marzo de 1995. [Ref. BOE-A-1995-5539](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-5539) y 187, de 7 de agosto de 1995. [Ref. BOE-A-1995-18858](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-18858)
+
+## ANEXO II — Modelo de solicitud de certificado de aceptación para los equipos a utilizar en los servicios de valor añadido de telemando, telemedida, telealarma y teleseñalización
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/4/00301_003.png)
+
+## ANEXO III — Declaración de conformidad
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/4/00301_004.png)

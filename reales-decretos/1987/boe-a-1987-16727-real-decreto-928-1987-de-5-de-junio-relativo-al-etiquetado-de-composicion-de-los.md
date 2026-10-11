@@ -1,0 +1,631 @@
+---
+title: "Real Decreto 928/1987, de 5 de junio, relativo al etiquetado de composición de los productos textiles"
+identifier: "BOE-A-1987-16727"
+eli: "https://www.boe.es/eli/es/rd/1987/06/05/928"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1987-06-05
+published: 1987-07-17
+in_force_from: 1987-08-06
+last_amended: 2011-02-23
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 170"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1987-16727"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 928/1987, de 5 de junio, relativo al etiquetado de composición de los productos textiles
+
+Incluye la corrección de errores publicada en BOE núm. 261, de 31 de octubre de 1987. [Ref. BOE-A-1987-24432](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-24432)
+
+La adhesión de España a las Comunidades Europeas impone una adaptación de la normativa en vigor a las exigencias de la legislación comunitaria en diversos ordenes, en particular en materia de etiquetado textil.
+
+Así la Directiva 71/307/CEE del Consejo, de 26 de julio de 1971, y sus posteriores modificaciones, relativa a la aproximación de las legislaciones de los Estados miembros sobre denominaciones textiles, hace necesario y urgente refundir y actualizar la normativa que sobre etiquetado de composición de los productos textiles se encuentra actualmente vigente en España.
+
+Igualmente, resulta necesario perfeccionar los instrumentos normativos desde un punto de vista práctico para los fabricantes y comerciantes de tales productos, al igual que salvaguardar los intereses de los consumidores y usuarios y su derecho a la información, de acuerdo con lo que establece la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios y en ejercicio de la competencia que atribuye a la Administración del Estado el artículo 39.1 de la misma.
+
+Por último, en lo que se refiere al procedimiento de información en materia de normas y reglamentaciones técnicas, existente en la Comunidad Europea, dada la naturaleza de la presente disposición dictada en cumplimiento de las correspondientes Directivas comunitarias, es de aplicación lo previsto en el artículo 10 de la Directiva 83/189/CEE del Consejo, de marzo de 1983,
+
+En su virtud, oídos la Comisión Interministerial para la Ordenación Alimentaria, las Asociaciones de Consumidores y los Sectores Industriales afectados, a propuesta de los Ministerios de Economía y Hacienda, de Industria y Energía y de Sanidad y Consumo, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros del día 5 de junio de 1987,
+
+DISPONGO:
+
+## Art. 1. Ámbito de aplicación.
+
+1\. Las Empresas dedicadas a la fabricación, importación y comercialización de productos textiles, estarán obligadas a observar las disposiciones del presente Real Decreto.
+
+2\. Todos los productos textiles que se fabriquen, comercialicen o distribuyan en el mercado nacional deberán satisfacer los requisitos establecidos en la presente disposición.
+
+3\. Excepciones: Quedan exceptuados de cumplir lo preceptuado en la presente norma los productos textiles:
+
+Primero.–Destinados a la exportación a países no miembros de la Comunidad Económica Europea, sin perjuicio de las normas, que en relación con el comercio exterior de estos productos, pudieran establecerse.
+
+Segundo.–Introducidos en el país en régimen de tránsito, bajo control aduanero.
+
+Tercero.–Cuando se entreguen a título no oneroso para su manufactura a trabajadores a domicilio o a Empresas independientes que trabajen subcontratadas.
+
+Cuarto.–Los productos importados de países no miembros de la Comunidad Económica Europea y destinados a tráfico de perfeccionamiento activo.
+
+## Art. 2. Productos textiles.
+
+1\. Se entiende como productos textiles todos aquellos que en bruto, semielaborados, elaborados, semimanufacturados, manufacturados, semiconfeccionados o confeccionados, estén compuestos exclusivamente por fibras textiles, cualquiera que sea el proceso seguido para su mezcla y obtención.
+
+2\. Se consideran, además, productos textiles a los efectos de esta disposición, los que a continuación se indican:
+
+a) Los productos cuyo peso esté constituido, al menos en un 80 por 100, por fibras textiles.
+
+b) Los recubrimientos de muebles, paraguas y parasoles y las partes textiles de los revestimientos de suelos, paredes, colchones y artículos de camping, así como los forros de abrigo para calzado y guantería que contengan como mínimo el 80 por 100 de su peso de materia textil.
+
+c) Los productos textiles incorporados a otros productos, cuando se especifique la composición de aquéllos.
+
+## Art. 3. Fibras textiles.
+
+1\. Se entiende por fibra textil, a efectos de lo previsto en la presente disposición:
+
+a) Un elemento caracterizado por su flexibilidad, finura y gran longitud en relación con la sección transversal, apto para las aplicaciones textiles.
+
+b) Las tiras flexibles o los tubos que no sobrepasen los 5 milímetros de ancho aparente, incluidas las tiras cortadas a partir de otras más anchas o de láminas fabricadas a partir de sustancias que sirvan para obtener las fibras clasificadas en el anexo I bajo los epígrafes 17 al 39, que sean aptas para aplicaciones textiles. El ancho aparente será el de la tira o el tubo en su forma doblada, aplanada, comprimida o torcida. En el caso de un ancho no uniforme, se considerará el ancho medio.
+
+2\. Las fibras textiles referidas se definen y especifican en el anexo I de la presente disposición. Las denominaciones que figuran en el citado anexo I se aplicarán exclusivamente a las fibras cuya naturaleza corresponda a su definición, cualquiera que fuera el idioma utilizado.
+
+> Redactado el apartado 1.b) conforme a la corrección de errores publicada en BOE núm. 261, de 31 de octubre de 1987. [Ref. BOE-A-1987-24432](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-24432).
+
+## Art. 4. Denominaciones.
+
+1\. Productos puros: Sólo se permite el uso de las calificaciones «100 por 100», «puro», «todo», seguidas de la denominación de una fibra, para designar productos textiles compuestos exclusivamente por dicha fibra. Queda prohibida cualquier otra expresión equivalente.
+
+A efectos de lo dispuesto en el párrafo anterior, se tolerará una cantidad de otras fibras hasta un total de 2 por 100 del peso del producto textil si está justificada por motivos técnicos y no resulta de una adición sistemática. Esa tolerancia se elevará al 5 por 100 para los productos textiles obtenidos por el proceso de cardado.
+
+2\. Productos de lana virgen: En el caso de productos textiles constituidos por fibra de lana, podrán ser calificados como de «lana virgen» o «lana de esquilado», cuando se compongan exclusivamente de la citada fibra, y no haya sido incorporada nunca a un producto acabado y no haya sufrido operaciones de hilatura o enfieltrado, excepto las requeridas por la fabricación del producto, ni un tratamiento o utilización que haya dañado a la fibra.
+
+No obstante lo dispuesto en el apartado anterior, la denominación «lana virgen» o «lana de esquilado» podrá utilizarse para calificar la lana contenida en una mezcla de fibras cuando:
+
+a) La totalidad de la lana contenida en la mezcla responda a las características definidas en el apartado anterior.
+
+b) La cantidad de esta lana con relación al peso total de la mezcla no sea inferior al 25 por 100.
+
+c) En caso de mezcla íntima, la lana sólo se mezclará con una única fibra.
+
+En el caso al que se refiere el presente apartado, la indicación de la composición porcentual completa será obligatoria.
+
+La tolerancia justificada por motivos técnicos inherentes a la fabricación se limitará al 0,3 por 100 de impurezas fibrosas para los productos calificados de lana virgen o lana de esquilado, incluso para los productos de lana obtenidos por el ciclo del cardado.
+
+3\. Hilo: Caso de emplearse la palabra «hilo» en algún tejido o artículo confeccionado, deberá ir seguida del nombre de la fibra textil con que estuviera elaborado.
+
+4\. Semilino: Los productos que contengan una urdimbre de algodón puro y una trama en lino puro y cuyo porcentaje de lino no sea inferior al 40 por 100 del peso total de la tela sin encolar podrán designarse por la denominación «mezclado» o por la de «semilino» completada obligatoriamente por la indicación de composición «urdimbre algodón puro-trama lino puro».
+
+5\. Seda: La denominación «seda», con o sin calificativos, se aplicará exclusivamente a lo definido en el anexo I, no pudiendo utilizarse tal denominación para designar la forma o presentación en filamento o hilo continuo de cualquier otra fibra.
+
+6\. Mezclas de fibras textiles: Todo producto textil compuesto por dos o más fibras, en el que una de ellas represente el 85 por 100 del peso total como mínimo, se designará mediante alguna de las siguientes formas:
+
+Por el nombre de dicha fibra, seguido del porcentaje en peso.
+
+Por el nombre de dicha fibra, seguido de la indicación «85 por 100 mínimo».
+
+Por la composición porcentual completa del producto, ordenada de mayor a menor.
+
+Todos los productos textiles compuestos por dos o varias fibras, en los que ninguna de ellas alcance el 85 por 100 del peso total, serán designados por la denominación y el porcentaje del peso de, al menos, las dos fibras con porcentajes mayores, seguidos de la enumeración de las denominaciones de las demás fibras que componen el producto, en orden decreciente según su porcentaje en peso, con o sin indicación del mismo. Sin embargo:
+
+El conjunto de fibras en el que cada una de ellas forme parte con menos del 10 por 100 de la composición de un producto, podrá ser designado por la expresión «otras fibras», seguida de su porcentaje global.
+
+En el caso de especificar la denominación de una fibra que formara parte en menos del 10 por 100 de la composición de un producto, deberá expresarse la composición porcentual completa.
+
+## Art. 5. Tolerancias en productos con mezcla de fibras textiles.
+
+1\. Para los productos textiles destinados al consumidor final se admitirá en las composiciones porcentuales contempladas en el apartado seis del artículo 4.º:
+
+a) Una cantidad de fibras extrañas hasta un 2 por 100 del peso total del producto textil, si se justifica por razones técnicas y no es el resultado de una adición sistemática. Esta tolerancia se aumentará hasta el 5 por 100 para los productos obtenidos por el proceso de cardado y con independencia de la tolerancia prevista en el artículo 4.º, apartado segundo.
+
+b) Una tolerancia de fabricación del 3 por 100 en relación con el peso total de las fibras especificadas en la etiqueta, entre los porcentajes de fibras indicadas y los que resulten del análisis. Dicha tolerancia se aplicará asimismo a las fibras que, conforme al apartado sexto del artículo 4.º, se enumeren en orden decreciente de pesos, sin indicación del porcentaje, así como al porcentaje exigido en el artículo 4.º, apartado segundo, párrafo segundo, punto b).
+
+2\. En el momento del análisis, estas tolerancias se calcularán separadamente. El peso total que se tomará en consideración para el cálculo de la tolerancia contemplada en el punto b) será el de las fibras del producto terminado, con exclusión de las fibras extrañas que se detecten en aplicación de la tolerancia prevista en el punto a).
+
+3\. Sólo se permitirá la acumulación de las tolerancias contempladas en los puntos a) y b) si las fibras extrañas detectadas en el análisis, en aplicación de la tolerancia dada en a), son de la misma naturaleza química que alguna o algunas de las fibras mencionadas en la etiqueta.
+
+4\. Para determinados productos cuya técnica de fabricación exija tolerancias superiores a las indicadas en los puntos a) y b), en los controles previstos en el artículo 11, no se podrán admitir tolerancias mayores, salvo justificación adecuada del fabricante y excepcionalmente en cada caso.
+
+5\. Para los productos cuya composición sea difícil de concretar en el momento de su fabricación, podrán utilizarse las expresiones «fibras diversas» o «composición textil no determinada».
+
+6\. Sin perjuicio de las tolerancias señaladas, las fibras visibles y aislables destinadas a producir un efecto puramente decorativo, que no sobrepasen el 7 por 100 del peso del artículo acabado, así como las fibras (tales como las metálicas) incorporadas para obtener un efecto antiestático que no sobrepasen el 2 por 100 del peso del artículo acabado, podrán dejar de mencionarse en las composiciones porcentuales, contempladas en el presente artículo y en el anterior. En el caso de los productos contemplados en el artículo 4.º, apartado cuarto, dichos porcentajes deberán calcularse, no por el peso del tejido, sino por separado, basándose en el peso de la trama y en el de la urdimbre.
+
+7\. Los porcentajes de fibras previstos, se calcularán aplicando a la masa anhidra de cada fibra la tasa de humedad prevista en el anexo II de la presente disposición.
+
+> Se modifica el apartado 1.b) por el art. único del Real Decreto 396/1990, de 16 de marzo. [Ref. BOE-A-1990-7738](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-7738).
+
+> Téngase en cuenta la disposición transitoria respecto a la aplicación de esta modificación.
+
+> Redactado el apartado 1.b) conforme a la corrección de errores publicada en BOE núm. 261, de 31 de octubre de 1987. [Ref. BOE-A-1987-24432](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-24432).
+
+## Art. 6. Etiquetado.
+
+Todos los productos textiles sujetos a las prescripciones de la presente disposición, para su puesta en el mercado, tanto en el ciclo industrial como en el comercial, serán etiquetados de acuerdo con lo que seguidamente se indica:
+
+1\. Nombre o razón social o denominación del fabricante, comerciante o importador y, en todo caso, su domicilio.
+
+2\. Para los productos textiles fabricados en España, el número de registro industrial del fabricante nacional, salvo en el supuesto indicado en el apartado 4.
+
+3\. Para los productos textiles importados de países no pertenecientes a la CEE, y distribuidos en el mercado nacional, el número de identificación fiscal del importador.
+
+Los productos importados comprendidos en el ámbito de aplicación del presente Real Decreto, provenientes de países no signatarios del Acuerdo de Ginebra sobre obstáculos técnicos al comercio, de 12 de abril de 1979 («Boletín Oficial del Estado» de 17 de noviembre de 1981), ratificado por España, además de cumplir los anteriores requisitos deberán hacer constar en su etiquetado la indicación del país de origen.
+
+4\. Los comerciantes, tanto mayoristas como minoristas, podrán etiquetar los productos textiles con marcas registradas, a las que deberán añadir los datos relativos a su nombre, razón social o denominación, y domicilio, así como su número de identificación fiscal. En este caso, el comerciante será responsable del producto y, por tanto, de todas las infracciones en que aquél pueda incurrir.
+
+5\. Composición del artículo textil, de acuerdo con las definiciones y prescripciones de la presente disposición.
+
+En las prendas de confección y punto, a excepción de calcetería y medias, la etiqueta será de cualquier material resistente, preferentemente de naturaleza textil, irá cosida o fijada a la propia prenda de forma permanente, y deberá tener su misma vida útil. Quedarán exceptuados de esta obligaciones en los casos y condiciones que establezcan las normas de desarrollo de esta disposición.
+
+Los datos requeridos en este apartado podrán consignarse en etiqueta distinta de los exigidos en los apartados anteriores.
+
+6\. Cuando los productos textiles sean ofrecidos a la venta con una envoltura, el etiquetado deberá figurar además en la propia envoltura, salvo que pueda verse claramente el etiquetado del producto.
+
+7\. Las indicaciones o informaciones facultativas, tales como «símbolos de conservación», «inencogible», «ignífugo», «impermeable», etc. deben aparecer netamente diferenciadas.
+
+8\. El etiquetado de los productos textiles podrá ser sustituido por la indicación del mismo en los documentos o albaranes, cuando dichos productos vayan destinados a un industrial y, también, cuando vayan destinados a Organismos públicos, Instituciones y Empresas privadas que adquieran estos productos al por mayor para uso propio, debiendo constar esta circunstancia en las facturas o documentos comerciales correspondientes.
+
+Las denominaciones, y composición de los productos deberán indicarse claramente en tales documentos. No se permitirá la inscripción de abreviaturas, salvo si se utiliza algún código, en cuyo caso deberá incluirse obligatoriamente la clave o significado en el mismo documento.
+
+9\. Todas las indicaciones obligatorias deberán aparecer con caracteres claramente visibles y fácilmente legibles por el consumidor. Las denominaciones, calificativos y contenidos en fibras deberán indicarse con los mismos caracteres tipográficos.
+
+10\. Si un producto textil está formado por dos o varias partes que no tengan la misma composición, irá provisto de una etiqueta que indique el contenido en fibras de cada una de las partes. Este etiquetado no será obligatorio para las partes que representen menos del 30 por 100 del peso total del producto, a excepción de los forros princiales. Cuando todas las partes representen menos del 30 por 100 se indicará la composición global del artículo textil.
+
+Cuando dos o varios productos textiles formen de modo usual un conjunto inseparable y tengan idéntica composición de fibras, podrán ir provistos de un solo etiquetado.
+
+11\. Sin perjuicio del contenido del artículo 7.º, la composición en fibras de los artículos de corsetería se indicará dando la composición del conjunto del producto o bien la composición de las distintas partes de dichos artículos. En los casos concretos que se detallan a continuación, se tendrán en cuenta los siguientes criterios:
+
+Para los sujetadores: Tejidos exterior e interior de las copas y de la espalda.
+
+Para las fajas: Petos delanteros, traseros y costados.
+
+Para los combinados (faja-sujetador) Tejidos exterior e interior de las copas, petos delanteros, traseros y costados.
+
+Para las partes que no alcancen, al menos, el 10 por 100 del peso total del producto, no es obligatorio el etiquetado.
+
+12\. El etiquetado por separado de las distintas partes de los artículos de corsetería contempladas anteriormente, se efectuará de modo que el consumidor final pueda fácilmente entender a qué parte de la prenda se refieren las indicaciones que figuran en la etiqueta.
+
+13\. La composición en fibras de los tejidos tipo «devoré», se dará para la totalidad del producto o se podrá indicar por separado la composición del tejido de base y la del tejido que ha sufrido tratamiento «devoré», debiendo ser expresados por su denominación dichos elementos.
+
+14\. La composición en fibras de los productos textiles bordados se dará, bien para la totalidad del producto o por separado la composición de la tela de base y la de los hilos de bordado, debiendo especificarse estos elementos por su denominación. Si las partes bordadas ocupan menos del 10 por 100 de la superficie del producto, bastará con indicar la composición del tejido de base.
+
+15\. En la composición de los hilos constituidos por un alma y un revestimiento de diferentes fibras, presentados como tales a los consumidores, se dará, bien para la totalidad del producto o por separado, la composición del alma y la del revestimiento; dichos elementos deberán ser mencionados por su denominación.
+
+16\. La composición en fibra de los productos textiles de terciopelo, peluche o similares,se dará bien para la totalidad del producto o por separado. Si dichos productos están constituidos de una base y de una capa de uso distinto y compuestas por fibras diferentes, se mencionarán ambos elementos.
+
+17\. Todas las inscripciones a las que se ha hecho referencia deberán figurar obligatoriamente, al menos, en la lengua española oficial del Estado.
+
+> Se modifican los apartados 1 a 6, 9 y 10 por el art. único del Real Decreto 396/1990, de 16 de marzo. [Ref. BOE-A-1990-7738](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-7738).
+
+> Téngase en cuenta la disposición transitoria respecto a la aplicación de esta modificación.
+
+> Redactados los apartados 7, 8 y 16 conforme a la corrección de errores publicada en BOE núm. 261, de 31 de octubre de 1987. [Ref. BOE-A-1987-24432](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-24432).
+
+## Art. 7. Elementos excluidos.
+
+Los porcentajes de fibras contemplados en los artículos 4.º y 5.º se determinarán sin tener en cuenta los elementos indicados a continuación:
+
+1\. Para todos los productos textiles: Componentes no textiles, orillos, etiquetas y escudos, orlas y adornos que no formen parte integrante de los mismos; botones y hebillas forrados con textil, accesorios, adornos, cintas no elásticas, hilos y cintas elásticas añadidas en lugares específicos y limitados de los mismos; y, en las condiciones determinadas en el artículo 5.º, apartado seis, fibras visibles, que pueden aislarse, destinadas a producir un efecto decorativo, y las antiestáticas.
+
+2\. a) Para revestimientos de suelo y alfombras: Todos los elementos que constituyan el producto, a excepción de la felpa.
+
+b) Para los tejidos de tapizado de muebles: Las urdimbres y tramas del ligamento y de relleno que no formen parte de la cara buena (haz del tejido).
+
+c) Para tapices, colgaduras, cortinas y visillos: Las tramas y urdimbres de ligadura y de relleno que no constituyan el haz de la tela.
+
+d) Para los demás productos textiles: Soportes, refuerzos, entretelas y plastrones, hilos de costura, ya sean de ornamentación o de unión, salvo que sustituyan a la trama o la urdimbre del tejido, relleno que no cumpla una función de aislante y, sin perjuicio del contenido del artículo 6.º, apartado diez, párrafo 2, los forros.
+
+Para la aplicación de este apartado:
+
+No serán considerados como soportes que deban ser eliminados los tejidos de basamento de los productos textiles, en particular los de las mantas, dobles telas, terciopelos y peluches o similares.
+
+Se entenderán por refuerzos los hilos o tejidos añadidos en lugares específicos y limitados del producto textil para reforzarlo o darle rigidez o espesor.
+
+3\. Los cuerpos grasos, aglutinantes, cargas, aprestos, productos de impregnación, productos auxiliares de tintura y de estampado y demás productos para el tratamiento de los textiles. Se evitará que dichos elementos estén presentes en cantidades que puedan inducir a error al consumidor.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 261, de 31 de octubre de 1987. [Ref. BOE-A-1987-24432](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-24432).
+
+## Art. 8. Fijación del etiquetado.
+
+El etiquetado obligatorio de los productos textiles, para su puesta en el mercado y venta directa al consumidor, se efectuará de la siguiente forma:
+
+1\. Hilados: Figurará en las cajas u otro tipo de envoltorios en que sean expedidos para el comercio al detall, y se hará constar, además, el número de unidades que contiene cada envase. Cuando la unidad de venta tenga un peso igual o superior a 40 gramos, cualquiera que sea la forma de presentación, el etiquetado también figurará en cada unidad.
+
+Además figurará el contenido de la unidad de hilo, con mención del número de metros o su peso en gramos, de manera clara e inequívoca. En ambos casos se admitirá una tolerancia de ± 5 por 100. Quedan exceptuados de la indicación de este dato los hilados que se vendan al peso, en cuyo caso, mediante un rótulo o cartel, se indicará el precio por kilogramo para cada tipo de hilado en caracteres legibles para el consumidor.
+
+Cuando las reducidas dimensiones de las etiquetas impidan, para artículos de pequeño volumen, la inclusión de las anteriores leyendas, se podrá prescindir de ellas, pero, en todos los casos, figurará en las cajas o envoltorios que constituyan las unidades de venta en fábrica.
+
+2\. Tejidos: El etiquetado será obligatorio en cada pieza, pudiendo estar tejido o impreso sobre la pieza o en el orillo, cada tres metros, o mediante etiqueta adherida en ambos extremos de la pieza o en el plegador de tal forma que ésta ha de ser visible durante el tiempo que el producto permanezca a la venta.
+
+3\. Pasamanería, encajes y bordados: Será suficiente que el etiquetado figure en la caja u otras formas de envoltura, con indicación del número de unidades que contiene, así como el metraje o peso de cada unidad.
+
+4\. Confección y géneros de punto: Cada prenda individual llevará el preceptivo etiquetado, tal como se dispone en el artículo sexto.
+
+En las confecciones denominadas textiles del hogar y de ropa de mesa y cama que se comercialicen por juegos o por elementos independientes, deberá marcarse cada pieza con etiqueta de las características señaladas en el párrafo segundo, apartado 5, del artículo 6.º Cuando se ofrezcan al comprador presentados en cajas o en otras formas de envoltura, el etiquetado deberá figurar además en la caja o envoltura y se hará constar el número de piezas que contiene. Únicamente quedan excluidos de lo anterior los juegos de ropa de mesa, en cuyo caso podrá figurar una sola etiqueta en la pieza principal.
+
+En mantas, alfombras, tapices, visillos, cortinas o similares que no se comercialicen por metros, el etiquetado será obligatorio para cada unidad, cualquiera que sea su dimensión o peso, mediante una etiqueta de las mismas características que las exigidas en el párrafo anterior. Si se tratara de piezas vendibles por metros, el etiquetado se exigua en cada pieza, figurando en ambos extremos de la misma, o bien en su plegador o bastidor. Para las alfombras y tapices, a la hora de detallar su composición no se tendrá en cuenta el tejido de base.
+
+5\. Otros productos textiles: Cualquier otro producto textil, no contemplado en los puntos anteriores, llevará un etiquetado por cada unidad individual, salvo lo señalado en el artículo siguiente.
+
+> Se añade el inciso final del párrafo segundo del apartado 1 y se modifica el apartado 4 por el art. único del Real Decreto 396/1990, de 16 de marzo. [Ref. BOE-A-1990-7738](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-7738).
+
+> Téngase en cuenta la disposición transitoria respecto a la aplicación de esta modificación.
+
+> Redactados los apartados 1 y 4 conforme a la corrección de errores publicada en BOE núm. 261, de 31 de octubre de 1987. [Ref. BOE-A-1987-24432](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-24432).
+
+## Art. 9. Excepciones al etiquetado.
+
+Como ampliación de las disposiciones de los artículos 6.º a 8.º, las excepciones al etiquetado serán:
+
+a) Los productos textiles que figuran en el anexo III están exentos del etiquetado a que se refiere la presente disposición.
+
+No obstante, si dichos productos se etiquetan con datos referentes a las denominaciones contempladas en el anexo I, bien como título principal, bien como adjetivo o raíz, o bien cuando su naturaleza pudiera inducir a confundirlos con las mismas, se aplicará lo dispuesto en los artículos 6.º a 7.º
+
+b) Los productos textiles que figuran en el anexo IV, cuando sean del mismo tipo y tengan la misma composición, podrán presentarse a la venta agrupados bajo un etiquetado global en el que figuren las indicaciones de composición contempladas en la presente disposición.
+
+## Art. 10. Prohibiciones.
+
+1\. Se prohíbe, con carácter general, el empleo de cualquier procedimiento de publicidad, promoción, exposición, envasado y venta, susceptible de crear una confusión en el comprador, acerca de la naturaleza, composición y origen de los productos textiles.
+
+2\. Se prohíbe expresamente el empleo de toda inscripción, marca, diseño o cualquier mención que pueda evocar la idea de una fibra textil determinada, cuando el producto no contenga una proporción de dicha fibra igual o superior al 85 por 100 en peso, con excepción de lo regulado en la presente disposición.
+
+3\. Se prohíbe la utilización de los derivados, compuestos, sinónimos o denominaciones comerciales de las fibras textiles, tanto nacionales como extranjeras, cuando no se indique el nombre que corresponda a cada fibra, según las denominaciones previstas en el anexo I.
+
+4\. Se prohíbe utilizar las denominaciones de fibras contempladas en el anexo I, incluso como raíz o adjetivo, para designar fibras que no correspondan a su definición, cualquiera que fuera el idioma utilizado.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 261, de 31 de octubre de 1987. [Ref. BOE-A-1987-24432](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-24432).
+
+## Art. 11. Inspecciones.
+
+La vigilancia e inspección de cuanto se establece en el presente Real Decreto se llevará a efecto por los correspondientes órganos de las Administraciones Públicas, en el ámbito de sus competencias, tanto en los establecimientos industriales como en los de almacenamiento, venta o distribución.
+
+## Art. 12. Infracciones.
+
+Sin perjuicio de las competencias que corresponden a los Ministerios de Economía y Hacienda e Industria y Energía, dentro del marco de sus atribuciones específicas, el incumplimiento de lo dispuesto en el presente Real Decreto constituirá infracción administrativa en materia de Defensa del Consumidor, de acuerdo con lo previsto en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria, según lo estipulado en la disposición final segunda de la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios.
+
+## Disposición derogatoria.
+
+Quedan derogadas, a partir de la entrada en vigor del presente Real Decreto, las disposiciones administrativas que a continuación se citan:
+
+1\. Orden del Ministerio de Industria y Energía de 17 de noviembre de 1954 («Boletín Oficial del Estado» número 323, del 19) por la que se regula el ejercicio de la industria de la confección en serie.
+
+2\. Resolución de la Dirección General de Comercio Interior de 28 de octubre de 1961 («Boletín Oficial del Estado» número 274, de 16 de noviembre) por la que se establecen normas para la represión del fraude en la venta de hilos para coser, bordar, zurcir y toda clase de labores.
+
+3\. Orden del Ministerio de Comercio de 23 de noviembre de 1961 («Boletín Oficial del Estado» número 305, de 22 de diciembre) por la que se dictan normas sobre utilización de la palabra «hilo» en los tejidos puestos a la venta por el comercio.
+
+4\. Orden del Ministerio de Industria de 7 de septiembre de 1967 («Boletín Oficial del Estado» número 221, del 15) sobre normalización de etiquetado de composición de productos textiles.
+
+5\. Orden del Ministerio de Comercio de 21 de abril de 1969 («Boletín Oficial del Estado» número 101, del 28 de octubre) sobre etiquetado de composición en la comercialización de productos textiles.
+
+6\. Orden del Ministerio de Industria de 18 de febrero de 1970 («Boletín Oficial del Estado» número 46, del 23 de abril) por la que se establece la obligatoriedad de la normalización del etiquetado de composición de los productos textiles a que se refiere la Orden de 7 de septiembre de 1967,
+
+7\. Resolución de la Dirección General de Industrias Textiles, Alimentarias y Diversas de 20 de marzo de 1970 («Boletín Oficial del Estado» número 89, de 14 de abril) sobre normalización del etiquetado de composición de los productos textiles.
+
+8\. Orden del Ministerio de Industria de 22 de febrero de 1973 («Boletín Oficial del Estado» número 55, de 5 de marzo) por la que se crea el Registro de número de fabricante de géneros de punto.
+
+9\. A efectos de los productos regulados por el presente Real Decreto, queda derogado el apartado 1, cuarto, del artículo 1 del Real Decreto 106/1985, de 23 de enero («Boletín Oficial del Estado» del 31), por el que se modifican las condiciones generales que establece el Código Alimentario Español para los materiales de uso personal y doméstico no en contacto con los alimentos.
+
+> Redactados los apartados 5 y 6 conforme a la corrección de errores publicada en BOE núm. 261, de 31 de octubre de 1987. [Ref. BOE-A-1987-24432](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-24432).
+
+## Disposición transitoria.
+
+Durante el plazo de doce meses siguientes a la entrada en vigor del presente Real Decreto podrán utilizarse las etiquetas que cumplan con las disposiciones vigentes en el momento de dicha entrada en vigor.
+
+## Disposición final.
+
+1\. Se faculta a los Ministros de Industria, Turismo y Comercio y de Sanidad y Consumo para dictar conjuntamente las disposiciones de desarrollo de este real decreto.
+
+2\. Se autoriza a los Ministros de Industria, Turismo y Comercio y de Sanidad y Consumo para modificar conjunta o separadamente, de acuerdo con sus respectivas competencias, los anexos de este real decreto, a fin de mantenerlos adaptados al progreso técnico y, especialmente, a lo dispuesto en la normativa comunitaria.
+
+> Se modifica por el art. único.1 del Real Decreto 1523/2007, de 16 de noviembre. [Ref. BOE-A-2007-20276](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20276).
+
+Dada en Madrid a 5 de junio de 1987.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ
+
+## ANEXO I — Cuadro de las fibras textiles
+
+| Núms. | Denominación | Descripción de las fibras |
+|---|---|---|
+| 1 | Lana (1). | Fibra de esquila de la oveja (Ovis aries). |
+| 2 | Alpaca, llama, camello, cachemira, mohair, angora, vicuña, yack, guanaco, cashgora, castor, nutria, precedido o no de la denominación "lana" o "pelo" (1). | Pelos de los siguientes animales: alpaca, llama, camello, cabra de cachemira, cabra de angora, conejo de angora, vicuña, yack, guanaco, cabra cashgora (cruce de la cabra cachemira y de la cabra de angora), castor, nutria. |
+| 3 | Pelo, o crin con o sin indicación de especie animal (por ejemplo, pelo de bovino, pelo de cabra común, crin de caballo). | Pelos de diversos animales que no sean los mencionados en los puntos 1 y 2. |
+| 4 | Seda. | Fibra procedente exclusivamente de los insectos sericígenos. |
+| 5 | Algodón. | Fibra procedente de las semillas del algodonero (Gossypium). |
+| 6 | Miraguano. | Fibra procedente del interior del fruto del miraguano (Ceiba pentandra). |
+| 7 | Lino. | Fibra procedente del líber del tallo del lino (Linum usitatissimum). |
+| 8 | Cáñamo. | Fibra procedente del líber del tallo del cáñamo (Cannabis sativa). |
+| 9 | Yute. | Fibra procedente del líber del *Corchorus olitorius*y del *Corchorus capsularis.*A efectos del presente Real Decreto, se considerarán como yute las fibras del líber que procedan de: *Hibiscus cannabinus, Hibiscus sabdariffa, Abutilon avicennae, Urena lobata, Urena sinuata.* |
+| 10 | Abacá. | Fibra procedente de las vainas foliáceas de la *Musa textilis.* |
+| 11 | Esparto. | Fibra procedente de la hoja de la *Stipa tenacissima.* |
+| 12 | Coco. | Fibra procedente del fruto de la *Cocos nucifera*. |
+| 13 | Retama. | Fibra procedente del líber del tallo del *Cytisus scoparios*y/o del *Spartium junceum.* |
+| 14 | Ramio. | Fibra procedente del líber del tallo de la *Boehmeria nivea*y de la *Boehmeria tenacissima.* |
+| 15 | Sisal. | Fibra procedente de las hojas del *Agave sisalana*. |
+| 16 | Sunn. | Fibra procedente del líber del tallo de *Crotalaria juncea*. |
+| 17 | Henequen. | Fibra procedente del líber del tallo de *Agave fourcroydes*. |
+| 18 | Maguey. | Fibra procedente del líber del tallo de *Agave cantala.* |
+| 19 | Acetato. | Fibra de acetato de celulosa de la cual menos del 92 por 100 pero al menos 74 por 100 de los grupos hidroxilos son acetilados. |
+| 20 | Alginato. | Fibra obtenida a partir de sales metálicas del ácido algínico. |
+| 21 | Cupro. | Fibra de celulosa regenerada obtenida por el procedimiento cuproamoniacal. |
+| 22 | Modal. | Fibra de celulosa regenerada obtenida por un procedimiento viscoso modificado que tiene una fuerza de ruptura elevada y un módulo alto de mojado. La fuerza de ruptura (B<sub>c</sub>) en el estado acondicionado y la fuerza (B<sub>m</sub>) necesaria para causar un estiramiento de un 5 por 100 cuando la fibra está mojada, son de tales características que: |
+|  |  | BC (centinewton) ≥ 1,3 √ T + 2T. |
+|  |  | BM (centinewton) ≥ 0,5 √ T. |
+|  |  | siendo T la masa lineal media en decitex. |
+| 23 | Proteínica. | Fibra obtenida a partir de sustancias proteínicas naturales regeneradas y estabilizadas bajo la acción de agentes químicos. |
+| 24 | Triacetato. | Fibra de acetato de celulosa de la que al menos el 92 por 100 de los grupos hidroxilos están acetilados. |
+| 25 | Viscosa. | Fibra de celulosa regenerada obtenida por el procedimiento viscoso para el filamento y para la fibra discontinua. |
+| 26 | Acrílica. | Fibra formada de macromoléculas lineales que presentan en la cadena el 85 por 100 al menos en masa del grupo acrilonitrilo. |
+| 27 | Clorofibra. | Fibra formada por macromoléculas lineales cuya cadena está constituida como mínimo por un 50 por 100 en masa de monómeros de cloruros de vinilo o de cloruros de vinilideno. |
+| 28 | Fluorofibra. | Fibra formada de macromoléculas lineales obtenidas a partir de monómeros alifáticos fluorocarbonados. |
+| 29 | Modacrílica. | Fibra formada de macromoléculas lineales que presentan en la cadena más del 50 por 100 y menos del 85 por 100 en masa del motivo acrilonitrilo. |
+| 30 | Poliamida o nailon. | Fibra de macromoléculas lineales sintéticas que presentan en su cadena grupos funcionales amida recurrentes unidos, en un 85 por 100 como mínimo, a grupos alifáticos o cicloalifáticos. |
+| 31 | Aramida. | Fibra de macromoléculas lineales sintéticas formadas por grupos aromáticos unidos entre ellos por uniones amida e imida directamente ligadas, en un 85 por 100 como mínimo, a dos núcleos aromáticos y cuyo número de uniones imida, en caso de que existan, no puede exceder al de uniones amida. |
+| 32 | Poliimida. | Fibra de macromoléculas lineales sintéticas que tiene en la cadena grupos funcionales imida recurrentes. |
+| 33 | Lyocell (2). | Fibra de celulosa regenerada obtenida por un método de disolución y de hilado en disolvente orgánico, sin formación de derivados. |
+| 33.a) | Polilactida | Fibra formada por macromoléculas lineales que presentan en su cadena al menos un 85% (en masa) de ésteres de ácido láctico derivados de azúcares naturales, con una temperatura de fusión de un mínimo de 135 ºC. |
+| 34 | Poliéster. | Fibra formada por macromoléculas lineales que presenta en la cadena al menos el 85 por 100 en masa de un éster de diol y de ácido tereftálico. |
+| 35 | Polietileno. | Fibra formada de macromoléculas lineales saturadas de hidrocarburos alifáticos, no sustituidos. |
+| 36 | Polipropileno. | Fibra formada de macromoléculas lineales saturadas de hidrocarburos alifáticos, en los que uno de cada dos carbonos lleva una ramificación metilo, en disposición isotáctica, y sin sustituciones ulteriores. |
+| 37 | Policarbamida. | Fibra formada de macromoléculas lineales que presentan en la cadena la repetición del grupo funcional urea (NH-CO-NH). |
+| 38 | Poliuretano. | Fibra formada de macromoléculas lineales que presentan en la cadena la repetición del grupo funcional uretano. |
+| 39 | Vinilo. | Fibra formada de macromoléculas lineales en las que la cadena está constituida por alcohol polivinílico con grado de acetilación variable. |
+| 40 | Trivinilo. | Fibra formada de terpolímero de acrilonitrilo, de un monómero vinílico clorado y de un tercer monómero, de los cuales ninguno representa el 50 por 100 de la masa total. |
+| 41 | Elastodieno. | Fibra elastómera constituida, o bien por polisopreno natural o sintético, o bien por varios dienos polimerizados con o sin uno o varios monómeros vinílicos que, estirada por una fuerza de tracción hasta alcanzar tres veces su longitud inicial, recobra rápida y sustancialmente esa longitud desde el momento en que deja de aplicarse la fuerza de tracción. |
+| 42 | Elastano. | Fibra elastómera constituida por al menos 85 por 100 en masa de poliuretano segmentario que, alargada por una fuerza de tracción hasta alcanzar tres veces su longitud inicial, recobra rápida y sustancialmente esta longitud, desde el momento en que deja de aplicarse la fuerza de tracción. |
+| 43 | Vidrio textil. | Fibra constituida por vidrio. |
+| 44 | Denominación correspondiente a la materia de que las fibras están compuestas, por ejemplo: metal (metálico, metalizado), amianto, papel (papelero), precedida o no de la palabra "hilo" o "fibra". | Fibras obtenidas a partir de materias diversas o nuevas que no sean las anteriormente mencionadas. |
+| 45 | Elastomultiéster. | Fibra formada por la interacción de dos o más macromoléculas lineales químicamente distintas en dos o más fases distintas (ninguna de las cuales superior al 85% en masa) que contengan grupos éster como unidad funcional dominante (85% como mínimo) y que, tras un tratamiento adecuado, cuando se estira hasta una vez y media su longitud original y se suelta, recobra de forma rápida y sustancial su longitud inicial. |
+| 46 | Elastolefina. | Fibra que está compuesta por al menos un 95 % (en masa) de macromoléculas parcialmente entrecruzadas, formadas por etileno y al menos otra olefina, y que, cuando se estira hasta alcanzar una vez y media su longitud original y se suelta, recobra rápida y sustancialmente dicha longitud original. |
+| 47 | Melamina. | Fibra formada por al menos el 85% de masa de macromoléculas reticuladas compuestas por derivados de melamina. |
+
+(1) La denominación "lana" que figura en el número 1 de este anexo podrá también utilizarse para indicar una mezcla de fibras procedentes del vellón de cordero u oveja y de los pelos indicados en la tercera columna, número 2. Esta disposición se aplicará a los productos textiles enumerados en los artículos 4 y 5, así como a los mencionados en el artículo 6, siempre que estos últimos estén compuestos en parte por las fibras indicadas en los números 1 y 2.
+
+(2) Por "disolvente orgánico" se entiende fundamentalmente una mezcla de productos químicos orgánicos y de agua.
+
+> Se añade la fila 47 por el art. único.1 de la Orden PRE/348/2011, de 21 de febrero. [Ref. BOE-A-2011-3584](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3584).
+
+> Se añade la fila 46 por el art. único.2 del Real decreto 1523/2007, de 16 de noviembre. [Ref. BOE-A-2007-20276](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20276).
+
+> Se añade la fila 45 por el art. único.1 del Real Decreto 1115/2006, de 29 de septiembre. [Ref. BOE-A-2006-17097](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-17097).
+
+> Se añade la fila 33.a) por el art único.1 del Real Decreto 2322/2004, de 17 de diciembre. [Ref. BOE-A-2004-21769](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-21769).
+
+> Se modifica por el art. único del Real Decreto 1748/1998, de 31 de julio. [Ref. BOE-A-1998-20602](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-20602).
+
+> Redactados los apartados 20 y 31 conforme a la corrección de errores publicada en BOE núm. 261, de 31 de octubre de 1987. [Ref. BOE-A-1987-24432](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-24432).
+
+## ANEXO II — Porcentajes convencionales que deberán utilizarse para el cálculo de la masa de las fibras contenidas en un producto textil
+
+| N.º de fibras | Fibras | Porcentajes |
+|---|---|---|
+| 1-2 | Lanas y pelos: |  |
+|  | Fibras peinadas | 18,25 |
+|  | Fibras cardadas | 17,00 (1) |
+| 3 | Pelos: |  |
+|  | Fibras peinadas | 18,25 |
+|  | Fibras cardadas | 17,00 (1) |
+|  | Crin: |  |
+|  | Fibras peinadas | 16,00 |
+|  | Fibras cardadas | 15,00 |
+| 4 | Seda | 11,00 |
+| 5 | Algodón: |  |
+|  | Fibras sin tratar | 8,50 |
+|  | Fibras mercerizadas | 10,50 |
+| 6 | Miraguano | 10,90 |
+| 7 | Lino | 12,00 |
+| 8 | Cáñamo | 12,00 |
+| 9 | Yute | 17,00 |
+| 10 | Abacá (manila) | 14,00 |
+| 11 | Esparto | 14,00 |
+| 12 | Coco | 13,00 |
+| 13 | Retama | 14,00 |
+| 14 | Ramio (fibra blanqueada) | 8,50 |
+| 15 | Sisal | 14,00 |
+| 16 | Sunn | 12,00 |
+| 17 | Henequen | 14,00 |
+| 18 | Maguey | 14,00 |
+| 19 | Acetato | 9,00 |
+| 20 | Alginato | 20,00 |
+| 21 | Cupro | 13,00 |
+| 22 | Modal | 13,00 |
+| 23 | Proteínica | 17,00 |
+| 24 | Triacetato | 7,00 |
+| 25 | Viscosa | 13,00 |
+| 26 | Acrílica | 2,00 |
+| 27 | Clorofibra | 2,00 |
+| 28 | Fluorofibra | 0,00 |
+| 29 | Modacrílica | 2,00 |
+| 30 | Poliamida o nailon: |  |
+|  | Fibra discontinua | 6,25 |
+|  | Filamento | 5,75 |
+| 31 | Aramida | 8,00 |
+| 32 | Poliimida | 3,50 |
+| 33 | Lyocell | 13,00 |
+| 33.a) | Polilactida | 1,50 |
+| 34 | Poliéster: |  |
+|  | Fibra discontinua | 1,50 |
+|  | Filamento | 1,50 |
+| 35 | Polietileno | 1,50 |
+| 36 | Polipropileno | 2,00 |
+| 37 | Policarbamida | 2,00 |
+| 38 | Poliuretano: |  |
+|  | Fibra discontinua | 3,50 |
+|  | Filamento | 3,00 |
+| 39 | Vinilo | 5,00 |
+| 40 | Trivinilo | 3,00 |
+| 41 | Elastodieno | 1,00 |
+| 42 | Elastano | 1,50 |
+| 43 | Vidrio textil: |  |
+|  | De un diámetro medio superior a 5 micrones | 2,00 |
+|  | De un diámetro medio, igual o inferior a 5 micrones | 3,00 |
+| 44 | Fibra metálica | 2,00 |
+|  | Fibra metalizada | 2,00 |
+|  | Amianto | 2,00 |
+|  | Fibra de papel. |  |
+| 45 | Elastomultiéster | 1,50 |
+| 46 | Elastolefina | 1,50 |
+| 47 | Melamina | 7,00 |
+
+(1) El porcentaje convencional del 17 por 100 se aplicará en aquellos casos en que no sea posible afirmar si el producto textil que contiene lana y/o pelo pertenece al proceso de peinado o al proceso de cardado.
+
+> Se añade la fila 47 por el art. único.2 de la Orden PRE/348/2011, de 21 de febrero. [Ref. BOE-A-2011-3584](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3584).
+
+> Se añade la fila 46 por el art. único.3 del Real Decreto 1523/2007, de 16 de noviembre. [Ref. BOE-A-2007-20276](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20276).
+
+> Se añade la fila 45 por el art. único.2 del Real Decreto 1115/2006, de 29 de septiembre. [Ref. BOE-A-2006-17097](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-17097).
+
+> Se añade la fila 33.a) por el art. único.2 del Real Decreto 2322/2004, de 17 de diciembre. [Ref. BOE-A-2004-21769](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-21769).
+
+> Se modifica por el art. único del Real Decreto 1748/1998, de 31 de julio. [Ref. BOE-A-1998-20602](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-20602).
+
+> Se modifican los números 1, 2, 3, 28 y 38 y se añade la nota a pie de página por el art. único del Real Decreto 396/1990, de 16 de marzo. [Ref. BOE-A-1990-7738](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-7738).
+
+> Téngase en cuenta la disposición transitoria respecto a la aplicación de esta modificación.
+
+## ANEXO III — Productos exentos de la obligación de etiquetado
+
+1\. Sujetadores de mangas de camisas.
+
+2\. Pulseras de reloj, de material textil.
+
+3\. Etiquetas y escudos.
+
+4\. Asideros rellenos y de materia textil.
+
+5\. Cubre-cafeteras.
+
+6\. Cubre-teteras.
+
+7\. Manguitos protectores.
+
+8\. Manguitos que no sean de felpa o de peluche.
+
+9\. Flores artificiales.
+
+10\. Acericos (almohadillas para clavar alfileres).
+
+11\. Lienzos pintados.
+
+12\. Refuerzos y soportes textiles, no en pieza.
+
+13\. Fieltros.
+
+14\. Productos textiles confeccionados usados, definidos como tales.
+
+15\. Polainas y botines.
+
+16\. –
+
+17\. Embalajes que no sean nuevos, y vendidos como tales.
+
+18\. Sombreros de fieltro.
+
+19\. Artículos de marroquinería y guarnicionería, en materia textil.
+
+20\. Artículos de viaje, de materia textil.
+
+21\. Tapicerías bordadas a mano, terminadas o semi-terminadas, y materiales para su fabricación, incluidos los hilos de bordar, vendidos aparte del cañamazo y especialmente acondicionados para utilizarlos en dichas tapicerías.
+
+22\. Cremalleras.
+
+23\. Botones y hebillas forrados de materia textil.
+
+24\. Tapas para libros, de materia textil.
+
+25\. Juguetes.
+
+26\. Partes textiles de calzado, a excepción de los forros de abrigo.
+
+27\. Manteles individuales formados por varios elementos y cuya superficie tenga menos de 500 centímetros cuadrados.
+
+28\. Paños y guantes para retirar fuentes del horno.
+
+29\. Cubre-huevos.
+
+30\. Estuches para maquillaje.
+
+31\. Pitilleras y petacas de tejido.
+
+32\. Estuches de tejido para gafas, cigarrillos y cigarros, mecheros y peines.
+
+33\. Artículos protectores para deporte, excluidos los guantes.
+
+34\. Neceser para aseo.
+
+35\. Neceser para calzado.
+
+36\. Artículos funerarios.
+
+37\. Productos desechables, excluidas las guatas. Para la aplicación de la presente norma, se considerarán como desechables los artículos textiles de un solo uso o de uso durante un tiempo limitado, cuya utilización normal no permita volverlos a poner en disposición de ser utilizados para el mismo fin, o para un uso posterior similar.
+
+38\. Artículos textiles sujetos a las normas de la farmacopea europea y con una mención que haga referencia a ello, vendajes no desechables para uso médico y ortopédico, y artículos textiles para ortopedia en general.
+
+39\. Artículos textiles, incluidas cuerdas, cordajes y cordeles excepto los indicados en el punto 12 del anexo IV, y que normalmente vayan destinados a:
+
+a) Ser utilizados de forma instrumental en actividades de producción y transformación de bienes.
+
+b) Ser incorporados en máquinas, instalaciones (calderas, aire acondicionado, iluminación, etc.), aparatos electrodomésticos y otros, vehículos y otros medios de transporte, o para el funcionamiento, mantenimiento y equipamiento de aquellos, con exclusión de los toldos y accesorios textiles para vehículos automóviles, que se vendan por separado.
+
+40\. Artículos textiles de protección y seguridad, tales como cinturones de seguridad, paracaídas, chalecos salvavidas, bajadas de socorro, dispositivos contra incendios, chalecos antibalas, trajes de protección especiales (por ejemplo: Protección contra el fuego, los agentes químicos y otros riesgos para la seguridad).
+
+41\. Estructuras hinchables a presión neumática (naves para deportes, stands de exposiciones de almacenamiento, etc.) siempre que se suministren con indicaciones relativas a las prestaciones y especificaciones técnicas de dichos artículos.
+
+42\. Velas.
+
+43\. Artículos textiles para animales.
+
+44\. Banderas y estandartes.
+
+## ANEXO IV — Productos para los cuales solo es obligatorio un etiquetado global
+
+1\. Bayetas.
+
+2\. Paños de limpieza.
+
+3\. Orlas y adornos.
+
+4\. Pasamanería.
+
+5\. Cinturones.
+
+6\. Tirantes.
+
+7\. Ligas y jarreteras.
+
+8\. Cordones.
+
+9\. Cintas.
+
+10\. Elásticos.
+
+11\. Embalajes nuevos y vendidos como tales.
+
+12\. Cordeles, para embalajes agrícolas. Cordeles, cuerdas y cordajes, distintos de los contemplados en el punto 39 del anexo III (1).
+
+13\. Manteles individuales.
+
+14\. Pañuelos.
+
+15\. Redecillas y redes para el pelo.
+
+16\. Pajaritas y corbatas para niños.
+
+17\. Baberos y manoplas de aseo.
+
+18\. Hilos de coser, de zurcir y de bordar, acondicionados para su venta al por menor en pequeñas unidades y cuyo peso no exceda de 1 gramo.
+
+19\. Cintas y cordones para cortinas y persianas.
+
+20\. Paños higiénicos.
+
+(1) Para los productos que figuran en este punto y vendidos a metros, el etiquetado global es el de la pieza. Entre las cuerdas y cordajes contemplados en este punto están concretamente los utilizados en alpinismo y para el deporte náutico.
+
+> Se añade el apartado 20 por el art. único del Real Decreto 396/1990, de 16 de marzo. [Ref. BOE-A-1990-7738](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-7738).
+
+> Téngase en cuenta la disposición transitoria respecto a la aplicación de esta modificación.

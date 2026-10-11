@@ -1,0 +1,285 @@
+---
+title: "Orden de 29 de enero de 1964 sobre títulos profesionales menores de las Marinas Mercante y de Pesca"
+identifier: "BOE-A-1964-3685"
+eli: "https://www.boe.es/eli/es/o/1964/01/29/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Comercio"
+date: 1964-01-29
+published: 1964-02-18
+in_force_from: 1964-03-09
+last_amended: 2000-01-21
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 42"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1964-3685"
+retrieved: 2026-10-11
+---
+
+# Orden de 29 de enero de 1964 sobre títulos profesionales menores de las Marinas Mercante y de Pesca
+
+Téngase en cuenta que esta norma queda derogada, en lo que se refiere a las titulaciones de Patrón de Pesca Local y Motorista Naval de buques pesqueros, con efectos de 26 de mayo de 1988, por la disposición derogatoria de la Orden de 20 de mayo de 1988. [Ref. BOE-A-1988-12798](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-12798)
+
+Asimismo, queda derogada en lo que afecta a marina mercante, con efectos de 10 de febrero de 2000, por la disposición derogatoria única.c) del Real Decreto 2062/1999, de 30 de diciembre. [Ref. BOE-A-2000-1282](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1282)
+
+Ilustrísimo señor:
+
+El Decreto 629/1963, de 14 de marzo («Boletín Oficial del Estado» número 83), que estableció los títulos profesionales para tripular los buques de las Marinas Mercante y de Pesca, anuló los correspondientes a las embarcaciones que por su pequeño tonelaje, escasa potencia de máquinas o limitado campo de acción, en lo que a navegación se refiere, pueden ser tripulados por personal con menos conocimientos técnicos que lo que exigen la obtención de los títulos establecidos.
+
+Procede, por tanto, restablecer, actualizándolos, estos títulos de menor rango, y en su virtud, en uso de las atribuciones que le confiere el artículo décimo del Decreto 629/1963 citado, a propuesta de la Subsecretaría de la Marina Mercante y conforme con el dictamen de la Junta de Enseñanzas Náuticas y de Formación Profesional Náutico-Pesquera.
+
+Este Ministerio ha tenido a bien disponer:
+
+## CAPÍTULO I — Títulos
+
+### Artículo 1.
+
+Los títulos que han de ostentar quienes ejerzan el mando de embarcaciones de tráfico interior, de las menores de pesca y el manejo de equipos propulsores marinos de pequeña potencia, serán por lo menos los siguientes:
+
+1\. Patrón de tráfico interior.
+
+2\. Patrón de pesca local.
+
+3\. Motorista naval.
+
+### Artículo 2.
+
+Las atribuciones que confiere el título para cargos de mando en las embarcaciones de tráfico interior y las condiciones para obtenerlo serán las siguientes:
+
+Patrón de tráfico interior
+
+A) Atribuciones:
+
+a) Mando de embarcaciones y artefactos dedicados al tráfico interior del puerto, río, ría o bahía para la que se solicite el examen, sin límite de tonelaje cuando sean sin propulsión propia y hasta 50 toneladas R. B. los autopropulsados, siempre, que no rebasen los 150 C. V la potencia efectiva de su equipo propulsor.
+
+B) Condiciones:
+
+a) Estar inscrito en Marina.
+
+b) Haber cumplido seiscientos días de embarco.
+
+c) Haber cumplido veintiún años de edad.
+
+d) Haber aprobado el examen correspondiente.
+
+### Artículo 3.
+
+Las atribuciones que confiere el título para cargos de mando en las embarcaciones menores de pesca y las condiciones para obtenerlo serán las siguientes:
+
+Patrón de pesca local
+
+A) Atribuciones:
+
+a) Mando de embarcaciones hasta 10 toneladas R. B., siempre que no rebase de 50 C. V. la potencia efectiva de su equipo propulsor, dedicadas a la pesca costera o litoral, sin perder en ningún momento de vista la costa baja y dentro de los límites de la provincia marítima para la que se solicite el examen.
+
+B) Condiciones:
+
+a) Estar inscrito en Marina.
+
+b) Haber cumplido seiscientos días de embarco.
+
+c) Haber cumplido veintiún años de edad.
+
+d) Haber aprobado el examen correspondiente.
+
+### Artículo 4.
+
+Las atribuciones que confiere el título para el manejo de máquinas o motores marinos propulsores de pequeña potencia y las condiciones para obtenerlo serán las siguientes:
+
+Motorista naval
+
+A) Atribuciones:
+
+a) Manejo de máquinas o motores hasta 50 C. V. de potencia efectiva de cada una de las clases de máquina de vapor o motores de explosión, diesel o semidiesel, para el que se solicita el examen.
+
+B) Condiciones:
+
+a) Estar inscrito en Marina.
+
+b) Haber cumplido cincuenta días de embarco.
+
+c) Haber cumplido dieciocho años de edad.
+
+d) Haber aprobado el examen o exámenes correspondientes al tipo o tipos de máquinas o motores para el que se solicita el título.
+
+### Artículo 5.
+
+Los aspirantes a Motorista naval podrán solicitar examen para uno o más tipos de motor (correspondientes a los de explosión, diesel, semidiesel y máquina de vapor), anotándosele en su título aquellos para cuyo manejo esté facultado.
+
+### Artículo 6.
+
+A los efectos de estas titulaciones, se entiende por potencia efectiva y tiempo de embarco las definiciones que de los mismos se establecieron en el artículo quinto del Decreto 629/1963 mencionado.
+
+### Artículo 7.
+
+El número de días de embarco que se exige para la obtención de cada uno de los títulos habrán de cumplirse en las condiciones establecidas en la Orden ministerial de 6 de abril de 1963 («Boletín Oficial del Estado» número 90), siendo computables los efectuados en cualquier tipo de buque para los candidatos a los títulos de Patrón de tráfico interior y Motorista naval, debiendo cumplirlos en buques de la tercera lista los aspirantes al título de Patrón de pesca local.
+
+### Artículo 8.
+
+Los actuales titulados continuarán en el uso de las atribuciones que tienen conferidas.
+
+### Artículo 9.
+
+Los súbditos extranjeros podrán obtener estos títulos, si bien no podrán ejercer su profesión en embarcaciones nacionales, salvo autorización expresa al efecto.
+
+### Artículo 10.
+
+Las embarcaciones de tráfico interior o de pesca que, por su tonelaje o potencia de máquinas, rebasen el máximo para cuyo mando o manejo están facultados los poseedores de títulos a que hace referencia esta Orden ministerial deberán ser mandadas y su máquina manejada por el personal que corresponda de los grupos uno, dos y tres del artículo primero del Decreto 629/1963, que regula sus atribuciones.
+
+### Artículo 11.
+
+Las embarcaciones o artefactos sin propulsión propia (remolcados a o remo) menores de 50 toneladas R. B. no precisan de personal titulado, quedando facultados los Comandantes militares de Marina, dentro de sus provincias respectivas, para expedir las autorizaciones correspondientes para su manejo.
+
+## CAPÍTULO II — Exámenes
+
+> Se deroga por el art. 51.6 de la Orden de 7 de diciembre de 1964. [Ref. BOE-A-1964-23661](https://www.boe.es/buscar/doc.php?id=BOE-A-1964-23661)
+
+### Artículo 12.
+
+**(Derogado)**
+
+> Se deroga por el art. 51.6 de la Orden de 7 de diciembre de 1964. [Ref. BOE-A-1964-23661](https://www.boe.es/buscar/doc.php?id=BOE-A-1964-23661)
+
+### Artículo 13.
+
+**(Derogado)**
+
+> Se deroga por el art. 51.6 de la Orden de 7 de diciembre de 1964. [Ref. BOE-A-1964-23661](https://www.boe.es/buscar/doc.php?id=BOE-A-1964-23661)
+
+### Artículo 14.
+
+**(Derogado)**
+
+> Se deroga por el art. 51.6 de la Orden de 7 de diciembre de 1964. [Ref. BOE-A-1964-23661](https://www.boe.es/buscar/doc.php?id=BOE-A-1964-23661)
+
+### Artículo 15.
+
+**(Derogado)**
+
+> Se deroga por el art. 51.6 de la Orden de 7 de diciembre de 1964. [Ref. BOE-A-1964-23661](https://www.boe.es/buscar/doc.php?id=BOE-A-1964-23661)
+
+### Artículo 16.
+
+**(Derogado)**
+
+> Se deroga por el art. 51.6 de la Orden de 7 de diciembre de 1964. [Ref. BOE-A-1964-23661](https://www.boe.es/buscar/doc.php?id=BOE-A-1964-23661)
+
+### Artículo 17.
+
+**(Derogado)**
+
+> Se deroga por el art. 51.6 de la Orden de 7 de diciembre de 1964. [Ref. BOE-A-1964-23661](https://www.boe.es/buscar/doc.php?id=BOE-A-1964-23661)
+
+### Artículo 18.
+
+**(Derogado)**
+
+> Se deroga por el art. 51.6 de la Orden de 7 de diciembre de 1964. [Ref. BOE-A-1964-23661](https://www.boe.es/buscar/doc.php?id=BOE-A-1964-23661)
+
+### Artículo 19.
+
+**(Derogado)**
+
+> Se deroga por el art. 51.6 de la Orden de 7 de diciembre de 1964. [Ref. BOE-A-1964-23661](https://www.boe.es/buscar/doc.php?id=BOE-A-1964-23661)
+
+### Artículo 20.
+
+**(Derogado)**
+
+> Se deroga por el art. 51.6 de la Orden de 7 de diciembre de 1964. [Ref. BOE-A-1964-23661](https://www.boe.es/buscar/doc.php?id=BOE-A-1964-23661)
+
+### Artículo 21.
+
+**(Derogado)**
+
+> Se deroga por el art. 51.6 de la Orden de 7 de diciembre de 1964. [Ref. BOE-A-1964-23661](https://www.boe.es/buscar/doc.php?id=BOE-A-1964-23661)
+
+## CAPÍTULO III — Programas de examen
+
+### Artículo 22.
+
+Las asignaturas de que deberán prestar examen se ajustarán a los programas siguientes:
+
+Examen para Patrón de tráfico interior
+
+A) Cultura General. Lectura y escritura de un párrafo al dictado.−Suma, resta multiplicación y división de números enteros y decimales.–Sistema métrico decimal.–Líneas, superficies y volúmenes más importantes.
+
+B) Navegación. Conocimiento del puerto, río, ría o bahía para la que se solicita el título: fondeaderos, dársenas, muelles, sondas, muertos, balizamiento y enfilaciones.–Vientos, corrientes y mareas reinantes en el mismo.–Aguja náutica.–Cuarteo de la rosa.–Idea de la estima y de la navegación costera.–Ligeras ideas de Astronomía náutica: movimiento diurno del sol.–Utilización de la Polar como orientación.–Interpretación de una carta náutica.
+
+C. Maniobra. Fondear y levar.–Amarrar a un muerto.–Atraque y desatraque de costado a un muelle.–Amarre de popa a un muelle.–Abarloarse a otra embarcación.–Dar y tomar remolque.–Pasar a remo o motor una rompiente.–Maniobras con mal tiempo.–Reglamento internacional para prevenir abordajes en la mar.–Señales locales para el día y la noche: del tiempo, estado del puerto y niebla (visuales y acústicas).–Reglamento de policía del puerto.–Material de salvamento que están obligados a llevar los buques cuyo mando corresponde a la titulación a que aspira.–Utilización de este material.
+
+D) Primeros auxilios. Instrucciones para acudir a nado en auxilio de un náufrago.–Práctica de la respiración artificial.
+
+Examen para Patrón de pesca local
+
+A) Cultura General. Lectura y escritura de un párrafo al dictado.–Suma, resta, multiplicación y división de números enteros y decimales.–Sistema métrico decimal.–Líneas, superficies y volúmenes más importantes.
+
+B) Navegación. Conocimiento detallado del litoral y de los vientos y corrientes reinantes en la provincia marítima para la que solicita el título.–Aguja náutica.–Cuarteo de la rosa.– Idea de la estima y de la navegación costera.–Ligeras ideas de Astronomía náutica: movimiento diurno del sol.–Utilización de la Polar como orientación.–Interpretación de una carta náutica.
+
+C. Maniobra. Fondear y levar.–Amarrar a un muerto.– Atraque y desatraque de costado a un muelle.–Amarre de popa a un muelle.–Abarloarse a otra embarcación.–Dar y tomar remolque.–Pasar a remo o motor una rompiente.–Maniobras con mal tiempo.–Reglamento internacional para prevenir abordajes en la mar.–Material de salvamento que están obligados a llevar los buques cuyo mando corresponde a la titulación a que aspira.– Utilización de este material.
+
+D) Pesca marítima. Artes de pesca «de su clase» usados en la provincia marítima para la que solicita el título.–Medida de las mallas.–Reparación de averías en las redes.–Especies que se capturan en la provincia marítima.–Procedimientos empleados para la conservación del pescado en las embarcaciones a cuyo mando aspira.–Ley de Vedas.–Perjuicios que se ocasionan pescando con explosivos y sanciones a los que la efectúan.–Reglamentación particular de pesca, si la hay, de la provincia marítima o región pesquera en la que se halle enclavada.
+
+E) Primeros auxilios. Instrucciones para acudir a nado en auxilio de un náufrago.–Práctica de la respiración artificial.
+
+Examen para Motorista naval
+
+A) Cultura General. Lectura y escritura de un párrafo al dictado.–Suma, resta, multiplicación y división de números enteros y decimales.–Sistema métrico decimal.–Líneas, superficies y volúmenes más importantes.
+
+B) Motores de combustión interna: explosión, diesel, semidiesel (sólo prestará examen del tipo de motor para el que solicita el título). Nomenclatura de las diversas partes del motor. Manejo del motor efectuando las operaciones siguientes: preparación para poner en marcha, arrancar, variar de velocidad, parar y dar atrás.–Lubrificación y refrigeración.–Medidas en caso de recalentamiento.–Utilización de herramientas de uso en el motor.–Cuidados que requiere el motor después de la parada definitiva.–Averías más frecuentes en el motor y manera de corregirlas.–Peligro de incendio.–Medios de prevenirlo y actuación en caso de declararse.
+
+C) Máquinas de vapor (sólo para los aspirantes al manejo de este tipo de máquinas). Nomenclatura de las partes principales de la caldera.–Preparación para el encendido de una caldera.–Encendido de calderas de carbón o petróleo.–Comunicación.–Conducción de la caldera.–Limpieza de humos.–Extracciones.–Apagar.–Averías más frecuentes en las calderas de vapor y su corrección.–Nomenclatura de las partes principales de una máquina de vapor alternativa.–Manejo de las máquinas, efectuando las operaciones siguientes: calentar, probar, poner en marcha, variar de velocidad, parar y dar atrás.–Lubrificación y refrigeración.–Medidas en caso de recalentamiento.–Herramientas y materiales de uso en calderas y máquinas.–Averías más frecuentes en las máquinas de vapor alternativas y manera de corregirlas.–Peligro de incendio.–Medios de prevenirlo y actuación en caso de declararse.
+
+### Artículo 23.
+
+Los exámenes podrán celebrarse práctica o teóricamente y orales o escritos, a juicio del Tribunal correspondiente.
+
+### Artículo 24.
+
+Los Motoristas navales en posesión del título para una clase determinada de máquina o motor que se examinen para cualquier otra clase sólo prestarán examen del cuestionario profesional de este nuevo tipo de máquina o motor.
+
+## CAPÍTULO IV — Expedición de los títulos
+
+> Se deroga por el art. 8.3 de la Orden de 3 de marzo de 1965. [Ref. BOE-A-1965-6177](https://www.boe.es/buscar/doc.php?id=BOE-A-1965-6177)
+
+### Artículo 25.
+
+**(Derogado)**
+
+> Se deroga por el art. 8.3 de la Orden de 3 de marzo de 1965. [Ref. BOE-A-1965-6177](https://www.boe.es/buscar/doc.php?id=BOE-A-1965-6177)
+
+### Artículo 26.
+
+**(Derogado)**
+
+> Se deroga por el art. 8.3 de la Orden de 3 de marzo de 1965. [Ref. BOE-A-1965-6177](https://www.boe.es/buscar/doc.php?id=BOE-A-1965-6177)
+
+### Artículo 27.
+
+**(Derogado)**
+
+> Se deroga por el art. 8.3 de la Orden de 3 de marzo de 1965. [Ref. BOE-A-1965-6177](https://www.boe.es/buscar/doc.php?id=BOE-A-1965-6177)
+
+## CAPÍTULO V — Canje de títulos
+
+### Artículo 28.
+
+Los actuales poseedores de títulos de Patrón de tráfico interior de puerto, Patrón de pesca de bajura o similares, podrán solicitar su canje por los correspondientes establecidos por esta Orden, interesándolo del Comandante militar de Marina de la provincia marítima en la que le ha sido expedido, el cual accederá a dicha petición siempre que haya correspondencia entre las atribuciones del título antiguo y moderno.
+
+Si entre éste y aquél rio existe dicha correspondencia, deberá someter al solicitante a las pruebas de aptitud que estime convenientes, de aquellas materias que deba conocer el interesado y que no se le exigieron para la obtención del título antiguo.
+
+### Artículo 29.
+
+**(Derogado)**
+
+> Se deroga por el art. 8.3 de la Orden de 3 de marzo de 1965. [Ref. BOE-A-1965-6177](https://www.boe.es/buscar/doc.php?id=BOE-A-1965-6177)
+
+Lo que comunico a V. I. para su conocimiento y efectos.
+
+Dios guarde a V. I. muchos años.
+
+Madrid, 29 de enero de 1964.–P. D., Leopoldo Boado.
+
+Ilmo. Sr. Subsecretario de la Marina Mercante.

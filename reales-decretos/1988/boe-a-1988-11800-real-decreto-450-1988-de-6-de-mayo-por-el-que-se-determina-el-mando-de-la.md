@@ -1,0 +1,52 @@
+---
+title: "Real Decreto 450/1988, de 6 de mayo, por el que se determina el mando de la Agrupación de Tráfico de la Guardia Civil"
+identifier: "BOE-A-1988-11800"
+eli: "https://www.boe.es/eli/es/rd/1988/05/06/450"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1988-05-06
+published: 1988-05-14
+in_force_from: 1988-05-15
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 116"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1988-11800"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 450/1988, de 6 de mayo, por el que se determina el mando de la Agrupación de Tráfico de la Guardia Civil
+
+En virtud de la Ley 47/1959, de 30 de julio, de Circulación Urbana e Interurbana, se creó en el Cuerpo de la Guardia Civil la Agrupación de Tráfico con una plantilla inicial de unos 3.500 hombres.
+
+Las Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, en su artículo 12, punto 1, apartado B, subapartado c), asigna de manera específica a la Guardia Civil, las funciones de vigilancia del tráfico, tránsito y transporte en las vías públicas interurbanas, funciones que son desarrolladas por la Agrupación de Tráfico de dicho Cuerpo, la cual consta en la actualidad de una plantilla de 7.155 hombres.
+
+La Agrupación de Tráfico de la Guardia Civil, en aras de un mejor servicio a los ciudadanos, está empeñada en un plan de modernización, que se lleva a cabo con una mayor especialización de su personal y una renovación de su material, lo que aconseja, junto con el volumen de su plantilla que, a partir de este momento, el mando de la misma sea desempeñado por un General de Brigada de la Guardia Civil.
+
+En su virtud, a propuesta de de los Ministros de Defensa y del Interior, con aprobación del Ministerio para las Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 6 de mayo de 1988,
+
+DISPONGO:
+
+### Artículo 1
+
+El mando de la Agrupación de Tráfico de la Guardia Civil será ejercido por un General de Brigada de la Guardia Civil, de la Escala activa, grupo Mando de Armas.
+
+### Artículo 2
+
+El Ministerio de Economía y Hacienda realizará las modificaciones presupuestarias pertinentes para la aplicación del presente Real Decreto.
+
+## DISPOSICIÓN FINAL
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 6 de mayo de 1988.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes
+
+y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ

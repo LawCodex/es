@@ -1,0 +1,157 @@
+---
+title: "Real Decreto 6/1995, de 13 de enero, por el que se regula el régimen de retribuciones de los funcionarios destinados en el extranjero"
+identifier: "BOE-A-1995-2730"
+eli: "https://www.boe.es/eli/es/rd/1995/01/13/6"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1995-01-13
+published: 1995-02-02
+in_force_from: 1995-02-03
+last_amended: 2001-02-11
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 28"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-2730"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 6/1995, de 13 de enero, por el que se regula el régimen de retribuciones de los funcionarios destinados en el extranjero
+
+La Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, en sus artículos 23 y 24, estableció las bases de un nuevo sistema retributivo de aplicación al personal de las Administraciones públicas, previéndose en su artículo 1.2 que se podrían dictar normas específicas para adecuarlas a las peculiaridades de, entre otros, los funcionarios destinados en el extranjero.
+
+Al amparo de esta previsión se dictó el Real Decreto 1404/1986, de 23 de mayo, que reguló inicialmente el régimen de retribuciones de dichos funcionarios, norma que fue modificada de forma sustancial por el Real Decreto 1239/1988, de 14 de octubre, como consecuencia de la entrada en vigor de la nueva normativa sobre relaciones de puestos de trabajo dictada entre una y otra fecha y de la experiencia adquirida en ese intervalo de tiempo en la aplicación efectiva de la normativa inicial.
+
+Con posterioridad a la publicación del Real Decreto 1239/1988 citado se han producido modificaciones de los regímenes retributivos en territorio nacional de determinados colectivos funcionariales que inciden en su aplicación en el extranjero y se han planteado algunos problemas interpretativos de la propia normativa vigente, que aconsejan la introducción de las pertinentes adaptaciones de su contenido, por lo que razones de seguridad jurídica determinan la necesidad de aprobar una nueva disposición reglamentaria que sustituya a las anteriores, refundiéndolas e incorporando al mismo tiempo las modificaciones precisas.
+
+Por otra parte, la disposición final tercera de la Ley 17/1989, de 19 de julio, reguladora del régimen del personal militar profesional, establece que el Gobierno procederá a adecuar siempre que sea necesario el sistema retributivo de los miembros de las Fuerzas Armadas al de los funcionarios civiles incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, por lo que resulta procedente que las mismas modificaciones que se introducen con carácter general se apliquen a la normativa específica de las retribuciones del personal militar destinado en el extranjero, reguladas en la disposición adicional primera del Reglamento General de Retribuciones del Personal de las Fuerzas Armadas, aprobado por Real Decreto 1494/1991, de 11 de octubre, unificando ambas en una sola norma común para el personal funcionario civil y militar de la Administración del Estado.
+
+En virtud de ello, a propuesta conjunta de los Ministros de Economía y Hacienda y para las Administraciones Públicas, y previo informe de la Comisión Superior de Personal, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 13 de enero de 1995,
+
+## DISPONGO:
+
+### Artículo 1.
+
+Las normas contenidas en este Real Decreto son de aplicación al personal funcionario civil y militar de la Administración General del Estado, que se halle destinado en las misiones diplomáticas, representaciones permanentes ante organizaciones internacionales, oficinas consulares e instituciones y servicios de la Administración General del Estado en el extranjero, así como en aquellos puestos de trabajo de los distintos Departamentos que se recojan en las correspondientes relaciones de puestos de trabajo con residencia en el exterior cuando así sea expresa y previamente autorizado por el Ministerio de Asuntos Exteriores.
+
+> Se modifica por el art. 1 del Real Decreto 3450/2000, de 22 de diciembre. Ref. BOE-A-2001-736
+
+> Esta modificación surte efectos económicos a partir del 1 de enero de 2000, según establece la disposición final 2.
+
+### Artículo 2.
+
+1\. A los funcionarios destinados en el extranjero les serán de aplicación las mismas normas sobre retribuciones establecidas para los que prestan servicios en territorio nacional y aquellas otras específicas que, como adecuación a las peculiaridades de dichos destinos, se dictan en este Real Decreto en virtud de lo establecido en el artículo 1.2 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, y en la disposición final tercera de la Ley 17/1989, de 19 de julio, reguladora del Régimen del personal militar profesional.
+
+2\. El personal funcionario con destino en el extranjero tendrá derecho a percibir la indemnización por equiparación del poder adquisitivo y por calidad de vida que se regula en el artículo 4 de este Real Decreto.
+
+3\. Asimismo podrá percibir las indemnizaciones por razón del servicio en las cuantías y condiciones fijadas en la correspondiente normativa específica, y las indemnizaciones por representación y por educación reguladas en los artículos 5 y 6 de la presente norma.
+
+### Artículo 3.
+
+1\. Las cuantías de las retribuciones básicas, según grupos de clasificación de los funcionarios respectivos y las correspondientes al complemento de destino, serán las que, con carácter general, se fijen en las Leyes de Presupuestos Generales del Estado.
+
+2\. Los niveles del complemento de destino y los importes del complemento específico serán los derivados de lo dispuesto en el artículo 15.1, d) y e), de la Ley 30/1984, de 2 de agosto, y en sus normas de desarrollo, así como en el artículo 4, 2 y 3, y, en su caso, en el artículo 6 del Reglamento General de Retribuciones del Personal de las Fuerzas Armadas.
+
+### Artículo 4.
+
+1\. A fin de equiparar el poder adquisitivo y de compensar la disminución de la calidad de vida, derivados de las distintas condiciones que se dan en los países de destino en relación con las existentes en España, los funcionarios en el extranjero percibirán una indemnización por tales conceptos, que se determinará mediante la aplicación a sus retribuciones de los siguientes módulos:
+
+a) Módulo de equiparación del poder adquisitivo, que paliará los efectos de los tipos de cambio y las diferencias de los niveles de precios entre los países de destino y España, en valores fijados según los dos siguientes grupos:
+
+1.º Tipo I. Se aplicará a los funcionarios que sufragan sus propios gastos de vivienda por no ofrecerles la Administración del Estado vivienda o alojamiento.
+
+2.º Tipo II. Se aplicará a los funcionarios que no sufragan sus propios gastos de vivienda. Tendrá un valor inferior al anterior, a efectos de absorber la compensación por vivienda incorporada en el tipo I.
+
+b) Módulo de calidad de vida, que estará en función de factores como lejanía, clima, insalubridad, incomunicación, situación de violencia o guerra, inseguridad ciudadana, y otros similares que puedan disminuir la calidad de vida del funcionario en relación a España.
+
+2\. El Ministro de Economía y Hacienda, previa consulta con los Ministerios interesados, fijará los módulos a que se refiere el apartado anterior del presente artículo y procederá a su actualización, al menos anual, comunicando a los distintos Departamentos ministeriales los correspondientes valores.
+
+En todo caso, los módulos de equiparación del poder adquisitivo, tipos I y II, para cada país serán objeto de ajuste en función de las variaciones del tipo de cambio de la correspondiente divisa de referencia. A este fin, en la Orden del Ministerio de Economía y Hacienda por la que se actualizan los módulos se fijará un tipo de cambio de base. Cuando el cambio de la divisa supere, al alza o a la baja, dicho cambio de base en un determinado porcentaje durante un determinado número de días, se modificarán los módulos de equiparación del poder adquisitivo y el tipo de cambio de base en el mismo sentido. El porcentaje y el número de días mencionados se determinarán en la citada Orden.
+
+El sistema de ajuste descrito en el párrafo anterior será de aplicación exclusivamente en el período comprendido entre dos Ordenes de actualización sucesivas, en las que se fijará el valor de los módulos de calidad de vida y equiparación del poder adquisitivo, así como la divisa de referencia y el tipo de cambio de base, mediante el estudio de indicadores internacionales adecuados.
+
+A los efectos anteriores, se entiende por divisa de referencia la divisa o bolsa de divisas elegida para cada país en función de su estabilidad, y por tipo de cambio de la divisa el tipo oficial vendedor en el Mercado de Divisas publicado por el Banco de España en el «Boletín Oficial del Estado».
+
+3\. Cuando se disfruten licencias y permisos o se desempeñen comisiones de servicios o, en general, destinos provisionales fuera del país extranjero por el que se percibe la indemnización que se regula en el presente artículo, ésta podrá experimentar en su cuantía las adecuaciones que se establezcan en las disposiciones de desarrollo de la presente norma, al objeto de tener en cuenta de forma efectiva el tiempo de servicios realmente prestados en dicho país.
+
+4\. La cuantía de la indemnización regulada en este artículo será la resultante de multiplicar el importe de la retribución íntegra obtenida de la suma del sueldo (incluida su repercusión en pagas extraordinarias), el complemento de destino correspondiente al nivel del puesto de trabajo desempeñado (sin repercusión del grado personal o equivalente) y el complemento específico (con exclusión de los componentes del mismo vinculados a los años de servicio o a otras circunstancias retributivas de carácter personal), por el producto de los módulos correspondientes disminuido en una unidad, según la fórmula (S14 + CD + CE) (M1 x M2 - 1), donde:
+
+S14 = Sueldo anual, más repercusión en pagas extraordinarias.
+
+CD = Complemento de destino anual.
+
+CE = Complemento específico anual.
+
+M1 = Módulo de equiparación del poder adquisitivo.
+
+M2 = Módulo de calidad de vida.
+
+Si el producto M1 × M2 resultara menor que la unidad, se elevará hasta dicho número.
+
+5\. Sin perjuicio de lo dispuesto en el artículo 2.1 anterior, la indemnización por destino en el extranjero comenzará a devengarse desde el día de la toma de posesión de un puesto en el extranjero y continuará devengándose después del cese en dicho puesto cuando el destino siguiente lo sea también en país extranjero. La indemnización dejará de devengarse a partir del día siguiente al del cese en un puesto del extranjero si el destino siguiente lo es en territorio nacional.
+
+Los módulos a aplicar en el caso de cambio de país de destino en el extranjero serán los correspondientes a aquél en que se produce el cese, durante el mes en que dicho cese se haya producido, y los propios del país del nuevo puesto de trabajo a partir del mes siguiente.
+
+Las retribuciones a las que se aplicarán los módulos que dan lugar a la indemnización por destino en el extranjero serán las propias del puesto que se ocupe o se haya ocupado en el extranjero.
+
+> Se modifican los apartados 1, 3 y 5 por los arts. 2, 3 y 4 respectivamente del Real Decreto 3450/200, de 22 de diciembre. [Ref. BOE-A-2001-736](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-736)
+
+> Esta modificación surte efectos económicos a partir del 1 de enero de 2000, según establece la disposición final 2.
+
+### Artículo 5.
+
+1\. Los funcionarios que ocupen puestos de trabajo que conlleven gastos significativos de representación recibirán una indemnización por este concepto, cuya cuantía se fijará en función del puesto desempeñado.
+
+2\. Los puestos de trabajo con derecho a indemnización por representación serán determinados por el Ministerio de Economía y Hacienda, previa consulta con los Ministerios interesados.
+
+### Artículo 6.
+
+1\. Los funcionarios destinados en países en los que los estudios cursados en su sistema público educativo presenten, por razones de índole lingüística, cultural o pedagógica, grandes divergencias con los oficialmente vigentes en cada momento en España, podrán obtener una indemnización por cada hijo o menor a cargo, de menos de veinte años, efectivamente escolarizado en el país de destino.
+
+2\. El Ministerio de Hacienda determinará, previo informe del de Educación, Cultura y Deporte, las condiciones en que se tendrá derecho a percibir la indemnización por educación. Asimismo, determinará los límites máximos de indemnización, así como el procedimiento aplicable para la justificación, pago y contabilización de dichos gastos.
+
+Entre las condiciones a que se refiere el párrafo anterior podrán considerarse las del destino en determinados países así como las derivadas del respeto a la libre elección, por primera vez, del idioma y el sistema educativo, en general, o los planes de estudio, en particular, en que vaya a desarrollarse la educación del hijo o menor a cargo, y a la opción de continuidad en ellos, incluso cuando los estudios, excepcionalmente, deban realizarse en España o, en general, en país distinto al de destino.
+
+> Se modifica por el art. 5 del Real Decreto 3450/2000, de 22 diciembre. [Ref. BOE-A-2001-736](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-736)
+
+> Esta modificación surte efectos económicos a partir del 1 de enero de 2000, según establece la disposición final 2.
+
+### Artículo 7.
+
+1\. El importe de las retribuciones que, en virtud de lo dispuesto en el presente Real Decreto, corresponda percibir a los funcionarios destinados en el extranjero se computará siempre en pesetas, realizándose el pago en esta moneda o en cualquier otra divisa convertible, previa autorización del Ministerio de Economía y Hacienda.
+
+2\. No podrá variarse la divisa de pago en tanto no haya transcurrido al menos un año desde el momento de su fijación, salvo casos excepcionales que deberán ser autorizados por el Ministerio de Economía y Hacienda.
+
+### Disposición adicional primera.
+
+Los funcionarios destinados en el extranjero que, como consecuencia de la aplicación de lo dispuesto en el artículo 4.4 de la presente norma, experimenten una disminución en el total de sus retribuciones anuales no derivada de la actualización regulada en el apartado 2 del mismo artículo, tendrán derecho a un complemento personal y transitorio por la diferencia. Dicho complemento será objeto de absorción por cualquier futura mejora retributiva según determinen las correspondientes Leyes de presupuestos.
+
+### Disposición adicional segunda.
+
+Las referencias que el artículo 4, epígrafe 3, apartado cuarto, del Real Decreto 1848/1991, de 30 de diciembre, por el que se aprueba el Reglamento del Impuesto sobre la Renta de las Personas Físicas, hace a los artículos 3, 4 y 5 del Real Decreto 1404/1986, de 23 de mayo, modificado por Real Decreto 1239/1988, de 14 de octubre, se entenderán referidas a los artículos 4, 5 y 6 del presente Real Decreto.
+
+### Disposición derogatoria primera.
+
+Quedan derogados los Reales Decretos 1404/1986, de 23 de mayo, y 1239/1988, de 14 de octubre, así como la disposición adicional primera del Reglamento General de Retribuciones del Personal de las Fuerzas Armadas, aprobado por Real Decreto 1494/1991, de 11 de octubre.
+
+### Disposición derogatoria segunda.
+
+Igualmente quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente norma.
+
+### Disposición final primera.
+
+Se autoriza a los Ministros de Economía y Hacienda y para las Administraciones Públicas, en el ámbito de sus respectivas competencias, a dictar las normas que sean precisas para la aplicación de lo dispuesto en el presente Real Decreto.
+
+### Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado» y surtirá efectos económicos a partir del día 1 de enero de 1995.
+
+Dado en Madrid a 13 de enero de 1995.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+ALFREDO PÉREZ RUBALCABA

@@ -1,0 +1,173 @@
+---
+title: "Orden de 14 de junio de 1976 por la que se dictan normas sobre medidas higiénico-sanitarias en perros y gatos de convivencia humana"
+identifier: "BOE-A-1976-13502"
+eli: "https://www.boe.es/eli/es/o/1976/06/14/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de la Gobernación"
+date: 1976-06-14
+published: 1976-07-14
+in_force_from: 1976-08-03
+last_amended: 2022-12-21
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 168"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1976-13502"
+retrieved: 2026-10-11
+---
+
+# Orden de 14 de junio de 1976 por la que se dictan normas sobre medidas higiénico-sanitarias en perros y gatos de convivencia humana
+
+Téngase en cuenta que esta Orden no será de aplicación a los perros-guia en aquello que se oponga a lo dispuesto en el Real Decreto 3250/1983, de 7 de diciembre. [Ref. BOE-A-1984-1](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-1), según establece su disposición derogatoria.
+
+Ilustrísimos señores:
+
+El Decreto de 17 de mayo de 1952 por el que se declara obligatorio el registro y matrícula de los perros y su vacunación por cuente de los dueños, autoriza en su artículo décimo al Ministro de la Gobernación para dictar las normas que puedan requerirse para la ejecución y desarrollo del mismo.
+
+A fin de evitar ciertos problemas que los perros y gatos pueden crear a la sociedad en que conviven, se hace aconsejable poner en práctica medidas complementarias al citado Decreto. Concretamente la estrecha relación de aquellos animales con el hombre y los peligros de difusión de diversas enfermedades, entre las que destaca la rabia, obligan a la adopción de especiales medidas preventivas.
+
+En su virtud, a propuesta de las Direcciones Generales de Sanidad y de Administración Local,
+
+Este Ministerio ha tenido a bien disponer:
+
+## Artículo 1.
+
+Los propietarios o poseedores de perros están obligados a censarlos en los Servicios Municipales correspondientes y a proveerse de la Tarjeta Sanitaria Canina al cumplir el animal los tres meses de edad.
+
+Las bajas por muerte o desaparición de los animales serán comunicadas por los propietarios o poseedores de los mismos a la Oficina del Censo Canino en el plazo de diez días, a contar desde que aquéllas se produjeran, acompañando a tales efectos la Tarjeta Sanitaria del animal. Los propietarios o poseedores de perros que cambien de domicilio o transfieran la posesión del animal, lo comunicarán en el plazo de diez días a la Oficina del Censo Canino.
+
+## Artículo 2.
+
+Los perros lazarillos, aunque se hallan exentos de arbitrios, habrán de ser matriculados y vacunados, y para circular irán provistos de correa o cadena y collar con la medalla de control sanitario, como el resto de los perros.
+
+## Artículo 3.
+
+Se considerará perro vagabundo aquel que no tenga dueño conocido, domicilio, ni esté censado, o aquel que circule sin ser conducido por una persona en poblaciones o vías interurbanas. No tendrá, sin embargo, la consideración de perro vagabundo aquel que camine al lado de su amo con collar y medalla de control sanitario, aunque circunstancialmente no sea conducido sujeto por correa o cadena.
+
+> Se modifica por el art. 1 de la Orden de 16 de diciembre de 1976. [Ref. BOE-A-1977-2983](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-2983)
+
+## Artículo 4.
+
+En la medida y límites que resulte necesaria por razones sanitarias, podrá ordenarse la intensificación de la recogida de perros vagabundos en zonas y épocas determinadas.
+
+> Se modifica por el art. 1 de la Orden de 16 de diciembre de 1976. [Ref. BOE-A-1977-2983](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-2983)
+
+## Artículo 5.
+
+En las vías públicas los perros irán provistos de correa o cadena y collar con la medalla de control sanitario. El uso de bozal será ordenado por la autoridad municipal cuando las circunstancias sanitarias así lo aconsejen y mientras duren aquéllas. Deberán circular, en todo caso, con bozal aquellos perros cuya peligrosidad sea razonablemente previsible, dada su naturaleza y características.
+
+> Se modifica por el art. 1 de la Orden de 16 de diciembre de 1976. [Ref. BOE-A-1977-2983](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-2983)
+
+## Artículo 6.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria de la Orden de 16 de diciembre de 1976. [Ref. BOE-A-1977-2983](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-2983)
+
+## Artículo 7.
+
+Los perros vagabundos y los que, sin serlo, circulen en poblaciones o vías interurbanas desprovistos de collar con la chapa numerada de matrícula, serán recogidos por los servicios municipales o de las Diputaciones, según lo previsto en la Orden ministerial de 5 de diciembre de 1974, y a su sacrificio precederá un período de retención de tres días, durante el cual podrán ser recogidos por la persona que acredite ser su propietario o poseedor. Si la recogida del perro tuviere como motivo la carencia de chapa numerada de matrícula, el propietario o poseedor deberá obtenerla en el plazo de cinco días. Cuando el perro recogido fuera portador de collar con chapa numerada, el período de retención se ampliará a siete días.
+
+Durante la recogida o retención de perros se mantendrá a los animales en condiciones totalmente compatibles con los imperativos biológicos de su especie.
+
+Quienes infringieren daños graves o cometieren actos de crueldad y malos tratos contra animales domésticos o salvajes mantenidos en cautividad serán sancionados de acuerdo con lo dispuesto en el artículo 20 de esta Orden, mediante multa que será impuesta por el Gobernador civil.
+
+> Se modifica por los arts. 1 y 2 de la Orden de 16 de diciembre de 1976. [Ref. BOE-A-1977-2983](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-2983)
+
+## Artículo 8.
+
+Los perros que hayan mordido a una persona serán retenidos por los correspondientes servicios municipales o provinciales y se mantendrán en observación veterinaria durante catorce días.
+
+Los gastos ocasionados por las retenciones previstas en este artículo y en el anterior serán de cuenta del propietario poseedor del animal.
+
+## Artículo 9.
+
+Los Municipios, por sí o con la colaboración de las Diputaciones Provinciales, en el caso que determina la Orden de 5 de diciembre de 1974, dispondrán de perreras en las adecuadas condiciones sanitarias para el albergue de los perros recogidos y que hayan de ser retenidos hasta ser reclamados por sus dueños o mantenidos en periodo de observación.
+
+Los medios empleados en la captura y transporte de perros vagabundos tendrán las condiciones higiénico-sanitarias precisas y sarán atendidos por personal debidamente capacitado.
+
+El sacrificio se realizará por procedimientos eutanásicos (barbitúricos, cámara de gas, etc.), prohibiéndose en absoluto el empleo de estricnina u otros venenos y procedimientos que ocasionen la muerte con sufrimientos.
+
+## Artículo 10.
+
+El traslado de perros y gatos en los medios de transporte público se regulará por las disposiciones vigentes y las que dicte el Ministerio de Obras Públicas o la autoridad competente en cada caso.
+
+> Se modifica por el art. 1 de la Orden de 16 de diciembre de 1976. [Ref. BOE-A-1977-2983](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-2983)
+
+## Artículo 11.
+
+1\. **(Derogado).**
+
+2\. Los dueños de establecimientos públicos y alojamientos de todo tipo, como hoteles, pensiones, restaurantes, bares, cafeterías y similares, podrán prohibir, a su criterio, la entrada y permanencia de perros en sus establecimientos. Aun contando con su autorización, se exigirá para dicha entrada y permanencia que los perros lleven en el collar la chapa numerada de matrícula, vayan provistos de su correspondiente bozal y sujetos por correa o cadena.
+
+Queda expresamente prohibida la entrada de perros y gatos en locales de espectáculos públicos deportivos y culturales.
+
+> Se deroga el apartado 1 por la disposición derogatoria única.a) del Real Decreto 1021/2022, de 13 de diciembre. [Ref. BOE-A-2022-21681](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21681)
+
+> Se modifica por el art. 1 de la Orden de 16 de diciembre de 1976. [Ref. BOE-A-1977-2983](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-2983)
+
+## Artículo 12.
+
+Queda prohibida la circulación o permanencia de perros y otros animales en las piscinas públicas durante la temporada de baños. Las autoridades municipales determinarán los puntos y las horas en que podrán circular o permanecer los perros sobre las playas de los respectivos términos municipales.
+
+> Se modifica por el art. 1 de la Orden de 16 de diciembre de 1976. [Ref. BOE-A-1977-2983](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-2983)
+
+## Artículo 13.
+
+La tenencia de perros en viviendas urbanas queda condicionada a las circunstancias higiénicas óptimas de su alojamiento, a la ausencia de riesgos en el aspecto sanitario y a la inexistencia de molestias para los vecinos que no sean las derivadas de la naturaleza misma del animal.
+
+> Se modifica por el art. 1 de la Orden de 16 de diciembre de 1976. [Ref. BOE-A-1977-2983](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-2983)
+
+## Artículo 14.
+
+Los correspondientes servicios de los Departamentos competentes podrán exigir la documentación precisa para la entrada de perros, gatos u otros animales domésticos en nuestro país, pudiendo ser sometidos, en caso necesario, a medidas de cuarentena.
+
+## Artículo 15.
+
+Los propietarios de perros o gatos que no deseen continuar poseyéndolos deberán entregarlos a la autoridad municipal. El incumplimiento de esta obligación será sancionado de acuerdo con lo dispuesto en el artículo 30. Se exceptúan los casos de compraventa en los perros, que deberá acreditarse con la posesión de la tarjeta sanitaria canina a nombre del nuevo propietario.
+
+> Se modifica por el art. 1 de la Orden de 16 de diciembre de 1976. [Ref. BOE-A-1977-2983](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-2983)
+
+## Artículo 16.
+
+Cuando sean objeto de traslado los gatos domésticos mayores de tres meses, serán vacunados contra la rabia (si no lo estuvieran) y provistos de la documentación sanitaria correspondiente, collar y chapa numerada de igual forma que se viene realizando con los perros. Cuando las circunstancias sanitarias así lo exijan, se podrá disponer que los gatos domésticos permanezcan encerrados.
+
+## Artículo 17.
+
+Los establecimientos de tratamiento, cuidados o alojamiento do animales dispondrán obligatoriamente de salas de espera con el fin de que éstos no permanezcan en la vía pública, escaleras, etc., antes de entrar en los citados establecimientos.
+
+## Artículo 18.
+
+Las Sociedades Protectoras de Animales estarán obligadas a que sus locales posean las condiciones higiénico-sanitarias y de seguridad adecuadas para el mantenimiento de los perros allí alojados.
+
+## Artículo 19.
+
+Las personas mordidas por un perro darán inmediatamente cuenta de ello a las autoridades sanitarias. Los propietarios o poseedores de perros mordedores están obligados a facilitar los datos correspondientes del animal agresor, tanto a la persona agredida o a sus represen tantea legales como a las autoridades competentes que lo soliciten.
+
+## Artículo 20.
+
+Las infracciones de lo dispuesto en esta Orden y las Ordenanzas municipales correspondientes serán sancionadas por la Alcaldía o a propuesta de la misma o de la Jefatura Provincial de Sanidad por los Gobernadores civiles, teniendo en cuenta las circunstancias que, como el peligro para la salud pública, la falta de colaboración ciudadana y al desprecio de normas elementales de convivencia puedan determinar una mayor o menor gravedad de aquéllas. Las sanciones que impongan los Alcaldes se ajustarán a lo dispuesto en las Ordenanzas municipales y en la Ley de Régimen Local en lo que se refiere a la cuantía de las mismas. Las que impongan los Gobernadores civiles estarán comprendidas entre 500 y 50.000 pesetas, todo ello sin perjuicio de pasar el tanto de culpa al Juzgado competente cuando así lo determinare la naturaleza de la infracción.
+
+## Artículo 21.
+
+Los Ayuntamientos, con arreglo a lo dispuesto en la Ley de Régimen Local y disposiciones complementarias, atenderán al censado, recogida y sacrificio de perros en cada término municipal con arreglo a lo ordenado en el Decreto de 17 de mayo de 1952, complementado por la Orden de 5 de diciembre de 1974, que establece la intervención de las Diputaciones Provinciales en esta materia como cooperación a los servicios de los Municipios de censo inferior a 5.000 habitantes. Para hacer frente a los gastos que éste ocasione, se utilizarán los medios económicos autorizados para las Corporaciones Locales.
+
+## Artículo 22.
+
+Por los Alcaldes de todos los Municipios se procederá a dictar un bando y dar la máxima publicidad al mismo para el cumplimiento de la presente Orden, en los casos en que las Ordenanzas municipales no se adapten a las prescripciones de la misma.
+
+## Artículo 23.
+
+Por las Direcciones Generales de Administración Local y de Sanidad se dictarán, dentro de sus respectivas competencias, las resoluciones complementarias con el fin de desarrollar esta Orden ministerial.
+
+Lo digo a VV. II. a los procedentes efectos.
+
+Dios guarde a VV. II.
+
+Madrid, 14 de junio de 1976.
+
+FRAGA IRIBARNE
+
+Ilmos. Sres. Directores generales de Sanidad y Administración Local.

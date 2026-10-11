@@ -1,0 +1,361 @@
+---
+title: "Orden de 15 de septiembre de 1986 por la que se aprueba el Reglamento de organización y funcionamiento interno del Consejo Social de la Universidad de Oviedo"
+identifier: "BOE-A-1986-24863"
+eli: "https://www.boe.es/eli/es/o/1986/09/15/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación y Ciencia"
+date: 1986-09-15
+published: 1986-09-19
+in_force_from: 1986-09-20
+last_amended: 1988-02-23
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 225"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-24863"
+retrieved: 2026-10-11
+---
+
+# Orden de 15 de septiembre de 1986 por la que se aprueba el Reglamento de organización y funcionamiento interno del Consejo Social de la Universidad de Oviedo
+
+Excelentísimo señor:
+
+El artículo 8 de la Ley 5/I985, de 21 de marzo, del Consejo Social de Universidades, establece que los Consejos Sociales de las Universidades sometidas al ámbito de aplicación de la Ley deberán elaborar su propio Reglamento de organización y funcionamiento interno y elevarlo a su aprobación por el Ministerio de Educación y Ciencia.
+
+En cumplimiento del referido mandato legislativo, el Consejo Social de la Universidad de Oviedo ha elaborado su Reglamento mediante el que se regulan los derechos y deberes de los Consejeros y la estructura, competencias y funcionamiento interno del Consejo;
+
+Visto eI texto del mismo, y considerando que su contenido se ajusta a la legalidad vigente,
+
+Este Ministerio ha dispuesto:
+
+#### Primero.
+
+Aprobar el Reglamento de organización y funcionamiento interno del Consejo Social de la Universidad de Oviedo que se inserta a continuación de la presente Orden.
+
+#### Segundo.
+
+El citado Reglamento entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Lo que comunico a V. E. para su conocimiento y efectos.
+
+Madrid, 15 de septiembre de 1986.
+
+MARAVALL HERRERO
+
+Excmo. Sr. Secretario de Estado de Universidades e Investigación.
+
+## REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO INTERNO DEL CONSEJO SOCIAL DE LA UNIVERSIDAD DE OVIEDO
+
+## TÍTULO I — Del Consejo Social y de los Consejeros
+
+#### Art. 1.º
+
+El Consejo Social de la Universidad de Oviedo es el órgano colegiado de dicha Institución a través del cual se manifiesta la participación de la Sociedad en el servicio público de la Educación superior en Asturias.
+
+#### Art. 2.º
+
+El Consejo Social de la Universidad de Oviedo se rige por lo dispuesto en el título II de la Ley Orgánica de Reforma Universitaria, por la Ley 5/1985, de 21 de marzo, por los Estatutos de la Universidad y por el presente Reglamento de organización y funcionamiento interno.
+
+#### Art. 3.º
+
+El Consejo Social está compuesto:
+
+a) En sus dos quintas partes, por una representación de la Junta de gobierno elegida por ésta de entre sus miembros y de la que formarán parte necesariamente el Rector, el Secretario general y eI Gerente. En todo caso habrá una representación de los Profesores, estudiantes y personal de Administración y Servidos.
+
+b) En las tres quintas partes restantes, por una representación de los intereses sociales en los términos fijados por la legislación vigente. El Presidente del Consejo Social será nombrado de entre los miembros representantes de los intereses sociales por el órgano y con las formalidades previstas en el artículo 2 de la Ley 5/1985, de 21 de marzo.
+
+#### Art. 4.º
+
+Son competencias del Consejo Social:
+
+a) La aprobación del presupuesto anual de la Universidad y la programacion plurianual de la misma, a propuesta de la Junta de Gobierno.
+
+b) Supervisar las actividades de caracter económico de la Universidad y el rendimiento de sus servicios. Para el seguimiento de la ejecucion presupuestaria y del correcto funcionamiento de los servicios universitarios, el Consejo Social podra recabar del rectorado cuantos datos, documentos u opiniones redunden en el mejor ejercicio de dichas competencias.
+
+c) Proponer la creacion o supresion de facultades y escuelas tecnicas superiores, escuelas universitarias e institutos universitarios y los convenios de adscripcion de instituciones o centros como institutos universitarios y de colegios o residencias como colegios mayores o residencias universitarias.
+
+d) Establecer, previo informe del Consejo de Universidades, las normas que regulen la permanencia en la Universidad de aquellos estudiantes que no superen las pruebas correspondientes en los plazos fijados de acuerdo con las caracteristicas de los respectivos estudios.
+
+e) Aprobar y modificar la plantilla del personal de administracion y servicios, sin perjuicio de lo previsto en el articulo 55 de la Ley Organica de Reforma Universitaria.
+
+f) Designar, en su caso, al representante o representantes de la parte social que haya de integrarse en el Servicio de Inspeccion nombrado por el Rector.
+
+g) Acordar con caracter individual y a propuesta de la Junta de Gobierno, la asignación de otros conceptos retributivos adicionales a los uniformes del régimen retributivo del profesorado universitario en atención a exigencias docentes o investigadoras o meritos relevantes.
+
+h) Autorizar la adquisición, por contratación directa, de los bienes de equipo necesarios para el desarrollo de sus programas de investigacion.
+
+i) Acordar las transferencias de gasto a que se refiere el articulo 55.3 de la Ley Organica de Reforma Universitaria.
+
+j) Aprobar los incrementos de gasto derivados de convenios con instituciones publicas o privadas.
+
+k) Autorizar, sin perjuicio de la ulterior aprobacion por el principado de asturias, las propuestas de la Junta de Gobierno para concertar operaciones de credito o que superen el periodo de vigencia del presupuesto.
+
+l) Fijar las tasas academicas y demás derechos correspondientes a estudios no oficiales impartidos por la Universidad.
+
+m) La fijación del importe de los derechos de inscripción y expedición de títulos que, en su caso, se refieran a los cursos y actividades del programa anual de extensión universitaria aprobado por la Junta de Gobierno, y la determinacion, en su caso, de la retribucion asignada al profesorado encargado del desarrollo de las actividades propias de este servicio.
+
+n) Determinar, dentro de los limites legales y reglamentarios, la retribucion de los profesores visitantes.
+
+ñ) Informar sobre el nombramiento del Gerente de la Universidad.
+
+o) Promover la ayuda economica de la sociedad a la Universidad y el establecimiento de convenios con entidades publicas y privadas que contribuyan a perfeccionar y completar la formacion de los alumnos y faciliten su empleo.
+
+p) Solicitar de las administraciones publicas competentes la realización de informes e inspecciones para controlar y evaluar el rendimiento de los servicios docentes.
+
+q) Fijación del calendario escolar a propuesta de la Junta de Gobierno.
+
+r) Cualesquiera otras que le sean reconocidas por la legislacion vigente.
+
+> Se modifica por la Orden de 18 de febrero de 1988. [Ref. BOE-A-1988-4485](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-4485)
+
+#### Art. 5.º
+
+Los Consejeros disponen de los siguientes derechos:
+
+a) Recabar los datos o documentos necesarios para el ejercicio de sus funciones, tanto de la Universidad como del Ministerio de Educación y Ciencia y, en su caso, del órgano competente del Principado de Asturias. La petición se formulará ante el Presidente del Consejo, el cual la trasladará al Rector para su ejecución.
+
+b) Acceder a la documentación y recabar la información de los temas o estudios que desarrollan las Comisiones o Grupos de trabajo del Consejo.
+
+c) Presentar mociones y sugerencias para la adopción de acuerdos por el Pleno o para el estudio en Comisión de una determinada materia.
+
+d) Percibir las dietas e indemnizaciones que pudieran corresponderles, de acuerdo con la legislación vigente por asistencia a las sesiones y desplazamientos, cuya efectividad y, en su caso, cuantía se determinarán al elaborarse el presupuesto del Consejo.
+
+e) Ostentar, en cuantos actos hayan sido comisionados por el Consejo, la representación de éste, sin perjuicio de la atribución ordinaria que corresponde al Presidente.
+
+#### Art. 6.º
+
+Son deberes de los Consejeros:
+
+a) Asistir a las sesiones del Pleno y formar parte de las Comisiones para las que hayan sido designados.
+
+b) Observar en todo caso las normas sobre incompatibilidades que pudieran afectarles. En particular, no podrán simultanear la vocalía del Consejo con el desempeño, por si o mediante persona interpuesta, de cargos directivos en Entidades a las que la Universidad adjudique obras, servicios y suministros, así como con la participación superior al 10 por 100 en el capital de la misma.
+
+c) En todo caso los representantes de los intereses sociales no podrán simultanear la vocalía del Consejo con la condición de miembros de la Comunidad universitaria, salvo que, en su caso, se hallasen con anterioridad a su designación, en las situaciones de excedencia voluntaria o jubilación.
+
+#### Art. 7.º
+
+1\. La pérdida de la condición de Consejero se produce:
+
+a) Por cumplimiento del plazo para el que haya sido elegido, sin perjuicio de las posibles renovaciones.
+
+b) Por renuncia.
+
+c) Por fallecimiento.
+
+d) Por incapacitación declarada por decisión judicial firme que conlleve la inhabilitación o supresión para cargos públicos.
+
+e) En el caso de los Vocales designados por Sindicatos o Asociaciones empresariales, por revocación de los órganos competentes de dichas Entidades.
+
+2\. La inasistencia no justificada a dos reuniones consecutivas o a tres discontinuas a lo largo del año será causa suficiente para que el Pleno proponga el cese a la autoridad u organo que designo al Consejero, al igual que la inasistencia a más de la mitad de las sesiones celebradas en el año aunque la ausencia fuese justificada.
+
+3\. Si en el plazo de un mes desde que concurra en un Consejero una causa de incompatibilidad éste no hubiere ejercitado la elección pertinente por un puesto u otro, el Pleno propondrá el cese del Consejero incurso en incompatibilidad legal al órgano o autoridad que lo hubiere designado.
+
+> Se modifica el apartado 2 por la Orden de 18 de febrero.[Ref. BOE-A-1986-24863](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-24863)
+
+#### Art. 8.º
+
+La sustitución de los Consejeros representantes de los intereses sociales se producirá en la forma y supuestos fijados por Ley.
+
+Los representantes de la Junta de Gobierno cesarán conforme a las previsiones que se contengan en los Estatutos de la Universidad y, en todo caso, al dejar de formar parte de dicho órgano ordinario de gobierno.
+
+#### Art. 9.º
+
+Los Consejeros, a través de la Presidencia, podrán solicitar la presencia ante el Pleno o las Comisiones de personas ajenas al Consejo pero directamente relacionadas con los temas del orden del día. Dicha personación nunca implicará permanencia durante las votaciones.
+
+## TÍTULO II — De los órganos del Consejo
+
+#### Art. 10. Del Presidente del Consejo.
+
+1\. Son funciones del Presidente:
+
+a) Ostentar la representación del Consejo Social.
+
+b) Garantizar el cumplimiento de los fines del Consejo Social velando por el adecuado funcionamiento de sus servicios.
+
+c) Fijar el orden del día de las sesiones del Consejo.
+
+d) Convocar, presidir y levantar las sesiones del Pleno y de las Comisiones y dirigir sus deliberaciones.
+
+e) Nombrar y cesar al Secretario del Consejo.
+
+f) En su caso, las funciones derivadas de la aplicación del artículo 28 de este Reglamento.
+
+2\. En caso de ausencia, vacante o enfermedad será sustituido provisionalmente por el Consejero representante de los intereses sociales en quien hubiera delegado formalmente y, en su defecto, por el Consejero de más edad de entre éstos.
+
+#### Art. 11.
+
+El Presidente desempeñará sus funciones a tiempo parcial. El Pleno del Consejo determinará, en su caso, la cuantía y el concepto de sus retribuciones, en el marco de lo que legalmente se disponga al respecto.
+
+#### Art. 12. Del Pleno del Consejo Social.
+
+1\. Corresponde al Pleno conocer y pronunciarse sobre las materias relacionadas con las competencias que tiene el Consejo Social atribuidas y que se contienen en el artículo 4 del presente Reglamento y en las disposiciones vigentes.
+
+2\. Asimismo, asumirá todas las funciones necesarias para el cumplimiento de los fines del Consejo que no estén expresamente atribuidas al Presidente y, especialmente:
+
+a) La elaboración del Reglamento del Régimen, Organización y Funcionamiento en el plazo legalmente establecido, así como su modificación y su traslado a la autoridad correspondiente a efectos de aprobación.
+
+b) La elaboración de sus propias partidas presupuestarias anuales para su inclusión en el presupuesto de la Universidad.
+
+c) La aprobación de la Memoria anual del Consejo Social.
+
+d) Acordar la propuesta de cese de cualquiera de sus miembros por incompatibilidad o inasistencia a las sesiones en los supuestos a que se refiere el artículo 7.2 del presente Reglamento.
+
+e) Crear las Comisiones Permanentes o eventuales que se consideren necesarias.
+
+f) Elegir los miembros del Consejo que han de formar parte de las comisiones eventuales y grupos de trabajo.
+
+g) Determinar los Vocales que representen al Consejo en actividades externas.
+
+#### Art. 13. De las Comisiones.
+
+El Consejo Social de la Universidad de Oviedo constituirá en su seno una Comisión Permanente sin perjuicio de las Comisiones eventuales o grupos de trabajo que, conforme a lo dispuesto en el artículo anterior, determine el Pleno para el estudio de problemas concretos.
+
+#### Art. 14. Composición y competencias de la Comisión Permanente.
+
+1\. La Comisión Permanente del Consejo Social estará formada por:
+
+a) El Presidente del Consejo.
+
+b) Un Vocal de entre los elegidos por el Ministerio de Educación y Ciencia.
+
+c) Un representante de los Vocales designados por los órganos estatutarios del Principado de Asturias.
+
+d) Un representante de las Asociaciones empresariales.
+
+e) Un representante de las Entidades sindicales.
+
+f) Un miembro de los Vocales natos representantes de la Junta de Gobierno de la Universidad.
+
+g) Un miembro de los Vocales electivos de la Junta de Gobierno de la Universidad.
+
+Actuará como Secretario, con voz pero sin voto, el que lo sea del Consejo.
+
+2\. La elección de los Consejeros a que se refieren los epígrafes b, c, d, e, f y g del número anterior se realizará, dentro de una sesión plenaria, por los miembros de cada representación.
+
+3\. En todo caso corresponde a la Comisión Permanente el estudio y elaboración de Memorias, informes o propuestas cuyo contenido y resolución última sea competencia del Pleno.
+
+4\. El Pleno, asimismo, podrá delegar la resolución de asuntos de trámite en la Comisión Permanente.
+
+## TÍTULO III — Del funcionamiento Interno
+
+#### Art. 15.
+
+El Pleno del Consejo Social se reunirá, con carácter ordinario, al menos una vez al trimestre, para el ejercicio periódico de sus atribuciones. Con carácter extraordinario se reunirá cuando así lo decida el Presidente o cuando lo solicite un tercio de los Vocales mediante escrito en el que se especifiquen los asuntos que justifiquen la solicitud.
+
+La Comisión Permanente se reunirá al menos una vez al mes o cuando así lo decida el Presidente o lo solicite un tercio de sus miembros.
+
+#### Art. 16.
+
+Sin perjuicio de lo dispuesto en el apartado anterior, el presidente podrá incluir, con caracter extraordinario por razones de maxima urgencia, asuntos no inicialmente previstos en el Orden del dia de un Pleno ordinario, siempre que se respete el plazo de notificacion previa de veinticuatro horas a que se refiere el último inciso del artículo 17.
+
+> Se modifica por la Orden de 18 de febrero de 1998. [Ref. BOE-A-1988-4485](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-4485)
+
+#### Art. 17.
+
+En cumplimiento de los mínimos a que se refiere el artículo 102.1 de los Estatutos de la Universidad y en atención a la singular composición del Consejo Social, la convocatoria de las sesiones ordinarias de éste se efectuará con una antelación, al menos, de diez días y la de las sesiones extraordinarias con una antelación mínima de veinticuatro horas.
+
+#### Art. 18.
+
+Los órganos del Consejo Social se entenderán válidamente constituidos cuando asista a sus reuniones la mitad más uno de sus miembros. En segunda convocatoria quedarán constituidos si asiste la tercera parte de sus miembros.
+
+#### Art. 19.
+
+La Presidencia dirigirá las deliberaciones y el turno de intervención y cuando considere que un asunto ha sido suficientemente tratado ordenará su votación, siempre que exista el correspondiente quórum, de acuerdo con el artículo anterior.
+
+#### Art. 20.
+
+1\. Los acuerdos de los órganos del Consejo Social serán adoptados por mayoría simple, entendiéndose que ésta se produce cuando hay más votos a favor que en contra, no contabilizándose las abstenciones. Dirimirá los empates el voto del Presidente.
+
+2\. Se entenderá como forma de aprobación el mero asentimiento de los miembros del Consejo.
+
+3\. Las votaciones podrán efectuarse mediante:
+
+a) Voto a mano alzada.
+
+b) Llamamiento público, en el que cada Vocal manifieste oralmente su aprobación, desaprobación o abstención.
+
+c) Papeleta secreta, cuando así lo decida la mayoría simple de los asistentes.
+
+#### Art. 21.
+
+1\. El Secretario del Consejo Social levantará acta de cada sesión plenaria, con expresión de:
+
+a) Identidad de las personas que hayan asistido.
+
+b) Circunstancia de lugar y tiempo en que se haya celebrado, especificando la hora de comienzo y de terminación.
+
+c) Puntos principales de deliberación.
+
+d) Forma y resultado de la votación.
+
+e) Contenido de los acuerdos.
+
+f) Votos contrarios al acuerdo adoptado y los motivos que lo justifiquen de aquél o aquéllos que, habiendo votado en contra, así lo soliciten. Se exceptúa el supuesto de votación mediante papeleta secreta.
+
+2\. Las actas serán firmadas por el Secretario, con el visto bueno del Presidente, y se aprobarán en la misma sesión o en la inmediatamente posterior.
+
+## TÍTULO IV
+
+## De la Organización administrativa, del Consejo
+
+#### Art. 22.
+
+Para el adecuado cumplimiento de sus funciones, el Consejo Social dispondrá de una Secretaría dotada de los medios personales y materiales que figurarán en las partidas presupuestarias del Consejo Social, dentro de los presupuestos de la Universidad.
+
+#### Art. 23.
+
+1\. La dirección de la Secretaría corresponderá al Secretario del Consejo Social, el cual será nombrado por el Presidente y asistirá a las sesiones plenarias de la Comisión Permanente con voz pero sin voto.
+
+2\. El Secretario velará por la inmediata puesta en conocimiento al Presidente del Consejo Social de todos los dictámenes, mociones o asuntos que tengan entrada en la Secretaría, a efectos de la convocatoria reglamentaria del Pleno o su remisión para estudio por la Comisión Permanente.
+
+3\. El Secretario del Consejo Social dará fe de cuantos acuerdos adopte el órgano, así como de cuantas cuestiones y hechos conozca por razón de su cargo dentro de las competencias privativas del Consejo.
+
+4\. Corresponde al Secretario del Consejo Social la custodia de Ios libros de actas y documentos depositados o dirigidos a dicho órgano.
+
+#### Art. 24.
+
+El Secretario del Consejo Social podrá desempeñar sus funciones a tiempo completo o a tiempo parcial. El concepto y la cuantía de las retribuciones que en cada caso le correspondan serán fijadas por el Pleno del Consejo en el marco de lo que legalmente se establezca.
+
+La Secretaría del Consejo puede ser desempeñada por un docente universitario en régimen de dedicación a tiempo completo; a salvo lo que disponga la legislación vigente; en su caso, las retribuciones que le correspondan se incorporarán a su complemento específico.
+
+#### Art. 25.
+
+El Consejo Social, previo informe motivado del Secretario, fijará la plantilla que deba ser destinada a sus dependencias.
+
+El Consejo Social se valdrá de los medios personales y materiales de la Universidad a fin de no duplicar Cuerpos ni servicios.
+
+Sin perjuicio de lo dispuesto en el apartado anterior, el Consejo Social podrá aprobar la convocatoria de plazas de personal de Administración y Servicios de acuerdo con la legislación sobre Función Pública.
+
+## TÍTULO V — Del régimen jurídico
+
+#### Artí. 26.
+
+Los acuerdos del Consejo Social de la Universidad de Oviedo son definitivos y agotan la vía administrativa, de acuerdo con lo dispuesto en el artículo 22 de la Ley Orgánica de Reforma Universitaria.
+
+#### Art. 27.
+
+Contra los acuerdos del Consejo Social lesivos de derechos o intereses legítimos cabrá interponer, previo recurso de reposición, los medios impugnatorios previstos en la legislación de la Jurisdicción Contencioso-Administrativa.
+
+#### Art. 28.
+
+La actividad administrativa desarrollada por el Consejo Social, de acuerdo con sus competencias y procedimientos, goza de cuantos privilegios y prerrogativas correspondan a la Universidad de Oviedo como Entidad pública con personalidad jurídica única.
+
+La ejecución de los acuerdos del Consejo Social que rebasen el ámbito de la organización interna corresponde al Rector de la Universidad, de acuerdo con el artículo 18, 1 de la Ley Orgánica de Reforma Universitaria. Todo ello sin perjuicio de las facultades delegaticias que se reconocen legal y estatutariamente al Rector.
+
+## TÍTULO VI — De la reforma del Reglamento
+
+#### Art. 29.
+
+La reforma del presente Reglamento procederá:
+
+a) Por imperativo legal.
+
+b) Por iniciativa del Presidente del Consejo.
+
+c) Por escrito motivado, instado por un tercio, al menos, de los Vocales del Consejo Social.
+
+### DISPOSICIÓN TRANSITORIA UNICA
+
+Sin perjuicio de lo dispuesto en el artículo 29 de este Reglamento, el Consejo Social procederá, al año de su entrada en vigor, a revisar el contenido del mismo.

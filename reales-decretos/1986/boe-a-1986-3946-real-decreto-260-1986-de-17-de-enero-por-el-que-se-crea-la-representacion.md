@@ -1,0 +1,105 @@
+---
+title: "Real Decreto 260/1986, de 17 de enero, por el que se crea la representación permanente de España ante las Comunidades Europeas"
+identifier: "BOE-A-1986-3946"
+eli: "https://www.boe.es/eli/es/rd/1986/01/17/260"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1986-01-17
+published: 1986-02-13
+in_force_from: 1986-02-14
+last_amended: 2012-05-24
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 38"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-3946"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 260/1986, de 17 de enero, por el que se crea la representación permanente de España ante las Comunidades Europeas
+
+Téngase en cuenta que la Representación Permanente de España ante las Comunidades Europeas se denominará en lo sucesivo Representación Permanente de España ante la Unión Europea, según establece el art. 4.1 del Real Decreto 2077/1995, de 22 de diciembre. [Ref. BOE-A-1995-27558](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27558)
+
+La integración de España en los órganos de decisión de las Comunidades exige, a partir de la entrada en vigor del Tratado de Adhesión, la supresión de la actual misión de España y la creación de una representación permanente ante las Comunidades Europeas, con nivel, estructura, tamaño y funciones similares a las representaciones permanentes de los países comunitarios acreditados en Bruselas y que responda, para el mejor cumplimiento de sus fines, a los principios de unidad de acción, jerarquización funcional y unidad de gestión administrativa.
+
+Estas reformas, que siguen la pauta marcada por la organización administrativa de los Estados miembros que juegan un papel mas relevante en la Comunidad y que están, a su vez, inspiradas en la propia dinámica de las tomas de decisión comunitarias, tienden a asegurar una mas eficaz participación en dicha toma de decisiones, así como a garantizar una adecuada coordinación con los órganos de la Administración Central del Estado encargados de las materias comunitarias.
+
+En su virtud, a iniciativa del Ministerio de Asuntos Exteriores y a propuesta del Ministerio de la Presidencia, previa deliberación del Consejo de Ministros en su reunión del día 17 de enero de 1986,
+
+DISPONGO:
+
+## Art. 1.
+
+1\. Se crea la Representación Permanente de España ante la Unión Europea, que tendrá el carácter de unidad orgánica dependiente administrativa y financieramente del Ministerio de Asuntos Exteriores a través de la Secretaría de Estado para la Unión Europea.
+
+2\. La Representación Permanente será el órgano acreditado, con carácter representativo y de gestión, por el Estado español ante la Unión Europea y asegurará la presencia de España en las instituciones y órganos dependientes de la misma.
+
+3\. La representación permanente tendrá su sede en Bruselas.
+
+> Se modifican los apartados 1 y 2 por el art. 4.2 y 3 del Real Decreto 2077/1995, de 22 de diciembre. [Ref. BOE-A-1995-27558](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27558).
+
+## Art. 2.
+
+1\. La Jefatura de la representación permanente corresponde al Embajador representante permanente de España que es nombrado por el Gobierno a propuesta del Ministerio de Asuntos Exteriores.
+
+2\. El Embajador representante permanente de España representa al Estado español en las instituciones de la Unión Europea y gestiona, en las mismas, los intereses de España. A estos efectos es responsable de la ejecución de las instrucciones emanadas del Gobierno, que deberán ser cursadas por el Ministerio de Asuntos Exteriores o, por delegación suya, por el Secretario de Estado para la Unión Europea.
+
+3\. Las comunicaciones oficiales de la representación permanente con la Administración española se canalizará obligatoriamente por el Embajador representante permanente a través del Ministerio de Asuntos Exteriores.
+
+> Se modifica el apartado 2 por el art. 4.4 del Real Decreto 2077/1995, de 22 de diciembre. [Ref. BOE-A-1995-27558](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27558).
+
+## Art. 3.
+
+1\. El Gobierno, a propuesta del Ministerio de Asuntos Exteriores y oída la Comisión Interministerial de Asuntos de la Unión Europea, nombrará a un representante permanente adjunto.
+
+2\. El representante permanente adjunto ejercerá las funciones que le sean encomendadas por el representante permanente.
+
+3\. En los casos de vacante del cargo, ausencia o imposibilidad de ejercicio del mismo por parte del representante permanente, la Jefatura de la representación permanente será desempeñada por el representante adjunto.
+
+4\. El Gobierno, a propuesta del Ministerio de Asuntos Exteriores y de Cooperación, nombrará igualmente a un Embajador Representante Permanente de España en el Comité Político y de Seguridad (COPS) del Consejo de la Unión Europea.
+
+> Se añade el apartado 4 por la disposición final 1 del Real Decreto 738/2012, de 27 de abril. [Ref. BOE-A-2012-6810](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-6810).
+
+> Se modifica el apartado 1 por el art. 4.4 del Real Decreto 2077/1995, de 22 de diciembre. [Ref. BOE-A-1995-27558](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27558).
+
+## Art. 4.
+
+1\. El nombramiento y cese del personal de la representación permanente que posea la calidad de personal diplomático se hará, en régimen de libre designación, por el Ministerio de Asuntos Exteriores, a propuesta de los Departamentos interesados, oídos la Comisión Interministerial de Asuntos de la Unión Europea y el Embajador representante permanente.
+
+2\. El personal no diplomático se nombrara por el Ministerio de Asuntos Exteriores a propuesta de los Ministerios interesados.
+
+> Se modifica el apartado 1 por el art. 4.4 del Real Decreto 2077/1995, de 22 de diciembre. [Ref. BOE-A-1995-27558](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27558).
+
+## Art. 5.
+
+1\. Del Embajador representante permanente y del representante permanente adjunto dependerán los Consejeros, Secretarios de Embajada y Agregados que se estimen necesarios para el desempeño de las funciones de la representación permanente, y que se nombraran conforme a lo establecido en el artículo 4.<sup>o</sup>
+
+2\. Si existieren dos o mas Consejeros procedentes de un mismo Ministerio, uno de ellos asumirá las funciones de coordinación.
+
+## Disposición transitoria.
+
+El personal actualmente acreditado en la Misión de España ante las Comunidades Europeas queda integrado en la representación permanente, de conformidad con lo previsto en el presente Real Decreto.
+
+En el plazo de tres meses a partir de la publicación del presente Real Decreto se procederá a regularizar la situación de este personal conforme a lo previsto en los artículos 4.<sup>o</sup> y 5.<sup>o</sup>
+
+## Disposición final primera.
+
+Se suprime el cargo de Embajador Jefe de la Misión de España ante las Comunidades Europeas.
+
+## Disposición final segunda.
+
+El Ministerio de Asuntos Exteriores y el de Economía y Hacienda dictarán cuantas disposiciones sean necesarias para la ejecución y cumplimiento de lo previsto en este Real Decreto.
+
+## Disposición final tercera.
+
+Este Real Decreto entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 17 de enero de 1986.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JAVIER MOSCOSO DEL PRADO Y MUÑOZ

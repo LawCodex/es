@@ -1,0 +1,267 @@
+---
+title: "Real Decreto 294/1995, de 24 de febrero, por el que se regula la Real Farmacopea Española, el formulario nacional y los órganos consultivos del Ministerio de Sanidad y Consumo en esta materia"
+identifier: "BOE-A-1995-8877"
+eli: "https://www.boe.es/eli/es/rd/1995/02/24/294"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Consumo"
+date: 1995-02-24
+published: 1995-04-12
+in_force_from: 1995-05-02
+last_amended: 2011-09-23
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 87"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-8877"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 294/1995, de 24 de febrero, por el que se regula la Real Farmacopea Española, el formulario nacional y los órganos consultivos del Ministerio de Sanidad y Consumo en esta materia
+
+La Farmacopea es el código de especificaciones que han de satisfacer los medicamentos y sus materias primas. Constituye por tanto un texto oficial de la máxima importancia para garantizar la fabricación y circulación de medicamentos de buena calidad y proteger así la salud de los consumidores.
+
+En España la última edición en vigor, la edición 9.ª, de 1954, de la Farmacopea Española, definida por Real Decreto de 18 de abril de 1860, fue derogada por la Ley 25/1990, de 20 de diciembre, del Medicamento.
+
+Esta Ley trata de enmendar este retraso histórico al prever en el capítulo V del Título II, la necesidad de elaborar la «Real Farmacopea Española» y el «Formulario Nacional». La incorporación a estos textos legales de los avances técnicos sanitarios de nuestra época garantizará la homologación de la calidad de los medicamentos españoles a la que los países de nuestro entorno, favoreciendo su libre circulación en el territorio de la Comunidad Europea.
+
+La Real Farmacopea Española, según el artículo 55.2 de la Ley del Medicamento, incluirá monografías de sustancias medicinales y excipientes destinados a uso humano y veterinario y los métodos de análisis y control de calidad de los mismos.
+
+Hasta su publicación, según la disposición transitoria séptima, regirá como oficial la Farmacopea Europea. España se había adherido en abril de 1987 al Convenio Europeo sobre la elaboración de una Farmacopea Europea, hecho en Estrasburgo el 22 de julio de 1964, adoptando sus monografías de indudable nivel científico y tecnológico. Tanto por imperativo del convenio mencionado, como de la Comunidad Europea, las monografías de la Farmacopea Europea son de obligado cumplimiento en España.
+
+La Ley del Medicamento respeta esta exigencia, estableciendo en su artículo 55.4 que «la Real Farmacopea Española estará constituida por las monografías peculiares españolas y las contenidas en la Farmacopea Europea del Consejo de Europa».
+
+Por otra parte, conforme al artículo 55.7 de la Ley del Medicamento, la elaboración de la Real Farmacopea Española queda supeditada a la existencia de la Comisión Nacional de la Real Farmacopea Española que se crea por este Real Decreto, que deberá informar sus textos, así como los textos del Formulario Nacional, antes de que sean aprobados por el Ministerio de Sanidad y Consumo.
+
+El Formulario Nacional, por su parte, según su artículo 55.5, contendrá las fórmulas magistrales tipificadas y los preparados oficinales reconocidos como medicamentos. Su actualización permitirá que los profesionales farmacéuticos de las oficinas de farmacia comunitaria y de los servicios de farmacia hospitalaria dispongan de un instrumento moderno, adaptado a nuevas exigencias que la evolución ha conferido al ejercicio tradicional de la preparación de las fórmulas magistrales y de los preparados oficinales.
+
+A efectos de una mayor eficacia y operatividad, el presente Real Decreto prevé que la Comisión Nacional de la Real Farmacopea Española se sustente en sendos Comités permanentes coordinadores: el Comité Permanente de la Real Farmacopea Española y el Comité Permanente del Formulario Nacional. La necesidad de constituir dos Comités permanentes deriva de la peculiaridad e importancia de las fórmulas magistrales y de los preparados oficinales, cuya preparación y tecnología requieren unos conocimientos especiales que los diferencian de los medicamentos fabricados industrialmente, objeto de estudio de la Farmacopea.
+
+El presente Real Decreto se dicta en base a las competencias en materia de legislación sobre productos farmacéuticos que atribuye al Estado el artículo 149.1.16.ª de la Constitución, así como en virtud de lo dispuesto en el artículo 98.1 de la Ley 14/1986, de 25 de abril, General de Sanidad, y en el artículo 55 de la Ley 25/1990, de 20 de diciembre, del Medicamento.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo, previa aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 24 de febrero de 1995,
+
+## D I S P O N G O :
+
+### Artículo 1.
+
+La Real Farmacopea Española es el libro oficial que recopila las normas específicas, redactadas en forma de monografías, que describen la calidad física, química y biológica que deben observar las sustancias medicinales y excipientes destinados a uso humano y veterinario, así como los métodos analíticos para su control.
+
+El Formulario Nacional es el libro oficial que contiene, en forma de monografías, las fórmulas magistrales tipificadas y los preparados oficinales reconocidos como medicamentos, sus categorías, indicaciones y materias primas que intervienen en su composición y preparación, así como las normas de correcta preparación y control de aquéllos.
+
+### Artículo 2.
+
+Las monografías de la Real Farmacopea Española indicarán al menos las siguientes especificaciones de la sustancias medicinales y excipientes destinados a uso humano y veterinario:
+
+a) La nomenclatura.
+
+b) Las características.
+
+c) Los medios que permiten su identificación.
+
+d) Los métodos de ensayo y analíticos que permiten el control de calidad.
+
+e) Los procedimientos de preparación.
+
+f) Las normas para la conservación y un correcto almacenamiento.
+
+g) Las normas especiales del etiquetado.
+
+Cada monografía incluirá los nombres de las impurezas controladas por la misma, siempre y cuando no desvelen datos confidenciales del fabricante de la sustancia.
+
+Asimismo, la Real Farmacopea Española puede incluir monografías sobre formas farmacéuticas acabadas, productos sanitarios y sobre los envases de los medicamentos.
+
+### Artículo 3.
+
+Toda materia prima presentada bajo una denominación científica o común en la Real Farmacopea Española debe responder a las especificaciones de la misma.
+
+### Artículo 4.
+
+Las monografías del Formulario Nacional indicarán al menos:
+
+a) Nombre o denominación de la monografía.
+
+b) La composición cualitativa y cuantitativa en sustancias medicinales y excipientes.
+
+c) Modo de preparación.
+
+d) La conformidad de las sustancias medicinales y excipientes con las especificaciones previstas por la Real Farmacopea Española. En el caso de sustancias no incluidas en la Farmacopea, se detallarán sus especificaciones técnicas.
+
+e) Condiciones de etiquetaje, conservación y almacenamiento.
+
+f) Métodos de control de calidad.
+
+g) Tiempo de espera, en el caso de medicamentos veterinarios.
+
+h) Información al paciente o, en el caso de los medicamentos veterinarios, al veterinario.
+
+### Artículo 5.
+
+Todos los medicamentos y demás productos incluidos en el ámbito de aplicación de la Ley 25/1990, de 20 de diciembre, del Medicamento, podrán ser objeto de descripción en las correspondientes monografías incluidas en el Formulario Nacional.
+
+### Artículo 6.
+
+El Formulario Nacional podrá incluir monografías descriptivas de fórmulas magistrales y preparados oficinales que contengan sustancias de reconocida utilidad terapéutica a través de su uso, tradición o historia.
+
+Asimismo, podrá, previo informe de la Comisión a que se refiere el artículo 7 de este Real Decreto, presentar en anexo determinadas sustancias o productos, a los que el Ministerio de Sanidad y Consumo atribuya o reconozca la condición de medicamentos, susceptibles de utilización en fórmulas magistrales o preparaciones hospitalarias, conforme a lo previsto en los artículos 6 y 91.2 de la Ley del Medicamento.
+
+En el caso de sustancias o productos a los que se pueda atribuir o reconocer la condición de medicamentos veterinarios, se estará a lo dispuesto en el artículo 6.3 del Real Decreto 109/1995, de 27 de enero, sobre medicamentos veterinarios.
+
+### Artículo 7.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+### Artículo 8.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+> Se modifica el apartado 1 por el artículo único.1 del Real Decreto 249/2001, de 9 de marzo. [Ref. BOE-A-2001-4713](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-4713)
+
+### Artículo 9.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+> Se modifica por el artículo único.2 del Real Decreto 249/2001, de 9 de marzo. [Ref. BOE-A-2001-4713](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-4713)
+
+### Artículo 10.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+### Artículo 11.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+### Artículo 12.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+> Se modifica por el artículo único.3 del Real Decreto 249/2001, de 9 de marzo. [Ref. BOE-A-2001-4713](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-4713)
+
+### Artículo 13.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+### Artículo 14.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+> Se modifican los apartados 2 y 3 por el artículo único.4 del Real Decreto 249/2001, de 9 de marzo. [Ref. BOE-A-2001-4713](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-4713)
+
+### Artículo 15.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+### Artículo 16.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+### Artículo 17.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+### Artículo 18.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+### Artículo 19.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+> Se modifica por el artículo único.5 del Real Decreto 249/2001, de 9 de marzo. [Ref. BOE-A-2001-4713](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-4713)
+
+### Artículo 20.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+> Se modifica por el artículo único.6 del Real Decreto 249/2001, de 9 de marzo. [Ref. BOE-A-2001-4713](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-4713)
+
+### Artículo 21.
+
+**(Derogado)**
+
+> Se modifica por el artículo único.7 del Real Decreto 249/2001, de 9 de marzo. [Ref. BOE-A-2001-4713](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-4713)
+
+### Artículo 22.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+> Se modifica por el artículo único.8 del Real Decreto 249/2001, de 9 de marzo. [Ref. BOE-A-2001-4713](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-4713)
+
+### Artículo 23.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1275/2011, de 16 de septiembre. [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044).
+
+### Artículo 24.
+
+Las autoridades sanitarias de la Administración General del Estado, competentes para la autorización de los medicamentos y productos sanitarios, colaborarán con las autoridades responsables de la Farmacopea en el perfeccionamiento de las monografías, basándose en el conocimiento e información en su poder, y en asegurar el mejor uso de la Real Farmacopea Española en sus respectivas áreas de competencia, en conformidad con lo establecido en el Real Decreto 767/1993, de 21 de mayo, por el que se regula la evaluación, autorización, registro y condiciones de dispensación de especialidades farmacéuticas y otros medicamentos de uso humano fabricados industrialmente, y en el Real Decreto 109/1995, de 27 de enero, sobre medicamentos veterinarios.
+
+### Artículo 25.
+
+La Real Farmacopea Española y el Formulario Nacional, así como sus adiciones y correcciones, serán aprobados, previo informe preceptivo y no vinculante de la Comisión Nacional de la Real Farmacopea Española, por el Ministerio de Sanidad y Consumo, que anunciará en el «Boletín Oficial del Estado» su publicación y establecerá la fecha de su entrada en vigor. El referido Ministerio realizará su edición oficial.
+
+En los casos en que se exija la adopción urgente de algunas monografías en el intervalo que media entre dos ediciones consecutivas, el Ministerio de Sanidad y Consumo, previo informe preceptivo y no vinculante de la Comisión Nacional de la Real Farmacopea Española, podrá poner en vigor dichas monografías anunciando en el «Boletín Oficial del Estado» su publicación y la fecha de su puesta en vigor.
+
+### Disposición adicional primera.
+
+La Real Farmacopea Española y el Formulario Nacional se actualizarán conforme al estado de la ciencia por el Ministerio de Sanidad y Consumo previo informe, preceptivo y no vinculante, de la Comisión.
+
+### Disposición adicional segunda.
+
+El Ministerio de Sanidad y Consumo proveerá los medios oportunos y suficientes para el cumplimiento de las funciones encomendadas a la Comisión y a la Secretaría Técnica de la Comisión.
+
+### Disposición derogatoria única.
+
+Quedan derogadas las Ordenes de 23 de marzo de 1953, de 28 de abril de 1960 y cualesquiera otras disposiciones de igual o inferior rango sobre la Farmacopea y el Formulario Nacional anteriores a la Ley del Medicamento.
+
+### Disposición final primera.
+
+El funcionamiento de la Comisión Nacional de la Real Farmacopea y de los Comités permanentes coordinadores se regirán por lo establecido en el capítulo II del Título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, sin perjuicio de las peculiaridades previstas en el presente Real Decreto.
+
+### Disposición final segunda.
+
+El Ministro de Sanidad y Consumo dictará las normas complementarias precisas para el desarrollo de lo previsto en el presente Real Decreto.
+
+Dado en Madrid a 24 de febrero de 1995.
+
+JUAN CARLOS R.
+
+La Ministra de Sanidad y Consumo,
+
+MARÍA ÁNGELES AMADOR MILLÁN
+
+> Información relacionada
+
+> Las menciones realizadas en el articulado a la Comisión Nacional de la Real Farmacopea Española, se entienden realizadas al Comité de la Farmacopea y el Formulario Nacional creado por el Estatuto que aprueba el Real Decreto 1275/2011, de 16 de septiembre [Ref. BOE-A-2011-15044](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15044), según establece su disposición adicional 5.

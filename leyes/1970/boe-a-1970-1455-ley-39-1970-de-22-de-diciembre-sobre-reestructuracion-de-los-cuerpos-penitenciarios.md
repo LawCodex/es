@@ -1,0 +1,610 @@
+---
+title: "Ley 39/1970, de 22 de diciembre, sobre reestructuración de los Cuerpos Penitenciarios"
+identifier: "BOE-A-1970-1455"
+eli: "https://www.boe.es/eli/es/l/1970/12/22/39"
+type: act
+rank: "Ley"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 1970-12-22
+published: 1970-12-31
+in_force_from: 1971-01-01
+last_amended: 2011-12-31
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 313"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1970-1455"
+retrieved: 2026-10-11
+---
+
+# Ley 39/1970, de 22 de diciembre, sobre reestructuración de los Cuerpos Penitenciarios
+
+Téngase en cuenta que el cuerpo técnico de instituciones penitenciarias, creado por esta Ley, pasa a denominarse cuerpo superior de técnicos de instituciones penitenciarias, según establece el art. 56 de la Ley 53/2002, de 30 de diciembre. [Ref. BOE-A-2002-25412](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25412).
+
+La actual estructura de los Cuerpos de Prisiones, establecida por Ley de dieciséis de julio de mil novecientos cuarenta y nueve, no resulta ya la adecuada para poder atender a las distintas funciones especializadas ahora encomendadas a la Administración Penitenciaria, que incorporó a su ámbito, en virtud del Decreto ciento sesenta y dos/mil novecientos sesenta y ocho, de veinticinco de enero, la utilización de nuevos métodos para atender a los problemas de reeducación y readaptación social de los delincuentes, lo que supone, como es obvio, contar con los oportunos cuadros de especialistas para poder aplicar las nuevas técnicas de observación y tratamiento y las correspondientes a una adecuada asistencia social, como complemento necesario de aquéllas.
+
+Ahora bien: en esta estructuración que reclaman las nuevas técnicas de readaptación es necesario tener presente, en orden a conseguir una mayor agilidad y eficacia, tanto que la esencial función pública encomendada quede debidamente atendida en los distintos niveles como el que no se origine en ningún momento aumento de las consignaciones presupuestarias del gasto público mediante el oportuno escalonamiento de dotaciones. También es conveniente atender, dentro de los principios marcados por la Ley articulada de Funcionarios y sin perjuicio de su posterior desarrollo reglamentario, a la especialidad de los criterios que la nueva organización exija en materia relativa a la selección de funcionarios, así como a la situación transitoria a que obliga aquel escalonamiento en cuanto a integraciones y amortizaciones, y todo ello con el debido respeto a las situaciones adquiridas.
+
+En su virtud, y de conformidad con la Ley aprobada por las Cortes Españolas, vengo en sancionar:
+
+## Artículo primero.
+
+Uno. Corresponde a los funcionarios dependientes de la Dirección General de Instituciones Penitenciarias el desempeño de los cometidos propios de las actividades de tal naturaleza en el tratamiento y régimen de quienes ingresen en los establecimientos dependientes de aquélla y las que tienen asignado carácter penitenciario por razón de las circunstancias concurrentes en la función administrativa que les está encomendada.
+
+Dos. Para el desempeño de estas funciones, además de los Cuerpos Especiales hoy existentes, cuyas plantillas serán las establecidas en los artículos tercero y cuarto, se crea el Cuerpo Técnico de Instituciones Penitenciarias y las plazas no escalafonadas, según detalle contenido en los anexos I y II.
+
+## Artículo segundo.
+
+1\. El personal funcionario del Cuerpo Superior de Técnicos de Instituciones Penitenciarias realizará las funciones de dirección e inspección de las instituciones, centros y servicios, así como las propias de su especialidad en materia de observación, clasificación y tratamiento de la población reclusa y aquellas otras que en el ámbito de la ejecución penal se determinen.
+
+2\. Las especialidades exigidas para el ingreso en este Cuerpo se encuadrarán dentro de las siguientes áreas: jurídica, de ciencias de la conducta y gerenciales.
+
+3\. Para el acceso a este Cuerpo se requerirá estar en posesión del título universitario de Grado de carácter oficial en las especialidades que reglamentariamente se determinen.
+
+En el caso de titulaciones obtenidas en el extranjero se deberá estar en posesión de la credencial que acredite su homologación o convalidación en su caso.
+
+4\. Este Cuerpo estará incluido en el Grupo A, Subgrupo A1, del artículo 76 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+
+> Se modifica, con efectos de 1 de enero de 2012, por la disposición final 18.1 del Real Decreto-ley 20/2011, de 30 de diciembre. [Ref. BOE-A-2011-20638](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20638).
+
+## Artículo tercero.
+
+Uno. Los actuales Cuerpo Especial Masculino de Instituciones Penitenciarias y Cuerpo Especial Femenino de Instituciones Penitenciarias pasarán a denominarse Cuerpo Especial de Instituciones Penitenciarias. Corresponde a los funcionarios de este Cuerpo realizar los cometidos de colaboración no asignados al Cuerpo Técnico de Instituciones Penitenciarias, aplicando las normas que para la observación, clasificación, tratamiento y régimen se fijen en cada caso; velarán por el régimen, disciplina y buen funcionamiento general del Establecimiento, ateniéndose a las normas que reciban de sus inmediatos superiores y estarán encargados de la Administración del Establecimiento, realizando las funciones administrativas generales del mismo; también podrán realizar funciones de dirección y de inspección en la forma que reglamentariamente se determine.
+
+Dos. La actual Escala Facultativa de Sanidad de Prisiones pasará a denominarse Cuerpo Facultativo de Sanidad Penitenciaria. Su plantilla estará compuesta de cincuenta y nueve funcionarios.
+
+Tres. El actual Cuerpo de Capellanes de Prisiones pasará a denominarse Cuerpo de Capellanes de Instituciones Penitenciarias. La plantilla será de cuarenta y un funcionarios.
+
+Cuatro. La actual Escala de Personal de Enseñanza de Prisiones pasará a denominarse Cuerpo de Profesores de Enseñanza General Básica de Instituciones Penitenciarias. Su plantilla será de cincuenta y un funcionarios.
+
+> Se modifica el apartado 1 por el art. 43 de la Ley 50/1998, de 30 de diciembre. [Ref. BOE-A-1998-30155](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-30155).
+
+## Artículo cuarto.
+
+Uno. Los actuales Cuerpos Auxiliares de Prisiones, Sección Masculina y Sección Femenina, pasarán a denominarse, respectivamente, Cuerpo Auxiliar Masculino de Instituciones Penitenciarias y Cuerpo Auxiliar Femenino de Instituciones Penitenciarias. Sus funcionarios ejecutarán las instrucciones que en orden al tratamiento de reclusos, se les comuquine; realizarán las tareas de custodia y vigilancia interior de los Establecimientos, cuidarán de que se cumplan las normas sobre aseo y limpieza de reclusos y locales, velarán por el orden, compostura y disciplina, y, en general, colaborarán con su gestión personal en las tareas reeducadoras y de rehabilitación de los internos. Para el ingreso en estos Cuerpos se exigirá el título de Graduado Escolar o equivalente. Las plantillas serán de mil novecientos sesenta y tres funcionarios y doscientos catorce funcionarias, respectivamente.
+
+Dos. El Cuerpo de Ayudantes Técnicos Sanitarios de Instituciones Penitenciarias pasa a denominarse Cuerpo de Enfermeros de Instituciones Penitenciarias.
+
+> Se modifica el apartado 2, con efectos de 1 de enero de 2012, por la disposición final 18.2 del Real Decreto-ley 20/2011, de 30 de diciembre. [Ref. BOE-A-2011-20638](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20638).
+
+## Artículo quinto.
+
+Las funciones del personal no escalafonado serán las propias de la profesión a que cada caso se refiera. Las plazas de este carácter serán las que actualmente figuran en los Presupuesos Generales del Estado, con las modificaciones que resulten según lo detallado en el anexo II.
+
+## Artículo sexto.
+
+Las plantillas orgánicas de los Cuerpos a que se refiere la presente Ley fijarán los puestos de trabajo de cada uno de ellos en los Establecimientos Penitenciarios, Centro directivo y Dependencias de éste.
+
+## Artículo séptimo.
+
+La selección de los aspirantes a ingreso en los Cuerpos y plazas de la Administración Penitenciaría se realizará mediante oposición directa y libre y la práctica de las pruebas correspondientes se realizará ante Tribunales cuya composición se determine reglamentariamente.
+
+## Artículo octavo.
+
+No obstante lo dispuesto en el artículo anterior, se reservarán para su provisión en turno restringido, mediante las pruebas selectivas que se establezcan, el cincuenta por ciento de las vacantes del Cuerpo Técnico de Instituciones Penitenciarias, así como las que se produzcan en los restantes Cuerpos, para funcionarios de cualquiera de ellos que tengan la correspondiente titulación. Las vacantes que resultaren desiertas en cada convocatoria serán cubiertas en turno de libre oposición.
+
+## Artículo noveno.
+
+Como requisito específico para el acceso a todos los Cuerpos Penitenciarios se exigirá no haber sido condenado por delito doloso a penas privativas de libertad mayores de tres años, a menos que se hubiera obtenido la cancelación de antecedentes penales o la rehabilitación.
+
+> Se añade, con efectos de 1 de enero de 2012, por la disposición final 18.3 del Real Decreto-ley 20/2011, de 30 de diciembre. [Ref. BOE-A-2011-20638](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20638).
+
+## Disposición final primera.
+
+La presente Ley entrará en vigor el día uno de enero de mil novecientos setenta y uno.
+
+## Disposición final segunda.
+
+A su entrada en vigor quedarán derogadas la Ley de dieciséis de julio de mil novecientos cuarenta y nueve y Orden de quince de diciembre del mismo año, dictada para su aplicación; la Ley de veinte de julio de mil novecientos cincuenta y cinco y cuantas disposiciones se opongan a lo establecido en la presente Ley, adaptándose en el plazo de un año cuantos preceptos del Reglamento de los Servicios de Prisiones de dos de febrero de mil novecientos cincuenta y seis resulten afectados.
+
+## Disposición final tercera.
+
+El Gobierno, a propuesta del Ministro de Hacienda, con informe de la Comisión Superior de Personal, fijará el coeficiente de sueldo al Cuerpo Técnico de Instituciones Penitenciarias, conforme al procedimiento establecido en el artículo quinto de la Ley treinta y uno/mil novecientos sesenta y cinco, y determinará un complemento especial de carácter personal y a extinguir a favor de los funcionarios de carrera ingresados en la Sección Técnico-Directiva del Cuerpo de Prisiones, conforme a lo dispuesto en la Ley de veintiséis de enero de mil novecientas cuarenta, y de quienes hubieran obtenido la categoría de Jefes de Administración mediante oposición, a que se refiere el turno tercero del artículo trescientos treinta y siete del Reglamento de los Servicios de Prisiones de dos de febrero de mil novecientos cincuenta y seis
+
+## Disposición final cuarta.
+
+Por los Ministerios de Justicia y de Hacienda, en el ámbito de sus respectivas competencias, se dictarán las disposiciones necesarias para la ejecución de esta Ley.
+
+## Disposición transitoria primera.
+
+No obstante lo dispuesto en los artículos tercero.uno y cuarto.uno, los títulos de Bachiller Superior y Bachiller Elemental serán válidos también para el ingreso, respectivamente, en los Cuerpos a que se refieren dichos preceptos.
+
+## Disposición transitoria segunda.
+
+Los aumentos de plantillas del Cuerpo Especial Femenino de Instituciones Penitenciarias, Cuerpo Auxiliar Masculino de Instituciones Penitenciarias y Cuerpo de Ayudantes Técnicos Sanitarios de Instituciones Penitenciarias, así como la plantilla del Cuerpo Técnico de Instituciones Penitenciarias y plazas no escalafonadas que se establecen, se financiarán con las amortizaciones de los restantes Cuerpos y plazas no escalafonadas que se suprimen, según detalle contenido en los anexos I y II y conforme a los períodos anuales que en los mismos se contienen, sin que en ningún momento pueda producirse aumento de gasto.
+
+## ANEXO I
+
+<table>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td colspan="4">
+<p>Altas</p>
+</td>
+<td colspan="4">
+<p>Bajas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cuerpo</p>
+<p>Técnico</p>
+</td>
+<td>
+<p>Cuerpo Especial:</p>
+<p>Sección Femenina</p>
+</td>
+<td>
+<p>Cuerpo Auxiliar:</p>
+<p>Sección Masculina</p>
+</td>
+<td>
+<p>Escala Auxiliar</p>
+<p>de Sanidad</p>
+</td>
+<td>
+<p>Cuerpo Especial:</p>
+<p>Sección Masculina</p>
+</td>
+<td>
+<p>Escala</p>
+<p>Facultativa</p>
+<p>Sanidad</p>
+</td>
+<td>
+<p>Cuerpo</p>
+<p>de</p>
+<p>Capellanes</p>
+</td>
+<td>
+<p>Escala</p>
+<p>de Personal</p>
+<p>de Enseñanza</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.º año</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>103</p>
+</td>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>77</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.º año</p>
+</td>
+<td>
+<p>19</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>95</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.º año</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>97</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>57</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.º año</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>38</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.º año</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>55</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.º año</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>42</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7.º año</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>44</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8.º año</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.º año</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.º año</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11.º año</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>21</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12.º año</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13.º año</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.º año</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+</table>
+
+## ANEXO II
+
+Plazas no escalafonadas que se establecen:
+
+Un Arquitecto.
+
+Un Farmacéutico.
+
+Un Maestro Carpintero.
+
+Dos Maestros Tipógrafos.
+
+Plazas no escalafonadas que se declaran a extinguir:
+
+Un Maestro de Aerografía.
+
+Un Maestro Técnico-avícoIa.
+
+Un Maestro de Taller Odontoprotésico.
+
+Dos Maestros de Labores de Confección.
+
+Un Maestro Aparejador.
+
+Un Maestro Fontanero.
+
+Un Maestro de Manipulados de Papel.
+
+Dada en el Palacio de El Pardo a veintidós de diciembre de mil novecientos setenta.
+
+FRANCISCO FRANCO
+
+El Presidente de las Cortes,
+
+ALEJANDRO RODRÍGUEZ DE VALCÁRCEL Y NEBREDA

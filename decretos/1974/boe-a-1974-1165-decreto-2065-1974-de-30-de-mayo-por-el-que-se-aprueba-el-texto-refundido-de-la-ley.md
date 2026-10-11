@@ -1,0 +1,847 @@
+---
+title: "Decreto 2065/1974, de 30 de mayo, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social"
+identifier: "BOE-A-1974-1165"
+eli: "https://www.boe.es/eli/es/d/1974/05/30/2065"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo"
+date: 1974-05-30
+published: 1974-07-20
+in_force_from: 1974-07-21
+last_amended: 2012-04-24
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 173"
+status: repealed
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1974-1165"
+retrieved: 2026-10-11
+---
+
+# Decreto 2065/1974, de 30 de mayo, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social
+
+Téngase en cuenta que las Mutuas Patronales de Accidentes de Trabajo a que se refiere este texto refundido pasan a denominarse Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, según establece la disposición adicional 14.1 de la Ley 4/1990, de 29 de junio. [Ref. BOE-A-1990-15347](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-15347).
+
+Norma derogada en cuanto se oponga a lo establecido en el Real Decreto-ley 36/1978, de 16 de noviembre, según establece su disposición final 2.1.[Ref. BOE-A-1978-28739](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-28739).
+
+La Disposición final tercera de la Ley 24/1972, de 21 de junio, de financiación y perfeccionamiento de la acción protectora del Régimen General de la Seguridad Social, autoriza al Gobierno para aprobar, previo informe de la Organización Sindical y dictamen del Consejo de Estado, el texto o textos refundidos de la Ley de la Seguridad Social de 21 de abril de 1966, de la propia Ley 24/1972 y de las que regulan los Regímenes Agrario y de Trabajadores del Mar, así como de los preceptos que en materia de Seguridad Social figuren en otras disposiciones de igual rango, debiendo establecerse en la refundición la concordancia debida y la sistematización y depuración técnica adecuadas para lograr regularizar, aclarar y armonizar las Leyes citadas mediante los preceptos del nuevo o nuevos textos. Conforme a lo previsto en la citada disposición final, la refundición afecta también a los preceptos del Régimen General que resultan modificados de forma indirecta y tiene, asimismo, en cuenta, o incorpora, los preceptos contenidos en las Leyes 118/1969, de 30 de diciembre, sobre Igualdad de Derechos Sociales de los Trabajadores de la Comunidad Iberoamericana y Filipina, Empleados en el Territorio Nacional; 25/1971, de 19 de junio, sobre Protección a las Familias Numerosas; 33/1971, de 21 de julio, de Emigración; 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa y Ley Sindical 2/1971, de 17 de febrero.
+
+Razones de urgencia y prioridad aconsejan que se apruebe en primer lugar el presente texto y, después, los relativos a los Regímenes Especiales Agrario y de los Trabajadores del Mar.
+
+En su virtud, a propuesta del Ministro de Trabajo, previo informe de la Organización Sindical, de conformidad con el Consejo de Estado en Pleno y previa deliberación del Consejo de Ministros en su reunión del día 3 de mayo de 1974,
+
+DISPONGO:
+
+###### Artículo único.
+
+Uno. Se aprueba el adjunto Texto Refundido de la Ley de la Seguridad Social de 21 de abril de 1966 y de la Ley 24/1972, de 21 de junio, al que se incorporan preceptos, en materia de Seguridad Social, contenidos en otras disposiciones de igual rango.
+
+Dos. El presente Texto Refundido entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Así lo dispongo por el presente Decreto dado en Madrid a treinta de mayo de mil novecientos setenta y cuatro.
+
+FRANCISCO FRANCO
+
+El Ministro de Trabajo,
+
+LICINIO DE LA FUENTE Y DE LA FUENTE
+
+## TEXTO REFUNDIDO DE LA LEY GENERAL DE LA SEGURIDAD SOCIAL
+
+## TÍTULO I — Normas Generales del Sistema de la Seguridad Social
+
+### CAPÍTULO I — Normas preliminares
+
+> Se deroga por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 1 a 6.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO II — Campo de aplicación y composición del sistema de la Seguridad Social
+
+> Se deroga por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 7 a 11.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO III — Afiliación, cotización y recaudación
+
+> Se deroga por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 12 a 19.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO IV — Acción protectora
+
+> Se deroga por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 20 a 23.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO V — Servicios sociales
+
+#### Sección 1.ª Disposiciones generales
+
+###### Artículo 24. Objeto.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículo 25. Enumeración.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+#### Sección 2.ª Higiene y seguridad del trabajo
+
+###### Artículo 26. Contenido.
+
+La higiene y seguridad del trabajo comprenderá las normas técnicas y medidas sanitarias, de tutela o de cualquier otra índole, que tengan por objeto:
+
+a) Eliminar o reducir los riesgos de los distintos centros o puestos de trabajo.
+
+b) Estimular y desarrollar en las personas comprendidas en el campo de aplicación de la presente Ley una actitud positiva y constructiva respecto a la prevención de los accidentes y enfermedades que puedan derivarse de su actividad profesional.
+
+c) Lograr, individual y colectivamente, un óptimo estado sanitario.
+
+###### Artículo 27. Regulación y ejecución.
+
+1\. El Ministerio de Trabajo regulará, con carácter general o especial, las condiciones y requisitos que a efectos preventivos se han de cumplir en las Empresas y demás centros sometidos a esta Ley, en orden a la higiene y seguridad del trabajo. A tal efecto refundirá y ampliará, en su caso, las normas vigentes en la materia.
+
+2\. Previa la obtención o asignación de los recursos financieros precisos, el Ministerio de Trabajo, directamente, a través de sus servicios generales de seguridad e higiene en el trabajo, y en conexión con la Seguridad Social y sus Entidades Gestoras, fomentará la constitución de Consejos territoriales de higiene y seguridad en las ramas profesionales que así lo requieran, así como la fundación de laboratorios y centros de estudio y publicidad especializados y la realización de campañas de higiene y seguridad del trabajo.
+
+3\. En los Consejos a que se refiere el número anterior figurarán representantes sindicales de los empresarios y trabajadores de la correspondiente actividad. Dichos representantes, que, en todo caso, constituirán mayoría en cuanto al número de vocales del Consejo, serán designados por el Ministerio de Trabajo con arreglo al procedimiento previsto para el nombramiento de los trabajadores vocales de los Comités de Seguridad e Higiene del Trabajo. Entre las representaciones asumidas por los vocales natos de dichos Consejos figurará, en todo caso, la de la Organización Sindical.
+
+4\. El Ministerio de Trabajo, previo informe de la Organización Sindical, dictará las disposiciones relativas a la constitución, régimen orgánico y funcionamiento de los Consejos territoriales de higiene y seguridad del trabajo.
+
+#### Sección 3.ª Medicina preventiva
+
+###### Artículo 28. Contenido.
+
+1\. La Seguridad Social, a través de sus servicios sanitarios, podrá realizar campañas de medicina preventiva, previa la coordinación con la Sanidad Nacional, a los efectos de respetar las normas técnicas establecidas por aquélla con carácter general.
+
+2\. En la misma línea de coordinación, la Seguridad Social podrá llevar a cabo la preparación y desarrollo de programas de medicina preventiva que afecten, total o parcialmente, a la población protegida por aquélla, bien de forma exclusiva o bien para colaborar en programas que se extiendan a la población del país, con carácter general o limitado.
+
+###### Artículo 29. Aprobación y ejecución de las campañas y programas.
+
+1\. La aprobación de las campañas y de los programas para su desarrollo estará condicionada a la obtención o asignación de los recursos financieros precisos y corresponderá al Ministerio de Trabajo, por sí mismo, cuando afecten exclusivamente a la población protegida por la Seguridad Social, y, en otro caso, en coordinación con los demás Departamentos Ministeriales.
+
+2\. Los beneficiarios observarán cuantas medidas se adopten con carácter obligatorio en el campo de la medicina preventiva.
+
+3\. Todo el personal sanitario de la Seguridad Social viene obligado a colaborar en las campañas de medicina preventiva que se organicen, ejecutando cuantas medidas se dispongan en este orden por los Servicios correspondientes.
+
+#### Sección 4.ª Reeducación y rehabilitación de inválidos
+
+###### Artículo 30. Derecho a la reeducación y rehabilitación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículo 31. Extensión de los servicios.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículo 32. Contenido de las ayudas asistenciales de reeducación y rehabilitación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+#### Sección 5.ª Acción formativa
+
+###### Artículo 33. Contenido de la Acción formativa.
+
+1\. La Seguridad Social contribuirá a la elevación cultural de los trabajadores y familiares a su cargo mediante las aportaciones que, en forma de becas, bolsas de estudio, subvenciones o bajo cualquier otra modalidad de ayuda económica, efectúe con destino a las enseñanzas que se cursen en las Universidades Laborales, Centros Sindicales de Formación Profesional y demás Centros o Instituciones docentes, creados o que se creen, a los fines indicados.
+
+2\. Contribuirá, igualmente, a la dotación de los sistemas de promoción cultural y social de los jóvenes beneficiarios de notable aprovechamiento académico con vocación por los estudios universitarios, mediante becas para los Centros de Enseñanza Superior, o a través de la fundación y organización de Colegios Menores y Mayores y demás Instituciones que sirvan dichos fines de promoción y que estén bajo la tutela del Ministerio de Trabajo.
+
+3\. Los huérfanos menores de 18 años, de trabajadores muertos a consecuencia de accidente de trabajo o enfermedad profesional, tendrán preferencia absoluta para disfrutar de los beneficios de la acción formativa dispensada por todo tipo de Centros e Instituciones públicas. El Gobierno, a propuesta del Ministro de Trabajo, dictará las normas o adoptará las medidas necesarias para la efectividad de este derecho.
+
+###### Artículo 34. Coordinación con las Entidades Gestoras.
+
+El Ministerio de Trabajo dictará las normas que se juzguen convenientes para conseguir un sistema orgánico de coordinación entre las Universidades Laborales y demás centros o programas de promoción y formación social con las Entidades Gestoras de la Seguridad Social que contribuyan económicamente al sostenimiento de la acción formativa que se preste a través de aquéllos.
+
+###### Artículo 35. Fomento y desarrollo de estudios sociales.
+
+La Seguridad Social contribuirá al fomento y desarrollo de los estudios de carácter social, a través de los Servicios o Instituciones previstos en el artículo 4 de esta Ley, así como en conexión con la Organización Sindical y, en general, con Centros de docencia e investigación especializados. De un modo especial se tenderá a concertar con la Universidad, previa aprobación por el Ministerio de Trabajo, la profesión de cursos superiores de Seguridad Social y, en su caso, trabajos de investigación sobre la materia.
+
+### CAPÍTULO VI — Asistencia social
+
+> Se deroga por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 36 y 37.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO VII — Gestión de la Seguridad Social
+
+> Se deroga, con excepción del art. 45, por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 38 a 44.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículo 45. Personal de las Entidades Gestoras.
+
+1\. La relación entre las Entidades Gestoras y, en su caso, Servicios de la Seguridad Social y el personal a su servicio se regulará por lo previsto en los Estatutos de Personal aprobados por el Ministerio de Trabajo o, por el Estatuto general aprobado por el propio Ministerio.
+
+2\. Sin perjuicio del carácter estatutario de dicha relación, la Jurisdicción de Trabajo será la competente para conocer de las cuestiones contenciosas que se susciten entre las Entidades Gestoras y su personal, con excepción del comprendido en el número siguiente.
+
+3\. **(Derogado)**
+
+> Se deroga el apartado 3 por la disposición derogatoria única del Real Decreto-ley 1/1999 de 8 de enero. [Ref. BOE-A-1999-460](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-460).
+
+> Téngase en cuenta que este apartado ya fue derogado por el Real Decreto 118/1991, de 25 de enero.
+
+> Se deroga el apartado 3 por la disposición derogatoria.1 del Real Decreto 118/1991, de 25 de enero. [Ref. BOE-A-1991-3329](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-3329).
+
+> Se deroga el apartado 2, en cuanto se oponga a lo previsto en la Ley 30/1984, de 2 de agosto, en relación al personal a que se refiere la disposicion adicional decimosexta 1, según establece su disposición derogatoria.1.B). [Ref. BOE-A-1984-17387](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17387).
+
+###### Artículos 46 y 47.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO VIII — Régimen económico y financiero
+
+> Se deroga por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 48 a 53.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO IX — Normas sobre prescripción, caducidad, prelación de créditos y otras materias afines
+
+> Se deroga por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 54 a 59.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).1 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO X — Faltas y sanciones
+
+###### Artículo 60. Faltas y sanciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición final 1 de la Ley 8/1988, de 7 de abril. [Ref. BOE-A-1988-9115](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-9115).
+
+## TÍTULO II — Régimen General de la Seguridad Social
+
+### CAPÍTULO I — Campo de aplicación
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 61 y 62.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO II — Inscripción de Empresas y normas sobre afiliación, cotización y recaudación
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 63 a 82.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO III — Acción protectora
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 83 a 97.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO IV — Asistencia sanitaria
+
+#### Sección 1.ª Disposiciones generales
+
+###### Artículo 98. Objeto.
+
+1\. La asistencia sanitaria del Régimen General de la Seguridad Social tiene por objeto la prestación de los servicios médicos y farmacéuticos conducentes a conservar o restablecer la salud de los beneficiarios de dicho régimen, así como su aptitud para el trabajo.
+
+2\. Proporcionará también los servicios convenientes para completar las prestaciones médicas y farmacéuticas y, de un modo especial, atenderá a la rehabilitación física precisa para la recuperación profesional de los trabajadores.
+
+###### Artículo 99. Hecho causante.
+
+En la extensión y términos que se fijan en esta Ley, las contingencias cubiertas por las prestaciones de la asistencia sanitaria serán la enfermedad común o profesional, las lesiones derivadas de accidente, cualquiera que sea su causa, así como el embarazo, el parto y el puerperio.
+
+###### Artículo 100. Beneficiarios.
+
+1\. Serán beneficiarios de la asistencia sanitaria por enfermedad común, maternidad y accidente no laboral:
+
+a) Los trabajadores por cuenta ajena que reúnan el requisito general exigido en el número 1 del artículo 94.
+
+b) Los pensionistas de este Régimen General y los perceptores de prestaciones periódicas del mismo que no tengan el carácter de pensiones, en los términos que reglamentariamente se determinen.
+
+c) Los familiares o asimilados que estén a cargo de las personas indicadas en los apartados anteriores y, en caso de separación de hecho, los cónyuges e hijos de dichas personas, siempre que unos y otros reúnan las condiciones que reglamentariamente se determinen.
+
+2\. Serán beneficiarios de la asistencia sanitaria por accidente de trabajo o enfermedad profesional los trabajadores por cuenta ajena que reúnan la condición general señalada en el número 1 del artículo 94.
+
+3\. Para el ejercicio del derecho a la asistencia sanitaria, en vía administrativa o jurisdiccional, estarán legitimados los trabajadores y pensionistas, titulares de dicho derecho, sin perjuicio de las excepciones que se determinen reglamentariamente en favor de los demás beneficiarios.
+
+> Se modifica la letra c) del apartado 1 por el art. 4.1 de la Ley 26/1990, de 20 de diciembre. [Ref. BOE-A-1990-30939](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30939).
+
+###### Artículo 101. Prestación de la asistencia.
+
+La asistencia sanitaria se prestará al titular y a los beneficiarios a su cargo, con la extensión, duración y condiciones que reglamentariamente se determinen para las distintas contingencias constitutivas del hecho causante.
+
+###### Artículo 102. Obligaciones del beneficiario.
+
+1\. El beneficiario deberá observar las prescripciones de los facultativos que le asisten. Cuando sin causa razonable rechace o abandone el tratamiento que le fuere indicado podrá ser sancionado con la suspensión del derecho al subsidio que pudiera corresponderle o, en su día, con la pérdida o suspensión de las prestaciones por invalidez.
+
+2\. Reglamentariamente se determinará el procedimiento para calificar de razonable la negativa del beneficiario a seguir un tratamiento, en particular si éste fuese de tipo quirúrgico o especialmente penoso. En todo caso, el beneficiario podrá recurrir la decisión sobre el carácter de su negativa ante las Comisiones Técnicas Calificadoras a que se refiere el artículo 144.
+
+3\. Las Entidades obligadas a prestar la asistencia sanitaria no abonarán los gastos que puedan ocasionarse cuando el beneficiario utilice servicios médicos distintos de los que hayan sido asignados, a no ser en los casos que reglamentariamente se determinen.
+
+#### Sección 2.ª Prestaciones médicas y farmacéuticas
+
+###### Artículo 103. Prestaciones médicas.
+
+1\. La asistencia médica prestada por el Régimen General a sus beneficiarios comprenderá, con el alcance determinado en esta Ley, los servicios de Medicina general, especialidades, internamiento quirúrgico y Medicina de Urgencia, así como los de tratamiento y estancia en Centros y Establecimientos sanitarios.
+
+2\. El Ministerio de Trabajo, previa la obtención o asignación de los recursos financieros necesarios, podrá acordar la ampliación de las prestaciones sanitarias de este Régimen General.
+
+3\. Se atenderá igualmente a la organización, práctica y vigilancia de los reconocimientos médicos previos y periódicos a cargo de las Empresas, de conformidad con lo establecido en las disposiciones de aplicación y desarrollo de esta Ley.
+
+###### Artículo 104. Modalidades de la prestación médica.
+
+1\. La asistencia médica podrá prestarse en el domicilio del enfermo, en régimen ambulatorio o de internado, de acuerdo con lo establecido en esta Ley y en sus normas de aplicación y desarrollo.
+
+2\. Las Instituciones de la Seguridad Social se clasifican en abiertas y cerradas, según que la asistencia que en las mismas se preste sea preponderantemente en régimen ambulatorio o de internado. Podrá acordarse por el Ministerio de Trabajo, a propuesta de la Entidad Gestora, el establecimiento de Centros especiales para la asistencia a favor de la infancia o de grupos especiales de beneficiarios o para atender, sin perjuicio de la finalidad asistencial y mediante la particular dotación de los medios adecuados, las finalidades de investigación y perfeccionamiento de técnicos sanitarios.
+
+> Téngase en cuenta que se deroga el apartado 2 en el ámbito de gestión del Instituto Nacional de la Salud no transferido a las Comunidades Autónomas, por la disposición derogatoria 1.1 del Real Decreto 571/1990, de 27 de abril. [Ref. BOE-A-1990-10500](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-10500).
+
+3\. La asistencia en régimen de internado se hará efectiva en las Instituciones sanitarias de la Seguridad Social o mediante concierto y en aplicación del principio legal de coordinación hospitalaria, en las clínicas, sanatorios y establecimientos de análoga naturaleza de la Organización Sindical o de carácter público o privado.
+
+Reglamentariamente se regulará el régimen de conciertos, especialmente de los que se formalicen por la Entidad Gestora con las Facultades de Medicina.
+
+4\. La hospitalización por motivos quirúrgicos será obligatoria para la Entidad o, en su caso, Empresa que colabore en la gestión de la asistencia sanitaria conforme a lo previsto en la presente Ley, así como para el beneficiario. Por motivos no quirúrgicos la hospitalización sólo será obligatoria cuando así se determine reglamentariamente. Específicamente serán objeto de esta determinación los internamientos en centros especiales.
+
+###### Artículo 105. Prestaciones farmacéuticas.
+
+1\. La asistencia farmacéutica comprenderá las fórmulas magistrales, especialidades y efectos o accesorios farmacéuticos que se prescriban por los facultativos de la Seguridad Social.
+
+2\. Quedan excluidos de la prestación farmacéutica los productos dietéticos, de régimen, aguas minero-medicinales, vinos medicinales, elixires, dentífricos, cosméticos, artículo de confitería medicamentosa, jabones medicinales y demás productos análogos.
+
+> Téngase en cuenta que se deroga este artículo en lo que se oponga a lo previsto en el artículo 94 de la Ley 25/1990, de 20 de diciembre [Ref. BOE-A-1990-30938](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30938)., según establece su disposición adicional 7.
+
+###### Artículo 106. Libertad de prescripción.
+
+Los facultativos encargados de los servicios sanitarios de este Régimen General podrán prescribir libremente las fórmulas magistrales y las especialidades farmacéuticas reconocidas por la legislación sanitaria vigente que sean convenientes para la recuperación de la salud de sus pacientes.
+
+> Téngase en cuenta que se deroga este artículo en lo que se oponga a lo previsto en el artículo 94 de la Ley 25/1990, de 20 de diciembre [Ref. BOE-A-1990-30938](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30938)., según establece su disposición adicional 7.
+
+###### Artículo 107. Adquisición y dispensación de productos y especialidades farmacéuticas.
+
+1\. La dispensación de medicamentos será gratuita en los tratamientos que se realicen en las Instituciones propias o concertadas de la Seguridad Social y en los que tengan su origen en accidentes de trabajo o enfermedades profesionales. En los demás casos participarán los beneficiarios mediante el pago de una cantidad fija por receta o, en su caso, por medicamento, cuya determinación corresponderá al Gobierno, a propuesta del Ministro de Trabajo y previo informe de la Organización Sindical.
+
+2\. La Seguridad Social realizará la adquisición directa en los centros productores de los medicamentos que hayan de aplicarse en sus Instituciones abiertas o cerradas, a cuyo efecto se seleccionarán, conforme a criterios rigurosamente científicos, los medicamentos precisos para su aplicación en tales Instituciones abiertas y cerradas.
+
+3\. En todo caso, la dispensación de medicamentos para su aplicación fuera de las Instituciones a que se refiere el número anterior se efectuará a través de las oficinas de farmacia legalmente establecidas, que estarán obligadas a efectuar tal dispensación.
+
+4\. La Seguridad Social concertará con laboratorios y farmacias, a través de sus representaciones legales sindicales y corporativas, los precios y demás condiciones económicas que deberán regir en la adquisición y dispensación de productos y especialidades farmacéuticas a que se refieren los dos números anteriores.
+
+A falta de acuerdo para el referido concierto o, si después de pactado, uno o varios laboratorios no aceptasen para el suministro de sus especialidades a la Seguridad Social el régimen pactado, o por cualquier eventualidad éste no pudiese ser aplicado, una Comisión presidida por un Delegado del Ministerio de Trabajo, y compuesta, además, por cuatro vocales en representación de la Seguridad Social, y otros cuatro, de los cuales tres serán designados por el Sindicato Nacional de Industrias Químicas, en representación de los laboratorios farmacéuticos, y uno por el Consejo General de Colegios Oficiales de Farmacéuticos fijará de modo imperativo los topes máximos de precio que deban señalarse en ambos supuestos a los laboratorios titulares de especialidades para que las mismas puedan ser suministradas a la Seguridad Social.
+
+Si las diferencias afectasen exclusivamente a las relaciones con las farmacias, la totalidad de los vocales de esta Comisión no representantes de la Seguridad Social serían designados por el Consejo General de Colegios Farmacéuticos.
+
+5\. Reglamentariamente se determinarán el procedimiento de los conciertos y el de funcionamiento de la Comisión a que se refiere el número anterior.
+
+6\. Lo dispuesto en los números anteriores se entenderá sin perjuicio de las facultades atribuidas al Ministerio de Trabajo para intervenir o participar en la determinación del valor de las sustancias medicamentosas que normalmente puedan entrar en la composición de las especialidades farmacéuticas, así como en el establecimiento de los márgenes comerciales de laboratorios, oficinas de farmacia y demás intermediarios.
+
+> Téngase en cuenta que se deroga este artículo en lo que se oponga a lo previsto en el artículo 94 de la Ley 25/1990, de 20 de diciembre [Ref. BOE-A-1990-30938](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30938)., según establece su disposición adicional 7.
+
+###### Artículo 108. Otras prestaciones sanitarias.
+
+La Seguridad Social facilitará, en todo caso, las prótesis quirúrgicas fijas y las ortopédicas permanentes o temporales, así como su oportuna renovación, y los vehículos para aquellos inválidos cuya invalidez así lo aconseje. Las prótesis dentarias y las especiales que se determinen podrán dar lugar a la concesión de ayudas económicas en los casos y según los baremos que reglamentariamente se establezcan.
+
+#### Sección 3.ª Ordenación de los servicios sanitarios
+
+##### Subsección 1.ª Servicios sanitarios para enfermedad común y accidente no laboral
+
+###### Artículo 109. Competencia.
+
+La Entidad Gestora organizará los Servicios Sanitarios de la Seguridad Social, a su cargo, de conformidad con la presente Ley y con las normas que se dicten para su aplicación.
+
+###### Artículo 110. Criterio de organización.
+
+1\. Los Servicios Sanitarios estarán organizados en unidades territoriales que podrán ser de ámbito nacional, regional, provincial, de sector, de subsector y de zona.
+
+2\. Tales Servicios también podrán ser organizados jerárquicamente, en cuyo caso los cometidos y actuaciones de los facultativos que los integren quedarán definidos por las exigencias de la ordenación funcional de la asistencia.
+
+Será jerarquizada la organización de las Instituciones Sanitarias Cerradas y de las Abiertas que hayan de adoptar la estructura y denominación de Centros de Diagnóstico y Tratamiento, en todo caso, y la de las restantes Instituciones Abiertas, cuando así lo aconsejen la ordenación de la asistencia. La jerarquización se llevará a efecto conforme a lo que disponga el Ministerio de Trabajo, a propuesta del Instituto Nacional de Previsión.
+
+3\. A efectos de lo dispuesto en el número 1 de este artículo, la zona médica, como unidad primaria para la organización de la asistencia sanitaria, delimita respecto de las personas protegidas domiciliadas en ella al ámbito de actuación de los facultativos de medicina general.
+
+4\. Corresponderá al Ministerio de Trabajo, a propuesta del Órgano de gobierno competente de la Entidad Gestora, determinar y revisar, de acuerdo con las necesidades de la asistencia sanitaria, las localidades y zonas médicas de todo el territorio nacional, así como de los sectores y subsectores de especialidades en que aquellas se integren. Cada localidad podrá constituir a este fin una zona médica, dividirse en varias o agruparse con otra u otras para constituir una o varias zonas médicas cuando las características de los núcleos de población protegida por la Seguridad Social así lo aconsejen. En la delimitación de zonas médicas se armonizarán los criterios organizativos con el derecho de elección que se regula en el artículo 112, y en los medios rurales, con la organización de los Servicios Sanitarios Locales.
+
+> Téngase en cuenta que se derogan los apartados 1, 3 y 4, en el ámbito de gestión del Instituto Nacional de la Salud no transferido a las Comunidades Autónomas, por la disposición derogatoria 1.1 del Real Decreto 571/1990, de 27 de abril. [Ref. BOE-A-1990-10500](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-10500).
+
+> Se derogan los párrafos tercero y cuarto del apartado 2 por la disposición derogatoria única del Real Decreto-ley 1/1999 de 8 de enero. [Ref. BOE-A-1999-460](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-460).
+
+> Téngase en cuenta que estos párrafos ya fueron derogados por el Real Decreto 118/1991, de 25 de enero.
+
+> Se derogan los párrafos tercero y cuarto del apartado 2 por la disposición derogatoria.1 del Real Decreto 118/1991, de 25 de enero. [Ref. BOE-A-1991-3329](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-3329).
+
+> Se derogan los apartados 1, 3 y 4, en el ámbito de gestión del Instituto Nacional de la Salud no transferido a las Comunidades Autónomas, por la disposición derogatoria 1.1 del Real Decreto 571/1990, de 27 de abril. [Ref. BOE-A-1990-10500](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-10500).
+
+###### Artículo 111. Cupos base y máximo.
+
+1\. Corresponderá un Médico general a cada cupo base de titulares o, en su caso, de beneficiarios; el cupo base se fijará en las diferentes localidades en que haya suficiente número de titulares o beneficiarios, teniendo en cuenta la proporción existente entre la total población de la localidad y el número de aquellos que en ella residan. El número de especialistas guardará relación con el de Médicos generales cuando así lo aconseje la organización de la asistencia sanitaria de la Seguridad Social.
+
+2\. El cupo base será utilizado únicamente para fijar, en su caso, el número de Médicos generales de las distintas localidades y su distribución en zonas médicas, sin que ningún supuesto garantice a cada Médico un número concreto o mínimo de titulares o beneficiarios, ni su vinculación inalterable a determinada zona.
+
+3\. El Ministerio de Trabajo, a propuesta del Órgano de gobierno competente del Instituto Nacional de Previsión, determinará la composición numérica de los cupos base, de acuerdo con lo dispuesto en el número 1 de este artículo.
+
+Dicha composición numérica sólo podrá revisarse en las fechas y transcurridos los plazos que se determinen en las disposiciones de aplicación y desarrollo.
+
+4\. Se señalarán los cupos máximos que puedan ser asignados a cada facultativo, los cuales no podrán sobrepasarse, salvo circunstancias excepcionales debidamente justificadas.
+
+5\. El Ministerio de Trabajo, a propuesta del Órgano de gobierno competente de la Entidad Gestora, dictará las disposiciones para la aplicación de lo establecido en el presente artículo, en las cuales, conforme a los fines de los cupos base, se tendrán en cuenta las localidades que por razones geográficas, demográficas y laborales no deban coincidir con un término municipal.
+
+> Téngase en cuenta que se deroga este artículo en el ámbito de gestión del Instituto Nacional de la Salud no transferido a las Comunidades Autónomas, por la disposición derogatoria 1.2 del Real Decreto 571/1990, de 27 de abril. [Ref. BOE-A-1990-10500](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-10500). Queda demorada la eficacia de esta derogación al establecimiento efectivo de la estructura orgánica prevista en el citado Real Decreto, y a la aprobación del Reglamento General para el Sector Sanitario.
+
+###### Artículo 112. Derecho de elección de facultativos.
+
+1\. Cuando en una determinada zona u otra circunscripción territorial presten sus servicios al Régimen General de la Seguridad Social varios Médicos generales, pediatras de familia o tocólogos, los titulares del derecho a la asistencia sanitaria gozarán de la facultad de elección en la forma que reglamentariamente se establezca. En los demás casos, la facultad de elección de Médico se reconocerá progresivamente, subordinada a la organización del servicio.
+
+2\. Cuando tales titulares no ejerzan la facultad de elección, o ésta no sea posible, la Entidad Gestora los asignará directamente a los facultativos que proceda.
+
+3\. Los Médicos tendrán libertad para rechazar nuevas asignaciones u opciones a su favor por encima del cupo base correspondiente a la plaza que desempeñen, siempre que existan varias en su zona o circunscripción. También estarán facultados para rechazar, salvo caso de urgencia, cualquier adscripción siempre que en cada caso concreto, exista a juicio de la inspección médica causa que justifique dicha determinación.
+
+4\. La adscripción de los titulares a los facultativos, bien como consecuencia del ejercicio del derecho de elección o bien directamente, se hará en todo caso a través de la Entidad Gestora.
+
+5\. Asignado un titular o, en su caso, beneficiario a un facultativo, no se variará esta asignación sin, o contra, la voluntad de aquél, salvo en caso del traslado del facultativo en cuestión a otra zona o circunscripción territorial o en el previsto en el número 4 del artículo anterior.
+
+###### Artículo 113. Provisión de vacantes de personal sanitario.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto-ley 1/1999 de 8 de enero. [Ref. BOE-A-1999-460](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-460).
+
+> Téngase en cuenta que este artículo ya fue derogado por el Real Decreto 118/1991, de 25 de enero.
+
+> Se deroga por la disposición derogatoria.1 del Real Decreto 118/1991, de 25 de enero. [Ref. BOE-A-1991-3329](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-3329).
+
+###### Artículo 114. Procedimiento.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto-ley 1/1999 de 8 de enero. [Ref. BOE-A-1999-460](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-460).
+
+> Téngase en cuenta que este artículo ya fue derogado por el Real Decreto 118/1991, de 25 de enero.
+
+> Se deroga por la disposición derogatoria.1 del Real Decreto 118/1991, de 25 de enero. [Ref. BOE-A-1991-3329](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-3329).
+
+###### Artículo 115. Supuestos especiales.
+
+1\. **(Derogado)**
+
+2\. En las zonas médicas en las que no existan Médicos especialistas de Pediatría, Puericultura o de Tocología, los Médicos generales al servicio de la Seguridad Social prestarán asistencia a la población infantil y, en su caso, a las gestantes y parturientas, sin perjuicio de que los beneficiarios puedan ser asistidos por los especialistas correspondientes de la circunscripción territorial de rango inmediato superior en los casos y en las formas que reglamentariamente se determinen.
+
+3\. **(Derogado)**
+
+> Se deroga el apartado 1 por la disposición derogatoria única del Real Decreto-ley 16/2012, de 20 de abril. [Ref. BOE-A-2012-5403](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5403).
+
+> Se deroga el apartado 3 por la disposición derogatoria única del Real Decreto-ley 1/1999 de 8 de enero. [Ref. BOE-A-1999-460](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-460).
+
+> Téngase en cuenta que este apartado ya fue derogado por el Real Decreto 118/1991, de 25 de enero.
+
+> Se deroga el apartado 3 por la disposición derogatoria.1 del Real Decreto 118/1991, de 25 de enero. [Ref. BOE-A-1991-3329](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-3329).
+
+###### Artículo 116. Estatuto del personal sanitario.
+
+1\. El personal sanitario de la Seguridad Social prestará sus servicios conforme al Estatuto jurídico que reglamentariamente se establezca.
+
+2\. Dicho personal será remunerado mediante una cantidad fija por cada personal titular o, en su caso, por cada beneficiario cuya asistencia tenga a su cargo, o mediante otra fórmula de remuneración en cuanto así lo aconseje la estructura sanitaria o la naturaleza de los servicios prestados.
+
+##### Subsección 2.ª Servicios sanitarios para accidentes de trabajo y enfermedades profesionales, así como para la asistencia a pensionistas
+
+###### Artículo 117. Organización de los Servicios.
+
+1\. Los Servicios Sanitarios para accidentes de trabajo y enfermedades profesionales, cuando sean prestados por el Instituto Nacional de Previsión, de conformidad con lo previsto en el número 2 del artículo 197 serán los mismos y con organización común que los establecidos o que se establezcan para la asistencia de los casos de enfermedad común y accidente no laboral.
+
+2\. La Entidad Gestora podrá utilizar personal sanitario bajo la modalidad de servicios concertados para la asistencia a que se refiere este artículo, así como Sanatorios y Centros especializados en la materia, oficiales o privados, mediante el oportuno concierto con arreglo a las normas que se establezcan reglamentariamente.
+
+###### Artículo 118. Facultativos obligados a prestar la asistencia.
+
+En caso de accidente de trabajo o enfermedad profesional estarán obligados a prestar asistencia sanitaria:
+
+a) El personal sanitario de los servicios de la Entidad Gestora, de las Mutuas Patronales y de las Empresas que colaboren en la gestión, a cuyo personal, y en sus respectivos casos, se acudirá preferentemente, y siempre que sea posible para la prestación de la asistencia.
+
+b) Los titulares de los Servicios Sanitarios Locales, o cualquier otro facultativo, a petición de las Entidades incluidas en el apartado anterior, según los casos, o de cualquier empresario en caso de urgencia respecto a sus propios trabajadores.
+
+###### Artículo 119. Retribuciones.
+
+Las retribuciones del personal sanitario y de los facultativos que se hagan cargo o intervengan en la asistencia de los accidentados o de los afectados por una enfermedad profesional se regularán reglamentariamente.
+
+En cualquier caso existirá una tarifa oficial obligatoria por acto médico, aprobada por el Ministerio de Trabajo para todos los facultativos o personal sanitario no integrados directamente o por concierto, en su caso, en los Servicios Sanitarios mencionados en el artículo 117.
+
+###### Artículo 120. Asistencia a pensionistas.
+
+Los Servicios Sanitarios para la asistencia a los pensionistas de la Seguridad Social se ordenarán según los términos que reglamentariamente se establezcan.
+
+#### Sección 4.ª Normas comunes
+
+###### Artículo 121. Régimen de las Instituciones sanitarias y de su personal.
+
+1\. La asistencia en los ambulatorios y residencias de la Seguridad Social se regirá por los Reglamentos que para su régimen, gobierno y servicio se establezcan por el Ministerio de Trabajo a propuesta de la Entidad Gestora, así como por los Reglamentos y circulares internos del servicio; pudiendo ordenarse específicamente la asistencia en servicios médicos jerarquizados, sin perjuicio de la personal responsabilidad de sus componentes y de su subordinación a la dirección de la Institución.
+
+2\. Los Centros Especiales de la Seguridad Social se regirán en cuanto a organización, funcionamiento y régimen de su personal sanitario y de todo orden por los reglamentos específicos que para los mismos se dicten por el Ministerio de Trabajo.
+
+> Téngase en cuenta que se deroga este artículo en el ámbito de gestión del Instituto Nacional de la Salud no transferido a las Comunidades Autónomas, por la disposición derogatoria 1.1 del Real Decreto 571/1990, de 27 de abril. [Ref. BOE-A-1990-10500](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-10500).
+
+###### Artículo 122. Servicios de urgencia.
+
+Progresivamente, y en la medida y extensión que permita la estabilidad financiera de este Régimen General, se organizarán servicios de Medicina de Urgencia debidamente coordinados con los de igual tipo de la Sanidad Nacional, Provincial o Local. Tales servicios estarán dotados de los medios complementarios de personal auxiliar técnico-sanitario y de los medios de desplazamiento y transporte necesarios para garantizar a los beneficiarios de los núcleos urbanos y de los medios rurales una inmediata asistencia facultativa en aquellos estados y situaciones que por su índole y gravedad así lo requieran.
+
+> Téngase en cuenta que se deroga este artículo en el ámbito de gestión del Instituto Nacional de la Salud no transferido a las Comunidades Autónomas, por la disposición derogatoria 1.2 del Real Decreto 571/1990, de 27 de abril. [Ref. BOE-A-1990-10500](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-10500). Queda demorada la eficacia de esta derogación al establecimiento efectivo de la estructura orgánica prevista en el citado Real Decreto, y a la aprobación del Reglamento General para el Sector Sanitario.
+
+###### Artículo 123. Facultad disciplinaria.
+
+La facultad disciplinaria sobre el personal sanitario que preste, por cualquier título, servicios a la Seguridad Social corresponde al Ministerio de Trabajo, con independencia de cualquier otra jurisdicción a que aquél esté sujeto en razón de actividades ajenas a la Seguridad Social. Las medidas que a este respecto pueda adoptar el Ministerio de Trabajo no tendrán necesariamente repercusión en otras actividades que se ejerzan al margen de la Seguridad Social.
+
+###### Artículo 124. Inspección de los servicios sanitarios.
+
+1\. Sin perjuicio de las facultades propias de la Inspección de Trabajo, corresponde a la Entidad Gestora la inspección sobre la organización y funcionamiento de los servicios sanitarios propios o concertados, así como, en su caso, de los de las Mutuas Patronales de Accidentes de Trabajo y de los empresarios.
+
+2\. Los inspectores médicos y farmacéuticos del Cuerpo de Inspección Sanitaria de la Administración de la Seguridad Social tendrán la consideración de autoridad pública en el desempeño de tal función y recibirán de las autoridades y de sus agentes la colaboración y el auxilio que a aquélla se deben.
+
+Los enfermeros subinspectores tendrán las funciones inspectoras de apoyo, gestión y colaboración con los inspectores médicos y farmacéuticos y en ejecución de las órdenes recibidas para el desempeño de sus cometidos tendrán la consideración de agentes de la autoridad.
+
+Tendrán, de igual modo, la consideración de autoridad pública, en el desempeño de sus funciones, los inspectores médicos adscritos al Instituto Nacional de la Seguridad Social.
+
+> Se modifica el apartado 2 por el art. 23 de la Ley 55/1999, de 29 de diciembre. [Ref. BOE-A-1999-24786](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24786).
+
+###### Artículo 125. Responsabilidad en materia farmacéutica.
+
+1\. El Gobierno, por Decreto, a propuesta del Ministro de Trabajo, establecerá las faltas por los actos u omisiones imputables a mala fe, ánimo ilícito de lucro o negligencia en que puedan incurrir los farmacéuticos en su actuación en la Seguridad Social, así como las sanciones que correspondan y que podrán llegar hasta la inhabilitación definitiva para el despacho de medicamentos a cargo de la Seguridad Social.
+
+2\. Independientemente de las sanciones a que hubiere lugar, el farmacéutico estará obligado a resarcir de los perjuicios económicos que con su actuación hubiere ocasionado a la Seguridad Social o a las personas protegidas por la misma.
+
+### CAPÍTULO V — Incapacidad laboral transitoria
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 126 a 131.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO VI — Invalidez
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 132 a 145.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO VII — Recuperación
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 146 a 152.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO VIII — Jubilación
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 153 a 156 bis.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO IX — Muerte y supervivencia
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 157 a 166.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO X — Prestaciones familiares por hijo a cargo
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+> Se modifica la rúbrica por el art. 5 de la Ley 26/1990, de 20 de diciembre. [Ref. BOE-A-1990-30939](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30939).
+
+###### Artículos 167 a 171.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+> Se modifica la rúbrica por el art. 5 de la Ley 26/1990, de 20 de diciembre. [Ref. BOE-A-1990-30939](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30939).
+
+### CAPÍTULO XI — Desempleo
+
+> Se deroga por la disposición derogatoria de la Ley 51/1980, de 8 de octubre. [Ref. BOE-A-1980-22502](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-22502).
+
+###### Artículos 172 a 180.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria de la Ley 51/1980, de 8 de octubre. [Ref. BOE-A-1980-22502](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-22502).
+
+### CAPÍTULO XII — Disposiciones comunes del Régimen General
+
+#### Sección 1.ª Mejoras voluntarias de la acción protectora de este Régimen General
+
+##### Subsección 1.ª Disposición General
+
+###### Artículo 181. Mejoras de la acción protectora.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+##### Subsección 2.ª Mejora directa de prestaciones
+
+###### Artículo 182. Principio general.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículo 183. Modos de gestión.
+
+**(Derogado)**
+
+> Se deroga el apartado 2 por la disposición derogatoria única de la Ley 30/1994, de 24 de noviembre. [Ref. BOE-A-1994-26004](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-26004).
+
+> Téngase en cuenta que este artículo ya había sido derogado por el Real Decreto Legislativo 1/1994, de 20 de junio.
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+##### Subsección 3.ª Mejoras por establecimiento de tipos de cotización adicionales
+
+###### Artículo 184. Principio general.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículo 185. Requisitos.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+#### Sección 2.ª Disposiciones sobre seguridad e higiene en el trabajo en el Régimen General
+
+###### Artículo 186. Disposición general.
+
+Sin perjuicio de lo dispuesto en el artículo 27 de esta Ley, en el Régimen General de la Seguridad Social se observarán las normas sobre seguridad e higiene en el trabajo establecidas en la presente Sección y en sus disposiciones de aplicación y desarrollo.
+
+###### Artículo 187. Autorización y asesoramiento.
+
+1\. Todo empresario, antes de proceder a la apertura de un centro de trabajo, deberá obtener la oportuna autorización de la Delegación Provincial de Trabajo competente, previo informe de la Inspección de Trabajo relativo al cumplimiento de las disposiciones de Seguridad e Higiene. Igual autorización habrá de obtenerse para reanudar o proseguir los trabajos después de efectuar alteraciones, ampliaciones o transformaciones de importancia en los locales e instalaciones de los centros de trabajo.
+
+2\. El Ministerio de Trabajo facilitará el asesoramiento que se estime oportuno a las Entidades y Servicios oficiales encargados de la autorización e inspección, relativas a la instalación, construcción o reforma de los edificios y locales destinados a lugares de trabajo.
+
+> Téngase en cuenta el art. 6.1 del Real Decreto-ley 1/1986, de 14 de marzo [Ref. BOE-A-1986-7901](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-7901)., en la redacción dada por el art. 7 de la Ley 25/2009, de 22 de diciembre, que establece:
+
+> "1. Queda suprimido el requisito de la previa autorización para proceder a la apertura de un centro de trabajo o para reanudar o proseguir los trabajos después de efectuar alteraciones, ampliaciones o transformaciones de importancia, previsto en el artículo 187.1 del Texto Refundido de la Ley General de la Seguridad Social, aprobado por Decreto 2065/1974, de 30 de mayo.
+
+> En adelante, será suficiente la comunicación de la apertura del centro de trabajo o de la reanudación de los trabajos debidamente documentados y ajustados al Ordenamiento Jurídico, con carácter previo o dentro de los treinta días siguientes a la apertura, a la autoridad laboral competente, quien la pondrá en conocimiento de la Inspección de Trabajo y Seguridad Social a los efectos previstos en el Convenio 81 de la OIT de 11 de julio de 1947".
+
+###### Artículo 188. Paralización de trabajos que no cumplan las normas de seguridad.
+
+1\. La Inspección de trabajo, además de cualquier otra actuación que proceda, podrá ordenar la paralización o suspensión inmediata de aquellos trabajos o tareas que se realicen sin observar las normas sobre Seguridad e Higiene en el Trabajo aplicables y que, a juicio de la Inspección, impliquen grave riesgo para los trabajadores que los ejecutan o para terceros.
+
+2\. Las Empresas, sin perjuicio del cumplimiento inmediato de tales decisiones, podrán impugnarlas ante el Delegado Provincial de Trabajo competente.
+
+3\. En todo caso, la paralización o suspensión cesarán tan pronto como se subsanen las causas que las motivaron.
+
+4\. El incumplimiento por parte de las Empresas de las decisiones de la Inspección de Trabajo y de las resoluciones de la Autoridad Laboral en esta materia se equiparará, respecto de los accidentes de trabajo que en tal caso pudieran producirse, a falta de formalización de la protección por dicha contingencia de los trabajadores afectados, con independencia de cualquier otra responsabilidad o sanción a que hubiera lugar.
+
+5\. La tramitación de los expedientes derivados de las suspensiones o paralizaciones previstas en el presente artículo se realizarán con arreglo a las normas especiales que se dicten al efecto, y en las que se abreviarán al máximo los plazos comunes de impugnación y resolución. En todo caso, se dará conocimiento a la Organización Sindical de la orden de paralización o suspensión de los trabajos.
+
+###### Artículo 189. Categorías especiales de trabajadores.
+
+Sin perjuicio de las normas específicas sobre trabajos prohibidos a mujeres y menores, las personas que sufran defectos o dolencias físicas, tales como epilepsia, calambres, vértigos, sordera, vista defectuosa o cualquier otra debilidad o enfermedad de efectos análogos, no serán empleadas en máquinas o trabajos en los cuales, a causa de dichos defectos o dolencias puedan, ellas o sus compañeros de trabajo, ponerse en especial peligro.
+
+###### Artículo 190. Servicios de Seguridad e Higiene en el Trabajo.
+
+El Ministerio de Trabajo, atendidas las circunstancias de las Empresas, en cuanto a su mayor o menor peligrosidad, número de trabajadores ocupados, situación geográfica y otras similares, determinará el establecimiento obligatorio de los Servicios de Seguridad e Higiene en el Trabajo que resulten procedentes. Entre tales Servicios se incluirán los relativos a Médicos de Empresa. Los Servicios de Seguridad e Higiene en el Trabajo serán propios, mancomunados o concertados, según los casos. Corresponde, asimismo, al Ministerio de Trabajo determinar los sistemas de titulación y especialización de sus componentes, su vinculación a la Empresa y a su Jurado y las demás condiciones profesionales.
+
+###### Artículo 191. Normas específicas para enfermedades profesionales.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículo 192. Responsabilidades por falta de reconocimientos médicos.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+#### Sección 3.ª Faltas y sanciones
+
+###### Artículo 193. Normas generales.
+
+**(Derogado)**
+
+> Se deroga por la disposición final 1 de la Ley 8/1988, de 7 de abril. [Ref. BOE-A-1988-9115](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-9115).
+
+### CAPÍTULO XIII — Gestión
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 194 a 209.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO XIV — Régimen económico y financiero
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículos 210 a 216.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+### CAPÍTULO XV — Aplicación de las normas generales del sistema
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Artículo 217. Derecho supletorio.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a).2 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Disposición final primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a).3 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Disposición final segunda.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a).3 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Disposición final tercera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a).3 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Disposición final cuarta.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a).3 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Disposición adicional primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a).4 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Disposición adicional segunda.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a).4 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Disposición transitoria primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a).5 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Disposición transitoria segunda.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a).5 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Disposición transitoria tercera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a).5 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Disposición transitoria cuarta.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Ley 26/1990, de 20 de diciembre. [Ref. BOE-A-1990-30939](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30939).
+
+###### Disposición transitoria quinta.
+
+1\. Acreditada su necesidad, podrán concederse prestaciones de asistencia sanitaria o, en su caso, de asistencia social a los trabajadores que hubieran sido declarados en situación de invalidez permanente en el grado de incapacidad total para la profesión habitual a consecuencia de accidente de trabajo o enfermedad profesional, habiéndoseles reconocido con anterioridad a la fecha de entrada en vigor de la Ley 24/1972, de 21 de junio, una cantidad a tanto alzado por estar comprendidos en el supuesto previsto en el número 2 del artículo 137 de la Ley de la Seguridad Social de 21 de abril de 1966.
+
+2\. Asimismo se podrán conceder las indicadas prestaciones, acreditada su necesidad, a quienes, habiendo sido declarados en situación de incapacidad total para la profesión habitual por causa de enfermedad común o accidente no laboral, no hubieran obtenido la condición de pensionista por aplicación de cualquiera de los preceptos contenidos en los artículos 136 y 137 de la Ley de Seguridad Social de 21 de abril de 1966.
+
+3\. Dichas prestaciones serán otorgadas en las condiciones que fije el Ministerio de Trabajo y con la participación de las Entidades que, en su caso, hubieran satisfecho las mencionadas indemnizaciones.
+
+> Se deroga el apartado 4 por la disposición derogatoria única.a).5 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Disposición transitoria sexta.
+
+1 a 3. **(Derogados)**
+
+4\. Continuarán en vigor, salvo que concurra alguna causa de extinción de los mismos, los conciertos que hubiera suscrito la Seguridad Social para la utilización de los Establecimientos sanitarios de las Entidades Colaboradoras del extinguido Seguro de Enfermedad, que cesaron en su colaboración conforme a lo dispuesto en la Ley de la Seguridad Social de 21 de abril de 1966.
+
+5 a 8. **(Derogados)**
+
+9\. Continuarán surtiendo sus efectos las medidas que hubiera adoptado el Ministerio de Trabajo, conforme a lo previsto en el número 13 de la disposición transitoria sexta de la Ley de la Seguridad Social de 21 de abril de 1966, respecto al personal sanitario que en 24 de abril de 1966 prestaba sus servicios a la Caja Nacional del Seguro de Accidentes de Trabajo.
+
+> Se derogan los apartados 1 a 3 y 5 a 8 por la disposición derogatoria única.a).5 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).
+
+###### Disposición transitoria séptima.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a).5 del Real Decreto Legislativo 1/1994, de 20 de junio. [Ref. BOE-A-1994-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14960).

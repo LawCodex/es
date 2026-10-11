@@ -1,0 +1,343 @@
+---
+title: "Resolución de 5 de diciembre de 1996, de la Secretaría de Estado de Justicia, por la que se dictan instrucciones sobre jornada y horarios en el ámbito de la Administración de Justicia"
+identifier: "BOE-A-1996-28064"
+eli: "https://www.boe.es/eli/es/res/1996/12/05/(3)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1996-12-05
+published: 1996-12-17
+in_force_from: 1996-12-18
+last_amended: 2025-03-19
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 303"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-28064"
+retrieved: 2026-10-11
+---
+
+# Resolución de 5 de diciembre de 1996, de la Secretaría de Estado de Justicia, por la que se dictan instrucciones sobre jornada y horarios en el ámbito de la Administración de Justicia
+
+Esta Resolución queda derogada en cuanto se oponga a la Resolución de 15 de julio de 2005, según establece su apartado noveno. [Ref. BOE-A-2005-13722](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-13722), a la Orden JUS/615/2012, de 1 de marzo, por la que se regula la duración de la jornada general de trabajo en cómputo anual y las de las jornadas en régimen de dedicación especial para el personal al servicio de la Administración de Justicia, según establece su apartado noveno. [Ref. BOE-A-2012-4259](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4259), y a la Orden JUS/797/2012, de 29 de marzo, por la que se regula la duración de la jornada general de trabajo en cómputo anual y las de las jornadas en régimen de dedicación especial para el Cuerpo Superior Jurídico de Secretarios Judiciales, según establece su apartado noveno. [Ref. BOE-A-2012-5263](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5263).
+
+## Primero. Ámbito de aplicación.
+
+La presente Resolución será aplicable al personal al servicio de la Administración de Justicia, regulado en el artículo 454 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+
+## Segundo. Normas generales sobre calendario laboral.
+
+La distribución de la jornada y la fijación de los horarios se realizará mediante el calendario laboral.
+
+La Dirección General de Relaciones con la Administración de Justicia elaborará dicho calendario laboral en diciembre de cada año para el año siguiente, previa negociación con las centrales sindicales firmantes del acuerdo de 18 de diciembre de 1995. En dicho calendario habrán de figurar:
+
+El número de horas a realizar cada mes y total anual.
+
+Las fiestas de ámbito nacional.
+
+Las fiestas de cada Comunidad Autónoma y las fiestas locales, que serán las publicadas en el «Boletín Oficial» de la Comunidad Autónoma por el órgano competente para su determinación.
+
+Los horarios especiales que estén en vigor cada año, así como relación de centros con horarios especiales.
+
+Los cinco días de jornada reducida por festividades laborales de los distintos partidos judiciales, que serán autorizadas por el Ministerio de Justicia o, en su caso, por la Comunidad Autónoma correspondiente a propuesta de las centrales sindicales.
+
+Jornada de verano.
+
+Los calendarios laborales de cada centro de trabajo serán públicos y contendrán los extremos referentes a la audiencia pública y al horario de atención directa a los ciudadanos.
+
+La Dirección General de Relaciones con la Administración de Justicia aprobará dicho calendario previa audiencia al Consejo General del Poder Judicial y a los órganos competentes de las Comunidades Autónomas que hayan recibido los traspasos en materia de medios personales para el funcionamiento de la Administración de Justicia.
+
+## Tercero. Jornada de trabajo y horario generales.
+
+1\. La jornada de trabajo en los Juzgados y Tribunales, sus Secretarías y Oficinas Judiciales será de treinta y siete horas treinta minutos semanales en cómputo mensual, según el calendario laboral vigente, salvo lo dispuesto para los horarios especiales que se establezcan.
+
+2\. La parte principal de horario, llamado tiempo fijo, será de cinco horas treinta minutos diarios de obligada concurrencia, entre las ocho treinta y las catorce treinta horas, de lunes a viernes.
+
+3\. La parte flexible de horario está constituida por la diferencia entre la parte fija del horario (cinco horas treinta minutos diarias) y la jornada obligada en cómputo mensual que se indicará en el calendario laboral anual en el que se fijen los cómputos mensuales de obligado cumplimiento a la vista de las fiestas correspondientes de cada mes.
+
+Esta parte flexible de horario se distribuirá, a criterio del empleado público, dentro de la franja horaria comprendida entre las siete treinta y las nueve horas y de las catorce treinta a las diecisiete horas, de lunes a viernes, y el sábado desde las nueve hasta las catorce horas. 4. Se podrá disfrutar de una pausa diaria en la jornada de trabajo por un período de treinta minutos, computable como trabajo efectivo. El Secretario judicial, en su calidad de jefe directo de personal, deberá velar para que el servicio de atención al público, así como las condiciones generales de funcionamiento de la Oficina Judicial, durante esta pausa quede debidamente garantizado, organizando con criterio de equidad, si fuera preciso, los turnos correspondientes.
+
+5\. En aquellos casos en que resulte compatible con las funciones del puesto desempeñado y con las necesidades del servicio, los Secretarios, los Forenses, Oficiales, Auxiliares y Agentes judiciales de la Administración de Justicia, podrán voluntariamente hacer una jornada reducida, continuada e ininterrumpida, de las nueve a las catorce horas, de lunes a viernes, percibiendo un 75 por 100 del total de sus haberes, previa aprobación de la Dirección General de Relaciones con la Administración de Justicia o de los órganos competentes de las Comunidades Autónomas que hayan recibido los traspasos en materia de medios personales para el funcionamiento de la Administración de Justicia.
+
+6\. Garantía del Servicio en sábados: Los Secretarios judiciales garantizarán con la suficiente antelación, y atendiendo en lo posible la petición de los funcionarios, la asistencia del personal mínimo adecuado para atender las diligencias de carácter urgente e inaplazable que pudieran plantearse con cargo a la parte flexible del horario de los empleados públicos de dicha oficina, computándose cada hora trabajada entre las nueve y las catorce horas como si fuera hora y media efectiva, y de las catorce horas en adelante, como dos horas efectivas.
+
+En cualquier caso deberá distribuirse con criterios de equidad entre los distintos componentes de la oficina la asistencia en sábado.
+
+## Cuarto. Horario de atención al público y a los profesionales.
+
+Fijado el horario de audiencia pública en la forma determinada en el artículo 188 de la Ley Orgánica del Poder Judicial; el horario de atención al público y a los profesionales en las Secretaría y Oficinas Judiciales será de nueve a catorce horas, respetando en todo caso el horario fijado de audiencia pública y se dará a conocer de modo ostensible en la parte exterior de Juzgados y Tribunales.
+
+## Quinto. Cumplimiento del horario.
+
+1\. Sin perjuicio de lo dispuesto en el punto tercero de esta Resolución, los Secretarios, Médicos Forenses, Oficiales, Auxiliares, Agentes, y el resto del personal al servicio de la Administración de Justicia, desempeñarán su actividad de acuerdo con las necesidades del servicio y, en todo caso, con sujeción al horario de trabajo establecido conforme dispone la Ley Orgánica del Poder Judicial y en los términos de esta resolución.
+
+2\. El cómputo de las horas efectivamente trabajadas se realizará por meses naturales.
+
+3\. Los permisos, licencias y bajas por causas justificadas computarán a razón de siete horas treinta minutos diarias.
+
+4\. El cumplimiento del horario establecido no justificará la suspensión o interrupción de diligencias y actuaciones procesales urgentes e inaplazables, computándose estas horas de prolongación de jornada más allá del horario establecido anteriormente (con excepción del servicio de guardia) de la manera siguiente:
+
+a) Cada hora trabajada entre las diecisiete y las veintidós horas, de lunes a viernes, como una hora y media efectiva, o la parte proporcional correspondiente.
+
+b) Cada hora trabajada a partir de las veintidós horas hasta las siete treinta horas del día siguiente, domingos y festivos, y a partir de las catorce horas los sábados, como dos horas efectivas o la parte proporcional correspondiente.
+
+5\. En caso de que las anteriores circunstancias supusiesen un exceso de horas trabajadas sobre la jornada mensual a realizar, éstas se podrán amortizar dentro del horario flexible del mes siguiente, de trabajo efectivo, a aquel en que se produjere el mismo, computándose cada hora excedida, como hora y media efectiva.
+
+Esta compensación será incompatible con las generadas según lo dispuesto en el punto anterior.
+
+## Sexto. Horarios especiales.
+
+Por la peculiaridad del servicio o del órgano jurisdiccional: Cuando las peculiaridades de algunos servicios u órganos jurisdiccionales así lo aconsejen, la Dirección General de Relaciones con la Administración de Justicia podrá establecer horarios especiales, por propia iniciativa o por la de las Comunidades Autónomas que tengan competencia en materia de personal, previa negociación con las centrales sindicales más representativas, informe del Consejo General del Poder Judicial y, en su caso, de los Jefes de la Oficina Judicial o de órganos al servicio de la Administración de Justicia. La resolución en la que se aprueben tales horarios especiales establecerá, asimismo, el sistema de control de su cumplimiento y compensación horaria, sin perjuicio de la capacidad de propuesta en esta materia de aquellas Comunidades Autónomas que tengan competencia en la materia.
+
+## Séptimo. Servicio de Guardia.
+
+1\. Servicio de guardia en partidos judiciales que cuenten con 33 o más Juzgados de Instrucción:
+
+a) En los partidos judiciales que cuenten con más de treinta y tres o más Juzgados de Instrucción, el servicio de guardia ordinaria comenzará a las nueve horas, permaneciendo todos los funcionarios de forma ininterrumpida hasta las veintiuna horas, sin más ausencias que las obligadas por la necesidad de practicar diligencias en el exterior y las imprescindibles para realizar las comidas, sin que puedan sobrepasar de una hora y treinta minutos para la comida.
+
+A partir de las veintiuna horas, sólo permanecerán en el local judicial el secretario judicial y una dotación reducida de personal compuesta por un médico forense, un gestor procesal, un tramitador procesal y un auxiliar judicial del juzgado, que por las normas de reparto le corresponda permanecer hasta las nueve horas del día siguiente. Si bien, el titular del órgano podrá acordar, si resulta necesario, la ampliación de dicha dotación. El resto de personal del juzgado, así como el de los otros juzgados de guardia, cesará en la medida que concluyan sus actuaciones en los asuntos que hubieren recibido con anterioridad y estuviesen tramitando.
+
+Los funcionarios que hayan permanecido en el local judicial a partir de las veintiuna horas, no trabajarán el día de salida de la guardia, y si ésta coincidiera en sábado, el día de descanso se trasladaría al lunes.
+
+b) Los funcionarios del juzgado de instrucción constituido en servicio de guardia de enjuiciamiento de faltas, que permanezcan desde las nueve horas hasta las veintiuna horas, dispondrán de un máximo de una hora y treinta minutos para la comida.
+
+El resto de la plantilla que no esté incluida en este turno de guardia, realizará el horario general establecido para el ámbito de la Administración de Justicia.
+
+2\. Servicio de guardia en partidos judiciales que cuenten con 13 o más juzgados de instrucción:
+
+a) La prestación del servicio de guardia ordinario, de cuarenta y ocho horas, en los partidos judiciales que cuenten con trece o más juzgados de instrucción, se realizará de la misma forma que la establecida en el apartado 1.a) de la presente resolución.
+
+b) Los funcionarios del juzgado de instrucción, constituido en servicio de guardia de enjuiciamiento de faltas, que permanezcan desde las nueve hasta las diecinueve horas, dispondrán de un máximo de una hora y treinta minutos, para la comida.
+
+El resto de la plantilla, que no esté incluida en este turno de guardia, realizará el horario general establecido para el ámbito de la Administración de Justicia.
+
+3\. Servicio de guardia en partidos judiciales que cuenten con 10 o más juzgados de instrucción:
+
+a) La prestación del servicio de guardia ordinario, se realizará en la misma forma que la establecida en el apartado 1.a) de la presente resolución.
+
+b) La prestación del servicio de guardia, constituido para enjuiciamiento inmediato de faltas, se realizará en la misma forma que la establecida en el apartado 2.b) de esta resolución.
+
+4\. Servicios de guardia en partidos judiciales que cuenten con 8 o más juzgados de instrucción:
+
+a) El servicio de guardia ordinaria que se prestará por un juzgado de instrucción, con periodicidad semanal, se realizará en régimen de jornada partida, actuando de nueve a catorce horas, en horario de mañana y de diecisiete a veinte horas en sesión de tarde, de lunes a sábado. Los domingos y festivos el juzgado en funciones de guardia prestará servicio de diez a catorce horas.
+
+Fuera del horario expresado, permanecerán en situación de continua localización, para atender puntualmente a cualquier incidencia propia del servicio de guardia que pudiera suscitarse.
+
+Los funcionarios de la plantilla que hayan realizado ese servicio de guardia, no trabajarán el día siguiente de la salida de guardia.
+
+El resto de la plantilla que no esté incluida en este turno de guardia, realizará el horario general establecido para el ámbito de la Administración de Justicia.
+
+b) La prestación del servicio de guardia de permanencia, para el enjuiciamiento inmediato de las faltas, se realizará en la misma forma que la establecida en el apartado 2.b) de esta resolución.
+
+5\. Servicio de guardia en los Juzgados Centrales de Instrucción.
+
+La prestación del servicio de guardia de permanencia semanal, se realizará de la misma forma que la establecida en el apartado 4.a) de esta resolución, por un secretario judicial, un médico forense, un gestor procesal, dos tramitadores procesales y un auxiliar judicial.
+
+6\. Servicio de guardia en los restantes partidos judiciales, en los que exista separación de jurisdicciones o que cuenten con cuatro o más juzgados de primera instancia e instrucción.
+
+La prestación del servicio de guardia, de ocho días, en estos partidos judiciales, se realizará en régimen de jornada partida, actuando de nueve a catorce horas, en horario de mañana, de lunes a sábado, y en turno rotatorio entre los funcionarios de guardia de lunes a sábado de diecisiete a veinte horas y domingo de diez a catorce horas.
+
+Asimismo, el horario de actuación del servicio de guardia del octavo día, que se dedicará al enjuiciamiento inmediato de las faltas, será de nueve a catorce horas, en horario de mañana y de diecisiete a veinte horas, en sesión de tarde.
+
+Fuera del horario expresado, permanecerán en situación de continua localización, para atender puntualmente a cualquier incidencia propia del servicio de guardia que pudiera suscitarse.
+
+El funcionario a quien hubiera correspondido realizar la guardia en domingo tendrá derecho a descansar el día posterior a la guardia, para garantizar el derecho al descanso de 35 horas semanales.
+
+El resto de la plantilla que no esté incluida en este turno de guardia, realizará el horario general establecido para el ámbito de la Administración de Justicia.
+
+7\. El servicio de guardia en partidos judiciales que cuenten con dos o tres juzgados de primera instancia e instrucción.
+
+La prestación del servicio de guardia, de ocho días de disponibilidad, en estos partidos judiciales, se prestará durante la jornada ordinaria de trabajo, del juzgado que se encuentre en turno, sin que la misma experimente alteración alguna.
+
+Fuera de esta jornada, el personal de guardia permanecerá en situación de disponibilidad y en condiciones de continua localización, para atender puntualmente a cualesquiera incidencias propias del servicio de guardia que pudieran suscitarse, en cuyo caso se incorporarán al mismo de forma inmediata. No obstante, el horario de actuación de estos funcionarios en servicio de guardia, durante el octavo día, será de nueve a catorce horas, en horario de mañana, y de diecisiete a veinte horas, en sesión de tarde.
+
+El resto de la plantilla que no esté incluida en este turno de guardia, realizará el horario general establecido para el ámbito de la Administración de Justicia.
+
+8\. El servicio de guardia en los partidos judiciales que cuenten con un único Juzgado de Primera Instancia e Instrucción.
+
+En aquellos partidos judiciales en que exista un único juzgado de primera instancia e instrucción el servicio de guardia se prestará de forma continua durante la jornada ordinaria de trabajo sin que la misma experimente alteración alguna.
+
+Fuera de la jornada establecida el personal de guardia que por turno les corresponda permanecerán en situación de disponibilidad y continua localización para atender puntualmente a cualesquiera incidencia propia del servicio de guardia que pudiera suscitarse, en cuyo caso se incorporarán al mismo de forma inmediata.
+
+9\. Servicios de guardia en poblaciones con cuatro o más juzgados de menores:
+
+a) El servicio de guardia se prestará con periodicidad semanal y para la prestación de este servicio fuera de la jornada ordinaria el personal de guardia que por turno les corresponda permanecerá en situación de disponibilidad y en condiciones de continua localización para atender puntualmente a cualesquiera incidencias propias del servicio de guardia que pudiesen suscitarse, en cuyo caso se incorporarán de forma inmediata.
+
+b) En el caso de que el servicio de guardia sea de permanencia de tres días de los juzgados de menores, el personal de guardia que por turno les corresponda la realizará en régimen de presencia de nueve a veintiuna horas y a partir las veintiuna horas hasta las nueve horas del día siguiente, estarán en situación de disponibilidad y en condiciones de continua localización, para atender puntualmente a cualesquiera incidencias propias del servicio de guardia que pudieren suscitarse, en cuyo caso se incorporarán de forma inmediata.
+
+Los funcionarios a los que les corresponda el turno de guardia, dispondrán de un máximo de una hora y treinta minutos, para la comida.
+
+El resto de la plantilla que no esté incluido en este turno de guardia realizará el horario general establecido para el ámbito de la Administración de Justicia.
+
+10\. Servicio especial de guardia de veinticuatro horas para atender cualquier incidencia derivada de la Ley Orgánica Reguladora de la Responsabilidad Penal de los Menores.
+
+Para la atención de cualquier incidencia que exija, de acuerdo con lo previsto en la Ley Orgánica reguladora de la Responsabilidad Penal de los Menores, la intervención del Ministerio Fiscal, se establecerá una guardia de veinticuatro horas en las capitales de las provincias de Barcelona, Madrid, Valencia y Sevilla.
+
+La prestación de dicho servicio por el personal de guardia, que por turno le corresponda, será de presencia desde las nueve hasta las veintiuna horas, disponiendo de un máximo de una hora y treinta minutos para la comida. A partir de las veintiuna horas y si el fiscal de guardia lo considera conveniente, podrá dejar una dotación reducida de personal hasta las nueve horas del día siguiente, permaneciendo el resto en situación de disponibilidad y en condiciones de continua localización, para atender puntualmente a cualesquiera incidencias propias del servicio de guardia, que pudieran suscitarse, en cuyo caso se incorporarán al servicio de forma inmediata.
+
+Los funcionarios que hayan permanecido en el local de la fiscalía a partir de las veintiuna horas, no trabajarán el día de salida de la guardia, y si ésta coincidiera en sábado, el día de descanso se trasladaría al lunes.
+
+11\. Servicio especial de guardia semanal de permanencia y disponibilidad, para atender cualquier incidencia que se derive de la Ley Orgánica Reguladora de la Responsabilidad Penal de los Menores.
+
+Para la atención de cualquier incidencia que exija, de acuerdo con lo previsto en la Ley Orgánica Reguladora de la Responsabilidad Penal de los Menores, la intervención del Ministerio Fiscal se establecerá:
+
+a) Un servicio de guardia de permanencia, con periodicidad semanal, en régimen de jornada partida, de nueve a catorce horas y de diecisiete a veinte horas, de lunes a sábado, así como los domingos y festivos de diez a catorce horas, permaneciendo fuera de los expresados márgenes horarios en situación de disponibilidad y en condiciones de continua localización, a realizar por el personal de guardia que por turno le corresponda, en las fiscalías de las siguientes capitales de provincia:
+
+Zaragoza, Ceuta, Melilla, Santa Cruz de Tenerife, Las Palmas de Gran Canaria, Murcia, Málaga, Cádiz y Granada.
+
+La prestación de este servicio de guardia, se realizará en la misma forma que las establecidas en el apartado 4.a) de esta resolución.
+
+b) Un servicio de guardia de disponibilidad con periodicidad semanal y en condiciones de continua localización, a realizar por el personal de guardia que por turno le corresponda en las Fiscalías del resto de capitales de provincia y en la Fiscalía de la Audiencia Nacional.
+
+La prestación de este servicio de guardia se realizará en la misma forma que las establecidas en el apartado 8 de esta resolución.
+
+12\. Guardia semanal de disponibilidad en la Fiscalía de la Audiencia Nacional y Fiscalía Especial para la Represión del Tráfico Ilegal de Drogas.
+
+En el ámbito de la Audiencia Nacional y Fiscalía Especial para la Represión del Tráfico Ilegal de Drogas, se establecerá un servicio de guardia de disponibilidad, de periodicidad semanal, en la Fiscalía de la Audiencia Nacional y en la Fiscalía Especial para la Represión del Tráfico Ilegal de Drogas, para la atención de cualquier incidencia que pudiera presentarse fuera de la jornada de trabajo establecida legalmente.
+
+La prestación de este servicio de guardia, por el personal que por turno le corresponda, se llevará a cabo de la misma forma que las establecidas en el apartado 8 de esta resolución.
+
+13\. Guardias de permanencia los domingos y días festivos en los registros civiles únicos.
+
+Este servicio de guardia se prestará por un gestor procesal de los destinados en los registros civiles únicos, en horario de mañana de diez a catorce horas.
+
+Cuando la guardia se realice en domingo, el gestor procesal que la haya realizado, no trabajará al día siguiente de la salida de la guardia.
+
+14\. Guardias de los médicos forenses.
+
+Sin perjuicio de lo establecido en los apartados anteriores, las guardias de los médicos forenses destinados en los institutos de medicina legal podrán ser acordadas, por resolución de la Dirección General de Relaciones con la Administración de Justicia o el órgano correspondiente de la comunidad autónoma competente, conforme a los siguientes parámetros:
+
+– Guardia ordinaria de veinticuatro horas. Se presta de nueve horas de la mañana a nueve horas del día siguiente, de las que serán de permanencia de nueve a veintiuna horas y el resto de disponibilidad.
+
+– Guardia de permanencia para el enjuiciamiento inmediato de faltas. Se presta de nueve a veintiuna horas en régimen de permanencia.
+
+– Guardia de permanencia de ocho días, con horario de permanencia de ocho a quince horas de lunes a viernes y el resto de disponibilidad.
+
+La prestación del servicio de guardia se podrá fraccionar en periodos inferiores a ocho días, si las necesidades del servicio lo permiten, en este caso las retribuciones se prorratearán por días.
+
+– Guardia de permanencia semanal, con horario de permanencia de nueve a quince horas de lunes a viernes y el resto de disponibilidad.
+
+La prestación del servicio de guardia se podrá fraccionar en periodos inferiores a siete días, si las necesidades del servicio lo permiten y, en este caso, las retribuciones se prorratearán por días.
+
+– Guardia de disponibilidad de ocho días, que se prestará en la jornada ordinaria de trabajo y el resto de disponibilidad.
+
+– Guardia disponibilidad semanal con horario de permanencia de nueve a catorce horas de lunes a viernes y el resto de disponibilidad.
+
+Las normas establecidas en los apartados anteriores podrán adaptarse a cada instituto de medicina legal, en función del tamaño y organización del mismo, siempre que se garantice el cumplimiento de las normas comunes del apartado 16, para atender las necesidades del servicio.
+
+Tienen derecho a gozar del día de descanso obligatorio y remunerado posterior a la guardia los médicos forenses que la hayan realizado bajo el régimen de guardia de veinticuatro horas.
+
+Los médicos forenses que hayan realizado los servicios de guardia de permanencia y disponibilidad semanal o de ocho días, no trabajarán al día siguiente al de la salida de guardia. En los casos en los que las funciones médico-forenses obligatorias, derivadas del servicio de guardia, impidan el disfrute de la jornada de descanso al día siguiente de su finalización, y con la finalidad de garantizar la correcta prestación del servicio en el instituto de medicina legal, esta se podrá disfrutar en los diez días laborables siguientes a la conclusión de la misma.
+
+La posibilidad de este aplazamiento en el disfrute de la jornada de descanso durante los diez días siguientes solo será factible sí la guardia de disponibilidad permite el derecho al descanso semanal de treinta y cinco horas ininterrumpidas computando un periodo de referencia de dos semanas, y un descanso diario de once horas ininterrumpidas. En caso contrario, y para las situaciones excepcionales en las que la guardia no permita el citado descanso, el médico forense deberá disfrutar de una jornada de descanso inmediatamente posterior a la finalización de todas las actuaciones derivadas de la guardia.
+
+En el supuesto de que el médico forense se viera obligado a realizar una salida durante una guardia de disponibilidad, que le impidiera disfrutar durante la jornada de guardia de once horas de descanso ininterrumpido, una vez terminada la actuación, tendrá derecho a disfrutar de ese descanso, demorándose el comienzo de su siguiente jornada en el tiempo necesario para garantizar el descanso efectivo de once horas ininterrumpidas desde el final de la actuación.
+
+Los médicos forenses que realicen guardias con horario de permanencia de nueve a veintiuna horas dispondrán de un máximo de una hora y treinta minutos para la comida.
+
+15\. Guardias del Instituto Nacional de Toxicología y Ciencias Forenses:
+
+a) En los Departamentos de Madrid, Barcelona y Sevilla del Instituto de Toxicología se prestará un servicio de guardia de permanencia semanal.
+
+La prestación de este servicio por el personal facultativo, ayudantes de laboratorio o técnicos especialistas de laboratorio que por turno les corresponda, se realizará en régimen de jornada partida, actuando de nueve a catorce horas, en horario de mañana y de diecisiete a veinte horas, en sesión de tarde, de lunes a sábado. Los domingos y festivos el horario será de diez a catorce horas.
+
+Los funcionarios que hayan realizado este servicio de guardia, no trabajarán al día siguiente de la salida de guardia.
+
+b) En la delegación de Tenerife, se prestará un servicio de guardia de disponibilidad semanal en condiciones de continua localización.
+
+El Director General de Relaciones con la Administración de Justicia, podrá acordar, si lo considera conveniente, que en los departamentos de Madrid, Barcelona y Sevilla, el servicio de guardia se realice también en régimen de disponibilidad.
+
+Este servicio de guardia se prestará por el personal facultativo, ayudante de laboratorio o técnicos especialistas que por turno les corresponda, de la misma forma que la establecida en el apartado 8 de esta resolución.
+
+16\. Normas comunes:
+
+a) Debe considerarse como tiempo trabajado el tiempo de guardia con presencia física desempeñado en el lugar de trabajo, bien sea la oficina o donde se realice la actuación derivada de la guardia.
+
+En el caso de guardias de disponibilidad se computará como tiempo de trabajo el lapso de tiempo que se dedique a una intervención efectiva en respuesta a una llamada de asistencia, contando esa intervención desde la llamada para la prestación del servicio de guardia que efectúa el personal funcionario, hasta su regreso al punto de origen en el que se encontraba el trabajador en el momento de ser requerido para tal actuación.
+
+A todos los efectos, se entiende por permanencia la presencia física en la oficina o en el lugar donde se realiza el trabajo, y por disponibilidad la condición de continua localización.
+
+b) La aplicación de las normas establecidas en la presente Resolución deberá garantizar que, en todo caso, el personal al servicio de Administración de Justicia disfruta de un descanso diario de once horas ininterrumpidas en cada jornada de veinticuatro horas, así como de un descanso semanal de treinta y cinco horas ininterrumpidas, teniendo en cuenta un periodo de referencia de dos semanas. En los supuestos excepcionales en que dichas horas de descanso no se puedan disfrutar por necesidades del servicio derivadas de la guardia, se reconocerá un descanso compensatorio que suceda inmediatamente al tiempo de trabajo que se compensa.
+
+c) Los funcionarios destinados en los órganos y servicios de la Administración de Justicia, así como en las fiscalías, sujetos al régimen de servicio de guardias, se turnarán, de forma rotatoria, entre todo el personal que compone la plantilla.
+
+d) Durante el tiempo utilizado para la comida, en las guardias que se realicen de forma ininterrumpida, el servicio quedará debidamente atendido.
+
+e) Al término del servicio de guardia ordinaria, los funcionarios que lo hubieren prestado podrán dejar de asistir a la oficina el propio día de conclusión de la guardia o dentro de los tres días laborables siguientes en los mismos supuestos reconocidos a los Letrados de la Administración de Justicia.
+
+f) Los funcionarios que asistan a la guardia en situación de permanencia semanal o de disponibilidad y hubieran rebasado el horario de trabajo en cómputo semanal, el exceso de horas trabajadas se compensará, dentro del horario flexible, garantizándose siempre los periodos de descanso semanal y diario en los términos señalados en el apartado b) de este artículo. En todo caso, la duración media del trabajo, incluidas las horas de trabajo de la guardia o las horas extraordinarias, no excederá de cuarenta y ocho horas, por cada período de siete días, en cómputo semestral.
+
+g) En aquellas localidades, en las que existan servicios comunes u otros órganos que presten apoyo al servicio de guardia, el Director General de Relaciones con la Administración de Justicia, o en su caso los órganos competentes de las Comunidades Autónomas, que les hayan sido transferidas las competencias de medios personales de la Administración de Justicia, podrán acordar la incorporación de este personal al servicio de guardia.
+
+Estos funcionarios prestarán el servicio de guardia de la misma forma y con las mismas compensaciones, según el tipo de guardia previsto en esta resolución.
+
+> Se modifica la letra e) del apartado 16 por el art. único de la Resolución de 5 de marzo de 2025. [Ref. BOE-A-2025-5406](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5406)
+
+> Se modifica por el art. único de la Resolución de 2 de julio de 2014. [Ref. BOE-A-2014-7289](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7289).
+
+> Se modifica el apartado 6 por el art. único de la Resolución de 14 de junio de 2013. [Ref. BOE-A-2013-7095](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7095).
+
+> Se modifica por el art. único de la Resolución de 4 de junio de 2003. [Ref. BOE-A-2003-12098](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-12098).
+
+## Octavo. Jornada de verano.
+
+Durante el período comprendido entre el 1 de julio y el 15 de septiembre, la Dirección General de Relaciones con la Administración de Justicia establecerá una jornada intensiva de trabajo que podrá ser de treinta y cinco horas semanales en cómputo mensual. La jornada establecida se podrá realizar entre las siete treinta horas y las quince treinta horas, de lunes a viernes, siendo la parte fija u obligatoria entre las ocho treinta y catorce treinta. Respecto al horario en sábados se estará a lo dispuesto en el apartado tercero, punto 6.
+
+## Noveno. Control del cumplimiento del horario.
+
+El control interno de cumplimiento del horario en cada Secretaría y Oficina Judicial corresponderá al Secretario judicial.
+
+La Dirección General de Relaciones con la Administración de Justicia, en su caso, a propuesta de las Comunidades Autónomas con competencias asumidas en materia de personal, previa comunicación con las centrales sindicales, dictará las instrucciones precisas para el control de cumplimiento del horario, para el uso de los medios mecanizados de control horario y para la justificación de incidencias tanto en las oficinas donde esté instalado el control mecánico como en las que aún no se hubiera procedido a su instalación.
+
+En ningún caso se admitirán otros medios de control mecanizados que no sean los autorizados por la Dirección General de Relaciones con la Administración de Justicia o, en su caso, la Comunidad Autónoma con competencias en materia de personal.
+
+En aquellas sedes donde estuviesen instalados medios mecánicos de control del horario, los Secretarios judiciales, antes del día 5 del mes siguiente remitirán a la correspondiente Gerencia Territorial de Justicia, o a los órganos competentes de las Comunidades Autónomas, la justificación, si la hubiere, de las ausencias detectadas por el sistema mecánico de control, según la norma que fije la instrucción de la Dirección General de Relaciones con la Administración de Justicia sobre «Sistema de control del horario de trabajo en la Administración de Justicia».
+
+Mensualmente los Gerentes territoriales del Ministerio de Justicia, o el órgano competente de las Comunidades Autónomas con competencias en materia de personal, remitirán a los Secretarios judiciales los listados resultantes de cumplimiento del horario.
+
+## Décimo. Incumplimiento del horario de trabajo.
+
+La deducción proporcional de haberes procederá en los supuestos en que exista una diferencia, en cómputo mensual, entre la jornada reglamentaria y la efectivamente realizada, salvo justificación, tal como prescribe el artículo 56.2 de la Ley 42/1994, de 30 de diciembre («Boletín Oficial del Estado» del 31), que modifica la Ley 17/1980, de Retribuciones del Personal al Servicio de la Administración de Justicia.
+
+El incumplimiento injustificado y reiterado del horario dará lugar a la incoación de expediente disciplinario, según determinen los respectivos reglamentos (Reglamento Orgánico de los Cuerpos de Oficiales, Auxiliares y Agentes de la Administración de Justicia, aprobado por Real Decreto 249/1996, de 16 de febrero («Boletín Oficial del Estado» de 1 de marzo) y Reglamento Orgánico del Cuerpo de Secretarios Judiciales, aprobado por Real Decreto 429/1988, de 29 de abril, y Reglamento Orgánico de Forenses, aprobado por Real Decreto 296/1996, de 23 de febrero («Boletín Oficial del Estado» de 1 de marzo), y demás normas de aplicación supletoria.
+
+Sin perjuicio de lo anterior, antes de proceder a descontar los haberes correspondientes a los incumplimientos del horario que pudieran producirse, se dará opción al trabajador afectado para que pueda recuperar el tiempo no trabajado en el mes siguiente al incumplimiento, sin que dicha opción afecte a la responsabilidad disciplinaria en que se hubiera incurrido por incumplimiento del horario.
+
+## Undécimo. Vacaciones, permisos y licencias.
+
+1\. El personal al servicio de la Administración de Justicia que hubiese trabajado, en servicio activo, durante un año, tendrá derecho a disfrutar de una vacación anual de un mes o a los días que en proporción les correspondan si el tiempo de servicio fuera menor. A estos efectos el año de servicio será el año judicial y, por tanto, se computará de septiembre a septiembre.
+
+Esta vacación se concederá a petición del interesado, preferentemente durante los meses de julio, agosto y septiembre, siempre y cuando el servicio quede debidamente garantizado.
+
+Los Secretarios judiciales participarán a la Sala de Gobierno, a las Comunidades Autónomas con competencias asumidas en materia de personal o a las Gerencias Territoriales correspondientes, los turnos de permanencia durante el mes de agosto y los funcionarios que han de prestar servicios durante tal mes, así como la autorización de vacaciones durante otros meses o períodos.
+
+En cualquier caso la atribución de los turnos de vacaciones deberá realizarse con criterios de equidad entre los distintos componentes de las oficinas.
+
+2\. A lo largo del año, el personal al servicio de la Administración de Justicia, tendrá derecho a disfrutar nueve días de permiso por asuntos particulares, sin perjuicio de la concesión de los restantes permisos y licencias establecidos en la normativa vigente.
+
+Tales días, no podrán acumularse, en ningún caso, a los períodos de vacaciones anuales. Los Secretarios judiciales, con la supervisión de los Jueces, Magistrados o Presidentes, autorizarán los días de disfrute de los mismos, salvo que concurran necesidades objetivas del servicio. Cuando por estas razones no sea posible disfrutar el mencionado permiso total o parcialmente antes de finalizar el mes de diciembre, se disfrutarán en el mes de enero del año siguiente.
+
+## Disposición derogatoria primera.
+
+La presente Resolución deroga la Resolución de 8 de febrero de 1996, dictada por la Secretaría de Estado de Justicia y demás disposiciones de desarrollo.
+
+## Disposición derogatoria segunda.
+
+A partir de la entrada en vigor de esta Resolución, quedan sin efecto los horarios especiales de trabajo y de atención al público distintos de los fijados con carácter general, debiendo solicitarse de nuevo su aprobación si se estima necesario.
+
+## Disposición final primera.
+
+Las referencias contenidas en la presente Resolución relativas a los Secretarios judiciales, respecto al control del cumplimiento horario y justificación de incidencias, se entenderán hechas a los Fiscales Jefes, Director del Instituto de Toxicología y de los Departamentos, y Directores de los Institutos Anatómicos Forenses y Clínicas Médico-Forenses, o en su día, Institutos de Medicina Legal o funcionarios en quien deleguen, respecto al personal dependiente de éstos.
+
+## Disposición final segunda.
+
+Los Acuerdos de la Comisión Paritaria de Formación, constituida por el Ministerio de Justicia o los órganos de las Comunidades Autónomas con competencias asumidas en materias de personal, en cuanto a régimen de horario, serán efectivos respecto a esta Resolución.
+
+## Disposición final tercera.
+
+La presente Resolución entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Lo que comunico a V. I., para su conocimiento y efectos.
+
+Madrid, 5 de diciembre de 1996.-El Secretario de Estado, P. D. (Resolución de 8 de julio de 1996), el Director general de Relaciones con la Administración de Justicia, Juan Ignacio Zoido Álvarez.

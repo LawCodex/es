@@ -1,0 +1,52 @@
+---
+title: "Orden de 16 de marzo de 1984 sobre obligatoriedad de señalización de los depósitos auxiliares de distribución de explosivos"
+identifier: "BOE-A-1984-7391"
+eli: "https://www.boe.es/eli/es/o/1984/03/16/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria y Energía"
+date: 1984-03-16
+published: 1984-03-28
+in_force_from: 1984-04-17
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 75"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1984-7391"
+retrieved: 2026-10-11
+---
+
+# Orden de 16 de marzo de 1984 sobre obligatoriedad de señalización de los depósitos auxiliares de distribución de explosivos
+
+Ilustrísimo señor:
+
+La proliferación por toda la geografía nacional, especialmente en las zonas mineras, canteras, alumbramientos de agua y trabajos similares, de depósitos auxiliares de explosivos en forma de «caja fuerte», previstos en el artículo 183.2 del vigente Reglamento de Explosivos, exige la adopción de medidas para garantizar el cumplimiento de la obligación general que establece el artículo 3 del indicado texto reglamentario, sobre la necesidad de advertir la presencia de explosivos, de modo perfectamente visible en todo momento y lugar.
+
+En su virtud, oída la Comisión Interministerial Permanente de Armas y Explosivos y en uso de las facultades que le confiere la disposición final primera del mencionado Reglamento,
+
+Este Ministerio ha tenido a bien disponer:
+
+## Primero.
+
+Los depósitos auxiliares en forma de «caja fuerte», previstos en el artículo 183.2 del vigente Reglamento de Explosivos, deberán llevar en la parte superior en su cara frontal una señal, consistente en un cuadrado de color naranja, sobre el que figura una bomba negra y que se apoya en uno de sus vértices, podrá pintarse directamente sobre la cara antes indicada o sobre una placa que se fijara en el mismo lugar. El modelo de señal figura en el anexo.
+
+## Segundo.
+
+Los responsables de las «cajas fuertes» dedicadas a depósitos auxiliares de distribución, ya instaladas y en funcionamiento, tendrán la obligación de efectuar la señalización que se indica en el artículo anterior, en un plazo no superior a dos meses a partir de la fecha de publicación de la presente Orden.
+
+Del mismo modo los fabricantes de las citadas «cajas fuertes» deberán comercializarlas con dicha señalización a partir de la entrada en vigor de la Orden.
+
+Madrid, 16 de marzo de 1984.
+
+SOLCHAGA CATALÁN
+
+Ilmo. Sr. Director general de Minas.
+
+## ANEXO QUE SE CITA — Señal a colocar en la parte superior de la cara frontal del depósito auxiliar
+
+![1](https://www.boe.es/datos/imagenes/disp/1984/75/07391_4494.png)
+
+Cuadrado con fondo naranja de 20 centímetros de lado, apoyado sobre un vértice, bordeado por línea negra de 5 milímetros del margen
+
+La figura es una bomba en negro dibujada sobre una de las diagonales.Trazo de las letras en negro de 5 milímetros.

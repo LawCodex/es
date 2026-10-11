@@ -1,0 +1,209 @@
+---
+title: "Real Decreto 2507/1983, de 4 de agosto, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración y comercialización de masas fritas"
+identifier: "BOE-A-1983-25248"
+eli: "https://www.boe.es/eli/es/rd/1983/08/04/2507"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1983-08-04
+published: 1983-09-20
+in_force_from: 1983-10-10
+last_amended: 2013-03-29
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 225"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1983-25248"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2507/1983, de 4 de agosto, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración y comercialización de masas fritas
+
+La antigüedad de la Orden de la Presidencia del Gobierno de 29 de abril de 1959 por la que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración y venta de productos de churrería aconseja proceder a una revisión de la misma, con la finalidad de adecuar la referida disposición a las circunstancias tecnológicas del momento.
+
+El Decreto de la Presidencia del Gobierno número 2484/1967, de 21 de septiembre, por el que se aprueba el texto del Código Alimentario Español, prevé que puedan ser objeto de reglamentación especial las materias en él reguladas.
+
+Publicado el Decreto de la Presidencia del Gobierno número 2519/1974, de 9 de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, hacen preciso adaptar la Reglamentación Técnico-Sanitaria a las exigencias actuales para una mejor información del consumidor.
+
+En su virtud, a propuesta de los Ministros de Economía y Hacienda, Industria y Energía, Agricultura, Pesca y Alimentación y de Sanidad y Consumo, de acuerdo con la Comisión Interministerial para la Ordenación Alimentaria, y previa deliberación del Consejo de Ministros en su reunión del día 3 de agosto de 1983
+
+DISPONGO:
+
+#### Artículo único.
+
+Se aprueba la Reglamentación Técnico-Sanitaria para la elaboración y comercialización de masas fritas.
+
+### DISPOSICIÓN TRANSITORIA
+
+#### Única.
+
+Las reformas y adaptaciones de las instalaciones existentes derivadas de las exigencias incorporadas a esta Reglamentación que no sean consecuencia de disposiciones legales vigentes y, en especial de lo dispuesto en el Decreto 2519/1974, de 9 de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentarlo Español serán llevadas a cabo en el plazo de doce meses a contar desde la publicación de la presente Reglamentación.
+
+### DISPOSICIÓN DEROGATORIA
+
+#### Única.
+
+Queda derogada la Orden de la Presidencia del Gobierno, de 29 de abril de 1959 por la que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración y venta de productos de churrería y las disposiciones de igual o inferior rango en lo que se opongan a lo dispuesto en el presente Real Decreto a partir de su entrada en vigor.
+
+Dado en Palma de Mallorca a 4 de agosto de 1983.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JAVIER MOSCOSO DEL PRADO Y MUÑOZ
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA PARA LA ELABORACIÓN Y COMERCIALIZACIÓN DE MASAS FRITAS
+
+#### Artículo 1.º Ámbito de aplicación.
+
+La presente Reglamentación tiene por objeto definir, a efectos legales, lo que entiende por masas fritas y fijar con carácter obligatorio, las normas de fabricación, elaboración, comercialización y, en general, la ordenación técnico-sanitaria de tales productos.
+
+Esta Reglamentación obliga a los fabricantes, elaboradores y comerciantes de masas fritas que ejerzan su actividad en instalaciones fijas, establecimientos de hostelería y similares que preparen este tipo de productos para el consumo dentro de su establecimiento e instalaciones no permanentes.
+
+Se consideran fabricantes, expendedores de masas fritas aquellas personas, naturales o jurídicas, que en uso de las autorizaciones concedidas por los Organismos oficiales competentes dedican su actividad a la fabricación, elaboración y venta de los productos definidos en el artículo 3.<sup>o</sup>
+
+Las masas fritas con relleno y las masas fermentadas fritas quedan excluidas de la presente Reglamentación y deberán cumplir obligatoriaente la vigente Reglamentación Técnico-Sanitaria de confitería, pastelería, bollería y repostería.
+
+## TÍTULO PRIMERO — Definiciones y denominaciones
+
+#### Art. 2.º
+
+Se consideran masas fritas aquellos preparados alimenticios de consumo inmediato fabricados por una mezcla de agua potable, harina y sal, adicionados o no de gasificantes autorizados, fritos en aceite vegetal comestible autorizado para estos fines.
+
+Se denominan churros, buñuelos o con aquellos otros nombres que correspondan al tipo y forma de presentación en sus diferentes variedades.
+
+## TÍTULO SEGUNDO — Condiciones de las Industrias, de los materiales y del personal. Manipulaciones prohíbidas
+
+#### Art. 3.º Requisitos Industriales de instalaciones fijas, establecimiento de hostelería y similares.
+
+**(Derogado)**
+
+> Se deroga por el art. 26 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 4.º Requisitos industriales de las instalaciones no permanentes.
+
+**(Derogado)**
+
+> Se deroga por el art. 26 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 5.<sup>o</sup> Requisitos higiénico-sanitarios de las instalaciones fijas, establecimientos de hostelería y similares.
+
+**(Derogado)**
+
+> Se deroga por el art. 26 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 6.º Requisitos higiénico-sanitarios de las instalaciones no permanentes.
+
+**(Derogado)**
+
+> Se deroga por el art. 26 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 7.º Condiciones generales de los materiales.
+
+**(Derogado)**
+
+> Se deroga por el art. 26 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 8.º Condiciones del personal.
+
+**(Derogado)**
+
+> Se deroga por el art. 26 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 9.º Manipulaciones prohibidas.
+
+Queda prohibido:
+
+9.1 **(Derogado)**
+
+9.2 **(Derogado)**
+
+9.3 **(Derogado)**
+
+9.4 **(Derogado)**
+
+9.5 **(Derogado)**
+
+9.6 La utilización de grasas animales o vegetales solas o sus mezclas con los aceites vegetales autorizados.
+
+9.7 El refreír los productos contemplados en el artóculo 2.º de la presente Reglamentación.
+
+> Se derogan excepto los apartados 6 y 7 por el art. 26 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 10. Aditivos autorizados.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.66 del Real Decreto 145/1997, de 31 de enero. [Ref. BOE-A-1997-6156](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-6156).
+
+## TÍTULO TERCERO — Registros administrativos
+
+#### Art. 11.
+
+> Se deroga por el art. 26 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO CUARTO — Materias primas y otros ingredientes. Características de los productos terminados
+
+#### Art. 12. Materias primas y otros ingredientes.
+
+Harina de trigo.
+
+Aceites vegetales comestibles autorizados.
+
+Agua potable.
+
+Sal común.
+
+Aditivos autorizados expresamente para este tipo de productos.
+
+Todas las materias primas que se utilicen como ingrediente de masas fritas cumplirán lo dispuesto en sus vigentes Reglamentaciones Técnico-Sanitarias y, en su defecto, el Código Alimentario Español.
+
+#### Art. 13. Características de los productos terminados.
+
+13.1 **(Derogado)**
+
+13.2 Su aspecto, textura, color, olor y sabor serán agradables y característicos del producto.
+
+13.3 **(Derogado)**
+
+13.4 **(Derogado)**
+
+> Se derogan excepto el apartado 2 por el art. 26 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO QUINTO — Envasado
+
+#### Art. 14.
+
+**(Derogado)**
+
+> Se deroga por el art. 26 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO SEXTO — Transporte y venta
+
+#### Art. 15. Transporte.
+
+**(Derogado)**
+
+> Se deroga por el art. 26 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 16. Venta.
+
+**(Derogado)**
+
+> Se deroga por el art. 26 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO SÉPTIMO — Competencias y responsabilidades
+
+#### Art. 17. Competencias.
+
+**(Derogado)**
+
+> Se deroga por el art. 26 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 18. Responsabilidades.
+
+**(Derogado)**
+
+> Se deroga por el art. 26 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).

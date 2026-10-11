@@ -1,0 +1,127 @@
+---
+title: "Orden de 16 de abril de 1980 por la que se regulan las relaciones de la Dirección General de Tráfico con la Agrupación de Tráfico de la Guardia Civil"
+identifier: "BOE-A-1980-9632"
+eli: "https://www.boe.es/eli/es/o/1980/04/16/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio del Interior"
+date: 1980-04-16
+published: 1980-05-10
+in_force_from: 1980-05-10
+last_amended: 2001-04-11
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 113"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1980-9632"
+retrieved: 2026-10-11
+---
+
+# Orden de 16 de abril de 1980 por la que se regulan las relaciones de la Dirección General de Tráfico con la Agrupación de Tráfico de la Guardia Civil
+
+Excelentísimo e ilustrísimo señores:
+
+La Ley 47/1959, de 30 de julio, atribuyó a este Ministerio la vigilancia y disciplina del tráfico, circulación y transporte por carretera y demás vías públicas, encomendándole a la Guardia Civil las funciones de vigilancia, al propio tiempo que creaba, como órgano de dirección inmediata, ordenación y coordinación, la Jefatura Central de Tráfico.
+
+El Decreto 1966/1960, de 21 de julio, al desarrollar las competencias establecidas por aquella Ley, asignó a la Jefatura Central de Tráfico, además de las facultades que con carácter general le corresponden por razón de su carácter directivo, ordenador y coordinador, funciones específicas tales como la ordenada distribución y control de los servicios de vigilancia; dictar las órdenes e instrucciones precisas para la aplicación de las normas reguladoras del tráfico por los Organismos dependientes del Departamento; impulsar la constitución y funcionamiento de los servicios de auxilio en carretera y coordinarlos entre sí; promover la formación y dar normas de actuación a equipos móviles para la inspección y toma de datos de accidentes; regular el tráfico en autopistas, carreteras y demás vías públicas, y ordenar los servicios de vigilancia en las carreteras, certámenes y cualesquiera otras pruebas deportivas.
+
+De otro lado, el Real Decreto 1315/1977, de 13 de mayo, establece que, en lo concerniente a servicios y material, la Agrupación de Tráfico de la Guardia Civil dependerá específicamente de la Dirección General de Tráfico, sin perjuicio de que sus Fuerzas y Unidades actúen bajo el mando directo y las órdenes de sus jefes militares naturales, sujetas a la disciplina y demás normas del Cuerpo.
+
+Con el fin de que la Dirección General de Tráfico pueda ejercer, con plena eficacia, las facultades directoras, ordenadoras y coordinadoras que por Ley le corresponden, se hace necesario regular las relaciones de dependencia de la Agrupación de Tráfico con respecto a la citada Dirección General.
+
+Por todo ello, este Ministerio ha tenido a bien disponer:
+
+### Art. 1.º
+
+La Agrupación de Tráfico de la Guardia Civil, que ejercerá las funciones de vigilancia, regulación, auxilio y control de tráfico que le atribuye la normativa vigente, contenida en el texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, aprobado por Real Decreto Legislativo 339/1990, de 2 de marzo, constituye, a efectos funcionales, una unidad especial dentro del Cuerpo de la Guardia Civil, en relación con la cual y sin perjuicio de las competencias relativas a personal, disciplina, servicios de carácter militar, armamento e instrucción (conforme a lo establecido en el artículo 9 de la presente Orden), que corresponde a la Dirección General de la Guardia Civil, compete a la Dirección General de Tráfico lo referente a habilitación y al libramiento de fondos para el pago de retribuciones con cargo a su presupuesto de gastos y realizar las retenciones que legalmente procedan sobre dichas retribuciones, así como su posterior aplicación a la finalidad prevista. A tal efecto, el Director general de Tráfico podrá delegar como Habilitación del Organismo Autónomo Jefatura Central de Tráfico para el pago de retribuciones del personal de la Agrupación de Tráfico de la Guardia Civil, a la Habilitación de retribuciones de la Dirección General de la Guardia Civil.
+
+Asimismo, corresponderán a la Dirección General de Tráfico los gastos corrientes en bienes y servicios y los gastos de inversión necesarios para el funcionamiento de la unidad, incluidos los gastos relativos a edificios y locales ocupados por la Agrupación cualquiera que sea su titular. A tal efecto, se estará a lo establecido en los artículos 7, 9 y 10, de la presente Orden.
+
+> Se modifica por el art. único.1 de la Orden de 5 de abril de 2001. [Ref. BOE-A-2001-7112](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-7112).
+
+> Se modifica por el apartado 1 de la Orden de 29 de diciembre de 1994. [Ref. BOE-A-1994-28971](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-28971).
+
+### Art. 2.º
+
+La Dirección General de Tráfico, para el ejercicio de las funciones que tiene encomendadas, dictará las instrucciones necesarias para el mejor cumplimiento de los servicios de la Agrupación de Tráfico de la Guardia Civil, bien por conducto del Jefe de esta Unidad o directamente, caso de urgencia, a los Sectores o Subsectores interesados, dando cuenta a la mayor brevedad al mando de la Agrupación.
+
+### Art. 3.º
+
+Los Jefes provinciales de Tráfico podrán dirigir a los Jefes de Subsector cuantas comunicaciones sean necesarias para la ejecución de los servicios de vigilancia, auxilio y regulación del tráfico, y solicitarán los informes que consideren oportunos sobre la ejecución e incidencias de los mismos.
+
+### Art. 4.º
+
+El Jefe de la Agrupación podrá elevar al Director general de Tráfico cuantas propuestas considere convenientes para el cumplimiento de su misión; dictará las órdenes necesarias para ejecutar las instrucciones recibidas de aquél, en relación con la vigilancia y disciplina del tráfico, circulación y transporte por carretera; emitirá cuantos informes sobre servicios y material de su especialidad interese el Director general de Tráfico, y, como Jefe de la Unidad, ejercerá las funciones administrativas, de coordinación e inspección de los servicios y dictará cuantas órdenes e instrucciones sean necesarias para distribución, buen uso, conservación, entretenimiento y reparación del material de tráfico.
+
+Velará especialmente para que el enlace y colaboración de los Sectores y Subsectores con las Jefaturas Provinciales de Tráfico se realice de la forma más eficaz y conveniente para el servicio. Para los mismos fines, mantendrá, a su vez, constante relación con la Dirección General de Tráfico.
+
+### Art. 5.º
+
+La Dirección General de Tráfico, en base y consideración a los estudios que realice, marcará las líneas directrices de los servicios de vigilancia, determinará periódicamente cuáles son las infracciones que, por su frecuencia o potencial peligro, deban ser objeto de atención preferente por las Fuerzas, e igualmente designará los puntos o tramos de vías que, por su peligrosidad, requieran unos servicios especiales de vigilancia, estudiando conjuntamente con la Jefatura de la Agrupación los planes de actuación, a fin de lograr una perfecta coordinación en su ejecución.
+
+A la Jefatura de la Agrupación y a los mandos naturales de ésta incumbe, con carácter exclusivo, dictar las órdenes de servicio en cuanto a distribución de Fuerzas y siempre de acuerdo con las directrices emanadas de la Dirección General de Tráfico. Las modificaciones en la disposición de las Fuerzas, aun cuando respondan a la ejecución de servicios no específicos de la Agrupación, deberán ser comunicadas a ambas Direcciones Generales.
+
+Constituyendo las funciones específicas de la Agrupación un elemento primordial para la seguridad vial, las Fuerzas que la integran sólo podrán ser encargadas de otros servicios o misiones distintas de los que les son propios cuando graves razones de orden público o de seguridad del Estado asi lo demanden, debiendo a la mayor brevedad volver a los que son propios de su especialidad, dándose inmediata cuenta en estos casos a ambas Direcciones Generales.
+
+### Art. 6.º
+
+La Jefatura de la Agrupación presentará anualmente su estado de necesidades, para cuyo estudio se constituirá una Comisión integrada por los miembros de la Dirección General de Tráfico y de la Agrupación que a tal efecto designen los Directores generales de Tráfico y de la Guardia Civil.
+
+La Agrupación de Tráfico de la Guardia Civil facilitará a la Dirección General de Tráfico cuanta información precise, relativa a la gestión económica, el control financiero y la utilización de los medios con que la dote, pudiendo recabar dicha Dirección General cualquier informe o comprobación al respecto.
+
+> Se modifica por el apartado 1 de la Orden de 29 de diciembre de 1994. [Ref. BOE-A-1994-28971](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-28971).
+
+### Art. 7.º
+
+Los medios materiales a que se refiere la presente Orden serán puestos a disposición de la Agrupación, y serán los Jefes y Oficiales de ésta los encargados de su distribución y custodia, que se realizará del modo más adecuado a las conveniencias del servicio.
+
+La Dirección General de Tráfico llevará un inventario del material de la Agrupación, que le permita conocer en todo momento la dotación de las Fuerzas de vigilancia.
+
+> Se modifica el párrafo primero por el apartado 1 de la Orden de 29 de diciembre de 1994. [Ref. BOE-A-1994-28971](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-28971).
+
+### Art. 8.º
+
+La Dirección General de la Guardia Civil y la Dirección General de Tráfico deberán estudiar conjuntamente las necesidades del personal de la Agrupación de Tráfico para conseguir la mayor eficacia en la prestación de los servicios de vigilancia y auxilio, y elevarán, por conducto de este Ministerio, las propuestas de modificación de plantilla que las variaciones del parque de vehículos, el incremento del volumen del tráfico y otras circunstancias exijan.
+
+Asimismo, ambas Direcciones podrán estudiar conjuntamente la idoneidad de ubicación de los Destacamentos y su radio de acción.
+
+### Art. 9.º
+
+La instrucción específica se realizará en la Academia de Tráfico de la Guardia Civil, correspondiendo a la Dirección General de Tráfico la conservación y mantenimiento de los edificios e instalaciones destinados a enseñanza e instalaciones deportivas complementarias, así como los gastos corrientes de energía, agua y teléfono y el material, inventariable o no.
+
+Se exceptúan del párrafo anterior los gastos corrientes de energía, agua y teléfono, de los pabellones destinados al personal docente y auxiliar, así como los gastos de estancia y manutención de los alumnos.
+
+La Academia de Tráfico funcionará, a efectos de enseñanza, en régimen de colaboración con la Dirección General de Tráfico, quien participará en la confección de los planes de estudio y de los programas, sin perjuicio de la facultad que a este respecto corresponda ejercer a la Dirección General de la Guardia Civil a través de la Jefatura de Enseñanza.
+
+En todo caso, los planes y programas de enseñanza serán sometidos a la aprobación de la Dirección General de la Guardia Civil.
+
+> Se modifica por el apartado 1 de la Orden de 29 de diciembre de 1994. [Ref. BOE-A-1994-28971](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-28971).
+
+### Art. 10.
+
+**(Párrafo primero suprimido)**
+
+Las dietas devengadas por asistencia a cursos, congresos, participaciones en pruebas, etc., acordadas por la Dirección General de Trafico serán financiadas con cargo a sus presupuestos.
+
+Igualmente se financiarán con Cargo a dichos presupuestos las dietas que se devenguen por desplazamientos de las Fuerzas, motivadas por operaciones extraordinarias de vigilancia y control del tráfico, acordadas asimismo por la citada Dirección General de Tráfico.
+
+> Se suprime el párrafo primero por el apartado 2 de la Orden de 29 de diciembre de 1994. [Ref. BOE-A-1994-28971](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-28971).
+
+## DISPOSICIÓN FINAL
+
+Esta Orden entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+## DISPOSICIÓN DEROGATORIA
+
+Queda derogada la Orden de 11 de abril de 1973, así como las demás disposiciones de igual e inferior rango que se opongan a la presente.
+
+Lo digo a V. E. y a V. I. para su conocimiento y efectos.
+
+Dios guarde a V. E. y a V. I.
+
+Madrid, 16 de abril de 1980.
+
+IBÁÑEZ FREIRE
+
+Excmo. Sr. Director general de la Guardia Civil e llmo. Sr. Director general de Tráfico.

@@ -1,0 +1,1131 @@
+---
+title: "Ley Foral 2/1993, de 5 de marzo, de protección y gestión de la fauna silvestre y sus hábitats"
+identifier: "BOE-A-1993-13993"
+eli: "https://www.boe.es/eli/es-nc/lf/1993/03/05/2"
+type: act
+rank: "Ley Foral"
+jurisdiction: es-navarra
+language: es
+department: "Comunidad Foral de Navarra"
+date: 1993-03-05
+published: 1993-06-01
+in_force_from: 1993-04-08
+last_amended: 2024-01-12
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 130"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1993-13993"
+retrieved: 2026-10-11
+---
+
+# Ley Foral 2/1993, de 5 de marzo, de protección y gestión de la fauna silvestre y sus hábitats
+
+Incluye la corrección de errores pIublicada en el BON núm. 113, de 15 de septiembre de 1993.
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente
+
+**LEY FORAL DE PROTECCIÓN Y GESTIÓN DE LA FAUNA SILVESTRE Y SUS HÁBITATS**
+
+Exposición de motivos
+
+La cada vez más creciente inquietud y concienciación de amplios sectores de la sociedad por la defensa y recuperación del medio ambiente ha originado una espectacular expansión en todos sus frentes del contenido nuclear de la materia medioambiental.
+
+El propio concepto de medio ambiente ha conocido una profunda y dinámica evolución sustantiva, englobando en su seno diferentes disciplinas, hasta formar una rica variedad de supuestos, diagnósticos, técnicas administrativas y políticas sectoriales.
+
+No es extraño, pues, que los poderes públicos hayan asumido la responsabilidad principal de custodiar el entorno natural en el que el hombre se desarrolla y a dar respuestas a la comunidad científica y a las minorías sociales avanzadas que reclaman atender el desarrollo socioeconómico sin merma de las condiciones originarias de nuestro hábitat.
+
+La noción medioambiental que tanto la sociedad como las instituciones han asumido en la actualidad supera con creces el objetivo inicial perseguido antaño de eliminar cualesquiera productos hechos ocasionados por la actividad humana en formas capaces de dañar la salud, e incorpora hogaño, con más acertada perspectiva globalizadora, la lógica consideración y respeto por la Naturaleza. Esta se contempla hoy, no ya sólo como el medio en el que el hombre vive, sino como un auténtico cosmos ordenado y equilibrado, en el que el individuo ha de integrarse como un elemento más sin dejar a su paso negativas huellas indelebles. Las obsoletas teorías doctrinales identificadoras del ser humano como rey, dueño y señor absoluto de la Tierra, ceden hoy su lugar a la visión actual del hombre como sujeto activo y esencial de la biosfera que ha de vivir integrado en y con la Naturaleza consciente de que el patrimonio natural que disfruta es la herencia de las futuras generaciones que es preciso mantener y mejorar.
+
+Esta profunda consideración hacia el futuro de la biosfera, exigible a cualquier ordinario sentir social, ha de analizarse a su vez bajo dos perspectivas complementarias de comportamiento: Una, que preconice el respeto por los hábitats naturales y seminaturales, componentes del mosaico territorial esencial para la preservación de la vida silvestre, y otra, que postule la atención al mantenimiento de las especies que pueblan en estado silvestre los ecosistemas.
+
+Y es precisamente esa sección integrante de una política global de medio ambiente, el mantenimiento y mejora de la biodiversidad de la fauna silvestre y de los hábitats naturales, la que constituye el objeto principal de esta Ley Foral, destinada a regular, con carácter general, la preservación de la riqueza animal que vive en estado indómito en los montes, campos, bosques y ríos de la Comunidad Foral y de sus hábitats como lugares sin los cuales sería imposible preservar la vida de las especies.
+
+Todo esto perfectamente incardinado en el necesario entramado jurídico tanto del Estado como de la Comunidad Europea.
+
+Esta Ley Foral aparece destinada hacia la consecución de un doble objetivo: De un lado, la adecuada protección de la biodiversidad de la fauna silvestre y de sus hábitats en Navarra, y de otro, la ordenación del aprovechamiento cinegético e ictícola de la fauna susceptible de utilización racional por el hombre.
+
+Merced a esta Ley Foral, la Comunidad Foral de Navarra despliega, en un frente, sus potestades de desarrollo legislativo en materia de medio ambiente y ecología, estableciendo las oportunas normas protectoras adicionales respecto de las que aparecen en la legislación estatal, y en otro, sus competencias exclusivas, adquiridas en virtud de su régimen foral, sobre la caza, la pesca fluvial y lacustre y la acuicultura.
+
+El título I de la Ley Foral recoge las disposiciones de general aplicación en la materia, encomendando al Gobierno de Navarra y a las Entidades Locales la adopción de las medidas precisas para proteger la fauna silvestre y sus hábitats, en su natural concepción de patrimonio de toda la Comunidad, con especial atención hacia las especies autóctonas de Navarra.
+
+El título II regula con mayor detenimiento la protección de la fauna silvestre y sus hábitats naturales, estableciendo para ello las correspondientes limitaciones y prohibiciones a ciertas actividades humanas y las lógicas excepciones sujetas a control del Departamento de Ordenación del Territorio y Medio Ambiente, órgano garante en la aplicación de esta norma. Dentro de este título se prevén las medidas destinadas a la conservación de las especies más necesitadas de protección pública, creándose a tal efecto un Registro de la Fauna Silvestre, en el que se incluyen las especies y poblaciones de fauna silvestre que existen en Navarra, así como un Catálogo de Especies Amenazadas, complementario del estatal y conexo con las Administraciones colindantes. Asimismo crea una red de áreas de protección de la fauna silvestre y se faculta al Gobierno de Navarra para ampliarla con la finalidad de preservar sus hábitats naturales.
+
+En el título III se establece el régimen de ordenación de los aprovechamientos de la fauna, especialmente en lo que se refiere al ejercicio deportivo de la caza y de la pesca. En líneas generales, se acude a técnicas administrativas ya consagradas en el ordenamiento estatal, tales como las disposiciones generales de vedas, la exigencia de Planes de Ordenación Cinegética y Acuícola, el control anual sobre las especies susceptibles de captura, y la necesidad de obtener de modo previo licencia habilitante para materializar dicho aprovechamiento, licencia cuyas características definitorias se ajustan básicamente al patrón diseñado por la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres.
+
+En su afán globalizador, la Ley Foral regula el ejercicio de la caza, estableciendo las necesarias limitaciones que la hagan compatible con los postulados tuitivos de la fauna. A diferencia del régimen establecido en la Ley de 1970, la Ley Foral reconduce, con intención de lograr una más responsable y adecuada ordenación, el ejercicio de la caza a zonas acotadas previstas a tal efecto por las Entidades Locales o los particulares, con suficientes dimensiones para su gestión, y excluye la posibilidad de aprovechamiento en aquellos terrenos sometidos con anterioridad a régimen cinegético común. Esta nueva forma de entender territorialmente la caza da cumplimiento exacto al mandato básico contenido en el artículo 33.2 de la mencionada Ley 4/1989, de 27 de marzo, a cuyo tenor se obliga a la Administración competente a determinar los terrenos donde pueda realizarse la actividad cinegética.
+
+La regulación de la pesca mantiene, en líneas generales, los parámetros básicos actuales, si bien prevé la cesión de la gestión de los cotos titularidad del Gobierno de Navarra a las Sociedades Deportivas de Pesca, en determinadas condiciones. La Ley parte en esta actividad del respeto a la legislación de aguas, con cuyas previsiones busca las debidas armonización normativa y coordinación administrativa.
+
+El título IV categoriza las diferentes infracciones contrarias a esta Ley Foral y las sanciona, con escrupuloso cumplimiento de los principios más modernos del Derecho administrativo sancionador, hoy recogidos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Entre las novedades más sobresalientes de la Ley destacan la tipificación de tres modalidades de infracciones relativas a la protección de la fauna silvestre y sus hábitats, al ejercicio de la caza y de la pesca, siguiendo las directrices básicas de la Ley 4/1989, de 27 de marzo; se establece una doble tabla sancionadora de las infracciones relativa a la fauna silvestre y sus hábitats y al ejercicio de la caza y de la pesca en desarrollo de la competencia legislativa exclusiva de la Comunidad Foral de Navarra sobre estos dos últimos ámbitos materiales; la articulación, en el marco de los procedimientos administrativos comunes fijados por el Estado, de un nuevo procedimiento sancionador más celérico, y por tanto, más eficaz, y cuya aplicación garantiza plenamente el derecho a ser oído y a aportar cuantas alegaciones se estime oportuno; el incremento del plazo de prescripciones de las sanciones, consciente el legislador de la mayor repercusión social que las lesiones a la fauna suponen en la actualidad; la reducción de la sanción en los casos de conformidad del infractor, teniendo en cuenta a tal efecto la doctrina constitucional recaída al respecto; y la publicidad de la sanción para las infracciones de mayor gravedad. La Ley Foral reconoce, además, el derecho de todos a defender el medio ambiente y universaliza, a tal efecto, la acción para exigir de las Administraciones Públicas la observancia de las prescripciones legales.
+
+El último título, el V, anticipa las medidas con repercusión económica necesaria para la ejecución de la Ley Foral, y que deberán ser objeto de contemplación específica en los Presupuestos Generales de Navarra.
+
+La Ley termina con el oportuno régimen transitorio, garantizador de la adecuación de las distintas actividades al nuevo orden jurídico establecido, y en el que se incorpora el doble mandato al Ejecutivo para que, en el plazo y forma correspondientes, remita un Proyecto de Ley Foral de Hábitats Naturales, limitado ahora a otros dos ámbitos esenciales de la política medioambiental, como son la flora y los ecosistemas fluviales, y adopte las iniciativas precisas para la declaración de las áreas de Urbasa-Andía, Bardenas Reales y Pirineo Occidental como Parques Naturales.
+
+## TÍTULO I — Disposiciones generales
+
+##### Artículo 1.
+
+1\. Es objeto de esta Ley Foral:
+
+a) La protección, conservación, mejora y gestión de la fauna silvestre de Navarra.
+
+b) La protección, conservación, mejora, ordenación y gestión de los hábitats naturales en los aspectos relacionados con la fauna silvestre.
+
+c) La ordenación y gestión de los posibles aprovechamientos de la fauna silvestre en armonía con los objetivos anteriores.
+
+2\. Se excluyen, por tanto, de la regulación de esta Ley Foral, los animales domésticos de compañía, los animales criados para la producción de carne, piel o algún otro producto útil para el hombre, así como los animales de carga, los que trabajan en la agricultura y los de experimentación científica por organismos acreditados.
+
+##### Artículo 2.
+
+1\. Las Administraciones Públicas de Navarra velarán por el mantenimiento de la biodiversidad mediante medidas para la conservación de la fauna silvestre, especialmente de la autóctona y de sus hábitats naturales, de conformidad con lo establecido en esta Ley Foral.
+
+2\. La protección, conservación y mejora de la fauna silvestre y sus hábitats comprende tanto las acciones positivas encaminadas a su potenciación como aquellas destinadas a la prevención y eliminación de las conductas y actividades que supongan una amenaza para su existencia, conservación o recuperación.
+
+3\. Además de la protección «in situ» anteriormente señalada, el Gobierno de Navarra elaborará planes de conservación de los recursos genéticos procedentes de la fauna silvestre, con vistas a posibilitar una futura adaptación de las especies y poblaciones amenazadas frente a las condiciones ambientales cambiantes, incluyendo plagas, enfermedades, cambios climáticos o contaminación ambiental.
+
+4\. Las Federaciones deportivas, asociaciones naturalistas y personas físicas y jurídicas podrán participar en la consecución del objeto de esta Ley Foral.
+
+5\. En su caso las actuaciones sin ánimo de lucro realizadas o financiadas por personas o entidades, que sean declaradas de interés social recibirán los beneficios fiscales que se establezcan.
+
+##### Artículo 3.
+
+A efectos de la presente Ley Foral se entenderá por:
+
+a «Fauna silvestre»: Conjunto de especies, subespecies, población e individuos animales, que viven en estado silvestre en el territorio, excluyéndose por tanto de la regulación de esta Ley Foral los animales domésticos y los que son criados con fines productivos o de experimentación científica con la debida autorización.
+
+b) «Hábitats naturales»: Zonas terrestres o acuáticas diferenciadas por sus características geográficas, abióticas y bióticas, tanto si son enteramente naturales como seminaturales.
+
+c) «Hábitats de una especie»: Medio definido por factores abióticos y bióticos específicos donde vive la especie en todas o alguna de las fases de su ciclo biológico.
+
+d) «Protección, conservación y mejora»: Un conjunto de medidas necesarias para mantener o restablecer los hábitats naturales y las poblaciones de especies de fauna silvestres en un estado favorable según lo previsto en los títulos segundo y tercero de esta Ley Foral.
+
+e) «Aprovechamiento de la fauna silvestre o/y de sus hábitats»: Posibilidad de apropiarse o disfrutar de la fauna o/y de su hábitat, con observancia de las previsiones de esta Ley Foral.
+
+##### Artículo 4.
+
+1\. La actuación de las Administraciones Públicas en favor de la preservación de la fauna silvestre se basará principalmente en los siguientes criterios:
+
+a) Dar preferencia a las medidas de conservación y preservación en el hábitat natural de cada especie, considerando la posibilidad de establecer medidas complementarias fuera del mismo.
+
+b) Evitar la introducción y proliferación de especies, subespecies o razas geográficas distintas a las autóctonas, en la medida que puedan competir con éstas, alterar su pureza genética o producir desequilibrios ecológicos, así como la introducción o suelta de especies autóctonas en hábitats que no les correspondan.
+
+c) Conceder prioridad a las especies y subespecies autóctonas endémicas, así como a aquellas otras cuya área de distribución o efectivos sean muy limitados, a las migratorias y a cuantas gocen de protección legal específica.
+
+d) Salvaguardar el hábitat natural de aquellas actividades y actuaciones que supongan una amenaza para su mantenimiento, recuperación o mejora.
+
+e) Fomentar y controlar las actuaciones públicas y privadas en pro de la protección, conservación y mejora de la fauna silvestre y sus hábitats naturales.
+
+f) Promover la colaboración social a los fines de esta Ley Foral.
+
+g) Adoptar las medidas correctoras y restauradoras oportunas para la eliminación de situaciones de desequilibrio ecológico existentes, tales como barreras ecológicas, hábitats alterados o degradados, vertidos incontrolados, etc.
+
+2\. La inspección, vigilancia, protección y control de la fauna silvestre corresponde al Departamento de Ordenación del Territorio y Medio Ambiente, el cual promoverá los mecanismos de coordinación necesarios con los demás órganos de la Administración de la Comunidad Foral de Navarra y el resto de las Administraciones Públicas.
+
+3\. Las Entidades Locales colaborarán en la consecución de los fines de esta Ley Foral, en el ámbito de sus respectivas competencias.
+
+##### Artículo 5.
+
+Los animales silvestres son patrimonio común por lo que no son susceptibles de apropiación física o jurídica, excepto por autorización administrativa en los términos regulados en la presente Ley Foral y disposiciones que la desarrollen.
+
+##### Artículo 6.
+
+1\. A los efectos de esta Ley Foral, se definen como especies de la fauna autóctona las que viven y se reproducen natural y tradicionalmente en estado silvestre en los ecosistemas de Navarra, siendo este territorio parte de su área de distribución natural o migración, incluidas las especies que se encuentran en invernada o están de paso, y las que habiendo estado en una de las situaciones anteriores se encuentran actualmente extinguidas en Navarra.
+
+2\. La fauna no autóctona o alóctona comprende las especies de animales introducidas en Navarra en hábitats propios de las originarias.
+
+3\. La protección de la fauna no autóctona se regirá, sin perjuicio de lo dispuesto en esta Ley Foral, por lo establecido en los Convenios y Tratados Internacionales suscritos por el Estado español, por las disposiciones de la Comunidad Europea y por la legislación estatal.
+
+## TÍTULO II — Protección de la fauna silvestre y de sus hábitats
+
+### CAPÍTULO I — Limitaciones y prohibiciones
+
+##### Artículo 7.
+
+Se declara protegida la fauna silvestre en Navarra, por lo que el ejercicio de las actividades que afecten o puedan afectar a la fauna silvestre está sujeto a las limitaciones y prohibiciones que se determinen conforme a esta Ley Foral y a las disposiciones que la completen o desarrollen.
+
+##### Artículo 8.
+
+1\. Queda prohibido dar muerte, dañar, molestar, perseguir o inquietar intencionadamente a los animales silvestres, incluyendo su captura en vivo y la recolección de sus larvas, huevos o crías y de todas las subespecies inferiores, así como alterar y destruir sus hábitats naturales, nidos, vivares y áreas de reproducción, invernada o reposo.
+
+2\. Asimismo, quedan prohibidos la posesión, naturalización, tráfico y comercio de ejemplares vivos o muertos o de sus restos, incluyendo la importación, exportación, exposición a la venta y exhibición pública.
+
+3\. Las actividades que contravengan lo dispuesto en los apartados anteriores deberán ajustarse a lo dispuesto en el título tercero de esta Ley Foral, sin perjuicio de los aprovechamientos usuales de determinadas especies no catalogadas.
+
+4\. Los agentes de la autoridad interrumpirán cautelarmente cualquier actuación que vulnere lo establecido en este artículo, dando cuenta inmediata al Departamento de Ordenación del Territorio y Medio Ambiente.
+
+### CAPÍTULO II — Autorizaciones
+
+##### Artículo 9.
+
+1\. Podrán quedar sin efecto las prohibiciones del artículo 8, previa autorización expresa del Departamento de Medio Ambiente, Ordenación del Territorio y Vivienda, si no hubiera otra solución satisfactoria, cuando concurra alguna de las circunstancias siguientes:
+
+a) Si de su aplicación se derivaran efectos perjudiciales para la salud y seguridad de las personas.
+
+b) Cuando de su aplicación se derivaran efectos perjudiciales para las especies amenazadas.
+
+c) Para prevenir perjuicios importantes a otras especies, la agricultura, la ganadería, los bosques y montes, la caza, la pesca y la calidad de las aguas. En estos casos, la autorización tendrá carácter extraordinario y deberá fijarse un límite temporal a la misma, debiendo solicitarse, de modo previo, por el Departamento de Ordenación del Territorio y Medio Ambiente al solicitante un informe que demuestre que la operación de captura selectiva que deba practicarse no pondrá en peligro el nivel de población, la distribución geográfica o la labor de reproducción de la especie en el conjunto de Navarra. Durante el tiempo que dure la captura, ésta deberá ser controlada por el Departamento de Ordenación del Territorio y Medio Ambiente.
+
+d) Por razones de investigación científica, educativa o cultural, repoblación o reintroducción, o cuando se precise para la cría en cautividad o recuperación de la fauna silvestre. El Departamento de Ordenación del Territorio y Medio Ambiente podrá requerir al solicitante la elaboración previa de un informe sobre el estado de la especie en Navarra. En todo caso, la recogida de muestras con fines científicos o de investigación sólo se autorizará a personas debidamente acreditadas por Universidades, Entidades y Asociaciones de reconocido carácter científico, pedagógico o cultural.
+
+e) Para permitir, en condiciones estrictamente controladas y mediante métodos selectivos y tradicionales, la captura, retención o cualquier otra explotación prudente de la paloma torcaz en pequeñas cantidades y con las limitaciones precisas para garantizar la conservación de las especies.
+
+2\. La autorización administrativa podrá ser sustituida por disposiciones generales de la Administración de la Comunidad Foral de Navarra que regulen las condiciones y medios de captura y eliminación de los animales. Tales disposiciones habrán de publicarse en el «Boletín Oficial de Navarra».
+
+3\. El Departamento de Medio Ambiente, Ordenación del Territorio y Vivienda comunicará al Ministerio de Medio Ambiente las autorizaciones acordadas según lo previsto en el apartado 2 de este artículo, a efectos de su posterior notificación a la Comisión de las Comunidades Europeas.
+
+> Se modifica el apartado 1 y se añade el apartado 3 por el art. 1 y 2 de la Ley Foral 5/1998, de 27 de abril. [Ref. BOE-A-1998-12737](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-12737).
+
+##### Artículo 10.
+
+Con el fin de garantizar la conservación de la diversidad genética o evitar la alteración de hábitats y equilibrios ecológicos, estarán sometidos a autorización administrativa previa del Departamento de Ordenación del Territorio y Medio Ambiente los siguientes actos:
+
+a) La introducción, cría, traslado y suelta de especies alóctonas, tanto en el supuesto de introducción en el medio natural, como en los supuestos de introducción con la finalidad de explotación económica o uso científico.
+
+b) La captura, tenencia, disecación, comercio, tráfico y exhibición pública de especies alóctonas, vivas o muertas, incluidas las crías, huevos, partes y derivados de las mismas, cuando estuvieran declaradas protegidas por Tratados y Convenios Internacionales vigentes en España y por disposiciones de la Comunidad Europea.
+
+c) La introducción, cría, traslado, anillado, marcado, suelta de especies autóctonas, incluida la reintroducción de las extinguidas.
+
+d) La observación, filmación y transporte de las especies amenazadas para cualquier finalidad científica, divulgativa, de publicidad, deportiva o de cualquier otro orden, por personas debidamente acreditadas. En todo caso, se prohíbe la observación de especies catalogadas en peligro de extinción o sensibles a la alteración de su hábitat mediante el establecimiento de puestos fijos a menos de la distancia que en cada caso se fije, contada desde sus puntos de cría, lugares de concentración migratoria, invernada, muda, dormideros, reposaderos y lugares establecidos para su alimentación.
+
+e) El empleo de los métodos y medios prohibidos por esta Ley Foral en la captura autorizada de animales.
+
+f) La captura, retención o explotación, en condiciones estrictamente controladas y de modo selectivo, de determinadas especies no protegidas.
+
+g) Las actuaciones que provoquen o sean susceptibles de provocar alteraciones o modificaciones sustanciales de los hábitats de la fauna silvestre, en los términos previstos en esta Ley Foral.
+
+##### Artículo 11.
+
+1\. Las autorizaciones administrativas a que se refieren los artículos 9 y 10 de esta Ley Foral se otorgarán por el Departamento de Ordenación del Territorio y Medio Ambiente en el plazo máximo de tres meses desde su solicitud, transcurrido el cual se entenderán denegadas por silencio administrativo.
+
+2\. La autorización administrativa especificará:
+
+a) Las especies a que se refiera y su situación en Navarra.
+
+b) Los medios, sistemas o métodos autorizados y las razones de su empleo.
+
+c) Las circunstancias de tiempo y lugar.
+
+d) Los sistemas de control, que se ejercerán por el Departamento de Ordenación del Territorio y Medio Ambiente.
+
+e) El objetivo o razón de la acción, incluida la naturaleza del riesgo.
+
+f) El número máximo de ejemplares a recoger y tratar.
+
+g) Las personas cualificadas encargadas de la acción.
+
+3\. En todos los casos, finalizada la actividad, el autorizado deberá presentar en el Departamento de Ordenación del Territorio y Medio Ambiente, en el plazo que a tal efecto se le indique, una memoria en la que se especificarán los resultados obtenidos, el número de ejemplares utilizados y cuantas circunstancias de interés se hayan producido.
+
+##### Artículo 12.
+
+1\. El Departamento de Ordenación del Territorio y Medio Ambiente podrá establecer en la autorización las condiciones particulares que, en cada caso, motivadamente se estime oportuno incluir para garantizar la protección de la fauna silvestre.
+
+2\. Las autorizaciones deberán ejercitarse en el plazo señalado para ello, transcurrido el cual agotarán sus efectos y devendrán ineficaces, salvo que se prorroguen expresamente.
+
+##### Artículo 13.
+
+1\. El Departamento de Ordenación del Territorio y Medio Ambiente podrá condicionar el otorgamiento de la autorización para el ejercicio de actividades relacionadas con especies protegidas o a realizar en áreas de protección de la fauna silvestre, a la prestación de una fianza por el importe que a tal efecto se fije y que estará proporcionado a la actividad que se pretenda efectuar.
+
+2\. La fianza será devuelta una vez comprobada la correcta ejecución de la actuación autorizada o presentada la renuncia a llevarla a cabo, con deducción, en el primer supuesto y en su caso, de las cantidades que deban hacerse efectivas en concepto de penalidades y responsabilidades en que haya podido incurrir el peticionario.
+
+3\. El derecho a la devolución de la fianza prescribirá, si no se solicita en el plazo de cinco años, a partir del momento en que sea procedente.
+
+##### Artículo 14.
+
+1\. El Departamento de Ordenación del Territorio y Medio Ambiente efectuará inspecciones y reconocimientos necesarios, tanto durante la realización de la actividad autorizada, como una vez finalizada la misma.
+
+2\. Los agentes del Departamento de Ordenación del Territorio y Medio Ambiente podrán interrumpir cautelarmente cualquier actuación que se realice de forma indebida, dando cuenta inmediata al Departamento, el cual dictará la resolución que proceda en el plazo máximo de quince días, levantando, en su caso, la suspensión temporal.
+
+### CAPÍTULO III — Registro de Fauna Silvestre de Vertebrados
+
+##### Artículo 15.
+
+1\. Se crea el Registro de Fauna Silvestre de Vertebrados de Navarra, dependiente del Departamento de Ordenación del Territorio y Medio Ambiente, en el que se incluirán las especies, subespecies y poblaciones de fauna silvestre que existen en Navarra. Se incluirán también las especies autóctonas extinguidas y las alóctonas introducidas con autorización.
+
+2\. Reglamentariamente se desarrollará el modelo, procedimiento y control del Registro de Fauna Silvestre de Vertebrados de Navarra, en un plazo máximo de un año desde la aprobación de esta Ley Foral.
+
+#### Especies amenazadas en Navarra
+
+##### Artículo 16.
+
+Se consideran especies amenazadas en Navarra:
+
+a) Las incluidas en el Catálogo Nacional de Especies Amenazadas.
+
+b) Las que se incluyan en el Catálogo de Especies Amenazadas de Navarra.
+
+c) Las declaradas como tales en acuerdos internacionales suscritos por el Estado español.
+
+##### Artículo 17.
+
+1\. Se crea el Catálogo de Especies Amenazadas de Navarra, dependiente del Departamento de Ordenación del Territorio y Medio Ambiente, en el que se incluirán las especies, subespecies o poblaciones de fauna silvestre que requieran medidas específicas de protección.
+
+2\. La inclusión o exclusión de una especie, subespecie o población en el Catálogo de Especies Amenazadas de Navarra, o el cambio de categoría dentro del mismo, se realizará por el Gobierno de Navarra mediante Decreto Foral, a propuesta del Consejero de Ordenación del Territorio y Medio Ambiente y previo informe del Consejo Asesor de Medio Ambiente de Navarra, a emitir en el plazo de un mes. Dicho Decreto Foral se publicará en el «Boletín Oficial de Navarra».
+
+Asimismo, dicho procedimiento podrá iniciarse a instancia de otras Administraciones Públicas, Instituciones y de otras personas físicas o jurídicas, debidamente motivada, acompañada de la información técnica y científica justificativa y avalada por persona física o jurídica de reconocido prestigio científico o cultural.
+
+3\. El Catálogo de Especies Amenazadas de Navarra incluirá para cada especie, subespecie o población catalogada los siguientes datos como mínimo:
+
+a) La denominación científica y sus nombres vulgares.
+
+b) La categoría en que está catalogada.
+
+c) Los datos más relevantes referidos al tamaño de la población afectada, el área de distribución natural, descripción y estado de conservación de sus hábitats característicos y factores que inciden sobre su conservación o sobre la de sus hábitats, tanto positiva como negativamente.
+
+Se incluirán datos sobre la relación de la especie en Navarra con los territorios vecinos.
+
+d) Las prohibiciones y actuaciones que se consideren necesarias para su preservación y mejora.
+
+4\. Los datos que aparezcan en el Catálogo de Especies Amenazadas de Navarra se facilitarán al órgano competente de la Administración del Estado a efectos de su inclusión, si procede, en el Catálogo Nacional de Especies Amenazadas, en los términos del artículo 30.1 de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de Flora y Fauna Silvestre, y a la Administración de la Comunidad Autónoma Vasca y a las Administraciones de los restantes territorios colindantes a efectos de su inclusión, si procede, en sus respectivos Catálogos y para la adopción de medidas de coordinación en pro de la protección de las especies catalogadas.
+
+##### Artículo 18.
+
+Las especies, subespecies o poblaciones que se incluyan en el Catálogo deberán ser clasificadas en alguna de las categorías:
+
+a) En peligro de extinción: taxones o poblaciones cuya supervivencia es poco probable si los factores causales de su actual situación siguen actuando.
+
+b) Vulnerable: taxones o poblaciones que corren el riesgo de pasar a la categoría anterior en un futuro inmediato si los factores adversos que actúan sobre ellos no son corregidos.
+
+Sin perjuicio de los cambios de categoría de amenaza, como consecuencia de la evolución de sus poblaciones, las especies que, figuren en la categoría “Sensible a la alteración de su hábitat” se incluirán en la categoría “Vulnerable”. Las especies que figuren en la categoría “De interés especial” dejarán de estar catalogadas, pero quedarán sometidas al régimen de protección establecido en el artículo 57 de la Ley 42/2007, del Patrimonio Natural y de la Biodiversidad y configurarán el Listado navarro de especies de fauna silvestre en régimen de protección especial, de acuerdo con al apartado 4 del artículo 56 de dicha Ley. Las especies que figuren en la categoría “Extinguidas” dejarán de estar catalogadas, sin perjuicio de la aplicación del artículo 55 de la citada Ley 42/2007.
+
+> Se modifica por la disposición final 2.1 de la Ley Foral 21/2023, de 26 de diciembre. [Ref. BOE-A-2024-1208](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1208)
+
+##### Artículo 19.
+
+1\. La catalogación de una especie, subespecie o población en la categoría “en peligro de extinción” exigirá la redacción de un Plan de Recuperación para la misma, en el que se definirán las medidas necesarias para eliminar tal peligro de extinción.
+
+2\. La catalogación de una especie, subespecie o población en la categoría de “vulnerable” exigirá la redacción de un Plan de Conservación y, en su caso, la protección de su hábitat.
+
+3\. Los Planes de Recuperación y de Conservación se aprobarán por el Gobierno de Navarra en el plazo establecido en el apartado 1 del artículo 59 de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, desde la inclusión de la especie en el Catálogo y se publicarán en el “Boletín Oficial de Navarra”.
+
+4\. La Administración pondrá en práctica unos sistemas de vigilancia y seguimiento del estado de conservación de las especies amenazadas y de los hábitats sensibles, evaluándose periódicamente los efectos de las medidas adoptadas en los Planes de Recuperación y de Conservación.
+
+> Se modifica por la disposición final 2.2 de la Ley Foral 21/2023, de 26 de diciembre. [Ref. BOE-A-2024-1208](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1208)
+
+##### Artículo 20.
+
+1\. Corresponde en exclusiva al Departamento de Ordenación del Territorio y Medio Ambiente fomentar la cría, repoblación y reintroducción de ejemplares de especies amenazadas en Navarra.
+
+2\. El Departamento de Ordenación del Territorio y Medio Ambiente podrá capturar, para su entrega a centros científicos, culturales o protectores de animales o a otros Estados o instituciones públicas, con la finalidad de fomentar su reproducción, ejemplares vivos de especies de la fauna silvestre, siempre que tal captura no suponga un peligro para la conservación de especie en el hábitat natural afectado y que la reproducción sea con fines de reintroducción silvestre.
+
+3\. Asimismo, el Departamento de Ordenación del Territorio y Medio Ambiente podrá confiscar ejemplares vivos de las especies amenazadas que estuvieran en posesión de particulares no autorizados o expuestos para su venta o exhibición pública. Si la puesta en libertad de tales ejemplares no fuera posible, los animales podrán ser destinados a la cría en cautividad y, si ello tampoco fuera posible, podrán entregarse a centros científicos culturales acreditados, en las condiciones que se determinen.
+
+##### Artículo 21.
+
+1\. Reglamentariamente se establecerán los requisitos que hayan de cumplir los centros de recuperación de las especies amenazadas, cuya finalidad será el cuidado, mantenimiento, recuperación y posterior devolución al medio natural de los ejemplares de especies catalogadas que se encuentren incapacitados para la supervivencia en el propio medio.
+
+2\. Si la puesta en libertad no fuera posible, los animales podrán ser destinados a la cría en cautividad, con fines de reintroducción silvestre.
+
+3\. El Departamento de Ordenación del Territorio y Medio Ambiente podrá concertar con personas físicas o jurídicas la recuperación de animales de determinadas especies.
+
+### CAPÍTULO IV — Áreas de Protección de la Fauna Silvestre y sus Hábitats
+
+##### Artículo 22.
+
+1\. Para preservar la biodiversidad de la fauna silvestre y conservar sus hábitats naturales se crea la Red de Áreas de Protección de la Fauna Silvestre, que estará constituida por:
+
+a) Las Reservas Integrales.
+
+b) Las Reservas Naturales
+
+c) Los Enclaves Naturales.
+
+d) Las zonas expresamente determinadas como tales en los Parques Naturales, en la forma que se determine en los respectivos Planes de Ordenación de los Recursos Naturales.
+
+e) Las áreas expresamente delimitadas por el Gobierno de Navarra como tales dentro de las Zonas de Especial Protección de las Aves mediante Decreto Foral. El Decreto Foral especificará, junto al ámbito del área y en desarrollo de esta Ley Foral, su régimen de protección.
+
+El régimen de protección de las Zonas de Especial Protección de las Aves y de su entorno será el determinado por las Directivas Comunitarias.
+
+f) Áreas Forestales a Conservar sin Actuación Humana en los Montes de utilidad pública.
+
+g) Las Áreas de reproducción, cría y alimentación determinadas en los planes de recuperación, conservación y manejo de las especies catalogadas.
+
+h) Aquellas otras áreas delimitadas por el Gobierno de Navarra como Zonas de Especial Protección para la Fauna Silvestre mediante Decreto Foral adoptado a propuesta del Consejero de Ordenación del Territorio y Medio Ambiente, conforme al régimen que en el mismo se establezca.
+
+2\. La creación de Áreas de Protección de la Fauna Silvestre, en general, y de Zonas de Especial Protección para la Fauna Silvestre, en particular, tiene por finalidad asegurar la conservación de las especies de la fauna silvestre y sus hábitats naturales, por razones biológicas, científicas o educativas.
+
+3\. La creación de un área de protección de la fauna silvestre exigirá la redacción de una plan de conservación y gestión de dicha zona. El plan se redactará en el plazo máximo de dos años desde la declaración de dicha zona.
+
+4\. En las Áreas de Protección de la Fauna Silvestre está prohibida cualquier actividad que sea incompatible con las finalidades que hayan justificado su declaración y en particular la captura o molestia a los animales, salvo cuando, por razones de orden biológico, técnico o científico debidamente justificadas, el Departamento de Ordenación del Territorio y Medio Ambiente conceda, conforme al artículo 11 de esta Ley Foral, la oportuna autorización expresa, fijando las condiciones aplicables en cada caso.
+
+5\. **(Derogado).**
+
+6\. Las disposiciones relativas a las Áreas de Protección de la Fauna Silvestre se aplicarán directamente al territorio al que afecten, sin perjuicio de su incorporación a los instrumentos de ordenación territorial o urbanística.
+
+7\. Las Áreas de Protección de la Fauna Silvestre quedarán delimitadas y señalizadas sobre el terreno de forma distinta y reconocible.
+
+> Se deroga el apartado 5 por la disposición derogatoria 1.b) de la Ley Foral 9/1996, de 17 de junio. [Ref. BOE-A-1996-22199](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-22199).
+
+> Se modifican los apartados 1 y 5 por el art. 1 de la Ley Foral 8/1994, de 21 de junio. [Ref. BOE-A-1994-19852](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19852).
+
+##### Artículo 23.
+
+1\. Será de aplicación a las Áreas de Protección de la Fauna Silvestre el régimen de gestión de los espacios naturales de interés y parques naturales, establecido en los artículos 39 a 44 de la Ley Foral 6/1987, de 10 de abril, de Normas Urbanísticas Regionales para protección y uso del territorio.
+
+2\. Corresponderá al Consejero de Ordenación del Territorio y Medio Ambiente:
+
+a) El ejercicio del derecho de tanteo y retracto, en favor de la Administración de la Comunidad Foral de Navarra, en todas las transmisiones de bienes y derechos relativos a los terrenos ubicados en las Áreas de Protección de la Fauna Silvestre, en los términos regulados por el artículo 44 de la Ley Foral 6/1987, de 10 de abril.
+
+b) La declaración de la necesaria y urgente ocupación de cualquier terreno calificado como Área de Protección de la Fauna Silvestre, a efectos expropiatorios.
+
+##### Artículo 24.
+
+Los instrumentos de ordenación territorial y urbanística asegurarán la preservación, mantenimiento y recuperación de los biotopos y hábitats de las especies protegidas y, en particular, de las autóctonas en estado silvestre, y, a tal efecto, contendrán la categorización de los suelos no urbanizables incluidos en el ámbito del territorio objeto de ordenación y su régimen de protección, e incorporarán asimismo, en su caso, entre sus determinaciones la delimitación de las áreas de Protección de la Fauna Silvestre, con referencia expresa al régimen de protección que les sea aplicable.
+
+##### Artículo 25.
+
+1\. Las limitaciones establecidas por esta Ley Foral, con carácter general, así como las que, para la fauna silvestre, se contengan en los Planes Rectores de Uso y Gestión de los espacios naturales de interés y parques naturales, no darán lugar a indemnización.
+
+2\. Cuando las limitaciones no resulten compatibles con la utilización tradicional y consolidada de aprovechamientos o recursos, procederá indemnización por las mismas, que se determinarán de acuerdo con las normas que regulan la responsabilidad patrimonial de la Administración. No obstante, podrán convenirse otras formas de indemnización, tales como el otorgamiento de ayudas, subvenciones u otros medios de fomento.
+
+3\. El ejercicio de actividades y aprovechamientos en los Parques Naturales se acomodará a lo que disponga el respectivo Plan Rector de Uso y Gestión o, en su defecto, el Decreto Foral que lo cree.
+
+### CAPÍTULO V — Medidas específicas de protección de la fauna silvestre
+
+#### Sección 1.ª Medidas protectoras comunes a toda la fauna silvestre
+
+##### Artículo 26.
+
+1\. El Gobierno de Navarra establecerá un sistema adecuado de vigilancia del estado de la fauna silvestre, para preservar a la misma de epizootias y evitar la transmisión de zoonosis.
+
+2\. Con el fin de preservar la salud pública y evitar la transmisión de zoonosis, el Departamento de Ordenación del Territorio y Medio Ambiente podrá limitar o prohibir el ejercicio de las actividades incluidas las cinegéticas y piscícolas en aquellos lugares en que se declare la existencia de epizootias y enfermedades contagiosas para las personas, los animales domésticos o la fauna silvestre.
+
+3\. Las autoridades locales, así como los titulares del aprovechamiento de fauna silvestre, deberán comunicar al Departamento de Ordenación del Territorio y Medio Ambiente la aparición de enfermedades sospechosas de epizootias.
+
+##### Artículo 27.
+
+1.º Salvo en las circunstancias y condiciones excepcionales enumeradas en el artículo 9 de esta Ley Foral, quedan prohibidas la tenencia, utilización o comercialización de todos los procedimientos masivos o no selectivos para la captura o muerte de animales, así como aquellos que pudieran causar localmente la desaparición de una especie, o turbar gravemente la tranquilidad de las poblaciones de una especie. El Departamento de Ordenación del Territorio y Medio Ambiente podrá confiscar, sin derecho a indemnización, y destruir los medios de captura masivos o no selectivos prohibidos expuestos a la venta.
+
+2.º Queda prohibido el empleo, sin autorización del Departamento de Ordenación del Territorio y Medio Ambiente, de los siguientes métodos y medios en la captura de animales:
+
+A) Para las especies cinegéticas.
+
+1\. Los lazos o anzuelos, así como todo tipo de trampas y cepos, incluyendo costillas, perchas o ballestas, fosos, nasas y alares.
+
+2\. El arbolillo, las varetas, las rametas, las barracas o parayns.
+
+3\. Los reclamos de especies protegidas vivas o naturalizadas y otros reclamos vivos, cegados o mutilados, así como todo tipo de reclamos eléctricos o mecánicos, incluidas las grabaciones.
+
+4\. Los aparatos electrocutantes o paralizantes.
+
+5\. Los faros, linternas, espejos y otras fuentes luminosas artificiales o deslumbrantes.
+
+6\. Todo tipo de redes o de artefactos que requieran para su funcionamiento el uso de mallas, como las redes abatibles, las redes-niebla o verticales y las redes cañón, así como las redes japonesas y la barca italiana.
+
+7\. Todo tipo de cebos, humos, gases o sustancias que crean rastro, venenosas, paralizantes, tranquilizantes, atrayentes o repelentes, así como los explosivos.
+
+8\. Las armas semiautomáticas o automáticas cuyo cargador pueda contener más de dos cartuchos, las de aire comprimido, los rifles de calibre 22 de percusión anular, las provistas de silenciador o de visor para el disparo nocturno, así como las que disparen proyectiles que inyecten sustancias paralizantes.
+
+9\. Los hurones y las aves de cetrería.
+
+10\. Las aeronaves y embarcaciones de cualquier tipo o los vehículos terrestres motorizados como lugar desde donde realizar los disparos.
+
+11\. Los balines, postas o balas explosivas, así como cualquier tipo de bala con manipulaciones en el proyectil.
+
+12\. Los cañones pateros.
+
+B) Para las especies objeto de pesca.
+
+1\. Las redes o artefactos de cualquier tipo cuya malla, luz o dimensiones no permitan el paso de peces con una talla igual o inferior a los 8 centímetros, así como las que ocupen más de la mitad de la anchura de la corriente.
+
+2\. Los aparatos electrocutantes o paralizantes, fuentes luminosas artificiales, explosivos y sustancias que crean rastro, venenosas, paralizantes, tranquilizantes, atrayentes o repelentes.
+
+3\. Las garras, garfios, tridentes, gamos, grampines, fítoras, arpones, garlitos, cribas, butrones, esparaveles, remangas, palangres, salabardos, cordelillos, sedales durmientes y artes similares.
+
+4\. Los peces vivos como cebo, así como cebar las aguas antes o durante la pesca, con excepción del cebado durante los campeonatos deportivos de pesca de ciprínidos o en los entrenamientos para participar en los mismos. En dichos campeonatos, todas las capturas deberán guardarse en viveras amplias durante la prueba y, una vez controladas, serán devueltas a las aguas en perfecto estado.
+
+3.º Reglamentariamente podrá ampliarse o reducirse la relación de medios y métodos prohibidos en el número anterior, a la vista de la evolución poblacional de determinadas especies.
+
+4.º Se autoriza, en las condiciones y épocas que se determinen en la respectiva Orden Foral del Consejero de Ordenación del Territorio y Medio Ambiente, la caza tradicional de la paloma con red en la zona de Etxalar.
+
+##### Artículo 28.
+
+Sólo podrán ser objeto de captura y comercialización, en vivo o en muerto, las especies que se determinen por el Consejero de Ordenación del Territorio y Medio Ambiente en Orden Foral publicada en el «Boletín Oficial de Navarra».
+
+##### Artículo 29.
+
+1\. Reglamentariamente se determinará la regulación de los establecimientos debidamente autorizados de cría en cautividad de especies alóctonas para su comercialización.
+
+2\. En todo caso, dicha regulación deberá contener los siguientes aspectos:
+
+a) Régimen sanitario.
+
+b) Condiciones de vida de los animales.
+
+c) Medidas de seguridad que eviten su huida.
+
+3\. La venta en establecimientos comerciales, la tenencia y exhibición pública de animales de la fauna alóctona provenientes de instalaciones de cría en cautividad con fines comerciales y debidamente legalizadas requerirán la posesión por cada animal del certificado acreditativo del origen y, en su caso, la documentación establecida en la legislación vigente.
+
+##### Artículo 30.
+
+1\. Se crea el Registro de Taxidermistas y Peleteros, dependiente del Departamento de Ordenación del Territorio y Medio Ambiente, en el que deberán inscribirse las personas físicas o jurídicas que practiquen en Navarra actividades de taxidermia y comercio de pieles en bruto.
+
+Reglamentariamente se establecerá la organización y el funcionamiento de este Registro.
+
+2\. Todas las personas físicas y jurídicas que practiquen actividades de taxidermia o comercio de pieles en bruto deberán poseer actualizado un libro de registro en el que constarán los datos referentes a todos los ejemplares de la fauna silvestre que hubieran disecado total o parcialmente o cuya piel en bruto hubiesen comerciado. El libro, cuyo contenido se fijará reglamentariamente, estará a disposición del Departamento de Ordenación del Territorio y Medio Ambiente para que pueda examinarlo.
+
+#### Sección 2.ª Indemnización de daños causados por la fauna silvestre
+
+##### Artículo 31.
+
+1\. El Departamento de Ordenación del Territorio y Medio Ambiente indemnizará, previa instrucción del oportuno expediente administrativo y las valoraciones a que hubiere lugar, los daños efectivamente ocasionados a terceros o sus bienes:
+
+a) Por las especies consideradas amenazadas.
+
+b) Por las especies de la fauna silvestre no susceptibles de aprovechamiento cinegético o piscícola que no tengan la consideración de amenazadas cuando el Departamento de Ordenación del Territorio y Medio Ambiente hubiera denegado expresamente su captura o eliminación conforme al artículo 11 de esta Ley Foral. En estos casos se indemnizarán los daños efectivamente causados en el período comprendido entre los dos meses anteriores a la solicitud de captura y el final del correspondiente ejercicio presupuestario anual.
+
+Asimismo, el Departamento indemnizará los daños causados por las especies a que se refiere esta letra b), en el período comprendido entre los dos meses anteriores a la solicitud de autorización de captura y el día en que se hubiera notificado la misma al interesado.
+
+2\. En ningún caso serán indemnizables los daños causados por especies consideradas como plaga o respecto de las cuales el Departamento de Ordenación del Territorio y Medio Ambiente hubiera autorizado su captura controlada con anterioridad.
+
+3\. Las indemnizaciones de daños causados por la fauna silvestre, que se establecen en este artículo, se pagarán en un plazo no superior a tres meses desde la comunicación de los daños.
+
+> Se deroga el apartado 4 por la disposición derogatoria única de la Ley Foral 17/2005, de 22 de diciembre. [Ref. BOE-A-2006-844](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-844).
+
+> Se modifica el apartado 4 por el art. 1 de la Ley Foral 18/2002, de 13 de junio. [Ref. BOE-A-2002-16660](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-16660).
+
+> Se modifica por el art. 4 de la Ley Foral 8/1994, de 21 de junio. [Ref. BOE-A-1994-19852](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19852).
+
+#### Sección 3.ª Medidas específicas para la conservación de la fauna terrestre y sus hábitats
+
+##### Artículo 32.
+
+1\. Con el fin de reducir y eliminar los riesgos para la integridad física y la vida de las aves nidificantes, migradoras o invernantes, así como el efecto barrera y de corte en los hábitats naturales, reglamentariamente en el plazo máximo de dos años a partir de la entrada en vigor de esta Ley Foral, se establecerán las normas de carácter técnico-ambiental aplicables a las instalaciones eléctricas de alta y baja tensión, cuando discurran por el territorio de la Comunidad Foral de Navarra.
+
+2\. Las instalaciones eléctricas no podrán atravesar las Áreas de Protección de la Fauna Silvestre.
+
+Las actuales instalaciones que contravengan lo anterior serán suprimidas en el plazo máximo de diez años.
+
+3\. Los anteproyectos y proyectos de instalaciones eléctricas estarán sujetos a la autorización previa del Departamento de Ordenación del Territorio y Medio Ambiente, cuya tramitación se efectuará conforme a la Ley 6/1987, de 10 de abril, de Normas Urbanísticas Regionales para la protección y uso del territorio.
+
+##### Artículo 33.
+
+1\. A los efectos de la presente Ley los planes o proyectos de obras que impliquen en general transformación del espacio rural, y en concreto y entre otros los de concentración parcelaria, regadíos, transformación de secano a regadío, creación de pastizales, lucha contra la erosión, corrección hidrológico-forestal, repoblaciones forestales, pistas forestales, instalaciones extractivas, ordenación turística, caminos locales y, en general, los proyectos de obras públicas no sometidos, según la legislación vigente, a estudio de impacto ambiental, se someterán por el promotor, sea público o privado, a informe o autorización favorable del Departamento de Ordenación del Territorio y Medio Ambiente.
+
+Reglamentariamente se determinarán los proyectos de obras de desarrollo de un plan que además habrán de someterse a lo dispuesto en el párrafo anterior.
+
+2\. Los proyectos promovidos por las Entidades Locales de Navarra estarán sujetos a la previa autorización del Departamento de Ordenación del Territorio y Medio Ambiente, que deberá emitirse en el plazo máximo de dos meses. Transcurrido este plazo, se entenderá otorgada la autorización por silencio administrativo.
+
+3\. Los promovidos por los particulares o por organismos públicos distintos de la Administración de la Comunidad Foral de Navarra o de las Entidades Locales estarán sujetos a la previa autorización del Departamento de Ordenación del Territorio y Medio Ambiente, que se tramitará y resolverá conforme al procedimiento previsto en el artículo 31 de la Ley Foral 6/1987, de 10 de abril, de Normas Urbanísticas Regionales para protección y uso del territorio.
+
+4\. Los promovidos por órganos de la Administración de la Comunidad Foral de Navarra estarán sujetos a informe preceptivo del Departamento de Ordenación del Territorio y Medio Ambiente, cuando no estuviera prevista su tramitación al amparo de lo establecido en la legislación vigente sobre Planes y Proyectos Sectoriales de Incidencia Supramunicipal o Evaluaciones de Impacto Ambiental. En caso de que el informe del Departamento de Ordenación del Territorio y Medio Ambiente sea desfavorable, resolverá el Gobierno de Navarra. El informe deberá emitirse en el plazo de dos meses, transcurrido el cual se entenderá favorable.
+
+5\. Todos los proyectos y planes sujetos a autorización o informe del Departamento de Ordenación del Territorio y Medio Ambiente habrán de contener entre su documentación un estudio sobre las afecciones ambientales y las medidas que se proponen para corregir adecuadamente éstas.
+
+Reglamentariamente se determinarán el contenido y documentación del estudio sobre afecciones medioambientales.
+
+6\. Los costes de las medidas correctoras se financiarán, en todo caso, a cargo del promotor de las obras, a cuyo fin los proyectos tendrán la correspondiente previsión económica, no pudiendo ser su cuantía inferior al 1 por 100.
+
+> Se modifica el apartado 1 por el art. 2 de la Ley Foral 8/1994, de 21 de junio. [Ref. BOE-A-1994-19852](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19852).
+
+##### Artículo 34.
+
+1\. Las actividades de deporte, ocio y turismo que se practiquen en el medio natural estarán supeditadas al respeto del medio y de las características del espacio rural y sus valores medioambientales, incluido el respeto a la fauna silvestre.
+
+2\. Reglamentariamente se determinarán las condiciones a las que deberá someterse la práctica del deporte y las actividades de ocio y turismo que se desarrollen en el medio natural para hacer compatible las mismas con la protección del medio ambiente en general y de la fauna silvestre, sus ciclos biológicos y hábitats naturales en particular.
+
+3\. Las actividades de deporte, ocio y turismo en el medio natural, realizadas en grupo u organizadas, y aquellas practicadas individualmente con mayor potencialidad de afección medioambiental, podrán requerir autorización previa del Departamento de Ordenación del Territorio y Medio Ambiente. Reglamentariamente se determinarán las que deban someterse a este procedimiento.
+
+##### Artículo 35.
+
+1\. En las zonas agrícolas y ganaderas se respetará la vegetación autóctona y especialmente los ribazos, ezpuendas, zonas liecas, regatas, setos arbustivos y arbóreos, zonas y líneas de arbolado y cuantos elementos puedan ser significativos para la conservación de la fauna silvestre.
+
+En especial los espacios que:
+
+a) Sirvan de refugio, cría o alimentación de especies protegidas.
+
+b) Constituya los últimos lugares de refugio, cría o alimentación para la fauna, por perdurar en paisajes agrarios o ganaderos simplificados.
+
+c) Establezcan pasillos o corredores biológicos con o entre zonas naturales, evitando el aislamiento genético de las poblaciones.
+
+2\. El Gobierno de Navarra desarrollará reglamentariamente lo preceptuado en este artículo.
+
+##### Artículo 36.
+
+1\. Los cercados y vallados en terrenos rurales deberán construirse de forma tal que no impidan la circulación de la fauna silvestre no susceptible de aprovechamiento.
+
+2\. El Consejero de Ordenación del Territorio y Medio Ambiente podrá establecer limitaciones o, en su caso, prohibiciones de la circulación rodada no tradicional de vehículos de tracción mecánica en zonas, áreas o pistas en las que se puedan causar graves molestias o perjuicios a las especies amenazadas.
+
+##### Artículo 37.
+
+1\. El Consejero de Ordenación del Territorio y Medio Ambiente podrá imponer, con carácter sustitutorio del titular, la realización de aquellas actuaciones necesarias para la eliminación de obstáculos que impidan la libre circulación de la fauna silvestre.
+
+2\. El procedimiento para llevar a cabo las actuaciones a que se refiere el número anterior será el siguiente:
+
+a) Se requerirá al titular de la finca o de la instalación, a fin de que proceda a su eliminación en un plazo no superior a tres meses.
+
+b) En el supuesto de que transcurrido el plazo no hubieran sido eliminados, el Consejero dispondrá la eliminación por la Administración de las construcciones o elementos obstaculizadores.
+
+c) Los costes derivados de la eliminación serán satisfechos por el titular de la finca o actividad, procediéndose, en caso de impago, por la vía de apremio.
+
+##### Artículo 38.
+
+El Gobierno de Navarra establecerá las medidas necesarias para limitar el uso de pesticidas, fertilizantes o productos que puedan causar perjuicio a las especies silvestres, así como someter a autorización previa, conforme al procedimiento previsto en el artículo 11 de esta Ley Foral, el empleo de las mismas sobre determinadas especies o en determinadas zonas de Navarra.
+
+##### Artículo 39.
+
+1\. Se prohíbe el ejercicio de la caza durante las épocas de celo, reproducción y crianza, incluido, en el caso de especies migratorias, el regreso hacia los lugares de cría.
+
+2\. No obstante lo anterior, el Departamento de Ordenación del Territorio y Medio Ambiente podrá autorizar, estableciendo las oportunas condiciones, la caza de determinadas especies de caza mayor en época de celo, tales como el jabalí, el corzo, el venado o el gamo.
+
+3\. El Departamento de Ordenación del Territorio y Medio Ambiente realizará el seguimiento de las poblaciones de fauna cinegética y en especial de las migratorias. En función de estos datos se establecerán los periodos de vedas o la prohibición total o parcial de cazar determinadas especies durante los años en que su población esté en regresión.
+
+4\. Si no hubiera otra solución satisfactoria y cumpliendo los requisitos del apartado 2 del artículo 11, el Departamento de Medio Ambiente, Ordenación del Territorio y Vivienda podrá dejar sin efecto la prohibición establecida en el apartado 1 de este artículo, respecto de las aves migratorias no catalogadas y durante su trayecto de regreso a sus lugares de cría, para permitir, en los lugares tradicionales, en condiciones estrictamente controladas y de un modo selectivo, la captura, la retención o cualquier otra explotación prudente de determinadas especies cinegéticas en pequeñas cantidades y con las limitaciones precisas para garantizar la conservación de las especies.
+
+> Se añade el apartado 4 por el art. 3 de la Ley Foral 5/1998, de 27 de abril. [Ref. BOE-A-1998-12737](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-12737).
+
+#### Sección 4.ª Medidas específicas para la conservación de la fauna acuícola y sus hábitats
+
+##### Artículo 40.
+
+1\. Para facilitar el acceso de los peces, y muy particularmente de los emigrantes, a los distintos tramos de los cursos de agua, se construirán escalas o pasos, en las presas y diques edificados en las masas de agua que se opongan a la circulación de aquéllos, en las condiciones técnicas que a tal efecto fije el Departamento de Ordenación del Territorio y Medio Ambiente.
+
+2\. Los gastos derivados de la eliminación de los obstáculos y de la construcción de los pasos corresponderá a los concesionarios de los aprovechamientos hidráulicos correspondientes.
+
+3\. El Departamento de Ordenación del Territorio y Medio Ambiente procederá a realizar las obras a expensas de los concesionarios que incumplieran las obligaciones derivadas de este artículo en el plazo que se les hubiera señalado, y ello con independencia de la aplicación de las sanciones procedentes.
+
+> Se levanta la suspensión de la vigencia y aplicación del artículo por auto del TC de 10 de noviembre de 1993. [Ref. BOE-A-1993-27630](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-27630).
+
+> Téngase en cuenta que se declara la constitucionalidad de este artículo, interpretado en la forma y con el alcance indicados en el último párrafo del fundamento jurídico 4 por Sentencia del TC 166/2000, de 15 de junio. [Ref. BOE-T-2000-13056](https://www.boe.es/buscar/doc.php?id=BOE-T-2000-13056).
+
+> Se supende la vigencia y aplicación del artículo, desde el 18 de junio de 1993 para las partes del proceso y desde el 3 de julio de 1993 para los terceros, por providencia del TC de 29 de junio de 1993, que admite a trámite el recuso de inconstitucionalidad nº 1997/1993. [Ref. BOE-A-1993-17301](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17301).
+
+##### Artículo 41.
+
+Sin perjuicio de las competencias de los organismos de las cuencas hidrográficas, y con el fin de establecer las necesarias medidas correctoras para la protección del medio ambiente y de la fauna, será en todo caso preceptiva la autorización administrativa del Departamento de Ordenación del Territorio y Medio Ambiente, a tramitar conforme a la Ley Foral 6/1987, de 10 de abril, de Normas Urbanísticas Regionales para protección y uso del territorio, con carácter previo a la ejecución de las siguientes actividades:
+
+a) Eliminar o modificar la vegetación de las zonas de protección de los cursos fluviales, lagunas, embalses y zonas húmedas.
+
+b) Levantar y sacar fuera de los cauces las piedras, gravas y arenas del fondo.
+
+c) Desviar el curso natural de los cursos fluviales, así como modificar las lagunas, los embalses, las zonas húmedas y las zonas de protección de tales cursos.
+
+d) Reducir el caudal de las aguas y proceder al agotamiento de los caudales y obras de derivación o captación.
+
+e) La construcción de presas y diques en las aguas, y sus modificaciones.
+
+f) La implantación de viveros de peces y cangrejos y estaciones de fecundación artificial en aguas.
+
+g) El encauzamiento, dragado, modificación y ocupación de cauces.
+
+> Se levanta la suspensión de la vigencia y aplicación de los apartados a), b), c), d), e) y g), por auto del TC de 10 de noviembre de 1993. [Ref. BOE-A-1993-27630](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-27630).
+
+> Téngase en cuenta la Sentencia del TC 166/2000, de 15 de junio que desestima el recurso en relación con este artículo. [Ref. BOE-T-2000-13056](https://www.boe.es/buscar/doc.php?id=BOE-T-2000-13056).
+
+> Se supende la vigencia y aplicación de los apartados a), b), c), d), e) y g), desde el 18 de junio de 1993 para las partes del proceso y desde el 3 de julio de 1993 para los terceros, por providencia del TC de 29 de junio de 1993, que admite a trámite el recuso de inconstitucionalidad nº 1997/1993. [Ref. BOE-A-1993-17301](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17301).
+
+##### Artículo 42.
+
+1\. Reglamentariamente se determinarán los aspectos ambientales que han de contemplar las centrales hidroeléctricas instaladas o a instalar en tramos del cauce fluvial.
+
+2\. Los proyectos de centrales hidroeléctricas, públicas o privadas al solicitar la licencia de actividad, incluirán un estudio de afecciones ambientales producidas por sus obras, instalaciones y actividad, con el mismo contenido que el exigido a una de Evaluación de Impacto Ambiental en el Real Decreto Legislativo 1302/1986, de 28 de junio.
+
+##### Artículo 43.
+
+1\. Reglamentariamente, y, en su caso, de acuerdo con las previsiones de los Planes Hidrológicos de Cuenca, se establecerán los caudales mínimos a respetar por las centrales hidroeléctricas en los cauces fluviales afectados.
+
+La determinación del caudal mínimo se efectuará atendiendo a la condición salmonícola o ciprinícola del cauce fluvial afectado.
+
+2\. Los caudales mínimos serán informados a la correspondiente Confederación Hidrográfica para el trámite concesional, y serán vinculantes en cuanto a la licencia de actividad clasificada para la protección del medio ambiente.
+
+3\. Reglamentariamente se establecerán las condiciones técnicas que habrán de adoptar los concesionarios para garantizar la adecuación del funcionamiento de las centrales hidroeléctricas a la protección de la fauna acuícola. En todo caso, las centrales poseerán dispositivos destinados a mantener en la presa de captación cotas de agua que garanticen el mantenimiento del caudal mínimo fijado.
+
+> Se levanta la suspensión de la vigencia y aplicación del apartado 3, por auto del TC de 10 de noviembre de 1993. [Ref. BOE-A-1993-27630](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-27630).
+
+> Téngase en cuenta la Sentencia del TC 166/2000, de 15 de junio que desestima el recurso en relación con este artículo. [Ref. BOE-T-2000-13056](https://www.boe.es/buscar/doc.php?id=BOE-T-2000-13056).
+
+> Se supende la vigencia y aplicación del apartado 3, desde el 18 de junio de 1993 para las partes del proceso y desde el 3 de julio de 1993 para los terceros, por providencia del TC de 29 de junio de 1993, que admite a trámite el recuso de inconstitucionalidad nº 1997/1993. [Ref. BOE-A-1993-17301](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17301).
+
+##### Artículo 44.
+
+Cualquier tipo de maniobra o actividad con la maquinaria de las centrales hidroeléctricas que origine variaciones del caudal o del nivel del agua que, a su vez, conlleven alteración del medio en el que vive la fauna, requerirá autorización del Departamento de Ordenación del Territorio y Medio Ambiente.
+
+> Se levanta la suspensión de la vigencia y aplicación del artículo, por auto del TC de 10 de noviembre de 1993. [Ref. BOE-A-1993-27630](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-27630).
+
+> Téngase en cuenta la Sentencia del TC 166/2000, de 15 de junio que desestima el recurso en relación con este artículo. [Ref. BOE-T-2000-13056](https://www.boe.es/buscar/doc.php?id=BOE-T-2000-13056).
+
+> Se supende la vigencia y aplicación del artículo, desde el 18 de junio de 1993 para las partes del proceso y desde el 3 de julio de 1993 para los terceros, por providencia del TC de 29 de junio de 1993, que admite a trámite el recuso de inconstitucionalidad nº 1997/1993. [Ref. BOE-A-1993-17301](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17301).
+
+##### Artículo 45.
+
+1\. En los términos que reglamentariamente se determinen, en toda obra de toma de agua, como canales, acequias y cauces de derivación para el abastecimiento de poblados, riegos o usos industriales, así como a la salida de los canales de fábricas y molinos de las turbinas, los titulares estarán obligados a colocar y mantener en buen estado de conservación compuertas de rejilla o mallas que impidan el acceso de la población ictícola a dichas corrientes de derivación. Igualmente, los titulares deberán colocar sobre los canales pasos para la fauna silvestre y emplazar rejas o mallas que impidan la caída de los animales a los canales, o rampas en su interior que faciliten la salida de los animales caídos al canal.
+
+2\. Corresponde al Departamento de Ordenación del Territorio y Medio Ambiente fijar el emplazamiento y número de las referidas instalaciones.
+
+> Se levanta la suspensión de la vigencia y aplicación del artículo, por auto del TC de 10 de noviembre de 1993. [Ref. BOE-A-1993-27630](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-27630).
+
+> Téngase en cuenta la Sentencia del TC 166/2000, de 15 de junio que desestima el recurso en relación con este artículo. [Ref. BOE-T-2000-13056](https://www.boe.es/buscar/doc.php?id=BOE-T-2000-13056).
+
+> Se supende la vigencia y aplicación del artículo, desde el 18 de junio de 1993 para las partes del proceso y desde el 3 de julio de 1993 para los terceros, por providencia del TC de 29 de junio de 1993, que admite a trámite el recuso de inconstitucionalidad nº 1997/1993. [Ref. BOE-A-1993-17301](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17301).
+
+##### Artículo 46.
+
+**(Anulado).**
+
+> Se declara la inconstitucionalidad y nulidad por Sentencia del TC 166/2000, de 15 de junio. [Ref. BOE-T-2000-13056](https://www.boe.es/buscar/doc.php?id=BOE-T-2000-13056).
+
+> Se levanta la suspensión de la vigencia y aplicación del artículo, por auto del TC de 10 de noviembre de 1993. [Ref. BOE-A-1993-27630](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-27630).
+
+> Se supende la vigencia y aplicación del artículo, desde el 18 de junio de 1993 para las partes del proceso y desde el 3 de julio de 1993 para los terceros, por providencia del TC de 29 de junio de 1993, que admite a trámite el recuso de inconstitucionalidad nº 1997/1993. [Ref. BOE-A-1993-17301](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17301).
+
+##### Artículo 47.
+
+1\. El Gobierno de Navarra establecerá las medidas necesarias para la restauración de los cursos fluviales, incluyendo tanto la recuperación de los fondos como la revegetación de las márgenes.
+
+2\. A los efectos previstos en el número anterior, el Consejero de Ordenación del Territorio y Medio Ambiente podrá expropiar la parte indispensable de los terrenos necesarios.
+
+La declaración de utilidad pública y necesidad de ocupación de los terrenos se entenderán efectuadas al ser aprobado por el Consejero de Ordenación del Territorio y Medio Ambiente el correspondiente proyecto de restauración.
+
+> Se levanta la suspensión de la vigencia y aplicación del artículo, por auto del TC de 10 de noviembre de 1993. [Ref. BOE-A-1993-27630](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-27630).
+
+> Téngase en cuenta la Sentencia del TC 166/2000, de 15 de junio que desestima el recurso en relación con este artículo. [Ref. BOE-T-2000-13056](https://www.boe.es/buscar/doc.php?id=BOE-T-2000-13056).
+
+> Se supende la vigencia y aplicación del artículo, desde el 18 de junio de 1993 para las partes del proceso y desde el 3 de julio de 1993 para los terceros, por providencia del TC de 29 de junio de 1993, que admite a trámite el recuso de inconstitucionalidad nº 1997/1993. [Ref. BOE-A-1993-17301](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17301).
+
+##### Artículo 48.
+
+**(Anulado).**
+
+> Se declara la inconstitucionalidad y nulidad por Sentencia del TC 166/2000, de 15 de junio. [Ref. BOE-T-2000-13056](https://www.boe.es/buscar/doc.php?id=BOE-T-2000-13056).
+
+> Se levanta la suspensión de la vigencia y aplicación del artículo, por auto del TC de 10 de noviembre de 1993. [Ref. BOE-A-1993-27630](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-27630).
+
+> Se supende la vigencia y aplicación del artículo, desde el 18 de junio de 1993 para las partes del proceso y desde el 3 de julio de 1993 para los terceros, por providencia del TC de 29 de junio de 1993, que admite a trámite el recuso de inconstitucionalidad nº 1997/1993. [Ref. BOE-A-1993-17301](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17301).
+
+## TÍTULO III — Ordenación del aprovechamiento de la fauna silvestre y sus hábitats
+
+> Se deroga por la disposición derogatoria única de la Ley Foral 17/2005, de 22 de diciembre. [Ref. BOE-A-2006-844](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-844).
+
+##### Artículos 49 a 91.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única de la Ley Foral 17/2005, de 22 de diciembre. [Ref. BOE-A-2006-844](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-844).
+
+## TÍTULO IV — Infracciones y sanciones
+
+### CAPÍTULO I — Disposiciones comunes
+
+##### Artículo 92.
+
+Constituyen infracciones y generarán responsabilidades administrativas las acciones u omisiones que infrinjan lo establecido en esta Ley Foral, sin perjuicio de las responsabilidades exigibles en vía penal, civil o de otro orden en que pudieran incurrir.
+
+##### Artículo 93.
+
+1\. Las sanciones que se impongan a los distintos responsables por una misma infracción tendrán entre sí carácter independiente.
+
+2\. A los responsables de dos o más infracciones se les impondrán las sanciones correspondientes a cada una de las diversas infracciones cometidas.
+
+3\. En ningún caso se producirá una doble sanción por los mismos hechos y en función de los mismos intereses públicos protegidos, si bien deberán exigirse las demás responsabilidades que se deduzcan de otros hechos o infracciones concurrentes.
+
+4\. El denunciado tendrá derecho a que se le entregue copia de la denuncia extendida.
+
+##### Artículo 94.
+
+1\. Cuando no sea posible determinar el grado de participación de las distintas personas que hubiesen intervenido en la realización de la infracción, la responsabilidad será solidaria, sin perjuicio del derecho a repetir frente a los demás participantes, por parte de aquel o aquellos que hubieran hecho frente a las responsabilidades.
+
+2\. Las personas jurídicas serán sancionadas por las infracciones cometidas por sus órganos o agentes y asumirán el coste de las medidas de reparación del orden vulnerado.
+
+3\. Los titulares de la patria potestad o de la custodia serán responsables respecto de los daños y perjuicios que causen los menores de edad o los incapacitados a su cargo.
+
+##### Artículo 95.
+
+Las infracciones previstas en esta Ley Foral se clasifican en leves, graves y muy graves.
+
+##### Artículo 96.
+
+Las multas impuestas a los menores de edad se sustituirán por el decomiso definitivo del arma o medio utilizado en el ilícito, sin perjuicio de la exigencia de responsabilidades al titular de la custodia del menor.
+
+##### Artículo 97.
+
+Podrán imponerse sanciones accesorias consistentes en la destrucción u ocupación de los medios utilizados para la ejecución de las infracciones, así como la ocupación de las piezas indebidamente apropiadas.
+
+##### Artículo 98.
+
+1\. La competencia para la imposición de las sanciones corresponde al Consejero de Ordenación del Territorio y Medio Ambiente.
+
+2\. Para la instrucción e imposición de sanciones por infracciones previstas en esta Ley Foral, se estará al siguiente procedimiento administrativo:
+
+a) Se iniciará por el Consejero de Ordenación del Territorio y Medio Ambiente, en virtud de actuaciones practicadas de oficio o mediante denuncia. La resolución designará el correspondiente Instructor, con título de Licenciado en Derecho.
+
+b) El Instructor redactará el pliego de cargos con propuesta de sanción, que será notificado al sujeto presuntamente responsable, quien dispondrá de un plazo de quince días para formular las alegaciones que estime pertinentes en defensa de su derecho.
+
+c) Transcurrido el plazo de alegaciones, y previas las diligencias que se estime necesarias, el Instructor elevará el expediente al Consejero de Ordenación del Territorio y Medio Ambiente, quien dictará la resolución correspondiente en el plazo de un mes.
+
+Si de las alegaciones se derivasen nuevos o distintos hechos o calificación de mayor gravedad, el Instructor procederá a notificar al interesado un nuevo pliego de cargos con propuesta de sanción, para que se puedan presentar las alegaciones pertinentes en el plazo de quince días hábiles.
+
+3\. El pliego de cargos con propuesta de sanción a que se refiere el número anterior reflejará, como mínimo, los siguientes extremos:
+
+a) Los hechos constatados, destacando los relevantes a efectos de la tipificación de la infracción y graduación de la sanción.
+
+b) La infracción presuntamente cometida, con expresión del precepto vulnerado.
+
+c) La propuesta de sanción, su graduación y cuantificación.
+
+d) En su caso, indemnización que proceda por los daños y perjuicios causados.
+
+e) Sanciones accesorias que procedan.
+
+f) Destino de las armas, medios o piezas ocupadas o comisadas.
+
+4\. La resolución imponiendo la sanción será ejecutiva cuando sea firme en la vía administrativa. En la resolución se adoptarán, en su caso, las disposiciones cautelares precisas para garantizar su eficacia en tanto no sea ejecutiva. La sanción se abonará en el plazo máximo de quince días hábiles a contar desde el siguiente al que sea firme.
+
+##### Artículo 99.
+
+1\. En todo el procedimiento sancionador se respetará la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario.
+
+2\. Los hechos declarados probados por resoluciones judiciales penales firmes vincularán al Departamento de Ordenación del Territorio y Medio Ambiente respecto de los procedimientos sancionadores que substancie.
+
+3\. Las actas de inspección o denuncias que se extiendan por los miembros de la Administración estarán dotadas de presunción de certeza respecto de los hechos reflejados en las mismas, salvo prueba en contrario.
+
+##### Artículo 100.
+
+1\. En la imposición de sanciones se deberá guardar la debida adecuación entre la gravedad real del hecho constitutivo de la infracción y la sanción aplicada, considerándose especialmente los siguientes criterios para la graduación de la sanción a aplicar:
+
+a) La intencionalidad o reiteración.
+
+b) El daño producido a la fauna especialmente protegida o a su hábitat.
+
+c) La reincidencia, por comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme en la vía administrativa.
+
+d) El cargo o función del sujeto infractor, o mayor conocimiento por razón de su profesión y estudios.
+
+e) La colaboración del infractor con la Administración en el esclarecimiento de los hechos y en la restitución del bien protegido.
+
+f) La acumulación de ilícitos en una misma conducta.
+
+2\. En el caso de reincidencia o reiteración simple en un periodo de dos años, el importe de la sanción que corresponda imponer se incrementará en el 50 por 100 de su cuantía, y si se reincide o reitera por dos veces o más, dentro del mismo período, el incremento será del 100 por 100.
+
+3\. Si un solo hecho constituye dos o más infracciones administrativas, se impondrá la sanción que corresponda a la de mayor gravedad, en su grado medio o máximo.
+
+##### Artículo 101.
+
+1\. Se crea el Registro de Infractores, dependiente del Departamento de Ordenación del Territorio y Medio Ambiente, en el que se inscribirán de oficio a quienes hayan sido sancionados por resolución firme, en expediente incoado como consecuencia de la aplicación de esta Ley Foral.
+
+2\. Las inscripciones y variaciones que se produzcan en los asientos del Registro serán remitidas al Registro Nacional de Infractores de Caza y Pesca.
+
+##### Artículo 102.
+
+1\. Toda infracción administrativa llevará consigo la ocupación de la pieza, viva o muerta, así como el comiso de cuantas artes y medios materiales o animales, vivos o naturalizados, hayan servido para cometer el hecho.
+
+2\. En el caso de ocupación o comiso de animal vivo, el agente denunciante libertará el animal en el supuesto de que estime que puede continuar con vida, o lo depositará en el lugar establecido por el Departamento de Ordenación del Territorio y Medio Ambiente. En este último caso, el animal pasará a propiedad de la Administración, que podrá cederlo a instituciones de carácter científico o protectoras de animales, devolverlo al país de origen, depositarlo en centros de recuperación o, preferentemente, liberarlo en el medio natural, una vez recuperado, si se trata de una especie de la fauna autóctona.
+
+3\. En el caso de ocupación o comiso de animal muerto, éste se entregará, mediante recibo, en el lugar en el que se determine por el Departamento de Ordenación del Territorio y Medio Ambiente.
+
+##### Artículo 103.
+
+1\. El agente denunciante procederá a la retirada de las armas o medios sólo en aquellos casos en que hayan sido usadas para cometer la presunta infracción, dando recibo de su clase, marca y número y lugar donde se depositen.
+
+2\. La negativa a la entrega del arma o medios, cuando el presunto infractor sea requerido para ello, dará lugar a denuncia ante el Juzgado competente a los efectos previstos en la legislación penal, y se tendrá como circunstancia agravante en el procedimiento administrativo sancionador.
+
+3\. Las armas o medios retirados, si son de lícita tenencia conforme a esta Ley Foral, serán devueltas en alguno de los siguientes supuestos:
+
+a) De forma gratuita, cuando la resolución recaída en el expediente fuera absolutoria o se proceda al sobreseimiento de éste.
+
+b) Gratuitamente, por disposición expresa del instructor del expediente en el supuesto de infracción leve.
+
+c) Previo rescate en la cuantía establecida, cuando se hayan hecho efectivas la sanción e indemnización impuestas en los supuestos de infracción grave o muy grave. No obstante, el Instructor del expediente podrá acordar, una vez dictada la propuesta de sanción, la devolución del arma si el presunto infractor presenta aval bancario que garantice el importe total de la sanción e indemnizaciones propuestas.
+
+d) En el supuesto de ocupación de perros utilizados como medio de captura de animales, aquéllos podrán quedar en depósito del denunciado previo abono de 25.000 pesetas en concepto de rescate.
+
+4\. A las armas decomisadas se les dará el destino establecido en la legislación del Estado en la materia. Los demás medios materiales no rescatados serán enajenados o destruidos.
+
+##### Artículo 104.
+
+1\. Las infracciones administrativas contra lo dispuesto en esta Ley Foral prescribirán las muy graves en el plazo de tres años, las graves en el de dos y las leves a los seis meses.
+
+2\. El plazo de prescripción de las infracciones comenzará a contarse desde el día en que la infracción se hubiera cometido. Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento sancionador, reanudándose el plazo de prescripción si el expediente sancionador estuviese paralizado durante más de un mes por causa no imputable al presunto responsable.
+
+3\. Cualquier actuación judicial o administrativa interrumpirá el plazo de prescripción.
+
+##### Artículo 105.
+
+1\. Cuando una infracción revistiese carácter de delito o falta sancionable penalmente, se dará traslado inmediato de la denuncia a la autoridad judicial, suspendiéndose la actuación administrativa hasta el momento en que la decisión penal recaída adquiera firmeza.
+
+2\. De no estimarse la existencia de delito o falta, se continuará el expediente administrativo hasta su resolución definitiva, con base, en su caso, en los hechos que la jurisdicción competente haya considerado probados.
+
+3\. La tramitación de diligencias penales interrumpirá la prescripción de las infracciones.
+
+##### Artículo 106.
+
+La multa impuesta se reducirá en un 30 por 100 de su cuantía cuando se cumplan los siguientes requisitos:
+
+a) Se abone el resto de la multa en el plazo máximo de quince días hábiles, contados a partir del día siguiente al de la notificación de la resolución en que se imponga la sanción.
+
+b) El infractor abone en el plazo indicado en la apartado anterior el importe total de las indemnizaciones que, en su caso, procedan por daños y perjuicios imputados a él, y abone el rescate de los efectos, armas o animales.
+
+c) El infractor muestre por escrito su conformidad con la sanción impuesta y con la indemnización reclamada y renuncie expresamente al ejercicio de toda acción de impugnación en el referido plazo.
+
+##### Artículo 107.
+
+1\. Sin perjuicio de las sanciones penales o administrativas que en cada caso procedan, el infractor deberá reparar el daño causado. La reparación tendrá como objetivo lograr, en la medida de lo posible, la restauración del medio natural al ser y estado previos al hecho de producirse la agresión. Asimismo, la Administración competente podrá subsidiariamente proceder a la reparación a costa del obligado.
+
+2\. Los responsables de los daños y perjuicios deberán abonar las indemnizaciones que procedan, fijadas ejecutoriamente por el Departamento de Ordenación del Territorio y Medio Ambiente, en el plazo que, en cada caso, se establezca.
+
+3\. Para la fijación de la indemnización a que se refiere el número anterior, se estará, en su caso, al baremo de valoraciones de las especies animales que establezca el Consejero de Ordenación del Territorio y Medio Ambiente mediante Orden Foral publicada en el «Boletín Oficial de Navarra».
+
+##### Artículo 108.
+
+Las sanciones impuestas por infracciones graves o muy graves, una vez firmes en la vía administrativa, se harán públicas en el «Boletín Oficial de Navarra», y contendrán los siguientes datos: Importe de la sanción, nombre del infractor o infractores, tipificación de la infracción, localización del hecho sancionador y, en su caso, indemnización exigida.
+
+##### Artículo 109.
+
+En los supuestos y término a que se refiera la legislación sobre procedimiento administrativo, podrán imponerse, previo apercibimiento, multas coercitivas, reiteradas por lapsos de quince días hábiles y cuya cuantía no excederá en cada caso del 20 por 100 de la multa principal, con el límite máximo de 500.000 pesetas por cada multa coercitiva.
+
+##### Artículo 110.
+
+1\. Será pública la acción para exigir ante las Administraciones Públicas la observancia de lo establecido en esta Ley Foral y en las disposiciones que se dicten para su desarrollo y aplicación.
+
+2\. Para que pueda darse la tramitación oportuna a la acción pública ejercida por los particulares, éstos deberán fundamentar suficientemente los hechos que supongan la infracción. Si la Administración considera que no existen pruebas suficientes, se archivará el expediente una vez realizadas por la misma las investigaciones oportunas.
+
+### CAPÍTULO II — Infracciones y sanciones en la protección de la fauna silvestre y sus hábitats
+
+##### Artículo 111.
+
+Son infracciones leves:
+
+1\. El incumplimiento de las condiciones impuestas por el Departamento de Ordenación del Territorio y Medio Ambiente en las autorizaciones previstas en esta Ley Foral, cuando no existiera riesgo o daño para las especies, sin perjuicio de la revocación o suspensión de la autorización de modo inmediato.
+
+2\. La captura, tenencia, destrucción, transporte, muerte, deterioro, recolección, comercio, exposición o naturalización, no autorizadas, de especies no protegidas que no sean susceptibles de aprovechamiento cinegético o acuícola, así como la de sus huevos, larvas y crías.
+
+3\. La ejecución, sin autorización administrativa expresa, de los actos regulados en el artículo 10.1, apartado d).
+
+4\. El empleo de los medios de captura prohibidos cuando no estuvieran sancionados de forma más grave en esta Ley Foral.
+
+5\. El incumplimiento de cualquier obligación o vulneración de las prohibiciones establecidas en esta Ley Foral, que no están calificadas con mayor gravedad.
+
+6\. La destrucción, deterioro, sustracción o cambio de localización de las señales vinculadas a las Áreas de Protección de la Fauna Silvestre
+
+7\. Acosar, molestar o emitir ruidos que perturben la tranquilidad de las especies en Áreas de Protección de la Fauna Silvestre.
+
+8\. Cualquier procedimiento, dispositivo, barrera o conducta que sirva o pueda servir para impedir la libre circulación de la fauna silvestre, o implique la alteración de cauces o caudales, con independencia del deber para quien lo cause de restituir la situación a su estado original.
+
+9\. Portar medios de captura de especies en el interior de las Áreas de Protección de la Fauna Silvestre.
+
+10\. Las acampadas y la circulación con vehículos de motor en el interior de Áreas de Protección de la Fauna Silvestre en contra de lo dispuesto en esta Ley Foral.
+
+11\. La destrucción de vivares o nidos de especies cinegéticas.
+
+12\. Bañarse en lugares prohibidos para ello y señalizados por el Departamento de Ordenación del Territorio y Medio Ambiente para la protección de la riqueza acuícola.
+
+13\. Arrojar a las aguas residuos, desperdicios o cualquier otra sustancia o material, siempre que sean susceptibles de causar perjuicios a la riqueza piscícola.
+
+##### Artículo 112.
+
+Son infracciones graves:
+
+1\. La captura, destrucción, tenencia, muerte, deterioro, transporte, recolección, comercio, exposición o naturalización de especies protegidas, no consideradas en peligro de extinción o sensibles a la alteración de su hábitat, así como la de sus restos, huevos o crías, sin contar con la preceptiva autorización.
+
+2\. La destrucción o degradación manifiesta del hábitat de especies no consideradas en peligro de extinción o como sensibles a la alteración de su hábitat, en particular de sus lugares de reproducción, invernada, reposo, campeo o alimentación.
+
+3\. La emisión de contaminantes que degraden el nivel de calidad ambiental de los hábitats de la fauna silvestre catalogada no considerada en peligro de extinción o sensibles a la alteración de su hábitat.
+
+4\. La destrucción o alteración de productos propios de un Área de Protección de la Fauna Silvestre mediante ocupación, rotura, corte, arranque u otras acciones.
+
+5\. El empleo o tenencia, sin la debida autorización, de procedimientos masivos o no selectivos para la captura o muerte de animales.
+
+6\. La obstrucción o resistencia a la labor inspectora y vigilante de los agentes de la autoridad en ejercicio de sus funciones de protección de la fauna silvestre.
+
+7\. La ejecución, sin autorización administrativa expresa, de los actos regulados en el artículo 10.1, apartados a), b) y c).
+
+8\. El incumplimiento de las condiciones impuestas por el Departamento de Ordenación del Territorio y Medio Ambiente en las autorizaciones previstas en los artículos 9 y 10 de esta Ley Foral, cuando existiera riesgo o daños para las especies, sin perjuicio de su revocación o suspensión de inmediato y de la exigencia de las indemnizaciones que procedan.
+
+9\. La ejecución, sin la debida autorización administrativa, de obras, trabajos, siembras o plantaciones en las zonas sujetas legalmente a algún tipo de limitación por esta Ley Foral en su destino o uso.
+
+10\. **(Anulado).**
+
+11\. **(Anulado).**
+
+12\. El perjuicio o riesgo grave de perjuicio a la fauna piscícola con motivo de la extracción de gravas o arenas de los cauces sin autorización del organismo competente, o sin cumplir las condiciones que se señalen en la misma, así como los daños o el riesgo por extracción en tramos de ríos en los que no procede realizar aprovechamientos de gravas o arenas.
+
+13\. Incorporar a las aguas continentales o a sus álveos, áridos, arcillas, escombros, limos, residuos industriales o cualquier otra clase de sustancias que produzcan enturbiamiento o que alteren sus condiciones de habitabilidad piscícola, con daño para esta forma de riqueza.
+
+14\. La formación de escombreras en lugares que por su proximidad a las aguas o a sus cauces sean susceptibles de ser arrastradas por éstas o lavadas por las de lluvia, con el consiguiente daño para la riqueza piscícola, salvo que tales escombreras tuviesen un carácter provisional, reuniesen las debidas garantías para impedir que se produzcan daños a la riqueza piscícola y hubiesen sido autorizadas por el organismo competente.
+
+15\. Importar, exportar, transportar, o introducir, en las aguas públicas o privadas especies acuícolas distintas de las que habiten en ellas de forma natural, sin la debida autorización del Departamento de Ordenación del Territorio y Medio Ambiente.
+
+16\. La no comunicación al Departamento de Ordenación del Territorio y Medio Ambiente por parte de los obligados a ello de la aparición de enfermedades sospechosas de epizootias.
+
+> Se declara la inconstitucionalidad y nulidad de los apartados 10 y 11 por Sentencia del TC 166/2000, de 15 de junio. [Ref. BOE-T-2000-13056](https://www.boe.es/buscar/doc.php?id=BOE-T-2000-13056).
+
+> Se levanta la suspensión de la vigencia y aplicación de los apartados 10, 11 y 12, por auto del TC de 10 de noviembre de 1993. [Ref. BOE-A-1993-27630](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-27630).
+
+> Se supende la vigencia y aplicación de los apartados 10, 11 y 12, desde el 18 de junio de 1993 para las partes del proceso y desde el 3 de julio de 1993 para los terceros, por providencia del TC de 29 de junio de 1993, que admite a trámite el recuso de inconstitucionalidad nº 1997/1993. [Ref. BOE-A-1993-17301](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17301).
+
+##### Artículo 113.
+
+Son infracciones muy graves:
+
+1\. La captura, tenencia, destrucción, transporte, muerte, deterioro, recolección, comercio, exposición o naturalización, no autorizadas, de especies de animales catalogadas en peligro de extinción o sensibles a la alteración de su hábitat, así como de sus restos, sus huevos, larvas y crías.
+
+2\. La destrucción del hábitat de especies en peligro de extinción o sensibles a la alteración de su hábitat, en particular, del lugar de reproducción, invernada, reposo, campeo o alimentación.
+
+3\. La emisión de contaminantes que degraden el nivel de calidad ambiental de los hábitats de la fauna silvestre catalogada en peligro de extinción o sensible a la alteración de su hábitat.
+
+4\. La utilización de productos químicos, sustancias biológicas, la realización de vertidos o de derrame de residuos que alteren las condiciones de habitabilidad de los espacios naturales protegidos y de las Áreas de Protección de la Fauna Silvestre con daño para los valores y fauna en ellos contenidos.
+
+5\. La alteración sustancial o destrucción de las condiciones de un Área de Protección de la Fauna Silvestre necesarios para el mantenimiento de la fauna silvestre.
+
+6\. **(Anulado).**
+
+7\. Alterar los cauces, descomponer los pedregales del fondo, disminuir arbitrariamente el nivel de las aguas, destruir la vegetación acuática y la de las orillas y márgenes, cuando se pueda causar perjuicio a la fauna.
+
+> Se declara la inconstitucionalidad y nulidad del apartado 6 por Sentencia del TC 166/2000, de 15 de junio. [Ref. BOE-T-2000-13056](https://www.boe.es/buscar/doc.php?id=BOE-T-2000-13056).
+
+> Se levanta la suspensión de la vigencia y aplicación de los apartados 6 y 7, por auto del TC de 10 de noviembre de 1993. [Ref. BOE-A-1993-27630](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-27630).
+
+> Se supende la vigencia y aplicación de los apartados 6 y 7, desde el 18 de junio de 1993 para las partes del proceso y desde el 3 de julio de 1993 para los terceros, por providencia del TC de 29 de junio de 1993, que admite a trámite el recuso de inconstitucionalidad nº 1997/1993. [Ref. BOE-A-1993-17301](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17301).
+
+##### Artículo 114.
+
+1\. Las infracciones a que se refiere el régimen protector de la fauna silvestre se sancionarán en la siguiente forma:
+
+a) Las infracciones leves, con multa de 10.000 a 1.000.000 de pesetas.
+
+b) Las infracciones graves, con multa de 1.000.001 a 10.000.000 de pesetas.
+
+c) Las infracciones muy graves, con multa de 10.000.001 a 50.000.000 de pesetas.
+
+##### Artículo 115.
+
+Las sanciones administrativas a la fauna silvestre prescribirán las muy graves a los tres años, las graves a los dos y las leves a los seis meses.
+
+### CAPÍTULO III — De las infracciones y sanciones en materia de caza y pesca
+
+> Se deroga por la disposición derogatoria única de la Ley Foral 17/2005, de 22 de diciembre. [Ref. BOE-A-2005-844](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-844).
+
+##### Artículos 116 a 123.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única de la Ley Foral 17/2005, de 22 de diciembre. [Ref. BOE-A-2005-844](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-844).
+
+## TÍTULO V — Disposiciones económicas y presupuestarias
+
+##### Artículo 124.
+
+1\. Los Presupuestos Generales de Navarra incluirán:
+
+a) Las inversiones a realizar en las Áreas de Protección de la Fauna Silvestre, así como las que resulten precisas para el control y mejora de las poblaciones animales y sus hábitats.
+
+b) Las inversiones derivadas de los planes de recuperación, conservación y manejo de especies incluidas en el Catálogo de Especies Amenazadas.
+
+c) Las cuantías precisas para la ejecución de los proyectos de restauración de los cursos fluviales.
+
+d) Las cantidades necesarias para ejercer el derecho de tanteo y retracto en todas las transmisiones de bienes y derechos relativos a terrenos ubicados en las Áreas de Protección de la Fauna Silvestre.
+
+e) Las partidas precisas para hacer efectivas las indemnizaciones previstas en esta Ley Foral, y, en especial, las indemnizaciones por daños producidos por las especies amenazadas y por la recuperación de los caudales mínimos de los cauces fluviales.
+
+f) Y, en general, cuantas consignaciones resulten precisas para el desarrollo y ejecución de esta Ley Foral.
+
+2\. Los Presupuestos Generales de Navarra podrán incluir:
+
+a) Las subvenciones que se estimen convenientes para el fomento y ordenación de las actividades de aprovechamiento de fauna silvestre.
+
+b) La actualización de las multas previstas en esta Ley Foral, así como de los importes por el rescate de armas y medios empleados ilícitamente.
+
+c) La actualización de las tasas y exacciones relativas a licencias de caza y pesca, matrículas de embarcación, permisos de caza y pesca en cotos y examen acreditativo de la capacidad para el ejercicio de la caza.
+
+d) Las subvenciones a las inversiones en cotos de caza.
+
+e) Las partidas destinadas a la adecuación de instalaciones para la caza y la pesca.
+
+##### Disposición adicional primera.
+
+Sin perjuicio de otras competencias, el Gobierno de Navarra, las Entidades Locales y los concesionarios adoptarán las medidas necesarias para asegurar el caudal ecológico suficiente, las cuales serán comunicadas de modo inmediato a la Confederación Hidrográfica correspondiente.
+
+##### Disposición adicional segunda.
+
+En el ejercicio de sus funciones, los Guardias de Medio Ambiente, la Policía Foral y los técnicos del Departamento de Ordenación del Territorio y Medio Ambiente tendrán la consideración de agentes de autoridad, siempre que realicen funciones de inspección y control en cumplimiento de esta Ley Foral y acrediten su condición mediante la correspondiente documentación.
+
+##### Disposición adicional tercera.
+
+Las autorizaciones a que se refiere esta Ley Foral se otorgarán, en su caso, sin perjuicio de las que correspondan a otros organismos o Administraciones en ejercicio de sus propias competencias.
+
+##### Disposición transitoria primera.
+
+El Gobierno de Navarra, en el plazo máximo de seis meses a partir de la entrada en vigor de esta Ley Foral, adecuará la estructura administrativa del Departamento de Ordenación del Territorio y Medio Ambiente, con la dotación de medios técnicos y personales necesarios para desarrollar las previsiones de esta Ley Foral.
+
+##### Disposición transitoria segunda.
+
+Todo poseedor de algún animal vivo o disecado perteneciente a especies protegidas no incluidas en el título III deberá ponerlo en conocimiento del Departamento de Ordenación del Territorio y Medio Ambiente, a efectos de obtener la oportuna autorización administrativa conforme a las prescripciones de esta Ley Foral, en el plazo máximo de un año desde que la misma entre en vigor.
+
+##### Disposición transitoria tercera.
+
+Los cotos de caza deberán adaptarse a lo regulado en esta Ley Foral en el plazo máximo de un año, contado a partir de la entrada en vigor de la misma.
+
+En dicho plazo, los titulares del aprovechamiento de cotos que aún no contaran con un Plan de Ordenación Cinegética, deberán presentarlo ante el Departamento de Ordenación del Territorio y Medio Ambiente.
+
+##### Disposición transitoria cuarta.
+
+1\. La limitación de cazar únicamente en cotos será aplicable a partir del 1 de agosto de 1993.
+
+2\. Hasta esa fecha continuará vigente en Navarra la facultad de cazar en los términos cinegéticos de aprovechamiento común a que se refiere el artículo 9 de la Ley 1/1970, de 4 de abril, de Caza, con las limitaciones generales fijadas en la presente Ley Foral, aplicándose a las infracciones cometidas en estos terrenos los supuestos sancionatorios previstos en dicha Ley de Caza.
+
+##### Disposición transitoria quinta.
+
+El deber a que se refiere el artículo 85.2 de esta Ley Foral, de aprobar un Plan de Ordenación Piscícola para la constitución de cotos de pesca será exigible a partir del segundo año contado a partir de la entrada en vigor de esta Ley Foral.
+
+##### Disposición transitoria sexta.
+
+1\. Los cotos de caza vigentes con anterioridad a la entrada en vigor de esta Ley Foral, seguirán rigiéndose por la normativa aplicable en el momento de su constitución, debiendo acogerse a lo dispuesto en esta Ley Foral antes del 31 de enero de 1994.
+
+2\. El requisito de 2.000 hectáreas para la constitución de cotos se exigirá únicamente a los de nueva creación, pudiendo permanecer los cotos existentes a la entrada en vigor de esta Ley Foral con su superficie actual, que tendrá la condición de mínima, hasta su extinción, sin necesidad de declaración expresa, por el transcurso de diez años desde que se hubieran constituido tales cotos.
+
+2 bis. Los cotos privados de caza existentes a la entrada en vigor de la Ley Foral 2/1993, de 5 de marzo, que tuvieran entre 500 y 2.000 hectáreas podrán continuar como tales y con su aprovechamiento cinegético, mientras cuenten con Plan de Ordenación Cinegética y se adecuen, en el resto de cuestiones, a dicha Ley Foral.
+
+Podrá autorizarse la continuidad únicamente de aprovechamiento cinegético de caza de paloma torcaz, a los cotos privados de menor extensión que las 500 hectáreas, que acrediten la existencia de instalaciones autorizadas para dicha modalidad de caza con anterioridad a la entrada en vigor de la Ley Foral 2/1993 citada.
+
+3\. No obstante lo anterior, todo coto deberá contar con un Plan de Ordenación Cinegética en el plazo máximo de un año a contar desde la entrada en vigor de esta Ley Foral. El transcurso del plazo señalado sin haber presentado ante el Departamento de Ordenación del Territorio y Medio Ambiente el mencionado Plan, determinará la anulación del coto.
+
+> Se añade el apartado 2 bis por el art. 7 de la Ley Foral 8/1994, de 21 de junio. [Ref. BOE-A-1994-19852](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19852).
+
+##### Disposición transitoria séptima.
+
+El examen acreditativo de la aptitud y conocimiento precisos para el ejercicio de la caza se pondrá en práctica a partir del 1 de enero de 1994.
+
+##### Disposición transitoria octava.
+
+Las infracciones y sanciones se regirán, en cuanto a su procedimiento y plazos de prescripción, por la legislación aplicable en el momento en que se cometió la infracción, sin perjuicio de la retroactividad de la disposición más favorable para el infractor.
+
+##### Disposición transitoria novena.
+
+En el plazo de un año, a partir de la entrada en vigor de esta Ley Foral, el Gobierno de Navarra publicará el Catálogo de Especies Amenazadas de Navarra, de conformidad con lo que determina el artículo 17 de la misma.
+
+##### Disposición transitoria décima.
+
+En tanto no se reglamenten los caudales mínimos a que se refiere el artículo 43.1 de la presente Ley Foral serán de aplicación en cualquier tipo de concesión los caudales ecológicos establecidos en la Orden Foral 400/1991, de 23 de mayo.
+
+##### Disposición transitoria undécima.
+
+El Gobierno de Navarra, en el plazo máximo de un año a partir de la entrada en vigor de esta Ley Foral, remitirá al Parlamento de Navarra un Proyecto de Ley Foral de Hábitats Naturales referido a Flora y Ecosistemas Fluviales de Navarra.
+
+##### Disposición transitoria duodécima.
+
+En el plazo de seis meses, a partir de la entrada en vigor de esta Ley Foral, el Gobierno de Navarra adoptará las iniciativas precisas para tramitar la creación de los Parques Naturales de Urbasa-Andía, Bardenas Reales y Pirineo Occidental, que serán configurados no sólo como instrumentos de protección, sino de promoción y desarrollo integral de los espacios afectados.
+
+##### Disposición transitoria decimotercera.
+
+El régimen de protección de las zonas circundantes a que se refiere el artículo 22.5 de esta Ley Foral será de aplicación directa sobre los planes de uso y gestión aprobados con anterioridad que no se acomoden a las determinaciones de esta Ley Foral.
+
+> Se deroga por la disposición derogatoria 1.b) de la Ley Foral 9/1996, de 17 de junio. [Ref. BOE-A-1996-22199](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-22199).
+
+> Se añade por el art. 8 de la Ley Foral 8/1994, de 21 de junio. [Ref. BOE-A-1994-19852](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19852).
+
+##### Disposición derogatoria.
+
+Quedan derogadas o sin aplicación en la Comunidad Foral de Navarra cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley Foral.
+
+##### Disposición final.
+
+Se autoriza al Gobierno de Navarra para dictar cuantas disposiciones reglamentarias sean precisas para el desarrollo y ejecución de esta Ley Foral.
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S. M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+
+Pamplona, 5 de marzo de 1993.
+
+JUAN CRUZ ALLI ARANGUREN,
+
+Presidente del Gobierno de Navarra

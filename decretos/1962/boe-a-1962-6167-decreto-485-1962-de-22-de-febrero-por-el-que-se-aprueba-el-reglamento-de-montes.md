@@ -1,0 +1,1911 @@
+---
+title: "Decreto 485/1962, de 22 de febrero, por el que se aprueba el Reglamento de Montes"
+identifier: "BOE-A-1962-6167"
+eli: "https://www.boe.es/eli/es/d/1962/02/22/485"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura"
+date: 1962-02-22
+published: 1962-03-12
+in_force_from: 1962-04-02
+last_amended: 2010-03-27
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 61"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1962-6167"
+retrieved: 2026-10-11
+---
+
+# Decreto 485/1962, de 22 de febrero, por el que se aprueba el Reglamento de Montes
+
+Incluye las correcciones de errores publicadas en BOE núm. 67, de 19 de marzo de 1962 [Ref. BOE-A-1962-6221](https://www.boe.es/buscar/doc.php?id=BOE-A-1962-6221) y en BOE núm. 121, de 21 de mayo de 1962 [Ref. BOE-A-1962-10530](https://www.boe.es/buscar/doc.php?id=BOE-A-1962-10530).
+
+El mero desarrollo reglamentario de la Ley de Montes, de 8 de junio de 1957, hubiera dejado vigentes centenares de disposiciones dictadas a lo largo de casi un siglo en materia forestal, con lo que resultaría preciso determinar en cada caso cuáles de ellas y en qué medida continuaban en vigor por no contradecir los principios de la nueva Ley.
+
+Frente a ese tradicional sistema se ha optado por refundir la legislación de montes, incluidos los propios preceptos de la Ley nueva, en un único texto legal que facilite la consulta y aplicación del Derecho vigente. No quiere decirse con ello que todos los preceptos en vigor hayan quedado incorporados al presente texto refundido, puesto que, con la intención de reservarle en lo posible de frecuentes modificaciones, se han dejado fuera de él las disposiciones de carácter orgánico y aquellas otras que por responder a un determinado criterio de política económica están sujetas a los cambios de orientación que impone la evolución de la coyuntura.
+
+Queda, por lo dicho, implícito, que la presente disposición es algo más que un simple Reglamento de la Ley de Montes de 8 de junio de 1957, puesto que incorpora a su articulado, además de los preceptos de la propia Ley que desarrolla, otros muchos que resultan necesarios para una regulación completa de la materia.
+
+Se emplea, sin embargo, la denominación de «Reglamento de Montes», en parte, por respeto a una terminología tradicional y, en parte también, porque el nombre de Código Forestal, además de prematuro y excesivamente ambicioso, resultaría inadecuado para una disposición no publicada con rango de Ley. Por otra parte, sólo cuando una experiencia relativamente larga permita seleccionar determinadas normas cuya eficacia intrínseca les haya hecho sobrevivir a la evolución de la legislación administrativa, será factible construir con ellas un Código que regule permanentemente la conservación y el incremento de nuestra riqueza forestal.
+
+Por lo demás, ninguna otra introducción se considera precisa en relación con el articulado del presente Reglamento. La amplia y compleja materia que comprende ha sido agrupada en cuatro libros, que tratan, respectivamente, de la Propiedad Forestal, de los Aprovechamientos e Industrias Forestales, de la Repoblación y Conservación de los Montes y de las Infracciones y su Sanción. Una buena parte de los cuatrocientos noventa artículos contenidos en esta disposición han sido tomados de antiguas disposiciones, cuya necesidad y eficacia están demostradas por una larga experiencia. Otros preceptos son consecuencia obligada de los principios establecidos por la nueva Ley de Montes o tienen por finalidad llenar lagunas apreciadas al refundir una legislación que nunca fue sistemáticamente promulgada. Y, finalmente, existen también preceptos de carácter procedimental, cuya articulación fue expresamente encomendada por la Ley de Montes de ocho de junio de mil novecientos cincuenta y siete a las disposiciones reglamentarias.
+
+En su virtud, a propuesta del Ministro de Agricultura, de acuerdo en lo sustancial con lo informado por el Consejo de Estado, y previa deliberación del Consejo de Ministros, en su reunión del día 9 de febrero de 1962,
+
+DISPONGO:
+
+**Artículo único.**
+
+Queda aprobado el Reglamento de Montes que a continuación se inserta.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a 22 de febrero de 1962.
+
+FRANCISCO FRANCO
+
+El Ministro de Agricultura,
+
+CIRILO CÁNOVAS GARCÍA
+
+## REGLAMENTO DE MONTES
+
+### TÍTULO PRELIMINAR — De la Administración Forestal del Estado
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 1 a 3.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+## LIBRO I — De la propiedad forestal
+
+### TÍTULO I — Concepto y clasificación de los montes
+
+#### CAPÍTULO I — Concepto legal de los montes
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 4 a 7.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO II — Clasificación de los montes por razón de su pertenencia
+
+**Artículo 8.**
+
+**(Derogado)**
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+##### Sección 1.ª Montes públicos
+
+**Artículos 9 a 12.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+###### Epígrafe A. Refundición de dominios
+
+**Artículo 13.**
+
+En los casos de condominio en montes catalogados, cuando el suelo fuere de un particular o de Entidad Pública y el vuelo perteneciere a una de éstas o al Estado, podrán refundirse ambos dominios a favor del dueño del vuelo, indemnizando previamente al del suelo por el procedimiento y reglas que, para la fijación del justo precio, se contienen en la Ley de Expropiación Forzosa. Se exceptúan de este precepto los contenidos y consorcios con el Patrimonio Forestal del Estado.
+
+**Artículo 14.**
+
+1\. Cuando se considere conveniente realizar la refundición de dominios, siendo el vuelo del Estado, se incoará el oportuno expediente en el Servicio Regional o Provincial que corresponda dando vista del mismo al interesado para que en el plazo de treinta días pueda examinarlo y alegar lo que estime pertinente.
+
+2\. La Jefatura remitirá el resultado de lo actuado, con razonado informe y propuesta, a la Dirección General de Montes, Caza y Pesca Fluvial que, después de oír a la Asesoría Jurídica y al Consejo Superior de Montes, someterá el caso a resolución del Ministerio de Agricultura.
+
+**Artículo 15.**
+
+Si el dueño del suelo pretendiera también tener derecho al vuelo, presentará en el Servicio Forestal, dentro del plazo de treinta días, establecido en el artículo anterior, títulos fehacientes probatorios de su derecho. Si el Ministerio, oída la Asesoría Jurídica, desestimase su alegación, podrá obtener la suspensión del expediente de refundición si dentro del término de un mes, contado a partir de la notificación, acredita haber iniciado la reclamación judicial de su pretendido derecho por el procedimiento establecido en los artículos 55 y siguientes de este Reglamento.
+
+**Artículo 16.**
+
+Acordada por el Ministerio de Agricultura la adquisición del suelo y resultas, en su caso, las cuestiones judiciales que se hubieren planteado, se procederá a la tasación de acuerdo con las normas de la Ley de Expropiación Forzosa.
+
+**Artículo 17.**
+
+Cuando el dueño del vuelo fuera una Entidad local o Corporación de Derecho Público, se instruirá por la misma, con análogos trámites, el expediente oportuno, cuya resolución corresponderá a la Entidad o Corporación, o al Ministerio de quien dependa, siendo preceptivo en todo caso, el informe del Departamento de Agricultura.
+
+**Artículo 18.**
+
+Si el dominio útil de un monte corresponde al Estado o a Entidad pública, podrá su dueño ofrecer al del dominio directo el rescate del canon, haciéndose la redención bien por el precio convenido o mediante equitativo aprecio del valor capitalizando su importe al 4 por 100.
+
+###### Epígrafe B. Régimen fiscal de los montes públicos
+
+**Artículo 19.**
+
+1\. Los bienes del Patrimonio Forestal del Estado y los que el Instituto Nacional de Previsión posea como Entidad colaboradora a la obra del Patrimonio Forestal, estarán exentos de contribuciones e impuestos del Estado y de las Entidades locales. Asimismo, quedarán exentos de todo gravamen los terrenos que se dediquen a Coto Escolar de Previsión de carácter predominantemente forestal.
+
+2\. Respecto al régimen fiscal de los montes pertenecientes a Entidades locales, se estará a lo dispuesto en la vigente Ley de Régimen Local.
+
+**Artículo 20.**
+
+**(Derogado)**
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+###### Epígrafe C. Montes del común de vecinos
+
+**Artículos 21 a 22.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+###### Epígrafe D. Montes en mano común de vecinos en Galicia
+
+**Artículo 23.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Decreto 569/1971, de 26 de febrero. [Ref. BOE-A-1970-266](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-266).
+
+> Se deroga, en cuanto se oponga, por la disposición derogatoria de la Ley 52/1968, de 27 de julio. [Ref. BOE-A-1968-904](https://www.boe.es/buscar/doc.php?id=BOE-A-1968-904).
+
+###### Epígrafe E. Montes de utilidad pública
+
+**Artículos 24 y 25.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículo 26.**
+
+El procedimiento para la declaración de utilidad pública se iniciará por el Servicio Forestal correspondiente que, actuando de oficio o a instancia de parte, redactará una Memoria expresiva de las circunstancias que, de acuerdo con lo establecido en el artículo anterior, justifiquen aquella declaración.
+
+**Artículo 27.**
+
+Previa audiencia de la Entidad poseedora del monte, el Servicio Forestal remitirá el expediente a la Dirección General de Montes, Caza y Pesca Fluvial, que formulará la propuesta de resolución que estime procedente.
+
+**Artículo 28.**
+
+La declaración de utilidad pública se hará, en todo caso, por Orden del Ministerio de Agricultura, que podrá ser impugnada ante la Jurisdicción Contencioso-Administrativa, por la Entidad propietaria del monte.
+
+**Artículo 29.**
+
+Firme la orden de declaración de utilidad pública, los montes o terrenos forestales que hubieren sido objeto de ella, serán incorporados al Catálogo de Montes, comunicándose el acuerdo a la Entidad a quien haya de asignarse su pertenencia.
+
+**Artículo 30.**
+
+Cuando la aprobación de un plan derivado de la aplicación de la Ley del Suelo, de 12 de mayo de 1956, afectare a un monte de utilidad pública, será necesario el previo informe del Ministerio de Agricultura.
+
+> Se declara la vigencia por la Tabla de vigencias del Real Decreto 1346/1976, de 9 de abril. [Ref. BOE-A-1976-11506](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-11506).
+
+##### Sección 2.ª Montes protectores
+
+**Artículos 31 a 34.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+##### Sección 3.ª Montes de particulares
+
+**Artículos 35 a 37.**
+
+**(Derogados)**
+
+> Se derogan los arts. 35 y 36 en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037). y el art. 37 por el art. 7 del Decreto 1687/1972, de 15 de junio. [Ref. BOE-A-1972-985](https://www.boe.es/buscar/doc.php?id=BOE-A-1972-985).
+
+### TÍTULO II — Catálogo de Montes
+
+#### CAPÍTULO I — Disposiciones generales
+
+**Artículo 38.**
+
+1\. El Catálogo de Montes es un registro público de carácter administrativo en el que se incluirán todos los montes que hubieran sido declarados de utilidad pública, pertenecientes tanto al Estado como a las Entidades locales y demás Corporaciones o Entidades de derecho público.
+
+2\. El Catálogo deberá ser aprobado por Decreto y sus modificaciones parciales sucesivas mediante Orden ministerial.
+
+**Artículo 39.**
+
+1\. En el Catálogo se reseñarán los montes por provincias y dentro de cada una de éstas se numerarán correlativamente con mención del partido judicial, término municipal, nombre y pertenencia.
+
+2\. También se expresarán en el Catálogo: los límites del monte con la precisión posible; sus cabidas total y de utilidad pública; la especie o especies principales que lo pueblen, y su clasificación como bienes de propios o comunales.
+
+3\. Se consignarán, además, las cargas de todas clases que pesen sobre los predios catalogados (condominios, enclavados, servidumbres, ocupaciones, consorcios y demás derechos). Para cada una de ellas se detallarán, la fecha de su legitimación o concesión si fuera conocida, y la naturaleza jurídica, características, alcance y duración de las mismas.
+
+4\. Si el monte estuviere inscrito en el Registro de la Propiedad se harán constar los datos registrales y, en forma abreviada, la circunstancia de haber sido deslindado, amojonado, ordenado, etcétera.
+
+5\. En el Catálogo deberá reservarse espacio suficiente para que en él se pueda ir anotando el historial o vicisitudes por que atraviese cada predio desde su inclusión.
+
+6\. Si por excepción, un monte declarado de utilidad pública se hallase situado en dos o más términos municipales o provincias, se considerará, en general, a efectos de su designación en el Catálogo, como otros tantos predios distintos, inscribiéndose cada uno de éstos en su correspondiente provincia y término municipal con los límites propios, las cabidas que se deduzcan de sus líneas perimetrales y números que les correspondan, pero manteniendo para todos ellos la misma denominación e idéntica pertenencia.
+
+7\. Toda inscripción en el Catálogo, deberá perfeccionarse a medida que sea posible con la adición de un plano de cada monte en escala y con los requisitos técnicos que señale la Dirección General del Ramo.
+
+#### CAPÍTULO II — Inclusiones
+
+**Artículo 40.**
+
+En el Catálogo deben ser incluidos:
+
+A) Todos los montes que figuren en el actual Catálogo.
+
+B) Los que no estando incluidos en dicho Catálogo hayan sido declarados de utilidad pública con anterioridad a la publicación de este Reglamento.
+
+C) Los que en lo sucesivo sean declarados de utilidad pública en virtud de lo dispuesto en el artículo 21 y los 26 a 29 del mismo.
+
+**Artículo 41.**
+
+Todo monte incluido en el Catálogo a que se refiere el artículo 38 se considerará como de utilidad pública en tanto no se acuerde legalmente su exclusión.
+
+**Artículo 42.**
+
+1\. Las reclamaciones sobre inclusión de montes en el Catálogo, que entablen las Entidades afectadas y no se refieran a cuestiones de propiedad, posesión o cualesquiera otras de índole civil, tendrán carácter administrativo y se ventilarán ante la Jurisdicción Contencioso-Administrativa.
+
+2\. Si la reclamación versare sobre la pertenencia asignada al monte en el Catálogo, o sobre cualquiera otra cuestión de carácter civil, se seguirá el procedimiento establecido en los artículos 43 y 55 al 60 de esta disposición.
+
+#### CAPÍTULO III — Exclusiones
+
+##### Sección 1.ª Pérdida de la utilidad pública
+
+**Artículo 43.**
+
+1\. Para excluir un monte del Catálogo será precisa Orden del Ministerio de Agricultura previo expediente instruido por el Distrito Forestal correspondiente con audiencia o a instancia de la Entidad propietaria, en el que se acredite que el monte no reúne ya las condiciones que fueron determinantes de su inclusión y dictamen del Consejo Superior de Montes.
+
+2\. Para las reclamaciones sobre exclusión de un monte del Catálogo se estará a lo dispuesto en el artículo 42 para las inclusiones.
+
+##### Sección 2.ª Enajenaciones y expropiaciones
+
+**Artículo 44.**
+
+1\. Los montes del Catálogo sólo podrán ser enajenados mediante Ley o en los casos previstos en los artículos 183 y siguientes de este Reglamento o en Leyes especiales.
+
+2\. La propiedad forestal catalogada es inembargable.
+
+3\. Excepcionalmente, servirán de garantía hipotecaria los aprovechamientos de los montes catalogados, en la forma que se cita en el artículo 151 de este Reglamento.
+
+**Artículo 45.**
+
+Los montes del Catálogo sólo podrán ser expropiados para obras y trabajos cuyo interés general prevalezca sobre la utilidad pública del monte afectado.
+
+**Artículo 46.**
+
+Salvo conformidad expresa del Ministerio de Agricultura, la utilidad pública o el interés social del fin a que haya de afectarse el monte expropiado, habrá de ser declarada en cada caso por Ley votada en Cortes, o reconocida por acuerdo del Consejo de Ministros, previo expediente en el que, con audiencia del Ministerio de Agricultura, se sustancie separadamente la existencia del interés preferente a que se refiere el artículo anterior.
+
+**Artículo 47.**
+
+Dicho expediente se iniciará mediante la remisión por el beneficiario de la expropiación al Servicio Forestal correspondiente, de una descripción suficiente del monte catalogado o parte de él cuya expropiación considere necesaria y de una Memoria en la que, haciéndose referencia circunstanciada a los títulos que justifican el derecho a expropiar, se razone la existencia de un interés general que deba prevalecer sobre la utilidad pública del monte cuya expropiación se proyecta.
+
+**Artículo 48.**
+
+El Servicio Forestal, dentro de los diez días siguientes a la presentación del expediente, dará vista del mismo, por término de quince, a la Entidad propietaria del monte, y elevará lo actuado con su informe que emitirá en el término de un mes una vez cumplida la audiencia anterior a la Dirección General de Montes, Caza y Pesca Fluvial, que oído el Consejo Superior de Montes, propondrá al Ministerio lo que proceda.
+
+**Artículo 49.**
+
+1\. Si el criterio del Ministerio de Agricultura fuera favorable a la expropiación, se comunicará así al expropiante para que pueda seguir su curso el expediente por los trámites establecidos en la legislación sobre Expropiación Forzosa. En otro caso, se dará cuenta al Ministerio del que dependa el beneficiario de la expropiación, o los trabajos correspondientes, resolviéndose por el Consejo de Ministros la eventual discrepancia entre ambos Ministerios.
+
+2\. En los expedientes que promuevan los Ministerios del Ejército, Marina y Aire para la declaración de utilidad pública, en expropiaciones que afecten a montes catalogados, se dará audiencia al de Agricultura y se resolverá por el Consejo de Ministros, al mismo tiempo, acerca de la utilidad pública necesaria para la expropiación y de la preferencia de esta utilidad sobre la atribuida al monte por su inclusión en el Catálogo.
+
+##### Sección 3.ª Pleitos sobre propiedad. Reclamaciones previas a la vía judicial civil
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 50 a 63.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+##### Sección 4.ª Prescripción
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículo 64.**
+
+**(Derogado)**
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO IV — Presunciones posesorias
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 65 a 68.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO V — Inscripción en el Registro de la Propiedad
+
+**Artículo 69.**
+
+1\. Todos los montes catalogados se inscribirán obligatoriamente en el Registro de la Propiedad, en favor de la entidad a la que corresponde su dominio, según el Catálogo. De igual modo serán inscritos todos los actos o contratos inscribibles que tengan por objeto un monte catalogado, incluido el deslinde del mismo.
+
+2\. Los Registradores que tuvieran conocimiento de no estar inscrito un monte catalogado en la circunscripción de su Registro o un acto, o contrato inscribible, relativo al mismo reclamarán de la Jefatura del Distrito Forestal la presentación de los documentos precisos para practicar las inscripciones omitidas. Si en el plazo de dos meses no se presentaren en el Registro tales documentos, su titular lo pondrá en conocimiento de la Dirección General de Montes, Caza y Pesca Fluvial para que subsane la falta y proceda a exigir las responsabilidades consiguientes al funcionario negligente.
+
+**Artículo 70.**
+
+1\. Si el monte estuviere inmatriculado a favor de persona distinta de la entidad pública a la que el Catálogo asigne la pertenencia, la inscripción a favor de ésta se practicará mediante cualquiera de los medios de rectificación del Registro establecido en el apartado a) del artículo 40 de la Ley Hipotecaria.
+
+2\. Si no lo estuviere la inmatriculación tendrá lugar por cualquiera de los modos que admite la legislación hipotecaria y, en su caso, mediante la certificación administrativa de dominio a que se refiere el artículo siguiente.
+
+**Artículo 71.**
+
+1\. Las certificaciones administrativas de dominio para inmatricular los montes catalogados se expedirán por los Ingenieros Jefes de los Servicios regionales o provinciales a cuyo cargo se hallen los montes, conforme al artículo 206 de la Ley Hipotecaria y concordantes de su Reglamento. Tales certificaciones se ajustarán a lo dispuesto en el artículo 303 del Reglamento Hipotecario, haciéndose constar, además, las circunstancias siguientes:
+
+Número con que el monte figura en el Catálogo de los de utilidad pública de la provincia.
+
+Si estuviere deslindado, la fecha de la Orden de aprobación del deslinde, y de tratarse de terrenos de ribera, estimada de acuerdo con la Ley de 18 de octubre de 1941, fecha de la Orden aprobatoria de la estimación.
+
+De no hallarse deslindado, expresión de esta circunstancia, y en caso de estar declarado el monte en estado de deslinde, se indicará la fecha de la declaración y autoridad que la dictó.
+
+2\. Las certificaciones se expedirán por triplicado y siempre que ello sea posible se acompañará a las mismas un plano topográfico del monte, debidamente autorizado, para que quede archivado en el Registro.
+
+**Artículo 72.**
+
+1\. En las certificaciones a que se refieren los artículos anteriores se consignarán las descripciones que resulten de los deslindes, inventarios, catálogos y demás documentos que obren en poder de la Administración forestal o Entidades propietarias.
+
+2\. Cuando se trate de montes no deslindados y las descripciones que se posean del Catálogo y sus antecedentes, o de cualquiera otros datos, ofrezcan manifiesta discrepancia con la realidad, se dispondrá y efectuará un reconocimiento previo del terreno para determinar provisionalmente, y sin perjuicio de las rectificaciones a que dé lugar un posterior deslinde, sus actuales linderos y extensión superficial, expresándose en tal caso en las certificaciones que se expidan para la inscripción los límites antiguos y los nuevos resultantes del reconocimiento, con indicación de la fecha en que éste fue practicado por la Administración Forestal.
+
+**Artículo 73.**
+
+Las certificaciones de dominio, una vez puesta en ellas la nota que proceda por la Oficina liquidadora del impuesto de derechos reales competente, se presentarán en el Registro de la Propiedad por un empleado subalterno dependiente del Servicio Forestal o, en su defecto, se remitirán por su Jefatura al representante del Ministerio fiscal o a la Alcaldía para que lleven a cabo dicha presentación.
+
+**Artículo 74.**
+
+Una vez verificada la inscripción y puesta la nota correspondiente al pie de las certificaciones, el Registrador archivará uno de los ejemplares con el plano topográfico del monte, si lo hubiere, y devolverá los otros dos al presentante. La Jefatura del Servicio Forestal conservará uno de ellos y remitirá el restante a la Entidad propietaria del monte.
+
+**Artículo 75.**
+
+1\. Practicada la inscripción en virtud de certificado de dominio, se notificará a todos los que pudieran estar interesados en ella, por medio de edicto autorizado por el Registrador, que comprenderá; las circunstancias esenciales de descripción de la finca, título de adquisición, persona de quien se adquirió y entidad a la que pertenece. El edicto se entregará al representante a fin de que sea fijado por espacio de un mes en el tablón de anuncios del Ayuntamiento donde radica la finca, acreditándose este hecho por certificación o diligencia suscrita por el Secretario del mismo a continuación del edicto. Este se archivará en el Registro después de extendida nota al margen de la inscripción expresiva del cumplimiento de la anterior formalidad.
+
+2\. De no presentarse el edicto en el Registro dentro de los tres meses siguientes a la fecha de la inscripción, ésta será cancelada de oficio y por nota marginal. En caso de impugnación de la inscripción pública se estará a lo dispuesto en el último párrafo del artículo 298 del Reglamento Hipotecario.
+
+**Artículo 76.**
+
+Si la certificación para inmatricular el monte estuviere en contradicción con algún asiento no cancelado o cuya descripción coincida en algunos detalles con la de fincas o derechos ya inscritos, se procederá en la forma que determina el artículo 306 del Reglamento Hipotecario. Si el Ingeniero Jefe del Servicio Forestal decidiera acudir al Juez de Primera Instancia, requerirá el previo informe del Abogado del Estado, al que deberá comunicar, si fuere desfavorable la resolución que recaiga remitiendo los antecedentes oportunos por si hubiera lugar a iniciar las acciones pertinentes.
+
+#### CAPÍTULO VI — Inmatriculación en el Registro de la Propiedad de fincas colindantes o próximas a montes catalogados
+
+**Artículo 77.**
+
+1\. Cuando se trate, de inmatricular en el Registro de la Propiedad, por cualquiera de los medios establecidos en la Ley Hipotecaria, fincas colindantes con montes públicos deberá expresarse detalladamente esta circunstancia en la descripción de las mismas, y si el Registrador apreciase, por examen de los títulos presentados, o del Registro, que el monte con el que linda la finca está catalogado como de utilidad pública, no podrá practicarse la inscripción solicitada de no acompañar a la documentación aportada u obtenerse por el Registrador, certificación de la Jefatura del Servicio Forestal acreditativa de que la finca no esté incluida en el monte del Catálogo relacionado con la pretendida inmatriculación.
+
+2\. Estas certificaciones se expedirán gratuitamente y dentro del plazo de treinta días, a contar de la fecha en que se soliciten. Si los interesados no presentan la expresada, certificación, la pedirá de oficio el Registrador, describiendo la finca de que se trate en la comunicación que al efecto dirija la Jefatura, tal y como aparezca en los títulos presentados, haciendo constar por diligencia en la copia de dicha comunicación que ha de quedar archivada en la oficina, la fecha de su remisión por correo certificado a la Jefatura del Servicio. Pasados treinta días sin que se reciba la certificación solicitada podrá llevarse a cabo la inmatriculación, haciéndose constar tal circunstancia en el asiento que se practique.
+
+3\. Cuando la inmatriculación se refiera a fincas radicantes en términos municipales y pagos donde existan montes propiedad del Estado, el Registrador, en todo caso y mediante oficio, pondrá en conocimiento de la Jefatura del Distrito Forestal correspondiente la inmatriculación practicada, expresando la descripción de la finca al efecto de que la Administración pueda ejercitar los derechos que pudieran corresponderle.
+
+**Artículo 78.**
+
+Los derechos de los Registradores que se devenguen por las inscripciones realizadas en aplicación de lo dispuesto en esta Ley se regularán según un arancel especial que será propuesto al Consejo de Ministros por el de Justicia, previo informe el de Agricultura.
+
+### TÍTULO III — Deslinde de montes catalogados
+
+**Artículo 79.**
+
+1\. Es de la competencia de la Administración Forestal el deslinde de todos los montes públicos catalogados y la resolución, en vía administrativa, de las cuestiones que con él se relacionen.
+
+2\. A petición de las entidades públicas y a sus expensas, la Administración Forestal podrá hacer el deslinde de los montes no catalogados perteneciente a ellas con arreglo a los mismos requisitos y formalidades vigentes para los de utilidad pública.
+
+**Artículo 80.**
+
+1\. El deslinde de los montes catalogados podrá acordarse, de oficio, por la Dirección General de Montes, Caza y Pesca Fluvial o a instancia de las entidades dueñas de los mismos o de los propietarios de fincas colindantes con ellos. En los últimos casos la ejecución del deslinde se solicitará del Servicio Forestal.
+
+2\. Acordado el deslinde, se comunicará al Registro de la Propiedad correspondiente, si el monte estuviere inscrito para que se extienda nota del acuerdo al margen de la inscripción de dominio.
+
+3\. Pagará los gastos que ocasione el deslinde y amojonamiento de los montes catalogados, en la parte que directamente les afecte, el que hubiere tenido la iniciativa de su realización, sin perjuicio de que la Administración forestal, en casos especiales en que así convenga, pueda satisfacerlo con cargo a los Presupuestos generales del Estado.
+
+**Artículo 81.**
+
+En la práctica de los deslindes se otorgará la preferencia:
+
+1.º A los montes en que existan parcelas sobre cuya propiedad penda sentencia judicial, debiendo practicarse el deslinde, limitado a la parte del monte en litigio, tan pronto recaiga la resolución que ultime la vía administrativa.
+
+2.º A los montes en que por sentencia firme se hubiere dispuesto la modificación de un deslinde.
+
+3.º A los montes en que existan parcelas enclavadas o colinden con otros de propiedad particular y, especialmente cuando los linderos figuren en el Catálogo de forma confusa o equívoca.
+
+#### CAPÍTULO I — Expedientes ordinarios de deslinde
+
+##### Sección 1.ª Trámites anteriores al apeo
+
+**Artículo 82.**
+
+A todo deslinde precederá una Memoria, autorizada por el Ingeniero Jefe del Servicio Forestal, en la que habrá de hacerse referencia a los siguientes extremos:
+
+1.º Justificación del deslinde que se propone y, en su caso, preferencia que le afectare conforme a lo dispuesto en el artículo anterior.
+
+2.º Descripción del monte con expresión de sus linderos generales, de sus enclavados, colindancia y extensión perimetral y superficial, y vías pecuarias, si existiesen.
+
+3.º Antecedentes del monte, título de propiedad e informaciones, reconocimientos o actuaciones que acrediten la posesión no disputada en que se hallen el Estado o la Entidad titular según el Catálogo, extractando cuidadosamente los documentos del archivo y los historiales de los aprovechamientos y de las denuncias, con especial mención de todos los incidentes habidos en punto a propiedad, posesión y disfrute.
+
+**Artículo 83.**
+
+Basado en la Memoria, el Ingeniero Jefe del Servicio Forestal formulará un presupuesto de gastos del deslinde, que deberá llevar la conformidad, en su caso, del que haya de sufragarlos, elevando dicho presupuesto, juntamente con la Memoria, a la Dirección General de Montes, Caza y Pesca Fluvial.
+
+**Artículo 84.**
+
+Podrán los Ingenieros Jefes de los Servicios Forestales, por su propia iniciativa o a instancia de la Entidad propietaria, declarar un monte en estado de deslinde cuando aprecien peligro de intrusiones. Esta declaración se publicará en el «Boletín Oficial» de la Provincia correspondiente, procediéndose a continuación y sin demora a incoar el expediente de deslinde mediante la redacción de la Memoria y presupuesto a que se refieren los artículos 82 y 83. La declaración caducará, de no terminarse el deslinde, en el plazo de dos años.
+
+**Artículo 85.**
+
+La declaración de un monte en estado de deslinde faculta a los Servicios Forestales para señalar, de oficio o a instancia de parte interesada, las zonas colindantes, cuyos aprovechamientos forestales deban sujetarse a las prescripciones que se establecen a continuación, con reserva de los derechos que puedan resultar una vez que se resuelva el deslinde.
+
+**Artículo 86.**
+
+1\. En las zonas de defensa, señaladas a tenor de lo dispuesto en el artículo anterior, no podrán realizarse aprovechamientos de cortas, salvo que el Servicio Forestal las considere inaplazables, hasta que se apruebe y se afirme el deslinde que se practique.
+
+2\. El importe de estos disfrutes y de los autorizados en el artículo siguiente, se ingresará en la Caja de Depósitos de la provincia, a disposición del que resultare ser dueño de la zona señalada.
+
+3\. Los demás aprovechamientos podrán tener lugar conforme se expone en el artículo siguiente.
+
+**Artículo 87.**
+
+El Ingeniero o Perito de Montes del Servicio, oyendo al interesado o su representante fijará la especie y cantidad de productos que, no siendo corta de árboles, puedan realizarse sin daño al monte, levantando acta.
+
+**Artículo 88.**
+
+Terminado el aprovechamiento se reconocerá la superficie donde se haya realizado, levantándose acta con las mismas formalidades que en la prevista en el artículo último, y se harán constar en ella, de haberse producido, las extralimitaciones observadas con la tasación del daño causado, cuyo importe ingresará también en la mencionada Caja de Depósitos para su entrega al que resultare legítimo acreedor.
+
+###### Epígrafe A. Amojonamiento provisional de líneas conocidas
+
+**Artículo 89.**
+
+1\. El deslinde administrativo de los montes catalogados podrá desarrollarse en las dos fases o tiempos a que se refieren los artículos siguientes.
+
+2\. Serán notificados, personalmente, los dueños de las fincas colindantes y también, en su caso, los usufructuarios o titulares de hipotecas u otros derechos reales sobre las mismas, cuando sean conocidos sus domicilios. En su defecto podrá extenderse la notificación a los apoderados, administradores, colonos o encargados.
+
+3\. La operación de deslinde se fraccionará o no en las dos fases citadas, según la libre apreciación del Ingeniero Jefe del Servicio Forestal, que podrá también acordar, aun después de iniciada la primera, desistir de ella y continuar el procedimiento por los trámites de la segunda, dando cuenta en ambos casos a la Dirección General de Montes, Caza y Pesca Fluvial de las causas que motiven su decisión.
+
+**Artículo 90.**
+
+1\. Acordada la realización del deslinde de un monte, la Jefatura del Servicio Forestal correspondiente anunciará en el «Boletín Oficial» de la provincia y en el tablón de anuncios del Ayuntamiento, con quince días al menos de antelación, la fecha en que el Ingeniero por ella designado procederá a colocar hitos o mojones provisionales en aquellas partes de los linderos exteriores e interiores sobre las que, atendiendo al actual estado posesorio, se tengan elementos de juicio que permitan su fijación.
+
+2\. En todo caso se recorrerán las líneas de separación con otros montes ya deslindados, y de no estar amojonados, se colocarán hitos sobre ellas.
+
+**Artículo 91.**
+
+Quedarán pendientes y abiertas, en este primer trazado y puesta de mojones, aquellas porciones de líneas perimetrales acerca de cuya correcta situación se ofrecieren dudas fundadas.
+
+**Artículo 92.**
+
+1\. El Ingeniero encargado de marcar y amojonar provisionalmente los aludidos perímetros, lo hará acompañado de una Comisión del Ayuntamiento o Junta Rectora de la Entidad dueña del monte, cuya ausencia no invalidará la eficacia del acto, y de los prácticos que le sean precisos. De tratarse de monte perteneciente al Estado, bastará con que asistan únicamente los prácticos necesarios.
+
+2\. Podrán también asistir a la operación cuantos se crean interesados, y de ella se levantará acta diaria que será firmada por el Ingeniero, los representantes de la entidad titular del monte, si éste no fuera del Estado, los prácticos y los asistentes que formularen alguna protesta que al ser consignada en aquel documento, producirá la entrada en la segunda fase de la parte de la línea protestada. El acta será, asimismo, firmada por los interesados asistentes a la operación que prestaren su aquiescencia al amojonamiento provisional realizado.
+
+###### Epígrafe B. Protestas
+
+**Artículo 93.**
+
+1\. Efectuado el recorrido perimetral, colocados los mojones provisionales y levantado el plano de las líneas amojonadas, se anunciará el término de la operación en el «Boletín Oficial» de la provincia y en el tablón de anuncios del Ayuntamiento, advirtiendo de que en las oficinas del Servicio Forestal y en las de la Corporación se hallan a disposición de los interesados el plano a que acaba de aludirse y las actas a que se refiere el artículo último, y que los que no estuvieren conformes con la línea perimetral determinada por los hitos colocados en el terreno y reflejada en el correspondiente plano, podrán presentar en las oficinas del Servicio Forestal, dentro del plazo de un mes desde la publicación del aviso, la reclamación que convenga a su derecho.
+
+2\. Los interesados o sus representantes cuyo domicilio fuere conocido serán notificados personalmente.
+
+**Artículo 94.**
+
+Transcurrido el mencionado plazo, las líneas provisionales de colindancia, sobre las que no se hubiere formulado ninguna reclamación, adquirirán carácter definitivo a efectos de declaración del estado posesorio y se entrará en la fase siguiente, si hubiere lugar a ello.
+
+**Artículo 95.**
+
+1\. Afectará esta segunda fase a las partes del perímetro, marcadas en la primera, sobre las que se hubieren producido reparos o protestas en tiempo hábil, y a aquellas otras que quedaron pendientes de trazado, todas las cuales serán objeto de la operación de deslinde, que se realizará con los requisitos y formalidades que se consignan en los artículos siguientes.
+
+2\. Por el mismo procedimiento, se deslindará la totalidad del monte cuando a juicio del Ingeniero Jefe del Servicio Forestal no resulte conveniente fraccionar la operación en dos fases o cuando, iniciada la primera, acordare aquél desistir de ella.
+
+###### Epígrafe C. Anuncios, notificaciones y apoderamientos
+
+**Artículo 96.**
+
+Tan pronto como termine la primera fase o se decidiere desistir de ella, según lo dispuesto en el párrafo segundo del artículo 89, se procederá a anunciar mediante edictos, que se insertarán en el «Boletín Oficial» de la provincia y en el tablón de anuncios de los Ayuntamientos en cuyos términos radique el monte, las operaciones de deslinde de la totalidad del mismo o solamente de las líneas que hubieren quedado abiertas y de aquellas en que se produjeron protestas o reclamaciones, anuncios que se publicarán con tres meses de antelación, por lo menos, al día en que haya de comenzar el apeo, entendiéndose que la publicación de los edictos en la forma expresada surtirá los mismos efectos que una notificación personal, sin perjuicio de realizar ésta cuando sea posible, conforme se determina en el artículo 98.
+
+**Artículo 97.**
+
+En los edictos habrá de expresarse:
+
+1.º El día y hora en que tendrá lugar el apeo, así como el punto por donde dará principio, emplazándose a los colindantes y a las personas que acrediten un interés legítimo para que asistan al mencionado acto.
+
+2.º Que los que no asistan personalmente o por medio de representante legal o voluntario a la práctica del apeo no podrán después formular reclamaciones contra el mismo.
+
+3.º Que durante el plazo de cuarenta y cinco días naturales desde la publicación del anuncio los que se conceptúen con derecho a la propiedad del monte o de parte del mismo, y los colindantes que deseen acreditar el que pueda corresponderles, deberán presentar los documentos pertinentes en las oficinas del Servicio Forestal, apercibiéndoseles de que transcurrido dicho plazo no se admitirá ningún otro, y a quienes no lo hubieran presentado que no podrán formular reclamación sobre propiedad en el expediente de deslinde.
+
+**Artículo 98.**
+
+1\. Las operaciones de deslinde serán notificadas a la Entidad propietaria del monte y a los dueños de los de utilidad pública que confinen con el que va a ser deslindado, debiendo ser incluidas en la notificación las prevenciones que enumera el artículo anterior.
+
+2\. Serán también citados personalmente los demás colindantes y dueños de enclavados, o en su defecto los administradores, colonos o encargados, cuyos domicilios conociera la Administración Forestal.
+
+**Artículo 99.**
+
+Las Entidades Locales deberán ser citadas en las personas de sus Presidentes, o Alcaldes, y las demás Corporaciones o Establecimientos públicos, en las de sus Administradores o Encargados. El Estado se entenderá siempre representado en los deslindes por el Ingeniero Jefe del Servicio correspondiente del Patrimonio Forestal del Estado; las Entidades municipales, por el Alcalde o su Delegado, y los particulares, de no asistir personalmente, deberán autorizar debidamente a sus representantes.
+
+###### Epígrafe D. Estudio de documentos por el Abogado del Estado
+
+**Artículo 100.**
+
+Los documentos administrativos y títulos de carácter civil presentados por los interesados o en poder de la administración serán remitidos, una vez transcurrido el plazo de 45 días establecidos para su presentación, el examen, calificación e informe del Abogado del estado de la Provincia, que dentro de los veinte días siguientes calificará la eficacia jurídica de los títulos presentados, al efecto de acreditar el dominio o la posesión de las fincas a que se refiera, y además establecerá una clasificación de los documentos aportados en dos grupos:
+
+A) Aquellos de los que resulte que sus titulares están comprendidos en la protección del artículo 34 de la Ley Hipotecaria, si bien absteniéndose de opinar sobre la concurrencia del requisito de la buena fe, cuya apreciación, al solo efecto de establecer la clasificación de fincas a que se refiere el artículo 102 corresponderá al Ingeniero operador.
+
+B) Aquellos otros titulares que no estén amparados por el artículo 34 de la Ley Hipotecaria.
+
+###### Epígrafe E. Reconocimiento y clasificación de fincas o derechos
+
+**Artículo 101.**
+
+Dentro de los veinticinco días siguientes a la terminación del plazo establecido en el artículo anterior, el Ingeniero operador estudiará sobre el terreno la documentación presentada, con el fin de determinar, al pormenor los linderos generales con que el monte está inscrito en el Catálogo, y de realizar la clasificación de fincas o derechos establecida en el artículo siguiente.
+
+**Artículo 102.**
+
+El Ingeniero operador, visto el informe del Abogado del Estado, procederá a clasificar las fincas o derechos relacionados con el monte de los cuatro grupos siguientes, consignando en cada caso los datos registrales, si constaren:
+
+A) Fincas o derechos amparados en títulos presentados y cuyos titulares realizaron su adquisición con todos los requisitos establecidos en el artículo 34 de la Ley Hipotecaria.
+
+B) Fincas o derechos cuyos títulos fueren presentados y que, aunque la adquisición no se realizara con los requisitos previstos en el citado artículo 34, no obstante, el Ingeniero operador estimen en principio que no pertenecen al monte.
+
+C) Fincas o derechos cuyos títulos han sido presentados y respecto de los que existan indicios suficientes de que pudieran pertenecer total o parcialmente al monte, siempre que si los títulos hubieren sido incluidos en el grupo A) del artículo 100, estime el Ingeniero que pudiera impugnarse judicialmente el requisito de la buena fe.
+
+D) Fincas o derechos cuyos títulos no han sido presentados en el plazo legal y sobre los que se ofrecen los indicios a que se refiere el apartado C) precedente.
+
+###### Epígrafe F: Anotaciones preventivas de deslinde
+
+**Artículo 103.**
+
+1\. Aprobada por el Ingeniero Jefe del Servicio Forestal la clasificación a que se refiere el artículo anterior, acordará que sobre cada una de las fincas o derechos comprendidos en los grupos C y D se practique una anotación preventiva en cuya virtud se hagan constar en el Registro de la Propiedad la existencia del deslinde y que aquéllas pueden resultar afectadas total o parcialmente por la resolución final del expediente.
+
+2\. Se tomará un acuerdo por cada finca o derecho que haya de ser anotado, y se expedirá por duplicado y presentará en el Registro mandamiento disponiendo la práctica de dicha anotación, en el que se expresarán las siguientes circunstancias:
+
+A) Fecha de la resolución que dispuso la ejecución del deslinde del monte de que se trate y autoridad que la dictó.
+
+B) Descripción de la finca o derecho que ha de ser anotado, datos registrales, si constaren, y nombre, apellidos y demás circunstancias de su titular según los documentos presentados o las averiguaciones hechas por el Ingeniero operador.
+
+C) Texto literal del acuerdo disponiendo la práctica de la anotación.
+
+**Artículo 104.**
+
+El Servicio Forestal, antes de la apertura del período de vista establecido en el artículo 120, podrá previo informe del Abogado del Estado, rectificar la clasificación a que se refiere el artículo 102, y en su consecuencia ordenar nuevas anotaciones preventivas o la cancelación de las ya practicadas.
+
+**Artículo 105.**
+
+Los interesados podrán impugnar en cualquier momento, conforme a lo dispuesto en el artículo 122 y siguientes de este Reglamento, el acuerdo de anotación preventiva, que será, no obstante, inmediatamente ejecutivo.
+
+**Artículo 106.**
+
+1\. Los Registradores de la Propiedad están sujetos en la calificación de estos mandamientos a las mismas limitaciones establecidas respecto de los documentos expedidos por la Autoridad judicial.
+
+2\. Si la finca afectada por la anotación no estuviere inscrita, los Registradores, sin necesidad de petición expresa, tomarán anotación de suspensión por el plazo que se establece en el artículo siguiente.
+
+**Artículo 107.**
+
+1\. Las anotaciones preventivas tomadas conforme a los artículos anteriores y que según resulta de lo dispuesto en el número cuarto 4 del artículo 127, deberán quedar subsistentes después del deslinde, caducarán a los cuatro años de la fecha en que quede firme la resolución definitiva de aquél.
+
+2\. Una vez firme el deslinde o transcurrido el plazo de un año establecido en el artículo 131, los perjudicados por las anotaciones preventivas que queden subsistentes podrán reclamar, por conducto el Servicio Forestal, y el Ministerio de Agricultura acordar que se cancelen previo informe de la Asesoría Jurídica. Si la Administración en el plazo de un año no hubiese estimado la reclamación ni obtenido la correspondiente anotación preventiva de demanda, el interesado podrá solicitar del Registrador la cancelación de la anotación de deslinde acompañando el recibo de presentación de la reclamación, en el que deberá, a tal efecto, hacerse constar con el detalle suficiente el objeto de ésta.
+
+##### Sección 2.ª Apeo
+
+###### Epígrafe A. Forma de realizarlo
+
+**Artículo 108.**
+
+El apeo comenzará por el punto de línea perimetral claramente señalado en el anuncio, siguiéndole después de manera que el monte quede a la derecha del que recorra sus linderos, y lo mismo se hará al deslindar los terrenos enclavados.
+
+**Artículo 109.**
+
+Al mismo tiempo que se realiza el apeo, y siguiendo su trazado, se colocarán en cada punto de intersección de líneas que formen ángulos entrantes o salientes piquetes protegidos con grandes montones de piedra en seco o tierra.
+
+###### Epígrafe B. Resolución de cuestiones sobre el terreno
+
+**Artículo 110.**
+
+1\. El Ingeniero encargado del deslinde procurará solventar por avenencia y conciliación de las partes interesadas las diferencias que puedan ser motivo de reclamación posterior, siempre que: se mejoren los límites del monte; sean con ventaja para éste y no se introduzcan modificaciones en la titulación de las fincas afectadas, si bien puede reservarse la aprobación de la conciliación cuando el asunto revista especial importancia a las autoridades encargadas de resolver el deslinde. Si el Ingeniero no consiguiese la avenencia, admitirá las protestas que se hagan, expresando en todo caso su propio criterio sobre el asunto y la opinión de la Entidad titular del monte.
+
+2\. Con estas mismas condiciones podrán concentrarse en una o varias parcelas diversos enclavados en un monte.
+
+###### Epígrafe C. Valor y eficacia de los documentos presentados
+
+**Artículo 111.**
+
+1\. A salvo de los derechos de propiedad y posesión que pudieran corresponder a los respectivos interesados, solamente tendrán valor y eficacia, en el acto del apeo, aquellas pruebas que de modo indudable acrediten la posesión quieta, pacífica e ininterrumpida, a título de dueño, durante más de treinta años de los terrenos pretendidos y los títulos de dominio inscritos en el Registro de la Propiedad relativos a fincas o derechos amparados, según los datos registrales por el artículo 34 de la Ley Hipotecaria. En cualquier otro caso se atribuirá la posesión en las operaciones de deslinde a favor de la Entidad a quien el Catálogo asigne la pertenencia.
+
+2\. Lo establecido en el párrafo anterior respecto de las fincas o derechos amparados por el artículo 34 de la Ley Hipotecaria se entiende en perjuicio de la facultad de la Administración Forestal para ejercitar las acciones judiciales pertinentes. En este supuesto, si se hubiere tomado anotación preventiva y la Administración durante el plazo de su vigencia obtuviere la de la demanda, ésta surtirá efecto respecto de tercero desde la fecha de la anotación de la demanda, el Juez ordenará cancelar la de deslinde.
+
+**Artículo 112.**
+
+En los casos en que los títulos presentados no dieren a conocer claramente la línea límite de la finca, los Ingenieros se atendrán a lo que resultare de la posesión en que estuvieren los colindantes.
+
+**Artículo 113.**
+
+La Administración Forestal reivindicará en el acto del apeo la posesión de todos los terrenos cuya usurpación resulte plenamente comprobada, pudiendo recabar, si fuera preciso el auxilio de la autoridad gubernativa, que le será prestado conforme a lo dispuesto en el artículo 66.
+
+**Artículo 114.**
+
+1\. Si durante la práctica del apeo, se presentaren cuestiones de importancia cuya resolución ofreciese duda respecto del alcance e interpretación que deba darse a los títulos y documentos aportados en relación con la representación material sobre el terreno de la finca a que aquellos se contraigan, el ingeniero podrá dejar en suspenso el deslinde, en la parte que afecte a tales cuestiones, poniéndolo en conocimiento del Ingeniero Jefe del Servicio Forestal, que por conducto del Gobernador Civil de la provincia solicitará, y éste podrá acordar que se persone el Abogado del Estado en el acto del apeo para que se emita su dictamen acerca de la cuestión surgida.
+
+2\. El Abogado del Estado por el desempeño de este servicio especial disfrutará de los emolumentos extraordinarios a que tenga derecho el personal facultativo de Montes, de su categoría, en idénticas circunstancias y cuantía.
+
+###### Epígrafe D. Acta del apeo
+
+**Artículo 115.**
+
+1\. De la operación de apeo se extenderá acta diaria en la que se hará mención detallada de cuanto se hubiera ejecutado, consignándose las protestas en los términos prevenidos por el artículo 110 y expresándose los nombres de los colindantes, si fueren conocidos por los presentes al deslinde, clase de cultivos de sus fincas, así como los límites del monte con cuanto detalle sea necesario para que los linderos queden definidos con la máxima precisión y exactitud y puedan en cualquier momento ser reconocidos con la mera lectura del acta del apeo.
+
+2\. Las líneas que separan el monte de otros ya deslindados se describirán someramente si no lo estuvieren ya en la primera fase, sin admitir discusión alguna sobre ellas y se unirá al acta copia autorizada del deslinde ya aprobado.
+
+**Artículo 116.**
+
+En las actas de apeo se hará relación de los asistentes al mismo con carácter oficial o interesados y serán firmadas diariamente por todos ellos, siendo válido el documento aunque algunos no quieran o no puedan firmar, con tal de que se haga constar la circunstancia por medio de diligencia. El acta se extenderá en papel timbrado, expresándose al final de la diligencia de cada día los números de los pliegos en que se extienda.
+
+###### Epígrafe E: Suspensión del apeo
+
+**Artículo 117.**
+
+1\. Si por cualquier causa justificada hubiera que suspender un deslinde, se hará constar en el acta, por medio de diligencia, el día en que se suspenda expresándose aquél en que haya de reanudarse la operación si puede prefijarse. En caso contrario, y si la suspensión hubiere de durar más de un mes, se anunciará su continuación en el «Boletín Oficial» de la provincia y en el tablón de anuncios del Ayuntamiento, con un mes de anticipación, notificándose, además, personalmente a los interesados o sus representantes de domicilio conocido.
+
+2\. De igual modo se anunciará la suspensión si no pudiere dar comienzo el apeo en el día señalado o dentro de los ocho días siguientes:
+
+###### Epígrafe F. Plan del monte deslindado
+
+**Artículo 118.**
+
+1\. Al acta de apeo se unirá un plano del monte deslindado suscrito por el Ingeniero y a escala adecuada para que la hoja sea cómodamente manejable sin perjuicio de representar independientemente y en todo caso las partes o parcelas sobre las que hubiere habido reclamación o protesta y los detalles que por la escala adoptada no se vean con claridad. En este plano figurarán los puntos donde se colocaron los mojones, el número de orden de cada uno de ellos, los accidentes topográficos, como arroyos, caminos, etc., si es posible, los nombres de los propietarios de las fincas colindantes y la clase de cultivo de éstas las dos líneas de orientación geográfica y magnética, la cabida del monte cuando el deslinde sea total, la de cada uno de los enclavados, la escala del plano y el cuadro de signos convencionales. Acompañará al plano el registro topográfico lo más completo posible.
+
+2\. Cuando exista primera fase, el plano confeccionado en ella de las líneas que adquirieron carácter definitivo, se completará con el que se levante en la segunda fase de las que en la anterior quedaron abiertas y de aquellas en que se hubieren producido reclamaciones.
+
+##### Sección 3.ª Trámites posteriores al apeo
+
+###### Epígrafe A. Informe del Ingeniero operador
+
+**Artículo 119.**
+
+El Ingeniero encargado del deslinde entregará el expediente con todos los datos dentro del plazo de cuatro meses desde la terminación del apeo, al Ingeniero Jefe del Servicio Forestal correspondiente, acompañando un informe en el que se reseñarán los documentos presentados, se expresarán las razones que haya tenido para admitir o negar las pretensiones de los interesados y todo lo conducente para formar un juicio exacto de cuanto se hubiese practicado.
+
+###### Epígrafe B. Vista del expediente
+
+**Artículo 120.**
+
+1\. Tan pronto como los Ingenieros Jefes reciban el expediente de deslinde anunciarán en el «Boletín Oficial» de la provincia que se abre vista de él por quince días hábiles admitiéndose durante otros quince días las reclamaciones que se presenten sobre la práctica del apeo o sobre la propiedad de parcelas que hubieren sido atribuidas al monte al realizar aquella operación.
+
+2\. Los dueños o sus representantes cuyo domicilio fuese conocido serán notificados, además personalmente.
+
+**Artículo 121.**
+
+En los anuncios se advertirá que sólo podrán reclamar contra la pérdida del apeo los que hayan asistido personalmente o por medio de presentantes a dicho acto. También se advertirá que las reclamaciones sobre propiedad sólo serán admisibles de haberse presentado los documentos correspondientes en el plazo señalado en el artículo 97 y si se expresa el propósito de apurar mediante ellas la vía administrativa como trámite previo a la judicial civil; si así no se expresare, cabrá subsanar la omisión a requerimiento del Servicio Forestal.
+
+###### Epígrafe C. Reclamaciones
+
+**Artículo 122.**
+
+Todas las reclamaciones o protestas basadas en títulos o documentos de carácter civil o administrativo que se formulen por los interesados como consecuencia del período de vista serán preceptivamente informadas por el Abogado del Estado de la provincia dentro del plazo de quince días, a cuyo efecto se le remitirán dichas reclamaciones tan pronto como hayan sido presentadas.
+
+**Artículo 123.**
+
+Los que no hubieren presentado los documentos justificantes de su derecho dentro del plazo de los cuarenta y cinco días siguientes a las publicaciones a que se refiere el artículo 97, no podrán presentarlos en el expediente de deslinde ni formular, por lo tanto, dentro del mismo reclamación sobre propiedad, sin perjuicio de su derecho a seguir el procedimiento establecido en los artículos 128 y 129 de este Reglamento una vez que sea firme la Orden ministerial aprobatoria del deslinde.
+
+**Artículo 124.**
+
+Las reclamaciones sobre propiedad con los documentos correspondientes o sus copias cotejadas y el dictamen del Abogado del Estado, serán remitidas por término de quince días a la Entidad titular del monte, si éste no fuera del Estado, a fin de que dentro de dicho plazo emita su informe manifestando concretamente si accede o no a las pretensiones deducidas, que en este último caso, o si el informe no se emitiere dentro del plazo, se entenderán denegadas en vía administrativa, quedando expedita la judicial conforme a lo dispuesto en el artículo 129 de este Reglamento.
+
+##### Sección 4.ª Resoluciones del expediente
+
+###### Epígrafe A. Informes y propuestas
+
+**Artículo 125.**
+
+El Ingeniero Jefe del Servicio Forestal, en el término de los treinta días siguientes a la terminación del plazo establecido en el artículo 124, elevará el expediente acompañado de su informe sobre el deslinde y las reclamaciones no desestimadas, con propuesta de resolución a la Dirección General de Montes, Caza y Pesca Fluvial que, si se hubieran formulado reclamaciones sobre cuestiones de propiedad que no deban entenderse desechadas conforme a lo dispuesto en el artículo 124, remitirá el citado expediente, antes del quinto día de haberlo recibido, a la Dirección General de lo Contencioso del Estado, que informará en el plazo de un mes.
+
+###### Epígrafe B. Orden ministerial resolutoria del deslinde
+
+**Artículo 126.**
+
+Dentro del plazo de un mes, desde que el expediente hubiera sido devuelto por la Dirección General de lo Contencioso, desde que se hubiera recibido en la de Montes, Caza y Pesca Fluvial, de no haber sido preciso enviarlo al citado Centro Consultivo, el Ministerio de Agricultura resolverá el expediente de deslinde y las reclamaciones presentadas por Orden ministerial motivada, que se publicará en el «Boletín Oficial» de la provincia.
+
+**Artículo 127.**
+
+La Orden ministerial resolutoria del deslinde, contendrá necesariamente los siguientes extremos:
+
+1.º Descripción del monte con expresión de la Entidad titular, del número que le asigne el Catálogo de los linderos interiores y exteriores establecidos en el expediente y de su situación cabida, denominación y demás circunstancias que se consideren de interés.
+
+2.º Relación descriptiva, con expresión de sus datos registrales si constaren, de las fincas o parcelas que han quedado atribuidas al monte como consecuencia del deslinde, y acuerdo de gestionar la cancelación total o parcial de las inscripciones registrales de dichas fincas o parcelas y de cualesquiera otros en cuanto resultaren contradictorias con la descripción del monte.
+
+3.º Relación de enclavados, reconocidos como pertenecientes a particulares.
+
+4.º Acuerdo de cancelación de todas las anotaciones preventivas de deslinde, salvo las relativas a fincas o derechos amparados, según los datos del Registro, por el artículo 34 de la Ley Hipotecaria.
+
+5.º Resolución de reclamaciones sobre propiedad con la declaración expresa de que queda agotada la vía administrativa y expedita la judicial civil.
+
+**Artículo 128.**
+
+La Orden ministerial resolutoria del deslinde pone término a la vía administrativa. Las personas que hubieren intervenido como partes en el expediente del mismo, y resultaren afectadas por la disposición que lo resuelva, podrán impugnar ésta ante la Jurisdicción Contencioso-Administrativa si plantearan cuestiones de tramitación o de carácter administrativo; pero no podrá suscitarse en dicha Jurisdicción ninguna relativa al dominio o a la posesión del monte o cualquiera otra de naturaleza civil.
+
+**Artículo 129.**
+
+Con la publicación de la Orden ministerial resolutoria del deslinde quedará expedita la acción ante los Tribunales ordinarios, sin que sea preciso apurar previamente la vía administrativa, a las Entidades públicas y los particulares que hubieran suscitado en forma, dentro del expediente de deslinde, cuestiones relacionadas con el dominio del monte, o cualesquiera otras de índole civil.
+
+**Artículo 130.**
+
+Los que no hubieran presentado la demanda dentro de los dos meses desde la publicación de la Orden resolutoria del deslinde, o de cuatro desde la terminación del plazo de un año, establecida en el artículo siguiente, si insisten en sus pretensiones, habrán de entablar nueva reclamación en vía administrativa, como trámite previo a la judicial, por el procedimiento establecido en los artículos 50 y siguientes.
+
+**Artículo 131.**
+
+Transcurrido el plazo de un año desde la apertura del período de vista, sin que hubiere recaído resolución en el expediente de deslinde, quedará expedita la vía judicial para los que hubieren entablado en forma dentro del dicho expediente, reclamación sobre propiedad o cuestiones de carácter civil que hayan de ventilarse ante los Tribunales de la Jurisdicción ordinaria.
+
+**Artículo 132.**
+
+El deslinde aprobado y firme declara, con carácter definitivo, el estado posesorio, a reserva de lo que resulte del juicio ordinario declarativo de propiedad.
+
+**Artículo 133.**
+
+Una vez que sea firme la Orden ministerial resolutoria del deslinde, el Jefe del Servicio Forestal, haciendo constar la fecha en que adquirió tal carácter, expedirá por duplicado certificación literal de los extremos primero, segundo y cuarto consignados en el artículo 127, y la remitirá juntamente, con una copia autorizada del plano topográfico, al Registrador de la Propiedad, que extenderá los siguientes asientos:
+
+1.º Inmatriculación del monte o inscripción del deslinde.
+
+2.º Las cancelaciones totales o parciales que se deriven de lo dispuesto en el apartado segundo del artículo 127.
+
+En ambos casos quedarán a salvo los asientos relativos a derechos adquiridos por terceros, que según los datos registrales, están protegidos por el artículo 34 de la Ley Hipotecaria.
+
+3.º Cancelación de todas las anotaciones a que se refiere el número cuarto del artículo 127, sin perjuicio de que pueda hacerlo de oficio con las que hubieran debido ser incluidas en la Orden ministerial resolutoria del deslinde conforme a dicho precepto.
+
+**Artículo 134.**
+
+La Orden ministerial resolutoria del deslinde podrá ser aclarada por el propio Ministerio, de oficio o a instancia de parte, en los términos necesarios, para su mejor ejecución, y siempre que se trate de rectificar errores u omisiones materiales o de hechos, sin alterar ni modificar derechos de terceros.
+
+#### CAPÍTULO II — Casos especiales de deslinde
+
+##### Sección 1.ª Deslindes parciales
+
+**Artículo 135.**
+
+Sólo podrán efectuarse deslindes parciales de los montes catalogados en virtud de sentencia judicial, o cuando las circunstancias lo aconsejen previa autorización de la Dirección General de Montes, Caza y Pesca Fluvial, que se realizarán de acuerdo con lo dispuesto en los artículos 95 y siguientes.
+
+##### Sección 2.ª Concentración parcelaria
+
+**Artículo 136.**
+
+Cuando se acuerde legalmente la concentración parcelaria de una zona donde existan montes públicos catalogados, la Administración Forestal, tan pronto como sea notificada del acuerdo, delimitará con urgencia la superficie que pudiera pertenecer a los mismos, sin que esta delimitación prejuzgue los derechos que resulten del deslinde definitivo, ni produzca otro efecto, respecto a la extensión demarcada, que el de excluirla de la mencionada concentración.
+
+**Artículo 137.**
+
+1\. Para dar cumplimiento a lo dispuesto en el artículo anterior, y realizadas ya las publicaciones que la Ley de Concentración Parcelaria establece, un Ingeniero de este Servicio y otro del Distrito Forestal procederán a determinar sobre el terreno la superficie que pudiera pertencer al monte, valiéndose de los datos existentes en el aludido Distrito. De la operación se levantará acta, por duplicado, en la que se describirá brevemente, la línea perimetral adoptada, que se referirá a un plano, en el que quedará trazada, de los utilizados por el citado Organismo de agrupación parcelaria.
+
+2\. Tanto las actas como los planos, irán autorizados con las firmas de los dos Ingenieros que intervinieron en la delimitación.
+
+### TÍTULO IV
+
+#### Amojonamiento
+
+**Artículo 138.**
+
+Dictada la Orden aprobatoria del deslinde de un monte público, el mismo Ingeniero que lo realizó, a ser posible, formulará inmediatamente el proyecto correspondiente de amojonamiento definitivo.
+
+**Artículo 139.**
+
+Se compondrá éste de Memoria, presupuesto, plano y pliegos de condiciones, y en él se fijará el plazo máximo para su total ejecución, de acuerdo con la conservación de las señales provisionales colocadas en el deslinde.
+
+**Artículo 140.**
+
+1\. En el plano se representará la situación, clase y numeración correlativa de los hitos, que serán de primero y segundo orden, y cuyas características se fijarán por la Dirección General de Montes Caza y Pesca Fluvial.
+
+2\. La numeración de los hitos empezará y continuará como en el deslinde.
+
+**Artículo 141.**
+
+Los mojones de primer orden se reservarán para los puntos extremos de toda parte de la línea perimetral que separe términos jurisdiccionales entre sí, o bien monte público de otro que no lo sea, y para cualquier vértice cuya excepcional importancia lo haga conveniente a juicio del Ingeniero.
+
+**Artículo 142.**
+
+No se prescindirá de hitos de segundo orden en los casos en que haya cambio sensible de dirección, en cada punto de comienzo y fin de colindancia, en los exigidos por la visualidad de un vértice cualquiera desde el anterior y siguiente, y en el inicio y término de líneas naturales, límites del monte.
+
+**Artículo 143.**
+
+1\. Sin perjuicio de poner señales podrá omitirse la colocación de mojones en aquellos vértices en que se colocaron piquetes durante el deslinde siempre que estén situados sobre lindes naturales, como ríos, arroyos, acantilados, costas, etc., indudable y permanentemente definibles como límites del monte con sólo su descripción en las actas de apeo y posteriormente, en las de amojonamiento.
+
+2\. También se podrá omitir la colocación de hitos en aquellos vértices entre los que medie corta distancia y hubieran sido necesarios en el deslinde por razones de visibilidad, escaso alcance de visuales por causa de pendiente, o por representar con mayor precisión ligeras inflexiones de los perímetros, y más bien exigidos por las operaciones topográficas que por necesidades del apeo.
+
+**Artículo 144.**
+
+En todos los casos en que la naturaleza del terreno haga imposible la colocación de hitos, se suscitarán por las señales posibles, bien marcando el vértice sobre roca viva o por cualquier arbitrio apropiado, cuidando siempre de que aquél pueda descubrirse fácilmente, en todo tiempo, por medio de otros de referencia o de señales permanentes dispuestas al efecto.
+
+**Artículo 145.**
+
+La operación definitiva de amojonamiento se anunciará, por el Ingeniero Jefe, en el «Boletín Oficial» de la provincia, con un mes de antelación, con expresión del Ingeniero que ha de dirigirla, que será el mismo que realizó el deslinde, si ello fuera posible. En el anuncio se hará constar que las reclamaciones sólo podrán versar sobre la práctica del amojonamiento, sin que en modo alguno puedan referirse al deslinde.
+
+**Artículo 146.**
+
+Del amojonamiento se levantará acta en papel timbrado correspondiente, suscrita por el Ingeniero, interesados y personal con representación oficial, asistentes al mismo.
+
+**Artículo 147.**
+
+Terminada la operación de amojonamiento, el Ingeniero Jefe anunciará en el «Boletín Oficial» de la provincia, el trámite de puesta de manifiesto del expediente a los interesados, dando un plazo de diez a treinta días para que puedan presentar, ante la Jefatura del Servicio Forestal, las reclamaciones que estimen pertinentes.
+
+**Artículo 148.**
+
+1\. El Ingeniero Jefe remitirá el expediente, incluyendo las reclamaciones presentadas, con su informe y propuesta a la Dirección General de Montes, Caza y Pesca Fluvial, quien lo someterá a la Resolución del Ministro.
+
+2\. De la resolución ministerial aprobatoria del amojonamiento se enviará certificación por duplicado al Registro de la Propiedad, para hacerla constar por nota al margen de la inscripción o anotación correspondiente.
+
+### TÍTULO V — Gravámenes y ocupaciones de montes catalogados
+
+#### CAPÍTULO I — Gravámenes
+
+##### Sección 1.ª Servidumbres, hipotecas y otros derechos reales
+
+**Artículo 149.**
+
+En el Catálogo de Montes de Utilidad Pública se reflejarán las servidumbres y demás derechos reales que graven los inscritos y registrados en el mismo, con determinación de su contenido, extensión y beneficiarios, origen y título, en virtud del cual fueron establecidos.
+
+**Artículo 150.**
+
+Las Jefaturas de los Servicios Forestales determinarán, a efectos de lo dispuesto en el artículo anterior, y previo informe de la Abogacía del Estado de la provincia, la condición jurídica de las servidumbres y demás derechos reales actualmente existentes, procediendo a incoar el expediente para su inscripción en el Catálogo, de oficio o a instancia de parte previa la conformidad de la Entidad titular del monte.
+
+**Artículo 151.**
+
+Por excepción, podrá constituirse garantía hipotecaria sobre los aprovechamientos de los montes catalogados, y la ejecución sólo podrá dirigirse contra la renta o aprovechamiento del monte gravado.
+
+**Artículos 152 a 154.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+##### Sección 2.ª Expedientes sobre legitimación de gravámenes
+
+**Artículo 155.**
+
+1\. Si de los antecedentes de que disponga la Administración no resultara debidamente justificada la existencia o legitimidad de alguna servidumbre o derecho real, el Servicio Forestal dispondrá la inserción de un aviso en el «Boletín Oficial» de la provincia y en el tablón de anuncios del Ayuntamiento correspondiente, advirtiendo la apertura de expediente sobre existencia o legitimidad de la servidumbre o derecho real de que se trate, y haciendo saber a cuantos tengan interés en el asunto que, durante los treinta días siguientes a la publicación del aviso en el citado «Boletín» podrán formular las alegaciones y aportar las pruebas que estimen convenientes para la defensa de su derecho. Igualmente se procederá a requerimiento justificado de la Entidad propietaria del monte.
+
+2\. Los interesados o sus representantes, cuyo domicilio fuese conocido, serán notificados, además, personalmente.
+
+**Artículo 156.**
+
+La Jefatura del Servicio Forestal, previo informe de la Abogacía del Estado de la provincia, y con audiencia de la Entidad propietaria del monte elevará propuesta al Ministerio de Agricultura por conducto de la Dirección General de Montes, Caza y Pesca Fluvial sobre la existencia o legitimidad de la servidumbre o derecho real. La Resolución que recaiga se publicará en el «Boletín Oficial» de la provincia, y se notificará a los interesados que hubieran comparecido legalmente en el expediente y expresado un domicilio para recibir notificaciones.
+
+**Artículo 157.**
+
+Las Entidades o particulares que se consideren lesionados en sus derechos, podrán impugnar la Resolución adoptada ante los Tribunales ordinarios en el juicio declarativo que corresponda, agotando la vía administrativa, como trámite previo a la judicial, por el procedimiento establecido en los artículos 50 y siguientes.
+
+**Artículo 158.**
+
+Si la servidumbre o derechos reales estuvieren inscritos en el Registro de la Propiedad, los asientos correspondientes sólo podrán cancelarse si mediare el consentimiento de los titulares de tales derechos o hubiere recaído Resolución judicial firme.
+
+##### Sección 3.ª Extinción de servidumbres por incompatibilidad
+
+**Artículo 159.**
+
+Con respecto a los montes públicos catalogados, el Ministro de Agricultura podrá declarar la extinción o la suspensión temporal de cualquier servidumbre establecida sobre ellos, aunque estén debidamente legalizadas e inscritas, cuando se estime que aun reguladas de un modo o forma distinta, son incompatibles con las condiciones esenciales del monte gravado o con el fin de utilidad pública a que estuviere afecto.
+
+**Artículo 160.**
+
+Los Ingenieros Jefes de los Servicios Forestales, por su propia iniciativa o a instancia de la Entidad titular del monte, ordenarán, cuando concurran las circunstancias expresadas en el artículo anterior, la instrucción de expediente, en el que se redactará una Memoria descriptiva de la servidumbre, de cuya extinción o suspensión se trata, con mención del nombre y circunstancia del titular de la misma y de los datos, si fueran conocidos, relativos a la inclusión de ésta en el Catálogo, así como el título de constitución, reseñándose detenidamente las causas que demuestren la incompatibilidad, objeto del expediente.
+
+**Artículo 161.**
+
+La persona que aparezca como titular de la servidumbre en el Registro de la Propiedad o en el Catálogo de Montes, y en su defecto, la que lo fuere notoriamente, será notificada de la existencia del expediente e instruida de su derecho de alegar y probar cuanto le convenga, dentro de los treinta días siguientes a la notificación, debiendo unirse al expediente el informe facultativo del Perito que podrá nombrar el interesado.
+
+**Artículo 162.**
+
+Ultimado el expediente, el Ingeniero Jefe del Servicio Forestal lo elevará, con su informe, a la Dirección General de Montes, Caza y Pesca Fluvial que formulará la oportuna propuesta de Resolución, y lo pasará sucesivamente a dictamen de la Asesoría Jurídica del Ministerio y del Consejo Superior de Montes.
+
+**Artículo 163.**
+
+El Ministerio de Agricultura dictará la Resolución que proceda en orden a la incompatibilidad y consiguiente extinción o suspensión de la servidumbre, objeto del expediente, así como sobre el derecho a indemnización de la persona perjudicada por la extinción o suspensión. Si el titular de la servidumbre fuera una comunidad vecinal, el acuerdo habrá de adoptarse por el Consejo de Ministros.
+
+**Artículo 164.**
+
+Para que haya lugar a la indemnización es necesario que la servidumbre extinguida, o en suspenso, se funde en algún título legítimo. En los demás casos, sólo teniendo presente circunstancias de equidad libremente apreciadas por el Gobierno podrá concederse la indemnización.
+
+**Artículo 165.**
+
+Firme la declaración de incompatibilidad se considerará extinguida o en suspenso la servidumbre que hubiera sido objeto de aquélla, y se iniciarán, si hubiere lugar, las actuaciones para indemnizar, por cuenta del dueño del monte, al titular de la servidumbre extinguida o en suspenso.
+
+**Artículo 166.**
+
+La Jefatura del Servicio Forestal realizará un estudio razonado sobre el valor de la servidumbre extinguida o en suspenso, y determinarán la cuantía de la indemnización que a su juicio procede abonar en cada caso, dando vista de lo actuado a los interesados, por el plazo de treinta días, para que presenten por escrito su propia valoración o acepten la de la Jefatura del Servicio Forestal.
+
+**Artículo 167.**
+
+Si no hubiera conformidad entre las partes interesadas, se seguirá el procedimiento y las reglas que para la fijación del justo precio se contienen en la Ley de Expropiación Forzosa.
+
+#### CAPÍTULO II — Ocupaciones
+
+##### Sección 1.ª Ocupaciones en interés particular
+
+**Artículo 168.**
+
+Con carácter excepcional, el Ministerio de Agricultura podrá autorizar ocupaciones temporales en los montes públicos catalogados o el establecimiento en ellos de servidumbres de cualquier clase o naturaleza.
+
+**Artículo 169.**
+
+1\. Las autorizaciones se concederán previo expediente en el que se acredite la compatibilidad de la ocupación o servidumbre con el fin y la utilidad pública que califica al monte a cuyo efecto se redactará la oportuna memoria por el Ingeniero Jefe del Servicio Forestal correspondiente.
+
+2\. En esta memoria se determinará la extensión puramente indispensable a que se ha de contraer la ocupación o servidumbre, sin sustitución conveniente fuera del monte; se especificarán los conceptos de daños y perjuicios que han de producirse y que valorados justificarán el precio de la ocupación o servidumbre, y se propondrán las condiciones en que han de otorgarse, acompañando plano debidamente autorizado de la parte del monte afectada. En ningún caso será suficiente la conformidad del dueño del predio para tener por acreditada la compatibilidad.
+
+**Artículo 170.**
+
+El Servicio Forestal dará, sucesivamente, audiencia en el expediente, por término de quince días, a los eventuales beneficiarios de la ocupación o servidumbre y a la entidad titular del monte, de no pertenecer éste al Estado, elevando seguidamente las actuaciones con su informe a la Dirección General de Montes, Caza y Pesca Fluvial.
+
+**Artículo 171.**
+
+Cuando se trate de montes del Estado, las autorizaciones a que se refiere el artículo 169 se concederán o denegarán discrecionalmente, expresando la duración de la ocupación o servidumbre, por orden del Ministerio de Agricultura, a cuyo efecto la Dirección General de Montes, Caza y Pesca Fluvial, una vez que formule la correspondiente propuesta de resolución ministerial, remitirá, sucesivamente el expediente a informe de la Asesoría Jurídica del Ministerio y del Consejo Superior de Montes.
+
+**Artículo 172.**
+
+Las autorizaciones que afectan a montes pertenecientes a Entidades locales y Establecimientos públicos se concederán o denegarán, previos los informes que estime convenientes, por la Dirección General de Montes, Caza y Pesca Fluvial, haciendo constar el tiempo que haya de durar la ocupación o servidumbre.
+
+**Artículo 173.**
+
+El consentimiento de la Entidad titular es necesario para autorizar ocupaciones o servidumbres en los montes. Cuando el dueño se opusiere, el Servicio Forestal correspondiente, sin más trámites, dará por concluso el expediente, comunicando a los interesados no haber lugar a lo solicitado
+
+**Artículo 174.**
+
+1\. En la Orden Ministerial o en la Resolución de la Dirección General de Montes, Caza y Pesca Fluvial en su caso, que autorice una ocupación o servidumbre que no exceda de treinta años, se fijará la cuantía del canon anual que habrá de pagar el beneficiario al dueño del monte.
+
+2\. Dicho canon será revisable cada cinco años por Orden del Ministerio de Agricultura o Resolución de la citada Dirección General, respectivamente, a instancia de cualquiera de las partes interesadas, oyendo a todas ellas y previo informe del Servicio Forestal.
+
+**Artículo 175.**
+
+Si la ocupación o servidumbre hubiera de durar más de treinta años o por tiempo indefinido, será preciso abonar el concepto de indemnización, por una sola vez, la que correspondiere como justo precio en el supuesto de expropiación, sin que el titular del monte quede obligado a la devolución de cantidad alguna en caso de extinguirse la ocupación por voluntad del ocupante, rescisión por incumplimiento de las condiciones de la concesión o transcurso del plazo por el que fue concedida.
+
+**Artículo 176.**
+
+En defecto de acuerdo entre las partes sobre la cuantía de la indemnización, ésta se fijará por el procedimiento y las reglas que para la fijación del justo precio establece la Ley de Expropiación Forzosa.
+
+**Artículo 177.**
+
+1\. Cuando concurran circunstancias excepcionales de urgencia que deberán precisarse y justificarse en la petición, los Ingenieros Jefes de los Servicios Forestales, fijando a título provisorio la indemnización o canon que ha de abonarse previamente, podrán autorizar de modo provisional y con el consentimiento de la Entidad titular del monte, la ocupación de terrenos o el establecimiento de servidumbre en los montes catalogados, sin que pueda realizarse corta de arbolado, salvo casos excepcionales en que la necesidad de su inmediata ejecución se demuestre claramente, y aceptación previa por el solicitante de las condiciones técnicas y económicas que se fijen cuando se acuerde, definitivamente, la ocupación.
+
+2\. Estas autorizaciones provisionales quedarán automáticamente rescindidas sin derecho alguno por parte del beneficiario si en el plazo de un año el Ministerio de Agricultura no hubiere concedido la autorización definitiva, previa la tramitación establecida en los artículos 169 a 176.
+
+##### Sección 2.ª Ocupaciones por razón de interés público
+
+**Artículo 178.**
+
+Los expedientes de ocupación o servidumbre puede instruirse también por razón de obras o servicios públicos y como consecuencia de concesiones administrativas de aguas, minas o de cualquier otra clase.
+
+**Artículo 179.**
+
+1\. Siempre que del proyecto de una obra o servicio del Estado, provincia o municipio, o como consecuencia de la solicitud de una concesión administrativa de aguas, minas o de cualquier otra clase, resulte la necesidad de ocupar temporalmente terreno de un monte catalogado, o de imponerle una servidumbre aunque sea legal, se dará comunicación con informe, por el Organismo que incoe el expediente, de la correspondiente parte del proyecto al Ingeniero Jefe del Servicio Forestal, el cual elevará el asunto con su informe, dentro del plazo de un mes, a la Dirección General de Montes, Caza y Pesca Fluvial.
+
+2\. Cuando por tratarse de montes comprendidos en el artículo 172 correspondiere la resolución a la Dirección General de Montes, Caza y Pesca Fluvial y se produjese disconformidad con el Departamento de que dependa la obra o servicio, pasará el expediente a conocimiento del Ministerio de Agricultura y de mantenerse la disconformidad entre los Ministerios, así como también cuando la Entidad dueña del monte se opusiere a la ocupación o servidumbre pretendida, resolverá el Consejo de Ministros.
+
+3\. Igualmente corresponderá la resolución al Consejo de Ministros cuando en los montes del Estado surgiere discrepancia sobre el Ministerio interesado y el de Agricultura.
+
+4\. La autorización sólo tendrá vigencia mientras se cumpla la finalidad de la obra, servicio o concesión a cuyo favor se hubiere otorgado.
+
+**Artículo 180.**
+
+Cuando se trate de establecer servidumbres o autorizar ocupaciones en montes catalogados, motivadas por finalidades relacionadas con la defensa nacional, la tramitación de los expedientes será la siguiente:
+
+El Ministerio del Ejército, o el de Marina o Aire en su caso, solicitará del de Agricultura, en escrito justificativo, la servidumbre u ocupación pretendida, y este Ministerio resolverá sobre la petición, oyendo en plazo de diez días a la Entidad propietaria, de no pertenecer el monte al Estado.
+
+De existir disconformidad entre el Ministerio interesado y el de Agricultura, así como cuando se muestre oposición por la Entidad dueña del monte, corresponderá al Consejero de Ministros la resolución del expediente.
+
+**Artículo 181.**
+
+Toda autorización para ocupar terrenos o establecer servidumbre, derivadas de concesión administrativa, se entenderá siempre condicionada al otorgamiento de ésta, sin que hasta ese momento se pueda usar de la autorización concedida.
+
+### TÍTULO VI — Adquisiciones y permutas
+
+**Artículo 182.**
+
+El Estado podrá adquirir, mediante compraventa, permuta o expropiación, aquellos montes de propiedad particular, o derechos sobre los mismos, que mejor puedan contribuir al cumplimiento de los fines propios del Patrimonio Forestal del Estado.
+
+**Artículo 183.**
+
+El Patrimonio Forestal del Estado podrá adquirir o permutar para sus fines, de acuerdo con su legislación especial y la de Régimen local, los montes que aparezcan en el catálogo como de Entidades locales, y éstas, con el mismo objeto, mediante permuta, los del Estado.
+
+**Artículo 184.**
+
+El régimen de permutas de montes del Estado, incluidos en el Catálogo con otros de particulares, se regulará por las normas de la Ley y Reglamento del Patrimonio Forestal del Estado.
+
+**Artículo 185.**
+
+1\. Los montes incluidos en el Catálogo, afectos a las Entidades locales y Establecimientos públicos, podrán ser objeto de permuta total o parcial con otros catalogados o no, cualquiera que fuese su dueño.
+
+2\. Cuando la permuta afecte exclusivamente a montes catalogados se formalizarán, previa observancia de los preceptos de las legislaciones aplicables, mediante acuerdo entre las Entidades propietarias, que deberán dar cuenta al Servicio Forestal.
+
+3\. Cuando la permuta afecte a montes no catalogados, sólo podrá realizarse cuando el acuerdo se adopte conforme a la legislación peculiar de las Entidades permutantes y además se obtenga la conformidad del Ministerio de Agricultura, previa instrucción del correspondiente expediente por la Jefatura del Servicio Forestal.
+
+**Artículo 186.**
+
+Las tasaciones que fueren necesarias para la formalización de las permutas, a que se refieren los artículos anteriores, se practicarán por Ingenieros de Montes de los Servicios Forestales correspondientes o libremente designados por las Entidades interesadas.
+
+**Artículo 187.**
+
+Las permutas deberán ser elevadas a escritura pública, que se inscribirá en el Registro de la Propiedad, de la que se entregará copia autorizada al Servicio Forestal a los efectos de la inclusión en el Catálogo.
+
+**Artículo 188.**
+
+1\. Los montes catalogados que pertenezcan en comunidad a varios dueños, no podrán dividirse si la parte que a cada condueño correspondiera fuese inferior a la extensión de la unidad mínima de monte señalada, para la zona respectiva, por Decreto aprobado en Consejo de Ministros.
+
+2\. Los expedientes de autorización se tramitarán en las Jefaturas de los Servicios Forestales y serán resueltos por el Ministerio de Agricultura a propuesta de la Dirección General de Montes, Caza y Pesca Fluvial. Concedida la autorización, el Servicio Forestal, a requerimiento de los partícipes, realizará las operaciones de división material, formando partes proporcionadas al derecho de cada uno.
+
+### TÍTULO VII — De los parques nacionales y de los sitios y monumentos naturales de interés nacional
+
+> Se modifica por el art. único del Decreto 3768/1972, de 23 de diciembre. [Ref. BOE-A-1973-205](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-205).
+
+**Artículos 189 a 201.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por la cláusula derogatoria de la Ley 15/1975, de 2 de mayo. [Ref. BOE-A-1975-9246](https://www.boe.es/buscar/doc.php?id=BOE-A-1975-9246).
+
+## LIBRO II — De los aprovechamientos e industrias forestales
+
+### TÍTULO I — Aprovechamientos forestales
+
+**Artículos 202 y 203.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO I — Proyectos de Ordenación y Planes Técnicos
+
+**Artículo 204.**
+
+**(Derogado)**
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículo 205.**
+
+1\. Los proyectos de ordenación, que se redactarán con estricta sujeción a lo establecido en las instrucciones que estuviesen vigentes, podrán ser de acción desocrática integral o limitada, según lo aconsejen en cada caso los factores y circunstancias de carácter legal, natural, forestal, económico-social y administrativo.
+
+2\. Los proyectos de ordenación integral comprenderán los predios forestales cuyos productos deban abastecer un mismo mercado, de modo que sea posible resolver en conjunto la saca de sus productos mediante una misma red de caminos, enlazada con aquél por una vía principal permanente.
+
+3\. Los proyectos de ordenación limitada se referirán a un monte o grupo de montes cuyo aislamiento, restringida importancia y estado selvícola no den base suficiente a una ordenación integral, pero ofrezcan masas apropiadas para el desarrollo de un plan científico de aprovechamiento y restauración.
+
+**Artículo 206.**
+
+1\. Los planes técnicos, según el objeto perseguido, se dividen en:
+
+A) Para montes productores.
+
+B) Para montes protectores.
+
+2\. Los planes en el grupo A) se limitarán a la determinación de existencias realizables y su distribución superficial, como base para un sistema de aprovechamiento, conservación y mejora del monte. Se atenderá también a su restauración, tanto por métodos naturales como artificiales. La restauración, en el primer supuesto, deberá alcanzarse mediante la localización e intensidad adecuada de las cortas, y en el segundo, el ritmo de la repoblación se atemperará a los medios económicos disponibles en cada caso.
+
+3\. Los planes técnicos para el grupo B) serán obligatorios y tendrán por finalidad esencial la persistencia del monte y su normal restauración en el menor tiempo posible. Por consiguiente, en estos predios el aspecto económico de los aprovechamientos quedará subordinado al tratamiento selvícola que, en cada caso, sea más adecuado para la finalidad protectora perseguida.
+
+4\. Los Servicios provinciales de la Dirección General de Montes, Caza y Pesca Fluvial confeccionarán los planes técnicos para los montes protectores, que una vez terminados se pondrán de manifiesto a los dueños en las oficinas correspondientes durante el plazo de quince días, a fin de que en los quince siguientes puedan presentar en la Jefatura las alegaciones que juzguen pertinentes.
+
+5\. Transcurrido este último plazo, los Ingenieros Jefes tramitarán los planes, acompañados de los alegatos formulados y de sus informes, a la mencionada Dirección, que propondrán al Ministro de Agricultura la resolución procedente.
+
+6\. Los planes técnicos para los dos grupos indicados alcanzarán la duración de diez años, salvo circunstancias excepcionales en contrario, y se revisarán al finalizar cada decenio.
+
+**Artículo 207.**
+
+**(Derogado)**
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículo 208.**
+
+Los montes catalogados, mientras no tengan proyecto de ordenación o plan técnico, se regirán por sencillos planes facultativos de aprovechamientos y mejoras anuales o periódicos, cuya duración no excederá, en principio, de cinco años.
+
+**Artículo 209.**
+
+1\. Cuando un monte no catalogado y que no sea protector, cualquiera que sea su pertenencia, revista importancia forestal, económica o social, la Dirección General de Montes, Caza y Pesca Fluvial, previo informe de la Jefatura del Servicio Forestal correspondiente, y sin perjuicio de los recursos establecidos en la vigente Ley de Procedimiento Administrativo, podrá exigir al propietario la presentación de un proyecto de ordenación o de un plan técnico, según proceda, autorizados por un Ingeniero de Montes, concediéndole al efecto un plazo proporcionado a la importancia del estudio y condiciones del monte objeto del mismo.
+
+2\. Si el propietario no atendiere al requerimiento de la Dirección General de Montes, Caza y Pesca Fluvial, procederá ésta a la redacción del proyecto o el plan técnico por cuenta del dueño del predio, y con la garantía de los aprovechamientos del mismo monte hasta un máximo de diez por ciento del importe bruto de cada uno de ellos, hasta el total resarcimiento, observándose en su tramitación las mismas reglas previstas en el artículo 206 para planes de montes protectores.
+
+3\. La Administración Forestal, en la aplicación de estos planes técnicos, una vez aprobados, se limitará a la inspección y vigilancia anual, a fin de comprobar la fiel ejecución de lo establecido en los mismos.
+
+**Artículos 210 y 211.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO II — Aprovechamientos en montes catalogados
+
+##### Sección 1.ª Aprovechamientos ordinarios
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+###### Epígrafe A. Planes y pliegos de condiciones
+
+**Artículos 212 a 215.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+###### Epígrafe B. Licencias de disfrute
+
+**Artículo 216.**
+
+**(Derogado)**
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+##### Sección 2.ª Aprovechamientos extraordinarios
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 217 a 224.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO III — Aprovechamientos en montes no catalogados
+
+**Artículos 225 a 227.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+##### Sección 1.ª Declaraciones juradas
+
+**Artículo 228.**
+
+1\. Los particulares dueños de fincas pobladas total o parcialmente de abedules, abetos, acacias, álamos, alerces, alisos, alcornoques, almeces, arces, castaños, cedros, cipreses, chopos, encinas, enebros, eucaliptos, fresnos, haya, laureles, melojos, nogales, olmos, pinabetes, pinos, pinsapos, plátanos, quejigos, rebollos, robles, sabinas, sauces, tejos y tilos u otras especies forestales que en lo sucesivo determine el Ministerio de Agricultura, están obligados a presentar declaración jurada, por duplicado y en modelo oficial, de dichas fincas en los Ayuntamientos correspondientes para que éstos envíen, en el plazo máximo de diez días, un ejemplar a los Distritos Forestales, con diligencia de la Alcaldía, acreditativa de que la finca radica, o no, en el término municipal correspondiente.
+
+2\. El plazo en el que habrán de presentarse para los dueños que no lo hubieran ya realizado las aludidas declaraciones, será de sesenta días a contar desde la promulgación de este Reglamento.
+
+3\. La misma obligación corresponde a los propietarios de las provincias Canarias de Las Palmas y Santa Cruz de Tenerife, que posean fincas, no sólo pobladas de pinos y sabinas, sino también de las especies conocidas con los nombres vulgares de acebiños, adernos, almácigos, barbusanos, brezos, cedros, dragos, escobones, fayas, follados, hijas, madroñeros, mamolanes, mocanes, naranjeros salvajes, palo blanco, peralillo, remata blanca, sanguinos, tarajales, tagasastes, tejos, tilos y viñátigos, y las que en lo sucesivo acuerde el Ministerio de Agricultura.
+
+4\. Los dueños deberán comunicar a los Ayuntamientos y a las Jefaturas de los Distritos los cambios de dominio que en tales fincas se operen.
+
+5\. Ningún aprovechamiento forestal podrá ser autorizado en las fincas de propiedad particular cuyos dueños no hayan cumplido el requisito de la declaración jurada, previsto en este artículo.
+
+##### Sección 2.ª Licencias de corta
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 229 a 236.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+##### Sección 3.ª Aprovechamientos en montes alcornocales, en resinación y espartizales
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 237 a 241.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO IV — Del pastoreo
+
+**Artículo 242.**
+
+El pastoreo en los montes se realizará de forma que sea compatible con la conservación y mejora de los mismos, procurando la ordenación y perfeccionamiento de los aprovechamientos ganaderos ya existentes y la ampliación de los mismos que, sin menoscabo de las masas forestales, permitan el mantenimiento del mayor número posible de cabezas de ganado o el máximo peso vivo. En el caso de montes cubiertos de arbolado se dará una preferencia absoluta a las exigencias selvícolas, pudiéndose limitar e incluso prohibir el pastoreo del monte si resultare incompatible con su conservación. De igual modo se procederá en el caso de terrenos erosionables si el propietario no efectuase las obras y trabajos de conservación de suelos que le impusiera la Administración.
+
+**Artículo 243.**
+
+1\. En los montes catalogados se atenderá preferentemente al sostenimiento del ganado de uso propio de los vecinos de los pueblos a que aquéllos pertenezcan, y se procederá a la enajenación de los pastos sobrantes, si los hubiere, a menos que el estado forestal del monte aconseje la exclusión del ganado de granjería.
+
+2\. Se entenderá por ganado de uso propio de cada vecino el mular, caballar, boyal y asnal destinado a los trabajos agrícolas e industriales, así como el lanar y de cerda, que cada uno dedique al consumo propio de su casa, siempre que no exceda de cuatro cabezas de ganado mayor destinado a trabajos agrícolas e industriales, dos porcinas y tres de lanar, para familias constituidas con un número de hijos que no pase de tres, aumentándose una cabeza lanar por cada hijo que exceda de tal cifra.
+
+**Artículo 244.**
+
+1\. Al objeto de garantizar el cumplimiento de lo dispuesto en el artículo anterior, los Ingenieros Jefes de los Servicios Forestales, antes de redactar los planes anuales de aprovechamientos, recabarán de las respectivas Entidades locales el censo de ganado de uso propio de los vecinos.
+
+2\. El aprovechamiento vecinal de pastos tendrá que sujetarse a cuantas prevenciones técnicas se establezcan en los planes de disfrutes que formulen los Distritos Forestales.
+
+**Artículo 245.**
+
+1\. En la confección de los proyectos de ordenación y planes técnicos para montes catalogados se destinará al pastoreo, siempre que sea posible un cuartel o porción independiente del cultivo selvícola.
+
+2\. Para dicho cuartel o porción independiente, así como para los montes herbáceos y herbáceo-leñosos, el aprovechamiento de pastos será objeto de un estudio técnico de acuerdo con las instrucciones vigentes.
+
+**Artículo 246.**
+
+En los proyectos de Ordenación y Planes técnicos para montes públicos no catalogados y de particulares, deberá tratarse de la regulación del pastoreo y la creación de pastizales, así como de la conservación y mejora de los ya existentes.
+
+#### CAPÍTULO V — Agrupación y concentración de fincas forestales
+
+##### Sección 1.ª Agrupaciones
+
+**Artículo 247.**
+
+Las agrupaciones de montes tienen por objeto constituir, con cualquiera de las finalidades referidas en el artículo siguiente, comarcas o unidades forestales susceptibles de ordenación o repoblación integral, formadas por montes públicos o de particulares pertenecientes a distintos propietarios.
+
+**Artículo 248.**
+
+1\. Las agrupaciones de fincas forestales, a los efectos antes señalados, pueden ser voluntarias u obligatorias.
+
+2\. Serán voluntarias cuando resulten convenientes para la ordenación económica integral de la agrupación para coordinar los intereses selvícolas o pastorales de los asociados, o por causa de repoblación forestal, y cuando, además presten su conformidad los propietarios de fincas forestales que, por lo menos, representen el sesenta por ciento de la superficie global de cada agrupación.
+
+3\. Serán obligatorias cuando los montes en ellas incluidos se hallen situados en zona de protección o fuera necesario someterlos a planes dasocráticos de aprovechamientos y mejoras por otras razones de interés económico-social.
+
+###### Epígrafe A. Voluntarias
+
+**Artículo 249.**
+
+1\. Cuando uno o varios propietarios de montes estimen de interés la constitución de una agrupación forestal voluntaria, lo expondrán así, por escrito, al Jefe del Distrito Forestal, precisando las fincas que deban constituir la zona de agrupación, el perímetro y cabida aproximada de la misma y las finalidades perseguidas.
+
+2\. Si las fincas pertenecieran a varias provincias, la exposición deberá dirigirse al Jefe del Distrito Forestal de la provincia a que pertenezca la mayor superficie.
+
+**Artículo 250.**
+
+1\. La Jefatura del Distrito Forestal, a la vista de dicho escrito, acordará sobre la procedencia de iniciar el expediente de agrupación y si, a su juicio, se cumple alguna de las finalidades determinadas en el artículo 248, párrafo segundo, publicará en el «Boletín Oficial» de la provincia o provincias en que radiquen las fincas de que se trate y en el tablón de anuncios de los Ayuntamientos correspondientes la relación de propietarios que deban constituir la agrupación, especificando los fines perseguidos por ésta y las fincas afectadas.
+
+2\. Los propietarios o, en su defecto, los encargados, administradores o colonos cuyos domicilios fueran conocidos serán notificados personalmente.
+
+3\. Los propietarios de predios incluidos en la relaciones publicadas deberán expresar por escrito ante la Jefatura del Distrito Forestal, en el término de dos meses, su conformidad o disconformidad con la agrupación proyectada, exponiendo en el último caso las razones en que funden su oposición, reputándose conformes con la agrupación aquellos interesados que, habiendo sido notificados, personalmente o por medio de sus encargados administradores o colonos, no manifiesten en dicho tiempo su expresa disconformidad.
+
+4\. Transcurrido dicho plazo, el Ingeniero Jefe remitirá el expediente con su informe y las alegaciones presentadas a la Dirección General de Montes, Caza y Pesca Fluvial, que elevará al Ministro de Agricultura la propuesta correspondiente para su curso, si procediere, al Consejo de Ministros a los efectos indicados en el artículo 257.
+
+**Artículo 251.**
+
+1\. Dentro de los seis meses siguientes a la publicación del Decreto autorizando la constitución de una agrupación voluntaria, los interesados deberán presentar en el Distrito Forestal unos Estatutos de la Asociación y un Plan de ordenamiento, redactado por un Ingeniero de Montes. Ambos documentos deberán ser autorizados con la firma de asociados que representen la mayor parte de la superficie global de la agrupación.
+
+2\. El Distrito Forestal, sin perjuicio de los recursos establecidos, aprobará los Estatutos y el Plan de ordenamiento o formulará los reparos que estime oportunos, que deberán ser subsanados dentro del plazo que al efecto se señale.
+
+3\. El acuerdo del Distrito Forestal se publicará en el «Boletín Oficial» de la provincia, sin perjuicio de las notificaciones personales a los interesados cuyo domicilio fuere conocido.
+
+**Artículo 252.**
+
+La Asociación se regirá por las normas contenidas en los Estatutos, debiendo tener los asociados derechos y obligaciones proporcionales a la importancia forestal de las fincas que posean dentro de la agrupación, con arreglo al valor fiscal de las mismas, sin perjuicio de otra posible estimación que la Asociación acuerde. Formará parte de la Asociación necesariamente un Ingeniero del Distrito Forestal con facultad de suspender los acuerdos que se adopten hasta que decida sobre ello la Jefatura.
+
+###### Epígrafe B. Obligatorias
+
+**Artículos 253 a 254.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+###### Epígrafe C. Normas comunes
+
+**Artículo 257.**
+
+1\. La constitución o autorización, según los casos, de las agrupaciones forestales requerirá Decreto acordado en Consejo de Ministros a propuesta del de Agricultura.
+
+2\. Cuando la agrupación afectare a alguna Entidad local el Decreto será propuesto conjuntamente por los Ministros de Agricultura y Gobernación.
+
+**Artículo 258.**
+
+1\. Toda agrupación forestal, una vez constituida legalmente y aprobados sus Estatutos, Planes, Reglamento u Ordenanzas, será inscrita en un libro-registro de agrupaciones que al efecto deberá llevarse en la Jefatura del Distrito Forestal a cuya jurisdicción corresponda la mayor superficie de la zona agrupada.
+
+2\. Las Asociaciones constituidas por los propietarios al amparo de lo dispuesto en los artículos 251 y 256 para regir las agrupaciones voluntarias u obligatorias tendrán personalidad jurídica una vez inscritas en el libro-registro de agrupaciones.
+
+3\. Las Asociaciones de propietarios podrán revestir cualquiera de las formas sociales reconocidas por el Derecho civil y mercantil o por la legislación de Cooperativas, previo el cumplimiento de los requisitos en cada caso exigidos.
+
+**Artículo 259.**
+
+Las agrupaciones forestales podrán disfrutar de los auxilios y beneficios que para la realización de las mejoras en sus montes se les otorguen, así como de los anticipos económicos que en cada caso se estimen procedentes.
+
+**Artículo 260.**
+
+La vigilancia técnica del plan de ordenamiento aprobado para cada agrupación, corresponde a la Administración Forestal pudiendo los propietarios interesados entablar recursos ante el Distrito Forestal correspondiente, contra los acuerdos de los Organismos rectores de las Asociaciones respectivas.
+
+**Artículo 261.**
+
+Los montes públicos o de particulares que estuvieran sujetos a proyectos de ordenación o planes técnicos debidamente autorizados, continuarán sometidos a ellos en tanto no deban ser modificados por exigirlo así los planes aprobados para la agrupación.
+
+**Artículo 262.**
+
+Los planes de ordenamiento son de observancia obligatoria para todos los propietarios cultivadores y titulares de otros derechos, afectados por la agrupación.
+
+##### Sección 2.ª Concentración de fincas forestales
+
+**Artículo 263.**
+
+Cuando el mejor aprovechamiento de los montes situados en una misma zona o comarca requiera alteraciones en el régimen de su propiedad, la Dirección General de Montes, Caza y Pesca Fluvial, oído el Ayuntamiento correspondiente, podrá solicitar la concentración parcelaria de oficio, que, en su caso, se llevará a cabo por el procedimiento establecido en la Ley de 10 de agosto de 1955.
+
+#### CAPÍTULO VI — Régimen jurídico de los aprovechamientos
+
+##### Sección 1.ª Normas generales
+
+**Artículos 264 y 265.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículo 266.**
+
+Los aprovechamientos de montes catalogados no comunales que se vengan realizando en régimen especial, de acuerdo con normas consuetudinarias o reglamentarias de tipo local, debidamente aprobadas, continuarán ajustándose a las mismas en cuanto no se opongan a las disposiciones de la legislación forestal en atención a su conservación y fomento, debiéndose dictar o revisar las Ordenanzas correspondientes, adaptándolas a lo que establecen los preceptos del presente título.
+
+##### Sección 2.ª Subastas
+
+**Artículo 267.**
+
+1\. Las subastas de aprovechamientos forestales se harán, como regla general, sobre productos en pie o en el árbol, si bien en casos especiales, al objeto de obtener mejoras selvícolas, o económicas y previo acuerdo de las Entidades propietarias de montes catalogados, podrán subastarse productos preparados, clasificados y apilados en cargadero.
+
+2\. Las operaciones necesarias para colocar los productos en cargadero podrán realizarse por la Administración Forestal, previo acuerdo con las Entidades propietarias, o por éstas, sometidas a la inspección de los servicios forestales correspondientes.
+
+**Artículo 268.**
+
+**(Derogado)**
+
+> Se deroga por el Anexo 2.3º de la Orden de 15 de marzo de 1963. [Ref. BOE-A-1963-5128](https://www.boe.es/buscar/doc.php?id=BOE-A-1963-5128).
+
+**Artículo 269.**
+
+A toda subasta de aprovechamientos forestales tendrá derecho a asistir un funcionario de Montes, que podrá hacer las observaciones que estime oportunas, con constancia en el acta correspondiente.
+
+**Artículo 270.**
+
+1\. Declarada desierta una subasta, corresponde a la Corporación Local, si no hiciere uso del derecho de tanteo, anunciarla nuevamente, y si estimase que deben modificarse las condiciones técnico-facultativas, lo comunicará al Jefe del Servicio Forestal, quien determinará lo que estime conveniente, procurando armonizar los intereses económicos de las Entidades propietarias con la buena conservación de los montes.
+
+2\. Podrán asimismo, las Entidades Locales modificar las condiciones económicas que estimen conveniente.
+
+**Artículo 271.**
+
+1\. Las Entidades públicas propietarias de montes catalogados podrán adjudicarse, ejerciendo el derecho de tanteo, los aprovechamientos de sus predios, cuando éstos no estuviesen consorciados por el Estado, y siempre que los licitadores, en las subastas, no ofrezcan el precio índice señalado al efecto del ejercicio de este derecho. La adjudicación se hará por un precio igual al de la mejor oferta presentada.
+
+2\. De igual forma podrán adjudicarse los referidos aprovechamientos cuando la subasta quede desierta, y en este caso por el tipo de tasación.
+
+3\. No podrá hacerse uso del citado derecho cuando se obtenga en la subasta precio superior al señalado como índice.
+
+##### Sección 3.ª Adjudicaciones directas
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 272 a 274.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+##### Sección 4.ª Empresas mixtas
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículo 275.**
+
+**(Derogado)**
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+### TÍTULO II — Industrias forestales
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 276 a 283.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+## LIBRO III — De la repoblación y conservación de los montes
+
+### TÍTULO I — Repoblación Forestal
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 284 a 286.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO I — Consorcios voluntarios y otros convenios
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+##### Sección 1.ª Con intervención del Patrimonio Forestal del Estado
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 287 a 295.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+##### Sección 2.ª Sin intervención del Patrimonio Forestal del Estado
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 296 a 301.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO II — Repoblaciones con auxilio del Estado
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+##### Sección 1.ª Ayuda técnica, subvenciones y anticipos
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículo 302.**
+
+**(Derogado)**
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+##### Sección 2.ª Reintegro y garantía de los anticipos
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículoz 308 a 315.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO III — Repoblaciones con auxilio del Estado
+
+**Artículos 316 a 326.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO IV — Repoblaciones en beneficio de Cotos Escolares, Frente de Juventudes y Hermandades
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 327 a 331.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+### TÍTULO II — De las mejoras
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO I — Mejoras en montes catalogados
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 332 a 336.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO II — Mejoras en montes no catalogados
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 337 a 340.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+### TÍTULO III — Del Servicio Hidrológico Forestal
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 341 a 356.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+### TÍTULO IV — De la defensa de los montes contra las plagas forestales
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO I — Servicio Especial de Plagas Forestales
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 357 a 373.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO II — Declaración oficial de la existencia de plagas
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 374 a 387.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+### TÍTULO V — De la defensa de los montes contra los incendios
+
+> Se deroga por la disposición final 4 del Decreto 3769/1972, de 23 de diciembre. [Ref. BOE-A-1973-208](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-208).
+
+> Se deroga en lo que se refiere a los riesgos por incendios forestales por la disposición derogatoria de la Ley 81/1968, de 5 de diciembre. [Ref. BOE-A-1968-1447](https://www.boe.es/buscar/doc.php?id=BOE-A-1968-1447).
+
+#### CAPÍTULO I — Medidas preventivas, combativas y reconstructivas o reparadoras
+
+> Se deroga por la disposición final 4 del Decreto 3769/1972, de 23 de diciembre. [Ref. BOE-A-1973-208](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-208).
+
+> Se deroga en lo que se refiere a los riesgos por incendios forestales por la disposición derogatoria de la Ley 81/1968, de 5 de diciembre. [Ref. BOE-A-1968-1447](https://www.boe.es/buscar/doc.php?id=BOE-A-1968-1447).
+
+**Artículos 388 a 399.**
+
+**(Derogados)**
+
+> Se derogan por la disposición final 4 del Decreto 3769/1972, de 23 de diciembre. [Ref. BOE-A-1973-208](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-208).
+
+#### CAPÍTULO II — Del Seguro Forestal
+
+> Se deroga por la disposición final 4 del Decreto 3769/1972, de 23 de diciembre. [Ref. BOE-A-1973-208](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-208).
+
+> Se deroga en lo que se refiere a los riesgos por incendios forestales por la disposición derogatoria de la Ley 81/1968, de 5 de diciembre. [Ref. BOE-A-1968-1447](https://www.boe.es/buscar/doc.php?id=BOE-A-1968-1447).
+
+**Artículos 400 a 403.**
+
+**(Derogados)**
+
+> Se derogan por la disposición final 4 del Decreto 3769/1972, de 23 de diciembre. [Ref. BOE-A-1973-208](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-208).
+
+> Se deroga en lo que se refiere a los riesgos por incendios forestales por la disposición derogatoria de la Ley 81/1968, de 5 de diciembre. [Ref. BOE-A-1968-1447](https://www.boe.es/buscar/doc.php?id=BOE-A-1968-1447).
+
+### TÍTULO VI — Del crédito forestal
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 404 a 406.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+## LIBRO IV — De las infracciones y su sanción
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+### TÍTULO I
+
+#### De la competencia
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 407 a 409.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+### TÍTULO II — De las sanciones aplicables a las distintas infracciones
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO I — Infracciones en montes catalogados
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 410 a 431.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+#### CAPÍTULO II — Infracciones en montes no catalogados
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 432 a 451.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+### TÍTULO III — De la imposición y pago de las sanciones
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 452 a 458.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+### TÍTULO IV — De la indemnización de daños y perjuicios
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 459 a 463.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+### TÍTULO V — Del decomiso y del embargo
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 464 a 468.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+### TÍTULO VI — De la extinción de la responsabilidad
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 469 a 475.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+### TÍTULO VII — Del procedimiento
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Artículos 476 a 490.**
+
+**(Derogados)**
+
+> Se derogan en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Disposición final primera.**
+
+**(Derogada)**
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+**Disposición final segunda.**
+
+Quedan derogadas las siguientes disposiciones:
+
+Real Decreto de 11 de noviembre de 1864 sobre inscripción de montes en el Registro de la Propiedad.
+
+Real Decreto de 17 de mayo de 1865 que aprobó el Reglamento de la Ley de Montes de 24 de enero de 1863.
+
+Real Decreto de 18 de enero de 1878 aprobando el Reglamento de la Ley de repoblación y mejora de montes de 11 de julio de 1877.
+
+Real Decreto de 8 de mayo de 1884 sobre legislación penal de montes.
+
+Real Decreto de 20 de septiembre de 1896 que definió los montes de utilidad pública.
+
+Real Decreto de 1 de febrero de 1901 para constitución del catálogo de montes de utilidad pública.
+
+Real Decreto de 1 de febrero de 1901 sobre reconocimiento de la posesión del monte por su inclusión en el catálogo.
+
+Real Decreto de 10 de octubre de 1902 sobre ocupaciones y servidumbres en los montes públicos.
+
+Real Decreto de 21 de enero de 1905 referente a ocupaciones de montes motivadas por aprovechamientos de aguas o minas.
+
+Real Decreto de 9 de febrero de 1905 sobre recursos de alzada contra providencias de las Jefaturas de Montes.
+
+Real Decreto de 27 de diciembre de 1905 que aclaró algunos puntos del de 21 de enero de 1905 sobre ocupación de terrenos en montes.
+
+Real Decreto de 24 de febrero de 1908 referente a ocupaciones de montes públicos para explotaciones mineras.
+
+Real Decreto de 8 de octubre de 1909 que promulgó el Reglamento de la Ley de conservación y repoblación de montes de 24 de junio de 1908.
+
+Real Decreto de 12 de abril de 1912 sobre permutas derivadas de actuaciones de deslindes en montes públicos.
+
+Real Decreto de 23 de febrero de 1917 concerniente a Parques y sitios nacionales.
+
+Real Decreto de 5 de septiembre de 1918 aprobando el Reglamento para aplicación de la Ley de defensa de bosques de 24 de julio de 1918.
+
+Real Decreto de 9 de septiembre de 1922 sobre aplicación del Real Decreto de 23 de marzo de 1886 que regula la forma de agotar la vía administrativa.
+
+Real Decreto de 10 de septiembre de 1922 referente a plagas forestales.
+
+Real Decreto de 21 de septiembre de 1922 sobre repoblación de rasos y calveros.
+
+Real Decreto de 1 de diciembre de 1923 referente a legitimación de roturaciones arbitrarias en montes públicos.
+
+Real Decreto de 1 de febrero de 1924 que dictó el Reglamento para aplicación del Decreto de 1 de diciembre de 1923, sobre legitimación de roturaciones.
+
+Real Decreto de 19 de febrero de 1924 concerniente a proyectos de ordenación de montes de los Ayuntamientos.
+
+Real Decreto de 12 de marzo de 1924 sobre plagas forestales.
+
+Real Decreto de 3 de junio de 1924 sobre ocupaciones en montes públicos por instalaciones de fábricas metalúrgicas.
+
+Real Decreto de 3 de diciembre de 1924 que prohibe las cortas a hecho en montes, sotos y alamedas de propiedad particular.
+
+Real Decreto de 20 de diciembre de 1924 sobre repoblación de claros y calveros.
+
+Real Decreto de 17 de febrero de 1925 sobre subastas de pastos sobrantes de montes de aprovechamiento común y dehesas boyales.
+
+Real Decreto de 17 de octubre de 1925 concerciente a la creación de viveros y sequeros forestales.
+
+Real Decreto de 22 de diciembre de 1925 que da normas sobre legitimación de roturaciones arbitrarias.
+
+Real Decreto de 9 de marzo de 1926 sobre préstamos hipotecarios con garantía de usufructo de los montes.
+
+Real Decreto de 22 de octubre de 1926 sobre expedición de licencias de aprovechamientos en montes públicos.
+
+Real Decreto de 24 de marzo de 1927 dando instrucciones para la repoblación forestal.
+
+Real Decreto de 26 de julio de 1929 sobre parques nacionales.
+
+Decreto de 10 de abril de 1931 sobre seguros de incendios en montes.
+
+Decreto de 7 de junio de 1931 referente a parques nacionales.
+
+Decreto de 1 de agosto de 1931 sobre exclusiones de montes del catálogo, denuncias y deslindes de montes públicos.
+
+Decreto de 26 de octubre de 1931 sobre deslindes de montes comunales y dehesas boyales.
+
+Decreto de 20 de abril de 1932 sobre parques nacionales.
+
+Decreto de 17 de marzo de 1933 dando normas sobre previsión y extinción de plagas forestales.
+
+Decreto de 20 de abril de 1933 sobre corta y aprovechamiento de alcornoques.
+
+Decreto de 12 de julio de 1933 que dictó el Reglamento de repoblación forestal.
+
+Decreto de 13 de abril de 1934 sobre parques nacionales.
+
+Decreto de 30 de enero de 1935 referente a concesiones de cultivos en montes públicos.
+
+Decreto de 21 de marzo de 1935 sobre parques nacionales.
+
+Decreto de 14 de mayo de 1936 concerniente a rescisión y prórroga de plazos de aprovechamientos en montes públicos.
+
+Decreto de 30 de mayo de 1936 que amplía el Decreto de 13 de mayo de 1932 que creó la Comisión mixta del Corcho.
+
+Decreto de 24 de septiembre de 1938 de defensa de la riqueza forestal de propiedad particular.
+
+Decreto de 27 de noviembre de 1939 concerniente a transformación de cultivo forestal en agrícola.
+
+Decreto de 28 de junio de 1946 referente a cortas de encinas y alcornoques.
+
+Decreto de 13 de agosto de 1948 sobre convenios para repoblación forestal de entidades dueñas de montes distintas del Estado con otras públicas o privadas.
+
+Decreto de 25 de abril de 1952 dando normas de aplicación de la Ley de auxilios para repoblación forestal de 7 de abril de 1952.
+
+Decreto de 1 de mayo de 1952 sobre aplicación de la citada Ley de auxilios a Diputaciones, Ayuntamientos y Organización Sindical.
+
+Decreto de 13 de mayo de 1953 sobre cortas en montes de propiedad particular.
+
+Decreto de 11 de diciembre de 1953 sobre aplicación de la Ley de auxilios para repoblación forestal a los pequeños propietarios.
+
+Decreto de 19 de febrero de 1954 por el que se concede derecho de tanteo sobre mieras a las Mancomunidades de entidades locales.
+
+Decreto de 5 de marzo de 1954 sobre cortas en montes de propiedad particular de Canarias.
+
+Decreto de 30 de noviembre de 1956 que fija la extensión mínima de fincas forestales a efectos de aplicación de la Ley de 12 de mayo de 1956 sobre tratamiento obligatorio de plagas forestales.
+
+Real Orden de 31 de enero de 1879 que considera como públicos los montes cuyo dominio útil corresponda al Estado o Corporaciones públicas.
+
+Real Orden de 5 de mayo de 1881 que da normas para la previsión y extinción de incendios en los montes.
+
+Real Orden de 16 de mayo de 1882 sobre amojonamientos de montes públicos.
+
+Real Orden de 14 de enero de 1883 sobre informaciones posesorias.
+
+Real Orden de 17 de febrero de 1883 aprobando el pliego general para aprovechamientos de resinas en montes públicos.
+
+Real Orden de 4 de abril de 1883 referente al mantenimiento del estado posesorio en montes públicos.
+
+Real Orden de 16 de mayo de 1887 sobre citación de interesados en los deslindes de montes.
+
+Real Orden de 28 de julio de 1888 sobre incendios forestales.
+
+Real Orden de 14 de enero de 1893 sobre cumplimiento de la de 4 de abril de 1883 referente a estado posesorio en montes.
+
+Real Orden de 21 de noviembre de 1896 sobre revisión del catálogo de montes públicos.
+
+Real Orden de 4 de diciembre de 1899 sobre deslindes y amojonamientos.
+
+Real Orden de 21 de junio de 1902 que aclara el concepto de reincidencia en infracciones forestales.
+
+Real Orden de 9 de octubre de 1902 sobre inscripción de montes públicos en el Registro de la Propiedad.
+
+Real Orden de 10 de octubre de 1902 sobre suspensión de aprovechamientos en montes incendiados.
+
+Real Orden de 25 de junio de 1903 que fijó el concepto de ganado de uso propio de los vecinos de los pueblos.
+
+Real Orden de 1 de julio de 1905 dando reglas para aplicación de los preceptos reglamentarios en materia de deslindes.
+
+Real Orden de 27 de diciembre de 1906 sobre daños en disfrutes forestales.
+
+Real Orden de 25 de febrero de 1907 referente a concesiones de plantas de viveros forestales.
+
+Real Orden de 26 de mayo de 1908 sobre tramitación de recursos de alzada en asuntos forestales.
+
+Real Orden de 11 de junio de 1908 que regula el régimen de la inspección de deslindes.
+
+Real Orden de 10 de junio de 1916 sobre concesión de autorizaciones provisionales para ocupaciones de montes públicos.
+
+Real Orden de 6 de abril de 1921 que señala el plazo de entrega de expedientes de deslindes de montes.
+
+Real Orden de 9 de septiembre de 1922 sobre reclamaciones de particulares para que se respete la propiedad de enclavados en montes públicos.
+
+Real Orden de 8 de noviembre de 1922 que da instrucciones para aplicación del Real Decreto de 21 de septiembre de 1922 sobre repoblación forestal.
+
+Real Orden de 1 de diciembre de 1922 sobre prescripción de faltas en infracciones forestales.
+
+Real Orden de 18 de junio de 1924 que da instrucciones para repoblar.
+
+Real Orden de 21 de febrero de 1925, sobre plagas forestales.
+
+Real Orden de 4 de marzo de 1925 sobre premios a particulares por trabajos de repoblación forestal.
+
+Real Orden de 4 de marzo de 1925 que da instrucciones para aplicación del Real Decreto de 3 de diciembre de 1924 de cortas en montes particulares.
+
+Real Orden de 20 de noviembre de 1926 sobre cuentas de mejora en montes públicos.
+
+Real Orden de 4 de noviembre de 1925 sobre ocupación de terrenos en montes por instalaciones eléctricas.
+
+Real Orden de 11 de enero de 1926 sobre acotamientos de terrenos en montes públicos.
+
+Real Orden de 29 de enero de 1927 que da reglas para la formación de planes de aprovechamientos forestales.
+
+Real Orden de 15 de julio de 1927 sobre sitios y monumentos naturales de interés nacional.
+
+Real Orden de 11 de enero de 1928 sobre examen y calificación por los Abogados del Estado en documentos aportados en los expedientes de deslindes de montes públicos.
+
+Real Orden de 19 de noviembre de 1928, sobre amojonamientos de montes.
+
+Real Orden de 22 de enero de 1929 referente a ocupaciones de terrenos en montes públicos.
+
+Real Orden de 26 de junio de 1929 sobre aprovechamientos y mejoras en montes catalogados.
+
+Real Orden de 24 de julio de 1929 sobre cultivos agrícolas en montes.
+
+Real Orden de 18 de enero de 1930 referente a tramitación de expedientes de deslinde en montes públicos.
+
+Real Orden de 20 de febrero de 1930 sobre prescripción de los montes catalogados por particulares frente a la Administración.
+
+Real Orden de 4 de diciembre de 1930 concerniente a peticiones de aprovechamientos extraordinarios en montes públicos.
+
+Real Orden de 17 de febrero de 1931 dando instrucciones para la formación del catálogo de montes protectores.
+
+Orden ministerial de 14 de noviembre de 1931 sobre aprobación de planes anuales de aprovechamientos en montes públicos.
+
+Orden ministerial de 1 de agosto de 1932 referente a recurso de alzada contra providencias de los Ingenieros Jefes de Servicios Forestales.
+
+Orden ministerial de 16 de mayo de 1933 relativa a saca de corcho.
+
+Orden ministerial de 22 de octubre de 1932 sobre cultivos agrícolas en montes.
+
+Orden ministerial de 11 de noviembre de 1935 referente a servicios de estadística, catálogos y legislación forestal.
+
+Orden ministerial de 31 de octubre de 1940 dando normas de adjudicación de subastas de productos forestales.
+
+Orden ministerial de 13 de agosto de 1941 sobre traspaso de montes catalogados al Patrimonio Forestal cuando existan consorcios para repoblación.
+
+Orden ministerial de 3 de diciembre de 1941 sobre adquisición y circulación de semillas forestales.
+
+Orden ministerial de 22 de febrero de 1943 que prohíbe el arranque de la planta denominada berceo.
+
+Orden ministerial de 29 de mayo de 1943 sobre adquisición y circulación de semillas forestales.
+
+Orden ministerial de 3 de julio de 1943 sobre concesión a S.N.I.A.C.E. de ocupaciones para repoblación con eucaliptus en montes públicos de la provincia de Pontevedra.
+
+Orden ministerial de 10 de diciembre de 1943 que fija el cupo de ganado vecinal de uso propio para pastoreo en montes públicos.
+
+Orden ministerial de 11 de febrero de 1944 que fija el precio de kilogramo de carne para regulación de multas por pastoreo en los montes.
+
+Orden ministerial de 21 de noviembre de 1944 sobre ocupación por S.N.I.A.C.E. de terrenos para repoblación en montes públicos de la provincia de Santander.
+
+Orden ministerial de 26 de marzo de 1947 que establece guías para circulación de piñas de pino en las provincias de Guipúzcoa y Vizcaya.
+
+Orden ministerial de 13 de agosto de 1949 dando normas para tasación y enajenación de aprovechamientos forestales.
+
+Orden ministerial de 13 de agosto de 1949 de regulación de recursos de alzada contra resoluciones de los Ayuntamientos relativas a enajenaciones de maderas y leñas.
+
+Orden ministerial de 17 de octubre de 1950 sobre enajenación de aprovechamientos forestales.
+
+Orden ministerial de 17 de octubre de 1950 referente a recursos contra resoluciones de Ayuntamientos en enajenaciones de maderas y leñas de sus montes.
+
+Orden ministerial de 6 de noviembre de 1951 sobre consorcios de montes catalogados con el Patrimonio Forestal del Estado.
+
+Orden ministerial de 10 de junio de 1952 para aplicación de la Ley de auxilios a la repoblación a terrenos de propiedad particular.
+
+Orden ministerial de 13 de noviembre de 1952 sobre supresión de limitaciones por superficie a la aplicación de la Ley de auxilios para repoblación forestal.
+
+Orden ministerial de 12 de febrero de 1953 sobre repoblación forestal en terrenos de propiedad particular.
+
+Órdenes ministeriales de 14 de febrero de 1953 para aplicación de la Ley de auxilios a la repoblación con esparto en montes de particulares y con chopos en determinadas regiones y provincias.
+
+Orden ministerial de 3 de marzo de 1953 sobre aplicación de la Ley de auxilios a la repoblación con chumberas.
+
+Orden ministerial de 21 de septiembre de 1953 que dicta normas sobre cortas en montes de propiedad particular.
+
+Orden de 8 de octubre de 1954 para aplicación de la Ley de auxilios a las mejoras de pastizales de propiedad particular.
+
+Orden ministerial de 16 de mayo de1957 sobre aplicación de la Ley de auxilios a la repoblación de dunas y arenales.
+
+**Disposición final tercera.**
+
+Quedan también derogadas todas las disposiciones de igual o inferior rango al de la presente que se opusieren a lo que en este Reglamento se contiene.
+
+**Disposición final cuarta.**
+
+**(Derogada)**
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).

@@ -1,0 +1,481 @@
+---
+title: "Real Decreto 345/1993, de 5 de marzo, por el que se establecen las normas de calidad de las aguas y de la producción de moluscos y otros invertebrados marinos vivos"
+identifier: "BOE-A-1993-8263"
+eli: "https://www.boe.es/eli/es/rd/1993/03/05/345"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1993-03-05
+published: 1993-03-27
+in_force_from: 1993-03-28
+last_amended: 1999-04-10
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 74"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1993-8263"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 345/1993, de 5 de marzo, por el que se establecen las normas de calidad de las aguas y de la producción de moluscos y otros invertebrados marinos vivos
+
+Incluye las correcciones de erratas publicadas en BOE núms. 134, de 5 de junio de 1993. [Ref. BOE-A-1993-14576](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-14576). y 152, de 26 de junio de 1993. [Ref. BOE-A-1993-16662](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-16662).
+
+La incorporación de España a las Comunidades Europeas exige la transposición a nuestro ordenamiento jurídico de la Directiva del Consejo 91/492/CEE, de 15 de julio, por la que se fijan las normas sanitarias aplicables a la producción y puesta en el mercado de moluscos bivalvos vivos.
+
+Las normas reguladoras de la calidad que debe exigirse a las aguas para la cría de moluscos fueron promulgadas mediante el Real Decreto 38/1989, de 13 de enero, por el que se establecen las normas sobre calidad exigida a las aguas para la cría de moluscos, consecuencia de la transposición de la Directiva del Consejo 79/923/CEE, de 30 de octubre.
+
+El presente Real Decreto incorpora los aspectos relativos a la producción, incluidos algunos de carácter sanitario, contenidos en la Directiva 91/492/CEE, lo cual supone una transposición parcial de la misma, mientras que la normativa técnico-sanitaria aplicable a la comercialización es objeto de una transposición independiente. Incorpora igualmente las normas relativas a la calidad de las aguas exigidas por la Directiva 79/923/CEE y ya transpuestas por el Real Decreto 38/1989, que ahora se deroga.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, de acuerdo con el Ministerio de Sanidad y Consumo, y previa deliberación del Consejo de Ministros en su reunión del día 5 de marzo de 1993,
+
+DISPONGO:
+
+## Capítulo I — Principios generales
+
+### Artículo 1.
+
+El presente Real Decreto tiene por objeto establecer las normas que deberán aplicarse a la calidad exigible tanto a las aguas como a la producción de moluscos bivalvos vivos, moluscos gasterópodos, tunicados y equinodermos marinos vivos, en orden a una mejora y protección de las aguas que permita salvaguardar su vida y crecimiento, así como garantizar su buena calidad para el consumo humano directo o previa transformación.
+
+### Artículo 2.
+
+La presente disposición será aplicable a las aguas costeras y salobres dedicadas a la producción de moluscos bivalvos vivos, moluscos gasterópodos, tunicados y equinodermos vivos que sean declaradas a tales efectos.
+
+### Artículo 3.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 571/1999, de 9 de abril. [Ref. BOE-A-1999-8185](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-8185).
+
+## Capítulo II — Zonas de producción
+
+### Artículo 4.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 571/1999, de 9 de abril. [Ref. BOE-A-1999-8185](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-8185).
+
+### Artículo 5.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 571/1999, de 9 de abril. [Ref. BOE-A-1999-8185](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-8185).
+
+### Artículo 6.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 571/1999, de 9 de abril. [Ref. BOE-A-1999-8185](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-8185).
+
+### Artículo 7.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 571/1999, de 9 de abril. [Ref. BOE-A-1999-8185](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-8185).
+
+## Capítulo III — Zonas de protección o mejora
+
+### Artículo 8.
+
+1\. En las zonas declaradas como zonas de producción, según lo dispuesto en el artículo 4 del presente Real Decreto, podrán definirse zonas que requieran una protección o mejora de sus aguas.
+
+2\. Las aguas de las zonas definidas en el apartado anterior se ajustarán a los siguientes criterios:
+
+a) Los valores y observaciones exigibles para cada uno de los parámetros serán los que figuran en el anexo IV de este Real Decreto, teniendo:
+
+1.º Carácter de norma mínima los que figuran en la columna I.
+
+2.º Carácter indicativo los de la columna G.
+
+b) Por lo que se refiere a los vertidos de substancias comprendidas en los apartados «substancias órgano-halogenadas» y «metales» del anexo IV, se aplicarán las normas que se establecen en el presente Real Decreto y la normativa específica en materia de vertido de dichas substancias.
+
+### Artículo 9.
+
+Se establecerán programas para reducir la contaminación y asegurar que, en un plazo máximo de seis años a partir de su primera declaración, las zonas se hayan adecuado a los valores y observaciones exigibles según lo establecido en el artículo 8 del presente Real Decreto.
+
+### Artículo 10.
+
+Podrá decidirse no aplicar las normas de calidad exigible a las aguas de las zonas definidas en el artículo 8 ante circunstancias meteorológicas o geográficas excepcionales.
+
+### Artículo 11.
+
+1\. Se considerará que las zonas declaradas se adecuan a los valores y observaciones exigibles siempre que las muestras de aguas de dichas zonas, tomadas según la frecuencia mínima prevista en el anexo IV de un mismo lugar de muestreo y durante un período de doce meses, revelen que respetan los valores y observaciones establecidos con arreglo al artículo 8 por lo que respecta al:
+
+a) 100 por 100 de las muestras para los parámetros substancias «órgano-halogenadas» y «metales».
+
+b) 95 por 100 de las muestras para los parámetros «salinidad» y «oxígeno disuelto».
+
+c) 75 por 100 de las muestras para los demás parámetros que figuran en el anexo IV.
+
+2\. Cuando la frecuencia de los muestreos fuese inferior a la indicada en el anexo IV, según lo dispuesto por el artículo 12.2 del presente Real Decreto, el 100 por 100 de las muestras obtenidas deberán respetar los valores y observaciones exigibles para la totalidad de los parámetros considerados.
+
+3\. No se tomarán en consideración para el cálculo de los porcentajes previstos en el apartado 1 de este artículo las muestras que excedan los valores y observaciones exigibles cuando dicho exceso sea consecuencia de una catástrofe natural o de condiciones meteorológicas excepcionales.
+
+### Artículo 12.
+
+1\. Se llevarán a cabo muestreos cuya frecuencia mínima será la establecida en el anexo IV del presente Real Decreto.
+
+2\. Cuando se compruebe que la calidad de las aguas es sensiblemente superior a la exigida por los valores y observaciones establecidos, podrá reducirse la frecuencia de los muestreos, con observancia de lo dispuesto por el artículo 11.2. Si no hubiere contaminación de ningún tipo ni riesgo de deterioro de la calidad de las aguas, podrá decidirse la suspensión temporal de los muestreos.
+
+3\. Si después de una toma de muestras se advirtieran excesos respecto de los valores y observaciones exigibles, por la autoridad competente se adoptarán las medidas oportunas para paliar la situación.
+
+4\. El lugar exacto de la toma de muestras y la distancia de éste al punto de vertido de contaminantes más próximo, así como la profundidad a la que se deben tomar las muestras, se determinarán en función de las condiciones locales del medio.
+
+5\. Los métodos de análisis de referencia que se utilicen para el cálculo del valor de los parámetros son los establecidos en el anexo IV del presente Real Decreto. Los laboratorios que utilicen otros métodos deberán garantizar que los resultados obtenidos son equivalentes o comparables a los que se obtendrían de aplicar los indicados en el anexo IV.
+
+## Capítulo IV — Condiciones de aplicación común
+
+### Artículo 13.
+
+1\. La autoridad competente proporcionará a la Secretaría General de Pesca Marítima del Ministerio de Agricultura, Pesca y Alimentación la información que sea precisa para el ejercicio de sus competencias y para su comunicación por el cauce correspondiente a la Comisión de las Comunidades Europeas.
+
+2\. **(Derogado)**
+
+3\. A efectos de lo regulado en el capítulo III del presente Real Decreto se remitirá la siguiente información:
+
+a) Las declaraciones de zonas de protección y mejora, con base en lo dispuesto en el presente Real Decreto.
+
+b) Cualquier revisión de las zonas de protección y mejora establecidas.
+
+c) La decisión motivada y el período de no aplicación de las normas de calidad en los supuestos previstos en el artículo 10 de este Real Decreto.
+
+d) Los valores y observaciones establecidos para cada uno de los parámetros previstos por el anexo IV, así como el establecimiento, en su caso, de nuevos parámetros.
+
+e) Lugar exacto de la toma de muestras, distancia existente respecto del punto de vertido de contaminantes más próximo y profundidad a la que se procederá a la toma de muestras.
+
+f) Frecuencia de los muestreos y métodos de análisis de referencia.
+
+g) Programas aprobados para reducir la contaminación y asegurar la calidad de las aguas de producción, según lo previsto en el artículo 9 del presente Real Decreto.
+
+h) Las decisiones adoptadas relativas a la reducción de frecuencias de los muestreos o suspensión temporal de los mismos, según lo previsto en los artículos 11 y 12 del presente Real Decreto.
+
+i) Las medidas adoptadas para paliar los excesos observados respecto de los valores y observaciones exigibles, según lo previsto en los artículos 11 y 12 del presente Real Decreto.
+
+4\. Asimismo, se remitirá a la Secretaría General de Pesca Marítima del Ministerio de Agricultura, Pesca y Alimentación la información ordinaria relativa a los resultados de los muestreos realizados con indicación para cada parámetro de los valores obtenidos y, en su caso, de las causas que hubieren ocasionado un exceso de éstos sobre los exigibles.
+
+Esta información ordinaria tendrá carácter semestral y será remitida dentro del trimestre siguiente a aquel a que se refieran los datos obtenidos.
+
+> Se deroga el apartado 2 por la disposición derogatoria única.2 del Real Decreto 571/1999, de 9 de abril. [Ref. BOE-A-1999-8185](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-8185).
+
+### Artículo 14.
+
+Por los Departamentos ministeriales competentes se facilitará a la Secretaría General de Pesca Marítima del Ministerio de Agricultura, Pesca y Alimentación la información que afecte a la calidad de las aguas.
+
+### Disposición adicional primera.
+
+1\. Las aguas declaradas para la cría de moluscos durante la vigencia del Real Decreto 38/1989 tendrán la consideración de zonas de protección o mejora, debiendo adaptarse a las condiciones establecidas en el presente Real Decreto, desde la entrada en vigor del mismo.
+
+2\. Podrán efectuarse declaraciones suplementarias de zonas de protección y mejora, así como revisarse la declaración de determinadas zonas, en razón, sobre todo, de la existencia de factores no previstos en la fecha de declaración y teniendo en cuenta lo dispuesto en la disposición adicional tercera del presente Real Decreto.
+
+### Disposición adicional segunda.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 571/1999, de 9 de abril. [Ref. BOE-A-1999-8185](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-8185).
+
+### Disposición adicional tercera.
+
+La aplicación de las medidas adoptadas en virtud de la presente disposición no podrá, en ningún caso, tener como efecto el aumento, directo o indirecto, de la contaminación de las aguas costeras o de las aguas salobres.
+
+### Disposición adicional cuarta.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 571/1999, de 9 de abril. [Ref. BOE-A-1999-8185](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-8185).
+
+### Disposición derogatoria única
+
+Queda derogada cualquier disposición de igual o inferior rango que se oponga a lo establecido en el presente Real Decreto, y en particular, el Real Decreto 38/1989, de 13 de enero, por el que se establecen normas sobre calidad exigida a las aguas para la cría de moluscos.
+
+### Disposición final primera.
+
+Se faculta a los Ministros de Agricultura, Pesca y Alimentación y de Sanidad y Consumo para adoptar, en el ámbito de sus respectivas atribuciones, las medidas necesarias para el desarrollo y ejecución de lo dispuesto en el presente Real Decreto.
+
+### Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 5 de marzo de 1993.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+PEDRO SOLBES MIRA
+
+## ANEXO I — Condiciones aplicables a las zonas de producción
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 571/1999, de 9 de abril. [Ref. BOE-A-1999-8185](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-8185).
+
+## ANEXO II — Condiciones aplicables a los productos
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 571/1999, de 9 de abril. [Ref. BOE-A-1999-8185](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-8185).
+
+## ANEXO III — Supervisión de la producción
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 571/1999, de 9 de abril. [Ref. BOE-A-1999-8185](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-8185).
+
+## ANEXO IV — Calidad exigida a las aguas de las zonas de protección o mejora
+
+**I. Parámetros aplicables**
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>PARÁMETRO</p>
+</td>
+<td>
+<p>G</p>
+</td>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>MÉTODOS DE ANÁLISIS DE REFERENCIA</p>
+</td>
+<td>
+<p>FRECUENCIA MÍNIMA DE MUESTREO Y DE MEDICIÓN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1. pH.</p>
+<p>Unidad pH.</p>
+</td>
+<td>
+<p>7-9</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Electrometría.</p>
+<p>La medición se realizará in situ al mismo tiempo que el muestreo.</p>
+</td>
+<td>
+<p>Trimestral.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. Temperatura ºC.</p>
+</td>
+<td>
+<p>La diferencia de temperatura provocada por un vertido no deberá, en las aguas para cría de moluscos afectadas por dicho vertido, superar en más de 20º C a la temperatura medida en las aguas no afectadas.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Termometría.</p>
+<p>La medición se realizará in situ al mismo tiempo que el muestreo.</p>
+</td>
+<td>
+<p>Trimestral.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. Coloración (después de filtración) mg Pt/l.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Después de filtración, el color del agua provocado por un vertido no deberá, en las aguas afectadas por dicho vertido, acusar una diferencia de más de 100 mg Pt/l con el color medido en las aguas no afectadas.</p>
+</td>
+<td>
+<p>Filtración por membrana filtrante de 0,45 micras de porosidad. Método fotométrico, con los patrones de la escala platinocobalto.</p>
+</td>
+<td>
+<p>Trimestral.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4. Materias en suspensión (mg/l).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>El aumento del contenido de materias en suspensión provocado por un vertido no deberá, en las aguas para cría de moluscos afectadas por dicho vertido, ser superior en más de un 30 por 100 al que se haya medido en las aguas no afectadas.</p>
+</td>
+<td>
+<p>Filtración por membrana filtrante de 0,45 micras de porosidad, secado a 105 ºC y pesada.</p>
+<p>Centrifugación (tiempo mínimo, 5 minutos; aceleración media de 2.800 a 3.200 g.) secado a 105 ºC y pesada.</p>
+</td>
+<td>
+<p>Trimestral.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5. Salinidad.</p>
+</td>
+<td>
+<p>12-38 (tanto por 1000).</p>
+</td>
+<td>
+<p>&lt; ó igual 40 por 1000.</p>
+<p>La variación de la salinidad provocada por un vertido, en las aguas para cría de moluscos afectadas por dicho vertido, no deberá ser superior en más de un 10 por 100 a la salinidad</p>
+<p>medida en las aguas no afectadas afectadas.</p>
+</td>
+<td>
+<p>Conductimetría.</p>
+</td>
+<td>
+<p>Mensual.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6. Oxígeno disuelto (porcentaje de saturación).</p>
+</td>
+<td>
+<p>≥ 80 %.</p>
+</td>
+<td>
+<p>&gt; ó igual 70 por 100 (valor medido).</p>
+<p>Si una medición individual un valor inferior al 70 por 100, las mediciones se repetirán. Una medición individual no podrá indicar un valor inferior al 60 por 100, salvo cuando no haya consecuencias perjudiciales para el desarrollo de las poblaciones de moluscos.</p>
+</td>
+<td>
+<p>Método Winkler.</p>
+<p>Método electroquímico.</p>
+</td>
+<td>
+<p>Mensual al menos con una muestra representativa, del bajo contenido en oxígeno presente el día del muestreo. No obstante, si hubiere presunción de variaciones diurnas significativas, se realizarán, como mínimo, dos muestreos diarios.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7. Hidrocarburos de origen petrolero.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Los hidrocarburos no deberán hallarse en el agua para cría de moluscos en cantidades tales que:</p>
+<p>– Produzcan en la superficie del agua una película visible y/o un depósito sobre los moluscos.</p>
+<p>– Provoquen efectos nocivos para moluscos.</p>
+</td>
+<td>
+<p>Examen visual.</p>
+</td>
+<td>
+<p>Trimestral.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8. Sustancias órgano-halogenadas</p>
+</td>
+<td>
+<p>La limitación de la concentración de cada sustancia en la carne de molusco deberá ser tal que contribuya con arreglo al artículo 1.º, a una buena calidad de los moluscos.</p>
+</td>
+<td>
+<p>La concentración de cada sustancia en el agua para cría de moluscos o en la carne de los moluscos no deberá rebasar un nivel que provoque efectos nocivos en dichos moluscos y sus larvas.</p>
+</td>
+<td>
+<p>Cromatografía en fase gaseosa después de extracción con disolventes adecuados y purificados.</p>
+</td>
+<td>
+<p>Semestral.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9. Metales: Plata, Ag; Arsénico, As; Cadmio, Cd; Cromo, Cr; Cobre, Cu; Mercurio, Hg; Níquel, Ni; Plomo, Pb; Zinc, Zn; mg/l.</p>
+</td>
+<td>
+<p>La limitación</p>
+<p>de la concentración de cada sustancia</p>
+<p>en la carne de los moluscos deberá ser tal que contribuya</p>
+<p>a una buena calidad</p>
+<p>de los moluscos con arreglo al artículo 1.</p>
+</td>
+<td>
+<p>La concentración de cada sustancia en el agua para cría de moluscos o en la carne no deberá rebasar un nivel que provoque efectos nocivos en dichos moluscos y en sus larvas. Los efectos de sinergia de estos metales deberán ser tomados en consideración.</p>
+</td>
+<td>
+<p>Espectrometría de absorción atómica precedida, eventualmente, por una concentración y/o una extracción.</p>
+</td>
+<td>
+<p>Semestral.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10. Coliformes feclaes/100 g. E. coli/100 g.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Según se dispone</p>
+<p>en anexo I.</p>
+</td>
+<td>
+<p>Método de dilución con fermentación en sustratos líquidos con al menos cinco tubos con tres diluciones. Resiembra de los tubos positivos en medio de confirmación.</p>
+<p>Recuento según NMP (número más probable).</p>
+<p>Temperatura de incubación: 44 +/–, 0,5º C.</p>
+</td>
+<td>
+<p>Trimestral.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11. Sustancias que influyen en el sabor de los moluscos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Concentración inferior</p>
+<p>a la que pueda deteriorar el sabor de los moluscos.</p>
+</td>
+<td>
+<p>Examen gustativo de los moluscos cuando se presuma la presencia</p>
+<p>de una sustancia de esta índole.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>112. Saxitoxina.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr> </tr>
+</tbody>
+</table>
+
+Abreviaturas:
+
+G = Guía (indicativo).
+
+I = Obligatorio.
+
+> Redactado conforme a las correcciones de erratas publicadas en BOE núms. 134, de 5 de junio de 1993. [Ref. BOE-A-1993-14576](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-14576). y 152, de 26 de junio de 1993. [Ref. BOE-A-1993-16662](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-16662).

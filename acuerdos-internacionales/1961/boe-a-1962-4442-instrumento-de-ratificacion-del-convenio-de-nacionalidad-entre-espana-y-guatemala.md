@@ -1,0 +1,147 @@
+---
+title: "Instrumento de ratificación del Convenio de Nacionalidad entre España y Guatemala"
+identifier: "BOE-A-1962-4442"
+eli: "https://www.boe.es/eli/es/ai/1961/07/28/(1)"
+type: treaty
+rank: "Acuerdo Internacional"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 1961-07-28
+published: 1962-03-10
+in_force_from: 1962-02-01
+last_amended: 2001-04-12
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 60"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1962-4442"
+retrieved: 2026-10-11
+---
+
+# Instrumento de ratificación del Convenio de Nacionalidad entre España y Guatemala
+
+FRANCISCO FRANCO BAHAMONDE
+
+JEFE DEL ESTADO ESPAÑOL,
+
+GENERALÍSIMO DE LOS EJÉRCITOS NACIONALES
+
+Por cuanto el día 28 de julio de 1981 el Plenipotenciario de España firmó en la ciudad de Guatemala, juntamente con el Plenipotenciario de Guatemala, un Convenio de Nacionalidad entre el Estado Español y la República de Guatemala, cuyo texto certificado se inserta seguidamente:
+
+Su Excelencia el Jefe del Estado Español y
+
+Su Excelencia el Presidente de la República de Guatemala,
+
+Considerando:
+
+Los profundos vínculos espirituales y materiales que existen entre España y Guatemala;
+
+Que los españoles y los guatemaltecos forman parte de una comunidad caracterizada por la identidad de tradiciones, cultura y lengua;
+
+Que el Código Civil Español y la Constitución de la República de Guatemala concuerdan en facilitar la adquisición de la nacionalidad a los guatemaltecos en España y a los españoles en Guatemala, sin que pierdan la facultad de recuperar su anterior nacionalidad.
+
+Han decidido concluir un Convenio para identificar las nacionalidades española y guatemalteca, estableciendo normas recíprocas que los expresados vínculos hacen natural y deseable.
+
+A este fin, han designado por sus Plenipotenciarios:
+
+Su Excelencia el Jefe del Estado Español, al Excelentísimo Señor Doctor Ángel Sanz Briz, Embajador Extraordinario y Plenipotenciario de España;
+
+Su Excelencia el Presidente de la República de Guatemala, al Excelentísimo Señor Licenciado Jesús Unda Murillo, Ministro de Relaciones Exteriores
+
+Los cuales, después de haberse cambiado sus Plenos Poderes, hallados en buena y debida forma, han convenido en los artículos siguientes:
+
+## Artículo 1.
+
+Los guatemaltecos y los españoles de origen podrán adquirir la nacionalidad guatemalteca y española, respectivamente, sin perder su nacionalidad de origen, por el solo hecho de establecer domicilio en España o en Guatemala, según sea el caso, de conformidad con la legislación interna de cada una de las Partes; declarar ante la autoridad competente su voluntad de adquirir dicha nacionalidad y hacer las inscripciones correspondientes en los registros que determinen las leyes o disposiciones gubernativas del país de que se trate.Cada Parte, dentro de su territorio, únicamente reconocerá la propia nacionalidad, sin perjuicio de que se pueda aplicar a las personas que se acojan a los beneficios del presente Convenio la legislación de su nacionalidad de origen en lo que no sea incompatible con las leyes de la otra Parte.
+
+Asimismo, las personas a que se refiere el párrafo anterior podrán obtener y renovar sus pasaportes y documentos de identidad en alguna de las dos Partes o en ambas al mismo tiempo.
+
+> Se modifica por el art. 2 del Protocolo adicional de 19 de noviembre de 1999. [Ref. BOE-A-2001-7229](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-7229).
+
+## Artículo 2.
+
+**(Suprimido)**
+
+> Se suprime por el art. 3 del Protocolo adicional de 19 de noviembre de 1999. [Ref. BOE-A-2001-7229](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-7229).
+
+## Artículo 3.
+
+A los efectos del presente Convenio, se entiende adquirido el domicilio en aquel país en que se haya obtenido la residencia legal, permanente y continuada, de acuerdo a las condiciones y en la forma prevista por la legislación migratoria en vigor en cada uno de los Estados Contratantes.
+
+A los mismos efectos, las personas no podrán tener más que un domicilio internacional en relación a los Estados Contratantes, y será reconocido por ambos el último que se haya constituido en ellos.
+
+> Se modifica por el art. 1 del Protocolo de 10 de febrero 1995. [Ref. BOE-A-1996-15075](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-15075).
+
+## Artículo 4.
+
+**(Suprimido)**
+
+> Se suprime por el art. 3 del Protocolo adicional de 19 de noviembre de 1999. [Ref. BOE-A-2001-7229](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-7229).
+
+## Artículo 5.
+
+**(Suprimido)**
+
+> Se suprime por el art. 3 del Protocolo adicional de 19 de noviembre de 1999. [Ref. BOE-A-2001-7229](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-7229).
+
+## Artículo 6.
+
+**(Suprimido)**
+
+> Se suprime por el art. 3 del Protocolo adicional de 19 de noviembre de 1999. [Ref. BOE-A-2001-7229](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-7229).
+
+## Artículo 7.
+
+Cada uno de los Estados contratantes tendrá por satisfechas las obligaciones militares de tiempo de paz que las personas comprendidas en este Convento hayan cumplido en el otro Estado contratante, quedando el interesado sujeto, en todo caso, al requisito de inscribirse en el Ejército del país de su domicilio y en la situación militar que por su edad le corresponda.
+
+El ejercicio de los derechos civiles y políticos, regulado por la Ley del país del domicilio, no podrá surtir efectos en el país de origen, si ello lleva aparejada la violación de sus normas de orden público.
+
+> Se suprime el párrafo primero por el art. 3 del Protocolo adicional de 19 de noviembre de 1999. [Ref. BOE-A-2001-7229](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-7229).
+
+## Artículo 8.
+
+Las personas que gocen de los beneficios de este Convento no necesitarán de visado para entrar en el territorio de cualquiera de los Estados contratantes, bastando que tengan pasaporte válido expedido por las autoridades del país de su último domicilio.
+
+## Artículo 9.
+
+**(Suprimido)**
+
+> Se suprime por el art. 3 del Protocolo adicional de 19 de noviembre de 1999. [Ref. BOE-A-2001-7229](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-7229).
+
+## Artículo 10.
+
+Este Convenio será aplicable a los españoles y a los guatemaltecos de origen que hayan adquirido la nacionalidad guatemalteca o española, respectivamente, con anterioridad a su vigencia.
+
+> Se modifica por el art. 3 del Protocolo adicional de 19 de noviembre de 1999. [Ref. BOE-A-2001-7229](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-7229).
+
+## Artículo 11.
+
+Las Altas Partes contratantes se obligan a comunicarse por medio de las Embajadas respectivas las adquisiciones de nacionalidad y los cambios de domicilio que tengan lugar en aplicación del presente Convenio.
+
+## Artículo 12.
+
+Ambos Gobiernos se consultarán periódicamente con el fin de estudiar y adoptar las medidas conducentes para la mejor aplicación y uniforme interpretación de este Convento, así como las eventuales modificaciones y adiciones que de común acuerdo se estimen convenientes.
+
+## Artículo 13.
+
+El presente Convenio será ratificado por las dos Altas Partes contratantes y las ratificaciones se canjearán en la ciudad de Madrid, España, lo antes posible.
+
+Entrará en vigor a contar del día en que se realice el canje de ratificaciones y continuará indefinidamente su vigencia, a menos que una de las Altas Partes contratantes comunique a la otra, con un año de antelación por lo menos, su deseo de ponerle fin.
+
+En fe de lo cual, los respectivos Plenipotenciarios firman el presente Convenio por duplicado en la ciudad de Guatemala a los veintiocho días del mes de julio de mil novecientos sesenta y uno.
+
+Firmado: Ángel Sanz Briz.
+
+Firmado: Jesús Unda Murillo.
+
+Por tanto, habiendo visto y examinado los trece artículos que integran dicho Convenio, oída la Comisión de Tratados de las Cortes Españolas, en cumplimiento de lo prevenido en el artículo 14 de su Ley orgánica, vengo en aprobar y ratificar cuanto en ello se dispone, como en virtud del presente lo apruebo y ratifico, prometiendo cumplirlo, observarlo y hacer que se cumpla y observe puntualmente en todas sus partes, a cuyo fin, para su mayor validación y firmeza. Mando expedir este Instrumento de Ratificación firmado por Mi, debidamente sellado y refrendado por el infrascrito Ministro de Asuntos Exteriores.
+
+Dado en Madrid, a 25 de enero de 1962.
+
+FRANCISCO FRANCO
+
+El Ministro de Asuntos Exteriores,
+
+FERNANDO MARÍA CASTIELLA Y MAÍZ
+
+Las ratificaciones fueron canjeadas en Madrid el 1 de febrero de 1962.

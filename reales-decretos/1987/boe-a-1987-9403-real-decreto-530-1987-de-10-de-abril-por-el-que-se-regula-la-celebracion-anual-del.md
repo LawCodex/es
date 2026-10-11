@@ -1,0 +1,62 @@
+---
+title: "Real Decreto 530/1987, de 10 de abril, por el que se regula la celebración anual del Día de las Fuerzas Armadas"
+identifier: "BOE-A-1987-9403"
+eli: "https://www.boe.es/eli/es/rd/1987/04/10/530"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Defensa"
+date: 1987-04-10
+published: 1987-04-17
+in_force_from: 1987-05-07
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 92"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1987-9403"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 530/1987, de 10 de abril, por el que se regula la celebración anual del Día de las Fuerzas Armadas
+
+Celebrado en años anteriores con especial relieve el día de las Fuerzas Armadas en cada una de las Capitanías Generales, conforme a lo dispuesto en el Real Decreto 996/1978, de 12 de mayo, y con el propósito de ampliar la resonancia de la efeméride y subrayar la identificación de los Ejércitos con el pueblo español, del que forman parte y al que sirven, se extiende la solemne celebración anual del día de las Fuerzas Armadas, simultáneamente a todo el territorio nacional, coincidiendo, como es tradición con la conmemoración de la festividad de San Fernando.
+
+El día de las Fuerzas Armadas se configura como una jornada de encuentro y comunicación entre ciudadanos, civiles y militares, para acentuar su recíproca comprensión a tenor de lo establecido por la Constitución Española y el espíritu de las Reales Ordenanzas para las Fuerzas Armadas.
+
+La autoridad militar, en el ámbito de sus competencias, organizarán las actividades que mejor contribuyan a favorecer el conocimiento de los Ejércitos por todos los españoles, e impulsarán y participarán en cuantas otras puedan suscitarse, orientadas al fin descrito a iniciativa de otras instituciones o personas.
+
+En su virtud, a propuesta del Ministro de Defensa y previa deliberación del Consejo de Ministros en su reunión del día 10 de abril de 1987,
+
+DISPONGO:
+
+## Artículo 1.
+
+El Día de las Fuerzas Armadas se celebrará, con carácter anual, por las Unidades y Centros militares el sábado coincidente o más próximo al 30 de mayo, festividad de San Fernando.
+
+## Artículo 2.
+
+Con carácter excepcional y cuando así lo aconsejen las circunstancias, el Ministro de Defensa podrá autorizar la celebración de esta efeméride cualquier otro día próximo a tal fecha.
+
+## Artículo 3.
+
+En el Día de las Fuerzas Armadas el personal militar vestirá de gala y, en el ámbito del Ministerio de Defensa, se procederá al engalanado general de los edificios y buques.
+
+## Artículo 4.
+
+En fecha próxima al Día de las Fuerzas Armadas, y al objeto de propiciar que el pueblo español conozca mejor a sus ejércitos, las Unidades militares realizarán demostraciones de adiestramiento y desarrollarán actividades culturales, deportivas o de cualquier otra índole, con la programación y en la forma en que se ordene.
+
+## Artículo 5.
+
+Se autoriza al Ministro de Defensa para dictar cuantas disposiciones estime necesarias para desarrollar lo dispuesto en el presente Real Decreto.
+
+## Artículo 6.
+
+Queda derogado el Real Decreto 996/1978, de 12 de mayo, así como cuantas disposiciones se opongan a lo establecido en el presente Real Decreto.
+
+Dado en Madrid a 10 de abril de 1987.
+
+JUAN CARLOS R.
+
+El Ministro de Defensa,
+
+NARCÍS SERRA I SERRA

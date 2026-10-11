@@ -1,0 +1,679 @@
+---
+title: "Orden de 22 de febrero de 1996 para la aplicación y desarrollo del Reglamento General de la Gestión Financiera de la Seguridad Social, aprobado por el Real Decreto 1391/1995, de 4 de agosto"
+identifier: "BOE-A-1996-4581"
+eli: "https://www.boe.es/eli/es/o/1996/02/22/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Seguridad Social"
+date: 1996-02-22
+published: 1996-02-29
+in_force_from: 1996-03-01
+last_amended: 2007-03-29
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 52"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581"
+retrieved: 2026-10-11
+---
+
+# Orden de 22 de febrero de 1996 para la aplicación y desarrollo del Reglamento General de la Gestión Financiera de la Seguridad Social, aprobado por el Real Decreto 1391/1995, de 4 de agosto
+
+Incluye la corrección de errores publicada en BOE núm. 77, de 29 de marzo de 1996. [Ref. BOE-A-1996-7162](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-7162).
+
+El Reglamento General de la Gestión Financiera de la Seguridad Social, aprobado por el Real Decreto 1391/1995, de 4 de agosto, requiere de las necesarias previsiones normativas de aplicación y desarrollo del mismo. Así, por una parte, el artículo 4.4 encomienda a las normas de desarrollo del Reglamento la fijación de la forma y demás condiciones de remisión de la documentación recaudatoria por las entidades financieras, agrupaciones o asociaciones de las mismas a las Direcciones Provinciales de la Tesorería General de la Seguridad Social o a la unidad o centro que ésta determine. El artículo 5.1 prevé que las modificaciones en los abonos en cuenta se efectuarán mediante comunicación unitaria por cada entidad financiera cursada en los plazos que se establezcan y que deben fijarse por razones de operatividad. El artículo 11.1 remite a las disposiciones complementarias que cierren la regulación que de los medios de pago el propio Reglamento contiene. El artículo 13.1,b) y 2,c) atribuye al Ministerio de Trabajo y Seguridad Social la determinación del porcentaje de los anticipos de tesorería así como de la justificación de la aplicación o situación de los fondos de maniobra.
+
+Por otra parte, se considera muy conveniente que las normas sobre pagos en el sistema de la Seguridad Social contenidas en el Reglamento aprobado por el Real Decreto 1391/1995, de 4 de agosto, constituyan el núcleo integrador de las demás normas sobre pagos del sistema de la Seguridad Social, incluidas las relativas a los pagos de prestaciones del mismo, interrelacionando todas ellas y recogiéndolas en textos unitarios y actualizados. Así, el artículo 15 de aquel Reglamento ordena al Ministerio de Trabajo y Seguridad Social regular de forma especial el pago de las prestaciones de la Seguridad Social dentro de ciertos límites.
+
+Por todo ello, resulta necesario desarrollar las previsiones normativas del citado Reglamento General de la Gestión Financiera de la Seguridad Social, de forma que quede completada la regulación tanto de los movimientos financieros como de las distintas clases de pagos realizados por la Tesorería General de la Seguridad Social en un conjunto normativo unitario, cual el formado por el Reglamento General de la Gestión Financiera de la Seguridad Social y la presente Orden, superador de la fragmentaria regulación existente hasta los mismos.
+
+Por todo ello, este Ministerio, en uso de las atribuciones conferidas por la disposición final única del Reglamento General, aprobado por el Real Decreto 1391/1995, de 4 de agosto, ha tenido a bien disponer:
+
+## Sección 1.ª Normas generales
+
+### Subsección 1.ª Régimen y competencia
+
+#### Artículo 1. Régimen general y competencia funcional.
+
+1\. Las funciones que, en materia de cobros, pagos y demás actos de gestión financiera de los recursos del sistema de la Seguridad Social, atribuye a la Tesorería General de la Seguridad Social el Reglamento General de la Gestión Financiera de la Seguridad Social, aprobado por el Real Decreto 1391/1995, de 4 de agosto, se desarrollarán con arreglo a las normas contenidas en dicho Reglamento, a las establecidas en esta Orden y a las demás disposiciones complementarias.
+
+2\. Dichas funciones serán ejercidas, bajo la dirección, vigilancia y tutela del Ministerio de Trabajo y Seguridad Social, por los órganos centrales y provinciales de la Tesorería General de la Seguridad Social de acuerdo con las normas que, sobre distribución de funciones se contienen en esta Orden, en el Real Decreto 1314/1984, de 20 de junio, por el que se regula la estructura y competencias de la Tesorería General de la Seguridad Social, y en las demás disposiciones de aplicación y desarrollo de las mismas.
+
+### Subsección 2.ª Obligaciones de las entidades financieras y demás colaboradores y cuentas de ingresos y pagos
+
+#### Artículo 2. Obligaciones de las entidades financieras y demás colaboradores en la gestión recaudatoria de cuotas y conceptos de recaudación conjunta.
+
+1\. Las entidades financieras, agrupaciones o asociaciones de las mismas autorizadas por el Ministerio de Trabajo y Seguridad Social para actuar como colaboradores de la gestión recaudatoria de la Seguridad Social conforme a lo dispuesto en el número 1 del artículo 55 de la Orden por la que se desarrolla el Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social, aprobado por Real Decreto 1637/1995, de 6 de octubre, así como las cooperativas de crédito autorizadas al efecto conforme al número 2 del mismo artículo deberán remitir toda la información y documentación recaudatoria relativa a las cuotas de la Seguridad Social y conceptos objeto de recaudación ingresados en ellas al centro o unidad que determine el Director general de la Tesorería General de la Seguridad Social, conforme a lo dispuesto en el artículo 61.2 de dicha Orden.
+
+2\. Dentro de los cinco primeros días hábiles de cada mes y sin que en ningún caso pueda superarse el día diez natural del mismo, las entidades financieras comunicarán a los Servicios Centrales de la Tesorería General el importe total, desglosado por provincias, de lo recaudado en el mes anterior a través de toda su organización territorial. En los casos en que así se acuerde, la comunicación de lo recaudado se dará referida a todo el Estado o al ámbito geográfico que se determine. En ese mismo plazo las entidades financieras practicarán la anotación en extracto del abono de su recaudación en la cuenta única, con valor del último día hábil del mes anterior.
+
+Asimismo, en los diez primeros días hábiles del mes siguiente a aquel en que se hubiere efectuado el ingreso de las cotizaciones, sin que en ningún caso pueda superarse el día catorce natural de dicho mes, las entidades financieras deberán remitir a la Dirección Provincial de la Tesorería General de la Seguridad Social o a la unidad o centro que la misma determine la documentación recaudatoria relativa a las cotizaciones del mes anterior ordenada en la forma y demás condiciones establecidas en el Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social y demás disposiciones de aplicación y desarrollo del mismo.
+
+3\. Cualquier modificación, en más o en menos, que se produzca respecto del importe abonado a que se refiere el número anterior, se efectuará mediante una comunicación unitaria, por cada entidad financiera, con indicación de las provincias afectadas y con el debido desglose, que deberá ser cursada entre el sexto día hábil y el día catorce natural del mes siguiente al que se refiera la recaudación. El abono o cargo que resulte tendrá valor del último día hábil del mes anterior. La variación cursada hará coincidir, en su caso, el importe correcto con el de los resúmenes de las relaciones de operaciones a que se refiere el artículo 77 de la Orden de desarrollo del citado Reglamento General de Recaudación.
+
+4\. En el cómputo de los plazos a que se refieren los números precedentes, los días hábiles se contarán con referencia a los que así resulten del mercado de dinero interbancario.
+
+5\. Las relaciones de la Tesorería General de la Seguridad Social con las entidades financieras por operaciones correspondientes a las mencionadas cuentas únicas se mantendrán exclusivamente a través de la oficina de relación que cada entidad designe, de conformidad con la Dirección General de la Tesorería General de la Seguridad Social y en la que, a los efectos indicados, se entenderá domiciliada la citada cuenta única centralizada.
+
+A estos efectos, previa conformidad de la Tesorería General de la Seguridad Social, podrán agruparse diversas entidades financieras para establecer una cuenta única a nivel estatal.
+
+#### Artículo 3. Cuenta Unica Centralizada de Recursos Diversos.
+
+1\. La adjudicación de los servicios de la «Cuenta Unica Centralizada de Recursos Diversos» se efectuará por la Tesorería General de la Seguridad Social en favor de la entidad financiera, agrupación o asociación que ofrezca mayores y mejores condiciones a la Administración y a los ciudadanos y reúna los demás requisitos, generales o especiales, que se establezcan como bases del concurso público que se celebre al efecto.
+
+2\. La Tesorería General de la Seguridad Social podrá autorizar la apertura de «Cuentas de Recursos Diversos Provinciales» vinculadas a la «Cuenta Unica Centralizada de Recursos Diversos» a que se refiere el número 1 del artículo 6 del Reglamento General de la Gestión Financiera de la Seguridad Social, en las sucursales de la entidad financiera en la que se encuentre abierta la Cuenta Unica Centralizada de Recursos Diversos.
+
+#### Artículo 4. Clasificación de las cuentas de la Tesorería General.
+
+1\. Los recursos financieros del sistema de la Seguridad Social, así como los recursos ajenos al sistema cuya gestión de cobro se haya encomendado a la Tesorería General de la Seguridad Social, se situarán en las siguientes cuentas abiertas a nombre de la Tesorería General de la Seguridad Social:
+
+a) Cuenta Unica Centralizada abierta en el Banco de España, para el ingreso de las aportaciones del Estado a la Seguridad Social y de los demás entes públicos cuya gestión de ingresos y pagos se atribuya a la Tesorería General de la Seguridad Social así como para las demás operaciones con el Tesoro y con dichos entes públicos, a que se refiere el artículo 2 del Reglamento General de la Gestión Financiera de la Seguridad Social.
+
+b) Cuentas Unicas Centralizadas de la Tesorería General, abiertas en cada entidad financiera colaboradora, a que se refiere el artículo 4 del referido Reglamento General, tanto para la gestión de ingresos, situando en ellas los recursos procedentes de los cobros de cuotas y conceptos de recaudación conjunta y, en su caso, de los recargos e intereses sobre los mismos, como para la gestión de los pagos en ellas domiciliados.
+
+c) Cuenta Unica Centralizada de Recursos Diversos a que se refiere el artículo 6 del citado Reglamento General, así como las Cuentas de Recursos Diversos Provinciales vinculadas a la Cuenta Unica Centralizada de Recursos Diversos a que se refiere el número 2 del artículo 3 de esta Orden para situar los ingresos de los demás recursos de la Seguridad Social, distintos de los determinados en los apartados precedentes y de los depositados en cuentas especiales.
+
+d) Cuentas especiales restringidas abiertas en las entidades financieras para los ingresos y pagos de la cartera de valores a nombre de la Tesorería General de la Seguridad Social, depositados en las mismas.
+
+e) Cuenta de Fondos de Maniobra de la Tesorería General de la Seguridad Social de cada entidad o centro de gestión, para el depósito de los mismos.
+
+f) Cuenta de «Tesorería General de la Seguridad Social-Centro de Gestión», que aquélla abrirá en cada centro del Instituto Nacional de la Salud que pueda generar los recursos económicos a que se refiere la disposición adicional vigésima segunda del texto refundido de la Ley General de la Seguridad Social, a la que se transferirán, por el Tesorero público, los importes que resulten de la aplicación de lo previsto en el artículo 7 del Real Decreto 450/1995, de 24 de marzo, sobre ingreso en efectivo de recursos económicos de centros del Instituto Nacional de la Salud comprendidos en la indicada disposición adicional.
+
+g) Cuentas especiales restringidas para los ingresos por recaudación en vía ejecutiva.
+
+h) Las demás cuentas restringidas especiales que, al amparo de lo dispuesto en el artículo 1,d) y 6.2 del referido Reglamento General, considere necesarias el Director general de la Tesorería General de la Seguridad Social para los ingresos de recursos específicos del sistema y los ajenos al mismo encomendados a la Tesorería General de la Seguridad Social en los términos que dichos artículos señalan así como las cuentas pagadoras que considere pertinentes el Ordenador general de Pagos a los fines que el mismo determine, en las condiciones que para unas y otras se establezcan al autorizarse su apertura.
+
+2\. A efectos de lo dispuesto en el apartado anterior, las Direcciones Provinciales de la Tesorería General de la Seguridad Social, previa autorización del Subdirector general de Pagos y entidades colaboradoras de la misma, tendrán abiertas en las entidades financieras colaboradoras y a nombre de la Tesorería General de la Seguridad Social las cuentas necesarias para efectuar los pagos que la misma ordene en función del tipo de recurso de que se trate, de la naturaleza de las cuentas y de la red de oficinas que las entidades financieras tengan en la provincia, además de las que, como propias o vinculadas, tuvieren en la misma entidad financiera en la que esté situada la Cuenta Unica Centralizada de Recursos Diversos de la Tesorería General de la Seguridad Social.
+
+#### Artículo 5. Disponibilidad de fondos en las entidades financieras.
+
+1\. La Tesorería General mantendrá en cada entidad financiera colaboradora en la gestión de ingresos y pagos del sistema el saldo medio por valoración en los términos establecidos en el artículo 7.1 del Reglamento General de la Gestión Financiera de la Seguridad Social.
+
+A estos efectos, no se computará el último día del mes que figura como fecha valor de la recaudación abonada.
+
+2\. A efectos de lo dispuesto en el número anterior, se procederá a compensar con cinco días hábiles de su recaudación total, contados a partir del primer día de cada mes, a aquellas entidades financieras con un volumen de recaudación superior al de los pagos de prestaciones periódicas. Asimismo, y una vez ordenados los movimientos de fondos necesarios, se compensará con cinco días hábiles de su recaudación total al resto de las entidades financieras.
+
+Por excepción, en los meses en que deban abonarse pagos extraordinarios de prestaciones o en que concurran circunstancias especiales y la compensación a las entidades financieras no pueda operarse de conformidad con lo indicado en el párrafo anterior, se realizará en meses sucesivos con el límite del cómputo anual.
+
+3\. Los días hábiles a que se refieren los números anteriores se tomarán de los que así resulten del mercado de dinero interbancario.
+
+## Sección 2.ª Ordenadores de Pagos
+
+#### Artículo 6. Funciones de los Ordenadores secundarios de Pagos.
+
+1\. En los Servicios Centrales de la Tesorería General de la Seguridad Social, el Ordenador general de Pagos podrá atribuir al Ordenador secundario de Pagos en dichos Servicios Centrales las siguientes funciones:
+
+a) La elaboración del presupuesto monetario referido a cada año natural así como el seguimiento, actualización y ejecución del mismo.
+
+b) La previsión de los pagos del sistema de la Seguridad Social, elaborando las propuestas y presupuestos correspondientes.
+
+c) La confección de las propuestas de provisiones de fondos a las Direcciones Provinciales de la Tesorería General de la Seguridad Social.
+
+d) La expedición, en forma centralizada, de las órdenes de pagos y, en su caso, de los documentos de pago correspondientes para la realización material de los pagos centralizados.
+
+e) La tramitación de documentos presupuestarios y extrapresupuestarios en el procedimiento para el pago de las obligaciones del sistema, expidiendo las órdenes de pago de las obligaciones reconocidas y de las propuestas de pago efectuadas por el órgano competente de las entidades gestoras y servicios comunes de la Seguridad Social.
+
+f) Asumir el control y seguimiento del circuito financiero de la Tesorería General de la Seguridad Social así como las relaciones con las entidades financieras y demás colaboradores en el pago.
+
+g) La propuesta de movilizaciones de fondos necesarios al Ordenador general de Pagos.
+
+h) Las demás funciones que le atribuya expresamente el Ordenador general de Pagos.
+
+2\. A los demás Ordenadores secundarios de Pagos, el Ordenador general de Pagos podrá atribuirles las siguientes funciones:
+
+a) Una vez efectuado el reconocimiento de las obligaciones contraídas por los órganos competentes de las entidades gestoras y servicios comunes de la Seguridad Social y expedidas por los mismos las correlativas propuestas de pago, emitir las correspondientes órdenes de los pagos que estén descentralizados por acuerdo del Ordenador general de Pagos.
+
+b) Materializar el pago de las obligaciones reconocidas y de las propuestas de pago efectuadas por los órganos competentes y que no deban realizarse por otro órgano o agente habilitado específicamente por el Ordenador general de Pagos mediante nombramiento especial, suplencia o delegación de firma o delegación de competencias.
+
+c) Las demás funciones en materia de ordenación de pagos que no correspondan al Ordenador general de Pagos ni al Subdirector general de Pagos y entidades colaboradoras de la Seguridad Social y que desarrollarán dentro de su respectiva demarcación territorial, sin más excepciones que las materias que esta Orden y, en su caso, el Ordenador general de Pagos reserven a los órganos centrales de la Tesorería General de la Seguridad Social.
+
+#### Artículo 7. Delegaciones y suplencias de los Ordenadores de Pagos.
+
+1\. Los Ordenadores de Pagos de la Seguridad Social podrán delegar las funciones que les están atribuidas en materia de pagos en los términos establecidos en el artículo 13 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, así como en el artículo 23 de la Orden de 16 de noviembre de 1992, sobre delegación de atribuciones en el Ministerio de Trabajo y Seguridad Social.
+
+2\. Los Ordenadores de Pagos de la Seguridad Social, tanto general como secundarios, a que se refiere el artículo 9 del Reglamento General de la Gestión Financiera de la Seguridad Social, que lo sean por delegación de firma o por suplencia, se ajustarán, en el ejercicio de las mismas, a las previsiones específicas establecidas por el Director general de la Tesorería General de la Seguridad Social pero, en todo caso, las delegaciones de firma y las suplencias deberán comunicarse previamente tanto a los centros, unidades administrativas y organismos correspondientes como a la entidad financiera en la que se encuentre abierta la cuenta con cargo a cuyos fondos puedan ordenarse pagos.
+
+## Sección 3.ª Proceso general de pagos
+
+#### Artículo 8. Iniciación del proceso de pagos.
+
+El proceso de pagos de obligaciones por la Tesorería General de la Seguridad Social se inicia con la expedición de las propuestas de pago autorizadas por los órganos competentes de las entidades gestoras y servicios comunes de la Seguridad Social o de los organismos o entidades ajenas al sistema institucional de la Seguridad Social, cuya gestión de pago esté encomendada a dicha Tesorería General.
+
+#### Artículo 9. Normas generales de gestión del proceso de pagos.
+
+1\. Las unidades administrativas que tengan atribuidas la gestión de pagos y operaciones financieras en los Servicios Centrales de la Tesorería General o en sus Direcciones Provinciales así como otros Ordenadores secundarios de Pagos autorizados por la Tesorería General de la Seguridad Social son los únicos competentes para efectuar la gestión de pagos atribuidos a la Tesorería General de la Seguridad Social, emitiendo los documentos o relaciones provisionales precisos para su ordenación y, en su caso, para su ejecución material.
+
+2\. En base a la información recibida de los centros emisores, de acuerdo con el programa de pagos establecido y las disponibilidades financieras, el Ordenador general de Pagos determinará, en su caso, el orden de los que deben realizarse de forma inmediata.
+
+#### Artículo 10. Documentos para la gestión de pagos: Ordenes de pago.
+
+1\. Recibidas las propuestas de pago en los Servicios Centrales o Periféricos de la Tesorería General de la Seguridad Social, el Ordenador de Pagos competente librará las correspondientes órdenes de pago, que se harán efectivas con cargo a las cuentas en que estén situados los fondos de dicha Tesorería, acomodándose al calendario de pagos establecido para los diversos conceptos y a las disponibilidades financieras.
+
+Si las disponibilidades de fondos fueran insuficientes para hacer frente a la totalidad de los pagos propuestos, la ordenación de éstos se efectuará de acuerdo con el orden de prioridades dispuesto por el Ordenador general de Pagos.
+
+2\. Las órdenes de pago serán objeto de intervención formal de acuerdo con lo establecido en las normas por las que se regula la función interventora.
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 77, de 29 de marzo de 1996. [Ref. BOE-A-1996-7162](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-7162).
+
+#### Artículo 11. Documentos para la gestión de pagos: Medios de pago.
+
+1\. Expedidas las órdenes de pago se procederá, previa autorización por el órgano competente, a la materialización de los pagos correspondientes mediante la salida material o virtual de fondos, utilizándose para la salida material de los mismos el medio de pago elegido por el perceptor entre los previstos en los artículos 11 y 15 del Reglamento General de la Gestión Financiera.
+
+2\. Los distintos medios de pago a que se refiere el artículo 11 del referido Reglamento General se utilizarán en los supuestos y en las condiciones que en el mismo se determinan, sin perjuicio de lo especialmente dispuesto para determinados pagos.
+
+2.1 Las órdenes de transferencia constituirán el medio normal de pago de las obligaciones que deba realizar la Tesorería General de la Seguridad Social y se efectuarán con cargo a las cuentas de dicha Tesorería y con abono en la cuenta y entidad financiera, agrupación o asociación de las mismas elegidas por el perceptor.
+
+La titularidad de la cuenta y la identificación del código de la cuenta de cliente (c.c.c.) deberán acreditarse mediante documento expedido por la entidad financiera en la que la cuenta corriente se encuentre abierta, salvo respecto de las órdenes de transferencia para el pago de retribuciones y prestaciones económicas en las que, para acreditar la titularidad de la cuenta y el c.c.c., será suficiente que figuren en la solicitud del perceptor de unas y otras.
+
+Salvo que se trate de transferencias para el pago de retribuciones o prestaciones económicas de carácter periódico, en los demás pagos por transferencias de fondos desde las cuentas de la Tesorería General de la Seguridad Social en cada entidad financiera colaboradora, ésta deberá informar expresamente al perceptor de la realización de la transferencia.
+
+2.2 Para el pago de retribuciones y prestaciones económicas de carácter periódico y cuando no sea posible la transferencia, se utilizará el cheque bancario, que será siempre nominativo y expresará necesariamente la fecha hasta la que podrá ser presentado al pago entre las fijadas en el artículo 135 de la Ley 19/1985, de 16 de julio, Cambiaria y del Cheque.
+
+Salvo que otra cosa se halle expresamente establecida, los cheques que no hayan podido entregarse a sus titulares en el plazo de quince días, si el cheque fue emitido y pagadero en España, o en los demás plazos establecidos por la legislación mercantil, si se tratare de cheques emitidos en el extranjero y pagaderos en España, serán devueltos por los centros de gestión a la Dirección Provincial de la Tesorería General de la Seguridad Social para su posterior cancelación ante la entidad financiera librada.
+
+2.3 Los cheques bancarios serán cargados en la cuenta única de la entidad financiera con valor de la fecha de emisión que en los mismos figure y tendrán quince días de validez si el cheque es pagadero en España, salvo que especialmente se fije otra fecha de caducidad.
+
+2.4 El giro postal se utilizará para los pagos de prestaciones económicas y demás obligaciones de la Seguridad Social al perceptor que en su localidad de residencia no disponga de otro medio o modalidad de cobro y siempre con cargo al fondo de maniobra.
+
+3\. Cuando el pago se realice en metálico o mediante cheque, sea directamente al acreedor o sea a través de su representante, éstos firmarán el oportuno justificante de recepción. No obstante, cuando se trate de cheques que deban remitirse al acreedor, el envío se realizará por correo certificado o por cualquier medio que permita tener constancia de su recepción por aquél o por su representante así como de la fecha de la misma, conservándose la copia del correspondiente justificante de entrega.
+
+De las órdenes de transferencia se conservará un justificante de la entrega, con la fecha y firma de la recepción por parte de la entidad financiera.
+
+#### Artículo 12. Pagos centralizados y operaciones financieras de pago centralizado.
+
+1\. A efectos de lo dispuesto en esta Orden, se consideran pagos centralizados aquellos en los que la salida material o virtual de fondos se efectúa directamente por los Servicios Centrales de la Tesorería General de la Seguridad Social.
+
+1.1 Corresponde al Ordenador general de Pagos determinar los pagos que han de realizarse centralizadamente, para lo que cursará las oportunas instrucciones a los centros de gestión.
+
+1.2 En las propuestas de pago que formulen los diferentes centros de gestión, relativas a pagos centralizados, se consignará como caja pagadora los Servicios Centrales de la Tesorería General de la Seguridad Social.
+
+Asimismo, los reintegros que deban aplicarse al Presupuesto de Gastos y Dotaciones de la Seguridad Social derivados de pagos centralizados habrán de formalizarse por los Servicios Centrales de la Tesorería General de la Seguridad Social.
+
+2\. A efectos de esta Orden, se consideran operaciones financieras de pago centralizado aquellas en las que el mismo se realiza en dos fases, en una de las cuales los Servicios Centrales de la Tesorería General soportan la salida material de los fondos y, en la otra, las Direcciones Provinciales de la referida Tesorería General efectúan su formalización a las aplicaciones contables que, en cada caso, correspondan.
+
+2.1 Para estas operaciones, en las propuestas de pago que formulen los diferentes centros de gestión se consignará como caja pagadora la Dirección Provincial de la Tesorería General que realice la segunda de las fases antes indicadas, la forma de pago será la correspondiente a formalización y deberá figurar un último descuento que corresponda al líquido anticipado por los Servicios Centrales de la Tesorería General.
+
+2.2 Asimismo, los reintegros que deban aplicarse al Presupuesto de Gastos y Dotaciones de la Seguridad Social derivados de estas operaciones deberán formalizarse por la correspondiente Dirección Provincial de la Tesorería General.
+
+#### Artículo 13. Pagos sobre anticipos de tesorería y con cargo a los fondos de maniobra.
+
+1\. La cuantía de los anticipos de tesorería a que se refiere el artículo 13.1 del Reglamento General de la Gestión Financiera de la Seguridad Social no podrá superar el 1 por 100 del presupuesto de gastos en vigor de la entidad u organismo solicitante.
+
+2\. El fondo de maniobra previsto en el número 2 del artículo 13 del Reglamento General de la Gestión Financiera de la Seguridad Social, además de lo dispuesto en dicho artículo, se regirá por las reglas que se establecen en los apartados siguientes:
+
+2.1 A efectos del límite en la cuantía global del fondo de maniobra que establece el apartado b) del número 2 del artículo 13 del Reglamento General de la Gestión Financiera de la Seguridad Social, no podrá fraccionarse un único gasto en varios pagos.
+
+2.1.1 A través del fondo de maniobra, no podrán satisfacerse obligaciones derivadas de con venios de colaboración, de contratos administrativos y de contratos privados que celebren las Entidades Gestoras, Intervención General o el Servicio Común de la Seguridad Social, excepto en los supuestos siguientes:
+
+Contratos menores de suministros, de consultoría y asistencia y de servicios, a que se refieren los artículos 176 y 201 del texto refundido de la Ley de Contratos de las Administraciones Públicas.
+
+Contratos menores de obras hasta la cuantía de 2.000.000 de pesetas (12.020,24 euros).
+
+Contratos relativos a la prestación de asistencia sanitaria motivada por supuestos de urgencia, por importe inferior a 2.000.000 de pesetas (12.020,24 euros), regulado en el artículo 158.3 del texto refundido de la Ley de Contratos de las Administraciones Públicas.
+
+Los demás enumerados en el apartado b) del número 2 del artículo 13 del Reglamento General de la Gestión Financiera de la Seguridad Social.
+
+2.1.2 En todos los casos, los pagos a realizar con cargo a los fondos de maniobra de cada ente gestor no podrán superar el límite de disponibilidad de la respectiva cuenta.
+
+2.2 Corresponde al Ordenador general de Pagos determinar, por propia iniciativa o a propuesta de la respectiva Entidad Gestora o Intervención General, los centros de gestión que podrán disponer del fondo de maniobra a que se refiere este artículo, así como su importe en cada centro. Asimismo, autorizará las modificaciones y cancelaciones de dicho fondo de maniobra, sin que el mismo pueda exceder de los porcentajes máximos determinados en el apartado 2.a) del artículo 13 del Reglamento General de la Gestión Financiera de la Seguridad Social.
+
+2.2.1 Las propuestas cursadas al Ordenador general de Pagos deberán contener:
+
+a) Identificación numérica y nominativa de los centros de gestión que dispondrán de fondo de maniobra.
+
+b) Importe del fondo de maniobra que se propone asignar a cada centro de gestión.
+
+c) El número de cuentas abiertas en entidades financieras que precise cada centro de gestión.
+
+d) Solicitud de autorización para la existencia de importes en metálico en el centro de gestión, con indicación del responsable de la custodia de estos fondos.
+
+e) Conceptos presupuestarios a los que han de imputarse los gastos a satisfacer a través del fondo de maniobra, en la Entidad Gestora, Intervención General y Servicio Común de la Seguridad Social, justificando la necesidad de utilización del mismo, como alternativa a los circuitos financieros de pago de la Tesorería General de la Seguridad Social.
+
+Las citadas propuestas habrán de ser objeto de informe favorable por parte de la Intervención Delegada en los servicios centrales de la Entidad que formule la propuesta. Dicho informe se circunscribirá exclusivamente a la verificación del cumplimiento del límite señalado en el apartado 2.1 de este artículo.
+
+2.2.2 En el supuesto de creación de un nuevo centro de gestión al que se haya de dotar de fondo de maniobra, la constitución del mismo se efectuará conforme a lo dispuesto en el apartado anterior, reasignándose, en su caso, los importes que se autorizaron a cada centro de gestión.
+
+2.2.3 Para la dotación inicial de los fondos de maniobra o su ampliación, los Ordenadores de Pagos de la Tesorería General de la Seguridad Social librarán órdenes de pago extrapresupuestarias.
+
+2.2.4 La fiscalización previa de las órdenes de pago para la constitución o ampliación del fondo de maniobra se verificará conforme prescribe el Real Decreto 706/1997, de 16 de mayo, por el que se desarrolla el régimen de control interno ejercido por la Intervención General de la Seguridad Social.
+
+2.2.5 La supresión o minoración del fondo de maniobra de los centros de gestión será autorizada por el Ordenador general de Pagos, por propia iniciativa o a propuesta de la correspondiente Entidad Gestora o Intervención General de la Seguridad Social.
+
+Cuando se produzca la supresión o minoración de un fondo de maniobra, el centro de gestión al que afecte deberá reintegrar el importe total o parcial de dicho fondo, según proceda, en la cuenta de Recursos Diversos, abierta a nombre de la Tesorería General de la Seguridad Social en la entidad financiera adjudicataria de la misma, sin que pueda realizarse traspaso directo de dicho importe a otras cuentas distintas.
+
+2.2.6 Con objeto de evitar que la dotación fijada resulte excesiva, generándose recursos ociosos en la cuenta en que se sitúe el fondo de maniobra, el Ordenador general de Pagos, por propia iniciativa o a propuesta de la correspondiente Entidad Gestora o Intervención General de la Seguridad Social, determinará las minoraciones a efectuar.
+
+2.3 El importe de las órdenes de pago extrapresupuestarias que se expida para la dotación inicial o ampliación del fondo de maniobra se abonará por transferencia bancaria a la cuenta específica abierta en la entidad financiera, a nombre de la Tesorería General de la Seguridad Social, en el respectivo centro de gestión. A estos efectos, corresponde a la Tesorería General de la Seguridad Social:
+
+a) La apertura y cancelación de las cuentas en que se sitúen los fondos de maniobra. Se abrirán a nombre de la Tesorería General de la Seguridad Social bajo la denominación "Fondo de maniobra. Cuenta restringida de pagos", del centro de gestión correspondiente.
+
+b) La adjudicación de los servicios de la "Cuenta restringida de pagos del fondo de maniobra'' se efectuará por la Tesorería General de la Seguridad Social a favor de la entidad financiera, agrupación o asociación que ofrezca mayores y mejores condiciones a la Administración, de conformidad con la legislación de contratos de las Administraciones Públicas.
+
+No obstante, cuando existan causas que así lo justifiquen, el Ordenador general de Pagos podrá autorizar que el fondo de maniobra asignado a un centro se sitúe en cuentas abiertas en varias entidades financieras, así como la existencia en el centro de gestión de cantidades en metálico integrantes del fondo de maniobra, para atender necesidades imprevistas y gastos de menor cuantía, fijándose en la autorización el importe máximo autorizado.
+
+2.4 Los gastos y pagos que hayan de atenderse a través del fondo de maniobra deberán seguir la tramitación legalmente establecida en cada caso, en función del gasto de que se trate, y de la cual quedará constancia documental.
+
+2.4.1 El "páguese" del titular del centro de gestión correspondiente deberá figurar, como mínimo, en las facturas, recibos o cualquier otro justificante que refleje la reclamación o derecho del acreedor.
+
+2.4.2 Cuando existan gastos compartidos entre dos o más centros de gestión, deberá realizarse el pago de la totalidad de los mismos con cargo al fondo de maniobra de aquel centro que resulte obligado, según la normativa de aplicación o los negocios jurídicos suscritos, en cuyo caso los demás centros afectados deberán consignar como acreedor en los documentos contables presupuestarios que expidan al centro que anticipó el pago, circunstancia que dará lugar a las reposiciones que procedan, a través de la Tesorería General de la Seguridad Social o sus Direcciones Provinciales.
+
+2.5 En cada centro de gestión dotado de fondo de maniobra se designará la unidad administrativa responsable del mismo.
+
+2.5.1 En las Direcciones Generales de las Entidades Gestoras y del Servicio Común y en la Intervención General de la Seguridad Social, será competente para realizar la designación de la unidad administrativa responsable el respectivo Director general de la entidad o el Interventor general de la Seguridad Social.
+
+En las Direcciones Provinciales o, en su caso, Territoriales, dicha designación se efectuará mediante Resolución del Director provincial o territorial correspondiente.
+
+Cuando se trate de centros de gestión que no dependan de la Dirección Provincial, dicha designación corresponderá al Director general de la Entidad Gestora correspondiente.
+
+En el caso de las Gerencias de Atención Especializada y de Atención Primaria, la citada Resolución será dictada por el Gerente.
+
+2.5.2 La unidad administrativa ejercerá las siguientes funciones:
+
+a) Registrar las operaciones en la forma que determine al efecto la Intervención General de la Seguridad Social.
+
+b) Practicar los arqueos y conciliaciones bancarias que procedan.
+
+c) Rendir las cuentas que correspondan, con la estructura que determine la Intervención General de la Seguridad Social, en los términos regulados en el apartado 2.7 de este artículo.
+
+d) Conservar y custodiar los talonarios y matrices de los cheques o, en su caso, las relaciones que hubieran servido de base a su expedición por medios informáticos. En el supuesto de cheques anulados, deberá proceder a su inutilización y conservación a efectos de control.
+
+e) Verificar que los comprobantes facilitados para la justificación de los gastos y pagos consiguientes sean documentos auténticos y originales y que en ellos figura la autorización del pago del órgano correspondiente.
+
+f) Identificar la personalidad y comprobar la legitimación de los acreedores mediante la documentación procedente en cada caso.
+
+g) Efectuar los pagos conforme a lo establecido en los apartados 2.4 y 2.6 de este artículo.
+
+h) Requerir la justificación de la aplicación de las cantidades entregadas en concepto de anticipos (órdenes de viaje y entregas similares).
+
+i) Custodiar los medios líquidos que constituyen el fondo de maniobra.
+
+j) Ingresar los intereses que, en su caso, produzcan las cuentas bancarias de los fondos de maniobra en las cuentas de ingresos de la Tesorería General de la Seguridad Social.
+
+k) Aquellas otras que, en su caso, le encomiende el Ordenador general de Pagos.
+
+2.6 En los pagos efectuados por fondo de maniobra se podrán utilizar los medios de pago establecidos en el artículo 11 del Reglamento General de Gestión Financiera de la Seguridad Social.
+
+2.6.1 Toda disposición de fondos deberá ser autorizada mediante la firma mancomunada del jefe de la unidad administrativa responsable del fondo de maniobra y la del titular del centro de gestión o mediante la firma de los sustitutos que al efecto se hayan nombrado al designar la unidad administrativa a que se refiere el apartado anterior. Las citadas funciones podrán ser objeto de delegación de competencias o delegación de firma de acuerdo con los artículos 13 y 16 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. El pago requerirá siempre de la firma de dos personas físicas distintas.
+
+2.6.2 La realización de pagos mediante transferencia o cheque no conllevará gasto alguno para la Tesorería General de la Seguridad Social, ni para el perceptor del pago.
+
+De las órdenes de transferencia se conservará un justificante de la entrega, con la fecha y firma de la recepción por parte de la entidad financiera, o, en su defecto, la validación mecánica que la sustituya.
+
+2.6.3 Por pagos con cargo al fondo de maniobra en ningún caso podrán existir saldos negativos en la respectiva cuenta.
+
+2.7 Las unidades administrativas responsables de los fondos de maniobra rendirán cuentas justificativas de los gastos pagados con dicho fondo, a medida que sus necesidades de tesorería aconsejen la reposición de los fondos utilizados. Tal justificación y aplicación a presupuesto deberá hacerse, al menos, una vez al mes y necesariamente al cierre del ejercicio.
+
+2.7.1 La cuenta justificativa, acompañada de las facturas y demás documentos originales que acrediten la aplicación de los fondos debidamente relacionados, será aprobada por el titular del centro de gestión.
+
+2.7.2 Teniendo en cuenta las cantidades justificadas en las cuentas a que se refieren los apartados anteriores, se expedirán por el órgano gestor correspondiente los documentos contables que procedan.
+
+Dichos documentos se expedirán a favor del centro de gestión, con imputación, en su caso, a las aplicaciones presupuestarias a que correspondan los gastos realizados.
+
+2.7.3 La fiscalización previa de la reposición del fondo de maniobra y la intervención de la cuenta justificativa se efectuará conforme dispone el Real Decreto 706/1997, de 16 de mayo, por el que se desarrolla el control interno ejercido por la Intervención General de la Seguridad Social.
+
+2.7.4 Por los pagos justificados y una vez recibidas las propuestas de pago, la caja pagadora correspondiente de las Direcciones Provinciales o de los Servicios Centrales de la Tesorería General de la Seguridad Social procederá a expedir las correspondientes órdenes de pago a favor del centro de gestión y a reponer los fondos utilizados.
+
+2.8 Referidas al último día de cada mes, las unidades administrativas responsables del fondo de maniobra efectuarán arqueos de caja y conciliaciones bancarias.
+
+2.8.1 Los Interventores respectivos, por sí o por medio de funcionarios que al efecto se designen, podrán realizar en cualquier momento las comprobaciones que estimen oportunas.
+
+2.8.2 Para dar cumplimiento a lo dispuesto en el apartado 2.2.6 de este artículo, la Tesorería General de la Seguridad Social efectuará un control mensual del disponible utilizado en cada una de las cuentas del fondo de maniobra.
+
+2.8.3 Dentro de los quince días siguientes a la finalización de cada trimestre, las unidades administrativas responsables de la gestión de los fondos de maniobra formularán estados de situación del correspondiente fondo, referidos al último día del trimestre anterior, en los términos que establezca la Intervención General de la Seguridad Social.
+
+2.9 La contabilidad del fondo de maniobra y la estructura de las cuentas justificativas se ajustará a las normas que se establezcan por la Intervención General de la Seguridad Social.
+
+2.9.1 No podrá realizarse ningún pago con cargo al fondo de maniobra que no haya sido previamente registrado en el Sistema de Información Contable de la Seguridad Social, a excepción de aquellos que, no superando el importe individual de 24.958 pesetas (150 euros), se realicen en metálico o por giro postal, que se registrarán antes del fin de la jornada laboral del día en que se hubieran efectuado.
+
+Una vez registrados en el Sistema de Información Contable de la Seguridad Social, los pagos serán inmediatamente ejecutivos, sin perjuicio de las conciliaciones que procedan respecto a las operaciones en curso en fin de un determinado período.
+
+2.9.2 Será condición necesaria para que pueda realizarse cualquier pago por el fondo de maniobra que el perceptor figure previamente registrado en la base de datos de perceptores del Sistema de Información Contable de la Seguridad Social, así como la identificación de la cuenta corriente bancaria cuando el pago se realice por transferencia.
+
+A estos efectos, en el expediente en virtud del cual se proceda a la grabación, en el Sistema de Información Contable de la Seguridad Social, de los datos de un determinado perceptor deberá constar fotocopia simple del número de identificación fiscal del perceptor, que podrá ser sustituida en el caso de personas físicas por fotocopia simple de su documento nacional de identidad.
+
+Cuando el pago haya de realizarse por transferencia bancaria, deberá constar, además, en el referido expediente, fotocopia simple de cualquier documento emitido por la correspondiente entidad bancaria, que aporte el interesado, en el que figure el número identificativo de la cuenta, con la totalidad de los dígitos que conforman el mismo, incluidos los caracteres de control.
+
+2.9.3 Tratándose de pagos por el fondo de maniobra que deban realizarse al personal propio del centro de gestión o a pensionistas de la Seguridad Social, los datos identificativos a que se refiere el anterior apartado 2.9.2 podrán acreditarse por cualquier medio que asegure su adecuado registro, sin que resulte preciso acompañar las fotocopias que se mencionan.
+
+A estos efectos, previo el cumplimiento de los trámites que procedan, podrán incorporarse a la base de datos de perceptores del Sistema de Información Contable de la Seguridad Social los procedentes de otros sistemas de información de que disponga el Sistema de la Seguridad Social.
+
+2.9.4 A los efectos previstos en los anteriores apartados 2.9.1, 2.9.2 y 2.9.3, los Directores de los centros de gestión dispondrán lo necesario para que por la unidad administrativa responsable del fondo de maniobra se realice la grabación en el Sistema de Información Contable de la Seguridad Social de los datos precisos, en la forma que establezca la Intervención General de la Seguridad Social, y para que, con carácter previo al registro de los pagos, existan saldos suficientes en las cuentas bancarias que hayan de soportarlos o metálico suficiente, si se trata de pagos que se realicen por caja o giro postal.
+
+> Se modifica el apartado 2 por el art. único.1 de la Orden 12 de julio de 2001. [Ref. BOE-A-2001-14552](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-14552).
+
+> Redactado el apartado 2.3.b) conforme a la corrección de errores publicada en BOE núm. 184, de 2 de agosto de 2001. [Ref. BOE-A-2001-15036](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15036).
+
+> Téngase en cuenta que se prorroga hasta el 1 de enero de 2002 la fecha de la entrada en vigor de la Orden de 12 de julio de 2001, según establece el art. 2 de la corrección de errores publicada en BOE núm. 184, de 2 de agosto de 2001.
+
+#### Artículo 14. Otras peculiaridades del proceso general de pago de obligaciones de la Seguridad Social.
+
+1\. Los pagos por relación únicamente podrán realizarse cuando sus perceptores finales figuren en nóminas o documentos similares y respecto de los conceptos que se determinan en el apartado 3.7.10.3 del artículo 3.º de la Orden de 5 de marzo de 1992, sobre contabilidad y seguimiento presupuestario de la Seguridad Social.
+
+Esta forma de pago se ajustará a la tramitación prevista en los artículos 11 y siguientes del Reglamento General de la Gestión Financiera de la Seguridad Social, 17 y siguientes de esta Orden, 4 y siguientes de la citada Orden de 5 de marzo de 1992 y demás disposiciones complementarias, en función del carácter de la obligación objeto de pago por relación.
+
+2\. Los pagos por formalización serán aplicables en los supuestos y en las condiciones especiales que se hallen expresamente establecidos.
+
+3\. Los pagos en los que hayan de practicarse deducciones, descuentos o retenciones por acuerdo de la entidad gestora de la Seguridad Social conforme a lo dispuesto en el artículo 40 del texto refundido de la Ley General de la Seguridad Social, incluidas las cuotas del trabajador deducidas de prestaciones y las prestaciones indebidamente percibidas, por aplicación de tributos en los términos establecidos en las normas reguladoras de cada impuesto, en virtud de mandamiento judicial o administrativo, y, en general, cuando se hallen expresamente autorizados o establecidos, se efectuarán a los acreedores de dichas obligaciones mediante la expedición de la correspondiente orden de pago presupuestaria a favor de los mismos por el total de la obligación propuesta de pago pero sin que exista salida material de fondos respecto del importe total o parte de la misma que deba ser objeto de la deducción, descuento o retención. Este se abonará, mediante orden de pago extrapresupuestaria, al determinado como acreedor o perceptor del importe deducido, descontado o retenido, distinto del figurado en la orden de pago presupuestaria.
+
+4\. Los pagos con cargo a los saldos de las cuentas a que se refiere el apartado f) del artículo 4 de esta Orden serán ordenados por los Gerentes o Directores de los centros que hayan generado los recursos económicos a que se refiere el Real Decreto 450/1995, de 24 de marzo, que sean nombrados Ordenadores secundarios especiales de Pagos por el Ordenador general de Pagos de la Tesorería General de la Seguridad Social
+
+Estos pagos tendrán siempre carácter presupuestario, figurarán como pagos de la caja pagadora del centro de gestión correspondiente y su intervención formal y realización material se hará según lo dispuesto en el artículo 9 del citado Real Decreto 450/1995, de 24 de marzo.
+
+5\. Cuando, por causas excepcionales, no resultare posible el seguimiento de los trámites generales o especiales de los procesos de pagos de obligaciones de la Seguridad Social y fuere urgente la realización de los mismos, se procederá en los términos establecidos en el apartado 4.1.7 del artículo 4.º de la Orden de 5 de marzo de 1992.
+
+6\. Cuando por norma o por pacto se establezcan o acuerden otros procedimientos especiales u otras peculiaridades en los procesos de pago de las obligaciones de la Seguridad Social, se estará a lo especialmente establecido o, en su caso, a lo expresamente pactado, siempre que lo convenido no sea contrario a lo previsto en el Reglamento General de la Gestión Financiera de la Seguridad Social, en esta Orden y demás disposiciones complementarias.
+
+## Sección 4.ª Procesos especiales de pagos por la Tesorería General de la Seguridad Social
+
+### Subsección 1.ª Pago de prestaciones de la Seguridad Social
+
+#### Artículo 15. Primeros pagos de pensiones y de otras prestaciones periódicas y pagos de prestaciones a tanto alzado.
+
+1\. El sistema de pagos por relación mediante la emisión de nóminas de primeros pagos de pensiones y demás prestaciones periódicas de la Seguridad Social reconocidas por las entidades gestoras de la Seguridad Social o, en su caso, por las entidades colaboradoras correspondientes, y que no sean objeto de pago delegado por parte de las empresas o entidades que colaboran voluntariamente en la gestión de pagos de dichas prestaciones, contemplará la emisión diaria de tales nóminas:
+
+1.1 A estos efectos, las Direcciones Provinciales de las entidades gestoras de la Seguridad Social remitirán diariamente a las Direcciones Provinciales de la Tesorería General de la Seguridad Social la información que contenga la relación nominal de perceptores, las notificaciones para los interesados y la elección entre transferencia o cheque como medio de pago elegido.
+
+1.2 Si el medio de pago elegido para los primeros pagos de prestaciones fuera el cheque, se hará constar necesariamente como fecha de presentación al pago la que corresponda entre las fijadas en el artículo 135 de la Ley 19/1985, de 16 de julio, Cambiaria y del Cheque.
+
+1.3 La Tesorería General de la Seguridad Social determinará los procedimientos y mecanismos necesarios para el conocimiento y control de todos los pagos que se realicen a través de las entidades financieras y de los impagos que, en su caso, se produzcan.
+
+2\. En lo no previsto en el número precedente, el proceso de pago de las prestaciones a que los mismos se refieren se regirá por lo dispuesto en los artículos 9 y siguientes de esta Orden.
+
+#### Artículo 16. Pagos sucesivos de pensiones y de otras prestaciones periódicas de carácter económico: Medios y entidades colaboradoras en el pago.
+
+1\. Los titulares de pensiones y demás prestaciones periódicas de carácter económico, cuyo pago por relación mediante la emisión de las correspondientes nóminas mensuales esté encomendado a la Tesorería General de la Seguridad Social, o, en su caso, quienes los representen, podrán elegir tanto el medio de pago, con arreglo a lo previsto en el artículo 11 del Reglamento general de la gestión financiera de la Seguridad Social, como la entidad colaboradora en el pago de la prestación, entre las entidades financieras a que se refiere el artículo 3.1.a) del Reglamento general de recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio, así como sus agrupaciones o asociaciones, en los términos del artículo siguiente.
+
+Las citadas entidades financieras, así como sus agrupaciones y asociaciones, deberán figurar inscritas en el Registro de Colaboradores regulado en los artículos 19 del Reglamento general de la gestión financiera de la Seguridad Social y 32 de esta orden.
+
+2\. Los pagos de pensiones y de otras prestaciones económicas de carácter periódico por giro postal serán realizados mediante la entrega en los correspondientes servicios de correos de las libranzas de giros postales y relación de los mismos debidamente cumplimentadas por la correspondiente entidad gestora, acompañando cheque contra la cuenta del fondo de maniobra que se determine. En estos supuestos, la Tesorería General de la Seguridad Social deberá comprobar, a través del control de los fondos de maniobra, que concurren las condiciones previstas en el artículo 11.2.3 de esta orden.
+
+3\. La Tesorería General de la Seguridad Social podrá autorizar otros medios de pago cuando existan razones de interés general que así lo aconsejen. 4. La elección inicial del medio y de la entidad colaboradora en el pago de las prestaciones se formulará conjuntamente con la solicitud de prestación de que se trate.
+
+4.1 Las solicitudes de cambio del medio y de la entidad colaboradora en el pago podrán formularse en cualquier momento ante la entidad gestora que reconoció la prestación o ante la Tesorería General de la Seguridad Social.
+
+4.2 El pago de la pensión y demás prestaciones económicas periódicas a través del nuevo medio de pago o de la nueva entidad colaboradora elegidos se efectuará a partir del primer día hábil del segundo mes siguiente a aquel en que se hubiera formulado la solicitud del cambio.
+
+5\. Para la determinación del día hábil a que se refiere el artículo 15 del Reglamento general de la gestión financiera de la Seguridad Social se estará a lo dispuesto en el artículo 5.3 de esta orden.
+
+> Se modifica por el art. único.1 de la Orden TAS/763/2007, de 23 de marzo. [Ref. BOE-A-2007-6606](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-6606).
+
+> Se añade el apartado 5 por el art. único.2 de la Orden de 12 de julio de 2001. [Ref. BOE-A-2001-14552](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-14552).
+
+> Téngase en cuenta que se prorroga hasta el 1 de enero de 2002 la fecha de la entrada en vigor de la Orden de 12 de julio de 2001, según establece el art. 2 de la corrección de errores publicada en BOE núm. 184, de 2 de agosto de 2001. [Ref. BOE-A-2001-15036](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15036).
+
+#### Artículo 17. Pagos de pensiones y otras prestaciones económicas a través de entidades financieras.
+
+1\. Una vez elegida la entidad financiera o la agrupación o asociación de tales entidades pagadora de su prestación, los pensionistas y otros perceptores de prestaciones económicas periódicas podrán optar entre el cobro directo por ventanilla o el abono en cuenta. En este último caso, la cuenta o libreta abierta al efecto podrá adoptar, a elección de la entidad financiera, alguna de las modalidades siguientes:
+
+a) Cuenta corriente o libreta de ahorro restringidas, de titularidad del perceptor y necesariamente individual, con la única finalidad del abono de la pensión y de disposición exclusiva por el titular.
+
+b) Cuenta corriente o libreta de ahorro ordinarias, de titularidad del perceptor, que podrá ser individual o conjunta, figurando el beneficiario o, en su caso, su representante legal como uno de sus titulares. En este supuesto, la entidad financiera deberá hacerse responsable de la devolución a la Tesorería General de la Seguridad Social de las mensualidades que pudieran abonarse correspondientes al mes o meses siguientes al de la fecha de extinción, por fallecimiento, del derecho a la prestación de que se trate, sin perjuicio del derecho de la entidad financiera a repetir el importe de las prestaciones devueltas a la Tesorería General de la Seguridad Social de quienes las hubieren percibido indebidamente. Todo ello se entiende sin perjuicio asimismo del derecho de la Seguridad Social a descontar el importe de las prestaciones indebidamente percibidas o a exigir su reintegro directamente de quienes las hubieren percibido indebidamente en los términos establecidos con carácter general, con los efectos procedentes respecto de la entidad financiera que las hubiere devuelto a la Tesorería General.
+
+2\. Ordenado el pago, la disponibilidad de los abonos por pensiones u otras prestaciones periódicas en las cuentas corrientes o libretas de ahorro indicadas será total desde el primer día hábil del mes en que se realiza el pago.
+
+3\. Los abonos en dichas cuentas en ningún caso generarán gasto alguno para el perceptor de las prestaciones ni por la aplicación de fechas de valor ocasionarán intereses negativos en la cuenta corriente o libreta de ahorro en que se abone la pensión.
+
+4\. La entidad financiera pagadora no está obligada a remitir avisos o informes específicos de estos abonos, distintos de los fijados en las condiciones generales o particulares que para los contratos de cuenta a la vista tengan establecidos.
+
+5\. Las entidades financieras pagadoras comunicarán a la correspondiente entidad gestora, al menos una vez al año, la pervivencia de los titulares de aquellas pensiones y demás prestaciones periódicas que vengan satisfaciendo mediante abonos en cuenta. A estos efectos, la entidad pagadora podrá solicitar de la respectiva Dirección Provincial de la Tesorería General de la Seguridad Social que ésta requiera a la totalidad o parte de los titulares a quienes se hagan abonos en cuenta que acrediten dicha pervivencia.
+
+> Se modifica el apartado 1 por el art. único.2 de la Orden TAS/763/2007, de 23 de marzo. [Ref. BOE-A-2007-6606](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-6606).
+
+#### Artículo 18. Pagos de pensiones y otras prestaciones económicas a través de Graduados Sociales y Administradores de Residencias de Pensionistas.
+
+**(Derogado)**
+
+> Se deroga en la forma indicada por la disposición derogatoria única de la Orden TAS/763/2007, de 23 de marzo. [Ref. BOE-A-2007-6606](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-6606).
+
+#### Artículo 19. Remisión de los recibos de las prestaciones pagadas e impagadas.
+
+1\. Efectuado el correspondiente proceso de pago de las prestaciones no domiciliadas para su cobro por recibo a que se refieren los artículos precedentes y transcurrido el día 20 de cada mes, las entidades financieras, agrupaciones o asociaciones de las mismas remitirán a la respectiva Dirección Provincial de la Tesorería General de la Seguridad Social los recibos correspondientes a las pensiones y demás prestaciones económicas periódicas impagadas, así como nota del abono de las mismas en la cuenta única centralizada de cada entidad financiera.
+
+Asimismo, las entidades financieras remitirán a todas las Direcciones Provinciales los recibos de prestaciones pagadas, por el mismo orden de recepción, antes del día 25 de cada mes.
+
+2\. Respecto de las pensiones domiciliadas para su abono en cuenta, efectuado el correspondiente proceso de pago, aquellas entidades devolverán el soporte electrónico, informático o telemático relativo a las pagadas e impagadas, en las condiciones y plazos acordados con las mismas.
+
+#### Artículo 20. Pagos delegados de prestaciones.
+
+1\. Las prestaciones económicas de la Seguridad Social que deban abonarse por los empresarios o, en su caso, por el Instituto Nacional de Empleo en régimen de pago delegado se pagarán por los mismos medios, procedimientos y plazos que los salarios a los trabajadores en activo o las prestaciones a los trabajadores en situación de desempleo.
+
+2\. El importe de las prestaciones abonadas en régimen de pago delegado será objeto de compensación en los documentos de cotización presentados en plazo reglamentario en los términos establecidos en los artículos 77 del Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social y 74 de la Orden que lo desarrolla.
+
+Del importe de las prestaciones abonadas en régimen de pago delegado que no se hubieren compensado en los documentos de cotización presentados en plazo reglamentario, el sujeto responsable que las hubiere pagado podrá resarcirse solicitando la devolución del mismo ante la entidad gestora o colaboradora correspondiente.
+
+#### Artículo 21. Pagos de pensiones no contributivas.
+
+1\. El Instituto Nacional de Servicios Sociales o la Comunidad Autónoma que gestione pensiones no contributivas, una vez reconocidas tales prestaciones y fijados sus efectos económicos, elaborarán mensualmente, conforme a las especificaciones técnicas que se hallen establecidas, la relación de estos pensionistas con indicación de los importes a satisfacer y de la cuentas a través de las cuales han de transferirse las cantidades a abonar.
+
+2\. Recibidas por la Tesorería General las relaciones de perceptores, por los medios técnicos que la misma determine, procederá a ordenar su pago conforme a los procedimientos establecidos.
+
+3\. Efectuado el correspondiente proceso de pago de estas pensiones no domiciliadas para su cobro por recibo, las entidades financieras remitirán a las Direcciones Provinciales de la Tesorería General de la Seguridad Social información sobre los pagos e impagos del mes, con especificación del número de control de cada uno de ellos en la relación nominal de pensionistas, en las mismas fechas establecidas para los pagos de pensiones contributivas, con nota de abono en la cuenta unica centralizada de la Tesorería General de la Seguridad Social por el importe de las impagadas.
+
+Las Direcciones Provinciales de la Tesorería General de la Seguridad Social comunicarán las pensiones impagadas y remitirán la información de las mismas y copia de la documentación recibida al efecto de las entidades financieras a los Servicios Provinciales de las Comunidades Autónomas o, en su caso, del Instituto Nacional de Servicios Sociales, para que, una vez subsanados, si procede, los errores que dieron lugar a la devolución, se incluyan sus importes en nóminas sucesivas, con expresión de los períodos de devengo a que tales pagos se refieren.
+
+Respecto de las pensiones no contributivas domiciliadas para su abono en cuenta, se estará a lo previsto en el número 2 del artículo 19 de esta Orden.
+
+4\. El Instituto Nacional de Servicios Sociales, en colaboración con otras entidades gestoras de la Seguridad Social, Tesorería General de la Seguridad Social y Comunidades Autónomas, llevará el control de los abonos en cuenta corriente o en libreta de ahorro correspondientes a pensiones no contributivas que hayan podido producirse después de la extinción del derecho a la pensión, comunicando las pertinentes resoluciones definitivas a la respectiva Dirección Provincial de la Tesorería General de la Seguridad Social para que, en su caso, se proceda a su reclamación de acuerdo con lo previsto en el apartado 1.b) del artículo 17 de esta Orden.
+
+#### Artículo 22. Pagos de prestaciones motivadas por actos de terrorismo.
+
+Para la financiación y pago de las pensiones extraordinarias motivadas por actos de terrorismo, conforme a lo dispuesto en los Reales Decretos 1576/1990, de 7 de diciembre, y 851/1992, de 10 de julio, respecto de los afiliados al sistema de la Seguridad Social, se encuentren o no en situación de alta en alguno de sus regímenes, que sean reconocidas por la entidad gestora competente, se procederá en los términos establecidos en este número.
+
+Notificada la concesión de la pensión extraordinaria por actos de terrorismo, si el beneficiario de la misma no tuviere derecho a la correspondiente pensión ordinaria de la Seguridad Social, el coste íntegro de la pensión extraordinaria será financiado con cargo a los Presupuestos del Estado.
+
+Cuando el beneficiario de dicha pensión extraordinaria hubiere tenido derecho a causar la pensión ordinaria del sistema de la Seguridad Social, únicamente la diferencia entre la pensión extraordinaria y la pensión ordinaria de dicho sistema que hubiere podido corresponderle será financiada, asimismo, con cargo a los Presupuestos del Estado.
+
+A efectos de lo dispuesto en los apartados anteriores de este número, la Tesorería General de la Seguridad Social calculará el capital coste correspondiente a la pensión extraordinaria o, en su caso, a la diferencia entre el importe de ésta y el de la pensión ordinaria y notificará dicho capital coste al Ministerio de Economía y Hacienda, a efectos de su ingreso en la Tesorería General de la Seguridad Social.
+
+En todo caso, aunque no se haya ingresado el correspondiente capital coste en la Tesorería General de la Seguridad Social, una vez reconocida la pensión extraordinaria motivada por actos de terrorismo por la entidad gestora a los afiliados al sistema de la Seguridad Social, se iniciará el pago de la misma conforme al procedimiento de pago establecido para las pensiones del sistema de la Seguridad Social.
+
+#### Artículo 23. Pagos de prestaciones en el extranjero y de prestaciones extranjeras en España.
+
+1\. Para el pago de prestaciones de la Seguridad Social española a beneficiarios desplazados o residentes en países extranjeros o de prestaciones de otros sistemas de Seguridad Social a desplazados o residentes en España, se estará a lo especialmente pactado al respecto y, en defecto de pacto, las prestaciones reconocidas se pagarán por los medios de pago y a través de los procedimientos que cada país tenga establecidos para el pago de las prestaciones de su sistema de Seguridad Social a los beneficiarios del mismo:
+
+1.1 En todo caso, en los pagos de prestaciones de la Seguridad Social española por transferencias bancarias a cuentas en el extranjero se estará a lo dispuesto en el apartado 3.7.10.4 del artículo 3 de la Orden de 5 de marzo de 1992, sobre contabilidad y seguimiento presupuestario de la Seguridad Social.
+
+1.2 A petición del perceptor de la prestación reconocida al desplazado o residente en el extranjero, la materialización del pago podrá ser por trimestres o semestres naturales vencidos, aunque el devengo de aquélla sea mensual y sin que en ningún caso se generen intereses a favor del beneficiario.
+
+2\. Para la materialización de los pagos a que se refiere el número anterior, la Tesorería General de la Seguridad Social podrá acordar con las entidades financieras y demás colaboradores, cuando concurran circunstancias que así lo aconsejen, formas o procedimientos de pagos específicos, que garanticen el buen fin de los mismos.
+
+#### Artículo 24. Pago de pensiones y subsidios devengados y no percibidos por el causante a su fallecimiento.
+
+1\. Cuando fallezca un beneficiario de prestaciones económicas de la Seguridad Social, las pensiones o subsidios reconocidos, devengados y no percibidos se abonarán a sus herederos por derecho civil, a instancia de parte legítima y conforme a lo dispuesto en la presente Orden.
+
+Lo establecido en el apartado anterior no será de aplicación a las prestaciones económicas de la Seguridad Social a que tuviera derecho el titular a su fallecimiento, que hayan sido o deban ser abonadas a través de una entidad financiera mediante el sistema de abono en cuenta corriente o libreta de ahorro, salvo que en el momento de efectuarse el pago la cuenta corriente o la libreta de ahorro estuvieran ya canceladas, en cuyo supuesto se aplicará lo dispuesto en el apartado anterior.
+
+En caso de fallecimiento del beneficiario, la pensión se devengará hasta el último día del mes en que aquél se produjo y se abonará el primer día hábil del mes siguiente.
+
+2\. Las solicitudes sobre percepción de pensiones y subsidios reconocidos, devengados y no percibidos serán resueltas por las Direcciones Provinciales de la entidad gestora competente para declararlos, previa tramitación del correspondiente expediente encaminado al reconocimiento del derecho al percibo de la correspondiente pensión o subsidio, en beneficio de la comunidad hereditaria, sin perjuicio de la declaración judicial de herederos ab intestato, cuando proceda.
+
+3\. El importe de la pensión o subsidio reconocido, devengado y no percibido por un beneficiario a su fallecimiento podrá abonarse cuando la solicitud se formule en beneficio de la comunidad hereditaria, previa acreditación del fallecimiento del causante mediante certificación del acta de defunción y de la condición de heredero forzoso del solicitante, por cualquier medio de prueba admitido en derecho, a cualquiera de los hijos u otros descendientes, padres o demás ascendientes o al cónyuge supérstite.
+
+Cuando el solicitante del percibo de la pensión o subsidio devengado y no percibido haya solicitado, asimismo, una prestación de muerte y supervivencia como consecuencia del parentesco o de la situación que le unía con el causante, la condición de ser parte legitimada para cobrar el importe de la pensión o subsidio, así como el fallecimiento del causante, quedarán acreditados, en su caso, con los documentos cuya presentación se ha exigido para el reconocimiento de la prestación de muerte y supervivencia.
+
+4\. Cuando el percibo de la pensión o subsidio, reconocidos, devengados y no percibidos por el causante, sea solicitado por alguna persona distinta a las señaladas en el número anterior, a la solicitud se acompañará certificación del acta de defunción, o copia de la misma, del causante y certificación del Registro General de Actos de Ultima Voluntad, y se acreditará, asimismo, la condición de heredero y su grado de parentesco con el fallecido, extremos que podrán probarse por cualquier medio de prueba admitido en derecho.
+
+5\. Si durante la tramitación del expediente administrativo se acreditase que se ha solicitado la declaración de herederos ante los órganos jurisdiccionales del orden civil, se suspenderán las actuaciones y se estará a lo que en su día se resuelva por dichos Jueces o Tribunales.
+
+Cuando surjan controversias entre los herederos por derecho civil sobre derecho o mejor derecho al cobro de las pensiones o subsidios devengados y no percibidos, se suspenderá la tramitación del expediente a resultas de lo que los órganos judiciales competentes resuelvan.
+
+El planteamiento de las cuestiones a que se refiere este número 5 interrumpirá, en su caso, los plazos de prescripción del derecho al percibo de la pensión o subsidio devengado y no percibido.
+
+6\. El abono de estas prestaciones reconocidas, devengadas y no percibidas se efectuará, bien con cargo al fondo de maniobra o bien a través del circuito financiero de la Tesorería General de la Seguridad Social, una vez formalizada la correspondiente relación de prestaciones resueltas de pago inmediato por la respectiva entidad gestora o colaboradora, sin que sea precisa la materialización previa de la retrocesión de las cantidades ingresadas con anterioridad en la entidad financiera y sin perjuicio de lo dispuesto en los apartados 1.b) del artículo 17 y 4 del artículo 21 de esta Orden.
+
+En los casos de resolución aprobatoria de estas prestaciones cuya efectividad económica se halle condicionada al pago del Impuesto sobre Sucesiones y Donaciones, las operaciones conducentes a la materialización del abono de las prestaciones solamente se realizarán a partir del momento en que quede acreditado el pago o la exención de dicho impuesto.
+
+#### Artículo 25. Otros supuestos especiales en el pago de prestaciones de la Seguridad Social.
+
+Los primeros pagos de las pensiones y demás prestaciones económicas de la Seguridad Social de carácter periódico, los pagos de prestaciones de cuantía única y de los importes que no hayan sido hechos efectivos a los interesados en los quince días siguientes a su presentación al cobro y no tengan establecida otra forma especial de pago se abonarán por los medios y mediante los procedimientos que por la Tesorería General de la Seguridad Social se determinen.
+
+### Subsección 2.ª Pagos de prestaciones ajenas a las de la Administración de la Seguridad Social
+
+#### Artículo 26. Pagos de ayudas equivalentes a jubilaciones anticipadas por reconversión industrial y de ayudas previas a jubilación ordinaria.
+
+1\. Si para el pago de las ayudas equivalentes a jubilaciones anticipadas se hubiere optado por la modalidad de abono prevista en el número 1 del artículo 9 del Real Decreto 1990/1984, de 17 de octubre, mediante la suscripción del correspondiente Convenio entre la Tesorería General de la Seguridad Social y el Fondo de Promoción de Empleo, una vez abonado por la Tesorería General de la Seguridad Social al Fondo de Promoción de Empleo el importe de todas las ayudas de jubilación anticipada reconocidas a los trabajadores acogidos a dicho Fondo, para su pago por éste, conjuntamente con las ayudas complementarias a que se refiere el artículo 8 del citado Real Decreto, tanto el Instituto Nacional de Empleo como la Tesorería General de la Seguridad Social quedarán exentos de cualquier responsabilidad ulterior respecto del abono de tales ayudas a los trabajadores beneficiarios de las mismas.
+
+Cuando, para el pago de las ayudas equivalentes a jubilaciones anticipadas, el Fondo de Promoción de Empleo correspondiente o, en ausencia de éste, las empresas acogidas a un plan de reconversión hubiesen optado por la modalidad de pago prevista en el número 2 del artículo 9 del Real Decreto 1990/1984, de 17 de octubre, el pago de tales ayudas y de los complementos de las mismas a los trabajadores afectados se realizarán por la Tesorería General de la Seguridad Social en las mismas condiciones y plazos que las prestaciones del Sistema de la Seguridad Social, una vez ingresados en dicha Tesorería General los importes de las ayudas complementarias y de las cotizaciones a cargo del Fondo o de las empresas o garantizada su financiación en los términos previstos en los artículos 7.2 y 8 de la Orden de 31 de julio de 1985.
+
+2\. El pago de las ayudas previas a la jubilación ordinaria a los trabajadores afectados por procesos de reestructuración de empresas declarados beneficiarios de las mismas se llevará a cabo por la Tesorería General de la Seguridad Social:
+
+2.1 A efectos del pago de estas ayudas previas, la Dirección General de Trabajo, o el órgano correspondiente de la Comunidad Autónoma que las hubiere reconocido, dará traslado a la Tesorería General de la Seguridad Social, tanto de las resoluciones dictadas concediendo dichas ayudas como de la relación nominal de los trabajadores afectados, en la que conste el número de afiliación a la Seguridad Social de cada beneficiario y la valoración de la ayuda previa que se le haya reconocido, y expresando el número de anualidades en que ha de realizarse la aportación empresarial, su cuantía y vencimiento de los respectivos fraccionamientos de la aportación empresarial o, en su caso, que dicha aportación se realizará de una sola vez a la Tesorería General de la Seguridad Social.
+
+2.2 Efectuada la aportación empresarial o garantizados suficientemente los respectivos fraccionamientos de la misma con carácter previo al pago de las ayudas correspondientes, la Tesorería General de la Seguridad Social trasladará la relación a que se refiere el apartado anterior a la entidad gestora correspondiente para la realización del pago material de las ayudas figuradas en la relación por los mismos procedimientos de pago y en los mismos plazos que las prestaciones periódicas de la Seguridad Social.
+
+#### Artículo 27. Pago de prestaciones y subsidios por desempleo.
+
+1\. La autorización, disposición, obligación y propuesta de pago de las prestaciones y subsidios por desempleo corresponden al Instituto Nacional de Empleo, de acuerdo con lo dispuesto en el artículo 26 del Real Decreto 625/1985, de 2 de abril, ordenándose dicho pago conforme a lo determinado en el presente artículo:
+
+1.1 El pago material se realizará a través de los circuitos financieros de la Tesorería General de la Seguridad Social en los términos acordados con el Instituto Nacional de Empleo y las entidades financieras, sea por ingreso o domiciliación en cuenta o mediante pago en efectivo por la entidad financiera.
+
+A efectos de la habilitación de fondos para atender pagos por ventanilla, cada Dirección Provincial del Instituto Nacional de Empleo comunicará a la respectiva Dirección Provincial de la Tesorería General de la Seguridad Social y a los Servicios Centrales de dicho Instituto el importe de las nóminas correspondientes con una antelación mínima de cinco días hábiles a la fecha del pago material de estas prestaciones y subsidios.
+
+El Instituto Nacional de Empleo comunicará a los Servicios Centrales de la Tesorería General de la Seguridad Social el importe total de la nómina de prestaciones y subsidios por desempleo en todo el Estado, comprensiva tanto de los pagos por ventanilla como por ingreso o domiciliación en cuenta, con una antelación mínima de cuatro días hábiles a la fecha de pago.
+
+1.2 El pago material de estas prestaciones y subsidios a los beneficiarios de las mismas se efectuará entre los días 10 y 15 de cada mes, ambos inclusive, prorrogándose el período de pago cuando el mismo no comprenda cuatro días hábiles y hasta completar éstos.
+
+1.3 El pago en efectivo o por ventanilla de las prestaciones y subsidios por desempleo a los beneficiarios se realizará a través de las entidades financieras que determine la Tesorería General de la Seguridad Social, cuyo número será, en principio, de tres de ellas en cada provincia salvo que, a propuesta del Instituto Nacional de Empleo, o por propia iniciativa, la Tesorería General de la Seguridad Social autorice un número inferior o superior en la red de entidades financieras pagadoras en cada provincia, todo ello en función del número de beneficiarios, las posibilidades de pago de cada entidad financiera y las características de la provincia, de forma que se evite que existan entidades pagadoras no operativas y se asegure la atención adecuada a los beneficiarios.
+
+1.4 El pago por ventanilla se efectuará por la entidad financiera de forma directa al beneficiario de la prestación o subsidio por desempleo figurado en las nóminas remitidas al efecto por la Dirección Provincial del Instituto Nacional de Empleo y mediante la identificación y firma del correspondiente recibo, que será preceptivamente firmado por el mismo o por la persona en que el beneficiario hubiere delegado el cobro en los supuestos expresamente autorizados.
+
+1.5 El pago de estas prestaciones y subsidios por domiciliación en cuenta se efectuará de acuerdo con los procedimientos que se establezcan en los acuerdos celebrados al efecto.
+
+1.6 Las entidades financieras pagadoras devolverán dentro de los cinco días hábiles siguientes al de la finalización del período de pago de cada nómina, a través de su oficina principal en cada provincia, la documentación justificativa de los pagos efectuados y de los impagados a la Dirección Provincial del Instituto Nacional de Empleo y, asimismo, remitirán copia de la liquidación correspondiente a la Dirección Provincial de la Tesorería General de la Seguridad Social, sin perjuicio de lo que especialmente se establezca o acuerde respecto de las devoluciones por procedimientos electrónicos, informáticos o telemáticos.
+
+2\. El pago de la prestación o subsidio por desempleo parcial, en virtud de expediente de regulación de empleo por reducción temporal de la jornada ordinaria de trabajo en, al menos, un tercio, se efectuará por el sujeto obligado al que prestaran servicios los beneficiarios en el momento del reconocimiento de aquéllos y que actuará por delegación del Instituto Nacional de Empleo, salvo en los casos en que dicho Instituto asuma expresamente el pago directo o así lo determine la autoridad laboral, cuando la situación económica de la empresa así lo aconseje.
+
+El pago delegado a que se refiere el párrafo anterior tendrá lugar cuando la reducción de jornada se refiera al número de horas diarias de trabajo, simultaneándose trabajo y prestación, sin que sea de aplicación en los supuestos en que la reducción se efectúe por días completos de trabajo, los cuales tendrán, a estos efectos, la consideración de desempleo total por suspensión de la relación laboral:
+
+2.1 En los casos de pago delegado de prestaciones de desempleo, el empresario se reintegrará del importe de las prestaciones y subsidios por desempleo que hubiera abonado, compensando dicho importe en los documentos de cotización presentados en plazo reglamentario con el de las cuotas de la Seguridad Social correspondientes al mismo período, cualquiera que sea el momento del pago de tales cuotas, o deduciendo su importe en dichos documentos en los términos establecidos en el artículo 77.2 del Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social, aprobado por el Real Decreto 1637/1995, de 6 de octubre, y demás disposiciones complementarias.
+
+2.2 Lo dispuesto en el epígrafe anterior se entiende sin perjuicio del derecho de los empresarios que hubieren abonado dichas prestaciones y subsidios por desempleo en forma delegada para solicitar el pago de sus respectivos créditos del Instituto Nacional de Empleo.
+
+3\. **(Derogado)**
+
+4\. **(Derogado)**
+
+5\. **(Derogado)**
+
+> Se derogan los apartados 3 y 4 por la disposición derogatoria del Real Decreto 200/2006, de 17 de febrero. [Ref. BOE-A-2006-3767](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3767).
+
+> Se deroga el apartado 5 por la disposición derogatoria única del Real Decreto 426/2003, de 11 de abril. [Ref. BOE-A-2003-7616](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-7616).
+
+#### Artículo 28. Pagos de las prestaciones a los afectados por el síndrome tóxico, de los subsidios de la Ley 13/1982, de 7 de abril, y de las demás prestaciones o beneficios ajenos a los de la Seguridad Social.
+
+1\. La financiación y el pago de las prestaciones reconocidas a los afectados por el síndrome tóxico, conforme a lo dispuesto en los Reales Decretos 2289/1981, de 2 de octubre; 2448/1981, de 19 de octubre, y 1276/1982, de 18 de junio, se efectuará por los Servicios Centrales y las Direcciones Provinciales de la Oficina de Gestión de Prestaciones Económicas y Sociales del Síndrome Tóxico, por el procedimiento especial de pago establecido en este número:
+
+1.1 Las prestaciones económicas y sociales reconocidas a los afectados por el síndrome tóxico se financiarán con las aportaciones del Estado consignadas al efecto en las correspondientes Leyes de Presupuestos Generales del Estado, sin perjuicio de que la Tesorería General de la Seguridad Social efectúe los anticipos a cuenta necesarios para el pago de las mismas, de los que se reintegrará con cargo a dichas consignaciones presupuestarias o, en su caso, con cargo a los créditos extraordinarios tramitados en la forma establecida al efecto.
+
+1.2 Todos los pagos de las prestaciones económicas y sociales reconocidas a los afectados por el síndrome tóxico se realizarán a través de órdenes de pagos no presupuestarios, las cuales, con sus correspondientes índices y documentos para la ejecución material de los mismos, deberán extenderse por los Servicios Centrales o Direcciones Provinciales de la Oficina de Gestión de Prestaciones Económicas y Sociales del Síndrome Tóxico, que ejercerán las facultades que en los procesos de pago de prestaciones de la Seguridad Social corresponden a las entidades gestoras de la misma, y elaborarán el presupuesto mensual de tesorería en el que figure el importe estimado de anticipo o anticipos que se prevean necesarios para el pago de estas nóminas cada mes, tramitándose las órdenes de pago y demás documentación expedida de acuerdo con el proceso general establecido para el pago de prestaciones de la Seguridad Social en el artículo 15 del Reglamento General de la Gestión Financiera de la Seguridad Social y en los artículos 15 y siguientes de esta Orden. Dichos documentos deberán ser presentados en las Direcciones Provinciales de la Tesorería General de la Seguridad Social al menos con seis días hábiles de antelación a la fecha prevista para la ejecución material de los pagos de las prestaciones y ayudas a que se refieren.
+
+1.3. La provisión material del importe de los anticipos por parte de las Direcciones Provinciales de la Tesorería General de la Seguridad Social se efectuará con cargo a la cuenta existente en la entidad financiera que se determine, situando el importe de los anticipos en una cuenta corriente especial para el pago de prestaciones económicas y sociales del síndrome tóxico, que no admitirá ningún otro tipo de ingresos, salvo los que correspondan a retrocesiones de pagos.
+
+No obstante, el Ordenador general de Pagos podrá autorizar a las respectivas Direcciones Provinciales de la Tesorería General de la Seguridad Social para que, de acuerdo con los Servicios Centrales y las Direcciones Provinciales de la Oficina de Gestión de Prestaciones Económicas y Sociales del Síndrome Tóxico, abran una cuenta corriente en la oficina principal de la entidad financiera que determinen, destinada exclusivamente a recoger intereses, devoluciones o reintegros de las prestaciones y ayudas indebidamente percibidas y cuyo saldo deberá ser transferido automáticamente, dentro de los cinco primeros días del mes siguiente, a las Cuentas de Recursos Diversos Provinciales asociadas a la Cuenta Unica Centralizada de Recursos Diversos, a que se refiere el número 2 del artículo 4 de esta Orden.
+
+En el mismo plazo, las entidades financieras con cuenta abierta a estos efectos remitirán, tanto a la Oficina de Gestión de Prestaciones Económicas y Sociales del Síndrome Tóxico como a las Direcciones Provinciales de la Tesorería General de la Seguridad Social, extracto de la cuenta corriente de cada mes, en los términos establecidos con carácter general:
+
+1.4 El pago material de estas prestaciones se realizará por las Direcciones Provinciales de la Tesorería General de la Seguridad Social conforme al proceso de pagos establecido con carácter general, sin perjuicio de que, por razones de urgencia u otras circunstancias especiales, las mismas puedan ser satisfechas directamente por las Direcciones Provinciales del Instituto Nacional de la Salud, por el procedimiento de pagos a través del fondo de maniobra.
+
+2\. Para el pago de los subsidios reconocidos al amparo de la Ley 13/1982, de 7 de abril, de Integración Social de los Minusválidos, el Instituto Nacional de Servicios Sociales y la Tesorería General de la Seguridad Social procederán, en los términos establecidos en los artículos 15 y siguientes de esta Orden, para el pago de prestaciones de la Seguridad Social, sin otras particularidades que las siguientes:
+
+2.1 La financiación de estos subsidios será con cargo a las correspondientes asignaciones de los Presupuestos Generales del Estado.
+
+2.2 Dicha financiación, incluidos los gastos de administración que la gestión de las prestaciones lleve consigo, se hará efectiva mediante la transferencia anual de las correspondientes consignaciones específicas de los Presupuestos Generales del Estado a los de la Seguridad Social.
+
+3\. Para el pago de otras prestaciones, beneficios o ayudas distintos de los de la Seguridad Social y de los indicados en los números precedentes de este artículo, a través de los procedimientos y mecanismos de pago de la Tesorería General de la Seguridad Social, el Ordenador general de Pagos de la misma, en defecto de normas especiales o de acuerdo específico, dictará las instrucciones necesarias para la ejecución material de los mismos, sin perjuicio de las facultades de gestión y fiscalización atribuidas a la entidad gestora e Intervención correspondientes.
+
+### Subsección 3.ª Pagos a mutuas y a entidades titulares de ingresos efectuados en la Tesorería General de la Seguridad Social y de servicios transferidos
+
+#### Artículo 29. Pagos a Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social.
+
+1\. La Tesorería General de la Seguridad Social, dentro de sus disponibilidades financieras, transferirá periódicamente a cada Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, a cuenta de la liquidación definitiva que corresponda por las cotizaciones de los sujetos obligados que tengan concertada con la misma la cobertura de las contingencias profesionales y, en su caso, la protección por incapacidad temporal derivada de contingencias comunes, una cantidad determinada en base a la recaudación obtenida en el mismo período del ejercicio anterior.
+
+2\. En función de la documentación recaudatoria recibida, la Tesorería General de la Seguridad Social determinará la recaudación real correspondiente a cada Mutua, deduciendo de la misma el importe de las cantidades que procedan por las obligaciones que las Mutuas deban satisfacer al Sistema de la Seguridad Social en los términos establecidos en el Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social y demás disposiciones de aplicación y desarrrollo, así como el de las demás deducciones que se establezcan.
+
+3\. La diferencia entre la recaudación a que se refiere el número anterior y la cantidad a cuenta transferida a cada Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, a que se refiere el número 1 de este artículo, será objeto de la correspondiente regularización periódica.
+
+#### Artículo 30. Pagos de los importes ingresados en la Tesorería General de la Seguridad Social y correspondientes a terceros.
+
+La Tesorería General de la Seguridad Social transferirá los fondos que de la documentación recaudatoria resulten a favor de los organismos y entidades distintos de las entidades gestoras de la Seguridad Social y de dicha Tesorería General, por cuya cuenta ésta hubiere efectuado la recaudación o cobro de cuotas, aportaciones u otros conceptos, conjuntamente con las cuotas de la Seguridad Social, una vez deducidos, en todo caso, los premios de cobranza y demás gastos de gestión que se hayan establecido o acordado, así como el importe de cualquier otro crédito de la Tesorería General de la Seguridad Social frente a tales entidades u organismos, en los términos establecidos en el artículo 78 de la Orden de desarrollo del Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social, aprobado por el Real Decreto 1637/1995, de 6 de octubre.
+
+#### Artículo 31. Pagos por servicios transferidos a las Comunidades Autónomas.
+
+1\. Para la realización de pagos relativos a servicios de la Seguridad Social transferidos a las Comunidades Autónomas que deban seguir financiándose con fondos de aquélla, la entidad gestora respectiva remitirá a la Tesorería General de la Seguridad Social los documentos contables correspondientes con cargo a los créditos presupuestarios aprobados.
+
+Las propuestas de pagos se efectuarán en favor de las distintas Comunidades Autónomas antes del día 5 de cada mes natural o en los plazos que se acuerden y hasta la dozava parte o, en su caso, hasta la cuantía pactada, respecto del importe total de los créditos consignados.
+
+2\. A efectos de lo dispuesto en el número anterior, la Tesorería General de la Seguridad Social efectuará mensualmente una o varias transferencias desde su cuenta en el Banco de España a la cuenta de titularidad de la Comunidad Autónoma respectiva en la entidad financiera que la misma determine, según la modalidad concertada con cada una de las Comunidades destinatarias de los fondos transferidos y en los plazos especialmente establecidos o acordados.
+
+3\. Las Comunidades Autónomas y la Tesorería General de la Seguridad Social, cuando no exista regulación expresa al efecto, podrán formalizar acuerdos con objeto de establecer los plazos en que se efectuarán las transferencias de fondos, así como las compensaciones y deducciones que en los mismos se determinen.
+
+## Sección 5.ª Registro de Colaboradores de la Tesorería General de la Seguridad Social
+
+#### Artículo 32. Registro de Colaboradores en los Ingresos y Pagos del Sistema de la Seguridad Social.
+
+1\. Por la Tesorería General de la Seguridad Social se llevará un Registro de Colaboradores en la Gestión de Ingresos y Pagos del Sistema de la Seguridad Social, en el que en secciones separadas figurarán, respectivamente, los colaboradores en la gestión recaudatoria de los recursos del sistema de la Seguridad Social a que se refieren los artículos 7 del Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social y 3 y siguientes de la Orden que lo desarrolla y los colaboradores en el pago de obligaciones de la Seguridad Social a que se refieren los artículos 3 y 4 del Reglamento General de la Gestión Financiera de la Seguridad Social y 16 y siguientes de esta Orden.
+
+2\. En el Registro de Colaboradores a que se refiere el número anterior se inscribirán tanto los colaboradores que en la fecha de entrada en vigor de esta Orden tengan ya atribuida la colaboración en la gestión de ingresos y pagos del sistema de la Seguridad Social por disposiciones específicas, a consecuencia de autorización administrativa o en virtud de concierto, como los que con posterioridad a dicha fecha adquieran tal carácter por cualquiera de los títulos indicados.
+
+3\. La Sección del Registro de Colaboradores en la Gestión de Ingresos y la Sección del Registro de Colaboradores en la Gestión de Pagos del Sistema de la Seguridad Social se subdividirán en tres Subsecciones, en las que se efectuarán, por orden correlativo, las inscripciones de los respectivos colaboradores por disposición especial, autorización administrativa o concierto.
+
+4\. La inscripción en cada Subsección de las Secciones del Registro de Colaboradores de la Tesorería General de la Seguridad Social, se efectuará por las fechas de la comunicación de haberse iniciado la colaboración atribuida por disposición especial, de la comunicación de la autorización administrativa o de la recepción de copia del concierto celebrado, y deberá reflejar, al menos, los siguientes datos:
+
+4.1 Número de orden.
+
+4.2 Fecha de iniciación de la colaboración atribuida por disposición especial, autorización administrativa o concierto.
+
+4.3 Denominación del colaborador, domicilio del mismo y número o código de identificación fiscal.
+
+4.4 Ambito territorial de actuación.
+
+4.5 Ambito funcional de la colaboración, especificándose en la respectiva Subsección si, además, es colaborador en los pagos o si lo es también en los ingresos.
+
+4.6 En su caso, cese en la colaboración y causa del mismo.
+
+5\. El Registro de Colaboradores será público y cualquier persona interesada en los ingresos y pagos del sistema de la Seguridad Social tendrá acceso al mismo pudiendo ser informada de su contenido, sin perjuicio de la protección de los datos personales automatizados de dicho Registro, concernientes a personas físicas identificadas o identificables conforme a lo establecido en el artículo 20 del Reglamento General de la Gestión Financiera de la Seguridad Social.
+
+#### Disposición adicional primera. Concurso para la adjudicación de la Cuenta Unica Centralizada de Recursos Diversos.
+
+En el plazo del año siguiente a la entrada en vigor de esta Orden deberá celebrarse el concurso público para la adjudicación de las cuentas a que se refiere el artículo 3 de la misma.
+
+#### Disposición adicional segunda. Documentación a remitir a la Dirección General de Planificación y Ordenación Económica de la Seguridad Social.
+
+Con independencia del acceso a la información que resulte necesaria para el ejercicio, por parte del Ministerio de Trabajo y Seguridad Social, de las funciones de dirección, vigilancia y tutela sobre la gestión desarrollada por la Tesorería General de la Seguridad Social conforme a lo dispuesto en el artículo 1.3 del Reglamento General de la Gestión Financiera de la Seguridad Social, dicha Tesorería General deberá dar cuenta inmediata a la Dirección General de Planificación y Ordenación Económica de la Seguridad Social de la Memoria explicativa y estados numéricos que conforman el Presupuesto Monetario Anual del Sistema establecido en el artículo 8 del referido Reglamento, así como de las sucesivas actualizaciones del mismo en sus respectivas fases de previsión, seguimiento y ejecución final.
+
+#### Disposición adicional tercera. Singularidades de determinadas Comunidades Autónomas.
+
+Lo dispuesto en los artículos 21 y 31 de la presente Orden no será aplicable a los pagos de pensiones no contributivas y a los de los subsidios de la Ley 13/1982, de 7 de abril, así como de los servicios transferidos gestionados por las Comunidades Autónomas de Navarra y del País Vasco y, en su caso, por cualquier otra Comunidad Autónoma, en las que la financiación y pago de los mismos se efectuarán en los términos establecidos en los respectivos Acuerdos y Reales Decretos de transferencias.
+
+#### Disposición adicional cuarta. Puesta en funcionamiento del Registro de Colaboradores de la Tesorería General de la Seguridad Social.
+
+El Registro de Colaboradores de la Tesorería General de la Seguridad Social, a que se refiere el artículo 32 de esta Orden, tanto en la Sección de Colaboradores en la Gestión de Ingresos como en la Sección de Colaboradores en la Gestión de Pagos del Sistema de la Seguridad Social, deberá ser operativo a partir del día 1 del sexto mes siguiente al de entrada en vigor de esta Orden.
+
+#### Disposición adicional quinta. Transferencias a las Mutuas durante 1996 por la cobertura de la incapacidad temporal por contingencias comunes.
+
+En el ejercicio de 1996, las cantidades que, por la cobertura de la incapacidad temporal debida a contingencias comunes, la Tesorería General de la Seguridad Social deba transferir a la correspondiente Mutua de Accidentes de Trabajo y Enfermedades Profesionales, serán, al menos, las mismas que en el respectivo período los obligados al pago de cuotas hubieren compensado por prestaciones por incapacidad temporal debidas a contingencias comunes en los documentos de cotización presentados en plazo reglamentario.
+
+#### Disposición derogatoria única.
+
+1\. A la entrada en vigor de la presente Orden quedan derogadas:
+
+1.1 La Orden de 14 de abril de 1980, por la que se regula la forma de pago de las pensiones del sistema de la Seguridad Social.
+
+1.2 La Orden de 9 de febrero de 1988, sobre cobro de pensiones y subsidios devengados y no percibidos.
+
+1.3 La Orden de 27 de octubre de 1992, por la que se modifica la de 9 de febrero de 1988.
+
+2\. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Orden.
+
+#### Disposición final primera. Habilitación a la Tesorería General de la Seguridad Social.
+
+En lo no previsto en el Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social y disposiciones complementarias, así como en el Reglamento General de la Gestión Financiera de la Seguridad Social y en esta Orden, la información que deban remitir a la Tesorería General de la Seguridad Social los colaboradores en la gestión de ingresos y pagos del sistema de la Seguridad Social se ajustará a las instrucciones que dicha Tesorería dicte en atención a la naturaleza o clase de los ingresos, pagos u operaciones de que se trate.
+
+#### Disposición final segunda. Entrada en vigor.
+
+Lo dispuesto en la presente Orden entrará en vigor a partir del día 1 del mes siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 22 de febrero de 1996.
+
+GRIÑAN MARTINEZ

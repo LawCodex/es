@@ -1,0 +1,169 @@
+---
+title: "Real Decreto de 27 de mayo de 1912 sobre concesión y rehabilitación de Títulos y Grandezas de España"
+identifier: "BOE-A-1912-4041"
+eli: "https://www.boe.es/eli/es/rd/1912/05/27/(1)"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Gracia y Justicia"
+date: 1912-05-27
+published: 1912-05-29
+in_force_from: 1912-06-18
+last_amended: 1988-03-18
+consolidated: 2025-12-16
+gazette: "Gaceta de Madrid núm. 150"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1912-4041"
+retrieved: 2026-10-11
+---
+
+# Real Decreto de 27 de mayo de 1912 sobre concesión y rehabilitación de Títulos y Grandezas de España
+
+SEÑOR: El natural deseo de que las mercedes regias por medio de las cuales se ha constituído á través de los siglos la nobleza española que tan eminentes servicios ha prestado siempre á la Nación y al Trono, se otorgan sólo como premio á esos mísmos servicicios ó como enaltecimiento de cualidades eminentes que sobresalen del nivel común en los distintos ramos del saber y de la actividad humana, y la necesidad, por otra parte, de acomodar las concesiones de esta naturaleza á las exigencias fiscales desde que en 1845, se varió totalmente el régimen tributario, han hecho que se dicten en diversas épocas varias y aun contradictorias disposiciones para regular esta interesante materia, pero habiéndose producido en su aplicación dificultades y dudas, entiende el Ministro que suscribe que es llegado el momento de recopilar y concordar la legislación presente y de establecer reglas que contribuyan no sólo á la mayor claridad y fijeza de los preceptos legales, sino también, y muy principalmente, á que las distinciones que se concedan recaigan siempre en personas dignas de ellas, lo cual si interesa mucho á las mismas clases nobiliarias, á las que por eso se atribuye una intervención más constante en estos asuntos que la que anteriormente les estaba reconocida, no interesa menos al Estado desde el momento en que los Títulos y Grandezas facilitan con arreglo á nuestra Constitución á los que los poseen, el acceso á representaciones políticas, mediantes las cuales intervienen en la gestión de los asuntos públicos.
+
+Por virtud de estas consideraciones el Ministro que suscribe, de acuerdo con el Consejo de Ministros, tiene el honor de proponer á la aprobación de V. M., el siguiente Real Decreto.
+
+Madrid, 27 de Mayo de 1912.
+
+SEÑOR:
+
+A. L. R. P. de V. M.,
+
+Diego Arias de Miranda
+
+## REAL DECRETO
+
+A propuesta del Ministro de Gracia y Justicia, y de acuerdo con el Consejo de Ministros,
+
+Vengo en decretar lo siguiente:
+
+### Art. 1.
+
+**(Derogado)**
+
+> Se deroga por la disposición final 2 del Decreto de 4 de junio de 1948. [Ref. BOE-A-1948-40366](https://www.boe.es/buscar/doc.php?id=BOE-A-1948-40366).
+
+### Art. 2.
+
+Cuando para premiar servicios extraordinarios hechos á la Nación ó á la Monarquía se trate de conceder una Grandeza de España ó un Título de Castilla, bastará el acuerdo del Consejo de Ministros.
+
+Fuera de este caso no se otorgará concesión alguna de esta clase, sino en virtud de expediente en que se acredite la existencia de méritos ó servicios del agraciado no premiados anteriormente, oyéndose el informe de la Diputación permanente de la Grandeza española, y consultando á la Comisión permanente del Consejo de Estado.
+
+En uno y otro caso, el Real Decreto que recaiga se publicará en la Gaceta de Madrid, insertándose á continuación del mismo una relación sucinta de los méritos ó servicios que se hayan tenido en cuenta para otorgar la merced.
+
+### Art. 3.
+
+De toda concesión nobiliaria se dará conocimiento á la Diputación permanente de la Grandeza española, según se viene practicando en virtud de lo dispuesto en la Real orden de 9 de Diciembre de 1884.
+
+### Art. 4.
+
+**(Derogado)**
+
+> Se deroga por la disposición final 2 del Decreto de 4 de junio de 1948. [Ref. BOE-A-1948-40366](https://www.boe.es/buscar/doc.php?id=BOE-A-1948-40366).
+
+### Art. 5.
+
+Los encargados del Registro Civil darán cuenta al Ministerio de Gracia y Justicia, en el término de diez días, del fallecimiento de cuantas personas ostentasen Dignidades nobiliarias, ocurrido en el término de su jurisdicción.
+
+### Art. 6.
+
+Ocurrida la vacante de una de estas mercedes, el que se considere como inmediato sucesor podrá solicitarla del Ministerio de Justicia en el término de un año; si nadie lo hiciese en tal concepto se concede otro plazo, también de un año, para que lo verifique el que le siga en orden de preferencia y, si tampoco en ese tiempo hubiere ninguna solicitud, se abrirá un nuevo término de tres años durante el cual pueda reclamar cualquiera que se considere con derecho a la sucesión.
+
+Si dentro de cualquiera de los plazos se presentase más de un aspirante, se pondrá de manifiesto el expediente á cada uno de ellos por término de quince días, para que aleguen lo que estimen conveniente á su derecho ó desistan de él, y el Ministro, previa consulta á la Diputación permanente de la Grandeza y á la Comisión del Consejo de Estado, resolverá adjudicando la vacante al que á su juicio ostente mejor derecho, sin perjuicio de lo que los Tribunales de Justicia pudieran decidir, si se somete á ellos el asunto por cualquiera de las partes interesadas.
+
+Pasado el último plazo sin que se hubiera presentado ninguna petición, se declarará caducada la concesión.
+
+> Se modifica el párrafo primero por el art. 1 del Real Decreto 222/1988, de 11 de marzo. [Ref. BOE-A-1988-7023](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-7023).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 82, de 5 de abril de 1988. [Ref. BOE-A-1988-8549](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-8549).
+
+> Se deroga el párrafo segundo por la disposición final 2 del Decreto de 4 de junio de 1948. [Ref. BOE-A-1948-40366](https://www.boe.es/buscar/doc.php?id=BOE-A-1948-40366).
+
+### Art. 7.
+
+Acordada la caducidad de una merced nobiliaria se comunicará al Ministerio de Hacienda, á los efectos fiscales.
+
+### Art. 8.
+
+La caducidad podrá alzarse á petición de parte legítima que solicite la rehabilitación de la merced en su favor y siempre que acredite:
+
+1.º La anterior existencia y la supresión de la misma;
+
+2.º Que el solicitante se encuentra dentro de los llamamientos á la sucesión, según el orden establecido, y es pariente consanguíneo del primero y del último poseedor;
+
+3.º Que el peticionario reune méritos bastantes y rentas suficientes para obstentar decorosamente la dignidad que pretende rehabilitar.
+
+### Art. 9.
+
+Las rehabilitaciones se concederán con sujeción á los mismos trámites que las primeras concesiones, cumpliéndose las formalidades señaladas en los párrafos segundo y tercero del artículo 2.º, publicándose la solicitud en la Gaceta de Madrid y fijándose un plazo para que los que se crean con mejor derecho puedan hacerlo valer ante el Ministerio de Gracia y Justicia.
+
+### Art. 10.
+
+Tanto las concesiones como las rehabilitaciones se harán siempre sin perjuicio de tercero de mejor derecho, el cual habrá de ejercitarse en juicio ordinario, haciéndose en su caso por el Tribunal competente la declaración de preferencia que proceda.
+
+Si previos los trámites establecidos en este Decreto se decidiese no haber lugar á la concesión ó rehabilitación solicitada, se declarará así en el expediente que será archivado, no dándose recurso alguno contra esta resolución, que habrá de ser adoptada en Consejo de Ministros.
+
+### Art. 11.
+
+Los interesados que solicitaren la sucesión ó rehabilitación de una dignidad nobiliaria habrán de completar la justificación de su derecho en el plazo máximo de un año, y obtener el correspondiente Real despacho una vez mandado expedir en el de seis meses, dejándose sin efecto la concesión ó rehabilitación si así no sucediese.
+
+Una vez hecha por el Ministerio de Gracia y Justicia esta declaración se procederá en la forma establecida en el artículo 6.º
+
+### Art. 12.
+
+La cesión del derecho á una ó varias dignidades nobiliarias no podrá perjudicar en el suyo á los demás llamados á suceder con preferencia al cesionario, á no ser que hubiesen prestado á dicho acto su aprobación expresa, que habrá de consignarse en acta notarial.
+
+### Art. 13.
+
+El poseedor de dos ó más Grandezas de España ó Títulos del Reino, podrá distribuirlos entre sus hijos ó descendientes directos con la aprobación de S. M., reservando el principal para el inmediato sucesor. Esta facultad quedará subordinada á las limitaciones y reglas establecidas expresamente en las concesiones respecto al orden de suceder.
+
+### Art. 14.
+
+**(Derogado)**
+
+> Se deroga por la disposición final 2 del Decreto de 4 de junio de 1948. [Ref. BOE-A-1948-40366](https://www.boe.es/buscar/doc.php?id=BOE-A-1948-40366).
+
+### Art. 15.
+
+No se otorgarán distinciones nobiliarias nuevas con denominación igual á otras caducadas ó existentes, y caso de que algunas de las que en la actualidad están en uso pudieran prestarse á confusiones podrán modificarse en aquellos en que así sucediere á instancia de cualquiera de los poseedores, pero limitándose la variación al que formule la solicitud en tal sentido.
+
+### Art. 16.
+
+Desde la publicación de este Decreto no se autorizará la conversión del Título de Señor en otra dignidad nobiliaria ni se concederán nuevos Títulos de esa clase, subsistiendo los actuales con el carácter que hoy tienen sujetos á iguales preceptos que las restantes distinciones.
+
+### Art. 17.
+
+En lo sucesivo sólo se expedirán autorizaciones de uso en España de títulos extranjeros que tuviesen una significación valiosa para España en el momento de la solicitud, que deberá ser apreciada como tal por la Diputación de la Grandeza y el Consejo de Estado. Denegada la autorización, no podrá reiterarse la solicitud mientras no concurran nuevas circunstancias.
+
+> Se modifica por el art. 1 del Real Decreto 222/1988, de 11 de marzo. [Ref. BOE-A-1988-7023](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-7023).
+
+### Art. 18.
+
+**(Derogado)**
+
+> Se deroga por la disposición final 2 del Decreto de 4 de junio de 1948. [Ref. BOE-A-1948-40366](https://www.boe.es/buscar/doc.php?id=BOE-A-1948-40366).
+
+### Art. 19.
+
+**(Derogado)**
+
+> Se deroga por la disposición final 2 del Decreto de 4 de junio de 1948. [Ref. BOE-A-1948-40366](https://www.boe.es/buscar/doc.php?id=BOE-A-1948-40366).
+
+### Art. 20.
+
+**(Derogado)**
+
+> Se deroga por la disposición final 2 del Decreto de 4 de junio de 1948. [Ref. BOE-A-1948-40366](https://www.boe.es/buscar/doc.php?id=BOE-A-1948-40366).
+
+### Art. 21.
+
+Quedan derogadas todas aquellas disposiciones que se opongan á lo establecido en este Real decreto.
+
+Dado en Palacio á veintisiete de Mayo de mil novocientos doce.
+
+ALFONSO
+
+El Ministro de Gracia y Justicia,
+
+DIEGO ARIAS DE MIRANDA

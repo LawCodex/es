@@ -1,0 +1,38 @@
+---
+title: "Instrucción de 26 de abril de 1993, de la Junta Electoral Central, sobre certificado médico oficial y gratuito a que se refiere el artículo 72.c) de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, en la redacción dada por la Ley Orgánica 6/1992, de 2 de noviembre"
+identifier: "BOE-A-1993-10822"
+eli: "https://www.boe.es/eli/es/ins/1993/04/26/(1)"
+type: instruction
+rank: "Instrucción"
+jurisdiction: es
+language: es
+department: "Junta Electoral Central"
+date: 1993-04-26
+published: 1993-04-28
+in_force_from: 1993-04-28
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 101"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1993-10822"
+retrieved: 2026-10-11
+---
+
+# Instrucción de 26 de abril de 1993, de la Junta Electoral Central, sobre certificado médico oficial y gratuito a que se refiere el artículo 72.c) de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, en la redacción dada por la Ley Orgánica 6/1992, de 2 de noviembre
+
+Con el fin de asegurar la gratuidad y oficialidad del certificado médico a que se refiere el artículo 72.c) de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, en la redacción dada por la Ley Orgánica 6/1992, de 2 de noviembre, esta Junta Electoral Central, en su reunión del día de la fecha, previo informe del Consejo General de Colegios Médicos, ha acordado dictar, de conformidad con el artículo 19.1.b) de la citada Ley Electoral, la siguiente
+
+## INSTRUCCIÓN
+
+### Primero.
+
+El certificado médico oficial y gratuito a que se refiere el artículo 72.c) de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, en su redacción dada por la Ley Orgánica 6/1992, de 2 de noviembre, puede extenderse por facultativo colegiado:
+
+1.º En los impresos editados por el Consejo General de Colegios Oficiales de Médicos de España, que podrán solicitar de cada uno de dichos Colegios tanto los correspondientes facultativos como los electores interesados.
+
+2.º En papel común, de conformidad con lo previsto en el artículo 118.1.b) de la citada Ley de Régimen Electoral General, firmado y sellado por el facultativo que lo emite, y haciendo constar en el mismo su nombre, número de colegiado, lugar de ejercicio profesional, fecha, así como los extremos relativos a la situación de la enfermedad o incapacidad del elector que solicita el certificado.
+
+### Segundo.
+
+Serán igualmente válidos a los efectos del artículo 72.c) de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, en su redacción dada por la Ley Orgánica 6/1992, de 2 de noviembre, los certificados emitidos en impresos oficiales ordinarios no gratuitos.
+
+Palacio del Congreso de los Diputados, 26 de abril de 1993.– El Presidente, Ángel Rodríguez García.

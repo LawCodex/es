@@ -1,0 +1,757 @@
+---
+title: "Decreto 3772/1972, de 23 de diciembre, por el que se aprueba el Reglamento General del Régimen Especial Agrario de la Seguridad Social"
+identifier: "BOE-A-1973-234"
+eli: "https://www.boe.es/eli/es/d/1972/12/23/3772"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo"
+date: 1972-12-23
+published: 1973-02-19
+in_force_from: 1973-02-20
+last_amended: 2006-12-19
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 43"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1973-234"
+retrieved: 2026-10-11
+---
+
+# Decreto 3772/1972, de 23 de diciembre, por el que se aprueba el Reglamento General del Régimen Especial Agrario de la Seguridad Social
+
+Incluye la corrección de errores publicada en BOE núm. 70, de 22 de marzo de 1973. [Ref. BOE-A-1973-35088](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-35088).
+
+La disposición final segunda del texto refundido de las Leyes treinta y ocho/mil novecientos sesenta y seis, de treinta y uno de mayo, y cuarenta y uno/mil novecientos setenta, de veintidós de diciembre, aprobado por Decreto dos mil ciento veintitrés/mil novecientos setenta y uno, de veintitrés de julio, preceptúa que el Gobierno, a propuesta del Ministerio de Trabajo y previo informe de la Organización Sindical, aprobará el Reglamento o Reglamentos generales para la aplicación de la presente Ley, sin perjuicio de las facultades que correspondan al Ministerio de Trabajo para dictar las demás disposiciones reglamentarias y de desarrollo de la misma.
+
+En su virtud, a propuesta del Ministro de Trabajo, previo informe de la Organización Sindical, oído el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día veintidós de diciembre de mil novecientos setenta y dos,
+
+DISPONGO:
+
+#### Artículo único.
+
+Se aprueba el Reglamento General del Texto Refundido de las Leyes treinta y ocho/mil novecientos sesenta y seis, de treinta y uno de mayo, y cuarenta y uno/mil novecientos setenta, de veintidós de diciembre, sobre Régimen Especial Agrario de la Seguridad Social, aprobado por Decreto dos mil ciento veintitrés/mil novecientos setenta y uno, de veintitrés de 23 de julio.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a veintitrés de diciembre de mil novecientos setenta y dos.
+
+FRANCISCO FRANCO
+
+El Ministro de Trabajo,
+
+LICINIO DE LA FUENTE Y DE LA FUENTE
+
+## REGLAMENTO GENERAL DEL RÉGIMEN ESPECIAL AGRARIO DE LA SEGURIDAD SOCIAL
+
+## CAPÍTULO I — Disposición general
+
+#### Art. 1. Normas reguladoras.
+
+El Régimen Especial Agrario de la Seguridad Social se regulará por la Ley del Régimen Especial Agrario de la Seguridad Social de 23 de julio de 1971, por el presente Reglamento General y por sus disposiciones de aplicación y desarrollo, sin perjuicio de las normas generales de obligada observancia de todo el sistema de la Seguridad Social.
+
+## CAPÍTULO II — Campo de aplicación
+
+#### Art. 2. Norma general.
+
+1\. Quedarán incluidos en el Régimen Especial Agrario de la Seguridad Social todos los trabajadores españoles, cualquiera que sea su sexo y estado civil, que en forma habitual y como medio fundamental de vida realicen labores agrarias, sean propiamente agrícolas, forestales o pecuarias, dentro del territorio nacional, siempre que estén incluidos en alguno de los artículos siguientes.
+
+2\. Se entenderá que concurren los requisitos de habitualidad y medio fundamental de vida exigidos en el artículo segundo de la Ley de Régimen Especial Agrario de la Seguridad Social de veintitrés de julio de mil novecientos setenta y uno, cuando el trabajador dedique su actividad predominantemente a labores agrícolas, forestales o pecuarias, y de ella obtenga los principales ingresos para atender a sus propias necesidades y las de los familiares a su cargo, aun cuando con carácter ocasional realice otros trabajos no específicamente agrícolas. Por lo que a los trabajadores por cuenta propia se refiere, se presumirá, salvo prueba en contrario, que dichos ingresos no constituyen su principal medio de vida cuando el trabajador, su cónyuge o los parientes hasta el tercer grado por consanguinidad o afinidad que con él convivan sean titulares de un negocio mercantil o industrial.
+
+3\. La inscripción de los trabajadores en el Régimen Especial Agrario podrá ser compatible con su alta en alguno de los otros Regímenes de la Seguridad Social.
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 70, de 22 de marzo de 1973. [Ref. BOE-A-1973-35088](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-35088).
+
+#### Art. 3. Trabajadores por cuenta ajena. Circunstancias generales.
+
+1\. Quedarán incluidos en el Régimen Especial Agrario los trabajadores por cuenta ajena mayores de catorce años, fijos o eventuales, que reúnan las condiciones que se establecen en el presente Reglamento.
+
+2\. Entre los trabajadores a que se refiere el número anterior, se comprenderán:
+
+a) Los Pastores, Guardas Rurales y de cotos de caza y pesca que tengan a su cargo la custodia de ganado o la vigilancia de explotaciones agrarias de uno o varios propietarios.
+
+b) Los trabajadores ocupados en faenas de riego y en labores de limpieza, monda y desbroce de acequias, brazales e hijuelas, cuando estos trabajos no tengan otro fin que el aprovechamiento de las aguas para uso exclusivo de las explotaciones agropecuarias.
+
+c) Los trabajadores que, como elementos auxiliares, presten servicios no propiamente agrícolas, forestales o pecuarios, de forma habitual y con remuneración permanente, en explotaciones agrarias. Tendrán este carácter los técnicos, administrativos, Mecánicos, Conductores de vehículos y maquinaria y cualesquiera otros profesionales que desempeñen su cometido en la explotación.
+
+#### Art. 4. Trabajadores por cuenta ajena. Excepciones.
+
+1\. No tendrán la consideración de trabajadores por cuenta ajena, a efectos de su inclusión en el Régimen Especial Agrario de la Seguridad Social:
+
+1.º Los Mecánicos y Conductores de vehículos y maquinaria cuyos propietarios arrienden sus servicios para labores agropecuarias, sin ser titulares de una explotación o cuando siéndolo no los utilicen en la misma.
+
+2.º Los operarios que trabajen directamente por cuenta de las Empresas cuya actividad es la de aplicaciones fitopatológicas.
+
+3.º El personal de guardería del Instituto Nacional para la Conservación de la Naturaleza y del Instituto Nacional de Reforma y Desarrollo Agrario, el personal fijo no funcionario del Instituto Nacional para la Conservación de la Naturaleza y el personal dedicado a actividades resineras comprendidas en el sistema especial correspondiente establecido con arreglo a lo previsto en el artículo 11 de la Ley de la Seguridad Social de 21 de abril de 1966.
+
+4.º El cónyuge, descendientes, ascendientes y demás parientes del empresario por consanguinidad o afinidad hasta el tercer grado inclusive, ocupados en su explotación agraria, cuando convivan en su hogar y estén a su cargo, a no ser que se demuestre su condición de asalariados, sin perjuicio de que puedan tener la condición de trabajadores por cuenta propia, de acuerdo con lo que se establece en el presente capítulo.
+
+2\. Los trabajadores a que se refieren los puntos primero, segundo y tercero del número anterior continuarán incluidos en el Régimen General de la Seguridad Social por los trabajos que dan lugar a la excepción.
+
+#### Art. 5. Trabajadores por cuenta propia.
+
+Quedarán comprendidos en el Régimen Especial Agrario de la Seguridad Social los trabajadores por cuenta propia que, además de las condiciones exigidas en el artículo segundo de este Reglamento, reúnan las siguientes:
+
+1.ª Que sean mayores de dieciocho años.
+
+2.ª Que sean titulares de pequeñas explotaciones agrarias, entendiendo por tales aquellas cuyo líquido imponible por contribución territorial, rústica y pecuaria no sea superior al límite que se fije por el Ministerio de Trabajo.
+
+A estos efectos se tendrán en cuenta todas las fincas que cultive cada titular de explotación agraria, sea o no propietario de las mismas.
+
+La elevación del líquido imponible sobre el límite señalado no tendrá efectos excluyentes cuando se origine únicamente por mejoras de cultivo de la propia explotación agraria.
+
+3.ª Que realicen la actividad agraria en forma personal y directa en estas explotaciones, aun cuando se agrupen permanentemente con otros titulares para la ejecución de labores en común u ocupen también trabajadores por cuenta ajena, sin que ninguno de éstos tenga carácter de fijo y sin que el número de jornales totales satisfechos a los eventuales supere anualmente el número de los que percibiría un trabajador fijo.
+
+Por excepción, no será aplicable esta limitación relativa al empleo de trabajadores por cuenta ajena:
+
+a) Si el titular de la explotación, varón, se encuentra imposibilitado para el trabajo.
+
+b) Si el titular que sea mujer se encuentra en estado de viudedad o imposibilitada para el trabajo.
+
+La presente norma será de aplicación, en ambos casos, siempre que no haya hijos o parientes varones, mayores de dieciocho años, que convivan con la familia.
+
+#### Art. 6. Otros trabajadores por cuenta propia.
+
+Estarán igualmente incluidos en el Régimen Especial Agrario como trabajadores por cuenta propia, siempre que reúnan las condiciones generales exigidas en el artículo segundo, el cónyuge y los parientes por consanguinidad y afinidad hasta el tercer grado, inclusive, del titular de una explotación agraria, que tenga la condición de trabajador por cuenta propia y en quienes concurran las condiciones primera y tercera del artículo anterior y las que a continuación se establecen:
+
+1\. Que con el rendimiento que se derive de su actividad en la explotación familiar agraria contribuyan, en proporción adecuada, a constituir el medio fundamental de vida de la familia campesina de la que forman parte.
+
+2\. Que convivan con el cabeza de familia campesina, titular de la explotación y dependan económicamente de él.
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 70, de 22 de marzo de 1973. [Ref. BOE-A-1973-35088](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-35088).
+
+#### Art. 7. Concepto de empresario.
+
+1\. A los efectos de este Régimen Especial, se considerará empresario a toda persona, natural o jurídica, pública o privada, que sea titular de una explotación agraria. En cualquier caso se reputará empresario a quien ocupe trabajadores por cuenta ajena en labores agrarias.
+
+2\. El titular de la explotación podrá serlo por su condición de propietario, arrendatario, aparcero u otro concepto análogo, de las fincas que constituyen la respectiva explotación.
+
+3\. Sobre el empresario, cuyo concepto se define en los números anteriores, recaerán directamente las obligaciones que se le atribuyen en el capítulo III, así como también las establecidas, en materia de cotización y recaudación, en la sección primera del capítulo IV, y todo ello sin perjuicio de lo dispuesto en la sección segunda del mismo capítulo, en lo que se refiere a las obligaciones de los propietarios de fincas rústicas.
+
+#### Art. 8. Labores agrarias.
+
+1\. Se considerarán labores agrarias a los efectos de este Régimen Especial las que persigan la obtención directa de los frutos y productos agrícolas, forestales o pecuarios.
+
+2\. Tendrán también la consideración que se reconoce en el número anterior las operaciones siguientes:
+
+a) Las de almacenamiento de los referidos frutos y productos en los lugares de origen.
+
+b) Las de su transporte a los lugares de acondicionamiento y acopio, sin que ninguna operación posterior a las previstas en el apartado a) y en el presente pueda ser considerada agraria a excepción de la que se detalla en el apartado c) siguiente.
+
+c) Las de primera transformación que reúnan las condiciones siguientes:
+
+a’) Que constituyan un proceso simple que modificando las características del fruto o producto y sin incorporación de otro distinto lo convierta, ya sea en bien útil para el consumo, ya sea en elemento susceptible de experimentar sucesivos tratamientos.
+
+b’) Que el número de horas de trabajo que se dedique a estas labores desde que se inician las de primera transformación sea inferior a un tercio del que se dedicó a las labores agrarias anteriores para obtener la misma cantidad de producto.
+
+3\. Será requisito indispensable para considerar agrarias las operaciones citadas en el número anterior que recaigan, única y exclusivamente, sobre frutos y productos obtenidos directamente en las explotaciones agrícolas, forestales o pecuarias, cuyos titulares realicen las indicadas operaciones individualmente o en común mediante cualquier clase de agrupación, incluidas las que adopten la forma de Cooperativa o de Grupo Sindical.
+
+#### Art. 9. Excepciones relativas a cultivos agrícolas.
+
+No tendrá la consideración de labor agraria, a efectos de este Régimen Especial, el cultivo de productos agrícolas que se realice en instalaciones situadas en espacios territoriales no sujetos a contribución territorial rústica y pecuaria.
+
+#### Art. 10. Excepciones relativas a actividades pecuarias.
+
+No tendrán la consideración de labores agrarias, a efectos de este Régimen Especial, las actividades que persigan la obtención de productos pecuarios y que se lleven a cabo en granjas y establecimientos análogos, cuyos elementos de producción constituyan una unidad económica independiente por darse en ella alguna de las siguientes condiciones:
+
+a) Que la granja, establecimiento o explotación esté sujeto a exacción fiscal del Estado distinta de la contribución territorial rústica y pecuaria.
+
+b) Que en la explotación predominen las expresadas actividades sobre el aprovechamiento de los pastos, vuelo o cultivo de secano o regadío del predio en que esté enclavada la granja o establecimiento análogo.
+
+## CAPÍTULO III — Inscripción de los trabajadores en el censo y formalización de su protección por accidente de trabajo y enfermedad profesional
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.3 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+### Sección primera. Inscripción en el censo
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.1.3 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+#### Arts. 11 a 19.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1.3 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+### Sección segunda. Formalización de la protección por accidente de trabajo y enfermedad profesional
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.1.3 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+#### Arts. 20 y 21.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1.3 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+### Sección tercera. Obligaciones en materia de documentación
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.1.3 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+#### Arts. 22 a 24.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1.3 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+## CAPÍTULO IV — Cotización y recaudación
+
+### Sección primera. Cotización a cargo de las empresas
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.1.4 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+#### Arts. 25 y 26.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1.4 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+### Sección segunda. Cotización por jornadas teóricas
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.1.4 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+#### Arts. 27 y 28.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1.4 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+### Sección tercera. Cotización a cargo de los trabajadores
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.1.4 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+#### Arts. 29 a 38.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1.4 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+### Sección cuarta. Percepciones sobre productos
+
+#### Art. 39. Norma general.
+
+Las percepciones sobre productos importados, o nacionales derivados del campo, establecidas en aplicación de lo dispuesto en el artículo 47 de la Ley del Régimen Especial Agrario de la Seguridad Social de 23 de julio de 1971, se regirán de acuerdo con lo establecido en el Decreto 345/1971, de 25 de febrero, o con lo que en lo sucesivo pueda disponer el Gobierno sobre esta materia.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 70, de 22 de marzo de 1973. [Ref. BOE-A-1973-35088](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-35088).
+
+#### Art. 40. Procedimiento de recaudación.
+
+El procedimiento de recaudación de las percepciones sobre productos se llevará a cabo de acuerdo con las disposiciones a que se hace referencia en el artículo anterior.
+
+### Sección quinta. Disposiciones comunes a las secciones anteriores.
+
+#### Art. 41. Aplazamiento y fraccionamiento en el pago de cuotas.
+
+1\. El Ministerio de Trabajo, cuando concurran en determinadas zonas geográficas circunstancias excepcionales de alcance general que así lo aconsejen, podrá conceder con carácter discrecional aplazamiento o fraccionamiento en el pago de las cuotas empresariales y de los trabajadores.
+
+2\. Las cuotas aplazadas surtirán los mismos efectos que si hubiesen sido ingresadas dentro de plazo, siempre que se hicieran efectivas en los términos que se establezcan en la Orden concediendo el aplazamiento o fraccionamiento del pago.
+
+3\. No podrá concederse aplazamiento o fraccionamiento en el pago de las primas de accidentes de trabajo y enfermedades profesionales.
+
+#### Art. 42. Prescripción de cuotas y jurisdicción.
+
+1\. Las cuotas del Régimen Especial Agrario prescribirán a los cinco años, a contar desde la fecha en que preceptivamente debieran ser ingresadas.
+
+En estos casos, la prescripción quedará interrumpida por las mismas causas que la ordinaria y, en todo caso, por actas de liquidación o requerimiento de pago del descubierto.
+
+2\. Las reclamaciones derivadas de liquidaciones practicadas por la Mutualidad Nacional Agraria de las cuotas, aportaciones y percepciones a que se refiere el presente capítulo serán substanciadas por la jurisdicción laboral, con sujeción a las normas específicas de esta.
+
+#### Art. 43. Supuestos de responsabilidad subsidiaria o solidaria.
+
+1\. Los empresarios responderán subsidiariamente del pago de los descubiertos en las cotizaciones individuales de los trabajadores que correspondan al tiempo en que permanezcan a su servicio, en el caso de que incumplan las obligaciones que les imponen los artículos 13 y 17.
+
+2\. Los trabajadores por cuenta propia serán responsables del pago de los descubiertos en las cotizaciones individuales de los miembros de la familia campesina, que tengan asimismo la consideración de trabajadores por cuenta propia en razón de su trabajo en la explotación.
+
+3\. Los propietarios de explotaciones agrarias serán subsidiariamente responsables de las cuotas individuales de trabajadores por cuenta propia adeudadas por los que figuren como titulares de aquéllas en virtud de relación contractual existente entre unos y otros, así como de los descubiertos de los demás trabajadores por cuenta propia, que lo sean en virtud de su trabajo en la explotación, siempre que entre el propietario de la misma y el que figure como titular de ella exista el parentesco que se señala en el artículo sexto.
+
+4\. El adquirente de una explotación agraria responderá, solidariamente con el anterior propietario de la misma o con sus herederos, del pago de las cuotas empresariales y de las de accidentes de trabajo y enfermedades profesionales, que se encontrasen en descubierto antes de la indicada adquisición. La misma responsabilidad existirá entre el empresario cedente y el cesionario en los casos de cesión temporal de mano de obra, aunque sea a título amistoso o no lucrativo.
+
+## CAPÍTULO V — Acción protectora
+
+### Sección primera. Normas generales
+
+#### Art. 44. Contingencias protegidas y prestaciones.
+
+El Régimen Especial Agrario de la Seguridad Social cubrirá las contingencias y concederá las prestaciones que para cada clase de trabajadores se determinan en el presente Reglamento.
+
+#### Art. 45. Concepto de las contingencias protegidas.
+
+1\. El concepto de las contingencias protegidas por este Régimen Especial será el fijado y vigente en cada momento, respecto a cada una de ellas, en el Régimen General de la Seguridad Social, con las salvedades previstas en los números siguientes.
+
+2\. A los efectos del presente Reglamento, se entenderá como accidente de trabajo de los trabajadores por cuenta propia el ocurrido como consecuencia directa e inmediata del trabajo que realiza y que determine su inclusión en el Régimen Especial Agrario, en la explotación de que sean titulares. Se entenderá, a idénticos efectos, por enfermedad profesional, la contraída a consecuencia del trabajo a que se refiere el inciso anterior que esté provocada por la acción de los elementos o substancias y en las actividades que se especifican en cuadro anejo al presente Reglamento; dicho cuadro será también de aplicación por lo que se refiere a los trabajadores por cuenta ajena.
+
+3\. En sustitución de las prestaciones económicas por desempleo del Régimen General, se otorgarán ayudas a los trabajadores por cuenta ajena de este Régimen Especial, preferentemente mediante la aplicación de fórmulas de empleo transitorio con carácter comunitario, de acuerdo con lo que se determine por el Ministerio de Trabajo, previo informe de la Organización Sindical.
+
+#### Art. 46. Condiciones generales para causar derecho a las prestaciones.
+
+Para causar derecho a las prestaciones de este Régimen Especial, además de los requisitos exigidos para cada una de ellas, será indispensable reunir las condiciones siguientes:
+
+1\. Estar en alta o en situación asimilada a la de alta.
+
+2\. Estar al corriente en el pago de las cuotas sin perjuicio de los plazos y excepciones señalados en el presente Reglamento.
+
+3\. Reunir las condiciones reglamentarias exigidas al trabajador para su inclusión en el censo. En su defecto, se estará a lo dispuesto en el número cinco del artículo quince.
+
+#### Art. 47. Incompatibilidad.
+
+Las pensiones que concede el Régimen Especial Agrario a sus beneficiarios serán incompatibles entre sí, a no ser que expresamente se disponga lo contrario en el presente Reglamento o en las disposiciones del Régimen General aplicables al Especial Agrario.
+
+El trabajador que pudiera tener derecho a dos o más pensiones por este Régimen Especial optará por una de ellas.
+
+#### Art. 48. Efectos de las cuotas ingresadas fuera de plazo.
+
+Las cuotas ingresadas fuera de plazo por los trabajadores por cuenta propia, que correspondan a períodos en los que figuraron en alta, se les computarán a los efectos de completar los correspondientes períodos de carencia, así como para determinar el porcentaje en función de los años de cotización de la pensión de vejez; pero computándose tan sólo, en ambos casos, las cuotas correspondientes al período inmediatamente anterior a la fecha de ingreso de las mismas hasta un máximo de seis mensualidades. Todo ello sin perjuicio de las responsabilidades que correspondan a estos trabajadores en orden a la cotización.
+
+### Sección segunda. Trabajadores por cuenta ajena
+
+#### Art. 49. Cuadro de prestaciones.
+
+A los trabajadores por cuenta ajena comprendidos en el campo de aplicación del Régimen Especial Agrario de la Seguridad Social, y, en su caso, a sus familiares o asimilados se otorgarán en la misma extensión, forma, términos y condiciones que en el Régimen General, con las particularidades que se determinan en el presente Reglamento y en sus disposiciones de aplicación y desarrollo, las prestaciones siguientes:
+
+a) Asistencia sanitaria en los casos de maternidad, de enfermedad común o profesional y accidentes, sean o no de trabajo.
+
+b) Prestaciones económicas por incapacidad laboral transitoria.
+
+c) Prestaciones por invalidez.
+
+d) Prestaciones económicas por vejez.
+
+e) Prestaciones económicas por muerte y supervivencia.
+
+f) Prestaciones económicas de protección a la familia.
+
+g) Ayudas por desempleo.
+
+h) Indemnizaciones a tanto alzado por lesiones derivadas de accidentes de trabajo o enfermedad profesional que no causen incapacidad.
+
+i) Servicios sociales como complemento de las prestaciones correspondientes a las situaciones especialmente protegidas por la Seguridad Social.
+
+j) Beneficios de asistencia social en atención a contingencias y situaciones especiales.
+
+#### Art. 50. Asistencia sanitaria.
+
+El derecho a la prestación de asistencia sanitaria por maternidad, enfermedad común o accidente no laboral se mantendrá durante un plazo de tres meses, aun cuando el trabajador no estuviera al corriente en el pago de las cuotas.
+
+#### Art. 51. Incapacidad laboral transitoria derivada de enfermedad común o accidente no laboral.
+
+Será condición indispensable para percibir la prestación económica por incapacidad laboral transitoria que el trabajador se encuentre prestando servicios por cuenta ajena en la fecha en que se iniciara la enfermedad común o se produjera el accidente no laboral.
+
+#### Art. 52. Vejez.
+
+1\. La base reguladora, a efectos de determinar la cuantía mensual de la pensión, será el cociente que resulte de dividir entre veinticuatro la suma de las bases tarifadas por las que haya cotizado el trabajador durante un período ininterrumpido de veinticuatro meses naturales elegidos por el interesado dentro de los siete años inmediatamente anteriores a la fecha en que se cause el derecho a la pensión.
+
+2\. El disfrute de la pensión de vejez será incompatible con el trabajo del pensionista, que dé lugar a su inclusión en el campo de aplicación de cualquiera de los Regímenes de la Seguridad Social, y será compatible con la realización de labores agrarias que tengan carácter esporádico y ocasional y sin que, en ningún caso, puedan llevarse a cabo tales labores durante más de seis días laborables consecutivos, ni invertir en ellas un tiempo que exceda, al año, del equivalente a un trimestre. Cuando la realización de las labores que se declaran compatibles con el percibo de la pensión, se lleven a cabo por cuenta ajena, el empresario que emplee en ellas al pensionista, vendrá obligado a formalizar su protección por accidentes de trabajo y enfermedades profesionales, de conformidad con lo dispuesto en el apartado a) del artículo 20; cuando las indicadas labores se lleven a cabo por cuenta propia, el pensionista quedará protegido, de pleno derecho, por las aludidas contingencias, en la Mutualidad Nacional Agraria, sin que tenga que satisfacer por ello cuota alguna.
+
+3\. El pensionista que pretenda realizar trabajos que, de acuerdo con lo dispuesto en el número anterior, sean incompatibles con el disfrute de la pensión, vendrá obligado a comunicarlo a la Mutualidad Nacional Agraria y a satisfacer por tales trabajos las cotizaciones que correspondan, cesando en el percibo de la pensión mientras duren los mismos. Cuando tales trabajos sean de carácter agrario, motivarán su inclusión en el Censo, con el consiguiente derecho a causar prestaciones en general; en cuanto a la de vejez se refiere, las cotizaciones que en esta situación se realicen podrán dar lugar a que se revise la cuantía de la pensión, por incremento de los años de cotización de los que depende el porcentaje aplicable.
+
+#### Art. 53. Muerte derivada de enfermedad común o accidente no laboral.
+
+En caso de muerte derivada de enfermedad común o accidente no laboral, por excepción, se considerará al corriente en el pago de sus cuotas al trabajador que al fallecer tuviera cotizaciones pendientes, cuando sus derechohabientes satisfagan su importe y siempre que el período al descubierto no fuera superior a doce meses de cotización a efectos de percibir el subsidio de defunción y a seis meses respecto a las demás prestaciones.
+
+#### Art. 54. Accidente de trabajo o enfermedad profesional.
+
+En caso de accidente de trabajo o enfermedad profesional, se otorgarán las correspondientes prestaciones en la misma extensión, forma, términos y condiciones que en el Régimen General a los trabajadores siguientes:
+
+a) Trabajadores por cuenta ajena que reúnan las condiciones necesarias para estar comprendidos como tales en el campo de aplicación del Régimen Especial Agrario de la Seguridad Social.
+
+b) Personas que sin reunir esas condiciones se encontrasen de hecho prestando servicio como trabajadores por cuenta ajena, en labores agropecuarias, al producirse tales contingencias.
+
+#### Art. 55. Ayudas por desempleo.
+
+1\. La aplicación de fórmulas de empleo transitorio con carácter comunitario consistirán en la ocupación de los trabajadores agrícolas por cuenta ajena, en situación de paro para la realización de obras o servicios públicos, de acuerdo con lo que determine el Ministerio de Trabajo, previo informe de la Organización Sindical.
+
+2\. Asimismo se otorgarán ayudas económicas a los trabajadores por cuenta ajena en paro, mientras asistan a cursos de Educación General Básica y de Formación Profesional, en la forma y condiciones determinadas o que se determinen en las disposiciones de aplicación y desarrollo.
+
+### Sección tercera. Trabajadores por cuenta propia
+
+#### Art. 56. Cuadro de prestaciones.
+
+1\. A los trabajadores por cuenta propia comprendidos en el campo de aplicación del Régimen Especial Agrario de la Seguridad Social y, en su caso, a sus familiares beneficiarios, se les concederán en la extensión, términos y condiciones que se señalan en el presente Reglamento y en las disposiciones de aplicación y desarrollo las prestaciones siguientes:
+
+a) Asistencia sanitaria.
+
+b) Prestaciones por invalidez permanente.
+
+c) Prestaciones económicas por vejez.
+
+d) Prestaciones económicas por muerte y supervivencia.
+
+e) Prestaciones económicas de protección a la familia.
+
+f) Indemnizaciones a tanto alzado por lesiones derivadas de accidentes de trabajo o enfermedad profesional que no causen incapacidad.
+
+g) Prestaciones y servicios sociales en atención a contingencias y situaciones especiales.
+
+2\. En ningún caso, el nivel de protección de los trabajadores por cuenta propia del Régimen Especial Agrario será inferior al establecido para los trabajadores por cuenta propia de la industria y de los servicios a cuyo efecto se tendrá en cuenta el conjunto de la acción protectora aplicable a unos y otros.
+
+#### Art. 57. Asistencia sanitaria por enfermedad común o accidente no laboral.
+
+1\. La asistencia sanitaria, derivada de enfermedad común o accidente no laboral, en las condiciones establecidas en este artículo y en las disposiciones de aplicación y desarrollo, consistirán en:
+
+a) Hospitalización del trabajador por cuenta propia o de sus familiares beneficiarios en los casos en que resulte necesaria para la práctica de una intervención quirúrgica. En tales casos tendrán también derecho gratuitamente a las prestaciones farmacéuticas que resulten precisas durante el internamiento, así como a las prótesis de carácter fijo.
+
+b) Asistencia por maternidad a las trabajadoras y a las esposas de los trabajadores, conforme se encuentra reconocido por la legislación vigente.
+
+2\. Para tener derecho a la asistencia sanitaria, el trabajador deberá tener cubierto el período de cotización constituido por las seis mensualidades inmediatamente anteriores a la fecha en que requieran dicha asistencia.
+
+3\. El derecho a la asistencia sanitaria se perderá cuando el trabajador deje de estar al corriente en el pago de las cuotas, si bien se prolongará el disfrute de aquel derecho en toda su extensión, aun sin el pago de éstas, durante el plazo de tres meses.
+
+#### Artículo 58. Incapacidad permanente derivada de enfermedad común o accidente no laboral.
+
+1\. Las prestaciones por incapacidad permanente, derivada de enfermedad común o accidente no laboral, se concederán a los trabajadores por cuenta propia en las condiciones establecidas para los trabajadores por cuenta ajena.
+
+2\. Los trabajadores por cuenta propia a quienes se les reconozca la prestación de incapacidad permanente total para la profesión habitual, tendrán derecho a un incremento del 20 por ciento de la base reguladora que se tenga en cuenta para determinar la cuantía de la pensión, cuando se acrediten los siguientes requisitos:
+
+a) Que el pensionista tenga una edad igual o superior a los 55 años. En los casos en los que el reconocimiento inicial de la pensión de incapacidad permanente se efectúe a una edad inferior a la señalada, el incremento del 20 por ciento se aplicará desde el día 1.o del mes siguiente a aquel en que el trabajador cumpla los 55 años de edad, siempre que a dicha fecha se reúnan los requisitos establecidos en los párrafos siguientes.
+
+En los supuestos en que el derecho al incremento del 20 por ciento nazca en un año natural posterior a aquel en que se produjo el reconocimiento inicial de la pensión de incapacidad permanente total para la profesión habitual, a ésta, incrementada con el mencionado 20 por ciento, se le aplicarán las revalorizaciones que, para las pensiones de la misma naturaleza, hubiesen tenido lugar desde la expresada fecha.
+
+b) Que el pensionista no ejerza una actividad retribuida por cuenta ajena o por cuenta propia que dé lugar a su inclusión en cualquiera de los regímenes de la Seguridad Social. El incremento de la pensión quedará en suspenso durante el período en que el trabajador obtenga un empleo o efectúe una actividad lucrativa por cuenta propia que sea compatible con la pensión de incapacidad permanente total que viniese percibiendo.
+
+c) Que el pensionista no ostente la titularidad de una explotación agraria o marítimo-pesquera, o de un establecimiento mercantil o industrial como propietario, arrendatario, usufructuario u otro concepto análogo.
+
+> Se modifica por el art. 1.1 del Real Decreto 463/2003, de 25 de abril. [Ref. BOE-A-2003-8591](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-8591).
+
+#### Art. 59. Vejez.
+
+1\. La prestación económica por vejez se otorgará de acuerdo con lo establecido en este Reglamento para los trabajadores por cuenta ajena, con la particularidad que se señala en el número siguiente.
+
+2\. El porcentaje aplicable para el cálculo de la pensión será el que corresponda, de acuerdo con los años de cotización y conforme a la siguiente escala:
+
+| Años de cotización | Porcentaje | Años de cotización | Porcentaje |
+|---|---|---|---|
+| 10 | 25 | 23 | 46 |
+| 11 | 26 | 24 | 48 |
+| 12 | 27 | 25 | 50 |
+| 13 | 28 | 26 | 52 |
+| 14 | 29 | 27 | 54 |
+| 15 | 30 | 28 | 56 |
+| 16 | 31 | 29 | 58 |
+| 17 | 32 | 30 | 60 |
+| 18 | 33 | 31 | 62 |
+| 19 | 31 | 32 | 64 |
+| 20 | 40 | 33 | 66 |
+| 21 | 42 | 34 | 68 |
+| 22 | 44 | 35 | 70 |
+
+#### Art. 60. Muerte derivada de enfermedad común o accidente no laboral.
+
+1\. En caso de muerte derivada de enfermedad común o accidente no laboral, se otorgará pensión de viudedad, siempre que la viuda del trabajador por cuenta propia o pensionista tenga cumplida la edad de sesenta y cinco años o se encuentre incapacitada para el trabajo. Si la viuda no hubiera alcanzado esta edad, pero tuviera cumplida la de cincuenta años, se le reservará el derecho a la prestación hasta cuando la tenga cumplida, momento a partir del cual podrá comenzar a disfrutarla.
+
+2\. Causarán derecho a esta prestación los trabajadores que reúnan las condiciones establecidas en este Reglamento y los que al fallecer fuesen pensionistas de este Régimen Especial.
+
+3\. Para tener derecho a la prestación, en caso de que el causante no fuera pensionista, será necesario que, además de reunir las condiciones generales previstas, tuviese cubierto al fallecer un período mínimo de cotización computable de sesenta mensualidades en los diez últimos años, siendo aplicable la excepción establecida en el artículo 53 del presente Reglamento para los trabajadores por cuenta ajena.
+
+4\. La pensión de viudedad será proporcional a la base de cotización de los trabajadores en activo o a la pensión cuando se trate de pensionistas, y el porcentaje para su cálculo será el mismo que se señala para la pensión de viudedad causado por los trabajadores por cuenta ajena.
+
+5\. En lo relativo a las circunstancias de convivencia o separación, así como en los casos en que el viudo pueda tener derecho a pensión de viudedad, se estará a lo dispuesto para los trabajadores por cuenta ajena.
+
+#### Art. 61. Subsidio de defunción.
+
+En caso de muerte derivada de enfermedad común o accidente no laboral y para hacer frente a los gastos de sepelio, se otorgará a los trabajadores por cuenta propia un subsidio de defunción, en la cuantía, forma, términos y condiciones establecidos para los trabajadores por cuenta ajena.
+
+#### Art. 62. Prestaciones económicas de protección a la familia.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 356/1991, de 15 de marzo. [Ref. BOE-A-1991-7266](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-7266).
+
+#### Art. 63. Accidente de trabajo o enfermedad profesional.
+
+1\. En caso de accidente de trabajo o enfermedad profesional, conforme al concepto que de estas contingencias establece el artículo 45, 2, se otorgará asistencia sanitaria completa, incluida la dispensación gratuita de medicamentos.
+
+2\. Por estas contingencias se otorgarán asimismo las prestaciones, tanto económicas como recuperadoras, que se conceden a los trabajadores por cuenta ajena, excluida la prestación económica en caso de incapacidad laboral transitoria y limitada la cuantía de las prestaciones de protección a la familia a la que perciben los trabajadores por cuenta propia en activo.
+
+3\. Las condiciones para la concesión de las prestaciones a que se refieren los dos números anteriores serán las que con carácter general se establecen para los trabajadores por cuenta ajena, con las salvedades siguientes:
+
+a) Las prestaciones económicas proporcionales al salario se calcularán, en todo caso, sobre la base tarifada de cotización vigente en la fecha de calificación de la incapacidad o, en su caso, de defunción.
+
+b) En los casos en que el trabajador por cuenta propia no haya formalizado la adecuada y suficiente cobertura de dicha contingencia o se encuentre en descubierto en el pago de las primas correspondientes no tendrá derecho a ninguna de las prestaciones derivadas de accidente de trabajo o enfermedad profesional, sin que en tales casos pueda exigirse responsabilidad alguna a cargo del Fondo de Garantía o del correspondiente Servicio Común de la Seguridad Social.
+
+c) Cuando el trabajador por cuenta propia no sea propietario de la finca que explota no se derivará responsabilidad alguna por accidente de trabajo o enfermedad profesional para el propietario de dicha finca, en cuanto tal propietario de la misma.
+
+d) Los trabajadores por cuenta propia a quienes se les reconozca una pensión de incapacidad permanente total para la profesión habitual la percibirán incrementada en un 20 por ciento, en los supuestos y con los requisitos señalados en el apartado 2 del artículo 58.
+
+> Se añade la letra d) al apartado 3 por el art. 1.2 del Real Decreto 463/2003, de 25 de abril. [Ref. BOE-A-2003-8591](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-8591).
+
+### Sección cuarta. Normas comunes a los trabajadores por cuenta ajena y propia
+
+#### Art. 64. Servicios sociales.
+
+Con independencia de las prestaciones a que se refieren las Secciones anteriores, se podrán otorgar a los trabajadores, a los pensionistas y a los familiares de unos y otros las prestaciones y servicios sociales establecidos, o que se establezcan, dentro del Sistema de la Seguridad Social, bien de acuerdo con la normativa general reguladora de los Servicios Sociales o con la específica, en su caso, para el Régimen Especial Agrario.
+
+#### Art. 65. Asistencia Social.
+
+El Régimen Especial Agrario de la Seguridad Social, con cargo al fondo que a tal efecto se determine por el Ministerio de Trabajo y en la misma forma que se establezca para el Régimen General, podrá dispensar a las personas incluidas en el campo de aplicación de aquél, y a los familiares y asimilados que de ellos dependan, los servicios y auxilios económicos que en atención a estados y situaciones de necesidad se consideren precisos, previa demostración, salvo caso de urgencia, de que los interesados carecen de los recursos indispensables para hacer frente a tal estado o situación.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 70, de 22 de marzo de 1973. [Ref. BOE-A-1973-35088](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-35088).
+
+#### Art. 66. Asistencia Sanitaria a pensionistas.
+
+1\. Los pensionistas del Régimen Especial Agrario de la Seguridad Social y los que, sin tal carácter, estén en el goce de prestaciones periódicas del mismo, en aplicación de las normas reguladoras del aludido Régimen, así como los familiares y asimilados de aquéllos, recibirán las prestaciones de asistencia sanitaria por enfermedad común o accidente no laboral.
+
+Dicha asistencia se prestará en los mismos términos y condiciones aplicables a los trabajadores por cuenta propia o por cuenta ajena, según haya sido la condición en activo de los indicados pensionistas o perceptores de otras prestaciones periódicas.
+
+2\. La asistencia sanitaria concedida en aplicación del número anterior estará exclusivamente a cargo de la Mutualidad Nacional Agraria.
+
+#### Art. 67. Prestación de la asistencia sanitaria.
+
+La asistencia sanitaria, con el alcance protector previsto en el presente Reglamento, se prestará en todos los casos por la organización de la Seguridad Social, de acuerdo con los criterios generales establecidos en el capítulo IV y demás normas sobre asistencia sanitaria del título II de la Ley de la Seguridad Social de 21 de abril de 1966.
+
+#### Art. 68. Cómputo de períodos de cotización a distintos Regímenes de la Seguridad Social.
+
+1\. Cuando un trabajador tenga acreditados sucesiva o alternativamente períodos en el Régimen General de la Seguridad Social y en el Especial que regula el presente Reglamento, dichos períodos o los que sean asimilados a ellos, que hubieren sido cumplidos en virtud de las normas que los regulen, serán totalizados, siempre que no se superpongan, para la adquisición, mantenimiento o recuperación del derecho a la prestación.
+
+2\. En consecuencia, las pensiones de invalidez, vejez, muerte y supervivencia a que los acogidos a uno u otro de ambos Regímenes puedan tener derecho en virtud de las normas que los regulan, serán reconocidas, según sus propias normas, por la Entidad Gestora del Régimen donde el trabajador estuviese cotizando al tiempo de solicitar la prestación, teniendo en cuenta la totalización de períodos a que se refiere el número anterior y con las salvedades siguientes:
+
+a) Para que el trabajador cause derecho a la pensión en el Régimen al que estuviese cotizando en el momento de solicitar la prestación será inexcusable que reúna los requisitos de edad, períodos de carencia y cualesquiera otros que en el mismo se exijan, computando a tal efecto solamente las cotizaciones efectuadas en dicho Régimen.
+
+b) Cuando el trabajador no reuniese tales requisitos en el Régimen al que se refiere el apartado anterior, causará derecho a la pensión en el que hubiese cotizado anteriormente, siempre que en el mismo reúna los requisitos a que se refiere el apartado a).
+
+c) Cuando el trabajador no hubiese reunido en ninguno de ambos Regímenes, computadas separadamente las cotizaciones a ellos efectuadas, los períodos de carencia precisos para causar derecho a la pensión, podrán sumarse a tal efecto las cotizaciones efectuadas a ambos Regímenes. En tal caso, la pensión se otorgará por el Régimen en que tenga acreditado mayor número de cotizaciones.
+
+3\. Sobre la base de la cuantía resultante, con arreglo a las normas anteriores, la Entidad Gestora del Régimen que reconozca la pensión distribuirá su importe con la del otro Régimen de Seguridad Social a prorrata por la duración de los períodos cotizados en cada uno de ellos.
+
+4\. Si la cuantía de la pensión a la que el trabajador pueda tener derecho por los períodos computables en virtud de las normas de uno solo de los Regímenes de Seguridad Social fuese superior al total de la que resultase a su favor, por aplicación de los números anteriores de este artículo, la Entidad Gestora de dicho Régimen le concederá un complemento igual a la diferencia.
+
+5\. La totalización de períodos de cotización prevista en el número 1 del presente artículo se llevará a cabo para cubrir los períodos de carencia que se exijan para prestaciones distintas de las especificadas en el número 2 del mismo, otorgándose en tal caso dichas prestaciones por el Régimen en que se encuentre en alta el trabajador en el momento de producirse el hecho causante, y siempre que tuviese derecho a ellas de acuerdo con las normas propias de dicho Régimen.
+
+## CAPÍTULO VI — Situaciones especiales
+
+#### Art. 69. Realización de trabajos comprendidos en otros Regímenes.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.3 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+#### Art. 70. Situaciones asimiladas a la de alta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.3 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+#### Art. 71. Desplazamientos al extranjero.
+
+1\. En los casos de traslado al extranjero por razón de trabajo, el interesado vendrá obligado a comunicar tal hecho a la Mutualidad Agraria con carácter previo, a fin de que se tramite su baja en el Censo, sin perjuicio de los derechos que le confiera el Convenio que, a efectos de la Seguridad Social, haya establecido con el país al que se traslada. De no efectuarlo así, tan pronto la Mutualidad Agraria tenga conocimiento del indicado desplazamiento, se tramitará la baja de oficio.
+
+2\. Sin perjuicio de lo establecido en el número anterior, el trabajador podrá permanecer en situación asimilada a la de alta si se encuentra en cualquiera de los dos supuestos siguientes:
+
+1.º Que no quede obligatoriamente sometido a la legislación de Seguridad Social del Estado a cuyo territorio se traslade, bien por aplicación de la legislación nacional de dicho Estado, bien en virtud de un Convenio Internacional.
+
+2.º Cuando el desplazamiento sea de un trabajador por cuenta ajena con carácter temporal y por encargo de su Empresa, dejando a salvo las condiciones que fijen los Convenios aplicables, si los hubiese.
+
+En ambos supuestos, la permanencia en situación asimilada a la de alta se concederá con las siguientes condiciones:
+
+a) No podrá exceder de un año, sin perjuicio de que transcurrido este plazo pueda suscribirse el Convenio especial previsto en el artículo anterior.
+
+b) Los trabajadores estarán obligados a satisfacer las cuotas individuales correspondientes.
+
+c) La asistencia sanitaria no será prestada ni al trabajador ni a los familiares desplazados.
+
+## CAPÍTULO VII — Faltas y sanciones
+
+### Sección primera. Disposiciones generales
+
+#### Art. 72. Normas generales.
+
+1\. De acuerdo con la previsto en el artículo 54 de la Ley del Régimen Especial Agrario de la Seguridad Social de 23 de julio de 1971, constituirán infracciones dentro del Régimen Especial Agrario las acciones u omisiones que se señalan en la sección segunda de este capítulo, respecto a los distintos sujetos responsables.
+
+2\. La acción para sancionar las infracciones a que se refiere el número anterior prescribirá a los cinco años, contados desde la fecha de la infracción. En el mismo plazo prescribirá la acción para exigir el cumplimiento de las sanciones impuestas, desde que éstas fueran notificadas a los sujetos responsables.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 70, de 22 de marzo de 1973. [Ref. BOE-A-1973-35088](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-35088).
+
+#### Art. 73. Sujetos responsables.
+
+Serán sujetos responsables de las infracciones a que se refiere el artículo anterior:
+
+1\. Los empresarios, entendiendo como tales los definidos en el artículo siete del presente Reglamento.
+
+2\. Los trabajadores, por cuenta ajena y propia, comprendidos en el campo de aplicación del Régimen Especial Agrario, y las demás personas que sean beneficiarias de las prestaciones del mismo.
+
+3\. Las Mutuas Patronales de Accidentes de Trabajo, en su calidad de colaboradoras en la gestión de este Régimen Especial Agrario.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 70, de 22 de marzo de 1973. [Ref. BOE-A-1973-35088](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-35088).
+
+### Sección segunda. Tipos de infracción
+
+#### Art. 74. De los empresarios.
+
+Los empresarios serán sujetos responsables de las siguientes infracciones:
+
+a) Serán consideradas infracciones leves:
+
+1\. No comprobar si los trabajadores que ingresen a su servicio están inscritos en el censo.
+
+2\. No facilitar a la Mutualidad Nacional Agraria la información a que se refiere el número uno del artículo dieciséis.
+
+3\. Cubrir las contingencias de accidente de trabajo y enfermedad profesional del personal a su servicio con una Mutua Patronal, cuando tal protección deba establecerse necesariamente con la Mutualidad Nacional Agraria de la Seguridad Social.
+
+4\. No comunicar en tiempo y forma a los Organismos competentes los partes de accidentes de sus trabajadores cuando el accidente de trabajo haya tenido la calificación de leve.
+
+5\. Omitir datos o consignarlos inexactos o falsos en la documentación, declaraciones o certificados referentes a este Régimen Especial Agrario, así como no cumplimentarlas con arreglo a las normas y modelos o impresos oficiales, que, en su caso sean procedentes.
+
+6\. No ingresar en la forma y plazos reglamentarios la totalidad de las cotizaciones empresariales al Régimen Especial Agrario, así como el importe de las cuotas o primas de accidentes de trabajo y enfermedades profesionales que les correspondan.
+
+7\. No conservar los documentos justificativos de los ingresos de las primas a cuotas empresariales de este Régimen Especial Agrario, correspondientes a los cinco últimos años.
+
+8\. No conservar durante el plazo señalado en el punto anterior los recibos individuales confeccionados con sujeción al modelo oficial o documentos autorizados para sustituirlos, acreditativos de los salarios pagados a los trabajadores, y de sus categorías profesionales de las que depende la cuantía de la cotización.
+
+9\. No entregar a sus trabajadores los duplicados de los recibos a que se refiere el punto anterior.
+
+b) Se considerarán infracciones graves:
+
+1\. No llevar en orden y al día el libro de matrícula de personal.
+
+2\. No cubrir las contingencias de accidentes de trabajo y enfermedades profesionales del personal a su servicio, conforme a lo dispuesto en el presente Reglamento.
+
+3\. No comunicar en tiempo y forma a los Organismos competentes los partes de los accidentes de sus trabajadores cuando haya sido calificado el accidente de trabajo de grave, muy grave o haya producido la muerte.
+
+4\. Emplear como trabajadores a pensionistas de la Seguridad Social, salvo lo dispuesto en el número tres del artículo cincuenta y dos, o a los que sin serlo estén percibiendo prestaciones periódicas de la misma, siempre que su disfrute sea incompatible con el trabajo por cuenta ajena.
+
+5\. Realizar actos perjudiciales para la reputación y el buen crédito de la Entidad gestora, cuando el empresario forme parte de sus Órganos de Gobierno.
+
+c) Se considerarán infracciones de carácter muy grave:
+
+1\. Descontar a sus trabajadores la totalidad o parte de las cuotas o primas a que se refiere el punto seis del apartado a).
+
+2\. Incurrir en connivencia con sus trabajadores o con los demás beneficiarios para la obtención de prestaciones indebidas o superiores a las que en cada caso les correspondan o, en general, para eludir el cumplimiento de las obligaciones que a cada uno de ellos incumbe en materia de Seguridad Social.
+
+3\. Pactar con sus trabajadores, de forma individual o colectiva, su renuncia a los derechos que le confiere la legislación reguladora del Régimen Especial Agrario.
+
+4\. Despedir o adoptar otras represalias contra sus trabajadores por haber formulado éstos reclamaciones ante los Organismos competentes por incumplimiento de las obligaciones a que esté sujeto el empresario en virtud de las normas que regulan este Régimen Especial Agrario.
+
+5\. Incumplir las normas sobre Seguridad e Higiene del trabajo o las referentes a los trabajos prohibidos a mujeres, menores y, en general, a las personas que sufran defectos o dolencias que impliquen, a estos efectos, un especial peligro para ellas o para sus compañeros de trabajo.
+
+> Redactada la letra c).2 conforme a la corrección de errores publicada en BOE núm. 70, de 22 de marzo de 1973. [Ref. BOE-A-1973-35088](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-35088).
+
+#### Art. 75. De los trabajadores y beneficiarios.
+
+1\. Los trabajadores por cuenta ajena y, en su caso, los demás beneficiarios, serán sujetos responsables de las siguientes infracciones:
+
+a) Serán consideradas infracciones leves:
+
+1\. No facilitar a su empresario o a la Mutualidad Nacional Agraria los datos necesarios para su afiliación a la Seguridad Social o para su inscripción en el censo del Régimen Especial Agrario.
+
+2\. No comunicar a su empresario o a la Mutualidad Nacional Agraria las variaciones de su situación a efectos de la Seguridad Social que deban ser puestas en conocimiento de aquéllas.
+
+3\. No cumplir puntualmente la obligación de cotizar en el Régimen Especial Agrario las correspondientes cuotas individuales.
+
+b) Se considerarán infracciones graves:
+
+1\. No solicitar su inscripción en el censo, cuando así proceda.
+
+2\. Omitir la solicitud de baja en el censo en el tiempo y forma establecidos.
+
+3\. Incurrir en falsedad al formular las declaraciones para la Mutualidad Nacional Agraria, en especial cuando con ello se pretenda la obtención o prolongación en el disfrute de prestaciones indebidas o superiores a las que en cada caso correspondan y, en general, realizar acciones u omisiones tendentes a los indicados fines.
+
+4\. No comunicar a la Mutualidad aquellos hechos que determinen la modificación, extinción o suspensión de las prestaciones que estuvieran percibiendo.
+
+5\. Ofender de palabra o de obra a las personas que estén al servicio de la Seguridad Social.
+
+6\. Realizar actos perjudiciales para la reputación o el buen crédito de la Mutualidad Nacional Agraria como Entidad Gestora de este Régimen Especial, cuando el trabajador forme parte de sus Órganos de Gobierno.
+
+c) Se considerarán infracciones de carácter muy grave:
+
+Ocultar o falsear la naturaleza de sus actividades y demás circunstancias que determinen su calificación como trabajadores agrícolas, a efectos de su adecuada inclusión en el censo.
+
+2\. Los trabajadores por cuenta propia serán sujetos responsables de las siguientes infracciones:
+
+a) Se considerarán infracciones leves:
+
+1) No comunicar en tiempo y forma a los Organismos competentes los partes de accidentes de trabajo, cuando éste haya tenido la calificación de leve.
+
+2) No conservar la documentación relativa a su inscripción en el censo.
+
+3) No conservar, durante un plazo mínimo de cinco años, la documentación relativa a las primas o cuotas del Régimen de Accidentes de Trabajo y Enfermedades Profesionales.
+
+4) No ingresar en la cuantía, forma, y plazos procedentes las cuotas o primas del Régimen de Accidentes de Trabajo y Enfermedades Profesionales.
+
+b) Se considerarán infracciones graves:
+
+Las calificadas como graves para los trabajadores por cuenta ajena.
+
+c) Serán consideradas infracciones de carácter muy grave:
+
+El ocultar o falsear la naturaleza de sus actividades y demás circunstancias que determinen su calificación como trabajadores agrícolas al efecto de su adecuada inclusión en el censo, incurriendo bien por sí o en connivencia con otras personas en los referidos hechos para obtener prestaciones.
+
+Las infracciones señaladas, se entenderán sin perjuicio de aquellas en que puedan incurrir, en su caso, los trabajadores por cuenta propia en su calidad de empresarios.
+
+#### Art. 76. De las Mutuas Patronales.
+
+Las Mutuas Patronales de Accidentes de Trabajo que colaboran en la gestión de este Régimen Especial serán sujetos responsables de las infracciones que respecto a ellas se encuentran establecidas en el Reglamento General de Faltas y Sanciones del Régimen General de la Seguridad Social.
+
+#### Art. 77. Otras infracciones.
+
+Además de las faltas anteriormente señaladas, se considerará infracción el incumplimiento de cualquiera otra obligación expresamente impuesta en las disposiciones que regulan el Régimen Especial Agrario, cuya calificación en orden a su gravedad se efectuará por analogía con las restantes infracciones anteriormente relacionadas.
+
+### Sección tercera. Sanciones aplicables
+
+#### Art. 78. Sanciones aplicables.
+
+Los trabajadores, empresarios y Mutuas Patronales de Accidentes de Trabajo que incurran en infracción podrán ser sancionados de acuerdo con la gravedad de la falta, intencionalidad, perjuicios producidos o que pudieran producirse y demás circunstancias concurrentes, de conformidad con lo dispuesto en el Reglamento General de Faltas y Sanciones del Régimen General de la Seguridad Social.
+
+#### Art. 79. Inhabilitación para cargos.
+
+Sin perjuicio de las sanciones aplicables, de acuerdo con lo establecido en el artículo anterior, tanto los empresarios como los trabajadores podrán ser sancionados además con inhabilitación temporal o permanente para formar parte de los Órganos de Gobierno de la Mutualidad Nacional Agraria o, en su caso, de las Mutuas Patronales.
+
+### Sección cuarta. Procedimiento para la imposición de sanciones
+
+#### Art. 80. Procedimiento aplicable.
+
+La imposición a los sujetos responsables de las sanciones previstas en el presente Reglamento se llevará a cabo con arreglo al procedimiento administrativo especial para sancionar las infracciones de las Leyes Sociales.
+
+#### Disposición final primera.
+
+1\. Lo dispuesto en el presente Reglamento tendrá vigencia a partir del día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+2\. A partir de la vigencia del presente Reglamento, queda derogado el Reglamento General de la Ley 33/1966, de 31 de mayo, sobre Régimen Especial Agrario de la Seguridad Social aprobado por Decreto 309/1967, de 23 de febrero, así como cuantas disposiciones, de igual o inferior rango, se opongan a lo previsto en este nuevo Reglamento.
+
+#### Disposición final segunda.
+
+En las provincias de Álava y Navarra, la cotización empresarial y las percepciones sobre productos derivados del campo podrán recaudarse por sus respectivas Diputaciones Forales a tenor del sistema que se establezca en aplicación del artículo 14, número 6, de la Ley de la Seguridad Social Agraria de 23 de julio de 1971, concertándose dicho Sistema con la Mutualidad Nacional Agraria.
+
+#### Disposición final tercera.
+
+La cuota sindical se recaudará conjuntamente con las cotizaciones de los trabajadores y empresarios al Régimen Especial Agrario de la Seguridad Social.
+
+#### Disposición final cuarta.
+
+Se autoriza al Ministerio de Trabajo para dictar las disposiciones de aplicación y desarrollo de este Reglamento.
+
+#### Disposición transitoria primera.
+
+1\. Las cotizaciones efectuadas en los anteriores Regímenes de la Previsión Social en la Agricultura, a partir de las correspondientes al año 1952, inclusive, se computarán para el derecho a las prestaciones reguladas en el presente Reglamento, siempre que dichas cotizaciones estén comprendidas dentro del período de tiempo en el que haya de acreditarse el período previo de cotización exigido para la prestación de que se trate.
+
+2\. Cuando el período de cotización exigido en el nuevo Régimen para tener derecho a una prestación fuese superior al requerido en la legislación anterior, se aplicará aquél de modo paulatino; para ello se partirá en la fecha en que tenga efecto dicho Régimen del período de cotización anteriormente exigido, y se determinará el aplicable en cada caso concreto, añadiendo a tal período la mitad de los días transcurridos entre la citada fecha y la del hecho causante de la prestación; dicha regla se aplicará hasta el momento en que el período de cotización así resultante sea igual al implantado en este Reglamento.
+
+#### Disposición transitoria segunda.
+
+A los trabajadores por cuenta ajena, a efectos de vejez, les será de aplicación la escala para abonos de años y días de cotización, según edad, establecida a favor de los trabajadores del Régimen General para la indicada prestación.
+
+#### Disposición transitoria tercera.
+
+Las situaciones excepcionales que pudieran derivarse del período transitorio serán resueltas con arreglo a los principios inspiradores de las normas de la Ley del Régimen Especial Agrario de la Seguridad Social de 23 de julio de 1971.
+
+#### Disposición transitoria cuarta.
+
+Se efectuarán las revisiones necesarias para que los trabajadores que figuren inscritos en el censo sean los que reúnan las circunstancias que definen el campo de aplicación del Régimen Especial Agrario de la Seguridad Social.
+
+#### Disposición transitoria quinta.
+
+En tanto no se determine un nuevo tope por el Ministerio de Trabajo, el actual límite máximo de quince mil pesetas anuales de líquido imponible por Contribución Territorial Rústica y Pecuaria será el que defina las pequeñas explotaciones agrarias, a efectos de lo señalado en la condición segunda del artículo quinto de este Reglamento.
+
+## ANEXO — Cuadro de enfermedades profesionales y lista de trabajos con riesgo de producirlas
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1299/2006, de 10 de noviembre. [Ref. BOE-A-2006-22169](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-22169).

@@ -1,0 +1,167 @@
+---
+title: "Convenio de extradición entre España y Colombia, firmado en Bogotá el día 23 de Julio de 1892"
+identifier: "BOE-A-1894-1124"
+eli: "https://www.boe.es/eli/es/ai/1892/07/23/(1)"
+type: treaty
+rank: "Acuerdo Internacional"
+jurisdiction: es
+language: es
+department: "Ministerio de Estado"
+date: 1892-07-23
+published: 1894-02-20
+in_force_from: 1893-06-17
+last_amended: 2005-09-13
+consolidated: 2025-12-16
+gazette: "Gaceta de Madrid núm. 51"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1894-1124"
+retrieved: 2026-10-11
+---
+
+# Convenio de extradición entre España y Colombia, firmado en Bogotá el día 23 de Julio de 1892
+
+S. M. la Reina Regente de España, en nombre de su Augusto Hijo D. Alfonso XIII, y su Excelencia el Presidente de la República de Colombia, deseosos de favorecer la recta administración de justicia y evitar que sus respectivos países sirvan de refugio para eludir la represión y castigo de los criminales ó delincuentes, han juzgado conveniente celebrar el presente Convenio, y al efecto han nombrado como Plenipotenciarios:
+
+S. M. la Reina Regente de España, á D. Bernardo J. de Cólogan, su Ministro residente en Colombia, y su Excelencia el Presidente de la República de Colombia, al Sr. D. Marco Fidel Suárez, Subsecretario de Relaciones Exteriores, encargado del despacho.
+
+Quienes, después de haberse comunicado sus respectivos plenos poderes, y hallándolos en buena y debida forma, han convenido en los artículos siguientes:
+
+## Artículo 1.
+
+El Gobierno de España y el Gobierno de Colombia se comprometen á entregarse recíprocamente los individuos condenados ó acusados por los tribunales ó autoridades competentes de uno de los dos Estados contratantes, como autores ó cómplices de los delitos ó crímenes enumerados en el art. 3.º y que se hubieren refugiado en el territorio del otro.
+
+## Artículo 2.
+
+Ninguna de las Partes contratantes queda obligada á entregar sus propios ciudadanos ó nacionales, ni los individuos que en ellas se hubieren naturalizado antes de la perpetración del crimen.
+
+Ambas Partes se comprometen, sin embargo, á perseguir y juzgar, conforme á sus respectivas leyes, los crímenes ó delitos cometidos por nacionales de la una Parte contra las leyes de la otra, mediante la oportuna demanda de esta última y con tal que dichos delitos ó crímenes se hallen comprendidos en la enumeración del art. 3.º
+
+La solicitud será acompañada, en ese caso, de los objetos, documentos, antecedentes, declaraciones y demás informes necesarios.
+
+## Artículo 3.
+
+La extradición procederá con respecto a las personas a quienes las autoridades judiciales de la Parte requirente persiguieren por algún delito o buscaren para la ejecución de una pena privativa de libertad no inferior a un (1) año. A este efecto, será indiferente el que las leyes de las Partes clasifiquen o no al delito en la misma categoría de delitos o usen la misma o distinta terminología para designarlo.
+
+El juzgamiento o enjuiciamiento de las personas solicitadas en extradición se realizará siempre, de conformidad con los procedimientos establecidos por la Ley interna del Estado requirente.
+
+> Se modifica por el art. 1.1 del Protocolo de 16 de marzo de 1999. [Ref. BOE-A-2005-15158](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15158).
+
+## Artículo 4.
+
+No habrá lugar á la extradición:
+
+1.º Cuando se pida por un crimen ó delito por el cual el individuo reclamado sufre ó ha sufrido ya la pena, ó que ha sido juzgado y absuelto en el territorio de la otra Parte.
+
+2.º Si se ha cumplido la prescripción de la acción ó de la pena, según las leyes del país á quien el reo sea reclamado.
+
+## Artículo 5.
+
+No se concederá la extradición por delitos políticos ó por hechos que tengan conexión con ellos, y se estipula expresamente que el individuo cuya extradición se haya concedido no podrá ser perseguido, en ningún caso, por delito político anterior á la extradición.
+
+No se reputará, sin embargo, delito político el atentado contra la vida del Soberano ó Jefe de uno de los Estados contratantes, ó sus sucesores llamados por la ley ó las instituciones á reemplazarlos, cuando este atentado constituya el crimen de homicidio ó envenenamiento.
+
+## Artículo 6.
+
+Tampoco procederá la extradición por crímenes ó delitos perpetrados con anterioridad á las ratificaciones del presente Convenio.
+
+Toda persona entregada sólo podrá ser juzgada por el crimen que motivó la extradición, á no ser:
+
+1.º Que el crimen ó delito sea de los especificados en el art. 3.º y se haya cometido con posterioridad al canje de las ratificaciones. El Gobierno, en cuyo poder se halle el reo, dará el oportuno conocimiento á aquel que hizo la entrega.
+
+2.º Cuando después de concedida la extradición, el reo cometa un nuevo crimen ó delito en territorio ó jurisdicción de la otra Parte.
+
+## Artículo 7.
+
+Las estipulaciones del presente Convenio serán aplicables á todos los territorios, posesiones ó provincias á que se extiende la soberanía de los dos Estados contratantes.
+
+## Artículo 8.
+
+La demanda de extradición será presentada por la vía diplomática y apoyada en los documentos siguientes:
+
+1\. Si se trata de un criminal condenado y evadido, se presentará copia autorizada de la sentencia.
+
+2\. Cuando se refiera á un individuo acusado ó perseguido, se requerirá copia autorizada del mandamiento de prisión ó auto de proceder expedido contra él, ó de cualquier otro documento que tenga la misma fuerza que dicho auto y precise igualmente los hechos denunciados y la disposición que les sea aplicable.
+
+3\. Las señas personales del reo ó encausado, hasta donde sea posible, para facilitar su busca y arresto.
+
+## Artículo 9.
+
+Las estipulaciones del presente Convenio serán igualmente cumplidas en la eventualidad de ausencia de los agentes diplomáticos respectivos, ó cuando se pida la extradición á los Gobernadores generales de las provincias españolas ultramarinas de Cuba y Puerto Rico; la demanda ó reclamación podrá ser entonces presentada por los oportunos funcionarios consulares. Del mismo modo, los Gobernadores generales de Cuba ó Puerto Rico podrán formular la demanda de extradición por crímenes ó reos sometidos á su jurisdicción y se le dará curso con las mismas formalidades y en los términos prescritos por este Convenio.
+
+## Artículo 10.
+
+Si la extradición fuere solicitada concurrentemente por varios Estados, bien por el mismo hecho o por hechos diferentes, la Parte requerida resolverá teniendo en cuenta todas las circunstancias y especialmente la gravedad relativa y lugar de los delitos, las respectivas fechas de las solicitudes, la nacionalidad de la persona reclamada y la posibilidad de una ulterior extradición a otro Estado.
+
+> Se modifica por el art. 1.2 del Protocolo de 16 de marzo de 1999. [Ref. BOE-A-2005-15158](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15158).
+
+## Artículo 11.
+
+Los gastos que ocasione la captura y transporte del individuo reclamado serán de cargo del Gobierno que haya solicitado la entrega.
+
+## Artículo 12.
+
+Si el individuo reclamado estuviere condenado, acusado ó perseguido por crimen ó delito cometido en el país donde se refugió, su extradición será diferida hasta que termine la causa criminal ó se extinga la pena que se le hubiere impuesto.
+
+No será obstáculo para la extradición la responsabilidad por obligaciones civiles contraídas á favor de particulares, quienes conservarán á salvo sus derechos para hacerlas valer ante la autoridad competente.
+
+## Artículo 13.
+
+En los casos urgentes, y sobre todo cuando se tema la fuga, cada uno de los Gobiernos, apoyándose en alguno de los documentos señalados en el art. 8.º, podrá pedir diplomáticamente por el medio más rápido, y aún por telégrafo, y obtener la prisión del acusado ó condenado, con la condición de presentar lo más pronto posible el referido documento.
+
+## Artículo 14.
+
+Si dentro del plazo de tres meses, contados desde el día en que el condenado ó acusado hubiere sido asegurado y puesto á disposición del Agente diplomático ó consular, no se hubieren presentado los documentos expresados en el art. 8.º y suficientes para proceder á la entrega del delincuente, se pondrá á éste en libertad, y sólo en virtud de prueba fehaciente podrá volver á ser detenido por el mismo motivo.
+
+## Artículo 15.
+
+Cuando el delito por el que se solicita la extradición sea punible con pena de muerte con arreglo a las leyes del Estado requirente, y las leyes del Estado requerido no permitan la imposición de tal sanción, se rehusará la extradición, a menos que, antes de concederse la extradición, el Estado requirente garantice a satisfacción del Estado requerido que no impondrá tal pena.
+
+> Se modifica por el art. 1.3 del Protocolo de 16 de marzo de 1999. [Ref. BOE-A-2005-15158](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15158).
+
+## Artículo 16.
+
+El simple delito de deserción no es motivo de extradición, á menos que vaya acompañado de alguno de los crímenes ó delito enumerados en el art. 3.º
+
+Se observarán, sin embargo, entre las Altas Partes contratantes las prácticas internacionales universalmente admitidas en materia de desertores de los tripulantes de buques de guerra ó mercantes.
+
+## Artículo 17.
+
+Cuando en la instrucción de una causa criminal uno de los dos Gobiernos juzgare necesario oír testigos residentes en el territorio del otro, dirigirá exhorto al efecto, y el Gobierno que lo reciba le dará curso y velará por su cumplimiento, según las reglas de la propia legislación.
+
+## Artículo 18.
+
+Si en una causa criminal fuere necesaria la comparecencia personal de un testigo, el Gobierno del país á que pertenezca ó en que resida lo invitará á acceder á la citación que se le haya hecho. En caso de asentimiento le serán acordados gastos de viaje de ida, de permanencia y de regreso al lugar de su domicilio ó residencia.
+
+Ningún testigo, cualquiera que sea su nacionalidad, que así citado e invitado en uno de los dos países compareciese voluntariamente ante los Jueces del otro, podrá ser perseguido ni detenido por hechos ó condenas anteriores, civiles ó criminales, ni por complicidad en los hechos objeto de la causa en que figura como testigo.
+
+## Artículo 19.
+
+Los objetos robados ó cogidos en poder del condenado ó acusado, los instrumentos ó útiles que hubiesen servido para cometer el crimen, así como otra cualquiera prueba de convicción, serán entregados al mismo tiempo que se verifica la extradición del reo, aunque por causa de muerte ó fuga no pueda ésta llevarse á efecto.
+
+Quedan, sin embargo, reservados los derechos de tercero sobre los mencionados objetos, que en caso necesario serán devueltos sin gastos, después de la terminación de la causa.
+
+## Artículo 20.
+
+La extradición por vía de tránsito, por el territorio de uno de los Estados contratantes, de un reo entregado al otro por un tercer Estado, se concederá mediante la presentación de alguno de los documentos señalados en el art. 8.º por el acta ó documento de entrega expedido por las autoridades de dicho tercer Estado, siempre que no se trate de reos políticos, y si el hecho que sirve de fundamento á la extradición está comprendido en el presente Convenio.
+
+El Gobernador del Departamento de Panamá tendrá facultad para examinar los documentos á que se refiere el párrafo anterior, y que le presente el Cónsul de España ó el encargado de la custodia del reo; y hallándolos en conformidad con lo aquí estipulado, permitirá el tránsito por el istmo.
+
+## Artículo 21.
+
+El presente Convenio permanecerá en vigor desde el día del canje de las ratificaciones; pero cualquiera de las Partes puede denunciarlo y darlo por terminado, avisando con un año de anticipación.
+
+## Artículo 22.
+
+El presente Convenio será ratificado conforme á las leyes de cada Estado, y las ratificaciones serán canjeadas lo antes posible en la ciudad de Bogotá.
+
+En fe de lo cual, los respectivos Plenipotenciarios lo firmamos y sellamos en la ciudad de Bogotá, á 23 de julio de 1892.
+
+(L. S.)= Firmado: Bernardo J. de Cólogan.
+
+(L. S.)= Firmado: Marco F. Suárez.
+
+> Información relacionada
+
+> Véase el Canje de notas, constitutivo de Acuerdo, de 19 de septiembre de 1991. [Ref. BOE-A-1992-15559](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-15559).
+
+> El presente Convenio fue debidamente ratificado, y las ratificaciones canjeadas en Bogotá el día 17 de junio de 1893.

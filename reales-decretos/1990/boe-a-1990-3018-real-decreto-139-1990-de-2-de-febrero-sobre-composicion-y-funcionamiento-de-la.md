@@ -1,0 +1,72 @@
+---
+title: "Real Decreto 139/1990, de 2 de febrero, sobre composición y funcionamiento de la Comisión Asesora del Mercado de Deuda Pública en Anotaciones"
+identifier: "BOE-A-1990-3018"
+eli: "https://www.boe.es/eli/es/rd/1990/02/02/139"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1990-02-02
+published: 1990-02-06
+in_force_from: 1990-02-07
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 32"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-3018"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 139/1990, de 2 de febrero, sobre composición y funcionamiento de la Comisión Asesora del Mercado de Deuda Pública en Anotaciones
+
+Incluye la corrección de errores publicada en BOE núm. 42, de 17 de febrero 1990. [Ref. BOE-A-1990-4097](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-4097).
+
+El artículo 57 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, regula la Comisión Asesora del Mercado de Deuda Pública en Anotaciones, previendo el desarrollo reglamentario de su composición.
+
+El presente Real Decreto contiene tal desarrollo y establece el régimen de designación de los miembros de la Comisión Asesora.
+
+En su virtud, a propuesta del Ministro de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión de 2 de febrero de 1990,
+
+DISPONGO:
+
+## Art. 1.
+
+1\. El representante del Ministerio de Economía y Hacienda, los representantes de la Comisión Nacional del Mercado de Valores y los representantes del Banco de España que integran la Comisión Asesora del Mercado de Deuda Pública en Anotaciones, prevista en el artículo 57 de la Ley del Mercado de Valores, serán designados y removidos libremente por la Dirección General del Tesoro y Política Financiera, por el Consejo de la Comisión Nacional del Mercado de Valores y por el Consejo General del Banco de España, respectivamente, que deberán comunicar a los otros dos Órganos las decisiones que al efecto adopten. El Consejo General del Banco de España comunicará, además, el representante del Banco que presidirá la Comisión.
+
+2\. Los Órganos a que se refiere el número anterior podrán designar, para cada puesto de representante, además de un titular un suplente, que sustituirá a aquél cuando sea necesario. La sustitución en la Presidencia de la Comisión se producirá en la forma que establezca el Consejo General del Banco de España entre los representantes, titulares y suplentes del mismo.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 42, de 17 de febrero de 1990. [Ref. BOE-A-1990-4097](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-4097).
+
+## Art. 2.
+
+La Comisión Asesora será convocada por su Presidente, por propia iniciativa o siempre que así lo solicite cualquiera de sus restantes miembros. Corresponderá al propio Presidente la fijación del orden del día, en el que incluirá los asuntos cuya consideración haya sido solicitada por cualquiera de los miembros de la Comisión.
+
+## Art. 3.
+
+Son funciones de la Comisión Asesora del Mercado de Deuda Pública en Anotaciones:
+
+a) La emisión de informe previo sobre las decisiones con incidencia en la organización y funcionamiento del Mercado de Deuda Pública en Anotaciones que adopten la Comisión Nacional del Mercado de Valores y el Banco de España en el ámbito de sus respectivas competencias.
+
+b) La propuesta a dichas instituciones de las medidas sobre el citado mercado que estime oportunas.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 42, de 17 de febrero de 1990. [Ref. BOE-A-1990-4097](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-4097).
+
+## Disposición adicional primera.
+
+La Comisión Asesora se regirá por las normas recogidas en el capítulo II del título I de la Ley de Procedimiento Administrativo.
+
+## Disposición adicional segunda.
+
+El Ministro de Economía y Hacienda queda habilitado para regular cuantos aspectos relativos al funcionamiento de la Comisión Asesora sean necesarios.
+
+## Disposición final.
+
+El presente Real Decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 2 de febrero de 1990.
+
+JUAN CARLOS R.
+
+El Ministro de Economía y Hacienda,
+
+CARLOS SOLCHAGA CATALÁN

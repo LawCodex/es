@@ -1,0 +1,333 @@
+---
+title: "Real Decreto 2323/1985, de 4 de diciembre, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, almacenamiento, transporte y comercialización de sucedáneos de café"
+identifier: "BOE-A-1985-26012"
+eli: "https://www.boe.es/eli/es/rd/1985/12/04/2323"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1985-12-04
+published: 1985-12-14
+in_force_from: 1986-01-03
+last_amended: 2013-03-29
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 299"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-26012"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2323/1985, de 4 de diciembre, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, almacenamiento, transporte y comercialización de sucedáneos de café
+
+Incluye la corrección de errores publicada en BOE núm. 43, de 19 de febrero de 1986. [Ref. BOE-A-1986-4462](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-4462).
+
+La antigüedad de la Orden de Presidencia del Gobierno de 21 de noviembre de 1961 (modificada por otra Orden de 28 de agosto de 1962) que aprobaba la Reglamentación Técnico-Sanitaria para la elaboración y venta de achicoria y otros sucedáneos del café, hacen preciso adaptar los requisitos técnicos sanitarios de dichos productos a las exigencias actuales para una mejor información del consumidor y la necesaria y progresiva aproximación a las disposiciones correspondientes de las Comunidades Económicas Europeas.
+
+Especialmente se ha tenido en cuenta la Directiva 77/436/CEE, de 27 de junio de 1977, y las consideraciones que realiza el párrafo cuarto de su preámbulo.
+
+En su virtud, previo informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria, oídos los sectores afectados, y a propuesta de los Ministros de Economía y Hacienda, Industria y Energía, Agricultura, Pesca y Alimentación y de Sanidad y Consumo, previa deliberación del Consejo de Ministros en su reunión del día 4 de diciembre de 1985,
+
+DISPONGO:
+
+### Artículo único.
+
+Se aprueba la adjunta Reglamentación Técnico-Sanitaria para la elaboración, almacenamiento, transporte y comercialización de los sucedáneos del café.
+
+### Disposición transitoria.
+
+Los requisitos que supongan modificación en el etiquetado de los envases de los productos no serán exigibles hasta transcurrido un plazo de seis meses, a partir de la entrada en vigor del presente Real Decreto.
+
+### Disposición derogatoria.
+
+Quedan derogadas las Órdenes de la Presidencia del Gobierno de 21 de noviembre de 1961 por la que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración y venta de achicoria y otros sucedáneos del café y la orden de Presidencia del Gobierno de 28 de agosto de 1962 por la que se modifica la anterior y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.
+
+Dado en Madrid a 4 de diciembre de 1985.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JAVIER MOSCOSO DEL PRADO Y MUÑOZ
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA PARA LA ELABORACIÓN, ALMACENAMIENTO, TRANSPORTE Y COMERCIALIZACIÓN DE SUCEDÁNEOS DE CAFÉ
+
+## TÍTULO PRELIMINAR — Objeto y ámbito de aplicación
+
+### Art. 1. Ámbito de aplicación.
+
+1.1 La presente Reglamentación tiene por objeto definir que se entiende por sucedáneos de café y fijar con carácter obligatorio las normas de elaboración, almacenamiento, transporte, comercialización y en general la ordenación técnico-sanitaria de dichos productos que será aplicable asimismo a los productos importados.
+
+1.2 Obliga a toda persona natural o jurídica, que dentro del territorio nacional, dedique su actividad a la elaboración, almacenamiento, transporte, comercialización y, en su caso, importación de los productos definidos en la misma.
+
+## TÍTULO I — Definiciones y denominaciones
+
+A los efectos de esta Reglamentación se hacen las siguientes definiciones y denominaciones:
+
+### Art. 2. Definiciones.
+
+2.1 Sucedáneos de café.–Son los productos de origen vegetal, tostados, destinados a efectuar preparaciones que reemplacen a la infusión de café como bebida fruitiva. Dichos productos, que pueden comercializarse en grano o molidos con textura de sémola, polvo, granulados o prensados, son los siguientes:
+
+2.1.1 Achicoria.-Se entiende por achicoria las raíces de "Cichorium intybus L", no utilizadas para la producción de "chicoria witloof'", convenientemente limpiadas antes de ser desecadas y tostadas y normalmente utilizadas para la preparación de bebidas.
+
+2.1.2 Malta de cebada tostada.–Es el producto de color uniforme obtenido por tostado de la malta verde procedente de cebada en grado de germinación apropiado.
+
+Características físico-químicas:
+
+Cenizas: Máximo 3 por 100 sobre materia seca.
+
+Humedad: Máximo 8 por 100.
+
+Extracto acuoso: Mínimo 42,5 por 100 en ebullición durante tres minutos.
+
+2.1.3 Cebada tostada.–Es el producto obtenido por el tueste de los frutos sanos y secos procedentes de la especie botánica «Hordeum Vulgare», L.
+
+Características físico-químicas:
+
+Cenizas: Máximo 5 por 100 sobre materia seca.
+
+Humedad: Máximo 8 por 100.
+
+Extracto acuoso: Mínimo 42,5 por 100 en ebullición durante tres minutos.
+
+2.2 Extractos solubles de sucedáneos de café.–Son los productos solubles en agua obtenidos por la deshidratación parcial o total de la infusión acuosa de los sucedáneos de café tostados, definidos en los epígrafes 2.1.1 al 2.1.3 solos o mezclados entre sí. También puede incluirse como materia prima de la infusión acuosa los frutos maduros, sanos, secos, tostados y molidos de trigo (Triticum aestivum, L.), centeno (Secale cereale, L.) y avena (Avena sativa, L.). Se utilizará únicamente el agua como medio de extracción con exclusión de todo proceso de hidrólisis por adición de un ácido o una base.
+
+Dichos extractos tendrán las características siguientes:
+
+2.2.1 Extracto soluble de achicoria.
+
+– Materia seca proveniente de la achicoria igual o superior al 95 por 100 en masa.
+
+– No contendrán otros elementos que los procedentes de su extracción. Las sustancias que no procedan de la achicoria no pueden sobrepasar el 1 por 100.
+
+2.2.2 Extracto soluble de malta.
+
+– Materia seca proveniente de la malta igual o superior a 95 por 100 en peso.
+
+– No contendrán otros elementos que los procedentes de su extracción. Las sustancias que no procedan de la malta no pueden sobrepasar el 1 por 100.
+
+2.2.3 Extracto soluble de cereales tostados.
+
+– Materia seca proveniente de los cereales tostados igual o superior al 95 % en peso.
+
+No contendrán otros elementos que los procedentes de su extracción. Las sustancias que no procedan de dichos productos no podrán sobrepasar el 1 %.
+
+2.2.4 Extracto en pasta de achicoria, malta o cereales tostados.
+
+– Materia seca proveniente de dichos productos comprendida entre el 70 y el 85 por 100 en peso.
+
+– No contendrán otros elementos que los procedentes de su extracción. Las sustancias que no procedan de dichos productos no pueden sobre pasar el 1 por 100.
+
+2.2.5 Extracto líquido de achicoria.
+
+– Materia seca procedente de la achicoria inferior al 55 por 100 y superior al 25 por 100 en masa.
+
+– No contendrán otros elementos que los procedentes de su extracción. No obstante, podrán contener azúcares en una proporción que no exceda del 35 por 100 en masa.
+
+2.2.6 Extracto líquido de malta o cereales tostados.
+
+– Materia seca procedente de dichos productos comprendida entre el 16 por 100 y el 50 por 100 en masa.
+
+– No contendrán otros elementos que los procedentes de su extracción. No obstante, podrán contener azúcares en una proporción que no exceda del 35 por 100 en masa.
+
+> Se modifica el apartado 2.1.1 por el art. 1.1 del Real Decreto 943/2001, de 3 de agosto. [Ref. BOE-A-2001-15218](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15218).
+
+> Se modifican los apartados 2.2.1 y 2.2.5 y se añade el apartado 2.2.6 por el art. único del Real Decreto 1132/1988, de 14 de octubre. [Ref. BOE-A-1988-24184](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-24184).
+
+> Redactados los apartados 2.1.1 a 2.1.3 conforme a la corrección de errores publicada en BOE núm. 43, de 19 de febrero de 1986. [Ref. BOE-A-1986-4462](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-4462).
+
+### Art. 3. Denominaciones.
+
+Los productos definidos en el epígrafe 2.1 se denominarán de la siguiente forma:
+
+3.1 Achicoria.–Para cualquier forma de presentación del producto definido en 2.1.1.
+
+3.2 Malta.–Seguido de la palabra «molida» si así se presenta, para el producto del epígrafe 2.1.2.
+
+3.3 Cebada tostada.–Seguida de la expresión «molida» si es el caso, para el producto definido en 2.1.3.
+
+3.4 Las mezclas de achicoria, malta o cebada tostada, en grano o molidas, deberán denominarse con la mención de las designaciones anteriormente citadas que procedan.
+
+3.5 A todas las denominaciones anteriores habrá de añadirse una de las dos expresiones «torrefactada» o «caramelizada» si hay adición de azúcar o azúcares durante el proceso de tostación.
+
+Los productos definidos en el epígrafe 2.2 se denominarán de la siguiente forma:
+
+3.6 «Achicoria soluble» o «achicoria instantánea» o «extracto de achicoria».–Para el producto cuyas características físico-químicas se determinan en 2.2.1.
+
+3.7 «Malta soluble» o «malta instantánea» o «extracto de malta».–Para el producto cuyas características físico-químicas se determinan en 2.2.2.
+
+3.8 Extracto soluble de cereales tostados.–Para el producto cuyas características físico-químicas se determinan en 2.2.3.
+
+3.9 Extracto soluble de ...–Seguido de los términos «achicoria», «malta», «cereales tostados», según los casos, para los extractos solubles de las mezclas de dos o más productos de los citados en el punto 2.2.
+
+3.10 Extracto en pasta de ...–Seguido de los términos «achicoria», «malta», «cereales tostados», según los casos, para los extractos que se presenten en dicha forma con las características fijadas en 2.2.4.
+
+3.11 Extracto líquido de ...–Seguido de los términos «achicoria», «malta», «cereales tostados», según los casos, para los extractos que se presenten en dicha forma con las características fijadas en 2.2.5.
+
+## TÍTULO II — Condiciones de los establecimientos, del material y del personal. Manipulaciones permitidas y prohibidas
+
+### Art. 4. Condiciones de las instalaciones industriales.
+
+**(Derogado)**
+
+> Se deroga por el art. 36 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 5. Condiciones de los materiales.
+
+**(Derogado)**
+
+> Se deroga por el art. 36 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 6. Condiciones del personal.
+
+**(Derogado)**
+
+> Se deroga por el art. 36 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 7. Manipulaciones permitidas.
+
+Además de las lógicas de los procesos de fabricación y comercialización, se permite expresamente:
+
+a) La adición a los productos definidos en los epígrafes 2.1.1 al 2.1.3 de azúcar en proporción no superior al 10 por 100 en peso u otros azúcares autorizados o melazas en cantidad equivalente.
+
+b) La adición a los productos contemplados en los epígrafes 2.1.1 al 2.1.3 de aceites comestibles en proporción máxima del 3 por 100 en peso.
+
+c) La comercialización de los productos definidos en los epígrafes del 2.1.1 al 2.1.3 mezclados entre sí en proporciones variables.
+
+d) La adición de sacarosa u otros azúcares permitidos por la legislación vigente a los extractos líquidos de achicoria, malta o cereales tostados en una proporción igual o inferior al 35 por 100 en masa.
+
+> Se añade la letra d) por el art. único del Real Decreto 1132/1988, de 14 de octubre. [Ref. BOE-A-1988-24184](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-24184).
+
+> Redactadas las letras a) y b) conforme a la corrección de errores publicada en BOE núm. 43, de 19 de febrero de 1986. [Ref. BOE-A-1986-4462](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-4462).
+
+### Art. 8. Manipulaciones prohibidas.
+
+Además de las manipulaciones incorrectas que no correspondan a una buena práctica de fabricación, almacenamiento y comercialización, queda expresamente prohibido:
+
+a) El empleo o adición de materias inertes sin valor alimenticio o que estén agotadas, aunque no sean nocivas.
+
+b) La adición de aceites minerales, resinas, glicerina, taninos, así como agentes conservadores, colorantes o cualquier otro aditivo no autorizado expresamente.
+
+c) El empleo de productos distintos a los fijados en esta Reglamentación Técnico-Sanitaria, y en especial de los que contengan sustancias alcaloídicas, como la cascarilla de cacao y similares.
+
+d) La elaboración de los productos sujetos a esta Reglamentación con materias primas u otros ingredientes que estén alterados, enmohecidos, agrios, quemados o con caracteres organolépticos anormales y la venta de los mismos.
+
+e) La elaboración o venta de productos que contengan granos y semillas extrañas u otras impurezas.
+
+f) **(Derogada)**
+
+g) El empleo en la denominación del producto de las palabras «café», «esencia o extratos de café», «descafeinado» o vocablos análogos. Asimismo el empleo en el etiquetado facultativo de cualquiera de estas expresiones o grafismos relativos al café que induzcan a error al consumidor.
+
+h) La venta de cualquiera de estos productos con denominaciones distintas de las contempladas en el artículo 3.º
+
+i) **(Derogada)**
+
+> Se derogan las letras f) e i) por el art. 36 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO III — Registros administrativos
+
+### Art. 9.
+
+**(Derogado)**
+
+> Se deroga por el art. 36 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO IV — Materias primas, aditivos y otros ingredientes, características de los productos terminados
+
+### Arts. 10 a 13.
+
+**(Derogados)**
+
+> Se derogan por el art. 36 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO V — Envasado, etiquetado y rotulación
+
+### Art. 14. Envasado.
+
+**(Derogado)**
+
+> Se deroga por el art. 36 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se suprime el párrafo séptimo por el art. 1.2 del Real Decreto 943/2001, de 3 de agosto. [Ref. BOE-A-2001-15218](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15218).
+
+> Se modifica por el art. único del Real Decreto 1132/1988, de 14 de octubre. [Ref. BOE-A-1988-24184](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-24184).
+
+### Art. 15. Etiquetado.
+
+15.1 Denominación de venta.-Serán las denominaciones contempladas en el artículo 3 de la presente reglamentación técnico-sanitaria y, además, las siguientes especificaciones:
+
+15.1.1 Las denominaciones de venta contempladas en el artículo 3.6 "Achicoria soluble", o "achicoria instantánea'', o "extractos de achicoria'', se completarán, en su caso, con los términos "en pasta'', o "en forma de pasta'', o "líquida'', o "en forma líquida'', cuando se ajusten a las características fijadas en los apartados 2.2.4 y 2.2.5 del artículo 2, respectivamente.
+
+15.1.2 La denominación del extracto líquido de achicoria, definido en el apartado 2.2.5 del artículo 2, se podrá completar con el calificativo de "concentrado'', siempre que el contenido de materia seca procedente de la achicoria sea superior en masa al 45 por 100.
+
+15.2 **(Derogado)**
+
+15.3 En el caso del extracto líquido de achicoria, definido en el apartado 2.2.5, el etiquetado deberá indicar "con...'', "conservado con...'', "con...añadida'', o "tostado con...'', acompañado de la denominación del tipo de azúcar o azúcares utilizados.
+
+Estas menciones deberán figurar en el mismo campo visual que la denominación de venta.
+
+15.3.1 La expresión «tostado con azúcar», si el extracto se ha obtenido a partir de la achicoria tostada con azúcar.
+
+15.3.2 La leyenda «azucarados», «conservado con azúcar» o «con azúcar añadido», si el azúcar ha sido añadido después del proceso de tostado. Cuando se hayan utilizado azúcares distintos a la sacarosa, se deberán indicar los mismos en lugar de la palabra «azúcar».
+
+15.14 **(Derogado)**
+
+> Se deroga, a excepción de lo dispuesto en los apartados 1 y 3, por el art. 36 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se modifican los apartados 15.1 y 15.3 por el art. 1.3 del Real Decreto 943/2001, de 3 de agosto. [Ref. BOE-A-2001-15218](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15218).
+
+> Se modifica por el art. único del Real Decreto 1132/1988, de 14 de octubre. [Ref. BOE-A-1988-24184](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-24184).
+
+> Téngase en cuenta para su aplicación la disposición transitoria.
+
+### Art. 16. Rotulación.
+
+**(Derogado)**
+
+> Se deroga por el art. 36 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 17. Etiquetado y rotulación de los productos importados.
+
+**(Derogado)**
+
+> Se deroga por el art. 36 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VI — Almacenamiento, transporte, venta y comercio exterior
+
+### Art. 18. Almacenamiento y transporte.
+
+**(Derogada)**
+
+> Se deroga por el art. 36 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 19. Venta.
+
+**(Derogado)**
+
+> Se deroga por el art. 36 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 20. Comercio exterior.
+
+20.1 Exportación.–Los productos objeto de esta Reglamentación destinados a la exportación, se ajustarán a lo que dispongan en esta materia los Ministerios competentes. Cuando estos productos no cumplan lo dispuesto en esta Reglamentación, llevarán en caracteres bien visibles impresa la palabra «export» y no podrán comercializarse ni consumirse en España salvo autorización expresa de los Ministerios responsables previo informe de la Comisión Interministerial para la Ordenación Alimentaria y siempre que no afecte a las condiciones de carácter sanitario.
+
+20.2 Importación.– **(Derogado)**
+
+> Se deroga el apartado 2 por el art. 36 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Redactado el apartado 20.1 conforme a la corrección de errores publicada en BOE núm. 43, de 19 de febrero de 1986. [Ref. BOE-A-1986-4462](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-4462).
+
+## TÍTULO VII — Competencias, responsabilidades y régimen sancionador
+
+### Arts. 21 a 23.
+
+**(Derogados)**
+
+> Se derogan por el art. 36 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VIII — Toma de muestras y métodos de análisis
+
+### Art. 24.
+
+**(Derogado)**
+
+> Se deroga por el art. 36 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).

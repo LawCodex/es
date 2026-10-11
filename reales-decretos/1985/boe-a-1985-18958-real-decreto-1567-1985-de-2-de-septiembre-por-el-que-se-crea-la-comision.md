@@ -1,0 +1,107 @@
+---
+title: "Real Decreto 1567/1985, de 2 de septiembre, por el que se crea la Comisión Interministerial para Asuntos Económicos relacionados con las Comunidades Europeas"
+identifier: "BOE-A-1985-18958"
+eli: "https://www.boe.es/eli/es/rd/1985/09/02/1567"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1985-09-02
+published: 1985-09-05
+in_force_from: 1985-09-06
+last_amended: 1996-11-28
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 213"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-18958"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1567/1985, de 2 de septiembre, por el que se crea la Comisión Interministerial para Asuntos Económicos relacionados con las Comunidades Europeas
+
+Téngase en cuenta que la Comisión Interministerial para Asuntos Económicos relacionados con las Comunidades Europeas pasa a denominarse **"Comisión Interministerial para Asuntos de la Unión Europea"** según establece el art. 2.1 del Real Decreto 2077/1995, de 22 de diciembre. [Ref. BOE-A-1995-27558](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27558)
+
+La incidencia de la adhesión de España a las Comunidades Europeas exige reforzar las actuales instancias de coordinación interministerial de la actividad de la Administración del Estado, especialmente en las materias de contenido económico, con objeto de lograr una unidad de criterio desde las primeras fases del proceso decisorio.
+
+En su virtud, a propuesta del Ministro de la Presidencia y previa deliberación del Consejo de Ministros en su reunión del día 2 de septiembre de 1985,
+
+DISPONGO:
+
+## Artículo 1.
+
+Se crea la Comisión Interministerial para Asuntos de la Unión Europea, con las siguientes competencias:
+
+a) Coordinar la actuación de la Administración del Estado en materias relacionadas con la Unión Europea.
+
+b) Ser informada de las decisiones que adopten o hayan adoptado los Ministerios en temas de su exclusiva competencia relacionados con la Unión Europea.
+
+c) Examinar y resolver, en su caso, los asuntos comunitarios que, afectando a más de un Departamento, no requieran ser elevados a decisión de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+d) Elevar, a través de su Presidente, a la Comisión Delegada para Asuntos Económicos aquellos temas comunitarios que por su trascendencia lo requieran o cuando así lo solicite algún miembro de la Comisión Interministerial.
+
+> Se modifica por el art. 2.2 del Real Decreto 2077/1995, de 22 de diciembre. [Ref. BOE-A-1995-27558](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27558).
+
+## Artículo 2.
+
+1\. La Comisión Interministerial para Asuntos de la Unión Europea estará formada por los siguientes miembros:
+
+a) Presidente: Secretario de Estado de Política Exterior y para la Unión Europea.
+
+b) Vicepresidente Primero: Secretario de la Comisión Delegada del Gobierno para Asuntos Económicos. Vicepresidente Segundo: Secretario general de Política Exterior y para la Unión Europea.
+
+c) Vocales:
+
+Subdirector del Gabinete de la Presidencia del Gobierno.
+
+Subsecretario de Justicia.
+
+Subsecretario de Defensa.
+
+Subsecretario de Economía y Hacienda.
+
+Subsecretario del Interior.
+
+Subsecretario de Fomento.
+
+Subsecretario de Educación y Cultura.
+
+Subsecretario de Trabajo y Asuntos Sociales.
+
+Subsecretario de Industria y Energía.
+
+Subsecretario de Agricultura, Pesca y Alimentación.
+
+Secretario general de Pesca Marítima.
+
+Subsecretario de la Presidencia.
+
+Subsecretario de Administraciones Públicas.
+
+Subsecretario de Sanidad y Consumo.
+
+Subsecretario de Medio Ambiente.
+
+d) Secretario: Director general de Asuntos Técnicos de la Unión Europea.
+
+2\. Cuando se traten asuntos que afecten a otros Ministerios distintos de los representados en la Comisión, conforme al apartado anterior, serán convocados el Subsecretario del Departamento o el Secretario general correspondiente.
+
+3\. El Presidente de la Comisión podrá convocar a otros altos cargos de la Administración cuando puedan prestar una contribución singular al asunto de que se trate.
+
+4\. Los Vicepresidentes, salvo cuando sustituyan al Presidente, y los Vocales podrán delegar en otros representantes de su Departamento con rango mínimo de Director general.
+
+> Se modifica el apartado 1 por el art. único del Real Decreto 2367/1996, de 18 de noviembre. [Ref. BOE-A-1996-26616](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-26616).
+
+> Se modifica el apartado 1 por el art. 2.3 del Real Decreto 2077/1995, de 22 de diciembre. [Ref. BOE-A-1995-27558](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27558).
+
+## Artículo 3.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca a 2 de septiembre de 1985.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JAVIER MOSCOSO DEL PRADO Y MUÑOZ

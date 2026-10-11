@@ -1,0 +1,487 @@
+---
+title: "Real Decreto 363/1995, de 10 de marzo, por el que se aprueba el Reglamento sobre notificación de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas"
+identifier: "BOE-A-1995-13535"
+eli: "https://www.boe.es/eli/es/rd/1995/03/10/363"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1995-03-10
+published: 1995-06-05
+in_force_from: 1995-06-06
+last_amended: 2017-08-31
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 133"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-13535"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 363/1995, de 10 de marzo, por el que se aprueba el Reglamento sobre notificación de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas
+
+Esta norma pasa a denominarse **"Reglamento sobre clasificación, envasado y etiquetado de sustancias peligrosas"**, según establece el art. único.1 del Real Decreto 1802/2008, de 3 de noviembre. [Ref. BOE-A-2008-17630](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17630).
+
+Las referencias a los anexos VII-A, VII-B, VII-C, VII-D y VIII del Reglamento de sustancias se entenderán hechas a los anexos VI, VII, VIII, IX, X y XI del Reglamento (CE) n.º 1907/2006, según establece el art. único.9 del citado Real Decreto 1802/2008.
+
+El Reglamento sobre declaración de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas, aprobado por Real Decreto 2216/1985, de 23 de octubre, modificado por el Real Decreto 725/1988, de 3 de junio, y desarrollado por las Ordenes ministeriales de 7 de septiembre de 1988, de 29 de noviembre de 1990 y de 9 de diciembre de 1992, fue dictado para incorporar a nuestro ordenamiento jurídico la Directiva del Consejo 67/548/CEE, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas en materia de clasificación, envasado y etiquetado de sustancias peligrosas, así como sus posteriores modificaciones y adaptaciones al progreso técnico.
+
+La experiencia adquirida en la aplicación de las disposiciones anteriormente mencionadas, así como los nuevos conocimientos en la materia, han conducido a la aprobación de la Directiva del Consejo 92/32/CEE de 30 de abril, que supone la séptima modificación de la Directiva 67/548/CEE, y entraña unos cambios importantes de la regulación hasta ahora vigente, en aras a la obtención de un mayor nivel de protección de la salud y seguridad de la población y del medio ambiente, así como una mayor transparencia en las condiciones de mercado para estas sustancias y que se incorpora a nuestro ordenamiento jurídico mediante el presente Real Decreto. La mencionada Directiva 92/32/CEE ha sido, a su vez, desarrollada y complementada por las Directivas 92/37/CEE, 92/69/CEE, 93/21/CEE, 93/67/CEE, 93/72/CEE, 93/90/CEE, 93/105/CEE y 93/112/CEE, todas las cuales se hace necesario incorporar a nuestro ordenamiento jurídico, lo que se realiza también mediante el presente Real Decreto. De esta forma, mediante esta disposición se establece una regulación completa y actualizada de esta materia. Para ello se han incorporado también los aspectos contemplados en las Directivas 87/302/CEE y 91/410/CEE, que ya habían sido parcialmente traspuestas mediante la Orden ministerial de 13 de noviembre de 1989 y la antes citada Orden ministerial de 9 de diciembre de 1992, órdenes que ahora se derogan.
+
+Con respecto a la anterior regulación, que ahora se deroga, la presente reglamentación contempla definiciones nuevas y modificación de otras, especialmente las que afectan a las categorías de peligrosidad de las sustancias y preparados peligrosos; introduce un nuevo símbolo e indicación de peligro para el medio ambiente, y amplía y actualiza los criterios de clasificación y etiquetado. Igualmente, amplía el contenido de la etiqueta, con la incorporación del número CEE y la nueva frase de «etiqueta CEE» para las sustancias que figuran en el anexo I, y establece un sistema de información para las mismas, constituido por la ficha de datos de seguridad, destinada fundamentalmente al usuario profesional, que contribuye a fomentar la protección del medio ambiente, la salud y la seguridad en el trabajo.
+
+Por otra parte, se incorporan los requisitos exigibles en el procedimiento de notificación de sustancias nuevas, procedimiento que se uniformiza y armoniza para todos los países de la Unión Europea.
+
+En esta línea, se establece un sistema de notificación simplificada de sustancias que se comercialicen en cantidades inferiores a una tonelada por año y fabricante y se establece un procedimiento común de intercambio de información y la posibilidad de designar, cuando se trate de sustancias fabricadas fuera del mercado interior, un representante único a efectos de la notificación.
+
+Se establecen también medidas para evitar la repetición de ensayos en animales; dichos ensayos han de regirse por los principios de buenas prácticas de laboratorio y la normativa existente sobre la protección de los animales utilizados para experimentación y otros fines científicos. Igualmente destacable, es la existencia del Inventario Europeo de Sustancias Comerciales Existentes «EINECS», cuya consulta se establece como previa al inicio del procedimiento de notificación.
+
+Debe señalarse, por otra parte, que frente a la regulación actual de sustancias, que únicamente recoge la identificación de la peligrosidad intrínseca de las mismas, el presente Real Decreto contempla la evaluación de riesgos de las sustancias notificadas, cuyo resultado servirá de base para la adopción de medidas encaminadas a reducir los riesgos que se derivan de su comercialización y uso, permitiendo, incluso, el poder tomar medidas restrictivas previas a la puesta en el mercado de las sustancias, con el fin de conseguir una mayor protección de la salud pública y del medio ambiente.
+
+Asimismo, se ha considerado conveniente introducir, en la parte dispositiva, una modificación del Reglamento sobre clasificación, envasado y etiquetado de preparados peligrosos, aprobado por el Real Decreto 1078/1993, de 2 de julio, como consecuencia de la necesidad de sustituir el concepto de «efectos teratogénicos» por el de «toxicidad para la reproducción», derivado del artículo 2 de la Directiva 92/32/CEE, que viene a modificar la Directiva 88/379/CEE.
+
+Debe considerarse, finalmente, que la regulación efectuada por el presente Real Decreto refuerza la concepción de la Unión Europea, por lo que al utilizarse la expresión «mercado interior» se entenderá que la misma implica un espacio sin fronteras interiores a nivel comunitario, en el que la libre circulación de mercancías, personas, servicios y capitales estará garantizada de acuerdo con las disposiciones del Tratado Constitutivo de la Comunidad Europea, en los términos en su día previstos por el artículo 14 del Acta Unica Europea.
+
+Procede, por tanto, en virtud de las obligaciones que se derivan de la pertenencia del Estado Español a las Comunidades Europeas, incorporar a nuestro ordenamiento jurídico los preceptos contenidos en la Directiva del Consejo 92/32/CEE, de 30 de abril de 1992, que modifica por séptima vez la Directiva 67/548/CEE, y las Directivas 87/302/CEE, 91/410/CEE, 92/37/CEE, 92/69/CEE, 93/21/CEE, 93/67/CEE, 93/72/CEE, 93/90/CEE, 93/105/CEE y 93/112/CEE, mediante la presente norma, que se dicta al amparo de lo dispuesto en el artículo 149.1.16.ª y 23.ª de la Constitución y de acuerdo con el artículo 40, apartados 5 y 6 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo y del Ministro de Industria y Energía, con informe favorable de la Comisión Interministerial de Coordinación del Transporte de Mercancías Peligrosas, oídos los sectores afectados, previa aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 10 de marzo de 1995,
+
+#### D I S P O N G O :
+
+##### Artículo único.
+
+Se aprueba el Reglamento sobre notificación de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas, que se inserta a continuación.
+
+##### Disposición adicional primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 255/2003, de 28 de febrero. [Ref. BOE-A-2003-4376](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-4376).
+
+##### Disposición adicional segunda.
+
+El presente Real Decreto se dicta al amparo del artículo 149.1.16.ª y 23.ª de la Constitución y de acuerdo con lo establecido en el artículo 40, apartados 5 y 6, de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+##### Disposición adicional tercera.
+
+A las actividades, servicios y estudios relacionados con el proceso de notificación les será de aplicación la tasa establecida por el artículo 26 de la Ley 42/1994, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social.
+
+##### Disposición adicional cuarta. Comisión de Cooperación en materia de Calidad Ambiental.
+
+1\. En virtud de lo establecido en el artículo 3 de la Ley 8/2010, de 31 de marzo, por la que se establece el régimen sancionador previsto en los Reglamentos (CE) relativos al registro, a la evaluación, a la autorización y a la restricción de las sustancias y mezclas químicas (REACH) y sobre la clasificación, el etiquetado y el envasado de sustancias y mezclas (CLP), que lo modifica, la Comisión de Cooperación en materia de Calidad Ambiental adscrita al Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente, será el órgano de cooperación técnica y colaboración entre las Administraciones competentes en materia de calidad ambiental, sin perjuicio de las competencias en salud y seguridad de las personas que puedan corresponder a otros Departamentos.
+
+2\. La composición, régimen de funcionamiento y funciones se regulan en la disposición adicional tercera del Real Decreto 815/2013, por el que se aprueba el Reglamento de emisiones industriales y de desarrollo de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación.
+
+> Se añade por el art. 2 del Real Decreto 773/2017, de 28 de julio. [Ref. BOE-A-2017-10054](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10054)
+
+##### Disposición transitoria primera.
+
+Las prescripciones establecidas en los artículos 18, 19 y 20 del Reglamento, que se aprueba, no serán exigibles, cuando sean de aplicación a los gases licuados del petróleo hasta el 30 de abril de 1997.
+
+##### Disposición transitoria segunda.
+
+Las sustancias peligrosas afectadas por la reglamentación que se establece podrán seguir comercializándose bajo las condiciones de clasificación, envasado y etiquetado exigidas con anterioridad a la entrada en vigor del Reglamento aprobado por el presente Real Decreto, durante un período de dieciocho meses a partir de dicha entrada en vigor, con el fin de que las industrias puedan adoptar las medidas necesarias para su cumplimiento. Igualmente, se concede un plazo máximo de dieciocho meses, a partir de la entrada en vigor del presente Real Decreto, para la elaboración de las fichas de datos de seguridad, contempladas en el artículo 23 de la reglamentación que se aprueba.
+
+##### Disposición derogatoria única.
+
+Quedan derogados el Real Decreto 2216/1985, de 23 de octubre, por el que se aprueba el Reglamento sobre declaración de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas; el Real Decreto 725/1988, de 3 de junio, por el que se modifica el Reglamento sobre declaración de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas, aprobado por el Real Decreto 2216/1985, de 23 de octubre; las Ordenes de 7 de septiembre de 1988, de 29 de noviembre de 1990 y de 9 de diciembre de 1992 por las que se actualizan los anejos técnicos del Reglamento sobre declaración de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas, aprobado por el Real Decreto 2216/1985, de 23 de octubre; la Orden de 14 de marzo de 1988 por la que se desarrollan los métodos de ensayo para la determinación de las propiedades de sustancias peligrosas; la Orden de 13 de noviembre de 1989 por la que se añaden nuevos métodos de ensayo para la determinación de las propiedades de sustancias peligrosas a los aprobados por Orden de 14 de marzo de 1988, y cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto.
+
+##### Disposición final primera.
+
+Se faculta a los Ministros de Sanidad y Consumo y de Industria y Energía para que, en el ámbito de sus respectivas competencias, procedan al desarrollo de lo dispuesto en este Real Decreto, así como para dictar las normas necesarias para la actualización de los anexos técnicos contenidos en el mismo.
+
+##### Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», sin perjuicio de lo dispuesto en las disposiciones transitorias.
+
+Dado en Madrid a 10 de marzo de 1995.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+ALFREDO PÉREZ RUBALCABA
+
+## REGLAMENTO SOBRE NOTIFICACION DE SUSTANCIAS NUEVAS Y CLASIFICACION, ENVASADO Y ETIQUETADO DE SUSTANCIAS PELIGROSAS
+
+### CAPÍTULO I — Ámbito de aplicación y definiciones
+
+##### Artículo 1. Ámbito de aplicación.
+
+1\. El presente Reglamento regula la clasificación, el envasado y el etiquetado de sustancias peligrosas para el hombre y el medio ambiente, cuando dichas sustancias se comercialicen en el mercado interior.
+
+2\. Se excluyen del ámbito de aplicación del presente Reglamento las siguientes sustancias y preparados en estado acabado, destinados al usuario final, que son regulados por sus reglamentaciones específicas:
+
+a) Los medicamentos de uso humano y veterinario.
+
+b) Los cosméticos.
+
+c) Las mezclas de sustancias en forma de residuos.
+
+d) Los productos alimenticios.
+
+e) Los alimentos para animales.
+
+f) Los plaguicidas.
+
+g) Las sustancias radiactivas.
+
+h) Otras sustancias o preparados para los que ya existan procedimientos de notificación y cuyos requisitos sean equivalentes a los dispuestos en el presente Reglamento.
+
+Asimismo, se excluyen del ámbito de aplicación del presente Reglamento:
+
+i) El transporte de mercancías peligrosas por ferrocarril, carretera o vía de navegación interior, marítima o aérea.
+
+j) Las sustancias en tránsito sometidas a control aduanero, siempre que no sean objeto de tratamiento o transformación.
+
+> Se modifica el apartado 1 por el art. único.2 del Real Decreto 1802/2008, de 3 de noviembre. [Ref. BOE-A-2008-17630](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17630).
+
+##### Artículo 2. Definiciones.
+
+1\. A efectos del presente Reglamento se entiende por:
+
+a) Sustancia: un elemento químico y sus compuestos naturales o los obtenidos por algún proceso industrial, incluidos los aditivos necesarios para conservar su estabilidad y las impurezas que inevitablemente produzca el proceso, con exclusión de todos los disolventes que puedan separarse sin afectar a la estabilidad de la sustancia ni modificar su composición.
+
+b) Preparado: una mezcla o solución compuesta por dos o más sustancias.
+
+c) Comercialización: suministro de un producto o puesta a disposición de un tercero, ya sea mediante pago o de forma gratuita. La importación se considerará comercialización.
+
+d) EINECS: Catálogo europeo de sustancias químicas comercializadas.
+
+Dicho inventario establece la lista definitiva de todas las sustancias que en principio se encontraban en el mercado comunitario al 18 de septiembre de 1981.
+
+e) ELINCS: Lista europea de sustancias químicas notificadas.
+
+f) Identificación de los peligros: la identificación de los efectos indeseables que una sustancia es intrínsecamente capaz de provocar.
+
+2\. A efectos del presente Reglamento, se considerarán peligrosas las siguientes sustancias y preparados:
+
+a) Explosivos: las sustancias y preparados sólidos, líquidos, pastosos, o gelatinosos que, incluso en ausencia de oxígeno atmosférico, puedan reaccionar de forma exotérmica con rápida formación de gases y que, en determinadas condiciones de ensayo, detonan, deflagran rápidamente o bajo el efecto del calor, en caso de confinamiento parcial, explosionan.
+
+b) Comburentes: las sustancias y preparados que, en contacto con otras sustancias, en especial con sustancias inflamables, produzcan una reacción fuertemente exotérmica.
+
+c) Extremadamente inflamables: las sustancias y preparados líquidos que tengan un punto de ignición extremadamente bajo y un punto de ebullición bajo, y las sustancias y preparados gaseosos que, a temperatura y presión normales, sean inflamables en contacto con el aire.
+
+d) Fácilmente inflamables: las sustancias y preparados:
+
+1.º Que puedan calentarse e inflamarse en el aire a temperatura ambiente sin aporte de energía, o
+
+2.º Los sólidos que puedan inflamarse fácilmente tras un breve contacto con una fuente de inflamación y que sigan quemándose o consumiéndose una vez retirada dicha fuente, o
+
+3.º Los líquidos cuyo punto de ignición sea muy bajo, o
+
+4.º Que, en contacto con el agua o con el aire húmedo, desprendan gases extremadamente inflamables en cantidades peligrosas.
+
+e) Inflamables: las sustancias y preparados líquidos cuyo punto de ignición sea bajo.
+
+f) Muy tóxicos: las sustancias y preparados que, por inhalación, ingestión o penetración cutánea en muy pequeña cantidad puedan provocar efectos agudos o crónicos e incluso la muerte.
+
+g) Tóxicos: las sustancias y preparados que, por inhalación, ingestión o penetración cutánea en pequeñas cantidades puedan provocar efectos agudos o crónicos e incluso la muerte.
+
+h) Nocivos: las sustancias y preparados que, por inhalación, ingestión o penetración cutánea puedan provocar efectos agudos o crónicos e incluso la muerte.
+
+i) Corrosivos: las sustancias y preparados que, en contacto con tejidos vivos puedan ejercer una acción destructiva de los mismos.
+
+j) Irritantes: las sustancias y preparados no corrosivos que, en contacto breve, prolongado o repetido con la piel o las mucosas puedan provocar una reacción inflamatoria.
+
+k) Sensibilizantes: las sustancias y preparados que, por inhalación o penetración cutánea, puedan ocasionar una reacción de hipersensibilidad, de forma que una exposición posterior a esa sustancia o preparado dé lugar a efectos negativos característicos.
+
+l) Carcinogénicos: las sustancias y preparados que, por inhalación, ingestión o penetración cutánea puedan producir cáncer o aumentar su frecuencia.
+
+m) Mutagénicos: las sustancias y preparados que, por inhalación, ingestión o penetración cutánea, puedan producir alteraciones genéticas hereditarias o aumentar su frecuencia.
+
+n) Tóxicos para la reproducción: las sustancias y preparados que, por inhalación, ingestión o penetración cutánea, puedan producir efectos negativos no hereditarios en la descendencia, o aumentar la frecuencia de éstos, o afectar de forma negativa a la función o a la capacidad reproductora.
+
+o) Peligrosos para el medio ambiente: las sustancias y preparados que presenten o puedan presentar un peligro inmediato o futuro para uno o más componentes del medio ambiente.
+
+> Se modifica el apartado 1 por el art. único.3 del Real Decreto 1802/2008, de 3 de noviembre. [Ref. BOE-A-2008-17630](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17630).
+
+### CAPÍTULO II — Ensayos, evaluación y clasificación de las sustancias peligrosas
+
+##### Artículo 3. Ensayo y valoración de las propiedades de la sustancia.
+
+Los ensayos que se lleven a cabo sobre sustancias en el ámbito de este Reglamento deberán realizarse con arreglo a los requisitos que figuran en el artículo 13 del Reglamento (CE) n.º 1907/2006.
+
+> Se modifica por el art. único.4 del Real Decreto 1802/2008, de 3 de noviembre. [Ref. BOE-A-2008-17630](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17630).
+
+##### Artículo 4. Evaluación del riesgo de las sustancias nuevas.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.5 del Real Decreto 1802/2008, de 3 de noviembre. [Ref. BOE-A-2008-17630](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17630).
+
+##### Artículo 5. Clasificación de las sustancias.
+
+1\. La clasificación de las sustancias se efectuará en función de sus propiedades intrínsecas, con arreglo a las categorías definidas en el apartado 2 del artículo 2. Al clasificar las sustancias, se tendrán en cuenta las impurezas cuando su concentración sobrepase los límites previstos en el apartado 4 del presente artículo y en el artículo 3 del Reglamento sobre clasificación, envasado y etiquetado de preparados peligrosos.
+
+2\. Los principios generales de la clasificación y etiquetado de sustancias y preparados se aplicarán de acuerdo con los criterios establecidos en el anexo VI del presente Reglamento, salvo que existan disposiciones específicas opuestas a las normas reguladoras de los preparados peligrosos.
+
+3\. Cuando una entrada que contenga la clasificación y el etiquetado armonizados de una sustancia concreta se haya introducido en la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas, la sustancia se clasificará con arreglo a dicha entrada y los apartados 1 y 2 de este artículo no se aplicarán a las categorías de peligro cubiertas por dicha entrada.
+
+4\. **(Suprimido)**
+
+5\. Los fabricantes, distribuidores e importadores de sustancias que aparecen en el EINECS, pero para los que no se ha creado una entrada en la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008, buscarán los datos accesibles y pertinentes existentes relativos a las propiedades de dichas sustancias.
+
+Atendiendo a tal información, deberán envasar y etiquetar provisionalmente las sustancias peligrosas con arreglo a lo dispuesto en los artículos 18 a 21 del presente reglamento y a los criterios establecidos en el anexo VI del presente reglamento.
+
+> Se modifican los apartados 3 y 5 y se suprime el 4 por el art. 1.1 a 3 del Real Decreto 717/2010, de 28 de mayo. [Ref. BOE-A-2010-9104](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9104).
+
+##### Artículo 6. Obligaciones exigibles para la comercialización de las sustancias.
+
+1\. Las sustancias, como tales o en preparados, sólo podrán comercializarse si cumplen las condiciones de envasado y etiquetado contenidas en el presente Reglamento, con arreglo a los criterios establecidos en su anexo VI y, en el caso de las sustancias registradas, con arreglo a la información obtenida mediante la aplicación de los artículos 12 y 13 del Reglamento (CE) n.º 1907/2006, salvo en el caso de preparados que sean objeto de otras disposiciones específicas.
+
+2\. Las medidas del apartado 1, párrafo primero, se aplicarán hasta que la sustancia se haya introducido en la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008 para las categorías de peligro cubiertas por dicha entrada, o hasta que se haya tomado la decisión de no incluirla en la lista.
+
+> Se modifica el apartado 2 por el art. 1.4 del Real Decreto 717/2010, de 28 de mayo. [Ref. BOE-A-2010-9104](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9104).
+
+> Se modifica por el art. único.6 del Real Decreto 1802/2008, de 3 de noviembre. [Ref. BOE-A-2008-17630](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17630).
+
+### CAPÍTULO III — Notificación de sustancias nuevas
+
+##### Artículos 7 a 12.
+
+**(Suprimidos)**
+
+> Se suprimen por el art. único.7 del Real Decreto 1802/2008, de 3 de noviembre. [Ref. BOE-A-2008-17630](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17630).
+
+### CAPÍTULO IV — Exenciones a la Notificación
+
+##### Artículo 13. Exenciones.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.7 del Real Decreto 1802/2008, de 3 de noviembre. [Ref. BOE-A-2008-17630](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17630).
+
+> Se modifican las letras e) y f) y se añade la letra g) en el apartado 1 por el art. único del Real Decreto 507/2001, de 11 de mayo. [Ref. BOE-A-2001-9096](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-9096).
+
+### CAPÍTULO V — Nueva información y notificaciones posteriores de una nueva sustancia
+
+##### Artículos 14 y 15.
+
+**(Suprimidos)**
+
+> Se suprimen por el art. único.7 del Real Decreto 1802/2008, de 3 de noviembre. [Ref. BOE-A-2008-17630](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17630).
+
+### CAPÍTULO VI — Funciones de la autoridad competente. Confidencialidad de los datos
+
+##### Artículos 16 y 17.
+
+**(Suprimidos)**
+
+> Se suprimen por el art. único.7 del Real Decreto 1802/2008, de 3 de noviembre. [Ref. BOE-A-2008-17630](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17630).
+
+### CAPÍTULO VII — Envasado, etiquetado y ficha de datos de seguridad
+
+##### Artículo 18. Envasado.
+
+1\. Las sustancias peligrosas sólo podrán comercializarse cuando sus envases se ajusten a las condiciones siguientes:
+
+a) Estarán diseñados y fabricados de forma que no sean posibles pérdidas de contenido. No se aplicará esta condición cuando se prescriban dispositivos especiales de seguridad.
+
+b) Los materiales con los que estén fabricados los envases y los cierres no deberán ser atacables por el contenido, ni formar con este último combinaciones peligrosas.
+
+c) Los envases y los cierres habrán de ser fuertes y solidos con el fin de impedir aflojamientos y deberán responder de manera fiable a las exigencias de mantenimiento.
+
+d) Los recipientes con un sistema de cierre reutilizable habrán de estar diseñados de forma que pueda cerrarse el envase varias veces sin perdida de su contenido.
+
+e) Cualquiera que sea su capacidad, los recipientes que contengan sustancias vendidas al publico en general o puestas a disposición de éste, etiquetadas como «muy tóxicas», «tóxicas» o «corrosivas», deberá disponer de un cierre de seguridad para niños y llevar una indicación de peligro detectable al tacto.
+
+f) Cualquiera que sea su capacidad, los recipientes que contengan sustancias vendidas al publico en general o puestas a disposición de éste, etiquetadas como «nocivas», «extremadamente inflamables» o «fácilmente inflamables», deberán llevar una indicación de peligro detectable al tacto.
+
+2\. Las especificaciones técnicas de los cierres de seguridad para niños, y dispositivos que permitan detectar los peligros al tacto, deberán ajustarse a las normas del anexo IX del presente Reglamento.
+
+##### Artículo 19. Etiquetado.
+
+1\. Las sustancias peligrosas sólo podrá ser comercializadas cuando el etiquetado de sus envases, ostenten de manera legible e indeleble al menos en la lengua española oficial del Estado, las condiciones que a continuación se indican:
+
+a) El nombre de la sustancia, con una de las denominaciones que figuran en la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008. Cuando la sustancia no estuviera en dicho anexo, se le dará el nombre utilizado en una nomenclatura internacionalmente reconocida.
+
+b) El nombre y la dirección completa, incluido el número de teléfono, del responsable de la comercialización establecido en el mercado interior, bien sea el fabricante, el importador o el distribuidor.
+
+c) Los símbolos y las indicaciones de peligro de acuerdo con el anexo II. Los símbolos deberán ir impresos en negro sobre un fondo amarillo anaranjado.
+
+Para las sustancias peligrosas que figuren en la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008, se deben utilizar los símbolos e indicaciones de peligro que se indican en dicho anexo. Para las sustancias peligrosas que no figuran en la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008, los símbolos e indicaciones de peligro se atribuirán según las normas establecidas en el anexo VI.
+
+Cuando una sustancia deba llevar más de un símbolo, se seguirán las siguientes reglas:
+
+1.º La obligación de poner el símbolo T convierte en facultativos los símbolos X y C, salvo disposición contraria en la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008,
+
+2.º La obligación de poner el símbolo C convierte en facultativo el símbolo X, y
+
+3.º La obligación de poner el símbolo E convierte en facultativos los símbolos F y O.
+
+d) Las frases tipo que indican los riesgos específicos derivados de los peligros de la sustancia (frases R), se ajustarán a las indicaciones del anexo III.
+
+Para las sustancias peligrosas que figuran en la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008 se deberán utilizar las frases R que se indican en dicho anexo. Para las sustancias que no figuran en la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008, las frases R se atribuirán según las normas establecidas en el anexo VI.
+
+e) Las frases tipo que indican los consejos de prudencia en relación con el uso de la sustancia (frases S), se ajustarán a las indicaciones del anexo IV.
+
+Para las sustancias peligrosas que figuran en la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008 se deberán utilizar las frases S que se indican en dicho anexo. Para las sustancias peligrosas que no figuran en la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008, las frases S se atribuirán según las normas establecidas en el anexo VI.
+
+f) El número CE, en caso de estar asignado. Este número se obtendrá a partir del "EINECS" o del "ELINCS".
+
+g) Las sustancias que figuran en la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008, además, llevarán en la etiqueta la frase "etiqueta CE".
+
+2\. En el caso de sustancias irritantes, fácilmente inflamables, inflamables o comburentes, no será necesario indicar las frases R y S cuando el contenido del envase no exceda de los 125 mililitros. Esta norma se aplicará también a las sustancias nocivas de igual contenido, cuando no se vendan al por menor al público en general.
+
+3\. Las indicaciones tales como «no tóxico», «inocuo» o cualquier otra indicación análoga no podrán figurar en la etiqueta ni en el envase de las sustancias reguladas por el presente Reglamento.
+
+> Se sustituyen las menciones al anexo I por las de la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008, según establece el art. 1.5 del Real Decreto 717/2010, de 28 de mayo. [Ref. BOE-A-2010-9104](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9104).
+
+> Se modifican las letras f) y g) del apartado 1 por el art. único del Real Decreto 700/1998, de 24 de abril. [Ref. BOE-A-1998-10726](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-10726).
+
+##### Artículo 20. Aplicación de las condiciones de etiquetado.
+
+1\. Cuando las indicaciones exigidas en el artículo 19 vayan consignadas en una etiqueta, ésta se fijará sólidamente en una o varias caras del envase, de forma que dichas indicaciones puedan leerse horizontalmente cuando el envase este colocado en posición normal.
+
+Las dimensiones de la etiqueta deberán responder a los formatos siguientes:
+
+Capacidad del envase / Formato - (En milímetros)
+
+Inferior o igual a 3 litros / 52 x 74 como mínimo.
+
+Superior a 3 litros e inferior o igual a 50 litros / 74 x 105 como mínimo.
+
+Superior a 50 litros e inferior o igual a 500 litros / 105 x 148 como mínimo.
+
+Superior a 500 litros / 148 x 210 como mínimo.
+
+Cada símbolo deberá ocupar por lo menos la décima parte de la superficie de la etiqueta, no siendo en ningún caso inferior a 1 cm. La etiqueta tendrá que ir adherida en toda su superficie al envase que contenga directamente la sustancia. Estas superficies estarán destinadas exclusivamente a contener las informaciones exigidas por el presente Reglamento y en su caso las indicaciones complementarias de higiene o seguridad.
+
+2\. La etiqueta no será necesaria cuando las indicaciones previstas en el apartado anterior estén consignadas de forma visible en el propio envase.
+
+3\. La presentación y el color de la etiqueta y, en el caso del apartado 2, del envase serán tales que el símbolo de peligro y el fondo sobre el que esté impreso destaquen claramente.
+
+4\. La información que con arreglo al artículo 19 deberá contener la etiqueta, destacará sobre el fondo y será de un tamaño suficiente e irá espaciada de forma tal que pueda leerse fácilmente. El anexo VI contiene disposiciones concretas relativas a la presentación y al formato de esa información para determinadas sustancias.
+
+5\. Se considerarán cumplidas las exigencias en materia de etiquetado, a los efectos del presente Reglamento:
+
+a) Cuando un embalaje que contenga uno o varios envases interiores, esté etiquetado de acuerdo con las normas internacionales en materia de transporte de sustancias peligrosas y el envase interior o envases interiores estén etiquetados conforme al presente Reglamento.
+
+b) En el caso de un envase único:
+
+1.º Cuando el mismo lleve una etiqueta conforme a las normas internacionales en materia de transporte de sustancias peligrosas y a los párrafos a), b), d), e), f) y g) del apartado 1 del artículo 19.
+
+2.º Cuando se considere apropiado para tipos especiales de envase, como las bombonas de gas portátiles, de conformidad con las prescripciones específicas contempladas en el anexo VI.
+
+##### Artículo 21. Excepciones a los requisitos de etiquetado y envasado.
+
+1\. Los artículos 18, 19 y 20 anteriores no se aplicarán a las disposiciones que regulan las municiones y los explosivos comercializados para producir un efecto práctico pirotécnico o de explosión.
+
+2\. Cuando los envases sean muy pequeños o de una forma tal que no permitan la utilización de una etiqueta que pueda cumplir lo determinado en los apartados 1 y 2 del artículo 20, el etiquetado exigido en el artículo 19 se podrá aplicar de otra forma adecuada, siempre que previamente se ponga en conocimiento de la autoridad competente sesenta días antes de su comercialización.
+
+3\. Los envases de sustancias peligrosas, que no sean «explosivas», «muy tóxicas» o «tóxicas», podrán eximirse de la obligación de etiquetado o hacerlo de forma distinta a la exigida en los artículos 19 y 20, en el caso de que contengan cantidades tan reducidas que no puedan suponer peligro para las personas que manipulan esas sustancias ni para terceros, siempre que previamente se ponga en conocimiento de la autoridad competente sesenta días antes de su comercialización.
+
+4\. Cuando los envases de sustancias, «explosivas», «muy tóxicas» o «tóxicas» sean muy pequeños o de forma tal que no permitan el etiquetado que se establece en los artículos 19 y 20, podrán ser etiquetados de cualquier otra forma apropiada, siempre y cuando no haya peligro para las personas que manipulan dichas sustancias ni para terceros, siempre que previamente se ponga en conocimiento de la autoridad competente sesenta días antes de su comercialización.
+
+En las excepciones mencionadas en los párrafos 2, 3 y 4, no podrán utilizarse símbolos, indicaciones de peligro, frases R o frases S distintas a las que se establecen en el presente Reglamento.
+
+##### Artículo 22. Publicidad.
+
+De acuerdo con lo previsto en el artículo 8 de la Ley 34/1988, de 11 de noviembre, General de Publicidad, y en el artículo 27 de la Ley 14/1986, General de Sanidad, se prohíbe toda publicidad sobre las sustancias incluidas en una o en varias de las categorías contempladas en el apartado 2 del artículo 2 cuando en ella no se mencionen la categoría o categorías de que se trate.
+
+##### Artículo 23. Ficha de datos de seguridad.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.7 del Real Decreto 1802/2008, de 3 de noviembre. [Ref. BOE-A-2008-17630](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17630).
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 99/2003, de 24 de enero. [Ref. BOE-A-2003-2211](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2211).
+
+### CAPÍTULO VIII — Competencias administrativas
+
+##### Artículo 24. Determinación competencial.
+
+1\. Competencias de la Administración del Estado.
+
+a) De acuerdo con lo establecido en el artículo 40.1, 5 y 6 de la Ley 14/1986, General de Sanidad, el Ministerio de Sanidad y Consumo será autoridad competente en cuanto se refiere a la determinación y desarrollo de los requisitos de clasificación, envasado, etiquetado y fichas de datos de seguridad de las sustancias peligrosas.
+
+b) En el ejercicio de estas competencias, el Ministerio de Sanidad y Consumo coordinará sus actuaciones con los Ministerios de Trabajo y Seguridad Social, de Industria y Energía y de Obras Públicas, Transportes y Medio Ambiente, y con los restantes órganos de las Administraciones Públicas, en orden a una correcta aplicación de lo dispuesto en el presente Reglamento. Igualmente, y de acuerdo con lo previsto en el artículo 4.1.c) de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, facilitará a esas autoridades, la información que precisen para el ejercicio de sus funciones.
+
+c) Corresponderá al Ministerio de Sanidad y Consumo el ejercicio de las actividades precisas para el correcto desempeño de las competencias que al mismo corresponde.
+
+2\. Competencias de las Comunidades Autónomas.
+
+Corresponderá a los órganos competentes de las Comunidades Autónomas la vigilancia, inspección y control del correcto cumplimiento de cuanto se establece en este Reglamento, con respecto a las sustancias y preparados comercializados en sus respectivos territorios, así como el ejercicio de la potestad sancionadora cuando corresponda.
+
+3\. Actuaciones en materia de seguridad e higiene en el trabajo.
+
+Lo establecido en este Reglamento no afectará a la facultad de los organismos competentes en materia de seguridad e higiene en el trabajo, de establecer los requisitos necesarios para garantizar la protección de los trabajadores durante la utilización de las sustancias peligrosas, siempre que ello no suponga modificaciones de la clasificación, el envasado ni el etiquetado de las sustancias peligrosas con respecto a las disposiciones establecidas en el presente Reglamento.
+
+> Se modifica el apartado 1.a) por el art. único.8 del Real Decreto 1802/2008, de 3 de noviembre. [Ref. BOE-A-2008-17630](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17630).
+
+##### Artículo 25. Intercambio de información.
+
+1\. El Ministerio de Sanidad y Consumo suministrará a las Comunidades Autónomas los consejos, orientaciones, información o cualquier otro elemento que disponga para que éstas puedan ejercer adecuadamente sus funciones de inspección y vigilancia.
+
+Igualmente podrá poner en práctica las medidas que resulten más adecuadas para lograr la efectiva coordinación de las actuaciones que en esta materia corresponden a las Comunidades Autónomas.
+
+2\. Sin perjuicio de las medidas de coordinación y colaboración que se establezcan, las autoridades de las Comunidades Autónomas encargadas del control del correcto cumplimiento de lo establecido en este Reglamento informarán anualmente, al Ministerio de Sanidad y Consumo, de las actividades que realicen para garantizar la aplicación de este Reglamento.
+
+##### Artículo 26. Competencias para solicitud de información.
+
+1\. Con el fin de dar respuesta a cualquier solicitud de orden médico el Ministerio de Sanidad y Consumo y los órganos correspondientes de las Comunidades Autónomas podrán solicitar al responsable de la comercialización la información relativa a las sustancias peligrosas comercializadas, incluida su composición química. Igualmente, en caso de urgencia, podrá solicitar esa información cualquier autoridad que deba hacer frente a tal situación. En todo caso se asegurará la confidencialidad de los datos suministrados que tengan tal carácter. Para todo ello, podrán dictarse, en su caso, las disposiciones complementarias que se consideren oportunas.
+
+2\. Mediante Real Decreto se establecerá un sistema de información para la prevención y tratamiento de intoxicaciones o accidentes ocasionados por sustancias peligrosas.
+
+##### Artículo 27. Cláusula de salvaguardia.
+
+1\. Cuando el Ministerio de Sanidad y Consumo tenga pruebas evidentes de que una sustancia puesta en el mercado, aun cumpliendo los requisitos de este Reglamento, constituya un peligro para la salud o para el medio ambiente por motivos de su clasificación, envasado o etiquetado, podrá someterla a condiciones especiales de control, proceder a una nueva clasificación provisional de dicha sustancia o, si fuera necesario, prohibir la comercialización de la misma. El Ministerio de Sanidad y Consumo informará inmediatamente a la Unión Europea y a los demás Estados miembros, indicando los motivos que hayan justificado tal decisión.
+
+2\. El Ministerio de Sanidad y Consumo comunicará al fabricante o responsable de la comercialización de la sustancia las medidas adoptadas en ejercicio de las funciones atribuidas en el apartado anterior.
+
+### CAPÍTULO IX — Infracciones y sanciones
+
+##### Artículo 28. Aplicación en esta materia del régimen sancionador legalmente establecido.
+
+1\. Las infracciones cometidas contra lo dispuesto en el presente Real Decreto tendrán el carácter de infracciones administrativas a la normativa sanitaria, de conformidad con lo dispuesto en el capítulo VI, del Título I, de la Ley 14/1986, de 25 de abril, General de Sanidad, y de las restantes disposiciones que resulten de aplicación. Las sanciones correspondientes se impondrán previa instrucción del correspondiente expediente, de acuerdo con lo previsto en la Ley 30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento del procedimiento para el ejercicio de la potestad sancionadora. Todo ello sin perjuicio de las responsabilidades civiles, penales o de otro orden que pudieran concurrir.
+
+2\. Se considerarán infracciones leves:
+
+El incumplimiento de lo establecido en el presente Real Decreto, o en las disposiciones que lo desarrollen, en cuanto que no sea clasificado como falta grave o muy grave, según preceptúa el artículo 35-A-3.ª de la Ley General de Sanidad.
+
+3\. Se considerarán infracciones graves:
+
+a) a d) **(Derogadas)**
+
+4\. Se considerarán infracciones muy graves:
+
+a) a e) **(Derogadas)**
+
+5\. Las infracciones descritas en los apartados anteriores darán lugar a la imposición de las sanciones previstas en el artículo 36 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+6\. Para la imposición de las sanciones que correspondan se tendrá en consideración el grado de dolo o culpa existente, así como su incidencia en la salud pública y medio ambiente y su trascendencia económica.
+
+7\. De conformidad con lo dispuesto en el artículo 33 de la Ley 14/1986, de 25 de abril, General de Sanidad, estas sanciones serán independientes de las que puedan imponerse por otras autoridades competentes en base a fundamentos distintos a los de infracción a la normativa sanitaria. A tal efecto, las distintas autoridades intercambiarán los antecedentes e informaciones que obren en su poder.
+
+A tal efecto, las distintas autoridades intercambiarán los antecedentes e informaciones que obren en su poder.
+
+> Se derogan las letras a) y c) del apartado 3 y a), b) y c) del apartado 4, con efectos de 2 de abril de 2010, y las letras b) y d) del apartado 3 y d) y e) del apartado 4, con efectos de 1 de diciembre de 2010, por la disposición derogatoria única. a) y c) de la Ley 8/2010, de 31 de marzo. [Ref. BOE-A-2010-5293](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5293).
+
+## ANEXOS
+
+[El Reglamento se publicó en suplemento aparte. Los Anexos se han omitido. Consúltese el [PDF oficial del suplemento.](http://www.boe.es/boe/dias/1995/06/05/pdfs/C00001-00581.pdf)]
+
+> Véase el art. único.6 del Real Decreto 717/2010, de 28 de mayo, por el que se suprime el Anexo I. [Ref. BOE-A-2010-9104](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9104).
+
+> Véase el art. único.10 a 12 del Real Decreto 1802/2008, de 3 de noviembre, por el que se modifica el Anexo VI y se suprimen los anexos V, VII-A, VII-B, VII-C, VII-D, VIII, X y XI. [Ref. BOE-A-2008-17630](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-17630).
+
+> Véase la Orden PRE/1244/2006, de 20 de abril, por la que se modifican los anexos I y V. [Ref. BOE-A-2006-7581](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-7581).
+
+> Véase el Real Decreto 99/2003, de 24 de enero, por el que se modifica el anexo XI. [Ref. BOE-A-2003-2211](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2211).
+
+> Véase la Orden PRE/2317/2002, de 16 de septiembre, por la que se modifican los anexos I, II, III, IV, V, VI, VII y VIII. [Ref. BOE-A-2002-18438](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-18438).
+
+> Véase la Orden de 5 de abril de 2001, por la que se modifican los anexos I, IV, V, VI y IX. [Ref. BOE-A-2001-7617](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-7617).
+
+> Véase la Orden de 5 de octubre de 2000, por la que se modifican los Anexos I, III, IV y VI. [Ref. BOE-A-2000-18244](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-18244).
+
+> Véase la Orden de 16 de julio de 1999, por la que se modifican los anexos I y V. [Ref. BOE-A-1999-16240](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-16240).
+
+> Véase la Orden de 11 de septiembre de 1998, por la que se modifican los anexos I y VI. [Ref. BOE-A-1998-21829](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-21829).
+
+> Véase la Orden de 30 de junio de 1998, por la que se modifican los anexos I, III, V y VI. [Ref. BOE-A-1998-16039](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-16039).
+
+> Véase la Orden de 21 de febrero de 1997, por la que se modifica el Anexo I. (En suplemento aparte se publica el anexo correspondiente). [Ref. BOE-A-1997-5149](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-5149).
+
+> Véase la Orden de 13 de septiembre de 1995, por la que se modifica el Anexo I. [Ref. BOE-A-1995-20998](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-20998).

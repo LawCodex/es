@@ -1,0 +1,878 @@
+---
+title: "Orden de 13 de abril de 1994 por la que se dictan normas de desarrollo del Real Decreto 631/1993, de 3 de mayo, por el que se regula el Plan Nacional de Formación e Inserción Profesional"
+identifier: "BOE-A-1994-9695"
+eli: "https://www.boe.es/eli/es/o/1994/04/13/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Seguridad Social"
+date: 1994-04-13
+published: 1994-04-28
+in_force_from: 1994-04-29
+last_amended: 2006-12-21
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 101"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-9695"
+retrieved: 2026-10-11
+---
+
+# Orden de 13 de abril de 1994 por la que se dictan normas de desarrollo del Real Decreto 631/1993, de 3 de mayo, por el que se regula el Plan Nacional de Formación e Inserción Profesional
+
+Téngase en cuenta que esta norma queda derogada en cuanto se oponga a lo dispuesto en la Orden TAS/816/2005, de 21 de marzo. [Ref. BOE-A-2005-5240](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-5240), según establece su disposición derogatoria única, en relación con el art. 2 de la misma.
+
+El Real Decreto 631/1993, de 3 de mayo, ha dado una nueva regulación al Plan Nacional de Formación e Inserción Profesional, recogiendo las directrices planteadas por el Programa Nacional de Formación Profesional y la experiencia acumulada en el período de aplicación del propio Plan. Asimismo, la nueva regulación refleja el reparto competencial derivado del traspaso de la gestión de la Formación Profesional Ocupacional a varias Comunidades Autónomas.
+
+Para la más adecuada aplicación del Real Decreto 631/1993 se hace preciso desarrollar determinados aspectos de la nueva regulación, para lo cual esta disposición se ha estructurado en tres capítulos:
+
+El primero de ellos recoge como aspectos fundamentales la autorización de Centros Colaboradores y la homologación de especialidades formativas, así como la programación y selección de alumnos.
+
+El segundo capítulo contiene las bases reguladoras de cada una de las distintas modalidades de subvenciones y compensaciones económicas que se otorgan en el marco del Plan Nacional de Formación e Inserción Profesional, adaptando dicha regulación a la normativa sobre subvenciones y ayudas públicas del texto refundido de la Ley General Presupuestaria y del Real Decreto 2225/1993 por el que se aprueba el Reglamento del procedimiento para la concesión de subvenciones públicas.
+
+Por último, el capítulo tercero contempla las obligaciones de los beneficiarios y las normas relativas al control de las subvenciones, dentro del ámbito del Instituto Nacional de Empleo.
+
+En su virtud, previo informe del Servicio Jurídico del Departamento, dispongo:
+
+### Artículo 1. Objeto y ámbito de aplicación.
+
+La presente normativa tiene como objeto el desarrollo del Plan Nacional de Formación e Inserción Profesional, regulado en el Real Decreto 631/1993, de 3 de mayo, siendo de aplicación en todo el territorio nacional, sin perjuicio de la regulación que las Comunidades Autónomas que hayan asumido la gestión del Plan, puedan establecer dentro del ámbito de sus respectivas competencias.
+
+## CAPÍTULO I — Normas generales
+
+### Artículo 2. Homologación e inscripción de Centros Colaboradores y especialidades formativas.
+
+Las personas físicas, entidades jurídicas y las instituciones que dispongan de centros de formación y deseen colaborar en las acciones del Plan Nacional de Formación e Inserción Profesional, siempre que reúnan sus centros los requisitos establecidos en la normativa aplicable, podrán solicitar al Instituto Nacional de Empleo o, en su caso, a la Comunidad Autónoma competente, la homologación del centro y especialidades formativas que vaya a desarrollar el mismo, ateniéndose al procedimiento establecido en los artículos 3 y 4.
+
+Las especialidades a impartir deberán ser algunas de las integrantes de los nuevos cursos del repertorio de Certificados de Profesionalidad y, en su defecto, de la nueva ordenación efectuada por el Instituto Nacional de Empleo o de las restantes especialidades vigentes en el Fichero de Especialidades a que hace mención el punto 1 del artículo 4 de esta Orden. Sólo podrán homologarse nuevas especialidades, al margen del repertorio y de la nueva ordenación indicados, cuando correspondan a ocupaciones emergentes referidas a nuevas actividades económicas con potencialidad de empleo o nuevos yacimientos de empleo. A tal efecto, se entenderán encuadradas dentro de dichas nuevas actividades y nuevos empleos las ocupaciones relacionadas con:
+
+a) Servicios de utilidad colectiva, tales como mejora de la vivienda, vigilancia y seguridad, revalorización de espacios públicos urbanos, transportes colectivos, comercios de proximidad, así como actividades que afecten a la gestión de residuos, gestión de aguas, protección y mantenimiento de zonas naturales, así como aquellas que incidan directa o indirectamente en control de la energía.
+
+b) Servicios de ocio y culturales, tales como promoción del turismo, desarrollo cultural local, promoción del deporte, sector audiovisual y la valorización del Patrimonio cultural.
+
+c) Servicios personalizados de carácter cotidiano, tales como cuidado de niños, prestación de servicios a domicilio a personas discapacitadas o mayores, ayuda a jóvenes en dificultad y con desarraigo social y las nuevas tecnologías de la información y de la comunicación.
+
+En el ámbito del Instituto Nacional de Empleo la no resolución expresa en el plazo de seis meses de las solicitudes a que hace referencia el párrafo primero de este artículo implicará su denegación.
+
+> Se modifica por el art. único.1 de la Orden de 14 de octubre de 1998. [Ref. BOE-A-1998-24612](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-24612).
+
+### Artículo 3. Procedimiento para la homologación de Centros Colaboradores.
+
+1\. Para ser autorizado como Centro Colaborador e inscrito en el Censo Nacional de Centros Colaboradores, los interesados cumplimentarán los impresos de solicitud, que serán proporcionados por el Instituto Nacional de Empleo, o Comunidad Autónoma que tenga el traspaso de la gestión del Plan de Formación e Inserción Profesional, acreditando los requisitos específicos que establezca la Administración competente, y los generales siguientes:
+
+a) Todos los que se establecen en el artículo 10 del Real Decreto 631/1993, de 3 de mayo, cuyo cumplimiento se justificará a través de la siguiente documentación:
+
+Documento que acredite la propiedad, arrendamiento o derecho de uso del inmueble, instalaciones, equipamiento didáctico, talleres o campos de práctica del centro de formación objeto de la homologación.
+
+Licencia de apertura.
+
+Planos oficiales.
+
+b) La Administración competente comprobará el cumplimiento de los requisitos sobre inmuebles, instalaciones, equipos, herramientas y materiales didácticos pudiéndose dedicar el aula y el taller de una especialidad, de acuerdo al apartado 2 del artículo 10 del citado Real Decreto, a impartir las especialidades afines, siempre que puedan realizarse con los mismos medios.
+
+Asimismo se verificarán los requisitos, consignados en los certificados de profesionalidad y, en su defecto, la adecuación a los criterios técnicos que establezcan los servicios competentes. Se efectuará un seguimiento y evaluación periódicos de la conservación por el centro de las exigencias de la homologación, pudiéndose tener en consideración, a ese efecto, los sistemas implantados de gestión de calidad acreditados que contemplen los marcos y aplicación del Plan Nacional de Formación e Inserción Profesional.
+
+c) Por otra parte, en virtud de lo dispuesto en la disposición adicional séptima del Real Decreto 631/1993, los requisitos de los Centros Colaboradores contenidos en el apartado 3, del artículo 10 de ese Real Decreto, serán exigibles en el ámbito de gestión directa del Instituto Nacional de Empleo, sin perjuicio de su carácter supletorio para el resto del territorio nacional.
+
+2\. El titular jurídico de un Centro Colaborador de Formación Ocupacional homologado del Plan FIP no podrá cederlo a terceros para el desarrollo de los cursos aprobados por la Administración competente. No obstante se podrá solicitar el cambio de titularidad, regulado en el punto 7 del artículo 11 del Real Decreto 631/1993, de 3 de mayo, para lo cual será necesario aportar la siguiente documentación:
+
+Subrogación de derechos y obligaciones del nuevo titular.
+
+Documento que acredite la venta, alquiler o derecho de uso del antiguo titular a favor del nuevo.
+
+Fotocopia compulsada del documento que justifique el alta en el Impuesto sobre Actividades Económicas.
+
+> Se modifica el apartado 1.b) por el art. único.2 de la Orden de 14 de octubre de 1998. [Ref. BOE-A-1998-24612](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-24612).
+
+> Redactado el apartado 2 conforme a la corrección de errrores publicada en BOE núm. 121, de 21 de mayo de 1994. [Ref. BOE-A-1994-11561](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-11561).
+
+### Artículo 4. Especialidades formativas.
+
+1\. Toda especialidad formativa homologada comprenderá las especificaciones técnico docentes y el contenido formativo adecuado y además será objeto de clasificación acorde a su nivel formativo y el grado de dificultad, al objeto de determinar las subvenciones a los Centros Colaboradores, originadas por su impartición. La clasificación mencionada será efectuada por el Director general del Instituto Nacional de Empleo o, en su caso, el órgano que tuviese delegada la competencia, quien registrará toda especialidad homologada en el Fichero de Especilidades Formativas.
+
+2\. El nivel formativo se dividirá en niveles: «Básico», «medio», «superior» y «alto».
+
+En el nivel básico se clasificarán las especialidades que tienen como finalidad formativa dar una cualificación inicial o básica para una ocupación a alumnos que carecen de conocimientos de la misma. Este nivel debe permitir la ejecución de un trabajo simple y que puede ser fácilmente aprendida.
+
+En el nivel medio se incluirán las especialidades que tienen como finalidad dar una mayor cualificación dentro de la ocupación, a alumnos que parten de una formación previa equivalente a la obtenida en el nivel básico. Este nivel debe referirse al ejercicio de una actividad delimitada, con capacidad de utilizar los instrumentos y técnicas adecuados, que puede ser autónoma en el límite de las técnicas que le son inherentes.
+
+En el nivel superior se incluirán las especialidades que tienen como finalidad formativa mejorar y actualizar el nivel de cualificación, en una o varias técnicas, a alumnos que parten de una preparación similar a la obtenida en el nivel medio. Se referirá a ocupaciones de carácter técnico que conlleve ciertas responsabilidades de programación y de coordinación.
+
+En el nivel alto se incluirán las especialidades para profesionales y técnicos con una formación equivalente a titulados universitarios medios y superiores, a los que se les forme o perfeccione en técnicas utilizables directamente en el desempeño de un puesto de trabajo acorde con su nivel profesional. Se trata de ocupaciones que implican responsabilidades de concepción, dirección o gestión, de forma autónoma o independiente, y que, por lo general, suponen el dominio de los fundamentos científicos de la profesión.
+
+3\. El grado de dificultad tendrá en cuenta el grado de complejidad que supone la organización del curso correspondiente a la especialidad, tanto por la infraestructura requerida como por la posibilidad de disponer de docentes cualificados para la impartición del curso.
+
+Cada especialidad se clasificará en el grado de dificultad «bajo», «normal» o «alto», en función de los factores citados.
+
+4\. En la homologación de especialidades formativas dirigidas a personas con discapacidad se tendrán en cuenta las siguientes peculiaridades:
+
+a) La homologación se adaptará a las necesidades específicas del citado colectivo. A tal efecto, las especialidades formativas dispondrán de contenidos formativos y especificaciones técnico docentes propias que, en su caso, podrán traducirse en un número mayor de horas de formación y un número de alumnos por módulo inferior al de las especialidades formativas homologadas con carácter general.
+
+b) Se atenderán las necesidades específicas derivadas del tipo de discapacidad física, psíquica o sensorial de los beneficiarios en la homologación de las especialidades formativas. Como medidas especiales para los cursos dirigidos a las personas sordas se garantizará la presencia de intérpretes de lengua de signos o profesores que tengan dominio de la misma, utilizando material curricular de fácil comprensión para dichas personas. Igualmente, el material curricular se adaptará a aquellas personas con deficiencias visuales totales o parciales que participen en los cursos.
+
+> Se añade el apartado 4 por el art. único.3 de la Orden de 14 de Octubre de 1998. [Ref. BOE-A-1998-24612](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-24612).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 121, de 21 de mayo de 1994. [Ref. BOE-A-1994-11561](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-11561).
+
+### Artículo 5. Homologación de nuevas especialidades formativas.
+
+En el caso de que algún centro considere necesario homologar una especialidad formativa que no esté recogida en el Fichero de Especialidades del Instituto Nacional de Empleo, será requisito previo a la solicitud de autorización de centro en dicha especialidad formativa, la petición de su inclusión a la Dirección General del INEM. Dicha petición se realizará a través de las Direcciones Provinciales del citado Instituto, y, en el caso de Centro Colaboradores en Comunidades Autónomas con traspaso de la gestión del Plan FIP, a través de los órganos que los mismos establezcan, para el caso de que, si la Comunidad Autónoma lo estima oportuno, lo traslade a la mencionada Dirección General.
+
+Para la inclusión de una nueva especialidad en el Fichero de Especialidades Formativas será necesario presentar informe motivado de necesidades de formación en la especialidad formativa en relación con el mercado de trabajo, y la descripción del programa según la estructura de un curso normalizado de Formación Profesional Ocupacional, así como una valoración estimada del coste de formación para quince alumnos.
+
+### Artículo 6. Programación.
+
+1\. Las convocatorias anuales de las programaciones de cursos del Plan Nacional de Formación e Inserción Profesional se anunciarán públicamente a través del «Boletín Oficial del Estado» o periódico oficial correspondiente de la Comunidad Autónoma.
+
+2\. Podrán solicitar su inclusión en las programaciones los Centros Colaboradores autorizados en relación a las especialidades que tengan homologadas.
+
+3\. Las organizaciones y organismos referidos en el artículo 8, apartado 2, b), del Real Decreto 631/1993, de 3 de mayo, que suscriban un contrato-programa, deberán solicitar, para el desarrollo de la acción formativa que sea objeto del mismo, su inclusión en las programaciones convocadas, efectuando a tal efecto la correspondiente propuesta de cursos.
+
+Cuando el inicio de la vigencia del contrato-programa se produzca fuera de los períodos de programación, las organizaciones y organismos suscribientes podrán presentar sus propuestas de realización de cursos en el plazo que en el mismo contrato-programa se indique o, en ausencia de una previsión concreta, en el plazo de dos meses a contar desde la fecha de inicio de la vigencia del correspondiente contrato-programa.
+
+4\. Todas las solicitudes de inclusión en la programación serán objeto de resolución administrativa, que se someterá al principio de objetividad y publicidad, y se notificará a los interesados.
+
+La no resolución expresa de la solicitud de inclusión en la programación implicará su denegación. No obstante lo anterior, las solicitudes no aprobadas ni denegadas expresamente podrán quedar en reserva durante el año natural, para sucesivas programaciones complementarias.
+
+5\. Las programaciones incluirán las propuestas aprobadas de cursos efectuadas para cada ámbito por las entidades públicas o privadas de formación o las empresas con las que se haya suscrito un convenio de colaboración o contrato-programa, que impartirán acciones formativas a través de sus propios Centros Colaboradores, según el artículo 8 del Real Decreto 631/1993 que regula el Plan Nacional de Formación e Inserción Profesional.
+
+6\. Tendrán prioridad en la programación las solicitudes de aquellos centros colaboradores que dispensen las especialidades ajustadas a los certificados de profesionalidad y/o se refieran a nuevas actividades profesionales o yacimientos de empleo en el sentido señalado en el artículo 2 de esta Orden, las de aquéllos que organicen prácticas en empresas promoviendo al efecto el oportuno acuerdo entre Administración y empresa u organización empresarial, los que presenten informes de evaluación o de calidad favorables respecto a las especialidades a impartir y en relación, especialmente, a indicadores de inserción o realización de prácticas profesionales y las solicitudes con compromiso de contratación.
+
+> Se añade el apartado 6 por el art. único.4 de la Orden de 14 de octubre de 1998. [Ref. BOE-A-1998-24612](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-24612).
+
+### Artículo 7. Procedimiento administrativo para la aprobación de la programación de cursos en el ámbito de gestión del Instituto Nacional de Empleo.
+
+1\. El procedimiento administrativo para la aprobación de la programación se iniciará mediante convocatoria específica del Director general del Instituto Nacional de Empleo y se ajustará a los requisitos contenidos en la correspondiente convocatoria, así como a lo establecido en su normativa específica.
+
+2\. Las programaciones se establecerán, con carácter de propuesta, una vez cerrado el plazo de las solicitudes fijado en la correspondiente convocatoria y calificadas éstas para su admisión, por las Direcciones Provinciales del Instituto Nacional de Empleo, guardándose en dichas programaciones las proporciones debidas en cuanto a colectivos y especialidades formativas. A cada propuesta de programación se acompañará una Memoria y, asimismo, conforme al artículo 3.2 del Real Decreto 631/1993, las citadas propuestas deberán ser informadas por la Comisión Ejecutiva Provincial.
+
+Las programaciones serán aprobadas, con o sin modificaciones de propuestas de programaciones provinciales, por el Director general del Instituto Nacional de Empleo o, en su caso, por el órgano que tenga delegada la competencia, en el plazo de un año desde la correspondiente convocatoria de programación.
+
+La aprobación de la programación no implica la concesión automática de la subvención correspondiente, que será objeto de aprobación por los Directores provinciales del Instituto Nacional de Empleo, en virtud de la competencia que se les delega por el Director general, salvo en el caso del contrato-programa, en que la competencia para otorgar la subvención se delega en el Subdirector general de Gestión de Formación Ocupacional.
+
+Asimismo, los Directores provinciales, por razones justificadas, podrán proponer la anulación o modificación de acciones formativas incluidas en la programación aprobada.
+
+> Se modifica por el art. único.1 de la Orden de 20 de septiembre de 1995. [Ref. BOE-A-1995-22496](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-22496).
+
+> Redactado el párrafo tercero del apartado 2 conforme a la corrección de errores publicada en BOE núm. 267, de 8 noviembre de 1995. [Ref. BOE-A-1995-24101](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-24101).
+
+### Artículo 8. Selección de alumnos.
+
+1\. El número de alumnos seleccionados por curso en la modalidad presencial no podrá ser superior a veinte.
+
+2\. En los cursos de modalidad presencial, los alumnos deberán incorporarse inmediatamente a las clases. Si no se incorporaran o se produjeran bajas de alumnos dentro de la primera mitad del curso, podrá sustituirse por alumnos preseleccionados, siempre que tengan el nivel de acceso correspondiente a la fase del curso al que se incorporan. En este caso, el responsable del curso deberá comprobar, mediante pruebas pertinentes, el nivel del alumno.
+
+3\. Los cursos en los que, pese haberse intentado completar el número de alumnos, disminuya el número de participantes hasta una cantidad inferior al 50 por 100 del número que fueron seleccionados, podrán ser suspendidos por la Administración competente, siempre y cuando no haya transcurrido más de la mitad de su período lectivo.
+
+4\. Salvo lo dispuesto en el artículo 11, apartado 4, del Real Decreto 631/1993, de 3 de mayo, en el caso de que los alumnos seleccionados sean desempleados perceptores de prestaciones o subsidio por desempleo, los centros y entidades responsables de los cursos deberán comunicar de manera inmediata a la Dirección Provincial del Instituto Nacional de Empleo que ha efectuado la preselección, todos los rechazos, no presentaciones y abandonos de cursos por parte de los mismos, así como las causas de dichas incidencias, a través del modelo que establezca dicho Instituto.
+
+5\. Dentro del respeto a los requisitos y preferencias para participar como alumnos que se fijan en el artículo 1, apartados 2 y 3, del Real Decreto 631/1993 regulador del Plan Nacional de Formación e Inserción Profesional, tendrán prioridad en la selección del alumnado los grupos de personas contemplados en los objetivos del Plan Nacional de Acción para el empleo, y en concreto según las siguientes características:
+
+a) Tiempo de permanencia en el desempleo (especialmente, paro de larga duración).
+
+b) Condición de beneficiario de prestación o subsidio de desempleo.
+
+c) Existencia de responsabilidades familiares.
+
+d) Discapacidad.
+
+e) Edad y condición de mujer.
+
+> Se añade el apartado 5 por el art. único.5 de la Orden de 14 de octubre de 1998. [Ref. BOE-A-1998-24612](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-24612).
+
+### Artículo 9. Procedimiento de exclusión de alumnos en el ámbito de gestión directa del Instituto Nacional de Empleo.
+
+En el supuesto de producirse las causas de exclusión contempladas en el artículo 6, apartado 2, del Real Decreto 631/1993, de 3 de mayo, el titular del centro correspondiente trasladará a la Dirección Provincial del Instituto Nacional de Empleo escrito haciendo constar las circunstancias del caso, con propuesta de exclusión del alumno del curso. El Director provincial formulará escrito al alumno, poniéndole de manifiesto los hechos fundamento de la propuesta de exclusión. El alumno podrá contestar en el plazo de tres días sobre los hechos reflejados en el escrito citado. Pasado dicho plazo, el Director provincial del Instituto resolverá lo procedente.
+
+## CAPÍTULO II — Normas relativas a las distintas modalidades de subvenciones
+
+### Artículo 10. Subvenciones a Centros Colaboradores.
+
+1\. Las subvenciones a otorgar en el marco del Plan Nacional de Formación e Inserción Profesional por la Administración competente tendrán como exclusivo objeto la compensación de los costes abonables, en virtud del Real Decreto 631/1993, de 3 de mayo, derivados de la impartición de cursos en las especialidades formativas homologadas e incluidas en las programaciones.
+
+2\. Los requisitos de los beneficiarios se acreditarán a través de la siguiente documentación:
+
+a) Resolución aprobatoria de la inscripción en el Censo Nacional de Centros Colaboradores del Plan Nacional de Formación e Inserción Profesional.
+
+b) Resolución aprobatoria de la Administración competente respecto a la inclusión en la correspondiente programación de los cursos solicitados.
+
+3\. Las subvenciones a los Centros Colaboradores tendrán una cuantía máxima por cada curso, la cual se concretará en el producto del número de horas del mismo por el número de alumnos que lo finalizan y por el importe del módulo que le corresponda al propio curso. Los módulos que, para la modalidad presencial y para la de a distancia, se fija, respectivamente, en los anexos I y II de la presente Orden, se asignan a cada curso de especialidad según su clasificación en función de su nivel formativo y del grado de dificultad de la técnica utilizada, tal como se previene en el artículo 4 de esta Orden.
+
+4\. Se computarán como alumnos que han finalizado el curso aquéllos que tuvieran que abandonarlo por haber encontrado empleo o por cualquier otra causa que, a juicio del Servicio Público de Empleo Estatal o la Comunidad Autónoma correspondiente, se considere debidamente justificada.
+
+Si el abandono fuera en la primera mitad del curso, se intentará la sustitución de aquéllos.
+
+Cuando en la segunda mitad del curso se produzca una disminución en el número de alumnos no imputable al centro colaborador, de hasta un máximo de dos, la parte A) del módulo se liquidará por su totalidad.
+
+5\. La cuantía económica derivada de los costes abonables efectivamente realizados, justificados e imputables a cada curso, constituirá la base para la aplicación del 10 por 100 correspondiente a los gastos de difícil justificación.
+
+La cantidad global esultante, después de efectuar dicha aplicación, no podrá ser superior al importe de la subvención máxima deducida según las reglas del precedente apartado 3.
+
+6\. El módulo correspondiente a cada especialidad constará de dos partes: Parte A y parte B. A cada parte se le fijará un importe máximo, siendo la suma de ambos igual a la del módulo completo.
+
+La parte A del módulo se referirá a los costes abonables de profesorado y tutores.
+
+La parte B del módulo se referirá al resto de costes abonables del curso.
+
+7\. Sólo podrán contemplarse como costes abonables a subvencionar los gastos desagregados siguientes:
+
+Gastos de profesorado, comprendiendo los sueldos u honorarios del personal docente, contratado fijo o eventual o el precio del servicio externo docente. Se podrán incluir también los costes de preparación, seguimiento, control de la actividad docente y los gastos de Seguridad Social a cargo del Centro Colaborador cuando haya contratado a los Profesores por cuenta ajena, con obligación de su afiliación y/o alta en la Seguridad Social.
+
+Gastos de seguros de accidentes de los alumnos, comprendiendo el importe de las pólizas o primas correspondientes a todos los alumnos asegurados, por riesgos que incluyan los de trayecto al lugar de impartición de las clases y prácticas, y contrayéndose estrictamente en su duración al período del curso y/o de las prácticas no laborales en empresas.
+
+Gastos de medios y materiales didácticos como texto y materiales de un solo uso por el alumno, los materiales de trabajo fungibles utilizados durante las actividades de formación.
+
+Gastos de amortización de instalaciones, equipos y herramientas de duración superior a un ejercicio anual, consistente en la cuota determinada por el cociente de dividir la diferencia entre el valor actual del bien y su valor residual por el número de ejercicios anuales de vida útil del mismo. En ningún caso, los gastos de amortización de los bienes, que habrán de tener una relación directa con la actividad docente del Centro Colaborador o de la práctica de la empresa, podrán superar una imputación del 25 por 100 de la parte B del módulo. En su caso, el Instituto Nacional de Empleo, o la Comunidad Autónoma correspondiente, podrá exigir justificación de las valoraciones, así como una planificación de la vida útil del bien.
+
+Gastos de energía eléctrica, de combustibles, así como de mantenimiento de las instalaciones y equipamientos formativos.
+
+Gastos generales, entendiendo comprendidos entre tales aquellos que sin estar incluidos en las divisiones anteriores deban imputarse o tengan su origen en la actividad del curso: Gastos de personal directivo y administrativo estrictamente necesario; alquileres, tanto de instalaciones como de maquinaria; seguros; teléfono y comunicaciones; preparación y gestión de cursos; gastos de administración del Centro Colaborador necesarios para su puesta y permanencia en actividad y publicidad expresamente demandada para la ejecución de los cursos aprobados y programados del Plan Nacional de Formación e Inserción Profesional.
+
+8\. El abono del importe de las subvenciones se efectuará a los centros colaboradores, previa justificación, a la finalización de los cursos. A estos efectos, y al amparo del artículo 31.2 de la Ley 38/2003, de 17 de noviembre, se considerarán gastos subvencionables aquellos que, de manera indubitada, respondan a la naturaleza de la actividad subvencionada y que hayan sido efectivamente pagados con anterioridad a la finalización del periodo de justificación que se establece en el artículo siguiente.
+
+Sin perjuicio de lo anterior, podrán autorizarse pagos anticipados y abonos a cuenta, previa la constitución de avales u otras garantías de cualquier clase admitidas en Derecho, a favor de la Administración Pública concedente.
+
+En defecto de regulación específica de las Comunidades Autónomas, las facturas a que se refiere el Anexo V, deberán cumplir los requisitos establecidos por el Reglamento que regula las obligaciones de facturación y se modifica el Reglamento del Impuesto sobre el Valor añadido, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
+
+> Se modifica el apartado 4 por el art. único de la Orden TAS/3868/2006, de 20 de diciembre. [Ref. BOE-A-2006-22357](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-22357).
+
+> Se añade el párrafo tercero al apartado 8 por el art. único.1 de la Orden TAS/630/2005, de 7 de marzo. [Ref. BOE-A-2005-4331](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4331).
+
+> Se modifica el apartado 8 por el art. único.1 de la Orden TAS/3309/2004, de 6 de octubre. [Ref. BOE-A-2004-17700](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17700).
+
+> Se modifica el apartado 4 por el art. único.1 de la Orden de 20 de septiembre de 1995. [Ref. BOE-A-1995-22496](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-22496).
+
+### Artículo 11. Subvenciones a Centros Colaboradores dentro del ámbito de gestión directa del Instituto Nacional de Empleo.
+
+1\. El órgano competente para la concesión de la correspondiente subvención será el Director general del INEM o, en su caso, el órgano que tenga delegada la competencia.
+
+2\. Podrá adelantarse a los centros colaboradores en concepto de anticipo, después de aprobada la subvención y antes de la finalización de los cursos, hasta el 100 por 100 de la subvención total.
+
+3\. Las entidades perceptoras de subvenciones, que se concedan con cargo al presupuesto del Servicio Público de Empleo Estatal, deberán aportar, con carácter previo al cobro de los anticipos de pago, la correspondiente garantía en la Caja General de Depósitos o en alguna de sus sucursales en la forma determinada en el artículo 1 de la Orden TAS/1622/2002, de 13 de junio.
+
+4\. La justificación de los gastos y consecuente solicitud de liquidación final de la subvención, deberá realizarse, de acuerdo con lo establecido en el artículo 30 de la Ley 38/2003, de 17 de noviembre, durante el plazo de tres meses desde la terminación del curso, utilizando para ello los impresos que figuran en los Anexos III y V de la presente Orden Ministerial.
+
+> Se modifican los apartados 3 y 4 por el art. único.2 de la Orden TAS/630/2005, de 7 marzo. [Ref. BOE-A-2005-4331](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4331).
+
+> Se modifica el apartado 2 por el art. único de la Orden TAS/1495/2003, de 31 de marzo. [Ref. BOE-A-2003-11506](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-11506).
+
+> Se modifica el apartado 4 por el art. único.6 de la Orden de 14 de octubre de 1998. [Ref. BOE-A-1998-24612](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-24612).
+
+> Se modifica el apartado 2 por el art. único.1 de la Orden de 20 de septiembre de 1995. [Ref. BOE-A-1995-22496](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-22496).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 267, de 8 de noviembre de 1995. [Ref. BOE-A-1995-24101](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-24101).
+
+### Artículo 12. Prácticas en empresas.
+
+1\. El convenio sobre prácticas en empresas de que trata el artículo 4, apartado 2, del Real Decreto 631/1993, de 3 de mayo, podrá también contener previsiones relativas al centro dispensador del curso con el que las prácticas se relacionan.
+
+2\. La compensación económica a las empresas por prácticas profesionales será por una cuantía máxima de 13,50 euros por alumno y día de prácticas.
+
+3\. Los requisitos que las empresas deberán acreditar para ser beneficiarias de esta modalidad de subvención son los siguientes:
+
+a) Documento que acredite el alta en el Impuesto sobre Actividades Económicas.
+
+b) Resolución aprobatoria de las prácticas por la Administración competente, con expresión detallada de número de alumnos, cantidad de horas de prácticas por alumno, número de días de prácticas por alumno, número de días de prácticas por el total de alumnos y cuantía de la compensación económica o subvención por la realización de las mismas.
+
+c) Póliza de seguros de accidentes de los alumnos en prácticas.
+
+4\. La justificación y liquidación de los gastos ocasionados para el abono de las referidas compensaciones, lo realizarán las empresas dentro del mes siguiente de las prácticas, mediante la aportación de las pólizas de seguro de accidentes del alumno, nóminas de tutoría, así como justificantes de otros gastos inherentes a la realización de las mismas.
+
+Igualmente deberán presentar en el plazo anteriormente indicado, una relación nominal de los alumnos, con indicación del documento nacional de identidad, así como del número de días y cantidad de horas de prácticas realizadas por cada alumno.
+
+5\. Las prácticas en empresas podrán tener lugar, bien simultáneamente a la realización del curso, o una vez finalizado el mismo, siempre que no hayan transcurrido más de treinta días desde la finalización, sin que en ningún caso superen la duración del curso de referencia.
+
+6\. En el supuesto de prácticas en empresas que se realicen como consecuencia del desarrollo de programas internacionales, se estará a lo dispuesto en los acuerdos o convenios suscritos con organismos de la Unión Europea o internacionales.
+
+7\. Dentro del ámbito del Instituto Nacional de Empleo, el órgano competente para la concesión de esta modalidad de subvención será el Director general o, en su caso, el órgano que tenga delegada la competencia.
+
+> Se modifica el apartado 2 por el art. único de la Orden TAS/3868/2006, de 20 de diciembre. [Ref. BOE-A-2006-22357](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-22357).
+
+> Se modifica el apartado 2 por el art. único.1 de la Orden TAS/466/2002, de 11 de febrero. [Ref. BOE-A-2002-4454](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-4454).
+
+> Téngase en cuenta para su aplicación la disposición final única.
+
+### Artículo 13. Contrato-programa.
+
+1\. El contrato-programa a que se refiere el artículo 8, apartado 2, letra b), del Real Decreto 631/1993, de 3 de mayo, deberá contener, al menos, los siguientes extremos:
+
+a) Proporción de alumnos a los que afectará su aplicación de acuerdo con los colectivos definidos en el artículo 1, apartado 2, del Real Decreto 631/1993, de 3 de mayo, y la descripción general de las acciones de formación profesional ocupacional por familias profesionales.
+
+b) Los mecanismos apropiados para el control de calidad y el seguimiento de la ejecución de las mencionadas acciones.
+
+2\. Las especialidades a impartir objeto del contrato-programa deberán estar homologadas previamente a la fecha de su impartición.
+
+3\. Las subvenciones para la realización de los cursos del contrato-programa serán otorgadas por la Administración competente y su cuantía será la misma que se abone a los Centros Colaboradores, fijada en el artículo 10 de esta Orden. Las subvenciones de los ejercicios posteriores al año de la firma del contrato-programa estará condicionada a la existencia de crédito presupuestario.
+
+4\. Podrán ser denunciados los contratos-programas por la Administración Pública suscribiente cuando se aprecie que se han vulnerado las finalidades generales de los mismos o algunas de sus cláusulas.
+
+Una vez resuelto el contrato-programa, si las organizaciones u organismos hubieran percibido anticipadamente el importe parcial o total de la subvención estarán obligados a devolver la parte correspondiente a las acciones que no se hubieran realizado. En caso de incumplimiento, se procederá a ejecutar las garantías existentes.
+
+5\. Una vez solicitada la programación se determinará la cuantía del importe de las subvenciones económicas correspondientes a la ejecución de las acciones de formación profesional ocupacional referidas a dicha programación.
+
+### Artículo 14. Especificidades del contrato-programa en el ámbito de gestión directa del Instituto Nacional de Empleo.
+
+1\. El contrato-programa contendrá, además de las especificaciones mencionadas en el artículo anterior, una cláusula sobre la constitución de una Comisión mixta en la que estarán representados el Instituto Nacional de Empleo y las organizaciones u organismos que suscriban el contrato-programa, para la evaluación y seguimiento de las acciones de formación ocupacional, cuya ejecución se asuma en el mismo contrato-programa.
+
+La firma del contrato-programa, así como la resolución de concesión de subvenciones en relación con la ejecución del mismo, se efectuará por el Director general del Instituto Nacional de Empleo o, en su caso, por el órgano que tenga delegada la competencia.
+
+2\. La preselección de alumnos beneficiarios del contrato-programa se efectuará por el Instituto Nacional de Empleo y la selección definitiva de los candidatos se efectuará por las organizaciones y organismos suscribientes del contrato-programa, con obediencia estricta de las proporciones de alumnos por características prioritarias.
+
+3\. En el caso de contrato-programa que sean suscritos con organizaciones profesionales o representativas de la economía social u organismos de formación que realicen una acción formativa con extensión a varias provincias y organizadas a nivel central, la justificación y la liquidación de los gastos efectivos se efectuará por cursos separados en todos los cursos desarrollados en el marco de un mismo contrato-programa, con mención e imputación de costes a cada uno de dichos cursos.
+
+4\. Podrá adelantarse a las organizaciones y organismos suscribientes del contrato-programa, en concepto de anticipo, hasta el 50 por 100 de las subvenciones correspondientes a cada año, una vez aprobada la programación ordinaria.
+
+La justificación de los gastos y consecuente solicitud de liquidación final de la subvención, tanto en los cursos de formación profesional ocupacional en su modalidad presencial como en su modalidad a distancia, deberá hacerse en el plazo de un mes desde la terminación del curso o del final de la programación anual, utilizándose para ello el impreso CC3E que figura como anexo III, debidamente cumplimentado por la entidad suscriptora del contrato-programa, así como por la Dirección Provincial del Instituto Nacional de Empleo a la que corresponda cada acción formativa.
+
+Las entidades reseñadas en el párrafo anterior, con carácter previo al percibo de adelantos a cuenta, deberán prestar avales o garantías, de cualquiera de las clases admitidas en derecho, que sean suficientes para cubrir la totalidad del anticipo, a fin de responder de la correcta aplicación de la subvención.
+
+5\. La denuncia del contrato-programa, cuando proceda, se efectuará por el Instituto Nacional de Empleo, por medio de comunicación fundada a la organización u organismo suscribiente, con una antelación mínima de un mes a la fecha prevista de la resolución del mismo. Llegada esta fecha, deberán finalizarse las acciones de formación ya iniciadas, salvo acuerdo expreso en contrario, garantizándose, en este último caso, en lo posible, los intereses formativos de los alumnos.
+
+### Artículo 15. Convenios de colaboración.
+
+1\. El convenio de colaboración, contemplado en el artículo 8, apartado 2, c), del Real Decreto 631/1993, de 3 de mayo, que tiene por objeto la impartición de acciones de formación profesional ocupacional por parte de entidades públicas o privadas de formación y empresas, contendrá el ámbito geográfico y las áreas formativas en las que se prevea la colaboración, así como los procedimientos para las propuestas de programación, selección de alumnos, gestión y seguimiento de acciones. Particularmente, en el convenio figurarán compromisos cuantitativos de alumnos y se incluirán mecanismos objetivos de control de calidad de la formación impartida.
+
+2\. Podrán suscribirse convenios de colaboración con organizaciones empresariales, empresas o entidades de formación constituidas por organizaciones profesionales, de empresas y/o sindicatos, que tengan como beneficarios a demandantes de primer empleo, si apreciadas las circunstancias existentes, en relación a las posibilidades de inserción laboral, así resultare aconsejado, siempre que se incorpore el compromiso por parte de empresas individuales o de organizaciones empresariales de contratar, al menos, al 60 por 100 de los alumnos formados. Las organizaciones o entidades mencionadas deberán poseer sus propios Centros Colaboradores autorizados para colaborar en el desarrollo del Plan Nacional de Formación e Inserción Profesional.
+
+3\. Las entidades suscriptoras de un convenio de colaboración deberán acreditar ante la Administración competente, antes del inicio de las acciones formativas, el cumplimiento de los requisitos exigidos en el artículo 10, apartado 2, de la presente Orden. Asimismo deberán acreditar la realización de los cursos, de acuerdo con lo establecido en el artículo 10, apartado 8, de esta Orden.
+
+4\. En aquellos casos en que se suscriba un convenio de colaboración que contemple además de la impartición de cursos, la realización de prácticas profesionales en empresas, en cuanto a la acreditación de las mismas se estará a lo dispuesto en el artículo 12 de la presente Orden.
+
+### Artículo 16. Especificidades de los convenios de colaboración suscritos con el Instituto Nacional de Empleo.
+
+1\. Cuando en virtud del artículo 8, apartado 2, c), del Real Decreto 631/1993, de 3 de mayo, se concluya un convenio de colaboración con una empresa, se podrá establecer un compromiso de contratación de los alumnos beneficiarios, medido en porcentaje del total de alumnos, que aconsejen las circunstancias de las empresas y del mercado local de empleo. Tal compromiso no podrá ser, en ningún caso, inferior al 60 por 100 en caso de demandantes de primer empleo, según lo dispuesto en el artículo 1.3 del Real Decreto 631/1993, de 3 de mayo. En presencia de un compromiso de contratación, tendrán prioridad en las programaciones los cursos incluidos en el respectivo convenio. La firma del convenio de colaboración, así como la resolución de concesión de la subvención se efectuará por el Director general del Instituto Nacional de Empleo o, en su caso, por el órgano que tenga delegada la competencia.
+
+2\. Los contratos objeto del compromiso, que deberán estar autorizados en el marco de la normativa vigente y habrán de tener una duración mínima de seis meses serán presentados ante el Instituto Nacional de Empleo en el momento de la liquidación de la subvención.
+
+3\. Cuando no se dé cumplimiento al compromiso de contratación fijado en el convenio de colaboración, salvo que medien causas o circunstancias que, apreciadas por el Instituto Nacional de Empleo, hayan impedido la viabilidad del compromiso, la empresa y su Centro Colaborador, incurrirán en lo previsto en el artículo 24, apartado 1, a), de esta Orden, sin perjuicio de lo establecido en el artículo 82 del texto refundido de la Ley General Presupuestaria.
+
+4\. Cuando se produzcan anticipos económicos, a cuenta de las subvenciones, a las entidades o empresas que hayan suscrito un convenio de colaboración éstas deberán con carácter previo al percibo de los anticipos, presentar avales o garantías suficientes de cualquier clase de las admitidas en derecho, a favor del Instituto Nacional de Empleo, para responder de la correcta aplicación de las subvenciones.
+
+5\. Para la justificación de los gastos y consecuente solicitud de la liquidación final de la subvención, se estará a lo dispuesto en el artículo 11, apartado 4, de la presente Orden.
+
+### Artículo 17. Becas y ayudas a alumnos.
+
+1\. Podrán solicitarse por el alumno la beca y ayuda previstas en el artículo 6, apartado 1, del Real Decreto 631/1993, de 3 de mayo, en el plazo de un mes, a partir de la incorporación al curso correspondiente, siempre que pueda acreditar de modo suficiente, de acuerdo con lo dispuesto en los apartados siguientes de este artículo, el encontrarse en los supuestos de concesión. La beca sólo podrá solicitarla el alumno que pertenezca al colectivo definido en el mencionado artículo 6.1, apartado b), y en la disposición adicional quinta del mismo Real Decreto 631/1993.
+
+En el supuesto de programas europeos de Formación Ocupacional, el plazo de solicitud será desde un mes a partir de la incorporación al curso hasta un mes después del retorno del alumno.
+
+2\. Se tendrá derecho a la ayuda de transporte y manutención cuando sea preciso desplazarse para asistir a un curso de un municipio a otro, distantes entre sí, por lo menos, cincuenta kilómetros, y siempre que las clases sean por la mañana y por la tarde. A tal efecto, el alumno deberá presentar el certificado de empadronamiento y residencia expedido por el Ayuntamiento de la localidad de su domicilio. En el caso de existir contradicción entre este dato y el que figura como domicilio en la tarjeta de demandante de empleo, se estará a este último. De no reunir todas las condiciones señaladas en este apartado, el alumno podrá solicitar una ayuda de transporte si ha de trasladarse de un municipio a otro distinto.
+
+3\. Se tendrá derecho a ayuda por alojamiento y manutención, cuando el alumno deba desplazarse a cien o más kilómetros para asistir a los cursos desde el lugar de su domicilio debiendo concurrir a clases en horarios de mañana y de tarde, salvo que por las facilidades de la red de transportes existente, los desplazamientos puedan efectuarse con oportunidad y rapidez antes y después de las clases. La concurrencia de esta última circunstancia será apreciada por el órgano de la Administración competente para el abono de la ayuda. El gasto real de alojamiento se justificará por medio del contrato de arrendamiento, factura de hospedaje o cualquier otro medio documental acreditativo.
+
+4\. Los alumnos minusválidos deberán, para la obtención de la beca, acreditar su estado mediante certificación emitida por el Instituto Nacional de Servicios Sociales, o servicio correspondiente de la Comunidad Autónoma, dependiente de la Administración general o autonómica, respectivamente.
+
+5\. En todo caso, para tener derecho a la beca o a la ayuda será necesario que la duración del curso no sea inferior a cuatro horas diarias, pudiendo computarse a este efecto los tiempos de práctica profesional en una empresa que sean simultáneos al desarrollo del curso.
+
+El alumno también tendrá derecho a la beca o a la ayuda, con los mismos requisitos, durante la realización exclusiva de la práctica profesional en la empresa.
+
+6\. Los alumnos no percibirán las becas correspondientes a los días lectivos que sin causa justificada, hayan dejado de asistir al curso. Asimismo, tampoco se percibirán las ayudas de transporte, o transporte y manutención de los días de ausencia, sean o no justificadas.
+
+7\. Los importes máximos de las becas y ayudas a los alumnos serán los siguientes:
+
+a) La beca tendrá una cuantía de 6,40 euros/día lectivo.
+
+b) La ayuda en concepto de transporte y manutención tendrá una cuantía de 9,70 euros/día lectivo.
+
+En el caso de un formador que asista a un curso del Plan Anual de Formación de Formadores esta ayuda será de 16,00 euros/día lectivo. En el supuesto a que alude el párrafo último del apartado 2 de este artículo, la ayuda será la correspondiente al importe de los billetes de ida y vuelta en transporte público o el correspondiente abono de transporte si ésta fuera la opción más económica.
+
+La ayuda en concepto de transporte en vehículo propio tendrá una cuantía de 0,19 euros por kilómetro. Esta modalidad de ayuda se prevé para aquellos casos en que exista imposibilidad de utilizar el transporte público o éste no garantice la movilidad necesaria de los alumnos.
+
+c) La ayuda en concepto de alojamiento y manutención tendrá una cuantía de hasta 66,90 euros/día natural. En este supuesto, el alumno tendrá derecho a los billetes de transporte en clase económica de los desplazamientos inicial y final.
+
+d) La ayuda en concepto de alojamiento y manutención a los alumnos de los cursos correspondientes al Plan Anual de Formadores tendrá una cuantía de hasta 80,00 euros/día natural, más el abono de los desplazamientos inicial y final en clase económica. En este caso, el formador deberá encontrarse en las mismas circunstancias que se fijan en el apartado 3 anterior y deberá justificar el gasto real.
+
+e) Los alumnos que participen en cursos transnacionales y/o en prácticas profesionales que se desarrollen en otros países, tendrán derecho al percibo de una ayuda en concepto de alojamiento y manutención de hasta 158,40 euros/día natural. Percibirán además el importe de los desplazamientos inicial y final en clase económica. Estos alumnos podrán recibir un anticipo del 50 por 100 del importe global de la ayuda de transporte, alojamiento y manutención que les corresponda, abonándose el resto tras finalizar la acción y la presentación de los justificantes correspondientes al transporte y alojamiento.
+
+> Se modifica el apartado 7 por el art. único de la Orden TAS/3868/2006, de 20 de diciembre. [Ref. BOE-A-2006-22357](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-22357).
+
+> Se modifica el apartado 7 por el art. único.1 de la Orden TAS/466/2002, de 11 de febrero. [Ref. BOE-A-2002-4454](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-4454).
+
+> Téngase en cuenta para su aplicación la disposición final única.
+
+> Se modifican los apartados 1 y 7 por el art. único.1 de la Orden de 20 de septiembre de 1995. [Ref. BOE-A-1995-22496](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-22496).
+
+### Artículo 18. Procedimiento de concesión de becas y ayudas en el ámbito de gestión directa del Instituto Nacional de Empleo.
+
+1\. Corresponderá al Director provincial del Instituto Nacional de Empleo, por delegación del Director general del citado Instituto, en el ámbito de su competencia, dictar la resolución que proceda, en relación a la becayalaayuda en concepto de transporte, alojamiento y manutención.
+
+Contra dicha resolución, el interesado podrá interponer recurso ordinario ante el Ministro de Trabajo y Asuntos Sociales, en los términos establecidos en los artículos 114 y siguientes de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+2\. El Instituto Nacional de Empleo establecerá el procedimiento de abono de las becas y ayudas a alumnos.
+
+> Se modifica por el art. único.7 de la Orden de 14 de octubre de 1998. [Ref. BOE-A-1998-24612](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-24612).
+
+### Artículo 19. Formación a distancia.
+
+1\. En el supuesto de Centros que pretendan ser autorizados para impartir, exclusivamente, acciones formativas a distancia, deberán contar con sede de atención presencial en el territorio de gestión al que vayan a circunscribir su actuación.
+
+2\. El número de alumnos por curso a distancia no podrá ser inferior a 50 ni superior a 75.
+
+3\. Para toda clase de Centros de formación a distancia serán obligatorios los requisitos físico establecidos en el artículo 10, apartado 3, del Real Decreto 631/1993, de 3 de mayo, pudiendo destinarse las instalaciones generales de sala de profesores y actividades de coordinación, para los fines de tutoría del Centro.
+
+### Artículo 20. Requisitos de la Formación a distancia en el ámbito de gestión directa del Instituto Nacional de Empleo.
+
+Los Centros colaboradores que vayan a impartir acciones a distancia deberán especificar el modelo organizativo y de gestión, y los recursos humanos y materiales disponibles para la ejecución de dichas acciones.
+
+## CAPÍTULO III — Obligaciones de los beneficiarios y control de las subvenciones en el ámbito del Instituto Nacional de Empleo
+
+### Artículo 21. Obligaciones de los beneficiarios.
+
+Serán obligaciones de las entidades de todas clases, beneficiarias de subvenciones y compensaciones económicas, en virtud del Plan Nacional de Formación e Inserción Profesional, las siguientes:
+
+a) Realizar los cursos y/o prácticas profesionales de manera adecuada a cada especialidad y a las restantes condiciones fijadas en la programación, en los contratos-programa o en los convenios de colaboración, para lo cual deberán someterse a las visitas o actuaciones de control que establezca el INEM.
+
+b) Conservar las instalaciones y condiciones de todas clases de los Centros Colaboradores, de modo acorde a los requisitos mínimos que deben cumplir los mismos, de conformidad con lo establecido en el artículo 10, apartado 1, 2 y 3 del Real Decreto 631/1993.
+
+c) Cumplir las obligaciones que se establecen en el artículo 11 del Real Decreto 631/1993, de 3 de mayo, particularmente, comunicar al Instituto Nacional de Empleo los rechazos de los cursos por parte de los demandantes de empleo, especialmente cuando se trate de perceptores de prestaciones o subsidio por desempleo.
+
+d) Cumplir por la empresa el compromiso de contratación, salvo que exista causa que, a juicio del Instituto Nacional de Empleo, modifique sustancialmente las condiciones en las que debía ser llevado a efecto, en los supuestos del artículo 16 de esta Orden, y en las condiciones que se disponga en el Convenio de Colaboración.
+
+e) Acreditar ante el Instituto Nacional de Empleo la realización de los cursos y prácticas profesionales, según los casos, conservando y aportando los justificantes de los gastos en que efectivamente se haya incurrido, así como los documentos de seguimiento y evaluación de cursos que la Dirección General del Instituto Nacional de Empleo determine.
+
+f) Someterse a las actuaciones de comprobación a efectuar por el Instituto Nacional de Empleo y a las de control financiero que corresponden a la Intervención General de la Administración del Estado, en relación a las subvenciones y compensaciones económicas concedidas, así como facilitar cuanta información le sea requerida por el Tribunal de Cuentas.
+
+g) Comunicar al Instituto Nacional de Empleo la obtención de subvenciones o compensaciones económicas para la misma finalidad, procedentes de cualesquiera Administraciones o Entes Públicos nacionales o internacionales.
+
+h) Prestar avales y garantías suficientes, para responder del destino apropiado de anticipos económicos a cargo de subvenciones y compensaciones económicas.
+
+i) Exponer en un lugar bien visible, en los locales de sus Centros Colaboradores, que las subvenciones del Plan Nacional de Formación e Inserción Profesional se perciben, cofinanciadamente, del Instituto Nacional de Empleo y del Fondo Social Europeo.
+
+j) Realizar los informes de seguimiento y evaluación, en relación a los cursos que dan lugar al percibo de subvenciones, que puedan ser requeridos por el Instituto Nacional de Empleo.
+
+> Se añade la letra j) por el art. único.9 de la Orden de 14 de octubre de 1998. [Ref. BOE-A-1998-24612](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-24612).
+
+### Artículo 22. Alteración y concurrencia.
+
+Toda alteración de las condiciones tenidas en cuenta para la concesión de subvenciones o compensaciones económicas y, en todo caso, la obtención concurrente de subvenciones o ayudas otorgadas por otras Administraciones o Entes Públicos o privados, podrá dar lugar a la modificación de la aprobación de la concesión. En particular, habrá de comunicarse al Instituto Nacional de Empleo los cambios referentes a la titularidad o instalaciones de los Centros Colaboradores.
+
+### Artículo 23. Obligaciones tributarias y frente a la Seguridad Social.
+
+Los Centros Colaboradores y demás entidades y empresas, beneficiarias de subvenciones o compensaciones económicas del Plan Nacional de Formación e Inserción Profesional, deberán encontrarse al corriente de sus obligaciones tributarias y frente a la Seguridad Social. Tal acreditación se realizará con carácter previo al cobro de la subvención o compensación económica ante el Instituto Nacional de Empleo, en la forma prevista en las Órdenes del Ministerio de Economía y Hacienda, de 28 de abril de 1986 y 25 de noviembre de 1987, respectivamente.
+
+### Artículo 24. Supuestos de reintegro.
+
+1\. Procederá el reintegro total o parcial de las subvenciones o compensaciones económicas percibidas y la exigencia del interés de demora desde el momento de abono de aquéllas, en los siguientes supuestos:
+
+a) Incumplimiento de la finalidad para la que fueron concedidas, o de las condiciones impuestas para su concesión, en la aprobación de la programación, en el contrato-programa o en el Convenio de Colaboración.
+
+b) Incumplimiento de las obligaciones establecidas para los Centros Colaboradores en el artículo 11 del Real Decreto 631/1993, de 3 de mayo.
+
+c) Subcontratación con un tercero de la ejecución de los cursos aprobados.
+
+d) Incumplimiento de las obligaciones establecidas para las empresas en el convenio para la realización de las prácticas profesionales complementarias que se regulan en el artículo 4 del Real Decreto 631/1993, de 3 de mayo.
+
+e) Obtención de las subvenciones o compensaciones sin reunir las condiciones requeridas para ello, en especial en relación a los requisitos sobre instalaciones a que se refiere el artículo 10 del Real Decreto 631/1993, de 3 de mayo.
+
+2\. En el supuesto contemplado en el artículo 22 de la presente Orden, de concurrencia de las subvenciones o compensaciones económicas con otras con destino a la misma actividad formativa, procederá el reintegro del exceso obtenido sobre el coste de la actividad formativa a desarrollar por el beneficiario.
+
+3\. La obligación de reintegro establecida en los apartados anteriores, se entenderá sin perjuicio de lo previsto en los artículos 81 y 82 del texto refundido de la Ley General Presupuestaria.
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 121, de 21 de mayo de 1994. [Ref. BOE-A-1994-11561](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-11561).
+
+### Artículo 25. Procedimiento de reintegro.
+
+1\. El procedimiento de reintegro de las subvenciones o compensaciones económicas, en los supuestos previstos en el artículo anterior, se iniciará mediante escrito del Director provincial del Instituto Nacional de Empleo, por delegación del Director general de este Instituto, al beneficiario de aquéllas, según los casos, poniéndole de manifiesto el hecho o hechos constitutivos de incumplimiento y requiriéndole para que, en el plazo de quince días formule las alegaciones o presente los documentos o justificaciones que considere pertinentes.
+
+Transcurrido el plazo de alegaciones sin que éstas se hubiesen formulado o desestimadas éstas por falta de prueba, el Instituto Nacional de Empleo dictará resolución exigiendo el reintegro, que habrá de producirse en el plazo de los quince días siguientes a la notificación de la resolución.
+
+Contra esta resolución cabrá interponer por el interesado recurso administrativo ordinario ante el excelentísimo señor Ministro de Trabajo y Seguridad Social, en los términos establecidos en el título VII de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+2\. Transcurrido el plazo dado, en la resolución de reintegro, sin que se haya efectuado éste, el Instituto Nacional de Empleo procederá a expedir la certificación de descubierto, iniciándose el procedimiento de apremio de conformidad con lo establecido en el Real Decreto 1648/1990, de 20 de diciembre, que aprueba el Reglamento General de Recaudación.
+
+3\. Las cantidades a reintegrar tendrán la consideración de ingreso de derecho público, resultando de aplicación para su cobranza lo previsto en los artículos 31 al 34 de la Ley General Presupuestaria.
+
+> Se modifica el párrafo primero del apartado 1 por el art. único.9 de la Orden de 14 de octubre de 1998. [Ref. BOE-A-1998-24612](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-24612).
+
+> Se modifica por el art. único.1 de la Orden de 20 de septiembre de 1995. [Ref. BOE-A-1995-22496](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-22496).
+
+### Disposición adicional primera.
+
+De acuerdo con lo dispuesto en el artículo 10.3 del Real Decreto 631/1993, de 3 de mayo, en el ámbito territorial de gestión del Instituto Nacional de Empleo, la disposición de instalaciones del Centro Colaborador podrá fundamentarse en la propiedad, arrendamiento, cesión o cualquier otro título o negocio, siempre que se garantice la efectividad de las acciones formativas mediante la utilización adecuada de los locales e instalaciones.
+
+### Disposición adicional segunda.
+
+Aquellas empresas que, según el artículo 16 de la presente Orden, deseen formar alumnos para ser incorporados a sus plantillas, podrán acceder a la programación de cursos durante el ejercicio, siempre que tengan sus centros autorizados y previa suscripción de un convenio de colaboración, donde se contemple el compromiso de contratación que se asume.
+
+### Disposición adicional tercera.
+
+A las subvenciones y compensaciones económicas previstas en esta Orden les será de aplicación, en todo lo no previsto en la misma, los artículos 81 y 82 del texto refundido de la Ley General Presupuestaria.
+
+### Disposición adicional cuarta.
+
+En cuanto al procedimiento administrativo para la concesión de subvenciones y ayudas contenidas en la presente Orden y para lo no dispuesto en la misma, se estará a lo establecido en el Real Decreto 2225/1993, de 17 de diciembre.
+
+### Disposición adicional quinta.
+
+Para aquellas acciones formativas que el Instituto Nacional de Empleo desarrolle a través de sus propios medios en virtud del Plan Nacional de Formación e Inserción Profesional, así como para aquellas acciones incluidas en el artículo 16 del Real Decreto 631/1993, el Instituto Nacional de Empleo podrá contratar expertos incluidos en el fichero de expertos homologado cuando carezca de personal necesario al efecto.
+
+En el caso de los expertos necesarios para realizar las funciones incluidas en el artículo 16 mencionado, la competencia será de la Subdirección General de Gestión de Formación Ocupacional, por delegación del Director general.
+
+La contratación de estos expertos se realizará a través de la modalidad de obra y servicio determinado y pudiendo concertarse a jornada completa o a tiempo parcial.
+
+> Se modifica por el art. único.1 de la Orden de 20 de septiembre de 1995. [Ref. BOE-A-1995-22496](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-22496).
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 121, de 21 de mayo. [Ref. BOE-A-1994-11561](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-11561).
+
+### Disposición transitoria primera.
+
+Los Centros Colaboradores y las empresas beneficiarias de subvenciones y compensaciones económicas del Plan Nacional de Formación e Inserción Profesional que participen en las programaciones convocadas con anterioridad a la entrada en vigor del Real Decreto 631/1993, de 3 de mayo, podrán acogerse, respecto a los procedimientos de justificación y liquidación de aquéllas, a las normas contenidas en la presente Orden o a las vigentes al tiempo de convocarse las mencionadas programaciones.
+
+### Disposición transitoria segunda.
+
+Durante 1994 aquellas entidades que al cierre de la convocatoria de la programación anual prevista en el artículo 6.1 de la presente Orden no hubieran adquirido la condición de Centro Colaborador y la obtuvieran dentro del plazo establecido en al disposición transitoria tercera del Real Decreto 631/1993, de 3 de mayo, podrán solicitar ser incluidas en programaciones extraordinarias dentro de los dos meses siguientes a la finalización de dicho plazo.
+
+### Disposición derogatoria.
+
+Quedan derogadas las Órdenes del Ministerio de Trabajo y Seguridad Social, de 1 de abril de 1991, por la primera de las cuales se dictan normas para la ejecución del Plan Nacional de Formación e Inserción Profesional y la segunda de ellas por la que se fijan las bases generales de colaboración, a través de contrato-programa, entre el Instituto Nacional de Empleo y las distintas organizaciones empresariales y sindicales, así como las resoluciones de la Dirección General del Instituto Nacional de Empleo de 31 de marzo de 1992 y 28 de julio de 1992, por las que se fijan, respectivamente, el importe de las subvenciones de los cursos de los Centros Colaboradores y se establecen los sistemas, criterios y procedimiento de homologación de los Centros de Formación a Distancia, sin perjuicio de lo dispuesto, respecto a la primera resolución citada, en la disposición transitoria primera de esta Orden, en cuanto se reconoce la opción para la liquidación de las subvenciones y compensaciones económicas.
+
+### Disposición final primera.
+
+Se faculta al Director general del Instituto Nacional de Empleo para dictar cuantas resoluciones sean necesarias para el desarrollo y aplicación de la presente Orden, con validez en el ámbito de gestión del propio Instituto.
+
+### Disposición final segunda.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 13 de abril de 1994.
+
+GRIÑÁN MARTÍNEZ
+
+Ilmos. Sres. Subsecretario, Secretario general de Empleo y Relaciones Laborales y Director general del Instituto Nacional de Empleo.
+
+## ANEXO I — **Subvenciones de cursos del Plan Nacional de Formación e Inserción Profesional, en modalidad presencial**
+
+Subvenciones de cursos del Plan Nacional de Formación e Inserción Profesional, en modalidad presencial
+
+Los módulos máximos de subvención para la modalidad de formación presencial, según las definiciones de niveles y grados de dificultad señalados en el artículo 4, expresados en euros/hora alumno, son:
+
+Parte A:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Niveles</p>
+</td>
+<td colspan="3">
+<p>Grados de dificultad</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bajo-Euros</p>
+</td>
+<td>
+<p>Normal-Euros</p>
+</td>
+<td>
+<p>Alto-Euros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Básico</p>
+</td>
+<td>
+<p>2,20</p>
+</td>
+<td>
+<p>2,20</p>
+</td>
+<td>
+<p>2,80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Medio</p>
+</td>
+<td>
+<p>2,20</p>
+</td>
+<td>
+<p>2,80</p>
+</td>
+<td>
+<p>3,30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Superior</p>
+</td>
+<td>
+<p>2,80</p>
+</td>
+<td>
+<p>3,85</p>
+</td>
+<td>
+<p>3,85</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alto</p>
+</td>
+<td>
+<p>3,85</p>
+</td>
+<td>
+<p>3,85</p>
+</td>
+<td>
+<p>5,10</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+En aplicación de las cuantías de esta parte A del módulo, se tendrá presente que la subvención máxima para gastos de profesorado será la considerada para 15 alumnos. Estas cuantías incluyen la cuota empresarial de Seguridad Social.
+
+Parte B:
+
+La cuantificación económica de la parte B del módulo se concreta en los 12 parámetros que se relacionan a continuación:
+
+| Número | Parámetro | Euros |
+|---|---|---|
+| 1 | Bajo-Bajo BB | 1,25 |
+| 2 | Bajo-Medio . BM | 1,70 |
+| 3 | Bajo-Alto BA | 1,95 |
+| 4 | Normal-Bajo NB | 2,25 |
+| 5 | Normal-Medio . NM | 2,50 |
+| 6 | Normal-Alto NA | 2,80 |
+| 7 | Superior-Bajo SB | 2,95 |
+| 8 | Superior-Medio . SM | 3,35 |
+| 9 | Superior-Alto SA | 3,60 |
+| 10 | Alto-Bajo AB | 3,85 |
+| 11 | Alto-Medio . AM | 4,10 |
+| 12 | Alto-Alto AA | 4,35 |
+
+La asignación de los módulos máximos a las especialidades, tanto en la parte A como en la B, se efectuará por el Servicio Público de Empleo Estatal.
+
+El módulo total podrá incrementarse en un 20 por 100 para aumentar la programación de aquellas especialidades que excepcionalmente, y de manera temporal, así se determine por el Servicio Público de Empleo Estatal, a propuesta de la Comunidad Autónoma respectiva, en aquellos supuestos en que dicha programación por razones objetivas se considere prioritaria para la inserción laboral.
+
+> Se modifica por el art. único de la Orden TAS/3868/2006, de 20 de diciembre. [Ref. BOE-A-2006-22357](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-22357).
+
+> Se modifica por el art. único.1 de la Orden TAS/466/2002, de 11 de febrero. [Ref. BOE-A-2002-4454](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-4454).
+
+> Téngase en cuenta para su aplicación la disposición final única.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 121, de 21 de mayo de 1994. [Ref. BOE-A-1994-11561](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-11561).
+
+## ANEXO II — Subvenciones de cursos del Plan nacional de formación e inserción profesional, en su modalidad a distancia
+
+Las subvenciones económicas para compensar los diferentes costes de los cursos de formación a distancia se calcularán con arreglo a un módulo económico máximo conformado por dos partes:
+
+Parte A: Compensación de gastos de tutorías: En concepto de tutorías se subvencionarán los costes en función del nivel formativo de los cursos y grado de dificultad de la técnica impartida, según los valores que se recogen en el siguiente cuadro:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Niveles</p>
+</td>
+<td colspan="3">
+<p>Grados de dificultad</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bajo-Euros</p>
+</td>
+<td>
+<p>Normal-Euros</p>
+</td>
+<td>
+<p>Alto-Euros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Básico</p>
+</td>
+<td>
+<p>0,25</p>
+</td>
+<td>
+<p>0,34</p>
+</td>
+<td>
+<p>0,42</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Medio</p>
+</td>
+<td>
+<p>0,34</p>
+</td>
+<td>
+<p>0,46</p>
+</td>
+<td>
+<p>0,55</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Superior</p>
+</td>
+<td>
+<p>0,50</p>
+</td>
+<td>
+<p>0,69</p>
+</td>
+<td>
+<p>0,77</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alto</p>
+</td>
+<td>
+<p>0,60</p>
+</td>
+<td>
+<p>0,77</p>
+</td>
+<td>
+<p>0,90</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+El importe máximo de esta parte del módulo se obtendrá aplicando la fórmula: valor económico por número de alumnos por tutor por horas de duración de las tutorías.
+
+Parte B:
+
+1\. Gastos de gestión, administración y otros gastos generales: Para facilitar el mantenimiento del sistema a distancia se subvencionarán los costes con arreglo a la cantidad de 1,00 euros por hora de curso y alumno.
+
+2\. Producción y suministro de medios didácticos: En este apartado se contemplan los costes para compensar los materiales originales creados, producidos y suministrados a los alumnos para su autoformación. El módulo establecido para la enseñanza asistida por ordenador oscila entre 4,30 euros y 5,75 euros por hora de pantalla y número de alumnos.
+
+3\. Reproducción de material para el aprendizaje a distancia y equipo para prácticas: El material no original y el material para prácticas entregado o puesto a disposición de los alumnos se subvencionará en función del tipo, cantidad y calidad del mismo, entre 0,80 euros y 1,55 euros por alumno y hora de prácticas o tipo de material.
+
+> Se modifica por el art. único de la Orden TAS/3868/2006, de 20 de diciembre. [Ref. BOE-A-2007-22357](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22357).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 121, de 21 de mayo de 1994. [Ref. BOE-A-1994-11561](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-11561).
+
+## ANEXO III
+
+![Imagen: img/disp/2004/249/17700_001.png](https://www.boe.es/datos/imagenes/disp/2004/249/17700_001.png)
+
+![Imagen: img/disp/2004/249/17700_002.png](https://www.boe.es/datos/imagenes/disp/2004/249/17700_002.png)
+
+> Se modifica por el art. único.2 de la Orden TAS/3309/2004, de 6 de octubre. [Ref. BOE-A-2004-17700](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17700).
+
+> Se modifica por el art. único.3 de la Orden de 20 de septiembre de 1995. [Ref. BOE-A-1995-22496](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-22496).
+
+## ANEXO IV — Retribución de expertos para la realización de funciones incluidas en el artículo 16.3 del Real Decreto 631/1993
+
+Retribución de expertos para la realización de funciones incluidas en el artículo 16.3 del Real Decreto 631/1993.
+
+El Servicio Público de Empleo Estatal aplicará a los expertos que contrate los siguientes módulos máximos retributivos expresados en euros/hora, en función del nivel y grado de dificultad del trabajo a realizar:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Niveles</p>
+</td>
+<td colspan="3">
+<p>Grados de dificultad</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bajo-Euros</p>
+</td>
+<td>
+<p>Normal-Euros</p>
+</td>
+<td>
+<p>Alto-Euros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Básico</p>
+</td>
+<td>
+<p>34,10</p>
+</td>
+<td>
+<p>34,10</p>
+</td>
+<td>
+<p>40,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Medio</p>
+</td>
+<td>
+<p>34,10</p>
+</td>
+<td>
+<p>40,00</p>
+</td>
+<td>
+<p>47,10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Superior</p>
+</td>
+<td>
+<p>40,00</p>
+</td>
+<td>
+<p>55,20</p>
+</td>
+<td>
+<p>55,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alto</p>
+</td>
+<td>
+<p>55,20</p>
+</td>
+<td>
+<p>55,20</p>
+</td>
+<td>
+<p>64,90</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+En los módulos máximos anteriormente reseñados está incluida la cuota empresarial de la Seguridad Social.
+
+Para la suscripción de estos contratos se requerirá con carácter previo un informe motivado del Servicio Público de Empleo Estatal, en el que se especifique el trabajo a realizar con su nivel y grado de dificultad, el perfil del experto necesario al efecto y la unidad que va a supervisar el trabajo.
+
+> Se modifica por el art. único de la Orden TAS/3868/2006, de 20 de diciembre. [Ref. BOE-A-2006-22357](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-22357).
+
+> Se modifica por el art. único.1 de la Orden TAS/466/2002, de 11 de febrero. [Ref. BOE-A-2002-4454](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-4454).
+
+> Téngase en cuenta para su aplicación la disposición final única.
+
+> Se añade por el art. único.2 de la Orden de 20 de septiembre de 1995. [Ref. BOE-A-1995-22496](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-22496).
+
+> Redactado el título conforme a la corrección de errores publicada en BOE núm. 267, de 8 de noviembre de 1995. [Ref. BOE-A-1995-24101](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-24101).
+
+## ANEXO V
+
+![Imagen: img/disp/2004/249/17700_003.png](https://www.boe.es/datos/imagenes/disp/2004/249/17700_003.png)
+
+> Se añade por el art. único.3 de la Orden TAS/3309/2004, de 6 de octubre. [Ref. BOE-A-2004-17700](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17700).

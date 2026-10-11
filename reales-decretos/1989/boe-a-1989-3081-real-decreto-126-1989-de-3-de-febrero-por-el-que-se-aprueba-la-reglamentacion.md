@@ -1,0 +1,277 @@
+---
+title: "Real Decreto 126/1989, de 3 de febrero, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración y comercialización de patatas fritas y productos de aperitivo"
+identifier: "BOE-A-1989-3081"
+eli: "https://www.boe.es/eli/es/rd/1989/02/03/126"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1989-02-03
+published: 1989-02-08
+in_force_from: 1989-02-28
+last_amended: 2013-03-29
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 33"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1989-3081"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 126/1989, de 3 de febrero, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración y comercialización de patatas fritas y productos de aperitivo
+
+El Decreto de la Presidencia del Gobierno 2484/1967, de 21 de septiembre («Boletín Oficial del Estado», del 17 al 23 de octubre), por el que se aprueba el texto del Código Alimentario Español, prevé que puedan ser objeto de reglamentación específica las materias en él reguladas.
+
+El elevado consumo de que son objeto tanto las patatas fritas como los productos de aperitivo, hace precisa la promulgación de una Reglamentación Técnico-Sanitaria que los regule y sirva de información al sector industrial y a los consumidores.
+
+Con idependencia del objetivo antes señalado, el presente Real Decreto pretende dar cumplimiento a las exigencias requeridas por el Tribunal Constitucional sobre normativa básica.
+
+El otorgamiento del carácter de norma básica a los preceptos del presente Real Decreto y a la Reglamentación Técnico-Sanitaria para la elaboración y comercialización de patatas fritas y productos de aperitivo, se efectúa, tanto al amparo de aquéllos preceptos legales que, como el artículo 40.2 y la disposición adicional segunda de la Ley 14/1986, de 25 de abril, General de Sanidad, ambos en relación con el artículo 2.° de la misma, y los artículos 4.° 1, 5.° 1 y 39.1 de la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios, se considera sirven de apoyo legal, como del conjunto de la jurisprudencia sentada por el propio Tribunal Constitucional, relativa, entre otros extremos, a la unidad de mercado, la libre circulación de bienes o la igualdad de trato de todos los ciudadanos, con independencia de su ubicación territorial.
+
+A ello ha de unirse necesariamente el especial carácter que confluye en las Reglamentaciones Técnico-Sanitarias que, si bien contienen prescripciones sobre múltiples aspectos, lo hacen ante la necesidad de regular, en un todo armónico y conjunto, todos aquellos aspectos que necesariamente han de ser objeto de regulación en el proceso de producción, transporte, almacenamiento y comercialización de cada producto y que, como tal proceso continuado, harían muy difícil su regulación separada y no uniforme.
+
+En su virtud, a propuesta de los Ministros de Economía y Hacienda, de Industria y Energía, de Agricultura, Pesca y Alimentación, y de Sanidad y Consumo, oídos los sectores afectados, previo informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria y previa deliberación del Consejo de Ministros, en su reunión del día 3 de febrero de 1989,
+
+DISPONGO:
+
+##### Artículo único.
+
+Se aprueba la Reglamentación Técnico-Sanitaria para la elaboración y comercialización de patatas fritas y productos de aperitivo, que figura en el anexo único del presente Real Decreto.
+
+### DISPOSICIÓN ADICIONAL
+
+Lo dispuesto en el presente Real Decreto, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración y comercialización de patatas fritas y productos de aperitivo, se considerará norma básica, de conformidad con lo dispuesto en el artículo 149.1.1.<sup>a</sup> y 16 de la Constitución Española.
+
+### DISPOSICIÓN TRANSITORIA
+
+Las reformas y adaptaciones de las instalaciones existentes derivadas de las exigencias incorporadas a esta Reglamentación, que no sean consecuencia de disposiciones legales vigentes y, en especial, de lo dispuesto en el Real Decreto 2519/1974, de 9 de agosto («Boletín Oficial del Estado» de 13 de septiembre), sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, serán llevadas a cabo en el plazo de dieciocho meses, a contar desde la fecha de entrada en vigor de la presente Reglamentación.
+
+### DISPOSICIÓN DEROGATORIA
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.
+
+Dado en Madrid a 3 de febrero de 1989.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ
+
+## ANEXO ÚNICO — Reglamentación Técnico-Sanitaria para la elaboración y comercialización de patatas fritas y productos de aperitivo
+
+## TÍTULO PRELIMINAR
+
+##### Artículo 1. Ámbito de aplicación.
+
+La presente Reglamentación tiene por objeto definir, a efectos legales, lo que se entiende por patatas fritas y productos de aperitivo y fijar, con carácter obligatorio, las normas de fabricación, elaboración y comercialización y, en general, la ordenación técnico-sanitaria de tales productos.
+
+Esta Reglamentación obliga a los fabricantes, elaboradores, envasadores, comerciantes e importadores de patatas fritas y productos de aperitivo que ejerzan su actividad en instalaciones fijas, establecimientos de hostelería y similares e instalaciones no permanentes, que elaboren y comercialicen este tipo de productos.
+
+Quedan excluidos del ámbito de aplicación de la presente Reglamentación Técnico-Sanitaria los establecimientos de hostelería y similares que elaboren este tipo de productos para consumo en su propio establecimiento.
+
+Se consideran fabricantes, expendedores de patatas fritas y productos de aperitivo aquellas personas, naturales o jurídicas, que dedican su actividad a la fabricación, elaboración y venta de los productos definidos en el título I de la presente Reglamentación.
+
+## TÍTULO PRIMERO — Definiciones y denominaciones
+
+#### Sección primera. Productos de aperitivo
+
+##### Art. 2. Definición.
+
+A efectos de esta Reglamentación, se considerarán productos de aperitivo aquellos preparados de utilización básicamente fruitiva como aperitivos y que se obtienen por la aplicación a las materias primas reguladas en esta Reglamentación de operaciones de secado, tostación, extrusión, fritura, troquelado o procedimientos similares.
+
+##### Art. 3. Denominaciones.
+
+3.1 Cortezas de cerdo fritas: Son los productos obtenidos a partir de piel de cerdo deshidratada y posteriormente frita en aceite o grasa comestible.
+
+3.2 Productos de aperitivo fritos («snacks» y similares): Son los productos de forma variable, de relativa baja densidad y pequeño peso por unidad, manufacturados fundamentalmente a partir de almidón procedente de productos tales como patatas, maíz, arroz, trigo y otros vegetales, y otros ingredientes alimenticios.
+
+Se elaboran por extrusión, troquelado u otras operaciones y pueden freírse en aceite o grasa comestible.
+
+3.3 Productos de aperitivo secados u horneados (palitos, «prettzels», lazos y similares): Son las masas de harina, agua y otros ingredientes alimenticios que se moldean en formas características (palitos, lazos y similares) secados u horneados.
+
+3.4 Productos semielaborados: Son los productos preelaborados con componentes de origen animal o vegetal, estables en su conservación y que pueden ser comercializados como tales y destinados a la obtención de alguno de los productos anteriormente descritos, mediante alguna o algunas de las operaciones propias de las industrias de aperitivo.
+
+#### Sección segunda. Patatas fritas
+
+##### Art. 4. Definición.
+
+Es el producto obtenido a partir de patatas sanas, sin indicios de verdeo, peladas, debidamente lavadas, cortadas y fritas en aceite de oliva u otros aceites y grasas vegetales comestibles.
+
+##### Art. 5.
+
+Las denominaciones contempladas en las secciones primera y segunda, cuando se incorporen agentes aromáticos autorizados, deberán ir acompañadas de la leyenda «con sabor a ...», seguida del tipo o tipos de sabor o aroma añadidos.
+
+## TÍTULO II — Condiciones de las industrias, de los materiales y del personal. Manipulaciones permitidas y prohibidas
+
+##### Art. 6. Requisitos industriales de las instalaciones fijas.
+
+**(Derogado)**
+
+> Se deroga por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+##### Art. 7. Requisitos industriales de las instalaciones no permanentes.
+
+**(Derogado)**
+
+> Se deroga por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+##### Art. 8. Requisitos higiénico-sanitarios de las instalaciones fijas.
+
+**(Derogado)**
+
+> Se deroga por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+##### Art. 9. Requisitos higiénico-sanitarios de las instalaciones no permanentes.
+
+**(Derogado)**
+
+> Se deroga por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+##### Art. 10. Condiciones generales de los materiales.
+
+**(Derogado)**
+
+> Se deroga por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+##### Art. 11. Condiciones del personal.
+
+**(Derogado)**
+
+> Se deroga por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+##### Art. 12. Manipulaciones permitidas y prohibidas.
+
+**(Derogado)**
+
+> Se deroga por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO III — Registros administrativos
+
+##### Art. 13.
+
+**(Derogado)**
+
+> Se deroga por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO IV — Materias primas y otros ingredientes. Características de los productos terminados
+
+##### Art. 14. Materias primas y otros ingredientes.
+
+Los productos alimenticios y otros ingredientes empleados en la elaboración de patatas fritas y productos de aperitivo deberán ser aptos para el consumo, ajustándose a las características específicas de cada uno de ellos y deberán cumplir lo establecido en sus reglamentaciones o normas específicas o, en su defecto, en el Código Alimentario Español.
+
+Sin efectos limitativos, son materias primas frecuentes:
+
+Patata.
+
+Leche y derivados lácteos.
+
+Sémolas y harinas de cereales, tubérculos y leguminosas.
+
+Aceites y grasas comestibles autorizados en el Real Decreto 308/1983, de 25 de enero («Boletín Oficial del Estado» de 21 de febrero), por el que se aprueba la Reglamentación Técnico-Sanitaria de Aceites Vegetales Comestibles y Real Decreto 1011/1981, de 10 de abril («Boletín Oficial del Estado» de 1 de junio), por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, circulación y comercio de grasas comestibles (animales, vegetales y anhidras), margarinas, minarinas y preparados grasos.
+
+Agua potable.
+
+Sal común.
+
+Agentes aromáticos autorizados.
+
+Aditivos autorizados.
+
+##### Art. 15. Características de los productos terminados.
+
+15.1 **(Derogado)**
+
+15.2 Su aspecto, textura, color, olor y sabor serán agradables y característicos del producto.
+
+15.3 **(Derogado)**
+
+15.4 **(Derogado)**
+
+15.5 El contenido en humedad de los productos contemplados en la presente Reglamentación no superará los siguientes valores máximos:
+
+a) Patatas fritas que se expenden y envasan en presencia del consumidor final: 3,5 por 100.
+
+b) Patatas fritas que llegan al consumidor final en envases herméticos: 3 por 100.
+
+c) Cortezas de cerdo fritas: 3,5 por 100.
+
+d) Productos de aperitivo: 5 por 100.
+
+15.6 El contenido en cloruro sódico no superará el 5 por 100 sobre sustancia seca.
+
+15.7 **(Derogado)**
+
+15.8 **(Derogado)**
+
+15.9 **(Derogado)**
+
+15.10 **(Derogado)**
+
+> Se deroga excepto los apartados 2, 5 y 6 por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se deroga el apartado 7 por el art. único.t) del Real Decreto 135/2010, de 12 de febrero. [Ref. BOE-A-2010-3032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3032).
+
+## TÍTULO V — Envasado, etiquetado, rotulación y publicidad
+
+##### Art. 16. Envasado.
+
+**(Derogado)**
+
+> Se deroga por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+##### Art. 17. Etiquetado y rotulación.
+
+17.1 **(Derogado)**
+
+17.2 Denominación del producto:
+
+17.2.1 Serán las definiciones y denominaciones específicas de la presente Reglamentación contempladas en el título I.
+
+17.2.2 Cuando a los productos regulados por esta Reglamentación se añadan otros alimentos y sus características organolépticas no estén reforzadas con agentes aromáticos autorizados deberá figurar a continuación la leyenda «al ......................», seguida del alimento añadido (queso, jamón y otros).
+
+17.2.3 Siempre que se utilicen agentes aromáticos autorizados deberá figurar a continuación de la denominación la leyenda «con sabor a ......................», seguida del tipo de agente aromático autorizado.
+
+17.2.4 Cuando la denominación del producto sea «al ......................» o «con sabor a ......................», el tamaño y tipo de letra empleado en dicha denominación será uniforme, sin que pueda resaltarse el alimento o los agentes aromáticos añadidos.
+
+17.3 Exportación: Los productos alimenticios contemplados en esta Reglamentación que se elaboren con destino exclusivo para su exportación a países no pertenecientes a la Comunidad Económica Europea, y no cumplan lo dispuesto en esta Reglamentación deberán estar envasados y etiquetados de forma que se identifiquen como tales inequívocamente, llevando impresa en caracteres bien visibles la palabra «Export», no pudiendo comercializarse ni consumirse en España.
+
+17.4 **(Derogado)**
+
+> Se deroga excepto los apartados 2 y 3 por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VI — Transporte, almacenamiento y venta
+
+##### Art. 18. Transporte y almacenamiento.
+
+**(Derogado)**
+
+> Se deroga por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+##### Art. 19. Venta.
+
+**(Derogado)**
+
+> Se deroga por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VII — Responsabilidades y Régimen sancionador
+
+##### Art. 20. Responsabilidades.
+
+**(Derogado)**
+
+> Se deroga por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+##### Art. 21. Régimen sancionador.
+
+**(Derogado)**
+
+> Se deroga por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VIII — Toma de muestras y métodos analíticos
+
+##### Art. 22.
+
+**(Derogado)**
+
+> Se deroga por el art. 47 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).

@@ -1,0 +1,91 @@
+---
+title: "Decreto 2095/1971, de 13 de agosto, por el que se regulan las facultades y competencias profesionales de los Ingenieros Técnicos de especialidades forestales"
+identifier: "BOE-A-1971-1214"
+eli: "https://www.boe.es/eli/es/d/1971/08/13/2095"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura"
+date: 1971-08-13
+published: 1971-09-20
+in_force_from: 1971-09-21
+last_amended: 1982-09-10
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 225"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1971-1214"
+retrieved: 2026-10-11
+---
+
+# Decreto 2095/1971, de 13 de agosto, por el que se regulan las facultades y competencias profesionales de los Ingenieros Técnicos de especialidades forestales
+
+El artículo segundo del Decreto-ley nueve mil novecientos setenta, de veintiocho de julio, dispone que las facultades y competencias profesionales entre las distintas titulaciones técnicas se regularán mediante los correspondientes Decretos para los Arquitectos Técnicos y las diversas ramas de la Ingeniería Técnica, a propuesta de los Ministerios interesados, con el asesoramiento del Ministerio de Educación y Ciencia.
+
+En cumplimiento de esta norma, y por corresponder a este Departamento las actividades profesionales vinculadas con los Ingenieros Técnicos Forestales, se ha procedido a regular sus facultades y competencias profesionales, previos los informes y asesoramientos oportunos.
+
+En su virtud, y a propuesta del Ministro de Agricultura, de conformidad con el informe del Ministro de Educación y Ciencia, y oído el dictamen del Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día trece de agosto de mil novecientos setenta y uno,
+
+DISPONGO:
+
+## Artículo 1.
+
+Los Ingenieros Técnicos Forestales de las especialidades Explotaciones Forestales, Industrias de los Productos Forestales e Industria Papelera tendrán, dentro de su respectiva especialidad, las mismas facultades y atribuciones que les reconocen las disposiciones vigentes a los antiguos Ayudantes de Montes.
+
+## Artículo 2.
+
+Con independencia de lo establecido en el artículo precedente, y sin perjuicio de las competencias atribuidas a los Ingenieros Superiores, los Ingenieros Técnicos, dentro de sus distintas especialidades forestales establecidas por Decreto ciento cuarenta y ocho/mil novecientos sesenta y nueve, artículo tercero, apartado cuatro, tendrán las siguientes:
+
+A) Redacción de proyectos.
+
+Redactar con independencia proyectos, dentro de los límites marcados por la técnica de su titulación.
+
+B) Dirección de obras, trabajos e instalaciones.
+
+Uno. Ordenar y dirigir la ejecución material de las obras, trabajos, explotaciones e instalaciones, cuidando su control práctico y organizando los trabajos de acuerdo con el proyecto que los defina.
+
+Dos. Dirigir la ejecución material de apeo, desembosque, transporte y clasificación de productos, de acuerdo con el Plan de saca establecido.
+
+Tres. Inspeccionar, con plena responsabilidad, las materias primas, materiales, semillas, plantas, abonos y plaguicidas, así como sus dosificaciones y mezclas, exigiendo, si fuera preciso, las comprobaciones, análisis y documentos idóneos necesarios para su aceptación.
+
+Cuatro. Vigilar directamente y con plena responsabilidad el correcto desarrollo de las obras, trabajos, explotaciones e instalaciones, la ejecución y utilización de los materiales, la práctica de los trabajos y labores, los medios auxiliares de aquéllos y los sistemas de protección, exigiendo el cumplimiento de las aposiciones vigentes sobre la seguridad en el trabajo.
+
+Cinco. Ordenar la elaboración y puesta en obra de cada una de sus unidades, comprobando las dimensiones y correcta disposición de los elementos constructivos, de acuerdo con el proyecto redactado.
+
+Seis. Medir las unidades de obra y de trabajo ejecutadas y confeccionar las relaciones valoradas de las mismas, de acuerdo con las condiciones establecidas en el Proyecto y la documentación que las defina, así como las relaciones cuantitativas de los materiales a emplear en obra.
+
+Siete. Suscribir las actas y certificaciones sobre replanteo, trabajos e instalaciones y comienzo y desarrollo de las obras que dirijan.
+
+C) Trabajos varios.
+
+Uno. La redacción, con plena responsabilidad, de los Informes, estudios y presupuestos concretos derivados del Proyecto correspondiente, que resulten precisos para la programación, organización y ejecución de repoblaciones, trabajos selvícolas y pascícolas, trabajos de aprovechamientos y defensa el monte, así como los de caza y pesca fluvial; y para el montaje, revisión, empleo de la maquinaria y equipos para la utilización y transformación de los productos forestales y producción de papel.
+
+Dos. Demarcación de linderos, parcelaciones y sus correspondientes dictámenes, así como valoraciones según proyectos ya redactados.
+
+Tres. Levantamiento de planos topográficos en los que no se exijan triangulación ni nivelación de precisión.
+
+Cuatro. Estudio y realización de mediciones, cubicación, clasificación, valoración de productos forestales y relaciones valoradas correspondientes a proyectos ya redactados.
+
+Cinco. Reconocimientos, consultas, dictámenes, examen de documentos, ensayos y análisis a efectos de su certificación objetiva.
+
+Seis. Intervenciones periciales, asesoramientos técnicos, gestión de las explotaciones forestales e informes técnicos, dentro los cometidos señalados anteriormente.
+
+> Se modifica el apartado A y el apartado B.uno por los arts. 1 y 2 del Real Decreto 2220/1982, de 9 de julio. [Ref. BOE-A-1982-22865](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-22865)
+
+> Se anula el apartado A y el apartado B.uno por Sentencia del TS de 17 de diciembre de 1976, publicada por Orden de 1 de agosto de 1977. [Ref. BOE-A-1977-24229](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-24229)
+
+## Artículo 3.
+
+Los Ingenieros Técnicos Forestales que ejerzan sus actividades por su situación de funcionarios en la Administración continuarán con las competencias y atribuciones concedidas por los Reglamentos respectivos.
+
+## Artículo 4.
+
+Por el Ministerio de Agricultura se dictarán las disposiciones necesarias para la aplicación de lo dispuesto en el presente Decreto, que entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Así lo dispongo por el presente Decreto, dado en La Coruña a trece de agosto de mil novecientos setenta y uno.
+
+FRANCISCO FRANCO
+
+El Ministro de Agricultura,
+
+TOMAS ALLENDE Y GARCIA-BAXTER

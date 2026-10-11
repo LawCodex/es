@@ -1,0 +1,227 @@
+---
+title: "Orden de 24 de febrero de 1994 por la que se aprueban los modelos de licencias, autorizaciones, tarjetas y guías de pertenencia que serán utilizados para documentar las diversas clases de armas"
+identifier: "BOE-A-1994-5079"
+eli: "https://www.boe.es/eli/es/o/1994/02/24/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio del Interior"
+date: 1994-02-24
+published: 1994-03-04
+in_force_from: 1994-03-05
+last_amended: 2007-05-29
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 54"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-5079"
+retrieved: 2026-10-11
+---
+
+# Orden de 24 de febrero de 1994 por la que se aprueban los modelos de licencias, autorizaciones, tarjetas y guías de pertenencia que serán utilizados para documentar las diversas clases de armas
+
+El Reglamento de Armas, aprobado por Real Decreto 137/1993, de 29 de enero («Boletín Oficial del Estado» número 55, de 5 de marzo), ha reestructurado el sistema de concesión de licencias, tarjetas y autorizaciones de armas, estableciendo nuevos documentos en unos casos y variando los plazos de validez en otros, por lo que se hace necesario adaptar los impresos correspondientes a lo dispuesto en dicho Reglamento.
+
+Por lo expuesto, en cumplimiento de lo establecido en la disposición final segunda del mencionado Real Decreto, a propuesta de la Dirección General de la Guardia Civil, previo informe de la Comisión Interministerial Permanente de Armas y Explosivos, dispongo:
+
+## Primero.
+
+Corresponde a la Dirección General de la Guardia Civil la confección de los impresos necesarios para la autorización, posesión y control de las armas, con sujeción a los siguientes criterios:
+
+1\. a) Licencia que habilita a la persona para llevar y poseer las armas a que se refiere el punto 4, letras a), c) y d), y punto 5 del artículo 96 del Reglamento de Armas, y autorizaciones especiales para menores para el uso de armas de avancarga, antiguas o históricas, y para las de sistemas "flobert".
+
+b) Licencia que habilita a la persona para llevar y poseer las armas a que se refiere el punto 4, letra b) del citado artículo 96.
+
+En el ejemplar para el titular figurarán los datos personales y las licencias y autorizaciones de armas que posea, cuyos modelos figuran en los anexos 1 y 1 bis de la presente Orden.
+
+> Téngase en cuenta la redacción del apartado 2 de la Resolución de 16 de mayo de 2007. [Ref. BOE-A-2007-10703](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-10703).
+
+> Redacción:
+
+> "Licencias de armas.-Los modelos de las licencias y autorizaciones especiales que habilitan para llevar y poseer las armas a las que se refiere el artículo 96 del Reglamento de Armas serán los que vienen recogidos como anexo I a la presente Resolución y que a continuación se describen:
+
+> Datos de identidad del titular: Bajo los encabezados correspondientes, se registrarán los siguientes datos: NIF/NIE.
+
+> Nombre y apellidos. Fecha de nacimiento.
+
+> Datos propios del documento:
+
+> Bajo los encabezados correspondientes, se registrarán los siguientes datos: Fecha de expedición.
+
+> Firma del titular.
+
+> En el reverso figuran los datos del tipo de licencias que posee el titular de la tarjeta, el período de validez de cada una de las licencias, las restricciones que se hayan impuesto y un apartado para observaciones. Estos datos figurarán dispuestos en una tabla de cuatro columnas por ocho filas, siendo la primera expresiva de los tipos de campos descritos. El apartado observaciones figurará al final de la tabla en un solo campo no diferenciado ni referenciado a ninguna de las filas anteriores."
+
+La información necesaria para el resto de los organismos afectados y los antecedentes de la concesión se volcarán en una ficha cuyo modelo figura en el anexo 2.
+
+Estos organismos son los siguientes:
+
+Intervención de Armas de la Comandancia.
+
+Intervención Central de Armas y Explosivos.
+
+Delegación o Subdelegación del Gobierno, cuando proceda.
+
+2\. Tarjeta de armas que autoriza y documenta para poder llevar y usar las armas en las condiciones establecidas en el artículo 105 del Reglamento de Armas.
+
+El ejemplar para el titular será un tríptico en el que figuren los datos personales y las armas que posea, cuyo modelo figura en el anexo 1 [entiéndase anexo 3] de esta Orden.
+
+La información necesaria para los organismos afectados y los antecedentes de la concesión se volcarán en una ficha cuyo modelo figura en el anexo 2 [entiéndase anexo 4] de esta Orden.
+
+Estos organismos son los siguientes:
+
+Ayuntamiento.
+
+Intervención de Armas y Explosivos de la demarcación.
+
+Ambos modelos estarán confeccionados en bilingüe, en castellano y en la lengua cooficial.
+
+3\. Guías de pertenencia que documentan la tenencia de las armas para las que se conceda con arreglo a lo dispuesto en los artículos 89 y 107 del Reglamento, cuyo modelo figura en el anexo 5.
+
+Las guías de pertenencia constarán de tres cuerpos destinados a:
+
+El interesado.
+
+La Intervención de Armas expedidora.
+
+La Intervención Central de Armas y Explosivos.
+
+> Téngase en cuenta la redacción del apartado 3 de la Resolución de 16 de mayo de 2007. [Ref. BOE-A-2007-10703](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-10703).
+
+> Redacción:
+
+> "Guías de pertenencia de armas.-El modelo de Guía de Pertenencia para documentar la titularidad de las armas reglamentadas será el que viene recogido como anexo II(*) a la presente Resolución. Contendrá los datos estipulados en el artículo 89.2 del Reglamento de Armas dispuestos en el soporte del siguiente modo:
+
+> Datos referidos al arma:
+
+> Bajo los encabezados correspondientes se registrarán los siguientes datos:
+
+> Número de identificación.
+
+> Tipo del arma. Marca. Calibre.
+
+> Datos referidos al titular de la Guía:
+
+> Bajo los encabezados correspondientes se registrarán los siguientes datos: Nombre y apellidos del titular del arma.
+
+> Fecha de nacimiento. NIF/NIE.
+
+> Datos de registro del propio documento:
+
+> Bajo los encabezados correspondientes se registrarán los siguientes datos: Número de guía.
+
+> Fecha de expedición. Firma del Interventor de Armas.
+
+> Al dorso obrarán los datos estipulados en el artículo 89.4 del Reglamento, dispuestos en una tabla encabezada con el título «Cañones Intercambiables», en cuyas columnas se recogerá información identificativa de los mismos consistente en «Número», «Calibre» y «Categoría»."
+
+> (*) La referencia hecha al anexo II debe entenderse realizada al anexo 5 de esta Orden.
+
+> Véanse los apartados 2 y 3 de la Resolución de 16 de mayo de 2007. [Ref. BOE-A-2007-10703](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-10703)., en cuanto a licencias y guías de pertenencias de armas.
+
+> Se modifica el punto 2 por el apartado 1 de la Orden INT/4326/2004, de 17 de diciembre. [Ref. BOE-A-2005-143](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-143).
+
+> Se modifica el punto 1 por el apartado 1 de la Orden de 12 de septiembre de 1997. [Ref. BOE-A-1997-20397](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20397).
+
+## Segundo.
+
+La Dirección General de la Guardia Civil confeccionará los modelos citados en el apartado anterior, determinando sus características técnicas, medidas de seguridad de impresión, la incorporación de los elementos necesarios para su tratamiento informático y, en su caso, la traducción a la lengua oficial de la Comunidad Autónoma en que se expida.
+
+> Se modifica por el apartado 2 de la Orden INT/4326/2004, de 17 de diciembre. [Ref. BOE-A-2005-143](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-143).
+
+## Disposición transitoria.
+
+Hasta tanto sean editados los nuevos impresos, se seguirán utilizando los actuales, para lo que la Dirección General de la Guardia Civil dictará las instrucciones pertinentes al efecto.
+
+## Disposición final primera.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+## Disposición final segunda.
+
+Se faculta al Director general de la Guardia Civil para adoptar las medidas necesarias para la ejecución de la presente Orden.
+
+Madrid, 24 de febrero de 1994.
+
+ASUNCIÓN HERNÁNDEZ
+
+## ANEXO 1
+
+## Licencia de armas de fuego
+
+![Imagen: img/disp/2007/128/10703_001.png](https://www.boe.es/datos/imagenes/disp/2007/128/10703_001.png)
+
+![Imagen: img/disp/2007/128/10703_002.png](https://www.boe.es/datos/imagenes/disp/2007/128/10703_002.png)
+
+> Se sustituye por el apartado 2 y anexo I de la Resolución de 16 de mayo de 2007. [Ref. BOE-A-2007-10703](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-10703).
+
+> Se sustituye por el apartado 2 de la Orden de 12 de septiembre de 1997. [Ref. BOE-A-1997-20397](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20397).
+
+## ANEXO 2
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1994/54/05079_003a.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1994/54/05079_004a.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1994/54/05079_005a.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1994/54/05079_006a.png)
+
+> Se modifica por el apartado 2 de la Orden de 12 de septiembre de 1997. [Ref. BOE-A-1997-20397](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20397).
+
+## ANEXO 3
+
+![Imagen: img/disp/2005/003/00143_001.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_001.png)
+
+![Imagen: img/disp/2005/003/00143_002.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_002.png)
+
+![Imagen: img/disp/2005/003/00143_004.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_004.png)
+
+![Imagen: img/disp/2005/003/00143_005.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_005.png)
+
+![Imagen: img/disp/2005/003/00143_007.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_007.png)
+
+![Imagen: img/disp/2005/003/00143_008.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_008.png)
+
+![Imagen: img/disp/2005/003/00143_010.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_010.png)
+
+![Imagen: img/disp/2005/003/00143_011.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_011.png)
+
+![Imagen: img/disp/2005/003/00143_013.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_013.png)
+
+![Imagen: img/disp/2005/003/00143_014.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_014.png)
+
+![Imagen: img/disp/2005/003/00143_016.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_016.png)
+
+![Imagen: img/disp/2005/003/00143_017.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_017.png)
+
+> Se modifica por el apartado 1 y el anexo I de la Orden INT/4326/2004, de 17 de diciembre. [Ref. BOE-A-2005-143](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-143).
+
+> Téngase en cuenta que el legislador debe querer referirse al anexo I como el vigente anexo 3.
+
+## ANEXO 4
+
+![Imagen: img/disp/2005/003/00143_003.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_003.png)
+
+![Imagen: img/disp/2005/064/00143_006.png](https://www.boe.es/datos/imagenes/disp/2005/64/00143_006.png)
+
+![Imagen: img/disp/2005/003/00143_009.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_009.png)
+
+![Imagen: img/disp/2005/003/00143_012.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_012.png)
+
+![Imagen: img/disp/2005/003/00143_015.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_015.png)
+
+![Imagen: img/disp/2005/003/00143_018.png](https://www.boe.es/datos/imagenes/disp/2005/3/00143_018.png)
+
+> Se modifica por el apartado 1 y el anexo II de la Orden INT/4326/2004, de 17 de diciembre. [Ref. BOE-A-2005-143](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-143).
+
+> Téngase en cuenta que el legislador debe querer referirse al anexo II como el vigente anexo 4.
+
+## ANEXO 5
+
+![Imagen: img/disp/2007/128/10703_003.png](https://www.boe.es/datos/imagenes/disp/2007/128/10703_003.png)
+
+![Imagen: img/disp/2007/128/10703_004.png](https://www.boe.es/datos/imagenes/disp/2007/128/10703_004.png)
+
+> Se sustituye por el apartado 3 y anexo II de la Resolución de 16 de mayo de 2007. [Ref. BOE-A-2007-10703](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-10703).
+
+> Téngase en cuenta que el legislador debe querer referirse al anexo II como el vigente anexo 5.

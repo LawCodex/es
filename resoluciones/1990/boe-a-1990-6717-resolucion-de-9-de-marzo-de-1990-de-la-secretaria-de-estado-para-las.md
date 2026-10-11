@@ -1,0 +1,147 @@
+---
+title: "Resolución de 9 de marzo de 1990, de la Secretaría de Estado para las Administraciones Territoriales, por la que se ordena la publicación del Acuerdo del Consejo de Ministros de 2 de marzo de 1990 sobre Convenios de colaboración entre la Administración del Estado y las Comunidades Autónomas"
+identifier: "BOE-A-1990-6717"
+eli: "https://www.boe.es/eli/es/res/1990/03/09/(1)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio para las Administraciones Públicas"
+date: 1990-03-09
+published: 1990-03-16
+in_force_from: 1990-03-16
+last_amended: 1998-07-16
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 65"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-6717"
+retrieved: 2026-10-11
+---
+
+# Resolución de 9 de marzo de 1990, de la Secretaría de Estado para las Administraciones Territoriales, por la que se ordena la publicación del Acuerdo del Consejo de Ministros de 2 de marzo de 1990 sobre Convenios de colaboración entre la Administración del Estado y las Comunidades Autónomas
+
+A propuesta del Ministro para las Administraciones Públicas, el Consejo de Ministros, en su reunión del día 2 de marzo de 1990, aprobó el Acuerdo sobre Convenios de colaboración entre la Administración del Estado y las Comunidades Autónomas que figura como anexo a la presente Resolución.
+
+A fin de favorecer su conocimiento y aplicación, esta Secretaria de Estado ha resuelto ordenar su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 9 de marzo de 1990.—El Secretario de Estado, José Francisco Peña Diez.
+
+## ANEXO — Acuerdo del Consejo de Ministros sobre Convenios de colaboración entre la Administración del Estado y las Comunidades Autónomas
+
+El desarrollo del principio de colaboración entre el Estado y las Comunidades Autónomas ha venido teniendo su expresión, entre otras facetas, en la suscripción de convenios entre tales instancias, con una importancia creciente en estos ultimos años.
+
+Con el fin de asegurar que por parte de la Administración del Estado se utilice este tipo de instrumento de colaboración, tanto de forma ajustada a pautas de actuación sistemática y homogénea como coherente con los demás instrumentos de la política autonómica del Gobierno, se han establecido por este ciertas reglas sobre la suscripción de convenios. En un primer momento a través del Acuerdo sobre la materia adoptado por la Comisión Delegada del Gobierno para Política Autonómica en su reunión de 13 de septiembre de 1984, y posteriormente mediante un nuevo Acuerdo de dicha Comisión, adoptado en su reunión de 18 de junio de 1985, que sustituyo al anterior y que es el que establece las reglas actualmente vigentes.
+
+La experiencia adquirida desde entonces aconseja proceder a un nuevo tratamiento de esta cuestión en el que, partiendo del régimen actual de autorización previa de la suscripción de convenios por la Comisión Delegada, se perfeccione tanto la delimitación subjetiva y objetiva de la exigencia de tal autorización, con el objetivo de flexibilizarla, como los aspectos formales y procedimentales relacionados con la suscripción de convenios y el seguimiento de los mismos.
+
+Por otro lado, y con la finalidad de que las nuevas reglas sean conocidas y alcancen al conjunto de la Administración del Estado, se ha estimado oportuno incorporarlas en un Acuerdo del Consejo de Ministros, superando así las limitaciones del sistema empleado con anterioridad.
+
+Por todo ello, una vez sometido a la Comisión Delegada del Gobierno para Política Autonómica, en su reunión de 14 de febrero de 1990, se adopta, a propuesta del Ministro para las Administraciones Públicas, el siguiente acuerdo:
+
+## Régimen general de autorización
+
+### Primero.
+
+La suscripción de convenios de colaboración con las Comunidades Autónomas por parte de los Departamentos Ministeriales y los Organismos autónomos del Estado, así como de las Entidades de la Seguridad Social, deberá ser autorizada con carácter previo por la Comisión Delegada del Gobierno para Política Autonómica.
+
+### Segundo.
+
+Una vez elaborado el proyecto de Convenio y concertado su texto con la Comunidad Autónoma correspondiente, la unidad promotora del mismo lo remitirá a la Secretaria de Estado para las Administraciones Territoriales del Ministerio para las Administraciones Públicas, a efectos de tramitar la autorización indicada.
+
+El proyecto de convenio, especialmente cuando represente una nueva linea de colaboración, deberá ir acompañado de una Memoria en la que se describan sus antecedentes y objetivos, los compromisos de colaboración contemplados y las razones que justifican su suscripción. Asimismo, se hará constar en la Memoria el cumplimiento de los tramites previos de carácter preceptivo, en particular el informe del Servicio Jurídico sobre los aspectos jurídicos del Convenio.
+
+### Tercero.
+
+El proyecto de Convenio será objeto de informe por el Ministerio para las Administraciones Públicas, a través de la Secretaria de Estado para las Administraciones Territoriales, en relación con lo establecido en el presente Acuerdo, así como con los aspectos que afectan a cuestiones de su competencia y, en general, en lo relativo a su adecuación a la política del Gobierno en materia de relaciones de colaboración con las Comunidades Autónomas.
+
+Una vez informado el proyecto de Convenio e incorporadas al mismo en caso de acuerdo las observaciones comunicadas con carácter previo por la Secretaria de Estado para las Administraciones Territoriales, el citado proyecto de Convenio se someterá por ésta a la Comisión. En caso de discrepancia, las observaciones serán elevadas a la Comisión junto con el proyecto.
+
+### Cuarto.
+
+Requerirán autorización de la Comisión las modificaciones sustanciales de los Convenios cuya suscripción haya sido autorizada por aquella. Se consideran sustanciales las modificaciones de los ámbitos subjetivo y materiales del Convenio, la sustitución de las técnicas de colaboración y la alteración de los compromisos de financiación.
+
+Asimismo, precisara autorización la prorroga de convenios autorizados cuya vigencia hubiese finalizado.
+
+A efectos de lo anterior, será de aplicación el procedimiento previsto en los puntos segundo y tercero.
+
+## Especialidades del régimen de autorización
+
+### Quinto.
+
+En el caso de convenios en los que se prevea su suscripción generalizada con varias Comunidades Autónomas, la unidad promotora de los mismos podrá someter a informe de la Comisión, a través de la Secretaria de Estado para las Administraciones Territoriales, el modelo de proyecto de convenio. Informado éste favorablemente, la autorización de su suscripción con cada Comunidad Autónoma tendrá carácter automático.
+
+### Sexto.
+
+Cuando se trate de convenios de suscripción generalizada que incluyan compromisos financieros para la Administración del Estado, la unidad promotora de los mismos deberá presentarlos dentro de un programa a efectos de que la Comisión lo examine en su conjunto.
+
+La Memoria del programa deberá justificar especialmente los objetivos del mismo, los criterios de distribución territorial de los compromisos financieros que atañan a la Administración del Estado y las exclusiones o variaciones con respecto a determinadas Comunidades Autónomas.
+
+La aprobación del programa por la Comisión implicara la autorización automática de la suscripción del Convenio con cada una de las Comunidades Autónomas a las que se extienda aquel.
+
+### Séptimo.
+
+1\. No requerirán la autorización de la Comisión Delegada los siguientes asuntos:
+
+a) La suscripción de aquellos convenios que se ajusten tanto a un modelo informado favorablemente por la Comisión como a un programa previamente aprobado por ella.
+
+b) La suscripción de acuerdos de prórroga de convenios contemplada en el punto cuarto, así como la de aquellos otros que incluyan modificaciones no esenciales de convenios en vigor.
+
+2\. En estos casos, la constatación de que concurren en cada caso las circunstancias previstas en el número anterior corresponde al Secretario de Estado para las Administraciones Territoriales, Secretario de la Comisión Delegada del Gobierno, quien dará cuenta a la misma de las resoluciones que adopte al efecto.
+
+3\. Se atribuye al Secretario de Estado para las Administraciones Territoriales, Secretario de la Comisión Delegada del Gobierno, la autorización provisional de aquellos convenios en los que el informe del Ministerio de Administraciones Públicas sea favorable o en los que, formuladas observaciones sobre los aspectos formales a que se refiere el punto duodécimo, hayan sido aquéllas completamente subsanadas. Dicha autorización provisional deberá ser ratificada por la Comisión Delegada del Gobierno en la primera sesión que ésta celebre.
+
+> Se modifica por el apartado 2 del Acuerdo del Consejo de Ministros de 3 de julio de 1998, publicado por Resolución de 8 de julio de 1998. [Ref. BOE-A-1998-17020](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-17020).
+
+## Suscripción, publicidad y seguimiento
+
+### Octavo.
+
+Corresponde a los Ministros, en el ámbito de sus Departamentos y a los Presidentes y Directores de los Organismos públicos de ellos dependientes, firmar los convenios de colaboración entre la Administración General del Estado y las Comunidades Autónomas, previo cumplimiento de los trámites exigidos por el ordenamiento jurídico.
+
+> Se modifica por el apartado 1 del Acuerdo del Consejo de Ministros de 3 de julio de 1998, publicado por Resolución de 8 de julio de 1998. [Ref. BOE-A-1998-17020](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-17020).
+
+### Noveno.
+
+Una vez que los convenios hayan sido suscritos, se procederá por el Departamento ministerial correspondiente a ordenar su publicación en el «Boletín Oficial del Estado».
+
+Asimismo, la unidad promotora de los mismos remitirá una copia del texto suscrito a la Secretaria de Estado para las Administraciones Territoriales a efectos de constancia y registro.
+
+### Décimo.
+
+Sin perjuicio de lo establecido en el punto sexto, las unidades promotoras de los convenios deberán informar periódicamente a la Comisión, a través de la Secretaria de Estado para las Administraciones Territoriales, sobre la ejecución de los convenios suscritos y en particular sobre el cumplimiento de los compromisos financieros que contemplen. A tal efecto:
+
+a) Remitirán dentro del primer trimestre de cada año un informe sobre el cumplimiento de los convenios vigentes.
+
+b) Comunicarán las denuncias de los convenios suscritos y demás incidencias producidas en su ejecución.
+
+c) Y cumplimentarán los cuestionarios periódicos que curse el Ministerio para las Administraciones Públicas.
+
+## Contenido de los convenios
+
+### Undécimo.
+
+En aras de una mejor articulación de las relaciones de colaboración entre la Administración del Estado y las Comunidades Autónomas y en orden a evitar su excesiva fragmentación, los convenios que se promuevan tenderán a contemplar de forma completa un área sectorial especifica y a comprender, con el mayor grado de integración factible, las diversas técnicas de colaboración: De asistencia técnica y apoyo instrumental, de coordinación en el ejercicio de las respectivas competencias y de cooperación o actuación conjunta.
+
+### Duodécimo.
+
+Al objeto de perfeccionar su calidad tecnico-juridica y de asegurar su funcionalidad como instrumentos de colaboración, los convenios deberán ajustarse a un esquema formal que comprenda la determinación de los siguientes elementos:
+
+Títulos competenciales que fundamentan la actuación en régimen de colaboración y razones que la motivan.
+
+Órganos firmantes: Que en el caso de la Administración del Estado se ajustara a lo establecido en el punto octavo.
+
+Objeto del Convenio: Bases, objetivos y ámbitos materiales del régimen de colaboración.
+
+Definición de los mecanismos de asistencia técnica, coordinación y/o actuación conjunta previstos para hacer efectiva la colaboración contemplada en los correspondientes compromisos.
+
+Régimen de financiación, en su caso: Con expresión de las cuantías de los compromisos de tal naturaleza así como de su periodificacion e identificación presupuestaria, o excepcionalmente de los mecanismos de determinación diferida de las mismas.
+
+Mecanismos de seguimiento de la ejecución del contenido del Convenio, bien mediante el intercambio de información o la elaboración de documentos de evaluación, bien mediante órganos mixtos; en este ultimo caso y siempre que el seguimiento sea susceptible de realización a nivel periférico, deberá preverse la representación en los mismos de la correspondiente Delegación del Gobierno.
+
+Vigencia, prorrogabilidad y mecanismos de denuncia y de solución de controversias.
+
+## Cauce orgánico para el cumplimiento del presente Acuerdo
+
+### Decimotercero.
+
+Para facilitar tanto la relación con la Secretaria de Estado para las Administraciones Territoriales como el seguimiento de los convenios en los respectivos Departamentos ministeriales, las unidades promotoras de los mismos utilizaran, para cumplimentar lo establecido en el presente Acuerdo, el cauce de la respectiva Secretaria General Técnica o del Centro directivo que tenga encomendadas, con carácter horizontal, las relaciones con las Administraciones Territoriales.

@@ -1,0 +1,1763 @@
+---
+title: "Orden de 1 de febrero de 1996 por la que se aprueban los documentos contables a utilizar por la Administración General del Estado"
+identifier: "BOE-A-1996-2749"
+eli: "https://www.boe.es/eli/es/o/1996/02/01/(5)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1996-02-01
+published: 1996-02-09
+in_force_from: 1996-02-10
+last_amended: 2024-09-17
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 35"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-2749"
+retrieved: 2026-10-11
+---
+
+# Orden de 1 de febrero de 1996 por la que se aprueban los documentos contables a utilizar por la Administración General del Estado
+
+Incluye la corrección de errores publicada en BOE núm. 58, de 7 de marzo de 1996. [Ref. BOE-A-1996-5270](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-5270).
+
+Por Real Decreto 324/1986, de 10 de febrero, se implantó en la Administración General del Estado un nuevo sistema de información contable. Seguidamente, y con el objeto de desarrollar las normas contenidas en dicho Real Decreto, se fueron aprobando mediante Orden las Instrucciones de Contabilidad aplicables a las subentidades contables de la Administración General del Estado, entre las cuales se pueden destacar las siguientes:
+
+Instrucción de Contabilidad de los Centros Gestores del Presupuesto de Gastos del Estado.
+
+Instrucción de Contabilidad de las Delegaciones de Hacienda.
+
+Instrucción de Contabilidad de la Dirección General del Tesoro y Política Financiera.
+
+Instrucción de Contabilidad de la Central Contable.
+
+Instrucción de Contabilidad de la Deuda Pública Exterior.
+
+En dichas Instrucciones de Contabilidad se regulaban, entre otros aspectos, los documentos contables que se debían utilizar para la incorporación en el sistema de información contable de las diferentes operaciones presupuestarias y económico-patrimoniales producidas en el ámbito de la Administración General del Estado.
+
+En el momento actual se ha procedido a la revisión de las normas que desarrollaban el Real Decreto 324/1986 como consecuencia de la aprobación de un nuevo Plan General de Contabilidad Pública (PGCP), mediante Orden de 6 de mayo de 1994, y de la implantación a partir del 1 de enero de 1996 de una nueva versión del citado sistema de información contable (SIC).
+
+Dentro de dicho proceso de revisión normativa, cabe destacar la elaboración de una Instrucción de Contabilidad para la Administración General del Estado (ICAGE) que, a diferencia de las Instrucciones de Contabilidad antiguas, será aplicable a todas las subentidades contables que componen la Administración General del Estado.
+
+Teniendo en cuenta que la Orden que aprueba la ICAGE deroga de forma expresa las Instrucciones de Contabilidad que se detallan más arriba, resulta necesario aprobar los nuevos documentos contables que se utilizarán para el registro de las operaciones en el ámbito de la Administración General del Estado. Dichos documentos se ajustan en su estructura y presentación de los datos a las nuevas especificaciones del SIC, conteniendo la información necesaria para dar cumplimiento a lo previsto en el PGCP.
+
+La presente Orden consta de ocho capítulos y dos anexos.
+
+En el capítulo I se dictan normas generales en cuanto al ámbito de aplicación de la norma, la expedición de los documentos contables y su tratamiento en las oficinas de contabilidad.
+
+En el capítulo II se regulan los documentos contables del Presupuesto de Gastos; en el capítulo III, los documentos relativos a los pagos a justificar y a los anticipos de caja fija; en el capítulo IV, los documentos de los anticipos de tesorería; en el capítulo V, los documentos del Presupuesto de Ingresos y de las operaciones no presupuestarias; en el capítulo VI, los documentos de la deuda del Estado; en el capítulo VII, los documentos de valores en depósito; y en el capítulo VIII, otros documentos de contabilidad que no encajan en los capítulos anteriores.
+
+En el anexo I se incluyen normas para la cumplimentación de los diferentes documentos contables, cuyos formatos se recogen en el anexo II de esta Orden.
+
+En su virtud, y a propuesta de la Intervención General de la Administración del Estado, este Ministerio ha tenido a bien disponer:
+
+## CAPÍTULO I — Normas generales
+
+### Primero. Ámbito de aplicación.
+
+Las normas y los documentos contables aprobados en la presente Orden serán de aplicación a la Administración General del Estado.
+
+### Segundo. Aprobación de los documentos contables.
+
+1\. Se aprueban los modelos y normas de cumplimentación de documentos contables que figuran en los anexos de esta Orden, que serán utilizados como soporte para el registro de operaciones en el Sistema de Información Contable de la Administración General del Estado.
+
+2\. Todos los documentos contables serán electrónicos y se ajustarán a los modelos y normas de cumplimentación previstos en esta Orden, así como al procedimiento de tramitación electrónica que establezca la Intervención General de la Administración del Estado.
+
+No obstante, cuando por circunstancias excepcionales así lo determine la Intervención General de la Administración del Estado a propuesta del responsable de la oficina de contabilidad, se podrán expedir documentos contables en papel.
+
+> Se modifica por el art. 1.1 de la Orden HAC/552/2019, de 11 de abril. [Ref. BOE-A-2019-7344](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-7344)
+
+> Esta modificación será de aplicación a partir de 1 de febrero de 2020, según establece la disposición final única de la citada Orden.
+
+### Tercero. Expedición de los documentos contables.
+
+1\. Los documentos contables electrónicos deberán autorizarse mediante firma electrónica por quien tenga atribuidas las facultades para ello, según las normas de procedimiento que sean aplicables en cada caso.
+
+Las propias aplicaciones informáticas utilizadas para la expedición de los documentos contables facilitarán el ejercicio de la competencia por el órgano que la tenga atribuida.
+
+2\. Los documentos contables cuya emisión se realice mediante actuación administrativa automatizada podrán ser autenticados mediante un sistema de sello electrónico de Administración Pública, órgano, organismo público o entidad de derecho público, basado en certificado electrónico reconocido o cualificado, previsto en el artículo 42.a) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+3\. El formato de la firma electrónica y sello electrónico se ajustará a la especificación ETSI TS 101 903 (XAdES), de acuerdo con lo establecido en la Política de Firma Electrónica y de Certificados de la Administración General del Estado, aprobada mediante Resolución de 29 de noviembre de 2012, de la Secretaría de Estado de Administraciones Públicas, o en la vigente en cada momento.
+
+4\. No se podrán agrupar en un mismo documento contable que incorpore la fase O, de reconocimiento de la obligación, excepto en el caso de documentos ADOK de reposiciones de Anticipos de Caja Fija, facturas que estén registradas en el Registro Contable de Facturas junto con facturas que no lo estén por estar incluidas en las excepciones previstas en la normativa vigente del Registro Contable de Facturas.
+
+Asimismo, solo se podrán agrupar varias facturas en un mismo documento contable que incorpore la fase O, cuando la fecha en la que se inicia el cómputo de los plazos para el abono del precio sea la misma para todas ellas.
+
+> Se modifica por el art. 1.2 de la Orden HAC/552/2019, de 11 de abril. [Ref. BOE-A-2019-7344](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-7344)
+
+> Esta modificación será de aplicación a partir de 1 de febrero de 2020, según establece la disposición final única de la citada Orden.
+
+> Se añade el apartado 4 por el art. 1.1 de la Orden HAP/336/2014, de 4 de marzo. [Ref. BOE-A-2014-2486](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2486).
+
+> Se añade el apartado 3 por el art. 1.1 de la Orden EHA/3068/2011, de 8 de noviembre. [Ref. BOE-A-2011-17889](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17889).
+
+### Cuarto. Incorporación de datos al sistema de información contable.
+
+1\. Los documentos contables electrónicos deberán remitirse a las oficinas de contabilidad debidamente autorizados, mediante firma electrónica, según las normas que se recogen en los capítulos siguientes, y acompañados de sus correspondientes justificantes electrónicos, a fin de su anotación, en su caso, en el sistema de información contable.
+
+A los efectos anteriores, las autorizaciones indicadas en los apartados séptimo, décimo, decimocuarto, decimoséptimo, vigésimo y vigésimo cuarto de esta orden se entenderá que deben ser realizadas, en todos los casos, mediante la correspondiente firma electrónica.
+
+2\. La anotación en el sistema de información producirá la actualización de todos los subsistemas a los que deban afectar las operaciones.
+
+3\. Una vez registrado en el sistema cada documento contable electrónico, y generado el correspondiente asiento contable, el propio sistema generará y remitirá un justificante electrónico de la toma de razón con los datos de la operación contable, incluyendo el número y fecha de la operación, sellado electrónicamente, para los servicios gestores.
+
+> Se modifica por el art. 1.3 de la Orden HAC/552/2019, de 11 de abril. [Ref. BOE-A-2019-7344](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-7344)
+
+> Esta modificación será de aplicación a partir de 1 de febrero de 2020, según establece la disposición final única de la citada Orden.
+
+## CAPÍTULO II — Documentos contables del Presupuesto de Gastos
+
+### Quinto. Concepto.
+
+1\. Son documentos de contabilidad del Presupuesto de Gastos aquellos que sirven de soporte a las anotaciones contables que se realicen como consecuencia de operaciones de gestión de créditos presupuestarios y de ejecución del Presupuesto de Gastos.
+
+2\. Las agrupaciones a que pueden afectar dichos documentos son:
+
+Presupuesto corriente.
+
+Presupuestos cerrados.
+
+Ejercicios posteriores.
+
+Tramitación anticipada.
+
+### Sexto. Clases de documentos.
+
+1\. Los documentos contables del Presupuesto de Gastos, cuyos modelos se incluyen en el anexo II, se utilizarán para el registro de las siguientes operaciones:
+
+a) Documento MC: Se utilizará en las modificaciones presupuestarias que aumenten o disminuyan los créditos.
+
+b) Documento de desglose: Se utilizará en las operaciones de desglose de las aplicaciones presupuestarias. También se utilizará para el seguimiento contable de los créditos distribuidos a través del sistema de información contable, en caso de delegaciones y desconcentraciones de competencias a favor de servicios periféricos.
+
+c) Documento RC de ejercicio corriente: Se utilizará para solicitar certificado de existencia y retención de crédito en los expedientes de gasto, de transferencias, de bajas por anulación y otras minoraciones, de retención adicional del 10 % de la adjudicación, y de retenciones porcentaje cultural (art. 58.3 del Real Decreto 111/1986). Para el registro de los acuerdos de no disponibilidad se utilizará el documento específico “RC-102” y para el registro del presupuesto del cajero de ACF se utilizará el documento específico “RC-110”.
+
+d) Documento RC de ejercicios posteriores: Se utilizará para solicitar el certificado de cumplimiento de los límites que establece el artículo 47 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en los expedientes de gasto y de retención adicional del 10 % de la adjudicación, y de retención porcentaje cultural (art. 58.3 del Real Decreto 111/1986).
+
+d´) Documento RC “Retención de crédito de tramitación anticipada”: Se utilizará en la tramitación anticipada de expedientes de gasto para solicitar el certificado de cumplimiento de límites que establece el artículo 47 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, de retención adicional del 10 % de la adjudicación, y de retención porcentaje cultural (art. 58 del Real Decreto 111/1986).
+
+d´´) Documento RC para el cajero de ACF: se utilizará opcionalmente para el registro y seguimiento de los presupuestos de los cajeros de Anticipos de Caja Fija, y para las retenciones de crédito que proceda efectuar sobre los presupuestos de dichos cajeros en las reposiciones de fondos de los Anticipos de Caja Fija.
+
+e) Documento A de ejercicio corriente: Se utilizará en las operaciones de autorización del gasto imputables al Presupuesto corriente.
+
+f) Documento D de ejercicio corriente: Se utilizará en las operaciones de compromiso de gasto imputables al Presupuesto corriente.
+
+g) Documento AD de ejercicio corriente: Se utilizará en operaciones que combinen autorización y compromiso de gasto imputables al Presupuesto corriente.
+
+h) Documento A de ejercicios posteriores: Se utilizará en operaciones de autorización del gasto imputables a Presupuestos futuros.
+
+i) Documento D de ejercicios posteriores: Se utilizará en operaciones de compromiso de gasto imputables a Presupuestos futuros.
+
+j) Documento AD de ejercicios posteriores: Se utilizará en operaciones que combinen autorización y compromiso de gasto imputables a Presupuestos futuros.
+
+k) Documento A de tramitación anticipada: Se utilizará en operaciones de autorización de gasto cuando se tramiten anticipadamente.
+
+l) Documento D de "tramitación anticipada": Se utilizará en operaciones de compromiso de gasto en el procedimiento de tramitación anticipada.
+
+l´) Documento AD de "tramitación anticipada": Se utilizará en operaciones que acumulen las fases de autorización y compromiso de gasto en el procedimiento de tramitación anticipada.
+
+l´´) Documento “Anexo anualidades”: Se utilizará para completar los documentos RC, A, D y AD de ejercicios posteriores y de tramitación anticipada mediante la incorporación de uno o más de estos documentos a los anteriores cuando el número de anualidades posteriores previsto sea superior a veinte.
+
+m) Documento ‘‘Reasignación’’: Se utilizará como soporte para registrar en contabilidad la operación de reasignación de créditos a que se refiere el punto 3 de la regla 10 ‘‘Desglose de aplicaciones presupuestarias y reasignación de créditos’’ de la Instrucción de operatoria contable a seguir en la ejecución del Gasto del Estado.
+
+Documento anexo aplicaciones ‘‘Reasignación’’: Mediante la incorporación de uno o más de estos documentos se podrá extender la validez de los documentos ‘‘Reasignación’’ a un número variable de aplicaciones presupuestarias.
+
+n) Documento OK: Se utilizará en operaciones de reconocimiento de obligaciones.
+
+ñ) Documento ADOK: Se utilizará en operaciones que combinen la autorización, compromiso y reconocimiento de obligaciones.
+
+o) Documento O: Se utilizará exclusivamente en el ámbito de la gestión de la Deuda del Estado, cuando al reconocer la obligación no se proponga el pago.
+
+p) Documento K: Se utilizará para proponer el pago en el supuesto que se indica en el apartado o) anterior y en el caso de otras obligaciones reconocidas con anterioridad a la entrada en vigor de la presente Orden cuyo pago no estuviese propuesto.
+
+q) Documento «Anexo aplicaciones»: Mediante la incorporación de uno o más de estos documentos se podrá extender la eficacia de los documentos anteriores a un número variable de aplicaciones presupuestarias.
+
+r) Documento «Anexo descuentos»: Mediante la incorporación de uno o más de estos documentos se podrá extender la validez de los documentos OK, ADOK y K a un número variable de descuentos.
+
+s) Documento PR: Se utilizará para el registro de la prescripción de obligaciones reconocidas pendientes de proponer el pago en el supuesto que se indica en el apartado o) anterior y en el caso de otras obligaciones reconocidas con anterioridad a la entrada en vigor de la presente Orden. Así mismo se utilizará para el registro de la prescripción de órdenes de pago.
+
+t) Documento MD: Se utilizará para el registro de las modificaciones o rectificaciones de errores de las obligaciones reconocidas en ejercicios anteriores pendientes de proponer el pago para el supuesto que se indica en el apartado o) anterior y para el caso de otras obligaciones reconocidas con anterioridad a la entrada en vigor de la presente Orden.
+
+u) Documento “Anexo distribución territorial del área origen del gasto”: Mediante la remisión de uno o más de estos documentos junto con los documentos OK y ADOK, se podrá extender la eficacia de éstos a un número variable de áreas origen del gasto. Este documento sólo se utilizará en aquellas operaciones cuyas aplicaciones presupuestarias pertenezcan a los capítulos 6 y 7 del presupuesto de gastos.
+
+v) Documento “Modificación de distribución territorial del área origen del gasto”: Se utilizará para el registro de las modificaciones de distribuciones territoriales del gasto que se hayan registrado con anterioridad.
+
+w) Documento “Anexo información adicional”: Se utilizará para complementar los documentos contables del Presupuesto de Gastos, cuando para el registro de la operación sea necesario cumplimentar algún campo del mismo.
+
+w´) Documento “Anexo imputación al presupuesto de operaciones devengadas”: Se deberá utilizar acompañando a los documentos contables OK y ADOK, expedidos de acuerdo a lo previsto en el apartado 2 de la Regla 52 de la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado, cuando la fecha de realización del gasto incorporado en los mismos corresponda a un ejercicio anterior al ejercicio corriente.
+
+Con el fin de realizar el control y seguimiento de que las obligaciones que se han reconocido en la cuenta 413, “Acreedores por operaciones devengadas”, utilizando el documento contable “Operaciones devengadas” se imputen al presupuesto, es necesario que cuando se realice el registro contable de dicha aplicación al presupuesto mediante los correspondientes documentos contables OK o ADOK, se expida y acompañe a los anteriores este documento contable “Anexo imputación al presupuesto de operaciones devengadas” en el que deberá consignarse la aplicación presupuestaria que se consignó en el documento contable de “Operaciones devengadas” cuando se realizó su registro inicial, con independencia de cuál haya sido su imputación presupuestaria definitiva que podría ser distinta.
+
+x) Documento “Anexo adicional de facturas”: Se utilizará para completar los documentos contables que contengan la fase “O” de reconocimiento de la obligación del Presupuesto de gastos, con los códigos del Registro Contable de Facturas (RCF) correspondientes a las facturas incluidas en el documento contable a que acompaña, cuando el número de facturas incluidas en el mismo sea superior a dos.
+
+Se cumplimentarán tantos documentos contables “Anexo adicional de facturas” como sean necesarios para consignar el código de RCF relativo a dichas facturas.
+
+Si el número de facturas incluidas en el documento contable que contenga la fase “O” fuera solamente uno, o dos, no se utilizará este “Anexo adicional de facturas” para consignar los códigos del RCF de las facturas incluidas, sino que dichos códigos se incorporarán en el documento “Anexo Información Adicional”.
+
+y) Documento “Anexo Seguimiento Fondos Unión Europea”: Se utilizará para hacer el seguimiento de los gastos presupuestarios financiados con Fondos de la Unión Europea.
+
+2\. Cuando se deba proceder a la anulación de cualquiera de las operaciones que se indican en el punto anterior, se expedirá un documento idéntico al confeccionado para el registro de la operación en cuestión pero de signo contrario.
+
+> Se modifican las letras c), d) y d') del apartado 1 por el art. 1.Uno de la Orden HAC/965/2024, de 9 de septiembre. [Ref. BOE-A-2024-18530](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18530)
+
+> Se añade la letra y) al apartado 1 por el art. 1.Uno de la Orden HAC/360/2021, de 14 de abril. [Ref. BOE-A-2021-6124](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6124)
+
+> Téngase en cuenta que la incorporación de datos específicos de seguimiento de los proyectos financiados con Fondos de la Unión Europea entrará en vigor el 17 de julio de 2021, según establece la disposición final única de la citada Orden. Véase la disposición transitoria 2 en cuanto al seguimiento de los proyectos financiados con Fondos de la Unión Europea desde el 1 de enero de 2021 hasta la entrada en vigor de la incorporación obligatoria de los datos específicos en SIC3.
+
+> Se añade la letra x) al apartado 1 por el art. 1.1 de la Orden HAC/787/2018, de 25 de julio. [Ref. BOE-A-2018-10649](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10649)
+
+> Se modifican la letras c) y d) y se añaden las letras d''), l'') y w') al apartado 1 por el art. 1.1 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+> Se añaden los puntos 1.d´), 1.l´) y se modifica el 1.l) por el art. 2.1 de la Orden HAP/1357/2013, de 11 de julio. [Ref. BOE-A-2013-7814](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7814).
+
+> Se modifica el punto 1.c) por el art. 1.2 de la Orden EHA/3068/2011, de 8 de noviembre. [Ref. BOE-A-2011-17889](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17889).
+
+> Se modifican las letras c) y d) y se añade la w) al punto 1 por el art. único.1 de la Orden EHA/818/2009, de 27 de marzo. [Ref. BOE-A-2009-5488](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5488).
+
+> Se añaden las letras u) y v) al punto 1 por el art. 1.1 de la Orden EHA/480/2008, de 20 de febrero. [Ref. BOE-A-2008-3740](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3740).
+
+> Se modifica el punto 1.c) por el apartado 3.1 de la Orden HAC/240/2004, de 26 de enero. [Ref. BOE-A-2004-2499](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2499).
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
+
+> Se modifican las letras b), l ), m) y s) del punto 1 por el apartado 2.1 a 5 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789).
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única, con la excepción indicada.
+
+> Se modifica el punto 1.b) por la disposición adicional de la Resolución de 23 de febrero de 1999. [Ref. BOE-A-1999-5362](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-5362).
+
+> Esta modificación surte efectos desde el 1 de enero de 1999, según establece la disposición final.
+
+### Séptimo. Autorización.
+
+1\. Los documentos MC de «modificación de créditos» y RC-102 de «no disponibilidad» serán autorizados por el Director General de Presupuestos.
+
+2\. Los demás documentos contables que se indican en el apartado anterior serán autorizados por el responsable del órgano que tenga encomendada la gestión de los créditos a los que se refieran las respectivas operaciones, excepto en los casos de documentos RC que deban ser expedidos por la oficina presupuestaria o por la Dirección General de Presupuestos, que se autorizarán por los responsables de las mismas; de documentos RC expedidos de oficio, que se autorizarán por el jefe de contabilidad; de documentos PR para prescripción de obligaciones, que se autorizarán por el responsable del órgano que haya realizado la aprobación del expediente de prescripción; y de documentos OK relativos a contratos centralizados financiados con cargo a los créditos disponibles al efecto en la sección 31 "Gastos de Diversos Ministerios", que serán autorizados por el responsable del órgano en cuyo titular haya delegado el Ministro de Hacienda y Administraciones Públicas la competencia para el reconocimiento de la obligación y la propuesta de pago.
+
+En el caso de que se utilice el propio documento contable como soporte del acto administrativo por el que se ejecuta la correspondiente operación, en dicho documento deberán constar todos los requisitos necesarios para que dicho acto administrativo tenga validez.
+
+> Se modifica el primer párrafo del punto 2 por el art. 2 de la Orden HAP/538/2015, de 23 de marzo. [Ref. BOE-A-2015-3446](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3446).
+
+> Se modifica el punto 1 por el art. 1.3 de la Orden EHA/3068/2011, de 8 de noviembre. [Ref. BOE-A-2011-17889](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17889).
+
+> Se modifica el punto 1 por el art. 1.1 de la Orden EHA/1160/2010, de 29 de abril. [Ref. BOE-A-2010-7252](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7252).
+
+> Esta modificación es aplicable a partir del 10 de mayo de 2010, según establece la disposición final única.
+
+> Se modifica el párrafo primero del punto 2 por el apartado 3.2 de la Orden HAC/240/2004, de 26 de enero. [Ref. BOE-A-2004-2499](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2499).
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
+
+> Se modifica el párrafo primero del punto 2 por el apartado 2.6 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789).
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+## CAPÍTULO III — Documentos contables de los pagos a justificar y de los anticipos de caja fija
+
+### Octavo. Concepto.
+
+Son documentos contables de los pagos a justificar y de los anticipos de caja fija aquellos que sirven de soporte a los registros que se deban efectuar en los subsistemas de pagos a justificar y de anticipos de caja fija.
+
+### Noveno. Clases de documentos.
+
+Los documentos relativos a los pagos a justificar y a los anticipos de caja fija, cuyos modelos se incluyen en el anexo II, se utilizarán para el registro de las siguientes operaciones:
+
+a) Documento de control de pagos a justificar: Se utilizará para el registro de las prórrogas autorizadas de los plazos de justificación, para el registro de la presentación de la cuenta justificativa y para el registro de la aprobación de la cuenta justificativa.
+
+b) Documento de adopción/distribución de anticipos de caja fija: Se utilizará para el registro en el sistema del establecimiento del sistema de anticipos de caja fija y su distribución por cajas pagadoras.
+
+c) Documentos de distribución por conceptos: Se utilizará cuando, optativamente, se quieran establecer límites por conceptos a los importes asignados a las cajas pagadoras.
+
+d) Documento anexo control de pagos a justificar: Mediante la incorporación de uno o más de estos documentos se podrá extender la eficacia de los documentos «Control de pagos a justificar» a un número variable de reintegros.
+
+> Se añade el apartado d) por el art. 1.2 de la Orden HAP/336/2014, de 4 de marzo. [Ref. BOE-A-2014-2486](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2486).
+
+> Se modifica la letra a) por el apartado 2.7 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789).
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+### Décimo. Autorización.
+
+1\. El documento de control de pagos a justificar será autorizado por el jefe de la Unidad Central a la que esté adscrita la respectiva caja pagadora.
+
+2\. El documento de adopción/distribución de anticipos de caja fija y el de distribución por conceptos se autorizará por la Autoridad que haya adoptado el correspondiente acuerdo.
+
+## CAPÍTULO IV — Documentos contables de los Anticipos de Tesorería
+
+### Undécimo. Concesión.
+
+1\. Para el registro de la concesión de un Anticipo de Tesorería se utilizará el documento I, cuyo formato figura en el anexo II de la presente Orden.
+
+2\. Para dejar sin efecto la operación anterior, se utilizará un documento I que será idéntico al empleado para registrar la concesión pero con signo negativo.
+
+### Duodécimo. Ejecución.
+
+Para la contabilización de las operaciones de ejecución de los Anticipos de Tesorería, concedidos al amparo del artículo 65 del texto refundido de la Ley General Presupuestaria, se utilizarán los mismos documentos que se emplean en la contabilización de las operaciones de ejecución del presupuesto de gastos del ejercicio corriente, que se han detallado en el capítulo II anterior.
+
+### Decimotercero. Cancelación.
+
+Para la cancelación de los Anticipos de Tesorería se utilizarán documentos I, A, D, OK o sus mixtos con signo negativo, debiendo consignar el código de cancelación que corresponda de acuerdo con las normas de cumplimentación de los documentos del anexo I.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 58, de 7 de marzo de 1996. [Ref. BOE-A-1996-5270](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-5270).
+
+### Decimocuarto. Autorización.
+
+1\. El documento I de concesión del Anticipo de Tesorería será autorizado por el Director general de Presupuestos.
+
+2\. Todos los documentos que se expidan para la ejecución y cancelación de los Anticipos de Tesorería se autorizarán por el responsable del órgano que tenga encomendada la gestión de los créditos a los que se refieran estas operaciones.
+
+## CAPÍTULO V — Documentos contables del Presupuesto de Ingresos y de operaciones no presupuestarias
+
+### Decimoquinto. Concepto.
+
+1\. Son documentos contables de operaciones de ejecución del Presupuesto de Ingresos y de operaciones no presupuestarias aquellos que sirven de soporte a las anotaciones contables que se realicen como consecuencia de dichas operaciones.
+
+2\. Los documentos del Presupuesto de Ingresos pueden afectar a las siguientes agrupaciones:
+
+Presupuesto corriente.
+
+Presupuestos cerrados.
+
+### Decimosexto. Clases de documentos.
+
+1\. Los documentos del Presupuesto de Ingresos y de operaciones no presupuestarias son los siguientes:
+
+a) Resúmenes contables: Son documentos que resumen la información de detalle que se gestiona a través de sistemas auxiliares de contabilidad no integrados en el SIC.
+
+Para la rectificación de los ingresos aplicados se utilizará el documento “Resumen Contable de Rectificación”.
+
+b) Órdenes de cobro de Departamentos ministeriales.
+
+c) Anulación de órdenes de cobros de Departamentos ministeriales.
+
+d) Instrumentos de cobro. Para los cobros realizados a través de entidades colaboradoras se utilizarán los documentos 060, 061 y 069 que se regulan en la Orden PRE/3662/2003, de 29 de diciembre.
+
+Para los cobros a través de Caja el instrumento de cobro constará de tres partes que tendrán la consideración de documentos independientes: Carta de pago, talón de cargo y resguardo complementario a efectos de generación de crédito..
+
+e) Propuesta de mandamiento de pago por devolución de ingresos.
+
+f) Hoja de arqueo del Banco de España.
+
+g) Instrumentos de ingreso en Banco de España. Constan de las siguientes partes que tendrán la consideración de documentos independientes: Mandamiento de ingreso y Carta de pago.
+
+h) Propuesta de mandamiento de pago no presupuestaria.
+
+i) Anexo: Permite incluir más de cinco aplicaciones contables en las propuestas de mandamiento de pago por devolución de ingresos y no presupuestarias.
+
+j) Anexo datos adicionales: Se utilizará para complementar los documentos contables del Presupuesto de Ingresos y de operaciones no presupuestarias, cuando para el registro de la operación sea necesario cumplimentar algún campo del mismo.
+
+k) Mandamiento de ingreso de Fondos Europeos: Se utilizará para la aplicación de los ingresos procedentes de Fondos Europeos.
+
+l) Propuesta de mandamiento de pago por devolución de ingresos multiárea: Se utilizará para las devoluciones de ingresos que afecten tanto a conceptos del Presupuesto de ingresos como a conceptos no presupuestarios.
+
+2\. Para el registro de las órdenes de cobro de Departamentos ministeriales, así como sus anulaciones, se utilizarán los propios documentos remitidos por dichos Departamentos, debidamente comprobados y codificados.
+
+La Intervención General de la Administración del Estado podrá dictar las disposiciones necesarias para la normalización de estos documentos, así como para su remisión a través de medios informáticos.
+
+3\. Para el resto de documentos se utilizarán los modelos que figuran en el anexo II.
+
+> Se añade la letra l) al punto 1 por el art. 1.4 de la Orden EHA/3068/2011, de 8 de noviembre. [Ref. BOE-A-2011-17889](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17889).
+
+> Se añaden la letras j) y k) al punto 1 por el art. 1.2 de la Orden EHA/1160/2010, de 29 de abril. [Ref. BOE-A-2010-7252](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7252).
+
+> Esta modificación es aplicable a partir del 10 de mayo de 2010, según establece la disposición final única.
+
+> Se modifican las letras a) y d) del punto 1 por el art. único.2 de la Orden EHA/818/2009, de 27 de marzo. [Ref. BOE-A-2009-5488](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5488).
+
+### Decimoséptimo. Autorización.
+
+1\. Los resúmenes contables serán autorizados por el responsable de la gestión del sistema auxiliar de contabilidad del que se han obtenido los mismos.
+
+2\. Las órdenes de cobro de Departamentos ministeriales, así como sus anulaciones, serán autorizadas por el responsable del órgano que tenga encomendada la gestión de los recursos a los que se refieren aquellas.
+
+3\. Las propuestas de mandamiento de pago por devolución de ingresos y no presupuestarias se autorizarán por el órgano competente en la tramitación del oportuno expediente.
+
+En el caso de que se utilice el propio documento contable como soporte del acto administrativo por el que se ejecuta la correspondiente operación, en dicho documento deberán constar todos los requisitos necesarios para que dicho acto administrativo tenga validez.
+
+4\. La hoja de arqueo del Banco de España será autorizada por el Jefe de Contabilidad.
+
+> Se añade un párrafo al punto 3 por el art. 1.3 de la Orden EHA/1160/2010, de 29 de abril. [Ref. BOE-A-2010-7252](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7252).
+
+> Esta modificación es aplicable a partir del 10 de mayo de 2010, según establece la disposición final única.
+
+## CAPÍTULO VI — Documentos contables de la Deuda del Estado
+
+### Decimoctavo. Concepto.
+
+Son documentos contables de la Deuda del Estado aquellos que sirven de soporte de los registros que se deban efectuar en el sistema auxiliar de contabilidad de la Deuda del Estado.
+
+### Decimonoveno. Clases de documentos:
+
+Los documentos de la Deuda del Estado, cuyos modelos figuran en el anexo II, son los siguientes:
+
+a) Creación de Deuda del Estado en moneda nacional.
+
+b) Creación de Deuda del Estado en moneda extranjera.
+
+c) Amortización y/o reembolso de Deuda del Estado en moneda nacional.
+
+d) Amortización y/o reembolso de Deuda del Estado en moneda extranjera.
+
+e) Intereses de Deuda del Estado en moneda nacional.
+
+f) Intereses de Deuda del Estado en moneda extranjera.
+
+g) Prescripción de Deuda del Estado.
+
+h) Papel comercial. Emisiones y amortizaciones.
+
+i) Regularización de Letras del Tesoro y otros títulos a corto plazo.
+
+j) Regularización de Deuda del Estado en moneda extranjera.
+
+k) Regularización de intereses explícitos.
+
+l) Reclasificación a corto plazo de deudas.
+
+m) Regularización de gastos e ingresos financieros diferidos.
+
+n) Periodificación e imputación de rendimientos implícitos de letras del tesoro y otras deudas a corto plazo.
+
+ñ) Diferencias en conversión de Deuda del Estado.
+
+o) Rehabilitación de Deuda del Estado.
+
+p) Conversión títulos cancelados.
+
+### Vigésimo. Autorización.
+
+Los documentos indicados en el apartado anterior serán autorizados por el responsable del órgano gestor de cada tipo de deuda en la Dirección General del Tesoro y Política Financiera.
+
+## CAPÍTULO VII — Documentos contables de valores en depósito
+
+### Vigésimo primero. Concepto.
+
+Son documentos de contabilidad de valores en depósito aquellos que sirven de soporte a los registros que se deban efectuar en el sistema contable como consecuencia de las operaciones de constitución y cancelación de depósitos que no afecten al ámbito de la Caja General de Depósitos.
+
+### Vigésimo segundo. Clases.
+
+Los documentos de valores en depósito, cuyos modelos se incluyen en el anexo II, se utilizarán en las siguientes operaciones:
+
+a) Documento de constitución de depósitos: Se utilizará para el registro de los valores que se depositen. Consta de las siguientes partes, que tendrán la consideración de documentos independientes:
+
+Mandamiento de constitución de depósitos.
+
+Carta de pago.
+
+b) Mandamiento de cancelación de depósitos: Se utilizará para el registro de la devolución de los valores.
+
+## CAPÍTULO VIII — Otros documentos de contabilidad
+
+### Vigésimo tercero. Clase de documentos.
+
+1\. En este capítulo se incluyen los siguientes documentos contables, cuyos modelos se han incorporado en el anexo II:
+
+a) Documento CA de “Certificaciones anticipadas”: Se utilizará para el registro de certificaciones de obra que se extiendan y aprueben excediendo del importe de la anualidad en curso, así como para la cesión de las mismas, en cuyo caso se complementará con el documento “Anexo información adicional”, regulado en el epígrafe w) del punto 1 del apartado Sexto de esta Orden, cumplimentado los datos relativos a la cesión en este documento.
+
+b) Documento “Operaciones devengadas”: se utilizará para el registro a 31 de diciembre de aquellas operaciones devengadas y no contabilizadas, de acuerdo a lo previsto en el apartado 2 de la regla 52 de la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado.
+
+c) Documento soporte de asientos directos: Se utilizará para el registro de operaciones contables con trascendencia patrimonial o económica, cuando dichas operaciones no puedan contabilizarse con algún otro documento de los descritos en la presente Orden.
+
+d) Documento "Gestión de gastos con financiación afectada": Se utilizará para el alta, baja, modificación y cancelación de los datos generales identificativos de los gastos con financiación afectada.
+
+Este documento se remitirá a la oficina de contabilidad acompañando al primer documento contable en el que deba figurar el correspondiente código de gasto con financiación afectada.
+
+Posteriormente se remitirá siempre que se produzca alguna modificación de los datos que figuren en el documento de alta, cuando se dé de baja algún "código GFA" que no tenga operaciones y no se vaya a utilizar, o cuando se cancele el gasto con financiación afectada por haber finalizado las operaciones relativas al mismo.
+
+Las operaciones de modificación, baja y cancelación deberán ser registradas por la misma oficina de contabilidad que registró el alta, por tanto si el respectivo documento se recibe en otra oficina deberá ésta remitirlo a la oficina que registró el correspondiente alta.
+
+e) Documento «Rectificación de operaciones devengadas»: Se utilizará para disminuir el saldo de la cuenta 4130 cuando, por errores, excesos de estimación u otras causas que no permitan el uso del «Anexo de imputación al presupuesto de operaciones devengadas», se disponga de mejor información en un ejercicio posterior al de contabilización del Documento de «Operaciones devengadas».
+
+2\. Cuando se deba proceder a la anulación de las operaciones indicadas en las letras a) y b) del punto anterior se utilizarán los mismos documentos contables pero con signo negativo.
+
+> Se modifica la letra a) del apartado 1 por el art. 1.2 de la Orden HAC/787/2018, de 25 de julio. [Ref. BOE-A-2018-10649](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10649)
+
+> Se modifica la letra e) del apartado 1 por el art. 1.1 de la Orden HFP/1105/2017, de 16 de noviembre. [Ref. BOE-A-2017-13278](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13278)
+
+> Se modifica la letra b) y se añade la letra e) en el apartado 1 por el art. 1.2 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+> Se añade la letra d) al punto 1 por el art. 1.4 de la Orden EHA/1160/2010, de 29 de abril. [Ref. BOE-A-2010-7252](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7252).
+
+> Esta modificación es aplicable a partir del 1 de enero de 2011, según establece la disposición final única.
+
+### Vigésimo cuarto. Autorización.
+
+1\. El documento CA será autorizado por el responsable del órgano que tenga encomendada la gestión de los créditos a los que se refieran las respectivas operaciones.
+
+2\. El documento de operaciones devengadas y el de rectificación de operaciones devengadas serán autorizados por el jefe de contabilidad.
+
+3\. El documento soporte de asientos directos será autorizado por el responsable del órgano gestor al que correspondan las operaciones a registrar o, en su caso, por el responsable del sistema auxiliar de contabilidad del que se obtengan los datos a incorporar en el sistema de información contable.
+
+> Se modifica por el art. 1.3 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+### Disposición transitoria. Validez de los documentos contables para el registro de todas las operaciones realizadas en el ejercicio 1996.
+
+En las operaciones contabilizadas entre el 1 de enero de 1996 y la entrada en vigor de esta Orden tendrá validez la utilización de documentos contables cuyos formatos se hubiesen adecuado a los que en la misma se establecen.
+
+### Disposición adicional. Documentos contables del subsistema de proyectos de gasto y de la contabilidad de las operaciones de intercambio financiero.
+
+Los modelos y las normas de cumplimentación de los documentos relativos al subsistema de proyectos de gasto y a la contabilidad de las operaciones de intercambio financiero se aprobarán por la Intervención General de la Administración del Estado.
+
+### Disposición final.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 1 de febrero de 1996.
+
+SOLBES MIRA
+
+Excmos. e Ilmos. Sres...
+
+## ANEXO I — Normas de cumplimentación de los documentos contables
+
+Para cumplimentar los documentos que figuran en el anexo II, se deberán tener en cuenta las siguientes notas aclaratorias:
+
+1\. Oficina contable: Se consignará el código y la denominación correspondientes a la oficina contable del centro gestor afectado por la operación.
+
+2\. Código: Se indicará alguna de las siguientes claves de operación según el modelo de documento contable y la operación de la que se trate:
+
+a) Documento MC (Modificaciones de Crédito):
+
+030 Créditos extraordinarios.
+
+040 Suplemento de créditos.
+
+050 Ampliación de créditos.
+
+060 Transferencias de créditos positivas.
+
+061 Transferencias de créditos negativas.
+
+070 Incorporación de remanentes de crédito.
+
+080 Créditos generados por ingresos.
+
+090 Bajas por anulación o rectificación.
+
+095 Aumento por rectificaciones.
+
+b) Documento RC de ejercicio corriente (Solicitud de retenciones de crédito, registro de no disponibilidad y registro del presupuesto del cajero de ACF):
+
+100\. “Retención de crédito para gastar”.
+
+101\. “Retención de crédito para transferencias”.
+
+102\. “No disponibilidad”.
+
+103\. “Retención porcentaje cultural (art. 58.3.a) del Real Decreto 111/1986)”.
+
+104\. “Retención cautelar por operaciones pendientes de registro contable”.
+
+106\. “Retención de crédito para bajas por anulación y otras minoraciones”.
+
+108\. “Retención adicional del 10 % de la adjudicación”.
+
+109\. “Retención porcentaje cultural (art. 58.3.b) del Real Decreto 111/1986)”.
+
+110\. “Presupuesto del cajero de ACF”.
+
+111\. “Retención sobre el presupuesto del cajero de ACF”.
+
+c) Documento RC de ejercicios posteriores (Solicitud de certificado de cumplimiento de límites del artículo 47 de la LGP):
+
+100\. “Retención de crédito para ejercicios posteriores”.
+
+104\. “Retención cautelar de operaciones pendientes de registro”.
+
+108\. “Retención adicional del 10 % de la adjudicación”.
+
+109\. “Retención porcentaje cultural (art. 58.3.b) del Real Decreto 111/1986)”.
+
+d) Documento A de ejercicio corriente y de ejercicios posteriores (autorizaciones de gasto):
+
+200 Autorización sobre crédito disponible.
+
+210 Autorización sobre crédito retenido.
+
+206 Cancelación de autorizaciones (Anticipos de Tesorería).
+
+e) Documento D de ejercicio corriente y de ejercicios posteriores (compromisos de gasto):
+
+300 Compromiso de gasto.
+
+306 Cancelación de compromiso de gasto (Anticipos de Tesorería).
+
+f) Documento AD de ejercicio corriente y de ejercicios posteriores (autorizaciones y compromisos de gasto):
+
+220 Autorización y compromiso sobre crédito disponible.
+
+230 Autorización y compromiso sobre crédito retenido.
+
+226 Cancelación de autorización y compromiso de gasto (Anticipos de Tesorería)
+
+g) Documentos de tramitación anticipada (RC y A):
+
+100\. “Retención de crédito para tramitación anticipada”.
+
+103\. “Retención porcentaje cultural (art. 58.3.a) del Real Decreto 111/1986)”.
+
+108\. “Retención adicional del 10 % de la adjudicación”.
+
+109\. “Retención porcentaje cultural (art. 58.3.b) del Real Decreto 111/1986)”.
+
+210\. “Autorización sobre crédito retenido”.
+
+h) Documento D de tramitación anticipada:
+
+300 “Compromiso de gasto”.
+
+i) Documento AD de tramitación anticipada:
+
+230 “Autorización y compromiso de gasto sobre crédito retenido”.
+
+j) Documento OK (reconocimiento de obligaciones):
+
+420 Reconocimiento de obligaciones.
+
+426 Cancelación de reconocimiento de obligaciones (Anticipos de Tesorería).
+
+k) Documento ADOK (autorización, compromiso y reconocimiento de obligaciones):
+
+260 Autorización, compromiso, reconocimiento de obligaciones, sobre crédito disponible
+
+270 Autorización, compromiso, reconocimiento de obligaciones, sobre crédito retenido.
+
+266 Cancelación de autorización, compromiso y reconocimiento de obligaciones (Anticipos de Tesorería)
+
+l) Documento O (reconocimiento de obligaciones sin la propuesta de pago):
+
+410 Reconocimiento de obligaciones sin propuesta de pago.
+
+416 Cancelación de obligaciones reconocidas sin propuesta de pago (Anticipos de Tesorería).
+
+m) Documento K (propuesta de pago):
+
+430 Propuesta de pago.
+
+436 Cancelación de propuesta de pago (Anticipos de Tesorería).
+
+n) Documento PR (prescripción de obligaciones):
+
+460 Prescripción de obligaciones.
+
+ñ) Documento MD (modificación de obligaciones de ejercicios cerrados):
+
+410 Rectificación del saldo inicial de obligaciones reconocidas. Aumento (si es positivo) o disminución (si es negativo).
+
+411\. Rectificación del saldo inicial de obligaciones asociadas a proyectos de inversión procedentes de otros entes. Aumento (si es positivo) o disminución (si es negativo). (Uso excepcional).
+
+412\. Rectificación del saldo inicial de obligaciones reconocidas sin facilitar datos de proyectos de inversión. Aumento (si es positivo) o disminución (si es negativo). (Uso excepcional).
+
+413\. Rectificación del saldo entrante de obligaciones anteriores a 1996 con datos de proyectos de inversión. Aumento (si es positivo) o disminución (si es negativo). (Uso excepcional).
+
+o) Documento I (concesión de Anticipos de Tesorería):
+
+000 Concesión del Anticipo de Tesorería.
+
+006 Cancelación de Anticipos de Tesorería concedidos.
+
+p) Documento PMP (propuesta de mandamiento de pago por devolución de ingresos y no presupuestaria):
+
+410 Propuesta de mandamiento de pago.
+
+411.1 Anulación de propuesta de mandamiento de pago por devolución de ingresos expedidos en el ejercicio anterior.
+
+Además, se abren claves de operación relativas a recursos locales:
+
+400.0 Propuesta de mandamiento de pago por recursos recaudados.
+
+410.0 Reconocimiento de acreedores por devolución de ingresos.
+
+q) Documento CA (certificaciones anticipadas):
+
+425\. Certificaciones anticipadas.
+
+426\. Cesión del derecho de cobro de la certificación anticipada.
+
+r) Documentos de operaciones devengadas y rectificación de operaciones devengadas:
+
+413 “Operaciones devengadas”.
+
+414 “Rectificación de operaciones devengadas”.
+
+3\. Esta casilla se dejará en blanco cuando la operación sea de signo positivo y se consignará una barra (/) cuando sea de signo negativo.
+
+4\. Signo: Se consignará en la primera casilla positivo y en la segunda 0 cuando la operación sea de signo positivo, y negativo y 1 cuando sea de signo negativo.
+
+5\. En este recuadro se indicará el literal del tipo de operación del que se trate, según las denominaciones incluidas en la nota (2) anterior. Cuando las operaciones tengan signo negativo se incluirá al principio de cada una de dichas denominaciones: “Anulación de …….”, excepto en los casos de operaciones de “Transferencias de crédito negativas”, de “Rectificaciones del saldo inicial de obligaciones reconocidas – Disminución” y las operaciones de cancelación en Anticipos de Tesorería, en los que se incluirá “Anulación de …….” cuando las mismas tengan signo positivo.
+
+6\. Operación de enlace: En su caso, se deberá consignar el número de registro contable correspondiente a la fase anterior o a la que complementa la operación que se pretende registrar.
+
+7\. Número de expediente: Código identificativo del expediente al que se refiera la operación a contabilizar que haya sido asignado por el centro gestor.
+
+8\. Número de aplicaciones: Se consignará el número de aplicaciones presupuestarias que se vean afectadas por la operación.
+
+9\. Número de anualidades: Se indicará el número de ejercicios posteriores a los que afecta la operación.
+
+10\. Ejercicio: Se indicará el ejercicio en el que se deba contabilizar la operación.
+
+11\. Año del presupuesto: Se rellenarán los cuatro dígitos del año del Presupuesto al que corresponda la operación.
+
+12\. Sección: Se indicará el código numérico y el literal de la Sección que corresponda según la clasificación orgánica del Presupuesto de Gastos.
+
+13\. Orgánica: Se indicará el código del servicio en los dos primeros dígitos y, en su caso, si se hubiese aprobado un desglose mayor, se consignará el código identificativo de las unidades que dependan de dicho servicio.
+
+14\. Programa: Se indicará el código correspondiente a la clasificación por programas del Presupuesto de Gastos.
+
+14 bis. C. Modif.: Código correspondiente a la modificación presupuestaria. Este dato solamente se introducirá en los documentos expedidos por la Dirección General de Presupuestos.
+
+15\. Económica: Se consignará el código correspondiente a la clasificación económica del Presupuesto de gastos. En el documento de desglose se indicará el concepto o, en su caso, subconcepto que se pretenda desglosar o distribuir a servicios periféricos.
+
+15 bis. Consol.: Se indicará 0 ó 1 según que la operación sea consolidable o no. Este dato solamente se introducirá en los documentos expedidos por la Dirección General de Presupuestos.
+
+16\. Importe: Se indicará el importe en cifras que corresponda a cada aplicación presupuestaria.
+
+17\. Cta. PGCP: Cuenta del Plan General de Contabilidad Pública correspondiente a cada aplicación presupuestaria. Este dato, que se rellenará por la oficina de contabilidad, sólo se indicará cuando a una misma aplicación se puedan asociar dos o más cuentas.
+
+Cuando se utilicen documentos «Anexo Aplicaciones», en aquellos documentos a los que complementan no se rellenarán los datos correspondientes a las notas 13, 14, 15, 16 y 17.
+
+18\. Importe (en letra): Se consignará en letra el importe total correspondiente a todas las aplicaciones incluidas en el documento o, en su caso, en el anexo o anexos.
+
+19\. Importe: Se indicará en cifras la misma cantidad a la que se refiere la nota 18 anterior.
+
+20\. Interesado: Se indicará el número de identificación fiscal y la denominación del acreedor directo o, en su caso, habilitado, cajero pagador u otro agente mediador en el pago.
+
+21\. Anualidad: Se indicarán con cuatro dígitos las anualidades correspondientes a los ejercicios posteriores de gastos plurianuales o de tramitación anticipada, según corresponda. Cuando el número de anualidades sea superior a las 20 previstas en el documento principal, se cumplimentarán además los anexos de anualidades que sean necesarios.
+
+22\. Importe: Importe en cifras correspondiente a cada anualidad a las que se refiere la nota 21 anterior.
+
+23\. Cesionario: Se indicará el número de identificación fiscal y la denominación del cesionario, cuando se haya producido la transmisión del derecho de cobro del interesado frente a la Administración.
+
+También se cumplimentará este campo cuando así se establezca en el procedimiento contable para el caso de los pagos a través de los agentes mediadores en el pago y pagos a otros perceptores que no se deriven de contratos con la Administración. En este caso, no se deberá cumplimentar en el documento contable el «Número de Registro de cesiones de créditos.
+
+24\. Iban del perceptor y Bic: Código Iban y código Bic de la cuenta bancaria del interesado o cesionario en la que debe abonarse el importe.
+
+25\. Tipo de pago: Se indicará el código que corresponda de la tabla de «tipo de pago» del sistema de información contable, según que el pago se vaya a realizar al acreedor directo o a través de los distintos agentes mediadores en el pago que posibilite la normativa aplicable.
+
+26\. Forma de pago: Este campo no deberá cumplimentarse por el servicio gestor.
+
+27\. Área origen del gasto: Se indicará el código identificativo y denominación de la provincia o grupo de provincias que corresponda. Si en un documento OK o ADOK, cuyas aplicaciones presupuestarias pertenezcan a los capítulos 6 ó 7 del presupuesto de gastos, se incluye el área origen del gasto 90 correspondiente a varias provincias de distintas Comunidades Autónomas, necesariamente se deberá acompañar dicho documento de uno o más documentos “Anexo Distribución territorial del área origen del gasto”, desglosando el importe total entre las provincias o grupos de provincias de la Comunidad Autónoma o Comunidades Autónomas que correspondan. No será obligatorio el desglose anterior si en el documento OK o ADOK figura como área origen del gasto alguna de las comprendidas entre las claves 91 a 98.
+
+28\. Epígrafe de gasto: Mediante el epígrafe de gasto, el Servicio gestor puede clasificar los gastos de los diversos expedientes atendiendo a criterios distintos de los que se derivan de las clasificaciones orgánica, por programas y económica del presupuesto.
+
+Este apartado es de cumplimentación opcional.
+
+El campo “Código” tendrá la estructura que asigne el servicio gestor, no pudiendo exceder de los dígitos previstos en el documento contable. Junto al código figurará su denominación.
+
+En el campo “Importe” se consignará el importe asignado a cada epígrafe de gasto.
+
+Si hubiera más de un epígrafe se utilizarán tantos documentos «Anexo información adicional» como sean necesarios para consignar dichos epígrafes.
+
+En su caso, la Intervención General de la Administración del Estado podrá crear epígrafes de gasto, que los Servicios gestores deberán consignar en los documentos contables que expidan para la ejecución de los gastos afectados.
+
+29\. Código descuento: Se indicará los códigos correspondientes a los descuentos que se deban efectuar sobre el importe íntegro de la orden de pago.
+
+30\. Descripción: Denominación de cada uno de los descuentos a que se refiere la nota 29 anterior.
+
+31\. Importe: Importe en cifras correspondiente a cada uno de los descuentos a que se refiere la nota 29 anterior.
+
+32\. Cta. PGCP: Cuenta del Plan General de Contabilidad Pública correspondiente a cada descuento de los indicados en la nota 29 anterior. Este dato, que se rellenará por la oficina de contabilidad, sólo se indicará cuando a un mismo descuento se puedan asociar dos o más cuentas.
+
+Si se utilizan documentos «Anexo descuento», en los documentos a los que complementan no se rellenarán los datos correspondientes a las notas 29, 30, 31 y 32.
+
+33\. Total descuentos: Importe total de todos los descuentos a efectuar.
+
+34\. Fecha del gasto: Fecha de realización del gasto de acuerdo con los siguientes criterios:
+
+I. Contratos relativos a bienes y servicios.
+
+a) Arrendamientos: Último día del mes o del periodo a que se refiera dicho gasto.
+
+b) Adquisición de bienes inmuebles y otros bienes corporales o incorporales: Día de la entrega del bien si los riesgos y ventajas asociados al mismo hubieran sido traspasados a la entidad adquirente, o la fecha de dicho traspaso, si fuera posterior a la de entrega del bien.
+
+c) Contratos de obras: Se distinguen los siguientes casos:
+
+1\. Certificaciones ordinarias: Último día del mes al que corresponda la certificación.
+
+2\. Certificaciones finales de obra: Fecha en la que los riesgos y ventajas asociados a la obra hubieran sido traspasados a la entidad, que podrá coincidir con la fecha de la recepción de la obra, o, en su caso, con la fecha del acta de ocupación si ésta fuera anterior a la recepción.
+
+3\. Liquidación de las obras: Día del fin del plazo de la garantía.
+
+4\. Indemnizaciones: Fecha en la que la liquidación de la indemnización adquiera firmeza.
+
+5\. Cuando en las certificaciones y liquidaciones a que se refieren los apartados anteriores se incluyan conceptos como revisiones de precios o intereses de demora que afecten a más de un ejercicio, los servicios gestores deberán expedir un documento contable para cada ejercicio afectado y remitir todos los documentos de forma conjunta a la oficina de contabilidad. La fecha de realización del gasto a consignar en los documentos contables referidos a operaciones devengadas en ejercicios anteriores será el 31 de diciembre del ejercicio que corresponda. La expedición de un documento contable para cada ejercicio afectado, no es obligatoria si su importe es poco significativo.
+
+d) Contratos de suministros: Se distinguen los siguientes casos:
+
+1\. Abonos a cuenta y entregas a cuenta: Último día del mes o periodo al que correspondan.
+
+2\. Liquidación: Como regla general, fecha de la entrega del suministro, o en el caso de que los riesgos y ventajas asociados al mismo no hubieran sido traspasados a la entidad adquirente, día en que se efectúe la recepción de conformidad.
+
+3\. Indemnizaciones: Fecha en la que adquiere firmeza la liquidación de la indemnización.
+
+4\. Cuando en las certificaciones y liquidaciones a que se refieren los apartados anteriores se incluyan conceptos como revisiones de precios o intereses de demora que afecten a más de un ejercicio, los servicios gestores deberán expedir un documento contable para cada ejercicio afectado y remitir todos los documentos de forma conjunta a la oficina de contabilidad. La fecha de realización del gasto a consignar en los documentos contables referidos a operaciones devengadas en ejercicios anteriores será el 31 de diciembre del ejercicio que corresponda. La expedición de un documento contable para cada ejercicio afectado, no es obligatoria si su importe es poco significativo.
+
+e) Contratos de servicios: Se distinguen los siguientes casos:
+
+1\. Pagos parciales de gastos de carácter periódico y tracto sucesivo: Último día del mes o período al que correspondan.
+
+2\. Liquidación: Día en que finalice la prestación del servicio.
+
+3\. Indemnizaciones: Fecha en la que adquiere firmeza la liquidación de la indemnización.
+
+4\. Cuando en las certificaciones y liquidaciones a que se refieren los apartados anteriores se incluyan conceptos como revisiones de precios o intereses de demora que afecten a más de un ejercicio, los servicios gestores deberán expedir un documento contable para cada ejercicio afectado y remitir todos los documentos de forma conjunta a la oficina de contabilidad. La fecha de realización del gasto a consignar en los documentos contables referidos a operaciones devengadas en ejercicios anteriores será el 31 de diciembre del ejercicio que corresponda. La expedición de un documento contable para cada ejercicio afectado, no es obligatoria si su importe es poco significativo.
+
+f) Contratos mixtos: En los casos en los que un contrato contenga prestaciones correspondientes a dos tipos de contratos (por ejemplo, suministros y servicios), se indicará como fecha de gasto la que corresponda a la prestación principal del contrato.
+
+g) Contratos de abono total: Se distinguen los siguientes casos:
+
+1\. Liquidación: Fecha en la que los riesgos y ventajas asociadas a la obra hubieran sido traspasados a la entidad, que podrá coincidir con la fecha de la recepción de la obra, o, en su caso, con la fecha del acta de ocupación si ésta fuera anterior a la recepción.
+
+2\. Indemnizaciones: Fecha en la que adquiere firmeza la liquidación de la indemnización.
+
+3\. Cuando en la liquidación se incluyan conceptos como revisiones de precios o intereses de demora que afecten a más de un ejercicio, los servicios gestores deberán expedir un documento contable para cada ejercicio afectado y remitir todos los documentos de forma conjunta a la oficina de contabilidad. La fecha de realización del gasto a consignar en los documentos contables referidos a operaciones devengadas en ejercicios anteriores será el 31 de diciembre del ejercicio que corresponda. La expedición de un documento contable para cada ejercicio afectado, no es obligatoria si su importe es poco significativo.
+
+h) Acuerdos de concesión:
+
+1\. En el modelo del pasivo financiero, que es cuando la Administración concedente debe pagar a la concesionaria la inversión realizada y el coste de explotación, se deberá consignar el último día del periodo al que corresponda cada uno de los pagos a realizar.
+
+2\. En el caso de reversiones de infraestructuras, que conlleven pagos por parte de la Administración concedente a la concesionaria, se consignará la fecha en la que los riesgos y ventajas asociados a la infraestructura hubieran sido traspasados a la entidad.
+
+II. Subvenciones y Transferencias:
+
+a) Subvenciones: Se distinguen los siguientes casos:
+
+a.1) Subvenciones en régimen de concurrencia: Una vez aprobado el acuerdo de concesión, se indicará como fecha de gasto la fecha en la que se tenga constancia documental de que el beneficiario ha cumplido las condiciones para el pago de la subvención.
+
+Si en la tramitación de la subvención interviene una entidad intermediaria ante la que se presentan los justificantes, se considerará fecha de gasto la fecha de entrada en dicha entidad intermediaria de la documentación justificativa.
+
+a.2) Subvenciones de concesión directa en virtud de Ley: Si de dicha Ley surge la obligación a cargo de la Administración concedente, se indicará como fecha de gasto la fecha en la que se tenga constancia documental de que el beneficiario ha cumplido los requisitos establecidos en la Ley, aunque a dicha fecha no se haya dictado todavía el acuerdo de concesión de subvención. Si en la tramitación de la subvención interviene una entidad intermediaria ante la que se presentan los justificantes, se considerará fecha de gasto la fecha de entrada en dicha entidad intermediaria de la documentación justificativa.
+
+En subvenciones de concesión directa en las que la obligación no nace de la Ley, se indicará como fecha de gasto la fecha en la que se tenga constancia documental de que el beneficiario ha cumplido las condiciones para el pago de la subvención. En todo caso la fecha de gasto no puede ser anterior a la fecha del acuerdo de concesión.
+
+b) Transferencias: Se distinguen los siguientes casos:
+
+b.1) Transferencias: Fecha en la que se dicte el acto administrativo por el que se reconozca y cuantifique el derecho de cobro del beneficiario.
+
+b.2) Entregas a cuenta de transferencias: Fecha de inicio del período al que se refieren (mensual, trimestral, etc.), siempre que dichas entregas a cuenta tengan carácter de exigibles por el beneficiario.
+
+c) Aportaciones a entidades en concepto de compensación por la prestación de servicios cuya financiación total o parcial corresponda a la Administración General del Estado: Último día al que corresponda el periodo de prestación del servicio o fecha en la que finalice la prestación del servicio.
+
+d) Gastos de acción social: Se aplicarán los mismos criterios de la letra a) anterior relativa a las subvenciones.
+
+e) Pensiones por indemnizaciones a ex altos cargos: Último día del mes o período al que correspondan.
+
+III. Sentencias.
+
+a) En los gastos derivados de la propia ejecución de la sentencia, tanto para la indemnización principal como para los intereses que se derivan de la sentencia (intereses compensatorios), se indicará como fecha de gasto la fecha en la que la sentencia haya adquirido firmeza. En los casos en que no se tenga constancia de la fecha de firmeza de la sentencia se tomará la de su notificación al órgano administrativo.
+
+No obstante, cuando los citados intereses compensatorios se refieran a varios ejercicios:
+
+– Por los intereses devengados en ejercicios anteriores al ejercicio del reconocimiento de la obligación presupuestaria del pago de la sentencia, los servicios gestores deberán expedir un documento contable para cada ejercicio afectado y remitir todos los documentos de forma conjunta a la oficina de contabilidad. La fecha de realización del gasto a consignar en los documentos contables referidos a operaciones devengadas en ejercicios anteriores será el 31 de diciembre del ejercicio que corresponda. La expedición de un documento contable para cada ejercicio afectado no es obligatoria si su importe es poco significativo.
+
+– Por los intereses devengados en el ejercicio del reconocimiento de la obligación para el pago de la sentencia, la fecha de gasto será la fecha en la que la sentencia haya adquirido firmeza.
+
+b) En los intereses que se derivan del artículo 106.2 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, se indicará como fecha de gasto la fecha en la que se efectuó el pago de la sentencia.
+
+No obstante, cuando los citados intereses se refieran a varios ejercicios:
+
+– Por los intereses devengados en ejercicios anteriores al ejercicio del reconocimiento de la obligación presupuestaria del pago de la sentencia, los servicios gestores deberán expedir un documento contable para cada ejercicio afectado y remitir todos los documentos de forma conjunta a la oficina de contabilidad. La fecha de realización del gasto a consignar en los documentos contables referidos a operaciones devengadas en ejercicios anteriores será el 31 de diciembre del ejercicio que corresponda. La expedición de un documento contable para cada ejercicio afectado no es obligatoria si su importe es poco significativo.
+
+– Por los intereses devengados en el ejercicio del reconocimiento de la obligación, la fecha de gasto será la fecha en la que se efectuó el pago de la sentencia.
+
+c) En las costas procesales se indicará como fecha de gasto la de la comunicación al órgano administrativo para su abono.
+
+d) Si se utilizase el procedimiento de pagos masivos previsto en la Resolución de 7 de julio de 2016, conjunta de la Intervención General de la Administración del Estado y de la Secretaría General del Tesoro y Política Financiera, por la que se regula el procedimiento para la realización de ciertos pagos a través de agentes mediadores, en cada libramiento de pagos masivos se podrán incorporar sentencias que hayan adquirido firmeza en fechas distintas, siempre que se refieran al mismo ejercicio, debiendo consignar como fecha de gasto la correspondiente a la última sentencia incluida en el libramiento. Adicionalmente, se aplicará un criterio similar para el caso de los intereses indicados en las letras a) y b) anteriores, no siendo obligatoria la expedición de los documentos contables adicionales para el caso de los intereses correspondientes a ejercicios anteriores.
+
+IV. Expropiaciones.
+
+Hay que distinguir entre el procedimiento ordinario y el procedimiento de urgencia:
+
+Procedimiento ordinario: Es cuando el activo se ocupa –previo pago– cuando se transfieren los riesgos y ventajas inherentes a la propiedad del activo. Por tanto, la fecha de gasto derivada del justiprecio es la fecha de ocupación.
+
+Procedimiento de urgencia: La fecha de gasto es la fecha de la ocupación del activo, debiendo valorarse por el importe del depósito realizado.
+
+Cuando se determine el justiprecio, o se acepte la hoja de aprecio de la Administración o del expropiado en su caso, la diferencia entre este importe y el del depósito, determinará el devengo de un gasto (mayor valor del activo expropiado).
+
+La fecha de gasto a incorporar en el documento contable que contenga la fase O de reconocimiento de la obligación de la diferencia entre el justiprecio y el depósito previo será también la fecha de ocupación.
+
+Intereses: Tanto en el procedimiento ordinario como en el de urgencia, si transcurren más de 6 meses desde el inicio del expediente expropiatorio sin resolución del justiprecio, el expropiado tendrá derecho a indemnización equivalente al interés legal del justo precio hasta que se haya determinado (art. 56 LEF). En este caso, la fecha de devengo del gasto será la fecha en que se determine el justiprecio por el valor del mismo.
+
+Además, la cantidad determinada devengará intereses hasta su pago (art. 57 LEF). En este caso, la fecha de devengo de estos intereses será el día en el que se produzca el pago efectivo.
+
+Cuando los intereses que se devenguen desde que se determine el justiprecio hasta su pago afecten a más de un ejercicio, los servicios gestores deberán expedir un documento contable para cada ejercicio afectado y remitir todos los documentos de forma conjunta a la oficina de contabilidad. La fecha de realización del gasto a consignar en los documentos contables referidos a operaciones devengadas en ejercicios anteriores será el 31 de diciembre del ejercicio que corresponda. La expedición de un documento contable para cada ejercicio afectado no es obligatoria si su importe es poco significativo.
+
+V. Otras transacciones.
+
+a) Contribuciones a Organismos Internacionales:
+
+1\. A título de aportación de capital: Fecha de la exigibilidad del desembolso.
+
+2\. A título de ayudas, y una vez que las aportaciones sean exigibles por el Organismo beneficiario:
+
+– Si la aportación se refiere a un ejercicio o periodo concreto, se consignará como fecha de gasto la de final de dicho ejercicio o periodo.
+
+– En caso distinto al anterior, se consignará como fecha de gasto la fecha en la que se acuerde dicha exigibilidad.
+
+b) Gastos de personal: Último día del mes o período al que correspondan.
+
+c) Gastos de carácter periódico y tracto sucesivo: Último día del mes o período al que correspondan.
+
+d) Impuestos: Fecha de devengo del impuesto.
+
+e) Activos financieros: Se distinguen los siguientes casos:
+
+1\. Préstamos: Fecha en la que la entidad concedente se convierta en parte obligada según las cláusulas del contrato o acuerdo, que generalmente coincidirá con la fecha en la que se realiza el desembolso del préstamo.
+
+Si la fecha en que se convierte en parte obligada es la del desembolso, se consignará dicha fecha a menos que no se pueda estimar razonablemente, en cuyo caso se consignará como fecha del gasto la de expedición del documento contable correspondiente al reconocimiento de la obligación.
+
+2\. Anticipos al personal: Día en que se dicte el acto administrativo de concesión del anticipo.
+
+3\. Otros activos financieros: Día de la entrega del activo si los riesgos y ventajas asociados al mismo hubieran sido traspasados a la entidad adquirente, o la fecha de dicho traspaso, si fuera posterior a la de entrega del activo.
+
+f) Deuda del Estado y otras deudas financieras:
+
+1\. Amortizaciones: Día del vencimiento.
+
+2\. Intereses: Fecha final del periodo de devengo al que correspondan los intereses.
+
+Cuando dichos intereses afecten a más de un ejercicio, el servicio gestor deberá expedir un documento contable para cada ejercicio afectado y remitir todos los documentos de forma conjunta a la oficina de contabilidad. La fecha de realización del gasto a consignar en los documentos contables referidos a operaciones devengadas en ejercicios anteriores será el 31 de diciembre del ejercicio que corresponda. La expedición de un documento contable para cada ejercicio afectado, no es obligatoria si su importe es poco significativo.
+
+3\. De emisión, modificación y cancelación de deudas:
+
+– Si están directamente relacionados con una determinada deuda: Fecha de emisión, modificación o cancelación de la correspondiente deuda.
+
+– Si no están directamente relacionados con una determinada deuda: Fecha de fin del periodo de liquidación al que se refieran los gastos.
+
+g) Expedientes de responsabilidad patrimonial: Se indicará la fecha del acto administrativo en el que se reconozca la obligación de la indemnización. Si el acto administrativo fuera desestimatorio y posteriormente se reconociera el derecho a la indemnización mediante sentencia jurisdiccional, se aplicará el criterio recogido en el apartado III anterior relativo a las sentencias.
+
+h) Anticipos de caja fija y Pagos a justificar: En estos casos, el campo “fecha de gasto” deberá figurar en blanco, salvo en el caso de pagos a justificar por expropiaciones, que será de aplicación lo previsto en el apartado IV anterior relativo a expropiaciones.
+
+35\. Fecha del reconocimiento de la obligación: Fecha en la que se ha dictado el correspondiente acto administrativo del reconocimiento de la obligación.
+
+36\. Total líquido: Importe resultante de la diferencia entre los importes indicados en las notas 19 y 33.
+
+37\. Código Proyecto de Gasto: Código identificativo del proyecto de gasto al que se refiera la operación a contabilizar.
+
+38\. N.º Expte. Gasto: Código identificativo del expediente de gasto al que se refiera la operación a contabilizar que haya sido asignado con anterioridad por el sistema.
+
+39\. N.º Contrato/Subexpediente: Código identificativo del contrato o subexpediente al que se refiera la operación a contabilizar que haya sido asignado con anterioridad por el sistema.
+
+40\. N.º Abono/Certificación: Se indicará el número secuencial de abono que corresponda al contrato o subexpediente al que se refiera la operación a contabilizar.
+
+41\. Tipo operación: Código relativo a operaciones específicas como: adicionales, reformados, revisiones de precios, reajuste de anualidades, liberaciones de crédito o rectificaciones.
+
+42\. Texto libre de la operación: Espacio para indicar, en su caso, las explicaciones necesarias referentes a la operación que se pretende registrar.
+
+43\. Importe a desglosar o distribuir: Importe que se pretende desglosar o, en su caso, distribuir entre los servicios periféricos.
+
+44\. ''Subconcepto o partida, subprograma o elemento de programa, código territorial u orgánico'': Se indicarán los subconceptos en los que se desglosa un concepto o, en su caso, las partidas en que se desglosa un subconcepto; los subprogramas en que se desglosa un programa o, en su caso, los elementos de programa en que se desglosa un subprograma, y los códigos territorial u orgánico en que se desglosa la sección. Cuando se refiera a delegación o desconcentración de competencias, se indicará el código territorial a que corresponda el servicio periférico.
+
+45\. Importe desglosado: Importe correspondiente a cada uno de los subconceptos, partidas o provincias a los que se refiere la nota 44 anterior.
+
+46\. Autorización: Fecha y firma del responsable competente para la autorización del documento, de acuerdo con los criterios establecidos en la presente Orden. Si el órgano competente utiliza el propio documento contable como soporte del acto administrativo por el que se ejecuta la correspondiente operación, en este espacio deberán constar todos los requisitos para que dicho acto tenga validez.
+
+47\. En este espacio se extenderá la diligencia de toma de razón que acredite el registro de la operación. Dicha diligencia podrá realizarse mediante certificación mecánica.
+
+48\. Se marcará con una X la operación de que se trate.
+
+49\. Fecha de justificación: Se indicará la fecha real en la que se hayan presentado la cuenta justificativa en la Unidad Central.
+
+50\. Prórroga: Se cumplimentará cuando se hayan autorizado prórrogas en los plazos legalmente establecidos expresándolo en número de meses.
+
+51\. Fecha del acuerdo: Se indicará la fecha del acuerdo que motiva la expedición del documento contable.
+
+52\. Importe del acuerdo: Se indicará en letra el importe del acuerdo a que se refiere el documento.
+
+53\. Importe capítulo II: Se anotará el importe de los créditos totales de dicho capítulo correspondientes a la Sección consignada en el documento y referidos a la fecha del acuerdo.
+
+54\. 7% Cap. II: Se consignará el resultado de aplicar dicho porcentaje sobre el importe de la nota anterior 53.
+
+55\. Importe de acuerdos anteriores: Sólo se cumplimentará en el caso de que el documento se expida como consecuencia de un incremento o una disminución en los créditos del capítulo segundo. Dicho importe coincidirá con el «Total acuerdos» 57 del último documento de adopción del sistema de anticipos de caja fija expedido por la Sección.
+
+56\. Importe del acuerdo: Mismo importe que el de la nota 52 pero en cifras.
+
+57\. Total acuerdos: Se recogerá la suma o diferencia de los importes anteriores 55 y 56 según que el acuerdo sea de incremento o disminución, respectivamente.
+
+58\. Cajero pagador/Ordinal: Se consignará el Código de identificación fiscal y la denominación de los cajeros pagadores a los que se les distribuyen los fondos del anticipo de caja fija y, opcionalmente, el ordinal del cajero pagador.
+
+59\. Importe: Importe en cifras que se distribuye a cada cajero pagador
+
+60\. N.º propuesta: Número de registro contable correspondiente a la propuesta de pago que se expidió para librar los fondos a justificar.
+
+61\. Se indicará la denominación de la subentidad contable u órgano gestor a cuyo ámbito corresponda la operación que se pretende registrar.
+
+62\. Tipo/Número: Se indicará el código del tipo de resumen y el número correlativo del resumen contable.
+
+63\. Año: Ejercicio al que corresponde la numeración del resumen contable.
+
+64\. Ejercicio económico: Año en el que se debe registrar la operación.
+
+65\. Código operación contable: Se indicará el código y denominación asignados en las tablas del sistema a la operación que se pretende registrar.
+
+66\. Descripción: Se indicará la denominación de cada concepto incluido en el documento.
+
+67\. Núm. orden: Numeración correlativa de las aplicaciones contables que contenga el documento.
+
+68\. Concepto: Se indicarán los códigos de los conceptos contables que correspondan según las tablas del sistema.
+
+69\. Número: Se indicará el número de operaciones de detalle que se agrupan por cada aplicación contable.
+
+70\. Importes: Se indicará el importe total de cada aplicación contable.
+
+71\. Cuenta PGCP: Se indicará la cuenta del Plan General de Contabilidad Pública que corresponda a cada aplicación contable, sólo en el caso de que éstas admitan más de una cuenta.
+
+Cuando se utilicen documentos «Anexo», en aquellos documentos a los que complementan no se rellenarán los datos correspondientes a las notas 66, 68, 70 y 71.
+
+72\. Importe (en letra): Se indicará en letra el importe total correspondiente a todas las aplicaciones contables incluidas en el documento o, en su caso, en el anexo o anexos.
+
+73\. Importe: Se indicará en cifras la misma cantidad a la que se refiere la nota 72 anterior.
+
+74\. Área contable: Denominación de la agrupación contable que corresponda al ingreso según las tablas del sistema.
+
+75\. Fecha: Se indicará la fecha de expedición del instrumento de cobro.
+
+76\. Importe a ingresar: Cantidad que debe ser ingresada por el sujeto pasivo.
+
+77\. CIF/DNI: Se indicará el código identificativo del sujeto pasivo.
+
+78\. Nombre: Se indicará el nombre y apellidos o denominación del sujeto pasivo.
+
+79\. Domicilio fiscal: Se indicará el domicilio del sujeto pasivo.
+
+80\. Provincia: Código o denominación de la provincia.
+
+81\. Municipio: Código o denominación del municipio.
+
+82\. CP: Se indicará el código postal.
+
+83\. Ingreso en caja: Espacio reservado para la diligencia o certificación de la caja en la que se efectúe el ingreso.
+
+84\. Fecha del arqueo: Se indicará el día, mes y año al que corresponda la hoja de arqueo.
+
+85\. N.º de cobros: Se indicará el número de ingresos producidos a que se refiera la columna de arqueo, rectificación o totales.
+
+86\. Importe: Se indicará el importe que corresponda a la columna de arqueo, rectificación o totales.
+
+87\. Firmas autorizadas: Espacio reservado para la autorización de la hoja de arqueo.
+
+88\. Espacio reservado para certificación mecánica: Se indicará como mínimo la fecha, número de operación e importe.
+
+89\. Fecha de ingreso: Se indicará la fecha en la que se va a efectuar el ingreso en el Banco de España
+
+90\. M/I n.º: Se indicará el número que se le asigna al mandamiento de ingreso.
+
+91\. Referencia del expe.: Indicación del expediente al que se refiere el depósito de valores.
+
+92\. Num. de mandamiento: Se indicará el número asignado al documento de constitución o cancelación de depósitos.
+
+93\. Depositantes: Identificación del interesado al que corresponde el depósito.
+
+94\. Código de operación: Clave asignada a cada tipo de garantía depositada.
+
+95\. Descripción: Denominación relativa a cada código de operación.
+
+96\. Ptas. nominales: Importe correspondiente a cada código de operación.
+
+97\. Perceptor: Identificación del interesado al que se le devuelve la garantía.
+
+98\. N.º ref.: Se indicará el número de referencia de la operación a registrar.
+
+99\. N.º doc.: Se indicará el número de documentos de asientos directos que, en su caso, se adjuntan para contabilizar una operación.
+
+100\. Operación: Descripción de la operación a registrar.
+
+101\. Código operación: Se indicará el código que corresponda a la operación cuando la misma esté tipificada
+
+102\. Cta. PGCP: Se indicarán las cuentas del Plan General de Contabilidad Pública que tienen movimiento.
+
+103\. D/H: Se indicará el movimiento de cada cuenta: al Debe (D) o al Haber (H).
+
+104\. Signo: Se indicará si es positivo o negativo el movimiento de la cuenta
+
+105\. Importe: Se indicará el importe por el que se mueve cada cuenta.
+
+106\. Descripción cuenta: Denominación de cada una de las cuentas.
+
+107\. Referencia que identifica al documento.
+
+108\. Clave que identifica el tipo de operación en el subsistema de deuda y mediante la cual se produce la actualización de los registros de dicho subsistema.
+
+109\. Agrupación correspondiente de las contempladas en los Estados a rendir: obligaciones y bonos, obligaciones y bonos asumidos, deudas con entidades de crédito, deudas con entidades de crédito asumidas, etc.
+
+110\. Especifica qué tipo de operación se realiza dentro de la operación genérica a que se refiere el documento. Así dentro de la creación de deuda se distinguen: Emisión por liquidación, conversión, asunciones. En la amortización se distingue amortización por reembolso, por conversión o por otras causas.
+
+111\. Denominación que el emisor da a la deuda.
+
+112\. Clave numérica que identifica a la deuda.
+
+113\. Fecha en que se produce el ingreso de la emisión, la entrada en vigor de la norma de asunción, o la aprobación del expediente de conversión.
+
+114\. Valor nominal de la emisión.
+
+115\. Importe que se recibe del prestamista por la deuda emitida.
+
+116\. Importe que el Estado se compromete a satisfacer al prestamista en la fecha de amortización de los capitales.
+
+117\. Aquellos que se determinan por la diferencia entre el valor de reembolso y el valor de emisión o efectivo de la deuda, cuando el primero es mayor que el segundo.
+
+118\. Aquellas que se determinan por la diferencia entre el valor de emisión o efectivo de la deuda y el valor de reembolso, cuando el primero es mayor que el segundo.
+
+119\. Fecha o fechas en las que el Estado se compromete a reembolsar los capitales.
+
+120\. Tipo que se aplica sobre el valor nominal de la deuda para determinar el pago de los intereses explícitos.
+
+121\. Fecha en la que el Estado se compromete a pagar la primera liquidación de intereses explícitos.
+
+122\. Número de liquidaciones de intereses explícitos que los títulos devengan en un año.
+
+123\. Tipo de interés efectivo de la deuda o tasa interna de rendimiento de la misma.
+
+124\. Importe en moneda extranjera.
+
+125\. Relación entre pesetas-moneda extranjera que se utiliza en la operación.
+
+126\. Importe de las pesetas que resultan de aplicar a las divisas el tipo de cambio.
+
+127\. Gastos producidos en la emisión de la deuda que se descuentan del ingreso de la emisión.
+
+128\. Si es amortización al vencimiento, amortización anticipada, amortización por sorteo, etc.
+
+129\. Número del sorteo correspondiente a esta amortización.
+
+130\. Fecha en la que se produce el devengo de la operación.
+
+131\. Importe por el que está contabilizada la deuda en la fecha de expedición del documento.
+
+132\. Importe que por todos los conceptos el Estado paga al prestamista.
+
+133\. Importe que se recibe del prestamista por la deuda emitida.
+
+134\. Importe correspondiente a los intereses devengados desde el último cupón vencido que se incluyen en el valor de reembolso total.
+
+135\. Aquella parte de la diferencia entre el valor de reembolso y el valor de emisión que queda pendiente de imputar a resultados después de haber imputado la parte devengada hasta la fecha de vencimiento.
+
+136\. Aquella parte de la diferencia entre el valor de emisión y el valor de reembolso que queda pendiente de imputar a resultados después de haber imputado la parte devengada hasta la fecha de vencimiento.
+
+137\. Para las deudas emitidas al descuento, el importe de los rendimientos implícitos periodificados que queda pendiente de imputar a resultados después de haber imputado la parte de los mismos devengada desde fin de ejercicio anterior hasta la fecha de vencimiento.
+
+138\. El resultado que puede surgir en la amortización anticipada.
+
+139\. Número secuencial de la liquidación de intereses explícitos.
+
+140\. Tasa nominal de interés de la deuda.
+
+141\. Fecha de pago del anterior cupón.
+
+142\. Importe a pagar al prestamista por la liquidación de intereses.
+
+143\. Parte de la liquidación de intereses que se ha devengado en el ejercicio corriente.
+
+144\. Parte de la liquidación de intereses que se ha devengado en el ejercicio anterior o anteriores.
+
+145\. Nombre de la moneda en que está formalizada la deuda.
+
+146\. Fecha de vencimiento de la liquidación.
+
+147\. Número de días que comprende el período de liquidación.
+
+148\. Capital pendiente de amortización valorado por el nominal.
+
+149\. Parte de la liquidación de intereses devengada en ejercicios anteriores antes de su regularización.
+
+150\. Parte de la liquidación de intereses devengada en ejercicios anteriores valorada al tipo de cambio de la fecha en que se reconoce la obligación.
+
+151\. Diferencia en los intereses devengados en ejercicios anteriores debida a la variación en el tipo de cambio producida entre fin de ejercicio anterior y la fecha en que se reconoce la obligación.
+
+152\. Importe de la liquidación de intereses valorada al tipo de cambio de la fecha en que se reconoce la obligación.
+
+153\. Diferencia entre el importe total de la liquidación valorada al tipo de cambio de la fecha de reconocimiento de la obligación y el importe total de la liquidación valorada al tipo de cambio de la fecha del pago.
+
+154\. Fecha en que se ha realizado la conversión.
+
+155\. Importe del valor de reembolso total de los títulos presentados a conversión.
+
+156\. Importe del valor de emisión de los títulos presentados a conversión.
+
+157\. Diferencia entre el importe emitido para conversión y el importe amortizado por conversión.
+
+158\. Diferencia entre el importe amortizado por conversión y el importe emitido para conversión.
+
+159\. Importe que se prescribe.
+
+160\. Importe que se rehabilita.
+
+161\. Fecha en que se ha realizado la emisión y amortización simultánea.
+
+162\. Fecha de amotización prevista para la deuda que se emite.
+
+163\. Diferencia entre el valor nominal y el efectivo de la deuda que se emite.
+
+164\. Diferencia entre el valor nominal y el efectivo de la deuda que se amortiza.
+
+165\. Parte de los rendimientos implícitos devengada en el ejercicio.
+
+166\. Importe del nominal de la deuda valorado al tipo de cambio de la fecha del reembolso.
+
+167\. Diferencias de cambio producidas desde la fecha de la regularización anterior hasta la fecha del reembolso.
+
+168\. Importe líquido que se ingresa en el Banco de España.
+
+169\. Importe total de los valores de emisión de las deudas emitidas en el ejercicio.
+
+170\. Importe total de los valores de emisión de las deudas amortizadas en el ejercicio.
+
+171\. Diferencia entre el importe total de los valores de emisión de las deudas amortizadas en el ejercicio y el importe total de las deudas emitidas en el ejercicio, cuando el primero es mayor que el segundo.
+
+172\. Diferencia entre el importe total de los valores de emisión de las deudas emitidas en el ejercicio y el importe total de los valores de emisión de las deudas amortizadas en el ejercicio, cuando el primero es mayor que el segundo.
+
+173\. Fecha de la operación de regularización.
+
+174\. Importe de las divisas a reembolsar valoradas al tipo de cambio de la fecha de reconocimiento de la obligación.
+
+175\. Diferencias que a veces se pagan o se cobran por ejercer el derecho de amortizar anticipadamente la deuda.
+
+176\. Importe total a pagar al prestamista valorado al tipo de cambio de la fecha de reconocimiento de la obligación.
+
+177\. Las producidas entre la fecha del pago y la fecha del reconocimiento de la obligación y, por tanto, entre el valor de reembolso total y el valor de reembolso efectivo.
+
+178\. Importe por el que figura contablizada la deuda antes de la regularización.
+
+179\. Tipo de cambio vigente en la fecha de regularización para la moneda en que está formalizada la deuda.
+
+180\. Diferencia entre el valor de reembolso a la fecha de regularización y el valor de reembolso contabilizado antes de la regularización, cuando el segundo es mayor que el primero.
+
+181\. Diferencia entre el valor de reembolso a la fecha de regularización y el valor de reembolso contabilizado antes de la regularización, cuando el primero es mayor que el segundo.
+
+182\. Importe que resulta de aplicar al importe en divisas contabilizado el tipo de cambio de la fecha de regularización.
+
+183\. Fecha de vencimiento de la próxima liquidación de intereses explícitos.
+
+184\. Importe de la próxima liquidación de intereses valorada al tipo de cambio de la fecha de la regularización.
+
+185\. Parte de la próxima liquidación de intereses que se ha devengado en el ejercicio corriente, valorada al tipo de cambio de la fecha de regularización.
+
+186\. Fecha de amortización prevista de la deuda.
+
+187\. Valor de reembolso de la deuda que se reclasifica de largo a corto plazo.
+
+188\. Importe de los gastos financieros diferidos que se han devengado en el ejercicio corriente.
+
+190\. Importe de los ingresos financieros diferidos que se han devengado en el ejercicio corriente.
+
+191\. Fecha en la que se realiza la periodificación o la imputación a resultados de los rendimientos implícitos.
+
+192\. Parte de los rendimientos implícitos totales que se deben imputar a resultados del ejercicio corriente.
+
+193\. Parte de los rendimientos implícitos totales que se deben imputar a resultados del ejercicio siguiente.
+
+194\. Parte de los rendimientos implícitos totales que se imputaron a resultados del ejercicio anterior.
+
+195\. Parte de los rendimientos implícitos totales periodificados a fin del ejercicio anterior que se imputan a resultados del ejercicio corriente.
+
+196\. Importe de los títulos convertidos valorados al precio de conversión.
+
+197\. IB: Se indicará el número de operación de inventario procedente del Subsistema CIBI a que corresponda la inversión.
+
+También se indicará el IB en el caso de alquileres de inmuebles, salvo cuando se tramiten por pagos a justificar, anticipos de caja fija o pagos en el exterior.
+
+198\. Tipo de desglose: Se indicará el tipo de desglose que se efectúe: Orgánico, funcional o económico.
+
+199\. Tipo de reasignación: Se marcará la casilla correspondiente, según que la reasignación afecte a la clasificación orgánica, funcional o económica.
+
+200\. Número de aplicaciones a reasignar: Se indicará el número de aplicaciones origen de la reasignación.
+
+201\. Número de aplicaciones reasignadas: Se indicará el número de aplicaciones destino de la reasignación.
+
+202\. Número de anexos: En caso de que el número de aplicaciones exceda del previsto en el documento, se indicará en este campo el número de anexos que se adjuntan al documento.
+
+203\. Importe total a reasignar: Importe que suman las aplicaciones a reasignar, que debe ser igual al que sumen las aplicaciones reasignadas.
+
+204\. Importe a reasignar: Para cada aplicación se consignará el importe a reasignar.
+
+205\. Importe reasignado: Para cada aplicación se consignará el importe reasignado.
+
+206\. Número del anexo: En el documento anexo se indicará en este campo el número de orden de cada anexo utilizado para un mismo documento.
+
+207\. Importe total: Importe gastado más importe reintegrado.
+
+208\. Fecha de aprobación: Se indicará la fecha en que se haya aprobado la cuenta justificativa del pago a justificar.
+
+209\. Fecha cesión del cobro: En este campo figurará la fecha de entrada de la comunicación de la cesión del derecho de cobro en el órgano competente para proponer el pago, siempre que en el correspondiente documento contable figure cumplimentado el campo «Cesionario».
+
+210\. Número de perceptores: Se consignará en este campo el número de perceptores finales, siempre que en el correspondiente documento contable figure el tipo de pago 02 "Habilitado personal (Decreto 680/74)", el 07 "Cajero clases pasivas", el 45 "Pago masivo", o alguno de los siguientes tipos de pago relativos a los pagos al exterior: 30, 31, 32, 33, 34 ó 35.
+
+211\. Normativa/Finalidad de las subvenciones/transferencias: Se cumplimentarán los campos de este apartado cuando el correspondiente documento contable incorpore la fase D.
+
+A tal efecto, el Servicio gestor podrá solicitar a la Oficina de contabilidad los códigos asignados a cada normativa y finalidad en las tablas del SIC.
+
+En el campo «Normativa» se consignará el código asignado en el Sistema de información contable a la norma que autoriza la concesión de la subvención o transferencia, que tendrá como máximo seis dígitos, así como la denominación de dicha norma.
+
+En el campo «Finalidad» se consignará el código asignado en el Sistema de información contable a la finalidad para la que se conceden, que tendrá como máximo seis dígitos, así como la descripción de la misma. En el caso de transferencias el código a cumplimentar será TRANSF.
+
+En el campo «Tipo de operación» se consignará, en su caso, el código del tipo de operación que corresponda.
+
+212\. Contratación no proyectos: Los campos de este apartado podrán cumplimentarse cuando el correspondiente documento contable incorpore la fase D y el seguimiento del gasto no se realice a través del subsistema de proyectos de gasto.
+
+En el campo «Sistema de adjudicación» se consignará el código de la tabla Sistemas de adjudicación, y la denominación, que correspondan al sistema de adjudicación del contrato.
+
+En el campo «Tipo de expediente» se consignará el código de la tabla de tipos de expedientes, y la denominación, correspondientes al expediente de contratación de que se trate.
+
+En el campo «Contrato menor S/N» se indicará si se trata de un contrato menor o no, conforme a lo establecido en la Ley de Contratos del Sector Público.
+
+En el campo «Regulación armonizada S/N» se indicará si se trata de un contrato sujeto o no a regulación armonizada, según la Ley de Contratos del Sector Público.
+
+En el campo «Tipo de operación» se consignará el código y la denominación relativos al tipo de operación que corresponda.
+
+213\. Pagos a Juzgados: Cuando en el correspondiente documento contable que incorpore la fase OK, u otro tipo de propuesta de pago, figure como interesado o cesionario el tercero "Juzgados y Audiencias MJU", deberá cumplimentarse el campo de este apartado «N.º expediente judicial».
+
+214\. Pagos masivos y al exterior: Cuando en un documento contable que incorpore la fase OK figure el tipo de pago 45 "Pago masivo" se deberá cumplimentar el campo de este apartado "Número de referencia del fichero adjunto", que tendrá la siguiente estructura GGGGG DDMMAAAA NNNNN, en el que:
+
+Los dígitos GGGGG identificarán el Centro Gestor del pago masivo, o del pago al exterior, según el código asignado al mismo por la Dirección General del Tesoro y Política Financiera,
+
+Los dígitos DDMMAAAA se referirán a la fecha de generación del fichero, dos para el día, dos para el mes y cuatro para el año, respectivamente, y
+
+Los dígitos NNNNN incluirán un número secuencial de los pagos masivos, o de los pagos al exterior, para el Centro Gestor. Dicho número secuencial se iniciará todos los años en 1 y será correlativo.
+
+También se cumplimentará este campo cuando en un documento contable que incorpore la fase OK figure alguno de los siguientes tipos de pago relativos a los pagos al exterior: 30, 31, 32, 33, 34 ó 35, excepto cuando el pago al exterior tenga un único perceptor final y la relación de perceptores no se tramite en soporte fichero, a partir del momento en que la Intervención General de la Administración del Estado y la Dirección General del Tesoro y Política Financiera establezcan, conjuntamente, el procedimiento de remisión de la relación de perceptores en soporte fichero.
+
+215\. Compensación de ingresos del exterior (RD 938/2005): Cuando se expidan documentos que incorporen la fase OK a favor de servicios en el exterior, en los que figuren como descuento cantidades reservadas por saldos pendientes de compensar, se cumplimentarán los campos de este apartado «Código de reserva», «Servicio exterior», «Tipo de cambio» e «Importe de reserva».
+
+El campo «Importe de reserva» se expresará en la divisa de situación.
+
+216\. Justificantes de ingreso asociados a descuentos: Cuando en el correspondiente documento contable figure algún descuento relativo a liquidaciones que hayan sido practicadas por entidades distintas de la Administración General del Estado, se cumplimentarán los campos de este apartado correspondientes a dichos descuentos, indicando en el campo «N.º Justificante» el número que la entidad haya asignado a la liquidación, que deberá tener doce dígitos numéricos en las primeras posiciones y una letra en la última. Únicamente se podrá cumplimentar este campo cuando el descuento asociado sea un concepto no presupuestario previamente habilitado en el sistema para admitir este campo.
+
+Si hubiera más de tres justificantes de ingreso asociados a descuentos se consignarán en otro documento «Anexo información adicional».
+
+217\. Pagos a justificar: Se indicará en este apartado la normativa que autoriza la expedición del correspondiente documento contable con fase OK a favor de un habilitado de pagos a justificar que tenga cuentas fuera del plazo de presentación, o «a favor de servicios del exterior» que no hayan rendido la cuenta de gestión o efectuado la transferencia de los fondos en el exterior a que se refieren los artículos 3.2 y 7.1, respectivamente, del Real Decreto 938/2005, de 29 de julio.
+
+218\. Orgánica: En las aplicaciones de presupuesto de ingresos figurará en las dos primeras posiciones el código de la sección y en las cuatro siguientes los códigos orgánicos adicionales.
+
+En las aplicaciones no presupuestarias, las dos primeras posiciones no se cumplimentarán y en las cuatro restantes figurarán los códigos orgánicos correspondientes.
+
+219\. Compensación de deudas: Se marcará la casilla de este apartado cuando el interesado haya solicitado la compensación de la deuda en los términos previstos en el apartado Decimosegundo de la Orden PRE/1576/2002, de 19 de junio, por la que se regula el procedimiento para el pago de obligaciones de la Administración General del Estado.
+
+220\. Código GFA: Se indicará el código asignado en el SIC al gasto con financiación afectada de que se trate.
+
+Cuando se expida el documento «Gestión de gastos con financiación afectada» con el tipo de operación «alta» no se cumplimentará este campo, ya que será asignado por SIC.
+
+En el caso de ingresos relativos a gastos con financiación afectada que se hayan aplicado como descuentos en pagos, se deberá expedir, una vez aplicados, el documento «Resumen contable de rectificación» a los efectos de capturar el «Código GFA» que corresponda a dichos ingresos.
+
+221\. Operación de enlace con el ingreso: Los campos de este apartado se cumplimentarán cuando se expidan propuestas de pago por devolución de ingresos y propuestas de pago no presupuestarias.
+
+No obstante, en el caso de propuestas de pago no presupuestarias únicamente se cumplimentará para los conceptos que determine la Intervención General de la Administración del Estado, mediante su publicación en el portal de Internet de la IGAE.
+
+A los efectos de la tramitación del documento contable en el que deba figurar cumplimentado este apartado, el Servicio gestor solicitará a la oficina de contabilidad de la Dirección General del Tesoro y Política Financiera, a la oficina de contabilidad de la Delegación de Economía y Hacienda, o a la oficina de contabilidad del respectivo Departamento Ministerial, según el servicio gestor de que se trate, el certificado de ingreso y no devolución relativo al ingreso que se devuelve.
+
+No obstante, en el caso de ingresos que no se hayan registrado individualizadamente en el SIC, el certificado a expedir por la oficina de contabilidad se referirá a la existencia de saldo pendiente de devolución en la operación mediante la que se aplicó el correspondiente ingreso.
+
+222\. N.º operación del ingreso: Se consignará el número de operación que el sistema asignó al ingreso que se devuelve.
+
+223\. Importe: Se consignará el importe que se devuelve de cada ingreso recibido.
+
+224\. Se marcará la opción que corresponda, según se trate de alta, baja, modificación o cancelación de los datos generales del gasto con financiación afectada.
+
+225\. Año de inicio: Se indicará el año de inicio de la ejecución del gasto con financiación afectada.
+
+226\. Año de finalización: Se indicará el año que está previsto finalice la ejecución del gasto con financiación afectada.
+
+227\. Gasto previsto: Se indicará el gasto total previsto a lo largo de la vida del gasto con financiación afectada para cada aplicación presupuestaria a través de la que se vaya a ejecutar dicho gasto.
+
+228\. Código identificativo: Se indicará el código identificativo del agente financiador del gasto, que será el NIF para aquellos agentes financiadores que lo tengan.
+
+Para los que no tengan NIF, este campo figurará sin cumplimentar en el documento de alta, ya que el SIC les asignará un código secuencial. A tal efecto, el Servicio gestor deberá consignar en el texto libre de dicho documento que se trata de un agente financiador sin NIF.
+
+Previamente a la asignación por el SIC del código secuencial al que se refiere el párrafo anterior, la oficina de contabilidad deberá comprobar si al agente financiador ya se le ha asignado un código secuencial en otra operación anterior, en cuyo caso se deberá registrar el documento con este último código.
+
+229\. Denominación: Se indicará la denominación del agente financiador.
+
+230\. Ingreso previsto: Se indicará el ingreso total previsto a lo largo de la vida del gasto con financiación afectada para cada agente financiador-concepto.
+
+231\. Disposición que regula el gasto: Se indicará la disposición que regula el gasto con financiación afectada de que se trate.
+
+232\. N.º asociado a la contratación: En este campo se podrá consignar el número asociado a la contratación que haya sido asignado por el Centro Gestor.
+
+233\. Fecha inicio plazo abono del precio: Se consignará la fecha en la que se inicia el cómputo de los plazos para el abono del precio.
+
+Deberá cumplimentarse este campo en los documentos contables expedidos a favor de los acreedores directos que incorporen la fase OK aplicados a los capítulos 2 y 6 del Presupuesto de gastos.
+
+234\. Tercero: Se consignará el NIF y la denominación del tercero que realiza el ingreso.
+
+235\. Hoja de control de cobros: Se indicarán los datos identificativos de la hoja de control de cobros a que corresponde el ingreso que se aplica: fecha, canal, ordinal y línea de arqueo.
+
+236\. Tipo de mandamiento de ingreso: Se indicará el código relativo al mandamiento de ingreso de que se trate.
+
+237\. Código de préstamo: El código de préstamo estará constituido por dos elementos:
+
+En primer término, la clave del préstamo a efectos del sistema de gestión y control de préstamos (PRESYA2), con seis caracteres, y, en segundo lugar, la referencia del préstamo a efectos del centro gestor, de longitud variable con un máximo de 30 caracteres.
+
+Se cumplimentará este código en los documentos contables que incorporen las fases "Dˮ u "Oˮ aplicados a los conceptos del capítulo 8 del Presupuesto de gastos, relativos a préstamos cuyo seguimiento se realice a través del sistema de seguimiento de préstamos. Dentro del código será obligatorio consignar al menos la clave del préstamo.
+
+238\. Código del RCF: Se cumplimentará el código asignado en el Registro contable de facturas a cada factura incluida en el documento contable.
+
+Si el documento contable incluye una o dos facturas, los códigos del RCF se consignarán en el “Anexo información adicional”.
+
+Si el documento contable incluye más de dos facturas, los códigos del RCF se consignarán en el “Anexo adicional de facturas”, debiendo utilizarse tantos documentos contables “Anexo adicional de facturas” como sean necesarios.
+
+239\. Reintegros de pagos a justificar: En los campos de este apartado se consignará la fecha del reintegro, el número de justificante del ingreso y el importe total reintegrado.
+
+No obstante, si para un determinado libramiento a justificar se hubiera producido más de un reintegro, únicamente se cumplimentará el campo "Importe total reintegrado" y en el documento "Anexo control de pagos a justificarˮ se consignarán los datos de cada reintegro.
+
+240\. Contenido: en el documento «Anexo imputación al presupuesto de operaciones devengadas» que deberá acompañar a los documentos OK y ADOK cuando la fecha de realización del gasto incorporada a los mismos corresponda a un ejercicio anterior al ejercicio corriente, se consignará una X en la casilla SI, si el documento tuviera contenido o una X en la casilla NO, si el documento no lo tuviera, ya que en cualquier caso debe expedirse el documento. Se considera que el documento tiene contenido siempre que el OK o ADOK al que se adjunta, incluya operaciones devengadas en ejercicios anteriores que fueron contabilizadas utilizando el documento contable «Operaciones devengadas».
+
+241\. Cuenta PGCP utilizada: se consignará la cuenta del PGCP a la que se imputó la obligación cuando se registró el devengo de la operación, mediante el documento contable «Operaciones devengadas».
+
+242\. Número de depósito: Recogerá el número de registro de la Caja General de Depósitos que identifica al depósito sobre el que se está efectuando la operación.
+
+243\. Número operación de depósito: Recogerá el número asignado en el Subsistema de la Caja General de Depósitos a la operación.
+
+244 Ejercicio de gasto: Se consignará el año de realización del gasto de acuerdo con los criterios de la nota aclaratoria (34).
+
+245 Número de certificado de inventario Sorolla (NCIS): Se indicará el número asignado por el módulo de gestión de inventario de la aplicación Sorolla (en adelante, inventario Sorolla) al certificado que se genere en el inventario Sorolla como garantía de la inclusión en el mismo de los activos incluidos en el documento contable.
+
+Dicho certificado distinguirá en relación con las inversiones incluidas en el documento contable en el que se incorpore, los importes relativos a las tres categorías siguientes:
+
+– Los activos inventariados en el inventario Sorolla, que se encuentren por encima del umbral de activación en contabilidad de acuerdo a los criterios establecidos por la IGAE.
+
+− Los activos inventariados en el inventario Sorolla que se encuentren por debajo del umbral de activación, de acuerdo a los criterios establecidos por la IGAE y que, por tanto, se deberán registrar como gasto.
+
+– Los importes incluidos en el documento contable que, al no tener la naturaleza de activo, no han sido incorporados al inventario Sorolla.
+
+La cumplimentación del NCIS será obligatoria en los documentos contables que contengan la fase “O” de reconocimiento de la obligación, relativos al capítulo VI, “Inversiones reales” del presupuesto de gastos, siempre que no incorporen como clave de tipo de pago la de pagos a justificar ni se refieran a elementos patrimoniales que se integren en el inventario CIBI.
+
+Asimismo, será obligatoria la cumplimentación del NCIS en los documentos contables de “Control de pagos a justificar” que se refieran a la fase de “presentación” de la cuenta justificativa cuando la cuenta justificativa presentada incluya operaciones del capítulo VI, “inversiones reales” del presupuesto de gastos, que no deban incluirse en el sistema de inventario CIBI.
+
+246\. Número de Registro de cesiones de créditos: Número a incluir en el correspondiente documento contable por el Servicio gestor para indicar que la operación correspondiente a dicho documento contable ha sido objeto de cesión, correspondiendo dicho número al asignado por el Registro de cesiones de créditos.
+
+247\. DIR3 Unidad tramitadora: Se indicará el código alfanumérico del directorio de unidades orgánicas y oficinas de registro de las Administraciones Públicas que corresponda a la unidad tramitadora del gasto.
+
+248\. DIR3 Órgano gestor: Se indicará el código alfanumérico del directorio de unidades orgánicas y oficinas de registro de las Administraciones Públicas que corresponda al órgano gestor del gasto.
+
+249\. Indicador de embargabilidad: Se incorporará por el órgano proponente del pago una “X” en la casilla que corresponda, en función de que el derecho de cobro frente a la Administración del tercero al que se le propone el pago, sea embargable totalmente, embargable parcialmente de acuerdo con el artículo 607 de la Ley 1/2000 de Enjuiciamiento Civil o no sea embargable, por parte de la Dirección General del Tesoro y Política Financiera, de conformidad con lo previsto en el artículo 76 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria. Cuando se trate de documentos contables referidos a pagos a través de cajeros pagadores o habilitados distintos a los pagos masivos, se cumplimentará este campo como no embargable.
+
+250\. Normativa en la que se ampara la inembargabilidad: Se indicará en este apartado en el caso de no embargabilidad del derecho de cobro frente a la Administración, la normativa que la ampara, excepto para el caso de los pagos a través de cajeros pagadores o habilitados distintos a los pagos masivos, en los que no se deberá cumplimentar este campo.
+
+251\. Número de operación a ajustar: Se incorporará el número de operación contabilizada que el SIC3 adjudicó a la operación cuya cuenta del Plan General de Contabilidad Pública se ajusta con el asiento contable previsto en el documento contable “soporte de asientos directos”.
+
+252\. Identificación del Fondo o Mecanismo europeo: Se incluirá el código identificativo del correspondiente Fondo. Por ejemplo, Mecanismo de Recuperación y Resiliencia (MRR) o Fondo REACT-EU. La Intervención General de la Administración del Estado proporcionará, de acuerdo con la Secretaría General de Fondos Europeos, el catálogo de códigos a utilizar para este dato, que será publicado en el sitio web de la IGAE (https://www.igae.pap.hacienda.gob.es).
+
+253\. Referencia 1. Referencia de primer nivel dentro del Fondo o Mecanismo europeo (Código de Componente en el MRR). Se incluirá el código de identificación del Componente en el caso del MRR o el código de la referencia de primer nivel que se defina al efecto, en otro caso.
+
+Esta Referencia está preparada para su utilización para cualquier Fondo o Mecanismo europeo, aunque su aplicación actual queda circunscrita al Mecanismo de Recuperación y Resiliencia.
+
+254\. Referencia 2. Referencia de segundo nivel dentro del Fondo o Mecanismo europeo (Código de Reforma/Inversión en el MRR). Se incluirá el código de identificación de la Reforma o Inversión dentro del Componente en el caso del MRR o el código de la referencia de segundo nivel que se defina al efecto, de ser así, en otro caso.
+
+Esta Referencia está preparada para su utilización para cualquier Fondo o Mecanismo europeo, aunque su aplicación actual queda circunscrita al Mecanismo de Recuperación y Resiliencia.
+
+255\. Referencia 3. Referencia de tercer nivel dentro del Fondo o Mecanismo europeo (Código de Proyecto/Subproyecto en el MRR). Se incluirá el código de identificación del Proyecto/Subproyecto en el caso del MRR o el código de la referencia de tercer nivel que se defina al efecto, en otro caso.
+
+Esta Referencia está preparada para su utilización para cualquier Fondo o Mecanismo europeo, aunque su aplicación actual queda circunscrita al Mecanismo de Recuperación y Resiliencia.
+
+256\. Referencia 4. Referencia de cuarto nivel dentro del Fondo o Mecanismo europeo (Código de Actuación en el MRR). Se incluirá el código de identificación de la Actuación en el caso del MRR o el código de la referencia de cuarto nivel que se defina al efecto, de ser así, en otro caso.
+
+Esta Referencia está preparada para su utilización para cualquier Fondo o Mecanismo europeo, aunque su aplicación actual queda circunscrita al Mecanismo de Recuperación y Resiliencia.
+
+257\. Identificación del contrato en la Plataforma de Contratación del Sector Público (PCSP): Se incluirá el código correspondiente en dicha Plataforma que está constituido por la combinación del Código de órgano de contratación, el Código de licitación y el Código de contrato, siendo estos dos últimos códigos los aportados por el propio órgano de contratación en la Plataforma. Estos datos son alternativos al código de identificación de la convocatoria en la Base de Datos Nacional de Subvenciones (BDNS), no debiendo constar ambos datos simultáneamente.
+
+258\. Identificación de la convocatoria en la Base de Datos Nacional de Subvenciones (BDNS): Se incluirá el código correspondiente en dicha Base de Datos. Este dato es alternativo al código de identificación del contrato en la Plataforma de Contratación del Sector Público (PCSP), no debiendo constar ambos datos simultáneamente.
+
+La Intervención General de la Administración del Estado dictará instrucciones respecto a la utilización y cumplimentación del anexo de seguimiento de Fondos de la Unión Europea y, en particular, respecto a la Referencia 4.
+
+259\. Importe Total sin IVA: Cuando se trate de documentos contables OK y ADOK, se indicará el importe total a que se refiere la nota aclaratoria (19), sin incluir el IVA o, en su caso, el impuesto indirecto equivalente, excepto en el caso de libramientos a justificar en los que no se cumplimentará este dato.
+
+260\. Acopios: Se consignará el número o números asignados en la aplicación SIC3 a la operación de reconocimiento de la obligación del acopio o acopios que se descuentan, así como el importe que se descuenta de cada uno de los acopios consignados.
+
+(*) Unidad de cuenta: Se indicará la unidad de cuenta en la que ha sido tramitado el expediente de gasto: Pesetas (P) o euros (E).
+
+> Se modifican las letras b), c) y g) de la nota aclaratoria 2, el apartado II de la 34 y, con efectos de 1 de enero de 2025, se añade la nota aclaratoria 260 por el art. 1.Dos de la Orden HAC/965/2024, de 9 de septiembre. [Ref. BOE-A-2024-18530](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18530)
+
+> Se modifican, con efectos de 1 de febrero de 2022, las notas aclaratorias 253 a 256 y se añade la 259 por el art. 1.Uno de la Orden HFP/1481/2021, de 28 de diciembre. [Ref. BOE-A-2021-21791](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21791)
+
+> Se modifica la nota aclaratoria 34 y se añaden las notas aclaratorias 247 a 258 por el art. 1.Dos de la Orden HAC/360/2021, de 14 de abril. [Ref. BOE-A-2021-6124](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6124)
+
+> Téngase en cuenta que la utilización obligatoria del indicador de embargabilidad en los documentos contables que contengan una propuesta de pago entrará en vigor el 14 de julio de 2021, y la incorporación de datos específicos de seguimiento de los proyectos financiados con Fondos de la Unión Europea entrará en vigor el 17 de julio de 2021, según establece la disposición final única de la citada Orden.
+
+> Se modifican las notas aclaratorias 23, 238 y se añade la nota aclaratoria 246 por el art. 1.3 de la Orden HAC/787/2018, de 25 de julio. [Ref. BOE-A-2018-10649](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10649)
+
+> Se añade la nota aclaratoria 245 por el art. 1.2 de la Orden HFP/1105/2017, de 16 de noviembre. [Ref. BOE-A-2017-13278](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13278)
+
+> Se modifica por el art. 1.4 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 69, de 22 de marzo de 2017. [Ref. BOE-A-2017-3066](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-3066)
+
+> Véase la disposición transitoria única de la citada Orden en relación con la nota aclaratoria 24.
+
+> Se modifican las notas aclaratorias 28, 34, 233, y se añaden las notas aclaratorias 237, 238 y 239 por el art. 1.3 de la Orden HAP/336/2014, de 4 de marzo. [Ref. BOE-A-2014-2486](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2486).
+
+> Se modifican las letras b) y g) de la nota aclaratoria 2 por el art. 2.2 de la Orden HAP/1357/2013, de 11 de julio. [Ref. BOE-A-2013-7814](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7814).
+
+> Se modifica por el art. 2 de la Orden HAP/883/2013, de 13 de mayo. [Ref. BOE-A-2013-5392](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5392).
+
+> Se modifica por el art. 1.5 de la Orden EHA/3068/2011, de 8 de noviembre. [Ref. BOE-A-2011-17889](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17889).
+
+> Se modifica por el art. 1.5 de la Orden EHA/1160/2010, de 29 de abril. [Ref. BOE-A-2010-7252](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7252).
+
+> Esta modificación es aplicable a partir del 10 de mayo de 2010, salvo la que afecte a los gastos con financiación afectada que es aplicable a partir del 1 de enero de 2011, según establece la disposición final única.
+
+> Se modifica por el art. único.3 de la Orden EHA/ 818/2009, de 27 de marzo. [Ref. BOE-A-2009-5488](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5488).
+
+> Se modifica por el art. 1.2 de la Orden EHA/480/2008, de 20 de febrero. [Ref. BOE-A-2008-3740](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3740).
+
+> Se modica por el apartado 3.3 de la Orden HAC/240/2004, de 26 de enero. [Ref. BOE-A-2004-2499](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2499).
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
+
+> Se modifica por el apartado 2.11 a 19 de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789).
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+> Se modifica por el apartado 3.A) y la disposición adicional de la Resolución de 23 de febrero de 1999. [Ref. BOE-A-1999-5362](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-5362).
+
+> Esta modificación surte efectos desde el 1 de enero de 1999, según establece la disposición final.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 58, de 7 de marzo de 1996. [Ref. BOE-A-1996-5270](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-5270).
+
+## ANEXO II — Modelos de los documentos contables
+
+## A) DOCUMENTOS CONTABLES DEL PRESUPUESTO DE GASTOS
+
+![Imagen: img/disp/2010/111/07252_001.png](https://www.boe.es/datos/imagenes/disp/2010/111/07252_001.png)
+
+![Imagen: img/disp/2009/080/05488_004.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_004.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_6.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_8.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_10.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/106/7312_9292223_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_11.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_12.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_13.png)
+
+![2](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7775.png)
+
+![Imagen: img/disp/2009/080/05488_016.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_016.png)
+
+![Imagen: img/disp/2009/080/05488_017.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_017.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_14.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_15.png)
+
+![3](https://www.boe.es/datos/imagenes/disp/2017/280/13278_6036.png)
+
+![6](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7910.png)
+
+![Imagen: img/disp/2009/080/05488_022.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_022.png)
+
+![Imagen: img/disp/2009/080/05488_023.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_023.png)
+
+![Imagen: img/disp/2009/080/05488_024.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_024.png)
+
+![Imagen: img/disp/2009/080/05488_025.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_025.png)
+
+![Imagen: img/disp/2008/051/03740_001.png](https://www.boe.es/datos/imagenes/disp/2008/51/03740_001.png)
+
+![Imagen: img/disp/2008/051/03740_002.png](https://www.boe.es/datos/imagenes/disp/2008/51/03740_002.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/225/18530_14782048_1.png)
+
+![Imagen: img/disp/2018/182/10649_5340.png](https://www.boe.es/datos/imagenes/disp/2018/182/10649_5340.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_17.png)
+
+![Imagen: /datos/imagenes/disp/2021/313/21791_10877637_2.png](https://www.boe.es/datos/imagenes/disp/2021/313/21791_10877637_2.png)
+
+> Se modifica el documento contable «Anexo información adicional», con efectos de 1 de enero de 2025, con el formato que figura en el anexo de la Orden HAC/965/2024, de 9 de septiembre, según establece su art. 1.Tres. [Ref. BOE-A-2024-18530](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18530)
+
+> Se modifican, con efectos del 1 de febrero de 2022, los modelos «Anexo información adicional» y «Anexo seguimiento Fondos Unión Europea» por el art. 1.Dos de la Orden HFP/1481/2021, de 28 de diciembre. [Ref. BOE-A-2021-21791](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21791)
+
+> Se modifican determinados documentos contables y se añade el modelo «Anexo Seguimiento Fondos Unión Europea», con los formatos que figuran en el Anexo I, por el art. 1.Tres.1 y 2 de la Orden HAC/360/2021, de 14 de abril. [Ref. BOE-A-2021-6124](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6124). Redactada conforme a la corrección de errores, publicada en BOE núm 106, de 4 de mayo de 2021. [Ref. BOE-A-2021-7312](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7312)
+
+> Téngase en cuenta que la utilización obligatoria del indicador de embargabilidad en los documentos contables que contengan una propuesta de pago entrará en vigor el 14 de julio de 2021, y la incorporación de datos específicos de seguimiento de los proyectos financiados con Fondos de la Unión Europea entrará en vigor el 17 de julio de 2021, según establece la disposición final única de la citada Orden.
+
+> Se modifica el modelo «Anexo información adicional» y se añade el modelo «Anexo adicional de facturas» por el art. 1.4 y los anexos I y II de la Orden HAC/787/2018, de 25 de julio. [Ref. BOE-A-2018-10649](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10649)
+
+> Se modifican los documentos OK, ADOK y O por el art. 1.3 y el Anexo I de la Orden HFP/1105/2017, de 16 de noviembre. [Ref. BOE-A-2017-13278](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13278)
+
+> Se añaden los modelos "RC-110", "Anexo anualidades" y "Anexo imputación al presupuesto de operaciones devengadas" y se modifican los documentos OK, ADOK y K por el art. 1.5.1 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+> Se modifica el modelo «Anexo información adicional» por el art. 1.4.a) y el Anexo I de la Orden HAP/336/2014, de 4 de marzo. [Ref. BOE-A-2014-2486](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2486).
+
+> Se añaden los modelos RC, D y AD de "tramitación anticipada", se modifica el A de "tramitación anticipada" y se suprime el TR de "tramitación anticipada" por el art. 2.3 y anexo de la Orden HAP/1357/2013, de 11 de julio. [Ref. BOE-A-2013-7814](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7814).
+
+> Se modifican determinados modelos por el art. 1.6.1 y anexo I de la Orden EHA/1160/2010, de 29 de abril. [Ref. BOE-A-2010-7252](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7252).
+
+> Esta modificación es aplicable a partir del 10 de mayo de 2010, según establece la disposición final única.
+
+> Se añade el modelo de documento "Anexo información adicional" y se modifican determinados modelos por el art. único.4.1 y 4 y los anexos I y III de la Orden EHA/ 818/2009, de 27 de marzo. [Ref. BOE-A-2009-5488](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5488).
+
+> Se añaden los modelos de documentos "Anexo distribución territorial del área origen del gasto" y "Modificación distribución territorial del área origen del gasto"por el art. 1.3 y anexos I y II de la Orden EHA/480/2008, de 20 de febrero. [Ref. BOE-A-2008-3740](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3740).
+
+> Se suprimen los modelos de documentos "D" y "AD" de tramitación anticipada, se añaden los modelos de documentos "TR," de "Reasignación" y de su anexo y se modifican determinados modelos por el apartado 2.2 a 4, 8 y 9 y anexos I a IV de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789).
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única, con la excepción indicada.
+
+> Se modifican determinados modelos por el apartado 3.B) y anexo de la Resolución de 23 de febrero de 1999. [Ref. BOE-A-1999-5362](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-5362).
+
+> Esta modificación surte efectos desde el 1 de enero de 1999, según establece la disposición final.
+
+## B) DOCUMENTOS CONTABLES DE LOS PAGOS A JUSTIFICAR Y ANTICIPOS DE CAJA FIJA
+
+![1](https://www.boe.es/datos/imagenes/disp/2017/280/13278_6140.png)
+
+![Imagen: img/disp/2014/058/02486_003.png](https://www.boe.es/datos/imagenes/disp/2014/58/02486_003.png)
+
+![Imagen: img/disp/2009/080/05488_027.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_027.png)
+
+![Imagen: img/disp/2009/080/05488_028.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_028.png)
+
+> Se modifica el documento "Control de pagos a justificar" por el art. 1.3 y el Anexo II de la Orden HFP/1105/2017, de 16 de noviembre. [Ref. BOE-A-2017-13278](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13278)
+
+> Se modifica el modelo «Control de pagos a justificar» y se crea el modelo «Anexo control de pagos a justificar» por el art. 1.4.b) y los Anexos II y III de la Orden HAP/336/2014, de 4 de marzo. [Ref. BOE-A-2014-2486](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2486).
+
+> Se modifica por el art. único.4.4 y el anexo III de la Orden EHA/ 818/2009, de 27 de marzo. [Ref. BOE-A-2009-5488](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5488).
+
+> Se modifica el documento "Control de P. a justificar" por el apartado 2.10 y anexo V de la Orden HAC/1299/2002, de 23 de mayo. [Ref. BOE-A-2002-10789](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10789).
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+
+## C) DOCUMENTOS CONTABLES DE LOS ANTICIPOS DE TESORERÍA
+
+![Imagen: img/disp/2009/080/05488_029.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_029.png)
+
+> Se modifica por el art. único.4.4 y el anexo III de la Orden EHA/ 818/2009, de 27 de marzo. [Ref. BOE-A-2009-5488](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5488).
+
+## D) DOCUMENTOS CONTABLES DEL PRESUPUESTO DE INGRESOS Y OPERACIONES NO PRESUPUESTARIAS
+
+![Imagen: img/disp/2010/111/07252_003.png](https://www.boe.es/datos/imagenes/disp/2010/111/07252_003.png)
+
+![Imagen: img/disp/2009/080/05488_031.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_031.png)
+
+![Imagen: img/disp/2009/080/05488_032.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_032.png)
+
+![Imagen: img/disp/2009/080/05488_033.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_033.png)
+
+![7](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7990.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_035.png)
+
+![Imagen: img/disp/2009/080/05488_036.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_036.png)
+
+![Imagen: img/disp/2010/111/07252_005.png](https://www.boe.es/datos/imagenes/disp/2010/111/07252_005.png)
+
+![8](https://www.boe.es/datos/imagenes/disp/2017/52/02186_8025.png)
+
+![Imagen: img/disp/2009/080/05488_038.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_038.png)
+
+![Imagen: img/disp/2010/111/07252_004.png](https://www.boe.es/datos/imagenes/disp/2010/111/07252_004.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203246_1.png)
+
+![Imagen: img/disp/2010/111/07252_007.png](https://www.boe.es/datos/imagenes/disp/2010/111/07252_007.png)
+
+![10](https://www.boe.es/datos/imagenes/disp/2017/52/02186_8092.png)
+
+> Se modifica el documento contable «Anexo datos adicionales», con el formato que figura en el Anexo II, por el art. 1.Tres.3 de la Orden HAC/360/2021, de 14 de abril. [Ref. BOE-A-2021-6124](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6124)
+
+> Se modifican los modelos de los documentos contables «Propuesta de mandamiento de pago por devolución de ingresos», «Propuesta de mandamiento de pago no presupuestaria», «Anexo datos adicionales» y «Propuesta de mandamiento de pago por devolución de ingresos multiárea», por el art. 1.5.2 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+> Se modifica el modelo de documento "Anexo datos adicionales" y se añade el modelo del documento "Propuesta de mandamiento de pago por devolución de ingresos multiárea" por el art. 1.6 y anexo de la Orden EHA/3068/2011, de 8 de noviembre. [Ref. BOE-A-2011-17889](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17889).
+
+> Se modifican determinados modelos y se añaden los modelos de documentos "Anexo datos adicionales" y "Mandamiento de ingreso de Fondos Europeos" por el art. 1.6.2 y 3 y anexos II y III de la Orden EHA/1160/2010, de 29 de abril. [Ref. BOE-A-2010-7252](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7252).
+
+> Esta modificación es aplicable a partir del 10 de mayo de 2010, según establece la disposición final única.
+
+> Se añade el modelo de documento "Resumen contable de rectificación", se suprimen los tres ejemplares del mod. 012 y se modifican determinados modelos por el art. único.4.2 a 4 y los anexos II y III de la Orden EHA/818/2009, de 27 de marzo. [Ref. BOE-A-2009-5488](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5488).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 105, de 30 de abril de 2009. [Ref. BOE-A-2009-7193](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-7193).
+
+## E) DOCUMENTOS CONTABLES DE LA DEUDA DEL ESTADO
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_040.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_041.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_042.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_043.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_044.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_045.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_046.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_047.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_048.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_049.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_050.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_051.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_052.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_053.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_054.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_055.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_056.png)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 58, de 7 de marzo de 1996. [Ref. BOE-A-1996-5270](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-5270).
+
+## F) DOCUMENTOS CONTABLES DE VALORES EN DEPÓSITO
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_057.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_058.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_059.png)
+
+## G) OTROS DOCUMENTOS DE CONTABILIDAD
+
+![Imagen: img/disp/2009/080/05488_039.png](https://www.boe.es/datos/imagenes/disp/2009/80/05488_039.png)
+
+![Imagen: img/disp/1999/055/05362_019.png](https://www.boe.es/datos/imagenes/disp/1999/55/05362_019.png)
+
+![Imagen: img/disp/1999/055/05362_020.png](https://www.boe.es/datos/imagenes/disp/1999/55/05362_020.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203247_1.png)
+
+![Imagen: img/disp/2010/111/07252_008.png](https://www.boe.es/datos/imagenes/disp/2010/111/07252_008.png)
+
+![11](https://www.boe.es/datos/imagenes/disp/2017/52/02186_8204.png)
+
+![12](https://www.boe.es/datos/imagenes/disp/2017/52/02186_8238.png)
+
+> Se modifica el documento contable «Soporte de asientos directos», con el formato que figura en el Anexo III, por el art. 1.Tres.4 de la Orden HAC/360/2021, de 14 de abril. [Ref. BOE-A-2021-6124](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6124)
+
+> Se suprime el documento contable «Periodificación de gastos» y se añaden los documentos contables «Operaciones devengadas» y «Rectificación de operaciones devengadas», por el art. 1.5.3 de la Orden HFP/169/2017, de 27 de febrero. [Ref. BOE-A-2017-2186](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2186).
+
+> Se añade el modelo de documento "Gestión de gastos con financiación afectada" por el art. 1.6.4 y anexo IV de la Orden EHA/1160/2010, de 29 de abril. [Ref. BOE-A-2010-7252](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7252).
+
+> Esta modificación es aplicable a partir del 1 de enero de 2011, según establece la disposición final única.
+
+> Se modifican determinados modelos por el art. único.4.4 y el anexo III de la Orden EHA/818/2009, de 27 de marzo. [Ref. BOE-A-2009-5488](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5488).
+
+> Se modifican y añaden determinados modelos por el apartado 3.B) y anexo de la Resolución de 23 de febrero de 1999. [Ref. BOE-A-1999-5362](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-5362).
+
+> Esta modificación surte efectos desde el 1 de enero de 1999, según establece la disposición final.

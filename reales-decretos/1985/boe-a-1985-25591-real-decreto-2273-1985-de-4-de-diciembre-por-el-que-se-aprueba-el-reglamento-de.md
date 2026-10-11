@@ -1,0 +1,207 @@
+---
+title: "Real Decreto 2273/1985, de 4 de diciembre, por el que se aprueba el Reglamento de los Centros Especiales de Empleo definidos en el artículo 42 de la Ley 13/1982, de 7 de abril, de Integración Social del Minusválido"
+identifier: "BOE-A-1985-25591"
+eli: "https://www.boe.es/eli/es/rd/1985/12/04/2273"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Seguridad Social"
+date: 1985-12-04
+published: 1985-12-09
+in_force_from: 1985-12-10
+last_amended: 2021-09-29
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 294"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-25591"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2273/1985, de 4 de diciembre, por el que se aprueba el Reglamento de los Centros Especiales de Empleo definidos en el artículo 42 de la Ley 13/1982, de 7 de abril, de Integración Social del Minusválido
+
+En los últimos años la política de integración del minusválido al mundo del trabajo se ha venido realizando, al menos en gran parte, desde instrumentos puramente asistenciales que, por exigencias naturales de desarrollo y ajuste a los nuevos planteamientos, se han ido transformando o diversificando hacia instituciones de integración laboral, Centros Especiales de Empleo, que es preciso regular, dándoles el impulso, el contenido y los medios que la Ley de Integración Social del Minusválido impone al considerar a estos Centros Especiales de Empleo como elementos básicos integradores del minusválido en el mundo ordinario del trabajo, cuando por sus circunstancias de orden personal, consecuentes con su minusvalía, no puedan ejercer una actividad laboral en las condiciones habituales.
+
+En esta situación, y ante el gran avance que esta política de empleo ha supuesto para la integración del minusválido en la sociedad en general, y en el mundo del trabajo en particular, se hace imprescindible contemplar a estos Centros desde esta nueva posición, procurando hacer posible que cumplan no sólo la finalidad social que persiguen, sino también las exigencias de todo orden que su campo de aplicación legal les confiere.
+
+Para ello es preciso regular las especiales características de estos Centros, racionalizar su estructura, determinar su carácter, objetivos, exigencias y financiación, estableciendo un código de relación entre ellos y las Administraciones Públicas, encaminado todo ello no sólo a facilitar la creación de cuantos sean precisos para atender a la población disminuida del país, sino también para potenciar los existentes.
+
+En su virtud, a propuesta del Ministro de Trabajo y Seguridad Social, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de diciembre de 1985,
+
+DISPONGO:
+
+## CAPÍTULO I — Concepto, estructura y organización de los Centros Especiales de Empleo
+
+### Artículo 1.
+
+Conforme a lo dispuesto en el artículo 42 de la Ley 13/1982, de 7 de abril, de integración social de los minusválidos, los Centros Especiales de Empleo son aquellos cuyo objetivo principal sea el de realizar un trabajo productivo, participando regularmente en las operaciones del mercado, y teniendo como finalidad el asegurar un empleo remunerado y la prestación de servicios de ajuste personal y social que requieran sus trabajadores minusválidos, a la vez que sea un medio de integración del mayor número de minusválidos al régimen de trabajo normal.
+
+La totalidad de la plantilla de los Centros Especiales de Empleo estará constituida por trabajadores minusválidos, sin perjuicio de las plazas en plantilla del personal no minusválido, imprescindible para el desarrollo de su actividad.
+
+> Téngase en cuenta que el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, en su art. 43.2 establece que "la plantilla de los centros especiales de empleo estará constituida por el mayor número de personas trabajadoras con discapacidad que permita la naturaleza del proceso productivo y, en todo caso, por el 70 por 100 de aquélla. A estos efectos no se contemplará el personal sin discapacidad dedicado a la prestación de servicios de ajuste personal y social." [Ref. BOE-A-2013-12632](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12632)
+
+### Artículo 2.
+
+Sin perjuicio de la función social que los Centros Especiales de Empleo han de cumplir y de sus peculiares características, su estructura y organización se ajustará a los de las Empresas ordinarias.
+
+### Artículo 3.
+
+Por servicios de ajuste personal y social, se entenderán los de rehabilitación, terapéuticos, de integración social, culturales y deportivos que procuren al trabajador minusválido del Centro Especial de Empleo, una mayor rehabilitación personal y una mejor adaptación en su relación social.
+
+### Artículo 4.
+
+En ningún caso tendrán la consideración de Centros Especiales de Empleo los Centros Ocupacionales definidos en el artículo 53 de la Ley 13/1982, de 7 de abril, de integración social de los minusválidos, ni los Centros reconocidos de Educación Especial que dispongan de aulas o talleres para el aprendizaje profesional de los minusválidos en ellos integrados.
+
+## CAPÍTULO II — Carácter de los Centros
+
+### Artículo 5.
+
+a) Según su titularidad, los Centros Especiales de Empleo podrán tener carácter público o privado.
+
+b) Atendiendo a la aplicación de sus posibles beneficios, los Centros podrán carecer o no de ánimo de lucro, según que aquellos repercutan en su totalidad en la propia institución o se aproveche parte de ellos en otra finalidad distinta que haya de cubrir la Entidad titular del mismo.
+
+## CAPÍTULO III — Creación, calificación e inscripción
+
+### Artículo 6.
+
+Los Centros Especiales de Empleo podrán ser creados por las Administraciones Públicas, bien directamente o en colaboración con otros organismos, por Entidades, o por personas físicas, jurídicas o comunidades de bienes que tengan capacidad jurídica y de obrar para ser empresarios, conforme a lo señalado en el articulo 2.2 en relación con el artículo 3.º del Real Decreto 1368/1985, de 17 de julio, por el que se regula la relación laboral de carácter especial de los minusválidos que trabajen en los Centros Especiales de Empleo.
+
+### Artículo 7.
+
+La creación de Centros Especiales de Empleo exigirá su calificación e inscripción en el Registro de Centros que la Administración Central, o, en su caso, las Administraciones Autonómicas, crearán dentro de su ámbito de competencias. Para que pueda efectuarse la calificación e inscripción, deberán cumplirse los siguientes requisitos:
+
+1\. Acreditación de la personalidad del titular.
+
+2\. Justificar mediante el oportuno estudio económico las posibilidades de viabilidad y subsistencia del Centro, en orden al cumplimiento de sus fines.
+
+3\. Estar constituida su plantilla por trabajadores minusválidos conforme a lo señalado en el artículo 1.º, con contrato laboral escrito, suscrito con cada uno de ellos, conforme a la normativa vigente.
+
+4\. La previsión de tener en plantilla al personal técnico y de apoyo en posesión de las titulaciones profesionales adecuadas, que la actividad del Centro precise.
+
+## CAPÍTULO IV — De los trabajadores
+
+### Artículo 8.
+
+Podrán incorporarse como trabajadores a los Centros Especiales de Empleo las personas minusválidas físicas, psíquicas y sensoriales, definidas en el artículo 7.º de la Ley 13/1982, de 7 de abril, de integración social de los minusválidos, previa resolución motivada de los equipos multiprofesionales de valoración en la que se determinen sus posibilidades de integración real y capacidad de trabajo, y según lo dispuesto en el Real Decreto 1368/1985, de 17 de julio, por el que se regula la relación laboral de carácter especial de los minusválidos que trabajen en los Centros Especiales de Empleo.
+
+## CAPÍTULO V — Gestión
+
+### Artículo 9.
+
+Los Centros Especiales de Empleo vendrán obligados a realizar una gestión sujeta a las mismas normas y requisitos que los que afectan a cualquier Empresa del sector a que pertenezcan.
+
+## CAPÍTULO VI — Financiación
+
+### Artículo 10.
+
+La financiación de los Centros Especiales de Empleo se cubrirán con:
+
+a) Las aportaciones de los titulares de los propios Centros.
+
+b) Las aportaciones de terceros.
+
+c) Los beneficios o parte de los mismos que se puedan obtener de la actividad del Centro según se trate de Centros que carezcan o no de ánimo de lucro.
+
+d) Las ayudas que para la creación de los Centros Especiales de Empleo puedan establecer los programas de fomento del empleo.
+
+e) Las ayudas de mantenimiento a que pueden acceder como consecuencia de los programas de apoyo al empleo, establecidos por las Administraciones Públicas y consistentes en:
+
+– Subvención por puesto de trabajo ocupado por minusválido.
+
+– Bonificación de la cuota empresarial a la Seguridad Social.
+
+– Subvenciones para la adaptación de puestos de trabajo y eliminación de barreras arquitectónicas.
+
+Las ayudas de los apartados d) y e), se graduarán en función de la rentabilidad económica y social del Centro y para su concesión deberán cumplir las exigencias que los respectivos programas establezcan al efecto.
+
+### Artículo 11.
+
+Las Administraciones Públicas podrán conceder subvenciones destinadas a equilibrar el presupuesto de los centros especiales de empleo, cuando dichos Centros carezcan de ánimo de lucro, sean declarados de utilidad pública e imprescindibilidad y la función social de los mismos justifique la necesidad de ser financiados con medios complementarios a los señalados en el artículo anterior.
+
+A estos efectos, se estimará la concurrencia de utilidad pública en el centro especial de empleo, cuando el objetivo y la finalidad del mismo sea exclusivamente la inclusión laboral y social de personas con discapacidad.
+
+La imprescindibilidad social ha de entenderse como la verificación de la dificultad de que las personas trabajadoras con discapacidad puedan por sus características de la tipología y grado de discapacidad, su edad, su formación y cualificación profesional y por la necesidad permanente de ser usuarios de los servicios de ajuste personal y social, encontrar un nuevo empleo en otro centro especial de empleo o en la empresa ordinaria. Dicha verificación será realizada en función de estos parámetros o cualquier otro que determine el servicio público de empleo competente:
+
+a) Ratio de los trabajadores con discapacidad y con especiales dificultades que integran la plantilla de personas con discapacidad.
+
+b) Ratio de personas trabajadoras con discapacidad que integran la plantilla contratadas con una modalidad indefinida.
+
+c) Servicios de ajuste personal y social prestados por el centro especial de empleo.
+
+> Se modifica por la disposición final 1 del Real Decreto 818/2021, de 28 de septiembre. [Ref. BOE-A-2021-15771](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-15771)
+
+## CAPÍTULO VII — Convenio
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 818/2021, de 28 de septiembre. [Ref. BOE-A-2021-15771](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-15771)
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal a efectos de su aplicación por parte de las Comunidades Autónomas y el Servicio Público de Empleo Estatal, en sus respectivos ámbitos competenciales, en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.1.b) de la Ley 3/2012, de 10 de febrero. [Ref. BOE-A-2012-9110](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9110).
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.b) del Real Decreto-ley 3/2012, de 10 de febrero. [Ref. BOE-A-2012-2076](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2076).
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto-Ley 3/2011, de 18 de febrero. [Ref. BOE-A-2011-3255](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3255).
+
+> Téngase en cuenta que este capítulo permanecerá en vigor hasta que se aprueben la Estrategía Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establece la disposición transitoria 3.
+
+### Artículo 12.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 818/2021, de 28 de septiembre. [Ref. BOE-A-2021-15771](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-15771)
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal a efectos de su aplicación por parte de las Comunidades Autónomas y el Servicio Público de Empleo Estatal, en sus respectivos ámbitos competenciales, en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.1.b) de la Ley 3/2012, de 10 de febrero. [Ref. BOE-A-2012-9110](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9110).
+
+> Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014, por la disposición derogatoria única.1.h) y la disposición final 12.b) del Real Decreto-ley 3/2012, de 10 de febrero. [Ref. BOE-A-2012-2076](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2076).
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto-Ley 3/2011, de 18 de febrero. [Ref. BOE-A-2011-3255](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3255).
+
+> Téngase en cuenta que este artículo permanecerá en vigor hasta que se aprueben la Estrategía Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establece la disposición transitoria 3.
+
+## CAPÍTULO VIII — Seguimiento y control
+
+### Artículo 13.
+
+Cuando los Centros Especiales de Empleo reciban de las Administraciones Públicas subvenciones o ayudas o cualquier tipo de compensación económica, cualquiera que sea su naturaleza, vendrán obligados a presentar anualmente al Ministerio de Trabajo y Seguridad Social, o a la Comunidad Autónoma que corresponda, según sea uno u otra el Órgano concedente, una Memoria comprensiva de los siguientes extremos:
+
+– Titularidad del Centro.
+
+– Ubicación.
+
+– Actividad principal y complementaria.
+
+Composición de su plantilla.
+
+Documentación económica:
+
+– Liquidación del presupuesto.
+
+– Balance de situación.
+
+– Cuenta de explotación.
+
+– Proyecto de presupuesto del ejercicio siguiente.
+
+– Cumplimiento de sus objetivos económicos y de ajuste personal y social.
+
+El Ministerio de Trabajo y Seguridad Social realizará no sólo el seguimiento de las ayudas concedidas, sino también la fiscalización de la total marcha del Centro, a través de las Direcciones Provinciales de Trabajo respectivas y de la Inspección de Trabajo y Seguridad Social, correspondiendo también esta función a las Comunidades Autónomas, a través de sus Órganos respectivos, cuando hayan sido objeto de transferencia a favor de las mismas.
+
+### Disposición transitoria.
+
+1\. Los Centros Especiales de Empleo actualmente inscritos en el Registro de la Unidad Administradora del Fondo Nacional de Protección al Trabajo, deberán, en el plazo de tres meses, a contar de la entrada en vigor de este Real Decreto, solicitar del Ministerio de Trabajo y Seguridad Social o de las Comunidades Autónomas, cuando sean titulares de esta competencia, la conversión o transformación de la inscripción de que actualmente son titulares.
+
+2\. Los Centros Especiales de Iniciación productiva actualmente inscritos en el Ministerio de Trabajo y Seguridad Social, podrán solicitar su calificación e inscripción como Centros Especiales de Empleo en el plazo de tres meses desde la entrada en vigor del presente Real Decreto, quedando sin efecto su actual inscripción al finalizar el referido plazo.
+
+### Disposición derogatoria.
+
+Queda derogado el punto 3.2, relativo a los Centros Especiales de Iniciación Productiva de la Orden del Ministerio de Trabajo y Seguridad Social de 16 de marzo de 1983.
+
+### Disposición final.
+
+Se faculta al Ministro de Trabajo y Seguridad Social, para dictar cuantas disposiciones sean necesarias para el desarrollo de este Real Decreto, que entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, a 4 de diciembre de 1985.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Seguridad Social,
+
+JOAQUÍN ALMUNIA AMANN

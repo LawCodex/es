@@ -1,0 +1,1243 @@
+---
+title: "Real Decreto 2772/1978, de 29 de septiembre, por el que se aprueban los Estatutos generales de los Colegios Oficiales de Ingenieros Técnicos Agrícolas y Peritos Agrícolas de España y de su Consejo General"
+identifier: "BOE-A-1978-29483"
+eli: "https://www.boe.es/eli/es/rd/1978/09/29/2772"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura"
+date: 1978-09-29
+published: 1978-12-01
+in_force_from: 1978-12-21
+last_amended: 2003-07-18
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 287"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-29483"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2772/1978, de 29 de septiembre, por el que se aprueban los Estatutos generales de los Colegios Oficiales de Ingenieros Técnicos Agrícolas y Peritos Agrícolas de España y de su Consejo General
+
+Por Orden del Ministerio de Agricultura de veintisiete de noviembre de mil novecientos cuarenta y siete se constituyeron los Colegios Oficiales de Peritos Agrícolas, al que quedaron integrados los Ingenieros Técnicos Agrícolas por otra Orden del propio Ministerio de treinta de septiembre de mil novecientos sesenta y siete, denominándose, a partir de la aprobación de esa última disposición. Colegios Oficiales de Ingenieros Técnicos Agrícolas y Peritos Agrícolas,
+
+Por su parte, la Ley dos / mil novecientos setenta y cuatro, sobre Colegios profesionales, dispuso que los referidos Colegios se rigiesen por sus Estatutos y por los Reglamentes de régimen interno, elaborándose los Estatutos por los Consejos Generales para que a través del Ministerio competente sean sometidos a la aprobación del Gobierno.
+
+Por el Consejo General de los Colegios Oficiales de Ingenieros Técnicos y Peritos Agrícolas de España, se han redactado los Estatutos generales correspondientes ajustándose al contenido de dicha Ley.
+
+En su virtud, a propuesta del Ministro de Agricultura y previa deliberación del Consejo de Ministros en su reunión del día veintinueve de septiembre de mil novecientos setenta y ocho,
+
+DISPONGO:
+
+### Artículo único.
+
+Se aprueban los adjuntos Estatutos generales de los Colegios Oficiales de Ingenieros Técnicos y Peritos Agrícolas de España y de su Consejo General.
+
+## DISPOSICIÓN DEROGATORIA
+
+Queda derogada la Orden ministerial de nueve de julio de mil novecientos cincuenta y uno, que aprobó el Reglamente Orgánico de los Colegios Oficiales de Peritos Agrícolas de España y del Consejo General de dichos Colegias.
+
+Dado en Madrid a veintinueve de septiembre de mil novecientos setenta y ocho.
+
+JUAN CARLOS
+
+El Ministro de Agricultura,
+
+JAIME LAMO DE ESPINOSA Y MICHELS DE CHAMPOURCIN
+
+## ESTATUTOS GENERALES DE LOS COLEGIOS OFICIALES DE INGENIEROS TÉCNICOS AGRÍCOLAS Y PERITOS AGRÍCOLAS DE ESPAÑA Y DE SU CONSEJO GENERAL
+
+## CAPÍTULO PRIMERO — Disposiciones generales
+
+### Artículo 1.º Naturaleza.
+
+Los Colegios Oficiales de Ingenieros Técnicos Agrícolas y de Peritos Agrícolas de España son corporaciones de derecho público, amparados por la Ley y reconocidos por el Estado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines. Su funcionamiento y estructura interna serán democráticos.
+
+Los Colegios, por medio de su Consejo General, se relacionarán con la Administración General del Estado a través del Ministerio de Agricultura, Pesca y Alimentación; y, con la Administración autonómica respectiva a través del órgano competente.
+
+> Se modifica por el art. 1.1 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 2.º Alcance y competencia.
+
+Los Colegios Oficiales de Ingenieros Técnicos Agrícolas y Peritos Agrícolas tendrán, como mínimo, el ámbito de una provincia; estableciendo las Delegaciones que se estimen oportunas de acuerdo con lo prescrito en estos Estatutos.
+
+De acuerdo con el artículo 3,2 de la Ley estatal 2/1974, de 13 de febrero, sobre Colegios Profesionales, agruparán obligatoriamente a todos los Ingenieros Técnicos Agrícolas y Peritos Agrícolas que ejerzan la profesión en cualquiera de sus modalidades, ya sea libremente, ya en entidades privadas, y en toda actividad de la misma índole en que sea necesario estar en posesión del título, o siempre que dicha titulación fuera condición para desempeñarla.
+
+> Se modifica por el art. 1.2 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+## CAPÍTULO II — De los Colegios
+
+### Art. 3.º Organización.
+
+Los Colegios se regirán por estos Estatutos generales.
+
+Los Colegios serán dirigidos y administrados por la Asamblea general, la Junta de Gobierno y su Presidente.
+
+> Se modifica por el art. 1.3 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 4.º Fines y funciones.
+
+Los Colegios de Ingenieros Técnicos Agrícola y de Peritos Agrícolas ejercerán, en su ámbito territorial, cuantas funciones les asigne la legislación sobre Colegios Profesionales y, en particular, las siguientes:
+
+a) Asesoramiento y cooperación, en materia de su competencia, con los Organismos del Estado, de las Comunidades Autónomas y provinciales, Administración de Justicia, Corporaciones Locales, entidades o personas particulares y con los colegiados, y ejercer cuantas funciones les sean encomendadas por las Administraciones públicas relacionadas con los fines que les son propios.
+
+b) Participar en los Consejos u Organismos consultivos de las Administraciones públicas en la materia de su competencia y proponer la adopción de cuantas medidas se consideren convenientes para el desarrollo y perfeccionamiento de la profesión, sugiriendo las disposiciones legales necesarias para tales fines.
+
+c) Estar representados, en su caso, en los Consejos Sociales de las Universidades, de conformidad con lo dispuesto en la vigente legislación universitaria.
+
+d) Impulsar y contribuir al progreso de las técnicas propias de la profesión, al desarrollo de las labores científicas, culturales y sociales relacionadas con la agricultura y el establecimiento de cuantas normas tiendan a incrementar la eficacia de los colegiados en el desarrollo de sus fines.
+
+e) Participar en la elaboración de los planes de estudio e informar las normas de organización de las Escuelas Universitarias de Ingeniería Técnica Agrícola, mantener permanente contacto con las mismas y preparar la información necesaria para facilitar el acceso a la vida profesional de los nuevos titulados.
+
+f) Ostentar en su ámbito la representación y defensa de la profesión y de los colegios ante las Administraciones públicas, instituciones, tribunales, entidades y particulares, con la legitimación para ser parte en cuantos litigios afecten a los intereses profesionales en defensa de sus derechos y honorarios devengados por sus trabajos, así como ejercitar el derecho de petición conforme a la Ley.
+
+g) Facilitar a los tribunales, conforme a las leyes, la relación de colegiados que pudieran ser requeridos para intervenir como Peritos en los asuntos judiciales, o designarlos por sí mismos, según proceda.
+
+Designar, según proceda, a petición de organismos, entidades, particulares o de los propios colegiados, a los titulares que hayan de intervenir en trabajos profesionales de cualquier índole.
+
+h) Hermanar a los colegiados, inculcándoles sentimientos corporativos de todo orden tendentes al bien recíproco, velando por que observen intachable conducta respecto a autoridades, compañeros y en sus relaciones profesionales, impidiendo la competencia desleal entre los mismos. El ejercicio de la profesión se realizará en régimen de libre competencia y estará sujeto en cuanto a la oferta de servicios y fijación de su remuneración a la Ley sobre Defensa de la Competencia y a la Ley sobre Competencia Desleal.
+
+Velar por la ética y dignidad profesionales y ejercer las medidas disciplinarias relativas a los colegiados, sancionando sus faltas con las correcciones que señalan estos Estatutos.
+
+i) Organizar actividades y servicios comunes de interés para los colegiados, de carácter profesional, formativo, cultural, asistencia y de previsión y otros análogos, proveyendo al sostenimiento económico mediante los medios necesarios.
+
+j) Combatir todos los casos de intrusismo que afecten a los Ingenieros Técnicos Agrícolas y Peritos Agrícolas y al ejercicio de la profesión, persiguiendo ante las autoridades y tribunales de Justicia a quienes no cumplan los requisitos legales de todo orden establecidos al efecto.
+
+k) Intervenir, en vía de conciliación o arbitraje, en las cuestiones que, por motivos profesionales, se suscitan entre los colegiados.
+
+l) Resolver por laudo, a instancia de las partes interesadas, las discrepancias que puedan surgir sobre el cumplimiento de las obligaciones dimanantes de los trabajos realizados por los colegiados en el ejercicio de la profesión.
+
+m) Confeccionar tablas de baremos de honorarios orientativos.
+
+n) Informar en los procedimientos judiciales o administrativos en que se discutan honorarios profesionales.
+
+ñ) Organizar el servicio de cobro de honorarios profesionales, que el colegiado podrá utilizar cuando lo solicite libre y expresamente y en las condiciones previstas en los Estatutos.
+
+o) Visar toda clase de trabajos profesionales que realicen los colegiados, de conformidad con lo dispuesto estatutariamente.
+
+p) Organizar, en su caso, cursos para la formación profesional de los posgraduados.
+
+q) Cumplir y hacer cumplir a los colegiados las Leyes generales y especiales y los Estatutos generales y particulares, así como las normas y decisiones adoptadas por los órganos colegiales, en materia de su competencia.
+
+r) Formular los presupuestos y elevarlos al Consejo General para su conocimiento, así como el balance y la memoria de actividades del ejercicio anterior.
+
+s) Recaudar todas las cuotas e ingresos que se determinan en estos Estatutos, acudiendo, si fuera preciso, a las vías legales ante Juez competente contra los colegiados que dejaran de satisfacer las cuotas ordinarias y extraordinarias o cualquiera otra responsabilidad pecuniaria.
+
+t) Dar cuenta de su actuación al Consejo General o, en su defecto, a la Comisión Permanente, en cualquier asunto que uno u otro lo requieran.
+
+u) Cuantas otras funciones redunden en beneficio de los intereses de los colegiados.
+
+> Se modifica por el art. 1.4 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 5.º Territorialidad.
+
+a) Los Colegios tendrán, al menos, el ámbito territorial de una provincia. Las normas para el ejercicio de sus funciones y la delegación de las mismas se desarrollarán en los Estatutos particulares que se establezcan.
+
+b) El traslado de la capitalidad de un Colegio se hará a propuesta de la Junta de Gobierno y será aprobada por Asamblea general extraordinaria convocada a tal efecto, siendo preceptiva la información del mismo en un Pleno del Consejo General.
+
+c) La fusión, absorción, segregación y disolución de los Colegios territoriales de Ingenieros Técnicos Agrícolas y de Peritos Agrícolas, como sus cambios de denominación, podrán ser promovidos por los propios Colegios; y requerirá la aprobación de la Asamblea general respectiva. La autoridad administrativa autonómica competente aprobará la modificación, previa audiencia de los Colegios afectados. Si el cambio afectare a Colegios territoriales ubicados en más de una Comunidad Autónoma, se precisará entonces Real Decreto del Gobierno de la nación.
+
+d) Para la creación por segregación de un nuevo Colegio territorial se estará, en su caso, a lo que disponga la respectiva legislación autonómica. Salvo que ésta determine otra cosa, para la creación será preciso que el nuevo Colegio agrupe a un mínimo de 200 colegiados.
+
+e) Los colegios constituidos en la actualidad son: Alicante, Almería, Andalucía Occidental (Sevilla, Cádiz y Huelva), Aragón (Zaragoza, Huesca y Teruel), Asturias, Badajoz, Islas Baleares, Cáceres, Castilla-Duero (Valladolid, Burgos, Palencia, Salamanca y Zamora), Cataluña (Barcelona, Gerona, Lérida y Tarragona), Centro (Madrid, Ciudad Real, Cuenca, Guadalajara, Segovia, Toledo, Ávila, Soria y Albacete), Córdoba, Coruña (La) (La Coruña, Pontevedra y Orense), Granada, Jaén, León, Levante (Valencia y Castellón), Lugo, Málaga, Murcia, Navarra (Navarra y La Rioja), Palmas (Las), Santa Cruz de Tenerife, Cantabria, País Vasco (Álava, Guipúzcoa y Vizcaya).
+
+> Se modifica por el art. 1.5 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+## CAPÍTULO III — De la Asamblea general de Colegios
+
+### Art. 6.º Definición.
+
+La Asamblea general de colegiados es el Órgano que comprende todos los miembros del Colegio reunidos, asumiendo la máxima autoridad dentro de éste, y como tal obliga con sus acuerdos a todos los colegiados, aun a los ausentes, disidentes y abstenidos.
+
+Las Asambleas generales podrán ser ordinarias y extraordinarias.
+
+### Art. 7.º Reuniones.
+
+La Asamblea general con carácter ordinario se reunirá dos veces al año una, en el último trimestre, para examen y aprobación de Presupuestos y renovación de cargos según se indica en el artículo 12 y otra, en el primer semestre, para sancionar el balance y cuentas del año anterior y la Memoria general sobre la marcha del Colegio, en todos sus aspectos.
+
+Tanto en una como en otra se podrán exponer las propuestas de los colegiados.
+
+Con carácter extraordinario, la Asamblea general se reunirá cuando lo considere necesario la Junta de Gobierno o cuando lo soliciten, por escrito y con su firma, un número de colegiados no inferior al 10 por 100 de los inscritos.
+
+### Art. 8.º
+
+La Asamblea general será presidida por el Presidente del Colegio, y actuará de Secretario el que lo sea de éste, quien levantará acta de la reunión copia de la cual se remitirá, a titulo informativo, al Consejo General.
+
+Las reuniones de la Asamblea general deberán ser anunciadas por escrito y mediante notificación individual, con quince días de antelación, como mínimo, especificando los motivos de la reunión y el orden del día.
+
+### Art. 9.º
+
+Para que las deliberaciones, de la Asamblea sean válidas será preciso que concurran, en primera convocatoria, la mayoría absoluta. En la segunda convocatoria serán válidas cualquiera que sea el número de asistentes.
+
+Sólo tendrán derecho a voz y voto quienes se encuentren en pleno disfrute de sus derechos colegiales y se hallen al corriente de sus obligaciones económicas. Salvo para la elección de miembros de Junta de Gobierno, el ejercicio del derecho de voto se supedita a la presencia física en la Asamblea.
+
+En las reuniones de la Asamblea sólo se podrán tomar acuerdos sobre aquellos asuntos que hayan sido fijados en el orden del día.
+
+Las votaciones se efectuarán utilizando la papeleta normalizada cuyo modelo esté aprobado en Asamblea general. Las votaciones por correo se harán como preceptúa el artículo 12.
+
+La recogida de papeletas y el escrutinio lo realizarán los dos colegiados de más reciente incorporación aI Colegio, actuando de Secretario el que lo es de la Asamblea, quien recogerá el resultado en acta y expedirá las certificaciones que sean precisas.
+
+Cuando en la recogida de papeletas algún asambleísta exprese su deseo de abstenerse de votar, dicha abstención se recogerá nominalmente en el acta. Las mayorías que pueden producirse son.
+
+Mayoría mínima: Cuando el número de votos en un sentido supere a los votos emitidos en sentido contrario.
+
+Mayoría simple: Cuando el número de votos en un sentido supere a los votos emitidos en sentido contrario más los votos en blanco.
+
+Mayoría absoluta: Cuando el número de votos en un sentido supere a la mitad de los votos posibles, o sea, todos los votos emitidos y los ausentes y abstenciones.
+
+> Se modifica el párrafo segundo por el art. 1.6 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 10.
+
+Corresponde a la Asamblea general:
+
+a) Conocer y sancionar la Memoria o informe anual que la Junta de Gobierno le someterá, resumiendo su actuación, así como los acontecimientos profesionales de mayor relieve.
+
+b) Sancionar la gestión de la Junta de Gobierno.
+
+c) La discusión y aprobación de las cuentas del ejercicio económico, así como de los presupuestos, tanto ordinarios como extraordinarios.
+
+d) Determinar las cuotas ordinarias y extraordinarias.
+
+e) Establecer baremos de honorarios profesionales, con carácter meramente orientativo.
+
+f) Aprobar el Estatuto particular y, en su caso, el Reglamento de Régimen Interior del Colegio.
+
+g) Aprobar la implantación de Delegaciones y Subdelegaciones según lo previsto en estos Estatutos y que se estimen convenientes.
+
+h) Acordar la adquisición o enajenación de los bienes patrimoniales del Colegio, autorizando a su Presidente para actuar en consecuencia con plena representación de la Corporación, como asimismo facultarlo para concertar operaciones de crédito, establecer y levantar hipotecas, pignorar valores y cuantas operaciones financieras se estimen por la Asamblea puedan beneficiar la economía del Colegio y desarrollar su maniobrabilidad, dentro de los fines y funciones del artículo 4.º
+
+i) Aceptar o rechazar donaciones o herencias.
+
+j) La discusión y decisión sobre cuantas propuestas se le sometan y correspondan a la esfera de acción e intereses del Colegio, por iniciativa de la Junta de Gobierno o de cinco colegiados, como mínimo. Dichas propuestas deberán ser presentadas con la suficiente antelación para ser incluidas en el orden del día.
+
+k) La propuesta de fusión absorción, segregación, cambio de denominación y disolución del Colegio.
+
+I) La elección de los miembros de la Junta de Gobierno conforme al artículo 12.
+
+m) Implantación, supresión o modificación de servicios corporativos.
+
+n) **(Derogado)**
+
+Los Reglamentos de régimen interior de los Colegios determinarán las mayorías exigibles en cada una de las cuestiones epigrafiadas, exigiéndose la absoluta para el epígrafe k), al menos.
+
+No será necesaria la mayoría absoluta prevista en el último inciso del párrafo anterior, aunque sí la mayoría simple, al menos, para el caso de propuestas de segregación de todas las delegaciones de colegios supraautonómicos pertenecientes a una misma comunidad autónoma, cuando, por necesidades de adaptación a la legislación vigente en materia de colegios profesionales, tengan por fin la incorporación por absorción a un colegio preexistente de ámbito territorial limitado a su misma comunidad autónoma, o bien la creación de un nuevo colegio cuyo territorio coincida con el de aquélla.
+
+> Se añade el párrafo último por el art. único.1 del Real Decreto 861/2003, de 4 de julio. [Ref. BOE-A-2003-14407](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-14407).
+
+> Se deroga la letra n) y se modifican la e) y f) por el art. 1.7 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+## CAPÍTULO IV — De la Junta de Gobierno
+
+### Art. 11. Composición.
+
+Su composición será de: Un Presidente, un Vicepresidente, un Secretario, un Vicesecretario, un Tesorero, un Vicetesorero y un número de Vocales que se determina por el Reglamento interno de cada Colegio.
+
+Serán Vocales natos los Delegados de su demarcación.
+
+La Junta de Gobierna tendrá como misión la dirección y administración del Colegio, según las normas de estos Estatutos y de su Reglamento interno.
+
+### Art. 12. Elección de sus miembros.
+
+Serán elegibles todos los colegiados al corriente de sus obligaciones, con un año de colegiación, como mínimo, que ejerzan la profesión y que no estén incursos en prohibición e incapacidad legal o estatutaria.
+
+Los Estatutos particulares podrán establecer como condición de elegibilidad de los Secretarios y Tesoreros su residencia en el ámbito espacial del Colegio.
+
+Por el Colegio se publicarán las vacantes, por lo menos, con un mes de antelación a la celebración de la Asamblea general ordinaria del último trimestre del año en curso para conocimiento de los colegiados, y se dará un plazo mínimo de quince días hábiles para la presentación de candidatos a cubrir dichas vacantes, ante la Junta de Gobierno.
+
+Las candidaturas podrán ser individuales para cada una de las vacantes o en equipo para el total de los puestos, pero con designación de la asignación de cargo.
+
+Deberán estar avaladas por la firma de cinco colegiados, como mínimo.
+
+Pasado el plazo previsto, y dentro de un plazo inferior a diez días, la Junta de Gobierno publicará, para conocimiento de todos los colegiados, las candidaturas admitidas que hayan cumplido los requisitos estatutarios, razonando la exclusión de las rechazadas.
+
+La convocatoria se hará por escrito a todos y cada uno de los colegiados con diez días hábiles, como mínimo, antes de la fecha de la celebración de la Asamblea. Desde su recepción, los colegiados podrán ejercer su derecho de voto por escrito de forma fehaciente mediante sobre normalizado al efecto y dirigido al Presidente de la mesa de elecciones, en cuyo interior irá fotocopia del documento nacional de identidad del remitente y otro sobre en blanco, normalizado y cerrado, conteniendo la papeleta de votación. Los que lo hicieran personalmente depositarán su voto ante la mesa constituida. Todas las papeletas serán depositadas en una urna precintada.
+
+No podrá votarse más que las candidaturas individuales o en equipo debidamente admitidas y publicadas.
+
+La mesa constituida contabilizará todos los votos existentes, tanto por escrito como personales, y se computarán sólo los válidos, considerándose como votos nulos los emitidos con irregularidades, a juicio de la mesa.
+
+Si hubiera empate entre dos candidaturas, se procederá a una segunda votación entre los presentes, y si persistiese decidirá el resultado votaciones sucesivas.
+
+Será el Presidente de la mesa de elecciones el que sea designado por la Asamblea, y actuarán como Secretarios escrutadores los dos colegiados de más reciente colegiación presentes en el acto, actuando como Secretario el de la Asamblea para la recogida y redacción de las actas.
+
+Del resultado de la votación se levantará acta, que será firmada por el Presidente de la mesa y los escrutadores, y de cuyo contenido será informada la Asamblea general constituida.
+
+Contra el resultado de las elecciones podrá interponerse recurso ordinario ante el Consejo General, cuando así se disponga en los Estatutos del Colegio correspondiente.
+
+Transcurrido el plazo para su interposición sin impugnación, se constituirá la nueva Junta de Gobierno, dando cumplimiento a la Ley en lo estipulado en su artículo 7.6.
+
+Los miembros salientes de la Junta de Gobierno quedan a disposición de los elegidos para su instrucción y asesoramiento.
+
+Los cargos de la Junta de Gobierno serán obligatorios en primera elección, salvo causa justificada que se expondrá a la Junta. La aceptación será voluntaria en caso de reelección o cuando sea elegido para cargo distinto del ostentado hasta entonces.
+
+La duración de los cargos será de cuatro años, renovándose por mitad cada dos años. En caso de nueva constitución total de la Junta de Gobierno, la primera renovación se producirá a los cuatro años y la segunda a los seis, en la siguiente Asamblea ordinaria que tenga lugar después del cumplimiento del período correspondiente. La primera renovación de la mitad de los cargos será determinada por la Junta de Gobierno. En ambos casos se atenderá a que en las renovaciones no se produzcan simultáneas las de Presidente, Secretario y Tesorero.
+
+Si alguno de los componentes de la Junta de Gobierno cesara en el mismo por cualquier causa, la propia Junta designará el sustituto por carácter de interinidad, hasta que se verifique la sustitución en tiempo reglamentario. Tanto la Junta de Gobierno como alguno de sus componentes podrán ser removidos cuando la moción de censura alcance el 75 por 100 del número de los colegiados, reunidos en Asamblea general extraordinaria convocada a tal efecto.
+
+> Se modifica el párrafo decimosexto por el art. único.2 del Real Decreto 861/2003, de 4 de julio. [Ref. BOE-A-2003-14407](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-14407).
+
+> Se modifica por el art. 1.8 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 13. Remuneración de cargos.
+
+Todos los cargos serán gratuitos, excepto el de Secretario y Tesorero que podrán ser remunerados en la cuantía y forma que la Asamblea acuerde.
+
+En los presupuestos deberán figurar partidas para gastos de representación y desplazamientos que ocasionen a los miembros de la Junta el desempeño de sus cargos.
+
+### Art. 14. Reuniones.
+
+La Junta de Gobierno se reunirá obligatoriamente de forma ordinaria una vez al mes, convocada por el Presidente.
+
+Con carácter, extraordinario se reunirá cuantas veces sea necesario, convocada por el Presidente o a petición de tres miembros de la Junta.
+
+Las citaciones serán individuales y se remitirán con ocho días de antelación. En casos de necesaria urgencia podrán citarse verbalmente, confirmándose con la notificación escrita.
+
+Los acuerdos se tomarán por mayoría de votos de los asistentes, sea cual fuere su número. En caso de empate repetido decidirá el voto de calidad del Presidente.
+
+Es obligatoria le asistencia de todos los miembros. La falta de asistencia no justificada a tres sesiones consecutivas se estimará como renuncia al cargo e incurrirá en sanción disciplinaria leve. La Justificación de la falta de asistencia deberá hacerse por escrito, desde que se recibe la convocatoria hasta ocho días después de celebrada la Junta de Gobierno.
+
+### Art. 15. Facultades de la Junta de Gobierno.
+
+Son facultades de la Junta de Gobierno, las siguientes:
+
+a) Acordar la adquisición, denegación y pérdida de la condición de colegiados y clases de los mismos, de acuerdo con lo establecido en el capítulo VII.
+
+b) Defender los intereses y prestigio del Colegio y de las colegiados.
+
+c) Velar por la buena conducta profesional.
+
+d) Organizar entre los colegiados los turnos de trabajo profesionales que se soliciten al Colegio.
+
+e) Ejercer las facultades disciplinarias que le correspondan.
+
+f) Confeccionar periódicamente la lista de colegiados, la cual deberá ser sometida al Consejo General, al resto de los Colegios y a todos aquellos Organismos que tengan conexión con la profesión en su demarcación, así como también a las autoridades gubernativas que corresponda.
+
+g) Promover la formación de comisiones para el estudio de asuntos que incumban al Colegio.
+
+h) Impedir el ejercicio de la profesión a quienes no reúnan las condiciones de orden legal establecidas al efecto, pudiendo denunciar a los intrusos entre las autoridades y perseguir, en su caso, a los infractores ante los Tribunales mediante el ejercicio de cuantas acciones civiles, penales, administrativas y contencioso-administrativas fueran necesarias y convenientes.
+
+i) Recaudar y administrar los fondos del Colegio.
+
+j) Nombrar y separar el personal administrativo del Colegio.
+
+k) Convocar a elección los cargos de la Junta de Gobierno.
+
+l) Acordar la, celebración de Asambleas generales ordinarias y extraordinarias; estas últimas por su iniciativa o a petición de un 10 por 100 de colegiados, como mínimo.
+
+m) Organizar el sistema para realizar el visado de trabajos profesionales, separando para ello la comisión correspondiente y delegar las funciones y práctica del visado en ella.
+
+n) Adoptar cuantas medidas se crean pertinentes para el cumplimiento de los acuerdos de la Asamblea general y del Consejo General.
+
+ñ) Forma de aprobación de las actas, estableciendo el procedimiento de autenticidad y agilidad para la Inmediata ejecución de los acuerdos.
+
+o) Ordenar la formación de Tribunal de Honor, cuya constitución se efectuará con arreglo a lo dispuesto en estos Estatutos.
+
+> Téngase en cuenta que se prohíben los Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales por el art. 26 de la Constitución Española. [Ref. BOE-A-1978-31229](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-31229).
+
+p) Todas las demás atribuciones que se le señalen en los Estatutos generales y en los Reglamentos internos del Colegio.
+
+> Se modifica por el art. 1.10 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 16. Funciones del Presidente.
+
+Al Presidente corresponden las siguientes funciones:
+
+a) Velar por el cumplimiento de estos Estatutos, del Reglamento interno, de los acuerdos de las Asambleas generales, de la Junta de Gobierno y del Consejo General, así como de las disposiciones que se dicten por las autoridades.
+
+b) Representar al Colegio ante las autoridades y Tribunales de cualquier clase, designando en caso de litigio al Abogado y Procurador que estime de por sí o por acuerdo de la Junta de Gobierno.
+
+c) Convocar y presidir la Junta de Gobierno y asambleas en la forma establecida.
+
+d) Llevar la dirección superior del Colegio, decidiendo en los casos urgentes que no sean competencia de la Asamblea general, teniendo que informar de sus decisiones a la Junta de Gobierno en la primera reunión que se celebre.
+
+e) Visar las certificaciones que expida el Secretario.
+
+i) Autorizar los pagos, con cargo a los fondos del Colegio.
+
+g) Retirar fondos de las cuentas corrientes uniendo su firma a las que prevén los Estatutos,
+
+h) Interponer las acciones que procedan para el cobro de honorarios no satisfechos a los colegiados, de conformidad con lo dispuesto en el capítulo XI de estos Estatutos.
+
+i) Asistir como Consejero nato, representando al Colegio, a las reuniones del Consejo General cuando sea convocado.
+
+j) Para el cumplimiento de los fines citados y cualquier otro que le fuere encomendado, gozará de plena autoridad, y sus resoluciones serán cumplidas sin perjuicio de las reclamaciones que contra aquéllas puedan elevarse por los cauces que establece la Ley.
+
+k) Suspender los actos que se consideren nulos de pleno derecho, a que se refiere el artículo 8.º de la Ley de Colegios Profesionales.
+
+> Se modifica la letra h) por el art. 1.11 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 17. Funciones del Vicepresidente.
+
+El Vicepresidente sustituirá al Presidente en caso de enfermedad, ausencia o vacante, y llevará a cabo todas aquellas funciones que le confiera la Junta de Gobierno o delegue en él el Presidente, aparte de las que le corresponden como miembro de la Junta.
+
+### Art. 18. Funciones del Secretario.
+
+Corresponde al Secretario:
+
+a) Custodiar la documentación del Colegio.
+
+b) Organizar la función administrativa del Colegio y actuar como Jefe de Personal.
+
+c) Expedir certificaciones con el visto bueno del Presidente.
+
+d) Redactar la Memoria anual para su aprobación en la Asamblea general, verificar citaciones, redactar y firmar actas y Memorias y tramitar cuantas comunicaciones y documentos se refieran al Colegio.
+
+e) Atender e informar a los colegiados y a cuantas personas se interesen por asuntos concernientes al Colegio.
+
+f) Llevar un registro de los colegiados y los de actas de Asambleas generales y Juntas de Gobierno que se celebren.
+
+g) Aquellas que le correspondan en calidad de miembro de la Junta y las que sean propias de su función y necesarias para el buen desempeño de la misma.
+
+h) Formar parte de la Comisión de visados designada por la Junta de Gobierno. Signar con su rúbrica los visados que se efectúen y realizar su registro, debiendo denegar este requisito cuando se incumplan las normas reguladoras del visado colegial.
+
+> Se modifica la letra h) por el art. 1.12 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 19. Funciones del Vicesecretario.
+
+El Vicesecretario sustituirá al Secretario en caso de enfermedad, ausencia o vacante, y llevará a cabo todas aquellas funciones que le confiera la Junta de Gobierno o delegue en él el Presidente, aparte de las que la corresponden como miembro de la Junta.
+
+### Art. 20. Funciones del Tesorero.
+
+Le corresponde al Tesorero:
+
+a) Proceder al cobro o pago de las cantidades que el Colegio perciba o adeude, bajo las prevenciones que se determinen en el Reglamento.
+
+b) Verificar y firmar los recibos de recaudación.
+
+c) Llevar o supervisar los libras de contabilidad que sean necesarios.
+
+d) Ingresar y retirar fondos de las cuentas corrientes o depósitos, uniendo su firma a las de quienes determinen los Estatutos.
+
+e) Presentar el Balance y cuenta de resultados del ejercicio anterior y formular el presupuesto de ingresos y gastos del siguiente para someterlo a la aprobación de la Junta de Gobierno y Asamblea general.
+
+f) Aquellas que le correspondan en calidad de miembro de la Junta.
+
+### Art. 21. Funciones del Vicetesorero.
+
+El Vicetesorero sustituirá al Tesorero en caso de enfermedad, ausencia o vacante, y llevará a cabo todas aquellas funciones que le confiera la Junta de Gobierno o delegue en él el Presidente, aparte de las que le corresponden como miembro de la Junta.
+
+### Art. 22. Funciones de los Vocales.
+
+Como integrantes de la Junta de Gobierno, los Vocales participarán en los cometidos señalados a la misma y desempeñarán los específicos que aquélla les señale o confiera.
+
+## CAPÍTULO V — Régimen económico
+
+### Art. 23. Recursos ordinarios.
+
+Constituirán los recursos ordinarios del Colegio:
+
+a) Cuotas de entrada de los colegiados, cuya cuantía será determinada por la Asamblea general, pudiendo ser revisable. La incorporación a otros Colegios por traslado de residencia o por colegiación múltiple será gratuita.
+
+No se exigirá cuota de entrada a aquellos que soliciten la colegiación dentro de los doce meses posteriores a la terminación de su carrera.
+
+b) Cuotas periódicas ordinarias.–Serán fijadas por la Asamblea general. La forma de pago será determinada por la Junta de Gobierno.
+
+c) Las cantidades que genere el uso por los colegiados de los servicios colegiales. El cobro del servicio de visado deberá hacerse con arreglo a las normas aprobadas por la Asamblea General de colegiados.
+
+d) Los derechos que corresponda percibir al Colegio por expedición de certificaciones o cualquier documento administrativo que le sea solicitado y elaborado por éste.
+
+e) Los productos de los bienes y derechos de todas clases que posea el Colegio en propiedad o usufructo.
+
+f) Los ingresos que puedan obtenerse por venta de publicaciones e impresos autorizados.
+
+> Se modifica la letra c) por el art. único.3 del Real Decreto 861/2003, de 4 de julio. [Ref. BOE-A-2003-14407](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-14407).
+
+> Se modifica la letra c) por el art. 1.13 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 24. Recursos extraordinarios.
+
+a) Cuantos ingresos eventuales establezca la Asamblea general.
+
+b) Cuantos ingresos pueda procurarse o percibir.
+
+### Art. 25. Gastos del Colegio.
+
+a) Ordinarios. Serán los necesarios para el sostenimiento normal de su función, con arreglo a los presupuestos aprobados por la Asamblea general.
+
+Para el sostenimiento del Consejo General, los Colegios vendrán obligados inexcusablemente al pago de una aportación por cada colegiado censado, a excepción de los que, por norma legal o resolución de Junta y acuerdo del Consejo General, se encuentren dispensados de la cuota colegial. Dicha aportación será fijada por el Consejo General.
+
+b) Extraordinarios.–Deberán asimismo ser aprobados por la Asamblea general, previa formulación de un presupuesto adicional.
+
+> Se modifica la letra a) por el art. 1.14 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 26. Liquidación de bienes.
+
+a) En caso de que un Colegio sea absorbido por otro, será la Asamblea general del primero la que decida el destino de sus bienes pertenencias.
+
+b) En caso de disolución o reestructuración que afecte la naturaleza, constitución o fines del Colegio, sus bienes o pertenencias que pudieran resultar sobrantes después de satisfacer las deudas, se repartirán entre todos los colegiados que tengan, como mínimo, un año de antigüedad y proporcionalmente a los años de colegiación efectiva de cada uno de ellos, siempre y cuando figuren como altas.
+
+## CAPÍTULO VI — De las Delegaciones
+
+### Art. 27. Ámbito territorial.
+
+Cada Colegio establecerá una Delegación en cada capital de provincia que abarque su territorio, excluida la que constituya capitalidad del Colegio.
+
+La Asamblea general, si resulta procedente, podrá aprobar o imponer el establecimiento de Subdelegaciones en poblaciones cabecera de comarca.
+
+Los Colegios de ámbito provincial cuya dimensión territorial o las especiales condiciones de su distribución geográfica así lo aconsejen, podrán nombrar Delegados comarcales, que tendrán el rango de Vocales de la Junta de Gobierno, y cuya provisión de cargos se hará según se establece para éstos.
+
+### Art. 28. Organización.
+
+Al frente de cada Delegación habrá un Delegado, que estará asistido por una Comisión colaboradora. Esta Comisión será de libre elección por el Delegado y a ella pertenecerán las Subdelegados, el los hubiera, en la provincia.
+
+Atendiendo a cada Subdelegación habrá un Subdelegado, que dependerá de la Delegación a que pertenezca, y ante la cual servirá de enlace. Representará al Colegio en el ámbito que le es propio y asumirá las funciones que le confiera el Reglamento interno del Colegio.
+
+### Art. 29. Elección de cargos.
+
+Para la elección del Delegado en ámbito provincial, y con la suficiente antelación a la celebración de las elecciones en los Colegios de la Junta de Gobierno, se presentarán a ésta las correspondientes candidaturas para ocupar dicho cargo, que dará por válidas las propuestas una vez examinados los expedientes colegiales de los candidatos.
+
+Seguidamente tendrán lugar las elecciones en los Plenos Provinciales convocados al efecto. De los nombramientos se dará cuenta a la Asamblea general del Colegio constituida en su día.
+
+El resto del procedimiento electoral se atendrá a las normas generalas de estos Estatutos.
+
+La duración del cargo será de cuatro años, pudiendo ser reelegido, con las mismas limitaciones que expresa el artículo 12.
+
+### Art. 30. Funciones del Delegado.
+
+Además de las funciones propias que le confiere el artículo 22 de estos Estatutos, y las complementarias que le asigne la Junta de Gobierno, tendrá como misión específica la representación del Colegio en el ámbito provincial a todos los efectos.
+
+El Delegado asistirá a las Juntas de Gobierno como Vocal de la misma, y en caso de imposibilidad deberá hacerse representar por uno de los comisionados.
+
+Cuando el Delegado, por cualquier causa, no pueda hacerse cargo de la Delegación propondrá con antelación a la Junta de Gobierno el nombre de su sustituto, que tendrá carácter provisional hasta la provisión normal del cargo.
+
+### Art. 31. Plenos Provinciales.
+
+Estarán constituidos por el conjunto de colegiados residentes en la provincia, reuniéndose preceptivamente una vez al año para aprobación de presupuestos de la Delegación, para elección del cargo y otros asuntos de su competencia. Extraordinariamente se reunirá cuantas veces sea necesario, convocada por el Delegado, o a requerimiento de un 10 por 100 de los colegiados. Será potestativa la presencia del Presidente del Colegio o algún miembro de la Junta de Gobierno en quien delegue.
+
+Las conclusiones de propuestas en estos Plenos se reflejarán en acta, que se remitirá al Colegio para su conocimiento y efectos.
+
+### Art. 32. Recursos económicos de las Delegaciones.
+
+a) Ordinarios.–Los que les sean facilitados por el Colegio con arreglo a los presupuestos que se aprueben para cubrir las necesidades derivadas de su normal funcionamiento, y sean propuestas a la Junta de Gobierno del Colegio antes de la formulación de los mismos.
+
+b) Extraordinarios.–Los que el Pleno Provincial determine para cubrir un presupuesto extraordinario sancionado por la Asamblea del Colegio.
+
+Los bienes muebles o inmuebles que se adquieran para el normal funcionamiento de las Delegaciones figurarán en inventario a favor del Colegio.
+
+### Art. 33.
+
+Los recursos económicos de las Subdelegaciones dependerán de los de la Delegación correspondiente.
+
+### Art. 34. Liquidación de bienes.
+
+Se aplicarán las mismas normas establecidas en el artículo 28, b),
+
+## CAPÍTULO VII — De los colegiados
+
+### Art. 35. Obligatoriedad de colegiación. Colegiación única.
+
+Es requisito indispensable para el ejercicio de la profesión de Ingeniero Técnico Agrícola hallarse incorporado al Colegio correspondiente.
+
+Para ejercer en todo el territorio nacional bastará la incorporación a uno sólo de los Colegios de Ingenieros Técnicos Agrícolas y de Peritos Agrícolas. Este será el del domicilio único o principal del profesional; o, en su defecto, el del lugar donde se desarrolle efectivamente la profesión.
+
+> Se modifica por el art. 2 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 36. Régimen jurídico de la habilitación.
+
+1\. Cuando un colegiado haya de efectuar cualquier trabajo profesional en el ámbito territorial de otro Colegio deberá comunicar preceptivamente, a través del Colegio al que pertenezca, y con anterioridad a las mismas, las actuaciones profesionales que vaya a realizar a fin de quedar sujetos, con las condiciones económicas que en cada supuesto puedan establecerse, a las competencias de ordenación, visado, control deontológico y potestad disciplinaria.
+
+El colegiado presentará en su propio Colegio solicitud de habilitación en la que habrá de constar: su nombre y apellidos, dirección profesional, así como el servicio profesional concreto que constituya el objeto de la habilitación.
+
+El Colegio de procedencia cursará al Colegio receptor dicha solicitud, enviando certificado acreditativo de: su condición de colegiado, hallarse al corriente de sus obligaciones y cargas colegiales, y de la inexistencia de causa alguna que le inhabilite para el ejercicio de la profesión. Sólo se denegarán las habilitaciones si no se hubieren cumplido los requisitos establecidos en este precepto.
+
+Una vez cumplimentados los trámites anteriores, el colegiado quedará habilitado para la realización del acto profesional. La habilitación agotará sus efectos con el concreto servicio o acto profesional que constituía su objeto.
+
+2\. Por acuerdo de Junta General de cada Colegio Profesional podrán establecerse las condiciones económicas por la tramitación colegial de las habilitaciones.
+
+Los profesionales habilitados quedan sujetos a las potestades de ordenación deontológica, visado, y disciplina, vigentes en el Colegio receptor.
+
+> Se modifica por el art. 2 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 37. Clases de colegiados.
+
+a) De honor.
+
+b) Numerarios.
+
+Serán colegiados de honor aquellas personas naturales o jurídicas que, siendo o no Ingenieros Técnicos Agrícolas o Peritos Agrícolas, hayan rendido relevantes servicios a la profesión o figurado como colegiados durante una larga vida profesional, sean merecedores de tal distinción. El nombramiento será otorgado por la Junta de Gobierno por propia iniciativa o considerando la petición del interesado, ratificado por Asamblea general. Estos colegiados podrán estar eximidos del pago de cuotas, no podrán elegir ni ser elegidos para cargo alguno y tendrán derecho a voz pero no a voto en las Asambleas generales.
+
+Serán colegiados numerarios el resto de los colegiados. El colegiado numerario podrá ser, a la vez, colegiado de honor, y conservará su prerrogativa como tal numerario.
+
+> Se modifica por el art. 2 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 38. Condiciones de incorporación y pérdida de la condición de colegiado.
+
+1\. Son condiciones de incorporación al Colegio las siguientes:
+
+1.º Solicitar la admisión de la Junta de Gobierno, acompañando título original o certificado administrativo supletorio acreditativo de la superación de los estudios y abono de los derechos de expedición.
+
+2.º Declaración de no estar incurso en inhabilitación profesional ni colegial, como consecuencia de resolución judicial firme o sanción disciplinaria también firme.
+
+3.º Abonar la cuota de entrada vigente en el Colegio.
+
+Si el solicitante procede de otro Colegio territorial, deberá aportar certificado del Colegio de origen en sustitución del título, en que se expresará además si se halla al corriente de sus obligaciones colegiales, y que no está inhabilitado para el ejercicio profesional como consecuencia de sanción colegial.
+
+La Junta de Gobierno acordará, en el plazo de un mes, la denegación o la admisión de la colegiación. Si pasado dicho plazo no hubiera recaído resolución expresa, se entenderá que ésta es negativa.
+
+2\. La condición de colegiado se pierde:
+
+a) Por renuncia o baja voluntaria, comunicadas por carta certificada dirigida al Presidente del Colegio o documento con registro de entrada. No se concederá la baja colegial si el Colegio tiene constancia de que el solicitante persiste en el ejercicio de la profesión. La baja surtirá efecto el día primero del trimestre siguiente al que corresponda a la fecha de petición, con un mínimo de diez días de plazo.
+
+Ha de estar al corriente de sus obligaciones hasta la fecha que surta efectos.
+
+b) Por expulsión del Colegio, previo expediente disciplinario instruido por éste, en consonancia con lo prescrito en el capítulo VIII de estos Estatutos y de la Ley.
+
+c) Por sentencia judicial firme de incapacidad o inhabilitación.
+
+Los que causaren baja voluntaria cumpliendo con los requisitos que se fijan, y más tarde solicitaran su reincorporación, habrán de seguir igual trámite que para nueva solicitud de admisión, excepto la presentación de documentos referentes a su titulación, debiendo abonar la cuota de reincorporación que reglamentariamente esté establecida.
+
+> Se modifica por el art. 2 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 39. Obligaciones de los colegiados.
+
+a) Cumplir las normas reguladoras de la profesión, los Estatutos generales y particulares, los Reglamentos de régimen interior, las normas deontológicas o cualesquiera otras normas y acuerdos adoptados por el Colegio, el Consejo General o el Consejo Autonómico, en su caso.
+
+b) Pagar las cuotas y derechos aprobados por el Colegio.
+
+c) Poner en conocimiento del Colegio a quienes ejerzan actos propios de la profesión sin poseer el título que para ello les faculte; a los que, aun teniéndolo, no estén colegiados y a los que siendo colegiados faltan a las obligaciones que como tales han contraído.
+
+d) Someter al visado y registro del Colegio todos los trabajos profesionales, sea quien fuere el destinatario. Este trámite se realizará en el Colegio en cuya demarcación se vaya a desarrollar el trabajo profesional, de conformidad con lo dispuesto en los Estatutos.
+
+e) Someterse en las diferencias profesionales que se produzcan entre colegiados al arbitraje y conciliación del Colegio en primer término, sin perjuicio de interponer, en su caso, el recurso procedente.
+
+f) En los trabajos profesionales que realice observar todas las normas y preceptos que establece la legislación vigente, las dictadas por el Colegio y por el Consejo General y aquellas otras encaminadas a mantener y elevar el prestigio, dignidad, decoro y ética profesional.
+
+g) Cumplir con respecto a los órganos directivos del Colegio y del Consejo General y con los colegiados los deberes de disciplina, respeto y armonía profesionales.
+
+> Se modifica por el art. 2 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 40. Derechos de los colegiados.
+
+a) Actuar profesionalmente en todo el ámbito nacional, en los términos previstos en la vigente legislación sobre Colegios Profesionales y en estos Estatutos.
+
+b) Participar en la gestión corporativa, ejerciendo el derecho de petición, el de voto y el de acceso a los puestos y cargos directivos, mediante los procedimientos que establecen estos Estatutos.
+
+c) Participar en el uso y disfrute de los bienes del Colegio y de los servicios que éste tenga establecidos.
+
+d) Llevar a cabo los trabajos que sean solicitados al Colegio por organismos oficiales, entidades o particulares, y que les corresponda, respetándose el turno previamente formado.
+
+e) Ser representado o defendido por el Colegio, por el Consejo autonómico o, en caso necesario, por el Consejo General, cuando necesiten presentar reclamaciones justas, bien individual o colectivamente, ante la Administración, instituciones, tribunales, entidades o particulares, y en cuantas divergencias surjan en ocasión de ejercicio profesional.
+
+f) Ser informado de la situación económica de su Colegio, de oficio o a petición propia.
+
+> Se modifica por el art. 2 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 41. Atribuciones de los colegiados.
+
+La competencia y atribuciones profesionales de los colegiados, en ejercicio de la profesión, serán las que les correspondan con arreglo al vigente ordenamiento jurídico.
+
+> Se modifica por el art. 2 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+## CAPÍTULO VIII — Del régimen disciplinario
+
+### Art. 42. Ejercicio de la función disciplinaria
+
+Los Colegios sancionarán disciplinariamente todas las acciones y omisiones de los colegiados que infrinjan las normas reguladoras de la profesión, los Estatutos generales y particulares, los Reglamentos de régimen interior, las normas deontológicas o cualesquiera otras normas colegiales.
+
+> Se modifica por el art. 3 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 43. Infracciones
+
+Las faltas se clasificarán en leves, graves y muy graves.
+
+1\. Son faltas graves:
+
+a) La desconsideración hacia los compañeros, tanto en relación con la actividad de carácter colegial como profesional.
+
+b) Los actos de desconsideración ofensiva hacia los miembros de la Junta de Gobierno o del Consejo General.
+
+c) La desatención a los cargos colegiales, sea de Junta de Gobierno, sea de Consejo General, como consecuencia de la falta de asistencia no justificada.
+
+d) Encubrimiento del intrusismo profesional, o la colaboración al ejercicio de actividades propias de la profesión de Ingeniero Técnico Agrícola por quien no reúna la debida aptitud legal para ello.
+
+e) Incumplimiento de los deberes, colegiales y profesionales, del Ingeniero Técnico Agrícola, determinados en la normativa deontológica vigente.
+
+f) Incumplimiento de acuerdos emanados de Asambleas generales del Colegio, de la Junta de Gobierno del Colegio, y del Consejo General.
+
+g) La realización de trabajos profesionales con omisión del preceptivo visado colegial; incumplir las normas estatutarias o colegiales sobre visado con daño grave del prestigio de la profesión o de los intereses legítimos de terceros; así como la efectiva prestación del servicio profesional cuando el trabajo no ha sido visado por el Colegio en cuyo ámbito se desarrolla la actuación profesional.
+
+h) Falseamiento o inexactitud grave de la documentación profesional; y ocultación o simulación de datos que el Colegio debe conocer para ejercitar sus funciones de control profesional o para el reparto equitativo de las cargas colegiales.
+
+i) La realización de trabajos o intervenciones profesionales que por su índole atentan al prestigio profesional, o que su ejecución no cumpla las normas establecidas por las leyes o por el Colegio.
+
+2\. Son leves las infracciones no comprendidas en el apartado anterior y las que, aun estándolo, revistan menor entidad por concurrir alguna de estas circunstancias: falta de intencionalidad; o escasa importancia del daño causado.
+
+3\. Merecerán la calificación de muy graves, las infracciones reputadas como graves en las que concurra alguna de estas circunstancias: intencionalidad manifiesta; negligencia profesional inexcusable; desobediencia reiterada a acuerdos colegiales; daño o perjuicio grave al cliente o a terceros; obtención de lucro ilegítimo merced a la actuación ilícita; hallarse en el ejercicio de cargo público o colegial al cometer la infracción, cuando exista prevalimiento de esta condición; haber sido sancionado anteriormente, por resolución colegial firme no cancelada, a causa de una infracción grave.
+
+> Se modifica por el art. 3 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 44. Sanciones.
+
+Podrán imponerse las siguientes sanciones:
+
+1.ª Amonestación privada.
+
+2.ª Apercibimiento por oficio.
+
+3.ª Amonestación pública.
+
+4.ª Suspensión en el ejercicio profesional hasta un mes.
+
+5.ª Suspensión en el ejercicio profesional entre un mes y un día y un año.
+
+6.ª Suspensión en el ejercicio profesional entre un año y un día y dos años
+
+7.ª Expulsión del Colegio.
+
+Las sanciones 4.ª a 7.ª implican la accesoria de suspensión de derechos electorales por el tiempo de su duración, así como el cese en los cargos colegiales que se ejercieren.
+
+> Se modifica por el art. 3 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 45. Correspondencia entre infracciones y sanciones.
+
+A las infracciones leves corresponderán las sanciones 1.ª a 2.ª A las infracciones graves las sanciones 3.ª a 5.ª Y a las muy graves las sanciones 6.ª y 7.ª
+
+> Se modifica por el art. 3 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 46. Competencia y recursos.
+
+La Junta de Gobierno, en cada Colegio, ejercerá la función disciplinaria, imponiendo, en su caso, las sanciones correspondientes.
+
+Corresponde al Consejo General la imposición de sanciones por la actuación, profesional o colegial, de sus propios miembros, y de los miembros de las Juntas de Gobierno de los Colegios territoriales en el supuesto de que no estuviera constituido el correspondiente Consejo Autonómico.
+
+Contra las sanciones impuestas por la Junta de Gobierno cabe recurso ordinario ante el Consejo General, cuando así se disponga en los Estatutos del Colegio correspondiente. Y contra las sanciones acordadas en primera instancia por el Consejo General, cabrá recurso corporativo ante el propio Consejo General frente a las mismas, en los términos señalados en el capítulo X.
+
+> Se modifica por el art. 3 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 47. Procedimiento disciplinario.
+
+1\. Iniciación. El procedimiento disciplinario se iniciará de oficio por la Junta de Gobierno; o a instancia de parte del Presidente del Colegio, del respectivo Delegado, o en virtud de denuncia firmada por un Ingeniero Técnico Agrícola o por un tercero con interés legítimo.
+
+El órgano titular de la función disciplinaria, a la vista de los antecedentes disponibles, ordenará el archivo de las actuaciones o dar trámite al expediente, designando, en ese momento, a un instructor.
+
+2\. Instrucción. Tras las oportunas diligencias indagatorias, el Instructor propondrá el sobreseimiento del expediente, si no encontrara indicios de ilícito disciplinario, o formulará pliego de cargos, en caso contrario. En el pliego de cargos habrá de indicarse con precisión y claridad, y debidamente motivados: los actos profesionales o colegiales que se presumen ilícitos; la calificación del tipo de infracción en que incurre aquella conducta; así como la sanción a que, en su caso, puede ser acreedora la misma. Se concederá al expedientado un plazo de quince días hábiles para que pueda contestar por escrito, formulando el oportuno pliego de descargos.
+
+En el expediente son admisibles todos los medios de prueba admisibles en derecho, correspondiente al Instructor la práctica de las que habiendo sido propuestas estime oportunas o las que él mismo pueda acordar. De las audiencias y pruebas practicadas deberá existir constancia escrita en el expediente.
+
+3\. Resolución. Concluida la instrucción del expediente disciplinario, el Instructor lo elevará, con la correspondiente propuesta de resolución, al órgano disciplinario, ante el cual se concederá al expedientado nuevo trámite de audiencia, para que pueda alegar cuanto estime oportuno o conveniente a su derecho. El instructor no podrá intervenir en las deliberaciones ni en la toma de decisión del órgano disciplinario.
+
+Este procedimiento disciplinario podrá ser desarrollado, de conformidad con lo dispuesto en este Estatuto general, por los Estatutos particulares de cada Colegio.
+
+El mismo será aplicable tanto para la instrucción de expedientes por las Junta de Gobierno de los Colegios territoriales, como por el propio Consejo General.
+
+> Se modifica por el art. 3 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 48. Prescripción de infracciones y sanciones. Cancelación.
+
+Las infracciones prescriben: a) las leves: a los seis meses; b) las graves: al año; y c) las muy graves: a los dos años.
+
+Las sanciones prescriben: a) las leves: a los seis meses; b) las graves: al año; y c) las muy graves: a los dos años.
+
+Los plazos de prescripción de las infracciones comenzarán a contar desde la comisión de la infracción. Y los de las sanciones desde su firmeza. La prescripción de las infracciones se interrumpirá por cualquier actuación colegial expreso y manifiesto dirigido a investigar la presunta infracción. La realización de cualquier acto colegial expreso y manifiesto de ejecución de la sanción interrumpirá el plazo de prescripción de la misma.
+
+La cancelación supone la anulación del antecedente sancionador a todos los efectos. Las sanciones leves se cancelarán al año; las graves a los dos años; y las muy graves a los cuatro años.
+
+> Se modifica por el art. 3 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+## CAPÍTULO IX — Del Consejo General
+
+### Art. 49. Consejo General.
+
+El Consejo General es el órgano superior representativo y coordinador de los Colegios Oficiales de Ingenieros Técnicos Agrícolas y Peritos Agrícolas de España. Tiene a todos los efectos la condición de Corporación de Derecho Público, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines. Goza de exclusividad para asumir la representación corporativa de los Ingenieros Técnicos Agrícolas, así como de la profesión.
+
+> Se modifica por el art. 4.1 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 50. Relaciones con las Administraciones Públicas y sede.
+
+El Consejo General se relacionará con la Administración General del Estado a través del Ministerio de Agricultura, Pesca y Alimentación; y, en su caso, con las Administraciones Autonómicas, a través de la Consejería competente. El domicilio del Consejo General radicará en la capital del Estado.
+
+> Se modifica por el art. 4.2 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 51. Constitución.
+
+En el Consejo estarán integrados obligatoriamente todos los Colegios de España.
+
+Lo constituyen: el Presidente, cuatro Vicepresidentes, Secretario general, Tesorero y todos los Presidentes de los Colegios a título de Consejeros natos en reunión previamente convocada a Pleno.
+
+### Art. 52. Organización y funcionamiento.
+
+Para al cumplimiento de las funciones que le son propias, el Consejo General constituirá una Comisión Ejecutiva en calidad de Órgano de Gobierno permanente, cuatro comisiones permanentes y las comisiones de trabajo que sean necesarias.
+
+a) La Comisión Ejecutiva estará formada por el Presidente del Consejo General, cuatro Vicepresidentes, un Secretario general y un Tesorero, en su condición de Consejeros. El Secretario general y el Tesorero, con voz pero sin voto en los Plenos del Consejo General, tendrán voz y voto en las reuniones de la Comisión Ejecutiva. Esta Comisión podrá ser asistida por un Secretario Técnico y por los Vocales colaboradores que estime necesario, los cuales tendrán voz pero no voto.
+
+Funcionará como Órgano ejecutivo del Pleno del Consejo, tendrá dos secciones. La Decisoria, integrada por el Presidente y los cuatro Vicepresidentes, y la Gestora y Asesora, integrada por el Presidente, el Secretario general, el Secretario Técnico y Tesorero. Se reunirá preceptivamente una vez al mes en sesión ordinaria, y en sesión extraordinaria por citación del Presidente o cuando lo soliciten por escrito, al menos, tres miembros de la misma, pudiendo reunirse separadamente la Sección Decisoria y la Gestora cuando a juicio del Presidente sea permisible.
+
+b) Las cuatro Comisiones Permanentes estarán constituidas por cuatro Consejeros, Presidentes de Colegios, y presididas por cada uno de los Vicepresidentes. Estarán asistidos por el Secretarlo Técnico.
+
+Las Comisiones Permanentes serán los que se mencionan y con los admitidos que se les asignan, sin perjuicio de crear por el Consejo alguna otra para misiones no previstas en estos Estatutos.
+
+Se reunirán trimestralmente, como mínimo, en sesión ordinaria, y con carácter extra-ordinario, con la frecuencia y periodicidad que el tema de trabajo imponga.
+
+Las Comisiones Permanentes son:
+
+— Comisión Permanente de Escuelas Universitarias y de Formación Profesional.
+
+Coordinará y recibirá la información y sugerencias sobre planes de estudios, programas y todo lo que sirva para la ordenación y regulación de la formación universitaria de nuestros titulados y la especialización de los mismos. Sus informes, dictámenes y proyectos se depondrán ante la Comisión Ejecutiva, y tras aprobación por su parte, ante el Pleno del Consejo General, quien con su aprobación las hará suyas, defendiéndolas y trasladándolas a los Órganos pertinentes.
+
+Asimismo informará los planes de Seminarios, cursillos, conferencias programados por los Colegios y por el Consejo General, a los que aportará sus conocimientos y experiencias en la materia, procurando la normalización de diplomas y certificados de estudios que éstos impartan.
+
+— Comisión Permanente de Atribuciones y Competencias.
+
+Entenderá en las disposiciones que regulan el ejercicio profesional, informará, estudiará y dictaminará en los proyectos y sugerencias que dimanen de la Administración y de los Colegios, en torno a éste, y elaborará, a encomienda del Consejo, proyectos de disposiciones reguladoras del mismo.
+
+Análogamente actuará en todo cuanto concierna a problemas de atribuciones y competencias interprofesionales y a la regulación de normas de convivencia y armonía.
+
+Evacuará consultas de los Colegios y de los colegiados sobre cuestiones aplicativas e interpretativas de las disposiciones que atañen a los temas de atribuciones y competencias de nuestros profesionales.
+
+— **(Párrafo derogado)**
+
+— Comisión Permanente de Estatutos, Reglamentos y Legislación Profesional Colegiada.
+
+Elaborará, informará y actualizará los Estatutos y Reglamentos que contemplan la legislación vigente y cualquiera disposición que ordene y regule el funcionamiento de los Órganos colegiados de nuestra profesión, tanto dimanantes de la Administración como de los Colegios.
+
+Evacuará consultas del Consejo y de los Colegios sobre interpretaciones y aplicaciones de las disposiciones en vigor.
+
+c) La Comisión Ejecutiva podrá adoptar acuerdos de urgencia y ponerlos en ejecución, tanta por sí misma como a propuesta de alguna de las Comisiones Permanentes, quedando obligada a someterlos a ratificación del primer Pleno del Consejo que se celebre tras su adopción.
+
+Las Comisiones de trabajo estarán formadas por aquellos Consejeros que para cada caso designe el Pleno o el Presidente del Consejo, quienes a su vez estarán auxiliados por los colaboradores que crean convenientes.
+
+> Se deroga la regulación de la «Comisión Permanente de Honorarios y Retribuciones» por el art. 4.3 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 53. Funciones del Consejo General.
+
+Al Consejo General le corresponde:
+
+1\. Elaborar los Estatutos generales de los Colegios Oficiales de Ingenieros Técnicos Agrícolas y Peritos Agrícolas de España y del propio Consejo y aprobar y visar los Reglamentos de régimen interior de los Colegios.
+
+2\. Armonizar las actividades profesionales de los Ingenieros Técnicos AgrícoIas y Peritos Agrícolas en servicio de los altos intereses de la Nación, y velar por que los Colegios cumplan y hagan cumplir las disposiciones oficiales relacionadas con la profesión y los preceptos de estos Estatutos y Reglamentos que los complementen y desarrollen.
+
+3\. Dirimir los conflictos que puedan suscitarse entre los distintos Colegios, estrechando los lazos de afecto entre los mismos y procurando la unificación de criterio y la coordinación de los esfuerzos precisos para toda acción eficaz.
+
+4\. Resolver los recursos que se interpongan contra los acuerdos de los Colegios, cuando así esté previsto en sus Estatutos particulares, o lo disponga la correspondiente legislación autonómica.
+
+5\. Ejercer las funciones disciplinarias con respecto a los miembros del Consejo General, y de las Juntas de Gobierno de los Colegios Territoriales en el supuesto de que no esté constituido el correspondiente Consejo Autonómico.
+
+6\. Aprobar sus presupuestos y regular y fijar equitativamente las aportaciones de los Colegios.
+
+7\. Informar preceptivamente todo proyecto de modificación de la legislación sobre Colegios profesionales.
+
+8\. Informar los proyectos de disposiciones generales de carácter fiscal que afecten concreta y directamente a la profesión.
+
+9\. Asumir la representación de sus profesionales ante las Entidades similares en otras naciones.
+
+10\. Organizar con carácter nacional instituciones y servicios de asistencia y previsión y colaborar con la Administración para la aplicación a los profesionales colegiados del sistema de Seguridad Social adecuado.
+
+11\. Tratar de conseguir el mayor nivel de empleo de los colegiados, colaborando con la Administración en la medida que resulte necesario.
+
+12\. Adoptar las medidas que estime convenientes para completar provisionalmente con los colegiados más antiguos las Juntas de Gobierno de los Colegios cuando se produzcan las vacantes de más de la mitad de los cargos de aquéllas. La Junta Provisional, así constituida, ejercerá sus funciones hasta que tomen posesión los designados en virtud de elección, que se convocará con carácter extraordinario en el plazo máximo de treinta días.
+
+13\. Representar a los Colegios Oficiales, defendiendo los derechos profesionales y colegiales ante los Organismos del Estado, Tribunales y autoridades de la Administración.
+
+14\. Inspeccionar, cuando lo estime conveniente, el funcionamiento y actuación de los Colegios adoptando, en su caso, las medidas necesarias para regularizar su desenvolvimiento.
+
+15\. Podrá examinar los presupuestos y balances anuales de todos los Colegios Oficiales y la memoria anual de sus actividades que éstos darán a conocer al Consejo General en un plazo no superior a treinta días desde su aprobación por la Asamblea general de cada Colegio.
+
+16\. Editar publicaciones profesionales, siempre que las disponibilidades económicas lo permitan.
+
+17\. Editar los impresos oficiales para los informes que expidan los colegiados, como asimismo aquellos otros documentos que considere de carácter general y obligatorio, informando a las autoridades, Organismos oficiales y Corporaciones de la invalidez de las actuaciones que no vayan extendidas en tales impresos.
+
+18\. Emitir cuantos informes le sean pedidos por el Estado, Corporaciones oficiales o por los colegios de Ingenieros Técnicos Agrícolas y Peritos Agrícolas, o que acuerde formular por sí mismo, tanto de carácter técnico como respecto a asuntos relacionados con los fines propios, así del Consejo como de los Colegios o sus colegiados como asimismo sobre la interpretación y aplicación de estos Estatutos.
+
+19\. Estimular los sentimientos corporativos de todo orden, y en especial aquellos que tiendan a contribuir al progreso científico y al bienestar individual y colectivo de los profesionales.
+
+20\. Participar en la organización de la enseñanza profesional y realizar cuantas gestiones sean precisas para representar a sus colegiados en los Organismos del Estado que la rijan, elevando a la superioridad las propuestas que la experiencia profesional aconseje, en relación con los planes de estudios y creación de nuevas Escuelas.
+
+21\. Perseguir el intrusismo ejerciendo la vigilancia precisa y las acciones procedentes para impedir su existencia.
+
+22\. Estar en relación constante con el Poder público para todos los problemas que afecten al ejercicio de la profesión, reivindicando sus derechos y el público respeto de su dignidad, o interviniendo en la redacción de disposiciones que regulen las atribuciones y competencias de sus titulados.
+
+23\. Entablar todas aquellas acciones judiciales que considere necesarias en defensa de sus intereses profesionales, incluso ante el Tribunal Supremo, sin perjuicio de la legitimación que corresponda a cada uno de los Colegios. A cuyos efectos podrán:
+
+1\. Instar actas notariales de todas clases, hacer, aceptar y contestar notificaciones y requerimientos notariales.
+
+2\. Comparecer ante Centros y Organismos del Estado, provincia y municipio, Jueces, Tribunales, Fiscales, Sindicatos, Delegaciones, Comités, Juntas, Jurados y Comisiones. Y en ellos, instar, seguir y terminar como actor, demandado o en cualquier otro concepto, toda clase de expedientes, juicios y procedimientos civiles, penales, administrativos, contencioso-administrativos, gubernativos, laborales, de todos los grados, jurisdicciones e instancias, elevando peticiones y ejerciendo acciones y excepciones en cualesquiera procedimientos, trámites y recursos, incluso de casación, prestar las facultades que detalle, revocar poderes y sustituciones.
+
+3\. Interponer toda clase de recursos ante la Administración del Estado, provincia o municipio.
+
+4\. Otorgar poderes o delegar todas o algunas de las facultades expuestas al Presidente, o conjunta o separadamente a uno o varios Consejeros, y
+
+5\. Aceptar, desempeñar y renunciar mandatos y poderes de los Colegios.
+
+24\. Regular y ordenar todas aquellas actividades colegiales o profesionales que no estén comprendidas en el presente Estatuto.
+
+25\. Acordar la celebración de Asambleas nacionales y convocar y organizar Congresos internacionales de profesionales.
+
+26\. Cursar todas las peticiones, instancias o reclamaciones que los Colegios Oficiales de Ingenieros Técnicos Agrícolas y Peritos Agrícolas hayan de formular a los Organismos centrales de Poder público, informándoles, si lo estimara procedente.
+
+27\. Intervenir en el funcionamiento de cualquier Colegio cuando, previa información fundamentada y suficiente, se considere éste como anormal e incidente en detrimento del espíritu colegial, ordenando a su Junta de Gobierno la convocatoria y celebración de una Asamblea general. A ésta asistirá el Presidente del Consejo y los miembros de la Comisión Ejecutiva que se designen en el Pleno, de los que dos, cuando menos, serán Vicepresidentes.
+
+28\. Serán también funciones del Consejo General todas las atribuidas por el artículo 5.º de la Ley 2/1974, de 13 de febrero, y por estos Estatutos, a los Colegios en cuanto tengan ámbito o repercusión nacional.
+
+29\. En general, en materia económica y sin exclusión alguna, realizar, respecto al patrimonio propio del Consejo, toda clase de actos de disposición y gravamen y, en especial:
+
+Uno. Administrar bienes.
+
+Dos. Pagar y cobrar cantidades.
+
+Tres. Hacer efectivos libramientos, dar o aceptar bienes en o para pago.
+
+Cuatro. Otorgar transacciones, compromisos y renuncias.
+
+Cinco. Comprar, vender, retraer y permutar, pura o condicionalmente con precio confesado o aplazado o pagado al contado, toda clase de bienes, muebles e inmuebles, derechos reales y personales.
+
+Seis. Disolver comunidades de bienes y condominios, declarar obras nuevas, mejoras, excesos de cabida.
+
+Siete. Constituir, aceptar, dividir, enajenar, gravar, redimir y extinguir usufructos, servidumbres, opciones y arrendamientos inscribibles y demás derechos reales.
+
+Ocho. Constituir hipotecas.
+
+Nueve. Tomar parte en concursos y subastas, hacer propuestas y aceptar adjudicaciones.
+
+Diez. Aceptar, con beneficio de inventario, y repudiar herencias y hacer, aprobar o Impugnar particiones de herencia y entregar y recibir legados.
+
+Once. Contratar, modificar, rescindir y liquidar seguros de toda clase.
+
+Doce. Operar en Cajas oficiales, Cajas de Ahorro y Bancos, incluso el de España y sus sucursales, haciendo todo cuanto la legislación y prácticas bancarias permitan; seguir abrir y cancelar cuentas y libretas de ahorro, cuentas corrientes y de crédito y cajas de seguridad.
+
+Trece. Librar, aceptar, endosar, cobrar, intervenir y negociar letras de cambio y otros efectos.
+
+Catorce. Comprar, vender, canjear y pignorar valores y cobrar sus intereses, dividendos y amortizaciones, concertar pólizas de crédito, ya sea personal o con pignoración de valores, con bancos y establecimientos de crédito, incluso el Banco de España y sus sucursales, firmando los oportunos documentos, y
+
+Quince. Modificar, transferir, cancelar, retirar y constituir depósitos de efectivo o valores provisionales o definitivos.
+
+30\. Formar y mantener el censo de los Ingenieros Técnicos Agrícolas y Peritos Agrícolas españoles y extranjeros con capacidad legal para ejercer la profesión en el territorio nacional, preceptivamente colegiados.
+
+31\. Designar representantes de la profesión para su participación en los Consejos u organismos consultivos de la Administración de ámbito nacional o supranacional.
+
+32\. Y en fin, realizar cuantas funciones y prerrogativas están establecidas en las disposiciones vigentes y todas aquellas que, no expresamente enunciadas, sean concomitantes o consecuencia de las anteriores y tengan cabida en el espíritu que las informe.
+
+El Consejo General acordará lo conducente para el desarrollo de estas facultades.
+
+> Se modifican los apartados 4, 5, 12, 15 y 31 por el art. 4.4 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 54. Reuniones.
+
+El Consejo General se reunirá, con carácter ordinario, previa convocatoria al efecto de su Presidente dos veces al año. La primera, que se celebrará en el primer semestre, tendrá por objeto la sanción del balance, cuentas del año anterior y memoria de actividades. En la segunda, a celebrar en el último trimestre, se tratará en todo caso, y como mínimo, el examen y aprobación de presupuestos de ingresos y gastos para el año próximo.
+
+La convocatoria, con el orden del día, deberá cursarse a la organización colegial con treinta días naturales de antelación a la fecha de celebración de los Plenos ordinarios y con veinte días para los extraordinarios. El contenido de la memoria, balance y presupuesto deberá cursarse con una antelación mínima de veinte días naturales.
+
+> Se modifica por el art. 4.5 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 55. Asistencia.
+
+A los Plenos será obligatoria la asistencia de todos los Consejeros. Los Presidentes de Colegio, por causa justificada, podrán delegar jerárquicamente en un miembro de la Junta de Gobierno.
+
+Para que sean válidos los acuerdos de los Plenos deberán asistir a éstos más de la mitad de los Consejeros.
+
+### Art. 56. Votaciones.
+
+En los Plenos cada Consejero dispondrá de un voto, y los acuerdos se tomarán por la mayoría simple de votos, tal como se define en el artículo 9. o , de los Consejeros presentes, salvo aquellas que por su trascendencia requieran mayoría absoluta o mayoría cualificada de la base colegial. En caso de empate decidirá el voto de calidad del Presidente del Consejo. Los acuerdos del Pleno obligan a todos sus miembros, incluidos los que se hubieran abstenido o votado en contra.
+
+Ningún Consejero podrá ausentarse del salón de sesiones hasta que, hecho el recuento de votos, el Presidente haya declarado el resultado. Iniciada la votación no se interrumpirá por causa alguna ni se concederá la palabra a Consejero alguno.
+
+> Se modifica por el art. 4.6 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 57. Elección de cargos.
+
+El Presidente del Consejo será elegido por el Consejo General entre los colegiados de mayor prestigio y más relevantes méritos y aptitudes, previa su dimisión de cualquier otro cargo en la organización colegial.
+
+La vacante de la Presidencia se producirá por fallecimiento, incapacidad, dimisión, inhabilitación o cese estatutario. El Presidente podrá ser destituido cuando la moción de destitución obtenga la mayoría absoluta del Pleno.
+
+Al producirse la vacante, el Vicepresidente primero asumirá sus funciones hasta la elección de nuevo Presidente, no pudiendo presentar su dimisión por solidaridad hasta estar elegido y posesionado el nuevo Presidente.
+
+El Vicepresidente, en funciones de Presidente, comunicará a los Consejeros y Colegios dicha circunstancia en el plazo máximo de quince días naturales siguientes a la fecha en que se produjo. Asimismo fijará un plazo de treinta días naturales, a partir de la fecha de su comunicación, para recibir candidaturas al cargo de Presidente. Estas se presentarán, ante la Comisión Ejecutiva, respaldadas por un mínimo de veinte firmas de colegiados, en las que, al menos dos serán de Consejeros natos.
+
+La Comisión Ejecutiva, dentro de los treinta días naturales siguientes a la fecha de expiración del plazo de recepción de candidaturas, comunicará a todos los Consejeros y Colegios cuáles han sido admitidas y rechazadas, y dando un plazo de quince días para la recusación de la resolución. Terminado éste se fijará la fecha del Pleno, en el que se procederá a la elección de nuevo Presidente del Consejo,
+
+Para cubrir las vacantes de los cargos de Vicepresidente, Secretario general y Tesorero, el Presidente hará la correspondiente propuesta para su elección por el Consejo General en Pleno.
+
+Todas las personas propuestas para la provisión de un cargo tendrán que cumplir los requisitos que establece la Ley a estos efectos.
+
+Se nombrará Presidente de la Mesa electoral al Consejero de mayor antigüedad de incorporación al Consejo, y Escrutadores a los dos Consejeros de más reciente incorporación. Será Secretario el del Consejo.
+
+Constituida la Mesa electoral se llamará a los señores Consejeros por orden alfabético de su Colegio a depositar su papeleta de votación en la urna preparada al efecto.
+
+Concluida a votación se procederá al escrutinio, con los criterios y normas del artículo 12 de estos Estatutos, recogiéndose en el acta del Pleno en el que se celebran las alecciones las incidencias y resultados de la misma.
+
+Finalizado el Pleno en el que se celebró la elección, y agotado su orden del día, el Consejo se constituirá en Pleno extraordinario para dar posesión de sus cargos a los elegidos.
+
+### Art. 58. Funciones.
+
+1\. Del Presidente.–Le corresponden el Presidente las siguientes funciones:
+
+a) Ostentar plenamente, y en todos los casos, la representación del Consejo General ante los Poderes públicos Tribunales de Justicia, Entidades, Corporaciones y personas jurídicas y naturales de cualquier orden, velando por el más exacto cumplimiento de las disposiciones legales, de cuanto se previene en estos Estatutos y de los acuerdos que se tomen por la Asamblea nacional, por el Pleno del Consejo General y la Comisión Permanente.
+
+b) Convocar al Consejo General y a la Asamblea nacional, señalando día y hora para las sesiones; presidir las que celebren estos Órganos, encauzando la discusión y evitando que se traten en ellas asuntos ajenos al orden del día, declarando terminada la discusión de un tema después de consumidos los turnos reglamentarios y levantando la sesión cuando lo estime oportuno.
+
+c) Decidir con su voto de calidad las votaciones en las que haya resultado empate, después de haber hecho uso de su voto de propiedad.
+
+d) Autorizar con su visto bueno las actas de cuantas sesiones se celebren.
+
+e) Presidir las Comisiones de trabajo que se designen para cualquier asunto, si así lo estima conveniente, o delegar en un Consejero.
+
+f) Visar las certificaciones que expida el Secretarlo general del Consejo.
+
+g) Autorizar los pagos que hayan de verificarse, con cargo a los fondos del Consejo.
+
+h) Retirar fondos de las cuentas corrientes, uniendo al efecto su firma a la del Tesorero.
+
+i) Constituir o retirar depósitos, comprar o vender fondos públicos y, en general bienes, muebles o inmuebles y constituir o levantar hipotecas sobre el patrimonio del Consejo General, previo acuerdo de éste.
+
+j) Nombrar las Comisiones o grupos de trabajo que juzgue necesario para el mejor desarrollo de la organización colegial, con refrendo del Pleno.
+
+k) Designar o separar al Secretario Técnico y a los Vocales colaboradores de la Comisión Ejecutiva cuando lo estime oportuno.
+
+l) Llevar la dirección del Consejo, decidiendo en cuantos asuntos fuera de notoria urgencia, oída a ser posible la Comisión Permanente, y sometiendo sus decisiones al Consejo General.
+
+ll) Nombrar, en caso de litigio, los Abogados y Procuradores que defiendan y hagan valer los derechos del Consejo General y los de la profesión en general.
+
+m) Suspender los actos que se consideren nulos de pleno derecho, a que se refiere el artículo 8 de la Ley de Colegios Profesionales.
+
+2\. De los Vicepresidentes.–Los Vicepresidentes se denominarán 1.º, 2.º, 3.º y 4.º, desempeñando las funciones de Presidente interinamente cuando les sean conferidas por el orden indicado, sin menoscabo de sus funciones normales, asumiendo las de aquél en caso de ausencia, enfermedad, abstención, recusación o vacante.
+
+Presidirán las Comisiones Permanentes que representarán los cuatro sectores en que se considera deben estructurarse la problemática profesional.
+
+3\. De los Consejeros.–Corresponde a los Consejeros:
+
+a) Conocer y decidir sobre todos los asuntos que han de someterse al Pleno.
+
+b) Emitir obligatoriamente su voto en los asuntos deliberados en el Pleno.
+
+c) Presentar propuestas ante el Pleno del Consejo General para ser sometidas a votación y acuerdo.
+
+d) Formar parte de las Comisionas Permanentes y de trabajo que designen, auxiliados por los asesores pertinentes, afrontando los cometidos encomendados.
+
+e) Velar por el cumplimiento de estos Estatutos y de los acuerdos tomados por el Pleno del Consejo General.
+
+4\. Del Secretario general.–El Secretario general tiene asignadas las siguientes funciones:
+
+a) Dirigir y firmar las citaciones para todas las sesiones y actos de la Comisión Permanente, del Pleno del Consejo General y de la Asamblea nacional, según ordene el Presidente.
+
+b) Redactar y firmar las actas de las sesiones de los Órganos mencionados en el párrafo anterior, sometiéndolas al visado del Presidente.
+
+c) Llevar los correspondientes libros de actas y de entrada y salida de documentos.
+
+d) Extender y autorizar las comunicaciones, órdenes y circulares que hayan de dirigirse por orden del Presidente.
+
+e) Recibir y dar cuenta al Presidente de todas las comunicaciones dirigidas al Consejo General.
+
+f) Redactar la Memoria anual que ha de presentar al Consejo General.
+
+g) Custodiar el sello y documentación del Consejo General.
+
+h) Expedir las certificaciones que se soliciten con el visto bueno del Presidente.
+
+i) Llevar el fichero circunstanciado de todos los Ingenieros Técnicos Agrícolas y Peritos Agrícolas de España colegiados.
+
+j) Será el Jefe de Personal y de las dependencias administrativas.
+
+k) Todas las demás inherentes al cargo que sean de su competencia.
+
+l) Disfrutará de las gratificaciones e indemnizaciones que se fijen en los presupuestos anuales.
+
+5\. Del Tesorero.–Corresponde al Tesorero:
+
+a) Recaudar y custodiar, bajo su responsabilidad, los fondos pertenecientes al Consejo General.
+
+b) Llevar con las debidas formalidades la contabilidad del Consejo General.
+
+c) Intervenir las órdenes de pago dadas por el Presidente, quedando facultado en todo momento para tomar cuantas medidas estime precisas para custodiar con eficacia los fondos de la Entidad.
+
+d) Formalizar todos los meses las correspondientes cuentas de ingresos y pagos del anterior, sometiéndolas a la aprobación del Presidente.
+
+e) Retirar fondos de las cuentas corrientes conjuntamente con el Presidente.
+
+f) Constituir o retirar depósitos por acuerdo del Consejo General, uniendo su firma a la del Presidente.
+
+g) Formular los presupuestos de ingresos y gastos para el desenvolvimiento normal del Consejo, sometiéndose a la elaboración del mismo, así como el balance del ejercicio anterior.
+
+h) Redactar la Memoria anual de Tesorería que ha de presentar al Consejo General.
+
+i) Llevar inventario detallado de los bienes del Consejo General y poner de manifiesto el estado económico y financiero de aquél.
+
+j) Presentar en cada reunión del Consejo relación de pagos y cobros pendientes.
+
+k) Informar al Consejo General cuando se le requiera para ello de la situación económica del Consejo.
+
+l) Disfrutará de las gratificaciones e indemnizaciones que se fijen en los presupuestos anuales.
+
+6\. Del Secretario Técnico:
+
+a) Asistir al Presidente del Consejo General e informarle de las normas de aplicación y control de las disposiciones legales que afecten a la profesión.
+
+b) Asistir e informar a los Presidentes de las Comisiones Permanentes, coordinando los trabajos y decisiones de las mismas y orientando sus objetivos dentro de la normativa legal vigente.
+
+c) Resolver y comunicar a los Colegios cuantas cuestiones de orden profesional y técnico sean planteadas por éstos, una vez oídas e informadas por la Comisión Permanente respectiva.
+
+d) Aumentar la eficiencia de los colegiados en sus trabajos profesionales, transmitiendo a los Colegios bibliografía y noticias sobre avances técnicos.
+
+e) Llevar la organización y dirección de los cursillos, conferencias y simposios que se organicen por el Consejo General, una vez informados favorablemente por la Comisión Permanente correspondiente.
+
+f) Aquellas otras de carácter técnico que dimanen del Consejo General o del Presidente.
+
+g) Disfrutará de las gratificaciones e indemnizaciones que se fijen en los presupuestos anuales.
+
+Las comunicaciones y divulgaciones dimanantes de la Secretaría Técnica se harán a través y por medio del mecanismo burocrático que dirige el Secretario general.
+
+### Art. 59. Duración de los cargos y su renovación.
+
+El de Presidente, Vicepresidente, Secretario general y Tesorero, durarán cuatro años, y el de Secretario Técnico seis, renovándose por mitades cada dos años, excepto el Secretario Técnico, que lo hará cada seis.
+
+Estos cargos serán obligatorios en primera elección y podrán ser reelegidos por el Pleno del Consejo, siendo la aceptación de carácter voluntario, aun cuando sea elegido para cargo distinto al ejercido hasta entonces.
+
+La duración del cargo de Consejero será inherente a la de su cargo de Presidente del Colegio y en tanto ejerza su mandato. En caso de vacante de este cargo por cualquier causa, y en tanto subsista ésta, será ejercido por el Vicepresidente del Colegio en funciones de Presidente.
+
+### Art. 60. Recursos económicos del Consejo General.
+
+Ordinarios:
+
+a) Participación de las cuotas de entrada y ordinarias de los colegiados, que será determinada por el Pleno del Consejo General con carácter revisable.
+
+b) Los derechos que por certificaciones o documentos administrativos que le sean solicitados y puedan corresponderle.
+
+c) Los productos de los bienes o derechos de toda clase que posea el Consejo en propiedad o usufructo.
+
+d) Los ingresos que puedan obtenerse por venta de publicaciones o por ingresos autorizados de otro tipo.
+
+Extraordinarios.–Cuantos ingresos eventuales establezca el Consejo General y cuantos puedan procurarse o percibirse, incluso por donaciones, cesiones o herencias.
+
+### Art. 61. Gastos.
+
+Ordinarios.–Los necesarios para el normal y digno desenvolvimiento de su función, con arreglo a los presupuestos ordinarios aprobados por el Pleno del Consejo General.
+
+Extraordinarios.–Los que se aprueban por el Pleno del Consejo General, basados en su presupuesto adicional extraordinario.
+
+### Art. 62.
+
+Los Presidentes de Colegio podrán recabar de los Organismos de la Administración y Empresas los permisos pertinentes para sí y los miembros de la Junta de Gobierno, cuando para ejercer funciones en el desempeño de sus cargos sean convocados al efecto.
+
+El Presidente del Consejo General gozará de la misma facultad en sentido más general y amplio.
+
+### Art. 63. De la Asamblea nacional.
+
+Es el Órgano supremo de la profesión, y está constituida por todos los colegiados, reunidos en Pleno y en el lugar y fecha de la convocatoria. Sus acuerdos obligan al Consejo General y, por tanto, a todos los Colegios.
+
+La Asamblea se considerará constituida cuando se alcance la asistencia de la mitad más uno del Censo colegial, y sólo entonces se considerarán válidos los acuerdos adoptados.
+
+Cuando el Consejo General lo juzgue conveniente o lo pidan por escrito la mayoría simple de los Colegios, se convocará Asamblea nacional para el caso concreto que se señale y a la que podrán concurrir todos los colegiados.
+
+Las convocatorias se harán por el Presidente del Consejo General con un mes de antelación y mediante comunicación a los Colegios, firmada por el Secretario general, expresándose en ella los asuntos a tratar.
+
+El desarrollo de las Asambleas, así como discusiones, votaciones, etc. se ajustará al Reglamento que para ellas se dicte y que será unido a las convocatorias.
+
+## CAPÍTULO X — Régimen jurídico de los actos y recursos corporativos
+
+> Se modifica por el art. 5 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 64. Régimen jurídico.
+
+Los Colegios de Ingenieros Técnicos Agrícolas y su Consejo General se rigen en su organización y funcionamiento por:
+
+a) La Legislación básica estatal y autonómica vigente en materia de Colegios Profesionales.
+
+b) Los presentes Estatutos generales.
+
+c) Los respectivos Estatutos particulares y normas de alcance general adoptados en su desarrollo y aplicación.
+
+d) El resto del ordenamiento jurídico en cuanto sea aplicable.
+
+En lo no previsto por los Estatutos generales, será de aplicación la legislación vigente sobre régimen jurídico de las Administraciones Públicas y Procedimiento Administrativo Común. El régimen jurídico de los órganos colegiados de los Colegios Profesionales se ajustará a las normas contenidas en este Estatuto general y en los Estatutos particulares; que establecerán el régimen de convocatoria, sesiones y adopción de acuerdos.
+
+> Se modifica por el art. 5 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 65. Nulidad de pleno derecho.
+
+1\. Son nulos de pleno derecho cualesquiera actos de los Colegios Profesionales y del Consejo General, en los casos siguientes:
+
+a) Los que lesionen el contenido esencial de los derechos y libertades susceptibles de amparo constitucional.
+
+b) Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.
+
+c) Los que tengan un contenido imposible.
+
+d) Los que sean constitutivos de infracción penal o se dicten como consecuencia de ésta.
+
+e) Los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiales, dispuestas en el presente Estatuto general.
+
+f) Los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieran facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición.
+
+g) Los acuerdos, decisiones y recomendaciones que estando prohibidos en virtud de lo dispuesto en el artículo 1.1 de la Ley 16/1989, de 17 de julio, de Defensa de la Competencia, no estén amparados por la debida exención legal.
+
+2\. Son anulables los restantes actos que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.
+
+> Se modifica por el art. 5 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 66. Recursos corporativos.
+
+Los actos emanados de los órganos de los Colegios y del Consejo General, en cuanto estén sujetos al Derecho administrativo, una vez agotados los recursos corporativos, serán directamente recurribles ante la jurisdicción contencioso-administrativa.
+
+Todos los acuerdos y resoluciones adoptadas por las Delegaciones serán recurribles ante la Junta de Gobierno del Colegio al que pertenezcan en el plazo de un mes a contar desde el día de su notificación o, en su caso, de su publicación.
+
+Contra las decisiones o resoluciones de cualesquiera órganos de los Colegios Territoriales cabe interponer recurso ordinario, en igual plazo, ante el Consejo General, cuando así esté previsto en los Estatutos particulares, o lo disponga la correspondiente legislación autonómica.
+
+Los acuerdos que, en primera instancia, adopte el Consejo General también serán recurribles, antes de acudir en su caso a la vía contencioso-administrativa, ante el propio Consejo General, en el plazo de un mes a contar desde el día de su notificación o, en su caso, de su publicación.
+
+> Se modifica por el art. 5 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+## CAPÍTULO XI — Disposiciones generales sobre el ejercicio profesional
+
+> Se modifica por el art. 6 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 67. Comunicación previa de los encargos profesionales.
+
+Todo Ingeniero Técnico Agrícola comunicará al Colegio Territorial competente, mediante impreso normalizado facilitado por éste, cuantos encargos profesionales le hayan sido comprometidos. En la comunicación describirá las características técnicas, normativas y cuantas circunstancias sean necesarias para su identificación y localización. No comprenderá los honorarios, ni demás condiciones contractuales libremente pactadas.
+
+El encargo se comunicará al Colegio con la antelación suficiente que, en función de la naturaleza del trabajo, estime prudencialmente la Junta de Gobierno.
+
+Sin este requisito, no se admitirá, posteriormente, ningún trabajo profesional para su visado. El Colegio podrá hacer, en este trámite de la comunicación previa, cuantas observaciones juzgare que pudieran afectar al posterior otorgamiento del visado colegial.
+
+Únicamente se exceptuarán los casos que por sus características sean de extraordinaria urgencia. En tal caso, se dará cuenta al Colegio inmediatamente después de su realización.
+
+> Se modifica por el art. 6 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 68. Visado colegial.
+
+Todos los trabajos profesionales suscritos por Ingeniero Técnico Agrícola o Perito Agrícola deberán ser objeto de visado colegial.
+
+El visado colegial es un acto de control profesional que comprende la comprobación de:
+
+a) La identidad y habilitación legal del Ingeniero Técnico Agrícola autor del trabajo.
+
+b) La corrección e integridad formal de la documentación integrante del trabajo.
+
+c) El cumplimiento de todas las normas, legales o colegiales, sobre especificaciones técnicas.
+
+d) La observancia de la normativa, profesional y colegial, aplicable al trabajo de que se trate.
+
+El visado no comprenderá los honorarios, ni las demás condiciones contractuales cuya determinación se deja al libre acuerdo de las partes.
+
+La potestad de visado se ejercitará exclusivamente por el Colegio en cuyo ámbito territorial se vaya a desarrollar el trabajo profesional. Todos los Colegios de España mantendrán una relación entre sí, a efectos de facilitar y coordinar el trabajo profesional de los colegiados en todo el ámbito nacional a que les da derecho su título.
+
+Los Estatutos particulares podrán desarrollar las normas de visado.
+
+> Se modifica por el art. 6 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 69. Tramitación de trabajos.
+
+En ninguna dependencia del Ministerio de Agricultura, Pesca y Alimentación se admitirán ni tramitarán trabajos técnicos o facultativos de cualquier clase, realizados en beneficio de interés privado, por Perito Agrícola o Ingeniero Técnico Agrícola, si no están visados por alguno de los Colegios de Ingenieros Técnicos Agrícolas y Peritos Agrícolas.
+
+Las mismas normas deberán aplicarse por los restantes organismos del Estado, Comunidad Autónoma, provincia o municipio, corporaciones, tribunales y entidades de cualquier orden y jurisdicción, cuando se presenten tales trabajos suscritos por Ingenieros Técnicos Agrícolas o Peritos Agrícolas.
+
+> Se modifica por el art. 6 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 70. Nota-encargo o presupuesto.
+
+Cuando un Ingeniero Técnico Agrícola reciba un encargo profesional presentará al cliente, para su aceptación, una nota-encargo, en la que constará, con el mayor detalle que sea posible, las características del trabajo a desarrollar y el cálculo aproximado de los honorarios o, en su defecto, el método convenido para su práctica.
+
+> Se modifica por el art. 6 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 71. Servicio de cobro colegial.
+
+Cuanto tenga establecido el correspondiente servicio, los Ingenieros Técnicos Agrícolas podrán encomendar, de forma libre y expresa, al respectivo Colegio la gestión del cobro de sus honorarios profesionales. Cuando la reclamación devenga contenciosa será preciso un acuerdo de viabilidad de la Junta de Gobierno en el que se juzgue conveniente la intervención del Colegio, estableciendo la aportación que se convenga para atender los gastos que origine la reclamación, y siempre que por el colegiado se hubieran cumplido las normas de visado, hoja de encargo de trabajo y demás establecidas reglamentariamente.
+
+> Se añade por el art. 6 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).
+
+### Art. 72. Relaciones con otros profesionales.
+
+a) En trabajos de colaboración, la parte realizada por el colegiado deberá responsabilizarla con su firma y efectuar el correspondiente visado en su colegio, aplicándose sobre la parte realizada, las mismas condiciones y derechos establecidas en estos estatutos para los trabajos profesionales independientes.
+
+b) En aquellos casos en que, por la complejidad operativa, de organización u otra causa, fuera difícil establecer la estimación de la colaboración eventual o permanente de los distintos profesionales que intervengan, el Colegio establecerá convenios sobre los derechos de visado con la entidad o persona jurídica representativa de los mismos.
+
+> Se añade por el art. 6 del Real Decreto 429/1999, de 12 de marzo. [Ref. BOE-A-1999-7862](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-7862).

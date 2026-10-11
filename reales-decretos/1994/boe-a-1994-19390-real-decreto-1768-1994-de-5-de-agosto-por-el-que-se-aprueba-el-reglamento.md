@@ -1,0 +1,169 @@
+---
+title: "Real Decreto 1768/1994, de 5 de agosto, por el que se aprueba el Reglamento regulador de los procedimientos en materia de concesiones, autorizaciones y permisos en el ámbito del Monopolio de Tabacos y de distribución del Timbre del Estado"
+identifier: "BOE-A-1994-19390"
+eli: "https://www.boe.es/eli/es/rd/1994/08/05/1768"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1994-08-05
+published: 1994-08-22
+in_force_from: 1994-08-23
+last_amended: 1999-07-13
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 200"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-19390"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1768/1994, de 5 de agosto, por el que se aprueba el Reglamento regulador de los procedimientos en materia de concesiones, autorizaciones y permisos en el ámbito del Monopolio de Tabacos y de distribución del Timbre del Estado
+
+Téngase en cuenta que este Real Decreto continúa en vigor en tanto no se oponga al Real Decreto 1199/1999, de 9 de julio, salvo el apartado 2 del artículo 3, y los artículos 4, 5 y 6, según establece su disposición derogatoria única. [Ref. BOE-A-1999-15353](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15353)
+
+Incluye corrección de errores publicada en BOE núm. 202, de 24 de agosto de 1994. [Ref. BOE-A-1994-19493](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19493)
+
+La Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, establece en su disposición adicional tercera que, reglamentariamente, y en el plazo de dieciocho meses, se adecuarán a la misma las normas reguladoras de los distintos procedimientos administrativos, cualquiera que sea su rango, y señalando expresamente los efectos estimatorios o desestimatorios que se produzcan por la falta de resolución expresa.
+
+Tomando como base tal precepto, el Reglamento que se aprueba por medio del presente Real Decreto establece un procedimiento que responde a una doble finalidad; de un lado, armoniza y unifica los procedimientos existentes en materia de relaciones de la Administración del Monopolio de Tabacos y Timbre con las personas con ella vinculadas por virtud de situaciones concesionales o cuasiconcesionales; de otro, para garantizar la adecuada satisfacción de los derechos e intereses de los concesionarios y autorizados o de quienes desean acceder a tal situación, instaura un procedimiento ágil y eficaz, libre de trámites superfluos si bien con las necesarias matizaciones que la especialidad de la materia impone y siempre de acuerdo con los principios que la nueva Ley establece.
+
+En su virtud, a propuesta del Ministro de Economía y Hacienda, con la aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 5 de agosto de 1994,
+
+DISPONGO:
+
+### Artículo único. Aprobación del Reglamento.
+
+Se aprueba, en aplicación de la disposición adicional tercera de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, el Reglamento regulador de los procedimientos en materia de concesiones, autorizaciones y permisos en el ámbito del Monopolio de Tabacos y de distribución del Timbre del Estado.
+
+### Disposición transitoria única. Normas aplicables y régimen de recursos.
+
+1\. Los procedimientos incluidos en el ámbito de aplicación del presente Real Decreto que se hayan iniciado con anterioridad a su entrada en vigor, se regirán por la normativa anterior.
+
+2\. A las resoluciones de los procedimientos a que se refiere el apartado anterior, adoptadas con posterioridad a su entrada en vigor, se les aplicará el sistema de recursos establecido por el presente Real Decreto y por el capítulo II del Título VII de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Disposición final primera. Habilitación normativa.
+
+Por el Ministro de Economía y Hacienda, en el ámbito de sus competencias, se dictarán las normas de desarrollo del Reglamento aprobado por el presente Real Decreto.
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca a 5 de agosto de 1994.
+
+JUAN CARLOS R.
+
+El Ministro de Economía y Hacienda,
+
+PEDRO SOLBES MIRA
+
+## REGLAMENTO REGULADOR DE LOS PROCEDIMIENTOS EN MATERIA DE OTORGAMIENTO DE CONCESIONES, AUTORIZACIONES Y PERMISOS EN EL ÁMBITO DEL MONOPOLIO DE TABACOS Y DE DISTRIBUCIÓN DEL TIMBRE DEL ESTADO
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto y ámbito de aplicación.
+
+1\. El presente Reglamento se aplicará a los procedimientos en materia de concesiones, autorizaciones y permisos que se otorguen en el ámbito institucional del Monopolio de Tabacos y de distribución del Timbre del Estado correspondiente a las competencias del Organismo autónomo Comisionado para el Mercado de Tabacos y a las que, igualmente, en el ámbito de sus competencias, se otorguen por este organismo en relación con actividades no monopolizadas.
+
+2\. Asimismo se aplicará este Reglamento a la extinción de las concesiones, autorizaciones y permisos a que se refiere el apartado anterior, que podrá efectuarse en los supuestos previstos en la normativa aplicable, o en la resolución autorizadora, cuando hayan desaparecido sus fundamentos de hecho o cuando el titular lo solicitase.
+
+3\. Quedan excluidos del presente Reglamento los procedimientos a que se refieren los apartados 3 y 4 del artículo 1 del Real Decreto 1778/1994, de 5 de agosto, por el que se adecuan a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, las normas reguladoras de los procedimientos de otorgamiento, modificación y extinción de autorizaciones.
+
+> Se modifica la referencia a la Delegación del Gobierno en el Monopolio de Tabacos por la referencia al Organismo autónomo Comisionado para el Mercado de Tabacos, según establece la disposición derogatoria única del Real Decreto 1199/1999, de 9 de julio. [Ref. BOE-A-1999-15353](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15353)
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 202, de 24 de agosto de 1994. [Ref. BOE-A-1994-19493](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19493)
+
+### Artículo 2. Procedimiento general.
+
+El procedimiento aplicable para el otorgamiento de las concesiones, autorizaciones o permisos o para su extinción será el regulado en el presente Reglamento, en la Ley 30/1992, y en el Reglamento de adecuación mencionado en el apartado 3 del artículo 1 de este Reglamento.
+
+## CAPÍTULO II — Reglas especiales de procedimiento
+
+### Artículo 3. Procedimiento para la provisión de expendedurías.
+
+1\. Salvo lo dispuesto en los artículos 4 y 5 del presente Reglamento, las expendedurías se proveerán por concurso público entre las personas que reúnan los requisitos y no estén incursas en las circunstancias mencionadas en la legislación vigente y, en especial, en el Real Decreto 2738/1986, de 12 de diciembre.
+
+La convocatoria del concurso que se aprobará mediante Resolución del Organismo autónomo Comisionado para el Mercado de Tabacos, publicada en el «Boletín Oficial del Estado», determinará las zonas o polígonos donde proceda la instalación de expendedurías. En la fijación de dichas zonas se tendrán en cuenta los criterios de atención al público y de rentabilidad razonable de las expendedurías existentes y de las de nueva creación.
+
+2\. **(Derogado)**
+
+3\. Con carácter previo a la adjudicación de las expendedurías generales por el Organismo autónomo Comisionado para el Mercado de Tabacos, las ofertas serán preceptivamente informadas por una Comisión Asesora que se constituirá a tal fin, y cuya composición se determinará por el Ministerio de Economía y Hacienda. La Comisión se ajustará en su funcionamiento a lo prevenido en el Título II, capítulo II, de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Se deroga el apartado 2 y se modifican las referencias a la Delegación del Gobierno en el Monopolio de Tabacos por las referencias al Organismo autónomo Comisionado para el Mercado de Tabacos, por la disposición derogatoria única del Real Decreto 1199/1999, de 9 de julio. [Ref. BOE-A-1999-15353](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15353)
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 202, de 24 de agosto de 1994. [Ref. BOE-A-1994-19493](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19493)
+
+### Artículo 4. Reglas específicas para la provisión de expendedurías especiales y de carácter complementario.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1199/1999, de 9 de julio. [Ref. BOE-A-1999-15353](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15353)
+
+### Artículo 5. Procedimiento para la provisión de extensiones transitorias de expendedurías.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1199/1999, de 9 de julio. [Ref. BOE-A-1999-15353](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15353)
+
+### Artículo 6. Procedimiento para el otorgamiento de autorizaciones de venta con recargo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1199/1999, de 9 de julio. [Ref. BOE-A-1999-15353](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15353)
+
+### Artículo 7. Procedimiento para el canje de efectos timbrados.
+
+1\. Los adquirentes de efectos timbrados no tendrán derecho a que la entidad expendedora les devuelva su importe, cualquiera que sea el motivo en que se funden para solicitarlo.
+
+2\. El canje de unos efectos por otros será admitido por las entidades encargadas de su custodia y por las expendedurías en los casos siguientes:
+
+a) Respecto de toda clase de efectos timbrados, cuando sean retirados de la circulación por exigencias o conveniencias del servicio, siempre que aparezcan intactos y sin señal alguna de haber sido utilizados, ajustándose a las normas que sobre el particular se contengan en la disposición oficial que en cada caso se dicte.
+
+b) Respecto del papel timbrado común, el papel timbrado de pagos al Estado y los documentos timbrados especiales, cuando se inutilicen al escribir o por cualquier otra causa, siempre que no contengan rúbricas ni firmas de ninguna clase ni otros indicios de haber surtido efecto.
+
+3\. El Ministerio de Economía y Hacienda regulará las condiciones en que los interesados podrán solicitar y obtener en las expendedurías y entidades encargadas de su custodia el canje de los efectos, las cantidades mínimas canjeables y su coste, así como el procedimiento y plazos de remisión de éstos a «Tabacalera, Sociedad Anónima», y de ésta a la Fábrica Nacional de Moneda y Timbre, la forma en que proceda el reconocimiento y peritación de los valores presentados a canje y la data en cuenta de los que se consideren inútiles.
+
+4\. En el supuesto de que por la correspondiente entidad expendedora o depositaría fuese rehusado el canje de efectos en el momento de su presentación, el Organismo autónomo Comisionado para el Mercado de Tabacos, previa solicitud del interesado, iniciará el oportuno expediente administrativo que se tramitará conforme a lo prevenido en el presente Reglamento.
+
+> Se modifica la referencia a la Delegación del Gobierno en el Monopolio de Tabacos por la referencia al Organismo autónomo Comisionado para el Mercado de Tabacos, según establece la disposición derogatoria única del Real Decreto 1199/1999, de 9 de julio. [Ref. BOE-A-1999-15353](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15353)
+
+### Artículo 8. Procedimiento para solicitar la identificación exclusiva del tabaco destinado a puntos de venta con recargo.
+
+1\. Los expendedores de tabaco y timbre del Estado podrán solicitar del Organismo autónomo Comisionado para el Mercado de Tabacos autorización para marcar o identificar exclusivamente el tabaco que, con destino a determinados puntos de venta con recargo, sea remitido desde sus establecimientos, incorporando las marcas o identificaciones que a tal efecto establezca el Ministerio de Economía y Hacienda.
+
+2\. El Organismo autónomo Comisionado para el Mercado de Tabacos autorizará la solicitud en el plazo máximo de un mes, notificando la resolución al solicitante y a los distintos puntos de venta con recargo afectados, concediendo a estos últimos un plazo máximo de quince días naturales para la liquidación de las existencias no marcadas.
+
+3\. La incorporación de la marca a que se refiere el apartado 1 de este artículo a los productos almacenados o expuestos para la venta en el punto de venta con recargo, unida a la posesión del correspondiente documento de circulación con antigüedad no superior a quince días, acreditará la procedencia del producto de la expendeduría oficialmente asignada para el suministro y su no procedencia en el caso contrario. Iguales presunciones procederán, en el caso de no ser aplicable el sistema de marca o identificación, respecto de los productos amparados por un documento de circulación de antigüedad no superior a quince días emitido por la expendeduría oficialmente asignada.
+
+> Se modifican las referencias a la Delegación del Gobierno en el Monopolio de Tabacos por las referencias al Organismo autónomo Comisionado para el Mercado de Tabacos, según establece la disposición derogatoria única del Real Decreto 1199/1999, de 9 de julio. [Ref. BOE-A-1999-15353](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15353)
+
+## CAPÍTULO III — Plazos, actos presuntos y recursos
+
+### Artículo 9. Plazos.
+
+1\. Los plazos para la resolución de los procedimientos a que se refiere el presente Reglamento serán los siguientes:
+
+a) En los procedimientos de tipo concursal: Los señalados en la correspondiente convocatoria o pliego de condiciones del concurso o convocatoria.
+
+b) Con carácter general, para el caso de no estar establecido otro superior o inferior: Tres meses.
+
+c) En el procedimiento para la determinación de precios de las labores de tabaco a que se refiere el artículo 3 de la Ley 38/1985, de 22 de noviembre, del Monopolio Fiscal de Tabacos: Un mes.
+
+d) En el procedimiento de autorización para la comercialización de artículos a que se refiere el artículo 13-1, a), del Real Decreto 2738/1986, de 12 de diciembre: Dos meses.
+
+e) En el procedimiento de autorización de extensiones transitorias de expendedurías: Dos meses.
+
+f) En el procedimiento de marcado o identificación exclusiva de productos destinados a puntos de venta con recargo: Un mes.
+
+2\. Los plazos previstos en el apartado anterior serán susceptibles de ser ampliados conforme a lo establecido en el apartado 2 del artículo 42 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículo 10. Actos presuntos.
+
+1\. Transcurrido el plazo máximo para resolver los procedimientos indicados en el artículo anterior, sin que haya recaído resolución expresa, podrá entenderse desestimada la solicitud.
+
+2\. No obstante lo dispuesto en el párrafo anterior, se podrá entender estimada la solicitud si no hubiera recaído resolución expresa en plazo en los procedimientos previstos en el artículo 9, párrafos c) y d).
+
+### Artículo 11. Recursos.
+
+Contra las resoluciones y actos a que se refiere el artículo 107.1 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, producidos en los procedimientos que se regulan en el presente Reglamento, podrán los interesados, en los términos y condiciones señalados en el artículo 114 de dicha Ley, interponer en el plazo de un mes recurso ordinario ante el Ministro de Economía y Hacienda.

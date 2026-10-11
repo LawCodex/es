@@ -1,0 +1,99 @@
+---
+title: "Real Decreto 255/1980, de 1 de febrero, por el que se atribuye a la Tesorería General de la Seguridad Social la titularidad y administración del patrimonio único de la Seguridad Social"
+identifier: "BOE-A-1980-3213"
+eli: "https://www.boe.es/eli/es/rd/1980/02/01/255"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Seguridad Social"
+date: 1980-02-01
+published: 1980-02-12
+in_force_from: 1980-02-13
+last_amended: 1992-11-11
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 37"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1980-3213"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 255/1980, de 1 de febrero, por el que se atribuye a la Tesorería General de la Seguridad Social la titularidad y administración del patrimonio único de la Seguridad Social
+
+La disposición adicional primera, dos, del Real Decreto-ley treinta y seis/mil novecientos setenta y ocho, de dieciséis de noviembre, establece que los bienes, derechos, acciones y demás recursos que tuvieran adscritos o de que dispusieran los Organismos declarados extinguidos en la disposición final primera de dicha norma, serán asumidos por los mismos títulos por los nuevos Entes en los que se integran.
+
+Como ninguno de los Organismos relacionados en los números uno, dos y tres de dicha disposición final primera se ha integrado plenamente en una sola Entidad gestora o Servicio común de nueva creación, se ha de atender para la aplicación práctica de aquel precepto, a la distribución de las funciones y competencias transferidas.
+
+En este sentido, los Institutos Nacionales de la Seguridad Social, de la Salud y de Servicios Sociales tienen atribuidas, respectivamente, la gestión y administración de las prestaciones económicas, sanitarias y asistenciales de la Seguridad Social; la Tesorería General sirve al principio de unidad de caja y en ella se unifican todos los recursos financieros del Sistema, teniendo a su cargo la recaudación de los derechos y el pago de las obligaciones de la Seguridad Social.
+
+De conformidad con la atribución de dichas competencias y en atención a los principios inspiradores de la reforma que emprende el Real Decreto-ley treinta y seis/mil novecientos setenta y ocho, de simplificación, racionalización y economía de coste y los de caja única y solidaridad financiera, resulta procedente y necesario que los recursos financieros y patrimoniales de los extinguidos Organismos sean asumidos por la Tesorería General de la Seguridad Social.
+
+Con ello se consigue, por otra parte, corregir los importantes defectos de organización y la falta de una coherente concepción sistemática de la estructura y funcionamiento del Sistema económico-financiero, evidenciados en la Seguridad Social.
+
+En cuanto a los bienes que tienen adscritos el Servicio de Reaseguro de Accidentes de Trabajo y el Instituto Social de la Marina se considera conveniente mantener su situación jurídica actual, hasta tanto no se efectúe la reestructuración prevista en el repetido Real Decreto-ley, sin perjuicio de la ya producida unificación en la Tesorería General de todos los recursos financieros del Sistema de la Seguridad Social.
+
+Por último, el artículo cuarenta y nueve, número dos, de la Ley General de la Seguridad Social autoriza al Gobierno a disponer la transferencia de bienes y derechos entre las Entidades gestoras y Servicios comunes cuando se varíe la competencia de las mismas.
+
+A su vez, la disposición final segunda, número tres, del repetido Real Decreto-ley treinta y seis/mil novecientos setenta y ocho, establece que puede modificarse por Real Decreto cualquier disposición con rango de Ley que resulte afectada por dicho texto legal.
+
+En su virtud, a propuesta del Ministro de Sanidad y Seguridad Social, previa deliberación del Consejo de Ministros en su reunión del día uno de febrero de mil novecientos ochenta,
+
+DISPONGO:
+
+## Artículo primero.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1221/1992, de 9 de octubre. [Ref. BOE-A-1992-24743](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-24743).
+
+## Artículo segundo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1221/1992, de 9 de octubre. [Ref. BOE-A-1992-24743](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-24743).
+
+## Artículo tercero.
+
+Los bienes muebles e inmuebles adscritos a las Mutuas Patronales de Accidentes de Trabajo que, conforme a lo establecido en el número cuatro del artículo doscientos dos de la Ley General de la Seguridad Social, formen parte del patrimonio único de la Seguridad Social, se titularán e inscribirán a nombre de la Tesorería General, sin perjuicio de que las Mutuas Patronales con respecto a dichos bienes puedan realizar los actos de conservación, disfrute y mejoramiento que se estimen precisos para el cumplimiento de sus fines.
+
+Lo dispuesto en el párrafo anterior no será de aplicación a los bienes integrantes del patrimonio de las Mutuas Patronales que hayan sido incorporados al mismo con anterioridad al uno de enero de mil novecientos sesenta y siete, o durante el período comprendido entre esta fecha y el treinta y uno de diciembre de mil novecientos setenta y cinco, siempre que en este último caso se trate de bienes procedentes del veinte por ciento del exceso de excedentes o de recursos distintos de los que tengan su origen en las primas recaudadas por la Entidad. La disponibilidad sobre los indicados bienes y de sus rendimientos continuará rigiéndose por las normas contenidas en los Estatutos de cada Entidad que se hubiera aprobado reglamentariamente.
+
+## Artículo cuarto.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1221/1992, de 9 de octubre. [Ref. BOE-A-1992-24743](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-24743).
+
+## Artículo quinto.
+
+Las transmisiones, cesiones, subrogaciones o adscripciones de bienes y derechos que se deriven de la aplicación de lo dispuesto en los artículos anteriores del presente Real Decreto quedarán exentas de cualquier tipo de tributación, incluso de las tasas y exacciones parafiscales, y de los derechos y honorarios notariales y registrales en los términos y con las limitaciones descritas en el número tres de la disposición adicional primera del Real Decreto-ley treinta y seis/mil novecientos setenta y ocho, de dieciséis de noviembre.
+
+## Artículo sexto.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1221/1992, de 9 de octubre. [Ref. BOE-A-1992-24743](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-24743).
+
+## Artículo séptimo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1221/1992, de 9 de octubre. [Ref. BOE-A-1992-24743](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-24743).
+
+## Disposición final.
+
+Se faculta al Ministerio de Sanidad y Seguridad Social para dictar las disposiciones necesarias para la aplicación y desarrollo del presente Real Decreto, que entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+## Disposición transitoria.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1221/1992, de 9 de octubre. [Ref. BOE-A-1992-24743](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-24743).
+
+Dado en Madrid a uno de febrero de mil novecientos ochenta.
+
+JUAN CARLOS R.
+
+El Ministro de Sanidad y Seguridad Social,
+
+JUAN ROVIRA TARAZONA

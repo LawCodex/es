@@ -1,0 +1,269 @@
+---
+title: "Instrumento de ratificación del Tratado de Extradición entre España y los Estados Unidos de América, firmado en Madrid el día 29 de mayo de 1970"
+identifier: "BOE-A-1971-1178"
+eli: "https://www.boe.es/eli/es/ai/1970/05/29/(1)"
+type: treaty
+rank: "Acuerdo Internacional"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 1970-05-29
+published: 1971-09-14
+in_force_from: 1971-06-16
+last_amended: 2010-01-26
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 220"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1971-1178"
+retrieved: 2026-10-11
+---
+
+# Instrumento de ratificación del Tratado de Extradición entre España y los Estados Unidos de América, firmado en Madrid el día 29 de mayo de 1970
+
+Véase el Instrumento previsto en el artículo 3(2) del Acuerdo de Extradición entre la Unión Europea y los Estados Unidos de América de 25 de junio de 2003, para la aplicación del presente Tratado en los términos que en él se establecen, con efectos de 1 de febrero de 2020 y se publica un texto integrado. [Ref. BOE-A-2010-1173](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1173)
+
+FRANCISCO FRANCO BAHAMONDE,
+
+JEFE DEL ESTADO ESPAÑOL,
+
+GENERALÍSIMO DE LOS EJÉRCITOS NACIONALES
+
+Por cuanto el día 29 de mayo de 1970, el Plenipotenciario de España firmó en Madrid, juntamente con el Plenipotenciario de los Estados Unidos de América, nombrado en buena y debida forma al efecto, un Tratado de Extradición entre España y los Estados Unidos de América, cuyo texto certificado se inserta seguidamente:
+
+El Jefe del Estado Español, y
+
+El Presidente de los Estados Unidos de América,
+
+animados del deseo de hacer más efectiva la cooperación de los dos países en la represión de delitos prestándose la máxima asistencia en materia de extradición.
+
+Han decidido concertar un Tratado y a este fin han nombrado como Plenipotenciario suyos:
+
+El Jefe del Estado Español al excelentísimo señor don Gregorio López-Bravo, Ministro de Asuntos Exteriores.
+
+El Presidente de los Estados Unidos de América al excelentísimo señor William P. Rogers, Secretario de Estado;
+
+los cuales, después de haber cambiado entre si sus plenos poderes, hallados en buena y debida forma, han convenido lo siguiente:
+
+## Artículo 1.
+
+De acuerdo con las disposiciones de este Tratado, las Partes Contratantes acuerdan la mutua extradición para enjuiciamiento o para cumplir sentencia, de las personas que sean reclamadas en virtud de delitos susceptibles de extradición.
+
+> Se modifica por el art. 1 del Tratado suplementario de 9 de febrero de 1988. [Ref. BOE-A-1993-17025](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17025).
+
+## Artículo 2.
+
+A) Un delito dará lugar a extradición si fuere punible de acuerdo con las leyes de ambas Partes Contratantes con un año o con una pena más grave o en el caso de que la persona hubiera sido condenada, si la pena impuesta fuera superior a cuatro meses.
+
+B) La extradición será también concedida por la participación en cualquiera de estos delitos, no sólo como autor o cómplice, sino también como encubridor, así como por la tentativa y conspiración para cometerlos, siempre que resulte punible por ambas legislaciones con una privación de libertad superior a un año.
+
+C) A los efectos de este artículo un delito dará lugar a extradición aunque no esté tipificado en las leyes de ambas Partes en la misma categoría de delitos o no sea descrito el delito con la misma terminología.
+
+D) Si la extradición se concede por un delito de los que dan lugar a extradición, deberá también ser concedida por cualquier otro delito incluido en la solicitud incluso si éste último delito es punible con una pena privativa de libertad inferior a un año, siempre que concurran los demás requisitos exigidos para la extradición.
+
+E) También se concederá la extradición por estos delitos, aun cuando para el reconocimiento de la jurisdicción federal competente se hayan tenido en cuenta circunstancias que, como el transporte de un Estado a otro, sean tomadas en consideración y puedan ser elementos del delito.
+
+> Se modifica por el art. 2 del Tratado suplementario de 9 de febrero de 1988. [Ref. BOE-A-1993-17025](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17025).
+
+## Artículo 2 bis.
+
+A) Siempre que concurran los demás requisitos exigidos, la extradición será también concedida incluso si, con arreglo a la legislación de la Parte Requerida, la acción penal o la pena hubieran prescrito. La Parte Requerida quedará obligada a aceptar la declaración de la Parte Requirente de que, según la legislación de la Parte Requirente, la acción penal o la pena no han prescrito.
+
+B) Una amnistía promulgada en la Parte Requerida no constituirá obstáculo para la extradición.
+
+> Se añade por el art. 1 del Tratado suplementario de 12 de marzo de 1996. [Ref. BOE-A-1999-15026](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15026).
+
+## Artículo 3.
+
+A) A los efectos de este Tratado, el territorio de una de las Partes Contratantes comprende el territorio, el espacio aéreo y las aguas territoriales sometidas a su jurisdicción, así como los buques y aeronaves matriculados en ella cuando se encuentren en vuelo o en alta mar en el momento de cometerse el delito. Se considerará que un avión está en vuelo desde el momento en que se aplique la fuerza motriz para despegar hasta que termine el recorrido del aterrizaje.
+
+B) Sin perjuicio de lo dispuesto en el número 1 del párrafo A) del artículo 5, cuando el delito que motiva la extradición haya sido cometido fuera del territorio de la Parte requirente, la otra Parte podrá acceder a la solicitud siempre que se trate de un delito que sus leyes someten a la jurisdicción de sus tribunales cuando se cometan en similares circunstancias y el responsable no esté reclamado por otro Estado cuya jurisdicción sea preferente por razones territoriales y respecto al cual existe igualmente la posibilidad de acceder a la extradición.
+
+## Artículo 4.
+
+Ninguna de las Partes Contratantes tendrá la obligación de entregar a sus propios nacionales, pero la autoridad competente de España o el Poder Ejecutivo de los Estados Unidos, tendrá la facultad de entregarlos, si a su juicio, lo considera procedente siempre que no lo prohíba su propia legislación interna. Si la extradición fuera rehusada exclusivamente por causa de nacionalidad, el Estado requerido deberá, si lo solicitare el Estado requirente, someter el caso a sus autoridades para la persecución penal.
+
+> Se modifica por el art. 3 del Tratado suplementario de 9 de febrero de 1988. [Ref. BOE-A-1993-17025](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17025).
+
+## Artículo 5.
+
+A) No se concederá la extradición en ninguna de las circunstancias siguientes:
+
+1\. Cuando la persona reclamada sea objeto de proceso o haya sido ya juzgada en el territorio de la Parte requerida por el delito por el cual se pide la extradición
+
+2\. Cuando la persona reclamada haya sido juzgada y absuelta en un tercer Estado por el delito por el cual se solicita la extradición o haya cumplido la correspondiente pena.
+
+3\. Cuando el delito por el que se pide la extradición se considere por la Parte requerida como un delito de carácter político o haya razones fundadas para creer que el requerimiento de extradición ha sido hecho con el propósito de perseguir o castigar a una persona por un delito del referido carácter. Si surgiera alguna duda respecto a si un caso cae a no dentro de las disposiciones de este apartado, decidirán las autoridades del Gobierno de la Parte requerida.
+
+4\. Cuando el delito sea estrictamente militar.
+
+B) A los efectos de este Tratado, los siguientes delitos no deberán ser considerados como delitos de carácter político, en el sentido del subpárrafo A de este artículo:
+
+1\. El homicidio u otro delito intencional contra la persona del Jefe del Estado de una de las Partes Contratantes o de un miembro de su familia.
+
+2\. Un delito por el cual los Estados Contratantes tengan, en virtud de un Tratado multilateral, la obligación de extraditar a la persona reclamada o someter el asunto a sus autoridades competentes para su persecución penal.
+
+3\. Homicidio y agresiones intencionales que hayan causado lesiones corporales graves.
+
+4\. Un delito que entrañe secuestro, toma de rehenes o cualquier otra forma de detención ilegal.
+
+5\. Un delito que entrañe también la colocación o utilización de un aparato o una sustancia explosiva, incendiaria o destructora, así como la utilización de armas de fuego automáticas, en la medida en que hayan ocasionado o fueren susceptibles de ocasionar un perjuicio grave para las personas o daños materiales graves.
+
+6\. La tentativa de cometer alguno de los delitos arriba mencionados o la participación como coautor o cómplice de una persona que cometa o intente cometer tal delito.
+
+7\. Una asociación ilícita o banda constituida para cometer alguno de los delitos antes mencionados de acuerdo con las leyes de España o una «conspiracy» para cometer algunos de dichos delitos de acuerdo con las leyes de Estados Unidos.
+
+> Se suprime el apartado 3 del párrafo A) y se renumeran los anteriores 4 y 5 como 3 y 4 por el art. 2 del Tratado de 12 de marzo de 1996. [Ref. BOE-A-1999-15026](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15026).
+
+> Se modifica por el art. 4 del Tratado suplementario de 9 de febrero de 1988. [Ref. BOE-A-1993-17025](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17025).
+
+## Artículo 6.
+
+Cuando se solicite la extradición de una persona que en el momento de la demanda sea menor de dieciocho años, la Parte requerida que lo considere como residente y estime que la extradición puede perjudicar la readaptación social y rehabilitación del reclamado, podrá sugerir razonadamente a la Parte requirente que retire la demanda.
+
+## Artículo 7.
+
+Cuando el delito por el cual se pide la extradición pueda ser castigado con la pena de muerte según las leyes de la Parte requirente, la extradición será denegada a no ser que la Parte requirente ofrezca garantías, consideradas suficientes por la Parte requerida, de que no se impondrá la pena de muerte o de que si se impone, no será ejecutada,
+
+## Artículo 8.
+
+A) Si se concediere la extradición de una persona contra la cual se siguiere proceso o que estuviere cumpliendo condena en el Estado requerido, dicho Estado puede entregar temporalmente a dicha persona al Estado requirente para su persecución judicial. La persona que haya sido así entregada será mantenida en custodia en el Estado requirente, debiendo ser devuelta al Estado requerido después de terminar el proceso contra dicha persona de acuerdo con las condiciones que se determinen por acuerdo entre las Partes Contratantes.
+
+B) El Estado requerido puede posponer el procedimiento de extradición contra la persona que estuviere siendo sometida a enjuiciamiento o que esté cumpliendo condena en dicho Estado. El aplazamiento puede continuar hasta que haya concluido el procedimiento penal y se haya cumplido cualquier sentencia.
+
+> Se modifica por el art. 5 del Tratado suplementario de 9 de febrero de 1988. [Ref. BOE-A-1993-17025](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17025).
+
+## Artículo 9.
+
+La decisión sobre la solicitud de extradición se tomará de acuerdo con las disposiciones de este Tratado y las leyes de la Parte requerida. La persona cuya extradición se pide tendrá derecho a utilizar los recursos previstos por dicha legislación.
+
+## Artículo 10.
+
+A) La Solicitud de extradición se enviará por la vía diplomática.
+
+B) La solicitud deberá ir acompañada de:
+
+1\. Los datos de identificación de la persona reclamada.
+
+2\. El relato de los hechos del caso.
+
+3\. Los textos legales de la Parte Requirente que sean aplicables incluyendo los preceptos que establecen el delito y la pena.
+
+4\. Una declaración de que la acción penal o la pena no han prescrito según la legislación de la Parte Requirente
+
+C) 1. Cuando el requerimiento se refiera a una persona que ya ha sido condenada, deberá ir acompañado:
+
+Si procede de los Estados Unidos de América, una copia de la declaración de culpabilidad y de la sentencia, si se hubiera pronunciado,
+
+Si procede de España, una copia de la sentencia dictada,
+
+2\. En ambos casos, se enviará también una certificación de que la sentencia no se ha cumplido, o de la parte que falta por cumplir.
+
+D) Cuando la solicitud se refiere a una persona que no haya sido condenada, deberá ir acompañada de una orden de detención dictada por un Juez u otra autoridad judicial de la Parte requirente y deberá ir acompañada de la información que justificaría la sumisión a juicio de dicha persona si el delito se hubiere cometido en el territorio del Estado requerido. La Parte requerida puede denegar la extradición solicitada si al examinar el caso en cuestión, la orden de detención aparece manifiestamente infundada.
+
+E) Si se suscitase duda sobre la identidad de la persona objeto de la extradición, deberán enviarse las elementos de prueba que demuestren que la persona reclamada es la misma a la que se refiere la sentencia de arresto o la orden de arresto.
+
+F) Los documentos que, de conformidad con este artículo, deben acompañar a la demanda de extradición serán admitidos corno medio de prueba cuando:
+
+Si proceden de España, lleven la firma de un Juez, otra autoridad judicial o funcionario público y estén legalizados por el principal agente diplomático o consular de los Estados Unidos en España.
+
+Si proceden de los Estados Unidos estén firmadas por un Juez, Magistrado o autoridad pública de los Estados Unidos, sellados con el sello oficial del Departamento de Estado y legalizados por la Embajada de España en los Estados Unidos.
+
+G) Las documentos mencionados en este artículo se presentarán acompañados de una traducción oficial al idioma de la Parte requerida, que será de carga de la requirente.
+
+> Se modifica el apartado 3 del párrafo B y se añade el 4 por el art. 3 del Tratado suplementario de 12 de marzo de 1996. [Ref. BOE-A-1999-15026](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15026).
+
+> Se modifica el párrafo D por el art. 6 del Tratado suplementario de 9 de febrero de 1988. [Ref. BOE-A-1993-17025](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17025).
+
+## Artículo 11.
+
+A) En casos de urgencia, cualquiera de las Partes Contratantes podrá solicitar de la otra Parte la detención provisional de la persona reclamada, en espera de la presentación del requerimiento de extradición, a través de la vía diplomática. Esta solicitud podrá ser hecha, además de a través de la vía diplomática, por comunicación directa entre los respectivos Ministerios de Justicia. Para la transmisión de la solicitud pueden utilizarse los servicios de la Organización Internacional de Policía Criminal (INTERPOL).
+
+B) Esta solicitud deberá contener la descripción de la persona reclamada, la indicación de la intención de solicitar la extradición de dicha persona, la declaración de la existencia de una orden de arresto o la declaración de culpabilidad o sentencia contra dicha persona y cualquier otra información que pueda ser exigida por la Parte requerida.
+
+C) Al recibir una solicitud de esta naturaleza, la Parte requerida tomará las medidas adecuadas para asegurar la detención de la persona reclamada.
+
+D) La persona detenida en virtud de esta solicitud será puesta en libertad si, después de transcurridos cuarenta y cinco días desde el de la notificación por vía diplomática a la Embajada de la Parte requirente de la detención de aquella, no se hubiera recibido la solicitud de extradición acompañada de los documentos especificados en el artículo 10. Sin embargo, esta disposición no impedirá la iniciación de un procedimiento dirigido a la extradición del reclamado, si dicha solicitud se recibe posteriormente.
+
+> Se modifica el párrafo A) por el art. 7 del Tratado suplementario de 9 de febrero de 1988. [Ref. BOE-A-1993-17025](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17025).
+
+> Se modifica el párrafo D) por el art. 1 del Tratado suplementario de 25 de enero de 1975. [Ref. BOE-A-1978-16260](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-16260).
+
+## Artículo 12.
+
+Si la Parte requerida solicita comprobantes o informaciones adicionales para decidir sobre la demanda de extradición, deberán serle entregados dentro del plazo que a tal efecto señale.
+
+Si la persona reclamada se encuentra detenida y no son suficientes los comprobantes o la información adicional facilitada como anteriormente se indica, o no han sido recibidos dentro del periodo señalado por la Parte requerida, dicha persona será puesta en libertad. Sin embargo, esta puesta en libertad no impedirá a la Parte requirente presentar otra demanda con respecto al mismo delito, o a cualquier otro.
+
+## Artículo 13.
+
+La persona cuya extradición se haya efectuado en virtud del presente Tratado no será detenida, juzgada o castigada en el territorio de la Parte requirente por delito distinto de aquel por el cual se ha concedido la extradición, ni será objeto de extradición por dicha Parte a un tercer Estado, a menos que:
+
+1\. Haya abandonado el territorio de la Parte requirente después de su extradición y voluntariamente haya vuelto a él.
+
+2\. No haya abandonarlo el territorio de la Parte requirente dentro de los cuarenta y cinco días después de tener libertad para hacerlo.
+
+3\. La Parte requerida hubiera permitido su detención, juicio, condena o consentido su extradición a un tercer Estado por un delito distinto de aquel por el cual su concedió la extradición.
+
+Estas disposiciones no serán aplicables a los delitos cometidos después de la extradición.
+
+## Artículo 14.
+
+La Parte que reciba dos o más demandas de extradición de una persona por el mismo o por distintos delitos decidirá a cuál de los Estados requirentes la entregará. Para ello tendrá en cuenta las circunstancias que concurran, y especialmente la posibilidad de una posterior extradición entre los Estado requirentes, la gravedad de cada delito, el lugar donde se cometieron, la nacionalidad de la persona reclamada, las fechas en que se recibieron las demandas y las disposiciones de los Convenios de extradición entre la Parte requerida y el otro, o los otros Estados requirentes.
+
+## Artículo 15.
+
+La Parte requerida comunicará a la requirente, lo antes posible y por vía diplomática, su resolución sobre la demanda de extradición.
+
+En el caso de una negativa, total o parcial, la Parte requerida consignará las razones en que base su negativa.
+
+La entrega se regirá por las leyes de la Parte requerida.
+
+Si la extradición ha sido acordada, las autoridades de ambas Partes se pondrán de acuerdo sobre la fecha y el lugar de la entrega. Esta deberá verificarse dentro del plazo señalado en las leyes de la Parte requerida.
+
+Si el reclamado no hubiera sido retirado del territorio de la Parte requerida dentro del citado plazo, podrá ser puesto en libertad y dicha Parte requerida podrá negar, posteriormente, la extradición del reclamado por el mismo delito.
+
+> Se modifica por el art. 8 del Tratado suplementario de 9 de febrero de 1988. [Ref. BOE-A-1993-17025](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-17025).
+
+## Artículo 16.
+
+En la medida que lo permitan las Leyes de la Parte requerida y sin perjuicio de los derechos de terceros, que serán debidamente respetados, todos los objetos precedentes del delito o las piezas de convicción, si se encuentran, serán entregados a la Parte requirente una vez concedida la extradición.
+
+En las condiciones especificadas en el párrafo anterior, los objetos mencionados serán entregados a la Parte requirente, incluso si la extradición acordada no puede llevarse a efecto por muerte o evasión del reclamado.
+
+## Artículo 16 bis.
+
+La Parte Requerida entregará a la persona reclamada, de acuerdo con su propio procedimiento, sin exigir la presentación de los documentos previstos en el artículo X de este Tratado, si la persona reclamada consiente libremente, ante una autoridad judicial, en su entrega a la Parte requirente. El consentimiento de la persona reclamada puede incluir su acuerdo con la renuncia al principio de especialidad, tal y como se recoge en el artículo XIII de este Tratado.
+
+> Se añade por el art. 4 del Tratado suplementario de 12 de marzo de 1996. [Ref. BOE-A-1999-15026](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15026).
+
+## Artículo 17.
+
+Los gastos relativos al transporte de la persona reclamada serán pagados por la Parte requirente. Los funcionarios y autoridades competentes del Estado en que el procedimiento de extradición tenga lugar deberán mantener, dentro de sus facultades legales, la solicitud de la Parte requirente ante los correspondientes Jueces y Tribunales.
+
+La Parte requerida no presentará a la Parte requirente ninguna reclamación pecuniaria derivada del arresto, custodia, comparecencia y entrega de las personas reclamadas, de acuerdo con las disposiciones de este Tratado.
+
+## Artículo 18.
+
+Los instrumentos de ratificación de este Tratado serán intercambiados en Washington tan pronto como sea posible.
+
+Este Tratado entrará en vigor después del intercambio de ratificaciones y continuará en vigor hasta que cualquiera de las Partes lo denuncie. La denuncia surtirá efectos seis meses después de la fecha de su recibo.
+
+Este Tratado deroga y reemplaza al Tratado de Extradición entre España y los Estados Unidos, firmado en Madrid el 15 de junio de 1904 y el Protocolo firmado en San Sebastián el 13 de agosto de 1907. Sin embargo, los delitos que figuran en la lista de dicho Tratado y Protocolo que hayan sido cometidos antes de la entrada en vigor del presente Tratado seguirán sujetos a la extradición de conformidad con las disposiciones de aquel Tratado y Protocolo.
+
+En fe de lo cual, los Plenipotenciarios han firmado y sellado este Tratado.
+
+Hecho por duplicado en inglés y en español, siendo igualmente autenticos ambos textos, en Madrid el veintinueve de mayo de mil novecientos setenta,
+
+| Por España: | Por los Estados Unidos de América: |
+|---|---|
+| GREGORIO LÓPEZ BRAVO | WILLIAM P. ROGERS |
+
+Por tanto, habiendo visto y examinado los dieciocho artículos que integran dicho Tratado, oída la Comisión de Tratados de las Cortes Españolas, en cumplimiento de lo prevenido en el artículo 14 de su Ley Orgánica, vengo en aprobar y ratificar cuanto en ello dispone, como en virtud del presente lo apruebo y ratifico, prometiendo cumplirlo, observarlo y hacer que se cumpla y observe puntualmente en todas sus partes, a cuyo fin, para su mayor validación y firmeza, Mando expedir este Instrumento de Ratificación firmado por Mí, debidamente sellado y refrendado por el infrascrito Ministro de Asuntos Exteriores.
+
+Dado en Madrid a 8 de mayo de mil novecientos setenta y uno.
+
+FRANCISCO FRANCO
+
+El Ministro de Asuntos Exteriores,
+
+GREGORIO LÓPEZ BRAVO DE CASTRO

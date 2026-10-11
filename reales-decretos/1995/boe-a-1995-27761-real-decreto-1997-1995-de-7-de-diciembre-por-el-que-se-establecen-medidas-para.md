@@ -1,0 +1,235 @@
+---
+title: "Real Decreto 1997/1995, de 7 de diciembre, por el que se establecen medidas para contribuir a garantizar la biodiversidad mediante la conservación de los hábitats naturales y de la fauna y flora silvestres"
+identifier: "BOE-A-1995-27761"
+eli: "https://www.boe.es/eli/es/rd/1995/12/07/1997"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1995-12-07
+published: 1995-12-28
+in_force_from: 1995-12-29
+last_amended: 2007-12-14
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 310"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-27761"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1997/1995, de 7 de diciembre, por el que se establecen medidas para contribuir a garantizar la biodiversidad mediante la conservación de los hábitats naturales y de la fauna y flora silvestres
+
+Incluye la corrección de errores publicada en BOE núm. 129, de 28 de mayo de 1996. [Ref. BOE-A-1996-12098](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-12098)
+
+Mediante la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres, se traspuso al ordenamiento jurídico interno parte de la Directiva 79/409/CEE, del Consejo, de 2 de abril, relativa a la conservación de las aves silvestres.
+
+En desarrollo de la citada Ley fueron dictados el Real Decreto 1095/1989, de 8 de septiembre, por el que se declaran las especies objeto de caza y pesca y se establecen normas para su protección; el Real Decreto 1118/1989, de 15 de septiembre, por el que se determinan las especies objeto de caza y pesca comercializables y se dictan normas al respecto, y el Real Decreto 439/1990, de 30 de marzo, por el que se regula el Catálogo Nacional de Especies Amenazadas, que contemplan algunas de las previsiones recogidas en la citada Directiva.
+
+En relación con la citada Ley y los Reales Decretos mencionados se ha dictado la sentencia 102/1995, de 26 de junio, del Tribunal Constitucional, resolutoria de diversos recursos de inconstitucionalidad planteados contra la Ley 4/1989 y de diversos conflictos positivos de competencias planteados contra los referidos Reales Decretos, que ha declarado la constitucionalidad de tales disposiciones, con excepción de determinados preceptos a los que se atribuía carácter básico.
+
+Posteriormente se aprobó la Directiva 92/43/CEE, del Consejo, de 21 de mayo, relativa a la conservación de los hábitats naturales y de la fauna y flora silvestres, cuyas previsiones ya se encuentran contenidas, en parte, en la Ley 4/1989, pues los principios que inspiraron la redacción de la misma y que figuran en su artículo 2 vienen a ser los mismos que, tres años más tarde, fueron recogidos en la citada Directiva, como objeto o finalidad de ésta, aunque, por ese adelanto temporal, hay algunos preceptos de la misma que no forman parte aún del Derecho español, de ahí que sea necesario incorporarlos.
+
+Por ello, mediante el presente Real Decreto se transpone a nuestro ordenamiento jurídico interno la parte de la Directiva 92/43/CEE que no está incorporada al mismo.
+
+En el proceso de elaboración de esta norma han sido consultadas las Comunidades Autónomas y oídos los sectores afectados.
+
+El presente Real Decreto se dicta al amparo del artículo 149.1.23.ª de la Constitución, salvo lo relativo a los métodos de caza, no calificables de normativa básica según la citada sentencia del Tribunal Constitucional, cuya transposición se realiza para garantizar el cumplimiento del derecho derivado europeo.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, previo informe de la Comisión Nacional de Protección de la Naturaleza, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 7 de diciembre de 1995,
+
+## D I S P O N G O :
+
+### Artículo 1. Objeto.
+
+1\. El objeto del presente Real Decreto es contribuir a garantizar la biodiversidad en el territorio en que se aplica la Directiva 92/43/CEE, mediante la adopción de medidas para la conservación de los hábitats naturales y de la fauna y flora silvestres en el territorio español.
+
+2\. Las medidas que se adopten en virtud del presente Real Decreto tendrán como finalidad el mantenimiento o el restablecimiento, en un estado de conservación favorable, de los hábitats naturales y de las especies silvestres de la fauna y de la flora de interés comunitario en el territorio español y tendrán en cuenta las exigencias económicas, sociales y culturales, así como las particularidades regionales y locales.
+
+### Artículo 2. Definiciones.
+
+A efectos de lo dispuesto en el presente Real Decreto, se entenderá por:
+
+a) «Conservación»: un conjunto de medidas necesarias para mantener o restablecer los hábitats naturales y las poblaciones de especies de fauna y de flora silvestres en un estado favorable con arreglo a los párrafos e) e i).
+
+b) «Hábitats naturales»: zonas terrestres o acuáticas diferenciadas por sus características geográficas, abióticas y bióticas, tanto si son enteramente naturales como seminaturales.
+
+c) «Tipos de hábitats naturales de interés comunitario»: los que, en el territorio a que se refiere el artículo 1:
+
+1.º Se encuentran amenazados de desaparición en su área de distribución natural; o bien
+
+2.º Presentan un área de distribución natural reducida a causa de su regresión o debido a su área intrínsecamente restringida; o bien
+
+3.º Constituyen ejemplos representativos de características típicas de una o de varias de las cinco regiones biogeográficas siguientes: alpina, atlántica, continental, macaronesia y mediterránea.
+
+d) «Tipos de hábitats naturales prioritarios»: tipos de hábitats naturales amenazados de desaparición cuya conservación supone una especial responsabilidad, habida cuenta de la importancia de la proporción de su área de distribución natural incluida en el territorio en que se aplica la citada Directiva. Estos tipos de hábitats naturales prioritarios se señalan con un asterisco (*) en el anexo I.
+
+e) «Estado de conservación de un hábitat»: el conjunto de las influencias que actúan sobre el hábitat natural de que se trate y sobre las especies típicas asentadas en el mismo y que pueden afectar a largo plazo a su distribución natural, su estructura y funciones, así como a la supervivencia de sus especies típicas en el territorio en que se aplica la mencionada Directiva.
+
+El «estado de conservación» de un hábitat natural se considerará «favorable» cuando:
+
+1.º Su área de distribución natural y las superficies comprendidas dentro de dicha área sean estables o se amplíen, y
+
+2.º La estructura y las funciones específicas necesarias para su mantenimiento, a largo plazo, existan y puedan seguir existiendo en un futuro previsible, y
+
+3.º El estado de conservación de sus especies típicas sea favorable con arreglo al párrafo i).
+
+f) «Hábitat de una especie»: medio definido por factores abióticos y bióticos específicos donde vive la especie en una de las fases de su ciclo biológico.
+
+g) «Especies de interés comunitario»: las que, en el territorio a que se refiere el artículo 1:
+
+1.º Estén en peligro, salvo aquellas cuya área de distribución natural se extienda de forma marginal en dicho territorio y no estén amenazadas ni sean vulnerables en el área del paleártico occidental; o bien
+
+2.º Sean vulnerables, es decir, que su paso a la categoría de las especies en peligro se considera probable en un futuro próximo en caso de persistir los factores que ocasionen la amenaza; o bien
+
+3.º Sean raras, es decir, que sus poblaciones son de pequeño tamaño y que, sin estar actualmente en peligro ni ser vulnerables, podrían estarlo o serlo. Dichas especies se localizan en áreas geográficas limitadas o se encuentran dispersas en una superficie más amplia; o bien
+
+4.º Sean endémicas y requieran especial atención debido a la singularidad de su hábitat y/o a posibles repercusiones que su explotación pueda tener para su conservación.
+
+h) «Especies prioritarias»: las que estén en peligro y que se contemplan en el párrafo 1.º del apartado g) y cuya conservación supone una especial responsabilidad habida cuenta de la importancia de la proporción de su área de distribución natural incluida en el territorio en que se aplica ésta. Estas especies prioritarias se señalan con un asterisco (*) en el anexo II.
+
+i) «Estado de conservación de una especie»: el conjunto de influencias que actúen sobre la especie y puedan afectar a largo plazo a la distribución e importancia de sus poblaciones en el territorio en que se aplica la misma.
+
+El «estado de conservación» se considera «favorable» cuando:
+
+1.º Los datos sobre la dinámica de las poblaciones de la especie en cuestión indiquen que la misma sigue y puede seguir constituyendo, a largo plazo, un elemento vital de los hábitats naturales a los que pertenezca, y
+
+2.º El área de distribución natural de la especie no se esté reduciendo ni amenace con reducirse en un futuro previsible, y
+
+3.º Exista y probablemente siga existiendo un hábitat de extensión suficiente para mantener sus poblaciones a largo plazo.
+
+j) «Lugar»: un área geográfica definida, de superficie claramente delimitada.
+
+k) «Lugar de importancia comunitaria»: un lugar que, en la región o regiones biogeográficas a las que pertenece, contribuya de forma apreciable a mantener o restablecer un tipo de hábitat natural de los que se citan en el anexo I o una especie de las que se enumeran en el anexo II en un estado de conservación favorable y que pueda de esta forma contribuir de modo apreciable a la coherencia de Natura 2000, tal como se contempla en el artículo 3, y/o contribuya de forma apreciable al mantenimiento de la diversidad biológica en la región o regiones biogeográficas de que se trate.
+
+Para las especies animales que ocupan territorios extensos, los lugares de importancia comunitaria corresponderán a las ubicaciones concretas dentro de la zona de reparto natural de dichas especies que presenten los elementos físicos o biológicos esenciales para su vida y su reproducción.
+
+l) «Zona especial de conservación»: un lugar de importancia comunitaria declarado por la Comunidad Autónoma correspondiente, en el cual se apliquen las medidas de conservación necesarias para el mantenimiento o el restablecimiento, en un estado de conservación favorable, de los hábitats naturales y/o de las poblaciones de las especies para las cuales se haya designado el lugar.
+
+m) «Especimen»: cualquier animal o planta, vivo o muerto, de las especies que recogen los anexos IV y V; cualquier parte o producto obtenido a partir de éstos, así como cualquier otra mercancía en el caso de que se deduzca del documento justificativo, del embalaje, o de una etiqueta o de cualquier otra circunstancia que se trata de partes o de productos de animales o de plantas de dichas especies.
+
+### Artículo 3. Red ecológica europea «Natura 2000».
+
+1\. Al objeto de que formen parte de la red ecológica europea coherente denominada «Natura 2000», se designarán zonas especiales de conservación que alberguen tipos de hábitats naturales que figuran en el anexo I y de hábitats de especies que figuran en el anexo II del presente Real Decreto.
+
+2\. Estas zonas especiales de conservación deberán garantizar el mantenimiento o, en su caso, el restablecimiento, en un estado de conservación favorable, de los tipos de hábitats naturales y de los hábitats de las especies de que se trate en su área de distribución natural, e incluirán las zonas especiales de protección para las aves declaradas, en su caso, por las Comunidades Autónomas correspondientes, en virtud de lo dispuesto en la Directiva 79/409/CEE, relativa a la conservación de las aves silvestres.
+
+3\. Las Comunidades Autónomas correspondientes designarán los lugares y las zonas especiales de conservación, teniendo en cuenta lo dispuesto en los apartados 1 y 2 de este artículo.
+
+### Artículo 4. Propuesta de lugares susceptibles de ser considerados como zonas especiales de conservación.
+
+1\. Los órganos competentes de las Comunidades Autónomas elaborarán, en base a los criterios contenidos en el anexo III y a la información científica disponible, una lista de lugares que, encontrándose situados en sus respectivos territorios, puedan ser declarados como zonas especiales de conservación, con indicación de los tipos de hábitats naturales de los enumerados en el anexo I y de las especies autóctonas existentes en dichos lugares enumeradas en el anexo II. Estas listas se facilitarán al Ministerio de Agricultura, Pesca y Alimentación que de acuerdo con los criterios de selección que establece el anexo III las propondrá a la Comisión Europea, a través del cauce correspondiente.
+
+2\. Para las especies animales que requieran un territorio extenso, los mencionados lugares corresponderán a los lugares concretos que, dentro de la zona de distribución natural de estas especies, presenten los elementos físicos o biológicos esenciales para su vida y reproducción. Para las especies acuáticas que requieran territorios extensos, sólo se propondrán lugares de estas características en caso de que exista una zona claramente delimitada que albergue los elementos físicos y biológicos esenciales para su vida y reproducción.
+
+3\. La lista irá acompañada de información relativa a cada lugar, que incluirá un mapa del mismo, su denominación, su ubicación y extensión, así como los datos resultantes de la aplicación de los criterios que se especifican en el anexo III, para la etapa 1.
+
+### Artículo 5. Zonas especiales de conservación.
+
+Cuando la Comisión Europea, basándose en la lista propuesta por el Estado español, seleccione y apruebe la lista de lugares de importancia comunitaria, estos lugares serán declarados por la Comunidad Autónoma correspondiente como zonas especiales de conservación lo antes posible y como máximo en un plazo de seis años, fijando las prioridades en función de su importancia, para aplicarles las medidas de conservación necesarias para el mantenimiento o el restablecimiento, en un estado de conservación favorable, de un tipo de hábitat natural de los del anexo I o de una especie de las del anexo II y para la coherencia de Natura 2000, así como en función de las amenazas de deterioro y destrucción que pesen sobre ellos.
+
+### Artículo 6. Medidas de conservación.
+
+1\. Respecto de las zonas especiales de conservación, las Comunidades Autónomas correspondientes fijarán las medidas de conservación necesarias que implicarán, en su caso, adecuados planes de gestión, específicos a los lugares o integrados en otros planes de desarrollo, y las apropiadas medidas reglamentarias, administrativas o contractuales, que respondan a las exigencias ecológicas de los tipos de hábitats naturales del anexo I y de las especies del anexo II presentes en los lugares.
+
+2\. Por las Comunidades Autónomas correspondientes se adoptarán las medidas apropiadas para evitar en las zonas especiales de conservación el deterioro de los hábitats naturales y de los hábitats de especies, así como las alteraciones que repercutan en las especies que hayan motivado la designación de las zonas, en la medida en que dichas alteraciones puedan tener un efecto apreciable en lo que respecta a los objetivos del presente Real Decreto.
+
+3\. Cualquier plan o proyecto que, sin tener relación directa con la gestión del lugar o sin ser necesario para la misma, pueda afectar de forma apreciable a los citados lugares, ya sea individualmente o en combinación con otros planes o proyectos, se someterá a una adecuada evaluación de sus repercusiones en el lugar, que se realizará de acuerdo con las normas que sean de aplicación, de acuerdo con lo establecido en la legislación básica estatal y en las normas adicionales de protección dictadas por las Comunidades Autónomas, teniendo en cuenta los objetivos de conservación de dicho lugar. A la vista de las conclusiones de la evaluación de las repercusiones en el lugar y supeditado a lo dispuesto en el apartado 4 de este artículo, las Comunidades Autónomas correspondientes sólo manifestarán su conformidad con dicho plan o proyecto tras haberse asegurado de que no causará perjuicio a la integridad del lugar en cuestión y, si procede, tras haberlo sometido a información pública.
+
+4\. Si, a pesar de las conclusiones negativas de la evaluación de las repercusiones sobre el lugar y a falta de soluciones alternativas, debiera realizarse un plan, programa o proyecto por razones imperiosas de interés público de primer orden, incluidas razones de índole social o económica, las administraciones públicas competentes tomarán cuantas medidas compensatorias sean necesarias para garantizar que la coherencia global de la Red Natura 2000 quede protegida.
+
+La adopción de las medidas compensatorias se llevará a cabo, en su caso, durante el procedimiento de evaluación ambiental de planes y programas y de evaluación de impacto ambiental de proyectos, de acuerdo con lo dispuesto en la normativa aplicable.
+
+En el caso de planes, programas y proyectos autorizados por la Administración General del Estado y sometidos a su vez a evaluación de impacto ambiental, las medidas compensatorias serán fijadas por el Ministerio de Medio Ambiente. Para la definición de dichas medidas, se consultará específicamente al órgano de la Comunidad Autónoma competente para la gestión del espacio de la Red Natura 2000 afectado por el plan, programa o proyecto. El plazo para la emisión de dicho informe será de treinta días. En el supuesto de discrepancias sobre las medidas compensatorias, el Ministerio de Medio Ambiente constituirá un grupo de trabajo con representantes de dicho departamento y de la comunidad autónoma afectada para definir, de común acuerdo y en el plazo máximo de treinta días, las medidas compensatorias que deberán incorporarse al plan, programa o proyecto. En caso de persistir el desacuerdo, el Ministerio de Medio Ambiente determinará las medidas compensatorias tomando en consideración el parecer de la Comunidad Autónoma.
+
+En los restantes supuestos, corresponderá a las Comunidades Autónomas la evaluación de las repercusiones en el espacio de la Red ecológica europea Natura 2000.
+
+5\. En caso de que el lugar considerado albergue un tipo de hábitat natural y/o una especie prioritarios, únicamente se podrán alegar consideraciones relacionadas con la salud humana y la seguridad pública, o relativas a consecuencias positivas de primordial importancia para el medio ambiente, o bien, otras razones imperiosas de interés público de primer orden. En este último caso, a través del cauce correspondiente, habrá que consultar previamente a la Comisión Europea.
+
+Desde el momento en que un lugar figure en la lista de lugares de importancia comunitaria, éste quedará sometido a lo dispuesto en los apartados 2, 3 y 4 de este artículo.
+
+También será de aplicación a las zonas de especial protección para las aves, declaradas, en su caso, por las comunidades autónomas correspondientes, al amparo del artículo 4 de la Directiva 79/409/CEE, lo establecido en los apartados 2, 3 y 4 de este mismo artículo.
+
+6\. Las comunidades autónomas, en el ámbito de sus competencias, comunicarán al Ministerio de Medio Ambiente las medidas compensatorias que hayan adoptado y éste, a través del cauce correspondiente, informará a la Comisión Europea.
+
+> Se modifica el apartado 4 y se añaden el 5 y el 6 por el art. único del Real Decreto 1421/2006, de 1 de diciembre. [Ref. BOE-A-2006-21066](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-21066)
+
+### Artículo 7. Fomento de la gestión de los elementos del paisaje que sean primordiales para la fauna y la flora silvestres.
+
+Con el fin de mejorar la coherencia ecológica de la Red Natura 2000, las Administraciones públicas competentes se esforzarán por fomentar la gestión de aquellos elementos del paisaje que revistan primordial importancia para la fauna y la flora silvestres y en particular las que, por su estructura lineal y continua, como son las vías pecuarias, los ríos con sus correspondientes riberas o los sistemas tradicionales de deslindes, o por su papel de puntos de enlace, como son los estanques o los sotos, son esenciales para la migración, la distribución geográfica y el intercambio genético de las especies silvestres.
+
+### Artículo 8. Organo de cooperación.
+
+La Comisión Nacional de Protección de la Naturaleza, creada por la Ley 4/1989 y regulada mediante Real Decreto 2488/1994, de 23 de diciembre, impulsará la cooperación entre las Administraciones públicas en lo relativo a la adopción de las medidas de vigilancia del estado de conservación de las especies y de los hábitats a que se refiere este Real Decreto, especialmente de los tipos de hábitats naturales prioritarios y las especies prioritarias.
+
+### Artículo 9. Cofinanciación.
+
+1\. De forma paralela a la propuesta formulada de lugares susceptibles de ser declarados zonas especiales de conservación en los que se encuentren tipos de hábitats naturales prioritarios y/o especies prioritarias a que se refiere el apartado 1 del artículo 4 del presente Real Decreto, el Ministerio de Agricultura, Pesca y Alimentación, a través del cauce correspondiente y previo informe de la Comisión Nacional de Protección de la Naturaleza, enviará también a la Comisión Europea, cuando resulte pertinente, las estimaciones de lo que se considere necesario, en relación con la cofinanciación comunitaria, para poder cumplir las obligaciones establecidas en el apartado 1 del artículo 6 del presente Real Decreto.
+
+2\. A tal efecto, las Comunidades Autónomas facilitarán al Ministerio de Agricultura, Pesca y Alimentación la estimación del gasto que ha de ocasionar la aplicación de las medidas indicadas en el apartado 1 de este artículo, que puedan ser cofinanciadas por la Unión Europea.
+
+3\. Cuando, por falta de recursos, no hayan podido aplicarse las medidas indispensables para el mantenimiento o el restablecimiento en un estado de conservación favorable de los tipos de hábitats naturales prioritarios y especies prioritarias en los lugares afectados, así como los costes totales que se deriven de dichas medidas, o no hayan recibido la necesaria cofinanciación o hayan sido sólo parcialmente cofinanciadas las que la Comunidad Europea haya incluido en un marco de acción prioritaria, tales medidas podrán posponerse hasta la revisión del marco de acción. Dicha revisión tendrá en cuenta, cuando proceda, la nueva situación del lugar afectado.
+
+4\. En las zonas donde se pospongan las medidas dependientes de cofinanciación, las Administraciones públicas competentes deberán abstenerse de aprobar cualquier nueva medida que pueda resultar perjudicial para dichas zonas.
+
+5\. El Ministerio de Agricultura, Pesca y Alimentación podrá incluir en sus presupuestos partidas específicas para la cofinanciación de la Red Natura 2000.
+
+### Artículo 10. Protección de especies.
+
+Las especies animales y vegetales que, respectivamente, figuran en los párrafos a) y b) del anexo IV de este Real Decreto, gozarán de las medidas de protección establecidas en los artículos contenidos en el Título IV de la Ley 4/1989, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres, y en el Real Decreto 439/1990, de 30 de marzo, por el que se regula el Catálogo Nacional de Especies Amenazadas.
+
+### Artículo 11. Medidas compatibles con el mantenimiento de las especies.
+
+Las Comunidades Autónomas correspondientes deberán adoptar las medidas que sean pertinentes para que la recogida en la naturaleza de especímenes de las especies de fauna y de flora silvestres de interés comunitario, que figuran en el anexo V, así como la gestión de su explotación, sean compatibles con el mantenimiento de las mismas en un estado de conservación favorable.
+
+### Artículo 12. Métodos prohibidos.
+
+Se prohíben los métodos y medios de captura y sacrificio y modos de transporte que figuran en el anexo VI del presente Real Decreto.
+
+### Artículo 13. Medidas excepcionales.
+
+Siempre que no exista ninguna otra solución satisfactoria y que ello no suponga perjudicar el mantenimiento, en un estado de conservación favorable, de las poblaciones de la especie de que se trate en un área de distribución natural, las Administraciones públicas competentes podrán establecer excepciones a lo dispuesto en los artículos 10, 11 y 12, cuando el fin de ello sea:
+
+a) Proteger la fauna y flora silvestres y conservar los hábitats naturales.
+
+b) Evitar daños graves, en especial a los cultivos, al ganado, a los bosques, a las pesquerías y a las aguas, así como a otras formas de propiedad.
+
+c) En beneficio de la salud y seguridad públicas o por razones imperativas de interés público de primer orden, incluidas las de carácter socioeconómico y consecuencias beneficiosas de importancia primordial para el medio ambiente.
+
+d) Para favorecer la investigación y educación, la repoblación, la reintroducción de dichas especies y para las operaciones de reproducción necesarias a dichos fines, incluida la propagación artificial de las plantas.
+
+e) Para permitir, en condiciones de riguroso control, con criterio selectivo y de forma limitada, la toma o posesión de un número limitado y especificado por las autoridades competentes, de determinados especímenes de las especies que se enumeran en el anexo IV.
+
+> Se modifica por el art. único.1 del Real Decreto 1193/1998, de 12 de junio. [Ref. BOE-A-1998-15063](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15063)
+
+> Véase la Sentencia de 15 de marzo de 1999. Ref. BOE-A-1999/13151
+
+### Disposición adicional primera. Carácter de norma básica.
+
+El presente Real Decreto se dicta al amparo del artículo 149.1.23.ª de la Constitución, salvo lo relativo a los métodos de caza.
+
+### Disposición adicional segunda. Lugares y zonas de conservación coincidentes con Parques Nacionales.
+
+Cuando los lugares y zonas especiales de conservación se encuentren situados o coincidan con Parques Nacionales, la propuesta y la declaración de los mismos a que se refieren los artículos 4 y 5 del presente Real Decreto corresponderá al Ministerio de Agricultura, Pesca y Alimentación, previo acuerdo con las Comunidades Autónomas correspondientes, y los planes y medidas de conservación se gestionarán conjuntamente por ambas Administraciones.
+
+### Disposición final primera. Facultad de desarrollo.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para dictar, en el ámbito de sus competencias, las disposiciones necesarias para el cumplimiento y aplicación de lo dispuesto en el presente Real Decreto.
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 7 de diciembre de 1995.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+LUIS MARIA ATIENZA SERNA
+
+## ANEXOS I A VI
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria.1 de la Ley 42/2007, de 13 de diciembre. [Ref. BOE-A-2007-21490](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21490)

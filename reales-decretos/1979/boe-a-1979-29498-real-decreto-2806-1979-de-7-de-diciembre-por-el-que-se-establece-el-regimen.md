@@ -1,0 +1,105 @@
+---
+title: "Real Decreto 2806/1979, de 7 de diciembre, por el que se establece el Régimen Especial de la Seguridad Social de los jugadores profesionales de fútbol"
+identifier: "BOE-A-1979-29498"
+eli: "https://www.boe.es/eli/es/rd/1979/12/07/2806"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Seguridad Social"
+date: 1979-12-07
+published: 1979-12-15
+in_force_from: 1980-01-01
+last_amended: 1986-12-30
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 300"
+status: repealed
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1979-29498"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2806/1979, de 7 de diciembre, por el que se establece el Régimen Especial de la Seguridad Social de los jugadores profesionales de fútbol
+
+Norma derogada, en cuanto se oponga, por la disposición final.1.e) del Real Decreto 2621/1986, de 24 de diciembre. [Ref. BOE-A-1986-33763](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-33763).
+
+La Ley General de la Seguridad Social de treinta de mayo de mil novecientos setenta y cuatro prevé en el número uno del artículo diez el establecimiento de Regímenes Especiales en aquellas actividades profesionales en las que, por su naturaleza, sus peculiares condiciones de tiempo y lugar o por la índole de sus procesos productivos se hiciere preciso para la adecuada aplicación de los beneficios de la Seguridad Social, autorizándose en el apartado uno del número dos del mismo precepto la creación de Regímenes Especiales para determinados grupos.
+
+El perfeccionamiento de la protección obligatoria de los jugadores profesionales de futbol, que actualmente vienen gozando de un régimen de previsión al amparo de la Ley de Mutualidades y Montepíos libres de seis de diciembre de mil novecientos cuarenta y uno, a través de la Mutualidad de Futbolistas Españoles, cuyos Estatutos fueron aprobados por el Ministerio de Trabajo con fecha de dieciocho de junio de mil novecientos sesenta y nueve, reclama la superación de este régimen de previsión mediante la integración de este colectivo en el sistema de la Seguridad Social, que ha de articularse en un Régimen Especial atendidas las peculiaridades de la actividad que los citados jugadores desarrollan.
+
+En su virtud, a propuesta del Ministro de Sanidad y Seguridad Social, y previa deliberación en la reunión del Consejo de Ministros del día siete de diciembre de mil novecientos setenta y nueve,
+
+DISPONGO:
+
+## Artículo 1. Norma general.
+
+Se establece el Régimen Especial de la Seguridad Social de los Futbolistas Profesionales, que se regirá por el presente Real Decreto, por las disposiciones de aplicación y desarrollo y por las normas generales de obligada observancia en todo el sistema de la Seguridad Social.
+
+## Artículo 2. Objeto.
+
+El Régimen Especial de la Seguridad Social de los Futbolistas Profesionales tiene por objeto dispensar a los citados profesionales comprendidos en su campo de aplicación, así como a los familiares o asimilados que tuvieran a su cargo, la protección adecuada en las contingencias y situaciones que en este Real Decreto se determinan.
+
+## Artículo 3. Campo de aplicación.
+
+1\. Estarán comprendidos con carácter obligatorio en este Régimen Especial los futbolistas profesionales españoles que residan y ejerzan normalmente su actividad en territorio nacional.
+
+2\. En cuanto a los futbolistas profesionales extranjeros se estará a lo dispuesto en el número cuatro del artículo siete de la Ley General de la Seguridad Social.
+
+## Artículo 4. Inscripción de Empresas y afiliación y altas de profesionales.
+
+1\. En materia de inscripción de Empresas, afiliación y altas y bajas de los futbolistas profesionales serán de aplicación las normas del Régimen General de la Seguridad Social, con las peculiaridades que puedan determinarse en las disposiciones de aplicación y desarrollo del presente Real decreto.
+
+2\. Los clubs de fútbol tendrán la consideración de Empresas a efectos de las obligaciones que para éstas se establecen.
+
+## Artículo 5. Base de cotización.
+
+1\. La base de cotización para todas las contingencias y situaciones amparadas por la acción protectora de este Régimen Especial estará constituida por las remuneraciones totales, cualquiera que sea su forma o denominación, que tengan derecho a percibir los futbolistas o las que efectivamente perciban por razón de su actividad profesional.
+
+2\. No obstante lo dispuesto en el número anterior, la cuantía de la base de cotización estará limitada por las bases mínimas y máximas, correspondientes a los grupos dos, tres y cinco de la escala de cotización establecida para el Régimen General de la Seguridad Social, según que la categoría en que se encuentre encuadrado el club en el que aquellos prestan sus servicios sea de primera, segunda y tercera división, respectivamente.
+
+## Artículo 6. Tipo de cotización.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 46/1984, de 4 de enero. [Ref. BOE-A-1984-613](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-613).
+
+## Artículo 7. Recaudación.
+
+La recaudación de las cuotas de este Régimen Especial corresponde a la Tesorería General de la Seguridad Social y se llevará a efecto de acuerdo con las normas que regulan esta materia en el Régimen General.
+
+## Artículo 8. Acción protectora.
+
+1\. La acción protectora de este Régimen Especial comprenderá las siguientes prestaciones:
+
+a) Asistencia sanitaria en los casos de enfermedad y accidente, cualquiera que sea su causa, y maternidad.
+
+b) Prestaciones económicas y recuperadoras en las situaciones de invalidez permanente, cualquiera que sea la contingencia determinante en los grados de:
+
+a’) Invalidez permanente total para la profesión habitual.
+
+b’) Invalidez permanente absoluta para todo trabajo.
+
+c’) Gran invalidez.
+
+c) Prestaciones económicas en caso de muerte y supervivencia.
+
+2\. El concepto de las prestaciones relacionadas en el número anterior y su normativa reguladora serán los mismos que en el Régimen General de la Seguridad Social.
+
+## Artículo 9. Gestión.
+
+La gestión de este Régimen Especial se efectuará:
+
+a) Para la gestión y administración de las prestaciones económicas, por el Instituto Nacional de la Seguridad Social.
+
+b) Para la administración y gestión de las prestaciones y servicios sanitarios, por el Instituto Nacional de la Seguridad Social.
+
+## Disposición final.
+
+Se faculta al Ministerio de Sanidad y Seguridad Social para dictar las disposiciones necesarias para la aplicación y desarrollo de lo dispuesto en el presente Real Decreto, que entrará en vigor el día uno de enero de mil novecientos ochenta.
+
+Dado en Madrid a siete de diciembre de mil novecientos setenta y nueve.
+
+JUAN CARLOS R.
+
+El Ministro de Sanidad y Seguridad Social,
+
+JUAN ROVIRA TARAZONA

@@ -1,0 +1,157 @@
+---
+title: "Orden de 28 de julio de 1978 por la que se desarrolla lo dispuesto en el Real Decreto 1774/1978, de 23 de junio, por el que se incluye la incapacidad laboral transitoria como mejora voluntaria en el Régimen Especial de la Seguridad Social de los trabajadores por cuenta propia o autónomos"
+identifier: "BOE-A-1978-20837"
+eli: "https://www.boe.es/eli/es/o/1978/07/28/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Seguridad Social"
+date: 1978-07-28
+published: 1978-08-11
+in_force_from: 1978-08-12
+last_amended: 2003-10-22
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 191"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-20837"
+retrieved: 2026-10-11
+---
+
+# Orden de 28 de julio de 1978 por la que se desarrolla lo dispuesto en el Real Decreto 1774/1978, de 23 de junio, por el que se incluye la incapacidad laboral transitoria como mejora voluntaria en el Régimen Especial de la Seguridad Social de los trabajadores por cuenta propia o autónomos
+
+Ilustrísimos señores:
+
+El Real Decreto 1774/1978, de 23 de junio, modifica el artículo 27 del Decreto 2530/1970, de 20 de agosto, incluyendo la prestación de incapacidad laboral transitoria como mejora voluntaria en la acción protectora del Régimen Especial de la Seguridad Social de los trabajadores por cuenta propia o autónomos, señalándose en el mismo precepto que dicha mejora se otorgará en las condiciones y con los requisitos que se determinen por el Ministerio de Sanidad y Seguridad Social.
+
+En su virtud, a propuesta de la Dirección General de Prestaciones, este Ministerio ha tenido a bien disponer:
+
+### Artículo 1.º
+
+La mejora de la acción protectora del Régimen Especial de la Seguridad Social de los trabajadores autónomos o por cuenta propia, por lo que a incapacidad laboral transitoria se refiere, se regirá por lo dispuesto en la presente Orden y en lo no previsto en la misma por la normativa aplicable a dicha prestación en el Régimen General.
+
+### Art. 2.º
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Orden de 3 de febrero de 1984. [Ref. BOE-A-1984-3363](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-3363).
+
+> Esta derogación surte efectos a partir del 1 de enero de 1984, según establece la disposición derogatoria.
+
+### Art. 3.º Concepto.
+
+Tendrán la consideración de situaciones determinantes de incapacidad laboral transitoria:
+
+a) Las debidas a enfermedad o accidente, cualquiera que sea su causa, mientras el trabajador reciba asistencia sanitaria de la Seguridad Social y esté impedido para el trabajo, con una duración máxima igual a la establecida en el Régimen General de la Seguridad Social.
+
+b) En caso de maternidad, los períodos que a tal efecto se determinen en el Régimen General de la Seguridad Social.
+
+### Art. 4.º Beneficiarios.
+
+1\. Los trabajadores por cuenta propia o autónomos tendrán derecho a prestación económica por incapacidad laboral transitoria cuando reúnan las siguientes condiciones:
+
+a) Estar afiliado y en alta a este Régimen Especial.
+
+b) Ser titulares del derecho a la asistencia sanitaria de acuerdo con lo previsto en la Orden ministerial de 25 de mayo de 1977.
+
+c) Hallarse al corriente en el pago de las cuotas.
+
+2\. Además de lo dispuesto en el número anterior, será preciso que los trabajadores autónomos hayan ingresado en concepto de cuota, por la mejora voluntaria que se dispone en la presente Orden, un mínimo de seis mensualidades inmediatamente anteriores al hecho causante, en caso de enfermedad, y en caso de maternidad, nueve mensualidades inmediatamente anteriores al momento de dar a luz.
+
+### Art. 5.º Contenido.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1273/2003, de 10 de octubre. [Ref. BOE-A-2003-19458](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-19458).
+
+### Art. 6.º Nacimiento del derecho.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1273/2003, de 10 de octubre. [Ref. BOE-A-2003-19458](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-19458).
+
+### Art. 7.º Reconocimiento del derecho.
+
+La declaración de la existencia de las situaciones de incapacidad laboral transitoria y el reconocimiento del derecho al consiguiente subsidio corresponderá a la Mutualidad Laboral de Trabajadores Autónomos.
+
+### Art. 8.º Pago.
+
+El pago se llevará a cabo por la Mutualidad Laboral de Trabajadores Autónomos, por períodos vencidos.
+
+### Art. 9.º Financiación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Orden de 3 de febrero de 1984. [Ref. BOE-A-1984-3363](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-3363).
+
+> Esta derogación surte efectos a partir del 1 de enero de 1984, según establece la disposición derogatoria.
+
+### Art. 10. Ingreso de la cuota complementaria.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Orden de 3 de febrero de 1984. [Ref. BOE-A-1984-3363](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-3363).
+
+> Esta derogación surte efectos a partir del 1 de enero de 1984, según establece la disposición derogatoria.
+
+### Artículo 11. Procedimiento.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Orden de 3 de febrero de 1984. [Ref. BOE-A-1984-3363](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-3363).
+
+> Esta derogación surte efectos a partir del 1 de enero de 1984, según establece la disposición derogatoria.
+
+> Se modifica por el art. 2 de la Orden de 4 de febrero de 1981. [Ref. BOE-A-1981-3435](https://www.boe.es/buscar/doc.php?id=BOE-A-1981-3435).
+
+### Art. 12.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Orden de 3 de febrero de 1984. [Ref. BOE-A-1984-3363](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-3363).
+
+> Esta derogación surte efectos a partir del 1 de enero de 1984, según establece la disposición derogatoria.
+
+## DISPOSICIÓN ADICIONAL
+
+No obstante lo previsto en el número 2 del artículo 4.º, cuando la solicitud de acogerse a la mejora voluntaria regulada en esta Orden se efectúe juntamente con la petición de alta en este Régimen Especial, el período mínimo de cotización exigido para tener derecho a la prestación económica por incapacidad laboral transitoria será de seis mensualidades dentro de los ocho meses anteriores al del hecho causante en caso de enfermedad, y en caso de maternidad, nueve mensualidades dentro de los once meses anteriores al de el del momento de dar a luz. A estos efectos, los períodos de cotización cubiertos por los interesados en el Régimen General o en cualquier otro de la Seguridad Social que tenga establecido el reconocimiento recíproco de cuotas con este Régimen Especial, y en el que se cotice por la contingencia de incapacidad laboral transitoria, se computarán para cubrir este período de carencia especial exigido.
+
+> Se añade por el art. 3 de la Orden de 4 de febrero de 1981. [Ref. BOE-A-1981-3435](https://www.boe.es/buscar/doc.php?id=BOE-A-1981-3435).
+
+## DISPOSICIÓN FINAL
+
+Se faculta a la Dirección General de Prestaciones para dictar normas de aplicación y desarrollo de lo dispuesto en la presente Orden, que entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+## DISPOSICIONES TRANSITORIAS
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Orden de 3 de febrero de 1984. [Ref. BOE-A-1984-3363](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-3363).
+
+> Esta derogación surte efectos a partir del 1 de enero de 1984, según establece la disposición derogatoria.
+
+### Primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Orden de 3 de febrero de 1984. [Ref. BOE-A-1984-3363](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-3363).
+
+> Esta derogación surte efectos a partir del 1 de enero de 1984, según establece la disposición derogatoria.
+
+### Segunda.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Orden de 3 de febrero de 1984. [Ref. BOE-A-1984-3363](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-3363).
+
+> Esta derogación surte efectos a partir del 1 de enero de 1984, según establece la disposición derogatoria.
+
+Lo digo a VV. II. para su conocimiento y efectos.
+
+Dios guarde a VV. II.
+
+Madrid, 28 de julio de 1978.
+
+SÁNCHEZ DE LEÓN
+
+Ilmos. Sres. Subsecretario del Departamento y Directores generales de Personal, Gestión y Financiación y de Prestaciones.

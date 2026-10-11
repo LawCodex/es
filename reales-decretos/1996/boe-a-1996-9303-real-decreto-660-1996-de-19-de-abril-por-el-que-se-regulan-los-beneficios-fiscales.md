@@ -1,0 +1,85 @@
+---
+title: "Real Decreto 660/1996, de 19 de abril, por el que se regulan los beneficios fiscales en el Impuesto sobre la Renta de las Personas Físicas a la transmisión de fincas rústicas y explotaciones agrarias"
+identifier: "BOE-A-1996-9303"
+eli: "https://www.boe.es/eli/es/rd/1996/04/19/660"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1996-04-19
+published: 1996-04-26
+in_force_from: 1996-04-27
+last_amended: 1999-02-09
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 101"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-9303"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 660/1996, de 19 de abril, por el que se regulan los beneficios fiscales en el Impuesto sobre la Renta de las Personas Físicas a la transmisión de fincas rústicas y explotaciones agrarias
+
+La disposición adicional sexta de la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias, ha dispuesto que, en determinados casos, los incrementos netos de patrimonio que se pongan de manifiesto por la transmisión de fincas rústicas o explotaciones agrarias quedarán incluidos en el rendimiento neto resultante de la aplicación de la modalidad de signos, índices o módulos del método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas, en la cuantía que se establezca reglamentariamente según el período de permanencia de los activos en el patrimonio del sujeto pasivo.
+
+Al mismo tiempo, dicha norma adicional ha dispuesto que reglamentariamente deberán regularse determinados aspectos de la aplicación de dicho beneficio.
+
+El presente Real Decreto tiene por objeto dar cumplimiento a dicho mandato.
+
+En su virtud, haciendo uso de las habilitaciones previstas en el artículo 69 y en la disposición final tercera de la Ley 18/1991, de 6 de junio, del Impuesto sobre la Renta de las Personas Físicas, así como en las disposiciones adicional sexta y final quinta de la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias, a propuesta de los Ministros de Economía y Hacienda y de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 19 de abril de 1996,
+
+DISPONGO:
+
+## Artículo 1. Ámbito de aplicación.
+
+El presente Real Decreto será de aplicación a los incrementos y disminuciones de patrimonio en los que concurran las siguientes circunstancias:
+
+a) Que se obtengan por sujetos pasivos del Impuesto sobre la Renta de las Personas Físicas que desarrollen actividades agrarias cuyo rendimiento neto se determine mediante la modalidad de signos, índices o módulos del método de estimación objetiva.
+
+b) Que se pongan de manifiesto durante los cinco años siguientes a la entrada en vigor de la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias, como consecuencia de transmisiones cuyo objeto exclusivo sean explotaciones agrarias o fincas rústicas afectas a la actividad agraria.
+
+c) Que el importe acumulado de las transmisiones efectuadas durante el período a que se refiere el párrafo anterior no supere 50.000.000 de pesetas.
+
+A efectos de computar el límite a que se refiere el párrafo anterior, sólo se tomarán en cuenta las transmisiones de las que deriven incrementos y disminuciones de patrimonio acogidos a lo dispuesto por el presente Real Decreto.
+
+## Artículo 2. Adquirentes.
+
+1\. La aplicación de lo dispuesto en el presente Real Decreto exigirá que la finca o explotación transmitida, bien se destine por el adquirente a la constitución o consolidación de explotaciones agrarias prioritarias, bien sea adquirida por una Administración pública para su integración en bancos de tierras u órganos similares o por razones de protección del medio natural.
+
+2\. A estos efectos, por el Ministerio de Agricultura, Pesca y Alimentación o las Comunidades Autónomas, según los casos, se expedirá certificación acreditativa del destino de la finca o explotación.
+
+## Artículo 3. Tributación en el Impuesto sobre la Renta de las Personas Físicas.
+
+Cuando se cumplan las condiciones a que se refieren los artículos anteriores, la tributación de las ganancias y pérdidas patrimoniales se ajustará a las siguientes reglas:
+
+1.ª Se determinará, por separado, para cada elemento patrimonial transmitido, la ganancia o pérdida patrimonial.
+
+2.ª Las ganancias y pérdidas patrimoniales seguirán el régimen general previsto en el artículo 26.2 de la Ley del Impuesto.
+
+3.ª No obstante, las ganancias patrimoniales se reducirán a razón de un 7,14 por 100 por cada año de permanencia de los elementos patrimoniales transmitidos en el patrimonio del contribuyente que exceda de dos.
+
+La reducción a que se refiere el párrafo anterior será del 100 por 100 si los elementos patrimoniales transmitidos hubiesen permanecido en el patrimonio del contribuyente más de quince años.
+
+Se tomará como período de permanencia en el patrimonio del contribuyente el número de años que medie entre las fechas de adquisición y transmisión, redondeado por exceso.
+
+> Se modifica, con efectos de 1 de enero de 1999, por la disposición transitoria sexta del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251)
+
+## Artículo 4. Regularización.
+
+El incumplimiento de cualquiera de las condiciones establecidas en el presente Real Decreto determinará que los incrementos de patrimonio a que el mismo se refiere pierdan el tratamiento previsto en el artículo anterior.
+
+En este caso, los sujetos pasivos deberán imputar los incrementos de patrimonio a los períodos impositivos en que se hubieran obtenido, practicando declaración-liquidación complementaria, con inclusión de los intereses de demora, que se presentará en el plazo que media entre la fecha en que se incumplieron las condiciones y el final del siguiente plazo de presentación de declaraciones por el Impuesto.
+
+Lo dispuesto en este artículo no será de aplicación si la condición incumplida fuese la señalada en el artículo 2.1 y el transmitente estuviese en poder del certificado a que se refiere el artículo 2.2.
+
+## Disposición final única. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», siendo de aplicación a las transmisiones que se efectúen a partir de la entrada en vigor de la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias.
+
+Dado en Madrid a 19 de abril de 1996.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+ALFREDO PÉREZ RUBALCABA

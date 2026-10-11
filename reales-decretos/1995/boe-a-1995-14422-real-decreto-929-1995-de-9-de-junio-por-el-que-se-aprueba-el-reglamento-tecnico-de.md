@@ -1,0 +1,5168 @@
+---
+title: "Real Decreto 929/1995, de 9 de junio, por el que se aprueba el Reglamento técnico de control y certificación de plantas de vivero de frutales"
+identifier: "BOE-A-1995-14422"
+eli: "https://www.boe.es/eli/es/rd/1995/06/09/929"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1995-06-09
+published: 1995-06-14
+in_force_from: 1995-06-15
+last_amended: 2025-07-22
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 141"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-14422"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 929/1995, de 9 de junio, por el que se aprueba el Reglamento técnico de control y certificación de plantas de vivero de frutales
+
+El Real Decreto 2273/1993, de 22 de diciembre, por el que se modifica el Reglamento General de Producción de semillas y plantas de vivero, transpuso, parcialmente, a nuestro ordenamiento jurídico la Directiva 92/34/CEE, del Consejo, de 28 de abril, relativa a la comercialización de materiales de multiplicación de frutales y de plantones de frutal destinados a la producción frutícola.
+
+Posteriormente dicha Directiva ha sido complementada por la Directiva 93/48/CEE, de la Comisión, de 23 de junio, por la que se establece la ficha referente a las condiciones que deben cumplir los materiales de multiplicación de frutales y los plantones de frutal destinados a la producción frutícola de conformidad con la Directiva 92/34/CEE; por la Directiva 93/64/CEE, de la Comisión, de 5 de julio, por la que se establecen las disposiciones de aplicación para la vigilancia y el control de los proveedores y establecimientos en el marco de la Directiva 92/34/CEE, y por la Directiva 93/79/CEE, de la Comisión, de 21 de septiembre, por la que se establecen disposiciones suplementarias de aplicación a las listas de variedades de materiales de multiplicación de frutales y de plantones de frutal elaboradas por los proveedores con arreglo a la Directiva 92/34/CEE.
+
+Algunas de las previsiones de estas Directivas ya estaban recogidas, a nivel nacional, en la Orden de 21 de julio de 1976, por la que se aprueba el Reglamento técnico de control y certificación de plantas de vivero de cítricos y sus modificaciones; en la Orden de 16 de julio de 1982, por la que se modifica el Reglamento técnico de control y certificación de plantas de vivero de frutales y sus modificaciones; en la Orden de 3 de marzo de 1989, por la que se aprueba el Reglamento técnico de control y certificación de plantas de vivero de fresa; y en la Orden de 10 de septiembre de 1990 por la que se aprueba el Reglamento técnico de control y certificación de plantas de vivero de platanera. No obstante, se hace necesario adecuar esta legislación a las previsiones comunitarias y, en aras de una mayor seguridad jurídica para los administrados, se procede, mediante este Real Decreto, a refundir dicha legislación y a derogar las normas que estaban vigentes.
+
+En consecuencia, mediante este Real Decreto se completa la transposición de la Directiva 92/34/CEE y se transponen en su integridad las Directivas 93/48/CEE, 93/64/CEE y 93/79/CEE.
+
+El presente Real Decreto se dicta al amparo de la competencia atribuida al Estado por el artículo 149.1.10 y 13 de la Constitución en materia de comercio exterior y de bases y coordinación de la planificación general de la actividad económica y una vez que han sido consultados los sectores afectados.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 9 de junio de 1995,
+
+D I S P O N G O :
+
+## CAPITULO I — Disposiciones generales
+
+#### Artículo 1. Ámbito de aplicación.
+
+Este real decreto se aplicará a la producción, comercialización e importación de materiales de reproducción y plantones de frutal que se utilicen directa o indirectamente para la producción de sus frutos, profesional o no profesionalmente, de los géneros y especies que figuran en el anexo X así como los híbridos intergenéricos, interespecíficos o intervarietales que puedan tener la misma utilización.
+
+Se incluyen los portainjertos y otras partes de plantas de otros géneros o especies, o sus híbridos, si se injertan o deben injertarse en ellos materiales de uno de los citados géneros o especies o sus híbridos.
+
+El presente real decreto se aplicará sin perjuicio de las normas fitosanitarias establecidas en el Reglamento (UE) 2031/2016 del Parlamento Europeo y del Consejo, de 26 de octubre de 2016, relativo a las medidas de protección contra las plagas de los vegetales.
+
+> Se modifica por el art. único.1 del Real Decreto 428/2020, de 3 de marzo. [Ref. BOE-A-2020-4264](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4264)
+
+> Se modifica por el art. único.1 del Real Decreto 2065/2004, de 15 de octubre. [Ref. BOE-A-2004-17827](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17827)
+
+> Se modifica por el art. único.1 del Real Decreto 234/2002, de 1 de marzo. [Ref. BOE-A-2002-5101](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-5101)
+
+#### Artículo 2. Exclusiones generales.
+
+El presente Reglamento no se aplicará a los materiales de multiplicación ni a los plantones de frutal respecto de los que se justifique que están destinados a la exportación a países terceros, siempre que se hallen correctamente identificados como tales y adecuadamente aislados, sin perjuicio de las normas sanitarias fijadas en el Real Decreto 58/2005, de 21 de enero, relativo a las medidas de protección contra la introducción y difusión en el territorio nacional y de la Comunidad Europea de organismos nocivos para los vegetales o productos vegetales, así como para la exportación y tránsito hacia países terceros.
+
+> Se modifica por la disposición final 2 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+#### Artículo 3. Exclusiones especiales.
+
+Sin perjuicio de lo dispuesto en el Real Decreto 58/2005, de 21 de enero, cuando dicha finalidad se acredite debidamente, el organismo oficial responsable podrá dispensar de los requisitos del presente Reglamento a los materiales de multiplicación y a los plantones de frutal destinados a:
+
+a) Pruebas o fines científicos, o a
+
+b) Labores de selección, o a
+
+c) Medidas encaminadas a la conservación de la diversidad genética.
+
+Las condiciones para solicitar la exclusión debida a los supuestos reflejados en los apartados a y b se recogen en el anexo XV.
+
+> Se añade un párrafo por el art. 1.1 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se modifica por la disposición final 2 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+## CAPITULO II — Definiciones y categorías
+
+#### Artículo 4. Definiciones de plantas de vivero.
+
+A los efectos de este Reglamento se entenderá por:
+
+a) Planta de vivero: la definición establecida en la Ley 30/2006, dentro de la cual se incluyen los materiales de multiplicación y los plantones de frutales;
+
+b) Material de multiplicación: las semillas, partes de plantas y plantas, incluidos los portainjertos, destinados a la multiplicación y producción de frutales;
+
+c) Plantón: individuo botánico o planta que, tras su comercialización, esté destinada al establecimiento de plantaciones;
+
+d) Planta madre: una planta identificada destinada a la reproducción;
+
+e) Clon: la descendencia vegetativa genéticamente uniforme de una única planta;
+
+f) Planta fresca (sólo en fresa): planta destinada a la plantación, directamente desde su arranque en el vivero,
+
+g) Planta fresca de altura (sólo en fresa): planta cultivada en viveros ubicados a una altitud y latitud tal que la planta así obtenida está madura fisiológicamente a principios de otoño debido fundamentalmente al frío y fotoperíodo acumulados y preparada en consecuencia para su posterior plantación como planta fresca y la potencial obtención de producciones precoces y de calidad;
+
+h) Planta frigo (sólo en fresa): planta que, una vez arrancada del vivero, se conserva en frigorífico a temperatura mínima por encima de la letal hasta su plantación;
+
+i) Candidato a planta madre inicial: una planta madre que el proveedor tiene la intención de aceptar como planta madre inicial;
+
+j) Planta madre inicial: una planta madre destinada a producir materiales iniciales;
+
+k) Planta madre de base: una planta madre destinada a producir materiales de base;
+
+l) Planta madre certificada: una planta madre destinada a producir materiales certificados;
+
+ll) Organismo nocivo: una especie, cepa o biotipo de un vegetal, animal o agente patógeno perjudicial para los vegetales o productos vegetales y que figura en los anexos I, II, II bis y II ter;
+
+m) Inspección visual: el examen de plantas o partes de plantas a simple vista, con una lente, un estereoscopio o un microscopio;
+
+n) Ensayo: un examen distinto de la inspección visual;
+
+ñ) Planta testigo: una planta obtenida de una planta madre y cultivada para la producción de frutas a fin de permitir la identificación de la variedad de la planta madre;
+
+o) Categoría: materiales iniciales, de base, certificados, CAC (Conformitas Agraria Communitatis) o estándar.
+
+p) Multiplicación: producción vegetativa de plantas madre para obtener un número suficiente en la misma categoría;
+
+q) Renovación de una planta madre: sustitución de una planta madre por una planta producida vegetativamente a partir de ella;
+
+r) Micropropagación: multiplicación del material vegetal para producir un gran número de plantas, utilizando cultivos in vitro de brotes vegetativos diferenciados o meristemos vegetativos diferenciados procedentes de una planta;
+
+s) Prácticamente libres de defectos: cualidad de los materiales de reproducción o plantones de frutal en los que los defectos que pueden perjudicar su calidad y utilidad están presentes en un nivel igual o inferior a la cuantía prevista en las buenas prácticas de cultivo y manipulación, y dicho nivel se ajusta a las buenas prácticas de cultivo y manipulación;
+
+t) Prácticamente libres de organismos nocivos: cualidad de los materiales de reproducción o plantones de frutal en los que los organismos nocivos están presentes en un nivel suficientemente bajo que garantice la calidad y utilidad de dichos materiales;
+
+u) Criopreservación: el mantenimiento de material vegetal por enfriamiento a temperaturas muy bajas a fin de mantener su viabilidad.
+
+> Se modifica la letra d) y se añaden las letras i) a u) por el art. único.1 y 2 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Se modifican las letras a) y e) por el art. único.1 del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+> La modificación de la letra e) es de aplicación a partir del 30 de septiembre de 2012, según establece la disposición final única.
+
+#### Artículo 5. Otras definiciones.
+
+A los efectos de este Reglamento se entenderá por:
+
+a) Proveedor: toda persona, física o jurídica, que ejerza profesionalmente en relación con las semillas y plantas de vivero algunas de las actividades siguientes: producción, almacenaje, importación y comercialización o puesta en el mercado.
+
+b) Productor: proveedor que al menos multiplica o produce plantas de vivero.
+
+c) Comercialización: venta, tenencia destinada a la venta, oferta de venta y cesión, entrega o transmisión con fines de explotación comercial, de semillas o de plantas de vivero, incluido cualquier consumidor, a título oneroso o no.
+
+d) Laboratorio: toda instalación utilizada para el ensayo de materiales de reproducción y plantones de frutal.
+
+e) Lote: una cantidad determinada de elementos de un único producto de plantas de vivero, identificable por la homogeneidad de su composición y de su origen.
+
+f) Precintado de plantas de vivero: consiste en las operaciones de cerrado de los haces o envases que las contienen, en su caso, y en la colocación de las etiquetas previstas en este Reglamento, de tal forma que sea imposible abrirlos sin deteriorar el cierre o sin dejar señales que muestren la evidencia de haberse podido alterar o cambiar su contenido o identificación.
+
+g) Precintado oficial de plantas de vivero: cuando las operaciones correspondientes se realicen oficialmente o bajo control del organismo oficial responsable y de acuerdo con lo expuesto en este Reglamento.
+
+h) Organismo oficial responsable:
+
+1.º La Dirección General de Producciones y Mercados Agrícolas, a través de la Subdirección General del Instituto Nacional de Semillas y Plantas de Vivero, respecto a la ordenación y coordinación en materia de control y certificación de plantas de vivero de frutales, así como todas las funciones en lo que se refiere a los intercambios de dicho material con países terceros.
+
+2.º Los órganos competentes de las Comunidades Autónomas, respecto a la ejecución de las operaciones necesarias para el control y certificación correspondiente.
+
+3.º Los organismos oficiales responsables podrán delegar, de conformidad con la legislación nacional, para que se ejerzan bajo su autoridad y control las tareas que les asigna el presente real decreto en cualquier persona jurídica, de derecho público o privado, que, con arreglo a sus estatutos oficialmente aprobados, sea responsable exclusivamente de tareas específicas de interés público, siempre que ni dicha persona jurídica ni sus miembros obtengan provecho personal alguno de las medidas que adopten.
+
+i) Medidas oficiales: las medidas adoptadas por el organismo oficial responsable.
+
+j) Inspección oficial: la efectuada por el organismo oficial responsable o bajo la responsabilidad del organismo oficial responsable.
+
+k) Declaración oficial: la declaración hecha por el organismo oficial responsable o bajo su responsabilidad.
+
+> Se añade un párrafo 3º a la letra h) por el art. 1.2 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se modifica la letra d) por el art. único.3 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Se modifican las letras a), c) y j) por el art. único.2 del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+> La modificación de la letra j) es de aplicación a partir del 30 de septiembre de 2012, según establece la disposición final única.
+
+#### Artículo 6. Categorías.
+
+A los efectos de este Reglamento se definen las siguientes categorías de plantas de vivero de frutales:
+
+a) Material inicial: los materiales de multiplicación:
+
+1.º Que componen la unidad inicial a partir de los cuales se producen todas las plantas de vivero de un clon de la variedad de que se trate.
+
+2.º Que correspondan a la variedad y satisfagan las condiciones estipuladas para los materiales iniciales en este Reglamento.
+
+3.º Que se produzcan y conserven en condiciones que aseguren el mantenimiento de la identidad varietal, así como la prevención de enfermedades.
+
+4.º Que estén destinados a la producción de material de base.
+
+5.º Que, sometidos a inspección oficial, hayan demostrado satisfacer todas las condiciones anteriores.
+
+b) Material de base: los materiales de multiplicación:
+
+1.º Que se hayan obtenido vegetativamente, de forma directa o en un número limitado de fases, utilizando métodos comúnmente aceptados, a partir del material inicial.
+
+2.º Que correspondan a la variedad y satisfagan las condiciones estipuladas para los materiales de base en este Reglamento.
+
+3.º Que se produzcan y conserven en condiciones que aseguren el mantenimiento de la identidad varietal, así como la prevención de enfermedades.
+
+4.º Que estén destinados a la producción de material certificado.
+
+5.º Que, sometidos a inspección oficial, hayan demostrado satisfacer todas las condiciones anteriores.
+
+c) Material certificado:
+
+1\. Los materiales de multiplicación que:
+
+a. Se hayan obtenido vegetativamente, de forma directa o en un número limitado de fases, a partir del material de base.
+
+b. Satisfagan las condiciones estipuladas para los materiales certificados de este Reglamento.
+
+c. Sometidos a inspección oficial, hayan demostrado satisfacer todas las condiciones anteriores.
+
+2\. Los plantones de frutal que:
+
+a. Se hayan obtenido de forma directa a partir de materiales de multiplicación certificados, de base o iniciales.
+
+b. Estén destinados a la producción de fruta.
+
+c. Cumplan los requisitos específicos establecidos para los plantones de frutal certificados.
+
+d. Hayan demostrado en una inspección oficial que cumplen los requisitos anteriores.
+
+d) Material CAC (Conformitas Agrarias Communitatis): los materiales de reproducción y plantones de frutal que:
+
+1.º Posean identidad varietal y pureza varietal adecuada.
+
+2.º Estén destinados a:
+
+La producción de materiales de multiplicación,
+
+la producción de plantones de frutal, o
+
+la producción de fruta.
+
+3.º Cumplan los requisitos específicos para los materiales CAC.
+
+e) Material estándar: los materiales de multiplicación y plantones de frutal que satisfagan las condiciones mínimas estipuladas para esta categoría en este Reglamento y que comprenden, al menos, las fijadas para el material CAC.
+
+Las categorías de plantas de vivero que se pueden producir en cada subgrupo de especies serán las señaladas en el anexo X.
+
+> Se modifican las letras c) y d) por el art. único.3 del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+> Esta modificación es de aplicación a partir del 30 de septiembre de 2012, según establece la disposición final única.
+
+> Se añade la letra e) y el último párrafo por el art. único.2 y 3 del Real Decreto 234/2002, de 1 de marzo. [Ref. BOE-A-2002-5101](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-5101)
+
+## CAPITULO III — Variedades
+
+#### Artículo 7. Referencia varietal.
+
+Los materiales de multiplicación y los plantones de frutales se comercializarán con una referencia a la variedad a la que pertenecen. Si, en el caso de portainjertos, el material no pertenece a una variedad, la referencia será a la especie o al híbrido interespecífico de que se trate.
+
+#### Artículo 8. Variedades que se pueden comercializar.
+
+1\. Las variedades a que se refiere el artículo 7 deberán:
+
+a) Estar protegidas jurídicamente por una protección de obtención vegetal de acuerdo con las disposiciones sobre protección de nuevas variedades;
+
+b) Estar registradas oficialmente en el Registro de variedades comerciales, o
+
+c) Ser de conocimiento común; una variedad se considerará de conocimiento común cuando:
+
+1.º Haya sido oficialmente registrada en otro Estado miembro,
+
+2.º Haya sido objeto de una solicitud de registro oficial en cualquier Estado miembro, o de una solicitud de obtención vegetal mencionada en la letra a), o
+
+3.º Ya haya sido comercializada antes del 30 de septiembre de 2012 en el territorio del Estado miembro de que se trate, o de otro Estado miembro, a condición de que tenga descripción oficialmente reconocida por la Subdirección General de Medios de Producción Agrícolas y Oficina Española de Variedades Vegetales del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+También podrá hacerse referencia de conformidad con el artículo 7 a una variedad sin valor intrínseco para comercialización oficial, a condición de que dicha variedad posea una descripción oficialmente reconocida y los materiales de multiplicación y los plantones frutales estén comercializados como materiales CAC en el territorio del Estado miembro de que se trate y estén identificados mediante una referencia a la presente disposición en la etiqueta o el documento.
+
+2\. Modalidades de inscripción de variedades. Las variedades podrán registrarse oficialmente cuando reúnan las condiciones exigibles aprobadas oficialmente y posean descripción oficial. También podrán registrarse oficialmente cuando su material se haya comercializado antes del 30 de septiembre de 2012 como material CAC en el territorio del Estado miembro de que se trate, siempre y cuando tengan una descripción oficialmente reconocida.
+
+> Se modifica por el art. único.1 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+> Se modifica por el art. único.4 del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+> Esta modificación es de aplicación a partir del 30 de septiembre de 2012, según establece la disposición final única.
+
+#### Artículo 9. Variedades que se pueden certificar.
+
+**(Derogado)**
+
+> Se deroga por el art. único.4 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 10. Variedades registradas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 170/2011, de 11 de febrero. [Ref. BOE-A-2011-2705](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2705).
+
+#### Artículo 11. Variedades con solicitud de Registro.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 170/2011, de 11 de febrero. [Ref. BOE-A-2011-2705](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2705).
+
+#### Artículo 12. Variedades en listas de proveedores.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+#### Artículo 13. Datos mínimos de las listas de los proveedores.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+## CAPITULO IV — Producción de plantas de vivero
+
+#### Artículo 14. Densidades.
+
+Las densidades de plantación serán las adecuadas para poder observar individualmente cada planta.
+
+Cada fila de plantas de una parcela deberá ser de la misma variedad o, en su caso, de la misma combinación variedad/patrón. El organismo oficial responsable podrá autorizar filas incompletas siempre que estén debidamente separadas y diferenciadas.
+
+#### Artículo 15. Reinjertada.
+
+Cuando sea preciso utilizar en la producción de un plantón otra variedad de forma intermedia entre la madera del patrón y la de la variedad principal, dicha situación y la variedad intermedia utilizada se hará constar en los albaranes.
+
+#### Artículo 16. Tratamientos.
+
+**(Derogado)**
+
+> Se deroga por el art. único.4 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 17. Depuraciones.
+
+**(Derogado)**
+
+> Se deroga por el art. único.4 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 18. Lotes.
+
+Durante todas las fases de cultivo, tanto los materiales de multiplicación como los plantones se mantendrán en lotes separados.
+
+#### Artículo 18 bis. Especificación.
+
+Los materiales de reproducción que cumplan los requisitos de una determinada categoría no se mezclarán con materiales de otras categorías.
+
+> Se añade por el art. único.5 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+## CAPITULO V — Requisitos para los materiales de reproducción y para los plantones de frutal de categorías CAC y estándar
+
+> Se modifica por el art. único.6 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 19. Requisitos para la aceptación de materiales CAC y estándar, excepto portainjertos que no pertenezcan a una variedad.
+
+1\. Los materiales CAC y estándar, excepto los portainjertos que no pertenezcan a una variedad, solo podrán comercializarse si se ha comprobado que cumplen los siguientes requisitos:
+
+a) Se propagan a partir de una fuente identificada de material registrada por el proveedor.
+
+b) Son idénticos a la descripción de la variedad, de conformidad con el artículo 19 ter.
+
+c) Cumplen los requisitos de sanidad del artículo 19 quáter.
+
+d) Cumplen lo dispuesto en el artículo 19 quinquies en cuanto a los defectos.
+
+2\. El apartado 1 no se aplicará a:
+
+a) Los materiales CAC durante la crio preservación;
+
+b) Los materiales CAC, siempre que se hayan producido en zonas que se consideren libres de las plagas correspondientes, o que se tenga constancia de ello, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias ("Requisitos para el establecimiento de áreas libres de plagas", norma NIMF n.º 4 [1995], Roma, CIPF, FAO 2017).
+
+3\. En caso de que los materiales CAC y estándar ya no cumplan lo dispuesto en el apartado 1, el proveedor llevará a cabo una de las siguientes acciones:
+
+a) Retirar los materiales de los alrededores de otros materiales CAC y estándar.
+
+b) O tomar medidas adecuadas para garantizar que vuelvan a cumplir los requisitos.
+
+> Se modifica el apartado 2 por el art. 1.1 del Real Decreto 525/2023, de 20 de junio. [Ref. BOE-A-2023-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14680)
+
+> Se modifica por el art. único.7 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Se modifican los párrafos primero y segundo por el art. único.2 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+> Se modifica por el art. único.5 del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+#### Artículo 19 bis. Requisitos para la aceptación de materiales CAC y estándar en caso de portainjertos que no pertenezcan a una variedad.
+
+1\. En el caso de portainjertos que no pertenezcan a una variedad, los materiales CAC y estándar cumplirán los requisitos siguientes:
+
+a) Son idénticos a la descripción de su especie.
+
+b) Cumplirán los requisitos de sanidad del artículo 19 quáter.
+
+c) Cumplirán lo dispuesto en el artículo 19 quinquies en cuanto a los defectos.
+
+2\. El proveedor llevará a cabo las acciones necesarias para ajustarse a lo dispuesto en el apartado 1.
+
+3\. En caso de que los materiales CAC y estándar ya no cumplan lo dispuesto en el apartado 1, el proveedor llevará a cabo una de las siguientes acciones:
+
+a) Retirar los materiales de los alrededores de otros materiales CAC y estándar.
+
+b) O tomar medidas adecuadas para garantizar que vuelvan a cumplir los requisitos.
+
+> Se añade por el art. único.8 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 19 ter. Identidad con la descripción de la variedad.
+
+1\. La identidad de los materiales CAC y estándar con la descripción de la variedad se establecerá observando la expresión de las características de la variedad. Dicha observación se basará en uno de los siguientes elementos:
+
+a) La descripción oficial de las variedades registradas, conforme a lo dispuesto en el Reglamento general del registro de variedades comerciales, aprobado por Real Decreto 170/2011, de 11 de febrero, y de las variedades legalmente protegidas como obtención vegetal, o
+
+b) La descripción que acompaña a la solicitud para las variedades objeto de solicitud de registro en cualquier Estado miembro;
+
+c) La descripción que acompaña a la solicitud de protección como obtención vegetal;
+
+d) La descripción oficialmente reconocida de la variedad a que se refiere el presente Reglamento.
+
+2\. La identidad de los materiales CAC y estándar a la descripción de la variedad se verificará a intervalos regulares observando la expresión de las características de la variedad en los materiales CAC y estándar de que se trate.
+
+> Se añade por el art. único.8 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 19 quáter. Requisitos de sanidad para los materiales CAC y estándar.
+
+1\. Se determinará, mediante inspección visual realizada por el proveedor en las instalaciones, los campos y los lotes en la fase de producción, que los materiales CAC y estándar están prácticamente libres de las plagas enumeradas en los anexos I, II y II bis para el género o la especie de que se trate, salvo indicación en contrario en el anexo II quáter.
+
+El proveedor llevará a cabo muestreos y ensayos de la fuente identificada de materiales o los materiales CAC y estándar para las plagas enumeradas en el anexo II bis, de conformidad con los requisitos del anexo II quáter para el género o la especie y categoría de que se trate.
+
+En caso de duda sobre la presencia de las plagas enumeradas en el anexo I, el proveedor llevará a cabo muestreos y ensayos de la fuente identificada de materiales o materiales CAC y estándar de que se trate.
+
+Después de la fase de producción, los lotes de materiales de reproducción CAC y estándar y de plantones de frutales CAC y estándar solo se comercializarán si, mediante una inspección visual realizada por el proveedor, se determina que están libres de indicios o síntomas de las plagas enumeradas en los anexos I, II y II bis.
+
+El proveedor aplicará las medidas destinadas a garantizar el cumplimiento de los requisitos del apartado 1, con arreglo al anexo II quáter para el género o la especie y categoría de que se trate.
+
+2\. El apartado 1 no se aplicará a los materiales CAC y estándar durante la criopreservación.
+
+> Se modifica por el art. 1.3 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se añade por el art. único.8 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 19 quinquies. Requisitos relativos a los defectos.
+
+Los materiales CAC y estándar estarán prácticamente libres de defectos a la inspección visual. Las lesiones, decoloraciones, cicatrices o desecaciones se considerarán defectos si afectan a la calidad y utilidad como materiales de reproducción.
+
+> Se añade por el art. único.8 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 20. Requisitos aplicables a la fuente identificada.
+
+Las plantas de vivero CAC procederán de plantas madre conocidas, salvo lo dispuesto en los siguientes artículos para determinadas especies.
+
+Cuando los productores no tengan establecidos los campos de pies madres, deberán acreditar las adquisiciones de patrones o injertos mediante albaranes y facturas a otro productor registrado. En el caso de que el material de multiplicación para la producción de planta CAC o estándar se tome de plantaciones comerciales, se señalarán los árboles utilizados. Cuando el propietario de la plantación sea distinto del productor, deberá formalizar dicha operación con un documento conforme al modelo del anexo XIV de este Reglamento.
+
+En el caso de la producción de plantas de vivero de olivo, el material CAC provendrá de la multiplicación de material certificado, o bien de árboles madre que hayan sido inspeccionados individualmente y encontrados libres de Verticillium dahliae. Estos árboles madre se mantendrán libres del hongo y se testarán periódicamente para su comprobación en un porcentaje, al menos, del 10 por cien anual.
+
+En el caso de la producción de plantas de vivero de fresa, las plantas CAC provendrán de la multiplicación de plantas de vivero de categoría certificada, o bien de los campos de producción de planta certificada que no hayan cumplido los requisitos exigidos a dicha categoría, siempre que no sobrepasen las tolerancias establecidas.
+
+En el caso de plantas de vivero de cítricos, deberán cumplir los requisitos de origen del artículo 21.
+
+> Se modifica el título y se renumera por el art. único.9 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Su anterior numeración era art. 19.
+
+> Se modifica por el art. único.9 del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+#### Artículo 21. Cítricos.
+
+El material CAC de cítricos deberá cumplir también los siguientes requisitos:
+
+a) **(Derogada)**
+
+b) Deberá haber sido inspeccionado y declarado sustancialmente libre de los citados virus, organismos similares a virus y enfermedades, desde el principio del último ciclo vegetativo.
+
+Para ello, al menos un 10 por 100 de las plantas madre de material CAC y el 0,1 por 100 de los plantones CAC se testarán anualmente para tristeza.
+
+La tolerancia en la observación visual de síntomas de enfermedades distintas que la tristeza será de 4 por 100 como máximo.
+
+c) En caso de injerto, no deberá haber sido injertado en patrones que sean sensibles a viroides, citrange troyer, citrange carrizo, citrus macrophylla y otros sensibles.
+
+> Se derogan las letras a) y d) por el art. único.10 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Se añade la letra d) por el art. único.1 del Real Decreto 250/2006, de 3 de marzo. [Ref. BOE-A-2006-5513](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-5513)
+
+#### Artículo 22. Calificaciones.
+
+El material CAC no tendrá ninguna referencia a las calificaciones «libre de virus» (VF) o «sometido a control de virus» (VT).
+
+#### Artículo 23. Pureza varietal.
+
+El material CAC deberá tener una pureza varietal superior al 99 por 100, salvo lo previsto en el artículo 7 en que dicha pureza se entenderá referida a la especie o al híbrido intergenérico, cuando proceda. En el caso del subgrupo platanera, la pureza varietal será superior al 90 por 100.
+
+#### Artículo 24. Calidad exterior.
+
+**(Derogado)**
+
+> Se deroga por el art. único.11 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 25. Normativa fitosanitaria.
+
+Toda planta de vivero, tanto CAC como de las demás categorías, deberá cumplir, en su caso, las condiciones fitosanitarias pertinentes establecidas en el Real Decreto 58/2005, de 21 de enero.
+
+> Se modifica por la disposición final 2 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+## CAPITULO VI — Controles
+
+#### Artículo 26. Requisitos específicos para los proveedores dedicados a la producción o reproducción de materiales de reproducción y plantones de frutal.
+
+Los proveedores, como responsables de los materiales de multiplicación y de los plantones de frutal que comercialicen, tomarán las medidas necesarias para garantizar el cumplimiento de las normas fijadas en el presente Reglamento en todas las etapas de la producción y de la comercialización de las plantas de vivero.
+
+Con dicha finalidad, los proveedores, bien por ellos mismos o, en su caso, en colaboración con otro proveedor o del organismo oficial responsable, deberán efectuar controles que estén basados en los principios siguientes:
+
+a) Identificación de los puntos críticos de su proceso de producción, basándose en los métodos de producción utilizados, debiendo tener en cuenta, cuando proceda, los siguientes:
+
+1.º La calidad de las plantas de vivero utilizadas para iniciar el proceso de producción.
+
+2.º La siembra, trasplante, plantación en macetas y plantación de las plantas de vivero.
+
+3.º El cumplimiento de las condiciones establecidas en los artículos 3, 4 y 5 del Real Decreto 58/2005, de 21 de enero.
+
+4.º El plan y método del cultivo.
+
+5.º El cuidado general del cultivo.
+
+6.º Las operaciones de multiplicación.
+
+7.º Las operaciones de recolección.
+
+8.º La higiene y los tratamientos.
+
+9.º El embalaje y envasado, almacenamiento y transporte.
+
+10.º La administración.
+
+11.º Ubicación y número de plantas con indicación de la categoría.
+
+b) La elaboración y puesta en marcha de métodos de vigilancia y de control de los puntos críticos anteriormente mencionados, debiendo tener en cuenta:
+
+1.º La disponibilidad y utilización real de métodos para controlar cada uno de los referidos puntos críticos.
+
+2.º La fiabilidad de esos métodos.
+
+3.º La idoneidad para evaluar el contenido de las modalidades de producción y comercialización, incluidos los aspectos administrativos.
+
+4.º La competencia del personal del proveedor para realizar los controles.
+
+c) La toma de muestras, que deberán analizarse en un laboratorio reconocido por el organismo oficial responsable, deberá asegurar que:
+
+1.º Las muestras se tomen durante las distintas fases del proceso de producción y en los intervalos establecidos por el organismo oficial responsable al efectuar la comprobación de los métodos de producción para la concesión de la autorización del proveedor.
+
+2.º El muestreo se realice de un modo técnicamente correcto y siguiendo un procedimiento estadísticamente fiable teniendo en cuenta el tipo de análisis a realizar.
+
+3.º Las personas que tomen las muestras deben ser competentes para ello.
+
+d) La anotación por escrito, o por algún otro medio que garantice una conservación duradera, de los datos correspondientes a los puntos a), b) y c) anteriores, y el mantenimiento de un registro de la producción y de la comercialización de las plantas de vivero, los cuales se tendrán a disposición del organismo oficial responsable. Estos documentos y registros se conservarán durante un período de tres años como mínimo y contendrán información completa sobre:
+
+1.º Las plantas de vivero compradas para su almacenamiento o utilización en su proceso de producción.
+
+2.º Las plantas de vivero en proceso de producción.
+
+3.º Las plantas de vivero expedidas a otros, o registro de salidas.
+
+4.º Los tratamientos químicos aplicados a las plantas.
+
+5.º En el caso de producción «in vitro», y para cada línea de descendencia distinta: fecha de cada operación, número de plantas e identificación de cada subcultivo.
+
+e) Colaborar con el organismo oficial responsable en cuanto se refiere a su actividad y al control oficial correspondiente y especialmente:
+
+1.º Encargarse personalmente o designar otra persona con experiencia técnica en la producción de plantas y en cuestiones fitosanitarias para relacionarse con dicho organismo oficial responsable.
+
+2.º Efectuar, siempre que sea necesario y en los momentos oportunos, inspecciones visuales, en la forma autorizada por el organismo oficial responsable.
+
+3.º Facilitar el acceso a las personas facultadas para actuar en nombre del organismo oficial responsable, a los registros y documentos indicados en el párrafo d).
+
+No obstante, los proveedores cuya actividad en este ámbito se limite a la mera distribución de plantas de vivero producidas y embaladas fuera de su establecimiento, deberán llevar únicamente un registro, o conservar pruebas duraderas, de las operaciones de compra y venta o entrega de plantas de vivero que hayan realizado.
+
+El presente artículo no se aplicará a los proveedores cuya actividad en este ámbito, se limite a la entrega de pequeñas cantidades de plantas de vivero a los consumidores finales no profesionales.
+
+> Se modifica el título y se añade el número11º al apartado a) por el art. único.12 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Se modifica por la disposición final 2 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+> Se modifica el primer párrafo por el art. único.7 del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+> Esta modificación es de aplicación a partir del 30 de septiembre de 2012, según establece la disposición final única.
+
+#### Artículo 27. Presencia de organismos nocivos.
+
+Cuando a raíz de los propios controles, o de la información de que dispongan, los proveedores comprobasen la presencia de uno o varios de los organismos nocivos contemplados en el Real Decreto 58/2005, de 21 de enero, o la presencia, en cantidad superior a lo admisible, de los organismos contemplados en el anexo II, informarán de ello inmediatamente al organismo oficial responsable y tomarán las medidas que éste les indique, o cualquier otra medida necesaria para reducir el riesgo de diseminación de dichos organismos nocivos en cuestión. Los proveedores llevarán un registro de todos los casos de detección de organismos nocivos en sus establecimientos y de todas las medidas que se hayan adoptado al respecto.
+
+> Se modifica por la disposición final 2 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+#### Artículo 28. Control de los proveedores.
+
+El organismo oficial responsable llevará a cabo regularmente la vigilancia y el control de los proveedores, así como de sus establecimientos, a fin de asegurar el cumplimiento continuado de los requisitos establecidos en el presente Reglamento. En el caso de los proveedores productores esta vigilancia o control se llevará a cabo en el momento apropiado y, al menos, una vez al año.
+
+#### Artículo 29. Control de los procesos.
+
+Los procesos de producción y comercialización serán objeto de inspección por el organismo oficial responsable, que podrá tomar muestras en todo momento durante los mismos, a cuyo fin se podrá exigir, excepcionalmente, que se comunique la iniciación de la recolección en cada parcela.
+
+#### Artículo 29 bis. Requisitos generales relativos a las inspecciones oficiales.
+
+1\. Durante las inspecciones oficiales, el organismo oficial responsable prestará especial atención a los siguientes aspectos:
+
+a) La adecuación de los métodos del proveedor y su utilización efectiva para controlar cada uno de los puntos críticos del proceso de producción.
+
+b) La competencia general del personal del proveedor para realizar las actividades establecidas por los artículos 26 y 27.
+
+2\. Los organismos oficiales responsables elaborarán y mantendrán registros de los resultados y las fechas de todas las inspecciones sobre el terreno, muestreos y ensayos que realicen.
+
+> Se añade por el art. único.13 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 30. Inspecciones oficiales.
+
+Las inspecciones oficiales podrán ser visuales o por toma de muestras para su análisis, cuando proceda.
+
+Los procesos de producción y comercialización serán objeto de las inspecciones que determine el organismo oficial responsable, el cual podrá tomar muestras en cualquier momento durante los mismos.
+
+Cuando se tomen muestras oficiales, se procederá de forma que se garantice la identidad y representatividad de la muestra. Siempre se levantará un acta de dicha toma de muestras oficial en la que se reflejarán cuantos datos y circunstancias sean necesarios para la identificación de la muestra.
+
+Las descalificaciones de partidas de plantas de vivero serán comunicadas por escrito al proveedor, indicando los motivos.
+
+El organismo oficial responsable llevará a cabo los oportunos postcontroles sobre las plantas producidas, teniendo en cuenta los albaranes mencionados en el artículo 43 y lo dispuesto en la Orden de 23 de mayo de 1986, por la que se aprueba el Reglamento general técnico de control y certificación de semillas y plantas de vivero, modificada en último lugar por la Orden de 10 de octubre de 1994.
+
+#### Artículo 31. Declaraciones y estadísticas.
+
+Los proveedores enviarán al organismo oficial responsable, antes del 31 de mayo de cada año, las declaraciones de cultivos y de comercialización, en donde figuren, al menos, los datos de: unidades, kilos de semilla, metros cuadrados de cultivo, localización de las parcelas y origen del material de multiplicación, en cada caso, y para cada variedad, clon y categoría de planta de vivero producida o comercializada.
+
+Con el fin de confeccionar las estadísticas nacionales y facilitar la información prevista en la normativa comunitaria, los órganos competentes de las Comunidades Autónomas enviarán a la Dirección General de Producciones y Mercados Agrícolas (Subdirección General del Instituto Nacional de Semillas y Plantas de Vivero) antes del 1 de julio de cada año los datos de plantas madres, producción y comercialización de la campaña ordenados por variedades, tipo de material y categorías.
+
+## CAPITULO VII — Proveedores
+
+> Se modifica por el art. único.14 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 32. Proveedores.
+
+1\. Todos los proveedores deberán estar debidamente autorizados por el organismo oficial responsable de acuerdo con lo previsto en el artículos 36, 37 y 38 de la Ley 30/2006, de 26 de julio, de Semillas y plantas de vivero y de recursos fitogenéticos, y lo establecido en el Real Decreto 1891/2008, de 14 de noviembre, por el que se aprueba el Reglamento para la autorización y registro de los productores de semillas y plantas de vivero y su inclusión en el Registro nacional de productores.
+
+2\. Atendiendo a la actividad principal que realizan, los proveedores se clasifican en:
+
+a) Productor: el que realiza la actividad de producción y puede realizar, además, cualquiera de las señaladas para los demás proveedores.
+
+b) Comerciante: el que realiza la actividad de importación, almacenamiento o comercialización o puesta en el mercado.
+
+> Se modifica por el art. único.8 del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+#### Artículo 33. Laboratorios.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+#### Artículo 34. Categorías de productores de plantas de vivero.
+
+Se admiten las siguientes categorías de productores de plantas de vivero:
+
+a) Productor obtentor, autorizado para la producción de material inicial y base.
+
+b) Productor seleccionador, autorizado para la producción de material inicial, base, certificado y CAC o material estándar, en su caso.
+
+c) Productor multiplicador, autorizado para la producción de las categorías material certificado y material CAC o material estándar, en su caso.
+
+En el caso del subgrupo cítricos sólo se admiten las categorías de productor obtentor y de productor seleccionador.
+
+> Se modifican las letras b) y c) por el art. único.9 del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+#### Artículo 35. Requisitos para la autorización de productores obtentores.
+
+a) Disponer en explotación directa de la superficie de terreno necesaria y adecuada para el mantenimiento y producción de material inicial y base.
+
+b) Disponer de las instalaciones precisas para el mantenimiento y la producción de su material vegetal, incluidos, en su caso, las de laboratorio e instalaciones de abrigo y protección.
+
+c) Disponer del personal técnico especializado en la materia, tanto para los trabajos de obtención, en su caso, como para la ejecución de los trabajos de mantenimiento, análisis y producción de su material.
+
+#### Artículo 36. Requisitos para la autorización de productores seleccionadores.
+
+Los productores seleccionadores de plantas de vivero deben cumplir los siguientes requisitos:
+
+a) Instalaciones y maquinaria. Disponer al menos de:
+
+1.º Cámaras acondicionadas para la conservación, estratificación y multiplicación, en su caso, de semillas, estaquillas o injertos.
+
+2.º Semilleros, en su caso.
+
+3.º Maquinaria para tratamientos fitosanitarios.
+
+4.º Laboratorio para detección de plagas y enfermedades.
+
+5.º Almacén para la preparación y conservación de plantas de vivero.
+
+6.º Instalaciones para la aclimatación de plantas en el caso de producción "in vitro".
+
+El organismo oficial responsable decidirá si las características y dimensionado de las instalaciones y maquinaria son adecuadas en cada caso, y podrá admitir que ciertas instalaciones sean comunes para varios viveros.
+
+b) Producción de plantas de vivero de base: En el plazo de tres años, a partir de la concesión del título de Productor Seleccionador, cada productor seleccionador producirá por sí mismo o asociadamente las plantas de vivero de base necesarias para su producción de plantas de vivero certificadas.
+
+c) Personal técnico: Disponer, al menos, de un técnico especializado en la materia con titulación universitaria. Asimismo, disponer de técnicos inspectores de campo especialistas en sus distintos niveles de producción en número adecuado a sus planes de producción.
+
+Los productores asegurarán la correcta formación de su personal.
+
+> Se modifica por el art. único.3 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+#### Artículo 37. Requisitos para la autorización de productores multiplicadores.
+
+Los productores multiplicadores deben cumplir los siguientes requisitos:
+
+a) Instalaciones y maquinaria: disponer al menos las siguientes:
+
+1.º Almacén para la preparación y conservación de plantas de vivero.
+
+2.º Maquinaria para tratamientos fitosanitarios.
+
+b) Disponer de campos de pies madre de patrones y de variedades propios, adecuados a su volumen de producción, salvo que adquieran el material de multiplicación.
+
+c) Disponer de medios técnicos y humanos para efectuar los controles necesarios establecidos en el capítulo VI de este Reglamento, y en especial los relativos a la detección de organismos patógenos perjudiciales.
+
+El organismo oficial responsable decidirá si las características y capacidad de las instalaciones, maquinaria, campos y medios son adecuados en cada caso y podrá admitir que sean comunes para varios viveros.
+
+#### Artículo 38. Solicitud de título de productor.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+#### Artículo 39. Relación nacional de proveedores y laboratorios.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+## CAPITULO VIII — Etiquetado, precintado y embalaje
+
+> Se modifica por el art. único.15 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 40. Partidas identificadas.
+
+Las partidas de plantas de vivero de las especies recogidas en el anexo X deberán estar debidamente identificadas durante todos los procesos a que sean sometidas desde el momento de su recogida en el campo hasta su comercialización.
+
+> Se modifica por el art. único.2 del Real Decreto 428/2020, de 3 de marzo. [Ref. BOE-A-2020-4264](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4264)
+
+> Se modifica por el art. único.15 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Se añade el párrafo final por el art. único.10 del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+> Esta modificación es de aplicación a partir del 30 de septiembre de 2012, según establece la disposición final única.
+
+> Se modifica el párrafo segundo y se añade el último párrafo por el art. único.4 y 5 del Real Decreto 234/2002, de 1 de marzo. [Ref. BOE-A-2002-5101](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-5101)
+
+#### Artículo 41. Etiquetado de materiales iniciales, de base o certificados.
+
+1\. El organismo oficial responsable elaborará y colocará una etiqueta en los vegetales o partes de vegetales que vayan a comercializarse como materiales de multiplicación o plantones de frutal destinados a la producción frutícola. El organismo oficial responsable podrá autorizar al productor a elaborar y colocar la etiqueta bajo su supervisión. Las condiciones de esta autorización se establecerán reglamentariamente.
+
+2\. Los materiales iniciales, de base o certificados irán etiquetados individualmente, o en haces o en envases según las siguientes normas:
+
+Los materiales de multiplicación o plantones de frutal que formen parte del mismo lote podrán comercializarse con una sola etiqueta si forman parte del mismo embalaje, haz o envase, en todos los casos precintado.
+
+Los plantones de frutal con uno o más años de antigüedad deberán etiquetarse individualmente. En tal caso, si los plantones han sido producidos directamente en el suelo el etiquetado deberá llevarse a cabo sobre el terreno, antes del arranque.
+
+Si estos plantones con uno o más años de antigüedad se comercializan en una campaña posterior a la de su certificación deben someterse a una nueva comprobación de las condiciones necesarias para su certificación. La fecha de esta segunda certificación deberá reflejarse en la etiqueta con la que se comercialice el material. En esta situación se podrá admitir el reetiquetado después del arranque de los plantones que se hubieran etiquetado la campaña anterior.
+
+Si no se somete a esta segunda certificación podrá comercializarse como CAC o estándar, según proceda, previa comprobación por parte del productor de que se cumplen los requisitos establecidos para estas categorías.
+
+Los plantones certificados que se dirijan a su comercialización a consumidores finales no profesionales, y que permanezcan ofertados a la venta por un comerciante en campañas posteriores a la de su certificación, quedan exceptuados de someterse a una renovación de la certificación y de ser reetiquetados.
+
+En esta situación, el precintado y etiquetado queda excluido del periodo de validez máximo de diez meses establecido en el artículo 24 de la Orden de 23 de mayo de 1986 por la que se aprueba el Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, pudiendo mantenerse la etiqueta asignada por el productor.
+
+3\. La etiqueta deberá contener como mínimo la información siguiente:
+
+a) La indicación ‘‘Reglas y normas de la UE’’;
+
+b) La indicación “ESPAÑA”;
+
+c) El escudo y la denominación de la comunidad autónoma competente en certificación del material.
+
+d) Código del productor en el Registro Nacional de Productores de Semillas y Plantas de Vivero establecido mediante el Real Decreto 1891/2008, de 14 de noviembre.
+
+e) Código del operador en el Registro Oficial de Productores, Comerciantes e Importadores de Vegetales establecido mediante Orden ministerial de 17 de mayo de 1993, cuando este sea distinto del código del productor reflejado en el apartado d.
+
+f) El número de lote.
+
+g) El número de etiqueta.
+
+h) El nombre botánico de la especie.
+
+i) La categoría (y, para los materiales de base, también el número de generación).
+
+j) La denominación de la variedad y, en su caso, el clon. En el caso de los patrones que no pertenezcan a una variedad, el nombre de la especie o el híbrido interespecífico de que se trate. Para los plantones de frutal dicha información se facilitará respecto a los patrones y los injertos. Para las variedades cuya solicitud de registro oficial o de una protección de obtención vegetal esté pendiente, dicha información debe indicar: ‘‘denominación propuesta’’ y ‘‘solicitud pendiente’’;
+
+k) En su caso, la indicación ‘‘variedad con descripción oficialmente reconocida’’.
+
+l) La cantidad.
+
+m) El país de producción y su código respectivo, si es distinto del Estado miembro del etiquetado.
+
+n) El año de emisión.
+
+o) Si la etiqueta original se ha substituido por otra, el año de emisión de la etiqueta original.
+
+4\. La etiqueta estará impresa de forma indeleble, al menos, en la lengua oficial del Estado, de manera que resulte fácilmente visible y legible.
+
+5\. El color de la etiqueta será el siguiente:
+
+a) Blanca con una raya violeta en diagonal para los materiales iniciales.
+
+b) Blanca para los materiales de base.
+
+c) Azul para los materiales certificados.
+
+No obstante, se establecerá anualmente mediante resolución de la Dirección General de Producciones y Mercados Agrarios el código de colores que se utilizará para diferenciar los patrones y las variedades de cítricos.
+
+6\. Los apartados 6 y 7 del anexo XII recogen modelos oficiales de uso obligatorio para el etiquetado de material inicial, de base y certificado. El productor podrá utilizar etiquetas de las dimensiones más adecuadas a su producción.
+
+> Se modifica el apartado 2 por la disposición final 1.1 del Real Decreto 1054/2021, de 30 de noviembre. [Ref. BOE-A-2021-20730](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20730)
+
+> Se modifica por el art. único.2 del Real Decreto 428/2020, de 3 de marzo. [Ref. BOE-A-2020-4264](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4264)
+
+> Se modifica por el art. único.15 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 42. Documento de acompañamiento de los materiales iniciales, de base o certificados.
+
+1\. Cuando se comercialicen materiales iniciales, de base o certificados, el organismo oficial responsable o el proveedor autorizado elaborarán un documento de acompañamiento que complementará a la etiqueta.
+
+2\. El documento de acompañamiento deberá cumplir como mínimo los siguientes requisitos:
+
+a) Incluir toda la información contenida en la etiqueta, tal como figura en la misma.
+
+b) Redactarse, al menos, en la lengua española oficial del Estado.
+
+c) Entregarse al menos por duplicado (proveedor y destinatario).
+
+d) Acompañar a los materiales desde el establecimiento del proveedor hasta el del destinatario.
+
+e) Incluir el nombre y la dirección del destinatario.
+
+f) Incluir la fecha de emisión del documento.
+
+g) Incluir, en su caso, información adicional pertinente relativa a los lotes de que se trate.
+
+3\. Si la información contenida en el documento de acompañamiento no se corresponde con la información que figura en la etiqueta, prevalecerá la información de la etiqueta.
+
+4\. El anexo XIII establece el modelo de documento de acompañamiento de uso obligatorio para material inicial, de base y certificado.
+
+> Se modifica por el art. único.2 del Real Decreto 428/2020, de 3 de marzo. [Ref. BOE-A-2020-4264](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4264)
+
+> Se modifica por el art. único.15 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 43. Requisitos de precintado y envasado de los materiales iniciales, de base o certificados.
+
+1\. En caso de que los materiales iniciales, de base o certificados se comercialicen en lotes de dos o más plantas o partes de plantas, estos lotes deberán ser suficientemente homogéneos.
+
+2\. Las plantas o partes de plantas que compongan dichos lotes de comercialización deberán estar en un embalaje, envase o haz, en todos los casos precintado.
+
+3\. A los efectos del presente real decreto, ‘‘precintado’’ significa, en el caso de un embalaje o envase, cerrado de forma que no pueda abrirse sin dañar el cierre, y en el caso de un haz, atado de forma que las plantas o partes de plantas que lo compongan no puedan separarse sin dañar las ataduras. El embalaje, envase o haz se etiquetarán de manera que si se les quita la etiqueta pierdan su validez.
+
+4\. El precintado se hará bajo supervisión de la autoridad competente. Podrán determinarse reglamentariamente las condiciones para autorizar que el etiquetado y precintado sean realizados por el productor bajo supervisión de la autoridad competente.
+
+> Se modifica por el art. único.2 del Real Decreto 428/2020, de 3 de marzo. [Ref. BOE-A-2020-4264](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4264)
+
+> Se modifica por el art. único.15 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 44. Etiquetado de materiales CAC y estándar.
+
+1\. Los materiales CAC *(Conformitas Agraria Communitatis)* se comercializarán acompañados con una etiqueta elaborada por el productor con arreglo a lo dispuesto en los apartados 2, 3 y 4.
+
+2\. La etiqueta deberá contener, como mínimo, la información siguiente:
+
+a) La indicación ‘‘Reglas y normas de la UE’’.
+
+b) Código del productor en el Registro Nacional de Productores de Semillas y Plantas de Vivero establecido mediante el Real decreto 1891/2008, que incluye el código del Estado miembro en el que se ha elaborado el documento y el código de la autoridad competente.
+
+c) El número de lote.
+
+d) El nombre botánico.
+
+e) La indicación ‘‘material CAC’’.
+
+f) La denominación de la variedad, y en su caso, el clon. En el caso de los patrones que no pertenezcan a una variedad, el nombre de la especie o el híbrido interespecífico de que se trate. Para los plantones de frutal dicha información se facilitará respecto a los patrones y los injertos. Para las variedades cuya solicitud de registro oficial o de una protección de obtención vegetal esté pendiente, dicha información debe indicar: ‘‘denominación propuesta” y “solicitud pendiente’’.
+
+g) La fecha de emisión del documento.
+
+h) la cantidad, cuando sea distinta de la unidad.
+
+3\. La etiqueta será de color amarillo.
+
+4\. La etiqueta estará impresa de forma indeleble, al menos, en la lengua española oficial del Estado, de manera que resulte fácilmente visible y legible.
+
+5\. El material estándar se acompañará de una etiqueta de acuerdo con los apartados 2, 3 y 4, pero se eliminará la indicación ‘‘Reglas y normas de la UE’’ y se substituirá la indicación ‘‘material CAC’’ por ‘‘material estándar’’.
+
+6\. Los apartados 2, 3, 4 y 5 del anexo XII recogen modelos orientativos de etiqueta para material CAC y estándar. El productor podrá utilizar etiquetas de las dimensiones más adecuadas a su producción y adecuar a ellas la distribución del contenido obligatorio.
+
+7\. Los plantones CAC y estándar que se dirijan a su comercialización a consumidores finales no profesionales, y que permanezcan ofertados a la venta por un comerciante en campañas posteriores a la de su etiquetado, quedan excluidos del periodo de validez máximo de diez meses establecido en el artículo 24 de la Orden de 23 de mayo de 1986 por la que se aprueba el Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, pudiendo mantenerse la etiqueta asignada por el productor.
+
+> Se añade el apartado 7 por la disposición final 1.2 del Real Decreto 1054/2021, de 30 de noviembre. [Ref. BOE-A-2021-20730](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20730)
+
+> Se modifica por el art. único.2 del Real Decreto 428/2020, de 3 de marzo. [Ref. BOE-A-2020-4264](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4264)
+
+> Se modifica por el art. único.15 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 45. Equiparación con el pasaporte fitosanitario.
+
+De acuerdo con lo establecido en el Reglamento (UE) 2016/2031 del Parlamento Europeo y del Consejo, de 26 de octubre de 2016, relativo a las medidas de protección contra las plagas de los vegetales, en el caso de los materiales iniciales, básicos o certificados de las especies y géneros recogidos en el anexo X parte A se incluirá el pasaporte fitosanitario de una manera clara en la etiqueta oficial, conforme a los modelos establecidos en el Reglamento de Ejecución (UE) 2017/2313 de la Comisión, de 13 de diciembre de 2017, por el que se establecen las especificaciones de formato del pasaporte fitosanitario para los traslados en el territorio de la Unión y del pasaporte fitosanitario para la introducción y los traslados en una zona protegida
+
+Para el resto de las categorías, géneros y especies la etiqueta podrá incluir los datos correspondientes al pasaporte fitosanitario establecidos en el anexo VII del Reglamento (UE) 2016/2031, del Parlamento Europeo y del Consejo, de 26 de octubre de 2016.
+
+> Se modifica por el art. único.2 del Real Decreto 428/2020, de 3 de marzo. [Ref. BOE-A-2020-4264](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4264)
+
+> Se modifica y renumera por el art. único.16 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Su anterior numeración era art. 41.
+
+#### Artículo 46. Información adicional en cítricos.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 428/2020, de 3 de marzo. [Ref. BOE-A-2020-4264](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4264)
+
+> Se modifica y renumera por el art. único.16 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Su anterior numeración era art. 44.
+
+#### Artículo 47. Equiparación con el pasaporte fitosanitario.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 428/2020, de 3 de marzo. [Ref. BOE-A-2020-4264](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4264)
+
+> Se modifica y renumera por el art. único.16 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Su anterior numeración era art. 52.
+
+#### Artículo 47 bis. Pasaporte fitosanitario.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 428/2020, de 3 de marzo. [Ref. BOE-A-2020-4264](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4264)
+
+> Se modifica y renumera por el art. único.16 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Su anterior numeración era art. 42.
+
+## CAPITULO IX — Comercialización
+
+#### Artículo 48. Requisitos generales de comercialización.
+
+1\. Los materiales de multiplicación y los plantones de frutal solo podrán ser comercializados por proveedores autorizados y si:
+
+a) Los materiales de multiplicación han sido certificados oficialmente como «materiales iniciales», «materiales de base» o «materiales certificados», o cumplen las condiciones para ser calificados como materiales CAC;
+
+b) Los plantones de frutal han sido certificados oficialmente como «materiales certificados» o cumplen las condiciones para ser calificados como materiales CAC.
+
+2\. Los materiales de multiplicación y los plantones de frutal que consistan en un organismo modificado genéticamente con arreglo al artículo 2, puntos a y b, de la Ley 9/2003, de 25 de abril, por la que se establece el régimen jurídico de la utilización confinada, liberación voluntaria y comercialización de organismos modificados genéticamente, únicamente serán comercializados en virtud de esa Ley o del Reglamento (CE) n.º 1829/2003 del Parlamento Europeo y del Consejo, de 23 de septiembre de 2003, sobre alimentos y piensos modificados genéticamente.
+
+3\. Cuando vayan a utilizarse productos derivados de plantones de frutal o materiales de multiplicación como alimentos o ingredientes de estos incluidos en el ámbito de aplicación del artículo 3 del Reglamento (CE) no 1829/2003, o como piensos o ingredientes de estos incluidos en el ámbito de aplicación del artículo 15 de dicho Reglamento, el material de multiplicación o la variedad de frutal de que se trate únicamente será comercializado si los alimentos o los piensos derivados de estos materiales han sido autorizados en virtud del citado Reglamento.
+
+> Se modifica y renumera por el art. único.17 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Su anterior numeración era art. 42 bis.
+
+> Se modifica por el art. único.4 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+#### Artículo 49. Registro de salidas.
+
+El conjunto de documentos correspondientes a las partidas comercializadas, ordenado correlativamente, constituirá el registro o libro de salidas que deberá ser conservado por los proveedores durante un período de tiempo no inferior a tres años, a los efectos de lo previsto en el artículo 30.
+
+> Se modifica y renumera por el art. único.17 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Su anterior numeración era art. 45.
+
+> Se modifican las letras b) y c) por el art. único.12 del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+#### Artículo 50. Justificación de origen.
+
+Los proveedores deberán conservar la documentación y las facturas de adquisición de plantas para poder justificar el origen de las mismas.
+
+> Se modifica y renumera por el art. único.17 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Su anterior numeración era art. 46.
+
+#### Artículo 51. Lotes.
+
+Las plantas de vivero sólo se comercializarán en lotes suficientemente homogéneos.
+
+Si, durante el embalaje, almacenamiento, transporte o entrega, se juntaran o mezclaran plantas de vivero de distintas procedencias el proveedor hará constar en un registro la composición del lote y la procedencia de sus distintos componentes.
+
+> Se modifica y renumera por el art. único.17 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Su anterior numeración era art. 47.
+
+## CAPITULO X — Requisitos para los materiales de reproducción y para los plantones de frutal de las categorías inicial, de base y certificada
+
+> Se modifica por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+### Sección 1ª. Requisitos generales
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 52. Requisitos.
+
+La producción y comercialización de plantas de vivero de categorías inicial, base y certificada, además de cumplir las condiciones señaladas en este Reglamento para el material CAC, cumplirán las que de forma específica se señalan en este capítulo y en los anexos V, VI, VII, VIII, IX y XI, para los subgrupos frutales de pepita y hueso, cítricos, fresa, platanera, olivo y aguacate, respectivamente.
+
+> Se modifica por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 53. Muestreos y ensayos encaminados a comprobar el cumplimiento de los requisitos de sanidad.
+
+1\. Los muestreos y ensayos se efectuarán durante el periodo del año más adecuado teniendo en cuenta las condiciones climáticas y las condiciones de cultivo de la planta, y la biología de sus organismos nocivos. Los muestreos y ensayos también tendrán lugar en cualquier momento del año en caso de duda sobre la presencia de dichos organismos nocivos.
+
+2\. En lo que respecta a los procedimientos de muestreo y ensayo encaminados a comprobar el cumplimiento de los requisitos de sanidad, se aplicarán los protocolos de la Organización Europea y Mediterránea para la Protección de las Plantas (OEPP) u otros protocolos internacionalmente reconocidos. En los casos en los que no existan tales protocolos, el organismo oficial responsable aplicará los protocolos pertinentes establecidos en el ámbito nacional. En tal caso, los Estados miembros, previa solicitud, pondrán dichos protocolos a disposición de los demás Estados miembros y la Comisión.
+
+3\. El organismo oficial responsable y, en su caso, el proveedor, presentarán las muestras a laboratorios oficialmente aceptados por el organismo oficial responsable.
+
+4\. El método de ensayo de virus, viroides, enfermedades similares a las víricas y fitoplasmas aplicado a los candidatos a plantas madre iniciales y a las plantas madre iniciales producidas por renovación será la indexación biológica con plantas indicadoras. Podrán aplicarse otros métodos de ensayo si la Subdirección General de Medios de Producción Agrícola y Oficina Española de Variedades Vegetales del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente considera, sobre la base de pruebas científicas revisadas por homólogos, que producen resultados tan fiables como la indexación biológica con plantas indicadoras.
+
+> Se modifica por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Se modifica por el art. único.13 del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+### Sección 2ª. Requisitos para los materiales iniciales
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 54. Requisitos para la certificación de materiales iniciales.
+
+1\. Los materiales de reproducción distintos de las plantas madre y de los portainjertos que no pertenezcan a una variedad se certificarán oficialmente, previa solicitud, como materiales iniciales si se ha comprobado que satisfacen los siguientes requisitos:
+
+a) Se han obtenido directamente de una planta madre de conformidad con el artículo 64 o el artículo 65;
+
+b) Son idénticos a la descripción de su variedad y su identidad con la descripción de la variedad se ha verificado con arreglo al artículo 58;
+
+c) Se han mantenido de conformidad con el artículo 59;
+
+d) Cumplen los requisitos de sanidad del artículo 61;
+
+e) Si se ha concedido una excepción con arreglo al artículo 59.4, para el cultivo de plantas madre iniciales y materiales iniciales en el campo en condiciones no a prueba de insectos, el suelo cumple lo dispuesto en el artículo 62;
+
+f) Cumplen lo dispuesto en el artículo 63 en cuanto a los defectos.
+
+2\. La planta madre mencionada en el apartado 1.a) debe haber sido aceptada con arreglo al artículo 56 o haberse obtenido mediante multiplicación con arreglo al artículo 64 o por micropropagación con arreglo al artículo 65.
+
+3\. Cuando una planta madre inicial o unos materiales iniciales dejen de cumplir los requisitos de los artículos 58 a 63, el proveedor los retirará de los alrededores de otras plantas madre iniciales y materiales iniciales. La planta madre o el material retirados podrán utilizarse como materiales de base, certificados o CAC siempre que cumplan los requisitos establecidos en el presente real decreto para las respectivas categorías.
+
+En lugar de retirar dicha planta madre o dicho material, el proveedor podrá tomar medidas adecuadas para garantizar que vuelvan a cumplir los requisitos.
+
+> Se modifica por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 55. Requisitos para la certificación como material inicial de los portainjertos que no pertenezcan a una variedad.
+
+1\. Los portainjertos que no pertenezcan a una variedad se certificarán oficialmente, previa solicitud, como materiales iniciales si se ha comprobado que cumplen los siguientes requisitos:
+
+a) Se han multiplicado directamente, por reproducción vegetativa o sexual, de una planta madre; en el caso de reproducción sexual, los agentes polinizadores deberán haber sido producidos directamente por multiplicación vegetativa de una planta madre.
+
+b) Son idénticos a la descripción de su especie.
+
+c) Se han mantenido de conformidad con el artículo 59.
+
+d) Cumplen los requisitos de sanidad del artículo 61.
+
+e) Si se ha concedido una excepción con arreglo al artículo 59.4, para el cultivo de plantas madre iniciales y materiales iniciales en el campo en condiciones no a prueba de insectos, el suelo cumple lo dispuesto en el artículo 62;
+
+f) Cumplan lo dispuesto en el artículo 63 en cuanto a los defectos.
+
+2\. La planta madre mencionada en el apartado 1a) debe haber sido aceptada con arreglo al artículo 57 o haberse obtenido mediante multiplicación con arreglo al artículo 64 o por micropropagación con arreglo al artículo 65.
+
+3\. Cuando un portainjerto que sea una planta madre inicial o un material inicial deje de cumplir los requisitos de los artículos 59 a 63, el proveedor lo retirará de los alrededores de otras plantas madre iniciales y materiales iniciales. El portainjerto retirado podrá utilizarse como material de base, certificado o CAC siempre que cumpla los requisitos establecidos en el presente real decreto para las respectivas categorías.
+
+En lugar de retirar el portainjerto, el proveedor podrá tomar medidas adecuadas para garantizar que vuelva a cumplir los requisitos.
+
+> Se modifica por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Se modifica por la disposición final 2 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+#### Artículo 56. Requisitos para la aceptación de una planta madre inicial.
+
+1\. El organismo oficial responsable aceptará una planta como planta madre inicial si se ajusta a lo dispuesto en los artículos 58 a 63, y si su identidad con la descripción de su variedad está establecida con arreglo a los apartados 2, 3 y 4.
+
+Esa aceptación tendrá lugar sobre la base de una inspección oficial y los resultados de ensayos, registros y procedimientos contemplados en el artículo 28.
+
+2\. El organismo oficial responsable establecerá la identidad de la planta madre inicial con la descripción de su variedad observando la expresión de las características de la variedad. Dicha observación se basará en uno de los siguientes elementos:
+
+a) La descripción oficial de alguna de las variedades inscritas en cualquier registro nacional de variedades, y las variedades protegidas jurídicamente por un derecho de obtención vegetal.
+
+b) La descripción que acompaña a la solicitud para las variedades objeto de solicitud de registro en cualquier Estado miembro.
+
+c) La descripción que acompaña a la solicitud para las variedades objeto de una solicitud de registro de un derecho de obtención vegetal;
+
+d) La descripción oficialmente reconocida, si la variedad objeto de la descripción figura en un registro nacional.
+
+3\. Cuando se apliquen la letra b) o la letra c) del apartado 2, solo podrá aceptarse la planta madre inicial si está disponible un informe elaborado por un organismo oficial responsable en la Unión o en un tercer país que demuestre que la variedad correspondiente es distinta, homogénea y estable. En el Reino de España los informes serán emitidos por la Subdirección General de Medios de Producción Agrícola y Oficina Española de Variedades Vegetales, del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente. No obstante, a la espera de la inscripción de la variedad de que se trate, la planta madre y los materiales producidos a partir de ella solo podrán utilizarse para producir materiales de base o certificados, y no podrán comercializarse como materiales iniciales, de base o certificados.
+
+4\. En caso de que el establecimiento de la identidad con la descripción de la variedad solo sea posible sobre la base de las características de una planta con fruto, la observación de la expresión de las características de la variedad se llevará a cabo sobre los frutos de una planta testigo obtenida de la planta madre inicial. Estas plantas testigo se mantendrán separadas de las plantas madre iniciales y los materiales iniciales.
+
+Las plantas testigo deberán inspeccionarse visualmente en los periodos del año más adecuados, teniendo en cuenta las condiciones climáticas y de cultivo de las plantas de los géneros o especies de que se trate.
+
+> Se modifica por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 57. Requisitos para la aceptación de portainjertos que no pertenezcan a una variedad.
+
+El organismo oficial responsable podrá aceptar un portainjerto que no pertenezca a una variedad como planta madre inicial si la descripción de su especie está comprobada y si se ajusta a lo dispuesto en los artículos 59 a 63.
+
+Esa aceptación tendrá lugar sobre la base de una inspección oficial y de los resultados de ensayos, registros y procedimientos contemplados en el artículo 28.
+
+> Se modifica por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Se modifica por el art. único.14 del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+#### Artículo 58. Verificación de la identidad con la descripción de la variedad.
+
+El organismo oficial responsable y, en su caso, el proveedor, verificarán periódicamente la identidad de las plantas madre iniciales y los materiales iniciales con la descripción de su variedad, con arreglo al artículo 56, apartados 2 y 3, según proceda para la variedad de que se trate y el método de reproducción utilizado.
+
+Además de la verificación periódica de las plantas madre iniciales y los materiales iniciales, el organismo oficial responsable y, en su caso, el proveedor, verificarán, después de cada renovación, las plantas madre iniciales que de ellos se deriven.
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 59. Requisitos relativos al mantenimiento de las plantas madre iniciales y los materiales iniciales.
+
+1\. Los proveedores deberán mantener las plantas madre iniciales y los materiales iniciales en instalaciones especiales para los géneros o las especies de que se trate, que estén a prueba de insectos y libres de infecciones por vectores aéreos y de cualquier otra fuente posible a lo largo de todo el proceso de producción.
+
+Los candidatos a plantas madre iniciales se mantendrán en condiciones a prueba de insectos y físicamente aislados de las plantas madre iniciales en las instalaciones a las que se refiere el párrafo primero hasta que concluyan todos los ensayos, de conformidad con el artículo 60, apartados 1 y 2.
+
+2\. Las plantas madre iniciales y los materiales iniciales se mantendrán de tal forma que se garantice su identificación individual a lo largo de todo el proceso de producción.
+
+3\. Las plantas madre iniciales y los materiales iniciales se cultivarán o producirán aislados del suelo, en macetas con medios de cultivo sin tierra del suelo o esterilizados. Se identificarán mediante etiquetas que garanticen su trazabilidad.
+
+4\. No obstante lo dispuesto en los apartados 1, 2 y 3, podrá concederse por la Comisión Europea la autorización para producir en España plantas madre iniciales y materiales iniciales en el campo en condiciones no a prueba de insectos para determinados géneros o especies incluidos en el anexo I de la Directiva 2008/90. En el caso de las especies incluidas en el anexo XII de este real decreto pero no en el anexo I de la Directiva 2008/90, esta autorización será concedida por la Subdirección General de Medios de Producción Agrícola y Oficina Española de Variedades Vegetales del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente. Dichos materiales se identificarán mediante etiquetas que garanticen su trazabilidad. La autorización se concederá siempre que el Reino de España vele por que se adopten medidas adecuadas para evitar la infección de los vegetales por vectores aéreos, contactos de raíces, infecciones cruzadas causadas por máquinas, navajas de injertar y cualquier otra fuente posible.
+
+5\. Las plantas madre iniciales y los materiales iniciales podrán mantenerse mediante criopreservación.
+
+6\. Las plantas madre iniciales solo podrán utilizarse durante un periodo calculado sobre la base de la estabilidad de la variedad o de las condiciones ambientales en las que se cultivan y de cualquier otro factor que repercuta en la estabilidad de la variedad.
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 60. Requisitos de sanidad para los candidatos a planta madre inicial y para las plantas madre iniciales producidas por renovación.
+
+1\. Un candidato a planta madre inicial estará libre de los organismos nocivos enumerados en el anexo I, por lo que se refiere al género o la especie de que se trate.
+
+El candidato a planta madre inicial en cuestión se considerará libre de los organismos nocivos enumerados en el anexo I, por lo que se refiere al género o la especie de que se trate, mediante inspección visual en las instalaciones y campos.
+
+La inspección visual la realizará el organismo oficial responsable y, en su caso, el proveedor.
+
+En caso de duda sobre la presencia de estos organismos nocivos, el organismo oficial responsable y, en su caso, el proveedor, llevarán a cabo los muestreos y ensayos de los candidatos a planta madre inicial de que se trate.
+
+2\. Un candidato a planta madre inicial estará libre de los organismos nocivos enumerados en el anexo II o II bis, por lo que se refiere al género o la especie de que se trate.
+
+El candidato a planta madre inicial en cuestión se considerará libre de los organismos nocivos enumerados en el anexo II o II bis, por lo que se refiere al género o la especie de que se trate, mediante inspección visual en las instalaciones y campos, muestreos o ensayos.
+
+La inspección visual, los muestreos y los ensayos los realizará el organismo oficial responsable y, en su caso, el proveedor.
+
+3\. No obstante lo dispuesto en el apartado 2, cuando el candidato a planta madre inicial sea una plántula, la inspección visual y los muestreos y ensayos solo serán necesarios por lo que se refiere a virus, viroides o enfermedades similares a las víricas transmitidos por el polen y enumerados en el anexo II o II bis, por lo que respecta a los géneros y especies de que se trate, siempre que una inspección oficial haya confirmado que la plántula en cuestión se ha cultivado a partir de una semilla producida por una planta exenta de síntomas provocados por virus, viroides y enfermedades similares a las víricas, y que dicha plántula se ha mantenido con arreglo al artículo 59, apartados 1 y 3.
+
+4\. El apartado 1 se aplicará también a una planta madre inicial producida por renovación.
+
+Una planta madre inicial producida por renovación estará libre de los virus y viroides enumerados en el anexo II o II bis, por lo que se refiere al género o la especie de que se trate.
+
+Deberá comprobarse mediante inspección visual de las instalaciones, los campos y los lotes, y mediante muestreos y ensayos, que la planta madre inicial está libre de virus y viroides.
+
+La inspección visual, los muestreos y los ensayos los realizará el organismo oficial responsable y, en su caso, el proveedor.
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 61. Requisitos de sanidad para las plantas madre iniciales y para los materiales iniciales.
+
+1\. Se determinará, mediante inspección visual de las instalaciones, los campos y los lotes, que la planta madre inicial o los materiales iniciales están libres de las plagas enumeradas en los anexos I, II y II bis, de conformidad con los requisitos del anexo II quáter para el género o la especie de que se trate. La inspección visual la realizará el organismo oficial responsable y, en su caso, el proveedor.
+
+El organismo oficial responsable y, en su caso, el proveedor, llevarán a cabo muestreos y ensayos de la planta madre inicial o los materiales iniciales en relación con las plagas reguladas no cuarentenarias enumeradas en el anexo II bis, de conformidad con los requisitos del anexo II quáter para el género o la especie y categoría de que se trate.
+
+En caso de duda sobre la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I, el organismo oficial responsable y, en su caso, el proveedor, llevarán a cabo muestreos y ensayos de la planta madre inicial o los materiales iniciales de que se trate.
+
+2\. Por lo que respecta a los muestreos y ensayos contemplados en el apartado 1, los Estados miembros aplicarán los protocolos de la OEPP u otros protocolos reconocidos internacionalmente. Cuando no existan tales protocolos, el organismo oficial responsable aplicará los protocolos pertinentes establecidos en el ámbito nacional. En tal caso, los Estados miembros, previa solicitud, pondrán dichos protocolos a disposición de los demás Estados miembros y de la Comisión.
+
+El organismo oficial responsable y, en su caso, el proveedor, enviarán las muestras a laboratorios aceptados oficialmente por el organismo oficial responsable.
+
+3\. En caso de que los ensayos den un resultado positivo para cualquiera de las plagas enumeradas en los anexos I, II y II bis para el género o la especie de que se trate, el proveedor retirará la planta madre inicial o los materiales iniciales infestados de las inmediaciones de otras plantas madre iniciales y materiales iniciales con arreglo al artículo 54, apartado 3, o al artículo 55, apartado 3, o tomará las medidas oportunas con arreglo al anexo II quáter.
+
+4\. Las medidas para garantizar el cumplimiento de los requisitos del apartado 1 figuran en el anexo II quáter para el género o la especie y categoría de que se trate.
+
+5\. El apartado 1 no se aplicará a:
+
+a) Las plantas madre iniciales ni a los materiales iniciales durante la crio preservación;
+
+b) Los materiales iniciales, siempre que se hayan producido en zonas que se consideren libres de las plagas correspondientes, o que se tenga constancia de ello, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias ("Requisitos para el establecimiento de áreas libres de plagas", norma NIMF n.º 4 [1995], Roma, CIPF, FAO 2017).
+
+> Se modifica el apartado 5 por el art. 1.2 del Real Decreto 525/2023, de 20 de junio. [Ref. BOE-A-2023-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14680)
+
+> Se modifica por el art. 1.4 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 62. Requisitos relativos al suelo para las plantas madre iniciales y para los materiales iniciales.
+
+1\. Las plantas madre iniciales y los materiales iniciales solo podrán cultivarse en un suelo libre de todos los organismos nocivos enumerados en el anexo II ter, en función del género o la especie de que se trate, y de aquellas que son reservorios de virus que afectan a dicho género o especie. Unos muestreos y ensayos deberán establecer que el terreno está exento de dichos organismos nocivos.
+
+Los muestreos los realizará el organismo oficial responsable y, en su caso, el proveedor.
+
+Los muestreos y ensayos se llevarán a cabo antes de plantar esas plantas madre iniciales o esos materiales iniciales, y se repetirán durante el crecimiento cuando se sospeche la presencia de los organismos nocivos contempladas en el apartado 1.
+
+Los muestreos y ensayos se llevarán a cabo teniendo en cuenta las condiciones climáticas y la biología de los organismos nocivos enumerados en el anexo II ter, y cuando estas sean relevantes para esas plantas madre iniciales o esos materiales iniciales.
+
+2\. Los muestreos y ensayos no se llevarán a cabo si las plantas que pueden hospedar los organismos nocivos enumerados en el anexo II ter en función del género o la especie de que se trate no han sido cultivadas en el suelo de producción durante un periodo de al menos cinco años y no hay ninguna duda sobre la ausencia de sus organismos nocivos en dicho suelo.
+
+Los muestreos y ensayos no se llevarán a cabo si el organismo oficial responsable decide, sobre la base de una inspección oficial, que el suelo está libre de todos los organismos nocivos enumerados en el anexo II ter, en función del género o la especie de que se trate, y de aquéllas que son reservorios de virus que afectan a dicho género o especie.
+
+3\. En el caso de los muestreos y ensayos contemplados en el apartado 1, se aplicarán los protocolos de la OEPP u otros protocolos internacionalmente reconocidos. En los casos en los que no existan tales protocolos, los Estados miembros aplicarán los protocolos pertinentes establecidos en el ámbito nacional. En tal caso, los Estados miembros, previa solicitud, deberán pondrán protocolos a disposición de los demás Estados miembros y la Comisión.
+
+> Se modifica el título por el art. 1.5 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 63. Requisitos relativos a los defectos que puedan afectar a la calidad.
+
+Las plantas madre iniciales y los materiales iniciales deben estar prácticamente libres de defectos, sobre la base de una inspección visual. La inspección visual la realizará el organismo oficial responsable y, en su caso, el proveedor. Las lesiones, decoloraciones, cicatrices o desecaciones se considerarán defectos si afectan a la calidad y utilidad como materiales de reproducción.
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 64. Requisitos relativos a la multiplicación, renovación y reproducción de las plantas madre iniciales.
+
+1\. El proveedor podrá multiplicar o renovar una planta madre inicial aceptada con arreglo al artículo 56.1.
+
+2\. El proveedor podrá propagar una planta madre inicial para producir materiales iniciales.
+
+3\. La multiplicación, renovación y reproducción de plantas madre iniciales se llevará a cabo con arreglo a los protocolos a que se refiere el apartado 4.
+
+4\. Se aplicarán protocolos relativos a la multiplicación, renovación y reproducción de las plantas madre iniciales. Se aplicarán los protocolos de la OEPP u otros que gocen de reconocimiento internacional. En los casos en los que no existan tales protocolos, los Estados miembros aplicarán protocolos pertinentes establecidos en el ámbito nacional. En tal caso, previa solicitud, se pondrán dichos protocolos a disposición de los demás Estados miembros y la Comisión.
+
+Los protocolos a los que se refiere el párrafo primero deberán haber sido ensayados en los géneros o especies pertinentes durante el plazo que se considere apropiado para dichos géneros o especies. Dicho plazo se considerará adecuado cuando permita validar el fenotipo de las plantas en lo que se refiere a la identidad con la descripción de la variedad basada en la observación de la producción frutícola o del desarrollo vegetativo de los portainjertos.
+
+5\. El proveedor solo podrá renovar la planta madre inicial antes del fin del plazo contemplado en el artículo 59.6.
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 65. Requisitos relativos a la multiplicación, renovación y reproducción por micropropagación de las plantas madre iniciales.
+
+1\. La multiplicación, renovación y reproducción por micropropagación de plantas madre iniciales para producir otras plantas madre iniciales o materiales iniciales se llevará a cabo con arreglo a los protocolos establecidos en el apartado 2.
+
+2\. Se aplicarán protocolos sobre micropropagación de plantas madre iniciales y materiales iniciales, que serán protocolos de la OEPP u otros que gocen de reconocimiento internacional. En los casos en los que no existan tales protocolos, se aplicarán protocolos pertinentes establecidos en el ámbito nacional. En tal caso, previa solicitud, se pondrán dichos protocolos a disposición de los demás Estados miembros y la Comisión.
+
+Solo se aplicarán protocolos que hayan sido probados en el género o especie de que se trate durante un plazo que se considere suficiente para validar el fenotipo de las plantas en lo que se refiere a la identidad con la descripción de la variedad basada en la observación de la producción frutícola o del desarrollo vegetativo de los portainjertos.
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+### Sección 3ª. Requisitos para los materiales de base.
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 66. Requisitos para la certificación de materiales de base.
+
+1\. Los materiales de reproducción distintos de las plantas madre de base y de los portainjertos que no pertenezcan a una variedad, se certificarán oficialmente, previa solicitud, como materiales de base si cumplen los requisitos de los apartados 2, 3 y 4.
+
+2\. Los materiales de reproducción de base se obtendrán de una planta madre de base.
+
+Una planta madre de base deberá cumplir uno de los siguientes requisitos:
+
+a) Haber sido producida a partir de materiales iniciales.
+
+b) Haber sido producida mediante multiplicación a partir de una planta madre de base con arreglo al artículo 70.
+
+3\. Los materiales de reproducción cumplirán los requisitos establecidos en el artículo 58, el artículo 59.6, y el artículo 63.
+
+4\. Los materiales de reproducción cumplirán los requisitos adicionales relativos a:
+
+a) La sanidad, como establece el artículo 67;
+
+b) El suelo, como establece el artículo 68;
+
+c) El mantenimiento de plantas madre de base y materiales de base, como establece el artículo 69;
+
+d) Las condiciones específicas para la reproducción, como establece el artículo 70.
+
+5\. Un portainjerto que no pertenezca a una variedad se certificará oficialmente, previa solicitud, como material de base si es idéntico a la descripción de su especie y cumple los requisitos establecidos en el artículo 59, apartados 2 y 6, y los requisitos adicionales de los artículos 63, 67, 68, 69 y 70.
+
+6\. A los efectos de la presente sección, toda referencia hecha en las disposiciones contempladas en los apartados 3 y 5 a las plantas madre iniciales se entenderá hecha a plantas madre de base, y toda referencia a los materiales iniciales se entenderá hecha a materiales de base.
+
+7\. Cuando una planta madre de base o unos materiales de base dejen de cumplir los requisitos del artículo 58, del artículo 59, apartados 2 y 6, del artículo 63, del artículo 67 y del artículo 68, el proveedor los retirará de los alrededores de otras plantas madre de base y materiales de base. La planta madre o los materiales retirados podrán utilizarse como materiales certificados, CAC o estándar siempre que cumplan los requisitos establecidos en el presente real decreto para las respectivas categorías.
+
+En lugar de retirar dicha planta madre o dichos materiales, el proveedor podrá tomar medidas adecuadas para garantizar que vuelvan a cumplir los requisitos.
+
+8\. Cuando un portainjerto que no pertenezca a una variedad sea una planta madre de base o unos materiales de base que hayan dejado de cumplir los requisitos del artículo 59, apartados 2 y 6, del artículo 63, del artículo 67 y del artículo 68, el proveedor lo retirará de los alrededores de otras plantas madre de base y materiales de base. El portainjerto retirado podrá utilizarse como material certificado, CAC o estándar siempre que cumpla los requisitos establecidos en este real decreto para las respectivas categorías.
+
+En lugar de retirar el portainjerto, el proveedor podrá tomar medidas adecuadas para garantizar que vuelva a cumplir los requisitos.
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 67. Requisitos de sanidad para las plantas madre de base y para los materiales de base.
+
+1\. Se determinará, mediante inspección visual de las instalaciones, los campos y los lotes, que la planta madre de base o los materiales de base están libres de las plagas enumeradas en los anexos I, II y II bis, de conformidad con los requisitos del anexo II quáter para el género o la especie de que se trate. La inspección visual la realizará el organismo oficial responsable y, en su caso, el proveedor.
+
+El organismo oficial responsable y, en su caso, el proveedor, llevarán a cabo muestreos y ensayos de la planta madre de base o los materiales de base para las plagas reguladas no cuarentenarias enumeradas en el anexo II bis, de conformidad con los requisitos del anexo II quáter para el género o la especie y categoría de que se trate.
+
+En caso de duda sobre la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I, el organismo oficial responsable y, en su caso, el proveedor, llevarán a cabo muestreos y ensayos de la planta madre de base o los materiales de base de que se trate.
+
+2\. Por lo que respecta a los muestreos y ensayos contemplados en el apartado 1, los Estados miembros aplicarán los protocolos de la OEPP u otros protocolos reconocidos internacionalmente. Cuando no existan tales protocolos, el organismo oficial responsable aplicará los protocolos pertinentes establecidos en el ámbito nacional. En tal caso, los Estados miembros, previa solicitud, pondrán dichos protocolos a disposición de los demás Estados miembros y de la Comisión.
+
+El organismo oficial responsable y, en su caso, el proveedor, enviarán las muestras a laboratorios aceptados oficialmente por el organismo oficial responsable.
+
+3\. En caso de que los ensayos den un resultado positivo para cualquiera de las plagas enumeradas en los anexos I, II y II bis para el género o la especie de que se trate, el proveedor retirará la planta madre de base o los materiales de base infestados de las inmediaciones de otras plantas madre de base y materiales de base con arreglo al artículo 66, apartado 7, o al artículo 66, apartado 8, o tomará las medidas oportunas con arreglo al anexo II quáter.
+
+4\. Las medidas para garantizar el cumplimiento de los requisitos del apartado 1 figuran en el anexo II quáter para el género o la especie y categoría de que se trate.
+
+5\. El apartado 1 no se aplicará a:
+
+a) Las plantas madre de base ni a los materiales de base durante la crio preservación;
+
+b) Los materiales de base, siempre que se hayan producido en zonas que se consideren libres de las plagas correspondientes, o que se tenga constancia de ello, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias ("Requisitos para el establecimiento de áreas libres de plagas", norma NIMF n.º 4 [1995], Roma, CIPF, FAO 2017).
+
+> Se modifica el apartado 5 por el art. 1.3 del Real Decreto 525/2023, de 20 de junio. [Ref. BOE-A-2023-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14680)
+
+> Se modifica por el art. 1.6 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 68. Requisitos relativos al suelo para plantas madre de base y para los materiales de base.
+
+1\. Las plantas madre de base y los materiales de base solo podrán cultivarse en un suelo libre de todos los organismos nocivos enumerados en el anexo II ter, en función del género o la especie de que se trate, y de aquéllas que son reservorios de virus que afectan a dicho género o especie. Unos muestreos y ensayos deberán establecer que el terreno está exento de dichos organismos nocivos que son reservorios de los virus.
+
+Los muestreos los realizará el organismo oficial responsable y, en su caso, el proveedor.
+
+Los muestreos y ensayos se llevarán a cabo antes de plantar esas plantas madre de base o esos materiales de base, y se repetirán durante el crecimiento cuando se sospeche la presencia de los organismos nocivos contempladas en el apartado 1.
+
+Los muestreos y ensayos se llevarán a cabo teniendo en cuenta las condiciones climáticas y la biología de los organismos nocivos enumerados en el anexo II ter, y cuando estos organismos nocivos sean pertinentes para esas plantas madre de base o esos materiales de base.
+
+2\. Los muestreos y ensayos no se llevarán a cabo si las plantas que pueden hospedar los organismos nocivos enumerados en el anexo II ter en función del género o la especie de que se trate no han sido cultivadas en el suelo de producción durante un periodo de al menos cinco años y no hay ninguna duda sobre la ausencia de sus organismos nocivos en dicho suelo.
+
+Los muestreos y ensayos no se llevarán a cabo si el organismo oficial responsable decide, sobre la base de una inspección oficial, que el suelo está libre de todas los organismos nocivos enumerados en el anexo II ter, en función del género o la especie de que se trate, y de aquéllas que son reservorios de virus que afectan a dicho género o especie.
+
+3\. En el caso de los muestreos y ensayos contemplados en el apartado 1, se aplicarán los protocolos de la OEPP u otros protocolos internacionalmente reconocidos. En los casos en los que no existan tales protocolos, los se aplicarán los protocolos pertinentes establecidos en el ámbito nacional. En tal caso, previa solicitud, se pondrán dichos protocolos a disposición de los demás Estados miembros y la Comisión.
+
+> Se modifica el título por el art. 1.7 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 69. Requisitos relativos al mantenimiento de las plantas madre de base y los materiales de base.
+
+1\. Las plantas madre de base y los materiales de base se mantendrán en campos aislados de posibles fuentes de infección por vectores aéreos, contacto de raíces, infecciones cruzadas causadas por máquinas, navajas de injertar o cualquier otra fuente posible.
+
+2\. La distancia de aislamiento de los campos a los que se refiere el apartado 1 dependerá de las circunstancias regionales, el tipo de materiales de reproducción, la presencia de organismos nocivos en la zona en cuestión y los riesgos pertinentes según lo establecido por el organismo oficial responsable sobre la base de una inspección oficial.
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 70. Condiciones para la multiplicación.
+
+1\. Las plantas madres de base que se cultivan a partir de materiales iniciales en el sentido del artículo 66.2.a), podrán multiplicarse en varias generaciones con el fin de alcanzar el número necesario de ellas. Las plantas madres de base se multiplicarán de conformidad con el artículo 64 o por micropropagación, de conformidad con lo dispuesto en el artículo 65. El número máximo autorizado de generaciones y la vida útil máxima autorizada de las plantas madres de base serán los que figuran en el anexo II quinquies para los correspondientes géneros o especies.
+
+2\. Cuando estén permitidas varias generaciones de plantas madre de base, cada generación, excepto la primera, podrá derivarse de cualquiera de las generaciones anteriores.
+
+3\. Los materiales de reproducción de distintas generaciones se conservarán por separado.
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+### Sección 4ª. Requisitos para los materiales certificados
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 71. Requisitos para la certificación de materiales certificados.
+
+1\. Los materiales de reproducción distintos de las plantas madre y de los plantones de frutal podrán, si así se solicita, ser certificados oficialmente como materiales certificados si cumplen los requisitos establecidos en los apartados 2, 3 y 4.
+
+2\. Los materiales de reproducción y los plantones de frutal se obtendrán de una planta madre certificada.
+
+Una planta madre certificada deberá cumplir uno de los siguientes requisitos:
+
+a) Haber sido producida a partir de materiales iniciales.
+
+b) Haber sido producida a partir de materiales de base.
+
+3\. Los materiales de reproducción y los plantones de frutal cumplirán los requisitos establecidos en el artículo 58, en el artículo 59.6, y en los artículos 63, 72 y 73.
+
+4\. Los materiales de reproducción y los plantones de frutal cumplirán los requisitos de sanidad establecidos en el artículo 72.
+
+Los materiales de reproducción y los plantones de frutal se multiplicarán a partir de plantas madres certificadas que cumplan los requisitos relativos al suelo que establece el artículo 73.
+
+5\. Un portainjerto que no pertenezca a una variedad se certificará oficialmente, previa solicitud, como material certificado si es idéntico a la descripción de su especie y cumple los requisitos establecidos en el artículo 59.6, y los requisitos adicionales de los artículos 63, 72 y 73.
+
+6\. A los efectos de la presente sección, toda referencia hecha en las disposiciones contempladas en los apartados 3 y 5 a las plantas madre iniciales se entenderá hecha a las plantas madre certificadas, y toda referencia a los materiales iniciales se entenderá hecha a materiales certificados.
+
+7\. Cuando una planta madre o unos materiales de base certificados dejen de cumplir los requisitos del artículo 58, del artículo 59.6, y de los artículos 63, 72 y 73, el proveedor los retirará de los alrededores de otras plantas madre y materiales certificados. La planta madre o los materiales retirados podrán utilizarse como materiales CAC o estándar siempre que cumplan los requisitos establecidos en la sección 4.ª
+
+En lugar de retirar dicha planta madre o dichos materiales, el proveedor podrá tomar medidas adecuadas para garantizar que vuelvan a cumplir los requisitos.
+
+8\. Cuando un portainjerto que no pertenezca a una variedad sea una planta madre certificada o un material certificado que hayan dejado de cumplir los requisitos del artículo 59.6, y de los artículos 63, 72 y 73, el proveedor lo retirará de los alrededores de otras plantas madre y materiales certificados. La planta madre o los materiales retirados podrán utilizarse como materiales CAC o estándar siempre que cumplan los requisitos establecidos en la sección 4.ª
+
+En lugar de retirar el portainjerto, el proveedor podrá tomar medidas adecuadas para garantizar que vuelva a cumplir los requisitos.
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 72. Requisitos de sanidad para las plantas madre certificadas y para los materiales certificados.
+
+1\. Se determinará, mediante inspección visual de las instalaciones, los campos y los lotes, que la planta madre certificada o los materiales certificados están libres de las plagas enumeradas en los anexos I, II y II bis, de conformidad con los requisitos del anexo II quáter para el género o la especie de que se trate. La inspección visual la realizará el organismo oficial responsable y, en su caso, el proveedor.
+
+El organismo oficial responsable y, en su caso, el proveedor, llevarán a cabo muestreos y ensayos de la planta madre certificada o los materiales certificados para las plagas reguladas no cuarentenarias enumeradas en el anexo II bis, de conformidad con los requisitos del anexo II quáter para el género o la especie y categoría de que se trate.
+
+En caso de duda sobre la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I, el organismo oficial responsable y, en su caso, el proveedor, llevarán a cabo muestreos y ensayos de la planta madre certificada o los materiales certificados de que se trate.
+
+2\. Por lo que respecta a los muestreos y ensayos contemplados en el apartado 1, los Estados miembros aplicarán los protocolos de la OEPP u otros protocolos reconocidos internacionalmente. Cuando no existan tales protocolos, el organismo oficial responsable aplicará los protocolos pertinentes establecidos en el ámbito nacional. En tal caso, los Estados miembros, previa solicitud, pondrán dichos protocolos a disposición de los demás Estados miembros y de la Comisión.
+
+El organismo oficial responsable y, en su caso, el proveedor, enviarán las muestras a laboratorios aceptados oficialmente por el organismo oficial responsable.
+
+3\. En caso de que los ensayos den un resultado positivo para cualquiera de las plagas enumeradas en los anexos I, II y II bis para el género o la especie de que se trate, el proveedor retirará la planta madre certificada o los materiales certificados infestados de las inmediaciones de otras plantas madre certificadas y materiales certificados, con arreglo al artículo 71, apartado 7, o al artículo 71, apartado 8, o tomará las medidas oportunas con arreglo al anexo II quáter.
+
+4\. Las medidas para garantizar el cumplimiento de los requisitos del apartado 1 figuran en el anexo II quáter para el género o la especie y categoría de que se trate.
+
+5\. El apartado 1 no se aplicará a:
+
+a) Las plantas madre certificadas ni a los materiales certificados durante la crio preservación;
+
+b) Los materiales certificados, siempre que se hayan producido en zonas que se consideren libres de las plagas correspondientes, o que se tenga constancia de ello, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias ("Requisitos para el establecimiento de áreas libres de plagas", norma NIMF n.º 4 [1995], Roma, CIPF, FAO 2017).
+
+> Se modifica el apartado 5 por el art. 1.4 del Real Decreto 525/2023, de 20 de junio. [Ref. BOE-A-2023-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14680)
+
+> Se modifica por el art. 1.8 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 73. Requisitos relativos al suelo para las plantas madre certificadas y para los materiales certificados.
+
+1\. Las plantas madre certificadas solo podrán cultivarse en un suelo libre de todos los organismos nocivos enumerados en el anexo II ter, en función del género o la especie de que se trate, y de aquéllas que son reservorios de virus que afectan a dicho género o especie. Unos muestreos y ensayos deberán establecer que el terreno está exento de dichos organismos nocivos que son reservorios de los virus.
+
+Los muestreos los realizará el organismo oficial responsable y, en su caso, el proveedor.
+
+Los muestreos y ensayos se llevarán a cabo antes de plantar esas plantas madre certificadas, y se repetirán durante el crecimiento cuando se sospeche la presencia de los organismos nocivos contemplados en el apartado 1.
+
+Los muestreos y ensayos se llevarán a cabo teniendo en cuenta las condiciones climáticas y la biología de los organismos nocivos enumerados en el anexo II ter, y cuando estos organismos nocivos sean relevantes para dichas plantas madre certificadas o dichos materiales certificados.
+
+2\. No se llevarán a cabo muestreos y ensayos si las plantas que pueden hospedar los organismos nocivos enumerados en el anexo II ter en función del género o la especie de que se trate no han sido cultivadas en el suelo de producción durante un periodo de al menos cinco años y no hay ninguna duda sobre la ausencia de sus organismos nocivos en dicho suelo.
+
+No se llevarán cabo muestreos y ensayos si el organismo oficial responsable decide, sobre la base de una inspección oficial, que el suelo está libre de todos los organismos nocivos enumerados en el anexo II ter, en función del género o la especie de que se trate, y de aquéllas que son reservorios de virus que afectan a dicho género o especie.
+
+Salvo indicación en contrario, no se someterán a muestreo ni a ensayo los plantones de frutal certificados.
+
+3\. En el caso de los muestreos y ensayos contemplados en el apartado 1, se aplicarán los protocolos de la OEPP u otros protocolos internacionalmente reconocidos. En los casos en los que no existan tales protocolos, se aplicarán los protocolos pertinentes establecidos en el ámbito nacional. En tal caso, previa solicitud, se pondrán dichos protocolos a disposición de los demás Estados miembros y la Comisión.
+
+> Se modifica el título y el apartado 2 por el art. 1.9 y 10 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se añade por el art. único.18 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Artículo 73 bis. Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+Además de los requisitos de salubridad y relativos al suelo de los artículos 19 quáter, 60, 61, 62, 67, 68, 72 y 73, los materiales de reproducción y los plantones de frutal se elaborarán de conformidad con los requisitos relativos al sitio de producción, el lugar de producción o el área establecidos en el anexo II quáter, con el fin de limitar la presencia de las plagas reguladas no cuarentenarias enumeradas en dicho anexo para el género o la especie de que se trate.
+
+> Se añade por el art. 1.11 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+## CAPITULO XI — Comercio exterior e intracomunitario
+
+#### Artículo 74. Condiciones generales.
+
+Las plantas de vivero que se importen de países terceros, para poder ser introducidas en España, deberán ofrecer al menos las mismas garantías que las producidas en la Unión Europea.
+
+En cuanto a la tramitación, documentación y condiciones necesarias para efectuar importaciones y exportaciones de y hacia países terceros o de la Unión Europea, se aplicará lo dispuesto en el artículo 34.1 de la Ley 30/2006, de 26 de julio, de semillas y plantas de vivero y de recursos fitogenéticos, en el artículo 5 del Decreto 3767/1972, de 23 de diciembre, por el que se aprueba el Reglamento General sobre producción de semillas y plantas de vivero, y en la Orden de 23 de mayo de 1986, por la que se aprueba el Reglamento General Técnico de Control y Certificación de semillas y plantas de vivero, sin perjuicio de lo establecido en el Real Decreto 58/2005, de 21 de enero, por el que se adoptan medidas de protección contra la introducción y difusión en el territorio nacional y de la Comunidad Europea de organismos nocivos para los vegetales o productos vegetales, así como para la exportación y tránsito hacia países terceros.
+
+> Se añade por el art. único.19 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Su anterior numeración era art. 53.
+
+#### Artículo 75. Plantas de vivero de cítricos.
+
+Las plantas de vivero del subgrupo cítricos, excepto las semillas que se importen, deberán ser introducidas en abrigo de cuarentena para evitar posibles difusiones de enfermedades y plagas, y en su multiplicación se seguirán los requisitos específicos para la producción de plantas de vivero de base.
+
+Las partidas de semillas del subgrupo cítricos que se importen, deberán proceder de plantas madres controladas para las enfermedades transmisibles por semillas, extremo que comprobará el organismo oficial responsable a la vista de los certificados oficiales del país exportador que acompañen a las partidas.
+
+> Se añade por el art. único.19 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Su anterior numeración era art. 54.
+
+#### Artículo 76. Plantas de vivero de frutales.
+
+Las plantas de vivero del subgrupo frutales que se importen se considerarán en régimen de cuarentena. Una vez comprobado que la mercancía importada reúne los requisitos fijados en este Reglamento y en el Real Decreto 58/2005, de 21 de enero, se levantará la cuarentena. En caso contrario, se obligará a la reexportación o a su destrucción por el fuego.
+
+> Se añade por el art. único.19 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Su anterior numeración era art. 55.
+
+## CAPITULO XII — Sanciones
+
+#### Artículo 77. Medidas de garantía.
+
+Si durante la vigilancia y los controles mencionados en el capítulo VI, se comprobara que las plantas de vivero comercializados no cumplen los requisitos del presente Real Decreto, el organismo oficial responsable tomará las medidas adecuadas para garantizar su conformidad con lo dispuesto en el presente Real Decreto, o bien, si esto no fuera posible, para que se prohiba la comercialización de dichas plantas de vivero.
+
+> Se añade por el art. único.20 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Su anterior numeración era art. 56.
+
+#### Artículo 78. Aplicación de sanciones.
+
+Si se comprobara que las plantas de vivero comercializadas por un proveedor determinado no cumplen los requisitos y condiciones del presente real decreto, el organismo oficial responsable tomará las medidas apropiadas con respecto a dicho proveedor.
+
+Las posibles infracciones y sanciones en la producción y comercialización de las plantas de vivero, se clasificarán y aplicarán de acuerdo con lo preceptuado en el título VI de la Ley 30/2006, de 26 de julio, de semillas y plantas de vivero y de recursos fitogenéticos y, con carácter subsidiario, de acuerdo con lo establecido en el Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de los Consumidores y Usuarios y con lo establecido en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria.
+
+> Se añade por el art. único.20 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Su anterior numeración era art. 57.
+
+## CAPITULO XIII — Medidas transitorias
+
+> Se añade por el art. 1.5 del Real Decreto 525/2023, de 20 de junio. [Ref. BOE-A-2023-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14680)
+
+#### Artículo 79. Medidas transitorias.
+
+Hasta el 31 de diciembre de 2029, se podrá permitir la comercialización de semillas y plantones de frutal producidos a partir de plantas madre iniciales, de base y certificadas o con materiales CAC que existieran antes del 1 de enero de 2017 y que hayan sido oficialmente certificados o cumplan las condiciones para ser calificados como materiales CAC antes del 31 de diciembre de 2029. Al ser comercializados, estos materiales irán identificados por una referencia al presente artículo en la etiqueta y en un documento.
+
+> Se añade por el art. 1.5 del Real Decreto 525/2023, de 20 de junio. [Ref. BOE-A-2023-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14680)
+
+#### Disposición adicional primera. Normas dictadas en materia de comercio exterior.
+
+Los artículos 74, 75 y 76 del presente real decreto, en lo relativo al comercio con terceros países, se dictan al amparo de la competencia atribuida al Estado por el artículo 149.1.10.ª de la Constitución.
+
+> Se modifica por el art. único.21 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+#### Disposición adicional segunda. Normativa básica.
+
+El resto de artículos y los anexos del presente Real Decreto se dictan al amparo de la competencia atribuida al Estado por el artículo 149.1.13.ª de la Constitución en materia de bases y coordinación general de la actividad económica.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas las siguientes Ordenes ministeriales:
+
+a) Orden de 21 de julio de 1976 por la que se aprueba el Reglamento técnico de control y certificación de plantas de vivero de cítricos y sus modificaciones.
+
+b) Orden de 16 de julio de 1982 por la que se modifica el Reglamento técnico de control y certificación de plantas de vivero de frutales y sus modificaciones.
+
+c) Orden de 3 de marzo de 1989 por la que se aprueba el Reglamento técnico de control y certificación de plantas de vivero de fresa.
+
+d) Orden de 10 de septiembre de 1990 por la que se aprueba el Reglamento técnico de control y certificación de plantas de vivero de platanera, así como cuantas disposiciones, de igual o inferior rango, que se opongan a lo preceptuado en este Real Decreto.
+
+#### Disposición final primera. Facultad de desarrollo.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para dictar las disposiciones que sean necesarias para la aplicación del presente Real Decreto y en especial para modificar los anexos como consecuencia de su adaptación a la normativa comunitaria.
+
+#### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 9 de junio de 1995.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+LUIS MARÍA ATIENZA SERNA
+
+## ANEXO I — Lista de plagas reguladas no cuarentenarias que requieren inspección visual para determinar su presencia y, en caso de dudas, muestreo y ensayo con arreglo al artículo 60, apartado 1, el artículo 61, apartado 1, el artículo 67, apartado 1, el artículo 72, apartado 1, y el artículo 19 **quáter,** apartado 1
+
+<table>
+<thead>
+<tr>
+<td>
+<p>Género o especie</p>
+</td>
+<td>
+<p>Plagas reguladas no cuarentenarias</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p><em>Castanea sativa</em> Mill.</p>
+</td>
+<td rowspan="2">
+<p>Hongos y oomicetos</p>
+<p><em>Cryphonectria parasitica</em> (Murrill) Barr [ENDOPA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Mycosphaerella punctiformis</em> Verkley &amp; U. Braun [RAMUEN]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Phytophthora cambivora</em> (Petri) Buisman [PHYTCM]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Phytophthora cinnamomi</em> Rands [PHYTCN]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Virus, viroides, enfermedades similares a las víricas y fitoplasmas</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Agente del mosaico del castaño</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Citrus </em>L., <em>Fortunella </em>Swingle, <em>Poncirus </em>Raf.</p>
+</td>
+<td>
+<p>Hongos y oomicetos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Phytophthora citrophthora</em> (R.E.Smith &amp; E.H.Smith) Leonian [PHYTCO ]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Phytophthora nicotianae</em> var. <em>parasitica</em> (Dastur) Waterhouse [PHYTNP]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Insectos y ácaros</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Aleurothrixus floccosus</em> Maskell [ALTHFL]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Parabemisia myricae</em> Kuwana [PRABMY]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pratylenchus vulnus</em> Allen &amp; Jensen [PRATVU]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Tylenchulus semipenetrans</em> Cobb [TYLESE]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Corylus avellana</em> L.</p>
+</td>
+<td>
+<p>Bacterias</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pseudomonas avellanae</em> Janse <em>et al.</em> [PSDMAL]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Xanthomonas arboricola</em> pv. <em>Corylina</em> (Miller, Bollen, Simmons, Gross &amp; Barss) Vauterin, Hoste, Kersters &amp; Swings [XANTCY]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Hongos y oomicetos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Armillariella mellea</em> (Vahl) Kummer [ARMIME]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Verticillium albo-atrum</em> Reinke &amp; Berthold [VERTAA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Verticillium dahliae</em> Kleb [VERTDA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Insectos y ácaros</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Phytoptus avellanae</em> Nalepa [ERPHAV]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Cydonia oblonga</em> Mill. y <em>Pyrus</em> L.</p>
+</td>
+<td>
+<p>Bacterias</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Agrobacterium tumefaciens</em> (Smith &amp; Townsend) Conn [AGRBTU]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Erwinia amylovora</em> (Burrill) Winslow <em>et al.</em> [ERWIAM]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pseudomonas syringae</em> pv. <em>Syringae</em> van Hall [PSDMSY]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Hongos y oomicetos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Armillariella mellea</em> (Vahl) Kummer [ARMIME]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Chondrostereum purpureum</em> Pouzar [STERPU]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Glomerella cingulata</em> (Stoneman) Spaulding &amp; von Schrenk [GLOMCI]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Neofabraea alba</em> Desmazières [PEZIAL]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Neofabraea malicorticis</em> Jackson [PEZIMA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Neonectria ditissima</em> (Tulasne &amp; C. Tulasne) Samuels &amp; Rossman [NECTGA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Phytophthora cactorum</em> (Lebert &amp; Cohn) J. Schröter [PHYTCC]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Sclerophora pallida</em> Yao &amp; Spooner [SKLPPA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Verticillium albo-atrum</em> Reinke &amp; Berthold [VERTAA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Verticillium dahliae</em> Kleb [VERTDA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Insectos y ácaros</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Eriosoma lanigerum</em> Hausmann [ERISLA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Psylla</em> spp. Geoffroy [1PSYLG]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Meloidogyne hapla</em> Chitwood [MELGHA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Meloidogyne javanica</em> Chitwood [MELGJA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pratylenchus penetrans</em> (Cobb) Filipjev &amp; Schuurmans-Stekhoven [PRATPE]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pratylenchus vulnus</em> Allen &amp; Jensen [PRATVU]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Ficus carica</em> L.</p>
+</td>
+<td>
+<p>Bacterias</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Xanthomonas campestris</em> pv. <em>fici</em> (Cavara) Dye [XANTFI]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Hongos y oomicetos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Armillariella mellea</em> (Vahl) Kummer [ARMIME]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Insectos y ácaros</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Ceroplastes rusci</em> Linnaeus [CERPRU]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Heterodera fici</em> Kirjanova [HETDFI]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Meloidogyne arenaria</em> Chitwood [MELGAR]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Meloidogyne incognita</em> (Kofold &amp; White) Chitwood [MELGIN]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Meloidogyne javanica</em> Chitwood [MELGJA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pratylenchus penetrans</em> (Cobb) Filipjev &amp; Schuurmans-Stekhoven [PRATPE]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pratylenchus vulnus</em> Allen &amp; Jensen [PRATVU]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Fragaria</em> L.</p>
+</td>
+<td>
+<p>Bacterias</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Candidatus</em> Phlomobacter <em>fragariae</em> Zreik, Bové &amp; Garnier [PHMBFR]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Hongos y oomicetos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Podosphaera aphanis</em> (Wallroth) Braun &amp; Takamatsu [PODOAP]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Rhizoctonia fragariae</em> Hussain &amp; W.E. McKeen [RHIZFR]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Verticillium albo-atrum</em> Reinke &amp; Berthold [VERTAA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Verticillium dahliae</em> Kleb [VERTDA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Insectos y ácaros</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Chaetosiphon fragaefolii</em> Cockerell [CHTSFR]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Phytonemus pallidus</em> Banks [TARSPA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Ditylenchus dipsaci</em> (Kuehn) Filipjev [DITYDI]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Meloidogyne hapla</em> Chitwood [MELGHA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pratylenchus vulnus</em> Allen &amp; Jensen [PRATVU]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Virus, viroides, enfermedades similares a las víricas y fitoplasmas</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Candidatus</em> Phytoplasma <em>asteris</em> Lee <em>et al.</em> [PHYPAS]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Candidatus</em> Phytoplasma <em>fragariae</em> Valiunas, Staniulis &amp; Davis [PHYPFG]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Candidatus</em> Phytoplasma <em>pruni</em> [PHYPPN]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Candidatus</em> Phytoplasma <em>solani</em> Quaglino <em>et al.</em> [PHYPSO]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Clover phyllody</em> Phytoplasma [PHYP03]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Fitoplasma de la enfermedad multiplicadora de la fresa (PHYP75)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Juglans regia</em> L.</p>
+</td>
+<td>
+<p>Bacterias</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Agrobacterium tumefaciens</em> (Smith &amp; Townsend) Conn [AGRBTU]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Xanthomonas arboricola</em> pv. <em>Juglandi</em> (Pierce) Vauterin <em>et al.</em> [XANTJU]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Hongos y oomicetos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Armillariella mellea</em> (Vahl) Kummer [ARMIME]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Chondrostereum purpureum</em> Pouzar [STERPU]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Neonectria ditissima</em> (Tulasne &amp; C. Tulasne) Samuels &amp; Rossman [NECTGA]</p>
+<p><em>Phytophthora cactorum</em> (Lebert &amp; Cohn) J. Schröter [PHYTCC]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Insectos y ácaros</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Epidiaspis leperii</em> Signoret [EPIDBE]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pseudaulacaspis pentagona</em> Targioni-Tozzetti [PSEAPE]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Quadraspidiotus perniciosus</em> Comstock [QUADPE]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Malus</em> Mill.</p>
+</td>
+<td>
+<p>Bacterias</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Agrobacterium tumefaciens</em> (Smith &amp; Townsend) Conn [AGRBTU]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Erwinia amylovora</em> (Burrill) Winslow <em>et al.</em> [ERWIAM]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pseudomonas syringae</em> pv. <em>Syringae</em> van Hall [PSDMSY]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Hongos y oomicetos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Armillariella mellea</em> (Vahl) Kummer [ARMIME]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Chondrostereum purpureum</em> Pouzar [STERPU]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Glomerella cingulata</em> (Stoneman) Spaulding &amp; von Schrenk [GLOMCI]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Neofabraea alba</em> Desmazières [PEZIAL]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Neofabraea malicorticis</em> Jackson [PEZIMA]</p>
+<p><em>Neonectria ditissima</em> (Tulasne &amp; C. Tulasne) Samuels &amp; Rossman [NECTGA]</p>
+<p><em>Phytophthora cactorum</em> (Lebert &amp; Cohn) J. Schröter [PHYTCC]</p>
+<p><em>Sclerophora pallida</em> Yao &amp; Spooner [SKLPPA]</p>
+<p><em>Verticillium albo-atrum</em> Reinke &amp; Berthold [VERTAA]</p>
+<p><em>Verticillium dahliae</em> Kleb [VERTDA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Insectos y ácaros</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Eriosoma lanigerum</em> Hausmann [ERISLA] <em>Psylla</em> spp. Geoffroy [1PSYLG]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Meloidogyne hapla</em> Chitwood [MELGHA]</p>
+<p><em>Meloidogyne javanica</em> Chitwood [MELGJA]</p>
+<p><em>Pratylenchus penetrans</em> (Cobb) Filipjev &amp; Schuurmans-Stekhoven [PRATPE]</p>
+<p><em>Pratylenchus vulnus</em> Allen &amp; Jensen [PRATVU]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Olea europaea</em> L.</p>
+</td>
+<td>
+<p>Bacterias</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pseudomonas syringae</em> pv. <em>savastanoi</em> (Smith) Gardan <em>et al.</em> [PSDMSA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Meloidogyne arenaria</em> Chitwood [MELGAR]</p>
+<p><em>Meloidogyne incognita</em> (Kofold &amp; White) Chitwood [MELGIN]</p>
+<p><em>Meloidogyne javanica</em> Chitwood [MELGJA]</p>
+<p><em>Pratylenchus vulnus</em> Allen &amp; Jensen [PRATVU]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Virus, viroides, enfermedades similares a las víricas y fitoplasmas</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Virus asociado al amarilleo de las hojas del olivo [OLYAV0]</p>
+<p>Virus asociado al amarilleo de las venas del olivo [OVYAV0]</p>
+<p>Virus asociado al moteado amarillo y deterioro del olivo [OYMDAV]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Pistacia vera</em> L.</p>
+</td>
+<td>
+<p>Hongos y oomicetos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Phytophthora cambivora</em> (Petri) Buisman [PHYTCM]</p>
+<p><em>Phytophthora cryptogea</em> Pethybridge &amp; Lafferty [PHYTCR]</p>
+<p><em>Rosellinia necatrix</em> Prillieux [ROSLNE]</p>
+<p><em>Verticillium dahliae</em> Kleb [VERTDA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pratylenchus penetrans</em> (Cobb) Filipjev &amp; Schuurmans-Stekhoven [PRATPE]</p>
+<p><em>Pratylenchus vulnus</em> Allen &amp; Jensen [PRATVU]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Prunus domestica</em> L. y <em>Prunus dulcis</em> (Miller) Webb</p>
+</td>
+<td>
+<p>Bacterias</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Agrobacterium tumefaciens</em> (Smith &amp; Townsend) Conn [AGRBTU]</p>
+<p><em>Pseudomonas syringae</em> pv. <em>morsprunorum</em> (Wormald) Young, Dye &amp; Wilkie [PSDMMP]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Hongos y oomicetos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Phytophthora cactorum</em> (Lebert &amp; Cohn) J. Schröter [PHYTCC]</p>
+<p><em>Verticillium dahliae</em> Kleb [VERTDA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Insectos y ácaros</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pseudaulacaspis pentagona</em> Targioni-Tozzetti [PSEAPE]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Quadraspidiotus perniciosus</em> Comstock [QUADPE]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Meloidogyne arenaria</em> Chitwood [MELGAR]</p>
+<p><em>Meloidogyne incognita</em> (Kofold &amp; White) Chitwood [MELGIN]</p>
+<p><em>Meloidogyne javanica</em> Chitwood [MELGJA]</p>
+<p><em>Pratylenchus penetrans</em> (Cobb) Filipjev &amp; Schuurmans-Stekhoven [PRATPE]</p>
+<p><em>Pratylenchus vulnus</em> Allen &amp; Jensen [PRATVU]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Prunus armeniaca</em> L.</p>
+</td>
+<td>
+<p>Bacterias</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Agrobacterium tumefaciens</em> (Smith &amp; Townsend) Conn [AGRBTU]</p>
+<p><em>Pseudomonas syringae</em> pv. <em>morsprunorum</em> (Wormald) Young, Dye &amp; Wilkie [PSDMMP]</p>
+<p><em>Pseudomonas syringae</em> pv. <em>Syringae</em> van Hall [PSDMSY]</p>
+<p><em>Pseudomonas viridiflava</em> (Burkholder) Dowson [PSDMVF]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Hongos y oomicetos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Phytophthora cactorum</em> (Lebert &amp; Cohn) J. Schröter [PHYTCC]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Verticillium dahliae</em> Kleb [VERTDA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Insectos y ácaros</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pseudaulacaspis pentagona</em> Targioni-Tozzetti [PSEAPE]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Quadraspidiotus perniciosus</em> Comstock [QUADPE]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Meloidogyne arenaria</em> Chitwood [MELGAR]</p>
+<p><em>Meloidogyne incognita</em> (Kofold &amp; White) Chitwood [MELGIN]</p>
+<p><em>Meloidogyne javanica</em> Chitwood [MELGJA]</p>
+<p><em>Pratylenchus penetrans</em> (Cobb) Filipjev &amp; Schuurmans-Stekhoven [PRATPE]</p>
+<p><em>Pratylenchus vulnus</em> Allen &amp; Jensen [PRATVU]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Prunus avium</em> L. y <em>Prunus cerasus</em> L.</p>
+</td>
+<td>
+<p>Bacterias</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Agrobacterium tumefaciens</em> (Smith &amp; Townsend) Conn [AGRBTU]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pseudomonas syringae</em> pv. <em>morsprunorum</em> (Wormald) Young, Dye &amp; Wilkie [PSDMMP]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Hongos y oomicetos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Phytophthora cactorum</em> (Lebert &amp; Cohn) J. Schröter [PHYTCC]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Insectos y ácaros</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Quadraspidiotus perniciosus</em> Comstock [QUADPE]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Meloidogyne arenaria</em> Chitwood [MELGAR]</p>
+<p><em>Meloidogyne incognita</em> (Kofold &amp; White) Chitwood [MELGIN]</p>
+<p><em>Meloidogyne javanica</em> Chitwood [MELGJA]</p>
+<p><em>Pratylenchus penetrans</em> (Cobb) Filipjev &amp; Schuurmans-Stekhoven [PRATPE]</p>
+<p><em>Pratylenchus vulnus</em> Allen &amp; Jensen [PRATVU]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Prunus persica</em> (L.) Batsch y <em>Prunus salicina</em> Lindley</p>
+</td>
+<td>
+<p>Bacterias</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Agrobacterium tumefaciens</em> (Smith &amp; Townsend) Conn [AGRBTU]</p>
+<p><em>Pseudomonas syringae</em> pv. <em>morsprunorum</em> (Wormald) Young, Dye &amp; Wilkie [PSDMMP]</p>
+<p><em>Pseudomonas syringae</em> pv. <em>persicae</em> (Prunier, Luisetti &amp;. Gardan) Young, Dye &amp; Wilkie [PSDMPE]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Hongos y oomicetos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Phytophthora cactorum</em> (Lebert &amp; Cohn) J. Schröter [PHYTCC]</p>
+<p><em>Verticillium dahliae</em> Kleb [VERTDA]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Insectos y ácaros</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Pseudaulacaspis pentagona</em> Targioni-Tozzetti [PSEAPE]</p>
+<p><em>Quadraspidiotus perniciosus</em> Comstock [QUADPE]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Meloidogyne arenaria</em> Chitwood [MELGAR]</p>
+<p><em>Meloidogyne incognita</em> (Kofold &amp; White) Chitwood [MELGIN]</p>
+<p><em>Meloidogyne javanica</em> Chitwood [MELGJA]</p>
+<p><em>Pratylenchus penetrans</em> (Cobb) Filipjev &amp; Schuurmans-Stekhoven [PRATPE]</p>
+<p><em>Pratylenchus vulnus</em> Allen &amp; Jensen [PRATVU]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Ribes</em> L.</p>
+</td>
+<td>
+<p>Hongos y oomicetos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Diaporthe strumella</em> (Fries) Fuckel [DIAPST]</p>
+<p><em>Microsphaera grossulariae</em> (Wallroth) Léveillé [MCRSGR]</p>
+<p><em>Podosphaera mors-uvae</em> (Schweinitz) Braun &amp; Takamatsu [SPHRMU]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Insectos y ácaros</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Cecidophyopsis ribis</em> Westwood [ERPHRI]</p>
+<p><em>Dasineura tetensi</em> Rübsaamen [DASYTE]</p>
+<p><em>Pseudaulacaspis pentagona</em> Targioni-Tozzetti [PSEAPE]</p>
+<p><em>Quadraspidiotus perniciosus</em> Comstock [QUADPE]</p>
+<p><em>Tetranychus urticae</em> Koch [TETRUR]</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Nematodos</p>
+<p><em>Aphelenchoides ritzemabosi</em> (Schwartz) Steiner &amp; Buhrer [APLORI]</p>
+<p><em>Ditylenchus dipsaci</em> (Kuehn) Filipjev [DITYDI]</p>
+<p><em>Virus, viroides,</em> enfermedades similares a las víricas y fitoplasmas</p>
+<p>Agente del mosaico de la Aucuba y agente del amarilleo de la grosella negra combinados</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Rubus</em> L.</p>
+</td>
+<td>
+<p>Bacterias</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Agrobacterium</em> spp. Conn [1AGRBG]</p>
+<p><em>Rhodococcus fascians</em> Tilford [CORBFA]</p>
+<p>Hongos y oomicetos</p>
+<p><em>Peronospora rubi</em> Rabenhorst [PERORU]</p>
+<p>Insectos y ácaros</p>
+<p><em>Resseliella theobaldi</em> Barnes [THOMTE]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Vaccinium</em> L.</p>
+</td>
+<td>
+<p>Bacterias</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Agrobacterium tumefaciens</em> (Smith &amp; Townsend) Conn [AGRBTU]</p>
+<p>Hongos y oomicetos</p>
+<p><em>Diaporthe vaccinii</em> Shear [DIAPVA]</p>
+<p><em>Exobasidium vaccinii</em> (Fuckel) Woronin [EXOBVA]</p>
+<p><em>Godronia cassandrae</em> (anamorfo <em>Topospora myrtilli</em>) Peck [GODRCA]</p>
+<p><em>Pucciniastrum minimum </em>Sydow &amp; P. Sydow [THEKMI]</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica por el art. único.1 a) y b) de la Orden APA/775/2025, de 15 de julio. [Ref. BOE-A-2025-15139](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15139)
+
+> Se modifica por el art. 1.6 del Real Decreto 525/2023, de 20 de junio. [Ref. BOE-A-2023-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14680)
+
+> Se modifica por el art. 1.12 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se modifica por el art. único.22 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 118, de 18 de mayo de 2017. [Ref. BOE-A-2017-5508](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5508)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1256/2010, de 8 de octubre. [Ref. BOE-A-2010-15439](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15439)
+
+## ANEXO II — Lista de organismos nocivos y enfermedades que afectan a la calidad de manera significativa
+
+| Familia, género o especie | Organismos nocivos y enfermedades |
+|---|---|
+| *Musa*L. Platanera. | Insectos, ácaros y nematodos en todas sus fases de desarrollo:<br>*Tetranychus sp.*<br>*Pentalonia nigronervosa.*<br>*Aphis gossypii.*<br>*Dyscomicoccus alazon.*<br>*Dyscomicoccus brevipis*.<br>*Aspidiotus sp.*<br>*Planococcus citri.*<br>*Opogona sachari.*<br>*Cosmopolites sordidus.*<br>*Hercinothrips femoralis.*<br>*Pratylenchus sp.*<br>*Heliocotylenchus sp.*<br>*Meloilogyne sp*.<br>Hongos:<br>*Fusarium oxysporum sbp cubense*. |
+| *Actinidia*Lindl. | Hongos:<br>*Phytophthora spp.*<br>Bacterias:<br>*Pseudomonas syringae pv actinidiae* Takikawa, Serizawa, Ichikawa, Tsuyumu & Goto [PSDMAK].<br>*Pseudomonas veridiflava (Burkholder) Dowson.* |
+| *Ceratonia siliqua* L. Algarrobo. | Insectos, ácaros y nematodos en todas las fases de su desarrollo:<br>*Zeuzera pyrina L.*<br>*Aspidiotus nerii Bouché.*<br>*Meloidogyne spp.*<br>Hongos:<br>*Oidium ceratoniae Comes.*<br>*Pseudocercospora ceratoniae (Pat. & Trab.) Deighton.* |
+| *Diospyros L*. Caqui (*Diospyros kaki L. f., Diospyros lotus L., Diospyros virginiana L.*). | Insectos, ácaros y nematodos en todas su fases de desarrollo:<br>*Cotonets/melazos, en particular*:*Planococcus citri (Risso).*<br>*Pseudococcus viburni (Signoret) (Hemiptera: Pseudococcidae).*<br>*Cochinillas, en particular: Saissetia oleae (Olivier), Parthenolecanium corni (Bouché), Ceroplastes sinensis Del Guercio, Coccus hesperidum L.*<br>Hongos:<br>*Mycosphaerella nawae Hiura & Ikata*–solo en plantas con hojas–.<br>*Rosellinia necatrix Berl. ex Prill.*<br>*Armillaria mellea (Vahl) Kummer.*<br>*Phytophthora spp.*<br>Bacterias:<br>*Agrobacterium tumefaciens (Smith & Townsend) Conn.* |
+| *Punica granatum L.* Granado. | Insectos, ácaros y nematodos en todas las fases de su desarrollo:<br>Cotonets/melazos, en particular:*Planococcus citri Risso.*<br>*Ceroplastes sinensis* *Del Guercio.*<br>*Zeuzera pyrina L.*<br>*Helicotylenchus spp.*<br>*Longidorus spp.*<br>*Meloidogyne spp.*<br>*Tylenchorhynchus spp.*<br>Hongos:<br>*Alternaria alternata (Fr.) Keissl*–cepas patógenas en hojas-.<br>*Armillaria mellea (Vahl) Kummer.*<br>*Phytophthora spp.*<br>*Rosellinia necatrix Berl. ex Prill.*<br>Virus:<br>*Cucumber mosaic virus (CMV).* |
+
+> Se modifica por el art. 1.7 del Real Decreto 525/2023, de 20 de junio. [Ref. BOE-A-2023-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14680)
+
+> Se modifica por el art. único.23 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603)
+
+> Se modifica por el art. único.5 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+## ANEXO II bis — Lista de plagas reguladas no cuarentenarias que requieren inspección visual para determinar su presencia y, en su caso, muestreo y ensayo con arreglo al artículo 60, apartados 2 y 4, el artículo 61, apartado 1, el artículo 67, apartado 1, el artículo 72, apartado 1, el artículo 19 quáter, apartado 1, y el anexo IV
+
+| Género o especie | Plagas reguladas no cuarentenarias |
+|---|---|
+| *Castanea sativa* Mill. | Hongos y oomicetos.<br>*Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld [PHYTRA]. |
+| *Citrus* L.,*Fortunella Swingle* y *Poncirus*Raf. | Bacterias.<br>S*piroplasma citri Saglio et al.*[SPIRCI].<br>Hongos y oomicetos.<br>*Plenodomus tracheiphilus*(Petri) Gruyter, Aveskamp & Verkley [DEUTTR].<br>Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Agente de la cristacortis de los cítricos [CSCC00].<br>Viroide de la exocortis de los cítricos [CEVD00].<br>Agente de la impietratura de los cítricos [CSI000].<br>Virus del manchado foliar de los cítricos [CLBV00].<br>Virus de la psorosis de los cítricos [CPSV00].<br>Virus de la tristeza de los cítricos [CTV000] (cepas de la UE).<br>Virus de la variegación de los cítricos [CVV000].<br>Viroide del enanismo del lúpulo [HSVD00]. |
+| *Corylus avellana* L. | Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Virus del mosaico del manzano [APMV00]. |
+| *Cydonia oblonga*Mill. | Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Virus de las manchas cloróticas del manzano [ACLSV0].<br>Agente de la madera gomosa del manzano [ARW000].<br>Virus de la madera asurcada del manzano [ASGV00].<br>Virus de la madera estriada del manzano [ASPV00].<br>Agente de la necrosis de la corteza del peral [PRBN00].<br>Agente de las grietas en la corteza del peral [PRBS00].<br>Viroide de los chancros pustulosos del peral [PBCVD0].<br>Agente de la corteza áspera del peral [PRRB00].<br>Agente de las pústulas amarillas del membrillo [ARW000]. |
+| *Fragaria* L. | Bacterias.<br>*Xanthomonas fragariae*Kennedy & King [XANTFR].<br>Hongos y oomicetos.<br>*Colletotrichum acutatum*Simmonds [COLLAC].<br>*Phytophthora cactorum* (Lebert & Cohn) J.Schröter [PHYTCC].<br>*Phytophthora fragariae* C.J. Hickman [PHYTFR].<br>Nematodos.<br>*Aphelenchoides besseyi* Christie [APLOBE].<br>*Aphelenchoides blastophthorus* Franklin [APLOBL].<br>*Aphelenchoides fragariae* (Ritzema Bos) Christie [APLOFR].<br>*Aphelenchoides ritzemabosi* (Schwartz) Steiner & Buhrer [APLORI].<br>Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Virus del mosaico del Arabis [ARMV00].<br>Virus de las manchas anulares del frambueso [RPRSV0].<br>Virus del arrugado de la fresa [SCRV00].<br>Virus latente de las manchas anulares de la fresa [SLRSV0].<br>Virus de la clorosis marginal del fresal [SMYEV0].<br>Virus del mosaico de la fresa [SMOV00].<br>Virus de la necrosis de las venas de la fresa [SVBV00].<br>Virus de la mancha negra del tomate [TBRV00]. |
+| *Juglans regia*L. | Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Virus del enrollado de la hoja del cerezo [CLRV00]. |
+| *Malus* Mill. | Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Virus de las manchas cloróticas del manzano [ACLSV0].<br>Viroide del hoyuelo de la manzana [ADFVD0].<br>Agente de la rama chata del manzano [AFL000].<br>Virus del mosaico del manzano [APMV00].<br>Agente de la madera gomosa del manzano [ARW000].<br>Viroide de la piel cicatrizada de la manzana [ASSVD0].<br>Agente de la fisura en estrella del manzano [APHW00].<br>Virus de la madera asurcada del manzano [ASGV00].<br>Virus de la madera estriada del manzano [ASPV00].<br>*Candidatus Phytoplasma*maliSeemüller & Schneider [PHYPMA].<br>Enfermedades de los frutos: fruto atrofiado [APCF00], arrugado verde [APGC00], enfermedad de Ben Davis, piel rugosa [APRSK0], fisura en estrella, anillo herrumbroso [APLP00], carúncula herrumbrosa.<br>Virus de la mancha anular del tomate [TORSV0]. |
+| *Olea europaea* L*.* | Hongos y oomicetos.<br>*Verticillium dahliae* Kleb [VERTDA].<br>Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Virus del mosaico del Arabis [ARMV00].<br>Virus del enrollado de la hoja del cerezo [CLRV00].<br>Virus latente de las manchas anulares de la fresa [SLRSV0]. |
+| *Prunus dulcis* (Miller) Webb. | Bacterias.<br>*Xanthomonas arboricola pv. pruni* (Smith) Vauterin*et al.*[XANTPR].<br>Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Virus de las manchas cloróticas del manzano [ACLSV0].<br>Virus del mosaico del manzano [APMV00].<br>*Candidatus Phytoplasma prunorum* Seemüller & Schneider [PHYPPR].<br>Virus de la viruela del ciruelo [PPV000].<br>Virus del enanismo del ciruelo [PDV000].<br>Virus de los anillos necróticos de Prunus [PNRSV0].<br>Virus de la mancha anular del tomate [TORSV0]. |
+| *Prunus armeniaca* L. | Bacterias.<br>*Xanthomonas arboricola pv. pruni*(Smith) Vauterin *et al.* [XANTPR].<br>Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Virus de las manchas cloróticas del manzano [ACLSV0].<br>Virus del mosaico del manzano [APMV00].<br>Virus latente del albaricoque [ALV000].<br>*Candidatus Phytoplasma prunorum* Seemüller & Schneider [PHYPPR].<br>Virus de la viruela del ciruelo [PPV000].<br>Virus del enanismo del ciruelo [PDV000].<br>Virus de los anillos necróticos de Prunus [PNRSV0].<br>Virus de la mancha anular del tomate [TORSV0]. |
+| *Prunus avium* L. y *Prunus cerasus* L. | Bacterias.<br>*Xanthomonas arboricola pv. pruni*(Smith) Vauterin *et al.* [XANTPR].<br>Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Virus de las manchas cloróticas del manzano [ACLSV0].<br>Virus del mosaico del manzano [APMV00].<br>Virus del mosaico del Arabis [ARMV00].<br>*Candidatus Phytoplasma prunorum*Seemüller & Schneider [PHYPPR].<br>Virus del moteado anular del cerezo [CGRMV0].<br>Virus del enrollado de la hoja del cerezo [CLRV00].<br>Virus del moteado de la hoja del cerezo [CMLV00].<br>Virus de la mancha herrumbrosa de la hoja del cerezo [CRNRM0].<br>Virus de la cereza pequeña 1 y 2 [LCHV10], [LCHV20].<br>Virus de la viruela del ciruelo [PPV000].<br>Virus del enanismo del ciruelo [PDV000].<br>Virus de los anillos necróticos de Prunus [PNRSV0].<br>Virus de las manchas anulares del frambueso [RPRSV0].<br>Virus latente de las manchas anulares de la fresa [SLRSV0].<br>Virus de la mancha negra del tomate [TBRV00].<br>Virus de la mancha anular del tomate [TORSV0]. |
+| *Prunus domestica*L.,*Prunus salicina Lindley* y otras especies de *Prunus* L. sensibles al virus de la viruela del ciruelo en el caso de los híbridos de *Prunus* L. | Bacterias.<br>*Xanthomonas arboricola pv. pruni*(Smith) Vauterin *et al.* [XANTPR].<br>Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Virus de las manchas cloróticas del manzano [ACLSV0].<br>Virus del mosaico del manzano [APMV00].<br>*Candidatus Phytoplasma prunorum*Seemüller & Schneider [PHYPPR].<br>Virus latente de las manchas anulares del mirobolano [MLRSV0].<br>Virus de la viruela del ciruelo [PPV000].<br>Virus del enanismo del ciruelo [PDV000].<br>Virus de los anillos necróticos de Prunus [PNRSV0].<br>Virus de la mancha anular del tomate [TORSV0]. |
+| *Prunus persica*(L.) Batsch. | Bacterias.<br>*Xanthomonas arboricola pv. pruni*(Smith) Vauterin *et al.*[XANTPR].<br>Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Virus de las manchas cloróticas del manzano [ACLSV0].<br>Virus del mosaico del manzano [APMV00].<br>Virus latente del albaricoque [ALV000].<br>*Candidatus Phytoplasma prunorum*Seemüller & Schneider [PHYPPR].<br>Viroide del mosaico latente del melocotonero [PLMVD0].<br>Virus de la viruela del ciruelo [PPV000].<br>Virus del enanismo del ciruelo [PDV000].<br>Virus de los anillos necróticos de Prunus [PNRSV0].<br>Virus latente de las manchas anulares de la fresa [SLRSV0].<br>Virus de la mancha anular del tomate [TORSV0]. |
+| *Pyrus*L. | Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Virus de las manchas cloróticas del manzano [ACLSV0].<br>Agente de la madera gomosa del manzano [ARW000].<br>Virus de la madera asurcada del manzano [ASGV00].<br>Virus de la madera estriada del manzano [ASPV00].<br>*Candidatus Phytoplasma pyri*Seemüller & Schneider [PHYPPY].<br>Agente de la necrosis de la corteza del peral [PRBN00].<br>Agente de las grietas en la corteza del peral [PRBS00].<br>Viroide de los chancros pustulosos del peral [PBCVD0].<br>Agente de la corteza áspera del peral [PRRB00].<br>Agente de las pústulas amarillas del membrillo [ARW00. |
+| *Ribes* L. | Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Virus del mosaico del Arabis [ARMV00].<br>Virus de la reversión virótica del grosellero [BRAV00].<br>Virus del mosaico del pepino [CMV000].<br>Virus asociado a la necrosis de las venas de la grosella espinosa [GOVB00].<br>Virus de las manchas anulares del frambueso [RPRSV0].<br>Virus latente de las manchas anulares de la fresa [SLRSV0]. |
+| *Rubus*L. | Hongos y oomicetos.<br>*Phytophthora spp.* de Bary [1PHYTG].<br>Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Virus del mosaico del manzano [APMV00].<br>Virus del mosaico del Arabis [ARMV00].<br>Virus de la necrosis del frambueso negro [BRNV00].<br>*Candidatus Phytoplasma*rubi Malembic-Maher*et al.*[PHYPRU].<br>Virus del mosaico del pepino [CMV000].<br>Virus del enanismo arbustivo del frambueso [RBDV00].<br>Virus del moteado de la hoja del frambueso [RLMV00].<br>Virus de las manchas anulares del frambueso [RPRSV0].<br>Virus de la clorosis de los nervios del frambueso [RVCV00].<br>Mancha amarilla del frambueso [RYS000].<br>Virus de la mancha amarilla de Rubus [RYNV00].<br>Virus latente de las manchas anulares de la fresa [SLRSV0].<br>Virus de la mancha negra del tomate [TBRV00].<br>Virus de la mancha anular del tomate [TORSV0]. |
+| *Vaccinium*L. | Hongos y oomicetos.<br>*Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld [PHYTRA].<br>Virus, viroides, enfermedades similares a las víricas y fitoplasmas.<br>Ophiovirus asociado al mosaico del arándano [BLMAV0].<br>Virus de las manchas anulares rojas del arándano [BRRV00].<br>Virus de la bruñidura necrótica del arándano [BLSCV0].<br>Virus del choque del arándano [BLSHV0].<br>Virus formador de cordoncillos del arándano [BSSV00].<br>*Candidatus Phytoplasma asteris*Lee *et al.*[PHYPAS].<br>*Candidatus Phytoplasma pruni*[PHYPPN].<br>*Candidatus Phytoplasma solani*Quaglino *et al.* [PHYPSO].<br>Fitoplasma de la floración falsa del arándano rojo [PHYPFB].<br>Virus del mosaico anular del tabaco [TRSV0].<br>Virus de la mancha anular del tomate [TORSV0]. |
+
+> Se modifica por el art. único.2 de la Orden APA/775/2025, de 15 de julio. [Ref. BOE-A-2025-15139](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15139)
+
+> Se modifica por el art. 1.8 del Real Decreto 525/2023, de 20 de junio. [Ref. BOE-A-2023-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14680)
+
+> Se modifica por el art. 1.12 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se añade por el art. único.24 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603)
+
+## ANEXO II ter — Lista de plagas reguladas no cuarentenarias cuya presencia en el suelo se contempla en el artículo 62, apartados 1 y 2, el artículo 68, apartados 1 y 2, y el artículo 73, apartados 1 y 2
+
+<table>
+<thead>
+<tr>
+<td>
+<p>Género o especie</p>
+</td>
+<td>
+<p>Plagas reguladas no cuarentenarias</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p><em>Fragaria</em> L.</p>
+</td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Longidorus attenuatus</em> Hooper [LONGAT]</p>
+<p><em>Longidorus elongatus</em> (de Man) Thorne &amp; Swanger [LONGEL]</p>
+<p><em>Longidorus macrosoma</em> Hooper [LONGMA]</p>
+<p><em>Xiphinema diversicaudatum</em> (Mikoletzky) Thorne [XIPHDI]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Juglans regia</em> L.</p>
+</td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Xiphinema diversicaudatum</em> (Mikoletzky) Thorne [XIPHDI]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Olea europaea</em> L.</p>
+</td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Xiphinema diversicaudatum</em> (Mikoletzky) Thorne [XIPHDI]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Pistacia vera</em> L.</p>
+</td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Xiphinema index</em> Thorne &amp; Allen [XIPHIN]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Prunus avium</em> L. y <em>Prunus cerasus</em> L.</p>
+</td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Longidorus attenuatus</em> Hooper [LONGAT]</p>
+<p><em>Longidorus elongatus</em> (de Man) Thorne &amp; Swanger [LONGEL]</p>
+<p><em>Longidorus macrosoma</em> Hooper [LONGMA]</p>
+<p><em>Xiphinema diversicaudatum</em> (Mikoletzky) Thorne [XIPHDI]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p><em>Prunus domestica</em> L.<em>, Prunus persica</em> (L.) Batsch y <em>Prunus salicina</em> Lindley</p>
+</td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Longidorus attenuatus</em> Hooper [LONGAT]</p>
+<p><em>Longidorus elongatus</em> (de Man) Thorne &amp; Swanger [LONGEL]</p>
+<p><em>Xiphinema diversicaudatum</em> (Mikoletzky) Thorne [XIPHDI]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Ribes</em> L.</p>
+</td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Longidorus elongatus</em> (de Man) Thorne &amp; Swanger [LONGEL]</p>
+<p><em>Longidorus macrosoma</em> Hooper [LONGMA]</p>
+<p><em>Xiphinema diversicaudatum</em> (Mikoletzky) Thorne [XIPHDI]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Rubus</em> L.</p>
+</td>
+<td>
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p><em>Longidorus attenuatus</em> Hooper [LONGAT]</p>
+<p><em>Longidorus elongatus</em> (de Man) Thorne &amp; Swanger [LONGEL]</p>
+<p><em>Longidorus macrosoma</em> Hooper [LONGMA]</p>
+<p><em>Xiphinema diversicaudatum</em> (Mikoletzky) Thorne [XIPHDI]</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica por el art. 1.12 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se añade por el art. único.24 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603)
+
+## ANEXO II quáter — Requisitos relativos a las medidas, por géneros o especies y por categoría, con arreglo al artículo 61, apartado 4; al artículo 67, apartado 4; al artículo 72, apartado 4; y al artículo 19 quater, apartado 2
+
+Los materiales de reproducción cumplirán los requisitos relativos a las plagas cuarentenarias de la Unión y las plagas cuarentenarias de zonas protegidas contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031 del Parlamento Europeo y del Consejo, de 26 de octubre de 2016, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
+
+Además, deberán cumplir los siguientes requisitos, por géneros o especies y por categoría:
+
+1\. *Castanea sativa* Mill.
+
+a) Todas las categorías.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales una vez al año.
+
+Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+b) Categoría inicial.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+En caso de que se autorice una excepción para producir materiales iniciales en el campo en condiciones que no sean a prueba de insectos, de conformidad con la Decisión de Ejecución (UE) 2017/925 de la Comisión, de 29 de mayo de 2017, se aplicarán los siguientes requisitos:
+
+i) *Cryphonectria parasitica* (Murrill) Barr:
+
+– Los materiales de reproducción y los plantones de frutal de la categoría inicial se producirán en áreas que las autoridades competentes hayan considerado libres de *Cryphonectria parasitica* (Murrill) Barr. de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
+
+– Durante el último ciclo de vegetación completo, no se habrán observado síntomas de *Cryphonectria parasitica* (Murrill) Barr en los materiales de reproducción y los plantones de frutal de la categoría inicial, en el sitio de producción;
+
+ii) *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld:
+
+– Los materiales de reproducción y los plantones de frutal de la categoría inicial se producirán en áreas que las autoridades competentes hayan considerado libres de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
+
+– Durante el último ciclo de vegetación completo, no se habrán observado síntomas de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock of Man in ‘t Veld en los materiales de reproducción y los plantones de frutal de la categoría inicial, en el sitio de producción.
+
+c) Categoría de base.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) *Cryphonectria parasitica* (Murrill) Barr:
+
+– Los materiales de reproducción y los plantones de frutal de la categoría de base se producirán en áreas que las autoridades competentes hayan considerado libres de *Cryphonectria parasitica* (Murrill) Barr. de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
+
+– Durante el último ciclo de vegetación completo, no se habrán observado síntomas de *Cryphonectria parasitica* (Murrill) Barr en los materiales de reproducción y los plantones de frutal de la categoría de base, en el sitio de producción;
+
+ii) *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld:
+
+– Los materiales de reproducción y los plantones de frutal de la categoría de base se producirán en áreas que las autoridades competentes hayan considerado libres de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
+
+– Durante el último ciclo de vegetación completo, no se habrán observado síntomas de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock of Man in ‘t Veld en los materiales de reproducción y los plantones de frutal de la categoría de base, en el sitio de producción.
+
+d) Categorías certificada y CAC.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) *Cryphonectria parasitica* (Murrill) Barr:
+
+– Los materiales de reproducción y los plantones de frutal de las categorías certificada y CAC se producirán en áreas que las autoridades competentes hayan considerado libres de *Cryphonectria parasitica* (Murrill) Barr. de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
+
+– Durante el último ciclo de vegetación completo, no se habrán observado síntomas de *Cryphonectria parasitica* (Murrill) Barr en los materiales de reproducción y los plantones de frutal de las categorías certificada y CAC, en el sitio de producción, o
+
+– Se arrancarán los materiales de reproducción y los plantones de frutal de las categorías certificada y CAC que presentaran síntomas de *Cryphonectria parasitica* (Murrill) Barr, se inspeccionarán cada semana el resto de materiales de reproducción y plantones de frutal y, durante al menos tres semanas antes de su expedición, no se habrán observado síntomas de este organismo en el sitio de producción;
+
+ii) *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld:
+
+– Los materiales de reproducción y los plantones de frutal de las categorías certificada y CAC se producirán en áreas que las autoridades competentes hayan considerado libres de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
+
+– Durante el último ciclo de vegetación completo, no se habrán observado síntomas de *Phytophthora ramorum*(cepas de la UE) Werres, De Cock of Man in ‘t Veld en los materiales de reproducción y los plantones de frutal de las categorías certificada y CAC, en el sitio de producción, o
+
+• Se habrán arrancado y eliminado los materiales de reproducción y los plantones de frutal de las categorías certificada y CAC que presentaran síntomas de *Phytophthora ramorum*(cepas de la UE) Werres, De Cock & Man in ‘t Veld en el sitio de producción, así como todos los vegetales presentes en un radio de 2 m alrededor de los materiales de reproducción y los plantones de frutal sintomáticos, incluida la tierra adherida, y
+
+• En relación con todos los vegetales presentes en un radio de 10 m alrededor de los materiales de reproducción y los plantones de frutal sintomáticos, y cualquier material de reproducción o plantón de frutal restante del lote afectado:
+
+○ En un plazo de tres meses a partir de la detección de los materiales de reproducción y los plantones de frutal sintomáticos, no se observarán síntomas de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld en dichos materiales y plantones sintomáticos en un mínimo de dos inspecciones que tengan lugar en los momentos adecuados para detectar la plaga, y durante ese período trimestral no se aplicarán tratamientos que eliminen los síntomas de este organismo, y
+
+○ Tras ese período de tres meses:
+
+□ No se habrán observado síntomas *de Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld en dichos materiales y plantones en el sitio de producción, o
+
+□ Se someterá a ensayo una muestra representativa de dichos materiales y plantones que se prevea trasladar, muestra que deberá considerarse libre de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld, y
+
+– En lo que respecta a todos los demás materiales de reproducción y plantones de frutal que se encuentren en el sitio de producción:
+
+• No se habrán observado síntomas de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock of Man in ‘t Veld en los materiales de reproducción y los plantones de frutal en el sitio de producción, o
+
+• Se habrá sometido a ensayo una muestra representativa de dichos materiales y plantones que se prevea trasladar, muestra que deberá considerarse libre de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld.
+
+2\. *Citrus*L*., Fortunella*Swingle y*Poncirus*Raf.
+
+a) Categoría inicial.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales dos veces al año.
+
+Muestreo y ensayo.
+
+Toda planta madre inicial será objeto de muestreo y ensayo cada año en relación con la presencia de*Spiroplasma citri Saglio* et al. Toda planta madre inicial será objeto de muestreo y ensayo tres años después de su aceptación como planta madre inicial, y posteriormente cada tres años, en relación con la presencia del virus de la tristeza de los cítricos (cepas de la UE).
+
+Toda planta madre inicial será objeto de muestreo y ensayo seis años después de su aceptación como planta madre inicial, y posteriormente cada seis años, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II distintas del virus de la tristeza de los cítricos (cepas de la UE) y de *Spiroplasma citri Saglio*et al., así como en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+b) Categoría de base.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales dos veces al año en relación con el virus de la tristeza de los cítricos (cepas de la UE), *Spiroplasma citri Saglio et al. y Plenodomus tracheiphilus*(Petri)*Gruyter, Aveskamp & Verkley.* Se llevarán a cabo inspecciones visuales una vez al año en relación con todas las plagas reguladas no cuarentenarias enumeradas en los anexos I y II distintas del virus de la tristeza de los cítricos (cepas de la UE), *Spiroplasma citri Saglio et al. y Plenodomus tracheiphilus*(Petri)*Gruyter, Aveskamp & Verkley.*
+
+Muestreo y ensayo.
+
+Toda planta madre de base que se haya mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada tres años en relación con la presencia del virus de la tristeza de los cítricos (cepas de la UE). Una porción representativa de las plantas madre de base será objeto de muestreo y ensayo cada tres años en relación con la presencia de *Spiroplasma citri Saglio et al.*
+
+Una porción representativa de las plantas madre de base que no se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada año en relación con la presencia del virus de la tristeza de los cítricos (cepas de la UE) y *Spiroplasma citri Saglio et al*., con el fin de que todas las plantas madre hayan sido sometidas a ensayo en un intervalo de dos años.
+
+En caso de que los ensayos del virus de la tristeza de los cítricos (cepas de la UE) den un resultado positivo, serán objeto de muestreo y ensayo todas las plantas madre de base del sitio de producción. Una porción representativa de las plantas madre de base que no se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada seis años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II distintas del virus de la tristeza de los cítricos (cepas de la UE) y de *Spiroplasma citri Saglio et al.*
+
+c) Categoría certificada.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales dos veces al año en relación con el virus de la tristeza de los cítricos (cepas de la UE), *Spiroplasma citri Saglio* et al. y *Plenodomus tracheiphilus*(Petri) *Gruyter, Aveskamp & Verkley*. Se llevarán a cabo inspecciones visuales una vez al año en relación con todas las plagas reguladas no cuarentenarias enumeradas en los anexos I y II distintas del virus de la tristeza de los cítricos (cepas de la UE), *Spiroplasma citri Saglio et al. y Plenodomus tracheiphilus*(Petri)*Gruyter, Aveskamp & Verkley.*
+
+Muestreo y ensayo.
+
+Una porción representativa de las plantas madre certificadas que se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada cuatro años en relación con la presencia del virus de la tristeza de los cítricos (cepas de la UE), con el fin de que todas las plantas madre hayan sido sometidas a ensayo en un intervalo de ocho años.
+
+Una porción representativa de las plantas madre certificadas que no se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada año en relación con la presencia del virus de la tristeza de los cítricos (cepas de la UE), con el fin de que todas las plantas madre hayan sido sometidas a ensayo en un intervalo de tres años. Una porción representativa de las plantas madre certificadas que no se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo en caso de dudas relativas a la presencia de las plagas enumeradas en los anexos I y II distintas del virus de la tristeza de los cítricos (cepas de la UE).
+
+En caso de que los ensayos del virus de la tristeza de los cítricos (cepas de la UE) den un resultado positivo, serán objeto de muestreo y ensayo todas las plantas madre certificadas del sitio de producción.
+
+d) Categorías de base y certificada.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) Los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres del virus de la tristeza de los cítricos (cepas de la UE), *Spiroplasma citri Saglio et al.*y*Plenodomus tracheiphilus*(Petri)*Gruyter, Aveskamp & Verkley;*
+
+ii) Durante la última temporada de crecimiento completa no se han observado síntomas de *Spiroplasma citri Saglio* et al. ni de Plenodomus tracheiphilus (Petri) Gruyter, Aveskamp & Verkley en los materiales de reproducción y plantones de frutal de las categorías de base y certificada que se han cultivado en instalaciones a prueba de insectos, y los materiales se han sometido a muestreo y ensayo aleatorios en relación con el virus de la tristeza de los cítricos (cepas de la UE) antes de su comercialización; o
+
+iii) Durante la última temporada de crecimiento completa no se han observado síntomas de *Spiroplasma citri Saglio* et al. ni de *Plenodomus tracheiphilus* (Petri) Gruyter, Aveskamp & Verkley en los materiales de reproducción y plantones de frutal de la categoría certificada que no se han cultivado en instalaciones a prueba de insectos, y una porción representativa de los materiales se ha sometido a muestreo y ensayo en relación con el virus de la tristeza de los cítricos (cepas de la UE) antes de su comercialización; o
+
+iv) En el caso de los materiales de reproducción y plantones de frutal de la categoría certificada que no se han cultivado en instalaciones a prueba de insectos:
+
+– Durante la última temporada de crecimiento completa no se han observado síntomas de *Plenodomus tracheiphilus* (Petri) Gruyter, Aveskamp & Verkley ni de *Spiroplasma citri Saglio* et al. en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones; y
+
+– Una porción representativa de los materiales de reproducción y plantones de frutal de la categoría certificada se ha sometido a muestreo y ensayo en relación con el virus de la tristeza de los cítricos (cepas de la UE) antes de su comercialización y, durante la última temporada de crecimiento completa, no más del 2 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción ha dado un resultado positivo; se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal; los materiales de reproducción y plantones de frutal de las inmediaciones se han sometido a muestreo y ensayo aleatorios, y se han arrancado y destruido inmediatamente todos aquellos que han dado un resultado positivo.
+
+e) Categoría CAC.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales una vez al año. Muestreo y ensayo.
+
+Los materiales de reproducción y plantones de frutal de la categoría CAC se obtendrán de una fuente identificada que, tras ser sometida a inspección visual, muestreo y ensayo, se haya considerado libre de las plagas reguladas no cuarentenarias enumeradas en el anexo II.
+
+Una porción representativa de los materiales procedentes de una fuente identificada que se haya mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada ocho años en relación con la presencia del virus de la tristeza de los cítricos (cepas de la UE).
+
+Una porción representativa de los materiales procedentes de una fuente identificada que no se haya mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada tres años en relación con la presencia del virus de la tristeza de los cítricos (cepas de la UE).
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) Los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres del virus de la tristeza de los cítricos (cepas de la UE*), Spiroplasma citri Saglio* et al. y *Plenodomus tracheiphilus* (Petri) Gruyter, Aveskamp & Verkley; o
+
+ii) Durante la última temporada de crecimiento completa no se han observado síntomas de *Spiroplasma citri Saglio* et al. ni *de Plenodomus tracheiphilus* (Petri) Gruyter, Aveskamp & Verkley en los materiales de reproducción y plantones de frutal de la categoría CAC que se han cultivado en instalaciones a prueba de insectos, y los materiales se han sometido a muestreo y ensayo aleatorios en relación con el virus de la tristeza de los cítricos (cepas de la UE) antes de su comercialización; o
+
+iii) Durante la última temporada de crecimiento completa no se han observado síntomas de *Spiroplasma citri Saglio* et al. ni *de Plenodomus tracheiphilus* (Petri) Gruyter, Aveskamp & Verkley en los materiales de reproducción y plantones de frutal de la categoría CAC que no se han cultivado en instalaciones a prueba de insectos, se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones y una porción representativa de los materiales se ha sometido a muestreo y ensayo en relación con el virus de la tristeza de los cítricos (cepas de la UE) antes de su comercialización; o
+
+iv) En el caso de los materiales de reproducción y plantones de frutal de la categoría CAC que no se han cultivado en instalaciones a prueba de insectos:
+
+– Durante la última temporada de crecimiento completa no se han observado síntomas de *Spiroplasma citri Saglio* et al. ni de *Plenodomus tracheiphilus*(Petri) Gruyter, Aveskamp & Verkley en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones; y
+
+– Una porción representativa de los materiales de reproducción y plantones de frutal de la categoría CAC se ha sometido a muestreo y ensayo en relación con el virus de la tristeza de los cítricos (cepas de la UE) antes de su comercialización y, durante la última temporada de crecimiento completa, no más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción ha dado un resultado positivo; se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal; los materiales de reproducción y plantones de frutal de las inmediaciones se han sometido a muestreo y ensayo aleatorios, y se han arrancado y destruido inmediatamente todos aquellos que han dado un resultado positivo.
+
+3\. Corylus avellana L.
+
+Todas las categorías.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales una vez al año.
+
+Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II.
+
+4\. Cydonia oblonga Mill.
+
+a) Todas las categorías.
+
+Inspección visual.
+
+Durante la última temporada de crecimiento completa se llevarán a cabo inspecciones visuales en relación *con Erwinia amylovora* (Burrill) Winslow et al. Se llevarán a cabo inspecciones visuales una vez al año en relación con todas las plagas reguladas no cuarentenarias distintas de *Erwinia amylovora* (Burrill) Winslow et al.
+
+b) Categoría inicial.
+
+Muestreo y ensayo.
+
+Toda planta madre inicial será objeto de muestreo y ensayo quince años después de su aceptación como planta madre inicial, y posteriormente cada quince años, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II distintas de las enfermedades similares a las víricas y de los viroides y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+c) Categoría de base.
+
+Muestreo y ensayo.
+
+Una porción representativa de las plantas madre de base será objeto de muestreo y ensayo cada quince años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II distintas de las enfermedades similares a las víricas y de los viroides y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+d) Categoría certificada.
+
+Muestreo y ensayo.
+
+Una porción representativa de las plantas madre certificadas será objeto de muestreo y ensayo cada quince años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II distintas de las enfermedades similares a las víricas y de los viroides y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+Los plantones de frutal certificados serán objeto de muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II.
+
+e) Categorías de base y certificada.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) Los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres de *Erwinia amylovora* (Burrill) Winslow et al.; o
+
+ii) Durante la última temporada de crecimiento completa se han inspeccionado los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todos los materiales de reproducción y plantones de frutal que presentaban síntomas de *Erwinia amylovora* (Burrill) Winslow et al., así como todas las plantas hospedadoras de las inmediaciones.
+
+f) Categoría CAC. Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) Los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de*Erwinia amylovora*(Burrill) Winslow et al.; o
+
+ii) Durante la última temporada de crecimiento completa se han inspeccionado los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todos los materiales de reproducción y plantones de frutal que presentaban síntomas de *Erwinia amylovora* (Burrill) Winslow et al., así como todas las plantas hospedadoras de las inmediaciones.
+
+5\. Ficus carica L.
+
+Todas las categorías.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales una vez al año.
+
+Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+6\. Fragaria L.
+
+a) Todas las categorías.
+
+Inspección visual.
+
+Durante la temporada de crecimiento se llevarán a cabo inspecciones visuales dos veces al año. Se procederá a la inspección visual del follaje de Fragaria L. en relación con la presencia de *Phytophthora fragariae* C.J. Hickman.
+
+En el caso de los materiales de reproducción y plantones de frutal producidos por micropropagación que se mantengan durante un período inferior a tres meses, solo será necesaria una inspección visual durante dicho período.
+
+b) Categoría inicial. Muestreo y ensayo.
+
+Toda planta madre inicial será objeto de muestreo y ensayo un año después de su aceptación como planta madre inicial, y posteriormente una vez por temporada de crecimiento, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+c) Categoría de base. Muestreo y ensayo.
+
+Una muestra representativa de las raíces se someterá a muestreo y ensayo cuando existan síntomas de *Phytophthora fragariae* C.J. Hickman en el follaje. Se procederá a muestreo y ensayo cuando los síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus del arrugado de la fresa, el virus latente de las manchas anulares de la fresa, el virus de la clorosis marginal del fresal, el virus de la necrosis de las venas de la fresa o el virus de la mancha negra del tomate no estén claros mediante inspección visual. Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II distintas del virus del mosaico del Arabis, *Phytophthora fragariae* C.J. Hickman, el virus de las manchas anulares del frambueso, el virus del arrugado de la fresa, el virus latente de las manchas anulares de la fresa, el virus de la clorosis marginal del fresal, el virus de la necrosis de las venas de la fresa o el virus de la mancha negra del tomate.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) *Phytophthora fragariae* C.J. Hickman.
+
+– Los materiales de reproducción y plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres de *Phytophthora fragariae* C.J. Hickman, o
+
+– Durante la última temporada de crecimiento completa no se han observado síntomas de *Phytophthora fragariae* C.J. Hickman en el follaje de los materiales de reproducción y plantones de frutal de la categoría de base en el sitio de producción, y todos los materiales de reproducción, plantones de frutal y plantas infectados en una zona circundante de al menos 5 m de radio se han marcado, excluido de la recogida y la comercialización y destruido tras la recogida de los materiales de reproducción, plantones de frutal y plantas no infectados,
+
+– *Xanthomonas fragariae* Kennedy & King.
+
+– Los materiales de reproducción y plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres de*Xanthomonas fragariae* Kennedy & King, o
+
+– Durante la última temporada de crecimiento completa no se han observado síntomas de *Xanthomonas fragariae* Kennedy & King en los materiales de reproducción y plantones de frutal de la categoría de base en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
+
+ii) *Phytophthora fragariae* C.J. Hickman,
+
+– Ha existido un período de descanso de al menos diez años entre la detección de *Phytophthora fragariae*C.J. Hickman y la plantación siguiente durante el cual no se han cultivado los materiales de reproducción y plantones de frutal afectados, o
+
+– Se han registrado el historial de cultivo y el historial de enfermedades transmitidas por el suelo en el sitio de producción,
+
+– *Xanthomonas fragariae* Kennedy & King,
+
+– Ha existido un período de descanso de al menos un año entre la detección de *Xanthomonas fragariae* Kennedy & King y la plantación siguiente durante el cual no se han cultivado los materiales de reproducción y plantones de frutal afectados;
+
+iii) Requisitos para las plagas reguladas no cuarentenarias distintas de *Xanthomonas fragariae* Kennedy & King y *Phytophthora fragariae* C.J. Hickman, y distintas de los virus:
+
+– Durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría de base con síntomas de las siguientes plagas reguladas no cuarentenarias en el sitio de producción no excedió de:
+
+• 0,05 % en el caso de *Aphelenchoides besseyi,*
+
+• 0,1 % en el caso del fitoplasma de la enfermedad multiplicadora de la fresa,
+
+• 0,2 % en el caso de:
+
+*Candidatus Phytoplasma asteris Lee et al.*
+
+*Candidatus Phytoplasma pruni.*
+
+*Candidatus Phytoplasma solani*Quaglino*et al.*
+
+*Verticillium albo-atrum*Reinke & Berthold.
+
+*Verticillium dahliae*Kleb.
+
+• 0,5 % en el caso de:
+
+*Chaetosiphon fragaefolii*Cockerell.
+
+*Ditylenchus dipsaci (Kuehn)*Filipjev.
+
+*Meloidogyne hapla*Chitwood.
+
+*Podosphaera aphanis (Wallroth)*Braun & Takamatsu.
+
+• 1 % en el caso de *Pratylenchus vulnus* Allen & Jensen, y se han arrancado y destruido los materiales de reproducción y plantones de frutal, así como todas las plantas hospedadoras de las inmediaciones, y
+
+– En caso de que los ensayos de los materiales de reproducción y plantones de frutal de la categoría de base que presenten síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus del arrugado de la fresa, el virus latente de las manchas anulares de la fresa, el virus de la clorosis marginal del fresal, el virus de la necrosis de las venas de la fresa o el virus de la mancha negra del tomate den un resultado positivo, se arrancan y destruyen inmediatamente los materiales de reproducción y plantones de frutal afectados;
+
+iv) Requisitos para todos los virus:
+
+Durante la última temporada de crecimiento completa no se han observado síntomas de ninguno de los virus enumerados en los anexos I y II en más del 1 % de los materiales de reproducción y plantones de frutal de la categoría de base en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones.
+
+d) Categoría certificada.
+
+Muestreo y ensayo.
+
+Una muestra representativa de las raíces se someterá a muestreo y ensayo cuando existan síntomas de *Phytophthora fragariae* C.J. Hickman en el follaje. Se procederá a muestreo y ensayo cuando los síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus del arrugado de la fresa, el virus latente de las manchas anulares de la fresa, el virus de la clorosis marginal del fresal, el virus de la necrosis de las venas de la fresa o el virus de la mancha negra del tomate no estén claros mediante inspección visual. Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II distintas del virus del mosaico del Arabis, *Phytophthora fragariae* C.J. Hickman, el virus de las manchas anulares del frambueso, el virus del arrugado de la fresa, el virus latente de las manchas anulares de la fresa, el virus de la clorosis marginal del fresal, el virus de la necrosis de las venas de la fresa o el virus de la mancha negra del tomate.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) *Phytophthora fragariae* C.J. Hickman.
+
+– Los materiales de reproducción y plantones de frutal de la categoría certificada se producen en áreas de las que se tiene constancia que están libres de *Phytophthora fragariae* C.J. Hickman, o
+
+– Durante la última temporada de crecimiento completa no se han observado síntomas de *Phytophthora fragariae* C.J. Hickman en el follaje de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y todos los materiales de reproducción, plantones de frutal y plantas infectados en una zona circundante de al menos 5 m de radio se han marcado, excluido de la recogida y la comercialización y destruido tras la recogida de las plantas no infectadas,
+
+– *Xanthomonas fragariae* Kennedy & King.
+
+– Los materiales de reproducción y plantones de frutal de la categoría certificada se producen en áreas de las que se tiene constancia que están libres de *Xanthomonas fragariae* Kennedy & King, o
+
+– Durante la última temporada de crecimiento completa no se han observado síntomas de *Xanthomonas fragariae* Kennedy & King en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones;
+
+ii) *Phytophthora fragariae* C.J. Hickman.
+
+– Ha existido un período de descanso de al menos diez años entre la detección de *Phytophthora fragariae* C.J. Hickman y la plantación siguiente durante el cual no se han cultivado los materiales de reproducción y plantones de frutal afectados, o
+
+– Se han registrado el historial de cultivo y el historial de enfermedades transmitidas por el suelo en el sitio de producción,
+
+– *Xanthomonas* fragariae Kennedy & King.
+
+– Ha existido un período de descanso de al menos un año entre la detección de *Xanthomonas fragariae* Kennedy & King y la plantación siguiente durante el cual no se han cultivado los materiales de reproducción y plantones de frutal afectados;
+
+iii) Requisitos para las plagas reguladas no cuarentenarias distintas de *Xanthomonas fragariae* Kennedy & King y *Phytophthora fragariae* C.J. Hickman, y distintas de los virus:
+
+– Durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría certificada con síntomas de las siguientes plagas reguladas no cuarentenarias en el sitio de producción no excedió de:
+
+• 0,1 % en el caso de *Phytonemus pallidus* Banks,
+
+• 0,5 % en el caso de:
+
+*Aphelenchoides besseyi* Christie.
+
+fitoplasma de la enfermedad multiplicadora de la fresa,
+
+• 1 % en el caso de:
+
+*Aphelenchoides fragariae (Ritzema Bos) Christie. Candidatus Phlomobacter fragariae Zreik, Bové & Garnier.*
+
+*Candidatus Phytoplasma asteris Lee et al.*
+
+*Candidatus Phytoplasma fragariae Valiunas, Staniulis & Davis.*
+
+*Candidatus Phytoplasma pruni.*
+
+*Candidatus Phytoplasma solaniQuaglino et al.*
+
+*Chaetosiphon fragaefolii Cockerell.*
+
+*Clover phyllody Phytoplasma. Ditylenchus dipsaci (Kuehn) Filipjev. Meloidogyne hapla Chitwood.*
+
+*Podosphaera aphanis (Wallroth) Braun & Takamatsu.*
+
+*Pratylenchus vulnus Allen & Jensen.*
+
+*Rhizoctonia fragariae Hussain & W.E. McKeen,*
+
+• 2 % en el caso de:
+
+*Verticillium albo-atrum* Reinke & Berthold.
+
+*Verticillium dahliae* Kleb, y se han arrancado y destruido esos materiales de reproducción y plantones de frutal, así como todas las plantas hospedadoras de las inmediaciones, y
+
+– En caso de que los ensayos de los materiales de reproducción y plantones de frutal de la categoría certificada que presenten síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus del arrugado de la fresa, el virus latente de las manchas anulares de la fresa, el virus de la clorosis marginal del fresal, el virus de la necrosis de las venas de la fresa o el virus de la mancha negra del tomate den un resultado positivo, se arrancan y destruyen inmediatamente los materiales de reproducción y plantones de frutal afectados;
+
+iv) Requisitos para todos los virus:
+
+Durante la última temporada de crecimiento completa no se han observado síntomas de ninguno de los virus enumerados en los anexos I y II en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones.
+
+e) Categoría CAC. Muestreo y ensayo.
+
+Una muestra representativa de las raíces se someterá a muestreo y ensayo cuando existan síntomas de *Phytophthora fragariae* C.J. Hickman en el follaje. Se procederá a muestreo y ensayo cuando los síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus del arrugado de la fresa, el virus latente de las manchas anulares de la fresa, el virus de la clorosis marginal del fresal, el virus de la necrosis de las venas de la fresa o el virus de la mancha negra del tomate no estén claros mediante inspección visual. Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II distintas del virus del mosaico del Arabis, *Phytophthora fragariae* C.J. Hickman, el virus de las manchas anulares del frambueso, el virus del arrugado de la fresa, el virus latente de las manchas anulares de la fresa, el virus de la clorosis marginal del fresal, el virus de la necrosis de las venas de la fresa o el virus de la mancha negra del tomate.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i)*Phytophthora fragariae C.J. Hickman.*
+
+– Los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de *Phytophthora fragariae*C.J. Hickman, o
+
+– Durante la última temporada de crecimiento completa no se han observado síntomas de *Phytophthora fragariae* C.J. Hickman en el follaje de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y todos los materiales de reproducción y plantones de frutal infectados en una zona circundante de al menos 5 m de radio se han marcado, excluido de la recogida y la comercialización y destruido tras la recogida de los materiales de reproducción, plantones de frutal y plantas no infectados,
+
+– *Xanthomonas fragariae* Kennedy & King,
+
+– Los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de *Xanthomonas fragariae*Kennedy & King, o
+
+– Durante la última temporada de crecimiento completa no se han observado síntomas de *Xanthomonas fragariae* Kennedy & King en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado todas las plantas sintomáticas de las inmediaciones, o
+
+– Durante la última temporada de crecimiento completa no se han observado síntomas de *Xanthomonas fragariae* Kennedy & King en más del 5 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones;
+
+ii) Requisitos para los virus:
+
+En caso de que los ensayos de los materiales de reproducción y plantones de frutal de la categoría CAC que presenten síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus del arrugado de la fresa, el virus latente de las manchas anulares de la fresa, el virus de la clorosis marginal del fresal, el virus de la necrosis de las venas de la fresa o el virus de la mancha negra del tomate den un resultado positivo, se arrancan y destruyen inmediatamente los materiales de reproducción y plantones de frutal afectados.
+
+7\. Juglans regia L.
+
+a) Todas las categorías.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales una vez al año.
+
+b) Categoría inicial.
+
+Muestreo y ensayo.
+
+Toda planta madre inicial a la que se permita la floración será objeto de muestreo y ensayo un año después de su aceptación como planta madre inicial, y posteriormente cada año, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+c) Categoría de base.
+
+Muestreo y ensayo.
+
+Una porción representativa de las plantas madre de base será objeto de muestreo y ensayo cada año, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II.
+
+d) Categoría certificada.
+
+Muestreo y ensayo.
+
+Una porción representativa de las plantas madre certificadas será objeto de muestreo y ensayo cada tres años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II.
+
+Los plantones de frutal certificados serán objeto de muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II.
+
+e) Categoría CAC.
+
+Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II.
+
+8\. *Malus*Mill*.*
+
+a) Todas las categorías.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales una vez al año.
+
+b) Categoría inicial.
+
+Muestreo y ensayo.
+
+Toda planta madre inicial será objeto de muestreo y ensayo quince años después de su aceptación como planta madre inicial, y posteriormente cada quince años, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis distintas de las enfermedades similares a las víricas y de los viroides y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+En caso de que se autorice una excepción para producir materiales iniciales en el campo en condiciones que no sean a prueba de insectos, de conformidad con la Decisión de Ejecución (UE) 2017/925 de la Comisión, se aplicarán los siguientes requisitos relativos a *Candidatus Phytoplasma*mali Seemüller & Schneider, Erwinia amylovora (Burrill) Winslow*et al.*y al virus de la mancha anular del tomate:
+
+i) *Candidatus Phytoplasma*mali Seemüller & Schneider:
+
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de *Candidatus Phytoplasma* mali Seemüller & Schneider, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Candidatus Phytoplasma*mali Seemüller & Schneideren los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
+
+ii) Erwinia amylovora (Burrill) Winslow*et al.:*
+
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de Erwinia amylovora (Burrill) Winslow*et al.,* o
+
+– durante la última temporada de crecimiento completa se han inspeccionado los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todos los materiales de reproducción y plantones de frutal que presentaban síntomas de Erwinia amylovora (Burrill) Winslow *et al.,* así como todas las plantas hospedadoras de las inmediaciones;
+
+iii) Virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones.
+
+c) Categoría de base.
+
+Muestreo y ensayo.
+
+Una porción representativa de las plantas madre de base que se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada quince años en relación con la presencia de *Candidatus Phytoplasma*mali Seemüller & Schneider.
+
+Una porción representativa de las plantas madre de base que no se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada tres años en relación con la presencia de *Candidatus Phytoplasma*mali Seemüller & Schneider, una porción representativa de las plantas madre de base será objeto de muestreo y ensayo cada quince años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis distintas de *Candidatus Phytoplasma*mali Seemüller & Schneider y distintas del virus de la mancha anular del tomate, las enfermedades similares a las víricas y de los viroides, así como en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+Las plantas madre de base serán objeto de muestreo y ensayo cada veinte años en relación con la presencia del virus de la mancha anular del tomate.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) *Candidatus Phytoplasma*mali Seemüller & Schneider:
+
+– los materiales de reproducción y los plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres de *Candidatus Phytoplasma*mali Seemüller & Schneider, o
+
+– durante la última temporada de crecimiento completa, no se habrán observado síntomas de *Candidatus Phytoplasma*mali Seemüller & Schneider en los materiales de reproducción y los plantones de frutal de la categoría de base del sitio de producción, y se habrán arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
+
+ii) Erwinia amylovora (Burrill) Winslow*et al.:*
+
+– los materiales de reproducción y los plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres deErwinia amylovora (Burrill) Winslow*et al.,* o
+
+– durante la última temporada de crecimiento completa, se habrán inspeccionado los materiales de reproducción y los plantones de frutal de la categoría de base en el sitio de producción, y se habrán arrancado y destruido inmediatamente todos los materiales de reproducción y los plantones de frutal que presentaran síntomas de Erwinia amylovora (Burrill) Winslow*et al.,* así como todas las plantas hospedadoras de las inmediaciones;
+
+iii) Virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en los materiales de reproducción y plantones de frutal de la categoría de base en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones.
+
+d) Categoría certificada.
+
+Muestreo y ensayo.
+
+Una porción representativa de las plantas madre certificadas que se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada quince años en relación con la presencia de *Candidatus Phytoplasma*mali Seemüller & Schneider.
+
+Una porción representativa de las plantas madre certificadas que no se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada cinco años en relación con la presencia de *Candidatus Phytoplasma*mali Seemüller & Schneider; una porción representativa de las plantas madre certificadas será objeto de muestreo y ensayo cada quince años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis distintas de *Candidatus Phytoplasma*mali Seemüller & Schneider y distintas del virus de la mancha anular del tomate, las enfermedades similares a las víricas y de los viroides, así como en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+Las plantas madre certificadas serán objeto de muestreo y ensayo cada veinte años en relación con la presencia del virus de la mancha anular del tomate.
+
+Los plantones de frutal certificados serán objeto de muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) *Candidatus Phytoplasma*mali Seemüller & Schneider:
+
+– los materiales de reproducción y los plantones de frutal de la categoría certificada se producen en áreas de las que se tiene constancia que están libres de *Candidatus Phytoplasma*mali Seemüller & Schneider, o
+
+– durante la última temporada de crecimiento completa, no se habrán observado síntomas de *Candidatus Phytoplasma*mali Seemüller & Schneider en los materiales de reproducción y los plantones de frutal de la categoría certificada del sitio de producción, y se habrán arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa, no se habrán observado síntomas de *Candidatus Phytoplasma*mali Seemüller & Schneider en más del 2 % de los materiales de reproducción y los plantones de frutal de la categoría certificada en el sitio de producción, se habrán arrancado y destruido inmediatamente esos materiales y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones, y se habrá sometido a ensayo una muestra representativa de los materiales de reproducción y los plantones de frutal asintomáticos que quedaran en los lotes en los que se encontraron los materiales y los plantones sintomáticos; deberá constatarse que esta muestra está libre de *Candidatus Phytoplasma*mali Seemüller & Schneider;
+
+ii) Erwinia amylovora (Burrill) Winslow*et al.:*
+
+– los materiales de reproducción y los plantones de frutal de la categoría certificada se producen en áreas de las que se tiene constancia que están libres de Erwinia amylovora (Burrill) Winslow*et al.,* o
+
+– durante la última temporada de crecimiento completa, se habrán inspeccionado los materiales de reproducción y los plantones de frutal de la categoría certificada en el sitio de producción, y se habrán arrancado y destruido inmediatamente todos los materiales de reproducción y los plantones de frutal que presentaran síntomas de Erwinia amylovora (Burrill) Winslow *et al.,* así como todas las plantas hospedadoras de las inmediaciones;
+
+iii) Virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría certificada se producen en áreas de las que se tiene constancia que están libres del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones.
+
+e) Categoría CAC.
+
+Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) *Candidatus Phytoplasma*mali Seemüller & Schneider:
+
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de *Candidatus Phytoplasma*mali Seemüller & Schneider, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Candidatus Phytoplasma*mali Seemüller & Schneider en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Candidatus Phytoplasma*mali Seemüller & Schneider en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, y una muestra representativa de los materiales de reproducción y plantones de frutal asintomáticos que quedaban en los lotes en los que se encontraron los materiales de reproducción y plantones de frutal sintomáticos ha sido sometida a ensayo y se ha considerado libre de *Candidatus Phytoplasma*mali Seemüller & Schneider;
+
+ii) Erwinia amylovora (Burrill) Winslow *et al.:*
+
+– los materiales de reproducción y los plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de Erwinia amylovora (Burrill) Winslow *et al.,* o
+
+– durante la última temporada de crecimiento completa se han inspeccionado los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todos los materiales de reproducción y plantones de frutal que presentaban síntomas de Erwinia amylovora (Burrill) Winslow*et al.,* así como todas las plantas hospedadoras de las inmediaciones;
+
+iii) Virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esas plantas sintomáticas.
+
+9\. Olea europaea L.
+
+a) Todas las categorías.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales una vez al año.
+
+b) Categoría inicial.
+
+Muestreo y ensayo.
+
+Toda planta madre inicial será objeto de muestreo y ensayo diez años después de su aceptación como planta madre inicial, y posteriormente cada diez años, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+c) Categoría de base.
+
+Muestreo y ensayo.
+
+Una porción representativa de las plantas madre de base será objeto de muestreo en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II, sobre la base de una evaluación del riesgo de infección de dichas plantas, con el fin de que todas las plantas hayan sido sometidas a ensayo en un intervalo de treinta años.
+
+d) Categoría certificada.
+
+Muestreo y ensayo.
+
+Una porción representativa de las plantas madre utilizadas para producir semillas («plantas madre semilleras») será objeto de muestreo en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II, sobre la base de una evaluación del riesgo de infección de dichas plantas, con el fin de que todas las plantas hayan sido sometidas a ensayo en un intervalo de cuarenta años. Una porción representativa de las plantas madre distintas de las semilleras será objeto de muestreo en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II, sobre la base de una evaluación del riesgo de infección de dichas plantas, con el fin de que todas las plantas hayan sido sometidas a ensayo cada treinta años.
+
+e) Categoría CAC. Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II.
+
+10\. *Pistacia vera L*.
+
+Todas las categorías.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales una vez al año.
+
+Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+11\. *Prunus armeniaca*L.,*Prunus avium*L.,*Prunus cerasifera Ehrh., Prunus cerasus*L.,*Prunus domestica*L.,*Prunus dulcis*(Miller) Webb,*Prunus persica*(L.) Batsch y *Prunus salicina*Lindley.
+
+a) Categoría inicial.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales dos veces al año en relación con *Candidatus Phytoplasma prunorum*Seemüller & Schneider, el virus de la viruela del ciruelo, *Xanthomonas arboricola pv. pruni*(Smith) Vauterin*et al.*y *Pseudomonas syringae pv. persicae (Prunier,*Luisetti &. Gardan) Young, Dye & Wilkie*[Prunus persica*(L.) Batschy *Prunus salicina*Lindley]*.*Se llevarán a cabo inspecciones visuales una vez al año en relación con todas las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis distintas de *Candidatus Phytoplasma prunorum*Seemüller & Schneider, el virus de la viruela del ciruelo, *Xanthomonas arboricola pv. pruni* (Smith) Vauterin*et al.*y *Pseudomonas syringae pv. persicae* (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie.
+
+Muestreo y ensayo.
+
+Los materiales de reproducción y plantones de frutal de la categoría inicial de *Prunus armeniaca*L.,*Prunus avium*L.,*Prunus cerasus*L.,*Prunus domestica*L. y *Prunus dulcis*(Miller) Webbse obtendrán de plantas madre que hayan sido sometidas a ensayo en la temporada de crecimiento anterior y se hayan considerado libres del virus de la viruela del ciruelo.
+
+Los portainjertos iniciales de *Prunus cerasifera*Ehrh.y *Prunus domestica*L.se obtendrán de plantas madre que hayan sido sometidas a ensayo en la temporada de crecimiento anterior y se hayan considerado libres del virus de la viruela del ciruelo. Los portainjertos iniciales de *Prunus cerasifera*Ehrh.y *Prunus domestica*L.se obtendrán de plantas madre que hayan sido sometidas a ensayo en las cinco temporadas de crecimiento anteriores y se hayan considerado libres de *Candidatus Phytoplasma prunorum*Seemüller & Schneider.
+
+Toda planta madre inicial a la que se permita la floración será objeto de muestreo y ensayo en relación con el virus del enanismo del ciruelo y el virus de los anillos necróticos de*Prunus* un año después de su aceptación como planta madre inicial, y posteriormente cada año. Toda planta madre inicial de *Prunus persica* a la que se permita la floración será objeto de muestreo un año después de su aceptación como planta madre inicial y se someterá a ensayo en relación con el viroide del mosaico latente del melocotonero.
+
+Todo árbol plantado deliberadamente para polinización y, cuando proceda, los principales árboles polinizadores del entorno serán objeto de muestreo y ensayo en relación con el virus del enanismo del ciruelo y el virus de los anillos necróticos de *Prunus.*
+
+Toda planta madre inicial será objeto de muestreo cinco años después de su aceptación como planta madre inicial, y posteriormente cada cinco años, y se someterá a ensayo en relación con *Candidatus Phytoplasma prunorum*Seemüller & Schneidery el virus de la viruela del ciruelo.
+
+Toda planta madre inicial será objeto de muestreo diez años después de su aceptación como planta madre inicial, y posteriormente cada diez años, y se someterá a ensayo en relación con las plagas reguladas no cuarentenarias pertinentes para la especie y enumeradas en el anexo II bis distintas del virus del enanismo del ciruelo, el virus de la viruela del ciruelo y el virus de los anillos necróticos de *Prunus,* y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I. Una porción representativa de las plantas madre iniciales será objeto de muestreo y ensayo en caso de dudas relativas a la presencia de *Xanthomonas arboricola pv. pruni* (Smith) Vauterin*et al.*
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+En caso de que se autorice una excepción para producir materiales iniciales en el campo en condiciones que no sean a prueba de insectos, de conformidad con la Decisión de Ejecución (UE) 2017/925, se aplicarán los siguientes requisitos relativos a *Candidatus Phytoplasma prunorum*Seemüller & Schneider, el virus de la viruela del ciruelo, *Xanthomonas arboricola pv. pruni*(Smith) Vauterin*et al., Pseudomonas syringae pv. persicae (Prunier,*Luisetti &. Gardan) Young, Dye & Wilkie y el virus de la mancha anular del tomate:
+
+i) *Candidatus Phytoplasma prunorum*Seemüller & Schneider:
+
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de *Candidatus Phytoplasma prunorum*Seemüller & Schneider, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Candidatus Phytoplasma prunorum*Seemüller & Schneider en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– los materiales de reproducción y los plantones de frutal de la categoría inicial en el sitio de producción están aislados de otras plantas hospedadoras; la distancia de aislamiento del sitio de producción depende de las circunstancias regionales, el tipo de materiales de reproducción, la presencia de*Candidatus Phytoplasma prunorum*Seemüller & Schneider en el área en cuestión y los riesgos pertinentes existentes según determinen las autoridades competentes sobre la base de una inspección;
+
+ii) Virus de la viruela del ciruelo:
+
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres del virus de la viruela del ciruelo, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la viruela del ciruelo en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– los materiales de reproducción y los plantones de frutal de la categoría inicial en el sitio de producción están aislados de otras plantas hospedadoras; la distancia de aislamiento del sitio de producción depende de las circunstancias regionales, el tipo de materiales de reproducción, la presencia del virus de la viruela del ciruelo en el área en cuestión y los riesgos pertinentes existentes según determinen las autoridades competentes sobre la base de una inspección;
+
+iii) *Pseudomonas syringae pv. persicae (Prunier,* Luisetti &. Gardan) Young, Dye & Wilkie:
+
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de *Pseudomonas syringae pv. persicae (Prunier,*Luisetti &. Gardan) Young, Dye & Wilkie, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Pseudomonas syringae pv. persicae (Prunier,*Luisetti &. Gardan) Young, Dye & Wilkie en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
+
+iv) Virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
+
+v) *Xanthomonas arboricola pv. pruni* (Smith) Vauterin*et al.:*
+
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de *Xanthomonas arboricola pv. pruni*(Smith) Vauterin*et al.,* o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Xanthomonas arboricola pv. pruni*(Smith) Vauterin*et al.* en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones.
+
+b) Categorías de base, certificada y CAC.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales una vez al año.
+
+c) Categoría de base.
+
+Muestreo y ensayo.
+
+i) Plantas madre que se han mantenido en instalaciones a prueba de insectos.
+
+Una porción representativa de las plantas madre de base será objeto de muestreo cada tres años y se someterá a ensayo en relación con la presencia del virus del enanismo del ciruelo, el virus de los anillos necróticos de *Prunus*y el virus de la viruela del ciruelo. Una porción representativa de las plantas madre de base será objeto de muestreo cada diez años y se someterá a ensayo en relación con la presencia de *Candidatus Phytoplasma prunorum*Seemüller & Schneider.
+
+ii) Plantas madre que no se han mantenido en instalaciones a prueba de insectos.
+
+Una porción representativa de las plantas madre de base distintas de las destinadas a la producción de portainjertos será objeto de muestreo cada año y se someterá a ensayo en relación con el virus de la viruela del ciruelo, con el fin de que todas las plantas hayan sido sometidas a ensayo en un intervalo de diez años.
+
+Una porción representativa de las plantas madre de base destinadas a la producción de portainjertos será objeto de muestreo cada año, se someterá a ensayo en relación con la presencia del virus de la viruela del ciruelo y se considerará libre de esa plaga regulada no cuarentenaria.
+
+Una porción representativa de las plantas madre de base de *Prunus domestica*L.destinadas a la producción de portainjertos habrá sido objeto de muestreo y ensayo en las cinco temporadas de crecimiento anteriores en relación con la presencia de *Candidatus Phytoplasma prunorum*Seemüller & Schneidery se considera libre de esa plaga regulada no cuarentenaria.
+
+Una porción representativa de las plantas madre de base será objeto de muestreo y ensayo en caso de dudas relativas a la presencia de *Xanthomonas arboricola pv. pruni*(Smith) Vauterin*et al.*
+
+Una porción representativa de las plantas madre de base será objeto de muestreo y ensayo cada veinte años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia del virus de la mancha anular del tomate.
+
+Una porción representativa de las plantas madre de base será objeto de muestreo y ensayo cada diez años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis distintas de *Candidatus Phytoplasma prunorum*Seemüller & Schneider,el virus del enanismo del ciruelo, el virus de los anillos necróticos de *Prunus,* el virus de la viruela del ciruelo y el virus de la mancha anular del tomate, y se someterá a ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+– Plantas madre a las que se permite la floración.
+
+Una porción representativa de las plantas madre de base a las que se permite la floración será objeto de muestreo cada año y se someterá a ensayo en relación con *Candidatus Phytoplasma prunorum*Seemüller & Schneider, el virus del enanismo del ciruelo y el virus de los anillos necróticos de *Prunus* sobre la base de una evaluación del riesgo de infección de dichas plantas.
+
+Una porción representativa de las plantas madre de base de *Prunus persica*(L.) Batsch a las que se permite la floración será objeto de muestreo una vez al año y se someterá a ensayo en relación con el viroide del mosaico latente del melocotonero sobre la base de una evaluación del riesgo de infección de dichas plantas.
+
+Una porción representativa de los árboles plantados deliberadamente para polinización y, cuando proceda, los principales árboles polinizadores del entorno serán objeto de muestreo y ensayo en relación con el virus del enanismo del ciruelo y el virus de los anillos necróticos de *Prunus*sobre la base de una evaluación del riesgo de infección de dichas plantas.
+
+– Plantas madre a las que no se permite la floración.
+
+Una porción representativa de las plantas madre de base a las que no se permite la floración y que no se han mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada tres años en relación con la presencia del virus del enanismo del ciruelo, el virus de los anillos necróticos de *Prunus y Candidatus Phytoplasma prunorum*Seemüller & Schneider sobre la base de una evaluación del riesgo de infección de dichas plantas.
+
+d) Categoría certificada.
+
+Muestreo y ensayo.
+
+i) Plantas madre que se han mantenido en instalaciones a prueba de insectos.
+
+Una porción representativa de las plantas madre certificadas será objeto de muestreo cada cinco años y se someterá a ensayo en relación con la presencia del virus del enanismo del ciruelo, el virus de los anillos necróticos de *Prunus*y el virus de la viruela del ciruelo, con el fin de que todas las plantas hayan sido sometidas a ensayo en un intervalo de quince años. Una porción representativa de las plantas madre certificadas será objeto de muestreo cada quince años y se someterá a ensayo en relación con la presencia de *Candidatus Phytoplasma prunorum*Seemüller & Schneider.
+
+ii) Plantas madre que no se han mantenido en instalaciones a prueba de insectos.
+
+Una porción representativa de las plantas madre certificadas será objeto de muestreo cada tres años y se someterá a ensayo en relación con el virus de la viruela del ciruelo, con el fin de que todas las plantas hayan sido sometidas a ensayo en un intervalo de quince años.
+
+Una porción representativa de las plantas madre certificadas destinadas a la producción de portainjertos será objeto de muestreo cada año y se someterá a ensayo en relación con la presencia del virus de la viruela del ciruelo y se considerará libre de esa plaga regulada no cuarentenaria. Una porción representativa de las plantas madre certificadas de *Prunus cerasifera*Ehrh.y *Prunus domestica*L.destinadas a la producción de portainjertos habrá sido objeto de muestreo en las cinco temporadas de crecimiento anteriores y se habrá sometido a ensayo en relación con la presencia de *Candidatus Phytoplasma prunorum*Seemüller & Schneidery considerado libre de esa plaga regulada no cuarentenaria.
+
+Una porción representativa de las plantas madre certificadas será objeto de muestreo y ensayo en caso de dudas relativas a la presencia de *Xanthomonas arboricola pv. pruni*(Smith) Vauterin*et al.*
+
+Una porción representativa de las plantas madre certificadas será objeto de muestreo cada veinte años y se someterá a ensayo, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia del virus de la mancha anular del tomate.
+
+Una porción representativa de las plantas madre certificadas será objeto de muestreo cada quince años y se someterá a ensayo, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis distintas de *Candidatus Phytoplasma prunorum*Seemüller & Schneider, el virus del enanismo del ciruelo, el virus de los anillos necróticos de *Prunus,* el virus de la viruela del ciruelo y el virus de la mancha anular del tomate, y se someterá a ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+– Plantas madre a las que se permite la floración.
+
+Una porción representativa de las plantas madre certificadas a las que se permite la floración será objeto de muestreo cada año y se someterá a ensayo en relación con*Candidatus Phytoplasma prunorum*Seemüller & Schneider, el virus del enanismo del ciruelo y el virus de los anillos necróticos de *Prunus*sobre la base de una evaluación del riesgo de infección de dichas plantas. Una porción representativa de las plantas madre certificadas de *Prunus persica*(L.) Batsch a las que se permite la floración será objeto de muestreo una vez al año y se someterá a ensayo en relación con el viroide del mosaico latente del melocotonero sobre la base de una evaluación del riesgo de infección de dichas plantas.
+
+Una porción representativa de los árboles plantados deliberadamente para polinización y, cuando proceda, los principales árboles polinizadores del entorno serán objeto de muestreo y ensayo en relación con el virus del enanismo del ciruelo y el virus de los anillos necróticos de *Prunus*sobre la base de una evaluación del riesgo de infección de dichas plantas.
+
+– Plantas madre a las que no se permite la floración.
+
+Una porción representativa de las plantas madre certificadas a las que no se permite la floración y que no se han mantenido en instalaciones a prueba de insectos será objeto de muestreo cada tres años y se someterá a ensayo en relación con la presencia de *Candidatus Phytoplasma prunorum*Seemüller & Schneider, el virus del enanismo del ciruelo y el virus de los anillos necróticos de *Prunus*sobre la base de una evaluación del riesgo de infección de dichas plantas.
+
+e) Categorías de base y certificada.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) *Candidatus Phytoplasma prunorum*Seemüller & Schneider:
+
+– los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres de *Candidatus Phytoplasma prunorum*Seemüller & Schneider, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Candidatus Phytoplasma prunorum*Seemüller & Schneider en los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Candidatus Phytoplasma prunorum*Seemüller & Schneider en más del 1 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones, y una muestra representativa de los materiales de reproducción y plantones de frutal asintomáticos que quedaban en los lotes en los que se encontraron los plantas sintomáticas ha sido sometida a ensayo y se ha considerado libre de *Candidatus Phytoplasma prunorum*Seemüller & Schneider;
+
+ii) Virus de la viruela del ciruelo:
+
+– los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres del virus de la viruela del ciruelo, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la viruela del ciruelo en los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la viruela del ciruelo en más del 1 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones, y una muestra representativa de los materiales de reproducción y plantones de frutal asintomáticos que quedaban en los lotes en los que se encontraron las plantas sintomáticas ha sido sometida a ensayo y se ha considerado libre del virus de la viruela del ciruelo;
+
+iii) *Pseudomonas syringae pv. persicae (Prunier,* Luisetti &. Gardan) Young, Dye & Wilkie:
+
+– los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres de*Pseudomonas syringae pv. persicae (Prunier,*Luisetti &. Gardan) Young, Dye & Wilkie,o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Pseudomonas syringae pv. persicae (Prunier,*Luisetti &. Gardan) Young, Dye & Wilkie en los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Pseudomonas syringae pv. persicae (Prunier,*Luisetti &. Gardan) Young, Dye & Wilkie en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones;
+
+iv) Virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
+
+v) *Xanthomonas arboricola pv. pruni*(Smith) Vauterin*et al.:*
+
+– los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres de *Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.,*o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Xanthomonas arboricola pv. pruni*(Smith) Vauterin *et al.* en los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Xanthomonas arboricola pv. pruni*(Smith) Vauterin*et al.* en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones.
+
+f) Categoría CAC.
+
+Muestreo y ensayo.
+
+Los materiales de reproducción y plantones de frutal de la categoría CAC se obtendrán de una fuente identificada, una porción representativa de la cual se habrá sometido a muestreo y ensayo en las tres temporadas de crecimiento anteriores y se habrá considerado libre del virus de la viruela del ciruelo.
+
+Los portainjertos CAC de *Prunus cerasifera*Ehrh*.*y *Prunus domestica*L.se obtendrán de una fuente identificada, una porción representativa de la cual se habrá sometido a muestreo y ensayo en los cinco años anteriores y se habrá considerado libre de *Candidatus Phytoplasma prunorum*Seemüller & Schneidery del virus de la viruela del ciruelo.
+
+Una porción representativa de los materiales de reproducción y plantones de frutal de la categoría CAC será objeto de muestreo y ensayo en caso de dudas relativas a la presencia de *Xanthomonas arboricola pv. pruni*(Smith) Vauterin*et al.*
+
+Una porción representativa de los plantones de frutal CAC que no presenten ningún síntoma del virus de la viruela del ciruelo tras una inspección visual será objeto de muestreo y ensayo sobre la base de una evaluación del riesgo de infección de dichos plantones de frutal en relación con la presencia de esa plaga regulada no cuarentenaria y cuando existan plantas sintomáticas en las inmediaciones.
+
+A raíz de la detección, mediante inspección visual, de materiales de reproducción y plantones de frutal de la categoría CAC que presenten síntomas de *Candidatus Phytoplasma prunorum*Seemüller & Schneider en el sitio de producción, una porción representativa de los materiales de reproducción y plantones de frutal de la categoría CAC asintomáticos que queden en los lotes en los que se han encontrado los materiales de reproducción y plantones de frutal sintomáticos será objeto de muestreo y ensayo en relación con la presencia de *Candidatus Phytoplasma prunorum*Seemüller & Schneider.
+
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis distintas de *Candidatus Phytoplasma prunorum*Seemüller & Schneidery el virus de la viruela del ciruelo.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) *Candidatus Phytoplasma prunorum*Seemüller & Schneider:
+
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de *Candidatus Phytoplasma prunorum*Seemüller & Schneider, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Candidatus Phytoplasma prunorum*Seemüller & Schneideren los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Candidatus Phytoplasma prunorum*Seemüller & Schneider en más del 1 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones, y una muestra representativa de los materiales de reproducción y plantones de frutal asintomáticos que quedaban en los lotes en los que se encontraron los materiales de reproducción y plantones de frutal sintomáticos ha sido sometida a ensayo y se ha considerado libre de *Candidatus Phytoplasma prunorum*Seemüller & Schneider;
+
+ii) Virus de la viruela del ciruelo:
+
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres del virus de la viruela del ciruelo, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la viruela del ciruelo en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la viruela del ciruelo en más del 1 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones, y una muestra representativa de los materiales de reproducción y plantones de frutal asintomáticos que quedaban en los lotes en los que se encontraron los materiales de reproducción y plantones de frutal sintomáticos ha sido sometida a ensayo y se ha considerado libre del virus de la viruela del ciruelo;
+
+iii) *Pseudomonas syringae pv. persicae (Prunier,*Luisetti &. Gardan) Young, Dye & Wilkie:
+
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de *Pseudomonas syringae pv. persicae (Prunier,*Luisetti &. Gardan) Young, Dye & Wilkie, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Pseudomonas syringae pv. persicae (Prunier,*Luisetti &. Gardan) Young, Dye & Wilkie en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Pseudomonas syringae pv. persicae (Prunier,*Luisetti &. Gardan) Young, Dye & Wilkieen más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones;
+
+iv) Virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esas plantas sintomáticas;
+
+v) *Xanthomonas arboricola pv. pruni*(Smith) Vauterin*et al.:*
+
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de *Xanthomonas arboricola pv. pruni*(Smith) Vauterin*et al.,* o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Xanthomonas arboricola pv. pruni*(Smith) Vauterin*et al.*en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Xanthomonas arboricola pv. pruni*(Smith) Vauterin*et al.*en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones.
+
+12\. Pyrus L.
+
+a) Todas las categorías.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales una vez al año.
+
+b) Categoría inicial.
+
+Muestreo y ensayo.
+
+Toda planta madre inicial será objeto de muestreo y ensayo quince años después de su aceptación como planta madre inicial, y posteriormente cada quince años, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II distintas de las enfermedades similares a las víricas y de los viroides y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+En caso de que se autorice una excepción para producir materiales iniciales en el campo en condiciones que no sean a prueba de insectos, de conformidad con la Decisión de Ejecución (UE) 2017/925 de la Comisión, se aplicarán los siguientes requisitos relativos a *Candidatus Phytoplasma pyri* Seemüller & Schneider *y Erwinia amylovora*(Burrill) Winslow et al.:
+
+i) *Candidatus Phytoplasma pyri* Seemüller & Schneider.
+
+– Los materiales de reproducción y los plantones de frutal de la categoría inicial se producirán en áreas que las autoridades competentes hayan considerado libres de *Candidatus Phytoplasma pyri* Seemüller & Schneider de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
+
+– Durante las tres últimas temporadas de crecimiento completas, no se habrán observado síntomas de *Candidatus Phytoplasma pyri* Seemüller & Schneider en los materiales de reproducción y los plantones de frutal de la categoría inicial del sitio de producción, y se habrán arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
+
+ii) *Erwinia amylovora* (Burrill) Winslow et al.
+
+– Los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de *Erwinia amylovora* (Burrill) Winslow et al., o
+
+– Durante la última temporada de crecimiento completa se han inspeccionado los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todos los materiales de reproducción y plantones de frutal que presentaban síntomas de *Erwinia amylovora*(Burrill) Winslow et al., así como todas las plantas hospedadoras de las inmediaciones.
+
+c) Categoría de base.
+
+Muestreo y ensayo.
+
+Una porción representativa de las plantas madre de base que se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada quince años en relación con la presencia de *Candidatus Phytoplasma pyri* Seemüller & Schneider.
+
+Una porción representativa de las plantas madre de base que no se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada tres años en relación con la presencia de *Candidatus Phytoplasma pyri Seemüller* & Schneider; una porción representativa de las plantas madre de base será objeto de muestreo y ensayo cada quince años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II distintas de *Candidatus Phytoplasma pyri* Seemüller & Schneider y distintas de las enfermedades similares a las víricas y de los viroides, así como en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+d) Categoría certificada.
+
+Muestreo y ensayo.
+
+Una porción representativa de las plantas madre certificadas que se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada quince años en relación con la presencia de*Candidatus Phytoplasma pyri* Seemüller & Schneider.
+
+Una porción representativa de las plantas madre certificadas que no se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada cinco años en relación con la presencia de*Candidatus Phytoplasma pyri* Seemüller & Schneider; una porción representativa de las plantas madre certificadas será objeto de muestreo y ensayo cada quince años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II distintas de *Candidatus Phytoplasma pyri* Seemüller & Schneider y distintas de las enfermedades similares a las víricas y de los viroides, así como en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+Los plantones de frutal certificados serán objeto de muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II.
+
+e) Categorías de base y certificada.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) *Candidatus Phytoplasma pyri*Seemüller & Schneider.
+
+– Los materiales de reproducción y los plantones de frutal de las categorías de base y certificada se producirán en áreas que las autoridades competentes hayan considerado libres de *Candidatus Phytoplasma pyri* Seemüller & Schneider de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
+
+– Durante la última temporada de crecimiento completa, no se habrán observado síntomas de *Candidatus Phytoplasma pyri* Seemüller & Schneider en los materiales de reproducción y los plantones de frutal de las categorías de base y certificada del sitio de producción, y se habrán arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– Se arrancarán y destruirán inmediatamente los materiales de reproducción y los plantones de frutal de las categorías de base y certificada del sitio de producción y todos los vegetales de las inmediaciones que hayan mostrado síntomas de *Candidatus Phytoplasma pyri* Seemüller & Schneider en las inspecciones visuales que hayan tenido lugar durante las tres últimas temporadas de crecimiento completas.
+
+ii) *Erwinia amylovora*(Burrill) Winslow et al.
+
+– Los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres de *Erwinia amylovora* (Burrill) Winslow et al., o
+
+– Durante la última temporada de crecimiento completa se han inspeccionado los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todos los materiales de reproducción y plantones de frutal que presentaban síntomas de *Erwinia amylovora* (Burrill) Winslow et al., así como todas las plantas hospedadoras de las inmediaciones.
+
+f) Categoría CAC.
+
+Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) *Candidatus Phytoplasma pyri*Seemüller & Schneider.
+
+– Los materiales de reproducción y los plantones de frutal de la categoría CAC se producirán en áreas que las autoridades competentes hayan considerado libres de *Candidatus Phytoplasma pyri* Seemüller & Schneider de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
+
+– Durante la última temporada de crecimiento completa, no se habrán observado síntomas de*Candidatus Phytoplasma pyri* Seemüller & Schneider en los materiales de reproducción y los plantones de frutal de la categoría CAC del sitio de producción, y se habrán arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– Se arrancarán y destruirán inmediatamente los materiales de reproducción y los plantones de frutal de la categoría CAC del sitio de producción y todos los vegetales de las inmediaciones que hayan mostrado síntomas de *Candidatus Phytoplasma pyri* Seemüller & Schneider en las inspecciones visuales que hayan tenido lugar durante las tres últimas temporadas de crecimiento completas.
+
+ii) *Erwinia amylovora*(Burrill) Winslow et al.
+
+– Los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de *Erwinia amylovora* (Burrill) Winslow et al., o
+
+– Durante la última temporada de crecimiento completa se han inspeccionado los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todos los materiales de reproducción y plantones de frutal que presentaban síntomas de *Erwinia amylovora*(Burrill) Winslow et al., así como todas las plantas hospedadoras de las inmediaciones.
+
+13\. Ribes L.
+
+a) Categoría inicial.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales dos veces al año.
+
+Muestreo y ensayo.
+
+Toda planta madre inicial será objeto de muestreo y ensayo cuatro años después de su aceptación como planta madre inicial, y posteriormente cada cuatro años, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+b) Categorías de base, certificada y CAC. Inspección visual.
+
+Se llevarán a cabo inspecciones visuales una vez al año.
+
+Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II.
+
+c) Categoría de base.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+Durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría de base con síntomas de *Aphelenchoides ritzemabosi* (Schwartz) Steiner & Buhrer en el sitio de producción no ha excedido del 0,05 %, y se han arrancado y destruido esos materiales de reproducción y plantones de frutal, así como todas las plantas hospedadoras de las inmediaciones.
+
+d) Categoría certificada.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+Durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría certificada con síntomas de *Aphelenchoides ritzemabosi* (Schwartz) Steiner & Buhrer en el sitio de producción no ha excedido del 0,5 %, y se han arrancado y destruido esos materiales de reproducción y plantones de frutal, así como todas las plantas hospedadoras de las inmediaciones.
+
+14\. *Rubus* L.
+
+a) Categoría inicial.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales dos veces al año.
+
+Muestreo y ensayo.
+
+Toda planta madre inicial será objeto de muestreo y ensayo dos años después de su aceptación como planta madre inicial, y posteriormente cada dos años, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de los virus enumerados en el anexo II bis en relación con *Rubus*L., o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de ninguna de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis en relación con *Rubus*L. en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
+
+b) Categoría de base.
+
+Inspección visual.
+
+Si los materiales de reproducción y plantones de frutal se cultivan en el campo o en macetas, se llevarán a cabo inspecciones visuales dos veces al año.
+
+En el caso de los materiales de reproducción y plantones de frutal producidos por micropropagación que se mantengan durante un período inferior a tres meses, solo será necesaria una inspección visual durante dicho período.
+
+Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo cuando los síntomas del virus del mosaico del *Arabis,* el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate no estén claros mediante inspección visual. Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis distintas del virus del mosaico del *Arabis,* el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) en caso de que los ensayos de los materiales de reproducción y plantones de frutal de la categoría de base que presenten síntomas del virus del mosaico del *Arabis,* el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate den un resultado positivo, se arrancarán y destruirán inmediatamente los materiales de reproducción y plantones de frutal afectados;
+
+ii) requisitos aplicables a las plagas reguladas no cuarentenarias distintas del virus del mosaico del *Arabis,* el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate y el virus de la mancha anular del tomate:
+
+– durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría de base con síntomas de las siguientes plagas reguladas no cuarentenarias en el sitio de producción no habrá excedido de:
+
+– 0,1 % en el caso de:
+
+*Agrobacterium spp. Conn.,* y
+
+*Rhodococcus fascians Tilford,* y se han arrancado y destruido esos materiales de reproducción y plantones de frutal, así como todas las plantas hospedadoras de las inmediaciones;
+
+iii) requisitos para todos los virus:
+
+– los materiales de reproducción y plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres de los virus enumerados en el anexo II bis en relación con*Rubus*L., o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de los virus enumerados en el anexo II bis en relación con *Rubus*L*.* en los materiales de reproducción y plantones de frutal de la categoría de base en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de ninguno de los virus enumerados en los anexos I y II bis en más del 0,25 % de los materiales de reproducción y plantones de frutal de la categoría de base en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones.
+
+c) Categoría certificada.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales una vez al año.
+
+Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo cuando los síntomas del virus del mosaico del *Arabis,* el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate no estén claros mediante inspección visual. Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis distintas del virus del mosaico del *Arabis,* el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) en caso de que los ensayos de los materiales de reproducción y plantones de frutal de la categoría certificada que presenten síntomas del virus del mosaico del *Arabis,* el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate den un resultado positivo, se arrancarán y destruirán inmediatamente los materiales de reproducción y plantones de frutal afectados;
+
+ii) requisitos aplicables a las plagas reguladas no cuarentenarias distintas del virus del mosaico del *Arabis,* el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate y el virus de la mancha anular del tomate:
+
+– durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría certificada con síntomas de las siguientes plagas reguladas no cuarentenarias en el sitio de producción no habrá excedido de:
+
+– 0,5 % en el caso de *Resseliella theobaldi Barnes,*
+
+– 0,1 % en el caso de:
+
+*Agrobacterium spp. Conn.,* y
+
+*Rhodococcus fascians Tilford,* y se han arrancado y destruido esos materiales de reproducción y plantones de frutal, así como todas las plantas hospedadoras de las inmediaciones;
+
+iii) requisitos para todos los virus:
+
+– los materiales de reproducción y plantones de frutal de la categoría certificada se producen en áreas de las que se tiene constancia que están libres de los virus enumerados en el anexo II bis en relación con *Rubus*L., o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de los virus enumerados en el anexo II bis en relación con *Rubus*L*.* en los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de ninguno de los virus enumerados en los anexos I y II bis en más del 0,5 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones.
+
+d) Categoría CAC.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales una vez al año.
+
+Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo cuando los síntomas del virus del mosaico del *Arabis,* el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate no estén claros mediante inspección visual. Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis distintas del virus del mosaico del *Arabis,* el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa y el virus de la mancha negra del tomate y el virus de la mancha anular del tomate.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis en relación con *Rubus*L., o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis en relación con *Rubus*L. en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y
+
+– en el caso de los síntomas del virus de la mancha anular del tomate, durante la última temporada de crecimiento completa no se han observado dichos síntomas en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esas plantas sintomáticas, y
+
+– en caso de que los ensayos de los materiales de reproducción y plantones de frutal de la categoría CAC que presenten síntomas del virus del mosaico del *Arabis,* el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate den un resultado positivo, se arrancarán y destruirán inmediatamente los materiales de reproducción y plantones de frutal afectados.
+
+15\. *Vaccinium* L.
+
+a) Categoría inicial.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales dos veces al año.
+
+Muestreo y ensayo.
+
+Toda planta madre inicial será objeto de muestreo y ensayo cinco años después de su aceptación como planta madre inicial, y posteriormente cada cinco años, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+b) Categoría de base.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales dos veces al año.
+
+Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) *Agrobacterium tumefaciens* (Smith & Townsend) Conn*.*
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Agrobacterium tumefaciens* (Smith & Townsend) Conn en el sitio de producción;
+
+ii) *Diaporthe vaccinii Shear.*
+
+– los materiales de reproducción y plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres de*Diaporthe vaccinii Shear,* o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de Diaporthe vaccinii Shear en el sitio de producción;
+
+iii) *Exobasidium vaccinii*(Fuckel)Woronin*y Godronia cassandrae*(anamorfo*Topospora myrtilli)*Peck*.*
+
+– durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría de base con síntomas de las siguientes plagas reguladas no cuarentenarias en el sitio de producción no habrá excedido de:
+
+• 0,1 % en el caso de *Godronia cassandrae*(anamorfo*Topospora myrtilli)*Peck,
+
+• 0,5 % en el caso de *Exobasidium vaccinii*(Fuckel) Woronin, y se han arrancado y destruido esos materiales de reproducción y plantones de frutal, así como todas las plantas hospedadoras de las inmediaciones;
+
+iv)*Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld:
+
+– los materiales de reproducción y los plantones de frutal de la categoría de base se producen en áreas que las autoridades competentes hayan considerado libres de*Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
+
+– durante el último ciclo de vegetación completo, no se habrán observado síntomas de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Velden los materiales de reproducción y los plantones de frutal de la categoría de base, en el sitio de producción;
+
+v) Virus del mosaico anular del tabaco y virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres del virus del mosaico anular del tabaco y del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus del mosaico anular del tabaco ni del virus de la mancha anular del tomate en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones.
+
+c) Categorías certificada y CAC.
+
+Inspección visual.
+
+Se llevarán a cabo inspecciones visuales una vez al año.
+
+Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis.
+
+d) Categoría certificada.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) *Agrobacterium tumefaciens*(Smith & Townsend) Conn,*Exobasidium vaccinii*(Fuckel)Woronin y*Godronia cassandrae*(anamorfo*Topospora myrtilli)*Peck:
+
+– durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría certificada con síntomas de las siguientes plagas reguladas no cuarentenarias en el sitio de producción no habrá excedido de:
+
+• 0,5 % en el caso de:
+
+*Agrobacterium tumefaciens*(Smith & Townsend) Conn,
+
+*Godronia cassandrae*(anamorfo*Topospora myrtilli)*Peck,
+
+– 1 % en el caso de *Exobasidium vaccinii*(Fuckel) Woronin, y se han arrancado y destruido esos materiales de reproducción y plantones de frutal, así como todas las plantas hospedadoras de las inmediaciones;
+
+ii) *Diaporthe vaccinii Shear:*
+
+– los materiales de reproducción y plantones de frutal de la categoría certificada se producen en áreas de las que se tiene constancia que están libres de*Diaporthe vaccinii Shear,* o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de *Diaporthe vaccinii Shear* en el sitio de producción;
+
+iii) *Phytophthora ramorum*(cepas de la UE) Werres, De Cock & Man in ‘t Veld:
+
+– los materiales de reproducción y los plantones de frutal de la categoría certificada se producirán en áreas que las autoridades competentes hayan considerado libres de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
+
+– durante el último ciclo de vegetación completo, no se habrán observado síntomas de *Phytophthora ramorum*(cepas de la UE) Werres, De Cock & Man in ‘t Velden los materiales de reproducción y los plantones de frutal de la categoría certificada en el sitio de producción, o
+
+– se habrán arrancado y destruido los materiales de reproducción y los plantones de frutal de la categoría certificada que presentaran síntomas de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld en el sitio de producción, así como todos los vegetales presentes en un radio de 2 m alrededor de los materiales de reproducción y los plantones de frutal sintomáticos, incluida la tierra adherida, y
+
+– en relación con todos los vegetales presentes en un radio de 10 m alrededor de los materiales de reproducción y los plantones de frutal sintomáticos, y cualquier material o plantón restante del lote afectado:
+
+– en un plazo de tres meses a partir de la detección de los materiales de reproducción y los plantones de frutal sintomáticos, no se habrán observado síntomas de *Phytophthora ramorum* (cepas de la UE)Werres, De Cock & Man in ‘t Velden dichos materiales y plantones sintomáticos en un mínimo de dos inspecciones que tengan lugar en los momentos adecuados para detectar la plaga, y durante ese período trimestral no se aplicarán tratamientos que eliminen los síntomas de este organismo, y
+
+– tras ese período de tres meses:
+
+• no se habrán observado síntomas de *Phytophthora ramorum* (cepas de la UE)Werres, De Cock & Man in ‘t Veld en los materiales de reproducción y los plantones de frutal en el sitio de producción, o
+
+• se habrá sometido a ensayo una muestra representativa de dichos materiales de reproducción y plantones de frutal que se prevea trasladar, muestra que deberá considerarse libre de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld,y
+
+– en lo que respecta a todos los demás materiales de reproducción y plantones de frutal que se encuentren en el sitio de producción:
+
+• no se habrán observado síntomas de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld en los materiales de reproducción y los plantones de frutal en el sitio de producción, o
+
+• se habrá sometido a ensayo una muestra representativa de dichos materiales de reproducción y plantones de frutal que se prevea trasladar, muestra que deberá considerarse libre de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld.
+
+iv) Virus del mosaico anular del tabaco y virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres del virus del mosaico anular del tabaco y del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus del mosaico anular del tabaco ni del virus de la mancha anular del tomate en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones.
+
+e) Categoría CAC.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+i) *Phytophthora ramorum*(cepas de la UE) Werres, De Cock & Man in ‘t Veld:
+
+– los materiales de reproducción y los plantones de frutal de la categoría CAC se producirán en áreas que las autoridades competentes hayan considerado libres de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
+
+– durante el último ciclo de vegetación completo, no se habrán observado síntomas de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld en los materiales de reproducción y los plantones de frutal de la categoría CAC en el sitio de producción, o
+
+– se habrán arrancado y destruido los materiales de reproducción y los plantones de frutal de la categoría CAC que presentaran síntomas de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld en el sitio de producción, así como todos los vegetales presentes en un radio de 2 m alrededor de los materiales de reproducción y los plantones de frutal sintomáticos, incluida la tierra adherida, y
+
+– en relación con todos los vegetales presentes en un radio de 10 m alrededor de los materiales de reproducción y los plantones de frutal sintomáticos, y cualquier material o plantón restante del lote afectado:
+
+– en un plazo de tres meses a partir de la detección de los materiales de reproducción y los plantones de frutal sintomáticos, no se habrán observado síntomas de*Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Velden dichos materiales y plantones sintomáticos en un mínimo de dos inspecciones que tengan lugar en los momentos adecuados para detectar la plaga, y durante ese período trimestral no se aplicarán tratamientos que eliminen los síntomas de este organismo, y, tras ese período de tres meses:
+
+• no se habrán observado síntomas de*Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld en los materiales de reproducción y los plantones de frutal en el sitio de producción, o
+
+• se habrá sometido a ensayo una muestra representativa de dichos materiales de reproducción y plantones de frutal que se prevea trasladar, muestra que deberá considerarse libre de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld, y
+
+– en lo que respecta a todos los demás materiales de reproducción y plantones de frutal que se encuentren en el sitio de producción:
+
+• no se habrán observado síntomas de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld en los materiales de reproducción y los plantones de frutal en el sitio de producción, o
+
+• se habrá sometido a ensayo una muestra representativa de dichos materiales de reproducción y plantones de frutal que se prevea trasladar, muestra que deberá considerarse libre de *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld.
+
+ii) Virus del mosaico anular del tabaco y virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres del virus del mosaico anular del tabaco y del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus del mosaico anular del tabaco ni del virus de la mancha anular del tomate en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus del mosaico anular del tabaco ni del virus de la mancha anular del tomate en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esas plantas sintomáticas.
+
+16\. Actinidia Lindl.
+
+Los materiales de multiplicación y los plantones de frutal de Actinidia Lindl. deberán cumplir los requisitos relativos a las plagas reguladas no cuarentenarias de la Unión y las medidas para prevenir la presencia de plagas reguladas no cuarentenarias de la Unión en los materiales de multiplicación de frutales y los plantones de frutal destinados a la producción frutícola de Actinidia Lindl. distintos de las semillas, establecidos por el Reglamento de Ejecución (UE) 2019/2072 de la Comisión, de 28 de noviembre de 2019, y sus modificaciones, en particular en su anexo IV, parte M y su anexo V, parte K.
+
+> Se modifican los apartados 8, 11, 14 y 15 por el art. único.3.1 a 4 de la Orden APA/775/2025, de 15 de julio. [Ref. BOE-A-2025-15139](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15139)
+
+> Se modifica por el art. 1.9 del Real Decreto 525/2023, de 20 de junio. [Ref. BOE-A-2023-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14680)
+
+> Se modifica por el art. 1.12 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se añade por el art. único.24 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603)
+
+## ANEXO II quinquies — Número máximo autorizado de generaciones en el campo, con presencia de insectos, y vida útil máxima autorizada de las plantas madres de base por género o especie, con arreglo a lo dispuesto en el artículo 70.1
+
+*Castanea sativa Mill.:*
+
+Categoría de base.
+
+Una planta madre de base producida a partir de materiales iniciales podrá multiplicarse por un máximo de dos generaciones.
+
+Si la planta madre de base producida a partir de materiales iniciales es un portainjertos, podrá multiplicarse por un máximo de tres generaciones.
+
+Cuando los portainjertos formen parte de plantas madre de base, serán materiales de base de la primera generación.
+
+*Citrus L., Fortunella Swingle, Poncirus Raf:*
+
+Categoría de base.
+
+Una planta madre de base producida a partir de materiales iniciales podrá multiplicarse por un máximo de una generación.
+
+Si la planta madre de base producida a partir de materiales iniciales es un portainjertos, podrá multiplicarse por un máximo de tres generaciones.
+
+Cuando los portainjertos formen parte de plantas madre de base, serán materiales de base de la primera generación.
+
+*Corylus avellana L.:*
+
+Categoría de base.
+
+Una planta madre de base producida a partir de materiales iniciales podrá multiplicarse por un máximo de dos generaciones.
+
+*Cydonia oblonga Mill., Malus Mill., Pyrus L.:*
+
+Categoría de base.
+
+Una planta madre de base producida a partir de materiales iniciales podrá multiplicarse por un máximo de dos generaciones.
+
+Si la planta madre de base producida a partir de materiales iniciales es un portainjertos, podrá multiplicarse por un máximo de tres generaciones.
+
+Cuando los portainjertos formen parte de plantas madre de base, serán materiales de base de la primera generación.
+
+*Ficus carica L.:*
+
+Categoría de base.
+
+Una planta madre de base producida a partir de materiales iniciales podrá multiplicarse por un máximo de dos generaciones.
+
+*Fragaria L.:*
+
+Categoría de base.
+
+Una planta madre de base producida a partir de materiales iniciales podrá multiplicarse +por un máximo de cinco generaciones.
+
+*Juglans regia L.:*
+
+Categoría de base.
+
+Una planta madre de base producida a partir de materiales iniciales podrá multiplicarse por un máximo de dos generaciones.
+
+*Olea europaea L.:*
+
+Categoría de base.
+
+Una planta madre de base producida a partir de materiales iniciales podrá multiplicarse por un máximo de una generación.
+
+*Prunus armeniaca* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch y *Prunus salicina* Lindl:
+
+Categoría de base.
+
+Una planta madre de base producida a partir de materiales iniciales podrá multiplicarse por un máximo de dos generaciones.
+
+Si la planta madre de base producida a partir de materiales iniciales es un portainjertos, podrá multiplicarse por un máximo de tres generaciones.
+
+Cuando los portainjertos formen parte de plantas madre de base, serán materiales de base de la primera generación.
+
+*Prunus avium y P. cerasus:*
+
+Categoría de base.
+
+Una planta madre de base producida a partir de materiales iniciales podrá multiplicarse por un máximo de dos generaciones.
+
+Si la planta madre de base producida a partir de materiales iniciales es un portainjertos, podrá multiplicarse por un máximo de tres generaciones.
+
+Cuando los portainjertos formen parte de plantas madre de base, serán materiales de base de la primera generación.
+
+*Ribes L.:*
+
+Categoría de base.
+
+Una planta madre de base producida a partir de materiales iniciales podrá multiplicarse por un máximo de tres generaciones. Las plantas madre se mantendrán como tales durante un máximo de seis años.
+
+*Rubus L.:*
+
+Categoría de base.
+
+Una planta madre de base producida a partir de materiales iniciales podrá multiplicarse por un máximo de dos generaciones. Las plantas madre de cada generación se mantendrán como tales durante un máximo de cuatro años.
+
+*Vaccinium L.:*
+
+Categoría de base.
+
+Una planta madre de base producida a partir de materiales iniciales podrá multiplicarse por un máximo de dos generaciones.
+
+> Se modifica por el art. 1.10 del Real Decreto 525/2023, de 20 de junio. [Ref. BOE-A-2023-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14680)
+
+> Se añade por el art. único.24 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603)
+
+## ANEXO III — Normas de calidad exterior para las plantas de vivero de los subgrupos cítricos y platanera
+
+A) Normas de calidad exterior para los plantones de cítricos:
+
+<table>
+<tr>
+<th rowspan="2">
+<p> </p>
+</th>
+<th colspan="2">
+<p>Edad del injerto</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>Un año</p>
+</th>
+<th>
+<p>Dos o más años</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>Sistema radicular:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Conformación y desarrollo (*)</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dimensiones del cepellón (en su caso)</p>
+</td>
+<td>
+<p>18 × 20</p>
+</td>
+<td>
+<p>20 × 22</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tallo:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Diámetro mínimo medido a 10 centímetros sobre punto de injerto (centímetros):</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mandarinos y sus híbridos</p>
+</td>
+<td>
+<p>0,8</p>
+</td>
+<td>
+<p>0,9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Naranjos, limoneros, pomelos y limas</p>
+</td>
+<td>
+<p>0,9</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Desarrollos del brote (centímetros):</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mandarinos y sus híbridos</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Naranjos, limoneros, pomelos y limas</p>
+</td>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Conformación del patrón *</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Conformación del brote *</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cicatrices en el patrón **</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cicatrices en el brote **</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Otras (hielo, pedrisco) **</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Endurecimiento **</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Tolerancias: Sobre un 50 por 100 de los plantones de una partida, un 10 por 100 de tolerancias.</p>
+</td>
+</tr>
+</table>
+
+Las notas * y ** del cuadro corresponden a los grados de expresión máximos tolerados.
+
+\* 0 = muy buena a 5 = muy mala.
+
+** 0 = inexistente a 5 = excesiva presencia.
+
+B) Normas de calidad exterior para los patrones de cítricos:
+
+Diámetro del tallo medio medido a 10 centímetros del suelo: 0,6 centímetros.
+
+Altura mínima: 60 centímetros.
+
+C) Normas de calidad exterior para las plantas de vivero del subgrupo platanera:
+
+Sistema radicular:
+
+Volumen del cepellón: 1 litro mínimo.
+
+Pseudotallo:
+
+Altura media desde la base hasta la inserción de las últimas hojas emitidas: 30 centímetros mínimo.
+
+Relación altura pseudotallo a diámetro de su base: 10:1.
+
+## ANEXO IV — Datos que deben consignarse en los documentos de los proveedores
+
+**(Derogado)**
+
+> Se deroga por el art. único.25.a) del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603)
+
+## ANEXO V — Normas específicas para la certificación de plantas de vivero de frutales de pepita y hueso.
+
+1.**(Derogado)**
+
+2\. **(Derogado)**
+
+3\. Requisitos para la producción de plantas de vivero certificadas:
+
+1.º Con material de base se establecen campos de plantas madres de certificado.
+
+Las plantas madres de injertos certificados podrán permanecer un período máximo de diez años a partir de la injertada.
+
+2.º La pureza varietal de las plantas de vivero certificadas se comprobará, al menos, por inspección visual y será del 99,99 por 100, como mínimo.
+
+3.º **(Derogado)**
+
+4.º Los productores deberán realizar las oportunas depuraciones para que las plantas de vivero cumplan los requisitos de pureza varietal y estado sanitario citado en el apartado 3.º El incumplimiento de estos requisitos implicará la destrucción de las plantas.
+
+Para cualquier sustitución de marras o plantas depuradas se deberá solicitar previamente la autorización del organismo oficial responsable.
+
+5.º Las parcelas destinadas a semilleros o a viveros de patrones o plantones, no se habrán dedicado anteriormente a ningún cultivo de rosáceas o ampolidáceas en los últimos tres años, o bien, se acreditará la desinfección del suelo o la ausencia de nematodos nocivos, en su caso.
+
+Las parcelas donde se detecte la presencia de nematodos vectores de virosis, serán anuladas.
+
+6.º Las parcelas de produccion de plantas de vivero certificadas tendrán un aislamiento mínimo de 3 metros con cualquier plantación comercial o plantas aisladas del mismo género. Dicha distancia de aislamiento se mantendrá en barbecho total.
+
+7.º Las plantas madre de certificado estarán separadas al menos 100 metros de cualquier otra planta del mismo género no certificada. En el caso de patrones esta distancia podrá ser de 50 metros.
+
+4\. Requisitos para la producción de plantas de vivero de base y plantas de vivero certificadas por micropropagación o cultivo «in vitro»:
+
+Se admite la producción del material citado por micropropagación de cultivo «in vitro», de acuerdo con los siguientes requisitos:
+
+a) Requisitos comunes:
+
+1\. Las presentes normas serán de aplicación exclusiva a especies y variedades utilizadas como patrones.
+
+2\. Las porciones vegetales utilizadas para iniciar la micropropagación serán embriones o ápices caulinares. No se certificará material obtenido a partir de callo.
+
+3\. La multiplicación se efectuará por descedencias clonales de cada proporción vegetal utilizadas.
+
+4\. Precontrol sanitario: Antes de la cuarta multiplicación, el organismo oficial responsable tomará muestras de plantas de cada línea de descendencia para su análisis de las virosis fácilmente transmisibles. La línea de descedencias que no supere este control será rechazada.
+
+5\. Depuración varietal sanitaria: Serán eliminadas todas las plantas fuera de tipo y las afectadas por plagas o patógenos. Esta depuración será comunicada al organismo oficial responsable y anotada en el Libro de Registro.
+
+6\. Los medios que se utilicen como sustratos de cultivo deberán estar desinfectados contra agentes nocivos.
+
+7\. Será motivo de rechazo el material cultivado sobre medio contaminado, incluso por saprófitos. No está permitida la adición a los medios de antibióticos que puedan enmascarar la presencia de microorganismos.
+
+8\. El productor llevará un Libro de Registro específico en donde se anotarán cronológicamente las distintas operaciones de multiplicación, toma de muestras, depuración, etc, por cada línea de descendencia, con indicación del número de plantas o recipientes de multiplicación. Cada descendencia clonal estará claramente identificada con una clave, que será la que figurará en el Libro de Registro. En los recipientes de multiplicación figurará: Referencia a dicha clave y al número de multiplicación que corresponda.
+
+9\. El etiquetado y precintado podrá realizarse en envases cerrados de igual número de plantas.
+
+10\. En la etiqueta figurará la expresión «producido in vitro».
+
+11\. Para cada cultivo no se admitirá simultanear la producción de plantas base o certificadas y plantas CAC.
+
+b) Requisitos específicos para la producción de plantas de vivero de base por micropropagación o cultivo «in vitro»:
+
+1\. El material a micropropagar se tomará de material parental.
+
+2\. Se limita el número de multiplicaciones a un máximo de cinco, una vez superada la fase de adaptación.
+
+c) Requisitos específicos para la producción de plantas de vivero certificadas por micropropagación o cultivo «in vitro».
+
+1\. El material a micropropagar se tomará de árboles madre de base que hayan superado sus controles anuales o de material parental.
+
+2\. Se limita el número de multiplicaciones a un máximo de diez, una vez superada la fase de adaptación.
+
+3\. Precontroles varietales: En las primeras fases de la multiplicación se tomarán al menos tres plantas de cada línea de descedencia clonal para el precontrol varietal, que cultivará el productor en sus instalaciones de aclimatación. De todo ello, informará previamente al organismo oficial responsable, que efectuará las oportunas inspecciones. Las líneas de descedencia que no superen este precontrol serán rechazadas.
+
+Las plantas producidas según estos requisitos podrán tener la categoría de base o certificada, respectivamente.
+
+> Se derogan los arts. 1, 2 y 3.3 por el art. único.25.b) del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603)
+
+> Se modifica el título por el art. único.1 del Real Decreto 1678/1999, de 29 de octubre. [Ref. BOE-A-1999-22238](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-22238)
+
+## ANEXO VI — Normas específicas para la certificación de plantas de vivero del subgrupo cítricos
+
+1\. **(Derogado).**
+
+2\. Requisitos para la producción de material de base.
+
+Transcurridos los años suficientes para poder observar la fructificación de dos campañas para la comprobación varietal, y teniendo constancia de que el estado sanitario se mantiene, para lo que se realizarán los testados señalados en el cuadro 1, las plantas de partida se consideran plantas de base de semillas o injertos.
+
+La producción de yemas de las plantas base respetarán su producción frutal.
+
+El organismo oficial responsable podrá autorizar la sustitución del proceso de multiplicación de plantas en campo por otros medios apropiados.
+
+Las parcelas de plantas de base deberán estar separadas al menos 4.000 metros de una zona en que se haya detectado «tristeza» y 500 metros de cualquier plantación de agrios. Se excluyen de dichos aislamientos las plantas productoras de semillas.
+
+El organismo oficial responsable podrá autorizar que la distancia mínima exigida sea inferior a las señaladas si los cultivos se realizan al abrigo de insectos vectores o con métodos adecuados de protección.
+
+Los productores deberán llevar un registro de la producción y distribución del material vegetal de categoría base.
+
+3\. Requisitos para la producción de material certificado.
+
+Con yemas de base, injertadas sobre patrones francos procedentes de árboles libres de enfermedades transmisibles por semilla, se formarán los árboles madres de certificada que podrán permanecer como tales un máximo de cinco años, contados a partir de la injertada.
+
+Excepcionalmente, y para determinadas variedades, el organismo oficial responsable podrá autorizar una fase previa de premultiplicación en el punto anterior.
+
+Los árboles madre de material certificado se producirán en parcelas aprobadas por el organismo oficial responsable, teniendo en cuenta los aislamientos siguientes: 100 metros de cualquier plantación de agrios y 2.000 metros de una zona en la que se haya detectado tristeza, pudiendo reducirse esta distancia a 100 metros si se cultivan al abrigo de vectores o con métodos adecuados de protección.
+
+Los viveros de patrones y plantones deberán estar separados al menos 100 metros de cualquier plantación de agrios, pudiendo reducirse esta distancia si existe constancia de que se han efectuado con resultado negativo testados realizados a los árboles de las plantaciones vecinas comprendidas dentro de dicha distancia.
+
+La planta de vivero certificada se testará de tristeza según se indica en el cuadro 1.
+
+4\. **(Derogado).**
+
+5\. Requisitos para la producción de plantas de vivero de base y plantas de vivero certificadas por micropropagación o cultivo in vitro:
+
+a) Requisitos comunes:
+
+1\. Las presentes normas serán de aplicación exclusiva a especies y variedades utilizadas como patrones.
+
+2\. Las porciones vegetales utilizadas para iniciar la micropropagación procederán de embriones no cigóticos o de ápices caulinares de plantas adultas. No se certificará material obtenido a partir de callo. La condición de que el embrión no es cigótico deberá ser comprobada fehacientemente y anotado el procedimiento y resultado en el correspondiente libro.
+
+3\. La multiplicación se efectuará por descendencias clonales de cada porción vegetal utilizada.
+
+4\. Precontrol sanitario: Antes de la cuarta multiplicación, el organismo oficial responsable podrá tomar muestras de plantas de cada línea de descendencia para su análisis de las virosis fácilmente transmisibles. La línea de descendencias que no supere este control será rechazada.
+
+5\. Depuración varietal sanitaria: Serán eliminadas todas las plantas fuera de tipo y las afectadas por plagas o patógenos. Esta depuración será comunicada al organismo oficial responsable y anotada en el Libro de Registro.
+
+6\. Los medios que se utilicen como sustratos de cultivo deberán estar desinfectados contra agentes nocivos.
+
+7\. Será motivo de rechazo el material cultivado sobre medio contaminado, incluso por saprofitos. No está permitida la adición a los medios de antibióticos que puedan enmascarar la presencia de microorganismos.
+
+8\. El productor llevará un Libro de Registro específico en donde se anotarán cronológicamente las distintas operaciones de multiplicación, toma de muestras, depuración, etc., por cada línea de descendencia, con indicación del número de plantas o recipientes de multiplicación. Cada descendencia clonal estará claramente identificada con una clave, que será la que figurará en el Libro de Registro. En los recipientes de multiplicación figurará: referencia a dicha clave y al número de multiplicación que corresponda.
+
+9\. El etiquetado y precintado podrá realizarse en envases cerrados de igual número de plantas.
+
+10\. En la etiqueta figurará la expresión “producido in vitro”.
+
+11\. Para cada cultivo no se admitirá simultanear la producción de plantas base o certificadas y plantas CAC.
+
+b) Requisitos específicos para la producción de plantas de vivero de base por micropropagación o cultivo in vitro:
+
+1\. El material a micropropagar se tomará de material parental.
+
+2\. Se limita el número de multiplicaciones a un máximo de cinco, una vez superada la fase de adaptación.
+
+c) Requisitos específicos para la producción de plantas de vivero certificadas por micropropagación o cultivo in vitro:
+
+1\. El material a micropropagar se tomará de árboles madre de base que hayan superado sus controles anuales o de material parental.
+
+2\. Se limita el número de multiplicaciones a un máximo de diez, una vez superada la fase de adaptación.
+
+3\. Precontroles varietales: En las primeras fases de la multiplicación se tomarán al menos tres plantas de cada línea de descendencia clonal para el precontrol varietal, que cultivará el productor en sus instalaciones de aclimatación. De todo ello, informará previamente al organismo oficial responsable, que efectuará las oportunas inspecciones. Las líneas de descendencia que no superen este precontrol serán rechazadas.
+
+> Se deroga el cuadro 1 por la disposición derogatoria única del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se derogan los arts. 1 y 4 y el cuadro 2 por el art. único.25.c) del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603)
+
+> Se añade el apartado 5 por el art. único de la Orden ARM/1937/2009, de 15 de julio. [Ref. BOE-A-2009-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12056)
+
+> Se modifica el cuadro 1.A) por el art. único.2 del Real Decreto 250/2006, de 3 de marzo. [Ref. BOE-A-2006-5513](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-5513)
+
+## ANEXO VII — Normas específicas para la certificación de plantas de vivero del subgrupo fresa
+
+1\. Requisitos para la producción del material inicial y prebase.
+
+El material inicial (Fo) está constituido por plantas de la variedad, debidamente seleccionadas, exentas de virus y otros organismos patógenos de acuerdo con el cuadro 1.
+
+A partir de selección en campo de plantas de la variedad, el vivero establecerá en sus instalaciones, al abrigo de vectores, dichas plantas seleccionadas, que se someterán a los controles establecidos en el apartado 6.
+
+Los meristemos o ápices caulinares cortados de las plantas seleccionadas, preferentemente en condiciones de alta temperatura (32º-34º), desarrollados y enraizados o no, serán el material de partida (Fo).
+
+Igualmente, así se podrán considerar los estolones nacidos de las plantas seleccionadas.
+
+Las plantas de prebase (F1) son las conseguidas por la multiplicación del material inicial (Fo) de acuerdo con los siguientes procesos:
+
+a) Multiplicación micropropagación «in vitro», con un máximo de 10 repicajes.
+
+b) Multiplicación vegetativa por estolones, realizada en cultivo protegido al abrigo de vectores, hasta un máximo admitido de dos generaciones.
+
+En el caso de realizarse un proceso combinado de los anteriormente descritos, se admitirá una primera multiplicación por micropropagación si se realizan menos de cinco repicajes, seguida de una sola multiplicación por estolones al abrigo de vectores.
+
+Para el control varietal, durante el proceso de producción de material prebase (F1) se tomarán 10 plantas de cada descendencia, que plantará el productor en condiciones adecuadas para su conservación y desarrollo frutal, constituyendo el campo de comprobación varietal de F1. La toma de dichas plantas y su plantación serán comunicada previamente al organismo oficial responsable.
+
+2\. Requisitos para la producción de material de base.
+
+Las plantas de base (F2) se obtienen por multiplicación clonal de las plantas de prebase (F1).
+
+Los campos para la producción de plantas base deberán desinfectarse con productos autorizados y deberán estar aislados, como mínimo, 1.000 metros de cualquier cultivo de la especie en explotación frutal.
+
+En los campos de producción, las variedades estarán separadas entre sí, como mínimo, 2 metros, que se mantendrán limpias de estolones durante todo el cultivo.
+
+Los diferentes clones estarán igualmente separados y debidamente identificados.
+
+3\. Requisitos para la producción de material certificado.
+
+Las plantas certificadas son las obtenidas directamente de la multiplicación de las plantas de base o, eventualmente, de las plantas de prebase (F1).
+
+Los campos de producción no deberán haber tenido cultivos de fresa en los tres años anteriores, salvo si se efectúa la desinfección adecuada de los mismos, con la autorización del organismo oficial responsable.
+
+Los campos de producción estarán aislados, como mínimo, 100 metros de cualquier cultivo de la especie en explotación frutal.
+
+Las variedades estarán claramente separadas entre sí, igual que lo fijado para las plantas de base.
+
+4\. **(Derogado)**
+
+5\. Pureza varietal.
+
+Las plantas corresponderán a la variedad, admitiéndose como mínimo los siguientes porcentajes de pureza varietal:
+
+Inicial y prebase: 100.
+
+Base: 99,9.
+
+Control: 99,9.
+
+6\. Controles.
+
+1.º Inspecciones y procedimientos de testado.–Las inspecciones y procedimientos de testado que se indican se llevan a cabo por el organismo oficial responsable en las épocas y formas que consideren adecuadas.
+
+Se efectuarán dos inspecciones como mínimo de cada plantación antes de la cosecha y una durante la época de recolección de la planta.
+
+Virosis.–Cualquier planta de cualquier plantación podrá ser testada por «indesing» o por otros métodos suficientemente contrastados para la detección de las infecciones viróticas.
+
+Las plantas seleccionadas o plantas madre de material inicial se testarán individualmente de las virosis contempladas en este Reglamento.
+
+Durante el proceso de producción de material de prebase (F1) se realizará un testaje por muestreo de la descendencia de cada planta inicial (Fo), para lo cual se tomarán plantas, preferentemente en la primera fase de multiplicación.
+
+Nematodos.–Las inspecciones para la detección de nematodos serán obligatorias para todas las categorías, con la toma oportuna de muestras.
+
+Otros parásitos y hongos.–El control se efectuará tanto visual como apoyándose en medios de laboratorio.
+
+2.º Precontrol y postcontrol.–Estos controles se ejercerán por sondeo sobre la producción de plantas de prebase, base y certificada.
+
+> Se deroga el art. 4 por el art. único.25.d) del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603)
+
+## ANEXO VIII — Normas específicas para el control y la certificación de plantas de vivero del subgrupo platanera.
+
+1\. Requisitos específicos para la producción de material inicial.
+
+El material inicial se obtiene de los individuos de la unidad inicial en los que se ha comprobado, mediante inspección oficial, la ausencia de virosis transmisibles y que su estado sanitario cumple lo fijado en el anexo II, así como que sus características varietales se corresponden con la variedad de que se trate.
+
+La descendencia de una misma unidad inicial se identificará con un número clonal.
+
+La unidad inicial se cultivará en cultivo protegido y al abrigo de vectores y se renovará con una periodicidad mínima de diez años.
+
+Anualmente se inspeccionará visualmente cada planta para comprobar el mantenimiento de su estado sanitario y autenticidad varietal y se testará para las virosis fácilmente transmisibles.
+
+2\. Requisitos para la producción de material base.
+
+Con material inicial se obtienen plantas madre de base directamente o a través de un proceso de premultiplicación no superior a dos generaciones.
+
+Las plantas madre de base se controlarán anualmente de la forma descrita para el material inicial.
+
+3\. Producción de material certificado.
+
+Con material base se obtienen plantas madre de material certificado.
+
+Se muestrearán al menos el 1 por 100 de las plantas madre de certificada para su testado de virosis fácilmente transmisibles.
+
+El organismo oficial responsable realizará muestreos sobre la planta certificada para comprobar su identidad varietal y su estado sanitario.
+
+4\. Producción de material estándar: el material estándar se producirá de acuerdo con los requisitos de calidad fijados para el material CAC en el capítulo V de este Reglamento.
+
+> Se modifica el título y se añade el apartado 4 por el art. único.6 y 7 del Real Decreto 234/2002, de 1 de marzo. [Ref. BOE-A-2002-5101](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-5101)
+
+## ANEXO IX — Normas específicas para la certificación de plantas de vivero de olivo
+
+1\. Requisitos para la producción y mantenimiento de material inicial
+
+1 a 4**(Derogados)**
+
+5\. La descendencia de cada cabeza de clon se identificará con un código, llamado número de clon, que se mantendrá a lo largo de su multiplicación y comercialización junto a la denominación de la variedad.
+
+2\. Requisitos para la producción y mantenimiento de material de base
+
+1\. Las plantas madres de material de multiplicación base, en adelante plantas madre de base, se obtendrán directamente a partir de material de multiplicación inicial.
+
+2\. Las plantas madre de base se podrán cultivar en campo, en condiciones de aislamiento que aseguren la ausencia de contaminación de enfermedades y al menos con las distancias de aislamiento señaladas en el cuadro B. Estas distancias se podrán reducir si se establecen otras medidas de aislamiento eficaces, aprobadas por el organismo oficial responsable.
+
+El substrato o el suelo de plantación estará libre de "verticillium dahliae" y de nematodos transmisores de virosis.
+
+3\. Todas las plantas madres de base tendrán comprobada su identidad varietal, al menos por observación visual de caracteres. El mantenimiento del estado sanitario se comprobará anualmente para las enfermedades y virosis fácilmente transmisibles y, en su caso, por muestreo y técnicas de análisis apropiadas y aprobadas por el organismo oficial responsable.
+
+La tolerancia será del 0 por 100.
+
+3\. Requisitos para la producción de material de multiplicación y plantas de vivero certificadas
+
+1\. **(Derogado)**
+
+2\. Las plantas madre de certificado se podrán cultivar en campo, en condiciones de aislamiento que aseguren la ausencia de contaminación de enfermedades y al menos con las distancias de aislamiento señaladas en el cuadro B. Estas distancias se podrán reducir si se establecen otras medidas de aislamiento eficaces, aprobadas por el organismo oficial responsable.
+
+El substrato o el suelo de plantación estará libre de "verticillium dahliae" y de nematodos transmisores de virosis.
+
+3 a 5 **(Derogados)**
+
+6\. Los productores deberán realizar las oportunas depuraciones para que las plantas de vivero cumplan con los requisitos de pureza varietal y estado sanitario. Sólo se admitirá la falta de hasta un 5 por 100 de plantas depuradas por causas fitosanitarias o varietales.
+
+7\. Los substratos en que se produzcan y comercialicen las plantas de vivero estarán libres de "verticillium dahliae" y de nematodos transmisores de virosis.
+
+## CUADRO A
+
+**(Derogado)**
+
+## CUADRO B
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> </p>
+<p>Plantas madres</p>
+<p>de material de multiplicación inicial,</p>
+<p>base o certificado.</p>
+</td>
+<td colspan="2">
+<p>Distancias de aislamiento</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>100 m a plantas de olivo</p>
+<p>que no sean del sistema de certificación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Viveros.</p>
+</td>
+<td>
+<p>20 metros de plantaciones comerciales de olivo.</p>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+4\. Requisitos para la producción de plantas de vivero de olivo certificadas obtenidas por micropropagación o cultivo in vitro:
+
+1\. Las porciones vegetales utilizadas para iniciar la micropropagación serán ápices caulinares procedentes, de árboles madre de base o de material inicial.
+
+2\. Los medios que se utilicen como sustratos de cultivo in vitro serán estériles. Será motivo de rechazo el material cultivado sobre medio contaminado, incluso por saprofitos. No se permite la adición a dichos medios de antibióticos que puedan enmascarar la presencia de microorganismos.
+
+3\. La multiplicación se efectuará por líneas de descendencias clonales de cada porción vegetal utilizada. Las plantas de cada línea de descendencia clonal serán mantenidas e identificada por separado, hasta el momento de precintado/etiquetado.
+
+4\. Se limita el número de multiplicaciones a un máximo de 7, una vez superada la fase de adaptación.
+
+5\. Depuración varietal sanitaria: Serán eliminadas todas las plantas fuera de tipo y las afectadas por plagas o patógenos, en cualquiera de las fases del cultivo.
+
+6\. Precontroles varietales: En las primeras fases de la multiplicación (preferentemente la 3.ª o la 4.ª) se tomarán al menos tres plantas de cada línea de descendencia clonal para el precontrol varietal, que cultivará el productor en sus instalaciones de aclimatación. De todo ello, informará previamente al organismo oficial responsable, que efectuará las oportunas inspecciones. Las líneas de descendencia que no superen este precontrol serán rechazadas.
+
+7\. El productor llevará un registro específico en donde se anotarán cronológicamente las distintas operaciones de multiplicación, toma de muestras, depuración, etc., por cada línea de descendencia, con indicación del número de plantas o recipientes de multiplicación. Cada descendencia clonal estará claramente identificada con una clave, que será la que figurará en el citado registro. En los recipientes de multiplicación in vitro, figurará: Referencia a dicha clave y al número de multiplicación que corresponda.
+
+8\. Para cada variedad no se admitirá simultanear la producción de plantas base o certificadas y plantas CAC en los mismos recintos.
+
+9\. Durante la fase de adaptación al cultivo in vivo y posteriores se seguirán las normas de este reglamento para la producción de plantas certificadas, especialmente en lo relativo a trazabilidad, aislamientos, controles y cumplimiento de los requisitos sanitarios y varietales.
+
+10\. En la etiqueta de las plantas figurará la expresión "producida in vitro".
+
+> Se derogan los apartados 1 a 4 del art. 1 y 3 al 5 del art. 3 por el art. único.25.e) del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603)
+
+> Se añade el apartado 4 por el art. único.6 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+> Se añade por el art. único.2 del Real Decreto 1678/1999, de 29 de octubre. [Ref. BOE-A-1999-22238](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-22238)
+
+## ANEXO X
+
+**Parte A: Géneros y especies a los que se refiere el artículo 1 que se pueden producir en categorías inicial, de base, certificada y CAC, bajo reglas y normas de la UE**
+
+*Castanea sativa Mill.*
+
+*Citrus L.*
+
+*Corylus avellana L.*
+
+*Cydonia oblonga Mill.*
+
+*Ficus carica L.*
+
+*Fortunella Swingle.*
+
+*Fragaria L.*
+
+*Juglans regia L.*
+
+*Malus Mill.*
+
+*Olea europaea L.*
+
+*Pistacia vera L.*
+
+*Poncirus Raf.*
+
+*Prunus dulcis* (Mill.) D. A. Webb.
+
+*Prunus armeniaca L.*
+
+*Prunus avium L.*
+
+*Prunus cerasus L.*
+
+*Prunus domestica L.*
+
+*Prunus pérsica (L) Batsch.*
+
+*Prunus salicina Lindley.*
+
+*Pyrus L.*
+
+*Ribes L.*
+
+*Rubus L.*
+
+*Vaccinium L.*
+
+**Parte B: Géneros y especies a los que se refiere el artículo 1 que se pueden producir en categorías inicial, de base, certificada y estándar, bajo reglas y normas españolas**
+
+*Diospyros L.*
+
+*Actinidia Lindl.*
+
+*Ceratonia siliqua L.*
+
+*Punica granatum L.*
+
+*Musa.*
+
+*Persea.*
+
+> Se modifica la parte A por el art. 1.11 del Real Decreto 525/2023, de 20 de junio. [Ref. BOE-A-2023-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14680)
+
+> Se sustituye por el que figura en el art. único.3 del Real Decreto 428/2020, de 3 de marzo. [Ref. BOE-A-2020-4264](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4264)
+
+> Se modifica por el art. único.26 del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603)
+
+> Se modifica la letra b) por el art. único.7 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+> Se añade por el art. único.8 del Real Decreto 234/2002, de 1 de marzo. [Ref. BOE-A-2002-5101](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-5101)
+
+## ANEXO XI — Normas específicas para el control y la certificación de plantas de vivero del subgrupo aguacate
+
+1\. Requisitos complementarios para la autorización de productores seleccionadores y multiplicadores:
+
+a) Disponer, al menos, de instalaciones de tratamiento, en su caso, de substratos, de semillas y del agua de riego.
+
+b) Disponer de parcelas de vivero para plantas de aguacate independientes y aisladas conforme este Reglamento.
+
+2\. Requisitos de producción del material estándar:
+
+2.1 Aislamiento:
+
+Las parcelas destinadas a vivero de aguacate estarán separadas de otras parcelas de vivero al menos mediante un cerramiento o vallado.
+
+El trabajo en el vivero deberá organizarse de manera que tanto los vehículos que provengan del exterior como las personas, trabajadores o visitantes no puedan producir infecciones.
+
+El personal del vivero y las visitas deberán estar provistos de botas y vestimentas adecuadas que deberán utilizar antes de entrar en la parcela de vivero de aguacate.
+
+En los accesos peatonales a la parcela de vivero de aguacate se colocarán recipientes o alfombras con productos fungicidas aprobados para tal fin.
+
+Se evitará la entrada de aguas de escorrentía en la parcela mediante zanjas de drenaje perimetrales u otro método adecuado.
+
+2.2 Agua de riego:
+
+La conducción de agua deberá realizarse mediante tuberías cerradas hasta la parcela de vivero de aguacate. Si no existe la seguridad de que el agua de riego se encuentra libre de agentes transmisores de enfermedades, deberá instalarse un sistema de tratamiento de agua por desinfección o filtrado que elimine ese riesgo.
+
+2.3 Suelo:
+
+El piso del vivero estará cubierto, ya sea con capa de hormigón o con malla antihierbas u otro método aprobado por el organismo oficial responsable, que se mantendrá libre de patógenos.
+
+Los plantones y sus envases no estarán en contacto directo con el piso del vivero, para lo cual se establecerán sistemas para mantenerlos elevados del mismo.
+
+2.4 Envases y útiles de trabajo:
+
+Los plantones de vivero se producirán en envases plásticos nuevos y que sólo se podrán utilizar una vez. Otros elementos de plástico rígido como bandejas, contenedores, etc., podrán utilizarse previa desinfección.
+
+Todo el material de trabajo se limpiará y desinfectará al cambiar de lote o, en cualquier caso, antes o después de cada jornada de trabajo.
+
+2.5 Substratos de cultivo:
+
+Los substratos de cultivo empleados en los semilleros y en el cultivo de plantas de vivero deberán ser estériles, para lo cual podrán emplearse alguno de los procedimientos siguientes:
+
+a) Tratamiento con vapor en cámara cerrada a 82o durante al menos treinta minutos.
+
+b) Otro método aprobado como eficaz por el organismo oficial responsable.
+
+2.6 Origen del material:
+
+Las plantas de vivero estándar no precisan tener un origen clonal, aunque sí es necesario que éste sea conocido.
+
+Cuando los productores no tengan establecidos campos de pies madres, deberán acreditar las adquisiciones de semillas, patrones o injertos por la presencia de albaranes y facturas. En el caso de que los injertos se hayan tomado de plantaciones comerciales, además, estarán señalados los árboles de que proceden los mismos.
+
+2.7 Semillas:
+
+Las semillas empleadas para la producción de patrones deberán tratarse para su desinfección con el método del baño María. Las semillas tratadas podrán almacenarse en cámara un máximo de veintiún días.
+
+Si las semillas van a almacenarse un período superior a veintiún días, el tratamiento indicado se realizará cuando se vayan a utilizar.
+
+Todos los útiles relacionados con el manejo de las semillas deberán desinfectarse de forma adecuada cada vez que se utilicen.
+
+2.8 Densidades:
+
+Las densidades de plantación serán las adecuadas para poder observar individualmente cada planta.
+
+Las plantas estarán en todo momento identificadas por variedades y categorías.
+
+2.9 Tratamientos:
+
+Todo material que en la fase de cultivo presente signos o síntomas visibles de los organismos nocivos o enfermedades de los citados en el cuadro I deberá ser tratado de una forma adecuada en cuanto éstos se manifiesten o, en su caso, deberá ser eliminado.
+
+2.10 Depuraciones:
+
+En todas las fases de cultivo se procederá a la eliminación de las plantas fuera de tipo, deformes o dañadas, así como las previstas en el apartado 2.12.
+
+2.11 Sanidad:
+
+El material estándar deberá estar sustancialmente libre, al menos por observación visual, de cualquier organismo nocivo y enfermedad, o de signos o síntomas de los mismos, que afecte a la calidad de forma significativa y que reduzca el valor de utilización de las plantas de vivero, y, en particular, de aquellos incluidos en el cuadro I.
+
+Cuadro I. Lista de organismos nocivos de control obligado en las plantas de vivero de aguacate:
+
+1\. Categoría estándar:
+
+Phytophtora cinnamomi.
+
+Rosellinia necatrix.
+
+2\. Categorías inicial, base y certificada:
+
+Todos los contemplados para el material estándar y además el viroide "Sun Blotch".
+
+2.12 Pureza varietal:
+
+El material estándar deberá tener una pureza varietal superior al 99 por 100.
+
+2.13 Calidad exterior:
+
+El material estándar deberá estar sustancialmente libre de cualquier defecto que pueda mermar su calidad como material de multiplicación o como plantón.
+
+3\. Requisitos de producción del material inicial, base y certificado:
+
+3.1 Requisitos generales del material inicial, base y certificado:
+
+El material inicial, base y certificado deberá cumplir lo establecido para el material estándar en el apartado 2, y además los requisitos específicos, en cada caso, establecidos a continuación.
+
+3.2 Requisitos del material inicial:
+
+Las plantas madres de material inicial comprenden la planta cabeza de clon, las plantas de reserva y las plantas de partida.
+
+Para la obtención de las plantas de reserva y de partida se procederá:
+
+a) Para los patrones se enraizarán al menos cinco estaquillas de la planta cabeza de clon.
+
+b) Para los injertos se tomarán yemas de la planta cabeza de clon, que se injertarán al menos en cinco patrones procedentes de plantas madres convenientemente testadas.
+
+c) En ambos casos se cultivarán dos de ellas al abrigo de vectores, constituyendo las plantas de reserva y el resto se cultivará en campo, constituyendo las plantas de partida.
+
+Cada planta madre de material inicial tendrá comprobado por inspección oficial que se encuentra libre de los organismos nocivos que figuran en el cuadro I, y que sus características varietales coinciden con la descripción oficial de la variedad.
+
+El material inicial se plantará en terrenos o substratos libres de patógenos nocivos y aislados mediante zanjas de drenaje.
+
+Las plantas iniciales se testarán individualmente cada año para los organismos nocivos del cuadro I. La tolerancia será del 0 por 100. Los testados se harán de acuerdo con métodos internacionalmente establecidos.
+
+La descendencia de cada cabeza de clon se identificará con un número, que se mantendrá a lo largo de su multiplicación y comercialización junto a la denominación de la variedad.
+
+3.3 Requisitos del material de base:
+
+El material de base procede directamente de material inicial.
+
+Con material inicial se producen las plantas madres de base.
+
+Las plantas madres de base tendrán comprobada su identidad varietal.
+
+Las plantas madres de base se testarán anualmente para los organismos nocivos del cuadro I. La tolerancia será del 0 por 100. Los testados se harán de acuerdo con métodos internacionalmente establecidos.
+
+Las plantas madres de base se plantarán en terrenos o substratos libres o desinfectados de patógenos nocivos y aislados mediante zanjas de drenaje.
+
+3.4 Requisitos del material certificado:
+
+Con material de base se establecen campos de plantas madres de certificado.
+
+Las plantas madres de certificado se plantarán en terrenos o substratos libres o desinfectados de nematodos y patógenos nocivos y aislados mediante zanjas de drenaje.
+
+El mantenimiento del estado sanitario de las plantas madres de certificado se comprobará anualmente mediante testados para los organismos nocivos del cuadro I de acuerdo, al menos, con los siguientes porcentajes de muestreo:
+
+<table>
+<tbody>
+<tr>
+<th>
+<p>Material</p>
+</th>
+<th>Número de plantas a testar </th>
+</tr>
+<tr>
+<td>
+<p>Plantas madres de injertos, estaquillas o acodos..........................</p>
+</td>
+<td>
+<p>1/5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Plantas madres de semillas .................................................................</p>
+</td>
+<td>
+<p>1/20</p>
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+
+La pureza varietal de las plantas de vivero certificadas se comprobará, al menos, por inspección visual y será del 99,99 por 100 como mínimo.
+
+Los productores deberán realizar las oportunas depuraciones para que las plantas de vivero cumplan con los requisitos de pureza varietal y estado sanitario citados. El incumplimiento de estos requisitos implicará la destrucción de las plantas.
+
+Para cualquier sustitución de marras o plantas depuradas se deberá solicitar previamente la autorización del organismo oficial responsable.
+
+> Se añade por el art. único.9 del Real Decreto 234/2002, de 1 de marzo. [Ref. BOE-A-2002-5101](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-5101)
+
+## ANEXO XII — Modelos de etiquetas
+
+1\. Contenido de los apartados de la etiqueta
+
+Especie. Nombre botánico.
+
+Variedad. La denominación de la variedad. Para las variedades cuya solicitud de registro oficial o de una protección de obtención vegetal esté pendiente, dicha información deberá indicar: “denominación propuesta” y “solicitud pendiente”.
+
+Patrón:
+
+– Para patrones procedentes de reproducción vegetativa, la denominación de la variedad. Para las variedades cuya solicitud de registro oficial o de una protección de obtención vegetal esté pendiente, dicha información deberá indicar: “denominación propuesta” y “solicitud pendiente”.
+
+– Para patrones provenientes de semilla, el nombre de la especie o el híbrido interespecífico de que se trate. Para híbridos dirigidos, junto al nombre del híbrido interespecífico podrá añadirse, entre paréntesis, la denominación del cruzamiento si procede. Para patrones compuestos, deberá informarse de la denominación de los patrones empleados, separados por una barra (/).
+
+Clon. Denominación del clon de acuerdo con el acta mediante la cual ha sido dado de alta por la autoridad competente de la comunidad autónoma donde se ubique la planta madre inicial, o para clones procedentes de otros Estados miembros, por la autoridad competente de dicho Estado miembro.
+
+Código del productor. Código del productor en el Registro Nacional de Productores de Semillas y Plantas de Vivero establecido mediante el Real Decreto 1891/2008, de 14 de noviembre, que incluye el código del Estado miembro en el que se ha elaborado el documento y el código de la autoridad competente.
+
+Código del operador. Código del operador en el Registro Oficial de Productores, Comerciantes e Importadores de Vegetales, establecido mediante Orden ministerial de 17 de mayo de 1993, cuando sea distinto del código del productor reflejado en el apartado anterior.
+
+Año de emisión. En el caso de material certificado, si este se comercializa en una campaña posterior a la de certificación y etiquetado, debe someterse a una nueva comprobación de las condiciones necesarias para su certificación. La fecha de esta segunda certificación deberá reflejarse en la etiqueta con la que se comercialice el material.
+
+Material. Escoger según proceda: plantón, portainjerto, injerto o semilla. Solo para las categorías inicial, de base y certificada.
+
+Categoría. Escoger según proceda:
+
+Inicial.
+
+De base.
+
+De base. Generación (N) según autorice el anexo II quinquies.
+
+Certificada.
+
+D. “Código de terceros países o Estado miembro de la UE en los términos indicados en el Reglamento de Ejecución (UE) 2017/2313 de la Comisión, de 13 de diciembre de 2017, por el que se establecen las especificaciones de formato del pasaporte fitosanitario para los traslados en el territorio de la Unión y del pasaporte fitosanitario para la introducción y los traslados en una zona protegida”.
+
+2\. Modelo de etiqueta CAC: se empleará para los géneros y especies enumeradas en el anexo X parte A
+
+![1](https://www.boe.es/datos/imagenes/disp/2020/93/04264_6668.png)
+
+![2](https://www.boe.es/datos/imagenes/disp/2020/93/04264_6705.png)
+
+3\. Modelo de etiqueta CAC combinada con el pasaporte fitosanitario: se empleará para los géneros y especies enumeradas en el anexo X parte A
+
+![3](https://www.boe.es/datos/imagenes/disp/2020/93/04264_6738.png)
+
+![4](https://www.boe.es/datos/imagenes/disp/2020/93/04264_6771.png)
+
+4\. Modelo de etiqueta estándar: se empleará para los géneros y especies enumeradas en el anexo X parte B
+
+![5](https://www.boe.es/datos/imagenes/disp/2020/93/04264_6805.png)
+
+![6](https://www.boe.es/datos/imagenes/disp/2020/93/04264_6838.png)
+
+5\. Modelo de etiqueta estándar combinada con pasaporte fitosanitario: se empleará para los géneros y especies enumeradas en el anexo X parte B
+
+![7](https://www.boe.es/datos/imagenes/disp/2020/93/04264_6871.png)
+
+![8](https://www.boe.es/datos/imagenes/disp/2020/93/04264_6905.png)
+
+6\. Modelo de etiqueta para material inicial, de base y certificado combinada con el pasaporte fitosanitario: se empleará para los géneros y especies enumeradas en el anexo X parte A
+
+![9](https://www.boe.es/datos/imagenes/disp/2020/93/04264_6942.png)
+
+![10](https://www.boe.es/datos/imagenes/disp/2020/93/04264_6976.png)
+
+7\. Modelo de etiqueta para material inicial, de base y certificado: se empleará para los géneros y especies enumeradas en el anexo X parte B
+
+![11](https://www.boe.es/datos/imagenes/disp/2020/93/04264_7010.png)
+
+![12](https://www.boe.es/datos/imagenes/disp/2020/93/04264_7043.png)
+
+> Se sustituye por el que figura en el art. único.4 del Real Decreto 428/2020, de 3 de marzo. [Ref. BOE-A-2020-4264](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4264)
+
+> Se modifica la letra c) por el art. único.8 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+> Se añade por el art. único.2 del Real Decreto 2065/2004, de 15 de octubre. [Ref. BOE-A-2002-5101](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-5101)
+
+## ANEXO XIII — Modelo de documento de acompañamiento de uso obligatorio para material inicial, de base y certificado
+
+![13](https://www.boe.es/datos/imagenes/disp/2020/93/04264_7076.png)
+
+> Se añade por el art. único.5 del Real Decreto 428/2020, de 3 de marzo. [Ref. BOE-A-2020-4264](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4264)
+
+> Se deroga por el art. único.25.f) del Real Decreto 744/2016, de 30 de diciembre. [Ref. BOE-A-2016-12603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12603)
+
+> Se añade por el art. único.9 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+## ANEXO XIV — Permiso de recolección de material vegetal de una plantación comercial
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 1054/2021, de 30 de noviembre. [Ref. BOE-A-2021-20730](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20730)
+
+> Se añade por el art. único.10 del Real Decreto 895/2014, de 17 de octubre. [Ref. BOE-A-2014-11275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11275).
+
+## ANEXO XV — Ensayos con variedades frutales no aceptadas para la comercialización
+
+Solicitud de autorización para la realización de ensayos con variedades frutales no aceptadas para la comercialización.
+
+El interesado deberá presentar a la autoridad de control de la Comunidad Autónoma donde se vaya a establecer el ensayo:
+
+a) Memoria del plan de ensayo en la que se especifique, como mínimo:
+
+1\. Objetivo del ensayo.
+
+2\. Especies y variedades a estudiar.
+
+3\. Resultados buscados.
+
+4\. Número de elementos de multiplicación empleados en el ensayo.
+
+5\. Situación de la finca donde se ubicará el ensayo: número de parcela catastral, polígono, término municipal y provincia.
+
+6\. Fecha aproximada de comienzo y finalización del ensayo.
+
+b) Declaración del solicitante de la autorización en la que se exprese que el material está destinado a la realización de ensayos, fines científicos o labores de selección bajo su responsabilidad y que no está destinado a su multiplicación o comercio según modelo A.
+
+c) Compromiso de destrucción de todo el material al finalizar el ensayo y de permitir las inspecciones que los servicios oficiales de control necesiten para el seguimiento del ensayo, según modelo A.
+
+d) Autorización del propietario de la selección para la realización de los ensayos, según modelo B.
+
+En el caso de que se quieran realizar ensayos en diferentes zonas geográficas, la memoria deberá recoger una argumentación de la necesidad de realizarlos en dichas zonas, que deberán presentar diferencias agroclimáticas que justifiquen su elección. Estas condiciones agroclimáticas podrían ser diferencias edafológicas, horas frío, heladas, régimen de temperaturas, régimen de lluvias y cualquier otra de interés agronómico.
+
+Condiciones para la autorización de los ensayos con variedades frutales no aceptadas para la comercialización.
+
+Con objeto de coordinar la aplicación de la exclusión recogida en el artículo 3 del presente Reglamento, se establecen las siguientes condiciones para la autorización de ensayos:
+
+Se autorizará un máximo de media hectárea para cada selección en cada uno de los ensayos y/o localizaciones. El número de plantas quedará determinado por el solicitante en función del diseño del ensayo y se especificará en el documento de autorización que emita la autoridad competente.
+
+Cuando el material que se va a emplear en el ensayo provenga de un país tercero, el responsable del ensayo deberá presentar en su solicitud de importación la autorización de la Comunidad Autónoma donde se vaya a realizar el ensayo. La Subdirección General de Medios de Producción Agrícola y Oficina Española de Variedades Vegetales solo autorizará la importación de las cantidades especificadas en el documento de autorización del ensayo emitido por la autoridad competente de la Comunidad Autónoma.
+
+Se exceptuará al material de cumplir las exigencias del presente Reglamento en lo referente a las variedades que se pueden comercializar (artículo 8) y al etiquetado (capítulo VIII), pero deberá cumplir como mínimo las condiciones sanitarias de la categoría CAC o estándar. El material deberá ir identificado como ‘‘material destinado a la realización de ensayos, no apto para la comercialización’’.
+
+El material vegetal no podrá multiplicarse ni comercializarse, únicamente se podrá emplear para los fines recogidos en el plan de ensayo presentado y aprobado por la autoridad competente. Excepcionalmente se autorizará la multiplicación cuando el objeto del ensayo sea la evaluación de condiciones de multiplicación.
+
+Durante la realización del ensayo, no podrá comercializarse la fruta obtenida en la plantación en ensayo.
+
+Finalizado el ensayo, deberá procederse a la destrucción de la plantación de forma controlada por los servicios oficiales. Si el propietario de la misma quisiera mantenerla, deberá solicitar autorización a la autoridad competente. Dicha autorización solo podrá concederse si en ese momento las variedades empleadas se encuentran en alguna de las situaciones recogidas en el artículo 8 del presente Reglamento y la plantación mantiene las condiciones sanitarias adecuadas.
+
+Las autoridades competentes de las Comunidades Autónomas deberán informar a la Oficina Española de Variedades Vegetales de las autorizaciones para ensayo concedidas, dada la repercusión de la comercialización del material vegetal y sus productos en la concesión de títulos de propiedad.
+
+Esta excepción se otorgará sin perjuicio de lo dispuesto en el Reglamento (UE) 2016/2031 del Parlamento Europeo y del Consejo, de 26 de octubre de 2016, relativo a las medidas de protección contra las plagas de los vegetales.
+
+Modelo A
+
+D./D.ª.............................................................., con NIF............................, solicitante del ensayo, declaro que el material vegetal que se empleará está únicamente destinado a la realización de los ensayos explicados en la memoria y en ningún caso se destinarán a la multiplicación o el comercio ni el material vegetal ni sus productos.
+
+Así mismo, me comprometo a que una vez finalizado el ensayo todo el material y productos serán destruidos, y a permitir y facilitar las inspecciones que los servicios oficiales de control necesiten para el seguimiento del ensayo.
+
+Firmado:
+
+Modelo B
+
+D./D.ª .............................................................., con NIF............................, propietario de la selección con referencia del obtentor ..............................., autorizo a D./D.ª .............................................................., con NIF............................, solicitante del ensayo, a realizar un ensayo en la localidad de ...................... con las condiciones indicadas en la memoria.
+
+Firmado:
+
+> Se añade por el art. 1.13 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)

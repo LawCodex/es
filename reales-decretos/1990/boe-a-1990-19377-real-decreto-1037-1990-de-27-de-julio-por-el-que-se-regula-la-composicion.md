@@ -1,0 +1,299 @@
+---
+title: "Real Decreto 1037/1990, de 27 de julio, por el que se regula la composición, organización y funcionamiento del Consejo Superior de Estadística"
+identifier: "BOE-A-1990-19377"
+eli: "https://www.boe.es/eli/es/rd/1990/07/27/1037"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1990-07-27
+published: 1990-08-08
+in_force_from: 1990-08-09
+last_amended: 2009-08-04
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 189"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-19377"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1037/1990, de 27 de julio, por el que se regula la composición, organización y funcionamiento del Consejo Superior de Estadística
+
+Incluye la corrección de erratas publicada en BOE núm. 226, de 20 de septiembre de 1990. [Ref. BOE-A-1990-23230](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23230).
+
+La Ley 12/1989, de 9 de mayo, de la Función Estadística Pública, dedica el capítulo IV de su título II a la regulación del Consejo Superior de Estadística, y en su artículo 37.1 establece que «su composición, organización y funcionamiento serán determinados reglamentariamente», añadiendo en su disposición adicional cuarta que «el Gobierno regulará mediante Real Decreto el Consejo Superior de Estadística».
+
+Entre las modificaciones introducidas respecto de la legislación anterior, cabe destacar en cuanto a su naturaleza el carácter de órgano consultivo de los servicios estadísticos estatales y de participación de los agentes sociales y, en cuanto a su misión, la de contribuir a la armonización de las estadísticas y a una más eficaz asignación de los recursos destinados a su elaboración.
+
+Se hace, por tanto, preciso dictar un Real Decreto que dé cumplimiento a la normativa citada.
+
+En su virtud, a propuesta del Ministro de Economía y Hacienda, previa aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 27 de julio de 1990,
+
+DISPONGO:
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 226, de 20 de septiembre de 1990. [Ref. BOE-A-1990-23230](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23230).
+
+## Artículo 1. Naturaleza.
+
+El Consejo Superior de Estadística, de acuerdo con lo establecido en el artículo 37.1 de la Ley 12/1989, de 9 de mayo, adscrito al Ministerio de Economía y Hacienda, es un órgano consultivo de los servicios estadísticos estatales y de participación social de los informantes, productores y usuarios de las estadísticas, donde están representados las organizaciones sindicales y empresariales y otros grupos e instituciones sociales, económicas y académicas, junto a los Departamentos ministeriales y el Instituto Nacional de Estadística.
+
+## Artículo 2. Misión.
+
+El Consejo Superior de Estadística tiene como misión contribuir a la armonización de las estadísticas, al mejor aprovechamiento de los recursos destinados a su elaboración y a una mayor adecuación a las necesidades de información de los usuarios, así como a facilitar el suministro de datos primarios por los informantes.
+
+## Artículo 3. Funciones.
+
+De acuerdo con lo dispuesto en los artículos 38 y 39.3 de la Ley 12/1989, de 9 de mayo, son funciones del Consejo Superior de Estadística:
+
+a) Elaborar propuestas y recomendaciones sobre las necesidades nacionales en materia estadística y la adaptación y mejora de los medios existentes, previas a la formulación del anteproyecto del Plan Estadístico Nacional y los planes y programas anuales que hayan de desarrollarse en ejecución del mismo.
+
+b) Dictaminar preceptivamente:
+
+El anteproyecto del Plan Estadístico-Nacional y sus programas anuales.
+
+Todos los proyectos de estadísticas para fines estatales.
+
+c) Formular recomendaciones sobre la correcta aplicación de la normativa sobre el secreto estadístico.
+
+d) Evacuar las consultas que, sobre cuestiones de su competencia, le formulen los servicios estadísticos de las Comunidades Autónomas y las Corporaciones Locales.
+
+e) Elaborar una Memoria anual de su actividad.
+
+f) Cualquier otra cuestión que le plantee el Gobierno directamente o a través del Instituto Nacional de Estadística, sobre los asuntos de la competencia del Consejo.
+
+## Artículo 4. Facultad de información.
+
+El Consejo Superior de Estadística, de acuerdo con lo que establece el artículo 39.2 de la Ley 12/1989, de 9 de mayo, puede recabar del Instituto Nacional de Estadística y de los demás servicios estadísticos de la Administración del Estado los informes que considere precisos para el seguimiento de la actividad estadística desarrollada por los mismos.
+
+## Artículo 5. Composición.
+
+1\. El Consejo Superior de Estadística está integrado por el Presidente, el Vicepresidente y los Consejeros.
+
+2\. El Presidente es el Ministro de Economía y Hacienda y el Vicepresidente, el Presidente del Instituto Nacional de Estadística.
+
+3\. De conformidad con lo establecido en el artículo 37.3 de la Ley 12/1989, de 9 de mayo, la mitad de los consejeros deberán pertenecer a organizaciones sindicales y empresariales y demás grupos e instituciones sociales, económicas y académicas suficientemente representativas. En todo caso, estarán representados cada uno de los departamentos ministeriales y el Instituto Nacional de Estadística.
+
+4\. El Ministro de Economía y Hacienda podrá variar o ajustar el número de organismos dependientes de los departamentos ministeriales, así como el número del resto de las instituciones y número de representantes de las mismas, para respetar lo establecido en el artículo citado en el apartado anterior.
+
+5\. Teniendo en cuenta la proporcionalidad establecida en el apartado 3, serán consejeros:
+
+a) Por parte de los departamentos ministeriales y del Instituto Nacional de Estadística.
+
+1.º Un representante de cada uno de los departamentos ministeriales con nivel de director general.
+
+2.º Un representante con rango mínimo de subdirector general de cada organismo dependiente de los departamentos ministeriales que, por la relevancia de su actividad estadística, haya de estar auto representado en el Consejo Superior de Estadística. 3.º Los Directores Generales del Instituto Nacional de Estadística.
+
+b) Por parte de las organizaciones sindicales y empresariales y de las instituciones sociales, económicas y académicas, al menos un representante de cada una de las organizaciones, instituciones y colectivos siguientes:
+
+1.º Organizaciones sindicales representativas en el nivel estatal.
+
+2.º Confederación Española de Organizaciones Empresariales.
+
+3.º Confederación Española de la Pequeña y Mediana Empresa.
+
+4.º Cámaras de Industria, Comercio y Navegación.
+
+5.º Consejo de Consumidores y Usuarios.
+
+6.º Banco de España, con nivel de director general.
+
+7.º Real Academia de Ciencia Morales y Políticas.
+
+8.º Real Academia de Ciencias Exactas, Físicas y Naturales.
+
+9.º Catedráticos numerarios de universidad designados por la Secretaría General del Consejo de Universidades.
+
+10.º Sociedad de Estadística e Investigación Operativa.
+
+11.º Consejo General de Colegios de Economistas.
+
+12.º Federación de Asociaciones de la Prensa.
+
+13.º Fundación ONCE. 14.º Organizaciones e instituciones públicas o privadas que, por su naturaleza o funciones, puedan ser relevantes para la actividad del Consejo Superior de Estadística.
+
+6\. Actuará de Secretario del Pleno y de la Comisión Permanente el Subdirector General del Instituto Nacional de Estadística que ejerza las funciones de coordinación y planificación estadística, con voz y sin voto. En caso de vacante, ausencia o enfermedad, el Secretario del Consejo será sustituido por el funcionario del INE de mayor rango que realice las tareas de apoyo a la Secretaría del Consejo.
+
+> Se modifica por el art. único.1 del Real Decreto 820/2008, de 16 de mayo. [Ref. BOE-A-2008-8841](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-8841).
+
+> Téngase en cuenta para su aplicación la disposición transitoria única.
+
+> Se modifica por el art. 3 del Real Decreto 53/2005, de 21 de enero. [Ref. BOE-A-2005-1841](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1841).
+
+> Se modifica por el art. 1 del Real Decreto 288/2001, de 16 de marzo. [Ref. BOE-A-2001-6010](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-6010).
+
+> Se modifican los apartados 4, 5 y 6 por la disposición adicional 1.1 del Real Decreto 139/1997, de 31 de enero. [Ref. BOE-A-1997-3036](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-3036).
+
+> Redactado el apartado 3 conforme a la corrección de erratas publicada en BOE núm. 226, de 20 de septiembre de 1990. [Ref. BOE-A-1990-23230](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23230).
+
+## Artículo 6. Nombramiento, renovación y sustitución de los Consejeros.
+
+1\. El Ministro de Economía y Hacienda nombrará a los Consejeros incluidos en el apartado 5.a) del artículo anterior a propuesta de los Departamentos ministeriales respectivos, y a los incluidos en el apartado 5.b) del mismo artículo a propuesta de los órganos de gobierno de las organizaciones e instituciones que representan.
+
+2\. La renovación de los Consejeros podrá realizarse en cualquier momento a iniciativa de las organizaciones e instituciones que representan y, en todo caso, cada tres años, sin perjuicio de ser reelegidos sin limitación.
+
+3\. Los Consejeros pueden ser sustituidos por otros suplentes nombrados por el mismo sistema y al mismo tiempo que los titulares, en caso de vacante, ausencia o enfermedad. Asimismo deberán ostentar el mismo nivel administrativo los suplentes de Consejeros a quienes se exija este requisito.
+
+> Se modifica el apartado 1 por el art. único del Real Decreto 1208/2009, de 17 de julio. [Ref. BOE-A-2009-12934](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12934).
+
+## Artículo 7. Organización del Consejo.
+
+1\. El Consejo Superior de Estadística puede actuar en Pleno o en Comisión Permanente.
+
+2\. Integran el Pleno del Consejo el Presidente, el Vicepresidente y los Consejeros.
+
+El Pleno quedará válidamente constituido cuando asista la mayoría absoluta de sus miembros. Si no existiera quórum, el Pleno se constituirá en segunda convocatoria treinta minutos después de la hora señalada para la primera. Para ello será suficiente la asistencia de la tercera parte de sus miembros.
+
+3\. Constituyen la Comisión Permanente el Vicepresidente, que actuará de presidente de la misma, y doce Consejeros.
+
+Los Consejeros que forman la Permanente se designarán por el Pleno, manteniendo la proporción mencionada en el artículo 5.3 de forma que exista el mismo número de consejeros de cada uno de los conjuntos a) y b) definidos en el artículo 5.5, y se renovará un tercio de los mismos cada año.
+
+4\. Por acuerdo de la Comisión Permanente se podrán constituir Ponencias y Grupos de trabajo como soporte operativo de los trabajos atribuidos al Consejo Superior de Estadística.
+
+5\. Al frente de cada Ponencia y Grupo de trabajo habrá un Presidente asistido por un Secretario que deberá ser funcionario de los servicios estadísticos de la Administración del Estado.
+
+La Comisión Permanente propondrá al Presidente del Consejo Superior de Estadística la designación de los Presidentes de las Ponencias y al Presidente de la Comisión Permanente la de los Presidentes de los Grupos de trabajo.
+
+La designación de los Secretarios y del resto de los componentes de Ponencias y Grupos de trabajo corresponde al Presidente de la Comisión Permanente a propuesta de los Presidentes respectivos. En dichas Ponencias y Grupos de trabajo podrán participar especialistas no integrados en el Consejo.
+
+6\. La Comisión Permanente determinará, para cada Ponencia y Grupo de trabajo, su carácter permanente o temporal en relación con el objetivo para el que se crean.
+
+> Se modifican los apartados 2 y 3 por el art. único.2 del Real Decreto 820/2008, de 16 de mayo. [Ref. BOE-A-2008-8841](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-8841).
+
+## Artículo 8. Competencias de los Órganos del Consejo y de las Ponencias y Grupos de Trabajo.
+
+1\. El Consejo en Pleno tiene las siguientes competencias:
+
+a) Dictaminar o proponer en los casos siguientes:
+
+Cuando el contenido de los acuerdos del Consejo deba integrarse en disposiciones que hayan de adoptar la forma de Ley o de Real Decreto.
+
+Cuando al dictamen correspondiente de la Comisión Permanente se le haya formulado voto particular por algún Consejero.
+
+Cuando las características de la materia así lo exijan a juicio del Presidente.
+
+b) Conocer los dictámenes o propuestas emitidos por la Comisión Permanente.
+
+c) Aprobar la Memoria anual de su actividad.
+
+d) Solicitar del Ministro de Economía y Hacienda que se inicien los trámites para la actualización de la normativa reglamentaria del Consejo.
+
+e) Conocer todos aquellos asuntos que le someta a su consideración el Presidente.
+
+2\. La Comisión Permanente tiene las siguientes competencias:
+
+a) Dictaminar sobre los proyectos, propuestas y cuestiones estadísticas no atribuidos expresamente al Consejo en Pleno.
+
+b) Dictaminar en los casos urgentes, salvo que el Presidente del Consejo hubiera decidido que son de la competencia del Pleno, dando cuenta al mismo en la primera sesión que celebre.
+
+c) Examinar previamente todos los asuntos que haya de dictaminar el Pleno.
+
+d) Entender en los asuntos de trámite, así como en las cuestiones delegadas por el Pleno.
+
+e) Conocer cuantos asuntos someta a su consideración el Presidente del Consejo.
+
+3\. Corresponde a las Ponencias el estudio de los temas de carácter general relacionados con la fijación de objetivos y con el alcance y contenido de las investigaciones estadísticas. Los Grupos de trabajo estudiarán los temas sectoriales y específicos relacionados con las materias de la competencia propia de las distintas Ponencias.
+
+> Redactado el apartado 1.b) conforme a la corrección de erratas publicada en BOE núm. 226, de 20 de septiembre de 1990. [Ref. BOE-A-1990-23230](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23230).
+
+## Artículo 9. Atribuciones del Presidente y Vicepresidente.
+
+1\. Son atribuciones del Presidente:
+
+a) Presidir y representar al Consejo en Pleno.
+
+b) Decidir la competencia del Consejo en Pleno o de la Comisión Permanente para dictaminar en los casos que, a su juicio, sean urgentes o no estén previstos reglamentariamente.
+
+c) Convocar las sesiones y fijar el orden del día del Pleno.
+
+d) Abrir, suspender y levantar las sesiones del Pleno y dirigir sus deliberaciones.
+
+e) Autorizar con su firma los dictámenes y actas del Consejo en Pleno.
+
+f) Nombrar a los Presidentes de las Ponencias, a que se refiere el artículo 7.5.
+
+g) Ejercer las demás funciones que le estén atribuidas por disposiciones legales vigentes.
+
+El Presidente podrá delegar en el Vicepresidente cualquiera de las atribuciones anteriores.
+
+2\. Son atribuciones del Vicepresidente:
+
+a) Las que el Presidente delegue en él.
+
+b) Las del Presidente, respecto a la Comisión Permanente.
+
+c) Autorizar al Consejero que no forme parte de la Comisión Permanente para asistir a las reuniones de la misma, cuando fuera conveniente, al objeto de asesorar sin intervención en las votaciones.
+
+d) Recabar la presencia de funcionarios o especialistas al objeto de asesorar a la Comisión Permanente.
+
+## Artículo 10. Atribuciones de los Consejeros.
+
+Los Consejeros tienen las siguientes facultades:
+
+a) Participar en la elaboración de los dictámenes o acuerdos y proponer las modificaciones o alteraciones que estimen oportunas a las propuestas de dictamen y acuerdos presentados.
+
+b) Solicitar la ampliación de los datos o antecedentes de los dictámenes y acuerdos con carácter previo a su aprobación.
+
+c) Formular voto particular razonado cuando discrepen del parecer de la mayoría.
+
+d) Presentar al Pleno o la Comisión Permanente propuestas sobre las materias competencia del Consejo.
+
+## Artículo 11. Funcionamiento.
+
+1\. El Pleno se reunirá cuantas veces sea necesario para formular sus dictámenes y adoptar sus acuerdos. Asimismo lo hará cuando lo solicite, al menos, un tercio de los Consejeros y, en todo caso, una vez al año.
+
+El Consejo tomará sus acuerdos por mayoría simple de asistentes y dirimirá los empates el voto del Presidente. Se acompañará a los dictámenes y acuerdos los votos particulares.
+
+2\. La Comisión Permanente funcionará de conformidad con las normas establecidas para el Pleno, en cuanto le sean aplicables.
+
+## Artículo 12. La Secretaría General.
+
+1\. El Subdirector General del Consejo Superior de Estadística del Instituto Nacional de Estadística tendrá atribuidas las funciones de la Secretaría General del Consejo.
+
+2\. Corresponden al Subdirector general del Consejo Superior de Estadística las funciones de Secretario del Pleno y de la Comisión Permanente, así como las referentes a la organización y funcionamiento de los servicios de la Secretaría General del Consejo.
+
+3\. La Subdirección General del Consejo Superior de Estadística facilitará a las Ponencias y Grupos de trabajo la infraestructura administrativa que necesiten para su funcionamiento y en orden a la mayor difusión y conocimiento de los informes que generen.
+
+## Artículo 13. Consultas al Consejo.
+
+1 Los proyectos, propuestas o cuestiones estadísticas sobre alguna de las materias de la competencia del Consejo se remitirán al Presidente de la Comisión Permanente quien determinará su pase a estudio por la Ponencia o Grupo de trabajo a que se refiere el artículo 7.4. Los informes, estudios o propuestas de dicha Ponencia o Grupo de trabajo se elevarán a la Comisión Permanente, a través de la Secretaría General. En caso de no existir el órgano de trabajo adecuado el Presidente de la Comisión Permanente someterá a ésta la oportuna propuesta de creación del mismo.
+
+2\. Si el Presidente de la Comisión Permanente estimara que no es procedente que los proyectos, propuestas o cuestiones estadísticas pasen a estudio de una Ponencia o Grupo de trabajo, los remitirá a la Secretaría General del Consejo quien elaborará el oportuno informe.
+
+## Artículo 14. Dictámenes y acuerdos del Consejo.
+
+1\. Los dictámenes aprobados serán remitidos al Organismo promotor, firmados por el Presidente y el Secretario general, con expresión de si han sido aprobados por unanimidad o por mayoría y acompañado del voto o votos particulares si los hubiera.
+
+2\. Igualmente, las propuestas, recomendaciones y demás acuerdos del Consejo se remitirán a los Organismos competentes o solicitantes de los mismos.
+
+## Disposición final primera.
+
+En lo no previsto en el presente Real Decreto, será de aplicación lo dispuesto en el capítulo II del título I de la Ley de Procedimiento Administrativo.
+
+## Disposición final segunda.
+
+El Organismo Autónomo Instituto Nacional de Estadística facilitará los recursos necesarios para la organización y funcionamiento del Consejo, incluidas las indemnizaciones por razón del servicio que, por su asistencia a las reuniones del Pleno y la Comisión Permanente o su participación en las Ponencias y Grupos de trabajo, sean devengadas por sus respectivos componentes o participantes.
+
+## Disposición final tercera.
+
+El Ministro de Economía y Hacienda dictará las disposiciones necesarias para el desarrollo y aplicación de lo previsto en el presente Real Decreto.
+
+## Disposición final cuarta.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto y, en especial, el Decreto 1399/1968, de 12 de junio, por el que se reorganiza el Consejo Superior de Estadística.
+
+## Disposición final quinta.
+
+El presente Real Decreto entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 27 de julio de 1990.
+
+JUAN CARLOS R.
+
+El Ministro de Economía y Hacienda,
+
+CARLOS SOLCHAGA CATALÁN
+
+> **Información relacionada**
+
+> Téngase en cuenta las referencias hechas a determinados órganos administrativos, según establece la disposición adicional 1 del Real Decreto 803/2022, de 4 de octubre. [Ref. BOE-A-2022-16198](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16198)

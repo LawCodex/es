@@ -1,0 +1,46 @@
+---
+title: "Real Decreto-ley 1/1985, de 31 de enero, por el que se deroga el Decreto-ley 13/1969, de 11 de julio, y se exime de la exigencia del permiso de trabajo a las personas originarias de la ciudad de Gibraltar, que deseen realizar actividades lucrativas por cuenta propia en España"
+identifier: "BOE-A-1985-2206"
+eli: "https://www.boe.es/eli/es/rdl/1985/01/31/1"
+type: decree_law
+rank: "Real Decreto-ley"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 1985-01-31
+published: 1985-02-04
+in_force_from: 1985-02-05
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 30"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-2206"
+retrieved: 2026-10-11
+---
+
+# Real Decreto-ley 1/1985, de 31 de enero, por el que se deroga el Decreto-ley 13/1969, de 11 de julio, y se exime de la exigencia del permiso de trabajo a las personas originarias de la ciudad de Gibraltar, que deseen realizar actividades lucrativas por cuenta propia en España
+
+Habiéndose decidido el restablecimiento del libre tránsito entre Gibraltar y el territorio circunvecino, así como la igualdad y reciprocidad de derechos entre los ciudadanos españoles y las personas originarias de la ciudad de Gibraltar, resulta necesario, por razones de urgencia, adoptar determinadas medidas que coadyuven al progreso de las negociaciones en curso, superando el espíritu que inspiró la aprobación del Decreto-ley 13/1969, de 11 de julio, y al mismo tiempo garantizar un trato recíproco a las personas de la ciudad de Gibraltar, que deseen establecerse en España por cuenta propia.
+
+En su virtud, previa deliberación del Consejo de Ministros, en su reunión del día 31 de enero de 1985, y en uso de la autorización concedida en el artículo 86 de la Constitución,
+
+DISPONGO:
+
+## Artículo 1.
+
+Queda derogado el Decreto-ley 13/1969, de 11 de julio, sobre concesión de facilidades a los residentes civiles en Gibraltar y cuantas disposiciones se dictaron al amparo del mismo.
+
+## Artículo 2.
+
+Quedan eximidos de la obligación de proveerse de permiso de trabajo las personas originarias de la dudad de Gibraltar que deseen realizar una actividad lucrativa por cuenta propia en España, quedando derogadas cuantas disposiciones se opongan a lo establecido en este precepto.
+
+## Disposición final.
+
+El presente Real Decreto-ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 31 de enero de 1985.
+
+JUAN CARLOS R.
+
+El Presidente del Gobierno,
+
+FELIPE GONZALEZ MÁRQUEZ

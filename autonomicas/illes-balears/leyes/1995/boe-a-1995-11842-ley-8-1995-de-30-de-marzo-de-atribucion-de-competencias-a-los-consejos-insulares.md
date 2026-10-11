@@ -1,0 +1,463 @@
+---
+title: "Ley 8/1995, de 30 de marzo, de atribución de competencias a los consejos insulares en materia de actividades clasificadas y parques acuáticos, reguladora del procedimiento y de las infracciones y sanciones"
+identifier: "BOE-A-1995-11842"
+eli: "https://www.boe.es/eli/es-ib/l/1995/03/30/8"
+type: act
+rank: "Ley"
+jurisdiction: es-illes-balears
+language: es
+department: "Comunidad Autónoma de las Islas Baleares"
+date: 1995-03-30
+published: 1995-05-19
+in_force_from: 1996-01-01
+last_amended: 2006-10-28
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 119"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-11842"
+retrieved: 2026-10-11
+---
+
+# Ley 8/1995, de 30 de marzo, de atribución de competencias a los consejos insulares en materia de actividades clasificadas y parques acuáticos, reguladora del procedimiento y de las infracciones y sanciones
+
+EL PRESIDENTE DE LA COMUNIDAD AUTONOMA DE LAS ISLAS BALEARES
+
+Sea notorio a todos los ciudadanos que el Parlamento de las Islas Baleares ha aprobado y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 27.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley
+
+EXPOSICION DE MOTIVOS
+
+El artículo 45 de la Constitución consagra el derecho de todos a disfrutar de un medio ambiente adecuado para el desarrollo de la persona y el deber de conservarlo, al mismo tiempo que exige de los poderes públicos la función de velar por la utilización racional de todos los recursos naturales, con la finalidad de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, con el apoyo de la indispensable solidaridad colectiva. Finalmente, y para limitar las posibles conductas antisociales, prevé que, en los términos que fije la ley, se establezcan sanciones penales o administrativas, así como la obligación de reparar el daño causado, para los que violen la normativa reguladora del medio ambiente.
+
+Uno de los campos en el cual con mayor claridad incide este mandato constitucional es el constituido por la regulación de la intervención administrativa en el ámbito de todas aquellas actividades económicas susceptibles de ocasionar daños al medio ambiente o molestias, insalubridad, nocividad y peligrosidad para las personas.
+
+El Reglamento de 30 de noviembre de 1961, de actividades molestas, insalubres, nocivas y peligrosas, que tiene como antecedente la Real Orden de 17 de noviembre de 1925, mediante la cual se aprobó el reglamento y nomenclátor de establecimientos incómodos, insalubres y peligrosos, cumplió en su momento su finalidad; pero, por una parte, la nueva estructuración de los poderes públicos, fruto de la Constitución de 1978, por otra, la experiencia adquirida en los últimos años, así como las innovaciones producidas en la tecnología industrial y de servicios, y por otra, la adhesión de España a la Unión Europea, conlleva cualificadas novedades en el campo jurídico, ya que el derecho comunitario constituye un auténtico ordenamiento jurídico de obligado cumplimiento para los estados miembros. Todo ello hace patente la necesidad de contar con un nuevo instrumento delimitador del régimen de autorizaciones y del funcionamiento de las actividades o instalaciones, públicas o privadas, susceptibles de alterar la salubridad o el medio ambiente.
+
+A pesar de que el Estatuto de Autonomía de las Islas Baleares es el único que recoge, en el artículo 12.3, como competencia compartida, la función ejecutiva en materia de actividades molestas, insalubres, nocivas y peligrosas, esta subdivisión de la materia no significa la reducción de la potestad autonómica respecto de las actividades clasificadas, ya que el mismo Estatuto atribuye, en el artículo 10.12, competencia exclusiva en materia de sanidad e higiene; en el artículo 10.25, competencia exclusiva en materia de espectáculos públicos; en el artículo 10.30, competencia exclusiva en materia de procedimiento administrativo derivado de las actividades de la especialización propia de la Comunidad Autónoma; en el artículo 11.12 atribuye el desarrollo legislativo y la ejecución en materia de defensa del consumidor y del usuario, y en el artículo 11.13 cierra estas referencias competenciales sectorializadas al atribuir a la Comunidad Autónoma potestades de desarrollo legislativo para establecer normas adicionales de protección del medio ambiente.
+
+Las islas Baleares son una realidad geográfica e histórica plural, desigual y diversa, de difícil articulación en un sistema conjunto de instituciones político-administrativas. Para dar satisfacción a la voluntad de autogobierno de cada isla, articulada como un sistema de cooperación armónica de carácter interinsular, y en aplicación del artículo 39 del Estatuto de Autonomía y de la Ley 5/1989, de 13 de abril, de consejos insulares, el Parlamento de las Islas Baleares ha aprobado las siguientes leyes de atribución de competencias a los Consejos Insulares de Mallorca, de Menorca y de Ibiza y Formentera:
+
+La Ley 9/1990, de 20 de junio, de atribución de competencias a los consejos insulares en materia de urbanismo y habitabilidad.
+
+La Ley 8/1993, de 1 de diciembre, de atribución de competencias a los consejos insulares en materia de régimen local.
+
+La Ley 9/1993, de 1 de diciembre, de atribución de competencias a los consejos insulares en materia de información turística.
+
+La Ley 12/1993, de 20 de diciembre, de atribución de competencias a los consejos insulares en materia de servicios sociales y asistencia social.
+
+La Ley 13/1993, de 20 de diciembre, de atribución de competencias a los consejos insulares en materia de inspección técnica de vehículos.
+
+La Ley 6/1994, de 13 de diciembre, de atribución de competencias a los consejos insulares en materia de patrimonio histórico, de promoción sociocultural, de animación sociocultural, de depósito legal de libros y de deportes.
+
+La presente ley, de atribución de competencias a los consejos insulares en materia de actividades clasificadas y parques acuáticos, reguladora también del procedimiento para la tramitación de los expedientes, al cual se aplicarán los principios fijados por la Ley 30/1992, de 26 de diciembre, de régimen jurídico de las Administraciones públicas y del procedimiento administrativo común, así como de las infracciones y de las sanciones, constituye el séptimo paso, hasta ahora, que debe significar una más próxima y mejor prestación de los servicios públicos.
+
+Se remarca que esta ley respeta una doble atribución de competencias, por una parte reconoce a los ayuntamientos la competencia para la concesión de las licencias de instalación y de apertura y funcionamiento, y por otra atribuye a los consejos insulares amplias potestades de intervención, sin perjuicio de reservar la calificación de las actividades potencialmente más contaminantes al Gobierno de la Comunidad Autónoma.
+
+En aplicación de los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación la presente ley regula la posibilidad de que los consejos insulares deleguen en los ayuntamientos o mancomunidades ciertas potestades.
+
+Finalmente, la presente ley establece como fecha de efectividad y entrada en vigor día 1 de enero de 1996, para que pueda dictarse antes el nomenclátor de las actividades sujetas a calificación, así como las disposiciones necesarias para su desarrollo y ejecución; para que los distintos agentes interesados la conozcan, y dispone un plazo máximo de seis meses para que los establecimientos abiertos con anterioridad a la promulgación de esta ley que carezcan de la licencia municipal de apertura y funcionamiento o que realicen actividades que no se ajusten al contenido de la citada licencia, regularicen su situación.
+
+## TÍTULO I — De las competencias en materia de actividades clasificadas y parques acuáticos
+
+### Artículo 1. Objeto de la Ley.
+
+Se atribuyen a los Consejos Insulares de Mallorca, de Menorca y de Ibiza y Formentera, en su ámbito territorial, y con carácter de propias, todas las competencias ejecutivas y de gestión asumidas por el Gobierno de la Comunidad Autónoma, en relación con las dos materias que se indican, de conformidad con lo que establecen los artículos 39, apartado 25 y último párrafo, del Estatuto de Autonomía de las Islas Baleares, y 12.3 de la Ley 5/1989, de 13 de abril, de consejos insulares.
+
+El Gobierno de la Comunidad Autónoma se reserva las potestades genéricas y específicas determinadas en los artículos 5 y 6 de la presente Ley.
+
+### Artículo 2. Actividades clasificadas.
+
+Los consejos insulares asumen todas las competencias que habían sido asumidas por el Gobierno de la Comunidad Autónoma en materia de actividades clasificadas y, en particular, la emisión de informes y calificaciones previas al otorgamiento de la licencia municipal de instalación y las actuaciones administrativas relacionadas con la resolución de la licencia municipal de apertura y funcionamiento, los informes de ordenanzas y reglamentos municipales y, supletoriamente, la facultad inspectora y sancionadora, relativos a todas las actividades clasificadas, excepto las potestades genéricas y específicas determinadas en los artículos 5 y 6 de la presente ley.
+
+### Artículo 3. Parques acuáticos.
+
+Los consejos insulares asumen todas las competencias que habían sido asumidas por el Gobierno de la Comunidad Autónoma en materia de parques acuáticos y, en particular, las funciones de calificación previa al otorgamiento de la licencia municipal de instalación y de comprobación de las revisiones anuales que se establecen en el Decreto de la Comunidad Autónoma 91/1988, de 15 de diciembre, mediante el cual se aprueba la reglamentación de parques acuáticos, excepto las potestades genéricas determinadas en el artículo 5 de la presente ley.
+
+### Artículo 4. Comisiones insulares de actividades clasificadas.
+
+Para la ejecución de las competencias atribuidas por la presente ley, los consejos insulares podrán crear comisiones insulares de actividades clasificadas, en su ámbito territorial, de las que establecerán la organización, la composición y el funcionamiento, y asumirán su tramitación y la ejecución de sus acuerdos.
+
+### Artículo 5. Potestades genéricas que se reserva el Gobierno de la Comunidad Autónoma.
+
+En las dos materias objeto de atribución por la presente ley, el Gobierno de la Comunidad Autónoma se reserva las potestades, los servicios, las funciones y las actuaciones genéricas siguientes:
+
+1\. Ejecutarlas cuando afecten a más de un ente insular.
+
+2\. Representar a la Comunidad Autónoma en cualquier manifestación extracomunitaria o supracomunitaria.
+
+### Artículo 6. Potestades específicas que se reserva el Gobierno de la Comunidad Autónoma.
+
+El Gobierno de la Comunidad Autónoma se reserva en materia de actividades clasificadas, las calificaciones previas al otorgamiento de la licencia municipal de instalación y todas las actuaciones administrativas relacionadas con la resolución de licencias municipales de apertura y funcionamiento de las siguientes actividades:
+
+1\. Los almacenes y las instalaciones industriales capaces de producir accidentes mayores y riesgos catastróficos. Actualmente son los relacionados en el Real Decreto 886/1988, de 15 de julio, anexos I y II, y en la modificación posterior de éstos, realizada mediante el Real Decreto 952/1990, de 29 de junio.
+
+2\. Las actividades que puedan agredir gravemente al medio ambiente, las cuales, según la reglamentación, requieran una evaluación detallada de impacto ambiental. Actualmente son las incluidas en el anexo II del Decreto 4/1986, de 23 de enero, de la Conselleria de Obras Públicas y Ordenación del Territorio, sobre implantación y regulación de los estudios de impacto ambiental.
+
+3\. Las actividades potencialmente contaminantes de la atmósfera. Actualmente son las relacionadas en los grupos 1.1, energía; 1.2, minería; 1.3, siderurgia y fundición; 1.4, metalurgia no férrea, y 1.6, industrias químicas y conexas, del anexo II, grupo A, del Decreto 833/1975, de 6 de febrero, que desarrolla la Ley 38/1972, de 22 de diciembre, de protección del ambiente atmosférico.
+
+4\. Los establecimientos de uso sanitario. Hospitales, clínicas, residencias sanitarias y establecimientos similares, exclusivamente aquellos establecimientos en los que se reciban atenciones médicas de hospitalización.
+
+### Artículo 7. Normativa reguladora.
+
+1\. En el ejercicio de las competencias atribuidas por esta ley, los consejos insulares ajustarán su funcionamiento al régimen establecido en la misma, como también en la Ley 5/1989, de 13 de abril, de consejos insulares, en la Ley 30/1992 de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común, en la Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local, y en la legislación emanada del Parlamento de las Islas Baleares que resulte de aplicación o, subsidiariamente, en la legislación estatal.
+
+2\. Los consejos insulares tendrán potestad reglamentaria organizativa para regular su propia organización y su propio funcionamiento.
+
+> Se deroga el apartado 3 por la disposición derogatoria única.d) de la Ley 8/2000, de 27 de octubre. [Ref. BOE-A-2000-20977](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-20977)
+
+### Artículo 8. Potestad reglamentaria normativa.
+
+A pesar de la atribución de competencias en favor de los consejos insulares, corresponde al Gobierno de la Comunidad Autónoma el ejercicio de la potestad reglamentaria normativa sobre las competencias atribuidas a los consejos insulares por esta ley, con sujeción a las limitaciones establecidas en los apartados 1 y 2 del artículo 46 del Estatuto de Autonomía.
+
+### Artículo 9. Formas de coordinación e información mutua.
+
+Sin perjuicio de la coordinación general a que hace referencia el capítulo VI de la Ley 5/1989, de 13 de abril, de consejos insulares, el Gobierno de la Comunidad Autónoma y los consejos insulares podrán acordar los mecanismos adecuados de coordinación e información mutua en las dos materias objeto de esta atribución.
+
+### Artículo 10. Coste efectivo.
+
+1\. El coste efectivo anual de la atribución de las competencias a las que se refiere la presente ley, asciende a 52.314.486 pesetas para el año 1996.
+
+El coste efectivo experimentará las variaciones en función de las remuneraciones concretas que afecten al personal respecto del capítulo I, y de la tasa de variación interanual que experimente el índice de precios al consumo en cuanto al capítulo II y a los costes indirectos.
+
+2\. La cuantificación del coste efectivo debe realizarse de conformidad con las siguientes valoraciones:
+
+Consejo Insular de Mallorca:
+
+Capítulo I: 24.573.234 pesetas.
+
+Capítulo II: 1.688.638 pesetas.
+
+Total: 26.261.872 pesetas.
+
+Consejo Insular de Menorca:
+
+Capítulo 1: 12.188.715 pesetas.
+
+Capítulo II: 837.592 pesetas.
+
+Total: 13.026.307 pesetas.
+
+Consejo Insular de Ibiza y Formentera:
+
+Capítulo I: 12.188.715 pesetas.
+
+Capítulo II: 837.592 pesetas.
+
+Total: 13.026.307 pesetas.
+
+3\. El coste efectivo, distribuido de conformidad con el artículo 35 de la Ley 5/1989, de 13 de abril, de consejos insulares, será aplicado a los consejos insulares de acuerdo con los porcentajes y las cantidades siguientes:
+
+A) Consejo Insular de Mallorca:
+
+Total: 26.261.872 pesetas.
+
+Porcentaje sobre el total del coste efectivo: 50,20 por 100.
+
+B) Consejo Insular de Menorca:
+
+Total: 13.026.307 pesetas.
+
+Porcentaje sobre el total del coste efectivo: 24,90 por 100.
+
+C) Consejo Insular de Ibiza y Formentera:
+
+Total: 13.026.307 pesetas.
+
+Porcentaje sobre el total del coste efectivo: 24,90 por 100.
+
+### Artículo 11. Medios personales.
+
+1\. Se traspasa al Consejo Insular de Mallorca el siguiente personal:
+
+Fun./lab.: Funcionario. Cuerpo/cat.: 2510-2511. Grup./niv.: A/B. Puesto de trabajo: Jefe de Sección III. C.D.: 24. Localidad: Palma.
+
+Fun./lab.: Funcionario. Cuerpo/cat.: 2510-2511. Grup./niv.: A/B. Puesto de trabajo: Jefe de Sección IV. C.D.: 24. Localidad: Palma.
+
+2\. Se traspasa al Consejo Insular de Menorca el siguiente personal:
+
+Fun./lab.: Funcionario. Cuerpo/cat.: 2503. Grup./niv.: C. Puesto de trabajo: Base. C.D.: 14.
+
+3\. Se traspasa al Consejo Insular de Ibiza y Formentera el siguiente personal:
+
+Fun./lab.: Funcionario. Cuerpo/cat.: 2503. Grup./niv.: C. Puesto de trabajo: Báse. C.D.: 14.
+
+### Artículo 12. Medios materiales.
+
+1\. Bienes inmuebles. La atribución de las dos competencias que efectúa la presente ley no da lugar a ningún traspaso de bienes inmuebles.
+
+2\. Bienes muebles:
+
+a) El inventario de los equipos informáticos, programas de aplicación y los datos correspondientes al servicio de actividades clasificadas que se traspasa a los consejos insulares de Mallorca, de Menorca y de Ibiza y Formentera, figura en el anexo II de la presente ley.
+
+b) El inventario de los restantes bienes muebles que se ponen a disposición de los consejos insulares de Mallorca, de Menorca y de Ibiza y Formentera, se especificará en el acta de entrega que será formalizada por los presidentes de los consejos insulares respectivos y la consellera de Gobernación.
+
+### Artículo 13. Control de la legalidad e impugnación de los actos y acuerdos de los consejos insulares.
+
+1\. **(Derogado)**
+
+2\. El Gobierno de la Comunidad Autónoma y la Administración General del Estado ejercerán, en su caso, las facultades de impugnación de los acuerdos de los consejos insulares ante la jurisdicción contencioso-administrativa, cuando incurran en infracción del ordenamiento jurídico, en el ámbito de sus respectivos intereses.
+
+> Se deroga el apartado 1 por la disposición derogatoria única.d) de la Ley 8/2000, de 27 de octubre. [Ref. BOE-A-2000-20977](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-20977)
+
+## TÍTULO II — Del procedimiento para la tramitación de los expedientes de actividades molestas, insalubres, nocivas y peligrosas y parques acuáticos
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 16/2006, de 17 de octubre. [Ref. BOE-A-2006-20773](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-20773)
+
+### Artículos 14 a 44.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Ley 16/2006, de 17 de octubre. [Ref. BOE-A-2006-20773](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-20773)
+
+## TÍTULO III — De las infracciones y de las sanciones
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 16/2006, de 17 de octubre. [Ref. BOE-A-2006-20773](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-20773)
+
+### Artículos 45 a 55.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Ley 16/2006, de 17 de octubre. [Ref. BOE-A-2006-20773](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-20773)
+
+### Disposición adicional primera. Comisiones paritarias.
+
+Se creará, por acuerdo entre el Gobierno de la Comunidad Autónoma y el consejo insular correspondiente una comisión paritaria, cuya misión será instrumentar el traspaso de la documentación que esta ley determina, así como garantizar que los expedientes en trámite se resuelvan en los plazos establecidos por la legislación vigente.
+
+### Disposición adicional segunda. Subrogación de los consejos insulares
+
+Los consejos insulares se subrogan a partir de la efectividad de la atribución de competencias prevista en esta ley, en los derechos y en las obligaciones de la Administración de la Comunidad Autónoma relativos a las competencias atribuidas.
+
+### Disposición adicional tercera. Derecho funcionarial de opción.
+
+Los funcionarios de la Comunidad Autónoma, procedentes de la Administración General del Estado o de otro organismo o institución pública o que hayan ingresado directamente en la misma, que con motivo de la atribución de competencias a los consejos insulares resulten traspasados, mantendrán los derechos que les correspondan, incluido el de participar en los concursos de traslado que convoque la Comunidad Autónoma, en igualdad de condiciones que el resto de los miembros de la misma categoría o cuerpo, para que así puedan ejercer en todo momento el derecho permanente de opción.
+
+### Disposición adicional cuarta. Gratuidad del boletín oficial.
+
+Será gratuita la publicación, en el «Boletín Oficial de la Comunidad Autónoma de las Islas Baleares», de los anuncios, acuerdos y demás documentos exigidos por el ordenamiento jurídico, como consecuencia del ejercicio por los consejos insulares de las competencias atribuidas por la presente ley.
+
+### Disposición adicional quinta. Actualización de la cuantía de las sanciones.
+
+Se faculta al Gobierno de la Comunidad Autónoma para que, mediante decreto, actualice periódicamente la cuantía de las sanciones económicas contenidas en la presente ley. El aumento nunca podrá ser superior a la tasa de variación interanual que experimente el índice de precios al consumo.
+
+### Disposición adicional sexta. Actividades previstas en los instrumentos de ordenación del territorio.
+
+1\. La ejecución de actividades de interés supramunicipal previstas en un plan territorial parcial o en un plan director sectorial, en materia de residuos, que exija su calificación, instalación, apertura o funcionamiento, no estará sujeta al régimen de licencias, autorizaciones e informes establecido en esta Ley.
+
+2\. Lo dispuesto en el número anterior sólo será aplicable a los proyectos previstos expresamente en los instrumentos de ordenación citados, siempre que estén recogidos con el grado de detalle suficiente para evaluar sus características fundamentales.
+
+> Se modifica por el art. único de la Ley 12/1999, de 23 de diciembre, por Ley 9/2000, de 27 de octubre. [Ref. BOE-A-2000-20978](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-20978)
+
+> Se añade por el art. 17 de la Ley 12/1999, de 23 de diciembre. [Ref. BOE-A-2000-1014](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1014)
+
+### Disposición adicional séptima.
+
+A efectos de aplicar la normativa sobre actividades clasificadas, el emplazamiento de las estaciones depuradoras de aguas residuales debe determinarse a la distancia mínima que resulte más adecuada para evitar los perjuicios a la población existente en ese momento, en virtud del resultado del procedimiento de evaluación ambiental. A estos casos no les resultarán aplicables las reglas sobre distancias mínimas establecidas en el artículo 4 del Reglamento de actividades molestas, insalubres, nocivas y peligrosas, aprobado mediante Decreto 2414/1961, de 30 de noviembre.
+
+> Se añade por la disposición adicional 9 de la Ley 8/2004, de 23 de diciembre. [Ref. BOE-A-2005-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-953)
+
+### Disposición transitoria primera. Resolución de los recursos administrativos.
+
+Corresponderá al Gobierno de la Comunidad Autónoma la competencia para resolver los recursos administrativos contra los actos y acuerdos dictados por sus órganos, antes de la efectividad de la atribución competencial que establece la presente ley, aunque el recurso se interponga posteriormente
+
+### Disposición transitoria segunda. Representación y defensa judicial.
+
+Corresponderá al Gobierno de la Comunidad Autónoma la representación y defensa en juicio de los recursos y acciones jurisdiccionales contra los actos y acuerdos dictados por sus órganos antes de la efectividad de la atribución competencial que establece la presente ley, aunque el recurso se interponga posteriormente.
+
+### Disposición transitoria tercera. Acreditación del cumplimiento de la normativa.
+
+1\. Los establecimientos abiertos con anterioridad a la promulgación de esta ley, a los que les falte la licencia municipal de apertura y funcionamiento o realicen actividades que no se ajusten al contenido de la citada licencia, deberán regularizar su situación en el plazo máximo de seis meses, a partir de la fecha de efectividad de la presente ley.
+
+2\. El plazo establecido en el apañado anterior no impedirá el ejercicio de la potestad inspectora y sancionadora.
+
+### Disposición transitoria cuarta. Convenios de colaboración.
+
+1\. Con la finalidad de que los consejos insulares puedan ejecutar de manera efectiva las competencias que esta ley les atribuye, y hasta que las corporaciones insulares no dispongan de medios técnicos y humanos adecuados para el ejercicio de las funciones atribuidas, se suscribirán acuerdos de colaboración entre el Gobierno de la Comunidad Autónoma y los consejos insulares, a petición de éstos, y no supondrán ninguna carga económica para los órganos insulares.
+
+2\. Estos instrumentos de colaboración definirán las obligaciones a realizar por los servicios técnicos de las diferentes consejerías del Gobierno de la Comunidad Autónoma en la prestación de la asistencia técnica que proceda en la tramitación de los informes de los proyectos de actividades clasificadas y en su calificación.
+
+### Disposición derogatoria.
+
+Quedan derogadas todas las disposiciones que se opongan a lo que se establece en la presente ley y, en particular:
+
+1\. El título II: régimen jurídico, del Reglamento de 30 de noviembre de 1961, de actividades molestas, insalubres, nocivas y peligrosas.
+
+2\. El artículo 9 del Reglamento de 17 de junio de 1955, de servicios de las corporaciones locales, respecto del procedimiento para el otorgamiento de licencias municipales de instalaciones.
+
+### Disposición final primera. Habilitación gubernativa.
+
+1\. Se faculta al Gobierno de la Comunidad Autónoma para que dicte las disposiciones necesarias para el desarrollo y la ejecución de la presente ley.
+
+2\. Antes del día 31 de diciembre de 1995 el Gobierno de la Comunidad Autónoma aprobará el nomenclátor de las actividades sujetas a calificación, el reglamento regulador de las actividades excluidas de calificación y de las actividades temporales. Hasta que no se apruebe el nomenclátor de las actividades sujetas a calificación, será de aplicación el correspondiente al Decreto 2414/1961, de 30 de noviembre, mediante el cual se aprueba el Reglamento de actividades molestas, insalubres, nocivas y peligrosas.
+
+### Disposición final segunda. Fecha de efectividad de la atribución.
+
+En cumplimiento de lo que regula el artículo 22 h) de la Ley 5/1989, de 13 de abril, de consejos insulares, se establece el día 1 de enero de 1996 como fecha de efectividad de la atribución competencial en concepto de propia que dispone la presente ley, del procedimiento para la tramitación de los expedientes de actividades clasificadas y las infracciones y sanciones que regula la presente ley.
+
+### Disposición final tercera. Entrada en vigor.
+
+Esta ley entrará en vigor el día 1 de enero de 1996.
+
+Por lo tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las Autoridades a los que corresponda guardar.
+
+Palma, 30 de marzo de 1995.
+
+| Maria Rosa Estaras Ferragut, | Gabriel Camellas Fons, |
+|---|---|
+| Vicepresidenta | Presidente |
+
+## ANEXO I — Actividades excluidas de calificación
+
+Se considerarán actividades excluidas de calificación las relacionadas a continuación, excepto cuando concurran una o más de las siguientes circunstancias:
+
+Primera: cuando la ocupación de los locales sea superior a 100 personas, en general, o a 50 personas en planta bajo rasante (más de dos metros de altura de evacuación ascendente).
+
+Segunda: cuando existan instalaciones de índole mecánico, eléctrica o térmica de potencia total, igual o superior a 50 kw.
+
+Tercera: cuando la carga de fuego ponderada sea igual o superior a 400 MCal/m<sup>2</sup> o cuando la carga de fuego total sea igual o superior a 240.000 MCal.
+
+Cuarta: cuando se trate de actividades sujetas a evaluación de impacto ambiental, en cumplimiento de la normativa aplicable.
+
+a) Actividades de comercio al por menor:
+
+1\. De productos alimenticios, bebidas y tabaco.
+
+2\. De maquinaria y equipo mecánico.
+
+3\. De máquinas de oficina y ordenadores.
+
+4\. De maquinaria y material eléctrico.
+
+5\. De material electrónico.
+
+6\. De vehículos automóviles, motocicletas y bicicletas.
+
+7\. De accesorios y piezas de recambio para vehículos automóviles, motocicletas y bicicletas.
+
+8\. De instrumentos de precisión, óptica y similares.
+
+9\. De productos de la industria textil.
+
+10\. De productos de la industria del cuero.
+
+11\. De productos de la industria del calzado y del vestido y de otras confecciones textiles.
+
+12\. De productos de las industrias de madera, corcho y muebles de madera y metálicos.
+
+13\. De productos de la industria del papel y artículos de papel, artes gráficas y edición.
+
+14\. De productos de las industrias de transformación del caucho y materias plásticas.
+
+15\. De productos de otras industrias manufactureras (joyería, bisutería, instrumentos de música, instrumentos fotográficos, juguetes y artículos de deporte).
+
+16\. De productos de perfumería, droguería, higiene y belleza.
+
+17\. De tintorerías.
+
+18\. De prensa periódica, libros y revistas.
+
+19\. De productos artesanales.
+
+20\. De productos agroalimenticios.
+
+21\. De productos de jardinería, materiales de construcción y similares.
+
+b) Prestación de servicios por empresas y profesionales:
+
+1\. Instituciones financieras.
+
+2\. Seguros.
+
+3\. Actividades inmobiliarias.
+
+4\. Servicios de profesionales titulados prestados al público en general.
+
+5\. Alquileres de bienes muebles e inmuebles.
+
+6\. Academias y centros de enseñanza.
+
+c) Actividades relacionadas con la reparación:
+
+1\. Talleres de reparación de automóviles.
+
+2\. Talleres de reparación de bicicletas.
+
+3\. Talleres de reparación de motocicletas.
+
+4\. Talleres de reparación de calzado.
+
+5\. Talleres de reparación de artículos eléctricos para el hogar.
+
+6\. Talleres de reparación y custodia de embarcaciones deportivas.
+
+7\. Talleres de reparación de otros bienes de consumo.
+
+d) Actividades agropecuarias:
+
+1\. Explotación de ganado bovino lechero hasta 100 hembras adultas y su recría.
+
+2\. Explotación de ganado bovino de engorde hasta 200 cabezas.
+
+3\. Explotación de ganado ovino y/o caprino hasta 1.000 cabezas reproductoras y su recría.
+
+4\. Explotación de ganado ovino y caprino de engorde hasta 100 cabezas.
+
+5\. Explotación de ganado porcino en ciclo cerrado, hasta 150 reproductores y su engorde.
+
+6\. Explotación de ganado de engorde hasta 1.000 cabezas.
+
+7\. Avicultura: Reproductoras y ponedoras hasta 10.000 cabezas.
+
+8\. Avicultura: Pollos de engorde hasta 15.000 cabezas.
+
+9\. Explotaciones de conejos hasta 2.000 reproductores y su engorde.
+
+10\. Explotaciones de ganado equino hasta 50 cabezas reproductoras y su recría.
+
+11\. Explotación apícola hasta 500 enjambres.
+
+12\. Depósito de purinas hasta 300 m3 de capacidad.
+
+13\. Almacenes agrícolas de maquinaria fija.
+
+2\. Las explotaciones que se dediquen a las actividades agropecuarias citadas en el apartado anterior, abiertas con anterioridad a la promulgación de esta Ley, a las cuales les falte la licencia municipal de apertura y funcionamiento o realicen actividades que no se ajusten al contenido de la licencia citada, deberán regularizar su situación en el plazo máximo de dos años, a partir de la fecha de entrada en vigor de esta Ley. El Consejo de Gobierno podrá, por causas motivadas y con carácter excepcional, prorrogar este plazo por el tiempo imprescindible para regularizar esta situación, sin que este nuevo plazo pueda ser nunca superior a dos años.
+
+e) Actividades de ocio y tiempo libre: La oferta turística complementaria, constituida por los bares o cafés, cafeterías, restaurantes y similares, esto es, los establecimientos abiertos al público en general que se dediquen como actividad principal o secundaria a suministrar de manera profesional y habitual comidas y/o bebidas para consumir en el mismo local, incluyendo las actividades sin ánimo de lucro.
+
+En todos los casos se requerirá que en dichos establecimientos no se realicen espectáculos ni actividades recreativas.
+
+f) Instalaciones en edificios de viviendas:
+
+1\. Sala de calderas.
+
+2\. Instalaciones de aire acondicionado.
+
+3\. Cochera, garaje y guardería de vehículos hasta 30 vehículos.
+
+4\. Instalaciones de gases licuados del petróleo, hasta cinco metros cúbicos de capacidad.
+
+> Se modifica la letra d) por la disposición adicional 1 de la Ley 14/1998, de 23 de diciembre. [Ref. BOE-A-1999-4643](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4643)
+
+## ANEXO II — Inventario de los equipos informáticos, programas de aplicación y los datos que se traspasan a los Consejos Insulares
+
+1\. Al Consejo Insular de Mallorca:
+
+a) Aplicación informática SEIA (Seguimiento de expedientes y acuerdos). Programa fuente.
+
+b) Ficheros históricos.
+
+c) Una pantalla compatible con el AS-400.
+
+2\. Al Consejo Insular de Menorca:
+
+a) Aplicación informática SEIA (Seguimiento de expedientes y acuerdos). Programa fuente.
+
+b) Ficheros históricos.
+
+c) Una pantalla compatible con el AS-400.
+
+3\. Al Consejo Insular de Ibiza y Formentera:
+
+a) Aplicación informática SEIA (Seguimiento de expedientes y acuerdos). Programa fuente.
+
+b) Ficheros históricos.
+
+c) Una pantalla compatible con el AS-400.

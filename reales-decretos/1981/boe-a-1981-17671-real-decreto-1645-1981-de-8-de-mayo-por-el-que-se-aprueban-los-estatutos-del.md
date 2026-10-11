@@ -1,0 +1,1235 @@
+---
+title: "Real Decreto 1645/1981, de 8 de mayo, por el que se aprueban los Estatutos del Consejo General y Colegios Oficiales de Agentes y Comisionistas de Aduanas"
+identifier: "BOE-A-1981-17671"
+eli: "https://www.boe.es/eli/es/rd/1981/05/08/1645"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda"
+date: 1981-05-08
+published: 1981-08-05
+in_force_from: 1981-08-25
+last_amended: 1999-06-26
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 186"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-17671"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1645/1981, de 8 de mayo, por el que se aprueban los Estatutos del Consejo General y Colegios Oficiales de Agentes y Comisionistas de Aduanas
+
+Incluye las correcciones de errores publicadas en BOE núm. 279, de 21 de noviembre de 1981. [Ref. BOE-A-1981-26899](https://www.boe.es/buscar/doc.php?id=BOE-A-1981-26899) y núm. 16, de 19 de enero de 1982. [Ref. BOE-A-1982-1241](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-1241)
+
+El artículo sexto punto dos de la Ley dos/mil novecientos setenta y cuatro, sobre Colegios Profesionales, establece que los Consejos Generales de los Colegios elaborarán unos Estatutos que habrán de ser sometidos a la aprobación del Gobierno, a través del Ministerio competente.
+
+En cumplimiento de dicho precepto legal, el Consejo General de Colegios de Agentes y Comisionistas de Aduanas, ha elaborado los Estatutos del Consejo General y Colegios Oficiales de Agentes y Comisionistas de Aduanas.
+
+En su virtud, a propuesta del Ministro de Hacienda y previa deliberación del Consejo de Ministros en su sesión del día ocho de mayo de mil novecientos ochenta y uno,
+
+DISPONGO:
+
+##### Artículo único.
+
+Se aprueban los adjuntos Estatutos del Consejo General y Colegios Oficiales de Agentes y Comisionistas de Aduanas.
+
+##### Disposición derogatoria.
+
+Quedan derogados el Estatuto para el Régimen de los Colegios Oficiales de Agentes y Comisionistas de Aduanas, aprobado por Orden de diecinueve de julio de mil novecientos cuarenta y tres, así como el Reglamento de Régimen Interior del Colegio Nacional de Agentes y Comisionistas de Aduanas, aprobado por Orden de cinco de enero de mil novecientos sesenta y seis.
+
+Dado en Madrid a ocho de mayo de mil novecientos ochenta y uno.
+
+JUAN CARLOS R.
+
+El Ministro de Hacienda,
+
+JAIME GARCIA AÑOVEROS
+
+## ESTATUTOS DEL CONSEJO GENERAL Y COLEGIOS OFICIALES DE AGENTES Y COMISIONISTAS DE ADUANAS
+
+## TÍTULO PRELIMINAR — Disposiciones generales
+
+##### Artículo 1.
+
+Tendrán la consideración de Agentes y Comisionistas de Aduanas las personas naturales que hayan obtenido el título correspondiente, expedido por el Estado español.
+
+Las Agencias de Aduanas que revistan la forma de persona jurídica legalmente habilitada para el ejercicio de la profesión, deberán tener a su frente a un Gerente, Director, Administrador o Presidente del Consejo de Administración, que habrá de reunir todos los requisitos que se precisen para el ejercicio de la profesión de Agente y Comisionista de Aduanas.
+
+##### Artículo 2.
+
+Las facultades y competencia profesional de los Agentes y Comisionistas de Aduanas, serán las que, en cada momento, les atribuya la legislación vigente.
+
+##### Artículo 3.
+
+Será requisito indispensable para el ejercicio de la profesión de agente y comisionista de aduanas la incorporación al Colegio Oficial correspondiente al domicilio profesional único o principal.
+
+Los agentes y comisionistas de aduanas que pretendan ejercer en un territorio diferente al de colegiación deberán comunicar, a través del colegio al que pertenezcan, a los colegios distintos al de su inscripción, las actuaciones que vayan a realizar en sus respectivas demarcaciones a fin de quedar sujetos a las competencias de ordenación, visado, control deontológico y potestad disciplinaria propias de cada uno de los colegios, así como a las condiciones económicas que en cada supuesto pueden establecerse y que, en todo caso, responderán al coste real de los efectivos servicios prestados por los indicados colegios.
+
+> Se modifica por el art. único.1 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+##### Artículo 4.
+
+El ejercicio de la profesión de agente y comisionista de aduanas se realizará en régimen de libre competencia y de acuerdo con lo establecido por la Ley sobre Defensa de la Competencia y la Ley sobre Competencia Desleal, y se regirá por las leyes y las disposiciones legales en materia de incompatibilidades.
+
+> Se modifica por el art. único.2 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+##### Artículo 5.
+
+El cobro de los honorarios por los servicios prestados por los agentes y comisionistas de aduanas será efectuado por el propio agente, dando suficiente factura de todos los derechos, impuestos y gastos habidos, así como del importe de los honorarios, salvedad hecha de lo establecido en el artículo 31, apartado diecinueve, de los presentes Estatutos.
+
+> Se modifica y renumera por el art. único.3 y 4 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 6.
+
+## TÍTULO I — Del Consejo General de Colegios
+
+### CAPÍTULO I — Normas generales
+
+##### Artículo 6.
+
+El Consejo General de los Colegios Oficiales de Agentes y Comisionistas de Aduanas, como órgano representativo de ámbito estatal de los colegios, es una Corporación de Derecho público, amparado por la ley y reconocida por el Estado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines y se relacionará con la Administración del Estado a través del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, del Ministerio de Economía y Hacienda.
+
+Tiene como fines esenciales la ordenación del ejercicio de la profesión de Agente y Comisionista de Aduanas, la representación exclusiva del mismo y la defensa de los intereses profesionales de los colegiados, todo ello sin perjuicio de lo establecido en la Ley de Colegios Profesionales respecto e la Administración Pública.
+
+> Se modifica y renumera por el art. único.5 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 7.
+
+##### Artículo 7.
+
+Corresponde al Consejo General informar preceptivamente de los proyectos de ley o de las disposiciones estatales de cualquier rango que se refieran a las condiciones generales de las funciones profesionales, entre las que figurarán el ámbito, los títulos oficiales requeridos y el régimen de incompatibilidades con otras profesiones.
+
+> Se modifica y renumera por el art. único.6 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 8.
+
+##### Artículo 8.
+
+Son funciones del Consejo General:
+
+a) Las atribuidas a loa Colegios por el artículo 5.° de la Ley de Colegios Profesionales, en cuanto tengan ámbito o repercusión nacional.
+
+b) Elaborar los Estatutos Generales de los Colegios, así como los suyos propios, que serán sometidos a la aprobación del Gobierno a través del Ministerio de Economía y Hacienda.
+
+c) Aprobar los Estatutos particulares y visar los Reglamentos de régimen interior de los Colegios.
+
+d) Dirimir los conflictos que puedan suscitarse entre los distintos Colegios.
+
+e) Resolver en el ámbito de su competencia todos los recursos que se interpongan contra los actos de los colegios oficiales, sin perjuicio de lo establecido en las normas reguladoras de los Consejos Autonómicos que hayan sido reconocidos por la normativa vigente.
+
+f) Adoptar las medidas necesarias para que los Colegios cumplan las resoluciones del propio Consejo General dictadas en materia de su competencia.
+
+g) Ejercer las funciones disciplinarias con respecto a los miembros de las Juntes de Gobierno de los Colegios y del propio Consejo.
+
+h) Aprobar sus presupuestos y regular y fijar equitativamente las aportaciones de los Colegios.
+
+i) Informar preceptivamente todo proyecto de modificación de la legislación sobre Colegios profesionales.
+
+j) Informar los proyectos estatales de disposiciones generales de carácter fiscal que afecten concreta y directamente a los agentes y comisionistas de aduanas.
+
+k) Asumir la representación de los profesionales españoles ante las Entidades similares en otras naciones.
+
+l) Organizar con carácter nacional Instituciones y servicios de asistencia y previsión y colaborar con la Administración para la aplicación a los profesionales colegiados del sistema de seguridad social más adecuado.
+
+m) Tratar de conseguir el mayor nivel de empleo de los colegiados, colaborando con la Administración en la medida que resulte necesario.
+
+n) Adoptar las medidas que estime conveniente para completar provisionalmente con los colegiados más antiguos las Juntas de Gobierno de los Colegios cuando se produzcan las vacantes de más de la mitad de los cargos de aquéllas. La Junta provisional, así constituida, ejercerá sus funciones hasta que tomen posesión los designados en virtud de elección que se celebrará conforme a las disposiciones estatutarias.
+
+ñ) Velar por que se cumplan las condiciones exigidas por las Leyes y los Estatutos para la representación y proclamación de candidatos para los cargos de las Juntas de Gobierno de los Colegios.
+
+> Se modifica y renumera por el art. único.7 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 9.
+
+##### Artículo 9.
+
+El Consejo General de los Colegios de Agentes y Comisionistas de Aduanas tendrá su sede en Madrid.
+
+> Se renumera por el art. único.8 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 10.
+
+### CAPÍTULO II — Organos de gobierno del Consejo General
+
+##### Artículo 10.
+
+Son órganos del Consejo General el Pleno del mismo y la Comisión Permanente, que se regirán por lo establecido en su Reglamento de régimen interior, en los presentes Estatutos y en las disposiciones que les sean aplicables de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13 de enero.
+
+> Se modifica y renumera por el art. único.9 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 11.
+
+#### Sección 1.ª Del Pleno del Consejo
+
+##### Artículo 11.
+
+Al Pleno del Consejo General le corresponde la representación y dirección de la corporación con plenitud de facultades.
+
+Estará integrado por el Presidente, tres Vicepresidentes, un Secretario, un Vicesecretario y un Tesorero, así como por los Presidentes de todos los Colegios Oficiales o quienes reglamentariamente les sustituyan, siendo obligatoria la asistencia, salvo causa justificada.
+
+> Se modifica y renumera por el art. único.10 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 12.
+
+##### Artículo 12.
+
+Son funciones del Pleno del Consejo General las determinadas en los artículos 8 y 9 y, además:
+
+a) Examinar y aprobar la Memoria, liquidación de cuentas y presupuesto anual del Consejo General.
+
+b) Elección del Presidente y demás cargos del Consejo.
+
+c) Resolver en el ámbito de su competencia todos los recursos que se interpongan contra los actos de los Colegios.
+
+d) Acordar las normas de actuación y funcionamiento de la Comisión Permanente.
+
+e) Fijar las aportaciones de los Colegios al Consejo General y a los órganos de previsión y Seguridad Social.
+
+f) Establecer baremos de honorarios que tendrán carácter meramente orientativo.
+
+g) Establecer, fomentar e impulsar cuantos premios y distinciones sean precisos para velar por la más amplia difusión y prestigio de la profesión.
+
+h) Resolver los conflictos que puedan plantearse entre los distintos Colegios.
+
+i) Elaborar los Estatutos Generales de los Colegios, así como los suyos propios, para su ulterior sometimiento a la aprobación del Gobierno, a través del Ministerio de Economía y Hacienda.
+
+j) Aprobar el correspondiente Reglamento de Régimen Interior del Consejo General y los Estatutos particulares de los Colegios.
+
+k) Conocer y visar los Reglamentos de Régimen interior de los distintos Colegios.
+
+l) En general, intervenir en todos aquellos asuntos que afecten al ejercicio y al prestigio de la profesión en todos los órdenes y especialmente, en la permanente perfección de las normas de actuación profesional.
+
+> Se modifican los apartados f) e i) y renumera por el art. único.11 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 13.
+
+##### Artículo 13.
+
+El Pleno del Consejo General será convocado en sesión ordinaria, al menos, una vez al año por el Secretario, siguiendo instrucciones del Presidente, remitiéndose el orden del día con diez días, como mínimo, de antelación.
+
+También podrá ser convocado, con carácter extraordinario, a petición de ocho de sus miembros, o a propuesta de la Comisión Permanente.
+
+> Se modifica y renumera por el art. único.12 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 14.
+
+##### Artículo 14.
+
+El Presidente y los demás cargos del Consejo General, deberán recaer en personas que ostenten el título de Agente de Aduanas o Administrador habilitado por la Dirección General y que, además, reúnan la condición de ser Presidente de un Colegio Oficial, y serán designados por todos los Presidentes de los Colegios Oficiales de Agentes y Comisionistas de Aduanas o por quienes reglamentariamente les sustituyan.
+
+> Se modifica y renumera por el art. único.12 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 15.
+
+##### Artículo 15.
+
+Corresponde al Presidente la representación del Consejo General de Colegios ante las autoridades y Organismos públicos y privados; convocar y presidir las reuniones del Pleno y de la Comisión Permanente; adoptar aquellas medidas que sin estar atribuidas a otros órganos del Consejo, sean necesarias para el cumplimiento de sus fines, dando cuenta a la Comisión Permanente para su sanción, así como representar al Consejo ante Jueces y Tribunales y ordenar los pagos disfrutando de voto de calidad para dirimir los empates.
+
+En los casos de ausencia, vacante o enfermedad, el Presidente del Consejo será sustituido, sucesivamente, por el Vicepresidente Primero, Segundo o Tercero.
+
+Corresponde al Secretario general, redactar y firmar las actas de las reuniones que celebren los Plenos del Consejo y la Comisión Permanente, y someter dichas actas, una vez aprobadas, a la firma del Presidente. Igualmente tendrá a su cargo la organización y funcionamiento de la Secretaria, adoptando las garantías precisas bajo su responsabilidad, para la custodia y salvaguardia de la documentación del Consejo.
+
+En caso de ausencia, vacante o enfermedad, será sustituido por el Vicepresidente.
+
+Corresponde al Tesorero la organización del régimen económico del Consejo General..
+
+> Se modifica el segundo párrafo y renumera por el art. único.13 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 16.
+
+#### Sección 2.ª De la Comisión Permanente
+
+##### Artículo 16.
+
+En el seno del Consejo General funcionará una Comisión Permanente para la resolución de los asuntos administrativos y financieros, de carácter ordinario y para los no reservados expresamente a la competencia del Pleno del Consejo, así como para ejecutar los acuerdos de éste, ostentando, en su consecuencia, para las materias anteriormente señaladas, la delegación del Pleno. Preparará, asimismo, las ponencias, los estudios y los proyectos que fuere necesario someter a la consideración del Pleno.
+
+Asimismo, la Comisión Permanente podrá adoptar decisiones en caso de reconocida urgencia, que en los supuestos de ser de la competencia del Pleno, serán sometidas a ratificación de éste.
+
+> Se renumera por el art. único.14 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 17.
+
+##### Artículo 17.
+
+La Comisión Permanente estará integrada por el Presidente, tres Vicepresidentes, Secretario, Vicesecretario, Tesorero del Consejo General y los Vocales, con un máximo de doce, que representarán a los Colegios Oficiales y para cuyo nombramiento se deberá tener en cuenta la necesidad de obtener el mayor equilibrio entre los distintos colegios y grupos, de tal forma que resulten representados los colegios correspondientes a las distintas Aduanas y Servicios Aduaneros, procurando, además, una ponderada distribución geográfica de los elegidos.
+
+Corresponde al Pleno del Consejo General determinar el número de las Vocalías y las zonas correspondientes a las mismas.
+
+A tal efecto, los representantes en el Consejo General de los Colegios que compongan las distintas zonas en que de acuerdo con el párrafo anterior, quedará dividido el territorio nacional, elegirán, entre ellos, a un Colegio que represente a la zona en el seno de la Comisión Permanente.
+
+Este colegio designará al Vocal de la Comisión Permanente que deberá reunir la doble condición de ser agente de aduanas o administrador habilitado por el Departamento de Aduanas e Impuestos Especiales, y formar parte de la Junta Directiva del Colegio Oficial.
+
+> Se modifica y renumera por el art. único.15 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 18.
+
+##### Artículo 18.
+
+La Comisión Permanente será convocada por el Secretario, siguiendo instrucciones del Presidente, remitiéndose el orden del día con antelación suficiente.
+
+Estas sesiones tendrán lugar por iniciativa personal del Presidente o a petición de tres, cuando menos, de sus miembros, dirigida a aquél, quien la convocará en un plazo no superior a veinte días, a contar a partir de tal fecha de la recepción de tal petición.
+
+La asistencia a las reuniones es obligatoria. En caso de ausencia por causas justificadas, se admitirá la representación en un miembro de la Comisión.
+
+> Se renumera por el art. único.16 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 19.
+
+##### Artículo 19.
+
+La Comisión Permanente podrá conocer, a título exclusivamente informativo y de estudio, de los asuntos reservados en este Estatuto al Pleno del Consejo General, o de aquellos en que la cuarta parte de los miembros de la Comisión acuerde someterlos al Consejo General, y tendrá como competencia:
+
+a) Someter al conocimiento del Consejo en Pleno de cuantos asuntos estime convenientes pudiendo, al efecto, proponer al Presidente su convocatoria en todos los casos que considere necesario.
+
+b) Formular el presupuesto del Consejo y redactar las cuentas del mismo.
+
+c) Estudiar las memorias que durante el mes de febrero de cada año deberán remitirle todos los Colegios Oficiales y redactar la memoria anual del Consejo General.
+
+d) Intervenir y conocer de todos los asuntos de carácter normal u ordinario, administrativo y financiero y, en suma, aquellos que no requieran la aprobación del Consejo en Pleno, o no obre por delegación permanente o especial de éste.
+
+e) Ejecutar los acuerdos adoptados por el Pleno del Consejo General.
+
+La Comisión Permanente deberá dar cuenta de su actuación al Pleno del Consejo General.
+
+> Se modifica la letra c) y se renumera por el art. único.17 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 20.
+
+### CAPÍTULO III
+
+## De las elecciones de cargos directivos del Consejo General
+
+##### Artículo 20.
+
+Para las elecciones de los cargos de Presidente, Vicepresidentes, Secretario, Vicesecretarios y Tesorero del Consejo General de los Colegios de Agentes y Comisionistas de Aduanas, se seguirán las siguientes normas:
+
+1.ª Serán electores todos los Presidentes de los Colegios Oficiales o, en su defecto, quienes estatuariamente les sustituyan.
+
+2.ª Podrán presentarse como candidatos a los distintos cargos, quienes, en el momento de las elecciones, ostenten el de Presidente de uno de los Colegios Oficiales de España. En consecuencia, no podrá haber dos candidatos pertenecientes a un mismo Colegio Oficial.
+
+3.ª El voto será personal y secreto.
+
+4.ª La proclamación de candidatos para cada uno de los cargos se efectuará quince días antes de celebrarse las elecciones, comunicándose a todos los Colegios.
+
+5.ª Las votaciones se efectuarán cargo por cargo, entre los candidatos que se presenten a cada uno de ellos.
+
+En caso de que un candidato no fuera elegido para un determinado cargo, podrá presentarse a los restantes, para los que hubiere sido proclamado.
+
+6.ª No se establecerá ninguna reserva especial de cargos para Colegio Oficial alguno.
+
+7.ª En el mismo acto se constituirá una Comisión para resolver las posibles dudas, compuesta por el Presidente de mayor edad, el más joven y un tercero elegido por el Pleno que no sea candidato, quienes, oídos los interesados y previos los asesoramientos oportunos, decidirán, en el acto, lo que proceda.
+
+En el plazo de cinco días a partir de la constitución del Consejo General, deberá comunicarse ésta al Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, del Ministerio de Economía y Hacienda. Asimismo, se comunicará su composición y el cumplimiento de los requisitos legales.
+
+De igual forma se procederá cuando se produzcan modificaciones.
+
+> Se modifica el párrafo 2 de la norma 7ª y se renumera por el art. único.18 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 21.
+
+##### Artículo 21.
+
+La duración de los cargos de Presidente, Vicepresidentes, Secretario, Vicesecretario y Tesorero del Consejo General a que se refiere el artículo precedente, será de cuatro años, que se fija como plazo para su mandato computado a partir de la fecha de su toma de posesión, pudiendo ser reelegidos o nombradas de nuevo.
+
+> Se renumera por el art. único.19 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 22.
+
+### CAPÍTULO IV — Del régimen de adopción de acuerdos
+
+##### Artículo 22.
+
+Los acuerdos adoptados por el Pleno del Consejo General o la Comisión Permanente, en el ámbito de sus respectivas competencias, serán obligatorios para todos los Colegios y sus miembros.
+
+Dichos acuerdos serán recogidos en actas con expresión, en su caso, de los resultados de las votaciones que para su aprobación hubieran tenido lugar, emitiéndose la certificación correspondiente.
+
+No podrá adoptarse válidamente acuerdo alguno al previamente no figurase incluido en el orden del día.
+
+> Se renumera por el art. único.19 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 23.
+
+##### Artículo 23.
+
+Para que el Pleno del Consejo o la Comisión Permanente se consideren válidamente constituidos, se precisará que asista más de la mitad de sus miembros en primera convocatoria y un tercio de los mismos en segunda.
+
+Las decisiones del Pleno del Consejo General se adoptarán por mayoría simple de votos presentes o representados. A efectos del cómputo de los votos, cada Colegio ostentará un voto por cada Agente de Aduanas adscrito al mismo.
+
+Las decisiones de la Comisión Permanente se adoptarán por mayoría simple de votos, correspondiendo un voto a cada miembro de la misma.
+
+Tanto en el Pleno como en la Comisión Permanente, se admitirá el voto por delegación.
+
+> Se añade un párrafo y se renumera por el art. único.20 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 24.
+
+##### Artículo 24.
+
+Respecto a la nulidad y anulabilidad de los actos, se estará a lo dispuesto en los artículos 62 y siguientes en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificados que han sido por la Ley 4/1999, de 13 de enero.
+
+> Se modifica y renumera por el art. único.21 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 25.
+
+### CAPÍTULO V — De los recursos y reclamaciones
+
+##### Artículo 25.
+
+Contra los acuerdos de la Comisión Permanente, se podrá interponer recurso de alzada ante el Pleno del Consejo, con arreglo a los términos y plazos previstos en los artículos 107, 114 y 115 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificados por la Ley 4/1999, de 13 de enero.
+
+Contra los acuerdos del Pleno del Consejo, no resolutorios de recursos, podrá interponerse recursos de reposición con arreglo a los términos y plazos previstos en los artículos 107 y 116 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificados por la Ley 4/1999, de 13 de enero.
+
+Los indicados recursos de alzada o de reposición deberán ser resueltos en el primer Pleno ordinario del Consejo que se celebre, o bien en sesión extraordinaria convocada al efecto por su Presidente, con debida notificación de las resoluciones recaídas dentro de los plazos establecidos al respecto en los artículos 115.2 y 117.2 de la Ley 30/1992, modificada por la Ley 4/1999.
+
+Cuando el recurrente contra un acuerdo del Consejo sea un colegio que tome parte en la adopción de aquél, deberá acompañar certificación del acta en la que conste su voto en contra o la formulación de voto particular.
+
+Contra los acuerdos del Consejo que agoten la vía corporativa y estén sujetos a derecho administrativo, cabrá recurrir en vía contencioso-administrativa de acuerdo con lo establecido por la Ley reguladora de esa jurisdicción.
+
+> Se modifica y renumera por el art. único.22 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 26.
+
+### CAPÍTULO VI — Del régimen económico del Pleno del Consejo General
+
+##### Artículo 26.
+
+Los recursos del Consejo General estarán integrados:
+
+a) Por los bienes y derechos que constituyan su patrimonio.
+
+b) Por las cuotas y cantidades que reglamentariamente deban aportar los Colegios Oficiales.
+
+c) Por el importe de las certificaciones que se expidan a instancia de los colegiados.
+
+d) Por las subvenciones oficiales, donativos, legados y demás bienes o derechos que a cualquier titulo reciba.
+
+e) Por las cantidades o cuotas extraordinarias que el Consejo acuerde recabar de los Colegios Oficiales o de los colegiados en circunstancias excepcionales.
+
+f) Por los demás recursos que en el cumplimiento de normas legales pueda obtener el Consejo General.
+
+> Se renumera por el art. único.23 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 27.
+
+##### Artículo 27.
+
+Los Colegios de Agentes y Comisionistas de Aduanas colaborarán en los gastos de sostenimiento del Consejo General, satisfaciendo, dentro de los plazos señalados, las cuotas que se establezcan.
+
+En el supuesto de que algún colegio se retrasara en el pago de las cuotas, el Presidente del Consejo General, oída la Comisión Permanente, podrá apercibir por oficio al Presidente del Colegio Oficial, para que en el plazo improrrogable de quince días, a contar de la notificación de dicho apercibimiento, se proceda al abono de las cuotas pendientes.
+
+Transcurrido dicho plazo sin efectuar el pago, el Presidente del Consejo General, oída la Comisión Permanente, podrá imponer al referido Colegio Oficial una cantidad adicional desde el 20 al 100 por 100 de los débitos pendientes, en concepto de resarcimiento.
+
+Si transcurrido un mes desde la notificación al Colegio Oficial de la imposición de la cantidad adicional a que se hace referencia en el párrafo anterior, continuase sin satisfacerse el pago de las cuotas pendientes, así como de las cantidades adicionales impuestas, el Colegio Oficial quedará privado de voz y voto dentro del Consejo General, hasta tanto no regularice su situación.
+
+> Se modifica y renumera por el art. único.24 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 28.
+
+## TÍTULO II — De los Colegios Oficiales de Agentes y Comisionista de Aduanas
+
+### CAPÍTULO I — Normas generales
+
+##### Artículo 28.
+
+Los Colegios Oficiales de Agentes y Comisionistas de Aduanas son Corporaciones de derecho público con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines específicos, dentro de su ámbito territorial.
+
+> Se renumera por el art. único.25 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 29.
+
+##### Artículo 29.
+
+Los Colegios Oficiales habrán de radicar en toda población en que exista Aduana y actúen en ella debidamente habilitados Agentes y Comisionistas de Aduanas en número superior a diez.
+
+Cuando el número sea inferior a diez, se agregarán al Colegio de la Aduana Principal de la Provincia, y si no lo hubiera, al de la más próxima dentro de la misma Comunidad Autónoma o, en su defecto, al de una de las Comunidades Autónomas limítrofes o más próximas.
+
+Los Colegios actualmente existentes subsistirán, siempre que tengan un número superior a cinco Agentes, siéndoles aplicables, en otro caso, lo establecido en el párrafo anterior.
+
+> Se modifica el párrafo segundo y se renumera por el art. único.26 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 30.
+
+##### Artículo 30.
+
+Los Colegios Oficiales de Agentes y Comisionistas de Aduanas quedan sujetos en su actuación a las disposiciones vigentes, a los acuerdos del Consejo General de Colegios y adaptarán su funcionamiento a lo especificado en los presentes Estatutos, así como en los Reglamentos de régimen interior de cada Colegio, todo ello sin perjuicio de las competencias específicas de los Consejos Autonómicos reconocidos.
+
+> Se modifica y renumera por el art. único.27 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 31.
+
+### CAPÍTULO II — Fines y funciones de los Colegios Oficiales
+
+##### Artículo 31.
+
+Son fines esenciales de estas Corporaciones la ordenación del ejercicio de la profesión de Agente y Comisionista de Aduanas, la representación exclusiva de la misma y la defensa de los intereses profesionales de los Colegios, todo ello sin perjuicio de la competencia de la Administración Pública por razón de la relación funcionarial y la que le corresponde al Consejo General.
+
+Corresponde a los Colegios Oficiales el ejercicio de las siguientes funciones en su ámbito territorial:
+
+1\. Velar por el más estricto cumplimiento de las normas colegiales de actuación profesional, firme observancia de las incompatibilidades legales, mantenimiento fiel a los principios de deontología profesional y cuantas obligaciones imponen las disposiciones vigentes que regulan las funciones y competencias de Agente y Comisionista de Aduanas, dentro del ámbito de su competencia.
+
+2\. Cumplir y hacer cumplir a los colegiados los Estatutos profesionales y Reglamentos de régimen interior, así como las normas y decisiones adoptadas por los Organos colegiales en materia de su competencia.
+
+3\. Promover por todos los medios a su alcance, el mayor nivel técnico, ético y cultural de sus colegiados.
+
+4\. Intervenir, en su ámbito territorial, en la redacción y modificación de las normas reguladoras de la profesión, haciéndolo a través del Consejo General, cuando las normas tengan carácter nacional.
+
+5\. Asesorar a los colegiados, en su caso, en sus relaciones con la Administración.
+
+6\. Emitir dictámenes e informes y evacuar las consultas de carácter profesional que les sean solicitadas por autoridades, Jueces y Tribunales, así como por cualquier Entidad pública o privada, particulares o colegiados y actuar para la designación de Peritos, conforme el artículo h), de la Ley de Colegios Profesionales.
+
+7\. Nombrar los representantes de los Colegios en las Entidades, Comisiones, Jurados y Organizaciones públicas o privadas para los que fuera solicitada tal representación.
+
+8\. Denunciar y perseguir ante la Administración y Tribunales de Justicia los casos de intrusismo profesional y llevar a término las actuaciones precisas al respecto, bien a través del Colegio o del Consejo.
+
+9\. Denunciar y perseguir, asimismo, las transgresiones legales conocidas por el Colegio, relativas actuaciones que redunden en perjuicio de la profesión.
+
+10\. Imponer sanciones y correcciones disciplinarias a los colegiados, cuando hubiere lugar a ello, mediante el procedimiento regulado en estos Estatutos.
+
+11\. Fijar las cuotas y aportaciones económicas de los colegiados, que sean necesarias, dentro de los límites establecidos por el Consejo General.
+
+12\. Recaudar y administrar sus fondos elaborando el presupuesto anual de ingresos y gastos, así como su liquidación y balance, sometiendo éstos a conocimiento de la Junta General de Colegiados para su sanción; finalmente, tales documentos se elevarán al Consejo General para su conocimiento y examen.
+
+13\. Redactar su Estatuto particular y publicarlo una vez aprobado por el Consejo General.
+
+14\. Redactar y publicar su Reglamento de régimen interior, que deberá ser aprobado por Junta General de Colegiados, y visado por el Consejo General, así como las normas que se consideren oportunas para su correcta interpretación, desarrollo y aplicación.
+
+15\. Velar porque no se produzcan situaciones de competencia desleal entre los colegiados.
+
+16\. Visar los trabajos profesionales de los colegiados, a petición de la partes interesadas. El visado no podrá comprender los honorarios ni las demás condiciones contractuales, cuya determinación se deja al libre acuerdo de las partes.
+
+17\. Expedir y revocar las tarjetas o carnés de identificación de los colegiados, de acuerdo con lo que se establezca en los Estatutos y Reglamento de régimen interior.
+
+18\. Visar la concesión y revocación de poderes y autorizaciones otorgadas a Apoderados y colaboradores.
+
+19\. Encargarse del cobro de las percepciones, remuneraciones u honorarios profesionales, cuando el colegiado lo solicite libre y expresamente, en los casos en que el colegio tenga creados los servicios adecuados y en las condiciones que determinen los estatutos de cada colegio.
+
+20\. Llevar un Libro Registro Especial de Clientes Morosos, en relación a particularse o entidades que encomienden operaciones de Aduanas, que tendrán un carácter meramente informativo para uso interno y exclusivo de los colegiados, y que se ajustará a las disposiciones contenidas en la normativa aplicable.
+
+21\. Cualesquiera otros fines relacionados directa o indirectamente con el ejercicio profesional, pudiendo crear cuantos departamentos, servicios o comisiones estimen convenientes para el mejor cumplimiento de aquéllos. Deberá mantener informados a los colegiados de todo aquello que pueda afectar al ejercicio de la profesión y al propio funcionamiento del Colegio.
+
+22\. Todas las relacionadas en el artículo 5.° de la Ley de Colegios Profesionales que no tengan ámbito o repercusión nacional.
+
+> Se modifica y renumera por el art. único.28 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 32.
+
+### CAPÍTULO III — De los colegiados
+
+##### Artículo 32.
+
+La incorporación a los Colegios de personas habilitadas, se efectuara mediante instancia dirigida por el interesado al Presidente del Colegio respectivo y previo cumplimiento de los requisitos siguientes:
+
+1.° Presentación del título que le habilite legalmente para el ejercicio profesional o, en su defecto, testimonio notarial o copia auténtica del mismo.
+
+2.° Justificación del alta en el Impuesto de Actividades Económicas.
+
+3.° Constitución de las fianzas correspondientes.
+
+4.° Ingreso de los derechos de incorporación establecidos por la Ley, Estatutos y Reglamentos.
+
+5.° Declaración jurada o promesa de no estar inhabilitado para el ejercicio profesional, ni estar incurso en ninguna de las causas de incompatibilidad que por la legislación se establezcan.
+
+> Se modifica y renumera por el art. único.29 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 33.
+
+##### Artículo 33.
+
+La solicitud de admisión sólo podrá ser denegada previas las garantías necesarias en los supuestos siguientes:
+
+a) Cuando no se aporten los documentos requeridos u ofrezcan dudas racionales acerca de su autenticidad y suficiencia; en este caso, la Junta de Gobierno abrirá la oportuna investigación.
+
+b) Cuando el solicitante hubiese sido condenado por sentencia firme que le inhabilite para el ejercicio de la profesión.
+
+e) Como consecuencia de la sanción impuesta con ocasión de expediente disciplinario, durante el tiempo que dure la misma.
+
+> Se renumera por el art. único.30 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 34.
+
+##### Artículo 34.
+
+Todos los colegiados tienen la obligación de poner en conocimiento del Colegio los casos de intrusismo profesional que conozcan.
+
+> Se renumera por el art. único.30 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 35.
+
+##### Artículo 35.
+
+Los colegiados quedan obligados al puntual pago de sus cuotas, tanto ordinarias como extraordinarias.
+
+Los colegiados que dejaran de satisfacer las cuotas, cargas, multas o cualesquiera otras obligaciones que las Juntas de Gobierno o Generales o el Consejo General, en su caso, en uso de las facultades que les corresponden, impusieran o acordaran, podrán obtener una prórroga de treinta días, a contar desde el plazo en que les fue hecha la notificación para verificar el ingreso.
+
+No solicitada la prórroga o transcurrido dicho plazo sin efectuar el pago, la Junta de Gobierno podrá imponer al colegiado una cantidad adicional hasta el 20 por 100 de los débitos pendientes, en concepto de resarcimiento.
+
+Transcurridos tres meses, a contar de su notificación, desde la imposición al colegiado del pago de una cantidad adicional de los débitos pendientes, conforme a lo establecido en el párrafo anterior, y continuase sin efectuar dicho pago, tanto en lo que hace a las cuotas pendientes como a las cantidades adicionales impuestas, el colegiado podrá ser suspendido de sus operaciones, a cuyo fin el colegio lo comunicará al Consejo General y a la Aduana, quienes, a su vez, darán cuenta al Departamento de Aduanas e Impuestos Especiales, a sus efectos, y ello sin perjuicio de las sanciones que pueda imponer el colegio al interesado, de acuerdo con lo previsto en los presentes estatutos y en los Reglamentos de régimen interior.
+
+> Se modifica y renumera por el art. único.31 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 36.
+
+##### Artículo 36.
+
+El Colegio ostentará en su ámbito la representación y defensa de la profesión ante la Administración Instituciones, Tribunales, Entidades y particulares, con legitimación para ser parte en cuantos litigios afecten a los intereses de la profesión y de los colegiados y ejercitar el derecho de petición, conforme a la Ley, de acuerdo con lo establecido en la Ley de Colegios Profesionales.
+
+Igualmente el Colegio ejercerá cuantas funciones redunden en beneficio de los intereses profesionales de los colegiados.
+
+> Se renumera por el art. único.32 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 37.
+
+##### Artículo 37.
+
+Ningún agente y comisionista de aduanas podrá intervenir en trabajo profesional para el que haya sido designado anteriormente otro colegiado, sin obtener previamente la venia de éste que, en ningún caso, podrá ser denegada.
+
+> Se modifica y renumera por el art. único.33 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 38.
+
+##### Artículo 38.
+
+Todos los colegiados tienen el derecho y el deber de participar activamente en la vida corporativa, especialmente asistir a las Juntas generales, así como desempeñar fielmente en los términos establecidos en los presentes Estatutos, los cargos para los que fueron elegidos.
+
+> Se modifica y renumera por el art. único.34 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 39.
+
+##### Artículo 39.
+
+Contra los acuerdos del colegio, y sin perjuicio de lo establecido al respecto en las normativas autonómicas en materia de Colegios Profesionales, los colegiados podrán recurrir en alzada ante el Consejo General, con arreglo a los términos y plazos previstos en la vigente Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por Ley 4/1999, de 13 de enero.
+
+El recurso podrá presentarse, tanto ante el Colegio que dictó el acto impugnado, como ante el Consejo General. En el primer caso, el Colegio deberá remitirlo al Consejo junto con el expediente, en su caso, y con el informe en el plazo de diez días.
+
+Transcurridos tres meses desde la interposición del recurso sin que se notifique su resolución, se entenderá desestimado y quedará expedita, en aquellos actos sujetos a derecho administrativo, la vía contencioso-administrativa.
+
+> Se modifica y renumera por el art. único.35 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 40.
+
+##### Artículo 40.
+
+Los colegiados tendrán derecho, por parte del Colegio a la defensa de sus intereses profesionales, la protección contra la competencia desleal, el asesoramiento en los distintos aspectos a la profesión, la elevación del nivel técnico, así como el cumplimiento de las normas de previsión social a través de los órganos correspondientes.
+
+> Se renumera por el art. único.36 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 41.
+
+##### Artículo 41.
+
+La condición de colegiado se pierde:
+
+a) Por renuncia o baja voluntaria, solicitada por escrito que el interesado dirigirá al Presidente del Colegio.
+
+b) Por expulsión del Colegio, acordada según lo dispuesto en estos Estatutos.
+
+c) Por sentencia judicial firme de inhabilitación para el ejercicio de la profesión.
+
+d) Por dejar impagadas sus cuotas ordinarias o extraordinarias durante un período de seis meses, a contar desde el requerimiento fehaciente de pago, así como las multas o recargos que les fueran impuestas como consecuencia de expedientes tramitados por faltas graves o muy graves.
+
+e) Por fallecimiento.
+
+La pérdida de la condición de colegiado se comunicará por el Colegio Oficial a las Aduanas de su demarcación y al Consejo General, quienes deberán notificarlo al Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria.
+
+> Se modifica y renumera por el art. único.37 y 38 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 42.
+
+### CAPÍTULO IV — De los Organos de Dirección y Gobierno de los Colegios
+
+##### Artículo 42.
+
+Los órganos de gobierno, dirección y administración de los colegios son la Junta General de Colegiados y la Junta de Gobierno y se regirán por lo establecido en sus Reglamentos de régimen interior, en los presentes estatutos, en la Ley de Colegios Profesionales, y en las normas que les sean aplicables de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13 de enero.
+
+> Se modifica y renumera por el art. único.39 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 43.
+
+#### Sección 1.ª De la Junta de Gobierno
+
+##### Artículo 43.
+
+Los Colegios de Agentes y Comisionistas de Aduanas estarán regidos por una Junta de Gobierno, a la que corresponde la dirección y administración de los mismos.
+
+Son funciones de la Junta del Gobierno, además de aquellas que no estén expresamente atribuidas a la Junta General:
+
+1\. Con relación a los colegiados:
+
+a) Resolver sobre la admisión de las solicitudes de colegiación.
+
+b) Velar por el correcto comportamiento profesional de los colegiados tanto en sus relaciones mutuas como en las que tengan con terceros.
+
+o) Promover las oportunas acciones para impedir el ejercicio de la profesión a quienes no poseyeran habilitación legal para ello.
+
+d) Publicar las convocatorias de elecciones para proveer los cargos de la Junta de Gobierno.
+
+2\. En relación con la vida económica del Colegio:
+
+a) Recaudar y administrar los fondos del Colegio.
+
+b) Redactar los presupuestos y rendir las cuentas anualmente a la Junta General de Colegiados.
+
+c) Proponer a la Junta General de Colegiados la inversión de los fondos sociales.
+
+d) Autorizar los movimientos de fondos en los casos de apertura o traspaso de cuentas bancarias.
+
+3\. En relación con los Organismos oficiales en su mismo ámbito territorial:
+
+a) Defender a los colegiados en el desempeño de sus funciones profesionales.
+
+b) Gestionar, en nombre del Colegio, cuantas mejores estime convenientes para el mejor desarrollo de la profesión en el ámbito colegial, así como todo aquello que pueda redundar en interés profesional de los Agentes y Comisionista de Aduanas.
+
+> Se renumera por el art. único.40 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 44.
+
+##### Artículo 44.
+
+También serán funciones de la Junta de Gobierno la ejecución de los acuerdos colegiales y cualesquiera otras que se le atribuyan en otros artículos de estos Estatutos, de su Estatuto particular o de su Reglamento de Régimen Interior.
+
+> Se renumera por el art. único.40 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 45.
+
+##### Artículo 45.
+
+Los Colegios Oficiales de Agentes y Comisionistas de Aduanas estarán regidos por una Junta de Gobierno de tres colegiados, como mínimo, a doce, como máximo, de acuerdo con lo establecido en los Reglamentos de régimen interior.
+
+> Se modifica y renumera por el art. único.41 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 46.
+
+##### Artículo 46.
+
+Los cargos de las Juntas de Gobierno durarán cuatro años y serán elegidos per los Colegios constituidos en Junta general ordinaria, convocada en el mes de diciembre del año que corresponda y siempre con anterioridad a las elecciones de cargos del Consejo General, ateniéndose en cuanto a los requisitos y formalidades, a lo previsto en los Reglamentos de Régimen Interior, en estos Estatutos generales y en la Ley de Colegios Profesionales. Dentro del plazo de quince días siguientes a la Junta, los Colegios notificarán al Consejo General la composición de la Junta de Gobierno.
+
+> Se renumera por el art. único.43 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 48.
+
+##### Artículo 47.
+
+Para que los acuerdos de las Juntas de Gobierno adquieran validez, deberán estar presentes, por lo menos, más de la mitad de sus componentes.
+
+La asistencia a las reuniones de la Junta de Gobierno es obligatoria, dando lugar la ausencia no justificada debidamente a imposición de sanciones que, a tal efecto, se establezca en los Reglamentos de Régimen Interior.
+
+> Se renumera por el art. único.44 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 49.
+
+##### Artículo 48.
+
+La Secretaría de la Junta de Gobierno de los Colegios, llevará un libro de actas debidamente habilitado, en el que constarán los nombres de los asistentes a cada sesión, la referencia de las sesiones que se celebren, y el texto de los acuerdos adoptados, acta que se autorizará con la firma del Secretario y el visto bueno del Presidente.
+
+> Se renumera por el art. único.44 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 50.
+
+##### Artículo 49.
+
+El Presidente ostentará la representación del Colegio en todos los actos oficiales o de gestión, disfrutando de voto de calidad para dirimir los empates.
+
+Los Vicepresidentes por su orden, sustituirán al Presidente en ausencias o enfermedades.
+
+> Se renumera por el art. único.44 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 51.
+
+##### Artículo 50.
+
+El Tesorero custodiará los fondos sociales efectuando los cobros y los pagos con el «páguese» del Presidente y el «tomé razón» del Contador.
+
+El Contador cuidará de la contabilidad social y sustituirá al Tesorero en ausencia o enfermedad y recíprocamente. En el caso de no hallarse separadas las funciones de ambos, corresponderá la sustitución al Vocal o, cuando no lo hubiere, al Secretario.
+
+El Secretario dará fe de las sesiones que celebren las Juntas, levantando las correspondientes actas, que se sentarán en el libro habilitado al efecto, y expedirá los documentos del Colegio con el visado del Presidente.
+
+El Vicesecretario sustituirá al Secretario en su ausencia o enfermedades. Si no existiese Vicesecretario la sustitución corresponderá al Vocal.
+
+> Se renumera por el art. único.44 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 52.
+
+##### Artículo 51.
+
+Los miembros de la Junta de Gobierno de cada Colegio serán elegidos por sufragio entre todos los colegiados del mismo con derecho a voto.
+
+> Se renumera por el art. único.44 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 53.
+
+##### Artículo 52.
+
+Con una antelación de veinte días al término del mandato de los cargos a renovar, la Junta de Gobierno ordenará lo pertinente para que en el colegio se anuncie la elección, mandando publicar y exponer la lista de colegiados con derecho a emitir su voto.
+
+> Se modifica y renumera por el art. único.45 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 54.
+
+##### Artículo 53.
+
+Tendrán derecho a emitir personalmente o por correo su voto para cargos directivos de los Colegios, todos los colegiados que cumplan los siguientes requisitos:
+
+a) Estar al corriente en el cumplimiento de todas sus obligaciones.
+
+b) No estar suspenso para el ejercicio de la profesión.
+
+c) Haber cumplido, en su caso, las sanciones que hubiesen podido imponérseles en expediente disciplinario.
+
+> Se renumera por el art. único.46 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 55.
+
+##### Artículo 54.
+
+Todos los colegiados podrán presentarse como candidatos para cualquier cargo directivo del colegio, siempre que cumplan las condiciones exigidas en el artículo anterior.
+
+> Se modifica y renumera por el art. único.47 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 56.
+
+##### Artículo 55.
+
+Los candidatos presentarán su candidatura mediante escrito dirigido a la Junta de Gobierno del Colegio con una antelación de, al menos, diez días hábiles a la fecha señalada para la elección. Las Juntas de Gobierno de los Colegios, examinados los escritos presentados y de encontrarlos de conformidad, harán la oportuna proclamación de candidatos, publicando su resultado en el tablón de anuncios. Asimismo, se publicarán las causas de ineficacia de aquellos escritos de presentación de candidatura que no cumplan los requisitos exigidos. Cuando el presentado como candidato ostente algún cargo directivo de la Junta de Gobierno del Colegio, su proclamación llevará implícita la renuncia y separación automática del cargo directivo.
+
+> Se modifica y renumera por el art. único.48 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 57.
+
+##### Artículo 56.
+
+La Mesa electoral estará presidida por el Presidente del Colegio, siempre y cuando no sea, a su vez, candidato. En este caso presidirá la Mesa el Vocal que lo sustituya.
+
+Completarán la Mesa en calidad de Secretarios escrutadores, dos colegiados designados por la Junta de Gobierno.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 58.
+
+##### Artículo 57.
+
+Los escrutinios serán públicos. Se verificarán por las Mesas de Colegios al término de la votación, extendiéndose las actas correspondientes y haciéndose público a continuación el resultado de las mismas. Serán nulos todos los votos emitidos a favor de aquellas personas en las que no concurran la condición de candidato, o a favor de dos o más candidatos para el mismo puesto.
+
+Quedarán proclamados para ejercer los cargos aquellos candidatos que hayan obtenido mayor número de votos. En caso de empate, se resolverá de acuerdo con la Ley Electoral. La toma de posesión se efectuará dentro del plazo máximo de diez días a partir del nombramiento.
+
+Todas las actuaciones seguidas en este caso se ajustarán a lo dispuesto en el artículo 7.° de la Ley de Colegios Profesionales.
+
+> Se modifica y renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 59.
+
+#### Sección 2.ª De las Juntas Generales
+
+##### Artículo 58.
+
+La Junta General de Colegiados es el órgano supremo del Colegio. Sus acuerdos, tomados dentro de las atribuciones que en estos Estatutos se fijan para la misma, obligan a todos los colegiados.
+
+Son atribuciones de la Junta General de Colegiados:
+
+a) La aprobación y modificación del Reglamento de Régimen Interior del Colegio.
+
+b) Aprobar los presupuestos ordinarios o extraordinarios y la rendición de cuentas de los mismos.
+
+c) Aprobar las propuestas de inversión de los bienes propiedad del Colegio.
+
+d) Crear comisiones, cuando así lo estime conveniente para el mejor estudio de los asuntos profesionales que lo requieran.
+
+e) Elegir las personas que hayan de componer la Junta de Gobierno.
+
+f) Examinar, aprobar o censurar, en su caso, la actuación de los miembros de la Junta de Gobierno, de acuerdo con las normas que se establezcan en los Estatutos particulares y en los Reglamentos de Régimen Interior.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 60.
+
+##### Artículo 59.
+
+Las Juntas generales podrán ser ordinarias y extraordinarias.
+
+Las Juntas generales ordinarias se reunirán durante el mes de diciembre de cada año, al objeto de proceder, en su caso, a la elección de aquellos de sus miembros que han de ocupar los cargos que deban renovarse en la Junta Directiva, examinar la gestión de la misma y resolver sobre todos los asuntos que se sometan a su conocimiento, todo ello, de acuerdo con lo establecido en estos Estatutos y en los Reglamentos de Régimen Interior.
+
+Serán extraordinarias todas las demás Juntas que los Colegios celebren, no pudiendo tratar en ellas más que de los asuntos que figuren en la convocatoria.
+
+Las Juntas generales extraordinarias se reunirán cuando lo acuerde la Junta de Gobierno y también a petición de más de la mitad de los colegiados, debiendo expresarse claramente, en la solicitud, el objeto de la convocatoria.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 61.
+
+##### Artículo 60.
+
+Las Juntas generales se entenderán válidamente constituidas en primera convocatoria, cuando concurran la mitad más uno de los colegiados que lo integran y cualquiera que sea el número y asistencia, si es de la segunda convocatoria.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 62.
+
+##### Artículo 61.
+
+La asistencia a las Juntas generales es obligatoria. No obstante, cuando causas debidamente justificadas impidan la asistencia personal de un colegiado, podrá éste delegar su representación por escrito, de acuerdo con lo establecido en el artículo 88 de los presentes Estatutos.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 63.
+
+##### Artículo 62.
+
+El orden del día definitivo de las Juntas generales ordinarias, se remitirá a todos loe colegiados, con una antelación mínima de diez días. En las Juntas generales no podrá tratarse de asunto alguno que no esté incluido en el correspondiente orden del día.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 64.
+
+##### Artículo 63.
+
+En las Juntas generales, tanto ordinarias como extraordinarias, todos los colegiados tendrán derecho a voto, siempre que estén al corriente de sus obligaciones colegiales.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 65.
+
+##### Artículo 64.
+
+Se entenderá que existe unanimidad en una votación cuando al preguntar el Presidente si se aprueba el asunto sometido a debate, ningún colegiado manifieste lo contrario. En otro ceso, el Presidente podrá, proponer que se celebre votación.
+
+En el caso de no existir unanimidad, los acuerdos se adoptarán por mayoría simple de votos entre los colegiados asistentes con excepción de aquellos casos a los que se refiere el artículo siguiente.
+
+Las votaciones serán de tres clases: ordinaria, nominal y por papeleta.
+
+La votación ordinaria se verificará levantándose en el orden que establezca el Presidente; los que aprueben la votación que se debate, los que la desaprueben y los que se abstengan, y se efectuará siempre que lo pida la vigésima parte de los asistentes.
+
+La votación nominal se realizará diciendo el colegiado sus dos apellidos seguidos de la palabra «sí» o «no» o «me abstengo» y tendrá lugar cuando lo soliciten, como mínimo, la décima parte de los asistentes.
+
+La votación por papeleta deberá celebrarse cuando lo pidan la tercera parte de los asistentes a la Junte o la proponga el Presidente con el consenso de la Mesa, por considerar que afecta al decoro de los colegiados.
+
+El ejercicio del voto por delegación de representación, en los casos en que sea admitido por los Estatutos particulares y Reglamento de Régimen Interior, se llevará a cabo mediante impreso oficial del Colegio, debidamente numerado para cada colegiado, en que conste su nombre, apellidos y número de colegiado y que constará de dos partes, una de las cuales constituirá el justificante de la delegación en la que se designará al colegiado en que se delegue, debiendo figurar en el mismo la firma del delegante, sirviendo la otra parte del impreso como justificante de los colegiados que asistan personalmente a la Asamblea.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 66.
+
+##### Artículo 65.
+
+Para la aprobación o modificación del Reglamento de Régimen Interior se requerirá, en primera convocatoria, el voto favorable de las dos terceras partes del censo colegial, y en segunda convocatoria de las dos terceras partes de los asistentes, admitiéndose en ambos supuestos, el voto por delegación, en las condiciones señaladas en el artículo 88. Una vez aprobado el Reglamento de Régimen Interior, deberá elevarse al Consejo General para su conocimiento y visado.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 67.
+
+##### Artículo 66.
+
+Para la adquisición o venta de bienes inmuebles o aprobación de votos de censura a cualquiera de los miembros de la Junta de Gobierno u órgano de gestión del Colegio, serán de aplicación las especificaciones contenidas en el artículo anterior, salvo la admisión del voto por delegación.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 68.
+
+##### Artículo 67.
+
+La aprobación de las actas de las sesiones de la Asamblea general de Colegiados se efectuará por mayoría simple de votos presentes, autentificándose su contenido mediante diligencia del Secretario con el visto bueno del Presidente del Colegio.
+
+> Se modifica y renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 69.
+
+### CAPÍTULO V — Régimen económico de los Colegios
+
+##### Artículo 68.
+
+Serán recursos ordinarios de los Colegios:
+
+a) Los productos de los bienes y derechos que posea la Corporación.
+
+b) Los derechos de incorporación, así como las cuotas periódicas que los Colegiados deben satisfacer.
+
+c) Los beneficios que se obtengan con las publicaciones que el Colegio pueda realizar.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 70.
+
+##### Artículo 69.
+
+Constituyen recursos extraordinarios:
+
+a) Las subvenciones o donativos que se concedan al Colegio por parte del Estado, de Entidades públicas o de personas privadas.
+
+b) Las cuotas extraordinarias que, con tal carácter pueda acordar la Junta general de Colegiados.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 71.
+
+##### Artículo 70.
+
+La totalidad de los recursos ordinarios o extraordinarios deberá aplicarse con carácter exclusivo al cumplimiento de las obligaciones atribuidas por la Ley de Colegios Profesionales y por las normas estatutarias y reglamentarias.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 72.
+
+##### Artículo 71.
+
+Los Colegios formularán anualmente sus presupuestos ordinarios de gastos e ingresos y los extraordinarios, si los hubiere.
+
+> Se modifica y renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 73.
+
+## TÍTULO III — De la insignia colegial profesional
+
+##### Artículo 72.
+
+La Insignia colegial profesional estará formada por la rueda dentada, símbolo de la industria, en cuya parte superior figurará el casco alado de Mercurio, símbolo del comercio, y en el interior de la rueda dentada, en su centro, figurará el escudo de España con dos áncoras cruzadas por su parte posterior.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 74.
+
+## TÍTULO IV — Mutualidad de Agentes y Comisionistas de Aduanas
+
+##### Artículo 73.
+
+De acuerdo con el apartado j) del artículo 5.º de la Ley de Colegios Profesionales, el Consejo General podrá organizar servicios comunes de carácter profesional, formativo, asistencial, de previsión y otros análogos, proveyendo al sostenimiento económico mediante los recursos necesarios y, muy fundamentalmente, la Mutualidad Nacional de Agentes Comisionistas de Aduanas, cuya constitución y fundamentos habrán de llevarse a efecto de acuerdo con lo establecido en la Ley de Montepíos y Mutualidades de 6 de diciembre de 1941, en el Reglamento de 26 de mayo de 1943 y demás disposiciones aplicables en la materia.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 75.
+
+## TÍTULO V — Régimen disciplinario
+
+##### Artículo 74.
+
+No se podrán imponer sanciones, sino en virtud de resolución recaída en expediente instruido al efecto, con arreglo al procedimiento regulado en el presente Estatuto.
+
+> Se modifica y renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 76.
+
+##### Artículo 75.
+
+Con independencia de las facultades que a la Administración le competen, de acuerdo con la Ley y los procedimientos establecidos, serán competentes para proponer la incoación de expedientes ante el respectivo Colegio Oficial, el Consejo General, la Junta General o la Junta de Gobierno del propio Colegio Oficial de Agentes y Comisionistas de Aduanas y cualquier Agente colegiado.
+
+> Se modifica y renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 77.
+
+##### Artículo 76.
+
+Todo expediente sancionador será tramitado independientemente y numerado correlativamente por orden de antigüedad y por el año de iniciación.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 78.
+
+##### Artículo 77.
+
+En todo caso, el procedimiento se iniciará mediante escrito de denuncia o pliego de cargos presentado por las personas u Organismos mencionados anteriormente ante la Junta de Gobierno del Colegio Oficial de Agentes y Comisionistas de Aduanas correspondiente.
+
+No se admitirán, en ningún caso, denuncias anónimas.
+
+La Junta de Gobierno, del respectivo Colegio, rechazará de plano, en resolución razonada, aquellas denuncias manifiestamente infundadas.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 79.
+
+##### Artículo 78.
+
+Recibida la denuncia o pliego de cargos, la Junta de Gobierno dará traslado de copia de la misma al denunciado, que deberá contestarla en el plazo máximo de ocho días, alegando cuanto a su derecho convenga y proponiendo todas aquellas pruebas de que intente valerse.
+
+Toda citación o notificación, se hará por carta certificada con acuse de recibo uniendo al expediente los comprobantes de correas.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 80.
+
+##### Artículo 79.
+
+Contestada la denuncia o pliego de cargos o transcurrido el plazo para hacerlo, la Junta de Gobierno del Colegio Oficial, de oficio o a instancia de parte, podrá acordar la apertura de un período probatorio por un plazo no superior a veinte días, a fin de que puedan practicarse las pruebas pertinentes.
+
+Durante el período probatorio, el inculpado podrá proponer la práctica de cualquier tipo de prueba, en defensa de sus intereses.
+
+Igual facultad tendrá la Junta de Gobierno del Colegio respectivo, practicando aquellas clases de pruebas que estime convenientes para un mejor esclarecimiento de los hechos.
+
+Cumplido el plazo, y previa audiencia al interesado, la Junta de Gobierno del Colegio respectivo deberá reunirse y adoptar, por mayoría, la resolución que proceda, que deberá ser comunicada al interesado mediante escrito razonado.
+
+En el supuesto de faltas muy graves, la resolución deberá estar ratificada por la Junta general.
+
+Si alguno de los miembros de la Junta de Gobierno estuviese disconforme con la resolución adoptada por mayoría emitirá un voto reservado, que se enviará a la Comisión de Disciplina del Consejo General, en caso de recurso.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 81
+
+##### Artículo 80.
+
+Las infracciones cometidas por los Agentes y Comisionistas de Aduanas, a los efectos del presente Estatuto, se clasificarán en muy graves, graves y leves.
+
+> Se renumera por el art. único.49 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 82.
+
+##### Artículo 81.
+
+Se consideran faltas muy graves:
+
+1.ª La colaboración efectiva y dolosa con los particulares para infringir las Leyes y Reglamentos, lesionando los intereses de la Administración.
+
+2.ª El otorgamiento de poderes a personas que no sean empleados efectivos de la Agencia; el mantenimiento de dichos poderes, aunque hubiesen sido otorgados con anterioridad a la publicación de estos Estatutos y cualquier otro acto a través del cual pueda favorecerse o producirse el intrusismo en la profesión.
+
+3.ª La alteración indebida de las cuentas oficiales que rindan a sus mandantes, salvo error justificable.
+
+4.ª Haber sido sancionado, con carácter firme, por la comisión de infracción por competencia desleal.
+
+> Se modifica y renumera por el art. único.50 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 83.
+
+##### Artículo 82.
+
+Son faltas gravas:
+
+1.ª El no conservar la documentación exigida durante el plazo mínimo establecido reglamentariamente.
+
+2.ª El incumplimiento de las órdenes que reciba de la Administración, del Consejo General o de su Colegio respectivo.
+
+3.ª Cualquiera de las anteriormente enumeradas como faltas muy graves, cuando a juicio de la Junta de Gobierno los hechos no tengan trascendencia para la calificación contenida en el articulo anterior.
+
+4.ª La concesión de poderes o autorización para despachos, sin el previo visado del Colegio local, antes de su presentación en la Aduana.
+
+> Se renumera por el art. único.51 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 84.
+
+##### Artículo 83.
+
+Son faltas leves las restantes infracciones a las obligaciones que les impongan las Ordenanzas de Aduanas, estos Estatutos, el Reglamento de Régimen Interior del Consejo General y el de los Colegios Locales.
+
+> Se renumera por el art. único.51 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 85.
+
+##### Artículo 84.
+
+Los Agentes colegiados que encubran faltas muy graves o graves cometidas por sus Apoderados o Auxiliares, incurrirán en responsabilidad, imponiéndoselos las sanciones correspondientes a faltas graves o leves, respectivamente. En igual responsabilidad incurrirán cuando, advertidos por la Administración, por el Consejo General o por el Colegio respectivo, no adopten las medidas procedentes respecto a tales Apoderados o Auxiliares.
+
+Por las mismas causas y en idéntica responsabilidad y sanción incurrirán los Agentes colegiados, personas jurídicas, en relación con la actuación de sus representantes y dependientes ante la Administración.
+
+> Se renumera por el art. único.52 y 53 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 87.
+
+##### Artículo 85.
+
+Las infracciones definidas en los artículos anteriores podrán ser sancionadas de la siguiente forma:
+
+1\. Las faltas muy graves con:
+
+a) Multa de 100.001 a 1.000.000 de pesetas.
+
+b) Suspensión de colegiación de tres meses a un año.
+
+c) Expulsión del Colegio Oficial correspondiente.
+
+El colegio correspondiente comunicará a la Aduana y al Departamento de Aduanas e Impuestos
+
+Especiales toda sanción firme que suponga suspensión o expulsión, precisando el período de expulsión, en caso de ser temporal.
+
+2\. Las faltas graves con:
+
+a) Apercibimiento escrito.
+
+b) Multa de 10.001 a 100.000 pesetas.
+
+3\. Las faltas leves con:
+
+a) Apercibimiento verbal.
+
+b) Multa de 1.000 a 10.000 pesetas.
+
+> Se modifica y renumera por el art. único.54 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 88.
+
+##### Artículo 86.
+
+Contra los acuerdos adoptados por las Juntas de Gobierno de los Colegios de Agentes y Comisionistas de Aduanas, salvedad hecha en cuanto al respecto se establezca en la normativa autonómica, cabrá interponer recurso de alzada ante el Consejo General en el plazo de un mes, a contar desde la fecha de notificación de la resolución correspondiente.
+
+> Se modifica y renumera por el art. único.55 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 89.
+
+##### Artículo 87.
+
+El Consejo General, a la vista de la trascendencia del hecho y el grado de malicia, poseerá potestad discrecional para imponer las sanciones que estime adecuadas, entre las que se establecen en los artículos anteriores, para cada tipo de infracción, pudiendo, incluso, imponer la inferior en grado en las faltas muy graves y graves.
+
+> Se renumera por el art. único.56 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 90.
+
+##### Artículo 88.
+
+A tal efecto, se constituirá en el seno del Consejo General la Comisión Disciplinaria integrada por el Presidente, el Secretario del Consejo más cinco miembros de éste, elegidos por el mismo, de acuerdo con las normas establecidas en el Reglamento de Régimen Interior del Consejo General.
+
+> Se renumera por el art. único.56 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 91.
+
+##### Artículo 89.
+
+Interpuesto el recurso de alzada, la Comisión de Disciplina del Consejo General designará, de entre sus miembros, un Ponente que impulsará el procedimiento y propondrá a la Comisión las resoluciones que, a su juicio, procedan, a fin de que ésta dicte la resolución oportuna.
+
+> Se modifica y renumera por el art. único.57 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 92.
+
+##### Artículo 90.
+
+Recibido el recurso, la Comisión de Disciplina dará traslado del mismo al Colegio de Agentes y Comisionistas de Aduanas respectivo, quien, en el plazo de veinte días, podrá presentar las alegaciones que estime pertinentes.
+
+> Se renumera por el art. único.58 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 93.
+
+##### Artículo 91.
+
+Del escrito de contestación al recurso, formulado por el Colegio oficial respectivo, se dará traslado al recurrente, para que en el plazo de quince días, formule escrito de conclusiones sucintas.
+
+Con idéntico fin y por igual plazo, de dicho escrito se dará traslado al Colegio oficial respectivo.
+
+> Se renumera por el art. único.58 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 94.
+
+##### Artículo 92.
+
+Concluido este trámite, el ponente propondrá a la Comisión de Disciplina la resolución que proceda, resolviendo la misma por mayoría.
+
+El acuerdo adoptado se comunicará por escrito al recurrente y al Colegio oficial respectivo.
+
+> Se renumera por el art. único.58 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 95.
+
+##### Artículo 93.
+
+Los acuerdos de la Comisión de Disciplina del Consejo General serán directamente recurribles ante la Jurisdicción Contencioso-Administrativa.
+
+> Se renumera por el art. único.58 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 96.
+
+## TÍTULO VI — Régimen de distinciones y premios
+
+##### Artículo 94.
+
+Se establece un sistema de recompensas y premios para los Colegiados que se distingan notoriamente en el campo de la profesión, la docencia o la investigación.
+
+Dicha distinción podrá consistir en el otorgamiento de diploma, medalla, placa u otro objeto significativo del reconocimiento a los méritos extraordinarios del interesado.
+
+Las propuestas, debidamente razonadas, podrán ser formuladas con carácter local por la Junta de Gobierno o por un número de colegiados superior a 10, y serán incluidos en el orden del día de la Asamblea a que haya de someterse la propuesta, y con carácter nacional, por un Colegio oficial o por la Comisión Permanente, incluyéndose, asimismo, en el orden del día de la primera sesión del Pleno del Consejo General.
+
+> Se renumera por el art. único.58 del Real Decreto 995/1999 de 11 de junio. [Ref. BOE-A-1999-14065](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-14065)
+
+> Su anterior numeración era art. 97.

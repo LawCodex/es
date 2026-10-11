@@ -1,0 +1,73 @@
+---
+title: "Real Decreto 927/1987 de 3 de julio, por el que se crea la representación permanente de España ante la Oficina de la Organización de Naciones Unidas y Organismos Internacionales con sede en Viena"
+identifier: "BOE-A-1987-16726"
+eli: "https://www.boe.es/eli/es/rd/1987/07/03/927"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio para las Administraciones Públicas"
+date: 1987-07-03
+published: 1987-07-17
+in_force_from: 1987-07-18
+last_amended: 1990-06-19
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 170"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1987-16726"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 927/1987 de 3 de julio, por el que se crea la representación permanente de España ante la Oficina de la Organización de Naciones Unidas y Organismos Internacionales con sede en Viena
+
+El continuo desarrollo de la cooperación internacional multilateral y la progresiva desconcentración de la Organización de Naciones Unidas han motivado el establecimiento en Viena de numerosos organismos internacionales y agencias especializadas de los mismos. Entre ellos destacan la Organización de las Naciones Unidas para el Desarrollo Industrial (ONUDI) y la Organización Internacional de la Energía Atómica (OTEA), así como diversos organismos dependientes de la Organización de Naciones Unidas en materia de Estupefacientes, Condición Jurídica y Social de la Mujer, Desarrollo Social, Bienestar Social, Refugiados Palestinos, Prevención del Delito y Tratamiento del Delincuente y Derecho Mercantil Internacional.
+
+La creciente importancia de tales organismos internacionales aconseja que España amplíe su representación ante los misma, actualmente limitada a un órgano unipersonal, el representante permanente ante los Organismos Internacionales con sede en Viena.
+
+En su virtud, a iniciativa del Ministro de Asuntos Exteriores y a propuesta del Ministro para las Administraciones Públicas, previa deliberación del Consejo de Ministros en su reunión del día 3 de julio de 1987,
+
+DISPONGO:
+
+### Art. 1.º
+
+Se crea la Representación Permanente de España ante la Oficina de la Organización de Naciones Unidas y las Organizaciones Internacionales con sede en Viena.
+
+### Art. 2.º
+
+La Jefatura de la Representación Permanente corresponde al Embajador representante permanente de Espada, que es nombrado mediante Real Decreto acordado en Consejo de Ministros, a propuesta del Ministro de Asuntos Exteriores.
+
+### Art. 3.º
+
+1\. La Representación Permanente estará dotada de los puestos comprendidos en la relación de puestos de trabajo correspondientes, entre los que figurarán un Representante Permanente Adjunto y Consejeros Técnicos.
+
+2\. El Representante Permanente Adjunto sustituirá al Jefe de la Misión en los casos de vacante, ausencia o enfermedad.
+
+3\. Los Consejeros Técnicos, que ejercerán sus funciones bajo la superior dirección del Representante Permanente o, en su caso, del Representante Adjunto, serán los siguientes:
+
+a) Un Consejero Técnico nombrado por el Ministerio de Asuntos Exteriores, a propuesta del de Industria y Energía, para la coordinación de la acción de la Representación Permanente de España ante los Organismos internacionales relacionados con la cooperación industrial y la energía.
+
+b) Un Consejero Técnico nombrado por el Ministerio de Asuntos Exteriores, a propuesta del de Asuntos Sociales, para la coordinación de la Representación Permanente de España ante los Organismos internacionales relacionados con asuntos sociales.
+
+c) Un Consejero Técnico nombrado por el Ministerio de Asuntos Exteriores, a propuesta del de Sanidad y Consumo, para la coordinación de la Representación Permanente de España ante los Organismos internacionales relacionados con temas de estupefacientes.
+
+4\. El resto del personal será nombrado por el Ministerio de Asuntos Exteriores en la forma y con los requisitos que determine la correspondiente relación de puestos de trabajo.
+
+> Se modifica por el art. único del Real Decreto 756/1990, de 15 de junio. [Ref. BOE-A-1990-13958](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-13958).
+
+## DISPOSICIONES FINALES
+
+### Primera.
+
+Se autoriza a los Ministros de Asuntos Exteriores y de Economía y Hacienda para que adopten las medidas necesarias pan la ejecución y desarrollo de este Real Decreto.
+
+### Segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 3 de julio de 1987.
+
+JUAN CARLOS R.
+
+El Ministro para las Administraciones Públicas,
+
+JOAQUÍN ALMUNIA AMANN

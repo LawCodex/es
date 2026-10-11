@@ -1,0 +1,123 @@
+---
+title: "Orden de 13 de septiembre de 1984 por la que se reestructura la composición y funcionamiento del Patronato del Festival Internacional de Música y Danza de Granada"
+identifier: "BOE-A-1984-22625"
+eli: "https://www.boe.es/eli/es/o/1984/09/13/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Cultura"
+date: 1984-09-13
+published: 1984-10-04
+in_force_from: 1984-10-24
+last_amended: 1986-03-27
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 238"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1984-22625"
+retrieved: 2026-10-11
+---
+
+# Orden de 13 de septiembre de 1984 por la que se reestructura la composición y funcionamiento del Patronato del Festival Internacional de Música y Danza de Granada
+
+Ilustrísimos señores:
+
+El Festival Internacional de Música y Danza de Granada se regula actualmente por una Orden de 27 de junio de 1970, dictada por el Ministerio de Educación y Ciencia, cuando dicho Departamento tenía asignadas las competencias de Música, a través de la Dirección General de Bellas Artes y de la desaparecida Comisaría de la Música. Con la creación del Ministerio de Cultura pasaron a este Departamento dichas competencias, sin que hasta la fecha se dictase ninguna norma para adecuar el funcionamiento del Festiva a la nueva situación administrativa.
+
+El prestigio conseguido por el Festival Internacional de Música y Danza de Granada a lo largo de treinta y dos ediciones ininterrumpidas, y la voluntad del Ministerio de Cultura de que permanezca como manifestación cultural de primer rango, con carácter internacional, y como acción preferente del Estado, en el marco de la Asociación Europea de Festivales Internacionales de Música, han aconsejado la conveniencia de elaborar una norma jurídica que no sólo regule la adscripción administrativa de esta manifestación, sino que promueva y potencie su funcionamiento recogiendo, al propio tiempo, la realidad constitucional del Estado de las Autonomías.
+
+Por ello, se contempla la existencia de un Patronato que, asumiendo los fines expuestos, de entrada en su organización, estructura y responsabilidades, junto a los representantes de la Administración Central, a las Instituciones de carácter local y autonómico más directamente interesadas en el desarrollo y proyección de esta manifestación, así como a otras Entidades locales vinculadas a la misma.
+
+En su virtud, previa aprobación de la Presidencia del Gobierno, a efectos de lo dispuesto en el artículo 130.2 de la Ley de Procedimiento Administrativo, he tenido a bien disponer:
+
+## Artículo 1.
+
+El Festival Internacional de Música y Danza de Granada es una manifestación de carácter anual, que tiene como finalidad esencial la difusión de la música y de la danza, en su más amplio sentido, con especial dedicación a la promoción de patrimonio musical español, a través de sus compositores, artistas, conjuntos e intérpretes.
+
+## Artículo 2.
+
+La ciudad de Granada será la sede del Festival, que se desarrollará entre los meses de junio y julio de cada año, teniendo como marco habitual los palacios y jardines del recinto de Alhambra y del Generalife, el Centro «Manuel de Falla» y cualquier otro espacio monumental de la ciudad, cuya utilización resulte aconsejable.
+
+Las actividades del Festival podrán, asimismo, proyectarse a otras localidades de la provincia que se estimen adecuadas para ello por sus características culturales, sociológicas o monumentales.
+
+## Artículo 3.
+
+Integrado en el Festival se desarrollará anualmente el curso «Manuel de Falla». Este curso cubrirá las enseñanzas superiores de la música en un alto nivel de perfeccionamiento, de modo que contribuya a completar y orientar con el máximo rango la cultura musical, atendiendo especialmente a los problemas más actuales de la creación e interpretación.
+
+## Artículo 4.
+
+Para la preparación, organización y gestión del Festival existirá un Patronato presidido por el Ministro de Cultura, que podrá funcionar en Pleno y en Comisión Ejecutiva.
+
+Dependerá del Patronato la Comisaria del Festival como órgano permanente, que tendrá la misión de someter a aquél el programa del Festival, así como realizarlo una vez acordada su ejecución. Al frente de la Comisaria del Festival habrá un Director designado por el Ministro de Cultura entre profesionales de la música o personalidades relevantes del mundo musical con capacidad de gestión, cuyos servicios serán retribuidos en la forma estipulada en el contrato al efecto formalizado entre el interesado y el Instituto Nacional de las Artes Escénicas y de la Música.
+
+> Se modifica por el art. 1 de la Orden de 11 de marzo de 1986. [Ref. BOE-A-1986-7949](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-7949).
+
+## Artículo 5.
+
+El Patronato del Festival contará con un Consejo de Dirección, integrado por el Ministro de Cultura, el Consejero de Cultura de la Junta de Andalucía y el Alcalde de Granada.
+
+## Artículo 6.
+
+1\. Formarán parte del Patronato como Vocales:
+
+El Director general del Instituto Nacional de las Artes Escénicas y de la Música (INAEM), del Ministerio de Cultura, que presidirá el Patronato en ausencia del Ministro de Cultura.
+
+El Director general de Teatro, Música y Cinematografía de la Junta de Andalucía.
+
+El Concejal de Cultura del Ayuntamiento de Granada.
+
+El Gobernador Civil de Granada.
+
+El Presidente de la Diputación de Granada.
+
+El Rector magnífico de la Universidad de Granada.
+
+El Director del Patronato de la Alhambra y el Generalife, dependiente de la Junta de Andalucía.
+
+El Director del Departamento Musical del INAEM.
+
+El Delegado provincial de la Consejería de Cultura de la Junta de Andalucía en Granada.
+
+Como Vocales de libre designación formarán parte de este Patronato dos personas designadas por el Ministerio de Cultura, dos por la Junta de Andalucía y dos por el Ayuntamiento de Granada.
+
+2\. Será Secretario del Patronato un miembro de la Comisaria del Festival, con voz pero sin voto, designado por el Ministro de Cultura a propuesta del Director de aquélla. Sus servicios serán retribuidos mediante contrato con el Instituto Nacional de las Artes Escénicas y de la Música.
+
+3\. A las sesiones del Patronato asistirá el Director de la Comisaria del Festival.
+
+> Se modifica por el art. 1 de la Orden de 11 de marzo de 1986. [Ref. BOE-A-1986-7949](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-7949).
+
+## Artículo 7.
+
+1\. En el seno del Patronato se constituirá una Comisión Ejecutiva permanente a la que quedarán atribuidas las siguientes funciones:
+
+a) Aprobación del proyecto del programa del Festival, presentado por la Comisaria del mismo.
+
+b) Seguimiento de la realización del programa del Festival aprobado.
+
+c) Vigilancia del cumplimiento de los acuerdos que se tomen.
+
+2\. La Comisión Ejecutiva estará presidida por el Director general del INAEM y se compondrá de los siguientes Vocales:
+
+El Director general de Teatro, Música y Cinematografía de la Junta de Andalucía.
+
+El Concejal de Cultura del Ayuntamiento de Granada.
+
+El Director del Departamento Musical del INAEM.
+
+El Secretario de la Comisión Ejecutiva será quien lo fuera del Pleno del Patronato.
+
+3\. A las sesiones de la Comisión Ejecutiva asistirá el Director de la Comisaria del Festival.
+
+> Se modifica por el art. 1 de la Orden de 11 de marzo de 1986. [Ref. BOE-A-1986-7949](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-7949).
+
+## Artículo 8.
+
+Queda derogada la Orden del 27 de junio de 1970 («Boletín Oficial del Estado» de 15 de julio) por la que se regulaba el funcionamiento del Festival Internacional de Música y Danza de Granada.
+
+Lo que comunico a VV.II. para su conocimiento y efectos.
+
+Madrid, 13 de septiembre de 1984.
+
+SOLANA MADARIAGA
+
+Ilmos. Sres. Subsecretario y Director general de Música y Teatro.

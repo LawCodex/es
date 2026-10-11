@@ -1,0 +1,61 @@
+---
+title: "Orden de 15 de febrero de 1997 por la que se determinan las armas de fuego a utilizar por los Guardas particulares del Campo para desempeñar funciones de vigilancia y guardería"
+identifier: "BOE-A-1997-3977"
+eli: "https://www.boe.es/eli/es/o/1997/02/15/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio del Interior"
+date: 1997-02-15
+published: 1997-02-25
+in_force_from: 1997-02-26
+last_amended: 1998-05-20
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 48"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-3977"
+retrieved: 2026-10-11
+---
+
+# Orden de 15 de febrero de 1997 por la que se determinan las armas de fuego a utilizar por los Guardas particulares del Campo para desempeñar funciones de vigilancia y guardería
+
+El artículo 3 del vigente Reglamento de Armas, aprobado por Real Decreto 137/1993, de 29 de enero, clasifica en la categoría 2.ª1 a las armas largas para vigilancia y guardería, especificando que dichas armas serán las que se determinen por Orden del Ministerio del Interior o mediante decisión adoptada a propuesta o de conformidad con el mismo, como específicas para desempeñar funciones de vigilancia y guardería.
+
+Por otro lado, el artículo 93.1 del Reglamento de Seguridad Privada, aprobado por Real Decreto 2364/1994, de 9 de diciembre, establece que el arma reglamentaria de los Guardas particulares del Campo, será el arma de fuego larga para vigilancia y guardería, determinada con arreglo al artículo 3 del Reglamento de Armas, facultando la disposición final primera de dicho Real Decreto al Ministro del Interior para dictar las disposiciones necesarias para su ejecución.
+
+Finalmente, el artículo 124 del Reglamento de Armas, relativo a las licencias para el ejercicio de funciones de custodia y vigilancia, contempla la posibilidad de que tales licencias autoricen el uso de armas de las categorías 1.ª, 2.ª1 ó 3.ª2, de conformidad con lo dispuesto en la respectiva regulación o, en su defecto, de acuerdo con el dictamen emitido por la Comisión Interministerial Permanente de Armas y Explosivos.
+
+En su virtud, y en uso de la facultad concedida a este Ministerio, dispongo:
+
+## Primero.
+
+Las armas de fuego específicas de los guardas particulares del campo, para desempeñar funciones de vigilancia y guardería, serán con carácter general las armas largas rayadas de repetición, concebidas para usar con cartuchería metálica, apta para su utilización con arma corta, de calibre 6,35, 7,65, 9 mm corto, 9 mm parabellum, 9 mm largo, 22LR, 22 Magnum, 38 especial y 357 Magnum.
+
+> Se modifica por el art. 1 de la Orden de 30 de abril de 1998. [Ref. BOE-A-1998-11715](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-11715).
+
+## Segundo.
+
+Cuando en el servicio a prestar concurran circunstancias extraordinarias que impidan o desaconsejen el uso de lar armas largas rayadas, determinadas en el apartado anterior, las empresas en las que prestan servicio los guardas, podrán solicitar de la Dirección General de la Guardia Civil, acreditando la concurrencia de dichas circunstancias, autorización para usar revólver calibre 38 especial o escopeta del calibre 12, de repetición, con cartuchos de 12 postas comprendidas en un taco con tenedor. Dicha Dirección General, previo informe de la Comisión Interministerial Permanente de Armas y Explosivos, y valorando las circunstancias concurrentes, concederá o denegará la autorización.
+
+> Se modifica por el art. 1 de la Orden de 30 de abril de 1998. [Ref. BOE-A-1998-11715](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-11715).
+
+## Tercero.
+
+Las armas autorizadas para el servicio de guardería, adquiridas y documentadas con anterioridad a la fecha de entrada en vigor de la presente Orden, con arreglo a la legislación anterior, se podrán seguir usando durante un período de cinco años, a contar desde dicha fecha, aun cuando no reúnan los requisitos del apartado primero.
+
+## Disposición adicional.
+
+Cuando, en el servicio a prestar por los Vigilantes de Seguridad, concurran circunstancias extraordinarias que impidan o desaconsejen el uso de las armas determinadas en el apartado decimonoveno de la Orden de 7 de julio de 1995, por lo que se da cumplimiento a diversos aspectos del Reglamento de Seguridad Privada, sobre personal, podrá utilizarse el arma larga rayada de repetición, determinada en el apartado primero de esa Orden, previa autorización de la Dirección General de la Guardia Civil, que resolverá teniendo en cuenta el informe de la Comisión Interministerial Permanente de Armas y Explosivos, y valorando las circunstancias concurrentes.
+
+## Disposición derogatoria.
+
+Sin perjuicio de lo dispuesto en el apartado tercero, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Orden, y en particular la Orden del Ministerio del Interior de 1 de febrero de 1983, por la que se determinan las armas para desempeñar las funciones de guardería.
+
+## Disposición final.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 15 de febrero de 1997.
+
+MAYOR OREJA

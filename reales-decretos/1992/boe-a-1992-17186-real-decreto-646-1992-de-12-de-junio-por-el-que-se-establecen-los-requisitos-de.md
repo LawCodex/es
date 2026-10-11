@@ -1,0 +1,217 @@
+---
+title: "Real Decreto 646/1992, de 12 de junio, por el que se establecen los requisitos de sanidad animal aplicables a los productos cárnicos importados de países terceros"
+identifier: "BOE-A-1992-17186"
+eli: "https://www.boe.es/eli/es/rd/1992/06/12/646"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1992-06-12
+published: 1992-07-22
+in_force_from: 1992-07-23
+last_amended: 1999-02-24
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 175"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1992-17186"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 646/1992, de 12 de junio, por el que se establecen los requisitos de sanidad animal aplicables a los productos cárnicos importados de países terceros
+
+La Directiva 80/215/CEE del Consejo, de 22 de enero de 1980, relativa a problemas de policía sanitaria en materia de intercambios intracomunitarios de productos a base de carne establece en su artículo 12 que, hasta la aplicación de normas comunitarias de policía sanitaria en las importaciones de países terceros, éstas no serán más favorables que las que fija dicha Directiva. El Real Decreto 1066/1990, de 27 de julio, por el que se establecen los requisitos de sanidad animal que deben reunir los productos cárnicos destinados al comercio intracomunitario e importados de terceros países incorpora a la normativa legal española la Directiva 80/215/CEE y establece en su artículo 13 que las importaciones de productos cárnicos procedentes de países terceros deberán cumplir las mismas exigencias de sanidad animal que las procedentes de otro Estado miembro de la CEE.
+
+La Directiva 89/227/CEE del Consejo, de 21 de marzo de 1989, por la que se modifican las Directivas 72/462/CEE del Consejo, de 12 de diciembre de 1972, y 77/99/CEE del Consejo, de 21 de diciembre de 1977, para tener en cuenta el establecimiento de las normas sanitarias y de policía sanitaria que deberán regular las importaciones de productos a base de carne procedentes de países terceros, concreta ya las normas sanitarias a las que la mencionada Directiva 80/215/CEE hacía referencia.
+
+Por tanto es necesario incorporar a la legislación española los requisitos de sanidad animal que establece la Directiva del Consejo 89/277/CEE de acuerdo con la competencia estatal contenida en el artículo 149.1.10 y 16 de la Constitución y derogar el artículo 13 del Real Decreto 1066/1990, de 27 de julio.
+
+A tal efecto, a propuesta del Ministro de Agricultura, Pesca y Alimentación y previa deliberación del Consejo de Ministros en su reunión del día 12 de junio de 1992,
+
+DISPONGO:
+
+## Artículo 1.
+
+El presente Real Decreto tiene por finalidad establecer los requisitos de sanidad animal que han de cumplir los productos cárnicos importados de países terceros, elaborados con carnes frescas procedentes de animales domésticos de las especies bovina (incluidos búfalos y bisontes), porcina, ovina, caprina y solípedos domésticos.
+
+## Artículo 2.
+
+A efectos de aplicación del presente Real Decreto serán de aplicación las siguientes definiciones:
+
+«Veterinario oficial»: El veterinario designado por la autoridad central competente de un país tercero.
+
+«País destinatario»: El Estado miembro con destino al cual se expiden los productos cárnicos procedentes de un país tercero.
+
+«País tercero»: El país al cual no le son de aplicación las Directivas relativas a intercambios intracomunitarios.
+
+«Importación»: La introducción en el territorio español de productos a base de carne procedentes de países terceros.
+
+## Artículo 3.
+
+Quedan excluidos del ámbito de aplicación del presente Real Decreto:
+
+1\. Los productos cárnicos elaborados con carnes frescas de ave.
+
+2\. Los productos cárnicos elaborados con las carnes frescas contempladas en el artículo 5 de la Directiva 64/433/CEE y en las disposiciones correspondientes del artículo 20 de la Directiva 72/462/CEE.
+
+## Artículo 4.
+
+El presente Real Decreto no se aplicará:
+
+a) A los productos a base de carne distintos de los que se contemplan en la letra d) contenidos en los equipajes personales de los viajeros y destinados a su propio consumo, en la medida en que la cantidad transportada no supere 1 kilogramo por persona y siempre que éstos procedan de un tercer país que figure en la lista establecida de conformidad con el artículo 5 y del cual no estuvieren prohibidas las importaciones, de conformidad con el artículo 7.
+
+b) A las carnes y productos a base de carne distintos de los que se contemplan en la letra d) que sean objeto de pequeños envíos dirigidos a particulares, siempre que se trate de importaciones desprovistas de cualquier carácter comercial, en la medida en que la cantidad expedida no supere 1 kilogramo y siempre que éstos procedan de un tercer país o de una parte de un tercer país que figure en la lista establecida de conformidad con el artículo 5 y del cual no estuvieren prohibidas las importaciones, de conformidad con el artículo 7.
+
+c) A los productos a base de carne que se encuentren, en concepto de abastecimiento del personal y de los pasajeros, a bordo de medios de transporte que efectúen transportes internacionales. Cuando se descarguen dichos productos a base de carne o sus residuos de cocina, deberán destruirse. No obstante, será posible no recurrir a la destrucción cuando los productos a base de carne pasen directamente o después de haber sido colocados provisionalmente bajo control aduanero, de dicho medio de transporte a otro.
+
+d) En la medida en que la cantidad no sobrepase 1 kilogramo a los productos a base de carne que hayan sido sometidos a un tratamiento por calor en recipiente hermético cuyo valor Fo sea superior o igual a 3,00, contenidos en el equipaje personal de los viajeros y destinados a su consumo personal o en forma de pequeños envíos dirigidos a particulares, siempre y cuando se trate de importaciones sin carácter comercial alguno.
+
+## Artículo 5.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.6 del Real Decreto 218/1999 de 5 de febrero. [Ref. BOE-A-1999-4526](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4526)
+
+## Artículo 6.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.6 del Real Decreto 218/1999 de 5 de febrero. [Ref. BOE-A-1999-4526](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4526)
+
+## Artículo 7.
+
+1\. Sin perjuicio de lo dispuesto en el apartado 2, los productos a base de carne importados de países terceros se habrán elaborado a partir de o con carnes frescas:
+
+‒ que cumplan con las condiciones de sanidad animal establecidas en el capítulo III del Real Decreto 110/1990, de 26 de enero, por el que se establecen las condiciones de sanidad animal que deben reunir las carnes frescas destinadas al comercio intracomunitario e importadas de países terceros, así como las eventuales condiciones específicas de sanidad animal que se puedan aplicar, o
+
+‒ procedentes de otro Estado miembro siempre que dichas carnes:
+
+a) Cumplan con las normas establecidas en la Directiva 80/215/CEE, del Consejo, de 22 de enero, incorporada al ordenamiento jurídico español mediante el Real Decreto 1066/1990, de 27 de julio, por el que se establecen los requisitos de sanidad animal que deben reunir los productos cárnicos destinados al comercio intracomunitario e importados de terceros países.
+
+b) Hayan sido conducidas, bajo control veterinario, al establecimiento de transformación ya sea directamente o después de ser almacenadas en un almacén frigorífico autorizado.
+
+c) Antes de ser tratadas hayan sido objeto de control por parte de un veterinario oficial para garantizar que siguen siendo aptas para ser objeto de un tratamiento de conformidad con la normativa comunitaria.
+
+2\. No obstante, el Estado español no podrá oponerse, por motivos de sanidad animal, a la importación de productos a base de carne procedentes de un país tercero o de una parte del mismo que figure en la lista de autorizaciones de «productos a base de carne» elaborada de conformidad con el artículo 5, pero a partir de los cuales no se encuentre autorizada o estándolo se haya prohibido la importación de carnes frescas, siempre que dichos productos cumplan los requisitos siguientes:
+
+a) Procedan de un establecimiento que, cumpliendo las condiciones generales de autorización, posea una autorización especial para dicho tipo de producción.
+
+b) Se hayan obtenido a partir o con las carnes frescas definidas en el apartado 1, o con carnes procedentes del país de fabricación que deberán:
+
+‒ Cumplir con los requisitos de sanidad animal que para cada caso se establezca por la CEE, en función de la situación sanitaria del país de fabricación.
+
+‒ Proceder de un matadero especialmente autorizado para la entrega de carnes al establecimiento contemplado en la letra a).
+
+‒ Estar provistos del sello oficial que establezca la CEE.
+
+c) Hayan sido sometidos a un tratamiento por calor en un recipiente herméticamente cerrado, cuyo valor Fo sea superior o igual a 3,00.
+
+Se podrán autorizar otros tratamientos en función de la situación zoosanitaria del país exportador.
+
+3\. Sin perjuicio de las disposiciones del apartado 2, si en un país tercero que figura en la lista establecida de conformidad con el artículo 5 del presente Real Decreto aparece o se extiende una epizootia susceptible de ser transmitida por los productos cárnicos y de comprometer la salud pública o la sanidad animal del país de destino o si cualquier otra razón de sanidad animal lo justifica, se prohibirá la importación de los productos cárnicos tanto si proceden directa como indirectamente, a través de otro Estado miembro, bien de un país tercero, bien de una parte sólo de su territorio.
+
+## Artículo 8.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.6 del Real Decreto 218/1999 de 5 de febrero. [Ref. BOE-A-1999-4526](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4526)
+
+## Artículo 9.
+
+1\. La autorización sanitaria de importación de productos a base de carne se condicionará a la presentación de un certificado sanitario y de un certificado de inspección veterinaria, cumplimentados por un veterinario oficial del tercer país exportador.
+
+2\. Dichos certificados deberán:
+
+a) Estar redactados al menos en la lengua española oficial del Estado, tanto si España es país de destino, como si en el mismo se efectúan los controles de la importación previstos en los artículos 10 y 11 del presente Real Decreto.
+
+b) Acompañar a los productos a base de carne el ejemplar original.
+
+c) Constar de un sólo documento.
+
+d) Estar previstos para un sólo destinatario.
+
+El certificado sanitario deberá ajustarse al modelo que establezca la Comisión de la CEE.
+
+> Se deroga el apartado 3 por la disposición derogatoria única.6 del Real Decreto 218/1999 de 5 de febrero. [Ref. BOE-A-1999-4526](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4526)
+
+## Artículo 10.
+
+1\. Los productos a base de carne serán sometidos sin demora, a su llegada al territorio nacional, a un control sanitario efectuado por la inspección veterinaria de aduanas, cualquiera que sea el régimen aduanero bajo el cual se hayan declarado.
+
+2\. Sin perjuicio de las disposiciones del apartado 3, se prohibirá la importación cuando dicho control revele que:
+
+‒ Los productos a base de carne no proceden del territorio o de una parte del territorio de un tercer país contemplado en el anexo C del presente Real Decreto.
+
+‒ Los productos a base de carne proceden del territorio o de una parte del territorio de un tercer país del cual estén prohibidas las importaciones de conformidad con el artículo 7.3.
+
+‒ El certificado sanitario que acompaña a los productos a base de carne no concuerda con las condiciones establecidas en aplicación de los apartados 1 y 2 del artículo 9 del presente Real Decreto.
+
+3\. Se autoriza el transporte de productos a base de carne procedentes de un tercer país con destino a otro tercer país siempre que:
+
+a) El interesado proporcione la prueba de que el primer tercer país al cual se envían los productos a base de carne, previo tránsito a través del territorio nacional, se compromete a no rechazar o reexpedir en ningún caso a este último los productos a base de carne de los que se autorice la importación o el tránsito.
+
+b) Dicho transporte sea autorizado con anterioridad por la Dirección General de Sanidad de la Producción Agraria del Ministerio de Agricultura, Pesca y Alimentación.
+
+c) Dicho transporte se efectúe por el territorio de la Comunidad sin ruptura de la cadena, en vehículos o contenedores precintados por la inspección veterinaria de aduanas y bajo su control. Las únicas manipulaciones autorizadas durante dicho transporte serán aquéllas efectuadas, respectivamente, en el punto de entrada en el territorio de la Comunidad o de salida de este último para el transbordo directo de un barco o de un avión a cualquier otro medio de transporte, o la inversa.
+
+4\. Todos los gastos ocasionados por la aplicación del presente artículo serán a cargo del expedidor, del destinatario o de su representante.
+
+## Artículo 11.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.6 del Real Decreto 218/1999 de 5 de febrero. [Ref. BOE-A-1999-4526](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4526)
+
+## Artículo 12.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.6 del Real Decreto 218/1999 de 5 de febrero. [Ref. BOE-A-1999-4526](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4526)
+
+## Artículo 13.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.6 del Real Decreto 218/1999 de 5 de febrero. [Ref. BOE-A-1999-4526](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4526)
+
+## Disposición adicional única.
+
+La presente disposición se dicta al amparo del artículo 149.1, 10 y 16 de la Constitución.
+
+## Disposición derogatoria única.
+
+Queda derogado el artículo 13 del Real Decreto 1066/1990, de 27 de julio, por el que se establecen los requisitos de sanidad animal que deben reunir los productos cárnicos destinados al comercio intracomunitario e importados de países terceros, así como cuantas disposiciones de igual o inferior rango en la medida en que se opongan a lo establecido en la presente disposicion.
+
+## Disposición final primera.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para dictar las disposiciones necesarias para el desarrollo del presente Real Decreto.
+
+## Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 12 de junio de 1992.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+PEDRO SOLBES MIRA
+
+## ANEXO A — (Modelo)
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.6 del Real Decreto 218/1999 de 5 de febrero. [Ref. BOE-A-1999-4526](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4526)
+
+## ANEXO B — (Modelo)
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.6 del Real Decreto 218/1999 de 5 de febrero. [Ref. BOE-A-1999-4526](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4526)
+
+## ANEXO C — Lista de países terceros autorizados para la importación de productos cárnicos a la CEE y especies a partir de las cuales se autoriza la elaboración de los productos
+
+**(Derogado).**
+
+> Se deoga por la disposición derogatoria única del Real Decreto 1288/1993, de 30 de julio. [Ref. BOE-A-1993-22405](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-22405)

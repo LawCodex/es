@@ -1,0 +1,1153 @@
+---
+title: "Real Decreto 1018/1980, de 19 de mayo, por el que se aprueban los Estatutos generales de la Organización Médica Colegial y del Consejo General de Colegios Oficiales de Médicos"
+identifier: "BOE-A-1980-10861"
+eli: "https://www.boe.es/eli/es/rd/1980/05/19/1018"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Seguridad Social"
+date: 1980-05-19
+published: 1980-05-28
+in_force_from: 1980-05-29
+last_amended: 2006-06-17
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 128"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1980-10861"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1018/1980, de 19 de mayo, por el que se aprueban los Estatutos generales de la Organización Médica Colegial y del Consejo General de Colegios Oficiales de Médicos
+
+La Organización Médica Colegial, a través de su Consejo General, ha elaborado los siguientes Estatutos, que somete a la aprobación del Gobierno, de conformidad con lo establecido en la Ley dos/mil novecientos setenta y cuatro/mil novecientos setenta y ocho, de veintiséis de diciembre, sobre Colegios Profesionales.
+
+En su virtud, a propuesta del Ministro de Sanidad y Seguridad Social y previa deliberación del Consejo de Ministros en su reunión del día dieciséis de mayo de mil novecientos ochenta,
+
+DISPONGO:
+
+#### Artículo único.
+
+Se aprueban los Estatutos Generales de la organización Médica Colegial y del Consejo General de Colegios Oficiales de Médicos.
+
+#### Disposición final.
+
+Quedan derogados el Reglamento de la Organización Médica Colegial aprobado por Orden del Ministerio de la Gobernación de uno de abril de mil novecientos setenta y siete y sus modificaciones posteriores, así como cuantas disposiciones, de igual o inferior rango, se opongan a lo dispuesto en el presente Real Decreto, que entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a diecinueve de mayo de mil novecientos ochenta.
+
+JUAN CARLOS R.
+
+El Ministro de Sanidad y Seguridad Social,
+
+JUAN ROVIRA TARAZONA
+
+## ESTATUTOS GENERALES DE LA ORGANIZACIÓN MÉDICA COLEGIAL
+
+## TÍTULO I — Disposiciones generales
+
+### CAPÍTULO I — Naturaleza jurídica de la Organización Médica Colegial
+
+#### Artículo 1. Naturaleza jurídica de la Organización Médica Colegial, representación y obligatoriedad.
+
+1\. La Organización Médica Colegial se integra por los Colegios Provinciales Oficiales de Médicos y por el Consejo General, que son corporaciones de derecho público, amparadas por la Ley General de Colegios Profesionales, con estructuras democráticamente constituidas, carácter representativo y personalidad jurídica propia, independientes de la Administración del Estado, de la que no forman parte integrante, sin perjuicio de las relaciones de derecho público que con ella legalmente les correspondan.
+
+2\. El Consejo General y los distintos Colegios Oficiales de Médicos, dentro de su propio y peculiar ámbito de actuación, gozan separada e individualmente de plena capacidad jurídica y de obrar, pudiendo adquirir a título oneroso o lucrativo, enajenar, vender, gravar, poseer y reivindicar toda clase de bienes; contraer obligaciones y, en general, ser titulares de toda clase de derechos, ejecutar o soportar cualquier acción judicial, reclamación o recurso en todas las vías y jurisdicciones, civil, penal, laboral, contencioso-administrativa y económico-administrativa e incluso los recursos extraordinarios de revisión y casación en el ámbito de su competencia.
+
+3\. La representación legal del Consejo General y de los Colegios, tanto en juicio como fuera de él, recaerá en sus respectivos Presidentes, quienes se hallarán legitimados para otorgar poderes generales o especiales a Procuradores, Letrados o cualquier clase de mandatarios, previo acuerdo de las Juntas Directivas.
+
+4\. Corresponde a la Organización Médica Colegial la representación exclusiva de la profesión médica, la ordenación en el ámbito de su competencia de la actividad profesional de los Colegiados y la defensa de sus intereses profesionales.
+
+Agrupa, por tanto, obligatoriamente a todos los Médicos que, de acuerdo con las leyes vigentes, ejerzan su profesión en cualquiera de sus modalidades, bien en forma independiente o bien al servicio de la Administración Central del Estado de las Comunidades Autónomas, Local o Institucional o de cualesquiera otras entidades públicas o privadas.
+
+Voluntariamente podrán solicitar su colegiación quienes, con título profesional médico, no ejerzan la profesión.
+
+5\. La Organización Médica Colegial adoptará el emblema que resulte del estudio heráldico correspondiente.
+
+### CAPÍTULO II — Relaciones con la Administración del Estado
+
+#### Artículo 2. Relaciones con la Administración del Estado.
+
+1\. La Organización Médica Colegial se relacionará con la Administración del Estado, a través del Ministerio de Sanidad y Seguridad Social.
+
+2\. La Organización Médica Colegial, a través de su Consejo General, informará preceptivamente los proyectos de Ley o de disposiciones de cualquier rango que se refieran a las condiciones generales de las funciones profesionales, entre las que figurarán el ámbito, los títulos oficiales requeridos, el régimen de incompatibilidades con otras profesiones y el de honorarios cuando se rijan por tarifas o aranceles. Cuando las disposiciones indicadas no alcancen ámbito estatal, el informe podrá ser emitido por los Colegios Oficiales de Médicos o por sus Agrupaciones.
+
+3\. Los Presidentes y Vicepresidentes del Consejo General y de los Colegios Oficiales de Médicos, así como de sus agrupaciones, tendrán la condición de autoridad en el ámbito corporativo y en el ejercicio de las funciones que les están encomendadas.
+
+4\. La Organización Médica Colegial, destinada a colaborar en la realización del bien común, gozará del amparo de la Ley y del reconocimiento por el Estado.
+
+5\. El Consejo General y los Colegios Provinciales tendrán el tratamiento de ilustre, y sus Presidentes, el de ilustrísimo.
+
+### CAPÍTULO III — Fines de la Organización Médica Colegial
+
+#### Artículo 3. Fines de la Organización Médica Colegial.
+
+Son fines fundamentales de la Organización Médica Colegial:
+
+1\. La ordenación, en el ámbito de su competencia, del ejercicio de la profesión médica, la representación exclusiva de la misma y la defensa de los intereses profesionales de los Colegiados, todo ello sin perjuicio de la competencia de la Administración Pública por razón de la relación funcionarial.
+
+2\. La salvaguardía y obsevancia de los principios deontológicos y ético-sociales de la profesión médica y de su dignidad y prestigio, a cuyo efecto le corresponde elaborar los Códigos correspondientes y la aplicación de los mismos.
+
+3\. La promoción, por todos los medios a su alcance, de la constante mejora de los niveles científico, cultural, económico y social de los Colegiados, a cuyo efecto podrá organizar y mantener toda clase de instituciones culturales y sistemas de previsión y protección social.
+
+4\. La colaboración con los poderes públicos en la consecución del derecho a la protección de la salud de todos los españoles y la más eficiente, justa y equitativa regulación de la asistencia sanitaria y del ejercicio de la medicina, así como cuantos corresponde y señala la Ley de Colegios Profesionales.
+
+### CAPÍTULO IV — Ámbito y distribución territorial de la Organización Médica Colegial
+
+#### Artículo 4. Competencia territorial.
+
+1\. El Consejo General de Colegios de Médicos extiende su competencia a todo el territorio español, teniendo residencia obligada, con la totalidad de sus servicios, en la capital del Estado.
+
+2\. Como Organismos intermedios existirán agrupaciones médicas adaptadas a la organizacion territorial del Estado.
+
+3\. Los Colegios Oficiales de Médicos tendrán jurisdicción dentro de los propios límites del territorio provincial respectivo, con sede en la capital de su provincia. Existirá también un colegio en Ceuta y otro en Melilla, a los que será de aplicación, en su ámbito limitado al correspondiente municipio, lo que se establece en estos Estatutos para los Colegios Provinciales.
+
+4\. En el ámbito de cada Colegio Provincial podrán existir cuantas demarcaciones comarcales, con su Junta Comarcal respectiva, determinen los Estatutos particulares del propio Colegio.
+
+### CAPÍTULO V — Órganos representativos y de gobierno
+
+#### Artículo 5. Órganos representativos y de gobierno.
+
+Los órganos representativos y de gobierno de la Organización Médica Colegial son los siguientes:
+
+a) El Consejo General de Colegios Oficiales de Médicos.
+
+b) Las agrupaciones de Colegios de Médicos.
+
+c) Los Colegios Oficiales de Médicos.
+
+## TÍTULO II — De los Colegios provinciales
+
+### CAPÍTULO I — Constitución y órganos de gobierno
+
+#### Artículo 6. Estatutos colegiales.
+
+Los Colegios elaborarán sus Estatutos particulares para regular su funcionamiento. Serán necesariamente aprobados por el Consejo General, siempre que estén de acuerdo con la Ley de Colegios Profesionales y con los presentes Estatutos generales.
+
+#### Artículo 7. Órganos de gobierno.
+
+Los órganos de gobierno de los Colegios Provinciales son:
+
+a) La Junta Directiva.
+
+b) La Asamblea General de Colegiados.
+
+#### Artículo 8. De las Juntas Directivas.
+
+Las Juntas Directivas estarán constituidas por un Pleno y una Comisión Permanente.
+
+#### Artículo 9. Constitución del Pleno.
+
+El Pleno de las Juntas Directivas estará integrado por:
+
+a) Un Presidente.
+
+b) Los Vicepresidentes.
+
+c) Un Secretario.
+
+d) Un Vicesecretario.
+
+e) Un Tesorero-Contador.
+
+f) Un representante de cada una de las Secciones o Grupos profesionales que tengan constituidos el Colegio y así lo determinen sus Estatutos particulares.
+
+Podrán existir cuantos Vicepresidentes sean necesarios para el desarrollo de la labor colegial.
+
+#### Artículo 10. Constitución de la Comisión Permanente.
+
+La Comisión Permanente estará integrada por:
+
+a) El Presidente.
+
+b) El Vicepresidente o Vicepresidentes.
+
+c) El Secretario.
+
+d) El Vicesecretario.
+
+e) El Tesorero-Contador.
+
+f) El Vocal o Vocales que determine el Estatuto particular de cada Colegio.
+
+#### Artículo 11. Condiciones para ser elegible.
+
+1\. Para todos los cargos: Ser español, estar colegiado, hallarse en ejercicio de la profesión y no estar incurso en prohibición o incapacidad legal o estatutaria.
+
+2\. Representantes médicos de las Secciones Colegiales o Grupos profesionales: Formar parte de la Sección o Grupo correspondiente.
+
+#### Artículo 12. Forma de elección.
+
+Presidente, Vicepresidente, Secretario, Vicesecretario y Tesorero-Contador, por votación de todos los Colegiados de la provincia; los demás Vicepresidentes que, en su caso, existan de acuerdo con lo que determine el Estatuto particular de cada Colegio y los representantes de cada una de las secciones colegiales, por elección de todos los Colegiados de la sección. Tales Secciones deberán estar debidamente constituidas dos meses antes de la convocatoria de elecciones.
+
+#### Artículo 13. Convocatoria.
+
+La convocatoria para las elecciones de los miembros componentes de las Juntas Directivas corresponderá a las Juntas Directivas provinciales, con la debida publicidad, señalando en ella los plazos para su celebración y concediendo de veinte a treinta días naturales para la presentación de candidaturas. De la convocatoria cada Colegio dará cuenta al Consejo con la debida antelación.
+
+#### Artículo 14. Candidatos.
+
+Deberán reunir los requisitos que señala el artículo 11 y solicitarlo por escrito de la Junta Directiva del Colegio. La solicitud podrá hacerse en forma individual o en candidatura conjunta.
+
+#### Artículo 15. Aprobación de las candidaturas.
+
+1\. Al día siguiente al de la expiración del plazo para la presentación de candidaturas, la Junta Directiva del Colegio se reunirá en sesión extraordinaria y proclamará la relación de los candidatos que reúnan las condiciones de elegibilidad. Las votaciones tendrán lugar a partir de los veinte días naturales siguientes.
+
+2\. Queda prohibida toda actividad electoral que implique descrédito o falta de respeto personal a los demás candidatos y en desacuerdo con los principios contenidos en el Código Deontológico, de obligada aplicación en todo el territorio nacional. El quebrantamiento de esta prohibición llevará aparejada la exclusión como candidato, por acuerdo de la Junta Directiva provincial, oída la Comisión de Deontología.
+
+#### Artículo 16. Procedimiento electivo.
+
+1\. La elección de los miembros de las Juntas Directivas será por votación, en la que podrán tomar parte todos los Colegiados con derecho a voto, pudiendo establecerse varios distritos electorales.
+
+Los Estatutos particulares de cada Colegio regularán la forma de votación, en caso de que existan varios distritos electorales.
+
+2\. El voto podrá ser emitido personalmente o por correo certificado, mediante papeletas separadas para cada uno de los cargos que se voten, o en una sola si forman candidatura unida, contenidas en un sobre especial cerrado, confeccionado por el Colegio, en cuyo exterior figurará la siguiente inscripción: «Contiene papeletas para la elección en la Junta Directiva del Colegio Oficial de Médicos de ............................. de los siguientes cargos: ...............................................
+
+Votante:
+
+Nombre y apellidos....................................................................
+
+Número de colegiado.................................................................
+
+Firma.........................................................................................
+
+Estos sobres especiales se remitirán por correo certificado y con antelación suficiente al Secretario del Colegio, dentro de otro en el que figurará de forma destacada la palabra «Elecciones». Abierto el sobre exterior, y previo reconocimiento de la firma por el Secretario, este custodiará sin abrir los sobres especiales hasta el momento de la elección, en que los pasará a la Mesa electoral, procediendo entonces el Presidente a su apertura y a depositar los votos en las urnas. Se admitirán los sobre llegados al Colegio hasta el momento de iniciarse la elección, destruyendo sin abrir los que se reciban con posterioridad.
+
+El voto personal anulará el voto emitido por correo.
+
+3\. La Mesa electoral estará constituida, en el día y hora que se fije en la convocatoria, por tres Colegiados y sus respectivos suplentes, que habrán de pertenecer a cada uno de los tres tercios de Colegiados, por orden de colegiación, y que realizarán la función de Interventores, y un Presidente designado por el Pleno de la Junta Directiva. Actuará de Secretario el miembro más joven. La designación de estos Interventores se hará por sorteo previa insaculación y será obligatoria la aceptación para el colegiado que corresponda. Cualquier candidatura podrá nombrar un Interventor en la Mesa electoral.
+
+Serán nulos todos los votos recaídos en personas que no figuren en las candidaturas aprobadas, así como las papeletas que contengan frases o expresiones distintas del nombre y cargo del candidato propuesto.
+
+Finalizada la votación, se procederá seguidamente al escrutinio de los votos obtenidos por cada candidato, concluido el cual el Presidente proclamará a los que resulten electos. Del desarrollo de la votación y del resultado del escrutinio se levantará acta seguidamente, firmada por todos los miembros de la Mesa, la cual se elevará al Consejo General para su conocimiento, expidiéndose por el Colegio los correspondientes nombramientos a los que hayan obtenido mayoría de votos.
+
+#### Artículo 17. Duración del mandato y causas del cese.
+
+Todos los nombramientos de cargos directivos tendrán un mandato de actuación de cuatro años, pudiendo ser reelegidos.
+
+1\. Los miembros de las Juntas Directivas de los Colegios Oficiales de Médicos cesarán por las causas siguientes:
+
+a) Expiración o término del plazo para el que fueron elegidos.
+
+b) Renuncia del interesado.
+
+c) Nombramiento para un cargo del Gobierno o de la Administración Pública central, autonómica, local o institucional, de carácter ejecutivo.
+
+d) Condena por sentencia firme, que lleve aparejada la inhabilitación para cargos públicos.
+
+e) Sanción disciplinaria firme por falta grave o muy grave.
+
+f) Pérdida de las condiciones de elegibilidad expresadas en el artículo 11.
+
+g) Nombramiento para un cargo del Consejo de los enumerados en el artículo 4.º, epígrafes a), b), c), d), e), h) e i), de las normas reguladoras del Consejo General.
+
+2\. El Consejo General adoptará las medidas que estime convenientes para completar provisionalmente, con los Colegiados más antiguos, las Juntas Directivas de los Colegios cuando se produzca el cese de más de la mitad de los cargos de aquellas. La Junta provisional así constituida ejercerá sus funciones, hasta que tomen posesión los designados en virtud de elección, que se celebrará conforme a las disposiciones de estos Estatutos, en un periodo máximo de seis meses.
+
+3\. Cuando no se dé el supuesto previsto en el número 2 de este artículo, las vacantes que se produzcan serán cubiertas en forma reglamentaria, pudiendo entre tanto designar la propia Junta Directiva a los Colegiados que hayan de sustituir temporalmente a los cesantes.
+
+Al cubrirse cualquiera de estos cargos por elección, la duración de los mismos alcanzará solamente hasta el próximo periodo electoral.
+
+#### Artículo 18. Reuniones del Pleno y de la Comisión Permanente.
+
+1\. El Pleno se reunirá ordinariamente una vez al mes, como mínimo, y extraordinariamente cuando lo solicite al menos un tercio de sus miembros o las circunstancias lo aconsejen, a juicio de la Comisión Pemanente o del Presidente.
+
+Las convocatorias para las reuniones del Pleno se harán por la Secretaría, previo mandato de la Presidencia, que fijará el orden del día con ocho días de antelación por lo menos. Se formularán por escrito e irán acompañadas del orden del día correspondiente. El Presidente tendrá facultad para convocar, en cualquier momento, con carácter de urgencia, al Pleno, cuando las circunstancias así lo exijan.
+
+Para que puedan adoptarse válidamente acuerdos en primera convocatoria será requisito indispensable que concurra la mayoría de los miembros que integran el Pleno de la Junta. En segunda convocatoria serán válidos los acuerdos adoptados por la mayoría simple, cualquiera que sea el número de asistentes. En caso de empate en la votación decidirá con voto de calidad el Presidente.
+
+Será obligatoria la asistencia a las sesiones. La falta no justificada a tres consecutivas se estimará como renuncia al cargo.
+
+2\. La Comisión Permanente se reunirá, por citación del Presidente, ordinariamente una vez al mes, y con mayor frecuencia cuando los asuntos lo requieran o lo soliciten por escrito tres de sus miembros.
+
+La convocatoria de la Comisión Permanente se cursará con cuarenta y ocho horas de antelación y obligatoriamente por escrito, quedando facultado el Presidente para convocar de urgencia.
+
+Los acuerdos se adoptarán en la forma prevista para los del Pleno.
+
+Deberá ser convocado a la Comisión Permanente cualquier otro miembro del Pleno de la Junta Directiva cuando hayan de tratarse asuntos de su competencia.
+
+### CAPÍTULO II — De los cargos de los Colegios provinciales
+
+#### Artículo 19. Del Presidente.
+
+El Presidente velará, dentro de la provincia por el cumplimiento de las prescripciones reglamentarias y de los acuerdos y disposiciones que se dicten por el Consejo General, Juntas Directivas u otros órganos de gobierno. Las disposiciones adoptadas en el ejercicio de sus funciones, según las facultades que le confieren los presentes Estatutos, deberán ser acatadas, sin perjuicio de las reclamaciones que contra ellas procedan.
+
+Además, le corresponderán en el ámbito provincial los siguientes cometidos:
+
+1.º Presidir todas las Juntas generales, ordinarias y extraordinarias y cualquier reunión de Colegiados a la que asista.
+
+2.º Nombrar todas las Comisiones, a propuesta en su caso de la Asamblea, del Pleno o de la Permanente, presidiéndolas si lo estimara conveniente.
+
+3.º Convocar, abrir, dirigir y levantar las sesiones.
+
+4.º Firmar las actas que le corresponda, después de ser aprobadas.
+
+5.º Recabar de los Centros administrativos correspondientes los datos que necesite para cumplir los acuerdos de la Junta del Colegio e ilustrarla en sus deliberaciones y resoluciones.
+
+6.º Autorizar el documento que apruebe la Junta Directiva como justificante de que el facultativo está incorporado al Colegio.
+
+7.º Autorizar los informes y comunicaciones que se dirijan a las autoridades, corporaciones o particulares.
+
+8.º Autorizar las cuentas corrientes bancarias, las imposiciones que se hagan y los talones o cheques para retirar cantidades.
+
+9.º Visar las certificaciones que se expidan por el Secretario del Colegio.
+
+10\. Aprobar los libramientos y órdenes de pago y libros de contabilidad.
+
+11\. Velar con el mayor interés por la buena conducta profesional de los Colegiados y por el decoro del Colegio.
+
+El cargo de Presidente será ejercido gratuitamente. Sin embargo, en los presupuestos colegiales se fijarán las partidas precisas para atender decorosamente a los gastos de representación de la Presidencia del Colegio.
+
+#### Artículo 20. De los Vicepresidentes.
+
+El Vicepresidente primero llevará a cabo todas aquellas funciones que le confiere el Presidente, asumiendo las de este en caso de ausencia, enfermedad, abstención o recusación sin necesidad de justificación ante terceros. Vacante la Presidencia, el Vicepresidente primero, previa ratificación de la Asamblea general, ostentará la Presidencia hasta la terminación del mandato.
+
+Lo dispuesto en este artículo es también aplicable, en su caso, a los demás Vicepresidentes, si los hubiere.
+
+#### Artículo 21. Del Secretario General.
+
+Independientemente de las otras funciones que se derivan de los presentes Estatutos, de las disposiciones vigentes y de las órdenes emanadas de la Presidencia, corresponde al Secretario general:
+
+1.º Redactar y dirigir los oficios de citación para todos los actos del Colegio, según las órdenes que reciba del Presidente y con la anticipación debida.
+
+2.º Redactar las actas de las Asambleas generales y de las reuniones que celebre la Junta Directiva, en Pleno y en Comisión Permanente, con expresión de los miembros que asisten, cuidando de que se copien después de aprobarlas, en el libro correspondiente firmándolas con el Presidente.
+
+3.º Llevar los libros que se precisen para el mejor y más ordenado servicio, debiendo existir aquel en que se anoten las sanciones que se impongan a los Colegiados.
+
+4.º Recibir y dar cuenta al Presidente de todas las solicitudes y comunicaciones que se remitan al Colegio.
+
+5.º Firmar con el Presidente el documento acreditativo de que el médico está incorporado al Colegio.
+
+6.º Expedir las certificaciones que se soliciten por los interesados.
+
+7.º Redactar anualmente la Memoria que refleje las vicisitudes del año, que habrá de leerse en la Asamblea general ordinaria, y que será elevada a conocimiento del Consejo General.
+
+8.º Asumir la dirección de los servicios administrativos y la Jefatura del personal del Colegio con arreglo a las disposiciones de este Reglamento, señalando, de acuerdo con la Comisión Permanente las horas que habrá de dedicar a recibir visitas y despacho de la Secretaría.
+
+El cargo de Secretario será retribuido con la asignación que acuerde la Junta Directiva.
+
+#### Artículo 22. Del Vicesecretario.
+
+El Vicesecretario, conforme acuerde la Junta Directiva, auxiliará en el trabajo al Secretario, asumiendo sus funciones en caso de ausencia, enfermedad, abstención, recusación o vacante, sin necesidad de justificación ante terceros.
+
+#### Artículo 23. Del Tesorero-Contador.
+
+Corresponde al Tesorero-Contador disponer lo necesario para que la contabilidad del Colegio se lleve por el sistema y con arreglo a las normas fijadas en el título V del presente Reglamento y a las que establezca el Consejo General, firmando los libramientos y cargaremes, que serán autorizados con las firmas del Presidente y Secretario de la Corporación, así como autorizar los cheques y talones de las cuentas corrientes bancarias.
+
+Todos los años formulará la Cuenta General de Tesorería, que someterá a la aprobación del Pleno de la Junta Directiva y de la Asamblea General. Del mismo modo procederá a redactar el proyecto de presupuesto, que será aprobado por la Junta Directiva y por la Asamblea general y suscribirá el balance que de la contabilidad se deduzca, efectuando los arqueos que correspondan de una manera regular y periódica.
+
+#### Artículo 24. De los representantes de las Secciones Colegiales o Grupos Profesionales.
+
+Corresponde a los representantes de las Secciones Colegiales o Grupos Profesionales desempeñar aquellas funciones que les sean específicas y las asignadas por la propia Junta Directiva.
+
+### CAPÍTULO III — De las Asambleas generales de los Colegios Provinciales
+
+#### Artículo 25. Naturaleza.
+
+La Asamblea General de Colegiados constituye el órgano supremo de la representación colegial a nivel provincial y a la misma deberá dar cuenta la Junta Directiva de su actuación. Los acuerdos tomados en Asamblea general serán vinculantes para todos los Colegiados.
+
+En los Colegios con censo superior a 500 Colegiados, o cuando así se halle previsto en sus Estatutos particulares, la Asamblea general podrá delegar sus funciones en una Asamblea de compromisarios elegida por sufragio universal, secreto y directo. Esta Asamblea de Compromisarios será obligatoria en los Colegios con censo superior a 2.000 Colegiados. Ello, no obstante, sin perjuicio que con carácter extraordinario y cuando las circunstancias lo aconsejen, a criterio del Pleno de la Junta, de la mitad más uno de los Compromisarios o a peticion del 25 por 100 de los Colegiados, se reúna la Asamblea general constituida por la totalidad de los Colegiados, pudiendo ser reducido dicho porcentaje por el Estatuto particular de cada Colegio.
+
+#### Artículo 26. Constitucion y funcionamiento.
+
+1\. La Asamblea general estará constituida por la totalidad de los Colegiados.
+
+2\. Cuando exista Asamblea de Compromisarios, estará constituida por el número de delegados que se establezca en el Estatuto particular de cada Colegio.
+
+3\. El procedimiento electivo de los Compromisarios, las convocatorias y la adopción de acuerdos se regulará en el Estatuto particular de cada Colegio.
+
+4\. La Asamblea general o, en su caso, la Asamblea de Compromisarios se convocará preceptivamente, como mínimo, una vez al año. El orden del día será fijado por el Pleno de la Junta Directiva.
+
+5\. En cualquier caso no será válido el voto delegado.
+
+### CAPÍTULO IV — De las Secciones Colegiales
+
+#### Artículo 27. Naturaleza.
+
+Las Secciones Colegiales o Grupos Profesionales agrupan a los Colegiados que con la misma modalidad y forma de ejercicio profesional participan de una problemática común.
+
+En cada Colegio existirán aquellas Secciones Colegiales o Grupos Profesionales que regule su Estatuto particular, sin perjuicio de que se puedan crear cualesquiera otras que el Pleno de la Junta Directiva estime de interés colegial.
+
+Deberán existir necesariamente las siguientes Secciones:
+
+a) Sección de Médicos Titulares.
+
+b) Sección de Medicina Rural.
+
+c) Sección de Médicos de Hospitales.
+
+d) Sección de Medicina Extrahospitalaria de la Seguridad Social.
+
+e) Sección de Médicos de Asistencia Colectiva.
+
+f) Sección de Médicos de Ejercicio Libre.
+
+g) Sección de Médicos graduados en los cinco últimos años y/o en formación.
+
+Asimismo deberá también existir necesariamente en todos los Colegios una Sección de Médicos Jubilados.
+
+#### Artículo 28.
+
+Las Secciones Colegiales o Grupos Profesionales tendrán como misión asesorar en los asuntos de su especialidad y elevar estudios y propuestas en los problemas de su competencia, tanto a la Junta Directiva como a la Asamblea general, que a su vez podrá delegar en las Secciones la gestión o promoción de asuntos con ellas relacionados.
+
+Los representantes de las Secciones formarán parte necesariamente de cuantas Comisiones negociadoras constituidas por las Juntas Directivas se puedan establecer para tratar problemas de ámbito de la Sección.
+
+### CAPÍTULO V — De las Juntas comarcales
+
+#### Artículo 29.
+
+1\. Cada Colegio podrá dividir su territorio provincial en comarcas. El número y demarcación de las mismas estará establecido en su Estatuto particular.
+
+2\. Al frente de cada comarca habrá una Junta Comarcal, elegida por los Colegiados de la demarcación por sufragio universal, secreto y directo.
+
+3\. Las Juntas Comarcales actuarán como asesoras de la Junta Directiva y desempeñarán las funciones de orden ejecutivo que esta les delegue, especificándose en los Estatutos particulares de cada Colegio su forma de constitución, convocatorias, procedimiento electivo y posibilidad de incorporación al Pleno de la Junta Directiva de los Presidentes de las mismas, en aquellos casos en que se estime necesario.
+
+### CAPÍTULO VI — De la Comisión de Deontología, Derecho médico y Visado
+
+#### Artículo 30.
+
+En los Colegios Provinciales existirá, con carácter obligatorio, una Comisión de Deontología, Derecho Médico y Visado. El nombramiento de los miembros de la misma lo efectuará la Junta Directiva.
+
+Los Estatutos particulares de cada Colegio señalarán el número de componentes de la Comisión que se consideren convenientes.
+
+Es función de la Comisión el asesorar a la Junta Directiva en todas las cuestiones y asuntos relacionados con las materias de su competencia, en los modos y términos que señalen los Estatutos de cada Colegio.
+
+## TÍTULO III — Régimen de competencias
+
+### CAPÍTULO I — De la competencia del Consejo General
+
+#### Artículo 31. De la competencia genérica del Consejo General.
+
+Corresponde al Consejo General de Colegios de Médicos el ejercicio de las funciones señaladas en sus normas, reguladoras propias, en relación con los fines que le están atribuidos en el artículo 3.º de estos Estatutos y en la Ley de Colegios Profesionales, por medio de sus órganos de Gobierno: La Asamblea, el Pleno y la Comisión Permanente.
+
+#### Artículo 32. De sus competencias específicas.
+
+Sin perjuicio de tal competencia general, le están atribuidas específicamente las siguientes misiones en orden a la defensa y promoción médica y científica:
+
+1\. En materia deontológica:
+
+La vigilancia del ejercicio profesional. El control de la publicidad y propaganda profesional y de las informaciones aparecidas en los medios de comunicación social que tengan carácter o hagan referencia profesional y puedan dañar a la salud pública o a los legítimos intereses, prestigio y dignidad tradicionales de la profesión médica.
+
+A tal efecto se constituirá en el seno del Consejo General una Comisión Central de Deontología, Derecho Médico y Visado para asesorar al Consejo en todas las cuestiones y asuntos relacionados con la materia de su competencia; informar los recursos interpuestos ante el Consejo contra las decisiones de los Colegios en estas cuestiones y tramitar las comunicaciones que corresponda elevar a la administración en estas materias.
+
+2\. En materia profesional:
+
+Para la debida aplicación de lo dispuesto en el artículo primero, apartado cuatro, sobre representación exclusiva de la Organización Médica Colegial se constituirán unas Comisiones asesoras de las asociaciones médicas y sociedades científicas adscritas a la Secretaría General, a fin de poder canalizar sus problemas profesionales a través del Consejo General, dentro de la competencia que le atribuyen la Ley de Colegios Profesionales y estos Estatutos.
+
+Asimismo la Organizacion Médica Colegial podrá recabar de dichas asociaciones y sociedades cuantos asesoramientos sean necesarios en cuestiones específicas.
+
+3\. En materia jurídica y fiscal:
+
+Asesorar a los Colegios en cuanto se refiere a la problemática profesional.
+
+A tal efecto existirá en el Consejo General:
+
+a) Una Asesoría Jurídica que tendrá por misión la información, asesoramiento y defensa contemplados en el artículo tercero de estos Estatutos y en las normas reguladoras del Consejo General de Colegios de Médicos.
+
+b) Una Asesoría Económico-Fiscal que tendrá por objeto realizar los estudios pertinentes en relación con los problemas tributarios que afecten a la profesión médica, dando información y asesoramiento que faciliten la labor desarrollada a este respecto por los Colegios. Esta Sección se constituirá en Comisión con seis representantes de Colegios Provinciales, para colaborar en el estudio y ordenación del problema tributario a escala nacional.
+
+4\. En materia informativa:
+
+El órgano de expresión de la Organización Médica Colegial será editado por el Consejo General y se regirá de conformidad con una normativa que habrá de ser establecida por la Asamblea de Presidentes, y en él colaborarán de forma permanente las Juntas Directivas y las Secciones de los Colegios, miembros del Consejo y Secciones del mismo, así como los Colegiados que lo deseen.
+
+A tal efecto, el Gabinete Técnico del Consejo General desarrollará una labor complementaria de información profesional mediante circulares, estudios monográficos y documentación básica y coyuntural, que enviará a los Colegios para su difusión entre los Colegiados, sin perjuicio de otras informaciones en la prensa general y a través de los servicios de Relaciones Públicas y Prensa de dicho Gabinete.
+
+5\. En materia económica:
+
+a) Corresponde al Consejo General aprobar sus propios presupuestos y regular y fijar las aportaciones de los Colegios.
+
+b) Igualmente podrá subvencionar el régimen económico de los Organismos colegiales que lo precisen, en cuyo caso podrá inspeccionar la marcha económica de estos y aprobar sus presupuestos y balances.
+
+c) La Asamblea de Presidentes podrá acordar, de conformidad con las disposiciones vigentes, la emisión de pólizas e impresos, a fin de obtener los recursos necesarios para el cumplimiento de los altos fines que le están encomendados.
+
+d) El Consejo General sostendrá el Patronato de Protección Social.
+
+### CAPÍTULO II — De la competencia de los Colegios Provinciales
+
+#### Artículo 33. De la competencia genérica de los Colegios Provinciales.
+
+Corresponde a los Colegios Provinciales, en su ámbito territorial, el ejercicio de las funciones que les atribuye el artículo 5.º de la Ley de Colegios Profesionales, y, en lo que sea de aplicación al ámbito, las señaladas en las normas reguladoras del Consejo General de Colegios de Médicos, en relación con los fines atribuidos en el artículo 3.º de estos Estatutos.
+
+#### Artículo 34. De sus competencias específicas.
+
+Sin perjuicio de tal competencia general, les están atribuidas específicamente las siguientes funciones:
+
+a) Asumir la representación de los Médicos de la provincia ante las autoridades y Organismos de la misma.
+
+b) Defender los derechos y prestigio de los Colegiados que representan o de cualquiera de ellos, si fueran objeto de vejación, menoscabo, desconsideración o desconocimiento en cuestiones profesionales, siempre que la trascendencia de los hechos no rebase el ámbito puramente provincial. Examinar y denunciar las cuestiones relacionadas con el intrusismo de la profesión.
+
+c) Llevar el censo de profesionales, el registro de títulos y el fichero de partidos médicos de la provincia, con cuantos datos de todo orden se estimen necesarios para una mejor información y elaborar las estadísticas que se consideren convenientes para la realización de estudios, proyectos y propuestas relacionadas con el ejercicio de la medicina.
+
+d) Aplicar las normas deontológicas que regulen el ejercicio de la medicina.
+
+e) Requerir a cualquier colegiado para que cumpla sus deberes éticos o legales de contenido profesional.
+
+f) Sancionar los actos de los Colegiados que practiquen una competencia desleal, cometan infracción deontológica o abusen de su posición como profesional médico.
+
+g) Ejecutar las sanciones impuestas por infracciones deontológicas.
+
+h) Estudiar las relaciones económicas de los profesionales con sus clientes, pudiendo requerir y hasta corregir disciplinariamente, según los casos, a aquellos Colegiados cuya actuación pueda deprimir, en este aspecto, el decoro profesional.
+
+i) Regular los honorarios mínimos correspondientes al ejercicio libre de la profesión médica, informar en los procedimientos en que se discutan tarifas u honorarios médicos y, en general, representar y defender los intereses de la profesión médica ante la Administración, Instituciones, Tribunales, Entidades y particulares, de acuerdo con las disposiciones vigentes en cada caso.
+
+j) Encargarse del cobro de las percepciones, remuneraciones u honorarios profesionales, con carácter general o a petición de los interesados, en los casos en que el Colegio tenga creados los servicios adecuados y en las condiciones que se determinen en los Estatutos del mismo.
+
+k) Cooperar con los poderes públicos, a nivel provincial y/o autonómico, en la fomulación de la política sanitaria y de los planes asistenciales y en su ejecución, participando en cuantas cuestiones afecten o se relacionen con la promoción de la salud y la asistencia sanitaria.
+
+l) Elaborar y ejecutar programas formativos de carácter cultural o científico a nivel provincial que complementen las previsiones formuladas en el plan del Consejo General.
+
+ll) Desarrollar la gestión de los servicios e instituciones de carácter provincial en relación con la finalidad de previsión y protección social en el ámbito profesional.
+
+m) Recaudar los ingresos necesarios para la financiacion de dichas instituciones con sujección a lo que dispone el título V de estos Estatutos.
+
+n) Instar a los Organismos públicos o privados para que doten en el ejercicio profesional a los Colegiados de los mínimos de material y personal necesarios para ejercer una medicina de calidad.
+
+## TÍTULO IV — De la colegiación
+
+#### Artículo 35. Obligatoriedad de la colegiación.
+
+1\. Será requisito indispensable para el ejercicio de la profesión médica, en cualquiera de sus modalidades, la incorporación al Colegio Oficial de Médicos en cuyo ámbito territorial se pretenda ejercer la profesión.
+
+2\. A tal efecto, se considera como ejercicio profesional la prestación de servicios médicos en sus distintas modalidades, aun cuando no se practique el ejercicio privado o se carezca de instalaciones.
+
+3\. De toda inscripción, alta o baja, se dará inmediata cuenta al Consejo General.
+
+4\. En casos excepcionales y justificados, y previo acuerdo de las Juntas Directivas respectivas, podrá permitirse la doble colegiación, con o sin ejercicio, dando cuenta al Consejo General y dejando constancia de ello en el expediente personal del interesado.
+
+#### Artículo 36. Inscripción.
+
+1\. Para todo Médico que trate de ejercer en el territorio de una provincia es obligatoria la previa inscripción en el Colegio respectivo y la residencia dentro del ámbito provincial.
+
+2\. La inscripción se efectuará precisamente en el Colegio de la provincia en donde ejerza la profesión el interesado.
+
+3\. Podrán solicitar su inscripción en los Colegios Médicos de su residencia los Facultativos que no ejerzan la profesión con el carácter y las condiciones que se establezcan en estos Estatutos.
+
+4\. Para colegiarse será requisito indispensable inscribirse en los grupos mínimos obligatorios de Previsión Sanitaria Nacional, salvo en los correspondientes a Cataluña y Baleares, que podrán optar por suscribirlos en Mutual Médica de Cataluña y Baleares, sin que exista incompatibilidad de simultanear voluntariamente ambas inscripciones.
+
+#### Artículo 37. Solicitudes de colegiación.
+
+1\. Para ser admitido en un Colegio provincial se acompañará a la solicitud el correspondiente título profesional original o testimonio notarial del mismo y cuantos otros documentos o requisitos se estimen necesarios por el Colegio respectivo.
+
+2\. Cuando el solicitante proceda de otra provincia, deberá presentar además certtificado de baja librado por el Colegio de origen, utilizando el modelo establecido al efecto por el Consejo General, en el que se exprese si está al corriente de pago de las cuotas colegiales y se acredite que no está inhabilitado temporal o definitavamente para el ejercicio de la profesión.
+
+3\. El solicitante hará constar si se propone ejercer la profesión, lugar en el que va a hacerlo y modalidad de aquella, aportando los títulos de especialista oficialmente expedidos o reconocidos por el Ministerio de Universidades e Investigación si va a ejercer como Médico Especialista.
+
+4\. La Junta Directiva acordará, en el plazo máximo de un mes, lo que estime pertinente acerca de la solicitud de inscripción, practicando en este plazo las comprobaciones que crea necesarias y pudiendo interesar del solicitante documentos y aclaraciones complementarias.
+
+5\. Para el supuesto caso de los Médicos recién graduados que no hubieren recibido aún el título de Licenciado en Medicina y Cirugía, la Junta Directiva podrá conceder una colegiación transitoria, siempre y cuando el interesado presente un recibo de la Universidad que justifique tener abonados los derechos de expedición del título correspondiente, el cual tendrá obligación de presentar en el Colegio para su registro, cuando le sea facilitado.
+
+6\. Para la colegiación de Médicos extranjeros se atendrá a lo que determinen las disposiciones vigentes.
+
+#### Artículo 38. Denegación de colegiación y recursos.
+
+1\. La solicitud de colegiación será denegada en los siguientes casos:
+
+a) Cuando los documentos presentados con la solicitud de ingreso sean insuficientes u ofrezcan dudas sobre su legitimidad y no se hayan completado o subsanado en el plazo señalado al efecto o cuando el solicitante haya falseado los datos y documentos necesarios para su colegiacion.
+
+b) Cuando el peticionario no acredite haber satisfecho las cuotas de colegiado en el Colegio de origen.
+
+c) Cuando hubiere sufrido alguna condena por sentencia firme de los Tribunales que en el momento de la solicitud le inhabilite para el ejercicio profesional.
+
+d) Cuando hubiere sido expulsado de otro Colegio sin haber sido rehabilitado.
+
+e) Cuando al formular la solicitud se hallare suspenso del ejercicio de la profesión, en virtud de corrección disciplinaria impuesta por otro Colegio o por el Consejo General.
+
+Obtenida la rehabilitación o desaparecidos los obstáculos que se opusieran a la colegiación, ésta deberá aceptarse por el Colegio sin dilación ni excusa alguna.
+
+2\. Si en el plazo previsto en el punto 4 del artículo 37 la Junta Directiva acordase denegar la colegiación pretendida, lo comunicará al interesado dentro de los quince días siguientes a la fecha del acuerdo denegatorio, expresando los fundamentos del mismo y los recursos de que es susceptible.
+
+3\. En el término de los quince días siguientes a la recepción de la notificación del acuerdo denegatorio, podrá el interesado formular recurso de alzada ante el Consejo General el cual resolverá en el plazo máximo de sesenta días. Contra el acuerdo denegatorio podrá el interesado recurrir ante la jurisdicción contencioso-administrativa, de conformidad con el artículo octavo de la Ley de Colegios Profesionales.
+
+#### Artículo 39. Trámites posteriores a la admisión.
+
+Admitido el solicitante en un Colegio Provincial, se le expedirá la tarjeta de identidad correspondiente, dándose cuenta de su inscripción al Consejo General en el modelo de ficha normalizada que este establezca.
+
+Asimismo, se abrirá un expediente en el que se consignará sus antecedentes y actuación profesional. El colegiado estará obligado a facilitar en todo momento los datos precisos para mantener actualizados dichos antecedentes.
+
+#### Artículo 40. Sanciones por la no colegiación.
+
+1\. El médico en ejercicio que no haya solicitado la colegiación incurrirá en sanción, consistente en multa de 1.000 a 5.000 pesetas, que podrá imponer la Junta Directiva del Colegio, cuyo pago será inexcusable para que el sancionado pueda recibir la credencial de colegiado.
+
+2\. El interesado podrá elevar recurso de alzada contra el acuerdo de sanción dentro del plazo de quince días de serle notificado el mismo ante el Consejo General, y contra el fallo de este queda abierta la vía contencioso-administrativa.
+
+3\. Si el sancionado continuase sin colegiarse, se le prohibirá el ejercicio profesional, comunicándolo a las autoridades sanitarias, gubernativas y Colegios Profesionales y publicándolo en la Prensa profesional y provincial respectiva, dando cuenta al Consejo General a fin de que este autorice las medidas excepcionales pertinentes para el riguroso cumplimiento de esta obligación.
+
+#### Artículo 41. Clases de Colegiados.
+
+1\. A los fines de estos Estatutos, los Colegiados se clasificarán:
+
+a) Con ejercicio.
+
+b) Sin ejercicio.
+
+c) Honoríficos.
+
+d) Miembros de honor.
+
+2\. Serán Colegiados con ejercicio cuantos practiquen la medicina en cualquiera de sus diversas modalidades.
+
+3\. Serán Colegiados sin ejercicio aquellos Médicos que deseando pertenecer a la Organización Médica Colegial no ejerzan la profesión.
+
+4\. Serán Colegiados honoríficos los Médicos que hayan cumplido los setenta años de edad y los que se encuentren en estado de invalidez o incapacidad física total y no los hayan cumplido, siempre que en ambos casos lleven un mínimo de veinticinco años de colegiación.
+
+Los Colegiados honoríficos estarán exentos de pagar las cuotas colegiales y las de protección, y esta categoría colegial por edad es compatible con el ejercicio profesional que su Estado psicofísico les permita.
+
+5\. Serán Colegiados de Honor aquellas personas, Médicos o no, que hayan realizado una labor relevante y meritoria en relación con la profesión médica. Esta categoría será puramente honorífica y acordada en Asamblea general a propuesta del Pleno.
+
+6\. Cuando por sus relevantes méritos el Médico jubilado o inválido se haga acreedor a superior distinción, será propuesto para una recompensa a la autoridad sanitaria y elevado a la consideración de Colegiado de Honor.
+
+#### Artículo 42. Derechos de los Colegiados.
+
+1\. Los Colegiados tendrán los siguientes derechos:
+
+a) Participar en la gestión corporativa y, por tanto, ejercer el derecho de petición, el de voto y el de acceso a los puestos y cargos directivos, mediante los procedimientos y con los requisitos que los Estatutos generales y particulares establezcan.
+
+b) Ser defendidos, a petición propia, por el Colegio o por el Consejo General cuando sean vejados o perseguidos con motivo del ejercicio profesional.
+
+c) Ser representados y apoyados por el Colegio o por el Consejo General y sus Asesorías Jurídicas cuando necesiten presentar reclamaciones fundadas a las autoridades, tribunales, entidades públicas o privadas, y en cuantas divergencias surjan en ocasión del ejercicio profesional, siendo de cargo del colegiado solicitante los gastos y costas jurídicas que el procedimiento ocasione, salvo decisión contraria de la Junta Directiva o del Consejo General.
+
+d) Pertenecer a las Instituciones de Previsión Sanitaria Nacional, Mutua Médica de Cataluña y Baleares, en su caso, Patronato de Huérfanos y Protección Social y aquellas otras que pueda establecerse en el futuro.
+
+e) No ser limitado en el ejercicio profesional, salvo que este no discurra por un correcto cauce deontológico o por incumplimiento de las normas de este Estatuto que lo regulan.
+
+f) No soportar otras cargas corporativas que las señaladas por las Leyes, estos Estatutos o las válidamente acordadas.
+
+#### Artículo 43. Deberes de los Colegiados.
+
+Los Colegiados tendrán los siguientes derechos:
+
+a) Cumplir lo dispuesto en los Estatutos generales y particulares y las decisiones de los Colegios Provinciales y del Consejo General, salvo cuando se trate de acuerdos nulos de pleno derecho, en cuyo caso deberán exponer al Colegio, por escrito, los motivos de su actitud.
+
+b) Estar al corriente en el pago de las cuotas colegiales, de los Patronatos y de Previsión Sanitaria Nacional o Mutual Médica de Cataluña y Baleares, en su caso.
+
+c) Llevar con la máxima lealtad las relaciones con el Colegio y con los otros Colegiados, comunicando a aquel cualquier vejamen o atropello a un compañero en el ejercicio profesional, de que tengan noticia.
+
+d) Comunicar al Colegio los cargos que ocupen en relación con su profesión y especialidades que ejerzan con su título correspondiente, a efectos de constancia en sus expedientes personales.
+
+e) Participar igualmente sus cambios de residencia o domicilio.
+
+f) Solicitar del Colegio la debida autorización para cualquier anuncio relacionado con sus actividades profesionales, que debe acomodarse a lo que señala el Código Deontológico, absteniéndose de publicarlo sin obtener la debida aprobación. Igualmente para la publicación de noticias o actuaciones médicas a difundir por cualquier medio, observará las prescripciones del Código Deontológico.
+
+g) Cumplir cualquier requerimiento que les haga el Colegio o el Consejo General y específicamente prestar apoyo a las Comisiones a las que fueren incorporados.
+
+h) Tramitar por conducto del Colegio Provincial correspondiente, que dará curso con su preceptivo informe, toda petición o reclamación que hayan de formular al Consejo General.
+
+#### Artículo 44. Prohibiciones.
+
+Además de las prohibiciones señaladas en el Código Deontológico, de rigurosa observancia, y de lo establecido en los artículos anteriores, todo colegiado se abstendrá de:
+
+a) Ofrecer la eficacia garantizada de procedimientos curativos o de medios personales que no hubiesen recibido la consagración de Entidades científicas o profesionales médicas de reconocido prestigio.
+
+b) Tolerar o encubrir a quien sin poseer el título de Médico trate de ejercer la profesión.
+
+c) Emplear fórmulas, signos o lenguajes convencionales en sus recetas, así como utilizar estas si llevan impresos nombres de preparados farmacéuticos, títulos de casa productoras o cualquier otra indicación que pueda servir de anuncio.
+
+d) Ponerse de acuerdo con cualquier otra persona o entidad para lograr fines utilitarios que sean ilícitos o atentatorios a la corrección profesional.
+
+e) Emplear reclutadores de clientes.
+
+f) Vender o administrar a los clientes, utilizando su condición de médico, drogas, hierbas medicinales, productos farmacéuticos o especialidades propias.
+
+g) Prestarse a que su nombre figure como Director facultativo o asesor de Centros de curación, industrias o empresas relacionadas con la medicina, que no dirijan o asesoren personalmente o que no se ajusten a las Leyes vigentes y al Código Deontológico.
+
+h) Aceptar remuneraciones o beneficios directos o indirectos en cualquier forma, de las casas de medicamentos, utensilios de cura, balnearios, sociedades de aguas minerales o medicinales, ópticas, etc., en concepto de comisión, como propagandista o como proveedor de clientes, o por otros motivos que no sean de trabajos encomendados de conformidad con las normas vigentes.
+
+i) Emplear para el tratamiento de sus enfermos medios no controlados científicamente y simular o fingir la aplicación de elementos diagnosticos y terapéuticos.
+
+j) Realizar prácticas dicotómicas.
+
+k) Ejercer la profesión en Colegio distinto del de su colegiación, salvo razones de urgencia o cuando dicho ejercicio quede exclusivamente limitado a prestar asistencia a quienes fueran sus parientes o cuando la permanencia en territorio de otro Colegio sea motivada por actos médicos con colegiados de dicho territorio que solo exijan una permanencia accidental y transitoria en el punto donde se realicen.
+
+l) Desviar a los enfermos de las consultas públicas de cualquier índole hacia la consulta particular, con fines interesados.
+
+m) Permitir el uso de su clínica a personas que, aun poseyendo el título de Licenciado o Doctor en Medicina, no hayan sido dados de alta en el Colegio de Médicos respectivo.
+
+n) Ejercer la medicina cuando se evidencien manifiestamente alteraciones orgánicas, psíquicas o hábitos tóxicos que le incapaciten para dicho ejercicio, previo el reconocimiento médico pertinente.
+
+#### Artículo 45. Divergencias entre Colegiados.
+
+Las diferencias de carácter profesional que pudieran surgir entre Colegiados serán sometidas a las jurisdicción y ulterior resolución de la Junta Directiva o, en su caso, al Consejo General, si se tratara de Colegiados pertenecientes a distintas provincias o miembros de las Juntas Directivas.
+
+## TÍTULO V — Del régimen económico y financiero
+
+#### Artículo 46. Competencias.
+
+La economía de los Colegios es independiente de la del Consejo General, por lo que cada Colegio será autónomo en la gestión y administración de sus bienes, sin perjuicio de que deba contribuir al presupuesto del Consejo General en proporción tal y como se señala en el artículo 32, apartado 5, a).
+
+#### Artículo 47. Confección y liquidación de presupuestos del Consejo General.
+
+El Consejo General presentará a la aprobación de la Asamblea de Presidentes durante la primera quincena del mes de diciembre de cada año el proyecto de presupuesto de ingresos y gastos necesarios para su correcto funcionamiento.
+
+Dentro del primer trimestre de cada año, la Asamblea de Presidentes deberá aprobar el balance y la liquidación presupuestaria, cerrados al 31 de diciembre del año anterior, acompañando a los mismos la justificación de los ingresos y pagos efectuados.
+
+Las cuentas del Consejo General se examinarán y aprobarán mensualmente por la Comisión Permanente.
+
+#### Artículo 48. Confección y liquidación de presupuestos de los Colegios Provinciales.
+
+Los Colegios Médicos Provinciales confeccionarán anualmente el proyecto de presupuesto de sus ingresos y gastos, debiendo presentarlo durante el último trimestre de cada año a la aprobación de la Asamblea general de Colegiados correspondiente o en aquellos casos en que exista a la Asamblea de compromisarios.
+
+Asimismo, dentro del primer trimestre de cada año, los Colegios provinciales deberán presentar ante la Asamblea general de Colegiados o a la Asamblea de compromisarios, en aquellos casos en que esta exista, el balance y liquidación presupuestaria cerrados al 31 de diciembre del año anterior, para su aprobación o rechazo. Previamente dicho balance, acompañado de los justificantes de ingresos y gastos efectuados, habrá quedado a disposición de la respectiva Comisión de Hacienda nombrada por la Asamblea, así como de cualquier colegiado que lo requiera.
+
+Caso de que para equilibrarse un presupuesto se precise la subvención del Consejo, se necesitará la previa aprobación de este.
+
+#### Artículo 49. Recursos económicos.
+
+Los fondos de los Colegios serán los procedentes de las cuotas de entrada y cuotas ordinarias y extraordinarias, la participación asignada en las certificaciónes, sellos autorizados, impresos de carácter oficial, la parte fijada o que se fije en lo sucesivo por prestaciones de servicios generales, habilitación, tasación, etc., y los legados o donativos que se le hicieren por particulares o profesionales y, en general, cuantos puedan arbitrarse con la anuencia previa del Consejo General.
+
+#### Artículo 50. Cuotas de entrada.
+
+Los Colegiados satisfarán al inscribirse en cada Colegio una cuota de entrada uniforme, cuyo importe fijará y podrá modificar el Consejo General.
+
+A petición del interesado, y previa conformidad de la Junta Directiva respectiva, se podrá conceder el pago de esta cuota en un plazo máximo de un año.
+
+#### Artículo 51. Cuotas ordinarias.
+
+Los Médicos Colegiados, con o sin ejercicio, vienen obligados a satisfacer las cuotas mensuales, cuyo mínimo será fijado por el Consejo General, pudiendo incrementarlas los respectivos Colegios, previo acuerdo de la Asamblea. Los Colegiados con doble colegiación vienen obligados a satisfacer las cuotas de los Colegios a que pertenezcan, así como la de los Patronatos.
+
+El colegiado que no abone tres mensualidades consecutivas será requerido para hacerlas efectivas, concediéndosele al efecto un plazo prudencial, transcurrido el cual, y hasta un total de seis mensualidades, se le recargará un 20 por 100.
+
+Transcurridos los seis meses, el Colegio suspenderá al colegiado en el ejercicio de su profesión hasta que por este sea satisfecha su deuda, sin que tal suspensión le libere del pago de las cuotas que se continúen devengando, y sin perjuicio de que el Colegio proceda al cobro de los débitos, recargos y gastos originados.
+
+No podrá librarse certificación colegial, ni aun la de baja, al colegiado moroso.
+
+Las Juntas Directivas están facultadas para conceder el aplazamiento de pago de cuotas y débitos en las condiciones que acuerden en cada caso particular.
+
+#### Artículo 52. Cuotas extraordinarias.
+
+En caso de débitos o pagos extraordinarios, los Colegios, previo acuerdo adoptado por las Asambleas generales o de compromisarios, podrán establecer cuotas extraordinarias, que serán satisfechas obligatoriamente por los Colegiados. En estas cuotas de carácter extraordinario no llevará participación el Consejo General.
+
+#### Artículo 53. Recaudación de cuotas.
+
+Las cuotas, tanto de entrada como ordinarias, serán recaudadas por el respectivo Colegio de Médicos, el cual extenderá los recibos correspondientes, remitiendo mensual o trimestralmente al Consejo General relación numérica de los cobrados o abonando al Consejo General la participación que se establezca.
+
+La recaudación de las cuotas de los Patronatos de Huérfanos y Protección Social se efectuará en la forma y cuantía que determine el Pleno del Consejo General, a propuesta de los mismos.
+
+Igualmente los Colegios recaudarán los derechos que les correspondan por habilitación, dictámenes y tasaciones, reconocimientos de firmas, sanciones y cuantas prestaciones o servicios se establezcan en favor de los Colegiados.
+
+#### Artículo 54. Liquidación de cuotas.
+
+De las cuotas de entrada y cuotas colegiales ordinarias se destinará el 80 por 100 para los fondos del Colegio Provincial, y el 20 por 100 restante se remitirá al Consejo General del Colegio.
+
+#### Artículo 55. Gastos.
+
+Los gastos de los Colegios serán solamente los necesarios para el sostenimiento decoroso de los servicios, sin que pueda efectuarse pago alguno no previsto en el presupuesto aprobado, salvo casos justificados, en los cuales, y habida cuenta de las disposiciones de Tesorería, la Junta Directiva podrá acordar la habilitación de un suplemento de crédito, previa aprobación de la Asamblea general.
+
+Sin la autorización expresa del Presidente y Tesorero no podrá realizarse gasto alguno. En la Caja del Colegio existirá la cantidad necesaria para hacer frente a los pagos del mismo, negociándose estos, siempre que sea posible, por una Entidad bancaria o por las Secciones Económicas del Colegio, si las hubiere.
+
+#### Artículo 56. Responsabilidades.
+
+La responsabilidad del manejo de los fondos queda vinculada directamente al funcionario encargado de su custodia, el cual estará sujeto a la obligación de constituir la fianza que se fije por la Junta Directiva en garantía de su gestión.
+
+Cuando un Colegio Provincial no cumpla sus obligaciones respecto al Consejo General de Colegios Médicos o a los Organismos de protección médica o de previsión, o cuando la situación económica del mismo lo aconsejara, la Comisión Permanente del Consejo General, por sí o a propuesta de las Entidades mencionadas, podrá acordar la intervención de la contabilidad de dicho Colegio, dando cuenta al Pleno, que emitirá obligatoriamente su informe y designará un Interventor que, con gastos y retribución a cargo del Colegio intervenido, actuará con Plenos poderes económicos hasta la normalización de la economía colegial, considerándose preferentes las atenciones que correspondan a los débitos que motivaron la intervención.
+
+#### Artículo 57. Destino de los bienes en caso de disolución.
+
+En caso de disolución del Consejo General o de los Colegios Provinciales, se nombrará una Comisión Liquidadora tanto a nivel de Consejo General como de Colegio, la cual, en caso de que hubiere bienes y valores sobrantes, después de satisfacer las deudas, adjudicará los mismos a las Entidades benéficas y de previsión oficial de la Organización Médica Colegial dentro del ámbito territorial correspondiente.
+
+## TÍTULO VI — Certificados médicos
+
+#### Artículo 58. Organización, edición y distribución.
+
+El Consejo General de la Organización Médica Colegial es el único organismo autorizado para editar y distribuir los impresos de los certificados médicos oficiales, cualquiera que sea la finalidad de los mismos, correspondiéndole la organización y dirección de este servicio y a los Colegios la distribución de aquellos dentro de su territorio.
+
+#### Artículo 59. Clases e importe de los certificados.
+
+Al Consejo General de Colegios, y previos los trámites legales reglamentarios, corresponde fijar las clases de certificados, el importe de los mismos y su actualización.
+
+Se establecen inicialmente los siguientes:
+
+1.ª Certificado médico ordinario.–Para todos los efectos que no exijan otro de las clases indicadas a continuación.
+
+2.ª Certificado médico ordinario de beneficencia.–De uso limitado a las personas incluidas en los padrones de beneficencia, o que por sus especiales condiciones el Colegio establezca Impreso gratuito.
+
+3.ª Certificado médico de defunción.–Que se utilizará para acreditar aquella, con la forma, requisitos y efectos señalados en las Leyes y Reglamentos vigentes.
+
+4.ª Certificado médico de defunción en beneficencia.–Para su uso en las circunstancias señaladas en el número 3.º con las personas comprendidas en la definición del número 2.º Impreso gratuito.
+
+5.ª Certificado médico para enfermos psíquicos.–Para acreditar afecciones psíquicas, a efectos del ingreso de pacientes en establecimientos psiquiátricos.
+
+6.ª Certificado médico para enfermos psíquicos de beneficencia.–Que se utilizará en las condiciones señaladas en el apartado 5.º para las personas comprendidas en la definición del número 2.º Impreso gratuito.
+
+7.ª Actas de exhumación y embalsamamiento.–En las que se extenderán las correspondientes a la indicada operación y a los embalsamamientos de cadáveres.
+
+8.ª Actas de exhumación y embalsamamiento de beneficencia. Para uso de las personas comprendidas en la definición del número 2.º Impreso gratuito.
+
+9.ª Certificado médico para conductores de vehículos.
+
+10\. Certificado médico para poseedores autorizados de armas de fuego.
+
+Cada certificado médico oficial podrá llevar adherida una póliza del Patronato de Huérfanos de uso voluntario, debiendo reintegrarse, además, conforme a las disposiciones vigentes.
+
+El importe de los impresos de los certificados médicos se distribuirá del siguiente modo:
+
+1.º Al Consejo General de Colegios Médicos, el 10 por 100.
+
+2.º Al Colegio Provincial, el 70 por 100.
+
+3.º Al Patronato de Huérfanos de Médicos, el 10 por 100.
+
+4.º Al Patronato de Protección Social, el 10 por 100.
+
+El Consejo General de Colegios podrá concertar con las Entidades, Mutualidades y Montepíos, Instituto Nacional de la Salud, Sociedades de Seguro y Accidentes de Trabajo, Vida, Decesos y Seguro Libre las condiciones de expedición de los documentos preceptivos de las mismas para informes, dictámenes, certificaciónes, partes de altas y bajas y de cualquier otra actuación que acredite servicios médicos, señalando los derechos correspondientes a los mencionados documentos y la distribución de los ingresos obtenidos entre el Patronato de Huérfanos, el propio Consejo General y el Colegio Provincial correspondiente. Se exceptúan de dichos conciertos, y tendrán carácter de gratuidad, los que sean de régimen interno del organismo, los expresamente regulados por disposiciones de rango igual o superior y los que determine el Ministerio para su expedición por los servicios dependientes del mismo.
+
+#### Artículo 60. Derechos para los Médicos.
+
+La expedición de los certificados es gratuita por parte de los Médicos, pero estos percibirán, cuando proceda, los honorarios que se fijen libremente por los actos médicos y restantes operaciones que tengan que efectuar para extenderlos.
+
+#### Artículo 61. Inspección.
+
+Los Colegios Médicos inspeccionarán el uso del certificado médico oficial, y comunicarán al Consejo General las infracciones que se comprueben, acreditadas mediante el acta oportuna, para que este adopte las medidas pertinentes, todo ello sin perjuicio de las atribuciones sancionadoras que a aquellos competen sobre sus propios Colegiados.
+
+## TÍTULO VII — De la receta médica
+
+#### Artículo 62.
+
+La Organización Médica Colegial velará por el cumplimiento de las normas legales sobre la receta médica como documento profesional y adoptará las medidas que considere más idóneas para garantizar su correcto uso y prescripción. Asimismo, el Consejo General, a través de los Colegios Oficiales de Médicos, podrá acordar la edición y distribución de impresos normalizados de recetas para el ejercicio libre.
+
+## TÍTULO VIII — Régimen disciplinario
+
+#### Artículo 63. Principios generales.
+
+1\. Los Colegiados incurrirán en responsabilidad disciplinaria en los supuestos y circunstancias establecidas en este Estatuto.
+
+2\. El régimen disciplinario establecido en este Estatuto se entiende sin perjuicio de las responsabilidades de cualquier otro orden en que los colegiados hayan podido incurrir.
+
+3\. No podrán imponerse sanciones disciplinarias, sino en virtud de expediente instruido al efecto, con arreglo al procedimiento establecido en el presente capítulo. No obstante, no será preceptiva la previa instrucción de expediente para la imposición de sanciones motivadas por la Comisión de faltas calificadas de leves, previa audiencia del interesado.
+
+4\. La potestad sancionadora corresponde a las Juntas Directivas de los Colegios Oficiales de Médicos. No obstante, el enjuiciamiento y sanción de las faltas cometidas por los miembros de dichas Juntas Directivas, será competencia de la Asamblea de Presidentes.
+
+5\. Los acuerdos sancionadores serán inmediatamente ejecutivos, sin perjuicio de los recursos que procedan. No obstante, en el caso de que dicha ejecución pudiera ocasionar perjuicios de imposible o difícil reparación, el Organismo sancionador podrá acordar de oficio o a instancia de parte la suspensión de la ejecución del acuerdo recurrido.
+
+6\. Los Colegios darán cuenta inmediata al Consejo General de todas las sanciones que impongan por faltas graves o muy graves, con remisión de un extracto del expediente. El Consejo General llevará un registro de sanciones.
+
+#### Artículo 64. Faltas disciplinarias.
+
+Las faltas disciplinarias se clasificarán en leves, menos graves, graves y muy graves.
+
+1\. Son faltas leves:
+
+a) El incumplimiento de las normas establecidas sobre documentación colegial, o que hayan de ser tramitadas por su conducto.
+
+b) La negligencia en comunicar al Consejo las vicisitudes profesionales para su anotación en el expediente personal.
+
+c) La desatención respecto a los requisitos o peticiones de informes solicitados por el Colegio.
+
+2\. Son faltas menos graves:
+
+a) No corresponder a la solicitud de certificación o información en los términos éticos cuando ello no suponga un peligro para el enfermo.
+
+b) Indicar una competencia o título que no se posea.
+
+c) No someter los contratos al visado de los Colegios respectivos.
+
+d) El abuso manifiesto en la nota de honorarios o que estos sean inferiores a los establecidos como mínimos.
+
+e) La reiteración de las leves dentro del año siguiente a la fecha de su corrección.
+
+3\. Son faltas graves:
+
+a) La indisciplina deliberadamente rebelde frente a los Órganos de Gobierno colegiales y, en general, la falta grave del respeto debido a aquellos.
+
+b) Los actos y omisiones que atenten a la moral, decoro, dignidad, prestigio y honorabilidad de la profesión, o sean contrarios al respeto debido a los colegiados.
+
+c) La infracción grave del secreto profesional, por culpa o negligencia, con perjuicio para tercero.
+
+d) El incumplimiento de las normas sobre restricción de estupefacientes y la explotación de toxicomanías.
+
+e) La emisión de informes o expedición de certificados con falta a la verdad.
+
+f) La reiteración de las faltas menos graves durante el año siguiente a su corrección.
+
+4\. Son faltas muy graves:
+
+a) Cualquier conducta constitutiva de delito doloso, en materia profesional.
+
+b) La violación dolosa del secreto profesional.
+
+c) El atentado contra la dignidad de las personas con ocasión del ejercicio profesional.
+
+d) La desatención maliciosa o intencionada de los enfermos.
+
+e) La reiteración de las faltas graves durante el año siguiente a su corrección.
+
+5\. El incumplimiento de los deberes establecidos en el artículo 43 de estos Estatutos, la incursión en cualquiera de las prohibiciones señaladas en el artículo 44 o el incumplimiento de las normas del Código Deontológico, que no estén especificados en los números 1, 2, 3 y 4 serán calificados por similitud a los incluidos en los números citados de este artículo.
+
+Será oída la Comisión Deontológica en todo caso antes de imponerse cualquier sanción.
+
+#### Artículo 65. Sanciones disciplinarias.
+
+1\. Por razón de las faltas a que se refiere el artículo precedente, pueden imponerse las siguientes sanciones:
+
+a) Amonestación privada.
+
+b) Apercibimiento por oficio.
+
+c) Suspensión temporal del ejercicio profesional.
+
+d) Expulsión del Colegio.
+
+2\. Las faltas leves serán corregidas con la sanción de amonestación privada, que será impuesta por acuerdo de la Junta Directiva.
+
+3\. Por la Comisión de faltas menos graves se impondrá la sanción de apercibimiento por oficio.
+
+4\. La Comisión de falta calificada de grave, se sancionará con la suspensión del ejercicio profesional por tiempo inferior a un año.
+
+5\. La Comisión de falta calificada como muy grave se sancionará con suspensión del ejercicio profesional por tiempo superior a un año e inferior a dos.
+
+6\. La sanción de expulsión del Colegio llevará anexa la inhabilitación para incorporarse a cualquier otro mientras no sea expresamente autorizado por el Consejo General. Esta sanción solamente podrá imponerse por la reiteración de faltas muy graves, y el acuerdo que determine su imposición deberá ser adoptado por el Pleno de la Junta Directiva, con la asistencia de las dos terceras partes de los miembros correspondientes del mismo y la conformidad de la mitad de quienes lo integran.
+
+7\. Para la imposición de sanciones deberán los Colegios graduar la responsabilidad del inculpado en relación con la naturaleza de la infracción cometida, trascendencia de esta y demás circunstancias modificativas de la responsabilidad, teniendo potestad para imponer la sanción adecuada, si fuera más de una la que se establezca para cada tipo de faltas.
+
+8\. En caso de sanción por falta muy grave que afecte al interés general se podrá dar publicidad en la prensa colegial.
+
+#### Artículo 66. Extinción de la responsabilidad disciplinaria.
+
+1\. La responsabilidad disciplinaria se extinguirá:
+
+a) Por muerte del inculpado.
+
+b) Por cumplimiento de la sanción.
+
+c) Por prescripción de las faltas.
+
+d) Por prescripción de las sanciones o por acuerdo del Colegio respectivo, ratificado por el Consejo General.
+
+2\. Las anotaciones de sanciones serán canceladas definitivamente, siempre que, una vez cumplida la sanción, los Colegiados observen buena conducta después de transcurridos: tres meses para las leves, seis meses para las menos graves, dos años para las graves y cinco años para las muy graves.
+
+3\. Las faltas prescriben una vez transcurrido un año desde su comisión sin haberse decretado la incoación del oportuno expediente, salvo las que constituyan delito, que tendrán el mismo plazo de prescripción que este si fuese mayor del año.
+
+#### Artículo 67. Competencia.
+
+Las faltas leves se corregirán por el Presidente del Colegio, por acuerdo de la Junta Directiva, de conformidad con lo previsto en el artículo 63.3.
+
+La sanción de las restantes faltas será de la competencia de la Junta Directiva, previa la instrucción de un expediente disciplinario y conforme el procedimiento que se regula en el artículo siguiente.
+
+En el caso de presuntas faltas cometidas por colegiados de otras provincias, el expediente se tramitará y resolverá en el Colegio donde se ha cometido la misma, comunicándolo al de su procedencia, a través del Consejo General.
+
+Las funciones disciplinarias con respecto a los miembros de las Juntas Directivas de los Colegios y del propio Consejo corresponderán a este.
+
+#### Artículo 68. Procedimiento.
+
+1\. El procedimiento se iniciará de oficio o a instancia de parte, siempre mediante acuerdo del órgano competente, bien por propia iniciativa o por denuncia.
+
+2\. La Junta Directiva del Colegio, al tener conocimiento de una supuesta infracción, podrá decidir la instrucción de una información reservada antes de acordar la incoación de expediente o, en su caso, el archivo de las actuaciones, bien sin imposición de sanción por sobreseimiento, o bien con la de alguna de las previstas para corregir faltas leves.
+
+3\. Decidido el procedimiento, el órgano que acordó su iniciación podrá adoptar las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer, si existieran elementos de juicio suficientes para ello. No se podrán tomar medidas provisionales que puedan causar perjuicios irreparables a los interesados, o bien que impliquen la violación de derechos amparados por las leyes.
+
+4\. La Junta Directiva, al acordar la incoación del expediente, designará como Juez Instructor a uno de sus miembros o a otro colegiado. El designado deberá tener mayor antigüedad en el ejercicio profesional que el expedientado o, en su defecto, al menos diez años de colegiación. Desempeñará obligatoriamente su función, a menos que tuviera motivos de abstención o que la recusación promovida por el expedientado fuere aceptada por la Junta. Esta podrá también designar Secretario o autorizar al Instructor para nombrarlo entre los colegiados.
+
+5\. Solo se considerarán causa de abstención o recusación el parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, la amistad íntima o enemistad manifiesta o tener interés personal en el asunto.
+
+6\. A los efectos del ejercicio del derecho de recusación, los nombramientos de Instructor y Secretario serán comunicados al expedientado, quien podrá hacer uso de tal derecho del plazo de ocho días del recibo de la notificación.
+
+7\. El expedientado puede nombrar a un colegiado para que actúe de defensor u hombre bueno, lo que le será dado a conocer, disponiendo de un plazo de diez días hábiles, a partir del recibo de la notificación, para comunicar a la Junta Directiva el citado nombramiento, debiendo acompañar la aceptación del mismo por parte del interesado. El defensor asistirá a todas las diligencias propuestas por el Juez Instructor y podrá proponer la práctica de otras en nombre de su defendido.
+
+Asimismo, el expedientado podrá acudir asistido de Letrado.
+
+8\. Compete al Instructor disponer la aportación de los antecedentes que estime necesarios y ordenar la práctica de cuantas pruebas y actuaciones conduzcan al esclarecimiento de los hechos o a determinar las responsabilidades susceptibles de sanción.
+
+9\. Además de las declaraciones que presten los inculpados, el Instructor les pasará en forma escrita un pliego de cargos, en el que reseñará con precisión los que contra ellos aparezcan, concediéndoles un plazo improrrogable de ocho días a partir de la notificación, para que lo contesten y propongan la prueba que estime a su derecho. Contestado el pliego de cargos, o transcurrido el referido plazo de ocho días, el Instructor admitirá o rechazará las pruebas propuestas y acordará la práctica de las admitidas y cuantas otras actuaciones considere eficaces para el mejor conocimiento de los hechos.
+
+10\. Terminadas las actuaciones, el Instructor, dentro del plazo máximo de cuatro meses desde la fecha de incoación, formulará propuesta de resolución, que deberá notificar por copia literal al encargado, quien dispondrá de un plazo de ocho días desde el recibo de la notificación para examinar el expediente y presentar escrito de alegaciones.
+
+11\. Remitidas las actuaciones a la Junta Directiva del Colegio, inmediatamente de recibido el escrito de alegaciones presentado por el expedientado, o de transcurrido el plazo para hacerlo, aquella resolverá el expediente en la primera sesión que celebre, oyendo previamente al asesor jurídico del Colegio, si lo hubiere, y a la Comisión de Deontología, Derecho Médico y Visado, notificando la resolución al interesado en términos literales.
+
+12\. La Junta Directiva del Colegio podrá devolver el expediente al Instructor para la práctica de aquellas diligencias que, habiendo sido omitidas, resulten imprescindibles para la decisión. En tal caso, antes de remitir de nuevo el expediente a la Junta Directiva se dará vista de lo actuado al inculpado, a fin de que, en el plazo de ocho días, alegue cuanto estime conveniente, no contando este tiempo como plazo de alegaciones.
+
+13\. La decisión por la que se ponga fin al expediente sancionador habrá de ser motivada, y en ella no se podrán aceptar hechos ni fundamentos de los mismos distintos de los que sirvieron de base al pliego de cargos y a la propuesta de resolución, sin perjuicio de su distintiva valoración.
+
+14\. Contra la resolución que ponga fin al expediente podrá el interesado, en el plazo de quince días, interponer recurso de alzada ante el Consejo General de Colegios Médicos, presentándolo en el Colegio, quien, dentro de los tres días siguientes, remitirá, en unión del expediente instruido y de su informe al Consejo.
+
+15\. Contra la resolución dictada por el Consejo General podrá el interesado recurrir ante la jurisdicción Contencioso-Administrativa.
+
+## TÍTULO IX — De las publicaciones de la Organización Médica Colegial
+
+#### Artículo 69. Publicaciones del Consejo General de Colegios de Médicos.
+
+El Consejo General editará periódicamente, con carácter ordinario, el «Boletín Informativo de la Organización Médica Colegial» y cuantos suplementos o números extraordinarios se consideren necesarios o convenientes.
+
+El «Boletín del Consejo de la Organización Médica Colegial» será el órgano de expresión de la misma y colaborarán en él, de forma permanente, las Juntas Directivas de los Colegios y miembros del Consejo y, en general, todos los colegiados.
+
+Se constituirá un Comité de redacción, cuya presidencia ostentará el Presidente del Consejo General, y que estará formado por cinco miembros elegidos por la Asamblea de Presidentes.
+
+#### Artículo 70. Publicaciones de los Colegios.
+
+Los Colegios Provinciales podrán editar sus Boletines Informativos.
+
+#### Artículo 71.
+
+Las publicaciones, tanto del Consejo General como de los Colegios de Médicos, deberán atenerse siempre a las normas deontológicas y disposiciones legales vigentes, así como a las de estos Estatutos.
+
+## TÍTULO X — Régimen jurídico
+
+#### Artículo 72. Competencias.
+
+La competencia es irrenunciable y se ejercerá precisamente por los órganos colegiales que la tengan atribuida como propia, salvo los casos de delegación, sustitución o avocación previstos legalmente.
+
+#### Artículo 73.
+
+Los Colegios de Médicos provinciales son plenamente competentes, en su ámbito territorial, para el ejercicio de las funciones que les atribuye la Ley de Colegios Profesionales y estos Estatutos.
+
+#### Artículo 74.
+
+El Consejo General de Colegios de Médicos tiene competencia para el ejercicio de las funciones señaladas en sus Estatutos reguladores propios, en estos Estatutos generales y en la Ley de Colegios Profesionales, y de las demás que legalmente se les atribuyan, cuando sean de ámbito estatal, actuando en todo caso como órgano coordinador entre todos los Colegios Provinciales.
+
+#### Artículo 75. Eficacia.
+
+1\. Los acuerdos o actos colegiales de regulación interna son públicos y se les dará la publicidad adecuada.
+
+2\. Los demás acuerdos o actos colegiales serán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa.
+
+La eficacia quedará demorada cuando así lo exija el contenido del acto o esté supeditado a su notificación.
+
+Excepcionalmente podrá otorgarse eficacia retroactiva a los actos que se dicten en sustitución de otros anulados y, asimismo cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y este no lesione derechos o intereses legítimos de terceros.
+
+#### Artículo 76. Recursos.
+
+1\. Contra las resoluciones de los Organismos colegiales y los actos de trámite que determinen la imposibilidad de continuar un procedimiento o produzcan indefensión, podrá interponerse recurso de alzada ante el organismo colegial inmediatamente superior en el término de quince días.
+
+Transcurridos tres meses desde la interposición del recurso de alzada sin que se notifique su resolución, se entenderá desestimado y quedará expedita la vía procedente.
+
+Si recayese resolución expresa, el plazo para formular el recurso que proceda se contará desde la notificación de la misma.
+
+2\. En cuanto estos actos estén sujetos al derecho administrativo, una vez agotados los recursos corporativos, serán directamente recurribles ante la Jurisdicción Contencioso-Administrativa.
+
+3\. Podrán recurrir los actos colegiales:
+
+a) Cuando se trate de un acto o acuerdo de efectos jurídicos individualizados, los titulares de un derecho subjetivo o de un interés legítimo, personal y directo en el asunto.
+
+b) Cuando se trate de un acto o acuerdo que afecte a una pluralidad indeterminada de personas, o a la organización en sí misma, se entenderá que cualquier colegiado perteneciente al organismo que lo adoptó está legitimado para recurrir.
+
+4\. La interposición del recurso no suspenderá la ejecución del acto impugnado, pero la autoridad a quien compete resolverlo podrá suspender, de oficio o a instancia de parte, la ejecución del acuerdo recurrido, en el caso de que dicha ejecución pudiera causar perjuicios de imposible o difícil reparación.
+
+## TÍTULO XI — Régimen de distinciones y premios
+
+#### Artículo 77.
+
+El Consejo General y los Colegios Provinciales, a propuesta de las Juntas Directivas o por propia iniciativa, podrán otorgar, mediante información previa, distinciones y honores de distinta categoría, con arreglo a los merecimientos alcanzados en el orden corporativo y/o profesional, por aquellas personas que se hicieran acreedores a los mismos, en concordancia con el artículo 41 de estos Estatutos.
+
+#### Artículo 78. Normas generales.
+
+La condición de Colegiado de Honor quedará regulada por las siguientes normas:
+
+1\. Los Colegiados de Honor a que se refiere el artículo 41 serán de tres clases:
+
+a) Nacionales, con emblema de oro.
+
+b) Nacionales, con emblema de plata, y.
+
+c) Provinciales, con emblema de honor.
+
+2\. Serán órganos competentes para otorgar los nombramientos de Colegiados de Honor, en cada caso, los siguientes:
+
+a) La Asamblea general de Presidentes de Colegios y miembros del Consejo General, para conferir la condición de «Colegiado de Honor Nacional, con emblema de oro».
+
+b) El Pleno del Consejo General de Colegios de Médicos, para conferir la condición de «Colegiado Nacional de Honor, con emblema de plata», y.
+
+c) El Pleno de cada Colegio Provincial, para conferir la condición de «Colegiado Provincial con emblema de honor».
+
+3\. Podrán ser nombrados Colegiados de Honor las personas físicas y jurídicas españolas o extranjeras, sean Médicos o no, que reúnan los méritos para ello, a juicio del órgano competente para otorgar el nombramiento.
+
+En ningún momento podrá exceder de cien el número de personas físicas de nacionalidad española que ostenten la condición de «Colegiado Nacional de Honor con emblema de oro». Las concesiones «a título póstumo» no cubrirán cupo.
+
+4\. Para otorgar estos nombramientos se valorará la labor relevante y meritoria de las personas que se pretenda distinguir, cualesquiera que sean sus actuaciones en favor o en defensa de la clase médica en general o de la medicina, pero singularmente serán tenidos muy en cuenta los siguientes merecimientos:
+
+a) El ejercicio profesional ejemplar.
+
+b) La actividad consagrada a la defensa de la ética profesional o de los altos intereses de la corporación médica provincial o nacional.
+
+c) Los actos médicos individualizados, cuando tengan extraordinario relieve científico, profesional, social o humano.
+
+#### Artículo 79. Procedimiento.
+
+1\. El nombramiento de Colegiado de Honor se ajustará al siguiente procedimiento:
+
+a) La condición de «Colegiado de Honor Nacional, con emblema de oro», habrá de ser propuesta por el Pleno del Consejo General, a iniciativa del Colegio respectivo o de los miembros del Consejo.
+
+b) La condición de «Colegiado de Honor Nacional, con emblema de plata», habrá de ser propuesta por la Comisión Permanente del Consejo General, a iniciativa del Colegio respectivo o de los miembros del Consejo.
+
+c) La condición de «Colegiado de Honor Provincial» habrá de ser propuesta por la Junta Directiva, pudiendo ser sugerida por los Colegiados de la propia Corporación Provincial.
+
+2\. El órgano competente, mediante votación secreta, adoptará el acuerdo correspondiente por mayoría absoluta de los miembros componentes del mismo.
+
+3\. Concedida la condición de Colegiado de Honor, en cualquiera de sus clases, la Corporación Médica respectiva lo hará público por sus medios de difusión, y otorgará, con la mayor solemnidad, a la parte interesada, el nombramiento que la facultará para el uso del emblema correspondiente.
+
+#### Artículo 80. De los emblemas de Colegiados de Honor.
+
+El emblema de oro nacional constará de una rama de laurel y otra de palma, en esmalte verde, bastón de nudos, serpiente y escudo de oro.
+
+El emblema de plata nacional constará de una rama de laurel y otra de palma, en esmalte verde, bastón con nudos y serpiente de plata.
+
+El emblema de plata provincial constará de una rama de laurel y otra de palma, de esmalte verde, bastón con nudos y serpiente de plata.
+
+#### Artículo 81. Del registro especial de los Colegiados de Honor.
+
+Cada Colegio Provincial llevará un registro especial de Colegiados de Honor, que contendrá las personas que figuren con emblema de honor, en el que constará el número de orden del nombramiento y el nombre de la persona física o jurídica a cuyo favor se hubiera otorgado el consiguiente acuerdo por el Pleno del Colegio de la provincia.
+
+El Consejo General de Colegios llevará un registro general con los mismos datos que el anterior, con los Colegiados nacionales, subdividido en las siguientes secciones:
+
+a) Colegiados con emblema de oro, que sean personas físicas de nacionalidad española, en las que se habrá de reservar el correspondiente espacio para anotar la fecha de fallecimiento del colegiado, con objeto de determinar el número de existentes en cada momento a los efectos previstos en el párrafo 2 de la norma tercera.
+
+b) Colegiados de Honor con emblema de oro, no comprendidos en el apartado anterior (o sea, personas físicas extranjeras, concesiones a «título póstumo» y personas jurídicas).
+
+c) Colegiados nacionales con emblema de plata, sea cual fuera el carácter y nacionalidad de los mismos.
+
+Las personas que vengan ostentando la condición de Colegiados de Honor, por habérseles concedido en fechas anteriores a este acuerdo, serán inscritas en el Registro de la respectiva Corporación médica, la cual les entregará el nombramiento que les facultará para el uso del emblema correspondiente con iguales méritos que aquellas otras que en lo sucesivo se las conceda.
+
+#### Artículo 82. Otras distinciones.
+
+Mediante la oportuna reglamentación de régimen interno, podrán crearse otras distinciones y premios para la recompensa y estímulo de honor, prestigio y dedicación a los altos valores que comporta el ejercicio de la medicina.
+
+## TÍTULO XII — Régimen de garantías de los cargos colegiales
+
+#### Artículo 83. Consideración de los cargos.
+
+Dada la naturaleza de Corporaciones de Derecho Público de los Colegios Profesionales, reconocidos por la Ley y amparados por el Estado, el cumplimiento de las obligaciones correspondientes a los cargos electivos tendrá a efectos corporativos y profesionales la consideración y carácter de cumplimiento de deber colegial.
+
+#### Artículo 84. Facultades.
+
+La designación para un cargo colegial de origen electivo faculta a su titular para ejercerlo libremente durante su mandato, comprendiendo las siguientes facultades:
+
+a) Expresar con entera libertad sus opiniones en las materias concernientes a la esfera de la representación colegial.
+
+b) Promover las acciones a que haya lugar para defensa de los derechos e intereses colegiales confiados a su cargo.
+
+c) Reunirse con los restantes miembros de los órganos de Gobierno corporativo, conforme a las normas estatutarias para deliberar, acordar y gestionar sobre temas de actividad colegial.
+
+d) Ser protegido contra cualquier acto de usurpación, abuso o injerencia que afecte al ejercicio libre de su función.
+
+e) Obtener de los órganos colegiales competentes la información, el asesoramiento y la cooperación necesarios en las tareas de su cargo.
+
+f) Disponer, de acuerdo con las disposiciones aplicables en cada caso, de las facilidades precisas para interrumpir su actividad profesional cuando las exigencias de su representación colegial así lo impongan.
+
+#### Artículo 85. Ausencias y desplazamientos en el servicio.
+
+A los efectos del artículo anterior, los colegiados de la localidad o de la circunscripción más próxima, asumirán, por deontología y solidaridad profesional, la cobertura de los servicios correspondientes al cargo representativo en los supuestos de desplazamientos por causas corporativas de sus titulares, en las mismas condiciones que las sustituciones oficiales.
+
+La asistencia de los cargos electivos de representación a las reuniones reglamentariamente convocadas por las Entidades colegiales tendrá los efectos señalados, en cada caso, por las disposiciones vigentes.
+
+La Organización colegial, al cursar las convocatorias que correspondan en uso de sus facultades, procurará moderar las ausencias de manera que se produzcan las menores perturbaciones. En todo caso, el cargo representativo deberá dar cuenta a la autoridad correspondiente de la necesidad de su ausencia del puesto de trabajo, justificando con el texto de la convocatoria el motivo de la falta de presencia y anunciándolo con la posible antelación.
+
+#### Disposición transitoria primera.
+
+Salvo el cese por las causas previstas en los artículos correspondientes de estos Estatutos, los actuales miembros electivos del Consejo General y de las Juntas Directivas de los Colegios Oficiales de Médicos continuarán desempeñando sus cargos y ostentando, en su caso, sus respectivas representaciones hasta que expire el mandato para el que fueron elegidos, quedando, por tanto, cesantes todos aquellos que no han sido elegidos.
+
+#### Disposición transitoria segunda.
+
+Una vez aprobados estos Estatutos, se procederá, dentro de las normas estatutarias, a celebrar elecciones para todos los cargos que resulten vacantes.
+
+#### Disposición transitoria tercera.
+
+En el plazo de seis meses, a partir de la públicación de los presentes Estatutos, los Colegios Provinciales someterán a la aprobación del Consejo General sus Estatutos particulares, adaptados a los principios y normas que configuren esta disposición y la Ley de Colegios Profesionales.
+
+#### Disposición transitoria cuarta.
+
+Una vez establecida la nueva organización territorial del Estado, las Agrupaciones médicas se adaptarán a esta organización y elaborarán sus Estatutos dentro del marco de la Ley de Colegios Profesionales y de los presentes Estatutos.
+
+## ESTATUTOS DEL CONSEJO GENERAL DE COLEGIOS MÉDICOS
+
+> Se deroga por la disposición derogatoria única del Real Decreto 757/2006, de 16 de junio. [Ref. BOE-A-2006-10824](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-10824).
+
+#### Artículos 1 a 27.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única del Real Decreto 757/2006, de 16 de junio. [Ref. BOE-A-2006-10824](http://tigre.boe.es/diario_boe/txt.php?id=BOE-A-2006-10824).

@@ -1,0 +1,58 @@
+---
+title: "Real Decreto 1271/1997, de 24 de julio, por el que se crea la Representación Permanente de España en la Organización para la Prohibición de las Armas Químicas con sede en La Haya"
+identifier: "BOE-A-1997-17948"
+eli: "https://www.boe.es/eli/es/rd/1997/07/24/1271"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Administraciones Públicas"
+date: 1997-07-24
+published: 1997-08-08
+in_force_from: 1997-08-09
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 189"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-17948"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1271/1997, de 24 de julio, por el que se crea la Representación Permanente de España en la Organización para la Prohibición de las Armas Químicas con sede en La Haya
+
+La Convención para la Prohibición de las Armas Químicas, publicada en el «Boletín Oficial del Estado» de 13 de diciembre de 1996, y que entró en vigor el día 29 de abril de 1997, hace imprescindible la creación de una Representación Permanente de España en dicha Organización que contribuya al seguimiento continuado de los temas que se tratarán en la misma, incluyendo el cumplimiento de la Convención, la protección de los intereses españoles de seguridad e industriales, las posibles visitas de inspección y el control presupuestario de la Organización.
+
+De particular relieve es el hecho de que España, cuya industria es la quinta en importancia de Europa, estará representada desde su inicio en el Consejo Ejecutivo de la Organización para la Prohibición de las Armas Químicas (OPAQ), entidad que asegura el cumplimiento de lo acordado por la Conferencia de Estados parte. El Consejo Ejecutivo está formado por 41 países y toma decisiones de la mayor trascendencia dentro de la OPAQ.
+
+Desde el año 1994 hasta la actualidad los trabajos preparatorios para la constitución de la Organización han sido llevados a cabo por un Secretariado técnico provisional que, a partir de la primera Conferencia de Estados parte, será sustituido por la Organización para la Prohibición de las Armas Químicas, entidad ante la que se crea ahora la Representación Permanente de España.
+
+En su virtud, de conformidad con lo establecido en el artículo 67.1.a) de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, y en el artículo 16 del Real Decreto 632/1987, de 8 de mayo, a iniciativa del Ministro de Asuntos Exteriores, a propuesta del Ministro de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 24 de julio de 1997,
+
+DISPONGO:
+
+## Artículo 1. Creación de la Representación Permanente.
+
+Se crea la Representación Permanente de España en la Organización para la Prohibición de las Armas Químicas, con sede en La Haya (Países Bajos).
+
+## Artículo 2. Jefatura de la Representación.
+
+La jefatura de la Representación Permanente corresponderá al Embajador de España en La Haya.
+
+## Artículo 3. Estructura orgánica.
+
+La estructura orgánica de la citada Representación Permanente será la que se determine en la correspondiente relación de puestos de trabajo, sin que ello pueda generar aumento de puestos de trabajo en el ámbito de la Administración General del Estado en el exterior ni incremento del gasto público.
+
+## Disposición final primera. Habilitación normativa.
+
+El Ministro de Asuntos Exteriores dictará las disposiciones necesarias para el desarrollo de lo previsto en el presente Real Decreto y promoverá las restantes medidas para la aplicación de lo dispuesto en el mismo.
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca a 24 de julio de 1997.
+
+JUAN CARLOS R.
+
+El Ministro de Administraciones Públicas,
+
+MARIANO RAJOY BREY

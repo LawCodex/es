@@ -1,0 +1,139 @@
+---
+title: "Real Decreto 791/1979, de 20 de febrero, por el que se regula la lucha contra la peste porcina africana y otras enfermedades del ganado porcino"
+identifier: "BOE-A-1979-10490"
+eli: "https://www.boe.es/eli/es/rd/1979/02/20/791"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura"
+date: 1979-02-20
+published: 1979-04-20
+in_force_from: 1979-05-10
+last_amended: 2006-10-27
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 95"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1979-10490"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 791/1979, de 20 de febrero, por el que se regula la lucha contra la peste porcina africana y otras enfermedades del ganado porcino
+
+Quedan derogadas las normas relativas a la peste porcina africana, en cuanto se opongan, por la disposición derogatoria única.a) del Real Decreto 546/2003, de 9 de mayo. [Ref. BOE-A-2003-10388](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-10388).
+
+El desarrollo extraordinario que ha alcanzado en los últimos años el sector porcino ha contribuido de forma importante al crecimiento de la producción final agraria y a Incrementos muy considerables en la producción de carne, con una tasa media anual de crecimiento mayor del diez por ciento, a precios asequibles, exige que por parte de la Administración se sigan adoptando y actualizando medidas de prevención y lucha contra la peste porcina africana por su grave incidencia en la explotación porcina, complementada con acciones orientadas a evitar la aparición y persistencia de otras enfermedades con notable repercusión económica.
+
+La experiencia ha demostrado que la colaboración activa del ganadero es fundamental para la obtención de resultados eficaces, por lo que es necesario que el propietario del ganado adquiera el protagonismo principal con su colaboración responsable, a la vez que se sienta solidario con los demás ganaderos en defensa de los intereses del sector.
+
+A este respecto se juzga fundamental la adecuación de la estructura productiva de las diferentes explotaciones para conseguir la elevación y el mantenimiento de un alto nivel sanitario, evitando los graves riesgos que representan las grandes concentraciones de ganado de muy diversos orígenes y protegiendo asimismo a las pequeñas explotaciones familiares para su mejor defensa económica y sanitaria.
+
+Para conseguir esta nueva orientación se considera básica la calificación de explotaciones porcinas en función de sus circunstancias respecto a la dotación de medios para su mejor protección sanitaria, orientando las normas y las ayudas a la consecución de tales fines.
+
+En su virtud, a propuesta del Ministro de Agricultura, previa deliberación del Consejo de Ministros en su reunión del día veinte de febrero de mil novecientos setenta y nueve,
+
+DISPONGO:
+
+## Artículo primero.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1186/2006, de 13 de octubre. [Ref. BOE-A-2006-18693](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-18693).
+
+> Se deroga el apartado 3 por la disposición derogatoria única del Real Decreto 1880/1996, de 2 de agosto. [Ref. BOE-A-1996-21095](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-21095).
+
+## Artículo segundo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 546/2003, de 9 de mayo. [Ref. BOE-A-2003-10388](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-10388).
+
+## Artículo tercero.
+
+Uno. El movimiento del ganado porcino se realizará exclusivamente hacia uno de estos destinos: granjas legalmente establecidas, mataderos autorizados para el sacrificio de porcinos o lugares de concentración de ganado (ferias, mercados, exposiciones) que se autoricen cumpliendo las condiciones que se fijen por el Ministerio de Agricultura.
+
+Dos. Queda prohibida la compra-venta ambulante de ganado de esta especie.
+
+Tres. **(Derogado)**
+
+Cuatro. Los Vehículos para el transporte de cerdos cumplirán las características y condiciones higiénico-sanitarias que por el Ministerio de Agricultura se dicten. Los dedicados exclusivamente a este transporte se registrarán en la Delegación Provincial de Agricultura e irán provistos de una credencial que los faculte para esta actividad.
+
+Cinco. El Ministerio de Agricultura condicionará la celebración de los mercados, ferias y exposiciones de ganado porcino, teniendo en cuenta la localización de los focos de peste porcina africana y otras epizootias y los periodos de tiempo transcurridos desde su extinción.
+
+Seis. No podrán asistir a estas concentraciones los cerdos procedentes de explotaciones radicadas en las zonas de influencia de un foco de enfermedad, hasta transcurridos tres meses de la extinción del mismo, salvo que estas explotaciones estén calificadas, de acuerdo con lo dispuesto en el artículo primero de este Real Decreto.
+
+Siete. Los cebaderos que alojen cerdos procedentes de varios orígenes estarán sometidos a una vigilancia especial por los Servicios Veterinarios oficiales del Ministerio de Agricultura durante un período de cuarenta días desde su llegada, con el fin de poder establecer, en el caso de aparición de la peste porcina africana, la correlación entre el foco y su origen concreto.
+
+> Se deroga el apartado 3 por la disposición derogatoria única.a) del Real Decreto 546/2003, de 9 de mayo. [Ref. BOE-A-2003-10388](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-10388).
+
+## Artículo cuarto.
+
+Uno. El sacrificio de cerdos sólo se realizará en los mataderos autorizados a este fin y bajo control permanente de los Servicios Veterinarios oficiales, según prevé el vigente Reglamento de Mataderos.
+
+Dos. Cuando excepcionalmente se autorice la matanza domiciliaria para consumo familiar, los Ministerios de Sanidad y Seguridad Social y Agricultura dictarán Ios requisitos que la condicionen, poniendo especial atención en los problemas epizoóticos.
+
+Tres. En los mataderos enclavados en zonas libres de peste porcina africana se fijarán las condiciones, especiales de suministro de cerdos, así como los controles, análisis e inspecciones con vistas a la posible exportación de canales y sus productos.
+
+## Artículo quinto.
+
+Uno. La autorización de nuevas explotaciones quedará condicionada a que dispongan de terreno suficiente y a que guarden una distancia mínima de mil metros a los mataderos, centros de aprovechamiento de cadáveres, otras explotaciones porcinas, sea cual sea su dimensión y cualquier otro establecimiento que pueda ser fuente de contagio.
+
+La ampliación de las explotaciones ya existentes requerirá asimismo autorización expresa del Ministerio de Agricultura y sólo se concederá en los casos en que se justifique documentalmente el cumplimiento y la adopción de medidas que demuestren la mejora de su nivel sanitario.
+
+Dos. En las nuevas explotaciones, las naves para alojamiento de ganado porcino no podrán construirse a distancias inferiores a los cien metros de las vías públicas nacionales y de primer orden y a no menos de veinticinco metros de cualquier vía pública, debiendo estar el conjunto de naves e instalaciones rodeado por una cerca que las aísle suficientemente.
+
+Tres. El Ministerio de Agricultura promoverá la reconversión de las explotaciones porcinas situadas en áreas de estructura sanitaria deficiente y fomentará su transformación en explotaciones adecuadas que permitan la aplicación de las necesarias medidas higiénicas.
+
+En este sentido queda modificado el apartado c) del Decreto dos mil seiscientos cuarenta y uno/mil novecientos setenta y uno, de trece de agosto, con obligación de registro, clasificándose como ganadería de producción todas las explotaciones porcinas a partir de un efectivo mínimo de cinco cerdas de cría.
+
+Cuatro. A partir de la publicación del presente Real Decreto queda prohibida la introducción y subsiguiente tenencia de cerdos en predios situados a menos de mil metros de distancia de las ganaderías incluidas en el Registro Oficial de Explotaciones Porcinas.
+
+Cinco. Para una mejor coordinación de las actuaciones de los diferentes Organismos competentes, las solicitudes de nuevas instalaciones porcinas o modificación de las ya autorizadas vendrán acompañadas de la licencia de la Alcaldía, expedida según lo dispuesto en el capítulo II del Título I del Reglamento de Actividades Molestas, Insalubres, Nocivas y Peligrosas, aprobado por Decreto dos mil cuatrocientos catorce/mil novecientos sesenta y uno, de treinta de noviembre.
+
+Seis. Ante la grave situación sanitaria de la ganadería porcina, y dada la gran incidencia que en la difusión de las enfermedades tienen los cebaderos independientes con reposición de animales procedentes de diferentes orígenes, en lo sucesivo no se autorizará la instalación de los mismos, sea cual sea su dimensión. No obstante, el Ministerio de Agricultura podrá autorizar la instalación y ampliación de cebaderos independientes ya existentes cuando concurran determinadas características y circunstancias de explotación respecto al origen diverso de los cerdos para su explotación y respecto al plan sanitario seguido en el programa de explotación correspondiente.
+
+## Artículo sexto.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 546/2003, de 9 de mayo. [Ref. BOE-A-2003-10388](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-10388).
+
+## Artículo séptimo.
+
+Uno. Los propietarios de ganado porcino, cualquiera que sea el número de cabezas que tengan en la explotación y la clase de las mismas, estarán en posesión de la Cartilla Ganadera individual como garantía de control, quedando derogada para esta especie la Cartilla Ganadera colectiva.
+
+Dos. Los propietarios de ganado porcino vendrán obligados a la identificación individual de sus animales cuando las circunstancias epizootiológicas lo justifiquen, a fin de conocer con garantía suficiente el posible origen de los focos de enfermedad.
+
+## Artículo octavo.
+
+Uno. Se prohíbe la utilización de residuos y desperdicios de alimentación humana en manutención de cerdos, con la única excepción de los tratados en centros debidamente autorizados para su transformación industrial y sometidos a control permanente por los Servicios Veterinarios oficiales del Ministerio de Agricultura.
+
+Dos. Los mataderos, industrias de la carne, centros de aprovechamiento de cadáveres, etc., y los restaurantes, sanatorios y, en general, comedores colectivos no podrán tener anejas o relacionadas explotaciones de gando porcino que pudieran contagiarse con los residuos de los mismos.
+
+## Artículo noveno.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 546/2003, de 9 de mayo. [Ref. BOE-A-2003-10388](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-10388).
+
+## Artículo décimo.
+
+Se autoriza al Ministerio de Agricultura para dictar las disposiciones complementarias para el cumplimiento de lo que se dispone en este Real Decreto.
+
+## Disposición derogatoria.
+
+Quedan derogados los Decretos ochocientos dos/mil novecientos sesenta y siete, de seis de abril, y seiscientos cuarenta y cinco/mil novecientos setenta y tres, de veintidós de marzo, y cuantas disposiciones de igual o Inferior rango se opongan a la presente.
+
+Asimismo queda derogado el artículo duodécimo del Decreto dos mil seiscientos cuarenta y uno/mil novecientos setenta y uno, de trece de agosto, por el que se dictan normas sobre organización sanitaria y zootécnica de las explotaciones porcinas.
+
+Dado en Madrid a veinte de febrero de mil novecientos setenta y nueve.
+
+JUAN CARLOS
+
+El Ministro de Agricultura.
+
+JAIME LAMO DE ESPINOSA Y MICHELS DE CHAMPOURCIN
+
+> Información relacionada
+
+> Las referencias hechas al Ministerio de Agricultura, Pesca y Alimentación se entienden efectuadas a los órganos competentes de las Comunidades Autónomas, según establece la disposición adicional 4 del Real Decreto 245/1995, de 17 de febrero. [Ref. BOE-A-1995-6221](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-6221)

@@ -1,0 +1,137 @@
+---
+title: "Real Decreto 157/1996, de 2 de febrero, por el que se dispone la actualización mensual del censo electoral y se regulan los datos necesarios para la inscripción en el mismo"
+identifier: "BOE-A-1996-3695"
+eli: "https://www.boe.es/eli/es/rd/1996/02/02/157"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1996-02-02
+published: 1996-02-20
+in_force_from: 1996-02-21
+last_amended: 2011-03-26
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 44"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-3695"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 157/1996, de 2 de febrero, por el que se dispone la actualización mensual del censo electoral y se regulan los datos necesarios para la inscripción en el mismo
+
+La Ley Orgánica 3/1995, de 23 de marzo, de modificación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, ha sustituido el sistema de revisión anual por el de revisión continua del censo electoral, con el fin de asegurar su permanente actualización, evitando las rigideces y limitaciones que aquél presentaba.
+
+Conforme a ello, procede dictar un nuevo Real Decreto que sustituya al 159/1987, de 23 de enero, por el que se disponía la revisión anual del censo electoral con referencia al 1 de enero de cada año, teniendo en cuenta, además, las sucesivas remisiones que los artículos 35 a 38 de la Ley Orgánica del Régimen Electoral General contienen a la concreción por parte de la Oficina del Censo Electoral de plazos y otros extremos para la actualización mensual del censo electoral.
+
+Por otro lado, el artículo 32.3 de la citada Ley Orgánica atribuye a las Oficinas Consulares de Carrera y Secciones Consulares de las Misiones Diplomáticas la competencia para la tramitación de oficio de la inscripción de los españoles ausentes residentes en su demarcación en la forma que se disponga reglamentariamente, desarrollo que procede asimismo mediante este Real Decreto.
+
+Además, es preciso prever la aplicación del artículo 9.4 de la Directiva 93/109/CE, del Consejo, de 6 de diciembre, en el sentido de que los electores comunitarios permanezcan inscritos en el censo electoral en las mismas condiciones que los españoles, y el del artículo 7.3 de la Directiva 94/80/CE, del Consejo, de 19 de diciembre, que contempla la posibilidad de inscripción de oficio de los nacionales de Estados miembros de la Unión Europea residentes en España, y, como consecuencia de la nueva regulación, se deroga parcialmente el contenido del Real Decreto 2118/1993, de 3 de diciembre, por el que se dispone la ampliación del censo electoral a los extranjeros nacionales de Estados miembros de la Unión Europea residentes en España.
+
+Por otra parte, se actualizan los datos personales necesarios para la inscripción en el censo electoral, a que se refiere el artículo 41 de la Ley Orgánica del Régimen Electoral General, regulados en el artículo 2 del Real Decreto 411/1986, de 10 de febrero, por el que se dispone la formación del fichero nacional de electores ajustado a la renovación de los padrones municipales de habitantes de 1986.
+
+En su virtud, a propuesta conjunta de los Ministros de Economía y Hacienda, de Asuntos Exteriores, de Justicia e Interior y para las Administraciones Públicas, con el informe de la Junta Electoral Central, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 2 de febrero de 1996,
+
+## DISPONGO:
+
+### Artículo 1. Procedimiento para la actualización mensual del censo electoral.
+
+1\. La Oficina del Censo Electoral procederá a realizar la actualización del censo electoral con referencia al día primero de cada mes, conforme establece el artículo 34 de la Ley Orgánica del Régimen Electoral General.
+
+2\. A tal fin, los ayuntamientos remitirán mensualmente a las delegaciones provinciales de la Oficina del Censo Electoral la información de las altas, bajas y modificaciones de los datos de los residentes en sus respectivos términos municipales, conforme establece el artículo 35 de la Ley Orgánica del Régimen Electoral General.
+
+3\. Asimismo, los Ayuntamientos enviarán las altas, bajas y modificaciones de los datos de los nacionales de Estados miembros de la Unión Europea residentes en sus términos municipales.
+
+4\. Igualmente, las Oficinas Consulares, a través del Ministerio de Asuntos Exteriores, enviarán mensualmente a la Oficina del Censo Electoral las altas y bajas tramitadas de oficio de los españoles que residan en su demarcación territorial, así como de los cambios de domicilio y modificaciones de sus datos personales.
+
+> Se modifican los apartados 1 y 2 por el art. único.1 del Real Decreto 423/2011, de 25 de marzo. [Ref. BOE-A-2011-5466](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5466).
+
+### Artículo 2. Datos necesarios para la inscripción en el censo electoral.
+
+1\. La inscripción en el censo electoral contendrá los siguientes datos:
+
+Nombre y apellidos.
+
+Residencia: provincia y municipio.
+
+Domicilio.
+
+Sexo.
+
+Lugar de nacimiento: provincia y municipio.
+
+Fecha de nacimiento: día, mes y año.
+
+Grado de escolaridad: certificado de escolaridad o titulación académica.
+
+Número del documento nacional de identidad.
+
+2\. Para los españoles residentes en el extranjero, la inscripción deberá contener los datos expresados en el apartado 1, salvo los relativos a la provincia y municipio de residencia, que en su lugar figurarán los del país y municipio de residencia actual, y además los siguientes:
+
+a) Provincia y municipio de inscripción en España a efectos electorales.
+
+b) Número del pasaporte, cuando no disponga del documento nacional de identidad.
+
+3\. Para los nacionales de Estados miembros de la Unión Europea residentes en España figurarán los datos expresados en el apartado 1, con excepción del número del documento nacional de identidad, y además los siguientes:
+
+a) Número de identidad de extranjero.
+
+b) Nacionalidad.
+
+c) Entidad local o circunscripción del Estado miembro de origen en cuyo censo electoral estuvo inscrito en último lugar, con motivo de las elecciones al Parlamento Europeo.
+
+4\. Para los nacionales de otros Estados residentes en España, cuyos respectivos países permitan el voto de los españoles en sus elecciones municipales en los términos de un Tratado o Acuerdo en vigor, el censo electoral contendrá los datos expresados en el apartado 1, salvo el número del documento nacional de identidad que se sustituye por el número de identidad de extranjero, y se formará de acuerdo con lo dispuesto en el Real Decreto 202/1995, de 10 de febrero.
+
+> Se modifican los apartados 3 y 4 por el art. único.2 del Real Decreto 423/2011, de 25 de marzo. [Ref. BOE-A-2011-5466](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5466).
+
+> Se modifica el apartado 3 por el art. único del Real Decreto 147/1999, de 29 de enero. [Ref. BOE-A-1999-2340](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-2340).
+
+### Artículo 3. Información del Registro Civil
+
+Los encargados del Registro Civil comunicarán mensualmente a las delegaciones provinciales de la Oficina del Censo Electoral cualquier circunstancia que pueda afectar a las inscripciones en el censo electoral, en particular por:
+
+a) Defunción o declaración de fallecimiento.
+
+b) Adquisición, recuperación o pérdida de la nacionalidad española.
+
+c) Cambio de nombre o de apellidos.
+
+d) Cambio de sexo.
+
+e) Declaración de modificación judicial de la capacidad en la que se prive expresamente a la persona con capacidad modificada judicialmente del derecho de sufragio activo.
+
+> Se modifica por el art. único.3 del Real Decreto 423/2011, de 25 de marzo. [Ref. BOE-A-2011-5466](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5466).
+
+### Artículo 4. Información referida a inhabilitados.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.4 del Real Decreto 423/2011, de 25 de marzo. [Ref. BOE-A-2011-5466](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5466).
+
+### Disposición transitoria única. Implantación del censo electoral de nacionales de Estados miembros de la Unión Europea.
+
+Para la implantación del censo electoral de nacionales de los Estados miembros de la Unión Europea residentes en España, con posterioridad a la renovación padronal de 1996, los Ayuntamientos enviarán a las Delegaciones Provinciales de la Oficina del Censo Electoral información de los inscritos en sus respectivos padrones municipales, que sean nacionales de algún Estado miembro de la Unión Europea.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados el artículo 2 del Real Decreto 411/1986, de 10 de febrero, por el que se dispone la formación del fichero nacional de electores ajustado a la renovación de los padrones municipales de habitantes de 1986; el Real Decreto 159/1987, de 23 de enero, por el que se dispone la revisión anual del censo electoral con referencia al 1 de enero, y los artículos 1 al 5, ambos inclusive, del Real Decreto 2118/1993, de 3 de diciembre, por el que se dispone la ampliación del censo electoral a los extranjeros nacionales de Estados miembros de la Unión Europea residentes en España, así como cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto.
+
+### Disposición final primera. Sufragación de los gastos.
+
+Los gastos que se originen por la actualización mensual del censo electoral dispuesta en el presente Real Decreto serán sufragados por el Instituto Nacional de Estadística con cargo a su presupuesto.
+
+### Disposición final segunda. Facultades de desarrollo.
+
+Se faculta al Ministro de Economía y Hacienda para dictar las normas complementarias que sean necesarias para el cumplimiento del presente Real Decreto.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 2 de febrero de 1996.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+ALFREDO PEREZ RUBALCABA

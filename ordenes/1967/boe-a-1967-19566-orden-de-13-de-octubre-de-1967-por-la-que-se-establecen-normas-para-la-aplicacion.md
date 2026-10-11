@@ -1,0 +1,325 @@
+---
+title: "Orden de 13 de octubre de 1967 por la que se establecen normas para la aplicación y desarrollo de la prestación por incapacidad laboral transitoria en el Régimen general de la Seguridad Social"
+identifier: "BOE-A-1967-19566"
+eli: "https://www.boe.es/eli/es/o/1967/10/13/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo"
+date: 1967-10-13
+published: 1967-11-04
+in_force_from: 1967-11-24
+last_amended: 2015-06-20
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 264"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1967-19566"
+retrieved: 2026-10-11
+---
+
+# Orden de 13 de octubre de 1967 por la que se establecen normas para la aplicación y desarrollo de la prestación por incapacidad laboral transitoria en el Régimen general de la Seguridad Social
+
+Téngase en cuenta que se derogan las previsiones contenidas en esta Orden que hacen referencia a los casos de maternidad, según establece la disposición derogatoria única.b) del Real Decreto 1251/2001, de 16 de noviembre. [Ref. BOE-A-2001-21491](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-21491).
+
+Ilustrísimos señores:
+
+El Capítulo V del Título II de la Ley de Seguridad Social de 21 de abril de 1966 («Boletín Oficial del Estado» de 22 y 23 de abril) regula la prestación económica por incapacidad laboral transitoria en el Régimen general de la Seguridad Social y el Capítulo II del Reglamento General aprobado por Decreto 3158/1966, de 28 de diciembre («Boletín Oficial del Estado» de 30 de diciembre), determina la cuantía de dicha prestación y señala condiciones para el derecho a la misma.
+
+En relación con la indicada materia resulta procedente dictar las consiguientes normas de aplicación y desarrollo, por lo que este Ministerio, de conformidad con lo preceptuado en el apartado b) del número 1 del artículo 4 y en la disposición final tercera de la Ley de la Seguridad Social, ha tenido a bien disponer:
+
+## CAPÍTULO PRIMERO — Normas generales
+
+#### Artículo 1. Concepto.
+
+Tendrán la consideración de estados o situaciones determinantes de incapacidad laboral transitoria:
+
+a) Los de enfermedad común o profesional y accidente, sea o no de trabajo, mientras el trabajador reciba asistencia sanitaria de la Seguridad Social y esté impedido para el trabajo.
+
+b) Los denominados períodos de observación y sus asimilados o equivalentes en casos de enfermedades profesionales.
+
+> Se deroga el apartado c) por la disposición derogatoria única.b) del Real Decreto 1251/2001, de 16 de noviembre. [Ref. BOE-A-2001-21491](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-21491).
+
+#### Artículo 2. Prestación económica.
+
+1\. La prestación económica en cualquiera de las situaciones constitutivas de incapacidad laboral transitoria que se señalan en el artículo anterior consistirá en un subsidio equivalente al setenta y cinco por ciento de la base de cotización del trabajador en la fecha en que se declare iniciada legalmente la incapacidad. Si encontrándose el trabajador en esta situación se produjese una modificación de las bases tarifadas de cotización, la cuantía de la prestación se calculará a partir de la iniciación de los efectos de dicha modificación sobre la nueva base que le corresponda.
+
+2\. Cuando la incapacidad proceda de accidente de trabajo o enfermedad profesional, y en tanto que la cotización correspondiente a dichas contingencias continúe efectuándose sobre las remuneraciones efectivamente percibidas, de acuerdo con lo preceptuado en el número 8 de la disposición transitoria tercera de la Ley de la Seguridad Social, serán de aplicación para determinar la base a que el presente número se refiere las normas establecidas para la incapacidad temporal en el Capítulo V del Reglamento aprobado por el Decreto de 22 de junio de 1956 («Boletín Oficial del Estado» de 15 y 18 de julio) o las que expresamente apruebe el Gobierno, a propuesta del Ministro de Trabajo, para sustituir aquéllas por otras específicas para la incapacidad laboral transitoria a que este número se refiere.
+
+> Se deroga el apartado 3 por la disposición derogatoria única.b) del Real Decreto 1251/2001, de 16 de noviembre. [Ref. BOE-A-2001-21491](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-21491).
+
+> Redactado conforme a la corrección de errores publicada en el BOE núm. 267, de 8 de noviembre de 1967. [Ref. BOE-A-1967-19569](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-19569).
+
+#### Artículo 3. Beneficiarios.
+
+1\. Serán beneficiarios del subsidio por incapacidad laboral transitoria los trabajadores incluidos en el campo de aplicación del Régimen General, que, cumpliendo el requisito general de estar afiliados a la Seguridad Social y en alta o en situación asimilada a ella en dicho Régimen, se encuentren en cualquiera de las situaciones determinadas en el artículo 1 y reúnan las condiciones particulares siguientes:
+
+a) En caso de enfermedad común o accidente no laboral, haber cumplido un período de cotización de ciento ochenta días dentro de los cinco años inmediatamente anteriores a la fecha en que se produzca la baja por tales causas.
+
+b) **(Derogado)**
+
+c) En caso de accidente de trabajo o enfermedad profesional no se exigirá ningún período previo de cotización.
+
+2\. No obstante lo dispuesto en el número anterior, quedarán excluidos de la prestación por incapacidad laboral transitoria derivada de enfermedad común, maternidad o accidente no laboral los trabajadores que lo estén de asistencia sanitaria por dichas contingencias, de acuerdo con lo previsto en el párrafo primero, apartados a), a’), del artículo 83 de la Ley de la Seguridad Social («Boletín Oficial del Estado» de 22 y 23 de abril); en consecuencia, los padres de familia numerosa que opten, de acuerdo con lo establecido en el apartado y artículo citados, por gozar de la cobertura del Régimen general respecto a la expresada asistencia sanitaria, gozarán también de la relativa a la incapacidad laboral transitoria a que el presente número se refiere.
+
+> Se deroga el apartado 1.b) por la disposición derogatoria única.b) del Real Decreto 1251/2001, de 16 de noviembre. [Ref. BOE-A-2001-21491](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-21491).
+
+#### Artículo 4. Situaciones asimiladas a la de alta.
+
+1\. La situación de desempleo involuntario total y subsidiado se considerará asimilada a la de alta, a efectos de incapacidad laboral transitoria, cualquiera que sea la contingencia causante de la misma.
+
+2\. Los trabajadores comprendidos en el campo de aplicación del Régimen General se considerarán de pleno derecho afiliados y en alta, a efectos de incapacidad laboral transitoria derivada de accidente de trabajo o enfermedad profesional, aunque su empresario hubiere incumplido sus obligaciones al respecto y sin perjuicio de las responsabilidades de todo orden que de ello se deriven para el mismo.
+
+#### Artículo 5. Reconocimiento del derecho.
+
+El reconocimiento del derecho al subsidio por incapacidad laboral transitoria corresponderá:
+
+a) Al Instituto Nacional de Previsión cuando sea derivada de enfermedad común, maternidad o accidente no laboral.
+
+b) A la Mutualidad laboral correspondiente o Mutua patronal, en su caso, cuando sea derivada de accidente de trabajo o enfermedad profesional y, en todo caso, a la Mutualidad laboral en que esté encuadrada la actividad profesional a la que pertenezca el trabajador, en el supuesto previsto en el número 2 del artículo anterior.
+
+c) A las Empresas autorizadas para colaborar voluntariamente en la gestión del Régimen General de la Seguridad Social cuando se derive de las contingencias a que afecte su colaboración.
+
+#### Artículo 6. Pago.
+
+1\. El pago del subsidio por incapacidad laboral transitoria correrá a cargo de la Entidad gestora o, en su caso, Mutua Patronal o Empresa autorizada para colaborar en la gestión que haya reconocido el derecho al mismo, de conformidad con lo preceptuado en el artículo anterior.
+
+2\. Lo establecido en el número anterior se entenderá sin perjuicio del pago delegado del subsidio por las Empresas, de acuerdo con las normas que regulan la colaboración obligatoria de las mismas.
+
+3\. No obstante lo dispuesto en el número 1 de este artículo, en el supuesto a que se refiere el número 2 del artículo 4, el pago del subsidio por incapacidad laboral transitoria derivada de accidente de trabajo o enfermedad profesional correrá a cargo del empresario que hubiere incumplido sus obligaciones en materia de afiliación o altas; si dicho empresario no hiciera efectivo el indicado pago, éste se llevará a cabo, a instancia del trabajador, por la Mutualidad laboral que hubiera reconocido el derecho a la prestación. Dicha Mutualidad se reintegrará de lo pagado con cargo al Fondo de Garantía de accidentes de trabajo, el cual se resarcirá de su importe a costa del empresario responsable.
+
+4\. El pago del subsidio se realizará por períodos vencidos.
+
+Cuando el pago se efectúe directamente por la Entidad gestora o, en su caso, Mutua patronal, el subsidio se abonará por períodos semanales.
+
+Cuando el pago fuese efectuado por la Empresa por delegación, el subsidio se abonará por los mismos períodos que los salarios, y se hará efectivo en las mismas fechas que éstos.
+
+5\. El subsidio se abonará al beneficiario o persona por él autorizada.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en el BOE núm. 267, de 8 de noviembre de 1967. [Ref. BOE-A-1967-19569](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-19569).
+
+#### Artículo 7. Pluriempleo.
+
+1\. Para la determinación de la base reguladora de las prestaciones por incapacidad laboral transitoria, en caso de pluriempleo, se computarán todas sus bases de cotización en las distintas Empresas, siendo de aplicación a la base reguladora así determinada el tope máximo establecido a efectos de cotización.
+
+2\. El subsidio por incapacidad laboral transitoria derivada de enfermedad común, maternidad o accidente no laboral a que tenga derecho el trabajador en situación de pluriempleo correrá a cargo del Instituto Nacional de Previsión o, en su caso, de las Empresas autorizadas para colaborar en la gestión de dichas contingencias en proporción a las bases por las que venga cotizando el beneficiario en cada una de las Empresas en que preste sus servicios.
+
+3\. El subsidio por incapacidad laboral transitoria derivada de accidente de trabajo o enfermedad profesional correrá a cargo de la Mutualidad laboral o, en su caso, de la Mutua patronal que cubran estas contingencias o de la propia Empresa cuando estuviese autorizada para colaborar en la gestión de las mismas, en proporción a las bases por las que se venga cotizando por el beneficiario en cada una de las Empresas en que preste sus servicios.
+
+4\. En los supuestos a que se refieren los dos números anteriores del presente artículo, cada una de las Empresas afectadas abonará al trabajador en régimen de pago delegado la parte de subsidio que corresponda a la base por la que se haya cotizado en la Empresa.
+
+## CAPÍTULO II — Nacimiento, duración y extinción del derecho a las prestaciones
+
+#### Artículo 8. Nacimiento del derecho.
+
+Se tendrá derecho al subsidio por incapacidad laboral transitoria:
+
+a) En el caso de enfermedad común o accidente no laboral, a partir del cuarto día, a contar desde la fecha de la baja para el trabajo siempre que la situación de incapacidad laboral transitoria tenga una duración mínima de siete días, a contar desde dicha fecha.
+
+b) En caso de accidente de trabajo, desde el día siguiente a aquel en que se haya producido o desde el día siguiente al de la baja en el trabajo cuando ésta fuese posterior a la fecha del accidente.
+
+c) En caso de enfermedad profesional, a partir del día siguiente al de la baja médica para el trabajo.
+
+> Se deroga el apartado d) por la disposición derogatoria única.b) del Real Decreto 1251/2001, de 16 de noviembre. [Ref. BOE-A-2001-21491](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-21491).
+
+#### Artículo 9. Duración del derecho.
+
+1\. El subsidio por incapacidad laboral transitoria se abonará mientras el trabajador reciba asistencia sanitaria de la Seguridad Social, estando impedido para el trabajo por un período de duración máximo de dieciocho meses prorrogables por otros seis, si también se hubiese prorrogado dicha asistencia, incluyéndose para el cómputo de estos períodos los de observación y recaída.
+
+Si el proceso de incapacidad laboral transitoria se viere interrumpido por períodos de actividad laboral por un tiempo superior a seis meses, se iniciará otro nuevo, aunque se trate de la misma o similar enfermedad.
+
+2\. En el caso de que el trabajador sea dado de alta sin incapacidad permanente, tendrá derecho a percibir el subsidio correspondiente al día de alta.
+
+3\. **(Derogado)**
+
+4\. En caso de accidente de trabajo o enfermedad profesional, el salario del día del accidente o baja será a cargo del empresario.
+
+> Se modifica el apartado 2 por la disposición final 2 de la Orden ESS/1187/2015, de 15 de junio. [Ref. BOE-A-2015-6839](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-6839).
+
+> Se deroga el apartado 3 por la disposición derogatoria única.b) del Real Decreto 1251/2001, de 16 de noviembre. [Ref. BOE-A-2001-21491](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-21491).
+
+#### Artículo 10. Extinción del derecho.
+
+1\. El derecho al subsidio por incapacidad laboral transitoria se extinguirá por alguna de las siguientes causas:
+
+a) Por ser dado de alta el trabajador con o sin declaración de invalidez.
+
+b) Por el transcurso de los plazos establecidos en el artículo anterior.
+
+c) Por el fallecimiento del beneficiario.
+
+2\. Cuando el derecho al subsidio por incapacidad laboral transitoria haya de extinguirse, conforme a lo previsto en el apartado a) del número anterior, si el facultativo que diese de alta médica al trabajador o, en su caso, la Inspección de Servicios Sanitarios de la Seguridad Social formulase informe-propuesta en el que se le considerase afectado por una presunta invalidez permanente, no se producirá la indicada extinción, siempre que el trabajador no se reintegre antes al trabajo, hasta que recaiga una resolución definitiva de las Comisiones Técnicas Calificadoras. No obstante, si por las Comisiones Técnicas Calificadoras se declarase la existencia de la invalidez permanente, en el grado de incapacidad absoluta o de gran invalidez, la resolución de la Comisión deberá retrotraer sus efectos a la fecha del alta médica; en tal caso, se deducirá de la pensión vitalicia lo percibido como subsidio por incapacidad laboral transitoria, estableciéndose la consiguiente compensación entre las Entidades Gestoras.
+
+> Téngase en cuenta que se deroga el apartado 2, en todo aquello en que se opone a lo dispuesto en la Orden de 23 de noviembre de 1982 y, particularmente, en su disposición adicional, según establece su disposición final 1.c).[Ref. BOE-A-1982-30889](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-30889).
+
+> Se deroga el apartado 2, en todo aquello en que se opone a lo dispuesto en la Orden de 23 de noviembre de 1982 y, particularmente, en su disposición adicional, según establece su disposición final 1.c).[Ref. BOE-A-1982-30889](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-30889).
+
+> Se añade el apartado 2 por el art. único de la Orden de 21 de abril de 1972. [Ref. BOE-A-1972-665](https://www.boe.es/buscar/doc.php?id=BOE-A-1972-665).
+
+#### Artículo 11. Denegación, anulación y suspensión del derecho.
+
+1\. El derecho al subsidio por incapacidad laboral transitoria podrá ser denegado, anulado o suspendido:
+
+a) Cuando el beneficiario haya actuado fraudulentamente para obtener o conservar el subsidio.
+
+b) Cuando la incapacidad sea debida o se prolongue a consecuencia de imprudencia temeraria del beneficiario.
+
+c) Cuando el beneficiario sin causa razonable rechace o abandone el tratamiento que le fuere indicado.
+
+d) Cuando el beneficiario trabaje durante la situación de incapacidad laboral transitoria por cuenta propia o ajena.
+
+2\. La denegación, anulación o suspensión del derecho al subsidio por las causas a que se refiere el número anterior se llevará a cabo por la Entidad gestora, Mutua patronal o Empresa a la que corresponda el reconocimiento del derecho. Los acuerdos en estas materias serán recurribles ante la jurisdicción laboral conforme a lo establecido en el Texto Refundido de Procedimiento Laboral, y en el supuesto del apartado c), el acuerdo será recurrible y previamente ante las Comisiones técnicas calificadoras, constituidas al efecto en Tribunales médicos.
+
+## CAPÍTULO III — Normas específicas para determinadas contingencias
+
+### Sección 1.ª En caso de maternidad
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1251/2001, de 16 de noviembre. [Ref. BOE-A-2001-21491](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-21491).
+
+#### Artículos 12 a 14.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.b) del Real Decreto 1251/2001, de 16 de noviembre. [Ref. BOE-A-2001-21491](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-21491).
+
+### Sección 2.ª En caso de enfermedad profesional
+
+#### Artículo 15. Período de observación.
+
+1\. En caso de enfermedad profesional se entenderá por período de observación la situación del trabajador durante el tiempo necesario para el estudio médico de su enfermedad cuando haya necesidad de aplazar el diagnóstico definitivo, siempre que lleve consigo la baja en el trabajo.
+
+2\. El período de observación tendrá una duración máxima de seis meses y podrá ser prorrogado por igual plazo cuando lo estime necesario la Comisión técnica calificadora central, a propuesta de la correspondiente Comisión técnica calificadora.
+
+3\. Al término del período de observación, el trabajador pasará a la situación que proceda o continuará en la de incapacidad laboral transitoria de acuerdo con su estado.
+
+#### Artículo 16. Obligaciones especiales.
+
+De conformidad con lo establecido en el número 2 del artículo 131 de la Ley de la Seguridad Social, lo dispuesto en el artículo anterior se entenderá sin perjuicio de las obligaciones establecidas o que puedan establecerse en lo sucesivo a cargo de la Seguridad Social, de los empresarios o del Fondo Nacional de Protección al Trabajo cuando por causa de enfermedad profesional se acuerde respecto de un trabajador el traslado de puesto de trabajo, su baja en la Empresa u otras medidas análogas.
+
+## CAPÍTULO IV — Tramitación
+
+### Sección 1.ª En enfermedad común, accidente no laboral y maternidad
+
+#### Artículo 17. En caso de enfermedad común y accidente no laboral.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 19 de junio de 1997. [Ref. BOE-A-1997-13740](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-13740).
+
+> Se deroga el apartado 5 en todo aquello en que se opone a lo dispuesto en la Orden de 23 de noviembre de 1982 y, particularmente, en su disposición adicional, según establece su disposición final 1.c).[Ref. BOE-A-1982-30889](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-30889).
+
+> Se modifica por el art. único.1 de la Orden de 21 de marzo de 1974. [Ref. BOE-A-1974-645](https://www.boe.es/buscar/doc.php?id=BOE-A-1974-645).
+
+#### Artículo 18. En caso de maternidad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1251/2001, de 16 de noviembre. [Ref. BOE-A-2001-21491](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-21491).
+
+> Se añade el apartado 4 por el art. único.2 de la Orden de 21 de marzo de 1974. [Ref. BOE-A-1974-645](https://www.boe.es/buscar/doc.php?id=BOE-A-1974-645).
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en el BOE núm. 267, de 8 de noviembre de 1967. [Ref. BOE-A-1967-19569](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-19569).
+
+#### Artículo 19. Normas comunes.
+
+Las Empresas autorizadas para colaborar voluntariamente en la gestión de las contingencias de enfermedad común, maternidad y accidente no laboral conservarán en su poder los partes a que se refieren los artículos 17 y 18.
+
+> Se modifica por el art. único.3 de la Orden de 21 de marzo de 1974. [Ref. BOE-A-1974-645](https://www.boe.es/buscar/doc.php?id=BOE-A-1974-645).
+
+### Sección 2.ª En accidente de trabajo y enfermedad profesional
+
+> Se modifica el título por el art. único.1 de la Orden de 22 de enero de 1973. [Ref. BOE-A-1973-141](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-141).
+
+#### Artículo 20. Expedición y tramitación de partes a efectos de prestaciones.
+
+1\. A efectos de asistencia sanitaria del trabajador y, en su caso, consiguiente percepción del subsidio por incapacidad laboral transitoria, en los supuestos de accidentes de trabajo, se extenderán, con arreglo a los modelos oficiales correspondientes, los siguientes partes: «Parte de asistencia sanitaria por accidente de trabajo», «parte médico de baja», «parte de continuación en la incapacidad», «parte médico de alta».
+
+2\. El «parte de asistencia sanitaria por accidente de trabajo» será extendido por la Empresa por triplicado, la cual entregará dos ejemplares al accidentado para su presentación al Facultativo o centro sanitario que haya de prestarle la asistencia, y conservará el tercer ejemplar como comprobante.
+
+Si por la urgencia del caso no pudiera cumplimentarse dicho parte por la Empresa, ésta lo hará llegar posteriormente con carácter inmediato y por duplicado a poder del Facultativo o centro que hayan atendido al accidentado, y conservará el tercer ejemplar a los efectos que se señalan en el párrafo anterior.
+
+Uno de los ejemplares facilitados al Facultativo o centro sanitario servirá para justificar la prestación de la asistencia y, en su caso, para la percepción de los correspondientes honorarios, el otro ejemplar acompañará al cargo que deba formularse a la Entidad Gestora o Mutua Patronal, en su caso, cuyo cargo comprenderá la totalidad de los gastos suplidos por asistencia sanitaria.
+
+3\. **(Derogado)**
+
+4\. **(Derogado)**
+
+5\. **(Derogado)**
+
+6\. En el supuesto de muerte del trabajador accidentado, el Facultativo que le haya asistido extenderá por duplicado el «certificado médico de defunción», indicando si ha sido debida a accidente de trabajo, con especificación de las causas del fallecimiento, y los remitirá a la Entidad con la que esté concertada la asistencia sanitaria, la que, a su vez, cursará uno de los ejemplares a la Mutualidad Laboral o, en su caso, Mutua Patronal.
+
+7\. Las Empresas autorizadas para colaborar voluntariamente en la gestión de la contingencia a que el presente artículo se refiere conservarán en su poder los partes que en el mismo se mencionan.
+
+> Se derogan los apartados 3 a 5 por la disposición derogatoria única de la Orden de 19 de junio de 1997. [Ref. BOE-A-1997-13740](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-13740).
+
+> Se deroga el apartado 5 en todo aquello en que se opone a lo dispuesto en la Orden de 23 de noviembre de 1982 y, particularmente, en su disposición adicional, según establece su disposición final 1.c).[Ref. BOE-A-1982-30889](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-30889).
+
+#### Artículo 21. Notificación de los accidentes de trabajo.
+
+1\. En caso de accidente de trabajo, produzca o no la baja del trabajador, en el trabajo o su muerte, la Empresa confeccionará por cuadruplicado el "parte de accidente", en el que se harán constar los siguientes datos: Nombre, domicilio y residencia de la Empresa; Mutualidad Laboral o Mutua Patronal que tenga a su cargo la protección; número de inscripción de la Empresa en la Seguridad Social; nombre, apellidos, fecha de nacimiento, estado civil y domicilio del accidentado; número de afiliación a la Seguridad Social; oficio y categoría profesional, Reglamentación de Trabajo y, en su caso, Convenio Colectivo aplicable; salario que percibía y trabajo que realizaba en el momento del accidente; aparato, máquina o herramienta que haya producido la lesión, especificando la pieza de la misma que diera lugar a ella; lugar, día y hora en que ocurrió el accidente; forma en que se produjo; lesiones causadas; nombre y domicilio de las personas que presenciaron el accidente y del médico que atendió a la víctima de modo inmediato; establecimiento sanitario o domicilio a que ésta fuese trasladada, y si el trabajo durante cuya realización se accidentó era el que realizaba habitualmente.
+
+La empresa, dentro de las veinticuatro horas siguientes a aquella en la que se haya producido el accidente, remitirá dos ejemplares del parte a la Mutualidad Laboral o, en su caso, Mutua Patronal que tenga a su cargo la protección por accidente de trabajo y entregará otro al trabajador accidentado o a sus familiares beneficiarios, en caso de muerte o de incapacidad del interesado para hacerse cargo del mismo. El cuarto ejemplar del parte será conservado por la Empresa como justificante.
+
+La empresa, en el caso de estar autorizada para colaborar en la gestión de la incapacidad laboral transitoria debida a accidente de trabajo, confeccionará por cuadruplicado el parte a que se refiere el párrafo anterior, remitiendo, dentro del plazo señalado en el mismo, un ejemplar a la respectiva Delegación de Trabajo, otro a la Mutualidad Laboral o, en su caso, Mutua Patronal correspondiente, entregando otro al trabajador accidentado o a sus familiares beneficiarios, y conservando el cuarto ejemplar sellado por la Delegación de Trabajo o unido al acuse de recibo de la misma, que justifique su envío por correo certificado.
+
+La Dirección General de la Seguridad Social podrá autorizar la ampliación del plazo que se establece en este número, en aquellos supuestos en que concurran circunstancias que así lo aconsejen.
+
+2\. La Mutualidad Laboral o, en su caso, Mutua Patronal remitirá un ejemplar del «parte de accidente» dentro de las veinticuatro horas siguientes a su recepción, a la Delegación de Trabajo respectiva, excepto en el supuesto previsto en el párrafo segundo del número anterior.
+
+3\. En los casos de muerte y en los considerados como muy graves, la Delegación Provincial de Trabajo competente, de forma preceptiva, dispondrá que se practique por la Inspección de Trabajo inmediatamente la consiguiente información en la Empresa sobre la forma en que ha ocurrido el accidente, causas del mismo y las circunstancias que en él concurran. En los demás casos, la práctica de esta información podrá ser acordada discrecionalmente por la Delegación de Trabajo o por la Inspección de Trabajo a iniciativa propia.
+
+4\. Las Mutualidades Laborales y Mutuas Patronales remitirán, en los diez primeros días de cada mes, a las Delegaciones Provinciales de Trabajo y a las del Instituto Nacional de Estadística, sendos ejemplares del «Boletín Estadístico», de acuerdo con el modelo oficial establecido o que se establezca al efecto, por cada uno de los casos en que se hubiese producido el alta médica o el fallecimiento del trabajador accidentado en el mes inmediatamente anterior.
+
+> Se modifica el apartado 1 por el art. único de la Orden de 23 de octubre de 1972. [Ref. BOE-A-1972-1599](https://www.boe.es/buscar/doc.php?id=BOE-A-1972-1599)
+
+#### Artículo 22. Notificación de los accidentes de trabajo y enfermedades profesionales.
+
+1\. **(Derogado)**
+
+2\. **(Derogado)**
+
+3\. En casos graves o generalizados en la producción de enfermedades profesionales, la Delegación Provincial de Trabajo competente, de forma preceptiva, dispondrá que se practique por la Inspección de Trabajo inmediatamente, con el asesoramiento, en su caso, de los servicios especializados del Servicio Común, a que se refiere el apartado b) del número 1 de la disposición transitoria 5.ª de la Ley de la Seguridad Social de 21 de abril de 1966 y del Plan Nacional de Higiene y Seguridad del Trabajo, la consiguiente información en la Empresa o Empresas afectadas sobre las causas que originen la enfermedad profesional y las circunstancias que en la misma concurran.
+
+En los demás casos, la práctica de esta información podrá ser acordada discrecionalmente por la Delegación Provincial de Trabajo o por la Inspección de Trabajo a iniciativa propia, sin perjuicio de los asesoramientos que procedan de acuerdo con lo previsto en el número anterior.
+
+En cuanto a la obligación, por parte de las Entidades Gestoras y Mutuas Patronales, de confeccionar y remitir el "Boletín Estadístico", se estará a lo previsto en el número 4 del artículo anterior en relación con lo dispuesto en la Orden de 17 de diciembre de 1968.
+
+> Se derogan los apartados 1 y 2, con efectos de 1 de enero de 2007, por la disposición derogatoria única de la Orden TAS/1/2007, de 2 de enero. [Ref. BOE-A-2007-186](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-186).
+
+> Se añade por el art. único.2 de la Orden de 22 de enero de 1973. [Ref. BOE-A-1973-141](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-141).
+
+#### Disposición final.
+
+Se faculta a la Dirección General de Previsión para resolver cuantas cuestiones puedan plantearse en la aplicación de la presente Orden.
+
+#### Disposición transitoria primera.
+
+1\. De conformidad con lo preceptuado en el número 1 de la disposición transitoria primera de la Ley de la Seguridad Social, de 21 de abril de 1966, las prestaciones económicas causadas en el extinguido Seguro Obligatorio de Enfermedad con anterioridad a 1 de enero de 1967 y que subsistan en dicha fecha continuarán rigiéndose, a partir de la misma, por la legislación anterior a ellas aplicable.
+
+Por consiguiente, la duración máxima de tales prestaciones continuará siendo la de treinta y nueve semanas, a contar desde la fecha en que se hayan iniciado, prorrogable por otras trece semanas, de acuerdo con lo dispuesto en los artículos 4 y 7 de la Orden de 6 de agosto de 1958 («Boletín Oficial del Estado» de 20 de agosto) y habida cuenta de la desaparición de la antigua prestación de larga enfermedad del Mutualismo Laboral.
+
+2\. De conformidad igualmente con el precepto de la Ley de la Seguridad Social que se menciona en el número anterior, las prestaciones económicas por incapacidad temporal derivada de accidente de trabajo o enfermedad profesional, causadas con anterioridad a 1 de enero de 1967 y que subsistan en ficha fecha continuarán rigiéndose, a partir de la misma, por la legislación anterior aplicable a dichas contingencias.
+
+3\. Terminadas las situaciones de incapacidad, a que se refieren los dos números anteriores, por ser dados de alta médicamente los trabajadores que en las mismas se encontraban, si se apreciase en ellos la existencia de incapacidades constitutivas de invalidez permanente o, en caso de accidente de trabajo o enfermedad profesional, de lesiones, mutilaciones o deformidades indemnizables por baremo, se aplicarán a estas nuevas situaciones las normas que para ellas se establecen en el capítulo VI del título II de la Ley de la Seguridad Social.
+
+Terminadas la situaciones de incapacidad a que se refiere los dos números anteriores, por agotamiento de los respectivos plazos fijados en la legislación anterior, si los trabajadores que en ellas se encontraban continuasen precisando asistencia sanitaria y estando incapacitados para el trabajo, pasarán a la situación de invalidez provisional siempre que cumplan, salvo la condición de haber agotado los plazos señalados para la incapacidad laboral transitoria en la legislación vigente, los demás requisitos exigidos por ésta para el disfrute de las prestaciones de dicha invalidez.
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en el BOE núm. 267, de 8 de noviembre de 1967. [Ref. BOE-A-1967-19569](https://www.boe.es/buscar/doc.php?id=BOE-A-1967-19569).
+
+#### Disposición transitoria segunda.
+
+No obstante lo dispuesto en la presente Orden, el Servicio Común de la Seguridad Social, a que se refiere el apartado a) del número 1 de la disposición transitoria quinta de la Ley de la Seguridad Social de 21 de abril de 1966, conservará, en caso de enfermedad profesional, las funciones y competencias a que dicho precepto se refiere en tanto no se disponga lo contrario por este Ministerio.
+
+#### Disposición transitoria tercera.
+
+Hasta tanto no se constituyan las Comisiones Técnicas Calificadoras las funciones que a las mismas se encomiendan en la presente Orden se llevarán a cabo por los Tribunales Médicos existentes en la actualidad.
+
+Lo que digo a VV. II. para su conocimiento y efectos.
+
+Dios guarde a VV. II.
+
+Madrid, 13 de octubre de 1967.
+
+ROMEO GORRIA
+
+Ilmos. Sres. Subsecretario de este Ministerio y Director general de Previsión del mismo.

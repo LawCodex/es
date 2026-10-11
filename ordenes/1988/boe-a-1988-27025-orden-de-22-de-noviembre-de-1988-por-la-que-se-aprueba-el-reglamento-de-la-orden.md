@@ -1,0 +1,185 @@
+---
+title: "Orden de 22 de noviembre de 1988 por la que se aprueba el Reglamento de la Orden del Mérito Constitucional"
+identifier: "BOE-A-1988-27025"
+eli: "https://www.boe.es/eli/es/o/1988/11/22/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1988-11-22
+published: 1988-11-23
+in_force_from: 1988-11-24
+last_amended: 2003-11-15
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 281"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1988-27025"
+retrieved: 2026-10-11
+---
+
+# Orden de 22 de noviembre de 1988 por la que se aprueba el Reglamento de la Orden del Mérito Constitucional
+
+Las referencias al Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno deben entenderse hechas al Ministro de la Presidencia, según establece la disposición adicional única de la Orden PRE/3170/2003, de 11 de noviembre. [Ref. BOE-A-2003-20896](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20896)
+
+Aprobado el Real Decreto 1385/1988, de 18 de noviembre, por el que se crea la Orden del Mérito Constitucional, es preciso dictar el Reglamento de dicha condecoración.
+
+En su virtud, y en aplicación de la autorización contenida en la disposición final primera del citado Real Decreto, dispongo:
+
+## Artículo único.
+
+Se aprueba el Reglamento de la Orden del Mérito Constitucional, que figura como anexo de la presente disposición.
+
+## Disposición adicional.
+
+Las solicitudes de ingreso en la Orden de los Diputados y Senadores que fueron miembros de las Cortes que aprobaron la Constitución de 27 de diciembre de 1978, se tramitarán de acuerdo con lo establecido en el artículo 2.° del Real Decreto 1385/1988, de 18 de noviembre, y en el Reglamento de desarrollo.
+
+## Disposición final.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 22 de noviembre de 1988.
+
+ZAPATERO GOMEZ
+
+## ANEXO — Reglamento de la Orden del Mérito Constitucional
+
+## Artículo 1.
+
+1\. La Orden del Mérito Constitucional es una condecoración nacional de carácter civil que se concede en premio de aquellas personas que hayan realizado actividades relevantes al servicio de la Constitución y de los valores y principios en ella establecidos.
+
+2\. El Canciller de la Orden es el Ministro de la Presidencia, correspondiendo a la Subsecretaría de la Presidencia el ejercicio de las funciones inherentes a la Secretaría de la Orden.
+
+> Se modifica el apartado 2 por el apartado único de la Orden PRE/3170/2003, de 11 de noviembre. [Ref. BOE-A-2003-20896](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20896)
+
+## Artículo 2.
+
+La Orden del Mérito Constitucional podrá concederse tanto a personas físicas como jurídicas, públicas o privadas, españolas o extranjeras. En este último caso, la concesión requerirá que el Gobierno extranjero correspondiente otorgue el beneplácito, si, por reprocidad, así estuviese establecido.
+
+## Artículo 3.
+
+La condecoración tendrá carácter personal e intransferible y su concesión confiere los siguientes derechos:
+
+a) A ser y denominarse miembro de la Orden del Mérito Constitucional.
+
+b) A la expedición del título acreditativo.
+
+c) A recibir el tratamiento de Excelentísimo/a Sr./Sra. para el caso de las personas físicas, y las consideraciones oficiales debidas a su categorías en los demás supuestos.
+
+d) A exhibir la Medalla distintiva o la Placa de Honor, en su caso.
+
+e) A hacer constar la condición de miembro de la Orden en los libros, documentos o antecedentes del interesado.
+
+> Se modifica por el apartado único de la Orden PRE/3170/2003, de 11 de noviembre. [Ref. BOE-A-2003-20896](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20896)
+
+> Redactada la letra c) conforme a la corección de errores publicada en BOE núm. 290, de 3 de diciembre de 1988. [Ref. BOE-A-1988-27857](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-27857)
+
+## Artículo 4.
+
+El distintivo de la Orden está constituido por una Medalla y una Placa de Honor, cuyos modelos se reproducen en el anexo de este Reglamento y cuya descripción es la siguiente:
+
+A) De la Medalla:
+
+Material de elaboración: Plata de ley de 925 mm, con baño de oro de 22 kilates y esmaltes finos.
+
+Forma: Ovalada.
+
+Tema del anverso: Escudo de Armas de España esmaltado en sus colores sobre fondo azul cobalto, en el semiarco superior, sobre una cartela escrito en letras de sable, la leyenda "AL MÉRITO CONSTITUCIONAL" y todo orlado de dos ramas de laurel esmaltado en su color que se unen en su parte inferior enlazados por una cinta de color rojo y todo ello timbrado de corona real, carrada y forrada.
+
+Tema del reverso: Sobre óvalo de color azul cobalto, sobrepuesto y abierto, el libro que es el que simboliza la Constitución con la leyenda "CONSTITUCIÓN ESPAÑOLA 1978", puesta en fajas.
+
+La insignia pende de anilla oblonga del mismo metal que la medalla, por la que pasa un cordón o cinta. La insignia podrá ostentarse de forma indistinta pendiente de cordón o cinta al modo de Encomienda.
+
+B) Del cordón:
+
+Calidad: Hilos de seda trenzados.
+
+Longitud: 80 cm.
+
+Color: Rojo y amarillo. Entrelazados.
+
+C) Del ceñidor y nudo:
+
+Calidad: Seda.
+
+Color: Rojo.
+
+D) Cinta de Encomienda:
+
+Calidad: Moaré de seda.
+
+Color: Rojo y amarillo. Dividido en dos partes iguales, siendo la porción superior la correspondiente al color rojo.
+
+E) Placa de Honor: Se concederá a personas jurídicas.
+
+Forma: Placa rectangular de metal plateado de 30 x 18,08 cm.
+
+Tema de la parte superior: Anverso de la insignia correspondiente a la Medalla de la Orden, de 4 cm x 3,5 cm.
+
+Tema de la parte inferior: Nombre de la entidad receptora y fecha de la concesión.
+
+> Se modifica por el apartado único de la Orden PRE/3170/2003, de 11 de noviembre. [Ref. BOE-A-2003-20896](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20896)
+
+## Artículo 5.
+
+El ingreso en la Orden se efectuará mediante Real Decreto dictado a propuesta del Ministro de la Presidencia.
+
+> Se modifica por el apartado único de la Orden PRE/3170/2003, de 11 de noviembre. [Ref. BOE-A-2003-20896](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20896)
+
+## Artículo 6.
+
+1\. Los expedientes de concesión podrán iniciarse:
+
+a) De oficio, por el Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno, Canciller de la Orden.
+
+b) A instancia del Congreso de los Diputados, del Senado, del Tribunal Constitucional, del Consejo General del Poder Judicial o de los Consejos de Gobierno o Asambleas Legislativas de las Comunidades Autónomas.
+
+2\. No podrá iniciarse la tramitación de ningún expediente a instancia del propio interesado.
+
+## Artículo 7.
+
+En el expediente deberán constar:
+
+a) Los méritos y circunstancias que concurren en el candidato.
+
+b) La documentación acreditativa de dichos méritos.
+
+c) Los informes que, en cada caso, se consideren oportunos. Si el candidato fuese extranjero, deberá recabarse informe del Ministerio de Asuntos Exteriores, estándose a lo dispuesto en el artículo 2.° del presente Reglamento.
+
+## Artículo 8.
+
+1\. A la vista de !os datos e informes que figuren en el expediente, el Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno decidirá bien el archivo del mismo, bien la elevación al Consejo de Ministros de la propuesta de concesión, previa la conformidad expresa del interesado o, en caso de fallecimiento, la de sus causahabientes.
+
+2\. Publicado en el «Boletín Oficial del Estado» el Real Decreto de concesión, el Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno deberá expedir el correspondiente título-acreditativo.
+
+## Artículo 9.
+
+Con carácter general, los ingresos en la Orden del Mérito Constitucional se acordarán con ocasión de la celebración del Día de la Constitución.
+
+## Artículo 10.
+
+En el Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno se llevará un Libro de Registro de concesiones de esta condecoración, en el que se hará constar para cada caso:
+
+a) La fecha de iniciación del expediente.
+
+b) Los datos personales del condecorado.
+
+c) La disposición que la otorga y su fecha.
+
+d) La fecha de expedición del título.
+
+e) La fecha de imposición de la Medalla.
+
+f) Todos los demás datos que se estimen necesarios.
+
+## ANEXO
+
+– Orden del Mérito Constitucional.
+
+– Medalla.
+
+– Placa de Honor.
+
+![Imagen facsímil de la edición original: img/disp/2003/274/20896_001.png](https://www.boe.es/datos/imagenes/disp/2003/274/20896_001.png)
+
+> Se modifica por el apartado único de la Orden PRE/3170/2003, de 11 de noviembre. [Ref. BOE-A-2003-20896](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20896)

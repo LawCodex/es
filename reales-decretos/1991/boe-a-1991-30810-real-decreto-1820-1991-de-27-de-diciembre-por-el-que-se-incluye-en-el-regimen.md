@@ -1,0 +1,71 @@
+---
+title: "Real Decreto 1820/1991, de 27 de diciembre, por el que se incluye en el Régimen General de la Seguridad Social a los Ciclistas profesionales"
+identifier: "BOE-A-1991-30810"
+eli: "https://www.boe.es/eli/es/rd/1991/12/27/1820"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Seguridad Social"
+date: 1991-12-27
+published: 1991-12-28
+in_force_from: 1992-02-01
+last_amended: 1996-01-25
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 311"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-30810"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1820/1991, de 27 de diciembre, por el que se incluye en el Régimen General de la Seguridad Social a los Ciclistas profesionales
+
+En el artículo 2.° del Estatuto de los Trabajadores está prevista como relación laboral de carácter especial la de los deportistas profesionales, y en su desarrollo se dictó el Real Decreto 1006/1985, de 26 de junio, en el que se contiene el régimen jurídico de dicha relación laboral.
+
+Las peculiaridades de la práctica deportiva y la falta de una mención expresa en el mencionado Real Decreto han venido suscitando dudas en relación con la inclusión de tales trabajadores en el sistema de la Seguridad Social y las condiciones en que ésta habría de llevarse a cabo. La consideración global de los problemas del deporte, tanto de los clubes como de los profesionales, que se aborda en la Ley 10/1990, de 15 de octubre, del Deporte, ha de ser completada en los aspectos relacionados con la Seguridad Social de dichos profesionales, teniendo en cuenta, por otra parte, que el artículo 53 de dicha Ley prevé, entre las medidas a adoptar por la Administración del Estado, la inclusión en la Seguridad Social de los deportistas de alto nivel.
+
+Mediante la presente norma se resuelve la situación descrita en relación con uno de los colectivos afectados, el de los Ciclistas profesionales, dando respuesta a su petición de incorporación al sistema de la Seguridad Social.
+
+En su virtud, de acuerdo con el artículo 61.2.h) del texto refundido de la Ley General de la Seguridad Social, a propuesta del Ministro de Trabajo y Seguridad Social, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 27 de diciembre de 1991,
+
+DISPONGO:
+
+### Artículo 1.
+
+En la fecha de entrada en vigor del presente Real Decreto, quedan incluidos en el Régimen General de la Seguridad Social los ciclistas que tengan la condición de deportistas profesionales, de acuerdo con el Real Decreto 1006/1985, de 26 de junio, por el que se regula la relación laboral especial de los deportistas profesionales.
+
+### Artículo 2.
+
+1\. La acción protectora dispensada a los Ciclistas profesionales será la establecida en el artículo 83.1 del texto refundido de la Ley General de la Seguridad Social.
+
+2\. Los clubes o Entidades deportivas ciclistas tendrán la consideración de empresarios a efectos de las obligaciones que para éstos se establecen en el Régimen General de la Seguridad Social.
+
+### Artículo 3.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.11 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+## DISPOSICIÓN ADICIONAL
+
+Se modifica la descripción de los trabajos incluídos en el epígrafe 121 de la tarifa de primas para la cotización a la Seguridad Social por accidentes de trabajo y enfermedades profesionales, aprobada por Real Decreto 2930/1979, de 29 de diciembre, que queda redactada en los siguientes términos:
+
+«Enfermeros y Guardias de manicomios. Profesores de artes marciales, Gimnastas y Socorristas. Jugadores profesionales de fútbol. Ciclistas profesionales y otros deportistas profesionales integrados en el sistema de la Seguridad Social que no tengan señalado otro epígrafe especial.»
+
+## DISPOSICIONES FINALES
+
+### Primera.
+
+Se autoriza al Ministro de Trabajo y Seguridad Social para dictar las disposiciones necesarias para la aplicación y desarrollo de lo dispuesto en el presente Real Decreto.
+
+### Segunda.
+
+El presente Real Decreto entrará en vigor el día primero del segundo mes siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 27 de diciembre de 1991.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Seguridad Social,
+
+LUIS MARTÍNEZ NOVAL

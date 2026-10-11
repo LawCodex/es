@@ -1,0 +1,63 @@
+---
+title: "Real Decreto 358/1985, de 23 de enero, por el que se establece la sujeción a normas técnicas de las griferías sanitarias para utilizar en locales de higiene corporal, cocinas y lavaderos y su homologación por el Ministerio de Industria y Energía"
+identifier: "BOE-A-1985-4616"
+eli: "https://www.boe.es/eli/es/rd/1985/01/23/358"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria y Energía"
+date: 1985-01-23
+published: 1985-03-22
+in_force_from: 1985-04-11
+last_amended: 1987-01-03
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 70"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-4616"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 358/1985, de 23 de enero, por el que se establece la sujeción a normas técnicas de las griferías sanitarias para utilizar en locales de higiene corporal, cocinas y lavaderos y su homologación por el Ministerio de Industria y Energía
+
+El Reglamento General de Actuaciones del Ministerio de Industria y Energía en el Campo de la Normalización y Homologación, aprobado por el Real Decreto 2584/1981, de 18 de septiembre, aprobó en el capitulo cuarto, apartado cuarto, punto uno punto tres, la declaración de obligatoriedad de una norma en razón a su necesidad, que se considerara justificada, entre otras razones, por la seguridad, la salubridad e higiene de los usuarios o consumidores, o de terceros y de sus pertenencias, conservación del medio ambiente, defensa de los intereses económicos del usuario o consumidor, prevención de practicas que puedan inducir a error; como igualmente cuando la norma redunde en beneficio de conservación de la energía y consumo de recursos escasos.
+
+Por su parte, el mismo Reglamento, en el capitulo quinto, apartado cinco, punto uno punto uno, dispone que la homologación de un prototipo, tipo o modelo, implica el reconocimiento oficial de que cumple con lo establecido en un Reglamento, norma o instrucción técnica complementaria y cuya observancia es exigida en una disposición previa.
+
+La consecución de los objetivos marcados en el capitulo seis, apartado tres, punto uno, de la Orden de 9 de diciembre de 1975, por la que se aprueban las normas básicas para las instalaciones interiores de suministro de agua, así como para garantizar la higiene, salubridad, seguridad y defensa de los intereses economicos de usuarios y terceros, y la prevención de practicas que inducen a error, y muy especialmente la conservación de un recurso cada vez mas escaso, como es el agua, ponen de manifiesto la necesidad de establecer, con carácter obligatorio, la sujeción a normas de las griferías sanitarias para utilización en locales de higiene corporal, cocinas y lavaderos, y la exigencia de la homologación de sus tipos y el seguimiento de la producción.
+
+En su virtud, a propuesto del Ministro de Industria y Energía y previa deliberación del Consejo de Ministros en su reunión del día 23 de enero de 1985,
+
+DISPONGO:
+
+## Articulo 1.
+
+Se declaran de obligada observancia las normas técnicas sobre griferías sanitarias para utilizar en los locales de higiene corporal, cocinas y lavaderos, destinados al comercio interior, que se determinen por el Ministerio de Industria y Energía.
+
+## Articulo 2.
+
+Las normas a que se refiere el articulo anterior habrán de observarse en los diferentes tipos de griferías sanitarias para utilizar en locales de higiene corporal, cocinas y lavaderos, cuya preceptiva homologación se llevara a efecto, de acuerdo con el Reglamento General de Actuaciones del Ministerio de Industria y Energía en el Campo de la Normalización y Homologación, aprobado por Real Decreto 2584/1981, de 18 de septiembre, y las normas que el Ministerio de Industria y Energía establezca para el sistema de ensayo.
+
+## Articulo 3.
+
+En el plazo de un año, a partir de la entrada en vigor de las normas a que se refiere el articulo primero, las griferías sanitarias para utilizar en locales de higiene corporal, cocinas y lavaderos, tanto de fabricación nacional como importadas, deberán ajustarse a tipos previamente homologados.
+
+## Disposición adicional.
+
+Los productos a que se refiere el presente Real Decreto originarios de un Estado miembro de la Comunidad Económica Europea, podrán ser importados en territorio español aun cuando no hayan sido previamente homologados, si han sido legalmente fabricados y comercializados en un Estado miembro y cumplen la reglamentación y los procedimientos de fabricación establecidos en cualquier Estado miembro de la misma Comunidad. En este supuesto, la Administración requerirá del importador como requisito previo a la importación, los documentos que acrediten las referidas circunstancias extendidos por una Entidad reconocida oficialmente en un Estado miembro.
+
+No obstante lo anterior, la Administración Española podrá, ante sospechas fundadas o denuncias de parte, exigir asimismo la presentación de un certificado emitido por un Organismo reconocido por el Ministerio de Industria y Energía, que acredite el cumplimiento de lo establecido en el párrafo anterior.
+
+> Téngase en cuenta que esta disposición fue añadida por el Real Decreto 2698/1986, de 19 de diciembre. [Ref. BOE-A-1987-112](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-112), que ha sido derogado por el Real Decreto 105/1988, de 12 de febrero, por el que se complementan, modifica y actualizan determinados preceptos del Reglamento General de las Actuaciónes del Ministerio de Industria y Energía en el campo de la normalización y homologación, aprobado por Real Decreto 2584/1981, de 18 de septiembre. [Ref. BOE-A-1988-3988](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-3988)
+
+> Se añade por el art. 1 del Real Decreto 2698/1986, de 19 de diciembre. [Ref. BOE-A-1987-112](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-112)
+
+> Téngase en cuenta que el Real Decreto citado anteriormente queda derogado por el Real Decreto 105/1988, de 12 de febrero. [Ref. BOE-A-1988-3988](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-3988)
+
+Dado en Madrid a 23 de enero de 1985.
+
+JUAN CARLOS R.
+
+El Ministro de Industria y Energía,
+
+Carlos Solchaga Catalan.

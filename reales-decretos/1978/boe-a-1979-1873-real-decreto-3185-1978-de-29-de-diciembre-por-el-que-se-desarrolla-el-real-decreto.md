@@ -1,0 +1,101 @@
+---
+title: "Real Decreto 3185/1978, de 29 de diciembre, por el que se desarrolla el Real Decreto-ley número 12/1978, de 27 de abril, sobre fijación y delimitación de facultades entre los Ministerios de Defensa y de Transportes y Comunicaciones en materia de aviación"
+identifier: "BOE-A-1979-1873"
+eli: "https://www.boe.es/eli/es/rd/1978/12/29/3185"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1978-12-29
+published: 1979-01-20
+in_force_from: 1979-02-09
+last_amended: 1994-01-04
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 18"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1979-1873"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 3185/1978, de 29 de diciembre, por el que se desarrolla el Real Decreto-ley número 12/1978, de 27 de abril, sobre fijación y delimitación de facultades entre los Ministerios de Defensa y de Transportes y Comunicaciones en materia de aviación
+
+Incluye la corrección de errores publicada en BOE núm. 29, de 2 de febrero de 1979. [Ref. BOE-A-1979-3117](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-3117).
+
+La disposición final del Real Decreto-ley número doce/mil novecientos setenta y ocho, de veintisiete de abril, sobre fijación y delimitación de facultades entre los Ministerios de Defensa y de Transportes y Comunicaciones en materia de aviación, faculta al Gobierno, a propuesta conjunta de los Ministros de Defensa, del Interior, y de Transportes y Comunicaciones, para dictar cuantas disposiciones sean necesarias para el desarrollo de dicho Real Decreto-ley.
+
+La importancia, trascendencia y complejidad de las diferentes materias comprendidas en el mismo, así como la incidencia que tienen en los tres citados Departamentos ministeriales, aconsejan regular detalladamente las mismas, en unos casos, y coordinarlas, en otros, con vistas a obtener la mayor eficacia con el mínimo coste para la Nación, así como establecer el Organismo interministerial adecuado para el estudio e informe de las materias señaladas en los artículos cuarto y quinto del citado Real Decreto-ley, tal como se establece en su artículo sexto.
+
+En su virtud, a propuesta conjunta de los Ministros de Defensa, del Interior, y de Transportes y Comunicaciones, y previa deliberación del Consejo de Ministros en su reunión del día veintinueve de diciembre de mil novecientos setenta y ocho,
+
+DISPONGO:
+
+## Artículo primero.
+
+Para coordinar estrechamente el ejercicio del control de los diferentes tipos de circulación aérea, potenciando al máximo la seguridad de las aeronaves en vuelo, el sistema nacional de control de la circulación aérea contará, además de con los servicios civiles de tránsito aéreo del Ministerio de Obras Públicas, Transportes y Medio Ambiente, con una unidad operativa de coordinación del tránsito aéreo y con unidades de control de la circulación aérea operativa, dependientes una y otras del Ejército del Aire.
+
+> Se modifica por el art. 2 del Real Decreto 2161/1993, de 10 de diciembre. [Ref. BOE-A-1994-136](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-136).
+
+## Artículo segundo.
+
+La unidad de coordinación del tránsito aéreo coordinará lo relativo al tránsito aéreo de carácter operativo. Dicha unidad y los correspondientes servicios civiles de control adscritos al Ministerio de Obras Públicas, Transportes y Medio Ambiente garantizarán conjuntamente la coordinación entre la circulación aérea general y la circulación aérea operativa.
+
+> Se modifica por el art. 2 del Real Decreto 2161/1993, de 10 de diciembre. [Ref. BOE-A-1994-136](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-136).
+
+## Artículo tercero.
+
+Las unidades de control de la circulación aérea operativa desarrollarán las actividades necesarias para el control de dicha circulación, coordinando su actuación con las dependencias civiles de control de tránsito aéreo, cuando resulte necesario en interés de la defensa nacional y de la seguridad y fluidez del tránsito aéreo. Estas unidades proporcionarán además al sistema de defensa aérea la información que éste precise para el conocimiento de la situación aérea.
+
+A estos fines, las citadas unidades de control de la circulación aérea operativa se establecerán en los centros regionales, terminales y aeroportuarios de control de la circulación aérea que el Ejército del Aire determine.
+
+> Se modifica por el art. 2 del Real Decreto 2161/1993, de 10 de diciembre. [Ref. BOE-A-1994-136](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-136).
+
+## Artículo cuarto.
+
+Uno. Para representar los intereses de la defensa nacional o de la aviación militar en los aeropuertos y aeródromos públicos civiles, se establecerá en cada aeropuerto o conjunto de ellos, que correspondan a una misma demarcación, una Comandancia Militar Aérea, cuyo Comandante ejercerá las competencias propias del Ministerio de Defensa.
+
+Dos. El establecimiento de dichas Comandancias Militares Aéreas, así como la fijación y posterior modificación de su estructura y encuadramiento orgánico, en función de los intereses de la defensa nacional o de la aviación militar, competen al Ministerio de Defensa, a propuesta del Ejército del Aire.
+
+## Artículo quinto.
+
+Las Comandancias Militares Aéreas tendrán como misión esencial la de facilitar el desarrollo de las operaciones militares aéreas en los aeropuertos o aeródromos de su demarcación, a cuyos efectos dependerán orgánicamente de los Mandos Aéreos del Ejército del Aire y contarán, en dichos aeropuertos o aeródromos, con zonas reservadas, con carácter permanente o eventual al Ejército del Aire. La delimitación de estas zonas se hará conjuntamente por los Ministerios de Defensa y de Transportes y Comunicaciones, a propuesta del primero.
+
+## Artículo sexto.
+
+Los Comandantes Militares Aéreos ejercerán la competencia atribuida a los Jefes de Aeropuerto o Aeródromo en el artículo setenta y seis, punto dos, de la Ley Penal y Procesal sobre Navegación Aérea; de veinticuatro de diciembre de mil novecientos sesenta y cuatro, a cuyo efecto dependerán de la autoridad jurisdiccional correspondiente.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 29, de 2 de febrero de 1979. [Ref. BOE-A-1979-3117](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-3117).
+
+## Artículo séptimo.
+
+Uno. Los Comandantes Militares Aéreos serán responsables ante el General Jefe del Mando Aéreo del que dependan del cumplimiento de los cometidos específicos siguientes:
+
+a) Informar sobre las capacidades y limitaciones de cada uno de los aeropuertos de su demarcación para apoyar la realización de operaciones militares aéreas.
+
+b) Coordinar con los respectivos Directores de Aeropuertos la prestación de los servicios aeroportuarios que se precisen para el desarrollo de los planes de operaciones militares vigentes.
+
+c) Ejercer el mando militar sobre las zonas reservadas al Ejército del Aire en aquellos aeropuertos y aeródromos de su demarcación en los que existan.
+
+Dos. A efectos de lo dispuesto en el punto uno anterior, los Comandantes Militares Aéreos de Aeropuerto formarán parte, por sí o por personas que designen, de aquellos Organismos y Comités que traten de los extremos relacionados con el citado punto en los aeropuertos y aeródromos de su demarcación.
+
+## Artículo octavo.
+
+Los Comandantes Militares Aéreos coordinarán con el Director de Aeropuerto y con el Comisario Jefe de Policía del Aeropuerto y el Jefe de las Fuerzas de la Guardia Civil, estos dos últimos como representantes del Ministerio del Interior, encargados del mantenimiento de la seguridad y orden público en el aeropuerto y aeródromo público civil, los servicios de seguridad de sus respectivas zonas.
+
+## Artículo noveno.
+
+Uno. El Comandante de una Base Aérea cuyas pistas y servicios sean utilizados por un aeropuerto público civil ejercerá, además de las funciones y misiones que como tal Jefe de Base Aérea le corresponden, las atribuidas al Comandante Militar del Aeropuerto en los artículos anteriores, siendo además responsable del funcionamiento de todos los elementos que se consideren imprescindibles para asegurar su continuidad operativa.
+
+Dos. A tales efectos coordinará con el Director de Aeropuerto la adopción de las medidas que en cada caso sean necesarias para garantizar la continuidad de las operaciones militares aéreas en cualesquiera circunstancias.
+
+## Disposición final.
+
+En el plazo de tres meses, los Ministerios de Defensa y Transportes y Comunicaciones procederán, conjuntamente, a la creación de la Comisión Interministerial prevista en el artículo sexto del Real Decreto-ley doce/mil novecientos setenta y ocho, de veintisiete de abril, definiendo su competencia, estructura y composición.
+
+Dado en Madrid a veintinueve de diciembre de mil novecientos setenta y ocho.
+
+JUAN CARLOS
+
+El Ministro de la Presidencia,
+
+JOSÉ MANUEL OTERO NOVAS

@@ -1,0 +1,230 @@
+---
+title: "Decreto Legislativo 4/2000, de 29 junio, del Gobierno de Aragón, por el que se aprueba el texto refundido de la Ley del Instituto Aragonés de Fomento"
+identifier: "BOA-d-2000-90004"
+type: legislative_decree
+rank: "Decreto Legislativo"
+jurisdiction: es-aragon
+language: es
+department: "Comunidad Autónoma de Aragón"
+date: 2000-06-29
+published: 2000-06-30
+in_force_from: 2000-06-30
+last_amended: 2019-09-30
+consolidated: 2023-12-26
+gazette: "Boletín Oficial de Aragón núm. 77"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOA-d-2000-90004"
+retrieved: 2026-10-11
+---
+
+# Decreto Legislativo 4/2000, de 29 junio, del Gobierno de Aragón, por el que se aprueba el texto refundido de la Ley del Instituto Aragonés de Fomento
+
+La Constitución Española, en su artículo 130.1, encomienda a los poderes públicos atender a la modernización y desarrollo de todos los sectores económicos. Por su parte, el artículo 148, que fija las competencias que pueden asumir las Comunidades Autónomas, incluye como una de ellas el fomento del desarrollo económico de la Comunidad Autónoma dentro de los objetivos marcados por la política económica nacional.
+
+Asimismo, el Estatuto de Autonomía de Aragón, desarrollando los mandatos constitucionales transcritos, establece, explícitamente, en su artículo 35.1.24, al enumerar las competencias exclusivas de la Comunidad, por una parte, la planificación de la actividad económica y el fomento del desarrollo económico de la Comunidad Autónoma, dentro de los objetivos marcados por la política económica nacional; y por otra parte, la creación y gestión de un sector público propio de la Comunidad.
+
+Más concretamente, el artículo 57 del citado Estatuto indica que la Diputación General de Aragón fomentará, como poder público, la modernización y desarrollo económico y social en el marco de lo dispuesto en el propio texto constitucional, así como la creación y participación en empresas que procuren tales logros.
+
+En aplicación de los principios generales expuestos, la Ley 4/1986, de 4 de junio, de Hacienda de la Comunidad Autónoma de Aragón, arbitra entre los instrumentos para procurar aquellos propósitos de desarrollo la creación de entidades públicas, que, como dice en su exposición de motivos, deben regularse de forma flexible y adecuada a las características de estos entes para que, sin menoscabo de la agilidad y eficacia en su actuación, se pueda disponer de un conocimiento preciso sobre la realidad económica de los mismos. A tal fin, en su parte dispositiva, configura como organismos públicos de la Comunidad Autónoma las entidades de derecho público, con personalidad jurídica, que por su ley de creación hayan de ajustar sus actividades al ordenamiento jurídico privado.
+
+La Ley 11/1989, de 29 de diciembre, de Presupuestos de la Comunidad Autónoma de Aragón para 1990, posibilitó la creación del Instituto Aragonés de Fomento al disponer que, dependiente del Departamento de Economía y mediante Ley de Cortes de Aragón, se creara el Instituto Aragonés de Fomento, cumpliéndose el mandato parlamentario con la Ley 7/1990, de 20 de junio.
+
+La Ley 15/1999, de 29 de diciembre de Medidas Tributarias, Financieras y Administrativas modifica la Ley 7/1990, de 20 de junio, del Instituto Aragonés de Fomento para acomodar su dependencia orgánica y la composición de sus órganos rectores a la actual configuración de la estructura de la Administración de la Comunidad Autónoma de Aragón. La citada norma autoriza, además en su artículo 22, de acuerdo con lo previsto en el artículo 15.2 del Estatuto de Autonomía, y el artículo 28 de la Ley 1/1995, de 16 de febrero del Presidente y del Gobierno de Aragón, al Gobierno de Aragón a refundir las disposiciones vigentes en la materia, estableciéndose para ello un plazo de seis meses; alcanzando la autorización para dicha refundición a regularizar, aclarar y armonizar dichas disposiciones.
+
+En este sentido, en el texto se han suprimido las Disposiciones Transitorias que contenía la Ley 7/1990, al haber quedado sin contenido, por el cumplimiento de sus previsiones temporales. Cumpliéndose este mandato de las Cortes Aragonesas se aprueba este Decreto Legislativo.
+
+En su virtud, a propuesta del Consejero de Industria, Comercio y Desarrollo, conforme al dictamen de la Comisión Jurídica Asesora y previa deliberación del Gobierno de Aragón en su reunión del día 29 de junio de 2000,
+
+DISPONGO
+
+## Artículo único.
+
+Queda aprobado el Texto Refundido de la Ley reguladora del Instituto Aragonés de Fomento, que se contiene como Anexo.
+
+## Disposición derogatoria única. Cláusula derogatoria.
+
+Queda derogada la Ley 7/1990, de 20 de junio, del Instituto Aragonés de Fomento, modificada por la Ley 15/1999, de 29 de diciembre, así como cuantas normas de igual o inferior rango se opongan a lo dispuesto en el presente Decreto Legislativo.
+
+## Disposición final única. Entrada en vigor.
+
+El presente Decreto Legislativo entrará en vigor el mismo día de su publicación en el «Boletín Oficial de Aragón».
+
+Dado en Zaragoza, a 29 de junio de 2000.‒El Presidente del Gobierno de Aragón, Marcelino Iglesias Ricou.‒El Consejero de Industria, Comercio y Desarrollo, José Porta Monedero.
+
+## ANEXO — Texto refundido de la Ley del Instituto Aragonés de Fomento
+
+## Artículo 1. Creación.
+
+Se crea el Instituto Aragonés de Fomento, adscrito al Departamento que tenga atribuidas las competencias en materia de industria de la Comunidad Autónoma de Aragón.
+
+> Se modifica por el art. único.1 del Decreto-ley 8/2019, de 24 de septiembre. [Ref. BOA-d-2019-90538](https://www.boe.es/buscar/doc.php?id=BOA-d-2019-90538)
+
+> Se modifica por el art. 24.1 de la Ley 2/2016, de 28 de enero. [Ref. BOE-A-2016-2408](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2408)
+
+## Artículo 2. Naturaleza.
+
+1\. El Instituto Aragonés de Fomento es una entidad de derecho público, con personalidad jurídica y patrimonio propio y plena capacidad jurídica y de obrar para el cumplimiento de sus fines.
+
+2\. El Instituto Aragonés de Fomento, como entidad de derecho público, se regirá por lo previsto en esta Ley, en las disposiciones que la desarrollen y en aquellas que resulten de aplicación. No obstante, al régimen de contratación, tráfico patrimonial y mercantil y actividades externas le será de aplicación el ordenamiento jurídico privado.
+
+3\. El Instituto Aragonés de Fomento tendrá la consideración de medio propio instrumental y servicio técnico de la Administración de la Comunidad Autónoma de Aragón para la realización de actuaciones relacionadas con el desarrollo regional y económico de Aragón.
+
+> Se añade el apartado 3 por el art. 24.2 de la Ley 2/2016, de 28 de enero. [Ref. BOE-A-2016-2408](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2408)
+
+## Artículo 3. Objetivos.
+
+El Instituto Aragonés de Fomento tiene como objetivos fundamentales los siguientes:
+
+a) Favorecer el desarrollo socioeconómico de Aragón.
+
+b) Favorecer el incremento y consolidación del empleo.
+
+c) Corregir los desequilibrios intraterritoriales.
+
+## Artículo 4. Funciones.
+
+Son funciones del Instituto Aragonés de Fomento las siguientes:
+
+a) La promoción de proyectos de inversión, públicos y privados, con especial incidencia en las zonas menos desarrolladas del territorio aragonés. A tal fin podrá otorgar avales, conceder préstamos y subvenciones, participar en el accionariado de los mismos, promover la entrada de otros socios financieros y efectuar seguimiento y apoyo a la gestión y desarrollo de estos proyectos.
+
+b) La promoción de infraestructuras industriales, equipamientos y servicios colectivos para las empresas, con especial atención a las pequeñas y medianas empresas y a las sociedades cooperativas y empresas de economía social.
+
+c) El estudio de las posibilidades de desarrollo endógeno en las comarcas aragonesas y de la viabilidad de nuevas ocupaciones de acuerdo con las nuevas necesidades sociales, así como el necesario impulso para su puesta en marcha.
+
+d) La promoción y participación en estudios de mercado yen la elaboración de trabajos sobre planificación económica de la Comunidad Autónoma.
+
+e) El fomento de la promoción exterior y de la localización empresarial en Aragón, así como de la captación de capital, mediante la creación de sociedades o la participación en las ya existentes.
+
+f) La asistencia técnica y asesoramiento financiero a las empresas.
+
+g) Cualesquiera otras funciones que le sean atribuidas por Ley.
+
+## Artículo 5. Organización.
+
+Los órganos rectores del Instituto Aragonés de Fomento son:
+
+a) El Consejo de Dirección.
+
+b) La Presidencia.
+
+c) La Dirección Gerencia.
+
+## Artículo 6. El Consejo de Dirección.
+
+1\. El Consejo de Dirección estará compuesto por el Presidente, el Vicepresidente y los Vocales a que se refiere el apartado siguiente.
+
+2\. Son vocales del Consejo de Dirección:
+
+a) Una persona representante de los Departamentos que tengan atribuidas competencias en materia de: Presidencia; Ciencia, Universidad y Sociedad del Conocimiento; Vertebración del Territorio, Movilidad y Vivienda; Economía, Planificación y Empleo; Hacienda y Administración Pública; Agricultura, Ganadería y Medio Ambiente.
+
+b) Dos representantes propuestos por el Departamento al que esté adscrito el Instituto.
+
+c) La persona que ocupe la Dirección Gerencia del Instituto.
+
+La vocalía del Consejo de Dirección será designada por el Gobierno de Aragón a propuesta de los Departamentos que tengan las competencias mencionadas.
+
+3\. Actuará como Secretario/a con voz y sin voto, un funcionario/a de grupo A1 del departamento al que corresponda la Presidencia del Instituto con titulación en Derecho, designado por el titular del mismo.
+
+> Se modifican los apartados 2 y 3 por el art. único.2 del Decreto-ley 8/2019, de 24 de septiembre. [Ref. BOA-d-2019-90538](https://www.boe.es/buscar/doc.php?id=BOA-d-2019-90538)
+
+> Se modifica el apartado 2 por el art. 24.3 de la Ley 2/2016, de 28 de enero. [Ref. BOE-A-2016-2408](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2408)
+
+> Se modifica por el art. 36 de la Ley 3/2012, de 8 de marzo. [Ref. BOE-A-2012-5203](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5203)
+
+## Artículo 7. Funciones del Consejo de Dirección.
+
+Corresponde al Consejo de Dirección:
+
+a) Dirigir la actuación del Instituto Aragonés de Fomento, en el marco de las directrices que pueda establecer el Gobierno de Aragón.
+
+b) Coordinar sus actuaciones con las iniciativas que, en relación con los mismos objetivos, se planteen por otras Administraciones públicas en Aragón.
+
+c) Fijar la planificación y plazos de las actuaciones del Instituto, a partir de un plan plurianual que establezca los objetivos y líneas de trabajo fundamentales en el inicio de cada legislatura.
+
+d) Adoptar toda clase de acuerdos y decisiones dirigidas al cumplimiento de sus fines.
+
+e) Aprobar la memoria anual.
+
+f) Aprobar el anteproyecto de presupuesto del Instituto para su remisión al Departamento con competencias en materia de Economía.
+
+## Artículo 8. Presidencia.
+
+Corresponderá la Presidencia del Consejo de Dirección al Consejero titular del Departamento de adscripción del Instituto, quien ostentará la representación legal del Instituto, dirigirá las sesiones del Consejo de Dirección y ejercerá cuantas facultades le delegue el Consejo».
+
+> Se modifica por el art. único.3 del Decreto-ley 8/2019, de 24 de septiembre. [Ref. BOA-d-2019-90538](https://www.boe.es/buscar/doc.php?id=BOA-d-2019-90538)
+
+> Redactado conforme a la corrección de errores publicada en BOA núm. 198, de 9 de octubre de 2019. [Ref. BOA-d-2019-90543](https://www.boe.es/buscar/doc.php?id=BOA-d-2019-90543)
+
+> Se modifica por el art. 24.4 de la Ley 2/2016, de 28 de enero. [Ref. BOE-A-2016-2408](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2408)
+
+## Artículo 9. Vicepresidencia.
+
+Corresponderá la Vicepresidencia del Consejo a un Director General o cargo asimilado del Departamento de adscripción del Instituto, propuesto por el titular del mismo. El Vicepresidente sustituirá al Presidente en los casos de vacante, ausencia o enfermedad.
+
+> Se modifica por el art. único.4 del Decreto-ley 8/2019, de 24 de septiembre. [Ref. BOA-d-2019-90538](https://www.boe.es/buscar/doc.php?id=BOA-d-2019-90538)
+
+> Redactado conforme a la corrección de errores publicada en BOA núm. 198, de 9 de octubre de 2019. [Ref. BOA-d-2019-90543](https://www.boe.es/buscar/doc.php?id=BOA-d-2019-90543)
+
+## Artículo 10. La Dirección Gerencia.
+
+El Director Gerente será nombrado por el Gobierno de Aragón, a propuesta del Presidente del Instituto, oído el Consejo de Dirección, entre personas de reconocida competencia en materias relacionadas con los fines perseguidos por el Instituto, asumiendo todas las funciones ejecutivas que determine el Consejo de Dirección.
+
+## Artículo 11. Recursos.
+
+Los recursos del Instituto Aragonés de Fomento estarán integrados por:
+
+a) Las transferencias contenidas a tal fin en los Presupuestos de la Comunidad Autónoma.
+
+b) Los ingresos propios que pueda recibir por la prestación de sus servicios.
+
+c) Los ingresos patrimoniales, ordinarios o extraordinarios, que perciba como consecuencia de su participación en sociedades.
+
+d) Los créditos, préstamos y demás operaciones financieras que concierte.
+
+e) Los recursos ajenos captados para su canalización hacia sociedades en que participe.
+
+f) Las subvenciones o aportaciones voluntarias de entidades públicas o privadas.
+
+g) Cualquier otro recurso que pueda serle atribuido.
+
+## Artículo 12. Régimen económico-financiero.
+
+1\. El Instituto Aragonés de Fomento elaborará anualmente el anteproyecto de presupuesto, el programa de actuación, inversiones y financiación y demás documentación complementaria del mismo, que remitirá a su Departamento de adscripción, de conformidad con lo establecido en la Ley de Hacienda de la Comunidad Autónoma.
+
+2\. La Intervención General de la Administración de la Comunidad Autónoma de Aragón realizará el control financiero del Instituto Aragonés de Fomento dentro de la forma y plazo que fije la Ley de Hacienda de la Comunidad Autónoma de Aragón.
+
+3\. La concesión de avales y las operaciones de endeudamiento del Instituto Aragonés de Fomento deberán acomodarse, en todo caso, a los límites individuales y cuantías globales asignados para tales fines en la Ley de Presupuestos de la Comunidad Autónoma de cada ejercicio, comunicándose a la Comisión de Economía y Presupuestos de las Cortes de Aragón dentro del mes siguiente a su realización.
+
+> Se modifica el apartado 1 por el art. único.5 del Decreto-ley 8/2019, de 24 de septiembre. [Ref. BOA-d-2019-90538](https://www.boe.es/buscar/doc.php?id=BOA-d-2019-90538)
+
+> Redactado conforme a la corrección de errores publicada en BOA núm. 198, de 9 de octubre de 2019. [Ref. BOA-d-2019-90543](https://www.boe.es/buscar/doc.php?id=BOA-d-2019-90543)
+
+## Artículo 13. Personal.
+
+Con independencia del personal propio al servicio del Instituto Aragonés de Fomento, que se regirá por las normas de Derecho laboral o privado que le sean de aplicación, el Gobierno de Aragón podrá adscribir, con carácter temporal, personal de la Administración de la Comunidad Autónoma para prestar sus servicios en el Instituto Aragonés de Fomento sin merma de sus derechos.
+
+## Artículo 14. Control Parlamentario.
+
+El Instituto Aragonés de Fomento remitirá a las Cortes de Aragón, dentro del segundo semestre de cada año, un plan de carácter anual que comprenda los objetivos a alcanzar por el Instituto durante el año siguiente. Así mismo, dentro del primer semestre de cada año, remitirá a las Cortes de Aragón un informe de los resultados alcanzados durante el año anterior en relación con los objetivos propuestos.
+
+## Disposición adicional primera. Coordinación con representantes de las Corporaciones Locales.
+
+1\. El Presidente del Instituto Aragonés de Fomento, periódicamente, coordinará las actuaciones del mismo con los representantes de las Corporaciones Locales del ámbito de la Comunidad Autónoma.
+
+2\. A los efectos previstos en el apartado anterior, el Presidente del Instituto Aragonés de Fomento se reunirá conjuntamente, al menos dos veces al año, con un representante de cada una de las tres Diputaciones Provinciales de Aragón y de la asociación de municipios más representativa de la Comunidad Autónoma, a fin de recabar las demandas de los mismos y facilitarles información de las actuaciones y programas del Instituto Aragonés de Fomento.
+
+## Disposición adicional segunda. Nombramiento de Asesores.
+
+Con el fin de garantizar la eficacia en la actuación del Instituto, el Presidente podrá nombrar asesores del mismo a personas de reconocida competencia en materia empresarial o social. Los asesores del Instituto no tendrán derecho a retribución por el desempeño de su función.
+
+## Disposición adicional tercera. Autorización para modificaciones de crédito.
+
+**(Suprimido).**
+
+> Se suprime por el art. único.6 del Decreto-ley 8/2019, de 24 de septiembre. [Ref. BOA-d-2019-90538](https://www.boe.es/buscar/doc.php?id=BOA-d-2019-90538)
+
+> Redactado conforme a la corrección de errores publicada en BOA núm. 198, de 9 de octubre de 2019. [Ref. BOA-d-2019-90543](https://www.boe.es/buscar/doc.php?id=BOA-d-2019-90543)
+
+## Disposición final única. Desarrollo reglamentario.
+
+Se autoriza al Gobierno de Aragón para dictar las disposiciones necesarias y adoptar las oportunas medidas de ejecución y desarrollo de lo dispuesto en esta Ley.

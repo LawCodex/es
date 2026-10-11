@@ -1,0 +1,175 @@
+---
+title: "Real Decreto 2473/1985, de 27 de diciembre, por el que se aprueba la tabla de vigencia a que se refiere el apartado 3 de la disposición derogatoria de la Ley 29/1985, de 2 de agosto, de Aguas"
+identifier: "BOE-A-1986-6"
+eli: "https://www.boe.es/eli/es/rd/1985/12/27/2473"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Obras Públicas y Urbanismo"
+date: 1985-12-27
+published: 1986-01-02
+in_force_from: 1986-01-02
+last_amended: 1988-08-31
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 2"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2473/1985, de 27 de diciembre, por el que se aprueba la tabla de vigencia a que se refiere el apartado 3 de la disposición derogatoria de la Ley 29/1985, de 2 de agosto, de Aguas
+
+Incluye la corrección de errores publicada en BOE núm. 30, de 4 de febrero de 1986. [Ref. BOE-A-1986-2898](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-2898).
+
+En la disposición derogatoria de la Ley de Aguas de 2 de agosto de 1985 se establece que el Gobierno, antes de la entrada en vigor de dicha Ley, completará mediante Real Decreto la tabla de vigencias de las disposiciones afectadas por la misma Ley.
+
+Asimismo, la disposición final segunda de la propia Ley autoriza al Gobierno para dictar, a propuesta del Ministerio de Obras Públicas y Urbanismo, las disposiciones reglamentarias que fueran precisas para el cumplimiento de aquella.
+
+Ello no obstante, el desarrollo reglamentario de la Ley no se presenta con carácter uniforme de necesidad y urgencia, dado que el propio derecho transitorio de la Ley contiene un régimen suficientemente previsor y detallado. Por ello parece aconsejable, sin perjuicio de la próxima e inmediata promulgación de las correspondientes disposiciones reglamentarias, prever su entrada en vigor de manera progresiva.
+
+En consideración a cuanto antecede resulta obligado, por tanto, que lo establecido en relación con la tabla de vigencias en la Ley, se interprete y desarrolle con la flexibilidad necesaria para que, sin perjuicio de su planteamiento integrado y completo, se acomode sin embargo en el tiempo a la sucesiva entrada en vigor de las disposiciones reglamentarias que vayan promulgándose.
+
+En su virtud, oído el Consejo de Estado, a propuesta del Ministro de Obras Públicas y Urbanismo, y previa deliberación del Consejo de Ministros en su reunión del día 27 de diciembre de 1985,
+
+DISPONGO:
+
+## Artículo 1.
+
+El 1 de enero de 1986 quedarán derogadas las disposiciones relacionadas en el apartado primero del anexo de este Real Decreto, además de las expresamente citadas en el número 1 de la disposición derogatoria de la Ley de Aguas de 2 de agosto de 1985.
+
+## Artículo 2.
+
+A la entrada en vigor de las disposiciones reglamentarias que desarrollarán los títulos preliminar, I, IV, V, VI y VII de la Ley de Aguas de 2 de agosto de 1985, se derogarán las disposiciones contenidas en el apartado segundo del anexo.
+
+## Artículo 3.
+
+A la entrada en vigor de las disposiciones reglamentarias que se dicten para el cumplimiento de los títulos II (De la administración pública del agua) y III (De la planificación hidrológica) de la Ley de Aguas, quedarán derogadas las disposiciones relacionadas en el apartado tercero del anexo de este Real Decreto.
+
+## Artículo 4.
+
+Quedarán subsistentes, aun después de la entrada en vigor de la Ley de Aguas y de las disposiciones reglamentarias que se dicten en aplicación de la misma, las relacionadas en el apartado cuarto del anexo.
+
+## Artículo 5.
+
+Hasta que se promulguen los Reales Decretos constitutivos de los Organismos de cuenca, las funciones previstas para dichos Organismos en la Ley de Aguas y en las disposiciones reglamentarias que se dicten para el cumplimiento de lo dispuesto en la misma Ley serán ejercidas por las Confederaciones Hidrográficas estructuradas por Real Decreto 1821/1985, de 1 de agosto, y a las que conforme a lo establecido en dicho Real Decreto corresponde desempeñar las funciones de los Organismos administrativos a que alude la disposición transitoria novena de la Ley de Aguas.
+
+## Artículo 6.
+
+El presente Real Decreto entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 27 de diciembre de 1985.
+
+JUAN CARLOS R.
+
+El Ministro de Obras Públicas y Urbanismo,
+
+JAVIER LUIS SÁENZ COSCULLUELA
+
+## ANEXO
+
+1\. Disposiciones que quedarán derogadas el día 1.º de enero de 1986, de acuerdo con el artículo 1.º de este Real Decreto:
+
+| Fecha | Objeto de la disposición |
+|---|---|
+| R. O. 5 septiembre 1881. | Dando reglas para el cumplimiento del artículo 36 de la Ley de Aguas vigente (servidumbre legal en riberas y márgenes). |
+| R. D. 21 marzo 1895. | (Apl. artículo 62 L. A.) Declaración de insalubridad terrenos pantanosos y su tramitación. |
+| R. D. 16 noviembre 1900. | Aprobando el Reglamento sobre enturbiamiento e infección de aguas públicas y sobre aterramiento y ocupación de sus cauces con los líquidos procedentes del lavado de minerales o por los residuos de las fábricas. |
+| R. D. 12 abril 1901. | Creando en la Dirección General de Obras Públicas un Registro Central de Aprovechamientos de aguas públicas. |
+| R. O. 30 abril 1901. | Estableciendo reglas sobre registro de aprovechamientos. |
+| R. O. 12 marzo 1902. | Estableciendo reglas sobre registro de aprovechamientos. |
+| R. O. 10 septiembre 1902. | Dictando reglas para la inscripción definitiva de los aprovechamientos de aguas públicas que utilizan las compañías de ferrocarriles. |
+| L. 7 julio 1905. | Concesiones para riegos. |
+| R. D. 15 julio 1905. | Sobre el estudio, en cada una de las cuencas, de las corrientes subterráneas que puedan ser alumbradas por pozos. |
+| R. O. 15 marzo 1906. | Reglamento para la ejecución de la Ley de 7 de julio de 1905. |
+| R. O. 2 enero 1906. | Justificación del derecho al aprovechamiento de aguas públicas y su inscripción. |
+| R. O. 16 octubre 1906. | Referente a la tramitación y procedimiento a que deben ajustarse las peticiones para limpias de arroyos y aprovechamientos de los residuos minerales existentes en los mismos. |
+| R. D. 28 junio 1910. | Sobre iluminación de aguas subterráneas por el Estado y sobre los auxilios que este prestará a quienes la emprendan. |
+| R. D. 11 julio 1910. | Por el que se dispone que los dos anteriores se interpreten en el sentido de que sus disposiciones no son aplicables a las aguas subterráneas de terrenos y cauces de dominio público. |
+| R. D. 23 julio 1910. | Aclaratorio de lo que ha de entenderse por aguas subterráneas correspondientes a los cauces y terrenos de dominio público. |
+| R. D. 5 septiembre 1918. | Concesiones de aguas públicas. |
+| R. D. 14 junio 1921. | Suprimiendo concesiones a perpetuidad para fuerza motriz. |
+| R. D. 10 noviembre 1922. | Modificando las concesiones a perpetuidad para fuerza motriz. |
+| R. D. 27 enero 1925. | Que recuerda a los Gobernadores civiles que la tramitación de asuntos de aprovechamientos de aguas para riegos corresponde a las Jefaturas de Obras Públicas, si bien ha de facilitarse la función de los servicios agronómicos. |
+| R. D. 16 mayo 1925. | Concesión saltos provisionales. |
+| R. D. 20 junio 1925. | Dictando reglas para la concesión de licencias para la flotación de maderas por los ríos. |
+| R. D. 5 marzo 1926. | Relativo a la organización de las Confederaciones Sindicales Hidrográficas. |
+| R. D. L. 28 julio 1928. | Aprovechamientos industriales y regulación de corrientes en los planes de las Confederaciones Hidrográficas. |
+| R. D. L. 28 julio 1928. | Regulando las cooperaciones y auxilios de los usuarios industriales en las obras de regulación y aprovechamientos de los ríos. |
+| R. D. L. 19 abril 1929. | Aprovechamientos industriales y regularización corrientes. Planes Confederaciones. |
+| R. D. 27 marzo 1931. | Sobre concesiones de aguas públicas. |
+| D. 19 enero 1934. | Expediente de servidumbre de acueducto. |
+| O. 17 marzo 1934. | Del Ministerio de Industria y Comercio resolviendo que los expedientes de alumbramiento de aguas subterráneas, tanto en terrenos particulares como los de dominio públicos, debían incoarse en el Gobierno Civil y tramitarse en la Jefatura del mismo. |
+| D. 23 agosto 1934. | Sobre catalogación y registros de manantiales y alumbramiento de aguas. |
+| O. 15 octubre 1934. | Por la que se dictan normas para la tramitación de los expedientes de alumbramiento de aguas para abastecimiento de pueblos de 2.000 Habitantes. |
+| D. 12 marzo 1935. | Por el que se dan instrucciones para el cumplimiento del de 23 de agosto de 1934 sobre inscripción obligatoria de manantiales. |
+| O. 15 marzo 1935. | Sobre intervención exclusiva de los Ingenieros de Minas afectos a los distritos correspondientes en los servicios de aguas, en las instalaciones para su elevación y en las inscripciones en los Registros Regionales de manantiales. |
+| O. 22 marzo 1935. | Que complementa las instrucciones del Decreto de 12 de marzo de 1935. |
+| D. 4 mayo 1935. | Por el que queda en suspenso el de 23 de marzo de 1934 (sobre catalogación y registro de manantiales y alumbramientos) y la Orden de 17 de marzo de 1934, solo en cuanto afecte a los Servicios de Obras Públicas y hasta tanto no se dicten disposiciones transitorias. |
+| O. 29 junio 1935. | Por el que se dictan normas para la tramitación en la Dirección General de Minas e Instituto Geológico, de expedientes de auxilios para alumbramientos incoados por Entidades y Corporaciones. |
+| D. 22 junio 1936. | Reglas sobre concesión de licencias de flotación fluvial. |
+| O. 14 octubre 1937. | Sobre aprovechamientos de agua. |
+| O. 10 octubre 1941. | Sobre canales y pantanos. Aprovechamientos; conocimiento de sus caudales. |
+| D. 23 octubre 1941. | Alumbramiento de aguas subterráneas. |
+| O. 10 diciembre 1941. | Obligatoriedad de constituir Comunidad de Regantes. |
+| D. 30 diciembre 1941. | Aguas para riegos. Superficie regable sin aumento de caudal. |
+| D. 18 de junio 1943. | Concesiones de aprovechamientos hidroeléctricos en pie de presas y canales del Estado. |
+| D. 10 enero 1947. | Normas sobre concesiones de aprovechamientos hidroeléctricos |
+| D. 28 noviembre 1947. | Canales y pantanos. Facultades de Ingenieros y Directores de Confederaciones Hidrográficas y Servicios Hidráulicos. |
+| D. L. 17 julio 1951. | Aprovechamientos hidráulicos. |
+| O. 2 julio 1952. | Que dispuso la necesidad de solicitar autorización de la Dirección General de Colonización para realizar trabajos de alumbramiento de aguas subterráneas en la Sierra de Callosa de Segura. |
+| D. 9 enero 1953. | Patrimonio nacional del Estado. Autorización exclusiva para extraer materiales de arrastre en el río Manzanares. |
+| D. 5 febrero 1954. | Alumbramientos de aguas subterráneas por IRYDA (INC). (Derogado solo artículo 3.) |
+| D. 12 noviembre 1954. | Alumbramientos artesianos-instalación mecanismos de interrupción. |
+| O. 3 diciembre 1954. | Aguas. Concesiones; aprovechamientos; observancia de plazos; caducidad; prórrogas. |
+| O. 31 julio 1959. | De la Presidencia del Gobierno (cuenca del Segura) sobre aplicación del Reglamento de Policía de Aguas y sus cauces en esta cuenca. |
+| O. 4 septiembre 1959. | Sobre Reglamentación de las aguas residuales. |
+| O. 23 marzo 1960. | Sobre vertido de aguas residuales. |
+| O. 8 agosto 1960. | Sobre alteración de las condiciones biológicas, físicas o químicas de las aguas. |
+| O. 18 febrero 1961. | Sobre demolición de obras abusivas en cauces públicos de aguas. |
+| D. 998/1962, 26 abril. | Intervención MOP y Ministerio de Industria en expedientes de aprovechamientos hidroeléctricos. |
+| O. 9 octubre 1962. | Sobre normas complementarias para vertidos de aguas residuales. (Aplicación Orden 4 septiembre 1959.) |
+| O. 24 julio 1963. | Sobre normas de funcionamiento de los Registros de Aprovechamiento de Aguas Públicas. |
+| O. 6 agosto 1963. | Sobre constitución y funcionamiento de las Comunidades de Regantes y Sindicatos Centrales. |
+| O. 11 enero 1964. | Sobre competencias para autorizar la extracción de áridos en los ríos. |
+| O. 31 octubre 1964. | Aprovechamientos de áridos en tramos determinados. |
+| D. 2495/1966, 10 septiembre. | Sobre ordenación de las zonas limítrofes a los embalses. |
+| O. 29 abril 1967. | Revisión de las características de las inscripciones de aprovechamientos en el Registro de Aguas Públicas. |
+| O. 19 julio 1967. | Sobre la utilización de los embalses para la navegación particular. |
+| O. 13 febrero 1968. | Actualiza la constitución de las Comunidades de Regantes. |
+| L. 30 junio 1969. | Sobre régimen jurídico de los alumbramientos de aguas subterráneas en la isla de Mallorca. |
+| D. 3 abril 1971. | De la Presidencia del Gobierno por el que se dan normas de carácter técnico y administrativo para la explotación de aguas subterráneas en determinadas zonas de Andalucía. |
+| D. 3239/1971, 23 diciembre. | Sobre medidas contra la contaminación de los ríos guipuzcoanos. |
+| D. 23 marzo 1972. | Por el que se extendió a Ibiza la Ley de 30 junio 1969. |
+| D. 3382/1973, 21 diciembre. | De la Presidencia del Gobierno dictando normas para la ejecución de nuevos alumbramientos y ampliación de los ya existentes en la provincia de Baleares. (Excepto su artículo 12.) |
+| D. 2508/1975, 18 septiembre. | Previsión de daños por avenidas. |
+| R. D. 26 noviembre 1980. | Por el que se levanta la prohibición de alumbramientos en el Bajo Andarax. |
+| O. 26 julio 1984. | Constitución de los Comités de Coordinación de las Comisarías de Aguas-Confederaciones Hidrográficas. |
+
+2\. Disposiciones que quedarán derogadas a la entrada en vigor de las disposiciones reglamentarias a que se refiere el artículo 2.º de este Real Decreto:
+
+**(Derogadas)**
+
+3\. Disposiciones que quedarán derogadas a la entrada en vigor de las disposiciones reglamentarias que se dicten para el cumplimiento de los títulos II y III de la Ley de Aguas, de acuerdo con el artículo 3.º de este Real Decreto:
+
+**(Derogadas)**
+
+4\. Disposiciones que quedan vigentes, de acuerdo con el artículo 4.º de este Real Decreto:
+
+| Fecha | Objeto de la disposición |
+|---|---|
+| R. D. L. 23 agosto 1926. | Ordenación de saltos del Duero. |
+| L. 21/1971, 19 junio. | Sobre aprovechamiento conjunto Tajo-Segura. |
+| L. 52/1980, 16 octubre. | Régimen económico de la explotación del acueducto Tajo-Segura. |
+| L. 18/1981, 1 julio. | Actuaciones en Tarragona en materia de aguas. |
+| R.D. 916/1985, 25 mayo. | Aprovechamientos hidroeléctricos. |
+
+> Se derogan las disposiciones contenidas en el apartado 3 por la disposición derogatoria del Real Decreto 927/1988, de 29 de julio. [Ref. BOE-A-1988-20883](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-20883).
+
+> Se derogan las disposiciones contenidas en el apartado 2 por el art. 2 del Real Decreto 849/1986, de 11 de abril. [Ref. BOE-A-1986-10638](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-10638).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 30, de 4 de febrero de 1986. [Ref. BOE-A-1986-2898](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-2898).
+
+> Información relacionada
+
+> Téngase en cuenta la Orden de 13 de marzo de 1990, que dispone el cumplimiento de la Sentencia del TS de 20 de enero de 1989, y del Auto aclaratorio de 27 de abril de 1989, que declara que es conforme a derecho, excepto en el particular, que no incluye la Ley de 7 de enero de 1915, entre las disposiciones que quedan vigentes, vigencia circunscrita a la reserva y asignación de caudales para el sistema de riegos del Alto Aragón, anulándolo en dicho particular. [Ref. BOE-A-1990-9907](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-9907).

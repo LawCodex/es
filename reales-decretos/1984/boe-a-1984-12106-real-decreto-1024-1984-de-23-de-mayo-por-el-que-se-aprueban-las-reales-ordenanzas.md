@@ -1,0 +1,829 @@
+---
+title: "Real Decreto 1024/1984, de 23 de mayo, por el que se aprueban las Reales Ordenanzas de la Armada"
+identifier: "BOE-A-1984-12106"
+eli: "https://www.boe.es/eli/es/rd/1984/05/23/1024"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Defensa"
+date: 1984-05-23
+published: 1984-05-30
+in_force_from: 1984-05-31
+last_amended: 2012-03-06
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 129"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1984-12106"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1024/1984, de 23 de mayo, por el que se aprueban las Reales Ordenanzas de la Armada
+
+Incluye la corrección de errores publicada en BOE núm. 148, de 21 de junio de 1984. [Ref. BOE-A-1984-14098](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-14098).
+
+La disposición final segunda de la Ley 85/1978, de 28 de diciembre, autoriza al Gobierno a dictar, en desarrollo de la misma, las disposiciones necesarias para adecuar a los principios generales de dicha Ley las normas de vida de las unidades militares.
+
+En su virtud, a propuesta del Ministro de Defensa, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 23 de mayo de 1984, dispongo:
+
+##### Art. 1.
+
+Se aprueban las Reales Ordenanzas de la Armada que se insertan a continuación.
+
+##### Art. 2.
+
+El presente Real Decreto y el texto reglamentario que por el mismo se aprueba entrarán en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+##### Disposición derogatoria.
+
+Quedan derogadas todas aquellas disposiciones de igual o inferior rango que se opongan a lo preceptuado en este Real Decreto. El Ministerio de Defensa publicará, antes del 1 de agosto de 1984, la tabla de disposiciones derogadas.
+
+Dado en Madrid a 23 de mayo de 1984.
+
+JUAN CARLOS R.
+
+El Ministro de Defensa,
+
+NARCISO SERRA SERRA
+
+## REALES ORDENANZAS DE LA ARMADA
+
+Las Reales Ordenanzas de la Armada constituyen un código de doctrina naval que comprende las esencias de la Institución, su espíritu, sus conceptos básicos y sus tradiciones. Tienen por objeto preferente servir de guía a sus miembros e inspirar la reglamentación de la Armada.
+
+## TRATADO PRELIMINAR — De la Armada
+
+##### Arts. 1 a 18.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.2.b) del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+## TRATADO PRIMERO — Del Mando
+
+### TITULO I — Conceptos generales
+
+##### Arts. 19 a 36.
+
+**(Derogados)**
+
+> Se derogan los arts. 19 a 22 y 26 a 36 por la disposición derogatoria única.2.b) del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074). y los arts. 23 a 25 por la disposición derogatoria única.1 de la Orden Ministerial 12/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012.
+
+### TITULO II — De las cadenas de autoridad
+
+##### Arts. 37 a 79.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.2.b) del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+### TITULO III — Del Comandante de Buque
+
+> Se les atribuye el rango de orden ministerial a los arts. 80 a 134, que integran este título, según establece la disposición derogatoria única.4.c).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 80 a 134.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Orden Ministerial 12/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012.
+
+### TITULO IV — De los Mandos de Unidades de la Infantería de Marina
+
+> Se les atribuye el rango de orden ministerial a los arts. 135 a 137 y 147 a 169, según establece la disposición derogatoria única.4.c).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 135 a 169.
+
+**(Derogados)**
+
+> Se derogan los arts. 135 a 137 y 147 a 169 por la disposición derogatoria única.1 de la Orden Ministerial 12/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012 y los arts. 138 a 146 por la disposición derogatoria única.2.b) del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+### TITULO V — Del Mando de las Aeronaves
+
+> Se les atribuye el rango de orden ministerial a los arts. 170 a 195, que integran este título, según establece la disposición derogatoria única.4.c).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 170 a 195.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Orden Ministerial 12/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012.
+
+### TITULO VI — De la asignación y sucesión de Mandos y Jefaturas
+
+> Se les atribuye el rango de orden ministerial a los arts. 196 a 208, que integran este título, según establece la disposición derogatoria única.4.c).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 196 a 208.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Orden Ministerial 12/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012.
+
+## TRATADO SEGUNDO — Del régimen interior
+
+### TITULO VII — Conceptos generales
+
+> Se les atribuye el rango de orden ministerial a los arts. 209 a 243, que integran este título, según establece la disposición derogatoria única.4.c).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 209 a 243.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Orden Ministerial 12/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012.
+
+### TÍTULO VIII — De los Servicios y Guardias
+
+> Se les atribuye el rango de orden ministerial a los arts. 244 a 272, que integran este título, según establece la disposición derogatoria única.4.c).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 244 a 272.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Orden Ministerial 12/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012.
+
+### TITULO IX — Del buque de guerra
+
+> Se les atribuye el rango de orden ministerial a los arts. 273 a 363, que integran este título, según establece la disposición derogatoria única.4.c).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 273 a 363.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Orden Ministerial 12/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012.
+
+### TITULO X — De las Unidades de la Infantería de Marina
+
+> Se les atribuye el rango de orden ministerial a los arts. 364 a 417, que integran este título, según establece la disposición derogatoria única.4.c).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 364 a 417.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Orden Ministerial 12/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012.
+
+### TITULO XI — De la sanidad
+
+> Téngase en cuenta que continúan vigentes y mantienen el rango de real decreto los arts. 418 a 431, que integran este título, según establece la disposición derogatoria única.4.b).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Art. 418.
+
+La asistencia sanitaria tiene por misión procurar la salud psicofísica del personal en sus dos aspectos de prevención y rehabilitación. Deberá asegurar la asistencia médica del personal, suministros de fármacos y las condiciones higiénicas de las instalaciones y alimentos. Su actuación se regulará por lo dispuesto en estas Reales Ordenanzas, en la reglamentación específica y en las normas de régimen interior de las Unidades, Bases, Arsenales y Centros.
+
+##### Art. 419.
+
+Será preocupación constante del Mando de Unidad, Base, Arsenal o Centro la salud del personal a sus órdenes y las condiciones higiénicas de las instalaciones y alimentos.
+
+Los Oficiales Médicos responderán ante dichos Mandos y ante las autoridades sanitarias de la Armada del cumplimiento de lo señalado sobre prevención y curación de enfermedades y para la selección, conservación y recuperación del personal.
+
+##### Art. 420.
+
+El Jefe del Servicio de Sanidad de la Unidad, Base, Arsenal o Centro será responsable del buen funcionamiento de su servicio y tendrá a su cargo las instalaciones, equipos y material asignado. Mantendrá informado a su Mando y a las autoridades de sanidad de la Armada de las novedades que se produzcan en el estado de salud del personal y en las condiciones higiénicas de éste y de las Unidades. Bases, Arsenales o Centros, propondrá la adopción de las medidas convenientes para su mejora y se reservará aquellos datos personales de sus pacientes que estén protegidos por el secreto médico.
+
+##### Art. 421.
+
+Asesorará al Mando sobre los efectos producidos por los agentes agresivos nucleares, biológicos y químicos y medidas de protección contra ellos.
+
+Asimismo, propondrá al Mando las medidas para la prevención de las toxicomanías y para mantener en el mejor estado psicofísico a todo el personal.
+
+##### Art. 422.
+
+Será responsable de la instrucción sanitaria de las Clases de Marinería y Tropa y de la formación del personal que haya de actuar como auxiliar del servicio de sanidad en las distintas situaciones.
+
+##### Art. 423.
+
+Practicará periódicamente reconocimientos individuales a todo el personal, a fin de vigilar su salud e impedir la difusión de enfermedades transmisibles y cumplimentará las disposiciones específicas sobre profilaxis para determinadas enfermedades infecciosas.
+
+##### Art. 424.
+
+Inspeccionará con frecuencia los locales y espacios para comprobar su estado de higiene y dispondrá, en su caso, la realización de medidas de desinfección, desinsectación y desratización.
+
+##### Art. 425.
+
+Vigilará las condiciones higiénicas de la alimentación, de los víveres, del personal encargado de manipularlos y de los utensilios de cocinas y comedores. Estudiará la ración diaria desde el punto de vista bromatológico y propondrá las medidas para adecuarla a las condiciones climatológicas o estacionales y al tipo de misiones asignadas.
+
+Tendrá en cuenta la potabilidad del agua, y atenderá a que sus características la hagan adecuada para el consumo.
+
+##### Art. 426.
+
+El Jefe del Servicio de Sanidad propondrá al Mando con ocasión de ejercicios de tiro, marchas o maniobras, el personal sanitario y los medios técnicos y de evacuación que deban acompañar a la fuerza.
+
+##### Art. 427.
+
+Pasará diariamente revista de enfermería y llevará un Libro General de Reconocimiento en el que anotará a todos los que recibieron asistencia con indicación del diagnóstico, tratamiento y capacidad resultante para el servicio.
+
+##### Art. 428.
+
+Dispondrá la evacuación al hospital de los enfermos que lo precisen, extendiendo la oportuna «baja». Si existe peligro de contagio propondrá al Mando la adopción de las medidas urgentes adecuadas.
+
+##### Art. 429.
+
+El personal hospitalizado continuará perteneciendo a la dotación, si bien su atención sanitaria será de la responsabilidad del hospital; en los demás aspectos estará atendido por la Unidad en que esté encuadrado. Al ser dado de alta se incorporará a su destino.
+
+##### Art. 430.
+
+El Jefe del Servicio de Sanidad cursará parte facultativo al Mando de la Unidad, Base, Arsenal o Centro siempre que deba atender a algún lesionado o intoxicado, en el que hará constar la causa de la lesión o intoxicación, su naturaleza y pronóstico.
+
+Además de cumplimentar las prescripciones legales le dará parte de los fallecimientos ocurridos en la Unidad.
+
+##### Art. 431.
+
+En su caso, organizará el funcionamiento del servicio de sanidad, estableciendo los turnos y guardias necesarios para garantizar su continuidad.
+
+Cuidará que esté provisto de los medicamentos y productos necesarios. Vigilará su conservación y que los cargos estén completos.
+
+### TITULO XII — De la asistencia religiosa
+
+> Téngase en cuenta que continúan vigentes y mantienen el rango de real decreto los arts. 432 a 442, que integran este título, según establece la disposición derogatoria única.4.b).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Art. 432.
+
+Los mandos de la Armada respetarán y protegerán el derecho a la libertad religiosa de sus subordinados, en los términos previstos por la Constitución y por la Ley Orgánica de Libertad Religiosa. Cuando coexistan fieles de distintas iglesias, confesiones o comunidades religiosas cuidarán de la armonía en sus relaciones.
+
+##### Art. 433.
+
+Facilitarán el cumplimiento de los deberes religiosos, proporcionando, sin perturbar el régimen de vida de las Unidades, Bases, Arsenales o Centros, el tiempo necesario para la asistencia a los actos de culto y procurarán proporcionar, en el propio ámbito militar, lugares y medios adecuados para el desarrollo de las actividades religiosas.
+
+##### Art. 434.
+
+Prestarán a los capellanes y a los demás ministros autorizados el apoyo que precisen para el desempeño de sus funciones, y respetarán y harán respetar su derecho y su deber de mantener el secreto de lo que no pueden revelar por razón de su ministerio.
+
+##### Art. 435.
+
+Los actos religiosos de culto o de formación y las reuniones de miembros de iglesias, confesiones o comunidades religiosas legalmente reconocidas, que se celebren dentro de las Unidades, Bases, Arsenales y Centros, se ajustarán a las disposiciones generales sobre reuniones en recintos militares. La autorización correspondiente podrá concederse de manera general para actos que se celebren con periodicidad.
+
+##### Art. 436.
+
+Los miembros de la Armada recibirán asistencia religiosa de los capellanes militares o de ministros contratados o autorizados de confesiones legalmente reconocidas. La coordinación de los servicios religiosos de distintas confesiones, comprendiendo la regulación de horarios, el uso alternativo de locales y otros pormenores, corresponderá al mando militar a propuesta de los encargados de prestar la asistencia religiosa.
+
+##### Art. 437.
+
+No podrán ser obligados a declarar sobre su ideología, religión o creencias, pero pueden ser preguntados a los solos efectos de facilitar la organización de la asistencia religiosa, si bien podrán abstenerse de contestar si así lo desean.
+
+##### Art. 438.
+
+Con ocasión del fallecimiento de un miembro de la Armada, y con independencia de las honras fúnebres que le correspondan, podrá autorizarse la organización de exequias, con los ritos propios de la religión que profesara el finado.
+
+##### Art. 439.
+
+El Capellán católico, como párroco de los miembros de la Unidad, Base, Arsenal o Centro y de sus familiares que profesen esta religión, ejercerá su acción pastoral sobre ellos y llevará a cabo su ministerio de acuerdo con lo dispuesto en el Reglamento del Cuerpo Eclesiástico.
+
+##### Art. 440.
+
+Asesorará al mando en asuntos religiosos. Su actuación pastoral y los actos religiosos que tengan lugar en la Unidad, Base, Arsenal o Centro deberán ser programados de acuerdo con el Jefe del mismo. En la Bases y Acuartelamientos ocupados por más de una Unidad o Centro estos actos podrán realizarse en común bajo la coordinación de su Jefe.
+
+##### Art. 441.
+
+Con ocasión de ejercicios de tiro, marchas, maniobras y actos que entrañen especial riesgo, los capellanes militares se situarán en el puesto de socorro o en otro de fácil y rápida localización designado por el mando.
+
+##### Art. 442.
+
+Cuando haya capellanes de otras religiones desempeñarán funciones análogas en las mismas condiciones que los católicos en consonancia con los acuerdos que el Estado haya establecido con la iglesia, confesión o comunidad religiosa correspondiente.
+
+### TITULO XIII — De las actividades culturales, deportivas y recreativas
+
+##### Arts. 443 a 447.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.2.b) del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+## TRATADO TERCERO — De la disciplina
+
+### TITULO XIV — Conceptos generales
+
+##### Arts. 448 a 453.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.2.b) del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+### TITULO XV — De las manifestaciones externas de la disciplina
+
+> Téngase en cuenta que continúan vigentes con el rango de orden ministerial los arts. 454 a 489, que integran este título, según establece la disposición derogatoria única.4.c).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Art. 454.
+
+La disciplina halla su expresión externa en las muestras de respeto y subordinación entre militares, quienes, a estos efectos, se atendrán al empleo que se ostente y a la antigüedad de escalafonamiento, independientemente del Ejército, Arma, Cuerpo o Escala a que pertenezca.
+
+##### Art. 455.
+
+La corrección en el saludo y en la uniformidad, el tratamiento debido y la cortesía en las relaciones entre los militares constituyen testimonio de mutuo respeto y de formación castrense, que han de ser practicados y exigidos con exactitud.
+
+##### Art. 456.
+
+El militar tratará con respeto y atención a sus superiores y subordinados, y distinguirá a sus mandos directos, hasta en los actos fuera del servicio, adaptándose en este caso a las circunstancias particulares del momento. En los buques de la Armada se cederá la crujía a los más antiguos.
+
+#### Del saludo
+
+##### Art. 457.
+
+Todo militar saludará a las Banderas y Estandartes de las Unidades y durante la interpretación del Himno Nacional, También saludará militarmente a Sus Majestades los Reyes, a S.A.R. el Príncipe de Asturias, a los Infantes de España, al Presidente del Gobierno, a los Vicepresidentes si los hubiere y al Ministro de Defensa, en la forma y de acuerdo con lo reglamentariamente dispuesto.
+
+Al embarcar o desembarcar de un buque de la Armada saludará a la Bandera, dándole frente en el momento de pisar o abandonar la cubierta.
+
+##### Art. 458.
+
+El saludo entre militares constituye una muestra de respeto mutuo. Se efectuará por el de menor jerarquía y será correspondido por el superior. Entre los de igual empleo el saludo se practicará de acuerdo con las reglas dictadas por el compañerismo y la buena educación. Su ejecución se regirá por lo establecido en los reglamentos.
+
+##### Art. 459.
+
+Los Alumnos de las Escuelas de formación de Oficiales saludarán a los Oficiales y responderán al que reciban de los Suboficiales y Clases de Marinería y Tropa. Los Alumnos de las Escuelas de formación de Suboficiales saludarán a los Oficiales y Suboficiales y responderán al que reciban de las Clases de Marinería y Tropa.
+
+##### Art. 460.
+
+En los lugares de trabajo en común o de encuentro frecuente, el militar saludará la primera vez que coincida con cada uno de sus superiores, y cuando posteriormente se dirija a ellos, bien sea por propia iniciativa o por haber sido llamado por éstos.
+
+En la Armada, en el primer saludo, se añadirá buenos días. Al ocaso el más moderno dará las buenas noches al más antiguo presente.
+
+##### Art. 461.
+
+Si por la actividad que estuviese desarrollando no pudiera efectuar el saludo reglamentario, adoptará la postura más correcta que le sea posible y empleará la fórmula verbal de saludo que figura en el artículo siguiente.
+
+##### Art. 462.
+
+Todo militar que deba dirigirse de palabra a un superior se cuadrará ante él, saludará y le dirá: «a la orden de (tratamiento) mi (empleo del superior)», cuando tenga tratamiento de Excelencia o Señoría, y «a sus órdenes mi (empleo del superior)» cuando tenga el de Usted. En la Armada, cuando corresponda, se dirá «mi comandante», «mi segundo», «mi tercero» o «mi Oficial». Luego quedará en la posición de firmes mientras no se le indique otra cosa. Al despedirse se cuadrará, empleará la fórmula «¿manda (tratamiento) alguna cosa más mi (empleo del superior)?» y volverá a saludar. Cuando, encontrándose en formación haya de dar parte de novedades, permanecerá saludando mientras lo expone; el superior lo recibirá de igual modo.
+
+##### Art. 463.
+
+Quedará dispensado de la obligación de saludar si se encuentra desempeñando un servicio o función que exija una atención que le impida distraerse de su cometido.
+
+##### Art. 464.
+
+A los militares de Ejércitos extranjeros saludará en iguales casos que a los del propio, en justa correspondencia y con la oportuna flexibilidad para adaptarse a las diferentes costumbres o normas.
+
+##### Art. 465.
+
+Saludará a los superiores que vistan de paisano cuando conozca su condición o aquéllos se den a conocer. Cuando no vaya de uniforme empleará la fórmula verbal de saludo además de las normales de cortesía.
+
+##### Art. 466.
+
+En los actos oficiales a los que asistan autoridades civiles las saludará siguiendo las normas usuales de respeto y cortesía.
+
+#### De la uniformidad y policía
+
+##### Art. 467.
+
+El uniforme, por su significación, ha de vestirse con propiedad y corrección, portando las prendas y ostentando las divisas, emblemas, condecoraciones y distintivos reglamentarios para cada ocasión. Como norma general el militar permanecerá de uniforme en su destino.
+
+##### Art. 468.
+
+No se podrán ostentar sobre el uniforme divisas, emblemas, condecoraciones y distintivos sin previa autorización. La forma, diseño, material y circunstancias en que puedan usarse, se ajustarán a los reglamentos correspondientes.
+
+##### Art. 469.
+
+El militar cuidará su aspecto, compostura y policía personal ateniéndose a las disposiciones que lo regulan.
+
+##### Art. 470.
+
+Los militares profesionales y de complemento podrán vestir de paisano fuera de los actos de servicio, salvo en las ocasiones en que se ordene lo contrario. Dentro de las Unidades, Bases, Arsenales o Centros sólo podrán hacerlo en los lugares, a las horas y en las circunstancias que se autorice.
+
+Los demás militares podrán ser autorizados para vestir de paisano durante los permisos y las horas de paseo.
+
+##### Art. 471.
+
+Al vestir de paisano el militar no podrá utilizar prendas que se identifiquen claramente como constitutivas del uniforme.
+
+##### Art. 472.
+
+La autoridad militar correspondiente podrá ordenar que, para determinados actos de servicio, el militar vista de paisano. Igualmente podrá prohibir el uso del uniforme en aquellos casos y actividades ajenos al servicio en los que el llevarlo pueda perjudicar los intereses o la imagen de las Fuerzas Armadas.
+
+##### Art. 473.
+
+En los actos académicos, sociales o religiosos, a los que el militar asista de uniforme, deberá usar el adecuado a la ceremonia de acuerdo con las correspondencias reglamentariamente establecidas.
+
+##### Art. 474.
+
+En campaña, el militar llevará el uniforme reglamentario, con las divisas de su empleo. Si cayera prisionero, el llevarlo probará su condición de militar y, como tal, acogido a los Convenios Internacionales en esta materia.
+
+##### Art. 475.
+
+Todo militar será provisto, según las necesidades de cada actividad, del equipo y prendas reglamentarias de uniforme, así como de los emblemas, condecoraciones y distintivos. La autoridad competente determinará lo que debe proporcionarse con cargo al interesado.
+
+#### De las presentaciones y visitas
+
+##### Art. 476.
+
+Todo militar, con motivo de su incorporación, cese o ausencia temporal del destino, ascenso, cambio de situación o realización de comisiones, se presentará a sus superiores para ponerse a sus órdenes o despedirse, de acuerdo con lo que se detalla en el presente Título.
+
+En ejercicios, maniobras y campaña estas normas se aplicarán con la debida flexibilidad para adaptarse a la situación.
+
+##### Art. 477.
+
+Los Oficiales Generales solicitarán audiencia ante Su Majestad el Rey y el Ministro de Defensa, cuando sean promovidos a cada uno de los empleos de oficial general y al hacerse cargo de los sucesivos destinos que se les confieran. Los Almirantes también lo harán en las mismas circunstancias, ante el Presidente del Gobierno.
+
+Los Capitanes de Navío o Coroneles que sean designados para un Mando solicitarán audiencia ante Su Majestad el Rey y el Ministro de Defensa al hacerse cargo del mismo.
+
+##### Art. 478.
+
+Los Oficiales Generales y Particulares y los Suboficiales al ascender, incorporarse a un nuevo destino o cesar en él, se presentarán a los siguientes mandos y autoridades:
+
+Los Oficiales Generales, al Almirante Jefe del Estado Mayor de la Armada, al Mando de la Zona Marítima o Jurisdicción Central, al Almirante Jefe del Arsenal si procede y a sus jefes directos.
+
+Los Oficiales Particulares, al Mando de la Zona Marítima, en su caso a los Mandos Orgánicos y Operativos y al Almirante Jefe del Arsenal, y a sus jefes directos.
+
+Los Suboficiales, a sus jefes directos.
+
+##### Art. 479.
+
+La presentación ante el jefe de la Unidad, Base, Arsenal o Centro se realizará en el momento de la incorporación, que se hará en el plazo establecido, y a los demás mandos dentro de los tres días hábiles siguientes. Las despedidas se afectarán con suficiente anticipación a la marcha.
+
+##### Art. 480.
+
+Cuando para efectuar la presentación fuera necesario trasladarse a una plaza distinta a la del destino, ésta se hará por oficio o mensaje, pero la autoridad correspondiente podrá ordenar que se haga personalmente.
+
+##### Art. 481.
+
+Los Oficiales Generales y Particulares y los Suboficiales que se ausenten de la localidad de sus destinos para disfrutar permiso o licencia, o en comisión de servicio, se presentarán antes de su marcha y el día de reincorporación, a sus jefes directos, si residen en la misma localidad, haciéndolo por oficio o mensaje en caso contrario.
+
+##### Art. 482.
+
+En los permisos y licencias y con objeto de facilitar su localización en caso necesario, dejarán en su destino constancia de su domicilio eventual e informarán de los cambios que se produzcan. Cuando la estancia en su residencia transitoria se prevea superior a un mes, comunicarán por escrito o verbalmente su presencia a la autoridad local más caracterizada de la Armada o, en su defecto, a la de la Guardia Civil.
+
+##### Art. 483.
+
+Los que se ausenten al extranjero en viaje privado, siempre que la duración de su estancia en el país de que se trate sea superior a quince días, deberán presentarse o comunicar su presencia al Agregado Naval o, en su defecto, al de Defensa. Caso de no existir éstos al representante diplomático o consular de España.
+
+##### Art. 484.
+
+Los Oficiales y Suboficiales que asistan a un curso fuera de su destino se presentarán, tanto al ausentarse como al reincorporarse, a sus jefes directos. Al llegar al Centro de enseñanza se presentarán a su Director o Jefe.
+
+Aquellos que se desplacen en comisión de servicio se presentarán ante el mando cerca del cual vayan comisionados y, siempre que la comisión tenga una duración superior a setenta y dos horas, a la Autoridad de la Armada en la localidad o, en su defecto, a la Autoridad más caracterizada del Ejército de Tierra o del Ejército del Aire.
+
+La presentación de los que se desplacen formando parte de una Unidad se efectuará a la Autoridad de la Armada en la localidad en la que se encuentren o, en su defecto, a la Autoridad más caracterizada del Ejército de Tierra o del Ejército del Aire.
+
+En los casos citados anteriormente, cuando se desplace una Unidad o Comisión, sólo se presentará el más caracterizado de ella, salvo que la autoridad ante quien se efectúa disponga otra cosa.
+
+##### Art. 485.
+
+Cuando cualquier Unidad o Comisión se traslade al extranjero, su mando se presentará o comunicará su presencia, según corresponda, a la representación diplomática o consular y al Agregado Naval o al de Defensa, en su defecto, si residen en la localidad. De no ser así, lo comunicará por la vía más adecuada. Igualmente lo hará el militar que se desplace aisladamente con carácter oficial.
+
+##### Art. 486.
+
+En todos los casos anteriores, y con la debida antelación, los Oficiales Generales y Particulares y los Suboficiales se despedirán de las mismas autoridades y en la misma forma que se hubiesen presentado.
+
+##### Art. 487.
+
+En caso de declaración de guerra, conflicto armado o emergencia, todos los miembros de la Armada se presentarán en sus destinos. De encontrarse en residencia eventual, se presentarán inmediatamente al mando más caracterizado de la Armada o, en su defecto, al de cualquiera de los otros Ejércitos. Si no hubiera se trasladarán al lugar más próximo donde lo haya. En caso de encontrarse en el extranjero, se presentarán o establecerán contacto con la representación diplomática o consular más próxima.
+
+##### Art. 488.
+
+Con motivo de su incorporación o cese en el destino, los Oficiales Generales y los Comandantes o Jefes de Unidad, Base, Arsenal o Centro, excepto los destinados en Madrid, visitarán a la máxima Autoridad de cada uno de los otros Ejércitos residentes en la localidad si son de mayor empleo o antigüedad. También lo harán a los mandos equivalentes residentes en la localidad; como acto de cortesía, a las Autoridades civiles con las que deban relacionarse habitualmente y con carácter de devolución, a los mandos de inferior empleo de otros Ejércitos que les hubieran visitado.
+
+Los restantes Oficiales y los Suboficiales, como demostración de cortesía o compañerismo, saludarán a todos los superiores y a los del mismo empleo de la Unidad, Base, Arsenal o Centro al que se incorporen o en el que cesen.
+
+##### Art. 489.
+
+Cuando alguna de las Autoridades militares de los otros Ejércitos a que hace referencia el artículo anterior cese por cualquier causa, los mandos correspondientes de la Armada visitarán a la nueva Autoridad si ésta es de mayor empleo o antigüedad.
+
+### TITULO XVI — De los tratamientos
+
+> Téngase en cuenta que continúan vigentes con el rango de orden ministerial los arts. 490 a 494, que integran este título, según establece la disposición derogatoria única.4.c).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Art. 490.
+
+Todo militar recibirá, tanto de palabra como por escrito, el tratamiento que tenga legalmente reconocido por razón de la dignidad, autoridad, empleo o cargo y condecoraciones que posea. En el ámbito militar sólo se emplearán los tratamientos señalados en este Título. En sus relaciones, con autoridades civiles el militar les dará el tratamiento que legalmente les corresponda.
+
+##### Art. 491.
+
+Los Reyes de España tienen el tratamiento de Majestad; el Príncipe de Asturias y los Infantes de España, el de Alteza Real, el Presidente del Gobierno, los Vicepresidentes si los hubiere, el Ministro de Defensa y los Oficiales Generales el de Excelencia; los coroneles y capitanes de navío, el de Señoría, y los restantes miembros de las Fuerzas Armadas, el de Usted. Reglamentariamente se determinarán las distintas formas de expresión oral y escrita de estos tratamientos.
+
+##### Art. 492.
+
+Los Caballeros Grandes Cruces y Laureados de la Real y Militar Orden de San Fernando tendrán el tratamiento superior al que por su empleo les corresponda. Los condecorados con la Medalla Militar Individual recibirán el del empleo inmediato superior al suyo. Los Caballeros de la Real y Militar Orden de San Hermenegildo, en la categoría de Gran Cruz, tendrán el de Excelencia y, en la de Placa, el de Señoría. Los poseedores de la Gran Cruz del Mérito Militar, Naval o Aeronáutico, con distintivo blanco, el de Excelencia.
+
+##### Art. 493.
+
+Los jueces militares, en el ejercicio de su cargo recibirán el tratamiento de Señoría si no tuvieran otro superior por razón de empleo o condecoración.
+
+##### Art. 494.
+
+En mensajes cursados entre componentes de las Fuerzas Armadas por asuntos del servicio se omitirán los tratamientos.
+
+### TITULO XVII — De las recompensas, premios y sanciones
+
+> Téngase en cuenta que continúan vigentes con el rango de orden ministerial los arts. 495 a 500, que integran este título, según establece la disposición derogatoria única.4.c).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Art. 495.
+
+Las recompensas militares, que se concederán de acuerdo con lo preceptuado en la Ley y reglamentos correspondientes, constituyen el reconocimiento al mérito en el cumplimiento del deber. Su concesión es un acto de justicia que hace público dicho reconocimiento y representa una satisfacción para quien las recibe, un estímulo para la Unidad de que forma parte y un ejemplo para todos.
+
+##### Art. 496.
+
+Las autoridades militares, así como los mandos de Unidad, Base, Arsenal o Centro, podrán distinguir a sus subordinados con felicitaciones personales, u otros premios por méritos contraídos en el servicio, cursos, competiciones y otros casos similares.
+
+##### Art. 497.
+
+Con ocasión de actos meritorios, los mandos de Unidad, Base, Arsenal o Centro, también podrán premiar al personal de marinería y tropa a sus órdenes con permisos extraordinarios, cuya concesión harán pública en la Orden correspondiente.
+
+##### Art. 498.
+
+Las clases de marinería y tropa, al finalizar su servicio en filas, recibirán del mando de Unidad, Base, Arsenal o Centro un documento acreditativo de haber cumplido con tan honroso deber. Figurarán en él las recompensas y premios que le hayan sido concedidas durante su permanencia en filas.
+
+##### Art. 499.
+
+Toda conducta o hecho que atente contra la disciplina se corregirá o sancionará de acuerdo con lo dispuesto en las leyes penales y disciplinarias.
+
+##### Art. 500.
+
+La anotación de las sanciones en la documentación militar de los corregidos y el procedimiento para invalidarlas se atendrán a lo legalmente dispuesto.
+
+## TRATADO CUARTO — De la seguridad
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 194/2010, de 26 de febrero. [Ref. BOE-A-2010-4219](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4219).
+
+### TITULO XVIII — Preceptos generales
+
+> Mantienen el rango de real decreto los arts. 501 a 520, que integran este título, según establece la disposición derogatoria única.4.b).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 501 a 520.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 del Real Decreto 194/2010, de 26 de febrero. [Ref. BOE-A-2010-4219](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4219).
+
+### TITULO XIX — De las guardias de seguridad
+
+> Mantienen el rango de real decreto los arts. 521 a 575, que integran este título, según establece la disposición derogatoria única.4.b).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 521 a 575.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 del Real Decreto 194/2010, de 26 de febrero. [Ref. BOE-A-2010-4219](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4219).
+
+### TITULO XX — De la Policía Naval
+
+> Mantienen el rango de real decreto los arts. 576 a 586, que integran este título, según establece la disposición derogatoria única.4.b).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 576 a 586.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 del Real Decreto 194/2010, de 26 de febrero. [Ref. BOE-A-2010-4219](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4219).
+
+## TRATADO QUINTO — De los honores y ceremonias
+
+### TITULO XXI — De los actos solemnes y su ceremonial
+
+> Téngase en cuenta que continúan vigentes con el rango de orden ministerial los arts. 587 a 613, que integran este título, según establece la disposición derogatoria única.4.c).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Art. 587.
+
+En conmemoración de efemérides relevantes de la vida nacional y militar y con ocasión de acontecimientos significados, las Fuerzas Armadas celebrarán actos solemnes que, en su desarrollo, se ajustarán al ceremonial que dispone este Tratado y a las prescripciones del reglamento correspondiente, quedando a la iniciativa de quien los organice las normas de detalle exigidas por el lugar, las características de los participantes y demás circunstancias. Como norma general, los honores y ceremonias se simplificarán o suspenderán cuando circunstancias excepcionales lo aconsejen.
+
+##### Art. 588.
+
+Las principales ceremonias militares se realizarán con motivo de los actos del Juramento y honores a la Bandera de España y su entrega a Unidades; paradas y desfiles; honores a las Autoridades; tomas de posesión de mando; entregas de despachos, títulos o diplomas e imposición de condecoraciones; honras fúnebres y homenaje a los que dieron su vida por la Patria; festividades de los Santos Patronos y otras conmemoraciones relevantes de carácter nacional o castrense.
+
+##### Art. 589.
+
+Las Unidades, Bases, Arsenales y Centros podrán realizar también, previa autorización del Mando correspondiente, ceremonias de carácter particular con ocasión de festividades locales, efemérides y tradiciones propias.
+
+##### Art. 590.
+
+La Armada conservará con respeto todas aquellas tradiciones, usos y costumbres que mantengan vivo su espíritu y perpetúen el recuerdo de su historia.
+
+##### Art. 591.
+
+Se evitará la proliferación de actos y se procurará en lo posible su coincidencia a fin de no entorpecer la misión principal de las Unidades. El ceremonial será sencillo y su duración se ajustará a lo estrictamente necesario para no restarle solemnidad.
+
+En los buques de la Armada el ceremonial se ajustará, en cada caso, a sus especiales características.
+
+##### Art. 592.
+
+Las ceremonias se desarrollarán, como norma general, atendiendo al siguiente orden: formación y revista por el mando de la fuerza, incorporación de la Bandera si procede, recepción de la Autoridad que presida, realización del acto propiamente dicho, desfile si corresponde, despedida de la Bandera y retirada de las fuerzas.
+
+##### Art. 593.
+
+La Autoridad o Mando que tenga la responsabilidad de organizar el acto dictará una Orden en la que precisará su finalidad, condiciones de ejecución y normas logísticas, de coordinación y de seguridad.
+
+##### Art. 594.
+
+Cuando la solemnidad y las circunstancias lo aconsejen, la Autoridad que presida o el Comandante o Jefe de la Unidad, Base, Arsenal o Centro dirigirá una alocución resaltando el significado del acto y los valores morales y militares que encierra.
+
+##### Art. 595.
+
+Las ceremonias militares de especial contenido espiritual podrán ir precedidas de los actos religiosos que por tradición correspondan.
+
+Con la debida antelación, se hará advertencia de que aquellos que no profesen la correspondiente religión quedan dispensados de asistir al acto religioso.
+
+##### Art. 596.
+
+Las ceremonias en que intervengan fuerzas de más de un Ejército serán presididas por la autoridad expresamente designada para ello o, en su defecto, por el Oficial General o Particular más antiguo de los presentes con mando sobre alguna de las Unidades participantes.
+
+##### Art. 597.
+
+Por razón de las características de los medios empleados, el orden de formación en parada será: Unidades a pie, Unidades a caballo y a lomo y Unidades sobre vehículos.
+
+En los desfiles, este orden se podrá alterar cuando razones técnicas así lo aconsejen.
+
+El desfile de las Unidades en vuelo deberá coordinarse con el de las demás fuerzas.
+
+##### Art. 598.
+
+Cuando concurran fuerzas de más de un Ejército, dentro de lo señalado en el artículo anterior y siempre ocupando el puesto de cabeza la Guardia Real, el Ejército que organice el desfile o parada cederá el puesto preferente a las fuerzas participantes de los otros dos, cuyo orden relativo será inverso al de la entidad de las fuerzas que participen.
+
+En la Armada irán en cabeza las unidades embarcadas. Dentro de éstas y de las restantes, el orden será: fuerzas de Marinería mandadas por Oficiales del Cuerpo General, fuerzas de Infantería de Marina y restantes fuerzas de Marinería.
+
+Cuando razones orgánicas o funcionales aconsejen la constitución de diversas agrupaciones, se respetarán, dentro de cada una de ellas, los órdenes de prioridad fijados en los párrafos anteriores.
+
+##### Art. 599.
+
+Cuando desfilen los alumnos de las Academias y Escuelas de formación de Oficiales y Suboficiales lo harán en cabeza de la formación o inmediatamente detrás de la Guardia Real, precisamente por ese orden y, dentro de él, según lo establecido en el artículo anterior.
+
+##### Art. 600.
+
+Para destacar la trascendencia y significado del Juramento ante la Bandera se celebrará un acto solemne y público presidido por una autoridad militar.
+
+El Jefe de la Unidad o Centro tomará el Juramento mediante la siguiente fórmula: «¡Marineros! ¿Juráis por Dios o por vuestro honor y prometéis a España, besando con unción su Bandera, obedecer y respetar al Rey y a vuestros Jefes, no abandonarles nunca y derramar, si es preciso en defensa de la soberanía e independencia de la Patria, de su unidad e integridad territorial y del ordenamiento constitucional, hasta la última gota de vuestra sangre?».
+
+Los marineros contestarán: «¡Si, lo juramos!».
+
+El que tomó el juramento replicará: «Si así lo hacéis, la Patria os lo agradecerá y premiará y si no mereceréis su desprecio y su castigo, como indignos hijos de ella», y añadirá: «Marineros: ¡Viva España! y ¡Viva el Rey!», que serán contestados con los correspondientes: «¡Viva!».
+
+A continuación podrá intervenir el Capellán militar, que si lo hiciere pronunciará la siguiente invocación: «Ruego a Dios que os ayude a cumplir lo que habéis jurado y prometido».
+
+En la fórmula del juramento la expresión «Marineros» podrá ser sustituida por la que convenga, de conformidad con la condición militar de los que juran.
+
+##### Art. 601.
+
+La entrega de Mando de un buque se efectuará, siempre que sea posible, en la mar.
+
+La ceremonia será presidida por el Mando de la Agrupación a que pertenezca el buque o por el Oficial General o Particular designado.
+
+Formarán la Guardia Militar, con armas, y todo el personal de la dotación franco de servicio.
+
+La autoridad que preside el acto dará posesión al Comandante entrante mediante la siguiente fórmula: «De orden de Su Majestad el Rey, se reconocerá al ...... (empleo y nombre) como Comandante del ....... (nombre del buque), respetándole y obedeciéndole en todo lo que mandare concerniente al servicio. ¡Viva España!». Será contestado con el correspondiente «¡Viva!».
+
+A partir de ese momento, el nuevo Comandante ostenta el mando.
+
+##### Art. 602.
+
+La entrega de Mando de una Fuerza Naval se efectuará, siempre que sea posible en la mar en forma análoga a la indicada en el artículo anterior. Durante la ceremonia en la Capitana, en el momento de arbolar y arriar las insignias éstas serán saludadas en la forma reglamentaria por los buques de la Fuerza.
+
+##### Art. 603.
+
+La entrega de Mando de las restantes unidades navales y de los Tercios o Agrupaciones de Infantería de Marina tendrá lugar en una ceremonia solemne, presidida por el Oficial General o Particular que se designe, en la que formará la dotación completa.
+
+El ceremonial se ajustará, en líneas generales, al indicado para la entrega de Mando de buque, adecuándose convenientemente la fórmula que ha de utilizarse.
+
+##### Art. 604.
+
+A los que vayan a mandar unidades de nivel inferior al de Tercio o Agrupación se les dará a conocer por su Mando inmediato, como mínimo por su Capitán, con ocasión de la primera formación de la Unidad. La fórmula en estos casos será: «De orden ...... (autoridad de la que haya emanado) ...... se reconocerá a ...... por ...... de ......, respetándole y obedeciéndole en todo lo que mandare concerniente al servicio».
+
+Los destinos de Oficiales y Suboficiales, sin Mando directo de Unidad, se darán a conocer exclusivamente en la Orden, requisito que también se seguirá en todos los casos anteriormente citados.
+
+##### Art. 605.
+
+Todo buque, Tercio o Agrupación de Infantería de Marina independiente tendrá su Bandera o Estandarte desde el momento de su creación o entrega a la Armada, que le servirá de estímulo permanente y como reconocimiento de que es digno de su custodia y de su condición de unidad combatiente.
+
+Asimismo, dispondrán de Bandera o Estandarte las Zonas Marítimas y aquellas Unidades y Centros que expresamente se determinen.
+
+##### Art. 606.
+
+La entrega de los buques a la Armada se realizará con una ceremonia solemne, cuyo acto fundamental será el izado de la Bandera, así como el embarco de la dotación. La Bandera será entregada, por la Autoridad que preside, al Comandante del buque, el cual se dirigirá a la formación mediante la siguiente fórmula: «Dotación, la Bandera es el símbolo de la Patria inmortal; los que tenemos el honor de estar alistados bajo ella estamos obligados a defenderla hasta perder la vida. Y en garantía de que juráis y prometéis entregaros a su servicio ...... (ordenará los movimientos reglamentarios para que se efectúe una salva de honor)». Terminada la descarga y descansadas las armas dirá: «Dotación, ¡Viva España!», que será contestado con el correspondiente «¡Viva!».
+
+La Bandera así entregada se denominará Bandera de Combate.
+
+##### Art. 607.
+
+Con posterioridad, podrá celebrarse un acto solemne para la entrega al buque de una Bandera donada, normalmente, por alguna Institución. La ceremonia, que se desarrollará en la forma indicada en el artículo anterior, se realzará con la presencia de una madrina, que efectuará personalmente la entrega. Esta Bandera pasará a ser la Bandera de Combate del buque, en sustitución de la que se le entregó inicialmente.
+
+##### Art. 608.
+
+De igual forma, y con idéntico ceremonial al indicado en el artículo precedente, se efectuará la entrega de las restantes Banderas o Estandartes en la Armada, ajustándose las fórmulas al caso de que se trate.
+
+##### Art. 609.
+
+Las entregas de las Jefaturas o Direcciones de Centros e Instalaciones Navales se regirán por normas especiales, con el ceremonial adecuado, atendiendo a sus características particulares y a su importancia.
+
+##### Art. 610.
+
+El acto solemne de lectura de Leyes Penales se ajustará en líneas generales al siguiente ceremonial:
+
+Formada la dotación por Brigadas o Compañías y pasada revista por sus mandos naturales, quedará en posición de firmes con la Guardia Militar dando frente al Comandante o Jefe. El Escribiente o encargado de la lectura pedirá permiso. Concedido éste, la Guardia Militar pondrá el arma sobre el hombro y el Contramaestre dará la pitada reglamentaria. Se leerán los artículos seleccionados y a continuación el Comandante o Jefe dará la voz de «¡Viva España!», que será contestada por la dotación con el correspondiente «¡Viva!», al tiempo que efectúa el saludo reglamentario. La Guardia Militar, previa orden descansará el arma. Durante la lectura de premios concedidos y correctivos impuestos, la dotación se mantendrá en posición de firmes.
+
+##### Art. 611.
+
+La imposición de condecoraciones se efectuará en una ceremonia especialmente organizada a dicho fin o durante la celebración de otro acto solemne.
+
+Cuando se trate de la Cruz Laureada de San Fernando, Medalla Militar y Medallas del Ejército, Naval o Aérea, concedidas con carácter individual o colectivo, se hará en una solemne ceremonia especialmente organizada para este fin.
+
+##### Art. 612.
+
+También se celebrarán actos con motivo de entregas de despachos, nombramientos, títulos o diplomas y despedida de los marineros y soldados de cada llamamiento o reemplazo, así como en las festividades de las Fuerzas Armadas.
+
+##### Art. 613.
+
+La baja en la Armada de los buques se realizará con una ceremonia solemne, cuyo acto fundamental será el arriado de la Bandera y el desembarco de la dotación.
+
+### TITULO XXII — De los honores militares y el ceremonial marítimo
+
+#### Honores militares
+
+##### Arts. 614 a 620.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.2.b) del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+#### Ceremonial maritimo
+
+> Téngase en cuenta que continúan vigentes con el rango de orden ministerial los arts. 621 a 644, que integran esta sección, según establece la disposición derogatoria única.4.c).2º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Art. 621.
+
+En los puertos o fondeaderos donde se encuentren varios buques de guerra se izará y arriará la Bandera, previa señal del Jefe de Bahía. En presencia de buques de Armadas extranjeras los Himnos nacionales se interpretarán por el orden alfabético de la denominación en castellano de los distintos países, y en primer lugar el de España.
+
+##### Art. 622.
+
+En el crepúsculo, cuando esté en movimiento otro buque de guerra, todo buque de la Armada atracado o fondeado izará sin honores la Bandera en el pico, La arriará cuando el otro buque atraque, dé fondo o se aleje.
+
+##### Art. 623.
+
+Cuando un buque se haga a la mar, se arriará la Bandera del asta de popa y se izará en el pico en el momento de zarpar el ancla o largarse la última amarra. Se efectuará la operación inversa cuando se dé fondo o se afirme la primera amarra. Navegando se tendrá siempre izada en el pico.
+
+##### Art. 624.
+
+Cuando un buque esté fondeado o atracado en aguas extranjeras, izará a las mismas horas que la Bandera Nacional la de Tajamar o Torrotito. En aguas nacionales lo hará los días de engalanado, domingos y festivos y, en presencia de un buque de guerra extranjero, cuando éste fondee o afirme la primera amarra en tierra, arriándola cuando zarpe o largue la última amarra.
+
+##### Art. 625.
+
+El saludo a la voz en los buques de la Armada se efectuará cubriendo pasamanos y, en su caso, jarcias y vergas. La dotación permanecerá en el primer tiempo del saludo militar mientras se dan las voces y los Contramaestres darán pitadas cortas al ser contestados los «Viva».
+
+##### Art. 626.
+
+En el saludo al cañón no se cubrirán pasamanos y la dotación se encontrará, en sus puestos de babor y estribor de guardia o de guardia de mar. Los oficiales y suboficiales al mando de las formaciones saludarán militarmente, así como los que no estén en formación.
+
+##### Art. 627.
+
+En los saludos a la voz y al cañón, toda insignia deberá arriarse a media driza y tremolarse al saludar a otra superior o igual de Oficial más antiguo. Se izará a tope al finalizar el saludo.
+
+##### Art. 628.
+
+Durante los saludos al cañón a plazas, buques o Autoridades extranjeras, se mantendrá izada en el tope del palo de proa la Bandera de la nación a la que pertenezca la plaza, buque o Autoridad. En estos casos no se arriará a media driza la insignia.
+
+##### Art. 629.
+
+Para saludar a la voz se partirá de la formación de babor y estribor de guardia. La dotación cubrirá pasamanos. El saludo se iniciará en el momento en que la Autoridad a quien se rinden honores pise la cubierta, en cuyo instante se romperá la canasta de su insignia. Al abandonar el buque, el saludo se iniciará en el momento que desatraque del portalón el bote que lleva a la Autoridad, o cuando ésta pise tierra. La insignia de la Autoridad se arriará al finalizar el último «viva» o cañonazo, y romperá canasta la que corresponda. Al desatracar, el bote se abrirá y se mantendrá parado, entre el través y la popa del buque, hasta terminar el saludo.
+
+##### Art. 630.
+
+En el engalanado general del buque se izará la Bandera Nacional en los topes y la de Tajamar en el torrotito. Entre el torrotito y palo de proa se colocarán banderas rojas y blancas del Código, de forma que alterne un gallardete cada tres o cuatro banderas cuadras; entre el palo de proa y el de popa se colocaran las banderas blancas y azules, de la misma forma, el resto de las banderas, entre el palo de popa y el coronamiento. En los buques de vela el distintivo visual se colgará del penol del bauprés.
+
+##### Art. 631.
+
+El engalanado particular del buque consistirá en izar la Bandera Nacional en los topes y la de Tajamar en el torrotito.
+
+##### Art. 632.
+
+Los engalanados se izarán y arriarán simultáneamente con la Bandera Nacional.
+
+##### Art. 633.
+
+En presencia de buques extranjeros, sea o no en aguas nacionales, cuando corresponda engalanado se invitará a izarlo a dichos buques.
+
+Igualmente se corresponderá a las invitaciones que en este sentido sean hechas por los buques de guerra o autoridades navales de otra nación, en cuyo caso la bandera de ésta se izará en el tope del palo de proa.
+
+##### Art. 634.
+
+Al cruzarse un bote con otro de insignia superior se parará, arbolará o paireará hasta que pase. El personal que vaya a bordo, en la cámara, saludará.
+
+##### Art. 635.
+
+Cuando un bote encuentre a otro con Oficial de superior empleo a las personas que vayan en aquél, alzará los remos hasta que se hayan cruzado. Si navega a vela o a motor, no detendrá la marcha, y en todos los casos el personal que vaya en la cámara saludará.
+
+##### Art. 636.
+
+El personal de guardia en los botes amarrados por la popa o en los tangones y las dotaciones de los que esperen al costado o próximos a los muelles, se levantarán y saludarán a todo superior que pase cerca de ellos en otro bote.
+
+##### Art. 637.
+
+En los botes en que embarquen Oficiales o Suboficiales, estos lo harán en orden inverso a la antigüedad, el patrón pedirá permiso para «abrir» al de mayor antigüedad. Al desembarcar, éste lo hará el primero y los demás por orden de antigüedad.
+
+##### Art. 638.
+
+Los botes en movimiento llevarán la Bandera Nacional a popa desde el izado hasta el ocaso en los días de engalanado, cuando lleven fuerza armada a bordo estén en presencia de buques de guerra extranjeros o se dirijan a efectuar algún reconocimiento de buques o costa. En puertos extranjeros la llevarán siempre desde el orto hasta el ocaso.
+
+##### Art. 639.
+
+Las insignias arboladas en embarcación menor, al pasar por las proximidades de los buques, serán saludadas únicamente con los honores de guardia formada y toques que le correspondan. Solamente se hará saludo a la voz y, en su caso, al cañón al paso del Estandarte de S.M. el Rey. Al paso de Jefes de Estado extranjeros el honor de saludo a la voz será sustituido por el de cubrir pasamanos.
+
+##### Art. 640.
+
+La Insignia o Distintivo que deba izar el bote cuando lleve una Autoridad con derecho a ello, la desplegará el proel en el momento de desatracar del buque o muelle y se recogerá a la voz de «proa» cuando vayan a atracar de nuevo.
+
+##### Art. 641.
+
+En la visita preliminar a Comandantes de buque o Fuerza Naval extranjeros, el bote que conduzca al Oficial encargado de cumplimentarles llevará, además de la Bandera Nacional, el Gallardete de Mando.
+
+##### Art. 642.
+
+Cuando en la mar o en puerto se crucen dos buques de guerra entre la salida y la puesta de sol, se dará la voz de «Honores por babor» u «Honores por estribor», ordenándose con el silbato «firmes». El contramaestre dará una pitada larga de atención. La Guardia Militar pondrá las armas sobre el hombro y la dotación saludará militarmente. Al terminar de cruzarse los buques se ordenará «Retirada de honores», seguido de las pitadas correspondientes. El saludo lo iniciará siempre la insignia más moderna y la retirada la más antigua.
+
+##### Art. 643.
+
+Cuando los buques mercantes nacionales o extranjeros saluden a los de guerra al cruzarse en la mar o en puerto arriando su bandera, el de guerra contestará arriando una sola vez la suya hasta media driza.
+
+##### Art. 644.
+
+Además de los honores que pudieran corresponderles, a la llegada a bordo de Oficiales Generales, Mandos de la Agrupación a que pertenece la Unidad y Comandante del buque, el Contramaestre de Guardia saludará con una pitada larga de atención. Se les rendirá el mismo honor al desembarcar.
+
+A la llegada de otros Jefes y Oficiales, el Contramaestre de Guardia saludará con una pitada corta de atención.

@@ -1,0 +1,117 @@
+---
+title: "Orden de 19 de junio de 1997 por la que se regulan las operaciones de segregación de principal y cupones de los valores de Deuda del Estado y su reconstitución y se autoriza a la Dirección General del Tesoro y Política Financiera a formalizar préstamos singulares con instituciones financieras"
+identifier: "BOE-A-1997-13383"
+eli: "https://www.boe.es/eli/es/o/1997/06/19/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1997-06-19
+published: 1997-06-20
+in_force_from: 1997-06-20
+last_amended: 2011-07-30
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 147"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-13383"
+retrieved: 2026-10-11
+---
+
+# Orden de 19 de junio de 1997 por la que se regulan las operaciones de segregación de principal y cupones de los valores de Deuda del Estado y su reconstitución y se autoriza a la Dirección General del Tesoro y Política Financiera a formalizar préstamos singulares con instituciones financieras
+
+El artículo 2, apartado d), del Real Decreto 38/1997, de 17 de enero, por el que se dispone la creación de Deuda Pública durante 1997 y enero de 1998, faculta al Ministro de Economía y Hacienda a autorizar la segregación del principal y cupones de determinadas emisiones de Deuda del Estado, así como su posterior reconstitución, a efectos de su negociación en los mercados secundarios.
+
+Por otra parte, de acuerdo con la nueva redacción del artículo 11 del Real Decreto 505/1987, sobre anotaciones en cuenta de la Deuda, dada por el artículo 4, número 2, del Real Decreto 536/1997, de 14 de abril, por el que se modifican determinados artículos del Reglamento del Impuesto sobre la Renta de las Personas Físicas, y del Real Decreto 505/1987, de 3 de abril, y se incorporan determinados preceptos al Real Decreto 765/1995, de 15 de mayo, y al Real Decreto 2027/1995, de 22 de diciembre, en las transmisiones de anotaciones en cuenta de Deuda del Estado con rendimiento implícito estará obligada a retener e ingresar en el Tesoro la entidad gestora transmitente o que actúe por cuenta del transmitente de tales anotaciones. Cuando se produzca el reembolso, dicha obligación recaerá, sin embargo, sobre el emisor que instrumentará la retención a través de la Central de Anotaciones, salvo que la materialización de la operación se encomiende a las entidades gestoras, en cuyo caso serán éstas las encargadas de practicar e ingresar la retención que proceda. Por consiguiente, haciendo uso de esa posibilidad, la presente Orden encomienda a las entidades gestoras del mercado de Deuda Pública en Anotaciones la aplicación e ingreso de las retenciones a cuenta que proceda efectuar cuando se produzca el reembolso de activos de rendimiento implícito procedentes de la segregación de cupones y principales de Bonos y Obligaciones del Estado.
+
+Finalmente, el artículo 104.1 del texto refundido de la Ley General Presupuestaria, aprobado por Real Decreto Legislativo 1091/1988, de 23 de septiembre, faculta al Ministro de Economía y Hacienda a proceder a la emisión o contracción de Deuda Pública, estableciendo su representación, voluntaria o exclusiva, en anotaciones en cuenta, títulos-valores u otro documento que formalmente la reconozca; señalar o concertar su plazo, tipo de interés y demás características, y formalizar, en su caso, en representación del Estado, tales operaciones.
+
+Haciendo uso de esas autorizaciones, viendo la conveniencia de dotar al mercado de Deuda de instrumentos similares a los disponibles en otros países de la Unión Europea, con el doble objetivo de satisfacer las necesidades y preferencias de los inversores institucionales y diversificar y abaratar las fuentes de financiación del Estado, he dispuesto:
+
+## Primero.
+
+1\. *Definiciones*.–A los efectos de la presente Orden, se entenderá por:
+
+a) Segregación: Operación por la que se da de baja en la Central de Anotaciones un Bono segregable, asentándose en su lugar nuevos valores con rendimiento implícito, procedentes, respectivamente, de los flujos de caja correspondientes a sus cupones y el principal de dicho Bono.
+
+b) Reconstitución: Operación inversa a la anterior, en virtud de la cual se dan de baja en la Central de Anotaciones todos los valores con rendimiento implícito vivos procedentes de cada uno de los flujos de caja de un Bono segregable, dándose de alta, en contrapartida, el citado Bono.
+
+c) Principal segregado: Valor con rendimiento implícito procedente del flujo de caja correspondiente al principal de un Bono segregable.
+
+d) Cupón segregado: Valor con rendimiento implícito procedente del flujo de caja correspondiente a un cupón de un Bono segregable.
+
+e) Bono segregable: Bono u Obligación del Estado en cuyas convocatorias de emisión la Dirección General del Tesoro y Política Financiera hubiere autorizado la posibilidad de segregación y reconstitución de sus flujos de caja.
+
+2\. *Autorización*.–Se autoriza a la Dirección General del Tesoro y Política Financiera a emitir Bonos segregables. Las referencias de Bonos y Obligaciones con la calificación de Bonos segregables serán exclusivamente aquellas que la Dirección General del Tesoro y Política Financiera declare expresamente como tales en la Resolución por la que se convoque su primera subasta. En dicha Resolución se determinará, asimismo, el momento a partir del cual se podrán realizar las operaciones de segregación y reconstitución de los valores, pudiéndose establecer como requisito el que la emisión en cuestión tenga en circulación un volumen nominal mínimo determinado.
+
+3\. *Requisitos.*–Las operaciones de segregación y reconstitución habrán de cumplir los siguientes requisitos:
+
+a) Sólo podrán realizarse operaciones de segregación y reconstitución sobre aquellos Bonos segregables a partir del momento señalado por la Dirección General del Tesoro y Política Financiera en la Resolución de la convocatoria de subasta, de acuerdo con lo señalado en el apartado anterior.
+
+b) Los saldos nominales, tanto de los principales segregados como de los cupones segregados quedarán registrados en la Central de Anotaciones bajo un código de valor específico.
+
+c) La Central de Anotaciones cuidará de que el importe total en circulación de cada código-valor representativo de cupones segregados sea la cantidad que corresponda a los intereses de los Bonos segregables que tengan la misma fecha de vencimiento de cupones y se encuentren segregados.
+
+d) La Central de Anotaciones cuidará de que la suma de los nominales de los principales segregados y del nominal de los Bonos segregables no segregados de cada emisión coincida en cada momento con el importe nominal de la correspondiente emisión de Bonos segregables.
+
+e) El valor nominal unitario de cada principal segregado será de 10.000.000 de pesetas y el de cada cupón segregado de 1.000 pesetas.
+
+f) Serán fungibles entre sí los cupones segregados con la misma fecha de vencimiento, aun cuando provengan de diferentes referencias de Bonos segregables. No serán fungibles, sin embargo, los cupones segregados con los principales segregados aun cuando su fecha de vencimiento sea la misma. Tampoco serán fungibles entre sí los principales segregados, salvo que procedan de la misma emisión de Bonos segregables.
+
+g) La reconstitución de un Bono segregable requerirá, en todo caso, la adquisición de un importe nominal de principal segregado de dicho Bono segregable equivalente al nominal que se pretenda reconstituir.
+
+h) Las operaciones de segregación y reconstitución sólo podrán cursarse a la Central de Anotaciones por aquellas entidades que autorice la Dirección General del Tesoro y Política Financiera. La condición de entidad autorizada se otorgará mediante Resolución de la citada Dirección a aquellas entidades gestoras que se comprometan a cumplir los requisitos que ese organismo establezca. En la citada Resolución se establecerá, asimismo, la periodicidad con la que se revisará la mencionada autorización.
+
+i) Cada operación de segregación o reconstitución de Bonos segregables deberá referirse a un importe nominal mínimo del Bono segregable de 50.000.000 de pesetas. Los importes adicionales deberán ser múltiplos de 10.000.000 de pesetas.
+
+j) Cualquier persona física o jurídica podrá ser titular de Bonos segregables, principales segregados y cupones segregados.
+
+k) El importe nominal mínimo de las operaciones realizadas con principales segregados y cupones segregados entre titulares de cuenta en la Central de Anotaciones será el que en cada momento tenga establecido el Servicio Telefónico del Mercado de Dinero. Cuando se trate de operaciones en que intervengan terceros, el importe nominal mínimo por operación será de 10.000.000 de pesetas para los principales segregados y 1.000.000 de pesetas para los cupones segregados. Los importes adicionales en ambos casos deberán ser múltiplos de los valores unitarios de cada tipo de valor.
+
+l)**(Derogada)**
+
+4\. *Remisión de información.*–Semanalmente, el Banco de España informará a la Dirección General del Tesoro y Política Financiera de la parte de cada referencia de Bonos segregables que se encuentre efectivamente segregada.
+
+5\. *Pago de intereses y reembolsos.*–Los pagos realizados por la Dirección General del Tesoro y Política Financiera a los titulares de los cupones segregados al vencimiento de los cupones y de los principales segregados a la amortización del Bono segregable producirán el mismo efecto liberatorio y solutorio para el emisor que si se hubieren realizado a los titulares de los Bonos segregables o de sus cupones.
+
+6\. *Régimen de retenciones.*
+
+a) Cuando se produzca la transmisión o el reembolso de principales segregados y cupones segregados cuya titularidad corresponda a sujetos pasivos del Impuesto sobre la Renta de las Personas Físicas, serán las entidades gestoras que intervengan en la transmisión o el reembolso las encargadas de practicar e ingresar la retención que proceda.
+
+b)**(Derogada)**
+
+c) **(Derogada)**
+
+d) **(Derogada)**
+
+e) **(Derogada)**
+
+f) **(Derogada)**
+
+g)**(Derogada)**
+
+> Se deroga el apartado 6.b) a g) por la disposición derogatoria única.4 del Real Decreto 1145/2011, de 29 de julio. [Ref. BOE-A-2011-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13115).
+
+> Se deroga el apartado 3.l) por la disposición derogatoria de la Orden de 27 de enero de 1999. [Ref. BOE-A-1999-2291](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-2291).
+
+## Segundo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden EHA/2393/2006, de 14 de julio. [Ref. BOE-A-2006-13372](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-13372).
+
+## Tercero.
+
+Se autoriza a la Dirección General del Tesoro y Política Financiera y al Banco de España, en el ámbito de sus respectivas competencias, para adoptar las medidas y disposiciones necesarias para la aplicación de la presente Orden.
+
+## Disposición final.
+
+La presente Orden entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Lo que comunico a V. I. para su conocimiento y demás efectos.
+
+Madrid, 19 de junio de 1997.
+
+DE RATO Y FIGAREDO
+
+Ilmo. Sr. Director general del Tesoro y Política Financiera.

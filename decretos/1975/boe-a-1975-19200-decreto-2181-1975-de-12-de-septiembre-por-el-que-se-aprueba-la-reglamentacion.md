@@ -1,0 +1,399 @@
+---
+title: "Decreto 2181/1975, de 12 de septiembre, por el que se aprueba la Reglamentación Técnico-Sanitaria para la Elaboración, Circulación y Comercio de Pastas Alimenticias"
+identifier: "BOE-A-1975-19200"
+eli: "https://www.boe.es/eli/es/d/1975/09/12/2181"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1975-09-12
+published: 1975-09-13
+in_force_from: 1975-09-14
+last_amended: 2013-03-29
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 220"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1975-19200"
+retrieved: 2026-10-11
+---
+
+# Decreto 2181/1975, de 12 de septiembre, por el que se aprueba la Reglamentación Técnico-Sanitaria para la Elaboración, Circulación y Comercio de Pastas Alimenticias
+
+El Decreto de la Presidencia del Gobierno número dos mil cuatrocientos ochenta y cuatro/mil novecientos sesenta y siete, de veintiuno de septiembre, que aprueba el Código Alimentario Español, prevé que pueden ser objeto de Reglamentaciones Especiales las materias en él reguladas. Publicado el Decreto de la Presidencia del Gobierno número dos mil quinientos diecinueve/mil novecientos setenta y cuatro, de nueve de agosto, que regula la entrada en vigor, aplicación y desarrollo del Código Alimentario Español, procede ahora dictar las distintas Reglamentaciones establecidas en el mismo.
+
+En su virtud, a propuesta conjunta de los Ministros de la Gobernación, Agricultura, Industria y Comercio, oída la Organización Sindical, de acuerdo con el informe favorable de la Comisión Interministerial para la Ordenación Alimentaria, y previa deliberación del Consejo de Ministros, en su reunión del día doce de septiembre de mil novecientos setenta y cinco,
+
+DISPONGO:
+
+#### Artículo único.
+
+Se aprueba la adjunta Reglamentación Técnico-Sanitaria para la Elaboración, Circulación y Comercio de las Pastas Alimenticias.
+
+### DISPOSICIÓN FINAL
+
+Esta Reglamentación entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+### DISPOSICIÓN TRANSITORIA
+
+#### Primera.
+
+Las reformas y adaptaciones de instalaciones derivadas de las nuevas exigencias incorporadas a esta Reglamentación, que no sean consecuencia de disposiciones legales vigentes y en especial de lo dispuesto en el Decreto dos mil quinientos diecinueve/mil novecientos setenta y cuatro, de nueve de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, serán llevadas a cabo en el plazo de doce meses, a contar desde la publicación de la presente Reglamentación.
+
+#### Segunda.
+
+A contar de la fecha de publicación del presente Decreto se permitirá que durante un año los industriales que actualmente están dedicados a la fabricación de pastas alimenticias puedan seguir utilizando las existencias en almacén o contratadas de las etiquetas, envolturas, estuches y envases de todo tipo que tuvieran en uso y que no se ajusten a lo dispuesto en esta Reglamentación. Después de la publicación del presente Decreto, todo encargo de envases y etiquetas se ajustará a lo establecido en el texto de la adjunta Reglamentación, siendo considerada esta infracción como falta grave.
+
+> Se modifica por el art. 4 del Real Decreto 1771/1976, de 2 de julio. [Ref. BOE-A-1976-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-14453).
+
+#### Tercera.
+
+En el plazo de seis meses, a partir de la publicación del presente Decreto, quedará totalmente prohibida la venta a granel de pastas alimenticias en los establecimientos detallistas.
+
+Este mismo período será aplicable para agotar en el comercio detallista las existencias de pastas alimenticias elaboradas con anterioridad a la publicación de este Decreto.
+
+### DISPOSICIÓN DEROGATORIA
+
+Quedan derogadas las siguientes disposiciones:
+
+– Orden de la Presidencia del Gobierno de 4 de abril de 1956 («Boletín Oficial del Estado» del 9) por la que se aprueba la Reglamentación Técnico-Sanitaria para la Elaboración y Venta de Pastas Alimenticias.
+
+– Orden de la Presidencia del Gobierno de 30 de diciembre de 1958 («Boletín Oficial del Estado» de 7 de enero de 1959) por la que se modifica la Reglamentación Técnico-Sanitaria para la Elaboración y Venta de Pastas Alimenticias.
+
+– Orden de la Presidencia del Gobierno de 20 de julio de 1971 («Boletín Oficial del Estado» del 28) por la que se modifica la Reglamentación Técnico-Sanitaria para la Elaboración y Venta de Pastas Alimenticias.
+
+– Orden de la Presidencia del Gobierno de 10 de marzo de 1962 («Boletín Oficial del Estado» del 17) por la que se modifica la Reglamentación Técnico-Sanitaria para la Elaboración y Venta de Pastas Alimenticias.
+
+– Orden del Ministerio de Comercio de 20 de julio de 1967 («Boletín Oficial del Estado» del 1 de agosto) sobre envasado de pastas alimenticias, y
+
+– Cuantas disposiciones de igual o inferior rango se opongan a lo que en este Decreto se establece.
+
+> Se modifica por el art. 4 del Real Decreto 1771/1976, de 2 de julio. [Ref. BOE-A-1976-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-14453).
+
+Así lo dispongo por el presente Decreto, dado en Madrid a doce de septiembre de mil novecientos setenta y cinco.
+
+FRANCISCO FRANCO
+
+El Ministro de la Presidencia del Gobierno,
+
+ANTONIO CARRO MARTÍNEZ
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA PARA LA ELABORACIÓN, CIRCULACIÓN Y COMERCIO DE PASTAS ALIMENTICIAS
+
+#### Art 1. Ámbito de aplicación
+
+1\. La presente Reglamentación tiene por objeto definir, a efectos legales, lo que se entiende por pastas alimenticias y fijar, con carácter obligatorio, las normas aplicables a dichos productos. Será de aplicación, asimismo, a los productos importados.
+
+2\. Esta Reglamentación obliga a todos los fabricantes y comerciantes de pastas alimenticias y, en su caso, a los importadores de estos productos.
+
+3\. Se consideran industriales de pastas alimenticias aquellas personas, naturales o jurídicas, que en uso de las autorizaciones concedidas por los Organismos oficiales dedican su actividad a la fabricación de las elaboraciones indicadas en el artículo 3.°
+
+## TÍTULO PRIMERO — Definiciones
+
+#### Art. 2. Pastas alimenticias.
+
+Con el nombre de pastas alimenticias se designarán los productos obtenidos por desecación de una masa no fermentada elaborada con sémolas, semolinas o harina procedente de trigo duro, trigo semiduro o trigo blando o sus mezclas y agua potable.
+
+#### Art. 3. Tipos de pastas alimenticias.
+
+1\. Pastas alimenticias simples:
+
+Serán las elaboradas con sémolas, semolinas o harinas procedentes de trigo duro, semiduro, blando o sus mezclas.
+
+Cuando sean elaboradas exclusivamente con sémola o semolina de trigo duro (Triticum durum) podrán calificarse como de calidad superior.
+
+2\. Pastas alimenticias compuestas:
+
+Se denominarán pastas alimenticias compuestas aquellas a las que se les ha incorporado en el proceso de elaboración alguna o varias de las siguientes sustancias alimenticias: gluten, soja, huevos, leche, hortalizas, verduras y leguminosas, bien naturales, desecadas o conservadas, jugos y extractos. Podrán incorporarse otras sustancias alimenticias que, en su momento, sean autorizadas por la Dirección General de Sanidad.
+
+3\. Pastas alimenticias rellenas:
+
+Se denominan pastas alimenticias rellenas los preparados constituidos por pastas alimenticias, simples o compuestas, que en formas diversas (empanadillas, cilindros, sandwichs, etcétera), contengan en su interior un preparado necesariamente elaborado con todas o algunas de las siguientes sustancias: carne de animales de abasto, grasas animales y vegetales, productos de la pesca, pan rallado, verduras, hortalizas, huevos y agentes aromáticos autorizados. Podrán incorporarse otras sustancias alimenticias que, en su momento, sean autorizadas por la Dirección General de Sanidad.
+
+4\. Pastas alimenticias frescas:
+
+Se denominan pastas alimenticias frescas cualquiera de las elaboradas de acuerdo con lo establecido en los epígrafes anteriores, pero que no han sufrido proceso de desecación.
+
+## TÍTULO II — Condiciones de las industrias, de los materiales y del personal
+
+#### Art. 4. Requisitos industriales.
+
+**(Derogado)**
+
+> Se deroga por el art. 5 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 5. Requisitos higiénico-sanitarios.
+
+**(Derogado)**
+
+> Se deroga por el art. 5 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 6. Condiciones generales de los materiales.
+
+**(Derogado)**
+
+> Se deroga por el art. 5 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se modifica por el art. 4 del Real Decreto 1771/1976, de 2 de julio. [Ref. BOE-A-1976-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-14453).
+
+#### Art. 7. Condiciones generales relativas al personal.
+
+**(Derogado)**
+
+> Se deroga por el art. 5 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO III — Registro sanitario
+
+#### Art. 8. Identificación de la industria.
+
+**(Derogado)**
+
+> Se deroga por el art. 5 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO IV — Características de las pastas alimenticias
+
+#### Art. 9. Características de las pastas alimenticias.
+
+1\. Pastas alimenticias simples:
+
+Humedad (máximo): 12,5.
+
+Cenizas referidas a sustancia seca (máximo): 1,1.
+
+Acidez expresada en grados (máximo), referida a sustancia seca: 5.
+
+Proteínas referidas a sustancia seca N x 5,7 (mínimo): 9,5
+
+2\. Pastas alimenticias (simples) de calidad superior se ajustarán a las siguientes características:
+
+Humedad (máximo): 12,5.
+
+Cenizas referidas a sustancia seca (máximo): 0,9.
+
+Acidez expresada en grados (máximo), referida a sustancia seca: 4.
+
+Proteínas referidas a sustancia seca N x 5,7 (mínimo): 11,0.
+
+3\. Pastas alimenticias compuestas:
+
+Las pastas alimenticias compuestas pueden ser:
+
+3.1 «Al gluten». Enriquecidas exclusivamente con gluten de trigo:
+
+Humedad (máximo): 12,5.
+
+Cenizas referidas a sustancia seca (máximo): 1,1.
+
+Acidez expresada en grados (máximo), referida a sustancia seca: 5.
+
+Proteínas referidas a sustancia seca N x 5,7 (mínimo): 20,0.
+
+3.2 «Al huevo». Enriquecidas, por lo menos, con tres huevos enteros de gallina, con un peso total de 150 gramos de huevo sin cáscara por kilogramo de sémola o 65 gramos de yemas, exclusivamente.
+
+Cumplirán las siguientes características:
+
+Humedad (máximo): 12,5.
+
+Cenizas referidas a sustancia seca (máximo): 1,1.
+
+Acidez expresada en grados (máximo), referida a sustancia seca: 5.
+
+Proteínas referidas a sustancia seca N x 5,7 (mínimo): 12,5.
+
+3.3 «A la leche». Enriquecidas, al menos, con 2,5 por 100 de leche en polvo desnatada al 1 por 100 de materia grasa o 250 gramos de leche natural, entera, parcialmente concentrada o su equivalente en otras formas de preparación por kilogramo de sémola:
+
+Se ajustarán a las siguientes características:
+
+Humedad (máximo): 12,5.
+
+Cenizas referidas a sustancia seca (máximo): 1,2.
+
+Acidez expresada en grados (máximo), referida a sustancia seca: 5.
+
+Proteínas referidas a sustancia seca N x 5,7 (mínimo): 11,0.
+
+3.4 «Al tomate». Enriquecidas, al menos, con un 2 por 100 de tomate deshidratado, con el 4 por 100 de tomate concentrado al 28 por 100 de sólidos totales o también con 200 gramos de tomates naturales por kilogramo de sémola.
+
+Humedad (máximo): 12,5.
+
+Cenizas referidas a sustancia seca (máximo): 1,3.
+
+Acidez expresada en grados (máximo), referida a sustancia seca: 5.
+
+Proteínas referidas a sustancia seca N x 5,7 (mínimo): 11,0.
+
+3.5 «A las espinacas». Enriquecidas, al menos, con un 2 por 100 de espinacas deshidratadas, o con 200 gramos de espinacas naturales por kilogramo de sémola.
+
+Deberán ajustarse a las siguientes características:
+
+Humedad (máximo): 12,5.
+
+Cenizas referidas a sustancia seca (máximo): 1,5.
+
+Acidez expresada en grados (máximo), referida a sustancia seca: 5.
+
+Proteínas referidas a sustancia seca N x 5,7 (mínimo): 11,0.
+
+Las pastas alimenticias compuestas podrán contener sal común comestible, pero en cualquier caso el contenido final del producto terminado no será nunca superior al 1 por 100, expresado en sustancia seca.
+
+Cuando sean elaboradas con pastas alimenticias de calidad superior habrá de tenerse en cuenta el mínimo de proteínas establecido en éstas.
+
+4\. Pastas rellenas:
+
+4.1 La cantidad de peso del relleno será, como mínimo, el 25 por 100 referido al peso total del producto.
+
+4.2 La acidez de la pasta expresada en grados, referida a sustancia seca, será como máximo 7.
+
+4.3 Por exigencias de una mejor preparación y conservación del relleno, podrán agregarse al mismo los aditivos que para estos fines autorice el Ministerio de Sanidad y Consumo.
+
+5\. Pastas alimenticias frescas: Reunirán las siguientes características:
+
+5.1 Humedad, como máximo, el 30 por 100 y como mínimo el 22 por 100.
+
+5.2 La acidez expresada en grados, referido a sustancia seca no será superior a 6 en las pastas simples y compuestas y 7 en las rellenas.
+
+5.3 Las pastas alimenticias frescas simples cumplirán los limites de cenizas y proteínas establecidas para las secas.
+
+Las especificaciones de humedad, acidez de la grasa, cenizas y proteínas recogidas en este artículo se determinarán con arreglo a los métodos de análisis recogidos en el anexo.
+
+> Se modifica por el art. 1.1 del Real Decreto 1534/1991, de 18 de octubre. [Ref. BOE-A-1991-26242](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-26242).
+
+> Se modifica por el art. 4 del Real Decreto 1771/1976, de 2 de julio. [Ref. BOE-A-1976-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-14453).
+
+#### Art. 10. Formas y tamaños.
+
+Las pastas alimenticias pueden fabricarse en las formas y tamaños siguientes:
+
+1\. Pastas roscadas:
+
+Serán fabricadas por extrusión a través de hileras o por laminación. Las tiras se presentarán enrolladas en madejas con sección circular (fideos) o rectangular (tallarines o cintas).
+
+2\. Pastas largas:
+
+Son las obtenidas por extrusión y secadas en tiras rectas y sueltas con un mínimo de 200 milímetros de longitud y podrán presentar sección circular (espaguetis), rectangular (tallarines o cintas) o anular (macarrones).
+
+3\. Pastas cortadas:
+
+Son las obtenidas por extrusión a través de un molde y cortadas en distintos formatos, de longitud inferior a 100 milímetros.
+
+4\. Pastas laminadas:
+
+Son las obtenidas por laminado y troquelado posterior con distintas formas y dibujos.
+
+#### Art. 11. Subordinación a otras Reglamentaciones.
+
+**(Derogado)**
+
+> Se deroga por el art. 5 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO V — Prohibiciones
+
+#### Art. 12. Prohibiciones.
+
+Queda terminantemente prohibido:
+
+1\. **(Derogado)**
+
+2\. El empleo de sal común, salvo lo dispuesto en el apartado 3.5 del artículo 9.°
+
+3\. **(Derogado)**
+
+> Se deroga, a excepción de lo dispuesto en el apartado 2, por el art. 5 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VI — Envasado, etiquetado y rotulación
+
+#### Art. 13. Envasado.
+
+**(Derogado)**
+
+> Se deroga por el art. 5 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 14. Normalización de los envases.
+
+**(Derogado)**
+
+> Se deroga por el art. 5 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 15. Etiquetado y publicidad.
+
+15.1 Denominación de Venta. Las pastas alimenticias se denominarán de acuerdo con lo establecido en los artículos 3.° y 9.° de la presente Reglamentación.
+
+Las pastas alimenticias simples podrán denominarse como “pastas alimenticias”.
+
+15.2 En los casos de utilización de envases no transparentes, debe especificarse la forma de las pastas alimenticias de acuerdo con lo establecido en el artículo 10.
+
+15.3 **(Derogado)**
+
+> Se deroga, a excepción de lo dispuesto en los apartados 1 y 2, por el art. 5 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se modifica por el art. 1.2 del Real Decreto 1534/1991, de 18 de octubre. [Ref. BOE-A-1991-26242](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-26242).
+
+> Se modifica el apartado 10 por el art. único del Real Decreto 2811/1983, de 13 de octubre. [Ref. BOE-A-1983-29110](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-29110).
+
+> Téngase en cuenta que, según establece la disposición final 1 del citado Real Decreto, esta regulación será exigible hasta la entrada en vigor de la norma general de etiquetado, presentación y publicidad de los productos alimenticios envasados, aprobada por Real Decreto 2058/1982, de 12 de agosto, en cuyo momento sera de aplicación la misma.
+
+> Se modifica por el art. 4 del Real Decreto 1771/1976, de 2 de julio. [Ref. BOE-A-1976-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-14453).
+
+## TÍTULO VII — Almacenamiento, transporte y venta
+
+#### Art. 16. Transporte y almacenamiento.
+
+**(Derogado)**
+
+> Se deroga por el art. 5 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 17. Venta.
+
+**(Derogado)**
+
+> Se deroga por el art. 5 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VIII — Exportación e importación
+
+#### Art. 18. Exportación.
+
+Los productos contemplados en esta Reglamentación que se elaboren con destino exclusivo para su exportación a países no pertenecientes a la Comunidad Económica Europea y no cumplan lo dispuesto en esta disposición, llevarán impresa en su embalaje en caracteres bien visibles la palabra EXPORT. Además su etiqueta deberá llevar la palabra EXPORT o cualquier otro signo que reglamentariamente se establezca y que permita identificarlo inequívocamente para evitar que el producto sea comercializado y consumido en España.
+
+> Se modifica por el art. 1.2 del Real Decreto 1534/1991, de 18 de octubre. [Ref. BOE-A-1991-26242](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-26242).
+
+#### Art. 19. Importación.
+
+**(Derogado)**
+
+> Se deroga por el art. 5 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se modifica por el art. 1.2 del Real Decreto 1534/1991, de 18 de octubre. [Ref. BOE-A-1991-26242](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-26242).
+
+> Se modifica por el art. 4 del Real Decreto 1771/1976, de 2 de julio. [Ref. BOE-A-1976-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-14453).
+
+## TÍTULO IX — Responsabilidades y régimen sancionador
+
+> Se modifica por el art. 1.2 del Real Decreto 1534/1991, de 18 de octubre. [Ref. BOE-A-1991-26242](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-26242).
+
+#### Art. 20. Responsabilidades y régimen sancionador.
+
+**(Derogado)**
+
+> Se deroga por el art. 5 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se modifica por el art. 1.2 del Real Decreto 1534/1991, de 18 de octubre. [Ref. BOE-A-1991-26242](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-26242).
+
+#### Art. 21. Competencias.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 1534/1991, de 18 de octubre. [Ref. BOE-A-1991-26242](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-26242).
+
+#### Art. 22.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 1534/1991, de 18 de octubre. [Ref. BOE-A-1991-26242](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-26242).
+
+## ANEXO — Métodos de análisis para pastas alimenticias
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 1093/1987, de 19 de junio. [Ref. BOE-A-1987-21011](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-21011).
+
+> Se modifica por el art. 5 del Real Decreto 1771/1976, de 2 de julio. [Ref. BOE-A-1976-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-14453).

@@ -1,0 +1,479 @@
+---
+title: "Real Decreto 2583/1996, de 13 de diciembre, de estructura orgánica y funciones del Instituto Nacional de la Seguridad Social y de modificación parcial de la Tesorería General de la Seguridad Social"
+identifier: "BOE-A-1997-86"
+eli: "https://www.boe.es/eli/es/rd/1996/12/13/2583"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Administraciones Públicas"
+date: 1996-12-13
+published: 1997-01-03
+in_force_from: 1997-01-04
+last_amended: 2025-06-18
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 3"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-86"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2583/1996, de 13 de diciembre, de estructura orgánica y funciones del Instituto Nacional de la Seguridad Social y de modificación parcial de la Tesorería General de la Seguridad Social
+
+Incluye la corrección de errores publicada en BOE núm. 31, de 5 de febrero de 1997. [Ref. BOE-A-1997-2343](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-2343).
+
+Los cambios producidos en la organización de los Ministerios por los recientes Reales Decretos de reestructuración de los mismos, así como las modificaciones competenciales introducidas a través de normas posteriores a su regulación inicial, aconsejan la revisión de la estructura organiza básica del Instituto Nacional de la Seguridad Social, entidad gestora de la Seguridad Social, y de la Tesorería General de la Seguridad Social, servicio común del sistema, en cumplimiento de lo establecido en la disposición final tercera del Real Decreto 839/1996, de 10 de mayo.
+
+En dicha revisión se han tenido en cuenta los mismos criterios de racionalización y simplificación de estructuras que han estado presentes en las reorganizaciones de los Departamentos ministeriales.
+
+En su virtud, a iniciativa del Ministro de Trabajo y Asuntos Sociales, a propuesta del Ministro de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 13 de diciembre de 1996,
+
+DISPONGO:
+
+## CAPÍTULO I — Instituto Nacional de la Seguridad Social
+
+### Artículo 1. Naturaleza y atribuciones.
+
+1\. Al Instituto Nacional de la Seguridad Social, entidad gestora de la Seguridad Social, dotada de personalidad jurídica, se encomienda la gestión y administración de las prestaciones económicas del sistema de la Seguridad Social, con excepción de aquellas cuya gestión esté atribuida al Instituto de Mayores y Servicios Sociales o Servicios competentes de las comunidades autónomas.
+
+Específicamente se atribuye al Instituto Nacional de la Seguridad Social competencia en las siguientes materias:
+
+a) El reconocimiento y control del derecho a las prestaciones económicas del sistema de la Seguridad Social en su modalidad contributiva, sin perjuicio de las competencias atribuidas al Servicio Público de Empleo Estatal en materia de prestaciones de protección por desempleo y al Instituto Social de la Marina en relación con el Régimen Especial de los Trabajadores del Mar.
+
+b) El reconocimiento y control del derecho a las prestaciones económicas del sistema de la Seguridad Social en su modalidad no contributiva, con excepción de aquellas cuya gestión esté atribuida al Instituto de Mayores y Servicios Sociales o servicios competentes de las comunidades autónomas.
+
+2\. Asimismo, queda atribuida al Instituto Nacional de la Seguridad Social la competencia sobre las siguientes materias:
+
+a) El reconocimiento y control de la condición de persona asegurada y beneficiaria, ya sea como titular, familiar o asimilado, a efectos de su cobertura sanitaria.
+
+b) En el ámbito internacional, la participación, en la medida y con el alcance que se le atribuya por el Ministerio de Empleo y Seguridad Social, en la negociación y ejecución de los Convenios Internacionales de Seguridad Social, así como la pertenencia a asociaciones y organismos internacionales.
+
+c) La gestión del Fondo Especial de Mutualidades de Funcionarios de la Seguridad Social.
+
+d) La gestión y funcionamiento del Registro de Prestaciones Sociales Públicas.
+
+e) La gestión de las prestaciones económicas y sociales del síndrome tóxico.
+
+f) El reconocimiento y control de la compensación económica por daños en la salud ocasionados por la exposición al amianto prevista en la Ley 21/2022, de 19 de octubre, de creación de un fondo de compensación para las víctimas del amianto.
+
+g) La gestión ordinaria de sus recursos humanos, en la medida y con el alcance que determine el Ministerio de Empleo y Seguridad Social.
+
+h) La gestión ordinaria de los medios materiales asignados a su misión.
+
+i) La realización de cuantas otras funciones le estén atribuidas legal o reglamentariamente o le sean encomendadas por el Ministerio de Empleo y Seguridad Social.
+
+3\. El ejercicio de las competencias atribuidas al Instituto Nacional de la Seguridad Social se entiende, en todo caso, sin perjuicio de las competencias que el Real Decreto 703/2017, de 7 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Empleo y Seguridad Social y se modifica el Real Decreto 424/2016, de 11 de noviembre, por el que se establece la estructura orgánica básica de los Departamentos ministeriales, confiere a los órganos y Unidades del Ministerio de Empleo y Seguridad Social.
+
+4\. El Instituto Nacional de la Seguridad Social queda adscrito al Ministerio de Empleo y Seguridad Social, a través de la Secretaría de Estado de la Seguridad Social.
+
+> Se reordenan las letras f), g) y h) como g), h) e i) y se añade una nueva f) al apartado 2, con efectos desde el 18 de septiembre de 2025, por la disposición final 2.1 del Real Decreto 483/2025, de 17 de junio. [Ref. BOE-A-2025-12312](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12312)
+
+> Se modifica el apartado 1.b) del art. 2.1 del Real Decreto 496/2020, de 28 de abril. [Ref. BOE-A-2020-4762](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4762)
+
+> Se modifica por el art. único.1 del Real Decreto 1010/2017, de 1 de diciembre. [Ref. BOE-A-2017-15283](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15283)
+
+> Se modifica el apartado 2.a) por el art. único.1 del Real Decreto 449/2012, de 5 de marzo. [Ref. BOE-A-2012-3158](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3158).
+
+### Artículo 2. Órganos directivos.
+
+El Instituto Nacional de la Seguridad Social se estructura en los siguientes órganos:
+
+1\. De participación en el control y vigilancia de la gestión:
+
+a) Consejo General.
+
+b) Comisión Ejecutiva.
+
+2\. De Dirección:
+
+a) Dirección General.
+
+b) Secretaría General y Subdirecciones Generales.
+
+### Artículo 3. El Consejo General.
+
+1\. El Consejo General estará integrado por los siguientes miembros:
+
+a) Trece representantes de los sindicatos más representativos, en proporción a su representatividad.
+
+b) Trece representantes de las organizaciones empresariales de más representatividad.
+
+c) Trece representantes de la Administración General del Estado.
+
+Su Presidente será el Secretario de Estado de la Seguridad Social, que será uno de los miembros representantes de la Administración General del Estado, y designará un Vicepresidente entre dichos miembros. Actuará como Secretario, con voz pero sin voto, el Secretario general del Instituto Nacional de la Seguridad Social.
+
+2\. Son atribuciones del Consejo General:
+
+a) Elaborar los criterios de actuación del Instituto Nacional de la Seguridad Social.
+
+b) Elaborar el anteproyecto de presupuesto de acuerdo con lo dispuesto en la Ley General Presupuestaria.
+
+c) Aprobar la memoria anual para su elevación al Gobierno.
+
+3\. El Consejo General funcionará en pleno. Se reunirá trimestralmente, así como cuando lo convoque su Presidente, a iniciativa propia o a petición del 20 por 100 de sus miembros.
+
+### Artículo 4. La Comisión Ejecutiva.
+
+1\. La Comisión Ejecutiva estará integrada por nueve Vocales: tres en representación de los sindicatos, tres en representación de las organizaciones empresariales y tres en representación de la Administración General del Estado, elegidos los representantes sindicales y empresariales por y entre los respectivos Vocales del Consejo General. Su Presidente será el Director general del Instituto, que será uno de los miembros representantes de la Administración General del Estado.
+
+Actuará como Secretario, con voz pero sin voto, el Secretario del Consejo General.
+
+2\. Corresponde a la Comisión Ejecutiva supervisar y controlar la aplicación de los acuerdos del Consejo General, así como proponer cuantas medidas estime necesarias para el mejor cumplimiento de los fines del Instituto.
+
+3\. La Comisión Ejecutiva se reunirá mensualmente, así como cuando la convoque su Presidente, a iniciativa propia o de un tercio de sus miembros.
+
+### Artículo 5. La Dirección General.
+
+1\. La Dirección General del Instituto asumirá las competencias de planificación, dirección, control e inspección de las actividades del mismo para el cumplimiento de sus fines.
+
+2\. El Director General del Instituto, que asumirá la representación legal del mismo, será nombrado y separado libremente de su cargo por real decreto, acordado en Consejo de Ministros, a propuesta del titular del Ministerio de Empleo y Seguridad Social.
+
+3\. A la Dirección General del Instituto se adscribe la Intervención Delegada en los Servicios Centrales del Instituto Nacional de la Seguridad Social, sin perjuicio de su dependencia de la Intervención General de la Administración del Estado a través de la Intervención General de la Seguridad Social.
+
+4\. De la Dirección General dependen las siguientes unidades, con nivel orgánico de Subdirección General:
+
+a) Secretaría General.
+
+b) Subdirección General de Ordenación y Asistencia Jurídica.
+
+c) Subdirección General de Recursos Humanos y Materiales.
+
+d) Subdirección General de Gestión Económico-Presupuestaria y Estudios Económicos.
+
+e) Subdirección General de Gestión de Prestaciones.
+
+f) Subdirección General de Gestión de Incapacidad Temporal, prestaciones económicas del sistema de la Seguridad Social en su modalidad no contributiva y otras prestaciones a corto plazo.
+
+g) Subdirección General de Coordinación de Unidades Médicas.
+
+5\. En caso de vacante, ausencia o enfermedad, el Director general será suplido temporalmente por el Secretario general, y en su defecto por los Subdirectores generales por el orden que se relacionan en el apartado precedente.
+
+> Se modifica el apartado 4.f) por el art. 2.2 del Real Decreto 496/2020, de 28 de abril. [Ref. BOE-A-2020-4762](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4762)
+
+> Se modifica el apartado 2 por el art. único.2 del Real Decreto 1010/2017, de 1 de diciembre. [Ref. BOE-A-2017-15283](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15283)
+
+> Se modifican los apartados 3 y 4 por el art. único.2 del Real Decreto 449/2012, de 5 de marzo. [Ref. BOE-A-2012-3158](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3158).
+
+> Se añade el apartado 4.h) por el art. único.1 del Real Decreto 666/2007, de 25 de mayo. [Ref. BOE-A-2007-11209](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-11209).
+
+> Se modifica el apartado 4.g) por la disposición final 1.1 del Real Decreto 1600/2004, de 2 de julio de 2004. [Ref. BOE-A-2004-12474](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-12474).
+
+> Se modifica el apartado 4 por el art. único.1 del Real Decreto 469/2003, de 25 de abril. [Ref. BOE-A-2003-9618](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9618).
+
+> Redactado el apartado 4.g) conforme a la corrección de errores publicada en BOE núm. 31, de 5 de febrero de 1997. [Ref. BOE-A-1997-2343](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-2343).
+
+### Artículo 6. La Secretaría General.
+
+Compete a la Secretaría General:
+
+1\. El estudio y propuesta de la planificación estratégica de la entidad y de los elementos organizativos de sus servicios, en coordinación con las subdirecciones generales.
+
+2\. La comunicación institucional y relaciones externas, así como la asistencia técnica a los miembros del Consejo General.
+
+3\. La información y comunicación con los ciudadanos.
+
+4\. La programación, ordenación y control de la red de centros de atención e información de la Seguridad Social (CAISS) e instalaciones.
+
+5\. La promoción e implantación de procesos de mejora continua en la entidad.
+
+6\. La planificación, dirección, ejecución y evaluación de las actividades de control e inspección de los servicios, así como de la gestión de la calidad de estos.
+
+7\. La coordinación de las subdirecciones generales.
+
+> Se modifica por el art. 2.1 del Real Decreto 1152/2021, de 28 de diciembre. [Ref. BOE-A-2021-21657](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21657)
+
+> Se modifica el apartado 6 por el art. único.3 del Real Decreto 1010/2017, de 1 de diciembre. [Ref. BOE-A-2017-15283](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15283)
+
+> Se modifica por el art. único.3 del Real Decreto 449/2012, de 5 de marzo. [Ref. BOE-A-2012-3158](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3158).
+
+> Se añaden los apartados 6 a 10 por el art. único.2 del Real Decreto 666/2007, de 25 de mayo. [Ref. BOE-A-2007-11209](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-11209).
+
+> Se modifica por el art. único.2 del Real Decreto 469/2003, de 25 de abril. [Ref. BOE-A-2003-9618](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9618).
+
+### Artículo 7. Subdirección General de Ordenación y Asistencia Jurídica.
+
+Esta Subdirección General tiene atribuidas las siguientes competencias:
+
+1\. La emisión de informes jurídicos sobre normas y proyectos de ámbito nacional e internacional con incidencia en la entidad, así como la tramitación y la resolución de consultas.
+
+2\. La colaboración con el departamento en la elaboración de las disposiciones de la Seguridad Social, y en la formulación de los criterios interpretativos así como el registro y control de legalidad de las disposiciones de carácter interno.
+
+3\. La elaboración de proyectos normativos en materia de competencia de la Dirección General.
+
+4\. La organización, tramitación y control de los expedientes de responsabilidad patrimonial por el funcionamiento de los servicios del Instituto Nacional de la Seguridad Social.
+
+5\. El apoyo técnico y la colaboración con el departamento en materia de convenios, acuerdos, tratados y organizaciones de ámbito internacional.
+
+6\. La gestión y control del Fondo Documental.
+
+> Se modifica por el art. único.3 del Real Decreto 449/2012, de 5 de marzo. [Ref. BOE-A-2012-3158](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3158).
+
+> Se modifica por el art. único.3 del Real Decreto 469/2003, de 25 de abril. [Ref. BOE-A-2003-9618](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9618).
+
+> Se deroga el apartado 1 por la disposición derogatoria única del Real Decreto 947/2001, de 3 de agosto. [Ref. BOE-A-2001-17026](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-17026).
+
+### Artículo 8. Subdirección General de Recursos Humanos y Materiales.
+
+Compete a esta Subdirección General:
+
+1\. La planificación, desarrollo y evaluación de las políticas de formación.
+
+2\. La planificación en materia de recursos humanos de la entidad.
+
+3\. La ejecución de la política de personal de la entidad y la gestión ordinaria de ésta, así como, en general, todas las funciones inherentes a la administración del personal que competen a la entidad, y la relación con los órganos de representación sindical.
+
+4\. La planificación y desarrollo de las actividades en materia de seguridad y salud laboral del personal, así como la coordinación de los servicios de prevención de riesgos laborales.
+
+5\. La elaboración de los planes de necesidades de recursos materiales de los servicios centrales, así como el mantenimiento de las instalaciones de los servicios centrales y la gestión de los suministros.
+
+6\. La elaboración y mantenimiento del inventario centralizado de bienes, muebles e inmuebles.
+
+7\. La gestión de los servicios generales de los servicios centrales de la entidad y su funcionamiento, incluyendo el registro y archivo generales, así como el diseño gráfico del modelaje y la gestión de la imprenta.
+
+> Se modifica por el art. único.3 del Real Decreto 449/2012, de 5 de marzo. [Ref. BOE-A-2012-3158](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3158).
+
+> Se modifica por el art. único.4 del Real Decreto 469/2003, de 25 de abril. [Ref. BOE-A-2003-9618](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9618).
+
+### Artículo 9. Subdirección General de Gestión Económico- Presupuestaria y Estudios Económicos.
+
+Es competencia de esta Subdirección General:
+
+1\. Preparar y confeccionar el anteproyecto de presupuestos, tramitar los expedientes de modificaciones presupuestarias y controlar la ejecución de sus centros de gestión.
+
+2\. El seguimiento, análisis y evaluación de los programas, objetivos, indicadores presupuestarios y créditos presupuestarios.
+
+3\. La elaboración de las propuestas de gastos de los Servicios Centrales de la entidad y otras de ámbito provincial, de gestión centralizada.
+
+4\. La preparación de la documentación de su competencia con destino al Tribunal de Cuentas y demás órganos superiores de control económico presupuestario.
+
+5\. La gestión económica y financiera de la entidad.
+
+6\. La realización de estudios económicos en materias propias de la entidad, así como de los análisis e informes económico-financieros, estadísticos y actuariales.
+
+7\. El seguimiento y análisis de la evolución de las prestaciones económicas gestionadas por la entidad.
+
+8\. La elaboración de memorias sobre la incidencia económica de proyectos normativos.
+
+9\. La contratación administrativa, incluida la elaboración y ejecución del Plan de Inversiones.
+
+> Se añade el apartado 9 por el art. único.4 del Real Decreto 1010/2017, de 1 de diciembre. [Ref. BOE-A-2017-15283](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15283)
+
+> Se modifica por el art. único.3 del Real Decreto 449/2012, de 5 de marzo. [Ref. BOE-A-2012-3158](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3158).
+
+> Se modifica por el art. único.5 del Real Decreto 469/2003, de 25 de abril. [Ref. BOE-A-2003-9618](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9618).
+
+### Artículo 10. Subdirección General de Gestión de Prestaciones
+
+Compete a esta Subdirección General:
+
+1\. La ordenación administrativa de la gestión de las prestaciones económicas, excepto las previstas en el artículo 11.
+
+2\. El diseño, la implantación y el seguimiento de los procesos de trabajo aplicados al reconocimiento, suspensión y extinción del derecho a las prestaciones del sistema de la Seguridad Social, así como el seguimiento de su gestión.
+
+3\. La administración y el control del derecho a las prestaciones económicas del sistema de la Seguridad Social, excepto las previstas en el artículo 11.
+
+4\. La gestión y el funcionamiento del Registro de prestaciones sociales públicas.
+
+5\. El reconocimiento y control de la condición de persona asegurada y beneficiaria, ya sea como titular, familiar o asimilado, a efectos de su cobertura sanitaria.
+
+6\. El reconocimiento y control del derecho a la compensación económica para las víctimas del amianto.
+
+> Se añade el apartado 6, con efectos desde el 18 de septiembre de 2025, por la disposición final 2.2 del Real Decreto 483/2025, de 17 de junio. [Ref. BOE-A-2025-12312](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12312)
+
+> Se suprime el apartado 6 por el art. único.5 del Real Decreto 1010/2017, de 1 de diciembre. [Ref. BOE-A-2017-15283](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15283)
+
+> Se modifica por el art. único.3 del Real Decreto 449/2012, de 5 de marzo. [Ref. BOE-A-2012-3158](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3158).
+
+> Se modifica por la disposición final 1.2 del Real Decreto 1600/2004, de 2 de julio de 2004. [Ref. BOE-A-2004-12474](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-12474).
+
+> Redactadas las letras a) y c) conforme a la corrección de errores publicada en BOE núm. 231, de 24 de septiembre de 2004. [Ref. BOE-A-2004-16525](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-16525).
+
+> Se modifica por el art. único.6 del Real Decreto 469/2003, de 25 de abril. [Ref. BOE-A-2003-9618](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9618).
+
+### Artículo 11. Subdirección General de Gestión de Incapacidad Temporal, prestaciones económicas del sistema de la Seguridad Social en su modalidad no contributiva y otras prestaciones a corto plazo.
+
+Compete a esta Subdirección General:
+
+1\. La ordenación administrativa para la gestión y control de la incapacidad temporal, las prestaciones por nacimiento y cuidado de menor, riesgo durante el embarazo, riesgo durante la lactancia natural, ejercicio corresponsable del cuidado del lactante, prestación por cuidado de menores afectados por cáncer u otra enfermedad grave, la protección familiar, las prestaciones del seguro escolar y del Fondo especial de mutualidades de funcionarios de la Seguridad Social, y otras prestaciones a corto plazo del sistema de la Seguridad Social.
+
+2\. Se adscribe a esta Subdirección General la Unidad de Gestión de Prestaciones Económicas y Sociales del Síndrome Tóxico, a la que corresponde la gestión y administración de las prestaciones sociales y económicas citadas.
+
+3\. Se adscribe a esta Subdirección General la Unidad de Gestión de Prestaciones Económicas del sistema de la Seguridad Social en su modalidad no contributiva, a la que corresponde la gestión de estas prestaciones atribuidas al Instituto Nacional de la Seguridad Social.
+
+> Se modifica por el art. 2.3 del Real Decreto 496/2020, de 28 de abril. [Ref. BOE-A-2020-4762](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4762)
+
+> Se modifica y se renumera por el art. único.4 del Real Decreto 449/2012, de 5 de marzo. [Ref. BOE-A-2012-3158](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3158).
+
+> Su anterior numeración era art. 10 bis.
+
+> Se modifica por el art. único.7 del Real Decreto 469/2003, de 25 de abril.[Ref. BOE-A-2003-9618](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9618).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 31, de 5 de febrero de 1997. [Ref. BOE-A-1997-2343](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-2343).
+
+### Artículo 12. Subdirección General de Coordinación de Unidades Médicas.
+
+Compete a esta Subdirección General:
+
+1\. La planificación, coordinación y seguimiento de las actividades correspondientes a las unidades médicas provinciales, en atención a las necesidades de la gestión de la Entidad.
+
+2\. La colaboración en materias relacionadas con convenios y acuerdos con entidades de ámbito local, estatal e internacional, en cuestiones específicas médicas.
+
+3\. La programación, ordenación y control de la red de unidades médicas.
+
+4\. La planificación formativa del personal médico.
+
+5\. La formulación de propuestas tendentes a mejorar los servicios técnicos sanitarios que se prestan, así como el asesoramiento en cuestiones médicas.
+
+> Se modifica por el art. único.5 del Real Decreto 449/2012, de 5 de marzo. [Ref. BOE-A-2012-3158](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3158).
+
+> Se modifica por el art. único.3 del Real Decreto 666/2007, de 25 de mayo. [Ref. BOE-A-2007-11209](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-11209).
+
+> Se modifica por el art. único.8 del Real Decreto 469/2003, de 25 de abril.[Ref. BOE-A-2003-9618](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9618).
+
+### Artículo 13. Provisión de puestos.
+
+El Secretario General y los Subdirectores Generales del Instituto Nacional de la Seguridad Social serán nombrados y separados por el procedimiento de libre designación por el titular del Ministerio de Empleo y Seguridad Social.
+
+> Se modifica por el art. único.6 del Real Decreto 1010/2017, de 1 de diciembre. [Ref. BOE-A-2017-15283](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15283)
+
+### Artículo 14. Comisiones Ejecutivas Provinciales.
+
+1\. Las Comisiones Ejecutivas Provinciales del Instituto Nacional de la Seguridad Social estarán integradas por nueve Vocales: Tres en representación de los sindicatos más representativos, tres de las organizaciones empresariales de más representatividad y tres representantes de la Administración General del Estado. El Presidente será el Director del Área de Trabajo e Inmigración de la Delegación del Gobierno en la Comunidad Autónoma, o en su caso, el Jefe de la Dependencia Provincial de dicha Área, y el Vicepresidente será el Director Provincial del Instituto, siendo ambos miembros representantes de la Administración General del Estado. Actuará como Secretario, con voz pero sin voto, un funcionario de la Dirección Provincial del Instituto Nacional de la Seguridad Social, nombrado por el Director General del mismo, a propuesta del Director Provincial del Instituto Nacional de la Seguridad Social.
+
+2\. Corresponde a las Comisiones Ejecutivas Provinciales del Instituto Nacional de la Seguridad Social supervisar y controlar la aplicación, a nivel provincial, de los acuerdos del Consejo General, así como proponer, en su caso, cuantas medidas, planes y programas sean necesarios para el perfeccionamiento de los mismos en su ámbito territorial.
+
+3\. La Comisión Ejecutiva Provincial se reunirá mensualmente.
+
+> Se modifica el apartado 1 por el art. único.7 del Real Decreto 1010/2017, de 1 de diciembre. [Ref. BOE-A-2017-15283](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15283)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 40, de 14 de febrero de 2018. [Ref. BOE-A-2018-1971](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1971)
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 31, de 5 de febrero de 1997. [Ref. BOE-A-1997-2343](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-2343).
+
+### Artículo 15. Direcciones Provinciales.
+
+1\. En el ámbito provincial, son órganos del Instituto Nacional de la Seguridad Social sus respectivas Direcciones Provinciales, estructuradas en las Unidades administrativas que se establezcan por orden ministerial, a propuesta de los titulares del Ministerio de Empleo y Seguridad Social y del Ministerio de la Presidencia y para las Administraciones Territoriales, para la distribución de las competencias a ellas encomendadas y la realización de las actividades que les sean propias.
+
+2\. La persona titular de la dirección provincial será la representante del organismo y velará por el cumplimiento de sus fines, asumiendo las competencias de dirección, ejecución, control e inspección de sus actividades en el ámbito provincial, así como la jefatura del personal encuadrado orgánicamente en la dirección provincial. Será nombrada y separada de su cargo libremente, entre personal funcionario de carrera de la Administración de la Seguridad Social, de otros cuerpos o escalas de la Administración General del Estado o de otras administraciones públicas pertenecientes al subgrupo de clasificación profesional A1, por la persona titular de la Subsecretaría de Inclusión, Seguridad Social y Migraciones, a propuesta de la persona titular de la Dirección General del Instituto Nacional de la Seguridad Social.
+
+3\. Para el reconocimiento del derecho a las prestaciones económicas de la Seguridad Social, en los procedimientos cuya gestión esté atribuida al Instituto Nacional de la Seguridad Social, será competente la persona titular de la dirección provincial de la provincia en que tenga su domicilio la persona interesada.
+
+Las actuaciones administrativas de ordenación e instrucción de los procedimientos a que se refiere el párrafo anterior podrán asignarse a las direcciones provinciales de la entidad mediante un sistema de reparto basado en criterios objetivos, que se determinará por resolución de la Dirección General del Instituto Nacional de la Seguridad Social, que habrá de ser objeto de publicación en el “Boletín Oficial del Estado”.
+
+No obstante lo establecido en los párrafos anteriores, en los supuestos que se enumeran a continuación se aplicarán las siguientes reglas especiales:
+
+1.ª En el caso de que la persona solicitante de una prestación resida en el extranjero, y no sea de aplicación un instrumento internacional de Seguridad Social, será competente la persona titular de la dirección provincial de la provincia en la que, según los sistemas de información de la Seguridad Social, la persona causante acredite las últimas cotizaciones en España. Si no constasen datos en los mismos, será competente la persona titular de la dirección provincial de la provincia en la que la persona solicitante alegue las últimas cotizaciones en España.
+
+Una vez iniciado el trámite del expediente en la dirección provincial que corresponda conforme a lo indicado en el párrafo anterior, la persona titular de esa misma dirección provincial mantendrá la competencia para resolver, aun cuando posteriormente se averigüe la existencia de cotizaciones en una provincia distinta.
+
+2.ª En el caso de la tramitación de expedientes de pensiones en los que sea de aplicación un instrumento internacional de Seguridad Social, será competente la persona titular de la dirección provincial de la provincia que se determine en función de los criterios objetivos basados en la especialización que se establezcan por resolución de la Dirección General del Instituto Nacional de la Seguridad Social, que habrá de ser objeto de publicación en el “Boletín Oficial del Estado”.
+
+Cuando la persona interesada resida en España y el trámite de las pensiones a que se refiere esta regla requiera la evaluación de la capacidad laboral, las actuaciones correspondientes a la iniciación del procedimiento, así como los actos necesarios para llevar a cabo dicha evaluación, serán realizados por la dirección provincial de la provincia en la que la persona interesada tenga su domicilio.
+
+3.ª Para el reconocimiento del derecho a prestaciones devengadas y no percibidas, será competente la persona titular de la dirección provincial que viniera abonando la prestación a la persona fallecida.
+
+4.ª La competencia para el reconocimiento del derecho al reintegro de gastos de asistencia sanitaria en aplicación de los reglamentos comunitarios e instrumentos internacionales recaerá en la persona titular de la dirección provincial de la provincia del domicilio de la persona interesada.
+
+5.ª La competencia para el reconocimiento del derecho al reembolso de gastos en concepto de prestaciones sanitarias en el ámbito del seguro escolar corresponderá a la persona titular de la dirección provincial de la provincia en la que se haya dispensado la asistencia sanitaria.
+
+6.ª El reconocimiento del derecho a una nueva asignación económica por hijo o menor a cargo, por inclusión de un nuevo causante y cuando ya existan y estén en vigor reconocimientos anteriores en favor del mismo beneficiario o del otro progenitor, adoptante, acogedor o guardador con fines de adopción, corresponderá a la persona titular de la dirección provincial que viniera abonando las demás asignaciones.
+
+4\. Una vez reconocido el derecho a determinada prestación, el mantenimiento del mismo y su control, incluida la revisión de oficio y, en su caso, el reintegro de prestaciones indebidamente percibidas que sean competencia del Instituto Nacional de la Seguridad Social corresponderá a la dirección provincial de la provincia del domicilio de la persona interesada o, en su caso, del último domicilio en España si lo traslada al extranjero.
+
+En aquellos casos en que la persona interesada resida en el extranjero cuando solicita la prestación, y no lo haga en España con posterioridad, dichas funciones corresponderán a la dirección provincial cuyo titular hubiera adoptado la resolución de reconocimiento de la prestación.
+
+> Se modifican los apartados 2, 3 y 4 por el art. 2.2 del Real Decreto 1152/2021, de 28 de diciembre. [Ref. BOE-A-2021-21657](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21657)
+
+> Se modifican los apartados 1, 2 y 3 por el art. único.8 del Real Decreto 1010/2017, de 1 de diciembre. [Ref. BOE-A-2017-15283](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15283)
+
+> Se modifica el apartado 3 y se añade el apartado 4 por el art. único del Real Decreto 900/2009, de 22 de mayo. [Ref. BOE-A-2009-8962](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8962).
+
+> Redactado el apartado 3.3 conforme a la corrección de errores publicada en BOE núm. 242, de 7 de octubre de 2009. [Ref. BOE-A-2009-15960](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-15960).
+
+> Se modifica por el art. único.9 del Real Decreto 469/2003, de 25 de abril.[Ref. BOE-A-2003-9618](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9618).
+
+## CAPÍTULO II — Tesorería General de la Seguridad Social
+
+### Artículo 16. Modificación de los artículos 5 y 6 del Real Decreto 1314/1984, de 20 de junio.
+
+Los artículos 5 y 6 Real Decreto 1314/1984, de 20 de junio, por el que se regula la estructura y competencias de la Tesorería General de la Seguridad Social, quedan redactados en los términos siguientes:
+
+«Artículo 5. Subdirecciones Generales.
+
+Los servicios centrales de la Tesorería General se estructuran en las siguientes Subdirecciones Generales:
+
+a) Subdirección General de Recursos Económicos, que tiene atribuidas las funciones en materia de inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores, control de la cotización, control y seguimiento de las reclamaciones administrativas de deudas y providencias de apremio, así como los demás actos de gestión recaudatoria de los recursos económicos del Sistema de la Seguridad Social en período voluntario no atribuidos a otra Subdirección General.
+
+b) Subdirección General de Pagos y Entidades Colaboradoras, que tendrán atribuidas las funciones que, en materia de cobros, pagos y demás actos de gestión financiera del Sistema de la Seguridad Social, determine el Ordenador General de Pagos de la misma de acuerdo con lo dispuesto en el artículo 10.g) del Reglamento General de la Gestión Financiera de la Seguridad Social, aprobado por el Real Decreto 1391/1995, de 4 de agosto, y demás disposiciones de desarrollo, así como la autorización de apertura y cancelación de cuentas en las entidades financieras colaboradoras. Asimismo, asumirá la gestión del reaseguro y las relaciones con las entidades colaboradoras de accidentes de trabajo.
+
+c) Subdirección General de Asuntos Técnicos, a la que se le atribuyen funciones en materia de reclamaciones previas y recursos administrativos; trámite y resolución de consultas; emisión de informes y dictámenes; colaboración en la elaboración de proyectos normativos; ordenación administrativa; elaboración, tramitación y formalización de convenios y conciertos recaudatorios; gestión recaudatoria en período voluntario, incluida la devolución de las garantías, de los descuentos de la industria farmacéutica, de las sanciones previstas en los convenios y de las aportaciones por ayudas previas a jubilaciones ordinarias, así como el control y seguimiento de la recaudación de los capitales coste. Asimismo, asumirá la gestión de los regímenes de previsión voluntaria que subsisten en el ámbito de la Seguridad Social.
+
+d) Subdirección General de Gestión del Patrimonio, Inversiones y Obras, a la que corresponde la gestión del patrimonio inmobiliario y de los valores mobiliarios de la Seguridad Social y cuantas otras funciones se deriven de las competencias que en esta materia corresponden a la Tesorería General, sin perjuicio de las facultades atribuidas a otras Entidades y Administraciones por las normas reguladoras de dicho patrimonio. Asimismo, asumirá las funciones que correspondan a la Oficina Técnica de Supervisión de Proyectos.
+
+e) Subdirección General de Gestión y Análisis Presupuestario, a la que corresponde la formulación y seguimiento, en términos de objetivos y programas de gastos, de los planes de actuación de la Tesorería General; tramitación de expedientes de modificaciones presupuestarias; confección del anteproyecto de presupuesto de gastos de la Tesorería y de los recursos del Sistema; seguimiento y evaluación de los programas de gastos y sobre la ejecución de presupuestos; realización de estudios económico-financieros y confección de estadísticas, así como la elaboración y propuestas de alternativas que mejoren la eficacia del gasto y la racionalización de la gestión económica.
+
+f) Subdirección General de Recaudación Ejecutiva, que tiene atribuidas las funciones correspondientes al seguimiento de la gestión recaudatoria llevada a cabo por las Unidades de Recaudación Ejecutiva y por las Unidades de Vía Ejecutiva de las Direcciones Provinciales, así como cualesquiera otras que las normas de recaudación atribuyan a los Servicios Centrales de la Tesorería General en el procedimiento recaudatorio ejecutivo.
+
+g) Subdirección General de Procedimientos Especiales, que tienen atribuidas las funciones correspondientes a aplazamientos y fraccionamientos de deudas; procedimientos concursales; seguimiento de la situación de las deudas que se determinen por la Dirección General de la Tesorería; tramitación de propuestas sobre condonación de recargos; desarrollo de programas de lucha contra el fraude que correspondan a la Tesorería General; coordinación y colaboración de la Tesorería General con la Inspección de Trabajo y Seguridad Social y, en especial, con sus unidades especializadas para la inspección en el área de Seguridad Social.
+
+Artículo 6. Provisión de puestos.
+
+El Secretario general y los Subdirectores generales de la Tesorería General de la Seguridad Social serán nombrados y separados por el procedimiento de libre designación, por el Secretario de Estado de la Seguridad Social.»
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 31, de 5 de febrero de 1997. [Ref. BOE-A-1997-2343](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-2343).
+
+### Disposición adicional primera. Supresión de órgano.
+
+1\. Quedan suprimidos en el Instituto Nacional de la Seguridad Social los siguientes órganos:
+
+a) Con nivel orgánico de Dirección General: Dirección Técnica.
+
+b) Con nivel orgánico de Subdirección General:
+
+1.ª Gerencia del Fondo Especial de Mutualidades de Funcionarios de la Seguridad Social.
+
+2.ª Subdirección General de Servicios Técnicos.
+
+3.ª Subdirección General de Gestión.
+
+4.ª Subdirección General de Administración y Análisis Presupuestario.
+
+2\. Queda suprimida en la Tesorería General de la Seguridad Social: Subdirección General de Planificación y Coordinación de la Gestión Recaudatoria.
+
+### Disposición adicional segunda. Régimen de los órganos colegiados.
+
+Los órganos colegiados previstos en este real decreto se rigen por sus disposiciones específicas y, en lo no previsto, por las normas contenidas en la sección tercera del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifica por el art. único.9 del Real Decreto 1010/2017, de 1 de diciembre. [Ref. BOE-A-2017-15283](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15283)
+
+### Disposición transitoria única. Unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General.
+
+Las unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General continuarán subsistentes y serán retribuidos con cargo a los mismos créditos presupuestarios, hasta que se apruebe la relación de puestos de trabajo adaptada a la estructura orgánica de este Real Decreto. Dicha adaptación, en ningún caso, podrá suponer incremento de gasto público.
+
+Las unidades y puestos de trabajo encuadrados en los órganos suprimidos por este Real Decreto se adscribirán provisionalmente, mediante Resolución del Director general del Instituto Nacional de la Seguridad Social y del Director general de la Tesorería de la Seguridad Social, respectivamente, hasta tanto entre en vigor la nueva relación de puestos de trabajo, a los órganos regulados en el presente Real Decreto, en función de las atribuciones que éstos tengan asignadas.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este Real Decreto, y especialmente el Real Decreto 1854/1979, de 30 de julio, y sus modificaciones posteriores, así como la disposición final segunda del Real Decreto 480/1993, de 2 de abril, por el que se integra en el Régimen General de la Seguridad Social el Régimen Especial de los Funcionarios de la Administración Local.
+
+### Disposición final primera. Facultades de desarrollo.
+
+Se autoriza al Ministro de Trabajo y Asuntos Sociales para que, previo cumplimiento de los trámites legales oportunos, adopte las medidas necesarias para el desarrollo y ejecución del presente Real Decreto.
+
+### Disposición final segunda. Modificaciones presupuestarias.
+
+Por el Ministerio de Hacienda y Función Pública se llevarán a cabo las modificaciones presupuestarias precisas para el cumplimiento de lo previsto en este real decreto.
+
+> Se modifica por el art. único.10 del Real Decreto 1010/2017, de 1 de diciembre. [Ref. BOE-A-2017-15283](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15283)
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado»
+
+Dado en Madrid a 13 de diciembre de 1996.
+
+JUAN CARLOS R.
+
+El Ministro de Administraciones Públicas,
+
+MARIANO RAJOY BREY

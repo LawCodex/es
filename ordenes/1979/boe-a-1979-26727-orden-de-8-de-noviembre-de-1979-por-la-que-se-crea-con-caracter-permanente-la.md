@@ -1,0 +1,121 @@
+---
+title: "Orden de 8 de noviembre de 1979 por la que se crea, con carácter permanente, la Comisión Interministerial prevista en el artículo sexto del Real Decreto-ley 12/1978, de 27 de abril, sobre fijación y delimitación de facultades entre los Ministerios de Defensa y Transportes y Comunicaciones en materia de aviación"
+identifier: "BOE-A-1979-26727"
+eli: "https://www.boe.es/eli/es/o/1979/11/08/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1979-11-08
+published: 1979-11-09
+in_force_from: 1979-11-29
+last_amended: 1985-02-15
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 269"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1979-26727"
+retrieved: 2026-10-11
+---
+
+# Orden de 8 de noviembre de 1979 por la que se crea, con carácter permanente, la Comisión Interministerial prevista en el artículo sexto del Real Decreto-ley 12/1978, de 27 de abril, sobre fijación y delimitación de facultades entre los Ministerios de Defensa y Transportes y Comunicaciones en materia de aviación
+
+Incluye la corrección de errores publicada en BOE núm. 304, de 20 de diciembre de 1979. [Ref. BOE-A-1979-29940](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-29940)
+
+Excelentísimos señores:
+
+En el artículo sexto del Real Decreto-ley 1211978, de 27 de abril, sobre fijación y delimitación de facultades entre los Ministerios de Defensa y de Transportes y Comunicaciones, se dispuso que para el estudio e informe de las materias reguladas en sus artículos cuarto y quinto se constituyesen los Organismos interministeriales que se considerasen adecuados.
+
+A su vez, la disposición final del Real Decreto 3185/1978, de 29 de diciembre, estableció que, en el plazo de tres meses, los Ministerios de Defensa y Transportes y Comunicaciones procederían, conjuntamente; a la creación de la Comisión Interministerial prevista en el Real Decreto-ley 12/1978, de 27 de abril, definiendo su competencia, estructura y composición.
+
+En su virtud, esta Presidencia del Gobierno, a propuesta de los Ministros de Defensa y de Transportes y Comunicaciones y previo acuerdo del Consejo de Ministros en su reunión del día 3 de agosto de 1979, dispone:
+
+## Primero.
+
+Se crea, con carácter permanente, la Comisión Interministerial prevista en el artículo sexto del Real Decreto-ley 12/1978, de 27 de abril, sobre fijación y delimitación de facultades entre los Ministerios de Defensa y de Transportes y Comunicaciones: Esta Comisión se denominará abreviadamente y en lo sucesivo CIDETRA (Comisión Interministerial entre Defensa y Transportes).
+
+Su competencia será el estudio e informe de las materias reguladas en los artículos cuarto y quinto del Real Decreto-ley 12/1978 y que se especifican a continuación:
+
+Planificación de nuevos aeropuertos y aeródromos públicos civiles, así como las modificaciones que se precisen en los mismos o en sus instalaciones, y la concesión de autorización de aeródromos privados.
+
+Planificación de la red de ayudas a la navegación, sistema de control y telecomunicaciones, así como sus modificaciones.
+
+Establecimiento y modificación de las servidumbres aeronáuticas de los aeropuertos y aeródromos públicos civiles y privados.
+
+Estructura del espacio aéreo.
+
+Cualquiera otra función de las que corresponden al Ministerio de Transportes y Comunicaciones que, a juicio de uno y otro Departamento, afecte a la aviación militar o a los intereses de la defensa nacional.
+
+## Segundo.
+
+Con independencia de cuantas competencias se han indicado anteriormente, se encomienda a esta Comisión al estudio, informe y resolución, en su caso, de las siguientes materias que actualmente tiene encomendadas la Comisión Asesora de Navegación Aérea (CANA):
+
+a) Reglamentación de la circulación aérea:
+
+b) Regulación de las maniobras de aproximación y aterrizaje por instrumentos.
+
+c) Determinación de cartas especiales que deben editarse y datos referentes a la navegación que deben figurar en la cartografía aeronáutica.
+
+d) Requerimientos de la navegación aérea en relación con el Instituto Nacional de Meteorología.
+
+e) Organización y reglamentación de la búsqueda y salvamento.
+
+f) Información de cuantos asuntos relacionados con la navegación aérea hayan de tratarse en congresos y reuniones internacionales de aviación civil, así como de los acuerdos adoptados.
+
+g) En general, cualquier otra relacionada con los diferentes aspectos del control del tráfico y de la navegación aérea al objeto de su reglamentación, perfeccionamiento y desarrollo.
+
+## Tercero.
+
+Uno. La Comisión estará formada por un Presidente, un Vicepresidente, ocho Vocales, un Secretario y un Vicesecretario.
+
+a) Los cargos de Presidente y Vicepresidente serán ejercidos, alternativa y respectivamente, por representantes del Ministerio de Defensa –Ejército del Aire– y Transportes, Turismo y Comunicaciones, con categoría de Director general o equivalente. La rotación de estos cargos se hará por años naturales.
+
+b) Los Vocales serán ocho, cuatro de ellos designados por el Ministerio de Defensa –Ejército del Aire– y los otros cuatro por el de Transportes, Turismo y Comunicaciones.
+
+c) Los cargos de Secretario y Vicesecretario serán designados, de común acuerdo, por el Presidente y el Vicepresidente entre personas pertenecientes a sus respectivos Ministerios. Alternarán en sus funciones en correspondencia con el Presidente y el Vicepresidente y tendrán voz pero no voto.
+
+Dos. Los Vocales que no puedan asistir a las reuniones por causas justificadas serán sustituidos por quien desempeñe su cargo accidentalmente
+
+Tres. Podrá convocarse, para asistir a la reunión de la Comisión o Ponencias, a las personas o representanes de Organismos que puedan contribuir al mejor conocimiento de los puntos a tratar.
+
+Cuatro. La Comisión se reunirá cuantas veces resulte necesario y, por lo menos, una vez cada trae meses.
+
+Cinco. El orden del día se fijará por el Presidente. El Vicepresidente podrá proponer la inclusión de asuntos que habrán de ser recogidos en el correspondiente orden del día.
+
+Seis. Las convocatorias para las reuniones se cursarán por el Secretario con la antelación necesaria para que los Vocales puedan estudiar las cuestiones que hayan de tratarse, debiendo figurar en las mismas los asuntos a considerar, acompañados de la documentación pertinente.
+
+Siete. El Presidente y el Vicepresidente podrán solicitar de los diferentes Organismos de su respectivo Departamento cualquier informe o dato necesario para el trabajo de la Comisión.
+
+Ocho. Para el estudio detallado de los asuntos a tratar por la Comisión funcionarán, con carácter permanente, las ponencias de trabajo siguientes:
+
+Navegación aérea.
+
+Aeródromos.
+
+Servidumbre.
+
+Podrán, asimismo, constituirse otras ponencias, con carácter permanente o eventual, por acuerdo de la Comisión. Cada ponencia permanente estará formada por un Presidente y ocho Vocales, cuatro por cada Ministerio. El Presidente de cada ponencia, designado por el Presidente y el Vicepresidente de la Comisión, habrá de ser uno de los Vocales de la misma.
+
+Las ponencias elevarán informe a la Comisión sobre los asuntos tratados, bien de conformidad o expresando las discrepancias habidas.
+
+Nueve. Las actas reflejarán fielmente lo tratado y los acuerdos adoptados, recogiéndose en forma de voto particular la opinión discrepante de aquellos Vocales, incluido Presidente y Vicepresidente, que deseen hacerla constar.
+
+> Se modifican los apartados 1 y 8 por el punto 1 de la Orden de 11 de febrero de 1985. [Ref. BOE-A-1985-2693](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-2693).
+
+## Cuarto.
+
+Uno. Los informes emitidos por CIDETRA en los asuntos comprendidos en el punto primero serán elevados por el Presidente y el Vicepresidente a sus Ministros respectivos, para su resolución definitiva.
+
+Dos. En las materias comprendidas en el punto segundo, las decisiones que se adopten de conformidad serán remitidas por el Presidente y el Vicepresidente a los organismos competentes de sus correspondientes Ministerios, para conocimiento y adopción de las medidas oportunas. En el caso de existir discrepancias entre ambas representaciones, se procederá en la forma establecida en el apartado anterior.
+
+> Se modifica por el punto 2 de la Orden de 11 de febrero de 1985. [Ref. BOE-A-1985-2693](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-2693).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 304, de 20 de diciembre de 1979. [Ref. BOE-A-1979-29940](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-29940)
+
+Lo que comunico a VV. EE.
+
+Madrid, 8 de noviembre de 1979.
+
+PEREZ-LLORCA Y RODRIGO
+
+Excmos. Sres. Ministros de Defensa y de Transportes y Comunicaciones.

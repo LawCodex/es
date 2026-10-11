@@ -1,0 +1,719 @@
+---
+title: "Real Decreto 1326/1995, de 28 de julio, por el que se regula el etiquetado energético de frigoríficos, congeladores y aparatos combinados electrodomésticos"
+identifier: "BOE-A-1995-20661"
+eli: "https://www.boe.es/eli/es/rd/1995/07/28/1326"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1995-07-28
+published: 1995-09-12
+in_force_from: 1995-09-13
+last_amended: 2004-02-13
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 218"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-20661"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1326/1995, de 28 de julio, por el que se regula el etiquetado energético de frigoríficos, congeladores y aparatos combinados electrodomésticos
+
+Incluye la corrección de errores publicada en BOE núm. 267, de 8 de noviembre de 1995. [Ref. BOE-A-1995-24104](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-24104).
+
+El Real Decreto 124/1994, de 28 de enero, adaptó la normativa española a lo establecido en la Directiva del Consejo 92/75/CEE, de 22 de septiembre, que buscaba, entre otros objetivos, homogeneizar el sistema de información referente al consumo de energía y de otros recursos esenciales que puedan figurar en el etiquetado de los aparatos de uso doméstico.
+
+La citada Directiva, se articuló como norma marco de otras posteriores que habrían de darle efectividad concreta. De conformidad con ello, la Comisión ha procedido a establecer las disposiciones de aplicación correspondientes en lo que respecta al etiquetado energético de frigoríficos, congeladores y aparatos combinados electrodomésticos, mediante la Directiva de la Comisión 94/2/CE, de 21 de enero de 1994.
+
+El presente Real Decreto procede en consecuencia a la incorporación de la referida Directiva comunitaria al ordenamiento jurídico interno.
+
+La Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios, establece entre otros el derecho básico de los consumidores y usuarios a la información correcta sobre los diferentes productos puestos a su disposición en el mercado, a fin de facilitar el necesario conocimiento sobre su adecuado uso, consumo y disfrute.
+
+El referido derecho a la información de consumidores y usuarios ha sido desarrollado en nuestra legislación mediante diversas disposiciones, entre ellas, la Ley 21/1992, de 16 de julio, de Industria, y el Real Decreto 1468/1988, de 2 de diciembre, por el que se aprueba el Reglamento de etiquetado, presentación y publicidad de los productos industriales destinados a su venta directa a los consumidores y usuarios.
+
+Por otra parte, en la tramitación del procedimiento se han cumplimentado los informes pertinentes del Consejo de Consumidores y Usuarios y de las asociaciones empresariales relacionadas con el sector.
+
+En su virtud, a propuesta de los Ministros de Sanidad y Consumo y de Industria y Energía, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 28 de julio de 1995,
+
+DISPONGO:
+
+## Artículo 1.
+
+1\. El presente Real Decreto se aplicará a los frigoríficos, conservadores, congeladores y sus combinaciones de uso doméstico y alimentados por la red eléctrica. Quedan excluidos los aparatos que pueden utilizar otras fuentes de energía, por ejemplo, baterías.
+
+2\. La información que este real decreto obliga a facilitar se obtendrá por medio de mediciones efectuadas de conformidad con las correspondientes normas UNE-EN, cuyos números de referencia hayan sido publicados en el "Boletín Oficial del Estado" o en el diario oficial de la comunidad autónoma competente.
+
+La información sobre el ruido se establecerá de conformidad con el Real Decreto 213/1992, de 6 de marzo, por el que se regulan las especificaciones sobre el ruido en el etiquetado de los aparatos de uso doméstico.
+
+3\. Los conceptos utilizados en esta norma se corresponden con las definiciones contenidas en el artículo 1.3 del Real Decreto 124/1994, de 28 de enero, y normas concordantes.
+
+> Se modifican los apartados 2 y 3 por el art. único.1 y 2 del Real Decreto 219/2004, de 6 de febrero. [Ref. BOE-A-2004-2654](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2654).
+
+## Artículo 2.
+
+1\. Los aparatos regulados por el presente Real Decreto se clasificarán en las «categorías» definidas en su anexo IV.
+
+2\. La etiqueta a que se refiere el apartado 1 del artículo 2 del Real Decreto 124/1994, de 28 de enero, se ajustará a las especificaciones del anexo 1 del presente Real Decreto. La etiqueta se colocará en la parte externa frontal o superior del aparato, de forma que resulte claramente visible y que no quede oculta.
+
+3\. El contenido y el formato de la ficha informativa del producto a que se refiere el apartado 1 del artículo 2 del Real Decreto 124/1994, de 28 de enero, se ajustarán a las especificaciones del anexo II de este Real Decreto.
+
+4\. La documentación técnica a que se refiere el apartado 3 del artículo 2 del Real Decreto 124/1994, de 28 de enero, deberá incluir:
+
+a) El nombre y la dirección del proveedor.
+
+b) Una descripción general del aparato suficiente para poder identificarlo.
+
+c) Información, incluyendo, en su caso, dibujos sobre las principales características de diseño del modelo y, en particular, sobre los elementos que influyen de modo apreciable en su consumo de energía.
+
+d) Informes sobre los ensayos de medida efectuados sobre el modelo, de conformidad con las normas a que se refiere el apartado 2 del artículo 1 de este Real Decreto.
+
+e) En su caso, las instrucciones de empleo.
+
+Cuando la información relativa a una combinación de modelos específica se obtenga mediante cálculos basados en el diseño y/o la extrapolación de otras combinaciones, la documentación deberá incluir detalles de esos cálculos y/o extrapolaciones, y de los ensayos realizados para comprobar la exactitud de los cálculos efectuados (detalles del modelo de cálculo utilizado para calcular el comportamiento de los sistemas divididos, y de las medidas adoptadas para comprobar dicho modelo).
+
+5\. Cuando la oferta de venta, arrendamiento o arrendamiento con opción de compra de un aparato se haga mediante comunicación escrita o impresa o por cualquier otro medio que implique que el cliente potencial no pueda ver el aparato en cuestión, como ofertas escritas, catálogos de venta por correspondencia, anuncios en Internet o en otros medios electrónicos, la comunicación incluirá toda la información especificada en el anexo III.
+
+6\. La clase de eficiencia energética se determinará con arreglo a lo dispuesto en el anexo V de este Real Decreto.
+
+> Se modifican los apartados 4 y 5 por el art. único.3 y 4 del Real Decreto 219/2004, de 6 de febrero. [Ref. BOE-A-2004-2654](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2654).
+
+## Disposición final primera.
+
+Se autoriza a los Ministros de Sanidad y Consumo y de Industria y Energía para proceder a la modificación de los anexos del presente Real Decreto con objeto de su adaptación al progreso técnico, cuando ello responda a una exigencia de la normativa comunitaria aplicable.
+
+## Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca a 28 de julio de 1995.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+ALFREDO PÉREZ RUBALCABA
+
+## ANEXO I — Etiqueta
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/218/20661_001.png)
+
+Notas a la etiqueta:
+
+2\. En las siguientes notas se define la información que debe incluirse:
+
+| I. | Nombre o marca comercial del proveedor. |
+|---|---|
+| II. | Identificación del modelo del proveedor. |
+| III. | La clase de eficiencia energética del aparato se determinará de conformidad con el anexo V. Se indicará delante de la fecha correspondiente. |
+| IV. | Sin perjuicio de los requisitos establecidos en el sistema comunitario de concesión de etiqueta ecológica, en el caso de que el aparato haya obtenido una etiqueta ecológica comunitaria, de conformidad con el Reglamento (CEE) número 880/1992 del Consejo, una reproducción del símbolo de la etiqueta ecológica concedida (la flor) podrá colocarse aquí. |
+| V. | Consumo de energía, de acuerdo con los procedimientos de ensayo a los que se hace referencia en el apartado 2 del artículo 1 pero expresado en kWh/año (por ejemplo, por 24 horas x 365). |
+| VI. | Suma del volumen útil de todos los compartimientos sin estrella (temperatura de funcionamiento superior a –6 ºC). |
+| VII. | Suma del volumen útil de todos los compartimientos de alimentos congelados a los que corresponde una clasificación por estrellas (temperatura de funcionamiento inferior o igual a –6 ºC). |
+| VIII. | Clasificación por estrellas del compartimiento de alimentos congelados de acuerdo a las normas mencionadas en el apartado 1 del artículo 2. Cuando a dicho compartimiento no corresponda ninguna estrella, se dejará en blanco este epígrafe. |
+| IX. | Cuando proceda, el ruido se medirá de acuerdo con lo dispuesto en el Real Decreto 213/1992, de 14 de marzo. |
+
+Impresión
+
+3\. A continuación se definen ciertos aspectos de la etiqueta:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/218/20661_002.png)
+
+Colores usados:
+
+CMYK: cian, magenta, amarillo, negro.
+
+Ejemplo: 07X0: 0% cian, 70% magenta, 100% amarillo, 0% negro.
+
+Flechas:
+
+A: X0X0
+
+B: 70X0
+
+C: 30X0
+
+D: 00X0
+
+E: 03X0
+
+F: 07X0
+
+G: 0XX0
+
+Color del contenido: X070
+
+Todo el texto en negro. El fondo es blanco.
+
+Las letras que permitirán identificar los aparatos A+ y A++ deberán ajustarse a las siguientes ilustraciones e ir colocadas en la misma posición que la letra que identifica a los aparatos de categoría A.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/38/02654_001.png)
+
+> Se modifica por el art. único.5 y anexo.1 del Real Decreto 219/2004, de 6 de febrero. [Ref. BOE-A-2004-2654](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2654).
+
+> Redactado el apartado 2.IV conforme a la corrección de errores publicada en BOE núm. 267, de 8 de noviembre de 1995. [Ref. BOE-A-1995-24104](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-24104).
+
+## ANEXO II — Ficha
+
+La ficha recogerá la información que se indica a continuación. Los datos podrán presentarse en un cuadro que incluya varios aparatos suministrados por el mismo proveedor, en cuyo caso se facilitarán en el orden prescrito, o figurar junto a la descripción del aparato.
+
+1\. Nombre o marca comercial del proveedor.
+
+2\. Identificación del modelo del proveedor.
+
+3\. Tipo del aparato, según se indica a continuación:
+
+| Categoría | Descripción en la ficha |
+|---|---|
+| 1 | Frigorífico sin compartimiento de baja temperatura. |
+| 2 | Frigorífico-bodega. |
+| 3 | Frigorífico. |
+| 4 | Frigorífico. |
+| 5 | Frigorífico. |
+| 6 | Frigorífico. |
+| 7 | Frigorífico-congelador. |
+| 8 | Congelador vertical. |
+| 9 | Congelador tipo arcón. |
+
+Para los aparatos de la categoría 10, el proveedor podrá elegir la descripción del aparato.
+
+4\. Clasificación del modelo por su eficiencia energética según se establece en el anexo V, expresada como «Clase de eficiencia energética... en una escala que abarca de A++ (mayor eficiencia) a G (menor eficiencia)». Si esta información se presenta en un cuadro, podrá expresarse de otra forma siempre que se entienda claramente que la escala varía de A++ (mayor eficiencia) a G (menor eficiencia).
+
+5\. En caso de que los datos se presenten en un cuadro y que algunos de los aparatos recogidos en éste hayan obtenido una etiqueta ecológica comunitaria, de acuerdo con el Reglamento (CEE) número 880/92, esta información podrá hacerse constar en este epígrafe. En este caso, el epígrafe llevará el título «Etiqueta ecológica comunitaria» e incluirá una reproducción de la etiqueta ecológica (la flor). La presente disposición se establece sin perjuicio de los requisitos del sistema comunitario de concesión de una etiqueta ecológica.
+
+6\. Consumo de energía de conformidad con los procedimientos de ensayo a los que se hace referencia en el apartado 2 del artículo 1 pero expresado en kWh/año (por ejemplo, por 24 horas x 365) y redactado como sigue: «Consumo de energía...kWh/año, según los resultados obtenidos en la prueba estándar de 24 horas. El consumo de energía real depende de las condiciones de uso del aparato y de su localización.»
+
+7\. Volumen útil del compartimiento de alimentos frescos (5 ºC); omítase en las categorías 8 y 9.
+
+8\. Volumen útil del compartimento de alimentos congelados, y del compartimento refrigerador, en su caso, de acuerdo con los estándares con-templados en el apartado 2 del artículo 1: Omítase en las categorías 1, 2 y 3. En los aparatos de la clase 3, especifíquese el volumen útil de la «nevera».
+
+7 y 8. En las categorías 2 y 10 deberá indicarse el volumen útil de cada compartimiento.
+
+9\. Clasificación por estrellas del compartimiento de alimentos congelados, si procede.
+
+10\. La mención «Sin escarcha» podrá incluirse aquí cuando proceda, de conformidad con los procedimientos de ensayo a los que se hace referencia en el apartado 2 del artículo 1.
+
+11\. «Autonomía de...h», esto es, «el período de elevación de la temperatura» de conformidad con los procedimientos de ensayo a los que se hace referencia en el apartado 2 del artículo 1.
+
+12\. «Capacidad de congelación en kg/24 h» de conformidad con los procedimientos de ensayo a los que se hace referencia en el apartado 2 del artículo 1.
+
+13\. «Clase climática» de acuerdo con los procedimientos de ensayo a los que se hace referencia en el apartado 2 del artículo 1. Si el aparato corresponde a la categoría climática «Templado», podrá omitirse la mención.
+
+14\. «Ruido»; cuando proceda, se medirá de acuerdo con lo dispuesto en el Real Decreto 213/1992, de 14 de marzo.
+
+Cuando un aparato posea otros compartimientos además de un compartimiento para alimentos frescos y un compartimiento para alimentos congelados, podrán añadirse más epígrafes en los puntos 7, 8, 9, 10, 11, 12 y 13 para incluir la información sobre aquellos. En este caso, la denominación de los compartimientos, así como el orden en el que figuren, deberá ser coherente. Cuando la temperatura nominal de un compartimiento no se ajuste al sistema de clasificación por estrellas o a la temperatura estándar del compartimiento de alimentos frescos (5 ºC), se especificará dicha temperatura.
+
+La información recogida en la etiqueta podrá consistir en una reproducción de la misma, ya sea en color o en blanco y negro. En este caso, deberán incluirse también los datos adicionales que aparecen únicamente en la ficha.
+
+15\. Si el modelo está fabricado para ser encastrado, así deberá indicarse.
+
+> Se modifican los apartados 4 y 8 por el art. único.5 y anexo.2 del Real Decreto 219/2004, de 6 de febrero. [Ref. BOE-A-2004-2654](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2654).
+
+## ANEXO III — Venta a distancia por correspondencia u otros medios
+
+Los catálogos de venta por correspondencia y otros tipos de comunicación impresa mencionados en el apartado 5 del artículo 2 del presente Real Decreto contendrán la información siguiente, en el orden especificado:
+
+1\. Clase de eficiencia energética (apartado 4 del anexo II).
+
+2\. Consumo de energía (apartado 6 del anexo II).
+
+3\. Volumen útil del compartimiento de alimentos frescos (apartado 7 del anexo II).
+
+4\. Volumen útil del compartimiento de alimentos congelados (apartado 8 del anexo II).
+
+5\. Clasificación por estrellas (apartado 9 del anexo II).
+
+6\. Ruido (apartado 14 del anexo II).
+
+Cuando la ficha de información sobre el producto contenga más datos, éstos deberán presentarse según lo dispuesto en el anexo II y se incluirán en la lista anterior en el orden prescrito para la ficha.
+
+El formato y tipo de caracteres utilizados para imprimir los datos deberán ser legibles.
+
+## ANEXO IV — Categorías
+
+Los aparatos regulados por el presente Real Decreto se agruparán en las siguientes categorías:
+
+1\. Frigoríficos domésticos sin compartimientos de baja temperatura.
+
+2\. Frigoríficos-bodegas domésticos con compartimientos de 5 ºC y 10 ºC.
+
+3\. Frigoríficos domésticos con compartimientos de baja temperatura sin estrellas.
+
+4\. Frigoríficos domésticos con compartimientos de baja temperatura de una estrella *.
+
+5\. Frigoríficos domésticos con compartimientos de baja temperatura de dos estrellas **.
+
+6\. Frigoríficos domésticos con compartimientos de baja temperatura de tres estrellas ***.
+
+7\. Frigoríficos-congeladores domésticos con compartimientos de baja temperatura de cuatro estrellas *(***).
+
+8\. Congeladores domésticos verticales.
+
+9\. Congeladores domésticos de tipo arcón.
+
+10\. Frigoríficos y congeladores domésticos con más de dos puertas y demás aparatos no recogidos en las categorías anteriores.
+
+## ANEXO V — Clase de eficiencia energética
+
+Parte 1: definición de las clases A+ y A++.
+
+Pertenecerán a las categorías A+ o A++ los aparatos cuyo índice de eficiencia energética alfa (lα) se sitúe entre los valores indicados en el cuadro 1.
+
+CUADRO 1
+
+| Índice de eficiencia energética a (lα) | Categoría de eficiencia energética |
+|---|---|
+| 30 > lα | A++ |
+| 42 > lα ≥ 30 | A+ |
+| lα ≥ 42 | A-G (véase más adelante) |
+
+En el cuadro 1:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>lα =</p>
+</td>
+<td>
+<p>AC</p>
+</td>
+<td rowspan="2">
+<p>100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SCα</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+donde:
+
+AC = consumo de energía anual del aparato (de conformidad con la nota V del anexo I).
+
+SCα = consumo de energía anual normalizado α del aparato.
+
+SCα se calculará del siguiente modo:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>MαX</p>
+</td>
+<td rowspan="2">
+<p>Ʃ<sub>Compartimentos</sub></p>
+</td>
+<td rowspan="2">
+<p>[VC ×</p>
+</td>
+<td>
+<p>(25-Tc)</p>
+</td>
+<td rowspan="2">
+<p>× FF × CC × BI] + Nα + CH</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+donde:
+
+Vc es el volumen neto (en litros) del compartimento (de conformidad con las normas mencionadas en el apartado 2 del artículo 1).
+
+Tc es la temperatura nominal del compartimento (en °C).
+
+Los valores de Mα y Nα se indican en el cuadro 2; los valores de FF, CC, BI y CH se indican en el cuadro 3.
+
+CUADRO 2
+
+<table>
+<tbody>
+<tr>
+<th colspan="2">
+<p>Tipo de aparato</p>
+</th>
+<th>
+<p>Temperatura del compartimento más frío</p>
+</th>
+<th>
+<p>Mα</p>
+</th>
+<th>
+<p>Nα</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>1.</p>
+</td>
+<td>
+<p>Frigorífico sin compartimento de baja temperatura.</p>
+</td>
+<td>
+<p>&gt;-6 °C</p>
+</td>
+<td>
+<p>0,233</p>
+</td>
+<td>
+<p>245</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.</p>
+</td>
+<td>
+<p>Frigorífico bodega.</p>
+</td>
+<td>
+<p>&gt;-6 °C</p>
+</td>
+<td>
+<p>0,233</p>
+</td>
+<td>
+<p>245</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.</p>
+</td>
+<td>
+<p>Frigorífico sin estrellas.</p>
+</td>
+<td>
+<p>&gt;-6 °C</p>
+</td>
+<td>
+<p>0,233</p>
+</td>
+<td>
+<p>245</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.</p>
+</td>
+<td>
+<p>Frigorífico*.</p>
+</td>
+<td>
+<p>≤-6 °C *</p>
+</td>
+<td>
+<p>0,643</p>
+</td>
+<td>
+<p>191</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.</p>
+</td>
+<td>
+<p>Frigorífico**.</p>
+</td>
+<td>
+<p>≤-12 °C **</p>
+</td>
+<td>
+<p>0,450</p>
+</td>
+<td>
+<p>245</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.</p>
+</td>
+<td>
+<p>Frigorífico***/.</p>
+</td>
+<td>
+<p>≤-18 °C ***/*(***)</p>
+</td>
+<td>
+<p>0,777</p>
+</td>
+<td>
+<p>303</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7.</p>
+</td>
+<td>
+<p>Frigorífico-congelador * (***).</p>
+</td>
+<td>
+<p>≤-18 °C ***/*(***)</p>
+</td>
+<td>
+<p>0,777</p>
+</td>
+<td>
+<p>303</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8.</p>
+</td>
+<td>
+<p>Congelador vertical.</p>
+</td>
+<td>
+<p>≤-18 °C *(***)</p>
+</td>
+<td>
+<p>0,539</p>
+</td>
+<td>
+<p>315</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.</p>
+</td>
+<td>
+<p>Congelador tipo arcón.</p>
+</td>
+<td>
+<p>≤-18°C *(***)</p>
+</td>
+<td>
+<p>0,472</p>
+</td>
+<td>
+<p>286</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.</p>
+</td>
+<td>
+<p>Multipuertas y otros.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(1)</p>
+</td>
+<td>
+<p>(1)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1) En estos aparatos los valores de M y N son determinados por la temperatura y por el número de estrellas del compartimento en que la temperatura es inferior. Los aparatos con compartimentos -18 °C *(***) serán considerados como frigoríficos-congeladores *(***).
+
+CUADRO 3
+
+<table>
+<tbody>
+<tr>
+<th>
+<p>Factor de corrección</p>
+</th>
+<th>
+<p>Valor</p>
+</th>
+<th>
+<p>Condición</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2">
+<p>FF (sin escarcha).</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>Para los compartimentos sin escarcha (ventilados) destinados a alimentos congelados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Demás casos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>CC (clase climática)</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>Para aparatos «tropicales».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>Para aparatos «subtropicales».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Demás casos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>BI (encastrado).</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>Para aparatos encastrados (1) cuya anchura sea inferior a 58 cm.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Demás casos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>CH (compartimento refrigerador).</p>
+</td>
+<td>
+<p>50 KWH/y</p>
+</td>
+<td>
+<p>Para aparatos dotados de un compartimento refrigerador de, al menos, 15 litros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>Demás casos.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1) Sólo se considerarán como aparatos «encastrados» los que hayan sido diseñados exclusivamente para su instalación en el interior de una cavidad de una cocina, necesiten elementos de acabado y hayan sido sometidos a prueba como tales.
+
+Los aparatos no pertenecientes a las categorías A+ o A++ se clasificarán con arreglo a lo dispuesto en la parte 2.
+
+Parte 2: definición de las clases A a G.
+
+La clase de eficiencia energética de un aparato se determinará de conformidad con el cuadro 1 siguiente:
+
+CUADRO 1
+
+| Índice de eficiencia<br>energética: I | Categoría<br>de eficiencia<br>energética |
+|---|---|
+| I < 55 | A |
+| 55 ≤ I < 75 | B |
+| 75 ≤ I < 90 | C |
+| 90 ≤ I < 100 | D |
+| 100 ≤ I < 110 | E |
+| 110 ≤ I < 125 | F |
+| 125 ≤ I | G |
+
+Donde:
+
+«Índice de eficiencia energética» = Consumo de energía del aparato (1)/Consumo de energía normalizado del aparato (expresado en porcentaje).
+
+«Consumo de energía normalizado del aparato» = = M = Volumen ajustado + N (expresado en kWh/año), y
+
+«Volumen ajustado» = Volumen de compartimiento de alimentos frescos + Ω x Volumen del compartimiento de alimentos congelados (expresado en litros).
+
+Los valores M, N y Ω se establecen en el cuadro 2.
+
+(1) De acuerdo con la nota V del anexo I.
+
+CUADRO 2
+
+| Tipo de aparato | Ω | M | N |
+|---|---|---|---|
+| 1. Frigorífico sin compartimento de baja temperatura | – | 0,233 | 245 |
+| 2. Frigorífico-bodega | 0,75<sup>(1)</sup> | 0,233 | 245 |
+| 3. Frigorífico sin estrellas | 1,25 | 0,233 | 245 |
+| 4. Frigorífico * | 1,55 | 0,643 | 191 |
+| 5. Frigorífico ** | 1,85 | 0,450 | 245 |
+| 6. Frigorífico *** | 2,15 | 0,657 | 235 |
+| 7. Frigorífico-congelador *(***) | <sup>(3)</sup> | 0,777 | 303 |
+| 8. Congelador vertical | 2,15<sup>(2)</sup> | 0,472 | 286 |
+| 9. Congelador tipo arcón | 2,15<sup>(2)</sup> | 0,446 | 181 |
+| 10. Multipuertas y otros | <sup>(3)</sup> | <sup>(4)</sup> | <sup>(4)</sup> |
+
+<sup>(1)</sup> Para los frigoríficos-bodega el volumen ajustado = Volumen del compartimiento de alimentos fescos + Ω x Volumen del compartimiento bodega (10 ºC) (expresado en litros).
+
+<sup>(2)</sup> Para los aparatos «sin escarcha» contemplados en el punto 10 del anexo II se aplicará a este índice, provisionalmente, un factor de 1,2, pasando a valer 2,58. (Esto permite tener en cuenta las posibles desviaciones del método de medición que no toma en consideración la ausencia de formación de hielo de los aparatos «sin escarcha». En la práctica, supondrá un incremento relativo del consumo de los aparatos «convencionales».)
+
+<sup>(3)</sup> El volumen ajustado (VA) se calculará mediante la fórmula:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>VA = Σ</p>
+</td>
+<td>
+<p>(25 – T<sub>c</sub>)</p>
+</td>
+<td rowspan="2">
+<p>× V<sub>c</sub> × F<sub>c</sub></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+todos los compartimientos.
+
+Donde T<sub>c</sub> = Temperatura nominal de cada compartimiento (en ºC), V<sub>c</sub> = Volumen útil del compartimiento (en litros) y F<sub>c</sub> un factor de 1,2 en el caso de los compartimientos «sin escarcha» y de 1 en el caso de otros compartimientos.
+
+<sup>(4)</sup> En estos aparatos, los valores M y N se determinarán en función de la temperatura y clasificación por estrellas del compartimiento de temperatura inferior, según se establece en el cuadro a continuación:
+
+| Temperatura del compartimiento<br>más frío | Clase equivalente | M | N |
+|---|---|---|---|
+| > - 6 ºC | 1/2/3. Frigorífico sin compartimiento de baja temperatura/frigorífico-bodega/frigorífico sin estrellas | 0,233 | 245 |
+| ≤ – 6 ºC * | 4. Frigorífico * | 0,643 | 191 |
+| ≤ – 12 ºC ** | 5. Frigorífico ** | 0,450 | 245 |
+| ≤ – 18 ºC *** | 6. Frigorífico *** | 0,657 | 235 |
+| ≤ – 18 ºC *(***) con capacidad de congelación | 7. Frigorífico-congelador *(***) | 0,777 | 303 |
+
+> Se añade la parte 1 por el art. único.5 y anexo.3 del Real Decreto 219/2004, de 6 de febrero. [Ref. BOE-A-2004-2654](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2654).

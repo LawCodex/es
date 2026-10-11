@@ -1,0 +1,57 @@
+---
+title: "Orden de 30 de abril de 1971 sobre regulación de las condiciones a exigir al personal que haya efectuado su Servicio Militar en la Armada, para la obtención de los certificados de Competencia para Marineros"
+identifier: "BOE-A-1971-10239"
+eli: "https://www.boe.es/eli/es/o/1971/04/30/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Comercio"
+date: 1971-04-30
+published: 1971-06-26
+in_force_from: 1971-07-16
+last_amended: 2007-12-04
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 152"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1971-10239"
+retrieved: 2026-10-11
+---
+
+# Orden de 30 de abril de 1971 sobre regulación de las condiciones a exigir al personal que haya efectuado su Servicio Militar en la Armada, para la obtención de los certificados de Competencia para Marineros
+
+Se deroga en lo que afecta a buques de pesca por la disposición derogatoria única.d) del Real Decreto 1519/2007, de 16 de noviembre. [Ref. BOE-A-2007-20783](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20783).
+
+Ilmos. Sres.: El artículo 11 del Decreto 2483/1966, de 10 de septiembre («Boletín Oficial del Estado» número 241), autoriza al Ministerio de Comercio, con la previa conformidad del de Marina, para que reduzca en la medida correspondiente las condiciones que se exigen para la obtención de los certificados de competencia al personal que haya efectuado servicio en la Armada en atención a la formación profesional que durante el mismo haya adquirido.
+
+En su virtud este Ministerio, a propuesta de la Subsecretaría de la Marina Mercante, y previa conformidad con el de Marina, ha tenido a bien disponer:
+
+1.º Al personal que haya efectuado su servicio militar en la Armada se le convalidarán todos los conocimientos que haya adquirido durante ese período de aprendizaje en el Cuartel de Instrucción, expidiéndosele al licenciarse el Certificado de Competencia de Marinero.
+
+2.º Se expedirá el certificado de MECAMAR:
+
+2.1. A los Cabos primeros y segundos especialistas de cualquier especialidad de la Armada, excepto los de Infantería de Marina y Escribientes, que justifiquen haber realizado el embarco correspondiente al citado Certificado.
+
+2.2. A los Cabos segundos de Marinería de las aptitudes: «Motoristas», «Talleres a Flote», «Máquinas y Calderas» y «Mecánicos para Submarinos», que justifiquen haber realizado el embarco correspondiente al citado Certificado.
+
+2.3. Los Cabos primeros y segundos especialistas de Infantería de Marina y Escribientes que acrediten haber realizada el embarco correspondiente al citado Certificado, tendrán preferencia para realizar el curso para esta especialidad, y además podrán optar a presentarse directamente y por libre al examen correspondiente.
+
+3.º Se expedirá el Certificado de PESCAMAR:
+
+3.1. A los Cabos primeros y segundos de cualquier especialidad, así como los de Infantería de Marina que justifiquen haber realizado el embarco correspondiente al citado Certificado y que aprueben el examen de las materias de pesca incluidas en el programa oficial para la obtención de este Certificado.
+
+3.2. A los Marineros de profesión Pescador que al licenciarse hubieran adquirido la categoría de Cabo segundo de Marinería de cualquier aptitud que justifiquen haber realizado el embarco correspondiente al citado Certificado y que aprueben el examen de las materias de pesca incluídas en el programa oficial para la obtención de este Certificado.
+
+4.º El número de días de embarco efectuado durante el servicio militar, en la Armada, será válido en su totalidad para obtener el Certificado de MECAMAR, y la mitad para la obtención del Certificado de PESCAMAR, teniendo que justificar el resto a bordo de buques pesqueros.
+
+5.º El tiempo de prácticas realizado en el Cuartel de Instrucción se considera como de embarco a los efectos señalados en el punto anterior.
+
+La que comunico a VV. II. para su conocimiento y efectos.
+
+Dios guarde a VV. II. muchos años.
+
+Madrid, 30 de abril de 1971.
+
+FONTANA CODINA
+
+Ilmos. Sres Subsecretario de la Marina Mercante e Inspector general de Enseñanzas Marítimas y Escuelas.

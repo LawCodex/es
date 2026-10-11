@@ -1,0 +1,125 @@
+---
+title: "Orden de 2 de febrero de 1993 por la que se crea, en el Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, el Centro de Investigación en Sanidad Animal"
+identifier: "BOE-A-1993-3342"
+eli: "https://www.boe.es/eli/es/o/1993/02/02/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1993-02-02
+published: 1993-02-09
+in_force_from: 1993-02-10
+last_amended: 2007-12-20
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 34"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1993-3342"
+retrieved: 2026-10-11
+---
+
+# Orden de 2 de febrero de 1993 por la que se crea, en el Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, el Centro de Investigación en Sanidad Animal
+
+El Ministerio de Agricultura, Pesca y Alimentación viene realizando en su ámbito competencial, importantes actividades en el campo de la sanidad animal, tanto en investigación y desarrollo tecnológico a través del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA), como en materia de inspección, prevención y lucha contra las epizootías a través de la Dirección General de Sanidad de la Producción Agraria.
+
+A medida que aumenta el tránsito de personas, animales vivos y mercancías con otros países lo hace también el riesgo de introducción en España de enfermedades exóticas para su fauna. Por otra parte, en el área de la producción ganadera la implantación del mercado único europeo otorga a España la responsabilidad de salvaguardar sanitariamente su propio territorio y el del resto de la Comunidad Europea, respecto de los animales, productos de origen animal y sus derivados que accedan al mismo a través de sus fronteras.
+
+Para ampliar e intensificar sus actuaciones en materia de sanidad animal, el Ministerio de Agricultura, Pesca y Alimentación ha construido una nueva infraestructura que, dotada de una avanzada tecnología, permite abordar en condiciones de alta seguridad biológica no sólo las manipulaciones necesarias para la investigación científica, sino aquéllas referentes al desarrollo tecnológico, formación técnica y científica y cooperación internacional.
+
+La especificidad y magnitud de estas actuaciones aconsejan configurar dentro del INIA un Centro especializado en Investigación en Sanidad Animal y, dada la singularidad de las instalaciones de alta seguridad, dotarle de unas características que permitan satisfacer, de manera coordinada y priorizada, el mayor número posible de demandas de utilización provenientes tanto de otras Instituciones públicas como de Entidades privadas.
+
+Por otra parte, dada la alta especialización y la complejidad técnica de esta Unidad parece conveniente crear un Consejo que asesore al Ministerio en la gestión del Centro y facilite la coordinación entre los diversos órganos del Departamento y otros usuarios de las instalaciones.
+
+En su virtud, en base a lo dispuesto en el Real Decreto 654/1991, de 26 de abril, por el que se modifica la estructura orgánica del Ministerio de Agricultura, Pesca y Alimentación, previa aprobación del Ministro para las Administraciones Públicas, dispongo lo siguiente:
+
+## Art. 1.º
+
+En el seno del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA), se crea el Centro de Investigación en Sanidad Animal.
+
+Dependerá de la Subdirección General de Investigación y Tecnología y al frente del mismo existirá un Director.
+
+## Art. 2.º
+
+En el Centro de Investigación en Sanidad Animal se desarrollarán actividades de investiación, desarrollo tecnológico, formación científico-técnica y cooperación internacional con especial atención a las enfermedades exóticas para la ganadería española con mayor riesgo de introducirse o extenderse en el territorio nacional.
+
+## Art. 3.º
+
+El Centro de Investigación en Sanidad Animal atenderá de forma coordinada y priorizada las demandas de utilización que en materia de investigación y desarrollo tecnológico en la sanidad de las producciones ganaderas, formulen otras Instituciones públicas y Entidades privadas.
+
+La satisfacción de las demandas estará condicionada por la disponibilidad de medios, espacios y tiempos y se efectuará con sometimietno, en todo caso, a las normas de seguridad, precios, horarios y cuantas otras regulen el funcionamiento del Centro.
+
+A tal fin, las propuestas serán priorizadas, evaluándolas en base a su calidad científico-técnica y a la adecuación de sus objetivos a las líneas prioritarias del Programa Sectorial de I + D Agrario y Alimentario del Ministerio de Agricultura, Pesca y Alimentación.
+
+## Art. 4.º
+
+En el Centro de Investigación en Sanidad Animal se crea un Consejo Técnico como órgano colegiado de asesoramiento respecto de las actividades que en dicho Centro se desarrollan, y estará formado por un presidente, un vicepresidente y un máximo de diez vocales, uno de los cuales ejercerá como secretario.
+
+a) La presidencia corresponderá alternativamente, por períodos anuales, al Director General del INIA y al Director General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación.
+
+Corresponde al presidente acordar las convocatorias de las sesiones ordinarias y extraordinarias, presidirlas, así como fijar el orden del día.
+
+b) El vicepresidente será el Director General del INIA o el Director General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación, de acuerdo con la alternancia establecida en el apartado anterior.
+
+El vicepresidente sustituirá al presidente en caso de vacante, ausencia, enfermedad u otra causa legal.
+
+c) Los vocales serán nombrados por el Director General del INIA por un período de 4 años para aquellos que no lo sean por razón de su cargo, y entre los que se encontrará:
+
+El Subdirector General de Investigación y Tecnología del INIA, que además, desempeñará las funciones de Secretario.
+
+El Subdirector General de Sanidad Animal de la Dirección General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación.
+
+Dos representantes para el conjunto de las comunidades autónomas que decidan participar en él, en cuyo caso su nombramiento se realizará de acuerdo con la propuesta de éstas, formulada en el seno de la Comisión Coordinadora de Investigación Agraria, regulada por Orden de 8 de enero de 1987.
+
+El Director del CISA.
+
+El resto de miembros serán nombrados entre especialistas de reconocido prestigio, representantes del sector ganadero y otros sectores implicados.
+
+> Se modifica por el art. único.1 de la Orden PRE/3715/2007, de 17 de diciembre. [Ref. BOE-A-2007-21919](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21919).
+
+> Se modifica por el apartado único.1 de la Orden PRE/870/2003, de 9 de abril. [Ref. BOE-A-2003-7682](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-7682).
+
+> Se modifica el párrafo segundo por el art. único de la Orden de 18 de febrero de 1999. [Ref. BOE-A-1999-4641](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4641).
+
+## Art. 5.º
+
+Serán cometidos del Consejo Técnico los siguientes:
+
+a) Proponer medidas de coordinación y las directrices para la asignación y utilización de tiempos, espacios y servicios del Centro entre los usuarios que lo demanden, así como los criterios para la determinación de los precios de estos servicios, informando al respecto las propuestas de actividades de I + D que se presenten.
+
+b) Informar, con carácter previo a su aprobación, el programa de seguridad biológica, y los resultados de los controles ordinarios y extraordinarios que se efectúen, proponiendo las modificaciones y adaptaciones necesarias.
+
+c) Informar desde el punto de vista de la seguridad biológica respecto de la autorización del manejo de cada uno de los agentes causales necesarios para el desarrollo de las actividades propuestas de I + D.
+
+d) Proponer las líneas de actuación e informar las propuestas de normas que se estimen necesarias para el mejor cumplimiento de los objetivos establecidos, el Proyecto de Memoria de Actividades del Centro y cualquier otro asunto que le sea sometido por el Presidente.
+
+## Art. 6.º
+
+Se crean los siguientes grupos de trabajo, que funcionarán con carácter permanente:
+
+Científico-Técnico: Asistirá al Consejo en los cometidos descritos en el apartado a) del artículo 5. Será presidido por el Subdirector General de Investigación y Tecnología del INIA, y contará con un máximo de 7 miembros entre los cuales se encontrará el Subdirector General de Prospectiva y Coordinación de Programas del INIA, el Director y el Director Técnico del CISA.
+
+De Seguridad Biológica: asistirá al Consejo en los cometidos descritos en los apartados b) y c) del artículo 5. Será presidido por el Subdirector General de Sanidad Animal de la Dirección General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación y contará con un máximo de 7 miembros, entre los que se encontrará el Subdirector General de Investigación y Tecnología del INIA, el Director y el Director Técnico del CISA.
+
+El Director General del INIA, a propuesta del Consejo Técnico, podrá crear otros grupos de trabajo dentro de dicho Consejo.
+
+> Se modifica por el art. único.2 de la Orden PRE/3715/2007, de 17 de diciembre. [Ref. BOE-A-2007-21919](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21919).
+
+> Se modifica por el apartado único.2 de la Orden PRE/870/2003, de 9 de abril. [Ref. BOE-A-2003-7682](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-7682).
+
+## Disposición transitoria.
+
+En tanto se configura en la relación de puestos de trabajo, asumirá las funciones de dirección del Centro el titular del puesto de trabajo que tenga a su cargo la Jefatura del Departamento de Sanidad Animal del INIA.
+
+## Disposición final primera.
+
+Por el Director general del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria se adoptarán las medidas y se dictarán las Resoluciones necesarias para el cumplimiento de la presente Orden.
+
+## Disposición final segunda.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 2 de febrero de 1993.
+
+SOLBES MIRA
+
+Ilmos. Sres. Subsecreario del Departamento, Secretario general de Producciones y Mercados Agrarios, y Directores generales del INIA y de Sanidad de la Producción Agraria.

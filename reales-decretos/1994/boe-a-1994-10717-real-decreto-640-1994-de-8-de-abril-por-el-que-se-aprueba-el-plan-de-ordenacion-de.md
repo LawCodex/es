@@ -1,0 +1,315 @@
+---
+title: "Real Decreto 640/1994, de 8 de abril, por el que se aprueba el Plan de Ordenación de los Recursos Naturales de Picos de Europa"
+identifier: "BOE-A-1994-10717"
+eli: "https://www.boe.es/eli/es/rd/1994/04/08/640"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1994-04-08
+published: 1994-05-12
+in_force_from: 1994-05-13
+last_amended: 2001-01-16
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 113"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-10717"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 640/1994, de 8 de abril, por el que se aprueba el Plan de Ordenación de los Recursos Naturales de Picos de Europa
+
+La Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres, en su artículo 4 establece la figura de los Planes de Ordenación de los Recursos Naturales como instrumento de planificación, con la finalidad de adecuar la gestión de dichos recursos, y en especial de los espacios naturales y de las especies a proteger, a los principios inspiradores de dicha Ley, a la vez que determina los objetivos y contenido mínimo que han de tener tales planes de ordenación.
+
+Por otro lado, la misma Ley 4/1989, en su artículo 15 dispone también que la declaración de los parques exigirá la previa elaboración y aprobación del correspondiente Plan de Ordenación de los Recursos Naturales de la zona afectada.
+
+En cumplimiento de ambos preceptos se ha procedido a la elaboración del Plan de Ordenación de los Recursos Naturales de Picos de Europa, con el fin de poder disponer del pertinente instrumento de programación y planificación que permita elaborar, a su vez, el proyecto de Ley de declaración del Parque Nacional de los Picos de Europa, para que sea sometido a la consideración de las Cortes Generales.
+
+Por ello, cumplidos también los trámites ordenados en el artículo 6 de la mencionada Ley, procede la aprobación de dicho Plan de Ordenación,
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación y previa deliberación del Consejo de Ministros en su reunión del día 8 de abril de 1994,
+
+DISPONGO:
+
+## Artículo único.
+
+Se aprueba el Plan de Ordenación de los Recursos Naturales de Picos de Europa, que figura como anexo de esta disposición, conforme establece el título II de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres.
+
+## Disposición final primera.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación, en el ámbito de sus atribuciones, para dictar las disposiciones y adoptar las medidas precisas para el cumplimiento de lo dispuesto en el presente Real Decreto.
+
+## Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 8 de abril de 1994.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+VICENTE ALBERO SILLA
+
+## PLAN DE ORDENACIÓN DE LOS RECURSOS NATURALES DE PICOS DE EUROPA
+
+> Téngase en cuenta que se declara que han invadido las competencias de las Comunidades Autónomas de Castilla y León y de Cantabria y se anulan los apartados 4, 5 y 7, así como el apartado 3 en cuanto delimita la zona C y el apartado 1, en cuanto en él se halla comprendida dicha zona C, por Sentencia del TC 306/2000, de 12 de diciembre. [Ref. BOE-T-2001-1145](https://www.boe.es/buscar/doc.php?id=BOE-T-2001-1145).
+
+0\. OBJETIVOS
+
+Los objetivos generales de este Plan de Ordenación de los Recursos Naturales de los Picos de Europa (PORNPE) son los siguientes:
+
+1\. Conocer y evaluar los sistemas naturales y culturales de la comarca, con objeto de identificar sus máximos valores, así como los factores de amenaza que la afectan para diferenciar los regímenes de protección que le sean de aplicación.
+
+2\. Asegurar la protección y conservación del medio ambiente, tanto en lo relativo al mantenimiento y recuperación de los procesos ecológicos fundamentales como a la preservación de la variedad, singularidad y belleza de los ecosistemas naturales y del paisaje.
+
+3\. Mejorar la calidad de vida de las poblaciones de los Picos de Europa, fomentando los usos y actividades tradicionales.
+
+4\. Orientar y regular los usos y actividades, estableciendo a tal efecto criterios y directrices que los hagan compatibles con la conservación y protección del espacio natural.
+
+5\. Conservar el patrimonio arquitectónico y cultural.
+
+1\. ÁMBITO DEL PORNPE
+
+El ámbito del PORNPE corresponde al establecido en el Acuerdo de Consejo de Ministros de 7 de mayo de 1993.
+
+Oeste: desde el punto de confluencia del río Dobra con el río Sella discurre remontando este último en dirección sur, hasta la confluencia con el límite provincial de Asturias y León. Continúa por este límite provincial en dirección sur hasta el Puerto de Tarna (1.490 metros).
+
+Sur: desde el Puerto de Tarna tomando la carretera comarcal número 635 en dirección Riaño, hasta la confluencia de ésta con la carretera comarcal número 625, continuando por ella en dirección sur hasta el cruce con la carretera nacional número 621. De este cruce el límite queda definido por la carretera nacional número 621 hasta que sale del término municipal de Potes. En este punto discurre en dirección este-oeste por el límite entre los términos municipales de Cabezón de Liébana y Cillórigo-Castro, hasta que se encuentra con el límite municipal de Lamasón.
+
+Este: desde aquí toma dirección norte por la divisoria entre los términos municipales de Lamasón y los de CillÓrigo-Castro primero y Peñarrubia después, hasta que se encuentra con la divisoria entre las provincias de Asturias y Cantabria. En este punto, el límite toma dirección sureste-noroeste por el límite de ambas provincias hasta que éste se encuentra con la carretera nacional número 621. A continuación discurre por esta carretera en dirección norte hasta la población de Colosia en su punto más cercano al cauce del río Cares.
+
+Norte: a partir de Colosia el límite remonta el río Cares, quedando la zona del Plan de Ordenación de los Recursos Naturales en la margen derecha del río, hasta la población de Las Arenas. Desde este punto, el límite continúa en la misma dirección remontando el río Casano hasta su confluencia con el límite del término municipal de Onís. Desde este punto, el límite continúa en línea recta hasta el pico Cruz de Priena y desde éste continúa en línea recta hasta la confluencia de los ríos Sella y Dobra.
+
+2\. ESTADO DE CONSERVACIÓN DE LOS RECURSOS. DIAGNÓSTICO
+
+El área de ordenación representa una zona sometida desde tiempos pretéritos a una fuerte presión antrópica, en donde se mantiene un cierto equilibrio entre la dinámica natural y las acciones del hombre.
+
+Tras la década de los cuarenta, en que por razones sociopolíticas los procesos de cambio se ralentizaron, los sistemas tradicionales de explotación entraron en crisis llevando aparejadas, ante la ausencia de cambios estructurales, transformaciones importantes tanto a nivel espacial como social. A nivel espacial se produce una reducción significativa de las tierras labradas, se abandonan los praderíos marginales, se simplifica la base agraria y se busca una cierta especialización ganadera. La simplificación de la base económica y la pervivencia de las estructuras agrarias tradicionales conllevaron una acentuación de los desajustes entre población y recursos que se compensaron con salidas masivas de población.
+
+Esta situación propició un intento de organizar y explotar el área en función de intereses alóctonos.
+
+Hasta fechas muy recientes, el espacio ha sido utilizado fundamentalmente por dos colectivos: lugareños y montañeros. En la última década va tomando cuerpo la idea de explotar a gran escala los recursos turísticos de Picos de Europa. La explotación masiva de éstos, idea difícilmente sostenible por las características físicas y medioambientales del territorio, plantea como necesarias unas infraestructuras de fuerte impacto espacial –teleféricos, carreteras, etc.– que pueden dañar de forma irremediable los valiosos recursos existentes.
+
+Por otra parte, puede definirse a este espacio como un ecosistema con una gran influencia derivada del tradicional aprovechamiento ganadero. El mantenimiento de esta actividad se constituye así en una necesidad para garantizar la conservación de muchos de los actuales elementos del paisaje, que contribuyen a la diversidad y riqueza natural de los Picos de Europa.
+
+Del análisis y valoración de las unidades definidas, y que a continuación se describen, se desprende la existencia de una serie de ámbitos netamente diferenciados: núcleos con dominantes naturales netos y un uso humano restringido; unas áreas montanas marginales en las que también predominan los condicionantes naturales; unos espacios que interconectan los anteriores o se insertan en ellos, pero mucho más antropizados y unos territorios en los que la actividad humana resulta dominante, si bien en relación directa con un medio físico de indudable calidad natural.
+
+2.1 Unidad ambiental I: áreas de montaña, roquedos y pastizales.
+
+Prácticamente coincide con los territorios de los pisos bioclimáticos alpino y subalpino. Además incluye los territorios desforestados del horizonte superior del piso montano (altimontano) que suelen albergar, además de los roquedos y pastizales que aparecen en el piso subalpino, las comunidades vegetales seriales –formaciones arbustivas, matorrales y formaciones herbáceas– correspondientes a cada una de las series de vegetación que aparecen en él, y que raramente superan los 1.600 metros.
+
+Las altas crestas y circos glaciares muestran las huellas del glaciarismo cuaternario, con zonas perfectamente definidas de acumulación, morrenas laterales y frontales de retroceso retocadas por la erosión potencial posterior. Son muy notables los valles labrados sobre calizas de montaña con claro perfil en U.
+
+Las praderías, por otra parte, están constituidas por prados climácicos de altura, acidófilos sobre rankers y suelos pardos con horizonte húmico.
+
+Esta zona es área de campeo de grandes rapaces y destaca la presencia del rebeco (Rupicapra rupicapra).
+
+Los territorios correspondientes a esta unidad ambiental se encuentran bien conservados desde el punto de vista paisajístico, dado que las actividades humanas en ellos son poco intensas; no obstante, en buena parte de ellos —sobre todo en el horizonte altimontano y el inferior subalpino— las actividades ganaderas tienen bastante importancia, lo cual se manifiesta en una eliminación de los matorrales a favor de la extensión de las praderas. Al menos en algunas zonas, las actividades de tiempo libre se están manifestando en intervenciones que tienden a modificar, en mayor o menor grado, la condición natural del paisaje de esta unidad. Uno de los ejemplos más significativos son las estaciones invernales y de actividades turísticas.
+
+2.2 Unidad ambiental II: bosques y formaciones naturales perennifolias.
+
+Los bosques de carácter perennifolio esclerófilo son escasos en la Región Eurosiberiana, y en particular en el territorio considerado; los existentes están ligados a situaciones ecológicas excepcionales, comportándose como vegetación de tipo edafoxerófilo de carácter relíctico, que ocupan escasas superficies, salvo en zonas como La Liébana, de clima excepcionalmente poco lluvioso.
+
+Se trata fundamentalmente de distintos tipos de encinares que aparecen en los bordes del territorio, además de los sabinares albares. Estos tipos de bosques son los siguientes:
+
+Encinares cántabro-euskaldunes y ovetenses (Lauro nobile-Quercetum ilicis).
+
+Carrascales orocantábricos colinos y calcícolas (Cephalantero longifoliae-Quercetum rotundifoliae).
+
+Carrascales orocantábricos, colinos y silicícolas (Genisto polygaliphyllae-Quercetum rotundifoliae). Sabinares albares orocantábricos, montanos y calcícolas (Juniperetum sabino-thuriferae).
+
+La mayor parte de estos tipos de bosque tienen una representación muy escasa en el territorio considerado. Sobresale el Sabinar de Crémenes, uno de los sabinares más occidentales de Europa.
+
+Todos estos tipos de bosques aparecen, salvo excepciones muy locales, bastante degradados como consecuencia de las actividades humanas. Estas responden fundamentalmente a dos tipos. Por un lado, cortas y entresacas para combustible, y por otro, eliminación para extensión de los pastos pese a que el tipo de suelos en que se asientan son poco adecuados para el desarrollo de éstos; los pastos son siempre poco productivos, agostantes en el verano y bastos. Ello favorece notables procesos de erosión, lo cual, unido a la utilización del fuego como método para extender los pastos, ocasiona consecuencias altamente negativas para estos bosques.
+
+2.3 Unidad ambiental III: bosques y formaciones naturales caducifolias.
+
+Los bosques caducifolios constituyen la vegetación potencial de la mayor parte del territorio, salvo en la alta montaña (pinos alpino y subalpino). La diversidad de tipos de bosques caducifolios existentes es bastante elevada:
+
+Hayedos montanos cántabro-euskaldunes y ovetenes, basófilos y ombrófilos (Carici sylvaticae-Fagetum sylvaticae).
+
+Hayedos montanos cántabro-euskaldunes y orocantábricos meridionales xerobasófilos (Epipactidi helleborine-Fagetum sylvaticae).
+
+Hayedos montanos orocantábricos acidófilos (Luzulohenriquesii-Betuletun celtibericae).
+
+Abedules montanos orocantábricos acidófilos (Luzulohenriquesii-Betuletun celtibericae).
+
+Robledales albares montanos orocantábricos acidófilos (Luzulo henriquesii-Quercetum petraeae).
+
+Robledales albares colino-montanos orocantábricos xeroacidófilos (Linario triornithophorae-Quercetum pyrenaicae).
+
+Rebollares colino-montanos galaico-asturianas acidófilas (Blechno spicanti-Quercetum roboris).
+
+Bosques mixtos con corballos cántabro-euskaldunes y ovetenses neutrobasófilos (Polysticho setieri-Fraxinetum excelsioris).
+
+Bosques mixtos con roble albar orocantábricos neutro-basófilos (Mercurialidi perennis-Fraxinetum excelsioris).
+
+Alisedas higrófilas colino-montanas, cántabro-euskaldunes, ovetenses y orocantábricos centro-orientales (Hyperico androseami-Alnetum, glutinosae).
+
+Fresnedas higrófilas montanas orocantábricas meridionales (Pruno padi-Fraxinetum excelsioris).
+
+Saucedas colino-montanas oricantábricas (Salicetum cantabricae).
+
+Entre estos bosques destaca la presencia de un pinar relicto y autóctono de Pinus sylvestris, situado en las estribaciones de la sierra de Mampodre y que está considerado como la formación más occidental de la península Ibérica con estas características.
+
+Aparte de ello se entremezclan con los bosques praderas densas y cervunales.
+
+En esta zona se encuentran hábitats de reproducción excepcionales para el oso pardo (Ursus arctos), y de campeo para el lobo (Canis lupus), entre los mamíferos, así como de pito negro (Dryocopus martius) y urogallo (Tetrao urogallus cantabricus), entre las aves.
+
+Aunque existen representaciones en el territorio considerado de la mayoría de los bosques indicados, en muchos casos –y sobre todo en los de zonas bajas sometidas a una mayor actividad antrópica– aparecen fragmentados y alternando con otros tipos de comunidades vegetales que, en su mayor parte, surgen precisamente como consecuencia de la eliminación del bosque.
+
+Explotaciones forestales inadecuadas, sacas de leña, proliferación de pistas, pastoreo, incendios, instalaciones turísticas importantes como el teleférico de Fuente De, aprovechamientos hidroeléctricos, etc., reducen las extensiones de los bosques y sus condiciones de conservación adecuadas.
+
+Esta unidad es de gran importancia para el desarrollo vital de especies como el oso pardo, cuya supervivencia está ligada al mantenimiento de los bosques caducifolios.
+
+2.4 Unidad ambiental IV: áreas de montaña transformadas por el uso ganadero y forestal.
+
+En esta unidad permanecen bosquetes supervivientes de encinas, robledales mezclados con hayas, acebos y abedules, sustituidos en ocasiones por castañares y repoblaciones de pináceas (Pinus radiata) y eucaliptos (Eucaliptus globulus), entre los matorrales, cultivos agrícolas y praderas irrigadas por gravedad. Entre las formaciones de matorral destacan las siguientes:
+
+1\. Argomales-brezales: asentados sobre suelos ácidos, sobre todo en la vertiente septentrional, que tienen una buena capacidad de retención hídrica. Corresponden a las asociaciones:
+
+Daboecio-Ulicetum cantabrici.
+
+Halimio alyssoides-Ulicetum cantabrici.
+
+Daboecio-Ulicetum europaei.
+
+Gentiano pneumonante-Ericetum mackaianae.
+
+2\. Brezales rojos: asentados sobre suelos ácidos y secos. Corresponden a la asociación:
+
+Daboecio-Ericetum aragonensis.
+
+3\. Piornales y formaciones afines: asentados sobre suelos ácidos no degradados. Corresponden a las asociaciones:
+
+Cytiso cantabrici-Genistetum polygaliphyllae.
+
+Cytiso scoparii-Genistetum polygaliphyllae.
+
+Cytiso cantabrici-Genistetum obtusirameae.
+
+Cytisetum scopario-oromediterrani.
+
+Formaciones de Erica arborea y Pteridium aquilinum.
+
+4\. Matorrales basófilos con Genista hispánica subespecie occidentalis: asentados sobre suelos ricos en caliza activa y bien drenados. Corresponden a las asociaciones:
+
+Lithodoro diffusae-Genistetum occidentalis.
+
+Ulici europaei-Genistetum occidentalis.
+
+Lithodoro diffusae-Genistetum legionensis.
+
+Las áreas de montaña están sometidas fundamentalmente a dos tipos de usos: el ganadero y el forestal. Este último tiene, en el territorio considerado, una importancia bastante menor que el primero.
+
+La utilización forestal del territorio se encuentra reducida, en la mayor parte del mismo, a la extracción de madera, sin que se efectúen en líneas generales actividades silvícolas de otro tipo. Las repoblaciones con especies alóctonas son muy escasas.
+
+La utilización ganadera de las áreas de montaña sin habitación humana permanente, aunque afecta a casi todo el territorio, se ha concentrado en las áreas de suelos que reúnen condiciones más adecuadas para el asentamiento de prados.
+
+Por tal razón los bosques han sido selectivamente eliminados de estas áreas, y en el terreno libre se han aplicado tipos de manejo tendentes a la obtención de prados que en la mayoría de los casos se explotan a diente; sólo escasas superficies se han explotado a guadaña, y tal tipo de explotación se abandona cada vez más.
+
+Los prados de diente de montaña se mantienen en un frágil equilibrio con otros tipos de comunidades vegetales seriales como son las formaciones arbustivas y los matorrales, y estos últimos desempeñan un importante papel en esta unidad ambiental.
+
+Los principales elementos perturbadores del estado de conservación de esta unidad derivan de los incendios, el sobre-pastoreo, los proyectos para aprovechamiento hidroeléctrico de los cursos de agua y los denominados deportes de aventura (bicicleta de montaña, parapente, etcétera).
+
+2.5 Unidad ambiental V: zonas bajas con mayor grado de humanización.
+
+Corresponde a los fondos de valle tanto del piso colino en la vertiente septentrional como montanos en la vertiente meridional.
+
+Los paisajes de estas zonas responden a la estructura reticulada típica en la que alternan prados, cultivos –éstos sobre todo en la vertiente septentrional–, setos y pequeños bosquetes.
+
+Destacan la presencia de saucedas y alisedas, cuyo interés reside en la existencia de bosquetes de Salix alba de gran extensión junto a Salis aleagnos ssp. angustifolia y comunidades de macrófitos acuáticos. Cabe reseñar por su singularidad las saucedas de Buelles, en Peñamellera Baja (Asturias). Y respecto a la fauna, el salmón y la nutria, entre las más importantes.
+
+Esta unidad reúne las áreas próximas a las zonas de asentamiento humano permanente y que, por lo tanto, están sometidas a intensa explotación ganadera y agrícola. Destacan cultivos de trigo y maíz, praderas con riego, pequeños viñedos y huertas en las solanas, acompañado de ganadería intensiva en los valles. Esta actividad produce numerosos vertidos que son evacuados a los cauces sin depuración.
+
+Durante los últimos años ha surgido un brote epidémico asociado al hongo ceratocistis SPP que ha afectado al estado fitosanitario de las masas de aliso (Almus glutinosa) y que se extiende por toda la zona de manera alarmante.
+
+2.6 Unidad ambiental VI: humedales y turberas.
+
+Dada la escasez de estos ecosistemas en el territorio del PORNPE deben ser considerados con un grado de protección máxima. Incluye, además de los Lagos de Covadonga, pequeñas áreas de vegetación fontinal y turícola.
+
+3\. ZONIFICACIÓN
+
+Dentro de los límites de este PORNPE, y a partir de los estudios técnicos realizados, se han distinguido tres zonas bien diferenciadas:
+
+Zona A: coincide con la superficie declarada actualmente como Parque Nacional de la Montaña de Covadonga. El régimen específico de protección de esta área es el que se deriva de la Ley de 22 de julio de 1918, por la que se crea el Parque Nacional de la Montaña de Covadonga.
+
+Zona B: se trata de un área que ostenta una representación sobresaliente de valores geológicos, faunísticos, botánicos, paisajísticos y culturales, por los cuales, complementariamente con la zona A, constituye una unidad natural y cultural, modelada en sí misma por la acción de los tiempos. Dichas características justifican un mayor régimen de protección con el fin de preservar sus elementos y procesos naturales, o restaurarlos en aquellos casos que se consideren convenientes. Entre las manifestaciones naturales más importantes destaca una extensa representación de bosques atlánticos, hábitat de especies muy amenazadas como el oso pardo y el urogallo. Este sistema natural está prácticamente ausente de la Red Estatal de Parques Nacionales. Además, otros importantes rasgos naturales y culturales son los siguientes:
+
+El valor singular de una formación geológica única y completa.
+
+Una importantísima representación de los fenómenos glaciares y periglaciares cuaternarios.
+
+Las mejores formaciones geológicas de caliza de montaña «Formación Picos de Europa».
+
+Gran riqueza del entramado hidrogeológico originado como consecuencia del proceso cárstico, con unas comunidades de fauna cavernícola de elevado interés científico.
+
+Extensas praderías cantábricas que constituyen el hábitat de numerosos endemismos florísticos.
+
+Un patrimonio etnográfico y cultural que se ha desarrollado a lo largo de miles de años en estos Picos de Europa.
+
+Los límites de esta zona se muestran en el anexo I.
+
+Zona C: en esta zona se incluyen terrenos que constituyen una continuidad natural y cultural de las zonas anteriores, pero que por su mayor grado de humanización requieren una consideración diferenciada. Queda delimitada entre la zona B y el límite del PORNPE.
+
+4\. RÉGIMEN DE PROTECCIÓN
+
+**(Anulado)**
+
+5\. LIMITACIONES GENERALES Y ESPECÍFICAS
+
+**(Anulado)**
+
+6\. ACTIVIDADES SUJETAS A EVALUACIÓN DE IMPACTO AMBIENTAL
+
+Con carácter general, y en todo el ámbito territorial del PORNPE, a fin de garantizar un tratamiento uniforme en todo el territorio, las actividades sometidas al procedimiento de evaluación de impacto ambiental serán todas aquellas que se contemplan en la legislación más restrictiva establecida en las siguientes normas:
+
+Ley 4/1989, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestre. Disposición adicional segunda.
+
+Directiva del Consejo, de 27 de junio de 1985, relativa a la evaluación de las repercusiones de determinados proyectos públicos y privados sobre el medio ambiente.
+
+Real Decreto Legislativo 1302/1986, de 28 de junio, de evaluación de impacto ambiental.
+
+Real Decreto 1131/1988, de 30 de septiembre, por el que se aprueba el Reglamento para la ejecución del Real Decreto 1302/1986.
+
+Ley 1/1987, de 30 de marzo, de Coordinación y Ordenación Territorial del Principado de Asturias.
+
+Ley 5/1991, de 5 de abril, de Protección de los Espacios Naturales del Principado de Asturias.
+
+Ley 8/1991, de 10 de mayo, de Espacios Naturales de la Comunidad de Castilla y León.
+
+Decreto 11/1991, de 24 de enero, por el que se aprueban las Directrices Regionales de Ordenación del Territorio de Asturias.
+
+Decreto 269/1989, de 6 de noviembre, de Evaluación de Impacto Ambiental en la Junta de Castilla y León.
+
+Decreto 50/1991, de 29 de abril, de Evaluación de Impacto Ambiental para Cantabria.
+
+Los Decretos promulgados y que se promulguen sobre planes de recuperación de especies amenazadas en cada comunidad autónoma, cuando establezcan condiciones al respecto.
+
+7\. CRITERIOS ORIENTADORES DE LAS POLÍTICAS SECTORIALES
+
+**(Anulado)**
+
+> Se declara que han invadido las competencias de las Comunidades Autónomas de Castilla y León y de Cantabria y se anulan los apartados 4, 5 y 7, así como el apartado 3 en cuanto delimita la zona C y el apartado 1, en cuanto en él se halla comprendida dicha zona C, por Sentencia del TC 306/2000, de 12 de diciembre. [Ref. BOE-T-2001-1145](https://www.boe.es/buscar/doc.php?id=BOE-T-2001-1145).
+
+## ANEXO — Límites del área que se propone para su declaración como Parque Nacional
+
+Norte: Comenzando por el extremo más oriental, el límite del área discurre desde la confluencia de los ríos Urdón y Deva, por el espolón que cierra por el este la cuenca del primero, se toma la dirección oeste, siguiendo el límite provincial entre Cantabria y Asturias hasta Obesón, atravesando la Horcadura del Canto. Continúa hacia el oeste por la divisoria de aguas al norte del río Duje y pasando por Peña Crimenda, se desciende al río Cares en Puente Poncebos. Siempre en dirección oeste, siguiendo la línea de aguas vertientes del Cares, se asciende a Cabezo Llorosos, pasando por La Raxuca y El Cuetón para enlazar con los límites del Parque Nacional de La Montaña de Covadonga hasta el río Dobra y desde éste, continuando en la misma dirección inmediatamente aguas arriba de la Olla de San Vicente, se asciende en dirección suroeste a las crestas de la sierra de Amieva.
+
+Oeste: El límite discurre desde el punto anterior por las cumbres de la sierra de Amieva, incluyendo por lo tanto la cuenca fluvial del Dobra y pasando por las cumbres de Bescoba, Priniello, Timarra, Collado de Angón y Valdepino hasta el límite provincial; siguiendo el criterio de incluir todas las aguas vertientes del río Dobra. Desde este punto, continúa en dirección oeste por el límite entre las provincias de Asturias y León, para tomar dirección sur por el mismo límite interprovincial hasta encontrar en el pico de la Mora el límite que separa los términos municipales de Burón y Oseja de Sajambre.
+
+Sur: Continúa en dirección este siguiente la división entre los municipios de Oseja de Sajambre y Burón pasando por el Collado Valdemagán, Peña Negra, Peña Prieta, El Porro, Puerto de Zalambral, Pico de Valdegarcía, Pozua y Collado Barreyo. Llegados a este punto y continuando dirección este se sigue por el límite de los municipios de Burón y Valdeón, pasando por Prado Velloso, Collado Sotres, Los Hoyos, Collado Frañana, Peña Cebolleda, Gildar y Cerra de Moltó hasta llegar al límite del municipio de Portilla de la Reina. A partir de aquí, continúa en dirección este siguiendo el límite de los términos municipales de Valdeón y Portillo de la Reina, hasta encontrar el límite de las provincias de León y Cantabria, en el alto de la Beguerina.
+
+Continúa en dirección suroeste por dicho límite provincial pasando por los puntos de el Mostajal, Pico de Tabla Mal Rota, Bregatesa, Pico del Coriscao, La Gobia, el Cascajal, Peña del Gustal y Collado de la Guarda.
+
+Este: Desde aquí toma dirección noroeste dirigiéndose a Peña Llesba, Majada de Prado Cubo, Pico de la Cañiceda y Pico de la Calavera. Desde aquí, desciende hacia Cosgaya por el crestón que divide las cuencas del río Calabacedo y río Cubo, para al llegar a las tierras de labor del mencionado núcleo de población y tras sortear las mismas tomando dirección noroeste, se remonta el curso del río Deva hasta encontrar las tierras de labor de Espinama y Pido, para, tras bordearlas, dirigirse al punto de unión de los ríos Canalejas y Canigan.
+
+Desde este punto y tomando dirección norte, cruza el río y asciende hasta la carretera que accede a Fuente Dé. Tomando el camino que desde este punto conduce hasta la Majada de Tobín, se continúa en dirección este, pasando por Frades, hasta llegar al punto en que coinciden el arroyo que desciende de los Joyos de Igüedri con el río Nevandi. Desde allí, se dirige a los Joyos de Igüedri, Joyo de la Espina y Cogollos, continuando a la Cotorra de Vizcarredonda y desde ésta tomando dirección noroeste, se dirige a Peña Oviedo y Peña la Calavera. Desde aquí se dirige a la Peña de los Prados de Cuardes, ascendiendo a la Merendina y Corral de las Yeguas.
+
+Tomando la dirección este, se sube a la Peña de la Cerra y, tomando dirección norte, se dirige a la confluencia del río las Blancas con la canal de las Arredondas en el nacimiento del río Burón. Desde este punto, se dirige a los Navares siguiendo dirección noroeste, para pasar al pie de la peña del monte Fabiernu dirigiéndose a la confluencia de los ríos Mancorbo y Cocildún o Gárgola en el paraje conocido como Abar. Desde aquí, se dirige a Cabañustre, Collado Jumales, pasando por la base de los picos Soliveño y la Sorda, hasta el Collado de los Pandos, para continuar por el Pie de la Peña, hasta la Gárgola bordeando el Pico La Llosa para llegar a Cuetu.
+
+Desde este punto, tomando dirección noroeste se asciende por la Riega de la Pra hasta llegar al Collado de Pelea tras atravesar el arroyo de Corvera. Llegado a este punto, toma dirección suroeste, para seguir por la vereda que conduce al Collado Pan de Ranes desde donde tomando dirección noroeste y pasando por Cueto Tras el Carril, desciende por la línea de máxima pendiente al río Corvera para ascender a la Revuelta de Sotorraña continuando hasta llegar al Pie de la Peña, para, tomando dirección noreste, atravesar los invernales de hoja y por aquí descender siguiendo las crestas Sierra de Beges hasta encontrar el límite de los municipios de Cillórigo-Castro y Peñarrubia, descendiendo por el mismo hasta el río Urdón, siguiendo por éste hasta encontrar el río Deva en el punto en que se inició la delimitación.
+
+![1](https://www.boe.es/datos/imagenes/disp/1994/113/10717_5325.png)

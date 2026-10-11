@@ -1,0 +1,36 @@
+---
+title: "Orden de 2 de febrero de 1994 por la que se aclara el alcance de la exención concedida en el Impuesto sobre Bienes Inmuebles por el artículo 11.3, A), de los Acuerdos de Cooperación del Estado con la Federación de Entidades Religiosas Evangélicas de España, la Federación de Comunidades Israelitas de España y la Comisión Islámica de España, aprobados, respectivamente, por las Leyes 24/1992, 25/1992 y 26/1992, de 10 de noviembre"
+identifier: "BOE-A-1994-4001"
+eli: "https://www.boe.es/eli/es/o/1994/02/02/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1994-02-02
+published: 1994-02-19
+in_force_from: 1994-02-19
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 43"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-4001"
+retrieved: 2026-10-11
+---
+
+# Orden de 2 de febrero de 1994 por la que se aclara el alcance de la exención concedida en el Impuesto sobre Bienes Inmuebles por el artículo 11.3, A), de los Acuerdos de Cooperación del Estado con la Federación de Entidades Religiosas Evangélicas de España, la Federación de Comunidades Israelitas de España y la Comisión Islámica de España, aprobados, respectivamente, por las Leyes 24/1992, 25/1992 y 26/1992, de 10 de noviembre
+
+Los Acuerdos de Cooperación del Estado con la Federación de Entidades Religiosas Evangélicas de España, con la Federación de Comunidades Israelitas de España y con la Comisión Islámica de España, en sus respectivos artículos 11.3, A), establecen la exención por el Impuesto sobre Bienes Inmuebles de los bienes inmuebles en ellos enumerados, suscitándose la cuestión de si deben entenderse comprendidos en dicha exención los huertos, jardines y dependencias de tales inmuebles, siempre que no estén destinados a industrias o a cualquier uso de carácter lucrativo.
+
+El artículo 18 de la Ley General Tributaria atribuye al Ministro de Economía y Hacienda la facultad de dictar disposiciones interpretativas o aclaratorias de las Leyes y demás disposiciones en materia tributaria mediante Orden publicada en el «Boletín Oficial del Estado».
+
+Por ello, en uso de las facultades previstas en el citado artículo 18 de la Ley General Tributaria, de acuerdo con el dictamen del Consejo de Estado, este Ministerio se ha servido disponer:
+
+Deben entenderse comprendidos en la exención prevista en los Acuerdos de Cooperación del Estado con la Federación de Entidades Religiosas Evangélicas de España, con la Federación de Comunidades Israelistas de España y con la Comisión Islámica de España, en sus respectivo artículo 11.3, A), los huertos, jardines y dependencias de los inmuebles enumerados en dichos preceptos, siempre que no estén destinados a industrias o a cualquier uso de carácter lucrativo.
+
+Lo que comunico para su conocimiento y demás efectos.
+
+Madrid, 2 de febrero de 1994.
+
+SOLBES MIRA
+
+Sr. Secretario de Estado de Hacienda y Sres. Director general de Tributos, Director general de Coordinación con las Haciendas Territoriales y Director general de la Agencia Estatal de Administración Tributaria.

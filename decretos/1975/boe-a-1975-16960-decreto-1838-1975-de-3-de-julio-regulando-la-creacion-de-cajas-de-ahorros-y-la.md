@@ -1,0 +1,171 @@
+---
+title: "Decreto 1838/1975, de 3 de julio, regulando la creación de Cajas de Ahorros y la distribución de los beneficios liquidos de estas Entidades"
+identifier: "BOE-A-1975-16960"
+eli: "https://www.boe.es/eli/es/d/1975/07/03/1838"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda"
+date: 1975-07-03
+published: 1975-08-11
+in_force_from: 1975-08-11
+last_amended: 2005-01-22
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 191"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1975-16960"
+retrieved: 2026-10-11
+---
+
+# Decreto 1838/1975, de 3 de julio, regulando la creación de Cajas de Ahorros y la distribución de los beneficios liquidos de estas Entidades
+
+La creación de Cajas de Ahorros debe regularse con criterios coherentes que, de un lado, contemplen la inexistencia o insuficiencia de Entidades de análoga naturaleza en la zona de actuación de la nueva Caja y, de otro, consideren la personalidad y garantías que puedan ofrecer los promotores.
+
+En esta línea se estima oportuno, al igual que se ha dispuesto recientemente para la creación de Bancos privados, establecer un período de tutela, durante el cual la Entidad autorizada esté sometida a determinados condicionamientos que aseguren su eficaz funcionamiento y la adecuada garantía de los fondos ajenos que administren.
+
+Por otra parte, se estima aconsejable estimular la fusión de las Cajas de Ahorros que por su reducido volumen de recursos u otros motivos justificados consideren conveniente su integración. Para ello se prevé la concesión de determinados beneficios en cuanto a la expansión se refiere.
+
+Por último, en orden a la formación de reservas de todas las Cajas de Ahorros, materia que exige especial cuidado y atención por su misma naturaleza, ha parecido conveniente, ponderando debidamente todos los factores que concurren en la misma, establecer una escala de formación de reservas obligatorias en función del coeficiente de garantía de cada Caja que, dentro de márgenes graduados, impulse a las mismas a aumentar el volumen de aquéllas. De este modo, al tiempo que se incrementa paulatinamente su capacidad de garantía, se evita que la obra benéfico-social pueda verse afectada desfavorablemente.
+
+En su virtud, a propuesta del Ministro de Hacienda y previa deliberación del Consejo de Ministros en su reunión del día veinte de junio de mil novecientos setenta y cinco,
+
+DISPONGO:
+
+## Artículo primero.
+
+El Ministro de Economía y Hacienda, previo informe del Servicio Ejecutivo de la Comisión de prevención del blanqueo de capitales e infracciones monetarias en los aspectos de su competencia, y a propuesta del Banco de España podrá autorizar la creación de nuevas cajas de ahorros españolas y de filiales y sucursales de cajas de ahorros extranjeras que cumplan las condiciones establecidas en los artículos siguientes.
+
+> Se modifica por la disposición final 2.1 del Real Decreto 54/2005, de 21 de enero. [Ref. BOE-A-2005-1153](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1153).
+
+> Se modifica por el art. 2.1 del Real Decreto 184/1987, de 30 de enero. [Ref. BOE-A-1987-3493](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-3493).
+
+## Artículo segundo.
+
+1\. Las solicitudes de creación deberán formularse ante el Ministerio de Hacienda a través del Banco de España, e irán acompañadas de los siguientes documentos:
+
+a) **(Derogada)**
+
+b) Programa de actividades, en el que se indicarán, en especial, el género de operaciones que se propongan realizar y la estructura de la organización de la caja, que deberá contar con personas con la honorabilidad necesaria y la experiencia adecuada para desempeñar sus funciones, así como los procedimientos y órganos adecuados de control interno y de comunicación que se establezcan para prevenir e impedir la realización de operaciones relacionadas con el blanqueo de capitales.
+
+c) Relación de miembros y circunstancias de los fundadores, así como de los miembros futuros de su Consejo de Administración.
+
+d) Proyecto de Estatutos de la Entidad.
+
+e) Tener su domicilio social, así como su efectiva administración y dirección, en territorio nacional.
+
+2\. Las solicitudes deberán acreditar el cumplimiento de los siguientes objetivos: Seguridad del ahorro, aumento de la productividad del sistema bancario, mayor homogeneidad de la concurrencia entre las diferentes redes bancarias y una gama más amplia de servicios bancarios en relación con la población y las actividades económicas de la zona.
+
+Este número no será de aplicación a partir de 1 de enero de 1993 a las solicitudes presentadas por los promotores de nuevas cajas de ahorros españolas o por cajas de ahorro extranjeras que tengan su sede en alguno de los Estados miembros de la Comunidad Económica Europea.
+
+3\. La solicitud de autorización deberá se resuelta dentro de los seis meses siguientes a su recepción o al momento en que se complete la documentación exigible y, en todo caso, dentro de los doce meses siguientes a la recepción de la solicitud.
+
+4\. La autorización podrá ser denegada cuando el buen ejercicio de la supervisión de la entidad pueda ser obstaculizado por los vínculos estrechos que la misma mantenga con otras personas físicas o jurídicas, por las disposiciones legales, reglamentarias o administrativas del país a cuyo derecho esté sujeta alguna de dichas personas físicas o jurídicas, o por problemas relacionados con la aplicación de dichas disposiciones.
+
+A estos efectos, se entenderá que existen vínculos estrechos cuando dos o más personas físicas o jurídicas estén unidas mediante:
+
+a) Un vínculo de control en el sentido que determina el artículo 4 de la Ley 24/1988, del Mercado de Valores; o
+
+b) El hecho de poseer, de manera directa o indirecta, o mediante un vínculo de control, el 20 por 100 o más de los derechos de voto o del capital de una empresa o entidad.
+
+> Se modifica el apartado 1.b) por la disposición final 2.2 del Real Decreto 54/2005, de 21 de enero. [Ref. BOE-A-2005-1153](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1153).
+
+> Se añaden los apartados 1.e) y 4 por la disposición adicional 1.3 del Real Decreto 692/1996, de 26 de abril. [Ref. BOE-A-1996-11609](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-11609).
+
+> Se modifican las letras b) y c), se numera el apartado 1, se añaden los apartados 2 y 3 y se deroga la letra a) por el art. 2.2 , 2.3 y la disposición derogatoria del Real Decreto 184/1987, de 30 de enero. [Ref. BOE-A-1987-3493](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-3493).
+
+## Artículo tercero.
+
+Una vez concedida la autorización del Ministerio de Hacienda, con aprobación de Ios Estatutos, y cumplidos los requisitos que se señalan en el artículo siguiente, se otorgará la escritura fundacional de la Entidad, que será presentada en el Banco de España, y comprobado por éste que la misma se ajusta a los términos de la autorización, se procederá a la inscripción de la nueva Caja en el Registro Especial de Cajas Generales de Ahorro Popular, creado por Real Decreto-ley de veintiuno de noviembre de mil novecientos veintinueve, a partir de cuyo momento podrá dar comienzo a sus operaciones y disponer del fondo de dotación.
+
+## Artículo cuarto.
+
+El fondo de dotación mínimo vinculado permanentemente al capital fundacional será de 3.000 millones de pesetas.
+
+Las Cajas de Ahorro deberán contar en todo momento con una buena organización administrativa y contable, y con procedimientos de control interno adecuado, que garanticen la gestión sana y prudente de la entidad.
+
+Asimismo, deberán contar con procedimientos y órganos adecuados de control interno y de comunicación para prevenir e impedir la realización de operaciones relacionadas con el blanqueo de capitales, en las condiciones establecidas en los artícu­los 11 y 12 del Reglamento de la Ley 19/1993, de 28 de diciembre, sobre determinadas medidas de prevención del blanqueo de capitales, aprobado por el Real Decreto 925/1995, de 9 de junio.
+
+> Se añade el párrafo tercero por la disposición final 2.3 del Real Decreto 54/2005, de 21 de enero. [Ref. BOE-A-2005-1153](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1153).
+
+> Se modifica por el Real Decreto 1245/1995, de 14 de julio. [Ref. BOE-A-1995-18450](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-18450).
+
+## Artículo quinto.
+
+Las nuevas Cajas de Ahorros estarán sujetas, durante los dos primeros años de su actuación, a las siguientes normas especiales:
+
+Primera. No podrán contar con más de una oficina.
+
+Segunda. No podrán realizar operaciones de moneda extranjera ni ostentar en esta materia funciones delegadas del Banco de España.
+
+> Se deroga la norma 3 por la disposición derogatoria del Real Decreto 184/1987, de 30 de enero. [Ref. BOE-A-1987-3493](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-3493).
+
+## Artículo sexto.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 184/1987, de 30 de enero. [Ref. BOE-A-1987-3493](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-3493).
+
+## Artículo séptimo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 502/1983, de 9 de marzo. [Ref. BOE-A-1983-7658](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-7658).
+
+## Artículo octavo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 502/1983, de 9 de marzo. [Ref. BOE-A-1983-7658](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-7658).
+
+## Artículo noveno.
+
+El Ministerio de Hacienda, a efectos de estimular la fusión de las Cajas de Ahorros que por su reducido volumen de recursos, coincidencia de ámbitos de actuación u otros motivos justificados así lo aconsejen, podrá conceder que la capacidad consumida por las oficinas abiertas con anterioridad por las Cajas fusionadas quede bonificada en un treinta por ciento del valor por el que figuraran computadas con arreglo a las disposiciones correspondientes.
+
+Las Entidades que pretendan la fusión formularán solicitud conjunta y razonada, que se presentará ante el Banco de España, quien, previo informe de la Confederación Española de Cajas de Ahorros, elevará propuesta de resolución al Ministerio de Hacienda.
+
+De acuerdo con la vigente legislación sobre concentración e integración de Empresas, las Cajas de Ahorros interesadas podrán formular, con carácter previo a la autorización de fusión, la solicitud de aplicación de los beneficios fiscales correspondientes.
+
+## Disposición transitoria primera.
+
+Los interesados en los expedientes de creación de nuevas Cajas de Ahorros que estén actualmente pendientes de autorización, dispondrán de un plazo de tres meses para adaptar sus solicitudes a lo dispuesto en el presente Decreto.
+
+Transcurrido dicho plazo sin haber procedido a la referida adaptación, se entenderá que desisten de sus anteriores peticiones.
+
+## Disposición transitoria segunda.
+
+Lo establecido en el artículo séptimo sobre distribución de beneficios líquidos del ejercicio será de aplicación a partir de uno de enero de mil novecientos setenta y seis, para los correspondientes al presente ejercicio de mil novecientos setenta y cinco.
+
+## Disposición final primera.
+
+El presente Decreto entrará en vigor el día de su publicación en el «Boletín Oficial del Estado».
+
+## Disposición final segunda.
+
+El Ministerio de Hacienda podrá actualizar las cantidades a que se refiere el párrafo segundo del artículo segundo del Estatuto para Cajas Generales de Ahorro Popular de catorce de marzo de mil novecientos treinta y tres.
+
+## Disposición final tercera.
+
+El apartado tres del artículo tercero del Decreto setecientos ochenta y seis/mil novecientos setenta y cinco, de tres de abril, quedará redactado en la siguiente forma:
+
+«Los Presidentes y Consejeros, así como sus cónyuges, ascendientes o descendientes, no podrán obtener créditos, avales ni garantías de la Caja respectiva, directamente ni a través de personas físicas o jurídicas, interpuestas, salvo aportación de garantía real o con autorización expresa del Banco de España, en otro caso».
+
+## Disposición final cuarta.
+
+Se autoriza al Ministerio de Hacienda para dictar cuantas disposiciones requiera la aplicación de lo dispuesto en el presente Decreto.
+
+## Disposición final quinta.
+
+Quedan derogados los artículos trece, cuarenta y tres y cuarenta y cuatro del Estatuto para las Cajas Generales de Ahorro Popular aprobado por Decreto de catorce de marzo de mil novecientos treinta y tres; los números primero y tercero de la Orden ministerial de veinticuatro de junio de mil novecientos sesenta y cuatro, así como el segundo de la misma Orden, en su redacción dada por la de diez de abril de mil novecientos sesenta y nueve, y cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este Decreto.
+
+## Disposición final sexta.
+
+A efectos del Decreto de veintiséis de julio de mil novecientos cincuenta y siete, la referencia del artículo cuarto del Decreto de diecisiete de octubre de mil novecientos cuarenta y siete a los artículos cuarenta y tres y cuarenta y cuatro del Estatuto, que se derogan en la disposición anterior, se entenderá hecha al artículo séptimo del presente Decreto.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a tres de julio de mil novecientos setenta y cinco.
+
+FRANCISCO FRANCO
+
+El Ministro de Hacienda,
+
+RAFAEL CABELLO DE ALBA Y GRACIA

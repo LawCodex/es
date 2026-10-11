@@ -1,0 +1,389 @@
+---
+title: "Real Decreto 2621/1986, de 24 de diciembre, por el que se integran los Regímenes Especiales de la Seguridad Social de Trabajadores Ferroviarios, Jugadores de Fútbol, Representantes de Comercio, Toreros y Artistas en el Régimen General, así como se procede a la integración del Régimen de Escritores de Libros en el Régimen Especial de Trabajadores por Cuenta Propia o Autónomos"
+identifier: "BOE-A-1986-33763"
+eli: "https://www.boe.es/eli/es/rd/1986/12/24/2621"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Seguridad Social"
+date: 1986-12-24
+published: 1986-12-30
+in_force_from: 1987-01-19
+last_amended: 2015-07-25
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 312"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-33763"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2621/1986, de 24 de diciembre, por el que se integran los Regímenes Especiales de la Seguridad Social de Trabajadores Ferroviarios, Jugadores de Fútbol, Representantes de Comercio, Toreros y Artistas en el Régimen General, así como se procede a la integración del Régimen de Escritores de Libros en el Régimen Especial de Trabajadores por Cuenta Propia o Autónomos
+
+La disposición adicional segunda de la Ley 26/1985, de 31 de julio, de Medidas Urgentes para la Racionalización de la Estructura y la Acción protectora de la Seguridad Social, dispone la integración en el Régimen General o en otros Especiales de los Regímenes de Trabajadores Ferroviarios, de Artistas, de Toreros, de Representantes de Comercio, de Escritores de Libros y de Futbolistas, facultando al Gobierno para que fije las normas y condiciones de dicha integración.
+
+Como quiera que la disposición adicional citada no establece directrices al Gobierno para proceder a la integración, han de tenerse en cuenta los criterios contenidos en el artículo 10.15 de la Ley General de la Seguridad Social, a efectos de integración de Regímenes Especiales de la Seguridad Social, cuales son la similitud de las características del Régimen Integrado y del Régimen de Integración y la mayor homogeneidad con el Régimen General.
+
+Oídas las organizaciones empresariales, sindicales y profesionales correspondientes, el presente Real Decreto basa sus disposiciones en la combinación de las diferentes consideraciones: De una parte, la naturaleza jurídica de la relación profesional de cada uno de los colectivos afectados, que está definida por los colectivos incluidos en cinco de los Regímenes Especiales como netamente laboral, y, de otra, las peculiares características que conforman en la práctica el ejercicio de su respectiva profesionalidad.
+
+Por otra parte, las previsiones de integración se caracterizan por su gradualidad. Atendidos, también a este respecto, los planteamientos de los sectores profesionales afectados, el Real Decreto prevé un prolongado período transitorio durante el que proceder a la acomodación definitiva de los mecanismos financieros y protectores de los Regímenes desaparecidos con los que son propios de los Regímenes de su respectiva integración.
+
+En su virtud, a propuesta del Ministro de Trabajo y Seguridad Social, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 24 de diciembre de 1986,
+
+DISPONGO:
+
+## CAPÍTULO PRIMERO — Regímenes de integración
+
+#### Artículo 1. Regímenes de integración.
+
+1\. Se integran en el Régimen General de la Seguridad Social los Regímenes Especiales siguientes:
+
+a) De Trabajadores Ferroviarios, regulado por Decreto 2824/1974, de 9 de agosto.
+
+b) De Jugadores Profesionales de Fútbol, establecido por Real Decreto 2806/1979, de 7 de diciembre.
+
+c) De Representantes de Comercio, regulado por Decreto 2409/1975, de 23 de agosto.
+
+d) De Artistas, regulado por Decreto 2133/1975, de 24 de julio.
+
+e) De Toreros, regulado por Real Decretó 1024/1981, de.22 de mayo.
+
+2\. Se integran en el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos el actual Régimen Especial de Escritores de Libros, regulado por Decreto 3262/1970, de 29 de octubre.
+
+#### Artículo 2. Aplicación general de beneficios:
+
+La aplicación general de los beneficios de la Seguridad Social a las actividades, categorías y grupos profesionales encuadrados en los extinguidos Regímenes Especiales de Trabajadores Ferroviarios, de Jugadores Profesionales de Fútbol, de Representantes de Comercio, de Artistas, de Toreros y de Escritores de Libros se regirá en lo sucesivo por la legislación del Régimen General o del Régimen Especial de Trabajadores Autónomos, según la integración dispuesta en el artículo anterior, en la forma y con las modalidades que para cada uno de ellos establece el presente Real Decreto.
+
+## CAPÍTULO II — Normas de integración particulares
+
+### Sección primera. Modalidades de integración del Régimen Especial de Trabajadores Ferroviarios
+
+#### Artículo 3. Reducciones en la edad mínima de jubilación por razón de trabajos excepcionalmente penosos o peligrosos.
+
+1\. La edad mínima de jubilación establecida para el régimen general por el artículo 154 de la Ley General de la Seguridad Social se rebajará, para los trabajadores pertenecientes o que hayan pertenecido a grupos y actividades profesionales de naturaleza especialmente peligrosa o penosa, mediante la aplicación al periodo de tiempo efectivamente trabajado en tales grupos y actividades del coeficiente que corresponda segun la siguiente escala:
+
+\- Jefe de Maquinistas, Maquinista de Locomotora de Vapor, Ayudante Maquinista de Locomotora de Vapor, Oficial Calderero Chapista en Depósito: 0,15.
+
+\- Capataz de Maniobras, Especialista de Estaciones, Agente de Tren, Auxiliar de Tren, Maquinista Principal, Maquinista Tracción Eléctrica, Maquinista Tracción Diésel, Ayudante de Maquinista Tracción Eléctrica, Ayudante de Maquinista Autorizado Tracción Eléctrica, Ayudante de Maquinista Tracción Diésel, Ayudante de Maquinista Autorizado Tracción Diésel, Visitador de Entrada, Visitador de Segunda, Visitador de Primera, Visitador Principal, Operador Principal de Maquinaria de Vía, Operador Maquinaria de Vía, Ayudante de Maquinaria de Vía, Ayudante de Maquinaria de Vía Autorizado, Jefe de Equipo Calderero Chapista, Oficial de Oficio Calderero Chapista, Oficial de Oficio de Entrada Calderero Chapista, Jefe de Equipo Forjador, Oficial de Oficio Forjador, Oficial de Oficio de Entrada Forjador, Jefe de Equipo Fundidor, Oficial de Oficio Fundidor, Oficial de Oficio de Entrada Fundidor, Jefe de Equipo Ajustador-Montador, Oficial de Oficio Ajustador-Montador, Oficial de Oficio de Entrada Ajustador-Montador: 0,10.
+
+Lo dispuesto en los parrafos anteriores sera de aplicacion tambien a las categorias extiguidas que, con distintas denominaciones y/o con identicas funciones, han precedido a las actualmente vigentes.
+
+2\. Las fracciones de año superiores a seis meses se computarán como un año completo, no computándose en absoluto las que sean inferiores.
+
+Asimismo, las diferentes fracciones de año correspondientes a actividades peligrosas o penosas que dispongan de coeficientes distintos se computarán, si la suma de todas ellas supera al semestre, por un año cumplido en la actividad en la que se acredite la fracción más prolongada.
+
+3\. El período de tiempo que medie entre la edad de jubilación reducida y la edad mínima general se considerará como cotizado al exclusivo efecto de determinar el porcentaje de pensión en cada caso aplicable.
+
+4\. De conformidad con lo dispuesto en el número 2 del artículo 154 de la Ley General de la Seguridad Social, a petición de las organizaciones sindicales más representantivas y de las Empresas afectadas, previos los oportunos estudios técnicos, podrán ser revisados los coeficientes señalados en el número 1 anterior, mediante Real Decreto aprobado en Consejo de Ministros.
+
+> Se modifica el apartado 1 por la disposición adicional 9 del Real Decreto 863/1990, de 6 de julio. [Ref. BOE-A-1990-16009](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-16009).
+
+### Sección segunda. Modalidades de integración de Régimen Especial de Jugadores Profesionales de Fútbol
+
+#### Artículo 4. Bases mínimas y máximas de cotización por contingencias comunes y cotización por accidente de trabajo y enfermedades profesionales.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.10 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+### Sección tercera. Modalidades de integración del Régimen Especial de Representantes de Comercio
+
+#### Artículo 5. Formalización de la afiliación y de las altas, bajas y demás variaciones producidas con posterioridad a aquélla.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 708/2015, de 24 de julio. [Ref. BOE-A-2015-8339](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8339).
+
+#### Artículo 6. Cotización.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.10 del Real Decreto 2064/1995, de 22 de diciembre.[Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+#### Artículo 7. Recaudación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.10 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+### Sección cuarta. Modalidades de Integración del Régimen Especial de Artistas
+
+#### Artículo 8. Cotización.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.10 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+#### Artículo 9. Consideración de días cotizados y en alta.
+
+1\. A efectos de acreditación de los días cotizados, dentro de cada año natural, se seguirán las siguientes reglas:
+
+Primera.–Se dividirá entre 365 la suma de las bases por la que haya cotizado, que, en ningún caso, podrán superar el tope anual de cotización correspondiente a cada categoría profesional. Si el cociente resultante es superior a la base mínima diaria aplicable a la respectiva categoría profesional, se considerarán como cotizados todos los días del año natural, siendo la base de cotización diaria, que surtirá efectos en orden a las prestaciones, el cociente señalado.
+
+Segunda.–En el supuesto de que el cociente a que se refiere la regla anterior sea inferior a la base mínima diaria aplicable a cada categoría profesional, se procederá a dividir la suma de las bases de cotización por la cifra correspondiente a dicha base mínima, siendo el resultado el número de días que se considerarán como cotizados.
+
+2\. Con independencia de las situaciones de asimilación al alta que, para las distintas contingencias y situaciones, se prevén en el Régimen General de la Seguridad Social, se considerarán como asimilados al alta los días que resulten cotizados por aplicación de las reglas contenidas en los números anteriores, y que no se correspondan con los de prestación real de servicios.
+
+#### Artículo 10. Incapacidad laboral transitoria y otros subsidios.
+
+1\. **(Derogado)**
+
+2\. A efectos de cálculo de la base reguladora de las prestaciones económicas de incapacidad laboral transitoria, invalidez provisional y subsidio de recuperación, se tendrá en cuenta el promedio de las bases de cotización de los doce meses anteriores al hecho causante.
+
+> Se deroga el apartado 1 por la disposición derogatoria única.d) del Real Decreto 1251/2001, de 16 de noviembre. [Ref. BOE-A-2001-21491](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-21491).
+
+#### Artículo 11. Jubilación anticipada y reducciones en la edad mínima de jubilación.
+
+1\. Los artistas que deseen jubilarse anticipadamente podrán hacerlo a partir de los sesenta años. El porcentaje de la pensión experimentará, en estos casos, una reducción del 8 por 100 por cada año que le falte al trabajador para cumplir la edad de sesenta y cinco años.
+
+2\. No obstante lo dispuesto en el número 1, los cantantes, bailarines y trapecistas podrán causar pensión de jubilación a partir de los sesenta años de edad sin que les sean de aplicación coeficientes reductores. Para ello será necesario que hayan trabajado en la especialidad un mínimo de ocho años durante los veintiuno anteriores al de la jubilación.
+
+3\. La condición de hallarse en alta o en situación asimilada a la de alta en la fecha del hecho causante será requisito indispensable para acceder a la jubilación en cualquiera de los supuestos previstos en este artículo, sin perjuicio de que los artistas, conforme al artículo 1.º de la Ley 26/1985, de 31 de julio, puedan solicitar la pensión de jubilación, a los sesenta y cinco años, sin cumplimentar el requisito de alta.
+
+4\. Conforme a lo dispuesto en el número 2 del artículo 154 de la Ley General de la Seguridad Social, a petición de las organizaciones sindicales más representativas y previos los estudios técnicos oportunos, se podrá reducir la edad de jubilación de las categorías profesionales citadas en el número 2 de este artículo o, en su caso, ampliar dicha reducción a otras categorías profesionales.
+
+### Sección quinta. Modalidades de integración del Régimen Especial de los Toreros
+
+#### Artículo 12. Consideración de empresario en las actividades profesionales taurinas.
+
+El organizador del espectáculo taurino tendrá la consideración de empresario, a efecto de las obligaciones impuestas a éste en el Régimen General de la Seguridad Social.
+
+#### Artículo 13. Altas, bajas y demás variaciones posteriores a la afiliación.
+
+1\. La afiliación a la Seguridad Social de los profesionales taurinos se sujetará a las normas comunes aplicables en el Régimen General de la Seguridad Social.
+
+2\. Las altas, bajas y demás variaciones posteriores a la afiliación se regirán asimismo por la legislación del Régimen General de la Seguridad Social, con las siguientes peculiaridades:
+
+a) En los primeros quince días del mes de enero de cada año, los profesionales taurinos deberán efectuar declaración ante laTesorería General de la Seguridad Social de su permanencia en el ejercicio profesional durante la temporada taurina correspondiente a dicho año, con objeto de que por ésta se confeccione o actualice el censo de activos. A tal efecto, la permanencia en el ejercicio profesional se reconocerá mediante la acreditación por el profesional taurino de los requisitos que reglamentariamente se establezcan.
+
+b) La acreditación de permanencia en la actividad profesional, y la correspondiente inclusión en el censo de activos, motivará la consideración del declarante en situación de alta, a todos los efectos, durante el año natural. Asimismo la inclusión en el censo eximirá de la obligación de comunicación de las altas y bajas, correspondientes a cada espectáculo taurino, de los profesionales taurinos.
+
+c) La falta de declaración en el plazo indicado o la no acreditación de los requisitos que se establezcan motivará la baja automática del profesional taurino. En estos casos, la baja sólo se resolverá mediante alta posterior derivada de la reanudación efectiva de la actividad profesional, seguida del ingreso de las cuotas correspondientes, a partir de cuya fecha el profesional taurino quedará incluido en el censo.
+
+#### Artículo 14. Cotización.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.10 del Real Decreto 2064/1995, de 22 de diciembre. [Ref. BOE-A-1996-1579](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1579).
+
+#### Artículo 15. Consideración de días cotizados.
+
+1\. A efectos de acreditación de los días cotizados, dentro de cada año natural, se seguirán las siguientes reglas:
+
+Primera.–Se dividirá por trescientos sesenta y cinco días la suma de las bases por las que se haya cotizado que, en ningún caso, podrán superar el tope anual de cotización correspondiente a cada categoría profesional. Si el cociente resultante es superior a la base mínima diaria aplicable a la referida categoría profesional, se considerarán como cotizados todos los días del año natural, siendo la base de cotización diaria, que surtirá efectos en orden a las prestaciones, el cociente señalado.
+
+Segunda.–En el supuesto de que el cociente a que se refiere la regla anterior sea inferior a la base mínima diaria aplicable a cada categoría profesional, se procederá a dividir la suma de las bases de cotización por la cifra correspondiente a dicha base mínima, siendo el resultado el número de días que se considerarán como cotizados.
+
+2\. En el supuesto de profesionales taurinos no incluidos, desde el inicio del año natural en el censo de activos a que se refiere el número 2 del artículo 13, las reglas anteriores irán referidas al período comprendido entre el alta que motiva su inclusión en el censo y el último día del año.
+
+#### Artículo 16. Concepto de accidente de trabajo.
+
+Se entiende por accidente de trabajo toda lesión corporal sufrida por los profesionales taurinos con ocasión o a consecuencia de su actividad profesional. En todo caso, tendrán la consideración de accidente de trabajo los sufridos por los profesionales taurinos, cualquiera que sea su categoría profesional, en las tientas, en los desplazamientos necesarios para tomar parte en sus actividades profesionales, en las pruebas de caballos que anteceden a los espectáculos taurinos, o al efectuarse la suerte y enchiqueramiento de reses, siempre que dichos profesionales hubieran de actuar en el espectáculo de que se trate.
+
+#### Artículo 17. Incapacidad laboral transitoria y subsidios.
+
+1\. El profesional taurino, que cause baja por enfermedad, común o profesional, o accidente, sea o no de trabajo, tendrá derecho al subsidio de Incapacidad Laboral Transitoria, si reúne los requisitos establecidos, aunque en el momento de la baja tenga extinguido su contrato laboral. En estos casos, correrá por cuenta del profesional taurino el abono de las cotizaciones correspondientes, durante el tiempo que permanezca en dicha situación.
+
+2\. La base de cotización durante la situación de incapacidad laboral transitoria y que servirá de reguladora para el cálculo de la prestación correspondiente, será la que resulte de dividir por 365 la cotización anual total anterior al hecho causante, o el promedio diario del período de cotización que se acredite si éste es inferior al año.
+
+3\. A efecto de la base reguladora de invalidez provisional y del subsidio de recuperación se tendrá en cuenta lo dispuesto en el número 2 anterior.
+
+#### Artículo 18. Edad mínima de jubilación de los profesionales taurinos.
+
+1\. La edad mínima de jubilación de los profesionales taurinos para causar pensión de jubilación será la siguiente:
+
+a) La de sesenta y cinco años, para los Mozos de Estoque y de Rejones y sus ayudantes.
+
+b) La de sesenta años, para los Puntilleros.
+
+c) La de cincuenta y cinco años, para los demás profesionales taurinos.
+
+2\. Los Mozos de Estoque y de Rejones y sus ayudantes podrán anticipar su jubilación a partir del cumplimiento de los sesenta años de edad. El porcentaje de pensión se reducirá, en estos casos, en un 8 por 100 por cada año de anticipación.
+
+3\. Para poder acogerse a la jubilación en las edades contempladas en los apartados b) y c) del número 1 y en el número 2, será necesario que los profesionales taurinos acrediten el haber actuado en los siguientes espectáculos taurinos de acuerdo a su categoría profesional:
+
+a) Matadores de Toros, Rejoneadores y Novilleros: 150 festejos, en cualquiera de las categorías señaladas en esta letra.
+
+b) Banderilleros, Picadores y Toreros Cómicos: 200 festejos, en cualquiera de las categorías señaladas en esta letra, así como en alguna de las categorías indicadas en la letra a).
+
+c) Puntilleros, Mozos de Estoque y de Rejones y sus ayudantes: 250 festejos, en cualquier categoría profesional.
+
+4\. La condición de hallarse en alta o en situación asimilada a la de alta en la fecha del hecho causante, será requisito indispensable para acceder a la jubilación en cualquiera de los supuestos previstos en este artículo, sin perjuicio de que los profesionales taurinos puedan solicitar, a los sesenta y cinco años y conforme a lo establecido en el artículo 1.º de la Ley 26/1985, de 31 de julio, pensión de jubilación sin cumplimentar el requisito de alta.
+
+#### Disposición adicional primera.
+
+En cuanto al régimen de desempleo de los colectivos integrados en el Régimen General de la Seguridad Social, se estará a lo que establezca el Gobierno, mediante el Real Decreto que se dicte en desarrollo de la Ley 31/1984, de 2 de agosto, de Protección por Desempleo, con la finalidad específica de abarcar a los colectivos integrados.
+
+#### Disposición adicional segunda.
+
+Se modifica la descripción de los trabajos incluidos en los epígrafes 121 y 122 de la tarifa de primas para la cotización a la Seguridad Social por accidentes de trabajo y enfermedades profesionales, aprobada por Real Decreto 2930/1979, de 29 de diciembre, que quedan redactados de la siguiente forma:
+
+| Epígrafe | Descripción de los trabajos |
+|---|---|
+| 121 | Enfermeros y guardias de manicomios. Profesores de artes marciales, gimnastas y socorristas. Jugadores profesionales de fútbol. |
+| 122 | Espectáculo: Operadores cinematográficos, tramoyistas y otro personal técnico y de servicio público. Artistas. |
+
+#### Disposición transitoria primera.
+
+Las cotizaciones satisfechas a los regímenes extinguidos se entenderán efectuadas en el de su respectiva integración, teniendo plena validez tanto para perfeccionar el derecho como para determinar la cuantía de las prestaciones previstas en la acción protectora de éste para tales situaciones y contingencias.
+
+#### Disposición transitoria segunda.
+
+1\. Los trabajadores ingresados en Renfe, con anterioridad a 14 de julio de 1967, así como los pertenecientes a Feve, ingresados con anterioridad a 19 de diciembre de 1969, podrán causar derecho a la pensión de jubilación a partir de los sesenta años. En tal caso, el porcentaje de la pensión que corresponda, de acuerdo con los años cotizados, experimentará una reducción del 8 por 100 por cada año que le falte al trabajador para cumplir los sesenta y cinco años de edad.
+
+2\. No obstante lo dispuesto en el número anterior, los trabajadores ingresados al servicio de Renfe antes de 14 de julio de 1967, así como los de Feve ingresados con anterioridad al 19 de diciembre de 1969, y siempre que en el momento del hecho causante se encuentren en situación de alta, podrán solicitar pensión de jubilación de conformidad con las siguientes reglas:
+
+1.ª Será requisito necesario contar con cincuenta y cinco años de edad y veinticinco de servicios cotizados en la fecha de entrada en vigor del presente Real Decreto.
+
+2.ª El porcentaje de pensión aplicable a la base reguladora se reducirá en un porcentaje por cada año de anticipación de la jubilación respecto de la edad mínima general de los sesenta y cinco años, de acuerdo con la siguiente escala:
+
+| Años posteriores a la entrada<br>en vigor del Real Decreto | Porcentaje de reducción<br>base reguladora<br>por cada año que falte<br>para cumplir los sesenta y cinco |
+|---|---|
+| 1.° | 2 |
+| 2.° | 2 |
+| 3.° | 3,5 |
+| 4.° | 5 |
+| 5.° | 6,5 |
+| 6.° | 8 |
+
+A efectos de la aplicación de lo dispuesto en esta regla, las fracciones de año inferiores a un semestre serán despreciadas, y las iguales o superiores a un semestre se computarán como un año completo.
+
+3.ª La pensión de jubilación será incompatible con el trabajo por cuenta ajena o propia del pensionista.
+
+3\. El mayor coste que pueda producirse por la aplicación de las reglas contenidas en el número 2, respecto al que supondría la aplicación de lo señalado en el número 1, será financiado, respecto a sus trabajadores afectados, por las Empresas mencionadas.
+
+#### Disposición transitoria tercera.
+
+1\. Durante el ejercicio 1987, la base máxima de cotización aplicable a los representantes de comercio será de 54.210 pesetas mensuales.
+
+2\. Los Reales Decretos sobre cotización a la Seguridad Social que se aprueben en los ejercicios económicos sucesivos fijarán las bases máximas de cotización aplicables al colectivo de representantes de comercio, a fin de que, de manera gradual, aquéllas alcancen, en 1990, los mismos importes que los que se establezcan, con carácter general, para las categorías profesionales incluidas en el grupo 5.º de cotización del Régimen General de la Seguridad Social.
+
+3\. Los representantes de comercio que, conforme a la legislación en vigor en su régimen especial, vinieran cotizando, con anterioridad al 1 de enero de 1987, por una base que excediera de la que se fija en el número 1, podrán seguir manteniendo aquélla o incrementarla en el mismo porcentaje en que hayan aumentado las bases máximas del Régimen General.
+
+La parte de cuota que corresponda al exceso de la base elegida a que se refiere el párrafo anterior sobre la base máxima fijada en el número 1, correrá a cargo exclusivo del propio representante de comercio.
+
+Similares reglas se aplicarán en los sucesivos ejercicios económicos hasta tanto la base máxima de cotización de los representantes de comercio no se equipare a las establecidas, con carácter general, para las categorías profesionales enumeradas en el grupo 5.º de cotización del Régimen General de la Seguridad Social.
+
+#### Disposición transitoria cuarta.
+
+1\. Durante el ejercicio 1987, las bases máximas aplicables a la cotización por los profesionales artistas que se incorporen al Régimen General de la Seguridad Social serán equivalentes al 50 por 100 de las que rigen, con carácter general y para los distintos grupos de cotización, en el régimen indicado.
+
+2\. Los Reales Decretos sobre cotización a la Seguridad Social que se aprueben en los ejercicios sucesivos fijarán las bases máximas de cotización aplicables al colectivo de artistas, a fin de que de manera gradual aquéllas alcancen en 1996, los mismos importes que los correspondientes en el Régimen General para cada uno de los grupos relacionados en el artículo 8.º
+
+#### Disposición transitoria quinta
+
+A efectos de lo dispuesto en la disposición transitoria segunda de le Ley 26/1985, de 31 de julio, el período mínimo exigible para causar derecho a la pensión de jubilación a los artistas que estuvieran o hubieran estado, antes de 1 de enero de 1987, en alta en el Régimen Especial de Artistas, será el que resulte de sumar al período mínino establecido en el citado Régimen Especial antes de la entrada en vigor de la Ley 26/1985, de 31 de julio, la mitad del tiempo transcurrido entre dicha fecha y la del hecho causante de la jubilación, hasta que el período así determinado alcance los quince años.
+
+#### Disposición transitoria sexta.
+
+Durante los cinco primeros años de vigencia del presente Real Decreto, el porcentaje aplicable a la base reguladora para determinar la cuantía de las pensiones de jubilación causadas por los grupos y colectivos profesionales en alta, con anterioridad al 1 de enero de 1987, en el Régimen Especial de Artistas, será el siguiente:
+
+a) Para las pensiones causadas en los dos primeros años, el establecido en la legislación del Régimen de procedencia.
+
+b) Para las causadas durante el tercer año, el establecido según años de cotización en el Régimen de integración, más tres cuartos de la diferencia entre éste y el señalado para el mismo número de años cotizados en la legislación del Régimen de procedencia.
+
+c) Para las causadas en los años cuarto y quinto, los establecidos en el Régimen de integración según años de cotización, más la mitad y un cuarto, respectivamente, de la misma diferencia a que se refiere la letra b).
+
+#### Disposición transitoria séptima.
+
+1\. A efectos de cubrir el período mínimo de cotización exigido para la pensión de jubilación en el Régimen General de la Seguridad Social, cada tres cotizaciones efectuadas con arreglo a la legislación anterior al Real Decreto 1024/1981, de 22 de mayo, equivaldrán a un mes de cotización en el Régimen Especial de Toreros, computándose como un mes completo el número de cotizaciones sobrantes inferiores a tres, si las hubiera.
+
+2\. Para determinar el porcentaje aplicable a la base reguladora para fijar la cuantía de la pensión de jubilación, el cómputo a que se refiere el párrafo anterior sólo será de aplicación a las trescientas sesenta primeras cotizaciones efectuadas con arreglo a dicha legislación; respecto a las restantes, cada dos cotizaciones equivaldrán a un mes de cotización, computándose como un mes completo las sobrantes, si las hubiera.
+
+#### Disposición transitoria octava.
+
+1\. Los profesionales taurinos que, en 1 de enero de 1987, se encuentren en baja en el Régimen Especial de Toreros, podrán suscribir un Convenio Especial con las condiciones siguientes:
+
+a) El plazo para solicitarlo será de noventa días siguientes a la fecha señalada en el párrafo anterior.
+
+b) Tener acreditadas treinta y seis mensualidades en el Régimen de Toreros. A tal efecto, se tendrán en cuenta las cotizaciones efectuadas con anterioridad a la entrada en vigor del Real Decreto 1024/1981, en la forma establecida en la disposición transitoria sexta, 1, del mismo.
+
+c) Comprometerse a abonar las cuotas que correspondan desde la fecha de vigencia del Convenio.
+
+d) El profesional taurino podrá optar por una base de cotización que esté comprendida entre la base mínima del Régimen General y el límite máximo de bases de cotización que, conforme a la legislación anterior, podía ser elegida por los profesionales taurinos a quienes les faltasen diez o menos años para alcanzar la edad de jubilación.
+
+2\. En lo no previsto en la presente disposición, se aplicará lo dispuesto, con carácter general, en la Orden de 30 de octubre de 1985, por la que se regula el Convenio Especial en el Sistema de la Seguridad Social.
+
+#### Disposición transitoria novena.
+
+A los profesionales taurinos que estuvieran o hubieran estado en alta en el Régimen Especial de Toreros antes del 1 de enero de 1987, se les considerará como cotizados, a efectos exclusivamente del porcentaje sobre la base reguladora de la pensión de jubilación, la mitad de los años que medien entre la edad prevista en el artículo 18, para cada categoría profesional, y la establecida, con carácter general, en el número 1 del artículo 154 de la Ley General de la Seguridad Social.
+
+#### Disposición transitoria décima.
+
+1\. Durante el año 1987, las bases máximas de cotización aplicables a los profesionales taurinos serán equivalentes al 50 por 100 de las que rigen, con carácter general y para los distintos grupos de cotización en el Régimen General de la Seguridad Social.
+
+2\. Los Reales Decretos sobre cotización a la Seguridad Social que se aprueben en los ejercicios sucesivos fijarán las bases máximas de cotización aplicables al colectivo de profesionales taurinos, a fin de que de manera gradual aquéllas alcancen, en 1990, los mismos importes que los correspondientes en el Régimen General para cada uno de los grupos de cotización relacionados en el artículo 14.
+
+3\. No obstante lo dispuesto anteriormente, los profesionales taurinos que, conforme a la legislación del Régimen Especial, vinieran cotizando, antes del 1 de enero de 1987, por una base de cotización que excediera de la fijada en el número 1, podrán seguir manteniendo aquélla o incrementarla en el mismo porcentaje en que hayan aumentado las bases máximas de cotización en el Régimen General de la Seguridad Social.
+
+La parte de cuota que corresponda al exceso de la base de cotización elegida a que se refiere el párrafo anterior sobre la base máxima de cotización establecida para cada grupo de cotización, correrá a cargo exclusivo del propio profesional taurino.
+
+Similares reglas se aplicarán en los sucesivos ejercicios económicos hasta tanto las bases de cotización aplicables a los profesionales taurinos no se equiparen con las establecidas, con carácter general, para los grupos de cotización en que se encuadran dichos profesionales, conforme a lo señalado en el artículo 14.
+
+#### Disposición transitoria undécima.
+
+1\. Al colectivo que, en 1 de enero de 1987, estuviera o hubiera estado en alta en el Régimen Especial de Escritores de Libros, le será de aplicación lo dispuesto en la disposición transitoria tercera de la Ley 26/1985, de 31 de julio, en cuanto a la aplicación progresiva del período a tener en cuenta para la determinación de la base reguladora de las pensiones de jubilación e invalidez permanente derivada de enfermedad común.
+
+2\. Los escritores de libros, en quienes concurran los requisitos señalados en el número anterior y estuvieran en alta o situación asimilada en el momento del hecho causante, podrán causar prestaciones de muerte y supervivencia mediante la aplicación de las siguientes reglas:
+
+1.ª El período de carencia será el resultado de incrementar el período exigido en el Régimen Especial de Escritores de Libros, con tantos meses completos como hayan transcurrido entre el día 1 de enero de 1987 y la fecha del hecho causante, con un máximo de sesenta meses.
+
+2.ª La base reguladora será el cociente de dividir el período de carencia exigido en cada momento por el número de meses que dicho período comprenda, con un mínimo, en todo caso, del resultado de dividir por 24 la suma de las 24 mensualidades elegidas por el beneficiarlo.
+
+Las mensualidades a computar para el cálculo de la base reguladora podrán ser elegidas en el período de los diez años inmediatamente anteriores al hecho causante.
+
+3\. Las reglas establecidas en el número 2 se aplicarán también para determinar el derecho a pensión de invalidez permanente derivada de accidente, y la cuantía de ésta, de los escritores de libros que reúnan los requisitos señalados en aquél.
+
+#### Disposición transitoria duodécima.
+
+1\. Las personas que, en 1 de enero de 1987, estuvieran en alta o en situación asimilada a la de alta y tuvieran cubiertos los requisitos de edad y período de carencia requeridos para causar derecho a la pensión de jubilación según el Régimen extinguido en que estuvieran encuadradas, mantendrán la opción por aquel derecho en las mismas condiciones exigidas con la cuantía que les hubiera correspondido el día anterior a dicha fecha, aplicando para la determinación de su importe las normas sobre revalorización que procedan.
+
+2\. Lo dispuesto en el número anterior no se aplicará a los trabajadores incluidos en el extinguido Régimen Especial de Ferroviarios, a quienes les afecte el contenido de la disposición transitoria segunda de este Real Decreto.
+
+#### Disposición transitoria decimotercera.
+
+1\. Los trabajadores de alguno de los Regímenes Especiales integrados que, por razón de pertenencia simultánea o sucesiva a otro grupo o actividad profesional, formaran ya parte del ámbito de aplicación del Régimen de integración de aquél, podrán causar pensiones concurrentes por la misma contingencia o situación con cargo a ambos Regímenes de integración y de procedencia, para lo cual será necesario que cumplieran todos los requisitos exigidos por las legislaciones respectivas de ambos Regímenes antes del 1 de enero de 1987.
+
+2\. En otro caso, la pensión única del Régimen de integración se reconocerá y calculará previa totalización de los períodos de cotización cumplidos en ambos Regímenes, considerando a los superpuestos como cotizados en situación de pluriempleo.
+
+3\. Los trabajadores a que se refiere el número 1 podrán optar por la aplicación del número 2 para la determinación de sus derechos de pensión y para el cálculo de ésta.
+
+4\. Las opciones jubilatorias previstas en esta disposición se entienden sin perjuicio de las que se regulan en las transitorias de la Ley 26/1985, de 31 de julio, sobre Medidas Urgentes para la Racionalización de la Estructura y de la Acción Protectora de la Seguridad Social.
+
+#### Disposición transitoria decimocuarta.
+
+Los Convenios Especiales para asimilación al alta suscritos al amparo de las legislaciones propias de los Regímenes integrados conservarán plena vigencia, con la extensión y el contenido previstos en el correspondiente Régimen de integración. Su extinción se regirá, asimismo, por la legislación en virtud de la cual se concertaron.
+
+#### Disposición final primera.
+
+1\. Quedan derogadas en cuanto se opongan a lo dispuesto en el presente Real Decreto las siguientes disposiciones:
+
+a) Decreto 2133/1975, de 24 de julio, Orden de 29 de noviembre del mismo año y demás normas de aplicación y desarrollo del Régimen Especial de Artistas.
+
+b) Real Decreto 1024/1981, de 22 de mayo, Orden de 21 de julio de 1982, relativos al Régimen Especial de Toreros, y normas de desarrollo y aplicación.
+
+c) Decreto 2409/1975, de 23 de agosto, Orden de 24 de enero de 1976 y otras normas dictadas para aplicación y desarrollo del Régimen Especial de Representantes de Comercio.
+
+d) Decreto 2824/1974, de 9 de agosto, y normas de aplicación y desarrollo de la Seguridad Social de los Trabajadores Ferroviarios.
+
+e) Real Decreto 2806/1979, de 7 de diciembre, y normas reglamentarias para la aplicación y desarrollo del Régimen Especial de Jugadores Profesionales del Fútbol.
+
+f) Real Decreto 3262/1970, de 29 de octubre, y normas de aplicación del Régimen Especial de Escritores de Libros.
+
+2\. No obstante, lo dispuesto en el número 1, las normas en él enumeradas y, en lo que resulte necesario, las dictadas para su desarrollo y aplicación, conservarán la vigencia cuya duración y límites se fijan en las disposiciones transitorias precedentes.
+
+3\. Asimismo, las disposiciones sobre ámbito de aplicación contenidas en las normas derogadas conservarán plena eficacia en orden a determinar la nueva extensión de las correspondientes a los Regímenes General y Especial de Trabajadores Autónomos como consecuencia de la integración en ellos de los Regímenes desaparecidos o de la inclusión de nuevas categorías y grupos profesionales.
+
+#### Disposición final segunda.
+
+1\. Se faculta al Ministro de Trabajo y Seguridad Social para dictar cuantas disposiciones de carácter general resulten necesarias para la aplicación del presente Real Decreto.
+
+2\. La integración dispuesta en el presente Real Decreto tendrá efecto el 1 de enero de 1987.
+
+Dado en Madrid a 24 de diciembre de 1986.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Seguridad Social,
+
+MANUEL CHAVES GONZÁLEZ

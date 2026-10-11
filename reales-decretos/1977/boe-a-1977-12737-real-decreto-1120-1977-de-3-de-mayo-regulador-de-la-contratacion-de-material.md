@@ -1,0 +1,105 @@
+---
+title: "Real Decreto 1120/1977, de 3 de mayo, regulador de la contratación de material militar en el extranjero"
+identifier: "BOE-A-1977-12737"
+eli: "https://www.boe.es/eli/es/rd/1977/05/03/1120"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda"
+date: 1977-05-03
+published: 1977-05-26
+in_force_from: 1977-06-15
+last_amended: 1993-12-22
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 125"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1977-12737"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1120/1977, de 3 de mayo, regulador de la contratación de material militar en el extranjero
+
+La ejecución de los programas aprobados para satisfacer las necesidades de la Defensa Nacional y mantener en estado opetivo las Fuerzas Armadas, origina múltiples adquisiciones en el extranjero que se formalizan no sólo con Gobiernos a Entidades Públicas, sino con Empresas, siendo una de sus características peculiares, la adhesión a las normas reglamentarias estabecidas por aquellos entes y completadas por los usos y prácticas mercantiles.
+
+Las disposiciones vigentes en materia de contratación administrativa no contemplan en su totalidad las circunstancias y problemas que se plantean con motivo de las relaciones jurídicas que en determinados casos surgen, para conseguir la máxima eficacia del contenido de los tratados y acuerdos suscritos con otros Estados, tanto por el objeto del contrato, que no está dentro del tráfico usual del comercio, como por la naturaleza del contratista.
+
+La experiencia adquirida en la aplicación de la normativa vigente, pone de manifiesto la necesidad de promulgar una disposición de rango adecuado, que prevea las especiales características de estas contrataciones en el extranjero, sin merma de las garantías que la realización del gasto público merece, proporcionando a un mismo tiempo, la agilidad y eficacia que exigen las atenciones de la Defensa Nacional.
+
+En su virtud, a propuesta del Ministerio de Hacienda, con la conformidad del de Asuntos Exteriores, y a iniciativa de los Departamentos de Ejército, Marina y Aire, previa deliberación del Consejo de Ministros en su reunión del día tres de mayo de mil novecientos setenta y siete,
+
+DISPONGO:
+
+## Artículo primero.
+
+Los contratos de adquisición, suministros, conservación y reparación de material e instalaciones, así como los de prestación de servicios y asistencia técnica, destinados a cubrir las necesidades de la Defensa Nacional, que se formalicen entre la Administración Militar y un Gobierno u Organismo público extranjeros, se regirán por las disposiciones vigentes y por lo expresamente regulado en este Decreto.
+
+## Artículo segundo.
+
+Los Jefes de los Departamentos militares quedan facultados para la celebración de los contraten a que se refiere el artículo anterior, previa comunicación del contenido de los mismos a los Ministerios de Asuntos Exteriores y de Comercio y una vez aprobado el gasto correspondiente, efectuándose la adjudicación por el sistema de contratación directa. Sus expedientes tendrán la calificación de urgentes, exceptuándose de la previa declaración ministerial.
+
+## Artículo tercero.
+
+Podrán formalizarse contratos para la adquisición de repuestos o la conservación o reparación de material e instalaciones, aunque no sea posible concretar previamente con exactitud la clase y número de artículos, ni su precio unitario o los trabajos a efectuar, siempre que se determine el importe máximo y se definan las características generales de su objeto.
+
+## Artículo cuarto.
+
+Por el Ministerio de Comercio se expedirán, a favor de los Departamentos Militares interesados, las licencias o declaraciones de importación oportunas por el tiempo de duración del contrato y, en su caso, sin que sea necesaria la previa determinación detallada de las partidas de las materias a las que afecte.
+
+## Artículo quinto.
+
+Las normas y condiciones de venta reglamentariamente establecidas por el Gobierno o Entidad extranjera, serán objeto de una traducción autorizada por el Departamento militar e informadas por la Asesoría Jurídica del mismo y por el Ministerio de Asuntos Exteriores.
+
+El primero de estos informes se considerará el preceptiva reglamentario para cuantos expedientes de contratación se tramiten con sujeción a aquellas normas y condiciones. La modificación de éstas, dará lugar a la emisión de los dos informes a que se refiere el párrafo primero de este artículo, sustituyendo el de la Asesoría Jurídica del Departamento Militar al anterior de ésta a los mismos efectos.
+
+Sendos ejemplares de la traducción autorizada y del informe de la Asesoría Jurídica del Departamento militar, se remitirán a la Intervención General de la Administración del Estado y a la Intervención General del Ministerio militar.
+
+## Artículo sexto.
+
+La fiscalización previa del gasto será ejercida por el Interventor general del correspondiente Ministerio militar, siempre que su aprobación corresponda al respectivo Ministro.
+
+No obstante lo establecido en el párrafo anterior, la Intervención General de la Administración del Estado podrá evocar para sí los actos o expedientes que considere oportuno.
+
+## Artículo séptimo.
+
+Uno. **(Derogado)**
+
+Dos. Cuando las adquisiciones en el exterior exijan la apertura de créditos documentarlos, los Ministerios u Organismos interesados ingresarán directamente en el Banco de España el contravalor de las divisas a que hayan de referirse los citados créditos. El Banco de España, en base a estos depósitos, avalará, a petición de la Banca privada a través de la cual se abran los créditos documentarios, el pago de las divisas objeto de los mismos.
+
+> Se deroga el apartado 1 por la disposición derogatoria única del Real Decreto 2122/1993, de 3 de diciembre. [Ref. BOE-A-1993-30397](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-30397).
+
+## Artículo octavo.
+
+La comprobación material de la inversión se efectuará normalmente en el lugar donde se efectúe la transferencia de la propiedad y entrega de material, haciendo constar, en su caso, que se recibe sin perjuicio de los resultados del examen y pruebas a que hubiera lugar, a cuyos efectos rige la garantía establecida.
+
+## Artículo noveno.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2122/1993, de 3 de diciembre. [Ref. BOE-A-1993-30397](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-30397).
+
+## Artículo décimo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2122/1993, de 3 de diciembre. [Ref. BOE-A-1993-30397](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-30397).
+
+## Artículo undécimo.
+
+Los contratos que se celebren en territorio nacional entre la Administración militar y una Empresa privada extranjera se regirán por la legislación vigente y por lo dispuesto en el presente Decreto, sin perjuicio de lo que las partes convengan de acuerdo con las normas y usos vigentes en el comercio internacional.
+
+Cuando tales contratos, cuyo objeto sea de exclusivo interés militar, se celebren y ejecuten en el extranjero, se entienden conferidos con carácter general a los Jefes de los Departamentos militares las facultades que la legislación vigente atribuye al Ministro de Asuntos Exteriores, la cual será de aplicación en sus demás preceptos.
+
+EL Ministerio de Asuntos Exteriores será debidamente informado de los contratos a que se refiere este artículo.
+
+## Artículo duodécimo.
+
+Por los Departamentos Ministeriales a los que afecte el presente Decreto, conjuntamente con el de Hacienda, se dictarán las disposiciones complementarias precisas para su mejor desarrollo.
+
+Dado en Madrid a tres de mayo de mil novecientos setenta y siete.
+
+JUAN CARLOS
+
+El Ministro de Hacienda,
+
+EDUARDO CARRILES GALARRAGA

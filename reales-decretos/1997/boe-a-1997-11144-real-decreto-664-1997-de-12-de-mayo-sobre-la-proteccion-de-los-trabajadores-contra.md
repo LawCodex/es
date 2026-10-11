@@ -1,0 +1,1736 @@
+---
+title: "Real Decreto 664/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo"
+identifier: "BOE-A-1997-11144"
+eli: "https://www.boe.es/eli/es/rd/1997/05/12/664"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1997-05-12
+published: 1997-05-24
+in_force_from: 1997-07-24
+last_amended: 2021-11-25
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 124"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-11144"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 664/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo
+
+La Ley 31/1995, de 8 de noviembre. de Prevención de Riesgos laborales, determina el cuerpo básico de garantías y responsabilidades preciso para establecer un adecuado nivel de protección de la salud de los trabajadores frente a los riesgos derivados de las condiciones de trabajo, en el marco de una política coherente, y eficaz. Según el artículo 6 de la misma serán las normas reglamentarias las que irán fijando y concretando los aspectos más técnicos de las medidas preventivas.
+
+Así, son las normas de desarrollo reglamentario las que deben fijar las medidas mínimas que deben adoptarse para la adecuada protección de los trabajadores. Entre ellas se encuentran las destinadas a garantizar la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo.
+
+En el mismo sentido hay que tener en cuenta que, en el ámbito de la Unión Europea, se han fijado, mediante las correspondientes Directivas, criterios de carácter general sobre las acciones en materia de seguridad y salud en los centros de trabajo, así como criterios específicos referidos a medidas de protección contra accidentes y situaciones de riesgo. Concretamente, la Directiva 90/679/CEE, de 26 de noviembre, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo, establece las disposiciones específicas mínimas en este ámbito; esta Directiva fue posteriormente modificada por la Directiva 93/88/CEE, de 12 de octubre, y adaptada al progreso técnico por la Directiva 95/30/CE, de 30 de junio. Mediante el presente Real Decreto se procede a la transposición al Derecho español del contenido de las tres Directivas mencionadas.
+
+En su virtud, de conformidad con el artículo 6 de la Ley 31/1995. de 8 de noviembre, de Prevención de Riesgos Laborales, a propuesta de los Ministros de Trabajo y Asuntos Sociales y de Sanidad y Consumo, consultadas las organizaciones empresariales y sindicales más representativas. oída la Comisión Nacional de Seguridad y de Salud en el Trabajo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 9 de mayo de 1997,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto y ámbito de aplicación.
+
+1\. El presente Real Decreto tiene por objeto, en el marco de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, la protección de los trabajadores contra los riesgos para su salud y su seguridad derivados de la exposición a agentes biológicos durante el trabajo, así como la prevención de dichos riesgos.
+
+2\. Mediante el presente Real Decreto se establecen las disposiciones mínimas aplicables a las actividades en las que los trabajadores estén o puedan estar expuestos a agentes biológicos debido a la naturaleza de su actividad laboral.
+
+3\. Las disposiciones del Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, se aplicarán plenamente al conjunto del ámbito contemplado en el apartado anterior, sin perjuicio de las disposiciones más rigurosas o específicas previstas en el presente Real Decreto.
+
+4\. El presente Real Decreto será aplicable sin perjuicio de lo dispuesto en la Ley 15/1994, de 3 de junio, por la que se establece el régimen jurídico de la utilización confinada, liberación voluntaria y comercialización de organismos modificados genéticamente, a fin de prevenir los riesgos para la salud humana y medio ambiente.
+
+### Artículo 2. Definiciones.
+
+A efectos del presente Real Decreto se entenderá por:
+
+a) Agentes biológicos: microorganismos, con inclusión de los genéticamente modificados, cultivos celulares y endoparásitos humanos, susceptibles de originar cualquier tipo de infección, alergia o toxicidad.
+
+b) Microorganismo: toda entidad microbiológica, celular o no, capaz de reproducirse o de transferir material genético.
+
+c) Cultivo celular: el resultado del crecimiento «in vitro» de células obtenidas de organismos multicelulares.
+
+### Artículo 3. Clasificación de los agentes biológicos.
+
+1\. A efectos de lo dispuesto en el presente Real Decreto, los agentes biológicos se clasifican, en función del riesgo de infección, en cuatro grupos:
+
+a) Agente biológico del grupo 1: aquél que resulta poco probable que cause una enfermedad en el hombre.
+
+b) Agente biológico del grupo 2: aquél que puede causar una enfermedad en el hombre y puede suponer un peligro para los trabajadores, siendo poco probable que se propague a la colectividad y existiendo generalmente profilaxis o tratamiento eficaz.
+
+c) Agente biológico del grupo 3: aquél que puede causar una enfermedad grave en el hombre y presenta un serio peligro para los trabajadores, con riesgo de que se propague a la colectividad y existiendo generalmente una profilaxis o tratamiento eficaz.
+
+d) Agente biológico del grupo 4: aquél que causando una enfermedad grave en el hombre supone un seno peligro para los trabajadores, con muchas probabilidades de que se propague a la colectividad y sin que exista generalmente una profilaxis o un tratamiento eficaz.
+
+2\. En el anexo II de este Real Decreto se presenta una lista de agentes biológicos, clasificados en los grupos 2, 3, ó 4, siguiendo el criterio expuesto en el apartado anterior. Para ciertos agentes se proporcionan también informaciones adicionales de utilidad preventiva.
+
+Para la correcta utilización de la citada lista, deberán tenerse en cuenta las notas introductorias contenidas en dicho anexo.
+
+## CAPÍTULO II — Obligaciones del empresario
+
+### Artículo 4. Identificación y evaluación de riesgos.
+
+1\. De acuerdo con lo dispuesto en el artículo 2 del Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, identificados uno o más riesgos relacionados con la exposición a agentes biológicos durante el trabajo, se procederá, para aquellos que no hayan podido evitarse, a evaluar los mismos determinando la naturaleza, el grado y duración de la exposición de los trabajadores.
+
+Cuando se trate de trabajos que impliquen la exposición a varias categorías de agentes biológicos, los riesgos se evaluarán basándose en el peligro que supongan todos los agentes biológicos presentes.
+
+2\. Esta evaluación deberá repetirse periódicamente y, en cualquier caso, cada vez que se produzca un cambio en las condiciones que pueda afectar a la exposición de los trabajadores a agentes biológicos.
+
+Asimismo se procederá a una nueva evaluación del riesgo cuando se haya detectado en algún trabajador una infección o enfermedad que se sospeche que sea consecuencia de una exposición a agentes biológicos en el trabajo.
+
+3\. La evaluación mencionada en el apartado anterior se efectuará teniendo en cuenta toda la información disponible y, en particular:
+
+a) La naturaleza de los agentes biológicos a los que estén e puedan estar expuestos los trabajadores y el grupo a que pertenecen, de acuerdo con la tabla y criterios de clasificación contenidos en el anexo II. Si un agente no consta en la tabla, el empresario, previa consulta a los representantes de los trabajadores, deberá estimar su riesgo de infección teniendo en cuenta las definiciones previstas en el primer apartado del artículo 3 del presente Real Decreto, a efectos de asimilarlo provisionalmente a los incluidos en uno de los cuatro grupos previstos en el mismo. En caso de duda entre dos grupos deberá considerarse en el de peligrosidad superior.
+
+b) Las recomendaciones de las autoridades sanitarias sobre la conveniencia de controlar el agente biológico a fin de proteger la salud de los trabajadores que estén o puedan estar expuestos a dicho agente en razón de su trabajo.
+
+c) La información sobre las enfermedades susceptibles de ser contraídas por los trabajadores como resultado de su actividad profesional.
+
+d) Los efectos potenciales, tanto alérgicos como tóxicos, que puedan derivarse de la actividad profesional de los trabajadores.
+
+e) El conocimiento de una enfermedad que se haya detectado en un trabajador y que esté directamente ligada a su trabajo.
+
+f) El riesgo adicional para aquellos trabajadores especialmente sensibles en función de sus características personales o estado biológico conocido, debido a circunstancias tales como patologías previas, medicación, trastornos inmunitarios, embarazo o lactancia.
+
+4\. Si los resultados de la evaluación muestran que la exposición o la posible exposición se refiere a un agente biológico del grupo 1 que no presente un riesgo conocido para la salud de los trabajadores, no resultarán de aplicación los artículos 5 a 15 de este Real Decreto. No obstante, se observará lo dispuesto en el apartado 1 de la observación preliminar del anexo V .
+
+5\. Si los resultados de la evaluación revelan que la actividad no implica la intención deliberada de manipular agentes biológicos o de utilizarlos en el trabajo pero puede provocar la exposición de los trabajadores a dichos agentes, se aplicarán las disposiciones de los artículos 5 al 13 de este Real Decreto, salvo que los resultados de la evaluación lo hiciesen innecesario.
+
+6\. El anexo 1 de este Real Decreto contiene una lista indicativa de actividades en las que podría resultar de aplicación lo dispuesto en el apartado anterior.
+
+### Artículo 5. Sustitución de agentes biológicos.
+
+Teniendo en cuenta la información técnica y científica disponible, el empresario, cuando la naturaleza de la actividad lo permita, evitará la utilización de agentes biológicos peligrosos mediante su sustitución por otros agentes que, en función de las condiciones de utilización, no sean peligrosos para la seguridad o salud de los trabajadores, o lo sean en menor grado.
+
+### Artículo 6. Reducción de los riesgos.
+
+1\. Si los resultados de la evaluación a que se refiere el artículo 4 pusieran de manifiesto un riesgo para la seguridad y la salud de los trabajadores por exposición a agentes biológicos, deberá evitarse dicha exposición. Cuando ello no resulte factible por motivos técnicos, habida cuenta de la actividad desarrollada, se reducirá el riesgo de exposición al nivel más bajo posible para garantizar adecuadamente la seguridad y la salud de los trabajadores afectados, en particular por medio de las siguientes medidas:
+
+a) Establecimiento de procedimientos de trabajo adecuados y utilización de medidas técnicas apropiadas para evitar o minimizar la liberación de agentes biológicos en el lugar de trabajo.
+
+b) Reducción, al mínimo posible, del número de trabajadores que estén o puedan estar expuestos.
+
+c) Adopción de medidas seguras para la recepción, manipulación y transporte de los agentes biológicos dentro del lugar de trabajo.
+
+d) Adopción de medidas de protección colectiva o, en su defecto, de protección individual, cuando la exposición no pueda evitarse por otros medios.
+
+e) Utilización de medios seguros para la recogida, almacenamiento y evacuación de residuos por los trabajadores, incluido el uso de recipientes seguros e identificables, previo tratamiento adecuado si fuese necesario.
+
+f) Utilización de medidas de higiene que eviten o dificulten la dispersión del agente biológico fuera del lugar de trabajo.
+
+g) Utilización de una señal de peligro biológico como la indicada en el anexo III de este Real Decreto, así como de otras señales de advertencia pertinentes.
+
+h) Establecimiento de planes para hacer frente a accidentes de los que puedan derivarse exposiciones a agentes biológicos.
+
+i) Verificación, cuando sea necesaria y técnicamente posible, de la presencia de los agente biológicos utilizados en el trabajo fuera del confinamiento físico primario.
+
+2\. La evaluación de riesgos a que se refiere el artículo 4 deberá identificar a aquellos trabajadores para los que pueda ser necesario aplicar medidas especiales de protección.
+
+### Artículo 7. Medidas higiénicas.
+
+1\. En todas las actividades en las que exista riesgo para la salud o seguridad de los trabajadores corno consecuencia del trabajo con agentes biológicos, el empresario deberá adoptar las medidas necesarias para:
+
+a) Prohibir que los trabajadores coman, beban o fumen en las zonas de trabajo en las que exista dicho riesgo.
+
+b) Proveer a los trabajadores de prendas de protección apropiadas o de otro tipo de prendas especiales adecuadas.
+
+c) Disponer de retretes y cuartos de aseo apropiados y adecuados para uso de los trabajadores, que incluyan productos para la limpieza ocular y antisépticos para la piel.
+
+d) Disponer de un lugar determinado para el almacenamiento adecuado de los equipos de protección y verificar que se limpian y se comprueba su buen funcionamiento, si fuera posible con anterioridad y, en todo caso, después de cada utilización, reparando o sustituyendo los equipos defectuosos antes de un nuevo uso.
+
+e) Especificar los procedimientos de obtención, manipulación y procesamiento de muestras de origen humano o animal.
+
+2\. Los trabajadores dispondrán, dentro de la jornada laboral, de diez minutos para su aseo personal antes de la comida y otros diez minutos antes de abandonar el trabajo.
+
+3\. Al salir de la zona de trabajo, el trabajador deberá quitarse las ropas de trabajo y los equipos de protección personal que puedan estar contaminados por agentes biológicos y deberá guardarlos en lugares que no contengan otras prendas.
+
+4\. El empresario se responsabilizará del lavado, descontaminación y, en caso necesario, destrucción de la ropa de trabajo y los equipos de protección a que se refiere el apartado anterior, quedando rigurosamente prohibido que los trabajadores se lleven los mismos a su domicilio para tal fin. Cuando contratase tales operaciones con empresas idóneas al efecto, estará obligado a asegurar que la ropa y los equipos se envíen en recipientes cerrados y etiquetados con las advertencias precisas.
+
+5\. De acuerdo con el apartado 5 del artículo 14 de la Ley de Prevención de Riesgos Laborales, el coste de las medidas relativas a la seguridad y la salud en el trabajo establecidas por el presente Real Decreto no deberá recaer, en modo alguno, sobre los trabajadores.
+
+### Artículo 8. Vigilancia de la salud de los trabajadores.
+
+1\. El empresario garantizará una vigilancia adecuada y específica de la salud de los trabajadores en relación con los riesgos por exposición a agentes biológicos, realizada por personal sanitario competente, según determinen las autoridades sanitarias en las pautas y protocolos que se elaboren, de conformidad con lo dispuesto en el apartado 3 del artículo 37 del Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención. Dicha vigilancia deberá ofrecerse a los trabajadores en las siguientes ocasiones:
+
+a) Antes de la exposición.
+
+b) A intervalos regulares en lo sucesivo, con la periodicidad que los conocimientos médicos aconsejen, considerando el agente biológico, el tipo de exposición y la existencia de pruebas eficaces de detección precoz.
+
+c) Cuando sea necesario por haberse detectado en algún trabajador, con exposición similar, una infección o enfermedad que pueda deberse a la exposición a agentes biológicos.
+
+2\. Los trabajadores podrán solicitar la revisión de los resultados de la vigilancia de su salud.
+
+3\. Cuando exista riesgo por exposición a agentes biológicos para los que haya vacunas eficaces, éstas deberán ponerse a disposición de los trabajadores, informándoles de las ventajas e inconvenientes de la vacunación. Cuando los empresarios ofrezcan las vacunas deberán tener en cuenta las recomendaciones prácticas contenidas en el anexo VI de este Real Decreto.
+
+Lo dispuesto en el párrafo anterior será también de aplicación en relación con otras medidas de preexposición eficaz que permitan realizar una adecuada prevención primaria.
+
+El ofrecimiento al trabajador de la medida correspondiente, y su aceptación de la misma, deberán constar por escrito.
+
+4\. El Médico encargado de la vigilancia de la salud de los trabajadores deberá estar familiarizado, en la medida de lo posible, con las condiciones o las circunstancias de exposición de cada uno de los trabajadores. En cualquier caso, podrá proponer medidas individuales de prevención o de protección para cada trabajador en particular.
+
+5\. Deberá llevarse un historial médico individual de los trabajadores objeto de vigilancia sanitaria.
+
+6\. Se aconsejará e informará a los trabajadores en lo relativo a cualquier control médico que sea pertinente efectuar con posterioridad al cese de la exposición. En particular, resultará de aplicación a dichos trabajadores lo establecido en el párrafo e) del apartado 3 del artículo 37 del Real Decreto 39/1997, de 17 de enero. por el que se aprueba el Reglamento de los Servicios de Prevención, en materia de vigilancia de la salud más allá de la finalización de la relación laboral.
+
+### Artículo 9. Documentación.
+
+1\. El empresario está obligado a disponer de:
+
+a) La documentación sobre los resultados de la evaluación a que se refiere el artículo 4, así como los criterios y procedimientos de evaluación y los métodos de medición, análisis o ensayo utilizados.
+
+b) Una lista de los trabajadores expuestos en la empresa a agentes biológicos de los grupos 3 y 4, indicando el tipo de trabajo efectuado y el agente biológico al que hayan estado expuestos, así como un registro de las correspondientes exposiciones, accidentes e incidentes.
+
+2\. El empresario deberá adoptar las medidas necesarias para la conservación de un registro de los historiales médicos individuales previstos en el apartado 5 del artículo 8 del presente Real Decreto, sin perjuicio de lo dispuesto en el artículo 22 de la Ley de Prevención de Riesgos Laborales.
+
+3\. La lista de los trabajadores expuestos y los historiales médicos deberán conservarse durante un plazo mínimo de diez años después de finalizada la exposición; este plazo se ampliará hasta cuarenta años en caso de exposiciones que pudieran dar lugar a una infección en la que concurran alguna de las siguientes características:
+
+a) Debida a agentes biológicos con capacidad conocida de provocar infecciones persistentes o latentes.
+
+b) Que no sea diagnosticable con los conocimientos actuales, hasta la manifestación de la enfermedad muchos años después.
+
+c) Cuyo período de incubación, previo a la manifestación de la enfermedad, sea especialmente prolongado.
+
+d) Que dé lugar a una enfermedad con fases de recurrencia durante un tiempo prolongado, a pesar del tratamiento.
+
+d) Que pueda tener secuelas importantes a largo plazo.
+
+4\. La documentación a que se refiere el párrafo b) del apartado 1 será adicional a la que el empresario deberá elaborar de acuerdo con el artículo 23 de la Ley de Prevención de Riesgos Laborales y estará sujeta al mismo régimen jurídico que ésta, en especial en lo que se refiere a su puesta a disposición de las autoridades laboral y sanitaria, y al acceso y confidencialidad de la información.
+
+5\. El tratamiento automatizado de datos personales sólo podrá realizarse en los términos previstos en la Ley Orgánica 5/1992, de 29 de octubre, de Regulación del Tratamiento Automatizado de los Datos de Carácter Personal.
+
+### Artículo 10. Notificación a la autoridad laboral.
+
+1\. La utilización, por primera vez, de agentes biológicos de los grupos 2, 3 ó 4 deberá notificarse con carácter previo a la autoridad laboral con una antelación mínima de treinta días al inicio de los trabajos.
+
+Asimismo, se notificará, previamente, la utilización, por primera vez, de cualquier otro agente biológico del grupo 4, así como de cualquier nuevo agente biológico que haya sido asimilado provisionalmente por el empresario a los del grupo 3, de acuerdo con lo dispuesto en el párrafo a) del apartado 3 del artículo 4.
+
+2\. No obstante, a los laboratorios que efectúen servicios de diagnóstico relacionados con agentes biológicos del grupo 4 se les exigirá únicamente la notificación inicial de tal propósito.
+
+3\. La notificación a que se refiere el presente artículo incluirá:
+
+a) El nombre y la dirección de la empresa o centro de trabajo.
+
+b) El nombre y la formación de la persona o personas con responsabilidades en materia de prevención en la empresa.
+
+c) El resultado de la evaluación mencionada en el artículo 4.
+
+d) La especie del agente biológico.
+
+e) Las medidas de prevención y protección previstas.
+
+4\. Se efectuará una nueva notificación siempre que se introduzcan cambios sustanciales en los procesos o procedimientos de trabajo cuyas repercusiones en las condiciones de seguridad y salud invaliden la notificación anterior.
+
+### Artículo 11. Información a las autoridades competentes.
+
+1\. El empresario tendrá a disposición de las autoridades laboral y sanitaria la documentación relativa a los resultados de la evaluación a que se refiere el artículo 4 de este Real Decreto, incluyendo la naturaleza, grado y duración de la exposición, así corno los criterios y procedimientos de evaluación y los métodos de medición, análisis o ensayo que hayan sido utilizados.
+
+2\. Cuando dicha evaluación ponga de manifiesto que existen riesgos para la seguridad o salud de los trabajadores, el empresario informará a las autoridades laboral o sanitaria que lo soliciten, sobre:
+
+a) Las actividades en las que los trabajadores hayan estado o podido estar expuestos a agentes biológicos.
+
+b) El número de trabajadores expuestos.
+
+c) El nombre y la formación de la persona o personas con responsabilidades en materia de prevención en la empresa.
+
+d) Las medidas de prevención y de protección adoptadas, incluyendo los procedimientos y métodos de trabajo.
+
+e) Un plan de emergencia para la protección de los trabajadores frente a una exposición a un agente biológico de los grupos 3 ó 4, en caso de fallo de la contención física.
+
+3\. El empresario informará inmediatamente a las autoridades laboral y sanitaria de cualquier accidente o incidente que haya podido provocar la liberación de cualquier agente biológico y que pueda causar una grave infección o enfermedad en el hombre.
+
+4\. Se comunicarán a las autoridades laboral y sanitaria todos los casos de enfermedad o fallecimiento que se hayan identificado como resultantes de una exposición profesional a agentes biológicos.
+
+5\. La lista mencionada en el párrafo h) del apartado 1 del artículo 9 y los historiales médicos a que se refiere el apartado 5 del artículo 8 deberán remitirse a la autoridad laboral en caso de que la empresa cese en su actividad.
+
+Los historiales médicos serán remitidos por la autoridad laboral a la sanitaria, quien los conservará, garantizándose, en todo caso, la confidencialidad de la información en ellos contenida. En ningún caso la autoridad laboral conservará copia de los citados historiales.
+
+### Artículo 12. Información y formación de los trabajadores.
+
+1\. Sin perjuicio del artículo 18 de la Ley de Prevención de Riesgos Laborales, el empresario adoptará las medidas adecuadas para que los trabajadores y los representantes de los trabajadores sean informados sobre cualquier medida relativa a la seguridad y la salud que se adopte en cumplimiento del presente Real Decreto. Asimismo, el empresario tomará las medidas apropiadas para garantizar que los trabajadores y los representantes de los trabajadores reciban una formación suficiente y adecuada e información precisa basada en todos los datos disponibles, en particular en forma de instrucciones, en relación con:
+
+a) Los riesgos potenciales para la salud.
+
+b) Las precauciones que deberán tomar para prevenir la exposición.
+
+c) Las disposiciones en materia de higiene.
+
+d) La utilización y empleo de ropa y equipos de protección individual.
+
+e) Las medidas que deberán adoptar los trabajadores en el caso de incidentes y para la prevención de éstos.
+
+2\. Dicha formación deberá:
+
+a) Impartirse cuando el trabajador se incorpore a un trabajo que suponga un contacto con agentes biológicos.
+
+b) Adaptarse a la aparición de nuevos riesgos y a su evolución.
+
+c) Repetirse periódicamente si fuera necesario.
+
+3\. El empresario dará instrucciones escritas en el lugar de trabajo y, si procede, colocará avisos que contengan, como mínimo, el procedimiento que habrá de seguirse:
+
+a) En caso de accidente o incidente graves que impliquen la manipulación de un agente biológico.
+
+b) En caso de manipulación de un agente biológico del grupo 4.
+
+4\. Los trabajadores comunicarán inmediatamente cualquier accidente o incidente que implique la manipulación de un agente biológico a su superior jerárquico directo y a la persona o personas con responsabilidades en materia de prevención en la empresa.
+
+5\. El empresario informará inmediatamente a los trabajadores y a sus representantes de cualquier accidente o incidente que hubiese provocado la liberación de un agente biológico capaz de causar una grave infección o enfermedad en el hombre.
+
+Además, el empresario informará, lo antes posible, a los trabajadores y a sus representantes de cualquier accidente o incidente grave, de su causa y de las medidas adoptadas, o que se vayan a adoptar, para remediar tal situación.
+
+6\. Los trabajadores tendrán acceso a la información contenida en la documentación a que se refiere el párrafo b) del apartado 1 del artículo 9 cuando dicha información les concierna a ellos mismos.
+
+Asimismo, los representantes de los trabajadores o, en su defecto, los propios trabajadores tendrán acceso a cualquier información colectiva anónima.
+
+A petición de los representantes de los trabajadores o, en su defecto, de los propios trabajadores el empresario les suministrará la información prevista en los apartados 1 y 2 del artículo 11.
+
+### Artículo 13. Consulta y participación de los trabajadores.
+
+La consulta y participación de los trabajadores o sus representantes sobre las cuestiones a que se refiere este Real Decreto se realizarán de conformidad con lo dispuesto en el apartado 2 del artículo 18 de la Ley de Prevención de Riesgos Laborales.
+
+## CAPÍTULO III — Disposiciones varias
+
+### Artículo 14. Establecimientos sanitarios y veterinarios distintos de los laboratorios de diagnóstico.
+
+1\. Sin perjuicio de lo dispuesto en los capítulos anteriores del presente Real Decreto, en el caso de los establecimientos sanitarios y veterinarios distintos de los laboratorios de diagnóstico, la evaluación a que se refiere el artículo 4 deberá tener especialmente en cuenta los riesgos inherentes a las actividades desarrolladas en los mismos y, particularmente, la incertidumbre acerca de la presencia de agentes biológicos en el organismo de pacientes humanos, de animales, o de materiales o muestras procedentes de éstos, y el peligro que tal presencia podría suponer.
+
+2\. Se tomarán medidas apropiadas en dichos servicios para garantizar de modo adecuado la protección sanitaria y la seguridad de los trabajadores afectados.
+
+Dichas medidas comprenderán en particular:
+
+a) La especificación de procedimientos apropiados de descontaminación y desinfección, y
+
+b) La aplicación de procedimientos que permitan manipular y eliminar sin riesgos los residuos contaminados.
+
+3\. En los servicios de aislamiento en que se encuentren pacientes o animales que estén o que se sospeche que estén contaminados por agentes biológicos de los grupos 3 ó 4 se seleccionarán medidas de contención de entre las que figuran en la columna A del anexo IV de este Real Decreto, con objeto de minimizar el riesgo de infección.
+
+### Artículo 15. Medidas especiales aplicables a los procedimientos industriales, a los laboratorios y a los locales para animales.
+
+1\. Sin perjuicio de lo dispuesto en los capítulos anteriores del presente Real Decreto, en los laboratorios, incluidos los laboratorios de diagnóstico e investigación, y en los locales destinados a animales de laboratorio, deliberadamente contaminados por agentes biológicos de los grupos 2, 3 ó 4 o que sean o se sospeche que son portadores de estos agentes, se tomarán las medidas adecuadas de conformidad con lo dispuesto en los apartados siguientes:
+
+a) Los laboratorios que emprendan trabajos que impliquen la manipulación de agentes biológicos de los grupos 2, 3 ó 4 con fines de investigación, desarrollo, enseñanza o diagnóstico deberán establecer medidas de contención de conformidad con el anexo IV de este Real Decreto, a fin de reducir al mínimo el riesgo de infección.
+
+b) En función del resultado de la evaluación a que se refiere el artículo 4, se deberán tornar medidas de conformidad con el anexo IV de este Real Decreto, después de que haya sido fijado el nivel de contención física requerido para los agentes biológicos en función del grado de riesgo.
+
+Las actividades que supongan la manipulación de un agente biológico se ejecutarán:
+
+1.° Únicamente en zonas de trabajo que correspondan por lo menos al nivel 2 de contención, para un agente biológico del grupo 2.
+
+2.° Únicamente en zonas de trabajo que correspondan por lo menos al nivel 3 de contención, para un agente biológico, del grupo 3.
+
+3.° Únicamente en zonas de trabajo que correspondan por lo menos al nivel 4 de contención, para un agente biológico del grupo 4.
+
+c) Los laboratorios que manipulen materiales con respecto a los cuales exista incertidumbre acerca de la presencia de agentes biológicos que puedan causar una enfermedad en el hombre, pero que no tengan como objetivo trabajar con ellos corno tales, cultivándolos o concentrándolos, deberían adoptar, al menos, el nivel 2 de contención. Deberán utilizarse los niveles 3 y 4, cuando proceda, siempre que se sepa o sospeche que son necesarios, salvo cuando las líneas directrices establecidas por las autoridades sanitarias indiquen que, en algunos casos, conviene un nivel de contención menor.
+
+2\. Sin perjuicio de lo dispuesto en los capítulos anteriores del presente Real Decreto, en los procedimientos industriales que utilicen agentes biológicos de los grupos 2, 3 ó 4 deberán tomarse las medidas adecuadas de conformidad con lo dispuesto en los apartados siguientes:
+
+a) Los principios en materia de contención expuestos en el segundo párrafo de el párrafo b) del apartado 1 deben aplicarse basándose en las medidas concretas y procedimientos adecuados que figuran en el anexo V de este Real Decreto.
+
+b) En función del resultado de la evaluación del riesgo vinculado al empleo de agentes biológicos de los grupos 2, 3 ó 4, las autoridades laboral y sanitaria, en el ámbito de sus respectivas competencias, podrán decidir las medidas adecuadas que deberán aplicarse para el uso industrial de tales agentes biológicos.
+
+c) Todas las actividades reguladas por el presente artículo en las que no haya sido posible proceder a una evaluación concluyente de un agente biológico, pero de cuya utilización prevista parezca que puede derivarse un riesgo grave para la salud de los trabajadores, únicamente podrán realizarse en locales de trabajo cuyo nivel de contención corresponda, al menos, al nivel 3.
+
+### Disposición adicional única. Remisión de documentación e información a las autoridades sanitarias.
+
+Las autoridades laborales remitirán a las autoridades sanitarias copia de cuanta documentación e información reciban de las empresas de conformidad con lo dispuesto en los artículos 9, 10 y 11 de este Real Decreto.
+
+### Disposición transitoria única. Notificación a la autoridad laboral.
+
+Las empresas o centros de trabajo que en el momento de la entrada en vigor del presente Real Decreto utilicen agentes biológicos de los grupos 2, 3 ó 4 notificarán a la autoridad laboral tal utilización en el plazo de tres meses a partir de la entrada en vigor del presente Real Decreto.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este Real Decreto y expresamente los artículos 138 y 139 de la Ordenanza General de Seguridad e Higiene en el Trabajo, aprobada por Orden de 9 de marzo de 1971, en lo relativo a los riesgos relacionados con la exposición a agentes biológicos durante el trabajo.
+
+### Disposición final primera. Elaboración y actualización de la Guía Técnica de Riesgos.
+
+El Instituto Nacional de Seguridad e Higiene en el Trabajo, de acuerdo con lo dispuesto en el apartado 3 del artículo 5 del Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, elaborará y mantendrá actualizada una Guía Técnica, de carácter no vinculante, para la evaluación de los riesgos relacionados con la exposición u agentes biológicos durante el trabajo.
+
+### Disposición final segunda. Facultades de aplicación y desarrollo.
+
+Se autoriza al Ministro de Trabajo y Asuntos Sociales, previo informe favorable del de Sanidad y Consumo, y previo informe de la Comisión Nacional de Seguridad y Salud en el Trabajo, a dictar cuantas disposiciones sean necesarias para la aplicación y desarrollo de este Real Decreto, así corno para las adaptaciones de carácter estrictamente técnico de sus anexos en función del progreso técnico y de la evolución de las normativas o especificaciones internacionales o de los conocimientos en materia de agentes biológicos.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor a los dos meses de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 12 de mayo de 1997.
+
+JUAN CARLOS R.
+
+EI Vicepresidente Primero del Gobierno
+
+y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+## ANEXO I — Lista indicativa de actividades
+
+Nota previa:
+
+Cuando la evaluación de riesgos muestre una exposición no intencionada a agentes biológicos, puede ser necesario tomar en consideración otras actividades no incluidas en el presente anexo.
+
+1\. Trabajos en centros de producción de alimentos.
+
+2\. Trabajos agrarios.
+
+3\. Actividades en las que existe contacto con animales o con productos de origen animal.
+
+4\. Trabajos de asistencia sanitaria, comprendidos los desarrollados en servicios de aislamiento y de anatomía patológica.
+
+5\. Trabajos en laboratorios clínicos, veterinarios, de diagnóstico y de investigación, con exclusión de los laboratorios de diagnóstico microbiológico.
+
+6\. Trabajos en unidades de eliminación de residuos.
+
+7\. Trabajos en instalaciones depuradoras de aguas residuales.
+
+> Se sustituye por el art. único.1 de la Orden TES/1287/2021, de 22 de noviembre. [Ref. BOE-A-2021-19371](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19371)
+
+## ANEXO II — Clasificación de los agentes biológicos
+
+Notas introductorias:
+
+1\. Conforme al ámbito de aplicación de este real decreto, solo deben incluirse en la clasificación los agentes que se sabe causan enfermedades infecciosas en los seres humanos.
+
+Cuando sea preciso, se añadirán indicaciones del riesgo tóxico y alergénico de los agentes.
+
+No se han tenido en consideración los agentes patógenos para animales y plantas que se sabe no afectan a los seres humanos.
+
+En la elaboración de esta lista de agentes biológicos clasificados no se han tenido en cuenta los microorganismos genéticamente modificados.
+
+2\. La clasificación de los agentes biológicos se basa en el efecto de dichos agentes sobre los trabajadores sanos.
+
+No se tienen en cuenta de manera específica los efectos particulares sobre trabajadores cuya sensibilidad pueda verse afectada por alguna causa, como patología previa, medicación, trastornos inmunitarios, embarazo o lactancia.
+
+El riesgo adicional para dichos trabajadores debe considerarse parte de la evaluación del riesgo establecida por el real decreto.
+
+En determinados procedimientos industriales, trabajos de laboratorio y actividades en locales destinados a animales que suponen o pueden suponer la exposición de los trabajadores a agentes biológicos de los grupos 3 o 4, las medidas de prevención técnica que se tomen deberán ser conformes con lo dispuesto en el artículo 15 de este real decreto.
+
+3\. Los agentes biológicos que no han sido clasificados en los grupos 2 a 4 de esta lista no están implícitamente clasificados en el grupo 1.
+
+En el caso de los géneros que comprenden numerosas especies de conocida patogenicidad para el ser humano, la lista recoge las especies que se ven más frecuentemente involucradas en enfermedades, y una referencia de orden más general indica que otras especies pertenecientes al mismo género pueden afectar a la salud.
+
+Cuando en la clasificación de agentes biológicos se menciona un género entero, se entenderá que las especies y cepas calificadas de no patógenas para los trabajadores quedan excluidas de la clasificación.
+
+4\. Cuando una cepa esté atenuada o haya perdido genes de virulencia bien conocidos, no será necesariamente aplicable la contención requerida por la clasificación de su cepa madre, a condición de que se efectúe una evaluación adecuada del riesgo potencial que presenta en el lugar de trabajo.
+
+Este es el caso, por ejemplo, cuando dicha cepa vaya a utilizarse como producto o parte de un producto con fines profilácticos o terapéuticos.
+
+5\. La nomenclatura de los agentes clasificados utilizada para establecer esta primera clasificación refleja y es conforme a los acuerdos internacionales más recientes y vigentes sobre taxonomía y nomenclatura de agentes en el momento de su elaboración.
+
+6\. Esta lista de agentes biológicos clasificados refleja el estado de los conocimientos en el momento de su preparación.
+
+Deberá actualizarse cada vez que deje de reflejar el estado de los conocimientos.
+
+7\. Las autoridades sanitarias velarán por que todos los virus que ya hayan sido aislados en humanos y que no hayan sido evaluados y clasificados en el presente anexo se clasifiquen como mínimo en el grupo 2, salvo que puedan demostrar que es improbable que provoquen enfermedades en las personas.
+
+8\. Algunos agentes biológicos clasificados en el grupo 3 e indicados en la lista adjunta con dos asteriscos (**) pueden presentar un riesgo de infección limitado para los trabajadores debido a que normalmente no son infecciosos a través del aire.
+
+Las autoridades sanitarias evaluarán las medidas de contención aplicables a dichos agentes habida cuenta de la naturaleza de las actividades específicas en cuestión y de la cantidad del agente biológico de que se trate, a fin de determinar si en circunstancias particulares se puede prescindir de algunas de estas medidas.
+
+9\. Los imperativos en materia de contención que se derivan de la clasificación de los parásitos se aplicarán únicamente a las distintas etapas del ciclo de vida del parásito que puedan ser infecciosas para las personas en el lugar de trabajo.
+
+10\. Esta lista contiene además indicaciones específicas respecto de los casos en que los agentes biológicos pueden causar reacciones alérgicas o tóxicas, cuando una vacuna eficaz está disponible o cuando es conveniente conservar durante más de diez años las listas de los trabajadores que han estado expuestos.
+
+Estas indicaciones están sistematizadas en una serie de notas identificadas como sigue:
+
+A: Posibles efectos alérgicos.
+
+D: La lista de los trabajadores expuestos a este agente biológico deberá conservarse durante más de diez años a partir de la última exposición de la que se tenga noticia.
+
+T: Producción de toxinas.
+
+V: Vacuna eficaz disponible y registrada en la UE.
+
+Las vacunaciones preventivas se deberán realizar teniendo en cuenta las recomendaciones prácticas que figuran en el anexo VI.
+
+**Bacterias y afines**
+
+Nota: Para los agentes biológicos que figuran en esta lista, la entrada correspondiente al género entero con la mención “spp.” hace referencia a otras especies pertenecientes a este género que no han sido incluidas específicamente en la lista, pero de las que se sabe que son patógenos humanos. Encontrará más detalles en la nota introductoria 3.
+
+| Agente biológico | Clasificación | Notas |
+|---|---|---|
+| *Actinomadura madurae.* | 2 |  |
+| *Actinomadura pelletieri.* | 2 |  |
+| *Actinomyces gerencseriae.* | 2 |  |
+| *Actinomyces israelii.* | 2 |  |
+| *Actinomyces* spp. | 2 |  |
+| *Aggregatibacter actinomycetemcomitans (Actinobacillus actinomycetemcomitans).* | 2 |  |
+| *Anaplasma* spp. | 2 |  |
+| *Arcanobacterium haemolyticum (Corynebacterium haemolyticum).* | 2 |  |
+| *Arcobacter butzleri.* | 2 |  |
+| *Bacillus anthracis.* | 3 | T |
+| *Bacteroides fragilis.* | 2 |  |
+| *Bacteroides* spp. | 2 |  |
+| *Bartonella bacilliformis.* | 2 |  |
+| *Bartonella quintana (Rochalimaea quintana).* | 2 |  |
+| *Bartonella (Rochalimaea)* spp. | 2 |  |
+| *Bordetella bronchiseptica.* | 2 |  |
+| *Bordetella parapertussis.* | 2 |  |
+| *Bordetella pertussis.* | 2 | T, V |
+| *Bordetella* spp. | 2 |  |
+| *Borrelia burgdorferi.* | 2 |  |
+| *Borrelia duttonii.* | 2 |  |
+| *Borrelia recurrentis.* | 2 |  |
+| *Borrelia* spp. | 2 |  |
+| *Brachyspira* spp. | 2 |  |
+| *Brucella abortus.* | 3 |  |
+| *Brucella canis.* | 3 |  |
+| *Brucella inopinata.* | 3 |  |
+| *Brucella melitensis.* | 3 |  |
+| *Brucella suis.* | 3 |  |
+| *Burkholderia cepacia.* | 2 |  |
+| *Burkholderia mallei (Pseudomonas mallei).* | 3 |  |
+| *Burkholderia pseudomallei (Pseudomonas pseudomallei).* | 3 | D |
+| *Campylobacter fetus* subsp. *fetus.* | 2 |  |
+| *Campylobacter fetus* subsp. *venerealis.* | 2 |  |
+| *Campylobacter jejuni* subsp. *doylei.* | 2 |  |
+| *Campylobacter jejuni* subsp. *jejuni.* | 2 |  |
+| *Campylobacter* spp. | 2 |  |
+| *Cardiobacterium hominis.* | 2 |  |
+| *Cardiobacterium valvarum.* | 2 |  |
+| *Chlamydia abortus (Chlamydophila abortus).* | 2 |  |
+| *Chlamydia caviae (Chlamydophila caviae).* | 2 |  |
+| *Chlamydia felis (Chlamydophila felis).* | 2 |  |
+| *Chlamydia pneumoniae (Chlamydophila pneumoniae).* | 2 |  |
+| *Chlamydia psittaci (Chlamydophila psittaci)* (cepas aviares). | 3 |  |
+| *Chlamydia psittaci (Chlamydophila psittaci)* (otras cepas). | 2 |  |
+| *Chlamydia trachomatis (Chlamydophila trachomatis).* | 2 |  |
+| *Clostridium botulinum.* | 2 | T |
+| *Clostridium difficile.* | 2 | T |
+| *Clostridium perfringens.* | 2 | T |
+| *Clostridium tetani.* | 2 | T, V |
+| *Clostridium* spp. | 2 |  |
+| *Corynebacterium diphtheriae.* | 2 | T, V |
+| *Corynebacterium minutissimum.* | 2 |  |
+| *Corynebacterium pseudotuberculosis.* | 2 | T |
+| *Corynebacterium ulcerans.* | 2 | T |
+| *Corynebacterium* spp. | 2 |  |
+| *Coxiella burnetii.* | 3 |  |
+| *Edwardsiella tarda.* | 2 |  |
+| *Ehrlichia*spp. | 2 |  |
+| *Eikenella corrodens.* | 2 |  |
+| *Elizabethkingia meningoseptica (Flavobacterium meningosepticum).* | 2 |  |
+| *Enterobacter aerogenes (Klebsiella mobilis).* | 2 |  |
+| *Enterobacter cloacae* subsp. *cloacae (Enterobacter cloacae).* | 2 |  |
+| *Enterobacter* spp. | 2 |  |
+| *Enterococcus* spp. | 2 |  |
+| *Erysipelothrix rhusiopathiae.* | 2 |  |
+| *Escherichia coli* (excepto las cepas no patógenas). | 2 |  |
+| *Escherichia coli,* cepas verocitotóxicas (O157:H7 o O103). | 3 (**) | T |
+| *Fluoribacter bozemanae (Legionella).* | 2 |  |
+| *Francisella hispaniensis.* | 2 |  |
+| *Francisella tularensis* subsp.*holarctica.* | 2 |  |
+| *Francisella tularensis* subsp. *mediasiatica.* | 2 |  |
+| *Francisella tularensis* subsp. *novicida.* | 2 |  |
+| *Francisella tularensis* subsp. *tularensis.* | 3 |  |
+| *Fusobacterium necrophorum* subsp. *funduliforme.* | 2 |  |
+| *Fusobacterium necrophorum*subsp.*necrophorum.* | 2 |  |
+| *Gardnerella vaginalis.* | 2 |  |
+| *Haemophilus ducreyi.* | 2 |  |
+| *Haemophilus influenzae.* | 2 | V |
+| *Haemophilus* spp. | 2 |  |
+| *Helicobacter pylori.* | 2 |  |
+| *Helicobacter* spp. | 2 |  |
+| *Klebsiella oxytoca.* | 2 |  |
+| *Klebsiella pneumoniae* subsp. *ozaenae.* | 2 |  |
+| *Klebsiella pneumoniae* subsp. *pneumoniae.* | 2 |  |
+| *Klebsiella pneumoniae* subsp. *rhinoscleromatis.* | 2 |  |
+| *Klebsiella* spp. | 2 |  |
+| *Legionella pneumophila* subsp. *fraseri.* | 2 |  |
+| *Legionella pneumophila* subsp. *pascullei.* | 2 |  |
+| *Legionella pneumophila* subsp. *pneumophila.* | 2 |  |
+| *Legionella* spp. | 2 |  |
+| *Leptospira interrogans* (todos los serotipos). | 2 |  |
+| *Leptospira interrogans* spp. | 2 |  |
+| *Listeria monocytogenes.* | 2 |  |
+| *Listeria ivanovii* subsp. *ivanovii.* | 2 |  |
+| *Listeria ivanovii* subsp. *londoniensis.* | 2 |  |
+| *Morganella morganii* subsp. *morganii (Proteus morganii).* | 2 |  |
+| *Morganella morganii* subsp. *sibonii.* | 2 |  |
+| *Mycobacterium abscessus* subsp. *abscessus.* | 2 |  |
+| *Mycobacterium africanum.* | 3 | V |
+| *Mycobacterium avium*subsp.*avium (Mycobacterium avium).* | 2 |  |
+| *Mycobacterium avium* subsp. *paratuberculosis (Mycobacterium paratuberculosis).* | 2 |  |
+| *Mycobacterium avium* subsp. *silvaticum.* | 2 |  |
+| *Mycobacterium bovis.* | 3 | V |
+| *Mycobacterium caprae (Mycobacterium tuberculosis*subsp. *caprae).* | 3 |  |
+| *Mycobacterium chelonae.* | 2 |  |
+| *Mycobacterium chimaera.* | 2 |  |
+| *Mycobacterium fortuitum.* | 2 |  |
+| *Mycobacterium intracellulare.* | 2 |  |
+| *Mycobacterium kansasii.* | 2 |  |
+| *Mycobacterium leprae.* | 3 |  |
+| *Mycobacterium malmoense.* | 2 |  |
+| *Mycobacterium marinum.* | 2 |  |
+| *Mycobacterium microti.* | 3 (**) |  |
+| *Mycobacterium pinnipedii.* | 3 |  |
+| *Mycobacterium scrofulaceum.* | 2 |  |
+| *Mycobacterium simiae.* | 2 |  |
+| *Mycobacterium szulgai.* | 2 |  |
+| *Mycobacterium tuberculosis.* | 3 | V |
+| *Mycobacterium ulcerans.* | 3 (**) |  |
+| *Mycobacterium xenopi.* | 2 |  |
+| *Mycoplasma hominis.* | 2 |  |
+| *Mycoplasma pneumoniae.* | 2 |  |
+| *Mycoplasma* spp. | 2 |  |
+| *Neisseria gonorrhoeae.* | 2 |  |
+| *Neisseria meningitidis.* | 2 | V |
+| *Neorickettsia sennetsu (Rickettsia sennetsu, Ehrlichia sennetsu).* | 2 |  |
+| *Nocardia asteroides.* | 2 |  |
+| *Nocardia brasiliensis.* | 2 |  |
+| *Nocardia farcinica.* | 2 |  |
+| *Nocardia nova.* | 2 |  |
+| *Nocardia otitidiscaviarum.* | 2 |  |
+| *Nocardia* spp. | 2 |  |
+| *Orientia tsutsugamushi (Rickettsia tsutsugamushi).* | 3 |  |
+| *Pasteurella multocida* subsp. *gallicida (Pasteurella gallicida).* | 2 |  |
+| *Pasteurella multocida* subsp. *multocida.* | 2 |  |
+| *Pasteurella multocida* subsp. *septica.* | 2 |  |
+| *Pasteurella* spp. | 2 |  |
+| *Peptostreptococcus anaerobius.* | 2 |  |
+| *Plesiomonas shigelloides.* | 2 |  |
+| *Porphyromonas* spp. | 2 |  |
+| *Prevotella* spp. | 2 |  |
+| *Proteus mirabilis.* | 2 |  |
+| *Proteus penneri.* | 2 |  |
+| *Proteus vulgaris.* | 2 |  |
+| *Providencia alcalifaciens (Proteus inconstans).* | 2 |  |
+| *Providencia rettgeri (Proteus rettgeri).* | 2 |  |
+| *Providencia* spp. | 2 |  |
+| *Pseudomonas aeruginosa.* | 2 | T |
+| *Rhodococcus hoagii (Corynebacterium equii).* | 2 |  |
+| *Rickettsia africae.* | 3 |  |
+| *Rickettsia akari.* | 3 (**) |  |
+| *Rickettsia australis.* | 3 |  |
+| *Rickettsia canadensis.* | 2 |  |
+| *Rickettsia conorii.* | 3 |  |
+| *Rickettsia heilongjiangensis.* | 3 (**) |  |
+| *Rickettsia japonica.* | 3 |  |
+| *Rickettsia montanensis.* | 2 |  |
+| *Rickettsia typhi.* | 3 |  |
+| *Rickettsia prowazekii.* | 3 |  |
+| *Rickettsia rickettsii.* | 3 |  |
+| *Rickettsia sibirica.* | 3 |  |
+| *Rickettsia* spp. | 2 |  |
+| *Salmonella enterica (choleraesuis)* subsp. *arizonae.* | 2 |  |
+| *Salmonella enteritidis.* | 2 |  |
+| *Salmonella paratyphi A, B, C.* | 2 | V |
+| *Salmonella typhi.* | 3 (**) | V |
+| *Salmonella typhimurium.* | 2 |  |
+| *Salmonella* (otras variedades serológicas). | 2 |  |
+| *Shigella boydii.* | 2 |  |
+| *Shigella dysenteriae* (tipo 1). | 3 (**) | T |
+| *Shigella dysenteriae,* tipos distintos del tipo 1. | 2 |  |
+| *Shigella flexneri.* | 2 |  |
+| *Shigella sonnei.* | 2 |  |
+| *Staphylococcus aureus.* | 2 | T |
+| *Streptobacillus moniliformis.* | 2 |  |
+| *Streptococcus agalactiae.* | 2 |  |
+| *Streptococcus dysgalactiae* subsp. *equisimilis.* | 2 |  |
+| *Streptococcus pneumoniae.* | 2 | T, V |
+| *Streptococcus pyogenes.* | 2 | T |
+| *Streptococcus suis.* | 2 |  |
+| *Streptococcus* spp. | 2 |  |
+| *Treponema carateum.* | 2 |  |
+| *Treponema pallidum.* | 2 |  |
+| *Treponema pertenue.* | 2 |  |
+| *Treponema* spp. | 2 |  |
+| *Trueperella pyogenes.* | 2 |  |
+| *Ureaplasma parvum.* | 2 |  |
+| *Ureaplasma urealyticum.* | 2 |  |
+| *Vibrio cholerae* (incluido El Tor). | 2 | T, V |
+| *Vibrio parahaemolyticus (Benecka parahaemolytica).* | 2 |  |
+| *Vibrio* spp. | 2 |  |
+| *Yersinia enterocolitica* subsp. *enterolitica.* | 2 |  |
+| *Yersinia enterocolitica* subsp. *palearctica.* | 2 |  |
+| *Yersinia pestis.* | 3 |  |
+| *Yersinia pseudotuberculosis.* | 2 |  |
+| *Yersinia* spp. | 2 |  |
+
+(**) Véase la nota introductoria 8.
+
+**Virus (*)**
+
+Véase la nota introductoria 7.
+
+Nota: Los virus se han incluido en la lista con arreglo a su orden (O), familia (F) y género (G).
+
+| Agente biológico<br>(especie del virus u orden taxonómico indicado) | Clasificación | Notas |
+|---|---|---|
+| Bunyavirales (O). |  |  |
+| *Hantaviridae* (F). |  |  |
+| Ortohantavirus (o hantavirus) (G). |  |  |
+| Hantavirus de los Andes [especie causal del síndrome pulmonar por hantavirus (HPS)]. | 3 |  |
+| Hantavirus del Bayou. | 3 |  |
+| Hantavirus del Black Creek Canal. | 3 |  |
+| Hantavirus de Caño Delgadito. | 3 |  |
+| Hantavirus del Choclo. | 3 |  |
+| Hantavirus de Dobrava-Belgrado [especie causal del síndrome de fiebre hemorrágica con insuficiencia renal (HFRS)]. | 3 |  |
+| Hantavirus de El Moro Canyon. | 3 |  |
+| Hantavirus de Hantaan [especie causal del síndrome de fiebre hemorrágica con insuficiencia renal (HFRS)]. | 3 |  |
+| Hantavirus de la Laguna Negra. | 3 |  |
+| Hantavirus de Prospect Hill. | 2 |  |
+| Hantavirus de Puumala [especie causal de la nefropatía epidémica (NE)]. | 2 |  |
+| Hantavirus de Seúl [especie causal del síndrome de fiebre hemorrágica con insuficiencia renal (HFRS)]. | 3 |  |
+| Hantavirus Sin Nombre [especie causal del síndrome pulmonar por hantavirus (HPS)]. | 3 |  |
+| Otros hantavirus de patogenicidad conocida. | 2 |  |
+| *Nairoviridae (F).* |  |  |
+| Ortonairovirus (o nairovirus) (G). |  |  |
+| Nairovirus de la fiebre hemorrágica de Crimea-Congo. | 4 |  |
+| Nairovirus de Dugbe. | 2 |  |
+| Nairovirus de Hazara. | 2 |  |
+| Nairovirus de la enfermedad de Nairobi (ovinos/caprinos). | 2 |  |
+| Otros nairovirus de patogenicidad conocida. | 2 |  |
+| *Peribunyaviridae* (F). |  |  |
+| Ortobunyavirus (o bunyavirus) (G). |  |  |
+| Bunyavirus de Bunyamwera (de Gemirston). | 2 |  |
+| Bunyavirus de la encefalitis de California. | 2 |  |
+| Bunyavirus del Oropouche. | 3 |  |
+| Otros bunyavirus de patogenicidad conocida. | 2 |  |
+| *Phenuiviridae* (F). |  |  |
+| Flebovirus (G). |  |  |
+| Flebovirus de Bhanja. | 2 |  |
+| Flebovirus de Punta Toro. | 2 |  |
+| Flebovirus del valle del Rift. | 3 |  |
+| Flebovirus de Nápoles (de la Toscana). | 2 |  |
+| Flebovirus del síndrome de la fiebre grave con trombocitopenia (SFTS). | 3 |  |
+| Otros flebovirus de patogenicidad conocida. | 2 |  |
+| Herpesvirales (O). |  |  |
+| *Herpesviridae* (F). |  |  |
+| Citomegalovirus (G). |  |  |
+| Herpesvirus humano 5 beta (citomegalovirus). | 2 |  |
+| Linfocriptovirus (G). |  |  |
+| Herpesvirus humano 4 gamma (virus de Epstein-Barr). | 2 |  |
+| Rhadinovirus (G). |  |  |
+| Herpesvirus humano 8 gamma. | 2 | D |
+| Roseolovirus (G). |  |  |
+| Herpesvirus humano 6A beta (virus linfotrópico humano de célula B). | 2 |  |
+| Herpesvirus humano 6B beta. | 2 |  |
+| Herpesvirus humano 7 beta. | 2 |  |
+| Simplexvirus (G). |  |  |
+| Herpesvirus del cercopiteco 1 alfa (Herpervirus simiae, herpesvirus B). | 3 |  |
+| Hepersvirus humano 1 alfa (herpervirus humano 1, virus del herpes simple de tipo 1). | 2 |  |
+| Herpesvirus humano 2 alfa (herpesvirus humano 2, virus del herpes simple de tipo 2). | 2 |  |
+| Varicellovirus (G). |  |  |
+| Herpesvirus humano 3 alfa (herpesvirus varicella-zóster). | 2 | V |
+| Mononegavirales (O). |  |  |
+| *Filoviridae* (F). |  |  |
+| Ebolavirus (G). | 4 |  |
+| Margburvirus (G). |  |  |
+| Virus de Marburgo. | 4 |  |
+| *Paramyxoviridae* (F). |  |  |
+| Avulavirus (G). |  |  |
+| Virus de la enfermedad de Newcastle. | 2 |  |
+| Henipavirus (G). |  |  |
+| Henipavirus Hendra. | 4 |  |
+| Henipavirus Nipah. | 4 |  |
+| Morbillivirus (G). |  |  |
+| Morbillivirus del sarampión. | 2 | V |
+| Respirovirus (G). |  |  |
+| Respirovirus humano 1 (virus de la parainfluenza 1). | 2 |  |
+| Respirovirus humano 3 (virus de la parainfluenza 3). | 2 |  |
+| Rubulavirus (G). |  |  |
+| Rubulavirus de la parotiditis. | 2 | V |
+| Rubulavirus humano 2 (virus de la parainfluenza 2). | 2 |  |
+| Rubulavirus humano 4 (virus de la parainfluenza 4). | 2 |  |
+| *Pneumoviridae* (F). |  |  |
+| Metapneumovirus (G). |  |  |
+| Ortopneumovirus (G). |  |  |
+| Ortopneumovirus humano (virus respiratorio sincitial). | 2 |  |
+| *Rhabdoviridae* (F). |  |  |
+| Lyssavirus (G). |  |  |
+| Lisavirus del murciélago australiano. | 3 (**) | V |
+| Lisavirus de Duvenhage. | 3 (**) | V |
+| Lisavirus del murciélago europeo 1. | 3 (**) | V |
+| Lisavirus del murciélago europeo 2. | 3 (**) | V |
+| Lisavirus del murciélago de Lagos. | 3 (**) |  |
+| Lisavirus de Mokola. | 3 |  |
+| Lisavirus de la rabia. | 3 (**) | V |
+| Vesiculovirus (G). |  |  |
+| Virus de la estomatitis vesicular, vesiculovirus de Alagoas. | 2 |  |
+| Virus de la estomatitis vesicular, vesiculovirus de Indiana. | 2 |  |
+| Virus de la estomatitis vesicular, vesiculovirus de New Jersey. | 2 |  |
+| Vesiculovirus de Piry (virus de Piry). | 2 |  |
+| Nidovirales (O). |  |  |
+| *Coronaviridae* (F). |  |  |
+| Betacoronavirus (G). |  |  |
+| Coronavirus del síndrome respiratorio agudo grave (SARS-CoV). | 3 |  |
+| Coronavirus del síndrome respiratorio agudo grave 2 (SARS-CoV-2) (<sup>1</sup>). | 3 |  |
+| Coronavirus del síndrome respiratorio de Oriente Medio (MERS-CoV). | 3 |  |
+| Otros *Coronaviridae* de patogenicidad conocida. | 2 |  |
+| Picornavirales (O). |  |  |
+| *Picornaviridae* (F). |  |  |
+| Cardiovirus (G). |  |  |
+| Virus de Saffold. | 2 |  |
+| Cosavirus (G). |  |  |
+| Cosavirus A. | 2 |  |
+| Enterovirus (G). |  |  |
+| Enterovirus A. | 2 |  |
+| Enterovirus B. | 2 |  |
+| Enterovirus C. | 2 |  |
+| Enterovirus D, enterovirus humano de tipo 70 (virus de la conjuntivitis hemorrágica aguda). | 2 |  |
+| Rinovirus. | 2 |  |
+| Poliovirus, tipos 1 y 3. | 2 | V |
+| Poliovirus, tipo 2 (<sup>2</sup>). | 3 | V |
+| Hepatovirus (G). |  |  |
+| Hepatovirus A (virus de la hepatitis A, enterovirus humano de tipo 72). | 2 | V |
+| Kobuvirus (G). |  |  |
+| Virus de Aichi A (virus de Aichi 1). | 2 |  |
+| Parechovirus (G). |  |  |
+| Parechovirus A. | 2 |  |
+| Parechovirus B (virus de Ljungan). | 2 |  |
+| Otros *Picornaviridae* de patogenicidad conocida. | 2 |  |
+| Sin asignar (O). |  |  |
+| *Adenoviridae* (F). | 2 |  |
+| *Astroviridae* (F). | 2 |  |
+| *Arenaviridae* (F). |  |  |
+| Mammarenavirus (G). |  |  |
+| Mamarenavirus de Brasil. | 4 |  |
+| Mamarenavirus de Chapare. | 4 |  |
+| Mamarenavirus de Flexal. | 3 |  |
+| Mamarenavirus de Guaranito. | 4 |  |
+| Mamarenavirus de Junín. | 4 |  |
+| Mamarenavirus de Lassa. | 4 |  |
+| Mamarenavirus de Lujo. | 4 |  |
+| Mamarenavirus de la coriomeningitis linfocítica (cepas neurotrópicas). | 2 |  |
+| Mamarenavirus de la coriomeningitis linfocítica (otras cepas). | 2 |  |
+| Mamarenavirus del Machupo. | 4 |  |
+| Mamarenavirus de Mobala. | 2 |  |
+| Mamarenavirus de Mopeia. | 2 |  |
+| Mamarenavirus de Tacaribe. | 2 |  |
+| Mamarenavirus de Whitewater Arroyo. | 3 |  |
+| *Caliciviridae* (F). |  |  |
+| Norovirus (G). |  |  |
+| Norovirus (Virus de Norwalk). | 2 |  |
+| Otros *Caliciviridae* de patogenicidad conocida. | 2 |  |
+| *Hepadnaviridae* (F). |  |  |
+| Ortohepadnavirus (G). |  |  |
+| Virus de la hepatitis B. | 3 (**) | V, D |
+| *Hepeviridae* (F). |  |  |
+| Ortohepevirus (G). |  |  |
+| Ortohepevirus A (virus de la hepatitis E). | 2 |  |
+| *Flaviviridae* (F). |  |  |
+| Flavivirus (G). |  |  |
+| Virus del dengue. | 3 |  |
+| Virus de la encefalitis japonesa. | 3 | V |
+| Virus de la enfermedad de la selva de Kyasanur. | 3 | V |
+| Virus de la encefalomielitis ovina. | 3 (**) |  |
+| Virus de la encefalitis del valle del Murray (virus de la encefalitis australiana). | 3 |  |
+| Virus de la fiebre hemorrágica de Omsk. | 3 |  |
+| Virus de Powassan. | 3 |  |
+| Virus Rocío. | 3 |  |
+| Virus de la encefalitis de San Luis. | 3 |  |
+| Virus de las encefalitis transmitidas por garrapatas. |  |  |
+| Virus de Absettarov. | 3 |  |
+| Virus de Hanzalova. | 3 |  |
+| Virus de Hypr. | 3 |  |
+| Virus de Kumlinge. | 3 |  |
+| Virus de Negishi. | 3 |  |
+| Encefalitis rusa de primavera-verano (a). | 3 | V |
+| Virus de las encefalitis transmitidas por garrapatas, subtipo centroeuropeo. | 3 (**) | V |
+| Virus de las encefalitis transmitidas por garrapatas, subtipo del Lejano Oriente. | 3 |  |
+| Virus de las encefalitis transmitidas por garrapatas, subtipo siberiano. | 3 | V |
+| Virus de Wesselsbron. | 3 (**) |  |
+| Virus del Nilo Occidental. | 3 |  |
+| Virus de la fiebre amarilla. | 3 | V |
+| Virus de Zika. | 2 |  |
+| Otros flavivirus de patogenicidad conocida. | 2 |  |
+| Hepacivirus (G). |  |  |
+| Hepacivirus C (virus de la hepatitis C). | 3 (**) | D |
+| *Orthomyxoviridae* (F). |  |  |
+| Gammainfluenzavirus (G). |  |  |
+| Virus de la gripe C. | 2 | V (c) |
+| Influenzavirus A (G). |  |  |
+| Virus de la gripe aviar de alta patogenicidad HPAIV (H5), por ejemplo, el H5N1. | 3 |  |
+| Virus de la gripe aviar de alta patogenicidad HPAIV (H7), por ejemplo, H7N7 o H7N9. | 3 |  |
+| Virus de la gripe A. | 2 | V (c) |
+| Virus A de la gripe A/Nueva York/1/18 (H1N1) (gripe española de 1918). | 3 |  |
+| Virus A de la gripe A/Singapur/1/57 (H2N2). | 3 |  |
+| Virus de la gripe aviar de baja patogenicidad (LPAI) H7N9. | 3 |  |
+| Influenzavirus B (G). |  |  |
+| Virus de la gripe B. | 2 | V (c) |
+| Thogotovirus (G). |  |  |
+| Virus Dhori (ortomixovirus transmitidos por garrapatas: Dhori). | 2 |  |
+| Virus Thogoto (ortomixovirus transmitidos por garrapatas: Thogoto). | 2 |  |
+| *Papillomaviridae* (F). | 2 | D (d) |
+| *Parvoviridae* (F). |  |  |
+| Erythroparvovirus (G). |  |  |
+| Eritroparvovirus de los primates 1 (Parvovirus humano, virus B 19). | 2 |  |
+| *Polyomaviridae* (F). |  |  |
+| Betapolyomavirus (G). |  |  |
+| Poliomavirus humano 1 (Virus BK). | 2 | D (d) |
+| Poliomavirus humano 2 (Virus JC). | 2 | D (d) |
+| *Poxviridae* (F). |  |  |
+| Molluscipoxvirus (G). |  |  |
+| Virus del molusco contagioso. | 2 |  |
+| Orthopoxvirus (G). |  |  |
+| Virus de la viruela vacuna. | 2 |  |
+| Virus de la viruela de los simios. | 3 | V |
+| Virus variolovacunal [incluidos los virus de la viruela del búfalo (e), de la viruela del elefante (f) y de la viruela del conejo (g)]. | 2 |  |
+| Virus de la viruela (mayor & menor). | 4 | V |
+| Parapoxvirus (G). |  |  |
+| Virus del ectima contagioso. | 2 |  |
+| Virus de la paravacuna (nódulos de los ordeñadores, *parapoxvirus bovis*). | 2 |  |
+| Yatapoxvirus (G). |  |  |
+| Poxvirus del Tana. | 2 |  |
+| Poxvirus del tumor de los monos del Yaba. | 2 |  |
+| *Reoviridae* (F). |  |  |
+| Seadornavirus (G). |  |  |
+| Virus Banna. | 2 |  |
+| Coltivirus (G). | 2 |  |
+| Rotavirus (G). | 2. |  |
+| Orbivirus (G). | 2. |  |
+| *Retroviridae* (F). |  |  |
+| Deltarretrovirus (G). |  |  |
+| Virus linfotrópico T de los primates, 1 (virus linfotrópico de las células T humanas, tipo 1). | 3 (**) | D |
+| Virus linfotrópico T de los primates, 2 (virus linfotrópico de las células T humanas, tipo 2). | 3 (**) | D |
+| Lentivirus (G). |  |  |
+| Virus de la inmunodeficiencia humana 1. | 3 (**) | D |
+| Virus de la inmunodeficiencia humana 2. | 3 (**) | D |
+| Virus de la inmunodeficiencia de los simios (SIV) (h). | 2 |  |
+| *Togaviridae* (F). |  |  |
+| Alphavirus (G). |  |  |
+| Virus de Cabassou. | 3 |  |
+| Virus de la encefalomielitis equina del Este. | 3 | V |
+| Virus de Bebaru. | 2 |  |
+| Virus del chikungunya. | 3 (**) |  |
+| Virus de Everglades. | 3 (**) |  |
+| Virus de Mayaro. | 3 |  |
+| Virus de Mucambo. | 3 (**) |  |
+| Virus de Ndumu. | 3 (**) |  |
+| Virus de O’nyong-nyong. | 2 |  |
+| Virus del río Ross. | 2 |  |
+| Virus del bosque de Semliki. | 2 |  |
+| Virus de Sindbis. | 2 |  |
+| Virus de Tonate. | 3 (**) |  |
+| Virus de la encefalomielitis equina venezolana. | 3 | V |
+| Virus de la encefalomielitis equina del Oeste. | 3 | V |
+| Otros alfavirus de patogenicidad conocida. | 2 |  |
+| Rubivirus (G). |  |  |
+| Virus de la rubéola. | 2 | V |
+| *Sin asignar* (F). |  |  |
+| Deltavirus (G). |  |  |
+| Virus de la hepatitis D (b). | 2 | V, D |
+
+(*) (*) Véase la nota introductoria 7.
+
+(<sup>1</sup>) De conformidad con el artículo 15, apartado 1, letra c), el trabajo no propagativo de los laboratorios de diagnóstico con SARS-CoV-2 debe efectuarse en una instalación que utilice procedimientos equivalentes al nivel 2 de contención, como mínimo. El trabajo propagativo con SARS-CoV-2 debe llevarse a cabo en un laboratorio de nivel 3 de contención con una presión negativa respecto a la presión atmosférica.
+
+(<sup>2</sup>) Clasificación conforme al Plan de acción mundial de la OMS para minimizar el riesgo asociado a las instalaciones de almacenamiento de poliovirus después de la erradicación de poliovirus salvajes por tipos específicos y la suspensión secuencial del uso sistemático de la vacuna antipoliomielítica oral.
+
+(**) (**) Véase la nota introductoria 8.
+
+(<sup>a</sup>) (a) Encefalitis vehiculada por garrapatas.
+
+(<sup>b</sup>) (b) El virus de la hepatitis D solo es patógeno para los trabajadores en presencia de otra infección simultánea o secundaria a la provocada por el virus de la hepatitis B. Por eso, la vacuna contra el virus de la hepatitis B protegerá contra el virus de la hepatitis D a los trabajadores no afectados por el virus de la hepatitis B.
+
+(<sup>c</sup>) (c) Solo por lo que se refiere a los tipos A y B.
+
+(<sup>d</sup>) (d) Recomendado para los trabajos que impliquen un contacto directo con estos agentes.
+
+(<sup>e</sup>) (e) Se pueden identificar dos virus distintos bajo este epígrafe: uno del tipo de la viruela del búfalo y el otro una variante del virus variolovacunal.
+
+(<sup>f</sup>) (f) Variante del virus de la viruela vacuna
+
+(<sup>g</sup>) (g) Variante del variolovacunal.
+
+(<sup>h</sup>) (h) En la actualidad no existen pruebas de enfermedad humana provocada por los otros retrovirus provenientes de los simios. Como medida de precaución, se recomienda el nivel 3 de contención para los trabajos que supongan una exposición a ellos.
+
+**Agentes de las enfermedades transmitidas por priones**
+
+| Agente biológico | Clasificación | Notas |
+|---|---|---|
+| Agente de la enfermedad de Creutzfeldt-Jakob. | 3 (**) | D (d) |
+| Agente de la variante de la enfermedad de Creutzfeldt-Jakob. | 3 (**) | D (d) |
+| Agente de la encefalopatía espongiforme bovina (BSE) y otras EET de los animales. | 3 (**) | D (d) |
+| Agente del síndrome de Gerstmann-Sträussler-Scheinker. | 3 (**) | D (d) |
+| Agente del kuru. | 3 (**) | D (d) |
+| Agente de la tembladera. | 2 |  |
+
+(*) (**) Véase la nota introductoria 8.
+
+(a) (d) Recomendado para los trabajos que impliquen un contacto directo con estos agentes.
+
+**Parásitos**
+
+Nota: Para los agentes biológicos que figuran en esta lista, la entrada correspondiente al género entero con la mención “spp.” hace referencia a otras especies pertenecientes a este género que no han sido incluidas específicamente en la lista, pero de las que se sabe que son patógenos humanos. Encontrará más detalles en la nota introductoria 3.
+
+| Agente biológico | Clasificación | Notas |
+|---|---|---|
+| *Acanthamoeba castellani.* | 2 |  |
+| *Ancylostoma duodenale.* | 2 |  |
+| *Angiostrongylus cantonensis.* | 2 |  |
+| *Angiostrongylus costaricensis.* | 2 |  |
+| *Anisakis simplex.* | 2 | A |
+| *Ascaris lumbricoides.* | 2 | A |
+| *Ascaris suum.* | 2 | A |
+| *Babesia divergens.* | 2 |  |
+| *Babesia microti.* | 2 |  |
+| *Balamuthia mandrillaris.* | 3 |  |
+| *Balantidium coli.* | 2 |  |
+| *Brugia malayi.* | 2 |  |
+| *Brugia pahangi.* | 2 |  |
+| *Brugia timori.* | 2 |  |
+| *Capillaria philippinensis.* | 2 |  |
+| *Capillaria* spp. | 2 |  |
+| *Clonorchis sinensis (Opisthorchis sinensis).* | 2 |  |
+| *Clonorchis viverrini (Opisthorchis viverrini).* | 2 |  |
+| *Cryptosporidium hominis.* | 2 |  |
+| *Cryptosporidium parvum.* | 2 |  |
+| *Cyclospora cayetanensis.* | 2 |  |
+| *Dicrocoelium dentriticum.* | 2 |  |
+| *Dipetalonema streptocerca.* | 2 |  |
+| *Diphyllobothrium latum.* | 2 |  |
+| *Dracunculus medinensis.* | 2 |  |
+| *Echinococcus granulosus.* | 3 (**) |  |
+| *Echinococcus multilocularis.* | 3 (**) |  |
+| *Echinococcus oligarthrus.* | 3 (**) |  |
+| *Echinococcus vogeli.* | 3 (**) |  |
+| *Entamoeba histolytica.* | 2 |  |
+| *Enterobius vermicularis.* | 2 |  |
+| *Enterocytozoon bieneusi.* | 2 |  |
+| *Fasciola gigantica.* | 2 |  |
+| *Fasciola hepatica.* | 2 |  |
+| *Fasciolopsis buski.* | 2 |  |
+| *Giardia lamblia (Giardia duodenalis, Giardia intestinalis).* | 2 |  |
+| *Heterophyes* spp. | 2 |  |
+| *Hymenolepis diminuta.* | 2 |  |
+| *Hymenolepis nana.* | 2 |  |
+| *Leishmania aethiopica.* | 2 |  |
+| *Leishmania brasiliensis.* | 3 (**) |  |
+| *Leishmania donovani.* | 3 (**) |  |
+| *Leishmania guyanensis (Viannia guyanensis).* | 3 (**) |  |
+| *Leishmania infantum (Leishmania chagasi).* | 3 (**) |  |
+| *Leishmania major.* | 2 |  |
+| *Leishmania mexicana.* | 2 |  |
+| *Leishmania panamensis (Viannia panamensis).* | 3 (**) |  |
+| *Leishmania peruviana.* | 2 |  |
+| *Leishmania tropica.* | 2 |  |
+| *Leishmania* spp. | 2 |  |
+| *Loa loa.* | 2 |  |
+| *Mansonella ozzardi.* | 2 |  |
+| *Mansonella perstans.* | 2 |  |
+| *Mansonella streptocerca.* | 2 |  |
+| *Metagonimus* spp. | 2 |  |
+| *Naegleria fowleri.* | 3 |  |
+| *Necator americanus.* | 2 |  |
+| *Onchocerca volvulus.* | 2 |  |
+| *Opisthorchis felineus.* | 2 |  |
+| *Opisthorchis* spp. | 2 |  |
+| *Paragonimus westermani.* | 2 |  |
+| *Paragonimus* spp. | 2 |  |
+| *Plasmodium falciparum.* | 3 (**) |  |
+| *Plasmodium knowlesi.* | 3 (**) |  |
+| *Plasmodium* spp. (humano y de los simios). | 2 |  |
+| *Sarcocystis suihominis.* | 2 |  |
+| *Schistosoma haematobium.* | 2 |  |
+| *Schistosoma intercalatum.* | 2 |  |
+| *Schistosoma japonicum.* | 2 |  |
+| *Schistosoma mansoni.* | 2 |  |
+| *Schistosoma mekongi.* | 2 |  |
+| *Strongyloides stercoralis.* | 2 |  |
+| *Strongyloides* spp. | 2 |  |
+| *Taenia saginata.* | 2 |  |
+| *Taenia solium.* | 3 (**) |  |
+| *Toxocara canis.* | 2 |  |
+| *Toxocara cati.* | 2 |  |
+| *Toxoplasma gondii.* | 2 |  |
+| *Trichinella nativa.* | 2 |  |
+| *Trichinella nelsoni.* | 2 |  |
+| *Trichinella pseudospiralis.* | 2 |  |
+| *Trichinella spiralis.* | 2 |  |
+| *Trichomonas vaginalis.* | 2 |  |
+| *Trichostrongylus orientalis.* | 2 |  |
+| *Trichostrongylus* spp. | 2 |  |
+| *Trichuris trichiura.* | 2 |  |
+| *Trypanosoma brucei brucei.* | 2 |  |
+| *Trypanosoma brucei gambiense.* | 2 |  |
+| *Trypanosoma brucei rhodesiense.* | 3 (**) |  |
+| *Trypanosoma cruzi.* | 3 (**) |  |
+| *Wuchereria bancrofti.* | 2 |  |
+
+(*) (**) Véase la nota introductoria 8.
+
+**Hongos**
+
+Nota: Para los agentes biológicos que figuran en esta lista, la entrada correspondiente al género entero con la mención “spp.” hace referencia a otras especies pertenecientes a este género que no han sido incluidas específicamente en la lista, pero de las que se sabe que son patógenos humanos. Encontrará más detalles en la nota introductoria 3.
+
+| Agente biológico | Clasificación | Notas |
+|---|---|---|
+| *Aspergillus flavus.* | 2 | A |
+| *Aspergillus fumigatus.* | 2 | A |
+| *Aspergillus* spp. | 2 |  |
+| *Blastomyces dermatitidis (Ajellomyces dermatitidis).* | 3 |  |
+| *Blastomyces gilchristii.* | 3 |  |
+| *Candida albicans.* | 2 | A |
+| *Candida dubliniensis.* | 2 |  |
+| *Candida glabrata.* | 2 |  |
+| *Candida parapsilosis.* | 2 |  |
+| *Candida tropicalis.* | 2 |  |
+| *Cladophialophora bantiana (Xylohypha bantiana, Cladosporium bantianum, trichoides).* | 3 |  |
+| *Cladophialophora modesta.* | 3 |  |
+| *Cladophialophora* spp. | 2 |  |
+| *Coccidioides immitis.* | 3 | A |
+| *Coccidioides posadasii.* | 3 | A |
+| *Cryptococcus gattii (Filobasidiella neoformans var. bacillispora).* | 2 | A |
+| *Cryptococcus neoformans var. neoformans (Filobasidiella neoformans var.neoformans).* | 2 | A |
+| *Emmonsia parva* var*. parva.* | 2 |  |
+| *Emmonsia parva* var*. crescens.* | 2 |  |
+| *Epidermophyton floccosum.* | 2 | A |
+| *Epidermophyton* spp. | 2 |  |
+| *Fonsecaea pedrosoi.* | 2 |  |
+| *Histoplasma capsulatum.* | 3 |  |
+| *Histoplasma capsulatum var. farciminosum.* | 3 |  |
+| *Histoplasma duboisii.* | 3 |  |
+| *Madurella grisea.* | 2 |  |
+| *Madurella mycetomatis.* | 2 |  |
+| *Microsporum* spp. | 2 | A |
+| *Nannizzia* spp. | 2 |  |
+| *Neotestudina rosatii.* | 2 |  |
+| *Paracoccidioides brasiliensis.* | 3 | A |
+| *Paracoccidioides lutzii.* | 3 |  |
+| *Paraphyton* spp. | 2 |  |
+| *Rhinocladiella mackenziei.* | 3 |  |
+| *Scedosporium apiospermum.* | 2 |  |
+| *Scedosporium prolificans (inflatum).* | 2 |  |
+| *Sporothrix schenckii.* | 2 |  |
+| *Talaromyces marneffei (Penicillium marneffei).* | 2 | A |
+| *Trichophyton rubrum.* | 2 | A |
+| *Trichophyton tonsurans.* | 2 | A |
+| *Trichophyton* spp. | 2 |  |
+
+> Se sustituye por el art. único.2 de la Orden TES/1287/2021, de 22 de noviembre. [Ref. BOE-A-2021-19371](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19371)
+
+> Se modifica por el art. único.1 de la Orden TES/1180/2020, de 4 de diciembre. [Ref. BOE-A-2020-15871](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15871)
+
+> Se modifica por el art. único de la Orden de 25 de marzo de 1998. [Ref. BOE-A-1998-7341](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-7341).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 90, de 15 de abril de 1998. [Ref. BOE-A-1998-8917](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-8917).
+
+## ANEXO III — Señal de peligro biológico
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/124/11144_001.png)
+
+## ANEXO IV — Indicaciones relativas a las medidas de contención y a los niveles de contención
+
+Observación preliminar
+
+Las medidas que figuran en el presente anexo se aplicarán según la naturaleza de las actividades, la evaluación del riesgo para los trabajadores y las características del agente biológico de que se trate.
+
+En el cuadro, “Aconsejable” significa que, en principio, las medidas deben aplicarse, excepto si los resultados de la evaluación a que se hace referencia en el artículo 4 indiquen lo contrario.
+
+<table>
+<thead>
+<tr>
+<th rowspan="2">
+<p>A. Medidas de contención</p>
+</th>
+<th colspan="3">
+<p>B. Niveles de contención</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>2</p>
+</th>
+<th>
+<p>3</p>
+</th>
+<th>
+<p>4</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="4">
+<p>Lugar de trabajo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1. El lugar de trabajo se encontrará separado de toda actividad que se desarrolle en el mismo edificio</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. El lugar de trabajo deberá poder precintarse para permitir su desinfección</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Instalaciones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. El material infectado, animales incluidos, deberá manejarse en una cabina de seguridad biológica o en un aislador u otra contención apropiada</p>
+</td>
+<td>
+<p>Cuando proceda</p>
+</td>
+<td>
+<p>Sí, cuando la infección se propague por el aire</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Equipos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4. El aire introducido y extraído del lugar de trabajo se filtrará mediante la utilización de filtros absolutos HEPA <sup>(1)</sup> o similares</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Sí, para la salida de aire</p>
+</td>
+<td>
+<p>Sí, para la entrada y la salida de aire</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5. El lugar de trabajo se mantendrá con una presión negativa respecto a la presión atmosférica</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6. Superficies impermeables al agua y de fácil limpieza</p>
+</td>
+<td>
+<p>Sí, para el banco de pruebas o mesa de trabajo y el suelo</p>
+</td>
+<td>
+<p>Sí, para el banco de pruebas o mesa de trabajo, el suelo y otras superficies determinadas mediante una evaluación de riesgo</p>
+</td>
+<td>
+<p>Sí, para el banco de pruebas o mesa de trabajo, las paredes, el suelo y los techos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7. Superficies resistentes a ácidos, álcalis, disolventes, desinfectantes</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Normas de trabajo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8. Solamente se permitirá el acceso al personal designado</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí, mediante esclusa <sup>(2)</sup></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9. Control eficaz de los vectores (por ejemplo, roedores e insectos)</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10. Procedimientos de desinfección especificados</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11. Almacenamiento de seguridad para agentes biológicos</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí, almacenamiento seguro</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12. El personal deberá ducharse antes de abandonar la zona de contención</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Residuos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13. Proceso de inactivación validado para la eliminación segura de las canales de animales</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí, dentro o fuera de las instalaciones</p>
+</td>
+<td>
+<p>Sí, en las instalaciones</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Otras medidas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14. Laboratorio con equipo propio</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15. Se instalará una ventanilla de observación, o un dispositivo alternativo, que permita ver a sus ocupantes</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<sup>(1)</sup> Filtro HEPA (*High efficiency particulate air*): Filtro para partículas en aire de alta eficacia.
+
+<sup>(2)</sup> Esclusa: La entrada debe efectuarse a través de una esclusa, una cámara aislada del laboratorio. El lado limpio de la esclusa ha de estar separado del lado restringido mediante unas instalaciones con vestuarios o duchas y preferiblemente con puertas enclavadas entre sí.
+
+> Se sustituye por el art. único.2 de la Orden TES/1180/2020, de 4 de diciembre. [Ref. BOE-A-2020-15871](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15871)
+
+> Véase, en cuanto a su aplicación para las indicaciones que estén relacionadas con el resto de los agentes biológicos distintos de aquellos de la familia «Coronaviridae», la disposición transitoria única de la citada orden.
+
+## ANEXO V — Indicaciones relativas a las medidas de contención y a los niveles de contención para procesos industriales
+
+Observación preliminar
+
+En el cuadro, “Aconsejable” significa que, en principio, las medidas deben aplicarse, excepto si los resultados de la evaluación a que se hace referencia en al artículo 4 indiquen lo contrario.
+
+1\. Agentes biológicos del grupo 1:
+
+Cuando se trabaje con agentes biológicos del grupo 1, comprendidas las vacunas de gérmenes vivos atenuados, se observarán los principios de correcta seguridad e higiene profesional.
+
+2\. Agentes biológicos de los grupos 2, 3 y 4:
+
+Puede resultar adecuado seleccionar y combinar, basándose en una evaluación del riesgo relacionado con cualquier proceso particular o parte de un proceso, requisitos de contención de las diferentes categorías que se expresan a continuación.
+
+<table>
+<thead>
+<tr>
+<th rowspan="2">
+<p>A. Medidas de contención</p>
+</th>
+<th colspan="3">
+<p>B. Niveles de contención</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>2</p>
+</th>
+<th>
+<p>3</p>
+</th>
+<th>
+<p>4</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="4">
+<p>Generales</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1. Los microorganismos viables deben ser manipulados en un sistema que separe físicamente el proceso del ambiente</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. Deben tratarse los gases de escape del sistema cerrado para:</p>
+</td>
+<td>
+<p>Minimizar la liberación</p>
+</td>
+<td>
+<p>Impedir la liberación</p>
+</td>
+<td>
+<p>Impedir la liberación</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. La toma de muestras, la adición de materiales a un sistema cerrado y la transferencia de microorganismos viables a otro sistema cerrado deben realizarse de un modo que permita:</p>
+</td>
+<td>
+<p>Minimizar la liberación</p>
+</td>
+<td>
+<p>Impedir la liberación</p>
+</td>
+<td>
+<p>Impedir la liberación</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4. Los fluidos de grandes cultivos no deben retirarse del sistema cerrado a menos que los microorganismos viables hayan sido:</p>
+</td>
+<td>
+<p>Inactivados mediante medios físicos o químicos de eficacia probada</p>
+</td>
+<td>
+<p>Inactivados mediante medios físicos o químicos de eficacia probada</p>
+</td>
+<td>
+<p>Inactivados mediante medios físicos o químicos de eficacia probada</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5. Los precintos deben diseñarse con el fin de:</p>
+</td>
+<td>
+<p>Minimizar la liberación</p>
+</td>
+<td>
+<p>Impedir la liberación</p>
+</td>
+<td>
+<p>Impedir la liberación</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6. La zona controlada debe estar diseñada para impedir la fuga del contenido del sistema cerrado</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7. Se debe poder precintar la zona controlada para su fumigación</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Instalaciones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8. Debe dotarse al personal de instalaciones de descontaminación y lavado</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Equipos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9. Se debe tratar con filtros HEPA <sup>(1)</sup> el aire de entrada y salida de la zona controlada</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10. En la zona controlada debe mantenerse una presión del aire negativa respecto a la atmósfera</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11. La zona controlada debe ventilarse adecuadamente para reducir al mínimo la contaminación atmosférica</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Normas de trabajo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12. Los sistemas cerrados <sup>(2)</sup> deben ubicarse en una zona controlada</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí, expresamente construida</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13. Deben colocarse señales de peligro biológico</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14. Solo debe permitirse el acceso al personal designado</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí, mediante esclusa <sup>(3)</sup></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15. Los trabajadores deben ducharse antes de abandonar la zona controlada</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16. El personal debe vestir indumentaria de protección</p>
+</td>
+<td>
+<p>Sí, ropa de trabajo</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí, cambiarse completamente</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Residuos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17. Los efluentes de fregaderos y duchas deben recogerse e inactivarse antes de su liberación</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Aconsejable</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18. Tratamiento de efluentes antes de su vertido final</p>
+</td>
+<td>
+<p>Inactivados mediante medios físicos o químicos de eficacia probada</p>
+</td>
+<td>
+<p>Inactivados mediante medios físicos o químicos de eficacia probada</p>
+</td>
+<td>
+<p>Inactivados mediante medios físicos o químicos de eficacia probada</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<sup>(1)</sup> Filtro HEPA (*High efficiency particulate air*): Filtro para partículas en aire de alta eficacia.
+
+<sup>(2)</sup> Sistema cerrado: un sistema que separa físicamente el proceso del ambiente (por ejemplo, biorreactores o fermentadores, etc.)
+
+<sup>(3)</sup> Esclusa: la entrada debe efectuarse a través de una esclusa, que es una cámara aislada de la zona controlada. El lado limpio de la esclusa ha de estar separado del lado restringido mediante unas instalaciones con vestuarios o duchas y preferiblemente con puertas enclavadas entre sí.
+
+> Se sustituye por el art. único.3 de la Orden TES/1180/2020, de 4 de diciembre. [Ref. BOE-A-2020-15871](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15871)
+
+> Véase, en cuanto a su aplicación para las indicaciones que estén relacionadas con el resto de los agentes biológicos distintos de aquellos de la familia «Coronaviridae», la disposición transitoria única de la citada orden.
+
+## ANEXO VI — Recomendaciones prácticas para la vacunación
+
+1\. Cuando la evaluación a que se refiere el artículo 4 demuestre la existencia de un riesgo para la seguridad y la salud de los trabajadores por exposición a agentes biológicos contra los que existan vacunas eficaces, el empresario deberá ofrecer dicha vacunación.
+
+2\. Deberá informarse a los trabajadores sobre las ventajas e inconvenientes tanto de la vacunación como de la no vacunación.
+
+3\. La vacunación ofrecida a los trabajadores no acarreará a éstos gasto alguno.
+
+4\. Podrá elaborarse un certificado de vacunación que se expedirá al trabajador referido y, cuando así se solicite, a las autoridades sanitarias.
+
+5\. Lo dispuesto en los apartados anteriores será de aplicación a las medidas a las que se refiere el segundo párrafo del apartado 3 del artículo 8.

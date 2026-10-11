@@ -1,0 +1,289 @@
+---
+title: "Real Decreto 280/1994, de 18 de febrero, por el que se establece los límites máximos de residuos de plaguicidas y su control en determinados productos de origen vegetal"
+identifier: "BOE-A-1994-5514"
+eli: "https://www.boe.es/eli/es/rd/1994/02/18/280"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1994-02-18
+published: 1994-03-09
+in_force_from: 1994-03-10
+last_amended: 2017-06-19
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 58"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-5514"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 280/1994, de 18 de febrero, por el que se establece los límites máximos de residuos de plaguicidas y su control en determinados productos de origen vegetal
+
+La normativa comunitaria sobre determinación de límites máximos de residuos de plaguicidas y su control en productos vegetales está contenida en la Directiva del Consejo 76/895/CEE, de 23 de noviembre de 1976, relativa a la fijación de los contenidos máximos de residuos plaguicidas en las frutas y hortalizas; en la Directiva del Consejo 86/362/CEE, de 24 de julio de 1986, cuya última modificación se ha establecido por la Directiva del Consejo 93/57/CEE, de 29 de junio de 1993, relativa a la fijación de contenidos máximos para los residuos de plaguicidas sobre y en los cereales, y en la Directiva del Consejo 90/642/CEE, de 27 de noviembre de 1990, relativa a la fijación de los contenidos máximos de residuos de plaguicidas en determinados productos de origen vegetal, incluidas las frutas y hortalizas, conforme a la cual han sido ya establecidos los correspondientes a varias sustancias activas por la Directiva del Consejo 93/58/CEE, de 29 de junio de 1993.
+
+La Directiva 76/895/CEE fue transpuesta a nuestro ordenamiento jurídico por la Orden de 11 de marzo de 1987 por la que se fijan los límites máximos de residuos plaguicidas en productos vegetales y la Orden de 27 de octubre de 1989, sobre límites máximos de residuos plaguicidas en productos vegetales. La Directiva 86/362/CEE fue asimismo transpuesta por la citada Orden de 27 de octubre de 1989 y por la Orden de 20 de julio de 1990 por la que se implanta el programa nacional de vigilancia de residuos de productos fitosanitarios en origen.
+
+La Directiva 90/642/CEE ha venido a armonizar, en el área de sanidad vegetal, las legislaciones nacionales de los Estados miembros en materia de residuos de plaguicidas para la mayoría de los productos vegetales, lo que representa la eliminación de un importante obstáculo técnico para la consecución del Mercado Interior Único a medida que el Consejo vaya fijando los contenidos máximos de residuos para cada combinación producto vegetal-plaguicida. Idéntica función cumple, respecto a los cereales, la Directiva 86/362/CEE.
+
+La armonización establecida incluye dos líneas fundamentales: la primera es la fijación de los límites máximos de residuos comunitarios para cada plaguicida en los diferentes productos o grupos de productos vegetales y la segunda es el establecimiento de un sistema de vigilancia de los contenidos de residuos de plaguicidas en los productos vegetales que se pongan en circulación en el mercado comunitario, tanto sean de producción interior como importados de terceros países, por el que se responsabiliza a cada Estado miembro de ejecutar programas de inspección, realizados al menos por muestreo, para impedir que se pongan en circulación en su territorio aquellos productos vegetales con residuos de plaguicidas que excedan de los contenidos máximos fijados.
+
+La presente disposición transpone las Directivas del Consejo 90/642/CEE, 93/57/CEE, en cuanto afecta a los cereales; 93/58/CEE y 79/700/CEE, de la Comisión, de 24 de junio de 1979, e incluye además las anteriormente transpuestas relativas a esta materia, al objeto de recoger en una única disposición toda la normativa relacionada con los contenidos de residuos de plaguicidas en productos vegetales. Se fijan tanto los límites máximos ya establecidos en el ámbito de la Comunidad como aquellos que aún no han sido armonizados y que fueron establecidos en el ámbito nacional hasta tanto no sean fijados por la Comunidad. Todo ello sin perjuicio de las disposiciones contenidas en las Directivas del Consejo 89/397/CEE, de 14 de junio de 1989, relativa al control de los productos alimenticios, y 74/63/CEE, de 17 de diciembre de 1973, relativa a la fijación de contenidos máximos de sustancias y productos indeseables en los alimentos para el ganado.
+
+El presente Real Decreto se dicta al amparo de lo dispuesto por el artículo 149.1.10.ª, 13.ª y 16.ª de la Constitución y de acuerdo con lo previsto por el artículo 40, apartado 2, de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+En fase de elaboración han sido consultadas las Comunidades Autónomas, así como los sectores afectados.
+
+En su virtud, a propuesta de los Ministros de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de febrero de 1994,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+El presente Real Decreto tiene por objeto la fijación de los límites máximos de residuos de productos fitosanitarios en productos vegetales, así como la instrumentación de su control en relación con el contenido de los mismos en los productos vegetales, de acuerdo con la normativa comunitaria vigente.
+
+## Artículo 2. Definiciones.
+
+A efectos de la presente disposición, se entienden por:
+
+1\. Productos vegetales: los vegetales, o partes de los mismos, destinados a la alimentación humana o del ganado que figuran en los grupos enumerados en la primera columna del anexo I, de los que aparecen ejemplos en la segunda columna.
+
+2\. Residuos de plaguicidas: restos de los plaguicidas así como sus metabolitos y productos de degradación o de reacción que estén presentes en los productos contemplados en el artículo 3.
+
+3\. Puesta en circulación: toda transmisión a título oneroso o gratuito de los productos relacionados en el anexo I, una vez cosechados. La importación en territorio nacional de tales productos procedentes de terceros países se considerará como puesta en circulación a los efectos del presente Real Decreto.
+
+> Se modifican los apartados 2 y 3 por el art. único.1 y 2 del Real Decreto 198/2000, de 11 de febrero. [Ref. BOE-A-2000-3009](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3009).
+
+## Artículo 3. Ámbito de aplicación.
+
+1\. El presente Real Decreto será de aplicación a:
+
+a) Todos los productos vegetales que figuren en los grupos enumerados en la primera columna del anexo I, siempre que tales productos comprendidos en esos grupos o las partes de ellos mencionadas en la tercera columna del citado anexo puedan contener determinados residuos de plaguicidas.
+
+b) Los productos del párrafo a), cuando éstos hayan sido sometidos a procesos de desecación o transformación o cuando hayan sido incorporados en alimentos compuestos, en la medida que puedan contener determinados residuos de plaguicidas.
+
+c) Sin perjuicio de sus regulaciones específicas, a los preparados para lactantes y preparados de continuación, regulados por el Real Decreto 72/1998, 23 de enero, y a los alimentos elaborados a base de cereales y alimentos infantiles para lactantes y niños de corta edad, regulados por el Real Decreto 490/1998, de 27 de marzo, únicamente les será de aplicación lo establecido en el apartado 4 del artículo 8 del presente Real Decreto. Estas disposiciones resultarán de aplicación sólo hasta que se establezcan, conforme a lo dispuesto en la normativa comunitaria, los contenidos máximos de residuos de plaguicidas para los citados productos.
+
+2\. Se aplicará igualmente a los productos referidos en el apartado 1 destinados a la exportación a terceros países, excepto a los que sean tratados previamente a la exportación cuando pueda demostrarse de manera suficiente:
+
+a) Que el país tercero de destino exige dicho tratamiento particular para impedir la introducción en su territorio de organismos nocivos, o
+
+b) Que el tratamiento resulta necesario para proteger los productos de los organismos nocivos durante el transporte al país tercero de destino y el almacenamiento en el mismo.
+
+3\. No será de aplicación la presente norma a los productos vegetales para los que se demuestre suficientemente que van a ser destinados:
+
+a) A la fabricación de productos distintos de los alimenticios y de los piensos, o
+
+b) A la siembra o a la plantación.
+
+> Se modifica el apartado 1 y el primer párrafo del apartado 2 por el art. único.3 y 4 del Real Decreto 198/2000, de 11 de febrero. [Ref. BOE-A-2000-3009](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3009).
+
+## Artículo 4. Fijación de límites máximos de residuos.
+
+1\. Los límites máximos para los contenidos de residuos plaguicidas en los productos vegetales son los establecidos en el anexo II. Atendiendo a su ámbito de aplicación se diferenciará entre:
+
+a) Nacionales, fijados por la Comisión Conjunta de Residuos de Productos Fitosanitarios de conformidad con el artículo 4.3 de la Reglamentación técnico-sanitaria de los plaguicidas, aprobada por Real Decreto 3349/1983, de 30 de noviembre.
+
+b) Provisionales, fijados por la Comisión Conjunta de Residuos de Productos Fitosanitarios de conformidad con el artículo 15.3.f), del Real Decreto 2163/1994, de 4 de noviembre, por el que se implanta el sistema armonizado comunitario para comercializar y utilizar productos fitosanitarios, o bien establecidos para transposición al ordenamiento jurídico interno de los fijados a propuesta de otros Estados miembros de la Unión Europea, en aplicación del artículo 4.1.f) de la Directiva 91/414/CEE, relativa a la comercialización de productos fitosanitarios.
+
+c) Comunitarios, establecidos como consecuencia de disposiciones comunitarias, con excepción de los definidos en el párrafo d).
+
+d) Comunitarios temporales, establecidos en aplicación de las disposiciones contenidas en el apartado 4 del artículo 8 del presente Real Decreto.
+
+2\. Además de los establecidos en el anexo II, tienen la consideración de límites máximos de residuos:
+
+a) Los fijados por la Comisión Conjunta de Residuos de Productos Fitosanitarios que no estén comprendidos en el apartado 1, en tanto se procede a su inclusión en el anexo II.
+
+b) El límite de determinación del correspondiente método analítico, para aquellos plaguicidas de uso fitosanitario no autorizado en España que no figuren incluidos en el anexo II y que no estén comprendidos en el párrafo a) anterior. En caso de existir diferentes métodos analíticos, se aplicará el que tenga el límite de determinación más bajo, salvo que se establezca un método oficial.
+
+3\. En el caso de productos desecados y transformados para los cuales no se hayan fijado límites máximos específicos, se aplicarán los valores a que se refieren los apartados 1 y 2, teniendo en cuenta la concentración o dilución de residuos provocada por el procedimiento de secado por el tratamiento aplicado, en tanto se establezcan oficialmente los factores de concentración o dilución para las correspondientes operaciones de desecación o transformación.
+
+4\. En el caso de alimentos compuestos para los cuales no se hayan establecido expresamente límites máximos de residuos, se aplicarán los valores a que se refieren los apartados 1 y 2, teniendo en cuenta las concentraciones relativas de los ingredientes vegetales presentes en la mezcla y lo previsto en el apartado 3.
+
+> Se modifica por el art. único.5 del Real Decreto 198/2000, de 11 de febrero. [Ref. BOE-A-2000-3009](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3009).
+
+## Artículo 5. Prohibiciones, responsabilidades y obligaciones.
+
+1\. Los productos vegetales o, en su caso, las partes de los productos mencionados en el anexo I, no deberán presentar, desde el momento en que se pongan en circulación, contenidos de residuos de plaguicidas superiores a los citados en el anexo II y en el artículo 4; de no cumplirse la exigencia anterior, quedará prohibida su puesta en circulación.
+
+2\. Los productores y, en su caso, quienes realicen tratamientos posteriores a la recolección de productos vegetales a que se hace referencia en el apartado 1, son responsables del cumplimiento del plazo de seguridad y dosis de aplicación que correspondan a los productos fitosanitarios utilizados.
+
+3\. Los usuarios de productos fitosanitarios no podrán aplicar dichos productos sobre los cultivos o productos vegetales para los que no se encuentran expresamente autorizados en la etiqueta.
+
+4\. Los operadores comerciales y los productores serán responsables de la puesta en el mercado, circulación o venta de productos vegetales a que se hace referencia en el apartado 1 que contengan residuos de productos fitosanitarios superiores a los citados en ese apartado.
+
+5\. Los productores y operadores comerciales mencionados en el apartado anterior y demás personas físicas y jurídicas a las que resulte aplicable el presente Real Decreto están obligados a facilitar a los agentes encargados de la toma de muestras el acceso a los productos vegetales en cualquier fase de su producción y comercialización, situados en campos, locales de producción y manipulación, recintos aduaneros y puntos de venta, para que puedan realizar inspecciones.
+
+> Se modifica el apartado 4 por el art. único.6 del Real Decreto 198/2000, de 11 de febrero. [Ref. BOE-A-2000-3009](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3009).
+
+## Artículo 6. Seguimiento y control.
+
+1.**(Derogado).**
+
+2\. Con el objeto de que los productos comprendidos en el apartado 1 del artículo 3 existentes en el mercado nacional cumplan con lo determinado en el artículo 5 y se garantice la protección de la salud de los consumidores, las Comunidades Autónomas establecerán el seguimiento y control de residuos de productos fitosanitarios en productos comprendidos en el apartado 1 del artículo 3 existentes en el mercado con destino al uso y consumo humanos.
+
+3\. **(Derogado).**
+
+4\. Los métodos de análisis utilizados para la determinación de los residuos serán los establecidos por las Comunidades Autónomas de conformidad con las normas básicas establecidas por el Ministerio de Agricultura, Pesca y Alimentación, por el Ministerio de Sanidad y Consumo u otros métodos comprobados y científicamente válidos, siempre que ello no constituya un obstáculo para la libre circulación de productos y que concuerden con la regulación que se aplique de los modos y métodos comunitarios. En caso de divergencia de interpretación sobre los resultados, los obtenidos mediante la utilización de métodos comunitarios será determinante.
+
+5\. A efectos de garantizar la ejecución de los programas coordinados comunitarios y el intercambio de información establecidos por las Directivas 76/895/CEE, 86/362/CEE, 90/642/CEE, 89/397/CEE y 93/99/CEE, las Comunidades Autónomas deberán:
+
+a) Elaborar los planes de vigilancia para cumplimiento de lo establecido en los apartados 1 y 2 teniendo en cuenta las indicaciones relativas a la ejecución de dichos programas comunitarios que les serán trasmitidos respectivamente por el Ministerio de Agricultura, Pesca y Alimentación y por el Ministerio de Sanidad y Consumo. Antes del 1 de julio de cada año deberán remitir a dichos Ministerios los respectivos planes para el año siguiente para la elaboración y remisión de las previsiones de programas nacionales a la Comisión Europea antes del 30 de septiembre.
+
+b) Remitir al Ministerio de Agricultura, Pesca y Alimentación y al de Sanidad y Consumo, respectivamente, antes del 1 de junio de cada año, los resultados de los análisis de las muestras tomadas durante el año anterior en la ejecución de los programas referidos en los apartados 1 y 2, a efectos de la elaboración y remisión de los correspondientes informes a la Comisión Europea antes del 31 de agosto.
+
+> Se deroga el apartado 1 por la disposición derogatoria única del Real Decreto 578/2017, de 12 de junio. [Ref. BOE-A-2017-6948](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-6948)
+
+> Se deroga el apartado 3 por la disposición derogatoria única del Real Decreto 290/2003, de 7 de marzo. [Ref. BOE-A-2003-4786](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-4786).
+
+> Se modifican los apartados 1 a 3 y se añade el 5 por el art. único.7 a 9 del Real Decreto 198/2000, de 11 de febrero. [Ref. BOE-A-2000-3009](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3009).
+
+## Artículo 7. Salvaguardia.
+
+Cuando como resultado de una nueva información, o de una reevaluación de la información existente, el Ministerio de Sanidad y Consumo estime que un contenido máximo fijado en el anexo II y en el artículo 4 pone en peligro la salud humana, o el Ministerio de Agricultura, Pesca y Alimentación en relación con la salud animal, se podrá reducir tal contenido temporalmente. En tal caso se informará inmediatamente a la comisión y a los demás Estados miembros de las medidas adoptadas.
+
+## Artículo 8. Autoridades responsables y competencia.
+
+1\. Sin perjuicio de lo establecido en el Real Decreto 1418/1986, de 13 de junio, sobre funciones del Ministerio de Sanidad y Consumo en materia de sanidad exterior, la ejecución y desarrollo de lo establecido en el presente Real Decreto en lo que respecta a los intercambios con terceros países, incluida la designación de los agentes encargados de la toma de muestras en los puntos de entrada, es competencia del Ministerio de Sanidad y Consumo, tanto se trate de vegetales como de sus transformados y de alimentos compuestos.
+
+2\. Las relaciones con la Comisión Europea, a través de los cauces correspondientes, y en particular la elaboración y remisión de los preceptivos informes, corresponden:
+
+a) Al Ministerio de Agricultura, Pesca y Alimentación, en lo que concierne al cumplimiento de las Directivas 76/895/CEE, 86/362/CEE y 90/642/CEE.
+
+b) Al Ministerio de Sanidad y Consumo, en lo que concierne a las Directivas 89/397/CEE y 93/99/CEE.
+
+3\. Corresponde a las Comunidades Autónomas el desarrollo y ejecución de este Real Decreto en relación con los productos vegetales de origen comunitario.
+
+4\. Sin perjuicio de lo establecido en el apartado 3, cuando se trate de productos originarios de otro Estado miembro de la Unión Europea, cuyos contenidos en residuos de productos fitosanitarios excedan de los límites máximos de residuos nacionales, todavía no armonizados a nivel comunitario, se deberá actuar en la forma siguiente:
+
+a) Las Comunidades Autónomas notificarán inmediatamente los hechos a la Dirección General de Salud Pública la cual, en un plazo de 20 días desde la adopción de las medidas por la Comunidad Autónoma, comunicará los hechos ocurridos a la Autoridad competente del Estado miembro de origen de las mercancías interceptadas conforme al párrafo segundo del apartado 5, informándole de los motivos y de las medidas adoptadas. Asimismo trasladará esta información a la Dirección General de Agricultura.
+
+b) En caso de que la Autoridad competente del Estado miembro de origen invoque la legalidad de la comercialización, de conformidad con los límites máximos de residuos allí establecidos, y acompañe la documentación justificativa de los mismos, se someterá a la Comisión Conjunta de Residuos de Productos Fitosanitarios, si es posible, una propuesta de fijación de un nuevo límite máximo de residuos.
+
+c) Si el acuerdo de la Comisión Conjunta de Residuos de Productos Fitosanitarios, que debe producirse en un plazo de tres meses a contar desde el momento en que se inició el conflicto, es favorable a la fijación de un nuevo límite máximo de residuos, el Director general de Salud Pública procederá a comunicarlo inmediatamente a la Autoridad competente de dicho Estado miembro, y a la Comunidad Autónoma donde se hubieran desencadenado los hechos, para que se suspendan las medidas adoptadas. El Director general de Agricultura deberá informar de los hechos ocurridos, incluida la adopción de dicho límite, a la Comisión Europea para conocimiento del Comité Fitosanitario Permanente.
+
+d) Si, por el contrario, el resultado es desfavorable, no se adoptarán decisiones acerca de la destrucción de mercancías, hasta tanto se produzca la correspondiente decisión posterior de la Comisión Europea. En caso de que en esta decisión se establezca un límite comunitario temporal para dichos residuos, se deberán suspender inmediatamente las medidas adoptadas.
+
+5\. Entre el Ministerio de Agricultura, Pesca y Alimentación, el de Sanidad y Consumo y los órganos competentes de las Comunidades Autónomas se establecerán los cauces de información mutua que permitan cumplir los objetivos de este Real Decreto con la mayor eficacia.
+
+El Ministerio de Agricultura, Pesca y Alimentación y las Comunidades Autónomas informarán al Ministerio de Sanidad y Consumo cuando de los controles efectuados se deduzca la existencia de posibles riesgos para la salud pública.
+
+> Se modifican los apartados 1 a 4 por el art. único.10 y 11 del Real Decreto 198/2000, de 11 de febrero. [Ref. BOE-A-2000-3009](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3009).
+
+## Artículo 9. Infracciones y sanciones.
+
+Las infracciones cometidas por vulnerar lo dispuesto en el presente Real Decreto se sancionarán conforme al Real Decreto 1945/1983, de 22 de junio, por el que se regula las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria, y conforme a la Ley 14/1986, General de Sanidad.
+
+## Disposición adicional primera. Competencia normativa.
+
+Lo dispuesto en el presente Real Decreto se dicta al amparo de las competencias exclusivas sobre comercio exterior y sobre sanidad exterior y para regular las bases y coordinación general de la sanidad, reservadas al Estado por el artículo 149.1.10.ª y 16.ª de la Constitución, así como sobre las bases y coordinación de la planificación general de la actividad económica que le atribuye el artículo 149.1.13.ª, y en aplicación del apartado 2 del artículo 40 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+> Se numera por el art. único.12 del Real Decreto 198/2000, de 11 de febrero. [Ref. BOE-A-2000-3009](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3009).
+
+> Su anterior denominación era disposición adicional única.
+
+## Disposición adicional segunda. Notificación a la Comunidad Europea.
+
+Las disposiciones en materia de notificación a la Comisión Europea establecidas por el Real Decreto 1337/1999, de 31 de julio, por el que se regula la remisión de información en materia de normas y reglamentaciones técnicas y reglamentos relativos a los servicios de la sociedad de la información, no son aplicables:
+
+a) Cuando se trate de límites máximos de residuos de sustancias activas nuevas, en cuyo caso el procedimiento de notificación a la Comisión Europea será el establecido por el Real Decreto 2163/1994.
+
+b) Cuando se trate de límites máximos de residuos comunitarios temporales, en cuyo caso el procedimiento de notificación a la Comisión Europea será el establecido en el artículo 8 del presente Real Decreto.
+
+> Se añade por el art. único.13 del Real Decreto 198/2000, de 11 de febrero. [Ref. BOE-A-2000-3009](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3009).
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo determinado en este Real Decreto y en particular las Ordenes de 11 de marzo de 1987, por la que se fijan los límites máximos de residuos de plaguicidas en productos vegetales, y de 27 de octubre de 1989, sobre límites máximos de residuos de plaguicidas en productos vegetales, del Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno, y la Orden de 20 de julio de 1990, por la que se implanta el programa nacional de vigilancia de residuos de productos fitosanitarios en origen, del Ministerio de Agricultura, Pesca y Alimentación.
+
+## Disposición final primera. Facultad de desarrollo.
+
+Se faculta a los Ministros de Agricultura, Pesca y Alimentación y de Sanidad y Consumo para dictar las normas oportunas para el desarrollo de lo dispuesto en el presente Real Decreto y, en particular, para efectuar la modificación del anexo II, de conformidad, en su caso, con las modificaciones introducidas por la normativa comunitaria y previa propuesta de la Comisión Conjunta de Residuos de Productos Fitosanitarios, establecida por Orden de 18 de junio de 1985.
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 18 de febrero de 1994.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+ALFREDO PÉREZ RUBALCABA
+
+## ANEXOS
+
+[Los anexos se han omitido. Consúltese el [PDF oficial publicado en suplemento aparte.](http://www.boe.es/boe/dias/1994/03/09/pdfs/C00001-00109.pdf)]
+
+> Véase la Orden PRE/1402/2008, de 20 de mayo, por la que se modifica el Anexo II. [Ref. BOE-A-2008-8906](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-8906).
+
+> Véase la Orden PRE/695/2008, de 7 de marzo, por la que se modifican los Anexos I y II. [Ref. BOE-A-2008-5006](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-5006).
+
+> Véase la Orden PRE/508/2008, de 26 de febrero, por la que se modifican los Anexos I y II. [Ref. BOE-A-2008-3872](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3872).
+
+> Véase la Orden PRE/2170/2007, de 13 de julio, por la que se modifica el Anexo II. [Ref. BOE-A-2007-13824](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13824).
+
+> Véase la Orden PRE/876/2007, de 30 de marzo, por la que se modifica el Anexo II. [Ref. BOE-A-2007-7286](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7286).
+
+> Véase la Orden PRE/3301/2006, de 27 de octubre de 2006, por la que se modifica el Anexo II. [Ref. BOE-A-2006-18757](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-18757).
+
+> Véase la Orden PRE/1595/2006, de 24 de mayo, por la que se modifica el Anexo II. [Ref. BOE-A-2006-9191](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9191).
+
+> Véase la Orden PRE/266/2006, de 6 de febrero, por la que se modifica el Anexo II. [Ref. BOE-A-2006-2189](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2189).
+
+> Véase la Orden PRE/1041/2005, de 19 de abril, por la que se modifica el Anexo II. [Ref. BOE-A-2005-6500](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-6500).
+
+> Véase la Orden PRE/3673/2004, de 11 de noviembre, por la que se modifica el Anexo II. [Ref. BOE-A-2004-19314](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-19314).
+
+> Véase la Orden PRE/0935/2004, de 6 de abril, por la que se modifica el Anexo II. [Ref. BOE-A-2004-6427](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-6427).
+
+> Véase la Orden PRE/0753/2004, de 22 de marzo, por la que se modifica el Anexo II. [Ref. BOE-A-2004-5403](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5403).
+
+> Véase la Orden PRE/3235/2003, de 19 de noviembre, por la que se modifica el Anexo II. [Ref. BOE-A-2003-21344](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-21344).
+
+> Véanse las Órdenes PRE/3057/2003, de 30 de octubre, y PRE/3058/2003, de 30 de octubre, por las que se modifica el Anexo II. [Ref. BOE-A-2003-20337](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20337).
+
+> Véase la Orden PRE/1672/2003, de 19 de junio, por la que se modifica el Anexo II. [Ref. BOE-A-2003-12626](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-12626).
+
+> Véase la Orden PRE/1114/2003, de 30 de abril, por la que se modifica el Anexo II. [Ref. BOE-A-2003-9448](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9448).
+
+> Se deroga el Anexo III por la disposición derogatoria única del Real Decreto 290/2003, de 7 de marzo. [Ref. BOE-A-2003-4786](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-4786).
+
+> Véase la Orden PRE/470/2003, de 28 de febrero, por la que se modifica el Anexo II. [Ref. BOE-A-2003-4606](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-4606).
+
+> Véase la Orden PRE/3107/2002, de 5 de diciembre, por la que se modifica el Anexo II. [Ref. BOE-A-2002-24046](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24046).
+
+> Véase la Orden PRE/2126/2002, de 26 de agosto, por la que se modifica el Anexo II. [Ref. BOE-A-2002-17079](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-17079).
+
+> Véase la Orden de 24 de enero de 2002, por la que se modifica el Anexo II. [Ref. BOE-A-2002-1860](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-1860).
+
+> Véase la Orden de 7 de diciembre de 2001, por la que se modifica el Anexo II. [Ref. BOE-A-2001-23787](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-23787).
+
+> Véase la Orden de 30 de noviembre de 2001, por la que se modifica el Anexo II. [Ref. BOE-A-2001-23527](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-23527).
+
+> Véase la Orden de 11 de octubre de 2001, por la que se modifica el Anexo II. [Ref. BOE-A-2001-19358](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-19358).
+
+> Véase la Orden de 27 de marzo de 2001, por la que se modifica el Anexo II. [Ref. BOE-A-2001-6261](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-6261).
+
+> Véase la Orden de 22 de enero de 2001, por la que se modifica el Anexo II. [Ref. BOE-A-2001-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-1662).
+
+> Véase la Orden de 1 de diciembre de 2000, por la que se modifica el Anexo II. [Ref. BOE-A-2000-22232](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-22232).
+
+> Véase la Orden de 12 de abril de 2000, por la que se modifica el Anexo II. [Ref. BOE-A-2000-7141](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-7141).
+
+> Véase la Orden de 14 de marzo de 2000, por la que se modifica el Anexo II. [Ref. BOE-A-2000-5739](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-5739).
+
+> Véase la Orden de 3 de marzo de 2000, por la que se modifica el Anexo II. [Ref. BOE-A-2000-4448](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4448).
+
+> Véase la Orden de 31 de mayo de 1999, por la que se modifica el Anexo II. [Ref. BOE-A-1999-12492](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-12492).
+
+> Véase la Orden de 14 de mayo de 1998, por la que se modifica el Anexo II. [Ref. BOE-A-1998-11716](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-11716).
+
+> Véase la Orden de 25 de septiembre de 1997, por la que se modifica el Anexo II. [Ref. BOE-A-1997-20978](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20978).
+
+> Véase la Orden de 26 de agosto de 1997, por la que se modifica el Anexo II. [Ref. BOE-A-1997-19432](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-19432). y la Orden de 26 de agosto de 1997, por la que se modifica el Anexo II. [Ref. BOE-A-1997-19433](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-19433).
+
+> Véase la Orden de 5 de diciembre de 1996, por la que se modifica el Anexo II. [Ref. BOE-A-1996-27746](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-27746).
+
+> Véase la Orden de 27 de febrero de 1996, por la que se modifica el Anexo II. [Ref. BOE-A-1996-5098](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-5098).

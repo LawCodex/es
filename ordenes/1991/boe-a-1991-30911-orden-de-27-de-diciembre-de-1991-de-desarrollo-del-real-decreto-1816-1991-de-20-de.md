@@ -1,0 +1,145 @@
+---
+title: "Orden de 27 de diciembre de 1991 de desarrollo del Real Decreto 1816/1991, de 20 de diciembre, sobre transacciones económicas con el exterior"
+identifier: "BOE-A-1991-30911"
+eli: "https://www.boe.es/eli/es/o/1991/12/27/(5)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1991-12-27
+published: 1991-12-31
+in_force_from: 1992-02-01
+last_amended: 2011-10-08
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 313"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-30911"
+retrieved: 2026-10-11
+---
+
+# Orden de 27 de diciembre de 1991 de desarrollo del Real Decreto 1816/1991, de 20 de diciembre, sobre transacciones económicas con el exterior
+
+Incluye la corrección de errores publicada en BOE núm. 17, de 20 de enero de 1992. [Ref. BOE-A-1992-1127](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-1127).
+
+El Real Decreto 1816/1991, de 20 de diciembre, sobre transacciones económicas con el exterior, en su disposición final primera, determina que por el Ministro de Economía y Hacienda se dictarán las normas de desarrollo del mismo, y se establecerán los procedimientos de comunicación e información entre los órganos de la Administración del Estado competentes en materia de control de cambios, los órganos de la Administración Tributaria y el Banco de España.
+
+En aplicación de dicha disposición, la presente Orden dicta las normas de procedimiento relativas a los cobros y pagos entre residentes y no residentes y las transferencias al y del extranjero derivadas de las transacciones económicas con el exterior.
+
+Especialmente establece esta Orden el tratamiento particularizado de los movimientos físicos a través de fronteras de moneda metálica, billetes de Banco y cheques bancarios al portador, así como la utilización de los mismos como medio de cobro y pago entre residentes y no residentes.
+
+Igualmente se establecen determinadas categorías de declarantes, determinables en función de la específica actividad que los mismos realicen y sobre los cuales se establece una reglamentación propia.
+
+Finalmente se dictan una serie de prescripciones en relación a la apertura y mantenimiento de cuentas en oficinas operantes en España de «Entidades registradas» a nombre de no residentes o en el extranjero, a nombre de personas físicas o jurídicas residentes, en consonancia con los nuevos criterios liberalizadores.
+
+En su virtud, dispongo:
+
+## Artículo 1.
+
+La presente Orden regula las condiciones y procedimiento de las declaraciones y los controles sobre las transacciones con el exterior y sobre los cobros, pagos y transferencias derivados de las mismas a que se refiere el Real Decreto 1816/1991.
+
+## Artículo 2.
+
+En virtud de lo dispuesto en el Real Decreto 1816/1991, los residentes a que se refiere su artículo 2 podrán efectuar libremente cobros y pagos entre si en billetes de bancos extranjeros o mediante abono o adeudo en cuentas en divisas abiertas en oficinas bancarias operantes en España o en el extranjero, sin perjuicio de las obligaciones impuestas en los artículos 4 y 7 del citado Real Decreto y en las normas mercantiles que sean de aplicación.
+
+> Se modifica por el art. único.1 de la Orden EHA/2670/2011, de 7 de octubre. [Ref. BOE-A-2011-15814](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15814).
+
+## Artículo 3.
+
+El procedimiento para la obtención de la necesaria autorización administrativa para la ejecución de las transacciones que se sometan a cualesquiera de las cláusulas de salvaguardia a que se refiere el artículo 3.º del Real Decreto 1816/1991, se establecerá en la propia norma que regule la correspondiente restricción.
+
+## Artículo 4.
+
+1\. **(Derogado)**
+
+2\. **(Derogado)**
+
+3\. **(Derogado)**
+
+4\. Las operaciones de envío y recepción de billetes españoles por parte de las entidades registradas con sus corresponsales bancarios en el exterior, así como las de envío y recepción de billetes y moneda metálica extranjeros y efectos denominados en divisas o en pesetas que efectúen las entidades registradas con el exterior, se realizarán de acuerdo con el procedimiento que establezca el Banco de España.
+
+> Se derogan los apartados 1 a 3 por la disposición derogatoria única de la Orden EHA/1439/2006, de 3 de mayo. [Ref. BOE-A-2006-8467](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-8467).
+
+> Se modifica por el art. único de la Orden de 9 de julio de 1996. [Ref. BOE-A-1996-15871](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-15871).
+
+> Se modifica el apartado 1, se suprime el inciso destacado del apartado 2 y se derogan los apartados 5 y 6 por los arts. 1, 2 y disposición derogatoria de la Orden de 2 de febrero de 1993. [Ref. BOE-A-1993-3622](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-3622).
+
+## Artículo 5.
+
+1\. Los cobros y pagos entre residentes y no residentes y las transferencias del o al extranjero efectuadas de conformidad con lo dispuesto en el artículo 5 del Real Decreto 1816/1991, están sujetos a la obligación de declarar los datos relativos a la operación por las Entidades Registradas.
+
+2\. En el caso de los cobros y pagos transfronterizos ordenados o recibidos por residentes en los que intervenga un proveedor de servicios de pago de otro Estado Miembro de la Unión Europea a los que sea de aplicación el Reglamento (CE) 924/2009, de 16 de septiembre, relativo a los Pagos Transfronterizos en la Comunidad o, en los casos de abonos y adeudos en cuentas de clientes no residentes, las Entidades Registradas facilitarán de manera automatizada a los órganos competentes de la Administración del Estado y al Banco de España la información relativa a los cobros, pagos o transferencias exteriores en que intervengan. El Banco de España determinará el procedimiento y frecuencia de la información a remitir por las Entidades Registradas a dicho organismo, que incluirá el nombre o razón social y NIF del residente, importe, moneda y país de origen o destino del cobro, pago o transferencia, información de la cuenta de adeudo y abono y aquellos otros datos disponibles que se determinen, siempre y cuando su recopilación no incida en el tratamiento directo automatizado de los pagos y pueda realizarse de manera totalmente automática.
+
+En los restantes casos de cobros y pagos transfronterizos, las Entidades Registradas facilitarán de manera automatizada a los órganos competentes de la Administración del Estado y al Banco de España la información disponible relativa a los cobros, pagos o transferencias exteriores en que intervengan. El Banco de España determinará el procedimiento y frecuencia de la información a remitir por las Entidades Registradas a dicho organismo, que incluirá, al menos, el nombre o razón social y NIF del residente, importe, moneda y país de origen o destino del cobro, pago o transferencia y datos de la cuenta de adeudo y abono.
+
+3\. El incumplimiento por las Entidades Registradas de las obligaciones de información señaladas en los apartados anteriores o la falta de veracidad de la información facilitada puede ser constitutiva de infracción, conforme a lo dispuesto en el artículo 8 de la Ley 19/2003, de 4 de julio, sobre régimen jurídico de los movimientos de capitales y de las transacciones económicas con el exterior.
+
+> Se modifica por el art. único.2 de la Orden EHA/2670/2011, de 7 de octubre. [Ref. BOE-A-2011-15814](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15814).
+
+> Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 17, de 20 de enero de 1992. [Ref. BOE-A-1992-1127](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-1127).
+
+## Artículo 6.
+
+1\. De conformidad con lo dispuesto en el artículo 6 del Real Decreto 1816/1991, es libre la apertura y mantenimiento, por residentes en España, de cuentas a la vista, de ahorro o a plazo, denominadas en euros o en divisas, en oficinas operantes en el extranjero, tanto de “Entidades registradas”, como de otras Entidades bancarias o de crédito.
+
+2\. Es asimismo libre la apertura y mantenimiento por residentes de cuentas a la vista, de ahorro o a plazo denominadas en divisas, en oficinas operantes en España de Entidades registradas.
+
+> Se modifica por el art. único.3 de la Orden EHA/2670/2011, de 7 de octubre. [Ref. BOE-A-2011-15814](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15814).
+
+## Artículo 7.
+
+1\. De conformidad con lo dispuesto en el artículo 7.º del Real Decreto 1816/1991, los cobros y pagos entre residentes y no residentes en moneda metálica, billetes de banco y cheques bancarios al portador, cifrados en pesetas o en divisas, son libres y podrán efectuarse sin necesidad de declaración cuando su importe no sea superior a un millón de pesetas.
+
+2\. Los cobros y pagos por importe superior a dicha cuantía deberán ser declarados por el residente que los efectúe dentro de los treinta días siguientes a su realización.
+
+Dicha declaración se efectuará a través de una «Entidad registrada» y deberá contener los siguientes datos: Nombre o razón social, domicilio y NIF del residente, nombre o razón social y domicilio del no residente, importe, moneda, medio de pago (con especificación de si se trata de moneda metálica, billetes de banco o cheques bancarios al portador) y concepto por el que se realiza el cobro o pago. Dicha declaración deberá ser firmada por el interesado, manifestando la veracidad de los datos consignados.
+
+## Artículo 8.
+
+En base a lo dispuesto en el artículo 9 del Real Decreto 1816/1991, las Entidades Registradas, en el caso de operaciones, transacciones, actos o negocios con no residentes, así como en las variaciones en cuentas o posiciones financieras deudoras o acreedoras frente al exterior, y los residentes que lleven a cabo las operaciones señaladas en el artículo 1 de dicho real decreto o mantengan activos o pasivos en el exterior, estarán sometidos a la obligación de facilitar a los órganos competentes de la Administración del Estado y al Banco de España los datos que se les requieran, en la forma, periodicidad y por el importe que éste determine para los fines de seguimiento administrativo, fiscal y estadístico de las operaciones.
+
+> Se modifica por el art. único.4 de la Orden EHA/2670/2011, de 7 de octubre. [Ref. BOE-A-2011-15814](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15814).
+
+## Artículo 9.
+
+1\. Las «Entidades registradas» podrán abrir en sus libros cuentas a la vista de ahorro o a plazo denominadas en pesetas a nombre de personas físicas o jurídicas no residentes y movilizar las mismas libremente, sin perjuicio de lo dispuesto en el artículo 5.º de la presente Orden. No obstante, las «Entidades registradas», en el momento de la apertura, harán constar la condición de no residente del titular y consignarán, a efectos de identificación de la cuenta, el número de pasaporte o número de identidad válido en su país de origen.
+
+2\. La «Entidad registrada» queda obligada a requerir del titular de la cuenta de que se trate que en el plazo de quince días desde su apertura le haga entrega de la documentación acreditativa de la no residencia, en los términos previstos en el artículo 2.º 4 del Real Decreto 1816/1991, sobre Transacciones Económicas con el Exterior.
+
+3\. El titular de la cuenta deberá, además, confirmar cada dos años, en la forma indicada en el párrafo anterior, la continuidad de su condición de no residente. Si el titular de la cuenta adquiriese la condición de residente deberá comunicarlo a la «Entidad registrada» para que ésta modifique la condición de la cuenta, que pasará a ser titular residente, con señalamiento del NIF de que se trate.
+
+Si el titular de la cuenta no confirmase, dentro del plazo debido, su continuidad como no residente, la «Entidad registrada» le requerirá para que así lo haga en el plazo de tres meses; transcurrido dicho plazo sin que el titular haya cumplimentado dicho requisito, aplicará a dicha cuenta las medidas previstas en el artículo 15 del Real Decreto 338/1990, de 9 de marzo, por el que se regula la composición y la forma de utilización del NIF, hasta tanto el titular facilite su NIF o demuestre que la no confirmación de su condición de no residente se ha debido a causas especiales.
+
+## Artículo 10.
+
+Los no residentes que pretendan efectuar abonos en cuentas a nombre de no residentes abiertas en entidades registradas o adquirir cheques bancarios, órdenes de pago u otros instrumentos, cifrados en pesetas o en divisas, mediante la entrega de billetes de banco, españoles o extranjeros, o cheques bancarios al portador cifrados en pesetas o en divisas, o transferir al extranjero el importe de dichos medios de pago o su contravalor, deberán acreditar su origen, de conformidad con lo dispuesto en los artículos 4.º, 1, y 7.º de la presente Orden.
+
+A igual obligación quedan sometidos los no residentes que pretendan efectuar compraventa de billetes por otros billetes en establecimientos abiertos al público para cambio de moneda.
+
+Sin la justificación de la importación o pago de que se trate, la entidad registrada y el establecimiento abierto al público para cambio de moneda no podrán efectuar las operaciones de referencia.
+
+> Se modifica por el art. único de la Orden de 9 de julio de 1996. [Ref. BOE-A-1996-15871](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-15871).
+
+## Artículo 11.
+
+En virtud de lo previsto en el artículo 11 del Real Decreto 1816/1991, por la Dirección General de Transacciones Exteriores y el Banco de España se dictarán las normas necesarias para el desarrollo de lo dispuesto en la presente Orden. Dichas normas de desarrollo preverán la debida coordinación de los distintos órganos de la Administración, en base a sus respectivas competencias.
+
+## Disposición transitoria primera.
+
+A partir de la entrada en vigor de la presente Orden, las «Cuentas extranjeras de pesetas ordinarias» y las «Cuentas extranjeras de pesetas convertibles» se regirán por lo dispuesto en el artículo 9.º de esta norma.
+
+El sistema de comunicaciones al Banco de España de los abonos y adeudos en todas las cuentas en pesetas de no residentes, así como los códigos estadísticos a utilizar, serán, mientras no se disponga otra cosa, los aplicables actualmente a las «Cuentas extranjeras de pesetas convertibles».
+
+## Disposición transitoria segunda.
+
+Será de aplicación a las cuentas a nombre de residentes en España que estuvieran abiertas en oficinas bancarias en el exterior a la entrada en vigor de la presente Orden, lo dispuesto en su artículo 6.º, debiendo declararse dichas cuentas en el plazo de un mes natural a contar desde la referida entrada en vigor.
+
+## Disposición final.
+
+La presente Orden entrará en vigor el día 1 de febrero de 1992.
+
+Madrid. 27 de diciembre de 1991.
+
+SOLCHAGA CATALÁN
+
+Excmo. Sr. Gobernador del Banco de España e Ilmo. Sr. Director general de Transacciones Exteriores.

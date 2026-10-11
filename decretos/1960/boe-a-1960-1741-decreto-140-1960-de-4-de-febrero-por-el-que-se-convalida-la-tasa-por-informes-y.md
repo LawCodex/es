@@ -1,0 +1,279 @@
+---
+title: "Decreto 140/1960, de 4 de febrero, por el que se convalida la tasa por informes y otras actuaciones"
+identifier: "BOE-A-1960-1741"
+eli: "https://www.boe.es/eli/es/d/1960/02/04/140"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1960-02-04
+published: 1960-02-05
+in_force_from: 1960-02-25
+last_amended: 2012-12-28
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 31"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1960-1741"
+retrieved: 2026-10-11
+---
+
+# Decreto 140/1960, de 4 de febrero, por el que se convalida la tasa por informes y otras actuaciones
+
+Incluye corrección de erratas publicada en BOE núm. 74, de 26 de marzo de 1960. [Ref. BOE-A-1960-4398](https://www.boe.es/buscar/doc.php?id=BOE-A-1960-4398)
+
+De acuerdo con lo determinado en la disposición transitoria primera de la Ley reguladora de Tasas y Exacciones Parafiscales, de veintiséis de diciembre de mil novecientos cincuenta y ocho, y en uso de la autorización concedida por dicho precepto legal, a propuesta de los Ministros de Obras Públicas y de Hacienda, previa deliberación del Consejo de Ministros en su reunión del día dieciocho de diciembre de mil novecientos cincuenta y nueve,
+
+DISPONGO:
+
+## TÍTULO PRIMERO — Ordenación de la tasa
+
+#### Artículo primero. Convalidación, denominación y Organismo gestor.
+
+Se convalida la tasa por prestación de informes y otras actuaciones facultativas motivadas por Entidades, Empresas o particulares en el Ministerio de Obras Públicas.
+
+Esta tasa se regulará exclusivamente con sujeción a la Ley de Tasas y Exacciones Parafiscales, de veintiséis de diciembre de mil novecientos cincuenta y ocho, y a lo dispuesto en el presente Decreto. El Organismo encargado de su gestión será el Ministerio de Obras Públicas.
+
+#### Artículo segundo. Objeto.
+
+Es objeto de la tasa la prestación de informes técnicos, expedición de certificados y demás actuaciones facultativas enumeradas en el artículo cuarto que deban realizarse en las tramitaciones instadas por Entidades, Empresas o particulares ante el Ministerio de Obras Públicas o cuando hayan de efectuarse como consecuencia de disposiciones en vigor o de los propios términos de concesiones o autorizaciones otorgadas.
+
+No están sometidos a esta tasa los informes motivados por líneas eléctricas de baja tensión o por autorizaciones en zona de policía y vigilancia de las obras públicas para ejecutar obras cuando su presupuesto, en ambos casos, sea inferior a diez mil pesetas.
+
+Quedan exceptuados de esta tasa los informes que tengan específicamente señalada una tasa especial.
+
+#### Artículo tercero. Sujetos.
+
+Están obligados al pago de la tasa, en la cuantía y condiciones que se determinan en este Decreto, las Entidades, Empresas o particulares citados en el artículo anterior.
+
+#### Artículo cuarto. Bases y tipos de gravamen.
+
+Las bases y los tipos de gravamen son los siguientes:
+
+<table>
+<tbody>
+<tr>
+<th rowspan="2">
+<p>Concepto</p>
+</th>
+<th colspan="2">
+<p>Importe</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>Pesetas</p>
+</th>
+<th>
+<p>Euros</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>A1. Certificación a instancia de parte</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>17,61</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Compulsa de documentos</p>
+</td>
+<td>
+<p>380</p>
+</td>
+<td>
+<p>2,28</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Busca de asuntos archivados</p>
+</td>
+<td>
+<p>230</p>
+</td>
+<td>
+<p>1,38</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B. Informes facultativos sin toma de datos de campo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>64,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C1. Informes facultativos con toma de datos de campo. Primer día</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>191,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C2. Informes facultativos con toma de datos de campo. Cada día siguiente</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>127,39</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Trabajos de campo para deslindes, inspección de obra por primer día</p>
+</td>
+<td>
+<p>12.470</p>
+</td>
+<td>
+<p>74,95</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Trabajos de campo para deslindes, inspección de obra, cada día siguiente hasta el 15.º inclusive</p>
+</td>
+<td>
+<p>8.300</p>
+</td>
+<td>
+<p>49,884005</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Trabajos de campo para deslindes, inspección de obra, por cada uno de los siguientes</p>
+</td>
+<td>
+<p>6.230</p>
+</td>
+<td>
+<p>37,443054</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F. Por registro de concesiones y autorizaciones administrativas</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>86,52</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Por copias de documentos mecanografiados y copias de planos</p>
+</td>
+<td>
+<p>850</p>
+</td>
+<td>
+<p>5,11</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Al aplicar las presentes tasas no se podrán percibir dietas, gastos de locomoción ni ningún otro producido por los funcionarios que intervengan, estando asimismo incluidos en la tasa los materiales que se empleen.
+
+Los tipos no proporcionales de carácter fijo podrán revisarse por Decreto refrendado por la Presidencia del Gobierno, a propuesta conjunta de los Ministros de Hacienda y de Obras Públicas, a fin de ajustarlos a las variaciones del índice de coste de vida fijado por el Instituto Nacional de Estadística.
+
+> Se modifica por el art. 80 de la Ley 17/2012, de 27 de diciembre. [Ref. BOE-A-2012-15651](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15651).
+
+> Se modifica por el art. 3 de la Resolución 12/2001, de 29 de noviembre. [Ref. BOE-A-2001-24242](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24242).
+
+> Se modifica por el art. 3 de la Resolución 9/2001, de 31 de octubre. [Ref. BOE-A-2001-22215](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-22215).
+
+> Redactadas las letras e) y f) conforme a la corrección de erratas publicada en BOE núm. 74, de 26 de marzo de 1960. [Ref. BOE-A-1960-4398](https://www.boe.es/buscar/doc.php?id=BOE-A-1960-4398)
+
+#### Artículo quinto. Devengo.
+
+La obligación de satisfacer la tasa nace en el momento de ser admitida por el Servicio la prestación del trabajo solicitado en virtud del precepto que lo regule.
+
+La tasa será exigible en la cuantía que corresponda, en período voluntario, dentro de los quince días siguientes a la fecha de notificación de la liquidación.
+
+#### Artículo sexto. Destino.
+
+El importe de la tasa se destinará con carácter genérico a la satisfacción de los gastos que por los conceptos de personal de todas clases, material y demás atenciones puedan producirse en el Ministerio de Obras Públicas y en sus entidades autónomas, con exclusión de las comprendidas en el apartado c) del número dos del artículo primero de la Ley de veintiséis de diciembre de mil novecientos cincuenta y ocho sobre Régimen Jurídico de las Entidades Estatales Autónomas.
+
+Se dedicará con carácter específico no menos del cuarenta por ciento de la tasa a remuneración complementaria de los Ingenieros de las distintas especialidades y Arquitectos, así como de sus Ayudantes y Peritos que se encuentren en servicio activo o en excedencia especial o forzosa en el Ministerio de Obras Públicas y Organismos antes citados.
+
+Igualmente se dedicará con carácter específico no menos del treinta por ciento de la tasa a remuneración complementaria de los restantes funcionarios no jornaleros que, perteneciendo a Cuerpos del Estado, se encuentren en servicio activo o en excedencia especial o forzosa en el Ministerio de Obras Públicas y Organismos antes citados.
+
+## TÍTULO SEGUNDO — Administración de la tasa
+
+#### Artículo séptimo. Organismo gestor.
+
+La gestión directa y efectiva de la tasa se efectuará por las dependencias locales del Ministerio de Obras Públicas, a las que este afecto el funcionario que actúe.
+
+La distribución de la tasa corresponderá a la Junta de Tasas y Exacciones del Ministerio de Obras Públicas, la que habrá de destinar un porcentaje para la mejora de haberes pasivos.
+
+#### Artículo octavo. Liquidación.
+
+Las liquidaciones se practicarán por las mencionadas dependencias locales al tiempo de admitir las peticiones correspondientes en los plazos regulados preceptivamente y se notificarán a los interesados en la forma prevista en la Ley de Procedimiento Administrativo.
+
+#### Artículo noveno. Recaudación.
+
+La tasa se recaudará mediante ingreso mediato o inmediato en el Tesoro, papel timbrado de pagos al Estado o efectos timbrados especiales, en ja forma que se regule por el Ministerio de Hacienda.
+
+En caso de incumplimiento del plazo señalado por el artículo quinto de este Decreto se procederá a la recaudación de la tasa por el procedimiento ejecutivo de apremio, conforme a lo dispuesto en el Estatuto de Recaudación de veintinueve de diciembre de mil novecientos cuarenta y ocho.
+
+#### Artículo décimo. Recurso.
+
+Los actos de gestión de esta tasa serán recurribles con arreglo a lo dispuesto en el Reglamento de Procedimiento en las Reclamaciones Económico-Administrativas y en la Ley de la Jurisdicción Contencioso-Administrativa.
+
+#### Artículo undécimo. Devoluciones.
+
+Las devoluciones de ingresos, por errores de hecho o de derecho, se realizarán de acuerdo con las normas establecidas en las disposiciones vigentes o que en lo sucesivo se dicten.
+
+También procederá la devolución en los casos previstos en el artículo once de la Ley de Tasas y Exacciones Parafiscales.
+
+### DISPOSICIONES FINALES
+
+#### Primera.
+
+Las materias reguladas en el título primero de este Decreto sólo podrán modificarse mediante Ley votada en Cortes.
+
+Las materias de carácter reglamentario reguladas en el título segundo de este Decreto podrán modificarse por Decreto conjunto de los Ministerios de Obras Públicas y de Hacienda.
+
+#### Segunda.
+
+Este Decreto entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado», y a partir de esta fecha quedan derogadas las siguientes disposiciones del Ministerio de Obras Públicas, en cuanto se opongan al presente Decreto:
+
+Instrucción aprobada por Real Orden de veintiuno de abril de mil novecientos diez.
+
+Orden ministerial de doce de noviembre de mil novecientos cuarenta.
+
+Orden de la Dirección General de Obras Hidráulicas de doce de noviembre de mil novecientos cuarenta, artículo diecisiete.
+
+Orden ministerial de veintisiete de mayo de mil novecientos cincuenta, norma tercera.
+
+### DISPOSICIÓN TRANSITORIA
+
+No obstante lo previsto en el artículo noveno, la recaudación de la tasa regulada en este Decreto seguirá rigiéndose por las normas, aplicables al tiempo de su publicación, hasta que por el Ministerio de Hacienda se dicten las disposiciones reglamentarias sobre la materia.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a cuatro de febrero de mil novecientos sesenta.
+
+FRANCISCO FRANCO
+
+El Ministro Subsecretario de la Presidencia del Gobierno,
+
+LUIS CARRERO BLANCO

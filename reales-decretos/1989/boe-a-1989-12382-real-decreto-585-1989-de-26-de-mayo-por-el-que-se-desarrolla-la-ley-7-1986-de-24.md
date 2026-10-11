@@ -1,0 +1,107 @@
+---
+title: "Real Decreto 585/1989, de 26 de mayo, por el que se desarrolla la Ley 7/1986, de 24 de enero, en materia de cartografía catastral"
+identifier: "BOE-A-1989-12382"
+eli: "https://www.boe.es/eli/es/rd/1989/05/26/585"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1989-05-26
+published: 1989-06-01
+in_force_from: 1989-06-02
+last_amended: 1999-12-11
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 130"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1989-12382"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 585/1989, de 26 de mayo, por el que se desarrolla la Ley 7/1986, de 24 de enero, en materia de cartografía catastral
+
+La Ley 7/1986, de 24 de *enero,*de *Ordenación*de la Cartografía, establece, en su disposición adicional primera, que las reglas de dicha Ley serán de aplicación a los aspectos cartográficos del Catastro, autorizando al Gobierno para dictar, por Real Decreto, las normas correspondientes.
+
+La cartografía catastral, base geométrica del Catastro, fue producida y conservada por el Instituto Geográfico Nacional desde 1906 *y hasta*1980, *en*que el *Real Decreto*1365/1980, *de*13 de *junio,*atribuyó tales funciones a los antiguos Consorcios para la gestión e inspección de las Contribuciones Territoriales, asumidas después en virtud del Real Decreto 1279/1985, de *24*de julio, *por el*Centro de *Gestión y*Cooperación Tributaria y con posterioridad y mediante el Real Decreto 222/1987, de 20 *de*febrero, *que*estructura el Ministerio *de Economía y*Hacienda, por el Centro de Gestión Catastral y Cooperación Tributaria, que es el que desarrolla en la actualidad las competencias de formación, conservación y revisión de los catastros inmobiliarios rústicos y urbanos.
+
+En consecuencia a lo anterior y teniendo en cuenta la conveniencia de un apoyo mutuo que facilite las respectivas misiones, así como la máxima coordinación deseable entre los diversos proyectos cartográficos en pos de la mayor eficacia y utilidad de los mismos, se hace necesario articular los criterios de colaboración entre los dos Centros citados y establecer las disposiciones precisas para la eficiente realización de la cartografía catastral.
+
+En su virtud, a propuesta de los Ministros de Economía y Hacienda y de Obras Públicas y Urbanismo, con la aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 26 de mayo de 1989,
+
+DISPONGO:
+
+## Artículo 1.
+
+La cartografía catastral se regulará de acuerdo con lo dispuesto en la Ley 7/1986, de 24 de enero, de Ordenación de la Cartografía, y en las normas del presente Real Decreto.
+
+## Artículo 2.
+
+La cartografía catastral es la documentación gráfica que define, entre otras características que se consideren relevantes, la forma, dimensiones y situación de las diferentes parcelas o fincas que integren el territorio nacional, cualquiera que sea el uso o actividad a que estén destinadas, constituyendo en su conjunto el soporte gráfico del Catastro.
+
+## Artículo 3.
+
+La cartografía catastral tendrá la consideración de básica o temática de acuerdo con lo dispuesto en los artículos 3.º, uno, y 5.º, uno, de la Ley 7/1986.
+
+## Artículo 4.
+
+La cartografía catastral básica deberá realizarse con sujeción a las normas cartográficas que se establezcan al efecto por Orden del Ministro de Obras Públicas y Urbanismo, previa propuesta del Consejo Superior Geográfico, y será objeto de aprobación oficial, si procediese, a propuesta del mismo.
+
+## Artículo 5.
+
+1\. Es competencia del Ministerio de Economía y Hacienda, a través del Centro de Gestión Catastral y Cooperación Tributaria, la producción y mantenimiento de la cartografía catastral necesaria para la formación, conservación y revisión del Catastro.
+
+2\. El ejercicio de las competencias en materia de cartografía catastral podrá realizarse directamente por el Centro de Gestión Catastral y Cooperación Tributaria o a través de Convenios de colaboración con otras Entidades públicas.
+
+## Artículo 6.
+
+El Centro de Gestión Catastral y Cooperación Tributaria dictará las normas para la producción de cartografía catastral temática, pudiendo ser asesorado para tal fin por el Consejo Superior Geográfico.
+
+## Artículo 7.
+
+1\. La cartografía catastral básica, una vez aprobada, será inscrita en el Registro Central de Cartografía.
+
+2\. La cartografía catastral temática sólo será objeto de inscripción obligatoria en el Registro Central de Cartografía, en sección destinada al Catastro que será debidamente incluida en aquél, en aquellos supuestos en que, por razones de interés nacional, así lo acuerde el Ministro de Obras Públicas y Urbanismo, a propuesta del Centro de Gestión Catastral y Cooperación Tributaria y previo informe del Consejo Superior Geográfico.
+
+## Artículo 8.
+
+Los planes y proyectos de mantenimiento y actualización de la cartografía catastral podrán ser incluidos en el plan cartográfico nacional, aun cuando se refiera a cartografía ya inscrita en el Registro Central de Cartografía, cuando se considere necesario por el Centro de Gestión Catastral y Cooperación Tributaria, previo informe del Consejo Superior Geográfico.
+
+## Artículo 9.
+
+1\. El Instituto Geográfico Nacional asesorará y colaborará con el Centro de Gestión Catastral y Cooperación Tributaria en el desarrollo de sistemas y técnicas avanzadas para el tratamiento de la información cartográfica catastral.
+
+Asimismo, y mediante la suscripción del oportuno Convenio de asistencia técnica, podrá desarrollar controles de calidad y verificación de los trabajos cartográficos y vuelos fotogramétricos, inspección de apoyos, restitución y otros, previos a la recepción de los trabajos.
+
+2\. El Centro de Gestión Catastral y Cooperación Tributaria facilitará al Instituto Geográfico Nacional copia en soporte informático de la información catastral que éste solicite, acorde con sus fines, con los formatos, estructuración y codificación establecidos.
+
+El Instituto Geográfico Nacional facilitará al Centro de Gestión Catastral y Cooperación Tributaria la información relativa a la Red Geodésica Nacional, a la Red de Nivelación, esquinas y nomenclatura de hojas y cuanto se considere necesario como soporte cartográfico de los trabajos.
+
+## Disposición Adicional Primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1792/1999, de 26 de noviembre. [Ref. BOE-A-1999-23606](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-23606).
+
+## Disposición Adicional Segunda.
+
+La cartografía básica actualmente existente que pueda ser utilizada con fines catastrales será debidamente convalidada, a propuesta del Consejo Superior Geográfico, por el Ministro de Obras Públicas y Urbanismo.
+
+## Disposición Adicional Tercera.
+
+Las competencias que el Real Decreto 2949/1979, de 29 de diciembre, en lo concerniente al Mapa Nacional Topográfico Parcelario, atribuye al Instituto Geográfico Nacional, serán asumidas por el Centro de Gestión Catastral y Cooperación Tributaria, para lo cual toda la documentación catastral que hasta el momento actual se encuentra depositada en aquel Organismo será transferida a éste para su mantenimiento y actualización correspondiente, de acuerdo con sus competencias.
+
+## Disposición Adicional Cuarta.
+
+Se autoriza a los Ministros de Economía y Hacienda y de Obras Públicas y Urbanismo para que, en el ámbito de sus respectivas competencias, dicten cuantas normas sean necesarias para el desarrollo del presente Real Decreto.
+
+## Disposición Final
+
+El presente Real Decreto entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 26 de mayo de 1989.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ

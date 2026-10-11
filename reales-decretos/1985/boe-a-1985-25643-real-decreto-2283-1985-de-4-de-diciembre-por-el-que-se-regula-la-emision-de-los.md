@@ -1,0 +1,122 @@
+---
+title: "Real Decreto 2283/1985, de 4 de diciembre, por el que se regula la emisión de los informes de aptitud necesarios para la obtención de licencias, permisos y tarjetas de armas"
+identifier: "BOE-A-1985-25643"
+eli: "https://www.boe.es/eli/es/rd/1985/12/04/2283"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio del Interior"
+date: 1985-12-04
+published: 1985-12-10
+in_force_from: 1985-12-11
+last_amended: 2001-11-02
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 295"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-25643"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2283/1985, de 4 de diciembre, por el que se regula la emisión de los informes de aptitud necesarios para la obtención de licencias, permisos y tarjetas de armas
+
+Incluye la corrección de errores publicada en BOE núm. 18, de 21 de enero de 1986. [Ref. BOE-A-1986-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-1604).
+
+De acuerdo con el artículo 82 del vigente Reglamento de Armas, aprobado por Real Decreto 2179/1981, de 24 de julio, para solicitar las licencias, permisos y tarjetas de armas, además de los requisitos específicos exigidos para cada supuesto, deberán acreditar los interesados que poseen las aptitudes psico-físicas adecuadas, con el fin de garantizar que su uso no entraña riesgo para ellos mismos o para los demás.
+
+Una vez realizados los estudios pertinentes y evacuadas las consultas oportunas, teniendo en cuenta la experiencia adquirida en ámbitos de características análogas, resulta procedente establecer el sistema necesario para alcanzar la finalidad señalada en el indicado precepto, determinando los presupuestos y la forma de emisión del informe cuya obtención se considera necesaria, como mecanismo de acreditación de las aludidas aptitudes.
+
+En su virtud, con informe favorable de la Comisión Interministerial Permanente de Armas y Explosivos y del Ministerio de Sanidad y Consumo, a propuesta del Ministro del Interior y previa deliberación del Consejo de Ministros en su reunión del día 4 de diciembre de 1985,
+
+DISPONGO:
+
+## Art. 1.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 137/1993, de 29 de enero. [Ref. BOE-A-1993-6202](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-6202).
+
+> Redactado el párrafo segundo conforme a la corrección de errores publicada en BOE núm. 18, de 21 de enero de 1986. [Ref. BOE-A-1986-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-1604).
+
+## Art. 2.
+
+Únicamente serán admitidos, con la documentación necesaria para solicitar la concesión o, en su caso, la renovación de las licencias, permisos y tarjetas, los informes de aptitud que, previa la realización de las pruebas necesarias, se hayan evacuado por Centros oficiales o por los Centros sanitarios privados, reconocidos e inscritos por los servicios de la Dirección General de Tráfico, de acuerdo con lo dispuesto en los artículos 3 y 13 del Real Decreto 2272/1985, de 4 de diciembre, por el que se determinan las aptitudes psico-físicas que deben poseer los conductores de vehículos y por eI que se regulan los Centros de reconocimiento destinados a verificarlas.
+
+## Art. 3.
+
+El funcionamiento de los Centros, la realización de los reconocimientos, a efectos de comprobar la aptitud para la tenencia y uso de armas, la emisión de los informes correspondientes, los aspectos formales y el plazo de presentación de éstos, su valoración y la resolución de las discrepancias a que puedan dar lugar, se regirán por lo dispuesto en el Real Decreto 2272/1985, de 4 de diciembre, por el que se determinan las aptitudes psico-físicas que deben poseer los conductores de vehículos y por el que se regulan los Centros de reconocimiento destinados a verificarlas, con las adaptaciones siguientes:
+
+a) Las competencias que se atribuyen en el citado Real Decreto, respecto a la aptitud de los conductores, a la Dirección General de Tráfico y a las Jefaturas Provinciales de Tráfico, corresponderán a la Dirección General de la Guardia Civil, o a los Gobernadores Civiles, en su caso, y a las Comandancias de la Guardia Civil, respecto a la aptitud para la tenencia y uso de armas.
+
+b)**(Derogada)**
+
+c) El formato de estos informes podrá ser normalizado por Orden del Ministerio del Interior, a propuesta de la Comisión Interministerial Permanente de Armas y Explosivos. Mientras no se lleve a cabo la normalización, los Centros podrán expedirlos en la forma que estimen conveniente, siempre que hagan constar claramente las pruebas efectuadas y los resultados obtenidos. Si se editan impresos o imprimen modelos, no podrá cobrarse por su utilización un precio superior a su coste de producción.
+
+d) Por la realización del reconocimiento y emisión del correspondiente informe, los Centros podrán percibir la cantidad que proceda de las especificadas en la tarifa comprendida en el anexo 2 de este Real Decreto, que podrá ser modificada por Orden de la Presidencia del Gobierno.
+
+> Se deroga la letra b) por la disposición derogatoria única del Real Decreto 2487/1998, de 20 de noviembre. [Ref. BOE-A-1998-27866](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-27866).
+
+## Disposición transitoria.
+
+Durante los seis meses siguientes a la entrada en vigor del Real Decreto 2272/1985, de 4 de diciembre, por el que se determinan las aptitudes psico-físicas que deben poseer los conductores de vehículos y por el que se regulan los Centros de reconocimiento destinados a verificarlas, los informes de aptitud para la tenencia y uso de armas se podrán evacuar también por los Centros de reconocimiento regulados por el Real Decreto 1467/1982, de 23 de mayo, y la Orden de la Presidencia del Gobierno de 22 de septiembre de 1982.
+
+## Disposición final.
+
+1\. El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+2\. Se faculta al Ministerio del Interior para dictar las normas que sean necesarias para el desarrollo y ejecución del presente Real Decreto.
+
+Dado en Madrid a 4 de diciembre de 1985.
+
+JUAN CARLOS R.
+
+El Ministro del Interior,
+
+JOSÉ BARRIONUEVO PEÑA
+
+## ANEXO 1 — Enfermedades o defecto «que serán causa de denegación de licencias, permiso y tarjetas de armas
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2487/1998, de 20 de noviembre. [Ref. BOE-A-1998-27866](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-27866).
+
+> Se añaden un párrafo nuevo en el apartado 25 y el apartado 27 por la disposición adicional única.1 y 2 del Real Decreto 137/1993, de 29 de enero. [Ref. BOE-A-1993-6202](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-6202).
+
+## ANEXO 2 — Las tarifas aplicables por el reconocimiento y emisión de los informes de aptitud para la tenencia y uso de armas serán las siguientes:
+
+| Concepto | Pesetas | Euros |
+|---|---|---|
+| Para la obtención de licencias y autorizaciones de tenencia y uso de armas | 5.530 | 33,24 |
+| Para las renovaciones de licencias y autorizaciones de armas | 4.715 | 28,34 |
+| Para las renovaciones de licencias y autorizaciones de armas, cuyos titulares hayan cumplido la edad de sesenta años | 1.850 | 11,12 |
+| Para las renovaciones de licencias y autorizaciones cuyos titulares hayan cumplido setenta años de edad | 925<br> | 5,56 |
+
+> Se convierten a euros las cuantías indicadas por el art. único de la Resolución de 22 de octubre de 2001. [Ref. BOE-A-2001-20475](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-20475).
+
+> Se modifica por el art. 2 de la Orden de 4 de febrero de 2000. [Ref. BOE-A-2000-2673](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-2673).
+
+> Se modifica por el art. 2 de la Orden de 28 de octubre de 1998. [Ref. BOE-A-1998-25176](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-25176).
+
+> Se modifica por el art. 2 de la Orden de 8 de octubre de 1997. [Ref. BOE-A-1997-21714](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-21714).
+
+> Se modifica por el art. 2 de la Orden de 23 de septiembre de 1996. [Ref. BOE-A-1996-21259](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-21259).
+
+> Se modifica por el art. 2 de la Orden de 9 de junio de 1995. [Ref. BOE-A-1995-14599](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-14599).
+
+> Se modifica por el art. 2 de la Orden de 20 de junio de 1994. [Ref. BOE-A-1994-14889](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-14889).
+
+> Se modifica por el art. 2 de la Orden de 18 de junio de 1993. [Ref. BOE-A-1993-16342](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-16342).
+
+> Se modifica por el art. 2 de la Orden de 29 de junio de 1992. [Ref. BOE-A-1992-15561](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-15561).
+
+> Se modifica por el art. 2 de la Orden de 4 de junio de 1991. [Ref. BOE-A-1991-14467](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-14467).
+
+> Se modifica por el art. 2 de la Orden de 24 de julio de 1990. [Ref. BOE-A-1990-17824](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-17824).
+
+> Se modifica por el art. 2 de la Orden de 6 de junio de 1989. [Ref. BOE-A-1989-13035](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-13035).
+
+> Se modifica por el art. 2 de la Orden de 11 de enero de 1988. [Ref. BOE-A-1988-673](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-673).
+
+> Información relacionada
+
+> Las referencias hechas a la concesión y a la renovación de las licencias de armas serán también aplicables a la habilitación y a la realización de pruebas psicotécnicas periódicas del personal de seguridad privada, y las referencias hechas a determinados órganos administrativos se entenderán hechas según establece la disposición derogatoria única del Real Decreto 2487/1998, de 20 de noviembre. [Ref. BOE-A-1998-27866](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-27866).

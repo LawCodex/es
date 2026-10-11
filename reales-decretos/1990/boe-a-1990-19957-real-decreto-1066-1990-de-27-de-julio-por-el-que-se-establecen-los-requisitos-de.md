@@ -1,0 +1,163 @@
+---
+title: "Real Decreto 1066/1990, de 27 de julio, por el que se establecen los requisitos de sanidad animal que deben reunir los productos cárnicos destinados al comercio intracomunitario e importados de países terceros"
+identifier: "BOE-A-1990-19957"
+eli: "https://www.boe.es/eli/es/rd/1990/07/27/1066"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1990-07-27
+published: 1990-08-14
+in_force_from: 1990-08-15
+last_amended: 2006-05-27
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 194"
+status: repealed
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-19957"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1066/1990, de 27 de julio, por el que se establecen los requisitos de sanidad animal que deben reunir los productos cárnicos destinados al comercio intracomunitario e importados de países terceros
+
+Norma derogada, en todos los aspectos de salud pública, por la disposición derogatoria única.o).2º del Real Decreto 640/2006, de 26 de mayo. [Ref. BOE-A-2006-9300](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9300)
+
+La adhesión de España a la Comunidad Económica Europea exige la adaptacion de la legislación española a las normas y Directivas Comunitarias.
+
+Los requisitos sanitarios que deben cumplir los productos cárnicos que se destinen al comercio intracomunitario se establecieron en el Real Decreto 1473/1989, de 1 de diciembre, por el que se aprueba la Reglamentación Técnico-Sanitaria que regula las condiciones exigibles para el comercio intracomunitario de productos cárnicos destinados al consumo humano, así como las que deben reunir las industrias cárnicas autorizadas para dicho comercio.
+
+La Directiva del Consejo 80/215/CEE, modificada por las Directivas 80/1100/CEE, 85/321/CEE, 87/491/CEE y 88/660/CEE, establece los requisitos de sanidad animal que deben cumplir los productos cárnicos que se destinen al comercio intracomunitario, con el fin de evitar la difusión de las enfermedades que puedan poner en peligro el estado sanitario de la cabaña ganadera comunitaria y consecuentemente prevenir los riesgos directos e indirectos para la salud humana.
+
+Los requisitos sanitarios que establece la Directiva del Consejo 87/491/CEE relativos a la pasteurización de los productos cárnicos, cuando en una parte del territorio comunitario se haya declarado la peste porcina africana, se encontraron recogidos en la Orden del Ministerio de Agricultura, Pesca y Alimentación de 10 de noviembre de 1988.
+
+Se considera, por tanto, necesario incorporar a la legislación española los requisitos de sanidad animal que establece la Directiva del Consejo 80/215/CEE, y posteriores modificaciones y derogar la Orden antes citada, con el fin de presentar en un texto dispositivo las exigencias que en materia de sanidad animal tiene establecidas la reglamentación comunitaria para el comercio intracomunitario de productos cárnicos, y ello de acuerdo con la competencia estatal contenida en el artículo 149.1.10 y 16 de la Constitución.
+
+A estos efectos, a propuesta del Ministro de Agricultura, Pesca Alimentación y previa la deliberación del Consejo de Ministros en su reunión del día 27 de julio de 1990,
+
+DISPONGO:
+
+## Art. 1
+
+El presente Real Decreto tiene por finalidad establecer los requisitos de sanidad animal que han de cumplir los productos cárnicos importados en España procedentes de otros Estados miembros de la CEE, los importados de países terceros y los producidos en territorio español y destinados al comercio intracomunitario.
+
+## Art. 2
+
+A los efectos del presente Real Decreto serán de aplicación las definiciones que figuran en el título segundo, artículo 3, del Real Decreto 1473/1989, de 1 de diciembre, por el que se aprueba la Reglamentación Técnico-Sanitaria que regula las condiciones exigibles para el comercio intracomunitario de productos cárnicos destinados al consumo humano, así como las que deben reunir las industrias cárnicas autorizadas para dicho comercio.
+
+## Art. 3
+
+Además del cumplimiento de los requisitos sanitarios establecidos en el Real Decreto 1473/1989, las expediciones de productos cárnicos desde España hacia otros Estados miembros de la CEE, así como los envíos a España desde éstos, deberán cumplir con las condiciones siguientes:
+
+1) Las carnes frescas de las especies bovina, porcina, ovina, caprina y solípedos domésticos que se destinen a la elaboración de productos cárnicos provendrán de animales que cumplan los requisitos establecidos en el capítulo primero, artículo 3, del Real Decreto 110/1990, de 26 de enero, por el que se establecen las condiciones de sanidad que deben reunir las carnes frescas destinadas al comercio intracomunitario e importadas de terceros países.
+
+2) Por lo que se refiere a las carnes frescas de las especies bovina, porcina, ovina, caprina y solípedos domésticos importadas de países terceros para la elaboración de productos cárnicos, éstas cumplirán con lo dispuesto en el artículo 10 del citado Real Decreto 110/1990.
+
+3) Se aplicarán las normas previstas por el Real Decreto relativo a los controles veterinarios aplicables en los intercambios intracomunitarios de los productos de origen animal y, en particular, en lo que se refiere a controles en origen, organización y curso que hay que dar a los controles a realizar por la autoridad competente, así como a las medidas de salvaguardia que deban aplicarse.
+
+> Se añade el punto 3 por la disposición adicional 1 del Real Decreto 49/1993, de 15 de enero. [Ref. BOE-A-1993-5628](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5628)
+
+## Art. 4
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702)
+
+## Art. 5
+
+1.**(Derogado).**
+
+2.**(Derogado).**
+
+3) La carne en su contenedor se someterá a un tratamiento térmico que cumpla estrictamente los requisitos siguientes:
+
+El producto deberá conservar una temperatura de por lo menos 60 grados centígrados durante un tiempo mínimo de cuatro horas, durante el cual la temperatura deberá alcanzar al menos 70 grados centígrados en el centro de la pieza durante un tiempo mínimo de treinta minutos.
+
+Deberá controlarse permanentemente la temperatura de un número representativo de muestras de cada lote de productos. Dicho control se efectuará por medio de dispositivos que verifiquen la temperatura tanto en el centro de las piezas de carne como en el interior de los aparatos de calentamiento.
+
+4) Los productos cárnicos se elaborarán, transportarán y almacenarán de manera separada o en momentos distintos de los productos destinados al comercio intracomunitario que se hayan elaborado con carnes frescas no sometidas a restricciones por razones de sanidad animal.
+
+5) Una vez finalizado el tratamiento térmico, se colocará sobre el contenedor mencionado en los subapartados 2 y 3 la marca de salubridad que se prevé en el capítulo segundo, norma 12, del Real Decreto 1754/1986, de 28 de junio.
+
+6) Las industrias cárnicas que cumplan las especificaciones técnicas establecidas en los puntos precedentes, y especialmente las garantías del respeto de las temperaturas previstas en el punto 3, previamente autorizadas de conformidad con lo establecido en el Real Decreto 1473/1989, deberán figurar en una lista establecida al respecto.
+
+Corresponderá al Ministerio de Agricultura, Pesca y Alimentación comunicar a la Comisión de las Comunidades Europeas y al resto de los Estados miembros de la CEE la citada lista de industrias cárnicas españolas.
+
+El certificado sanitario previsto en el anexo III del Real Decreto 1754/1986 que acompañe al lote de productos cárnicos deberá llevar la siguiente mención en el punto I, segundo párrafo, que se refiere a la naturaleza de los productos: «tratados con arreglo al punto a) del apartado 1 del artículo 4 de la Directiva 80/215/CEE».
+
+3\. Las carnes frescas obtenidas de animales que no provengan de una explotación infectada como consecuencia de la aparición de alguna de las enfermedades previstas en el punto 2 del artículo 3 del Real Decreto 110/1990, se podrán destinar a la elaboración de productos cárnicos si dichos productos cumplen los siguientes requisitos:
+
+1) Tratamiento por el calor, diferente al descrito en el apartado 2 del presente artículo, pero a condición de alcanzar en el centro del producto una temperatura de al menos 70 grados centígrados.
+
+2) Tratamiento consistente en una fermentación natural y en una maduración durante nueve meses como mínimo cuando se trate de jamones deshuesados de un peso inferior a 5,5 kilogramos, a condición de que se garanticen las condiciones técnicas siguientes: «aW» igual o inferior a 0,93, y «pH» igual o inferior a 6. Este tratamiento no será de aplicación cuando se trate de enfermedad vesicular porcina.
+
+Cuando el tratamiento anteriormente descrito se aplique a causa de la fiebre aftosa, éste se podrá realizar en jamones sin deshuesar que cumplan las restantes condiciones.
+
+4\. La elaboración de los productos cárnicos previstos en el presente artículo sólo podrá realizarse bajo control de Veterinario oficial y siempre que estén protegidos de cualquier contaminación o recontaminación.
+
+> Se derogan los apartados 1 y 2 por la disposición derogatoria única del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702)
+
+## Art. 6
+
+Las carnes frescas que se destinen a la elaboración de los productos cárnicos previstos en el artículo 5.° deberán transportarse y almacenarse de forma separada en momentos diferentes de las carnes frescas que cumplan lo establecido en el artículo 3 del Real Decreto 110/1990. Asimismo, deberán adoptarse las medidas de seguridad necesarias para garantizar que sólo han de ser empleadas en la elaboración de los productos cárnicos determinados en el artículo 5.° del presente Real Decreto.
+
+## Art. 7
+
+Podrán importarse los productos cárnicos procedentes de otros Estados miembros de la CEE, que hayan sido elaborados de acuerdo con las especificaciones técnicas que figuran en el artículo 5.° del presente Real Decreto.
+
+## Art. 8
+
+Los productos cárnicos que cumplan las especificaciones que figuran en el artículo 5.° del presente Real Decreto irán provistos de la marca de salubridad establecida en el Real Decreto 1754/1986.
+
+## Art. 9
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 49/1993, de 15 de enero. [Ref. BOE-A-1993-5628](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5628)
+
+## Art. 10.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 49/1993, de 15 de enero. [Ref. BOE-A-1993-5628](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5628)
+
+## Art. 11.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702)
+
+## Art. 12.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702)
+
+## Art. 13.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 646/1992, de 12 de junio. [Ref. BOE-A-1992-17186](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-17186)
+
+## Disposición adicional.
+
+La presente disposición se dicta al amparo del artículo 149.1, 10 y 16 de la Constitución.
+
+## Disposición derogatoria
+
+Queda derogada la Orden del Ministerio de Agricultura, Pesca y Alimentación de 10 de noviembre de 1988 por la que se establecen las exigencias técnico-sanitarias que deben reunir las industrias cárnicas españolas, en la elaboración y expedición de productos cárnicos pasteurizados derivados del cerdo a otros Estados miembros de la CEE, así como cuantas disposiciones de igual o inferior rango en lo que se opongan a lo establecido en la presente disposición.
+
+## Disposición final primera.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para dictar las disposiciones necesarias para el mejor cumplimiento del presente Real Decreto.
+
+## Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 27 de julio de 1990.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+CARLOS ROMERO HERRERA

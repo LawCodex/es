@@ -1,0 +1,187 @@
+---
+title: "Orden de 20 de octubre de 1983 por la que se aprueba la Norma General de Calidad para la leche concentrada destinada al mercado interior"
+identifier: "BOE-A-1983-27944"
+eli: "https://www.boe.es/eli/es/o/1983/10/20/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1983-10-20
+published: 1983-10-24
+in_force_from: 1983-10-24
+last_amended: 2013-03-29
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 254"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1983-27944"
+retrieved: 2026-10-11
+---
+
+# Orden de 20 de octubre de 1983 por la que se aprueba la Norma General de Calidad para la leche concentrada destinada al mercado interior
+
+Incluye la corrección de erratas publicada en BOE núm. 274, de 16 de noviembre de 1983. [Ref. BOE-A-1983-29620](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-29620)
+
+Excelentísimos señores:
+
+De conformidad con lo establecido en el Decreto 1043/1973 de 17 de mayo, por el que se regula la Normalización de Productos Ganaderos en el mercado interior, y teniendo en cuenta los Decretos de Presidencia del Gobierno 2484/1967, de 21 de septiembre, por el que se aprueba el texto del Código Alimentario Español, y el 2519/1974, de 9 de agosto, sobre su entrada en vigor, aplicación y desarrollo, parece oportuno dictar la presente Norma General de Calidad para la Leche Concentrada; visto el informe de la Comisión Interministerial para la Ordenación Alimentaria, y de conformidad con los acuerdos del FORPPA.
+
+En su virtud, a propuesta de los Ministros de Agricultura, Pesca y Alimentación, de Economía y Hacienda y de Sanidad y Consumo, esta Presidencia del Gobierno dispone:
+
+### Primero.
+
+Se aprueba la Norma General de Calidad para la Leche Concentrada destinada al mercado interior que se recoge en el anejo único de esta Orden.
+
+### Segundo.
+
+La toma de muestras, así como las determinaciones analíticas, se realizarán de acuerdo con los métodos oficiales de análisis vigentes.
+
+### Tercero.
+
+De conformidad con lo dispuesto en el Decreto 1043/1973, de 17 de mayo, por el que se regula la Normalización de Productos Ganaderos en el mercado interior, los Departamentos responsables velarán por el cumplimiento de lo dispuesto en la presente Orden en el ámbito de sus respectivas competencias y a través de sus órganos administrativos encargados, que coordinarán sus actuaciones, y, en todo caso, sin perjuicio de las competencias que correspondan a las Comunidades Autónomas y a las Corporaciones Locales.
+
+### Cuarto.
+
+La presente Orden entrará en vigor en todo el territorio del Estado español, en el momento de su publicación en el «Boletín Oficial del Estado», excepto lo dispuesto en el apartado 12. «Etiquetado y rotulación de la norma», que entrará en vigor en las fechas fijadas para la entrada en vigor del título IV del Real Decreto 2058/1982, de 12 de agosto, por el que se aprueba la Norma General de Etiquetado, presentación y publicidad de los productos alimenticios envasados.
+
+## DISPOSICIÓN TRANSITORIA
+
+Se prohíbe la venta de la leche concentrada desnatada definida en el apartado 5.2 de esta norma, hasta que se determinen los regímenes de comercialización y precios de la misma.
+
+Lo que comunico a VV. EE. para su conocimiento y efectos.
+
+Dios guarde a VV. EE. muchos años.
+
+Madrid, 20 de octubre de 1983.
+
+MOSCOSO DEL PRADO Y MUÑOZ
+
+Excmos Sres. Ministros de Agricultura, Pesca y Alimentación; de Economía y Hacienda y de Sanidad y Consumo.
+
+## ANEJO ÚNICO — Norma general de calidad para la leche concentrada
+
+1\. Nombre de la norma.
+
+Norma general de calidad para la leche concentrada.
+
+2\. Objeto de la norma.
+
+La presente norma tiene por objeto definir aquellas condiciones y características que debe reunir la leche concentrada para su comercialización y consumo en el mercado interior.
+
+3\. Ámbito de aplicación.
+
+La presente norma se refiere a la leche de vaca concentrada destinada a su comercialización en el mercado interior.
+
+4\. Definición.
+
+Se entiende por leche concentrada la leche natural, entera, desnatada o semidesnatada, pasterizada y privada de parte de su agua de constitución. La descripción de la pasterización será la establecida en la «Norma General de Calidad para la Leche Pasterizada destinada al mercado interior».
+
+5\. Denominaciones.
+
+5.1 Leche concentrada entera o leche concentrada.
+
+La que contenga un mínimo del 11,75 p.100 de materia grasa de la leche y un mínimo del 30,15 p.100 de extracto seco magro procedente de la leche, expresados en porcentaje en masa sobre la masa del producto final.
+
+5.2 Leche concentrada desnatada.
+
+La que contenga, como máximo, un 1,10 p.100 de materia grasa de la leche, y un mínimo de 30,90 p.100 de extracto seco magro procedente de la leche, expresados en porcentaje en masa sobre la masa del producto final.
+
+5.3. Leche concentrada semidesnatada:
+
+La que contenga un mínimo del 5,50 por 100 y un máximo del 6,60 por 100 de materia grasa de la leche y un mínimo del 30,40 por 100 de extracto seco magro procedente de la leche, expresados en porcentaje en masa sobre la masa del producto final.
+
+6\. Tratamiento.
+
+6.1 Proceso de elaboración. **(Derogado)**
+
+6.2 Otras operaciones permitidas.
+
+6.2.1 Normalización de la proporción de grasa y extracto seco magro para satisfacer los requerimientos de composición del apartado 5.
+
+6.2.2 Homogeneización.
+
+6.2.3. Termización previa de la leche, fuera o dentro del centro de elaboración, en flujo continuo, a una temperatura comprendida entre 62° y 65° C durante un tiempo de diez a veinte segundos, seguida de inmediata refrigeración a no más de 4° C, debiendo conservarse posteriormente a un máximo de 8° C.
+
+7\. Factores esenciales de composición y calidad.
+
+7.1 Ingrediente único.
+
+Leche de vaca.
+
+7.2 Características físico-químicas.
+
+7.2.1 Organolépticas.
+
+La leche concentrada dispuesta para su venta deberá presentar las siguientes características:
+
+– Color uniforme, ligeramente amarillento.
+
+– Olor y sabor característicos.
+
+7.2.2. Intrínsecas:
+
+Materia grasa de la leche:
+
+Leche concentrada entera: Mínimo 11,75 por 100 m/m.
+
+Leche concentrada desnatada: Máximo 1,10 por 100 m/m.
+
+Leche concentrada semidesnatada: Mínimo 5,50 y máximo 6,60 por 100 m/m.
+
+Índices de la grasa de la leche:
+
+Índice de refracción a 40° C: De 1,4540 a 1,4557.
+
+Índice de Reichert: De 26 a 32.
+
+Índice de Polenske: De 1 a 4.
+
+Indice de Kirchner: De 19 a 27.
+
+El límite mínimo de colesterol dentro de los esteroles será del 98 por 100 de la fracción esterólica del insaponificable, determinados por cromatografía gaseosa.
+
+Extracto seco magro:
+
+Leche concentrada entera: Mínimo 30,15 por 100 m/m.
+
+Leche concentrada desnatada: Mínimo 30,90 por 100 m/m.
+
+Leche concentrada semidesnatada: Mínimo 30,40 por 100 m/m.
+
+Impurezas (prueba de filtración por disco de algodón): Grado 0.
+
+Prueba de fosfatasa: Negativa.
+
+7.2.3 La leche concentrada una vez reconstituida poseerá las mismas características establecidas para la leche pasterizada, en cuanto a su composición se refiere.
+
+8\. Norma microbiológica y contaminantes. **(Derogado)**
+
+9\. Prohibiciones. **(Derogado)**
+
+10\. Higiene. **(Derogado)**
+
+11\. Envasado. **(Derogado)**
+
+12\. Etiquetado y presentación.
+
+El etiquetado de los productos recogidos en esta Norma, deberá cumplir lo dispuesto en el Real Decreto 212/1992, de 6 de marzo, por el que se aprueba la Norma General de Etiquetado, Presentación y Publicidad de Productos Alimenticios, con la indicación de las siguientes particularidades.
+
+12.1 La denominación de venta será la establecida en el apartado 5 de la Norma, pudiéndose añadir el calificativo de pasterizada.
+
+12.2 La expresión "homogeneizada" si la leche ha sufrido este tratamiento.
+
+12.3 **(Derogado)**
+
+12.4 Se indicará según los casos la equivalencia en leche entera, semidesnatada o desnatada.
+
+13\. **(Derogado)**
+
+> Se derogan los apartados 6.1, 8, 9 ,10, 11, 12.3 y 13 por el art. 27 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se deroga el apartado 8.1 por el art. único.i) del Real Decreto 135/2010, de 12 de febrero. [Ref. BOE-A-2010-3032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3032).
+
+> Se modifican los puntos 6.1.6, 10.2, 10.3 y 12 por el art. único de la Orden de 6 de diciembre de 1995. [Ref. BOE-A-1995-20664](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-20664).
+
+> Se modifica por el art. 1 de la Orden de 11 de febrero de 1987. [Ref. BOE-A-1987-4521](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-4521).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 274, de 16 de noviembre de 1983. [Ref. BOE-A-1983-29620](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-29620)

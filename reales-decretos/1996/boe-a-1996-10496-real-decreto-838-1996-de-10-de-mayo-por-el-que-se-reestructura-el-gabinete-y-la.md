@@ -1,0 +1,127 @@
+---
+title: "Real Decreto 838/1996, de 10 de mayo, por el que se reestructura el Gabinete y la Secretaría General de la Presidencia del Gobierno"
+identifier: "BOE-A-1996-10496"
+eli: "https://www.boe.es/eli/es/rd/1996/05/10/838"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1996-05-10
+published: 1996-05-11
+in_force_from: 1996-05-11
+last_amended: 2000-05-27
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 115"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-10496"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 838/1996, de 10 de mayo, por el que se reestructura el Gabinete y la Secretaría General de la Presidencia del Gobierno
+
+El Real Decreto 3773/1982, de 22 de diciembre, estableció la estructura orgánica de la Presidencia del Gobierno. Posteriormente, diversas disposiciones modificaron parcialmente la organización, adaptándola a las necesidades existentes en cada momento.
+
+Constituido el nuevo Gobierno y acometida la reforma de la estructura básica de los diferentes Departamentos ministeriales, se hace necesario reestructurar el Gabinete y la Secretaría General de la Presidencia del Gobierno,
+
+En su virtud, a propuesta del Presidente del Gobierno y previa deliberación del Consejo de Ministros en su reunión del día 10 de mayo de 1996
+
+DISPONGO:
+
+## Artículo 1.
+
+El Gabinete del Presidente del Gobierno, como órgano de asistencia política y técnica del Presidente del Gobierno, ejercerá las siguientes funciones:
+
+a) Facilitar al Presidente del Gobierno la información política y técnica que resulte necesaria para el ejercicio de sus funciones.
+
+b) Asesorar al Presidente del Gobierno en aquellos asuntos y materias que éste disponga.
+
+c) Conocer las actividades, programas y planes de los distintos Departamentos ministeriales, con el fin de facilitar al Presidente del Gobierno la coordinación de la acción del Gobierno.
+
+d) Realizar aquellas otras actividades o funciones que le encomiende el Presidente del Gobierno.
+
+> Se modifica el párrafo primero por la disposición adicional única del Real Decreto 929/2000, de 26 de mayo. [Ref. BOE-A-2000-9866](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-9866).
+
+## Artículo 2.
+
+1\. Al frente del Gabinete del Presidente del Gobierno figurará un Director, con rango de Secretario de Estado.
+
+2\. Dependerá directamente del Director del Gabinete un Subdirector, con rango de Subsecretario.
+
+3\. Para el desarrollo de las funciones específicas que corresponden al Gabinete del Presidente del Gobierno, existirán los siguientes Departamentos, cuyos titulares tendrán el rango de Director general:
+
+a) Economía.
+
+b) Internacional y Seguridad.
+
+c) Bienestar y Educación.
+
+d) Parlamento e Instituciones.
+
+e) Estudios y Comunicación Política.
+
+> Se modifican los apartados 1 y 3 por la disposición adicional única y el art. único.1 del Real Decreto 929/2000, de 26 de mayo. [Ref. BOE-A-2000-9866](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-9866).
+
+## Artículo 3.
+
+La Secretaría General de la Presidencia del Gobierno, cuyo titular tendrá rango de Secretario de Estado, se organiza en los siguientes Departamentos, con nivel de Dirección General:
+
+a) Vicesecretaría General.
+
+b) Protocolo.
+
+c) Seguridad.
+
+d) Infraestructura y seguimiento para situaciones de crisis.
+
+> Se modifica por el art. único.2 del Real Decreto 929/2000, de 26 de mayo. [Ref. BOE-A-2000-9866](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-9866).
+
+## Artículo 4.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1731/1998, de 31 de julio. [Ref. BOE-A-1998-18558](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-18558).
+
+## Artículo 5.
+
+El Departamento de Protocolo de la Presidencia del Gobierno asumirá las funciones atribuidas a la Jefatura de Protocolo del Estado y a la Jefatura de Protocolo de la Presidencia del Gobierno en los artículos 7 y 8 del Real Decreto 1486/1993, de 3 de septiembre.
+
+La Cancillería de la Real y muy distinguida Orden de Carlos III radicará en la Secretaría General de la Presidencia.
+
+> Se añade el párrafo segundo por el art. único.3 del Real Decreto 929/2000, de 26 de mayo. [Ref. BOE-A-2000-9866](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-9866).
+
+## Disposición adicional. Secretaría de la Comisión Delegada del Gobierno para Situaciones de Crisis.
+
+El Secretario general de la Presidencia del Gobierno ejercerá las funciones de Secretario de la Comisión Delegada del Gobierno para Situaciones de Crisis.
+
+> Se añade por el art. único.4 del Real Decreto 929/2000, de 26 de mayo. [Ref. BOE-A-2000-9866](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-9866).
+
+## Disposición derogatoria única.
+
+Quedan derogados los artículos 1, 2, 10 y 14 del Real Decreto 3773/1982, de 22 de diciembre; el Real Decreto 163/1987, de 6 de febrero; el Real Decreto 1481/1989, de 15 de diciembre, y cuantas otras disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.
+
+## Disposición final primera.
+
+Quedan suprimidos la Jefatura de Protocolo del Estado, la Jefatura de Protocolo de la Presidencia del Gobierno, los ocho Departamentos del Gabinete del Presidente del Gobierno y el Secretario general de la Vicepresidencia del Gobierno que se mencionan en el Real Decreto 1481/1989, de 15 de diciembre, y la Dirección de Infraestructuras y Seguimiento para Situaciones de Crisis.
+
+> Se modifica por la disposición adicional única del Real Decreto 929/2000, de 26 de mayo. [Ref. BOE-A-2000-9866](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-9866).
+
+## Disposición final segunda.
+
+Los órganos de rango inferior a los regulados en el presente Real Decreto se entenderán subsistentes y conservarán su estructura y funciones en tanto no se realicen las oportunas modificaciones orgánicas.
+
+## Disposición final tercera.
+
+Por el Ministerio de Economía y Hacienda se realizarán las modificaciones y habilitaciones presupuestarias precisas para el cumplimiento de lo previsto en este Real Decreto.
+
+## Disposición final cuarta.
+
+El presente Real Decreto entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 10 de mayo de 1996.
+
+JUAN CARLOS R.
+
+El Presidente del Gobierno,
+
+JOSÉ MARÍA AZNAR LÓPEZ

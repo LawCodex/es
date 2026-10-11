@@ -1,0 +1,127 @@
+---
+title: "Orden de 24 de julio de 1976 por la que se crea el sistema especial para las tareas de manipulado y empaquetado de tomate fresco realizadas por cosecheros exportadores dentro del Régimen General de la Seguridad Social"
+identifier: "BOE-A-1976-15228"
+eli: "https://www.boe.es/eli/es/o/1976/07/24/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo"
+date: 1976-07-24
+published: 1976-08-07
+in_force_from: 1976-09-01
+last_amended: 2002-02-02
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 189"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1976-15228"
+retrieved: 2026-10-11
+---
+
+# Orden de 24 de julio de 1976 por la que se crea el sistema especial para las tareas de manipulado y empaquetado de tomate fresco realizadas por cosecheros exportadores dentro del Régimen General de la Seguridad Social
+
+Ilustrísimos señores:
+
+El artículo 11 de la Ley General de la Seguridad Social, de 30 de mayo de 1974, señala que en aquellos Regímenes de la Seguridad Social en que así resulte necesario podrán establecerse sistemas especiales en materia de encuadramiento, afiliación, forma de cotización o recaudación. Con objeto de facilitar la aplicación del Régimen General de la Seguridad Social a los cosecheros-exportadores de tomate fresco resulta oportuno el establecimiento de un sistema especial, excluyendo a este sector económico del campo de aplicación del Sistema Especial de Frutas y Hortalizas, creado por Orden de 3 de mayo de 1971.
+
+En su virtud, este Ministerio, a propuesta de la Subsecretaria de la Seguridad Social, previo informe de la Organización Sindical y del Ministerio de Comercio, ha tenido a bien disponer:
+
+### Artículo 1. Normas generales.
+
+1.1 La aplicación del Régimen General de la Seguridad Social a las tareas de manipulado y empaquetado de tomate fresco con destino a la exportación realizadas por trabajadores eventuales o de temporada al servicio de empresarios cosecheros-exportadores del referido fruto, se efectuará a través del presente sistema especial en materia de inscripción de Empresas, afiliación, altas y bajas de trabajadores, cotización y recaudación.
+
+1.2 En todas las materias no reguladas por la presente Orden serán de aplicación las normas comunes del Régimen General de la Seguridad Social.
+
+### Art. 2.° Ámbito personal de aplicación.
+
+2.1 Se encuentran comprendidos dentro de este sistema especial:
+
+2.1.1 Los empresarios cosecheros-exportadores de tomate fresco, entendiéndose por tales las personas naturales o jurídicas que realicen sucesivamente y por sí mismas las faenas de producción y las de comercialización y exportación del fruto producido, en su totalidad, por ellos mismos.
+
+2.1.2 Los trabajadores eventuales o de temporada que se dediquen exclusivamente a la manipulación y empaquetado del tomate fresco con destino a la exportación, dentro de la campaña oficial y al servicio de empresarios cosecheros-exportadores de tomate fresco.
+
+2.2 Quedan excluidos de este sistema especial:
+
+2.2.1 Las empresarios que se dediquen a la comercialización de tomate fresco con destino al consumo nacional o a la comercialización con destino a la exportación, siempre que, en este caso, no sean productores directos de la totalidad del indicado fruto.
+
+2.2.2 Los trabajadores eventuales o de temporada que se dediquen a la manipulación de tomate con destino a la transformación, tanto si están al servicio de los empresarios señalados en el apartado 2.1.1 como de los señalados en el apartado 2.2.1.
+
+2.2.3 Los trabajadores fijos o de plantilla al servicio de los cosecheros-exportadores de tomate señalados en el apartado 2.1.1.
+
+> Véase el art. único de la Orden de 9 de diciembre de 1994. [Ref. BOE-A-1994-27817](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-27817)., sobre ampliación del ámbito de aplicación del sistema especial.
+
+### Art. 3.º Ámbito funcional de aplicación.
+
+3.1 El presente sistema especial se aplicará exclusivamente a las tareas de manipulación y empaquetado de tomate en su estado natural que realicen los trabajadores señalados en el apartado 2.1.2, con los productos de la cosecha de los empresarios señalados en el apartado 2.1.1 para quienes aquéllos prestan servicios.
+
+3.2 Las tareas señaladas en el apartado anterior deberán ser realizadas dentro de las campañas oficiales, que tendrán la siguiente duración:
+
+3.2.1 En la península:
+
+3.2.1.1 Para el tomate liso de invierno: Desde el 1 de octubre al 31 de enero.
+
+3.2.1.2 Para el tomate asurcado de invierno: Desde el 1 de octubre al 30 de abril.
+
+3.2.1.3 Para el tomate de verano: Desde el 1 de mayo al 30 de septiembre.
+
+3.2.2 En las Islas Canarias: Desde el 1 de octubre al 31 de mayo.
+
+### Art. 4.° Inscripción de Empresas.
+
+4.1 Las Empresas comprendidas en este sistema especial deberán figurar inscritas en el Régimen General de la Seguridad Social.
+
+4.2 La inscripción se solicitará ante el Instituto Nacional de Previsión, a través del Sindicato Provincial de Frutos y Productos Hortícolas.
+
+4.3 Al número de inscripción que corresponda a las Empresas incluidas en este sistema especial se añadirán las siglas S.E.C.E.T. (Sistema Especial Cosecheros-Exportadores Tomates).
+
+### Art. 5.º Afiliación, altos y bajos.
+
+5.1 El Sindicato Provincial de Frutos y Productos Hortícolas tramitará la afiliación de los trabajadores y las altas y bajas que reciba de los empresarios para hacerlas seguir al Instituto Nacional de Previsión, utilizando al efecto los modelos oficiales que se establezcan y observando los requisitos de forma y plazo y los trámites que se establezcan por la Subsecretaría de la Seguridad Social.
+
+5.2 Los empresarios cursarán las bajas de sus trabajadores a la terminación de las respectivas campañas, con independencia de las que hayan comunicado durante el transcurso de las mismas. Del mismo modo deberán dar las correspondientes bajas cuando los trabajadores, aun permaneciendo al servicio del mismo empresario, pasen a trabajar en campaña distinta de aquella en que causarán alta.
+
+### Art. 6.º Cotización.
+
+6.1 Los empresarios descontarán a sus trabajadores la parte de cuota correspondiente en el momento de hacerles efectivas sus retribuciones y en la forma establecida para el Régimen General.
+
+6.2 La aportación de los empresarios a este Sistema Especial consistirá en una cuota por tonelada de tomate fresco empaquetado durante el período de que se trate.
+
+Las reducciones o bonificaciones en la cotización empresarial por contingencias comunes, a que den derecho determinadas modalidades de contratación, se aplicarán a la parte de la aportación antes señalada correspondiente a los trabajadores afectados por las mismas, previa distribución del importe a que ascienda dicha aportación entre la totalidad de los trabajadores de la empresa en el período a que corresponda.
+
+> Se modifica el apartado 2 por la disposición adicional 9.1 de la Orden TAS/192/2002, de 31 de enero. [Ref. BOE-A-2002-2195](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2195).
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final 1.
+
+### Art. 7.º Recaudación.
+
+7.1 Los empresarios ingresarán en el Instituto Nacional de Previsión la aportación empresarial y la de los trabajadores, así como la que corresponda por accidentes de trabajo y enfermedades profesionales, a través del Sindicato Provincial de Frutos y Productos Hortícolas, por meses vencidos y dentro de los dos meses siguientes a aquel a que corresponda su devengo.
+
+7.2 De la aportación empresarial se deducirá el importe de las prestaciones satisfechas por el empresario en régimen de pago delegado.
+
+7.3 Los ingresos de cuotas que se efectúen una vez transcurrido el plazo señalado en el apartado 7.1 estarán sujetas a los recargos establecidos en el Régimen General.
+
+7.4 La Subsecretaría de la Seguridad Social establecerá los modelos de impresos a utilizar en este Sistema Especial.
+
+### Art. 8.º Colaboración de la Organización Sindical.
+
+Las condiciones de la colaboración que en la presente disposición se confiere a la Organización Sindical serán objeto del correspondiente concierto con las Entidades Gestoras de la Seguridad Social, de conformidad con lo dispuesto en el artículo 200 y 209 de la Ley General de la Seguridad Social.
+
+## DISPOSICIONES FINALES
+
+### Primera.
+
+Se autoriza a la Subsecretaría de la Seguridad Social para resolver cuantas cuestiones se planteen en la aplicación de lo dispuesto en la presente Orden, que entrará en vigor el día primero del mes siguiente al de su publicación.
+
+### Segunda.
+
+No obstante lo dispuesto en la disposición final anterior, la presente Orden será de aplicación a las campañas iniciadas con efectos desde 1 de octubre de 1975.
+
+Lo digo a VV. II. para su conocimiento y efectos.
+
+Dios guarde a VV. II.
+
+Madrid, 24 de julio de 1976.
+
+RENGIFO CALDERÓN
+
+Ilmos. Sres. Subsecretario de este Ministerio y Subsecretario de la Seguridad Social.

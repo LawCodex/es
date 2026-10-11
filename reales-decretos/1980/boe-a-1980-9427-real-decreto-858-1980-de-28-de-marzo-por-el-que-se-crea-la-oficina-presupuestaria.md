@@ -1,0 +1,63 @@
+---
+title: "Real Decreto 858/1980, de 28 de marzo, por el que se crea la Oficina Presupuestaria del Ministerio de Justicia"
+identifier: "BOE-A-1980-9427"
+eli: "https://www.boe.es/eli/es/rd/1980/03/28/858"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1980-03-28
+published: 1980-05-08
+in_force_from: 1980-05-28
+last_amended: 2011-06-04
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 111"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1980-9427"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 858/1980, de 28 de marzo, por el que se crea la Oficina Presupuestaria del Ministerio de Justicia
+
+La disposición final primera del Real Decreto dos mil ochocientos cincuenta y cinco/mil novecientos setenta y nueve, de veintiuno de diciembre, por el que se crean Oficinas Presupuestarias en todos los Ministerios establece que cada Departamento ministerial procederá a dictar o proponer en el plazo de dos meses, las normas precisas para la organización de la correspondiente Oficina Presupuestaria, refundiendo en ella los ser-vicios ya establecidos para la atención de las mismas funciones.
+
+En su virtud, a propuesta del Ministro de Justicia y previa deliberación del Consejo de Ministros en su reunión del día veintiocho de marzo de mil novecientos ochenta,
+
+DISPONGO:
+
+### Artículo primero.
+
+Se crea, con las competencias y funciones que señala el Real Decreto dos mil ochocientos cincuenta y cinco/mil novecientos setenta y nueve, de veintiuno de diciembre, la Oficina Presupuestaria del Ministerio de Justicia, con rango de Subdirección General, dependiendo directamente de la Subsecretaría del Departamento.
+
+### Artículo segundo.
+
+La Oficina Presupuestaria estará integrada por una unidad con nivel orgánico de Servicio, del cual dependen dos Secciones:
+
+Sección de Presupuestos, Programas y relaciones con el Consejo General del Poder Judicial.
+
+Sección de Evaluación y Seguimiento.
+
+### Artículo tercero.
+
+Uno. La Sección de Presupuestos y Programas tendrá como misión la elaboración del Anteproyecto de Presupuesto del Departamento; recibir y tramitar el Anteproyecto de Presupuesto del Consejo General del Poder Judicial; formular en términos de objetivos y programas de gasto los planes de actuación de los Servicios departamentales; tramitar los expedientes de modificaciones presupuestarias; coordinar la elaboración de los proyectos de Presupuesto de las Entidades estatales autónomas, informarlos, consolidarlos con el del Ministerio y tramitarlos al de Hacienda; el informe y tramitación de los expedientes de alteraciones presupuestarias de los Organismos; los informes periódicos sobre la ejecución del Presupuesto; el informe de los proyectos de disposiciones y resoluciones del Departamento con repercusión sobre el gasto público; el asesoramiento a todos los servicios y Centros en materia presupuestaria; cualesquiera otras que se le encomienden en relación con el proceso de elaboración y decisión presupuestaria.
+
+Dos. A la Sección de Evaluación y Seguimiento le corresponderá: el seguimiento y evaluación de los programas de gastos: proponer la revisión de programas y la consideración de alternativas que mejoren la eficacia del gasto; coordinar los trabajos para el cálculo del costo de las servicios del Departamento a transferir a los entes preautonómicos y comunidades autónomas; elaborar y poner en práctica, en colaboración con los Servicios correspondientes, métodos presupuestarios tendentes a la racionalización de la gestión económica.
+
+### Artículo cuarto.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única y anexo del Real Decreto 776/2011, de 3 de junio. [Ref. BOE-A-2011-9736](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9736).
+
+## DISPOSICIÓN ADICIONAL
+
+Como consecuencia de la organización de la Oficina Presupuestaria, se modifica el artículo quince del Decreto mil quinientos veinte/mil novecientos sesenta y ocho, de doce de junio, por el que se aprueba el Reglamento orgánico del Ministerio de Justicia, suprimiendo la «Sección de Presupuestos, Ordenación del Gasto y Suministros» y creando la «Sección de Ordenación del Gasto y Suministros», la cual constará del negociado de Distribuciones y del negociado Órgano Gestor de la Junta de Compras.
+
+Dado en Madrid a veintiocho de marzo de mil novecientos ochenta,
+
+JUAN CARLOS R.
+
+El Ministro de Justicia,
+
+ÍÑIGO CAVERO LATAILLADE

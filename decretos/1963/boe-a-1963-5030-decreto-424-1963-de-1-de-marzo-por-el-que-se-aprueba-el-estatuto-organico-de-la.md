@@ -1,0 +1,1345 @@
+---
+title: "Decreto 424/1963, de 1 de marzo, por el que se aprueba el Estatuto Orgánico de la profesión de Gestor Administrativo"
+identifier: "BOE-A-1963-5030"
+eli: "https://www.boe.es/eli/es/d/1963/03/01/424"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1963-03-01
+published: 1963-03-08
+in_force_from: 1963-03-28
+last_amended: 1998-12-12
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 58"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1963-5030"
+retrieved: 2026-10-11
+---
+
+# Decreto 424/1963, de 1 de marzo, por el que se aprueba el Estatuto Orgánico de la profesión de Gestor Administrativo
+
+Por Decreto del Ministerio de Comercio de diez de mayo de mil novecientos cincuenta y siete se aprobó el Reglamento Orgánico por el que han venido rigiéndose los Gestores administrativos, quienes quedaron bajo la tutela de la Presidencia del Gobierno al disponerse por Decreto de cuatro de julio de mil novecientos cincuenta y ocho que sus Colegios Oficiales y Junta Central pasaban a depender de ella.
+
+La aplicación del Reglamento citado motivó que, tanto por el Ministerio de Comercio como por la Presidencia del Gobierno, se dictasen múltiples normas de desarrollo que conviene reunir en una sola disposición, y ello ha motivado la redacción del estatuto que por este Decreto se aprueba.
+
+En su virtud, a propuesta del Ministro Subsecretario de la Presidencia del Gobierno y previa deliberación del Consejo de Ministros en su reunión del día ocho de febrero de mil novecientos sesenta y tres,
+
+#### DISPONGO:
+
+##### Artículo primero.
+
+Se aprueba el Estatuto Orgánico de la profesión de Gestor Administrativo que a continuación se inserta.
+
+##### Artículo segundo.
+
+Los derechos que, por su actuación, corresponderá percibir al Gestor administrativo, serán los establecidos en los aranceles aprobados por Orden de la Presidencia del Gobierno de dieciséis de mayo de mil novecientos sesenta, con la modificación introducida por la de treinta de mayo de mil novecientos sesenta y dos.
+
+##### Artículo tercero.
+
+Quedan derogados los Decretos de diez de mayo de mil novecientos cincuenta y siete y cuatro de julio de mil novecientos cincuenta y ocho y las Ordenes de diecisiete de mayo de mil novecientos cincuenta y dos, quince de febrero de mil novecientos cincuenta y ocho y veinticinco de septiembre del mismo año.
+
+##### Artículo cuarto.
+
+Se autoriza a la Presidencia del Gobierno para que dicte las disposiciones que considere oportunas para el complemento y desarrollo del Estatuto que se aprueba.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a uno de marzo de mil novecientos sesenta y tres.
+
+FRANCISCO FRANCO
+
+El Ministro Subsecretario de la Presidencia del Gobierno,
+
+LUIS CARRERO BLANCO
+
+## ESTATUTO DE GESTORES ADMINISTRATIVOS
+
+## Capítulo primero — Preliminar
+
+##### Artículo 1.º
+
+Los Gestores Administrativos son profesionales que, sin perjuicio de la facultad de actuar por medio de representante que a los interesados confiere el artículo 24 de la Ley de Procedimiento Administrativo, se dedican de modo habitual y con tal carácter de profesionalidad y percepción de honorarios a promover, solicitar y realizar toda clase de trámites que no requieran la aplicación de la técnica jurídica reservada a la abogacía, relativos a aquellos asuntos que en interés de personas naturales o jurídicas, y a solicitud de ellas, se sigan ante cualquier órgano de la Administración Pública, informando a sus clientes del estado y vicisitudes del procedimiento por el que se desarrollan.
+
+**(Párrafo segundo derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 2.°
+
+Los gestores administrativos actúan ante los órganos de las Administraciones públicas en calidad de representantes al amparo de dispuesto en el artículo 32.2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, de forma habitual, retribuida y profesional, sometiéndose por ello imperativamente al cumplimiento de las normas establecidas en el presente Estatuto General.
+
+> Se modifica por el art. 1.1 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 3.º
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+##### Artículo 4.°
+
+Los gestores administrativos estarán encuadrados en Colegios de ámbito territorial que podrán, a su vez, agruparse en Consejos de Colegios de Comunidades Autónomas y todos ellos se agrupan en el Consejo General de Colegios de Gestores Administrativos. Estas corporaciones son el vehículo de relación con la Administración competente a los efectos previstos en la legislación en materia de Colegios Profesionales.
+
+> Se modifica por el art. 1.2 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 5.º
+
+El Consejo General y los Colegios Oficiales de Gestores Administrativos redactarán sus Estatutos particulares y Reglamentos de Régimen Interior, para regular su funcionamiento, en el que quedarán recogidas las peculiaridades de los mismos. Serán aprobados por el Consejo General, siempre que estén de acuerdo con la Ley de Colegios Profesionales y con el Estatuto General de la Profesión.
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+## Capítulo II
+
+### Sección 1.ª Del ingreso en la profesión
+
+##### Artículo 6.º
+
+Para adquirir la condición de Gestor administrativo se requiere:
+
+a) Ser español o extranjero residente en España de país que conceda reciprocidad de títulos y derechos.
+
+b) Ser mayor de edad.
+
+c) No haber sido condenado a penas que inhabiliten para el ejercicio de funciones públicas.
+
+d) Acreditar por medio de certificación del Consejo General de Colegios que en sus archivos no constan antecedentes desfavorables.
+
+e) Estar en posesión de alguno de los siguientes títulos académicos:
+
+\- Licenciado en Derecho.
+
+\- Licenciado en Ciencias Económicas.
+
+\- Licenciado en Ciencias Empresariales.
+
+\- Licenciado en Ciencias Políticas.
+
+f) Superar las pruebas de aptitud que se exijan.
+
+g) Estar dado de alta en los impuestos que correspondan a la profesión de Gestor administrativo.
+
+h) **(Derogada)**
+
+i) Estar incorporado a un Colegio Oficial de Gestores Administrativos y haber satisfecho Ios gastos de incorporación a dicho Colegio y los de expedición del título profesional.
+
+j) Haber solicitado el ingreso en la Mutualidad General de Previsión de los Gestores Administrativos y satisfacer la cuota de incorporación a la misma o en el Régimen Especial de Trabajadores Autónomos, de acuerdo con la legislación vigente.
+
+> Se modifica la letra j) y se deroga la h) por el art. 1.3 y disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 7.º
+
+Las pruebas de aptitud se convocarán por la Administración, a propuesta del Consejo General de Colegios y se publicarán en el "Boletín Oficial del Estado".
+
+Superadas las pruebas selectivas, el aspirante podrá incorpararse, previo cumplimiento de los demás requisitos que se establecen en el artículo 6.º, a cualquiera de los Colegios de Gestores Administrativos de España.
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 8.º
+
+Los gestores administrativos deberán suscribir un contrato de seguro para garantizar las responsabilidades en las que puedan incurrir en el ejercicio de su profesión, en la forma y con las condiciones que determine el Consejo General -que fijará la cuantía mínima- y los correspondientes Colegios Profesionales.
+
+> Se modifica por el art. 1.4 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de julio. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 9.°
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 10.
+
+El ejercicio de la profesión de gestor administrativo es incompatible con todo empleo activo retribuido en cualquier Administración pública y en general, en los casos y con las condiciones que determine la legislación vigente en materia de incompatibilidades.
+
+La incompatibilidad expresada en el párrafo se extenderá al cónyuge de la persona que tuviera alguno de tales empleos, siempre que las actividades específicas de la profesión de gestor administrativo se relacionen directamente con el cargo que ostente su cónyuge.
+
+> Se modifica por el art. 1.5 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+##### Artículo 11.
+
+Contra los acuerdos de la Junta de Gobierno de los Colegios Oficiales de los Gestores Administrativos podrá interponerse recurso corporativo, ante el Consejo General de Colegios, en el plazo de quince días hábiles, a partir de la notificación, bien directamente o a través del Colegio respectivo.
+
+Transcurridos tres meses desde la interposición del recurso sin que se notifique su resolución, quedará expedita la vía jurisdiccional, a los efectos prevenidos en el artículo 8.º, apartado 1.º de la Ley de Colegios Profesionales.
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 12.
+
+El título de Gestor Administrativo se expedirá por el Ministro de Administraciones Públicas.
+
+> Se modifica por el art. 1.6 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 13.
+
+Por los Colegios Oficiales se expedirá a los colegiados que se incorporen un carné de identidad, visado y sellado por el Consejo General de Colegios, al que serán devueltos por conducto reglamentario cuando por cualquier razón causen, sus titulares, baja en el ejercicio activo de la profesión.
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 14.
+
+No podrán ser Gestores administrativos ni incorporarse a ningún Colegio Oficial de Gestores administrativos.
+
+a) Los que hayan sido sancionados por intrusismo o ejercicio clandestino de la profesión de Gestor administrativo; hasta que hayan transcurrido dos años desde la imposición de la sanción administrativa, salvo que por sentencia firme la jurisdicción ordinaria les haya impuesto pena que exceda de este plazo. En tal caso, hasta que no se cumpla dicha pena no podrán incorporarse a Colegio Oficial alguno.
+
+b) Los que hayan sido expulsados de otro Colegio oficial de Gestores administrativos o privados del título de Gestor, por acuerdo de la Administración o por sentencia firme.
+
+c) Los que estén incursos en causa de incompatibilidad, de acuerdo con lo establecido en el artículo diez.
+
+d) Los que estén procesados o hayan sido condenados por delitos que no sean de imprudencia punible.
+
+> Se modifica por el art. 1.7 del Real Decreto 2532/1998, de 27 de noviembre.[Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+### Sección 2.ª De la suspensión y baja de la profesión de Gestor Administrativo
+
+##### Artículo 15.
+
+Los Gestores administrativos podrán ser suspendidos en el ejercicio de la profesión, en los casos siguientes:
+
+a) Por resolución judicial.
+
+b) Cuando se siga contra ellos expediente por hechos que causen menosprecio a la profesión o que permitan suponer fundadamente la posibilidad de daños económicos para quienes pudieran encargar al inculpado actuaciones propias de su profesión de Gestor administrativo.
+
+c) Mientras se tramite el expediente para acreditar la incompatibilidad que les haya sido impuesta.
+
+d) Los procesados por delitos que no sean de imprudencia de circulación.
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+##### Artículo 16.
+
+Causarán baja en el Colegio de Gestores respectivo los colegiados en los siguientes supuestos:
+
+1\. Por sentencia judicial, en ejecución de la sentencia.
+
+2\. En virtud de expediente disciplinario en los supuestos previstos en el artículo 83 del Estatuto.
+
+3\. Por falta de pago de la cuota colegial hasta ponerse al corriente.
+
+En el supuesto previsto en el apartado 3, transcurrido un año sin cancelar el débito, tendrán que efectuar nueva colegiación para alta, sin perjuicio del levantamiento de las cargas atrasadas.
+
+> Se modifica por el art. 1.8 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/8946, de 24 marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 17.
+
+Los miembros de las Juntas de Gobierno, del Consejo General y, en su caso, de los Consejos Autonómicos, podrán ser sancionados con la destitución por incumplimiento de los deberes que estatutariamente les corresponde. La inasistencia injustificada por tres veces consecutivas a las sesiones formalmente convocadas constituye incumplimiento de los deberes de aquéllos.
+
+> Se modifica por el art. 1.9 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 de Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 18.
+
+Los gestores administrativos causarán baja en la profesión:
+
+a) Voluntariamente.
+
+b) Por fallecimiento.
+
+c) Por resolución judicial que imponga como pena principal o accesoria la inhabilitación absoluta o especial para el ejercicio de la profesión.
+
+d) Como consecuencia de expediente disciplinario que determine la baja.
+
+e) Por incurrir en alguna causa de las contempladas en el artículo 14.
+
+> Se modifica por el art. 1.10 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+##### Artículo 19.
+
+Los gestores administrativos que cesen en la profesión por causas que no impliquen la expulsión del Colegio podrán continuar colegiados en el mismo como gestores no ejercientes, con los derechos y obligaciones que el Reglamento de régimen interior del Colegio correspondiente les atribuya.
+
+Al fallecimiento de un gestor administrativo podrán continuar con el despacho de los asuntos profesionales que aquél tuviere pendientes su cónyuge viudo o causahabientes, designando a otro gestor en activo como representante interino. Esta interinidad tendrá una duración máxima de un año pudiendo ser prorrogada un año más por la Junta de Gobierno si las circunstancias del caso lo justifican.
+
+Asimismo, el jubilado tendrá el mismo plazo de un año para terminar los asuntos en trámite.
+
+> Se modifica por el art. 1.11 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm.39, de 15 de febrero de 1999. [Ref. BOE-A-1999-3810](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3810).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+## Capítulo III
+
+### Sección 1.ª Del ejercicio profesional
+
+##### Artículo 20.
+
+La profesión de gestor administrativo será ejercida personalmente, sin interposición de persona alguna, pudiendo únicamente auxiliarse de empleados autorizados para la realización de gestiones de trámite de acuerdo con lo dispuesto en la sección siguiente.
+
+Será requisito indispensable para el ejercicio de la profesión de gestor administrativo la incorporación al Colegio en cuyo ámbito radique el domicilio profesional, único o principal. Esta colegiación facultará para ejercer la profesión en todo el territorio nacional, en los términos que establece la Ley de Colegios Profesionales y el presente Estatuto.
+
+> Se modifica por el art. 1.12 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+##### Artículo 21.
+
+Cuando un colegiado cambie su domicilio profesional único o principal a la demarcación territorial de otro Colegio, deberá comunicarlo a éste para que, a su vez, lo traslade al Consejo General y éste al Presidente de su anterior Colegio, en cuyo ámbito causará baja.
+
+Cuando un colegiado establezca un despacho auxiliar dentro de la demarcación colegial en la que ejerza la profesión deberá comunicarlo a la Junta de Gobierno del Colegio respectivo.
+
+Cuando un colegiado ejerza ocasionalmente la profesión en territorio diferente al de su colegiación estará obligado a comunicar al Colegio correspondiente, a través del de su adscripción, las actuaciones específicas que vaya a realizar, a fin de quedar sujeto a las competencias de ordenación, control deontológico y potestad disciplinaria de dicho colegio distinto al de su adscripción.
+
+> Se modifica por el art. 1.13 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+##### Artículo 22.
+
+Los gestores administrativos deberán adoptar, en la denominación para distinguir su despacho, el nombre y apellidos del propio gestor, al que deberá anteponer o posponer las indicaciones de gestoría administrativa o gestor administrativo.
+
+> Se modifica por el art. 1.14 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+##### Artículo 23.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+##### Artículo 24.
+
+Son obligaciones generales de los Gestores Administrativos:
+
+Primera: ejercer la profesión con probidad, decoro y moralidad.
+
+Segunda: conservar constancia de los asuntos tramitados, de acuerdo con la naturaleza específica de cada despacho, durante un periodo de cinco años, contados desde la terminación del asunto.
+
+Tercera: hacer constar en todos los documentos y escritos relativos a su actividad profesional, su nombre y apellidos, condición de colegiado y sello profesional y, en su caso, el logotipo.
+
+Cuarta: someterse, en su publicidad y propaganda, a la legislación vigente en materia de publicidad y, en especial, a las normas de protección de los valores y derechos constitucionales, para cuya protección los Colegios podrán adoptar las medidas legales que estimen convenientes.
+
+Quinta: guardar la consideración y respeto debidos a los miembros de la Junta de Gobierno de su respectivo Colegio y demás superiores jerárquicos.
+
+Sexta: asistir a las Juntas, reuniones y citaciones colegiales para las que fuere convocado.
+
+Séptima: **(Derogada)**
+
+Octava: participar en el levantamiento de las cargas colegiales, del Consejo General de Colegios, del Consejo de Colegios de las Comunidades Autónomas y, en su caso, de las cuotas de la Mutualidad General.
+
+Novena: aplicar en sus intervenciones, a cargo del Gestor Administrativo la póliza, de gestión, en la forma y cuantía establecida por el Consejo General de Colegios.
+
+Décima: pedir la venia para encargarse de la gestión de asuntos encomendados previamente a otros compañeros para observar las reglas de consideración, venia que no podrá ser denegada en ningún caso.
+
+Undécima: cumplir con fidelidad y diligencia las normas estatutarias, las del Reglamento de régimen interior y los acuerdos adoptados por el Consejo General, por el Consejo de Colegios de las Comunidades Autónomas o por el Colegio.
+
+Duodécima: facilitar a los investigadores nombrados al efecto las inspecciones que realicen.
+
+Decimotercera: guardar el secreto profesional de lo que conozca por razón de su actividad.
+
+Decimocuarta: mantener su formación profesional en permanente estado de actualización.
+
+Decimoquinta: suscribir la póliza de responsabilidad civil a la que hacen referencia los artículos6y8delpresente Estatuto.
+
+Decimosexta: por último, y en el ejercicio de su actividad profesional, los gestores administrativos tendrán el deber de informar, aconsejar y asesorar a sus clientes, a los efectos del más eficaz desarrollo del procedimiento administrativo en el que tenga lugar su actuación, actuando en todo caso en régimen de libre competencia.
+
+Deberá exigir a su cliente, en tal caso, que éste le exhiba el recibo acreditativo de haber satisfecho los honorarios del compañero que le precedió en eI encargo, o una carta del mismo manifestando que los tiene cobrados, salvo que, siendo superiores a los permitidos a juicio del nuevo Gestor, lo notifique a la Junta de Gobierno, en cuyo caso el cliente deberá acreditar haber depositado en la Caja del Colegio la cantidad que se fija por la Junta de Gobierno, en el término de cinco días, a cuyo efecto se comunicará a la misma por el nuevo Gestor, el importe de los derechos que pretenda percibir el colegiado que inicialmente se encargará de la gestión.
+
+> Se modifican las obligaciones 3, 4, 8 y 10, se añaden la 11 a 16 y se deroga la 7 por el art. 1.15 y disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 25.
+
+Los gestores administrativos colegiados gozarán de los siguientes derechos:
+
+1.º Promover, solicitar y realizar toda clase de trámites requeridos por las leyes para el ejercicio de derechos y cumplimientos de obligaciones, ante cualquier órgano de las Administraciones públicas, en interés y a solicitud de cualquier persona natural o jurídica, con excepción de las facultades reservadas legalmente a otras profesiones tituladas.
+
+2.º Ser electores y elegibles para cargos colegiales reglamentarios, los del Consejo de Colegios de las Comunidades Autónomas y los del Consejo General.
+
+3.º Acudir a la Junta de Gobierno en demanda de protección y defensa de sus derechos o para denunciar acciones u omisiones que causen menoscabo para la integridad profesional, así como para denunciar cualquier infracción de este Estatuto y las faltas de compañerismo y competencia desleal que puedan producirse en el ejercicio de la profesión.
+
+4.º Percibir los suplidos y los honorarios correspondientes.
+
+5.º Recibir las distinciones a que se hagan acreedores y que otorgan los Colegios, los Consejos de Colegios o el Consejo General.
+
+6.º Recibir las prestaciones y ayudas en las condiciones que establezcan los respectivos Colegios.
+
+7.º Asistir a los actos organizados por el Consejo General, los Consejos de Colegios y los respectivos Colegios.
+
+8.º Ser incluidos en aquellos servicios que puedan establecer los respectivos Colegios, los Consejos de Colegios de las Comunidades Autónomas o el Consejo General.
+
+9.º Los gestores administrativos podrán colaborar con la Administración pública con la finalidad de agilizar la tramitación de los procedimientos y para ello, cuando las circunstancias de los mismos así lo aconsejen, se podrá acordar entre los órganos administrativos competentes y Colegios de Gestores Administrativos la adopción de las medidas procedentes para facilitar la presentación de documentos, sin perjuicio de las facultades administrativas de compulsa, que se podrán ejercitar siempre que se estime procedente, y con respeto a los derechos reconocidos al ciudadano.
+
+> Se modifica por el art. 1.16 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+### Sección 2.ª De los empleados de las Gestorías Administrativas
+
+##### Artículo 26.
+
+De conformidad con lo establecido en el artículo veinte, los Gestores administrativos podrán auxiliarse, tanto dentro de sus oficinas como para la realización de operaciones materiales propias de las gestiones que se les encomienden, de empleados autorizados, que acturán en todo caso bajo su dirección, vigilancia y responsabilidad.
+
+Los Gestores administrativos podrán designar libremente a sus empleados auxiliares, que deberán reunir los requisitos exigidos por la legislación laboral general y la especial que le sea aplicable y los de no estar comprendidos en ninguna de las incompatibilidades establecidas para los Gestores administrativos en el presente Estatuto.
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+##### Artículo 27.
+
+A los empleados de los gestores administrativos, y a petición de estos últimos, se expedirá por los Colegios respectivos una acreditación que certifique su condición.
+
+> Se modifica por el art. 1.17 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+## Capítulo IV — Dependencia administrativa
+
+##### Artículo 28.
+
+El Consejo General de Colegios de Gestores Administrativos es la vía de relación profesional con la Administración General del Estado, a través del Ministerio de Administraciones públicas.
+
+> Se modifica por el art. 1.18 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 29.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 30.
+
+Los actos emanados de los Órganos de los Colegios serán recurribles ante el Consejo General, en plazo de quince días, a partir de la notificación, contra cuya resolución, expresa o tácita, queda abierta la vía contencioso-administrativa, para aquellos que estén sujetos al Derecho administrativo.
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 31.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 32.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+## CAPÍTULO V — Organizacion colegial
+
+### Sección 1.ª De los Colegios Oficiales
+
+##### Artículo 33.
+
+Los Colegios Profesionales de Gestores administrativos tienen la consideración de Colegios Oficiales.
+
+Los Colegios Oficiales de Gestores administrativos tendrán personalidad jurídica, capacidad para adquirir y poseer toda clase de bienes y ejercitar toda clase de acciones y derechos.
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+##### Artículo 34.
+
+Los Colegios de Gestores administrativos y su ámbito territorial es el siguiente:
+
+Alicante, que comprende la provincia de Alicante.
+
+Aragón, Navarra y Rioja, que comprende las provincias de Huesca, Logroño, Navarra, Teruel y Zaragoza.
+
+Asturias, que comprende Oviedo.
+
+Baleares, que comprende Baleares.
+
+Canarias, que comprende Santa Cruz de Tenerife y Las Palmas de Gran Canaria.
+
+Cataluña, que comprende las de Barcelona, Gerona y Lérida.
+
+Extremadura, que comprende las de Badajoz y Cáceres.
+
+Galicia, que comprende las de La Coruña, Lugo, Orense y Pontevedra.
+
+Granada, que comprende las de Almería, Granada y Jaén.
+
+Madrid, que comprende las de Avila, Ciudad Real, Cuenca, Guadalajara, Madrid, Toledo y Segovia.
+
+Málaga, que comprende las de Málaga y Plaza de Melilla.
+
+Sevilla, que comprende las de Cádiz, Córdoba, Huelva, Sevilla y Plaza de Ceuta.
+
+Tarragona, que comprende Tarragona.
+
+Valencia, que comprende las de Albacete, Castellón, Murcia, y Valencia.
+
+Valladolid, que comprende las de Alava, Burgos, Guipúzcoa, León, Palencia, Salamanca, Santander, Soria, Valladolid, Vizcaya y Zamora.
+
+También podrán incorporarse al Colegio de Madrid los que residan en el extranjero, salvo quienes estando ya colegiados se trasladen fuera de España, los cuales podrán seguir en el Colegio en que lo estuvieran en su elección.
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 35.
+
+Para la creación de nuevos Colegios se estará a lo dispuesto en las Leyes de Colegios Profesionales.
+
+La fusión, absorción, segregación, cambio de denominación y disolución de los Colegios, será promovida por los propios Colegios, Consejo de Colegios o por el Consejo General, de acuerdo con las citadas Leyes de Colegios Profesionales.
+
+En defecto de normativa aplicable, se establece que la solicitarán los dos tercios del censo de colegiados, en asamblea convocada al efecto.
+
+> Se modifica por el art. 1.19 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 2 del Real Decreo 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+##### Artículo 36.
+
+Los Colegios de Gestores Administrativos podrán ser disueltos cuando la liquidación de sus presupuestos presente un déficit del 50 por 100 durante dos ejercicios consecutivos o no puedan cumplir, por razones económicas o de otra índole, los fines de organización colegial. La disolución será promovida por los propios Colegios, a través del Consejo de Colegios autonómico, con sujeción a lo establecido en la legislación de Colegios Profesionales, debiendo procederse, entre otras cuestiones, al traspaso de los colegiados a las corporaciones que proceda.
+
+Deberá nombrarse una comisión liquidadora del Colegio que actuará bajo el control del Consejo de Colegios de las Comunidades Autónomas o del Consejo General.
+
+> Se modifica por el art. 1.20 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 37.
+
+Los Colegios Oficiales de Gestores Administrativos habrán de establecer las Delegaciones que precisen para que en las localidades de su ámbito territorial representen al Colegio ante las Autoridades y Organismos oficiales y actúen contra los actos de instrusismo y clandestinidad y en los demás que afecten a la profesión, con arreglo a este Estatuto y al Reglamento de Régimen Interior del Colegio.
+
+##### Artículo 38.
+
+1\. Las funciones que competen a los Colegios, dentro de su demarcación colegial, son las siguientes:
+
+a) Ejercer cuantas funciones les sean encomendadas por la Administración y colaborar con ésta mediante la realización de estudios, emisión de informes, elaboración de estadísticas y otras actividades relacionadas con los fines y competencia profesional de los gestores administrativos que les sean requeridas o solicitadas o acuerden formular por propia iniciativa.
+
+b) Ordenar, en el ámbito de su competencia, la actividad profesional de los colegiados, velando por la ética de la profesión, por la dignidad profesional, así como por el respeto debido a los derechos de los particulares y de cuantos requieran sus servicios y ejercer la facultad disciplinaria en el orden profesional y colegial.
+
+c) Ostentar la representación que establezcan las leyes para el cumplimiento de sus fines.
+
+d) Velar por el mayor prestigio de la profesión.
+
+e) Ostentar en su ámbito la representación y defensa de la profesión ante la Administración, instituciones, tribunales, entidades y particulares, con legitimación para ser parte en cuantos litigios afecten a los intereses profesionales de los colegiados y ejercitar el derecho de petición conforme a la Ley.
+
+f) Organizar cursos, jornadas de estudios, conferencias, congresos y otras actividades para la mejor formación profesional.
+
+g) Organizar actividades y servicios comunes de interés para los colegiados de carácter profesional, formativo, cultural, asistencial, de previsión y otros análogos, proveyendo el sostenimiento económico mediante los medios necesarios.
+
+h) Cumplir y hacer cumplir las normas del presente Estatuto, Estatutos particulares y Reglamentos de régimen interior de cada Colegio, así como las normas y acuerdos adoptados por los órganos colegiales.
+
+i) Perseguir ante los tribunales a quienes realicen actos de clandestinidad o de intrusismo en las funciones profesionales del gestor administrativo.
+
+j) Mantener relación con las autoridades administrativas y gubernativas de todo orden de las localidades de su ámbito territorial, sin perjuicio de la coordinación que han de tener con el Consejo General y los Consejos de Colegios autonómicos.
+
+k) Implantar la canalización colegial de trámites, exclusivamente para la agilización de los mismos y previa solicitud de la Administración, sin menoscabo de la libre competencia; ello requerirá la aprobación en Junta General, en la forma y con los requisitos previstos en los Reglamentos de régimen interior de cada Colegio.
+
+l) Vigilar las obligaciones mutuales de los colegiados.
+
+m) Realizar las actividades que redunden en beneficio de los intereses profesionales de los colegiados.
+
+n) Y cuantas otras funciones les atribuyan las leyes de Colegios Profesionales, el presente Estatuto, los Estatutos particulares y los Reglamentos de régimen interior.
+
+2\. En particular, los Colegios Profesionales podrán solicitar de los órganos competentes que arbitren en las oficinas públicas las medidas necesarias para que los gestores administrativos puedan desarrollar su labor con la máxima agilidad y eficacia.
+
+> Se modifica por el art. 1.21 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 39.
+
+Los Colegios actuarán por medio de:
+
+a) La Junta General de colegiados.
+
+c) La Comisión Permanente.
+
+d) Las Delegaciones colegiales.
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+##### Artículo 40.
+
+La Junta general de colegiados estará constituida por todos los integrantes del censo colegial que asistan a la convocatoria.
+
+Las Juntas generales de colegiados, a celebrar por los Colegios Oficiales de Gestores Administrativos, tendrán el carácter de ordinarias y extraordinarias.
+
+##### Artículo 41.
+
+Las Juntas ordinarias deberán celebrarse en el primer trimestre de cada año, con objeto de acordar, si procede, sobre las propuestas de renovación de cargos de las Juntas de gobierno, conocer la Memoria anual, en la que se dará cuenta de la labor realizada durante el ejercicio precedente; aprobar, en su caso, la gestión de los miembros directivos y la liquidación de cuentas del ejercicio anterior y hacer las observaciones pertinentes al proyecto de presupuestos para el ejercicio siguiente, aprobando los que, en su caso, precedan. Dichos presupuestos se elevarán, para su visado, al Consejo General de Colegios.
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+##### Artículo 42.
+
+Las Juntas generales extraordinarias se celebrarán siempre que lo consideren necesario las de Gobierno, o cuando lo soliciten, mediante escrito dirigido a la Junta de Gobierno, un número de colegiados equivalente, como mínimo, al veinte por ciento de los que constituyan el censo colegial, haciéndose expresa mención del motivo o motivos por los cuales se solicita la convocatoria de dicha Junta, y no pudiendo tratarse en las mismas más que sobre los puntos que figuran en el orden del día establecido.
+
+##### Artículo 43.
+
+El «quorum» para la válida constitución de las Juntas generales será el de la mayoría absoluta de sus componentes.
+
+Si no existiera «quorum», las Juntas generales se constituirán en segunda convocatoria veinticuatro horas después de las señaladas para la primera, cualquiera que fuere el número de asistentes.
+
+##### Artículo 44.
+
+Los acuerdos se tomarán por mayoría absoluta de asistentes y dirimirá los empates el voto del Presidente,
+
+##### Artículo 45.
+
+Las Juntas Generales de los Colegios Oficiales de Gestores Administrativos podrán establecer otra composición y funciones de la Junta de Gobierno y de las Delegaciones colegiales, con sujeción a lo que pueda establecer la legislación en materia de Colegios profesionales.
+
+> Se modifica por el art. 1.23 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+##### Artículo 46.
+
+Corresponde a las Juntas de Gobierno:
+
+a) La representación del Colegio, que será desempeñada por el Presidente, sustituyéndole el Vicepresidente y en caso de imposibilidad de ambos, la persona que la propia Junta de Gobierno designe entre sus miembros.
+
+b) Ejercer la autoridad colegial en todos los asuntos de la competencia del Colegio.
+
+c) Redactar los proyectos de presupuestos colegiales, que se someterán a la aprobación de la Junta General y al visado del Consejo General de Colegios.
+
+d) Redactar el estado y liquidación de cuentas de cada ejercicio económico.
+
+e) Dictar los acuerdos que procedan en las materias sometidas a su competencia por este Estatuto y demás disposiciones.
+
+f) Conocer cuantas materias le sometan sus colegiados, sin perjuicio de los recursos que contra sus acuerdos procedan.
+
+g) Dictaminar sobre las minutas de honorarios profesionales que le fueren requeridas.
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 47.
+
+Los miembros de las Juntas de Gobierno serán elegidos por la Junta General de entre los colegiados que no hayan sido sancionados, durante los cinco años anteriores a la elección por faltas en el ejercicio de la profesión de gestor administrativo, debiendo tener una antigüedad de cinco años de ejercicio, para el cargo de Presidente y tres para el resto de los miembros de dicha Junta.
+
+Los aspirantes a ocupar los cargos de la Junta de Gobierno deberán presentar una propuesta de candidatura suscrita por los aspirantes y diez colegiados más con derecho a voto, al menos con diez días de antelación a la fecha de la elección, sin que sean admisibles votos por delegación.
+
+La duración del mandato será de cuatro años, renovándose por mitad cada dos. Queda autorizada la reelección, aun la indefinida.
+
+Todos los Colegiados con derecho a voto podrán votar la totalidad de los cargos que salgan a elección, computándose los votos de los colegiados ejercientes con doble valor de los emitidos por los que no ejercen la profesión.
+
+En el plazo de cinco días, desde la constitución de los órganos de Gobierno, deberá comunicarse a éste a través del Consejo General de Colegios a la Presidencia del Gobierno; asimismo se comunicará la composición de los órganos elegidos y el cumplimiento de los requisitos legales.
+
+De igual forma se procederá cuando se produzcan modificaciones.
+
+> Se modifica el párrafo primero por el art. 1.24 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 2 del Real Deceto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 48.
+
+Las Juntas de Gobierno podrán constituirse en Pleno y en Comisión Permanente. Integran el Pleno la totalidad de sus miembros, enumerados en el artículo 45, que deberán reunirse, al menos, una vez al trimestre. La Comisión Permanente estará integrada por el Presidente y Vicepresidente, Secretario, Tesorero, Contador o Vocales que, respectivamente, les sustituyan, y deberá reunirse una vez al mes.
+
+##### Artículo 49.
+
+Las Delegaciones colegiales estarán integradas por un Delegado, Subdelegado, Tesorero, Secretario y Contador, designados y removidos libremente por la Junta de gobierno de los Colegios respectivos.
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 50.
+
+Corresponde a los Delegados de la Junta de Gobierno, en las localidades donde existan, la representación del Colegio ante las autoridades y Organismos administrativos de su ámbito y ante los Gestores administrativos que ejercen en las mismas. Igualmente ostentan la representación de los colegiados ante el respectivo Colegio.
+
+Por su conducto se tramitarán todas las comunicaciones entre colegiados y Colegios, y por delegación de las Juntas de Gobierno ejercerán todas las facultades que a aquéllas correspondan en la localidad o provincia de su delegación.
+
+### Sección 2.ª Del Consejo General de Colegios
+
+##### Artículo 51.
+
+El Consejo General de Colegios de Gestores Administrativos de España es el órgano representativo de la profesión en el ámbito estatal e internacional y coordinador de la política y acciones desarrolladas por los Consejos de Colegios de las Comunidades Autónomas y los Colegios de Gestores Administrativos, y tiene a todos los efectos la condición de corporación de derecho público con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines.
+
+La sede del Consejo General será Madrid.
+
+El Consejo General tiene establecida como fiesta de la profesión, de libre celebración, la fecha tradicional del 7 de agosto, día de San Cayetano de Thiene.
+
+> Se modifica por el art. 1.25 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm.39, de 15 de febrero de 1999. [Ref. BOE-A-1999-3810](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3810).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 52.
+
+Serán funciones del Consejo General de Colegios de Gestores Administrativos de España las siguientes:
+
+a) Ostentar la representación que establezcan las leyes para el cumplimiento de sus fines.
+
+b) Servir de vía de relación con la Administración General del Estado a través del Ministerio al que está adscrita la profesión.
+
+c) Organizar actividades y servicios de interés para los colegiados de carácter profesional, formativo, cultural, asistencial y de previsión y otros análogos.
+
+d) Establecer baremos de honorarios, que tendrán carácter meramente orientativo.
+
+e) Aprobar las normas orientadoras sobre los honorarios entre gestores administrativos de diferentes Colegios.
+
+f) Elaborar el Estatuto General de la Profesión, así como el suyo propio.
+
+g) Dirimir los conflictos que puedan suscitarse entre los distintos Colegios, cuando afecten a más de una Comunidad Autónoma.
+
+h) Coordinar la política y acciones desarrolladas por los Consejos de Colegios de las Comunidades Autónomas, para lo cual será informado por éstos de los acuerdos que puedan afectar a la profesión a nivel estatal.
+
+i) Ejercer las funciones disciplinarias con respecto a los miembros del propio Consejo, y de los miembros de las Juntas de Gobierno de los Colegios, en el caso de no existir Consejo Autonómico.
+
+j) Aprobar sus propios presupuestos.
+
+k) Regular y fijar equitativamente las aportaciones económicas de los Colegios.
+
+l) Informar preceptivamente todo proyecto de modificación de la legislación estatal sobre Colegios Profesionales.
+
+m) Informar los proyectos de disposiciones generales de carácter general de la Administración General del Estado que afecten directamente al ejercicio de la profesión, en los términos señalados en el artículo 24.1 c) de la Ley 50/1997, de 27 de noviembre, del Gobierno.
+
+n) Asumir la representación de los gestores administrativos ante las entidades similares en otros Estados.
+
+ñ) Tratar de conseguir las mayores atribuciones para la actividad profesional.
+
+o) En defecto de Consejo Autonómico, adoptar las medidas que estime conveniente para completar provisionalmente con los colegiados más antiguos las Juntas de Gobierno de los Colegios, cuando se produzcan las vacantes de más de la mitad de los cargos de aquéllas. La Junta provisional, así constituida, ejercerá sus funciones hasta que tomen posesión los designados en virtud de elección, que se celebrará conforme a las disposiciones estatutarias.
+
+p) Fijar el importe de la póliza de responsabilidad civil.
+
+q) Resolver los recursos presentados contra los actos de los Colegios, si no existe constituido Consejo Autonómico.
+
+r) Llevar el registro general de profesionales adscritos a la profesión.
+
+s) Tratar de conseguir el mayor nivel de empleo de los colegiados.
+
+t) Y cuantas otras funciones le atribuya la Ley de Colegios Profesionales, el presente Estatuto, su Estatuto particular y el Reglamento de régimen interior.
+
+> Se modifica por el art. 1.26 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 53.
+
+El Consejo General de Colegios estará integrado por todos los Presidentes de los Colegios de Gestores Administrativos de España, los cuales designarán libremente, entre los colegiados que tengan una antigüedad mínima de cinco años en el ejercicio de la profesión, a aquellos que hayan de ostentar los cargos de Presidente, Vicepresidente 1.º , Vicepresidente 2.º , Secretario, Tesorero, Contador, así como también los de Vicesecretario y Vicetesorero.
+
+Los expresados cargos se renovarán cada tres años, admitiéndose la reelección; los demás miembros del Consejo General cesarán cuando finalicen sus mandatos como Presidente de los Colegios respectivos que representen.
+
+Cuando los Colegios estén agrupados en Consejo de Comunidades Autónomas, la representación en el Consejo General podrá unificarse en el Presidente de dicho Consejo.
+
+El Presidente del Consejo General tendrá tratamiento de excelencia y los restantes miembros de ilustrísima.
+
+> Se modifica por el art. 1.27 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 54.
+
+El Pleno del Consejo General de Colegios se reunirá, al menos, cuatro veces al año, en el lugar que por el mismo se designe.
+
+Sus acuerdos se adoptarán por mayoría de votos de los Consejeros.
+
+El número de votos se computará de la siguiente forma:
+
+a) Un voto por cada uno de los componentes del Pleno.
+
+b) Además los Consejeros Presidentes de los Colegios tendrán un voto por cada 100 colegiados ejercientes o fracción.
+
+El Presidente del Consejo tendrá voto de calidad y podrá resolver los empates que se produzcan una vez repetida la votación.
+
+El Reglamento de régimen interior detallará su organización y procedimiento.
+
+De cada reunión se levantará acta por el secretario, en la que constarán los asuntos tratados, acuerdos adoptados, asistentes y lugar y fecha de los mismos.
+
+> Se modifica por el art. 1.28 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 55.
+
+Dentro del seno del Consejo General se constituirá una Comisión Ejecutiva que estará integrada por un Presidente, el Vicepresidente 1. º , el Secretario, el Tesorero, el Contador y un miembro del Consejo General. Este último puesto será cubierto por turno entre los Presidentes de los Colegios que forman el Pleno, renovándose cada año.
+
+La Comisión Ejecutiva así constituida estará facultada para la resolución de todos los asuntos de trámite y aquellos que no requieran la aprobación del Pleno, así como para el cumplimiento de los acuerdos de éste. Esta Comisión podrá actuar con tres de sus componentes y habrá de reunirse cuantas veces lo estime conveniente su Presidente y por lo menos una vez al mes, excepto en el mes de agosto.
+
+> Se modifica por el art. 1.29 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 56.
+
+Las funciones del Presidente del Consejo General son las siguientes:
+
+1\. Ostentar la representación del Consejo.
+
+2\. Acordar la convocatoria de las sesiones ordinarias y extraordinarias y la fijación del orden del día, teniendo en cuenta, en su caso, las peticiones de los demás miembros formuladas con suficiente antelación.
+
+3\. Presidir las sesiones, moderar el desarrollo de los debates y suspenderlos por causas justificadas.
+
+4\. Asegurar el cumplimiento de las leyes.
+
+5\. Visar las actas y certificaciones de los acuerdos del Consejo.
+
+6\. Ejecutar debidamente las decisiones del Consejo General.
+
+En los casos de urgencia, asumirá todas las funciones del Consejo General, haciéndolo bajo su responsabilidad y con la obligación de dar cuenta al Pleno más próximo que se celebre, de las resoluciones tomadas para su censura o convalidación.
+
+En el Reglamento de régimen interior se fijarán las restantes atribuciones del Presidente, así como las que correspondan a los demás cargos del Consejo General.
+
+El Vicepresidente 1.º sustituirá al Presidente en los casos de ausencia, enfermedad, incapacidad, vacante o delegación.
+
+> Se modifica por el art. 1.30 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+### Sección 3.ª Del régimen económico
+
+##### Artículo 57.
+
+Los Colegios de Gestores Administrativos percibirán para su sostenimiento una cuota mensual y las derramas que se aprueban reglamentariamente, que satisfarán sus colegiados en la cuantía fijada por los propios Colegios.
+
+La demora por más de tres meses en el pago de esta cuota o derramas devengará el interés legal del dinero.
+
+> Se modifica por el art. 1.31 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+##### Artículo 58.
+
+Serán también ingresos de los Colegios de Gestores Administrativos:
+
+a) Los que establezca la legislación autonómica.
+
+b) Cualquier otro que se apruebe por la Junta General de los propios Colegios.
+
+> Se modifica por el art. 1.32 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+##### Artículo 59.
+
+El Consejo General contará con los siguientes ingresos para su sostenimiento:
+
+a) Una cuota según el número de colegiados, que los Colegios de Gestores Administrativos deberán prever en sus presupuestos y que habrán de repercutir en aquéllos al propio tiempo de cobrarles la cuota colegial. La cuantía de la cuota para el Consejo General será fijada por el Pleno de dicho Consejo. La demora en el pago de estas cuotas devengará el interés legal vigente.
+
+b) El importe de los derechos de examen, expedición de títulos, certificaciones, carnés y demás documentos.
+
+c) Los rendimientos de su patrimonio.
+
+d) Las subvenciones, donativos y legados que la Corporación pueda recibir.
+
+e) Otros recursos que pueda percibir con motivo de sus actividades.
+
+f) Cualquier otra percepción que el Consejo acuerde por circunstancias extraordinarias.
+
+En el presupuesto que cada año se establezca, se fijará la parte de la cuota prevista bajo el párrafo a) que será atribuida a los Consejos de Colegios de las Comunidades Autónomas para la financiación de su funcionamiento y actividades y a los Colegios que, a falta de Consejo en su Comunidad, asuman análogas funciones.
+
+> Se modifica por el art. 1.33 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+## CAPÍTULO VI — Honores y recompensas
+
+##### Artículo 60.
+
+Las dignidades honoríficas de Presidente, Consejero y Vocal de Honor del Consejo General de los Colegios Oficiales de Gestores administrativos de España, tienen por objeto estimular y recompensar a quienes contraigan méritos o ejecuten servicios de destacado interés general para la profesión. Pueden ser nombrados Presidentes y Consejeros de Honor del Consejo General de los Colegios Oficiales de Gestores administrativos, ejercientes o no ejercientes o cualquier otra persona ajena a la profesión.
+
+El número de Presidentes y Consejeros de Honor del Consejo será ilimitado.
+
+Estos títulos honoríficos serán de carácter personal y vitalicio y solamente podrán ser exonerados de los mismos y anularse el nombramiento por acuerdo del Pleno del Consejo General en virtud de expediente que se instruirá el efecto.
+
+Cuando el nombramiento de Presidente de Honor del Consejo General recaiga en un Gestor en situación de ejerciente, podrá concurrir a las sesiones que celebre la Corporación, tanto ordinarias como extraordinarias, siempre que la mayoría de los miembros del órgano profesional así lo acuerde.
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 61.
+
+Los nombramientos de Presidente, Consejero y Vocal honorario del Consejo General de los Colegios Oficiales de Gestores Administrativos de España habrán de ser acordados por el Pleno del mismo, previo expediente, que podrá promoverse a propuesta de su Presidente o de cinco Vocales.
+
+Por el Consejo General se llevará un Libro de Honores y Recompensas en el que figurará el acuerdo y distinciones que justifiquen el nombramiento, indicando en cada caso historial de la persona y fotografía en tamaño carnet.
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 62.
+
+Los Reglamentos de Régimen Interior de los Colegios Oficiales de Gestores Administrativos podrán establecer recompensas honoríficas en favor de aquellos Gestores Administrativos o de cualquier otra persona ajena a la profesión que se hayan distinguido por su trabajo o actividad general en beneficio de la profesión.
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+## CAPÍTULO VII — De las infracciones y sanciones
+
+##### Artículo 63.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+##### Artículo 64.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 65.
+
+Las infracciones a las normas de este Estatuto que cometan los Gestores Administrativos se califican en graves y leves.
+
+Son infracciones graves:
+
+a) La protección al intrusismo.
+
+b) La falta de probidad.
+
+c) El ejercicio no personal de la profesión.
+
+d) La negligencia grave.
+
+e) **(Derogada)**
+
+f) El uso de denominaciones prohibidas.
+
+g) La mala conducta que desprestigie la profesión.
+
+h) La reincidencia en faltas leves.
+
+i) El incumplimiento de la obligación séptima del artículo 24 de este Estatuto.
+
+j) El ejercicio de la profesión sin ser colegiado, aunque esté dado de alta a efectos fiscales.
+
+k) Estar colegiado y ejercer la profesión sin haberse dado de alta y figurar en el censo tributario correspondiente.
+
+Estas infracciones serán sancionadas administrativamente con multa cuya cuantía no podrá exceder del límite que establece el artículo 603 del Código Penal, y privación del ejercicio de la profesión de Gestor por el tiempo que para cada infracción se determina.
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+##### Artículo 66.
+
+Los Gestores administrativos que de cualquier forma protejan a los que, sin ostentar tal condición, se dediquen a realizar actos que corresponden a la profesión de Gestor administrativo, serán sancionados con multa y privación del ejercicio de la profesión de Gestor durante un periodo que no podrá ser superior a un año.
+
+Se entiende que existe aquella protección siempre que se mantenga con el intruso cualquier genero de relaciones de carácter profesional por ambas partes.
+
+##### Artículo 67.
+
+Los Gestores administrativos que en el desempeño de sus funciones defrauden la confianza en ellos depositada, causen o no perjuicio a sus clientes, serán sancionados por falta contra la probidad con multa y además con privación del ejercicio de la profesión durante un periodo no superior a seis meses.
+
+##### Artículo 68.
+
+Los Gestores Administrativos que sin incurrir en la infracción de proteger el intrusismo no ejercieren la profesión personalmente o lo hicieren por medio de persona interpuesta, serán castigados con multa y, además, privación del ejercicio de la profesión por un período no superior a un año.
+
+Se entiende que existe ejercicio por persona interpuesta cuando de una forma notoria el Gestor no atienda su despacho profesional.
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+##### Artículo 69.
+
+Los Gestores administrativos que en el ejercicio de sus funciones, por culpa o negligencia en la comisión de los encargos que se le confieran, causaren algún perjuicio a sus clientes, serán sancionados por negligencia grave, con multa y además privación del ejercicio de la profesión por un periodo no superior a cuatro meses.
+
+##### Artículo 70.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Decreto 3502/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+##### Artículo 71.
+
+Los Gestores Administrativos que en su propaganda o ejercicio profesional usaren una denominación prohibida, de acuerdo con lo establecido en el artículo veinte de este Estatuto, o no cumplan con la obligación establecida en el apartado séptimo del artículo veinticuatro del mismo, serán sancionados con multa y privación del ejercicio profesional durante un período no superior a dos meses.
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+##### Artículo 72.
+
+Los gestores administrativos que perciban o intenten percibir honorarios indebidos, serán sancionados con multa y privación del ejercicio profesional durante un período no superior a cuatro meses, debiendo devolver, además, en su caso, las cantidades indebidamente percibidas.
+
+> Se modifica por el art. 1.34 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+##### Artículo 73.
+
+Los Gestores administrativos que dentro del término de dos años incurren por segunda vez en falta leve de la misma clase o por tercera en cualquier falta leve, aunque no sea de la misma clase, serán sancionados con multa y privación del ejercicio de la profesión durante un periodo no superior a dos meses.
+
+##### Artículo 74.
+
+Los Gestores administrativos que después de haber sido sancionados por una infracción grave incurran en la comisión de hechos que, sin ser de la misma clase, constituyan también infracción grave, serán sancionados con multa y privación del ejercicio de la profesión durante un periodo no superior a seis meses.
+
+Si los hechos fueren de la misma clase que los anteriormente sancionados, la sanción será del doble de la impuesta por primera vez, sin que tampoco la multa pueda exceder del límite del artículo 603 del Código Penal.
+
+##### Artículo 75.
+
+Los Gestores Administrativos que habiendo sido castigados más de dos veces por infracciones graves, causaren con su conducta un desprestigio para la profesión, podrán ser sancionados con baja en la profesión y retirada del título de Gestor.
+
+**(Párrafo segundo derogado)**
+
+> Se deroga el párrafo segundo por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 76.
+
+Las miembros de las Juntas de Gobierno y del Consejo General podrán ser sancionados con la destitución, por incumplimiento de los deberes que reglamentariamente les correspondan.
+
+##### Artículo 77.
+
+Son infracciones leves:
+
+El incumplimiento de las obligaciones enumeradas en el artículo veinticuatro de este Estatuto, excepto lo establecido en los apartados primero y séptimo, que constituyen falta grave.
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+##### Artículo 78.
+
+Los Gestores administrativos que incumplan las obligaciones que establece el artículo 24, apartados segundo al octavo, ambos inclusive de este Estatuto, que constituyen infracciones leves, serán sancionados:
+
+a) Apercibimiento por oficio.
+
+b) Reprensión privada.
+
+c) Reprensión pública.
+
+d) Multa de 100 a 1.000 pesetas, según la entidad de los hechos.
+
+##### Artículo 79.
+
+La reincidencia en dos faltas leves que no sean de la misma clase será sancionada con multa de 500 a 1.000 pesetas. Si fueren de la misma clase o más de dos cometidas en un tiempo inferior a dos años, serán castigadas como faltas graves, de acuerdo con la sanción señalada en el artículo 73. Transcurrido este plazo después de la sanción de una falta, las nuevas que se cometan iniciarán nuevo cómputo para apreciar la reincidencia.
+
+##### Artículo 80.
+
+La referencia a la Presidencia del Gobierno contenida en el artículo 80, se entenderá hecha al Ministerio de Administraciones Públicas.
+
+> Se modifica por el art. 1.35 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 81.
+
+Las Comisiones Instructoras de los Colegios Oficiales de Gestores administrativos tendrán competencia para realizar todas las actuaciones precisas, respetando las garantías generales establecidas en la Constitución española, para investigar los actos que puedan constituir infracciones sancionadas en el presente Estatuto. imputables a Gestores administrativos o a quienes no lo sean, ni por tanto pertenezcan ni estén encuadrados en dichos Colegios Oficiales.
+
+**(Párrafo segundo derogado)**
+
+> Se deroga el párrafo segundo por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 2 del Real Decreto 1324/1979, 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 82.
+
+1\. Los gestores administrativos están sujetos a responsabilidad disciplinaria en el caso de infracción de sus deberes profesionales y colegiales.
+
+2\. Salvo disposición en contrario, la Junta de Gobierno es competente para el ejercicio de la potestad disciplinaria, salvo que el expediente se refiera a alguno de los miembros de ésta, en cuyo caso conocerá y resolverá el Consejo de Colegios de la Comunidad Autónoma, o en su defecto, el Consejo General, de conformidad con lo dispuesto en la normativa autonómica.
+
+3\. Si el expediente se refiere a alguno de los miembros del Consejo General de Colegios de Gestores Administrativos de España, conocerá el propio Consejo General.
+
+4\. Los actos mencionados en los apartados anteriores serán directamente recurribles ante la Jurisdicción Contencioso-administrativa, una vez agotados los recursos corporativos, en cuanto estén sujetos al derecho administrativo, a las disposiciones estatutarias, y a las de las normas reguladoras del procedimiento disciplinario.
+
+5\. Incurrirán también en responsabilidad disciplinaria los miembros de los órganos colegiados competentes para exigir la responsabilidad disciplinaria regulada en el presente Estatuto cuando toleren faltas graves o muy graves de las que deriven daños para los ciudadanos.
+
+> Se modifica por el art. 1.36 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 83.
+
+La imposición de sanciones disciplinarias a los colegiados se realizará mediante el correspondiente procedimiento sancionador, que respetará los principios y exigencias contenidos en el Título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Se modifica por el art. 1.37 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 84.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 85.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 86.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Artículo 87.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 88.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+##### Artículo 89.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 90.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+##### Artículo 91.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 92.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 93.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+## CAPÍTULO VIII — Tribunales de Honor
+
+##### Artículo 94.
+
+**(Derogado)**
+
+> Se deroga por el art. 1 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+##### Artículo 95.
+
+**(Derogado)**
+
+> Se deroga por el art. 1 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+##### Artículo 96.
+
+**(Derogado)**
+
+> Se deroga por el art. 1 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+##### Artículo 97.
+
+**(Derogado)**
+
+> Se deroga por el art. 1 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+##### Artículo 98.
+
+**(Derogado)**
+
+> Se deroga por el art. 1 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+##### Artículo 99.
+
+**(Derogado)**
+
+> Se deroga por el art. 1 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+##### Artículo 100.
+
+**(Derogado)**
+
+> Se deroga por el art. 1 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+> Se modifica por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+##### Artículo 101.
+
+**(Derogado)**
+
+> Se deroga por el art. 1 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+##### Artículo 102.
+
+**(Derogado)**
+
+> Se deroga por el art. 1 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+##### Artículo 103.
+
+**(Derogado)**
+
+> Se deroga por el art. 1 del Real Decreto 1324/1979, de 4 de abril. [Ref. BOE-A-1979-13938](https://www.boe.es/buscar/doc.php?id=BOE-A-1979-13938).
+
+##### Disposición adicional primera.
+
+Los Colegios Profesionales tendrán la planta territorial actualmente existente. No obstante, los Colegios Profesionales solicitarán a las Comunidades Autónomas su adecuación al ámbito territorial de las mismas, bastando para ello acuerdo de la mayoría de los colegiados de la demarcación.
+
+> Se añade por el art. 2.1 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+##### Disposición adicional segunda.
+
+El Consejo General dictará el Reglamento de Procedimiento Disciplinario en el ámbito de su competencia.
+
+> Se añade por el art. 2.2 del Real Decreto 2532/1998, de 27 de noviembre. [Ref. BOE-A-1998-28699](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28699).
+
+##### Disposición transitoria primera.
+
+Los Gestores administrativos que con anterioridad al veinte de junio de mil novecientos cincuenta y siete tuviesen inscritos en el Registro de la Propiedad Industrial nombres y denominaciones distintas del titular, podrán seguir utilizándolas anteponiendo sus nombres y apellidos, pero no transmitirán este derecho a otras personas o Entidad alguna.
+
+La viuda, hijos o heredero directo que se encuentre en posesión del título de Gestor administrativo podrán utilizar los apellidos del fallecido, anteponiendo en todo caso el nombre y apellidos del titular de la Gestoría.
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio.[Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781)., en la redacción dada por el art. 1 del Decreto 3508/1972, de 23 de diciembre. [Ref. BOE-A-1973-61](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-61).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Disposición transitoria segunda.
+
+Los que en la fecha de publicación de este Decreto estuviesen en posesión del título de Gestor Administrativo o hubiesen aprobado el examen de aptitud para ingreso en la profesión, conservarán los derechos adquiridos para incorporarse a cualquier Colegio Oficial de Gestores Administrativos.
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Disposición transitoria tercera.
+
+Las Sociedades de gestión actualmente inscritas en los Colegios Oficiales de Gestores Administrativos, podrán continuar ejerciendo mientras figure al frente de las mismas el Gestor titular que las represente a la fecha de publicación de este Decreto.
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Disposición transitoria cuarta.
+
+Los Gestores Administrativos que hubieran incurrido antes de la publicación del presente Estatuto en alguna incompatibilidad, según lo determinado en el artículo 10 del mismo, podrán continuar en el ejercicio de la profesión, salvo que, a propuesta de las Juntas de gobierno de los Colegios respectivos y previo informe del Consejo General, el Organismo competente de la Presidencia del Gobierno estime, dadas las circunstancias del caso, que la naturaleza e importancia de la causa debe impedir el ejercicio profesional.
+
+> Se modifica por el art. 2.1 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Disposición transitoria quinta.
+
+**(Derogada)**
+
+> Se deroga por el art. 2.2 del Real Decreto 606/1977, de 24 de marzo. [Ref. BOE-A-1977-8946](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-8946).
+
+> Se modifica por el art. 1 del Decreto 2129/1970, de 9 de julio. [Ref. BOE-A-1970-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1970-781).
+
+##### Disposición transitoria sexta.
+
+Los Gestores administrativos que hubieran incurrido antes de la publicación del presente Estatuto en alguna incompatibilidad, según lo determinado en el artículo 10 del mismo, podrán continuar en el ejercicio de la profesión, salvo que, a propuesta de las Juntas de Gobierno de los Colegios respectivos y previo informe del Consejo General, la Oficialía Mayor de la Presidencia del Gobierno, estime, dadas las circunstancias del caso, que la naturaleza e importancia de la causa deba impedir el ejercicio profesional.

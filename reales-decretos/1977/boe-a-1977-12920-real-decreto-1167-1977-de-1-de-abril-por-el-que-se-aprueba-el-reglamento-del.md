@@ -1,0 +1,235 @@
+---
+title: "Real Decreto 1167/1977, de 1 de abril, por el que se aprueba el Reglamento del Cuerpo Especial de Delineantes de Obras Públicas"
+identifier: "BOE-A-1977-12920"
+eli: "https://www.boe.es/eli/es/rd/1977/04/01/1167"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Obras Públicas"
+date: 1977-04-01
+published: 1977-05-31
+in_force_from: 1977-06-20
+last_amended: 1980-09-23
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 129"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1977-12920"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1167/1977, de 1 de abril, por el que se aprueba el Reglamento del Cuerpo Especial de Delineantes de Obras Públicas
+
+Las referencias al Ministerio de Obras Públicas deben entenderse hechas al Ministerio de Obras Públicas y Urbanismo; a los Delineantes de Obras Públicas, a los Delineantes de Obras Públicas y Urbanismo; y a la Escuela Nacional de Administración Pública, al Instituto Nacional de Administración Pública, según establece el art. 2 a) del Real Decreto 1878/1980, de 29 de agosto. [Ref. BOE-A-1980-20357](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-20357)
+
+El Reglamento Orgánico de los Cuerpos de Sobreestantes y Delineantes de Obras Públicas, aprobado por el Decreto de veintitrés de noviembre de mil novecientos cincuenta y seis ha da ser objeto, además de la pertinente acomodación a la Ley articulada de Funcionarios Civiles del Estado, en cumplimiento del Decreto cuatro mil ciento cincuenta y siete/mil novecientos sesenta y cuatro, a la adaptación a normas de superior o del mismo rango de fecha posterior.
+
+Desde la aprobación del citado Reglamento se ha producido la extinción del Cuerpo de Sobreestantes, por jubilación, con fecha doce de julio de mil novecientos sesenta y ocho del último funcionario de este Cuerpo, por lo que el Reglamento que se aprueba, se refiere exclusivamente al Cuerpo de Delineantes de Obras Públicas.
+
+Por otra parte, el tiempo transcurrido desde la aprobación del Reglamento de los Cuerpos de Sobreestantes y Delineantes de Obras Públicas aconseja asimismo que junto a la adaptación citada se dé nueva redacción a otros artículos para la mejor eficacia del servicio, cumplimiento de deberes y ejercicios de derechos por los funcionarios.
+
+En su virtud, previo informe favorable de la Comisión Superior de Personal, a propuesta del Ministro de Obras Públicas y previa deliberación del Consejo de Ministros en su reunión del día uno de abril de mil novecientos setenta y siete,
+
+D I S P O N G O :
+
+#### Artículo único.
+
+Se aprueba el Reglamento Orgánico del Cuerpo Especial de Delineantes de Obras Públicas.
+
+#### Disposición derogatoria.
+
+A la entrada en vigor de este Reglamento quedará derogado el Decreto de veintitrés de noviembre de mil novecientos cincuenta y seis por el que se aprobó el Reglamento Orgánico de los Cuerpos de Sobreestantes y Delineantes de Obras Públicas, así como las disposiciones de igual o inferior rango en lo que contradigan su contenido.
+
+Dado en Madrid a uno de abril de mil novecientos setenta y siete.
+
+JUAN CARLOS
+
+El Ministro de Obras Públicas,
+
+LEOPOLDO CALVO-SOTELO Y BUSTELO
+
+## REGLAMENTO ORGÁNICO DEL CUERPO ESPECIAL DE DELINEANTES DE OBRAS PUBLICAS
+
+## CAPÍTULO I — Naturaleza y funciones
+
+#### Artículo 1.
+
+El Cuerpo Especial de Delineantes de Obras Públicas es un Cuerpo Especial al servicio de la Administración Civil del Estado dentro del Ministerio de Obras Públicas.
+
+De conformidad con lo dispuesto en los artículos 15.2 de la Ley de Régimen Jurídico de la Administración Civil del Estado y 17 de la Ley de Funcionarios Civiles del Estado, la Jefatura Superior del Cuerpo corresponde al Ministro de Obras Públicas, y por su delegación al Subsecretario del Departamento.
+
+#### Artículo 2.
+
+Los funcionarios de este Cuerpo se regirán por este Reglamento y por la ,legislación general de funcionarios de la Administración Civil del Estado que le sea de aplicación.
+
+#### Artículo 3. Funciones.
+
+Los Delineantes de Obras Públicas efectuarán el desarrollo gráfico de toda clase de proyectos y trabajos de estudios, así como la realización de planos topográficos interpretando los datos que hayan sido tomados en el terreno.
+
+En aquellas Unidades donde exista más de un Delineante la coordinación de los trabajos gráficos, con responsabilidad ante los superiores correspondientes, poda atribuirse a un Delineante de Obras Públicas designado por el Jefe del Servicio.
+
+## CAPÍTULO II — Selección, formación y perfeccionamiento
+
+### Sección 1.ª Selección de los funcionarios del Cuerpo
+
+#### Artículo 4.
+
+La selección de los aspirantes a ingreso en el Cuerpo se realizará mediante convocatoria libre, que se sujetará al sistema de oposición, practicándose, en su caso, además, las restantes pruebas selectivas que en la convocatoria se establezcan.
+
+#### Artículo 5.
+
+Las convocatorias de oposiciones a ingreso en el Cuerpo no podrán cubrir un número de plazas superior al previsto en el artículo tres, cuatro, del Decreto mil cuatrocientos once/mil novecientos sesenta y ocho, de veintisiete de junio.
+
+#### Artículo 6.
+
+Las bases de selección y la convocatoria se aprobarán por Orden ministerial, debiendo ajustarse la convocatoria a lo prevenido en el artículo tres del Decreto 1411/1968, de veintisiete de junio, y publicarse con cuatro meses de antelación, por lo menos, al comienzo de los ejercicios, sin que dicho período pueda exceder de ocho meses.
+
+La fecha, hora y lugar del comienzo del primer ejercicio se anunciará, al menos, con quince días de antelación, en el «Boletín Oficial del Estado».
+
+#### Artículo 7.
+
+El programa con las materias para las pruebas de ingreso en el Cuerpo habrá de publicarse o estar publicado al tiempo de la convocatoria,
+
+#### Artículo 8.
+
+Para ser admitido a las correspondientes pruebas selectivas de ingreso al Cuerpo será necesario:
+
+a) Ser español.
+
+b) Haber cumplido dieciocho años de edad en la fecha en que expire el plazo para la presentación de instancias.
+
+c) Estar en posesión del título de Bachiller Superior, o titulación asimilada formalmente, o en condición de obtenerlo en la fecha en que termine el plazo de presentación de instancias.
+
+d) No haber sido separado, mediante expediente disciplinario del servicio del Estado, de sus Organismos autónomos o de la Administración Local, ni hallarse inhabilitado para el ejercicio de funciones públicas.
+
+e) Carecer de antecedentes penales por la comisión de delitos dolosos.
+
+f) **(Derogado)**
+
+g)**(Derogado)**
+
+> Se derogan los apartados f) y g) por el art. 2 b) del Real Decreto 1878/1980, de 29 de agosto. [Ref. BOE-A-1980-20357](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-20357)
+
+#### Artículo 9.
+
+La presentación de instancias, el contenido de las mismas y el pago de los derechos de examen se ajustarán a lo establecido en el Decreto 1411/1968, de 27 de junio.
+
+#### Artículo 10.
+
+Expirado el plazo de presentación de instancias, se estará a lo dispuesto en el artículo 5 del Decreto 1411/1968, de 27 de junio.
+
+#### Artículo 11.
+
+En la Orden ministerial que convoque las pruebas de ingreso se determinará la composición del Tribunal que haya de juzgarlas y que estará formado por seis miembros titulares y seis suplentes.
+
+Será Presidente del Tribunal el Subsecretario del Ministerio de Obras Públicas, que podrá delegar en un Subdirector general del Departamento.
+
+Serán vocales del Tribunal un Catedrático de Dibujo de la Escuela de Bellas Artes, un funcionario del Cuerpo de Ingenieros de Caminos, Canales y Puertos, un Jefe de Sección de Personal de la Subsecretaría, dos funcionarios del Cuerpo de Delineantes, y un funcionario del Cuerpo de Arquitectos del Departamento, actuando como Secretario del Tribunal el Delineante con menos años de servicio activo.
+
+La designación de Ios miembros del Tribunal corresponde al Subsecretario del Departamento.
+
+> Se modifica el párrafo 3 por el art. 2 c) del Real Decreto 1878/1980, de 29 de agosto. [Ref. BOE-A-1980-20357](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-20357)
+
+#### Artículo 12.
+
+Terminadas las prácticas de las pruebas de selección, el Tribunal formará una relación con los opositores aprobados, siguiendo el orden de puntuación total obtenida por cada uno en el conjunto de aquéllas.
+
+#### Artículo 13.
+
+Los candidatos comprendidos en la relación aportarán, en el plazo señalado en el artículo 11,1 del Decreto 1411/1968, de 27 de junio, los documentos a que el citada artículo se refiere.
+
+#### Artículo 14.
+
+Completada la justificación documental o finalizado el plazo establecido para efectuarla, los candidatos comprendidos en la relación que hayan presentado su documentación completa serán nombrados funcionarios en prácticas, con los efectos económicos regulados en el Decreto 1315/1972, de 10 de mayo.
+
+### Sección 2.ª Formación
+
+#### Artículo 15.
+
+Los funcionarios en prácticas deberán seguir con resultados satisfactorios un curso selectivo y un período de prácticas, si así se hubiese determinado en la convocatoria.
+
+#### Artículo 16.
+
+Terminado el curso selectivo y, en su caso, el período de prácticas, se formará la relación de los opositores que en él han participado con resultado satisfactorio y para el orden de relación se computará tanto la puntuación obtenida en las pruebas selectivas de ingreso como la alcanzada al finalizar el curso selectivo y el período de prácticas a que se refiere el artículo anterior y se conferirá por el Ministerio de Obras Públicas a los candidatos que por el orden de relación cubran las vacantes existentes en el Cuerpo el nombramiento de Delineantes.
+
+### Sección 3.ª Cursos de perfeccionamiento
+
+#### Artículo 17.
+
+Los funcionarios del Cuerpo tienen el deber de asistir cuando para ello sean designados, a los cursos de perfeccionamiento y, asimismo, podrán solicitar tomar parte en aquellos cursos de especialización que se organicen por, el Ministerio de Obras Públicas y/o la Escuela Nacional de Administración Pública.
+
+#### Artículo 18.
+
+Se anotarán en la hoja de servicio de los interesados los cursos de perfeccionamiento o de especialización seguidos por los funcionarios, así como los certificados o diplomas en ellos obtenidos.
+
+## CAPÍTULO III — Jubilación forzosa
+
+#### Artículo 19.
+
+La jubilación forzosa de los funcionarios de este Cuerpo se declarará de oficio al cumplir el funcionario setenta años de edad.
+
+## CAPÍTULO IV — Reingreso en el servicio activo
+
+#### Artículo 20.
+
+El reingreso en el servicio activo de los funcionarios de este Cuerpo se realizará de acuerdo con lo previsto en el artículo 51 de la Ley de Funcionarios Civiles del Estado.
+
+## CAPÍTULO V — Previsión de puestos de trabajo
+
+#### Artículo 21.
+
+La clasificación de los puestos de trabajo correspondientes al Cuerpo se efectuará con arreglo a las normas contenidas en el Decreto 1310/1971, de 17 de junio, disposiciones complementarias y demás normas que en lo sucesivo puedan dictarse sobre esta materia.
+
+#### Artículo 22.
+
+Los funcionarios de nuevo ingreso serán destinados según la puntuación obtenida y de acuerdo con sus peticiones o por libre designación del Ministro o del Subsecretario de Obras Públicas, cuando así lo aconsejaren las necesidades del servicio.
+
+En sus solicitudes los funcionarios deberán referirse necesariamente a la totalidad de las vacantes existentes, expresando el orden de preferencia.
+
+#### Artículo 23.
+
+Las vacantes de cada Servicio y localidad se proveerán mediante concurso de méritos entre los funcionarios pertenecientes al Cuerpo que reúnan las condiciones exigidas en la convocatoria correspondiente.
+
+Los concursos se resolverán por el Subsecretario de Obras Públicas, previa propuesta de la Sección de Personal, con sujeción a las bases de la convocatoria en la que se expresarán la escala gradual de méritos por el orden excluyente de preferencia que se establezca.
+
+La adscripción a puesto de trabajo determinado se efectuará por el Jefe del Servicio correspondiente, siempre que el concurso se refiera a puesto de trabajo de tipo genérico y desarrollarán las funciones que se les encomienden.
+
+La escala gradual de méritos se establecerá teniendo en cuenta la eficacia demostrada en destinos anteriores, tiempo de servicios efectivos prestados en el Ministerio de Obras Públicas o sus Organismos autónomos, distinción notoria en el cumplimiento de sus deberes, posesión de diplomas propios de la profesión, estudios o publicaciones, menciones honoríficas, condecoraciones y honores, premios en metálico, residencia previa del cónyuge funcionario, y cualquier otra circunstancia de naturaleza análoga.
+
+Los destinos obtenidos en virtud de concurso obligan a servirlos durante un plazo, por lo menos, de dos años, durante los cuales no podrá solicitarse otro.
+
+Los puestos de trabajo de nueva creación podrán ser adjudicados por libre designación del Ministro o del Subsecretario de Obras Públicas.
+
+#### Artículo 24.
+
+Cuando celebrado un concurso para la provisión de vacantes, alguna se declare desierta y sea urgente para el servicio su provisión, se estará a lo dispuesto en el artículo 61 de la Ley articulada de Funcionarios Civiles del Estado.
+
+#### Artículo 25.
+
+El Subsecretario de Obras Públicas podrá autorizar excepcionalmante permutas de destino entre funcionarios del Cuerpo en activo o en excedencia especial, previo informe de los Jefes de los solicitantes o del Director general correspondiente, de acuerdo con lo establecido en el artículo 62 de la citada Ley articulada de Funcionarios Civiles del Estado.
+
+## CAPÍTULO VI — Tribunal de Honor
+
+> Se deroga por el art. 2 b) por el Real Decreto 1878/1980, de 29 de agosto. [Ref. BOE-A-1980-20357](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-20357)
+
+#### Artículo 28.
+
+****(Derogado)****
+
+> Se deroga por el art. 2 b) del Real Decreto 1878/1980, de 29 de agosto. [Ref. BOE-A-1980-20357](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-20357)
+
+#### Disposición transitoria primera.
+
+En las pruebas restringidas para ingreso en el Cuerpo, autorizadas por la Ley 33/1976, de 28 de agosto, y con destino al personal contratado, se eximirá a los aspirantes del requisito señalado en el apartado c) del artículo 8 del presente Reglamento.
+
+#### Disposición transitoria segunda.
+
+Podrán concurrir a las pruebas selectivas que se convoquen para ingreso en el Cuerpo Especial de Delineantes de Obras Públicas, aun sin reunir el requisito señalado en el apartado c) del articulo ocho del presente Reglamento, aquellos que hubieran concurrido a las pruebas selectivas, convocadas con anterioridad a la fecha de entrada en vigor del Real Decreto mil ciento sesenta y siete/mil novecientos setenta y siete, de uno de abril.
+
+> Se modifica por el art. 2 d) del Real Decreto 1878/1980, de 29 de agosto. [Ref. BOE-A-1980-20357](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-20357)
+
+#### Disposición transitoria tercera.
+
+No obstante lo dispuesto en los artículos cuatro y cinco del Reglamento aprobado por el Real Decreto mil ciento sesenta y siete/mil novecientos setenta y siete, podrán convocarse oposiciones restringidas en las condiciones previstas en la disposición adicional quinta del Real Decreto-ley veintidós/mil novecientos setenta y siete y de la Ley setenta/mil novecientos setenta y ocho y ampliarse en las convocatorias el número de plazas vacantes con las que previsiblemente puedan producirse en el plazo de un año, de conformidad con lo establecido en dicha disposición adicional.
+
+> Se añade por el art. 2 e) del Real Decreto 1878/1980, de 29 de agosto. [Ref. BOE-A-1980-20357](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-20357)

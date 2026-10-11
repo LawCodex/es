@@ -1,0 +1,161 @@
+---
+title: "Real Decreto 1043/1985, de 19 de junio, por el que se amplía la protección por desempleo a los socios trabajadores de Cooperativas de Trabajo Asociado"
+identifier: "BOE-A-1985-12675"
+eli: "https://www.boe.es/eli/es/rd/1985/06/19/1043"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Seguridad Social"
+date: 1985-06-19
+published: 1985-07-02
+in_force_from: 1985-07-03
+last_amended: 2006-12-30
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 157"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12675"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1043/1985, de 19 de junio, por el que se amplía la protección por desempleo a los socios trabajadores de Cooperativas de Trabajo Asociado
+
+La Ley 31/1984, de 2 de agosto, de Protección por Desempleo, introduce, en relación con el ámbito subjetivo de la protección por desempleo, una importante novedad respecto de la Ley 51/1980, de 8 de octubre, al extender la protección por desempleo a personas que, en sentido estricto, no tienen la condición de trabajadores por cuenta ajena sino la de asimilados a tal condición a los efectos de protección social, como es el caso del «personal contratado en régimen de derecho administrativo y los funcionarios de empleo al servicio de las Administraciones Públicas». Sin embargo esta extensión tiene un alcance limitado al no comprender a otras personas que legalmente tienen la condición de asimiladas a trabajadores por cuenta ajena.
+
+En efecto, la Ley General de Seguridad Social incluyó en el sistema a los socios trabajadores de Cooperativas de producción. La propia Ley instrumentó inicialmente la protección de esta categoría de personas incluyéndolas en un régimen especial que no llegaría a desarrollarse reglamentariamente. Explícitamente, la Ley General de Cooperativas de 19 de diciembre de 1974, concedió a los denominados «socios de cooperativas de trabajo asociado» la opción de quedar incluidos en el régimen especial de trabajadores autónomos o en el régimen general o en algunos de los regímenes especiales de la Seguridad Social y, en lo dos últimos supuestos, no como trabajadores por cuanta ajena sino como asimilados a ellos. De este modo la Ley General de Cooperativas modificaba parcialmente el esquema protector previsto en la Ley General de Seguridad Social, ampliando la categoría de «personas asimiladas» en el supuesto específico.
+
+Razones de justicia y equidad han aconsejado al Gobierno hacer uso de la autorización contenida en el artículo tercero, apartado 4, de la Ley 31/1984, y extender a los socios de Cooperativas de Trabajo Asociado la protección por la contingencia de desempleo, estableciendo, dada la peculiaridad de su relación de trabajo, el procedimiento específico para la declaración de la situación legal de desempleo que evite la injusticia material que se produciría si por deficiencias imputables al propio sistema, personas obligatoriamente incluidas en el mismo, y a las que se impone una cotización obligatoria por desempleo, no tuvieran acceso a la efectiva protección legal al perder sus puestos de trabajo. En tal sentido se regula un procedimiento específico para el supuesto en que los socios trabajadores de Cooperativas de Trabajo Asociado cesen en su actividad por causas económicas, tecnológicas o de fuerza mayor al no ser de aplicación el procedimiento específico de expedientes de regulación de empleo por ser la del socio una relación de carácter societario y no laboral.
+
+En su virtud, a propuesta del Ministro de Trabajo y Seguridad Social, haciendo uso de la autorización contenida en el artículo tercero, apartado 4 de la Ley 31/1984, oído el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 19 de junio de 1985,
+
+DISPONGO:
+
+### Artículo 1.
+
+Los socios trabajadores de Cooperativas de trabajo asociado, incluidos en el régimen general de la Seguridad Social o en alguno de los regímenes especiales que protegen la contingencia de desempleo, que reúnan los requisitos exigidos en el artículo quinto de la Ley 31/1984, de 2 de agosto, tendrán derecho a las prestaciones por desempleo previstas en la misma, en las condiciones establecidas en la presente disposición.
+
+### Art. 2.
+
+Se considerarán en situación legal de desempleo los socios trabajadores de cooperativas de trabajo asociado que se encuentren en alguno de los siguientes supuestos:
+
+1\. Los que hubieran cesado, con carácter definitivo, en la prestación de trabajo en la Cooperativa, perdiendo los derechos económicos derivados directamente de dicha prestación, por alguna de las siguientes causas:
+
+a) Por expulsión improcedente de la Cooperativa.
+
+b) Por causas económicas, tecnológicas o de fuerza mayor.
+
+c) Por finalización del período al que se limitó el vínculo societario de duración determinada.
+
+2\. Los aspirantes a socios que hubieran cesado en la prestación de trabajo durante el período de prueba por decisión unilateral del Consejo Rector de la Cooperativa.
+
+> Se añade el apartado 1.c) por el art. 16 de la Ley 43/2006, de 29 de diciembre. [Ref. BOE-A-2006-22949](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-22949).
+
+> Téngase en cuenta que este apartado ya estaba añadido por Real Decreto-Ley 5/2006, de 9 de junio.
+
+> Se añade el apartado 1.c) por el art. 16 del Real Decreto-Ley 5/2006, de 9 de junio. [Ref. BOE-A-2006-10562](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-10562).
+
+### Art. 3.
+
+La declaración de la situación legal de desempleo de los socios trabajadores de Cooperativas de trabajo asociado se efectuará con arreglo a las siguientes normas:
+
+a) En el supuesto de expulsión del socio será necesaria la notificación del acuerdo de expulsión por parte del consejo rector de la cooperativa, indicando su fecha de efectos, o, en su caso, el acta de conciliación judicial o la resolución definitiva de la jurisdicción competente que declare expresamente la improcedencia de la expulsión.
+
+b) En el caso de cese definitivo de la actividad por causa económica, tecnológica o de fuerza mayor, será necesario que la existencia de tales causas sea debidamente constatada por la Autoridad Laboral, conforme a lo dispuesto en el artículo siguiente.
+
+c) En el caso de cese durante el período de prueba será necesaria comunicación del acuerdo de no admisión por parte del Consejo Rector de la Cooperativa al aspirante.
+
+d) En el supuesto de finalización del período al que se limitó el vínculo societario de duración determinada, será necesaria certificación del Consejo Rector de la baja en la cooperativa por dicha causa y su fecha de efectos.
+
+> Se añade la letra d) por el art. 16 de la Ley 43/2006, de 29 de diciembre. [Ref. BOE-A-2006-22949](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-22949).
+
+> Téngase en cuenta que esta letra ya estaba añadida por Real Decreto-Ley 5/2006, de 9 de junio.
+
+> Se añade la letra d) por el art. 16 del Real Decreto-Ley 5/2006, de 9 de junio. [Ref. BOE-A-2006-10562](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-10562).
+
+> Se modifica la letra a) por la disposición adicional 6.2 de la Ley 45/2002, de 12 de diciembre. [Ref. BOE-A-2002-24244](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24244).
+
+### Art. 4.
+
+En el supuesto a que se refiere el apartado b), del artículo anterior, el procedimiento será el siguiente:
+
+1\. Será Autoridad Laboral competente para declarar la situación legal de desempleo de los socios trabajadores de Cooperativas de Trabajo asociado, sin perjuicio de lo establecido en la Disposición Adicional Segunda, la Dirección de Trabajo y Seguridad Social de la provincia donde tenga su domicilio la Cooperativa. Si la Cooperativa tuviera varios centros de trabajo en distintas provincias conocerá la Dirección General de Trabajo, salvo delegación expresa en una de las Direcciones Provinciales competentes por razón del lugar.
+
+2\. La iniciación del procedimiento administrativo ante la Autoridad Laboral se realizará por la representación legal de la Cooperativa, previo acuerdo de su Asamblea General.
+
+3\. En el escrito de iniciación, deberá hacerse constar, al menos, los siguientes extremos:
+
+a) Nombre del solicitante, legitimación para iniciar el expediente y domicilio que señala a efecto de notificaciones.
+
+b) Nombre y domicilio social de la cooperativa, número de inscripción en la Seguridad Social, centro o centros de trabajo y número de socios trabajadores y de trabajadores por cuenta ajena ocupados en cada uno, detallándose su especialidad, categoría o grupo profesional, así como la modalidad de su contrato de trabajo para los trabajadores por cuenta ajena.
+
+c) Causa justificativa del desempleo.
+
+4\. Al escrito de iniciación, la cooperativa deberá acompañar los siguientes documentos:
+
+a) Certificación literal del acuerdo de la asamblea general de la suspensión total y/o parcial, o cese definitivo, de la prestación de trabajo de los socios trabajadores.
+
+Cuando se trate de la suspensión, se acompañará asimismo certificación expedida por el Secretario de la cooperativa, con el visto bueno del Presidente del Consejo Rector, en la que se acredite la duración de la jornada de trabajo y, en su caso, la distribución irregular de la misma a lo largo del año de los socios trabajadores incluidos en la relación a que se refiere el siguiente apartado.
+
+b) Relación de los socios trabajadores cuya declaración de desempleo se solicita, con indicación de los números de documento nacional de identidad, de afiliación a la Seguridad Social, fecha de ingreso en la cooperativa, especialidad, categoría o grupo profesional y declaración expresa, en el caso de la suspensión total y/o parcial de la jornada, de cada uno de los afectados sobre la duración de su jornada de trabajo durante los seis meses anteriores a la fecha de la solicitud.
+
+Si los trabajadores por cuenta ajena de la cooperativa estuviesen afectados por un expediente de regulación de empleo, se hará citación expresa del mismo.
+
+c) Memoria explicativa de la causa justificativa del desempleo y las pruebas cuya aportación se estime necesaria. Cuando la causa sea económica se aportarán, además, los balances y cuentas de pérdidas y ganancias de los últimos tres años debidamente aprobados por los órganos competentes. En todo caso, deberá aportarse un informe sobre los aspectos financiero, productivo, comercial y organizativo de la cooperativa.
+
+d) Justificación expresa de la duración de la suspensión solicitada, en su caso.
+
+e) Plan provisional de acciones empresariales para la recuperación del empleo elaborado por el Consejo Rector y aprobado por la asamblea general, acompañado de una propuesta de seguimiento periódico a realizar por la autoridad laboral, a propuesta de la Inspección de Trabajo y Seguridad Social.
+
+5\. La Autoridad Laboral, en el plazo de treinta días, con el informe preceptivo de la Inspección de Trabajo y Seguridad Social y, en su caso, de los Organismos que considere oportunos, dictará resolución en la que previa consignación de los datos de identificación correspondientes a la Sociedad Cooperativa, los socios trabajadores afectados y la causa y carácter de la situación legal de desempleo, declarará, de haber constatado la concurrencia de la causa invocada, la situación legal de desempleo de los socios trabajadores y la fecha de sus efectos.
+
+Contra la resolución de la Autoridad Laboral podrá interponerse recurso de alzada.
+
+> Se modifican los apartados 3.b) y 4 por la disposición final 1 del Real Decreto 42/1996, de 19 de enero. [Ref. BOE-A-1996-3553](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-3553).
+
+### Art. 5.
+
+1\. Los socios trabajadores que se encuentren en situación legal de desempleo deberán solicitar de la entidad gestora competente el reconocimiento del derecho a las prestaciones dentro de los quince días siguientes a la notificación del acuerdo de expulsión de la Cooperativa o, en su caso, del acta de conciliación o de la resolución judicial, del acuerdo de no admisión de la Cooperativa al interesado, de la resolución de la Autoridad Laboral a la Cooperativa, o de la fecha en que finalizó el período al que se limitó el vínculo societario de duración determinada. En caso de presentar la solicitud fuera del indicado plazo se estará a lo dispuesto en las normas de carácter general.
+
+2\. Corresponderá al Instituto Nacional de Empleo declarar el reconocimiento, suspensión, reanudación y extinción del derecho a las prestaciones por desempleo.
+
+> Se modifica el apartado 1 por el art. 16 de la Ley 43/2006, de 29 de diciembre. [Ref. BOE-A-2006-22949](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-22949).
+
+> Téngase en cuenta que este apartado ya estaba modificado por Real Decreto-Ley 5/2006, de 9 de junio.
+
+> Se modifica el apartado 1 por el art. 16 del Real Decreto-Ley 5/2006, de 9 de junio. [Ref. BOE-A-2006-10562](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-10562).
+
+## DISPOSICIÓN TRANSITORIA
+
+La protección por desempleo a que se refiere el presente Real Decreto se aplicará a las situaciones legales de desempleo que se produzcan con posterioridad a su entrada en vigor. No obstante, las cotizaciones efectuadas por la contingencia de desempleo con anterioridad a dicha fecha se computarán a efectos del reconocimiento, duración y cuantía de las prestaciones.
+
+## DISPOSICIONES ADICIONALES
+
+### Primera.
+
+En todos los aspectos no contemplados expresamente en el presente Real Decreto será de aplicación lo establecido con carácter general en la Ley 31/1984, de 2 de agosto, y en sus normas reglamentarias.
+
+### Segunda.
+
+En aquellas Comunidades Autónomas que tengan transferidas competencias en materia de expedientes de regulación de empleo, para determinar la Autoridad laboral competente, a efectos de declarar la situación legal de desempleo de los socios trabajadores de cooperativas de trabajo asociado, se estará a los criterios establecidos en los respectivos Reales Decretos de transferencia.
+
+### Tercera.
+
+Los socios trabajadores de las cooperativas de explotación comunitaria de la tierra, así como los socios de trabajo a que se refiere el apartado 4 del artículo 13 de la Ley 27/1999, de 16 de julio, de Cooperativas, tendrán derecho a la protección por desempleo en las mismas condiciones establecidas para los socios trabajadores de cooperativas de trabajo asociado.
+
+> Se añade por la disposición adicional 6.1 de la Ley 45/2002, de 12 de diciembre. [Ref. BOE-A-2002-24244](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24244).
+
+## DISPOSICIÓN FINAL
+
+Se autoriza al Ministro de Trabajo y Seguridad Social para dictar las normas necesarias para el desarrollo y aplicación del presente Real Decreto que entrará en vigor el día siguiente al de su publicación.
+
+Dado en Madrid a 19 de junio de 1985.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Seguridad Social,
+
+JOAQUÍN ALMUNIA AMANN
+
+> **Información relacionada**
+
+> Téngase en cuenta las referencias hechas a determinados órganos administrativos según establece la disposición final 2 de la Ley 45/2002, de 12 de diciembre. [Ref. BOE-A-2002-24244](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24244)

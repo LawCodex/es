@@ -1,0 +1,3314 @@
+---
+title: "Orden de 12 de enero de 1995 por la que se establecen las tarifas eléctricas"
+identifier: "BOE-A-1995-1048"
+eli: "https://www.boe.es/eli/es/o/1995/01/12/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria y Energía"
+date: 1995-01-12
+published: 1995-01-14
+in_force_from: 1995-02-03
+last_amended: 2007-09-29
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 12"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-1048"
+retrieved: 2026-10-11
+---
+
+# Orden de 12 de enero de 1995 por la que se establecen las tarifas eléctricas
+
+El artículo 6 del Real Decreto 2550/1994, de 29 de diciembre, establece que el Ministerio de Industria y Energía realizará la distribución del aumento promedio global tarifario para 1995 entre las distintas tarifas para la venta de energía eléctrica que aplican las empresas acogidas al SIFE y asimismo le faculta para dictar nuevas formas de aplicación de los complementos tarifarios, la realización de las modificaciones oportunas que permitan una aplicación más flexible y precisa de la normativa existente y para desarrollar el sistema de tarifas establecido con carácter experimental de tarifa horaria de potencia, que podrá ampliarse a nuevos consumidores. Este sistema seguirá teniendo carácter experimental y coexistiendo con el general, y será optativo para el consumidor.
+
+Asimismo, el párrafo segundo del artículo 3 del citado Real Decreto, faculta al Ministerio de Industria y Energía, a la inspección de las condiciones de la facturación a aquellos suministros a los que se apliquen complementos tarifarios establecidos en la normativa vigente, directamente o a través de la Oficina de Compensaciones de la Energía Eléctrica (OFICO) o del Organismo que el Ministerio designe para ello.
+
+Por otra parte, el artículo 14 del Real Decreto 2366/1994, de 9 de diciembre, sobre producción de energía eléctrica por instalaciones hidráulicas, de cogeneración y otras abastecidas por recursos o fuentes de energía renovables, por el que se fijan los precios de la energía entregada a la Red de Servicio Público por estos productores, términos de potencia y energía, dispone que estos precios se actualizarán por el Ministerio de Industria y Energía con la variación media de las tarifas eléctricas.
+
+A los expresados efectos, la presente Orden desarrolla las previsiones de los citados Reales Decretos y también se fijan las cantidades concretas máximas aplicables por alquiler de equipos de medida, de acuerdo con la Condición 16 de la vigente Póliza de Abono, aprobada por el Real Decreto 1725/1984, de 18 de julio, se actualizan las cantidades a satisfacer por los derechos de las acometidas eléctricas, a tenor del artículo 24 del Real Decreto 2949/1982, de 15 de octubre, y se fija el porcentaje de la venta de energía como contraprestación de los servicios prestados por «Red Eléctrica de España, Sociedad Anónima», conforme lo dispuesto en la disposición transitoria del Real Decreto 91/1985, de 23 de enero.
+
+En su virtud, este Ministerio ha dispuesto:
+
+### Primero.
+
+Las tarifas eléctricas para 1995, el desarrollo de la tarifa horaria de potencia, los precios de la energía entregada a la red por la producción en régimen especial, los suministros a quienes el Ministerio de Industria y Energía inspeccione las condiciones de la facturación y los fondos destinados a compensaciones son los que se definen en el anexo I de la presente Orden y se aplicarán de acuerdo con lo dispuesto en el mismo.
+
+### Segundo.
+
+Las tarifas básicas a aplicar, con los precios de sus términos de potencia y energía, son las que se relacionan en el anexo II de la presente Orden.
+
+### Tercero.
+
+El precio de los alquileres de los equipos de medida ,es el que se detalla en el anexo III de la presente Orden.
+
+### Cuarto.
+
+Las cantidades a satisfacer por derechos de acometida, enganche y verificación, definidos en el Real Decreto 2949/1982, de 15 de octubre, para nuevas instalaciones, quedan fijados en las cuantías que figuran en el anexo IV de la presente Orden.
+
+### Quinto.
+
+«Red Eléctrica de España, Sociedad Anónima» percibirá, como el componente diferenciado de las tarifas que constituye la contrapartida provisional a la prestación de sus servicios, el 2,484 por 100 de Ia facturación por venta de energía suministrada a los abonados finales de la Península.
+
+La Dirección General de la Energía establecerá el procedimiento de aplicación y la base de recaudación de este porcentaje.
+
+> Se deroga en cuanto se oponga por la disposición derogatoria única del Real Decreto 2204/1995, de 28 de diciembre. [Ref. BOE-A-1995-27852](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27852).
+
+> Se deroga en cuanto se oponga por la disposición derogatoria única del Real Decreto 2204/1995, de 28 de diciembre. [Ref. BOE-A-1995-27852](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27852).
+
+### Sexto.
+
+La cuota que debe entregarse a OFICO, por su participación propia sobre la facturación por venta de energía eléctrica, será del 0,45 por 100.
+
+> Se deroga en cuanto se oponga por la disposición derogatoria única del Real Decreto 2204/1995, de 28 de diciembre. [Ref. BOE-A-1995-27852](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27852).
+
+> Se deroga en cuanto se oponga por la disposición derogatoria única del Real Decreto 2204/1995, de 28 de diciembre. [Ref. BOE-A-1995-27852](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27852).
+
+### Séptimo.
+
+Las solicitudes de resoluciones administrativas que deben dictarse conforme a lo dispuesto en la presente Orden se podrán entender desestimadas, si no recae resolución expresa en el plazo de seis meses.
+
+### Disposición transitoria primera. Derechos de acometida, enganche y verificación.
+
+Las instalaciones cuya implantación o modificación se encuentre en período de tramitación en la fecha de entrada en vigor de la presente Orden, se regirán por la Orden de 1 de enero de 1994 en cuanto a las cantidades a satisfacer por derechos de acometida, enganche y verificación.
+
+### Disposición transitoria segunda. Unificación de suministro.
+
+Cuando un abonado tuviese varios suministros que anteriormente se facturasen a distintas tarifas, pero a los que les sea ya de aplicación una sola, la unificación del suministro y de los equipos de medida y, en su caso, la modificación de éstos, sólo podrá realizarse con su conocimiento. Las empresas suministradoras deberán poner en conocimiento de los abonados que estén en este caso la posibilidad que tienen de reducir la potencia total contratada, si lo consideran oportuno, y, en su caso, del derecho que le asiste a ella misma de colocar un elemento para controlar la potencia total contratada.
+
+En el caso en que no se hubieran unificado los suministros, la potencia contratada, a efectos de elección de tarifa, será la suma de las potencias de dichos suministros.
+
+Los gastos de modificación de la instalación serán de cuenta del abonado, que podrá encomendarlos a la empresa suministradora o a un instalador autorizado. La retirada del equipo sobrante y la adaptación o cambio del que ha de quedar instalado, será por cuenta del propietario anterior del mismo, de forma que no cambie el régimen de propiedad o alquiler. Se extenderá nueva póliza de abono en la que se consignará la nueva potencia contratada para el suministro conjunto, sin que esto suponga el pago de ningún derecho por el abonado. En ningún caso se podrá exigir la sustitución del equipo de medida si éste mantuviera la precisión suficiente para la nueva potencia.
+
+### Disposición transitoria tercera.
+
+Hasta la entrada en vigor del Real Decreto 2366/1994, de 9 de diciembre, sobre producción de energía eléctrica por instalaciones hidráulicas, de cogeneración y otras abastecidas por recursos o fuentes de energía renovables, seguirán en vigor lo dispuesto en el punto 7.4 del título I, sobre las particularidades contempladas para la aplicación a los autogeneradores del complemento por interrumpibilidad en relación con la potencia interrumpible ofertada, rescisión del contrato o sus prórrogas y cálculo de P<sub>f</sub>, y la totalidad del título III, ambos del anexo I de la Orden del Ministerio de Industria y Energía de 1 de enero de 1994, por la que se establecen tarifas eléctricas.
+
+### Disposición transitoria cuarta.
+
+Para los abonados que a la entrada en vigor de la presente Orden hubieran sido autorizados por Resolución de la Dirección General de la Energía a estar acogidos a la Tarifa horaria de potencia, seguirá siendo de aplicación dicha tarifa hasta el 31 de octubre de 1995.
+
+### Disposición derogatoria.
+
+Queda derogada la Orden de 1 de enero de 1994, sobre tarifas eléctricas, y cualesquiera otras disposiciones de igual o menor rango, en cuanto se opongan a lo dispuesto en la presente Orden.
+
+### Disposición final primera.
+
+Lo dispuesto en la presente Orden se aplicará a los consumos efectuados desde el 1 de enero de 1995, con excepción de los horarios establecidos en el punto 7.1.4 del título I del anexo I que entrarán en vigor el 26 de marzo, coincidiendo con el cambio oficial de hora de invierno a verano en 1995, y lo dispuesto en el título III del anexo I que será de aplicación a la entrada en vigor del Real Decreto 2366/1994, de 9 de diciembre.
+
+### Disposición final segunda.
+
+Por la Dirección General de la Energía se dictarán las resoluciones precisas para la aplicación de la presente Orden.
+
+### Disposición final tercera.
+
+Seguirán en vigor los horarios fijados en el punto 7.1.4 del título I del anexo I de la Orden del Ministerio de Industria y Energía de 1 de enero de 1994 por el que se establecen las tarifas eléctricas, para los consumos efectuados hasta el 26 de marzo coincidiendo con el cambio oficial de hora de invierno a verano en 1995.
+
+Lo que comunico a V.I. a los efectos oportunos.
+
+Madrid, 12 de enero de 1995.
+
+EGUIAGARAY UCELAY
+
+Ilma. Sra. Directora general de la Energía.
+
+## ANEXO I
+
+> Téngase en cuenta que se derogan el descuento por interrumpibilidad y la tarifa horaria regulados en los apartados 7.4 y 8.4.4 del título primero y en el título II, salvo lo establecido por la disposición transitoria única.2 y 3, por la disposición derogatoria única del Real Decreto 2066/1999, de 30 de diciembre. [Ref. BOE-A-1999-24925](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24925).
+
+## TÍTULO PRIMERO — Definición y aplicación de las tarifas
+
+### Primero. Ámbito de aplicación.
+
+Las tarifas de energía eléctrica que se definen en el presente Anexo serán de aplicación a la energía suministrada por las empresas acogidas al Sistema Integrado de Facturación de Energía Eléctrica (SIFE).
+
+Quedan exceptuados de las mismas:
+
+1.° Los consumos propios de las empresas eléctricas destinados a sus actividades de producción, transporte y distribución de energía eléctrica. No se considerarán como consumos propios los de las explotaciones mineras, aunque sean para el abastecimiento de centrales termoeléctricas, ni los habidos en centrales en construcción y/o moratoria.
+
+2.° El suministro de energía eléctrica a los empleados de las propias empresas eléctricas destinados a las actividades de producción, transporte y distribución de energía eléctrica, que se rige por su tarifa específica.
+
+3.° La energía entregada a las Administraciones Públicas, correspondiente a las reservas establecidas en sus concesiones.
+
+4.° La energía de auxilio y la energía intercambiada ente las empresas eléctricas acogidas al SIFE, salvo las ventas a empresas distribuidoras.
+
+5.° Los suministros gratuitos o con precios especiales particulares, por servidumbre o contrato, en vigor antes del 1 de enero de 1971, durante el período de vigencia del mismo contrato o su prorroga o ampliación, que hubieran sido registrados por la Dirección General de la Energía a solicitud de los interesados con anterioridad al 20 de abril de 1984 tal y como establecía la Orden de 14 de octubre de 1983.
+
+### Segundo. Estructura general tarifaría.
+
+Las tarifas de energía eléctrica son de estructura binomia y están compuestas por un término de facturación de potencia y un término de facturación de energía y, cuando proceda, por recargos o descuentos como consecuencia de la discriminación horaria, del factor de potencia, de la estacionalidad o de la interrumpibilidad.
+
+El término de facturación de potencia será el producto de la potencia a facturar por el precio del término de potencia y el término de facturación de energía será el producto de la energía consumida durante el período de facturación considerado por el precio del término de energía.
+
+La suma de los dos términos mencionados, que constituyen la facturación básica, y de los citados complementos, función de la modulación de la carga y de la energía reactiva, constituye, a todos los efectos, el precio máximo de tarifa autorizado por el Ministerio de Industria y Energía.
+
+En las cantidades resultantes de la aplicación de las tarifas no están incluidos los impuestos, recargos y gravámenes establecidos o que se establezcan sobre el consumo y suministro que sean de cuenta del consumidor, y estén las empresas suministradoras encargadas de la recaudación de los mismos, alquileres de equipos de medida o control, derechos de acometida, enganche y verificación, ni aquellos otros cuya repercusión sobre el usuario este legalmente autorizada.
+
+### Tercero. Definición de las tarifas.
+
+Las tarifas de aplicación general a todos los abonados, sin más condiciones que las derivadas de la tensión a que se haga su acometida, son:
+
+Baja tensión: 3.0 y 4.0.
+
+Alta tensión: 1., 2. y 3.
+
+Los abonados que cumplan las condiciones especificadas para poderse acoger a alguna de las tarifas restantes, podrán optar por dicha tarifa o por la de aplicación general correspondiente.
+
+Las tarifas de aplicación serán las siguientes:
+
+3.1. Tarifas de baja tensión.
+
+Se podrán aplicar a los suministros efectuados a tensiones no superiores a 1.000 voltios.
+
+3.1.1. Tarifa 1.0.
+
+Se podrá aplicar a cualquier suministro, fase-neutro o bifásico, en baja tensión, con potencia contratada no superior a 770 W.
+
+En esta tarifa se podrán contratar las potencias siguientes:
+
+| Tensión nominal | Potencia contratada |
+|---|---|
+| 127 V | 445 W, 635 W |
+| 220 V | 330 W, 770 W |
+
+A esta tarifa no le son de aplicación complementos por energía reactiva, discriminación horaria, estacionalidad ni interrumpibilidad.
+
+3.1.2. Tarifa 2.0.
+
+Se podrá aplicar a cualquier suministro en baja tensión, con potencia contratada no superior a 15 kW.
+
+A esta tarifa sólo le es de aplicación el complemento por energía reactiva si se midiera un coseno de ᵠ inferior a 0,8 en las condiciones fijadas en el punto 7.2.2. y opcionalmente, el complemento por discriminación horaria Tipo 0, denominado «Tarifa Nocturna», pero reo le son de aplicación el complemento por discriminación horaria tipos 1, 2, 3, 4 y 5, el complemento por estacionalidad ni el complemento por interrumpibilidad.
+
+3.1.3. Tarifa 3.0 de utilización normal.
+
+Se podrá aplicar a cualquier suministro en baja tensión con potencia contratada superior a 15 kW.
+
+A esta tarifa le son de aplicación complementos por energía reactiva y discriminación horaria pero no por estacionalidad ni interrumpibilidad.
+
+3.1.4 **(Suprimida).**
+
+3.1.5. Tarifa B.0 de alumbrado público.
+
+Se podrá aplicar a los suministros de alumbrado público en baja tensión contratados por la Administración Central, Autonómica o Local.
+
+Se entiende como alumbrado público el de calles, plazas, parques públicos, vías de comunicación y semáforos. No se incluye como tal el alumbrado ornamental de fachadas, ni el de fuentes públicas.
+
+Se considera también alumbrado público el instalado en muelles, caminos y carreteras de servicio, tinglados y almacenes, pescaderías y luces de situación, dependencias de las Juntas de Puertos, puertos autonómicos, Comisión Administrativa de Grupos de Puertos y puertos públicos.
+
+A esta tarifa le es de aplicación complemento por energía reactiva pero no por discriminación horaria, estacionalidad ni interrumpibilidad.
+
+3.1.6. Tarifa R.0 para riegos agrícolas.
+
+Se podrá aplicar a los suministros de energía en baja tensión con destino a riegos agrícolas o forestales, exclusivamente para la elevación y distribución del agua de propio consumo.
+
+A esta tarifa le son de aplicación complementos por energía reactiva y discriminación horaria, excepto el tipo 5, pero no por estacionalidad ni interrumpibilidad.
+
+3.2. Tarifas de alta tensión.
+
+Se aplicarán las tarifas de alta tensión a los suministros realizados a tensiones nominales superiores a 1.000 voltios.
+
+3.2.1. Tarifas generales de alta tensión.
+
+Se podrán aplicar a cualquier suministro en alta tensión, en el escalón de tensión que corresponda en cada caso.
+
+Sus modalidades, en función de la utilización y de la tensión de servicio, serán:
+
+| Nivel de tensión: | Corta (1.) | Utilización Media (2.) | Larga (3.) |
+|---|---|---|---|
+| 1. Hasta 36 kV, inclusive (.1) | 1.1 | 2.1 | 3.1 |
+| 2. Mayor de 36 kV y no superior a 72,5 kV (.2) | 1.2 | 2.2 | 3.2 |
+| 3. Mayor de 72,5 kV y no superior a 145 kV (.3) | 1.3 | 2.3 | 3.3 |
+| 4. Mayor de 145 kV (.4) | 1.4 | 2.4 | 3.4 |
+
+A estas tarifas les son de aplicación complementos por energía reactiva y discriminación horaria, y, en su caso, por estacionalidad e interrumpibilidad si cumplen las condiciones requeridas.
+
+3.2.2. Tarifas T para tracción.
+
+Se podrán aplicar a los suministros de energía eléctrica para tracción de ferrocarriles, ferrocarriles metropolitanos, tranvías y trolebuses, así como a la energía destinada a los servicios auxiliares o alumbrado de las instalaciones transformadoras para tracción y a los sistemas de señalización que se alimentan de ellas, siempre que estos servicios sean de titularidad pública.
+
+Sus modalidades, en función de la tensión máxima de servicio, serán las siguientes:
+
+T.1: Hasta 36 kV, inclusive.
+
+T.2: Mayor de 36 kV y no superior a 72,5 kV.
+
+T.3: Mayor de 72,5 kV.
+
+A estas tarifas les son de aplicación complementos por energía reactiva y discriminación horaria, pero no por estacionalidad ni interrumpibilidad.
+
+3.2.3. Tarifas R para riegos agrícolas.
+
+Se podrán aplicar a los suministros de energía en alta tensión con destino a riegos agrícolas o forestales, exclusivamente para la elevación y distribución del agua del propio consumo.
+
+Sus modalidades, en función de la tensión máxima de servicio serán las siguientes:
+
+R.1: Hasta 36 kV, inclusive.
+
+R.2: Mayor de 36 kV y no superior a 72,5 kV.
+
+R.3: Mayor de 72,5 kV.
+
+A estas tarifas les son de aplicación complementos por energía reactiva y discriminación horaria, excepto el tipo 5, pero no por estacionalidad ni interrumpibilidad.
+
+3.2.4. Tarifa G.4 de grandes consumidores.
+
+Se podrá aplicar a los suministros de energía en alta tensión que reúnan las siguientes características:
+
+– Potencia contratada en un sólo punto superior a 100.000 kW.
+
+– Utilización anual superior a ocho mil horas de la potencia contratada.
+
+– Utilización mensual superior a la correspondiente a 22 horas diarias de la potencia contratada.
+
+– Tensión nominal del suministro mayor de 145 kV.
+
+Para determinar la utilización anual se considerará el año eléctrico de 1 de noviembre a 31 de octubre del año siguiente. La utilización mensual se medirá por meses naturales.
+
+Con el fin de conseguir un ahorro energético, mayor eficiencia, racionalidad en la explotación del sistema u objetivos de política energética en general, los abonados que deseen estar acogidos a esta tarifa deberán solicitar de la Dirección General de la Energía autorización individual para ello. En consecuencia, se faculta a este Centro Directivo para establecer el período de aplicación y las condiciones de suministro, incluyendo límites al mismo, globales y/o por consumo específico, así como las condiciones de estacionalidad e interrumpibilidad a que dichos abonados estarán sujetos.
+
+Los consumos que excedan de los límites establecidos tendrán un recargo expresado en pts./kWh.
+
+A esta tarifa sólo le son de aplicación complementos por energía reactiva y discriminación horaria, pero no por estacionalidad ni por interrumpibilidad, incluso en el caso de que la Dirección General de la Energía imponga a sus abonados contraprestaciones de estos tipos.
+
+3.2.5. Tarifas D para venta a distribuidores en alta tensión.
+
+Las tarifas D serán de aplicación a las ventas de energía en alta tensión a aquellos distribuidores a quienes se les viniese facturando por las mismas, no siendo de aplicación a los consumos de energía eléctrica de las industrias propias del distribuidor, para los que la tarifa aplicable será la general correspondiente.
+
+Sus modalidades, en función de la tensión máxima de servicio del suministro, serán las siguientes:
+
+D.1: Hasta 36 kV inclusive.
+
+D.2: Mayor de 36 kV y no superior a 72,5 kV.
+
+D.3: Mayor de 72,5 kV y no superior a 145 kV.
+
+D.4: Mayor de 145 kV.
+
+A estas tarifas les son de aplicación complementos por energía reactiva y discriminación horaria, pero no por estacionalidad ni interrumpibilidad.
+
+La determinación de la potencia a facturar para los abonados a esta tarifa es incompatible con los Modos 1 y 5 dispuestos en el punto 6.1.
+
+### Cuarto. Condiciones generales de aplicación de las tarifas.
+
+4.1. Contratos de suministro y facturación de consumos.
+
+El contrato de suministro que se formule o renueve se adaptará siempre a las condiciones generales insertas en el modelo oficial de póliza de abono, autorizándose a las empresas suministradoras de energía eléctrica para que impriman a su costa las pólizas para sus contratos con los usuarios, en las que deberán constar impresas y copiadas literalmente todas las cláusulas generales que figuran en el modelo oficial.
+
+Para un mismo abonado, en un mismo local o unidad de consumo, todos los usos generales constituirán un único contrato de suministro.
+
+Los consumos de energía realizados en un período de facturación en que haya regido más de una tarifa, se distribuirán para su facturación proporcionalmente a la parte del tiempo transcurrido desde la última lectura en que haya estado en vigor cada una de ellas. En casos particulares, por causa debidamente justificada, si la distribución del consumo hubiese sido excepcionalmente irregular, el Organismo competente podrá establecer otro tipo de distribución.
+
+La facturación expresará las variables que sirvieron de base para el cálculo de las cantidades y se realizará en los modelos oficiales de recibos, que estuvieran aprobados por la Dirección General de la Energía.
+
+4.2. Plazos de facturación y de lectura.
+
+Las facturaciones serán mensuales o bimestrales, y corresponderán a las lecturas reales o estimadas, en su caso, de los consumos correspondientes al período que se especifique en la citada factura.
+
+Los plazos de lectura no serán superiores a los tres días anteriores o posteriores a la finalización del mes o bimestre de la última lectura realizada, excepto en los casos de lecturas estimadas de acogidos a la tarifa 1.0 y 2.0, que se regirán por su normativa específica.
+
+Los maxímetros que sirvan de base para la facturación de potencia se leerán y pondrán a cero mensualmente, excepto los de abonados que determinen la potencia a facturar según el modo 5.
+
+4.3. Elección de tarifa.
+
+Todo abonado podrá elegir la tarifa y el sistema de complementos que estime más conveniente a sus intereses entre los oficialmente autorizados para el suministro de energía que el mismo desee demandar, siempre que cumpla las condiciones establecidas en la presente Orden.
+
+Como principio general los abonados podrán elegir la potencia a contratar, debiendo ajustarse, en su caso, a los escalones correspondientes a los de intensidad normalizados para los aparatos de control.
+
+Al abonado que haya cambiado voluntariamente de tarifa podrá negársele pasar a otra mientras no hayan transcurrido, como mínimo, doce meses, excepto si se produjese algún cambio en la estructura tarifaria que le afecte. Estos cambios no implicarán el pago de derecho alguno, por este concepto, a favor de la empresa suministradora. El cambio de modalidad de aplicación de alguno de los complementos de tarifa así como la modificación de la potencia contratada se considerará, a estos efectos, como cambio de tarifa.
+
+Las empresas suministradoras están obligadas a modificar la potencia contractual para ajustarla a la demanda máxima que deseen los abonados, con la limitación del apartado anterior o, cuando por sus especiales condiciones, precisara autorización de la Dirección General de la Energía.
+
+Por reducciones de potencia, las empresas no podrán cobrar cantidad alguna en concepto de derechos de enganche, acometida, ni ningún otro a favor de la empresa, salvo los gastos que se puedan producir por la sustitución o corrección de aparatos de medida o control de la potencia, cuando ello fuera necesario.
+
+Los aumentos de potencia contratada se tramitarán como un alta adicional, sin perjuicio de que en lo sucesivo se haga una sola facturación.
+
+4.4. Temporadas eléctricas.
+
+A efectos de la aplicación de tarifas, se considerará el año dividido en tres períodos, temporada alta, media y baja, incluyendo en cada uno los siguientes meses:
+
+Para la Península:
+
+Temporada alta: Noviembre, diciembre, enero y febrero.
+
+Temporada media: Marzo, abril, julio y octubre.
+
+Temporada baja: Mayo, junio, agosto y septiembre.
+
+Para Baleares, Ceuta y Melilla:
+
+Temporada alta: Junio, julio, agosto y septiembre.
+
+Temporada media: Enero, febrero, octubre y diciembre.
+
+Temporada baja: Marzo, abril, mayo y noviembre.
+
+Para las Islas Canarias:
+
+Temporada alta: Diciembre, enero, febrero y marzo.
+
+Temporada media: Abril, septiembre, octubre y noviembre.
+
+Temporada baja: Mayo, junio, julio y agosto.
+
+### Quinto. Condiciones particulares de aplicación de las tarifas.
+
+5.1. Tarifa 2.0 con discriminación horaria nocturna.
+
+Los abonados acogidos a esta tarifa deberán comunicar a la empresa suministradora las potencias máximas de demanda en horas nocturnas y diurnas.
+
+La potencia contratada será la correspondiente a las horas diurnas. El límite de la potencia en las horas nocturnas será el admisible técnicamente en la instalación.
+
+La potencia a facturar se calculará de acuerdo con lo establecido con carácter general.
+
+Como derechos de acometida por la potencia que exceda de la contratada y que se demande solamente en las horas de valle no se abonarán derechos de responsabilidad y se computará el 20 por 100 de esta potencia para el cálculo de los derechos de extensión, cuyo valor quedará adscrito a la instalación.
+
+5.2. Contratos para suministros de temporada.
+
+A efectos de aplicación de tarifas se considerarán como suministros de temporada los de duración inferior a doce meses de forma repetitiva anualmente, circunstancia que se deberá consignar en la Póliza de Abono. A estos suministros sólo les serán de aplicación las tarifas generales, 3.0 y 4.0 en baja tensión y 1. 2. y 3. en alta tensión, con las siguientes condiciones:
+
+Los precios del término de potencia se aumentarán en un 100 por 100 para los meses de temporada alta y en un 50 por 100 para los restantes en que se reciba la energía. El complemento por energía reactiva se aplicará sobre la facturación básica más los aumentos citados.
+
+No se podrá aplicar el Modo 5 para determinar la potencia a facturar, el complemento por estacionalidad, la discriminación horaria tipo 5 ni el complemento por interrumpibilidad.
+
+### Sexto. Determinación de los componentes de la facturación básica.
+
+6.1. Determinación de la potencia a facturar.
+
+El cálculo de la potencia a facturar se realizará atendiendo a los diferentes modos que se describen a continuación, con las limitaciones impuestas en cada uno de ellos:
+
+Modo 1. Sin maxímetro.
+
+Será aplicable a cualquier suministro en baja o alta tensión, cuando el abonado haya contratado una sola potencia y no tenga instalado aparato maxímetro, salvo lo dispuesto en el punto 3.2.5.
+
+En estos casos la potencia a facturar será la potencia contratada.
+
+Modo 2. Con un maxímetro.
+
+Será aplicable a cualquier suministro en baja o alta tensión, cuando el abonado haya contratado una sola potencia y tenga instalado un solo maxímetro para la determinación de la potencia base de facturación.
+
+La potencia a facturar se calculará de la forma que se establece a continuación:
+
+a) Si la potencia máxima demandada, registrada por el maxímetro en el período de facturación estuviere dentro de + 5 y -15 por 100, respecto a la contratada establecida en la Póliza de Abono, dicha potencia registrada será la potencia a facturar.
+
+b) Si la potencia máxima demandada registrada por el maxímetro en el período de facturación, fuere superior al 105 por 100 de la potencia contratada, la potencia a facturar en el período considerado, será igual al valor registrado por el maxímetro, más el doble de la diferencia entre el valor registrado por el maxímetro y el valor correspondiente al 105 por 100 de la potencia contratada.
+
+c) Si la potencia máxima demandada en el período a facturar fuere inferior al 85 por 100 de la potencia contratada, la potencia a facturar será igual al 85 por 100 de la citada potencia contratada.
+
+No se tendrá en cuenta la punta máxima registrada durante las veinticuatro horas siguientes a un corte o a una irregularidad importante en la tensión o frecuencia del suministro. Para ello, será condición necesaria su debida justificación, preferentemente mediante aparato registrador.
+
+A estos efectos la orden de reducción de potencia en el sistema de interrumpibilidad no tendrá la consideración de corte.
+
+Modo 3. Con dos maxímetros.
+
+Será sólo aplicable a los abonados acogidos al sistema de discriminación horaria tipos 3, 4 o 5 que tengan instalados dos maxímetros y contratadas dos potencias, una para horas punta y llano y otra para horas valle.
+
+En estos casos, la potencia a facturar en cualquier período será igual a la que resulte de aplicar la siguiente fórmula:
+
+PF = P<sub>12</sub> + 0,2 (P<sub>3</sub> - P<sub>12</sub>)
+
+Donde:
+
+P<sub>12</sub> = Potencia a considerar en horas punta y llano una vez aplicada la forma de cálculo establecida para el Modo 2. Para aquellos períodos de facturación en que no existieran horas punta y llano se tomará como valor de P<sub>12</sub> el 85% de la potencia contratada por el abonado para las mismas.
+
+P<sub>3</sub> = Potencia a considerar en horas valle una vez aplicada la forma de cálculo establecida para el Modo 2.
+
+Si P<sub>3</sub> - P<sub>12</sub> es menor que cero, se considerará de valor nulo el segundo término de la fórmula anterior.
+
+Modo 4. Con tres maxímetros.
+
+Será sólo aplicable a los abonados acogidos al sistema de discriminación horaria tipos 3, 4 o 5 que tengan instalados tres maxímetros y contratadas tres potencias, una para horas punta, otra para horas llano y otra para horas valle.
+
+En estos casos, la potencia a facturar en cualquier período será igual a la que resulte de aplicar la siguiente fórmula:
+
+PF = P<sub>1</sub>+ 0,5 (P<sub>2</sub> - P<sub>1</sub>) + 0,2 (P<sub>3</sub> - P<sub>2</sub>)
+
+Donde:
+
+P<sub>1</sub> = Potencia a considerar en horas punta una vez aplicada la forma de cálculo establecida para el modo 2. Para aquellos períodos de facturación en que no existieran horas punta se tomará como valor de P<sub>1</sub> el 85% de la potencia contratada por el abonado para las mismas.
+
+P<sub>2</sub> = Potencia a considerar en horas llano una vez aplicada la forma de cálculo establecida para el modo 2. Para aquellos períodos de facturación en que no existieran horas llano se tomará como valor de P<sub>2</sub> el 85% de la potencia contratada por el abonado para las mismas.
+
+P<sub>3</sub> = Potencia a considerar en horas valle una vez aplicada la forma de cálculo establecida para el modo 2.
+
+En el caso de que alguna P<sub>n</sub> sea inferior a P<sub>n</sub>-1, la diferencia (P<sub>n</sub>- P<sub>n</sub>_1) se considerará de valor nulo. En estos casos, la potencia del sumando siguiente será (P<sub>n+1</sub> - P<sub>n1</sub>).
+
+Modo 5. Estacional.
+
+Será de aplicación a los abonados a una tarifa general de alta tensión que se acojan al complemento por estacionalidad definido en el punto 7.3, del presente Título, lo soliciten a su empresa suministradora y cumplan las siguientes condiciones:
+
+a) Tenga instalado el equipo adecuado para ello.
+
+b) El contrato de suministro estacional con inicio el 1 de noviembre y final el 31 de octubre del año siguiente, tendrá una vigencia de doce meses, prorrogable por períodos iguales, y con los mismos parámetros, si el abonado no manifiesta su voluntad de rescindirlo por escrito, con una antelación mínima de cuarenta y cinco días antes de su vencimiento.
+
+c) La facturación definitiva se realizará por períodos de doce meses.
+
+Para las facturaciones mensuales a cuenta, los valores de las potencias a considerar serán los reales, si hubiere terminado la temporada correspondiente, y los del contrato, en el resto de los casos. Al completar cada temporada se refacturarán los meses transcurridos desde el inicio del contrato con los valores reales obtenidos.
+
+Existirán dos tipos y la potencia a facturar en cada uno de ellos se calculará de la forma siguiente:
+
+a) Tipo A:
+
+Estos abonados deberán fijar en el contrato seis potencias contratadas correspondientes a cada uno de los períodos siguientes:
+
+1\. Horas punta de temporada alta.
+
+2\. Horas llanas de temporada alta.
+
+3\. Horas punta de temporada media.
+
+4\. Horas llanas de temporada media.
+
+5\. Horas punta de temporada baja y horas valle de temporada alta.
+
+6\. Horas valle de temporada media y horas llanas y valle de temporada baja.
+
+Las horas concretas de punta, llano y valle serán las incluidas en el punto 7.1 para la discriminación horaria a que esté acogido el abonado.
+
+La potencia a facturar, igual para cada uno de los doce meses de contrato en la facturación definitiva, será la que resulte de aplicar al final de la temporada eléctrica la fórmula siguiente:
+
+PF = 1,2 P<sub>1</sub> + (P<sub>2</sub>-P<sub>1</sub>) + 0,5 (P<sub>3</sub>-P<sub>2</sub>) + 0,25 (P<sub>4</sub>-P<sub>3</sub>) + 0,10 (P<sub>5</sub>-P<sub>4</sub>) + 0,05 (P<sub>6</sub>-P<sub>5</sub>).
+
+Donde:
+
+P<sub>1</sub> = Potencia a considerar en el período 1 una vez aplicada la forma de cálculo establecida para el Modo 2.
+
+P<sub>2</sub> = Potencia a considerar en el período 2 una vez aplicada la forma de cálculo establecida para el Modo 2.
+
+P<sub>3</sub> = Potencia a considerar en el período 3 una vez aplicada la forma de cálculo establecida para el Modo 2.
+
+P<sub>4</sub> = Potencia a considerar en el período 4 una vez aplicada la forma de cálculo establecida para el Modo 2.
+
+P<sub>5</sub> = Potencia a considerar en el período 5 una vez aplicada la forma de cálculo establecida para el Modo 2.
+
+P<sub>6</sub> = Potencia a considerar en el período 6 una vez aplicada la forma de cálculo establecida para el Modo 2.
+
+En el caso de que alguna Pn sea inferior a Pn-1, la diferencia (Pn - Pn-1) se considerará de valor nulo. En estos casos, la potencia del sumando siguiente será (P<sub>n+1</sub> - P<sub>n-1</sub>) y se utilizará el mismo criterio para el caso en que más de un valor consecutivo de P<sub>n</sub> sea inferior a los anteriores.
+
+b) Tipo B
+
+Estos abonados deberán fijar en el contrato tres potencias contratadas, correspondientes a cada una de las tres temporadas, alta, media y baja definidas anteriormente.
+
+La potencia a facturar, igual para cada uno de los doce meses del contrato en la facturación definitiva, será la que resulte de aplicar al final de la temporada eléctrica la fórmula siguiente:
+
+PF = Máximo (1,1 P<sub>A</sub>, 0,75 P<sub>M</sub>, 0,45 P<sub>B</sub>)
+
+Donde:
+
+P<sub>A</sub> = Potencia a considerar en temporada alta una vez aplicada la forma de cálculo establecida para el Modo 2, considerando como potencia máxima demandada la máxima registrada por el maxímetro a lo largo de toda la temporada alta.
+
+P<sub>M</sub> = Potencia a considerar en temporada media una vez aplicada la forma de cálculo establecida para el Modo 2, considerando como potencia máxima demandada la máxima registrada por el maxímetro a lo largo de toda la temporada media.
+
+P<sub>B</sub> = Potencia a considerar en temporada baja una vez aplicada la forma de cálculo establecida para el Modo 2, considerando como potencia máxima demandada la máxima registrada por el maxímetro a lo largo de toda la temporada baja.
+
+6.2. Energía a facturar.
+
+La energía a facturar será en todos los casos la energía consumida y medida por contador o, en su caso estimada, durante el periodo al que corresponda la facturación.
+
+### Séptimo. Complementos tarifarios.
+
+Los complementos tarifarios consistirán en una serie de recargos o descuentos, que se calcularán tal y corno se especifique en cada caso y deberán figurar por separado en el recibo de energía eléctrica.
+
+7.1. Complemento por discriminación horaria.
+
+7.1.1. Condiciones generales.
+
+El complemento de discriminación horaria estará constituido por un recargo o descuento que se calculará de acuerdo con la siguiente fórmula:
+
+CH = Tej Ʃ E<sub>i</sub>C<sub>i</sub>/100
+
+en la que:
+
+CH = Recargo o descuento en pesetas.
+
+E<sub>i</sub> = Energía consumida en cada uno de los periodos horarios definidos para cada tipo de discriminación horaria en kWh.
+
+C<sub>i</sub> = Coeficiente de recargo o descuento especificado en el punto 7.1.4.
+
+Tej = Precio del término de energía de la tarifa general de media utilización correspondiente a la tensión de suministro, excepto para la tarifa G-4 que se tomará el término de energía correspondiente a esta tarifa y para baja tensión que se tomará el término de energía correspondiente a la tarifa 3.0.
+
+Se aplicará obligatoriamente a todos los suministros a tarifas 3.0, 4.0 y R.0 de baja tensión y a todos los de alta tensión.
+
+Los abonados de la tarifa 2.0 tendrán opción a que se les aplique la discriminación horaria Tipo 0 denominada «tarifa nocturna». No es de aplicación el complemento por discriminación horaria a los abonados de las tarifas B.0 (Alumbrado público) y 1.0.
+
+Los cambios de horario de invierno a verano o viceversa coincidirán con la fecha del cambio oficial de hora.
+
+**(Párrafo onceavo derogado)**
+
+**(Párrafo doceavo derogado)**
+
+**(Párrafo treceavo derogado)**
+
+7.1.2. Tipos de discriminación horaria.
+
+Los tipos de discriminación horaria a los que podrán optar los distintos abonados, sin más limitaciones que las que en cada caso se especifican, y siempre que tengan instalados los equipos de medida adecuados, serán los siguientes:
+
+Tipo 0. «Tarifa nocturna» con contador de doble tarifa. Sólo será aplicable a los abonados a la tarifa 2.0.
+
+Tipo 1. Discriminación horaria sin contador de tarifa múltiple. De aplicación a los abonados con potencia contratada igual o inferior a 50 kW.
+
+Tipo 2. Discriminación horaria con contador de doble tarifa. De uso general.
+
+Tipo 3. Discriminación horaria con contador de triple tarifa sin discriminación de sábados y festivos. De uso general.
+
+Tipo 4. Discriminación horaria con contador de triple tarifa y discriminación de sábados y festivos. De uso general.
+
+Tipo 5. Discriminación horaria estacional con contador de quíntuple tarifa. De uso general pero será incompatible con el complemento por estacionalidad y con tarifas que en su definición estén excluidas de este tipo de discriminación.
+
+7.1.3. Zonas de aplicación.
+
+Las zonas en que se divide el mercado eléctrico nacional a efectos de aplicación de la discriminación horaria, serán las relacionadas a continuación e incluyen las Comunidades Autónomas que se indican:
+
+Zona 1. Galicia, Asturias, Cantabria, País Vasco, Castilla-León, La Rioja y Navarra.
+
+Zona 2. Aragón y Cataluña.
+
+Zona 3. Madrid, Castilla la Mancha y Extremadura.
+
+Zona 4. Valencia, Murcia y Andalucía.
+
+Zona 5. Baleares.
+
+Zona 6. Canarias.
+
+Zona 7. Ceuta y Melilla.
+
+7.1.4. Recargos, descuentos y horas de aplicación.
+
+Tipo 0
+
+Los coeficientes de recargo o descuento aplicables y la duración de cada período serán los que se detallan a continuación:
+
+| Períodos horarios | Duración | Recargo o Descuento (Coeficiente) |
+|---|---|---|
+| Punta y llano | 16 horas/día | +3 |
+| Valle | 8 horas/día | -55 |
+
+Se considerarán como horas valle en todas las Zonas de 23 a 24 h y de 0 a 7 h en horario de invierno y de 0 a 8 h en horario de verano.
+
+Tipo 1
+
+Se consideran dentro de este tipo todos los abonados a los que les sea de aplicación el complemento por discriminación horaria y no hayan optado por alguno de los restantes tipos.
+
+Estos abonados tendrán un coeficiente de recargo de 20 sobre la totalidad de la energía consumida.
+
+Tipo 2
+
+El coeficiente de recargo para este tipo de abonados y la duración de cada período serán los siguientes:
+
+| Período horario | Duración | Recargo<br>(Coeficiente) |
+|---|---|---|
+| Horas punta | 4 horas/día | +40 |
+| Horas llano y valle | 20 horas/día | – |
+
+Se considerarán como horas punta en todas las zonas de 9 a 13 h. en horario de invierno y de 10 a 14 h. en horario de verano.
+
+Tipo 3
+
+Los coeficientes de recargo o descuento aplicables y la dura ción de cada período serán los que se detallan a continuación:
+
+| Período horario | Duración | Recargo o descuento (Coeficiente) |
+|---|---|---|
+| Punta | 4 horas/día | +70 |
+| Llano | 12 horas/día | – |
+| Valle | 8 horas/día | -43 |
+
+Se consideran horas punta, llano y valle en cada una de las zonas antes definidas, las siguientes:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Zona</p>
+</td>
+<td colspan="3">
+<p>Invierno</p>
+</td>
+<td colspan="3">
+<p>Verano</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Punta</p>
+</td>
+<td>
+<p>Llano</p>
+</td>
+<td>
+<p>Valle</p>
+</td>
+<td>
+<p>Punta</p>
+</td>
+<td>
+<p>Llano</p>
+</td>
+<td>
+<p>Valle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Zona 1</p>
+</td>
+<td>
+<p>18-22</p>
+</td>
+<td>
+<p>8-18</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>9-13</p>
+</td>
+<td>
+<p>8-9</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>22-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>13-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Zona 2</p>
+</td>
+<td>
+<p>18-22</p>
+</td>
+<td>
+<p>8-18</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>9-13</p>
+</td>
+<td>
+<p>8-9</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>22-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>13-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Zona 3</p>
+</td>
+<td>
+<p>18-22</p>
+</td>
+<td>
+<p>8-18</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>10-14</p>
+</td>
+<td>
+<p>8-10</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>22-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>14-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Zona 4</p>
+</td>
+<td>
+<p>18-22</p>
+</td>
+<td>
+<p>8-18</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>10-14</p>
+</td>
+<td>
+<p>8-10</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>22-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>14-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Zona 5</p>
+</td>
+<td>
+<p>18-22</p>
+</td>
+<td>
+<p>8-18</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>19-23</p>
+</td>
+<td>
+<p>0-1</p>
+</td>
+<td>
+<p>1-9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>22-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>9-19</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>23-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Zona 6</p>
+</td>
+<td>
+<p>18-22</p>
+</td>
+<td>
+<p>8-18</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>19-23</p>
+</td>
+<td>
+<p>0-1</p>
+</td>
+<td>
+<p>1-9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>22-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>9-19</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>23-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Zona 7</p>
+</td>
+<td>
+<p>19-23</p>
+</td>
+<td>
+<p>8-19</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>20-24</p>
+</td>
+<td>
+<p>0-1</p>
+</td>
+<td>
+<p>1-9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>23-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>9-20</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Tipo 4
+
+Los coeficientes de recargo o descuento aplicables y la duración de cada período serán los que se detallan a continuación:
+
+| Período horario | Duración | Recargo o descuento<br>(Coeficiente) |
+|---|---|---|
+| Punta | 6 horas de lunes a viernes | +100 |
+| Llano | 10 horas de lunes a viernes | – |
+| Valle | 8 horas de lunes a viernes<br>24 h en sábados y domingos | -43 |
+
+Se considerarán también como horas valle las 24 horas de los días festivos de ámbito nacional con inclusión de aquellos que pueden ser sustituidos a iniciativa de cada Comunidad Autónoma para los abonados que posean el equipo de discriminación horaria adecuado.
+
+Las horas punta, llano y valle en cada una de las zonas antes definidas son las siguientes:
+
+<table>
+<tbody>
+<tr>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Invierno</p>
+</td>
+<td colspan="3">
+<p>Verano</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zona</p>
+</td>
+<td>
+<p>Punta</p>
+</td>
+<td>
+<p>Llano</p>
+</td>
+<td>
+<p>Valle</p>
+</td>
+<td>
+<p>Punta</p>
+</td>
+<td>
+<p>Llano</p>
+</td>
+<td>
+<p>Valle</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zona 1</p>
+</td>
+<td>
+<p>16-22</p>
+</td>
+<td>
+<p>8-16</p>
+<p>22-24</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>8-14</p>
+</td>
+<td>
+<p>14-24</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zona 2</p>
+</td>
+<td>
+<p>17-23</p>
+</td>
+<td>
+<p>8-17</p>
+<p>23-24</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>9-15</p>
+</td>
+<td>
+<p>8-9</p>
+<p>15-24</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zona 3</p>
+</td>
+<td>
+<p>16-22</p>
+</td>
+<td>
+<p>8-16</p>
+<p>22-24</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>9-15</p>
+</td>
+<td>
+<p>8-9</p>
+<p>15-24</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zona 4</p>
+</td>
+<td>
+<p>17-23</p>
+</td>
+<td>
+<p>8-17</p>
+<p>23-24</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>10-16</p>
+</td>
+<td>
+<p>8-10</p>
+<p>16-24</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zona 5</p>
+</td>
+<td>
+<p>16-22</p>
+</td>
+<td>
+<p>7-16</p>
+<p>22-23</p>
+</td>
+<td>
+<p>0-7</p>
+<p>23-24</p>
+</td>
+<td>
+<p>17-23</p>
+</td>
+<td>
+<p>0-1</p>
+<p>9-17</p>
+<p>23-24</p>
+</td>
+<td>
+<p>1-9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zona 6</p>
+</td>
+<td>
+<p>16-22</p>
+</td>
+<td>
+<p>7-16</p>
+<p>22-23</p>
+</td>
+<td>
+<p>0-7</p>
+<p>23-24</p>
+</td>
+<td>
+<p>17-23</p>
+</td>
+<td>
+<p>8-17</p>
+<p>23-24</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zona 7</p>
+</td>
+<td>
+<p>17-23</p>
+</td>
+<td>
+<p>8-17</p>
+<p>23-24</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>18-24</p>
+</td>
+<td>
+<p>0-1</p>
+<p>9-18</p>
+</td>
+<td>
+<p>1-9</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Tipo 5
+
+El contrato del tipo 5 de discriminación horaria comenzará con el principio de la temporada alta eléctrica definida en el punto 4.4 del presente Título y tendrá una vigencia de doce meses, prorrogable por períodos iguales, si el abonado no manifiesta su voluntad de rescindirlo por escrito, con una antelación mínima de cuarenta y cinco días antes de su vencimiento.
+
+Los días del año se clasifican a estos efectos en cuatro categorías. El número de días del año correspondientes a cada categoría serán los siguientes:
+
+| Categoría | Número de días |
+|---|---|
+| Pico | 70 |
+| Alto | 80 |
+| Medio | 80 |
+| Bajo | Resto |
+
+La Dirección General de la Energía fijará para cada año los días concretos asignados a cada categoría, tanto para el sistema integrado peninsular, corno para cada uno de los sistemas aislados o extrapeninsulares.
+
+Los coeficientes de recargo o descuento aplicables y la duración de cada período serán los que se detallan a continuación:
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Período horario</p>
+</td>
+<td>
+<p>Categoría de los días</p>
+</td>
+<td>
+<p>Duración h/día</p>
+</td>
+<td>
+<p>Descuento o recargo (Coeficiente)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Punta</p>
+</td>
+<td>
+<p>Pico</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>+ 300</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alto</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>+ 100</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Llano</p>
+</td>
+<td>
+<p>Pico</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alto</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Medio</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>Valle</p>
+</td>
+<td>
+<p>Pico</p>
+</td>
+<td>
+<p>8 (1)</p>
+</td>
+<td>
+<p>–43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alto</p>
+</td>
+<td>
+<p>8 (1)</p>
+</td>
+<td>
+<p>–43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Medio</p>
+</td>
+<td>
+<p>16 (1)</p>
+</td>
+<td>
+<p>–43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bajo</p>
+</td>
+<td>
+<p>24 (1)</p>
+</td>
+<td>
+<p>–43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Siguiente día-bajo</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>–50</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1) Salvo que sean días siguientes a días bajos.
+
+Se considerarán como valle con un coeficiente Ci 50 de descuento las ocho primeras horas valle de los días siguientes a días bajo, sea cual sea la categoría de los mismos.
+
+Se considerarán horas punta, llano y valle, en cada una de las zonas antes definidas, las siguientes:
+
+<table>
+<tbody>
+<tr>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Días Pico</p>
+</td>
+<td colspan="3">
+<p>Días Medio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zona</p>
+</td>
+<td>
+<p>Punta</p>
+</td>
+<td>
+<p>Llano</p>
+</td>
+<td>
+<p>Valle</p>
+</td>
+<td>
+<p>Punta</p>
+</td>
+<td>
+<p>Llano</p>
+</td>
+<td>
+<p>Valle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Zona 1</p>
+</td>
+<td>
+<p>9-14</p>
+</td>
+<td>
+<p>8-9</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>9-17</p>
+</td>
+<td>
+<p>0-9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17-22</p>
+</td>
+<td>
+<p>14-17</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>17-24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>22-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Zona 2</p>
+</td>
+<td>
+<p>9-14</p>
+</td>
+<td>
+<p>8-9</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>10-18</p>
+</td>
+<td>
+<p>0-10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17-22</p>
+</td>
+<td>
+<p>14-17</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>18-24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>22-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Zona 3</p>
+</td>
+<td>
+<p>10-15</p>
+</td>
+<td>
+<p>8-10</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>10-18</p>
+</td>
+<td>
+<p>0-10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18-23</p>
+</td>
+<td>
+<p>15-18</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>18-24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>23-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Zona 4</p>
+</td>
+<td>
+<p>9-14</p>
+</td>
+<td>
+<p>8-9</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>0-14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17-22</p>
+</td>
+<td>
+<p>14-17</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>14-22</p>
+</td>
+<td>
+<p>22-24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>22-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Zona 5</p>
+</td>
+<td>
+<p>9-14</p>
+</td>
+<td>
+<p>8-9</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>16-24</p>
+</td>
+<td>
+<p>0-16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17-22</p>
+</td>
+<td>
+<p>14-17</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>22-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Zona 6</p>
+</td>
+<td>
+<p>9-12</p>
+</td>
+<td>
+<p>8-9</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>16-24</p>
+</td>
+<td>
+<p>0-16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16-23</p>
+</td>
+<td>
+<p>12-16</p>
+</td>
+<td>
+<p>0-8</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>23-24</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Zona 7</p>
+</td>
+<td>
+<p>9 13</p>
+</td>
+<td>
+<p>8 9</p>
+</td>
+<td rowspan="2">
+<p>0-8</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td rowspan="2">
+<p>16-24</p>
+</td>
+<td rowspan="2">
+<p>0-16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18-24</p>
+</td>
+<td>
+<p>13-18</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Se considerarán como horas punta, llano y valle para los días altos, las establecidos para la discriminación horaria tipo 3.
+
+7.2. Complemento por energía reactiva.
+
+7.2.1. Condiciones Generales.
+
+El complemento por energía reactiva está constituido por un recargo o descuento porcentual y se aplicará sobre la totalidad de la facturación básica. Se calculará con una cifra decimal y el redondeo se hará por defecto o por exceso, según que la segunda cifra decimal, despreciada, sea o no menor de cinco.
+
+Estarán sujetos al complemento por energía reactiva los abonados a cualquier tarifa, excepto a las 1.0 y 2.0. No obstante, los abonados a la tarifa 2.0 estarán sujetos a la excepción que se concreta en el párrafo segundo del punto 7.2.2.
+
+No se podrá aplicar este complemento si no se dispone para la determinación de su cuantía del contador de energía reactiva permanentemente instalado.
+
+En los periodos de facturación en que no haya habido consumo de energía activa no se aplicará complemento por energía reactiva sobre el término de potencia facturado.
+
+7.2.2. Corrección obligatoria del factor de potencia.
+
+Cuando un abonado tenga su instalación con factor de potencia que sea inferior a 0,55 en tres o más mediciones, la empresa suministradora deberá comunicarlo al Organismo competente de la Administración Pública, quien podrá establecer al usuario un plazo para la mejora de su factor de potencia, y si no se cumpliera el plazo establecido, resolver la aplicación de recargos pudiendo llegar a ordenar la suspensión del suministro en tanto no se mejore la instalación en la medida precisa.
+
+Los suministros acogidos a la tarifa 2.0 deberán disponer de los equipos de corrección del factor de potencia adecuados para conseguir como mínimo un valor medio del mismo de 0,80; en caso contrario, la empresa suministradora podrá instalar, a su costa, el contador correspondiente y efectuar en el futuro la facturación a este abonado con complemento por energía reactiva en los períodos de lectura real en los que el coseno de ᵩ (cos ᵩ) medio sea inferior a 0, 8.
+
+7.2.3. Corrección de los efectos capacitivos.
+
+Cuando la instalación de un abonado produzca efectos capacitivos que den lugar a perturbaciones apreciables en la red de suministro o de transporte, cualquier afectado por las perturbaciones podrá ponerlo en conocimiento del Organismo competente, el cual, previo estudio de aquéllas, recabará del abonado su corrección y le fijará un plazo para ello. En caso de no hacerlo así se aplicarán las medidas que procedan, pudiendo llegar –en aplicación de las condiciones de carácter general de la póliza de abono– a ordenar la suspensión de suministro de energía eléctrica en tanto no se modifique la instalación.
+
+7.2.4. Determinación del factor de potencia.
+
+El factor de potencia o coseno de ᵩ (cos ᵩ) medio de una instalación se determinará a partir de la fórmula siguiente:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/12/01048_001.png)
+
+en la que:
+
+W<sub>a</sub> = Cantidad registrada por el contador de energía activa, expresada en kWh.
+
+W<sub>r</sub> = Cantidad registrada por el contador de energía reactiva, expresada en kVArh.
+
+Los valores de esta fórmula se determinarán con dos cifras decimales y el redondeo se hará por defecto o por exceso, según que la tercera cifra decimal despreciada sea o no menor que 5.
+
+7.2.5. Recargos y bonificaciones. El valor porcentual, K<sub>r</sub>, a aplicar a la facturación básica se determinará según la fórmula que a continuación se indica.
+
+Para 1 ≤ cosφ < 0,95:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Kr(%)=</p>
+</td>
+<td>
+<p>37,026</p>
+</td>
+<td rowspan="2">
+<p>– 41,026</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cos<sup>2</sup> φ</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Para 0,95 ≤ cosφ < 0,90
+
+Kr(%) = 0
+
+Para cosφ < 0,90
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Kr(%)=</p>
+</td>
+<td>
+<p>29,16</p>
+</td>
+<td rowspan="2">
+<p>– 36, con un máximo de 50,7 % de recargo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cos<sup>2</sup> φ</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Cuando dé un resultado negativo se aplicará una bonificación en porcentaje igual al valor absoluto del mismo.
+
+La aplicación de estas fórmulas dan los resultados siguientes para los valores de cos φ que a continuación se indican. Los valores intermedios deben obtenerse de la misma fórmula y no por interpolación linea
+
+| Cos φ | Recargo % | Descuento % |
+|---|---|---|
+| 1,00 | - | 4,0 |
+| 0,97 | - | 1,7 |
+| 0,95 | - | 0,0 |
+| 0,90 | 0,0 | 0,0 |
+| 0,85 | 4,4 | - |
+| 0,80 | 9,6 | - |
+| 0,75 | 15,8 | - |
+| 0,70 | 23,5 | - |
+| 0,65 | 33,0 | - |
+| 0,60 | 45,0 | - |
+| 0,58 | 50,7 | - |
+
+No se aplicarán recargos superiores al 50,7 por 100 ni descuentos superiores al 4 por 100.
+
+7.2.6. Gestión de los equipos de corrección de energía reactiva.
+
+Las empresas eléctricas podrán acordar con sus abonados en alta tensión, individualmente o con carácter general para una zona determinada, la desconexión total o parcial de sus equipos de corrección de energía reactiva y del contador de la misma durante las horas valle y la fijación del complemento por energía reactiva a aplicar en estos casos. Dichos acuerdos deberán tener la conformidad de la Dirección General de Energía.
+
+7.3. Complemento por estacionalidad.
+
+7.3.1. Condiciones generales.
+
+El complemento por estacionalidad está constituido por un recargo o descuento porcentual y se aplicará exclusivamente sobre la parte correspondiente al término de energía de la facturación básica.
+
+Se aplicará a los abonados que hayan optado por el modo 5 estacional para el cálculo de la potencia a facturar.
+
+7.3.2. Recargos o descuentos.
+
+Los consumos de energía activa correspondientes a cada período, de los definidos en el punto 4.4, tendrán los siguientes recargos o descuentos:
+
+| Periodo | Porcentaje |
+|---|---|
+| Temporada alta | + 10 |
+| Temporada media | – |
+| Temporada baja | - 10 |
+
+7.4. Complemento por interrumpibilidad.
+
+7.4.1. Condiciones generales.
+
+7.4.1.1. Condiciones para acogerse al sistema de interrumpibilidad.
+
+Todo abonado, acogido a una tarifa general en alta tensión, que tenga el equipo adecuado para ello, podrá acogerse al sistema de interrumpibilidad, de acuerdo con las siguientes condiciones:
+
+a) Los abonados, que deseen acogerse al sistema de interrumpibilidad, deberán solicitarlo a la Dirección General de la Energía, con un plazo de antelación mínimo de cuarenta y cinco días, previo al comienzo de la temporada alta, especificando en la solicitud y acompañando a la misma los siguientes documentos:
+
+Condiciones de contratos que se solicitan para el suministro interrumpible:
+
+– Tarifa.
+
+– Modo de facturar la potencia.
+
+– Potencia/s contratada/s.
+
+– Tipo de discriminación horaria.
+
+– Interrumpibilidad:
+
+Tipos a los que se acoge y Pmaxi para cada uno.
+
+– Potencias contratadas y consumo de energía eléctrica en los dos últimos años desglosados en los distintos períodos horarios, punta, llano y valle.
+
+– Previsiones de consumo para la temporada eléctrica siguiente.
+
+– Informe de la empresa suministradora sobre las posibilidades técnicas del suministro, condiciones y características del nuevo contrato solicitado.
+
+– En su caso, fotocopia de la póliza de abono vigente para dicho suministro.
+
+La Dirección General de la Energía podrá negar la aplicación de este sistema si por las características de la forma de consumo se estimara que para dicho suministro no resulta efectiva la aplicación del mismo y en cualquier caso si no se derivara un beneficio para el sistema eléctrico o pudiera afectar perjudicialmente a terceros.
+
+b)La potencia interrumpible ofertada por el abonado no será inferior a 5 MW, para todos y cada uno de los tipos a los que esté acogido. Esta potencia se calculará corno diferencia entre la Pf y la Pmaxi que se definen en 7.4.4.
+
+La Dirección General de la Energía podrá establecer unos límites inferiores a la potencia, para los sistemas aislados extrapeninsulares.
+
+En el caso de que un abonado, para un mismo suministro en un único lugar de trabajo, disponga de varios puntos de toma, éstos se podrán considerar por la Dirección General de la Energía como un todo y las magnitudes a contemplar serán la suma de las parciales de cada toma o las registradas por aparato totalizador.
+
+7.4.1.2. Condiciones del contrato de interrumpibilidad.
+
+El contrato de suministro interrumpible deberá comenzar con el inicio de una temporada alta eléctrica, tendrá una vigencia de cinco años y se considerará prorrogado por iguales períodos si el abonado no solicita por escrito a la Dirección General de la Energía rescindirlo, con una anticipación mínima de un año.
+
+La rescisión del contrato o de sus prórrogas, por parte del abonado, durante el período de vigencia significará la refacturación del descuento DI, definitivo ylo provisional a cuenta del anual desde la fecha de origen del contrato o prórroga, suponiendo unos factores Ki = 0 en las fórmulas respectivas del apartado 7.4.4 del presente Titulo. En estos casos, la Dirección General de la Energía podrá eximir total o parcialmente de la refacturación de los descuentos definitivos correspondientes a temporadas que haya completado el abonado por motivos excepcionales debidamente justificados. En ningún caso se eximirá de la refacturación de los descuentos provisionales a cuenta del anual que se hubieran realizado si la temporada no ha finalizado en la fecha en que se produzca la rescisión del contrato.
+
+Se consideran a estos efectos como casos de rescisión del contrato o de sus prórrogas, por parte del abonado, los siguientes:
+
+1.° Que la potencia ofertada por el abonado en cualquier momento de la vigencia del contrato sea inferior a 5 MW para cualquiera de los tipos a los que esté acogido.
+
+2.° El incumplimiento de cinco o más interrupciones durante la vigencia del contrato o de cada una de sus prórrogas.
+
+3.° El no tener instalado y en perfecto estado de funcionamiento el equipo de medida de control, salvo lo dispuesto a estos efectos en el último párrafo del punto 8.4.4 del presente Título.
+
+4.° Los establecidos en la normativa general y específica para los contratos de suministro de energía eléctrica.
+
+7.4.1.3. Modificación de las condiciones del contrato.
+
+Las variaciones de los parámetros, tipos de interrumpibilidad o cualquier modificación del contrato de suministro de energía eléctrica necesitarán ser autorizadas por la Dirección General de la Energía.
+
+A estos efectos, se distinguirán dos clases de modificaciones:
+
+1) Modificaciones a comienzo de la temporada alta eléctrica: Para poder ser autorizadas deberán estar basadas en causas debidamente justificadas y solicitarse a la Dirección General de la Energía con un mínimo de 45 días de antelación a la fecha de comienzo de la temporada alta.
+
+2) Modificaciones que no coinciden con el día de comienzo de la temporada alta: Sólo podrán ser autorizadas por causas excepcionales e imprevistas. En estos casos, la Dirección General de la Energía establecerá las condiciones particulares de adaptación del sistema de interrumpibilidad.
+
+En ambos casos la Dirección General de la Energía podrá conceder lo solicitado siempre que de ello no resulte un perjuicio para el sistema eléctrico o pudiera afectar negativamente a terceros.
+
+La información mínima sobre condiciones del contrato que deberán presentar los interesados junto con las solicitudes de modificación del mismo, correspondientes al momento de efectuar la solicitud y las solicitadas, serán las siguientes:
+
+– Tarifa.
+
+– Modo de facturar la potencia.
+
+– Potencia/s contratada/s.
+
+– Tipo de discriminación horaria.
+
+– Interrumpibilidad:
+
+Tipos a los que se acoge y Pmaxi para cada uno.
+
+7.4.1.4. Procedimiento y modelo de solicitudes.
+
+La Dirección General de la Energía podrá establecer el procedimiento y modelo de solicitudes, para acogerse al sistema de interrumpibilidad, así como para la modificación de las condiciones del contrato.
+
+7.4.1.5. Facturación.
+
+La facturación definitiva del suministro interrumpible se hará por períodos anuales que comprenderán desde el día de comienzo de la temporada alta hasta el día anterior al de comienzo de la temporada alta del año siguiente:
+
+Mensualmente se facturará un descuento provisional a cuenta del anual, que se hallará aplicando a la facturación básica acumulada desde el comienzo del período anual un descuento porcentual calculado con arreglo a la fórmula establecida en el apartado 7.4.4, con la única diferencia de que, para el cálculo del parámetro H, la energía realmente suministrada desde el comienzo del período anual hasta el último día del mes considerado, se multiplicará por 12 y dividirá por el número de meses del período anual transcurridos. El descuento así calculado se aplicará sobre la facturación básica del mismo período transcurrido y del importe resultante se deducirá el calculado de la misma forma para el mes anterior. Esta diferencia será la facturación del complemento por interrumpibilidad del mes correspondiente.
+
+7.4.1.6. Información.
+
+Los abonados interrumpibles deberán remitir a la Dirección General de la Energía cualquier información sobre consumos eléctricos, facturación o condiciones del contrato que ésta le solicite, y las empresas eléctricas deberán remitir a la Dirección General de la Energía, no más tarde del día 10 de noviembre de cada año, relación detallada de todos sus abonados interrumpibles con las condiciones del contrato de todos ellos y las previsiones de consumo durante la misma.
+
+La no remisión de la información solicitada podrá ser causa de suspensión total o parcial del descuento por interrumpibilidad en la temporada correspondiente, según lo dispuesto en el punto 7.4.1.7.
+
+7.4.1.7. Suspensión del descuento por interrumpibilidad.
+
+La Dirección General de la Energía podrá suspender el disfrute de los descuentos de la facturación o de la compensación, en su caso, relacionados con la interrumpibilidad, en todo o en parte, pudiendo llegar a la totalidad de los mismos y para la temporada completa, por los motivos siguientes:
+
+a) No hallarse en perfecto estado de funcionamiento el equipo de control.
+
+b) No facilitar la información que la Dirección General de la Energía, solicite referente al sistema de interrumpibilidad o dificultar de cualquier modo las inspecciones, que realice directamente o a través del Organismo que designe para ello.
+
+7.4.2. Condiciones especiales.
+
+Las empresas eléctricas, para sus industrias propias o filiales o para abonados con participación mayoritaria común, deberán solicitar a la Dirección General de la Energía, las condiciones específicas de funcionamiento y aplicación, a efectos de los descuentos y en su caso, compensaciones por interrumpibilidad.
+
+7.4.3. Condiciones de aplicación del sistema de interrumpiblidad.
+
+7.4.3.1. Tipos de interrumpibilidad.
+
+1\. Existirán cuatro tipos de interrupciones normales:
+
+| Tipo | Interrupción máxima | Preaviso mínimo |
+|---|---|---|
+| A | 12 horas | 16 horas |
+| B | 6 horas | 6 horas |
+| C | 3 horas | 1 hora |
+| D | 45 minutos | 5 minutos |
+
+Además de la modalidad normal, las interrupciones tipo A y B tendrán la modalidad de aplicación flexible. La Dirección General de la Energía, podrá establecer un tipo de interrupción automática sin preaviso, incompatible con el D, disponiendo las condiciones para acogerse, los beneficios y los equipos de control necesarios.
+
+2\. Las interrumpibilidades tipo A y B tendrán dos modalidades de aplicación siendo potestad de Red Eléctrica de España, S.A. en cada momento ordenar a cada consumidor la aplicación de una u otra.
+
+a) Interrumpibilidad tipo A:
+
+1\. Normal: Preaviso mínimo de 16 horas e interrupción máxima de 12 horas.
+
+2\. Flexible:
+
+2.1 Interrupción:
+
+2.1.1 Un periodo máximo de 4 horas continuadas, decido por Red Eléctrica de España, S.A., en el que la empresa limita su potencia a la P<sub>max</sub> establecida en el contrato de interrumpibilidad.
+
+2.1.2 Otro periodo por un máximo de 4 horas continuadas decidido por Red Eléctrica de España, S.A., en el que la empresa limita su potencia a la P<sub>max</sub> mas el 50% de la potencia ofertada en el periodo horario de que se trate, siendo esta la diferencia entre la potencia contratada y la Pmax correspondiente a cada período tarifario.
+
+2.1.3 Resto de las 12 horas, la empresa será libre de mantener la potencia que tenga contratada.
+
+2.2 Preaviso: Red Eléctrica de España, S.A. explicitará, con un preaviso mínimo de 2 horas, el perfil de las 12 horas de interrupción, aplicando los criterios anteriores, teniendo en cuenta que el preaviso mínimo para ordenar a una empresa el límite P<sub>max</sub> no puede ser inferior a una hora.
+
+b) Interrumpibilidad tipo B:
+
+1\. Normal: Preaviso mínimo de 6 horas e interrupción máxima de 6 horas.
+
+2\. Flexible:
+
+2.1 Interrupción:
+
+2.1.1 Un periodo máximo de 3 horas continuadas, decidido por Red Eléctrica de España, S.A., en el que la empresa limita su potencia a la P<sub>max</sub> establecida en el contrato de interrumpibilidad.
+
+2.1.2 Otro periodo por un máximo de 3 horas continuadas decidido por Red Eléctrica de España, S.A., en el que la empresa limita su potencia a la P<sub>max</sub> mas el 50% de la potencia ofertada en el periodo horario de que se trate, siendo esta la diferencia entre la potencia contratada y la P<sub>max</sub> correspondiente a cada período tarifario.
+
+2.1.3 Resto de las 6 horas, la empresa será libre de mantener la potencia que tenga contratada.
+
+2.2 Preaviso: Red Eléctrica de España, S.A. explicitará, con un preaviso mínimo de 2 horas, el perfil de las 6 horas de interrupción, aplicando los criterios anteriores, teniendo en cuenta que el preaviso mínimo para ordenar a una empresa el límite P<sub>max</sub> no puede ser inferior a una hora.
+
+3\. Las interrupciones flexibles de tipo A y B computarán como 12 y 6 horas respectivamente y como una interrupción aunque se dividan en varios periodos.
+
+4\. Los consumidores acogidos a este sistema deberán aportar permanentemente información de la potencia activa y reactiva demandada en tiempo real y los programas de consumo previstos.
+
+7.4.3.2. Número de interrupciones.
+
+El número máximo de interrupciones anuales será de treinta, sumadas las de cualquier tipo, con un límite máximo de una diaria, cinco interrupciones semanales, ciento veinte horas mensuales y doscientas cuarenta horas anuales.
+
+Las interrupciones se realizarán por iniciativa de Red Eléctrica de España, S.A., o de la empresa suministradora con la conformidad de Red Eléctrica de España, S.A., sin perjuicio de las instrucciones que puede emitir, a este efecto, la Dirección General de la Energía.
+
+Red Eléctrica de España, S.A., comunicará mensualmente a la Dirección General de la Energía las órdenes de interrupción que se hayan realizado, indicando las causas de las mismas, así como los abonados afectados, e informará a la citada Dirección sobre el funcionamiento y resultados de la aplicación del sistema con carácter anual o a solicitud de la misma.
+
+7.4.3.3. Información para la aplicación del sistema de interrumpibilidad.
+
+Para mejorar la eficacia del sistema de interrumpibilidad, las empresas distribuidoras de energía eléctrica comunicarán a Red Eléctrica de España, S.A., los valores de que dispongan sobre la potencia demandada por los abonados interrumpibles, previamente a la solicitud de una interrupción determinada.
+
+Sin perjuicio de lo anterior, los abonados tienen la obligación de facilitar los mismos datos, cuando se lo solicite Red Eléctrica de España, S.A., directamente o a través de las empresas distribuidoras.
+
+7.4.3.4. Procedimiento de interrupción y equipo de control.
+
+El preaviso se realizará de acuerdo con lo dispuesto en la Resolución de la Dirección General de la Energía de 15-3-90, o las disposiciones dictadas por la misma que en su momento la sustituyan.
+
+7.4.4. Descuento o Recargo por interrumpibilidad.
+
+Todo abonado acogido a un sistema de interrumpibilidad tendrá derecho a un descuento o recargo sobre su facturación básica anual, calculado como suma de los dos términos siguientes:
+
+I = DI - Rl
+
+Donde cada uno de ellos se calculará de acuerdo con la siguiente fórmula:
+
+a) CÁLCULO DI
+
+![Imagen: img/disp/2007/156/12759_001.png](https://www.boe.es/datos/imagenes/disp/2007/156/12759_001.png)
+
+donde las variables tienen el siguiente significado:
+
+DI = Descuento anual en porcentaje. Se calculará con dos cifras decimales y el redondeo se hará, por defecto o por exceso, según que la tercera cifra decimal despreciada sea o no menor que cinco.
+
+> Téngase en cuenta que el término variable del descuento DI será nulo, es decir (ΣPj/Pf) será siempre 0 con independencia de las interrupciones solicitadas y cumplidas por el consumidor en cada temporada eléctrica, según establece el anexo I.3 del Real Decreto 1556/2005, de 23 de diciembre. [Ref. BOE-A-2005-21314](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21314).
+
+H = Horas anuales de utilización equivalente expresadas en números enteros, con un redondeo igual al anterior, que se calculará como el cociente entre el consumo total anual expresado en kWh y la potencia Pf que se define más adelante expresada en kW, con el tope máximo de las horas reales del año, 8.760 u 8.784 en año bisiesto. En los casos en que se haya rebasado el 105 por 100 de la potencia contratada en algún período de punta y/o llano de temporada alta, se considerará para el cálculo de H la mayor de las potencias base de facturación que correspondan a las horas de punta y/o de llano de temporada alta que resulten una vez aplicada la forma de cálculo establecida para el modo 2 del punto 6.1. Si el valor del cociente fuera inferior a 2.100, DI será igual a 0.
+
+S = Coeficiente de coincidencia. Tendrá los siguientes valores, según el número de tipos de interrumpibilidad a que estén acogidos los abonados:
+
+| N.° tipos | S |
+|---|---|
+| 1 | 1,000 |
+| 2 | 0,875 |
+| 3 | 0,750 |
+| 4 | 0,625 |
+
+Ki = Constante, que tendrá un valor según el tipo de interrumpibilidad al cual esté acogido el abonado.
+
+K1 = 25 para el tipo A.
+
+K2 = 18 para el tipo B.
+
+K3 = 16 para el tipo C.
+
+K4 = 21 para el tipo D.
+
+Pf = La menor de las potencias contratadas en períodos de punta y/o llano de temporada alta. Se considerarán como períodos de temporada alta, media y baja los definidos para la aplicación del complemento por estacionalidad.
+
+Pmaxi = Potencia residual máxima demandable por el abonado durante la posible interrupción en cada uno de los tipos a los que esté acogido.
+
+ƩK<sub>i</sub> (P<sub>f</sub> –P<sub>maxi</sub>) = suma de los productos K<sub>j</sub> (P<sub>f</sub> P<sub>maxi</sub>) para cada uno de los tipos de interrupción aceptados.
+
+Pj= Reducción de potencia computable por cada interrupción a efectos de cálculo del descuento. Será igual a la diferencia entre Pf y la potencia residual máxima demandable por el abonado, de acuerdo, con la orden de reducción de potencia. Si el abonado no cumpliera la interrupción de acuerdo con la orden de reducción de potencia y para las dos primeras interrupciones solicitadas durante la temporada eléctrica Pj será igual a 0.
+
+ƩP<sub>j </sub>= Suma de las reducciones de potencia computables.
+
+Todos los valores de potencia se expresarán en kW.
+
+b) CÁLCULO Rl
+
+Este término sólo se aplica si por parte del abonado se superase, en momento de interrupción, la potencia máxima demandable (P<sub>f</sub>–P<sub>j</sub>), solicitada por la empresa distribuidora, y tendrá un valor:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/12/01048_004.png)
+
+siendo N, el número de interrupciones en que se haya sobrepasado la potencia residual máxima solicitada por la empresa suministradora; Pd, la potencia máxima real demandada por el usuario en cada período de interrupción incumplida, y
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/12/01048_005.png)
+
+es el producto de los N cocientes (P<sub>d</sub> + 2)/(P<sub>f</sub> – P<sub>j</sub> + 2) correspondientes a las interrupciones solicitadas por la empresa suministradora y no cumplidas por el abonado.
+
+Las potencias se expresarán en MW.
+
+Si I resulta negativo, tendrá significado de recargo, con un límite del 5 por 100, y no será reintegrado en caso de rescisión del contrato.
+
+Sin perjuicio del recargo correspondiente, en su caso, el incumplimiento de tres o más interrupciones en un período anual significará la anulación del descuento I al abonado en dicho período.
+
+### Octavo. Equipos y sistemas de medida y control y su incidencia en la facturación.
+
+8.1. Condiciones generales.
+
+Todo suministrador de energía eléctrica, sin distinción, está obligado a utilizar, para sus suministros, contadores de energía eléctrica, cuyos modelos, tipos y sistemas hayan sido aprobados previamente, e interruptores de control de potencia que respondan a un modelo y tipo de los autorizados por la Dirección General de la Energía. Para la aprobación o autorización citadas, se estará a lo que establezca la normativa vigente.
+
+Es obligatoria, sin excepción alguna, la verificación y el precintado oficial de los contadores, transformadores de medida, limitadores o interruptores de control de potencia y similares que se hallen actualmente instalados o se instalen en lo sucesivo, cuando sirvan de base directa o indirectamente para regular la facturación total o parcial de la energía eléctrica.
+
+Los abonados y las empresas suministradoras tienen derecho a la verificación de los equipos de medida y control instalados para su suministro, cualquiera que sea su propietario, previa solicitud del Organismo competente.
+
+Los costes de dicha verificación, así como las liquidaciones a que hubiere lugar en virtud de la misma, se determinarán en la forma reglamentariamente establecida.
+
+En relación con los derechos y deberes de empresas suministradoras y abonados, respecto a la propiedad, instalación o alquiler de los equipos de medida y control, se estará a lo dispuesto en las condiciones de la póliza de abono.
+
+8.2. Control de la potencia.
+
+8.2.1. Sistemas de control.
+
+La empresa suministradora podrá controlar la potencia demandada por el abonado. Este control se podrá efectuar por medio de maxímetros, limitadores de corriente o interruptores de control de potencia u otros aparatos de corte automático, cuyas características deberán estar aprobadas por el Ministerio de Industria y Energía, quien fijará el alquiler que las empresas suministradoras puedan cobrar por los citados aparatos cuando proceda. La elección del equipo de control corresponde al abonado.
+
+No se podrán utilizar interruptores de control de potencia unipolares para suministros multipolares.
+
+Cuando la potencia que desee contratar el abonado sea superior a la que resulte de una intensidad de 63 amperios, teniendo en cuenta el factor de potencia correspondiente, la empresa suministradora podrá disponer que los interruptores sean de disparo de intensidad regulable si se ha optado por este sistema de control.
+
+8.2.2. Control por maxímetro.
+
+El abonado que tuviere instalado el equipo adecuado, cualquiera que sea la tensión o la potencia contratada, tendrá opción a que la determinación de la potencia que ha de servir de base para su facturación se realice por maxímetro. En todos los casos, los maxímetros tendrán un período de integración de quince minutos.
+
+La potencia máxima demandada en cualquier momento no podrá ser superior a la máxima admisible técnicamente en la instalación, tanto del abonado como de la empresa suministradora.
+
+En caso de desacuerdo sobre este particular, el límite admisible se fijará por el Organismo competente.
+
+El registro de una demanda de potencia superior a la solicitada en contrato, a efectos de acometida, autoriza a la empresa suministradora a facturar al abonado los derechos de acometida correspondientes a este exceso, cuyo valor quedará adscrito a la instalación.
+
+8.3. Medida a distintas tensiones.
+
+En el caso de que un abonado posea un equipo de medida común a todos sus usos para una cierta tensión y otros equipos de medida similares, aunque sean de menor precisión, en otra tensión más baja, para registrar todos y cada uno de los consumos a que sean aplicables distintas tarifas, podrá exigir que las sumas de las potencias y energías facturadas sean las registradas en el equipo común a la tensión más alta y que el escalón de tensión aplicado sea el correspondiente a la misma. La distribución de las lecturas totales entre las distintas tarifas se hará según las registradas por los equipos situados en las tensiones menores.
+
+En los suministros en alta tensión la medida se realizará, asimismo, en alta tensión, con las excepciones siguientes:
+
+A los abonados de cualquier tarifa de alta tensión que lo soliciten, y que dispongan de un transformador de potencia no superior a 50 kVA o de potencia superior a 50 kVA en instalación intemperie sobre poste, si la tensión máxima de servicio, en este caso, es inferior a 36 kV, se les realizará la medida en baja tensión y la facturación en alta tensión. En tales supuestos, la energía medida por el contador conectado en el lado de baja tensión del transformador se incrementará en 6 kWh mensuales por kVA de potencia del mismo y la energía medida se recargará además en un 4 por 100. Asimismo, si la potencia se determina en el lado de baja tensión del transformador, para su facturación por una tarifa de alta tensión, se incrementará en un 4 por 100.
+
+En los demás casos, en que excepcionalmente se mida a tensión inferior a la de suministro y facturación, se facturará con incrementos de potencia y energía adecuados a las pérdidas previsibles. En caso de discrepancia resolverá el Organismo competente.
+
+8.4. Condiciones particulares.
+
+8.4.1. Ayuntamientos.
+
+Las Empresas suministradoras de energía eléctrica facilitarán, en régimen de alquiler, a los Ayuntamientos que así lo requieran, los equipos de medida de energía reactiva y de energía activa, con cualquier tipo de discriminación horaria, que se precisen para los puntos de suministro de las instalaciones o edificios, cuyos gastos de mantenimiento figuren consignados expresamente en el presupuesto ordinario municipal, independientemente de la tarifa a la que esté contratado el suministro, y del uso al que se destine la energía. Por la manipulación de los equipos de medida, se cobrarán únicamente los derechos de enganche, de acuerdo con lo establecido en el vigente Reglamento sobre acometidas eléctricas.
+
+En alumbrado público, cuando se trate de puntos de conexión con potencias instaladas inferiores a 15 kW, se puede limitar el número de contadores con discriminación horaria, a uno por cada grupo de no más de 10 puntos de conexión, siempre y cuando estén accionados por un sistema de encendido y apagado, y tengan un programa de apagado intermedio similares, aunque no estén conectados entre sí.
+
+En el caso citado, el porcentaje de consumo que resulte de la lectura del contador instalado, para cada uno de los períodos horarios, se aplicará para la facturación del resto de los suministros del mismo grupo.
+
+8.4.2. Equipos de discriminación horaria.
+
+La instalación de contadores de tarifa múltiple es potestativa para los abonados que tengan contratada una potencia no superior a 50 kW y obligatoria para el resto.
+
+Se faculta a las empresas suministradoras para instalar contadores de tarifa múltiple a los abonados de más de 50 kW de potencia contratada que no lo tuvieran instalado por su cuenta, cargándoles los gastos de instalación y el alquiler correspondiente.
+
+El uso de un equipo de medida de discriminación horaria deberá ser autorizado por la Dirección General de la Energía previa aportación de los ensayos oportunos sobre seguridad eléctrica y garantía de medida.
+
+Los abonados con discriminación horaria tipo 0 deberán instalar por su cuenta el equipo adecuado para ello. La empresa suministradora queda obligada a alquilar dicho equipo si así lo solicitare el abonado.
+
+8.4.3. Equipos de energía reactiva.
+
+Para la determinación del factor de potencia, en su caso, los abonados instalarán por su cuenta el contador de energía reactiva adecuado.
+
+En el caso de que el abonado no lo hubiera instalado y tuviera obligación, la empresa suministradora tendrá la opción de colocar por su cuenta el correspondiente contador de energía reactiva, cobrando por dicho aparato el alquiler mensual legalmente autorizado. La empresa suministradora podrá cobrar los derechos de enganche establecidos reglamentariamente para estos casos.
+
+Las empresas eléctricas podrán instalar, a su cargo, contadores o maxímetros para la medida de energía reactiva capacitiva, cuyas medidas no se tendrán en cuenta para el cálculo de los recargos o descuentos, que se determinarán con base en los contadores de energía reactiva inductiva, sino sólo a los efectos de prevenir las posibles perturbaciones a que se ha hecho referencia en el punto 7.2.3.
+
+8.4.4. Equipos de interrumpibilidad.
+
+El equipo de medida y control de los abonados acogidos al sistema de interrumpibilidad constará como mínimo de un maxímetro registrador de período de integración de quince minutos para todas y cada una de las potencias máximas demandadas en los diferentes períodos horarios y estacionales, que entren en el cálculo de los descuentos por interrumpibilidad y de un elemento registrador de la recepción de la orden de corte.
+
+El equipo registrador de potencia será capaz de entregar, como mínimo, los siguientes datos en forma de impresiones en valores reales y sobre cinta contínua:
+
+– La potencia activa promediada en integraciones de quince minutos que sirve de base para la facturación.
+
+– La potencia activa contínua o promediada en integraciones de cinco minutos durante el período de reducción de potencia.
+
+Los equipos de integración de cinco minutos serán sincronizables con el comienzo del período de reducción de la potencia.
+
+– La fecha y hora (en horario oficial) correspondiente a cada una de las inscripciones citadas.
+
+Las características concretas de los equipos de interrumpibilidad serán las establecidas con carácter general en la Resolución de la Dirección General de la Energía de 15 de marzo de 1990, o disposición dictada por la misma que en su momento la sustituya.
+
+Si existiera avería del equipo, el abonado deberá comunicar a la Dirección General de la Energía, en el plazo de dos días, la existencia de la avería y en su caso el levantamiento del equipo, debiendo proceder a su reparación o sustitución por otro equipo en plazo máximo de 15 días. Transcurrido el plazo de reparación o sustitución del equipo, deberá comunicarlo en el plazo de dos días a la Dirección General de la Energía. La no reparación o sustitución del equipo o la falta de comunicación a la Dirección General de la Energía en los plazos citados podrá ser causa de suspensión total o parcial del descuento por interrumpibilidad de acuerdo con lo previsto en el punto 7.4.1.7.
+
+## TÍTULO II — Tarifa horaria de potencia
+
+### Primero. Estructura de la tarifa.
+
+La tarifa horaria de potencia está basada en siete períodos tarifarios en que se dividen las 8.760 horas anuales, y se compone de un término de facturación de potencia y un término de facturación de energía, y cuando proceda, por un término de facturación por energía reactiva y un término de descuento por interrumpibilidad.
+
+El término de facturación de potencia será la suma de los productos de la potencia contratada en cada período tarifario por su precio correspondiente, y el término de facturación de energía será la suma de los productos de la energía consumida en cada período tarifario durante el período de facturación considerado por su precio correspondiente.
+
+La suma de los cuatro términos mencionados, constituyen, a todos los efectos, el precio máximo de esta tarifa autorizado por el Ministerio de Industria y Energía.
+
+En las cantidades resultantes de la aplicación de esta tarifa no están incluidos los impuestos, recargos y gravámenes establecidos o que se establezcan sobre el consumo y suministro que sean de cuenta del consumidor, y estén las empresas suministradoras encargadas de la recaudación de los mismos, alquileres de equipos de medida o control, derechos de acometida, enganche y verificación, ni aquellos otros cuya repercusión sobre el usuario esté legalmente autorizada.
+
+### Segundo. Definición de la tarifa.
+
+Esta tarifa será única para cualquier tensión y utilización de la potencia contratada y se podrá aplicar a los suministros de energía eléctrica en alta tensión cuando la potencia contratada por el abonado en un único punto de toma, en alguno de los períodos tarifarios que se definen en el punto 3.2 del presente Título, sea igual o superior a 20 Mw y no inferior a 5 Mw en ninguno de los citados períodos tarifarios.
+
+Esta tarifa, no será de aplicación a la energía recibida por los productores de energía acogidos al régimen especial establecido en el Real Decreto 2366/94, de 9 de diciembre.
+
+Para su aplicación deberá contar con los siguientes requisitos:
+
+1.° Por su carácter experimental, requerirá autorización individual y expresa de la Dirección General de la Energía.
+
+2.° El contrato será anual, comprendiendo la temporada eléctrica desde el 1 de noviembre de cada año hasta el 1 de noviembre del año siguiente.
+
+3.° Que las potencias contratadas en los diferente períodos sean tales que la Pn + 1 sea siempre mayor o igual a Pn.
+
+4.° Tener instalados los equipos de medida y control necesarios para la correcta aplicación de la misma.
+
+5.º Disponer de las características técnicas de la acometida, de acuerdo con los parámetros de contrato solicitados para poder realizar el suministro, a cuyos efectos deberá contarse con el informe justificativo de la empresa suministradora.
+
+Los abonados que, reuniendo los requisitos impuestos para la misma, deseen acogerse, deberán solicitarlo a la Dirección General de la Energía con un período de antelación mínimo de cuarenta y cinco días antes de que comience la temporada alta eléctrica. (1 de noviembre de cada año).
+
+La Dirección General de la Energía podrá negar su aplicación, si estimara que no se deriva un beneficio para el sistema eléctrico nacional.
+
+En el caso de que un abonado, para un mismo suministro en un único lugar de trabajo, disponga de dos puntos de toma, la Dirección General de la Energía excepcionalmente y teniendo en cuenta el grado de cumplimiento de cada uno de los puntos de toma de los requisitos impuestos a esta tarifa, podrá autorizar la aplicación de la misma conjuntamente, siendo en ese caso las magnitudes a contemplar las registradas por aparato totalizador.
+
+### Tercero. Condiciones de aplicación de la tarifa.
+
+> Téngase en cuenta en cuanto a los días del tipo A lo establecido en el anexo I.2 del Real Decreto 1556/2005, de 23 de diciembre. [Ref. BOE-A-2005-21314](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21314).
+
+3.1. Tipos de días.
+
+Para la aplicación de esta tarifa, se divide el año eléctrico, 1 de noviembre a 31 de octubre del año siguiente, en los tipos de días siguientes:
+
+Tipo A: De lunes a viernes no festivos de temporada alta.
+
+Tipo B: De lunes a viernes no festivos de temporada media.
+
+Tipo C: De lunes a viernes no festivos de temporada baja, excepto agosto.
+
+Tipo D: Sábados, domingos, festivos y agosto.
+
+Las temporadas alta, media y baja, serán las definidas con carácter general en el Título I del presente Anexo.
+
+Se considerarán a estos efectos como días festivos los de ámbito nacional definidos como tales en el calendario oficial del año correspondiente, con inclusión de aquellos que puedan ser sustituidos a iniciativa de cada Comunidad Autónoma.
+
+3.2. Períodos tarifarios.
+
+Los precios tanto del término de potencia como del término de energía de la presente tarifa, se fijan para cada uno de los períodos tarifarios siguientes:
+
+Período 1: Comprende 13 horas diarias correspondientes a 23 días determinados por Red Eléctrica de España, S.A., en las condiciones fijadas en el punto 3.3 del presente título, de entre los definidos como del tipo A.
+
+Período 2: Comprende 6 horas diarias de los días tipo A, no incluídos en el período 1.
+
+Período 3: Comprende 10 horas diarias de los días tipo A incluídos en el periodo 2, y 3 horas diarias de los días tipo A incluídos en el período 1.
+
+Período 4: Comprende 6 horas diarias de los días tipo B.
+
+Período 5: Comprende 10 horas diarias de los días tipo B.
+
+Período 6: Comprende 16 horas diarias de los días tipo C.
+
+Período 7: Resto de horas no incluidas en los anteriores y que comprende las siguientes:
+
+– 8 horas de los días tipo A.
+
+– 8 horas de los días tipo B.
+
+– 8 horas de los días tipo C.
+
+– 24 horas de los días tipo D.
+
+Las horas de este período, a efectos de acometida serán las correspondientes a horas valle.
+
+3.3. Horarios a aplicar en cada período tarifado.
+
+Los horarios a aplicar en cada uno de los períodos tarifarios serán los siguientes:
+
+HORARIOS
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Tipo de día</p>
+</td>
+<td colspan="2">
+<p>Tipo A</p>
+</td>
+<td rowspan="3">
+<p>Tipo B</p>
+</td>
+<td rowspan="3">
+<p>Tipo C</p>
+</td>
+<td rowspan="3">
+<p>Tipo D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>23 días a fijar por Red Eléctrica de España, S.A.</p>
+</td>
+<td rowspan="2">
+<p>Resto días</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Período tarifario</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>13 h. entre las 8 y 24 h.</p>
+</td>
+<td>
+<p>......</p>
+</td>
+<td>
+<p>......</p>
+</td>
+<td>
+<p>......</p>
+</td>
+<td>
+<p>......</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>......</p>
+</td>
+<td>
+<p>De 16 a 22h</p>
+</td>
+<td>
+<p>......</p>
+</td>
+<td>
+<p>......</p>
+</td>
+<td>
+<p>......</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Resto</p>
+</td>
+<td>
+<p>De 8 a 16 h</p>
+<p>De 22 a 24</p>
+</td>
+<td>
+<p>......</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>......</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>......</p>
+</td>
+<td>
+<p>......</p>
+</td>
+<td>
+<p>De 9 a 15</p>
+</td>
+<td>
+<p>......</p>
+</td>
+<td>
+<p>......</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>......</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>De 8 a 9</p>
+<p>De 15 a 24</p>
+</td>
+<td>
+<p>......</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>......</p>
+</td>
+<td>
+<p>......</p>
+</td>
+<td>
+<p>......</p>
+</td>
+<td>
+<p>De 8 a 24</p>
+</td>
+<td>
+<p>......</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>De 0 a 8</p>
+</td>
+<td>
+<p>De 0 a 8</p>
+</td>
+<td>
+<p>De 0 a 8</p>
+</td>
+<td>
+<p>De 0 a 8</p>
+</td>
+<td>
+<p>De 0 a 24</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Los 25 días tipo A a fijar por Red Eléctrica de España, S.A. se comunicarán por esta empresa por un medio en el que quede constancia de la misma en las condiciones siguientes:
+
+1.° De los 23 días, 18 se comunicarán con una programación semanal y 5 con programación diaria.
+
+2.° Red Eléctrica de España, S.A., podrá realizar un máximo de 6 programaciones semanales para fijar los 18 días de este tipo de programación.
+
+3.° Tanto en la programación semanal como en la diaria, Red Eléctrica de España, S.A., comunicará a cada abonado las 13 horas concretas que, entre las 8 y 24 h., serán consideradas del período 1. Estas horas serán siempre continuas.
+
+4.° La programación semanal se podrá comunicar hasta las 18 horas del viernes anterior correspondiente a la semana programada.
+
+5.° La programación diaria se podrá comunicar hasta las 18 horas del día anterior correspondiente a la programación. Sólo podrán estar incluidos estos 5 días de martes a viernes.
+
+### Cuarto. Determinación de los componentes de la facturación.
+
+4.1. Término de facturación de potencia.
+
+4.1.1. Término básico de facturación de potencia.
+
+Para cada uno de los siete períodos tarifarios, definidos en el punto anterior se contratará una potencia, aplicable durante todo el año.
+
+El término de facturación de potencia será el sumatorio resultante de multiplicar la potencia contratada en cada período tarifarlo por su término de potencia, que se define más adelante, según la fórmula siguiente:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/12/01048_006.png)
+
+Donde:
+
+P<sub>ei</sub> = Potencia contratada en período tarifario i expresada en kW.
+
+t<sub>pi</sub> = Precio anual del término de potencia del período tarifario i.
+
+Se facturará mensualmente la doceava parte del resultado de aplicar la fórmula anterior.
+
+4.1.2. Facturación de los excesos de potencia.
+
+En el caso de que la potencia demandada sobrepase en cualquier período horario la potencia contratada en el mismo, se procederá a la facturación de todos y cada uno de los excesos registrados de acuerdo con la siguiente fórmula:
+
+> Téngase en cuenta que el valor "806" se establece en 4,8441€/kw según establece el anexo I.2 del Real Decreto 1556/2005, de 23 de diciembre. [Ref. BOE-A-2005-21314](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21314).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/12/01048_007.png)
+
+Donde:
+
+K<sub>i</sub>= Coeficiente que tomará los siguientes valores dependiendo del período tarifario i:
+
+| Período | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|---|---|---|---|---|---|---|---|
+| Ki | 1 | 0,73 | 0,56 | 0,40 | 0,30 | 0,19 | 0,08 |
+
+A<sub>ei</sub> = Se calculará de acuerdo con la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/12/01048_008.png)
+
+Donde:
+
+Pdj = Potencia demandada en cada uno de los cuartos de hora del período i, en que se hayan sobrepasado Pci.
+
+Pci = Potencia contratada en el período i en el período considerado.
+
+Estas potencias se expresarán en kW.
+
+Los excesos de potencia, se facturarán mensualmente.
+
+4.2. Término de facturación de energía.
+
+El término de facturación de energía será el sumatorio resultante de multiplicar la energía consumida en cada período tarifario por el precio término de energía correspondiente, que se fija en el punto 5 del presente título de acuerdo con la fórmula siguiente:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/12/01048_009.png)
+
+Donde:
+
+E<sub>i</sub> = Energía consumida en el período tarifario i expresada en kWh.
+
+t<sub>ci</sub>= Precio del término de energía del período tarifario i.
+
+Este término se facturará mensualmente, incluyendo la energía consumida en el mes correspondiente a cada período i.
+
+4.3. Término de facturación por energía reactiva.
+
+Este recargo se aplicará en los períodos tarifarios 1, 2, 3 y 4, cuando el consumo de energía reactiva durante el período de facturación considerado exceda el 40% de la energía activa consumida durante el mismo. Los excesos computados se facturarán a razón de 0,047606 €/kVArh.
+
+Este término se facturará mensualmente, incluyendo la energía reactiva consumida en exceso en el mes correspondiente en los períodos tarifarios en que es de aplicación, según lo indicado en el apartado anterior.
+
+Además, estos abonados estarán obligados a suscribir un acuerdo de gestión de los equipos de corrección de energía reactiva con su empresa suministradora si ésta así lo solicitara. Dichos acuerdos deberán tener la conformidad de la Dirección General de la Energía.
+
+4.4. Término de Descuento por interrumpibilidad.
+
+Los abonados acogidos a esta tarifa podrán aplicar el sistema de interrumpibilidad durante todo el año en las siguientes condiciones:
+
+1.º Deberán quedar acogidos a los cuatro tipos A, B, C y D definidos con carácter general, en todos y cada uno de los períodos tarifarios.
+
+2.º La potencia residual máxima demandable será única e igual en todos los períodos tarifarios y tipos.
+
+3.º El número de cortes anuales, preaviso y duración de los mismos, serán los definidos con carácter general, así como el sistema de comunicación, ejecución y control de la interrumpibilidad.
+
+El descuento anual por este concepto será el resultado del sumatorio de la potencia ofertada en cada período tarifario por el coeficiente de interrumpibilidad que se define más adelante, y por el término de potencia del período correspondiente, de acuerdo con la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/12/01048_010.png)
+
+Donde:
+
+DIi = Descuento por interrumpibilidad correspondiente al período tarifario i.
+
+Pci = Potencia contratada en el período i, expresada en kW.
+
+Pmaxi = Potencia residual máxima expresada en kW.
+
+tpi = Precio del término de potencia del período i.
+
+ci = Coeficiente de interrumpibilidad del período i.
+
+A los efectos de aplicación de la fórmula, si Pci - Pmaxi resultara negativo en alguno o algunos de los períodos tarifarios, se considerará su valor nulo.
+
+La facturación de este descuento será mensual, en doceavas partes. Los coeficientes de interrumpibilidad para cada período tarifario serán los siguientes:
+
+*Coeficientes de interrumpibilidad*
+
+| Período tarifario | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|---|---|---|---|---|---|---|---|
+| Coeficiente ci | 0,74 | 0,65 | 0,61 | 0,47 | 0,47 | 0,47 | 0,33 |
+
+Para aquellos clientes que en el período tarifario de punta móvil (período 1) oferten una potencia igual o superior a 60 MW, los coeficientes de interrumpibilidad ci serán igual a 0,74 en todos los períodos tarifarios.
+
+El incumplimiento de una o dos interrupciones, durante la vigencia del contrato, por parte del abonado implicará la reducción para todo el año de los descuentos Dli, correspondientes a cada uno de los períodos tarifarios en que, por su duración, esté incluída la interrupción incumplida, en los porcentajes que resulten de aplicar la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/12/01048_011.png)
+
+Donde:
+
+Rl<sub>i</sub> = Recargo en porcentaje a aplicar en el descuento por interrumpibilidad correspondiente Dli.
+
+Pdj = Potencia máxima real demandada por el usuario durante la interrupción j incumplida.
+
+Pci = Potencia contratada en el período i.
+
+Pmaxi = Potencia residual máxima demandable por el abonado.
+
+Rl<sub>i</sub> en cualquier caso tendrá un límite máximo del 100%.
+
+Las potencias se expresarán en kW.
+
+A estos efectos, se considerará incumplida una interrupción cuando se sobrepase la potencia residual máxima demandable por el abonado en cualquiera de los períodos tarifarios, en que P<sub>ci</sub> sea mayor que Pmaxi.
+
+El incumplimiento de tres o más interrupciones en el período anual de vigencia del contrato significará la anulación del des cuento DI al abonado en dicho período.
+
+### Quinto. Precios de los términos de potencia y energía.
+
+Los precios de los términos de potencia, t<sub>pi,</sub> en cada período horario para los abonados acogidos a esta tarifa, serán los siguientes afectados de coeficientes de recargo o descuento que se detallan más adelante:
+
+Precios
+
+<table>
+<tbody>
+<tr>
+<th colspan="2">
+<p>Períodos</p>
+</th>
+<th>
+<p>1</p>
+</th>
+<th>
+<p>2</p>
+</th>
+<th>
+<p>3</p>
+</th>
+<th>
+<p>4</p>
+</th>
+<th>
+<p>5</p>
+</th>
+<th>
+<p>6</p>
+</th>
+<th>
+<p>7</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>Tp</p>
+</td>
+<td>
+<p>Euros/kW y año</p>
+</td>
+<td>
+<p>33,323741</p>
+</td>
+<td>
+<p>22,211392</p>
+</td>
+<td>
+<p>19,039289</p>
+</td>
+<td>
+<p>13,326837</p>
+</td>
+<td>
+<p>13,326837</p>
+</td>
+<td>
+<p>13,326837</p>
+</td>
+<td>
+<p>10,247831</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Te</p>
+</td>
+<td>
+<p>Euros/kWh</p>
+</td>
+<td>
+<p>0,186536</p>
+</td>
+<td>
+<p>0,069295</p>
+</td>
+<td>
+<p>0,064772</p>
+</td>
+<td>
+<p>0,057922</p>
+</td>
+<td>
+<p>0,038039</p>
+</td>
+<td>
+<p>0,024739</p>
+</td>
+<td>
+<p>0,019485</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Los recargos o descuentos aplicables a los precios anteriores serán, en función de la tensión de suministro, los siguientes:
+
+| Tensión kV | Recargo<br>–<br>Porcentaje | Descuento<br>–<br>Porcentaje |
+|---|---|---|
+| T ≤ 36 | 3,09 |  |
+| 36 R T ≤ 72,5 | 1,00 |  |
+| 72,5 R T ≤ 145 | 0,00 | 0,00 |
+| T T 145 |  | 12,00 |
+
+Estos precios en euros se redondearán a seis decimales para los términos de potencia y energía.
+
+A los efectos de aplicación de esta tarifa los veintitrés días tipo A del período 1 a fijar por «Red Eléctrica de España, Sociedad Anónima», se podrán establecer en cada año eléctrico, no pudiendo en un mismo mes fijar más de doce días.
+
+### Sexto. Equipos de medida y control.
+
+Se faculta a la Dirección General de la Energía para establecer las especificaciones técnicas y funcionales de los equipos de medida y control de los abonados, necesarias para la aplicación de esta tarifa. Así como los requisitos y medios de comunicación automática a los abonados, por los que quede constancia de los días de punta móvil del período tarifario 1 a definir por Red Eléctrica de España, S.A.
+
+### Séptimo. Comunicaciones e información.
+
+Red Eléctrica de España, S.A. deberá dar traslado simultáneo de las comunicaciones de los días y horas tipo A que realice a los abonados acogidos a esta tarifa a la Dirección General de la Energía y a las empresas eléctricas.
+
+Asimismo, deberá informar a la Dirección General de la Energía sobre el funcionamiento y resultados de la aplicación de la punta móvil, anualmente o a solicitud de la misma.
+
+### Octavo. Temporada 94/95.
+
+Los abonados que cumpliendo los requisitos de esta tarifa, deseen acogerse a la misma a la entrada en vigor de la Orden, podrán solicitarlo a la Dirección General de la Energía quien en su caso fijará las condiciones de facturación para la temporada 94/95 y les será de aplicación desde el 1 de febrero de 1995 hasta el 31 de octubre de 1996.
+
+## TÍTULO III — Producción en régimen especial
+
+### Primero. Definición de la producción en régimen especial.
+
+Se denomina producción en régimen especial a la regulada en el Real Decreto 2366/1994, de 9 de diciembre, sobre producción de energía eléctrica por instalaciones hidráulicas, de cogeneración y otras abastecidas por recursos o fuentes de energía renovables.
+
+### Segundo. Precio de la energía entregada.
+
+2.1. El precio básico de la energía excedentaria de aquellas instalaciones de potencia superior a 25 MVA y que no entren en planificación, de acuerdo con lo establecido en el artículo 12.2 del Real Decreto citado en el punto primero del presente Título, será de 3,96 pts./kWh, que coincide con el coste evitado variable equivalente al coste medio variable que ha servido de base en el expediente de modificación de tarifas.
+
+A este precio le serán de aplicación los complementos de discriminación horaria y energía reactiva establecidos en el artículo 16 del citado Real Decreto.
+
+2.2. Los precios de los términos de potencia y energía para las instalaciones de potencia inferior o igual a 25 MVA, o las de cualquier potencia que estén incluidas en la planificación, serán los que se recogen en el cuadro siguiente:
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Tipo de instalación</p>
+</td>
+<td>
+<p>Potencia instalada MVA</p>
+</td>
+<td>
+<p>Tp</p>
+<p>pts./Kw y mes</p>
+</td>
+<td>
+<p>Te</p>
+<p>Pts./Kwh</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo a</p>
+</td>
+<td>
+<p>P ≤ 100</p>
+</td>
+<td>
+<p>349</p>
+</td>
+<td>
+<p>11,64</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo b</p>
+</td>
+<td>
+<p>P ≤ 100</p>
+</td>
+<td>
+<p>697</p>
+</td>
+<td>
+<p>10,26</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Grupos: c, d y e</p>
+</td>
+<td>
+<p>P ≤ 15</p>
+</td>
+<td>
+<p>1.786</p>
+</td>
+<td>
+<p>8,08</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15 &lt; P ≤ 30</p>
+</td>
+<td>
+<p>1.730</p>
+</td>
+<td>
+<p>7,79</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30 &lt; P ≤ 100</p>
+</td>
+<td>
+<p>1.678</p>
+</td>
+<td>
+<p>7,56</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo f</p>
+</td>
+<td>
+<p>P ≤ 10</p>
+</td>
+<td>
+<p>349</p>
+</td>
+<td>
+<p>11,64</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+2.3. A los efectos del cálculo del complemento por discriminación horaria el coeficiente Tej será el término de energía de la tarifa que, para cada tipo de instalación, se recoge en el cuadro siguiente:
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Tipo de instalación</p>
+</td>
+<td>
+<p>Potencia instalada</p>
+<p>MVA</p>
+</td>
+<td>
+<p>Tarifa</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo a</p>
+</td>
+<td>
+<p>P ≤ 100</p>
+</td>
+<td>
+<p>2,2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo b</p>
+</td>
+<td>
+<p>P ≤ 100</p>
+</td>
+<td>
+<p>2,2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Grupos: c, d y e</p>
+</td>
+<td>
+<p>P ≤ 15</p>
+</td>
+<td>
+<p>2,2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15 &lt; P ≤ 30</p>
+</td>
+<td>
+<p>2,3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30 &lt; P ≤ 100</p>
+</td>
+<td>
+<p>2,4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo f</p>
+</td>
+<td>
+<p>P ≤ 10</p>
+</td>
+<td>
+<p>2,2</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+2.4. A los efectos del cálculo del complemento por energía reactiva y para las instalaciones a que hace referencia el punto 2.2 anterior, se considera como facturación básica la que resulte de aplicación de la fórmula:
+
+F<sub>b</sub>= PF x T<sub>p</sub>+ E <sub>c</sub>x T<sub>e</sub>
+
+en la que:
+
+F<sub>b</sub> = Facturación básica
+
+PF = Potencia a facturar
+
+T<sub>p</sub> = Término de potencia
+
+E<sub>c</sub> = Energía cedida
+
+T<sub>e</sub> = Término de energía
+
+### Tercero. Estacionalidad e interrumpibilidad.
+
+3.1. Los abonados que posean la condición de autogenerador y estén acogidos a los sistemas de estacionalidad o interrumpibilidad con las particularidades definidas en el Título III del Anexo I de la Orden de Ministerio de Industria y Energía de 1 de enero de 1994 por la que se establecen tarifas eléctricas, que tengan que modificar o suspender las características del contrato de estacionalidad o interrumpibilidad antes de su finalización, corno consecuencia de la entrada en vigor del Real Decreto 2366/94, de 9 de diciembre, deberán solicitar a la Dirección General de la Energía el procedimiento de cierre de la facturación.
+
+### Cuarto. Determinación de la potencia a facturar
+
+4.1. El productor que pretenda acogerse al Real Decreto citado en el punto anterior fijará la potencia garantizada y el coeficiente de disponibilidad garantizado para el período de tiempo que comprende desde la inclusión de su instalación en el mismo hasta el 31 de octubre. A partir de esta fecha el período comprenderá el año eléctrico.
+
+4.2. A los efectos de la determinación del cumplimiento de la garantía de potencia, la integración a que hace referencia el artículo 17 del Real Decreto, comprenderá el período de tiempo definido en el apartado anterior, y el término H serán las horas que correspondan según dicho criterio.
+
+4.3. No obstante lo establecido en el apartado anterior, para los productores ya existentes a la entrada en vigor del referido Real Decreto y a los efectos de la determinación del cumplimiento de la garantía de potencia, la integración a que hace referencia el artículo 17 del citado Real Decreto, incluirá el período de tiempo comprendido entre el 1 de mayo de 1995 y el 31 de octubre de 1995, si bien la potencia se facturará desde la entrada en vigor de dicho Real Decreto.
+
+Si el 1 de mayo de 1995 el productor no tuviera instalados los equipos de medida capaces de determinar los incumplimientos de la potencia garantizada, el período de integración comenzará cuando los tenga desde dicha fecha, debiendo en estos casos descontar de su factura las potencias facturadas con anterioridad.
+
+## TÍTULO IV — Inspecciones de la facturación
+
+### Primero. Plan de actuaciones.
+
+De acuerdo con lo establecido en el artículo tercero del Real Decreto 2550/94, de 29 de diciembre por el que se faculta al Ministerio de Industria y Energía para inspeccionar las condiciones de la facturación a aquellos suministros a los que se apliquen complementos tarifarios, para el ejercicio 1995 se establece el siguiente plan de inspecciones:
+
+– Inspección de la facturación de todos los suministros acogidos al sistema de interrumpibilidad.
+
+– Inspección de la facturación de todos los suministros acogidos a la tarifa horaria de potencia.
+
+– Inspección de la facturación de una muestra significativa de suministros, en alta tensión de abonados acogidos:
+
+– Al tipo 3 de discriminación horaria
+
+– Al tipo 4 "">– Al tipo 4 " "
+
+– Al tipo 5 "">– Al tipo 5 " "
+
+### Segundo. Plazo de inspecciones.
+
+Las inspecciones de los suministros citados en el punto anterior deberán estar realizados antes del 31 de diciembre de 1996 o, en su caso, cuando se aprueben las compensaciones definitivas de mercado a efectos de la retribución de las empresas eléctricas.
+
+Dichas inspecciones incluirán además de las facturaciones correspondientes a los consumos del año 1995, las de los meses de noviembre y diciembre de 1994.
+
+### Tercero. Organismo Inspector.
+
+Las inspecciones de las facturaciones que se detallan en el presente Título, se efectuarán por OFICO si el Ministerio de Industria y Energía no designa a otro Organismo para realizarlas.
+
+El Organismo inspector propondrá a la Dirección General de la Energía la muestra de suministros a inspeccionar a que hace referencia el punto primero del presente Título, en el plazo de dos meses a partir de la entrada en vigor de la presente Orden y la Dirección General de la Energía con las modificaciones que en su caso estimara oportunas, aprobará la muestra a inspeccionar.
+
+Tanto las empresas suministradoras como los abonados deberán facilitar las inspecciones y comprobaciones que el Ministerio de Industria y Energía realice directamente o a través del Organismo que haya designado. Este último, pondrá en conocimiento de la Dirección General de la Energía cualquier anomalía que detecte en el resultado de las inspecciones y comprobaciones realizadas, como máximo a los quince días de haber efectuado la inspección y además, anualmente informará sobre la gestión y resultado de las inspecciones realizadas.
+
+## TÍTULO V
+
+**(Derogado)**
+
+> Se derogan los párrafos 11, 12 y 13 del apartado 7.1.1, del título I, del anexo I, por la disposición derogatoria única.2 de la Orden ITC/2794/2007, de 27 de septiembre. [Ref. BOE-A-2007-17078](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17078).
+
+> Se modifican los apartados 3.1.4 del título I, 4.3 del título II, y con efectos desde el 1 de noviembre de 2007, los apartados 7.4.4 del título I y 4.4 del título II, por las disposiciones adicionales 4, 5 y el anexo 1.2 del Real Decreto 871/2007, de 29 de junio. [Ref. BOE-A-2007-12759](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12759).
+
+> Se modifican los títulos I y II por el Real Decreto 1556/2005, de 23 de diciembre. [Ref. BOE-A-2005-21314](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21314).
+
+> Se modifican los apartados 3.1.3 y 3.1.4 del título I por el art. 8 y el anexo I del Real Decreto 1454/2005, de 2 de diciembre. [Ref. BOE-A-2005-21100](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21100).
+
+> Se modifica el apartado 5 del título II por el anexo I.2 del Real Decreto 2066/1999, de 30 de diciembre. [Ref. BOE-A-1999-24925](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24925).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 22, de 26 de enero de 2000. [Ref. BOE-A-2000-1550](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1550).
+
+> Téngase en cuenta que se derogan el descuento por interrumpibilidad y la tarifa horaria regulados en los apartados 7.4 y 8.4.4 del título primero y en el título II, salvo lo establecido por la disposición transitoria única.2 y 3, por la disposición derogatoria única del mismo.
+
+> Se deroga el título V por la disposición derogatoria única del Real Decreto 2016/1997, de 26 de diciembre. [Ref. BOE-A-1997-27815](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-27815).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 65, de 17 de marzo de 1998. [Ref. BOE-A-1998-6340](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-6340).
+
+> Se deroga el punto 1 del capítulo V, en cuanto a las empresas distribuidoras no sujetas al Real Decreto 1538/1987, de 11 de diciembre. [Ref. BOE-A-1987-27929](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-27929). por la disposición derogatoria única de la Orden de 27 de diciembre de 1996. [Ref. BOE-A-1996-29021](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-29021).
+
+## ANEXO II — Relación de tarifas básicas con los precios de sus términos de potencia y energía
+
+| TARIFAS Y ESCALONES DE TENSIÓN | TÉRMINO DE POTENCIA Tp: Pts./kW y mes | TÉRMINO DE ENERGÍA Te: Pts./kWh |
+|---|---|---|
+| BAJA TENSIÓN |  |  |
+| 1.0 Potencia hasta 770 W (1) | 50 | 11,17 |
+| 2.0 General, potencia no superior a 15 kW (2) | 282 | 16,02 |
+| 3.0 General (3) | 267 | 15,59 |
+| 4.0 General de larga utilización (3) | 424 | 14,23 |
+| B.0 Alumbrado público (4) | 0 | 13,01 |
+| R.0 de riegos agrícolas (3) | 59 | 13,82 |
+| ALTA TENSIÓN (3) |  |  |
+| Tarifas generales: |  |  |
+| Corta utilización: |  |  |
+| 1.1. General no superior a 36 kV | 357 | 12,00 |
+| 1.2. General mayor de 36 kV y no superior a 72,5 kV | 338 | 11,26 |
+| 1.3 General mayor de 72,5 kV y no superior a 145 kV | 328 | 10,93 |
+| 1.4. Mayor de 145 kV | 318 | 10,55 |
+| Media utilización: |  |  |
+| 2.1. No superior a 36 kV | 716 | 10,61 |
+| 2.2. Mayor de 36 kV y no superior a 72,5 kV | 675 | 9,93 |
+| 2.3. Mayor de 72,5 kV y no superior a 145 kV | 653 | 9,63 |
+| 2.4. Mayor de 145 kV | 636 | 9,34 |
+| Larga utilización: |  |  |
+| 3.1. No superior a 36 kV | 1.847 | 8,32 |
+| 3.2. Mayor de 36 kV y no superior a 72,5 kV | 1.728 | 7,82 |
+| 3.3. Mayor de 72,5 kV y no superior a 145 kV | 1.674 | 7,54 |
+| 3.4 Mayor de 145 kV | 1.624 | 7,32 |
+| Tarifas T. de Tracción: |  |  |
+| T.1. No superiora 36 kV | 106 | 11,86 |
+| T.2. Mayor de 36 y no superiora 72,5 kV | 97 | 11,15 |
+| T.3. Mayor de 72,5 kV | 95 | 10,81 |
+| Tarifas R. de Riesgos agrícolas: |  |  |
+| R.1. No superior a 36 kV | 86 | 11,87 |
+| R.2. Mayor de 36 kV y no superiora 72,5 kV | 83 | 11,17 |
+| R.3. Mayor de 72,5 kV | 78 | 10,79 |
+| Tarifa G. 4 de grandes consumidores (5) | 1.653 | 1,82 |
+| Tarifa venta a distribuidores (D) |  |  |
+| D.1. No superior a 36 kV | 399 | 8,43 |
+| D.2. Mayor de 36 kV y no superior a 72,5 kV | 377 | 8,05 |
+| D.3. Mayor de 72,5 kV y no superior a 145 kV | 367 | 7,77 |
+| D.4. Mayor de 145 kV | 356 | 7,56 |
+
+(1) No son aplicables complementos por energía reactiva ni discriminación horaria.
+
+(2) No es aplicable complemento por energía reactiva de forma general. Es aplicable el complemento de discriminación horaria denominado nocturno.
+
+(3) Son aplicables complementos de energía reactiva y de discriminación horaria.
+
+(4) Es aplicable complemento de energía reactiva pero no complemento de discriminación horaria.
+
+(5) La energía que excede de los límites establecidos para cada suministro llevará un recargo de 0,95 ptas./kWh.
+
+## ANEXO III — Precio de los alquileres de los equipos de medida
+
+|  | pts./mes |
+|---|---|
+| a) Contadores simple tarifa: |  |
+| Energía activa |  |
+| Monofásicos: |  |
+| Tarifa 1.0 | 98 |
+| Resto | 113 |
+| Trifásicos o doble monofásicos | 320 |
+| Energía reactiva |  |
+| Monofásicos | 151 |
+| Trifásicos o doble monofásicos | 357 |
+| b) Contadores discriminación horaria: |  |
+| Monofásicos (doble tarifa) | 233 |
+| Trifásicos o doble monofásicos (doble tarifa) | 466 |
+| Trifásicos o doble monofásicos (triple tarifa) | 585 |
+| Contactor | 32 |
+| Servicio de reloj conmutador | 192 |
+| d) Interruptor de control de potencia (por polo) .. | 6 |
+
+Para el resto de aparatos y equipos auxiliares de medida y control el canon de alquiler se determinará aplicando una tasa del 1,25 por 100 mensual al precio medio de los mismos.
+
+## ANEXO IV — Cantidades a satisfacer por derechos de acometida, enganche y verificación
+
+Sus valores quedan fijados en las cuantías siguientes:
+
+a) Derechos de acometida en suministros para baja tensión (artículos 8.° y 9.°):
+
+|  | Ptas./kW |
+|---|---|
+| Baremo total | 5.914 |
+| Baremo correspondiente a la realización única de la instalación de extensión | 2.770 |
+| Baremo correspondiente al abonado o usuario final, en su caso, igual a la diferencia entre baremo total y baremo de extensión | 3.144 |
+
+|  | Ptas./kW |
+|---|---|
+| Desde salida de C.T. red de B.T | 12.708 |
+| Desde red M.T. hasta 30 kV | 9.808 |
+| Desde barras de subestación A.T. o M.T | 6.660 |
+| Desde red A.T | 4.981 |
+
+<table>
+<tr>
+<td colspan="4">
+<p>BAREMOS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tensión</p>
+</td>
+<td>
+<p>Responsabilidad</p>
+</td>
+<td>
+<p>Extensión</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>≤ 36 kV</p>
+</td>
+<td>
+<p>2.720</p>
+</td>
+<td>
+<p>2.506</p>
+</td>
+<td>
+<p>5.226</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 36 kV y ≤ 72,5 kV</p>
+</td>
+<td>
+<p>2.346</p>
+</td>
+<td>
+<p>2.450</p>
+</td>
+<td>
+<p>4.796</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt;72,5 kV</p>
+</td>
+<td>
+<p>1.704</p>
+</td>
+<td>
+<p>2.610</p>
+</td>
+<td>
+<p>4.314</p>
+</td>
+</tr>
+</table>
+
+d) Derechos de enganche (artículo 20):
+
+1\. Baja Tensión.
+
+1.1. hasta 10 kW: 1.441 pesetas total.
+
+1.2. Por cada kW más: 33 pesetas.
+
+2\. Alta Tensión.
+
+2.1 Hasta 36 kV inclusive:
+
+– Derechos de enganche, 12.680 + (P-50) x 19 Ptas/abonado.
+
+– Con un mínimo de 12.680 pesetas.
+
+– Con un máximo de 40.445 pesetas.
+
+2.2 Más de 36 kV a 72,5 kV: 42.575 ptas/abonado
+
+2.3 Más de 72,5 kV: 59.736 ptas/abonado.
+
+e) Derechos de verificación (artículo 21):
+
+1\. Suministro en baja tensión: 1.278 ptas/abonado.
+
+2\. Suministro en alta tensión:
+
+2.1 Hasta 36 kV, inclusive: 8.742 ptas/abonado.
+
+2.2 Más de 36 kV a 72,5 kV, inclusive: 13.588 ptas/abonado.
+
+2.3 Más de 72,5 kV: 20.093 ptas/abonado.
+
+> **Información relacionada**
+
+> Las referencias a los días festivos de ámbito nacional, quedan sustituidas por días festivos de ámbito nacional excluidos tanto los festivos sustituibles como los que no tienen fecha fija, según se establece en la disposición final 2 de la Orden ITC/2794/2007, de 27 de septiembre. [Ref. BOE-A-2007-17078](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17078).

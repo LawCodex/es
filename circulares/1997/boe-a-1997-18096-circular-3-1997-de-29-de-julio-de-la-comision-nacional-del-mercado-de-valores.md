@@ -1,0 +1,803 @@
+---
+title: "Circular 3/1997, de 29 de julio, de la Comisión Nacional del Mercado de Valores, sobre obligaciones de información a socios y partícipes de Instituciones de Inversión Colectiva de carácter financiero y determinados desarrollos de la Orden de 10 de junio de 1997 sobre operaciones de estas instituciones en instrumentos derivados"
+identifier: "BOE-A-1997-18096"
+eli: "https://www.boe.es/eli/es/cir/1997/07/29/3"
+type: circular
+rank: "Circular"
+jurisdiction: es
+language: es
+department: "Comisión Nacional del Mercado de Valores"
+date: 1997-07-29
+published: 1997-08-09
+in_force_from: 1997-08-10
+last_amended: 2011-01-11
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 190"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-18096"
+retrieved: 2026-10-11
+---
+
+# Circular 3/1997, de 29 de julio, de la Comisión Nacional del Mercado de Valores, sobre obligaciones de información a socios y partícipes de Instituciones de Inversión Colectiva de carácter financiero y determinados desarrollos de la Orden de 10 de junio de 1997 sobre operaciones de estas instituciones en instrumentos derivados
+
+La publicación de la Orden de 10 de junio de 1997 sobre operaciones de las Instituciones de Inversión Colectiva (IIC) de carácter financiero en instrumentos financieros derivados (en adelante «la Orden ministerial») amplía el régimen de actuación de las IIC en lo referente a la utilización de estos productos. La posibilidad de usar instrumentos derivados no negociados en mercados organizados y el riesgo que comportan estos instrumentos hace imprescindible la revisión del régimen de transparencia informativa a los accionistas y partícipes de IIC, así como las obligaciones de control interno de sus sociedades gestoras (SGIIC) y las sociedades de inversión mobiliaria que no hayan encomendado la gestión de sus carteras a otra entidad.
+
+En la sección 1.<sup>a</sup> de la presente Circular se revisa el régimen de transparencia informativa a socios y partícipes de IIC, incluyendo la información relativa a la operativa en derivadas, así como el régimen de información a los partícipes o accionistas en España de las IIC extranjeras que se comercializan en España de acuerdo con las disposiciones adicionales primera y segunda del Real Decreto 1393/1990, de 2 de noviembre, con objeto de garantizar un nivel de transparencia equivalente entre los partícipes o accionistas de éstas y de las IIC domiciliadas en España.
+
+En la sección 2.<sup>a</sup> se precisan los requisitos de control interno que deben acreditar las SGIIC o, en su caso, las sociedades de inversión mobiliaria, que pretendan operar en instrumentos derivados, a las que se exige contar con medios organizativos, materiales y humanos suficientes para ejercer dicha actividad.
+
+En la sección 3.<sup>a</sup> se precisan los requisitos a que se ve condicionada la posibilidad de exceder los límites generales de riesgo de mercado y los límites por riesgo de contraparte, establecidos, respectivamente, en los artículos 2 y 3 de la Orden ministerial, por parte de aquellas IIC que lleven a cabo una gestión encaminada a la consecución de un objetivo concreto de rentabilidad garantizado por un tercero.
+
+Finalmente se amplía el uso de determinados instrumentos estructurados, no negociados en mercados organizados de derivados, con finalidades distintas de la estricta cobertura de riesgos o la consecución de objetivos concretos de rentabilidad.
+
+En su virtud, haciendo uso de las habilitaciones contenidas en las Órdenes ministeriales de 10 de junio de 1997, de 30 de julio de 1992 y de 20 de diciembre de 1990, previo informe del Comité Consultivo de la Comisión Nacional del Mercado de Valores, el Consejo de la Comisión Nacional del Mercado de Valores (en adelante CNMV), en su reunión de 29 de julio de 1997, ha dispuesto:
+
+### Sección 1.<sup>a</sup> Información a socios y partícipes
+
+#### Norma 1<sup>ª</sup> Sobre los Reglamentos de gestión y Estatutos sociales.
+
+De acuerdo con lo establecido en el artículo 1.1 de la Orden ministerial, las IIC podrán operar con instrumentos financieros derivados, conforme a los objetivos de gestión previstos en el folleto informativo y en el Reglamento o Estatutos sociales. Las IIC que, al momento de su creación, prevean la utilización de derivados con la finalidad de cobertura de riesgos, así como con la de inversión, deberán hacer mención expresa de tal previsión en sus Reglamentos y Estatutos sociales, indicando que lo harán dentro de los límites que establezca la normativa legal vigente en cada momento y según los criterios establecidos en el folleto informativo.
+
+Aquellas IIC cuya operativa se restrinja exclusivamente, bien por las normas que regulan sus inversiones o de forma voluntaria, a operaciones de cobertura, mencionarán únicamente la posibilidad de realizar operaciones con instrumentos financieros derivados con la finalidad de la estricta cobertura de riesgos, dentro de los límites que establezca la normativa legal vigente en cada momento y según los criterios establecidos en el folleto informativo.
+
+#### Norma 2<sup>ª</sup> Sobre los folletos informativos.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Circular 1/2001, de 18 de abril. [Ref. BOE-A-2001-8869](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-8869).
+
+#### Norma 3ª Sobre el estado de posición.
+
+**(Derogada)**
+
+> Se deroga por la norma derogatoria, apartado 4, de la Circular 4/2008, de 11 de septiembre. [Ref. BOE-A-2008-16091](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-16091).
+
+#### Norma 4ª Sobre el informe trimestral a socios y partícipes.
+
+**(Derogada)**
+
+> Se deroga por la norma derogatoria, apartado 4, de la Circular 4/2008, de 11 de septiembre. [Ref. BOE-A-2008-16091](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-16091).
+
+#### Norma 5<sup>ª </sup>Información a partícipes o accionistas de Instituciones de Inversión Colectiva extranjeras comercializadas en España.
+
+Se modifica el apartado 2 de la norma 1.<sup>a</sup> de la Circular 2/1993, de 3 de marzo, de la CNMV, sobre información de las IIC extranjeras que hayan registrado en la CNMV el folleto de oferta de sus participaciones o acciones, que quedará redactado como sigue:
+
+«2. La sociedad gestora o las entidades comercializadoras en España de IIC extranjeras deberán entregar a cada partícipe o accionista, con anterioridad a la suscripción de participaciones o acciones, un ejemplar de la memoria sobre las modalidades previstas de comercialización en territorio español registrada en la CNMV, acompañada de un ejemplar traducido al castellano por un intérprete jurado, del folleto, del Reglamento o Estatutos, del último informe anual y del último informe de contenido económico publicado. Esta entrega será obligatoria y no renunciable por el partícipe o accionista.
+
+La sociedad gestora o las entidades comercializadoras en España remitirán con carácter gratuito a los partícipes o accionistas, al domicilio por éstos indicado, la documentación señalada en los puntos c) y d) del apartado 1 anterior, dentro del plazo de un mes, salvo que éstos hubieran renunciado a su derecho al envío en documento escrito separado y debidamente firmado tras la recepción de la primera remisión periódica. No obstante, la entidad comercializadora estará obligada a enviar dichos documentos al partícipe o accionista cuando éste, a pesar de haber renunciado, así lo solicite. La renuncia será revocable.
+
+Los informes a que se refieren los apartados c) y d) del punto 1 anterior no podrán dar un nivel de información inferior al mínimo exigido a las IIC españolas en sus informes trimestrales ni podrán tener una periodicidad superior al semestre.
+
+Asimismo deberán enviar gratuitamente a los partícipes o accionistas que hayan adquirido sus participaciones o acciones en España, toda la información prevista por la legislación del Estado en el que tengan su sede, en los términos y plazos establecidos en el artículo 10.2 del Reglamento de IIC.»
+
+### Sección 2.<sup>a</sup> Obligaciones de control interno
+
+#### Norma 6<sup>ª</sup>
+
+**(Derogada)**
+
+> Se deroga por la norma derogatoria, apartado 1, de la Circular 6/2009, de 9 de diciembre. [Ref. BOE-A-2009-20499](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20499).
+
+### Sección 3.<sup>a</sup> Otros desarrollos de la Orden ministerial de 10 de junio de 1997
+
+> Se deroga por la disposición derogatoria, apartado 2, de la Circular 6/2010, de 21 de diciembre. [Ref. BOE-A-2011-551](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-551).
+
+#### Norma 7<sup>ª </sup> Superación de los límites generales de riesgo de mercado y de contraparte.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria, apartado 2, de la Circular 6/2010, de 21 de diciembre. [Ref. BOE-A-2011-551](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-551).
+
+#### Norma 8ª Denominación de las IIC.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria, apartado 2, de la Circular 6/2010, de 21 de diciembre. [Ref. BOE-A-2011-551](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-551).
+
+#### Norma 9ª Instrumentos que pueden utilizar las IIC.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria, apartado 2, de la Circular 6/2010, de 21 de diciembre. [Ref. BOE-A-2011-551](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-551).
+
+#### Norma transitoria.
+
+1\. Las IIC ya autorizadas que a la entrada en vigor de esta Circular utilicen o pretendan utilizar instrumentos financieros derivados para la gestión de sus carteras se adaptarán a lo dispuesto en esta Circular de la forma siguiente:
+
+a) Si sus Reglamentos o Estatutos sociales prevén tal posibilidad de forma expresa o genérica, aun cuando no lo hicieran en los términos de la norma 1.ª, sólo precisarán su modificación en el caso mencionado en el párrafo segundo de la letra d) de este número.
+
+b) Si, por el contrario, sus Reglamentos o Estatutos sociales no dan cabida, ni siquiera de forma genérica, a la posibilidad de operar con instrumentos financieros derivados, deberán adaptarlos a lo dispuesto en esta Circular antes del 31 de marzo de 1998, salvo en el caso previsto en el párrafo segundo de la letra d) de este número.
+
+Los FIAMM que tuvieran previsto en sus Reglamentos la posibilidad de operar con instrumentos financieros derivados como inversión, dispondrán del mismo plazo para su modificación.
+
+c) Cuando únicamente se propongan realizar operaciones con instrumentos financieros derivados negociados en mercados organizados de derivados, ya sea como cobertura o como inversión, dispondrán, asimismo, hasta el 31 de marzo de 1998 para adecuar sus folletos informativos a lo dispuesto en la norma 2.ª de esta Circular.
+
+d) **(Derogada)**
+
+2\. Las SGIIC que realicen o pretendan realizar operaciones con instrumentos financieros derivados para las IIC gestionadas por ellas deberán aportar a la CNMV la memoria descriptiva de su capacidad para cumplir los requisitos de la Orden ministerial a que se refiere la norma 6.ª 3 de esta Circular antes del 31 de marzo de 1998.
+
+No obstante, si pretendieran realizar operaciones para las IIC gestionadas por ellas con instrumentos financieros derivados no negociados en mercados organizados deberán presentar la memoria descriptiva a que se refiere el párrafo anterior con carácter previo al inicio de tal actividad.
+
+Las mismas obligaciones y plazos serán de aplicación para las sociedades de inversión mobiliaria que no hubieran encomendado la gestión de sus activos a una entidad que cumpla con los requisitos de control interno a que se refiere esta Circular.
+
+3\. La primera publicación del informe trimestral con la estructura y contenido previstos en los anexos 1 y 2 de esta Circular será la correspondiente a 31 de diciembre de 1997, con las salvedades siguientes:
+
+a) El plazo anterior podrá ser ampliado por un período adicional máximo de seis meses previa solicitud de las SGIIC a la CNMV en la que se especificará las IIC para las que se solicita y las razones que lo justifican. La misma posibilidad será de aplicación, cuando corresponda, a las sociedades de inversión mobiliaria.
+
+b) Las IIC que realicen operaciones con instrumentos financieros derivados no negociados en mercados organizados de derivados deberán elaborar el informe trimestral siguiente al de la fecha de inicio de dicha actividad conforme a los requisitos de esta Circular.
+
+El plazo previsto en este punto no será de aplicación a lo previsto en la norma 4.ª 2 de esta Circular.
+
+4\. Mientras que no se modifiquen los actuales modelos de información reservada que las IIC deben remitir periódicamente a la CNMV continuarán siendo de aplicación las actualmente vigentes, si bien su cumplimentación se adecuará a los requerimientos técnicos que para su envío en soporte informático establezca la CNMV.
+
+> Se deroga la letra d) del apartado 1 por la disposición derogatoria de la Circular 1/2001, de 18 de abril. [Ref. BOE-A-2001-8869](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-8869).
+
+#### Norma final. Entrada en vigor.
+
+La presente Circular entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 29 de julio de 1997.-El Presidente, Juan Fernández-Armesto Fernández España.
+
+## ANEXO 1 — Índice del informe trimestral de los fondos de inversión
+
+1\. Los informes trimestrales constarán de los siguientes apartados:
+
+1) Identificación del fondo.
+
+2) Datos económicos:
+
+2.1 Datos generales.
+
+2.2 Comportamiento del fondo.
+
+2.3 Distribución del patrimonio.
+
+2.4 Composición de la cartera a valor efectivo.
+
+2.5 Posiciones abiertas en instrumentos derivados.
+
+2.6 Política de gestión del riesgo.
+
+2.7 Estado de variación patrimonial.
+
+2.8 Riesgo de contraparte.
+
+2.9 Riesgo de mercado.
+
+Los apartados 2.8 y 2.9 sólo se han de cumplimentar para aquellos fondos que, conforme a lo establecido en su Reglamento de gestión y en su folleto, hayan operado con derivados con una finalidad distinta de la estricta cobertura de los riesgos asumidos en toda o parte de su cartera.
+
+3) Informe de gestión.
+
+4) Hechos relevantes.
+
+2\. La presentación de la información contenida en este informe estará ajustada a lo que la CNMV establezca, en cada momento, sobre estados financieros reservados. De esta manera se garantizará que las prácticas en la información pública reflejan las innovaciones que puedan aparecer en el futuro, entre otras, sobre gestión del riesgo.
+
+1\. Identificación del fondo
+
+Denominación.
+
+Tipo de fondo (1).
+
+Vocación del fondo y objetivo de gestión (2).
+
+Finalidad de la operativa en instrumentos derivados (3).
+
+Fecha de constitución.
+
+Personas que asumen la responsabilidad del informe.
+
+Sociedad gestora:
+
+Denominación.
+
+Domicilio.
+
+Grupo financiero.
+
+Depositario:
+
+Denominación.
+
+Domicilio.
+
+Grupo financiero.
+
+Auditor.
+
+Fondo de Acumulación o de Reparto.
+
+Inversión mínima inicial.
+
+2\. Datos económicos
+
+2.1 Datos generales (al cierre del trimestre).
+
+| Datos generales | Trimestre actual | Trimestre anterior |
+|---|---|---|
+| Patrimonio (millones de pesetas) |  |  |
+| Número de participaciones |  |  |
+| Valor liquidativo de la participación en pesetas |  |  |
+| Valor liquidativo de la participación en divisa (4) |  |  |
+| Beneficios brutos distribuidos en el trimestre por participación (5) |  |  |
+
+| Comisiones aplicadas (6) | Tramo/plazos (en su caso) | Porcentaje | Base de cálculo |
+|---|---|---|---|
+| Comisión anual de gestión |  |  |  |
+| Comisión anual de depositario |  |  |  |
+| Comisión de suscripción |  |  |  |
+| Comisión de reembolso |  |  |  |
+
+2.2 Comportamiento del fondo.
+
+| Período | Volatilidad histórica (7) | Rentabilidad neta<br>–<br>Porcentaje | Total gastos (**)<br>–<br>Porcentaje | Patrim. (***)<br>–<br>Millones de pesetas | Número (***) de partícipes |
+|---|---|---|---|---|---|
+| Trimestre 0 |  |  |  |  |  |
+| Trimestre 1 |  |  |  |  |  |
+| Trimestre 2 |  |  |  |  |  |
+| Trimestre 3 |  |  |  |  |  |
+| Acumulado año 0 (*) |  |  |  |  |  |
+| Año 1 |  |  |  |  |  |
+| Año 2 |  |  |  |  |  |
+| Año 3 |  |  |  |  |  |
+| Año 4 |  |  |  |  |  |
+| Año 5 |  |  |  |  |  |
+
+(*) En su caso, importes acumulados desde el inicio del ejercicio hasta la fecha de elaboración del informe.
+
+(**) Incluye: Gastos por comisión de gestión, comisión de depositario y gastos por servicios exteriores y resto de gastos de gestión corriente en términos de porcentaje sobre patrimonio medio diario del período.
+
+(***) Patrimonio y número de partícipes al final de cada período.
+
+2.3 Distribución del patrimonio (al cierre del trimestre, en millones de pesetas).
+
+| Distribución del patrimonio | Trimestre anterior | Trimestre actual | Porcentaje sobre patrimonio |
+|---|---|---|---|
+| (+) Cartera a valor efectivo (9): |  |  |  |
+| Total cartera al coste |  |  |  |
+| Total intereses |  |  |  |
+| Plusvalías (minusvalías latentes |  |  |  |
+| (+) Liquidez (Tesorería) |  |  |  |
+| (+) Deudores |  |  |  |
+| (–) Acreedores |  |  |  |
+| (–) Efecto impositivo sobre plusvalías |  |  |  |
+| (–) Lucro cesante |  |  |  |
+| Total patrimonio |  |  | 100,00 |
+
+2.4 Composición de la cartera a valor efectivo (al cierre del trimestre, en millones de pesetas).
+
+| Descripción valor y emisor | Trimestre actual | Porcentaje sobre total cartera | Trimestre anterior | Porcentaje |
+|---|---|---|---|---|
+| Valor 1 |  |  |  |  |
+| Valor 2 |  |  |  |  |
+|  |  |  |  |  |
+| Total activos monetarios |  |  |  |  |
+| Valor 1 |  |  |  |  |
+| Valor 2 |  |  |  |  |
+|  |  |  |  |  |
+| Total otros activos de RF |  |  |  |  |
+| Valor 1 |  |  |  |  |
+| Valor 2 |  |  |  |  |
+|  |  |  |  |  |
+| Total adquisición temporal |  |  |  |  |
+| Total renta fija |  |  |  |  |
+| Valor 1 |  |  |  |  |
+| Valor 2 |  |  |  |  |
+|  |  |  |  |  |
+| Total renta variable |  |  |  |  |
+| Valor 1 |  |  |  |  |
+| Valor 2 |  |  |  |  |
+|  |  |  |  |  |
+| Total cartera interior |  |  |  |  |
+| Valor 1 |  |  |  |  |
+| Total renta fija |  |  |  |  |
+| Valor 1 |  |  |  |  |
+|  |  |  |  |  |
+| Total renta variable |  |  |  |  |
+| Total cartera exterior |  |  |  |  |
+| Total cartera |  | 100,00 |  | 100,00 |
+
+2.5 Posiciones abiertas en instrumentos derivados (al cierre del trimestre, en millones de pesetas).
+
+| Contratos | Número de contratos | Fecha de vencimiento | Mercado | Valor de mercado | Importe nominal comprometido | Subyacente |
+|---|---|---|---|---|---|---|
+| Contrato 1 |  |  |  |  |  |  |
+| Contrato 2 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total compras de opciones y «warrants call» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total compras de opciones y «warrants put» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total compras de «caps» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total compras de «floors» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total otros derechos |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total derechos |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+| Contrato 2 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total compras a plazo y de futuros |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total ventas a plazo y de futuros |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total ventas de opciones y «warrants call» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total ventas de opciones y «warrants put» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total ventas de «caps» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total ventas de «floors» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total permutas financieras |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total otros compromisos |  |  |  |  |  |  |
+| Total compromisos |  |  |  |  |  |  |
+| Total derechos y compromisos |  |  |  |  |  |  |
+
+2.6 Política de gestión del riesgo.
+
+En las operaciones de cobertura se informará del resultado conjunto con la operación patrimonial cubierta, desglosándose el resultado específico de la operación patrimonial y el instrumento derivado utilizado para su cobertura.
+
+2.7 Estado de variación patrimonial (en millones de pesetas).
+
+| Trimestre actual | Acumulado actual |
+|---|---|
+| Patrimonio fin período anterior: |  |
+| ± Suscripciones/reembolsos (neto) |  |
+| – Beneficios brutos distribuidos (5) |  |
+| ± Rendimientos netos: |  |
+| (+) Rendimientos: |  |
+| + Intereses y dividendos |  |
+| ± Variaciones de precios (realizadas o no) |  |
+| ± Resultado en derivados |  |
+| ± Otros rendimientos |  |
+| (–) Gastos de gestión corriente y servicios exteriores: |  |
+| – Comisión de gestión |  |
+| – Comisión de depositario |  |
+| – Gastos por servicios exteriores y resto de gastos de gestión corriente |  |
+| Patrimonio fin período actual |  |
+
+2.8 Riesgo de contraparte.
+
+| Contraparte | Calificación crediticia (10) | Entidad calificadora (10) | Riesgo de contraparte |
+|---|---|---|---|
+| Entidad 1 |  |  |  |
+| Entidad 2 |  |  |  |
+|  |  |  |  |
+
+2.9 Riesgo de mercado.
+
+Dada la diversidad de formas y la rápida evolución de las técnicas de medición del riesgo de mercado, no parece conveniente proponer un esquema uniforme conforme al que informar sobre este riesgo. En todo caso, se incluirá información cuantitativa sobre sensibilidad y exposición a los movimientos del mercado, y análisis de las pruebas de tensión efectuadas y demás información que pueda contribuir a evaluar el riesgo de mercado.
+
+3\. *Informe de gestión*
+
+Habrá de contener una exposición fiel sobre la evolución del fondo de inversión incluyendo:
+
+a) Visión de la gestora sobre la situación de los mercados durante el trimestre o semestre, según corresponda.
+
+b) Explicación de la política de inversiones efectivamente seguida durante el período, y su reflejo en los resultados obtenidos (11), haciendo referencia a la información contenida en el punto 2.7.
+
+c) Explicación razonada de los criterios utilizados en la valoración de la renta fija.
+
+d) Remuneración obtenida por la liquidez mantenida por el fondo.
+
+e) Explicación razonada sobre la superación de los límites de inversión establecidos en el Reglamento de IIC.
+
+f) En el supuesto de fondos que operan en instrumentos derivados, se incluirá información sobre las operaciones efectuadas en el período. En particular, se detallará:
+
+1) Descripción de la actividad en derivados, incluyendo la finalidad, los niveles de riesgo tolerables, los tipos de instrumentos y los mercados en los que se ha operado.
+
+2) Explicación de los resultados obtenidos en estas operaciones y su incidencia en el resultado global de la institución, en su caso, haciendo referencia a la información incluida en el punto 2.7.
+
+3) Objetivos de las posiciones abiertas en instrumentos derivados, el contexto necesario para comprender dichos objetivos y las estrategias seguidas para conseguirlos, haciendo referencia a la información tabular incluida en el punto 2.5.
+
+4) En caso de fondos que sólo utilicen derivados como cobertura, calificación crediticia de las contrapartidas de las operaciones no realizadas en mercados organizados de derivados, haciendo referencia a la información tabular incluida en el punto 2.5, identificación de las entidades calificadoras y significado de las calificaciones.
+
+5) Política de gestión del riesgo, incluyendo una descripción de los elementos cuyos riesgos están siendo cubiertos y las clases de derivados utilizados para cubrir dichos riesgos, haciendo referencia a la información incluida en el punto 2.6.
+
+6) Criterios y métodos de valoración aplicados para cada instrumento. Cuando no exista un mercado suficientemente líquido, se precisará el método de valoración acordado entre la sociedad gestora y el depositario. Se precisará el intervalo máximo en que han oscilado las cotizaciones diarias de compra y venta ofrecidas por la contraparte de la institución en instrumentos no negociados en mercados organizados de derivados o el intermediario financiero que haya asumido este compromiso.
+
+7) Cualquier otra información relevante que pueda contribuir a una mejor comprensión de las operaciones realizadas por la institución en instrumentos derivados.
+
+g) En el caso de fondos que, conforme a lo previsto en su reglamento y folleto, hayan operado con instrumentos derivados como inversión, adicionalmente a lo señalado en el punto anterior, se incluirá una descripción de los principales riesgos asociados con estas actividades y los niveles de riesgo tolerables. En particular, se detallará:
+
+1) Descripción del riesgo de contraparte basado en el valor de realización de los instrumentos, incluyendo información sobre los acuerdos de compensación y colaterales, haciendo referencia y explicando la información incluida en el punto 2.8.
+
+2) Descripción del riesgo de mercado de las posiciones abiertas, haciendo referencia y explicando la información cuantitativa incluida en el punto 2.9.
+
+4\. *Hechos relevantes*
+
+a) Existencia de partícipes cuyo volumen de inversión en el fondo represente un porcentaje igual o superior al 20 por 100 del patrimonio total en el caso de los FIM o del 40 por 100 en el caso de los FIAMM. En su caso, indicación del volumen de inversión de cada uno y porcentaje sobre el patrimonio del fondo. No será necesaria la identificación de estos partícipes, salvo que se trate de entidades pertenecientes al mismo grupo que la sociedad gestora o el depositario.
+
+b) Tipo de relación entre gestora y depositario.
+
+c) Operaciones de adquisición y venta de valores en los que el depositario haya sido vendedor o comprador, respectivamente.
+
+d) Cualquier otro hecho relevante de los contemplados en el artículo 10.4, 35.3 y 57.4 del Reglamento de IIC.
+
+e) En el supuesto de fondos que invierten en otras IIC extranjeras, se informará sobre las comisiones y gastos soportados por la IIC española que invierte en otras IIC.
+
+f) Descripción detallada de las operaciones no negociadas en mercados organizados derivados realizadas con entidades del grupo, incluyendo la información necesaria para verificar que se han realizado a precios de mercado.
+
+g) Cualquier acontecimiento importante ocurrido desde el último informe trimestral, y que afecte a la marcha del fondo de inversión.
+
+Notas aclaratorias:
+
+(1) FIM, FIAMM, FONDTESORO FIM, FONDTESORO FIAMM, FONDVALENCIA FIM, FONDVALENCIA FIAMM.
+
+(2) Precisar la vocación inversora y objetivos de gestión previstos en el folleto.
+
+(3) Se indicará si la IIC realiza operaciones en instrumentos derivados con la finalidad de cobertura de riesgos o inversión para gestionar de un modo más eficaz la cartera, o en el marco de una gestión encaminada a la consecución de un objetivo de rentabilidad que, en su caso, deberá estar concretamente descrito en el folleto.
+
+(4) Se informará sólo en el caso de fondos que también calculen el valor liquidativo en una divisa distinta de la peseta y acepten suscripciones y reembolsos en dicha divisa.
+
+(5) Se informará sólo en el caso de fondos de reparto.
+
+(6) Se informará sobre las comisiones efectivamente aplicadas en el trimestre. En el caso de la comisión de gestión y depositario, en tanto por ciento anual. Se indicará sobre qué magnitud o magnitudes se calculan y porcentaje, en su caso anual, que se aplica a cada una así como la existencia de tramos, plazos u otros criterios que determinen su aplicación.
+
+(7) Sobre la volatilidad histórica se informará la desviación típica (D) de la rentabilidad mensual del fondo calculada para un período de doce meses. Se incluirá el literal "Baja" si D =< 0,1; se incluirá el literal "Media", si 0,1 < D=< 1; "Alta", si 1 < D=< 2,4; y "Muy alta", si D > 2,4. Para aquellos fondos cuya existencia a la fecha de elaboración del informe sea inferior a doce meses, se informará la expresión "no disponible".
+
+(8) La rentabilidad neta se define como la variación porcentual entre la suma del valor liquidativo a la fecha de referencia y los beneficios brutos distribuidos desde el inicio del período de que se trate y el valor liquidativo del día anterior al inicio de dicho período. Por ejemplo, para el cálculo de la rentabilidad neta del trimestre, los valores liquidativos a comparar, calculados de acuerdo con lo establecido en la circular 8/90, de 27 de diciembre de 1990, serán el del día último del trimestre objeto del informe y el del día último del trimestre anterior, sumando a aquél los beneficios distribuidos durante el trimestre. Esta información no se presentará de forma anualizada.
+
+(9) Incluye total cartera a valor efectivo (del cuadro 2.4) más total derechos a valor de mercado (del cuadro 2.5).
+
+(10) Se hará mención expresa a los datos identificativos de las entidades calificadoras así como el significado de las calificaciones crediticias por ellas otorgadas.
+
+(11) Se definirá la política de inversión seguida durante el período debiendo pronunciarse, entre otros, sobre los siguientes puntos:
+
+a) Inversiones en renta fija privada, renta variable, fondos públicos, activos del mercado monetario, etc.
+
+b) Plazo y duración de las inversiones.
+
+c) Estrategia sectorial (especificar los sectores).
+
+d) Estrategia geográfica (especificar los países).
+
+e) Estrategia económica (especificar las divisas).
+
+f) Otros.
+
+> Se modifica la nota aclaratoria 7 por la disposición adicional 5 de la Circular 3/1998, de 22 de septiembre. [Ref. BOE-A-1998-22883](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-22883).
+
+## ANEXO 2 — Índice del informe trimestral de las sociedades de inversión
+
+1\. Los informes trimestrales constarán de los siguientes apartados:
+
+1) Identificación de la sociedad.
+
+2) Datos económicos:
+
+2.1 Datos generales.
+
+2.2 Comportamiento de la sociedad.
+
+2.3 Distribución del patrimonio.
+
+2.4 Composición de la cartera a valor efectivo.
+
+2.5 Posiciones abiertas en instrumentos derivados.
+
+2.6 Política de gestión del riesgo.
+
+2.7 Estado de variación patrimonial.
+
+2.8 Riesgo de contraparte.
+
+2.9 Riesgo de mercado.
+
+Los apartados 2.8 y 2.9 sólo se han de cumplimentar para aquellas sociedades que, conforme a lo establecido en sus estatutos sociales y en su folleto, hayan operado con derivados con una finalidad distinta de la estricta cobertura de los riesgos asumidos en toda o parte de su cartera.
+
+3) Informe de gestión.
+
+4) Hechos relevantes.
+
+2\. La presentación de la información contenida en este informe estará ajustada a lo que la CNMV establezca, en cada momento, sobre estados financieros reservados. De esta manera se garantizará que las prácticas en la información pública reflejan innovaciones que puedan aparecer en el futuro, entre otras, sobre gestión del riesgo.
+
+1\. Identificación de la sociedad
+
+Denominación.
+
+Tipo de sociedad (1).
+
+Domicilio social.
+
+Valoración de la sociedad y objetivo de gestión (2).
+
+Finalidad de la operativa en instrumentos derivados (3).
+
+Fecha de constitución.
+
+Bolsas de valores donde cotiza.
+
+Personas que asumen la responsabilidad del informe.
+
+Sociedad gestora (en su caso): Denominación, domicilio, grupo financiero.
+
+Depósito (en su caso): Denominación, domicilio, grupo financiero.
+
+Auditor.
+
+2\. Datos económicos
+
+2.1 Datos generales (al cierre del trimestre).
+
+| Datos generales | Trimestre actual | Trimestre anterior |
+|---|---|---|
+| Patrimonio (4) (en millones de pesetas) |  |  |
+| Número de acciones en circulación |  |  |
+| Valor teórico de la acción en pesetas (4) |  |  |
+| Valor teórico de la acción en divisa (5) |  |  |
+| Cotización media del trimestre |  |  |
+| Dividendos brutos distribuidos en el período |  |  |
+| Beneficio neto por acción (6) |  |  |
+| Rentabilidad neta (7) |  |  |
+
+2.2 Comportamiento de la sociedad.
+
+| Período | Volatilidad histórica (7) | Rentabilidad neta<br>–<br>Porcentale | Total gastos (**)<br>–<br>Porcentaje | Patrim. (***)<br>–<br>Millones de pesetas | Número (***) de partícipes |
+|---|---|---|---|---|---|
+| Trimestre 0 |  |  |  |  |  |
+| Trimestre 1 |  |  |  |  |  |
+| Trimestre 2 |  |  |  |  |  |
+| Trimestre 3 |  |  |  |  |  |
+| Acumulado año 0 (*) |  |  |  |  |  |
+| Año 1 |  |  |  |  |  |
+| Año 2 |  |  |  |  |  |
+| Año 3 |  |  |  |  |  |
+| Año 4 |  |  |  |  |  |
+| Año 5 |  |  |  |  |  |
+
+(*) En su caso, importes acumulados desde el inicio del ejercicio hasta la fecha de elaboración del informe.
+
+(**) Valor teórico, valor de cotización, patrimonio y número de accionistas al final de cada partido.
+
+2.3 Distribución del patrimonio (al cierre del trimestre, en millones de pesetas).
+
+| Distribución del patrimonio | Trimestre anterior | Trimestre actual | Porcentaje sobre patrimonio |
+|---|---|---|---|
+| (+) Cartera a valor efectivo (10): |  |  |  |
+| Total cartera al coste |  |  |  |
+| Total intereses |  |  |  |
+| Plusvalías (minusvalías latentes |  |  |  |
+| (+) Liquidez (Tesorería) |  |  |  |
+| (+) Deudores |  |  |  |
+| (-) Acreedores |  |  |  |
+| (-) Efecto impositivo sobre plusvalías |  |  |  |
+| (-) Lucro cesante |  |  |  |
+| Total patrimonio |  |  | 100,00 |
+
+2.4 Composición de la cartera a valor efectivo (al cierre del trimestre, en millones de pesetas).
+
+| Descripción valor y emisor | Trimestre actual | Porcentaje sobre total cartera | Trimestre anterior | Porcentaje |
+|---|---|---|---|---|
+| Valor 1 |  |  |  |  |
+| Valor 2 |  |  |  |  |
+|  |  |  |  |  |
+| Total activos monetarios |  |  |  |  |
+| Valor 1 |  |  |  |  |
+| Valor 2 |  |  |  |  |
+|  |  |  |  |  |
+| Total otros activos de RF |  |  |  |  |
+| Valor 1 |  |  |  |  |
+| Valor 2 |  |  |  |  |
+|  |  |  |  |  |
+| Total adquisición temporal |  |  |  |  |
+| Total renta fija |  |  |  |  |
+| Valor 1 |  |  |  |  |
+| Valor 2 |  |  |  |  |
+|  |  |  |  |  |
+| Total renta variable |  |  |  |  |
+| Valor 1 |  |  |  |  |
+| Valor 2 |  |  |  |  |
+|  |  |  |  |  |
+| Total cartera interior |  |  |  |  |
+| Valor 1 |  |  |  |  |
+| Total renta fija |  |  |  |  |
+| Valor 1 |  |  |  |  |
+|  |  |  |  |  |
+| Total renta variable |  |  |  |  |
+| Total cartera exterior |  |  |  |  |
+| Total cartera |  | 100,00 |  | 100,00 |
+
+2.5 Posiciones abiertas en instrumentos derivados (al cierre del trimestre, en millones de pesetas).
+
+| Contratos | Número de contratos | Fecha de vencimiento | Mercado | Valor de mercado | Importe nominal comprometido | Subyacente |
+|---|---|---|---|---|---|---|
+| Contrato 1 |  |  |  |  |  |  |
+| Contrato 2 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total compras de opciones y «warrants call» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total compras de opciones y «warrants put» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total compras de «caps» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total compras de «floors» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total otros derechos |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total derechos |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+| Contrato 2 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total compras a plazo y de futuros |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total ventas a plazo y de futuros |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total ventas de opciones y «warrants call» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total ventas de opciones y «warrants put» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total ventas de «caps» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total ventas de «floors» |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total permutas financieras |  |  |  |  |  |  |
+| Contrato 1 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Total otros compromisos |  |  |  |  |  |  |
+| Total compromisos |  |  |  |  |  |  |
+| Total derechos y compromisos |  |  |  |  |  |  |
+
+2.6 Política de gestión del riesgo.
+
+En las operaciones de cobertura se informará del resultado conjunto con la operación patrimonial cubierta, desglosándose el resultado específico de la operación patrimonial y el instrumento derivado utilizado para su cobertura.
+
+2.7 Estado de variación patrimonial (en millones de pesetas).
+
+|  | Trimestre actual | Acumulado actual |
+|---|---|---|
+| Patrimonio fin período anterior: |  |  |
+| ± Ampliaciones/reducciones de capital (11) neto |  |  |
+| – Beneficios brutos distribuidos |  |  |
+| ± Rendimientos netos: |  |  |
+| (+) Rendimientos: |  |  |
+| + Intereses y dividendos |  |  |
+| ± Variaciones de precios (realizadas o no) |  |  |
+| ± Resultado en derivados |  |  |
+| ± Otros rendimientos |  |  |
+| (–) Gastos de gestión corriente y servicios exteriores: |  |  |
+| – Comisión de gestión |  |  |
+| – Comisión de depositario |  |  |
+| – Gastos por servicios exteriores y resto de gastos de gestión corriente |  |  |
+| Patrimonio fin período actual |  |  |
+
+2.8 Riesgo de contraparte.
+
+| Contraparte | Calificación crediticia (12) | Entidad calificadora (13) | Riesgo de contraparte |
+|---|---|---|---|
+| Entidad 1 |  |  |  |
+| Entidad 2 |  |  |  |
+|  |  |  |  |
+
+2.9 Riesgo de mercado.
+
+Dada la diversidad de formas y la rápida evolución de las técnicas de medición del riesgo de mercado, no parece conveniente proponer un esquema uniforme conforme al que informar sobre este riesgo. En todo caso, se incluirá información cuantitativa sobre sensibilidad y exposición a los movimientos del mercado, y análisis de las pruebas de tensión efectuadas y demás información que pueda contribuir a evaluar el riesgo de mercado.
+
+3\. *Informe de gestión*
+
+Habrá de contener una exposición fiel sobre la evolución de la sociedad de inversión incluyendo:
+
+a) Visión de los gestores sobre la situación de los mercados durante el trimestre o semestre, según corresponda.
+
+b) Explicación de la política de inversiones efectivamente seguida durante el período, y su reflejo en los resultados obtenidos (13), haciendo referencia a la información contenida en el punto 2.7.
+
+c) Explicación razonada de los criterios utilizados en la valoración de la renta fija.
+
+d) Fuentes de financiación ajenas utilizadas durante el período.
+
+e) Remuneración obtenida por la liquidez mantenida por la sociedad.
+
+f) Explicación razonada sobre la superación de los límites de inversión establecidos en el Reglamento de IIC.
+
+g) En el supuesto de sociedades que operan en instrumentos derivados, se incluirá información sobre las operaciones efectuadas en el período. En particular, se detallará:
+
+1\. Descripción de la actividad en derivados, incluyendo la finalidad, los niveles de riesgo tolerables, los tipos de instrumentos y los mercados en los que se ha operado.
+
+2\. Explicación de los resultados acumulados en estas operaciones y su incidencia en el resultado global de la institución, en su caso, haciendo referencia a la información incluida en el punto 2.7.
+
+3\. Objetivos de las posiciones abiertas en instrumentos derivados, el contexto necesario para comprender dichos objetivos y las estrategias seguidas para conseguirlos, haciendo referencia a la información tabular incluida en el punto 2.5.
+
+4\. En caso de sociedades que sólo utilicen derivados como cobertura, calificación crediticia de las contrapartidas de las operaciones no realizadas en mercados organizados de derivados, haciendo referencia a la información tabular incluida en el punto 2.5. Identificación de las entidades calificadoras y significado de las calificaciones.
+
+5\. Política de gestión del riesgo, incluyendo una descripción de los elementos cuyos riesgos están siendo cubiertos y las clases de derivados utilizados para cubrir dichos riesgos, haciendo referencia a la información incluida en el punto 2.6.
+
+6\. Criterios y métodos de valoración aplicados para cada instrumento. Cuando no exista un mercado suficientemente líquido, se precisará el método de valoración acordado entre la sociedad gestora, o la sociedad de inversión, y el depositario. Se precisará el intervalo máximo en que hayan oscilado las cotizaciones diarias de compra y venta ofrecidas por la contraparte de la institución en instrumentos financieros derivados no negociados en mercados organizados de derivados o el intermediario financiero que haya asumido este compromiso.
+
+7\. Cualquier otra información relevante que pueda contribuir a una mejor comprensión de las operaciones realizadas por la institución en instrumentos derivados.
+
+h) En el caso de sociedades que, conforme a lo previsto en sus estatutos y folleto, hayan operado con instrumentos derivados como inversión, adicionalmente a lo señalado en el punto anterior, se incluirá una descripción de los principales riesgos asociados con estas actividades y los niveles de riesgo tolerables. En particular, se detallará:
+
+1\. Descripción del riesgo de contraparte basado en el valor de realización de los instrumentos, incluyendo información sobre los acuerdos de compensación y colaterales, haciendo referencia y explicando la información incluida en el punto 2.8.
+
+2\. Descripción del riesgo de mercado de las posiciones abiertas, haciendo referencia y explicando la información cuantitativa incluida en el punto 2.9.
+
+4\. *Hechos relevantes*
+
+a) Existencia de accionistas con participación significativa en el capital de la sociedad. En su caso, indicación de número de acciones cada uno y porcentaje sobre el capital social. No será necesaria la identificación de estos accionistas, salvo que se trate de entidades pertenecientes al mismo grupo que la sociedad o el depositario (en caso de SIMCAV).
+
+b) Tipo de contrato establecido con la entidad gestora (gestión global, gestión del total del activo, gestión de parte del activo).
+
+c) Tipo de relación existente entre entidad gestora y depositario.
+
+d) Operaciones de adquisición y venta de valores en los que, bien la entidad gestora, bien el depositario, haya sido vendedor o comprador, respectivamente.
+
+e) Remuneraciones percibidas por los Consejeros durante el ejercicio actual.
+
+f) Descripción detallada de las operaciones no negociadas en mercados organizados derivados realizadas con entidades del grupo, incluyendo la información necesaria para verificar que se han realizado a precios de mercado.
+
+g) Cualquier otro hecho relevante de los contemplados en el artículo 10.4 del Reglamento de IIC.
+
+h) En el supuesto de sociedades que invierten en otras IIC extranjeras, se informará sobre las comisiones y gastos soportados por la IIC española que invierte en otras IIC.
+
+i) Cualquier acontecimiento importante ocurrido desde el último informe trimestral, y que afecte a la marcha de la sociedad de inversión.
+
+Notas aclaratorias:
+
+(1) SIM/SIMCAV.
+
+(2) Precisar la vocación inversora y objetivos de gestión previstos en el folleto.
+
+(3) Se indicará si la IIC tiene previsto realizar operaciones en instrumentos derivados con la finalidad de cobertura de riesgos o inversión para gestionar de un modo más eficaz la cartera, o en el marco de una gestión encaminada a la consecución de un objetivo de rentabilidad que, en su caso, deberá estar concretamente descrito en el folleto.
+
+(4) Definido conforme a lo previsto en la Circular 8/90 de la CNMV, modificada por la Circular 4/93.
+
+(5) Se informará sólo en el caso de sociedades que también calculen el valor teórico en una divisa distinta de la peseta.
+
+(6) Para las SIM, se informará el beneficio neto por acción definido como el cociente entre el saldo de la cuenta Resultados del ejercicio, después de impuestos, y el número de acciones.
+
+(7) Para las SIMCAV, la rentabilidad neta se define como la variación porcentual entre la suma del valor teórico a la fecha de referencia y los beneficios brutos distribuidos desde el inicio del período de que se trate y el valor teórico del día anterior al inicio de dicho período. Por ejemplo, para el cálculo de la rentabilidad neta del trimestre, los valores teóricos a comparar, calculados de acuerdo con lo establecido en la Circular 8/90, de 27 de diciembre de 1990, serán el del día último del trimestre objeto del informe y el día último del trimestre anterior, sumando a aquél los beneficios distribuidos durante el trimestre. Esta información no se presentará de forma anualizada.
+
+(8) En pesetas efectivas, media diaria.
+
+(9) Número de días sobre días hábiles del período, expresado en porcentaje.
+
+(10) Incluye total cartera a valor efectivo (del cuadro 2.4) más total derechos a valor de mercado (del cuadro 2.5).
+
+(11) Incluye compraventas de acciones propias.
+
+(12) Se hará mención expresa a los datos identificativos de las entidades calificadoras así como el significado de las calificaciones crediticias por ellas otorgadas.
+
+(13) Se definirá la política de inversión seguida durante el período debiendo pronunciarse sobre las inversiones realizadas, entre otros, conforme los siguientes puntos:
+
+a) Inversiones en renta fija privada, renta variable, fondos públicos, activos del mercado monetario, etc.
+
+b) Plazo y duración de las inversiones.
+
+c) Estrategia sectorial (especificar los sectores).
+
+d) Estrategia geográfica (especificar los países).
+
+e) Estrategia económica (especificar las divisas).
+
+f) Otros.
+
+## ANEXO 3 — Esquema de la memoria sobre cumplimiento de los requisitos de control interno de sociedades gestoras de IIC y de sociedades e inversión mobiliaria que pretendan operar con instrumentos financieros derivados
+
+**(Derogado)**
+
+> Se deroga por la norma derogatoria, apartado 1, de la Circular 6/2009, de 9 de diciembre. [Ref. BOE-A-2009-20499](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20499).

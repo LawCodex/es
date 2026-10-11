@@ -1,0 +1,135 @@
+---
+title: "Real Decreto 755/1987, de 19 de junio, por el que se establecen normas para garantizar la prestación de servicios mínimos en los órganos de la Administración de Justicia"
+identifier: "BOE-A-1987-14341"
+eli: "https://www.boe.es/eli/es/rd/1987/06/19/755"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1987-06-19
+published: 1987-06-20
+in_force_from: 1987-06-20
+last_amended: 1991-09-14
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 147"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1987-14341"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 755/1987, de 19 de junio, por el que se establecen normas para garantizar la prestación de servicios mínimos en los órganos de la Administración de Justicia
+
+El artículo 470.2 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, establece que el ejercicio del derecho de huelga por parte del personal al servicio de la Administración de Justicia se ajustará a lo establecido en la legislación general del Estado para funcionarios públicos, aunque estará, en todo caso, sujeto a las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la Administración de Justicia.
+
+La situación planteada con motivo de la declaración de huelga en la Administración de Justicia para los próximos días, que ha sido comunicada al Ministerio de Justicia, determina la procedencia de adoptar, con carácter de urgencia, las medidas que garanticen el mantenimiento de dichos servicios esenciales. Con esta finalidad el Gobierno, a quien corresponde proveer a los Juzgados y Tribunales de los medios precisos para el desarrollo de su función con independencia y eficacia, debe aprobar las normas mínimas pertinentes, lo que constituye el objeto del presente Real Decreto.
+
+El Gobierno debe armonizar el disfrute del derecho de huelga reconocido en los artículos 28.2 y 37.2 de la Constitución con el aseguramiento de unos servicios indispensables que, limitando lo menos posible el contenido del repetido derecho, sean a la vez suficientes para garantizar la actividad ininterrumpida de la Administración de Justicia en aquellos aspectos cuya paralización pueda suponer perjuicio no reparable para los derechos e intereses de los ciudadanos, bien por hacer imposible con carácter irreversible su protección jurisdiccional, bien por generar una situación contraria al principio de seguridad jurídica en la actuación de los ciudadanos ante los Tribunales, pues en ambos casos se produciría un resultado abiertamente lesivo del derecho a la tutela jurisdiccional garantizado por el artículo 24 de la Constitución y, como reflejo de ello de los bienes constitucionalmente protegidos y cuya protección garantiza el Estado mediante el ejercicio de la potestad jurisdiccional.
+
+Se considera que el aseguramiento de unos servicios esenciales que garanticen el funcionamiento de los órganos judiciales debe comprender, al menos, un funcionario de cada uno de los Cuerpos Auxiliares de la Administración de Justicia que prestan sus servicios en los mismos, como consecuencia de la función específica que cada uno de ellos desarrolla según su Reglamento orgánico, si bien ha de tenerse en cuenta que, por las especiales circunstancias que pueden producirse los días en que un Juzgado de Instrucción actúa de guardia, cuando se produzca esta situación, el Juzgado deberá contar con toda su dotación de personal auxiliar; esto es, de Oficiales, Auxiliares y Agentes.
+
+En su virtud, reafirmando el deber del Poder público de intervenir en tales situaciones para hallar una solución equilibrada, dando cumplimiento a los mandatos constitucionales e inspirándose para ello en la jurisprudencia del Tribunal Constitucional y en la del Tribunal Supremo, así como en los pactos internacionales de los que España es parte y atendiendo a lo dispuesto en el propio artículo 10, párrafo segundo, del Real Decreto-ley 17/1977, de 4 de marzo, a propuesta del Ministro de Justicia y previa deliberación del Consejo de Ministros en su reunión del día 19 de junio de 1987,
+
+DISPONGO:
+
+## Artículo 1.
+
+Las situaciones de huelga que afecten a la Administración de Justicia se entenderán condicionadas al mantenimiento de los servicios esenciales en los distintos Órganos judiciales.
+
+## Artículo 2.
+
+1\. A los efectos previstos en el artículo anterior se determinan como servicios esenciales los siguientes:
+
+− Actuaciones de Registro Civil.
+
+− Registro de Documentos.
+
+− Reparto de asuntos a los distintos órganos judiciales.
+
+− Todas aquellas actuaciones en las que venza un plazo preestablecido en la Ley, cuyo incumplimiento pueda suponer pérdida o perjuicio de derechos.
+
+− Embargos y medidas cautelares o provisionales.
+
+− Todas las actuaciones penales.
+
+− Servicio de Juzgado de Guardia.
+
+− Subastas judiciales.
+
+2\. Se considera personal mínimo para atender los servicios esenciales consignados en el párrafo anterior:
+
+a) Un 30 por 100 del total de funcionarios de los Cuerpos de Oficiales, Auxiliares y Agentes de la Administración de Justicia que presten servicios en cada uno de los siguientes órganos:
+
+− Tribunal Supremo.
+
+− Audiencia Nacional.
+
+− Audiencias Territoriales.
+
+− Tribunal Central de Trabajo.
+
+− Audiencias Provinciales.
+
+b) Un Oficial, un Auxiliar y un Agente de la Administración de Justicia para cada uno de los Juzgados de Primera Instancia, de Instrucción, de Primera Instancia e Instrucción, de las Magistraturas de Trabajo, de los Tribunales Tutelares de Menores y de los Juzgados de Distrito, con excepción de aquellos Juzgados de Instrucción que actúen de guardia, que deberán contar con toda su dotación de personal.
+
+c) Un Agente para cada uno de los Juzgados de Paz de poblaciones de más de 7.000 habitantes.
+
+d) El Secretario judicial o funcionario que le sustituya, en aquellas localidades donde sólo exista un órgano judicial.
+
+El Médico Forense en las localidades donde el servicio sea atendido por un solo funcionario de este Cuerpo.
+
+e) Uno de los Secretarios Judiciales, o funcionarios que les sustituyan, en aquellas localidades donde sólo existan dos órganos judiciales.
+
+Uno de los Médicos Forenses en aquellas localidades donde el servicio sea atendido por dos funcionarios de este Cuerpo.
+
+f) El 30 por 100 del total de los funcionarios del Cuerpo de Secretarios Judiciales que presten servicio en los Centros de trabajo que se citan en cada localidad donde radiquen, siempre que no se hallen incluidos en los dos apartados anteriores:
+
+Tribunal Supremo.
+
+Audiencia Nacional.
+
+Audiencias Territoriales.
+
+Tribunal Central de Trabajo.
+
+Audiencias Provinciales.
+
+Juzgados de Primera Instancia.
+
+Juzgados de Instrucción.
+
+Juzgados de Primera Instancia e Instrucción y Distrito.
+
+Juzgados de Distrito.
+
+Magistraturas de Trabajo.
+
+Juzgados de Menores.
+
+El 30 por 100 del total de funcionarios del Cuerpo de Médicos Forenses en aquellas localidades donde el servicio sea atendido por más de dos funcionarios de este Cuerpo.
+
+El Secretario judicial y el Médico Forense en los Juzgados de Instrucción y en los Juzgados de Primera Instancia e Instrucción que actúen de guardia, deberá quedar incluido dentro del personal mínimo que cita este artículo.
+
+3\. Las autoridades o Jefes de los órganos judiciales establecerán el personal laboral mínimo de Limpieza, Oficios Varios (Electricidad, Fontanería y Calefacción) y Vigilancia que consideren necesario para garantizar el adecuado funcionamiento de las instalaciones a su cargo.
+
+> Se modifica el apartado 1 por el art. único del Real Decreto 1349/1991, de 13 de septiembre. [Ref. BOE-A-1991-23292](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-23292)
+
+> Se modifica el apartado 2 y se añade el 3 por los arts. 1 y 2 del Real Decreto 1474/1988, de 9 de diciembre . [Ref. BOE-A-1988-28187](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-28187)
+
+## Artículo 3.
+
+Los paros y alteraciones en el trabajo por parte de los funcionarios y personal laboral al servicio de la Administración de Justicia a que se refiere el artículo anterior serán considerados ilegales y sancionados disciplinariamente.
+
+> Se modifica por el art. 3 del Real Decreto 1474/1988, de 9 de diciembre . [Ref. BOE-A-1988-28187](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-28187)
+
+## Disposición final.
+
+El presente Real Decreto entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 19 de junio de 1987.
+
+JUAN CARLOS R.
+
+El Ministro de Justicia
+
+FERNANDO LEDESMA BARTRET

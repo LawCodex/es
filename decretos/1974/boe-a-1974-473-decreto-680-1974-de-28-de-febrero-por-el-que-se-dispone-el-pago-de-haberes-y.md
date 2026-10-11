@@ -1,0 +1,145 @@
+---
+title: "Decreto 680/1974, de 28 de febrero, por el que se dispone el pago de haberes y retribuciones al personal en activo de la Administración del Estado y de los Organismos Autónomos a través de establecimientos bancarios o Cajas de Ahorro"
+identifier: "BOE-A-1974-473"
+eli: "https://www.boe.es/eli/es/d/1974/02/28/680"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda"
+date: 1974-02-28
+published: 1974-03-18
+in_force_from: 1974-04-07
+last_amended: 2015-11-02
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 66"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1974-473"
+retrieved: 2026-10-11
+---
+
+# Decreto 680/1974, de 28 de febrero, por el que se dispone el pago de haberes y retribuciones al personal en activo de la Administración del Estado y de los Organismos Autónomos a través de establecimientos bancarios o Cajas de Ahorro
+
+La Administración del Estado, por Ley de dieciséis de marzo de mil novecientos treinta y nueve, tendió a suprimir, mediante el procedimiento de transferencia a cuentas abiertas en Entidades bancarias, el pago dinerario de sus obligaciones. La Orden del Ministerio de Hacienda de dos de noviembre de mil novecientos sesenta y dos estableció con carácter voluntario la posibilidad de solicitar por los funcionarios el pago de sus retribuciones mediante transferencia a cuentas abiertas en establecimientos de crédito, procedimiento que, de hecho, se extiende día a día y se emplea ya por un buen número de Centros y Dependencias. Por Orden de diecisiete de junio de mil novecientos sesenta y nueve se autorizó también el pago de haberes pasivos del Estado, que se hacían efectivos por la Pagaduría de la Dirección General del Tesoro y Presupuestos, a través de los citados establecimientos, actuando éstos como intermediarios, autorización que fue aplicada gradualmente a todas las Delegaciones de Hacienda por Resolución de nueve de diciembre de mil novecientos setenta («Boletín Oficial del Estado» de veinticuatro de diciembre).
+
+Los positivos resultados obtenidos en los casos anteriores, al satisfacer las retribuciones por la modalidad indicada, aunque con carácter voluntario, motivaron el paso siguiente, que consistió en establecer por Decreto dos mil novecientos cincuenta y cuatro/mil novecientos setenta, de doce de septiembre, con carácter obligatorio, este procedimiento de pago al personal del Ministerio de Educación y Ciencia, aprovechando las grandes posibilidades que ofrecen la organización y servicios de las Entidades de crédito.
+
+La confirmación de las ventajas del sistema, apreciadas después de una aplicación de tres años de esta última disposición, hacen aconsejable su extensión a toda la Administración del Estado, así corno a los Organismos Autónomos del mismo, con la garantía de obtener una perfección y simplificación de las operaciones administrativas en el pago de retribuciones, que facilitarán el tratamiento mecanizado de los datos y una mayor seguridad para los perceptores, derivada no sólo del hecho de evitarse el manejo material de fondos, sino del mantenimiento de la responsabilidad directa del Estado hasta el pago final de estas obligaciones al perder los Habilitados el carácter de apoderados del personal.
+
+En su virtud, a propuesta del Ministerio de Hacienda y previa deliberación del Consejo de Ministros en su reunión del día uno de febrero de mil novecientos setenta y cuatro,
+
+DISPONGO:
+
+### Artículo uno.
+
+El pago de las retribuciones del personal en activo de la Administración Civil o Militar del Estado, así como del de los Organismos autónomos del mismo, se hará a opción de los interesados por uno de los procedimientos siguientes:
+
+a) Por transferencia a cuentas abiertas a nombre de los perceptores en la Caja Postal de Ahorros, Cajas de Ahorros integradas en la Confederación Española y Entidades de crédito inscritas en el Registro de Bancos y Banqueros.
+
+El señalamiento de establecimiento de crédito en que tenga o abra la cuenta cada perceptor se efectuará por cada interesado en el que estime más conveniente.
+
+b) Mediante la entrega a los perceptores de cheques nominativos emitidos por las citadas Entidades de crédito por cuenta y orden de las Habilitaciones de personal correspondientes.
+
+La Entidad de crédito hará efectivos en metálico los cheques expedidos por la misma en cualquiera de sus Dependencias, Sucursales, Agencias Urbanas o corresponsales de dichas Entidades en todo el territorio nacional.
+
+En todo momento podrá el interesado optar por una u otra forma de pago, aunque con anterioridad hubiera ejercitado el derecho.
+
+### Artículo dos.
+
+Uno. Los libramientos para atender el pago de estas obligaciones se expedirán a favor de las correspondientes Habilitaciones o Pagadurías y su importe líquido se transferirá a cuentas corrientes abiertas a nombre de las mismas en las Entidades de crédito a que se refiere el artículo anterior o en el Banco de España.
+
+Los establecimientos de crédito en que las Habilitaciones o Pagadurías de Personal de los Ministerios u organismos interesados abran las cuentas, para que a las mismas se transfiera, por el Tesoro Público, el importe total de las retribuciones del personal, se seleccionarán de acuerdo con lo señalado en el artículo 109 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+Dos. Los fondos de estas cuentas corrientes tendrán el carácter de públicos y de los mismos sólo se podrá disponer en la forma y para los fines que se indican en los artículos siguientes.
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 928/2015, de 16 de octubre. [Ref. BOE-A-2015-11792](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11792).
+
+### Artículo tres.
+
+Uno. Los libramientos, acompañados de las nóminas o documentación que justifique su expedición, deberán encontrarse en las respectivas Ordenaciones de Pagos con quince días de antelación, como mínimo, a la fecha en que deba efectuarse su pago.
+
+Dos. Cuando las retribuciones a las que se refieren estos libramientos tengan vencimiento a fecha fija, el Tesoro Público transferirá los importes de las retribuciones a las cuentas corrientes que se mencionan en el artículo anterior con antelación suficiente para que la Habilitación o Pagaduría pueda cumplir con su obligación de forma que los fondos estén a disposición de los perceptores el día en que deba hacerse efectivo el pago.
+
+> Se modifica el apartado 2 y se suprime el 3 por el art. único.2 y 3 del Real Decreto 928/2015, de 16 de octubre. [Ref. BOE-A-2015-11792](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11792).
+
+### Artículo cuatro.
+
+Uno. Las Habilitaciones o Pagadurías de Personal cursarán oportunamente a las Entidades de crédito donde tengan abierta su cuenta corriente relaciones nominales del personal acogido al régimen de transferencias en las que figurarán los datos sobre identificación de perceptores y sus cuentas, así como los importes a transferir. Las Entidades de crédito deberán efectuar los ingresos en las cuentas corrientes de los perceptores con efectos de la fecha en que se señale al cursarle las relaciones.
+
+Dos. Relación similar a la anterior, pero prescindiendo de los datos obligados en las transferencias, se presentará a los efectos de que sean expedidos los cheques nominativos a que se refiere el artículo primero del presente Decreto. Estos cheques serán entregados por las Entidades de crédito a la Habilitación o Pagaduría respectiva en la fecha que se determine al cursarle la relación.
+
+Tres. Las Habilitaciones o Pagadurías deberán efectuar la entrega de los cheques, previa firma por los interesados de su recepción, en la copia de la relación enviada a la Entidad de crédito a que se hace referencia en el apartado anterior reseñando el número del cheque.
+
+Cuatro. Se cursarán asimismo las instrucciones oportunas para que estas Entidades de crédito satisfagan a los correspondientes acreedores las retenciones que, por cuotas de la Seguridad Social, Mutualidades, Montepíos, Colegios de Huérfanos, Patronatos de Casas, judiciales u otras de carácter obligatorio o voluntario hayan de practicarse al personal.
+
+### Artículo cinco.
+
+Las cantidades satisfechas indebidamente por el Tesoro, como consecuencia de errores materiales o que merezcan aquella calificación en virtud de resolución administrativa o sentencia judicial firme, tanto queden situadas en las cuentas de las Habilitaciones o Pagadurías como las que hayan sido abonadas en las cuentas de los perceptores, se reintegrarán deduciéndolas de los siguientes libramientos que se formulen. Cuando tal procedimiento no pueda aplicarse, el reintegro se realizará mediante ingreso directo en el Tesoro.
+
+### Artículo seis.
+
+1\. Las habilitaciones o pagadurías formarán una cuenta justificativa de los pagos efectuados con cargo a cada libramiento de retribuciones de personal en activo que hayan recibido. La estructura de la citada cuenta se determinará por la Intervención General de la Administración del Estado.
+
+2\. A las indicadas cuentas justificativas se unirán los siguientes documentos:
+
+a) Cuerpo de la nómina, resúmenes y estados justificativos de la misma, acompañados de sus correspondientes justificantes.
+
+b) Relación de perceptores, con la certificación de las entidades de crédito de las transferencias ordenadas y verificadas puntualmente y detalle de las que no hayan podido realizarse.
+
+c) Certificación de las entidades de crédito detallando los cheques emitidos así como relación de los devueltos para su anulación.
+
+d) Certificación de las entidades de crédito acreditativa de haberse efectuado las transferencias derivadas de las retenciones practicadas a los perceptores que no se hubieran deducido previamente del libramiento.
+
+e) En su caso, los documentos justificativos de los reintegros, ingresados directamente en el Tesoro Público.
+
+3\. Las habilitaciones o pagadurías remitirán las cuentas justificativas al órgano que reconoció la obligación, dentro del mes siguiente a aquel en que se produjo el pago de las retribuciones. Recibidas las cuentas por el citado órgano, éste procederá a su examen y, en su caso, posterior aprobación.
+
+Una vez aprobadas las cuentas, procederá a su archivo junto con los justificantes de las mismas, debiendo estar a disposición del Tribunal de Cuentas y de la Intervención Delegada cuya competencia orgánica o territorial corresponda con la de la autoridad que reconoció la obligación, al objeto de posibilitar sus actuaciones de control.
+
+4\. El examen de las cuentas justificativas de los pagos y los correspondientes documentos justificativos a que se refiere el apartado 2 de este precepto, por la Intervención Delegada competente, se integrará en el ámbito de actuaciones del control financiero permanente, con el alcance específico que para cada ejercicio se determine conforme a lo dispuesto en el artículo 159 de la Ley 47/2003, General Presupuestaria.
+
+5\. El Ministro de Economía y Hacienda podrá establecer procedimientos de remisión de las cuentas justificativas y demás documentación que se regula en este artículo a través de medios electrónicos, informáticos o telemáticos.
+
+> Se modifica por el art. único del Real Decreto 1465/2007, de 2 de noviembre. [Ref. BOE-A-2007-19882](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-19882).
+
+### Artículo siete.
+
+La Habilitación o Pagaduría de Personal facilitará, a petición de los interesados y, en todo caso, cada vez que exista modificación en sus retribuciones, información acerca de todos los conceptos que integran su retribución personal, detallando el íntegro y los descuentos practicados para obtener el importe líquido de su percepción.
+
+### Artículo ocho.
+
+A partir de la aplicación del presente Decreto se considerarán extinguidas las obligaciones del Estado a que el mismo se refiere, desde el momento en que queden efectuadas las transferencias a las cuentas corrientes de los perceptores, o sean hechos efectivos los cheques nominativos.
+
+### Artículo nueve.
+
+Por la prestación de los servicios incluidos en los artículos anteriores, las Entidades de crédito no podrán exigir ni descontar cantidad alguna a los perceptores ni a la Administración.
+
+## DISPOSICIONES FINALES
+
+### Primera.
+
+El sistema señalado se aplicará paulatinamente a propuesta de los Departamentos ministeriales, que promoverán la resolución del Ministerio de Hacienda, ultimada que sea la opción que se da al personal para la percepción de sus retribuciones en el artículo primero.
+
+### Segunda.
+
+Continúa en vigor el Decreto dos mil novecientos cincuenta y cuatro/mil novecientos setenta, de doce de septiembre, y sus normas de desarrollo, en cuanto al Ministerio de Educación y Ciencia.
+
+### Tercera.
+
+El vigente Reglamento de la Ordenación de Pagos de veinticuatro de mayo de mil ochocientos noventa y uno queda modificado en lo que resulte afectado por el presente Decreto.
+
+Como consecuencia de lo anterior, en lo sucesivo las Habilitaciones y Pagadurías de Personal estarán a cargo de funcionarios de carrera. El nombramiento y remoción de sus titulares y suplentes dependerá exclusivamente de la potestad administrativa, no teniendo, por tanto, el carácter de representantes de los funcionarios.
+
+Estos nombramientos y remociones se comunicarán a las respectivas Ordenaciones de Pagos y Tesorerías de Hacienda.
+
+### Cuarta.
+
+Se autoriza al Ministro de Hacienda para que, a iniciativa propia o a propuesta de los Departamentos ministeriales, dicte las normas aclaratorias y complementarias que sean precisas para el desarrollo del presento Decreto, así como para disponer su no aplicación a aquellas retribuciones que por su carácter ocasional o especial naturaleza requieran un tratamiento distinto.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a veintiocho de febrero de mil novecientos setenta y cuatro.
+
+FRANCISCO FRANCO
+
+El Ministro de Hacienda,
+
+ANTONIO BARRERA DE IRIMO

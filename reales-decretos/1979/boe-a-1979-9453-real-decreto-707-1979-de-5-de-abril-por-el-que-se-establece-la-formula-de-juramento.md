@@ -1,0 +1,56 @@
+---
+title: "Real Decreto 707/1979, de 5 de abril, por el que se establece la fórmula de juramento en cargos y funciones públicas"
+identifier: "BOE-A-1979-9453"
+eli: "https://www.boe.es/eli/es/rd/1979/04/05/707"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1979-04-05
+published: 1979-04-06
+in_force_from: 1979-04-06
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 83"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1979-9453"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 707/1979, de 5 de abril, por el que se establece la fórmula de juramento en cargos y funciones públicas
+
+Promulgada la Constitución, resulta obligado determinar, de acuerdo con la misma, la fórmula de juramento o promesa para la toma de posesión de cargos o funciones públicas.
+
+En su virtud, a propuesta del Ministro de la Presidencia y previa deliberación del Consejo de Ministros en su reunión del día cuatro de abril de mil novecientos setenta y nueve,
+
+DISPONGO:
+
+## Artículo primero.
+
+En el acto de toma de posesión de cargos o funciones públicas en la Administración, quien haya de dar posesión formulará al designado la siguiente pregunta:
+
+«¿Juráis o prometéis por vuestra conciencia y honor cumplir fielmente las obligaciones del cargo ................. con lealtad al Rey, y guardar y hacer guardar la Constitución como norma fundamental del Estado?»
+
+Esta pregunta será contestada por quien haya de tomar posesión con una simple afirmativa.
+
+La fórmula anterior podrá ser sustituida por el juramento o promesa prestado personalmente por quien va a tomar posesión, de cumplir fielmente las obligaciones del cargo con lealtad al Rey y de guardar y hacer guardar la Constitución como norma fundamental del Estado.
+
+## Artículo segundo.
+
+Los Vicepresidentes, Ministros y demás miembros del Gobierno prestarán ante el Rey el juramento o promesa en la forma establecida en el artículo anterior, refiriéndolo también a la obligación de mantener secreto de las deliberaciones del Consejo de Ministros.
+
+## Artículo tercero.
+
+El presente Real Decreto entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+## Disposición derogatoria.
+
+Quedan derogadas cuantas disposiciones se opongan al presente Real Decreto, y en particular el Decreto mil quinientos setenta y siete/mil novecientos setenta y siete, de cuatro de julio.
+
+Dado en Madrid a cinco de abril de mil novecientos setenta y nueve.
+
+JUAN CARLOS
+
+El Ministro de la Presidencia,
+
+JOSÉ MANUEL OTERO NOVAS

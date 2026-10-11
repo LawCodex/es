@@ -1,0 +1,1828 @@
+---
+title: "Real Decreto 2242/1984, de 26 de septiembre, por el que se aprueba la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio de condimentos y especias"
+identifier: "BOE-A-1984-27961"
+eli: "https://www.boe.es/eli/es/rd/1984/09/26/2242"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1984-09-26
+published: 1984-12-22
+in_force_from: 1984-12-22
+last_amended: 2013-03-29
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 306"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1984-27961"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2242/1984, de 26 de septiembre, por el que se aprueba la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio de condimentos y especias
+
+Incluye la corrección de errores publicada en BOE núm. 89, de 13 de abril de 1985. [Ref. BOE-A-1985-5824](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-5824).
+
+El Decreto de la Presidencia del Gobierno número 2484/1967, de 21 de septiembre, por el que se aprueba el texto del Código Alimentario Español, prevé que puedan ser objeto de reglamentación especial las materias en él reguladas.
+
+Publicado el Decreto de la Presidencia del Gobierno número 2519/1974, de 9 de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, procede dictar las distintas reglamentaciones establecidas en el mismo.
+
+En su virtud, a propuesta de los Ministros de Economía y Hacienda, de Industria y Energía, de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, de acuerdo con el informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria y previa deliberación del Consejo de Ministros en su reunión del día 26 de septiembre de 1984,
+
+DISPONGO:
+
+### Artículo único.
+
+Se aprueba la adjunta Reglamentación técnico-sanitaria para la elaboración, fabricación, circulación y comercio de condimentos y especias.
+
+### Disposición adicional única. Reconocimiento mutuo.
+
+Los requisitos de la presente reglamentación no se aplicarán a los productos legalmente fabricados y/o comercializados de acuerdo con otras especificaciones en los otros Estados miembros de la Unión Europea, ni a los productos originarios de los países de la AELC Partes Contratantes en el Acuerdo EEE ni a los Estados que tengan un Acuerdo de Asociación Aduanera con la Unión Europea.
+
+> Se añade por el art. único.2 del Real Decreto 40/2010, de 15 de enero. [Ref. BOE-A-2010-1084](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1084).
+
+### Disposición transitoria primera.
+
+Las reformas y adaptaciones de las instalaciones existentes, derivadas de las exigencias incorporadas a esta Reglamentación que no sean consecuencia de disposiciones legales vigentes y, en especial, de lo dispuesto en el Decreto 2519/1974, de 9 de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, serán llevadas a cabo en el plazo de dieciocho meses, a contar desde la publicación de la presente Reglamentación.
+
+### Disposición transitoria segunda.
+
+Se permitirá a los industriales el uso de las existencias en almacén o contratadas de envases, etiquetas, envolturas, cierres o precintos, durante un plazo de dieciocho meses, no pudiendo efectuarse, a partir de la fecha de publicación del presente Decreto, nuevas contrataciones de dichos materiales, si no se ajustan a las normas de la adjunta Reglamentación.
+
+### Disposición transitoria tercera.
+
+Se concede un plazo de doce meses a contar desde la publicación de la presente Reglamentación para exigir las características relacionadas en el artículo 15, 2, de la misma, para aquellos productos o para aquellos parámetros que, o no estaban considerados en la Orden de la Presidencia del Gobierno del 26 de noviembre de 1930, o que se han modificado por este Real Decreto.
+
+### Disposición final.
+
+Quedan facultados los Ministerios competentes para que, previo informe de la Comisión Interministerial para la Ordenación Alimentaria, puedan dictar las disposiciones necesarias para completar, desarrollar y mejor cumplir lo dispuesto en la adjunta Reglamentación técnico-sanitaria.
+
+### Disposición derogatoria.
+
+A partir de la fecha de la publicación de la presente Reglamentación quedan derogadas las siguientes disposiciones:
+
+Orden de la Presidencia del Gobierno de 26 de noviembre de 1960 («Boletín Oficial del Estado» número 293, de 7 de diciembre), por la que se aprueba la Reglamentación técnico-sanitaria para la elaboración y venta de condimentos y especias naturales.
+
+Orden de la Presidencia del Gobierno de 20 de julio de 1961 («Boletín Oficial del Estado» número 177, de 26 de julio), por la que se modifican determinados artículos de la Reglamentación técnico-sanitaria para la elaboración y venta de condimentos y especias naturales.
+
+Y cuantas otras disposiciones de igual o inferior rango en lo que se opongan a lo establecido en el presente Real Decreto.
+
+Dado en Madrid a 26 de septiembre de 1984.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JAVIER MOSCOSO DEL PRADO Y MUÑOZ
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA PARA LA ELABORACIÓN, CIRCULACIÓN Y COMERCIO DE CONDIMENTOS Y ESPEClAS
+
+## TÍTULO PRELIMINAR — Ámbito de aplicación
+
+### Art. 1.
+
+La presente Reglamentación tiene por objeto definir, a efectos legales, lo que se entiende por especias y condimentos, tanto naturales como preparados, para uso en la alimentación y fijar, con carácter obligatorio, las normas técnico-sanitarias de elaboración, manipulación y comercialización y, en general, la ordenación jurídica de tales productos. Será de aplicación, asimismo, a los productos importados.
+
+Esta Reglamentación obliga a los fabricantes, manipuladores y comerciantes de especias y condimentos y, en su caso, a los importadores.
+
+Se considerarán fabricantes, manipuladores, comerciantes e importadores de especias y condimentos para la alimentación, aquellas personas, naturales o jurídicas, que, en uso de las autorizaciones concedidas por los Organismos oficiales competentes, dedican su actividad a la obtención, preparación o manipulación, venta o importación de los productos definidos en los artículos 2.<sup>o</sup> a 4.<sup>o</sup>
+
+## TÍTULO I — Definiciones y clasificaciones
+
+### Art. 2. Especia o condimento aromático.
+
+A efectos de esta Reglamentación, se designa con el nombre de especia o condimento aromático a las plantas o partes de las mismas, frescas o desecadas, enteras, troceadas o molidas, que por su color, aroma o sabor característicos se destinan a la preparación de alimentos y bebidas, con el fin de incorporarles estas características haciéndoles más apetecibles y sabrosos y, en consecuencia, consiguiendo un mejor aprovechamiento de los mismos.
+
+Tienen la consideración de condimentos naturales la sal y el vinagre, que son objeto de reglamentaciones específicas.
+
+> Redactado el título conforme a la corrección de errores publicada en BOE núm. 89, de 13 de abril de 1985. [Ref. BOE-A-1985-5824](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-5824).
+
+### Art. 3. Condimentos preparados o sazonadores.
+
+Se entiende como condimento preparado o sazonador el producto obtenido por la simple mezcla de varias especias o condimentos entre sí, y/o con otras sustancias alimenticias, autorizadas específicamente por esta Reglamentación.
+
+A todos los efectos administrativos y jurídicos tendrán consideración de «aditivos» y no de «condimentos preparados» toda mezcla de especias a las que se les incorporan aditivos cuya acción va a desarrollarse en la elaboración de un preparado alimenticio determinado y cuya presencia en la mezcla está explicada por su mayor facilidad de dosificación y homogeneización de las materias primas a las que se va a incorporar.
+
+### Art. 4. Sucedáneos de especias.
+
+Son los productos elaborados con ingredientes distintos de la especia que marca su denominación, de propiedades parecidas, que adoptan la misma presentación y aspecto físico y usos que la especia genuina y están destinados a reemplazarla.
+
+Será preciso que se anteponga a la denominación de la especia sustituida la leyenda «sucedáneo de ...», debiéndose indicar asimismo la materia originaria de la misma, utilizándose iguales caracteres gráficos en ambas indicaciones.
+
+Sólo se permiten los sucedáneos de canela, pimienta negra, pimienta blanca y clavo.
+
+En ningún caso podrá mezclarse cualquier sucedáneo con las especias.
+
+### Art. 5. Clasificación y denominación de las especias.
+
+Con carácter enunciativo, no limitativo, las especias pueden clasificarse como sigue, según la parte vegetal que les confiere su acción.
+
+1\. Arilos:
+
+1.1 Macis.–Arilo desecado de la nuez moscada «Myristica Fragans», Houttyl.
+
+2\. Bulbos:
+
+2.1 Ajo.–Bulbos sanos y limpios del «Allium sativum», Linneo, que pueden utilizarse desecados, deshidratados, pulverizados y liofilizados.
+
+2.2 Cebolla.–Bulbos sanos, limpios, desecados, deshidratados, pulverizados o liofilizados del «Allium Cepa», Linneo, y otras variedades comestibles.
+
+3\. Corteza:
+
+3.1 Canela.–Corteza desecada y privada de la mayor parte de su capa epidérmica, procedente del «Cinnamomum zeylanicum», Blume; «Cinnamomum Casia», Blume, y «Cinnamomum Burmani», Breyne, y otras especias.
+
+4\. Flores y partes florales:
+
+4.1 Alcaparra.–Son los botones florales del «Capparis spinosa», Linneo, y «Capparis ovata», Desp., conservados en vinagre, salmuera o sal seca.
+
+4.2 Azafrán.–Estigmas desecados del «Crocus sativus», Linneo, filamentos flexibles, resistentes, de color y aroma característicos.
+
+4.3 Clavo.–Botón floral maduro y desecado del «Caryophyllus aromaticus», Linneo.
+
+5\. Frutos:
+
+5.1 Alcaravea.–Frutos sanos y limpios del «Carum carvi», denominado también camino alemán o de prado.
+
+5.2 Anís.–Frutos sanos, limpios y desecados del «Pimpinella anisum», Linneo, de color amarillo pardo y olor y sabor muy aromáticos.
+
+5.3 Apio.–Frutos sanos, limpios y desecados del «Apium graveolens», Linneo.
+
+5.4 Badiana.–Frutos sanos, limpios y desecados del «Illicium verum», Hooker.
+
+5.5 Cardamomo.–Frutos sanos, limpios y desecados del «Elettaria Cardamomum», White y Maton, u otras especias afines.
+
+5.6 Cilantro.–Frutos sanos, maduros, limpios y desecados del «Coriandrum sativum», Linneo, globosos, amarillos o pardo oscuros.
+
+5.7 Comino.–Frutos sanos, limpios y desecados del «Cuminum cyminum», Linneo, «comino ordinario» o «largo».
+
+5.8 Enebro.–Arcéstides carnosas, maduras y sanas, limpias y desecadas del «Juniperus communis», Linneo.
+
+5.9 Hinojo.–Frutos sanos, maduros, limpios y desecados del «Foeniculum vulgare», Miller.
+
+5.10 Pimentón.–Producto seco obtenido de la molienda de los frutos maduros, sanos y limpios del pimiento.
+
+«Capsicum annum», Linneo, o «Capsicum longum», D. C., o parte de los mismos. Se podrán distinguir los tipos: dulce, agridulce y picante.
+
+5.11 Pimienta blanca.–Fruto maduro y privado de la parte externa del pericarpio, procedente de «Piper nigrum», Linneo.
+
+5.12 Pimienta de Cayena.–Frutos enteros y desecados del «Capsicum frutescens», Linneo; «Capsicum baccatum», Linneo, y «Capsicum fastigiatum» Bl.
+
+5.13 Pimienta de Jamaica.–Frutos desecados, enteros o molidos, de «pimenta officinalis», Berg.
+
+5.14 Pimienta negra.–Fruto incompletamente maduro y desecado procedente del «Piper nigrum», Linneo.
+
+5.15 Vainilla.–Fruto incompletamente maduro, fermentado y desecado, de la «Vainilla planifolia», Andrews, y de la «Vainilla pompona», Schiede.
+
+5.16 Pimienta rosa.–Frutos sanos, limpios, enteros o molidos y desecados de «Schinus terebinthifolius Raddi.
+
+6\. Hojas y sumidades:
+
+6.1 Ajedrea.–Hojas y sumidades floridas, limpias, frescas o desecadas de la «Satureja hortensis», Linneo.
+
+6.2 Artemisa.–Hojas y sumidades sanas, limpias y desecadas, de «Arthemisia vulgaris», Linneo.
+
+6.3 Espliego.–Hojas y sumidades sanas, limpias y desecadas, de «Lavandula spica», Linneo.
+
+6.4 Estragón.–Hojas y sumidades sanas, limpias y desecadas, de la «Arthemisia dracunculus», Linneo.
+
+6.5 Hierbabuena.–Hojas y sumidades floridas, sanas, limpias, frescas o desecadas, de la «Menta arbensis», Linneo.
+
+6.6 Laurel.–Hojas sanas, limpias y desecadas, del «Laurus nobilis», Linneo.
+
+6.7 Mejorana.–Hojas y sumidades floridas, sanas, limpias, frescas o desecadas, del «Origanum mejorana». L «Mejorana cultivada o de jardín», y «Thymus mastichina», Linneo. Mejorana silvestre.
+
+6.8 Menta.–Hojas y sumidades floridas, sanas, limpias, frescas o desecadas, de la «Menta piperita», Linneo; «Menta viridis», Linneo, y «Menta aquatica», Linneo, u otras.
+
+6.9 Orégano.–Hojas y sumidades floridas, sanas, limpias y desecadas del «Origanum vulgare», Linneo; «Origanum virens», Hoffgg.
+
+6.10 Perejil.–Plantas sanas y limpias, frescas, desecadas y deshidratadas «Petroselinum sativum», Hofpm.
+
+6.11 Poleo.–Hojas y sumidades floridas de la «Menta pulegium», Linneo, recogidas en el periodo de la floración.
+
+6.12 Romero.–Hojas y sumidades floridas de «Rosmarinus officinalis», Linneo, recogidas en el período de floración.
+
+6.13 Salvia.–Plantas sanas, limpias, frescas o desecadas de la «Salvia officinalis», Linneo, y «Salvia lavandulaefolia», Walp.
+
+6.14 Tomillo.–Planta y sumidades floridas, sanas, limpias y desecadas del «Thymus vulgaris», Linneo; del «Thymus zygis», Linneo, y «Thymus piperella», Linnes.
+
+6.15 Albahaca.–Hojas y sumidades sanas, limpias y desecadas de "Ocimum basilicum" (L.).
+
+6.16 Eneldo.–Hojas y sumidades sanas, limpias y desecadas de "Peucedanum graveolens" (L.).
+
+7\. Rizomas y raíces.
+
+7.1 Cálamo.–Rizoma sano, limpio y seco de «Acorus calamus», entero o descortezado.
+
+7.2 Curcuma o cedoaria.–Rizoma sano y desecado de la «Curcuma zedoaria», Rosc.
+
+7.3 Galanga.–Rizoma sano de la «Alpina officinarum», Hange, u otras especies del mismo género.
+
+7.4 Jengibre.–Rizoma lavado y desecado del «Zingiber officinale», Rosc, entero (gris) o descortezado (blanco).
+
+8\. Semillas:
+
+8.1 Ajonjolí o sésamo.–Semillas sanas y limpias del «Sesamun orientale», y del «Sesamun Indicum».
+
+8.2 Mostaza.–Semillas sanas y limpias del «Brassica juncea» (mostaza marrón); «Brassica nigra», Koch (mostaza negra), y «Sinapis alba», Linneo (mostaza blanca).
+
+8.3 Nuez moscada.–Semilla desprovista de arilo de la «Myristica fragans», Houttyl.
+
+8.4 Eneldo.–Semillas sanas o limpias de "Peucedanum graveolens" (L.).
+
+8.5 Alholva o fenogreco.–Semillas sanas y limpias de "Trigonella foenum-graecum" (L.).
+
+8.6 kaloonji o Neguilla.–Semillas sanas y limpias de "Nigella sativa" (L.).
+
+> Se modifican los apartados 5, 6 y 8 por el art. único.1 del Real Decreto 40/2010, de 15 de enero. [Ref. BOE-A-2010-1084](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1084).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 89, de 13 de abril de 1985. [Ref. BOE-A-1985-5824](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-5824).
+
+### Art. 6. Clasificación de los condimentos preparados o sazonadores.
+
+A efectos de esta Reglamentación, los condimentos preparados o sazonadores se pueden clasificar en:
+
+1\. Mezclas entre especias:
+
+Las especias definidas anteriormente podrán mezclarse entre sí, con el fin de obtener un condimento que reúne las características apropiadas para el fin a que se destina.
+
+2\. Mezclas entre especias y condimentos naturales:
+
+Las especias podrán mezclarse también con condimentos naturales para obtener condimentos preparados específicos.
+
+3\. Mezclas entre especias y sustancias autorizadas específicamente para estos productos y/o condimentos naturales.
+
+A los preparados obtenidos en los apartados anteriores se les podrá incorporar otras sustancias alimenticias y/o alimentarias autorizadas específicamente por esta Reglamentación.
+
+## TÍTULO II — Condiciones de las industrias de los materiales y del personal
+
+### Art. 7. Requisitos industriales.
+
+**(Derogado)**
+
+> Se deroga por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 8. Requisitos higiénico-sanitarios.
+
+**(Derogado)**
+
+> Se deroga por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 9. Condiciones generales de los materiales.
+
+**(Derogado)**
+
+> Se deroga por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 10. Condiciones del personal.
+
+**(Derogado)**
+
+> Se deroga por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 11. Manipulaciones permitidas y prohibidas.
+
+11.1 Manipulaciones permitidas.
+
+Generales
+
+1\. Los procedimientos tecnológicos empleados para la elaboración y conservación asegurarán un correcto estado higiénico-sanitario en el momento de la venta.
+
+2\. La limpieza, selección, desecado, deshidratado, liofilizado, troceado y molido de la especia natural sin adición o mezcla de componente alguno, cuando se expendan como especia simple.
+
+3\. Además de las prácticas señaladas en el punto anterior el mezclado, cuando se expendan como mezclas, de especias o condimentos preparados.
+
+4\. **(Derogado)**
+
+5\. En el caso de los condimentos preparados, se autorizan aquellas manipulaciones que dan carácter al proceso de elaboración específica (liofilización, conservación, concentración, dilución, etc.).
+
+6\. Se permite el uso de óxido de etileno para la esterilización de especias y condimentos, siempre que el residuo no exceda de 50 ppm.
+
+Específicas
+
+7\. Al pimentón puede añadírsele cualquiera de los aceites incluidos en la Reglamentación técnico-sanitaria de aceites vegetales comestibles, en proporción tal que la cantidad máxima añadida en el producto comercial no sobrepase el 10 por 100 en masa del pimentón seco.
+
+8\. En la mostaza molida se permite la separación de su grasa por medios mecánicos. Al producto se le denominará mostaza desengrasada.
+
+9\. Se permite la incorporación de agentes aromáticos y otros aditivos autorizados para este fin, aprobados por la Subsecretaría de Sanidad y Consumo, previo informe favorable de la Comisión Interministerial para la Ordenación Alimentaria en las elaboraciones definidas en los artículos 3 y 4 de esta Reglamentación.
+
+10\. En las especias naturales molidas se permitirá la adición de antiapelmazantes contenidos en la lista positiva correspondiente a esta Reglamentación y aprobados por la Subsecretaría de Sanidad y Consumo, previo informe favorable de la Comisión Interministerial para la Ordenación Alimentaria.
+
+11.2 Manipulaciones prohibidas.
+
+Generales
+
+1\. La elaboración de especias y condimentos en instalaciones o industrias que no posean las autorizaciones reglamentarias.
+
+2\. El almacenamiento en condiciones inadecuadas.
+
+3\. La extracción de sus principios activos, ya sea parcial o total.
+
+4\. El reforzamiento de las especias naturales, enteras, molidas, con sus principios activos, esencias o extractos.
+
+5\. La adición a las especias naturales, enteras o molidas, comercializadas como tales, de azúcares, féculas, aceites, polvos, vegetales extraños, sal común o sustancias minerales, aunque sean inocuas, con las excepciones permitidas en los epígrafes 11.1.6 y 11.1.7 de esta Reglamentación.
+
+6\. La incorporación de agentes aromáticos y otros aditivos a las especias y condimentos naturales o preparados, comercializados en forma simple o mezclados, con la excepción señalada en los puntos 1.9 y 1.10 del artículo 11 de esta Reglamentación.
+
+7\. La venta de toda especia entera o molida cuyas características no correspondan con el nombre bajo el que se expenda, o esté averiada o alterada.
+
+No obstante, podrá autorizarse el comercio de las especias destinadas a la preparación de esencias u otros usos no alimentarios y que no reúnan las condiciones establecidas, siempre que en sus envases y documentos comerciales se las denomine «especia destinada para uso industrial impropia para el consumo humano».
+
+8\. La venta de especias y condimentos cuyos envases carezcan de la identificación reglamentaria, según lo dispuesto en el título V de esta Reglamentación.
+
+9\. La utilización de aditivos no autorizados en las listas positivas aprobadas por la Subsecretaría de Sanidad y Consumo, previo informe favorable de la Comisión Interministerial para la Ordenación Alimentaria para esta clase de productos.
+
+10\. **(Derogado)**
+
+Específicas
+
+11\. La mezcla con la badiana o la venta como tal de la falsa badiana (Shikimi), «Illicium religiosum», Sieb, será inmediatamente decomisada.
+
+12\. La presencia en el azafrán de flores de alazor, caléndula, cardo o de otros vegetales.
+
+13\. El enebro que contenga arcestides de sabina rastrera («Juniperus sabina», variedad humilis Hook) o albar («J. thurifera», L) será decomisado.
+
+14\. La presencia de cicuta («Conium maculatum», L) en el hinojo, comino y anis será objeto de decomiso.
+
+> Se derogan los apartados 1.4 y 2.10 por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO III — Registro sanitario
+
+### Art. 12. Identificación de la industria.
+
+**(Derogado)**
+
+> Se deroga por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO IV — Materias primas, otros ingredientes y aditivos. Características de los productos terminados
+
+### Art. 13. Materias primas y otros ingredientes.
+
+13.1 Materias primas.–Tienen la consideración de tales todas las especias naturales contempladas en esta Reglamentación.
+
+13.2 Otros ingredientes.–En la elaboración de condimentos preparados y sucedáneos de especias se autoriza el empleo de los siguientes productos, que deberán cumplir los requisitos que les exija la legislación vigente específica, si la hubiera.
+
+13.2.1 Condimentos preparados.–Especias naturales, vegetales deshidratadas, sal, azúcares, harinas, féculas, almidones, vinagre, grasas y aceites comestibles.
+
+13.2.2 Sucedáneos de especias.–Harinas, almidones, féculas, azúcares, aceite vegetal comestible y harinas de cáscara de (cacao, piñón, almendra y hueso de aceituna).
+
+### Art. 14. Aditivos.
+
+**(Derogado)**
+
+> Se deroga por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se derogan apartados 1.1, 2.2 a 7, 3.2 y 3.3 por la disposición derogatoria única.48 del Real Decreto 145/1997, de 31 de enero. [Ref. BOE-A-1997-6156](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-6156).
+
+> Se derogan los apartados 2.1 y 3.1 por la disposición derogatoria única.8 del Real Decreto 2001/1995, de 7 de diciembre. [Ref. BOE-A-1996-1387](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-1387).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 89, de 13 de abril de 1985. [Ref. BOE-A-1985-5824](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-5824).
+
+### Art. 15. Características de los productos terminados.
+
+15.1 Condiciones generales:
+
+**(Derogado)**
+
+15.2 Características específicas:
+
+1\. Las distintas especias o condimentos naturales deberán ajustarse a las especificaciones que se señalan en el cuadro que se acompaña como anexo hasta tanto no se hayan redactado las normas específicas para cada una de las especias citadas.
+
+2\. Los condimentos preparados se ajustarán en su composición a las declaraciones que hagan los fabricantes, manipuladores o importadores al Órgano competente de la Administración del Estado o de la Comunidad Autónoma correspondiente.
+
+No obstante, el producto que a continuación se indica, cuya definición se incluye, deberá cumplir las especificaciones que se señalan:
+
+2.2 Azúcar vainillado o vainillina azucarada.–Se denomina así al producto constituido por una mezcla de azúcar con vainillina sintética o etilvainillina, en proporciones minimas de 7 ó 2 por 1.000, respectivamente.
+
+> Se deroga el apartado 1 por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se deroga el apartado 1.7 por el art. único.n) del Real Decreto 135/2010, de 12 de febrero. [Ref. BOE-A-2010-3032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3032).
+
+## TÍTULO V — Envasado, rotulación, presentación y publicidad
+
+### Art. 16. Envasado.
+
+**(Derogado)**
+
+> Se deroga por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 17. Rotulación, presentación y publicidad.
+
+**(Derogado)**
+
+> Se deroga por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 18.
+
+La información del etiquetado de los envases de los productos sujetos a esta Reglamentación que vayan destinados al consumidor final o restaurantes, hospitales y otros establecimientos y colectividades similares constará obligatoriamente de las siguientes especificaciones:
+
+18.1 Denominación del producto.
+
+Serán las definiciones y denominaciones específicas de la presente Reglamentación Técnico-Sanitaria contempladas en los artículos 2.º, 3.º, 4.º y 5.º
+
+Los sucedáneos de especias llevarán en sitio visible la frase «Sucedáneo de...» (nombre de la especia), que deberá imprimirse en igual tipo, tamaño, color de letra y sobre el mismo tono de fondo que se utilice para el nombre comercial, debiéndose indicar asimismo su materia originaria, utilizándose iguales caracteres gráficos en ambas indicaciones.
+
+En los sucedáneos de especias no se permitirá emplear denominaciones e imágenes relacionadas con la especia que marca su denominación.
+
+18.2 Lista de ingredientes.
+
+**(Derogado)**
+
+18.3 Contenido neto.
+
+**(Derogado)**
+
+18.4 Marcado de la fecha.
+
+**(Derogado)**
+
+18.5 Identificación de la empresa.
+
+**(Derogado)**
+
+18.6 Identificación del lote de fabricación.
+
+**(Derogado)**
+
+> Se derogan los apartados 2 a 6 por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 19.
+
+**(Derogado)**
+
+> Se deroga por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 20. País de origen.
+
+**(Derogado)**
+
+> Se deroga por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 21.
+
+**(Derogado)**
+
+> Se deroga por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VI — Almacenamiento, transporte, venta, exportación e importación
+
+### Art. 22. Almacenamiento y transporte.
+
+**(Derogado)**
+
+> Se deroga por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Art. 23. Exportación.
+
+Los productos objeto de esta Reglamentación dedicados a la exportación se ajustarán a lo que dispongan en esta materia los Ministerios competentes. Cuando estos productos no cumplan lo dispuesto en esta Reglamentación llevarán en caracteres bien visibles impresa la palabra «EXPORT» y no podrán comercializarse ni consumirse en España, salvo autorización expresa de los Ministerios responsables previo informe favorable de la Comisión Interministerial para la Ordenación Alimentaria y siempre que no afecte a las condiciones de carácter sanitario.
+
+### Art. 24. Importación.
+
+**(Derogado)**
+
+> Se deroga por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VII — Responsabilidades y competencias
+
+### Arts. 25 a 27.
+
+**(Derogados)**
+
+> Se derogan por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VIII — Métodos de análisis
+
+### Art. 28.
+
+**(Derogado)**
+
+> Se deroga por el art. 34 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## ANEXO — Características de productos terminados
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Especias</p>
+</td>
+<td>
+<p>Humedad</p>
+<p>–</p>
+<p>Porcentaje máximo</p>
+</td>
+<td>
+<p>Cenizas T.</p>
+<p>–</p>
+<p>Porcentaje máximo</p>
+</td>
+<td>
+<p>Cenizas Ins. CLH</p>
+<p>–</p>
+<p>Porcentaje máximo</p>
+</td>
+<td>
+<p>Extracto etéreo</p>
+<p>–</p>
+<p>Porcentaje</p>
+</td>
+<td>
+<p>Fibra bruta</p>
+<p>–</p>
+<p>Porcentaje máximo</p>
+</td>
+<td>
+<p>Nitrógeno</p>
+<p>–</p>
+<p>Porcentaje mínimo</p>
+</td>
+<td>
+<p>Esencia</p>
+<p>–</p>
+<p>Porcentaje mínimo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Macis</p>
+</td>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>20-30</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ajo en polvo (deshidratado)</p>
+</td>
+<td>
+<p>6,75</p>
+</td>
+<td>
+<p>8,5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,5-1,3</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cebolla en polvo (deshidratada)</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,5-2</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Canela</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>0,8-2</p>
+</td>
+<td>
+<p>34</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alcaparras</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>5 (Máx.)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>&lt; 30</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Azafrán</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>3,5-14,5</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Clavo</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>10 (Mín.)</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Anís</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Apio</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>12*</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>10 (Mín.)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Badiana</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>3,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cardamomo</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cilantro</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Comino</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Enebro</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>3-10</p>
+</td>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hinojo</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>11*</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pimentón</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>10*</p>
+</td>
+<td>
+<p>1*</p>
+</td>
+<td>
+<p>25 (Máx.) *</p>
+</td>
+<td>
+<p>30 *</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pimienta blanca</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>3,5</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+<td>
+<p>6 (Mín.)</p>
+</td>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pimienta Cayena</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>8,5*</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>15 (Mín.)</p>
+</td>
+<td>
+<p>28</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pimienta Jamaica</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>3 (Mín.)</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pimienta negra</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>6-11</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vainilla</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>6-10</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ajedrea</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Artemisa</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Espliego</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Estragón</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>15*</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Laurel</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mejorana</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>4-6</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Menta</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Orégano</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>5-6</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Perejil</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2-5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poleo</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Romero</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>12*</p>
+</td>
+<td>
+<p>3,5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Salvia</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tomillo</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>14*</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cúrcuma</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Galanga</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Jengibre</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ajonjolí</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alcaravea</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mostaza</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>20-35</p>
+</td>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>3-5</p>
+</td>
+<td>
+<p>0,2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nuez moscada</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>25 (Mín.)</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cálamo (rizoma entero y seco)</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Albahaca<sup>(2)</sup></p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>2,0</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>–</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,5<sup>(1)</sup></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alholva<sup>(3)</sup> (fenogreco)</p>
+</td>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>–</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Eneldo Semilla</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>–</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Eneldo Hoja</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>2,0</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>–</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Kalonji (Neguilla)</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>2,0</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>–</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pimienta rosa</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>–</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td colspan="8">
+<p>(1) Los contenidos mínimos de esencia se aplicarán a los productos no tratados por vapor.<br>(2) Según ISO 11163:1995.<br>(3) Según ISO 6575:1982.</p>
+<p>* Datos expresados sobre sustancia seca.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Especificaciones complementarias
+
+Macis.–Aceite volátil que contendrá ácido mirístico, pineno y fenoles. Extracto alcohólico, 19-25 por 100.
+
+Ajo.–Aceite volátil que contendrá disulfuro de dialilo y disulfuro de alilo y propilo.
+
+Canela.–Aceite volátil que contendrá aldehído cinámico y eugenol. Extracto alcohólico, 4,5-12 por 100.
+
+Alcaparras.–No contendrán más de 30 por 100 de materia nitrogenada ni de 5 por 100 de materia grasa calculados sobre sustancia privada del líquido de cobertura y seca.
+
+Clavo.–Aceite volátil que contendrá eugenol. No contendrá más del 5 por 100 de tallitos, pedúnculos y frutos del clavo.
+
+Azafrán.–La proporción de estilos de la misma procedencia no excederá del 10 por 100.
+
+Anís.–Aceite volátil que contendrá anetol.
+
+Apio.–Aceite volátil que contendrá d-limoneno.
+
+Pimienta de Jamaica.–Aceite volátil que contendrá eugenol y cineol.
+
+Pimienta negra.–La pimienta negra en grano no debe contener más del 5 por 100 de pedúnculos y frutos abortados. Extracto alcohólico de 6-11 por 100.
+
+Pimienta blanca.–Extracto alcohólico mínimo, 6 por 100.
+
+Vainilla.–Extracto alcohólico no menos del 46 por 100 y en la vainillina natural no menos del 1,5 por 100.
+
+Artenisa y espliego.–Datos expresados sobre sustancia seca.
+
+Estragón.–Extracto alcohólico, 2-6 por 100.
+
+Mejorana.–Extracto alcohólico, 6-13 por 100. Se tolerará hasta el 5 por 100 de tallos y restos florales.
+
+Orégano.–Extracto alcohólico, 6-13 por 100.
+
+Nuez moscada.–Aceite volátil que contendrá miristicina, un principio narcótico, pineno, canfeno y safrol. A dosis excesivas, tanto la nuez moscada como su aceite volátil son tóxicos.
+
+Nota: Con carácter general y con las excepciones señaladas se permitirá la presencia de otras partes procedentes del mismo vegetal y materias inofensivas heterogéneas hasta un máximo del 2 por 100. Asimismo queda prohibido en la elaboración y comercialización de las especias la presencia de insectos en cualquiera de sus fases de desarrollo y otras impurezas que denoten un deficiente estado higiénico sanitario.
+
+> Se modifica por el art. único.3 del Real Decreto 40/2010, de 15 de febrero. [Ref. BOE-A-2010-1084](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1084).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 89, de 13 de abril de 1985. [Ref. BOE-A-1984-27961](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-27961).

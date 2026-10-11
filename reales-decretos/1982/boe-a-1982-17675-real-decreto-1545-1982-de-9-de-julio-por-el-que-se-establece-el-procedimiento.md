@@ -1,0 +1,119 @@
+---
+title: "Real Decreto 1545/1982, de 9 de julio, por el que se establece el procedimiento unificado para la concesión de créditos y avales del artículo cuarto de la Ley 21/1982, de 9 de junio, sobre medidas de reconversión industrial"
+identifier: "BOE-A-1982-17675"
+eli: "https://www.boe.es/eli/es/rd/1982/07/09/1545"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1982-07-09
+published: 1982-07-16
+in_force_from: 1982-07-17
+last_amended: 1983-04-14
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 169"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-17675"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1545/1982, de 9 de julio, por el que se establece el procedimiento unificado para la concesión de créditos y avales del artículo cuarto de la Ley 21/1982, de 9 de junio, sobre medidas de reconversión industrial
+
+La promulgación de la Ley veintiuno/mil novecientos ochenta y dos de nueve de junio, sobre medidas para la reconversión industrial que ha venido a sustituir el Real Decreto-ley nueve/mil novecientos ochenta y uno, de cinco de junio, así como la de los sucesivos Reales Decretos por los que se han declarado en reconversión determinados sectores industriales en los que, dentro de un común denominador se ha establecido una regulación distinta en cuanto al procedimiento de concesión de ciertos beneficios de carácter financiero, hace necesario que se unifique dicho procedimiento, al propio tiempo que se fijan con carácter general sus condiciones.
+
+En su virtud, a propuesta de los Ministros de Economía y Comercio e Industria y Energía, previa deliberación del Consejo de Ministros en su reunión del día nueve de julio de mil novecientos ochenta y dos, dispongo:
+
+### Artículo primero.
+
+La concesión de créditos y avales a que se refiere el artículo cuarto de la Ley veintiuno/mil novecientos ochenta y dos, de nueve de junio, sobre medidas para la reconversión industrial, se efectuará por la Comisión Delegada del Gobierno para Asuntos Económicos, de conformidad con el procedimiento regulado en el presente Real Decreto.
+
+La concesión de los créditos y avales a que se refiere el párrafo anterior se ajustará a la cifra total que, a tal fin, se señalen en los Presupuestos Generales del Estado de cada año y a la que, a su vez, se hayan establecido en los respectivos Reales Decretos de reconversión.
+
+La Comisión Delegada del Gobierno para Asuntos Económicos acordará, para cada año y durante la vigencia de la reconversión industrial, en función de la cuantía global que se establezca en los Presupuestos Generales del Estado las cifras máximas de créditos y avales que se puedan conceder.
+
+### Artículo segundo.
+
+Las Comisiones Ejecutivas de cada Plan de Reconversión Industrial formularán la correspondiente propuesta de los créditos o avales a conceder a cada Empresa.
+
+El Ministro de Industria y Energía elevará la propuesta a la Comisión Delegada del Gobierno para Asuntos Económicos para su resolución. Dicha propuesta contendrá la cifra máxima de crédito o aval que se conceda a cada Empresa en forma individualizada, así como los plazos máximos de amortización y carencia.
+
+### Artículo tercero.
+
+Las condiciones de los créditos que se concedan al amparo de lo dispuesto en el artículo cuarto de la Ley veintiuno/mil novecientos ochenta y dos, de nueve de junio, serán las siguientes:
+
+a) Cuantía, la que señale para cada Empresa acogida a la reconversión industrial la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+b) Tipo de interés, el que esté establecido para la línea industrial general del Banco de Crédito Industrial.
+
+c) Plazo de amortización, siete años como máximo con una carencia no superior a dos años.
+
+d) En cuanto a las garantías, se autoriza al Banco de Crédito Industrial para instrumentar los créditos que se concedan con la garantía general de la Empresa.
+
+La disposición de los créditos quedará condicionada al informe previo favorable de la Comisión Ejecutiva de cada Plan.
+
+### Artículo cuarto.
+
+Los avales que se concedan al amparo de lo establecido en el artículo cuarto de la Ley veintiuno/mil novecientos ochenta y dos, de nueve de junio, garantizará créditos nuevos, en pesetas, de Entidades financieras, en las siguientes condiciones:
+
+a) Cuantía, la que señale para cada Empresa acogida a la reconversión industrial la Comisión Delegada del Gobierno para Asuntos Económicos. Los avales podrán garantizar, además del principal, intereses, comisiones, gastos y otros conceptos accesorios hasta un máximo de la mitad del principal.
+
+b) Plazo máximo, siete años.
+
+c) El tipo de interés de los créditos avalados será el convenido entre la Entidad prestamista y el prestatario, siempre que sea aceptado por el Banco de Crédito Industrial, teniendo en cuenta las circunstancias del mercado.
+
+d) En cuanto a las garantías, se autoriza al Banco de Crédito Industrial para instrumentar los avales que se concedan con la garantía general de la Empresa.
+
+Para que la Entidad oficial de crédito correspondiente pueda instrumentar los avales a que se refiere este artículo será necesario informe favorable de la Comisión Ejecutiva del Plan correspondiente, sobre el cumplimiento por la Empresa de los compromisos asumidos en el expediente de acogimiento al mismo y sobre la inclusión del crédito para el que se solicitó el aval en el programa de reconversión de la Empresa.
+
+> Se modifica el apartado a) por el art. único del Real Decreto 737/1983, de 30 de marzo. [Ref. BOE-A-1983-10141](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-10141)
+
+### Artículo quinto.
+
+Podrán ser beneficiarios de los créditos y avales a que se refiere el artículo cuarto de la Ley veintiuno/mil novecientos ochenta y dos, de nueve de junio, todas las Empresas acogidas a los planes de reconversión industrial, aunque los Reales Decretos sectoriales hayan sido publicados con anterioridad al Real Decreto-ley nueve/mil novecientos ochenta y uno, de cinco de junio, o a la Ley veintiuno/mil novecientos ochenta y dos, de nueve de junio.
+
+Los avales que se concedan por las Entidades oficiales de crédito tendrán carácter solidario, sin perjuicio de la subsidiariedad del Tesoro a que se refiere el punto dos del artículo cuarto de la Ley veintiuno/mil novecientos ochenta y dos, de nueve de junio.
+
+### Artículo sexto.
+
+Los créditos y avales que se concedan al amparo de lo que dispone en el artículo cuarto de la Ley veintiuno/mil novecientos ochenta y dos, de nueve de junio, se destinarán a la financiación de inversiones que figuren en los respectivos planes de reconversión o para mejorar la estructura financiera de las Empresas.
+
+### Artículo séptimo.
+
+La concesión de los créditos y avales a que se refiere este Real Decreto se publicarán por Orden del Ministerio de Economía y Comercio en el «Boletín Oficial del Estado».
+
+### Artículo octavo.
+
+La refinanciación a que se refiere el apartado dos del artículo quinto del Real Decreto novecientos diecisiete/mil novecientos ochenta y dos, de veintiséis de marzo, sobre medidas de reconversión del sector siderúrgico, subsector de aceros comunes, fabricantes de redondos y perfiles ligeros, se efectuará en las siguientes condiciones:
+
+a) Interés, el que esté establecido para la línea industrial general del Banco de Crédito Industrial.
+
+b) Garantía, la que rigiese o estuviera convenida con relación a los créditos refinanciados. No obstante, el Banco de Crédito Industrial podrá tomar otras garantías complementarias si aquélla resultara insuficiente.
+
+El Ministerio de Industria y Energía informará al Banco de Crédito Industrial sobre el cumplimiento por parte de las Empresas, de lo prevenido en el apartado tres del artículo quinto del Real Decreto novecientos diecisiete/mil novecientos ochenta y dos, de veintiséis de marzo.
+
+La Comisión Ejecutiva del Plan de Reconversión del Sector determinará los créditos o los vencimientos a que se ha de aplicar la refinanciación y el período de reconversión durante el que será aplicable.
+
+### Artículo noveno.
+
+La refinanciación de los créditos excepcionales concedidos al amparo de lo dispuesto en el artículo treinta y siete de la Ley doce/mil novecientos setenta y uno, de diecinueve de junio, con relación a las Empresas del sector siderúrgico no integral y de aceros comunes acogidos al Real Decreto novecientos diecisiete/mil novecientos ochenta y dos, de veintiocho de marzo, se efectuará para cada Empresa por la Comisión Delegada del Gobierno para Asuntos Económicos quien fijará, además, sus condiciones.
+
+### Artículo décimo.
+
+Los créditos excepcionales concedidos al amparo de lo dispuesto en el artículo treinta y siete de la Ley trece/mil novecientos setenta y uno, de diecinueve de junio, para la financiación de inversiones a que se refiere el artículo once punto dos del Real Decreto ochocientos setenta y ocho/mil novecientos ochenta y uno, de ocho de mayo, se instrumentará en las mismas condiciones señaladas en el artículo tercero del presente Real Decreto.
+
+## DISPOSICIÓN DEROGATORIA
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto.
+
+## DISPOSICIÓN FINAL
+
+El presente Real Decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a nueve de julio de mil novecientos ochenta y dos.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+MATÍAS RODRÍGUEZ INCIARTE

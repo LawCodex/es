@@ -1,0 +1,331 @@
+---
+title: "Orden de 30 de diciembre de 1985 por la que se regula el Vuelo sin motor"
+identifier: "BOE-A-1986-1962"
+eli: "https://www.boe.es/eli/es/o/1985/12/30/(3)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Transportes, Turismo y Comunicaciones"
+date: 1985-12-30
+published: 1986-01-24
+in_force_from: 1986-01-25
+last_amended: 1995-07-25
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 21"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-1962"
+retrieved: 2026-10-11
+---
+
+# Orden de 30 de diciembre de 1985 por la que se regula el Vuelo sin motor
+
+Ilustrísimos señores:
+
+El desarrollo de la práctica y enseñanza del Vuelo a Vela aconsejan la promulgación de una disposición reguladora, al considerar la evolución constante del material y de las técnicas de Vuelo a Vela, así como la conveniencia de adaptar esta nueva regulación a la normativa de Organismos internacionales de los que nuestro país forma parte.
+
+En su virtud, este Ministerio ha dispuesto lo siguiente:
+
+### Art. 1. Competencia del Ministerio de Transportes, Turismo y Comunicaciones.
+
+1\. Competen al Ministerio de Transportes, Turismo y Comunicaciones, a través de la Dirección General de Aviación Ovil, regular, dirigir e inspeccionar la práctica y enseñanza del Vuelo a Vela que se realicen en territorio nacional, coordinando las iniciativas que en cuanto a promoción y fomento de esta modalidad de vuelo puedan desarrollar otros Organismos.
+
+2\. **(Derogado)**
+
+3\. **(Derogado)**
+
+> Se derogan los apartados 2 y 3 por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se derogan los apartados 2 y 3 por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+> Téngase en cuenta que la Sentencia de la AN de 26 de noviembre de 1993 anula esta Orden, disponiéndose su cumplimiento por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+### Art. 2. Requisitos para la apertura de un Centro de Vuelo a Vela.
+
+a) Para la apertura de un Centró de Vuelo a Vela, la persona natural o jurídica interesada habrá de solicitar por escrito la pertinente autorización del Ministerio de Transportes, Turismo y Comunicaciones, cursando su petición a través de la Dirección General de Aviación Civil.
+
+b) En la solicitud se consignarán las instalaciones, personal y material con que se cuente para el desarrollo de su actividad adjuntando la documentación justificativa de la existencia y título de uso o de asignación de todo ello.
+
+### Art. 3. Medios.
+
+a) Los medios mínimos indispensables para autorizar la apertura de un Centro de Vuelo a Vela sin Escuela son los siguientes:
+
+1\. Un Jefe de Vuelos o persona que reúna las condiciones legales para serlo.
+
+2\. Una superficie terrestre autorizada.
+
+3\. Un medio de remolque o lanzamiento.
+
+4\. Un sistema de comunicaciones por radio, o un sistema de señales.
+
+5\. Un botiquín para asistencia sanitaria de urgencia.
+
+6\. Un planeador.
+
+b) Los medios mínimos, indispensables para autorizar la apertura de un Centro de Vuelo a Vela con Escuela, son los siguientes:
+
+1\. Un Piloto de planeador, con la calificación de Instructor de Vuelo en planeador.
+
+2\. Un planeador de doble mando.
+
+3\. Los exigidos para los Centros de Vuelo a Vela sin Escuela en los apartados 1, 2, 3, 4 y 5 del párrafo precedente.
+
+c) Los promotores de Centros de Vuelo a Vela podrán solicitar y obtener de la Dirección General de Aviación Civil, previas las garantías necesarias, el préstamo de material para la realización de sus actividades, así como el apoyo técnico y operativo correspondiente.
+
+### Art. 4. Jefe de Vuelo.
+
+Para el desempeño de las funciones de Jefe de Vuelos en los Centros de Vuelo a Vela se deberán reunir las condiciones siguientes:
+
+a) Ser mayor de edad.
+
+b) Poseer el título de Piloto de Planeador, con experiencia mínima de 100 horas de vuelo a vela.
+
+c) Poseer la insignia de plata de vuelo a vela.
+
+### Art. 5. Instructor de Planeador.
+
+Requisitos para la calificación de Instructor de Vuelo.
+
+a) Ser mayor de edad.
+
+b) Estudios mínimos: Bachiller Superior.
+
+c) Poseer el título de Piloto de Planeador.
+
+d) Tener aprobado un curso de Instructor de Planeador, por la Dirección General de Aviación Civil.
+
+### Art. 6. Inspecciones.
+
+a) La Dirección General de Aviación Civil ordenará una visita de inspección a la apertura de los Centros de Vuelo a Vela a los que se refiere esta disposición y, con posterioridad, las periódicas que se estimen pertinentes.
+
+b) El material de vuelo será objeto de las revisiones periódicas y generales reglamentarias, debiendo mantenerse con sujeción a las previsiones de los manuales técnicos, cumplimentándose con toda exactitud las anotaciones preceptivas en los diarios de a bordo.
+
+### Art. 7. Documentación de los Centros de Vuelo a Vela.
+
+Los Centros de Vuelo a Vela llevarán la documentación siguiente:
+
+a) Deberá figurar en sitio perfectamente visible en las dependencias del Centro la correspondiente autorización expedida por la Dirección General de Aviación Civil.
+
+b) Las hojas de cronometración, en las que se anotarán diariamente los vuelos efectuados por los Pilotos y Alumnos y que recopilados, formarán el Libro Diario de Vuelos.
+
+c) Un parte mensual de actividades, en modelo oficial, formulado por el Jefe de Vuelos que se remitirá a la Dirección General de Aviación Civil, dentro de los quince primeros días del mes siguiente.
+
+### Art. 8. Prácticas de vuelo.
+
+Los Centros de Vuelo a Vela a que se refiere esta normativa, desarrollarán sus actividades de vuelo bajo la supervisión del Jefe de Vuelos o, en su defecto, del Piloto que éste designe para que le sustituya durante su ausencia.
+
+### Art. 9. Funciones del Jefe de Vuelos.
+
+Corresponde al Jefe de Vuelos las funciones siguientes, en orden a la supervisión de las actividades de vuelo:
+
+a) Determinar su comienzo y fin.
+
+b) Verificar que los vuelos se desarrollen de acuerdo con la normativa vigente.
+
+c) Determinar la colocación de los sistemas de remolque y pista en servicio.
+
+d) Establecer el orden de los vuelos.
+
+e) Establecer las comunicaciones aire-tierra y viceversa.
+
+f) Autorizar con su firma la hoja de cronometración al finalizar los vuelos, comprobando la exactitud de las anotaciones.
+
+g) Autentificar con su firma y el sello del Centro las cartillas de vuelo, los diarios de a bordo y los certificados de vuelo.
+
+h) Realizar los vuelos de prueba relacionados con el mantenimiento y la seguridad en vuelo.
+
+Esta atribución podrá ser delegada por un Piloto expresamente autorizado por el Jefe de Vuelos para dicha operación.
+
+### Art. 10. Instrucción.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+> Téngase en cuenta que la Sentencia de la AN de 26 de noviembre de 1993 anula esta Orden, disponiéndose su cumplimiento por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+### Art. 11. Alumno-Piloto.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+> Téngase en cuenta que la Sentencia de la AN de 26 de noviembre de 1993 anula esta Orden, disponiéndose su cumplimiento por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+### Art. 12. Súbditos extranjeros.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+> Téngase en cuenta que la Sentencia de la AN de 26 de noviembre de 1993 anula esta Orden, disponiéndose su cumplimiento por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+### Art. 13. Actividad.
+
+Los Centros de Vuelo a Vela con Escuela desarrollarán su actividad de enseñanza bajo la supervisión y responsabilidad de un Instructor de Vuelo a Vela.
+
+### Art. 14. Curso.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+> Téngase en cuenta que la Sentencia de la AN de 26 de noviembre de 1993 anula esta Orden, disponiéndose su cumplimiento por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+### Art. 15. Facilitación.
+
+a) La instrucción de vuelo en doble mando con Instructor se puede realizar, en parte, en motoplaneadores de despegue independiente.
+
+b) Para los aspirantes en posesión de licencia de vuelo para Pilotos de aviones con motor se reduce a la instrucción, a juicio del Instructor, de acuerdo con su grado .de pericia y experiencia, debiendo acreditar únicamente seis horas de vuelo solo, con diez despegues y aterrizajes.
+
+### Art. 16. Requisitos para vuelo solo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+> Téngase en cuenta que la Sentencia de la AN de 26 de noviembre de 1993 anula esta Orden, disponiéndose su cumplimiento por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+### Art. 17. Exámenes.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+> Téngase en cuenta que la Sentencia de la AN de 26 de noviembre de 1993 anula esta Orden, disponiéndose su cumplimiento por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+### Art. 18. Atribuciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+> Téngase en cuenta que la Sentencia de la AN de 26 de noviembre de 1993 anula esta Orden, disponiéndose su cumplimiento por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+### Art. 19. Título y licencia.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+> Téngase en cuenta que la Sentencia de la AN de 26 de noviembre de 1993 anula esta Orden, disponiéndose su cumplimiento por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+### Art. 20. Convalidaciones OACI.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+> Téngase en cuenta que la Sentencia de la AN de 26 de noviembre de 1993 anula esta Orden, disponiéndose su cumplimiento por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+### Art. 21. Duración, prórroga y renovación de licencias y calificaciones.
+
+a) **(Derogada)**
+
+b) **(Derogada)**
+
+c) **(Derogada)**
+
+d) **(Derogada)**
+
+e) Los Pilotos cuya licencia hubiere caducado o que no hubieren realizado vuelos por el mínimo de una hora y de tres vuelos como Piloto al mando durante los últimos doce meses, habrán de acreditar que han practicado doble mando en vuelo con un Instructor en un Centro de Vuelo a Vela con Escuela y un vuelo solo a bordo, supervisado por el referido Instructor, dentro de los sesenta días anteriores a la solicitud de la renovación de la licencia.
+
+f) Para renovar la calificación de Instructor será suficiente acreditar uno cualquiera de los requisitos siguientes:
+
+1\. Haber efectuado un mínimo de tres horas de vuelo de instrucción durante los últimos doce meses.
+
+2\. Estar ejerciendo funciones de Inspector o Instructor de la Dirección General de Aviación Civil.
+
+g) Los Pilotos de Planeador, que al renovar la licencia con la calificación de Instructor, no pudieran acreditar ninguno de los requisitos exigidos en el párrafo anterior, deberán someterse a un curso de refresco que determine la Dirección General de Aviación Civil.
+
+> Se derogan las letras a) a d) por la disposición derogatoria única de la Orden de 14 de julio de 1995. [Ref. BOE-A-1995-17862](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17862).
+
+> Se derogan las letras a) a d) por la disposición derogatoria de la Orden de 30 de noviembre de 1990. [Ref. BOE-A-1990-30526](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-30526).
+
+> Téngase en cuenta que la Sentencia de la AN de 26 de noviembre de 1993 anula esta Orden, disponiéndose su cumplimiento por Resolución de 6 de junio de 1995. [Ref. BOE-A-1995-16224](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-16224).
+
+### Art. 22. Remolques.
+
+Ninguna persona puede actuar remolcando planeadores, a no ser que esté familiarizado con los sistemas, técnicas y procedimientos de remolque de planeadores con seguridad y sin incidentes, conociendo limitaciones de velocidad, procedimiento de emergencia, señales usadas y máxima inclinación del avión remolcador en los virajes.
+
+Requisitos generales:
+
+a) Título de Piloto de Planeador.
+
+b) Tener la autorización del Jefe de Vuelos.
+
+Requisitos para remolque de planeador por avión:
+
+a) Cumplir los requisitos a) y b) del párrafo anterior.
+
+b) Título de Piloto privado o superior con la experiencia mínima:
+
+1\. De cien horas de Piloto en aviones con motor; o
+
+2\. Doscientas horas en total de Piloto en aviones con y sin motor.
+
+c) Haber realizado y registrado en su cartilla de vuelos, al menos tres vuelos como Operador a los mandos de un avión remolcando un planeador, acompañado por un Piloto experimentado que reúna los requisitos de remolcador.
+
+### Art. 23. Motoplaneadores.
+
+Se considera la modalidad de motoplaneador con sistema de despegue independiente, como una calificación para Pilotos con licencia de Piloto de Planeador.
+
+Para la anotación de la calificación de Motoplaneador, en una licencia de Piloto de Planeador se han de reunir los requisitos siguientes:
+
+a) Tener aprobado el examen escrito teórico equivalente al Piloto privado de motor.
+
+b) La autorización para realizar servicios de radiotelefonía.
+
+c) Un curso de iniciación en el pilotaje y manejo de motoplaneadores, su dominio en circunstancias especiales de vuelo incluyendo el comportamiento en casos de emergencia; debiendo justificar cinco horas solo a bordo en diez vuelos, de los cuales cinco aproximaciones y aterrizajes con motor parado y un viaje triangular de unos 100 kilómetros solo a bordo, con dos aterrizajes en aeródromos diferentes al de salida.
+
+d) El aspirante se deberá someter a una comprobación realizada por un Inspector de Vuelo nombrado por la Dirección General de Aviación Civil.
+
+### Art. 24. Accidentes.
+
+En caso de accidente de un avión o un planeador, el Jefe de Vuelos lo comunicará inmediatamente y por el medio más rápido a la Dirección General de Aviación Civil, Comisión de Accidentes.
+
+Con posterioridad a la notificación preceptuada en el párrafo anterior, el Jefe de Vuelos remitirá a la Dirección General de Aviación Civil una información comprensiva de todas las circunstancias que concurrieron en el accidente.
+
+### Art. 25. Sanciones.
+
+Todas las infracciones cometidas contra esta Reglamentación por los Alumnos-Pilotos o Pilotos de planeador podrán ser objeto de expediente sancionador con arreglo a lo previsto en la Ley de Navegación Aérea.
+
+## DISPOSICIONES FINALES
+
+### Primera.
+
+El desarrollo de las actividades de vuelo previstas en esta disposición se circunscribirán a las zonas y espacios aéreos en cada caso establecidas.
+
+### Segunda.
+
+Quedan derogadas las Órdenes del Aire de 6 de julio de 1942, sobre la enseñanza del Vuelo sin motor; la 1.189/1974, de 17 de abril, regulando las Secciones de Vuelo sin motor, y la 1.424/1976, de 26 de mayo, complementaria de la anterior, así como cuantas disposiciones de igual o inferior rango se opongan a lo que en la presente se dispone.
+
+### Tercera.
+
+Esta Orden entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Lo que digo a VV. II.
+
+Madrid, 30 de diciembre de 1985.
+
+CABALLERO ÁLVAREZ
+
+lImos. Sres. Subsecretario y Director general de Aviación Civil.

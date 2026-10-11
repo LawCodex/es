@@ -1,0 +1,1245 @@
+---
+title: "Real Decreto 1690/1986, de 11 de julio, por el que se aprueba el Reglamento de Población y Demarcación Territorial de las Entidades Locales"
+identifier: "BOE-A-1986-21944"
+eli: "https://www.boe.es/eli/es/rd/1986/07/11/1690"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Administración Territorial"
+date: 1986-07-11
+published: 1986-08-14
+in_force_from: 1986-08-15
+last_amended: 2024-02-07
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 194"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-21944"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1690/1986, de 11 de julio, por el que se aprueba el Reglamento de Población y Demarcación Territorial de las Entidades Locales
+
+La disposición final primera de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local establece que el Gobierno procederá a actualizar y acomodar a lo dispuesto en la misma las normas reglamentarias que continúen vigentes y en particular, entre otros, el Reglamento de Población y Demarcación Territorial de las Entidades Locales, aprobado por Decreto de 17 de mayo de 1952, con las modificaciones de que haya sido objeto por disposiciones posteriores.
+
+En cumplimiento de tal mandato se ha procedido a redactar el nuevo Reglamento.
+
+En su virtud, a propuesta del Ministro de Administración Territorial, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de julio de 1986,
+
+DISPONGO:
+
+#### Artículo único.
+
+Se aprueba el Reglamento de Población y Demarcación Territorial de las Entidades Locales, cuyo texto se inserta a continuación.
+
+Dado en Madrid a 11 de julio de 1986.
+
+JUAN CARLOS R.
+
+El Ministro de Administración Territorial,
+
+FELIX PONS IRAZAZABAL
+
+## REGLAMENTO DE POBLACIÓN Y DEMARCACIÓN TERRITORIAL DE LAS ENTIDADES LOCALES
+
+## TÍTULO I — Del territorio
+
+#### Art. 1.
+
+1\. El término municipal es el territorio en que el Ayuntamiento ejerce sus competencias.
+
+2\. Todo municipio pertenecerá a una sola provincia.
+
+3\. El término municipal está formado por territorios continuos, pero podrán mantenerse las situaciones de discontinuidad que estén reconocidas actualmente.
+
+4\. Es competencia del Ayuntamiento la división del término municipal en distritos y en barrios y las variaciones de los mismos.
+
+### CAPÍTULO I — Alteraciones de los términos municipales
+
+#### Art. 2.
+
+Los términos municipales podrán ser alterados:
+
+Primero.–Por incorporación de uno o más municipios a otro u otros limítrofes.
+
+Segundo.–Por fusión de dos o más municipios limítrofes.
+
+Tercero.–Por segregación de parte del territorio de uno o varios municipios para constituir otro independiente.
+
+Cuarto.–Por segregación de parte del territorio de un municipio para agregarla a otro limítrofe.
+
+#### Art. 3.
+
+La creación de nuevos municipios sólo podrá realizarse sobre la base de núcleos de población territorialmente diferenciados y siempre que los municipios resultantes cuenten con recursos suficientes para el cumplimiento de las competencias municipales y no suponga disminución en la calidad de los servicios que venían siendo prestados.
+
+#### Art. 4.
+
+1\. La incorporación de uno o más municipios a otro u otros limítrofes podrá acordarse cuando existan necesidades o conveniencia económica o administrativa, o lo imponga la mejora de la capacidad de gestión de los asuntos públicos locales.
+
+2\. La incorporación implicará la anexión del término o términos municipales a otro municipio, en el cual quedará integrada a todos los efectos la personalidad de los municipios incorporados.
+
+3\. Los motivos a que obedezca el acuerdo de incorporación deberán constar en el expediente que al efecto se instruya.
+
+#### Art. 5.
+
+1\. La fusión de municipios limítrofes a fin de constituir uno nuevo podrá realizarse:
+
+a) Cuando separadamente carezcan de recursos suficientes para atender los servicios mínimos exigidos por la Ley.
+
+b) Cuando como consecuencia del desarrollo urbanístico se confundan sus núcleos urbanos, sin que constituyan solución de continuidad a este efecto los parques, jardines, paseos, avenidas, campos de deportes y zonas residenciales que pudieran existir entre aquéllos.
+
+c) Cuando existan notorios motivos de necesidad o conveniencia económica o administrativa.
+
+2\. Sin perjuicio de las competencias de las Comunidades Autónomas, el Estado, atendiendo a criterios geográficos, sociales, económicos y culturales, podrá establecer medidas que tiendan a fomentar la fusión de municipios con el fin de mejorar la capacidad de gestión de los asuntos públicos locales.
+
+#### Art. 6.
+
+1\. Podrán ser constituidos nuevos municipios mediante la segregación de parte del territorio de otro u otros, cuando existan motivos permanentes de interés público, relacionados con la colonización interior, explotación de minas, instalación de nuevas industrias, creación de regadíos, obras públicas y otros análogos.
+
+2\. Será necesario que los nuevos municipios reúnan las condiciones previstas en el artículo 3.º y que los municipios de los que se segreguen las partes correspondientes no queden privados de dichas condiciones.
+
+#### Art. 7.
+
+La segregación de parte del territorio de un municipio para agregarlo a otro limítrofe podrá realizarse por las causas señaladas en los apartados b) y c) del artículo 5.º
+
+#### Art. 8.
+
+1\. La segregación parcial llevará consigo, además de la división del territorio, la de los bienes, derechos y acciones, deudas y cargas, en función del número de habitantes y de la riqueza imponible correspondientes al núcleo que se trate de segregar, que se practicarán conjuntamente.
+
+2\. No podrá efectuarse la segregación de parte de un municipio:
+
+a) Cuando con ella hubiera de resultar privado de las condiciones exigidas por el artículo 3.º para la creación de municipios.
+
+b) Cuando el núcleo o poblado de que se trate estuviere unido por calle o zona urbana a otro municipio originario.
+
+#### Art. 9.
+
+1\. La iniciación de los expedientes de alteración de términos municipales se podrá decretar por el órgano competente de la Comunidad Autónoma en esta materia, de oficio o a instancia de:
+
+a) Cualesquiera de los Ayuntamientos interesados.
+
+b) Las Diputaciones Provinciales respectivas.
+
+c) La Administración del Estado, a través del Delegado del Gobierno.
+
+d) Otros órganos de la Comunidad Autónoma que, en razón de sus respectivas competencias, consideren procedente la alteración.
+
+2\. Instruido el expediente, se dará audiencia durante el plazo de un mes a los municipios y demás Entidades Locales interesadas y, a continuación, se remitirá para su dictamen al Consejo de Estado o al órgano consultivo superior del Consejo de Gobierno de la Comunidad Autónoma, si existiese.
+
+#### Art. 10.
+
+1\. Las alteraciones de términos municipales podrán, asimismo, ser tramitadas, con carácter voluntario, por los Ayuntamientos interesados.
+
+2\. En tal caso, el expediente se iniciará por acuerdos de los respectivos Ayuntamientos, adoptados con el voto favorable de las dos terceras partes del número de hecho y, en todo caso, de la mayoría absoluta del número legal de miembros de la Corporación.
+
+3\. Una vez completado el expediente, tales acuerdos se someterán a información pública por plazo no inferior a treinta días.
+
+4\. Finalizado el período de información pública, los Ayuntamientos adoptarán nuevo acuerdo, con la misma mayoría que en el acuerdo de iniciación, en el que se resolverá sobre la procedencia de la alteración y, en su caso, sobre las reclamaciones presentadas.
+
+5\. Si los acuerdos fueran favorables a la alteración, se elevará el expediente al órgano competente de la Comunidad Autónoma que, con su informe, lo remitirá para dictamen al Consejo de Estado o al órgano consultivo superior del Consejo de Gobierno de la Comunidad Autónoma, si existiese.
+
+#### Art. 11.
+
+1\. Las alteraciones de términos municipales consistentes en segregación parcial de los mismos, a que se refieren los artículos 6.º y 7.º podrán, asimismo, ser promovidas por la mayoría de los vecinos residentes en la parte o partes que hayan de segregarse.
+
+2\. En este caso, se constituirá por los vecinos una Comisión promotora que deberá incorporar al expediente toda la documentación prevista en el artículo 14.
+
+3\. Una vez completada la documentación por la Comisión, se elevará a los Ayuntamientos correspodientes, que, tras someterla a información pública por plazo no inferior a treinta días, adoptarán acuerdo sobre la misma, en el plazo de dos meses, en los términos del número 4 del artículo anterior.
+
+4\. Adoptados los acuerdos municipales e incorporada al expediente certificación de los mismos, el Ayuntamiento elevará el expediente al órgano competente de la Comunidad Autónoma, a los efectos previstos en el número 5 del artículo anterior, aun cuando los acuerdos municipales no hubiesen sido favorables. Si transcurrido el plazo de dos meses, a que se refiere el número anterior, no se ha adoptado acuerdo municipal expreso, la Comisión promotora elevará el expediente al órgano competente de la Comunidad Autónoma, a los efectos citados.
+
+#### Art. 12.
+
+Simultáneamente a la petición del dictamen al Consejo de Estado o al órgano consultivo superior del Consejo de Gobierno de la Comunidad Autónoma, si existiese, se dará conocimiento a la Administración del Estado de las características y datos principales del expediente sometido a dicho dictamen.
+
+#### Art. 13.
+
+1\. En todos los expedientes sobre alteración de términos municipales la resolución definitiva se hará mediante Decreto aprobado por el Consejo de Gobierno de la Comunidad Autónoma correspondiente. En ningún caso podrá suponer la alteración de los límites provinciales.
+
+2\. Las resoluciones definitivas se publicarán en el «Boletín Oficial del Estado» y en los «Boletines Oficiales» de la Comunidad Autónoma y de la provincia respectiva.
+
+3\. Una vez ejecutada la resolución, deberá darse traslado a la Administración del Estado, a los efectos del Registro Estatal de Entidades Locales, mediante el procedimiento establecido en el Real Decreto 382/1986, de 10 de febrero.
+
+4\. La Dirección General de Administración Local dará conocimiento al Registro Central de Cartografía de las inscripciones de nuevas Entidades Locales, de la cancelación de inscripción por supresión de Entidades locales, así como de las modificaciones registrales que sean consecuencia de la alteración de términos municipales, una vez practicadas en el Registro de Entidades Locales.
+
+#### Art. 14.
+
+1\. A los expedientes deberán incorporarse los siguientes documentos, sin perjuicio de cuantos otros se estimen oportunos:
+
+a) Plano del término o términos municipales que hayan de ser objeto de la alteración, con señalamiento, en su caso, de los nuevos límites o línea divisoria de los municipios.
+
+b) Informe en el que se justifique que concurren las motivaciones necesarias para llevar a cabo la alteración que se propone.
+
+c) Memoria justificativa de que las alteraciones no merman la solvencia de los Ayuntamientos a que afecten, en perjuicio de los acreedores, o, en su caso, acta notarial en la que se acredite, por comparecencia de la mayoría de los vecinos de las porciones segregadas, que se comprometen ante el nuevo municipio a responder subsidiariamente, en su día, respecto a la parte correspondiente de los créditos que existan, salvo las obligaciones personales de cada uno de aquéllos.
+
+2\. Asimismo, se aportarán las estipulaciones jurídicas y económicas que se proponen, entre las que deberán figurar, cuando procedan:
+
+a) La forma de liquidar las deudas o créditos contraídos por cada municipio.
+
+b) Las fórmulas de administración de sus bienes.
+
+c) Cualesquiera otras que convengan a los municipios afectados respecto a obligaciones, derechos e intereses de cada uno.
+
+3\. Además, en los supuestos de segregación parcial para constituir un municipio independiente, se incorporarán al expediente los siguientes documentos:
+
+a) Informe demostrativo de que ni el nuevo municipio ni el antiguo o antiguos carecerán de los medios necesarios para el cumplimiento de sus fines.
+
+b) Proyecto de división de bienes, aprovechamientos, usos públicos, créditos y cualesquiera otros derechos y obligaciones entre el Ayuntamiento o Ayuntamientos originarios y el nuevo, y bases que se establezcan para resolver, posteriormente, cualesquiera cuestiones que no hubieren sido posible dilucidar.
+
+c) Certificación, expedida por el Secretario, de los bienes, derechos y aprovechamientos comunales del municipio o municipios objeto de la segregación, así como de los que correspondan exclusivamente al vecindario de la parte o partes que se hubieran de segregar.
+
+d) Certificación del Secretario relativa al número de electores, habitantes y vecinos de los términos municipales y de la porción que se pretenda segregar.
+
+4\. En los casos de segregaciones parciales de términos municipales, iniciadas a petición de la meyoría de los vecinos, se acreditará, mediante certificación del Secretario del Ayuntamiento respectivo, extendida al final de las firmas que suscriban la solicitud, que los firmantes figuran como residentes vecinos en el Padrón Municipal.
+
+#### Art. 15.
+
+En las resoluciones definitivas de estos expedientes deberán constar, en su caso:
+
+a) Nombre del nuevo Municipio.
+
+b) Núcleo urbano en que haya de fijarse la capitalidad.
+
+c) Nuevos límites de los términos municipales afectados.
+
+d) Aprobación de las estipulaciones jurídicas y económicas, acordadas para llevar a cabo la alteración a que se hace referencia en el número 2 del artículo anterior.
+
+#### Art. 16.
+
+En los casos de creación o alteración de términos municipales, durante el período que medie hasta las próximas elecciones municipales se observarán las siguientes normas:
+
+Primera.–Cuando se trate de la creación de un nuevo municipio por la segregación de parte de uno o varios municipios o de la segregación de parte de un municipio para agregarlo a otro, aquel del que se segregue la porción permanecerá con el mismo número de Concejales que tenía. El nuevo municipio, procedente de la segregación, se regirá y administrará por una Comisión Gestora designada por la Diputación Provincial o, en su caso, por el órgano competente de la Comunidad Autónoma, con arreglo a los resultados de las elecciones municipales, en la Mesa o Mesas correspondientes al territorio segregado.
+
+Si como consecuencia de la agregación correspondiese al municipio que ha recibido la porción segregada un mayor número de Concejales, la diferencia se cubrirá por Vocales Gestores designados por la Diputación Provincial o, en su caso, por el órgano competente de la Comunidad Autónoma, con arreglo a los resultados de las elecciones municipales, en la Mesa o Mesas correspondientes al territorio segregado.
+
+Segunda.–En los supuestos de incorporación de uno o más municipios a otro limítrofe, cesarán los Alcaldes y Concejales de los Ayuntamientos de los municipios incorporados. Si como consecuencia de la incorporación correspondiese al municipio resultase un mayor número legal de Concejales, de conformidad con lo dispuesto en el artículo 179 de la Ley orgánica 5/1985, de 19 de junio, del Régimen Electoral General, la diferencia se cubrirá por Vocales Gestores designados por la Diputación Provincial o, en su caso, por el órgano competente de la Comunidad Autónoma, entre los Concejales cesados. La designación se hará en favor de los que obtuvieron mayores cocientes en las elecciones municipales, según el artículo 180 de la Ley orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+
+Tercera.–En el caso de fusión de dos o más municipios limítrofes cesarán todos los Alcaldes y Concejales y se designará una Comisión Gestora por la Diputación Provincial o, en su caso, por el órgano competente de la Comunidad Autónoma, integrada por un número de Vocales Gestores igual al que correspondiese de Concejales según la población total resultante del nuevo municipio. Las designaciones se efectuarán entre los Concejales cesados y en la forma determinada en el párrafo anterior.
+
+### CAPÍTULO II — Deslinde de los términos municipales
+
+#### Art. 17.
+
+1\. Para la demarcación, deslinde y amojonamiento de los términos municipales, cada uno de los Ayuntamientos, a quienes afecte la línea divisoria, nombrará una Comisión compuesta por el Alcalde y tres Concejales, los cuales, con el Secretario de la Corporación y el Perito que designe el Ayuntamiento, verificarán la operación de que se trate.
+
+2\. Al acto asistirán únicamente, por cada municipio, dos personas que por su avanzada edad y acreditado juicio puedan justificar el sitio en que estuvieron los mojones o señales divisorias, los propietarios de los terrenos que haya de atravesar el deslinde y las fuerzas de seguridad encargadas de mantener el orden.
+
+#### Art. 18.
+
+1\. Cuando existan divergencias entre los Ayuntamientos respectivos en cuanto a la manera de apreciar el sitio por donde debe pasar la línea divisoria o en el que hayan de colocarse los hitos o mojones, cada Comisión levantará acta por separado, en la que hará constar todos los datos, entecedentes y detalles que estime necesarios para justificar su apreciación y, con esto, se dará por terminado el acto.
+
+2\. Las Alcaldías respectivas remitirán las actas, con los demás antecedentes, a la Comunidad Autónoma correspondiente, quien enviará el expediente al Instituto Geográfico Nacional para que designe el Ingeniero o Ingenieros que deban personarse sobre el terreno en unión de las antedichas Comisiones, a fin de llevar a cabo, en vista y de conformidad con los documentos indicados, el deslinde de los términos municipales correspondientes.
+
+#### Art. 19.
+
+Cuando los Ayuntamientos interesados estén conformes con los límites existentes en la actualidad, cualquiera que sea la fecha de las actas en que hubieran quedado establecidos, no procederá nueva fijación, salvo casos excepcionales, en que documentalmente se justifiquen errores materiales o vicios de procedimiento en la delimitación anterior.
+
+#### Art. 20.
+
+En los expedientes de señalamiento de línea límite la incomparecencia de la representación de los Ayuntamientos convocados en forma fehaciente para las operaciones de campo que haya de realizar el Instituto Geográfico Nacional llevará implícito el decaimiento del derecho para impugnar la línea que se fije.
+
+#### Art. 21.
+
+Si hubiera conformidad en la fijación de línea límite, las Comisiones designadas por los Ayuntamientos interesados levantarán acta conjunta que lo acredite, procederán de común acuerdo a la colocación de los hitos o mojones que señalen los límites y remitirán copias de dicha acta a la Comunidad Autónoma correspondiente y al Instituto Geográfico Nacional.
+
+#### Art. 22.
+
+De la fijación de la línea límite se dará conocimiento a la Administración del Estado, a los efectos de su inscripción en el Registro de Entidades Locales.
+
+#### Art. 23.
+
+Cuando los deslindes afecten a los límites de las provincias, cada una de las Diputaciones interesadas tendrá derecho a incorporar a las Comisiones previstas en el artículo 17 una representación igual a la de cada Ayuntamiento.
+
+#### Art. 24.
+
+Las cuestiones que se susciten entre municipios sobre el deslinde de sus términos municipales serán resueltas por la correspondiente Comunidad Autónoma, previo informe del Instituto Geográfico Nacional y dictamen del Consejo de Estado o del órgano consultivo superior del Consejo de Gobierno de aquélla, si existiera.
+
+#### Art. 25.
+
+La determinación de los límites de los municipios o entidades locales de ámbito territorial inferior al municipio, creados al amparo de lo dispuesto en los artículos 3.º y 6.º de este Reglamento, corresponderá a la Comunidad Autónoma respectiva.
+
+### CAPÍTULO III — Del nombre y de la capitalidad de los municipios
+
+#### Art. 26.
+
+1\. El nombre y la capitalidad de los municipios podrán ser alterados, previo acuerdo del Ayuntamiento e informe de la Diputación Provincial respectiva, con la aprobación de la Comunidad Autónoma.
+
+2\. El acuerdo corporativo deberá ser adoptado con el voto favorable de las dos terceras partes del número de hecho y, en todo caso, de la mayoría absoluta del número legal de miembros de las Corporaciones.
+
+3\. Una vez adoptado por el Ayuntamiento el correspondiente acuerdo conforme con la resolución del Consejo de Gobierno de la Comunidad Autónoma, se comunicará al Registro de Entidades Locales, en el plazo de un mes, para la modificación de la inscripción registral, conforme a lo previsto en el artículo 9.º del Real Decreto 382/1986, de 10 de febrero. La Dirección General de Administración Local comunicará esta modificación al Registro Central de Cartografía.
+
+#### Art. 27.
+
+1\. El cambio de capitalidad habrá de fundarse en alguno de los siguientes motivos:
+
+a) Desaparición del núcleo urbano donde estuviere establecida.
+
+b) Mayor facilidad de comunicaciones.
+
+c) Carácter histórico de la población elegida.
+
+d) Mayor número de habitantes, y
+
+e) Importancia económica o beneficios notorios que a los residentes en el término reporte dicho cambio.
+
+2\. El acuerdo de cambio de capitalidad, adoptado según determina el artículo anterior, requerirá los siguientes trámites:
+
+a) Exposición al público, por plazo no inferior a treinta días, para que los particulares o entidades que se creyeren perjudicados puedan presentar reclamación.
+
+b) Resolución de tales reclamaciones.
+
+#### Art. 28.
+
+La aprobación por el Consejo de Gobierno de la Comunidad Autónoma de los expedientes de cambio de capitalidad habrá de recaer, previo informe de la Real Sociedad Geográfica o de la Real Academia de la Historia, según proceda, o de las instituciones especializadas de la Comunidad Autónoma, si existieren, y de aquellos otros Organismos que se consideren oportunos.
+
+#### Art. 29.
+
+En los expedientes de cambio de nombre de los municipios se cumplirán los trámites establecidos en los artículos precedentes respecto de los expedientes de cambio de capitalidad.
+
+#### Art. 30.
+
+1\. El nombre de los municipios de nueva creación y los cambios de denominación de los ya existentes sólo tendrán carácter oficial cuando, tras haber sido inscritos o anotados en el Registro de Entidades Locales de la Administración del Estado, se publiquen en el «Boletín Oficial del Estado».
+
+2\. La denominación de los municipios podrá ser, a todos los efectos, en castellano, en cualquier otra lengua española oficial en la respectiva Comunidad Autónoma o en ambas.
+
+3\. Los municipios no podrán usar nombres que no hayan sido autorizados con arreglo a los trámites reglamentarios.
+
+4\. No se autorizará cambio de nombre cuando el propuesto sea idéntico a otro existente o pueda producir confusiones en la organización de los servicios públicos.
+
+### CAPÍTULO IV — Mancomunidades y otras organizaciones intermunicipales
+
+#### Art. 31.
+
+1\. Se reconoce a los municipios el derecho a asociarse con otros en Mancomunidades para la ejecución en común de obras y servicios determinados de su competencia.
+
+2\. Para que los municipios se mancomunen no será indispensable que pertenezcan a la misma provincia ni que exista entre ellos continuidad territorial si ésta no es requerida para la naturaleza de los fines de la Mancomunidad.
+
+#### Art. 32.
+
+1\. Las Mancomunidades tienen personalidad y capacidad jurídica para el cumplimiento de sus fines específicos y se regirán por sus Estatutos propios.
+
+2\. Las Mancomunidades no podrán asumir la totalidad de las competencias asignadas a los respectivos municipios.
+
+#### Art. 33.
+
+1\. Los municipios que pretendan mancomunarse redactarán un proyecto de Estatutos de la Mancomunidad, de acuerdo con lo establecido en el artículo 44 de la Ley 7/1985, de 2 de abril.
+
+2\. Los acuerdos de las Corporaciones Locales relativos a la creación, modificación o disolución de Mancomunidades, así como a la aprobación y modificación de sus Estatutos, requieren el voto favorable de la mayoría absoluta del número legal de sus miembros.
+
+3\. En todo caso, los órganos de gobierno serán representativos de los Ayuntamientos mancomunados, en la forma que determinen los correspondientes Estatutos.
+
+#### Art. 34.
+
+Los Estatutos de las Mancomunidades municipales habrán de expresar, al menos, los siguientes extremos:
+
+a) Los municipios que comprende la Mancomunidad.
+
+b) El lugar en que radiquen sus órganos de gobierno y administración.
+
+c) El número y forma de designación de los representantes de los Ayuntamientos que han de integrar los órganos de gobierno de la Mancomunidad.
+
+d) Los fines de la Mancomunidad y sus competencias.
+
+e) Sus recursos económicos.
+
+f) El plazo de duración.
+
+g) El procedimiento para modificar los Estatutos.
+
+h) Las causas de disolución.
+
+#### Art. 35.
+
+1\. El procedimiento de aprobación de los Estatutos de las Mancomunidades se determinará por la legislación de las Comunidades Autónomas y se ajustará, en todo caso, a las siguientes reglas:
+
+a) La elaboración corresponderá a los Concejales de la totalidad de los municipios promotores de la Mancomunidad constituidos en Asamblea.
+
+b) La Diputación o Diputaciones Provinciales interesadas emitirán un informe sobre el proyecto de Estatutos.
+
+c) Los Plenos de todos los Ayuntamientos aprobarán los Estatutos con el voto favorable de la mayoría del número legal de sus miembros.
+
+2\. Se seguirá un procedimiento similar para la modificación o supresión de Mancomunidades.
+
+#### Art. 36.
+
+1\. Constituida una Mancomunidad podrán adherirse a la misma, por procedimiento similar al de su constitución, los Ayuntamientos a quienes interese y se encuentren comprendidos en las condiciones previstas en los Estatutos de aquélla, asumiendo las obligaciones que en ellos se determinen.
+
+2\. La adhesión podrá realizarse para una, varias o todas las finalidades de la Mancomunidad, siempre que las obras o servicios sean independientes entre sí, atendiendo a sus aspectos técnicos o financieros.
+
+3\. Las adhesiones habrán de ser informadas favorablemente por el órgano de gobierno de la Mancomunidad.
+
+4\. Por trámites análogos y con sujeción a las previsiones estatutarias podrá separarse de la Mancomunidad cualquiera de los Ayuntamientos que la integren. En ningún caso podrá tener carácter vinculante el informe del órgano de gobierno de la Mancomunidad.
+
+#### Art. 37.
+
+1\. Los órganos de gobierno o Juntas de Mancomunidad estarán integrados por un Presidente, un Vicepresidente que lo sustituya en sus ausencias, el número de Vocales que señalen los Estatutos y un Secretario.
+
+2\. Cuando no se hallare previsto estatutariamente otro sistema de designación, el Presidente y el Vicepresidente serán elegidos del seno de la Junta, en sesión extraordinaria y por mayoría absoluta de votos.
+
+3\. El cargo de Secretario o Secretario-Contador, así como los de Interventor-Tesorero, si existieren, habrán de ser ejercidos por funcionarios con habilitación de carácter nacional.
+
+4\. El funcionamiento de las Mancomunidades se ajustará a lo dispuesto en sus Estatutos y, en su defecto, a las normas que se dicten reglamentariamente.
+
+#### Art. 38.
+
+El Presidente del órgano de gobierno de la Mancomunidad de Municipios, en el plazo de un mes, solicitará del Registro de Entidades Locales la inscripción de la Mancomunidad, así como de las modificaciones que se produzcan en los datos inscritos, y la cancelación registral cuando la Mancomunidad se extinga, conforme al Real Decreto 382/1986, de 10 de febrero.
+
+#### Art. 39.
+
+1\. Las Entidades conocidas con las denominaciones de Mancomunidades o Comunidades de Tierra o de Villa y Tierra, o de Ciudad y Tierra, Asocios, Reales Señoríos, Universidades, Comunidades de pastos, leñas, aguas y otras análogas, continuarán rigiéndose por sus normas consuetudinarias o tradicionales, y sin perjuicio de la autonomía de que disfrutan deberán ajustar su régimen económico en cuanto a formación de presupuestos y rendición de cuentas, liquidaciones, inventarios y balances a lo prescrito en la Ley.
+
+2\. Las entidades enviarán al órgano competente de la Comunidad Autónoma copia de sus Estatutos en vigor, informe sobre sus normas de funcionamiento y copia de las modificaciones que se introduzcan en aquéllas o en éstas.
+
+3\. El cargo de Secretario o de Interventor-Tesorero, si los hubiere, serán provistos por las propias Entidades con funcionarios con habilitación de carácter nacional, bien mediante concursos convocados en la forma prevista en el artículo 99 de la Ley 7/1985, de 2 de abril, bien a través de cualquier otra fórmula que determine la legislación del Estado en la materia.
+
+### CAPÍTULO V — De las entidades de ámbito territorial inferior al municipio
+
+#### Art. 40.
+
+Podrán constituirse Entidades de ámbito territorial inferior al Municipio para la administración descentralizada de núcleos de población separados, bajo su denominación tradicional de caseríos, parroquias, aldeas, barrios, anteiglesias, concejos, pedanías, lugares anejos y otros análogos, o aquellas que establezcan las leyes.
+
+#### Art. 41.
+
+Los núcleos de población separados, mencionados en el artículo anterior, con características peculiares dentro de un municipio, podrán constituir Entidades de ámbito territorial inferior al municipio:
+
+a) Cuando se suprima el municipio a que pertenezcan.
+
+b) Cuando por tratarse de núcleos urbanos de nueva creación se considere necesario dotarlos de administración propia.
+
+c) Cuando por alteración de los términos municipales pasen dichos núcleos a formar parte de otros municipios.
+
+d) Cuando las fincas adquiridas para colonización interior no reúnan los requisitos exigidos para constituir municipio, pero sean asiento permanente de un núcleo de población.
+
+e) Siempre que se solicite con arreglo a lo que se establece en el artículo siguiente.
+
+#### Art. 42.
+
+La constitución de nuevas Entidades locales de ámbito territorial inferior al municipal estará sujeta al cumplimiento de los siguientes requisitos:
+
+a) Petición escrita de la mayoría de los vecinos residentes en el territorio que haya de ser base de la Entidad o por acuerdo del Ayuntamiento.
+
+b) Información pública vecinal durante el plazo de treinta días.
+
+c) Informe del Ayuntamiento sobre la petición y reclamaciones habidas, que deberá emitirse dentro de los treinta días siguientes.
+
+d) Resolución definitiva por el Consejo de Gobierno de la Comunidad Autónoma.
+
+#### Art. 43.
+
+1\. En la petición escrita que formulen los vecinos podrán firmar, por los que no sepan hacerlo, otros a su ruego, y si la Alcaldía tuviese duda acerca de la autenticidad de una o varias firmas podrá exigir la comparecencia y ratificación de los interesados, salvo que el escrito de petición esté autorizado por Notario o por el Secretario del Ayuntamiento.
+
+2\. Dicha petición deberá especificar los derechos e intereses que caractericen al núcleo de que se trata.
+
+3\. La información pública se practicará fijando copias del escrito de petición en las puertas de la Casa Consistorial del Juzgado correspondiente y de las iglesias parroquiales o anejas comprendidas dentro del núcleo.
+
+4\. En el informe que emita el Ayuntamiento se tendrá en cuenta si se dan algunas de las siguientes circunstancias:
+
+a) Que el núcleo que trate de constituirse en entidad territorial de ámbito inferior al municipio sea uno de los mencionados en el artículo 30.
+
+b) Que hubiere funcionado en régimen de concejo abierto de carácter tradicional, o
+
+c) Que la petición la formulen los vecinos de un antiguo municipio que hubiese sido anexionado a otro.
+
+#### Art. 44.
+
+1\. Las resoluciones definitivas de los expedientes de constitución de nuevas Entidades de ámbito territorial inferior al municipio se publicarán en el «Boletín Oficial de la Comunidad Autónoma» y «Boletín Oficial» de la provincia respectivas.
+
+2\. Una vez ejecutada la resolución, por el Presidente de la Entidad se solicitará su inscripción en el registro de Entidades Locales, de acuerdo con lo previsto en el Real Decreto 382/1986, de 10 de febrero, y normas de desarrollo. El Registro de Entidades Locales dará traslado de la inscripción al Registro Central de Cartografía.
+
+3\. Para la designación de los miembros de los órganos de estas entidades se estará a lo establecido en el artículo 45 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local y en el artículo 199 de la Ley orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+
+#### Art. 45.
+
+1\. Una vez constituida la entidad, sus límites territoriales y la separación patrimonial correspondiente se determinarán, a propuesta de la Junta Vecinal u órgano colegiado de control, por acuerdo del Ayuntamiento, que habrá de adoptarlo en el plazo de treinta días.
+
+2\. Si el Ayuntamiento no adoptase acuerdo en el plazo señalado en el párrafo anterior la Comunidad Autónoma fijará el ámbito territorial de la nueva Entidad.
+
+#### Art. 46.
+
+La Junta Vecinal u órgano colegiado de control de las Entidades locales de ámbito inferior al municipio ejercerá sus competencias sobre la parte del territorio municipal que le haya sido asignada y sin perjuicio de la general del municipio a que pertenezca.
+
+#### Art. 47.
+
+Para determinar el territorio de las entidades de ámbito territorial inferior al municipio que no lo tuvieren delimitado con anterioridad se tendrán en cuenta, dentro de lo posible, las siguientes normas:
+
+Primera.–Cuando se trate de una parroquia rural constituida en Entidad de ámbito territorial inferior al municipio, los límites serán los mismos que tenga la parroquia que haya servido de base a su reconocimiento legal, según la demarcación eclesiástica vigente.
+
+Segunda.–Cuando se trate de un Concejo abierto de carácter tradicional o de un antiguo municipio anexionado a otro, el territorio propio de la Entidad de ámbito territorial inferior al municipio será, respectivamente, el que correspondiere al ámbito territorial del Concejo abierto o al primitivo término municipal anexionado.
+
+Tercera.–Cuando se trate de núcleos urbanos o rurales que no tengan las características de los anteriores, el ámbito territorial de la nueva Entidad estará referido al casco de la parroquia, lugar, aldea, anteiglesia, barrio, anejo, pago u otro grupo semejante, y, además, a los terrenos circundantes que posean o cultiven los vecinos de la Entidad o constituyan el patrimonio de ésta, siempre que pueda establecerse fácilmente la línea divisoria entre esos terrenos y los que pertenezcan a los núcleos inmediatos.
+
+Cuarta.–En los demás casos el Ayuntamiento deberá asignar a la nueva Entidad el ámbito territorial que sea preciso para el cumplimiento de sus fines.
+
+#### Art. 48.
+
+1\. La modificación y disolución de las Entidades locales de ámbito territorial inferior al municipal podrá llevarse a efecto:
+
+a) Por acuerdo del Consejo de Gobierno de la Comunidad Autónoma, previa audiencia de las propias entidades y de los Ayuntamientos interesados, e informes del Consejo de Estado o del órgano consultivo superior de aquellas donde existiera, conforme a lo dispuesto en el artículo siguiente.
+
+b) A petición de la propia Entidad mediante la observancia de las condiciones que se consignan en el artículo 42.
+
+2\. Se comunicará al Registro de Entidades Locales, conforme se establece en el Real Decreto 382/1986, de 10 de febrero, las variaciones que se produzcan en los datos recogidos en la inscripción existente en el mismo, así como la disolución de estas Entidades.
+
+3\. Por el Registro de Entidades Locales se comunicarán las modificaciones y disoluciones producidas al Registro Central Cartográfico.
+
+#### Art. 49.
+
+1\. Para que el órgano competente de la Comunidad Autónoma acuerde la disolución de las Entidades Locales de ámbito territorial inferior al municipal será necesario que, en el expediente que al efecto se instruya, se compruebe la carencia de recursos suficientes para sostener los servicios mínimos que le estén atribuidos, o se aprecien notorios motivos de necesidad económica o administrativa.
+
+2\. En los expedientes de disolución de las Entidades Locales de ámbito territorial inferior al municipio habrán de informar las Corporaciones Provinciales respectivas, dentro del plazo de treinta días.
+
+#### Art. 50.
+
+1\. No podrá constituirse en Entidad local de ámbito territorial inferior al municipio, el núcleo territorial en que radique el Ayuntamiento.
+
+2\. Ninguna Entidad local de ámbito territorial inferior al municipio podrá pertenecer a dos o más municipios.
+
+### CAPÍTULO VI — Del territorio provincial
+
+#### Art. 51.
+
+La provincia es una Entidad local con personalidad jurídica propia, determinada por la agrupación de municipios.
+
+El territorio de la Nación española se divide en 50 provincias, con los límites, denominación y capitales que tienen actualmente.
+
+#### Art. 52.
+
+Solamente por medio de una Ley de las Cortes Generales podrá modificarse la denominación o capitalidad de una provincia.
+
+Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante Ley orgánica.
+
+## TÍTULO II
+
+### De la población y del padrón
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+### CAPÍTULO I — De los vecinos y del padrón municipal
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 53.
+
+1\. El padrón municipal es el registro administrativo donde constan los vecinos de un municipio. Sus datos constituyen prueba de la residencia en el municipio y del domicilio habitual en el mismo. Las certificaciones que de dichos datos se expidan tendrán carácter de documento público y fehaciente para todos los efectos administrativos.
+
+2\. Los datos obligatorios del padrón municipal se cederán a otras Administraciones Públicas que lo soliciten sin consentimiento previo del afectado solamente cuando les sean necesarios para el ejercicio de sus respectivas competencias, y exclusivamente para asuntos en los que la residencia o el domicilio sean datos relevantes. También pueden servir para elaborar estadísticas oficiales sometidas al secreto estadístico, en los términos previstos en la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública y en las leyes de estadística de las Comunidades Autónomas con competencia en la materia. Los datos de aportación voluntaria no serán susceptibles de cesión salvo en los supuestos legalmente previstos.
+
+3\. En todo caso, el padrón municipal está sujeto al ejercicio, por parte de los vecinos, de los derechos regulados en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos) y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+> Se modifica por el art. único.1 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 54.
+
+1\. Toda persona que viva en España está obligada a inscribirse en el padrón del municipio en el que resida habitualmente. Quien viva en varios municipios deberá inscribirse únicamente en el que habite durante más tiempo al año.
+
+2\. Las personas menores de edad no emancipadas tendrán la misma vecindad que los padres que tengan su guarda y custodia o, en su defecto, de sus representantes legales, salvo autorización por escrito de éstos para residir en otro domicilio o municipio.
+
+3\. La inscripción en el padrón municipal de personas que residiendo en el municipio carezcan de domicilio en el mismo sólo se podrá llevar a cabo después de haber puesto el hecho en conocimiento de los servicios sociales competentes en el ámbito geográfico donde esa persona resida.
+
+> Se modifica el apartado 2 por el art. único.2 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 54 bis.
+
+1\. La inscripción en el padrón municipal sólo surtirá efecto por el tiempo que subsista el hecho que la motivó, de conformidad con lo previsto en el artículo 54.
+
+2\. En todo caso, cuando se trate de la inscripción de extranjeros sin autorización de residencia de larga duración, no pertenecientes a un Estado miembro de la Unión Europea, a Estados parte en el Acuerdo sobre el Espacio Económico Europeo o a otros Estados a los que, en virtud de un convenio internacional, se extienda el régimen jurídico previsto para los ciudadanos de los Estados mencionados anteriormente, deberá ser objeto de renovación periódica cada dos años.
+
+3\. El transcurso del plazo señalado en el apartado anterior será causa para acordar la caducidad de las inscripciones que deban ser objeto de renovación periódica, siempre que el interesado no hubiese procedido a tal renovación. En este caso, la caducidad podrá declararse sin necesidad de audiencia previa del interesado.
+
+> Se añade por el art. único.3 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+#### Art. 55.
+
+1\. Son vecinos del municipio las personas que residiendo habitualmente en el mismo, en los términos establecidos en el artículo 54.1 de este Reglamento, se encuentran inscritos en el padrón municipal.
+
+La adquisición de la condición de vecino se produce desde el mismo momento de su inscripción en el padrón.
+
+2\. Sólo se puede ser vecino de un municipio.
+
+3\. El conjunto de vecinos constituye la población del municipio.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 56.
+
+1\. La condición de vecino confiere los siguientes derechos y deberes:
+
+a) Ser elector y elegible en los términos establecidos en la legislación electoral.
+
+b) Participar en la gestión municipal de acuerdo con lo dispuesto en las leyes.
+
+c) Utilizar los servicios públicos municipales en forma acorde con su naturaleza y acceder a los aprovechamientos comunales conforme a las normas aplicables.
+
+d) Contribuir mediante las prestaciones económicas y personales legalmente previstas a la realización de las competencias municipales.
+
+e) Ser informado, previa petición razonada, y dirigir solicitudes a la Administración municipal en relación con los expedientes y la documentación municipal, de acuerdo con lo previsto en el artículo 105 de la Constitución.
+
+f) Pedir consulta popular en los términos previstos en la Ley.
+
+g) Solicitar la prestación y, en su caso, el establecimiento del correspondiente servicio público, así como exigirlos en el supuesto de constituir una competencia municipal propia de carácter obligatorio.
+
+h) Aquellos otros derechos y deberes establecidos en las Leyes.
+
+2\. La inscripción de los extranjeros en el padrón municipal no constituirá prueba de su residencia legal en España ni les atribuirá ningún derecho que no les confiera la legislación vigente, especialmente en materia de derechos y libertades de los extranjeros en España.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 57.
+
+1\. La inscripción en el padrón municipal contendrá como obligatorios sólo los siguientes datos de cada vecino:
+
+a) Nombre y apellidos.
+
+b) Sexo.
+
+c) Domicilio habitual, con especificación de la referencia catastral en el territorio fiscal común, o el código equivalente en los territorios forales, siempre que el domicilio cuente con referencia catastral o código equivalente.
+
+d) Nacionalidad.
+
+e) Lugar y fecha de nacimiento.
+
+f) Número de documento nacional de identidad o, tratándose de extranjeros:
+
+1.º Número de identidad de extranjero que conste en el certificado de inscripción en el Registro Central de Extranjeros expedido por las autoridades españolas o, en su defecto, número del documento acreditativo de la identidad o del pasaporte en vigor expedido por las autoridades del país de procedencia, tratándose de ciudadanos nacionales de Estados miembros de la Unión Europea, de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo o de Estados a los que, en virtud de un convenio internacional se extienda el régimen jurídico previsto para los ciudadanos de los Estados mencionados.
+
+2.º Número de identidad de extranjero que conste en documento, en vigor, expedido por las autoridades españolas o, en su defecto, por no ser titulares de estos, el número del pasaporte en vigor expedido por las autoridades del país de procedencia, tratándose de ciudadanos nacionales de Estados no comprendidos en el párrafo anterior, salvo que, por virtud de Tratado o Acuerdo Internacional, disfruten de un régimen específico de exención de visado en materia de pequeño tráfico fronterizo con el municipio en el que se pretenda el empadronamiento, en cuyo caso, se exigirá el correspondiente visado.
+
+g) Certificado o título escolar o académico que posea.
+
+h) Cuantos otros datos puedan ser necesarios para la elaboración del censo electoral, siempre que se garantice el respeto a los derechos fundamentales reconocidos en la Constitución Española.
+
+2\. Con carácter voluntario se podrán recoger los siguientes datos:
+
+a) Designación de las personas que pueden representar a cada vecino ante la Administración municipal a efectos padronales.
+
+b) Número de teléfono móvil o fijo.
+
+c) Correo electrónico.
+
+> Se modifica por el art. único.4 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 58.
+
+1\. El Ayuntamiento facilitará a todos los que vivan en su término hojas padronales o formularios, en formato físico o electrónico, para que le notifiquen los datos de inscripción.
+
+2\. En estos documentos constará en forma clara el carácter voluntario de la aportación de los datos definidos en el apartado 2 del artículo anterior.
+
+> Se modifica el apartado 1 por el art. único.5 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 59.
+
+1\. La hoja padronal o formulario será firmada, de forma manuscrita o por los sistemas de firma admitidos en el caso de tramitación por medios electrónicos, por todos los vecinos cuyos datos figuren en la misma o, en su caso, por su representante legal.
+
+2\. El Ayuntamiento podrá comprobar la veracidad de los datos consignados por los vecinos, exigiendo al efecto la presentación del documento nacional de identidad, el certificado de registro de ciudadano de la Unión Europea, la tarjeta de identidad de extranjero, el pasaporte, el libro de familia o certificado de nacimiento, el título que legitime la ocupación de la vivienda u otros documentos análogos.
+
+> Se modifica por el art. único.6 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+### CAPÍTULO II — De la gestión del padrón municipal
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 60.
+
+1\. La formación, actualización, revisión y custodia del padrón municipal corresponde al Ayuntamiento, de acuerdo con las normas aprobadas conjuntamente por el Ministerio de Economía, Comercio y Empresa y el Ministerio de Política Territorial y Memoria Democrática a propuesta del Consejo de Empadronamiento, regulado en el capítulo V del presente título.
+
+2\. Todos los padrones municipales se gestionarán por medios electrónicos y estarán interconectados con el Instituto Nacional de Estadística para que este organismo pueda ejercer las tareas de coordinación encomendadas en el artículo 17.3 de la Ley 7/1985, de 2 de abril.
+
+Las Comunidades Autónomas uniprovinciales, Diputaciones Provinciales, Diputaciones Forales, Cabildos y Consejos Insulares apoyarán técnica y económicamente para este fin a los municipios de su ámbito geográfico, y asumirán la gestión informatizada de los padrones de los municipios que, por su menor capacidad económica y de gestión, no lo lleven efectivamente así.
+
+3\. Los Ayuntamientos, además, conservarán las hojas de inscripción y las declaraciones y comunicaciones suscritas por los vecinos, o reproducciones de las mismas en forma que se garantice su autenticidad.
+
+> Se modifican los apartados 1 y 2 por el art. único.7 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el art.único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 61.
+
+Las certificaciones a que se refiere el artículo 53.1 serán expedidas por la persona que ocupe la Secretaría del Ayuntamiento o personal funcionario con habilitación de carácter nacional que lo sustituya en virtud de lo previsto en el Real Decreto 128/2018, de 16 de marzo, por el que se regula el régimen jurídico de los funcionarios de Administración Local con habilitación de carácter nacional, así como de conformidad con lo dispuesto en los artículos 204 y 205 del Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales, aprobado por el Real Decreto 2568/1986, de 28 de noviembre. Sin perjuicio de que, conforme a lo establecido en los artículos 41 y 42 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público y en el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, aprobado por el Real Decreto 203/2021, de 30 de marzo, puedan expedirse mediante actuación administrativa automatizada.
+
+Los Ayuntamientos podrán expedir volantes de empadronamiento, como documentos de carácter puramente informativo en los que no serán necesarias las formalidades previstas para las certificaciones.
+
+Siempre que un vecino inste alguna modificación de sus datos padronales podrá solicitar un volante de empadronamiento que se le entregará tan pronto como se haya realizado el cambio en su inscripción padronal.
+
+> Se modifica por el art. único.8 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el art.único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 62.
+
+1\. Los Ayuntamientos realizarán las actuaciones y operaciones necesarias para mantener actualizados sus padrones de modo que los datos contenidos en éstos concuerden con la realidad.
+
+2\. Si un Ayuntamiento no llevare a cabo dichas actuaciones, el Instituto Nacional de Estadística, previo informe del Consejo de Empadronamiento, podrá acudir a la ejecución sustitutoria prevista en el artículo 60 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local, sin perjuicio de los recursos jurisdiccionales que procedan.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 63.
+
+Los distintos órganos y organismos de la Administración General del Estado y de los territorios forales competentes por razón de la materia remitirán a cada Ayuntamiento, a través del Instituto Nacional de Estadística, la información sobre las variaciones de los datos que con carácter obligatorio deben figurar en el padrón municipal. Dicho envío de información, con la periodicidad y por el medio que se determine conjuntamente por los órganos y organismos citados y el Instituto Nacional de Estadística, tendrá como fin que los municipios puedan mantener su padrón municipal debidamente comprobado y actualizado.
+
+En particular, esta remisión de datos deberá ser efectuada por las Oficinas del Registro Civil en cuanto a nacimientos, defunciones y cambios de nombre, de apellidos, de sexo y de nacionalidad, con las limitaciones que imponga su legislación específica; por el Ministerio del Interior en cuanto a expediciones de documentos nacionales de identidad, de tarjetas de identidad de extranjero y de certificados del número de identidad de extranjero; por los Ministerios competentes en materia educativa y de formación profesional y en materia de universidades, en cuanto a titulaciones escolares y académicas que expidan o reconozcan; y por el Ministerio competente para la gestión del Catastro y por las Diputaciones Forales del País Vasco y el Gobierno de Navarra en cuanto a las referencias catastrales o código equivalente, respectivamente.
+
+En los casos de las Oficinas del Registro Civil y del Ministerio del Interior, la remisión de los datos deberá efectuarse al menos mensualmente.
+
+> Se modifica por el art. único.9 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 64.
+
+Las comunicaciones de datos mencionadas en el artículo anterior serán transmitidas a los Ayuntamientos a través del Instituto Nacional de Estadística.
+
+Todas las comunicaciones interadministrativas se llevarán a cabo por medios electrónicos, respetando las instrucciones normalizadoras sobre tratamiento de la información que se dicten al efecto.
+
+> Se modifica por el art. único.10 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 65.
+
+Los Ayuntamientos remitirán al Instituto Nacional de Estadística, por medio de un sistema de intercambio de datos en tiempo real, las variaciones que se hayan producido en los datos de sus padrones municipales, para que este organismo pueda ejercer las tareas de coordinación encomendadas en el artículo 17.3 de la Ley 7/1985, de 2 de abril, sin perjuicio de la información que deben remitir a la Oficina del Censo Electoral para la actualización del censo electoral, de acuerdo con lo que establece la Ley Orgánica 5/1985, de 19 de junio.
+
+> Se modifica por el art. único.11 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Téngase en cuenta para su aplicación durante el periodo transitorio hasta la puesta en marcha del sistema de intercambio de datos en tiempo real, lo establecido en la disposición transitoria única del citado Real Decreto.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+> Se deroga por la disposición adicional 25.2 de la Ley 4/1990, de 29 de junio. [Ref. BOE-A-1990-15347](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-15347)
+
+#### Art. 66.
+
+Por el mismo procedimiento mencionado en el artículo anterior, el Instituto Nacional de Estadística comunicará a los Ayuntamientos las discrepancias detectadas en los datos de sus padrones municipales, con el fin de que introduzcan las modificaciones pertinentes.
+
+Análogamente, la Oficina del Censo Electoral comunicará a los Ayuntamientos las variaciones en el Censo Electoral realizadas al amparo de la legislación vigente, para que introduzcan en su padrón municipal las modificaciones pertinentes, a fin de que en todo momento exista la necesaria concordancia entre los datos del padrón municipal y del censo electoral.
+
+> Se modifica por el art. único.12 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Téngase en cuenta para su aplicación durante el periodo transitorio hasta la puesta en marcha del sistema de intercambio de datos en tiempo real, lo establecido en la disposición transitoria única del citado Real Decreto.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 67.
+
+Las comunicaciones a que hacen referencia los artículos 65 y 66 podrán integrarse, respectivamente, en el mismo envío.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 68.
+
+Todos los vecinos deben comunicar a su Ayuntamiento las variaciones que experimenten sus circunstancias personales en la medida en que impliquen una modificación de los datos que deben figurar en el padrón municipal con carácter obligatorio.
+
+Cuando la variación afecte a personas menores de edad, esta obligación corresponde a sus padres o tutores. Para las personas con discapacidad que precisen de medidas de apoyo con funciones representativas para el ejercicio de su capacidad jurídica, la obligación corresponderá a quienes ejerzan esas medidas de apoyo.
+
+> Se modifica el párrafo segundo por el art. único.13 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 69.
+
+1\. Con las informaciones recibidas de las demás Administraciones públicas, con las variaciones comunicadas por los vecinos, y con los resultados de los trabajos realizados por los propios Ayuntamientos, éstos actualizarán los datos del padrón municipal.
+
+2\. Siempre que se produzcan actualizaciones, el Ayuntamiento deberá poner en conocimiento de cada vecino afectado los datos que figuran en su inscripción padronal, para su información y para que pueda comunicar a dicho Ayuntamiento las rectificaciones o variaciones que procedan.
+
+3\. La notificación a los vecinos del contenido de sus datos padronales se efectuará por el Ayuntamiento de manera que todo vecino tenga la oportunidad de conocer la información que le concierna al menos una vez cada cinco años.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 70.
+
+Cuando una persona cambie de municipio de residencia deberá solicitar su alta en el padrón del municipio de destino, el cual, tras realizar las comprobaciones oportunas y una vez practicada la inscripción, la enviará, conforme a lo previsto en el artículo 65, al Instituto Nacional de Estadística para su comunicación al municipio de procedencia, donde se dará de baja en el padrón al vecino trasladado sin más trámite. En el caso de que la persona no estuviera empadronada con anterioridad o desconociera el municipio de su anterior inscripción padronal, lo hará constar así.
+
+> Se modifica por el art. único.14 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 71.
+
+1\. Los Ayuntamientos darán de baja las inscripciones de su padrón que estén duplicadas en todos sus datos, conservando una sola de ellas.
+
+Cuando se produzcan duplicidades en algunos datos de forma que se presuma la existencia de alguna inscripción duplicada, el Ayuntamiento llevará a cabo las gestiones oportunas para comprobarlo y, previa audiencia del interesado, dará de baja las inscripciones repetidas que el vecino señale como erróneas o, en su defecto, las más antiguas.
+
+2\. Cuando la duplicidad se deduzca de la confrontación de los datos padronales de diversos municipios efectuada por el Instituto Nacional de Estadística, este Organismo lo comunicará a los Ayuntamientos afectados, correspondiendo al Ayuntamiento en el que figure la inscripción más reciente llevar a cabo las actuaciones señaladas en el apartado anterior.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 72.
+
+Los Ayuntamientos darán de baja de oficio, por inscripción indebida, a quienes figuren empadronados incumpliendo los requisitos establecidos en el artículo 54 de este Reglamento, una vez comprobada esta circunstancia en el correspondiente expediente en el que se dará audiencia al interesado. Éste deberá comunicar el municipio o país en el que vive habitualmente y solicitar, por escrito, el alta en el padrón municipal o en el Registro de Matrícula de la Oficina o Sección consular correspondiente. Dicha solicitud será tramitada por el Ayuntamiento que acuerde la baja de oficio.
+
+Si el interesado no manifiesta expresamente su conformidad con la baja, ésta sólo podrá llevarse a cabo con el informe favorable del Consejo de Empadronamiento.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 73.
+
+Los Ayuntamientos declararán de oficio la inscripción en su padrón como vecinos a las personas que vivan habitualmente en su término municipal y no figuren inscritos en el mismo.
+
+Para decretar este tipo de alta será necesaria la instrucción de un expediente en el que se dé audiencia al interesado. Si el interesado acepta expresamente el alta de oficio, su declaración escrita implicará la baja automática en el padrón en el que hubiera estado inscrito hasta entonces. En caso contrario, el alta de oficio sólo podrá llevarse a cabo con el informe favorable del Consejo de Empadronamiento.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 73 bis.
+
+1\. Los Ayuntamientos declararán de oficio el cambio de domicilio en la inscripción padronal de los vecinos que hayan modificado su dirección en el municipio y no lo hayan comunicado al Ayuntamiento. Para decretar este cambio de domicilio será necesaria la instrucción de un expediente en el que se dé audiencia a la persona interesada.
+
+2\. Aunque la persona interesada no acepte expresamente el cambio de domicilio, este podrá llevarse a cabo sin necesidad de informe del Consejo de Empadronamiento.
+
+3\. Si durante la tramitación de un expediente de baja de oficio el Ayuntamiento tuviera conocimiento de que la persona interesada reside en otra dirección del mismo municipio, reconducirá dicho expediente a uno de cambio de domicilio de oficio.
+
+> Se añade por el art. único.15 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+#### Art. 74.
+
+1\. Las altas padronales producidas de oficio se trasladarán al Instituto Nacional de Estadística, conforme a lo previsto en el artículo 65, para su comunicación al Ayuntamiento en cuyo padrón hubieran venido figurando indebidamente para su correspondiente actualización.
+
+Del mismo modo, se trasladarán al Instituto Nacional de Estadística las bajas padronales producidas de oficio.
+
+2\. Corresponderá a la Presidencia del Instituto Nacional de Estadística la resolución de las discrepancias que por este motivo surjan entre los Ayuntamientos, Diputaciones Provinciales, Diputaciones forales, Cabildos y Consejos Insulares o entre estos entes y el Instituto Nacional de Estadística, previa propuesta del Consejo de Empadronamiento.
+
+> Se modifica por el art. único.16 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+### CAPÍTULO III — De la comprobación y control del padrón municipal
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 75.
+
+1\. Los Ayuntamientos mantendrán actualizadas la nomenclatura y rotulación de las vías públicas, y la numeración de los edificios, informando de ello a todas las Administraciones públicas interesadas.
+
+Deberán también mantener la correspondiente cartografía o, en su defecto, referencia precisa de las direcciones postales con la cartografía elaborada por la Administración competente.
+
+2\. Los órganos sectorialmente competentes de la Administración General del Estado apoyarán técnicamente en estas operaciones a los Ayuntamientos que lo soliciten.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 76.
+
+Los Ayuntamientos revisarán, al menos una vez al año, la relación de entidades y núcleos de población y la división en secciones del término municipal, de acuerdo con las definiciones e instrucciones que establezcan las disposiciones legales que regulen estas materias y las remitirán al Instituto Nacional de Estadística para su comprobación.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 77.
+
+1\. Con el fin de alcanzar la concordancia del padrón municipal con la realidad, los Ayuntamientos deberán realizar sistemáticamente operaciones de muestreo y control, que deberán acentuarse en aquellos sectores susceptibles de una mayor movilidad de los habitantes.
+
+Periódicamente deberán llevar a cabo operaciones de campo para comprobar la verdadera situación del empadronamiento y para actualizar sus datos, con especial incidencia en las zonas donde se hayan concedido licencias municipales para nuevas urbanizaciones, nuevas construcciones, demoliciones, etc., informando de sus resultados al Instituto Nacional de Estadística.
+
+2\. El Instituto Nacional de Estadística apoyará técnicamente a los Ayuntamientos que lo soliciten en el diseño y ejecución de las operaciones de mantenimiento y comprobación del padrón municipal.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 78.
+
+El Instituto Nacional de Estadística podrá llevar a cabo operaciones de control de la precisión de los padrones municipales, informando del resultado a los correspondientes Ayuntamientos, y comunicándoles, en su caso, las medidas a tomar para dotar a su padrón de una mayor exactitud.
+
+También podrá el Instituto Nacional de Estadística proponer a los Ayuntamientos la realización de operaciones conjuntas, sean de control, sean de actualización de sus padrones.
+
+En concreto, se llevarán a cabo operaciones específicas conjuntas para la comprobación periódica de la residencia de los extranjeros que no tienen la obligación de renovar su inscripción padronal cada dos años.
+
+> Se modifica por el art. único.17 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 79.
+
+La formación del censo de población, que constituye una competencia exclusiva del Instituto Nacional de Estadística, se apoyará en los datos de los padrones municipales, se llevará a cabo prestando los Ayuntamientos la colaboración que el Instituto Nacional de Estadística le solicite, y servirá para controlar la precisión de los datos padronales y, en su caso, para introducir en ellos las rectificaciones pertinentes.
+
+En el desarrollo de esta operación se tomarán las medidas necesarias para mantener separados los datos censales, sometidos al secreto estadístico, de los datos padronales de carácter nominal y con efectos esencialmente administrativos.
+
+Los gastos en que incurran los Ayuntamientos por causa de esta colaboración serán sufragados con cargo a los Presupuestos Generales del Estado.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 80.
+
+Las discrepancias que pudieran plantearse entre Administraciones con ocasión de las operaciones de comprobación y control del padrón municipal serán resueltas por el Presidente del Instituto Nacional de Estadística a propuesta del Consejo de Empadronamiento.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+### CAPÍTULO IV — De la revisión del padrón municipal
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 81.
+
+Los Ayuntamientos aprobarán la revisión de sus padrones municipales con referencia al 1 de enero de cada año, formalizando las actuaciones llevadas a cabo durante el ejercicio anterior. La cifra de población resultante, junto con una copia de los datos obligatorios de su padrón completo a la misma fecha, serán remitidos al Instituto Nacional de Estadística.
+
+> Se modifica por el art. único.18 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 82.
+
+1\. Cuando el Instituto Nacional de Estadística no esté de acuerdo con las cifras remitidas por los Ayuntamientos formulará los reparos que estimen oportunos. Si no se llegara a alcanzar un acuerdo entre ambas Administraciones, el Instituto Nacional de Estadística someterá las discrepancias al Consejo de Empadronamiento para su informe.
+
+2\. El Presidente del Instituto Nacional de Estadística, con el informe favorable del Consejo de Empadronamiento, elevará al Gobierno de la Nación la propuesta de cifras oficiales de población de los municipios españoles, para su aprobación mediante Real Decreto, que será publicado en el "Boletín Oficial del Estado". Dichas cifras serán remitidas, asimismo, al Registro de Entidades Locales y a los Ayuntamientos que lo soliciten.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 83.
+
+1\. El Instituto Nacional de Estadística remitirá a las Comunidades Autónomas y a otras Administraciones públicas que lo soliciten los datos de los distintos padrones sin consentimiento previo del afectado solamente cuando les sean necesarios para el ejercicio de sus respectivas competencias, y exclusivamente para asuntos en los que la residencia o el domicilio sean datos relevantes.
+
+2\. Los Ayuntamientos podrán consultar por vía telemática los datos de sus respectivos padrones que obren en poder del Instituto Nacional de Estadística.
+
+3\. Los datos de los padrones que obren en poder del Instituto Nacional de Estadística no podrán servir de base para la expedición de certificaciones o volantes de empadronamiento regulados en el artículo 61, si bien podrán utilizarse en las plataformas de intermediación de datos y en la pasarela digital única de la Unión Europea para facilitar la tramitación de los procedimientos administrativos en los que se requiera acreditar la residencia. También se pondrán a disposición del ciudadano a través de la Carpeta Ciudadana del sector público estatal.
+
+> Se modifica el apartado 3 por el art. único.19 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+### CAPÍTULO V — Del Consejo de Empadronamiento
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 84.
+
+El Consejo de Empadronamiento, adscrito al Ministerio de Economía, Comercio y Empresa, es un órgano colegiado de colaboración entre la Administración General del Estado y los Entes locales en materia padronal.
+
+El Consejo de Empadronamiento tiene carácter nacional y dispone de Secciones Provinciales para conseguir una mayor agilidad en su funcionamiento.
+
+> Se modifica el párrafo primero por el art. único.20 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 85.
+
+Son funciones del Consejo de Empadronamiento.
+
+a) Elevar a la decisión del Presidente del Instituto Nacional de Estadística propuesta vinculante de resolución de las discrepancias que surjan en materia de empadronamiento entre Ayuntamientos, Diputaciones Provinciales o entre estos entes y el Instituto Nacional de Estadística.
+
+b) Informar, con carácter vinculante, las propuestas que eleve al Gobierno el Presidente del Instituto Nacional de Estadística sobre cifras oficiales de población de los municipios españoles.
+
+c) Proponer la aprobación de las instrucciones técnicas precisas para la buena gestión de los padrones municipales, en especial sobre intercambios de información entre Administraciones, precisión de datos padronales, operaciones de muestreo, operaciones de actualización, sistemas de gestión, normalización de documentos, etc.
+
+d) Informar, con carácter preceptivo, de la acción sustitutoria a realizar por el Instituto Nacional de Estadística en los términos previstos en el artículo 62 de este Reglamento.
+
+e) Informar, con carácter vinculante, sobre las altas y bajas de oficio en los casos previstos en los artículos 72 y 73 de este Reglamento.
+
+f) Informar, asimismo, cuantas otras cuestiones relacionadas con el empadronamiento puedan proponer o plantear las Administraciones públicas.
+
+g) Cualquier otra función que en materia padronal se les atribuya por disposición legal o reglamentaria.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+> Redactado el párrafo a) conforme a la corrección de errores publicada en BOE núm. 14, de 16 de enero de 1997 [Ref. BOE-A-1997-1703](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-1703)
+
+#### Art. 86.
+
+1\. El Consejo de Empadronamiento está constituido por el Presidente, los Vocales y el Secretario.
+
+2\. El Presidente del Consejo de Empadronamiento será el Presidente del Instituto Nacional de Estadística.
+
+3\. Serán Vocales del Consejo de Empadronamiento:
+
+a) Dos representantes del Instituto Nacional de Estadística que deberán tener rango de Subdirector General o equivalente.
+
+b) Un representante de la Oficina del Censo Electoral que deberá tener rango de Subdirector General o equivalente.
+
+c) Un representante del Ministerio de Política Territorial y Memoria Democrática que deberá tener rango de Subdirector General o equivalente.
+
+d) Un representante del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación que deberá tener rango de Subdirector General o equivalente.
+
+e) Un representante de la Secretaría General de Administración Digital que deberá tener rango de Subdirector General o equivalente.
+
+f) Siete representantes de las Entidades locales.
+
+4\. Los Vocales del Consejo y sus suplentes, que en el ámbito de la Administración General del Estado deberán tener nivel administrativo 28 como mínimo, serán designados y separados de sus funciones de la siguiente manera:
+
+a) Los dos representantes del Instituto Nacional de Estadística por la persona que ejerza la Presidencia del Instituto Nacional de Estadística.
+
+b) El representante del Censo Electoral por la persona titular de la Dirección de la Oficina del Censo Electoral.
+
+c) El representante del Ministerio de Política Territorial y Memoria Democrática por la persona titular de este Departamento.
+
+d) El representante del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación por la persona titular de este Departamento.
+
+e) El representante de la Secretaría General de Administración Digital por la persona titular de esta Secretaría General.
+
+f) Los representantes de las Entidades locales por la asociación de municipios de ámbito estatal con mayor implantación.
+
+5\. En los supuestos de vacante, ausencia o enfermedad, el Presidente será sustituido en la integridad de sus funciones, tanto las propias de su condición de Presidente como las propias de miembro del Consejo, por el Vocal representante del Instituto Nacional de Estadística de mayor jerarquía, antigüedad y edad por este orden. Esto no impedirá que este vocal sustituto del Presidente conserve, en tales casos, simultáneamente, su propia posición de miembro del Consejo a todos los efectos, especialmente de quórum y votación.
+
+> Se modifican los apartados 3 y 4 por el art. único.21 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se añaden los párrafos d) a los apartados 3 y 4 y se reordenan los párrafos d) actuales como e) con nueva redacción por la disposición final primera por el Real Decreto 3425/2000, de 15 de diciembre. [Ref. BOE-A-2001-174](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-174)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 87.
+
+1\. Las funciones de Secretaría, así como las de asistencia y apoyo del Consejo de Empadronamiento, serán ejercidas por una persona funcionaria adscrita al Instituto Nacional de Estadística con nivel administrativo mínimo de 28 y nombrada por la persona que ejerza la Presidencia de este Organismo.
+
+2\. Al Secretario le corresponderá la organización de los servicios de apoyo técnico y administrativo del Pleno del Consejo y de su Comisión Permanente, así como levantar acta, preparar los trabajos de uno y otra y convocar sus sesiones cuando así lo decida el Presidente, la gestión de régimen interior del Consejo, la tramitación y, en su caso, ejecución de aquellos acuerdos que se le encomienden y la dirección del registro, archivo, documentación y demás servicios similares que sean precisos para el normal desenvolvimiento de las tareas del Consejo.
+
+3\. El Secretario asistirá, con voz y sin voto, a las sesiones del Pleno del Consejo y de la Comisión Permanente.
+
+> Se modifica el apartado 1 por el art. único.22 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 88.
+
+El Consejo de Empadronamiento se regirá, en lo no previsto por este reglamento y sus normas de desarrollo, por lo dispuesto en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, siendo dirimente el voto del Presidente en caso de empate en las votaciones para adoptar acuerdos.
+
+El Reglamento de funcionamiento del Consejo, que será aprobado por su Pleno, determinará las normas del procedimiento para la resolución de discrepancias, respetando la facultad de las partes para efectuar alegaciones y proponer las pruebas que estimen pertinentes.
+
+Respecto al régimen de indemnizaciones de los miembros del Consejo de Empadronamiento se estará a lo dispuesto en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio.
+
+> Se modifica por el art. único.23 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 89.
+
+1\. El Consejo de Empadronamiento funcionará en Pleno y en Comisión Permanente.
+
+2\. Compondrán el Pleno el Presidente, los Vocales y el Secretario.
+
+El Pleno del Consejo se reunirá una vez al semestre en sesión ordinaria, y en extraordinaria por decisión del Presidente o cuando lo solicite la mitad más uno de sus miembros.
+
+3\. Corresponden al Pleno las funciones señaladas en el artículo 85 del presente Reglamento.
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 90.
+
+1\. La Comisión Permanente estará compuesta por la persona que ejerza la Presidencia o persona que la sustituya cuyo voto tendrá carácter dirimente, el Vocal del Pleno representante de la Oficina del Censo Electoral, un Vocal del Pleno representante del Ministerio de Política Territorial y Memoria Democrática y tres Vocales del Pleno representantes de las Entidades locales, así como por la persona que ocupe la Secretaría del Consejo, que actuará con voz y sin voto.
+
+2\. Serán funciones de la Comisión Permanente:
+
+a) Informar de las discrepancias que sometan a la decisión del Consejo las Administraciones públicas, salvo los casos en que, por su especial trascendencia, la propia Comisión Permanente o el Pleno estimen que deben elevarse a éste.
+
+b) Informar los asuntos que hayan de ser tratados por el Pleno.
+
+c) Preparar al Pleno la propuesta de instrucciones técnicas en materia de gestión de los padrones municipales de habitantes y sobre intercambios de información entre Administraciones.
+
+d) Aquellas funciones que acuerde delegarle el Pleno o le asigne el Reglamento de funcionamiento del Consejo.
+
+> Se modifica el apartado 1 por el art. único.24 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 91.
+
+En cada provincia se constituirá una Sección Provincial, bajo la presidencia del Delegado del Instituto Nacional de Estadística, formado por dos representantes de la Administración del Estado en la provincia y tres representantes de las Entidades locales de la provincia, en calidad de Vocales.
+
+De los representantes de la Administración General del Estado, uno será designado por la persona titular de la Delegación del Instituto Nacional de Estadística de entre el personal funcionario de la Delegación Provincial y otro por la persona titular de la Subdelegación del Gobierno correspondiente o, en su caso, por la persona titular de la Delegación del Gobierno.
+
+Los representantes de las Entidades locales serán designados, uno por la Diputación Provincial, Diputación Foral, Cabildos o Consejos insulares y uno por cada una de las dos asociaciones de municipios de mayor implantación en la provincia. En el caso de que exista una sola asociación, ésta designará a ambos.
+
+Las funciones de Secretaría de cada Sección Provincial serán desempeñadas por un funcionario de la Delegación provincial del Instituto Nacional de Estadística nombrado por el Delegado provincial.
+
+> Se modifican los párrafos segundo y tercero por el art. único.25 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 92.
+
+Las Secciones Provinciales conocerán de las discrepancias en materia de padrón municipal que se susciten entre Administraciones cuyo ámbito geográfico esté comprendido en la misma provincia, así como de las altas y bajas de oficio realizadas por los Ayuntamientos de su provincia en los casos previstos en los artículos 72 y 73 de este Reglamento. En caso de empate, decidirá el voto de calidad de su Presidente.
+
+Se someterán a la Comisión Permanente o, en su caso, al Pleno del Consejo de Empadronamiento los conflictos de ámbito provincial que, por causa justificada no hayan podido ser resueltos por la respectiva Sección Provincial.
+
+Las Secciones Provinciales se ajustarán en su funcionamiento a las normas o directrices aprobadas por el Pleno del Consejo de Empadronamiento.
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+### CAPÍTULO VI — Del padrón de españoles residentes en el extranjero
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 93.
+
+1\. El padrón de españoles residentes en el extranjero, cuya formación se realizará en colaboración con los Ayuntamientos y Comunidades Autónomas, es el registro administrativo donde constan las personas que gozando de la nacionalidad española viven habitualmente fuera de España, sea o no ésta su única nacionalidad.
+
+2\. Los datos obligatorios del padrón de españoles residentes en el extranjero se cederán a otras Administraciones Públicas que lo soliciten sin consentimiento previo del afectado solamente cuando les sean necesarios para el ejercicio de sus respectivas competencias, y exclusivamente para asuntos en que la residencia en el extranjero sea dato relevante. También podrán servir para elaborar estadísticas oficiales sometidas al secreto estadístico, en los términos previstos en la Ley 12/1989, de 9 de mayo, y en las leyes de estadística de las Comunidades Autónomas con competencia en la materia. Los datos de aportación voluntaria no serán susceptibles de cesión salvo en los supuestos legalmente previstos.
+
+3\. En todo caso, este padrón está sujeto al ejercicio, por parte de los españoles residentes en el extranjero, de los derechos regulados en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, y en la Ley Orgánica 3/2018, de 5 de diciembre.
+
+> Se modifica el apartado 2 y se añade el apartado 3 por el art. único.26 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 94.
+
+1\. La inscripción en el padrón contendrá como obligatorios sólo los siguientes datos:
+
+a) Nombre y apellidos.
+
+b) Sexo.
+
+c) Lugar y fecha de nacimiento.
+
+d) Número del documento nacional de identidad, o pasaporte.
+
+e) Certificado o título escolar o académico que posea.
+
+f) Domicilio en el país de residencia.
+
+g) Municipio de inscripción en España a efectos electorales.
+
+h) Cuantos otros datos sean necesarios para la elaboración del censo electoral, siempre que se garanticen los derechos fundamentales reconocidos en la Constitución.
+
+2\. Con carácter voluntario, se podrán hacer constar los siguientes datos:
+
+a) Designación de las personas que pueden representar a cada inscrito ante la Oficina Consular a efectos padronales.
+
+b) Número de teléfono del domicilio en el país de residencia o teléfono móvil.
+
+c) Domicilio y número de teléfono del municipio de referencia en España.
+
+d) Correo electrónico.
+
+> Se modifica el apartado 2 por el art. único.27 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 95.
+
+El padrón de españoles residentes en el extranjero se constituirá con los datos existentes en el Registro de Matrícula de cada Oficina Consular de Carrera o Sección Consular de las Misiones Diplomáticas.
+
+A estos efectos se adaptará el contenido de los Registros de Matrícula a fin de que incluyan los datos relacionados en el artículo 94 del presente Reglamento.
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 96.
+
+Los españoles residentes en el extranjero inscritos en este padrón se considerarán vecinos del municipio español que figura en los datos de su inscripción únicamente a efectos del ejercicio del derecho de sufragio, no constituyendo, en ningún caso, población del municipio.
+
+La determinación del municipio de inscripción en España a efectos electorales se realizará de acuerdo con los criterios contenidos en la normativa vigente para la actualización del censo electoral.
+
+> Se modifica el párrafo segundo por el art. único.28 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 97.
+
+Las Oficinas y Secciones Consulares remitirán al Instituto Nacional de Estadística, a través del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación, los datos mencionados en el artículo 94 a fin de que por dicho Instituto se elabore y mantenga un fichero central de españoles residentes en el extranjero.
+
+> Se modifica por el art. único.29 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 98.
+
+Los españoles residentes en el extranjero deberán comunicar a la Oficina o Sección Consular correspondiente las modificaciones que experimenten sus circunstancias personales en la medida en que impliquen una variación en los datos que deben figurar en el padrón con carácter obligatorio.
+
+Cuando la variación afecte a personas menores de edad esta obligación corresponde a sus padres o tutores. Para las personas con discapacidad que precisen de medidas de apoyo con funciones representativas para el ejercicio de su capacidad jurídica, esta obligación corresponde a quienes ejerzan esas medidas de apoyo.
+
+> Se modifica el párrafo segundo por el art. único.30 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 99.
+
+1\. Todo español que traslade su residencia de España al extranjero o, en el extranjero, de una demarcación consular a otra, deberá solicitar el alta en el Registro de Matrícula de la Oficina o Sección Consular en el país de destino.
+
+2\. La Oficina o Sección Consular remitirá el alta, a través del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación, al Instituto Nacional de Estadística, que la trasladará al municipio de procedencia, donde sin más trámite se dará de baja en el padrón municipal al interesado.
+
+> Se modifica por el art. único.31 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 100.
+
+1\. Todo español residente en el extranjero que traslade su residencia a territorio español deberá solicitar el alta en el padrón municipal del municipio donde vaya a fijar su residencia.
+
+2\. El municipio de destino, una vez realizadas las comprobaciones oportunas y practicada la inscripción, remitirá el alta, conforme a lo previsto en el artículo 65 al Instituto Nacional de Estadística, que la trasladará a la Oficina o Sección Consular, a través del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación, la cual procederá a dar de baja a la persona interesada en el Registro de Matrícula sin más trámite.
+
+> Se modifica el apartado 2 por el art. único.32 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 101.
+
+Las Oficinas o Secciones Consulares remitirán por medio de un sistema de intercambio de datos en tiempo real, a través del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación, al Instituto Nacional de Estadística, la relación de altas, bajas y modificaciones que se hayan producido en los datos correspondientes del Registro de Matrícula sin perjuicio de la información que deben remitir a la Oficina del Censo Electoral para la actualización del censo electoral.
+
+> Se modifica por el art. único.33 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Téngase en cuenta para su aplicación durante el periodo transitorio hasta la puesta en marcha del sistema de intercambio de datos en tiempo real, lo establecido en la disposición transitoria única del citado Real Decreto.
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 102.
+
+Por el mismo procedimiento mencionado en el artículo anterior el Instituto Nacional de Estadística comunicará a las Oficinas o Secciones Consulares, a través del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación, las discrepancias detectadas en los datos del fichero central de españoles residentes en el extranjero, como consecuencia de los procesos de confrontación de los datos correspondientes de los Registros de Matrícula de las distintas Oficinas o Secciones Consulares y de éstos con los padrones municipales, con el fin de que introduzcan las rectificaciones pertinentes.
+
+Análogamente, la Oficina del Censo Electoral comunicará, a las Oficinas o Secciones Consulares, a través del Ministerio de Asuntos Exteriores Unión Europea y Cooperación, y por los mismos medios, las variaciones en el censo electoral realizadas al amparo de la legislación vigente, para que introduzcan en sus respectivos Registros de Matrícula las modificaciones pertinentes, a fin de que en todo momento exista la necesaria concordancia entre los datos del fichero central de españoles residentes en el extranjero y el censo electoral.
+
+> Se modifica por el art. único.34 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Téngase en cuenta para su aplicación durante el periodo transitorio hasta la puesta en marcha del sistema de intercambio de datos en tiempo real, lo establecido en la disposición transitoria única del citado Real Decreto.
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 103.
+
+Las comunicaciones a que hacen referencia los artículos 101 y 102 podrán integrarse, respectivamente, en el mismo envío.
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 104.
+
+1\. Las Oficinas o Secciones Consulares darán de baja las inscripciones en el Registro de Matrícula que estén duplicadas, conservando una sola de ellas.
+
+2\. Asimismo, las Oficinas o Secciones Consulares procederán a dar de baja las inscripciones duplicadas que se deduzcan de la confrontación de datos efectuada por el Instituto Nacional de Estadística en el fichero central de españoles residentes en el extranjero.
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 105.
+
+Siempre que se produzcan actualizaciones en el Registro de Matrícula no comunicadas directamente por los interesados, la Oficina o Sección Consular correspondiente deberá ponerlo en conocimiento de los afectados para su información y para que puedan comunicar a dicha Oficina o Sección las rectificaciones o variaciones que procedan.
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 106.
+
+Las Oficinas o Secciones Consulares realizarán las actuaciones y operaciones necesarias para mantener actualizados los Registros de Matrícula de modo que los datos contenidos en éstos concuerden con la realidad.
+
+> Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+### CAPÍTULO VII — De las sanciones administrativas
+
+> Se añade por el artículo único.2 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+#### Art. 107.
+
+La negativa de los españoles y extranjeros que vivan en territorio español a cumplimentar las hojas de inscripción padronal, la falta de firma en éstas, las omisiones o falsedades producidas en las expresadas hojas o en las solicitudes de inscripción, así como el incumplimiento de las demás obligaciones dimanantes de los preceptos anteriores en relación con el empadronamiento, serán sancionadas por la persona que ejerza la Alcaldía conforme al artículo 59 del texto refundido de las disposiciones legales vigentes en materia de Régimen Local, aprobado por el Real Decreto Legislativo 781/1986, de 18 de abril, sin perjuicio de cualquier otra clase de responsabilidad a que hubiera lugar.
+
+Los padres de las personas menores de edad, o sus tutores o, en su caso, los residentes mayores de edad con los que habiten, así como, en el caso de las personas con discapacidad que precisen de medidas de apoyo con funciones representativas para el ejercicio de su capacidad jurídica, quienes ejerzan esas medidas de apoyo, responderán del incumplimiento de las obligaciones indicadas y de las omisiones y falsedades producidas en las hojas de inscripción o en las solicitudes en relación con estas personas menores de edad o con las personas con discapacidad que precisen de medidas de apoyo con funciones representativas para el ejercicio de su capacidad jurídica, respectivamente.
+
+> Se modifica por el art. único.35 del Real Decreto 141/2024, de 6 de febrero. [Ref. BOE-A-2024-2248](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2248)
+
+> Se añade por el artículo único.2 del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+> Su anterior numeración era art. 87.
+
+### DISPOSICIÓN TRANSITORIA
+
+Los expedientes de alteración de términos municipales iniciados antes de la fecha de entrada en vigor de este Reglamento se ajustarán en su tramitación al procedimiento previsto en el mismo.
+
+### DISPOSICIÓN ADICIONAL
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2612/1996, de 20 de diciembre. [Ref. BOE-A-1997-810](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-810)
+
+### DISPOSICIÓN FINAL
+
+El presente Reglamento entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+### DISPOSICIÓN DEROGATORIA
+
+Queda derogado el Reglamento de Población y Demarcación Territorial de las Entidades Locales, aprobado por Decreto de 17 de mayo de 1952, y cuantas normas de igual o inferior rango se opongan a lo dispuesto en el presente Reglamento.

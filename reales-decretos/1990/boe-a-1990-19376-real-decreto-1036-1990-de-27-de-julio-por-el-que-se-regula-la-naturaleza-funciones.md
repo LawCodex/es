@@ -1,0 +1,309 @@
+---
+title: "Real Decreto 1036/1990, de 27 de julio, por el que se regula la naturaleza, funciones, composición, organización y funcionamiento de la Comisión Interministerial de Estadística"
+identifier: "BOE-A-1990-19376"
+eli: "https://www.boe.es/eli/es/rd/1990/07/27/1036"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1990-07-27
+published: 1990-08-08
+in_force_from: 1990-08-09
+last_amended: 2015-03-26
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 189"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-19376"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1036/1990, de 27 de julio, por el que se regula la naturaleza, funciones, composición, organización y funcionamiento de la Comisión Interministerial de Estadística
+
+Incluye la corrección de errores publicada en BOE núm. 226, de 20 de septiembre de 1990. [Ref. BOE-A-1990-23229](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23229).
+
+La Ley 12/1989, de 9 de mayo, de la Función Estadística Pública, regula en su capítulo III del título II la actividad de los otros servicios estadísticos de la Administración del Estado, y el intercambio de información entre dichos servicios y el Instituto Nacional de Estadística.
+
+Asimismo, dada la especial importancia que en el ámbito estadístico tiene la utilización de un sistema coherente de normas de obligado cumplimiento en toda la Administración del Estado, sobre los instrumentos estadísticos necesarios para la integración y comparabilidad de los datos y los resultados elaborados por los diversos servicios estadísticos; y por otra parte, con el fin de poder formular un anteproyecto del Plan Estadístico Nacional y sus programas anuales que contemplen de forma estructurada la actividad estadística, es por lo que resulta necesaria la existencia de un órgano que posibilite la coordinación horizontal de Ios servicios estadísticos de la Administración del Estado. En consecuencia, la Ley de la Función Estadística Pública establece en su artículo 36: «se crea la Comisión Interministerial Estadística».
+
+Resulta, por tanto, preciso dictar un Real Decreto para dar cumplimiento a lo dispuesto en la normativa citada.
+
+En su virtud, a propuesta del Ministro de Economía y Hacienda, previa aprobación del Ministro para las Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 27 de julio de 1990,
+
+DISPONGO:
+
+> Redactado el párrafo segundo conforme a la corrección de errores publicada en BOE núm. 226, de 20 de septiembre de 1990. [Ref. BOE-A-1990-23229](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23229).
+
+## Artículo 1. Naturaleza.
+
+La Comisión Interministerial de Estadística, creada en el artículo 36 de la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública, está adscrita al Ministerio de Economía y Hacienda, a través del Instituto Nacional de Estadística. Es un órgano de participación de los servicios estadísticos responsables de la elaboración de las estadísticas en el ámbito de la Administración Central del Estado.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 226, de 20 de septiembre de 1990. [Ref. BOE-A-1990-23229](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23229).
+
+## Artículo 2. Objetivos.
+
+La Comisión Interministerial de Estadística tiene como objetivos:
+
+a) Coordinar horizontalmente las actividades de los servicios estadísticos de la Administración Central del Estado y fortalecer la cooperación entre los mismos.
+
+b) Integrar los sistemas de información estadística relativos a los distintos campos sectoriales y temáticos; homogeneizando y normalizando los aspectos conceptuales y metodológicos de las estadísticas, especialmente en cuanto a definiciones, unidades estadísticas, clasificaciones, nomenclaturas y códigos.
+
+c) Mantener y actualizar el inventario de operaciones estadísticas de las Administraciones Públicas y la documentación e información bibliográfico-estadística.
+
+d) Promover la formación y mantenimiento de registros y directorios de unidades estadísticas, como marco para la realización de censos y encuestas.
+
+e) Conocer los proyectos de implantación, revisión o supresión de registros y cuestionarios administrativos cuando sean fuente de estadísticas para fines estatales.
+
+f) Fomentar la utilización racional de las fuentes de datos disponibles, tanto de origen estadístico como administrativo, y facilitar el intercambio de archivos de datos y directorios entre los servicios estadísticos, así como la explotación conjunta de los mismos, respetando, en todo caso, la normativa del secreto estadístico dentro de las limitaciones impuestas por el artículo 15 de la Ley de la Función Estadística Pública.
+
+g) Promover la más adecuada difusión de los resultados de las estadísticas para fines estatales y de sus correspondientes metodologías.
+
+h) Fomentar el perfeccionamiento profesional del personal de los servicios estadísticos de la Administración Central del Estado.
+
+## Artículo 3. Funciones.
+
+La Comisión Interministerial de Estadística tiene como funciones:
+
+1\. En relación con el Plan Estadístico Nacional y los Programas anuales:
+
+Examinar y hacer recomendaciones sobre las propuestas de inclusión de proyectos estadísticos en los mismos.
+
+Estudiar las propuestas y recomendaciones del Consejo Superior de Estadística sobre las necesidades nacionales en materia estadística.
+
+Deliberar y hacer recomendaciones sobre los programas de inversiones de los servicios estadísticos de la Administración Central del Estado y.
+
+Deliberar e informar sobre el anteproyecto del Plan Estadístico Nacional y sobre los Programas anuales.
+
+2\. Preparar informes sobre cuestiones de su competencia que planteen el Presidente de la misma o alguno de sus Vocales.
+
+3\. Estudiar los criterios generales que delimiten las estadísticas para cuya elaboración han de solicitarse datos con carácer obligatorio y que, por consiguiente, han de establecerse por Ley.
+
+4\. Elaborar la Memoria anual de sus actividades.
+
+## Artículo 4. Facultades.
+
+Para el cumplimiento de las funciones descritas en el artículo anterior la Comisión podrá:
+
+a) Examinar previamente los temas de interés general para los servicios estadísticos de la Administración Central del Estado y que hayan de ser debatidos en el Comité Interterritorial de Estadística.
+
+b) Conocer y estudiar los proyectos de operaciones estadísticas para fines estatales.
+
+c) Recabar información de las relaciones que mantengan el Instituto Nacional de Estadística y otros servicios estadísticos de la Administración Central del Estado con los Organismos internacionales y las Comunidades Europeas.
+
+## Artículo 5. Composición.
+
+1\. La Comisión Interministerial de Estadística está integrada por el presidente, los vocales y el secretario.
+
+2\. El presidente es el del Instituto Nacional de Estadística.
+
+3\. Son vocales de la Comisión:
+
+a) Los titulares de las Direcciones Generales del Instituto Nacional de Estadística.
+
+b) Un representante, con rango de Subdirector general, de cada uno de los departamentos ministeriales.
+
+c) El Jefe del Departamento de Estadística del Banco de España.
+
+4\. En caso de ausencia, enfermedad o vacante, el Presidente de esta Comisión será sustituido por el titular de la Dirección General de Coordinación Estadística y de Estadísticas Laborales y de Precios.
+
+5\. Actuará como Secretario el titular del Gabinete de la Presidencia del Instituto Nacional de Estadística, con voz y sin voto. En caso de ausencia, enfermedad o vacante, el Secretario será sustituido por un funcionario destinado en el citado Gabinete de la Presidencia del Instituto Nacional de Estadística.
+
+> Se modifican los apartados 3, 4 y 5 por el art. 2.1 del Real Decreto 176/2015, de 13 de marzo. [Ref. BOE-A-2015-3219](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3219).
+
+> Se modifica por el art. 2 del Real Decreto 53/2005, de 21 de enero. [Ref. BOE-A-2005-1841](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1841).
+
+> Se modifican los apartados 3, 4 y 5 por la disposición final 1.1 del Real Decreto 508/2001, de 11 de mayo. [Ref. BOE-A-2001-9097](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-9097).
+
+> Se modifican los apartados 3, 4 y 5 por la disposición adicional 1.2.1 del Real Decreto 139/1997, de 31 de enero. [Ref. BOE-A-1997-3036](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-3036).
+
+> Se modifica el apartado 5 por la disposición adicional 3 del Real Decreto 732/1993, de 14 de mayo. [Ref. BOE-A-1993-12852](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-12852).
+
+## Artículo 6. Nombramiento, renovación y sustitución de los vocales.
+
+1\. Los vocales de la Comisión son nombrados por el Presidente del Instituto Nacional de Estadística:
+
+a) Los enumerados en los párrafos a) y c) del artículo 5.3, por razón de su cargo.
+
+b) Los vocales representantes de los departamentos ministeriales, a propuesta de estos.
+
+2\. La renovación de los vocales podrá realizarse a iniciativa de los organismos a los que representan.
+
+3\. Los vocales pueden ser sustituidos, en caso de vacante, ausencia o enfermedad:
+
+a) Los citados en el apartado 1.a), por un subdirector general de la correspondiente Dirección General del Instituto Nacional de Estadística. En el caso del Banco de España, por un jefe de división del Departamento de Estadística y Central de Balances.
+
+b) Los enumerados en el apartado 1.b), por otros suplentes nombrados por el mismo sistema que los titulares y con la misma categoría administrativa establecida para estos.
+
+> Se modifica por el art. 2 del Real Decreto 53/2005, de 21 de enero. [Ref. BOE-A-2005-1841](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1841).
+
+> Se modifica el apartado 3.b) por la disposición adicional 1.2 del Real Decreto 508/2001, de 11 de mayo. [Ref. BOE-A-2001-9097](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-9097).
+
+> Se modifica el apartado 3.b) por la disposición adicional 1.2.2 del Real Decreto 139/1997, de 31 de enero. [Ref. BOE-A-1997-3036](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-3036).
+
+## Artículo 7. Organización de la Comisión.
+
+1\. La Comisión Interministerial de Estadística puede actuar en Pleno y en Comisión Permanente.
+
+2\. Integran el Pleno de la Comisión el Presidente, los Vocales y el Secretario.
+
+El Pleno quedará válidamente constituido cuando asista la mayoría absoluta de sus miembros. Si no existiera quórum, el Pleno se constituirá en segunda convocatoria veinticuatro horas después de la señalada para la primera. Para ello será suficiente la asistencia de la tercera parte de sus miembros.
+
+3\. La Comisión Permanente estará constituida por los siguientes miembros:
+
+a) Presidente: el titular de la Dirección General de Coordinación Estadística y de Estadísticas Laborales y de Precios del Instituto Nacional de Estadística.
+
+b) Vicepresidente: el titular de la Dirección General de Productos Estadísticos del Instituto Nacional de Estadística.
+
+c) Vocales: seis vocales representantes de los Ministerios en el Pleno de la Comisión, elegidos por éste.
+
+d) Secretario: el Secretario de la Comisión Interministerial de Estadística.
+
+4\. Cualquiera de los Vocales del Pleno de la Comisión está facultado para asistir a las reuniones de la Comisión Permanente.
+
+5\. La Comisión Permanente podrá constituir Grupos de Trabajo para profundizar en los estudios y análisis de los temas relativos a las actividades de la Comisión Interministerial de Estadística.
+
+6\. Al frente de cada Grupo de Trabajo habrá un Presidente asistido por un Secretario, que deberá ser titular de un puesto de trabajo del Instituto Nacional de Estadística.
+
+La designación de los componentes de los Grupos de Trabajo corresponde al Presidente de la Comisión Permanente. En dichos Grupos de trabajo podrán participar especialistas no integrantes de la Comisión.
+
+7\. La Comisión Permanente determinará, para cada Grupo de Trabajo, su carácter indefinido o temporal en relación con el objetivo para el que se crean.
+
+> Se modifica el apartado 3 por el art. 2.2 del Real Decreto 176/2015, de 13 de marzo. [Ref. BOE-A-2015-3219](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3219).
+
+> Se modifica el apartado 3 por la disposición final 1.3 del Real Decreto 508/2001, de 11 de mayo. [Ref. BOE-A-2001-9097](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-9097)., en la redacción dada por el art. 1.2 del Real Decreto 950/2009, de 5 de junio. [Ref. BOE-A-2009-9980](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-9980).
+
+> Se modifica el apartado 3 por la disposición final 1.3 del Real Decreto 508/2001, de 11 de mayo. [Ref. BOE-A-2001-9097](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-9097).
+
+> Se modifica el apartado 3 por la disposición adicional 1.2.3 del Real Decreto 139/1997, de 31 de enero. [Ref. BOE-A-1997-3036](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-3036).
+
+## Artículo 8. Atribuciones del Pleno y de la Comisión Permanente.
+
+1\. La Comisión en Pleno tiene las siguientes atribuciones:
+
+a) Informar sobre el anteproyecto del Plan Estadístico Nacional y sobre los Programas anuales.
+
+b) Adoptar acuerdos, propuestas y recomendaciones sobre los temas sometidos a la consideración de la Comisión.
+
+c) Conocer los acuerdos, propuestas, recomendaciones e informes emitidos por la Comisión Permanente, así como todos aquellos asuntos que le someta a su consideración el Presidente.
+
+d) Aprobar la Memoria anual de su actividad.
+
+e) Instar al Ministro de Economía y Hacienda la actualización de la normativa reglamentaria de la Comisión.
+
+2\. La Comisión Permanente tiene las siguientes atribuciones:
+
+a) Adoptar acuerdos, propuestas y recomendaciones y formular informes de los temas sometidos a la consideración de la Comisión Permanente.
+
+b) Examinar previamente todos los asuntos que hayan de ser resueltos por el Pleno.
+
+c) Entender en las cuestiones delegadas por el Pleno y conocer cuantos asuntos someta a su consideración al Presidente de la Comisión Interministerial de Estadística.
+
+## Artículo 9. Atribuciones del Presidente de la Comisión y del Presidente de la Comisión Permanente.
+
+1\. Son atribuciones del Presidente de la Comisión:
+
+a) Presidir las sesiones del Pleno y representar a éste en sus relaciones institucionales.
+
+b) Decidir las competencias de la Comisión Permanente para la adopción de acuerdos, propuestas y recomendaciones.
+
+c) Convocar las sesiones y fijar el orden del día del Pleno,
+
+d) Abrir, suspender y levantar las sesiones del Pleno y dirigir sus deliberaciones.
+
+e) Autorizar con su firma los acuerdos, propuestas y recomendaciones y las actas de la Comisión en Pleno.
+
+f) Ejercer las demás funciones que le estén atribuidas por disposiciones legales vigentes.
+
+2\. Son atribuciones del Presidente de la Comisión Permanente:
+
+a) Las del Presidente de la Comisión, relativas a la Comisión Permanente, excepto la del apartado b) del número 1, de este artículo.
+
+b) Nombrar a los Presidentes de los Grupos de Trabajo.
+
+c) Recabar la presencia de personal cualificado al objeto de asesorar a la Comisión Permanente.
+
+## Artículo 10. Atribuciones de los Vocales.
+
+Los Vocales tienen las siguientes atribuciones:
+
+a) Participar en la elaboración de los acuerdos, propuestas y recomendaciones y proponer las modificaciones que estimen oportunas a los proyectos presentados sobre las mismas.
+
+b) Solicitar la ampliación de los antecedentes y de la información con carácter previo a la aprobación de los acuerdos, propuestas y recomendaciones.
+
+c) Formular que quede constancia de su opinión o voto particular sobre un tema cuando discrepe de la mayoría.
+
+d) Presentar al Pleno o a la Comisión Permanente propuestas sobre las materias competencia de la Comisión.
+
+> Redactada la letra d) conforme a la corrección de errores publicada en BOE núm. 226, de 20 de septiembre de 1990. [Ref. BOE-A-1990-23229](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23229).
+
+## Artículo 11. Funcionamiento.
+
+1\. El Pleno se reunirá para formular sus acuerdos, propuestas y recomendaciones cuantas veces lo juzgue necesario su Presidente. Asimismo lo hará cuando lo solicite, al menos, un tercio de los Vocales y, en todo caso, una vez al año.
+
+2\. La Comisión Permanente funcionará de conformidad con las normas establecidas para el Pleno, en cuanto le sean aplicables.
+
+3\. Los órganos de la Comisión tomarán sus acuerdos por mayoría de los asistentes y dirimirá los empates el voto del respectivo Presidente. Se acompañarán a las propuestas y recomendaciones las opiniones particulares discrepantes.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 226, de 20 de septiembre de 1990. [Ref. BOE-A-1990-23229](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23229).
+
+## Artículo 12. La Secretaria General.
+
+1\. El Director del Gabinete Técnico de la Presidencia del Instituto Nacional de Estadística tendrá atribuidas las funciones de la Secretaría General de la Comisión Interministerial de Estadística.
+
+2\. Corresponden al Secretario general las funciones de Secretario del Pleno y de la Comisión Permanente, así como las referentes a la organizarían y funcionamiento de los servicios de la Secretaría General de la Comisión.
+
+3\. La Secretaría General de la Comisión facilitará a los Grupos de Trabajo la infraestructura administrativa que necesiten para su funcionamiento y en orden a la mayor difusión y conocimiento de los informes que generen.
+
+4\. Los puestos de trabajo de la Secretaría General están incluidos en la Relación de Puestos de Trabajo.
+
+## Artículo 13. Consultas a la Comisión.
+
+1\. Recibido un proyecto, propuesta o cuestión estadística sobre alguna de las materias de la competencia de la Comisión, el Presidente de la misma determinará que pase a estudio bien del Pleno, bien de la Comisión Permanente.
+
+2\. Los acuerdos, propuestas, informes y recomendaciones de la Comisión se remitirán a los Organismos competentes o solicitantes de los mismos.
+
+## Disposición adicional única.
+
+1\. A los efectos previstos en el artículo 42.1 de la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública, serán representantes estatales en el Comité Interterritorial de Estadística, el Presidente, los Directores generales, el Subdirector general de Coordinación y Planificación Estadística y otro Subdirector general del Instituto Nacional de Estadística designado por el Presidente del Instituto Nacional de Estadística al efecto, así como los Vocales de la Comisión Interministerial de Estadística representantes de los siguientes Departamentos ministeriales: Justicia; Economía y Hacienda; Interior; Fomento; Educación y Cultura; Trabajo y Asuntos Sociales; Industria y Energía; Agricultura, Pesca y Alimentación; Presidencia; Administraciones Públicas; Sanidad y Consumo, y Medio Ambiente.
+
+2\. El Ministro de Economía y Hacienda podrá variar o ajustar el número de representantes estatales del Comité Interterritorial de Estadística cuando varíe el número de los Departamentos ministeriales, o la representación del Instituto Nacional de Estadística.
+
+> Se modifica por el art. único del Real Decreto 264/1992, de 20 de marzo. [Ref. BOE-A-1992-6762](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-6762)., en la redacción dada por la disposición adicional 1.3 del Real Decreto 139/1997, de 31 de enero. [Ref. BOE-A-1997-3036](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-3036).
+
+> Se modifica por art. único del Real Decreto 264/1992, de 20 de marzo. [Ref. BOE-A-1992-6762](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-6762).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 226, de 20 de septiembre de 1990. [Ref. BOE-A-1990-23229](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23229).
+
+## Disposición final primera.
+
+En lo no previsto por el presente Real Decreto será de aplicación lo dispuesto en el capítulo II del título I de la Ley de Procedimiento Administrativo.
+
+## Disposición final segunda.
+
+El Organismo Autónomo Instituto Nacional de Estadística facilitará los recursos necesarios para la organización y funcionamiento de la Comisión.
+
+## Disposición final tercera.
+
+El Ministro de Economía y Hacienda, previo el cumplimiento de los trámites legales oportunos, dictará las disposiciones necesarias para el desarrollo y aplicación de lo previsto en el presente Real Decreto.
+
+## Disposición final cuarta.
+
+Quedan derogadas cuantas disposiciones del mismo o inferior rango se opongan a lo establecido en este Real Decreto, y en particular:
+
+Las Órdenes de la Presidencia del Gobierno de 1 de febrero de 1964 (Oficina Técnica de Rentas); y las de 28 de noviembre de 1967; de 27 de julio de 1970 y de 11 de octubre de 1972; las Ordenes del Ministerio de Planificación del Desarrollo de 3 de mayo de 1974; de 22 de junio de 1974 y de 30 de julio de 1974; y las Órdenes del Ministerio de Economía de 14 de marzo de 1978 y de 27 de junio de 1979, todas ellas referidas a la creación, composición y modificación de las Comisiones Mixtas de Coordinación y Asesoramiento del Instituto Nacional de Estadística.
+
+## Disposición final quinta.
+
+El presente Real Decreto entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 27 de julio de 1990.
+
+JUAN CARLOS R.
+
+El Ministro de Economía y Hacienda,
+
+CARLOS SOLCHAGA CATALÁN
+
+> **Información relacionada**
+
+> Téngase en cuenta las referencias hechas a determinados órganos administrativos, según establece la disposición adicional 1 del Real Decreto 803/2022, de 4 de octubre. [Ref. BOE-A-2022-16198](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16198)

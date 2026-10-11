@@ -1,0 +1,107 @@
+---
+title: "Real Decreto 1436/1984, de 20 de junio, sobre normas provisionales de coordinación de las Administraciones Penitenciarias"
+identifier: "BOE-A-1984-17054"
+eli: "https://www.boe.es/eli/es/rd/1984/06/20/1436"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1984-06-20
+published: 1984-07-30
+in_force_from: 1984-08-19
+last_amended: 1988-06-25
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 181"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1984-17054"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1436/1984, de 20 de junio, sobre normas provisionales de coordinación de las Administraciones Penitenciarias
+
+Incluye las correcciones de errores publicadas en BOE núms. 190, de 9 de agosto de 1984. [Ref. BOE-A-1984-17718](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17718) y 227, de 21 de septiembre de 1984. [Ref. BOE-A-1984-21678](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-21678).
+
+Diversos Estatutos de Autonomía atribuyen las competencias sobre ejecución de la legislación penitenciaria a las respectivas Comunidades Autónomas.
+
+Iniciado el proceso de transferencias se advierte que la ubicación de los establecimientos penitenciarios no satisface aun el criterio de evitar el desarraigo social de los penados, lo que hace muy difícil, al menos en un primer momento, el que las Comunidades Autónomas que asumen la competencia dispongan de los medios necesarios para la ejecución plena y con el nivel exigido por la Ley Orgánica General Penitenciaria y el Reglamento que la desarrolla.
+
+Por todo ello es necesario que la Administración del Estado, en uso de las potestades normativas que le vienen atribuidas por la Constitución y los Estatutos de Autonomía, dicte los necesarios criterios de coordinación para la gestión de la Administración Penitenciaria, con carácter provisional, y sin perjuicio que la experiencia futura aconseje nuevas normas.
+
+En su virtud, a propuesta del Ministro de Justicia, oído el Consejo General del Poder Judicial y de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 20 de junio de 1984,
+
+DISPONGO:
+
+> Redactado el párrafo 2 conforme a la corrección de errores publicada en BOE núm. 190, de 9 de agosto de 1984. [Ref. BOE-A-1984-17718](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17718).
+
+## Artículo 1.
+
+1\. Cada Administración Penitenciaria deberá recibir a todo interno que, a requerimiento de la autoridad judicial, deba permanecer en un establecimiento de su competencia y a todos los penados que, por razones de clasificación y destino, deban cumplir condena en su ámbito territorial en aplicación de la legislación penitenciaria vigente.
+
+2\. En consecuencia, cada Administración Penitenciaria dispondrá de:
+
+a) Los establecimientos de preventivos necesarios, de conformidad con lo establecido en el artículo 8 de la Ley Orgánica General Penitenciaria.
+
+b) Un número de plazas suficiente en sus establecimientos de preventivos para que los internos peligrosos o inadaptados puedan permanecer en el establecimiento que, por su condición de preventivos, les corresponda o de la mayor proximidad posible a la sede del Tribunal que ha de juzgarlos, salvo excepciones muy cualificadas.
+
+c) Un número de plazas no inferior al 10 por 100 del total de cumplimiento, destinadas a penados clasificados en primer grado de tratamiento, que permitan a la mayor parte de estos internos cumplir sus condenas en el ámbito territorial que su tratamiento penitenciario aconseje.
+
+d) Para los penados clasificados en segundo y tercer grado, el número de plazas suficientes para satisfacer las exigencias de tratamiento derivados de la vigente legislación penitenciaria.
+
+> Se declara que las competencias controvertidas en el conflicto 817/1984 respecto del apartado 2.c) corresponden al Estado, por Sentencia del TC 104/1988, de 8 de junio. [Ref. BOE-T-1988-16007](https://www.boe.es/buscar/doc.php?id=BOE-T-1988-16007)
+
+> Redactado el apartado 2.d) conforme a la corrección de errores publicada en el BOE núm. 227, de 21 de septiembre. [Ref. BOE-A-1984-21678](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-21678).
+
+## Artículo 2.
+
+Las Comunidades Autónomas deberán informar a la Dirección General de Instituciones Penitenciarias del Ministerio de Justicia de todo ingreso, traslado, salida, clasificación, permisos y demás datos que afecten a la situación penitenciaria de los internos de los establecimientos que gestionen en su ámbito territorial.
+
+> Se declara que las competencias controvertidas en el conflicto 817/1984 corresponden al Estado, por Sentencia del TC 104/1988, de 8 de junio. [Ref. BOE-T-1988-16007](https://www.boe.es/buscar/doc.php?id=BOE-T-1988-16007)
+
+## Artículo 3.
+
+La Dirección General de Instituciones Penitenciarias y la Administración Penitenciaria de cada Comunidad Autónoma procederán conjuntamente a determinar las plazas óptimas y máximas de cumplimiento de penas que se transfieren.
+
+> Se declara que las competencias controvertidas en el conflicto 817/1984 corresponden al Estado, por Sentencia del TC 104/1988, de 8 de junio. [Ref. BOE-T-1988-16007](https://www.boe.es/buscar/doc.php?id=BOE-T-1988-16007)
+
+## Artículo 4.
+
+1\. Para la clasificación de los internos será competente el establecimiento penitenciario que le corresponda según la legislación vigente. Siempre remitirá sus propuestas a su propio Centro directivo.
+
+2\. Si la clasificación y destino del interno no implicara traslado a un ámbito territorial distinto, la Administración Penitenciaria resolverá sin más trámites que la preceptiva notificación a la Administración del Estado, en su caso.
+
+3\. Si un establecimiento, por clasificación o destino penitenciarios, propone traslado de un interno a un ámbito territorial de otra Administración, tramitará la propuesta a su propia Administración, quien podrá resolver con destino a un establecimiento de su competencia o, en su caso, dirigirla a la otra Administración, quien sólo podrá oponerse a ella por considerarla improcedente o por carencia de plazas, según las capacidades máximas previamente establecidas.
+
+> Se declara que las competencias controvertidas en el conflicto 817/1984 respecto de los apartados 2 y 3 corresponden al Estado, por Sentencia del TC 104/1988, de 8 de junio. [Ref. BOE-T-1988-16007](https://www.boe.es/buscar/doc.php?id=BOE-T-1988-16007)
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en el BOE núm 190, de 9 de agosto de 1984. [Ref. BOE-A-1984-17718](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-17718).
+
+## Artículo 5.
+
+1\. Los expedientes y protocolos de personalidad de los internos deberán redactarse en castellano, sin perjuicio de la redacción en la lengua oficial de la Comunidad, de conformidad con su legislación específica.
+
+2\. Asimismo la Dirección General de Instituciones Penitenciarias del Ministerio de Justicia dictará los criterios de normalización de los datos de carácter penitenciario para homogeneizar la documentación básica penitenciaria en el tratamiento de internos.
+
+> Se declara que las competencias controvertidas en el conflicto 817/1984 respecto del apartado 2 corresponden al Estado, por Sentencia del TC 104/1988, de 8 de junio. [Ref. BOE-T-1988-16007](https://www.boe.es/buscar/doc.php?id=BOE-T-1988-16007)
+
+## Artículo 6.
+
+1\. El traslado y conducción entre establecimientos dentro del territorio de una Administración Penitenciaria, cualesquiera que sean sus razones o autoridad requirente, serán ordenados por el Centro directivo de la misma.
+
+2\. Cualesquiera que fueren las razones del traslado o la conducción, si se realizasen entre establecimientos pertenecientes a distintas Administraciones Penitenciarias, será ordenado por la Administración bajo cuya competencia se encuentre el interno previa notificación a la Administración que lo haya de recibir.
+
+En este caso, si el traslado es consecuencia de clasificación o destino penitenciarios, será necesaria la previa aprobación de la Administración Penitenciaria que ha de recibir al interno de conformidad con lo establecido en el artículo 4, 3, del presente Real Decreto.
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en el BOE núm. 227, de 21 de septiembre de 1984. [Ref. BOE-A-1984-21678](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-21678).
+
+## Artículo 7.
+
+En supuestos excepcionales de motines, catástrofes, epidemias, incendios y otros de similares características que hagan necesario el traslado masivo de internos a establecimientos de otra Administración Penitenciaria, éste será decidido y organizado por la Administración que sufra la situación crítica. Inmediatamente comunicará a la Administración del Estado la situación extrema del establecimiento, el número de internos que sea preciso trasladar y las características penitenciarias de los mismos, para que ésta, considerando las plazas vacantes de todos los establecimientos del Estado distribuya el total de internos, previo acuerdo de la Administración Penitenciaria que los haya de recibir.
+
+Dado en Madrid a 20 de junio de 1984.
+
+JUAN CARLOS R.
+
+El Ministro de Justicia,
+
+FERNANDO LEDESMA BARTRET

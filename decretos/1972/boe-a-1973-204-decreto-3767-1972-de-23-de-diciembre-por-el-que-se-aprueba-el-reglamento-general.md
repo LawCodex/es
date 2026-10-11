@@ -1,0 +1,543 @@
+---
+title: "Decreto 3767/1972, de 23 de diciembre, por el que se aprueba el Reglamento General sobre Producción de Semillas y Plantas de Vivero"
+identifier: "BOE-A-1973-204"
+eli: "https://www.boe.es/eli/es/d/1972/12/23/3767"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1972-12-23
+published: 1973-02-12
+in_force_from: 1973-02-12
+last_amended: 2011-02-12
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 37"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1973-204"
+retrieved: 2026-10-11
+---
+
+# Decreto 3767/1972, de 23 de diciembre, por el que se aprueba el Reglamento General sobre Producción de Semillas y Plantas de Vivero
+
+La Ley once/mil novecientos setenta y uno, de treinta de marzo, sobre Producción de Semillas y Plantas de Vivero, en su disposición final segunda, establece que el Gobierno dictará el correspondiente Reglamento General para su aplicación a propuesta de los Ministerios competentes. Habida cuenta del tratamiento que de Tasas y Exacciones Parafiscales se establece en el presente Reglamento, competencia específica del Ministerio de Hacienda, así como de la necesaria y conveniente institucionalización de relaciones con el Ministerio de Comercio en materia de competencia, especialmente disciplina de mercados y comercio internacional, el Gobierno, en uso de su potestad reglamentaria, a propuesta de los Ministros de Agricultura, de Hacienda y de Comercio, previo informe de la Organización Sindical y oído el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día veintidós de diciembre de mil novecientos setenta y dos,
+
+DISPONGO:
+
+##### Artículo primero.
+
+Se aprueba el Reglamento General de la Ley once/mil novecientos setenta y uno, de treinta de marzo, de Semillas y Plantas de Vivero, cuyo texto figura como anejo al presente Decreto.
+
+##### Artículo segundo.
+
+La aplicación de lo preceptuado en el Reglamento General que se aprueba entrará en vigor en la fecha de su publicación en el «Boletín Oficial del Estado».
+
+Así lo dispongo por el presente Decreto, dado en Madrid a veintitrés de diciembre de mil novecientos setenta y dos.
+
+FRANCISCO FRANCO
+
+El Vicepresidente del Gobierno,
+
+LUIS CARRERO BLANCO
+
+## REGLAMENTO GENERAL SOBRE PRODUCCION DE SEMILLAS Y PLANTAS DE VIVERO
+
+### TÍTULO PRIMERO — Finalidad y ámbito del Reglamento
+
+##### Art. 1.
+
+La finalidad del presente Reglamento es, de acuerdo con lo establecido por la Ley 11/1971, promover, mejorar y proteger la producción de semillas y plantas de vivero y fomentar el empleo de las de mejor calidad, estableciendo asimismo las normas para su circulación y comercio.
+
+##### Art. 2.
+
+El ámbito de aplicación del presente Reglamento comprende las semillas y plantas de vivero de las especies siguientes: Cereales, leguminosas u otras plantas para la producción de grano; plantas hortícolas, plantas pratenses y forrajeras dedicadas al establecimiento de praderas, pastos y otros cultivos para la alimentación del ganado; plantas industriales; textiles, azucareras, oleaginosas y otras plantas que se utilicen como materias primas industriales; plantas para la obtención de flor, árboles y arbustos frutales; patata de siembra y otros tubérculos y bulbos; especies ornamentales, de jardín y las medicinales; forestales, y, en general, todas las de utilización económica en la agricultura e industrias derivadas.
+
+> Se modifica por el art. 1 del Real Decreto 646/1986, de 21 de marzo. [Ref. BOE-A-1986-8482](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-8482).
+
+### TÍTULO II — Semillas y plantas de vivero
+
+##### Art. 3.
+
+1\. A los fines de este Reglamento, se entiende por semillas los elementos que, botánica o vulgarmente, se designan con este nombre, y cuyo destino es el de reproducir la especie, así como los tubérculos, bulbos y otros órganos y material vivo que se utilicen con fines de multiplicación.
+
+2\. Se consideran como plantas de vivero los individuos botánicos destinados al establecimiento de plantaciones, ornamentación y jardinería, así como cualquier órgano vegetativo no incluido en la definición de semillas y que se utilice para la reproducción.
+
+##### Art. 4.
+
+De acuerdo con el Código Internacional de Nomenclatura de las Plantas Cultivadas, se define:
+
+Variedad comercial (internacionalmente «cultivar») es el conjunto de individuos botánicos y cultivados, que se distinguen por determinados caracteres morfológicos, fisiológicos, citológicos, químicos u otros de carácter agrícola o económico y que en la reproducción sexual o asexual conservan sus caracteres distintivos.
+
+La variedad comercial puede ser:
+
+a) Variedad comercial seleccionada (cultivar seleccionado o cultivar de obtentor), que es la obtenida como resultado de trabajos de selección.
+
+b) Variedad comercial local (cultivar local) es la que procede de una región geográfica claramente definida, que en ensayos oficiales ha demostrado poseer suficiente uniformidad, estabilidad y caracteres distintivos que permitan sea identificada, pero que no ha sido producida como resultados de trabajos controlados de selección.
+
+##### Art. 5.
+
+En orden a la aplicación del artículo 5.º de la Ley 11/1971, se estable lo siguiente:
+
+1\. La producción nacional de semillas y plantas de vivero a que se refiere el presente Reglamento se efectuará bajo control oficial.
+
+Corresponde al Ministerio de Agricultura, Pesca y Alimentación (en adelante MAPA) la ordenación y coordinación en materia de control y certificación de semillas y plantas de vivero y a los órganos competentes de las Comunidades Autónomas la ejecución de las operaciones necesarias para el control y certificación correspondiente.
+
+De conformidad con la normativa y procedimientos comunitarios se podrá autorizar a entidades públicas o privadas sin ánimo de lucro para que realicen las distintas operaciones de control previstas en los Reglamentos técnicos de control y certificación.
+
+2\. Definición y normas de actuación:
+
+A. Categorías de semillas y plantas de vivero.
+
+Por el MAPA se establecerán, de conformidad con la normativa comunitaria, las distintas categorías de semillas y plantas de vivero.
+
+A.1 Material parental.–Es la unidad inicial utilizada por la persona u organización responsable de la producción o de la conservación de las características de un cultivar seleccionado. A partir de este material se producen todas las semillas y plantas de vivero del cultivar por una o varias generaciones.
+
+A.2 Semillas de prebase.–Son las semillas de las generaciones que preceden a las semillas de base. La denominación ‘‘semillas de prebase’’ se aplicará a cualquiera de las generaciones entre el material parental y las semillas de base.
+
+A.3 Semilla de base.–Es la resultante de un proceso natural o controlado de selección y cuyo fin es la producción de semilla certificada, y cumple los requisitos establecidos en los Reglamentos Técnicos de Control y Certificación.
+
+En el caso de cultivares seleccionados deberá ser producida bajo la responsabilidad de la persona u organización responsable de la producción o de la conservación de las características del cultivar, siguiendo normas de selección varietal conservadoras generalmente admitidas para el cultivar.
+
+En el caso de cultivares locales se producirá bajo control oficial a partir del material oficialmente aprobado como perteneciente a la variedad local en una o varias explotaciones situadas en una región de origen claramente delimitada.
+
+En las semillas producidas por un proceso de hibridación controlada, se entiende como semilla de base la de los parentales usados directamente para la obtención de semilla de híbrido comercial.
+
+A.4 Semilla certificada.–Es la que procede directamente de la semilla base, de otra semilla certificada o, en su caso, a petición de la persona u organización responsable de la producción o de la conservación de las características del cultivar de semillas de una generación anterior a la de base, siempre que verifiquen las condiciones fijadas para las semillas de base y cumple los requisitos establecidos en los Reglamentos Técnicos de Control y Certificación.
+
+Cuando así lo establezcan los correspondientes Reglamentos Técnicos específicos, podrán subdividirse en:
+
+Semilla certificada de primera reproducción es la que procede directamente de la semilla de base o, de semillas de una generación anterior a la de base, y está destinada a la obtención de semilla certificada de reproducciones sucesivas o a la producción de plantas no destinadas a la obtención de semillas.
+
+Semilla certificada de reproducciones sucesivas es la que procede de una o más reproducciones de semilla de base, de semilla certificada de primera reproducción o, en su caso, de semilla de una generación anterior a la semilla de base, que está destinada a la producción de plantas con fines distintos a los de obtención de semillas o a la obtención de otras generaciones de semilla certificada. El número de generaciones sucesivas permitidas se establecerá para cada especie en los Reglamentos Técnicos específicos correspondientes.
+
+A.5 Material vegetal de base de plantas de vivero.–Es el constituido por plantas madre o parte de las mismas procedentes de material parental o de partida, de valor comprobado y que reúna los requisitos necesarios para garantizar su calidad, autenticidad varietal y sanidad, de acuerdo con los Reglamentos Técnicos de Control y Certificación.
+
+A.6 Material vegetal certificado de plantas de vivero.–Es el que procede directamente de material de base o está obtenido utilizando elementos de reproducción procedentes del mismo, siguiendo las normas establecidas en los Reglamentos Técnicos de Control y Certificación.
+
+A.7 Semillas y plantas de vivero standard.–Son las que poseen suficiente identidad y pureza varietal, que cumplen los requisitos establecidos en los Reglamentos Técnicos de Control y Certificación y que están sometidas a un control oficial efectuado a posteriori por muestreo para comprobar su identidad y pureza varietal.
+
+A.8 Semillas y plantas de vivero comerciales.–Son las que poseen únicamente la identidad del género o de la especie y cumplen los requisitos que en su caso se determinen en los Reglamentos Técnicos de Control y Certificación.
+
+B. Sistemas de control y certificación
+
+B.1 Los sistemas de control y certificación garantizan que las distintas operaciones de control se han realizado de acuerdo con los Reglamentos Técnicos correspondientes. La presencia de etiquetas oficiales en los envases de las semillas y en las plantas de vivero no implica asunción por parte de la Administración de las responsabilidades que pudieran derivarse como consecuencia del desarrollo anómalo del contenido de dichos envases o de las plantas de vivero.
+
+B.2 Las semillas y plantas de vivero que se certifiquen de acuerdo con los sistemas internacionales a los que se haya adherido oficialmente España adoptarán la nomenclatura contenida en los mismos.
+
+C. Registro de variedades comerciales de plantas
+
+C.1 **(Derogado)**
+
+C.2 **(Derogado)**
+
+La inscripción de una variedad en la lista de variedades comerciales tendrá una vigencia de diez años, transcurridos los cuales y a petición razonada del obtentor o su causahabiente, podrá renovarse la inscripción.
+
+Por el Ministerio de Agricultura, Pesca y Alimentación se dictará el Reglamento que fije las condiciones y modalidades que han de cumplirse para que una variedad pueda ser inscrita en la lista de variedades comerciales de plantas.
+
+C.3 Sólo podrán producirse con fines comerciales semillas y plantas de vivero de cultivares inscritos en la correspondiente lista de variedades comerciales o en los catálogos comunes de variedades de plantas agrícolas o de plantas hortícolas de la Unión Europea, de acuerdo con las normas específicas que se establezcan para cada especie o grupo de especies, quedando exceptuadas del cumplimiento de este requisito las semillas y plantas de vivero que se destinen exclusivamente a la exportación a países terceros.
+
+Asimismo, sólo se admitirá la entrada en España, con fines comerciales, de semillas y plantas de vivero de cultivares incluidos en las listas de variedades comerciales o en los catálogos comunes mencionados.
+
+Se podrá eximir de lo indicado en los dos párrafos anteriores a las semillas y plantas de vivero para las que, en la Unión Europea, no se exija para su comercialización inscripción varietal en un registro de variedades comerciales.
+
+D. Normas para la protección de los derechos del obtentor
+
+Las normas para la debida protección de los derechos del obtentor de nuevas variedades se establecerán de acuerdo con lo dispuesto en la Ley 11/1975, de Protección de Obtenciones Vegetales, y legislación complementaria que la desarrolla.
+
+E. Zonas en que se regulan determinadas producciones
+
+El Ministro de Agricultura, Pesca y Alimentación podrá fijar zonas cuyo ámbito geográfico supere el de una Comunidad Autónoma en las que, debido a motivos técnicos, se regule el cultivo y la producción de determinadas especies o variedades.
+
+F. Normas técnicas sobre semillas y plantas de vivero que se introduzcan en España procedentes de países de la Unión Europea o de países terceros.
+
+F.1 Las semillas y plantas de vivero que procedan de países de la Unión Europea y pertenezcan a especies y categorías reguladas por las Directivas de comercialización de dicha Unión, podrán ser comercializadas libremente, siempre que cumplan todos los requisitos exigidos en las mismas.
+
+Los introductores deberán cumplimentar y aportar ante los órganos competentes de las Comunidades Autónomas, los documentos y datos necesarios para facilitar la información prevista en la legislación comunitaria y para confeccionar las estadísticas nacionales. Por las Comunidades Autónomas se facilitarán al MAPA todos los datos e informaciones de que dispongan, para el cumplimiento de dichas finalidades.
+
+F.2 Las semillas y plantas de vivero de especies cuya comercialización no esté regulada en el ámbito de la Unión Europea y que procedan de sus países miembros, para poder ser comercializadas en España deberán cumplir uno de los requisitos siguientes:
+
+a) Ofrecer las mismas garantías que las producidas en España, de acuerdo con los Reglamentos técnicos de control y certificación correspondientes y con la normativa fitosanitaria en vigor.
+
+b) Venir acompañados de un certificado expedido por la autoridad competente del Estado miembro de donde proceden, en el que se haga constar que dichas semillas y plantas de vivero están autorizadas para comercializarse en dicho país.
+
+Los introductores deberán cumplimentar los documentos y aportar los datos a los que se refiere el apartado F.1.
+
+F.3 Las semillas y plantas de vivero que se importen de países terceros y pertenezcan a especies y categorías cuya comercialización esté regulada en el ámbito de la Unión Europea deben ofrecer las condiciones siguientes:
+
+a) En aquellos casos en que en la Unión Europea se haya establecido algún tipo de equivalencias con terceros países para determinadas especies y categorías, sólo podrán importarse semillas y plantas de vivero de dichas especies y categorías, y de aquellos países para los que se haya reconocido la equivalencia, en las condiciones fijadas en las correspondientes Decisiones de equivalencias dictadas por la Unión Europea.
+
+b) Cuando se importen de países terceros semillas y plantas de vivero para las que todavía no se haya establecido un régimen de equivalencias comunitario, las mismas deben cumplir idénticos requisitos que los exigidos a las semillas y plantas de vivero producidas en el interior de la Unión Europea.
+
+F.4 Las semillas y plantas de vivero de especies cuya comercialización no esté regulada en la Unión Europea, que procedan de países terceros, deben ofrecer las mismas garantías que las producidas en España, de acuerdo con los Reglamentos técnicos de control y certificación correspondientes y con la normativa fitosanitaria en vigor.
+
+F.5 Los introductores contemplados en los apartados F.3 y F.4 deberán presentar los documentos y aportar los datos que se establezcan por el MAPA.
+
+F.6 En los casos en que las correspondientes partidas arancelarias incluyan, para determinadas semillas o plantas de vivero, la calificación de "alta calidad", únicamente podrán considerarse incluidas en la misma las semillas y plantas de vivero de las máximas categorías en el país de origen y su calificación será determinada por el MAPA.
+
+G. Autorizaciones temporales.
+
+De acuerdo con la normativa comunitaria y el procedimiento comunitario previsto y en caso de dificultades temporales de suministro de semillas y plantas de vivero, el MAPA podrá dictar las normas y adoptar las medidas que sean necesarias en orden a la producción y entrada temporal en España, con fines comerciales, de variedades de semillas y plantas de vivero de cultivares que, no habiendo sido contemplados en los puntos C y F, no estén inscritos en las listas de variedades comerciales ni en los catálogos comunes de variedades de plantas agrícolas o de plantas hortícolas de la Unión Europea, o procedan de países sin equivalencia reconocida.
+
+> Se deroga el apartado 2.C.1 y 2 por la disposición derogatoria única del Real Decreto 170/2011, de 11 de febrero. [Ref. BOE-A-2011-2705](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2705).
+
+> Se modifica el apartado 2.A, C.3, F y se añade la letra G por el art. único del Real Decreto 2273/1993, de 22 de diciembre. [Ref. BOE-A-1993-30467](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-30467).
+
+> Se modifica por el art. 1 del Real Decreto 646/1986, de 21 de marzo. [Ref. BOE-A-1986-8482](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-8482).
+
+> Redactado el apartado 2.A.4 y C.3 conforme a la correccion de erratas publicada en BOE núm. 96, de 22 de abril de 1986. [Ref. BOE-A-1986-9863](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-9863).
+
+> Redactado el apartado 2.A.4 conforme a la correccion de errores publicada en BOE núm. 156, de 1 de julio de 1986. [Ref. BOE-A-1986-17315](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-17315).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE, núm. 43, de 19 de febrero de 1973. [Ref. BOE-A-1973-32816](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-32816).
+
+### TÍTULO III — Producción de semillas y plantas de vivero
+
+##### Art. 6.
+
+1\. Las Reglamentaciones técnicas a que deberán ajustarse la producción y el comercio de semillas y plantas de vivero se dictarán por el Ministerio de Agricultura, a iniciativa de la Junta Central del Instituto y propuesta de la Dirección General de la Producción Agraria y previo informe de la Organización Sindical.
+
+2\. Los Reglamentos técnicos específicos señalarán, como mínimo, los extremos siguientes:
+
+a.1. Especies sujetas al Reglamento técnico específico.
+
+a.2. Tipos de cultivares admisibles para la certificación.
+
+a.3. Categorías de semillas o plantas de vivero admitidas para la especie.
+
+a.4. Requisitos de los procesos de producción.
+
+a.5. Requisitos de las semillas, plantones o material de multiplicación a producir, con mención de los especiales precisos para semillas o material de base y certificado.
+
+a.6. Pruebas de postcontrol requeridas.
+
+a.7. Condiciones para ser productor, de acuerdo con el artículo octavo.
+
+a.8. Normas para etiquetado y comercialización.
+
+a.9. Normas especiales para material importado y para la exportación.
+
+##### Art. 7.
+
+1\. La producción nacional de semillas y plantas de vivero se efectuará bajo el control del Instituto Nacional de Semillas y Plantas de Vivero por personas físicas, agrupaciones, sociedades, Entidades sindicales y Cooperativas y, en caso necesario, como se establece más adelante, por Entidades públicas.
+
+Todas ellas deberán poseer el título de Productor de Semillas o de Productor de Plantas de Vivero, respectivamente, y en caso de entidades públicas deberán ajustarse a los mismos requisitos que se exijan a las personas y sociedades privadas.
+
+2\. El Ministerio de Agricultura, a propuesta de la Dirección General de la Producción Agraria, podrá encomendar a los Organismos dependientes del propio Ministerio, y siempre con carácter subsidiario, las misiones siguientes:
+
+a) Establecer conciertos con los productores autorizados para estimular la oferta de semillas y plantas de vivero en cantidad, calidad y precio de aquellas variedades adecuadas a la ordenación de las producciones.
+
+b) Multiplicar o importar, con carácter subsidiario, previo informe de la Organización Sindical, semillas y plantas de vivero en el caso de productos sometidos a régimen de regulación con precios de garantía, cuando por el Ministerio de Agricultura se compruebe que la oferta en cantidad, calidad o precio no fuese satisfactoria, y las medidas establecidas en el apartado primero no hubiesen resultado suficientes.
+
+c) Multiplicar o importar con carácter subsidiario semillas y plantas de vivero de productos sometidos a cualquier otro régimen de comercio, en el caso de que la iniciativa privada no realice tales operaciones, previo requerimiento para ello e informe de la Organización Sindical.
+
+3\. Todas las semillas y plantas de vivero producidas por dichos Organismos se obtendrán de acuerdo con lo dispuesto en el artículo séptimo de la Ley 11/1971, de 30 de marzo, siguiendo las normas señaladas en el presente Reglamento y disposiciones complementarias, bajo la inspección del Instituto Nacional de Semillas y Plantas de Vivero.
+
+4\. Las funciones que en la actualidad tiene encomendadas el Instituto Nacional de Semillas y Plantas de Vivero relativas a la producción de semillas certificadas de trigo se transferirán en la medida y ritmo posibles, de acuerdo con lo dispuesto en el artículo séptimo de la Ley 11/1971, a la iniciativa privada.
+
+Por la Dirección General de la Producción Agraria y el Servicio Nacional de Productos Agrarios se establecerán los oportunos convenios para regular la transferencia a la iniciativa privada de las funciones de producción de semillas de cereales no certificadas en los que se fijarán plazos y condiciones para cada una de las categorías de semillas.
+
+##### Art. 8.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 1891/2008, de 14 de noviembre. [Ref. BOE-A-2008-19731](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-19731).
+
+> Redactado conforme a la corrección de errores publicada en BOE, núm. 43, de 19 de febrero de 1973. [Ref. BOE-A-1973-32816](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-32816).
+
+##### Art. 9.
+
+1\. Previos los oportunos estudios podrán establecerse programas de ayuda y conciertos dentro de las consignaciones presupuestarias del Instituto Nacional de Semillas y Plantas de Vivero para las Empresas y agrupaciones de Empresas agrarias dedicadas a la producción de semillas y plantas de vivero, de acuerdo con las directrices del Gobierno, con los programas productivos del Ministerio de Agricultura y, en particular, con lo dispuesto en los Planes de Desarrollo Económico y Social.
+
+2\. Para incrementar el empleo por los agricultores de semillas y plantas de vivero, de producción controlada por el Instituto Nacional de Semillas y Plantas de Vivero, el Ministerio de Agricultura podrá auxiliar a la producción y adquisición de las referidas semillas y plantas de vivero con cargo a los créditos correspondientes a estas finalidades de los programas de Inversiones Públicas de los Planes de Desarrollo, siguiendo las normas de política productiva del Ministerio de Agricultura.
+
+3\. Las Empresas dedicadas a la producción de semillas o plantas de vivero, así como sus agrupaciones, tendrán la consideración de Entidades agrícolas. Este carácter será aplicable a efectos de concesión de préstamos por el Banco de Crédito Agrícola cuando la finalidad de los mismos sea previa y favorablemente informada por el Instituto Nacional de Semillas y Plantas de Vivero.
+
+4\. Serán de aplicación los beneficios de los sectores industriales agrarios de interés preferente, de acuerdo con el Decreto 2392/1972 y Decreto 2856/1964, siempre que se cumplan las mencionadas disposiciones para las instalaciones fijas de clasificación, selección y envasado, pudiendo acogerse también, si procede, a los beneficios correspondientes en determinadas zonas de preferente localización industrial agraria.
+
+Todas las instalaciones antes señaladas, una vez autorizadas por el Instituto Nacional de Semillas y Plantas de Vivero, se inscribirán automáticamente, a efectos administrativos, en el Registro de la Dirección General de Industrias y Mercados en Origen de Productos Agrarios del Ministerio de Agricultura.
+
+5\. El Ministerio de Agricultura estimulará las tareas de investigación que emprendan los productores de semillas y plantas de vivero, con el fin de mejorar sus técnicas en producción y la obtención de nuevas variedades vegetales, colaborando con la iniciativa privada, tanto en la constitución, creación de Convenios de Investigación, de Asociaciones de Investigación, como en las actividades relativas a planes concertados de investigación o en cualquier otro tipo de iniciativas investigadoras promovidas por el Estado y coordinadas por o con el Ministerio de Agricultura.
+
+### TÍTULO IV — Instituto Nacional de Semillas y Plantas de Vivero
+
+##### Art. 10.
+
+1\. Las funciones que se encomiendan al Ministerio de Agricultura en la Ley 11/1971, de 30 de marzo, serán desarrolladas por el Instituto Nacional de Semillas y Plantas de Vivero, nueva denominación del Instituto Nacional para la Producción de Semillas Selectas, creado por Decreto de 18 de abril de 1947, cuyas competencias asume y amplía de acuerdo con la citada Ley.
+
+2\. El Instituto Nacional de Semillas y Plantas de Vivero queda adscrito a la Dirección General de la Producción Agraria de acuerdo con el Decreto 2684/1971 y continuará siendo Organismo autónomo de la Administración del Estado, con personalidad jurídica que se regirá por la Ley de referencia y por las normas que regulan las Entidades Estatales Autónomas y en especial por la Ley de 26 de diciembre de 1958.
+
+##### Art. 11.
+
+Serán funciones del Instituto Nacional de Semillas y Plantas de Vivero:
+
+a) Las que deriven de lo dispuesto en el artículo quinto de la Ley 11/1971, de 30 de marzo, y cuanto se establece en el presente Reglamento.
+
+b) La certificación de las distintas categorías de semillas y plantas de vivero, que podrá realizarse bien por sus propios medios o mediante delegaciones o convenios con otros organismos oficiales o privados. En el caso de la certificación de semillas según el sistema de la O.C.D.E., el Instituto Nacional de Semillas y Plantas de Vivero será, también, la Autoridad designada para su cumplimiento.
+
+c) Efectuar análisis oficiales de semillas y los controles de plantas de vivero, así como extender los certificados oportunos, y en especial los certificados de análisis con validez internacional.
+
+d) **(Derogado)**
+
+e) Llevar el Registro de Productores a que se refiere el artículo octavo del presente Reglamento.
+
+f) Inspeccionar el proceso de producción y el de comercialización de semillas y plantas de vivero, de acuerdo con las normas que estén establecidas o que se determinen por los Reglamentos Técnicos.
+
+g) Realizar la introducción comercial de nuevas variedades que puedan considerarse de interés para la economía del país y en caso de que la iniciativa privada, previamente requerida para ello, no cumpla este fin.
+
+h) Servir a la política de producción que dicte el Ministerio de Agricultura.
+
+i) Estudiar los problemas técnicos que plantee el comercio exterior de semillas y plantas de vivero y emitir, cuando proceda, los informes y certificados necesarios para realizar las importaciones y exportaciones, exceptuada la competencia del Servicio de Inspección Fitopatológica.
+
+j) Cualesquiera otras que legalmente se le atribuyan.
+
+> Se deroga el apartado d) por la disposición derogatoria única del Real Decreto 170/2011, de 11 de febrero. [Ref. BOE-A-2011-2705](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2705).
+
+##### Art. 12.
+
+1\. Para el mejor desarrollo de las funciones asignadas al Instituto Nacional de Semillas y Plantas de Vivero se establecerá la debida coordinación con el Instituto Nacional de Investigaciones Agrarias y con otros Organismos de Investigación.
+
+2\. Se faculta al Instituto Nacional de Semillas y Plantas de Vivero para que pueda establecer convenios de colaboración con Entidades oficiales y privadas, nacionales y extranjeras, en materia de su especialidad, en beneficio de sus fines, previa aprobación de la Dirección General de la Producción Agraria.
+
+##### Art. 13.
+
+1\. El Instituto Nacional de Semillas y Plantas de Vivero estará regido por:
+
+Una Junta Central, un Director y un Secretario general.
+
+##### Art. 14.
+
+1\. La Junta Central estará constituida por un Presidente, un Vicepresidente, los Vocales y el Secretario, y tendrá las funciones que se desarrollan en el artículo quince.
+
+2\. El Presidente de la Junta Central del Instituto Nacional de Semillas y Plantas de Vivero será designado por el Ministro de Agricultura, con las siguientes atribuciones:
+
+– Ostentar la representación genérica de la Junta.
+
+– Convocar y presidir las reuniones plenarias de la Junta Central y de las Comisiones.
+
+– Dar cuenta a la Junta del desarrollo y ejecución de los acuerdos adoptados.
+
+– Elevar al Ministerio de Agricultura, a través del Director general de la Producción Agraria, las propuestas oportunas e informarle de la ejecución de las medidas aprobadas.
+
+– Procurar la debida divulgación de los acuerdos de la Junta Central y Comisiones de la misma.
+
+– Nombrar los componentes de las Comisiones que por acuerdo de la Junta se constituyan para estudio y preparación de los asuntos que hayan de ser conocidos y resueltos por el Pleno.
+
+– Cualquiera otra que especialmente se lo confiara.
+
+3\. Será Vicepresidente de la Junta el Director del Instituto, que será designado por el Ministro de Agricultura con categoría de Subdirector general.
+
+El Director del Instituto ostentará la representación del mismo en cuantas actuaciones sea preciso, será Jefe de los Servicios Técnicos y Administrativos y asumirá toda función directora o ejecutiva que requiera el ejercicio de su actividad, siempre que no esté atribuida reglamentariamente a la Junta Central.
+
+4\. Será Secretario de la Junta el Secretario general del Instituto, que auxiliará al Director en sus funciones ejecutivas y le sustituirá en caso de ausencia. Le corresponde ostentar la jefatura de personal del Instituto por delegación del Director, la organización de los trabajos técnicos y administrativos, preparar los estudios e informes que la Junta o el Director le encomienden y redactar la Memoria anual.
+
+5\. Serán Vocales:
+
+a) Cuatro representates de los Organismos Autónomos de Investigación, Divulgación, Ordenación de Producciones y Comercialización Agraria del Ministerio de Agricultura, designados por el Ministro del ramo.
+
+b) Un representante del Ministerio de Comercio.
+
+c) El Interventor del Instituto, nombrado por el Ministerio de Hacienda.
+
+d) Cinco funcionarios del Instituto designados por el Presidente del mismo entre los que desempeñen jefatura.
+
+e) Seis representantes de la Hermandad Sindical Nacional de Labradores y Ganaderos.
+
+f) Cuatro representantes de los productores de semillas designados por la Agrupación Sindical de Productores de Semillas.
+
+g) Dos representantes de los productores de plantas de vivero designados por el Subgrupo de Viveristas del Sindicato Nacional de Frutos y Productos Hortícolas.
+
+h) Todas las representaciones anteriores se ejercerán por un Vocal propietario y, en su caso, por un Vocal suplente.
+
+6\. Pueden asistir con voz, pero sin voto, el Asesor Jurídico y los Asesores Técnicos que designe libremente el Presidente.
+
+7\. La Junta Central podrá funcionar en Pleno o en Comisiones, integrada por los miembros de la Junta que el Presidente designe y serán presididas por el Presidente de la Junta o, por delegación del mismo, en su Vicepresidente. Las Comisiones que se constituyen son las siguientes:
+
+– Comisión de Presupuestos.
+
+– Comisión Técnica y Legislativa.
+
+– Comisión de Protección de Obtenciones Vegetales.
+
+Las Comisiones citadas tendrán un Vicepresidente que será el Director del Instituto y un Secretario que para la Comisión de Presupuestos será el Secretario general del Instituto; para la Técnica y Legislativa, el Subdirector Técnico de Certificación de Semillas y Plantas de Vivero, y para la de Protección de Obtenciones Vegetales, el Subdirector Técnico de Laboratorios y Registro de Variedades Comerciales y Protegidas.
+
+##### Art. 15.
+
+1\. La Junta Central tendrá, entre otras, las siguientes funciones:
+
+a) Proponer al Ministerio de Agricultura, a través de la Dirección General de la Producción Agraria, las medidas para promover, mejorar y proteger la producción de semillas y plantas de vivero y fomentar el empleo de las de mejor calidad, de conformidad con lo dispuesto en el artículo 5º de la Ley 11/1971, de 30 de marzo.
+
+b) Proponer al Ministerio de Agricultura, a través de la Dirección General de la Producción Agraria, la concesión o anulación de las autorizaciones para la producción de semillas o plantas de vivero.
+
+c) Estudiar e informar las posibles acciones a realizar, de acuerdo con los fines del Instituto que le sean propuestas por el Ministerio de Agricultura y sus Organismos dependientes a través de la Dirección General de la Producción Agraria.
+
+d) Estudiar y, en su caso, aprobar las Memorias anuales del Instituto Nacional de Semillas y Plantas de Vivero.
+
+e) Examinar los proyectos de presupuestos anuales y proponer su aprobación de acuerdo con los trámites reglamentarios.
+
+f) Estudiar las cuentas generales del Instituto y aprobarlas, en su caso.
+
+g) Proponer la fijación de los tipos de las tasas dentro de los márgenes autorizados y de acuerdo con la legislación vigente.
+
+h) Informar los asuntos que, para su estudio, le sean sometidos por el Presidente.
+
+i) Proponer las listas de variedades comerciales.
+
+j) Estudiar y proponer medidas legislativas para la protección de las variedades y de los derechos de obtentor.
+
+k) Cualesquiera otras que legalmente se le encomiende.
+
+### TÍTULO V — Recursos financieros y régimen económico administrativo
+
+##### Art. 16.
+
+El Instituto Nacional de Semillas y Plantas de Vivero podrá adquirir, poseer, enajenar y gravar bienes de todas clases y concertar las operaciones de crédito que se consideren precisas para su normal desenvolvimiento económico.
+
+##### Art. 17.
+
+1\. La financiación de todas las obligaciones derivadas de las funciones que se le otorguen al Instituto Nacional de Semillas y Plantas de Vivero se llevará a cabo con los siguientes recursos:
+
+a) Los créditos consignados a su favor en los Presupuestos Generales del Estado y de otras Entidades públicas y el producto de los contratos por servicios prestados a cualquier Entidad de carácter público o privado, así como las subvenciones que por este motivo le sean asignadas.
+
+b.1) El rendimiento de las tasas parafiscales legalmente establecidas por los servicios que tiene encomendados, convalidadas por el Decreto 500/1960, de 17 de marzo. A efectos de aplicación de dicho Decreto todas las semillas y material de reproducción vegetal se incluyen en el grupo de plantas hortícolas, con excepción de las semillas de cereales y patata.
+
+b.2) Asimismo, todas las tasas parafiscales legalmente establecidas que corresponda satisfacer por los servicios que se les transfieran o asignen, en particular las convalidadas por el Decreto 496/1960, así como el producto de las sanciones que por fraude, infracciones reglamentarias o cualquier otra anomalía se puedan legalmente exigir a los infractores sin perjuicio del destino actualmente atribuido a la recaudación obtenida por los conceptos 6.º y 7.º del artículo primero del Decreto 500/1960.
+
+c) El beneficio que pueda arrojar la liquidación del presupuesto comercial del Organismo.
+
+d) El producto de la enajenación de sus bienes o productos, cuando sea factible su realización, de acuerdo con las disposiciones vigentes.
+
+e) Las aportaciones y cualesquiera otros recursos que puedan atribuírsele.
+
+f) Los créditos que se concierten con el Banco de España y con las Entidades de crédito oficial y privado.
+
+2\. La ordenación del gasto corresponderá al Director del Instituto hasta un límite de 1.500.000 pesetas, hasta un límite de 3.000.000, al Director general de la Producción Agraria, y cuando supere esta última cantidad, por el Ministro de Agricultura, a propuesta de la Dirección General de la Producción Agraria. La ordenación de los pagos se llevará a cabo por el Director del Instituto, cualesquiera que sea su cuantía y su concepto.
+
+Al Interventor Delegado de la Intervención General de la Administración del Estado le corresponde la fiscalización, en general, de los actos que se realicen, de acuerdo con lo dispuesto en el capítulo XI y concordantes de la Ley de 26 de diciembre de 1958 sobre Régimen Jurídico de las Entidades Estatales Autónomas; asimismo, el Interventor Delegado dirigirá e inspeccionará la contabilidad, conforme a lo dispuesto en el capítulo VII de la citada Ley.
+
+3\. El periodo de vigencia de cada Presupuesto del Instituto coincidirá con el año natural.
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE, núm. 43, de 19 de febrero de 1973. [Ref. BOE-A-1973-32816](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-32816).
+
+##### Art. 18.
+
+El Instituto Nacional de Semillas y Plantas de Vivero someterá a la aprobación de los Organismos competentes el proyecto de plantilla del Organismo.
+
+### TÍTULO VI — Infracciones y sanciones
+
+##### Art. 19.
+
+La producción y comercio de semillas y plantas de vivero que se realice sin ajustarse a las normas de la Ley 11/1971, de 30 de marzo, y disposiciones complementarias, serán consideradas infracciones administrativas, sancionándose de acuerdo con la legislación vigente, sin perjuicio de las responsabilidades civiles y penales a que hubiere lugar.
+
+##### Art. 20.
+
+1\. Las infracciones administrativas podrán ser calificadas, a efectos de las sanciones aplicables, en actos antirreglamentarios, actos clandestinos y actos fraudulentos.
+
+2\. Se considerarán antirreglamentarios las infracciones puramente formales, sin que de ello pueda deducirse lógicamente el propósito de actuar clandestina o fraudulentamente y en especial:
+
+a) La distribución de propaganda no autorizada por el Instituto Nacional de Semillas y Plantas de Vivero.
+
+b) El incumplimiento de la remisión dentro de los plazos marcados de las declaraciones de cultivo y demás comunicaciones que se exijan en los Reglamentos Técnicos de Producción.
+
+c) La falta, por parte de los comerciantes de semillas y plantas de vivero, de exhibición del certificado acreditativo de estar autorizados como tales.
+
+d) No tener al corriente los libros-registros de existencia.
+
+e) La falta en los envases de etiquetas exteriores en número que sea anormal, cuando sea preceptiva su inclusión y no se reúnan las condiciones para constituir un acto clandestino.
+
+3\. Se considerarán actos clandestinos todas aquellas actuaciones que tienden a eludir la efectividad de las normas y medidas de vigilancia o intervención establecidas por el Ministerio de Agricultura en el cumplimiento de la misión de defensa de los intereses tutelados por la Ley 11/1971, de 30 de marzo, y en especial:
+
+a) La producción y comercio de semillas y plantas de vivero sin poseer la debida autorización para ello.
+
+b) La venta de semillas y plantas de vivero no precintadas por el Instituto Nacional de Semillas y Plantas de Vivero.
+
+c) La falta de certificados interiores o de etiquetas exteriores cuando no sea presumible se trate de un deterioro o pérdida de la misma.
+
+d) La no extensión de facturas de venta o el que éstas no se ajusten a lo preceptuado o a las anotaciones del libro-registro.
+
+4\. Se considerarán como actos fraudulentos:
+
+a) Las defraudaciones en la naturaleza, calidad, peso, precio o cualquiera otra discrepancia que se produjese entre las características reales de las materias o elementos de que se trate y las ofrecidas por el agricultor, productor o comerciante, siempre que no obedezcan a circunstancias biológicas, físicas, climatológicas u otras, no imputables al interesado.
+
+b) Las infracciones cometidas por las personas o Entidades autorizadas para la producción de semillas selectas y plantas de vivero, en relación con la obligación de empaquetar y etiquetar las semillas y las plantas destinadas al comercio en envases precintados por el Instituto Nacional de Semillas y Plantas de Vivero. Cuando para la distribución al comercio minorista convenga fraccionar dichos envases podrán realizar esta operación las personas o Entidades autorizadas para producir semillas y plantas de vivero, de acuerdo con las normas dispuestas en el artículo octavo de este Reglamento.
+
+5\. Las Leyes y Disposiciones complementarias en materia de represión de fraudes se aplicarán como legislación subsidiaria para calificar las citadas infracciones administrativas.
+
+##### Art. 21.
+
+1\. Las infracciones calificadas como actos antirreglamentarios serán sancionadas con multas comprendidas entre 24,04 y 601,01 euros.
+
+2\. Las infracciones calificadas como actos clandestinos serán sancionadas con multas comprendidas entre 240,40 y 1.202.02 euros y, en su caso, decomiso de la mercancía.
+
+3\. Las infracciones calificadas como actos fraudulentos se sancionarán con multas comprendidas entre 480,81 y 2.404,05 euros, imponiéndose además al infractor el abono de los gastos originados por la toma y análisis de muestras o por el reconocimiento que se hubiere realizado para comprobar el fraude y, en su caso, decomiso de la mercancía. Si existieran en el producto elementos perjudiciales para el cultivo, además de imponerse la sanción se pasará el tanto de culpa a la autoridad judicial competente.
+
+Cuando por la autoridad competente del Ministerio de Agricultura, Pesca y Alimentación se haya resuelto una sanción que incluya decomiso de la mercancía o el levantamiento de los cultivos, el personal del Instituto Nacional de Semillas y Plantas de Vivero podrá recabar la colaboración de las autoridades correspondientes para llevar a cabo la misión.
+
+> Se convierten a euros las cuantias contempladas en los apartados 1 a 3 por el apartado 1 y anexo de la Resolución de 6 de noviembre de 2011. [Ref. BOE-A-2001-21531](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-21531).
+
+> Se modifica por el art. único del Real Decreto 833/1985, de 22 de mayo. [Ref. BOE-A-1985-10391](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-10391).
+
+##### Art. 22.
+
+1\. La determinación de la cuantía de las multas señaladas en los artículos precedentes, dentro de los referidos límites, se hará en cada caso atendiendo a la gravedad de la infracción, al perjuicio causado, al grado de malicia del infractor, a la conducta y antecedentes de éste y, en general, a cuantas circunstancias pudieran modificar en uno u otro sentido la responsabilidad del mismo.
+
+2\. Cuando los productos estén destinados a la exportación, las multas podrán ser elevadas hasta el doble de las que correspondan, de acuerdo con lo dispuesto en el artículo 21.
+
+##### Art. 23.
+
+1\. En el caso de reincidencias, las multas serán superiores en un 50 por 100 a las que corresponden, de acuerdo con lo dispuesto en el artículo 21.
+
+2\. En el caso de que el reincidente cometiera nueva infracción clandestina o fraudulenta, las multas podrán ser elevadas hasta el triple de las que correspondan, y podrá ser ordenada la suspensión del ejercicio de la actividad que haya motivado la infracción por tiempo no superior a un año.
+
+3\. Se considerará reincidente en actos antirreglamentarios, actos clandestinos o actos fraudulentos el infractor sancionado por contravenir los correspondientes preceptos de la Ley 11/1971, de 30 de marzo, en los cinco años anteriores.
+
+El Ministerio de Agricultura podrá acordar, en su caso, la publicación de las sanciones impuestas en el «Boletín Oficial del Estado», a efectos de ejemplaridad.
+
+##### Art. 24.
+
+1\. La incoación e instrucción de los expedientes sancionadores corresponderá al Instituto Nacional de Semillas y Plantas de Vivero de propia iniciativa o a instancia de los perjudicados o autoridades competentes. La propuesta de resolución se formulará por el Servicio de Defensa contra Fraudes y de Ensayos y Análisis Agrícolas.
+
+2\. La resolución corresponderá:
+
+a) Cuando la cuantía de la multa no sea superior a 25.000 pesetas, al Servicio de Defensa contra Fraudes y de Ensayos y Análisis Agrícolas.
+
+b) Cuando la multa sea superior a 25.000 pesetas y no exceda de 50.000 pesetas, al Director general de la Producción Agraria.
+
+c) Si la multa fuese superior a 50.000 pesetas, al Ministro de Agricultura.
+
+3\. El procedimiento a seguir en la tramitación de los expedientes, a que se refiere el presente Reglamento, será el establecido en la Ley de Procedimiento Administrativo de 17 de julio de 1938.
+
+4\. Las infracciones a la Ley 11/1971, de 30 de marzo, prescribirán a los cinco años de su comisión.
+
+5\. Contra los acuerdos imponiendo las multas que autoriza el presente Decreto podrán presentar los sancionados los recursos reglamentarios.
+
+> Véanse los arts. 10 y 18 del Real Decreto 2177/1973, de 12 de julio. [Ref. BOE-A-1973-1310](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-1310)., en lo relativo a cuantías máximas y autoridades a quienes corresponden las resoluciones de los expedientes sancionadores.
+
+##### Art. 25.
+
+Las sanciones establecidas en cantidades absolutas en pesetas podrán ser revisadas por el Gobierno aplicándoles coeficientes de corrección en función del precio medio de los objetos o productos a que se refieran.
+
+##### Art. 26.
+
+Se faculta al Ministerio de Agricultura para dictar, dentro de su competencia, las disposiciones complementarias en ejecución y desarrollo de este Reglamento.
+
+#### DISPOSICIONES TRANSITORIAS
+
+##### Primera.
+
+El Instituto Nacional de Semillas y Plantas de Vivero someterá a la aprobación de los Organismos competentes el proyecto de plantilla que se origine. El nombramiento de nuevo personal se realizará de acuerdo con lo dispuesto en el Decreto 2043/1971, por el que se aprueba el Estatuto de personal al servicio de los Organismos Autónomos.
+
+##### Segunda.
+
+En los casos en que se creen o traspasen al Instituto Naciónal de Semillas y Plantas de Vivero nuevas actividades o actividades desarrolladas por otros Organismos según lo dispuesto en la Ley 11/1971, de 30 de marzo, se procederá a autorizar la disposición de los créditos oportunos de acuerdo con la normativa vigente.
+
+> Redactado conforme a la corrección de errores publicada en BOE, núm. 43, de 19 de febrero de 1973. [Ref. BOE-A-1973-32816](https://www.boe.es/buscar/doc.php?id=BOE-A-1973-32816).
+
+##### Tercera.
+
+Hasta la publicación de los Reglamentos Técnicos Específicos se aplicarán subsidiariamente y para cada especie las normas para producción y comercio de semillas y plantas de vivero en vigor a la publicación de la Ley 11/1971, de 30 de marzo.
+
+#### DISPOSICIÓN FINAL MODIFICADORA Y DEROGATORIA
+
+Se acomodará a lo previsto en el presente Reglamento lo relativo a la producción y comercialización de plantas de vivero de cítricos, referidos en los Decretos 2540/1968, de 10 de octubre, y 1881/1971, de 15 de julio, sobre medidas para contener la «tristeza» y ordenación fitosanitaria y técnica del cultivo de cítricos.
+
+Quedan derogadas cuantas disposiciones se opongan a lo preceptuado en el presente Reglamento y en especial, y sin perjuicio de la aplicación de la disposición transitoria tercera, por el condicionado que allí se señala: El Decreto de 10 de marzo de 1941, sobre la producción de semillas; Decreto de 6 de diciembre de 1941, por el que se crea el Servicio Nacional de la Patata de Siembra; Decreto de 18 de abril de 1947, por el que se organiza el Instituto Nacional para la Producción de Semillas Selectas, quedando adscrito al mismo el Servicio Nacional de la Patata de Siembra; Decreto de 17 de agosto de 1951, por el que se regula la producción y comercio de la semilla híbrida de maíz; Decreto 18/1960, de 7 de enero, sobre la producción nacional de semillas selectas; los artículos 1 a 9, ambos inclusive, del Decreto de 9 de noviembre de 1951, por el que se regula la multiplicación de semillas seleccionadas de cereales y de leguminosas de fecundación autógama; los artículos 21 y 22 del Decreto 1628/1970, de 12 de junio, por el que se regula la campaña de cereales 1970/71, prorrogada su vigencia por el artículo primero del Decreto 2044/1971 para las campañas de cereales 1971/72 y 1972/73, y el Decreto de 27 de marzo de 1953, por el que se reglamentan las sanciones en fraudes de productos agrícolas y pecuarios, en cuanto se refieren a semillas y plantas de vivero y no estén de acuerdo con lo dispuesto en el presente Reglamento.

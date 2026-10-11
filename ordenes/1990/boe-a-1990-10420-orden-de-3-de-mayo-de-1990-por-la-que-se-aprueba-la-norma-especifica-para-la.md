@@ -1,0 +1,322 @@
+---
+title: "Orden de 3 de mayo de 1990 por la que se aprueba la Norma Específica para la Peritación de Siniestros del Cultivo de Algodón en el Seguro Agrario Combinado"
+identifier: "BOE-A-1990-10420"
+eli: "https://www.boe.es/eli/es/o/1990/05/03/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1990-05-03
+published: 1990-05-09
+in_force_from: 1990-05-10
+last_amended: 1999-03-18
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 111"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-10420"
+retrieved: 2026-10-11
+---
+
+# Orden de 3 de mayo de 1990 por la que se aprueba la Norma Específica para la Peritación de Siniestros del Cultivo de Algodón en el Seguro Agrario Combinado
+
+De conformidad con lo dispuesto en el artículo 26 del Real Decreto 2329/1979, de 14 de septiembre («Boletín Oficial del Estado» de 9 de octubre), por el que se aprueba el Reglamento para la aplicación de la Ley 87/1978, de 28 de diciembre, de Seguros Agrarios Combinados, en cumplimiento de la Orden comunicada del Ministerio de Economía y Hacienda de 27 de diciembre de 1985 por la que se constituye una Comisión para la elaboración de Normas de Peritación de Siniestros del Seguro Agrario Combinado, oídas las Organizaciones y Asociaciones de Agricultores, así como las Entidades Aseguradoras, y a propuesta conjunta de los Ministerios de Economía y Hacienda y de Agricultura, Pesca y Alimentación he tenido a bien disponer:
+
+## Primero.
+
+Se aprueba la Norma Específica para la Peritación de Siniestros del Cultivo de Algodón en el Seguro Agrario Combinado, que figura como anexo a la presente Orden.
+
+## Segundo.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado»
+
+Madrid, 3 de mayo de 1990.
+
+ZAPATERO GOMEZ
+
+Excmos. Sres. Ministros de Economía y Hacienda y de Agricultura, Pesca y Alimentación.
+
+## ANEXO — Norma Específica para la Peritación de Siniestros del Cultivo de Algodón
+
+1.º Marco legal. Se dicta la presente Norma Específica de Peritación como desarrollo de la General, aprobada por Orden de 21 de julio de 1986 («Boletín Oficial del Estado» número 182, del 31).
+
+2.º Objeto de la norma. Establecer las líneas de actuación que deben tenerse en cuenta en la peritación de daños ocasionados sobre la producción de algodón, amparada por el Seguro Agrario Combinado.
+
+3.º Ámbito de la norma. Será de aplicación para la evaluación de los daños producidos por los riesgos amparados en las producciones de algodón (Género Gossypium).
+
+4.º Definiciones. Además de las recogidas en la Norma General, son de aplicación las que a efectos del Seguro se fijan en las condiciones especiales.
+
+5.º Procedimiento para la peritación de daños. El procedimiento para la peritación de daños se realizará en dos fases, Inspección Inmediata y Tasación. Estas dos fases podrán coincidir en una sola en aquellos siniestros cercanos a la recolección.
+
+Tanto la estimación inicial, si procede, de los daños en la Inspección Inmediata, como la determinación de los mismos, de la Producción Real Esperada y de la Producción Real Final en la segunda fase o Tasación, se realizará mediante muestreo según las características de la parcela.
+
+5.1 Muestreo:
+
+Las muestras en cada parcela se tomarán mediante sistema aleatorio, sistemático o estratificado si fuese procedente:
+
+Elección de muestras: Para la toma de muestras se tendrán en cuenta los siguientes puntos:
+
+a) Excluir todas las plantas, comprendidas en las dos primeras filas de plantas próximas a los márgenes y líneas permanentes del interior de la parcela, excepto cuando éstas constituyan una proporción importante de la misma o de su parte dañada, en cuyo caso las muestras se repartirán proporcionalmente al número de plantas existentes de cada grupo.
+
+b) En el caso de procederse a un muestreo aleatorio estratificado, las muestras se distribuirán proporcionalmente al número de plantas de la parcela o superficie existente en cada estrato.
+
+c) Para el riesgo de pedrisco, el muestreo se realizará planta por planta, asignando a cada una de las que componen la muestra su daño correspondiente en función de la tabla I.
+
+d) Se considera como unidad de muestreo tanto para la evaluación del daño como para las producciones, plantas comprendidas en 3 metros sobre una línea.
+
+Por tanto, la unidad de muestreo representaría la superficie resultante de multiplicar 3 metros por la distancia entre líneas.
+
+e) Las muestras mínimas a tomar estarán en función de la superficie de la parcela:
+
+| Superficie de la parcela<br>—<br>Hectáreas | Número de unidades muestrales | Marco-posición |
+|---|---|---|
+| Menor o igual a 1. | 3 | 1 × 3 |
+| Mayor de 1 y menor o igual a 2. | 6 | 1 × 6 |
+| Mayor de 2 y menor o igual a 3. | 9 | 1 × 9 |
+
+Suplemento por exceso: A partir de 3 hectáreas, una muestra adicional por cada hectárea.
+
+Marco-posición: El primer número indica el número de unidades muestrales en cada posición. El segundo indica el número de posiciones a realizar en la parcela.
+
+Tanto para la determinación de los daños como para la estimación de la producción real esperada y real final se procederá al estudio pormenorizado y cuantificación del total de los frutos y órganos vegetativos asegurables de las plantas elegidas como muestras, según se definen en las condiciones especiales de este seguro:
+
+En las determinaciones realizadas en los muestreos no se contabilizará, a efectos de producción real esperada, ni por tanto como pérdida en cantidad y/o calidad, toda aquella producción destruida o dañada por siniestros no garantizados.
+
+5.2 Inspección Inmediata: Como ampliación de lo expuesto en la Norma General de Peritación, el acto de Inspección Inmediata constará de dos fases:
+
+a) Comprobación de documentos: En esta fase se revisarán los datos reseñados en la declaración de seguro, y se cotejarán con los reflejados en la declaración de siniestro enviada por el Asegurado.
+
+b) Inspección práctica o de campo: En esta fase, se realizarán las comprobaciones mínimas en parcelas que deben tenerse en cuenta para la verificación de los daños declarados, así como su cuantificación cuando proceda.
+
+En el documento de Inspección Inmediata, además de las observaciones y comprobaciones que se indican en la Norma General de Peritación, para este cultivo se deberán constatar las siguientes:
+
+1\. Identificación de las parcelas siniestradas, comprobación de la superficie y número de muestras existentes en la parcela.
+
+2\. Cuantificación, cuando proceda, de las pérdidas no amparadas por el seguro.
+
+3\. Descripción de los efectos producidos por el siniestro.
+
+Dependiendo del período de desarrollo del cultivo en el que tenga ocurrencia el siniestro, se tendrá que considerar lo siguiente:
+
+1.º Hasta la aparición de la primera flor abierta:
+
+Se reconocerá, a nivel de parcela, la afección en distintos órganos vegetativos: Tallos, yemas y hojas.
+
+En los siguientes períodos de desarrollo vegetativo todas las anotaciones vendrán dadas por muestra.
+
+2.º Desde la primera flor abierta hasta el inicio de la recolección:
+
+Se anotará para cada muestra, además de las observaciones que figura en el apartado anterior, el número de cápsulas abiertas, semiabiertas y cerradas afectadas o caídas por el siniestro, así como las dañadas por siniestros no amparados por el seguro.
+
+3.º Durante la recolección:
+
+Se analizarán los mismos tipos de daños que figuran en los apartados anteriores, indicando, del mismo modo, el número de cápsulas recolectadas hasta la fecha del siniestro o, en su caso, el porcentaje recolectado.
+
+4.º Al finalizar la campaña, bien por ocurrencia de un siniestro que produzca pérdida total del producto asegurado, o bien por concluir las garantías del seguro, se tendrá que realizar una inspección, en la cual se tomarán los siguientes datos, siempre y cuando no se hubieran obtenido anteriormente, por ocurrencia de un siniestro cercano al final de garantías:
+
+Producción Real Esperada, según se establece en el apartado 5.3.4.
+
+Daños en cantidad y calidad, vendrán dados por la suma de las pérdidas en los siniestros anteriores y la pérdida del último siniestro que se está valorando, en su caso.
+
+5.º Fecha de la última recolección.
+
+No obstante, para los daños ocasionados por el riesgo de pedrisco serán de aplicación los períodos de desarrollo del cultivo reflejados en la tabla I.
+
+5.3 Tasación definitiva: La tasación de los daños causados por un siniestro, tal y como se indica en la Norma General, se realizará, si es posible, antes de la recolección posterior al siniestro.
+
+Cuando ello no fuera posible, y el asegurado hubiera procedido a la recolección posterior al siniestro, se deberá comprobar si las muestras dejadas para la tasación reúnen las características establecidas en las Condiciones Generales de los Seguros Agrícolas y Especiales que regulan este Seguro y lo establecido en la presente Norma. Si ello no fuera así, se suspenderá la tasación, no realizándose valoración alguna, consignándose únicamente las características de las muestras existentes en la parcela, aplicando lo dispuesto en dichas condiciones.
+
+5.3.1 Muestras testigo: Como ampliación del apartado 5.1.2.4 de la Norma General de Peritación, si la tasación de los danos no se hubiese realizado, o no se hubiera llegado a un acuerdo, y el asegurado tuviera que proceder a la recolección, deberá dejar muestras testigo con las siguientes características:
+
+El tamaño de las muestras será, como mínimo, del 5 por 100 del número total de plantas.
+
+La distribución de las muestras testigo será uniforme, dejando en el caso de procederse a una recolección:
+
+Mecanizada: Una franja de cosechadora de cada veinte franjas.
+
+Manual: Se deberá dejar una línea de cultivo de cada veinte, cuando sea posible por la extensión de la parcela, o si no, zonas alternas de 10 metros de longitud a lo largo de las líneas, distribuidas uniformemente en toda la parcela.
+
+Deberán ser representativas del estado del cultivo.
+
+Las plantas que forman la muestra no deben haber sufrido ningún tipo de manipulación posterior al siniestro.
+
+Como ampliación al apartado 5.1.2.4 de la Norma General de Peritación, si el Perito de la Agrupación no hubiera realizado la tasación de la parcela siniestrada y se hubiera procedido a la recolección, el asegurado deberá prestar cuantos cuidados sean necesarios para el mantenimiento de las muestras hasta la realización de la tasación, durante un plazo máximo de veinte días desde la última recolección o de la fecha declarada por el asegurado para ésta, siempre y cuando la declaración de siniestro se haya recibido en la Agrupación antes del inicio de la misma.
+
+Para aquellas declaraciones de siniestro que se reciban en la Agrupación durante la recolección o en fechas posteriores a la misma, el asegurado está obligado a mantener las muestras testigo durante veinte días contados a partir de la fecha de la recepción de la declaración de siniestro por la Agrupación.
+
+Si se hubiera iniciado el procedimiento de tasación contradictoria, el asegurado mantendrá, en todo caso y hasta su finalización, las muestras testigo.
+
+Excepcionalmente, en aquellos siniestros de lluvia en los que haya disconformidad en la valoración de los daños en calidad, se podrá tomar de mutuo acuerdo entre las partes muestras representativas del grado del algodón, y una vez seco serán identificada y selladas, para su posible utilización posterior. En este supuesto, no será necesario el mantener posteriormente las muestras testigo en el campo.
+
+Si las muestras hubiesen perdido su representatividad en este período por causas imputables al asegurado, se estará a lo dispuesto en las Condiciones Generales y Especiales que regulan este Seguro.
+
+Para la evaluación de los daños en parcelas en las que se hayan dejado las muestras testigo, con las características anteriores, se seguirán los mismos criterios de muestreo que los reflejados en el apartado 5.1 de esta Norma.
+
+5.3.2 Valoración de daños: Los daños en cantidad y/o calidad vendrán dados sobre la producción real esperada, viniendo expresados en un porcentaje de la misma y de acuerdo con lo establecido para cada riesgo en las condiciones especiales.
+
+Se tomarán como base los hechos consignados en el documento de inspección inmediata cuando éste hubiera sido levantado.
+
+En el caso de siniestros tempranos ocasionados por cualquiera de los riesgos cubiertos, en el que sea posible la reposición o sustitución del cultivo, se estará a lo establecido en el condicionado especial que regula este seguro.
+
+No obstante, para los siniestros de pedrisco y lluvia se tendrá en cuenta lo siguiente:
+
+5.3.2.1 Siniestro de pedrisco: Para la cuantificación de los daños se considerarán los efectos traumáticos ocasionados por este riesgo según el período de desarrollo del cultivo en el que tenga ocurrencia el siniestro, estando definidos los efectos, períodos y daños en la tabla I anexa.
+
+El daño total de pedrisco será la media que resulte de asignar a cada una de las plantas que componen la muestra o muestras tomadas su daño correspondiente en función de la tabla I.
+
+5.3.2.2 Siniestro de lluvia: Para la valoración de los daños ocasionados por la lluvia en el período comprendido desde la aparición de las primeras cápsulas semiabiertas hasta el final de la última recolección dentro del período de garantía, se procederá de la siguiente forma, pudiendo ser esta visita única y siempre será inmediatamente anterior a la recolección posterior al siniestro.
+
+Daños en calidad: Se determinará según los siguientes criterios:
+
+Se obtendrá la producción susceptible de recoger en la inmediata recolección, mediante el conteo de cápsulas completamente abiertas.
+
+Se asignará a la producción mencionada en el párrafo anterior, un único grado de calidad en función de la depreciación de color de la fibra y de acuerdo a lo estipulado en las condiciones especiales del seguro.
+
+A esta producción, se aplicará, de acuerdo con el grado, el precio que corresponda según lo establecido en las condiciones especiales de este seguro.
+
+El daño en calidad será la diferencia entre el valor, antes del siniestro, de la producción dañada y el valor, posterior al siniestro, de esta misma producción obtenido en la forma señalada en las condiciones especiales.
+
+Daños en cantidad: Se valorarán las pérdidas acaecidas como consecuencia de los siguientes efectos:
+
+Incidencia directa de lluvia sobre cápsulas completamente abiertas que ocasione desprendimiento y caída de algodón bruto.
+
+Este daño se expresará en unidades de cápsulas perdidas, asignando a éstas un 100 por 100 de daño.
+
+Incidencia directa de la lluvia sobre cápsulas semiabiertas que ocasione la pérdida de su algodón. En este caso las cápsulas afectadas se valorarán con una pérdida en cantidad del 50 por 100 a todos los efectos y de acuerdo con lo establecido en las condiciones especiales.
+
+5.3.3 Deducciones y compensaciones: El cálculo de las deducciones y compensaciones a que hubiere lugar, conforme a lo establecido en las Condiciones Especiales del Seguro y Norma General de Peritación, se efectuará de mutuo acuerdo, siempre que procedan y se hayan realizado.
+
+El Acta de Tasación recogerá, cuando proceda, según la normativa aplicable, las cantidades correspondientes al pago de las muestras testigo y su mantenimiento.
+
+5.3.4 Determinación de la Producción Real Esperada: Para la obtención de la Producción Real Esperada, se seguirán los siguientes pasos:
+
+Determinación del número de cápsulas susceptibles de recolectar en el período de garantía por unidad de superficie.
+
+Determinación del peso medio de la cápsula.
+
+La Producción Real Esperada de la parcela será la obtenida por la siguiente expresión:
+
+P.R.E.-Número de cápsulas por unidad de superficie x Peso medio de la cápsula x Superficie de la parcela.
+
+El peso medio de las cápsulas que se asigne a todos los efectos, es la media que resulte de ponderar el peso de las cápsulas por planta que pudieran abrir dentro del período de garantía de la póliza del Seguro.
+
+Se entiende por peso de la cápsula, el peso del algodón de las mismas.
+
+No se considerará producción susceptible de recolectar dentro del período de garantía:
+
+Todos aquellos botones, flores y cápsulas para los que no pueda transcurrir el período de tiempo suficiente para que su algodón sea recolectable dentro del período de garantía.
+
+Del mismo modo no se considerarán las producciones dañadas por plagas u otros siniestros no garantizados, tales como la aplicación de defoliantes, desecantes y por tratamientos fitosanitarios.
+
+TABLA I
+
+**Daños en cantidad en algodón para el riesgo de pedrisco**
+
+Períodos de desarrollo
+
+<table>
+<thead>
+<tr>
+<th>Sintomatología</th>
+<th>
+<p>Período 1</p>
+<p>Hasta aparición de botones florales</p>
+<p>–</p>
+<p>Porcentaje</p>
+</th>
+<th>
+<p>Período 2</p>
+<p>Desde 1 hasta cápsulas inmaduras</p>
+<p>–</p>
+<p>Porcentaje</p>
+</th>
+<th>
+<p>Período 3</p>
+<p>Desde 2 hasta cápsulas maduras</p>
+<p>–</p>
+<p>Porcentaje</p>
+</th>
+<th>
+<p>Período 4</p>
+<p>Desde 3 hasta apertura cápsulas</p>
+<p>–</p>
+<p>Porcentaje</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Planta tronchada bajo el primer nudo fructífero.</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Planta tronchada inmediatamente por encima de la 1.<sup>a</sup>, 2.<sup>a </sup>ó 3.<sup>a </sup>ramificación fructífera.</td>
+<td>55</td>
+<td>60</td>
+<td>70</td>
+<td>75</td>
+</tr>
+<tr>
+<td>Planta tronchada inmediatamente por encima de la 4.<sup>a </sup>ó 5.<sup>a </sup>ramificación fructífera.</td>
+<td>40</td>
+<td>40</td>
+<td>50</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Planta tronchada inmediatamente por encima de la 6.<sup>a </sup>ó 7.<sup>a </sup>ramificación fructífera.</td>
+<td>30</td>
+<td>15</td>
+<td>5</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Por rama rota: Ramas rotas x% daño ramas totales.</td>
+<td>–</td>
+<td>60</td>
+<td>90</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Por órganos florales rotos*: Órganos florales rotos x% daño total órganos florales.</td>
+<td>–</td>
+<td>50</td>
+<td>30</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Por cápsula desprendida: Cápsula desprendida x% daño cápsulas totales.</td>
+<td>–</td>
+<td>–</td>
+<td>90</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Cápsula cerrada.</td>
+<td colspan="4">Perforación por granizo del pericarpio hasta la fibra, carpelo perforado gajo perdido: 100 por 100.</td>
+</tr>
+<tr>
+<td>Fibra.</td>
+<td colspan="4">Algodón bruto esponjado tirado al suelo: 100 por 100.</td>
+</tr>
+</tbody>
+</table>
+
+\* Si contiene dos órganos florales por rama se considera que tiene la producción correcta.
+
+A los efectos de tasación y poder determinar el período de desarrollo del cultivo en el momento de ocurrencia del siniestro, se entiende por:
+
+Período 1: Desde el arraigo de las plantas hasta la aparición del primer botón floral.
+
+Período 2: Desde la aparición del primer botón floral hasta que el cultivo tenga el 50 por 100 de cápsulas inmaduras.
+
+Las cápsulas pueden cortarse con facilidad.
+
+Período 3: Desde el final del período 2 hasta que el cultivo haya alcanzado el 50 por 100 de cápsulas maduras. Las cápsulas no se pueden cortar con facilidad.
+
+Período 4: Desde el final del período 3 hasta que se haya producido la apertura de al menos el 25 por 100 de las cápsulas.
+
+> Se modifica por el Anexo de la Orden de 9 de marzo de 1999. [Ref. BOE-A-1999-6584](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-6584)

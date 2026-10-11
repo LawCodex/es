@@ -1,0 +1,87 @@
+---
+title: "Orden de 16 de febrero de 1993 por la que se crea en el Centro de Estudios y Experimentación de Obras Públicas la Escuela de Formación Técnica del Ministerio de Obras Públicas y Transportes"
+identifier: "BOE-A-1993-5272"
+eli: "https://www.boe.es/eli/es/o/1993/02/16/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Obras Públicas y Transportes"
+date: 1993-02-16
+published: 1993-02-25
+in_force_from: 1993-02-26
+last_amended: 2002-11-08
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 48"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1993-5272"
+retrieved: 2026-10-11
+---
+
+# Orden de 16 de febrero de 1993 por la que se crea en el Centro de Estudios y Experimentación de Obras Públicas la Escuela de Formación Técnica del Ministerio de Obras Públicas y Transportes
+
+Incluye la corrección de erratas publicada en BOE núm. 54, de 4 de marzo de 1993. [Ref. BOE-A-1993-5980](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5980)
+
+La selección y formación del personal al servicio de las distintas Administraciones Públicas constituye una tarea de importancia capital para la correcta atención de los intereses públicos.
+
+A fin de asegurar, por lo que respecta a los Cuerpos de las distintas ramas de la ingeniería que prestan sus servicios en este Departamento, la formación adecuada para el desempeño de su cometido, procede crear en el Centro de Estudios y Experimentación de Obras Públicas Organismo autónomo adscrito a este Ministerio con experiencia en materia docente y de investigación, la correspondiente Escuela especializada.
+
+Este nuevo Centro de Formación, en coordinación con el Instituto Nacional de Administración Pública y con el resto de los Organismos de la Administración Pública con competencia en la materia, colaborará en los procesos de selección y capacitación del personal de manera regular dentro de una programación metódica de carácter permanente.
+
+En su virtud, previa aprobación del Ministro para las Administraciones Públicas, he tenido a bien disponer:
+
+## Primero.
+
+Se crea en el Organismo autónomo Centro de Estudios y Experimentación de Obras Públicas, con la finalidad de contribuir a la selección, formación y especialización de los ingenieros que han de desempeñar su actividad profesional en el ámbito de actuación del Departamento, la Escuela de Formación Técnica del Ministerio de Obras Públicas y Transportes.
+
+Este Centro de formación en materia de ingeniería aplicada a las obras públicas, el transporte y las comunicaciones actuará en coordinación con el Instituto Nacional de Administración Pública.
+
+> Redactado el párrafo primero conforme a la corrección de erratas publicada en BOE núm. 54, de 4 de marzo de 1993. [Ref. BOE-A-1993-5980](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5980)
+
+## Segundo.
+
+Son funciones de la Escuela de Formación Técnica del Ministerio de Obras Públicas y Transportes:
+
+a) La realización de los cursos que se integren en el proceso selectivo para acceso a los distintos Cuerpos de Ingenieros al servicio de las Administraciones Públicas del Estado que desempeñen su función en el Departamento y en los Organismos de él dependientes.
+
+b) La organización y realización de cursos, seminarios y actividades de perfeccionamiento y especialización para Ingenieros de ambos ciclos en función de las necesidades del Departamento, a fin de asegurar en todo momento la imprescindible puesta al día de dichos colectivos en los conocimientos técnicos, científicos y gerenciales de interés para las funciones encomendadas al Departamento.
+
+c) Cualquier otra tarea de formación y perfeccionamiento de personal que pueda encomendársele, en el ámbito de su especialización, en cooperación con otros Órganos de la Administrción o Entidades de carácter público o privado, con los que podrá suscribir el Centro de Estudios y Experimentación de Obras Públicas los oportunos Convenios.
+
+## Tercero.
+
+La programación y organización de los cursos será propuesta conjuntamente por la Dirección General de Recursos Humanos y el Centro de Estudios y Experimentación de Obras Públicas.
+
+Las funciones que en materia de formación de personal vengan desarrollando en la actualidad otras unidades del Centro de Estudios y Experimentación de Obras Públicas se realizarán en lo sucesivo a traves de la Escuela de Formación Técnica del Ministerio de Obras Públicas y Transportes.
+
+## Cuarto.
+
+La dirección de la Escuela queda encomendada al Director general del Centro de Estudios y Experimentación de Obras Públicas, que contará con el apoyo, como Director adjunto, del Director del Centro de Estudios de Técnicas Aplicadas.
+
+## Quinto.
+
+Corresponderá al Consejo Rector de la Escuela la orientación general y la aprobación de las actividades del Centro docente.
+
+El Consejo Rector estará constutuido por el Subsecretario de Obras Públicas y Transportes como Presidente; el Presidente del Instituto Nacional de Administracion Pública como Vicepresidente primero; el Director general de Recursos Humanos como Vicepresidente segundo, y los Directores generales del Departamento. Será asimismo miembro del Consejo Rector el Subdirector general de Selección y Desarrollo de Recursos Humanos, que desempeñará la función de Secretario.
+
+## Sexto.
+
+**(Suprimido)**
+
+> Se suprime por la disposición adicional única.3 del Real Decreto 1136/2002, de 31 de octubre. [Ref. BOE-A-2002-21671](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-21671).
+
+## Séptimo.
+
+El Centro de Estudios y Experimentación de Obras Públicas pondrá a disposición de la Escuela el personal administrativo y medios materiales necesarios para el desempeño de las funciones que se le encomienden.
+
+## Octavo.
+
+La prestación de los servicios docentes sse acomodará al régimen general previsto en la materia, correspondiendo al Subsecretario del Departamento, a propuesta conjunta de los Directores generales de Recursos Humanos y del Centro de Estudios y Experimentación de Obras Públicas, la aprobación de la relación del profesorado que vaya a prestar dichos servicios.
+
+## Noveno.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 16 de febrero de 1993.
+
+BORRELL FONTELLES

@@ -1,0 +1,187 @@
+---
+title: "Orden de 14 de enero de 1988 por la que se aprueba la norma general de identidad y pureza para el cuajo y otras enzimas coagulantes de leche destinados al mercado interior"
+identifier: "BOE-A-1988-1153"
+eli: "https://www.boe.es/eli/es/o/1988/01/14/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1988-01-14
+published: 1988-01-20
+in_force_from: 1988-07-20
+last_amended: 2022-12-21
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 17"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1988-1153"
+retrieved: 2026-10-11
+---
+
+# Orden de 14 de enero de 1988 por la que se aprueba la norma general de identidad y pureza para el cuajo y otras enzimas coagulantes de leche destinados al mercado interior
+
+Desde la publicación y puesta en vigor del Código Alimentario Español, hasta los momentos actuales, se ha puesto de manifiesto la necesidad de completar el desarrollo normativo de los diferentes capítulos que lo integran y, en este caso concreto, del capítulo XV;
+
+Considerando además que, en las prácticas tecnológicas para la coagulación de la leche no sólo existe el cuajo, sino que también existen, cada vez más en auge, otras enzimas coagulantes de leche, es aconsejable dictar una disposición que regule estos productos,
+
+En su virtud, previo informe de la Comisión Interministerial para la Ordenación Alimentaria, y a propuesta de los Ministros de Economía y Hacienda, de Agricultura, Pesca y Alimentación y de Sanidad y Consumo,
+
+Este Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno, dispone:
+
+## Primero.
+
+Se aprueba la norma general de identidad y pureza para el cuajo y otras enzimas coagulantes de leche destinados al mercado interior, que figura en el anexo de esta disposición.
+
+## Segundo.
+
+La toma de muestras y las determinaciones analíticas se realizarán de acuerdo con los métodos oficiales vigentes.
+
+## Tercero.
+
+Los Departamentos competentes velarán por el cumplimiento de lo dispuesto en la presente Orden a través de sus órganos administrativos encargados, que coordinarán sus actuaciones, en todo caso, sin perjuicio de las competencias que corresponda a las Comunidades Autónomas y a las Corporaciones Locales.
+
+## Cuarto.
+
+La presente Orden entrará en vigor a los seis meses de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 14 de enero de 1988.
+
+ZAPATERO GÓMEZ
+
+Excmos. Sres. Ministros de Sanidad y Consumo, de Economía y Hacienda y de Agricultura, Pesca y Alimentación.
+
+## ANEXO — Norma general de identidad y pureza para el cuajo y otras enzimas coagulantes de leche destinados al mercado interior
+
+1\. Nombre de la norma
+
+Norma general de identidad y pureza para el cuajo y otras enzimas coagulantes de leche.
+
+2\. Objeto de la norma
+
+Esta norma tiene por objeto definir las condiciones y características que deben reunir el cuajo y otras enzimas coagulantes de leche para su comercialización en el mercado interior.
+
+3\. Ámbito de aplicación
+
+La presente norma se aplica al cuajo y a otras enzimas coagulantes de leche destinados a su comercialización en el mercado interior.
+
+4\. Definiciones
+
+4.1 Coagulantes de leche. Son preparaciones de proteinasas de origen animal, vegetal o microbiano capaces de provocar la desestabilización de la micela de caseina con formación de un gel lácteo en las condiciones habituales de elaboración del queso.
+
+Se clasifican en:
+
+4.1.1 Cuajo. Es el producto obtenido exclusivamente por extracción de los cuajares de rumiantes cuyo componente activo está constituido por quimosina pura o en mezcla con pepsina de rumiantes.
+
+4.1.2 Quimosina. Es el enzima obtenido bien por extracción de los cuajares de rumiantes, procediendo posteriormente a la separación de la quimosina pura por métodos físico-químicos especiales, o bien por fermentación a partir de un microorganismo modificado genéticamente, en el que se ha incorporado el gen responsable de la síntesis de quimosina de ternera.
+
+4.1.3 Coagulante animal. Es el producto de diferente origen animal que el descrito en el apartado 4.1.1, cuyo componente activo está constituído por quimosina y pepsina.
+
+4.1.4 Coagulante vegetal. Es el producto de origen vegetal cuyo componente activo tiene actividad coagulante y está constituido por una o varias proteinasas, procedentes de las especies de cardo (Cynara cardunculus, Cynara humilis) e higuera (Ficus carica).
+
+4.1.5 Coagulante microbiano. Es el producto de origen microbiano cuyo componente activo tiene actividad coagulante y está constituido por una o varias proteinasas, procedentes de las cepas: Endothia parasitica, Mucor pusillus y Mucor miehei.
+
+4.2 Se prohibe la mezcla entre sí de cualquiera de los coagulantes de leche definidos en el apartado 4.1.
+
+4.3 Título. Es la indicación de la actividad coagulante (AC) de las proteinasas presentes, expresada en unidades de coagulación (UC), de acuerdo con la Norma y técnica FIL 110 - A para su composición y la Norma y técnica FIL 157 para la fuerza.
+
+> Se modifica por el art. único.1 de la Orden de 20 de febrero de 1996. [Ref. BOE-A-1996-4330](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4330).
+
+5\. Denominaciones
+
+5.1 Se denominará ''extracto de cuajo'' a aquellas preparaciones que, ajustándose a lo definido en el apartado 4.1.1, presentan una actividad coagulante (AC) debida a la quimosina, igual o mayor al 75 por 100 de la AC total.
+
+5.2 Se denominará ''cuajo'' a aquellas preparaciones que, ajustándose a lo definido en el apartado 4.1.1, presentan una actividad coagulante (AC) debida a la quimosina entre el 75 por 100 y el 25 por 100 de la AC total.
+
+5.3 Se denominará ''cuajo bovino'' a aquellas preparaciones que, ajustándose a lo definido en el apartado 4.1.1, presentan una actividad coagulante (AC) debida a la quimosina igual o inferior al 25 por 100 de la AC total.
+
+5.4 Se denominará ''quimosina'' al producto definido en el apartado 4.1.2.
+
+En el caso de proceder de organismos genéticamente modificados, son autorizados exclusivamente para este fin los de las cepas de Escherichia coli K-12, que contiene el gen de la proquimosina A de ternera, Kluyveromyces lactis o Aspergillus niger var awamori, que contienen el gen de la proquimosina B de ternera, debidamente evaluadas por el Comité Científico de la Alimentación Humana y por el Comité de Expertos de Alimentación de la FAO/OMS (JECFA), así como otros que dichos Comités evalúen en el futuro.
+
+Se indicará el género, la especie, el gen y la cepa del microorganismo productor de la quimosina y su uso específico para la producción de queso.
+
+5.5 Se denominará ''Coagulante de leche'' a cualquier otra preparación que, cumpliendo la norma, se ajuste a lo dispuesto en los apartados 4.1.3, 4.1.4, ó 4.1.5 respectivamente.
+
+La palabra ''Coagulante de leche'' deberá ir seguida por las expresiones ''animal'', ''vegetal'', o ''microbiano'', de conformidad con el origen de las enzimas que contenga la preparación.
+
+Debajo se indicará:
+
+La especie, en el caso de origen animal.
+
+El género y la especie, en los casos de origen vegetal y microbiano.
+
+5.6 En todos los casos la denominación deberá incluir el título expresado de acuerdo con la definición que figura en el apartado 4.3.
+
+> Se modifica por el art. único.2 de la Orden de 20 de febrero de 1996. [Ref. BOE-A-1996-4330](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4330).
+
+6\. Factores esenciales de composición y calidad
+
+6.1 Ingredientes esenciales.
+
+Preparaciones de proteinasas de origen animal, vegetal o microbiano, comprendidas en el apartado 4.1.
+
+Cloruro sódico en dosis máxima del 20 por 100 p/v en las preparaciones líquidas, y buena práctica de fabricación en las pastosas y sólidas.
+
+6.2 Características físico-químicas. Humedad máxima del 6 por 100 m/m en el caso de preparados sólidos.
+
+> Se modifica por el art. único.3 de la Orden de 20 de febrero de 1996. [Ref. BOE-A-1996-4330](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4330).
+
+7\. Aditivos autorizados
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 1021/2022, de 13 de diciembre. [Ref. BOE-A-2022-21681](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21681)
+
+8\. Norma microbiológica y contaminantes
+
+**(Derogado)**
+
+> Se deroga por el art. 43 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se deroga el apartado 8.1 por el art. único.r) del Real Decreto 135/2010, de 12 de febrero. [Ref. BOE-A-2010-3032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3032).
+
+9\. Prohibiciones
+
+Queda expresamente prohibido:
+
+9.1 Que el contenido en cálcio iónico sea superior a 1.000 ppm.
+
+9.2 La adición de cualquier producto que falsee su composición enzimática y/o su poder coagulante.
+
+> Se derogan los apartados 9.3 y 4 por el art. 43 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+10\. Higiene
+
+**(Derogado)**
+
+> Se deroga por el art. 43 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+11\. Envasado
+
+**(Derogado)**
+
+> Se deroga por el art. 43 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+12\. Etiquetado
+
+**(Derogado)**
+
+> Se deroga por el art. 43 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se modifica por el art.único.4 de la Orden de 20 de febrero de 1996. [Ref. BOE-A-1996-4330](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4330).
+
+13\. Especificaciones
+
+Los productos que se elaboren con destino exclusivo para su exportación y no cumplan las disposiciones vigentes para su comercialización, en el mercado nacional, deberán estar envasados y etiquetados de forma que se identifiquen como tales, inequívocamente, para evitar su comercialización en el mismo.
+
+Importación. Las exigencias de la presente disposición no se aplicarán a los productos legalmente fabricados y/o comercializados en los restantes Estados miembros de la Unión Europea, ni a los productos originarios, conforme a lo previsto en el protocolo 4 del Acuerdo sobre el Espacio Económico Europeo, de los países miembros de la Asociación Europea de Libre Comercio firmantes de dicho Acuerdo.
+
+Los citados productos podrán ser comercializados en España siempre y cuando no se vean afectados por las razones especificadas en los artículos 36 del Tratado de la Unión Europea y 13 del Tratado del Espacio Económico Europeo, o por razón de la protección imperativa de los intereses generales, tales como la defensa de los consumidores, la lealtad de las transacciones comerciales o la protección del medio ambiente.
+
+> Se modifica por el art. único.5 de la Orden de 20 de febrero de 1996. [Ref. BOE-A-1996-4330](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4330).
+
+14\. Responsabilidades
+
+**(Derogado)**
+
+> Se deroga por el art. 43 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).

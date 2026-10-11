@@ -1,0 +1,235 @@
+---
+title: "Real Decreto de 22 de septiembre de 1917, estableciendo el crédito mobiliario agrícola sobre la prenda sin desplazamiento y creando el warrant"
+identifier: "BOE-A-1917-5068"
+eli: "https://www.boe.es/eli/es/rd/1917/09/22/(1)"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Consejo de Ministros"
+date: 1917-09-22
+published: 1917-09-25
+in_force_from: 1917-10-15
+last_amended: 1954-12-18
+consolidated: 2025-12-16
+gazette: "Gaceta de Madrid núm. 268"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1917-5068"
+retrieved: 2026-10-11
+---
+
+# Real Decreto de 22 de septiembre de 1917, estableciendo el crédito mobiliario agrícola sobre la prenda sin desplazamiento y creando el warrant
+
+EXPOSICIÓN
+
+SEÑOR: En el adjunto proyecto de Decreto que se somete a la aprobación de Vuestra Majestad, se desarrolla la autorización concedida al Gobierno en el artículo 10 de la ley de 2 de Marzo último, para establecer el crédito mobiliario agrícola sobre la prenda sin desplazamiento y crear el *warrant*, pero no se desenvuelve la facultad, que en dicho precepto se le otorga, para que el Estado facilite anticipos a los Sindicatos y Cajas rurales sobre la base de la responsabilidad solidaria o subsidiarias garantías, por cuanto el problema a que responde tal aspiración es de esperar que resulte debidamente atendido mediante el Real decreto expedido por el Ministerio de Fomento en 12 de Julio anterior.
+
+El Gobierno anterior dejó ya muy adelantada la labor que al efecto ha realizado el actual. Sin embargo, el meritísimo proyecto por él redactado ha sido objeto, después de detenida meditación, de adiciones y modificaciones varias a fin de lograr que la nueva organización que se establece otorgue toda clase de seguridades de reembolso a quienes coloquen sus capitales en los préstamos agrícolas, permita toda la fluidez posible al crédito y signifique facilidades para las industrias del campo.
+
+Nada práctico hubiera dispuesto la citada ley de Autorizaciones en cuanto al contrato de prenda agrícola sin desplazamiento, si sus preceptos no tuvieran el alcance, que indiscutiblemente revisten, de modificar, respecto del contrato pignoraticio, la disposición del Código Civil que exige que la prenda haya de quedar en poder del acreedor ó de un tercero, y si no permitiese que las cosechas, así como los aperos y maquinarias destinados á la explotación agrícola de una finca determinada, fueran considerados, á los mismos efectos, como bienes muebles. Lo más esencial, por consiguiente, para las bases del nuevo contrato, se determina en la autorización misma, siquiera haya habido que desarrollarlo en el adjunto Decreto, que, como nacido de una autorización legislativa, tiene la fuerza y eficacia de una ley.
+
+Después ha sido preciso atender principalmente a que no faltara afianzamiento práctico a los intereses del capital que a tal empleo se dedique, y por ello, el actual Gobierno, apartándose de opiniones muy respetables, ha considerado que los contratos debían revestir la forma externa más solemne y eficaz en derecho, porque de otra suerte, posibles quebrantos en esta clase de negocios, podrían, tal vez, desacreditarlos en general.
+
+Dos objeciones se oponían a este criterio: una la del encarecimiento que pudieran tener los gastos del préstamo; otra que se restaría fluidez á las operaciones de crédito. Respecto de la primera, queda sin valor en cuanto se establece una tarifa reducidísima para la intervención notarial, así como para los registros, que se confían a los Registradores de la Propiedad, por creer que son los más aptos para ello; y en cuanto a la segunda, lo difundido de las Notarías y el hábito, por parte de los Notarios, de realizar salidas constantes a los lugares de su territorio para el otorgamiento de toda clase de instrumentos públicos, la hacen poco temible. De esperar es que, tanto los Notarios como los Registradores, no se sientan lastimados en su interés, pues, aparte de que su patriotismo ha de aconsejarles la conformidad, habrán de comprender que se trata de crear riqueza, y que ésta siempre repercute, prodigando beneficios, en sus nobles profesiones.
+
+Lo cauteloso del dinero, que huye de contratos para cuya resolución se haga preciso, si no se cumplen, la intervención de los Tribunales, ha aconsejado que en los casos en que se tenga que acudir a ellos, se utilicen los procedimientos más rápidos y los más sencillos, y que en caso de falta de pago del préstamo, pueda la prenda venderse, del modo característico para el contrato de tal clase, sin que el Juzgado intervenga. La responsabilidad penal en que el deudor incurriría si no entregase la prenda, aleja las probabilidades de que los prestatarios acudan a estériles resistencias constitutivas de delito.
+
+La duración de los préstamos con el afianzamiento prendario que se autoriza, se ha subordinado al carácter que revisten las necesidades cuyo remedio se procura, porque no se trata de hallar el medio de facilitar los capitales que se requieran para adquirir propiedades o para otras atenciones que exijan largo término para el reembolso, por cuanto el crédito territorial puede servir de medio eficaz para lograrlos, ni tampoco se trata de arbitrar la manera de que el propietario obtenga las sumas que demanden las mejoras que en fincas le convenga establecer, pues el Gobierno estudia el modo de que en las reformas y mejoras mismas de las propiedades rústicas y sin necesidad de acudir a la hipoteca de éstas, pueda hallarse la garantía apetecida para los préstamos de tal clase, sino que se trata tan sólo, por el momento, de proporcionar el capital circulante que demanda una explotación agrícola, determinado por la rotación normal establecida con amplitud, de una cosecha, razón por la cual dicho plazo se fija en dieciocho meses, que está, además, de acuerdo con la condición especial de los productos que han de ser dados en prenda, poco apropiados, por lo general, para garantizar préstamos por varios años.
+
+El Crédito Agrícola adquirirá, sin duda, desenvolvimientos provechosos con el hecho de poder garantizarlo, con los aperos y útiles con que se trabajan los campos, sin que su empeño obste a su utilización, y con las cosechas pendientes pero si a ello solamente se contrajeran las disposiciones que se someten a la aprobación de V. M., quedaría sin tratar de resolverse íntegramente el problema, puesto que el del Crédito Agrícola, aparte de su aspecto territorial y el antes aludido, tiene el que puede fundamentarse fácilmente en el producto ya recogido y almacenado. A ello responde la organización expedita del *warrant* o resguardo de mercaderías susceptibles de gravamen y endoso.
+
+Estos resguardos deberán representar un valor real y una garantía efectiva que permita al labrador procurarse fondos con cargo a sus cosechas recogidas, sin necesidad de venderlas con precipitaciones dañosas para obtener buen precio; pero es preciso que el prestamista sobre tales resguardos tenga la certeza de que el depositario de los productos le garantiza la conservación de éstos y su existencia. El *warrant* representa un afianzamiento prendario al crédito, cuya eficacia estriba en la solvencia real y moral del depositario. Este, pues, ha de estar revestido de las condiciones precisas para inspirar confianzas, y como pretenderlo, según el Código de Comercio determina, exigiendo requisitos especiales para la constitución de almacenes generales de depósito y autorizando que estos solamente puedan expedir *warrant*, ha demostrado la experiencia que no presta a la institución las facilidades de difusión deseadas, se ha creído conveniente extender con amplitud la autorización para emitir los resguardos, a fin de procurar que apenas haya localidad en que no pueda realizarse.
+
+De este modo no se conseguirá, acaso, que todo *warrant* sea un instrumento de crédito para obtenerlo en cualquier parte de España; pero se logrará que allí donde sean conocidos la solvencia moral y material del que lo emita, sirva para contratar préstamos fácilmente, y que por sucesivos endosos, que puedan aumentar el radio de acción, se llegue a convertirlo en medio eficaz, para que, al cabo, represente un documento mercantil de fácil descuento.
+
+La forma de los resguardos que hayan de emitirse con la garantía directa de las entidades emisoras, prevéanlo o no los estatutos o las disposiciones que las rijan, era cuestión importante a decidir. Se ha elegido aquella más comúnmente aceptada en la moderna legislación, y hay que abrigar la esperanza del acierto, por cuanto permite las mayores facilidades para que los depositantes, con sólo transmitir los respectivos resguardos puedan ceder el dominio del depósito o darlo en garantía de un préstamo.
+
+La facilidad de los endosos, tanto respecto de los contratos de prenda agrícola, como de los resguardos de depósito o de garantía, darán la pretendida fluidez al crédito que se aspira a aclimatar en nuestro país. Si así se logra, no cabe duda de que el adjunto Decreto, juntamente con el dictado por el Ministerio de Fomento a que antes se ha aludido, remediarán las necesidades que están sintiendo los intereses agrícolas españoles.
+
+Tales son los deseos que, de acuerdo con el Consejo de Ministros, abriga su Presidente al someter a la aprobación de V. M. el adjunto proyecto de Decreto.
+
+Madrid, 20 de Septiembre de 1917.
+
+Señor: A. L. R. P. de V. M.
+
+EDUARDO DATO
+
+## REAL DECRETO
+
+De acuerdo con el parecer de Mi Consejo de Ministros, y utilizando la autorización otorgada á Mi Gobierno en el apartado a) del artículo 10 de la Ley de 2 de Marzo de 1917,
+
+Vengo en decretar lo siguiente:
+
+## TÍTULO I — De la prenda agrícola
+
+> Se deroga por la disposición final derogatoria de la Ley de 16 de diciembre de 1954. [Ref. BOE-A-1954-15448](https://www.boe.es/buscar/doc.php?id=BOE-A-1954-15448)
+
+### Artículos 1 a 13.
+
+**(Derogados)**
+
+> Se derogan por la disposición final derogatoria de la Ley de 16 de diciembre de 1954. [Ref. BOE-A-1954-15448](https://www.boe.es/buscar/doc.php?id=BOE-A-1954-15448)
+
+## TÍTULO II — De los resguardos de depósitos
+
+### Artículo 15.
+
+Los Sindicatos agrícolas o industriales, las entidades que por la federación de éstos se constituyan, las Cajas rurales, las Juntas de obras de puertos y cualesquiera otras entidades que obtengan en lo sucesivo la autorización del Gobierno, aun cuando no estén constituidas mercantilmente con arreglo a las disposiciones de la sección 10 del título 1.°, libro 2.°, del Código de Comercio, podrán en lo sucesivo dedicarse a las operaciones peculiares de las Compañías de almacenes generales de depósito y acreditar los que se constituyan en su poder, emitiendo resguardos que tendrán el carácter de negociables y transferibles por endoso u otro cualquier título traslativo de dominio y la fuerza y el valor determinados en el artículo 194 de dicho Código para los emitidos por las referidas Compañías.
+
+Se entenderá que los depósitos quedan constituidos en poder de las entidades a que se refiere el párrafo anterior, siempre que ellas garanticen la existencia y pormenores de los mismos, aun cuando materialmente continúen en poder del depositante, o sea un tercero el encargado de su conservación y custodia, pormenores éstos que, en su caso, deberán hacerse constar en los documentos a que se refiere el artículo siguiente.
+
+### Artículo 16.
+
+Los documentos en que se hagan constar los depósitos que admitan las entidades a que se refiere el artículo anterior, servirán para que, mediante su cesión, pueda realizarse la de los productos depositados, o su pignoración.
+
+A tal efecto, dichos documentos se compondrán de tres partes: una, la matriz que deberá quedar en poder de la entidad depositaria; otra, el resguardo que acredite el depósito, cuya cesión implicará la traslación de dominio de los productos depositados, y otra el resguardo de garantía o *warrant*, con el cual podrán realizarse la pignoración de los mismos.
+
+La cesión del resguardo de depósito, sin hacer al propio tiempo la del resguardo de garantía o *warrant*, no dará derecho sino a disponer de los productos depositados con las limitaciones que consten en el contrato que este último garantice; la entrega del resguardo de garantía, sin llevar aneja la del resguardo de depósito, no transmitirá el dominio de los productos depositados, sino que significará solamente que quedan pignorados; y por último, la cesión de los dos resguardos, representará la traslación absoluta de dominio, sin limitación alguna, de los referidos productos.
+
+### Artículo 17.
+
+Toda entidad autorizada para el depósito, conservación y custodia de los frutos y mercaderías que se les encomiende y para la emisión de resguardos nominativos que acrediten tales depósitos, habrá de ajustar su contabilidad a los preceptos del Código de Comercio y será responsable con los fondos de que disponga, aunque no lo determinen sus Estatutos o reglas de su fundación, de las operaciones de depósito que efectúe, y consiguientemente de los resguardos que emita para hacerlas constar.
+
+### Artículo 18.
+
+No podrán ser objeto válidamente de depósito, a los efectos de emitir resguardos en su equivalencia por las entidades a que se refiere el artículo anterior, los frutos o mercaderías que por la acción del tiempo por el cual el depósito se constituya, se mermen o destruyan, salvo cuando la merma signifique una disminución de peso, calculable aproximadamente de antemano, que no reste eficacia a su utilización.
+
+No obstante lo anteriormente dispuesto, el depositante estará obligado a responder de las pérdidas que puedan sufrir los frutos o mercancías, incluso por las mermas naturales.
+
+El depositante podrá reponer en la misma clase de frutos y mercaderías o en su equivalencia en efectivo metálico, las mermas padecidas en los productos objeto del depósito. Las nuevas consignaciones tendrán el lugar de los productos perdidos a los efectos de la garantía.
+
+### Artículo 19.
+
+No podrán constituirse los depósitos a que se refiere el artículo anterior con productos de valor inferior a 500 pesetas.
+
+Los documentos en que consten, contendrán:
+
+1.º Los nombres y apellidos o razón social y domicilio del depositante y del depositario.
+
+2.° Relación de los bienes depositados, señalando su naturaleza, cantidad, peso, envases, medida y demás datos que sirvan para individualizarlos, con arreglo a las prácticas establecidas en el comercio respecto de los mismos.
+
+3.° El estado en que los bienes se encuentren y su valor aproximado.
+
+4.° Expresión del almacén en que se depositen, del tiempo de duración del depósito, del importe de los gastos de almacenaje y del lugar y la fecha del otorgamiento del documento; y
+
+5.° Las firmas del depositante y del depositario.
+
+Los bienes objeto del depósito habrán de estar asegurados, bien directamente por el dueño de los mismos, bien por la entidad depositaria a cuenta de aquél, y en el contrato se hará constar los riesgos asegurados, el importe del seguro y la entidad aseguradora.
+
+### Artículo 20.
+
+Las entidades mencionadas en el artículo 15 no podrán admitir en depósito bienes a los que afecte hipoteca constituida sobre la finca a que correspondan, inscrita en el Registro de la Propiedad, o prenda inscrita en el Registro de prenda agrícola, o respecto de los cuales les conste la existencia de algún gravamen anterior. Si a pesar de ello se constituyese el depósito, dichas entidades depositarias serán responsables solidariamente con el depositante de la cantidad que figure en el resguardo cuando éste haya sido transmitido o fueren pignorados los bienes que en él figuren.
+
+### Artículo 21.
+
+Los resguardos de depósito como los de garantía o *warrant*, podrán cederse por endoso. La cesión tendrá el alcance determinado en el artículo 16.
+
+En los endosos del resguardo de garantía o *warrant*, se hará constar, con las firmas del deudor y acreedor, la cantidad objeto del préstamo, los intereses que se estipulen, la fecha del vencimiento, que no podrá ser posterior a la de terminación del depósito, y el lugar convenido para el pago.
+
+Las pignoraciones se anotarán con iguales requisitos en el resguardo de depósito y lo mismo en éste que en el *warrant* se hará constar haber sido registrada la operación en los libros de la entidad depositaria y en la matriz del contrato, sin lo cual no surtirán efectos dichas pignoraciones.
+
+El acreedor podrá transmitir el crédito mediante endoso del resguardo de garantía o *warrant*.
+
+En los endosos de los resguardos de depósito o de garantía habrá de constar: el nombre, apellido o razón social y domicilio del endosatario; el concepto en que el endosante se declara reintegrado; la fecha y firma del endosante.
+
+La entidad depositaria no podrá otorgar préstamos con la garantía de los bienes en ella depositados.
+
+### Artículo 22.
+
+El poseedor de un resguardo de garantía o *warrant*, una vez vencida la obligación garantizada, tendrá derecho a exigir de la Compañía o entidad depositaria la venta de los bienes que en aquél consten y a que se le entregue, después de deducir los gastos de almacenaje y conservación y los que ocasione la venta, el importe de su crédito, quedando el resto del precio, si lo hubiere, en poder de la entidad depositaria a disposición del tenedor del resguardo de depósito.
+
+La venta se hará en la forma establecida en el artículo 1.917 del Código de Comercio, anunciándola con un plazo de antelación de diez días, por lo menos, en el almacén en donde se hallen los bienes y en un periódico de la localidad, si lo hubiere, o si no, de la más próxima. En estos anuncios se hará constar el lugar, día y hora de la subasta, tipos de la misma, bienes de que se trate y depósito de que procedan.
+
+No se suspenderá la venta por quiebra, incapacidad o muerte del deudor, ni por ninguna otra causa, a no ser por mandamiento judicial de suspensión, que no podrá decretarse sin el previo depósito de la cantidad adeudada y del importe de los intereses y gastos que se calculen. En caso de suspensión el acreedor tendrá derecho a reclamar que se le abone a cuenta de dicho depósito el importe de su crédito e intereses, mediante entrega de *warrant* al Juzgado, si ofrece, a satisfacción de éste, garantía para la devolución que pueda acordarse.
+
+Quedará de hecho sin efecto la suspensión y libre el acreedor de responsabilidad si dentro del plazo de treinta días no se notificare a la entidad depositaria haberse entablado demanda judicial contra el poseedor del *warrant* que haya instado la venta de los bienes. Si éste hubiere sido ya reintegrado de su crédito, en virtud de lo dispuesto en el párrafo anterior, continuará la venta a instancia y por cuenta del que solicitó la suspensión, al cual se entregará por el Juzgado el *warrant* correspondiente.
+
+### Artículo 23.
+
+Cuando un resguardo de garantía o *warrant* haya sido endosado, su poseedor, llegado el vencimiento de la obligación, podrá hacer efectivo el crédito, dirigiendo la acción contra los bienes depositados, en la forma establecida en el artículo anterior.
+
+Cualquier endosante, aun cuando no haya sido requerido para ello, podrá hacer efectivo el importe del crédito recogiendo el *warrant* y subrogándose en los derechos del acreedor respecto del deudor y de los endosantes anteriores.
+
+Igual derecho de subrogación tendrá el endosante que haya hecho efectivo el crédito a consecuencia de reclamación judicial.
+
+### Artículo 24.
+
+Cuando el producto de la venta de los bienes no bastase a cubrir el importe del crédito después de descontar los gastos procedentes, el tenedor del *warrant* tendrá acción personal solidaria por la parte no reintegrada contra el depositante y los endosantes anteriores, si los hubiere, con la condición, en cuanto a éstos, de que la Compañía o entidad depositaria, a instancia del referido tenedor del warrant, les haya participado a su debido tiempo la celebración de la subasta mediante carta certificada con acuse de recibo.
+
+Dicha acción prescribirá a los treinta días siguientes a aquél en que haya recibido el acreedor el importe líquido de los bienes vendidos.
+
+### Artículo 25.
+
+En cualquier momento, aun antes de terminar el plazo de duración del depósito, la persona que posea el resguardo de éste tendrá derecho, si así lo solicita y acompaña el resguardo de garantía o *warrant*, a que se le entreguen los bienes depositados, previo el pago de intereses y comisión corrientes en las operaciones bancarias que se liquidan antes de plazo.
+
+### Artículo 26.
+
+El poseedor del resguardo de depósito, cuando hayan sido pignorados los bienes que en él figuren, podrá pagar el importe de la cantidad prestada antes del vencimiento de préstamo.
+
+Si el acreedor no aceptase el pago, el poseedor del resguardo de depósito tendrá la facultad de consignar la suma adeudada en poder de la entidad depositaria. En tal caso, esta entidad entregará los bienes depositados al poseedor del resguardo de depósito, y la cantidad consignada quedará a disposición del tenedor del *warrant*.
+
+### Artículo 27.
+
+Los propietarios de resguardos de depósito, en unión de los poseedores de los resguardos de garantía o *warrants* correspondientes, tendrán derecho a pedir que el depósito constituido se divida en varios lotes o fracciones, y que por cada uno de éstos se les entregue el correspondiente resguardo en la forma establecida en el artículo 19.
+
+### Artículo 28.
+
+Las entidades depositarias de productos agrícolas, no podrán almacenar en un mismo local, ni en locales contiguos, mercaderías susceptibles de alterarse recíprocamente. Los almacenes que utilicen dichas entidades, deberán hallarse en las condiciones adecuadas para la mejor conservación de los bienes depositados.
+
+Los tenedores de resguardos de depósito o de garantía podrán examinar en los referidos locales los bienes que en tales resguardos figuren, así como retirar muestras de los mismos, si su naturaleza lo permitiere.
+
+Las entidades aludidas no podrán efectuar operaciones de compraventa de productos agrícolas que tengan naturaleza análoga a la de los depositados en ellas.
+
+### Artículo 29.
+
+Todo propietario de resguardos de depósito o de *warrants*, que por extravío, destrucción o cualquier otra causa se hallare desposeído de ellos, deberá dar aviso inmediato a la entidad que los haya emitido, y podrá obtener un duplicado con anulación del primero, sin que pueda hacer efectivos los derechos que se deriven de tal duplicado, hasta transcurridos cuatro meses de la fecha de su emisión, la cual deberá anunciarse en sitio visible del local de depósito, en el *Boletín Oficial* y en algún periódico de la localidad, si lo hubiere, o, en su defecto, en alguno de los que se publiquen en la capital de la provincia.
+
+En el caso de prestar fianza bastante, a tenor de lo determinado en el artículo 22, podrá el poseedor del duplicado que como tal conste en la matriz del contrato, ejercitar sus derechos respecto del depósito antes de transcurrido el plazo de los cuatro meses anteriormente establecido.
+
+### Artículo 30.
+
+El Gobierno podrá inspeccionar en cualquier momento a las Compañías y entidades autorizadas para la emisión de resguardos, al efecto de comprobar si su funcionamiento se ajusta a las anteriores disposiciones y a las condiciones en que haya sido otorgada la autorización especial, cuando ésta sea necesaria.
+
+De no ajustarse a ellas, podrá aquél suspender la realización de nuevas operaciones de esta clase, por resolución motivada que se publicará en la GACETA DE MADRID y en el *Boletín Oficial* de la provincia respectiva, y en la que se concederá un plazo para corregir los defectos comprobados. Corregidos éstos se procederá, a instancia de la entidad de que se trate, al alzamiento de la suspensión. Si en el plazo señalado no hubieran desaparecido los defectos, continuará la suspensión y se instruirá de oficio expediente, en el que podrá acordarse dejar sin efecto la autorización concedida para la emisión de resguardos, en los casos en que tal autorización es necesaria, o, tratándose de Compañías constituidas con arreglo al Código de Comercio y entidades expresadas en el artículo 15, prohibir que emitan resguardos de depósitos de productos agrícolas, con arreglo a las anteriores disposiciones.
+
+Las resoluciones definitivas que se dicten en uno y otro caso serán también motivadas; se dictarán previa audiencia del Consejo de Estado y habrán de publicarse en la GACETA DE MADRID y en el *Boletín Oficial* de la provincia respectiva, juntamente con el informe de dicho Alto Cuerpo.
+
+### Artículo 31.
+
+Las entidades depositarias a que se refiere el presente capítulo, podrán realizar, además de las operaciones que quedan consignadas, las siguientes:
+
+a) La limpia, preparación, clasificación, surtido, distribución y empaquetado de productos y otras operaciones análogas.
+
+b) El establecimiento de lonjas de contratación y la publicación de las cotizaciones de productos.
+
+También podrán, cuando se trate de mercancías respecto de las cuales la práctica del comercio haya establecido clases bien determinadas, juntar en sus recipientes, silos y otras instalaciones análogas, mercancías de distintos depositantes, pero de idéntica clase comercial, siempre que lo especifique debidamente en los respectivos contratos.
+
+En estos casos se entenderá cumplida por la entidad la condición a que se refiere el artículo 198 del Código de Comercio, respecto de la identidad mediante la devolución de las mercancías en la cantidad y clase estipuladas y procedentes del mismo recipiente en que fueron vertidas. En caso de pérdida parcial de las mercancías de diversos depositantes en un mismo recipiente se entenderán perdidas, a los efectos jurídicos de la identificación, en el mismo orden en que fueron depositadas. Todas las mercancías de igual clase depositadas en común en un mismo almacén en la forma prevista en este artículo habrán de estar aseguradas en idénticas condiciones por todo el tiempo por que fuera expedido el reguardo
+
+Los productos depositados tendrán en todo caso la consideración legal de cosa cierta y determinada en los actos y contratos realizados mediante los resguardos emitidos, y en los casos de cesión del resguardo de depósito no será aplicable lo dispuesto en el caso 1.° del artículo 334 del Código de Comercio.
+
+### Disposición adicional primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición final derogatoria de la Ley de 16 de diciembre de 1954. [Ref. BOE-A-1954-15448](https://www.boe.es/buscar/doc.php?id=BOE-A-1954-15448)
+
+### Disposición adicional segunda.
+
+**(Derogada)**
+
+> Se deroga por la disposición final derogatoria de la Ley de 16 de diciembre de 1954. [Ref. BOE-A-1954-15448](https://www.boe.es/buscar/doc.php?id=BOE-A-1954-15448)
+
+### Disposición adicional tercera.
+
+**(Derogada)**
+
+> Se deroga por la disposición final derogatoria de la Ley de 16 de diciembre de 1954. [Ref. BOE-A-1954-15448](https://www.boe.es/buscar/doc.php?id=BOE-A-1954-15448)
+
+Dado en San Sebastián a veintidós de Septiembre de mil novecientos diecisiete.
+
+ALFONSO
+
+El Presidente del Consejo de Ministros,
+
+EDUARDO DATO

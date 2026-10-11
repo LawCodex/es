@@ -1,0 +1,564 @@
+---
+title: "Real Decreto 1457/1986, de 10 de enero, por el que se regulan la actividad industrial y la prestación de servicios en los talleres de reparación de vehículos automóviles, de sus equipos y componentes"
+identifier: "BOE-A-1986-18896"
+eli: "https://www.boe.es/eli/es/rd/1986/01/10/1457"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1986-01-10
+published: 1986-07-16
+in_force_from: 1986-08-05
+last_amended: 2020-06-20
+consolidated: 2025-12-17
+gazette: "Boletín Oficial del Estado núm. 169"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-18896"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1457/1986, de 10 de enero, por el que se regulan la actividad industrial y la prestación de servicios en los talleres de reparación de vehículos automóviles, de sus equipos y componentes
+
+Incluye la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+La actividad de reparación de vehículos automóviles fue objeto de regulación por el Decreto 809/1972, de 6 de abril, que abordaba dicho tema en una doble vertiente: Por un lado, señalaba las condiciones de instalación de los talleres dedicados a tal actividad y establecía los requisitos necesarios para el ejercicio de la misma, y, por otro, esbozaba el cuadro de derechos y garantías que correspondían a los usuarios o clientes.
+
+La regulación de la actividad industrial de estos talleres se establece en este Decreto, en el contexto de una política industrial interventora y dentro de una situación administrativa incipiente en materia de normalización y homologación del automóvil en su utilización en las vías públicas, a cuya consecución debía suplir en buena parte. Asimismo, determinadas funciones y competencias como las de inspección técnica de vehículos carecían de suficientes estructuras propias o de órganos específicos que fueron desarrollados o creados con posterioridad y cuyos objetivos debieron ser atendidos en lo posible por el citado Decreto.
+
+La experiencia adquirida desde la entrada en vigor del Decreto 809/1972, ha puesto de relieve, ante la gran importancia que tiene el sector de talleres de reparación de vehículos automóviles y de sus equipos derivada del extenso parque existente en la actualidad y de la incidencia en la economía y en la seguridad, tanto nacional como individual, la necesidad de disponer de una normativa básica de la actividad compatible con las vigentes directrices liberadoras de la actividad industrial, que recoja de forma adecuada los derechos de los usuarios, que tenga en cuenta las competencias que hayan sido transferidas a las Comunidades Autónomas y que delimite al propio tiempo las áreas de actuación de los Ministerios de Industria y Energía y de Sanidad y Consumo, dentro del marco de una íntima coordinación y colaboración, dada la profunda interrelación existente entre la actividad industrial propiamente dicha y los derechos de los usuarios a una adecuada información y a la defensa de su seguridad e intereses.
+
+Las posteriores disposiciones liberalizadoras en materia de política industrial y, en particular, el Real Decreto 2135/1980, de 20 de septiembre, han dejado sin efecto gran parte de lo dispuesto en el citado Decreto 809/1972, de 6 de abril, al tiempo que se ha desarrollado extensamente la normativa de seguridad y de su control en el automóvil por los órganos competentes en materia de Seguridad Industrial del Ministerio de Industria y Energía.
+
+La entrada en vigor, por otra parte, de la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios, dictada en desarrollo del artículo 51.1 de la Constitución, obliga a recoger en esta nueva normativa reguladora de la prestación de servicios de los talleres, los avances legislativos producidos en el campo de la protección y defensa de los consumidores y usuarios.
+
+En este sentido, el presente Real Decreto recoge los principios y directrices consagrados en la citada Ley, procurando adaptarse tanto en su estructura como en su contenido a los mandatos en ella establecidos. Por otra parte, la prudencia normativa aconseja no abordar en el presente texto aspectos contenidos en la Ley 26/1984, pero necesitados para su aplicación del oportuno desarrollo reglamentario, como ocurre con el sistema arbitral previsto en el articulo 31 de la citada Ley, sobre el que parece más adecuado, antes de establecerlo para esta materia, esperar la regulación que con carácter general se establezca en las normas de desarrollo de la misma.
+
+Asimismo, y de acuerdo con lo establecido en el artículo 22 de dicha Ley 26/1984 han sido oídos, en consulta, tanto las Asociaciones de consumidores y usuarios como las de empresarios relacionadas con este sector en el procedimiento de elaboración de esta disposición.
+
+En su virtud, y a propuesta de los Ministros de Industria y Energía y de Sanidad y Consumo, oído el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 10 de enero de 1986,
+
+DISPONGO:
+
+## TÍTULO PRELIMINAR — Ámbito de aplicación
+
+### Art. 1.
+
+El presente Real Decreto tiene por objeto regular la actividad industrial y la prestación de servicios de los talleres de reparación de vehículos automóviles y de sus equipos y componentes.
+
+A efectos del presente real decreto, se entiende por vehículo automóvil todo vehículo de motor que sirve, normalmente, para el transporte de personas o cosas, o de ambas a la vez, o para la tracción de otros vehículos con aquel fin, definido en el anexo II del Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos. A efectos de este real decreto, se entenderán incluidos, asimismo, las motocicletas, ciclomotores, remolques y vehículos especiales.
+
+> Se modifica el párrafo segundo por el art. único.1 del Real Decreto 455/2010, de 16 de abril. [Ref. BOE-A-2010-6754](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6754).
+
+> Redactado el párrafo segundo conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+## TÍTULO I — Conceptos y clasificaciones
+
+### Art. 2. Concepto de talleres.
+
+A efectos del presente Real Decreto, se entiende por talleres de reparación de vehículos automóviles y de sus equipos y componentes, aquellos establecimientos industriales en los que se efectúen operaciones encaminadas a la restitución de las condiciones normales del estado y de funcionamiento de vehículos automóviles o de equipos y componentes de los mismos, en los que se hayan puesto de manifiesto alteraciones en dichas condiciones con posterioridad al término de su fabricación.
+
+Por extensión, la presente normativa afectará también a la actividad industrial complementaria de instalación de accesorios en vehículos automóviles, con posterioridad al término de su fabricación, y que sean compatibles con las Reglamentaciones vigentes en materia de seguridad y sanidad.
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+### Art. 3. Clasificación de los talleres.
+
+A efectos de lo dispuesto en el presente Real Decreto, los talleres de reparación de vehículos automóviles y de sus equipos y componentes se clasifican en:
+
+1\. Por su relación con los fabricantes de vehículos y de equipos y componentes:
+
+a) Talleres genéricos, o independientes: Los que no están vinculados a ninguna marca que implique especial tratamiento o responsabilidad acreditada por aquélla.
+
+b) Talleres oficiales de marca. Los que están vinculados a Empresas fabricantes de vehículos automóviles o de equipos o componentes, nacionales o extranjeros, en los términos que se establezcan por convenio escrito.
+
+2\. Por su rama de actividad, aplicable a los talleres que efectúen trabajos de reparación de vehículos exceptuando los de motocicletas:
+
+a) De mecánica: trabajos de reparación o sustitución en el sistema mecánico del vehículo, incluidas sus estructuras portantes y equipos y elementos auxiliares excepto el equipo eléctrico.
+
+b) De electricidad-electrónica: trabajos de reparación o sustitución en el equipo eléctrico-electrónico del automóvil.
+
+c) De carrocerías: trabajos de reparación o sustitución de elementos de carrocería no portantes, guarnicionería y acondicionamiento interior y exterior de los mismos.
+
+d) De pintura: trabajos de pintura, revestimiento y acabado de carrocerías.
+
+3\. Motocicletas: Trabajos de reparación o sustitución, en vehículos de dos o tres ruedas a motor o similares.
+
+4\. Por su especialidad: Según los trabajos limitados a actividades de reparación o sustitución sobre determinados equipos o sistemas del vehículo.
+
+> Se modifica el apartado 2 por el art. único.2 del Real Decreto 455/2010, de 16 de abril. [Ref. BOE-A-2010-6754](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6754).
+
+> Redactado el apartado 1.b) conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+## TÍTULO II — Condiciones y requisitos de la actividad industrial
+
+### Art. 4. Inicio de actividad.
+
+1\. Antes de la apertura de un taller de reparación de automóviles, dada su vinculación a la seguridad vial, la persona física o jurídica que desee ejercer esta actividad deberá presentar en la comunidad autónoma del territorio donde esté ubicado el taller, una declaración responsable en la que el titular del taller o el representante legal del mismo indique la clasificación del taller, manifieste que cumple los requisitos establecidos en los apartados 7 y 8 de este artículo, que dispone de la documentación que así lo acredita, que se compromete a mantener su cumplimiento durante la vigencia de la actividad y que se responsabiliza de que la ejecución de los trabajos se efectúa de acuerdo con las normas y requisitos que se establecen en este real decreto.
+
+2\. La puesta en servicio del establecimiento del taller y de las instalaciones de éste sometidas a legislación específica de seguridad industrial, se regirán por lo previsto en la misma.
+
+3\. Las comunidades autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos
+
+No se podrá exigir la presentación de documentación acreditativa del cumplimiento de los requisitos junto con la declaración responsable. No obstante, esta documentación deberá estar disponible para su presentación ante la Autoridad competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control.
+
+4\. El órgano competente de la comunidad autónoma asignará, de oficio, un número de identificación del taller y remitirá al Ministerio de Industria, Turismo y Comercio los datos correspondientes para su inclusión en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, y en su normativa reglamentaria de desarrollo.
+
+5\. De acuerdo con la Ley 21/1992, de 16 de julio, de Industria, la declaración responsable habilita por tiempo indefinido para el ejercicio de la actividad al taller de reparación de vehículos automóviles, de sus equipos y componentes, desde el día de su presentación.
+
+6\. Al amparo de lo previsto en el apartado 3 del artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la Administración competente podrá regular un procedimiento para comprobar a posteriori lo declarado por el interesado.
+
+La no presentación de la declaración, así como la inexactitud, falsedad u omisión, de datos o manifestaciones que deban figurar en dicha declaración, habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare la imposibilidad de seguir ejerciendo la actividad y, si procede, se inhabilite temporalmente para el ejercicio de la actividad.
+
+7\. Los talleres deberán disponer de la siguiente documentación:
+
+a) Proyecto o proyectos técnicos de las instalaciones sujetas al cumplimiento de reglamentos de seguridad si en estos son exigibles, formados por memorias, planos y presupuestos redactados y firmados por técnicos competentes.
+
+b) Estudio técnico que incluirá, al menos, una relación detallada de los útiles, equipos y herramientas de que disponen, de acuerdo con las ramas de actividad que vayan a desarrollar así como una relación detallada de los diversos trabajos y servicios que podrá prestar el taller.
+
+c) Autorización escrita del fabricante nacional, o del representante legal del fabricante extranjero, en el caso de tratarse de los “talleres oficiales de marca” a que se refiere el artículo 3.º1.b).
+
+8\. Los talleres deberán disponer de los medios técnicos necesarios para realizar su actividad en condiciones de seguridad que deberán aparecer relacionados en los estudios técnicos. Los instrumentos, aparatos, medios y sistemas de medida que sean necesarios para hacer las reparaciones estarán sujetos a la normativa específica de control metrológico del Estado que les sean de aplicación, debiendo ser calibrados y verificados, con la periodicidad establecida por la misma.
+
+9\. La actividad de asistencia mecánica o eléctrica en carretera deberá ser realizada como servicio dependiente de un taller, por medios propios o por colaboración de terceros.
+
+Dicho taller deberá cumplir los requisitos establecidos en el artículo 4 de este real decreto. En todo caso, dicho taller será responsable de la calidad de la reparación y del cumplimiento de la normativa vigente.
+
+No será necesaria la presentación de una declaración responsable para los prestadores legalmente establecidos en otros Estados miembros que ejerzan la actividad de asistencia mecánica o eléctrica en carretera, que estarán sujetos, en todo caso, al cumplimiento de la normativa vigente relativa a los trabajos de reparación de vehículos.
+
+10\. El incumplimiento de los requisitos exigidos, verificado por la autoridad competente, conllevará el cese automático de la actividad, salvo que pueda incoarse un expediente de subsanación de errores sin perjuicio de las sanciones que pudieran derivarse de la gravedad de las actuaciones realizadas.
+
+La autoridad competente, en este caso, abrirá, un expediente informativo al titular de la instalación, que tendrá quince días naturales a partir de la comunicación para aportar las evidencias o descargos correspondientes.
+
+11\. En todo caso, el título V de la Ley 21/1992, de 16 de julio, de Industria, será de aplicación con los efectos y sanciones que procedan una vez incoado el correspondiente expediente sancionador.
+
+12\. El órgano competente de la comunidad autónoma dará traslado inmediato al Ministerio de Industria, Turismo y Comercio de la inhabilitación temporal, las modificaciones y el cese de la actividad a los que se refieren los apartados precedentes para la actualización de los datos en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, tal y como lo establece su normativa reglamentaria de desarrollo.
+
+> Se modifica por el art. único.3 del Real Decreto 455/2010, de 16 de abril. [Ref. BOE-A-2010-6754](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6754).
+
+> Redactado el apartado 2.c) conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+### Art. 5. Modificaciones y cese de actividad.
+
+El titular del taller de reparación de vehículos automóviles o el representante legal del mismo deberá comunicar, al órgano competente de la comunidad autónoma donde presentó la declaración responsable, las modificaciones de los datos recogidos en dicha declaración, así como el cese de su actividad. La comunicación deberá realizarse en el plazo de un mes desde que se produzcan las modificaciones o el cese de la actividad.
+
+Asimismo, la comunidad autónoma remitirá al Ministerio de Industria, Turismo y Comercio esta información para la actualización de los datos del taller en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, y en su normativa reglamentaria de desarrollo.
+
+> Se modifica por el art. único.4 del Real Decreto 455/2010, de 16 de abril. [Ref. BOE-A-2010-6754](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6754).
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+### Art. 6. Placa-distintivo,
+
+1\. Los talleres legalmente clasificados ostentarán en la fachada del edificio y en un lugar fácilmente visible la placa-distintivo que le corresponda, según lo señalado en el anexo II del presente Real Decreto.
+
+2\. La placa-distintivo que se ajustará en todas sus partes y detalles al modelo diseñado en el anexo II, está compuesta por una placa metálica, cuadrada, de 480 milímetros de lado con sus cuatro vértices redondeados y el fondo en color azul.
+
+3\. De arriba a abajo, la placa estará dividida en tres espacios o fajas desiguales, con las dimensiones señaladas en el anexo II y destinadas:
+
+– La primera, o más alta, a las cuatro ramas de actividad.
+
+– La segunda, o intermedia, a las especialidades.
+
+– La tercera, o más baja, a las siglas de la provincia de ubicación del taller, y al número de identificación del taller asignado por la comunidad autónoma. En ningún caso la obtención de este número de identificación podrá constituir un requisito previo para el inicio del ejercicio de la actividad.
+
+> Se modifica el tercer guión del apartado 3 por el art. 1.1 del Real Decreto 542/2020, de 26 de mayo. [Ref. BOE-A-2020-6472](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6472)
+
+> Se modifica el último párrafo del apartado 3 por el art. único.5 del Real Decreto 455/2010, de 16 de abril. [Ref. BOE-A-2010-6754](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6754).
+
+### Art. 7. Características de la placa-distintivo.
+
+1\. Para cada una de las ramas de mecánica, electricidad-electrónica, carrocería o pintura del automóvil se establecen los símbolos que se indican en el anexo II del presente real decreto que consisten en una llave inglesa, una flecha quebrada, un martillo y una pistola de pintar, respectivamente, en color azul sobre fondo blanco.
+
+2\. La parte alta de la placa distintivo estará dividida en cuatro rectángulos verticales separados entre sí, destinados a cada uno de los símbolos representativos de las cuatro ramas de la actividad a que puedan dedicarse los talleres. En la placa-distintivo de cada taller sólo se incluirán en los respectivos rectángulos los símbolos que correspondan a su actividad y quedarán vacíos los restantes espacios.
+
+3\. La parte segunda o intermedia de la placa-distintivo, estará dividida, a su vez y por su mitad, en dos rectángulos horizontales. El rectángulo de la izquierda (izquierda del espectador o derecha de la placa) quedará reservado para las respectivas contraseñas de los Centros de Diagnosis u otras especialidades, de acuerdo con lo que se legisle en su momento. El rectángulo de la derecha (derecha del espectador o izquierda de la placa) estará destinado al símbolo correspondiente a taller de reparaciones de motocicletas.
+
+4\. El símbolo del taller de reparación de motocicletas a que se refiere el párrafo anterior estará constituido por el perfil de dicho vehículo en dirección a la izquierda del espectador, en color azul, sobre fondo blanco. Este espacio, cuando se trate de talleres dedicados únicamente a la reparación de vehículos automóviles de más de tres ruedas, permanecerá vacío.
+
+5\. El espacio inferior, o tercera parte en que se divide la placa-distintivo, estará a su vez subdividido en dos zonas diferenciadas:
+
+– La de la izquierda (del espectador) destinada a las siglas de la provincia donde radique el taller.
+
+– La de la derecha (del espectador) destinada a estampar el número de identificación del taller asignado por la comunidad autónoma.
+
+> Se modifica el apartado 5 por el art. 1.2 del Real Decreto 542/2020, de 26 de mayo. [Ref. BOE-A-2020-6472](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6472)
+
+> Se modifican los apartados 1 y 5 por el art. único.6 y 7 del Real Decreto 455/2010, de 16 de abril. [Ref. BOE-A-2010-6754](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6754).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+### Art. 8. Ostentación de referencias a marcas.
+
+En el caso de los talleres no clasificados como oficiales de marca, con arreglo a lo previsto en el artículo 3.°, queda prohibida la ostentación de referencias a marcas, tanto en el exterior como en el interior del taller, que puedan inducir a confusión o error al usuario, respecto a la vinculación citada en el articulo 3.°punto 1.b).
+
+### Art. 9. Piezas de repuesto.
+
+1\. Todos los elementos, piezas o conjuntos que los talleres utilicen en sus reparaciones deberán ser nuevos y adecuados al modelo de vehículo objeto de reparación con las excepciones que se enuncian:
+
+a) Previa conformidad escrita del cliente, los talleres podrán instalar elementos, equipos o conjuntos reacondicionados o reconstruidos por los fabricantes de los mismos, por los servicios autorizados por éstos, o por industrias especializadas autorizadas expresamente por el Ministerio de Industria y Energía.
+
+El taller facilitará al cliente información de la procedencia de los elementos, equipos o conjuntos y de la garantía de los mismos. En el caso de industrias especializadas autorizadas por el Ministerio de Industria y Energía deberá constar además, fehacientemente, dicha circunstancia y el número de Registro Especial de Fabricantes de Partes, Piezas y Equipos para Vehículos Automóviles que les correspondan.
+
+b) Podrán ser instalados determinados elementos o conjuntos usados, reconstruidos por talleres especialistas, expresamente autorizados por el Ministerio de Industria y Energía, para la utilización exclusiva de éstos en las reparaciones que ellos efectúen en vehículos, cuyos modelos incorporen el conjunto reconstruido, previa conformidad escrita del cliente y siempre que el taller se responsabilice también por escrito de que tales conjuntos se hallan en buen estado y ofrecen suficiente garantía.
+
+c) Previa conformidad escrita del cliente, podrán utilizarse piezas usadas o no específicas del modelo de vehículo a reparar, siempre que el taller se responsabilice por escrito de que las piezas usadas se encuentran en buen estado o de que las piezas no específicas permiten una adaptación con garantía suficiente en el modelo de vehículo que se repara, en los casos siguientes:
+
+– Por razón de urgencia justificada.
+
+– Por tratarse de elementos de modelos que se han dejado de fabricar y de figurar en las existencias normales de los almacenes de repuestos.
+
+– Por cualquier otra razón aceptada por el usuario; siempre y cuando no afecte a elementos activos o conjuntos de los sistemas de frenado, suspensión y dirección del vehículo.
+
+2\. Queda prohibido a todos los talleres, sea cual fuere su clasificación, instalar en los vehículos automóviles, piezas, elementos o conjuntos cuya utilización no esté permitida por lo dispuesto en el Código de la Circulación.
+
+3\. Las piezas, elementos o conjuntos que los talleres utilicen en sus reparaciones deberán llevar fijada de manera legible e indeleble la marca del fabricante, si este requisito es exigido por la legislación específica. Asimismo deberán llevar además la contraseña de homologación en el caso que por disposición del Ministerio de Industria y Energía sea obligatoria.
+
+4\. El pequeño material (arandelas, pasadores, etc.), que por su configuración o tamaño no permita fijar sobre él la marca del fabricante, deberá poder identificarse por la marca del mismo fijada en etiquetas, marchamos o en el estuche o paquete que lo contenga.
+
+5\. El taller que efectúe la reparación está obligado a presentar al cliente, y a entregarle al término de la misma, salvo manifestación expresa de éste, las piezas, elementos o conjuntos que hayan sido sustituidos.
+
+6\. Todos los talleres están obligados a tener a disposición del público justificación documental que acredite el origen y precio de los repuestos utilizados en las reparaciones.
+
+7\. Queda prohibida toda sustitución innecesaria de piezas, cuando ello suponga un incremento de costo para el usuario o una posible degradación del vehículo.
+
+## TÍTULO III — Centros de Diagnosis y Dictámenes Técnicos
+
+### Art. 10. Centros de Diagnosis.
+
+Se establecen los Centros de Diagnosis a efectos de completar y apoyar la actividad de reparación de vehículos automóviles, en orden a su mayor efectividad y racionalización y a fin de realizar controles de calidad sobre las reparaciones e instalaciones realizadas en los vehículos automóviles.
+
+Los Centros de Diagnosis tienen fines distintos a los talleres de reparación y están especialmente dedicados a comprobar y certificar el estado técnico de un vehículo tanto en su estructura como en sus equipos, sistemas, partes y componentes.
+
+Para llevar a cabo su misión, los Centros de Diagnosis contarán con los medios materiales y profesionales que se especifiquen, en orden al tipo de informes técnicos que deban emitir.
+
+Las funciones, características, requisitos y demás aspectos relativos a los Centros de Diagnosis, se especificarán a través de normas adecuadas, de conformidad con lo establecido en la disposición final primera de este Real Decreto.
+
+### Art. 11. Dictámenes técnicos.
+
+1\. En la tramitación de los expedientes de sanción de talleres iniciados tanto a instancia de parte como de oficio, la Administración, a fin de determinar las responsabilidades a que hubiere lugar, podrá solicitar informes técnicos de las Asociaciones Provinciales de talleres de reparación de vehículos y de su Confederación Nacional, así como de las Asociaciones de Consumidores y Usuarios, de aquellas otras Asociaciones que ostenten la representación del sector, o de las Entidades que se consideren oportunas.
+
+2\. En la tramitación de los expedientes, podrán utilizarse como pruebas orientativas de la adecuada facturación de todos los talleres, y no sólo de los talleres oficiales de marca, las tablas de tiempos de trabajos a que se hace referencia en el artículo 12.2 de la presente disposición, así como cualquier otra documentación que se considere oportuna por el instructor del mismo.
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+## TÍTULO IV — Garantías, responsabilidades
+
+### Art. 12. Información al usuario.
+
+1\. **(Derogado)**
+
+2\. Los talleres oficiales de marca tendrán, además, a disposición del público en todo momento los catálogos y tarifas, actualizados, de las piezas que utilicen en sus reparaciones; también tendrán a disposición del público las tablas de tiempos de trabajos, y su sistema de valoración en pesetas, para aquellas operaciones susceptibles de determinación previa, que serán facilitadas a estos talleres por el fabricante nacional o el representante legal del fabricante extranjero.
+
+3\. No podrán incluirse en los resguardos, presupuestos, facturas o cualquier otra documentación que emitan los talleres, cláusulas que afecten a los derechos de los usuarios, en tamaño de letra inferior a 1,5 milímetros de altura.
+
+4\. Se prohíbe la inclusión, en resguardos, presupuestos, facturas u otros documentos expedidos por el taller, de cláusulas que se opongan a lo establecido en este Real Decreto y demás disposiciones vigentes.
+
+5\. Las hojas de reclamaciones a que se refiere el presente articulo deberán confeccionarse de acuerdo con lo establecido en el anexo III de este Real Decreto, y figurar, al menos, en la lengua española oficial del Estado.
+
+6\. Todo lo anterior se entiende sin perjuicio de lo dispuesto en el articulo 22 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, que establece las obligaciones de información de los prestadores.
+
+> Se añade el apartado 6 por el art. único.8 del Real Decreto 455/2010, de 16 de abril. [Ref. BOE-A-2010-6754](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6754).
+
+> Se deroga el apartado 1 por la disposición derogatoria única.d) de la Ley 29/2009, de 30 de diciembre. [Ref. BOE-A-2009-21162](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21162).
+
+> Redactados los apartados 1.b), 3 y 4 conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+### Art. 13. Derecho de admisión.
+
+1\. Los talleres atenderán al público en sus establecimientos, siempre que las peticiones se presenten dentro del horario establecido.
+
+Los servicios cubiertos por garantía no deberán sufrir ninguna postergación.
+
+2\. Los talleres oficiales a que se hace referencia en el artículo 3.° 1, b), del presente Real Decreto podrán reservarse el derecho de admisión de los vehículos de otras marcas que no sean su representada.
+
+### Art. 14. Presupuesto y reguardo de depósito.
+
+1\. Todo usuario o quien actúe en su nombre tiene derecho a un presupuesto escrito.
+
+Este presupuesto tendrá una validez mínima de doce días hábiles.
+
+2\. En el presupuesto debe figurar:
+
+a) El número de identificación fiscal y el domicilio del taller.
+
+b) El nombre y domicilio del usuario.
+
+c) La identificación del vehículo, con expresión de marca, modelo, matrícula y número de kilómetros recorridos.
+
+d) Reparaciones a efectuar, elementos a reparar o sustituir y/o cualquier otra actividad, con indicación del precio total desglosado a satisfacer por el usuario.
+
+e) La fecha y la firma del prestador del servicio.
+
+f) La fecha prevista de entrega del vehículo ya reparado, a partir de la aceptación del presupuesto.
+
+g) Indicación del tiempo de validez del presupuesto.
+
+h) Espacio reservado para la fecha y la firma de aceptación por el usuario.
+
+3\. Las normas de desarrollo del presente Real Decreto determinarán los índices, módulos o criterios para la fijación del coste del presupuesto para el usuario.
+
+4\. En el caso de que el presupuesto no sea aceptado por el usuario, el vehículo deberá devolvérsele en análogas condiciones a las que fue entregado antes de la realización del presupuesto.
+
+5\. Únicamente podrá procederse a la prestación del servicio una vez el usuario, o persona autorizada, haya concedido su conformidad mediante la firma del presupuesto o haya renunciado de forma fehaciente a la elaboración del mismo.
+
+6\. Las averías o defectos ocultos que eventualmente puedan aparecer durante la reparación del vehículo deberán ser puestos en conocimiento del usuario en el plazo máximo de cuarenta y ocho horas, con expresión de su importe, y solamente previa conformidad expresa del mismo podrá realizarse la reparación.».
+
+7\. En todos los casos en que el vehículo quede depositado en el taller, tanto para la elaboración de un presupuesto como para llevar a cabo una reparación previamente aceptada el taller entregará al usuario un resguardo acreditativo del depósito del vehículo. En los casos en que exista presupuesto, éste, debidamente firmado por el taller y el usuario, hará las veces de resguardo de depósito.
+
+7.1 En el resguardo de depósito deberán constar, al menos, los siguientes datos:
+
+a) El número de identificación fiscal y el domicilio del taller.
+
+b) El nombre y domicilio del usuario.
+
+c) La identificación del vehículo, con expresión de marca, modelo, matrícula y número de kilómetros recorridos, así como si el depósito del vehículo se efectúa para la confección del presupuesto o para la reparación del vehículo.
+
+d) Descripción sucinta de la reparación y/o servicios a prestar, con sus importes, si fueran ya conocidos, en el caso de que el vehículo se entregue para reparación.
+
+e) Fecha prevista de entrega, bien del presupuesto solicitado, bien del vehículo reparado.
+
+f) Fecha y firma del prestador del servicio.
+
+7.2 La presentación del resguardo será necesaria tanto para la recogida del presupuesto, como para la retirada del vehículo.
+
+7.3 En caso de pérdida del resguardo, el usuario deberá identificarse a plena satisfacción del taller.
+
+8\. El plazo de entrega, bien del presupuesto solicitado, bien del vehículo reparado deberá guardar, de acuerdo con lo que reglamentariamente se determine, la adecuada relación con la entidad de la avería y/o las operaciones a realizar.
+
+9\. El usuario podrá desistir del encargo realizado en cualquier momento, abonando al taller el importe por los trabajos efectuados hasta la retirada del vehículo.
+
+> Se modifica el apartado 2.a) y la letra a) del apartado 7.1 por el art. único.9 y 10 del Real Decreto 455/2010, de 16 de abril. [Ref. BOE-A-2010-6754](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6754).
+
+> Redactados los apartados 6 y 8 conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+### Art. 15. Factura y gastos de estancia.
+
+1\. Todos los talleres están obligados a entregar al cliente factura escrita, firmada y sellada, debidamente desglosada y en la que se especifiquen cualquier tipo de cargos devengados, las operaciones realizadas, piezas o elementos utilizados y horas de trabajo empleadas, señalando para cada concepto su importe, de acuerdo con lo que se indica en los artículos 12 y 14 del presente Real Decreto.
+
+2\. Únicamente podrán devengarse gastos de estancia cuando, confeccionado el presupuesto o reparado el vehículo, y puesto en conocimiento del usuario este hecho, no proceda dicho usuario al pronunciamiento sobre la aceptación o no del presupuesto o a la retirada del vehículo en el plazo de tres días hábiles. En todo caso, dichos gastos de estancia sólo procederán cuando el vehículo se encuentre en locales bajo custodia del taller y por los días que excedan del citado plazo.
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+### Art. 16. Garantía de las reparaciones.
+
+1\. Todas las reparaciones o instalaciones efectuadas en cualquier taller quedarán garantizadas, al menos, en las condiciones que establece este artículo.
+
+2\. La garantía que otorgue el taller al respecto caducará a los tres meses o 2.000 kilómetros recorridos. La garantía relativa a la reparación de vehículos industriales caducará a los quince días o 2.000 kilómetros recorridos. Todo ello salvo que las piezas incluidas en la reparación tengan un plazo de garantía superior, en cuyo caso y para éstas regirá el de mayor duración. El período de garantía se entenderá desde la fecha de entrega del vehículo y tendrá validez siempre que el vehículo no sea manipulado o reparado por terceros.
+
+3\. La garantía se entiende total, incluyendo materiales aportados y mano de obra, y afectará a todos los gastos que se puedan ocasionar, tales como los del transporte que la reparación exija, el desplazamiento de los operarios que hubieran de efectuarla cuando el vehículo averiado no pueda desplazarse, el valor de la mano de obra y material de cualquier clase, así como la imposición fiscal que grave esa nueva operación.
+
+4\. Producida una avería durante el período de garantía en la parte o partes reparadas, el taller garante, previa comunicación del usuario, deberá reparar gratuitamente dicha avería. A tal objeto indicará al usuario si la nueva reparación será efectuada por el propio taller garante o por otro taller que actúe en su nombre.
+
+5\. La eventual aportación de piezas por el usuario, para la reparación de su vehículo, no afectará en ningún supuesto a la seguridad vial, y, en todo caso, el taller que las montó no garantizará las mismas.
+
+6\. El taller no se responsabilizará de la avería sobrevenida en relación con la o las reparaciones anteriores efectuadas, cuando el fallo mecánico se derive de la no aceptación por parte del usuario de la reparación de anomalías o de averías ocultas, previamente comunicadas conforme a lo previsto en el punto 6 del artículo 14, siempre y cuando la referida falta de aceptación se haya hecho constar en la factura, así como la necesidad de su reparación.
+
+7\. El taller quedará obligado a devolver al cliente de forma inmediata las cantidades percibidas en exceso sobre los precios reglamentarios, sobre los anunciados o sobre los presupuestos aceptados.
+
+8\. Cuando de la tramitación de un expediente se desprenda la existencia de negligencia o fraude en la calidad de los servidos efectuados o en la aceptación de garantías, en la resolución del mismo se acordará la expedición a favor del usuario de testimonio bastante sobre los extremos que resulten oportunos, para que el usuario, si lo desea, deduzca las acciones que le correspondan ante la jurisdicción competente.
+
+9\. El taller no podrá, bajo ningún concepto, utilizar para usos propios o de terceros ningún vehículo que haya sido dejado en reparación, sin permiso expreso del propietario.
+
+10\. Todo lo anterior se entiende sin perjuicio de lo dispuesto en el capítulo VIII, de la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios por el que se regula el régimen de garantías y responsabilidades.
+
+> Redactado el apartado 6 conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+### Art. 17. Reclamaciones.
+
+1\. Todos los talleres de reparación de vehículos automóviles tendrán a disposición de los clientes «Hojas de Reclamaciones», conforme al modelo oficial que se inserta con anexo III al presente Real Decreto y que estarán integradas por un juego unitario de impresos compuesto por un folio original de color blanco, una copia color rosa, otra color verde y otra color amarillo.
+
+2\. En caso de no existencia o negativa a facilitar las Hojas de Reclamaciones, el usuario podrá presentar la reclamación por el medio que considere más adecuado.
+
+3\. Las reclamaciones se formularán ante la autoridad competente en materia de consumo en el plazo máximo de dos meses desde la entrega del vehículo, o de la finalización de la garantía, quien en el plazo de quince días hábiles desde su recepción y, caso de considerarlo pertinente, comunicará la queja a la Empresa afectada, a la Asociación Provincial de Talleres correspondiente, y a las Entidades del sector que se entiendan oportunas, otorgándoles un plazo que será de diez días hábiles para que aleguen cuanto estimen conveniente.
+
+Formuladas las alegaciones o transcurrido el plazo fijado para ello, se iniciará, si procediere, la tramitación del oportuno expediente de acuerdo con las disposiciones vigentes en materia de defensa del consumidor, sin perjuicio de las acciones civiles o penales que correspondan.
+
+El desistimiento del usuario en la reclamación implicará el archivo de la misma, sin perjuicio de la potestad de la Administración para incoar expediente de oficio por cualquier irregularidad que proceda.
+
+4\. Todo lo anterior se entiende sin perjuicio de lo dispuesto en el articulo 23 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, que establece las obligaciones de los prestadores en materia de reclamaciones.
+
+> Se añade el apartado 4 por el art. único.11 del Real Decreto 455/2010, de 16 de abril. [Ref. BOE-A-2010-6754](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6754).
+
+> Redactados los apartados 1 y 3 conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+## TÍTULO V — Competencias, infracciones y sanciones
+
+### Art. 18. Competencias.
+
+Los Ministerios de Industria y Energía, y de Sanidad y Consumo velarán, en el ámbito de sus respectivas competencias, por el cumplimiento de lo dispuesto en el presente Real Decreto.
+
+### Art. 19. Infracciones.
+
+1\. A efecto de lo dispuesto en el presente Real Decreto, y sin perjuicio de lo establecido en la Ley 26/1984, de 19 de julio, y en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria, se consideran infracciones específicas en esta materia las siguientes:
+
+a) Toda sustitución innecesaria de piezas que suponga un incremento injustificado de costos para el usuario o una posible degradación del vehículo y la imposición al usuario de adquisición de accesorios o piezas complementarias no solicitadas.
+
+b) La utilización de piezas, elementos o conjuntos usados sin autorización, inadecuados o no marcados y/u homologados, cuando estos últimos requisitos sean preceptivos, así como también, la utilización o uso de elementos, partes, accesorios o líquidos de gobierno del vehículo sin consentimiento expreso del propietario del mismo.
+
+c) La negativa a la realización del presupuesto, o cualquier tipo de reticencia, demora o discriminación en la admisión de un vehículo por haber sido exigida la realización del mismo o la realización de presupuestos que no respondan en su descripción o valoración a la realidad de las averías o daños de vehículo, cuando tales presupuestos puedan tener efectos perjudiciales para terceros.
+
+d) La existencia de cláusulas en resguardos, presupuestos, facturas u otros documentos emitidos por el taller, que se opongan a lo establecido en esta disposición y demás disposiciones vigentes.
+
+e) La expedición de facturas en que conste la realización de trabajos que no han sido efectuados o la inclusión de repuestos y accesorios que no han sido aportados a la reparación y, asimismo, la aplicación de precios o márgenes comerciales en cuantía superior a los límites autorizados, establecidos o declarados.
+
+f) La negativa del taller a devolver al cliente las cantidades percibidas en exceso sobre los precios establecidos o sobre los presupuestos aceptados.
+
+g) La falta de «Hojas de Reclamaciones» o la negativa a facilitar las mismas.
+
+h) La utilización del vehículo para asuntos propios, sin la autorización expresa del propietario, por el taller.
+
+i) La ostentación de referencia a marcas de acuerdo con lo establecido en el artículo 8.° del presente Real Decreto.
+
+j) Y en general, el incumplimiento de cualquiera de los preceptos contenidos en la presente disposición y normas que lo desarrollen y que serán sancionados en la forma que sea procedente por el Ministerio de Industria y Energía, el de Sanidad y Consumo o las Comunidades Autónomas, de acuerdo a sus respectivas competencias.
+
+2\. Las infracciones a que se refiere el presente artículo se calificarán como leves, graves y muy graves, atendiendo a los criterios establecidos en el artículo 35 de la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios, así como en los artículos 6.º, 7.º y 8.º del Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria.
+
+> Redactados los apartados 1.b) y e) conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+### Art. 20. Sanciones.
+
+1\. Las infracciones a que se refiere el presente Real Decreto serán sancionadas con multas de acuerdo con la siguiente graduación:
+
+Infracciones leves, hasta 500.000 pesetas.
+
+Infracciones graves, hasta 2.500.000 pesetas, pudiendo rebasar dicha cantidad hasta alcanzar el quíntuplo del valor de los productos o servicios de la infracción.
+
+Infracciones muy graves, hasta 100.000.000 de pesetas, pudiendo rebasar dicha cantidad hasta alcanzar el quíntuplo del valor de los productos o servicios objeto de la infracción.
+
+2\. En los supuestos de infracciones muy graves podrá acordarse el cierre temporal del establecimiento, instalación o servicio por un plazo máximo de cinco años. En tal caso, será de aplicación lo previsto en el artículo 57.4, de la Ley 8/1980, de 10 de marzo, por la que se aprueba el Estatuto de los Trabajadores.
+
+3\. Las cuantías señaladas anteriormente deberán ser revisadas y actualizadas periódicamente por el Gobierno, teniendo en cuenta variación de los índices de precios al consumo.
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+### Disposición transitoria primera.
+
+Los talleres de reparación de vehículos automóviles inscritos en el Registro Industrial con anterioridad a la fecha de entrada en vigor del presente Real Decreto deberán adaptarse a lo dispuesto en el mismo en el plazo de un año a partir de la fecha de entrada en vigor del mismo e inscribirse en el Registro Especial, de acuerdo con lo previsto en el artículo 4.º
+
+### Disposición transitoria segunda.
+
+Sin perjuicio de lo dispuesto en el presente Real Decreto, será de aplicación a las reclamaciones sobre el servicio de talleres de reparación de vehículos automóviles el sistema arbitral previsto en el artículo 31 de la Ley 26/1984, de 19 de julio, de acuerdo con lo que establezcan las normas que la desarrollen.
+
+### Disposición adicional primera.
+
+Lo dispuesto en el presente Real Decreto se entenderá sin perjuicio de las competencias que corresponden a las Comunidades Autónomas de acuerdo con sus respectivos Estatutos.
+
+> Se numera con el contenido de la anterior disposición adicional por el art. único.13 del Real Decreto 455/2010, de 16 de abril. [Ref. BOE-A-2010-6754](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6754).
+
+### Disposición adicional segunda. Modelo de declaración responsable.
+
+Corresponderá a las comunidades autónomas elaborar y mantener disponibles los modelos de declaración responsable. A efectos de la inclusión en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, el órgano competente en materia de industria del Ministerio de Industria, Turismo y Comercio elaborará y mantendrá actualizada una propuesta de modelo de declaración responsable en formato electrónico, que deberá incluir los datos que se suministrarán al indicado registro, y que estará disponible en la página web del Ministerio de Industria, Turismo y Comercio www.mityc.es.
+
+> Se añade por el art. único.14 del Real Decreto 455/2010, de 16 de abril. [Ref. BOE-A-2010-6754](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6754).
+
+### Disposición final primera.
+
+Se faculta a los Ministerios de Industria y Energía, y de Sanidad y Consumo para dictar, en el ámbito de sus respectivas competencias, las disposiciones necesarias para el desarrollo de lo dispuesto en el presente Real Decreto.
+
+### Disposición final segunda.
+
+Queda derogado el Decreto de la Presidencia del Gobierno 809/1972, de 6 de abril, por el que se regula la actividad de talleres de reparación de automóviles; la Orden de la Presidencia del Gobierno de 1 de marzo de 1973, sobre aplicación de dicho Decreto, y la Orden del Ministerio de Industria de 8 de febrero de 1975, por la que se modifica el anexo I del mismo, así como cuantas otras disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto.
+
+Dado en Madrid a 10 de enero de 1986.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JAVIER MOSCOSO DEL PRADO Y MUÑOZ
+
+## ANEXO I — Equipamiento mínimo necesario, según ramas de actividad y especialidades para la inscripción de los talleres de reparación de vehículos automóviles en el Registro Especial
+
+**(Suprimido)**
+
+> Se suprime por el art. único.12 del Real Decreto 455/2010, de 16 de abril. [Ref. BOE-A-2010-6754](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6754).
+
+> Redactados los apartados Mecánica y Motocicletas conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+## ANEXO II — MODELO DE PLACA DISTINTIVO
+
+![1](https://www.boe.es/datos/imagenes/disp/2020/172/06472_6610.png)
+
+> Se modifica por el art. 1.3 del Real Decreto 542/2020, de 26 de mayo. [Ref. BOE-A-2020-6472](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6472)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).
+
+## ANEXO III — Hoja de Reclamación
+
+a) La presente Hoja de Reclamación es un medio que la Administración pone a disposición de los clientes de los talleres de reparación de vehículos automóviles, a fin de que puedan formular sus quejas en el mismo lugar en que se produzcan los hechos.
+
+b) Para formular su reclamación, el usuario podrá solicitar del taller contratante del servicio, la entrega de una «Hoja de Reclamaciones».
+
+c) El usuario deberá hacer constar su nombre, domicilio y número del documento nacional de identidad o pasaporte, su relación con el titular del vehículo, así como los demás datos a que se refiere el impreso, exponiendo claramente los hechos motivo de queja, con expresión de la fecha en que ésta se formule.
+
+d) El taller deberá cumplimentar los datos de identificación del mismo que constan en la «Hoja de Reclamaciones». Una vez expuestos los motivos de queja del usuario, la «Hoja de Reclamaciones» podrá ser suscrita por el taller, que podrá realizar cuantas consideraciones estime oportunas respecto de su contenido, en el lugar habilitado para ello.
+
+e) El usuario remitirá el original de la «Hoja de Reclamaciones», en el plazo máximo de dos meses naturales, desde la entrega del vehículo o la finalización, en su caso, de la garantía, a las autoridades competentes en materia de consumo, correspondientes al lugar donde se encuentre ubicado el taller, conservando la copia verde en su poder y entregando las copias rosa y amarilla al taller.
+
+f) Al original de la reclamación, el cliente unirá cuantas pruebas o documentos sirvan para el mejor enjuiciamiento de los hechos, especialmente facturas, presupuestos y resguardos.
+
+| Sello <br>del <br>Organismo <br>competente |
+|---|
+
+**HOJA DE RECLAMACIÓN**
+
+Los datos del recuadro (en rojo) serán rellenados por el taller
+
+| .................................................................................................................................................................................................................................. <br> Nombre o razón social del taller |
+|---|
+| ..................................................................................................................................................................................................................................<br>Dirección: Calle o plaza Provincia o localidad Teléfono |
+| ..................................................................................................................................................................................................................................<br>Servicio oficial de Rama(s) de actividad(es) Especialidad |
+| ..................................................................................................................................................................................................................................<br>Número del taller en el Registro Especial del Ministerio de Industria y Energía |
+
+A rellenar por el reclamante
+
+A las ................ horas del día ..... de ................ de 19 ..... (fecha de la declaración
+
+Don ................................................................................................. (reclamante)
+
+Nacionalidad ......................... DNI o pasaporte ........................ y relación con el titular del vehículo ...........................................................
+
+Dirección: .....................................................................................................................................................................................................
+
+Calle o plaza, provincia o localidad y teléfono
+
+Datos del vehículo: .....................................................................................................................................................................................
+
+Marca, modelo, matrícula y número de kilómetros
+
+Motivo de la reclamación:
+
+........................................................................................................................
+
+........................................................................................................................
+
+........................................................................................................................
+
+........................................................................................................................
+
+........................................................................................................................
+
+........................................................................................................................
+
+........................................................................................................................
+
+Firma del interesado
+
+Alegaciones del taller:
+
+........................................................................................................................
+
+........................................................................................................................
+
+........................................................................................................................
+
+........................................................................................................................
+
+........................................................................................................................
+
+........................................................................................................................
+
+Firma y sello del taller
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1987. [Ref. BOE-A-1987-10975](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10975).

@@ -1,0 +1,391 @@
+---
+title: "Decreto 757/1973, de 29 de marzo, por el que se aprueba el adjunto Arancel de los Registradores Mercantiles"
+identifier: "BOE-A-1973-561"
+eli: "https://www.boe.es/eli/es/d/1973/03/29/757"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1973-03-29
+published: 1973-04-18
+in_force_from: 1973-05-18
+last_amended: 2011-11-17
+consolidated: 2025-12-16
+gazette: "Boletín Oficial del Estado núm. 93"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1973-561"
+retrieved: 2026-10-11
+---
+
+# Decreto 757/1973, de 29 de marzo, por el que se aprueba el adjunto Arancel de los Registradores Mercantiles
+
+Los dieciséis años transcurridos desde la aprobación del Arancel de los Registradores Mercantiles, el alza del coste de vida en este mismo período de tiempo y el considerable aumento del gasto de mantenimiento de las oficinas de los Registros aconsejan una revisión ponderada de aquél.
+
+Han surgido, además, nuevos supuestos no previstos en el Arancel vigente, tales como las Agrupaciones temporales de Empresas, la creación de Entidades urbanísticas colaboradoras, las inscripciones a que pueda dar lugar la acción concertada, etc. Todo ello hace obligada la puesta al día de la regulación vigente.
+
+El nuevo texto sigue en líneas generales el vigente Arancel aprobado por Decreto de catorce de diciembre de mil novecientos cincuenta y seis, si bien, en relación de las novedades apuntadas, su extensión supera ligeramente a la de aquél.
+
+Recoge el nuevo texto la preocupación mutualista, que ya contiene el vigente, si bien estableciendo una moderada participación del funcionario calificador en los asuntos relativos a actos de cuantía superior a cien millones de pesetas.
+
+Se estima, pues, que el nuevo Arancel flexibiliza y mejora sensiblemente el que por este Decreto se deroga.
+
+En su virtud, a propuesta del Ministro de Justicia, de conformidad con el dictamen del Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día nueve de marzo de mil novecientos setenta y tres,
+
+DISPONGO:
+
+##### Artículo primero.
+
+Se aprueba el adjunto Arancel de los Registradores Mercantiles, que entrará en vigor a los treinta días de su publicación en el «Boletín Oficial del Estado».
+
+##### Artículo segundo.
+
+Queda derogado, a partir de la fecha expresada en el artículo anterior, el Arancel de catorce de diciembre de mil novecientos cincuenta y seis, así como cualquier otra disposición que se oponga al presente.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a veintinueve de marzo de mil novecientos setenta y tres.
+
+FRANCISCO FRANCO
+
+El Ministro de Justicia,
+
+ANTONIO MARÍA DE ORIOL Y URQUIJO
+
+## ARANCEL DE LOS REGISTRADORES MERCANTILES
+
+### ASIENTOS DE PRESENTACIÓN Y CALIFICACIÓN DE DOCUMENTOS
+
+## Número 1
+
+Por el asiento de presentación de todo título o documento en el Registro Mercantil, cualquiera que sea el número de folios que comprenda, se devengarán 6,010121 euros.
+
+> Se sustituye la conversión a euros de la cuantía contemplada por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierte a euros la cuantía contemplada por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+## Número 2
+
+Por el examen y consiguiente calificación, cuando se extienda nota de denegación o suspensión al pie del título, se percibirá el 10 por 100 del importe, que, en su caso, correspondería por la extensión del asiento solicitado, sin que los derechos por este concepto puedan exceder de 12,020242 euros. Si no se extendiera nota al pie del título presentado, a solicitud del presentante o interesado, no se devengará cantidad alguna, salvo que el resultado de la calificación se autorice por el Registrador en documento independiente, cuya copia se archivará en el Registro.
+
+Si entablado recurso contra la calificación se declarare inscribible el documento, los derechos percibidos por este número del Arancel se deducirán de los que correspondan por el asiento practicado.
+
+Cuando se extienda nota al pie del título, acreditativa de que el asiento ha sido previamente extendido en virtud de otro documento, se percibirán 1,202024 euros por cada título.
+
+> Se sustituye la conversión a euros de las cuantías contempladas en los párrafos primero y tercero por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas en los párrafos primero y tercero por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+### Inscripciones y anotaciones
+
+#### A. Comerciante individual.
+
+## Número 3
+
+Por la inscripción o anotación de cada comerciante o empresario individual se percibirán 1,502530 euros, salvo que se consigne en la solicitud el valor en que el comerciante individual estime su empresa, en cuyo caso se devengarán los derechos del número 5 de este Arancel con arreglo a su cuantía.
+
+Los asientos que se practiquen posteriormente en la hoja abierta a cada comerciante o empresario individual, incluso los de emisión de obligaciones u otros títulos, devengarán los derechos del número 5 de este Arancel con arreglo a su cuantía.
+
+> Se sustituye la conversión a euros de la cuantía contemplada en el párrafo primero por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierte a euros la cuantía contemplada en el párrafo primero por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+#### B. Sociedades.
+
+> Véase el párrafo segundo del art. 36.1 del Real Decreto-Ley 6/2000, de 23 de junio, en cuanto a la reducción en un 5 por 100 de los aranceles en determinados supuestos de cuentas de sociedades. [Ref. BOE-A-2000-11836](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-11836).
+
+## Número 4
+
+Por la calificación, redacción del extracto del programa de fundación de una Sociedad anónima y depósito del mismo, en los términos establecidos por los artículos 18 de la Ley de Sociedades Anónimas y 106 del Reglamento del Registro Mercantil, se percibirán 3,005061 euros.
+
+> Se sustituye la conversión a euros de la cuantía contemplada por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierte a euros la cuantía contemplada por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+## Número 5
+
+Por la inscripción o anotación de la constitución, absorción, fusión o transformación de cada Sociedad, así como por la emisión de obligaciones u otros títulos, se percibirán los derechos que se consignan en las siguientes escalas:
+
+• Escala primera. Si la cuantía del derecho objeto de la inscripción o anotación no excede de 3.005,06 euros: 6,010121 euros.
+
+• Escala segunda. Por lo que exceda de 3.005,06 euros hasta 30.050,61 euros: 0,10 %.
+
+• Escala tercera. Por lo que exceda de 30.050,61 euros hasta 90.151,82 euros: 0,08 %.
+
+• Escala cuarta. Por lo que exceda de 90.151,82 euros hasta 240.404,84 euros: 0,06 %.
+
+• Escala quinta. Por lo que exceda de 240.404,84 euros hasta 601.012,10 euros: 0,038 %.
+
+• Escala sexta. Por lo que exceda de 601.012,10 euros hasta 1.202.024,21 euros: 0,02 %.
+
+• Escala séptima. Por lo que exceda de 1.202.024,21 euros hasta 6.010.121,04 euros: 0,009 %.
+
+• Escala octava. Por lo que exceda de 6.010.121,04 euros, el 0,005 %.
+
+En todo caso, el arancel global aplicable regulado en este número no podrá superar los 2.181,673939 euros.
+
+Gozarán de la bonificación del 50 por 100 de los derechos que resulten por aplicación de las escalas de este número las Administraciones Públicas o sus organismos, en las inscripciones o anotaciones de las Entidades en que los mismos participen y en relación con el capital que en cada una de ellas les pertenezca.
+
+En los anteriores supuestos previstos en este número se aplicará una rebaja del 5 por 100 del importe del arancel a percibir por el registrador mercantil. Esta rebaja también se llevará a cabo, en todo caso, en los supuestos previstos en los números siguientes en los que el arancel resulte de la aplicación de la escala prevista en este número 5 y con carácter adicional a los demás descuentos y rebajas previstos en la normativa vigente.
+
+Por la inscripción de la constitución de sociedades de responsabilidad limitada por vía telemática que no tuvieren entre sus socios personas jurídicas ni un capital social superior a 30.000 euros y cuyo órgano de administración delimitado en los estatutos sociales se estructure como un administrador único, varios administradores solidarios, cualquiera que sea su número, o dos administradores mancomunados, se percibirá, por todos los conceptos, la cantidad fija de 100 euros. Dicha cantidad será, por todos los conceptos, de 40 euros cuando, además de los requisitos anteriores, el capital social de las sociedades de responsabilidad limitada no sea superior a 3.100 euros y sus estatutos se adapten a algunos de los aprobados por el Ministerio de Justicia.
+
+> Se modifica por el art. 3.1 del Real Decreto 1612/2011, de 14 de noviembre. [Ref. BOE-A-2011-17962](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17962).
+
+> Véase la disposición adicional 8.1.3 del Real Decreto-ley 8/2010 de 20 de mayo. [Ref. BOE-A-2010-8228](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8228)., que aplica una rebaja del 5% al importe de los derechos de los registradores.
+
+> Se sustituye la conversión a euros de las cuantías contempladas por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+> Se modifica la escala 8 y se añade un inciso final por el art. 36.3 del Real Decreto-Ley 6/2000, de 23 de junio. [Ref. BOE-A-2000-11836](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-11836).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 154, de 28 de junio de 2000. [Ref. BOE-A-2000-12137](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-12137)
+
+## Número 6
+
+Por la inscripción o anotación de la ampliación o reducción del capital se percibirán los derechos señalados en el número 5, tomando como base la parte del capital aumentado o reducido.
+
+Por la inscripción o anotación de los sucesivos desembolsos del capital social, se percibirán igualmente los derechos del número 5, reducidos al 25 por 100 de su importe.
+
+Por la inscripción del acuerdo de concesión a los Administradores de la facultad de ampliar el capital social o bien para emitir obligaciones, se percibirá la cuarta parte de los derechos que corresponderían por la inscripción de ampliación o emisión, con un máximo de 12,020242 euros.
+
+> Se sustituye la conversión a euros de la cuantía contemplada en el párrafo tercero por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierte a euros la cuantía contemplada en el párrafo tercero por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+## Número 7
+
+a) Por la modificación de los pactos sociales que no alteren la estructura social, cuando los instrumentos públicos indiquen cuáles son los pactos o artículos modificados, se percibirán 1,803036 euros por la primera modificación y 0,601012 euros más por cada uno de los restantes artículos modificados, sin que los derechos totales a percibir puedan exceder de la mitad de los que corresponderían con arreglo al número 5 por la constitución de la Sociedad, con un máximo de 12,020242 euros.
+
+b) Si en la escritura se transcriben de nuevo todos los estatutos sin indicar la extensión de las modificaciones, se percibirán además 1,803036 euros por derechos de cotejo del documento.
+
+> Se sustituye la conversión a euros de las cuantías contempladas por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+## Número 8
+
+Por la inscripción o anotación del Sindicato de Obligacionistas se devengará la cuarta parte de los derechos del número 5 que correspondan a la emisión, con un máximo de 18,030363 euros.
+
+Por la modificación de las reglas fundamentales que hayan de regir las relaciones entre la Sociedad y el Sindicato de Obligacionistas, así como por la de los Estatutos y Reglamentos por los que se rija el Sindicato, se devengarán los derechos señalados en el número 7.
+
+> Se sustituye la conversión a euros de la cuantía contemplada en el párrafo primero por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierte a euros la cuantía contemplada en el párrafo primero por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+## Número 9
+
+a) Por la inscripción de sucursales o agencias de Sociedades extranjeras se percibirán los derechos del número 5 sobre la base de la cuantía del capital que en cada una de aquéllas destinen a sus operaciones en España.
+
+b) Por la inscripción de sucursales, agencias o cualesquiera otras dependencias de Sociedades españolas se percibirá la mitad de los derechos del número 5 sobre la base del capital que se asigne a las mismas, con tope de 12,020242 euros.
+
+c) Por la inscripción de cierre de sucursales y demás dependencias a que se refieren los dos apartados precedentes se percibirá la mitad de los derechos que correspondan con arreglo a los mismos, con un límite máximo de 6,010121 euros.
+
+> Se sustituye la conversión a euros de las cuantías contempladas en las letras b) y c) por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas en las letras b) y c) por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+## Número 10
+
+Por la separación de socios colectivos, comanditarios o de responsabilidad limitada o la admisión de otros nuevos, siempre que ello no dé lugar a reducción o ampliación de capital, se devengarán los derechos del número 5 sobre la base del valor de la aportación o participación respectiva.
+
+## Número 11
+
+Por la inscripción o anotación de la disolución de Sociedades se devengará la mitad de los derechos del número 5.
+
+## Número 12
+
+Por la anotación preventiva de la demanda de impugnación de acuerdos sociales se devengará la mitad de los derechos del número 5 sobre la base de la cuantía de la impugnación, con un máximo de 12,020242 euros. Si el acuerdo impugnado no tuviese cuantía determinada, se devengarán 6,010121 euros.
+
+Los mismos derechos devengarán las inscripciones de resoluciones judiciales declarando la nulidad de acuerdos sociales. Las anotaciones de las resoluciones judiciales que ordenen la suspensión de los acuerdos sociales impugnados devengarán la tercera parte de los derechos del párrafo primero de este número, con un máximo de 3,005061 euros.
+
+> Se sustituye la conversión a euros de las cuantías contempladas por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+#### C. Disposiciones comunes a los comerciantes individuales y Sociedades.
+
+## Número 13
+
+a) Por la inscripción de autorizaciones, licencias maritales, renuncias, revocaciones, limitaciones, o ampliaciones de facultades, así como por los de nombramientos o revocación de consejeros, gerentes, censores de cuentas, administradores o personas que ostenten o desempeñen la gestión social u otros cargos sociales y la de comisarios de los sindicatos de obligacionistas 24,040484 euros. Por la inscripción de la aceptación de los cargos, si se realiza en documento independiente, 24,040484 euros.
+
+b) Por la inscripción de poderes o sustituciones a favor de un solo apoderado, 24,040484 euros y si el poder contuviera más de un apoderado 1,442429 euros más por cada uno, siempre que a los mismos se les concedan idénticas facultades; en caso contrario, se considerarán como varios poderes.
+
+> Se sustituye la conversión a euros de las cuantías contempladas por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+## Número 14
+
+Por cada inscripción o anotación practicada por suspensión de pagos o quiebra se devengará la cuarta parte de los derechos que correspondan conforme al número 5, sobre la base del capital social y con un mínimo de 1,803036 euros y un máximo de 30,050605 euros. Cuando se trate de comerciante individual, se devengarán por cada inscripción o anotación 1,803036 euros.
+
+> Se sustituye la conversión a euros de las cuantías contempladas por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+#### D. Buques y aeronaves.
+
+## Número 15
+
+Por la inscripción o anotación de cada buque y por la constitución de derechos sobre el mismo, aunque se halle en construcción, se devengarán los derechos del número 5, pero cuando el valor exceda de 450.759,08 euros, sobre el exceso se devengará solamente el 0,01 por 100 (una centésima por ciento), con un tope máximo de 240,404842 euros.
+
+> Se sustituye la conversión a euros de las cuantías contempladas por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+## Número 16
+
+Por la inscripción o anotación de cada aeronave y por la constitución de derechos sobre la misma, aunque se halle en construcción, se devengarán las cantidades fijadas en la escala sexta del número 5, con un mínimo de 3,005061 euros y un tope de 150,253026 euros.
+
+> Se sustituye la conversión a euros de las cuantías contempladas por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+#### E. Disposiciones comunes.
+
+## Número 17
+
+Por la conversión de anotaciones en inscripciones o cancelaciones se devengará la mitad de los derechos de la inscripción o cancelación correspondiente. Se exceptúa de la regla anterior el supuesto de conversión de las anotaciones practicadas por defecto subsanable, cuando en virtud de recurso gubernativo se declare inscribible el documento, bien por el Registrador, bien por la Dirección General, en cuyo caso no se devengarán derechos por la conversión.
+
+Las mismas reglas del párrafo anterior se aplicarán cuando se haya tomado anotación preventiva de suspensión por defecto subsanable y el asiento que en definitiva haya de practicarse como consecuencia de la conversión o, en su caso, del recurso sea también una anotación preventiva.
+
+## Número 18
+
+Por la rectificación de asientos practicada a instancia de parte por errores en el título se devengará la mitad de los derechos que correspondan a la inscripción rectificada, si la rectificación supusiese adquisición, modificación o extinción de los derechos inscritos, con un tope de 12,020242 euros. En otro caso se percibirán los derechos señalados en el número 7 de este Arancel.
+
+En ningún caso devengará honorarios la rectificación de asientos debida a error del Registrador.
+
+> Se sustituye la conversión a euros de la cuantía contemplada en el párrafo primero por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierte a euros la cuantía contemplada en el párrafo primero por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+## Número 19
+
+Por la cancelación de cada inscripción, anotación o nota marginal, se devengará la mitad de los derechos que correspondan al asiento cancelado.
+
+Si la cancelación o amortización fuese parcial, se tomará como base el valor de la parte cancelada.
+
+## Número 20
+
+Por la inscripción o anotación de todo acto o contrato de cuantía indeterminada y que no se halle comprendido en las disposiciones de este Arancel, se devengarán 3,005061 euros.
+
+Por la inscripción o anotación de uniones o agrupaciones temporales de Empresas constituidas al amparo de la Ley número 196/1963, de 28 de diciembre, se devengarán los derechos del número 5 de este Arancel, tomando como base el 20 por 100 del importe del presupuesto de la obra, servicio o suministro objeto de la agrupación.
+
+Por la Inscripción o anotación de las Entidades Urbanísticas Colaboradoras previstas en los artículos 38 y siguientes del Reglamento de Reparcelaciones del Suelo, Decreto 1006/1966, de 7 de abril, se percibirán los derechos del número 5, tomando como base el valor señalado por el órgano urbanístico competente, con un tope de 30,050605 euros.
+
+Se aplicarán las escalas del número 5 por los asientos de cuantía determinada referentes a las demás Entidades y personas que, por disposiciones especiales, se inscriban en el Registro Mercantil.
+
+Estarán exentas de derechos las notas marginales extendidas en virtud de la Orden de la Presidencia del Gobierno de 17 de enero de 1970.
+
+> Se sustituye la conversión a euros de las cuantías contempladas en los párrafos primero y tercero por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas en los párrafos primero y tercero por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+### Notas marginales
+
+## Número 21
+
+a) Las notas al margen del asiento de presentación y las de inscripción, anotación y cancelación extendidas al pie del título, devengarán cada una 0,150253 euros. lguales derechos devengarán las que se consignen en documentos complementarios y las de referencia al margen de inscripciones o anotaciones.
+
+b) Las notas especiales que a instancia de parte se extiendan en los libros del Registro cuando impliquen adquisición o extinción de los derechos inscritos o en cualquier manera los modifiquen y no deba verificarse inscripción o anotación, devengarán cada una 1,803036 euros.
+
+> Se sustituye la conversión a euros de las cuantías contempladas por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+### Manifestaciones y certificaciones
+
+## Número 22
+
+Por la manifestación de cada asiento se devengarán 0,150253 euros. Por la expedición de nota simple informativa se devengarán 0,601012 euros por asiento.
+
+> Se sustituye la conversión a euros de las cuantías contempladas por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+## Número 23
+
+Por la certificación de cualquier asiento del Registro, 1,502530 euros, y sí la certificación comprende más de dos páginas, se cobrarán, además, por cada página que exceda 0,150253 euros.
+
+En los casos de cambio de domicilio a otra circunscripción mercantil, la transcripción en el libro correspondiente de la certificación del Registro de procedencia, devengará los derechos señalados en el párrafo anterior.
+
+No devengará derechos el asiento de referencia que se extienda como consecuencia del cambio de domicilio o matrícula en el Registro originario.
+
+> Se sustituye la conversión a euros de las cuantías contempladas en el párrafo primero por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas en el párrafo primero por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+## Número 24
+
+Por la certificación de no constar en el Registro determinado asiento o circunstancia, se devengarán 0,601012 euros.
+
+Por la busca para manifestaciones, notas simples o certificaciones, cuando no se determinen los datos registrales o se expresen con error, se devengará el 10 por 100 de los derechos que correspondan con arreglo al número 5 con un mínimo de 0,300506 euros y un máximo de 1,502530 euros.
+
+> Se sustituye la conversión a euros de las cuantías contempladas por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+### Depósitos y ratificaciones
+
+## Número 25
+
+a) Por el depósito de libros en el caso previsto en los artículos 49 y 99 del Código de Comercio y 168 de la Ley de Sociedades Anónimas, se percibirán por cada libro y año que deba subsistir el depósito 0,030051 euros.
+
+b) Por el depósito de matrices y títulos transferibles por endoso o al portador, garantizados con hipoteca, se percibirá por la matriz de cada título 0,000060 euros por cada año que deba subsistir el depósito, con un tope de 18,030363 euros por cada emisión.
+
+c) Por el depósito de documentos de tráfico de Sociedades liquidadas conforme al artículo 168 de la Ley de Sociedades Anónimas, se percibirán 3,005061 euros por todos los correspondientes a cada Sociedad.
+
+d) Si de la Ley o de los documentos depositados no resultase la duración del depósito se estimará esta duración en veinte años.
+
+> Se sustituye la conversión a euros de las cuantías contempladas en las letras a), b) y c) por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierten a euros las cuantías contempladas en las letras a), b) y c) por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+## Número 26
+
+Por cada diligencia de ratificación de documentos privados, de identificación de personalidad de los otorgantes o interesados, o de comparecencia de alguno de ellos ante el Registradora los fines previstos en la Ley Hipotecaria Naval o en otras disposiciones, se percibirán 0,601012 euros.
+
+> Se sustituye la conversión a euros de la cuantía contemplada por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierte a euros la cuantía contemplada por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+## DISPOSICIONES ADICIONALES
+
+##### Primera.
+
+Corresponderá a la Mutualidad Benéfica de los Registradores de la Propiedad y de su Personal Auxiliar por cada asiento de presentación y sus correspondientes notas, 20 pesetas. También corresponderá a dicha Mutualidad el 80 por 100 de los derechos que se devenguen por aplicación de este Arancel sobre una cuantía de más de 100 millones de pesetas.
+
+Un ejemplar del presente Arancel, así como tablas de aplicación de las escalas del número 5 estarán a disposición del público en todos los Registros Mercantiles.
+
+##### Segunda.
+
+La revisión y actualización del presente Arancel se llevará a efecto cada diez años o antes si las circunstancias lo aconsejan.
+
+##### Tercera.
+
+Cuando a solicitud del presentante o interesado se despache un título en plazo inferior al de cuatro días o se expida una certificación en plazo inferior a dos días, se devengará por concepto de urgencia el 20 por 100 de los derechos que correspondan con un tope máximo de 12,020242 euros.
+
+> Se sustituye la conversión a euros de la cuantía contemplada por el art. 16 de la Instrucción de 22 de mayo de 2002. [Ref. BOE-A-2002-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12290).
+
+> Se convierte a euros la cuantía contemplada por el art. 16 de la Instrucción de 14 de diciembre de 2001. [Ref. BOE-A-2001-24394](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24394).
+
+##### Cuarta.
+
+El conocimiento y resolución de los expedientes de impugnación de derechos incumbe, en todo caso, a la Dirección General de los Registros y del Notariado. Cuando se interponga recurso de reforma, los Registradores Mercantiles solicitarán informe de la Junta de Gobierno del Colegio Nacional de Registradores.
+
+##### Quinta.
+
+El importe de los derechos devengados, la base tenida en cuenta para su cálculo y los números del arancel aplicados se hará constar al pie del título registrado, al final de la certificación o nota informativa, en su caso, y tras la nota de despacho que se hubiere practicado en el libro diario.
+
+Los derechos devengados por los registradores con arreglo a estos aranceles se consignarán en la oportuna minuta, en la que deberán expresarse los suplidos, conceptos, bases y números del arancel. La minuta, que irá firmada por el Registrador, incluirá las obligaciones de información que se establecen en el apartado 2 de la disposición adicional octava del Real Decreto-ley 8/2010, de 20 de mayo, por el que se adoptan medidas extraordinarias para la reducción del déficit público y deberá contener mención expresa al recurso que contra ella cabe y el plazo para su impugnación.
+
+Los Registradores entregarán el original de la minuta al interesado y conservarán una copia de la misma.
+
+El modelo de minuta será uniforme para todos los Registros y será aprobado por Resolución de la Dirección General de los Registros y del Notariado.
+
+Las operaciones, con independencia de su modo de tramitación, que no tengan señalados derechos en el arancel no devengarán derecho de cobro ninguno.
+
+> Se añade por el art. 3.2 del Real Decreto 1612/2011, de 14 de noviembre. [Ref. BOE-A-2011-17962](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17962).
+
+> **Información relacionada**
+
+> Véase sobre la aplicación del Arancel de la Propiedad a los números 1 y 13 la disposición adicional 3 del Real Decreto 388/1996, de 1 de marzo, por el que se modifica la demarcación de los Registros Mercantiles. [Ref. BOE-A-1996-7031](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-7031)
